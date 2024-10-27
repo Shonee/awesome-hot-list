@@ -47,7 +47,7 @@ def get_zhihu_hot_json_by_api():
             answer_img = children[0].get('thumbnail')
     
         result.append({
-            'datetime': time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),
+            'datetime': get_current_date("%Y-%m-%d %H:%M:%S"),
             "index": index+1,
             'id': id,
             "type": "知乎热榜",
