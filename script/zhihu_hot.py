@@ -29,6 +29,7 @@ def json_to_csv_pandas(json_data, file_path = '../data/zhihu_hot.csv'):
 
 # 使用 requests 请求知乎 api 数据
 def get_zhihu_hot_json_by_api():
+    import json
     url = "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=100"
     
     responseData = json.loads(get(url)).get("data")
