@@ -66,5 +66,5 @@ if __name__ == '__main__':
     result = get_zhihu_hot_json_by_api()
     print(result)
     date = get_current_date('%Y-%m')
-    json_to_csv_pandas(result, '../data/csv/zhihu_hot_' + date + '.csv')
+    json_to_csv_pandas(result, './data/csv/zhihu_hot_' + date + '.csv')
 
