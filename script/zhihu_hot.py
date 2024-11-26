@@ -22,6 +22,7 @@ def json_to_csv_pandas(json_data, file_path = '../data/zhihu_hot.csv'):
     import os
     import pandas as pd
 
+    print(file_path)
     df = pd.read_json(json_data)
     if os.path.exists(file_path): 
         df.to_csv(file_path, index=False, mode='a', header=False)
@@ -66,5 +67,6 @@ if __name__ == '__main__':
     result = get_zhihu_hot_json_by_api()
     print(result)
     date = get_current_date('%Y-%m')
-    json_to_csv_pandas(result, './data/csv/zhihu_hot_' + date + '.csv')
+    save_result = json_to_csv_pandas(result, './data/csv/zhihu_hot_' + date + '.csv')
+    print(save_result)
 
