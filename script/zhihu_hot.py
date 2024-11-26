@@ -1,5 +1,6 @@
 import time
 import json
+import os
 
 def get(url):
     import requests 
@@ -23,6 +24,8 @@ def json_to_csv_pandas(json_data, file_path = '../data/zhihu_hot.csv'):
     import pandas as pd
 
     print(file_path)
+    print(os.getcwd())
+    print(os.path.dirname(file_path))
     df = pd.read_json(json_data)
     if os.path.exists(file_path): 
         df.to_csv(file_path, index=False, mode='a', header=False)
