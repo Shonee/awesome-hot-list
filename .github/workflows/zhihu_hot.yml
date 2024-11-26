@@ -42,10 +42,10 @@ jobs:
       if: steps.git-status.outputs.changed == 'true'
       run: |
         echo start push
+        ls
         git config --global user.name "shonee"
         git config --global user.email "shonee@gmail.com"
-        
-        git add -A
+        git add .
         git commit -m $(date '+%Y-%m-%d')
         git push
     - name: Push changes
