@@ -26,6 +26,9 @@ def json_to_csv_pandas(json_data, file_path = '../data/zhihu_hot.csv'):
     print(file_path)
     print(os.getcwd())
     print(os.path.dirname(file_path))
+    print(os.listdir(os.getcwd()))
+    print(os.listdir('data/'))
+    print(os.listdir('./data/'))
     df = pd.read_json(json_data)
     if os.path.exists(file_path): 
         df.to_csv(file_path, index=False, mode='a', header=False)
