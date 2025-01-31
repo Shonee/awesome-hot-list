@@ -62,7 +62,8 @@ def generate_archive_json(searcheJsonStr, questsionJsonStr):
     if os.path.exists(file_path): 
         json_data = json.load(open(file_path))
         json_data[NOW] = json.loads(searcheJsonStr) + json.loads(questsionJsonStr)
-    
+    else:
+        get_or_make_file_path(file_path)
     with open(file_path, 'w') as f:
         json.dump(json_data, f, indent=4, ensure_ascii=False)
     logger.debug("json文件保存地址:{}".format(file_path))
