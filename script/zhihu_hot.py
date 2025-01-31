@@ -1,80 +1,152 @@
 import time
 import json
 import os
+import time
+from bs4 import BeautifulSoup
+import urllib.parse
+import pandas as pd
+import logging
+
+# 日志配置
+logging.basicConfig(format='%(asctime)s %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+logger.setLevel(level=logging.DEBUG)
+# logger.setLevel(level=logging.INFO)
+
+ZHIHU_PAGE_HOT_SEARCH = 'https://www.zhihu.com/topsearch'
+ZHIHU_API_HOT_LIST = "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total"
+
+HEADERs = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
 
 def get(url):
     import requests 
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-    }
-    response = requests.get(url, headers=headers, timeout=10)
+    response = requests.get(url, headers=HEADERs, timeout=10)
     if response.status_code == 200:
         return response.text
     else:
         return None
 
-def get_current_date(pattern = "%Y-%m-%d"):
+def get_current_date(pattern):
     import time
     return time.strftime(pattern, time.localtime())
+NOW = get_current_date("%Y-%m-%d %H:%M:%S")
+DATE = get_current_date("%Y-%m-%d")
 
-# json 转 csv
-def json_to_csv_pandas(json_data, file_path = '../data/zhihu_hot.csv'):
-    import os
-    import pandas as pd
+def generate_archive_md(searcheJsonStr, questsionJsonStr):
+    searchMd = '\n'.join(['{}. [{}]({})'.format(item["index"], item["title"], item["url"]) for item in json.loads(searcheJsonStr)])
+    questionMd = '\n'.join(['{}. [{}]({})'.format(item["index"], item["title"], item["url"]) for item in json.loads(questsionJsonStr)])
 
-    print(file_path)
-    print(os.getcwd())
-    print(os.path.dirname(file_path))
-    print(os.listdir(os.getcwd()))
-    print(os.listdir('data/'))
-    print(os.listdir('./data/'))
-    print(os.listdir('./data/csv/'))
-    df = pd.read_json(json_data)
+    md = ''
+    file = os.path.join('template/', 'zhihu_hot_template.md')
+    with open(file) as f:
+        md = f.read()
+
+    md = md.replace("{updateTime}", NOW).replace("{searches}", searchMd).replace("{questions}", questionMd)
+    logger.debug("归档md:{}".format(md))
+
+    saveFile = os.path.join('archives/md/', DATE +'.md')
+    saveText(md, saveFile)
+    logger.debug("归档md文件保存地址:{}".format(saveFile))
+
+def generate_archive_csv(searcheJsonStr, questsionJsonStr):
+    file_path = os.path.join('archives/csv/', DATE +'.csv')
+    saveCsv(searcheJsonStr, file_path)
+    saveCsv(questsionJsonStr, file_path)
+    logger.debug("csv文件保存地址:{}".format(file_path))
+
+def generate_archive_json(searcheJsonStr, questsionJsonStr):
+    file_path = os.path.join('archives/json/', DATE +'.json')
+    json_data = {NOW: json.loads(searcheJsonStr) + json.loads(questsionJsonStr)}
+    if os.path.exists(file_path): 
+        json_data = json.load(open(file_path))
+        json_data[NOW] = json.loads(searcheJsonStr) + json.loads(questsionJsonStr)
+    
+    with open(file_path, 'w') as f:
+        json.dump(json_data, f, indent=4, ensure_ascii=False)
+    logger.debug("json文件保存地址:{}".format(file_path))
+
+# 判断文件目录是否存在, 不存在则创建目录路径
+def get_or_make_file_path(file_path):
+    dirname = os.path.dirname(file_path)
+    if not os.path.exists(dirname): 
+        os.makedirs(dirname) 
+    return dirname
+
+# csv 文本保存
+def saveCsv(jsonStr: str, file_path: str):
+    df = pd.read_json(jsonStr)
+    # a = 追加模式, header=False 省略标题行
     if os.path.exists(file_path): 
         df.to_csv(file_path, index=False, mode='a', header=False)
     else:
+        get_or_make_file_path(file_path)
         df.to_csv(file_path, index=False)
-    return True
 
-# 使用 requests 请求知乎 api 数据
-def get_zhihu_hot_json_by_api():
-    import json
-    url = "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=100"
-    
-    responseData = json.loads(get(url)).get("data")
-    result = []
-    # 打印热搜榜单的标题和热度
-    for index, item in enumerate(responseData):
-        id = item.get("target").get("id")
-        title = item.get("target").get("title")
-        desc = item.get("target").get("excerpt")
-        created = item.get("target").get("created")
-        url = "https://www.zhihu.com/question/"+ str(id)
-        hot = item.get("detail_text")
-        children = item.get('children')
-        if children:
-            answer_img = children[0].get('thumbnail')
-    
-        result.append({
-            'datetime': get_current_date("%Y-%m-%d %H:%M:%S"),
-            "index": index+1,
-            'id': id,
-            "type": "知乎热榜",
-            "title": title,
-            "desc": desc,
-            "hot": hot,
-            "createtime": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(created)),
-            "url": url,
-            'img': answer_img
-        })
-    return json.dumps(result, ensure_ascii=False)
+# 文件内容保存
+def saveText(text: str, file_path: str):
+    logger.debug('text:%s', text)
+    get_or_make_file_path(file_path)
+    with open(file_path, mode='w') as f:
+        f.write(text)
+    return file_path
+
+class Zhihu:
+    # 知乎热门搜索数据
+    def get_hot_search(self):
+        soup = BeautifulSoup(get(ZHIHU_PAGE_HOT_SEARCH), "html.parser")
+        items = soup.find_all("div", class_="TopSearchMain-item")
+        result = []
+        for item in items:
+            title = item.find("div", class_="TopSearchMain-title").text.strip()
+            obj = {
+                "type": "知乎热搜",
+                'datetime': NOW,
+                "index": item.find("div", class_="TopSearchMain-index").text.strip(),
+                'id': None,
+                "title": title,
+                "desc": "",
+                "hot": None,
+                "url": 'https://www.zhihu.com/search?q={}'.format(urllib.parse.quote(title)),
+                'img': "",
+                "createtime": None
+            }
+            result.append(obj)
+        jsonObjResult = json.dumps(result, ensure_ascii=False)
+        logger.debug("知乎热搜数据 ：{}".format(jsonObjResult))
+        return jsonObjResult
+
+    # 知乎热榜数据
+    def get_hot_list(self):
+        responseData = json.loads(get(ZHIHU_API_HOT_LIST)).get("data")
+        result = []
+        for index, item in enumerate(responseData):
+            children = item.get('children')
+            result.append({
+                "type": "知乎热榜",
+                'datetime': NOW,
+                "index": index+1,
+                'id': item.get("target").get("id"),
+                "title": item.get("target").get("title"),
+                "desc": item.get("target").get("excerpt"),
+                "hot": item.get("detail_text"),
+                "url": "https://www.zhihu.com/question/" + str(item.get("target").get("id")),
+                'img': "" if not children else children[0].get('thumbnail'),
+                "createtime": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(item.get("target").get("created")))
+            })
+            jsonObjResult = json.dumps(result, ensure_ascii=False)
+            logger.debug("知乎热榜数据 ：{}".format(jsonObjResult))
+        return jsonObjResult
 
 if __name__ == '__main__':
-    result = get_zhihu_hot_json_by_api()
-    print(result)
-    date = get_current_date('%Y-%m')
-    save_result = json_to_csv_pandas(result, 'data/csv/zhihu_hot_' + date + '.csv')
-    print(save_result)
-    print(os.listdir('./data/csv/'))
+    zhihu = Zhihu()
+    searchData = zhihu.get_hot_search()
+    hotData = zhihu.get_hot_list()
 
+    generate_archive_md(searchData, hotData)   
+    generate_archive_csv(searchData, hotData)
+    generate_archive_json(searchData, hotData)
+
+    # print(os.listdir('data/csv/'))
+    # print(os.listdir('./data/csv/'))
