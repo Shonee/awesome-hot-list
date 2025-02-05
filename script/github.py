@@ -56,7 +56,7 @@ class GitHub:
                 'today_forks': one.find("span", class_="d-inline-block float-sm-right").text.strip(),
                 'url': GITHUB_HOST + one.h2.a["href"],
                 'type': 'GitHub' + language + '_' + date,
-                'datetime': NOW_TIME,
+                'datetime': NOW_TIME
             })
         result = json.dumps(projects, ensure_ascii=False)
         # logger.debug("github 趋势热榜 page ：{}".format(result))
