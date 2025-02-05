@@ -2,7 +2,7 @@ import json
 from enum import Enum
 import os
 import time
-from util import logger,saveText,saveJson,saveCsv, NOW_DATE,NOW_TIME
+from script.util import logger,saveText,saveJson,saveCsv, NOW_DATE,NOW_TIME
 
 GITHUB_HOST = "https://github.com/"
 GITHUB_TREDING_URL = "https://github.com/trending/{}?since={}"
