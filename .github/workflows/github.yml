@@ -35,7 +35,7 @@ jobs:
           git config --local user.email "shonee@gmail.com"
           git config --local user.name "shonee"
           git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
-          git pull --rebase
+          git pull --rebase origin master
 
       # 运行
       - name: Run python
