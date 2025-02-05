@@ -55,7 +55,7 @@ class GitHub:
                 'forks': one.find_all("a", class_="Link Link--muted d-inline-block mr-3")[1].text.strip(),
                 'today_forks': one.find("span", class_="d-inline-block float-sm-right").text.strip(),
                 'url': GITHUB_HOST + one.h2.a["href"],
-                'type': 'GitHub' + language + '_' + date,
+                'type': 'GitHub_' + language + '_' + date,
                 'datetime': NOW_TIME
             })
         result = json.dumps(projects, ensure_ascii=False)
