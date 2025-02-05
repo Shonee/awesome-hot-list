@@ -97,7 +97,7 @@ def generate_md(json_str_data, title) -> str:
             f"![{data.get('title')}]({img_url}) \n\n"
             f"**🔥名称**：{data['title']} \n\n"
             f"**🧑‍💻作者**：{data['author']} \n\n"
-            f"**🎬描述**：{data['description']} \n\n"
+            f"**🎬描述**：{data['desc']} \n\n"
             f"**🔗地址**: [立即访问]({data['url']}) \n\n"
             f"**👀语言**: 🔺{data['language']} \n\n"
             f"**⭐stars**：{data['stars']} \n\n"
