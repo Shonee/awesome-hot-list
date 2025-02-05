@@ -46,18 +46,18 @@ def generate_archive_md(searcheJsonStr, questsionJsonStr):
     md = md.replace("{updateTime}", NOW).replace("{searches}", searchMd).replace("{questions}", questionMd)
     logger.debug("归档md:{}".format(md))
 
-    saveFile = os.path.join('archived/md/', DATE +'.md')
+    saveFile = os.path.join('archived/zhihu/md/', DATE +'.md')
     saveText(md, saveFile)
     logger.debug("归档md文件保存地址:{}".format(saveFile))
 
 def generate_archive_csv(searcheJsonStr, questsionJsonStr):
-    file_path = os.path.join('archived/csv/', DATE +'.csv')
+    file_path = os.path.join('archived/zhihu/csv/', DATE +'.csv')
     saveCsv(searcheJsonStr, file_path)
     saveCsv(questsionJsonStr, file_path)
     logger.debug("csv文件保存地址:{}".format(file_path))
 
 def generate_archive_json(searcheJsonStr, questsionJsonStr):
-    file_path = os.path.join('archived/json/', DATE +'.json')
+    file_path = os.path.join('archived/zhihu/json/', DATE +'.json')
     json_data = {NOW: json.loads(searcheJsonStr) + json.loads(questsionJsonStr)}
     if os.path.exists(file_path): 
         json_data = json.load(open(file_path))
