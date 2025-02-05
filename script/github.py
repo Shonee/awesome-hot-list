@@ -48,15 +48,15 @@ class GitHub:
             projects.append({
                 'index':idx+1,
                 'title': one.h2.a["href"].split("/")[2],
-                'description': one.p.text.strip() if one.p else "",
+                'desc': one.p.text.strip() if one.p else "",
                 'author': [a.img["alt"][1:] for a in one.find("span",class_="d-inline-block mr-3").find_all("a", class_="d-inline-block")][0],
                 'language': languageSpan.text.strip() if languageSpan else "",
                 'stars': one.find_all("a", class_="Link Link--muted d-inline-block mr-3")[0].text.strip(),
                 'forks': one.find_all("a", class_="Link Link--muted d-inline-block mr-3")[1].text.strip(),
                 'today_forks': one.find("span", class_="d-inline-block float-sm-right").text.strip(),
                 'url': GITHUB_HOST + one.h2.a["href"],
-                'type': language + '_' + date,
-                'create_time': 
+                'type': 'GitHub' + language + '_' + date,
+                'datetime': NOW,
             })
         result = json.dumps(projects, ensure_ascii=False)
         # logger.debug("github 趋势热榜 page ：{}".format(result))
