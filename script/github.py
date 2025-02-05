@@ -78,7 +78,7 @@ def save_file():
     generate_archive_csv(json_data_str)
 
 def generate_archive_json(githubTrendingJsonStr):
-    file_path = os.path.join('/Users/a416727/VsCodeProjects/github/Python/PythonScript/script/spider/news/temp/archives/github/json/', NOW_DATE +'.json')
+    file_path = os.path.join('archived/github/json/', NOW_DATE +'.json')
     json_data = json.load(open(file_path)) if os.path.exists(file_path) else {}
     json_data[NOW_TIME] = json.loads(githubTrendingJsonStr)
     saveJson(json_data, file_path)
@@ -115,11 +115,11 @@ def generate_archive_md(json_str_data):
         md += generate_md(json.dumps(value), f"## {key} 热榜\n\n")
 
     # logger.debug("归档md:{}".format(md))
-    saveFile = os.path.join('/Users/a416727/VsCodeProjects/github/Python/PythonScript/script/spider/news/temp/archives/github/md/', NOW_DATE +'.md')
+    saveFile = os.path.join('archived/github/md/', NOW_DATE +'.md')
     saveText(md, saveFile)
 
 def generate_archive_csv(jsonStr: str):
-    file_path = os.path.join('/Users/a416727/VsCodeProjects/github/Python/PythonScript/script/spider/news/temp/archives/github/csv/', NOW_DATE +'.csv')
+    file_path = os.path.join('archived/github/csv/', NOW_DATE +'.csv')
     csv_list = []
     # [csv_list.append(item) for item in json.loads(jsonStr).values()] # 结果 [[1,2][3,4]]
     [csv_list.extend(item) for item in json.loads(jsonStr).values()]
