@@ -1,6 +1,6 @@
 # This workflow will scrap GitHub trending projects daily.
 
-name: zhihu
+name: zhihu_hot
 
 on:
   # schedule:
