@@ -55,7 +55,8 @@ class GitHub:
                 'forks': one.find_all("a", class_="Link Link--muted d-inline-block mr-3")[1].text.strip(),
                 'today_forks': one.find("span", class_="d-inline-block float-sm-right").text.strip(),
                 'url': GITHUB_HOST + one.h2.a["href"],
-                'type': language + '_' + date
+                'type': language + '_' + date,
+                'create_time': 
             })
         result = json.dumps(projects, ensure_ascii=False)
         # logger.debug("github 趋势热榜 page ：{}".format(result))
@@ -92,16 +93,16 @@ def generate_md(json_str_data, title) -> str:
         logger.debug("data:{}".format(data))
         img_url = 'https://s0.wp.com/mshots/v1/{url}?w=600&h=450'.format(url=data['url'])
         item = (
-            f"### [{data['index']}. {data['title']}]({data['url']})\n"
-            f"![{data.get('title')}]({img_url})\n"
-            f"**🔥名称**：{data['title']}\n"
-            f"**🧑‍💻作者**：{data['author']}\n"
-            f"**🎬描述**：{data['description']}\n"
-            f"**🔗地址**: [立即访问]({data['url']})\n"
-            f"**👀语言**: 🔺{data['language']}\n"
-            f"**⭐stars**：{data['stars']}\n"
-            f"**📍forks**：{data['forks']}\n\n"
-            f"---\n\n"
+            f"### [{data['index']}. {data['title']}]({data['url']}) \n\n"
+            f"![{data.get('title')}]({img_url}) \n\n"
+            f"**🔥名称**：{data['title']} \n\n"
+            f"**🧑‍💻作者**：{data['author']} \n\n"
+            f"**🎬描述**：{data['description']} \n\n"
+            f"**🔗地址**: [立即访问]({data['url']}) \n\n"
+            f"**👀语言**: 🔺{data['language']} \n\n"
+            f"**⭐stars**：{data['stars']} \n\n"
+            f"**📍forks**：{data['forks']} \n\n"
+            f"--- \n\n"
         )
         md += item
     # logger.debug("归档md:{}".format(md))
