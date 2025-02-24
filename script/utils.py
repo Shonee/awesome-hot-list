@@ -18,6 +18,27 @@ def get_current_date(pattern = "%Y-%m-%d %H:%M:%S"):
 NOW_TIME = get_current_date("%Y-%m-%d %H:%M:%S")
 NOW_DATE = get_current_date("%Y-%m-%d")
 
+def url_encode(url):
+    from urllib.parse import quote
+    return quote(url)
+
+def url_decode(url):
+    from urllib.parse import unquote
+    return unquote(url)
+
+def get(url, res_type='text'):
+    import requests
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
+    response = requests.get(url, headers=headers, timeout=15, verify=False)
+    response.raise_for_status()  # Raises HTTPError for bad responses
+    assert response.status_code == 200
+    if response.status_code == 200:
+        return response.json() if res_type == 'json' else response.text
+    else:
+        return None
+
 
 # 文件内容保存：text、md、html
 def saveText(text: str, file_path: str):
