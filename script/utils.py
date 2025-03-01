@@ -18,6 +18,15 @@ def get_current_date(pattern = "%Y-%m-%d %H:%M:%S"):
 NOW_TIME = get_current_date("%Y-%m-%d %H:%M:%S")
 NOW_DATE = get_current_date("%Y-%m-%d")
 
+# 获取当前时间 年月日
+def get_current_year_month_day():
+    from datetime import datetime
+    current_time = datetime.now()
+    year = str(current_time.year)
+    month = "{:02d}".format(current_time.month)
+    day = "{:02d}".format(current_time.day)
+    return year, month, day
+
 def url_encode(url):
     from urllib.parse import quote
     return quote(url)
