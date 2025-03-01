@@ -1,10 +1,10 @@
 name: douyin_hot
 
 on:
-  # schedule:
+  schedule:
   # At minute 5 past every 1th hour.
-    # - cron: "5 */1 * * *"
-  workflow_dispatch: 
+    - cron: "5 */1 * * *"
+  # workflow_dispatch: 
 
 jobs:
   build:
