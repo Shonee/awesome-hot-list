@@ -49,7 +49,7 @@ def generate_archive_md(searcheJsonStr, questsionJsonStr):
 
 def generate_archive_csv(searcheJsonStr, questsionJsonStr):
     y,m,d = get_current_year_month_day()
-    file_path = os.path.join('archived/zhihu/{y}/{m}/csv/', NOW_DATE +'.csv')
+    file_path = os.path.join(f'archived/zhihu/{y}/{m}/csv/', NOW_DATE +'.csv')
     saveCsv(searcheJsonStr, file_path)
     saveCsv(questsionJsonStr, file_path)
     logger.debug("csv文件保存地址:{}".format(file_path))
