@@ -1,115 +1,110 @@
 import json
 import os
-import re
-import requests
-from utils import get,logger,saveText,saveJson,saveCsv,url_encode, NOW_DATE,NOW_TIME
+import logging
 
-class Weibo:
-    def fetch_weibo_hot_json_api(self):
-        import json
-        from datetime import datetime
-
-        url = "https://weibo.com/ajax/statuses/hot_band"
-        try:
-            data = get(url,res_type='json')["data"]["band_list"]
-            hot = []
-            for idx,item in enumerate(data):
-                note = item.get('note', 'Unknown')
-                hot.append({
-                    "index": idx+1, 
-                    "title": note, 
-                    "category" : item.get('category', 'Unknown'), 
-                    "hot" : item.get('raw_hot', 'Unknown'), 
-                    "url": f'https://s.weibo.com/weibo?q={url_encode(note)}&Refer=index',
-                    'createtime': datetime.fromtimestamp(item.get('onboard_time', datetime.now().timestamp())).strftime('%Y-%m-%d %H:%M:%S'),
-                    "datetime" : NOW_TIME
-                })
-            result = json.dumps(hot, ensure_ascii=False)
-            logger.debug("微博热榜：{}".format(result))
-            return result
-        
-        except requests.RequestException as e:
-            logger.error(f"Request failed: {e}")
-        except KeyError as e:
-            logger.error(f"Key error: {e}")
-        except json.JSONDecodeError as e:
-            logger.error(f"JSON decode error: {e}")
+# 日志配置
+logging.basicConfig(format='%(asctime)s %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+logger.setLevel(level=logging.DEBUG)
+# logger.setLevel(level=logging.INFO)
 
 
- 
-    def fetch_weibo_hot_searches_api(self):
-        import json
+# 获取当前时间
+def get_current_date(pattern = "%Y-%m-%d %H:%M:%S"):
+    import time
+    now = time.strftime(pattern, time.localtime())
+    logger.debug("当前时间：{}".format(now))
+    return now
+NOW_TIME = get_current_date("%Y-%m-%d %H:%M:%S")
+NOW_DATE = get_current_date("%Y-%m-%d")
 
-        url = "https://weibo.com/ajax/statuses/hot_band"
-        try:
-            data = get(url,res_type='json')["data"]["band_list"]
-            hot = []
-            for idx,item in enumerate(data):
-                note = item.get('note', 'Unknown')
-                hot.append({
-                    'index':idx+1, 
-                    'category': item.get('category', ''), 
-                    'title': note,
-                    'hot': item.get('raw_hot', 'Unknown'), 
-                    'url':f'https://s.weibo.com/weibo?q={url_encode(note)}&Refer=index', 
-                    'type': 'Weibo',
-                    'datetime': NOW_TIME})
-            result = json.dumps(hot, ensure_ascii=False)
-            logger.debug("微博热搜：{}".format(result))
-            return result
-        except requests.RequestException as e:
-            logger.error(f"Request failed: {e}")
-        except KeyError as e:
-            logger.error(f"Key error: {e}")
-        except json.JSONDecodeError as e:
-            logger.error(f"JSON decode error: {e}")
- 
+# 获取当前时间 年月日
+def get_current_year_month_day():
+    from datetime import datetime
+    current_time = datetime.now()
+    year = str(current_time.year)
+    month = "{:02d}".format(current_time.month)
+    day = "{:02d}".format(current_time.day)
+    return year, month, day
 
-def save_file():
-    weibo = Weibo()
+def url_encode(url):
+    from urllib.parse import quote
+    return quote(url)
 
-    searches_json_data = weibo.fetch_weibo_hot_searches_api()
-    hot_json_data = weibo.fetch_weibo_hot_json_api()
+def url_decode(url):
+    from urllib.parse import unquote
+    return unquote(url)
 
-    generate_archive_json(searches_json_data, hot_json_data)
-    generate_archive_md(searches_json_data, hot_json_data)
-    generate_archive_csv(searches_json_data, hot_json_data)
+def get(url, res_type='text'):
+    import requests
+    import random
+    user_agent_list = [
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.15'
+        'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36'
+    ]
+    headers = {
+        'User-Agent': random.choice(user_agent_list)
+    }
+    response = requests.get(url, headers=headers, timeout=15, verify=False)
+    response.raise_for_status()  # Raises HTTPError for bad responses
+    assert response.status_code == 200
+    if response.status_code == 200:
+        return response.json() if res_type == 'json' else response.text
+    else:
+        return None
 
 
-def generate_archive_json(searches_json_data, hot_json_data):
-    file_path = os.path.join('archived/weibo/json/', NOW_DATE +'.json')
-    json_data = json.load(open(file_path)) if os.path.exists(file_path) else {}
-    json_data[NOW_TIME] = {'searches': json.loads(searches_json_data), 'hot': json.loads(hot_json_data)}
-    saveJson(json_data, file_path)
+# 文件内容保存：text、md、html
+def saveText(text: str, file_path: str):
+    # logger.debug('text:%s', text)
+    get_or_make_file_path(file_path)
 
-def generate_archive_md(searches_json_data, hot_json_data):
-    """生成Markdown内容并保存到data目录"""
-    # logger.debug("data_list:{}".format(data_list))
-    md = f"# 微博热榜 | {NOW_DATE}\n\n"
-    md += f"> 更新时间：{NOW_TIME}\n\n"
+    with open(file_path, mode='w') as f:
+        f.write(text)
+    logger.debug("文件保存地址:{}".format(file_path))
+    return file_path
 
-    md += f"### 微博热搜内容 \n\n"
-    for data in json.loads(searches_json_data):
-        md += f" [{data['index']}. {data['title']}]({data['url']}) \n\n"
-    
-    md += f"### 微博热榜内容 \n\n"
-    for data in json.loads(hot_json_data):
-        md += f" [{data['index']}. {data['title']}]({data['url']}) \n\n"
+# json 文本保存
+def saveJson(json_str: str, file_path: str):
+    # logger.debug('jsonStr::%s', jsonStr)
+    get_or_make_file_path(file_path)
 
-    # logger.debug("归档md:{}".format(md))
-    saveFile = os.path.join('archived/weibo/md/', NOW_DATE +'.md')
-    saveText(md, saveFile)
+    with open(file_path, 'w') as f:
+        json.dump(json_str, f, indent=4, ensure_ascii=False)
+    logger.debug("json文件保存地址:{}".format(file_path))
+    return file_path
 
-def generate_archive_csv(searches_json_data, hot_json_data):
-    file_path = os.path.join('archived/weibo/csv/', NOW_DATE +'.csv')
-    json_data = {'searches': json.loads(searches_json_data), 'hot': json.loads(hot_json_data)}
-    csv_list = []
-    [csv_list.extend(item) for item in json_data.values()]
-    saveCsv(json.dumps(csv_list, ensure_ascii=False), file_path)
+# csv 文本保存
+def saveCsv(json_str: str, file_path: str):
+    import pandas as pd
+    from io import StringIO
 
-if __name__ == '__main__':
-    weibo = Weibo()
-    # weibo.fetch_weibo_hot_json_api()
-    # weibo.fetch_weibo_hot_searches_api()
+    # logger.debug("jsonStr:{}".format(jsonStr))
+    # df = pd.read_json(jsonStr)
+    df = pd.read_json(StringIO(json_str))
+    if os.path.exists(file_path): 
+        # a = 追加模式, header=False 省略标题行
+        df.to_csv(file_path, index=False, mode='a', header=False)
+    else:
+        get_or_make_file_path(file_path)
+        df.to_csv(file_path, index=False)
+    logger.debug("csv文件保存地址:{}".format(file_path))
+    return file_path
 
-    save_file()
+# 判断文件目录是否存在, 不存在则创建目录路径
+def get_or_make_file_path(file_path):
+    dirname = os.path.dirname(file_path)
+    if not os.path.exists(dirname): 
+        os.makedirs(dirname) 
+    return dirname
+
+# 发送到 wx 微信不支持全部 html，支持部分标签
+# def send_wx(html):
+    # wx_push(html)
