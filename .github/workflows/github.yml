@@ -1,10 +1,10 @@
 name: github_trending
 
 on:
-  # schedule:
+  schedule:
   # At minute 5 past every 6th hour.
-    # - cron: "5 */6 * * *"
-  workflow_dispatch: 
+    - cron: "5 */6 * * *"
+  # workflow_dispatch: 
 
 jobs:
   build:
