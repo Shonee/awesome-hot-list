@@ -31,7 +31,7 @@ jobs:
       env:
         zhihu_cookie: ${{ vars.ZHIHU_COOKIE }}
       run: |
-        python ./script/zhihu_hot.py
+        python ./script/zhihu.py
     
     - name: Check for changes
       id: git-status
