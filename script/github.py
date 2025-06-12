@@ -2,7 +2,7 @@ import json
 from enum import Enum
 import os
 import time
-from utils import logger,saveText,saveJson,saveCsv, NOW_DATE,NOW_TIME
+from utils import logger,get_current_year_month_day,saveText,saveJson,saveCsv, NOW_DATE,NOW_TIME
 
 GITHUB_HOST = "https://github.com/"
 GITHUB_TREDING_URL = "https://github.com/trending/{}?since={}"
@@ -79,7 +79,8 @@ def save_file():
     generate_archive_csv(json_data_str)
 
 def generate_archive_json(githubTrendingJsonStr):
-    file_path = os.path.join('archived/github/json/', NOW_DATE +'.json')
+    y,m,d = get_current_year_month_day()
+    file_path = os.path.join(f'archived/github/{y}/{m}/json/', NOW_DATE +'.json')
     json_data = json.load(open(file_path)) if os.path.exists(file_path) else {}
     json_data[NOW_TIME] = json.loads(githubTrendingJsonStr)
     saveJson(json_data, file_path)
@@ -116,11 +117,13 @@ def generate_archive_md(json_str_data):
         md += generate_md(json.dumps(value), f"## {key} 热榜\n\n")
 
     # logger.debug("归档md:{}".format(md))
-    saveFile = os.path.join('archived/github/md/', NOW_DATE +'.md')
+    y,m,d = get_current_year_month_day()
+    saveFile = os.path.join(f'archived/github/{y}/{m}/md/', NOW_DATE +'.md')
     saveText(md, saveFile)
 
 def generate_archive_csv(jsonStr: str):
-    file_path = os.path.join('archived/github/csv/', NOW_DATE +'.csv')
+    y,m,d = get_current_year_month_day()
+    file_path = os.path.join(f'archived/github/{y}/{m}/csv/', NOW_DATE +'.csv')
     csv_list = []
     # [csv_list.append(item) for item in json.loads(jsonStr).values()] # 结果 [[1,2][3,4]]
     [csv_list.extend(item) for item in json.loads(jsonStr).values()]
