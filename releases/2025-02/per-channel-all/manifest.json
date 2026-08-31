@@ -1,0 +1,1081 @@
+{
+  "assets": [
+    {
+      "channels": [
+        "bilibili"
+      ],
+      "file_count": 12,
+      "name": "awesome-hot-list-2025-02-bilibili.tar.gz",
+      "sha256": "3fe0f80927b19abcf2ff7c18d56f0f6997f41d1781065345ac8ffcd4c0c2f5db",
+      "size": 2119663
+    },
+    {
+      "channels": [
+        "github"
+      ],
+      "file_count": 72,
+      "name": "awesome-hot-list-2025-02-github.tar.gz",
+      "sha256": "f6d8280406f5789a17a36c3c52a571abdf18c52a19034846d636e729bb3d6661",
+      "size": 2604132
+    },
+    {
+      "channels": [
+        "weibo"
+      ],
+      "file_count": 15,
+      "name": "awesome-hot-list-2025-02-weibo.tar.gz",
+      "sha256": "356bee9c4e2116626497c8a1b053cfe1fcff8b3a97549e4034fe8ba6a2266c18",
+      "size": 731880
+    },
+    {
+      "channels": [
+        "zhihu"
+      ],
+      "file_count": 72,
+      "name": "awesome-hot-list-2025-02-zhihu.tar.gz",
+      "sha256": "d27bc9d41a4f71375832e89cf35fe2b85b877446a66d80829290836950bd0cd4",
+      "size": 10990703
+    }
+  ],
+  "channels": [
+    "bilibili",
+    "github",
+    "weibo",
+    "zhihu"
+  ],
+  "file_count": 171,
+  "files": [
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/csv/2025-02-25.csv",
+      "sha256": "7c7789539d57163d3c322047427b43ca6f451dc50fc821e24d81395c4cea8504",
+      "size": 643348
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/csv/2025-02-26.csv",
+      "sha256": "d6407a8a134fedb07d85cef7921976727cfca1975a6aa3d0da633837c77b1a16",
+      "size": 685354
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/csv/2025-02-27.csv",
+      "sha256": "c737f952f7c7ff4a15e6e6cdc991996bf514c22621509cfce8401592930ffefc",
+      "size": 627694
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/csv/2025-02-28.csv",
+      "sha256": "c17a29767455b7ecc32b50b357b8cc44ce2e64a0ff8a55f63e41e9c8e73168e8",
+      "size": 612428
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/json/2025-02-25.json",
+      "sha256": "c69c929814c5e9dd8feb541e2c652e454033bdc3d4aafb4e1f5f46bd7aca8561",
+      "size": 1227490
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/json/2025-02-26.json",
+      "sha256": "683707f401b9bea5c34b375ea44ead2d2ba5cb32d68d40e5b7f581f24416f525",
+      "size": 1299617
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/json/2025-02-27.json",
+      "sha256": "54d6ca3e536f94a2fb43312e8919135cff27c7ec6a149abd118053651d022a39",
+      "size": 1181306
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/json/2025-02-28.json",
+      "sha256": "4105a0212b93b450f7b1a03719a885d26a17fd037bce4552a74b0b1c9882feb4",
+      "size": 1165653
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/md/2025-02-25.md",
+      "sha256": "e94b519ce267f229bdc8dfdd367dc7cdbc0405fe6d31418ea5077246d2414b0f",
+      "size": 17036
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/md/2025-02-26.md",
+      "sha256": "2663d21aaf461a3fd3c1073120ea9cd1c223f357948fa3274a16a1a72ff9a18d",
+      "size": 16982
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/md/2025-02-27.md",
+      "sha256": "c169858bd1c44172b7efbe8388234e3328ebe274d999a43c75ce1b41970250f6",
+      "size": 16861
+    },
+    {
+      "channel": "bilibili",
+      "path": "archived/bilibili/md/2025-02-28.md",
+      "sha256": "4f7d3fba23e3a897ff3eb80a47d0b8459d8843afcf2f11fbfe2ab223e136d6f8",
+      "size": 16942
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-05.csv",
+      "sha256": "19b20f94b93fc2b3ecbda4ed8079f074d04222c78cd7979f39a1184fb57dbe55",
+      "size": 71453
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-06.csv",
+      "sha256": "8710183da4dcd27972151d2a223a96be1c6fdd4c8d5bcc4d069b0d6d73dc0a7f",
+      "size": 145352
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-07.csv",
+      "sha256": "dc4218ca39430b8da2a4e9d0991a0d4fe65a7ff87dd46dbf2ce5443ba01a079d",
+      "size": 145784
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-08.csv",
+      "sha256": "7576b08daf270fc180077365d111b8aa0b81a39af14f49fa8588ee2f178b9a8c",
+      "size": 150667
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-09.csv",
+      "sha256": "b5649c9e1654446f09504d2d96c736265b348b95b6e261709933971cd59cc403",
+      "size": 163717
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-10.csv",
+      "sha256": "d2e4c6ed6f26cd8749ff30b5fedaff2d0d2604eaccf6f2f4718119866cf7604f",
+      "size": 170162
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-11.csv",
+      "sha256": "bf76cf3a99574923c1caf81747db529d47289e1822c778fc25d4de0384d770ae",
+      "size": 125224
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-12.csv",
+      "sha256": "4aaad4ee2523e75dc70b2aaea2e076ade61287dd4f12092f370f28a90808a368",
+      "size": 176275
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-13.csv",
+      "sha256": "345f11d6bf6ad80e6cfd44679e192667b4e60a046ef70fa0f4a8f74982852bc7",
+      "size": 174119
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-14.csv",
+      "sha256": "207451376b35ce1228a7aab2b970c43eeab05ee1a44dc6af86cd65887b31793a",
+      "size": 173891
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-15.csv",
+      "sha256": "4417c8a342de440ba67c1c3eaeffdc9f2f22b82e28808d9f68ee2df4db8a7a60",
+      "size": 172679
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-16.csv",
+      "sha256": "7d95a3fe6d8e6d43d89ee9328a2a2b17130d735dc12d4fc83dd4531c08c747fc",
+      "size": 177680
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-17.csv",
+      "sha256": "245dbfc022397b5bea193989994e0df144aea3ac3c37fde8dd0860620af61449",
+      "size": 172235
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-18.csv",
+      "sha256": "7a06412e36fbaea94f02a3799c07e0751b84d40e9dcfb4b6aa779342bc50c370",
+      "size": 170696
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-19.csv",
+      "sha256": "dba0e10b990f684153ceff353aa82399fc0e7950df3bb46e11ef4006f8cd84a0",
+      "size": 162710
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-20.csv",
+      "sha256": "ac7218d847ae18aee25dc95e943dda13e8c4a9671d222aa911be0075e70c0a65",
+      "size": 161243
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-21.csv",
+      "sha256": "d22f6f11941ab5ee75c607b8ba29603c6f9badefcb3acd7cdf55a31bd8d80076",
+      "size": 163374
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-22.csv",
+      "sha256": "4f878d29323ba4a709326d97c41b357bc6d504aa1a6a7827266130efaef05a10",
+      "size": 163165
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-23.csv",
+      "sha256": "12e96dc24169ae5d93427413028f55540339d7e3040f5cecc762140a6190aa49",
+      "size": 166028
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-24.csv",
+      "sha256": "cb209a3e1b400f625198b1e645840b316232ec2c358901fd318a6dd2d7e51986",
+      "size": 160131
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-25.csv",
+      "sha256": "aaca3873f00e9e4a1693020fd09bdbd0d9aae52ef1277a6640030699ee0119ee",
+      "size": 164526
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-26.csv",
+      "sha256": "adb2fb1b85c3cd081ab7541b6bfa99314d1407a8359c6904e02f5948b6a9c50a",
+      "size": 153990
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-27.csv",
+      "sha256": "124a903af471dc04737b714caa308e301e967e1f4defa021bc5b33d23fb1f3f7",
+      "size": 150987
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/csv/2025-02-28.csv",
+      "sha256": "3ffbd991f9cb73a0f18c4c443bc4080279f7d4ae2706ed1583a6d9e43d021e1c",
+      "size": 150042
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-05.json",
+      "sha256": "ecc72abcc98889e4a14b335c2351a122a7e0ca64b8ec064824a3beb87470c209",
+      "size": 254207
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-06.json",
+      "sha256": "52b5ddf220ce9e6601f9d4741746178e6e5d1bb56c6e9b891018e38d70305e6e",
+      "size": 355318
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-07.json",
+      "sha256": "f4e76e1193ca35b276498e333866bf763e85e8b946117af8c515b98f7b8f55ec",
+      "size": 350587
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-08.json",
+      "sha256": "e525de6670e467ce30756eeda7b1f9e759782324d6ab323553ca61b4e185d456",
+      "size": 358808
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-09.json",
+      "sha256": "91f6a719bd73a69496afaf3e17c545bdd6018e6856da8a7b197ea821ec3b8871",
+      "size": 380604
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-10.json",
+      "sha256": "954eaf849310c7ccacd698a0f397afcdf119cce991df743956ddea536afa288e",
+      "size": 394770
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-11.json",
+      "sha256": "8fd30f88e0f7a45644f775361e1554af3886c8bbb0196619f3b6d998fea38836",
+      "size": 291335
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-12.json",
+      "sha256": "6010b75df057ef164f6d85a40bae8f7d1d2eeaedf0c0e7c7755afac77f1fd218",
+      "size": 404223
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-13.json",
+      "sha256": "3c6228ccdadf6f05b5ded91de6ae5e9655760a086d29b0fdd2a9f6d723de5f44",
+      "size": 400777
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-14.json",
+      "sha256": "e7582e59377c7b72c533ff649c8966df7b0407c7f9d840c02d7467f83224556e",
+      "size": 396511
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-15.json",
+      "sha256": "c32c1f1b7c4723c2ae789e8258f1c4a8ce29b12792c66f4e9f2423092042af6b",
+      "size": 389440
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-16.json",
+      "sha256": "ba0aaf2a5f1840c8f62926e2c8abd094d2e83b63c3ebb3e04158a187e8433ba3",
+      "size": 400565
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-17.json",
+      "sha256": "1cd06eeafbacacf0d4fcbfe3af71f10e4dae34f975f39332480a35a0d7992db1",
+      "size": 398213
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-18.json",
+      "sha256": "340eb9e63c68f1450b40a266d3b880fc14db4a496c8d5b0f601db36748b7c843",
+      "size": 393581
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-19.json",
+      "sha256": "956dfdc11c00f55dde8ac9546af532ba8de8b3600ea71e84c3f1c4c2737e9397",
+      "size": 381932
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-20.json",
+      "sha256": "09f07a376d67a54beddcd7958b3b20d566b5aa80fa7c27856a8dadd516fa9fd0",
+      "size": 380561
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-21.json",
+      "sha256": "6dfc30df4058d46562a2a348ca4f7e029fd4390a4c5aa2560e5124f908d33b15",
+      "size": 385103
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-22.json",
+      "sha256": "6566d3887e09ecf3ae042103f358cb0b8437cb884c624456ecf737a6b32a4a98",
+      "size": 386256
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-23.json",
+      "sha256": "8837e0950103e2becc61588b4fd3c48bd571a015814c9e84492dd365bb671c9c",
+      "size": 390463
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-24.json",
+      "sha256": "1959b720752bfcf568a8a8edd845da51b0447d11cb59ff648009566bb166df12",
+      "size": 379728
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-25.json",
+      "sha256": "b983c20955978d130a122878e2383d338f813abd4e177509ceb6b3255a2cf368",
+      "size": 389571
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-26.json",
+      "sha256": "f4d9d92fd8a783f767ba0dd0f8b54b06c5ba18b0464f75760eda37aca3cef6fd",
+      "size": 367158
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-27.json",
+      "sha256": "1e59e285591df351fc61bf3754246d1a2a566afb6c93527c6f0f57b2c1c4dda5",
+      "size": 360113
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/json/2025-02-28.json",
+      "sha256": "004739c45299ecee296461998acc02ef658a863d38f5558970b3a78598f7d6bb",
+      "size": 354079
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-05.md",
+      "sha256": "4cf27b83edfd3a218b17a26197f57c7114f44f3b1745ea91ce72e8d0c61bb28c",
+      "size": 76963
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-06.md",
+      "sha256": "f69472d778fed707c5f69d6c0285976c257f2391c3aab2fa4614ecf263e24e4d",
+      "size": 74181
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-07.md",
+      "sha256": "ae80ae27d0ee6cd9fb0a5296bb50b7be029eb56772a242e2546ecd1c507fc4d5",
+      "size": 75557
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-08.md",
+      "sha256": "a3a1737fdb35963ba51ecfa337c8a93e62c2ba7e2930a0d310f2493a7a7860e7",
+      "size": 80667
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-09.md",
+      "sha256": "8c62c2c4420e318afc0032136a2fdba12dc589b20f94776d4f8788ff1f149e73",
+      "size": 84173
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-10.md",
+      "sha256": "66b5a93d345a4e42beef23ca19a7425301c4b479a60295479b28c7904a2b20c4",
+      "size": 85587
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-11.md",
+      "sha256": "5a2e12e03c3769a83d844ca727d87f4f68ad1c8befe19c062150c1e648d71fba",
+      "size": 86016
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-12.md",
+      "sha256": "b3da9dd2ee3a388e6ea0e2df38c8ff0d45b5fc747143eb189ce97c7edb0bc172",
+      "size": 86454
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-13.md",
+      "sha256": "9ef50d79981047652011526d6b83c6a8cbc824cac32792fb4d41988328804ee6",
+      "size": 86251
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-14.md",
+      "sha256": "3d1c3599c0d328f87eb35352e2d97ff3705086b345773a97570673541167ba0b",
+      "size": 83946
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-15.md",
+      "sha256": "1492876ffb4cf6e86cf3385efb20156f04a516cf249b4269d5cc1747839b4107",
+      "size": 86587
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-16.md",
+      "sha256": "09108b334a55305dcd6b874e86850c396977e8a87c47b9a205abed1d66ff0b54",
+      "size": 85151
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-17.md",
+      "sha256": "1334aacf0469a5995c695e9f48dc5eb1eb104a6684e4d3e102d5820431f9dda1",
+      "size": 85434
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-18.md",
+      "sha256": "64d86da7adbab159bcf08f507679022a1224c112b752a1b1924f4140cf5d5fd7",
+      "size": 82281
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-19.md",
+      "sha256": "f18bafe93dc6499f99ad2e3869feca739356dad6742b0b667cf010f4f760aafa",
+      "size": 80924
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-20.md",
+      "sha256": "e8247f8115d2e8ce00db60e5550b0ea2b76230d1b7b8b93edbe80f2ef9a34396",
+      "size": 82434
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-21.md",
+      "sha256": "908382fc7848fba6ef8bf6539e10feb278f2f95e075450fe6c50703604e90332",
+      "size": 82069
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-22.md",
+      "sha256": "06239c3140a82bf93576a453144c4e4d0b4e68a30859d6301280eb229d598b5b",
+      "size": 84878
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-23.md",
+      "sha256": "73d7f96fbbb6beeaf1d5e758dc3dc7e7ed74f63be39091ff2768490881fedd2c",
+      "size": 80874
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-24.md",
+      "sha256": "609a156dc34b966b0ff3dfd93b31eeefc5c418c59c599f6a4f4ff5c8d6060293",
+      "size": 84430
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-25.md",
+      "sha256": "021de131a99d8826fe6d500eda8cd076ee0bb417194e71707f15f71b34811202",
+      "size": 78272
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-26.md",
+      "sha256": "55b3d74507ec046f5a5503ac2f34bbe2edc71c46c106ec6757d6c21de3cfbc27",
+      "size": 77124
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-27.md",
+      "sha256": "636205c66f45a9ca96fd7e4ffb2a7aed3d693bfcd6ad8dec772dfff93c4c8717",
+      "size": 75568
+    },
+    {
+      "channel": "github",
+      "path": "archived/github/md/2025-02-28.md",
+      "sha256": "2929f1717daed129ad9f963cf84842575cd65b73412f29a6976d8e3846c5aa76",
+      "size": 76980
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/csv/2025-02-24.csv",
+      "sha256": "04ae1efb44843fd16993d6b05fd6fb3f488a5a72137d02d15417edf723e95b06",
+      "size": 574932
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/csv/2025-02-25.csv",
+      "sha256": "660be9231e95be8740b0cc4d661f91d2ee2678610d7222e36575cdb3fbef0ffb",
+      "size": 741795
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/csv/2025-02-26.csv",
+      "sha256": "904ca85a2e3529007324f6815c62a7d9a5e224c4ce1b681f28aafb27d4c0524f",
+      "size": 652823
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/csv/2025-02-27.csv",
+      "sha256": "deb4cc80514670bbfdf91e72b31b5081e79ab3d14fee878bbb1f13ba74d8142a",
+      "size": 713033
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/csv/2025-02-28.csv",
+      "sha256": "1cff71d446108b1dc49c8bb1c145631625ab355c85d7053b9a18a66e554f1e6c",
+      "size": 822261
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/json/2025-02-24.json",
+      "sha256": "47e6e6440b71651a9b333db051dc820de25392bebad6cc241deea6214eae03c4",
+      "size": 1165032
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/json/2025-02-25.json",
+      "sha256": "0f1b1e5692235ce16d71be4fa130c55b6bda6a8571d9b00def05cadeca83cf8d",
+      "size": 1489663
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/json/2025-02-26.json",
+      "sha256": "d5c0f8d316a9107d6a9992d138c92f87a591511b18d4060f29cd7c7f0a9cffc0",
+      "size": 1310275
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/json/2025-02-27.json",
+      "sha256": "d8659b58d38db447de9bd96433a9bd5561cf1064d2a8f40e0c287050e58c7943",
+      "size": 1449695
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/json/2025-02-28.json",
+      "sha256": "4f842409ddee5b401747faa9e470e83b898403df58ad9f5821a9f909bb34b253",
+      "size": 1666537
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/md/2025-02-24.md",
+      "sha256": "72079d772267d86934235520b383f50443625bb07d30b44c079c50b01621beb7",
+      "size": 17821
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/md/2025-02-25.md",
+      "sha256": "3f03b7587906a95e379de0bf142761619dee8df62b00487287554c7b4d58e99f",
+      "size": 18351
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/md/2025-02-26.md",
+      "sha256": "c9ded838fb3a8235940f2fb77fd8c540610031a53e120d2991762e32a010755a",
+      "size": 18123
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/md/2025-02-27.md",
+      "sha256": "4232b7486df2e07ef701352c3cf9742ec90727d9d51cda3ff73ce4dc6d3f3e46",
+      "size": 17729
+    },
+    {
+      "channel": "weibo",
+      "path": "archived/weibo/md/2025-02-28.md",
+      "sha256": "ec5755275f07e502fa684110a5d8e277965d2df0de01e8738843c51189ee9ce7",
+      "size": 17141
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-05.csv",
+      "sha256": "17602c03ead8a244adfa9cbad71b375b1a15ed53b50a62295979b4f4ecd15535",
+      "size": 397126
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-06.csv",
+      "sha256": "c4dd932e3e04ffdd1708d0f77fb31b0430a2ead181027fd12145b644ed1fe63c",
+      "size": 678583
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-07.csv",
+      "sha256": "bce1c26526375e3f1d2f24015d6c3908b4fa2bb3676d1689de7c6495c1ab3b84",
+      "size": 666185
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-08.csv",
+      "sha256": "718e6ffa4fe2f355a77c2bf6128af0996f0086ceb71646973d07a949ccd825e9",
+      "size": 660939
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-09.csv",
+      "sha256": "5d1d9fa2e515f73287498b50ef28853822b657927fc525a19ac2311ee44116d3",
+      "size": 641437
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-10.csv",
+      "sha256": "82d28ff06d3ee4fdd515778a8d2908da1a85cd87bdacdc40ee9123fdfcc3550c",
+      "size": 853871
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-11.csv",
+      "sha256": "4f6bcdaed0ddb5a66706cfbcb6999c5c44ceaa2f4971afeb2c14784d7f25912e",
+      "size": 659171
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-12.csv",
+      "sha256": "3582f92cc68b4998f06fcabb7ac54b2f263b58b5be4cbdb4f613ed3f5983e13e",
+      "size": 655892
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-13.csv",
+      "sha256": "90f2b52fcdadc2002e623474994e78bf8588493041dd5dbfac9a400f78ce874f",
+      "size": 702923
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-14.csv",
+      "sha256": "128e901168bbda0a71e851c697803deeae38b8c5d12fcfb3777a893505da55d8",
+      "size": 631142
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-15.csv",
+      "sha256": "ca49218de6e3405be79148272f9397f64d8ca10adbe07330dd000b4a6e9a189d",
+      "size": 756743
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-16.csv",
+      "sha256": "fddf279226e04dd9d898ccb21859a1dc539d7b70686f51e10fcdda53c4d8155f",
+      "size": 631691
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-17.csv",
+      "sha256": "a8f7ad233b014423508073ce68e10cd7d33f2dcffbca341994be50b5698944ac",
+      "size": 644657
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-18.csv",
+      "sha256": "99c8c7a7c60ac65acdf528f32c641fd3f64a0ec4efa840109fd40519577be4e0",
+      "size": 636986
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-19.csv",
+      "sha256": "e613ed7978eb0cfa59731f52e34442bb76be3092575c5a7debf6f93ec00fdb5a",
+      "size": 690746
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-20.csv",
+      "sha256": "5f45e2e1c7ab38b3a0207d8c810beb8db0eef410e42f0b186258943ca0b27c72",
+      "size": 812375
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-21.csv",
+      "sha256": "b893babdc9d59023f31d53a71d8d6e6080facaf9a13193c4f7d7bff585a71704",
+      "size": 851927
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-22.csv",
+      "sha256": "8cffdcd2aa58ff8573b88960d894a25d9d3cd6fd3c55b9b5d2d5b770ebb79320",
+      "size": 749848
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-23.csv",
+      "sha256": "aebc3213c9d9f7064a6fea69b2a27479d8001dac29a062468ebae73a9ea9bca9",
+      "size": 765042
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-24.csv",
+      "sha256": "fec316922ae210b26289a8844c1d565dd11dce41b854138e9152baf8d5456e2c",
+      "size": 789490
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-25.csv",
+      "sha256": "3d5c64632a30f1b7a3ebfbb3b1534f4d0813342307ae8e731d0ba5037b3ddbae",
+      "size": 729245
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-26.csv",
+      "sha256": "c5c9de0e8579c1fb80947fe3bc213e9838931d420a4be578c38468f139af4f03",
+      "size": 686139
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-27.csv",
+      "sha256": "469dc95dfaa27bdf8e7d125971629a3e306f02d1026b9cc906eda0aa47415e71",
+      "size": 706741
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/csv/2025-02-28.csv",
+      "sha256": "c1984623b8933e774d299f29960c504a35101c614e4d658b9422aba75049f2c1",
+      "size": 680131
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-05.json",
+      "sha256": "dd987a3e0607c324c78cfd57e6799f49155576fb59223aee54ff7b24fa80699c",
+      "size": 641103
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-06.json",
+      "sha256": "9e04cf37647c31a73f12e7624335c2d9f649561c9922d8fd6ab06c0cf010d990",
+      "size": 1025668
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-07.json",
+      "sha256": "11ae57b6708f161e53e8ad02f8fa15c09097c28f5389a916a09e9fc6894f1ecc",
+      "size": 1015081
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-08.json",
+      "sha256": "3151d518a41054edce252eec72dac538495bf8279ba17e93fc4a2e74e1086c4e",
+      "size": 1000365
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-09.json",
+      "sha256": "02f39ca201c1919db68ae800f6d66b728d281d018403948c165263bdb34dc641",
+      "size": 998227
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-10.json",
+      "sha256": "ff8d447a99599f60a401f09acd19b13090c06985a7b16108bdc2c38fd7ae01f0",
+      "size": 1201456
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-11.json",
+      "sha256": "d3ec6a0cba4dea5596e500629b56e25faa76fbb29318923d9ed8d22abd679a1a",
+      "size": 991476
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-12.json",
+      "sha256": "af60fdddf373ef7a888b8438bd7d496821bc6566fb62d57ee1d001502651dfc3",
+      "size": 978450
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-13.json",
+      "sha256": "f8e4ea7e5ac24a81b416abee9faf32c3645e19f1f5419bbb0a06b3dc5000f75f",
+      "size": 1040514
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-14.json",
+      "sha256": "da8245d60f8456ff467c5a30afd88895728201f599ebc87ee5357d99d772354c",
+      "size": 967934
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-15.json",
+      "sha256": "2f7ddd2b920a17a76abf26a9d3e65f88c7fffa69f6f8b5e1cb6533fce176b5fb",
+      "size": 1086928
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-16.json",
+      "sha256": "0a5fb0791b7ac2cd91d0a4c25e7a52d436c3f6cb946f1a34c7d0884a2322909c",
+      "size": 968429
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-17.json",
+      "sha256": "ed948a802ea4574b7bea8b06f3f79fbe671f7ba7a85be988f469b35ec390083d",
+      "size": 992174
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-18.json",
+      "sha256": "506e49bd7c1f8780d7c356db9829a1faec2faf1528294f89e21d0a5b36f08edb",
+      "size": 972670
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-19.json",
+      "sha256": "a134929add3c87ecbf3b79c8b4511a112fb8c817552fbdf1dca12c9f944f2951",
+      "size": 1039895
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-20.json",
+      "sha256": "1651d11086af3ab26a3fdb22803f561901161de70dd89030bdc285d01aa8d17d",
+      "size": 1127300
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-21.json",
+      "sha256": "eec3d9b74673fd7bfa514356680f90017d8518955e9ebf5c6668129ed613f345",
+      "size": 1170823
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-22.json",
+      "sha256": "7e77960cd9525a2b38fce89688312da091dc86607290f86b6e0e25329efaa15c",
+      "size": 1077175
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-23.json",
+      "sha256": "7315059f6852d3f5cdcacea8cce8e5170ac7b7161d043cb6a14bd85c00effae5",
+      "size": 1075513
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-24.json",
+      "sha256": "d33270413bbbb1e5e5b26f408c11c81188d43976573db1468cc35cbc3b4f6d8f",
+      "size": 1109022
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-25.json",
+      "sha256": "4c48b1d5ed705c6838e72acec616d55cacbc578e99386446bbd4fce3b3191aeb",
+      "size": 1043130
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-26.json",
+      "sha256": "13e54580a112415001bc9255cc67bace04c1b4cc0c36b2518d38f694c9001564",
+      "size": 994758
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-27.json",
+      "sha256": "1419ec29871dcf1ff1f8624e0665ac6f2d542344230e7137f809a874ea42561f",
+      "size": 1018261
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/json/2025-02-28.json",
+      "sha256": "10a977356e5678340b24ccbe4f0bedd942d2f59f76b34d1ca0e5dd8a55e1a5fe",
+      "size": 994014
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-05.md",
+      "sha256": "9485b9a00247cbea43acb6b0a68cc6105a24830e0e79a4ba17d7a15d8dc75cca",
+      "size": 8232
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-06.md",
+      "sha256": "dd45e380edce7656801838bd2664d13fa0eebc4cc54b3007cbe1761c5c773be4",
+      "size": 8038
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-07.md",
+      "sha256": "7b9e72b280d75925d6f9358025f77b326bc9d9e67f38b9973663de2498a8ead1",
+      "size": 8192
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-08.md",
+      "sha256": "d2e3e095329b8fcf347468c9f48cc508e04d6ce4a78bcd1e944d4eec0bf8ee0d",
+      "size": 8666
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-09.md",
+      "sha256": "c69375bb6034d5724b674b2911e07da0519abd2e10a20d2eadfb2780ce506c27",
+      "size": 8476
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-10.md",
+      "sha256": "3f59f25cf1520efb59496e977401fa1f9f22a71bfca01bfdb075f3172a931035",
+      "size": 8108
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-11.md",
+      "sha256": "73a3fc389101168c5b89c89e1bd630572650f40fe267f39e9316c99e6bc515c4",
+      "size": 8452
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-12.md",
+      "sha256": "89b1d6dbcf547fc1eb47778b9834793954970ae033b14d4cbe086eb2df76d7b2",
+      "size": 8548
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-13.md",
+      "sha256": "12316e8eec9a01b4d2a69bd629c09f8725a2222425772e842c3041c26a5d7f73",
+      "size": 8267
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-14.md",
+      "sha256": "5733b716224c577348a45ed54fcc1ed591582c69d1002248c3cc8d31bf9a113d",
+      "size": 8128
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-15.md",
+      "sha256": "7ef1b442c552e34fe948cac4dbbdec7927163297979788abeb7ac1a9b9092985",
+      "size": 8079
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-16.md",
+      "sha256": "e5bee1d2dc69d99a5127f71bdc8ab10189e2a4be685b200789f5b7686b7a791c",
+      "size": 8338
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-17.md",
+      "sha256": "fed8f6995166e882964379b69eba003cf2b356602044d8b8e69638b1bd9ea416",
+      "size": 8085
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-18.md",
+      "sha256": "e75432a97ef859ff53d3617e9e8614f0a5e9a474ac1e80b81ceafffcb23fa6c1",
+      "size": 8966
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-19.md",
+      "sha256": "1776736d75c97ee92fb2f2c254d4230b8decc5d281d121035765b8c9e9bfbc4d",
+      "size": 8633
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-20.md",
+      "sha256": "d3134c40f98badc426c1eda03d501561d8d18f563452e23c14026198f0f8704d",
+      "size": 8292
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-21.md",
+      "sha256": "b815c258bc53624981f8e5e5ae149cd56fa72a73774990b00145728887176fc8",
+      "size": 8594
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-22.md",
+      "sha256": "b3886dd40db4ca0fd1695f3cce5fb67d4c1051e00c4de1419be69acedd73c64b",
+      "size": 8692
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-23.md",
+      "sha256": "0c218e9c1f8da536659ecb0e60d95ccbf37f154ac70a5839c21f6589992bb90a",
+      "size": 8475
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-24.md",
+      "sha256": "5695307e6005ab65dc2182c52e3ce0881660d661ec3e753c8ce7ec5abf63d1a7",
+      "size": 8820
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-25.md",
+      "sha256": "29549a9c8f9d964d8b32d7655113917648c4315b87a351a526646d21befd9f29",
+      "size": 9179
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-26.md",
+      "sha256": "ba2a286de97f30f544034d2602a4f52034f20018c3b8c4f329a705b870918e7b",
+      "size": 8518
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-27.md",
+      "sha256": "64227a1de47ad3ca5d2681ee0396c32773a1c8064fa6b08ffbec64c3ab30151d",
+      "size": 8609
+    },
+    {
+      "channel": "zhihu",
+      "path": "archived/zhihu/md/2025-02-28.md",
+      "sha256": "36141a59eec2e066f56820c181676525bc413a3419c0432d53da98ce2713760c",
+      "size": 8395
+    }
+  ],
+  "month": "2025-02",
+  "pack_mode": "per-channel",
+  "repository": "Shonee/awesome-hot-list",
+  "schema_version": 1,
+  "scope_id": "per-channel-all",
+  "uncompressed_bytes": 74290934
+}
