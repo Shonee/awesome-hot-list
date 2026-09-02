@@ -1,9 +1,30 @@
+# -*- coding: utf-8 -*-
+"""哔哩哔哩热门采集（热门搜索 / 全站热门视频 / 视频排行榜）。
+
+归档结构统一为 archived/bilibili/<YYYY>/<MM>/<json|csv|md>/<YYYY-MM-DD>.<ext>
+
+历史遗留：早期 B 站归档是扁平结构 archived/bilibili/<json|csv|md>/，
+与其余渠道的 <YYYY>/<MM> 分层不一致，现统一为分层结构。
+"""
 
 import json
-from bs4 import BeautifulSoup
-import re
-import os
-from utils import logger,saveText,saveJson,saveCsv,get,url_encode, NOW_DATE,NOW_TIME
+import time
+
+from utils import (
+    NOW_DATE,
+    NOW_TIME,
+    archive_path,
+    get,
+    logger,
+    saveCsv,
+    saveText,
+    save_timeslice,
+    url_encode,
+    write_enabled,
+)
+
+PLATFORM = "bilibili"
+
 
 class Bilibili:
     def __init__(self):
@@ -13,8 +34,7 @@ class Bilibili:
         url = 'https://app.bilibili.com/x/v2/search/trending/ranking'
         logger.debug('get_bilibili_hot_search_words_api: {}'.format(url))
         list = json.loads(get(url)).get("data", {}).get('list', [])
-        # logger.debug("哔哩哔哩热门搜索 ：{}".format(json.dumps(video_list, ensure_ascii=False)))
-        
+
         result = []
         for index, item in enumerate(list):
             json_data = {
@@ -37,8 +57,7 @@ class Bilibili:
         url = 'https://api.bilibili.com/x/web-interface/popular?ps=50&pn=1'
         logger.debug('get_bilibili_hot_videos_api: {}'.format(url))
         video_list = json.loads(get(url)).get("data", {}).get('list', [])
-        # logger.debug("哔哩哔哩全站热门视频 ：{}".format(json.dumps(video_list, ensure_ascii=False)))
-        
+
         dict_list = []
         for index, video in enumerate(video_list):
             json_data = {
@@ -57,13 +76,12 @@ class Bilibili:
         json_str = json.dumps(dict_list, ensure_ascii=False)
         logger.debug("哔哩哔哩全站热门视频 ：{}".format(json_str))
         return json_str
-    
+
     def get_bilibili_rank_videos_api(self):
         url = 'https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all'
         logger.debug('get_bilibili_rank_videos_api: {}'.format(url))
         video_list = json.loads(get(url)).get("data", {}).get('list', [])
-        # logger.debug("哔哩哔哩视频排行榜 ：{}".format(json.dumps(video_list, ensure_ascii=False)))
-        
+
         dict_list = []
         for index, video in enumerate(video_list):
             json_data = {
@@ -84,57 +102,43 @@ class Bilibili:
         return json_str
 
 
-    def parseData(self):
-        url = r'https://www.bilibili.com/v/popular/rank/all'
-        soup = BeautifulSoup(get(url), "html.parser")
-
-        datalist = []
-        for item in soup.find_all('li',class_="rank-item"):
-            item = str(item)
-            link = re.findall(re.compile(r'<a class="title" href="//(.*?)"'), item)[0]
-            link_BV = re.findall(re.compile(r'<a href="//www.bilibili.com/video/(.*?)"'), item)[0]
-            title = re.findall(re.compile(r'target="_blank">(.*?)</a>'), item)[1]  #第二条才是标题信息
-            play = re.findall(re.compile(r'<i class="b-icon play"></i>(.*?)</span>',re.S), item)[0]
-            play = re.sub(r"\n?","",play).strip()
-            view = re.findall(re.compile(r'<i class="b-icon view"></i>(.*?)</span>',re.S), item)[0]
-            view = re.sub(r'\n?',"",view).strip()
-            datalist.append([link,link_BV,title,play,view])
-        return datalist
-
-
 def save_file():
-    import time
-
     bilibili = Bilibili()
     rank_json_data = bilibili.get_bilibili_rank_videos_api()
     time.sleep(3)
     searches_json_data = bilibili.get_bilibili_hot_search_words_api()
     time.sleep(3)
     hot_json_data = bilibili.get_bilibili_hot_videos_api()
-   
-    uniform_json_data = json.dumps({'searches': json.loads(searches_json_data), 'hot': json.loads(hot_json_data), 'rank': json.loads(rank_json_data)}, ensure_ascii=False)
+
+    uniform_json_data = json.dumps(
+        {
+            'searches': json.loads(searches_json_data),
+            'hot': json.loads(hot_json_data),
+            'rank': json.loads(rank_json_data),
+        },
+        ensure_ascii=False,
+    )
     generate_archive_json(uniform_json_data)
     generate_archive_csv(uniform_json_data)
     generate_archive_md(searches_json_data, hot_json_data, rank_json_data)
 
 
 def generate_archive_json(json_str: str):
-    file_path = os.path.join('archived/bilibili/json/', NOW_DATE +'.json')
-    json_data = json.load(open(file_path)) if os.path.exists(file_path) else {}
-    json_data[NOW_TIME] = json.loads(json_str)
-    saveJson(json_data, file_path)
+    file_path = archive_path(PLATFORM, "json", NOW_DATE)
+    save_timeslice(file_path, NOW_TIME, json.loads(json_str))
+
 
 def generate_archive_csv(jsonStr: str):
-    file_path = os.path.join('archived/bilibili/csv/', NOW_DATE +'.csv')
+    file_path = archive_path(PLATFORM, "csv", NOW_DATE)
     data = json.loads(jsonStr)
     csv_list = []
     [csv_list.extend(item) for item in data.values()]
     saveCsv(json.dumps(csv_list, ensure_ascii=False), file_path)
 
-def generate_archive_md(searches_json_data, hot_json_data, rank_json_data):
-    # md = '\n'.join(['{}. [{}]({})'.format(item["index"], item["title"], item["url"]) for item in json.loads(jsonStr)])
 
-    md = '# 哔哩哔哩热榜 | {NOW_DATE} \n\n'
+def generate_archive_md(searches_json_data, hot_json_data, rank_json_data):
+    # 旧实现这里漏了 f 前缀，导致 md 标题原样输出 "{NOW_DATE}"
+    md = f'# 哔哩哔哩热榜 | {NOW_DATE} \n\n'
     md += '记录哔哩哔哩的热门视频。每小时抓取一次数据，并历史记录[归档](https://github.com/Shonee/awesome-hot-list/tree/master/archived)。 \n\n'
     md += f"`更新时间：{NOW_TIME}` \n\n"
 
@@ -150,12 +154,10 @@ def generate_archive_md(searches_json_data, hot_json_data, rank_json_data):
     md += '\n'.join(['{}. [{}]({})'.format(item["index"], item["title"], item["url"]) for item in json.loads(rank_json_data)])
     md += '\n\n'
 
-    saveFile = os.path.join('archived/bilibili/md/', NOW_DATE +'.md')
-    saveText(md, saveFile)
+    saveText(md, archive_path(PLATFORM, "md", NOW_DATE))
+
 
 if __name__ == '__main__':
-    
-    # bilibili = Bilibili()
-    # bilibili.get_bilibili_rank_videos_api()
-    
+    if not write_enabled():
+        logger.info("当前为调试模式（HOTLIST_WRITE=0），只抓取不落盘")
     save_file()

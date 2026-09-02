@@ -29,7 +29,9 @@ jobs:
         
     - name: Run Scraper
       env:
-        zhihu_cookie: ${{ vars.ZHIHU_COOKIE }}
+        # 知乎登录态 cookie：在仓库 Settings → Secrets 中配置 ZHIHU_COOKIE
+        # 本地调试可在仓库根目录 .env 写入同样变量（已被 .gitignore 忽略）
+        ZHIHU_COOKIE: ${{ secrets.ZHIHU_COOKIE }}
       run: |
         python ./script/zhihu.py
     
