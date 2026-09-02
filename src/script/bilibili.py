@@ -10,15 +10,21 @@
 import json
 import time
 
+import os
+import sys
+
+# 让本脚本在任意 cwd 下都能找到 src/utils 下的工具模块
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "utils"))
+
 from utils import (
     NOW_DATE,
     NOW_TIME,
     archive_path,
+    channel_readme_path,
     get,
     logger,
     saveCsv,
     saveText,
-    save_timeslice,
     url_encode,
     write_enabled,
 )
@@ -118,14 +124,8 @@ def save_file():
         },
         ensure_ascii=False,
     )
-    generate_archive_json(uniform_json_data)
     generate_archive_csv(uniform_json_data)
     generate_archive_md(searches_json_data, hot_json_data, rank_json_data)
-
-
-def generate_archive_json(json_str: str):
-    file_path = archive_path(PLATFORM, "json", NOW_DATE)
-    save_timeslice(file_path, NOW_TIME, json.loads(json_str))
 
 
 def generate_archive_csv(jsonStr: str):
@@ -154,7 +154,7 @@ def generate_archive_md(searches_json_data, hot_json_data, rank_json_data):
     md += '\n'.join(['{}. [{}]({})'.format(item["index"], item["title"], item["url"]) for item in json.loads(rank_json_data)])
     md += '\n\n'
 
-    saveText(md, archive_path(PLATFORM, "md", NOW_DATE))
+    saveText(md, channel_readme_path(PLATFORM))
 
 
 if __name__ == '__main__':

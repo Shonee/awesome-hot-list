@@ -24,12 +24,12 @@
 
 | 文件 | 行数 | 职责 | 运行状态 |
 | --- | --- | --- | --- |
-| `script/utils.py` | 111 | 公共库：HTTP 请求、三格式落盘、目录创建 | 被依赖 |
-| `script/bilibili.py` | 162 | B 站热门搜索 / 热门视频 / 排行榜 | 正常产出 |
-| `script/douyin.py` | 71 | 抖音热搜 | 正常产出（本地处于调试态） |
-| `script/github.py` | 137 | GitHub Trending 日/周/月 + 6 语言 | **持续失败** |
-| `script/weibo.py` | 84 | 微博热搜 | 定时已注释 |
-| `script/zhihu.py` | 151 | 知乎热搜 + 热榜 | 定时已注释 |
+| `src/utils/utils.py` | 111 | 门面层：落盘开关、密钥读取、转发文件/HTTP 能力 | 被依赖 |
+| `src/script/bilibili.py` | 162 | B 站热门搜索 / 热门视频 / 排行榜 | 正常产出 |
+| `src/script/douyin.py` | 71 | 抖音热搜 | 正常产出（本地处于调试态） |
+| `src/script/github.py` | 137 | GitHub Trending 日/周/月 + 6 语言 | **持续失败** |
+| `src/script/weibo.py` | 84 | 微博热搜 | 定时已注释 |
+| `src/script/zhihu.py` | 151 | 知乎热搜 + 热榜 | 定时已注释 |
 
 ### 2.2 数据流
 
@@ -72,7 +72,7 @@
 
 ```
 AttributeError: 'NoneType' object has no attribute 'find_all'
-  File "./script/github.py", line 52, in get_github_trending_json
+  File "./src/script/github.py", line 52, in get_github_trending_json
 ```
 
 根因：GitHub trending 页面改版，`span.d-inline-block.mr-3` 这个 Primer CSS class 组合已经不存在，`one.find(...)` 返回 `None`。
@@ -188,7 +188,7 @@ md = '# 哔哩哔哩热榜 | {NOW_DATE} \n\n'   # 少了 f 前缀
 
 目标：五个脚本收敛成"每个只写一份 `fetch()` + 一份字段映射"，其余全部复用。
 
-- 新建 `script/base.py`，定义 `BaseCollector` 抽象类
+- 新建 `src/script/base.py`，定义 `BaseCollector` 抽象类
   - `fetch() -> list[dict]`：子类实现，只管抓数据
   - `archive()`：父类统一处理三格式落盘、限速、重试、超时
 - **统一数据契约**：`index / title / desc / hot / url / image / source / type / datetime` 九字段，缺失填 `None`，不再各自为政

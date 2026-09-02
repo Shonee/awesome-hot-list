@@ -1,6 +1,6 @@
 # 知乎 Cookie 安全整改方案
 
-> 背景：`script/zhihu.py` 曾把整串知乎登录态 cookie 硬编码在源码里，并已随早期提交进入
+> 背景：`src/script/zhihu.py` 曾把整串知乎登录态 cookie 硬编码在源码里，并已随早期提交进入
 > **公开仓库** `Shonee/awesome-hot-list` 的 git 历史。这意味着旧 cookie 已在公网暴露，
 > 不只是"即将泄露"。本方案分三步处理：**轮换 → 改注入方式（已完成）→ 清理历史（待你拍板）**。
 
@@ -20,12 +20,12 @@
   ```dotenv
   ZHIHU_COOKIE=你新获取的完整 cookie 串
   ```
-  `script/utils.py` 的 `load_dotenv()` 会自动读取，无需任何环境变量配置。
+  `src/utils/utils.py` 的 `load_dotenv()` 会自动读取，无需任何环境变量配置。
 - **CI 执行**：在 GitHub 仓库
   `Settings → Secrets and variables → Actions → Secrets → New repository secret`：
   - Name：`ZHIHU_COOKIE`
   - Secret：你新获取的完整 cookie 串
-- 脚本读取逻辑（`script/zhihu.py`）：
+- 脚本读取逻辑（`src/script/zhihu.py`）：
   ```python
   ENV_ZHIHU_COOKIE = "ZHIHU_COOKIE"
   cookie = get_secret(ENV_ZHIHU_COOKIE, default="")
@@ -78,7 +78,7 @@ git push --force --mirror
 
 ```bash
 # 本地调试：只抓不写，避免污染归档
-HOTLIST_WRITE=0 ZHIHU_COOKIE="粘贴你的 cookie" python script/zhihu.py
+HOTLIST_WRITE=0 ZHIHU_COOKIE="粘贴你的 cookie" python src/script/zhihu.py
 
 # 确认 .env 不被提交
 git status --short      # 不应出现 .env

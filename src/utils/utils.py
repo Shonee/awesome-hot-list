@@ -1,20 +1,27 @@
 # -*- coding: utf-8 -*-
 """
-公共工具模块
+公共工具门面模块
 
-承担三块职责：
-1. HTTP 请求（带重试与随机 UA）
-2. 时间与编码工具
-3. 配置读取（环境变量 / .env / GitHub Actions Secrets）与落盘开关
+本模块是各采集脚本的统一入口，但**不实现**具体能力，
+而是把活儿转发给两个互相独立、可单独使用的叶子模块：
 
-文件读写能力统一委托给 :mod:`file_utils`，本模块仅保留历史函数名的转发，
-以保证各采集脚本无需改动 import 即可平滑迁移。
+- :mod:`file_utils`  —— 文件读写 / 路径 / 校验 / 归档（零第三方依赖）
+- :mod:`http_utils`  —— HTTP 请求（仅依赖 requests + 标准库）
+
+分层约定（避免工具类互相耦合）
+---------------------------------
+- ``file_utils`` 与 ``http_utils`` 互不引用，也不引用本模块，
+  因此各自 ``import file_utils`` / ``import http_utils`` 即可独立使用。
+- 本模块（门面）负责把两者的能力聚合出来，并提供跨切面关注点：
+  落盘开关（``write_enabled``）、密钥读取（``get_secret`` / ``load_dotenv``）、
+  时间常量（``NOW_DATE`` / ``NOW_TIME``）、URL 编解码。
+- 历史函数名（saveText / saveJson / saveCsv / save_timeslice / get …）继续在此导出，
+  保证各采集脚本无需改动 import 即可平滑迁移。
 """
 
 import json
 import logging
 import os
-import random
 import time
 
 # 日志配置
@@ -34,10 +41,13 @@ from file_utils import (  # noqa: E402,F401
     ARCHIVE_ROOT,
     append_json_timeslice as _append_json_timeslice,
     archive_path,
+    channel_readme_path,
+    data_json_path,
     ensure_dir,
     ensure_parent_dir,
     exists,
     file_size,
+    gif_dir,
     read_csv,
     read_json,
     read_text,
@@ -45,9 +55,28 @@ from file_utils import (  # noqa: E402,F401
     write_csv as _write_csv,
     write_json as _write_json,
     write_text as _write_text,
+    yesterday_date,
 )
 
 get_or_make_file_path = ensure_parent_dir
+
+
+# ---------------------------------------------------------------------------
+# HTTP 能力转发
+#
+# get / 随机 UA / 重试常量历史上定义在 utils 里。实现已下沉到 http_utils
+# （仅依赖 requests + 标准库，且不再引用本模块），这里保留同名导出。
+# 注意：http_utils 自身是独立模块，需要直接用 HTTP 的脚本也可以
+# ``from http_utils import get``，不必经过本门面。
+# ---------------------------------------------------------------------------
+from http_utils import (  # noqa: E402,F401
+    DEFAULT_BACKOFF,
+    DEFAULT_RETRIES,
+    DEFAULT_TIMEOUT,
+    USER_AGENT_LIST,
+    get,
+    random_user_agent,
+)
 
 
 def saveText(text: str, file_path: str):
@@ -98,7 +127,7 @@ def save_timeslice(file_path: str, key: str, value) -> str:
 #
 # 调试时常常只想看抓取结果、不想污染归档目录。历史上是直接把落盘调用注释掉，
 # 结果某次忘了改回来，采集中断了半天。改为环境变量开关后，
-# 本地 `HOTLIST_WRITE=0 python script/douyin.py` 即可，代码永不改动。
+# 本地 `HOTLIST_WRITE=0 python src/script/douyin.py` 即可，代码永不改动。
 # ---------------------------------------------------------------------------
 
 #: 落盘开关的环境变量名
@@ -145,7 +174,7 @@ def dry_run() -> bool:
 # ---------------------------------------------------------------------------
 
 #: .env 的查找顺序，先命中先加载
-DOTENV_CANDIDATES = (".env", "script/.env")
+DOTENV_CANDIDATES = (".env", "src/script/.env")
 
 
 def load_dotenv(path: str = None, override: bool = False) -> int:
@@ -181,7 +210,7 @@ def load_dotenv(path: str = None, override: bool = False) -> int:
     return loaded
 
 
-# 模块导入时即尝试加载，让 `python script/xxx.py` 直接可用
+# 模块导入时即尝试加载，让 `python src/script/xxx.py` 直接可用
 load_dotenv()
 
 
@@ -242,84 +271,3 @@ def url_decode(url):
     from urllib.parse import unquote
     return unquote(url)
 
-
-# ---------------------------------------------------------------------------
-# HTTP
-# ---------------------------------------------------------------------------
-
-# 随机 UA 池，降低被识别为爬虫的概率。
-# 注意：Python 中相邻字符串字面量会被隐式拼接，
-# 历史上这里漏了一个逗号导致两个 UA 被拼成畸形串。
-USER_AGENT_LIST = [
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.15',
-    'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
-]
-
-
-def random_user_agent() -> str:
-    """随机返回一个 User-Agent。"""
-    return random.choice(USER_AGENT_LIST)
-
-
-#: 默认请求超时（秒）
-DEFAULT_TIMEOUT = 15
-
-#: 默认重试次数。采集类任务最大的敌人是偶发网络抖动，
-#: 一次抖动就让当天少一个时间片，历史数据就断了。
-DEFAULT_RETRIES = 3
-
-#: 重试退避基数（秒），实际间隔为 base * 2^(n-1)
-DEFAULT_BACKOFF = 1.0
-
-
-def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEOUT,
-        retries: int = DEFAULT_RETRIES, session=None):
-    """发起 GET 请求。
-
-    :param res_type: ``text`` 返回字符串，``json`` 返回已解析的对象
-    :param headers: 额外请求头，会与随机 UA 合并
-    :param timeout: 单次请求超时
-    :param retries: 重试次数，0 表示不重试
-    :param session: 复用 requests.Session（如知乎需要保持 cookie 时）
-
-    相较旧实现的变化：
-    - 用显式判断替代 ``assert``，``python -O`` 下不会被优化掉
-    - 默认开启 SSL 校验（旧实现 verify=False 会刷警告且不安全）
-    - 增加指数退避重试
-    """
-    import requests
-
-    merged = {'User-Agent': random_user_agent()}
-    if headers:
-        merged.update(headers)
-
-    last_error = None
-    for attempt in range(1, max(1, retries) + 1):
-        try:
-            caller = session or requests
-            response = caller.get(url, headers=merged, timeout=timeout)
-            if response.status_code != 200:
-                raise requests.HTTPError(
-                    f"HTTP {response.status_code} for {url}", response=response
-                )
-            return response.json() if res_type == 'json' else response.text
-        except Exception as e:  # noqa: BLE001 - 采集脚本不应因单次抖动整体崩溃
-            last_error = e
-            if attempt < retries:
-                wait = DEFAULT_BACKOFF * (2 ** (attempt - 1))
-                logger.warning(
-                    "请求失败(%d/%d) %s: %s，%.1fs 后重试",
-                    attempt, retries, url, e, wait,
-                )
-                time.sleep(wait)
-            else:
-                logger.error("请求最终失败 %s: %s", url, e)
-
-    raise last_error
