@@ -40,15 +40,21 @@ from enum import Enum
 
 from bs4 import BeautifulSoup
 
+import os
+import sys
+
+# 让本脚本在任意 cwd 下都能找到 src/utils 下的工具模块
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "utils"))
+
 from utils import (
     NOW_DATE,
     NOW_TIME,
     archive_path,
+    channel_readme_path,
     get,
     logger,
     saveCsv,
     saveText,
-    save_timeslice,
     write_enabled,
 )
 
@@ -241,14 +247,8 @@ def save_file():
             time.sleep(SEARCH_API_INTERVAL)
 
     json_data_str = json.dumps(json_data, ensure_ascii=False)
-    generate_archive_json(json_data_str)
     generate_archive_md(json_data_str)
     generate_archive_csv(json_data_str)
-
-
-def generate_archive_json(githubTrendingJsonStr):
-    file_path = archive_path(PLATFORM, "json", NOW_DATE)
-    save_timeslice(file_path, NOW_TIME, json.loads(githubTrendingJsonStr))
 
 
 def generate_md(json_str_data, title) -> str:
@@ -280,7 +280,7 @@ def generate_archive_md(json_str_data):
         logger.debug("key:value {}:{}".format(key, value))
         md += generate_md(json.dumps(value), f"## {key} 热榜\n\n")
 
-    saveText(md, archive_path(PLATFORM, "md", NOW_DATE))
+    saveText(md, channel_readme_path(PLATFORM))
 
 
 def generate_archive_csv(jsonStr: str):

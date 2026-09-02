@@ -1,0 +1,7 @@
+# 聚合任务专用依赖（仅 aggregate-daily.yml 使用）
+# 采集任务继续只用 src/requirements.txt（requests + beautifulsoup4），
+# 避免把重的 matplotlib 装进每个采集 workflow。
+requests
+beautifulsoup4
+matplotlib
+pillow

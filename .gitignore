@@ -31,3 +31,6 @@ Thumbs.db
 *.log
 *.tmp
 temp.md
+
+# 本地记忆 / 工作区元数据（绝不进版本库）
+.workbuddy/

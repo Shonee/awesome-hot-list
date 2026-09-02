@@ -806,3 +806,42 @@ def month_dir(platform: str, year: Union[int, str], month: Union[int, str],
               root: str = ARCHIVE_ROOT) -> str:
     """返回某渠道某年月的归档目录，如 ``archived/douyin/2026/09``。"""
     return os.path.join(root, platform, str(year), f"{int(month):02d}")
+
+
+# ---------------------------------------------------------------------------
+# 渠道级聚合产物路径（优化后的归档格式）
+#
+# 归档格式优化后：
+#   - md 不再每天一个文件，而是每渠道一份 `archived/<platform>/README.md`，
+#     每天用最新快照覆盖式更新；
+#   - json 不再按时间片写 `json/<date>.json`，而是每天由聚合任务整合昨天
+#     csv，产出 `archived/<platform>/data.json`（按日期滚动 7 天）；
+#   - 动图（可选）放在 `archived/<platform>/gif/` 下，按日期滚动。
+# 这些路径一律由下方函数生成，避免脚本各自拼字符串。
+# ---------------------------------------------------------------------------
+
+def channel_readme_path(platform: str, root: str = ARCHIVE_ROOT) -> str:
+    """返回渠道级 README.md 路径（每渠道一份，覆盖更新）。"""
+    return os.path.join(root, platform, "README.md")
+
+
+def data_json_path(platform: str, root: str = ARCHIVE_ROOT) -> str:
+    """返回渠道级整合数据路径 ``archived/<platform>/data.json``。"""
+    return os.path.join(root, platform, "data.json")
+
+
+def gif_dir(platform: str, root: str = ARCHIVE_ROOT) -> str:
+    """返回渠道级动图目录 ``archived/<platform>/gif/``。"""
+    return os.path.join(root, platform, "gif")
+
+
+def yesterday_date(pattern: str = "%Y-%m-%d") -> str:
+    """返回昨天的日期字符串（默认 ``YYYY-MM-DD``）。"""
+    from datetime import timedelta
+    return (current_datetime() - timedelta(days=1)).strftime(pattern)
+
+
+def current_datetime():
+    """返回当前 datetime 对象（兼容旧调用，避免重复 import）。"""
+    from datetime import datetime
+    return datetime.now()

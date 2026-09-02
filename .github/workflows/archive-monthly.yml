@@ -39,7 +39,7 @@ on:
       retention_months:
         description: "Keep the current month plus this many complete months"
         required: true
-        default: "3"
+        default: "1"
         type: string
       dry_run:
         description: "Build and verify locally without creating releases or deleting files"
@@ -87,7 +87,7 @@ jobs:
           REQUESTED_CHANNELS: ${{ inputs.channels || 'all' }}
           REQUESTED_PACK_MODE: ${{ inputs.pack_mode || 'per-channel' }}
           REQUESTED_CLEANUP_MODE: ${{ inputs.cleanup_mode || 'pr' }}
-          REQUESTED_RETENTION_MONTHS: ${{ inputs.retention_months || '3' }}
+          REQUESTED_RETENTION_MONTHS: ${{ inputs.retention_months || '1' }}
           REQUESTED_DRY_RUN: ${{ github.event_name == 'schedule' && 'false' || inputs.dry_run }}
         run: |
           set -euo pipefail

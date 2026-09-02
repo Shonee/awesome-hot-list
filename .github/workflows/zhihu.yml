@@ -25,7 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r ./script/requirements.txt
+        pip install -r ./src/requirements.txt
         
     - name: Run Scraper
       env:
@@ -33,7 +33,7 @@ jobs:
         # 本地调试可在仓库根目录 .env 写入同样变量（已被 .gitignore 忽略）
         ZHIHU_COOKIE: ${{ secrets.ZHIHU_COOKIE }}
       run: |
-        python ./script/zhihu.py
+        python ./src/script/zhihu.py
     
     - name: Check for changes
       id: git-status

@@ -20,16 +20,22 @@ import json
 import os
 import time
 
+import os
+import sys
+
+# 让本脚本在任意 cwd 下都能找到 src/utils 下的工具模块
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "utils"))
+
 from utils import (
     NOW_DATE,
     NOW_TIME,
     archive_path,
+    channel_readme_path,
     get,
     get_secret,
     logger,
     saveCsv,
     saveText,
-    save_timeslice,
     url_encode,
     write_enabled,
 )
@@ -63,26 +69,20 @@ def generate_archive_md(searcheJsonStr, questsionJsonStr):
     questionMd = '\n'.join(['{}. [{}]({})'.format(item["index"], item["title"], item["url"]) for item in json.loads(questsionJsonStr)])
 
     md = ''
-    file = os.path.join('template/', 'zhihu_hot_template.md')
+    file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "template", "zhihu_hot_template.md")
     with open(file, encoding='utf-8') as f:
         md = f.read()
 
     md = md.replace("{updateTime}", NOW_TIME).replace("{searches}", searchMd).replace("{questions}", questionMd)
     logger.debug("归档md:{}".format(md))
 
-    saveText(md, archive_path(PLATFORM, "md", NOW_DATE))
+    saveText(md, channel_readme_path(PLATFORM))
 
 
 def generate_archive_csv(searcheJsonStr, questsionJsonStr):
     file_path = archive_path(PLATFORM, "csv", NOW_DATE)
     saveCsv(searcheJsonStr, file_path)
     saveCsv(questsionJsonStr, file_path)
-
-
-def generate_archive_json(searcheJsonStr, questsionJsonStr):
-    file_path = archive_path(PLATFORM, "json", NOW_DATE)
-    payload = json.loads(searcheJsonStr) + json.loads(questsionJsonStr)
-    save_timeslice(file_path, NOW_TIME, payload)
 
 
 class Zhihu:
@@ -154,7 +154,6 @@ def save_file():
 
     generate_archive_md(searchData, hotData)
     generate_archive_csv(searchData, hotData)
-    generate_archive_json(searchData, hotData)
 
 
 if __name__ == '__main__':

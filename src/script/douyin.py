@@ -8,15 +8,21 @@
 import json
 from datetime import datetime
 
+import os
+import sys
+
+# 让本脚本在任意 cwd 下都能找到 src/utils 下的工具模块
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "utils"))
+
 from utils import (
     NOW_DATE,
     NOW_TIME,
     archive_path,
+    channel_readme_path,
     get,
     logger,
     saveCsv,
     saveText,
-    save_timeslice,
     url_encode,
     write_enabled,
 )
@@ -43,6 +49,7 @@ class Douyin:
                     item.get('event_time', datetime.now().timestamp())
                 ).strftime('%Y-%m-%d %H:%M:%S'),
                 "now_time": NOW_DATE,
+                "datetime": NOW_TIME,
                 "type": "热搜",
                 "source": "抖音"
             })
@@ -69,14 +76,8 @@ def save_file():
     douyin = Douyin()
     hot_word_data = douyin.fetch_douyin_hot_api()
     print(hot_word_data)
-    generate_archive_json(hot_word_data)
     generate_archive_csv(hot_word_data)
     generate_archive_md(hot_word_data)
-
-
-def generate_archive_json(json_str: str):
-    file_path = archive_path(PLATFORM, "json", NOW_DATE)
-    save_timeslice(file_path, NOW_TIME, json.loads(json_str))
 
 
 def generate_archive_csv(json_str: str):
@@ -93,7 +94,7 @@ def generate_archive_md(json_str: str):
     md += '\n'.join(['{}. [{}]({})'.format(item["index"], item["title"], item["url"]) for item in json.loads(json_str)])
     md += '\n\n'
 
-    saveText(md, archive_path(PLATFORM, "md", NOW_DATE))
+    saveText(md, channel_readme_path(PLATFORM))
 
 
 if __name__ == "__main__":

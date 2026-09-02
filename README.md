@@ -68,9 +68,9 @@ awesome-hot-list/
 脚本使用相对路径，需在仓库根目录执行：
 
 ```bash
-pip install -r script/requirements.txt
-python script/bilibili.py
-python script/douyin.py
+pip install -r src/requirements.txt
+python src/script/bilibili.py
+python src/script/douyin.py
 ```
 
 ## 数据现状
