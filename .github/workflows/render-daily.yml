@@ -1,0 +1,48 @@
+name: Render Daily Dashboard
+
+on:
+  schedule:
+    # 北京时间每天 00:40 = UTC 前一天 16:40（晚于各采集任务收尾，确保昨日 CSV 已齐）
+    - cron: '40 16 * * *'
+  workflow_dispatch:
+
+# 与聚合任务共用串行组，避免同时改动工作树导致 push 冲突
+concurrency:
+  group: archive-data-writer
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.8'
+
+      - name: Install render dependencies
+        run: pip install -r ./src/requirements-render.txt
+
+      - name: Render yesterday's hotlist dashboard
+        run: python ./src/script/render.py
+
+      - name: Commit dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/index.html
+          if git diff --cached --quiet; then
+            echo "no dashboard change"
+            exit 0
+          fi
+          git commit -m "chore: render hotlist dashboard $(date -u +'%Y-%m-%d')"
+          git pull --rebase origin master
+          git push
