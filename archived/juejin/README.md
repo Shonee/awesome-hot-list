@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-06 05:16:07
+> 更新时间：2026-09-06 06:17:07
 
 ## 热门文章
 
@@ -34,15 +34,15 @@
 28. [MyBatis-Plus 项目为什么越写越复杂：从一行 Wrapper 说起](https://juejin.cn/post/7680812218214236194)
 29. [打破传统 MVC：在 Go 中实践高内聚的业务驱动架构](https://juejin.cn/post/7681143768221974568)
 30. [Web 端可用！3 款开源数据库 ER 图设计工具！](https://juejin.cn/post/7680850719453708329)
-31. [从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战](https://juejin.cn/post/7680761768890089482)
-32. [三年前估值45亿，现在129亿——Hugging Face凭什么被老黄盯上？](https://juejin.cn/post/7681266980104421382)
-33. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
-34. [Claude Fable 5.1正式上线：Claude 最强，还降价？](https://juejin.cn/post/7680972429381009471)
-35. [告别影楼和付费 App，5 分钟本地搭一个证件照自由平台｜HivisionIDPhotos 开箱实测](https://juejin.cn/post/7680899684959502346)
-36. [[Android 从零到一] APK 体积优化实战：从 50MB 到 15MB 的瘦身之旅](https://juejin.cn/post/7680850719454642217)
-37. [RAG 接个向量库就完事？从切块到重排的 7 步流水线，我替你踩了 8 个深坑](https://juejin.cn/post/7680833071233564706)
-38. [给 SPA 加页面切换动画：View Transitions API 从入门到实战](https://juejin.cn/post/7680833071233089570)
-39. [你写的 Prompt，可能有一半是安慰剂](https://juejin.cn/post/7680768670985469952)
+31. [你写的 Prompt，可能有一半是安慰剂](https://juejin.cn/post/7680768670985469952)
+32. [从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战](https://juejin.cn/post/7680761768890089482)
+33. [三年前估值45亿，现在129亿——Hugging Face凭什么被老黄盯上？](https://juejin.cn/post/7681266980104421382)
+34. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
+35. [Claude Fable 5.1正式上线：Claude 最强，还降价？](https://juejin.cn/post/7680972429381009471)
+36. [告别影楼和付费 App，5 分钟本地搭一个证件照自由平台｜HivisionIDPhotos 开箱实测](https://juejin.cn/post/7680899684959502346)
+37. [[Android 从零到一] APK 体积优化实战：从 50MB 到 15MB 的瘦身之旅](https://juejin.cn/post/7680850719454642217)
+38. [RAG 接个向量库就完事？从切块到重排的 7 步流水线，我替你踩了 8 个深坑](https://juejin.cn/post/7680833071233564706)
+39. [给 SPA 加页面切换动画：View Transitions API 从入门到实战](https://juejin.cn/post/7680833071233089570)
 40. [Everything is ViewModel：让状态管理回到对象世界](https://juejin.cn/post/7680551559094255658)
 41. [二、《从零手撸 Agent》 — 聊聊 LLM 的失忆真相](https://juejin.cn/post/7680445889979301907)
 42. [GenOffice上手指南：免费替代Word+PPT+Excel的AI办公神器](https://juejin.cn/post/7680916426782998538)
