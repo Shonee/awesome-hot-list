@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-06 04:19:22",
+    "generatedAt": "2026-09-06 04:26:27",
     "channels": [
         {
             "schemaVersion": 1,
@@ -7611,7 +7611,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-06 01:24:34",
+            "fetchedAt": "2026-09-06 04:26:27",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -7624,7 +7624,7 @@
                             "rank": 1,
                             "title": "现在做什么技术的最容易找工作",
                             "url": "https://www.v2ex.com/t/1239623",
-                            "hot": 54,
+                            "hot": 55,
                             "description": "职场话题",
                             "imageUrl": "",
                             "publishedAt": "2026-09-05 12:01:54"
@@ -7651,13 +7651,22 @@
                             "rank": 4,
                             "title": "我又又又重构了我的站点",
                             "url": "https://www.v2ex.com/t/1239655",
-                            "hot": 29,
+                            "hot": 30,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-05 11:43:09"
                         },
                         {
                             "rank": 5,
+                            "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
+                            "url": "https://www.v2ex.com/t/1239707",
+                            "hot": 29,
+                            "description": "分享创造",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-05 17:22:35"
+                        },
+                        {
+                            "rank": 6,
                             "title": "Claude 是不是又重置了？",
                             "url": "https://www.v2ex.com/t/1239616",
                             "hot": 28,
@@ -7666,7 +7675,7 @@
                             "publishedAt": "2026-09-05 08:09:58"
                         },
                         {
-                            "rank": 6,
+                            "rank": 7,
                             "title": "有没有成色好的二手笔记本网店推荐",
                             "url": "https://www.v2ex.com/t/1239638",
                             "hot": 26,
@@ -7675,19 +7684,10 @@
                             "publishedAt": "2026-09-05 09:57:53"
                         },
                         {
-                            "rank": 7,
-                            "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
-                            "url": "https://www.v2ex.com/t/1239707",
-                            "hot": 26,
-                            "description": "分享创造",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-05 17:22:35"
-                        },
-                        {
                             "rank": 8,
                             "title": "梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
                             "url": "https://www.v2ex.com/t/1239651",
-                            "hot": 25,
+                            "hot": 26,
                             "description": "分享创造",
                             "imageUrl": "",
                             "publishedAt": "2026-09-05 11:06:45"
