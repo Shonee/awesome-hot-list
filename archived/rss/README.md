@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-05 21:51:30
+> 更新时间：2026-09-06 01:17:09
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕](https://www.qbitai.com/2026/09/484649.html)
-2. [这个世界模型训练完就“退场”，机器人反而更能干了](https://www.qbitai.com/2026/09/484611.html)
-3. [姚班校友主导，Claude攻克费马大定理首个完整形式化证明](https://www.qbitai.com/2026/09/484551.html)
-4. [趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力](https://www.qbitai.com/2026/09/484547.html)
-5. [机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理](https://www.qbitai.com/2026/09/484437.html)
+1. [GPT-6带火循环Transformer，阿里早已布局](https://www.qbitai.com/2026/09/484726.html)
+2. [押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司](https://www.qbitai.com/2026/09/484683.html)
+3. [陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕](https://www.qbitai.com/2026/09/484649.html)
+4. [这个世界模型训练完就“退场”，机器人反而更能干了](https://www.qbitai.com/2026/09/484611.html)
+5. [姚班校友主导，Claude攻克费马大定理首个完整形式化证明](https://www.qbitai.com/2026/09/484551.html)
 
 ## InfoQ
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
-2. [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
-3. [Terpstra Keyboard](http://terpstrakeyboard.com/)
-4. [Netherlands pulls gold out of the US for fears of 'geopolitical unrest'](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)
-5. [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
-
-## AI News
-
-1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
-2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
-3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
-4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
-5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
+1. [Flock used >100 times to track veteran who recorded traffic stop](https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/)
+2. [Bob and Van](https://marco.org/2026/09/04/bob-and-van)
+3. [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
+4. [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+5. [How the Disaster of "Forever Chemicals" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
 
 ## 阮一峰网络日志
 
