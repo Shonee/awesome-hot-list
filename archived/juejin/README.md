@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-06 03:15:10
+> 更新时间：2026-09-06 04:18:50
 
 ## 热门文章
 
@@ -36,21 +36,21 @@
 30. [从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战](https://juejin.cn/post/7680761768890089482)
 31. [Web 端可用！3 款开源数据库 ER 图设计工具！](https://juejin.cn/post/7680850719453708329)
 32. [三年前估值45亿，现在129亿——Hugging Face凭什么被老黄盯上？](https://juejin.cn/post/7681266980104421382)
-33. [Claude Fable 5.1正式上线：Claude 最强，还降价？](https://juejin.cn/post/7680972429381009471)
-34. [告别影楼和付费 App，5 分钟本地搭一个证件照自由平台｜HivisionIDPhotos 开箱实测](https://juejin.cn/post/7680899684959502346)
-35. [[Android 从零到一] APK 体积优化实战：从 50MB 到 15MB 的瘦身之旅](https://juejin.cn/post/7680850719454642217)
-36. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
+33. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
+34. [Claude Fable 5.1正式上线：Claude 最强，还降价？](https://juejin.cn/post/7680972429381009471)
+35. [告别影楼和付费 App，5 分钟本地搭一个证件照自由平台｜HivisionIDPhotos 开箱实测](https://juejin.cn/post/7680899684959502346)
+36. [[Android 从零到一] APK 体积优化实战：从 50MB 到 15MB 的瘦身之旅](https://juejin.cn/post/7680850719454642217)
 37. [RAG 接个向量库就完事？从切块到重排的 7 步流水线，我替你踩了 8 个深坑](https://juejin.cn/post/7680833071233564706)
 38. [给 SPA 加页面切换动画：View Transitions API 从入门到实战](https://juejin.cn/post/7680833071233089570)
 39. [你写的 Prompt，可能有一半是安慰剂](https://juejin.cn/post/7680768670985469952)
 40. [Everything is ViewModel：让状态管理回到对象世界](https://juejin.cn/post/7680551559094255658)
 41. [二、《从零手撸 Agent》 — 聊聊 LLM 的失忆真相](https://juejin.cn/post/7680445889979301907)
-42. [GenOffice上手指南：免费替代Word+PPT+Excel的AI办公神器](https://juejin.cn/post/7680916426782998538)
+42. [PDF Viewer KMP（基于 chrome 的 PDFium 内核）](https://juejin.cn/post/7680766055174832171)
 43. [面试官：来，手写一个 JSON.stringify —— 90% 的人倒在了边界情况](https://juejin.cn/post/7680889825692598315)
 44. [WorkBuddy 入门4：让 AI 替我每天领 100 积分](https://juejin.cn/post/7680770838016262195)
-45. [PDF Viewer KMP（基于 chrome 的 PDFium 内核）](https://juejin.cn/post/7680766055174832171)
+45. [GenOffice上手指南：免费替代Word+PPT+Excel的AI办公神器](https://juejin.cn/post/7680916426782998538)
 46. [VisActor全新图可视化开源项目：VGraph](https://juejin.cn/post/7680467520382386217)
 47. [别只混淆代码：用 Kaleido 加固整个 Android Release AAB](https://juejin.cn/post/7680938642575949858)
-48. [踩坑复盘：为什么在输入框按个回车，页面就偷偷刷新了？](https://juejin.cn/post/7681462243146743834)
+48. [🌃 HTTP 不认识你：JWT 登录鉴权的完整"酒店入住"指南](https://juejin.cn/post/7681116470866182171)
 49. [我用 Next.js + React Flow 从零搭建了一个可视化 AI 工作流编排平台](https://juejin.cn/post/7681151526543261722)
 50. [Redis缓存雪崩把我坑惨了，这次长记性了](https://juejin.cn/post/7681138712660197391)

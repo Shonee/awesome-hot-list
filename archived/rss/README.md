@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-06 03:15:36
+> 更新时间：2026-09-06 04:19:21
 
 ## 少数派
 
@@ -54,17 +54,9 @@
 
 1. [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
 2. [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
-3. [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
-4. [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
-5. [How the Disaster of "Forever Chemicals" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
-
-## AI News
-
-1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
-2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
-3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
-4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
-5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
+3. [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+4. [How the Disaster of "Forever Chemicals" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
+5. [Meet the Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
 
 ## 阮一峰网络日志
 
