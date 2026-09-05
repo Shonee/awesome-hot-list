@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-06 06:17:17
+> 更新时间：2026-09-06 07:16:36
 
 ## 最新资讯
 
-1. [极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存](https://www.ithome.com/0/998/840.htm)
-2. [索尼澄清 2028 年 PlayStation 光盘产量相比目前下降 10%，而非降至 10%](https://www.ithome.com/0/998/839.htm)
-3. [预售价 31.98 万-38.98 万元，比亚迪腾势 Z9S 展车抵达全国 166 城 334 家门店](https://www.ithome.com/0/998/838.htm)
-4. [合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”](https://www.ithome.com/0/998/837.htm)
-5. [Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘](https://www.ithome.com/0/998/836.htm)
+1. [特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营](https://www.ithome.com/0/998/849.htm)
+2. [reMarkable 为旗下墨水屏电纸书推送 3.28 版系统更新：全新 Capture 工具、支持从网盘快速导入图片](https://www.ithome.com/0/998/848.htm)
+3. [爆料人认为失眠组《毒液》游戏并未取消，此前曾有传闻称项目已取消](https://www.ithome.com/0/998/847.htm)
+4. [“全球首款完全透明的掌机”Arduview 问世：透明电路板 + OLED 面板、将于明年开启众筹](https://www.ithome.com/0/998/846.htm)
+5. [Epic 喜加一：原价 31 元二战题材射击游戏《Beach Invasion 1944》免费领](https://www.ithome.com/0/998/845.htm)

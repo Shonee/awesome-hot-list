@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-06 06:17:07
+> 更新时间：2026-09-06 07:16:27
 
 ## 热门文章
 
@@ -10,8 +10,8 @@
 4. [我为什么喜欢 Compose ？](https://juejin.cn/post/7680757400489541668)
 5. [Bun 真的能取代 Node.js 吗？](https://juejin.cn/post/7680899684959272970)
 6. [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814)
-7. [一周之内，前端 AI 编程的格局被彻底改写了三次](https://juejin.cn/post/7681146373547868166)
-8. [GPT-6 发布当晚，三大 AI 集体宕机 4 小时——我扒完时间线，发现最该慌的不是宕机](https://juejin.cn/post/7681475476906950691)
+7. [GPT-6 发布当晚，三大 AI 集体宕机 4 小时——我扒完时间线，发现最该慌的不是宕机](https://juejin.cn/post/7681475476906950691)
+8. [一周之内，前端 AI 编程的格局被彻底改写了三次](https://juejin.cn/post/7681146373547868166)
 9. [GPT-6 Astra 来了，GPT-5.6 Sol 还值得用吗？聊聊 Coding、百万上下文、价格和 Plus/Pro](https://juejin.cn/post/7681223706187153443)
 10. [2026 年前端的“新王登基”：Rust 正在吃掉整个工具链](https://juejin.cn/post/7680841873821728810)
 11. [AI 时代，也许你的 Flutter 需要一套 Dartastic OpenTelemetry 监控](https://juejin.cn/post/7680757400489738276)
@@ -29,17 +29,17 @@
 23. [一篇文章带你深入拆解Skill的本质与工程实现，让你不再滥用Skill](https://juejin.cn/post/7680753213893394459)
 24. [英伟达砸130亿美元买下一个平台，黄仁勋到底在怕什么？](https://juejin.cn/post/7681266980104683526)
 25. [Compose SelectionState API — 主动控制文本选择](https://juejin.cn/post/7680473326453735434)
-26. [别再只给人写页面了：AI 已经开始自己点你的按钮、填你的表单](https://juejin.cn/post/7681010507700699151)
-27. [请问同一台服务器能同时部署前后端项目并支持https吗?](https://juejin.cn/post/7680909145756401691)
-28. [MyBatis-Plus 项目为什么越写越复杂：从一行 Wrapper 说起](https://juejin.cn/post/7680812218214236194)
-29. [打破传统 MVC：在 Go 中实践高内聚的业务驱动架构](https://juejin.cn/post/7681143768221974568)
-30. [Web 端可用！3 款开源数据库 ER 图设计工具！](https://juejin.cn/post/7680850719453708329)
-31. [你写的 Prompt，可能有一半是安慰剂](https://juejin.cn/post/7680768670985469952)
-32. [从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战](https://juejin.cn/post/7680761768890089482)
-33. [三年前估值45亿，现在129亿——Hugging Face凭什么被老黄盯上？](https://juejin.cn/post/7681266980104421382)
-34. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
-35. [Claude Fable 5.1正式上线：Claude 最强，还降价？](https://juejin.cn/post/7680972429381009471)
-36. [告别影楼和付费 App，5 分钟本地搭一个证件照自由平台｜HivisionIDPhotos 开箱实测](https://juejin.cn/post/7680899684959502346)
+26. [打破传统 MVC：在 Go 中实践高内聚的业务驱动架构](https://juejin.cn/post/7681143768221974568)
+27. [别再只给人写页面了：AI 已经开始自己点你的按钮、填你的表单](https://juejin.cn/post/7681010507700699151)
+28. [请问同一台服务器能同时部署前后端项目并支持https吗?](https://juejin.cn/post/7680909145756401691)
+29. [MyBatis-Plus 项目为什么越写越复杂：从一行 Wrapper 说起](https://juejin.cn/post/7680812218214236194)
+30. [告别影楼和付费 App，5 分钟本地搭一个证件照自由平台｜HivisionIDPhotos 开箱实测](https://juejin.cn/post/7680899684959502346)
+31. [Web 端可用！3 款开源数据库 ER 图设计工具！](https://juejin.cn/post/7680850719453708329)
+32. [你写的 Prompt，可能有一半是安慰剂](https://juejin.cn/post/7680768670985469952)
+33. [从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战](https://juejin.cn/post/7680761768890089482)
+34. [三年前估值45亿，现在129亿——Hugging Face凭什么被老黄盯上？](https://juejin.cn/post/7681266980104421382)
+35. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
+36. [Claude Fable 5.1正式上线：Claude 最强，还降价？](https://juejin.cn/post/7680972429381009471)
 37. [[Android 从零到一] APK 体积优化实战：从 50MB 到 15MB 的瘦身之旅](https://juejin.cn/post/7680850719454642217)
 38. [RAG 接个向量库就完事？从切块到重排的 7 步流水线，我替你踩了 8 个深坑](https://juejin.cn/post/7680833071233564706)
 39. [给 SPA 加页面切换动画：View Transitions API 从入门到实战](https://juejin.cn/post/7680833071233089570)

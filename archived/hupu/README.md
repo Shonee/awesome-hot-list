@@ -1,6 +1,6 @@
 # 虎扑热榜
 
-> 更新时间：2026-09-06 06:17:20
+> 更新时间：2026-09-06 07:16:40
 
 ## 步行街热帖
 
@@ -16,21 +16,21 @@
 10. [勇士和尼克斯都曾有意本-西蒙斯](https://m.hupu.com/hot?tagId=156361)
 11. [科比是唯一单赛季场均30+分且入选一防的球员](https://m.hupu.com/hot?tagId=156362)
 12. [世界杯：中国女篮61-94不敌美国](https://m.hupu.com/hot?tagId=156354)
-13. [快船官方：强烈反对NBA针对球队和伦纳德的调查结论](https://m.hupu.com/hot?tagId=156269)
-14. [曝交易达成猛龙将给伦纳德丰厚续约](https://m.hupu.com/hot?tagId=156375)
+13. [曝交易达成猛龙将给伦纳德丰厚续约](https://m.hupu.com/hot?tagId=156375)
+14. [快船官方：强烈反对NBA针对球队和伦纳德的调查结论](https://m.hupu.com/hot?tagId=156269)
 15. [本-西蒙斯1年350万美元加盟国王](https://m.hupu.com/hot?tagId=156345)
 16. [HoopsHype发布GOAT调查细节](https://m.hupu.com/hot?tagId=156377)
-17. [我的梦幻九宫格成绩](https://m.hupu.com/hot?tagId=149058)
-18. [诺维茨基曾质疑布伦森上限](https://m.hupu.com/hot?tagId=156365)
-19. [杜兰特训练师：别把所有责任都压给KD](https://m.hupu.com/hot?tagId=156363)
-20. [Siegel评詹姆斯合作：令人悲哀](https://m.hupu.com/hot?tagId=156378)
-21. [追梦：现在很多人对克莱缺乏尊重](https://m.hupu.com/hot?tagId=156364)
-22. [现役球员单场25+5+5场次：詹姆斯886场第一](https://m.hupu.com/hot?tagId=156328)
-23. [挑战传奇Against Legendary](https://m.hupu.com/hot?tagId=152939)
-24. [Shams爆料：西蒙斯8月为国王完成试训](https://m.hupu.com/hot?tagId=156351)
+17. [诺维茨基曾质疑布伦森上限](https://m.hupu.com/hot?tagId=156365)
+18. [Siegel评詹姆斯合作：令人悲哀](https://m.hupu.com/hot?tagId=156378)
+19. [我的梦幻九宫格成绩](https://m.hupu.com/hot?tagId=149058)
+20. [杜兰特训练师：别把所有责任都压给KD](https://m.hupu.com/hot?tagId=156363)
+21. [现役球员单场25+5+5场次：詹姆斯886场第一](https://m.hupu.com/hot?tagId=156328)
+22. [追梦：现在很多人对克莱缺乏尊重](https://m.hupu.com/hot?tagId=156364)
+23. [Shams爆料：西蒙斯8月为国王完成试训](https://m.hupu.com/hot?tagId=156351)
+24. [挑战传奇Against Legendary](https://m.hupu.com/hot?tagId=152939)
 25. [追梦反驳鲍尔默罚款不值一提](https://m.hupu.com/hot?tagId=156359)
 26. [2026全球总决赛LCK出征队伍：GEN、HLE、T1和DK](https://m.hupu.com/hot?tagId=156347)
 27. [追梦谈杜伦：我认为他会回活塞](https://m.hupu.com/hot?tagId=156376)
-28. [LCK季后赛冠军之路](https://m.hupu.com/hot?tagId=155797)
-29. [Siegel：杜伦以及其团队未必希望长期留在活塞](https://m.hupu.com/hot?tagId=156358)
+28. [Siegel：杜伦以及其团队未必希望长期留在活塞](https://m.hupu.com/hot?tagId=156358)
+29. [LCK季后赛冠军之路](https://m.hupu.com/hot?tagId=155797)
 30. [沃特森：科比是篮球启蒙，詹姆斯是历史最佳](https://m.hupu.com/hot?tagId=156171)
