@@ -4,6 +4,10 @@ on:
   schedule:
     # Monday 02:00 Beijing time = Sunday 18:00 UTC.
     - cron: "0 18 * * 0"
+  push:
+    branches: ["master"]
+    paths:
+      - ".archive-migration"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -27,8 +31,8 @@ permissions:
 env:
   TZ: Asia/Shanghai
   DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
-  DRY_RUN: ${{ github.event_name == 'schedule' && 'false' || inputs.dry_run }}
-  INCLUDE_LEGACY: ${{ github.event_name == 'schedule' && 'false' || inputs.include_legacy }}
+  DRY_RUN: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'push' && 'false' || inputs.dry_run }}
+  INCLUDE_LEGACY: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'push' && 'true' || inputs.include_legacy }}
 
 jobs:
   archive:
@@ -122,9 +126,10 @@ jobs:
             exit 1
           fi
           python src/script/archive.py clean --output-dir .archive-work
+          rm -f .archive-migration
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -u -- archived site/data/reports
+          git add -u -- archived site/data/reports .archive-migration
           if git diff --cached --quiet; then
             echo "No archive files needed deletion."
             exit 0
