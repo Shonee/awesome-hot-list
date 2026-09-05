@@ -45,7 +45,9 @@ def _source_commit(root: Path) -> str:
         return "unknown"
 
 
-def _dated_files(root: Path, include_legacy: bool = False) -> Iterable[tuple[Path, dt.date | None]]:
+def _dated_files(
+    root: Path, cutoff: dt.date, include_legacy: bool = False
+) -> Iterable[tuple[Path, dt.date | None]]:
     archived = root / "archived"
     if archived.is_dir():
         for path in sorted(archived.rglob("*")):
@@ -55,9 +57,12 @@ def _dated_files(root: Path, include_legacy: bool = False) -> Iterable[tuple[Pat
             if match:
                 file_date = dt.date.fromisoformat(match.group("date"))
                 if path.suffix == ".csv":
-                    yield path, file_date
+                    if file_date < cutoff:
+                        yield path, file_date
                 elif include_legacy:
-                    yield path, file_date
+                    # A dated JSON/GIF is legacy because the current archive
+                    # format is CSV; migrate it regardless of the CSV window.
+                    yield path, None
             elif include_legacy and path.name != "README.md":
                 # Channel README files are still part of the current public
                 # archive index; old JSON/Markdown/GIF/data.json files are not.
@@ -119,7 +124,7 @@ def prepare(
     today = today or dt.datetime.now().date()
     cutoff = today - dt.timedelta(days=retention_days - 1)
     selected = []
-    for path, file_date in _dated_files(root, include_legacy=include_legacy):
+    for path, file_date in _dated_files(root, cutoff, include_legacy=include_legacy):
         if file_date is None or file_date < cutoff:
             relative = path.relative_to(root).as_posix()
             selected.append(
@@ -133,7 +138,7 @@ def prepare(
             )
 
     archive_id = (
-        f"hotlist-archive-migration-{today.isoformat()}"
+        f"hotlist-archive-legacy-cleanup-{today.isoformat()}"
         if include_legacy
         else f"hotlist-archive-through-{(cutoff - dt.timedelta(days=1)).isoformat()}"
     )

@@ -45,9 +45,10 @@ class WeeklyArchiveTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             legacy = root / "archived" / "demo" / "data.json"
+            recent_legacy = root / "archived" / "demo" / "2026" / "09" / "json" / "2026-09-04.json"
             readme = root / "archived" / "demo" / "README.md"
             current = root / "archived" / "demo" / "2026" / "09" / "csv" / "2026-09-05.csv"
-            for path in (legacy, readme, current):
+            for path in (legacy, recent_legacy, readme, current):
                 path.parent.mkdir(parents=True, exist_ok=True)
                 path.write_text(path.name, encoding="utf-8")
 
@@ -60,6 +61,8 @@ class WeeklyArchiveTests(unittest.TestCase):
             )
             paths = {entry["path"] for entry in result["files"]}
             self.assertIn("archived/demo/data.json", paths)
+            self.assertIn("archived/demo/2026/09/json/2026-09-04.json", paths)
+            self.assertEqual(result["archiveId"], "hotlist-archive-legacy-cleanup-2026-09-05")
             self.assertNotIn("archived/demo/README.md", paths)
             self.assertNotIn("archived/demo/2026/09/csv/2026-09-05.csv", paths)
             verify(root, root / ".archive-work")
