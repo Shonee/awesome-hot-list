@@ -2,7 +2,7 @@
 """
 文件操作公共工具库
 
-统一本仓库所有采集脚本用到的文件路径生成、读写、校验与归档能力。
+统一本仓库所有采集脚本用到的文件路径生成与读写能力。
 
 设计原则
 --------
@@ -20,12 +20,11 @@
 """
 
 import csv
-import hashlib
 import json
 import logging
 import os
-import shutil
 import tempfile
+from datetime import datetime, timedelta
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Union
 
 logger = logging.getLogger(__name__)
@@ -106,30 +105,13 @@ def archive_path(
 
 def current_date(pattern: str = "%Y-%m-%d") -> str:
     """返回当前日期字符串，默认 ``YYYY-MM-DD``。"""
-    import time
-    return time.strftime(pattern, time.localtime())
-
-
-def current_time(pattern: str = "%Y-%m-%d %H:%M:%S") -> str:
-    """返回当前时间字符串，默认 ``YYYY-MM-DD HH:MM:SS``。"""
-    import time
-    return time.strftime(pattern, time.localtime())
-
-
-def current_year_month_day() -> Sequence[str]:
-    """返回 ``(年, 月, 日)``，月日为两位补零，用于兼容旧脚本调用。"""
-    from datetime import datetime
-    now = datetime.now()
-    return str(now.year), f"{now.month:02d}", f"{now.day:02d}"
+    return datetime.now().strftime(pattern)
 
 
 def _split_ym(date: str) -> Sequence[str]:
-    """从 ``YYYY-MM-DD`` 中拆出年月，格式异常时回退到当前日期。"""
-    parts = str(date).split("-")
-    if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
-        return parts[0], f"{int(parts[1]):02d}"
-    y, m, _ = current_year_month_day()
-    return y, m
+    """校验 ``YYYY-MM-DD`` 日期并拆出年月。"""
+    parsed = datetime.strptime(str(date), "%Y-%m-%d")
+    return str(parsed.year), f"{parsed.month:02d}"
 
 
 # ---------------------------------------------------------------------------
@@ -148,82 +130,6 @@ def ensure_parent_dir(file_path: str) -> str:
     return ensure_dir(os.path.dirname(file_path))
 
 
-#: 兼容旧名：历史脚本里叫 get_or_make_file_path
-get_or_make_file_path = ensure_parent_dir
-
-
-# ---------------------------------------------------------------------------
-# 存在性与信息
-# ---------------------------------------------------------------------------
-
-def exists(path: str) -> bool:
-    """判断文件或目录是否存在。"""
-    return os.path.exists(path)
-
-
-def is_file(path: str) -> bool:
-    return os.path.isfile(path)
-
-
-def file_size(path: str) -> int:
-    """返回文件字节数，不存在返回 0。"""
-    return os.path.getsize(path) if os.path.isfile(path) else 0
-
-
-def human_size(num_bytes: int) -> str:
-    """把字节数格式化为人类可读形式。"""
-    size = float(num_bytes)
-    for unit in ("B", "KB", "MB", "GB", "TB"):
-        if size < 1024.0 or unit == "TB":
-            return f"{size:.2f}{unit}" if unit != "B" else f"{int(size)}B"
-        size /= 1024.0
-    return f"{size:.2f}PB"
-
-
-def count_lines(path: str, encoding: str = DEFAULT_ENCODING) -> int:
-    """统计文件行数，不存在返回 0。"""
-    if not os.path.isfile(path):
-        return 0
-    with open(path, "r", encoding=encoding, errors="ignore") as f:
-        return sum(1 for _ in f)
-
-
-def list_files(
-    dir_path: str,
-    pattern: Optional[str] = None,
-    recursive: bool = True,
-    sort: bool = True,
-) -> List[str]:
-    """列出目录下的文件。
-
-    :param pattern: 后缀过滤，如 ``.json`` 或 ``json``
-    :param recursive: 是否递归子目录
-    :param sort: 是否按路径排序，保证归档顺序稳定
-    """
-    import fnmatch
-
-    if not os.path.isdir(dir_path):
-        return []
-
-    results: List[str] = []
-    if recursive:
-        for root, _dirs, files in os.walk(dir_path):
-            for name in files:
-                results.append(os.path.join(root, name))
-    else:
-        results = [
-            os.path.join(dir_path, name)
-            for name in os.listdir(dir_path)
-            if os.path.isfile(os.path.join(dir_path, name))
-        ]
-
-    if pattern:
-        suffix = pattern if pattern.startswith(".") else f".{pattern}"
-        results = [p for p in results if fnmatch.fnmatch(p, f"*{suffix}")]
-
-    return sorted(results) if sort else results
-
-
 # ---------------------------------------------------------------------------
 # 读取
 # ---------------------------------------------------------------------------
@@ -235,18 +141,6 @@ def read_text(path: str, default: Optional[str] = None, encoding: str = DEFAULT_
             return f.read()
     except (OSError, UnicodeDecodeError) as e:
         logger.warning("读取文本失败 %s: %s", path, e)
-        return default
-
-
-def read_json(path: str, default: Optional[Any] = None, encoding: str = DEFAULT_ENCODING):
-    """读取 JSON 文件，文件不存在或内容损坏时返回 default。"""
-    if not os.path.isfile(path):
-        return default
-    try:
-        with open(path, "r", encoding=encoding) as f:
-            return json.load(f)
-    except (OSError, json.JSONDecodeError) as e:
-        logger.warning("读取 JSON 失败 %s: %s", path, e)
         return default
 
 
@@ -282,10 +176,6 @@ def write_text(
     return file_path
 
 
-#: 兼容旧名的文本保存函数
-saveText = write_text
-
-
 def write_json(
     data: Any,
     file_path: str,
@@ -304,9 +194,6 @@ def write_json(
         _atomic_write(file_path, text, encoding=encoding)
     logger.debug("JSON 已保存: %s", file_path)
     return file_path
-
-
-saveJson = write_json
 
 
 def _collect_fieldnames(rows: Iterable[Dict[str, Any]]) -> List[str]:
@@ -349,10 +236,18 @@ def write_csv(
         return file_path
 
     if fieldnames is None:
-        merged = list(_collect_fieldnames(parsed))
+        fieldnames = list(_collect_fieldnames(parsed))
         if mode == "append":
-            merged = _merge_with_existing_header(file_path, merged, encoding)
-        fieldnames = merged
+            existing_header = _read_existing_header(file_path, encoding)
+            if existing_header:
+                ignored = [name for name in fieldnames if name not in existing_header]
+                if ignored:
+                    logger.warning(
+                        "CSV 已有表头，忽略新增字段 %s: %s",
+                        ignored,
+                        file_path,
+                    )
+                fieldnames = existing_header
 
     parsed = _legacy_coerce_rows(parsed, fieldnames)
 
@@ -377,10 +272,6 @@ def write_csv(
             writer.writerow({k: _csv_value(row.get(k)) for k in fieldnames})
     logger.debug("CSV 已保存: %s（%d 行）", file_path, len(parsed))
     return file_path
-
-
-#: 兼容旧名的 CSV 保存函数（历史语义即追加）
-saveCsv = write_csv
 
 
 def _coerce_rows(rows: Union[str, Sequence[Dict[str, Any]]]) -> List[Dict[str, Any]]:
@@ -460,27 +351,19 @@ def _has_content(path: str) -> bool:
     return os.path.isfile(path) and os.path.getsize(path) > 0
 
 
-def _merge_with_existing_header(
+def _read_existing_header(
     file_path: str,
-    fieldnames: List[str],
     encoding: str = DEFAULT_ENCODING,
-) -> List[str]:
-    """追加模式下，把已有文件的表头合并进来，保证列不丢。"""
+) -> Optional[List[str]]:
+    """读取已有 CSV 表头，追加时固定列数，避免新字段写坏行结构。"""
     if not _has_content(path=file_path):
-        return fieldnames
+        return None
     try:
         with open(file_path, "r", encoding=encoding, newline="") as f:
             reader = csv.reader(f)
-            header = next(reader, None)
+            return next(reader, None)
     except (OSError, UnicodeDecodeError):
-        return fieldnames
-    if not header:
-        return fieldnames
-    merged = list(header)
-    for name in fieldnames:
-        if name not in merged:
-            merged.append(name)
-    return merged
+        return None
 
 
 def _write_csv_atomic(rows, file_path, fieldnames, mode, encoding):
@@ -522,302 +405,11 @@ def _atomic_write(file_path: str, text: str, encoding: str = DEFAULT_ENCODING) -
         raise
 
 
-def append_json_timeslice(
-    file_path: str,
-    key: str,
-    value: Any,
-    encoding: str = DEFAULT_ENCODING,
-    atomic: bool = True,
-) -> str:
-    """按“时间片键 -> 数据”追加写入 JSON。
-
-    这是本仓库的核心落盘模式：同一天的每个采集时刻作为一个 key，
-    追加进当天的 JSON 文件。
-
-    :param file_path: 目标 JSON 路径
-    :param key: 时间片键，通常是 ``NOW_TIME``
-    :param value: 该时间片采集到的数据
-    :param atomic: 默认开启，避免并发写入损坏当天文件
-    """
-    data = read_json(file_path, default={}, encoding=encoding)
-    if not isinstance(data, dict):
-        logger.warning("JSON 结构异常，已重置为空字典: %s", file_path)
-        data = {}
-    data[key] = value
-    return write_json(data, file_path, encoding=encoding, atomic=atomic)
-
-
 # ---------------------------------------------------------------------------
-# 校验
-# ---------------------------------------------------------------------------
-
-def sha256_file(path: str, chunk_size: int = 1 << 20) -> str:
-    """计算文件的 SHA-256，逐块读取以适配大文件。"""
-    h = hashlib.sha256()
-    with open(path, "rb") as f:
-        for chunk in iter(lambda: f.read(chunk_size), b""):
-            h.update(chunk)
-    return h.hexdigest()
-
-
-def sha256_text(text: Union[str, bytes]) -> str:
-    """计算文本或字节串的 SHA-256。"""
-    data = text.encode(DEFAULT_ENCODING) if isinstance(text, str) else text
-    return hashlib.sha256(data).hexdigest()
-
-
-def verify_file(path: str, expected_sha256: str) -> bool:
-    """校验文件 SHA-256 是否匹配。"""
-    return os.path.isfile(path) and sha256_file(path) == expected_sha256
-
-
-def write_manifest(
-    files: Iterable[str],
-    out_path: str,
-    root: str = "",
-    encoding: str = DEFAULT_ENCODING,
-) -> str:
-    """生成文件清单（含 SHA-256），供月度归档做完整性校验。
-
-    输出格式为 JSON 数组，每项含 path / bytes / sha256。
-    """
-    entries = []
-    for path in files:
-        entries.append({
-            "path": os.path.relpath(path, root) if root else path,
-            "bytes": file_size(path),
-            "sha256": sha256_file(path),
-        })
-    return write_json(entries, out_path, encoding=encoding)
-
-
-def verify_manifest(manifest_path: str, root: str = "") -> List[str]:
-    """按清单逐项校验，返回校验失败的文件相对路径列表。"""
-    entries = read_json(manifest_path, default=[])
-    failed = []
-    for entry in entries:
-        rel = entry.get("path", "")
-        target = os.path.join(root, rel) if root else rel
-        if not verify_file(target, entry.get("sha256", "")):
-            failed.append(rel)
-    return failed
-
-
-# ---------------------------------------------------------------------------
-# 通用文件操作
-# ---------------------------------------------------------------------------
-
-def copy(src: str, dst: str, overwrite: bool = True) -> str:
-    """复制文件或目录。"""
-    ensure_parent_dir(dst)
-    if os.path.isdir(src):
-        if overwrite and os.path.exists(dst):
-            shutil.rmtree(dst)
-        shutil.copytree(src, dst, dirs_exist_ok=not overwrite)
-    else:
-        if overwrite or not os.path.exists(dst):
-            shutil.copy2(src, dst)
-    return dst
-
-
-def move(src: str, dst: str) -> str:
-    """移动文件或目录，自动创建目标父目录。"""
-    ensure_parent_dir(dst)
-    shutil.move(src, dst)
-    return dst
-
-
-def remove(path: str, missing_ok: bool = True) -> bool:
-    """删除文件或目录，返回是否真的删除了东西。"""
-    if os.path.isdir(path):
-        shutil.rmtree(path)
-        return True
-    if os.path.isfile(path):
-        os.remove(path)
-        return True
-    if not missing_ok:
-        raise FileNotFoundError(path)
-    return False
-
-
-def touch(path: str) -> str:
-    """创建空文件（若已存在则仅更新访问/修改时间）。"""
-    ensure_parent_dir(path)
-    with open(path, "a", encoding=DEFAULT_ENCODING):
-        os.utime(path, None)
-    return path
-
-
-def make_archive(src_dir: str, out_path: str, fmt: str = "tar.gz") -> str:
-    """把目录打包为归档文件。
-
-    :param fmt: tar.gz / tgz / tar / zip / tar.bz2 / tar.xz（也接受 shutil
-        内部的 gztar / bztar / xztar 写法）
-    :return: 生成的归档文件路径（含扩展名）
-
-    实现说明：
-    不使用 ``shutil.make_archive``，因为它会把根目录自身（``.``）也打进归档，
-    解压时 ``os.mkdir`` 撞上已存在的目标目录会抛 EEXIST，导致解压必然失败。
-    这里直接调用 tarfile / zipfile，只打包目录内容，并按名称排序，
-    保证同样的输入产出同样的字节，便于月度归档做哈希校验。
-    """
-    out_path = os.path.abspath(out_path)
-    ensure_parent_dir(out_path)
-
-    if not os.path.isdir(src_dir):
-        raise NotADirectoryError(src_dir)
-
-    fmt = (fmt or "tar.gz").lstrip(".").lower()
-    fmt_map = {
-        "tar.gz": ("gztar", ".tar.gz"), "tgz": ("gztar", ".tar.gz"),
-        "gztar": ("gztar", ".tar.gz"),
-        "tar.bz2": ("bztar", ".tar.bz2"), "bz2": ("bztar", ".tar.bz2"),
-        "bztar": ("bztar", ".tar.bz2"),
-        "tar.xz": ("xztar", ".tar.xz"), "xz": ("xztar", ".tar.xz"),
-        "xztar": ("xztar", ".tar.xz"),
-        "tar": ("tar", ".tar"), "zip": ("zip", ".zip"),
-    }
-    if fmt not in fmt_map:
-        raise ValueError(f"不支持的打包格式: {fmt!r}，可选值: {sorted(fmt_map)}")
-    shutil_fmt, suffix = fmt_map[fmt]
-
-    base = out_path
-    for candidate in (".tar.gz", ".tar.bz2", ".tar.xz", ".tgz", ".tbz2", ".txz", ".tar", ".zip"):
-        if base.endswith(candidate):
-            base = base[: -len(candidate)]
-            break
-    target = base + suffix
-
-    if shutil_fmt == "zip":
-        import zipfile
-        with zipfile.ZipFile(target, "w", compression=zipfile.ZIP_DEFLATED) as zf:
-            for name in sorted(os.listdir(src_dir)):
-                _zip_add_normalized(zf, os.path.join(src_dir, name), name)
-    else:
-        import gzip
-        import tarfile
-        with open(target, "wb") as raw:
-            # gzip 头部自带一个 mtime 字段，不置零同样会破坏可复现性
-            if shutil_fmt == "gztar":
-                stream = gzip.GzipFile(filename="", mode="wb",
-                                       fileobj=raw, mtime=ARCHIVE_FIXED_MTIME)
-            elif shutil_fmt == "bztar":
-                import bz2
-                stream = bz2.BZ2File(raw, "wb")
-            elif shutil_fmt == "xztar":
-                import lzma
-                stream = lzma.LZMAFile(raw, "wb")
-            else:
-                stream = raw
-            try:
-                with tarfile.open(fileobj=stream, mode="w") as tar:
-                    for name in sorted(os.listdir(src_dir)):
-                        _add_normalized(tar, os.path.join(src_dir, name), name)
-            finally:
-                if stream is not raw:
-                    stream.close()
-
-    logger.debug("已打包 %s -> %s", src_dir, target)
-    return target
-
-
-#: 归档内统一使用的时间戳（1980-01-01），抹掉实际 mtime 以保证可复现
-ARCHIVE_FIXED_MTIME = 315532800
-
-
-#: zip 内统一使用的时间戳，同样是为了可复现（zip 不支持 1970 年之前的日期）
-ZIP_FIXED_DATE_TIME = (1980, 1, 1, 0, 0, 0)
-
-
-def _zip_add_normalized(zf, full_path: str, arcname: str) -> None:
-    """把文件/目录加入 zip 并抹平 mtime。
-
-    ``zf.write`` 会写入真实 mtime 与系统相关的权限位，导致同样内容
-    两次打包字节不同。这里手动构造 ZipInfo 以固定这些字段。
-    """
-    import zipfile
-
-    if os.path.isdir(full_path):
-        info = zipfile.ZipInfo(arcname.rstrip("/") + "/", date_time=ZIP_FIXED_DATE_TIME)
-        info.compress_type = zipfile.ZIP_DEFLATED
-        info.external_attr = (0o40755 << 16) | 0x10
-        zf.writestr(info, b"")
-        for name in sorted(os.listdir(full_path)):
-            _zip_add_normalized(
-                zf,
-                os.path.join(full_path, name),
-                f"{arcname.rstrip('/')}/{name}",
-            )
-        return
-
-    info = zipfile.ZipInfo(arcname, date_time=ZIP_FIXED_DATE_TIME)
-    info.compress_type = zipfile.ZIP_DEFLATED
-    info.external_attr = 0o644 << 16
-    with open(full_path, "rb") as f:
-        zf.writestr(info, f.read())
-
-
-def _add_normalized(tar, full_path: str, arcname: str) -> None:
-    """把文件/目录加入 tar，并抹平 mtime、属主等易变元数据。
-
-    直接 ``tar.add`` 会写入真实 mtime 与 uid/gid，导致同样内容两次打包
-    字节不同。这里改用 gettarinfo + addfile 逐项重置，使归档可复现。
-    """
-    info = tar.gettarinfo(full_path, arcname=arcname)
-    info.mtime = ARCHIVE_FIXED_MTIME
-    info.uid = 0
-    info.gid = 0
-    info.uname = ""
-    info.gname = ""
-
-    if info.isreg():
-        with open(full_path, "rb") as f:
-            tar.addfile(info, f)
-    else:
-        tar.addfile(info)
-        if info.isdir():
-            for name in sorted(os.listdir(full_path)):
-                _add_normalized(
-                    tar,
-                    os.path.join(full_path, name),
-                    os.path.join(arcname, name),
-                )
-
-
-def extract_archive(archive_path: str, dest_dir: str) -> str:
-    """解压归档文件到目标目录。"""
-    ensure_dir(dest_dir)
-    shutil.unpack_archive(archive_path, dest_dir)
-    return dest_dir
-
-
-def dir_size(dir_path: str) -> int:
-    """统计目录总字节数。"""
-    total = 0
-    for root, _dirs, files in os.walk(dir_path):
-        for name in files:
-            fp = os.path.join(root, name)
-            if not os.path.islink(fp):
-                total += file_size(fp)
-    return total
-
-
-def month_dir(platform: str, year: Union[int, str], month: Union[int, str],
-              root: str = ARCHIVE_ROOT) -> str:
-    """返回某渠道某年月的归档目录，如 ``archived/douyin/2026/09``。"""
-    return os.path.join(root, platform, str(year), f"{int(month):02d}")
-
-
-# ---------------------------------------------------------------------------
-# 渠道级聚合产物路径（优化后的归档格式）
+# 渠道级归档路径
 #
-# 归档格式优化后：
-#   - md 不再每天一个文件，而是每渠道一份 `archived/<platform>/README.md`，
-#     每天用最新快照覆盖式更新；
-#   - json 不再按时间片写 `json/<date>.json`，而是每天由聚合任务整合昨天
-#     csv，产出 `archived/<platform>/data.json`（按日期滚动 7 天）；
-#   - 动图（可选）放在 `archived/<platform>/gif/` 下，按日期滚动。
-# 这些路径一律由下方函数生成，避免脚本各自拼字符串。
+# 当前采集链路只维护每个渠道的 CSV 时间片和最新快照说明；报告由
+# `src/hotlist/report.py` 直接读取 CSV 生成，页面读取 `site/data/`。
 # ---------------------------------------------------------------------------
 
 def channel_readme_path(platform: str, root: str = ARCHIVE_ROOT) -> str:
@@ -825,23 +417,6 @@ def channel_readme_path(platform: str, root: str = ARCHIVE_ROOT) -> str:
     return os.path.join(root, platform, "README.md")
 
 
-def data_json_path(platform: str, root: str = ARCHIVE_ROOT) -> str:
-    """返回渠道级整合数据路径 ``archived/<platform>/data.json``。"""
-    return os.path.join(root, platform, "data.json")
-
-
-def gif_dir(platform: str, root: str = ARCHIVE_ROOT) -> str:
-    """返回渠道级动图目录 ``archived/<platform>/gif/``。"""
-    return os.path.join(root, platform, "gif")
-
-
 def yesterday_date(pattern: str = "%Y-%m-%d") -> str:
     """返回昨天的日期字符串（默认 ``YYYY-MM-DD``）。"""
-    from datetime import timedelta
-    return (current_datetime() - timedelta(days=1)).strftime(pattern)
-
-
-def current_datetime():
-    """返回当前 datetime 对象（兼容旧调用，避免重复 import）。"""
-    from datetime import datetime
-    return datetime.now()
+    return (datetime.now() - timedelta(days=1)).strftime(pattern)

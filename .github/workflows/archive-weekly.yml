@@ -1,0 +1,137 @@
+name: Archive weekly hot-list data
+
+on:
+  schedule:
+    # Monday 02:00 Beijing time = Sunday 18:00 UTC.
+    - cron: "0 18 * * 0"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Build and verify locally without creating a release or deleting files"
+        required: true
+        default: true
+        type: boolean
+      include_legacy:
+        description: "One-time migration: include old JSON, Markdown, GIF, and data.json archive files"
+        required: true
+        default: false
+        type: boolean
+
+concurrency:
+  group: hotlist-repository-writer
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  TZ: Asia/Shanghai
+  DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+  DRY_RUN: ${{ github.event_name == 'schedule' && 'false' || inputs.dry_run }}
+  INCLUDE_LEGACY: ${{ github.event_name == 'schedule' && 'false' || inputs.include_legacy }}
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout default branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build seven-day rolling archive
+        id: package
+        run: |
+          archive_args=(prepare --retention-days 7 --output-dir .archive-work)
+          if [ "$INCLUDE_LEGACY" = "true" ]; then
+            archive_args+=(--include-legacy)
+          fi
+          python src/script/archive.py "${archive_args[@]}"
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from pathlib import Path
+
+          result = json.loads(Path('.archive-work/result.json').read_text(encoding='utf-8'))
+          print(f"has_files={str(result['hasFiles']).lower()}")
+          print(f"archive_id={result['archiveId']}")
+          print(f"end_date={result['endDate']}")
+          for index, name in enumerate(result.get('assets', [])):
+              print(f"asset_{index}={name}")
+          PY
+
+      - name: Verify local archive
+        if: steps.package.outputs.has_files == 'true'
+        run: python src/script/archive.py verify --output-dir .archive-work
+
+      - name: Stop after dry run
+        if: steps.package.outputs.has_files == 'true' && env.DRY_RUN == 'true'
+        run: echo "Dry run completed. No release or branch changes were made." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publish and verify GitHub Release
+        if: steps.package.outputs.has_files == 'true' && env.DRY_RUN != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          tag="archive-${{ steps.package.outputs.archive_id }}"
+          archive=".archive-work/${{ steps.package.outputs.asset_0 }}"
+          manifest=".archive-work/${{ steps.package.outputs.asset_1 }}"
+          sums=".archive-work/${{ steps.package.outputs.asset_2 }}"
+
+          if ! gh release view "$tag" >/dev/null 2>&1; then
+            gh release create "$tag" --draft --title "Hot List Archive through ${{ steps.package.outputs.end_date }}" \
+              --notes "Seven-day rolling archive. Assets are verified before repository cleanup."
+          fi
+
+          for file in "$archive" "$manifest" "$sums"; do
+            name="$(basename "$file")"
+            if gh release view "$tag" --json assets --jq '.assets[].name' | grep -Fqx "$name"; then
+              check_dir="$(mktemp -d)"
+              gh release download "$tag" --pattern "$name" --dir "$check_dir"
+              cmp -s "$file" "$check_dir/$name" || {
+                echo "Existing release asset differs: $tag / $name" >&2
+                exit 1
+              }
+              rm -rf "$check_dir"
+            else
+              gh release upload "$tag" "$file"
+            fi
+          done
+
+          remote_dir="$(mktemp -d)"
+          gh release download "$tag" --pattern "$(basename "$archive")" --pattern "$(basename "$manifest")" --pattern "$(basename "$sums")" --dir "$remote_dir"
+          (cd "$remote_dir" && sha256sum -c "$(basename "$sums")")
+          gh release edit "$tag" --draft=false
+          echo "- Published and verified [$tag](${{ github.server_url }}/${{ github.repository }}/releases/tag/$tag)." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Delete only release-verified files
+        if: steps.package.outputs.has_files == 'true' && env.DRY_RUN != 'true'
+        run: |
+          set -euo pipefail
+          git fetch origin "$DEFAULT_BRANCH"
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse "origin/$DEFAULT_BRANCH")" ]; then
+            echo "Default branch changed while the release was being published; rerun to repackage current files." >&2
+            exit 1
+          fi
+          python src/script/archive.py clean --output-dir .archive-work
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u -- archived site/data/reports
+          if git diff --cached --quiet; then
+            echo "No archive files needed deletion."
+            exit 0
+          fi
+          git commit -m "chore: move seven-day archive to GitHub Release"
+          git push origin "HEAD:$DEFAULT_BRANCH"
+
+      - name: Report empty selection
+        if: steps.package.outputs.has_files != 'true'
+        run: echo "No data older than seven days was found; no release or cleanup was needed." >> "$GITHUB_STEP_SUMMARY"
