@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-06 04:19:21
+> 更新时间：2026-09-06 05:16:40
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
-2. [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
-3. [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
-4. [How the Disaster of "Forever Chemicals" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
-5. [Meet the Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
+1. [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+2. [Finite time blowup for an averaged three-dimensional Navier-Stokes equation](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
+3. [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
+4. [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
+5. [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
 
 ## 阮一峰网络日志
 
