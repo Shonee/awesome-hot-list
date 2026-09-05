@@ -4,6 +4,14 @@
 
 `site/` 由 `pages.yml` 直接发布到 GitHub Pages，无需 Node.js 或前端构建步骤。
 
+## 推荐工具
+
+[![OrcaRouter Partner](https://img.shields.io/badge/OrcaRouter-Partner-2563eb)](https://www.orcarouter.ai/ref/ref_534409880046a7fd980d)
+
+本项目推荐使用 [OrcaRouter](https://www.orcarouter.ai/ref/ref_534409880046a7fd980d) 统一接入多种 AI 模型。
+
+> 上述链接为 OrcaRouter Partner 推荐链接。
+
 ## 页面与数据
 
 `site/index.html` 包含三个视图：
