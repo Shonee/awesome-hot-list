@@ -1,14 +1,14 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-06",
-    "generatedAt": "2026-09-06 01:17:10",
-    "summary": "互联网最古老的恐惧，被 AI 复活了成为本期综合热度最高的话题，苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了紧随其后。当前覆盖 13 个有效渠道，共形成 24 个榜单时间切片；发现 4 个跨渠道重复热点。",
+    "generatedAt": "2026-09-06 01:24:36",
+    "summary": "互联网最古老的恐惧，被 AI 复活了成为本期综合热度最高的话题，苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了紧随其后。当前覆盖 14 个有效渠道，共形成 25 个榜单时间切片；发现 4 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 681,
+        "deduplicated": 691,
         "resonance": 4,
         "maxRise": 0,
-        "slices": 24,
-        "coverage": 81
+        "slices": 25,
+        "coverage": 88
     },
     "topTopics": [
         {
@@ -372,112 +372,9 @@
     ],
     "words": [
         {
-            "word": "第一",
-            "weight": 12,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 3,
-                    "title": "张雪机车德比斯第一回合季军",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%BE%B7%E6%AF%94%E6%96%AF%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E5%AD%A3%E5%86%9B"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 18,
-                    "title": "【花学12大历史事件逐帧解读】第一回：伦敦暖气致疯事件",
-                    "url": "https://b23.tv/BV1nGtC6wE9y"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 1,
-                    "title": "张雪机车法国站第一回合第三名",
-                    "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E7%AC%AC%E4%B8%89%E5%90%8D"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 28,
-                    "title": "第一次对韩国人做的饭产生食欲",
-                    "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%81%9A%E7%9A%84%E9%A5%AD%E4%BA%A7%E7%94%9F%E9%A3%9F%E6%AC%B2&Refer=index"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 6,
-                    "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
-                    "url": "https://juejin.cn/post/7680471403955191814"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 8,
-                    "title": "第一批戴运动手环的受害者出现了",
-                    "url": "https://www.toutiao.com/trending/7681693452053151807/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681693452053151807%22%2C%22hot_board_impr_id%22%3A%2220260906011540CA55C875B5BF3F9099B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%AC%AC%E4%B8%80%E6%89%B9%E6%88%B4%E8%BF%90%E5%8A%A8%E6%89%8B%E7%8E%AF%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7681693452053151807"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 22,
-                    "title": "【林小C】十三学得琵琶成 名属教坊第一部《琵琶行》大唐盛世版",
-                    "url": "https://www.acfun.cn/v/ac48827974"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 23,
-                    "title": "休息的小狗崽_原创志怪单元剧《归藏·第一回》+【视频类赛道+AI叙事短片】 第一回  嫁",
-                    "url": "https://www.acfun.cn/v/ac48827848"
-                },
-                {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 20,
-                    "title": "今天的晚霞像秋日降临时的第一个吻",
-                    "url": "https://www.douban.com/group/topic/498741012/?_spm_id=MTQ5NTM3Mjk4"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 17,
-                    "title": "现役球员单场25+5+5场次：詹姆斯886场第一",
-                    "url": "https://m.hupu.com/hot?tagId=156328"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 20,
-                    "title": "中企第一的海尔智家，IFA2026又全面迭代AI",
-                    "url": "https://www.36kr.com/p/3969815572623874"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 1,
-                    "title": "上财滴水湖高金迎2026开学第一课：持续探索“新金融、新产业、新技术”融合",
-                    "url": "http://news.10jqka.com.cn/20260905/c679628282.shtml"
-                }
-            ]
-        },
-        {
             "word": "AI",
-            "weight": 37,
-            "tone": "teal",
+            "weight": 38,
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -722,6 +619,109 @@
             ]
         },
         {
+            "word": "第一",
+            "weight": 12,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 3,
+                    "title": "张雪机车德比斯第一回合季军",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%BE%B7%E6%AF%94%E6%96%AF%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E5%AD%A3%E5%86%9B"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 18,
+                    "title": "【花学12大历史事件逐帧解读】第一回：伦敦暖气致疯事件",
+                    "url": "https://b23.tv/BV1nGtC6wE9y"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 1,
+                    "title": "张雪机车法国站第一回合第三名",
+                    "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E7%AC%AC%E4%B8%89%E5%90%8D"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 28,
+                    "title": "第一次对韩国人做的饭产生食欲",
+                    "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%81%9A%E7%9A%84%E9%A5%AD%E4%BA%A7%E7%94%9F%E9%A3%9F%E6%AC%B2&Refer=index"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 6,
+                    "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
+                    "url": "https://juejin.cn/post/7680471403955191814"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 8,
+                    "title": "第一批戴运动手环的受害者出现了",
+                    "url": "https://www.toutiao.com/trending/7681693452053151807/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681693452053151807%22%2C%22hot_board_impr_id%22%3A%2220260906011540CA55C875B5BF3F9099B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%AC%AC%E4%B8%80%E6%89%B9%E6%88%B4%E8%BF%90%E5%8A%A8%E6%89%8B%E7%8E%AF%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7681693452053151807"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 22,
+                    "title": "【林小C】十三学得琵琶成 名属教坊第一部《琵琶行》大唐盛世版",
+                    "url": "https://www.acfun.cn/v/ac48827974"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 23,
+                    "title": "休息的小狗崽_原创志怪单元剧《归藏·第一回》+【视频类赛道+AI叙事短片】 第一回  嫁",
+                    "url": "https://www.acfun.cn/v/ac48827848"
+                },
+                {
+                    "channelId": "douban",
+                    "channelName": "豆瓣",
+                    "ranking": "小组精选",
+                    "rank": 20,
+                    "title": "今天的晚霞像秋日降临时的第一个吻",
+                    "url": "https://www.douban.com/group/topic/498741012/?_spm_id=MTQ5NTM3Mjk4"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 17,
+                    "title": "现役球员单场25+5+5场次：詹姆斯886场第一",
+                    "url": "https://m.hupu.com/hot?tagId=156328"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 20,
+                    "title": "中企第一的海尔智家，IFA2026又全面迭代AI",
+                    "url": "https://www.36kr.com/p/3969815572623874"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 1,
+                    "title": "上财滴水湖高金迎2026开学第一课：持续探索“新金融、新产业、新技术”融合",
+                    "url": "http://news.10jqka.com.cn/20260905/c679628282.shtml"
+                }
+            ]
+        },
+        {
             "word": "美国",
             "weight": 15,
             "tone": "gold",
@@ -944,9 +944,80 @@
             ]
         },
         {
+            "word": "工作",
+            "weight": 8,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 74,
+                    "title": "【鬼谷闲谈】一个元素能在工作中捅多大娄子",
+                    "url": "https://b23.tv/BV1cMtz6EEEn"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 22,
+                    "title": "从 Token 到蒸馏：一步步理解大模型如何工作",
+                    "url": "https://juejin.cn/post/7681213028792500287"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 49,
+                    "title": "我用 Next.js + React Flow 从零搭建了一个可视化 AI 工作流编排平台",
+                    "url": "https://juejin.cn/post/7681151526543261722"
+                },
+                {
+                    "channelId": "douban",
+                    "channelName": "豆瓣",
+                    "ranking": "小组精选",
+                    "rank": 27,
+                    "title": "大厂工作4年，薪资涨了80%+，分享一些职场Tips",
+                    "url": "https://www.douban.com/group/topic/498508370/?_spm_id=MjgwNjE2NTc1"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 4,
+                    "title": "9点1氪丨大众汽车宣布全球裁员10万；月之暗面据悉计划今年在香港进行IPO；国家统计局：全国打工人周均工作48.2小时",
+                    "url": "https://www.36kr.com/p/3969804742111746"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 13,
+                    "title": "《质量与标准化工作实务》实务问答工具书正式出版",
+                    "url": "http://news.10jqka.com.cn/20260905/c679626267.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 14,
+                    "title": "近日，由张维波主编的《质量与标准化工作实务》由中国标准出版社正式出版。该书立足质量与标准化一线工作实际，以问答形式系统梳理相关基础知识、法规要求与实操方法，为质量、标准化从业人 ...",
+                    "url": "http://news.10jqka.com.cn/20260905/c679626267.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "现在做什么技术的最容易找工作",
+                    "url": "https://www.v2ex.com/t/1239623"
+                }
+            ]
+        },
+        {
             "word": "科技",
             "weight": 14,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1063,9 +1134,88 @@
             ]
         },
         {
+            "word": "模型",
+            "weight": 9,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 65,
+                    "title": "“我从小抽核弹长大的”，抽一个可变形核弹发射井模型",
+                    "url": "https://b23.tv/BV1abtE6VE2f"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 6,
+                    "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
+                    "url": "https://juejin.cn/post/7680471403955191814"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 22,
+                    "title": "从 Token 到蒸馏：一步步理解大模型如何工作",
+                    "url": "https://juejin.cn/post/7681213028792500287"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 3,
+                    "title": "大模型蒸馏时代结束：Fable 5.1改写API，彻底切断蒸馏后路",
+                    "url": "https://www.36kr.com/p/3969755353723393"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 12,
+                    "title": "中国开源模型，正成为全球 AI 的“度量衡”",
+                    "url": "https://www.36kr.com/p/3970014644295303"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
+                    "url": "https://www.v2ex.com/t/1239673"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 2,
+                    "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+                    "url": "https://www.qbitai.com/2026/09/484683.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 4,
+                    "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+                    "url": "https://www.qbitai.com/2026/09/484611.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 1,
+                    "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+                    "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article"
+                }
+            ]
+        },
+        {
             "word": "了一",
             "weight": 8,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -1136,7 +1286,7 @@
         {
             "word": "全球",
             "weight": 7,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1197,72 +1347,9 @@
             ]
         },
         {
-            "word": "工作",
-            "weight": 7,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 74,
-                    "title": "【鬼谷闲谈】一个元素能在工作中捅多大娄子",
-                    "url": "https://b23.tv/BV1cMtz6EEEn"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 22,
-                    "title": "从 Token 到蒸馏：一步步理解大模型如何工作",
-                    "url": "https://juejin.cn/post/7681213028792500287"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 49,
-                    "title": "我用 Next.js + React Flow 从零搭建了一个可视化 AI 工作流编排平台",
-                    "url": "https://juejin.cn/post/7681151526543261722"
-                },
-                {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 27,
-                    "title": "大厂工作4年，薪资涨了80%+，分享一些职场Tips",
-                    "url": "https://www.douban.com/group/topic/498508370/?_spm_id=MjgwNjE2NTc1"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 4,
-                    "title": "9点1氪丨大众汽车宣布全球裁员10万；月之暗面据悉计划今年在香港进行IPO；国家统计局：全国打工人周均工作48.2小时",
-                    "url": "https://www.36kr.com/p/3969804742111746"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 13,
-                    "title": "《质量与标准化工作实务》实务问答工具书正式出版",
-                    "url": "http://news.10jqka.com.cn/20260905/c679626267.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 14,
-                    "title": "近日，由张维波主编的《质量与标准化工作实务》由中国标准出版社正式出版。该书立足质量与标准化一线工作实际，以问答形式系统梳理相关基础知识、法规要求与实操方法，为质量、标准化从业人 ...",
-                    "url": "http://news.10jqka.com.cn/20260905/c679626267.shtml"
-                }
-            ]
-        },
-        {
             "word": "真的",
             "weight": 6,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -1315,9 +1402,136 @@
             ]
         },
         {
+            "word": "Pro",
+            "weight": 5,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 22,
+                    "title": "曝iPhone18Pro灵动岛大瘦身",
+                    "url": "https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%A4%A7%E7%98%A6%E8%BA%AB&Refer=index"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 8,
+                    "title": "GPT-6 Astra 来了，GPT-5.6 Sol 还值得用吗？聊聊 Coding、百万上下文、价格和 Plus/Pro",
+                    "url": "https://juejin.cn/post/7681223706187153443"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 38,
+                    "title": "你写的 Prompt，可能有一半是安慰剂",
+                    "url": "https://juejin.cn/post/7680768670985469952"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 1,
+                    "title": "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存",
+                    "url": "https://www.ithome.com/0/998/840.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 5,
+                    "title": "苹果提前“揭晓”触屏MacBook Pro，我终于能戳同事电脑了",
+                    "url": "https://www.36kr.com/p/3969992945955076"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
+                    "url": "https://www.v2ex.com/t/1239651"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "给我整乐呵了，商汤上了 deepseek v4 flash 和 pro",
+                    "url": "https://www.v2ex.com/t/1239687"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 6,
+                    "title": "Should I name the discriminant property `kind` or `type`?",
+                    "url": "https://stackoverflow.com/questions/80000983/should-i-name-the-discriminant-property-kind-or-type"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 14,
+                    "title": "Do Kubernetes LoadBalancer services need to be deleted before terraform destroy when EKS is provisioned by Terraform but NLBs are not?",
+                    "url": "https://stackoverflow.com/questions/80000975/do-kubernetes-loadbalancer-services-need-to-be-deleted-before-terraform-destroy"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 15,
+                    "title": "Why do register_tm_clones and deregister_tm_clones get tacked on to simple programs?",
+                    "url": "https://stackoverflow.com/questions/80000952/why-do-register-tm-clones-and-deregister-tm-clones-get-tacked-on-to-simple-progr"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 31,
+                    "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
+                    "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 39,
+                    "title": "Should semi-structured product attributes (secondary images, specs) be stored as JSONB or normalized tables?",
+                    "url": "https://stackoverflow.com/questions/80000734/should-semi-structured-product-attributes-secondary-images-specs-be-stored-as"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 40,
+                    "title": "Is Vultr Shared CPU 4 vCPU / 8 GB enough for a small Spring Boot production app with PostgreSQL and ClamAV?",
+                    "url": "https://stackoverflow.com/questions/80000892/is-vultr-shared-cpu-4-vcpu-8-gb-enough-for-a-small-spring-boot-production-app"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 3,
+                    "title": "苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了",
+                    "url": "https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 3,
+                    "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
+                    "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods"
+                }
+            ]
+        },
+        {
             "word": "时代",
             "weight": 5,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -1364,7 +1578,7 @@
         {
             "word": "第三",
             "weight": 13,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1515,7 +1729,7 @@
         {
             "word": "项目",
             "weight": 12,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1618,7 +1832,7 @@
         {
             "word": "为什",
             "weight": 8,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1687,80 +1901,9 @@
             ]
         },
         {
-            "word": "模型",
-            "weight": 8,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 65,
-                    "title": "“我从小抽核弹长大的”，抽一个可变形核弹发射井模型",
-                    "url": "https://b23.tv/BV1abtE6VE2f"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 6,
-                    "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
-                    "url": "https://juejin.cn/post/7680471403955191814"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 22,
-                    "title": "从 Token 到蒸馏：一步步理解大模型如何工作",
-                    "url": "https://juejin.cn/post/7681213028792500287"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 3,
-                    "title": "大模型蒸馏时代结束：Fable 5.1改写API，彻底切断蒸馏后路",
-                    "url": "https://www.36kr.com/p/3969755353723393"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 12,
-                    "title": "中国开源模型，正成为全球 AI 的“度量衡”",
-                    "url": "https://www.36kr.com/p/3970014644295303"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 2,
-                    "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-                    "url": "https://www.qbitai.com/2026/09/484683.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 4,
-                    "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-                    "url": "https://www.qbitai.com/2026/09/484611.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 1,
-                    "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
-                    "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article"
-                }
-            ]
-        },
-        {
             "word": "演唱会",
             "weight": 6,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1815,7 +1958,7 @@
         {
             "word": "工程",
             "weight": 6,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1868,9 +2011,64 @@
             ]
         },
         {
+            "word": "开源",
+            "weight": 6,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 20,
+                    "title": "日常修改，3秒生效：腾讯音乐 Android 秒编方案 Jugg 开源",
+                    "url": "https://juejin.cn/post/7680996030843125796"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 35,
+                    "title": "Web 端可用！3 款开源数据库 ER 图设计工具！",
+                    "url": "https://juejin.cn/post/7680850719453708329"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 46,
+                    "title": "VisActor全新图可视化开源项目：VGraph",
+                    "url": "https://juejin.cn/post/7680467520382386217"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 12,
+                    "title": "中国开源模型，正成为全球 AI 的“度量衡”",
+                    "url": "https://www.36kr.com/p/3970014644295303"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
+                    "url": "https://www.v2ex.com/t/1239673"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 1,
+                    "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+                    "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article"
+                }
+            ]
+        },
+        {
             "word": "是一",
             "weight": 6,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1925,7 +2123,7 @@
         {
             "word": "正式",
             "weight": 6,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -1980,7 +2178,7 @@
         {
             "word": "游戏",
             "weight": 6,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2035,7 +2233,7 @@
         {
             "word": "的一",
             "weight": 6,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2106,7 +2304,7 @@
         {
             "word": "完整",
             "weight": 5,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2161,7 +2359,7 @@
         {
             "word": "小时",
             "weight": 5,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2208,7 +2406,7 @@
         {
             "word": "未来",
             "weight": 5,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2263,7 +2461,7 @@
         {
             "word": "来了",
             "weight": 5,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -2310,7 +2508,7 @@
         {
             "word": "知道",
             "weight": 5,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2355,120 +2553,48 @@
             ]
         },
         {
-            "word": "Pro",
+            "word": "Claude",
             "weight": 4,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 22,
-                    "title": "曝iPhone18Pro灵动岛大瘦身",
-                    "url": "https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%A4%A7%E7%98%A6%E8%BA%AB&Refer=index"
-                },
-                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
-                    "rank": 8,
-                    "title": "GPT-6 Astra 来了，GPT-5.6 Sol 还值得用吗？聊聊 Coding、百万上下文、价格和 Plus/Pro",
-                    "url": "https://juejin.cn/post/7681223706187153443"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 38,
-                    "title": "你写的 Prompt，可能有一半是安慰剂",
-                    "url": "https://juejin.cn/post/7680768670985469952"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 1,
-                    "title": "极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存",
-                    "url": "https://www.ithome.com/0/998/840.htm"
+                    "rank": 32,
+                    "title": "Claude Fable 5.1正式上线：Claude 最强，还降价？",
+                    "url": "https://juejin.cn/post/7680972429381009471"
                 },
                 {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
+                    "rank": 1,
+                    "title": "刚刚，Claude首次证明费马大定理，清华姚班大神出手了",
+                    "url": "https://www.36kr.com/p/3969755274883328"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
                     "rank": 5,
-                    "title": "苹果提前“揭晓”触屏MacBook Pro，我终于能戳同事电脑了",
-                    "url": "https://www.36kr.com/p/3969992945955076"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 6,
-                    "title": "Should I name the discriminant property `kind` or `type`?",
-                    "url": "https://stackoverflow.com/questions/80000983/should-i-name-the-discriminant-property-kind-or-type"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 14,
-                    "title": "Do Kubernetes LoadBalancer services need to be deleted before terraform destroy when EKS is provisioned by Terraform but NLBs are not?",
-                    "url": "https://stackoverflow.com/questions/80000975/do-kubernetes-loadbalancer-services-need-to-be-deleted-before-terraform-destroy"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 15,
-                    "title": "Why do register_tm_clones and deregister_tm_clones get tacked on to simple programs?",
-                    "url": "https://stackoverflow.com/questions/80000952/why-do-register-tm-clones-and-deregister-tm-clones-get-tacked-on-to-simple-progr"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 31,
-                    "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
-                    "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 39,
-                    "title": "Should semi-structured product attributes (secondary images, specs) be stored as JSONB or normalized tables?",
-                    "url": "https://stackoverflow.com/questions/80000734/should-semi-structured-product-attributes-secondary-images-specs-be-stored-as"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 40,
-                    "title": "Is Vultr Shared CPU 4 vCPU / 8 GB enough for a small Spring Boot production app with PostgreSQL and ClamAV?",
-                    "url": "https://stackoverflow.com/questions/80000892/is-vultr-shared-cpu-4-vcpu-8-gb-enough-for-a-small-spring-boot-production-app"
+                    "title": "Claude 是不是又重置了？",
+                    "url": "https://www.v2ex.com/t/1239616"
                 },
                 {
                     "channelId": "rss",
                     "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 3,
-                    "title": "苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了",
-                    "url": "https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 3,
-                    "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
-                    "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods"
+                    "ranking": "量子位",
+                    "rank": 5,
+                    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+                    "url": "https://www.qbitai.com/2026/09/484551.html"
                 }
             ]
         },
         {
             "word": "一次",
             "weight": 4,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2513,9 +2639,48 @@
             ]
         },
         {
+            "word": "不是",
+            "weight": 4,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 84,
+                    "title": "我不是公公，我是大美太子！万斯要重新证明自己",
+                    "url": "https://b23.tv/BV1PRti6JEtv"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 9,
+                    "title": "GPT-6 发布当晚，三大 AI 集体宕机 4 小时——我扒完时间线，发现最该慌的不是宕机",
+                    "url": "https://juejin.cn/post/7681475476906950691"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "周榜",
+                    "rank": 20,
+                    "title": "夏日是不是就要落幕了",
+                    "url": "https://www.acfun.cn/v/ac48819202"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "Claude 是不是又重置了？",
+                    "url": "https://www.v2ex.com/t/1239616"
+                }
+            ]
+        },
+        {
             "word": "价格",
             "weight": 4,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -2554,7 +2719,7 @@
         {
             "word": "复活",
             "weight": 4,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2593,7 +2758,7 @@
         {
             "word": "大学",
             "weight": 4,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2632,7 +2797,7 @@
         {
             "word": "大的",
             "weight": 4,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2671,7 +2836,7 @@
         {
             "word": "已经",
             "weight": 4,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2710,7 +2875,7 @@
         {
             "word": "布局",
             "weight": 4,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "toutiao",
@@ -2749,7 +2914,7 @@
         {
             "word": "服务",
             "weight": 4,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -2788,7 +2953,7 @@
         {
             "word": "第二",
             "weight": 4,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "acfun",
@@ -2827,7 +2992,7 @@
         {
             "word": "美元",
             "weight": 4,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -2866,7 +3031,7 @@
         {
             "word": "还是",
             "weight": 4,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2901,433 +3066,13 @@
                     "url": "https://www.douban.com/group/topic/498790666/?_spm_id=MTk5ODcxMjg3"
                 }
             ]
-        },
-        {
-            "word": "国家",
-            "weight": 10,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 39,
-                    "title": "长得不好看也是一种失败，最焦虑的国家如何培养超级医美产业？",
-                    "url": "https://b23.tv/BV1tMtm6nEzo"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 4,
-                    "title": "9点1氪丨大众汽车宣布全球裁员10万；月之暗面据悉计划今年在香港进行IPO；国家统计局：全国打工人周均工作48.2小时",
-                    "url": "https://www.36kr.com/p/3969804742111746"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 15,
-                    "title": "中国建筑集团有限公司党组成员、副总经理陈勇接受中央纪委国家监委纪律审查和监察调查",
-                    "url": "http://news.10jqka.com.cn/20260905/c679625956.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 16,
-                    "title": "人民财讯9月5日电，据中央纪委国家监委消息，中国建筑集团有限公司党组成员、副总经理陈勇涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 ...",
-                    "url": "http://news.10jqka.com.cn/20260905/c679625956.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 23,
-                    "title": "国家发展改革委召开“十五五”规划《纲要》重大工程建设推进会议 调度109项重大工程项目实施",
-                    "url": "http://news.10jqka.com.cn/20260905/c679623510.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 24,
-                    "title": "每经AI快讯，2026年9月3日，国家发展改革委党组成员、副主任岳修虎主持召开“十五五”规划《纲要》重大工程建设推进会议，调度109项重大工程建设进展，加快推进在建项目实施，推动一批新项 ...",
-                    "url": "http://news.10jqka.com.cn/20260905/c679623510.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 25,
-                    "title": "国家发展改革委：推动一批新项目尽早开工建设",
-                    "url": "http://news.10jqka.com.cn/20260905/c679622605.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 26,
-                    "title": "● 本报记者欧阳剑环国家发展改革委9月4日消息，国家发展改革委副主任岳修虎日前主持召开“十五五”规划纲要重大工程建设推进会议，调度109项重大工程建设进展，加快推进在建项目实施，推动 ...",
-                    "url": "http://news.10jqka.com.cn/20260905/c679622605.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 28,
-                    "title": "新华社北京9月4日电在中央广播电视总台《小喇叭》节目开播70周年之际，中共中央总书记、国家主席、中央军委主席习近平发来贺信表示祝贺。习近平在贺信中指出，70年来，《小喇叭》节目坚持“ ...",
-                    "url": "http://news.10jqka.com.cn/20260905/c679622477.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 42,
-                    "title": "为持续推动中小企业高质量发展，工业和信息化部会同国家发展改革委、科技部、财政部、人力资源和社会保障部、商务部、中国人民银行、市场监管总局、金融监管总局、中国证监会共十部门近日联 ...",
-                    "url": "http://news.10jqka.com.cn/20260904/c679621635.shtml"
-                }
-            ]
-        },
-        {
-            "word": "手机",
-            "weight": 9,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 31,
-                    "title": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
-                    "url": "https://b23.tv/BV1aktB6KEA5"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 25,
-                    "title": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
-                    "url": "https://b23.tv/BV1aktB6KEA5"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 20,
-                    "title": "苹果折叠手机价格",
-                    "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC&Refer=index"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 2,
-                    "title": "喜欢姐姐的舞蹈吗？★手机竖屏1994★",
-                    "url": "https://www.acfun.cn/v/ac48826492"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 5,
-                    "title": "好想去车展啊！！！★手机竖屏1993★",
-                    "url": "https://www.acfun.cn/v/ac48824041"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 7,
-                    "title": "姐妹见面分外开心！★手机竖屏1992★",
-                    "url": "https://www.acfun.cn/v/ac48821671"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 11,
-                    "title": "喜欢姐姐的舞蹈吗？★手机竖屏1994★",
-                    "url": "https://www.acfun.cn/v/ac48826492"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 9,
-                    "title": "女生也喜欢这一款！★手机竖屏1990★",
-                    "url": "https://www.acfun.cn/v/ac48817003"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 15,
-                    "title": "好想去车展啊！！！★手机竖屏1993★",
-                    "url": "https://www.acfun.cn/v/ac48824041"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 22,
-                    "title": "出来打台球啊！★手机竖屏1989★",
-                    "url": "https://www.acfun.cn/v/ac48814625"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 24,
-                    "title": "豆包附体！！！★手机竖屏1988★",
-                    "url": "https://www.acfun.cn/v/ac48812621"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 26,
-                    "title": "喜欢姐姐吗？★手机竖屏1991★",
-                    "url": "https://www.acfun.cn/v/ac48819335"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 27,
-                    "title": "姐妹见面分外开心！★手机竖屏1992★",
-                    "url": "https://www.acfun.cn/v/ac48821671"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 31,
-                    "title": "喜欢姐姐的舞蹈吗？★手机竖屏1994★",
-                    "url": "https://www.acfun.cn/v/ac48826492"
-                }
-            ]
-        },
-        {
-            "word": "is",
-            "weight": 8,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 28,
-                    "title": "MyBatis-Plus 项目为什么越写越复杂：从一行 Wrapper 说起",
-                    "url": "https://juejin.cn/post/7680812218214236194"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 33,
-                    "title": "告别影楼和付费 App，5 分钟本地搭一个证件照自由平台｜HivisionIDPhotos 开箱实测",
-                    "url": "https://juejin.cn/post/7680899684959502346"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 40,
-                    "title": "Everything is ViewModel：让状态管理回到对象世界",
-                    "url": "https://juejin.cn/post/7680551559094255658"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 46,
-                    "title": "VisActor全新图可视化开源项目：VGraph",
-                    "url": "https://juejin.cn/post/7680467520382386217"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 50,
-                    "title": "Redis缓存雪崩把我坑惨了，这次长记性了",
-                    "url": "https://juejin.cn/post/7681138712660197391"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 45,
-                    "title": "她来了！BLACKPINK 金智秀JISOO - CLICK 官方MV正式版",
-                    "url": "https://www.acfun.cn/v/ac48827692"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "Tool listed as dependency, how to run",
-                    "url": "https://stackoverflow.com/questions/80001014/tool-listed-as-dependency-how-to-run"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 6,
-                    "title": "Should I name the discriminant property `kind` or `type`?",
-                    "url": "https://stackoverflow.com/questions/80000983/should-i-name-the-discriminant-property-kind-or-type"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 8,
-                    "title": "NestJs with Prisma 8, TS module",
-                    "url": "https://stackoverflow.com/questions/80001002/nestjs-with-prisma-8-ts-module"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 10,
-                    "title": "I2C multiplier PCA9546 address is not detected in Ubuntu running in Raspberry PI 3",
-                    "url": "https://stackoverflow.com/questions/80000992/i2c-multiplier-pca9546-address-is-not-detected-in-ubuntu-running-in-raspberry-pi"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 12,
-                    "title": "Is the column label on data.table query using keyby= in reverse order incorrect?",
-                    "url": "https://stackoverflow.com/questions/80000984/is-the-column-label-on-data-table-query-using-keyby-in-reverse-order-incorrect"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 13,
-                    "title": "Is &p->member well-defined for a device pointer p in CUDA host code?",
-                    "url": "https://stackoverflow.com/questions/80000943/is-p-member-well-defined-for-a-device-pointer-p-in-cuda-host-code"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 14,
-                    "title": "Do Kubernetes LoadBalancer services need to be deleted before terraform destroy when EKS is provisioned by Terraform but NLBs are not?",
-                    "url": "https://stackoverflow.com/questions/80000975/do-kubernetes-loadbalancer-services-need-to-be-deleted-before-terraform-destroy"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 15,
-                    "title": "Why do register_tm_clones and deregister_tm_clones get tacked on to simple programs?",
-                    "url": "https://stackoverflow.com/questions/80000952/why-do-register-tm-clones-and-deregister-tm-clones-get-tacked-on-to-simple-progr"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 24,
-                    "title": "Black-box optimisation Machine Learning Portfolio",
-                    "url": "https://stackoverflow.com/questions/80000930/black-box-optimisation-machine-learning-portfolio"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 27,
-                    "title": "How to disable HDR drawing when using custom NSImageCell/NSImageView",
-                    "url": "https://stackoverflow.com/questions/80000949/how-to-disable-hdr-drawing-when-using-custom-nsimagecell-nsimageview"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 31,
-                    "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
-                    "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 32,
-                    "title": "Deneb/Vega custom visual shows generic \"sad face\" icon instead of empty-state message — is this expected behavior for empty datasets?",
-                    "url": "https://stackoverflow.com/questions/80000864/deneb-vega-custom-visual-shows-generic-sad-face-icon-instead-of-empty-state-me"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 37,
-                    "title": "Best practices for preventing technical debt and security vulnerabilities when 70%+ of our codebase is generated by AI assistants like Copilot/Cursor?",
-                    "url": "https://stackoverflow.com/questions/80000887/best-practices-for-preventing-technical-debt-and-security-vulnerabilities-when-7"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 40,
-                    "title": "Is Vultr Shared CPU 4 vCPU / 8 GB enough for a small Spring Boot production app with PostgreSQL and ClamAV?",
-                    "url": "https://stackoverflow.com/questions/80000892/is-vultr-shared-cpu-4-vcpu-8-gb-enough-for-a-small-spring-boot-production-app"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 41,
-                    "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
-                    "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 43,
-                    "title": "Best practice for (simple) searching item in a list",
-                    "url": "https://stackoverflow.com/questions/80000828/best-practice-for-simple-searching-item-in-a-list"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 47,
-                    "title": "Why does Snowflake sometimes show almost same performance over few MB & few GB dataset? When data is 100x bigger, why isn't query slower?",
-                    "url": "https://stackoverflow.com/questions/80000850/why-does-snowflake-sometimes-show-almost-same-performance-over-few-mb-few-gb-d"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "MIT Technology Review",
-                    "rank": 3,
-                    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-                    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 3,
-                    "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
-                    "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 5,
-                    "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-                    "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen"
-                }
-            ]
         }
     ],
     "flow": {
         "times": [
             "01:15",
-            "01:17"
+            "01:17",
+            "01:24"
         ],
         "rows": [
             {

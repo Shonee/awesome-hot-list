@@ -1,0 +1,16 @@
+# V2EX热榜
+
+> 更新时间：2026-09-06 01:24:34
+
+## 热门主题
+
+1. [现在做什么技术的最容易找工作](https://www.v2ex.com/t/1239623)
+2. [搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度](https://www.v2ex.com/t/1239673)
+3. [周六清早起来快蹬 马上又要重置了....](https://www.v2ex.com/t/1239621)
+4. [我又又又重构了我的站点](https://www.v2ex.com/t/1239655)
+5. [Claude 是不是又重置了？](https://www.v2ex.com/t/1239616)
+6. [有没有成色好的二手笔记本网店推荐](https://www.v2ex.com/t/1239638)
+7. [汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了](https://www.v2ex.com/t/1239707)
+8. [梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块](https://www.v2ex.com/t/1239651)
+9. [GPT-6 Astra - 新的 O1 时刻](https://www.v2ex.com/t/1239617)
+10. [给我整乐呵了，商汤上了 deepseek v4 flash 和 pro](https://www.v2ex.com/t/1239687)
