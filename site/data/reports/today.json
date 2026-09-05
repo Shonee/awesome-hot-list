@@ -1,14 +1,14 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-06",
-    "generatedAt": "2026-09-06 02:22:35",
-    "summary": "网络上常见的热门短视频集锦   第三千四百期成为本期综合热度最高的话题，互联网最古老的恐惧，被 AI 复活了紧随其后。当前覆盖 15 个有效渠道，共形成 50 个榜单时间切片；发现 4 个跨渠道重复热点。",
+    "generatedAt": "2026-09-06 02:29:35",
+    "summary": "网络上常见的热门短视频集锦   第三千四百期成为本期综合热度最高的话题，互联网最古老的恐惧，被 AI 复活了紧随其后。当前覆盖 16 个有效渠道，共形成 58 个榜单时间切片；发现 4 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 754,
+        "deduplicated": 880,
         "resonance": 4,
         "maxRise": 0,
-        "slices": 50,
-        "coverage": 94
+        "slices": 58,
+        "coverage": 100
     },
     "topTopics": [
         {
@@ -409,6 +409,94 @@
                     "url": "https://www.douyin.com/search/AI%E5%B1%95%E7%8E%B0%E4%B8%8D%E4%BA%86%E5%AE%89%E5%BE%BD%E7%9A%84%E7%BE%8E"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 3,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 2,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 6,
+                    "title": "tailcat",
+                    "url": "https://github.com/tailscale/tailcat"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 13,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 16,
+                    "title": "vorssaint-utils",
+                    "url": "https://github.com/vorssaint/vorssaint-utils"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 9,
+                    "title": "crawl4ai",
+                    "url": "https://github.com/unclecode/crawl4ai"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 1,
+                    "title": "tailcat",
+                    "url": "https://github.com/tailscale/tailcat"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 14,
+                    "title": "tailscale",
+                    "url": "https://github.com/tailscale/tailscale"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 17,
+                    "title": "CyberStrikeAI",
+                    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 6,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 12,
+                    "title": "avoid-ai-writing",
+                    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -535,94 +623,6 @@
                     "rank": 4,
                     "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
                     "url": "https://www.ithome.com/0/998/837.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘",
-                    "url": "https://www.ithome.com/0/998/836.htm"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 21,
-                    "title": "挑战传奇Against Legendary",
-                    "url": "https://m.hupu.com/hot?tagId=152939"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 6,
-                    "title": "互联网最古老的恐惧，被 AI 复活了",
-                    "url": "https://www.36kr.com/p/3969943690064136"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 9,
-                    "title": "字节拿到296亿美元“弹药”：大厂集体为AI找钱，还能烧多久，谁先扛不住？",
-                    "url": "https://www.36kr.com/p/3969914762670601"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 12,
-                    "title": "中国开源模型，正成为全球 AI 的“度量衡”",
-                    "url": "https://www.36kr.com/p/3970014644295303"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 13,
-                    "title": "李斌：AI给汽车行业带来三重暴击，蔚来价值被市场低估",
-                    "url": "https://www.36kr.com/p/3970150442709510"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 15,
-                    "title": "万元AI研学营，正在批量收割家长",
-                    "url": "https://www.36kr.com/p/3969834502238723"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 17,
-                    "title": "直击IFA 2026｜别谈具身和AI，欧洲不相信「黑科技」",
-                    "url": "https://www.36kr.com/p/3970179970036225"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 19,
-                    "title": "解密万兴科技：海外收入超90%   回国练兵布局AI影视新赛道",
-                    "url": "https://www.36kr.com/p/3970160043913734"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 20,
-                    "title": "中企第一的海尔智家，IFA2026又全面迭代AI",
-                    "url": "https://www.36kr.com/p/3969815572623874"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 22,
-                    "title": "德意志银行近日组织来自新兴市尝欧洲和中东的未来企业家访问北京，考察中国AI生态和前沿科技产业。德意志银行私人银行部新兴市场总经理马科亚表示，中国的长期战略规划、基础设施投资及公私 ...",
-                    "url": "http://news.10jqka.com.cn/20260905/c679624689.shtml"
                 }
             ]
         },
@@ -1580,6 +1580,22 @@
                     "rank": 22,
                     "title": "曝iPhone18Pro灵动岛大瘦身",
                     "url": "https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%A4%A7%E7%98%A6%E8%BA%AB&Refer=index"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 5,
+                    "title": "DevOps-Projects",
+                    "url": "https://github.com/NotHarshhaa/DevOps-Projects"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 2,
+                    "title": "prompts.chat",
+                    "url": "https://github.com/f/prompts.chat"
                 },
                 {
                     "channelId": "juejin",
@@ -3475,6 +3491,38 @@
             "tone": "gold",
             "hits": [
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 13,
+                    "title": "everything-claude-code",
+                    "url": "https://github.com/WorldFlowAI/everything-claude-code"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 3,
+                    "title": "openclaude",
+                    "url": "https://github.com/Gitlawb/openclaude"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 6,
+                    "title": "claude-plugins-community",
+                    "url": "https://github.com/anthropics/claude-plugins-community"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 10,
+                    "title": "everything-claude-code",
+                    "url": "https://github.com/WorldFlowAI/everything-claude-code"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -3561,8 +3609,8 @@
             "01:15",
             "01:17",
             "01:24",
-            "02:21",
-            "02:22"
+            "02:22",
+            "02:29"
         ],
         "rows": [
             {
