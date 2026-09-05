@@ -1,0 +1,1329 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>热榜观察站</title>
+  <style>
+    :root {
+      --bg: #f4f5f6;
+      --surface: #ffffff;
+      --surface-alt: #f8f9fa;
+      --ink: #17191d;
+      --muted: #6b7078;
+      --line: #dfe2e5;
+      --line-strong: #c9cdd2;
+      --hot: #ce3c32;
+      --hot-soft: #f9e7e4;
+      --teal: #087b70;
+      --teal-soft: #e1f2ef;
+      --blue: #315da8;
+      --blue-soft: #e8eef9;
+      --gold: #9a6812;
+      --gold-soft: #f7edd3;
+      --topbar: rgba(255, 255, 255, .96);
+      --contrast: #17191d;
+      --on-contrast: #ffffff;
+      --briefing-bg: #17191d;
+      --briefing-text: #ffffff;
+      --radius: 6px;
+      --shadow: 0 14px 36px rgba(26, 31, 38, .12);
+    }
+
+    body[data-theme="night"] {
+      --bg: #111317;
+      --surface: #191c21;
+      --surface-alt: #22262c;
+      --ink: #f1f3f5;
+      --muted: #a1a7b0;
+      --line: #30343b;
+      --line-strong: #484e58;
+      --hot: #ff7167;
+      --hot-soft: #3c2425;
+      --teal: #55c8b8;
+      --teal-soft: #173733;
+      --blue: #82a8ef;
+      --blue-soft: #202f4d;
+      --gold: #e6bd65;
+      --gold-soft: #3b321e;
+      --topbar: rgba(25, 28, 33, .96);
+      --contrast: #f1f3f5;
+      --on-contrast: #17191d;
+      --briefing-bg: #090b0e;
+      --briefing-text: #f1f3f5;
+      --shadow: 0 16px 42px rgba(0, 0, 0, .36);
+      color-scheme: dark;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--bg);
+      font-family: -apple-system, "SF Pro Text", "PingFang SC", "Noto Sans SC", sans-serif;
+      font-size: 14px;
+      line-height: 1.7;
+      letter-spacing: 0;
+    }
+    button, select, input { font: inherit; letter-spacing: 0; }
+    button, a { -webkit-tap-highlight-color: transparent; }
+    a { color: inherit; }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 30;
+      background: var(--topbar);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(14px);
+    }
+    .topbar-inner {
+      max-width: 1440px;
+      min-height: 64px;
+      margin: 0 auto;
+      padding: 0 28px;
+      display: grid;
+      grid-template-columns: minmax(210px, 1fr) auto minmax(210px, 1fr);
+      align-items: center;
+      gap: 24px;
+    }
+    .brand { display: flex; align-items: center; gap: 11px; min-width: 0; }
+    .brand-mark {
+      width: 28px;
+      height: 28px;
+      border: 2px solid var(--ink);
+      border-radius: 50%;
+      position: relative;
+      flex: 0 0 auto;
+    }
+    .brand-mark::before, .brand-mark::after {
+      content: "";
+      position: absolute;
+      left: 6px;
+      width: 12px;
+      height: 2px;
+      background: var(--hot);
+      transform-origin: left center;
+    }
+    .brand-mark::before { top: 15px; transform: rotate(-42deg); }
+    .brand-mark::after { top: 14px; left: 15px; width: 7px; transform: rotate(64deg); }
+    .brand-copy { min-width: 0; }
+    .brand-name { font-size: 15px; font-weight: 760; line-height: 1.2; }
+    .brand-date { color: var(--muted); font-size: 11px; line-height: 1.4; margin-top: 2px; }
+
+    .main-nav {
+      display: flex;
+      align-items: center;
+      gap: 3px;
+      padding: 3px;
+      background: var(--surface-alt);
+      border-radius: var(--radius);
+    }
+    .nav-btn {
+      min-width: 96px;
+      height: 36px;
+      padding: 0 16px;
+      border: 0;
+      border-radius: 4px;
+      color: var(--muted);
+      background: transparent;
+      cursor: pointer;
+      font-weight: 650;
+    }
+    .nav-btn:hover { color: var(--ink); }
+    .nav-btn.active { color: var(--ink); background: var(--surface); box-shadow: 0 1px 3px rgba(20, 25, 32, .1); }
+    .top-actions { display: flex; justify-content: flex-end; align-items: center; gap: 10px; }
+    .status-dot { display: inline-flex; align-items: center; gap: 7px; color: var(--muted); font-size: 12px; }
+    .status-dot::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: #2d9d78; box-shadow: 0 0 0 3px #dff3ec; }
+
+    .plain-btn, .primary-btn {
+      min-height: 36px;
+      border-radius: 4px;
+      padding: 0 14px;
+      cursor: pointer;
+      font-weight: 650;
+    }
+    .plain-btn { background: var(--surface); border: 1px solid var(--line-strong); color: var(--ink); }
+    .plain-btn:hover { border-color: #8e949c; }
+    .primary-btn { background: var(--contrast); border: 1px solid var(--contrast); color: var(--on-contrast); }
+
+    main { max-width: 1440px; margin: 0 auto; padding: 30px 28px 72px; }
+    .view { display: none; }
+    .view.active { display: block; animation: enter .22s ease-out; }
+    @keyframes enter { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+
+    .report-heading {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+      padding-bottom: 22px;
+      border-bottom: 2px solid var(--ink);
+    }
+    .eyebrow { color: var(--hot); font-size: 12px; font-weight: 760; margin-bottom: 4px; }
+    h1 { margin: 0; font-family: "Songti SC", "Noto Serif SC", serif; font-size: 34px; line-height: 1.28; font-weight: 760; }
+    .heading-note { max-width: 520px; color: var(--muted); text-align: right; line-height: 1.65; }
+    .sample-flag { color: var(--gold); background: var(--gold-soft); border-radius: 3px; padding: 2px 7px; font-size: 11px; font-weight: 700; white-space: nowrap; }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      border-bottom: 1px solid var(--line-strong);
+      margin-bottom: 30px;
+    }
+    .metric { padding: 20px 22px 20px 0; position: relative; }
+    .metric + .metric { padding-left: 22px; border-left: 1px solid var(--line); }
+    .metric-label { color: var(--muted); font-size: 12px; }
+    .metric-value { display: flex; align-items: baseline; gap: 7px; margin-top: 2px; font-size: 26px; line-height: 1.3; font-weight: 760; font-variant-numeric: tabular-nums; }
+    .metric-delta { color: var(--teal); font-size: 11px; font-weight: 700; }
+
+    .lead-grid { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(360px, .75fr); gap: 28px; align-items: start; }
+    .section { min-width: 0; }
+    .section + .section { margin-top: 30px; }
+    .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 13px; }
+    .section-head h2 { margin: 0; font-size: 18px; line-height: 1.35; }
+    .section-meta { color: var(--muted); font-size: 12px; }
+
+    .briefing {
+      min-height: 128px;
+      padding: 22px 24px;
+      background: var(--briefing-bg);
+      color: var(--briefing-text);
+      border-radius: var(--radius);
+      display: grid;
+      grid-template-columns: 112px 1fr;
+      gap: 24px;
+      align-items: start;
+    }
+    .briefing-label { color: #ff9d91; font-size: 12px; font-weight: 760; text-transform: uppercase; }
+    .briefing p { margin: 0; font-family: "Songti SC", "Noto Serif SC", serif; font-size: 18px; line-height: 1.85; }
+    .briefing strong { color: #ffd36e; font-weight: 760; }
+
+    .word-field {
+      min-height: 260px;
+      padding: 20px 24px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      display: flex;
+      flex-wrap: wrap;
+      align-content: center;
+      justify-content: center;
+      gap: 10px 18px;
+      overflow: hidden;
+    }
+    .word {
+      border: 0;
+      background: transparent;
+      padding: 0;
+      cursor: pointer;
+      color: var(--blue);
+      font-weight: 720;
+      line-height: 1.1;
+    }
+    .word:hover { color: var(--hot); text-decoration: underline; text-underline-offset: 4px; }
+    .word.hot { color: var(--hot); }
+    .word.teal { color: var(--teal); }
+    .word.gold { color: var(--gold); }
+
+    .top-list { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+    .top-row {
+      min-height: 54px;
+      display: grid;
+      grid-template-columns: 30px minmax(0, 1fr) auto;
+      gap: 11px;
+      align-items: center;
+      padding: 8px 14px;
+      border-bottom: 1px solid var(--line);
+      text-decoration: none;
+      width: 100%;
+      color: inherit;
+      background: transparent;
+      border-top: 0;
+      border-left: 0;
+      border-right: 0;
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+    .top-row:last-child { border-bottom: 0; }
+    .top-row:hover { background: var(--surface-alt); }
+    .top-rank { font: 760 18px/1 Georgia, serif; color: #9a9ea4; text-align: center; }
+    .top-row:nth-child(-n+3) .top-rank { color: var(--hot); }
+    .top-title { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-weight: 650; }
+    .source-tag { color: var(--muted); border: 1px solid var(--line); padding: 1px 6px; border-radius: 3px; font-size: 10px; white-space: nowrap; }
+    .empty-report { min-height: 130px; display: grid; place-items: center; padding: 24px; color: var(--muted); text-align: center; }
+
+    .analysis-grid { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(310px, .75fr); gap: 28px; margin-top: 30px; }
+    .viz-panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; }
+    .rank-flow-scroll { overflow-x: auto; overflow-y: visible; }
+    .rank-flow { min-width: 720px; }
+    .rank-flow-head,
+    .rank-flow-row {
+      display: grid;
+      grid-template-columns: minmax(180px, 1.35fr) minmax(380px, 3fr) 92px;
+      gap: 14px;
+      align-items: center;
+    }
+    .rank-flow-head {
+      min-height: 38px;
+      padding: 0 8px 5px;
+      color: var(--muted);
+      border-bottom: 1px solid var(--line-strong);
+      font-size: 10px;
+      font-weight: 700;
+    }
+    .rank-flow-row {
+      min-height: 84px;
+      padding: 5px 8px;
+      border-bottom: 1px solid var(--line);
+    }
+    .rank-flow-row:last-child { border-bottom: 0; }
+    .rank-flow-topic { position: sticky; left: 0; z-index: 3; min-width: 0; background: var(--surface); text-align: left; }
+    .rank-flow-topic::after { content: ""; position: absolute; top: -13px; right: -15px; bottom: -13px; width: 14px; box-shadow: 10px 0 14px -16px rgba(20, 25, 32, .9); pointer-events: none; }
+    .rank-flow-times { display: grid; grid-template-columns: repeat(var(--time-count), minmax(0, 1fr)); text-align: center; font-variant-numeric: tabular-nums; }
+    .rank-flow-state { text-align: center; }
+    .topic-link { max-width: 100%; padding: 0; border: 0; background: none; color: var(--ink); cursor: pointer; text-align: left; font-weight: 680; }
+    .topic-link:hover { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
+    .topic-tenure { display: block; margin-top: 1px; color: var(--muted); font-size: 10px; font-weight: 500; }
+    .rank-plot { --rank-color: var(--hot); --rank-soft: var(--hot-soft); position: relative; height: 68px; min-width: 0; }
+    .rank-plot.tone-down { --rank-color: var(--blue); --rank-soft: var(--blue-soft); }
+    .rank-plot.tone-steady { --rank-color: var(--teal); --rank-soft: var(--teal-soft); }
+    .rank-plot.tone-pending { --rank-color: var(--muted); --rank-soft: var(--surface-alt); }
+    .rank-line { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+    .rank-grid-line { stroke: var(--line); stroke-width: 1; stroke-dasharray: 2 4; vector-effect: non-scaling-stroke; }
+    .rank-time-line { position: absolute; top: 9%; bottom: 9%; left: calc(var(--x) * 1%); border-left: 1px solid var(--line); opacity: .62; }
+    .rank-curve { fill: none; stroke: var(--rank-color); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; vector-effect: non-scaling-stroke; animation: reveal-rank-curve .38s ease-out both; }
+    .rank-point {
+      position: absolute;
+      left: calc(var(--x) * 1%);
+      top: calc(var(--y) * 1%);
+      z-index: 2;
+      width: 12px;
+      height: 12px;
+      padding: 0;
+      transform: translate(-50%, -50%);
+      border: 3px solid currentColor;
+      border-radius: 50%;
+      color: var(--rank-color);
+      background: var(--surface);
+      cursor: help;
+      animation: reveal-rank-point .24s .28s ease-out both;
+    }
+    .rank-point.top { width: 14px; height: 14px; background: currentColor; box-shadow: 0 0 0 3px var(--rank-soft); }
+    .rank-point::after {
+      content: attr(data-tooltip);
+      position: absolute;
+      left: 50%;
+      bottom: calc(100% + 9px);
+      z-index: 5;
+      min-width: max-content;
+      padding: 5px 8px;
+      transform: translateX(-50%) translateY(3px);
+      border-radius: 3px;
+      color: var(--on-contrast);
+      background: var(--contrast);
+      box-shadow: var(--shadow);
+      font-size: 10px;
+      font-weight: 650;
+      line-height: 1.4;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .15s, transform .15s;
+    }
+    .rank-point.edge-left::after { left: -3px; transform: translateY(3px); }
+    .rank-point.edge-right::after { right: -3px; left: auto; transform: translateY(3px); }
+    .rank-point:hover, .rank-point:focus-visible { outline: 0; box-shadow: 0 0 0 4px var(--rank-soft); }
+    .rank-point:hover::after, .rank-point:focus-visible::after { opacity: 1; transform: translateX(-50%) translateY(0); }
+    .rank-point.edge-left:hover::after, .rank-point.edge-left:focus-visible::after,
+    .rank-point.edge-right:hover::after, .rank-point.edge-right:focus-visible::after { transform: translateY(0); }
+    @keyframes reveal-rank-curve { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes reveal-rank-point { from { opacity: 0; } to { opacity: 1; } }
+    .trend-state { display: inline-flex; align-items: center; justify-content: center; min-width: 74px; min-height: 25px; padding: 2px 7px; border-radius: 3px; font-size: 10px; font-weight: 760; }
+    .trend-state.up, .trend-state.new { color: var(--hot); background: var(--hot-soft); }
+    .trend-state.down { color: var(--blue); background: var(--blue-soft); }
+    .trend-state.steady { color: var(--teal); background: var(--teal-soft); }
+    .trend-state.pending { color: var(--muted); background: var(--surface-alt); }
+
+    .signal-list { background: var(--surface); border-top: 2px solid var(--ink); }
+    .signal-row { width: 100%; display: grid; grid-template-columns: 74px minmax(0, 1fr) auto; gap: 12px; padding: 13px 4px; border: 0; border-bottom: 1px solid var(--line); align-items: center; color: var(--ink); background: transparent; cursor: pointer; text-align: left; }
+    .signal-row:hover { background: var(--surface-alt); }
+    .signal-kind { font-size: 11px; color: var(--teal); font-weight: 760; }
+    .signal-title { font-weight: 650; }
+    .signal-value { font-variant-numeric: tabular-nums; color: var(--hot); font-size: 12px; font-weight: 720; }
+
+    .page-toolbar {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 20px;
+      padding-bottom: 18px;
+      border-bottom: 2px solid var(--ink);
+    }
+    .page-toolbar h1 { font-size: 30px; }
+    .toolbar-controls { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    .field { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 12px; }
+    select { height: 36px; padding: 0 32px 0 10px; color: var(--ink); background: var(--surface); border: 1px solid var(--line-strong); border-radius: 4px; }
+
+    .channel-switcher { display: none; gap: 4px; margin-top: 18px; padding: 4px; overflow-x: auto; background: var(--surface-alt); border: 1px solid var(--line); border-radius: var(--radius); }
+    .channel-switcher.active { display: flex; }
+    .channel-switch-btn { flex: 0 0 auto; min-height: 34px; padding: 0 13px; border: 0; border-radius: 3px; background: transparent; color: var(--muted); cursor: pointer; font-weight: 650; }
+    .channel-switch-btn.active { color: var(--ink); background: var(--surface); box-shadow: 0 1px 3px rgba(20, 25, 32, .12); }
+    .channel-grid { display: grid; gap: 16px; margin-top: 20px; align-items: stretch; }
+    .channel-grid.layout-cards { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+    .channel-grid.layout-list { grid-template-columns: 1fr; }
+    .channel-grid.layout-channel-tabs { display: block; }
+    .channel-card { min-width: 0; display: flex; flex-direction: column; overflow: hidden; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+    .channel-head { min-height: 64px; padding: 10px 12px; display: flex; flex: 0 0 auto; align-items: center; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--line-strong); }
+    .channel-id { display: flex; align-items: center; gap: 10px; min-width: 0; }
+    .channel-icon { width: 34px; height: 34px; display: grid; place-items: center; border-radius: 4px; color: white; font-size: 12px; font-weight: 800; flex: 0 0 auto; }
+    .channel-name { font-size: 16px; font-weight: 760; line-height: 1.3; }
+    .channel-sub { color: var(--muted); font-size: 11px; line-height: 1.4; margin-top: 2px; }
+    .channel-count { text-align: right; color: var(--muted); font-size: 11px; white-space: nowrap; }
+    .channel-count strong { display: block; color: var(--ink); font-size: 15px; }
+    .ranking-tabs { display: flex; flex: 0 0 auto; gap: 3px; padding: 6px; overflow-x: auto; background: var(--surface-alt); border-bottom: 1px solid var(--line); }
+    .ranking-tab { flex: 1 0 auto; min-height: 32px; padding: 0 10px; border: 0; border-radius: 3px; color: var(--muted); background: transparent; cursor: pointer; font-size: 11px; font-weight: 680; }
+    .ranking-tab:hover { color: var(--ink); }
+    .ranking-tab.active { color: var(--hot); background: var(--surface); box-shadow: 0 1px 3px rgba(20, 25, 32, .1); }
+    .channel-body { height: 440px; min-height: 0; flex: 1 1 440px; overflow-y: auto; overscroll-behavior: contain; scrollbar-gutter: stable; }
+    .channel-foot { min-height: 48px; display: flex; align-items: center; justify-content: flex-end; padding: 0 12px; border-top: 1px solid var(--line-strong); background: var(--surface); }
+    .channel-detail { display: inline-flex; align-items: center; gap: 6px; color: var(--blue); font-size: 12px; font-weight: 720; text-decoration: none; }
+    .channel-detail::after { content: '↗'; font-size: 14px; line-height: 1; transition: transform .16s ease; }
+    .channel-detail:hover { color: var(--hot); text-decoration: underline; text-underline-offset: 3px; }
+    .channel-detail:hover::after { transform: translate(2px, -2px); }
+    .hotlist { list-style: none; padding: 0; margin: 0; }
+    .hot-item { min-height: 44px; display: grid; grid-template-columns: 24px minmax(0, 1fr) auto; gap: 7px; align-items: center; padding: 5px 10px; border-bottom: 1px solid var(--line); }
+    .hot-item:last-child { border-bottom: 0; }
+    .hot-item:hover { background: var(--surface-alt); }
+    .item-rank { color: #8b9097; font: 700 14px/1 Georgia, serif; text-align: center; }
+    .hot-item:nth-child(-n+3) .item-rank { color: var(--hot); font-size: 17px; }
+    .item-link { min-width: 0; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; line-height: 1.45; text-decoration: none; font-weight: 590; }
+    .item-link:hover { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
+    .item-hot { color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+    .rss-item .item-link { display: block; -webkit-line-clamp: initial; line-clamp: initial; }
+    .rss-item .item-title { display: -webkit-box; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; line-height: 1.45; }
+    .rss-item-meta { display: block; overflow: hidden; margin-top: 2px; color: var(--muted); font-size: 10px; font-weight: 500; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
+    .rss-mode-note { color: var(--gold); }
+    .empty-channel { min-height: 100%; display: grid; place-items: center; color: var(--muted); text-align: center; padding: 26px; }
+    .empty-channel strong { display: block; color: var(--ink); margin-bottom: 3px; }
+    .layout-list .channel-card { display: grid; grid-template-columns: 210px minmax(0, 1fr); }
+    .layout-list .channel-head { grid-row: 1 / span 2; min-height: 320px; align-content: start; border-right: 1px solid var(--line-strong); border-bottom: 0; }
+    .layout-list .ranking-tabs, .layout-list .channel-body { grid-column: 2; }
+    .layout-list .channel-body { height: 280px; }
+    .layout-channel-tabs .channel-card { width: 100%; }
+    .layout-channel-tabs .channel-body { height: 520px; flex-basis: 520px; }
+
+    .history-banner { display: flex; gap: 18px; align-items: center; padding: 13px 0 18px; color: var(--muted); }
+    .complete-mark { color: var(--teal); background: var(--teal-soft); border-radius: 3px; padding: 2px 7px; font-size: 11px; font-weight: 760; }
+
+    .drawer-layer { position: fixed; inset: 0; z-index: 60; overflow: hidden; pointer-events: none; visibility: hidden; transition: visibility 0s linear .24s; }
+    .drawer-layer.open { pointer-events: auto; visibility: visible; transition-delay: 0s; }
+    .drawer-backdrop { position: absolute; inset: 0; background: rgba(17, 19, 23, .3); opacity: 0; transition: opacity .2s; }
+    .drawer { position: absolute; top: 0; right: 0; width: min(440px, 100%); height: 100%; background: var(--surface); box-shadow: var(--shadow); transform: translateX(100%); transition: transform .24s ease; display: flex; flex-direction: column; }
+    .drawer-layer.open .drawer-backdrop { opacity: 1; }
+    .drawer-layer.open .drawer { transform: translateX(0); }
+    .drawer-head { min-height: 68px; display: flex; align-items: center; justify-content: space-between; padding: 0 22px; border-bottom: 1px solid var(--line); }
+    .drawer-head h2 { margin: 0; font-size: 18px; }
+    .icon-btn { width: 36px; height: 36px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 4px; cursor: pointer; font-size: 20px; line-height: 1; }
+    .drawer-body { padding: 24px 22px; overflow: auto; flex: 1; }
+    .setting-block + .setting-block { margin-top: 30px; }
+    .setting-title { font-weight: 760; margin-bottom: 10px; }
+    .setting-help { color: var(--muted); font-size: 12px; margin-bottom: 12px; }
+    .setting-check { display: flex; align-items: center; gap: 8px; min-height: 34px; color: var(--ink); font-size: 12px; cursor: pointer; }
+    .rss-feed-settings { margin-top: 10px; border-top: 1px solid var(--line); }
+    .rss-feed-title { padding: 10px 0 4px; color: var(--muted); font-size: 11px; font-weight: 700; }
+    .rss-feed-row { min-height: 38px; display: grid; grid-template-columns: minmax(0, 1fr) 82px; align-items: center; gap: 10px; border-bottom: 1px solid var(--line); font-size: 12px; }
+    .rss-feed-row span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .rss-feed-row select { width: 82px; height: 30px; padding: 0 20px 0 7px; font-size: 11px; }
+    .choice-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
+    .choice-btn { min-height: 52px; padding: 7px 8px; border: 1px solid var(--line); border-radius: 4px; background: var(--surface); color: var(--muted); cursor: pointer; font-size: 11px; font-weight: 650; }
+    .choice-btn:hover { border-color: var(--line-strong); color: var(--ink); }
+    .choice-btn.active { border-color: var(--ink); color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+    .channel-toggle { min-height: 46px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); }
+    .channel-toggle label { cursor: pointer; flex: 1; }
+    .channel-toggle.dragging { opacity: .42; }
+    .channel-toggle.drag-over { box-shadow: inset 0 2px var(--blue); }
+    .sort-handle { width: 28px; border: 0; background: transparent; color: var(--muted); cursor: grab; font-size: 16px; }
+    .sort-actions { display: flex; gap: 3px; margin-right: 8px; }
+    .sort-btn { width: 28px; height: 28px; border: 1px solid var(--line); border-radius: 3px; background: var(--surface); color: var(--muted); cursor: pointer; }
+    .sort-btn:hover:not(:disabled) { color: var(--ink); border-color: var(--line-strong); }
+    .sort-btn:disabled { opacity: .3; cursor: default; }
+    input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--ink); }
+    .drawer-foot { display: flex; justify-content: space-between; gap: 12px; padding: 16px 22px; border-top: 1px solid var(--line); }
+
+    .toast { position: fixed; left: 50%; bottom: 28px; z-index: 90; transform: translate(-50%, 16px); background: var(--contrast); color: var(--on-contrast); padding: 9px 14px; border-radius: 4px; opacity: 0; pointer-events: none; transition: .2s; box-shadow: var(--shadow); }
+    .toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+    .topic-dialog { width: min(620px, calc(100% - 32px)); max-height: min(720px, calc(100vh - 48px)); padding: 0; border: 0; border-radius: var(--radius); color: var(--ink); background: var(--surface); box-shadow: var(--shadow); }
+    .topic-dialog::backdrop { background: rgba(17, 19, 23, .45); }
+    .topic-dialog-head { min-height: 68px; display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 14px 18px; border-bottom: 1px solid var(--line); }
+    .topic-dialog-head h2 { margin: 0; font-size: 18px; }
+    .topic-dialog-body { max-height: calc(100vh - 160px); overflow-y: auto; padding: 8px 18px 18px; }
+    .topic-result { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 12px; align-items: center; min-height: 66px; padding: 10px 2px; border-bottom: 1px solid var(--line); text-decoration: none; }
+    .topic-result:hover .topic-result-title { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
+    .topic-result-title { line-height: 1.5; font-weight: 680; }
+    .topic-result-meta { margin-top: 2px; color: var(--muted); font-size: 11px; }
+    .external-mark { color: var(--muted); font-size: 18px; }
+
+    @media (max-width: 980px) {
+      .topbar-inner { grid-template-columns: 1fr auto; }
+      .main-nav { order: 3; grid-column: 1 / -1; justify-content: stretch; margin: 0 -28px; padding: 4px 28px 8px; border-radius: 0; background: var(--surface); overflow-x: auto; border-top: 1px solid var(--line); }
+      .nav-btn { flex: 1 0 auto; }
+      .status-dot { display: none; }
+      main { padding-top: 24px; }
+      .lead-grid, .analysis-grid { grid-template-columns: 1fr; }
+      .report-heading { align-items: flex-start; }
+      .heading-note { text-align: left; }
+    }
+
+    @media (max-width: 680px) {
+      .topbar-inner { min-height: 58px; padding: 0 16px; gap: 10px; }
+      .main-nav { margin: 0 -16px; padding: 4px 16px 8px; }
+      .top-actions .plain-btn { padding: 0 10px; }
+      main { padding: 20px 16px 54px; }
+      .report-heading, .page-toolbar { display: block; }
+      h1, .page-toolbar h1 { font-size: 27px; }
+      .heading-note { margin-top: 10px; }
+      .metrics { grid-template-columns: repeat(2, 1fr); }
+      .metric:nth-child(3) { border-left: 0; padding-left: 0; border-top: 1px solid var(--line); }
+      .metric:nth-child(4) { border-top: 1px solid var(--line); }
+      .briefing { grid-template-columns: 1fr; gap: 6px; padding: 18px; }
+      .briefing p { font-size: 16px; }
+      .toolbar-controls { margin-top: 14px; align-items: flex-end; }
+      .rank-flow-scroll { overflow-x: visible; padding: 10px; }
+      .rank-flow { min-width: 0; }
+      .rank-flow-head, .rank-flow-row { grid-template-columns: minmax(0, 1fr) auto; gap: 8px; }
+      .rank-flow-head { min-height: 58px; padding: 4px 8px 7px; }
+      .rank-flow-head > :first-child { grid-column: 1; grid-row: 1; }
+      .rank-flow-head .rank-flow-times { grid-column: 1 / -1; grid-row: 2; }
+      .rank-flow-head .rank-flow-state { grid-column: 2; grid-row: 1; }
+      .rank-flow-row { min-height: 122px; padding: 10px 8px; }
+      .rank-flow-topic { position: static; grid-column: 1; grid-row: 1; }
+      .rank-flow-topic::after { display: none; }
+      .rank-flow-row .rank-flow-state { grid-column: 2; grid-row: 1; }
+      .rank-plot { grid-column: 1 / -1; grid-row: 2; height: 72px; }
+      .channel-grid { gap: 14px; }
+      .channel-head { padding: 12px; }
+      .layout-list .channel-card { display: block; }
+      .layout-list .channel-head { min-height: 64px; border-right: 0; border-bottom: 1px solid var(--line-strong); }
+      .layout-list .channel-body { height: 360px; }
+      .choice-grid { grid-template-columns: 1fr; }
+      .analysis-grid { gap: 20px; }
+      .topic-dialog { width: calc(100% - 24px); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .rank-curve { animation: none; }
+      .rank-point { animation: none; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div class="brand-copy">
+          <div class="brand-name">热榜观察站</div>
+          <div class="brand-date" id="brandDate">数据持续更新</div>
+        </div>
+      </div>
+      <nav class="main-nav" aria-label="主导航">
+        <button class="nav-btn active" data-view-target="today">今日报告</button>
+        <button class="nav-btn" data-view-target="latest">最新热榜</button>
+        <button class="nav-btn" data-view-target="history">历史报告</button>
+      </nav>
+      <div class="top-actions">
+        <span class="status-dot" id="syncStatus">正在读取本地数据</span>
+        <button class="plain-btn" id="openSettings">显示设置</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="view active" id="view-today">
+      <div class="report-heading">
+        <div>
+          <div class="eyebrow" id="todayEyebrow">DAILY SIGNAL</div>
+          <h1>今日热榜综合报告</h1>
+        </div>
+        <div class="heading-note" id="todayNote">正在加载今日归档数据。</div>
+      </div>
+      <div class="metrics">
+        <div class="metric"><div class="metric-label">去重热点</div><div class="metric-value" id="todayDeduplicated">--</div></div>
+        <div class="metric"><div class="metric-label">跨渠道共振</div><div class="metric-value" id="todayResonance">--</div></div>
+        <div class="metric"><div class="metric-label">最大排名跃升</div><div class="metric-value" id="todayRise">--</div></div>
+        <div class="metric"><div class="metric-label">有效数据覆盖</div><div class="metric-value" id="todayCoverage">--</div></div>
+      </div>
+
+      <div class="lead-grid">
+        <div>
+          <section class="section">
+            <div class="section-head"><h2>编辑摘要</h2><span class="section-meta">基于同义归并与跨时段去重</span></div>
+            <div class="briefing">
+              <div class="briefing-label">TODAY'S READ</div>
+              <p id="todaySummary">正在根据当天已有时间切片生成综合摘要。</p>
+            </div>
+          </section>
+          <section class="section">
+            <div class="section-head"><h2>热点词云</h2><span class="section-meta">按跨榜频次与排名加权</span></div>
+            <div class="word-field" id="todayWords"></div>
+          </section>
+        </div>
+        <section class="section">
+          <div class="section-head"><h2>综合热门 Top 10</h2><span class="section-meta">综合排名 · 已去重</span></div>
+          <div class="top-list" id="todayTop"></div>
+        </section>
+      </div>
+
+      <div class="analysis-grid">
+        <section class="section">
+          <div class="section-head"><h2>热点排名轨迹</h2><span class="section-meta" id="todayFlowMeta">排名 1 为最高热度</span></div>
+          <div class="viz-panel rank-flow-scroll" id="todayRankFlow"></div>
+        </section>
+        <section class="section">
+          <div class="section-head"><h2>值得关注</h2><span class="section-meta">变化信号</span></div>
+          <div class="signal-list" id="todaySignals"></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="view" id="view-latest">
+      <div class="page-toolbar">
+        <div><div class="eyebrow" id="latestEyebrow">LATEST SNAPSHOT</div><h1>最新热榜</h1></div>
+        <div class="heading-note" id="latestNote">正在加载各渠道最新快照</div>
+      </div>
+      <div class="channel-switcher" id="channelSwitcher" aria-label="渠道切换"></div>
+      <div class="channel-grid" id="channelGrid"></div>
+    </section>
+
+    <section class="view" id="view-history">
+      <div class="report-heading">
+        <div><div class="eyebrow" id="historyEyebrow">ARCHIVE</div><h1>昨日完整报告</h1></div>
+        <div class="heading-note" id="historyNote">正在加载上一日完整报告。</div>
+      </div>
+      <div class="metrics">
+        <div class="metric"><div class="metric-label">去重热点</div><div class="metric-value" id="historyDeduplicated">--</div></div>
+        <div class="metric"><div class="metric-label">跨渠道共振</div><div class="metric-value" id="historyResonance">--</div></div>
+        <div class="metric"><div class="metric-label">数据切片</div><div class="metric-value" id="historySlices">--</div></div>
+        <div class="metric"><div class="metric-label">有效数据覆盖</div><div class="metric-value" id="historyCoverage">--</div></div>
+      </div>
+      <div class="lead-grid">
+        <div>
+          <section class="section">
+            <div class="section-head"><h2>昨日摘要</h2><span class="section-meta">完整日终结论</span></div>
+            <div class="briefing">
+              <div class="briefing-label">DAY IN REVIEW</div>
+              <p id="historySummary">正在根据完整日归档生成综合摘要。</p>
+            </div>
+          </section>
+          <section class="section">
+            <div class="section-head"><h2>昨日热点词云</h2><span class="section-meta">完整 24 小时权重</span></div>
+            <div class="word-field" id="historyWords"></div>
+          </section>
+        </div>
+        <section class="section">
+          <div class="section-head"><h2>昨日综合 Top 10</h2><span class="section-meta">日终排名</span></div>
+          <div class="top-list" id="historyTop"></div>
+        </section>
+      </div>
+      <div class="analysis-grid">
+        <section class="section">
+          <div class="section-head"><h2>热点排名轨迹</h2><span class="section-meta" id="historyFlowMeta">排名 1 为最高热度</span></div>
+          <div class="viz-panel rank-flow-scroll" id="historyRankFlow"></div>
+        </section>
+        <section class="section">
+          <div class="section-head"><h2>昨日值得关注</h2><span class="section-meta">日终变化信号</span></div>
+          <div class="signal-list" id="historySignals"></div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <div class="drawer-layer" id="settingsLayer" aria-hidden="true">
+    <div class="drawer-backdrop" id="drawerBackdrop"></div>
+    <aside class="drawer" aria-label="显示设置">
+      <div class="drawer-head"><h2>显示设置</h2><button class="icon-btn" id="closeSettings" aria-label="关闭">×</button></div>
+      <div class="drawer-body">
+        <div class="setting-block">
+          <div class="setting-title">页面主题</div>
+          <div class="choice-grid" id="themeChoices">
+            <button class="choice-btn" data-theme-choice="editorial">编辑部浅色</button>
+            <button class="choice-btn" data-theme-choice="night">夜间阅读</button>
+          </div>
+        </div>
+        <div class="setting-block">
+          <div class="setting-title">热榜布局</div>
+          <div class="choice-grid" id="layoutChoices">
+            <button class="choice-btn" data-layout-choice="cards">卡片网格</button>
+            <button class="choice-btn" data-layout-choice="list">紧凑列表</button>
+            <button class="choice-btn" data-layout-choice="channel-tabs">渠道 Tabs</button>
+          </div>
+        </div>
+        <div class="setting-block">
+          <div class="setting-title">每个榜单显示数量</div>
+          <div class="setting-help">默认 20 条，最多 50 条。实际数量取决于渠道返回结果。</div>
+          <select id="drawerTopCount"><option value="10">10 条</option><option value="20">20 条</option><option value="30">30 条</option><option value="50">50 条</option></select>
+        </div>
+        <div class="setting-block">
+          <div class="setting-title">RSS 阅读</div>
+          <div class="setting-help">RSS 每个源最多展示 5 条，按发布时间排序。</div>
+          <label class="setting-check"><input id="rssVisibleToggle" type="checkbox"> <span>显示 RSS 卡片</span></label>
+          <div class="choice-grid" id="rssModeChoices">
+            <button class="choice-btn" data-rss-mode-choice="tabs">分源 Tabs</button>
+            <button class="choice-btn" data-rss-mode-choice="aggregate">聚合时间线</button>
+          </div>
+          <label class="setting-check"><input id="rssPublishedToggle" type="checkbox"> <span>显示文章发布时间</span></label>
+          <div class="rss-feed-settings" id="rssFeedSettings"></div>
+        </div>
+        <div class="setting-block">
+          <div class="setting-title">本地展示渠道</div>
+          <div class="setting-help">渠道显隐与排序仅保存在当前浏览器。</div>
+          <div id="channelSettings"></div>
+        </div>
+      </div>
+      <div class="drawer-foot"><button class="plain-btn" id="resetSettings">恢复默认</button><button class="primary-btn" id="saveSettings">完成</button></div>
+    </aside>
+  </div>
+  <div class="toast" id="toast"></div>
+
+  <dialog class="topic-dialog" id="topicDialog">
+    <div class="topic-dialog-head"><h2 id="topicDialogTitle">关联内容</h2><button class="icon-btn" id="closeTopicDialog" aria-label="关闭">×</button></div>
+    <div class="topic-dialog-body" id="topicDialogBody"></div>
+  </dialog>
+
+  <script>
+    const STORAGE_KEY = 'awesome-hot-list.preferences.v1';
+    const DISPLAY_THEMES = Object.freeze({
+      editorial: '编辑部浅色',
+      night: '夜间阅读'
+    });
+    const HOTLIST_LAYOUTS = Object.freeze({
+      cards: '卡片网格',
+      list: '紧凑列表',
+      'channel-tabs': '渠道 Tabs'
+    });
+    const RSS_MODES = Object.freeze({ tabs: '分源 Tabs', aggregate: '聚合时间线' });
+    const CHANNEL_ORDER = ['bilibili', 'douyin', 'weibo', 'zhihu', 'github', 'juejin', 'toutiao', 'acfun', 'ithome', 'douban', 'hupu', '36kr', 'tonghuashun', 'maimai', 'xueqiu', 'v2ex', 'stackoverflow', 'cls', 'rss'];
+    const CHANNELS = {
+      bilibili: { name: '哔哩哔哩', short: 'B', color: '#315da8', updated: '12:11', sourceUrl: 'https://www.bilibili.com/v/popular/all' },
+      douyin: { name: '抖音', short: 'DY', color: '#17191d', updated: '13:00', sourceUrl: 'https://www.douyin.com/hot' },
+      weibo: { name: '微博', short: 'WB', color: '#ce3c32', updated: '12:58', sourceUrl: 'https://s.weibo.com/top/summary' },
+      zhihu: { name: '知乎', short: '知', color: '#2f6fbd', updated: '12:55', sourceUrl: 'https://www.zhihu.com/hot' },
+      github: { name: 'GitHub', short: 'GH', color: '#087b70', updated: '--', sourceUrl: 'https://github.com/trending' },
+      juejin: { name: '掘金', short: '掘', color: '#1e80ff', updated: '--', sourceUrl: 'https://juejin.cn/hot/articles' },
+      toutiao: { name: '今日头条', short: 'TT', color: '#d94b38', updated: '13:01', sourceUrl: 'https://www.toutiao.com/hot-event/hot-board/' },
+      rss: { name: 'RSS', short: 'RS', color: '#9a6812', updated: '12:45', sourceUrl: '' },
+      acfun: { name: 'AcFun', short: 'AC', color: '#c43832', updated: '12:42', sourceUrl: 'https://www.acfun.cn/rank/list/' },
+      ithome: { name: 'IT之家', short: 'IT', color: '#2d6f9f', updated: '12:50', sourceUrl: 'https://www.ithome.com/' },
+      douban: { name: '豆瓣', short: '豆', color: '#27815c', updated: '12:36', sourceUrl: 'https://www.douban.com/group/explore' },
+      hupu: { name: '虎扑', short: '虎', color: '#b8492f', updated: '12:40', sourceUrl: 'https://bbs.hupu.com/all-gambia' },
+      '36kr': { name: '36氪', short: '36', color: '#4965a8', updated: '12:48', sourceUrl: 'https://www.36kr.com/hot-list/catalog' },
+      tonghuashun: { name: '同花顺', short: '同', color: '#b62e35', updated: '12:52', sourceUrl: 'https://t.10jqka.com.cn/' },
+      maimai: { name: '脉脉', short: '脉', color: '#4b6f97', updated: '12:46', sourceUrl: 'https://maimai.cn/web/gossip_list' },
+      xueqiu: { name: '雪球', short: '雪', color: '#ba4f25', updated: '12:44', sourceUrl: 'https://xueqiu.com/today' },
+      v2ex: { name: 'V2EX', short: 'V2', color: '#778087', updated: '--', sourceUrl: 'https://www.v2ex.com/?tab=hot' },
+      stackoverflow: { name: 'Stack Overflow', short: 'SO', color: '#f48024', updated: '--', sourceUrl: 'https://stackoverflow.com/questions?tab=hot' },
+      cls: { name: '财联社', short: '财', color: '#c72b2b', updated: '--', sourceUrl: 'https://www.cls.cn/telegraph' }
+    };
+
+    const CHANNEL_RANKINGS = Object.fromEntries(
+      CHANNEL_ORDER.map(key => [key, { '等待采集': [] }])
+    );
+    const CHANNEL_RANKING_URLS = Object.fromEntries(
+      CHANNEL_ORDER.map(key => [key, {}])
+    );
+    let topTopics = [];
+    let historyTopics = [];
+    let words = [];
+    const TOPIC_TERMS = {};
+    const TOPIC_HITS = {};
+    let todayFlow = { times: [], rows: [] };
+    let historyFlow = { times: [], rows: [] };
+    let todaySignals = [];
+    let historySignals = [];
+
+    const defaultPrefs = {
+      topCount: 20,
+      theme: 'editorial',
+      layout: 'cards',
+      activeChannel: 'bilibili',
+      activeRankings: {},
+      rssMode: 'tabs',
+      rssLimits: {},
+      rssShowPublishedAt: true,
+      order: [...CHANNEL_ORDER],
+      visible: Object.fromEntries(CHANNEL_ORDER.map(key => [key, true]))
+    };
+    let prefs = loadPrefs();
+
+    function normalizeOrder(order) {
+      const valid = Array.isArray(order) ? order.filter(key => CHANNEL_ORDER.includes(key)) : [];
+      const normalized = [...new Set(valid)].filter(key => key !== 'rss');
+      CHANNEL_ORDER.filter(key => key !== 'rss').forEach(key => {
+        if (normalized.includes(key)) return;
+        const defaultIndex = CHANNEL_ORDER.indexOf(key);
+        const insertAt = normalized.findIndex(existing => CHANNEL_ORDER.indexOf(existing) > defaultIndex);
+        if (insertAt < 0) normalized.push(key);
+        else normalized.splice(insertAt, 0, key);
+      });
+      return [...normalized, 'rss'];
+    }
+    function loadPrefs() {
+      try {
+        const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null');
+        if (!saved) return structuredClone(defaultPrefs);
+        return {
+          ...defaultPrefs,
+          ...saved,
+          theme: Object.hasOwn(DISPLAY_THEMES, saved.theme) ? saved.theme : defaultPrefs.theme,
+          layout: Object.hasOwn(HOTLIST_LAYOUTS, saved.layout) ? saved.layout : defaultPrefs.layout,
+          rssMode: Object.hasOwn(RSS_MODES, saved.rssMode) ? saved.rssMode : defaultPrefs.rssMode,
+          rssLimits: Object.fromEntries(Object.entries(saved.rssLimits || {}).map(([key, value]) => [key, Math.max(1, Math.min(5, Number(value) || 5))])),
+          rssShowPublishedAt: saved.rssShowPublishedAt !== false,
+          order: normalizeOrder(saved.order),
+          activeRankings: { ...(saved.activeRankings || {}) },
+          visible: { ...defaultPrefs.visible, ...(saved.visible || {}) }
+        };
+      } catch { return structuredClone(defaultPrefs); }
+    }
+    function savePrefs() { localStorage.setItem(STORAGE_KEY, JSON.stringify(prefs)); }
+    function fmtHot(value) {
+      if (!value) return '';
+      if (typeof value === 'string' && !/^\d+(\.\d+)?$/.test(value)) return value;
+      const numeric = Number(value);
+      if (!Number.isFinite(numeric)) return String(value);
+      return numeric >= 10000000 ? `${(numeric / 10000000).toFixed(1)}千万` : numeric >= 10000 ? `${(numeric / 10000).toFixed(0)}万` : String(Math.round(numeric));
+    }
+    function escapeHtml(value) { return String(value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[ch])); }
+
+    function renderTopList(target, rows) {
+      if (!rows.length) {
+        document.getElementById(target).innerHTML = '<div class="empty-report">暂无可分析数据</div>';
+        return;
+      }
+      document.getElementById(target).innerHTML = rows.map((row, index) => `
+        <button class="top-row" type="button" data-topic="${escapeHtml(row[3] || row[0])}">
+          <span class="top-rank">${index + 1}</span><span class="top-title">${escapeHtml(row[0])}</span><span class="source-tag">${escapeHtml(row[1])}</span>
+        </button>`).join('');
+      bindTopicButtons(document.getElementById(target));
+    }
+
+    function renderWords(target, list) {
+      if (!list.length) {
+        document.getElementById(target).innerHTML = '<div class="empty-report">等待更多时间切片</div>';
+        return;
+      }
+      document.getElementById(target).innerHTML = list.map(([label, size, tone, topicKey]) =>
+        `<button class="word ${['hot', 'teal', 'gold'].includes(tone) ? tone : ''}" style="font-size:${Math.max(12, Math.min(30, Number(size) || 14))}px" data-topic="${escapeHtml(topicKey || label)}" title="查看关联内容">${escapeHtml(label)}</button>`
+      ).join('');
+      bindTopicButtons(document.getElementById(target));
+    }
+
+    function splitRankSegments(points) {
+      return points.reduce((segments, point) => {
+        if (!point) {
+          if (segments.at(-1)?.length) segments.push([]);
+        } else {
+          if (!segments.length) segments.push([]);
+          segments.at(-1).push(point);
+        }
+        return segments;
+      }, []).filter(segment => segment.length);
+    }
+
+    function smoothRankPath(points) {
+      if (points.length < 2) return '';
+      return points.slice(1).reduce((path, point, index) => {
+        const previous = points[index];
+        const controlX = (previous.x + point.x) / 2;
+        return `${path} C ${controlX} ${previous.y}, ${controlX} ${point.y}, ${point.x} ${point.y}`;
+      }, `M ${points[0].x} ${points[0].y}`);
+    }
+
+    function renderRankFlow(target, flow) {
+      if (!flow?.rows?.length || !flow?.times?.length) {
+        document.getElementById(target).innerHTML = '<div class="empty-report">暂无排名轨迹</div>';
+        return;
+      }
+      const maxRank = Math.max(35, ...flow.rows.flatMap(row => row.ranks.filter(Boolean)));
+      const yAt = rank => 12 + ((rank - 1) / Math.max(1, maxRank - 1)) * 76;
+      const header = `<div class="rank-flow-head"><div>热点主题</div><div class="rank-flow-times">按渠道与子榜单的真实采样绘制</div><div class="rank-flow-state">当前趋势</div></div>`;
+      const rows = flow.rows.map(row => {
+        const rowTimes = row.times?.length ? row.times : flow.times;
+        const timeCount = rowTimes.length;
+        const xAt = index => timeCount === 1 ? 50 : 4 + (index / (timeCount - 1)) * 92;
+        const points = row.ranks.map((rank, index) => rank ? { rank, index, x: xAt(index), y: yAt(rank) } : null);
+        const paths = splitRankSegments(points).map(segment => smoothRankPath(segment)).filter(Boolean);
+        const summary = row.ranks.map((rank, index) => `${rowTimes[index]}${rank ? `第 ${rank} 名` : '未上榜'}`).join('，');
+        const guides = rowTimes.map((_, index) => `<span class="rank-time-line" style="--x:${xAt(index)}" aria-hidden="true"></span>`).join('');
+        const dots = points.filter(Boolean).map(point => {
+          const edge = point.index === 0 ? 'edge-left' : point.index === timeCount - 1 ? 'edge-right' : '';
+          const label = `${rowTimes[point.index]} · 热榜排名 #${point.rank}`;
+          return `<button type="button" class="rank-point ${point.rank <= 3 ? 'top' : ''} ${edge}" style="--x:${point.x};--y:${point.y}" data-tooltip="${label}" aria-label="${label}"></button>`;
+        }).join('');
+        return `<div class="rank-flow-row">
+          <div class="rank-flow-topic"><button class="topic-link" data-topic="${escapeHtml(row.query)}">${escapeHtml(row.topic)}<span class="topic-tenure">${escapeHtml(row.source || '')}${row.ranking ? ` · ${escapeHtml(row.ranking)}` : ''} · ${escapeHtml(row.tenure)}</span></button></div>
+          <div class="rank-plot tone-${row.tone}" role="img" aria-label="${escapeHtml(row.topic)}排名轨迹：${summary}">${guides}<svg class="rank-line" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"><line class="rank-grid-line" x1="4" y1="12" x2="96" y2="12"></line><line class="rank-grid-line" x1="4" y1="50" x2="96" y2="50"></line><line class="rank-grid-line" x1="4" y1="88" x2="96" y2="88"></line>${paths.map(path => `<path class="rank-curve" d="${path}"></path>`).join('')}</svg>${dots}</div>
+          <div class="rank-flow-state"><span class="trend-state ${row.tone}">${row.state}</span></div>
+        </div>`;
+      }).join('');
+      document.getElementById(target).innerHTML = `<div class="rank-flow">${header}${rows}</div>`;
+      bindTopicButtons(document.getElementById(target));
+    }
+
+    function renderSignals(target, rows) {
+      if (!rows.length) {
+        document.getElementById(target).innerHTML = '<div class="empty-report">暂无显著变化信号</div>';
+        return;
+      }
+      document.getElementById(target).innerHTML = rows.map(([kind, title, value, topic]) => `<button class="signal-row" data-topic="${escapeHtml(topic)}">
+        <span class="signal-kind">${escapeHtml(kind)}</span><span class="signal-title">${escapeHtml(title)}</span><span class="signal-value">${escapeHtml(value)}</span>
+      </button>`).join('');
+      bindTopicButtons(document.getElementById(target));
+    }
+
+    function relatedItems(topic) {
+      if (TOPIC_HITS[topic]?.length) return TOPIC_HITS[topic];
+      const normalize = value => value.toLowerCase().replace(/\s+/g, '');
+      const terms = TOPIC_TERMS[topic] || [topic];
+      const items = Object.entries(CHANNEL_RANKINGS).flatMap(([channel, rankings]) => Object.entries(rankings).flatMap(([ranking, rows]) => rows.map(item => ({ ...item, channel, ranking })))).filter(item => terms.some(term => normalize(item.title).includes(normalize(term))));
+      if (items.length) return [...new Map(items.map(item => [item.url, item])).values()];
+      return [
+        { title: `${topic} - 哔哩哔哩搜索`, channel: 'bilibili', rank: null, url: `https://search.bilibili.com/all?keyword=${encodeURIComponent(topic)}` },
+        { title: `${topic} - 抖音搜索`, channel: 'douyin', rank: null, url: `https://www.douyin.com/search/${encodeURIComponent(topic)}` }
+      ];
+    }
+
+    function openTopic(topic) {
+      const items = relatedItems(topic);
+      if (items.length === 1) {
+        window.open(items[0].url, '_blank', 'noopener');
+        return;
+      }
+      document.getElementById('topicDialogTitle').textContent = `${topic} · ${items.length} 条关联内容`;
+      document.getElementById('topicDialogBody').innerHTML = items.map(item => {
+        const channel = CHANNELS[item.channel] || { name: item.channelName || item.channel || '来源' };
+        return `<a class="topic-result" href="${item.url}" target="_blank" rel="noopener" title="${escapeHtml(item.title)}">
+          <span><span class="topic-result-title">${escapeHtml(item.title)}</span><span class="topic-result-meta">${escapeHtml(channel.name)} · ${escapeHtml(item.ranking || '关联搜索')}${item.rank ? ` · 榜单 #${Number(item.rank)}` : ''}</span></span><span class="external-mark">↗</span>
+        </a>`;
+      }).join('');
+      document.getElementById('topicDialog').showModal();
+    }
+
+    function bindTopicButtons(root) {
+      root.querySelectorAll('[data-topic]').forEach(button => button.addEventListener('click', () => openTopic(button.dataset.topic)));
+    }
+
+    function rssLimitFor(name) {
+      return Math.max(1, Math.min(5, Number(prefs.rssLimits[name]) || 5));
+    }
+
+    function publishedLabel(value) {
+      if (!value) return '';
+      const text = String(value).trim();
+      if (!text) return '';
+      const parsed = new Date(text);
+      if (Number.isNaN(parsed.getTime())) return text.replace('T', ' ').replace(/([+-]\d\d:\d\d|Z)$/, '').slice(0, 16);
+      const parts = [parsed.getFullYear(), String(parsed.getMonth() + 1).padStart(2, '0'), String(parsed.getDate()).padStart(2, '0')];
+      const time = [String(parsed.getHours()).padStart(2, '0'), String(parsed.getMinutes()).padStart(2, '0')].join(':');
+      return `${parts.join('-')} ${time}`;
+    }
+
+    function rssRows(rankings, mode, activeRanking) {
+      const entries = Object.entries(rankings)
+        .filter(([name]) => !['等待采集', '暂无数据'].includes(name))
+        .map(([name, rows]) => [name, rows.slice(0, rssLimitFor(name))]);
+      if (mode === 'aggregate') {
+        return entries.flatMap(([name, rows]) => rows.map(item => ({ ...item, rssSource: name })))
+          .sort((left, right) => {
+            const leftTime = Date.parse(left.publishedAt || '') || 0;
+            const rightTime = Date.parse(right.publishedAt || '') || 0;
+            return rightTime - leftTime;
+          })
+          .map((item, index) => ({ ...item, rank: index + 1 }));
+      }
+      return (entries.find(([name]) => name === activeRanking)?.[1] || []).map(item => ({ ...item, rssSource: activeRanking }));
+    }
+
+    function channelCard(key) {
+      const channel = CHANNELS[key];
+      const rankings = CHANNEL_RANKINGS[key] || { '榜单': [] };
+      const rankingNames = Object.keys(rankings);
+      const rssRankingNames = rankingNames.filter(name => !['等待采集', '暂无数据'].includes(name));
+      const activeRanking = rankingNames.includes(prefs.activeRankings[key]) ? prefs.activeRankings[key] : rankingNames[0];
+      const isRss = key === 'rss';
+      const rssMode = isRss ? prefs.rssMode : 'tabs';
+      const visibleRankingNames = isRss ? rssRankingNames : rankingNames;
+      const allRows = isRss ? rssRows(rankings, rssMode, activeRanking) : rankings[activeRanking] || [];
+      const rows = allRows.slice(0, prefs.topCount);
+      const detailUrl = safeUrl(CHANNEL_RANKING_URLS[key]?.[activeRanking] || channel.sourceUrl);
+      const detailLink = detailUrl === '#' || (isRss && rssMode === 'aggregate') ? '' : `<a class="channel-detail" href="${detailUrl}" target="_blank" rel="noopener">查看详情</a>`;
+      const tabs = visibleRankingNames.length > 1 && (!isRss || rssMode === 'tabs') ? `<div class="ranking-tabs" role="tablist" aria-label="${channel.name}榜单">
+        ${visibleRankingNames.map(name => `<button class="ranking-tab ${name === activeRanking ? 'active' : ''}" data-ranking-channel="${key}" data-ranking-name="${escapeHtml(name)}" role="tab" aria-selected="${name === activeRanking}">${escapeHtml(name)}</button>`).join('')}
+      </div>` : '';
+      const body = rows.length ? `<ol class="hotlist">${rows.map((item, index) => {
+        const date = isRss && prefs.rssShowPublishedAt ? publishedLabel(item.publishedAt) : '';
+        const source = isRss && rssMode === 'aggregate' ? item.rssSource : '';
+        const meta = [source, date].filter(Boolean).join(' · ');
+        return `<li class="hot-item ${isRss ? 'rss-item' : ''}"><span class="item-rank">${Number(item.rank) || index + 1}</span><a class="item-link" href="${safeUrl(item.url)}" target="_blank" rel="noopener" title="${escapeHtml(item.title)}"><span class="item-title">${escapeHtml(item.title)}</span>${meta ? `<span class="rss-item-meta">${escapeHtml(meta)}</span>` : ''}</a>${!isRss ? `<span class="item-hot">${escapeHtml(fmtHot(item.hot))}</span>` : ''}</li>`;
+      }).join('')}</ol>`
+        : `<div class="empty-channel"><div><strong>暂无可展示数据</strong>${escapeHtml(channel.statusMessage || '等待下一次渠道采集')}</div></div>`;
+      const modeNote = isRss ? ` · <span class="rss-mode-note">${RSS_MODES[rssMode]}</span>` : '';
+      return `<article class="channel-card" data-channel="${key}">
+        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${channel.name}</div><div class="channel-sub">${isRss ? `${visibleRankingNames.length} 个源` : visibleRankingNames.length > 1 ? `${visibleRankingNames.length} 个榜单` : activeRanking} · 更新 ${channel.updated}${modeNote}</div></div></div><div class="channel-count"><strong>${rows.length}</strong>共 ${allRows.length} 条</div></header>${tabs}<div class="channel-body">${body}</div><footer class="channel-foot">${detailLink}</footer>
+      </article>`;
+    }
+
+    function renderChannels() {
+      const visibleKeys = prefs.order.filter(key => prefs.visible[key]);
+      const switcher = document.getElementById('channelSwitcher');
+      const grid = document.getElementById('channelGrid');
+      grid.className = `channel-grid layout-${prefs.layout}`;
+      let keys = visibleKeys;
+      if (prefs.layout === 'channel-tabs' && visibleKeys.length) {
+        if (!visibleKeys.includes(prefs.activeChannel)) {
+          prefs.activeChannel = visibleKeys[0];
+          savePrefs();
+        }
+        keys = [prefs.activeChannel];
+        switcher.classList.add('active');
+        switcher.innerHTML = visibleKeys.map(key => `<button class="channel-switch-btn ${key === prefs.activeChannel ? 'active' : ''}" data-channel-switch="${key}">${CHANNELS[key].name}</button>`).join('');
+      } else {
+        switcher.classList.remove('active');
+        switcher.innerHTML = '';
+      }
+      grid.innerHTML = keys.length ? keys.map(channelCard).join('') : '<div class="empty-channel"><div><strong>未选择展示渠道</strong>请在显示设置中至少启用一个渠道</div></div>';
+      document.getElementById('drawerTopCount').value = String(prefs.topCount);
+      document.querySelectorAll('[data-ranking-channel]').forEach(button => button.addEventListener('click', () => {
+        prefs.activeRankings[button.dataset.rankingChannel] = button.dataset.rankingName;
+        savePrefs();
+        renderChannels();
+      }));
+      document.querySelectorAll('[data-channel-switch]').forEach(button => button.addEventListener('click', () => {
+        prefs.activeChannel = button.dataset.channelSwitch;
+        savePrefs();
+        renderChannels();
+      }));
+    }
+
+    function renderPreferenceChoices() {
+      document.body.dataset.theme = prefs.theme;
+      document.querySelectorAll('[data-theme-choice]').forEach(button => {
+        const selected = button.dataset.themeChoice === prefs.theme;
+        button.classList.toggle('active', selected);
+        button.setAttribute('aria-pressed', String(selected));
+      });
+      document.querySelectorAll('[data-layout-choice]').forEach(button => {
+        const selected = button.dataset.layoutChoice === prefs.layout;
+        button.classList.toggle('active', selected);
+        button.setAttribute('aria-pressed', String(selected));
+      });
+      document.querySelectorAll('[data-rss-mode-choice]').forEach(button => {
+        const selected = button.dataset.rssModeChoice === prefs.rssMode;
+        button.classList.toggle('active', selected);
+        button.setAttribute('aria-pressed', String(selected));
+      });
+      const visible = document.getElementById('rssVisibleToggle');
+      const published = document.getElementById('rssPublishedToggle');
+      if (visible) visible.checked = Boolean(prefs.visible.rss);
+      if (published) published.checked = Boolean(prefs.rssShowPublishedAt);
+    }
+
+    function renderRssSettings() {
+      const container = document.getElementById('rssFeedSettings');
+      if (!container) return;
+      const names = Object.keys(CHANNEL_RANKINGS.rss || {}).filter(name => !['等待采集', '暂无数据'].includes(name));
+      container.innerHTML = names.length
+        ? `<div class="rss-feed-title">各源显示条数</div>${names.map(name => `<label class="rss-feed-row"><span title="${escapeHtml(name)}">${escapeHtml(name)}</span><select data-rss-limit="${escapeHtml(name)}"><option value="1">1 条</option><option value="2">2 条</option><option value="3">3 条</option><option value="4">4 条</option><option value="5">5 条</option></select></label>`).join('')}`
+        : '<div class="setting-help">加载 RSS 快照后可分别设置各源条数。</div>';
+      container.querySelectorAll('[data-rss-limit]').forEach(select => {
+        const name = select.dataset.rssLimit;
+        select.value = String(rssLimitFor(name));
+        select.addEventListener('change', () => {
+          prefs.rssLimits[name] = Math.max(1, Math.min(5, Number(select.value) || 5));
+          savePrefs();
+          renderChannels();
+        });
+      });
+    }
+
+    function renderSettings() {
+      document.getElementById('channelSettings').innerHTML = prefs.order.map((key, index) => `<div class="channel-toggle" data-sort-channel="${key}">
+        <button class="sort-handle" draggable="true" data-drag-handle="${key}" aria-label="拖动${CHANNELS[key].name}排序" title="拖动排序">⋮⋮</button>
+        <label for="toggle-${key}">${CHANNELS[key].name}</label>
+        <span class="sort-actions"><button class="sort-btn" data-move-channel="${key}" data-move="-1" aria-label="上移${CHANNELS[key].name}" title="上移" ${index === 0 ? 'disabled' : ''}>↑</button><button class="sort-btn" data-move-channel="${key}" data-move="1" aria-label="下移${CHANNELS[key].name}" title="下移" ${index === prefs.order.length - 1 ? 'disabled' : ''}>↓</button></span>
+        <input id="toggle-${key}" type="checkbox" data-channel-toggle="${key}" ${prefs.visible[key] ? 'checked' : ''}>
+      </div>`).join('');
+      document.querySelectorAll('[data-channel-toggle]').forEach(input => input.addEventListener('change', () => {
+        prefs.visible[input.dataset.channelToggle] = input.checked;
+        savePrefs();
+        renderChannels();
+      }));
+      bindChannelSorting();
+      renderRssSettings();
+      renderPreferenceChoices();
+    }
+
+    function moveChannel(key, offset) {
+      const from = prefs.order.indexOf(key);
+      const to = Math.max(0, Math.min(prefs.order.length - 1, from + offset));
+      if (from === to) return;
+      prefs.order.splice(from, 1);
+      prefs.order.splice(to, 0, key);
+      savePrefs();
+      renderSettings();
+      renderChannels();
+    }
+
+    function bindChannelSorting() {
+      let draggedChannel = null;
+      document.querySelectorAll('[data-move-channel]').forEach(button => button.addEventListener('click', () => moveChannel(button.dataset.moveChannel, Number(button.dataset.move))));
+      document.querySelectorAll('[data-drag-handle]').forEach(handle => {
+        handle.addEventListener('dragstart', event => {
+          draggedChannel = handle.dataset.dragHandle;
+          if (event.dataTransfer) event.dataTransfer.effectAllowed = 'move';
+          handle.closest('.channel-toggle').classList.add('dragging');
+        });
+        handle.addEventListener('dragend', () => document.querySelectorAll('.channel-toggle').forEach(row => row.classList.remove('dragging', 'drag-over')));
+      });
+      document.querySelectorAll('[data-sort-channel]').forEach(row => {
+        row.addEventListener('dragover', event => { event.preventDefault(); row.classList.add('drag-over'); });
+        row.addEventListener('dragleave', () => row.classList.remove('drag-over'));
+        row.addEventListener('drop', event => {
+          event.preventDefault();
+          const target = row.dataset.sortChannel;
+          if (!draggedChannel || draggedChannel === target) return;
+          const next = prefs.order.filter(key => key !== draggedChannel);
+          const targetIndex = next.indexOf(target);
+          const after = event.clientY > row.getBoundingClientRect().top + row.getBoundingClientRect().height / 2;
+          next.splice(targetIndex + (after ? 1 : 0), 0, draggedChannel);
+          prefs.order = next;
+          savePrefs();
+          renderSettings();
+          renderChannels();
+          showToast('渠道顺序已更新');
+        });
+      });
+    }
+
+    function switchView(name) {
+      document.querySelectorAll('.view').forEach(view => view.classList.toggle('active', view.id === `view-${name}`));
+      document.querySelectorAll('.nav-btn').forEach(button => button.classList.toggle('active', button.dataset.viewTarget === name));
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    function openSettings() { document.getElementById('settingsLayer').classList.add('open'); document.getElementById('settingsLayer').setAttribute('aria-hidden', 'false'); }
+    function closeSettings() { document.getElementById('settingsLayer').classList.remove('open'); document.getElementById('settingsLayer').setAttribute('aria-hidden', 'true'); }
+    let toastTimer;
+    function showToast(message) { const toast = document.getElementById('toast'); toast.textContent = message; toast.classList.add('show'); clearTimeout(toastTimer); toastTimer = setTimeout(() => toast.classList.remove('show'), 1700); }
+
+    function safeUrl(value) {
+      if (!String(value || '').trim()) return '#';
+      try {
+        const url = new URL(String(value || ''), window.location.href);
+        return ['http:', 'https:'].includes(url.protocol) ? url.href : '#';
+      } catch { return '#'; }
+    }
+
+    function normalizeHits(hits) {
+      return (hits || []).map(hit => ({
+        title: hit.title,
+        channel: hit.channelId || hit.channel,
+        channelName: hit.channelName,
+        ranking: hit.ranking,
+        rank: hit.rank,
+        url: safeUrl(hit.url)
+      })).filter(hit => hit.url !== '#');
+    }
+
+    function registerHits(scope, label, hits) {
+      const key = `${scope}:${label}`;
+      TOPIC_HITS[key] = normalizeHits(hits);
+      return key;
+    }
+
+    function reportToView(scope, report) {
+      const top = (report.topTopics || []).map(item => [
+        item.title,
+        item.source,
+        safeUrl(item.url),
+        registerHits(scope, item.title, item.hits)
+      ]);
+      const maxWeight = Math.max(1, ...(report.words || []).map(item => Number(item.weight) || 0));
+      const reportWords = (report.words || []).map(item => [
+        item.word,
+        13 + Math.round(((Number(item.weight) || 0) / maxWeight) * 13),
+        item.tone || '',
+        registerHits(scope, item.word, item.hits)
+      ]);
+      const flow = {
+        times: report.flow?.times || [],
+        rows: (report.flow?.rows || []).map(item => ({
+          ...item,
+          query: registerHits(scope, item.topic, item.hits)
+        }))
+      };
+      const signals = (report.signals || []).map(item => [
+        item.tag,
+        item.title,
+        item.value,
+        registerHits(scope, `${item.title}:${item.tag}`, item.hits)
+      ]);
+      return { top, words: reportWords, flow, signals };
+    }
+
+    function renderReport(scope, report) {
+      const view = reportToView(scope, report);
+      const prefix = scope === 'today' ? 'today' : 'history';
+      if (scope === 'today') {
+        topTopics = view.top;
+        words = view.words;
+        todayFlow = view.flow;
+        todaySignals = view.signals;
+      } else {
+        historyTopics = view.top;
+        historyFlow = view.flow;
+        historySignals = view.signals;
+      }
+
+      renderTopList(`${prefix}Top`, view.top);
+      renderWords(`${prefix}Words`, view.words);
+      renderRankFlow(`${prefix}RankFlow`, view.flow);
+      renderSignals(`${prefix}Signals`, view.signals);
+      const flowRange = view.flow.times.length > 1
+        ? `${view.flow.times[0]}-${view.flow.times.at(-1)}`
+        : view.flow.times.length === 1
+          ? '当前仅 1 个采样点'
+          : '暂无时间切片';
+      document.getElementById(`${prefix}FlowMeta`).textContent = `排名 1 为最高热度 · ${flowRange}`;
+
+      const metrics = report.metrics || {};
+      document.getElementById(`${prefix}Deduplicated`).textContent = metrics.deduplicated ?? '--';
+      document.getElementById(`${prefix}Resonance`).textContent = metrics.resonance ?? '--';
+      document.getElementById(`${prefix}Coverage`).innerHTML = `${metrics.coverage ?? '--'} <span class="metric-delta">%</span>`;
+      document.getElementById(`${prefix}Summary`).textContent = report.summary || '暂无足够数据生成摘要。';
+      if (scope === 'today') {
+        document.getElementById('todayRise').innerHTML = `${metrics.maxRise > 0 ? '+' : ''}${metrics.maxRise ?? '--'} <span class="metric-delta">位</span>`;
+        document.getElementById('todayEyebrow').textContent = `DAILY SIGNAL / ${(report.date || '').slice(5).replace('-', '.')}`;
+        document.getElementById('todayNote').textContent = `截至 ${(report.generatedAt || '').slice(11, 16) || '--:--'}，已整合 ${metrics.slices || 0} 个榜单时间切片。`;
+      } else {
+        document.getElementById('historySlices').textContent = metrics.slices ?? '--';
+        document.getElementById('historyEyebrow').textContent = `ARCHIVE / ${(report.date || '').slice(5).replace('-', '.')}`;
+        document.getElementById('historyNote').innerHTML = `覆盖 ${escapeHtml(report.date || '上一日')} 的完整归档，分析方法与今日报告一致。 <span class="complete-mark">已完成</span>`;
+      }
+    }
+
+    function applyLatest(payload) {
+      Object.keys(CHANNEL_RANKINGS).forEach(key => {
+        CHANNEL_RANKINGS[key] = { '等待采集': [] };
+        CHANNEL_RANKING_URLS[key] = {};
+        CHANNELS[key].statusMessage = '该渠道尚无统一快照';
+      });
+      for (const snapshot of payload.channels || []) {
+        const key = snapshot.channelId;
+        if (!CHANNELS[key]) continue;
+        CHANNELS[key].name = snapshot.channelName || CHANNELS[key].name;
+        CHANNELS[key].sourceUrl = snapshot.sourceUrl || CHANNELS[key].sourceUrl;
+        CHANNELS[key].updated = (snapshot.fetchedAt || '').slice(11, 16) || '--';
+        CHANNELS[key].statusMessage = snapshot.status === 'disabled'
+          ? '需要在环境变量中启用该渠道'
+          : snapshot.status === 'stale'
+            ? '本次刷新失败，当前显示上次成功数据'
+            : snapshot.error || '等待下一次渠道采集';
+        const rankings = {};
+        const rankingUrls = {};
+        for (const ranking of snapshot.rankings || []) {
+          rankings[ranking.name] = (ranking.items || []).map(item => ({
+            ...item,
+            channel: key,
+            url: safeUrl(item.url)
+          }));
+          rankingUrls[ranking.name] = ranking.sourceUrl || snapshot.sourceUrl || CHANNELS[key].sourceUrl || '';
+        }
+        CHANNEL_RANKINGS[key] = Object.keys(rankings).length ? rankings : { '暂无数据': [] };
+        CHANNEL_RANKING_URLS[key] = rankingUrls;
+      }
+      const available = (payload.channels || []).filter(item => item.status === 'ok' || item.status === 'stale').length;
+      const generatedAt = payload.generatedAt || '';
+      document.getElementById('syncStatus').textContent = `最近同步 ${generatedAt.slice(11, 16) || '--:--'}`;
+      document.getElementById('latestEyebrow').textContent = `LATEST SNAPSHOT / ${generatedAt.slice(11, 16) || '--:--'}`;
+      document.getElementById('latestNote').textContent = `${available} 个渠道已有可展示快照`;
+      if (generatedAt) document.getElementById('brandDate').textContent = `${generatedAt.slice(0, 10).replaceAll('-', '.')} · 数据持续更新`;
+      renderChannels();
+      renderSettings();
+    }
+
+    async function fetchJson(path) {
+      const response = await fetch(path, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
+      return response.json();
+    }
+
+    async function loadSiteData() {
+      const results = await Promise.allSettled([
+        fetchJson('./data/latest.json'),
+        fetchJson('./data/reports/today.json'),
+        fetchJson('./data/reports/previous.json')
+      ]);
+      if (results[0].status === 'fulfilled') applyLatest(results[0].value);
+      else document.getElementById('latestNote').textContent = '暂无统一快照，请先运行采集任务';
+      if (results[1].status === 'fulfilled') renderReport('today', results[1].value);
+      if (results[2].status === 'fulfilled') renderReport('history', results[2].value);
+    }
+
+    document.querySelectorAll('.nav-btn').forEach(button => button.addEventListener('click', () => switchView(button.dataset.viewTarget)));
+    document.getElementById('openSettings').addEventListener('click', openSettings);
+    document.getElementById('closeSettings').addEventListener('click', closeSettings);
+    document.getElementById('drawerBackdrop').addEventListener('click', closeSettings);
+    document.getElementById('saveSettings').addEventListener('click', () => { closeSettings(); showToast('显示设置已保存在当前浏览器'); });
+    document.querySelectorAll('[data-theme-choice]').forEach(button => button.addEventListener('click', () => {
+      if (!Object.hasOwn(DISPLAY_THEMES, button.dataset.themeChoice)) return;
+      prefs.theme = button.dataset.themeChoice;
+      savePrefs();
+      renderPreferenceChoices();
+    }));
+    document.querySelectorAll('[data-layout-choice]').forEach(button => button.addEventListener('click', () => {
+      if (!Object.hasOwn(HOTLIST_LAYOUTS, button.dataset.layoutChoice)) return;
+      prefs.layout = button.dataset.layoutChoice;
+      savePrefs();
+      renderPreferenceChoices();
+      renderChannels();
+    }));
+    document.querySelectorAll('[data-rss-mode-choice]').forEach(button => button.addEventListener('click', () => {
+      if (!Object.hasOwn(RSS_MODES, button.dataset.rssModeChoice)) return;
+      prefs.rssMode = button.dataset.rssModeChoice;
+      savePrefs();
+      renderPreferenceChoices();
+      renderChannels();
+    }));
+    document.getElementById('rssVisibleToggle').addEventListener('change', event => {
+      prefs.visible.rss = event.target.checked;
+      savePrefs();
+      renderSettings();
+      renderChannels();
+    });
+    document.getElementById('rssPublishedToggle').addEventListener('change', event => {
+      prefs.rssShowPublishedAt = event.target.checked;
+      savePrefs();
+      renderChannels();
+    });
+    document.getElementById('drawerTopCount').addEventListener('change', event => { prefs.topCount = Math.min(50, Number(event.target.value) || 20); savePrefs(); renderChannels(); });
+    document.getElementById('resetSettings').addEventListener('click', () => { prefs = structuredClone(defaultPrefs); savePrefs(); renderSettings(); renderChannels(); showToast('已恢复默认显示设置'); });
+    document.getElementById('closeTopicDialog').addEventListener('click', () => document.getElementById('topicDialog').close());
+    document.addEventListener('keydown', event => { if (event.key === 'Escape') closeSettings(); });
+
+    renderTopList('todayTop', topTopics);
+    renderTopList('historyTop', historyTopics);
+    renderWords('todayWords', words);
+    renderWords('historyWords', []);
+    renderRankFlow('todayRankFlow', todayFlow);
+    renderRankFlow('historyRankFlow', historyFlow);
+    renderSignals('todaySignals', todaySignals);
+    renderSignals('historySignals', historySignals);
+    renderSettings();
+    renderChannels();
+    loadSiteData();
+  </script>
+</body>
+</html>

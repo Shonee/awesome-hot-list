@@ -1,6 +1,0 @@
-# 渲染任务专用依赖（仅 render-daily.yml 使用）
-# 采集任务只用 src/requirements.txt，聚合/动图任务只用 src/requirements-aggregate.txt，
-# 三者互相隔离，避免把 jieba / matplotlib 等重依赖装进每个采集 workflow。
-requests
-beautifulsoup4
-jieba

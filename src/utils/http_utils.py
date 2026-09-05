@@ -103,3 +103,38 @@ def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEO
                 logger.error("请求最终失败 %s: %s", url, e)
 
     raise last_error
+
+
+def post(url, payload=None, res_type='text', headers: dict = None,
+         timeout: int = DEFAULT_TIMEOUT, retries: int = DEFAULT_RETRIES,
+         session=None):
+    """发起 JSON POST 请求，沿用 ``get`` 的 UA、超时和重试约定。"""
+    import requests
+
+    merged = {'User-Agent': random_user_agent()}
+    if headers:
+        merged.update(headers)
+
+    last_error = None
+    for attempt in range(1, max(1, retries) + 1):
+        try:
+            caller = session or requests
+            response = caller.post(url, headers=merged, json=payload, timeout=timeout)
+            if response.status_code != 200:
+                raise requests.HTTPError(
+                    f"HTTP {response.status_code} for {url}", response=response
+                )
+            return response.json() if res_type == 'json' else response.text
+        except Exception as exc:  # noqa: BLE001 - retry transient source failures
+            last_error = exc
+            if attempt < retries:
+                wait = DEFAULT_BACKOFF * (2 ** (attempt - 1))
+                logger.warning(
+                    "请求失败(%d/%d) %s: %s，%.1fs 后重试",
+                    attempt, retries, url, exc, wait,
+                )
+                time.sleep(wait)
+            else:
+                logger.error("请求最终失败 %s: %s", url, exc)
+
+    raise last_error
