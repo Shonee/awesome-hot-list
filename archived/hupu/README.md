@@ -1,6 +1,6 @@
 # 虎扑热榜
 
-> 更新时间：2026-09-06 08:53:28
+> 更新时间：2026-09-06 09:01:21
 
 ## 步行街热帖
 
@@ -19,11 +19,11 @@
 13. [Siegel评詹姆斯合作：令人悲哀](https://m.hupu.com/hot?tagId=156378)
 14. [曝交易达成猛龙将给伦纳德丰厚续约](https://m.hupu.com/hot?tagId=156375)
 15. [HoopsHype发布GOAT调查细节](https://m.hupu.com/hot?tagId=156377)
-16. [本-西蒙斯1年350万美元加盟国王](https://m.hupu.com/hot?tagId=156345)
-17. [现役球员单场25+5+5场次：詹姆斯886场第一](https://m.hupu.com/hot?tagId=156328)
+16. [现役球员单场25+5+5场次：詹姆斯886场第一](https://m.hupu.com/hot?tagId=156328)
+17. [本-西蒙斯1年350万美元加盟国王](https://m.hupu.com/hot?tagId=156345)
 18. [诺维茨基曾质疑布伦森上限](https://m.hupu.com/hot?tagId=156365)
-19. [杜兰特训练师：别把所有责任都压给KD](https://m.hupu.com/hot?tagId=156363)
-20. [我的梦幻九宫格成绩](https://m.hupu.com/hot?tagId=149058)
+19. [我的梦幻九宫格成绩](https://m.hupu.com/hot?tagId=149058)
+20. [杜兰特训练师：别把所有责任都压给KD](https://m.hupu.com/hot?tagId=156363)
 21. [追梦：现在很多人对克莱缺乏尊重](https://m.hupu.com/hot?tagId=156364)
 22. [Shams爆料：西蒙斯8月为国王完成试训](https://m.hupu.com/hot?tagId=156351)
 23. [快船官方：强烈反对NBA针对球队和伦纳德的调查结论](https://m.hupu.com/hot?tagId=156269)

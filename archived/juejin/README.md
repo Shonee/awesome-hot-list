@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-06 08:53:15
+> 更新时间：2026-09-06 09:01:07
 
 ## 热门文章
 
@@ -35,9 +35,9 @@
 29. [请问同一台服务器能同时部署前后端项目并支持https吗?](https://juejin.cn/post/7680909145756401691)
 30. [告别影楼和付费 App，5 分钟本地搭一个证件照自由平台｜HivisionIDPhotos 开箱实测](https://juejin.cn/post/7680899684959502346)
 31. [Web 端可用！3 款开源数据库 ER 图设计工具！](https://juejin.cn/post/7680850719453708329)
-32. [你写的 Prompt，可能有一半是安慰剂](https://juejin.cn/post/7680768670985469952)
-33. [从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战](https://juejin.cn/post/7680761768890089482)
-34. [RAG 接个向量库就完事？从切块到重排的 7 步流水线，我替你踩了 8 个深坑](https://juejin.cn/post/7680833071233564706)
+32. [RAG 接个向量库就完事？从切块到重排的 7 步流水线，我替你踩了 8 个深坑](https://juejin.cn/post/7680833071233564706)
+33. [你写的 Prompt，可能有一半是安慰剂](https://juejin.cn/post/7680768670985469952)
+34. [从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战](https://juejin.cn/post/7680761768890089482)
 35. [三年前估值45亿，现在129亿——Hugging Face凭什么被老黄盯上？](https://juejin.cn/post/7681266980104421382)
 36. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
 37. [Claude Fable 5.1正式上线：Claude 最强，还降价？](https://juejin.cn/post/7680972429381009471)

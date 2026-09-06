@@ -1,29 +1,29 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-09-06 08:53:12
+> 更新时间：2026-09-06 09:01:03
 
 ## 热门搜索
 
 1. [F1意大利排位赛战报](https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5)
-2. [UP主手搓iPhone折叠屏](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93iPhone%E6%8A%98%E5%8F%A0%E5%B1%8F)
+2. [王聪争夺UFC女子蝇量级冠军](https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%81%AA%E4%BA%89%E5%A4%BAUFC%E5%A5%B3%E5%AD%90%E8%9D%87%E9%87%8F%E7%BA%A7%E5%86%A0%E5%86%9B)
 3. [国际米兰3-2逆转那不勒斯](https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B03-2%E9%80%86%E8%BD%AC%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF)
 4. [LPL冒泡赛名额将花落谁家](https://search.bilibili.com/all?keyword=LPL%E5%86%92%E6%B3%A1%E8%B5%9B%E5%90%8D%E9%A2%9D%E5%B0%86%E8%8A%B1%E8%90%BD%E8%B0%81%E5%AE%B6)
 5. [西藏泥石流是如何发生的](https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%98%AF%E5%A6%82%E4%BD%95%E5%8F%91%E7%94%9F%E7%9A%84)
-6. [曼城1-0考文垂](https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E1-0%E8%80%83%E6%96%87%E5%9E%82)
+6. [UP主手搓iPhone折叠屏](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93iPhone%E6%8A%98%E5%8F%A0%E5%B1%8F)
 7. [怎么看IG战胜TES](https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BIG%E6%88%98%E8%83%9CTES)
 8. [王骁拆解韩国医美产业](https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E6%8B%86%E8%A7%A3%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%BE%8E%E4%BA%A7%E4%B8%9A)
-9. [郑钦文逆转晋级美网16强](https://search.bilibili.com/all?keyword=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E8%BD%AC%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%9116%E5%BC%BA)
-10. [张雪机车德比斯第一回合季军](https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%BE%B7%E6%AF%94%E6%96%AF%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E5%AD%A3%E5%86%9B)
+9. [Shanks 目标是世界赛](https://search.bilibili.com/all?keyword=Shanks%20%E7%9B%AE%E6%A0%87%E6%98%AF%E4%B8%96%E7%95%8C%E8%B5%9B)
+10. [本西蒙斯重返NBA](https://search.bilibili.com/all?keyword=%E6%9C%AC%E8%A5%BF%E8%92%99%E6%96%AF%E9%87%8D%E8%BF%94NBA)
 11. [TES IG](https://search.bilibili.com/all?keyword=TES%20IG)
 12. [大学校徽应该怎么设计](https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%BE%BD%E5%BA%94%E8%AF%A5%E6%80%8E%E4%B9%88%E8%AE%BE%E8%AE%A1)
-13. [圆脸谈爱沙尼亚防长引咎辞职](https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E9%98%B2%E9%95%BF%E5%BC%95%E5%92%8E%E8%BE%9E%E8%81%8C)
-14. [卤味鸭脖批量关店的背后](https://search.bilibili.com/all?keyword=%E5%8D%A4%E5%91%B3%E9%B8%AD%E8%84%96%E6%89%B9%E9%87%8F%E5%85%B3%E5%BA%97%E7%9A%84%E8%83%8C%E5%90%8E)
-15. [00后老师当班主任belike](https://search.bilibili.com/all?keyword=00%E5%90%8E%E8%80%81%E5%B8%88%E5%BD%93%E7%8F%AD%E4%B8%BB%E4%BB%BBbelike)
-16. [周杨小鹿五条人去县城演出](https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%A8%E5%B0%8F%E9%B9%BF%E4%BA%94%E6%9D%A1%E4%BA%BA%E5%8E%BB%E5%8E%BF%E5%9F%8E%E6%BC%94%E5%87%BA)
-17. [经典动画里的离谱BUG](https://search.bilibili.com/all?keyword=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E9%87%8C%E7%9A%84%E7%A6%BB%E8%B0%B1BUG)
-18. [万字拆解DC电影超级少女](https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3)
+13. [凡人](https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA)
+14. [万字拆解DC电影超级少女](https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3DC%E7%94%B5%E5%BD%B1%E8%B6%85%E7%BA%A7%E5%B0%91%E5%A5%B3)
+15. [圆脸谈爱沙尼亚防长引咎辞职](https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E9%98%B2%E9%95%BF%E5%BC%95%E5%92%8E%E8%BE%9E%E8%81%8C)
+16. [蓝战非勇闯拉斯维加斯](https://search.bilibili.com/all?keyword=%E8%93%9D%E6%88%98%E9%9D%9E%E5%8B%87%E9%97%AF%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF)
+17. [张雪机车德比斯第一回合季军](https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%BE%B7%E6%AF%94%E6%96%AF%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E5%AD%A3%E5%86%9B)
+18. [周杨小鹿五条人去县城演出](https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%A8%E5%B0%8F%E9%B9%BF%E4%BA%94%E6%9D%A1%E4%BA%BA%E5%8E%BB%E5%8E%BF%E5%9F%8E%E6%BC%94%E5%87%BA)
 19. [逐帧解读花学历史事件](https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E8%AF%BB%E8%8A%B1%E5%AD%A6%E5%8E%86%E5%8F%B2%E4%BA%8B%E4%BB%B6)
-20. [本西蒙斯重返NBA](https://search.bilibili.com/all?keyword=%E6%9C%AC%E8%A5%BF%E8%92%99%E6%96%AF%E9%87%8D%E8%BF%94NBA)
+20. [小潮院长用垃圾玩你画我猜](https://search.bilibili.com/all?keyword=%E5%B0%8F%E6%BD%AE%E9%99%A2%E9%95%BF%E7%94%A8%E5%9E%83%E5%9C%BE%E7%8E%A9%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C)
 
 ## 全站热门视频
 
