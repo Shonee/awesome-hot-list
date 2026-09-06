@@ -29,11 +29,10 @@
 | 哔哩哔哩 | 热门搜索、全站热门、视频排行 | 是 | 官方公开接口 |
 | 抖音 | 热搜 | 是 | 公开接口可能调整 |
 | 微博 | 热榜 | 是（1 小时） | 页面接口可能限制访问 |
-| 知乎 | 热搜、热榜 | 特殊调度 | 需要 `ZHIHU_COOKIE`，默认 6 小时检查 |
+| 知乎 | 热搜、热榜 | 是 | `ZHIHU_COOKIE` 可选；官方热榜不可用时使用今日热榜降级源 |
 | GitHub | 日/周/月趋势、语言榜 | 是（6 小时） | Trending 页面，Search API 兜底 |
 | 掘金 | 热门文章 | 是 | 公开推荐接口 |
 | 今日头条 | 热点榜 | 是 | 公开榜单接口 |
-| RSS | 新闻/AI资讯 Feed | 是 | 默认 9 个公开源，每个源按时间取最多 5 条，可用 `HOTLIST_RSS_FEEDS` 覆盖 |
 | AcFun | 日榜、三日榜、周榜 | 是 | 公开榜单接口 |
 | IT之家 | 最新资讯 | 是 | RSS |
 | 豆瓣 | 小组精选 | 是 | HTML 解析 |
@@ -50,7 +49,9 @@
 | NodeSeek | 热门主题 | 是 | 公开页面 HTML，实际可用性以 Actions 采集结果为准 |
 | 吾爱破解 | 热门热帖 | 是 | Discuz 热榜页面 |
 | 腾讯新闻 | 实时资讯 | 是 | 首页公开文章链接，页面结构变化时可能为空 |
+| 微信文章 | 24h 热文榜 | 是 | 微信无公开全网文章热榜，当前使用今日热榜，条目跳转公众号原文 |
 | 百度贴吧 | 最有料热点 | 是 | 贴吧首页右上角热点榜，使用公开热点话题 JSON |
+| RSS | 新闻/AI资讯 Feed | 是 | 默认 9 个公开源，每个源按时间取最多 5 条，可用 `HOTLIST_RSS_FEEDS` 覆盖 |
 
 单渠道失败不会中断同批其他渠道。`site/data/latest.json` 会保留上一次成功快照并标记为 `stale`，避免页面因一次网络抖动清空。
 
@@ -59,7 +60,7 @@
 ```text
 src/hotlist/models.py       统一 HotItem / Ranking / ChannelSnapshot
 src/hotlist/registry.py     渠道顺序、元数据和惰性注册
-src/hotlist/channels/       每个渠道一个抓取与解析适配器
+src/hotlist/channels/       渠道适配器和少量复用数据源 Provider
 src/hotlist/runner.py       失败隔离、latest.json 合并
 src/hotlist/report.py       基于 CSV 的当天/日终报告
 src/script/collect.py       统一采集 CLI
@@ -114,7 +115,7 @@ python3 src/script/render.py --data-root ../awesome-hot-list-data
 ## 采集频率与归档
 
 - `collect-hourly.yml` 每小时运行一次，默认采集注册表中频率为 60 分钟的公开渠道。
-- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、知乎、雪球、脉脉为 6 小时，V2EX 为 3 小时，其余默认 1 小时。
+- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、脉脉为 6 小时，V2EX 为 3 小时，其余默认 1 小时。
 - 手动运行特殊渠道时可以选择 `force`，忽略间隔立即采集；新增渠道只需在 `registry.py` 设置频率，无需新增一个 Action。
 - `render-daily.yml` 每天生成前一天完整报告，同时更新今日报告。
 - `archive-weekly.yml` 每周一北京时间 02:00 将超过 7 个日历日的数据打包到 GitHub Release。`data-pages` 保留最近 7 天的 CSV，旧 CSV 和日期报告会进入 `hotlist-archive-through-YYYY-MM-DD` Release。
@@ -173,6 +174,8 @@ Cloudflare Pages 可以直接监听 `data-pages`，不需要额外构建或 Clou
 ## 配置
 
 本地配置写入仓库根目录 `.env`，CI 使用同名 GitHub Actions Secrets。参考 `.env.example`，不要提交真实 Cookie。
+
+`ZHIHU_COOKIE` 是可选登录凭据。配置后优先请求知乎官方热榜 API；未配置、凭据失效或官方接口返回空数据时，知乎热榜自动降级到 [今日热榜的知乎页面](https://tophub.today/n/mproPpoq6O)。知乎热搜仍优先解析知乎官方页面。微信没有面向全网公众号文章的公开官方热榜，因此微信文章卡片使用 [今日热榜的微信 24h 热文榜](https://tophub.today/n/WnBe01o371)，每条内容仍直接跳转微信公众号原文。
 
 RSS 默认包含少数派、爱范儿、量子位、InfoQ、极客公园、MIT Technology Review、Hacker News、AI News 和阮一峰网络日志。每个 Feed 按发布时间倒序取数据，默认最多 5 条，可用 `HOTLIST_RSS_LIMIT` 调整为 1-5 条。
 

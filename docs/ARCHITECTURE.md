@@ -31,6 +31,7 @@ GitHub Releases
 
 ```text
 master: channel adapter
+  -> official source or channel-owned fallback provider
   -> ChannelSnapshot
   -> collect.py --data-root runtime/
      -> data-pages:archived/
@@ -97,6 +98,8 @@ Cloudflare Pages 是可选的并行部署目标。它直接监听 `data-pages`�
 ## 代码边界
 
 - 适配器只处理来源请求和字段转换，直接返回 `ChannelSnapshot`。
+- `channels/tophub.py` 是不注册卡片、不单独归档的内部降级 Provider；知乎和微信适配器负责把其结果转换成各自的 `ChannelSnapshot`。
+- 榜单的 `sourceUrl` 表示页面“查看详情”地址，`providerName` 和 `providerUrl` 记录本次实际数据来源。知乎优先官方来源，微信当前使用今日热榜。
 - runner 统一处理渠道选择、异常隔离和最新快照合并。
 - report 只读取数据根目录中的 CSV，不访问网络。
 - collect 和 render 接受显式 `--data-root`，不依赖源码与数据位于同一 Git 分支。

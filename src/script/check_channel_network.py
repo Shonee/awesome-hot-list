@@ -18,6 +18,8 @@ ENDPOINTS = {
     "pojie52": "https://www.52pojie.cn/forum.php?mod=guide&view=hot",
     "qqnews": "https://news.qq.com/",
     "tieba": "https://tieba.baidu.com/hottopic/browse/topicList",
+    "tophub-zhihu": "https://tophub.today/n/mproPpoq6O",
+    "tophub-wechat": "https://tophub.today/n/WnBe01o371",
 }
 
 

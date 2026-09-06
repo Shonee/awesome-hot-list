@@ -27,7 +27,6 @@ jobs:
       TZ: Asia/Shanghai
       HOTLIST_RSS_FEEDS: ${{ secrets.HOTLIST_RSS_FEEDS }}
       HOTLIST_RSS_LIMIT: "5"
-      ZHIHU_COOKIE: ${{ secrets.ZHIHU_COOKIE }}
       MAIMAI_COOKIE: ${{ secrets.MAIMAI_COOKIE }}
 
     steps:

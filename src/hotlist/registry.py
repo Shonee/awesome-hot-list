@@ -47,6 +47,7 @@ CHANNEL_ORDER = (
     "nodeseek",
     "pojie52",
     "qqnews",
+    "wechat",
     "tieba",
     "rss",
 )
@@ -57,7 +58,6 @@ CHANNEL_ORDER = (
 # of a full hourly request.
 CHANNEL_FREQUENCIES = {
     "github": 360,
-    "zhihu": 360,
     "xueqiu": 360,
     "maimai": 360,
     "v2ex": 180,
@@ -74,31 +74,32 @@ def _lazy(channel_id: str) -> Collector:
 
 
 _METADATA = {
-    "bilibili": ("哔哩哔哩", "BILI", "#fb7299", "https://www.bilibili.com/v/popular/all", True, ()),
-    "douyin": ("抖音", "DY", "#161823", "https://www.douyin.com/hot", True, ()),
     "weibo": ("微博", "WB", "#e6162d", "https://s.weibo.com/top/summary", True, ()),
-    "zhihu": ("知乎", "ZH", "#1772f6", "https://www.zhihu.com/hot", False, ("ZHIHU_COOKIE",)),
-    "github": ("GitHub", "GH", "#24292f", "https://github.com/trending", True, ()),
-    "juejin": ("掘金", "掘", "#1e80ff", "https://juejin.cn/hot/articles", True, ()),
+    "douyin": ("抖音", "DY", "#161823", "https://www.douyin.com/hot", True, ()),
+    "zhihu": ("知乎", "ZH", "#1772f6", "https://www.zhihu.com/hot", True, ()),
+    "bilibili": ("哔哩哔哩", "BILI", "#fb7299", "https://www.bilibili.com/v/popular/all", True, ()),
     "toutiao": ("今日头条", "TT", "#f04142", "https://www.toutiao.com/hot-event/hot-board/", True, ()),
-    "rss": ("RSS", "RSS", "#f28c28", "", True, ()),
+    "cls": ("财联社", "财", "#c72b2b", "https://www.cls.cn/telegraph", True, ()),
+    "36kr": ("36氪", "36", "#0066ff", "https://www.36kr.com/hot-list/catalog", True, ()),
+    "pojie52": ("吾爱破解", "吾", "#c44c42", "https://www.52pojie.cn/forum.php?mod=guide&view=hot", True, ()),
     "acfun": ("AcFun", "AC", "#fd4c5d", "https://www.acfun.cn/rank/list/", True, ()),
     "ithome": ("IT之家", "IT", "#d22222", "https://www.ithome.com/", True, ()),
+    "tonghuashun": ("同花顺", "THS", "#e83b35", "https://t.10jqka.com.cn/", True, ()),
+    "github": ("GitHub", "GH", "#24292f", "https://github.com/trending", True, ()),
+    "juejin": ("掘金", "掘", "#1e80ff", "https://juejin.cn/hot/articles", True, ()),
     "douban": ("豆瓣", "DB", "#00a65a", "https://movie.douban.com/chart", True, ()),
     "hupu": ("虎扑", "HP", "#b31b1b", "https://bbs.hupu.com/all-gambia", True, ()),
-    "36kr": ("36氪", "36", "#0066ff", "https://www.36kr.com/hot-list/catalog", True, ()),
-    "tonghuashun": ("同花顺", "THS", "#e83b35", "https://t.10jqka.com.cn/", True, ()),
+    "qqnews": ("腾讯新闻", "腾", "#1769aa", "https://news.qq.com/", True, ()),
+    "wechat": ("微信文章", "微", "#07c160", "https://tophub.today/n/WnBe01o371", True, ()),
     "maimai": ("脉脉", "MM", "#00a6a6", "https://maimai.cn/web/gossip_list", False, ("MAIMAI_COOKIE",)),
     "xueqiu": ("雪球", "XQ", "#1f6fb2", "https://xueqiu.com/today", False, ()),
     "v2ex": ("V2EX", "V2", "#778087", "https://www.v2ex.com/?tab=hot", True, ()),
     "stackoverflow": ("Stack Overflow", "SO", "#f48024", "https://stackoverflow.com/questions?tab=hot", True, ()),
-    "cls": ("财联社", "财", "#c72b2b", "https://www.cls.cn/telegraph", True, ()),
     "cnblogs": ("博客园", "园", "#2c7a4b", "https://www.cnblogs.com/aggsite/topdigged24h", True, ()),
     "linuxdo": ("Linux.do", "L", "#16846b", "https://linux.do/top", False, ()),
     "nodeseek": ("NodeSeek", "N", "#4e6e8e", "https://www.nodeseek.com/?tab=hot", True, ()),
-    "pojie52": ("吾爱破解", "吾", "#c44c42", "https://www.52pojie.cn/forum.php?mod=guide&view=hot", True, ()),
-    "qqnews": ("腾讯新闻", "腾", "#1769aa", "https://news.qq.com/", True, ()),
     "tieba": ("百度贴吧", "贴", "#2f76c7", "https://tieba.baidu.com/", True, ()),
+    "rss": ("RSS", "RSS", "#f28c28", "", True, ()),
 }
 
 

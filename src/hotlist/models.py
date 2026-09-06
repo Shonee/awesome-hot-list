@@ -45,10 +45,15 @@ class Ranking:
     name: str
     items: List[HotItem] = field(default_factory=list)
     source_url: str = ""
+    provider_name: str = ""
+    provider_url: str = ""
 
     def __post_init__(self):
         self.ranking_id = str(self.ranking_id or "").strip()
         self.name = str(self.name or "").strip()
+        self.source_url = str(self.source_url or "").strip()
+        self.provider_name = str(self.provider_name or "").strip()
+        self.provider_url = str(self.provider_url or "").strip()
         if not self.ranking_id or not self.name:
             raise ValueError("ranking id and name must not be empty")
 
@@ -57,6 +62,8 @@ class Ranking:
             "id": self.ranking_id,
             "name": self.name,
             "sourceUrl": self.source_url,
+            "providerName": self.provider_name,
+            "providerUrl": self.provider_url,
             "items": [item.to_dict() for item in self.items],
         }
 

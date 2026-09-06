@@ -80,7 +80,7 @@ class RegistryTests(unittest.TestCase):
                 "juejin", "toutiao", "acfun", "ithome", "douban", "hupu",
                 "36kr", "tonghuashun", "maimai", "xueqiu", "v2ex",
                 "stackoverflow", "cls", "cnblogs", "linuxdo", "nodeseek",
-                "pojie52", "qqnews", "tieba", "rss",
+                "pojie52", "qqnews", "wechat", "tieba", "rss",
             ),
         )
 
@@ -203,12 +203,12 @@ class RunnerTests(unittest.TestCase):
     def test_disabled_channels_are_treated_as_noop_success(self):
         snapshots = [
             ChannelSnapshot.unavailable(
-                "zhihu",
-                "知乎",
-                "https://www.zhihu.com/hot",
+                "maimai",
+                "脉脉",
+                "https://maimai.cn/web/gossip_list",
                 "2026-09-04 11:30:00",
                 "disabled",
-                "missing ZHIHU_COOKIE",
+                "missing MAIMAI_COOKIE",
             ),
             ChannelSnapshot.unavailable(
                 "xueqiu",
