@@ -21,7 +21,9 @@ jobs:
         run: python -m pip install -r src/requirements.txt
       - name: Probe public endpoints
         id: probe
-        run: python src/script/check_channel_network.py 2>&1 | tee channel-network-check.txt
+        run: |
+          set -o pipefail
+          python src/script/check_channel_network.py 2>&1 | tee channel-network-check.txt
       - name: Write probe summary
         if: always()
         run: |

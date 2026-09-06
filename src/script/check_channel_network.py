@@ -23,10 +23,11 @@ ENDPOINTS = {
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="验证新增渠道在 GitHub Actions 网络中的可达性")
-    parser.add_argument("channels", nargs="*", choices=tuple(ENDPOINTS), default=list(ENDPOINTS))
+    parser.add_argument("channels", nargs="*", choices=tuple(ENDPOINTS))
     args = parser.parse_args()
+    channels = args.channels or list(ENDPOINTS)
     failed = 0
-    for channel_id in args.channels:
+    for channel_id in channels:
         url = ENDPOINTS[channel_id]
         try:
             body = get(url, res_type="text", timeout=12, retries=1)
