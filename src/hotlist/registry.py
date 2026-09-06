@@ -94,7 +94,7 @@ _METADATA = {
     "stackoverflow": ("Stack Overflow", "SO", "#f48024", "https://stackoverflow.com/questions?tab=hot", True, ()),
     "cls": ("财联社", "财", "#c72b2b", "https://www.cls.cn/telegraph", True, ()),
     "cnblogs": ("博客园", "园", "#2c7a4b", "https://www.cnblogs.com/aggsite/topdigged24h", True, ()),
-    "linuxdo": ("Linux.do", "L", "#16846b", "https://linux.do/top", True, ()),
+    "linuxdo": ("Linux.do", "L", "#16846b", "https://linux.do/top", False, ()),
     "nodeseek": ("NodeSeek", "N", "#4e6e8e", "https://www.nodeseek.com/?tab=hot", True, ()),
     "pojie52": ("吾爱破解", "吾", "#c44c42", "https://www.52pojie.cn/forum.php?mod=guide&view=hot", True, ()),
     "qqnews": ("腾讯新闻", "腾", "#1769aa", "https://news.qq.com/", True, ()),

@@ -46,7 +46,7 @@
 | Stack Overflow | 热门问题 | 是 | Stack Exchange 公开 API |
 | 财联社 | 热门快讯 | 是 | 首页 SSR 数据，详情链接指向电报文章 |
 | 博客园 | 24 小时推荐排行 | 是 | 公开 HTML 排行页 |
-| Linux.do | 本周热门主题 | 是 | Discourse 公开 JSON；以 Actions 网络探测结果为准 |
+| Linux.do | 本周热门主题 | 否 | GitHub Actions 当前访问返回 HTTP 403；保留适配器，暂不默认采集 |
 | NodeSeek | 热门主题 | 是 | 公开页面 HTML；以 Actions 网络探测结果为准 |
 | 吾爱破解 | 热门热帖 | 是 | Discuz 热榜页面 |
 | 腾讯新闻 | 实时资讯 | 是 | 首页公开文章链接，页面结构变化时可能为空 |
