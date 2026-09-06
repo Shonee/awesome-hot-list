@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-06 13:20:08
+> 更新时间：2026-09-06 14:32:21
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱](https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学](https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了](https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文](https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [24.99 万元起、全系四激光雷达，启境 GX7 还准备了一件「午休神器」](https://www.ifanr.com/1678459?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [AI 降低了创造的门槛，B 站则想放大创造的回声](https://www.ifanr.com/1678567?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱](https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学](https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了](https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文](https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -52,7 +52,7 @@
 
 ## Hacker News
 
-1. [Vancouver strip club's Instagram taken down over sign featuring lake joke](https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993)
+1. [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
 2. [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
 3. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
 4. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)

@@ -1,18 +1,18 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-06",
-    "generatedAt": "2026-09-06 13:20:17",
-    "summary": "网络上常见的热门短视频集锦   第三千四百期成为本期综合热度最高的话题，喜欢姐姐吗？★手机竖屏1991★紧随其后。当前覆盖 19 个有效渠道，共形成 389 个榜单时间切片；发现 14 个跨渠道重复热点。",
+    "generatedAt": "2026-09-06 14:32:28",
+    "summary": "网络上常见的热门短视频集锦   第三千四百一十一期成为本期综合热度最高的话题，喜欢姐姐吗？★手机竖屏1991★紧随其后。当前覆盖 19 个有效渠道，共形成 419 个榜单时间切片；发现 17 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1693,
-        "resonance": 14,
-        "maxRise": 3,
-        "slices": 389,
+        "deduplicated": 1803,
+        "resonance": 17,
+        "maxRise": 0,
+        "slices": 419,
         "coverage": 90
     },
     "topTopics": [
         {
-            "title": "网络上常见的热门短视频集锦   第三千四百期",
+            "title": "网络上常见的热门短视频集锦   第三千四百一十一期",
             "source": "AcFun",
             "url": "https://www.acfun.cn/v/ac48826495",
             "hits": [
@@ -108,14 +108,6 @@
                     "channelId": "acfun",
                     "channelName": "AcFun",
                     "ranking": "三日榜",
-                    "rank": 18,
-                    "title": "网络上常见的热门短视频集锦   第三千四百零五期",
-                    "url": "https://www.acfun.cn/v/ac48821675"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
                     "rank": 20,
                     "title": "网络上常见的热门短视频集锦   第三千四百零七期",
                     "url": "https://www.acfun.cn/v/ac48824053"
@@ -135,6 +127,22 @@
                     "rank": 42,
                     "title": "网络上常见的热门短视频集锦   第三千四百期",
                     "url": "https://www.acfun.cn/v/ac48815491"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "三日榜",
+                    "rank": 18,
+                    "title": "网络上常见的热门短视频集锦   第三千四百零五期",
+                    "url": "https://www.acfun.cn/v/ac48821675"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 15,
+                    "title": "网络上常见的热门短视频集锦   第三千四百一十一期",
+                    "url": "https://www.acfun.cn/v/ac48828311"
                 }
             ]
         },
@@ -342,77 +350,6 @@
             ]
         },
         {
-            "title": "美网官号称郑钦文是奇迹本迹",
-            "source": "跨渠道",
-            "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%AE%98%E6%8E%A8%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9&Refer=index",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 31,
-                    "title": "美网官推称郑钦文是奇迹本迹",
-                    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%AE%98%E6%8E%A8%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9&Refer=index"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 9,
-                    "title": "美网官号称郑钦文是奇迹本迹",
-                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%22202609060716284E786C442611B7E103FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "美网官号称郑钦文是奇迹本迹",
-                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%222026090608531600F99F21785CAD30E17B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "美网官号称郑钦文是奇迹本迹",
-                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%222026090609010704EEC8422E820F0FE4B0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 15,
-                    "title": "美网官号称郑钦文是奇迹本迹",
-                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%2220260906093216B1F2E5A53A1C5EA1E93D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 21,
-                    "title": "美网官号称郑钦文是奇迹本迹",
-                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%2220260906102906B618B72D6B0E5DBEEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 22,
-                    "title": "美网官号称郑钦文是奇迹本迹",
-                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%222026090611245571655D9E6353FED2B0AC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 31,
-                    "title": "美网官号称郑钦文是奇迹本迹",
-                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%22202609061223353DB1674F45FA8A1CF628%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
-                }
-            ]
-        },
-        {
             "title": "下一代的孩子，还会知道原神吗？",
             "source": "跨渠道",
             "url": "https://b23.tv/BV15GtZ6tEGS",
@@ -503,6 +440,85 @@
                     "rank": 11,
                     "title": "8月辟谣榜",
                     "url": "https://www.toutiao.com/trending/7682191482006048307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682191482006048307%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%228%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C%22%7D&rank=&style_id=40132&topic_id=7682191482006048307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 11,
+                    "title": "8月辟谣榜",
+                    "url": "https://www.toutiao.com/trending/7682191482006048307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682191482006048307%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%228%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C%22%7D&rank=&style_id=40132&topic_id=7682191482006048307"
+                }
+            ]
+        },
+        {
+            "title": "美网官号称郑钦文是奇迹本迹",
+            "source": "跨渠道",
+            "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%AE%98%E6%8E%A8%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9&Refer=index",
+            "hits": [
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 31,
+                    "title": "美网官推称郑钦文是奇迹本迹",
+                    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%AE%98%E6%8E%A8%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9&Refer=index"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 9,
+                    "title": "美网官号称郑钦文是奇迹本迹",
+                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%22202609060716284E786C442611B7E103FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "美网官号称郑钦文是奇迹本迹",
+                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%222026090608531600F99F21785CAD30E17B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "美网官号称郑钦文是奇迹本迹",
+                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%222026090609010704EEC8422E820F0FE4B0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 15,
+                    "title": "美网官号称郑钦文是奇迹本迹",
+                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%2220260906093216B1F2E5A53A1C5EA1E93D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 21,
+                    "title": "美网官号称郑钦文是奇迹本迹",
+                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%2220260906102906B618B72D6B0E5DBEEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 22,
+                    "title": "美网官号称郑钦文是奇迹本迹",
+                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%222026090611245571655D9E6353FED2B0AC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 31,
+                    "title": "美网官号称郑钦文是奇迹本迹",
+                    "url": "https://www.toutiao.com/trending/7681521706753638419/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681521706753638419%22%2C%22hot_board_impr_id%22%3A%22202609061223353DB1674F45FA8A1CF628%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BD%91%E5%AE%98%E5%8F%B7%E7%A7%B0%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF%E5%A5%87%E8%BF%B9%E6%9C%AC%E8%BF%B9%22%7D&rank=&style_id=40132&topic_id=7681521706753638419"
                 }
             ]
         },
@@ -541,7 +557,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 70,
+            "weight": 75,
             "tone": "hot",
             "hits": [
                 {
@@ -788,7 +804,7 @@
         },
         {
             "word": "第一",
-            "weight": 19,
+            "weight": 20,
             "tone": "teal",
             "hits": [
                 {
@@ -984,6 +1000,14 @@
                     "url": "https://bbs.hupu.com/642292987.html"
                 },
                 {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 56,
+                    "title": "唐朝的创立李世民不但是第一功臣，而且功劳远超其他人",
+                    "url": "https://bbs.hupu.com/642294947.html"
+                },
+                {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
@@ -1019,6 +1043,14 @@
                     "channelName": "哔哩哔哩",
                     "ranking": "全站热门视频",
                     "rank": 6,
+                    "title": "全网首发！三角洲全新NPC佐拉线完结！啥也不干吹口琴的来！这个口琴真的神了！",
+                    "url": "https://b23.tv/BV1NTb76YEp1"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 81,
                     "title": "全网首发！三角洲全新NPC佐拉线完结！啥也不干吹口琴的来！这个口琴真的神了！",
                     "url": "https://b23.tv/BV1NTb76YEp1"
                 },
@@ -1194,7 +1226,7 @@
         },
         {
             "word": "美国",
-            "weight": 23,
+            "weight": 25,
             "tone": "",
             "hits": [
                 {
@@ -1244,6 +1276,14 @@
                     "rank": 29,
                     "title": "美国博主拍下在芭提雅疯狂的美军",
                     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8D%9A%E4%B8%BB%E6%8B%8D%E4%B8%8B%E5%9C%A8%E8%8A%AD%E6%8F%90%E9%9B%85%E7%96%AF%E7%8B%82%E7%9A%84%E7%BE%8E%E5%86%9B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 33,
+                    "title": "美国妈妈勒死3孩子陪审员认为无罪",
+                    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A6%88%E5%A6%88%E5%8B%92%E6%AD%BB3%E5%AD%A9%E5%AD%90%E9%99%AA%E5%AE%A1%E5%91%98%E8%AE%A4%E4%B8%BA%E6%97%A0%E7%BD%AA&Refer=index"
                 },
                 {
                     "channelId": "toutiao",
@@ -1428,20 +1468,12 @@
                     "rank": 42,
                     "title": "美国油价为何压不住",
                     "url": "https://www.toutiao.com/trending/7682043085320113715/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682043085320113715%22%2C%22hot_board_impr_id%22%3A%22202609060617078504FA6F780D10CBCC0F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E6%B2%B9%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8E%8B%E4%B8%8D%E4%BD%8F%22%7D&rank=&style_id=40132&topic_id=7682043085320113715"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 43,
-                    "title": "美国称摧毁3艘伊朗油轮",
-                    "url": "https://www.toutiao.com/trending/7682047926809398827/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682047926809398827%22%2C%22hot_board_impr_id%22%3A%22202609060617078504FA6F780D10CBCC0F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E7%A7%B0%E6%91%A7%E6%AF%813%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%22%7D&rank=&style_id=40132&topic_id=7682047926809398827"
                 }
             ]
         },
         {
             "word": "世界",
-            "weight": 20,
+            "weight": 22,
             "tone": "hot",
             "hits": [
                 {
@@ -1525,6 +1557,14 @@
                     "url": "https://b23.tv/BV1afbn6sExH"
                 },
                 {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 44,
+                    "title": "假如格林穿越到了re0的世界（王选篇3）",
+                    "url": "https://b23.tv/BV1RgbE6JE4c"
+                },
+                {
                     "channelId": "douyin",
                     "channelName": "抖音",
                     "ranking": "热搜",
@@ -1589,6 +1629,14 @@
                     "url": "https://www.toutiao.com/trending/7682108271469232691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682108271469232691%22%2C%22hot_board_impr_id%22%3A%2220260906102906B618B72D6B0E5DBEEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E9%98%9F%22%7D&rank=&style_id=40132&topic_id=7682108271469232691"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "莫迪：印度将办令世界惊叹的奥运会",
+                    "url": "https://www.toutiao.com/trending/7681602069752938559/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681602069752938559%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8E%AB%E8%BF%AA%EF%BC%9A%E5%8D%B0%E5%BA%A6%E5%B0%86%E5%8A%9E%E4%BB%A4%E4%B8%96%E7%95%8C%E6%83%8A%E5%8F%B9%E7%9A%84%E5%A5%A5%E8%BF%90%E4%BC%9A%22%7D&rank=&style_id=40132&topic_id=7681602069752938559"
+                },
+                {
                     "channelId": "acfun",
                     "channelName": "AcFun",
                     "ranking": "日榜",
@@ -1648,7 +1696,7 @@
         },
         {
             "word": "了一",
-            "weight": 17,
+            "weight": 18,
             "tone": "teal",
             "hits": [
                 {
@@ -1674,6 +1722,14 @@
                     "rank": 50,
                     "title": "在机场随机跟随路人旅行，我意外翻新了一整所乡村小学",
                     "url": "https://b23.tv/BV13ttz6vEh2"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 96,
+                    "title": "我好像做了一个很长的梦",
+                    "url": "https://b23.tv/BV1t2to6LEUR"
                 },
                 {
                     "channelId": "weibo",
@@ -1772,6 +1828,14 @@
                     "url": "https://www.toutiao.com/trending/7682204848548220459/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682204848548220459%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E6%B7%B1%E5%9C%B3%E5%B9%B2%E4%BA%86%E4%B8%80%E4%BB%B6%E5%BE%88%E4%B8%8D%E5%AF%BB%E5%B8%B8%E7%9A%84%E4%BA%8B%22%7D&rank=&style_id=40132&topic_id=7682204848548220459"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 25,
+                    "title": "牛弹琴：深圳干了一件很不寻常的事",
+                    "url": "https://www.toutiao.com/trending/7682204848548220459/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682204848548220459%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E6%B7%B1%E5%9C%B3%E5%B9%B2%E4%BA%86%E4%B8%80%E4%BB%B6%E5%BE%88%E4%B8%8D%E5%AF%BB%E5%B8%B8%E7%9A%84%E4%BA%8B%22%7D&rank=&style_id=40132&topic_id=7682204848548220459"
+                },
+                {
                     "channelId": "acfun",
                     "channelName": "AcFun",
                     "ranking": "日榜",
@@ -1855,7 +1919,7 @@
         },
         {
             "word": "来了",
-            "weight": 13,
+            "weight": 14,
             "tone": "gold",
             "hits": [
                 {
@@ -1865,6 +1929,14 @@
                     "rank": 45,
                     "title": "为了测试这台7座车，我们找来了最难伺候的6种人！",
                     "url": "https://b23.tv/BV17Jta6oEyE"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 46,
+                    "title": "华强买瓜，但死神来了",
+                    "url": "https://b23.tv/BV1UBbL6YEtN"
                 },
                 {
                     "channelId": "weibo",
@@ -2180,7 +2252,7 @@
         },
         {
             "word": "为什",
-            "weight": 21,
+            "weight": 22,
             "tone": "teal",
             "hits": [
                 {
@@ -2350,6 +2422,14 @@
                     "rank": 32,
                     "title": "我想请问一下曾国藩不是被某些群体吹捧为半个圣人吗？而且曾国藩传记的纸质书和电子版传记常年在榜单，那为什么到现在为止还没有出现以曾国藩为主角的影视剧呢？就连配角也未曾出现过。所以，大家觉得这是因为什么？",
                     "url": "https://bbs.hupu.com/642295134.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 41,
+                    "title": "人类那么爱吃肉，可为什么却很少吃食肉动物？",
+                    "url": "https://bbs.hupu.com/642296077.html"
                 },
                 {
                     "channelId": "nodeseek",
@@ -2522,7 +2602,7 @@
         },
         {
             "word": "模型",
-            "weight": 14,
+            "weight": 15,
             "tone": "",
             "hits": [
                 {
@@ -2572,6 +2652,14 @@
                     "rank": 50,
                     "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
                     "url": "https://juejin.cn/post/7681142626944450614"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 38,
+                    "title": "大模型是怎么来的：从数据到 Foundation Model",
+                    "url": "https://juejin.cn/post/7681480957066149907"
                 },
                 {
                     "channelId": "ithome",
@@ -2641,7 +2729,7 @@
         },
         {
             "word": "发现",
-            "weight": 10,
+            "weight": 11,
             "tone": "hot",
             "hits": [
                 {
@@ -2683,6 +2771,14 @@
                     "rank": 44,
                     "title": "尚之桃做婚托被栾念发现",
                     "url": "https://s.weibo.com/weibo?q=%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%81%9A%E5%A9%9A%E6%89%98%E8%A2%AB%E6%A0%BE%E5%BF%B5%E5%8F%91%E7%8E%B0&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 45,
+                    "title": "C罗偷看对手战术纸条被发现后笑了",
+                    "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%81%B7%E7%9C%8B%E5%AF%B9%E6%89%8B%E6%88%98%E6%9C%AF%E7%BA%B8%E6%9D%A1%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%90%8E%E7%AC%91%E4%BA%86&Refer=index"
                 },
                 {
                     "channelId": "juejin",
@@ -2975,7 +3071,7 @@
         },
         {
             "word": "系统",
-            "weight": 13,
+            "weight": 14,
             "tone": "gold",
             "hits": [
                 {
@@ -3017,6 +3113,14 @@
                     "rank": 25,
                     "title": "萌娃进滕王阁 系统提示终身免费票",
                     "url": "https://www.toutiao.com/trending/7681891156665385003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681891156665385003%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%90%8C%E5%A8%83%E8%BF%9B%E6%BB%95%E7%8E%8B%E9%98%81+%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E7%BB%88%E8%BA%AB%E5%85%8D%E8%B4%B9%E7%A5%A8%22%7D&rank=&style_id=40132&topic_id=7681891156665385003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 22,
+                    "title": "萌娃进滕王阁 系统提示终身免费票",
+                    "url": "https://www.toutiao.com/trending/7681891156665385003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681891156665385003%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%90%8C%E5%A8%83%E8%BF%9B%E6%BB%95%E7%8E%8B%E9%98%81+%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E7%BB%88%E8%BA%AB%E5%85%8D%E8%B4%B9%E7%A5%A8%22%7D&rank=&style_id=40132&topic_id=7681891156665385003"
                 },
                 {
                     "channelId": "ithome",
@@ -3080,6 +3184,14 @@
                     "ranking": "24 小时推荐排行",
                     "rank": 3,
                     "title": "【最多推荐】 深入 netcorespot：一个 .NET 9 全栈交易系统里，AI 是如何被「关进笼子」的(2/3/304)",
+                    "url": "https://www.cnblogs.com/morec/p/22853549"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 3,
+                    "title": "【最多推荐】 深入 netcorespot：一个 .NET 9 全栈交易系统里，AI 是如何被「关进笼子」的(2/3/319)",
                     "url": "https://www.cnblogs.com/morec/p/22853549"
                 },
                 {
@@ -3236,9 +3348,120 @@
             ]
         },
         {
+            "word": "完整",
+            "weight": 12,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 31,
+                    "title": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
+                    "url": "https://b23.tv/BV1aktB6KEA5"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 25,
+                    "title": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
+                    "url": "https://b23.tv/BV1aktB6KEA5"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 11,
+                    "title": "[个人汉化]假面骑士麦斯MY-TH第1话《子鼠执事与大小姐》完整版 老鼠执事与生肖苏醒与Zodiac1之物语",
+                    "url": "https://b23.tv/BV1K3bH6jEpm"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 40,
+                    "title": "学功夫练武术完整版MV上线",
+                    "url": "https://www.douyin.com/search/%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF%E5%AE%8C%E6%95%B4%E7%89%88MV%E4%B8%8A%E7%BA%BF"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 2,
+                    "title": "内网穿透原来这么简单：Natapp 从注册到公网访问完整教程",
+                    "url": "https://juejin.cn/post/7680877878047408154"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 39,
+                    "title": "从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战",
+                    "url": "https://juejin.cn/post/7680761768890089482"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 48,
+                    "title": "🌃 HTTP 不认识你：JWT 登录鉴权的完整\"酒店入住\"指南",
+                    "url": "https://juejin.cn/post/7681116470866182171"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "订单数据验证：从购物车到支付的完整验证链路",
+                    "url": "https://juejin.cn/post/7681235036930916392"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "三日榜",
+                    "rank": 43,
+                    "title": "从整鸡分解到完整去骨，一套搞定鸡肉改刀丨切鸡万能公式",
+                    "url": "https://www.acfun.cn/v/ac48825567"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "小米智能表盘 2 亮相：连贯完整大屏设计可实现“转头”、适配 SU7 / YU7 / 澎程全系车型",
+                    "url": "https://www.ithome.com/0/998/919.htm"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 1,
+                    "title": "狄龙vs白晶 百分大战完整版",
+                    "url": "https://bbs.hupu.com/642295363.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 37,
+                    "title": "和河南网友打赌1-500能不能不错完整写完，结果耍赖，也就赌三百！说我479的7是补的！各位看我1和7的区别",
+                    "url": "https://bbs.hupu.com/642295820.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 5,
+                    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+                    "url": "https://www.qbitai.com/2026/09/484551.html"
+                }
+            ]
+        },
+        {
             "word": "问题",
             "weight": 11,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3379,9 +3602,88 @@
             ]
         },
         {
+            "word": "个人",
+            "weight": 9,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 11,
+                    "title": "[个人汉化]假面骑士麦斯MY-TH第1话《子鼠执事与大小姐》完整版 老鼠执事与生肖苏醒与Zodiac1之物语",
+                    "url": "https://b23.tv/BV1K3bH6jEpm"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 15,
+                    "title": "帮助牢玩家在开局2分半拿到5个人头，吓哭对面牢玩家",
+                    "url": "https://b23.tv/BV1NmbL6tEFv"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 45,
+                    "title": "小猫会精准找到最忙的那个人",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E4%BC%9A%E7%B2%BE%E5%87%86%E6%89%BE%E5%88%B0%E6%9C%80%E5%BF%99%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA&Refer=index"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 19,
+                    "title": "一个人，4个岗位，20天：我用Cursor+Codex上线了一款微信小游戏",
+                    "url": "https://juejin.cn/post/7681286465168769067"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 30,
+                    "title": "来看wuli迪迪！ 260830 idle 澳门演唱会 宋雨琦《Fate》个人直拍",
+                    "url": "https://www.acfun.cn/v/ac48827641"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 18,
+                    "title": "刷新赛会纪录！女子标枪选手严子怡获个人首座钻石联赛年度总冠军！",
+                    "url": "https://bbs.hupu.com/642293131.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 16,
+                    "title": "一个人，一只鼠标，他击退了3103个OpenAI智能体42天集体猛攻",
+                    "url": "https://www.36kr.com/p/3970417239027976"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 42,
+                    "title": "纯个人使用，一个5x 一个plus，用cpa反代会封号吗",
+                    "url": "https://www.nodeseek.com/post-912809-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 13,
+                    "title": "仅个人经历，告诫大家不要借钱",
+                    "url": "https://www.nodeseek.com/post-914466-1"
+                }
+            ]
+        },
+        {
             "word": "是一",
             "weight": 9,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3460,7 +3762,7 @@
         {
             "word": "正式",
             "weight": 9,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3569,80 +3871,9 @@
             ]
         },
         {
-            "word": "个人",
-            "weight": 8,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 11,
-                    "title": "[个人汉化]假面骑士麦斯MY-TH第1话《子鼠执事与大小姐》完整版 老鼠执事与生肖苏醒与Zodiac1之物语",
-                    "url": "https://b23.tv/BV1K3bH6jEpm"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 15,
-                    "title": "帮助牢玩家在开局2分半拿到5个人头，吓哭对面牢玩家",
-                    "url": "https://b23.tv/BV1NmbL6tEFv"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 45,
-                    "title": "小猫会精准找到最忙的那个人",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E4%BC%9A%E7%B2%BE%E5%87%86%E6%89%BE%E5%88%B0%E6%9C%80%E5%BF%99%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA&Refer=index"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 19,
-                    "title": "一个人，4个岗位，20天：我用Cursor+Codex上线了一款微信小游戏",
-                    "url": "https://juejin.cn/post/7681286465168769067"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 30,
-                    "title": "来看wuli迪迪！ 260830 idle 澳门演唱会 宋雨琦《Fate》个人直拍",
-                    "url": "https://www.acfun.cn/v/ac48827641"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 18,
-                    "title": "刷新赛会纪录！女子标枪选手严子怡获个人首座钻石联赛年度总冠军！",
-                    "url": "https://bbs.hupu.com/642293131.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 16,
-                    "title": "一个人，一只鼠标，他击退了3103个OpenAI智能体42天集体猛攻",
-                    "url": "https://www.36kr.com/p/3970417239027976"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 42,
-                    "title": "纯个人使用，一个5x 一个plus，用cpa反代会封号吗",
-                    "url": "https://www.nodeseek.com/post-912809-1"
-                }
-            ]
-        },
-        {
             "word": "价格",
             "weight": 8,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -3713,7 +3944,7 @@
         {
             "word": "美元",
             "weight": 8,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3792,7 +4023,7 @@
         {
             "word": "提前",
             "weight": 7,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3875,6 +4106,14 @@
                     "url": "https://www.toutiao.com/trending/7682187352927915530/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682187352927915530%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E6%8F%90%E5%89%8D%E5%89%AA%E6%8E%89%E8%91%AB%E8%8A%A6%E7%A7%B0%E9%9C%80%E8%A6%81%E4%BC%91%E6%81%AF%22%7D&rank=&style_id=40132&topic_id=7682187352927915530"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+                    "url": "https://www.toutiao.com/trending/7682187352927915530/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682187352927915530%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E6%8F%90%E5%89%8D%E5%89%AA%E6%8E%89%E8%91%AB%E8%8A%A6%E7%A7%B0%E9%9C%80%E8%A6%81%E4%BC%91%E6%81%AF%22%7D&rank=&style_id=40132&topic_id=7682187352927915530"
+                },
+                {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "步行街热帖",
@@ -3917,9 +4156,72 @@
             ]
         },
         {
+            "word": "第二",
+            "weight": 7,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 19,
+                    "title": "曹骏第二",
+                    "url": "https://s.weibo.com/weibo?q=%E6%9B%B9%E9%AA%8F%E7%AC%AC%E4%BA%8C&Refer=index"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 29,
+                    "title": "中国空军派军机参加第二届埃及航展",
+                    "url": "https://www.toutiao.com/trending/7681209247320801306/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681209247320801306%22%2C%22hot_board_impr_id%22%3A%22202609061223353DB1674F45FA8A1CF628%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E6%B4%BE%E5%86%9B%E6%9C%BA%E5%8F%82%E5%8A%A0%E7%AC%AC%E4%BA%8C%E5%B1%8A%E5%9F%83%E5%8F%8A%E8%88%AA%E5%B1%95%22%7D&rank=&style_id=40132&topic_id=7681209247320801306"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "周榜",
+                    "rank": 34,
+                    "title": "“经济D日 第二天就破功，美国谁都干不动了",
+                    "url": "https://www.acfun.cn/v/ac48816063"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "Epic CEO 斯威尼：AI 导致内存、存储价格暴涨，游戏行业正遭遇第二次崩盘",
+                    "url": "https://www.ithome.com/0/998/836.htm"
+                },
+                {
+                    "channelId": "douban",
+                    "channelName": "豆瓣",
+                    "ranking": "小组精选",
+                    "rank": 5,
+                    "title": "发现了一个熬夜到凌晨两点，第二天也不困精力十足的好办法",
+                    "url": "https://www.douban.com/group/topic/498708756/?_spm_id=MTczMDQ4MzU2"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 27,
+                    "title": "没有激情的第二贴",
+                    "url": "https://bbs.hupu.com/642294782.html"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 19,
+                    "title": "多家海风企业跨界 打造第二增长曲线",
+                    "url": "http://news.10jqka.com.cn/20260905/c679625449.shtml"
+                }
+            ]
+        },
+        {
             "word": "公司",
             "weight": 19,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3952,6 +4254,14 @@
                     "rank": 6,
                     "title": "史玉柱从上市公司体系累计套现超80亿",
                     "url": "https://www.toutiao.com/trending/7681855468767560219/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681855468767560219%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B2%E7%8E%89%E6%9F%B1%E4%BB%8E%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E4%BD%93%E7%B3%BB%E7%B4%AF%E8%AE%A1%E5%A5%97%E7%8E%B0%E8%B6%8580%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7681855468767560219"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "史玉柱从上市公司体系累计套现超80亿",
+                    "url": "https://www.toutiao.com/trending/7681855468767560219/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681855468767560219%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B2%E7%8E%89%E6%9F%B1%E4%BB%8E%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E4%BD%93%E7%B3%BB%E7%B4%AF%E8%AE%A1%E5%A5%97%E7%8E%B0%E8%B6%8580%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7681855468767560219"
                 },
                 {
                     "channelId": "36kr",
@@ -4077,8 +4387,8 @@
         },
         {
             "word": "第三",
-            "weight": 15,
-            "tone": "hot",
+            "weight": 16,
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4273,6 +4583,14 @@
                     "url": "https://www.acfun.cn/v/ac48826495"
                 },
                 {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 15,
+                    "title": "网络上常见的热门短视频集锦   第三千四百一十一期",
+                    "url": "https://www.acfun.cn/v/ac48828311"
+                },
+                {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
@@ -4291,9 +4609,136 @@
             ]
         },
         {
+            "word": "国家",
+            "weight": 15,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 39,
+                    "title": "长得不好看也是一种失败，最焦虑的国家如何培养超级医美产业？",
+                    "url": "https://b23.tv/BV1tMtm6nEzo"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "“随时能问、随手可查”的反诈智能助手“国家反诈 AI”App 上线，微信、支付宝小程序也同步开放",
+                    "url": "https://www.ithome.com/0/998/922.htm"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 46,
+                    "title": "错误的国家译名就应该被纠正，比如“英国”这个错误译名。连“义大利”改成“意大利”这种毫无意义的改一个同音字的译名，都能改掉。",
+                    "url": "https://bbs.hupu.com/642292196.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 39,
+                    "title": "为什么房贷利率不调整到很低很低，国家没钱直接印，然后全部用在基建民生，这样对普通人民有影响吗，",
+                    "url": "https://bbs.hupu.com/642294200.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 4,
+                    "title": "9点1氪丨大众汽车宣布全球裁员10万；月之暗面据悉计划今年在香港进行IPO；国家统计局：全国打工人周均工作48.2小时",
+                    "url": "https://www.36kr.com/p/3969804742111746"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 15,
+                    "title": "中国建筑集团有限公司党组成员、副总经理陈勇接受中央纪委国家监委纪律审查和监察调查",
+                    "url": "http://news.10jqka.com.cn/20260905/c679625956.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 16,
+                    "title": "人民财讯9月5日电，据中央纪委国家监委消息，中国建筑集团有限公司党组成员、副总经理陈勇涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 ...",
+                    "url": "http://news.10jqka.com.cn/20260905/c679625956.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 23,
+                    "title": "国家发展改革委召开“十五五”规划《纲要》重大工程建设推进会议 调度109项重大工程项目实施",
+                    "url": "http://news.10jqka.com.cn/20260905/c679623510.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 24,
+                    "title": "每经AI快讯，2026年9月3日，国家发展改革委党组成员、副主任岳修虎主持召开“十五五”规划《纲要》重大工程建设推进会议，调度109项重大工程建设进展，加快推进在建项目实施，推动一批新项 ...",
+                    "url": "http://news.10jqka.com.cn/20260905/c679623510.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 25,
+                    "title": "国家发展改革委：推动一批新项目尽早开工建设",
+                    "url": "http://news.10jqka.com.cn/20260905/c679622605.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 26,
+                    "title": "● 本报记者欧阳剑环国家发展改革委9月4日消息，国家发展改革委副主任岳修虎日前主持召开“十五五”规划纲要重大工程建设推进会议，调度109项重大工程建设进展，加快推进在建项目实施，推动 ...",
+                    "url": "http://news.10jqka.com.cn/20260905/c679622605.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 28,
+                    "title": "新华社北京9月4日电在中央广播电视总台《小喇叭》节目开播70周年之际，中共中央总书记、国家主席、中央军委主席习近平发来贺信表示祝贺。习近平在贺信中指出，70年来，《小喇叭》节目坚持“ ...",
+                    "url": "http://news.10jqka.com.cn/20260905/c679622477.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 42,
+                    "title": "为持续推动中小企业高质量发展，工业和信息化部会同国家发展改革委、科技部、财政部、人力资源和社会保障部、商务部、中国人民银行、市场监管总局、金融监管总局、中国证监会共十部门近日联 ...",
+                    "url": "http://news.10jqka.com.cn/20260904/c679621635.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 3,
+                    "title": "深刻领悟\"三个更加\"重要要求坚决落实\"六个强化\"任务部署贵州聚焦医保领域问题深化集中整治查改治贯通管好群众“看病钱”中央纪委国家监委网站陆丽环自贵州报道医保基金是人民群众的“看病钱 ...",
+                    "url": "http://news.10jqka.com.cn/20260906/c679628971.shtml"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 5,
+                    "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
+                    "url": "https://www.cls.cn/detail/2474788"
+                }
+            ]
+        },
+        {
             "word": "项目",
             "weight": 15,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4427,8 +4872,8 @@
         },
         {
             "word": "GPT-6",
-            "weight": 13,
-            "tone": "gold",
+            "weight": 14,
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -4445,6 +4890,14 @@
                     "rank": 9,
                     "title": "GPT-6 发布当晚，三大 AI 集体宕机 4 小时——我扒完时间线，发现最该慌的不是宕机",
                     "url": "https://juejin.cn/post/7681475476906950691"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 43,
+                    "title": "GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过",
+                    "url": "https://juejin.cn/post/7681969753800523795"
                 },
                 {
                     "channelId": "toutiao",
@@ -4557,6 +5010,117 @@
                     "rank": 1,
                     "title": "GPT-6 Astra on robot arms",
                     "url": "https://openai.robocurve.org/gpt-6-astra/"
+                }
+            ]
+        },
+        {
+            "word": "没有",
+            "weight": 13,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 12,
+                    "title": "章泽天采访 没有一个菜入味",
+                    "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%87%87%E8%AE%BF%20%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8F%9C%E5%85%A5%E5%91%B3&Refer=index"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 12,
+                    "title": "唐田：球队没有散没有放弃与抱怨",
+                    "url": "https://www.toutiao.com/trending/7681702357826289691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681702357826289691%22%2C%22hot_board_impr_id%22%3A%2220260906102906B618B72D6B0E5DBEEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%94%90%E7%94%B0%EF%BC%9A%E7%90%83%E9%98%9F%E6%B2%A1%E6%9C%89%E6%95%A3%E6%B2%A1%E6%9C%89%E6%94%BE%E5%BC%83%E4%B8%8E%E6%8A%B1%E6%80%A8%22%7D&rank=&style_id=40132&topic_id=7681702357826289691"
+                },
+                {
+                    "channelId": "douban",
+                    "channelName": "豆瓣",
+                    "ranking": "小组精选",
+                    "rank": 22,
+                    "title": "没有去旅行，就在家附近",
+                    "url": "https://www.douban.com/group/topic/498612600/?_spm_id=MjUyNDk1ODI0"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 27,
+                    "title": "没有激情的第二贴",
+                    "url": "https://bbs.hupu.com/642294782.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 31,
+                    "title": "xdm 昨天狄龙打百分穿的签名球衣被我抢到了，看来弹跳没有白练。狄龙人很好走之前脱下来签名扔向了观众席，根本没想到会有这个流程，喷的什么香水还挺香的。抢到后一帮小伙围着要和球衣拍照，也是体验了一把",
+                    "url": "https://bbs.hupu.com/642294539.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 32,
+                    "title": "我想请问一下曾国藩不是被某些群体吹捧为半个圣人吗？而且曾国藩传记的纸质书和电子版传记常年在榜单，那为什么到现在为止还没有出现以曾国藩为主角的影视剧呢？就连配角也未曾出现过。所以，大家觉得这是因为什么？",
+                    "url": "https://bbs.hupu.com/642295134.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 54,
+                    "title": "结婚7年，对老婆没有感觉了怎么办",
+                    "url": "https://bbs.hupu.com/642295013.html"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "有没有成色好的二手笔记本网店推荐",
+                    "url": "https://www.v2ex.com/t/1239638"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 25,
+                    "title": "有没有人开源个菲区协议",
+                    "url": "https://www.nodeseek.com/post-914218-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 47,
+                    "title": "sub2api分发收到OpenAI的abuse邮件后有没有人申述过？",
+                    "url": "https://www.nodeseek.com/post-914293-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 50,
+                    "title": "【人找车】有没有中转节点可以拼，双向200-400G/月均可，长期跟车",
+                    "url": "https://www.nodeseek.com/post-906344-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "日本都用哪种落地鸡？有没有家宽落地鸡！",
+                    "url": "https://www.nodeseek.com/post-914529-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 22,
+                    "title": "glm 5.3 flash有没有比较便宜的渠道",
+                    "url": "https://www.nodeseek.com/post-914533-1"
                 }
             ]
         },
@@ -4683,6 +5247,14 @@
                     "rank": 22,
                     "title": "曝iPhone18Pro灵动岛大瘦身",
                     "url": "https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%A4%A7%E7%98%A6%E8%BA%AB&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 1,
+                    "title": "iPhone18Pro售价曝光",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89&Refer=index"
                 },
                 {
                     "channelId": "github",
@@ -4907,14 +5479,6 @@
                     "rank": 4,
                     "title": "VMware Workstation Pro 26H1u1 25688693 简体中文汉化版&简体中文语言包",
                     "url": "https://www.52pojie.cn/thread-2126269-1-1.html"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 40,
-                    "title": "TF卡格式化工具 TransFlash TF Format Tool Pro 3.2 中文版",
-                    "url": "https://www.52pojie.cn/thread-2124681-1-1.html"
                 }
             ]
         },
@@ -5014,97 +5578,97 @@
             ]
         },
         {
-            "word": "完整",
+            "word": "官方",
             "weight": 10,
             "tone": "gold",
             "hits": [
                 {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 31,
-                    "title": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
-                    "url": "https://b23.tv/BV1aktB6KEA5"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 33,
+                    "title": "美网官方回应郑钦文大逆转",
+                    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%83%91%E9%92%A6%E6%96%87%E5%A4%A7%E9%80%86%E8%BD%AC&Refer=index"
                 },
                 {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 25,
-                    "title": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
-                    "url": "https://b23.tv/BV1aktB6KEA5"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 11,
-                    "title": "[个人汉化]假面骑士麦斯MY-TH第1话《子鼠执事与大小姐》完整版 老鼠执事与生肖苏醒与Zodiac1之物语",
-                    "url": "https://b23.tv/BV1K3bH6jEpm"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 40,
-                    "title": "学功夫练武术完整版MV上线",
-                    "url": "https://www.douyin.com/search/%E5%AD%A6%E5%8A%9F%E5%A4%AB%E7%BB%83%E6%AD%A6%E6%9C%AF%E5%AE%8C%E6%95%B4%E7%89%88MV%E4%B8%8A%E7%BA%BF"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 2,
-                    "title": "内网穿透原来这么简单：Natapp 从注册到公网访问完整教程",
-                    "url": "https://juejin.cn/post/7680877878047408154"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 39,
-                    "title": "从零到一：给 Vue3 项目接入 Playwright UI 自动化测试的完整实战",
-                    "url": "https://juejin.cn/post/7680761768890089482"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 48,
-                    "title": "🌃 HTTP 不认识你：JWT 登录鉴权的完整\"酒店入住\"指南",
-                    "url": "https://juejin.cn/post/7681116470866182171"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "订单数据验证：从购物车到支付的完整验证链路",
-                    "url": "https://juejin.cn/post/7681235036930916392"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 15,
+                    "title": "晋江作者竹已拒绝非官方cp",
+                    "url": "https://s.weibo.com/weibo?q=%E6%99%8B%E6%B1%9F%E4%BD%9C%E8%80%85%E7%AB%B9%E5%B7%B2%E6%8B%92%E7%BB%9D%E9%9D%9E%E5%AE%98%E6%96%B9cp&Refer=index"
                 },
                 {
                     "channelId": "acfun",
                     "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 43,
-                    "title": "从整鸡分解到完整去骨，一套搞定鸡肉改刀丨切鸡万能公式",
-                    "url": "https://www.acfun.cn/v/ac48825567"
+                    "ranking": "日榜",
+                    "rank": 41,
+                    "title": "【官方双语】给玩了一辈子技术的资深老炮都升级点啥 - AMD终极科技大升级Jordan篇（赞助）",
+                    "url": "https://www.acfun.cn/v/ac48827761"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 45,
+                    "title": "她来了！BLACKPINK 金智秀JISOO - CLICK 官方MV正式版",
+                    "url": "https://www.acfun.cn/v/ac48827692"
                 },
                 {
                     "channelId": "ithome",
                     "channelName": "IT之家",
                     "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "小米智能表盘 2 亮相：连贯完整大屏设计可实现“转头”、适配 SU7 / YU7 / 澎程全系车型",
-                    "url": "https://www.ithome.com/0/998/919.htm"
+                    "rank": 2,
+                    "title": "前V社编剧自曝：《求生之路 2》游戏预告片是官方故意泄露的",
+                    "url": "https://www.ithome.com/0/998/874.htm"
                 },
                 {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 2,
+                    "title": "China GT 中国超级跑车锦标赛官方发布关于 9 月 5 日比赛事故的情况声明",
+                    "url": "https://www.ithome.com/0/998/923.htm"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 13,
+                    "title": "快船官方：强烈反对NBA针对球队和伦纳德的调查结论",
+                    "url": "https://m.hupu.com/hot?tagId=156269"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 12,
+                    "title": "利物浦官方：体育总监理查德-休斯离任",
+                    "url": "https://m.hupu.com/hot?tagId=156391"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "虎扑热榜",
+                    "rank": 28,
+                    "title": "快船官方：强烈反对NBA针对球队和伦纳德的调查结论",
+                    "url": "https://m.hupu.com/hot?tagId=156269"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
+                    "url": "https://www.v2ex.com/t/1239673"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
                     "rank": 5,
-                    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-                    "url": "https://www.qbitai.com/2026/09/484551.html"
+                    "title": "claude目前怎么走官方订阅最好",
+                    "url": "https://www.nodeseek.com/post-910954-1"
                 }
             ]
         },
@@ -5306,6 +5870,22 @@
                     "url": "https://www.toutiao.com/trending/7681434429717807110/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681434429717807110%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%BD%E7%9A%84%E6%95%99%E8%82%B2%E7%A6%BB%E4%B8%8D%E5%BC%80%E4%B8%89%E7%82%B9%22%7D&rank=&style_id=40132&topic_id=7681434429717807110"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 5,
+                    "title": "中小学一定要买校服吗？教育部回应",
+                    "url": "https://www.toutiao.com/trending/7682236326049107506/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682236326049107506%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%B8%80%E5%AE%9A%E8%A6%81%E4%B9%B0%E6%A0%A1%E6%9C%8D%E5%90%97%EF%BC%9F%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%22%7D&rank=&style_id=40132&topic_id=7682236326049107506"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "小学通知家长来校做卫生？教育局回应",
+                    "url": "https://www.toutiao.com/trending/7681919904375783466/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681919904375783466%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%AD%A6%E9%80%9A%E7%9F%A5%E5%AE%B6%E9%95%BF%E6%9D%A5%E6%A0%A1%E5%81%9A%E5%8D%AB%E7%94%9F%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%22%7D&rank=&style_id=40132&topic_id=7681919904375783466"
+                },
+                {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "步行街热帖",
@@ -5324,96 +5904,9 @@
             ]
         },
         {
-            "word": "没有",
-            "weight": 10,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 12,
-                    "title": "章泽天采访 没有一个菜入味",
-                    "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%87%87%E8%AE%BF%20%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8F%9C%E5%85%A5%E5%91%B3&Refer=index"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 12,
-                    "title": "唐田：球队没有散没有放弃与抱怨",
-                    "url": "https://www.toutiao.com/trending/7681702357826289691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681702357826289691%22%2C%22hot_board_impr_id%22%3A%2220260906102906B618B72D6B0E5DBEEBCB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%94%90%E7%94%B0%EF%BC%9A%E7%90%83%E9%98%9F%E6%B2%A1%E6%9C%89%E6%95%A3%E6%B2%A1%E6%9C%89%E6%94%BE%E5%BC%83%E4%B8%8E%E6%8A%B1%E6%80%A8%22%7D&rank=&style_id=40132&topic_id=7681702357826289691"
-                },
-                {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 22,
-                    "title": "没有去旅行，就在家附近",
-                    "url": "https://www.douban.com/group/topic/498612600/?_spm_id=MjUyNDk1ODI0"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 27,
-                    "title": "没有激情的第二贴",
-                    "url": "https://bbs.hupu.com/642294782.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 31,
-                    "title": "xdm 昨天狄龙打百分穿的签名球衣被我抢到了，看来弹跳没有白练。狄龙人很好走之前脱下来签名扔向了观众席，根本没想到会有这个流程，喷的什么香水还挺香的。抢到后一帮小伙围着要和球衣拍照，也是体验了一把",
-                    "url": "https://bbs.hupu.com/642294539.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 32,
-                    "title": "我想请问一下曾国藩不是被某些群体吹捧为半个圣人吗？而且曾国藩传记的纸质书和电子版传记常年在榜单，那为什么到现在为止还没有出现以曾国藩为主角的影视剧呢？就连配角也未曾出现过。所以，大家觉得这是因为什么？",
-                    "url": "https://bbs.hupu.com/642295134.html"
-                },
-                {
-                    "channelId": "v2ex",
-                    "channelName": "V2EX",
-                    "ranking": "热门主题",
-                    "rank": 6,
-                    "title": "有没有成色好的二手笔记本网店推荐",
-                    "url": "https://www.v2ex.com/t/1239638"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 25,
-                    "title": "有没有人开源个菲区协议",
-                    "url": "https://www.nodeseek.com/post-914218-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 47,
-                    "title": "sub2api分发收到OpenAI的abuse邮件后有没有人申述过？",
-                    "url": "https://www.nodeseek.com/post-914293-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 50,
-                    "title": "【人找车】有没有中转节点可以拼，双向200-400G/月均可，长期跟车",
-                    "url": "https://www.nodeseek.com/post-906344-1"
-                }
-            ]
-        },
-        {
             "word": "计划",
             "weight": 10,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5506,96 +5999,120 @@
             ]
         },
         {
-            "word": "官方",
+            "word": "一次",
             "weight": 9,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 33,
-                    "title": "美网官方回应郑钦文大逆转",
-                    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%83%91%E9%92%A6%E6%96%87%E5%A4%A7%E9%80%86%E8%BD%AC&Refer=index"
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 23,
+                    "title": "这一次我们能赢吗？",
+                    "url": "https://b23.tv/BV1ARte6rEKL"
                 },
                 {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 15,
-                    "title": "晋江作者竹已拒绝非官方cp",
-                    "url": "https://s.weibo.com/weibo?q=%E6%99%8B%E6%B1%9F%E4%BD%9C%E8%80%85%E7%AB%B9%E5%B7%B2%E6%8B%92%E7%BB%9D%E9%9D%9E%E5%AE%98%E6%96%B9cp&Refer=index"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 41,
-                    "title": "【官方双语】给玩了一辈子技术的资深老炮都升级点啥 - AMD终极科技大升级Jordan篇（赞助）",
-                    "url": "https://www.acfun.cn/v/ac48827761"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 45,
-                    "title": "她来了！BLACKPINK 金智秀JISOO - CLICK 官方MV正式版",
-                    "url": "https://www.acfun.cn/v/ac48827692"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
                     "rank": 2,
-                    "title": "前V社编剧自曝：《求生之路 2》游戏预告片是官方故意泄露的",
-                    "url": "https://www.ithome.com/0/998/874.htm"
+                    "title": "郑钦文生涯第一次完成0-5逆转",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%83%91%E9%92%A6%E6%96%87%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%8C%E6%88%900-5%E9%80%86%E8%BD%AC"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 13,
-                    "title": "快船官方：强烈反对NBA针对球队和伦纳德的调查结论",
-                    "url": "https://m.hupu.com/hot?tagId=156269"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 12,
-                    "title": "利物浦官方：体育总监理查德-休斯离任",
-                    "url": "https://m.hupu.com/hot?tagId=156391"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
                     "rank": 28,
-                    "title": "快船官方：强烈反对NBA针对球队和伦纳德的调查结论",
-                    "url": "https://m.hupu.com/hot?tagId=156269"
+                    "title": "第一次对韩国人做的饭产生食欲",
+                    "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%81%9A%E7%9A%84%E9%A5%AD%E4%BA%A7%E7%94%9F%E9%A3%9F%E6%AC%B2&Refer=index"
                 },
                 {
-                    "channelId": "v2ex",
-                    "channelName": "V2EX",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
-                    "url": "https://www.v2ex.com/t/1239673"
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 6,
+                    "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
+                    "url": "https://juejin.cn/post/7680471403955191814"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 12,
+                    "title": "郑钦文说这次大逆转是职业生涯头一次",
+                    "url": "https://www.toutiao.com/trending/7682245064797457930/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682245064797457930%22%2C%22hot_board_impr_id%22%3A%222026090611245571655D9E6353FED2B0AC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E8%BF%99%E6%AC%A1%E5%A4%A7%E9%80%86%E8%BD%AC%E6%98%AF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%A4%B4%E4%B8%80%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7682245064797457930"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "郑钦文说这次大逆转是职业生涯头一次",
+                    "url": "https://www.toutiao.com/trending/7682245064797457930/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682245064797457930%22%2C%22hot_board_impr_id%22%3A%22202609061223353DB1674F45FA8A1CF628%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E8%BF%99%E6%AC%A1%E5%A4%A7%E9%80%86%E8%BD%AC%E6%98%AF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%A4%B4%E4%B8%80%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7682245064797457930"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "郑钦文说这次大逆转是职业生涯头一次",
+                    "url": "https://www.toutiao.com/trending/7682245064797457930/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682245064797457930%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E8%BF%99%E6%AC%A1%E5%A4%A7%E9%80%86%E8%BD%AC%E6%98%AF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%A4%B4%E4%B8%80%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7682245064797457930"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 24,
+                    "title": "郑钦文说这次大逆转是职业生涯头一次",
+                    "url": "https://www.toutiao.com/trending/7682245064797457930/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682245064797457930%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E8%BF%99%E6%AC%A1%E5%A4%A7%E9%80%86%E8%BD%AC%E6%98%AF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%A4%B4%E4%B8%80%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7682245064797457930"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "三日榜",
+                    "rank": 9,
+                    "title": "死一次受一次罚，猜我一天下来欠多少个？",
+                    "url": "https://www.acfun.cn/v/ac48824429"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "周榜",
+                    "rank": 29,
+                    "title": "死一次受一次罚，猜我一天下来欠多少个？",
+                    "url": "https://www.acfun.cn/v/ac48824429"
                 },
                 {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
-                    "rank": 5,
-                    "title": "claude目前怎么走官方订阅最好",
-                    "url": "https://www.nodeseek.com/post-910954-1"
+                    "rank": 12,
+                    "title": "1200再出一次t-mobile 季付0刀，这次认真的，esim,来个大佬带走吧",
+                    "url": "https://www.nodeseek.com/post-914324-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 48,
+                    "title": "你们都有多少加密货币？我第一次得知Usdt等于美金的时候就震惊了",
+                    "url": "https://www.nodeseek.com/post-914436-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 45,
+                    "title": "今天我打开了 giffgaff的网络, 开启6个月一次的保号操作",
+                    "url": "https://www.nodeseek.com/post-914525-1"
                 }
             ]
         },
         {
             "word": "时代",
             "weight": 9,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -5686,6 +6203,14 @@
                     "url": "https://www.toutiao.com/trending/7682213987752103430/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682213987752103430%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%9A%E4%B8%BB%EF%BC%9A%E6%B5%81%E9%87%8F%E6%97%B6%E4%BB%A3%E8%AF%B7%E7%95%99%E4%BD%8F%E8%AF%A5%E6%9C%89%E7%9A%84%E5%AE%81%E9%9D%99%22%7D&rank=&style_id=40132&topic_id=7682213987752103430"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 19,
+                    "title": "博主：流量时代请留住该有的宁静",
+                    "url": "https://www.toutiao.com/trending/7682213987752103430/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682213987752103430%22%2C%22hot_board_impr_id%22%3A%2220260906143137A90F8D9E7CE90C7558DA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%9A%E4%B8%BB%EF%BC%9A%E6%B5%81%E9%87%8F%E6%97%B6%E4%BB%A3%E8%AF%B7%E7%95%99%E4%BD%8F%E8%AF%A5%E6%9C%89%E7%9A%84%E5%AE%81%E9%9D%99%22%7D&rank=&style_id=40132&topic_id=7682213987752103430"
+                },
+                {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
@@ -5722,7 +6247,7 @@
         {
             "word": "最大",
             "weight": 9,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5805,243 +6330,6 @@
                     "url": "http://www.geekpark.net/news/369871"
                 }
             ]
-        },
-        {
-            "word": "知道",
-            "weight": 9,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 59,
-                    "title": "【半佛】下一代的孩子还会知道原神吗？",
-                    "url": "https://b23.tv/BV15GtZ6tEGS"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 39,
-                    "title": "才知道陈妍希儿子名字陈睦辰",
-                    "url": "https://s.weibo.com/weibo?q=%E6%89%8D%E7%9F%A5%E9%81%93%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E5%90%8D%E5%AD%97%E9%99%88%E7%9D%A6%E8%BE%B0&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 38,
-                    "title": "曝小胖媳妇知道他有私生子",
-                    "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%B0%8F%E8%83%96%E5%AA%B3%E5%A6%87%E7%9F%A5%E9%81%93%E4%BB%96%E6%9C%89%E7%A7%81%E7%94%9F%E5%AD%90&Refer=index"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 36,
-                    "title": "【安利】想知道漫画家如何创作漫画，来看漫勉记录片吧",
-                    "url": "https://www.acfun.cn/v/ac48813487"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 11,
-                    "title": "想知道曾对我有好感的男生跟我sleep后对我冷淡的原因。",
-                    "url": "https://bbs.hupu.com/642291550.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 3,
-                    "title": "冷知识，其实C罗比那位带队进四强的年份更早。同样都是没任何成绩，同样都是踢满7场比赛。不知道亚军有什么好吹的，哪怕是国人最关注的跳水、举重，请告诉我历届奥运会的银牌都是谁？",
-                    "url": "https://bbs.hupu.com/642294777.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 20,
-                    "title": "下一代的孩子，还会知道原神吗？",
-                    "url": "https://www.36kr.com/p/3971361752674817"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "极客公园",
-                    "rank": 5,
-                    "title": "OpenAI 曝光 GPT-6，能力超群；微信公关总监回应「好友超 1 万可查看单删好友」；联合国：超强而厄尔尼诺将冲击全球经济 ｜ 极客早知道",
-                    "url": "http://www.geekpark.net/news/369801"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "阮一峰网络日志",
-                    "rank": 2,
-                    "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-                    "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"
-                }
-            ]
-        },
-        {
-            "word": "一次",
-            "weight": 8,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 23,
-                    "title": "这一次我们能赢吗？",
-                    "url": "https://b23.tv/BV1ARte6rEKL"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 2,
-                    "title": "郑钦文生涯第一次完成0-5逆转",
-                    "url": "https://search.bilibili.com/all?keyword=%E9%83%91%E9%92%A6%E6%96%87%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%8C%E6%88%900-5%E9%80%86%E8%BD%AC"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 28,
-                    "title": "第一次对韩国人做的饭产生食欲",
-                    "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%81%9A%E7%9A%84%E9%A5%AD%E4%BA%A7%E7%94%9F%E9%A3%9F%E6%AC%B2&Refer=index"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 6,
-                    "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
-                    "url": "https://juejin.cn/post/7680471403955191814"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 12,
-                    "title": "郑钦文说这次大逆转是职业生涯头一次",
-                    "url": "https://www.toutiao.com/trending/7682245064797457930/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682245064797457930%22%2C%22hot_board_impr_id%22%3A%222026090611245571655D9E6353FED2B0AC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E8%BF%99%E6%AC%A1%E5%A4%A7%E9%80%86%E8%BD%AC%E6%98%AF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%A4%B4%E4%B8%80%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7682245064797457930"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "郑钦文说这次大逆转是职业生涯头一次",
-                    "url": "https://www.toutiao.com/trending/7682245064797457930/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682245064797457930%22%2C%22hot_board_impr_id%22%3A%22202609061223353DB1674F45FA8A1CF628%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E8%BF%99%E6%AC%A1%E5%A4%A7%E9%80%86%E8%BD%AC%E6%98%AF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%A4%B4%E4%B8%80%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7682245064797457930"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "郑钦文说这次大逆转是职业生涯头一次",
-                    "url": "https://www.toutiao.com/trending/7682245064797457930/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682245064797457930%22%2C%22hot_board_impr_id%22%3A%222026090613192654268B22641876813D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E8%AF%B4%E8%BF%99%E6%AC%A1%E5%A4%A7%E9%80%86%E8%BD%AC%E6%98%AF%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%A4%B4%E4%B8%80%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7682245064797457930"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 9,
-                    "title": "死一次受一次罚，猜我一天下来欠多少个？",
-                    "url": "https://www.acfun.cn/v/ac48824429"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 29,
-                    "title": "死一次受一次罚，猜我一天下来欠多少个？",
-                    "url": "https://www.acfun.cn/v/ac48824429"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "1200再出一次t-mobile 季付0刀，这次认真的，esim,来个大佬带走吧",
-                    "url": "https://www.nodeseek.com/post-914324-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 48,
-                    "title": "你们都有多少加密货币？我第一次得知Usdt等于美金的时候就震惊了",
-                    "url": "https://www.nodeseek.com/post-914436-1"
-                }
-            ]
-        },
-        {
-            "word": "直接",
-            "weight": 7,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 97,
-                    "title": "吓哭了！电影级大招，心月狐直接给我干到无限城了！！！？",
-                    "url": "https://b23.tv/BV1Pxt96AETY"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 50,
-                    "title": "OpenAI新模型能直接操作电脑",
-                    "url": "https://s.weibo.com/weibo?q=OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%83%BD%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91&Refer=index"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 50,
-                    "title": "快充到底伤不伤车？给你最直接、最不绕弯子的回答",
-                    "url": "https://www.acfun.cn/v/ac48821133"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 51,
-                    "title": "女子在斑马线处闯红灯不观察路况被直接撞倒",
-                    "url": "https://bbs.hupu.com/642291960.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 39,
-                    "title": "为什么房贷利率不调整到很低很低，国家没钱直接印，然后全部用在基建民生，这样对普通人民有影响吗，",
-                    "url": "https://bbs.hupu.com/642294200.html"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 3,
-                    "title": "【收】收垃圾鸡，玩具鸡，带价格，直接明盘哦",
-                    "url": "https://www.nodeseek.com/post-914223-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 45,
-                    "title": "歌曲宝在线音乐下载跳过排队直接给出下载链接",
-                    "url": "https://www.52pojie.cn/thread-2124942-1-1.html"
-                }
-            ]
         }
     ],
     "flow": {
@@ -6049,8 +6337,8 @@
             "01:15",
             "04:18",
             "07:17",
-            "11:24",
-            "13:20"
+            "12:23",
+            "14:32"
         ],
         "rows": [
             {
@@ -6058,22 +6346,22 @@
                 "query": "午夜轮班，伪人超市",
                 "source": "哔哩哔哩",
                 "ranking": "全站热门视频",
-                "tenure": "持续 12 小时",
+                "tenure": "持续 13 小时",
                 "times": [
                     "01:15",
-                    "04:18",
-                    "07:16",
+                    "05:16",
+                    "08:53",
                     "10:29",
-                    "13:19"
+                    "14:31"
                 ],
                 "ranks": [
                     3,
                     5,
-                    3,
                     4,
-                    5
+                    4,
+                    11
                 ],
-                "state": "高位回落",
+                "state": "持续下降",
                 "tone": "down",
                 "hits": [
                     {
@@ -6091,23 +6379,23 @@
                 "query": "我把汉堡搬到了星星上",
                 "source": "哔哩哔哩",
                 "ranking": "全站热门视频",
-                "tenure": "持续 12 小时",
+                "tenure": "持续 13 小时",
                 "times": [
                     "01:15",
-                    "04:18",
-                    "07:16",
+                    "05:16",
+                    "08:53",
                     "10:29",
-                    "13:19"
+                    "14:31"
                 ],
                 "ranks": [
                     4,
-                    17,
-                    12,
+                    15,
+                    8,
                     7,
-                    1
+                    9
                 ],
-                "state": "稳定在榜",
-                "tone": "steady",
+                "state": "持续下降",
+                "tone": "down",
                 "hits": [
                     {
                         "channelId": "bilibili",
@@ -6124,13 +6412,13 @@
                 "query": "万人追更的终南山怪虫，只有我们拍到了真相！",
                 "source": "哔哩哔哩",
                 "ranking": "视频排行榜",
-                "tenure": "持续 12 小时",
+                "tenure": "持续 13 小时",
                 "times": [
                     "01:15",
-                    "04:18",
-                    "07:16",
+                    "05:16",
+                    "08:53",
                     "10:29",
-                    "13:19"
+                    "14:31"
                 ],
                 "ranks": [
                     1,
@@ -6157,17 +6445,17 @@
                 "query": "张雪机车法国站第一回合第三名",
                 "source": "抖音",
                 "ranking": "热搜",
-                "tenure": "持续 12 小时",
+                "tenure": "持续 13 小时",
                 "times": [
                     "01:15",
-                    "04:18",
-                    "07:16",
+                    "05:16",
+                    "08:53",
                     "10:29",
-                    "13:19"
+                    "14:31"
                 ],
                 "ranks": [
                     1,
-                    4,
+                    9,
                     4,
                     19,
                     42
@@ -6186,35 +6474,35 @@
                 ]
             },
             {
-                "topic": "葫芦娃爷爷把葫芦剪掉了目击者发声",
-                "query": "葫芦娃爷爷把葫芦剪掉了目击者发声",
-                "source": "微博",
-                "ranking": "微博热榜",
-                "tenure": "持续 12 小时",
+                "topic": "sys_dump 备了库，角色和权限别漏在外面",
+                "query": "sys_dump 备了库，角色和权限别漏在外面",
+                "source": "掘金",
+                "ranking": "热门文章",
+                "tenure": "持续 13 小时",
                 "times": [
                     "01:15",
-                    "04:18",
-                    "07:16",
+                    "05:16",
+                    "08:53",
                     "10:29",
-                    "13:19"
+                    "14:31"
                 ],
                 "ranks": [
                     1,
-                    2,
-                    2,
                     1,
-                    7
+                    1,
+                    1,
+                    1
                 ],
-                "state": "持续下降",
-                "tone": "down",
+                "state": "稳定在榜",
+                "tone": "steady",
                 "hits": [
                     {
-                        "channelId": "weibo",
-                        "channelName": "微博",
-                        "ranking": "微博热榜",
+                        "channelId": "juejin",
+                        "channelName": "掘金",
+                        "ranking": "热门文章",
                         "rank": 1,
-                        "title": "葫芦娃爷爷把葫芦剪掉了目击者发声",
-                        "url": "https://s.weibo.com/weibo?q=%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E6%8A%8A%E8%91%AB%E8%8A%A6%E5%89%AA%E6%8E%89%E4%BA%86%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0&Refer=index"
+                        "title": "sys_dump 备了库，角色和权限别漏在外面",
+                        "url": "https://juejin.cn/post/7680551559094517802"
                     }
                 ]
             }
@@ -6272,7 +6560,7 @@
         {
             "tag": "持续下降",
             "title": "午夜轮班，伪人超市",
-            "value": "持续 12 小时",
+            "value": "持续 13 小时",
             "query": "午夜轮班，伪人超市",
             "hits": [
                 {
@@ -6286,9 +6574,9 @@
             ]
         },
         {
-            "tag": "持续在榜",
+            "tag": "持续下降",
             "title": "我把汉堡搬到了星星上",
-            "value": "持续 12 小时",
+            "value": "持续 13 小时",
             "query": "我把汉堡搬到了星星上",
             "hits": [
                 {
@@ -6304,7 +6592,7 @@
         {
             "tag": "持续在榜",
             "title": "万人追更的终南山怪虫，只有我们拍到了真相！",
-            "value": "持续 12 小时",
+            "value": "持续 13 小时",
             "query": "万人追更的终南山怪虫，只有我们拍到了真相！",
             "hits": [
                 {
