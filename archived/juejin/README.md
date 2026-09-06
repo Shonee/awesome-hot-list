@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-06 09:01:07
+> 更新时间：2026-09-06 09:32:16
 
 ## 热门文章
 
@@ -28,8 +28,8 @@
 22. [从 Token 到蒸馏：一步步理解大模型如何工作](https://juejin.cn/post/7681213028792500287)
 23. [一篇文章带你深入拆解Skill的本质与工程实现，让你不再滥用Skill](https://juejin.cn/post/7680753213893394459)
 24. [英伟达砸130亿美元买下一个平台，黄仁勋到底在怕什么？](https://juejin.cn/post/7681266980104683526)
-25. [Compose SelectionState API — 主动控制文本选择](https://juejin.cn/post/7680473326453735434)
-26. [MyBatis-Plus 项目为什么越写越复杂：从一行 Wrapper 说起](https://juejin.cn/post/7680812218214236194)
+25. [MyBatis-Plus 项目为什么越写越复杂：从一行 Wrapper 说起](https://juejin.cn/post/7680812218214236194)
+26. [Compose SelectionState API — 主动控制文本选择](https://juejin.cn/post/7680473326453735434)
 27. [打破传统 MVC：在 Go 中实践高内聚的业务驱动架构](https://juejin.cn/post/7681143768221974568)
 28. [别再只给人写页面了：AI 已经开始自己点你的按钮、填你的表单](https://juejin.cn/post/7681010507700699151)
 29. [请问同一台服务器能同时部署前后端项目并支持https吗?](https://juejin.cn/post/7680909145756401691)

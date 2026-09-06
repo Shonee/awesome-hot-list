@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-06 09:01:39
+> 更新时间：2026-09-06 09:32:46
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken](https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article)
-2. [Uber GitFarm：面向大规模单体代码库的 Git 即服务平台](https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article)
-3. [Meta 拓展自研芯片战略：从计算领域延伸至网络领域](https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article)
-4. [鸿蒙 AI Coding 的研发新范式与工程实践](https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article)
-5. [Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式](https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&utm_medium=article)
+1. [蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article)
+2. [RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken](https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article)
+3. [Uber GitFarm：面向大规模单体代码库的 Git 即服务平台](https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article)
+4. [Meta 拓展自研芯片战略：从计算领域延伸至网络领域](https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article)
+5. [鸿蒙 AI Coding 的研发新范式与工程实践](https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 

@@ -1,6 +1,6 @@
 # 虎扑热榜
 
-> 更新时间：2026-09-06 09:01:21
+> 更新时间：2026-09-06 09:32:28
 
 ## 步行街热帖
 
@@ -15,22 +15,22 @@
 9. [阿门-汤普森已与火箭达成5年2.08亿提前续约合同](https://m.hupu.com/hot?tagId=156312)
 10. [勇士和尼克斯都曾有意本-西蒙斯](https://m.hupu.com/hot?tagId=156361)
 11. [科比是唯一单赛季场均30+分且入选一防的球员](https://m.hupu.com/hot?tagId=156362)
-12. [世界杯：中国女篮61-94不敌美国](https://m.hupu.com/hot?tagId=156354)
-13. [Siegel评詹姆斯合作：令人悲哀](https://m.hupu.com/hot?tagId=156378)
+12. [Siegel评詹姆斯合作：令人悲哀](https://m.hupu.com/hot?tagId=156378)
+13. [世界杯：中国女篮61-94不敌美国](https://m.hupu.com/hot?tagId=156354)
 14. [曝交易达成猛龙将给伦纳德丰厚续约](https://m.hupu.com/hot?tagId=156375)
 15. [HoopsHype发布GOAT调查细节](https://m.hupu.com/hot?tagId=156377)
 16. [现役球员单场25+5+5场次：詹姆斯886场第一](https://m.hupu.com/hot?tagId=156328)
-17. [本-西蒙斯1年350万美元加盟国王](https://m.hupu.com/hot?tagId=156345)
-18. [诺维茨基曾质疑布伦森上限](https://m.hupu.com/hot?tagId=156365)
-19. [我的梦幻九宫格成绩](https://m.hupu.com/hot?tagId=149058)
+17. [诺维茨基曾质疑布伦森上限](https://m.hupu.com/hot?tagId=156365)
+18. [我的梦幻九宫格成绩](https://m.hupu.com/hot?tagId=149058)
+19. [本-西蒙斯1年350万美元加盟国王](https://m.hupu.com/hot?tagId=156345)
 20. [杜兰特训练师：别把所有责任都压给KD](https://m.hupu.com/hot?tagId=156363)
 21. [追梦：现在很多人对克莱缺乏尊重](https://m.hupu.com/hot?tagId=156364)
 22. [Shams爆料：西蒙斯8月为国王完成试训](https://m.hupu.com/hot?tagId=156351)
-23. [快船官方：强烈反对NBA针对球队和伦纳德的调查结论](https://m.hupu.com/hot?tagId=156269)
-24. [挑战传奇Against Legendary](https://m.hupu.com/hot?tagId=152939)
-25. [追梦反驳鲍尔默罚款不值一提](https://m.hupu.com/hot?tagId=156359)
-26. [2026全球总决赛LCK出征队伍：GEN、HLE、T1和DK](https://m.hupu.com/hot?tagId=156347)
-27. [Siegel：杜伦以及其团队未必希望长期留在活塞](https://m.hupu.com/hot?tagId=156358)
-28. [追梦谈杜伦：我认为他会回活塞](https://m.hupu.com/hot?tagId=156376)
+23. [挑战传奇Against Legendary](https://m.hupu.com/hot?tagId=152939)
+24. [追梦反驳鲍尔默罚款不值一提](https://m.hupu.com/hot?tagId=156359)
+25. [快船官方：强烈反对NBA针对球队和伦纳德的调查结论](https://m.hupu.com/hot?tagId=156269)
+26. [Siegel：杜伦以及其团队未必希望长期留在活塞](https://m.hupu.com/hot?tagId=156358)
+27. [追梦谈杜伦：我认为他会回活塞](https://m.hupu.com/hot?tagId=156376)
+28. [2026全球总决赛LCK出征队伍：GEN、HLE、T1和DK](https://m.hupu.com/hot?tagId=156347)
 29. [LCK季后赛冠军之路](https://m.hupu.com/hot?tagId=155797)
 30. [快船与猛龙之间的伦纳德交易即将正式完成](https://m.hupu.com/hot?tagId=156281)
