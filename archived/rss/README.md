@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-06 12:25:04
+> 更新时间：2026-09-06 13:20:08
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [GPT-6带火循环Transformer，阿里早已布局](https://www.qbitai.com/2026/09/484726.html)
-2. [押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司](https://www.qbitai.com/2026/09/484683.html)
-3. [陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕](https://www.qbitai.com/2026/09/484649.html)
-4. [这个世界模型训练完就“退场”，机器人反而更能干了](https://www.qbitai.com/2026/09/484611.html)
-5. [姚班校友主导，Claude攻克费马大定理首个完整形式化证明](https://www.qbitai.com/2026/09/484551.html)
+1. [B站首届AI创造公开赛收官，超八成参赛者为一人团队](https://www.qbitai.com/2026/09/484890.html)
+2. [GPT-6带火循环Transformer，阿里早已布局](https://www.qbitai.com/2026/09/484726.html)
+3. [押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司](https://www.qbitai.com/2026/09/484683.html)
+4. [陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕](https://www.qbitai.com/2026/09/484649.html)
+5. [这个世界模型训练完就“退场”，机器人反而更能干了](https://www.qbitai.com/2026/09/484611.html)
 
 ## InfoQ
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
-2. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
-3. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
-4. [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
-5. [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
+1. [Vancouver strip club's Instagram taken down over sign featuring lake joke](https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993)
+2. [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+3. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
+4. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+5. [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
+
+## AI News
+
+1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
+5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
 
 ## 阮一峰网络日志
 

@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-06 12:23:43
+> 更新时间：2026-09-06 13:19:36
 
 ## 最新资讯
 
-1. [ACEMAGIC F7A 迷你主机亮相：机箱比 F2A 更大，至高 64GB 内存](https://www.ithome.com/0/998/913.htm)
-2. [小米澎程新车官宣全系搭载澎湃智能座舱，支持超级小爱语音交互、一句话完成场景切换等](https://www.ithome.com/0/998/912.htm)
-3. [蔚来第 91 条加电风景线“晋南溯源环线”今日贯通：全程 1,849 公里，沿途布局 13 座换电站](https://www.ithome.com/0/998/911.htm)
-4. [天玑 9600 Pro 最新跑分成绩曝光：单核最高 4137，多核最高 13086](https://www.ithome.com/0/998/910.htm)
-5. [发售仅 3 天，Rebel Wolves 处女作《黎明行者之血》销量突破 100 万份](https://www.ithome.com/0/998/909.htm)
+1. [B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金](https://www.ithome.com/0/998/921.htm)
+2. [微信 Linux 版获 4.1.13 更新：新增语音输入文字、滚动截图等实用功能](https://www.ithome.com/0/998/920.htm)
+3. [小米智能表盘 2 亮相：连贯完整大屏设计可实现“转头”、适配 SU7 / YU7 / 澎程全系车型](https://www.ithome.com/0/998/919.htm)
+4. [Pico 神秘 VR 设备获美国 FCC 认证，预计为 Space Pro 头显](https://www.ithome.com/0/998/917.htm)
+5. [比亚迪、理想、北汽集团等多家车企预祝小米澎程上市成功](https://www.ithome.com/0/998/916.htm)

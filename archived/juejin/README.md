@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-06 12:23:34
+> 更新时间：2026-09-06 13:19:25
 
 ## 热门文章
 
@@ -41,16 +41,16 @@
 35. [别只混淆代码：用 Kaleido 加固整个 Android Release AAB](https://juejin.cn/post/7680938642575949858)
 36. [PDF Viewer KMP（基于 chrome 的 PDFium 内核）](https://juejin.cn/post/7680766055174832171)
 37. [🌃 HTTP 不认识你：JWT 登录鉴权的完整"酒店入住"指南](https://juejin.cn/post/7681116470866182171)
-38. [你的页面为什么总是卡成PPT？2026年，90%的前端都忽略了主线程](https://juejin.cn/post/7681580786831884329)
-39. [踩坑复盘：为什么在输入框按个回车，页面就偷偷刷新了？](https://juejin.cn/post/7681462243146743834)
+38. [踩坑复盘：为什么在输入框按个回车，页面就偷偷刷新了？](https://juejin.cn/post/7681462243146743834)
+39. [你的页面为什么总是卡成PPT？2026年，90%的前端都忽略了主线程](https://juejin.cn/post/7681580786831884329)
 40. [我用 Next.js + React Flow 从零搭建了一个可视化 AI 工作流编排平台](https://juejin.cn/post/7681151526543261722)
 41. [Redis缓存雪崩把我坑惨了，这次长记性了](https://juejin.cn/post/7681138712660197391)
-42. [基于 Codex Agent Harness 套壳实现自己的 AI 产品：Agent 运行时与任务编排实践](https://juejin.cn/post/7680877878047391770)
-43. [VS Code 的 AI Chat 现在已经这么能干了？](https://juejin.cn/post/7681411791894003766)
-44. [Electron应用的8种防护方式](https://juejin.cn/post/7681296375862886463)
-45. [WorkBuddy 开放平台详解：五大核心能力、API 接入与竞品定位](https://juejin.cn/post/7681286465167786027)
-46. [订单数据验证：从购物车到支付的完整验证链路](https://juejin.cn/post/7681235036930916392)
+42. [订单数据验证：从购物车到支付的完整验证链路](https://juejin.cn/post/7681235036930916392)
+43. [别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成"自来水"](https://juejin.cn/post/7681142626944450614)
+44. [VS Code 的 AI Chat 现在已经这么能干了？](https://juejin.cn/post/7681411791894003766)
+45. [Electron应用的8种防护方式](https://juejin.cn/post/7681296375862886463)
+46. [WorkBuddy 开放平台详解：五大核心能力、API 接入与竞品定位](https://juejin.cn/post/7681286465167786027)
 47. [深入解构Claude Code - 第 12 篇 · 整体串起来](https://juejin.cn/post/7681161304783110182)
 48. [32GB 显存，凭什么跑 56GB 大模型？从 Shared Memory 到 AI 异构内存架构](https://juejin.cn/post/7681142626944942134)
 49. [DeepSeek Harness 架构解析](https://juejin.cn/post/7681142626944925750)
-50. [别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成"自来水"](https://juejin.cn/post/7681142626944450614)
+50. [50MB 红线下的 iOS 录屏引擎：ReplayKit Broadcast Extension 实战](https://juejin.cn/post/7680909145756483611)
