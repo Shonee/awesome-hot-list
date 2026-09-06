@@ -5,7 +5,16 @@ on:
     branches: ["master"]
     paths:
       - "site/**"
+      - ".github/workflows/pages.yml"
   workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Collect hourly hotlists
+      - Collect special hotlists
+      - Render Daily Dashboard
+      - Archive weekly hot-list data
+    types: [completed]
+    branches: ["master"]
 
 permissions:
   contents: read
@@ -18,6 +27,10 @@ concurrency:
 
 jobs:
   deploy:
+    if: >-
+      github.event_name == 'push' ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success')
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
