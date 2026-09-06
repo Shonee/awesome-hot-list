@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-06 12:25:04",
+    "generatedAt": "2026-09-06 12:31:33",
     "channels": [
         {
             "schemaVersion": 1,
@@ -8141,7 +8141,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-06 08:52:20",
+            "fetchedAt": "2026-09-06 12:31:33",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -8152,12 +8152,12 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "现在做什么技术的最容易找工作",
-                            "url": "https://www.v2ex.com/t/1239623",
-                            "hot": 55,
-                            "description": "职场话题",
+                            "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
+                            "url": "https://www.v2ex.com/t/1239707",
+                            "hot": 52,
+                            "description": "分享创造",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-05 12:01:54"
+                            "publishedAt": "2026-09-05 17:22:35"
                         },
                         {
                             "rank": 2,
@@ -8170,69 +8170,60 @@
                         },
                         {
                             "rank": 3,
-                            "title": "周六清早起来快蹬 马上又要重置了....",
-                            "url": "https://www.v2ex.com/t/1239621",
-                            "hot": 38,
-                            "description": "OpenAI",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-05 08:59:15"
-                        },
-                        {
-                            "rank": 4,
-                            "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
-                            "url": "https://www.v2ex.com/t/1239707",
-                            "hot": 38,
-                            "description": "分享创造",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-05 17:22:35"
-                        },
-                        {
-                            "rank": 5,
-                            "title": "我又又又重构了我的站点",
-                            "url": "https://www.v2ex.com/t/1239655",
-                            "hot": 31,
-                            "description": "程序员",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-05 11:43:09"
-                        },
-                        {
-                            "rank": 6,
-                            "title": "有没有成色好的二手笔记本网店推荐",
-                            "url": "https://www.v2ex.com/t/1239638",
-                            "hot": 27,
-                            "description": "问与答",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-05 09:57:53"
-                        },
-                        {
-                            "rank": 7,
                             "title": "给我整乐呵了，商汤上了 deepseek v4 flash 和 pro",
                             "url": "https://www.v2ex.com/t/1239687",
-                            "hot": 27,
+                            "hot": 31,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-05 15:42:27"
                         },
                         {
-                            "rank": 8,
-                            "title": "梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
-                            "url": "https://www.v2ex.com/t/1239651",
-                            "hot": 26,
-                            "description": "分享创造",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-05 11:06:45"
-                        },
-                        {
-                            "rank": 9,
+                            "rank": 4,
                             "title": "外接显示器时，你会把 Mac 打开作为副屏用吗？",
                             "url": "https://www.v2ex.com/t/1239671",
-                            "hot": 26,
+                            "hot": 30,
                             "description": "MacBook Pro",
                             "imageUrl": "",
                             "publishedAt": "2026-09-05 14:01:15"
                         },
                         {
-                            "rank": 10,
+                            "rank": 5,
+                            "title": "难绷，太相信 ai 了😭",
+                            "url": "https://www.v2ex.com/t/1239751",
+                            "hot": 29,
+                            "description": "程序员",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-06 00:59:48"
+                        },
+                        {
+                            "rank": 6,
+                            "title": "拼多多购物体验真的是很恶心",
+                            "url": "https://www.v2ex.com/t/1239770",
+                            "hot": 22,
+                            "description": "生活",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-06 09:32:23"
+                        },
+                        {
+                            "rank": 7,
+                            "title": "卧槽 GPT-6 Astra 就是 AGI。",
+                            "url": "https://www.v2ex.com/t/1239725",
+                            "hot": 21,
+                            "description": "OpenAI",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-05 21:32:08"
+                        },
+                        {
+                            "rank": 8,
+                            "title": "几个网友分享的 GPT-6-Astra 编写的游戏和 Web 页面",
+                            "url": "https://www.v2ex.com/t/1239697",
+                            "hot": 20,
+                            "description": "OpenAI",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-05 16:45:41"
+                        },
+                        {
+                            "rank": 9,
                             "title": "一个 MonoRepo 复杂系统的部署问题",
                             "url": "https://www.v2ex.com/t/1239730",
                             "hot": 20,

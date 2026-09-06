@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-06",
-    "generatedAt": "2026-09-06 12:25:11",
-    "summary": "网络上常见的热门短视频集锦   第三千四百期成为本期综合热度最高的话题，苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了紧随其后。当前覆盖 19 个有效渠道，共形成 358 个榜单时间切片；发现 12 个跨渠道重复热点。",
+    "generatedAt": "2026-09-06 12:31:41",
+    "summary": "网络上常见的热门短视频集锦   第三千四百期成为本期综合热度最高的话题，苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了紧随其后。当前覆盖 19 个有效渠道，共形成 359 个榜单时间切片；发现 12 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1573,
+        "deduplicated": 1577,
         "resonance": 12,
         "maxRise": 2,
-        "slices": 358,
+        "slices": 359,
         "coverage": 90
     },
     "topTopics": [
@@ -978,9 +978,184 @@
             ]
         },
         {
+            "word": "真的",
+            "weight": 14,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 6,
+                    "title": "全网首发！三角洲全新NPC佐拉线完结！啥也不干吹口琴的来！这个口琴真的神了！",
+                    "url": "https://b23.tv/BV1NTb76YEp1"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 49,
+                    "title": "现在做开发真的很难完全不用AI",
+                    "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%81%9A%E5%BC%80%E5%8F%91%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9A%BE%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%94%A8AI&Refer=index"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 5,
+                    "title": "Bun 真的能取代 Node.js 吗？",
+                    "url": "https://juejin.cn/post/7680899684959272970"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 44,
+                    "title": "脂肪肝真的只是“吃得太好”吗",
+                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%2220260906011540CA55C875B5BF3F9099B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 47,
+                    "title": "脂肪肝真的只是“吃得太好”吗",
+                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%22202609060222027940B7DC9919C11AA0B0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 35,
+                    "title": "脂肪肝真的只是“吃得太好”吗",
+                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%2220260906031511595267AF828FEA6FDF66%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 31,
+                    "title": "脂肪肝真的只是“吃得太好”吗",
+                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%2220260906041850566CFB2C7F0A7F77A0E6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 31,
+                    "title": "脂肪肝真的只是“吃得太好”吗",
+                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%2220260906051608FD86CA1FBC39994A4E12%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 22,
+                    "title": "脂肪肝真的只是“吃得太好”吗",
+                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%22202609060617078504FA6F780D10CBCC0F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "脂肪肝真的只是“吃得太好”吗",
+                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%22202609060716284E786C442611B7E103FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 47,
+                    "title": "脂肪肝真的只是“吃得太好”吗",
+                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%222026090609010704EEC8422E820F0FE4B0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 50,
+                    "title": "三角洲行动：113杀又怎样，该输的局真的赢不了",
+                    "url": "https://www.acfun.cn/v/ac48826826"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "三日榜",
+                    "rank": 17,
+                    "title": "说哈斯沃德是卧底？你真的看懂他了吗？",
+                    "url": "https://www.acfun.cn/v/ac48826319"
+                },
+                {
+                    "channelId": "douban",
+                    "channelName": "豆瓣",
+                    "ranking": "小组精选",
+                    "rank": 18,
+                    "title": "夏天真的结束了/上翻本合集",
+                    "url": "https://www.douban.com/group/topic/498745635/?_spm_id=MjAxNTI3NDc3"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 2,
+                    "title": "看了龙餐馆，发现沈腾演技真的不太行",
+                    "url": "https://bbs.hupu.com/642292704.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 16,
+                    "title": "明朝真的是一个挺不错的朝代？",
+                    "url": "https://bbs.hupu.com/642293252.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 57,
+                    "title": "太离谱了，查了一下竟然还是真的！",
+                    "url": "https://bbs.hupu.com/642282144.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 26,
+                    "title": "我真的会被台湾人的谐音梗笑死..​​​​",
+                    "url": "https://bbs.hupu.com/642293246.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 2,
+                    "title": "AGI，真的来了？",
+                    "url": "https://www.36kr.com/p/3969215933421190"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "拼多多购物体验真的是很恶心",
+                    "url": "https://www.v2ex.com/t/1239770"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 12,
+                    "title": "1200再出一次t-mobile 季付0刀，这次认真的，esim,来个大佬带走吧",
+                    "url": "https://www.nodeseek.com/post-914324-1"
+                }
+            ]
+        },
+        {
             "word": "世界",
             "weight": 18,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1171,7 +1346,7 @@
         {
             "word": "了一",
             "weight": 17,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1364,173 +1539,6 @@
                     "rank": 2,
                     "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
                     "url": "https://www.qbitai.com/2026/09/484683.html"
-                }
-            ]
-        },
-        {
-            "word": "真的",
-            "weight": 13,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 6,
-                    "title": "全网首发！三角洲全新NPC佐拉线完结！啥也不干吹口琴的来！这个口琴真的神了！",
-                    "url": "https://b23.tv/BV1NTb76YEp1"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 49,
-                    "title": "现在做开发真的很难完全不用AI",
-                    "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%81%9A%E5%BC%80%E5%8F%91%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9A%BE%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%94%A8AI&Refer=index"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 5,
-                    "title": "Bun 真的能取代 Node.js 吗？",
-                    "url": "https://juejin.cn/post/7680899684959272970"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 44,
-                    "title": "脂肪肝真的只是“吃得太好”吗",
-                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%2220260906011540CA55C875B5BF3F9099B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 47,
-                    "title": "脂肪肝真的只是“吃得太好”吗",
-                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%22202609060222027940B7DC9919C11AA0B0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 35,
-                    "title": "脂肪肝真的只是“吃得太好”吗",
-                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%2220260906031511595267AF828FEA6FDF66%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 31,
-                    "title": "脂肪肝真的只是“吃得太好”吗",
-                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%2220260906041850566CFB2C7F0A7F77A0E6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 31,
-                    "title": "脂肪肝真的只是“吃得太好”吗",
-                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%2220260906051608FD86CA1FBC39994A4E12%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 22,
-                    "title": "脂肪肝真的只是“吃得太好”吗",
-                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%22202609060617078504FA6F780D10CBCC0F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "脂肪肝真的只是“吃得太好”吗",
-                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%22202609060716284E786C442611B7E103FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 47,
-                    "title": "脂肪肝真的只是“吃得太好”吗",
-                    "url": "https://www.toutiao.com/trending/7681542412762906651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681542412762906651%22%2C%22hot_board_impr_id%22%3A%222026090609010704EEC8422E820F0FE4B0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%84%82%E8%82%AA%E8%82%9D%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E2%80%9C%E5%90%83%E5%BE%97%E5%A4%AA%E5%A5%BD%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7681542412762906651"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 50,
-                    "title": "三角洲行动：113杀又怎样，该输的局真的赢不了",
-                    "url": "https://www.acfun.cn/v/ac48826826"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 17,
-                    "title": "说哈斯沃德是卧底？你真的看懂他了吗？",
-                    "url": "https://www.acfun.cn/v/ac48826319"
-                },
-                {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 18,
-                    "title": "夏天真的结束了/上翻本合集",
-                    "url": "https://www.douban.com/group/topic/498745635/?_spm_id=MjAxNTI3NDc3"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 2,
-                    "title": "看了龙餐馆，发现沈腾演技真的不太行",
-                    "url": "https://bbs.hupu.com/642292704.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 16,
-                    "title": "明朝真的是一个挺不错的朝代？",
-                    "url": "https://bbs.hupu.com/642293252.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 57,
-                    "title": "太离谱了，查了一下竟然还是真的！",
-                    "url": "https://bbs.hupu.com/642282144.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 26,
-                    "title": "我真的会被台湾人的谐音梗笑死..​​​​",
-                    "url": "https://bbs.hupu.com/642293246.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 2,
-                    "title": "AGI，真的来了？",
-                    "url": "https://www.36kr.com/p/3969215933421190"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "1200再出一次t-mobile 季付0刀，这次认真的，esim,来个大佬带走吧",
-                    "url": "https://www.nodeseek.com/post-914324-1"
                 }
             ]
         },
@@ -5609,8 +5617,8 @@
             "01:15",
             "03:15",
             "06:18",
-            "09:32",
-            "12:25"
+            "10:29",
+            "12:31"
         ],
         "rows": [
             {
