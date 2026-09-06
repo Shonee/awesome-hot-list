@@ -2,19 +2,14 @@
 
 import json
 import os
-import time
 from datetime import datetime, timedelta
 from typing import Dict, Iterable, List, Mapping, Optional
 
 from src.utils.file_utils import write_json
+from src.utils.time_utils import now_string, project_now
 
 from .models import ChannelSnapshot
 from .registry import CHANNEL_ORDER, CHANNELS, ChannelDefinition
-
-
-def now_string() -> str:
-    return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-
 
 def collect_channels(
     channel_ids: Iterable[str],
@@ -77,7 +72,7 @@ def due_channel_ids(
     """
     definitions = definitions or CHANNELS
     latest = _load_latest(latest_path)
-    now = now or datetime.now()
+    now = now or project_now().replace(tzinfo=None)
     due = []
     for channel_id in channel_ids:
         previous = latest.get(channel_id, {})

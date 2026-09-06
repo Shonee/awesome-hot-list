@@ -1,27 +1,25 @@
 import unittest
 
-from src.hotlist.channels import (
-    parse_36kr,
-    parse_acfun,
-    parse_bilibili_hot_search,
-    parse_bilibili_videos,
-    parse_cnblogs,
-    parse_cls_hot_articles,
-    parse_douban,
-    parse_hupu,
-    parse_juejin,
-    parse_linuxdo,
-    parse_nodeseek,
-    parse_pojie52,
-    parse_qqnews,
-    parse_rss,
-    parse_questions,
-    parse_toutiao,
-    parse_tieba,
-    parse_weibo,
-    parse_xueqiu,
-    parse_v2ex,
-)
+from src.hotlist.channels.acfun import parse_rank as parse_acfun
+from src.hotlist.channels.bilibili import parse_hot_search as parse_bilibili_hot_search
+from src.hotlist.channels.bilibili import parse_videos as parse_bilibili_videos
+from src.hotlist.channels.cls import parse_hot_articles as parse_cls_hot_articles
+from src.hotlist.channels.cnblogs import parse_rank as parse_cnblogs
+from src.hotlist.channels.douban import parse_topics as parse_douban
+from src.hotlist.channels.hupu import parse_topics as parse_hupu
+from src.hotlist.channels.juejin import parse_articles as parse_juejin
+from src.hotlist.channels.kr36 import parse_hot as parse_36kr
+from src.hotlist.channels.linuxdo import parse_topics as parse_linuxdo
+from src.hotlist.channels.nodeseek import parse_topics as parse_nodeseek
+from src.hotlist.channels.pojie52 import parse_hot_threads as parse_pojie52
+from src.hotlist.channels.qqnews import parse_news as parse_qqnews
+from src.hotlist.channels.rss import parse_feed as parse_rss
+from src.hotlist.channels.stackoverflow import parse_questions
+from src.hotlist.channels.tieba import parse_topics as parse_tieba
+from src.hotlist.channels.toutiao import parse_hot as parse_toutiao
+from src.hotlist.channels.v2ex import parse_topics as parse_v2ex
+from src.hotlist.channels.weibo import parse_hot as parse_weibo
+from src.hotlist.channels.xueqiu import parse_topics as parse_xueqiu
 
 
 class JsonChannelParserTests(unittest.TestCase):
@@ -175,6 +173,14 @@ class MarkupParserTests(unittest.TestCase):
         html = '<a class="topic-title" href="/thread/42">NodeSeek 主题</a>'
         items = parse_nodeseek(html)
         self.assertEqual(items[0].url, "https://www.nodeseek.com/thread/42")
+
+    def test_nodeseek_parser_ignores_reply_time_links(self):
+        html = """
+        <a href="/post-914752-1">NodeSeek 正常主题</a>
+        <a href="/post-914752-7#64">2s ago</a>
+        """
+        items = parse_nodeseek(html)
+        self.assertEqual([item.title for item in items], ["NodeSeek 正常主题"])
 
     def test_qqnews_parser_reads_article_links(self):
         html = '<a href="https://news.qq.com/rain/a/20260906A">腾讯新闻标题内容</a>'

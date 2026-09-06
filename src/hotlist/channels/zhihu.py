@@ -1,12 +1,12 @@
 """Zhihu hot search and hot list adapter."""
 
 import os
-import time
 from urllib.parse import quote
 
 from bs4 import BeautifulSoup
 
 from src.utils.http_utils import get
+from src.utils.time_utils import project_now, timestamp_string
 
 from ..models import HotItem, Ranking
 from .common import snapshot, unavailable
@@ -51,7 +51,7 @@ def parse_hot_list(payload: dict) -> list[HotItem]:
                 hot=row.get("detail_text"),
                 description=target.get("excerpt") or "",
                 image_url=children[0].get("thumbnail", "") if children else "",
-                published_at=time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(target.get("created") or time.time())),
+                published_at=timestamp_string(target.get("created") or project_now().timestamp()),
             )
         )
     return items

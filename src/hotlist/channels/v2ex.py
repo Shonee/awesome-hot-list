@@ -1,9 +1,9 @@
 """V2EX hot topics adapter using its public hot-topics endpoint."""
 
-import time
 from urllib.parse import urljoin
 
 from src.utils.http_utils import get
+from src.utils.time_utils import timestamp_string
 
 from ..models import HotItem, Ranking
 from .common import snapshot
@@ -17,10 +17,7 @@ SOURCE_URL = "https://www.v2ex.com/?tab=hot"
 
 
 def _published_at(timestamp) -> str:
-    try:
-        return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(int(timestamp)))
-    except (TypeError, ValueError, OverflowError):
-        return ""
+    return timestamp_string(timestamp)
 
 
 def parse_topics(payload: list) -> list[HotItem]:

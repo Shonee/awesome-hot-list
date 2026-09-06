@@ -1,12 +1,12 @@
 """Build explainable daily reports from the existing append-only CSV archive."""
 
 import re
-import time
 from collections import Counter, defaultdict
 from datetime import datetime
 from typing import Dict, Iterable, List, Mapping
 
 from src.utils.file_utils import archive_path, read_csv
+from src.utils.time_utils import now_string
 
 from .registry import CHANNEL_ORDER, get_channel, iter_channels
 
@@ -16,7 +16,20 @@ STOP_WORDS = {
     "目前", "今天", "昨日", "表示", "回应", "视频", "热搜", "热榜", "网友",
     "热门", "网络", "发布", "可以", "进行", "相关", "常见", "为何", "中国",
     "更新", "为什么", "出来", "我的", "我们", "自己", "了吗", "数据", "展示",
+    "为什", "了一", "的是", "是在", "以及", "其中", "对于", "通过", "之后",
+    "真的", "这么",
 }
+
+
+def _is_noise_term(term: str) -> bool:
+    if (
+        len(term) < 2
+        or term.isdigit()
+        or term in STOP_WORDS
+        or not re.search(r"[0-9A-Za-z\u4e00-\u9fff]", term)
+    ):
+        return True
+    return any(term in stop_word for stop_word in STOP_WORDS if len(stop_word) > len(term))
 
 
 def _rank(value) -> int:
@@ -127,7 +140,7 @@ def _extract_keywords(records: List[tuple], limit: int = 40) -> List[tuple]:
         candidates = jieba.analyse.extract_tags("\n".join(titles), topK=limit * 3)
         for word in candidates:
             word = str(word).strip()
-            if len(word) >= 2 and word not in STOP_WORDS and not word.isdigit():
+            if not _is_noise_term(word):
                 for channel_id, title in documents:
                     if word.lower() in title.lower():
                         counts[word] += 1
@@ -142,7 +155,7 @@ def _extract_keywords(records: List[tuple], limit: int = 40) -> List[tuple]:
                         for index in range(max(0, len(segment) - width + 1))
                     )
             for term in terms:
-                if term in STOP_WORDS or term.isdigit():
+                if _is_noise_term(term):
                     continue
                 counts[term] += 1
                 channels[term].add(channel_id)
@@ -167,7 +180,16 @@ def _track_state(ranks: List[int]) -> tuple:
     if not valid:
         return "暂无变化", "steady"
     if len(valid) == 1:
+        if len(ranks) > 1 and ranks[-1] is None:
+            return "已掉榜", "dropped"
+        if len(ranks) > 1 and ranks[0] is None:
+            return "新上榜", "new"
         return "等待趋势", "pending"
+    if ranks[-1] is None:
+        return "已掉榜", "dropped"
+    first_seen = next((index for index, rank in enumerate(ranks) if rank), None)
+    if first_seen is not None and any(rank is None for rank in ranks[first_seen + 1:-1]):
+        return "重新上榜", "reentered"
     if ranks[0] is None or ranks[0] == 0:
         return "新上榜", "new"
     delta = valid[0] - valid[-1]
@@ -180,9 +202,11 @@ def _track_state(ranks: List[int]) -> tuple:
     return "稳定在榜", "steady"
 
 
-def _tenure(times: List[str]) -> str:
+def _tenure(times: List[str], observed: int | None = None) -> str:
     if not times:
         return "暂无切片"
+    if observed is not None and observed < len(times):
+        return f"在榜 {observed}/{len(times)} 个切片"
     if len(times) == 1:
         return "1 个切片"
     try:
@@ -198,6 +222,7 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
     records = []
     slices = set()
     grouped = defaultdict(list)
+    ranking_slices = defaultdict(set)
     tracks = defaultdict(
         lambda: {
             "title": "",
@@ -221,6 +246,7 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
             grouped[normalized].append((channel_id, enriched))
             ranking_name = row.get("type") or "热榜"
             slices.add((channel_id, ranking_name, when))
+            ranking_slices[(channel_id, ranking_name)].add(when)
             track = tracks[(normalized, channel_id, ranking_name)]
             track["title"] = title
             track["channelId"] = channel_id
@@ -236,9 +262,19 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
         valid_ranks = [_rank(row.get("index")) for _, row in occurrences]
         valid_ranks = [rank for rank in valid_ranks if rank]
         best_rank = min(valid_ranks) if valid_ranks else 50
-        score = len(channels) * 100 + len(occurrences) * 4 + max(0, 51 - best_rank)
+        sample_keys = {
+            (channel_id, row.get("type") or "热榜", _time_key(row, date))
+            for channel_id, row in occurrences
+        }
+        ranking_keys = {(channel_id, row.get("type") or "热榜") for channel_id, row in occurrences}
+        persistence = sum(
+            sum(1 for sample in sample_keys if sample[:2] == ranking_key)
+            / max(1, len(ranking_slices[ranking_key]))
+            for ranking_key in ranking_keys
+        ) / max(1, len(ranking_keys))
+        score = len(channels) * 10_000 + max(0, 51 - best_rank) * 100 + round(persistence * 100)
         hits = _unique_hits(occurrences)
-        latest_title = occurrences[-1][1]["title"]
+        latest_title = max(occurrences, key=lambda item: _time_key(item[1], date))[1]["title"]
         topics.append(
             {
                 "key": normalized,
@@ -253,17 +289,25 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
     topics.sort(key=lambda item: (-item["score"], item["title"]))
 
     all_times = _sample([_time_key(row, date) for _, row in records])
-    flow_rows = []
-    track_candidates = sorted(
-        tracks.items(),
-        key=lambda item: (-len(item[1]["times"]), min((rank for ranks in item[1]["times"].values() for rank in ranks if rank), default=999)),
-    )
-    for _, track in track_candidates[:5]:
-        row_times = _sample(list(track["times"]))
-        ranks = []
-        for when in row_times:
+    track_candidates = []
+    tone_priority = {"dropped": 4, "new": 4, "reentered": 4, "up": 3, "down": 3, "steady": 1, "pending": 0}
+    for _, track in tracks.items():
+        timeline = sorted(ranking_slices[(track["channelId"], track["ranking"])])
+        full_ranks = []
+        for when in timeline:
             values = [rank for rank in track["times"].get(when, []) if rank]
-            ranks.append(min(values) if values else None)
+            full_ranks.append(min(values) if values else None)
+        state, tone = _track_state(full_ranks)
+        valid = [rank for rank in full_ranks if rank]
+        movement = abs(valid[0] - valid[-1]) if len(valid) >= 2 else 0
+        track_candidates.append((tone_priority[tone], movement, len(valid), min(valid, default=999), track, timeline, full_ranks, state, tone))
+
+    track_candidates.sort(key=lambda item: (-item[0], -item[1], -item[2], item[3], item[4]["title"]))
+    flow_rows = []
+    for _, _, observed, _, track, timeline, full_ranks, state, tone in track_candidates[:5]:
+        row_times = _sample(timeline)
+        rank_by_time = dict(zip(timeline, full_ranks))
+        ranks = [rank_by_time[when] for when in row_times]
         state, tone = _track_state(ranks)
         flow_rows.append(
             {
@@ -271,7 +315,7 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
                 "query": track["title"],
                 "source": get_channel(track["channelId"]).name,
                 "ranking": track["ranking"],
-                "tenure": _tenure(sorted(track["times"])),
+                "tenure": _tenure(timeline, observed),
                 "times": [_time_label(value) for value in row_times],
                 "ranks": ranks,
                 "state": state,
@@ -294,11 +338,11 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
         )
 
     resonance = sum(1 for topic in topics if topic["channelCount"] > 1)
-    enabled_count = sum(1 for _ in iter_channels(enabled_only=True))
+    enabled_ids = {channel.channel_id for channel in iter_channels(enabled_only=True)}
     active_count = sum(1 for channel_id in CHANNEL_ORDER if rows_by_channel.get(channel_id))
     max_rise = 0
-    for row in flow_rows:
-        valid = [rank for rank in row["ranks"] if rank]
+    for _, _, _, _, _, _, ranks, _, _ in track_candidates:
+        valid = [rank for rank in ranks if rank]
         if len(valid) >= 2:
             max_rise = max(max_rise, valid[0] - valid[-1])
 
@@ -313,7 +357,7 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
                 "hits": topic["hits"],
             }
         )
-    signal_tags = {"up": "快速上升", "down": "持续下降", "steady": "持续在榜", "new": "新进入榜"}
+    signal_tags = {"up": "快速上升", "down": "持续下降", "steady": "持续在榜", "new": "新进入榜", "dropped": "已掉榜", "reentered": "重新上榜"}
     for row in flow_rows:
         if len(signals) >= 5:
             break
@@ -341,14 +385,18 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
     return {
         "schemaVersion": 1,
         "date": date,
-        "generatedAt": time.strftime("%Y-%m-%d %H:%M:%S"),
+        "generatedAt": now_string(),
         "summary": summary,
         "metrics": {
             "deduplicated": len(topics),
             "resonance": resonance,
             "maxRise": max_rise,
             "slices": len(slices),
-            "coverage": round(active_count / max(1, enabled_count) * 100),
+            "coverage": round(
+                sum(1 for channel_id in enabled_ids if rows_by_channel.get(channel_id))
+                / max(1, len(enabled_ids))
+                * 100
+            ),
         },
         "topTopics": [{key: value for key, value in topic.items() if key not in {"key", "score", "channelCount"}} for topic in topics[:10]],
         "words": words,

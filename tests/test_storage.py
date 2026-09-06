@@ -20,15 +20,18 @@ class ArchivePathTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             archive_path("douyin", "csv", "2026-13-01")
 
-    def test_append_keeps_existing_csv_columns(self):
+    def test_append_evolves_existing_csv_columns(self):
         with tempfile.TemporaryDirectory() as directory:
             path = os.path.join(directory, "data.csv")
             write_csv([{"title": "first"}], path)
-            write_csv([{"title": "second", "new_field": "ignored"}], path)
+            write_csv([{"title": "second", "new_field": "kept"}], path)
 
             self.assertEqual(
                 read_csv(path),
-                [{"title": "first"}, {"title": "second"}],
+                [
+                    {"title": "first", "new_field": ""},
+                    {"title": "second", "new_field": "kept"},
+                ],
             )
 
 

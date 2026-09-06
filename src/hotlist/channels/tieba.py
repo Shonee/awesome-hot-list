@@ -1,10 +1,10 @@
 """Baidu Tieba hot-topic adapter."""
 
-import time
 from html import unescape
 from urllib.parse import urljoin
 
 from src.utils.http_utils import get
+from src.utils.time_utils import timestamp_string
 
 from ..models import HotItem, Ranking
 from .common import snapshot
@@ -15,10 +15,7 @@ API_URL = "https://tieba.baidu.com/hottopic/browse/topicList"
 
 
 def _published_at(value) -> str:
-    try:
-        return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(int(value)))
-    except (TypeError, ValueError, OverflowError):
-        return str(value or "")
+    return timestamp_string(value, fallback=str(value or ""))
 
 
 def parse_topics(payload: dict) -> list[HotItem]:

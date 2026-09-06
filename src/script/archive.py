@@ -19,6 +19,7 @@ import subprocess
 import tarfile
 from pathlib import Path, PurePosixPath
 from typing import Iterable
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -122,7 +123,7 @@ def prepare(
         raise ValueError("retention_days must be positive")
     root = root.resolve()
     output_dir = (output_dir or root / ".archive-work").resolve()
-    today = today or dt.datetime.now().date()
+    today = today or dt.datetime.now(ZoneInfo("Asia/Shanghai")).date()
     cutoff = today - dt.timedelta(days=retention_days - 1)
     selected = []
     for path, file_date in _dated_files(root, cutoff, include_legacy=include_legacy):

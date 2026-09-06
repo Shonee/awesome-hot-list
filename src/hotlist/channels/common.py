@@ -1,17 +1,10 @@
 """Small helpers shared by channel adapters."""
 
-import time
 from html import unescape
-
-from bs4 import BeautifulSoup
 
 from ..models import ChannelSnapshot, Ranking
 from ..registry import get_channel
-
-
-def now_string() -> str:
-    return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-
+from src.utils.time_utils import now_string
 
 def snapshot(channel_id: str, rankings: list[Ranking]) -> ChannelSnapshot:
     definition = get_channel(channel_id)
@@ -41,4 +34,6 @@ def unavailable(channel_id: str, reason: str) -> ChannelSnapshot:
 def clean_html(value) -> str:
     if not value:
         return ""
+    from bs4 import BeautifulSoup
+
     return BeautifulSoup(unescape(str(value)), "html.parser").get_text(" ", strip=True)

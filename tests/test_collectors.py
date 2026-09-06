@@ -1,6 +1,8 @@
 import unittest
 from unittest.mock import call, patch
 
+import requests
+
 from src.hotlist.channels.douyin import extract_cover_url
 from src.hotlist.channels.github import collect, parse_trending
 from src.utils.http_utils import post
@@ -67,6 +69,38 @@ class HttpRequestTests(unittest.TestCase):
         self.assertEqual(result, {"ok": True})
         requests_post.assert_called_once()
         self.assertEqual(requests_post.call_args.kwargs["json"], {"page": 1})
+
+    @patch("src.utils.http_utils.time.sleep")
+    @patch("requests.get")
+    def test_get_does_not_retry_non_retryable_client_error(self, requests_get, sleep):
+        response = requests_get.return_value
+        response.status_code = 403
+
+        with self.assertRaises(requests.HTTPError):
+            from src.utils.http_utils import get
+
+            get("https://example.com/private", retries=3)
+
+        self.assertEqual(requests_get.call_count, 1)
+        sleep.assert_not_called()
+
+    @patch("src.utils.http_utils.time.sleep")
+    @patch("requests.get")
+    def test_get_retries_transient_server_error(self, requests_get, sleep):
+        failed = requests.Response()
+        failed.status_code = 503
+        failed.url = "https://example.com/api"
+        success = requests.Response()
+        success.status_code = 200
+        success._content = b"ok"
+        success.encoding = "utf-8"
+        requests_get.side_effect = [failed, success]
+
+        from src.utils.http_utils import get
+
+        self.assertEqual(get("https://example.com/api", retries=2), "ok")
+        self.assertEqual(requests_get.call_count, 2)
+        sleep.assert_called_once()
 
 
 if __name__ == "__main__":

@@ -98,6 +98,8 @@ class ChannelSnapshot:
                         "image": item.image_url,
                         "source": self.channel_name,
                         "type": ranking.name,
+                        "ranking_id": ranking.ranking_id,
+                        "published_at": item.published_at,
                         "datetime": self.fetched_at,
                     }
                 )

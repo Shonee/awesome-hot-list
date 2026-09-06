@@ -4,12 +4,11 @@
 import argparse
 from contextlib import contextmanager
 import glob
+import json
 import logging
 import os
 import re
-import shutil
 import sys
-import time
 
 
 PROJECT_ROOT = os.path.abspath(
@@ -19,14 +18,29 @@ if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
 from src.hotlist.models import ChannelSnapshot, Ranking, items_from_legacy
-from src.hotlist.registry import CHANNEL_ORDER, get_channel
+from src.hotlist.registry import CHANNEL_ORDER, get_channel, iter_channels
 from src.hotlist.report import build_report, load_rows
 from src.hotlist.runner import merge_latest_snapshot
 from src.utils.file_utils import current_date, read_csv, write_json, yesterday_date
+from src.utils.time_utils import now_string
 
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(format="%(asctime)s %(levelname)s - %(message)s", level=logging.INFO)
+
+
+def _channel_config() -> list[dict]:
+    return [
+        {
+            "channelId": channel.channel_id,
+            "name": channel.name,
+            "short": channel.short_name,
+            "color": channel.color,
+            "sourceUrl": channel.homepage,
+            "enabledByDefault": channel.enabled_by_default,
+        }
+        for channel in iter_channels()
+    ]
 
 
 @contextmanager
@@ -119,7 +133,7 @@ def _ensure_latest_snapshot(today: str, today_rows: dict, latest_path: str) -> N
                 channel_id,
                 definition.name,
                 definition.homepage,
-                time.strftime("%Y-%m-%d %H:%M:%S"),
+                now_string(),
                 "unavailable",
                 "not collected yet",
             )
@@ -151,7 +165,14 @@ def main(data_root: str = PROJECT_ROOT) -> None:
         template_path = os.path.join(PROJECT_ROOT, "src", "template", "site.html")
         output_path = os.path.join("site", "index.html")
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        shutil.copyfile(template_path, output_path)
+        with open(template_path, "r", encoding="utf-8") as file:
+            template = file.read()
+        rendered = template.replace(
+            "__HOTLIST_CHANNEL_CONFIG__",
+            json.dumps(_channel_config(), ensure_ascii=False, indent=2),
+        )
+        with open(output_path, "w", encoding="utf-8") as file:
+            file.write(rendered)
         logger.info(
             "站点已生成：%s（今日 %d 条去重热点，昨日 %d 条）",
             os.path.abspath(output_path),

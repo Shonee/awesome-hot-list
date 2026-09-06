@@ -20,6 +20,9 @@ concurrency:
 permissions:
   contents: write
 
+env:
+  TZ: Asia/Shanghai
+
 jobs:
   render:
     runs-on: ubuntu-latest

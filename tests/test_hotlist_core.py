@@ -2,7 +2,10 @@ import json
 import os
 import tempfile
 import unittest
+from types import SimpleNamespace
+from unittest.mock import patch
 
+from src.hotlist.channels import collect_channel
 from src.hotlist.models import ChannelSnapshot, HotItem, Ranking
 from src.hotlist.registry import CHANNEL_ORDER, ChannelDefinition, resolve_channels
 from src.hotlist.runner import collect_channels, merge_latest_snapshot
@@ -60,6 +63,8 @@ class HotlistModelTests(unittest.TestCase):
                     "image": "",
                     "source": "示例",
                     "type": "热榜",
+                    "ranking_id": "hot",
+                    "published_at": "",
                     "datetime": "2026-09-04 11:30:00",
                 }
             ],
@@ -94,6 +99,22 @@ class RegistryTests(unittest.TestCase):
         self.assertEqual(resolve_channels("all"), list(CHANNEL_ORDER))
         with self.assertRaises(ValueError):
             resolve_channels("unknown")
+
+
+class ChannelLoaderTests(unittest.TestCase):
+    @patch("src.hotlist.channels.import_module")
+    def test_lazy_loader_requires_snapshot_result(self, import_module):
+        import_module.return_value = SimpleNamespace(collect=lambda: "invalid")
+
+        with self.assertRaises(TypeError):
+            collect_channel("demo")
+
+    @patch("src.hotlist.channels.import_module")
+    def test_lazy_loader_returns_channel_snapshot(self, import_module):
+        snapshot = ChannelSnapshot("demo", "示例", "https://example.com", "2026-09-04 11:30:00")
+        import_module.return_value = SimpleNamespace(collect=lambda: snapshot)
+
+        self.assertIs(collect_channel("demo"), snapshot)
 
 
 class RunnerTests(unittest.TestCase):
@@ -200,6 +221,20 @@ class RunnerTests(unittest.TestCase):
         ]
 
         self.assertEqual(_exit_code_for_snapshots(snapshots), 0)
+
+    def test_all_failed_channels_return_nonzero_health_status(self):
+        snapshots = [
+            ChannelSnapshot.unavailable(
+                "demo",
+                "示例",
+                "https://example.com",
+                "2026-09-04 11:30:00",
+                "error",
+                "network down",
+            )
+        ]
+
+        self.assertEqual(_exit_code_for_snapshots(snapshots), 1)
 
 
 if __name__ == "__main__":

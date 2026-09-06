@@ -1,11 +1,11 @@
 """Cailian Press hot-news adapter using the homepage SSR payload."""
 
 import json
-import time
 
 from bs4 import BeautifulSoup
 
 from src.utils.http_utils import get
+from src.utils.time_utils import timestamp_string
 
 from ..models import HotItem, Ranking
 from .common import snapshot
@@ -16,10 +16,7 @@ DETAIL_URL = "https://www.cls.cn/detail/{}"
 
 
 def _published_at(timestamp) -> str:
-    try:
-        return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(int(timestamp)))
-    except (TypeError, ValueError, OverflowError):
-        return ""
+    return timestamp_string(timestamp)
 
 
 def _next_data(html: str) -> dict:

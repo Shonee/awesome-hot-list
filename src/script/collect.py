@@ -5,7 +5,6 @@ import argparse
 from contextlib import contextmanager
 import os
 import sys
-import time
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, os.pardir))
 if ROOT not in sys.path:
@@ -57,7 +56,7 @@ def _markdown(snapshot) -> str:
 def write_channel_archive(snapshot) -> None:
     if snapshot.status != "ok":
         return
-    date = snapshot.fetched_at[:10] or time.strftime("%Y-%m-%d")
+    date = snapshot.fetched_at[:10] or current_date()
     rows = snapshot.to_legacy_rows()
     if rows:
         write_csv(rows, archive_path(snapshot.channel_id, "csv", date), mode="append", atomic=True)
@@ -122,9 +121,9 @@ def _exit_code_for_snapshots(snapshots) -> int:
         return 0
     if any(snapshot.status == "ok" for snapshot in snapshots):
         return 0
-    if all(snapshot.status in {"disabled", "error", "stale"} for snapshot in snapshots):
+    if all(snapshot.status == "disabled" for snapshot in snapshots):
         return 0
-    return 1
+    return 1 if any(snapshot.status in {"error", "stale"} for snapshot in snapshots) else 0
 
 
 def main() -> int:

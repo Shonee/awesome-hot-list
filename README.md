@@ -91,7 +91,7 @@ GitHub Releases             超过 7 天的长期归档
 }
 ```
 
-新增渠道时只需在 `src/hotlist/channels/` 增加一个返回 `ChannelSnapshot` 的适配器，并在 `src/hotlist/channels/__init__.py` 和 `registry.py` 注册。适配器不写文件、不返回 JSON 字符串；持久化、页面和失败处理不需要复制。
+新增渠道时只需在 `src/hotlist/channels/` 增加一个与渠道 ID 同名、返回 `ChannelSnapshot` 的适配器，并在 `registry.py` 登记元数据；`36kr` 这类 ID 与 Python 模块名不一致时才需增加别名。适配器不写文件、不返回 JSON 字符串；持久化、页面配置和失败处理不需要复制。
 
 ## 本地运行
 
@@ -135,17 +135,16 @@ python3 -m http.server 4311 --directory ../awesome-hot-list-data/site
 
 然后访问 `http://127.0.0.1:4311/`。
 
-## 首次迁移到 data-pages
+## 首次初始化 data-pages
 
-迁移通过 **Bootstrap data-pages** 工作流完成，执行顺序不能颠倒：
+新 Fork 或新仓库通过 **Bootstrap data-pages** 工作流初始化运行数据分支：
 
-1. 先把包含本工作流的源码变更推送到 `master`，此时暂时保留 `master` 中原有的 `archived/` 和 `site/`。
-2. 在 GitHub 仓库进入 **Actions > Bootstrap data-pages > Run workflow**。
-3. 保持 `cleanup_master=true`。工作流先创建并验证 `data-pages`，然后才从 `master` 删除生成内容。
-4. 确认 `data-pages` 中存在 `site/index.html`、`site/data/latest.json` 和 `archived/`。
-5. 确认 **Deploy Pages** 成功，再同步工作流自动生成的 `master` 清理提交。
+1. 在 GitHub 仓库进入 **Actions > Bootstrap data-pages > Run workflow**。
+2. 工作流从 `master` 的模板渲染一个空站点，创建无父提交的 `data-pages`，并写入 `site/` 与 `archived/.gitkeep`。
+3. 确认 `data-pages` 中存在 `site/index.html`、`site/data/latest.json` 和 `site/data/reports/today.json`。
+4. 手动运行一次 **Collect hourly hotlists** 生成首批数据，再确认 **Deploy Pages** 成功。
 
-工作流可以安全重跑：如果 `data-pages` 已存在，会跳过创建并继续验证；如果 `master` 已经清理，则不会重复提交。不要在初始化完成前手动删除 `master` 的数据文件。
+工作流可以安全重跑：如果 `data-pages` 已存在，只执行远端关键文件验证。它不会修改 `master`，也不依赖源码分支中存在历史归档。
 
 ## 部署到 GitHub Pages
 

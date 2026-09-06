@@ -115,7 +115,8 @@ CHANNELS: Dict[str, ChannelDefinition] = {
         requires_env=values[5],
         frequency_minutes=CHANNEL_FREQUENCIES.get(channel_id, 60),
     )
-    for index, (channel_id, values) in enumerate(_METADATA.items(), 1)
+    for index, channel_id in enumerate(CHANNEL_ORDER, 1)
+    for values in (_METADATA[channel_id],)
 }
 
 

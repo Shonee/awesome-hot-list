@@ -24,8 +24,10 @@ import json
 import logging
 import os
 import tempfile
-from datetime import datetime, timedelta
+from datetime import datetime
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Union
+
+from src.utils.time_utils import date_string
 
 logger = logging.getLogger(__name__)
 
@@ -105,7 +107,7 @@ def archive_path(
 
 def current_date(pattern: str = "%Y-%m-%d") -> str:
     """返回当前日期字符串，默认 ``YYYY-MM-DD``。"""
-    return datetime.now().strftime(pattern)
+    return date_string(pattern=pattern)
 
 
 def _split_ym(date: str) -> Sequence[str]:
@@ -226,7 +228,8 @@ def write_csv(
     :param mode: ``append`` 追加且不重复写表头；``overwrite`` 覆盖重写
     :param fieldnames: 指定列顺序，缺省按顺序取所有行字段的并集
     :param atomic: 原子写。注意：追加模式下原子写需先读旧内容，
-        大文件场景下开销较高，默认关闭
+        大文件场景下开销较高，默认关闭。追加数据出现新列时会自动执行一次
+        原子表头升级，确保统一模型新增字段不会在升级当天丢失。
 
     行为与历史 pandas 实现对齐：LF 行尾、最小引号、None 写空字符串。
     """
@@ -240,14 +243,13 @@ def write_csv(
         if mode == "append":
             existing_header = _read_existing_header(file_path, encoding)
             if existing_header:
-                ignored = [name for name in fieldnames if name not in existing_header]
-                if ignored:
-                    logger.warning(
-                        "CSV 已有表头，忽略新增字段 %s: %s",
-                        ignored,
-                        file_path,
-                    )
-                fieldnames = existing_header
+                added = [name for name in fieldnames if name not in existing_header]
+                fieldnames = [*existing_header, *added]
+                if added:
+                    logger.info("CSV 表头新增字段 %s: %s", added, file_path)
+                    parsed = [*read_csv(file_path, encoding=encoding), *parsed]
+                    mode = "overwrite"
+                    atomic = True
 
     parsed = _legacy_coerce_rows(parsed, fieldnames)
 
@@ -355,7 +357,7 @@ def _read_existing_header(
     file_path: str,
     encoding: str = DEFAULT_ENCODING,
 ) -> Optional[List[str]]:
-    """读取已有 CSV 表头，追加时固定列数，避免新字段写坏行结构。"""
+    """读取已有 CSV 表头，供追加或表头升级使用。"""
     if not _has_content(path=file_path):
         return None
     try:
@@ -419,4 +421,4 @@ def channel_readme_path(platform: str, root: str = ARCHIVE_ROOT) -> str:
 
 def yesterday_date(pattern: str = "%Y-%m-%d") -> str:
     """返回昨天的日期字符串（默认 ``YYYY-MM-DD``）。"""
-    return (datetime.now() - timedelta(days=1)).strftime(pattern)
+    return date_string(days=-1, pattern=pattern)

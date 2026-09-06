@@ -54,18 +54,23 @@ jobs:
         run: python -m pip install -r app/src/requirements.txt
 
       - name: Collect due special channels
+        id: collect_due
         if: github.event_name == 'schedule' || inputs.force != true
+        continue-on-error: true
         run: >-
           python "$GITHUB_WORKSPACE/app/src/script/collect.py" special --due
           --data-root "$GITHUB_WORKSPACE/runtime"
 
       - name: Collect special channels on demand
+        id: collect_forced
         if: github.event_name == 'workflow_dispatch' && inputs.force == true
+        continue-on-error: true
         run: >-
           python "$GITHUB_WORKSPACE/app/src/script/collect.py" special
           --data-root "$GITHUB_WORKSPACE/runtime"
 
       - name: Commit snapshots to data-pages
+        if: always()
         run: |
           git -C runtime config user.name "github-actions[bot]"
           git -C runtime config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -77,3 +82,11 @@ jobs:
           git -C runtime commit -m "chore: update special hotlists"
           git -C runtime pull --rebase origin data-pages
           git -C runtime push origin HEAD:data-pages
+
+      - name: Enforce collection health
+        if: always()
+        run: |
+          if [ "${{ steps.collect_due.outcome }}" = "failure" ] || [ "${{ steps.collect_forced.outcome }}" = "failure" ]; then
+            echo "all attempted special channels failed; generated failure state was persisted"
+            exit 1
+          fi

@@ -57,6 +57,10 @@ DEFAULT_RETRIES = 3
 DEFAULT_BACKOFF = 1.0
 
 
+def _retryable_status(status_code: int) -> bool:
+    return status_code in {408, 425, 429} or status_code >= 500
+
+
 def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEOUT,
         retries: int = DEFAULT_RETRIES, session=None):
     """发起 GET 请求。
@@ -92,7 +96,9 @@ def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEO
             return response.json() if res_type == 'json' else response.text
         except Exception as e:  # noqa: BLE001 - 采集脚本不应因单次抖动整体崩溃
             last_error = e
-            if attempt < retries:
+            status = getattr(getattr(e, "response", None), "status_code", None)
+            should_retry = status is None or _retryable_status(status)
+            if attempt < retries and should_retry:
                 wait = DEFAULT_BACKOFF * (2 ** (attempt - 1))
                 logger.warning(
                     "请求失败(%d/%d) %s: %s，%.1fs 后重试",
@@ -101,6 +107,7 @@ def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEO
                 time.sleep(wait)
             else:
                 logger.error("请求最终失败 %s: %s", url, e)
+                break
 
     raise last_error
 
@@ -127,7 +134,9 @@ def post(url, payload=None, res_type='text', headers: dict = None,
             return response.json() if res_type == 'json' else response.text
         except Exception as exc:  # noqa: BLE001 - retry transient source failures
             last_error = exc
-            if attempt < retries:
+            status = getattr(getattr(exc, "response", None), "status_code", None)
+            should_retry = status is None or _retryable_status(status)
+            if attempt < retries and should_retry:
                 wait = DEFAULT_BACKOFF * (2 ** (attempt - 1))
                 logger.warning(
                     "请求失败(%d/%d) %s: %s，%.1fs 后重试",
@@ -136,5 +145,6 @@ def post(url, payload=None, res_type='text', headers: dict = None,
                 time.sleep(wait)
             else:
                 logger.error("请求最终失败 %s: %s", url, exc)
+                break
 
     raise last_error

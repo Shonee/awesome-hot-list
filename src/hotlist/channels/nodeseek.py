@@ -2,7 +2,7 @@
 
 import json
 import re
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit
 
 from bs4 import BeautifulSoup
 
@@ -13,6 +13,22 @@ from .common import snapshot
 
 
 SOURCE_URL = "https://www.nodeseek.com/?tab=hot"
+RELATIVE_TIME = re.compile(
+    r"^\d+\s*(?:s|m|min|h|d|w|mo|y)(?:\s+\d+\s*(?:s|m|min|h|d))?\s+ago$",
+    re.I,
+)
+
+
+def _is_topic_link(href: str, title: str) -> bool:
+    if not href or RELATIVE_TIME.fullmatch(title.strip()):
+        return False
+    parsed = urlsplit(href)
+    if parsed.fragment:
+        return False
+    return bool(
+        re.fullmatch(r"/thread/\d+/?", parsed.path)
+        or re.fullmatch(r"/post-\d+-1(?:\.html)?/?", parsed.path)
+    )
 
 
 def _json_rows(soup: BeautifulSoup) -> list[dict]:
@@ -43,8 +59,9 @@ def parse_topics(html: str) -> list[HotItem]:
     selectors = ("a.topic-title[href]", "a.post-title[href]", "a[href*='/thread/']", "a[href*='/post-']")
     for link in [link for selector in selectors for link in soup.select(selector)]:
         title = link.get_text(" ", strip=True)
-        url = urljoin(SOURCE_URL, link.get("href", ""))
-        if not title or url in seen:
+        href = link.get("href", "")
+        url = urljoin(SOURCE_URL, href)
+        if not title or not _is_topic_link(href, title) or url in seen:
             continue
         seen.add(url)
         context = link.parent.get_text(" ", strip=True) if link.parent else ""

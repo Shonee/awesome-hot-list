@@ -46,6 +46,10 @@ class DataRootTests(unittest.TestCase):
             self.assertTrue((root / "site/index.html").is_file())
             self.assertTrue((root / "site/data/latest.json").is_file())
             self.assertTrue((root / "site/data/reports/2026-09-05.json").is_file())
+            rendered = (root / "site/index.html").read_text(encoding="utf-8")
+            self.assertNotIn("__HOTLIST_CHANNEL_CONFIG__", rendered)
+            self.assertIn('"channelId": "tieba"', rendered)
+            self.assertIn("https://github.com/Shonee/awesome-hot-list", rendered)
 
 
 class WorkflowContractTests(unittest.TestCase):
@@ -64,11 +68,24 @@ class WorkflowContractTests(unittest.TestCase):
                 with self.subTest(workflow=filename, value=value):
                     self.assertIn(value, content)
 
+    def test_daily_render_uses_project_timezone(self):
+        content = Path(".github/workflows/render-daily.yml").read_text(encoding="utf-8")
+        self.assertIn("TZ: Asia/Shanghai", content)
+
+    def test_collection_workflows_persist_before_health_gate(self):
+        workflow_root = Path(".github/workflows")
+        for filename in ("collect-hourly.yml", "collect-special.yml"):
+            content = (workflow_root / filename).read_text(encoding="utf-8")
+            with self.subTest(workflow=filename):
+                self.assertIn("continue-on-error: true", content)
+                self.assertIn("Enforce collection health", content)
+
     def test_bootstrap_workflow_exists(self):
         content = Path(".github/workflows/bootstrap-data-pages.yml").read_text(encoding="utf-8")
         self.assertIn("git switch --orphan data-pages", content)
         self.assertIn("git rm -rf --ignore-unmatch .", content)
-        self.assertIn("git rm -r archived site", content)
+        self.assertIn("src/script/render.py", content)
+        self.assertNotIn("cleanup_master", content)
 
 
 if __name__ == "__main__":

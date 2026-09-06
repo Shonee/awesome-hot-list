@@ -2,12 +2,6 @@ name: Bootstrap data-pages
 
 on:
   workflow_dispatch:
-    inputs:
-      cleanup_master:
-        description: "Remove generated archived/ and site/ files from master after data-pages is verified"
-        required: true
-        default: true
-        type: boolean
 
 concurrency:
   group: hotlist-repository-writer
@@ -20,15 +14,25 @@ jobs:
   bootstrap:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    env:
-      DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
-
     steps:
-      - name: Checkout source with current generated data
+      - name: Checkout source
         uses: actions/checkout@v7
         with:
           ref: ${{ github.event.repository.default_branch }}
           fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: src/requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install -r src/requirements.txt
+
+      - name: Render initial empty site
+        run: python src/script/render.py --data-root "$RUNNER_TEMP/hotlist-runtime"
 
       - name: Create data-pages when absent
         run: |
@@ -38,20 +42,16 @@ jobs:
             exit 0
           fi
 
-          test -s site/index.html
-          test -s site/data/latest.json
-          test -d archived
           source_commit="$(git rev-parse HEAD)"
-          snapshot_dir="$(mktemp -d)"
-          cp -a archived site "$snapshot_dir/"
-
           git switch --orphan data-pages
           git rm -rf --ignore-unmatch .
-          cp -a "$snapshot_dir/archived" "$snapshot_dir/site" .
-          git add archived site
+          cp -a "$RUNNER_TEMP/hotlist-runtime/site" .
+          mkdir -p archived
+          touch archived/.gitkeep
+          git add archived/.gitkeep site
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: initialize data-pages from $source_commit"
+          git commit -m "chore: initialize empty data-pages from $source_commit"
           git push origin HEAD:data-pages
 
       - name: Verify data-pages
@@ -60,20 +60,4 @@ jobs:
           git fetch origin data-pages
           test -n "$(git ls-tree -r --name-only origin/data-pages -- site/index.html)"
           test -n "$(git ls-tree -r --name-only origin/data-pages -- site/data/latest.json)"
-          test -n "$(git ls-tree -r --name-only origin/data-pages -- archived)"
-
-      - name: Remove generated files from master
-        if: inputs.cleanup_master == true
-        run: |
-          set -euo pipefail
-          git fetch origin "$DEFAULT_BRANCH"
-          git switch -C "$DEFAULT_BRANCH" "origin/$DEFAULT_BRANCH"
-          if [ -z "$(git ls-files archived site)" ]; then
-            echo "master already contains source files only"
-            exit 0
-          fi
-          git rm -r archived site
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: move generated data to data-pages"
-          git push origin "HEAD:$DEFAULT_BRANCH"
+          test -n "$(git ls-tree -r --name-only origin/data-pages -- site/data/reports/today.json)"

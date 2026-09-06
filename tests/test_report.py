@@ -1,9 +1,23 @@
 import unittest
 
-from src.hotlist.report import build_report_from_rows
+from src.hotlist.report import _extract_keywords, build_report_from_rows
 
 
 class ReportBuilderTests(unittest.TestCase):
+    def test_cross_channel_topic_outranks_repeated_single_channel_topic(self):
+        rows = {
+            "acfun": [
+                {"index": 1, "title": "单渠道重复热点", "url": "https://a.example/1", "type": "日榜", "datetime": f"2026-09-04 {hour:02d}:00:00"}
+                for hour in range(10)
+            ],
+            "weibo": [{"index": 8, "title": "跨渠道共同热点", "url": "https://w.example/1", "type": "热榜", "datetime": "2026-09-04 12:00:00"}],
+            "toutiao": [{"index": 9, "title": "跨渠道共同热点", "url": "https://t.example/1", "type": "热榜", "datetime": "2026-09-04 12:00:00"}],
+        }
+
+        report = build_report_from_rows("2026-09-04", rows)
+
+        self.assertEqual(report["topTopics"][0]["title"], "跨渠道共同热点")
+
     def test_report_deduplicates_titles_and_keeps_click_targets(self):
         rows = {
             "bilibili": [
@@ -97,6 +111,73 @@ class ReportBuilderTests(unittest.TestCase):
         self.assertEqual(curve["tone"], "pending")
         self.assertEqual(curve["tenure"], "1 个切片")
         self.assertEqual(report["signals"], [])
+
+    def test_report_marks_missing_later_slice_as_dropped(self):
+        rows = {
+            "weibo": [
+                {"index": 2, "title": "稍后掉榜的热点", "url": "https://w.example/1", "type": "热榜", "datetime": "2026-09-04 09:00:00"},
+                {"index": 1, "title": "替代热点事件", "url": "https://w.example/2", "type": "热榜", "datetime": "2026-09-04 12:00:00"},
+            ]
+        }
+
+        report = build_report_from_rows("2026-09-04", rows)
+        curve = next(row for row in report["flow"]["rows"] if row["topic"] == "稍后掉榜的热点")
+
+        self.assertEqual(curve["times"], ["09:00", "12:00"])
+        self.assertEqual(curve["ranks"], [2, None])
+        self.assertEqual(curve["tone"], "dropped")
+
+    def test_report_marks_missing_earlier_slice_as_new(self):
+        rows = {
+            "weibo": [
+                {"index": 1, "title": "原有热点事件", "url": "https://w.example/1", "type": "热榜", "datetime": "2026-09-04 09:00:00"},
+                {"index": 2, "title": "后来新进热点", "url": "https://w.example/2", "type": "热榜", "datetime": "2026-09-04 12:00:00"},
+            ]
+        }
+
+        report = build_report_from_rows("2026-09-04", rows)
+        curve = next(row for row in report["flow"]["rows"] if row["topic"] == "后来新进热点")
+
+        self.assertEqual(curve["ranks"], [None, 2])
+        self.assertEqual(curve["tone"], "new")
+
+    def test_report_marks_topic_returning_after_gap_as_reentered(self):
+        rows = {
+            "weibo": [
+                {"index": 2, "title": "重新进入榜单热点", "url": "https://w.example/1", "type": "热榜", "datetime": "2026-09-04 09:00:00"},
+                {"index": 1, "title": "中间替代热点", "url": "https://w.example/2", "type": "热榜", "datetime": "2026-09-04 10:00:00"},
+                {"index": 3, "title": "重新进入榜单热点", "url": "https://w.example/1", "type": "热榜", "datetime": "2026-09-04 11:00:00"},
+            ]
+        }
+
+        report = build_report_from_rows("2026-09-04", rows)
+        curve = next(row for row in report["flow"]["rows"] if row["topic"] == "重新进入榜单热点")
+
+        self.assertEqual(curve["ranks"], [2, None, 3])
+        self.assertEqual(curve["tone"], "reentered")
+
+    def test_keyword_extraction_filters_stop_word_fragments(self):
+        records = [
+            ("weibo", {"title": "为什么新品发布了一天就更新"}),
+            ("toutiao", {"title": "为什么新品发布了一天就更新"}),
+            ("github", {"title": "..."}),
+        ]
+
+        words = {word for word, _ in _extract_keywords(records)}
+
+        self.assertNotIn("为什", words)
+        self.assertNotIn("了一", words)
+        self.assertNotIn("...", words)
+
+    def test_coverage_never_exceeds_one_hundred_percent(self):
+        rows = {
+            channel_id: [{"index": 1, "title": f"{channel_id} 热点内容", "url": f"https://example.com/{channel_id}"}]
+            for channel_id in ("bilibili", "zhihu", "maimai", "xueqiu", "linuxdo")
+        }
+
+        report = build_report_from_rows("2026-09-04", rows)
+
+        self.assertLessEqual(report["metrics"]["coverage"], 100)
 
 
 if __name__ == "__main__":

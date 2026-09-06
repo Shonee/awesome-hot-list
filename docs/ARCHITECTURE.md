@@ -77,16 +77,16 @@ Release tag 不指向 `data-pages`，否则 tag 会继续保留已经压缩掉�
 
 手动 `dry_run` 只执行选择、打包和本地校验，不发布 Release、不清理文件、不重写分支。任何上传、下载校验、远端分支一致性或文件哈希检查失败，后续清理和压缩都不会执行。
 
-## 首次迁移
+## 首次初始化
 
-`bootstrap-data-pages.yml` 负责一次性迁移：
+`bootstrap-data-pages.yml` 负责为新 Fork 创建运行数据分支：
 
-1. 从尚未清理的 `master` 复制当前 `archived/` 和 `site/`。
-2. 创建没有父提交的 `data-pages`。
-3. 从远端读取新分支并检查关键文件。
-4. 只有验证成功且 `cleanup_master=true` 时，才从 `master` 删除生成内容。
+1. 安装与正式采集相同的 Python 依赖。
+2. 从 `master` 的页面模板和渠道注册表渲染空站点。
+3. 创建没有父提交的 `data-pages`，写入 `site/` 和 `archived/.gitkeep`。
+4. 从远端读取新分支并检查页面、最新快照和今日报告。
 
-该工作流可以在“数据分支已经创建，但源码分支清理失败”的情况下重跑。迁移完成后，`master` 的 `.gitignore` 防止本地运行产物被重新加入源码分支。
+如果 `data-pages` 已存在，工作流只执行验证。它不修改 `master`，也不要求源码分支携带任何历史运行数据。
 
 ## 页面部署
 
