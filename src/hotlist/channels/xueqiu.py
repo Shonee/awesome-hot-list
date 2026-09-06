@@ -3,7 +3,7 @@
 import requests
 
 from ..models import HotItem, Ranking
-from .common import snapshot
+from .common import snapshot, unavailable
 
 
 API_URL = "https://xueqiu.com/hot_event/list.json?count=10"
@@ -25,7 +25,15 @@ def parse_topics(payload: dict) -> list[HotItem]:
 def collect() -> "ChannelSnapshot":
     session = requests.Session()
     headers = {"User-Agent": "Mozilla/5.0", "Referer": "https://xueqiu.com/"}
-    session.get("https://xueqiu.com/", headers=headers, timeout=15).raise_for_status()
-    response = session.get(API_URL, headers={**headers, "X-Requested-With": "XMLHttpRequest"}, timeout=15)
-    response.raise_for_status()
-    return snapshot("xueqiu", [Ranking("hot", "热门话题", parse_topics(response.json()), SOURCE_URL)])
+    try:
+        session.get("https://xueqiu.com/", headers=headers, timeout=15).raise_for_status()
+        response = session.get(API_URL, headers={**headers, "X-Requested-With": "XMLHttpRequest"}, timeout=15)
+        response.raise_for_status()
+        payload = response.json()
+    except (requests.RequestException, ValueError) as exc:
+        return unavailable("xueqiu", f"xueqiu API unavailable: {exc}")
+
+    topics = parse_topics(payload)
+    if not topics:
+        return unavailable("xueqiu", "xueqiu API returned no usable items")
+    return snapshot("xueqiu", [Ranking("hot", "热门话题", topics, SOURCE_URL)])
