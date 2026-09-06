@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-06 07:17:00
+> 更新时间：2026-09-06 08:53:45
 
 ## 少数派
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [互联网最古老的恐惧，被 AI 复活了](http://www.geekpark.net/news/369873)
-2. [传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元](http://www.geekpark.net/news/369871)
-3. [对话 Sharpa 李一帆：通用机器人要么全能，要么无能](http://www.geekpark.net/news/369851)
-4. [梅卡曼德上市，具身智能又跑出一家百亿公司](http://www.geekpark.net/news/369850)
-5. [OpenAI 曝光 GPT-6，能力超群；微信公关总监回应「好友超 1 万可查看单删好友」；联合国：超强而厄尔尼诺将冲击全球经济 ｜ 极客早知道](http://www.geekpark.net/news/369801)
+1. [传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站](http://www.geekpark.net/news/369875)
+2. [互联网最古老的恐惧，被 AI 复活了](http://www.geekpark.net/news/369873)
+3. [传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元](http://www.geekpark.net/news/369871)
+4. [对话 Sharpa 李一帆：通用机器人要么全能，要么无能](http://www.geekpark.net/news/369851)
+5. [梅卡曼德上市，具身智能又跑出一家百亿公司](http://www.geekpark.net/news/369850)
 
 ## MIT Technology Review
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
-2. [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html)
-3. [America's Two Largest School Districts Impose AI Moratoriums](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
+1. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+2. [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
+3. [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 4. [South African diamond mines are closing due to weak sales and lab-grown stones](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
-5. [How AI is breaking the British state](https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state)
+5. [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+
+## AI News
+
+1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
+5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
 
 ## 阮一峰网络日志
 
