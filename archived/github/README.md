@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-06 08:52:18
+> 更新时间：2026-09-06 15:28:31
 
 ## 每日趋势
 
@@ -65,10 +65,11 @@
 16. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 17. [modular](https://github.com/modular/modular)
 18. [maka](https://github.com/apache/maka)
-19. [manim](https://github.com/3b1b/manim)
-20. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-21. [public-apis](https://github.com/public-apis/public-apis)
-22. [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+19. [ai-memory](https://github.com/akitaonrails/ai-memory)
+20. [manim](https://github.com/3b1b/manim)
+21. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+22. [public-apis](https://github.com/public-apis/public-apis)
+23. [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
 ## Java
 

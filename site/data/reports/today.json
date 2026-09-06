@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-06",
-    "generatedAt": "2026-09-06 15:21:27",
-    "summary": "网络上常见的热门短视频集锦   第三千四百一十一期成为本期综合热度最高的话题，喜欢姐姐吗？★手机竖屏1991★紧随其后。当前覆盖 19 个有效渠道，共形成 447 个榜单时间切片；发现 19 个跨渠道重复热点。",
+    "generatedAt": "2026-09-06 15:28:41",
+    "summary": "网络上常见的热门短视频集锦   第三千四百一十一期成为本期综合热度最高的话题，喜欢姐姐吗？★手机竖屏1991★紧随其后。当前覆盖 19 个有效渠道，共形成 455 个榜单时间切片；发现 19 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1890,
+        "deduplicated": 1891,
         "resonance": 19,
         "maxRise": 0,
-        "slices": 447,
+        "slices": 455,
         "coverage": 90
     },
     "topTopics": [
@@ -689,6 +689,14 @@
                     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 19,
+                    "title": "ai-memory",
+                    "url": "https://github.com/akitaonrails/ai-memory"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -767,14 +775,6 @@
                     "rank": 44,
                     "title": "WorkBuddy 入门4：让 AI 替我每天领 100 积分",
                     "url": "https://juejin.cn/post/7680770838016262195"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 49,
-                    "title": "我用 Next.js + React Flow 从零搭建了一个可视化 AI 工作流编排平台",
-                    "url": "https://juejin.cn/post/7681151526543261722"
                 }
             ]
         },
@@ -6641,8 +6641,8 @@
             "01:15",
             "04:19",
             "08:53",
-            "12:24",
-            "15:21"
+            "12:25",
+            "15:28"
         ],
         "rows": [
             {
