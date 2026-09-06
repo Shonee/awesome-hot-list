@@ -93,11 +93,21 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
+def _exit_code_for_snapshots(snapshots) -> int:
+    if not snapshots:
+        return 0
+    if any(snapshot.status == "ok" for snapshot in snapshots):
+        return 0
+    if all(snapshot.status in {"disabled", "error", "stale"} for snapshot in snapshots):
+        return 0
+    return 1
+
+
 def main() -> int:
     load_dotenv()
     args = build_parser().parse_args()
     snapshots = run(args.channels, args.latest_path, due_only=args.due)
-    return 0 if not snapshots or any(snapshot.status == "ok" for snapshot in snapshots) else 1
+    return _exit_code_for_snapshots(snapshots)
 
 
 if __name__ == "__main__":

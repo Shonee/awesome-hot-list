@@ -6,6 +6,7 @@ import unittest
 from src.hotlist.models import ChannelSnapshot, HotItem, Ranking
 from src.hotlist.registry import CHANNEL_ORDER, ChannelDefinition, resolve_channels
 from src.hotlist.runner import collect_channels, merge_latest_snapshot
+from src.script.collect import _exit_code_for_snapshots
 
 
 class HotlistModelTests(unittest.TestCase):
@@ -171,6 +172,28 @@ class RunnerTests(unittest.TestCase):
             self.assertEqual(channel["fetchedAt"], "2026-09-04 10:00:00")
             self.assertEqual(channel["rankings"][0]["items"][0]["title"], "旧数据")
             self.assertEqual(channel["checkedAt"], "2026-09-04 11:00:00")
+
+    def test_disabled_channels_are_treated_as_noop_success(self):
+        snapshots = [
+            ChannelSnapshot.unavailable(
+                "zhihu",
+                "知乎",
+                "https://www.zhihu.com/hot",
+                "2026-09-04 11:30:00",
+                "disabled",
+                "missing ZHIHU_COOKIE",
+            ),
+            ChannelSnapshot.unavailable(
+                "xueqiu",
+                "雪球",
+                "https://xueqiu.com/today",
+                "2026-09-04 11:31:00",
+                "disabled",
+                "xueqiu API unavailable: 400 Client Error",
+            ),
+        ]
+
+        self.assertEqual(_exit_code_for_snapshots(snapshots), 0)
 
 
 if __name__ == "__main__":
