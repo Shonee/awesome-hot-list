@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-06 14:31:36
+> 更新时间：2026-09-06 15:20:34
 
 ## 热门文章
 
@@ -19,8 +19,8 @@
 13. [天才陨落了！三大 AI 集体不可用！](https://juejin.cn/post/7681160462331772969)
 14. [Flutter A2UI 深度解析，它是怎么提供动态生产力的，然后为什么 A2UI 不只是 Flutter](https://juejin.cn/post/7680465299678314538)
 15. [Rslib 1.0 正式发布：面向多场景的 JavaScript 库开发工具](https://juejin.cn/post/7681133923887824948)
-16. [面试官让我用 AI 重构一个 8 年陈的 React 组件——他说他不看代码，只看我会不会拆](https://juejin.cn/post/7680812218214072354)
-17. [🎮 豆包完胜 DeepSeek ？！零玩家竞技场，AI Agent 专属对弈！](https://juejin.cn/post/7680833230097481763)
+16. [🎮 豆包完胜 DeepSeek ？！零玩家竞技场，AI Agent 专属对弈！](https://juejin.cn/post/7680833230097481763)
+17. [面试官让我用 AI 重构一个 8 年陈的 React 组件——他说他不看代码，只看我会不会拆](https://juejin.cn/post/7680812218214072354)
 18. [别卷CRUD了！前端用Next.js+LangChain.js，低成本冲进AI高薪赛道](https://juejin.cn/post/7681252693901885478)
 19. [日常修改，3秒生效：腾讯音乐 Android 秒编方案 Jugg 开源](https://juejin.cn/post/7680996030843125796)
 20. [从 Token 到蒸馏：一步步理解大模型如何工作](https://juejin.cn/post/7681213028792500287)
@@ -46,11 +46,11 @@
 40. [我用 Next.js + React Flow 从零搭建了一个可视化 AI 工作流编排平台](https://juejin.cn/post/7681151526543261722)
 41. [别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成"自来水"](https://juejin.cn/post/7681142626944450614)
 42. [Redis缓存雪崩把我坑惨了，这次长记性了](https://juejin.cn/post/7681138712660197391)
-43. [GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过](https://juejin.cn/post/7681969753800523795)
-44. [🚍 一条 Todo 的奇幻漂流：TypeScript 全栈类型安全的"护照检查"](https://juejin.cn/post/7681708808126447643)
-45. [VS Code 的 AI Chat 现在已经这么能干了？](https://juejin.cn/post/7681411791894003766)
-46. [Electron应用的8种防护方式](https://juejin.cn/post/7681296375862886463)
-47. [WorkBuddy 开放平台详解：五大核心能力、API 接入与竞品定位](https://juejin.cn/post/7681286465167786027)
-48. [深入解构Claude Code - 第 12 篇 · 整体串起来](https://juejin.cn/post/7681161304783110182)
-49. [32GB 显存，凭什么跑 56GB 大模型？从 Shared Memory 到 AI 异构内存架构](https://juejin.cn/post/7681142626944942134)
-50. [DeepSeek Harness 架构解析](https://juejin.cn/post/7681142626944925750)
+43. [SpringBoot Event事件机制，轻松实现业务解耦](https://juejin.cn/post/7680757400488607780)
+44. [GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过](https://juejin.cn/post/7681969753800523795)
+45. [🚍 一条 Todo 的奇幻漂流：TypeScript 全栈类型安全的"护照检查"](https://juejin.cn/post/7681708808126447643)
+46. [AI 说话越来越难懂？Anthropic 员工都在用 ELI5 这个图解 Skill](https://juejin.cn/post/7681574954577281076)
+47. [VS Code 的 AI Chat 现在已经这么能干了？](https://juejin.cn/post/7681411791894003766)
+48. [Electron应用的8种防护方式](https://juejin.cn/post/7681296375862886463)
+49. [WorkBuddy 开放平台详解：五大核心能力、API 接入与竞品定位](https://juejin.cn/post/7681286465167786027)
+50. [深入解构Claude Code - 第 12 篇 · 整体串起来](https://juejin.cn/post/7681161304783110182)
