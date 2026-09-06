@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-06 10:29:15
+> 更新时间：2026-09-06 11:25:03
 
 ## 最新资讯
 
-1. [联想 2026 款扬天 V14 笔记本新增“锐龙 5 40U + 8G + 512G”版本，4799 元](https://www.ithome.com/0/998/894.htm)
-2. [vivo X500 系列手机开启预约：Pro Max 机型首发 2nm 天玑 9600 Pro 处理器、支持原子工作台功能](https://www.ithome.com/0/998/893.htm)
-3. [OPPO 卓世杰透露 Find X10 系列手机将新增色盘功能，支持独门人像肤色保护](https://www.ithome.com/0/998/892.htm)
-4. [可换电池版的欧版任天堂 Switch 2 游戏机悄然现身，重量、续航变了](https://www.ithome.com/0/998/891.htm)
-5. [狼蛛 NOVA98 系列机械键盘新增“桃雾粉”“尘雾白”配色上市，409 元起](https://www.ithome.com/0/998/889.htm)
+1. [China GT 上海站发生赛车撞击起火重大事故，魅影车队 79 号车手现场救援视频流出](https://www.ithome.com/0/998/907.htm)
+2. [飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右](https://www.ithome.com/0/998/906.htm)
+3. [HORI 公布《赛博朋克 2077》主题 Switch 2 手柄与斜挎单肩包](https://www.ithome.com/0/998/905.htm)
+4. [V 社有望为 Steam Frame 头显引入彩色透视模块，作为升级套件单独发售](https://www.ithome.com/0/998/904.htm)
+5. [国漫《武动乾坤第七季》宣布接档《斗破苍穹》回归，首播时间待定](https://www.ithome.com/0/998/903.htm)
