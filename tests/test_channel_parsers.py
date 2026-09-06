@@ -5,13 +5,19 @@ from src.hotlist.channels import (
     parse_acfun,
     parse_bilibili_hot_search,
     parse_bilibili_videos,
+    parse_cnblogs,
     parse_cls_hot_articles,
     parse_douban,
     parse_hupu,
     parse_juejin,
+    parse_linuxdo,
+    parse_nodeseek,
+    parse_pojie52,
+    parse_qqnews,
     parse_rss,
     parse_questions,
     parse_toutiao,
+    parse_tieba,
     parse_weibo,
     parse_xueqiu,
     parse_v2ex,
@@ -128,6 +134,39 @@ class JsonChannelParserTests(unittest.TestCase):
 
 
 class MarkupParserTests(unittest.TestCase):
+    def test_cnblogs_parser_reads_recommended_articles(self):
+        html = '<a class="post-item-title" href="/author/p/123">博客园文章</a>'
+        items = parse_cnblogs(html)
+        self.assertEqual(items[0].title, "博客园文章")
+        self.assertEqual(items[0].url, "https://www.cnblogs.com/author/p/123")
+
+    def test_pojie_parser_reads_hot_threads(self):
+        html = '<a class="xst" href="thread-123-1-1.html">吾爱热帖</a>'
+        items = parse_pojie52(html)
+        self.assertEqual(items[0].title, "吾爱热帖")
+        self.assertEqual(items[0].url, "https://www.52pojie.cn/thread-123-1-1.html")
+
+    def test_tieba_parser_reads_topic_payload(self):
+        items = parse_tieba({"data": [{"topic_name": "贴吧热议", "topic_url": "/p/1", "discuss_num": 99}]})
+        self.assertEqual(items[0].title, "贴吧热议")
+        self.assertEqual(items[0].hot, 99)
+        self.assertEqual(items[0].url, "https://tieba.baidu.com/p/1")
+
+    def test_linuxdo_parser_reads_discourse_topics(self):
+        items = parse_linuxdo({"topic_list": {"topics": [{"id": 7, "slug": "hello", "title": "Linux 主题", "posts_count": 4}]}})
+        self.assertEqual(items[0].url, "https://linux.do/t/hello/7")
+        self.assertEqual(items[0].hot, 4)
+
+    def test_nodeseek_parser_reads_topic_markup(self):
+        html = '<a class="topic-title" href="/thread/42">NodeSeek 主题</a>'
+        items = parse_nodeseek(html)
+        self.assertEqual(items[0].url, "https://www.nodeseek.com/thread/42")
+
+    def test_qqnews_parser_reads_article_links(self):
+        html = '<a href="https://news.qq.com/rain/a/20260906A">腾讯新闻标题内容</a>'
+        items = parse_qqnews(html)
+        self.assertEqual(items[0].title, "腾讯新闻标题内容")
+
     def test_rss_parser_supports_rss_and_atom_links(self):
         rss = """<?xml version="1.0"?><rss><channel><title>测试源</title><item>
         <title>RSS 新闻</title><link>https://example.com/rss</link><description>摘要</description>

@@ -1,0 +1,36 @@
+name: Check channel network access
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: python -m pip install -r src/requirements.txt
+      - name: Probe public endpoints
+        id: probe
+        run: python src/script/check_channel_network.py 2>&1 | tee channel-network-check.txt
+      - name: Write probe summary
+        if: always()
+        run: |
+          {
+            echo "## 新增渠道网络探测"
+            echo
+            echo '```text'
+            cat channel-network-check.txt
+            echo '```'
+            echo
+            echo "失败只表示 GitHub runner 当前不可达，不自动启用 Playwright。"
+          } >> "$GITHUB_STEP_SUMMARY"

@@ -1,6 +1,7 @@
 """Hupu hot-topic adapter using the mobile SSR payload."""
 
 import json
+import logging
 
 from urllib.parse import urljoin
 
@@ -13,6 +14,8 @@ from .common import snapshot
 
 
 SOURCE_URL = "https://m.hupu.com/hot"
+WALK_STREET_URL = "https://bbs.hupu.com/all-gambia"
+logger = logging.getLogger(__name__)
 
 
 def parse_topics(html: str) -> list[HotItem]:
@@ -42,4 +45,11 @@ def parse_topics(html: str) -> list[HotItem]:
 
 
 def collect() -> "ChannelSnapshot":
-    return snapshot("hupu", [Ranking("community", "步行街热帖", parse_topics(get(SOURCE_URL)), SOURCE_URL)])
+    rankings = [Ranking("hot", "虎扑热榜", parse_topics(get(SOURCE_URL)), SOURCE_URL)]
+    try:
+        walk_items = parse_topics(get(WALK_STREET_URL, timeout=12, retries=1))
+        if walk_items:
+            rankings.append(Ranking("walk-street", "步行街热帖", walk_items, WALK_STREET_URL))
+    except Exception as exc:  # noqa: BLE001 - the main Hupu board remains useful
+        logger.warning("虎扑步行街请求失败: %s", exc)
+    return snapshot("hupu", rankings)

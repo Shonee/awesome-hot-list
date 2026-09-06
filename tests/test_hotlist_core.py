@@ -74,7 +74,8 @@ class RegistryTests(unittest.TestCase):
                 "bilibili", "douyin", "weibo", "zhihu", "github",
                 "juejin", "toutiao", "acfun", "ithome", "douban", "hupu",
                 "36kr", "tonghuashun", "maimai", "xueqiu", "v2ex",
-                "stackoverflow", "cls", "rss",
+                "stackoverflow", "cls", "cnblogs", "linuxdo", "nodeseek",
+                "pojie52", "qqnews", "tieba", "rss",
             ),
         )
 
