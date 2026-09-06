@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-06 09:32:25
+> 更新时间：2026-09-06 10:29:15
 
 ## 最新资讯
 
-1. [芯展速 PCIe Gen6 重定时器 GE6216 上市，16 通道设计](https://www.ithome.com/0/998/881.htm)
-2. [努比亚倪飞：NaviX Ultra 手机全系 512GB 起步，信得过国产存储之光长鑫](https://www.ithome.com/0/998/880.htm)
-3. [绿联发布家庭 AIoT 中枢 HomeAgent，至高可选 Jetson Thor T5000](https://www.ithome.com/0/998/879.htm)
-4. [联通反诈大模型揪出涉诈 VOIP 黑盒，如有可疑人员不请自来“维修网络”要警惕](https://www.ithome.com/0/998/877.htm)
-5. [铭凡预热 MS-S1 MAX-P495：价格达 7000 美元](https://www.ithome.com/0/998/876.htm)
+1. [联想 2026 款扬天 V14 笔记本新增“锐龙 5 40U + 8G + 512G”版本，4799 元](https://www.ithome.com/0/998/894.htm)
+2. [vivo X500 系列手机开启预约：Pro Max 机型首发 2nm 天玑 9600 Pro 处理器、支持原子工作台功能](https://www.ithome.com/0/998/893.htm)
+3. [OPPO 卓世杰透露 Find X10 系列手机将新增色盘功能，支持独门人像肤色保护](https://www.ithome.com/0/998/892.htm)
+4. [可换电池版的欧版任天堂 Switch 2 游戏机悄然现身，重量、续航变了](https://www.ithome.com/0/998/891.htm)
+5. [狼蛛 NOVA98 系列机械键盘新增“桃雾粉”“尘雾白”配色上市，409 元起](https://www.ithome.com/0/998/889.htm)
