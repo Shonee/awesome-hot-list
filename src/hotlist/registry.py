@@ -98,7 +98,7 @@ _METADATA = {
     "nodeseek": ("NodeSeek", "N", "#4e6e8e", "https://www.nodeseek.com/?tab=hot", True, ()),
     "pojie52": ("吾爱破解", "吾", "#c44c42", "https://www.52pojie.cn/forum.php?mod=guide&view=hot", True, ()),
     "qqnews": ("腾讯新闻", "腾", "#1769aa", "https://news.qq.com/", True, ()),
-    "tieba": ("百度贴吧", "贴", "#2f76c7", "https://tieba.baidu.com/hottopic/browse/topicList", True, ()),
+    "tieba": ("百度贴吧", "贴", "#2f76c7", "https://tieba.baidu.com/", True, ()),
 }
 
 

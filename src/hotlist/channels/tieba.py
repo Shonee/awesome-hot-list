@@ -1,6 +1,7 @@
 """Baidu Tieba hot-topic adapter."""
 
 import time
+from html import unescape
 from urllib.parse import urljoin
 
 from src.utils.http_utils import get
@@ -9,7 +10,8 @@ from ..models import HotItem, Ranking
 from .common import snapshot
 
 
-SOURCE_URL = "https://tieba.baidu.com/hottopic/browse/topicList"
+HOMEPAGE_URL = "https://tieba.baidu.com/"
+API_URL = "https://tieba.baidu.com/hottopic/browse/topicList"
 
 
 def _published_at(value) -> str:
@@ -22,7 +24,11 @@ def _published_at(value) -> str:
 def parse_topics(payload: dict) -> list[HotItem]:
     data = payload.get("data") if isinstance(payload, dict) else []
     if isinstance(data, dict):
-        data = data.get("topic_list") or data.get("topics") or data.get("list") or []
+        bang_topic = data.get("bang_topic")
+        if isinstance(bang_topic, dict):
+            data = bang_topic.get("topic_list") or []
+        else:
+            data = data.get("topic_list") or data.get("topics") or data.get("list") or []
     items = []
     seen = set()
     for row in data or []:
@@ -33,11 +39,15 @@ def parse_topics(payload: dict) -> list[HotItem]:
         if not title or title in seen:
             continue
         seen.add(title)
+        rank = row.get("idx_num")
+        if not isinstance(rank, int) or rank < 1:
+            rank = len(items) + 1
         items.append(HotItem(
-            len(items) + 1,
+            rank,
             title,
-            urljoin("https://tieba.baidu.com/", str(url)),
+            urljoin(HOMEPAGE_URL, unescape(str(url))),
             hot=row.get("discuss_num") or row.get("discussion_num"),
+            description=row.get("abstract") or row.get("topic_desc") or "",
             published_at=_published_at(row.get("create_time")),
         ))
         if len(items) >= 50:
@@ -46,5 +56,5 @@ def parse_topics(payload: dict) -> list[HotItem]:
 
 
 def collect() -> "ChannelSnapshot":
-    payload = get(SOURCE_URL, res_type="json", headers={"Accept": "application/json"})
-    return snapshot("tieba", [Ranking("topics", "热议话题", parse_topics(payload), SOURCE_URL)])
+    payload = get(API_URL, res_type="json", headers={"Accept": "application/json"})
+    return snapshot("tieba", [Ranking("topics", "最有料热点", parse_topics(payload), HOMEPAGE_URL)])

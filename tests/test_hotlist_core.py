@@ -84,6 +84,11 @@ class RegistryTests(unittest.TestCase):
 
         self.assertTrue(get_channel("hupu").enabled_by_default)
 
+    def test_tieba_detail_page_uses_homepage(self):
+        from src.hotlist.registry import get_channel
+
+        self.assertEqual(get_channel("tieba").homepage, "https://tieba.baidu.com/")
+
     def test_resolve_channels_accepts_all_or_comma_separated_ids(self):
         self.assertEqual(resolve_channels("bilibili,douyin"), ["bilibili", "douyin"])
         self.assertEqual(resolve_channels("all"), list(CHANNEL_ORDER))

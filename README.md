@@ -4,6 +4,14 @@
 
 源码和运行数据分离维护：`master` 保存代码，`data-pages` 保存最近 7 天 CSV 和完整 `site/`。`pages.yml` 从 `data-pages/site` 发布 GitHub Pages，无需 Node.js 或前端构建步骤。
 
+## 推荐工具
+
+[![OrcaRouter Partner](https://img.shields.io/badge/OrcaRouter-Partner-2563eb)](https://www.orcarouter.ai/ref/ref_534409880046a7fd980d)
+
+本项目推荐使用 [OrcaRouter](https://www.orcarouter.ai/ref/ref_534409880046a7fd980d) 统一接入多种 AI 模型。
+
+> 上述链接为 OrcaRouter Partner 推荐链接。
+
 ## 页面与数据
 
 `site/index.html` 包含三个视图：
@@ -42,7 +50,7 @@
 | NodeSeek | 热门主题 | 是 | 公开页面 HTML，实际可用性以 Actions 采集结果为准 |
 | 吾爱破解 | 热门热帖 | 是 | Discuz 热榜页面 |
 | 腾讯新闻 | 实时资讯 | 是 | 首页公开文章链接，页面结构变化时可能为空 |
-| 百度贴吧 | 热议话题 | 是 | 公开热点话题 JSON，不等同于具体帖子榜 |
+| 百度贴吧 | 最有料热点 | 是 | 贴吧首页右上角热点榜，使用公开热点话题 JSON |
 
 单渠道失败不会中断同批其他渠道。`site/data/latest.json` 会保留上一次成功快照并标记为 `stale`，避免页面因一次网络抖动清空。
 

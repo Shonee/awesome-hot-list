@@ -147,10 +147,24 @@ class MarkupParserTests(unittest.TestCase):
         self.assertEqual(items[0].url, "https://www.52pojie.cn/thread-123-1-1.html")
 
     def test_tieba_parser_reads_topic_payload(self):
-        items = parse_tieba({"data": [{"topic_name": "贴吧热议", "topic_url": "/p/1", "discuss_num": 99}]})
+        items = parse_tieba({
+            "data": {
+                "bang_topic": {
+                    "topic_list": [{
+                        "idx_num": 3,
+                        "topic_name": "贴吧热议",
+                        "topic_url": "/hottopic?topic_id=1&amp;topic_name=test",
+                        "discuss_num": 99,
+                        "abstract": "热点摘要",
+                    }]
+                }
+            }
+        })
+        self.assertEqual(items[0].rank, 3)
         self.assertEqual(items[0].title, "贴吧热议")
         self.assertEqual(items[0].hot, 99)
-        self.assertEqual(items[0].url, "https://tieba.baidu.com/p/1")
+        self.assertEqual(items[0].url, "https://tieba.baidu.com/hottopic?topic_id=1&topic_name=test")
+        self.assertEqual(items[0].description, "热点摘要")
 
     def test_linuxdo_parser_reads_discourse_topics(self):
         items = parse_linuxdo({"topic_list": {"topics": [{"id": 7, "slug": "hello", "title": "Linux 主题", "posts_count": 4}]}})
