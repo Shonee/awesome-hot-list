@@ -115,6 +115,7 @@ def prepare(
     today: dt.date | None = None,
     retention_days: int = 7,
     include_legacy: bool = False,
+    source_commit: str | None = None,
 ) -> dict:
     """Package old data, optionally including one-time legacy archive files."""
     if retention_days < 1:
@@ -160,7 +161,9 @@ def prepare(
         result_path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         return result
 
-    result["sourceCommit"] = _source_commit(root)
+    data_commit = _source_commit(root)
+    result["sourceCommit"] = source_commit or data_commit
+    result["dataCommit"] = data_commit
     manifest_path = output_dir / f"{archive_id}.manifest.json"
     archive_path = output_dir / f"{archive_id}.tar.gz"
     sums_path = output_dir / f"{archive_id}.SHA256SUMS"
@@ -270,6 +273,10 @@ def main() -> int:
     parser.add_argument("--today", help="YYYY-MM-DD, useful for deterministic local checks")
     parser.add_argument("--retention-days", type=int, default=7)
     parser.add_argument(
+        "--source-commit",
+        help="生成当前归档数据所使用的 master 代码提交",
+    )
+    parser.add_argument(
         "--include-legacy",
         action="store_true",
         help="一次性纳入旧 JSON/Markdown/GIF/data.json 等非规范归档文件",
@@ -277,7 +284,14 @@ def main() -> int:
     args = parser.parse_args()
     today = dt.date.fromisoformat(args.today) if args.today else None
     if args.command == "prepare":
-        result = prepare(args.root, args.output_dir, today, args.retention_days, args.include_legacy)
+        result = prepare(
+            args.root,
+            args.output_dir,
+            today,
+            args.retention_days,
+            args.include_legacy,
+            args.source_commit,
+        )
         print(json.dumps(result, ensure_ascii=False, sort_keys=True))
     elif args.command == "verify":
         result = verify(args.root, args.output_dir)

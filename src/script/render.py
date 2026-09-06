@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """Generate the static dashboard and daily report JSON files."""
 
+import argparse
+from contextlib import contextmanager
 import glob
 import logging
 import os
@@ -25,6 +27,18 @@ from src.utils.file_utils import current_date, read_csv, write_json, yesterday_d
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(format="%(asctime)s %(levelname)s - %(message)s", level=logging.INFO)
+
+
+@contextmanager
+def _use_data_root(data_root: str):
+    root = os.path.abspath(data_root)
+    os.makedirs(root, exist_ok=True)
+    previous = os.getcwd()
+    os.chdir(root)
+    try:
+        yield root
+    finally:
+        os.chdir(previous)
 
 
 def _write_enabled() -> bool:
@@ -83,9 +97,7 @@ def _latest_available_rows() -> dict:
     """Read each channel's newest CSV when today's archive is still empty."""
     rows_by_channel = {}
     for channel_id in CHANNEL_ORDER:
-        pattern = os.path.join(
-            PROJECT_ROOT, "archived", channel_id, "*", "*", "csv", "*.csv"
-        )
+        pattern = os.path.join("archived", channel_id, "*", "*", "csv", "*.csv")
         candidates = sorted(glob.glob(pattern))
         rows_by_channel[channel_id] = read_csv(candidates[-1]) if candidates else []
     return rows_by_channel
@@ -115,37 +127,48 @@ def _ensure_latest_snapshot(today: str, today_rows: dict, latest_path: str) -> N
     merge_latest_snapshot(snapshots, latest_path, channel_order=CHANNEL_ORDER)
 
 
-def main() -> None:
-    today = current_date()
-    previous = yesterday_date()
-    logger.info("生成正式站点：今日 %s，历史 %s", today, previous)
+def main(data_root: str = PROJECT_ROOT) -> None:
+    with _use_data_root(data_root):
+        today = current_date()
+        previous = yesterday_date()
+        logger.info("生成正式站点：今日 %s，历史 %s", today, previous)
 
-    today_rows = load_rows(today)
-    today_report = build_report(today)
-    previous_report = build_report(previous)
-    if not _write_enabled():
-        logger.info("当前为调试模式（HOTLIST_WRITE=0），只分析不落盘")
-        return
+        today_rows = load_rows(today)
+        today_report = build_report(today)
+        previous_report = build_report(previous)
+        if not _write_enabled():
+            logger.info("当前为调试模式（HOTLIST_WRITE=0），只分析不落盘")
+            return
 
-    reports_dir = os.path.join(PROJECT_ROOT, "site", "data", "reports")
-    write_json(today_report, os.path.join(reports_dir, "today.json"), atomic=True)
-    write_json(previous_report, os.path.join(reports_dir, "previous.json"), atomic=True)
-    write_json(previous_report, os.path.join(reports_dir, f"{previous}.json"), atomic=True)
+        reports_dir = os.path.join("site", "data", "reports")
+        write_json(today_report, os.path.join(reports_dir, "today.json"), atomic=True)
+        write_json(previous_report, os.path.join(reports_dir, "previous.json"), atomic=True)
+        write_json(previous_report, os.path.join(reports_dir, f"{previous}.json"), atomic=True)
 
-    latest_path = os.path.join(PROJECT_ROOT, "site", "data", "latest.json")
-    _ensure_latest_snapshot(today, today_rows, latest_path)
+        latest_path = os.path.join("site", "data", "latest.json")
+        _ensure_latest_snapshot(today, today_rows, latest_path)
 
-    template_path = os.path.join(PROJECT_ROOT, "src", "template", "site.html")
-    output_path = os.path.join(PROJECT_ROOT, "site", "index.html")
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    shutil.copyfile(template_path, output_path)
-    logger.info(
-        "站点已生成：%s（今日 %d 条去重热点，昨日 %d 条）",
-        output_path,
-        today_report["metrics"]["deduplicated"],
-        previous_report["metrics"]["deduplicated"],
+        template_path = os.path.join(PROJECT_ROOT, "src", "template", "site.html")
+        output_path = os.path.join("site", "index.html")
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        shutil.copyfile(template_path, output_path)
+        logger.info(
+            "站点已生成：%s（今日 %d 条去重热点，昨日 %d 条）",
+            os.path.abspath(output_path),
+            today_report["metrics"]["deduplicated"],
+            previous_report["metrics"]["deduplicated"],
+        )
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description="生成热榜静态页面和日报")
+    parser.add_argument(
+        "--data-root",
+        default=os.environ.get("HOTLIST_DATA_ROOT", PROJECT_ROOT),
+        help="归档和 site 产物根目录；CI 使用独立的 data-pages 工作区",
     )
+    return parser
 
 
 if __name__ == "__main__":
-    main()
+    main(build_parser().parse_args().data_root)

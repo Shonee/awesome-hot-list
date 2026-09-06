@@ -4,14 +4,10 @@ on:
   schedule:
     # Monday 02:00 Beijing time = Sunday 18:00 UTC.
     - cron: "0 18 * * 0"
-  push:
-    branches: ["master"]
-    paths:
-      - ".archive-migration"
   workflow_dispatch:
     inputs:
       dry_run:
-        description: "Build and verify locally without creating a release or deleting files"
+        description: "Build and verify locally without creating a release or updating data-pages"
         required: true
         default: true
         type: boolean
@@ -30,9 +26,8 @@ permissions:
 
 env:
   TZ: Asia/Shanghai
-  DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
-  DRY_RUN: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'push' && 'false' || inputs.dry_run }}
-  INCLUDE_LEGACY: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'push' && 'true' || inputs.include_legacy }}
+  DRY_RUN: ${{ github.event_name == 'schedule' && 'false' || inputs.dry_run }}
+  INCLUDE_LEGACY: ${{ github.event_name == 'schedule' && 'false' || inputs.include_legacy }}
 
 jobs:
   archive:
@@ -40,43 +35,57 @@ jobs:
     timeout-minutes: 30
 
     steps:
-      - name: Checkout default branch
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.repository.default_branch }}
-          fetch-depth: 2
+          path: app
+          fetch-depth: 1
+
+      - name: Checkout rolling data history
+        uses: actions/checkout@v4
+        with:
+          ref: data-pages
+          path: runtime
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      - name: Resolve archive metadata
+        run: |
+          echo "SOURCE_COMMIT=$(git -C app rev-parse HEAD)" >> "$GITHUB_ENV"
+          echo "ARCHIVE_WORK=$RUNNER_TEMP/archive-work" >> "$GITHUB_ENV"
+
       - name: Build seven-day rolling archive
         id: package
         run: |
-          archive_args=(prepare --retention-days 7 --output-dir .archive-work)
+          archive_args=(prepare --root runtime --retention-days 7 --output-dir "$ARCHIVE_WORK" --source-commit "$SOURCE_COMMIT")
           if [ "$INCLUDE_LEGACY" = "true" ]; then
             archive_args+=(--include-legacy)
           fi
-          python src/script/archive.py "${archive_args[@]}"
+          python app/src/script/archive.py "${archive_args[@]}"
           python - <<'PY' >> "$GITHUB_OUTPUT"
           import json
+          import os
           from pathlib import Path
 
-          result = json.loads(Path('.archive-work/result.json').read_text(encoding='utf-8'))
+          result = json.loads((Path(os.environ["ARCHIVE_WORK"]) / "result.json").read_text(encoding="utf-8"))
           print(f"has_files={str(result['hasFiles']).lower()}")
           print(f"archive_id={result['archiveId']}")
           print(f"end_date={result['endDate']}")
-          for index, name in enumerate(result.get('assets', [])):
+          for index, name in enumerate(result.get("assets", [])):
               print(f"asset_{index}={name}")
           PY
 
       - name: Verify local archive
         if: steps.package.outputs.has_files == 'true'
-        run: python src/script/archive.py verify --output-dir .archive-work
+        run: python app/src/script/archive.py verify --root runtime --output-dir "$ARCHIVE_WORK"
 
       - name: Stop after dry run
-        if: steps.package.outputs.has_files == 'true' && env.DRY_RUN == 'true'
+        if: env.DRY_RUN == 'true'
         run: echo "Dry run completed. No release or branch changes were made." >> "$GITHUB_STEP_SUMMARY"
 
       - name: Publish and verify GitHub Release
@@ -86,13 +95,14 @@ jobs:
         run: |
           set -euo pipefail
           tag="archive-${{ steps.package.outputs.archive_id }}"
-          archive=".archive-work/${{ steps.package.outputs.asset_0 }}"
-          manifest=".archive-work/${{ steps.package.outputs.asset_1 }}"
-          sums=".archive-work/${{ steps.package.outputs.asset_2 }}"
+          archive="$ARCHIVE_WORK/${{ steps.package.outputs.asset_0 }}"
+          manifest="$ARCHIVE_WORK/${{ steps.package.outputs.asset_1 }}"
+          sums="$ARCHIVE_WORK/${{ steps.package.outputs.asset_2 }}"
 
           if ! gh release view "$tag" >/dev/null 2>&1; then
-            gh release create "$tag" --draft --title "Hot List Archive through ${{ steps.package.outputs.end_date }}" \
-              --notes "Seven-day rolling archive. Assets are verified before repository cleanup."
+            gh release create "$tag" --target "$SOURCE_COMMIT" --draft \
+              --title "Hot List Archive through ${{ steps.package.outputs.end_date }}" \
+              --notes "Seven-day rolling archive. Assets are verified before data-pages is compacted."
           fi
 
           for file in "$archive" "$manifest" "$sums"; do
@@ -104,39 +114,60 @@ jobs:
                 echo "Existing release asset differs: $tag / $name" >&2
                 exit 1
               }
-              rm -rf "$check_dir"
             else
               gh release upload "$tag" "$file"
             fi
           done
 
           remote_dir="$(mktemp -d)"
-          gh release download "$tag" --pattern "$(basename "$archive")" --pattern "$(basename "$manifest")" --pattern "$(basename "$sums")" --dir "$remote_dir"
+          gh release download "$tag" --pattern "$(basename "$archive")" \
+            --pattern "$(basename "$manifest")" --pattern "$(basename "$sums")" \
+            --dir "$remote_dir"
           (cd "$remote_dir" && sha256sum -c "$(basename "$sums")")
           gh release edit "$tag" --draft=false
           echo "- Published and verified [$tag](${{ github.server_url }}/${{ github.repository }}/releases/tag/$tag)." >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Delete only release-verified files
-        if: steps.package.outputs.has_files == 'true' && env.DRY_RUN != 'true'
+      - name: Clean verified files and compact data-pages
+        if: env.DRY_RUN != 'true'
         run: |
           set -euo pipefail
-          git fetch origin "$DEFAULT_BRANCH"
-          if [ "$(git rev-parse HEAD)" != "$(git rev-parse "origin/$DEFAULT_BRANCH")" ]; then
-            echo "Default branch changed while the release was being published; rerun to repackage current files." >&2
+          expected_head="$(git -C runtime rev-parse HEAD)"
+          git -C runtime fetch origin data-pages
+          remote_head="$(git -C runtime rev-parse origin/data-pages)"
+          if [ "$expected_head" != "$remote_head" ]; then
+            echo "data-pages changed while archiving; rerun against the current snapshot." >&2
             exit 1
           fi
-          python src/script/archive.py clean --output-dir .archive-work
-          rm -f .archive-migration
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -u -- archived site/data/reports .archive-migration
-          if git diff --cached --quiet; then
-            echo "No archive files needed deletion."
-            exit 0
+
+          if [ "${{ steps.package.outputs.has_files }}" = "true" ]; then
+            python app/src/script/archive.py clean --root runtime --output-dir "$ARCHIVE_WORK"
           fi
-          git commit -m "chore: move seven-day archive to GitHub Release"
-          git push origin "HEAD:$DEFAULT_BRANCH"
+
+          snapshot_dir="$(mktemp -d)"
+          if [ -d runtime/archived ]; then
+            cp -a runtime/archived "$snapshot_dir/"
+          fi
+          cp -a runtime/site "$snapshot_dir/"
+
+          git -C runtime config user.name "github-actions[bot]"
+          git -C runtime config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C runtime switch --orphan compacted-data-pages
+          git -C runtime rm -rf --ignore-unmatch .
+          if [ -d "$snapshot_dir/archived" ]; then
+            cp -a "$snapshot_dir/archived" runtime/
+            git -C runtime add archived
+          fi
+          cp -a "$snapshot_dir/site" runtime/
+          git -C runtime add site
+          git -C runtime commit -m "chore: compact seven-day data snapshot"
+          git -C runtime push \
+            --force-with-lease=refs/heads/data-pages:"$expected_head" \
+            origin HEAD:data-pages
 
       - name: Report empty selection
-        if: steps.package.outputs.has_files != 'true'
-        run: echo "No data older than seven days was found; no release or cleanup was needed." >> "$GITHUB_STEP_SUMMARY"
+        if: steps.package.outputs.has_files != 'true' && env.DRY_RUN != 'true'
+        run: echo "No data older than seven days was found; data-pages was still compacted." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Report empty dry run
+        if: steps.package.outputs.has_files != 'true' && env.DRY_RUN == 'true'
+        run: echo "No data older than seven days was found; dry run made no branch changes." >> "$GITHUB_STEP_SUMMARY"

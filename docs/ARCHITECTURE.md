@@ -1,59 +1,113 @@
-# 采集与页面架构
+# 采集、归档与部署架构
 
 ## 取舍
 
-项目继续使用 GitHub Actions、CSV 归档、静态 JSON 和 GitHub Pages。参考 `orz-ai/hot_news` 的渠道适配器、统一返回模型和失败隔离，但不引入 FastAPI、Redis、MySQL、APScheduler、浏览器池、LLM 分析或通知系统。
+项目继续使用 GitHub Actions、CSV、静态 JSON、GitHub Releases 和静态页面，不引入常驻 API、数据库、任务服务或浏览器池。
 
-当前只有个人维护，静态产物足以支持外部查看和 Fork；常驻服务会额外增加部署、密钥、数据迁移和故障处理成本。
+源码与高频运行数据分开维护：`master` 是稳定源码分支，`data-pages` 是机器维护的七日滚动快照。这样既保留个人项目的轻量性，也避免每小时采集提交淹没源码历史。
 
-## 数据流
+## 分支与存储职责
 
 ```text
-channel adapter
-  -> ChannelSnapshot
-  -> collect.py
-     -> archived/<channel>/<year>/<month>/csv/<date>.csv
-     -> archived/<channel>/README.md
-     -> site/data/latest.json
+master
+  -> src/、tests/、docs/、工作流和配置
 
-archived CSV
-  -> report.py
-  -> site/data/reports/today.json
-  -> site/data/reports/previous.json
-  -> site/data/reports/<date>.json
-
-src/template/site.html
-  -> render.py
+data-pages
+  -> archived/<channel>/<year>/<month>/csv/<date>.csv
+  -> archived/<channel>/README.md
   -> site/index.html
-  -> pages.yml
-  -> GitHub Pages
+  -> site/data/latest.json
+  -> site/data/reports/*.json
+
+GitHub Releases
+  -> 超过 7 天的压缩归档
+  -> manifest.json
+  -> SHA256SUMS
 ```
 
-默认采集由 `collect-hourly.yml` 每小时触发。特殊渠道也由每小时触发的
-`collect-special.yml` 统一调度，但 `runner.due_channel_ids()` 按注册表频率和
-上次成功的 `fetchedAt` 决定是否请求，避免为每个渠道维护单独的 Action。
-`archive-weekly.yml` 每周把超过 7 个日历日的 CSV 和日期报告打包到 Release，
-只有远端资产校验成功后才执行清理。
+`data-pages` 不是长期归档。它保存当前页面和报告所需的最近 7 天数据，并在每周归档后压缩为一个新的孤儿快照提交。超过 7 天的数据只保存在经过校验的 Release 资产中。
 
-## 边界
+## 运行数据流
 
-- 适配器只处理来源特有的请求和字段转换。
+```text
+master: channel adapter
+  -> ChannelSnapshot
+  -> collect.py --data-root runtime/
+     -> data-pages:archived/
+     -> data-pages:site/data/latest.json
+     -> data-pages:site/data/reports/today.json
+
+data-pages:archived CSV
+  -> report.py
+  -> render.py --data-root runtime/
+     -> data-pages:site/index.html
+     -> data-pages:site/data/reports/
+
+data-pages:site/
+  -> GitHub Pages Artifact
+  -> Cloudflare Pages Git deployment（可选）
+```
+
+Actions 将 `master` 检出到 `app/`，将 `data-pages` 检出到 `runtime/`。Python 从 `app/` 加载代码，通过 `--data-root runtime/` 读取和写入数据，不复制渠道实现到数据分支。
+
+## 调度
+
+- `collect-hourly.yml` 每小时采集默认渠道，只提交 `runtime/archived` 和 `runtime/site/data` 到 `data-pages`。
+- `collect-special.yml` 每小时触发，由 `runner.due_channel_ids()` 根据上次成功时间和渠道频率决定是否请求。
+- `render-daily.yml` 每天生成昨日完整报告；页面模板或报告代码在 `master` 更新时也会重新渲染。
+- 所有数据写入工作流共用 `hotlist-repository-writer` 并发组，避免同时修改 `data-pages`。
+- `pages.yml` 在上述工作流成功后检出 `data-pages`，校验关键文件并上传 `site/` Artifact。
+
+## 七日 Release 归档
+
+`archive-weekly.yml` 的顺序是：
+
+1. 检出 `master` 代码和完整的 `data-pages` 历史。
+2. 选择早于七日窗口的 CSV 和日期报告。
+3. 生成确定性 tar.gz、manifest 和 SHA256SUMS。
+4. 在本地校验压缩包内路径和每个文件哈希。
+5. 创建指向 `master` 代码提交的 Release tag，上传资产。
+6. 从 Release 下载资产并再次校验 SHA256。
+7. 确认远端 `data-pages` 仍是本次读取的提交。
+8. 删除 manifest 中列出且哈希未变化的超期文件。
+9. 创建只包含剩余 `archived/` 和 `site/` 的孤儿提交。
+10. 使用 `--force-with-lease` 更新 `data-pages`。
+
+Release tag 不指向 `data-pages`，否则 tag 会继续保留已经压缩掉的数据历史。manifest 同时记录 `sourceCommit` 和 `dataCommit`，用于还原“哪个版本的代码生成了哪批数据”。
+
+手动 `dry_run` 只执行选择、打包和本地校验，不发布 Release、不清理文件、不重写分支。任何上传、下载校验、远端分支一致性或文件哈希检查失败，后续清理和压缩都不会执行。
+
+## 首次迁移
+
+`bootstrap-data-pages.yml` 负责一次性迁移：
+
+1. 从尚未清理的 `master` 复制当前 `archived/` 和 `site/`。
+2. 创建没有父提交的 `data-pages`。
+3. 从远端读取新分支并检查关键文件。
+4. 只有验证成功且 `cleanup_master=true` 时，才从 `master` 删除生成内容。
+
+该工作流可以在“数据分支已经创建，但源码分支清理失败”的情况下重跑。迁移完成后，`master` 的 `.gitignore` 防止本地运行产物被重新加入源码分支。
+
+## 页面部署
+
+GitHub Pages 继续采用 Actions Artifact，不把 Pages 设置切换为传统分支发布。`pages.yml` 始终上传 `data-pages/site`，并在上传前校验 `index.html`、`latest.json` 和 `today.json`。
+
+Cloudflare Pages 是可选的并行部署目标。它直接监听 `data-pages`，生产目录为 `site`，无需构建命令和运行时环境变量。应关闭其他分支的自动 Preview，避免源码分支因没有 `site/` 产生无意义构建。
+
+## 代码边界
+
+- 适配器只处理来源请求和字段转换，直接返回 `ChannelSnapshot`。
 - runner 统一处理渠道选择、异常隔离和最新快照合并。
-- report 只读取已有 CSV，不访问网络。
-- 页面只读取静态 JSON，不包含渠道请求逻辑和凭证。
-- `src/script/collect.py` 是唯一的渠道采集入口；渠道适配器不负责归档，也不作为独立脚本运行。
-- 历史 `archived/*/data.json` 和 GIF 只作为静态旧归档保留，当前流程不再维护；`render.py` 直接基于 CSV 生成站点报告。
-- 虎扑使用移动端页面的服务端渲染 JSON，不引入浏览器运行时；GitHub 使用 Trending 页面并以官方 Search API 作为兜底。
-- 掘金使用当前公开的热门文章接口，直接转换为统一的单榜快照。
-- Stack Overflow 使用 Stack Exchange 公开 API，V2EX 使用公开 hot topics 接口并保留域名回退；V2EX 的 TLS/访问限制由 runner 的失败隔离处理。
-- 财联社使用首页的 Next.js `__NEXT_DATA__` SSR 数据解析热门快讯，不引入 Playwright 或常驻浏览器。
-- RSS 适配器使用内置公开源，也支持环境变量覆盖；每个 Feed 独立失败隔离并按发布时间限制条数。页面端可在 localStorage 中设置 RSS 卡片显隐、分源 Tabs/聚合时间线、每源展示条数和发布时间显示。
+- report 只读取数据根目录中的 CSV，不访问网络。
+- collect 和 render 接受显式 `--data-root`，不依赖源码与数据位于同一 Git 分支。
+- archive 只负责确定性资产、校验和受限清理，Release 协议留在工作流中。
+- 页面只读取同目录静态 JSON，不包含渠道请求逻辑和凭证。
 
 ## 失败语义
 
 - `ok`：本次采集成功。
-- `disabled`：缺少该渠道明确要求的配置。
+- `disabled`：缺少渠道明确要求的配置。
 - `error`：首次采集失败且没有历史快照。
 - `stale`：本次采集失败，页面继续展示上次成功快照。
 
-这一状态模型比空数组更有信息，也不会把接口故障误报成“榜单当前没有热点”。
+分支拆分不改变这组业务状态。工作流或部署失败属于运行状态，应通过 Actions 和 Pages 部署记录诊断，不能伪装成榜单无数据。

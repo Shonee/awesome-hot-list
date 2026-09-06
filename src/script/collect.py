@@ -2,6 +2,7 @@
 """Unified command-line entry for one, many, or all hot-list channels."""
 
 import argparse
+from contextlib import contextmanager
 import os
 import sys
 import time
@@ -18,6 +19,18 @@ from src.utils.utils import load_dotenv
 
 
 DEFAULT_LATEST_PATH = os.path.join("site", "data", "latest.json")
+
+
+@contextmanager
+def _use_data_root(data_root: str):
+    root = os.path.abspath(data_root)
+    os.makedirs(root, exist_ok=True)
+    previous = os.getcwd()
+    os.chdir(root)
+    try:
+        yield root
+    finally:
+        os.chdir(previous)
 
 
 def _write_enabled() -> bool:
@@ -51,23 +64,29 @@ def write_channel_archive(snapshot) -> None:
     write_text(_markdown(snapshot), channel_readme_path(snapshot.channel_id), atomic=True)
 
 
-def run(channel_value: str, latest_path: str = DEFAULT_LATEST_PATH, due_only: bool = False):
-    channel_ids = resolve_channels(channel_value)
-    if due_only:
-        channel_ids = due_channel_ids(channel_ids, latest_path)
-        if not channel_ids:
-            print("[skip] no channels are due")
-            return []
-    snapshots = collect_channels(channel_ids)
-    if _write_enabled():
-        for snapshot in snapshots:
-            write_channel_archive(snapshot)
-        merge_latest_snapshot(snapshots, latest_path, channel_order=CHANNEL_ORDER)
-        write_json(
-            build_report(current_date()),
-            os.path.join("site", "data", "reports", "today.json"),
-            atomic=True,
-        )
+def run(
+    channel_value: str,
+    latest_path: str = DEFAULT_LATEST_PATH,
+    due_only: bool = False,
+    data_root: str = ".",
+):
+    with _use_data_root(data_root):
+        channel_ids = resolve_channels(channel_value)
+        if due_only:
+            channel_ids = due_channel_ids(channel_ids, latest_path)
+            if not channel_ids:
+                print("[skip] no channels are due")
+                return []
+        snapshots = collect_channels(channel_ids)
+        if _write_enabled():
+            for snapshot in snapshots:
+                write_channel_archive(snapshot)
+            merge_latest_snapshot(snapshots, latest_path, channel_order=CHANNEL_ORDER)
+            write_json(
+                build_report(current_date()),
+                os.path.join("site", "data", "reports", "today.json"),
+                atomic=True,
+            )
 
     for snapshot in snapshots:
         count = sum(len(ranking.items) for ranking in snapshot.rankings)
@@ -85,6 +104,11 @@ def build_parser() -> argparse.ArgumentParser:
         help="渠道 ID、逗号分隔的多个 ID，或 all",
     )
     parser.add_argument("--latest-path", default=DEFAULT_LATEST_PATH, help="统一最新快照 JSON 路径")
+    parser.add_argument(
+        "--data-root",
+        default=os.environ.get("HOTLIST_DATA_ROOT", "."),
+        help="归档和 site 产物根目录；CI 使用独立的 data-pages 工作区",
+    )
     parser.add_argument(
         "--due",
         action="store_true",
@@ -106,7 +130,12 @@ def _exit_code_for_snapshots(snapshots) -> int:
 def main() -> int:
     load_dotenv()
     args = build_parser().parse_args()
-    snapshots = run(args.channels, args.latest_path, due_only=args.due)
+    snapshots = run(
+        args.channels,
+        args.latest_path,
+        due_only=args.due,
+        data_root=args.data_root,
+    )
     return _exit_code_for_snapshots(snapshots)
 
 

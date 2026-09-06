@@ -41,6 +41,24 @@ class WeeklyArchiveTests(unittest.TestCase):
             self.assertEqual(verify(root, root / ".archive-work")["hasFiles"], False)
             self.assertEqual(clean(root, root / ".archive-work"), 0)
 
+    def test_manifest_distinguishes_source_and_data_commits(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            old_csv = root / "archived" / "demo" / "2026" / "08" / "csv" / "2026-08-31.csv"
+            old_csv.parent.mkdir(parents=True, exist_ok=True)
+            old_csv.write_text("old", encoding="utf-8")
+
+            result = prepare(
+                root,
+                root / ".archive-work",
+                dt.date(2026, 9, 7),
+                retention_days=7,
+                source_commit="source-sha",
+            )
+
+            self.assertEqual(result["sourceCommit"], "source-sha")
+            self.assertEqual(result["dataCommit"], "unknown")
+
     def test_legacy_mode_includes_old_formats_but_keeps_channel_readme(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

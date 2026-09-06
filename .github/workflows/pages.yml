@@ -1,14 +1,10 @@
 name: Deploy Pages
 
 on:
-  push:
-    branches: ["master"]
-    paths:
-      - "site/**"
-      - ".github/workflows/pages.yml"
   workflow_dispatch:
   workflow_run:
     workflows:
+      - Bootstrap data-pages
       - Collect hourly hotlists
       - Collect special hotlists
       - Render Daily Dashboard
@@ -28,7 +24,6 @@ concurrency:
 jobs:
   deploy:
     if: >-
-      github.event_name == 'push' ||
       github.event_name == 'workflow_dispatch' ||
       (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success')
     environment:
@@ -36,8 +31,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout deployable snapshot
         uses: actions/checkout@v4
+        with:
+          ref: data-pages
+
+      - name: Verify static site
+        run: |
+          test -s site/index.html
+          test -s site/data/latest.json
+          test -s site/data/reports/today.json
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

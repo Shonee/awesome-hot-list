@@ -21,6 +21,11 @@ env/
 # 归档工作流临时目录
 .archive-work/
 
+# master 只保留源码；运行产物由 data-pages 分支维护
+/archived/
+/site/
+/.runtime/
+
 # 编辑器 / 系统
 .vscode/
 .idea/

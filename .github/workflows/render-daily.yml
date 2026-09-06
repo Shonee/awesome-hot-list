@@ -2,11 +2,17 @@ name: Render Daily Dashboard
 
 on:
   schedule:
-    # 北京时间每天 00:40 = UTC 前一天 16:40（晚于各采集任务收尾，确保昨日 CSV 已齐）
-    - cron: '40 16 * * *'
+    # Beijing 00:40 = previous day 16:40 UTC.
+    - cron: "40 16 * * *"
+  push:
+    branches: ["master"]
+    paths:
+      - "src/template/site.html"
+      - "src/script/render.py"
+      - "src/hotlist/**"
+      - ".github/workflows/render-daily.yml"
   workflow_dispatch:
 
-# 与聚合任务共用串行组，避免同时改动工作树导致 push 冲突
 concurrency:
   group: hotlist-repository-writer
   cancel-in-progress: false
@@ -18,31 +24,42 @@ jobs:
   render:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.repository.default_branch }}
+          path: app
+
+      - name: Checkout rolling data
+        uses: actions/checkout@v4
+        with:
+          ref: data-pages
+          path: runtime
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: app/src/requirements.txt
 
       - name: Install render dependencies
-        run: pip install -r ./src/requirements.txt
+        run: python -m pip install -r app/src/requirements.txt
 
       - name: Render current and previous reports
-        run: python ./src/script/render.py
+        run: >-
+          python "$GITHUB_WORKSPACE/app/src/script/render.py"
+          --data-root "$GITHUB_WORKSPACE/runtime"
 
-      - name: Commit dashboard
+      - name: Commit dashboard to data-pages
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add site/index.html site/data/latest.json site/data/reports/
-          if git diff --cached --quiet; then
+          git -C runtime config user.name "github-actions[bot]"
+          git -C runtime config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C runtime add site/index.html site/data/latest.json site/data/reports/
+          if git -C runtime diff --cached --quiet; then
             echo "no dashboard change"
             exit 0
           fi
-          git commit -m "chore: render hotlist dashboard $(date -u +'%Y-%m-%d')"
-          git pull --rebase origin "${{ github.event.repository.default_branch }}"
-          git push
+          git -C runtime commit -m "chore: render hotlist dashboard $(date -u +'%Y-%m-%d')"
+          git -C runtime pull --rebase origin data-pages
+          git -C runtime push origin HEAD:data-pages
