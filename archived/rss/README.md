@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-06 11:25:33
+> 更新时间：2026-09-06 12:25:04
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article)
-2. [RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken](https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article)
-3. [Uber GitFarm：面向大规模单体代码库的 Git 即服务平台](https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article)
-4. [Meta 拓展自研芯片战略：从计算领域延伸至网络领域](https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article)
-5. [鸿蒙 AI Coding 的研发新范式与工程实践](https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article)
+1. [FlexGanttFX 正式开源](https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8?utm_source=rss&utm_medium=article)
+2. [蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article)
+3. [RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken](https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article)
+4. [Uber GitFarm：面向大规模单体代码库的 Git 即服务平台](https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article)
+5. [Meta 拓展自研芯片战略：从计算领域延伸至网络领域](https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
-2. [Gateside by TSA Precheck](https://www.tsa.gov/precheck/gateside-tsa-precheck)
+1. [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+2. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
 3. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
 4. [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
 5. [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
-
-## AI News
-
-1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
-2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
-3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
-4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
-5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
 
 ## 阮一峰网络日志
 
