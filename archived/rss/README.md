@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-07 12:27:28
+> 更新时间：2026-09-07 13:23:19
 
 ## 少数派
 
@@ -20,19 +20,19 @@
 
 ## 量子位
 
-1. [具身ICL来了创业玩家！上下文成Scaling新赛道](https://www.qbitai.com/2026/09/484897.html)
-2. [B站首届AI创造公开赛收官，超八成参赛者为一人团队](https://www.qbitai.com/2026/09/484890.html)
-3. [GPT-6带火循环Transformer，阿里早已布局](https://www.qbitai.com/2026/09/484726.html)
-4. [押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司](https://www.qbitai.com/2026/09/484683.html)
-5. [陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕](https://www.qbitai.com/2026/09/484649.html)
+1. [产业龙头领投！中科类脑完成数亿元B+轮战略融资](https://www.qbitai.com/2026/09/485039.html)
+2. [具身ICL来了创业玩家！上下文成Scaling新赛道](https://www.qbitai.com/2026/09/484897.html)
+3. [B站首届AI创造公开赛收官，超八成参赛者为一人团队](https://www.qbitai.com/2026/09/484890.html)
+4. [GPT-6带火循环Transformer，阿里早已布局](https://www.qbitai.com/2026/09/484726.html)
+5. [押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司](https://www.qbitai.com/2026/09/484683.html)
 
 ## InfoQ
 
-1. [传统企业 AI 转型的最短路径，藏在研发部门](https://www.infoq.cn/article/jrEuCFhtpA9LmGX60R1H?utm_source=rss&utm_medium=article)
-2. [微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池](https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article)
-3. [FlexGanttFX 正式开源](https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8?utm_source=rss&utm_medium=article)
-4. [蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article)
-5. [RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken](https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article)
+1. [微软将人工智能治理从政策层面转向运行时执行](https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb?utm_source=rss&utm_medium=article)
+2. [传统企业 AI 转型的最短路径，藏在研发部门](https://www.infoq.cn/article/jrEuCFhtpA9LmGX60R1H?utm_source=rss&utm_medium=article)
+3. [微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池](https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article)
+4. [FlexGanttFX 正式开源](https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8?utm_source=rss&utm_medium=article)
+5. [蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -53,10 +53,18 @@
 ## Hacker News
 
 1. [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-2. [Mother convicted of: her 5 yo walks short way to pond alone in Virginia](https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/)
+2. [Has anybody seen my keys? A key-hierarchy strategy for rack-level security](https://rfd.shared.oxide.computer/rfd/0301)
 3. [Show HN: GET Together – A social network where you don't need POST to Post](https://gettogether.dev)
 4. [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel)
 5. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+
+## AI News
+
+1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
+5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
 
 ## 阮一峰网络日志
 

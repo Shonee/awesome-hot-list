@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-07 12:26:56
+> 更新时间：2026-09-07 13:22:46
 
 ## 最新资讯
 
-1. [任天堂回应 Switch 2 游戏机大规模 Ban 机事件：系统临时故障](https://www.ithome.com/0/999/210.htm)
-2. [Omdia：预计 2026 下半年中国面板厂商将占全球汽车显示屏出货量的 65%](https://www.ithome.com/0/999/209.htm)
-3. [曝 iQOO 16 手机本月登场：综合堆料规格 Pro Max 级，首进 9 月旗舰大乱斗](https://www.ithome.com/0/999/208.htm)
-4. [拳头官方确认《英雄联盟》MMO 游戏并未取消，仍在开发](https://www.ithome.com/0/999/205.htm)
-5. [科大讯飞星火 X2.5 模型正式发布：293B-A30B MoE，全国产平台训练](https://www.ithome.com/0/999/204.htm)
+1. [中兴 U15 标准版随身 Wi-Fi 9 月 10 日发布：内置 10000mAh 电池，提供 26 小时续航](https://www.ithome.com/0/999/218.htm)
+2. [雷军更换微博头像“雨天亲测小米澎程 N90 Max 顶帐”，今晚 7 点见](https://www.ithome.com/0/999/217.htm)
+3. [星宇股份已向 107 名被劝退毕业生补贴 1.5 万元，官方发布整改措施公告](https://www.ithome.com/0/999/216.htm)
+4. [飞利浦首款定制屏显剃须刀发布：照片一键上屏，3099 元起](https://www.ithome.com/0/999/215.htm)
+5. [智界 R7 焕新款实车内饰首曝：双联屏确认、鸿蒙智行专属 HarmonyOS 车机、换装 HUD 抬头显示](https://www.ithome.com/0/999/214.htm)
