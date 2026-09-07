@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-07 09:35:59
+> 更新时间：2026-09-07 10:33:02
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-2. [Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/)
-3. [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
-4. [Political meddling at the Census Bureau damages the US statistical system](https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system)
-5. [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
+1. [Ponytail: Lazy Senior Engineer Skill](https://ponytail.dev/)
+2. [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel)
+3. [Hard-Chat – A serverless, RAM-only P2P terminal chat](https://github.com/mrhardlint/Hard-Chat)
+4. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+5. [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
 
 ## 阮一峰网络日志
 
