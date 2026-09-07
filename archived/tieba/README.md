@@ -1,12 +1,12 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-07 18:23:13
+> 更新时间：2026-09-07 19:20:47
 
 ## 最有料热点
 
 1. [海员老哥揭秘船上那些事](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362853&topic_name=%E6%B5%B7%E5%91%98%E8%80%81%E5%93%A5%E6%8F%AD%E7%A7%98%E8%88%B9%E4%B8%8A%E9%82%A3%E4%BA%9B%E4%BA%8B)
 2. [美国护士勒死子女,总统怒批](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362905&topic_name=%E7%BE%8E%E5%9B%BD%E6%8A%A4%E5%A3%AB%E5%8B%92%E6%AD%BB%E5%AD%90%E5%A5%B3%2C%E6%80%BB%E7%BB%9F%E6%80%92%E6%89%B9)
-3. [武汉通报郭德纲篡改红歌事件](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362923&topic_name=%E6%AD%A6%E6%B1%89%E9%80%9A%E6%8A%A5%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%AF%A1%E6%94%B9%E7%BA%A2%E6%AD%8C%E4%BA%8B%E4%BB%B6)
+3. [D老师开小差想吃红烧肉](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362924&topic_name=D%E8%80%81%E5%B8%88%E5%BC%80%E5%B0%8F%E5%B7%AE%E6%83%B3%E5%90%83%E7%BA%A2%E7%83%A7%E8%82%89)
 4. [窒息!大学生电脑被家长监控](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362893&topic_name=%E7%AA%92%E6%81%AF%21%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%B5%E8%84%91%E8%A2%AB%E5%AE%B6%E9%95%BF%E7%9B%91%E6%8E%A7)
 5. [小偷持剪自残威胁,挨店主飞踹](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362914&topic_name=%E5%B0%8F%E5%81%B7%E6%8C%81%E5%89%AA%E8%87%AA%E6%AE%8B%E5%A8%81%E8%83%81%2C%E6%8C%A8%E5%BA%97%E4%B8%BB%E9%A3%9E%E8%B8%B9)
 6. [山西4块饸饹面,日游客看傻](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362894&topic_name=%E5%B1%B1%E8%A5%BF4%E5%9D%97%E9%A5%B8%E9%A5%B9%E9%9D%A2%2C%E6%97%A5%E6%B8%B8%E5%AE%A2%E7%9C%8B%E5%82%BB)
@@ -30,7 +30,7 @@
 24. [AI偷看成人内容被抓包](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362692&topic_name=AI%E5%81%B7%E7%9C%8B%E6%88%90%E4%BA%BA%E5%86%85%E5%AE%B9%E8%A2%AB%E6%8A%93%E5%8C%85)
 25. [偶像进军电竞,丝芭组女子战队](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362733&topic_name=%E5%81%B6%E5%83%8F%E8%BF%9B%E5%86%9B%E7%94%B5%E7%AB%9E%2C%E4%B8%9D%E8%8A%AD%E7%BB%84%E5%A5%B3%E5%AD%90%E6%88%98%E9%98%9F)
 26. [369直播开串:怪我去年送走BLG](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362691&topic_name=369%E7%9B%B4%E6%92%AD%E5%BC%80%E4%B8%B2%3A%E6%80%AA%E6%88%91%E5%8E%BB%E5%B9%B4%E9%80%81%E8%B5%B0BLG)
-27. [春丽演员狂练腿,观众不买账](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362670&topic_name=%E6%98%A5%E4%B8%BD%E6%BC%94%E5%91%98%E7%8B%82%E7%BB%83%E8%85%BF%2C%E8%A7%82%E4%BC%97%E4%B8%8D%E4%B9%B0%E8%B4%A6)
-28. [懂车帝直播复刻绿化带战神](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362649&topic_name=%E6%87%82%E8%BD%A6%E5%B8%9D%E7%9B%B4%E6%92%AD%E5%A4%8D%E5%88%BB%E7%BB%BF%E5%8C%96%E5%B8%A6%E6%88%98%E7%A5%9E)
-29. [跟风闹剧!葫芦娃爷爷剪掉葫芦](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362706&topic_name=%E8%B7%9F%E9%A3%8E%E9%97%B9%E5%89%A7%21%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E5%89%AA%E6%8E%89%E8%91%AB%E8%8A%A6)
-30. [古法偷配件,400万豪车变空壳](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362586&topic_name=%E5%8F%A4%E6%B3%95%E5%81%B7%E9%85%8D%E4%BB%B6%2C400%E4%B8%87%E8%B1%AA%E8%BD%A6%E5%8F%98%E7%A9%BA%E5%A3%B3)
+27. [懂车帝直播复刻绿化带战神](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362649&topic_name=%E6%87%82%E8%BD%A6%E5%B8%9D%E7%9B%B4%E6%92%AD%E5%A4%8D%E5%88%BB%E7%BB%BF%E5%8C%96%E5%B8%A6%E6%88%98%E7%A5%9E)
+28. [跟风闹剧!葫芦娃爷爷剪掉葫芦](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362706&topic_name=%E8%B7%9F%E9%A3%8E%E9%97%B9%E5%89%A7%21%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E5%89%AA%E6%8E%89%E8%91%AB%E8%8A%A6)
+29. [春丽演员狂练腿,观众不买账](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362670&topic_name=%E6%98%A5%E4%B8%BD%E6%BC%94%E5%91%98%E7%8B%82%E7%BB%83%E8%85%BF%2C%E8%A7%82%E4%BC%97%E4%B8%8D%E4%B9%B0%E8%B4%A6)
+30. [反T1装甲出动,TES惨变马桶](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362524&topic_name=%E5%8F%8DT1%E8%A3%85%E7%94%B2%E5%87%BA%E5%8A%A8%2CTES%E6%83%A8%E5%8F%98%E9%A9%AC%E6%A1%B6)

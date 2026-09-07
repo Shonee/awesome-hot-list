@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-07 18:23:21
+> 更新时间：2026-09-07 19:20:56
 
 ## 少数派
 
-1. [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
-2. [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
-3. [派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
-4. [让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
-5. [最值得买的顶级公路车？TREK 八代 Madone 评测](https://sspai.com/post/114040)
+1. [派评｜近期值得关注的 App](https://sspai.com/post/114288)
+2. [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
+3. [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
+4. [派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
+5. [让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
 
 ## 爱范儿
 
-1. [华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常](https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [在零跑的工厂里，我们找到了它能月销 10 万辆的秘密](https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色](https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [专访康宁 CCO 李汉超：175 年以来，康宁始终是一家创新材料公司](https://www.ifanr.com/1678257?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [不只三折叠！华为今天发布的这批新品，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [把千亿模型装进笔记本，Windows 终于要反击 Mac 了](https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常](https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -28,19 +28,19 @@
 
 ## InfoQ
 
-1. [Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据](https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article)
-2. [AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来](https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article)
-3. [TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统](https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article)
-4. [“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness](https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article)
-5. [9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约](https://www.infoq.cn/article/D5heSof43WbGMHrCCIsy?utm_source=rss&utm_medium=article)
+1. [利用 Workload Identity Federation 清除 GCP 中长期有效的凭据](https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article)
+2. [Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据](https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article)
+3. [AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来](https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article)
+4. [TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统](https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article)
+5. [“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness](https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [「AI Native 」不是魔法，「创业者」这三个字依旧厚重](http://www.geekpark.net/news/369955)
-2. [麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了](http://www.geekpark.net/news/369954)
-3. [雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道](http://www.geekpark.net/news/369884)
-4. [传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站](http://www.geekpark.net/news/369875)
-5. [互联网最古老的恐惧，被 AI 复活了](http://www.geekpark.net/news/369873)
+1. [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
+2. [童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」](http://www.geekpark.net/news/369959)
+3. [「AI Native 」不是魔法，「创业者」这三个字依旧厚重](http://www.geekpark.net/news/369955)
+4. [麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了](http://www.geekpark.net/news/369954)
+5. [雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道](http://www.geekpark.net/news/369884)
 
 ## MIT Technology Review
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
-2. [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
-3. [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
-4. [Programming is Art](https://orchidfiles.com/programming-is-art/)
-5. [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
+1. [Impedance Matching](https://www.edge.org/response-detail/27238)
+2. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
+3. [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+4. [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
+5. [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
 
 ## AI News
 
