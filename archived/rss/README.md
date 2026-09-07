@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-07 19:20:56
+> 更新时间：2026-09-07 20:33:47
 
 ## 少数派
 
@@ -13,7 +13,7 @@
 ## 爱范儿
 
 1. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [不只三折叠！华为今天发布的这批新品，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
 3. [把千亿模型装进笔记本，Windows 终于要反击 Mac 了](https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=)
 4. [华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常](https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=)
 5. [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [利用 Workload Identity Federation 清除 GCP 中长期有效的凭据](https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article)
-2. [Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据](https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article)
-3. [AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来](https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article)
-4. [TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统](https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article)
-5. [“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness](https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article)
+1. [HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面](https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article)
+2. [从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海](https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article)
+3. [利用 Workload Identity Federation 清除 GCP 中长期有效的凭据](https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article)
+4. [Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据](https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article)
+5. [AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来](https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -44,27 +44,19 @@
 
 ## MIT Technology Review
 
-1. [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
-2. [The Download: selling battlefield drone data and AI reshaping language](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/)
-3. [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/)
-4. [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/)
-5. [Agriculture relies on fossil fuels. It’s costing us.](https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/)
+1. [The Download: the hunt for underground hydrogen and more rogue OpenAI agents](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)
+2. [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
+3. [The Download: selling battlefield drone data and AI reshaping language](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/)
+4. [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/)
+5. [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/)
 
 ## Hacker News
 
-1. [Impedance Matching](https://www.edge.org/response-detail/27238)
-2. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
-3. [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
-4. [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
-5. [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
-
-## AI News
-
-1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
-2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
-3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
-4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
-5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
+1. [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
+2. [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
+3. [Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
+4. [Impedance Matching (2017)](https://www.edge.org/response-detail/27238)
+5. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
 
 ## 阮一峰网络日志
 
