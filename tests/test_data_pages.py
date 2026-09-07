@@ -68,6 +68,12 @@ class WorkflowContractTests(unittest.TestCase):
                 with self.subTest(workflow=filename, value=value):
                     self.assertIn(value, content)
 
+    def test_archive_workflow_uses_workspace_absolute_paths(self):
+        content = Path(".github/workflows/archive-weekly.yml").read_text(encoding="utf-8")
+        self.assertIn('git -C "$GITHUB_WORKSPACE/runtime"', content)
+        self.assertIn('git -C "$GITHUB_WORKSPACE/app"', content)
+        self.assertIn('python "$GITHUB_WORKSPACE/app/src/script/archive.py"', content)
+
     def test_daily_render_uses_project_timezone(self):
         content = Path(".github/workflows/render-daily.yml").read_text(encoding="utf-8")
         self.assertIn("TZ: Asia/Shanghai", content)

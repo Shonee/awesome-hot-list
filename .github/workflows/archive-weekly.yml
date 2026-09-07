@@ -56,17 +56,17 @@ jobs:
 
       - name: Resolve archive metadata
         run: |
-          echo "SOURCE_COMMIT=$(git -C app rev-parse HEAD)" >> "$GITHUB_ENV"
+          echo "SOURCE_COMMIT=$(git -C "$GITHUB_WORKSPACE/app" rev-parse HEAD)" >> "$GITHUB_ENV"
           echo "ARCHIVE_WORK=$RUNNER_TEMP/archive-work" >> "$GITHUB_ENV"
 
       - name: Build seven-day rolling archive
         id: package
         run: |
-          archive_args=(prepare --root runtime --retention-days 7 --output-dir "$ARCHIVE_WORK" --source-commit "$SOURCE_COMMIT")
+          archive_args=(prepare --root "$GITHUB_WORKSPACE/runtime" --retention-days 7 --output-dir "$ARCHIVE_WORK" --source-commit "$SOURCE_COMMIT")
           if [ "$INCLUDE_LEGACY" = "true" ]; then
             archive_args+=(--include-legacy)
           fi
-          python app/src/script/archive.py "${archive_args[@]}"
+          python "$GITHUB_WORKSPACE/app/src/script/archive.py" "${archive_args[@]}"
           python - <<'PY' >> "$GITHUB_OUTPUT"
           import json
           import os
@@ -82,7 +82,7 @@ jobs:
 
       - name: Verify local archive
         if: steps.package.outputs.has_files == 'true'
-        run: python app/src/script/archive.py verify --root runtime --output-dir "$ARCHIVE_WORK"
+        run: python "$GITHUB_WORKSPACE/app/src/script/archive.py" verify --root "$GITHUB_WORKSPACE/runtime" --output-dir "$ARCHIVE_WORK"
 
       - name: Stop after dry run
         if: env.DRY_RUN == 'true'
@@ -131,36 +131,36 @@ jobs:
         if: env.DRY_RUN != 'true'
         run: |
           set -euo pipefail
-          expected_head="$(git -C runtime rev-parse HEAD)"
-          git -C runtime fetch origin data-pages
-          remote_head="$(git -C runtime rev-parse origin/data-pages)"
+          expected_head="$(git -C "$GITHUB_WORKSPACE/runtime" rev-parse HEAD)"
+          git -C "$GITHUB_WORKSPACE/runtime" fetch origin data-pages
+          remote_head="$(git -C "$GITHUB_WORKSPACE/runtime" rev-parse origin/data-pages)"
           if [ "$expected_head" != "$remote_head" ]; then
             echo "data-pages changed while archiving; rerun against the current snapshot." >&2
             exit 1
           fi
 
           if [ "${{ steps.package.outputs.has_files }}" = "true" ]; then
-            python app/src/script/archive.py clean --root runtime --output-dir "$ARCHIVE_WORK"
+            python "$GITHUB_WORKSPACE/app/src/script/archive.py" clean --root "$GITHUB_WORKSPACE/runtime" --output-dir "$ARCHIVE_WORK"
           fi
 
           snapshot_dir="$(mktemp -d)"
-          if [ -d runtime/archived ]; then
-            cp -a runtime/archived "$snapshot_dir/"
+          if [ -d "$GITHUB_WORKSPACE/runtime/archived" ]; then
+            cp -a "$GITHUB_WORKSPACE/runtime/archived" "$snapshot_dir/"
           fi
-          cp -a runtime/site "$snapshot_dir/"
+          cp -a "$GITHUB_WORKSPACE/runtime/site" "$snapshot_dir/"
 
-          git -C runtime config user.name "github-actions[bot]"
-          git -C runtime config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git -C runtime switch --orphan compacted-data-pages
-          git -C runtime rm -rf --ignore-unmatch .
+          git -C "$GITHUB_WORKSPACE/runtime" config user.name "github-actions[bot]"
+          git -C "$GITHUB_WORKSPACE/runtime" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$GITHUB_WORKSPACE/runtime" switch --orphan compacted-data-pages
+          git -C "$GITHUB_WORKSPACE/runtime" rm -rf --ignore-unmatch .
           if [ -d "$snapshot_dir/archived" ]; then
-            cp -a "$snapshot_dir/archived" runtime/
-            git -C runtime add archived
+            cp -a "$snapshot_dir/archived" "$GITHUB_WORKSPACE/runtime/"
+            git -C "$GITHUB_WORKSPACE/runtime" add archived
           fi
-          cp -a "$snapshot_dir/site" runtime/
-          git -C runtime add site
-          git -C runtime commit -m "chore: compact seven-day data snapshot"
-          git -C runtime push \
+          cp -a "$snapshot_dir/site" "$GITHUB_WORKSPACE/runtime/"
+          git -C "$GITHUB_WORKSPACE/runtime" add site
+          git -C "$GITHUB_WORKSPACE/runtime" commit -m "chore: compact seven-day data snapshot"
+          git -C "$GITHUB_WORKSPACE/runtime" push \
             --force-with-lease=refs/heads/data-pages:"$expected_head" \
             origin HEAD:data-pages
 
