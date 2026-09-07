@@ -1,14 +1,14 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-08",
-    "generatedAt": "2026-09-08 02:25:48",
-    "summary": "郑钦文vs斯瓦泰克成为本期综合热度最高的话题，GPT-6不只Astra，Sol内测结果曝光，速度快6倍紧随其后。当前覆盖 20 个有效渠道，共形成 98 个榜单时间切片；发现 9 个跨渠道重复热点。",
+    "generatedAt": "2026-09-08 02:33:13",
+    "summary": "郑钦文vs斯瓦泰克成为本期综合热度最高的话题，GPT-6不只Astra，Sol内测结果曝光，速度快6倍紧随其后。当前覆盖 21 个有效渠道，共形成 99 个榜单时间切片；发现 9 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1214,
+        "deduplicated": 1223,
         "resonance": 9,
         "maxRise": 50,
-        "slices": 98,
-        "coverage": 87
+        "slices": 99,
+        "coverage": 91
     },
     "topTopics": [
         {
@@ -516,7 +516,7 @@
         },
         {
             "word": "ST",
-            "weight": 74,
+            "weight": 75,
             "tone": "teal",
             "hits": [
                 {
@@ -728,6 +728,14 @@
                     "url": "http://news.10jqka.com.cn/20260907/c679671334.shtml"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+                    "url": "https://www.v2ex.com/t/1239922"
+                },
+                {
                     "channelId": "stackoverflow",
                     "channelName": "Stack Overflow",
                     "ranking": "热门问题",
@@ -750,14 +758,6 @@
                     "rank": 3,
                     "title": "Why it works on struct but not in a class?",
                     "url": "https://stackoverflow.com/questions/80001425/why-it-works-on-struct-but-not-in-a-class"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 5,
-                    "title": "Type hint a default return type used unless more specific overload exists",
-                    "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists"
                 }
             ]
         },
@@ -1861,9 +1861,208 @@
             ]
         },
         {
+            "word": "Pro",
+            "weight": 24,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 12,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 8,
+                    "title": "王者归来，华为“韬定律”麒麟9050 Pro全球发布，三折叠机皇19999元起",
+                    "url": "https://www.36kr.com/p/3973139263582720"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 35,
+                    "title": "9月7日，J.P.Morgan Structured Products B.V.刊发补充上市文件，拟发行四只单一股份可赎回牛熊证，由JPMorgan Chase Bank,National Association无条件及不可撤回地担保， ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671334.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
+                    "url": "https://www.v2ex.com/t/1239906"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 6,
+                    "title": "Strapi property kind issue upgrading from 5.36.1 to 5.52.3",
+                    "url": "https://stackoverflow.com/questions/80001410/strapi-property-kind-issue-upgrading-from-5-36-1-to-5-52-3"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 9,
+                    "title": "How to get a VMs configured provider from inside a Vagrantfile",
+                    "url": "https://stackoverflow.com/questions/80001413/how-to-get-a-vms-configured-provider-from-inside-a-vagrantfile"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 13,
+                    "title": "How to properly trigger DTO validation in Fuego",
+                    "url": "https://stackoverflow.com/questions/80001408/how-to-properly-trigger-dto-validation-in-fuego"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 18,
+                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
+                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 25,
+                    "title": "Programmatically determine that an archived object has been restored",
+                    "url": "https://stackoverflow.com/questions/80001366/programmatically-determine-that-an-archived-object-has-been-restored"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 30,
+                    "title": "pwntool process is none [Starting remote process None: Process creation failed]",
+                    "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 41,
+                    "title": "What Kanban project management tools work well for small development teams?",
+                    "url": "https://stackoverflow.com/questions/80001317/what-kanban-project-management-tools-work-well-for-small-development-teams"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 49,
+                    "title": "Problems with getting variables via lifespan context manager in Fastapi",
+                    "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 24,
+                    "title": "人找车，gpt pro 20x  希望没有日限额",
+                    "url": "https://www.nodeseek.com/post-916398-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "300-400 人民币 gpt pro5x 他们是怎么开的",
+                    "url": "https://www.nodeseek.com/post-917301-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 35,
+                    "title": "[TQ]megabox pro 晚高峰",
+                    "url": "https://www.nodeseek.com/post-917248-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 39,
+                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
+                    "url": "https://www.nodeseek.com/post-917073-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 50,
+                    "title": "这种有三次重置卡的plus升级到pro是不是很爽",
+                    "url": "https://www.nodeseek.com/post-917298-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "DMIT LAX.AS3.Pro.TINY 剩余价值+溢价60/台 2台打包 内详",
+                    "url": "https://www.nodeseek.com/post-916678-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 38,
+                    "title": "pro20倍好爽",
+                    "url": "https://www.nodeseek.com/post-917342-1"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 7,
+                    "title": "VMware Workstation Pro 26H1u1 25688693 简体中文汉化版&简体中文语言包",
+                    "url": "https://www.52pojie.cn/thread-2126269-1-1.html"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 17,
+                    "title": "VMware Workstation Pro 2026 汉化助手（通杀26所有版本）",
+                    "url": "https://www.52pojie.cn/thread-2126628-1-1.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "少数派",
+                    "rank": 4,
+                    "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+                    "url": "https://sspai.com/post/114250"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "极客公园",
+                    "rank": 5,
+                    "title": "麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了",
+                    "url": "http://www.geekpark.net/news/369954"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 4,
+                    "title": "If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one",
+                    "url": "https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/"
+                }
+            ]
+        },
+        {
             "word": "折叠",
             "weight": 17,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2070,7 +2269,7 @@
         {
             "word": "美国",
             "weight": 13,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2205,7 +2404,7 @@
         {
             "word": "日本",
             "weight": 11,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2306,200 +2505,104 @@
             ]
         },
         {
-            "word": "Pro",
-            "weight": 23,
-            "tone": "gold",
+            "word": "支持",
+            "weight": 11,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
-                    "rank": 12,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
+                    "rank": 9,
+                    "title": "支持独立部署的地图方案",
+                    "url": "https://juejin.cn/post/7682362046578966580"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 52,
+                    "title": "雷军：希望用户把支持苹果、华为折叠屏的预算用到小米18fold上，一定会更觉得物超所值，这是小米目前最高端的手机，集所有科技一体",
+                    "url": "https://bbs.hupu.com/642312153.html"
                 },
                 {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
-                    "rank": 8,
-                    "title": "王者归来，华为“韬定律”麒麟9050 Pro全球发布，三折叠机皇19999元起",
-                    "url": "https://www.36kr.com/p/3973139263582720"
+                    "rank": 1,
+                    "title": "8点1氪丨耐克将被移出标普100指数；iPhone折叠版定价或14999元起；财政部将发行特别国债，支持8家中央金融企业补充资本",
+                    "url": "https://www.36kr.com/p/3972584225747209"
                 },
                 {
                     "channelId": "tonghuashun",
                     "channelName": "同花顺",
                     "ranking": "今日要闻",
-                    "rank": 35,
-                    "title": "9月7日，J.P.Morgan Structured Products B.V.刊发补充上市文件，拟发行四只单一股份可赎回牛熊证，由JPMorgan Chase Bank,National Association无条件及不可撤回地担保， ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671334.shtml"
+                    "rank": 4,
+                    "title": "■李文    财政部近期将发行3000亿元特别国债，支持8家中央金融企业补充核心一级资本。本次资本补充立足当前、谋划长远，充分彰显出我国建设 ...",
+                    "url": "http://news.10jqka.com.cn/20260908/c679672687.shtml"
                 },
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 6,
-                    "title": "Strapi property kind issue upgrading from 5.36.1 to 5.52.3",
-                    "url": "https://stackoverflow.com/questions/80001410/strapi-property-kind-issue-upgrading-from-5-36-1-to-5-52-3"
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 19,
+                    "title": "“我们将培育具有较强创新能力和国际竞争力的数字贸易领军企业，支持企业拓展国际市常”9月7日，商务部副部长鄢东在国新办新闻发布会上表示，要积极培育外向度高、具有独特竞争优势的中小型 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679672254.shtml"
                 },
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 9,
-                    "title": "How to get a VMs configured provider from inside a Vagrantfile",
-                    "url": "https://stackoverflow.com/questions/80001413/how-to-get-a-vms-configured-provider-from-inside-a-vagrantfile"
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 29,
+                    "title": "凤凰网财经讯 据央视新闻消息，财政部近期将发行3000亿元特别国债，支持工商银行、农业银行、中国进出口银行、中国信保、中国再保、中国人寿、中国太平、中国人保8家中央金融企业补充核心一 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671687.shtml"
                 },
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 13,
-                    "title": "How to properly trigger DTO validation in Fuego",
-                    "url": "https://stackoverflow.com/questions/80001408/how-to-properly-trigger-dto-validation-in-fuego"
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 2,
+                    "title": "数字贸易又将迎来更多政策支持。商务部副部长鄢东9月7日在国新办新闻发布会上表示，将大力发展对外贸易，支持远程医疗、在线教育、云端办公等数字服务出口，培育数字贸易新增长点。拓展数字 ...",
+                    "url": "http://news.10jqka.com.cn/20260908/c679673021.shtml"
                 },
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 18,
-                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
-                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+                    "url": "https://www.v2ex.com/t/1239922"
                 },
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 25,
-                    "title": "Programmatically determine that an archived object has been restored",
-                    "url": "https://stackoverflow.com/questions/80001366/programmatically-determine-that-an-archived-object-has-been-restored"
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 16,
+                    "title": "对Codex原生支持最好的面板是哪个呢？（Codex部署在vps上）",
+                    "url": "https://www.nodeseek.com/post-917265-1"
                 },
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 30,
-                    "title": "pwntool process is none [Starting remote process None: Process creation failed]",
-                    "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed"
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 19,
+                    "title": "UFS改U盘主控，对应支持型号及量产工具",
+                    "url": "https://www.52pojie.cn/thread-2126621-1-1.html"
                 },
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
                     "rank": 41,
-                    "title": "What Kanban project management tools work well for small development teams?",
-                    "url": "https://stackoverflow.com/questions/80001317/what-kanban-project-management-tools-work-well-for-small-development-teams"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 49,
-                    "title": "Problems with getting variables via lifespan context manager in Fastapi",
-                    "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 24,
-                    "title": "人找车，gpt pro 20x  希望没有日限额",
-                    "url": "https://www.nodeseek.com/post-916398-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "300-400 人民币 gpt pro5x 他们是怎么开的",
-                    "url": "https://www.nodeseek.com/post-917301-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 35,
-                    "title": "[TQ]megabox pro 晚高峰",
-                    "url": "https://www.nodeseek.com/post-917248-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
-                    "url": "https://www.nodeseek.com/post-917073-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 50,
-                    "title": "这种有三次重置卡的plus升级到pro是不是很爽",
-                    "url": "https://www.nodeseek.com/post-917298-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "DMIT LAX.AS3.Pro.TINY 剩余价值+溢价60/台 2台打包 内详",
-                    "url": "https://www.nodeseek.com/post-916678-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 38,
-                    "title": "pro20倍好爽",
-                    "url": "https://www.nodeseek.com/post-917342-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 7,
-                    "title": "VMware Workstation Pro 26H1u1 25688693 简体中文汉化版&简体中文语言包",
-                    "url": "https://www.52pojie.cn/thread-2126269-1-1.html"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 17,
-                    "title": "VMware Workstation Pro 2026 汉化助手（通杀26所有版本）",
-                    "url": "https://www.52pojie.cn/thread-2126628-1-1.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "少数派",
-                    "rank": 4,
-                    "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-                    "url": "https://sspai.com/post/114250"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "极客公园",
-                    "rank": 5,
-                    "title": "麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了",
-                    "url": "http://www.geekpark.net/news/369954"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 4,
-                    "title": "If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one",
-                    "url": "https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/"
+                    "title": "Geek卸载工具修改版v1.5.4.180，支持批量卸载！",
+                    "url": "https://www.52pojie.cn/thread-2125056-1-1.html"
                 }
             ]
         },
         {
             "word": "终于",
             "weight": 11,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2602,7 +2705,7 @@
         {
             "word": "Mate",
             "weight": 10,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2687,9 +2790,677 @@
             ]
         },
         {
+            "word": "用户",
+            "weight": 7,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 5,
+                    "title": "余承东建议苹果用户买华为备用机",
+                    "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA&Refer=index"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 12,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 8,
+                    "title": "余承东建议苹果用户买华为当备用机",
+                    "url": "https://www.toutiao.com/trending/7682710222638301211/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682710222638301211%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%BD%93%E5%A4%87%E7%94%A8%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7682710222638301211"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "余承东建议苹果用户买华为当备用机",
+                    "url": "https://www.toutiao.com/trending/7682710222638301211/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682710222638301211%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%BD%93%E5%A4%87%E7%94%A8%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7682710222638301211"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "余承东建议苹果用户买华为当备用机",
+                    "url": "https://www.toutiao.com/trending/7682710222638301211/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682710222638301211%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%BD%93%E5%A4%87%E7%94%A8%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7682710222638301211"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 52,
+                    "title": "雷军：希望用户把支持苹果、华为折叠屏的预算用到小米18fold上，一定会更觉得物超所值，这是小米目前最高端的手机，集所有科技一体",
+                    "url": "https://bbs.hupu.com/642312153.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 20,
+                    "title": "特斯拉Cybercab载客首周，第一批用户怎么看？",
+                    "url": "https://www.36kr.com/p/3972736887239174"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+                    "url": "https://www.v2ex.com/t/1239922"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 5,
+                    "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+                    "url": "https://www.qbitai.com/2026/09/485064.html"
+                }
+            ]
+        },
+        {
+            "word": "GPT",
+            "weight": 27,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 3,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 5,
+                    "title": "GPT - 6 Astra 的使用焚诀",
+                    "url": "https://juejin.cn/post/7682634449856217115"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 12,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 24,
+                    "title": "GPT-6单价变成2.5倍，写代码却未必更贵",
+                    "url": "https://juejin.cn/post/7682069529204686891"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 25,
+                    "title": "GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过",
+                    "url": "https://juejin.cn/post/7681969753800523795"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 28,
+                    "title": "使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词",
+                    "url": "https://juejin.cn/post/7681858280943403059"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 29,
+                    "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
+                    "url": "https://juejin.cn/post/7681626346015916068"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
+                    "url": "https://juejin.cn/post/7682241475045687339"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 38,
+                    "title": "用 GPT-6-Astra，先检查这几个设置",
+                    "url": "https://juejin.cn/post/7681861285420285998"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 45,
+                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
+                    "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+                    "url": "https://www.ithome.com/0/999/488.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 9,
+                    "title": "一台 3D 打印机，为什么藏着 GPT-6 最大的野心？",
+                    "url": "https://www.36kr.com/p/3970173382340867"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 17,
+                    "title": "GPT-6 Astra刚发布三天，OpenAI首席科学家喊“刹车”",
+                    "url": "https://www.36kr.com/p/3972734557581572"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 31,
+                    "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
+                    "url": "https://www.36kr.com/p/3972817823609097"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+                    "url": "https://www.v2ex.com/t/1239922"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
+                    "url": "https://www.v2ex.com/t/1239906"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "GPT-6 Astra成功通关《传送门》",
+                    "url": "https://www.nodeseek.com/post-917225-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 24,
+                    "title": "人找车，gpt pro 20x  希望没有日限额",
+                    "url": "https://www.nodeseek.com/post-916398-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 38,
+                    "title": "有没有gpt学生认证和绑卡的，带价来",
+                    "url": "https://www.nodeseek.com/post-917246-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 41,
+                    "title": "菲区GPT怎么不能免税了，账单地址中没有USA",
+                    "url": "https://www.nodeseek.com/post-917259-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "请教gpt网页版的最新是 Astra吗",
+                    "url": "https://www.nodeseek.com/post-917284-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "300-400 人民币 gpt pro5x 他们是怎么开的",
+                    "url": "https://www.nodeseek.com/post-917301-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 39,
+                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
+                    "url": "https://www.nodeseek.com/post-917073-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 49,
+                    "title": "chatgpt有个账号出免费试用了，求教一些能过支付的办法",
+                    "url": "https://www.nodeseek.com/post-917232-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 5,
+                    "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+                    "url": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 2,
+                    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+                    "url": "https://www.qbitai.com/2026/09/485431.html"
+                }
+            ]
+        },
+        {
+            "word": "gpt",
+            "weight": 27,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 3,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 5,
+                    "title": "GPT - 6 Astra 的使用焚诀",
+                    "url": "https://juejin.cn/post/7682634449856217115"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 12,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 24,
+                    "title": "GPT-6单价变成2.5倍，写代码却未必更贵",
+                    "url": "https://juejin.cn/post/7682069529204686891"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 25,
+                    "title": "GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过",
+                    "url": "https://juejin.cn/post/7681969753800523795"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 28,
+                    "title": "使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词",
+                    "url": "https://juejin.cn/post/7681858280943403059"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 29,
+                    "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
+                    "url": "https://juejin.cn/post/7681626346015916068"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
+                    "url": "https://juejin.cn/post/7682241475045687339"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 38,
+                    "title": "用 GPT-6-Astra，先检查这几个设置",
+                    "url": "https://juejin.cn/post/7681861285420285998"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 45,
+                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
+                    "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+                    "url": "https://www.ithome.com/0/999/488.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 9,
+                    "title": "一台 3D 打印机，为什么藏着 GPT-6 最大的野心？",
+                    "url": "https://www.36kr.com/p/3970173382340867"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 17,
+                    "title": "GPT-6 Astra刚发布三天，OpenAI首席科学家喊“刹车”",
+                    "url": "https://www.36kr.com/p/3972734557581572"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 31,
+                    "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
+                    "url": "https://www.36kr.com/p/3972817823609097"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+                    "url": "https://www.v2ex.com/t/1239922"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
+                    "url": "https://www.v2ex.com/t/1239906"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "GPT-6 Astra成功通关《传送门》",
+                    "url": "https://www.nodeseek.com/post-917225-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 24,
+                    "title": "人找车，gpt pro 20x  希望没有日限额",
+                    "url": "https://www.nodeseek.com/post-916398-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 38,
+                    "title": "有没有gpt学生认证和绑卡的，带价来",
+                    "url": "https://www.nodeseek.com/post-917246-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 41,
+                    "title": "菲区GPT怎么不能免税了，账单地址中没有USA",
+                    "url": "https://www.nodeseek.com/post-917259-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "请教gpt网页版的最新是 Astra吗",
+                    "url": "https://www.nodeseek.com/post-917284-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "300-400 人民币 gpt pro5x 他们是怎么开的",
+                    "url": "https://www.nodeseek.com/post-917301-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 39,
+                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
+                    "url": "https://www.nodeseek.com/post-917073-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 49,
+                    "title": "chatgpt有个账号出免费试用了，求教一些能过支付的办法",
+                    "url": "https://www.nodeseek.com/post-917232-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 5,
+                    "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+                    "url": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 2,
+                    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+                    "url": "https://www.qbitai.com/2026/09/485431.html"
+                }
+            ]
+        },
+        {
+            "word": "Astra",
+            "weight": 17,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 5,
+                    "title": "GPT - 6 Astra 的使用焚诀",
+                    "url": "https://juejin.cn/post/7682634449856217115"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 12,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 25,
+                    "title": "GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过",
+                    "url": "https://juejin.cn/post/7681969753800523795"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 28,
+                    "title": "使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词",
+                    "url": "https://juejin.cn/post/7681858280943403059"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 29,
+                    "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
+                    "url": "https://juejin.cn/post/7681626346015916068"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
+                    "url": "https://juejin.cn/post/7682241475045687339"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 38,
+                    "title": "用 GPT-6-Astra，先检查这几个设置",
+                    "url": "https://juejin.cn/post/7681861285420285998"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 45,
+                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
+                    "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+                    "url": "https://www.ithome.com/0/999/488.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 17,
+                    "title": "GPT-6 Astra刚发布三天，OpenAI首席科学家喊“刹车”",
+                    "url": "https://www.36kr.com/p/3972734557581572"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 31,
+                    "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
+                    "url": "https://www.36kr.com/p/3972817823609097"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+                    "url": "https://www.v2ex.com/t/1239922"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "GPT-6 Astra成功通关《传送门》",
+                    "url": "https://www.nodeseek.com/post-917225-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "请教gpt网页版的最新是 Astra吗",
+                    "url": "https://www.nodeseek.com/post-917284-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 39,
+                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
+                    "url": "https://www.nodeseek.com/post-917073-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 2,
+                    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+                    "url": "https://www.qbitai.com/2026/09/485431.html"
+                }
+            ]
+        },
+        {
             "word": "科技",
             "weight": 15,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2832,7 +3603,7 @@
         {
             "word": "澎程",
             "weight": 14,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2983,7 +3754,7 @@
         {
             "word": "发布会",
             "weight": 11,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3094,7 +3865,7 @@
         {
             "word": "正式",
             "weight": 11,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3189,7 +3960,7 @@
         {
             "word": "到底",
             "weight": 10,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3282,93 +4053,6 @@
             ]
         },
         {
-            "word": "支持",
-            "weight": 10,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 9,
-                    "title": "支持独立部署的地图方案",
-                    "url": "https://juejin.cn/post/7682362046578966580"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 52,
-                    "title": "雷军：希望用户把支持苹果、华为折叠屏的预算用到小米18fold上，一定会更觉得物超所值，这是小米目前最高端的手机，集所有科技一体",
-                    "url": "https://bbs.hupu.com/642312153.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 1,
-                    "title": "8点1氪丨耐克将被移出标普100指数；iPhone折叠版定价或14999元起；财政部将发行特别国债，支持8家中央金融企业补充资本",
-                    "url": "https://www.36kr.com/p/3972584225747209"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 4,
-                    "title": "■李文    财政部近期将发行3000亿元特别国债，支持8家中央金融企业补充核心一级资本。本次资本补充立足当前、谋划长远，充分彰显出我国建设 ...",
-                    "url": "http://news.10jqka.com.cn/20260908/c679672687.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 19,
-                    "title": "“我们将培育具有较强创新能力和国际竞争力的数字贸易领军企业，支持企业拓展国际市常”9月7日，商务部副部长鄢东在国新办新闻发布会上表示，要积极培育外向度高、具有独特竞争优势的中小型 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679672254.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 29,
-                    "title": "凤凰网财经讯 据央视新闻消息，财政部近期将发行3000亿元特别国债，支持工商银行、农业银行、中国进出口银行、中国信保、中国再保、中国人寿、中国太平、中国人保8家中央金融企业补充核心一 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671687.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "数字贸易又将迎来更多政策支持。商务部副部长鄢东9月7日在国新办新闻发布会上表示，将大力发展对外贸易，支持远程医疗、在线教育、云端办公等数字服务出口，培育数字贸易新增长点。拓展数字 ...",
-                    "url": "http://news.10jqka.com.cn/20260908/c679673021.shtml"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 16,
-                    "title": "对Codex原生支持最好的面板是哪个呢？（Codex部署在vps上）",
-                    "url": "https://www.nodeseek.com/post-917265-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 19,
-                    "title": "UFS改U盘主控，对应支持型号及量产工具",
-                    "url": "https://www.52pojie.cn/thread-2126621-1-1.html"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 41,
-                    "title": "Geek卸载工具修改版v1.5.4.180，支持批量卸载！",
-                    "url": "https://www.52pojie.cn/thread-2125056-1-1.html"
-                }
-            ]
-        },
-        {
             "word": "vs",
             "weight": 8,
             "tone": "",
@@ -3440,558 +4124,9 @@
             ]
         },
         {
-            "word": "GPT",
-            "weight": 25,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 3,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 5,
-                    "title": "GPT - 6 Astra 的使用焚诀",
-                    "url": "https://juejin.cn/post/7682634449856217115"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 12,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 24,
-                    "title": "GPT-6单价变成2.5倍，写代码却未必更贵",
-                    "url": "https://juejin.cn/post/7682069529204686891"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 25,
-                    "title": "GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过",
-                    "url": "https://juejin.cn/post/7681969753800523795"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 28,
-                    "title": "使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词",
-                    "url": "https://juejin.cn/post/7681858280943403059"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 29,
-                    "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
-                    "url": "https://juejin.cn/post/7681626346015916068"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 32,
-                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
-                    "url": "https://juejin.cn/post/7682241475045687339"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 38,
-                    "title": "用 GPT-6-Astra，先检查这几个设置",
-                    "url": "https://juejin.cn/post/7681861285420285998"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 45,
-                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
-                    "url": "https://juejin.cn/post/7681939121792778266"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
-                    "url": "https://juejin.cn/post/7682013859251863552"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
-                    "url": "https://www.ithome.com/0/999/488.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 9,
-                    "title": "一台 3D 打印机，为什么藏着 GPT-6 最大的野心？",
-                    "url": "https://www.36kr.com/p/3970173382340867"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 17,
-                    "title": "GPT-6 Astra刚发布三天，OpenAI首席科学家喊“刹车”",
-                    "url": "https://www.36kr.com/p/3972734557581572"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 31,
-                    "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
-                    "url": "https://www.36kr.com/p/3972817823609097"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "GPT-6 Astra成功通关《传送门》",
-                    "url": "https://www.nodeseek.com/post-917225-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 24,
-                    "title": "人找车，gpt pro 20x  希望没有日限额",
-                    "url": "https://www.nodeseek.com/post-916398-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 38,
-                    "title": "有没有gpt学生认证和绑卡的，带价来",
-                    "url": "https://www.nodeseek.com/post-917246-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 41,
-                    "title": "菲区GPT怎么不能免税了，账单地址中没有USA",
-                    "url": "https://www.nodeseek.com/post-917259-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 10,
-                    "title": "请教gpt网页版的最新是 Astra吗",
-                    "url": "https://www.nodeseek.com/post-917284-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "300-400 人民币 gpt pro5x 他们是怎么开的",
-                    "url": "https://www.nodeseek.com/post-917301-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
-                    "url": "https://www.nodeseek.com/post-917073-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 49,
-                    "title": "chatgpt有个账号出免费试用了，求教一些能过支付的办法",
-                    "url": "https://www.nodeseek.com/post-917232-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 5,
-                    "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
-                    "url": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 2,
-                    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-                    "url": "https://www.qbitai.com/2026/09/485431.html"
-                }
-            ]
-        },
-        {
-            "word": "gpt",
-            "weight": 25,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 3,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 5,
-                    "title": "GPT - 6 Astra 的使用焚诀",
-                    "url": "https://juejin.cn/post/7682634449856217115"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 12,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 24,
-                    "title": "GPT-6单价变成2.5倍，写代码却未必更贵",
-                    "url": "https://juejin.cn/post/7682069529204686891"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 25,
-                    "title": "GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过",
-                    "url": "https://juejin.cn/post/7681969753800523795"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 28,
-                    "title": "使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词",
-                    "url": "https://juejin.cn/post/7681858280943403059"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 29,
-                    "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
-                    "url": "https://juejin.cn/post/7681626346015916068"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 32,
-                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
-                    "url": "https://juejin.cn/post/7682241475045687339"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 38,
-                    "title": "用 GPT-6-Astra，先检查这几个设置",
-                    "url": "https://juejin.cn/post/7681861285420285998"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 45,
-                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
-                    "url": "https://juejin.cn/post/7681939121792778266"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
-                    "url": "https://juejin.cn/post/7682013859251863552"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
-                    "url": "https://www.ithome.com/0/999/488.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 9,
-                    "title": "一台 3D 打印机，为什么藏着 GPT-6 最大的野心？",
-                    "url": "https://www.36kr.com/p/3970173382340867"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 17,
-                    "title": "GPT-6 Astra刚发布三天，OpenAI首席科学家喊“刹车”",
-                    "url": "https://www.36kr.com/p/3972734557581572"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 31,
-                    "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
-                    "url": "https://www.36kr.com/p/3972817823609097"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "GPT-6 Astra成功通关《传送门》",
-                    "url": "https://www.nodeseek.com/post-917225-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 24,
-                    "title": "人找车，gpt pro 20x  希望没有日限额",
-                    "url": "https://www.nodeseek.com/post-916398-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 38,
-                    "title": "有没有gpt学生认证和绑卡的，带价来",
-                    "url": "https://www.nodeseek.com/post-917246-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 41,
-                    "title": "菲区GPT怎么不能免税了，账单地址中没有USA",
-                    "url": "https://www.nodeseek.com/post-917259-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 10,
-                    "title": "请教gpt网页版的最新是 Astra吗",
-                    "url": "https://www.nodeseek.com/post-917284-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "300-400 人民币 gpt pro5x 他们是怎么开的",
-                    "url": "https://www.nodeseek.com/post-917301-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
-                    "url": "https://www.nodeseek.com/post-917073-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 49,
-                    "title": "chatgpt有个账号出免费试用了，求教一些能过支付的办法",
-                    "url": "https://www.nodeseek.com/post-917232-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 5,
-                    "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
-                    "url": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 2,
-                    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-                    "url": "https://www.qbitai.com/2026/09/485431.html"
-                }
-            ]
-        },
-        {
-            "word": "Astra",
-            "weight": 16,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 5,
-                    "title": "GPT - 6 Astra 的使用焚诀",
-                    "url": "https://juejin.cn/post/7682634449856217115"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 12,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 25,
-                    "title": "GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过",
-                    "url": "https://juejin.cn/post/7681969753800523795"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 28,
-                    "title": "使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词",
-                    "url": "https://juejin.cn/post/7681858280943403059"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 29,
-                    "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
-                    "url": "https://juejin.cn/post/7681626346015916068"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 32,
-                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
-                    "url": "https://juejin.cn/post/7682241475045687339"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 38,
-                    "title": "用 GPT-6-Astra，先检查这几个设置",
-                    "url": "https://juejin.cn/post/7681861285420285998"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 45,
-                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
-                    "url": "https://juejin.cn/post/7681939121792778266"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
-                    "url": "https://juejin.cn/post/7682013859251863552"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
-                    "url": "https://www.ithome.com/0/999/488.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 17,
-                    "title": "GPT-6 Astra刚发布三天，OpenAI首席科学家喊“刹车”",
-                    "url": "https://www.36kr.com/p/3972734557581572"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 31,
-                    "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
-                    "url": "https://www.36kr.com/p/3972817823609097"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "GPT-6 Astra成功通关《传送门》",
-                    "url": "https://www.nodeseek.com/post-917225-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 10,
-                    "title": "请教gpt网页版的最新是 Astra吗",
-                    "url": "https://www.nodeseek.com/post-917284-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
-                    "url": "https://www.nodeseek.com/post-917073-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 2,
-                    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-                    "url": "https://www.qbitai.com/2026/09/485431.html"
-                }
-            ]
-        },
-        {
             "word": "现在",
             "weight": 14,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4110,7 +4245,7 @@
         {
             "word": "OpenAI",
             "weight": 12,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -4213,7 +4348,7 @@
         {
             "word": "全球",
             "weight": 11,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -4308,7 +4443,7 @@
         {
             "word": "模型",
             "weight": 11,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -4403,7 +4538,7 @@
         {
             "word": "喜欢",
             "weight": 9,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4498,7 +4633,7 @@
         {
             "word": "新品",
             "weight": 8,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4585,7 +4720,7 @@
         {
             "word": "首发",
             "weight": 8,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4656,7 +4791,7 @@
         {
             "word": "财政部",
             "weight": 7,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4727,7 +4862,7 @@
         {
             "word": "苹果",
             "weight": 7,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -4822,7 +4957,7 @@
         {
             "word": "3D",
             "weight": 6,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4877,7 +5012,7 @@
         {
             "word": "赛道",
             "weight": 6,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4930,9 +5065,152 @@
             ]
         },
         {
+            "word": "公司",
+            "weight": 17,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 21,
+                    "title": "初创公司的“自己人”，到底能当多久？",
+                    "url": "https://juejin.cn/post/7682601317680316416"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 6,
+                    "title": "9月7日晚间，“4天3板”播恩集团(SZ001366，股价15.8元，市值25.39亿元)发布《股票交易异常波动公告》，公司股票于2026年9月4日、9月7日连续两个交易日收盘价涨幅偏离值累计超过20%，根据深 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679672638.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 14,
+                    "title": "昔日私募人士徐翔、文峰股份前董事长徐长江涉嫌操纵证券市场责任纠纷案迎来二审判决。9月7日晚间，ST文峰公告称，公司近日收到江苏省高级人民法院(以下简称“江苏高院”)二审民事判决书，涉 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679672463.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 21,
+                    "title": "每经AI快讯，9月7日，德赛西威(002920.SZ)公告称，持股5%以上股东惠州创投公司拟通过非公开协议转让方式，以89.90元/股向惠州产投公司转让其持有的公司无限售流通股3580.86万股，占公司总股 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679672236.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 26,
+                    "title": "云天励飞：公司将于2026年9月23日召开2026年第二次临时股东会",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671795.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 27,
+                    "title": "证券日报网讯9月7日，云天励飞发布公告称，公司将于2026年9月23日召开2026年第二次临时股东会。 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671795.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 33,
+                    "title": "投资者诉徐翔、徐长江、ST文峰(601010)操纵证券市场责任纠纷案(下称“投资者诉徐翔案”)再有新进展。 ST文峰9月7日晚间披露，公司近日收到江苏省高级人民法院(下称“江苏省高院”)送达的《 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671363.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 37,
+                    "title": "证券日报网讯9月7日，天智航发布公告称，公司于2026年9月7日召开了总经理办公会会议，审议通过了《关于新增认定核心技术人员的议案》。基于长期发展规划与加强核心 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671333.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 40,
+                    "title": "云天励飞：关于修订《公司章程》并办理工商变更登记的公告",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671310.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 41,
+                    "title": "证券日报网讯9月7日，云天励飞发布公告称，公司于2026年9月7日召开第二届董事会2026年第五次临时会议，审议通过《关于修订并办理工商变更登记的议案》，拟将《公司 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671310.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 42,
+                    "title": "新迅达：关于公司办公地址变更的公告",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671295.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 43,
+                    "title": "证券日报网讯9月7日，新迅达发布公告称，因经营发展需要，公司办公地址由“广东省深圳市福田区福田街道福安社区福华一路1号深圳大中华国际交易广场2501”变更为“ ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671295.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 45,
+                    "title": "证券日报网讯9月7日，山金国际发布公告称，公司于2026年9月7日召开第九届董事会第二十七次会议，审议通过《选举徐建新先生为公司副董事长的议案》《调整第九届董事 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671272.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 46,
+                    "title": "仙乐健康：关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671254.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 47,
+                    "title": "证券日报网讯9月7日，仙乐健康发布公告称，公司计划于2026年9月15日14：30-17：00参加由中国证券监督管理委员会广东监管局及广东上市公司协会主办，深圳市全景网络 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671254.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "前公司领导想让我回去工作，还有必要回去吗？",
+                    "url": "https://www.v2ex.com/t/1239907"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 9,
+                    "title": "直击长鑫科技业绩会：公司产品性能质量及供应稳定性具备与国际主流厂商竞争能力",
+                    "url": "https://www.cls.cn/detail/2476120"
+                }
+            ]
+        },
+        {
             "word": "公告",
             "weight": 17,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -5075,7 +5353,7 @@
         {
             "word": "郑钦文",
             "weight": 15,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5202,7 +5480,7 @@
         {
             "word": "Agent",
             "weight": 14,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -5321,7 +5599,7 @@
         {
             "word": "第三",
             "weight": 13,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5468,165 +5746,15 @@
                     "url": "https://www.52pojie.cn/thread-2126475-1-1.html"
                 }
             ]
-        },
-        {
-            "word": "冠军",
-            "weight": 9,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 26,
-                    "title": "中国机车靠什么夺冠？对话【张雪机车】冠军车手德比斯",
-                    "url": "https://b23.tv/BV1nntm6GEVr"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 7,
-                    "title": "丁禹兮和冠军来真的",
-                    "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E5%92%8C%E5%86%A0%E5%86%9B%E6%9D%A5%E7%9C%9F%E7%9A%84&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 46,
-                    "title": "麦迪说如果 03 年季后赛首轮他跨过了活塞，那一年的冠军很可能就是他的了，你们觉得他说的有道理吗？",
-                    "url": "https://www.zhihu.com/question/1960604398884483981"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 2,
-                    "title": "冠军之心：篮球生涯",
-                    "url": "https://m.hupu.com/hot?tagId=156346"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 4,
-                    "title": "从第十到冠军",
-                    "url": "https://m.hupu.com/hot?tagId=156397"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 5,
-                    "title": "冠军经理",
-                    "url": "https://m.hupu.com/hot?tagId=155315"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 6,
-                    "title": "LPL季后赛冠军之路",
-                    "url": "https://m.hupu.com/hot?tagId=155794"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 21,
-                    "title": "J博士：这支76人能创造纪录，也有机会赢得总冠军",
-                    "url": "https://m.hupu.com/hot?tagId=156453"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 28,
-                    "title": "斯科特称总冠军远比常规赛MVP重",
-                    "url": "https://m.hupu.com/hot?tagId=156483"
-                }
-            ]
-        },
-        {
-            "word": "体验",
-            "weight": 8,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 6,
-                    "title": "小米N90实车抢先深度体验",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3N90%E5%AE%9E%E8%BD%A6%E6%8A%A2%E5%85%88%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 23,
-                    "title": "「小白」华为Mate XT2非凡大师上手体验：黑科技拉满？",
-                    "url": "https://b23.tv/BV1DebP6qEy7"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 35,
-                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷的小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
-                    "url": "https://b23.tv/BV1LtbK6JE5V"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 25,
-                    "title": "HarmonyOS 7 及新品发布会提出「鸿蒙应用体验正式迈进成熟好用的新阶段」，透露出哪些关键趋势？",
-                    "url": "https://www.zhihu.com/question/2080242281999773950"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 31,
-                    "title": "为什么鸿蒙能把阔屏、三折叠等创新形态机型的生态体验，做得这么好？",
-                    "url": "https://www.zhihu.com/question/2080244930308470294"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升",
-                    "url": "https://www.ithome.com/0/999/490.htm"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 17,
-                    "title": "打开codex新版的上下文，体验好不少",
-                    "url": "https://www.nodeseek.com/post-916913-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 6,
-                    "title": "有人要放生 dmit 吗 放生前能不能给我体验体验",
-                    "url": "https://www.nodeseek.com/post-917352-1"
-                }
-            ]
         }
     ],
     "flow": {
         "times": [
             "00:22",
-            "00:23",
             "01:18",
+            "01:19",
             "02:24",
-            "02:25"
+            "02:33"
         ],
         "rows": [
             {
