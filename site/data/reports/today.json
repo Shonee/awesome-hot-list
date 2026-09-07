@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-07",
-    "generatedAt": "2026-09-07 15:31:34",
-    "summary": "小米汽车累计交付量超80万辆成为本期综合热度最高的话题，月捐数年无人问,停捐后遭催捐紧随其后。当前覆盖 22 个有效渠道，共形成 538 个榜单时间切片；发现 37 个跨渠道重复热点。",
+    "generatedAt": "2026-09-07 15:40:46",
+    "summary": "小米汽车累计交付量超80万辆成为本期综合热度最高的话题，月捐数年无人问,停捐后遭催捐紧随其后。当前覆盖 22 个有效渠道，共形成 539 个榜单时间切片；发现 37 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2805,
+        "deduplicated": 2806,
         "resonance": 37,
         "maxRise": 80,
-        "slices": 538,
+        "slices": 539,
         "coverage": 96
     },
     "topTopics": [
@@ -3608,7 +3608,7 @@
         },
         {
             "word": "还是",
-            "weight": 34,
+            "weight": 35,
             "tone": "teal",
             "hits": [
                 {
@@ -3804,6 +3804,14 @@
                     "url": "https://www.v2ex.com/t/1239875"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "主打锻炼，应该买公路车还是山地车",
+                    "url": "https://www.v2ex.com/t/1239929"
+                },
+                {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
@@ -3842,14 +3850,6 @@
                     "rank": 18,
                     "title": "甲骨文升级号新加坡跨区开春川的话规则配置内还是免费的吗？",
                     "url": "https://www.nodeseek.com/post-915512-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 32,
-                    "title": "Astra 发布那么久了为什么我的3D区还是那么空空荡荡的",
-                    "url": "https://www.nodeseek.com/post-915558-1"
                 }
             ]
         },
@@ -8913,8 +8913,8 @@
             "00:20",
             "04:27",
             "09:01",
-            "11:27",
-            "15:31"
+            "12:26",
+            "15:40"
         ],
         "rows": [
             {
