@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 05:20:22
+> 更新时间：2026-09-08 06:19:57
 
 ## 少数派
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-2. [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
-3. [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
-4. [Show HN: HomeCat – Design your backyard office](https://myhomecat.com)
-5. [Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)
+1. [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
+2. [The smallest edge AI device for local LLMs](https://tiiny.ai/)
+3. [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+4. [A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
+5. [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
+
+## AI News
+
+1. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
+2. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+3. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+4. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+5. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
 
 ## 阮一峰网络日志
 

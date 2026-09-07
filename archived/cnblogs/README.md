@@ -1,11 +1,11 @@
 # 博客园热榜
 
-> 更新时间：2026-09-08 05:19:02
+> 更新时间：2026-09-08 06:19:42
 
 ## 24 小时推荐排行
 
 1. [赞助商](https://www.cnblogs.com/cmt/p/19316348)
-2. [【编辑推荐】 都是 AI 写代码，为什么 C# 比 Java 快半拍(21/27/2645)](https://www.cnblogs.com/shanyou/p/22817435)
+2. [【编辑推荐】 都是 AI 写代码，为什么 C# 比 Java 快半拍(21/27/2647)](https://www.cnblogs.com/shanyou/p/22817435)
 3. [【最多推荐】 SimdPaddleOCR发布——一个纯 C# 的完整 OCR 推理库(24/35/1107)](https://www.cnblogs.com/sdcb/p/22863347/20260907-simdpaddleocr-intro)
 4. [24](https://www.cnblogs.com/sdcb/p/22863347/20260907-simdpaddleocr-intro#commentform)
 5. [轻量，再轻量：当 PicoServer 遇上 SimdPaddleOCR](https://www.cnblogs.com/juziyu/p/22871789)

@@ -1,14 +1,14 @@
 # 掘金热榜
 
-> 更新时间：2026-09-08 05:18:41
+> 更新时间：2026-09-08 06:19:23
 
 ## 热门文章
 
 1. [走进AI Agent第三篇：让 Agent 记住你](https://juejin.cn/post/7682394398210932763)
 2. [三年了，AI为何还没有抢走程序员饭碗？](https://juejin.cn/post/7682262550978936884)
 3. [OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了](https://juejin.cn/post/7681931232724860970)
-4. [聊个比较有意思的 Flutter Web 问题](https://juejin.cn/post/7681411791876177983)
-5. [GPT - 6 Astra 的使用焚诀](https://juejin.cn/post/7682634449856217115)
+4. [GPT - 6 Astra 的使用焚诀](https://juejin.cn/post/7682634449856217115)
+5. [聊个比较有意思的 Flutter Web 问题](https://juejin.cn/post/7681411791876177983)
 6. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
 7. [设计稿里的图片明明很清晰，为什么到了手机上却糊了？一文讲透 DPR、压缩与格式选择](https://juejin.cn/post/7682406523184709670)
 8. [异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账](https://juejin.cn/post/7682364222383308850)
@@ -32,8 +32,8 @@
 26. [栗子前端技术周刊第 145 期 - Remix 3 RC、htmx 4.0、Rslib 1.0...](https://juejin.cn/post/7681959629414400042)
 27. [使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词](https://juejin.cn/post/7681858280943403059)
 28. [四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程](https://juejin.cn/post/7681521114217791528)
-29. [GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”](https://juejin.cn/post/7681626346015916068)
-30. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
+29. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
+30. [GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”](https://juejin.cn/post/7681626346015916068)
 31. [OpenSpec + Superpowers 搭建 SDD+TDD 工作流教学文档](https://juejin.cn/post/7682634449856839707)
 32. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
 33. [30 天 AI 编程入门总结：接下来应该学什么](https://juejin.cn/post/7682221754647822382)
