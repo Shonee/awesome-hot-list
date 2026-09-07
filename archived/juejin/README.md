@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-07 22:22:48
+> 更新时间：2026-09-07 23:20:41
 
 ## 热门文章
 
@@ -14,15 +14,15 @@
 8. [设计稿里的图片明明很清晰，为什么到了手机上却糊了？一文讲透 DPR、压缩与格式选择](https://juejin.cn/post/7682406523184709670)
 9. [奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出](https://juejin.cn/post/7681733440023183414)
 10. [支持独立部署的地图方案](https://juejin.cn/post/7682362046578966580)
-11. [提前还贷，缩短年限和降低月供其实是一样的](https://juejin.cn/post/7682013859251896320)
-12. [💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？](https://juejin.cn/post/7682217734722027558)
+11. [💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？](https://juejin.cn/post/7682217734722027558)
+12. [提前还贷，缩短年限和降低月供其实是一样的](https://juejin.cn/post/7682013859251896320)
 13. [异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账](https://juejin.cn/post/7682364222383308850)
 14. [🤔首屏Banner压到40KB，LCP还是4秒？原来一直搞错了最大渲染元素](https://juejin.cn/post/7682046779555315763)
 15. [高并发下怎么做余额扣减？](https://juejin.cn/post/7681245344118210587)
 16. [「Flutter 文件保存太难了？」一个插件打通 7 大平台，我把方案开源了 🎉](https://juejin.cn/post/7681952931486957583)
 17. [读《阿里巴巴Java开发手册》五年，这7条规约救了我太多次](https://juejin.cn/post/7681797570142732331)
-18. [明明做了很多事，为什么简历看起来还是没含金量？](https://juejin.cn/post/7682253775991734323)
-19. [阿里开源了一个神级Agent项目](https://juejin.cn/post/7681931232724910122)
+18. [阿里开源了一个神级Agent项目](https://juejin.cn/post/7681931232724910122)
+19. [明明做了很多事，为什么简历看起来还是没含金量？](https://juejin.cn/post/7682253775991734323)
 20. [AI 说话越来越难懂？Anthropic 员工都在用 ELI5 这个图解 Skill](https://juejin.cn/post/7681574954577281076)
 21. [初创公司的“自己人”，到底能当多久？](https://juejin.cn/post/7682601317680316416)
 22. [你的页面为什么总是卡成PPT？2026年，90%的前端都忽略了主线程](https://juejin.cn/post/7681580786831884329)
@@ -33,15 +33,15 @@
 27. [栗子前端技术周刊第 145 期 - Remix 3 RC、htmx 4.0、Rslib 1.0...](https://juejin.cn/post/7681959629414400042)
 28. [使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词](https://juejin.cn/post/7681858280943403059)
 29. [GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”](https://juejin.cn/post/7681626346015916068)
-30. [OpenSpec + Superpowers 搭建 SDD+TDD 工作流教学文档](https://juejin.cn/post/7682634449856839707)
-31. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
-32. [30 天 AI 编程入门总结：接下来应该学什么](https://juejin.cn/post/7682221754647822382)
-33. [我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness](https://juejin.cn/post/7682069529204441131)
-34. [苹果续费成功，几天后付费协议突然失效，导致线上苹果支付全部失败](https://juejin.cn/post/7681985571749986331)
-35. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
+30. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
+31. [OpenSpec + Superpowers 搭建 SDD+TDD 工作流教学文档](https://juejin.cn/post/7682634449856839707)
+32. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
+33. [30 天 AI 编程入门总结：接下来应该学什么](https://juejin.cn/post/7682221754647822382)
+34. [我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness](https://juejin.cn/post/7682069529204441131)
+35. [苹果续费成功，几天后付费协议突然失效，导致线上苹果支付全部失败](https://juejin.cn/post/7681985571749986331)
 36. [模型没换、提示词没动，成功率从不到 70% 干到 95% —— 改的到底是什么](https://juejin.cn/post/7681913265295278106)
-37. [从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛](https://juejin.cn/post/7682069529204736043)
-38. [用 GPT-6-Astra，先检查这几个设置](https://juejin.cn/post/7681861285420285998)
+37. [用 GPT-6-Astra，先检查这几个设置](https://juejin.cn/post/7681861285420285998)
+38. [从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛](https://juejin.cn/post/7682069529204736043)
 39. [Node 网络编程 —— TLS 模块](https://juejin.cn/post/7681647535052226606)
 40. [NVIDIA 以 129.3 亿美元收购 Hugging Face](https://juejin.cn/post/7681626346015424548)
 41. [vite-plugin-uni-pages 更新了什么](https://juejin.cn/post/7681489628256043042)

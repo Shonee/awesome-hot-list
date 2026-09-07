@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-07 22:22:58
+> 更新时间：2026-09-07 23:20:55
 
 ## 最新资讯
 
-1. [广汽集团称坚决不造“速成车”：不赶工期、不压验证，每一辆车都要经得起时间考验](https://www.ithome.com/0/999/482.htm)
-2. [联发科技带来曦力 G99+ 移动平台，支持 5500Mbps LPDDR5X 内存](https://www.ithome.com/0/999/481.htm)
-3. [小米汽车推出智能生态套装：含智能表盘 2、智能车载便携充放电枪等，首销 2499 元](https://www.ithome.com/0/999/480.htm)
-4. [2025 年国际邀请赛冠军 Team Falcons 宣布退出《Dota 2》领域](https://www.ithome.com/0/999/479.htm)
-5. [消息称字节正开发实时空间视频生成 AI 模型：张一鸣亲自督导，最快下个月发布](https://www.ithome.com/0/999/478.htm)
+1. [Steam 今年已为 Valve 带来 150 亿美元收入，《极限竞速：地平线 6》领跑新作](https://www.ithome.com/0/999/491.htm)
+2. [【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升](https://www.ithome.com/0/999/490.htm)
+3. [OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元](https://www.ithome.com/0/999/488.htm)
+4. [Hyper 预览 HyperJuice 5K Qi2 半固态电池移动电源，20W / 15W 输出](https://www.ithome.com/0/999/487.htm)
+5. [小米汽车：澎程系列 4 分钟锁单突破 1 万台](https://www.ithome.com/0/999/484.htm)

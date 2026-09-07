@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-07 22:23:33
+> 更新时间：2026-09-07 23:21:26
 
 ## 少数派
 
@@ -54,7 +54,7 @@
 
 1. [bzip3](https://github.com/iczelia/bzip3)
 2. [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
-3. [Splash-free urinals for global sustainability and accessibility](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+3. [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
 4. [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
 5. [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
 
