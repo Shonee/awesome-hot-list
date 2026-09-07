@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 02:25:42
+> 更新时间：2026-09-08 03:18:25
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [No constitutional right to clean water, federal court finds](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
-2. [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
-3. [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
-4. [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
-5. [C Is Not a Low-Level Language (2018)](https://queue.acm.org/doi/10.1145/3212477.3212479)
+1. [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
+2. [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)
+3. [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
+4. [No constitutional right to clean water, federal court finds](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
+5. [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
 
 ## 阮一峰网络日志
 
