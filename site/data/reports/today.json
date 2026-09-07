@@ -1,14 +1,14 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-08",
-    "generatedAt": "2026-09-08 06:20:05",
-    "summary": "郑钦文vs斯瓦泰克成为本期综合热度最高的话题，GPT-6不只Astra，Sol内测结果曝光，速度快6倍紧随其后。当前覆盖 21 个有效渠道，共形成 224 个榜单时间切片；发现 10 个跨渠道重复热点。",
+    "generatedAt": "2026-09-08 06:26:50",
+    "summary": "郑钦文vs斯瓦泰克成为本期综合热度最高的话题，GPT-6不只Astra，Sol内测结果曝光，速度快6倍紧随其后。当前覆盖 22 个有效渠道，共形成 233 个榜单时间切片；发现 10 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1452,
+        "deduplicated": 1583,
         "resonance": 10,
         "maxRise": 51,
-        "slices": 224,
-        "coverage": 91
+        "slices": 233,
+        "coverage": 96
     },
     "topTopics": [
         {
@@ -341,7 +341,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 88,
+            "weight": 96,
             "tone": "hot",
             "hits": [
                 {
@@ -433,6 +433,94 @@
                     "url": "https://www.zhihu.com/question/2065197842847753909"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 4,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 11,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 19,
+                    "title": "tailcat",
+                    "url": "https://github.com/tailscale/tailcat"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 10,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 13,
+                    "title": "vorssaint-utils",
+                    "url": "https://github.com/vorssaint/vorssaint-utils"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 16,
+                    "title": "ai-memory",
+                    "url": "https://github.com/akitaonrails/ai-memory"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 17,
+                    "title": "langchain4j",
+                    "url": "https://github.com/langchain4j/langchain4j"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 20,
+                    "title": "jetbrains-cc-gui",
+                    "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 1,
+                    "title": "tailcat",
+                    "url": "https://github.com/tailscale/tailcat"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 21,
+                    "title": "LocalAI",
+                    "url": "https://github.com/mudler/LocalAI"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 3,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -495,100 +583,12 @@
                     "rank": 33,
                     "title": "30 天 AI 编程入门总结：接下来应该学什么",
                     "url": "https://juejin.cn/post/7682221754647822382"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 39,
-                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
-                    "url": "https://juejin.cn/post/7682069529204736043"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 48,
-                    "title": "Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo",
-                    "url": "https://juejin.cn/post/7681560399858794546"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 46,
-                    "title": "华为要打AI底层仗",
-                    "url": "https://www.toutiao.com/trending/7682694305216036906/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682694305216036906%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E8%A6%81%E6%89%93AI%E5%BA%95%E5%B1%82%E4%BB%97%22%7D&rank=&style_id=40132&topic_id=7682694305216036906"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 47,
-                    "title": "华为要打AI底层仗",
-                    "url": "https://www.toutiao.com/trending/7682694305216036906/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682694305216036906%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E8%A6%81%E6%89%93AI%E5%BA%95%E5%B1%82%E4%BB%97%22%7D&rank=&style_id=40132&topic_id=7682694305216036906"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 45,
-                    "title": "【见习画师】【AI视频】正在违法乱纪的AC娘...（食用国家保护动物是违法的...）",
-                    "url": "https://www.acfun.cn/v/ac48830742"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 12,
-                    "title": "韵味姐姐~迷人短发-AOA-Short Hair【巫小萤】",
-                    "url": "https://www.acfun.cn/v/ac48829811"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 31,
-                    "title": "韵味姐姐~迷人短发-AOA-Short Hair【巫小萤】",
-                    "url": "https://www.acfun.cn/v/ac48829811"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 50,
-                    "title": "休息的小狗崽_原创志怪单元剧《归藏·第一回》+【视频类赛道+AI叙事短片】 第一回  嫁",
-                    "url": "https://www.acfun.cn/v/ac48827848"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
-                    "url": "https://www.ithome.com/0/999/488.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 2,
-                    "title": "AI 开始「互发微信」了，谁来管管它们？",
-                    "url": "https://www.36kr.com/p/3972707918688770"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 3,
-                    "title": "刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来",
-                    "url": "https://www.36kr.com/p/3972641004843521"
                 }
             ]
         },
         {
             "word": "ST",
-            "weight": 87,
+            "weight": 95,
             "tone": "teal",
             "hits": [
                 {
@@ -630,6 +630,86 @@
                     "rank": 47,
                     "title": "真正的Team Spirit！绿龙全员发力夺得BLAST波尔图总冠军！",
                     "url": "https://b23.tv/BV1m7bA6bEMc"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 8,
+                    "title": "VoiceStudio",
+                    "url": "https://github.com/debpalash/VoiceStudio"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 19,
+                    "title": "VoiceStudio",
+                    "url": "https://github.com/debpalash/VoiceStudio"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 1,
+                    "title": "checkstyle",
+                    "url": "https://github.com/checkstyle/checkstyle"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 8,
+                    "title": "strykerapp",
+                    "url": "https://github.com/zalexdev/strykerapp"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 4,
+                    "title": "VoiceStudio",
+                    "url": "https://github.com/debpalash/VoiceStudio"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 6,
+                    "title": "osint_stuff_tool_collection",
+                    "url": "https://github.com/cipher387/osint_stuff_tool_collection"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 8,
+                    "title": "home-assistant.io",
+                    "url": "https://github.com/home-assistant/home-assistant.io"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 9,
+                    "title": "unstructured",
+                    "url": "https://github.com/Unstructured-IO/unstructured"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 11,
+                    "title": "InstagramUnfollowers",
+                    "url": "https://github.com/davidarroyo1234/InstagramUnfollowers"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 8,
+                    "title": "stylex",
+                    "url": "https://github.com/facebook/stylex"
                 },
                 {
                     "channelId": "juejin",
@@ -750,92 +830,12 @@
                     "rank": 4,
                     "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
                     "url": "https://www.ithome.com/0/999/488.htm"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 28,
-                    "title": "StatMuse盘点15年总决赛得分榜",
-                    "url": "https://m.hupu.com/hot?tagId=156433"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 17,
-                    "title": "GPT-6 Astra刚发布三天，OpenAI首席科学家喊“刹车”",
-                    "url": "https://www.36kr.com/p/3972734557581572"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 31,
-                    "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
-                    "url": "https://www.36kr.com/p/3972817823609097"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 13,
-                    "title": "涉徐翔、ST文峰，最新判决来了",
-                    "url": "http://news.10jqka.com.cn/20260907/c679672463.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 14,
-                    "title": "昔日私募人士徐翔、文峰股份前董事长徐长江涉嫌操纵证券市场责任纠纷案迎来二审判决。9月7日晚间，ST文峰公告称，公司近日收到江苏省高级人民法院(以下简称“江苏高院”)二审民事判决书，涉 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679672463.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 33,
-                    "title": "投资者诉徐翔、徐长江、ST文峰(601010)操纵证券市场责任纠纷案(下称“投资者诉徐翔案”)再有新进展。 ST文峰9月7日晚间披露，公司近日收到江苏省高级人民法院(下称“江苏省高院”)送达的《 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671363.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 35,
-                    "title": "9月7日，J.P.Morgan Structured Products B.V.刊发补充上市文件，拟发行四只单一股份可赎回牛熊证，由JPMorgan Chase Bank,National Association无条件及不可撤回地担保， ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671334.shtml"
-                },
-                {
-                    "channelId": "v2ex",
-                    "channelName": "V2EX",
-                    "ranking": "热门主题",
-                    "rank": 1,
-                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
-                    "url": "https://www.v2ex.com/t/1239922"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "Tilde in CSS link has stopped resolving",
-                    "url": "https://stackoverflow.com/questions/80001424/tilde-in-css-link-has-stopped-resolving"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "Accessing struct members via pointer is not constant expression?",
-                    "url": "https://stackoverflow.com/questions/80001443/accessing-struct-members-via-pointer-is-not-constant-expression"
                 }
             ]
         },
         {
             "word": "AL",
-            "weight": 51,
+            "weight": 56,
             "tone": "gold",
             "hits": [
                 {
@@ -877,6 +877,46 @@
                     "rank": 24,
                     "title": "LPL2026 赛季 2026 赛季季后赛 AL 0:3 BLG，如何评价这场比赛？",
                     "url": "https://www.zhihu.com/question/2080327611264275708"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 8,
+                    "title": "x-algorithm",
+                    "url": "https://github.com/xai-org/x-algorithm"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 20,
+                    "title": "talos",
+                    "url": "https://github.com/siderolabs/talos"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 21,
+                    "title": "LocalAI",
+                    "url": "https://github.com/mudler/LocalAI"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 3,
+                    "title": "galaxy",
+                    "url": "https://github.com/uiverse-io/galaxy"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 5,
+                    "title": "Awesome-ML-SYS-Tutorial",
+                    "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial"
                 },
                 {
                     "channelId": "juejin",
@@ -1037,46 +1077,6 @@
                     "rank": 44,
                     "title": "Azure AD B2C Custom Policy: How to enforce MFA when Conditional Access policy is disabled or deleted?",
                     "url": "https://stackoverflow.com/questions/80001330/azure-ad-b2c-custom-policy-how-to-enforce-mfa-when-conditional-access-policy-is"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 45,
-                    "title": "Is there any formal way to distinguish which store operation the current load synchronizes with?",
-                    "url": "https://stackoverflow.com/questions/80001288/is-there-any-formal-way-to-distinguish-which-store-operation-the-current-load-sy"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 48,
-                    "title": "Avoid repeating base initializer list when only a few values differ",
-                    "url": "https://stackoverflow.com/questions/80001235/avoid-repeating-base-initializer-list-when-only-a-few-values-differ"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 49,
-                    "title": "What technical limitations prevent using just the address-of operator (&) without pointer variables in C?",
-                    "url": "https://stackoverflow.com/questions/80001263/what-technical-limitations-prevent-using-just-the-address-of-operator-withou"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "Is :customer_id really all I need to securely isolate client data in CustomerDashboard.io?",
-                    "url": "https://stackoverflow.com/questions/80001480/is-customer-id-really-all-i-need-to-securely-isolate-client-data-in-customerdas"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "What does “normal random sampling” mean in LLM text generation?",
-                    "url": "https://stackoverflow.com/questions/80001483/what-does-normal-random-sampling-mean-in-llm-text-generation"
                 }
             ]
         },
@@ -1822,9 +1822,256 @@
             ]
         },
         {
-            "word": "小米",
+            "word": "Pro",
             "weight": 37,
             "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 5,
+                    "title": "DevOps-Projects",
+                    "url": "https://github.com/NotHarshhaa/DevOps-Projects"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 1,
+                    "title": "prompts.chat",
+                    "url": "https://github.com/f/prompts.chat"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 12,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 8,
+                    "title": "王者归来，华为“韬定律”麒麟9050 Pro全球发布，三折叠机皇19999元起",
+                    "url": "https://www.36kr.com/p/3973139263582720"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 35,
+                    "title": "9月7日，J.P.Morgan Structured Products B.V.刊发补充上市文件，拟发行四只单一股份可赎回牛熊证，由JPMorgan Chase Bank,National Association无条件及不可撤回地担保， ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671334.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
+                    "url": "https://www.v2ex.com/t/1239906"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 6,
+                    "title": "Strapi property kind issue upgrading from 5.36.1 to 5.52.3",
+                    "url": "https://stackoverflow.com/questions/80001410/strapi-property-kind-issue-upgrading-from-5-36-1-to-5-52-3"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 9,
+                    "title": "How to get a VMs configured provider from inside a Vagrantfile",
+                    "url": "https://stackoverflow.com/questions/80001413/how-to-get-a-vms-configured-provider-from-inside-a-vagrantfile"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 13,
+                    "title": "How to properly trigger DTO validation in Fuego",
+                    "url": "https://stackoverflow.com/questions/80001408/how-to-properly-trigger-dto-validation-in-fuego"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 18,
+                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
+                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 25,
+                    "title": "Programmatically determine that an archived object has been restored",
+                    "url": "https://stackoverflow.com/questions/80001366/programmatically-determine-that-an-archived-object-has-been-restored"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 30,
+                    "title": "pwntool process is none [Starting remote process None: Process creation failed]",
+                    "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 41,
+                    "title": "What Kanban project management tools work well for small development teams?",
+                    "url": "https://stackoverflow.com/questions/80001317/what-kanban-project-management-tools-work-well-for-small-development-teams"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 49,
+                    "title": "Problems with getting variables via lifespan context manager in Fastapi",
+                    "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 2,
+                    "title": "When i build my dockerfile, I have a problem like this, It is called Docker problem",
+                    "url": "https://stackoverflow.com/questions/80001500/when-i-build-my-dockerfile-i-have-a-problem-like-this-it-is-called-docker-prob"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 8,
+                    "title": "Word VBA project loads very slowly",
+                    "url": "https://stackoverflow.com/questions/80001490/word-vba-project-loads-very-slowly"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 11,
+                    "title": "beforeinstallprompt never fires on Chrome Android and Samsung Internet although PWA setup appears valid",
+                    "url": "https://stackoverflow.com/questions/80001492/beforeinstallprompt-never-fires-on-chrome-android-and-samsung-internet-although"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 24,
+                    "title": "人找车，gpt pro 20x  希望没有日限额",
+                    "url": "https://www.nodeseek.com/post-916398-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "300-400 人民币 gpt pro5x 他们是怎么开的",
+                    "url": "https://www.nodeseek.com/post-917301-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 35,
+                    "title": "[TQ]megabox pro 晚高峰",
+                    "url": "https://www.nodeseek.com/post-917248-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 39,
+                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
+                    "url": "https://www.nodeseek.com/post-917073-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 50,
+                    "title": "这种有三次重置卡的plus升级到pro是不是很爽",
+                    "url": "https://www.nodeseek.com/post-917298-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "DMIT LAX.AS3.Pro.TINY 剩余价值+溢价60/台 2台打包 内详",
+                    "url": "https://www.nodeseek.com/post-916678-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 38,
+                    "title": "pro20倍好爽",
+                    "url": "https://www.nodeseek.com/post-917342-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "proton已加入中国服务器",
+                    "url": "https://www.nodeseek.com/post-917237-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 27,
+                    "title": "【收】+10 块收个不想续费的 DMIT lax pro tiny",
+                    "url": "https://www.nodeseek.com/post-917370-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 37,
+                    "title": "出台 RS 2000 G9.5 iv PRO NUE JUN25",
+                    "url": "https://www.nodeseek.com/post-917170-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 50,
+                    "title": "Premium Provider",
+                    "url": "https://www.nodeseek.com/post-6800-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "溢价 60 收 DMIT 的 LAX.AS3.{Pro,EB}.{Pocket,TINY}",
+                    "url": "https://www.nodeseek.com/post-917326-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 29,
+                    "title": "想收个机子做ai反代，PalmSpring还是MEGABOX PRO更好呢？",
+                    "url": "https://www.nodeseek.com/post-916884-1"
+                }
+            ]
+        },
+        {
+            "word": "小米",
+            "weight": 37,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2065,253 +2312,6 @@
                     "rank": 14,
                     "title": "小米18 Fold售价10999元起",
                     "url": "https://www.toutiao.com/trending/7682757061695770163/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682757061695770163%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B318+Fold%E5%94%AE%E4%BB%B710999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682757061695770163"
-                }
-            ]
-        },
-        {
-            "word": "Pro",
-            "weight": 35,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 12,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "王者归来，华为“韬定律”麒麟9050 Pro全球发布，三折叠机皇19999元起",
-                    "url": "https://www.36kr.com/p/3973139263582720"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 35,
-                    "title": "9月7日，J.P.Morgan Structured Products B.V.刊发补充上市文件，拟发行四只单一股份可赎回牛熊证，由JPMorgan Chase Bank,National Association无条件及不可撤回地担保， ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671334.shtml"
-                },
-                {
-                    "channelId": "v2ex",
-                    "channelName": "V2EX",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
-                    "url": "https://www.v2ex.com/t/1239906"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 6,
-                    "title": "Strapi property kind issue upgrading from 5.36.1 to 5.52.3",
-                    "url": "https://stackoverflow.com/questions/80001410/strapi-property-kind-issue-upgrading-from-5-36-1-to-5-52-3"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 9,
-                    "title": "How to get a VMs configured provider from inside a Vagrantfile",
-                    "url": "https://stackoverflow.com/questions/80001413/how-to-get-a-vms-configured-provider-from-inside-a-vagrantfile"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 13,
-                    "title": "How to properly trigger DTO validation in Fuego",
-                    "url": "https://stackoverflow.com/questions/80001408/how-to-properly-trigger-dto-validation-in-fuego"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 18,
-                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
-                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 25,
-                    "title": "Programmatically determine that an archived object has been restored",
-                    "url": "https://stackoverflow.com/questions/80001366/programmatically-determine-that-an-archived-object-has-been-restored"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 30,
-                    "title": "pwntool process is none [Starting remote process None: Process creation failed]",
-                    "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 41,
-                    "title": "What Kanban project management tools work well for small development teams?",
-                    "url": "https://stackoverflow.com/questions/80001317/what-kanban-project-management-tools-work-well-for-small-development-teams"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 49,
-                    "title": "Problems with getting variables via lifespan context manager in Fastapi",
-                    "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "When i build my dockerfile, I have a problem like this, It is called Docker problem",
-                    "url": "https://stackoverflow.com/questions/80001500/when-i-build-my-dockerfile-i-have-a-problem-like-this-it-is-called-docker-prob"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 8,
-                    "title": "Word VBA project loads very slowly",
-                    "url": "https://stackoverflow.com/questions/80001490/word-vba-project-loads-very-slowly"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 11,
-                    "title": "beforeinstallprompt never fires on Chrome Android and Samsung Internet although PWA setup appears valid",
-                    "url": "https://stackoverflow.com/questions/80001492/beforeinstallprompt-never-fires-on-chrome-android-and-samsung-internet-although"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 24,
-                    "title": "人找车，gpt pro 20x  希望没有日限额",
-                    "url": "https://www.nodeseek.com/post-916398-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "300-400 人民币 gpt pro5x 他们是怎么开的",
-                    "url": "https://www.nodeseek.com/post-917301-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 35,
-                    "title": "[TQ]megabox pro 晚高峰",
-                    "url": "https://www.nodeseek.com/post-917248-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
-                    "url": "https://www.nodeseek.com/post-917073-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 50,
-                    "title": "这种有三次重置卡的plus升级到pro是不是很爽",
-                    "url": "https://www.nodeseek.com/post-917298-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "DMIT LAX.AS3.Pro.TINY 剩余价值+溢价60/台 2台打包 内详",
-                    "url": "https://www.nodeseek.com/post-916678-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 38,
-                    "title": "pro20倍好爽",
-                    "url": "https://www.nodeseek.com/post-917342-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "proton已加入中国服务器",
-                    "url": "https://www.nodeseek.com/post-917237-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 27,
-                    "title": "【收】+10 块收个不想续费的 DMIT lax pro tiny",
-                    "url": "https://www.nodeseek.com/post-917370-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 37,
-                    "title": "出台 RS 2000 G9.5 iv PRO NUE JUN25",
-                    "url": "https://www.nodeseek.com/post-917170-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 50,
-                    "title": "Premium Provider",
-                    "url": "https://www.nodeseek.com/post-6800-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 3,
-                    "title": "溢价 60 收 DMIT 的 LAX.AS3.{Pro,EB}.{Pocket,TINY}",
-                    "url": "https://www.nodeseek.com/post-917326-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 29,
-                    "title": "想收个机子做ai反代，PalmSpring还是MEGABOX PRO更好呢？",
-                    "url": "https://www.nodeseek.com/post-916884-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 7,
-                    "title": "VMware Workstation Pro 26H1u1 25688693 简体中文汉化版&简体中文语言包",
-                    "url": "https://www.52pojie.cn/thread-2126269-1-1.html"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 17,
-                    "title": "VMware Workstation Pro 2026 汉化助手（通杀26所有版本）",
-                    "url": "https://www.52pojie.cn/thread-2126628-1-1.html"
                 }
             ]
         },
@@ -2952,9 +2952,104 @@
             ]
         },
         {
+            "word": "Mate",
+            "weight": 11,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 1,
+                    "title": "Mate 90的新战袍！鸿蒙7这次香爆了？",
+                    "url": "https://b23.tv/BV1DabL6qE7V"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 23,
+                    "title": "「小白」华为Mate XT2非凡大师上手体验：黑科技拉满？",
+                    "url": "https://b23.tv/BV1DebP6qEy7"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 39,
+                    "title": "19999元起 华为展翼三折叠 HUAWEI Mate XT 2 非凡大师快速开箱「科技美学开箱」",
+                    "url": "https://b23.tv/BV1BJbK6REdr"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 10,
+                    "title": "乐！邀请平板主理人来聊全新一代华为MatePad Air",
+                    "url": "https://b23.tv/BV1F8bA6HEaj"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 28,
+                    "title": "华为Mate XT 2正式上线",
+                    "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate%20XT%202%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 19,
+                    "title": "certimate",
+                    "url": "https://github.com/certimate-go/certimate"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 48,
+                    "title": "Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo",
+                    "url": "https://juejin.cn/post/7681560399858794546"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升",
+                    "url": "https://www.ithome.com/0/999/490.htm"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 25,
+                    "title": "财闻张晓迪发自广州折叠屏手机迎来全新形态。9月7日，华为在广州召开秋季全场景新品发布会，正式推出全球首款三折叠屏手机Mate XT2非凡大师。财闻现场了解到，该机展开后拥有一块10.2英寸的 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 4,
+                    "title": "小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2",
+                    "url": "https://www.52pojie.cn/thread-2126541-1-1.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 4,
+                    "title": "华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常",
+                    "url": "https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign="
+                }
+            ]
+        },
+        {
             "word": "用户",
             "weight": 8,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -3071,97 +3166,18 @@
             ]
         },
         {
-            "word": "Mate",
-            "weight": 10,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 1,
-                    "title": "Mate 90的新战袍！鸿蒙7这次香爆了？",
-                    "url": "https://b23.tv/BV1DabL6qE7V"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 23,
-                    "title": "「小白」华为Mate XT2非凡大师上手体验：黑科技拉满？",
-                    "url": "https://b23.tv/BV1DebP6qEy7"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 39,
-                    "title": "19999元起 华为展翼三折叠 HUAWEI Mate XT 2 非凡大师快速开箱「科技美学开箱」",
-                    "url": "https://b23.tv/BV1BJbK6REdr"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 10,
-                    "title": "乐！邀请平板主理人来聊全新一代华为MatePad Air",
-                    "url": "https://b23.tv/BV1F8bA6HEaj"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 28,
-                    "title": "华为Mate XT 2正式上线",
-                    "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate%20XT%202%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 48,
-                    "title": "Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo",
-                    "url": "https://juejin.cn/post/7681560399858794546"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升",
-                    "url": "https://www.ithome.com/0/999/490.htm"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 25,
-                    "title": "财闻张晓迪发自广州折叠屏手机迎来全新形态。9月7日，华为在广州召开秋季全场景新品发布会，正式推出全球首款三折叠屏手机Mate XT2非凡大师。财闻现场了解到，该机展开后拥有一块10.2英寸的 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 4,
-                    "title": "小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2",
-                    "url": "https://www.52pojie.cn/thread-2126541-1-1.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 4,
-                    "title": "华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常",
-                    "url": "https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign="
-                }
-            ]
-        },
-        {
             "word": "GPT",
-            "weight": 36,
+            "weight": 37,
             "tone": "gold",
             "hits": [
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 9,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
                 {
                     "channelId": "juejin",
                     "channelName": "掘金",
@@ -3393,22 +3409,22 @@
                     "rank": 35,
                     "title": "使用gpt-6-astra，一直报错：Selected model is at capacity. Please try a different model",
                     "url": "https://www.nodeseek.com/post-917367-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "ChatGPT Plus 充 1 个月用 5 个月的方法",
-                    "url": "https://www.nodeseek.com/post-912325-1"
                 }
             ]
         },
         {
             "word": "gpt",
-            "weight": 36,
+            "weight": 37,
             "tone": "",
             "hits": [
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 9,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
                 {
                     "channelId": "juejin",
                     "channelName": "掘金",
@@ -3640,14 +3656,6 @@
                     "rank": 35,
                     "title": "使用gpt-6-astra，一直报错：Selected model is at capacity. Please try a different model",
                     "url": "https://www.nodeseek.com/post-917367-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "ChatGPT Plus 充 1 个月用 5 个月的方法",
-                    "url": "https://www.nodeseek.com/post-912325-1"
                 }
             ]
         },
@@ -3803,9 +3811,152 @@
             ]
         },
         {
-            "word": "澎程",
+            "word": "code",
             "weight": 17,
             "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 22,
+                    "title": "code-graph-rag",
+                    "url": "https://github.com/vitali87/code-graph-rag"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 13,
+                    "title": "screenshot-to-code",
+                    "url": "https://github.com/abi/screenshot-to-code"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 6,
+                    "title": "everything-claude-code",
+                    "url": "https://github.com/WorldFlowAI/everything-claude-code"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 39,
+                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
+                    "url": "https://juejin.cn/post/7682069529204736043"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 45,
+                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
+                    "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "Codex 又有 1000 邀请额度了，有条件的留邮箱",
+                    "url": "https://www.v2ex.com/t/1239902"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 20,
+                    "title": "CLion code inspection does not \"respect\" GCC diagnostic suppression",
+                    "url": "https://stackoverflow.com/questions/80001403/clion-code-inspection-does-not-respect-gcc-diagnostic-suppression"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 32,
+                    "title": "How to get claude code to push tags on mobile device",
+                    "url": "https://stackoverflow.com/questions/80001343/how-to-get-claude-code-to-push-tags-on-mobile-device"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 1,
+                    "title": "How do I make my compiler not auto-close in CodeBlocks?",
+                    "url": "https://stackoverflow.com/questions/80001455/how-do-i-make-my-compiler-not-auto-close-in-codeblocks"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 3,
+                    "title": "How to make a cursorRight keybinding work in VS Code quick open?",
+                    "url": "https://stackoverflow.com/questions/80001489/how-to-make-a-cursorright-keybinding-work-in-vs-code-quick-open"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 16,
+                    "title": "对Codex原生支持最好的面板是哪个呢？（Codex部署在vps上）",
+                    "url": "https://www.nodeseek.com/post-917265-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 17,
+                    "title": "打开codex新版的上下文，体验好不少",
+                    "url": "https://www.nodeseek.com/post-916913-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 12,
+                    "title": "为什么codex额度消耗那么快，让它执行一个本地脚本，直接5小时额度没了。",
+                    "url": "https://www.nodeseek.com/post-917308-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 23,
+                    "title": "【开源】$1 的 Command Code 订阅没有 API？搓了个 OpenCode 插件直接桥接它",
+                    "url": "https://www.nodeseek.com/post-917312-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 29,
+                    "title": "现在codex还会降额度吗，不是说是bug已经修复了",
+                    "url": "https://www.nodeseek.com/post-917322-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "codex强制绑定手机号有什么最新的跳过办法",
+                    "url": "https://www.nodeseek.com/post-917376-1"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 12,
+                    "title": "完美解码PureCodec20260826官方版&绿色版",
+                    "url": "https://www.52pojie.cn/thread-2126550-1-1.html"
+                }
+            ]
+        },
+        {
+            "word": "澎程",
+            "weight": 17,
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4012,7 +4163,7 @@
         {
             "word": "科技",
             "weight": 15,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4155,7 +4306,7 @@
         {
             "word": "OpenAI",
             "weight": 13,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4266,7 +4417,7 @@
         {
             "word": "模型",
             "weight": 13,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -4377,7 +4528,7 @@
         {
             "word": "发布会",
             "weight": 11,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4520,7 +4671,7 @@
         {
             "word": "到底",
             "weight": 11,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4623,7 +4774,7 @@
         {
             "word": "vs",
             "weight": 10,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4710,7 +4861,7 @@
         {
             "word": "苹果",
             "weight": 8,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4861,7 +5012,7 @@
         {
             "word": "郑钦文",
             "weight": 24,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5060,7 +5211,7 @@
         {
             "word": "现在",
             "weight": 19,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5219,7 +5370,7 @@
         {
             "word": "公司",
             "weight": 18,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -5368,9 +5519,152 @@
             ]
         },
         {
+            "word": "Agent",
+            "weight": 17,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 15,
+                    "title": "prime-agent",
+                    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 11,
+                    "title": "scientific-agent-skills",
+                    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 7,
+                    "title": "Agent-Learning-Hub",
+                    "url": "https://github.com/datawhalechina/Agent-Learning-Hub"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 1,
+                    "title": "走进AI Agent第三篇：让 Agent 记住你",
+                    "url": "https://juejin.cn/post/7682394398210932763"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 3,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 17,
+                    "title": "阿里开源了一个神级Agent项目",
+                    "url": "https://juejin.cn/post/7681931232724910122"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 27,
+                    "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
+                    "url": "https://juejin.cn/post/7681521114217791528"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 35,
+                    "title": "我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness",
+                    "url": "https://juejin.cn/post/7682069529204441131"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 39,
+                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
+                    "url": "https://juejin.cn/post/7682069529204736043"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "DeepSeek Harness 入门很简单（二）——DeepSeek Harness通用设置及Agent预设详解",
+                    "url": "https://juejin.cn/post/7681673560188256271"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 44,
+                    "title": "Agent 时代，为什么有人开始重新造 Google？",
+                    "url": "https://www.36kr.com/p/3972565139845640"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 47,
+                    "title": "continue.dev + ollama missing agent tools",
+                    "url": "https://stackoverflow.com/questions/80001282/continue-dev-ollama-missing-agent-tools"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 5,
+                    "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+                    "url": "https://www.qbitai.com/2026/09/485064.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 2,
+                    "title": "从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海",
+                    "url": "https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 5,
+                    "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
+                    "url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "极客公园",
+                    "rank": 2,
+                    "title": "判断用不用你的软件，Agent 只需 500 个 Token",
+                    "url": "http://www.geekpark.net/news/369960"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "MIT Technology Review",
+                    "rank": 1,
+                    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+                    "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+                }
+            ]
+        },
+        {
             "word": "财政部",
             "weight": 9,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5489,7 +5783,7 @@
         {
             "word": "为啥",
             "weight": 9,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5568,7 +5862,7 @@
         {
             "word": "首发",
             "weight": 9,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5647,7 +5941,7 @@
         {
             "word": "新品",
             "weight": 8,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5750,7 +6044,7 @@
         {
             "word": "致歉",
             "weight": 7,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5813,7 +6107,7 @@
         {
             "word": "芯片",
             "weight": 7,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5900,7 +6194,7 @@
         {
             "word": "3D",
             "weight": 6,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5955,7 +6249,7 @@
         {
             "word": "赛道",
             "weight": 6,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6010,7 +6304,7 @@
         {
             "word": "公告",
             "weight": 17,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -6151,128 +6445,9 @@
             ]
         },
         {
-            "word": "Agent",
-            "weight": 14,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 1,
-                    "title": "走进AI Agent第三篇：让 Agent 记住你",
-                    "url": "https://juejin.cn/post/7682394398210932763"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 3,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 17,
-                    "title": "阿里开源了一个神级Agent项目",
-                    "url": "https://juejin.cn/post/7681931232724910122"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 27,
-                    "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
-                    "url": "https://juejin.cn/post/7681521114217791528"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 35,
-                    "title": "我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness",
-                    "url": "https://juejin.cn/post/7682069529204441131"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 39,
-                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
-                    "url": "https://juejin.cn/post/7682069529204736043"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "DeepSeek Harness 入门很简单（二）——DeepSeek Harness通用设置及Agent预设详解",
-                    "url": "https://juejin.cn/post/7681673560188256271"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 44,
-                    "title": "Agent 时代，为什么有人开始重新造 Google？",
-                    "url": "https://www.36kr.com/p/3972565139845640"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 47,
-                    "title": "continue.dev + ollama missing agent tools",
-                    "url": "https://stackoverflow.com/questions/80001282/continue-dev-ollama-missing-agent-tools"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 5,
-                    "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-                    "url": "https://www.qbitai.com/2026/09/485064.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 2,
-                    "title": "从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海",
-                    "url": "https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 5,
-                    "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
-                    "url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "极客公园",
-                    "rank": 2,
-                    "title": "判断用不用你的软件，Agent 只需 500 个 Token",
-                    "url": "http://www.geekpark.net/news/369960"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "MIT Technology Review",
-                    "rank": 1,
-                    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-                    "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
-                }
-            ]
-        },
-        {
             "word": "泰克",
             "weight": 14,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -6387,117 +6562,6 @@
                     "url": "https://bbs.hupu.com/642316258.html"
                 }
             ]
-        },
-        {
-            "word": "斯瓦",
-            "weight": 13,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 1,
-                    "title": "郑钦文vs斯瓦泰克",
-                    "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 1,
-                    "title": "郑钦文2:0战胜斯瓦泰克",
-                    "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%872%3A0%E6%88%98%E8%83%9C%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 1,
-                    "title": "郑钦文vs斯瓦泰克",
-                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 10,
-                    "title": "郑钦文单盘大逆转斯瓦泰克",
-                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%8D%95%E7%9B%98%E5%A4%A7%E9%80%86%E8%BD%AC%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 49,
-                    "title": "郑钦文0比5落后追平斯瓦泰克",
-                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%870%E6%AF%945%E8%90%BD%E5%90%8E%E8%BF%BD%E5%B9%B3%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 50,
-                    "title": "詹俊分析郑钦文对阵斯瓦泰克优势",
-                    "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E5%88%86%E6%9E%90%E9%83%91%E9%92%A6%E6%96%87%E5%AF%B9%E9%98%B5%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E4%BC%98%E5%8A%BF&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 4,
-                    "title": "郑钦文连胜斯瓦泰克7局",
-                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%9E%E8%83%9C%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B7%E5%B1%80&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 13,
-                    "title": "郑钦文硬地首胜斯瓦泰克",
-                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%A1%AC%E5%9C%B0%E9%A6%96%E8%83%9C%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 9,
-                    "title": "郑钦文2比0斯瓦泰克",
-                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%940%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 33,
-                    "title": "斯瓦泰克不敌郑钦文哭了",
-                    "url": "https://s.weibo.com/weibo?q=%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E4%B8%8D%E6%95%8C%E9%83%91%E9%92%A6%E6%96%87%E5%93%AD%E4%BA%86&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 35,
-                    "title": "斯瓦泰克回应被逆转",
-                    "url": "https://s.weibo.com/weibo?q=%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%80%86%E8%BD%AC&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 12,
-                    "title": "美网女单第四轮，郑钦文将迎战斯瓦泰克，如何评价本场比赛？",
-                    "url": "https://www.zhihu.com/question/2080414404730779495"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 23,
-                    "title": "今晚郑钦文VS斯瓦泰克结果预测",
-                    "url": "https://bbs.hupu.com/642316258.html"
-                }
-            ]
         }
     ],
     "flow": {
@@ -6505,8 +6569,8 @@
             "00:22",
             "02:24",
             "03:17",
-            "04:21",
-            "06:19"
+            "05:18",
+            "06:26"
         ],
         "rows": [
             {
