@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-07 17:31:36
+> 更新时间：2026-09-07 18:23:21
 
 ## 少数派
 
@@ -20,19 +20,19 @@
 
 ## 量子位
 
-1. [DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布](https://www.qbitai.com/2026/09/485154.html)
-2. [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
-3. [国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%](https://www.qbitai.com/2026/09/485064.html)
-4. [原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied](https://www.qbitai.com/2026/09/485056.html)
-5. [业内首个！“千问办公”推出“多人工作台”](https://www.qbitai.com/2026/09/485046.html)
+1. [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
+2. [GPT-6不只Astra！Sol内测结果曝光，速度快6倍](https://www.qbitai.com/2026/09/485431.html)
+3. [DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布](https://www.qbitai.com/2026/09/485154.html)
+4. [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
+5. [国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%](https://www.qbitai.com/2026/09/485064.html)
 
 ## InfoQ
 
-1. [AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来](https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article)
-2. [TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统](https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article)
-3. [“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness](https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article)
-4. [9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约](https://www.infoq.cn/article/D5heSof43WbGMHrCCIsy?utm_source=rss&utm_medium=article)
-5. [成立 12 年，快看漫画重做 AI 时代的内容产品](https://www.infoq.cn/article/kAHvBCLrI3sdMyONOveM?utm_source=rss&utm_medium=article)
+1. [Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据](https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article)
+2. [AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来](https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article)
+3. [TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统](https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article)
+4. [“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness](https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article)
+5. [9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约](https://www.infoq.cn/article/D5heSof43WbGMHrCCIsy?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Programming is Art](https://orchidfiles.com/programming-is-art/)
-2. [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
-3. [Switzerland's Federal Government Is Replacing Microsoft on 3k Computers](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/)
-4. [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)
-5. [TiVo to charge money for skipping commercials in your own recordings](https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/)
+1. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
+2. [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
+3. [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
+4. [Programming is Art](https://orchidfiles.com/programming-is-art/)
+5. [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
+
+## AI News
+
+1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
+5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
 
 ## 阮一峰网络日志
 
