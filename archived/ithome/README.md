@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-07 10:32:25
+> 更新时间：2026-09-07 11:27:16
 
 ## 最新资讯
 
-1. [零刻推出 AMD 锐龙 3 7330U 款 EQR5 迷你主机，0 + 0 配置 1295 元](https://www.ithome.com/0/999/146.htm)
-2. [岚图梦想家 9 预售 48 小时小订突破 3 万台：全系 800V + 华为乾崑智驾 ADS 5，42.99 万元起](https://www.ithome.com/0/999/145.htm)
-3. [2027 款宝马 BMW X3 正式上市：引入沙丘灰专属车漆、标配前排座椅通风，31.8 万元起](https://www.ithome.com/0/999/144.htm)
-4. [smart 精灵 2 号早鸟计划即将开启，定位两座纯电小车](https://www.ithome.com/0/999/142.htm)
-5. [捷豹路虎中国回应全球裁员 4000 人传闻：中国市场目前没有相应计划](https://www.ithome.com/0/999/141.htm)
+1. [软银、Sceye 携手在日本成功进行平流层高空基站技术验证](https://www.ithome.com/0/999/164.htm)
+2. [TIOBE 公布 2026 年 9 月编程语言排行榜：Julia 编程语言蚕食 MATLAB 份额，重新逼近前二十](https://www.ithome.com/0/999/163.htm)
+3. [鸿蒙智行“科技豪华硬派 SUV”享界 G9 官宣 9 月中旬开启全国用户交付](https://www.ithome.com/0/999/162.htm)
+4. [北京车展 2027 年突然加场和上海车展同月举办，协商后安排为专业主题展](https://www.ithome.com/0/999/161.htm)
+5. [文石 Boox Picco 迷你电纸书阅读器亮相：3.97 英寸 E-ink 墨水屏，Linux 系统](https://www.ithome.com/0/999/159.htm)

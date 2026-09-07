@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-07 10:33:02
+> 更新时间：2026-09-07 11:27:47
 
 ## 少数派
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Ponytail: Lazy Senior Engineer Skill](https://ponytail.dev/)
+1. [Show HN: GET Together – A social network where you don't need POST to Post](https://gettogether.dev)
 2. [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel)
-3. [Hard-Chat – A serverless, RAM-only P2P terminal chat](https://github.com/mrhardlint/Hard-Chat)
-4. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-5. [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
+3. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+4. [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
+5. [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
+
+## AI News
+
+1. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+2. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+3. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+4. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
+5. [Motional and MIT AI explains self-driving car decisions](https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/)
 
 ## 阮一峰网络日志
 
