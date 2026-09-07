@@ -92,6 +92,7 @@ jobs:
         if: steps.package.outputs.has_files == 'true' && env.DRY_RUN != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
         run: |
           set -euo pipefail
           tag="archive-${{ steps.package.outputs.archive_id }}"
@@ -99,32 +100,32 @@ jobs:
           manifest="$ARCHIVE_WORK/${{ steps.package.outputs.asset_1 }}"
           sums="$ARCHIVE_WORK/${{ steps.package.outputs.asset_2 }}"
 
-          if ! gh release view "$tag" >/dev/null 2>&1; then
-            gh release create "$tag" --target "$SOURCE_COMMIT" --draft \
+          if ! gh release view "$tag" --repo "$GH_REPO" >/dev/null 2>&1; then
+            gh release create "$tag" --repo "$GH_REPO" --target "$SOURCE_COMMIT" --draft \
               --title "Hot List Archive through ${{ steps.package.outputs.end_date }}" \
               --notes "Seven-day rolling archive. Assets are verified before data-pages is compacted."
           fi
 
           for file in "$archive" "$manifest" "$sums"; do
             name="$(basename "$file")"
-            if gh release view "$tag" --json assets --jq '.assets[].name' | grep -Fqx "$name"; then
+            if gh release view "$tag" --repo "$GH_REPO" --json assets --jq '.assets[].name' | grep -Fqx "$name"; then
               check_dir="$(mktemp -d)"
-              gh release download "$tag" --pattern "$name" --dir "$check_dir"
+              gh release download "$tag" --repo "$GH_REPO" --pattern "$name" --dir "$check_dir"
               cmp -s "$file" "$check_dir/$name" || {
                 echo "Existing release asset differs: $tag / $name" >&2
                 exit 1
               }
             else
-              gh release upload "$tag" "$file"
+              gh release upload "$tag" --repo "$GH_REPO" "$file"
             fi
           done
 
           remote_dir="$(mktemp -d)"
-          gh release download "$tag" --pattern "$(basename "$archive")" \
+          gh release download "$tag" --repo "$GH_REPO" --pattern "$(basename "$archive")" \
             --pattern "$(basename "$manifest")" --pattern "$(basename "$sums")" \
             --dir "$remote_dir"
           (cd "$remote_dir" && sha256sum -c "$(basename "$sums")")
-          gh release edit "$tag" --draft=false
+          gh release edit "$tag" --repo "$GH_REPO" --draft=false
           echo "- Published and verified [$tag](${{ github.server_url }}/${{ github.repository }}/releases/tag/$tag)." >> "$GITHUB_STEP_SUMMARY"
 
       - name: Clean verified files and compact data-pages
