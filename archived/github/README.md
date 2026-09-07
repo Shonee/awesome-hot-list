@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-07 10:38:36
+> 更新时间：2026-09-07 16:40:54
 
 ## 每日趋势
 
@@ -144,7 +144,6 @@
 21. [kopia](https://github.com/kopia/kopia)
 22. [ai-gateway](https://github.com/envoyproxy/ai-gateway)
 23. [dapr](https://github.com/dapr/dapr)
-24. [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
 
 ## HTML
 
