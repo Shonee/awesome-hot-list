@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-08",
-    "generatedAt": "2026-09-08 01:19:23",
-    "summary": "郑钦文vs斯瓦泰克成为本期综合热度最高的话题，GPT-6不只Astra！Sol内测结果曝光，速度快6倍紧随其后。当前覆盖 20 个有效渠道，共形成 66 个榜单时间切片；发现 8 个跨渠道重复热点。",
+    "generatedAt": "2026-09-08 02:25:48",
+    "summary": "郑钦文vs斯瓦泰克成为本期综合热度最高的话题，GPT-6不只Astra，Sol内测结果曝光，速度快6倍紧随其后。当前覆盖 20 个有效渠道，共形成 98 个榜单时间切片；发现 9 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1121,
-        "resonance": 8,
+        "deduplicated": 1214,
+        "resonance": 9,
         "maxRise": 50,
-        "slices": 66,
+        "slices": 98,
         "coverage": 87
     },
     "topTopics": [
@@ -35,7 +35,7 @@
             ]
         },
         {
-            "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+            "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
             "source": "跨渠道",
             "url": "https://www.36kr.com/p/3972817823609097",
             "hits": [
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "title": "童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」",
+            "title": "童欣加入Meshy，3D世界终于等到自己的「互联网时刻」",
             "source": "跨渠道",
             "url": "https://www.36kr.com/p/3972970929009154",
             "hits": [
@@ -146,6 +146,14 @@
                     "rank": 7,
                     "title": "余承东建议苹果用户买华为当备用机",
                     "url": "https://www.toutiao.com/trending/7682710222638301211/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682710222638301211%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%BD%93%E5%A4%87%E7%94%A8%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7682710222638301211"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "余承东建议苹果用户买华为当备用机",
+                    "url": "https://www.toutiao.com/trending/7682710222638301211/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682710222638301211%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%BD%93%E5%A4%87%E7%94%A8%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7682710222638301211"
                 },
                 {
                     "channelId": "weibo",
@@ -202,12 +210,43 @@
                     "url": "https://www.toutiao.com/trending/7682661917751512617/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682661917751512617%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9B%9D%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E7%BB%93%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7682661917751512617"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 15,
+                    "title": "曝井柏然刘雯结婚",
+                    "url": "https://www.toutiao.com/trending/7682661917751512617/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682661917751512617%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9B%9D%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E7%BB%93%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7682661917751512617"
+                },
+                {
                     "channelId": "weibo",
                     "channelName": "微博",
                     "ranking": "微博热榜",
                     "rank": 30,
                     "title": "曝井柏然刘雯结婚了",
                     "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E7%BB%93%E5%A9%9A%E4%BA%86&Refer=index"
+                }
+            ]
+        },
+        {
+            "title": "小米18Fold正式发布",
+            "source": "跨渠道",
+            "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318Fold%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+            "hits": [
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 27,
+                    "title": "小米18Fold正式发布",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318Fold%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 51,
+                    "title": "小米18Fold",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold&Refer=index"
                 }
             ]
         },
@@ -225,27 +264,12 @@
                     "url": "https://www.ithome.com/0/999/493.htm"
                 }
             ]
-        },
-        {
-            "title": "3秒变身！会合体的机器人，卖到全球50国",
-            "source": "RSS",
-            "url": "https://www.qbitai.com/2026/09/485525.html",
-            "hits": [
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 1,
-                    "title": "3秒变身！会合体的机器人，卖到全球50国",
-                    "url": "https://www.qbitai.com/2026/09/485525.html"
-                }
-            ]
         }
     ],
     "words": [
         {
             "word": "AI",
-            "weight": 72,
+            "weight": 75,
             "tone": "hot",
             "hits": [
                 {
@@ -492,7 +516,7 @@
         },
         {
             "word": "ST",
-            "weight": 66,
+            "weight": 74,
             "tone": "teal",
             "hits": [
                 {
@@ -518,6 +542,14 @@
                     "rank": 18,
                     "title": "绿龙BLAST波尔图夺冠",
                     "url": "https://search.bilibili.com/all?keyword=%E7%BB%BF%E9%BE%99BLAST%E6%B3%A2%E5%B0%94%E5%9B%BE%E5%A4%BA%E5%86%A0"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 44,
+                    "title": "【STN快报第8.5季19】这德国科隆给我弄哪来了？这真不是国内吗？",
+                    "url": "https://b23.tv/BV1oabW6zEms"
                 },
                 {
                     "channelId": "juejin",
@@ -606,6 +638,14 @@
                     "rank": 48,
                     "title": "Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo",
                     "url": "https://juejin.cn/post/7681560399858794546"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
                 },
                 {
                     "channelId": "acfun",
@@ -718,28 +758,12 @@
                     "rank": 5,
                     "title": "Type hint a default return type used unless more specific overload exists",
                     "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 6,
-                    "title": "Strapi property kind issue upgrading from 5.36.1 to 5.52.3",
-                    "url": "https://stackoverflow.com/questions/80001410/strapi-property-kind-issue-upgrading-from-5-36-1-to-5-52-3"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 7,
-                    "title": "How can I schedule social media posts using an API?",
-                    "url": "https://stackoverflow.com/questions/80001419/how-can-i-schedule-social-media-posts-using-an-api"
                 }
             ]
         },
         {
             "word": "AL",
-            "weight": 38,
+            "weight": 39,
             "tone": "gold",
             "hits": [
                 {
@@ -1166,6 +1190,46 @@
                     "url": "https://www.toutiao.com/trending/7682770771567119882/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682770771567119882%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8B%B9%E6%9E%9C%E5%AF%B9%E5%86%B3%E2%80%9C%E4%B8%87%E5%85%83%E6%9C%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682770771567119882"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "华为新款折叠屏手机售价19999元起",
+                    "url": "https://www.toutiao.com/trending/7682279563775033394/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682279563775033394%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682279563775033394"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "余承东建议苹果用户买华为当备用机",
+                    "url": "https://www.toutiao.com/trending/7682710222638301211/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682710222638301211%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%BD%93%E5%A4%87%E7%94%A8%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7682710222638301211"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 26,
+                    "title": "刘德华现身华为发布会金句频出",
+                    "url": "https://www.toutiao.com/trending/7682240514195803654/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195803654%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E5%BE%B7%E5%8D%8E%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E9%87%91%E5%8F%A5%E9%A2%91%E5%87%BA%22%7D&rank=&style_id=40132&topic_id=7682240514195803654"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 42,
+                    "title": "华为苹果小米发布新品各自特点是什么",
+                    "url": "https://www.toutiao.com/trending/7682777133805997622/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682777133805997622%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E5%93%81%E5%90%84%E8%87%AA%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7682777133805997622"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 45,
+                    "title": "余承东说上手华为阔直板爱不释手",
+                    "url": "https://www.toutiao.com/trending/7682710174498471978/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682710174498471978%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E8%AF%B4%E4%B8%8A%E6%89%8B%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B%22%7D&rank=&style_id=40132&topic_id=7682710174498471978"
+                },
+                {
                     "channelId": "ithome",
                     "channelName": "IT之家",
                     "ranking": "最新资讯",
@@ -1188,53 +1252,188 @@
                     "rank": 52,
                     "title": "雷军：希望用户把支持苹果、华为折叠屏的预算用到小米18fold上，一定会更觉得物超所值，这是小米目前最高端的手机，集所有科技一体",
                     "url": "https://bbs.hupu.com/642312153.html"
+                }
+            ]
+        },
+        {
+            "word": "没有",
+            "weight": 21,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 96,
+                    "title": "傲娇还没有退环境",
+                    "url": "https://b23.tv/BV1VBti6cEQV"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "王者归来，华为“韬定律”麒麟9050 Pro全球发布，三折叠机皇19999元起",
-                    "url": "https://www.36kr.com/p/3973139263582720"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 29,
+                    "title": "张家齐坦言感情没有很顺",
+                    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%9D%A6%E8%A8%80%E6%84%9F%E6%83%85%E6%B2%A1%E6%9C%89%E5%BE%88%E9%A1%BA&Refer=index"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 16,
-                    "title": "刚刚，华为时隔六年发布全新麒麟芯片，「韬定律」立大功",
-                    "url": "https://www.36kr.com/p/3973128206102786"
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 11,
+                    "title": "有没有一部公认的烂片，你觉得，其实它被严重低估了？",
+                    "url": "https://www.zhihu.com/question/2076564004877685708"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 22,
-                    "title": "华为、小米、苹果争相入局，阔折叠为啥火了？",
-                    "url": "https://www.36kr.com/p/3972699047777920"
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 14,
+                    "title": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
+                    "url": "https://www.zhihu.com/question/2078837455386630111"
                 },
                 {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 2,
+                    "title": "三年了，AI为何还没有抢走程序员饭碗？",
+                    "url": "https://juejin.cn/post/7682262550978936884"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 12,
+                    "title": "没有这部电影，就没有昆汀的《杀死比尔》！结合漫画解说《修罗雪姬》",
+                    "url": "https://www.acfun.cn/v/ac48831065"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 15,
+                    "title": "诺兰没有乱拍——《奥德赛》的真相就是『绝地天通』，是60年前，那位普林斯顿天才心理学家的『二分心智』",
+                    "url": "https://www.acfun.cn/v/ac48831060"
+                },
+                {
+                    "channelId": "douban",
+                    "channelName": "豆瓣",
+                    "ranking": "小组精选",
+                    "rank": 30,
+                    "title": "没有去旅行，就在家附近",
+                    "url": "https://www.douban.com/group/topic/498612600/?_spm_id=MjUyNDk1ODI0"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 10,
+                    "title": "某些朱重八粉张嘴就是没有朱元璋，现在有你吗这种唐氏发言，看看朱元璋是不是摘桃子大王",
+                    "url": "https://bbs.hupu.com/642318138.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 26,
+                    "title": "雷军:很多人都说我真诚，没有套路就是最好的套路，让我一路上收获很多",
+                    "url": "https://bbs.hupu.com/642314714.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 35,
+                    "title": "去nm的科技！运河+海运+旅游，有没有搞头？+1715",
+                    "url": "https://bbs.hupu.com/642313802.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 40,
+                    "title": "不吹不黑，C罗在国家队的作用，有没有超越里瓦尔多对巴西的作用？？？",
+                    "url": "https://bbs.hupu.com/642314441.html"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "帮兄弟问一下有没有微信已读消息的插件，女朋友总是不回他消息！",
+                    "url": "https://www.nodeseek.com/post-917134-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
                     "rank": 24,
-                    "title": "一文看完华为秋季新品发布会亮点、笑点，文末有彩蛋！",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
+                    "title": "人找车，gpt pro 20x  希望没有日限额",
+                    "url": "https://www.nodeseek.com/post-916398-1"
                 },
                 {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 25,
-                    "title": "财闻张晓迪发自广州折叠屏手机迎来全新形态。9月7日，华为在广州召开秋季全场景新品发布会，正式推出全球首款三折叠屏手机Mate XT2非凡大师。财闻现场了解到，该机展开后拥有一块10.2英寸的 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 28,
+                    "title": "是不是只有国人才有这种思维，没有任何歧视",
+                    "url": "https://www.nodeseek.com/post-916329-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 36,
+                    "title": "自建图床有没有教程？",
+                    "url": "https://www.nodeseek.com/post-917251-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 38,
+                    "title": "有没有gpt学生认证和绑卡的，带价来",
+                    "url": "https://www.nodeseek.com/post-917246-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 41,
+                    "title": "菲区GPT怎么不能免税了，账单地址中没有USA",
+                    "url": "https://www.nodeseek.com/post-917259-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 23,
+                    "title": "【开源】$1 的 Command Code 订阅没有 API？搓了个 OpenCode 插件直接桥接它",
+                    "url": "https://www.nodeseek.com/post-917312-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 50,
+                    "title": "【已解决】请教一下 收了个 wawo hkbn，没有公网IP4地址，怎么访问",
+                    "url": "https://www.nodeseek.com/post-912681-1"
+                },
+                {
+                    "channelId": "wechat",
+                    "channelName": "微信文章",
+                    "ranking": "24h 热文榜",
+                    "rank": 23,
+                    "title": "美国博主看不懂中文菜单，开口邀陌生人吃饭！一桌人花40美元后，他才问：美国怎么连这个都没有？",
+                    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjk5ODk5OQ==&mid=2247488577&idx=1&sn=ffa662d88b838c65ef4891bb6ce3b108#rd"
                 }
             ]
         },
         {
             "word": "手机",
             "weight": 16,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1275,6 +1474,14 @@
                     "rank": 10,
                     "title": "华为新款折叠屏手机售价19999元起",
                     "url": "https://www.toutiao.com/trending/7682279563775033394/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682279563775033394%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682279563775033394"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "华为新款折叠屏手机售价19999元起",
+                    "url": "https://www.toutiao.com/trending/7682279563775033394/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682279563775033394%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682279563775033394"
                 },
                 {
                     "channelId": "acfun",
@@ -1408,8 +1615,8 @@
         },
         {
             "word": "小米",
-            "weight": 29,
-            "tone": "teal",
+            "weight": 32,
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1428,6 +1635,22 @@
                     "url": "https://b23.tv/BV1aabK62EyJ"
                 },
                 {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 27,
+                    "title": "二楼好用吗？试小米N90 Max探索版",
+                    "url": "https://b23.tv/BV1YKbN61EmW"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 35,
+                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷的小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
+                    "url": "https://b23.tv/BV1LtbK6JE5V"
+                },
+                {
                     "channelId": "douyin",
                     "channelName": "抖音",
                     "ranking": "热搜",
@@ -1442,6 +1665,14 @@
                     "rank": 13,
                     "title": "小米新品发布会",
                     "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 27,
+                    "title": "小米18Fold正式发布",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318Fold%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
                 },
                 {
                     "channelId": "weibo",
@@ -1626,37 +1857,13 @@
                     "rank": 50,
                     "title": "华为小米苹果对决“万元机”",
                     "url": "https://www.toutiao.com/trending/7682770771567119882/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682770771567119882%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8B%B9%E6%9E%9C%E5%AF%B9%E5%86%B3%E2%80%9C%E4%B8%87%E5%85%83%E6%9C%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682770771567119882"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 11,
-                    "title": "小米澎程系列上市20.99万起",
-                    "url": "https://m.hupu.com/hot?tagId=156477"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 3,
-                    "title": "雷军:小米“中折叠”2年前正式立项，为了彻底解决大小折叠的弊端，融合优点，研发了20个月，是迄今为止最高端的小米手机",
-                    "url": "https://bbs.hupu.com/642319870.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 30,
-                    "title": "雷军谈为什么小米性价比高:“我们克制了贪婪 ，只挣一点点，一百元硬件利润不超过一元钱” 所有硬件产品综合毛利率不超过5个点",
-                    "url": "https://bbs.hupu.com/642315171.html"
                 }
             ]
         },
         {
             "word": "折叠",
-            "weight": 16,
-            "tone": "gold",
+            "weight": 17,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1737,6 +1944,46 @@
                     "rank": 20,
                     "title": "折叠屏的“成人礼”来了吗",
                     "url": "https://www.toutiao.com/trending/7682772247149314074/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682772247149314074%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9A%84%E2%80%9C%E6%88%90%E4%BA%BA%E7%A4%BC%E2%80%9D%E6%9D%A5%E4%BA%86%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7682772247149314074"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "雷军展示“折叠机的坟场”",
+                    "url": "https://www.toutiao.com/trending/7682740873169109035/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682740873169109035%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9B%B7%E5%86%9B%E5%B1%95%E7%A4%BA%E2%80%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E7%9A%84%E5%9D%9F%E5%9C%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682740873169109035"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 4,
+                    "title": "刘德华幽默带货：三折叠不好用找余总",
+                    "url": "https://www.toutiao.com/trending/7681943644320268307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681943644320268307%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B9%BD%E9%BB%98%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%89%E6%8A%98%E5%8F%A0%E4%B8%8D%E5%A5%BD%E7%94%A8%E6%89%BE%E4%BD%99%E6%80%BB%22%7D&rank=&style_id=40132&topic_id=7681943644320268307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "华为新款折叠屏手机售价19999元起",
+                    "url": "https://www.toutiao.com/trending/7682279563775033394/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682279563775033394%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682279563775033394"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 20,
+                    "title": "折叠屏的“成人礼”来了吗",
+                    "url": "https://www.toutiao.com/trending/7682772247149314074/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682772247149314074%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9A%84%E2%80%9C%E6%88%90%E4%BA%BA%E7%A4%BC%E2%80%9D%E6%9D%A5%E4%BA%86%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7682772247149314074"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 48,
+                    "title": "余承东演示三折叠纯物理防偷窥",
+                    "url": "https://www.toutiao.com/trending/7682548161265713178/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682548161265713178%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E6%BC%94%E7%A4%BA%E4%B8%89%E6%8A%98%E5%8F%A0%E7%BA%AF%E7%89%A9%E7%90%86%E9%98%B2%E5%81%B7%E7%AA%A5%22%7D&rank=&style_id=40132&topic_id=7682548161265713178"
                 },
                 {
                     "channelId": "ithome",
@@ -1823,7 +2070,7 @@
         {
             "word": "美国",
             "weight": 13,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1898,6 +2145,14 @@
                     "url": "https://www.toutiao.com/trending/7682283812982128676/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682283812982128676%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E9%9D%A0%E7%8C%AA%E8%82%BE%E7%BB%AD%E5%91%BD9%E4%B8%AA%E6%9C%88%E7%AD%89%E6%9D%A5%E4%BA%86%E4%BA%BA%E8%82%BE%22%7D&rank=&style_id=40132&topic_id=7682283812982128676"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 43,
+                    "title": "美债拉响警报 美国还能再次伟大吗",
+                    "url": "https://www.toutiao.com/trending/7682781473199361572/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682781473199361572%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%80%BA%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5+%E7%BE%8E%E5%9B%BD%E8%BF%98%E8%83%BD%E5%86%8D%E6%AC%A1%E4%BC%9F%E5%A4%A7%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7682781473199361572"
+                },
+                {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "步行街热帖",
@@ -1948,9 +2203,112 @@
             ]
         },
         {
+            "word": "日本",
+            "weight": 11,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 78,
+                    "title": "我在日本，找到了被李白杀死的遣唐使",
+                    "url": "https://b23.tv/BV1i5tU6NEAd"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 80,
+                    "title": "俄罗斯建硬核纪念碑：士兵举枪托砸向“大日本帝国”碑 日本紧急交涉：菊花像征日本皇室 俄方回绝：军国主义罪证！",
+                    "url": "https://b23.tv/BV121t16jEyF"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 35,
+                    "title": "俄称日本有“病”别传染给他国",
+                    "url": "https://www.douyin.com/search/%E4%BF%84%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%9C%89%E2%80%9C%E7%97%85%E2%80%9D%E5%88%AB%E4%BC%A0%E6%9F%93%E7%BB%99%E4%BB%96%E5%9B%BD"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 31,
+                    "title": "日本驻印度大使恒河沐浴",
+                    "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%B0%E5%BA%A6%E5%A4%A7%E4%BD%BF%E6%81%92%E6%B2%B3%E6%B2%90%E6%B5%B4&Refer=index"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 9,
+                    "title": "日本驻印大使捏住鼻子在恒河沐浴",
+                    "url": "https://www.toutiao.com/trending/7682681917280682010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682681917280682010%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%B0%E5%A4%A7%E4%BD%BF%E6%8D%8F%E4%BD%8F%E9%BC%BB%E5%AD%90%E5%9C%A8%E6%81%92%E6%B2%B3%E6%B2%90%E6%B5%B4%22%7D&rank=&style_id=40132&topic_id=7682681917280682010"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 25,
+                    "title": "日本驻印大使捏住鼻子在恒河沐浴",
+                    "url": "https://www.toutiao.com/trending/7682681917280682010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682681917280682010%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%B0%E5%A4%A7%E4%BD%BF%E6%8D%8F%E4%BD%8F%E9%BC%BB%E5%AD%90%E5%9C%A8%E6%81%92%E6%B2%B3%E6%B2%90%E6%B5%B4%22%7D&rank=&style_id=40132&topic_id=7682681917280682010"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 33,
+                    "title": "2026年9月第一周日本广告合集",
+                    "url": "https://www.acfun.cn/v/ac48827747"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 45,
+                    "title": "细节饱含理念 日本建筑工地的拐角细节",
+                    "url": "https://bbs.hupu.com/642314359.html"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 13,
+                    "title": "商务部：原产于日本的进口二氯二氢硅存在倾销",
+                    "url": "https://www.cls.cn/detail/2475810"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 4,
+                    "title": "绿云日本要迁移选哪个呢.",
+                    "url": "https://www.nodeseek.com/post-917354-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "已出 shlii自营的日本 乐天软银sb双出口动态家宽 循环续费7.5r/3 折/",
+                    "url": "https://www.nodeseek.com/post-916250-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 27,
+                    "title": "求推荐日本线路鸡，山东青岛联通自用",
+                    "url": "https://www.nodeseek.com/post-906389-1"
+                }
+            ]
+        },
+        {
             "word": "Pro",
-            "weight": 20,
-            "tone": "hot",
+            "weight": 23,
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -2033,6 +2391,14 @@
                     "url": "https://stackoverflow.com/questions/80001317/what-kanban-project-management-tools-work-well-for-small-development-teams"
                 },
                 {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 49,
+                    "title": "Problems with getting variables via lifespan context manager in Fastapi",
+                    "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi"
+                },
+                {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
@@ -2071,6 +2437,22 @@
                     "rank": 50,
                     "title": "这种有三次重置卡的plus升级到pro是不是很爽",
                     "url": "https://www.nodeseek.com/post-917298-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "DMIT LAX.AS3.Pro.TINY 剩余价值+溢价60/台 2台打包 内详",
+                    "url": "https://www.nodeseek.com/post-916678-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 38,
+                    "title": "pro20倍好爽",
+                    "url": "https://www.nodeseek.com/post-917342-1"
                 },
                 {
                     "channelId": "pojie52",
@@ -2115,9 +2497,112 @@
             ]
         },
         {
+            "word": "终于",
+            "weight": 11,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 28,
+                    "title": "萌黄我...终于拥有新衣服了！！",
+                    "url": "https://b23.tv/BV1GSbA6BEyn"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 19,
+                    "title": "用手还原badapple-终于还是走到了这一步",
+                    "url": "https://b23.tv/BV1tHbj6PEmH"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "三日榜",
+                    "rank": 15,
+                    "title": "嗨！你终于来啦～",
+                    "url": "https://www.acfun.cn/v/ac48828381"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "周榜",
+                    "rank": 36,
+                    "title": "嗨！你终于来啦～",
+                    "url": "https://www.acfun.cn/v/ac48828381"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 19,
+                    "title": "原来长发是这样戴泳帽的... 终于不困惑了",
+                    "url": "https://bbs.hupu.com/642314023.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 38,
+                    "title": "终于解封了，左中右",
+                    "url": "https://bbs.hupu.com/642319710.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 37,
+                    "title": "童欣加入Meshy，3D世界终于等到自己的「互联网时刻」",
+                    "url": "https://www.36kr.com/p/3972970929009154"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 23,
+                    "title": "终于找到家不错的灵车",
+                    "url": "https://www.nodeseek.com/post-917348-1"
+                },
+                {
+                    "channelId": "wechat",
+                    "channelName": "微信文章",
+                    "ranking": "24h 热文榜",
+                    "rank": 19,
+                    "title": "姗姗来迟的教龄津贴调整终于来了！",
+                    "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTA1ODQxNg==&mid=2247490328&idx=1&sn=55b60198fb22165b21631cfaec6264b8#rd"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 1,
+                    "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+                    "url": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 3,
+                    "title": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+                    "url": "https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "极客公园",
+                    "rank": 3,
+                    "title": "童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」",
+                    "url": "http://www.geekpark.net/news/369959"
+                }
+            ]
+        },
+        {
             "word": "Mate",
             "weight": 10,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2204,7 +2689,7 @@
         {
             "word": "科技",
             "weight": 15,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2345,8 +2830,159 @@
             ]
         },
         {
+            "word": "澎程",
+            "weight": 14,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 35,
+                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷的小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
+                    "url": "https://b23.tv/BV1LtbK6JE5V"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 12,
+                    "title": "小米澎程N90探索版看点总结",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E7%9C%8B%E7%82%B9%E6%80%BB%E7%BB%93"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 9,
+                    "title": "小米澎程N90售价",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E5%94%AE%E4%BB%B7&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 18,
+                    "title": "小米澎程",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 24,
+                    "title": "小米澎程4分钟锁单突破10000台",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B4%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%AA%81%E7%A0%B410000%E5%8F%B0&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 27,
+                    "title": "小米澎程升降顶舱",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 28,
+                    "title": "小米澎程N90探索版首发评测",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 36,
+                    "title": "王腾买了澎程N90Max",
+                    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%85%BE%E4%B9%B0%E4%BA%86%E6%BE%8E%E7%A8%8BN90Max&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 45,
+                    "title": "小米澎程N90抗住17吨顶压试验",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8A%97%E4%BD%8F17%E5%90%A8%E9%A1%B6%E5%8E%8B%E8%AF%95%E9%AA%8C&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 3,
+                    "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
+                    "url": "https://www.zhihu.com/question/2080397612411086400"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 20,
+                    "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
+                    "url": "https://www.zhihu.com/question/2080231640031126537"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "小米澎程SUV售价公布",
+                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "小米澎程SUV售价公布",
+                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 31,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "小米澎程SUV售价公布",
+                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 38,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "虎扑热榜",
+                    "rank": 11,
+                    "title": "小米澎程系列上市20.99万起",
+                    "url": "https://m.hupu.com/hot?tagId=156477"
+                }
+            ]
+        },
+        {
             "word": "发布会",
-            "weight": 10,
+            "weight": 11,
             "tone": "",
             "hits": [
                 {
@@ -2406,6 +3042,14 @@
                     "url": "https://www.toutiao.com/trending/7682240514195803654/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195803654%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E5%BE%B7%E5%8D%8E%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E9%87%91%E5%8F%A5%E9%A2%91%E5%87%BA%22%7D&rank=&style_id=40132&topic_id=7682240514195803654"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 26,
+                    "title": "刘德华现身华为发布会金句频出",
+                    "url": "https://www.toutiao.com/trending/7682240514195803654/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195803654%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E5%BE%B7%E5%8D%8E%E7%8E%B0%E8%BA%AB%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E9%87%91%E5%8F%A5%E9%A2%91%E5%87%BA%22%7D&rank=&style_id=40132&topic_id=7682240514195803654"
+                },
+                {
                     "channelId": "tonghuashun",
                     "channelName": "同花顺",
                     "ranking": "今日要闻",
@@ -2430,6 +3074,14 @@
                     "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
                 },
                 {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 2,
+                    "title": "数字贸易又将迎来更多政策支持。商务部副部长鄢东9月7日在国新办新闻发布会上表示，将大力发展对外贸易，支持远程医疗、在线教育、云端办公等数字服务出口，培育数字贸易新增长点。拓展数字 ...",
+                    "url": "http://news.10jqka.com.cn/20260908/c679673021.shtml"
+                },
+                {
                     "channelId": "rss",
                     "channelName": "RSS",
                     "ranking": "爱范儿",
@@ -2440,9 +3092,104 @@
             ]
         },
         {
+            "word": "正式",
+            "weight": 11,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 28,
+                    "title": "华为Mate XT 2正式上线",
+                    "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate%20XT%202%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 27,
+                    "title": "小米18Fold正式发布",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318Fold%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 25,
+                    "title": "HarmonyOS 7 及新品发布会提出「鸿蒙应用体验正式迈进成熟好用的新阶段」，透露出哪些关键趋势？",
+                    "url": "https://www.zhihu.com/question/2080242281999773950"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 29,
+                    "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
+                    "url": "https://juejin.cn/post/7681626346015916068"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 34,
+                    "title": "全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。",
+                    "url": "https://juejin.cn/post/7682190370525970442"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 3,
+                    "title": "雷军:小米“中折叠”2年前正式立项，为了彻底解决大小折叠的弊端，融合优点，研发了20个月，是迄今为止最高端的小米手机",
+                    "url": "https://bbs.hupu.com/642319870.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 3,
+                    "title": "刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来",
+                    "url": "https://www.36kr.com/p/3972641004843521"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 48,
+                    "title": "不想造车的马斯克，正式进军网约车领域了",
+                    "url": "https://www.36kr.com/p/3972538028356098"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 10,
+                    "title": "9月7日，新一轮港股通标的调整正式生效。本次合计54只港股正式调入名单。从名单上看，主要分布在AI、高端制造、生物医药、农业化工等多个赛道，包括百度集团-W、中国心连心化肥、爱芯元智、 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679672621.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 12,
+                    "title": "鸣鸣很忙回应称重事件：将设立专项基金，差价十倍赔偿。9月7日，#赵一鸣致歉的话题登上微博热搜榜第一名。鸣鸣很忙就近期门店称重问题作出正式回应。集团旗下“零食很忙”“赵一鸣零食”宣 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679672551.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 25,
+                    "title": "财闻张晓迪发自广州折叠屏手机迎来全新形态。9月7日，华为在广州召开秋季全场景新品发布会，正式推出全球首款三折叠屏手机Mate XT2非凡大师。财闻现场了解到，该机展开后拥有一块10.2英寸的 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
+                }
+            ]
+        },
+        {
             "word": "到底",
             "weight": 10,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2535,191 +3282,167 @@
             ]
         },
         {
-            "word": "正式",
+            "word": "支持",
             "weight": 10,
-            "tone": "teal",
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 9,
+                    "title": "支持独立部署的地图方案",
+                    "url": "https://juejin.cn/post/7682362046578966580"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 52,
+                    "title": "雷军：希望用户把支持苹果、华为折叠屏的预算用到小米18fold上，一定会更觉得物超所值，这是小米目前最高端的手机，集所有科技一体",
+                    "url": "https://bbs.hupu.com/642312153.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 1,
+                    "title": "8点1氪丨耐克将被移出标普100指数；iPhone折叠版定价或14999元起；财政部将发行特别国债，支持8家中央金融企业补充资本",
+                    "url": "https://www.36kr.com/p/3972584225747209"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 4,
+                    "title": "■李文    财政部近期将发行3000亿元特别国债，支持8家中央金融企业补充核心一级资本。本次资本补充立足当前、谋划长远，充分彰显出我国建设 ...",
+                    "url": "http://news.10jqka.com.cn/20260908/c679672687.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 19,
+                    "title": "“我们将培育具有较强创新能力和国际竞争力的数字贸易领军企业，支持企业拓展国际市常”9月7日，商务部副部长鄢东在国新办新闻发布会上表示，要积极培育外向度高、具有独特竞争优势的中小型 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679672254.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 29,
+                    "title": "凤凰网财经讯 据央视新闻消息，财政部近期将发行3000亿元特别国债，支持工商银行、农业银行、中国进出口银行、中国信保、中国再保、中国人寿、中国太平、中国人保8家中央金融企业补充核心一 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671687.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 2,
+                    "title": "数字贸易又将迎来更多政策支持。商务部副部长鄢东9月7日在国新办新闻发布会上表示，将大力发展对外贸易，支持远程医疗、在线教育、云端办公等数字服务出口，培育数字贸易新增长点。拓展数字 ...",
+                    "url": "http://news.10jqka.com.cn/20260908/c679673021.shtml"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 16,
+                    "title": "对Codex原生支持最好的面板是哪个呢？（Codex部署在vps上）",
+                    "url": "https://www.nodeseek.com/post-917265-1"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 19,
+                    "title": "UFS改U盘主控，对应支持型号及量产工具",
+                    "url": "https://www.52pojie.cn/thread-2126621-1-1.html"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 41,
+                    "title": "Geek卸载工具修改版v1.5.4.180，支持批量卸载！",
+                    "url": "https://www.52pojie.cn/thread-2125056-1-1.html"
+                }
+            ]
+        },
+        {
+            "word": "vs",
+            "weight": 8,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
                     "channelName": "抖音",
                     "ranking": "热搜",
-                    "rank": 28,
-                    "title": "华为Mate XT 2正式上线",
-                    "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate%20XT%202%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
+                    "rank": 1,
+                    "title": "郑钦文vs斯瓦泰克",
+                    "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 1,
+                    "title": "郑钦文vs斯瓦泰克",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 17,
+                    "title": "郑钦文vs斯维亚泰克前瞻",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%BB%B4%E4%BA%9A%E6%B3%B0%E5%85%8B%E5%89%8D%E7%9E%BB&Refer=index"
                 },
                 {
                     "channelId": "zhihu",
                     "channelName": "知乎",
                     "ranking": "知乎热榜",
-                    "rank": 25,
-                    "title": "HarmonyOS 7 及新品发布会提出「鸿蒙应用体验正式迈进成熟好用的新阶段」，透露出哪些关键趋势？",
-                    "url": "https://www.zhihu.com/question/2080242281999773950"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 29,
-                    "title": "GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”",
-                    "url": "https://juejin.cn/post/7681626346015916068"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 34,
-                    "title": "全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。",
-                    "url": "https://juejin.cn/post/7682190370525970442"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 3,
-                    "title": "雷军:小米“中折叠”2年前正式立项，为了彻底解决大小折叠的弊端，融合优点，研发了20个月，是迄今为止最高端的小米手机",
-                    "url": "https://bbs.hupu.com/642319870.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 3,
-                    "title": "刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来",
-                    "url": "https://www.36kr.com/p/3972641004843521"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 48,
-                    "title": "不想造车的马斯克，正式进军网约车领域了",
-                    "url": "https://www.36kr.com/p/3972538028356098"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 10,
-                    "title": "9月7日，新一轮港股通标的调整正式生效。本次合计54只港股正式调入名单。从名单上看，主要分布在AI、高端制造、生物医药、农业化工等多个赛道，包括百度集团-W、中国心连心化肥、爱芯元智、 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679672621.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 12,
-                    "title": "鸣鸣很忙回应称重事件：将设立专项基金，差价十倍赔偿。9月7日，#赵一鸣致歉的话题登上微博热搜榜第一名。鸣鸣很忙就近期门店称重问题作出正式回应。集团旗下“零食很忙”“赵一鸣零食”宣 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679672551.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 25,
-                    "title": "财闻张晓迪发自广州折叠屏手机迎来全新形态。9月7日，华为在广州召开秋季全场景新品发布会，正式推出全球首款三折叠屏手机Mate XT2非凡大师。财闻现场了解到，该机展开后拥有一块10.2英寸的 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
-                }
-            ]
-        },
-        {
-            "word": "终于",
-            "weight": 10,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 28,
-                    "title": "萌黄我...终于拥有新衣服了！！",
-                    "url": "https://b23.tv/BV1GSbA6BEyn"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 19,
-                    "title": "用手还原badapple-终于还是走到了这一步",
-                    "url": "https://b23.tv/BV1tHbj6PEmH"
+                    "rank": 47,
+                    "title": "如何评价上单老祖《黄金剑魔 vs 王者蒙多》视频引发的节奏和假赛风波？",
+                    "url": "https://www.zhihu.com/question/2079707825106851053"
                 },
                 {
                     "channelId": "acfun",
                     "channelName": "AcFun",
                     "ranking": "三日榜",
-                    "rank": 15,
-                    "title": "嗨！你终于来啦～",
-                    "url": "https://www.acfun.cn/v/ac48828381"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 36,
-                    "title": "嗨！你终于来啦～",
-                    "url": "https://www.acfun.cn/v/ac48828381"
+                    "rank": 47,
+                    "title": "1只蝎子 vs 200只蚂蚁，一场两败俱伤的惨斗！",
+                    "url": "https://www.acfun.cn/v/ac48829476"
                 },
                 {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "步行街热帖",
-                    "rank": 19,
-                    "title": "原来长发是这样戴泳帽的... 终于不困惑了",
-                    "url": "https://bbs.hupu.com/642314023.html"
+                    "rank": 23,
+                    "title": "今晚郑钦文VS斯瓦泰克结果预测",
+                    "url": "https://bbs.hupu.com/642316258.html"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 38,
-                    "title": "终于解封了，左中右",
-                    "url": "https://bbs.hupu.com/642319710.html"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 2,
+                    "title": "C17 vs C23: () function pointer error - Is this the correct fix?",
+                    "url": "https://stackoverflow.com/questions/80001459/c17-vs-c23-function-pointer-error-is-this-the-correct-fix"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 37,
-                    "title": "童欣加入Meshy，3D世界终于等到自己的「互联网时刻」",
-                    "url": "https://www.36kr.com/p/3972970929009154"
-                },
-                {
-                    "channelId": "wechat",
-                    "channelName": "微信文章",
-                    "ranking": "24h 热文榜",
-                    "rank": 19,
-                    "title": "姗姗来迟的教龄津贴调整终于来了！",
-                    "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTA1ODQxNg==&mid=2247490328&idx=1&sn=55b60198fb22165b21631cfaec6264b8#rd"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 1,
-                    "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
-                    "url": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 3,
-                    "title": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
-                    "url": "https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "极客公园",
-                    "rank": 3,
-                    "title": "童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」",
-                    "url": "http://www.geekpark.net/news/369959"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 4,
+                    "title": "Availability via DQL Metrics VS Availability via Data Explorer",
+                    "url": "https://stackoverflow.com/questions/80001474/availability-via-dql-metrics-vs-availability-via-data-explorer"
                 }
             ]
         },
         {
             "word": "GPT",
-            "weight": 24,
-            "tone": "",
+            "weight": 25,
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -2800,6 +3523,14 @@
                     "rank": 45,
                     "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
                     "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
                 },
                 {
                     "channelId": "ithome",
@@ -2917,8 +3648,8 @@
         },
         {
             "word": "gpt",
-            "weight": 24,
-            "tone": "hot",
+            "weight": 25,
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -2999,6 +3730,14 @@
                     "rank": 45,
                     "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
                     "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
                 },
                 {
                     "channelId": "ithome",
@@ -3116,8 +3855,8 @@
         },
         {
             "word": "Astra",
-            "weight": 15,
-            "tone": "teal",
+            "weight": 16,
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3184,6 +3923,14 @@
                     "url": "https://juejin.cn/post/7681939121792778266"
                 },
                 {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
+                },
+                {
                     "channelId": "ithome",
                     "channelName": "IT之家",
                     "ranking": "最新资讯",
@@ -3242,136 +3989,128 @@
             ]
         },
         {
-            "word": "澎程",
-            "weight": 13,
-            "tone": "gold",
+            "word": "现在",
+            "weight": 14,
+            "tone": "",
             "hits": [
                 {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 12,
-                    "title": "小米澎程N90探索版看点总结",
-                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E7%9C%8B%E7%82%B9%E6%80%BB%E7%BB%93"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 9,
-                    "title": "小米澎程N90售价",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E5%94%AE%E4%BB%B7&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 18,
-                    "title": "小米澎程",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 24,
-                    "title": "小米澎程4分钟锁单突破10000台",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B4%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%AA%81%E7%A0%B410000%E5%8F%B0&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 27,
-                    "title": "小米澎程升降顶舱",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 28,
-                    "title": "小米澎程N90探索版首发评测",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 36,
-                    "title": "王腾买了澎程N90Max",
-                    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%85%BE%E4%B9%B0%E4%BA%86%E6%BE%8E%E7%A8%8BN90Max&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 45,
-                    "title": "小米澎程N90抗住17吨顶压试验",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8A%97%E4%BD%8F17%E5%90%A8%E9%A1%B6%E5%8E%8B%E8%AF%95%E9%AA%8C&Refer=index"
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 72,
+                    "title": "你现在是我家的凑企鹅了",
+                    "url": "https://b23.tv/BV1Zttm6iEdj"
                 },
                 {
                     "channelId": "zhihu",
                     "channelName": "知乎",
                     "ranking": "知乎热榜",
-                    "rank": 3,
-                    "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
-                    "url": "https://www.zhihu.com/question/2080397612411086400"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 20,
-                    "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
-                    "url": "https://www.zhihu.com/question/2080231640031126537"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "小米澎程SUV售价公布",
-                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "小米澎程SUV售价公布",
-                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 31,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                    "rank": 8,
+                    "title": "媒体曝民宿从「一房难求」到房间空置，大量民宿经营者称入住率暴跌，为啥大家现在都不爱住民宿了？",
+                    "url": "https://www.zhihu.com/question/2079850291302765262"
                 },
                 {
                     "channelId": "hupu",
                     "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 11,
-                    "title": "小米澎程系列上市20.99万起",
-                    "url": "https://m.hupu.com/hot?tagId=156477"
+                    "ranking": "步行街热帖",
+                    "rank": 10,
+                    "title": "某些朱重八粉张嘴就是没有朱元璋，现在有你吗这种唐氏发言，看看朱元璋是不是摘桃子大王",
+                    "url": "https://bbs.hupu.com/642318138.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 14,
+                    "title": "国人素质并不高，现在社会这么安全主要是党领导的好，这观点对吗？",
+                    "url": "https://bbs.hupu.com/642316451.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 15,
+                    "title": "表妹跟我说她在台球厅上班月薪3万，现在我信了",
+                    "url": "https://bbs.hupu.com/642315824.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 47,
+                    "title": "现在家长对待孩子的学习态度已经这么无所谓了，15岁就辍学了。。。",
+                    "url": "https://bbs.hupu.com/642309682.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 9,
+                    "title": "家里又吵了，一直潜水，实在是烦，JRS们帮忙看看，有什么好办法，他们之前就不和睦，吵过架，我中间协调，现在在外面租房子让老妈单独住，老婆二胎中",
+                    "url": "https://bbs.hupu.com/642319177.html"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "论坛现在好乱啊",
+                    "url": "https://www.nodeseek.com/post-917269-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 43,
+                    "title": "各位大佬 开了菲区的说说 菲区现在封号情况咋样啊 想开20x有点担心",
+                    "url": "https://www.nodeseek.com/post-884590-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 50,
+                    "title": "DMIT-Corona现在价值多少",
+                    "url": "https://www.nodeseek.com/post-917217-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "现在搜这个盗版的电子书，或者是盗版的电影夸克网盘链接哪个 AI 能够搜啊？之前用 Manus 的话都还能够搜得到，现在 Manus 也严了，搜不到盗版了。",
+                    "url": "https://www.nodeseek.com/post-917076-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 27,
+                    "title": "现在有什么小鸡可以入吗感觉好空虚",
+                    "url": "https://www.nodeseek.com/post-917282-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 29,
+                    "title": "现在codex还会降额度吗，不是说是bug已经修复了",
+                    "url": "https://www.nodeseek.com/post-917322-1"
+                },
+                {
+                    "channelId": "wechat",
+                    "channelName": "微信文章",
+                    "ranking": "24h 热文榜",
+                    "rank": 25,
+                    "title": "疯了！现在短剧都卷到1000集了：这还叫“短剧”吗？",
+                    "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODc5ODk1Ng==&mid=2247508727&idx=1&sn=77aa2dde490673f07d636579ac25c452#rd"
                 }
             ]
         },
         {
             "word": "OpenAI",
             "weight": 12,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3472,112 +4211,104 @@
             ]
         },
         {
-            "word": "现在",
-            "weight": 12,
-            "tone": "hot",
+            "word": "全球",
+            "weight": 11,
+            "tone": "teal",
             "hits": [
                 {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 72,
-                    "title": "你现在是我家的凑企鹅了",
-                    "url": "https://b23.tv/BV1Zttm6iEdj"
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 4,
+                    "title": "如何评价华为 9 月 7 日全球直播的新品发布会？有哪些信息值得关注？",
+                    "url": "https://www.zhihu.com/question/2080237392129274336"
                 },
                 {
                     "channelId": "zhihu",
                     "channelName": "知乎",
                     "ranking": "知乎热榜",
+                    "rank": 7,
+                    "title": "如何看待全球最大纯电飞机 Heart X1 首飞 27 分钟电费仅用了 5 美元？电动客机能颠覆传统支线航空吗？",
+                    "url": "https://www.zhihu.com/question/2080085427713791251"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 48,
+                    "title": "联合国报告示警全球升温或突破 1.5℃，这代表什么？当前应该做哪些措施？",
+                    "url": "https://www.zhihu.com/question/2078601389844993006"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 1,
+                    "title": "2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月 15 日晚",
+                    "url": "https://www.ithome.com/0/999/493.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
                     "rank": 8,
-                    "title": "媒体曝民宿从「一房难求」到房间空置，大量民宿经营者称入住率暴跌，为啥大家现在都不爱住民宿了？",
-                    "url": "https://www.zhihu.com/question/2079850291302765262"
+                    "title": "王者归来，华为“韬定律”麒麟9050 Pro全球发布，三折叠机皇19999元起",
+                    "url": "https://www.36kr.com/p/3973139263582720"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 10,
-                    "title": "某些朱重八粉张嘴就是没有朱元璋，现在有你吗这种唐氏发言，看看朱元璋是不是摘桃子大王",
-                    "url": "https://bbs.hupu.com/642318138.html"
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 24,
+                    "title": "最前线｜神行者8起售28.99万元，捷豹路虎与奇瑞要重新做一个“全球品牌”",
+                    "url": "https://www.36kr.com/p/3972735307854340"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 14,
-                    "title": "国人素质并不高，现在社会这么安全主要是党领导的好，这观点对吗？",
-                    "url": "https://bbs.hupu.com/642316451.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 15,
-                    "title": "表妹跟我说她在台球厅上班月薪3万，现在我信了",
-                    "url": "https://bbs.hupu.com/642315824.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 47,
-                    "title": "现在家长对待孩子的学习态度已经这么无所谓了，15岁就辍学了。。。",
-                    "url": "https://bbs.hupu.com/642309682.html"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 8,
-                    "title": "论坛现在好乱啊",
-                    "url": "https://www.nodeseek.com/post-917269-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 43,
-                    "title": "各位大佬 开了菲区的说说 菲区现在封号情况咋样啊 想开20x有点担心",
-                    "url": "https://www.nodeseek.com/post-884590-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 50,
-                    "title": "DMIT-Corona现在价值多少",
-                    "url": "https://www.nodeseek.com/post-917217-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "现在搜这个盗版的电子书，或者是盗版的电影夸克网盘链接哪个 AI 能够搜啊？之前用 Manus 的话都还能够搜得到，现在 Manus 也严了，搜不到盗版了。",
-                    "url": "https://www.nodeseek.com/post-917076-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
                     "rank": 27,
-                    "title": "现在有什么小鸡可以入吗感觉好空虚",
-                    "url": "https://www.nodeseek.com/post-917282-1"
+                    "title": "中国模型，全球底座",
+                    "url": "https://www.36kr.com/p/3973109007921665"
                 },
                 {
-                    "channelId": "wechat",
-                    "channelName": "微信文章",
-                    "ranking": "24h 热文榜",
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
                     "rank": 25,
-                    "title": "疯了！现在短剧都卷到1000集了：这还叫“短剧”吗？",
-                    "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODc5ODk1Ng==&mid=2247508727&idx=1&sn=77aa2dde490673f07d636579ac25c452#rd"
+                    "title": "财闻张晓迪发自广州折叠屏手机迎来全新形态。9月7日，华为在广州召开秋季全场景新品发布会，正式推出全球首款三折叠屏手机Mate XT2非凡大师。财闻现场了解到，该机展开后拥有一块10.2英寸的 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 12,
+                    "title": "新设外企稳增长，中国经济引力强。“一带一路”多伙伴，出口大省挑大梁。协力推进全球化，广交朋友拆高墙。进出口中挖潜力，行稳致远谱新章。朱慧卿/漫画孙勇/诗 ...",
+                    "url": "http://news.10jqka.com.cn/20260908/c679672913.shtml"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 1,
+                    "title": "3秒变身！会合体的机器人，卖到全球50国",
+                    "url": "https://www.qbitai.com/2026/09/485525.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 3,
+                    "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+                    "url": "https://www.qbitai.com/2026/09/485154.html"
                 }
             ]
         },
         {
             "word": "模型",
             "weight": 11,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3666,93 +4397,6 @@
                     "rank": 4,
                     "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
                     "url": "https://www.qbitai.com/2026/09/485108.html"
-                }
-            ]
-        },
-        {
-            "word": "全球",
-            "weight": 10,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 4,
-                    "title": "如何评价华为 9 月 7 日全球直播的新品发布会？有哪些信息值得关注？",
-                    "url": "https://www.zhihu.com/question/2080237392129274336"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 7,
-                    "title": "如何看待全球最大纯电飞机 Heart X1 首飞 27 分钟电费仅用了 5 美元？电动客机能颠覆传统支线航空吗？",
-                    "url": "https://www.zhihu.com/question/2080085427713791251"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 48,
-                    "title": "联合国报告示警全球升温或突破 1.5℃，这代表什么？当前应该做哪些措施？",
-                    "url": "https://www.zhihu.com/question/2078601389844993006"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 1,
-                    "title": "2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月 15 日晚",
-                    "url": "https://www.ithome.com/0/999/493.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "王者归来，华为“韬定律”麒麟9050 Pro全球发布，三折叠机皇19999元起",
-                    "url": "https://www.36kr.com/p/3973139263582720"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 24,
-                    "title": "最前线｜神行者8起售28.99万元，捷豹路虎与奇瑞要重新做一个“全球品牌”",
-                    "url": "https://www.36kr.com/p/3972735307854340"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 27,
-                    "title": "中国模型，全球底座",
-                    "url": "https://www.36kr.com/p/3973109007921665"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 25,
-                    "title": "财闻张晓迪发自广州折叠屏手机迎来全新形态。9月7日，华为在广州召开秋季全场景新品发布会，正式推出全球首款三折叠屏手机Mate XT2非凡大师。财闻现场了解到，该机展开后拥有一块10.2英寸的 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 1,
-                    "title": "3秒变身！会合体的机器人，卖到全球50国",
-                    "url": "https://www.qbitai.com/2026/09/485525.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 3,
-                    "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-                    "url": "https://www.qbitai.com/2026/09/485154.html"
                 }
             ]
         },
@@ -3905,6 +4549,14 @@
                     "url": "https://www.toutiao.com/trending/7682777133805997622/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682777133805997622%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E5%93%81%E5%90%84%E8%87%AA%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7682777133805997622"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 42,
+                    "title": "华为苹果小米发布新品各自特点是什么",
+                    "url": "https://www.toutiao.com/trending/7682777133805997622/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682777133805997622%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E5%93%81%E5%90%84%E8%87%AA%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7682777133805997622"
+                },
+                {
                     "channelId": "tonghuashun",
                     "channelName": "同花顺",
                     "ranking": "今日要闻",
@@ -4031,6 +4683,14 @@
                     "url": "https://www.toutiao.com/trending/7682788085913882162/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682788085913882162%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B4%A2%E6%94%BF%E9%83%A8%E6%B3%A8%E8%B5%84%E2%80%9C%E7%83%9F%E8%8D%89%E7%B3%BB%E2%80%9D%E4%B8%BA%E4%BD%95%E5%87%BA%E5%B1%B1%22%7D&rank=&style_id=40132&topic_id=7682788085913882162"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 30,
+                    "title": "财政部注资“烟草系”为何出山",
+                    "url": "https://www.toutiao.com/trending/7682788085913882162/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682788085913882162%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B4%A2%E6%94%BF%E9%83%A8%E6%B3%A8%E8%B5%84%E2%80%9C%E7%83%9F%E8%8D%89%E7%B3%BB%E2%80%9D%E4%B8%BA%E4%BD%95%E5%87%BA%E5%B1%B1%22%7D&rank=&style_id=40132&topic_id=7682788085913882162"
+                },
+                {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
@@ -4126,6 +4786,22 @@
                     "url": "https://www.toutiao.com/trending/7682770771567119882/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682770771567119882%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8B%B9%E6%9E%9C%E5%AF%B9%E5%86%B3%E2%80%9C%E4%B8%87%E5%85%83%E6%9C%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682770771567119882"
                 },
                 {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "余承东建议苹果用户买华为当备用机",
+                    "url": "https://www.toutiao.com/trending/7682710222638301211/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682710222638301211%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%BD%93%E5%A4%87%E7%94%A8%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7682710222638301211"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 42,
+                    "title": "华为苹果小米发布新品各自特点是什么",
+                    "url": "https://www.toutiao.com/trending/7682777133805997622/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682777133805997622%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E5%93%81%E5%90%84%E8%87%AA%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7682777133805997622"
+                },
+                {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "步行街热帖",
@@ -4199,57 +4875,57 @@
             ]
         },
         {
-            "word": "vs",
+            "word": "赛道",
             "weight": 6,
             "tone": "teal",
             "hits": [
                 {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 1,
-                    "title": "郑钦文vs斯瓦泰克",
-                    "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 43,
+                    "title": "回顾这些年我在黄金赛道上折腾过的那些抽象的物件们（不完整",
+                    "url": "https://b23.tv/BV1gdb56AEP4"
                 },
                 {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 1,
-                    "title": "郑钦文vs斯瓦泰克",
-                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 17,
-                    "title": "郑钦文vs斯维亚泰克前瞻",
-                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%BB%B4%E4%BA%9A%E6%B3%B0%E5%85%8B%E5%89%8D%E7%9E%BB&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 47,
-                    "title": "如何评价上单老祖《黄金剑魔 vs 王者蒙多》视频引发的节奏和假赛风波？",
-                    "url": "https://www.zhihu.com/question/2079707825106851053"
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 34,
+                    "title": "全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。",
+                    "url": "https://juejin.cn/post/7682190370525970442"
                 },
                 {
                     "channelId": "acfun",
                     "channelName": "AcFun",
                     "ranking": "三日榜",
-                    "rank": 47,
-                    "title": "1只蝎子 vs 200只蚂蚁，一场两败俱伤的惨斗！",
-                    "url": "https://www.acfun.cn/v/ac48829476"
+                    "rank": 50,
+                    "title": "休息的小狗崽_原创志怪单元剧《归藏·第一回》+【视频类赛道+AI叙事短片】 第一回  嫁",
+                    "url": "https://www.acfun.cn/v/ac48827848"
                 },
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 10,
+                    "title": "9月7日，新一轮港股通标的调整正式生效。本次合计54只港股正式调入名单。从名单上看，主要分布在AI、高端制造、生物医药、农业化工等多个赛道，包括百度集团-W、中国心连心化肥、爱芯元智、 ...",
+                    "url": "http://news.10jqka.com.cn/20260907/c679672621.shtml"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
                     "rank": 2,
-                    "title": "C17 vs C23: () function pointer error - Is this the correct fix?",
-                    "url": "https://stackoverflow.com/questions/80001459/c17-vs-c23-function-pointer-error-is-this-the-correct-fix"
+                    "title": "险资调研火力全开！密集“打卡”中微、立讯精密 机构人士：重新审视红利赛道投资机会 关注方向更均衡",
+                    "url": "https://www.cls.cn/detail/2476202"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 13,
+                    "title": "三星切入人形机器人赛道？据称将于2027年1月首秀自研原型机",
+                    "url": "https://www.cls.cn/detail/2476224"
                 }
             ]
         },
@@ -4397,9 +5073,136 @@
             ]
         },
         {
+            "word": "郑钦文",
+            "weight": 15,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 1,
+                    "title": "郑钦文再次上演让5追7",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%83%91%E9%92%A6%E6%96%87%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%BC%94%E8%AE%A95%E8%BF%BD7"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 3,
+                    "title": "郑钦文重返美网八强",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%83%91%E9%92%A6%E6%96%87%E9%87%8D%E8%BF%94%E7%BE%8E%E7%BD%91%E5%85%AB%E5%BC%BA"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 1,
+                    "title": "郑钦文vs斯瓦泰克",
+                    "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 1,
+                    "title": "郑钦文2:0战胜斯瓦泰克",
+                    "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%872%3A0%E6%88%98%E8%83%9C%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 1,
+                    "title": "郑钦文vs斯瓦泰克",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 8,
+                    "title": "郑钦文逆境破发",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E5%A2%83%E7%A0%B4%E5%8F%91&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 10,
+                    "title": "郑钦文单盘大逆转斯瓦泰克",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%8D%95%E7%9B%98%E5%A4%A7%E9%80%86%E8%BD%AC%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 17,
+                    "title": "郑钦文vs斯维亚泰克前瞻",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%BB%B4%E4%BA%9A%E6%B3%B0%E5%85%8B%E5%89%8D%E7%9E%BB&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 35,
+                    "title": "郑钦文慢热",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%85%A2%E7%83%AD&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 49,
+                    "title": "郑钦文0比5落后追平斯瓦泰克",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%870%E6%AF%945%E8%90%BD%E5%90%8E%E8%BF%BD%E5%B9%B3%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 50,
+                    "title": "詹俊分析郑钦文对阵斯瓦泰克优势",
+                    "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E5%88%86%E6%9E%90%E9%83%91%E9%92%A6%E6%96%87%E5%AF%B9%E9%98%B5%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E4%BC%98%E5%8A%BF&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 1,
+                    "title": "郑钦文逆转震惊美网",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E8%BD%AC%E9%9C%87%E6%83%8A%E7%BE%8E%E7%BD%91&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 4,
+                    "title": "郑钦文连胜斯瓦泰克7局",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%9E%E8%83%9C%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B7%E5%B1%80&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 13,
+                    "title": "郑钦文连场让5追7",
+                    "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%9E%E5%9C%BA%E8%AE%A95%E8%BF%BD7&Refer=index"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 23,
+                    "title": "今晚郑钦文VS斯瓦泰克结果预测",
+                    "url": "https://bbs.hupu.com/642316258.html"
+                }
+            ]
+        },
+        {
             "word": "Agent",
             "weight": 14,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -4518,7 +5321,7 @@
         {
             "word": "第三",
             "weight": 13,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4669,7 +5472,7 @@
         {
             "word": "冠军",
             "weight": 9,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4746,222 +5549,9 @@
             ]
         },
         {
-            "word": "为啥",
-            "weight": 7,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 2,
-                    "title": "机械臂为啥没人要了",
-                    "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E6%A2%B0%E8%87%82%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E8%A6%81%E4%BA%86"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 8,
-                    "title": "媒体曝民宿从「一房难求」到房间空置，大量民宿经营者称入住率暴跌，为啥大家现在都不爱住民宿了？",
-                    "url": "https://www.zhihu.com/question/2079850291302765262"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 42,
-                    "title": "特斯拉时隔一年半再降价，最高降价 1 万元，这个调价幅度你怎么看？为啥在这个时间节点降价？",
-                    "url": "https://www.zhihu.com/question/2080226526105002039"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 49,
-                    "title": "为啥白宫开始流行吃酸菜了？万斯自称吃酸菜减重成功，酸菜真能减肥吗？",
-                    "url": "https://www.zhihu.com/question/2079254257211893392"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 20,
-                    "title": "为啥房价掉的这么狠？",
-                    "url": "https://bbs.hupu.com/642309832.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 42,
-                    "title": "为啥我们技术已经领先世界了，还会被美西方卡脖子？",
-                    "url": "https://bbs.hupu.com/642314877.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 22,
-                    "title": "华为、小米、苹果争相入局，阔折叠为啥火了？",
-                    "url": "https://www.36kr.com/p/3972699047777920"
-                }
-            ]
-        },
-        {
-            "word": "元起",
-            "weight": 7,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 39,
-                    "title": "19999元起 华为展翼三折叠 HUAWEI Mate XT 2 非凡大师快速开箱「科技美学开箱」",
-                    "url": "https://b23.tv/BV1BJbK6REdr"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 3,
-                    "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
-                    "url": "https://www.zhihu.com/question/2080397612411086400"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 14,
-                    "title": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
-                    "url": "https://www.zhihu.com/question/2078837455386630111"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 14,
-                    "title": "小米18 Fold售价10999元起",
-                    "url": "https://www.toutiao.com/trending/7682757061695770163/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682757061695770163%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B318+Fold%E5%94%AE%E4%BB%B710999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682757061695770163"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 17,
-                    "title": "华为新款折叠屏手机售价19999元起",
-                    "url": "https://www.toutiao.com/trending/7682279563775033394/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682279563775033394%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682279563775033394"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "华为新款折叠屏手机售价19999元起",
-                    "url": "https://www.toutiao.com/trending/7682279563775033394/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682279563775033394%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682279563775033394"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 14,
-                    "title": "小米18 Fold售价10999元起",
-                    "url": "https://www.toutiao.com/trending/7682757061695770163/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682757061695770163%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B318+Fold%E5%94%AE%E4%BB%B710999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682757061695770163"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 1,
-                    "title": "8点1氪丨耐克将被移出标普100指数；iPhone折叠版定价或14999元起；财政部将发行特别国债，支持8家中央金融企业补充资本",
-                    "url": "https://www.36kr.com/p/3972584225747209"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "王者归来，华为“韬定律”麒麟9050 Pro全球发布，三折叠机皇19999元起",
-                    "url": "https://www.36kr.com/p/3973139263582720"
-                }
-            ]
-        },
-        {
-            "word": "雷军",
-            "weight": 7,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 6,
-                    "title": "雷军状态被赞夯爆了",
-                    "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E7%8A%B6%E6%80%81%E8%A2%AB%E8%B5%9E%E5%A4%AF%E7%88%86%E4%BA%86&Refer=index"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "雷军展示“折叠机的坟场”",
-                    "url": "https://www.toutiao.com/trending/7682740873169109035/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682740873169109035%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9B%B7%E5%86%9B%E5%B1%95%E7%A4%BA%E2%80%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E7%9A%84%E5%9D%9F%E5%9C%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682740873169109035"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "雷军展示“折叠机的坟场”",
-                    "url": "https://www.toutiao.com/trending/7682740873169109035/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682740873169109035%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9B%B7%E5%86%9B%E5%B1%95%E7%A4%BA%E2%80%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E7%9A%84%E5%9D%9F%E5%9C%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682740873169109035"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 3,
-                    "title": "雷军:小米“中折叠”2年前正式立项，为了彻底解决大小折叠的弊端，融合优点，研发了20个月，是迄今为止最高端的小米手机",
-                    "url": "https://bbs.hupu.com/642319870.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 26,
-                    "title": "雷军:很多人都说我真诚，没有套路就是最好的套路，让我一路上收获很多",
-                    "url": "https://bbs.hupu.com/642314714.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 30,
-                    "title": "雷军谈为什么小米性价比高:“我们克制了贪婪 ，只挣一点点，一百元硬件利润不超过一元钱” 所有硬件产品综合毛利率不超过5个点",
-                    "url": "https://bbs.hupu.com/642315171.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 52,
-                    "title": "雷军：希望用户把支持苹果、华为折叠屏的预算用到小米18fold上，一定会更觉得物超所值，这是小米目前最高端的手机，集所有科技一体",
-                    "url": "https://bbs.hupu.com/642312153.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 36,
-                    "title": "雷军把冲高的锚，抛向了万元档",
-                    "url": "https://www.36kr.com/p/3971551987799685"
-                }
-            ]
-        },
-        {
             "word": "体验",
-            "weight": 6,
-            "tone": "teal",
+            "weight": 8,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4978,6 +5568,14 @@
                     "rank": 23,
                     "title": "「小白」华为Mate XT2非凡大师上手体验：黑科技拉满？",
                     "url": "https://b23.tv/BV1DebP6qEy7"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 35,
+                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷的小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
+                    "url": "https://b23.tv/BV1LtbK6JE5V"
                 },
                 {
                     "channelId": "zhihu",
@@ -5010,116 +5608,14 @@
                     "rank": 17,
                     "title": "打开codex新版的上下文，体验好不少",
                     "url": "https://www.nodeseek.com/post-916913-1"
-                }
-            ]
-        },
-        {
-            "word": "直播",
-            "weight": 6,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 23,
-                    "title": "干饭莹莹一场直播吃了70个皮蛋",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B9%B2%E9%A5%AD%E8%8E%B9%E8%8E%B9%E4%B8%80%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%90%83%E4%BA%8670%E4%B8%AA%E7%9A%AE%E8%9B%8B&Refer=index"
                 },
                 {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 38,
-                    "title": "央视直播亚运会王者荣耀比赛",
-                    "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%AF%94%E8%B5%9B&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 4,
-                    "title": "如何评价华为 9 月 7 日全球直播的新品发布会？有哪些信息值得关注？",
-                    "url": "https://www.zhihu.com/question/2080237392129274336"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 26,
-                    "title": "黑人在中国地铁上开麦直播，无人上前劝阻",
-                    "url": "https://bbs.hupu.com/642316274.html"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 27,
-                    "title": "369直播开串:怪我去年送走BLG",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362691&topic_name=369%E7%9B%B4%E6%92%AD%E5%BC%80%E4%B8%B2%3A%E6%80%AA%E6%88%91%E5%8E%BB%E5%B9%B4%E9%80%81%E8%B5%B0BLG"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 29,
-                    "title": "懂车帝直播复刻绿化带战神",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362649&topic_name=%E6%87%82%E8%BD%A6%E5%B8%9D%E7%9B%B4%E6%92%AD%E5%A4%8D%E5%88%BB%E7%BB%BF%E5%8C%96%E5%B8%A6%E6%88%98%E7%A5%9E"
-                }
-            ]
-        },
-        {
-            "word": "致歉",
-            "weight": 6,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 2,
-                    "title": "赵一鸣致歉",
-                    "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E9%B8%A3%E8%87%B4%E6%AD%89&Refer=index"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 12,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 11,
-                    "title": "热搜第一！赵一鸣致歉，承诺差价十倍赔偿",
-                    "url": "http://news.10jqka.com.cn/20260907/c679672551.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 12,
-                    "title": "鸣鸣很忙回应称重事件：将设立专项基金，差价十倍赔偿。9月7日，#赵一鸣致歉的话题登上微博热搜榜第一名。鸣鸣很忙就近期门店称重问题作出正式回应。集团旗下“零食很忙”“赵一鸣零食”宣 ...",
-                    "url": "http://news.10jqka.com.cn/20260907/c679672551.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 15,
-                    "title": "热搜第一！赵一鸣致歉，承诺差价十倍赔偿！",
-                    "url": "http://news.10jqka.com.cn/20260907/c679672443.shtml"
-                },
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 13,
-                    "title": "量贩零食陷入称重风波 鸣鸣很忙、万辰集团双双致歉：将上线全国门店秤具监控系统",
-                    "url": "https://www.cls.cn/detail/2476223"
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "有人要放生 dmit 吗 放生前能不能给我体验体验",
+                    "url": "https://www.nodeseek.com/post-917352-1"
                 }
             ]
         }
@@ -5129,130 +5625,112 @@
             "00:22",
             "00:23",
             "01:18",
-            "01:19"
+            "02:24",
+            "02:25"
         ],
         "rows": [
             {
-                "topic": "How do I make my compiler not auto-close in CodeBlocks?",
-                "query": "How do I make my compiler not auto-close in CodeBlocks?",
-                "source": "Stack Overflow",
-                "ranking": "热门问题",
-                "tenure": "在榜 1/2 个切片",
+                "topic": "已经到了可以理解詹密的年纪了",
+                "query": "已经到了可以理解詹密的年纪了",
+                "source": "虎扑",
+                "ranking": "步行街热帖",
+                "tenure": "在榜 2/3 个切片",
                 "times": [
                     "00:22",
-                    "01:18"
+                    "01:18",
+                    "02:25"
                 ],
                 "ranks": [
-                    null,
-                    1
-                ],
-                "state": "新上榜",
-                "tone": "new",
-                "hits": [
-                    {
-                        "channelId": "stackoverflow",
-                        "channelName": "Stack Overflow",
-                        "ranking": "热门问题",
-                        "rank": 1,
-                        "title": "How do I make my compiler not auto-close in CodeBlocks?",
-                        "url": "https://stackoverflow.com/questions/80001455/how-do-i-make-my-compiler-not-auto-close-in-codeblocks"
-                    }
-                ]
-            },
-            {
-                "topic": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-                "query": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-                "source": "RSS",
-                "ranking": "Hacker News",
-                "tenure": "在榜 1/2 个切片",
-                "times": [
-                    "00:23",
-                    "01:19"
-                ],
-                "ranks": [
-                    null,
-                    1
-                ],
-                "state": "新上榜",
-                "tone": "new",
-                "hits": [
-                    {
-                        "channelId": "rss",
-                        "channelName": "RSS",
-                        "ranking": "Hacker News",
-                        "rank": 1,
-                        "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-                        "url": "https://news.ycombinator.com/item?id=49600233"
-                    }
-                ]
-            },
-            {
-                "topic": "做好五件事，让中小企业走向卓越",
-                "query": "做好五件事，让中小企业走向卓越",
-                "source": "同花顺",
-                "ranking": "今日要闻",
-                "tenure": "在榜 1/2 个切片",
-                "times": [
-                    "00:22",
-                    "01:18"
-                ],
-                "ranks": [
-                    null,
-                    1
-                ],
-                "state": "新上榜",
-                "tone": "new",
-                "hits": [
-                    {
-                        "channelId": "tonghuashun",
-                        "channelName": "同花顺",
-                        "ranking": "今日要闻",
-                        "rank": 1,
-                        "title": "做好五件事，让中小企业走向卓越",
-                        "url": "http://news.10jqka.com.cn/20260908/c679672863.shtml"
-                    }
-                ]
-            },
-            {
-                "topic": "工信部：到2030年 全面建成覆盖完善、性能领先的新一代通信网",
-                "query": "工信部：到2030年 全面建成覆盖完善、性能领先的新一代通信网",
-                "source": "财联社",
-                "ranking": "热门快讯",
-                "tenure": "在榜 1/2 个切片",
-                "times": [
-                    "00:22",
-                    "01:18"
-                ],
-                "ranks": [
-                    1,
+                    58,
+                    8,
                     null
                 ],
                 "state": "已掉榜",
                 "tone": "dropped",
                 "hits": [
                     {
-                        "channelId": "cls",
-                        "channelName": "财联社",
-                        "ranking": "热门快讯",
-                        "rank": 1,
-                        "title": "工信部：到2030年 全面建成覆盖完善、性能领先的新一代通信网",
-                        "url": "https://www.cls.cn/detail/2475823"
+                        "channelId": "hupu",
+                        "channelName": "虎扑",
+                        "ranking": "步行街热帖",
+                        "rank": 58,
+                        "title": "已经到了可以理解詹密的年纪了",
+                        "url": "https://bbs.hupu.com/642320202.html"
                     }
                 ]
             },
             {
-                "topic": "郑钦文再次上演让5追7",
-                "query": "郑钦文再次上演让5追7",
-                "source": "哔哩哔哩",
-                "ranking": "热门搜索",
-                "tenure": "在榜 1/2 个切片",
+                "topic": "论坛现在好乱啊",
+                "query": "论坛现在好乱啊",
+                "source": "NodeSeek",
+                "ranking": "热门主题",
+                "tenure": "在榜 2/3 个切片",
                 "times": [
                     "00:22",
-                    "01:18"
+                    "01:19",
+                    "02:25"
+                ],
+                "ranks": [
+                    8,
+                    null,
+                    49
+                ],
+                "state": "重新上榜",
+                "tone": "reentered",
+                "hits": [
+                    {
+                        "channelId": "nodeseek",
+                        "channelName": "NodeSeek",
+                        "ranking": "热门主题",
+                        "rank": 8,
+                        "title": "论坛现在好乱啊",
+                        "url": "https://www.nodeseek.com/post-917269-1"
+                    }
+                ]
+            },
+            {
+                "topic": "这是Kraken被关户了吗？",
+                "query": "这是Kraken被关户了吗？",
+                "source": "NodeSeek",
+                "ranking": "热门主题",
+                "tenure": "在榜 2/3 个切片",
+                "times": [
+                    "00:22",
+                    "01:19",
+                    "02:25"
                 ],
                 "ranks": [
                     null,
-                    1
+                    7,
+                    47
+                ],
+                "state": "新上榜",
+                "tone": "new",
+                "hits": [
+                    {
+                        "channelId": "nodeseek",
+                        "channelName": "NodeSeek",
+                        "ranking": "热门主题",
+                        "rank": 7,
+                        "title": "这是Kraken被关户了吗？",
+                        "url": "https://www.nodeseek.com/post-911203-1"
+                    }
+                ]
+            },
+            {
+                "topic": "野外遇到这种水，我到底能不能喝！ #野外 #水 #涨知识 #科普",
+                "query": "野外遇到这种水，我到底能不能喝！ #野外 #水 #涨知识 #科普",
+                "source": "哔哩哔哩",
+                "ranking": "全站热门视频",
+                "tenure": "在榜 2/3 个切片",
+                "times": [
+                    "00:22",
+                    "01:18",
+                    "02:24"
+                ],
+                "ranks": [
+                    null,
+                    47,
+                    10
                 ],
                 "state": "新上榜",
                 "tone": "new",
@@ -5260,10 +5738,39 @@
                     {
                         "channelId": "bilibili",
                         "channelName": "哔哩哔哩",
-                        "ranking": "热门搜索",
+                        "ranking": "全站热门视频",
+                        "rank": 47,
+                        "title": "野外遇到这种水，我到底能不能喝！ #野外 #水 #涨知识 #科普",
+                        "url": "https://b23.tv/BV1W7tB6pEAb"
+                    }
+                ]
+            },
+            {
+                "topic": "Mate 90的新战袍！鸿蒙7这次香爆了？",
+                "query": "Mate 90的新战袍！鸿蒙7这次香爆了？",
+                "source": "哔哩哔哩",
+                "ranking": "全站热门视频",
+                "tenure": "在榜 2/3 个切片",
+                "times": [
+                    "00:22",
+                    "01:18",
+                    "02:24"
+                ],
+                "ranks": [
+                    1,
+                    36,
+                    null
+                ],
+                "state": "已掉榜",
+                "tone": "dropped",
+                "hits": [
+                    {
+                        "channelId": "bilibili",
+                        "channelName": "哔哩哔哩",
+                        "ranking": "全站热门视频",
                         "rank": 1,
-                        "title": "郑钦文再次上演让5追7",
-                        "url": "https://search.bilibili.com/all?keyword=%E9%83%91%E9%92%A6%E6%96%87%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%BC%94%E8%AE%A95%E8%BF%BD7"
+                        "title": "Mate 90的新战袍！鸿蒙7这次香爆了？",
+                        "url": "https://b23.tv/BV1DabL6qE7V"
                     }
                 ]
             }
@@ -5296,9 +5803,9 @@
         },
         {
             "tag": "跨渠道",
-            "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+            "title": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
             "value": "2 渠道",
-            "query": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+            "query": "GPT-6不只Astra，Sol内测结果曝光，速度快6倍",
             "hits": [
                 {
                     "channelId": "36kr",
@@ -5319,50 +5826,50 @@
             ]
         },
         {
-            "tag": "新进入榜",
-            "title": "How do I make my compiler not auto-close in CodeBlocks?",
-            "value": "在榜 1/2 个切片",
-            "query": "How do I make my compiler not auto-close in CodeBlocks?",
+            "tag": "已掉榜",
+            "title": "已经到了可以理解詹密的年纪了",
+            "value": "在榜 2/3 个切片",
+            "query": "已经到了可以理解詹密的年纪了",
             "hits": [
                 {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "How do I make my compiler not auto-close in CodeBlocks?",
-                    "url": "https://stackoverflow.com/questions/80001455/how-do-i-make-my-compiler-not-auto-close-in-codeblocks"
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 58,
+                    "title": "已经到了可以理解詹密的年纪了",
+                    "url": "https://bbs.hupu.com/642320202.html"
+                }
+            ]
+        },
+        {
+            "tag": "重新上榜",
+            "title": "论坛现在好乱啊",
+            "value": "在榜 2/3 个切片",
+            "query": "论坛现在好乱啊",
+            "hits": [
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "论坛现在好乱啊",
+                    "url": "https://www.nodeseek.com/post-917269-1"
                 }
             ]
         },
         {
             "tag": "新进入榜",
-            "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-            "value": "在榜 1/2 个切片",
-            "query": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+            "title": "这是Kraken被关户了吗？",
+            "value": "在榜 2/3 个切片",
+            "query": "这是Kraken被关户了吗？",
             "hits": [
                 {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 1,
-                    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-                    "url": "https://news.ycombinator.com/item?id=49600233"
-                }
-            ]
-        },
-        {
-            "tag": "新进入榜",
-            "title": "做好五件事，让中小企业走向卓越",
-            "value": "在榜 1/2 个切片",
-            "query": "做好五件事，让中小企业走向卓越",
-            "hits": [
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 1,
-                    "title": "做好五件事，让中小企业走向卓越",
-                    "url": "http://news.10jqka.com.cn/20260908/c679672863.shtml"
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "这是Kraken被关户了吗？",
+                    "url": "https://www.nodeseek.com/post-911203-1"
                 }
             ]
         }

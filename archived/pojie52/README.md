@@ -1,12 +1,12 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-08 01:19:03
+> 更新时间：2026-09-08 02:25:25
 
 ## 热门热帖
 
-1. [重复文件查找删除工具](https://www.52pojie.cn/thread-2126656-1-1.html)
-2. [网盘解析下载 YunX云析 v1.2.5](https://www.52pojie.cn/thread-2124780-1-1.html)
-3. [小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2](https://www.52pojie.cn/thread-2126541-1-1.html)
+1. [小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2](https://www.52pojie.cn/thread-2126541-1-1.html)
+2. [重复文件查找删除工具](https://www.52pojie.cn/thread-2126656-1-1.html)
+3. [网盘解析下载 YunX云析 v1.2.5](https://www.52pojie.cn/thread-2124780-1-1.html)
 4. [完美解码PureCodec20260826官方版&绿色版](https://www.52pojie.cn/thread-2126550-1-1.html)
 5. [扫描版PDF优化工具V4.7（水印去除利器/漂白/透视剪裁校正/橡皮擦/黑白二值化压缩）](https://www.52pojie.cn/thread-2124834-1-1.html)
 6. [Windows 极限优化助手 2.0](https://www.52pojie.cn/thread-2126667-1-1.html)

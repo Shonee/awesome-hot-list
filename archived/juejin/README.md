@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-08 01:18:40
+> 更新时间：2026-09-08 02:25:01
 
 ## 热门文章
 
@@ -17,8 +17,8 @@
 11. [提前还贷，缩短年限和降低月供其实是一样的](https://juejin.cn/post/7682013859251896320)
 12. [💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？](https://juejin.cn/post/7682217734722027558)
 13. [奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出](https://juejin.cn/post/7681733440023183414)
-14. [🤔首屏Banner压到40KB，LCP还是4秒？原来一直搞错了最大渲染元素](https://juejin.cn/post/7682046779555315763)
-15. [明明做了很多事，为什么简历看起来还是没含金量？](https://juejin.cn/post/7682253775991734323)
+14. [明明做了很多事，为什么简历看起来还是没含金量？](https://juejin.cn/post/7682253775991734323)
+15. [🤔首屏Banner压到40KB，LCP还是4秒？原来一直搞错了最大渲染元素](https://juejin.cn/post/7682046779555315763)
 16. [「Flutter 文件保存太难了？」一个插件打通 7 大平台，我把方案开源了 🎉](https://juejin.cn/post/7681952931486957583)
 17. [读《阿里巴巴Java开发手册》五年，这7条规约救了我太多次](https://juejin.cn/post/7681797570142732331)
 18. [高并发下怎么做余额扣减？](https://juejin.cn/post/7681245344118210587)
@@ -30,8 +30,8 @@
 24. [GPT-6单价变成2.5倍，写代码却未必更贵](https://juejin.cn/post/7682069529204686891)
 25. [GPT-6 Astra幻觉砍到2%，却被一种老招数轻松绕过](https://juejin.cn/post/7681969753800523795)
 26. [栗子前端技术周刊第 145 期 - Remix 3 RC、htmx 4.0、Rslib 1.0...](https://juejin.cn/post/7681959629414400042)
-27. [四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程](https://juejin.cn/post/7681521114217791528)
-28. [使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词](https://juejin.cn/post/7681858280943403059)
+27. [使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词](https://juejin.cn/post/7681858280943403059)
+28. [四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程](https://juejin.cn/post/7681521114217791528)
 29. [GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”](https://juejin.cn/post/7681626346015916068)
 30. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
 31. [OpenSpec + Superpowers 搭建 SDD+TDD 工作流教学文档](https://juejin.cn/post/7682634449856839707)
@@ -48,9 +48,9 @@
 42. [Node 网络编程 —— TLS 模块](https://juejin.cn/post/7681647535052226606)
 43. [NVIDIA 以 129.3 亿美元收购 Hugging Face](https://juejin.cn/post/7681626346015424548)
 44. [vite-plugin-uni-pages 更新了什么](https://juejin.cn/post/7681489628256043042)
-45. [零成本搭文档站：VitePress + GitHub Pages 就够了](https://juejin.cn/post/7682024345256624166)
-46. [OpenCart UI 自动化测试实战：POM 四层架构 + 失败自动截图 + 飞书通知](https://juejin.cn/post/7681688916479344686)
-47. [DeepSeek Harness 入门很简单（二）——DeepSeek Harness通用设置及Agent预设详解](https://juejin.cn/post/7681673560188256271)
-48. [Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo](https://juejin.cn/post/7681560399858794546)
-49. [MyBatis 关联查询的四种写法，为什么最后都变回了手写 XML](https://juejin.cn/post/7681544111435251754)
-50. [大模型是怎么来的：从数据到 Foundation Model](https://juejin.cn/post/7681480957066149907)
+45. [大模型是怎么来的：从数据到 Foundation Model](https://juejin.cn/post/7681480957066149907)
+46. [零成本搭文档站：VitePress + GitHub Pages 就够了](https://juejin.cn/post/7682024345256624166)
+47. [别吹了，依赖图像识别的GPT‑6 Astra永远快不起来](https://juejin.cn/post/7682013859251863552)
+48. [OpenCart UI 自动化测试实战：POM 四层架构 + 失败自动截图 + 飞书通知](https://juejin.cn/post/7681688916479344686)
+49. [DeepSeek Harness 入门很简单（二）——DeepSeek Harness通用设置及Agent预设详解](https://juejin.cn/post/7681673560188256271)
+50. [Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo](https://juejin.cn/post/7681560399858794546)
