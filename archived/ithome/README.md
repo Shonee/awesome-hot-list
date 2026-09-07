@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-07 16:33:27
+> 更新时间：2026-09-07 17:31:00
 
 ## 最新资讯
 
-1. [荣耀 MagicOS 11 首批内测机型报名通道再次开启，第二批内测预计 9 月中旬开启招募](https://www.ithome.com/0/999/344.htm)
-2. [华为 Pura X Max 阔折叠手机焕新增色：「尼斯蓝」和「波尔多红」上市，11999 元起](https://www.ithome.com/0/999/343.htm)
-3. [华为 Pura X Max 上市四个月发货量突破 120 万](https://www.ithome.com/0/999/342.htm)
-4. [中汽协：2026 年 7 月我国汽车整车进口 4.3 万辆，同比下降 12.8%](https://www.ithome.com/0/999/341.htm)
-5. [宏碁 18" 大屏游戏本掠夺者战斧 10 新增 290HX + 5080 款，29999 元](https://www.ithome.com/0/999/339.htm)
+1. [腾讯混元：Hy4 preview 模型升级，显著降低任务轮次及输入输出 Token 消耗](https://www.ithome.com/0/999/369.htm)
+2. [余承东：全新展翼三折叠手机 Mate XT 2 非凡大师是华为折叠技术集大成之作](https://www.ithome.com/0/999/368.htm)
+3. [售价 4499 元起，全新一代华为 MatePad Air / 悦享款平板电脑发布](https://www.ithome.com/0/999/366.htm)
+4. [B站联合会员大促：赠 WPS 超级会员年卡 158 元、赠网易云音乐黑胶年卡 168 元](https://www.ithome.com/0/999/365.htm)
+5. [华为 FreeBuds 7 半入耳主动降噪悦彰耳机发布：平均降噪深度提升至 230%，售价 999 元](https://www.ithome.com/0/999/364.htm)
