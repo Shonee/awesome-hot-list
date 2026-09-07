@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-07 11:27:16
+> 更新时间：2026-09-07 12:26:56
 
 ## 最新资讯
 
-1. [软银、Sceye 携手在日本成功进行平流层高空基站技术验证](https://www.ithome.com/0/999/164.htm)
-2. [TIOBE 公布 2026 年 9 月编程语言排行榜：Julia 编程语言蚕食 MATLAB 份额，重新逼近前二十](https://www.ithome.com/0/999/163.htm)
-3. [鸿蒙智行“科技豪华硬派 SUV”享界 G9 官宣 9 月中旬开启全国用户交付](https://www.ithome.com/0/999/162.htm)
-4. [北京车展 2027 年突然加场和上海车展同月举办，协商后安排为专业主题展](https://www.ithome.com/0/999/161.htm)
-5. [文石 Boox Picco 迷你电纸书阅读器亮相：3.97 英寸 E-ink 墨水屏，Linux 系统](https://www.ithome.com/0/999/159.htm)
+1. [任天堂回应 Switch 2 游戏机大规模 Ban 机事件：系统临时故障](https://www.ithome.com/0/999/210.htm)
+2. [Omdia：预计 2026 下半年中国面板厂商将占全球汽车显示屏出货量的 65%](https://www.ithome.com/0/999/209.htm)
+3. [曝 iQOO 16 手机本月登场：综合堆料规格 Pro Max 级，首进 9 月旗舰大乱斗](https://www.ithome.com/0/999/208.htm)
+4. [拳头官方确认《英雄联盟》MMO 游戏并未取消，仍在开发](https://www.ithome.com/0/999/205.htm)
+5. [科大讯飞星火 X2.5 模型正式发布：293B-A30B MoE，全国产平台训练](https://www.ithome.com/0/999/204.htm)
