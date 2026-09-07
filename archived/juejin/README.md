@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-08 03:17:01
+> 更新时间：2026-09-08 04:20:30
 
 ## 热门文章
 
@@ -11,9 +11,9 @@
 5. [GPT - 6 Astra 的使用焚诀](https://juejin.cn/post/7682634449856217115)
 6. [太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack](https://juejin.cn/post/7681204371800948736)
 7. [设计稿里的图片明明很清晰，为什么到了手机上却糊了？一文讲透 DPR、压缩与格式选择](https://juejin.cn/post/7682406523184709670)
-8. [聊聊怎么缓解找工作的焦虑感？](https://juejin.cn/post/7682362046578884660)
-9. [支持独立部署的地图方案](https://juejin.cn/post/7682362046578966580)
-10. [异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账](https://juejin.cn/post/7682364222383308850)
+8. [异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账](https://juejin.cn/post/7682364222383308850)
+9. [聊聊怎么缓解找工作的焦虑感？](https://juejin.cn/post/7682362046578884660)
+10. [支持独立部署的地图方案](https://juejin.cn/post/7682362046578966580)
 11. [提前还贷，缩短年限和降低月供其实是一样的](https://juejin.cn/post/7682013859251896320)
 12. [💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？](https://juejin.cn/post/7682217734722027558)
 13. [奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出](https://juejin.cn/post/7681733440023183414)
@@ -42,10 +42,10 @@
 36. [苹果续费成功，几天后付费协议突然失效，导致线上苹果支付全部失败](https://juejin.cn/post/7681985571749986331)
 37. [模型没换、提示词没动，成功率从不到 70% 干到 95% —— 改的到底是什么](https://juejin.cn/post/7681913265295278106)
 38. [用 GPT-6-Astra，先检查这几个设置](https://juejin.cn/post/7681861285420285998)
-39. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
-40. [从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛](https://juejin.cn/post/7682069529204736043)
-41. [一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra](https://juejin.cn/post/7681939121792778266)
-42. [Node 网络编程 —— TLS 模块](https://juejin.cn/post/7681647535052226606)
+39. [Node 网络编程 —— TLS 模块](https://juejin.cn/post/7681647535052226606)
+40. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
+41. [从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛](https://juejin.cn/post/7682069529204736043)
+42. [一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra](https://juejin.cn/post/7681939121792778266)
 43. [NVIDIA 以 129.3 亿美元收购 Hugging Face](https://juejin.cn/post/7681626346015424548)
 44. [vite-plugin-uni-pages 更新了什么](https://juejin.cn/post/7681489628256043042)
 45. [大模型是怎么来的：从数据到 Foundation Model](https://juejin.cn/post/7681480957066149907)
