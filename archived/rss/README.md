@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-07 20:33:47
+> 更新时间：2026-09-07 21:24:11
 
 ## 少数派
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
-2. [童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」](http://www.geekpark.net/news/369959)
-3. [「AI Native 」不是魔法，「创业者」这三个字依旧厚重](http://www.geekpark.net/news/369955)
-4. [麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了](http://www.geekpark.net/news/369954)
-5. [雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道](http://www.geekpark.net/news/369884)
+1. [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
+2. [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
+3. [童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」](http://www.geekpark.net/news/369959)
+4. [「AI Native 」不是魔法，「创业者」这三个字依旧厚重](http://www.geekpark.net/news/369955)
+5. [麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了](http://www.geekpark.net/news/369954)
 
 ## MIT Technology Review
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
-2. [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
-3. [Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
-4. [Impedance Matching (2017)](https://www.edge.org/response-detail/27238)
-5. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
+1. [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+2. [Splash-free urinals for global sustainability and accessibility](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+3. [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
+4. [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
+5. [VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
+
+## AI News
+
+1. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
+2. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+3. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+4. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+5. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
 
 ## 阮一峰网络日志
 
