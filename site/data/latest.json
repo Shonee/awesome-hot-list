@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-07 12:27:28",
+    "generatedAt": "2026-09-07 12:35:20",
     "channels": [
         {
             "schemaVersion": 1,
@@ -8900,7 +8900,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-07 09:07:04",
+            "fetchedAt": "2026-09-07 12:35:20",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -8913,84 +8913,93 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "GPT 6 Astra 重构的我的博客首页，有点喜欢",
-                            "url": "https://www.v2ex.com/t/1239777",
-                            "hot": 60,
-                            "description": "分享创造",
+                            "title": "Codex 又有 1000 邀请额度了，有条件的留邮箱",
+                            "url": "https://www.v2ex.com/t/1239902",
+                            "hot": 92,
+                            "description": "Codex",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-06 10:38:15"
+                            "publishedAt": "2026-09-07 08:52:25"
                         },
                         {
                             "rank": 2,
-                            "title": "AndroMeld：最好的 Android 与 Mac 连续互通方案，新增远程连接 [送码]",
-                            "url": "https://www.v2ex.com/t/1239786",
-                            "hot": 58,
-                            "description": "分享创造",
+                            "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+                            "url": "https://www.v2ex.com/t/1239922",
+                            "hot": 87,
+                            "description": "推广",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-06 11:36:41"
+                            "publishedAt": "2026-09-07 09:42:37"
                         },
                         {
                             "rank": 3,
-                            "title": "拼多多购物体验真的是很恶心",
-                            "url": "https://www.v2ex.com/t/1239770",
-                            "hot": 48,
-                            "description": "生活",
+                            "title": "[送兑换码] 做了一个苹果 APP，送一些永久会员兑换码",
+                            "url": "https://www.v2ex.com/t/1239883",
+                            "hot": 83,
+                            "description": "分享创造",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-06 09:32:23"
+                            "publishedAt": "2026-09-07 01:53:30"
                         },
                         {
                             "rank": 4,
-                            "title": "外包为什么在大家眼里这么不堪",
-                            "url": "https://www.v2ex.com/t/1239824",
-                            "hot": 43,
-                            "description": "职场话题",
+                            "title": "我姐姐想买个不超过 7w 的车，接娃上下学，另外跑跑顺风车，求推荐",
+                            "url": "https://www.v2ex.com/t/1239908",
+                            "hot": 71,
+                            "description": "汽车",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-06 16:56:45"
+                            "publishedAt": "2026-09-07 12:20:58"
                         },
                         {
                             "rank": 5,
-                            "title": "[Puluai] gpt6 已上线，欢迎大家尝鲜，注册留言送体验额度！",
-                            "url": "https://www.v2ex.com/t/1239794",
-                            "hot": 39,
-                            "description": "推广",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-06 12:54:23"
-                        },
-                        {
-                            "rank": 6,
-                            "title": "22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限",
-                            "url": "https://www.v2ex.com/t/1239774",
-                            "hot": 37,
-                            "description": "分享创造",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-06 17:35:59"
-                        },
-                        {
-                            "rank": 7,
                             "title": "为什么宽带师傅大都不愿意改桥接？",
                             "url": "https://www.v2ex.com/t/1239854",
-                            "hot": 36,
+                            "hot": 66,
                             "description": "宽带症候群",
                             "imageUrl": "",
                             "publishedAt": "2026-09-06 21:09:28"
                         },
                         {
+                            "rank": 6,
+                            "title": "上学累还是上班累",
+                            "url": "https://www.v2ex.com/t/1239875",
+                            "hot": 66,
+                            "description": "问与答",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-06 23:35:14"
+                        },
+                        {
+                            "rank": 7,
+                            "title": "外包为什么在大家眼里这么不堪",
+                            "url": "https://www.v2ex.com/t/1239824",
+                            "hot": 65,
+                            "description": "职场话题",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-06 16:56:45"
+                        },
+                        {
                             "rank": 8,
-                            "title": "有没有曾经患过焦虑症的 v 友，后面康复了吗？",
-                            "url": "https://www.v2ex.com/t/1239818",
-                            "hot": 32,
+                            "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
+                            "url": "https://www.v2ex.com/t/1239906",
+                            "hot": 60,
                             "description": "生活",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-06 16:37:32"
+                            "publishedAt": "2026-09-07 09:07:09"
                         },
                         {
                             "rank": 9,
-                            "title": "[送兑换码] 做了一个苹果 APP，送一些永久会员兑换码",
-                            "url": "https://www.v2ex.com/t/1239883",
-                            "hot": 30,
-                            "description": "分享创造",
+                            "title": "前公司领导想让我回去工作，还有必要回去吗？",
+                            "url": "https://www.v2ex.com/t/1239907",
+                            "hot": 58,
+                            "description": "职场话题",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-07 01:53:30"
+                            "publishedAt": "2026-09-07 09:08:48"
+                        },
+                        {
+                            "rank": 10,
+                            "title": "与人发生纠纷后，疑似被“三网定位”获取位置，有什么办法防范？",
+                            "url": "https://www.v2ex.com/t/1239961",
+                            "hot": 57,
+                            "description": "问与答",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-07 12:20:26"
                         }
                     ]
                 }
