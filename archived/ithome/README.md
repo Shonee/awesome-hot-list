@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-08 22:23:35
+> 更新时间：2026-09-08 23:22:52
 
 ## 最新资讯
 
-1. [Steam 新一周游戏销量榜公布：《黎明行者之血》登顶全球榜，《鬼武者：剑之道》领跑国区](https://www.ithome.com/0/999/936.htm)
-2. [消息称理想汽车引入第三家电池供应商，i6 首搭中创新航产品](https://www.ithome.com/0/999/935.htm)
-3. [豆包输入法推出 Windows 版，现已覆盖 PC、Mac、iOS、Android 和鸿蒙五大平台](https://www.ithome.com/0/999/934.htm)
-4. [LG 推出 UltraGear OLED 32GX870B 显示器：32 英寸 4K 240Hz/1080P 480Hz 双模，峰值亮度 1500nits](https://www.ithome.com/0/999/933.htm)
-5. [捷豹路虎将通过自愿离职方式裁减近 10% 员工，目标省下 17 亿英镑](https://www.ithome.com/0/999/932.htm)
+1. [纪录片《马斯克》先导预告片公布，本周威尼斯国际电影节首映](https://www.ithome.com/0/999/946.htm)
+2. [达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手](https://www.ithome.com/0/999/945.htm)
+3. [9999 元，索尼首款全画幅鱼眼变焦镜头 8-14mm f/3.5 Fisheye G 发布](https://www.ithome.com/0/999/944.htm)
+4. [任天堂《塞尔达传说》40 周年纪念版 Switch 2 掌机官宣，10 月 29 日发售](https://www.ithome.com/0/999/943.htm)
+5. [《奇异人生》开发商 Dont Nod 陷财务危机：计划裁员 90 人，可能撑不过明年 1 月](https://www.ithome.com/0/999/942.htm)

@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 22:24:06
+> 更新时间：2026-09-08 23:24:03
 
 ## 少数派
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
-2. [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
-3. [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/)
-4. [PISA 2025 Students' reading and mathematics performance declined across the OECD](https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html)
-5. [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
+1. [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+2. [ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)
+3. [How Climate Resilient Are the Largest Cities?](https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/)
+4. [The two Christian saints who are the Buddha](https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/)
+5. [DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/)
+
+## AI News
+
+1. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+2. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+3. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
+4. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
+5. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
 
 ## 阮一峰网络日志
 
