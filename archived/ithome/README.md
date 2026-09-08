@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-08 19:19:33
+> 更新时间：2026-09-08 20:32:06
 
 ## 最新资讯
 
-1. [抖音：2026 年中秋国庆将至，警惕不法分子寄“礼遇卡”诈骗物料](https://www.ithome.com/0/999/897.htm)
-2. [Meta 智能眼镜引发美国执法机构担忧：或被用于秘密监控与恐袭侦察](https://www.ithome.com/0/999/896.htm)
-3. [华为官宣鸿蒙 HarmonyOS 7 发布 24 小时后累计升级终端设备数突破 500 万](https://www.ithome.com/0/999/895.htm)
-4. [预告即将到来？索尼拿下《塞尔达传说》电影官网域名](https://www.ithome.com/0/999/894.htm)
-5. [分析机构 Similarweb：网页端 AI 聊天机器人中 ChatGPT 使用者最多，8 月市场份额回升至 55.5%](https://www.ithome.com/0/999/893.htm)
+1. [理想再次申报 L9 Livis 车型：这次换上了自研电池](https://www.ithome.com/0/999/914.htm)
+2. [爱国者推出御风 W70 机箱：无 A 柱海景房设计、可选黑白双色，199 元起](https://www.ithome.com/0/999/913.htm)
+3. [苹果收购脑成像公司 Sonera，有望赋能 Apple Watch 健康功能](https://www.ithome.com/0/999/912.htm)
+4. [阿维塔“9 系高端旗舰 SUV”T09 申报，提供三电机插混动力车型](https://www.ithome.com/0/999/911.htm)
+5. [掌阅 Tango2S 墨水屏电纸书发布：5.84 英寸 Carta 1300 面板，首发价 1599 元](https://www.ithome.com/0/999/910.htm)
