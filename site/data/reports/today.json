@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-08",
-    "generatedAt": "2026-09-08 16:30:30",
-    "summary": "指控4岁男童摸屁股？媒体：“纠缠式维权”该停了成为本期综合热度最高的话题，中国女篮20分大胜意大利女篮紧随其后。当前覆盖 22 个有效渠道，共形成 562 个榜单时间切片；发现 33 个跨渠道重复热点。",
+    "generatedAt": "2026-09-08 16:37:05",
+    "summary": "指控4岁男童摸屁股？媒体：“纠缠式维权”该停了成为本期综合热度最高的话题，中国女篮20分大胜意大利女篮紧随其后。当前覆盖 22 个有效渠道，共形成 563 个榜单时间切片；发现 33 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3061,
+        "deduplicated": 3067,
         "resonance": 33,
         "maxRise": 60,
-        "slices": 562,
+        "slices": 563,
         "coverage": 96
     },
     "topTopics": [
@@ -6760,7 +6760,7 @@
         },
         {
             "word": "现在",
-            "weight": 40,
+            "weight": 41,
             "tone": "teal",
             "hits": [
                 {
@@ -6884,6 +6884,14 @@
                     "url": "https://www.v2ex.com/t/1240199"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "吐槽一下现在的键盘设计....",
+                    "url": "https://www.v2ex.com/t/1240336"
+                },
+                {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
@@ -6994,14 +7002,6 @@
                     "rank": 30,
                     "title": "假如我现在要换一台机器，如何原封不动的把我配置的节点全部搬过去",
                     "url": "https://www.nodeseek.com/post-915957-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 46,
-                    "title": "卧槽牛逼，现在的app玩法这么6吗  吃瓜吃瓜吃瓜",
-                    "url": "https://www.nodeseek.com/post-917579-1"
                 }
             ]
         },
@@ -9071,10 +9071,10 @@
     "flow": {
         "times": [
             "00:22",
-            "03:18",
-            "07:19",
+            "04:20",
+            "08:56",
             "12:33",
-            "16:30"
+            "16:36"
         ],
         "rows": [
             {
