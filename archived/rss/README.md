@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 00:25:21
+> 更新时间：2026-09-09 01:21:29
 
 ## 少数派
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [US police fear Meta smart glasses could be used to secretly record them](https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses)
-2. [Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)
-3. [Reverse engineering the 2008 LogiCola, a logic drill program](https://logicola.org/blog/the-new-logicola)
-4. [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
-5. [ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)
+1. [Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools](https://cepr.org/publications/dp21706)
+2. [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)
+3. [Connecting the Machines](https://herdr.dev/blog/connecting-the-machines/)
+4. [Y Combinator Early Access Network](https://events.ycombinator.com/yc-early-access-fall-26)
+5. [Hire Every Engineer Like You'd Hire a VP](https://businessasusual.io/p/executive-search-methods-for-engineering)
+
+## AI News
+
+1. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+2. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+3. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
+4. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
+5. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
 
 ## 阮一峰网络日志
 

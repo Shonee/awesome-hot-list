@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-09 00:24:23
+> 更新时间：2026-09-09 01:20:40
 
 ## 热门文章
 
@@ -27,9 +27,9 @@
 21. [我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness](https://juejin.cn/post/7682069529204441131)
 22. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
 23. [四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程](https://juejin.cn/post/7681521114217791528)
-24. [别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统](https://juejin.cn/post/7682611037704011827)
-25. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
-26. [GPT-6单价变成2.5倍，写代码却未必更贵](https://juejin.cn/post/7682069529204686891)
+24. [GPT-6单价变成2.5倍，写代码却未必更贵](https://juejin.cn/post/7682069529204686891)
+25. [别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统](https://juejin.cn/post/7682611037704011827)
+26. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
 27. [实测GPT-6 Astra后，我发现过去十年的专业门槛正在失效](https://juejin.cn/post/7682698191627911211)
 28. [栗子前端技术周刊第 145 期 - Remix 3 RC、htmx 4.0、Rslib 1.0...](https://juejin.cn/post/7681959629414400042)
 29. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
