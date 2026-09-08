@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 15:24:39
+> 更新时间：2026-09-08 16:30:00
 
 ## 少数派
 
-1. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
-2. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
-3. [派评｜近期值得关注的 App](https://sspai.com/post/114288)
-4. [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
-5. [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
+1. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+2. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+3. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
+4. [派评｜近期值得关注的 App](https://sspai.com/post/114288)
+5. [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
 
 ## 爱范儿
 
-1. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测](https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测](https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -28,19 +28,19 @@
 
 ## InfoQ
 
-1. [Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测](https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article)
-2. [OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来](https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article)
-3. [OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互](https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article)
-4. [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海](https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article)
-5. [Cloudflare 新增可选 OAuth 权限范围，允许开发者标注用户可能拒绝的权限](https://www.infoq.cn/article/pbOsBzL0FljTYdZouj8r?utm_source=rss&utm_medium=article)
+1. [华为乾崑，守护200万份信任](https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article)
+2. [Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测](https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article)
+3. [OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来](https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article)
+4. [OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互](https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article)
+5. [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海](https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
-2. [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
-3. [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
-4. [童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」](http://www.geekpark.net/news/369959)
-5. [「AI Native 」不是魔法，「创业者」这三个字依旧厚重](http://www.geekpark.net/news/369955)
+1. [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
+2. [单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单](http://www.geekpark.net/news/370006)
+3. [传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
+4. [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
+5. [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
 
 ## MIT Technology Review
 
@@ -56,7 +56,7 @@
 2. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
 3. [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
 4. [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
-5. [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+5. [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
 
 ## 阮一峰网络日志
 
