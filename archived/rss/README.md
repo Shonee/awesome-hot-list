@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 01:21:29
+> 更新时间：2026-09-09 02:27:35
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools](https://cepr.org/publications/dp21706)
-2. [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)
-3. [Connecting the Machines](https://herdr.dev/blog/connecting-the-machines/)
-4. [Y Combinator Early Access Network](https://events.ycombinator.com/yc-early-access-fall-26)
-5. [Hire Every Engineer Like You'd Hire a VP](https://businessasusual.io/p/executive-search-methods-for-engineering)
+1. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+2. [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1)
+3. [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)
+4. [Connecting the Machines](https://herdr.dev/blog/connecting-the-machines/)
+5. [Y Combinator Early Access Network](https://events.ycombinator.com/yc-early-access-fall-26)
 
 ## AI News
 
