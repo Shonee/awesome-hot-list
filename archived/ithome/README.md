@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-08 20:32:06
+> 更新时间：2026-09-08 21:22:31
 
 ## 最新资讯
 
-1. [理想再次申报 L9 Livis 车型：这次换上了自研电池](https://www.ithome.com/0/999/914.htm)
-2. [爱国者推出御风 W70 机箱：无 A 柱海景房设计、可选黑白双色，199 元起](https://www.ithome.com/0/999/913.htm)
-3. [苹果收购脑成像公司 Sonera，有望赋能 Apple Watch 健康功能](https://www.ithome.com/0/999/912.htm)
-4. [阿维塔“9 系高端旗舰 SUV”T09 申报，提供三电机插混动力车型](https://www.ithome.com/0/999/911.htm)
-5. [掌阅 Tango2S 墨水屏电纸书发布：5.84 英寸 Carta 1300 面板，首发价 1599 元](https://www.ithome.com/0/999/910.htm)
+1. [“傻瓜式”剪片：Adobe Premiere 更新 AI 功能，时间线上能直接生成音视频素材](https://www.ithome.com/0/999/926.htm)
+2. [高通与亚马逊达成合作，共同打造 AI 定制芯片与 1.6T 光互联解决方案](https://www.ithome.com/0/999/925.htm)
+3. [九州风神推出 AN600 VC 下压式散热器：升级 VC 2.0 均热板底座，3 年质保，299 元](https://www.ithome.com/0/999/924.htm)
+4. [华为鸿蒙 HarmonyOS 7.0.0（API 26.0.0）设备量占比突破 5%](https://www.ithome.com/0/999/923.htm)
+5. [苹果 iOS 27 代码“实锤”折叠屏 iPhone Ultra 采用触控 ID？先别急着下结论](https://www.ithome.com/0/999/922.htm)
