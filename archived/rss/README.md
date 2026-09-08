@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 16:30:00
+> 更新时间：2026-09-08 17:24:50
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [华为乾崑，守护200万份信任](https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article)
-2. [Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测](https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article)
-3. [OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来](https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article)
-4. [OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互](https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article)
-5. [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海](https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article)
+1. [Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息](https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article)
+2. [Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度](https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article)
+3. [华为乾崑，守护200万份信任](https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article)
+4. [Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测](https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article)
+5. [OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来](https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
-2. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-3. [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
-4. [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
-5. [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+1. [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+2. [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
+3. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+4. [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
+5. [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
 
 ## 阮一峰网络日志
 
