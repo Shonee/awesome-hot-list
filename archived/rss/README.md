@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 17:24:50
+> 更新时间：2026-09-08 18:23:50
 
 ## 少数派
 
-1. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
-2. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
-3. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
-4. [派评｜近期值得关注的 App](https://sspai.com/post/114288)
-5. [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
+1. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
+2. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+3. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+4. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
+5. [派评｜近期值得关注的 App](https://sspai.com/post/114288)
 
 ## 爱范儿
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
-2. [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
-3. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-4. [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
-5. [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+1. [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
+2. [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
+3. [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+4. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+5. [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
 
 ## 阮一峰网络日志
 
