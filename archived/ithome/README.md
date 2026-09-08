@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-08 14:35:29
+> 更新时间：2026-09-08 15:24:12
 
 ## 最新资讯
 
-1. [千万里程碑越来越近：曝华为 Mate 80 系列手机销量突破 900 万台](https://www.ithome.com/0/999/681.htm)
-2. [三星电子、台积电确认分别于 2028、2030 年将 High NA EUV 用于量产](https://www.ithome.com/0/999/679.htm)
-3. [百度小度已进入超 5500 万家庭，推出家庭事务管理智能体](https://www.ithome.com/0/999/677.htm)
-4. [售价预估增幅 50.25%：三星 Galaxy A18 4G 渲染图曝光](https://www.ithome.com/0/999/672.htm)
-5. [消息称三星电子美国泰勒晶圆厂 2nm 产能已在试产前售罄](https://www.ithome.com/0/999/665.htm)
+1. [HMD 106 2G 功能机海外上市，搭紫光展锐 6533G 处理器](https://www.ithome.com/0/999/743.htm)
+2. [消息称韩国 iPhone 转三星折叠手机用户比例 Galaxy Z8 系列约为 Z7 系列 2 倍](https://www.ithome.com/0/999/742.htm)
+3. [诺基亚时代经典产品线命名回归，HMD Asha 305 手机正式发布](https://www.ithome.com/0/999/741.htm)
+4. [微软 Xbox Series X 游戏机远程串流体验悄悄升级，支持 1440P 分辨率](https://www.ithome.com/0/999/740.htm)
+5. [百度小度智能摄像机 C1500 变焦三摄版发布，首发限时价 386 元](https://www.ithome.com/0/999/739.htm)

@@ -1,6 +1,6 @@
 # 豆瓣热榜
 
-> 更新时间：2026-09-08 12:24:59
+> 更新时间：2026-09-08 15:24:14
 
 ## 小组精选
 
@@ -11,7 +11,7 @@
 5. [堪比三星堆，北京这个特展应该收费](https://www.douban.com/group/topic/499255856/?_spm_id=MTYxNDA3ODAw)
 6. [狸狸两岁了，还是像个宝宝](https://www.douban.com/group/topic/499111802/?_spm_id=MjA5NDg4OTc0)
 7. [当我知道她只需要我一个伴娘的时候所有内耗都治好了](https://www.douban.com/group/topic/499150242/?_spm_id=MjE2MTU3ODY5)
-8. [终于进组了 分享一下最近的早秋穿搭（持更 9.7/已变成自己的穿搭日记了）](https://www.douban.com/group/topic/498953921/?_spm_id=NDI4NjI2MA)
+8. [终于进组了 分享一下最近的早秋穿搭（持更 9.8/已变成自己的穿搭日记）](https://www.douban.com/group/topic/498953921/?_spm_id=NDI4NjI2MA)
 9. [一树尽山河](https://www.douban.com/group/topic/499160743/?_spm_id=MjA3MTE5NzA3)
 10. [我从过度消费到低物欲的心路历程](https://www.douban.com/group/topic/499048401/?_spm_id=MjUzOTE5NDU4)
 11. [越南｜一个穿越回小时候的市场](https://www.douban.com/group/topic/498984653/?_spm_id=NzAwMjU4Mjk)
