@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-08 07:18:48
+> 更新时间：2026-09-08 08:56:24
 
 ## 最新资讯
 
-1. [Win11 学院：如何让微软 Windows 11 账户头像动起来](https://www.ithome.com/0/999/500.htm)
-2. [《任天堂明星大乱斗》等多款新作遭泄露，《Nintendogs》回归在列](https://www.ithome.com/0/999/499.htm)
-3. [《暗影蜘蛛侠》电视剧 8 集收官：5 项艾美奖与取消续订同周发生](https://www.ithome.com/0/999/498.htm)
-4. [华为 Vision 智慧屏 6 悦享版发布：65 英寸至 98 英寸 4699~13499 元，Super MiniLED 鸿鹄画质](https://www.ithome.com/0/999/497.htm)
-5. [微软为 Win11 开发全新电池状态小组件，支持查看本机及外设电量](https://www.ithome.com/0/999/496.htm)
+1. [华为 FreeClip 2 获 HarmonyOS 7.0.0.508 更新，解决连接两个设备部分场景出声通道切换异常等问题](https://www.ithome.com/0/999/526.htm)
+2. [雷神猎刃 G50 8K 游戏手柄发布：微动 / 霍尔扳机一键切换，299 元](https://www.ithome.com/0/999/524.htm)
+3. [苹果 iOS 27 暗藏 5 项相机功能，iPhone 18 Pro / Max 可变光圈添新线索](https://www.ithome.com/0/999/523.htm)
+4. [索尼发布 WH-1000XM4C、WH-CH730N、WH-CH530 头戴式无线耳机](https://www.ithome.com/0/999/522.htm)
+5. [苹果斩获 20 项 2026 创意艺术艾美奖，《寡妇湾》独揽 8 项](https://www.ithome.com/0/999/521.htm)

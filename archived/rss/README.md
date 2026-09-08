@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 07:19:25
+> 更新时间：2026-09-08 08:56:51
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [把千亿模型装进笔记本，Windows 终于要反击 Mac 了](https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常](https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？](https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [把千亿模型装进笔记本，Windows 终于要反击 Mac 了](https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常](https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
-2. [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
-3. [童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」](http://www.geekpark.net/news/369959)
-4. [「AI Native 」不是魔法，「创业者」这三个字依旧厚重](http://www.geekpark.net/news/369955)
-5. [麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了](http://www.geekpark.net/news/369954)
+1. [传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
+2. [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
+3. [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
+4. [童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」](http://www.geekpark.net/news/369959)
+5. [「AI Native 」不是魔法，「创业者」这三个字依旧厚重](http://www.geekpark.net/news/369955)
 
 ## MIT Technology Review
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
-2. [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
-3. [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
-4. [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-5. [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
+1. [Secure temporary file sharing for AI agents and humans](https://github.com/aispace-sh/aispace-client)
+2. [WeatherNext 3: Our most advanced global weather AI model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/)
+3. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+4. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
+5. [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
+
+## AI News
+
+1. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
+2. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+3. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+4. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+5. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
 
 ## 阮一峰网络日志
 
