@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-08",
-    "generatedAt": "2026-09-08 19:20:46",
-    "summary": "指控4岁男童摸屁股？媒体：“纠缠式维权”该停了成为本期综合热度最高的话题，中国女篮20分大胜意大利女篮紧随其后。当前覆盖 22 个有效渠道，共形成 658 个榜单时间切片；发现 37 个跨渠道重复热点。",
+    "generatedAt": "2026-09-08 19:28:22",
+    "summary": "指控4岁男童摸屁股？媒体：“纠缠式维权”该停了成为本期综合热度最高的话题，中国女篮20分大胜意大利女篮紧随其后。当前覆盖 22 个有效渠道，共形成 666 个榜单时间切片；发现 37 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3512,
+        "deduplicated": 3555,
         "resonance": 37,
         "maxRise": 68,
-        "slices": 658,
+        "slices": 666,
         "coverage": 96
     },
     "topTopics": [
@@ -525,7 +525,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 196,
+            "weight": 199,
             "tone": "hot",
             "hits": [
                 {
@@ -772,7 +772,7 @@
         },
         {
             "word": "Pro",
-            "weight": 86,
+            "weight": 87,
             "tone": "teal",
             "hits": [
                 {
@@ -824,6 +824,14 @@
                     "url": "https://github.com/f/prompts.chat"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 10,
+                    "title": "llvm-project",
+                    "url": "https://github.com/llvm/llvm-project"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -1006,20 +1014,12 @@
                     "rank": 8,
                     "title": "Word VBA project loads very slowly",
                     "url": "https://stackoverflow.com/questions/80001490/word-vba-project-loads-very-slowly"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 11,
-                    "title": "beforeinstallprompt never fires on Chrome Android and Samsung Internet although PWA setup appears valid",
-                    "url": "https://stackoverflow.com/questions/80001492/beforeinstallprompt-never-fires-on-chrome-android-and-samsung-internet-although"
                 }
             ]
         },
         {
             "word": "pro",
-            "weight": 86,
+            "weight": 87,
             "tone": "gold",
             "hits": [
                 {
@@ -1071,6 +1071,14 @@
                     "url": "https://github.com/f/prompts.chat"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 10,
+                    "title": "llvm-project",
+                    "url": "https://github.com/llvm/llvm-project"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -1253,14 +1261,6 @@
                     "rank": 8,
                     "title": "Word VBA project loads very slowly",
                     "url": "https://stackoverflow.com/questions/80001490/word-vba-project-loads-very-slowly"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 11,
-                    "title": "beforeinstallprompt never fires on Chrome Android and Samsung Internet although PWA setup appears valid",
-                    "url": "https://stackoverflow.com/questions/80001492/beforeinstallprompt-never-fires-on-chrome-android-and-samsung-internet-although"
                 }
             ]
         },
@@ -1760,7 +1760,7 @@
         },
         {
             "word": "SH",
-            "weight": 69,
+            "weight": 70,
             "tone": "teal",
             "hits": [
                 {
@@ -1810,6 +1810,14 @@
                     "rank": 13,
                     "title": "screenshot-to-code",
                     "url": "https://github.com/abi/screenshot-to-code"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 22,
+                    "title": "DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
+                    "url": "https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark"
                 },
                 {
                     "channelId": "acfun",
@@ -1994,14 +2002,6 @@
                     "rank": 2,
                     "title": "Testinfo in playwright framework shows in miliseconds but if want in othere format then what should I do",
                     "url": "https://stackoverflow.com/questions/80001605/testinfo-in-playwright-framework-shows-in-miliseconds-but-if-want-in-othere-form"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 3,
-                    "title": "How should I structure multiple middleware checks in a Next.js full-stack application?",
-                    "url": "https://stackoverflow.com/questions/80001600/how-should-i-structure-multiple-middleware-checks-in-a-next-js-full-stack-applic"
                 }
             ]
         },
@@ -2995,7 +2995,7 @@
         },
         {
             "word": "US",
-            "weight": 80,
+            "weight": 81,
             "tone": "gold",
             "hits": [
                 {
@@ -3029,6 +3029,14 @@
                     "rank": 14,
                     "title": "CPA-Manager-Plus",
                     "url": "https://github.com/seakee/CPA-Manager-Plus"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 12,
+                    "title": "browser-use",
+                    "url": "https://github.com/browser-use/browser-use"
                 },
                 {
                     "channelId": "juejin",
@@ -3229,14 +3237,6 @@
                     "rank": 1,
                     "title": "How to OCR an arithmetic expression with node-tesseract-ocr, calculate the result, and fill an input field using Puppeteer?",
                     "url": "https://stackoverflow.com/questions/80001619/how-to-ocr-an-arithmetic-expression-with-node-tesseract-ocr-calculate-the-resul"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "Anyone working on STM32MP257D USB bare-metal development?",
-                    "url": "https://stackoverflow.com/questions/80001616/anyone-working-on-stm32mp257d-usb-bare-metal-development"
                 }
             ]
         },
@@ -6882,7 +6882,7 @@
         },
         {
             "word": "Agent",
-            "weight": 31,
+            "weight": 34,
             "tone": "",
             "hits": [
                 {
@@ -6916,6 +6916,38 @@
                     "rank": 7,
                     "title": "Agent-Learning-Hub",
                     "url": "https://github.com/datawhalechina/Agent-Learning-Hub"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 12,
+                    "title": "hermes-agent",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 3,
+                    "title": "hermes-agent",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 15,
+                    "title": "hello-agents",
+                    "url": "https://github.com/datawhalechina/hello-agents"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 21,
+                    "title": "agent-skills",
+                    "url": "https://github.com/vercel-labs/agent-skills"
                 },
                 {
                     "channelId": "juejin",
@@ -7092,38 +7124,6 @@
                     "rank": 1,
                     "title": "Secure temporary file sharing for AI agents and humans",
                     "url": "https://github.com/aispace-sh/aispace-client"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 1,
-                    "title": "AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
-                    "url": "https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 2,
-                    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-                    "url": "https://rohanadwankar.github.io/posts/platforms.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 5,
-                    "title": "How well do agents use test/verification techniques?",
-                    "url": "https://danluu.com/agentic-testing/"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 2,
-                    "title": "Multi-Agents LLM Financial Trading Framework",
-                    "url": "https://github.com/TauricResearch/TradingAgents"
                 }
             ]
         },
@@ -7693,9 +7693,152 @@
             ]
         },
         {
-            "word": "芯片",
+            "word": "DeepSeek",
             "weight": 17,
             "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 2,
+                    "title": "DeepSeek V4.1 Flash",
+                    "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 26,
+                    "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
+                    "url": "https://www.zhihu.com/question/2080678583714977593"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 22,
+                    "title": "DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
+                    "url": "https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "DeepSeek Harness 入门很简单（二）——DeepSeek Harness通用设置及Agent预设详解",
+                    "url": "https://juejin.cn/post/7681673560188256271"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 12,
+                    "title": "成立三个月，陈大年的模型差点超过Deepseek",
+                    "url": "https://www.36kr.com/p/3971273565876736"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 45,
+                    "title": "不再跟随，而是定义：中国家用呼吸机的“DeepSeek时刻”",
+                    "url": "https://www.36kr.com/p/3972947880063488"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 38,
+                    "title": "DeepSeek的“官方外挂”，被一张梁文锋的表情包难倒了",
+                    "url": "https://www.36kr.com/p/3973065357285248"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 8,
+                    "title": "DeepSeek一口气扩招150人，0个AI研究岗",
+                    "url": "https://www.36kr.com/p/3974040294388232"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 49,
+                    "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+                    "url": "https://www.36kr.com/p/3973972580495881"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 20,
+                    "title": "刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心",
+                    "url": "https://www.36kr.com/p/3974571498057985"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+                    "url": "https://www.v2ex.com/t/1239922"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "分享一个免费使用deepseek和kimik3的网站，现在知道的人不是很多",
+                    "url": "https://www.nodeseek.com/post-917956-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 39,
+                    "title": "deepseek v4 flash应该选择哪个套餐",
+                    "url": "https://www.nodeseek.com/post-918008-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 22,
+                    "title": "DeepSeek V4.1 Flash 开启内测，支持原生多模态，速度更快成本更低",
+                    "url": "https://www.nodeseek.com/post-918439-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 4,
+                    "title": "DeepSeek 新架构模型速度飞快",
+                    "url": "https://www.nodeseek.com/post-918554-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 22,
+                    "title": "[下午讯]京东plus会员生活服务包积分可以换1万joyAgent积分，可以调用deepseek等老模型",
+                    "url": "https://www.nodeseek.com/post-918065-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 1,
+                    "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+                    "url": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign="
+                }
+            ]
+        },
+        {
+            "word": "芯片",
+            "weight": 17,
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -7870,7 +8013,7 @@
         {
             "word": "机器人",
             "weight": 16,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8069,7 +8212,7 @@
         {
             "word": "Astra",
             "weight": 26,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -8284,7 +8427,7 @@
         {
             "word": "OpenAI",
             "weight": 21,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8459,7 +8602,7 @@
         {
             "word": "中国女篮",
             "weight": 19,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8690,7 +8833,7 @@
         {
             "word": "美网",
             "weight": 19,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8931,141 +9074,6 @@
                     "rank": 34,
                     "title": "媒体：郑钦文美网“重生”",
                     "url": "https://www.toutiao.com/trending/7683055346780212779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683055346780212779%22%2C%22hot_board_impr_id%22%3A%222026090816291733009BEB031AFC5A0BFE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E2%80%9C%E9%87%8D%E7%94%9F%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7683055346780212779"
-                }
-            ]
-        },
-        {
-            "word": "DeepSeek",
-            "weight": 16,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 2,
-                    "title": "DeepSeek V4.1 Flash",
-                    "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 26,
-                    "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
-                    "url": "https://www.zhihu.com/question/2080678583714977593"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "DeepSeek Harness 入门很简单（二）——DeepSeek Harness通用设置及Agent预设详解",
-                    "url": "https://juejin.cn/post/7681673560188256271"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 12,
-                    "title": "成立三个月，陈大年的模型差点超过Deepseek",
-                    "url": "https://www.36kr.com/p/3971273565876736"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 45,
-                    "title": "不再跟随，而是定义：中国家用呼吸机的“DeepSeek时刻”",
-                    "url": "https://www.36kr.com/p/3972947880063488"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 38,
-                    "title": "DeepSeek的“官方外挂”，被一张梁文锋的表情包难倒了",
-                    "url": "https://www.36kr.com/p/3973065357285248"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "DeepSeek一口气扩招150人，0个AI研究岗",
-                    "url": "https://www.36kr.com/p/3974040294388232"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 49,
-                    "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
-                    "url": "https://www.36kr.com/p/3973972580495881"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 20,
-                    "title": "刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心",
-                    "url": "https://www.36kr.com/p/3974571498057985"
-                },
-                {
-                    "channelId": "v2ex",
-                    "channelName": "V2EX",
-                    "ranking": "热门主题",
-                    "rank": 1,
-                    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
-                    "url": "https://www.v2ex.com/t/1239922"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 8,
-                    "title": "分享一个免费使用deepseek和kimik3的网站，现在知道的人不是很多",
-                    "url": "https://www.nodeseek.com/post-917956-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "deepseek v4 flash应该选择哪个套餐",
-                    "url": "https://www.nodeseek.com/post-918008-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 22,
-                    "title": "DeepSeek V4.1 Flash 开启内测，支持原生多模态，速度更快成本更低",
-                    "url": "https://www.nodeseek.com/post-918439-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 4,
-                    "title": "DeepSeek 新架构模型速度飞快",
-                    "url": "https://www.nodeseek.com/post-918554-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 22,
-                    "title": "[下午讯]京东plus会员生活服务包积分可以换1万joyAgent积分，可以调用deepseek等老模型",
-                    "url": "https://www.nodeseek.com/post-918065-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 1,
-                    "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
-                    "url": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign="
                 }
             ]
         },
@@ -9457,8 +9465,8 @@
             "00:22",
             "04:21",
             "10:29",
-            "14:35",
-            "19:20"
+            "15:23",
+            "19:27"
         ],
         "rows": [
             {
