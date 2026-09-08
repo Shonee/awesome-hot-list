@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 13:23:24
+> 更新时间：2026-09-08 14:35:56
 
 ## 少数派
 
@@ -20,19 +20,19 @@
 
 ## 量子位
 
-1. [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
-2. [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
-3. [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
-4. [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
-5. [GPT-6不只Astra！Sol内测结果曝光，速度快6倍](https://www.qbitai.com/2026/09/485431.html)
+1. [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
+2. [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
+3. [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
+4. [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
+5. [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
 
 ## InfoQ
 
-1. [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海](https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article)
-2. [Cloudflare 新增可选 OAuth 权限范围，允许开发者标注用户可能拒绝的权限](https://www.infoq.cn/article/pbOsBzL0FljTYdZouj8r?utm_source=rss&utm_medium=article)
-3. [OpenClaw 2.0 发布：简化配置，支持智能体协作](https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article)
-4. [HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面](https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article)
-5. [从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海](https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article)
+1. [OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来](https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article)
+2. [OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互](https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article)
+3. [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海](https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article)
+4. [Cloudflare 新增可选 OAuth 权限范围，允许开发者标注用户可能拒绝的权限](https://www.infoq.cn/article/pbOsBzL0FljTYdZouj8r?utm_source=rss&utm_medium=article)
+5. [OpenClaw 2.0 发布：简化配置，支持智能体协作](https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
-2. [The VMs Powering Mobile Agents (Instinct, Claude Code)](https://rohanadwankar.github.io/posts/platforms.html)
-3. [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
-4. [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
-5. [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
+1. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+2. [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
+3. [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+4. [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+5. [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
 
 ## AI News
 
