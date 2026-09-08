@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-08",
-    "generatedAt": "2026-09-08 09:31:58",
-    "summary": "中国女篮20分大胜意大利女篮成为本期综合热度最高的话题，郑钦文vs斯瓦泰克紧随其后。当前覆盖 22 个有效渠道，共形成 329 个榜单时间切片；发现 19 个跨渠道重复热点。",
+    "generatedAt": "2026-09-08 09:38:44",
+    "summary": "中国女篮20分大胜意大利女篮成为本期综合热度最高的话题，郑钦文vs斯瓦泰克紧随其后。当前覆盖 22 个有效渠道，共形成 330 个榜单时间切片；发现 19 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1969,
+        "deduplicated": 1974,
         "resonance": 19,
         "maxRise": 50,
-        "slices": 329,
+        "slices": 330,
         "coverage": 96
     },
     "topTopics": [
@@ -842,9 +842,256 @@
             ]
         },
         {
+            "word": "小米",
+            "weight": 53,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 6,
+                    "title": "小米N90实车抢先深度体验",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3N90%E5%AE%9E%E8%BD%A6%E6%8A%A2%E5%85%88%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 34,
+                    "title": "4年前我设计的车，如今给小米量产了？！",
+                    "url": "https://b23.tv/BV1aabK62EyJ"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 27,
+                    "title": "二楼好用吗？试小米N90 Max探索版",
+                    "url": "https://b23.tv/BV1YKbN61EmW"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 35,
+                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷的小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
+                    "url": "https://b23.tv/BV1LtbK6JE5V"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 18,
+                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
+                    "url": "https://b23.tv/BV1LtbK6JE5V"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 12,
+                    "title": "小米澎程N90探索版看点总结",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E7%9C%8B%E7%82%B9%E6%80%BB%E7%BB%93"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 13,
+                    "title": "小米新品发布会",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 27,
+                    "title": "小米18Fold正式发布",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318Fold%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 24,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 9,
+                    "title": "小米澎程N90售价",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E5%94%AE%E4%BB%B7&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 18,
+                    "title": "小米澎程",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 24,
+                    "title": "小米澎程4分钟锁单突破10000台",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B4%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%AA%81%E7%A0%B410000%E5%8F%B0&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 27,
+                    "title": "小米澎程升降顶舱",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 28,
+                    "title": "小米澎程N90探索版首发评测",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 45,
+                    "title": "小米澎程N90抗住17吨顶压试验",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8A%97%E4%BD%8F17%E5%90%A8%E9%A1%B6%E5%8E%8B%E8%AF%95%E9%AA%8C&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 47,
+                    "title": "小米18Fold陶瓷版售价15999元",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold%E9%99%B6%E7%93%B7%E7%89%88%E5%94%AE%E4%BB%B715999%E5%85%83&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 48,
+                    "title": "小米发布会",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 51,
+                    "title": "小米18Fold",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 4,
+                    "title": "小米澎程SUV现已开售",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E7%8E%B0%E5%B7%B2%E5%BC%80%E5%94%AE&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 4,
+                    "title": "小米18Fold首发评测",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 44,
+                    "title": "小米澎程原生电动升降顶舱",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8E%9F%E7%94%9F%E7%94%B5%E5%8A%A8%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 4,
+                    "title": "小米澎程让你久等了",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%AE%A9%E4%BD%A0%E4%B9%85%E7%AD%89%E4%BA%86&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 49,
+                    "title": "雷军官宣小米澎程N90Max探索版",
+                    "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90Max%E6%8E%A2%E7%B4%A2%E7%89%88&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 18,
+                    "title": "小米澎程N70锁单",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70%E9%94%81%E5%8D%95&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 51,
+                    "title": "小米龙甲电池针刺不起火",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%BE%99%E7%94%B2%E7%94%B5%E6%B1%A0%E9%92%88%E5%88%BA%E4%B8%8D%E8%B5%B7%E7%81%AB&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 3,
+                    "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
+                    "url": "https://www.zhihu.com/question/2080397612411086400"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 20,
+                    "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
+                    "url": "https://www.zhihu.com/question/2080231640031126537"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "小米澎程SUV售价公布",
+                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 14,
+                    "title": "小米18 Fold售价10999元起",
+                    "url": "https://www.toutiao.com/trending/7682757061695770163/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682757061695770163%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B318+Fold%E5%94%AE%E4%BB%B710999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682757061695770163"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                }
+            ]
+        },
+        {
             "word": "华为",
             "weight": 43,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1091,7 +1338,7 @@
         {
             "word": "美国",
             "weight": 30,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1338,7 +1585,7 @@
         {
             "word": "手机",
             "weight": 28,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1579,253 +1826,6 @@
                     "rank": 25,
                     "title": "财闻张晓迪发自广州折叠屏手机迎来全新形态。9月7日，华为在广州召开秋季全场景新品发布会，正式推出全球首款三折叠屏手机Mate XT2非凡大师。财闻现场了解到，该机展开后拥有一块10.2英寸的 ...",
                     "url": "http://news.10jqka.com.cn/20260907/c679671909.shtml"
-                }
-            ]
-        },
-        {
-            "word": "小米",
-            "weight": 52,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 6,
-                    "title": "小米N90实车抢先深度体验",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3N90%E5%AE%9E%E8%BD%A6%E6%8A%A2%E5%85%88%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 34,
-                    "title": "4年前我设计的车，如今给小米量产了？！",
-                    "url": "https://b23.tv/BV1aabK62EyJ"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 27,
-                    "title": "二楼好用吗？试小米N90 Max探索版",
-                    "url": "https://b23.tv/BV1YKbN61EmW"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 35,
-                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷的小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
-                    "url": "https://b23.tv/BV1LtbK6JE5V"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 18,
-                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
-                    "url": "https://b23.tv/BV1LtbK6JE5V"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 12,
-                    "title": "小米澎程N90探索版看点总结",
-                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E7%9C%8B%E7%82%B9%E6%80%BB%E7%BB%93"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 13,
-                    "title": "小米新品发布会",
-                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 27,
-                    "title": "小米18Fold正式发布",
-                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318Fold%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 24,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 9,
-                    "title": "小米澎程N90售价",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E5%94%AE%E4%BB%B7&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 18,
-                    "title": "小米澎程",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 24,
-                    "title": "小米澎程4分钟锁单突破10000台",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B4%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%AA%81%E7%A0%B410000%E5%8F%B0&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 27,
-                    "title": "小米澎程升降顶舱",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 28,
-                    "title": "小米澎程N90探索版首发评测",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 45,
-                    "title": "小米澎程N90抗住17吨顶压试验",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8A%97%E4%BD%8F17%E5%90%A8%E9%A1%B6%E5%8E%8B%E8%AF%95%E9%AA%8C&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 47,
-                    "title": "小米18Fold陶瓷版售价15999元",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold%E9%99%B6%E7%93%B7%E7%89%88%E5%94%AE%E4%BB%B715999%E5%85%83&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 48,
-                    "title": "小米发布会",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 51,
-                    "title": "小米18Fold",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 4,
-                    "title": "小米澎程SUV现已开售",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E7%8E%B0%E5%B7%B2%E5%BC%80%E5%94%AE&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 4,
-                    "title": "小米18Fold首发评测",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 44,
-                    "title": "小米澎程原生电动升降顶舱",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8E%9F%E7%94%9F%E7%94%B5%E5%8A%A8%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 4,
-                    "title": "小米澎程让你久等了",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%AE%A9%E4%BD%A0%E4%B9%85%E7%AD%89%E4%BA%86&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 49,
-                    "title": "雷军官宣小米澎程N90Max探索版",
-                    "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90Max%E6%8E%A2%E7%B4%A2%E7%89%88&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 18,
-                    "title": "小米澎程N70锁单",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70%E9%94%81%E5%8D%95&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 51,
-                    "title": "小米龙甲电池针刺不起火",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%BE%99%E7%94%B2%E7%94%B5%E6%B1%A0%E9%92%88%E5%88%BA%E4%B8%8D%E8%B5%B7%E7%81%AB&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 3,
-                    "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
-                    "url": "https://www.zhihu.com/question/2080397612411086400"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 20,
-                    "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
-                    "url": "https://www.zhihu.com/question/2080231640031126537"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "小米澎程SUV售价公布",
-                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 14,
-                    "title": "小米18 Fold售价10999元起",
-                    "url": "https://www.toutiao.com/trending/7682757061695770163/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682757061695770163%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B318+Fold%E5%94%AE%E4%BB%B710999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682757061695770163"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
                 }
             ]
         },
@@ -3088,9 +3088,256 @@
             ]
         },
         {
+            "word": "澎程",
+            "weight": 28,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 35,
+                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷的小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
+                    "url": "https://b23.tv/BV1LtbK6JE5V"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 18,
+                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
+                    "url": "https://b23.tv/BV1LtbK6JE5V"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 12,
+                    "title": "小米澎程N90探索版看点总结",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E7%9C%8B%E7%82%B9%E6%80%BB%E7%BB%93"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 24,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 9,
+                    "title": "小米澎程N90售价",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E5%94%AE%E4%BB%B7&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 18,
+                    "title": "小米澎程",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 24,
+                    "title": "小米澎程4分钟锁单突破10000台",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B4%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%AA%81%E7%A0%B410000%E5%8F%B0&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 27,
+                    "title": "小米澎程升降顶舱",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 28,
+                    "title": "小米澎程N90探索版首发评测",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 36,
+                    "title": "王腾买了澎程N90Max",
+                    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%85%BE%E4%B9%B0%E4%BA%86%E6%BE%8E%E7%A8%8BN90Max&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 45,
+                    "title": "小米澎程N90抗住17吨顶压试验",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8A%97%E4%BD%8F17%E5%90%A8%E9%A1%B6%E5%8E%8B%E8%AF%95%E9%AA%8C&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 4,
+                    "title": "小米澎程SUV现已开售",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E7%8E%B0%E5%B7%B2%E5%BC%80%E5%94%AE&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 44,
+                    "title": "小米澎程原生电动升降顶舱",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8E%9F%E7%94%9F%E7%94%B5%E5%8A%A8%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 4,
+                    "title": "小米澎程让你久等了",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%AE%A9%E4%BD%A0%E4%B9%85%E7%AD%89%E4%BA%86&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 49,
+                    "title": "雷军官宣小米澎程N90Max探索版",
+                    "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90Max%E6%8E%A2%E7%B4%A2%E7%89%88&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 18,
+                    "title": "小米澎程N70锁单",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70%E9%94%81%E5%8D%95&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 3,
+                    "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
+                    "url": "https://www.zhihu.com/question/2080397612411086400"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 20,
+                    "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
+                    "url": "https://www.zhihu.com/question/2080231640031126537"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "小米澎程SUV售价公布",
+                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "小米澎程SUV售价公布",
+                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 31,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "小米澎程SUV售价公布",
+                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 38,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "小米澎程SUV售价公布",
+                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%22202609080317017E289C753F452A995666%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 30,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%22202609080317017E289C753F452A995666%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 44,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%22202609080420313C12E51F84BDD69B554C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 47,
+                    "title": "小米澎程系列新车首测",
+                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%22202609080518427A1916A6F62F2CC5A234%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 9,
+                    "title": "观众高喊澎程预期价位雷军听完笑了",
+                    "url": "https://www.toutiao.com/trending/7682717979147059209/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682717979147059209%22%2C%22hot_board_impr_id%22%3A%22202609080718384576AC80E36F723C8566%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A7%82%E4%BC%97%E9%AB%98%E5%96%8A%E6%BE%8E%E7%A8%8B%E9%A2%84%E6%9C%9F%E4%BB%B7%E4%BD%8D%E9%9B%B7%E5%86%9B%E5%90%AC%E5%AE%8C%E7%AC%91%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682717979147059209"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 39,
+                    "title": "小米澎程系列4分钟锁单破万",
+                    "url": "https://www.toutiao.com/trending/7682327244861132324/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682327244861132324%22%2C%22hot_board_impr_id%22%3A%22202609080718384576AC80E36F723C8566%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%974%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%A0%B4%E4%B8%87%22%7D&rank=&style_id=40132&topic_id=7682327244861132324"
+                }
+            ]
+        },
+        {
             "word": "折叠",
             "weight": 23,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3337,7 +3584,7 @@
         {
             "word": "模型",
             "weight": 21,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -3512,7 +3759,7 @@
         {
             "word": "日本",
             "weight": 20,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3735,7 +3982,7 @@
         {
             "word": "正式",
             "weight": 14,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3848,253 +4095,6 @@
                     "rank": 16,
                     "title": "庆祝智友社正式回归入驻NS社区，抽送第 2 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号6（过300个回复后，每30个回复奖品加1个Plus成品号6）",
                     "url": "https://www.nodeseek.com/post-914110-1"
-                }
-            ]
-        },
-        {
-            "word": "澎程",
-            "weight": 27,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 35,
-                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷的小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
-                    "url": "https://b23.tv/BV1LtbK6JE5V"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 18,
-                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
-                    "url": "https://b23.tv/BV1LtbK6JE5V"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 12,
-                    "title": "小米澎程N90探索版看点总结",
-                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E7%9C%8B%E7%82%B9%E6%80%BB%E7%BB%93"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 24,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 9,
-                    "title": "小米澎程N90售价",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E5%94%AE%E4%BB%B7&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 18,
-                    "title": "小米澎程",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 24,
-                    "title": "小米澎程4分钟锁单突破10000台",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B4%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%AA%81%E7%A0%B410000%E5%8F%B0&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 27,
-                    "title": "小米澎程升降顶舱",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 28,
-                    "title": "小米澎程N90探索版首发评测",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 36,
-                    "title": "王腾买了澎程N90Max",
-                    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%85%BE%E4%B9%B0%E4%BA%86%E6%BE%8E%E7%A8%8BN90Max&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 45,
-                    "title": "小米澎程N90抗住17吨顶压试验",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8A%97%E4%BD%8F17%E5%90%A8%E9%A1%B6%E5%8E%8B%E8%AF%95%E9%AA%8C&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 4,
-                    "title": "小米澎程SUV现已开售",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E7%8E%B0%E5%B7%B2%E5%BC%80%E5%94%AE&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 44,
-                    "title": "小米澎程原生电动升降顶舱",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8E%9F%E7%94%9F%E7%94%B5%E5%8A%A8%E5%8D%87%E9%99%8D%E9%A1%B6%E8%88%B1&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 4,
-                    "title": "小米澎程让你久等了",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%AE%A9%E4%BD%A0%E4%B9%85%E7%AD%89%E4%BA%86&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 49,
-                    "title": "雷军官宣小米澎程N90Max探索版",
-                    "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90Max%E6%8E%A2%E7%B4%A2%E7%89%88&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 18,
-                    "title": "小米澎程N70锁单",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70%E9%94%81%E5%8D%95&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 3,
-                    "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
-                    "url": "https://www.zhihu.com/question/2080397612411086400"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 20,
-                    "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
-                    "url": "https://www.zhihu.com/question/2080231640031126537"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "小米澎程SUV售价公布",
-                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908002221435C94D339C69DC655DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "小米澎程SUV售价公布",
-                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 31,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%2220260908011841AEAF558FDDA578F134B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "小米澎程SUV售价公布",
-                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 38,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%222026090802250249A9D3F28EE2E5A3775E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "小米澎程SUV售价公布",
-                    "url": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%22202609080317017E289C753F452A995666%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 30,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%22202609080317017E289C753F452A995666%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 44,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%22202609080420313C12E51F84BDD69B554C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 47,
-                    "title": "小米澎程系列新车首测",
-                    "url": "https://www.toutiao.com/trending/7682240514195869190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682240514195869190%22%2C%22hot_board_impr_id%22%3A%22202609080518427A1916A6F62F2CC5A234%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E6%96%B0%E8%BD%A6%E9%A6%96%E6%B5%8B%22%7D&rank=&style_id=40132&topic_id=7682240514195869190"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 9,
-                    "title": "观众高喊澎程预期价位雷军听完笑了",
-                    "url": "https://www.toutiao.com/trending/7682717979147059209/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682717979147059209%22%2C%22hot_board_impr_id%22%3A%22202609080718384576AC80E36F723C8566%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A7%82%E4%BC%97%E9%AB%98%E5%96%8A%E6%BE%8E%E7%A8%8B%E9%A2%84%E6%9C%9F%E4%BB%B7%E4%BD%8D%E9%9B%B7%E5%86%9B%E5%90%AC%E5%AE%8C%E7%AC%91%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682717979147059209"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 39,
-                    "title": "小米澎程系列4分钟锁单破万",
-                    "url": "https://www.toutiao.com/trending/7682327244861132324/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682327244861132324%22%2C%22hot_board_impr_id%22%3A%22202609080718384576AC80E36F723C8566%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%974%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%A0%B4%E4%B8%87%22%7D&rank=&style_id=40132&topic_id=7682327244861132324"
                 }
             ]
         },
@@ -5196,9 +5196,200 @@
             ]
         },
         {
+            "word": "现在",
+            "weight": 23,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 72,
+                    "title": "你现在是我家的凑企鹅了",
+                    "url": "https://b23.tv/BV1Zttm6iEdj"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 8,
+                    "title": "媒体曝民宿从「一房难求」到房间空置，大量民宿经营者称入住率暴跌，为啥大家现在都不爱住民宿了？",
+                    "url": "https://www.zhihu.com/question/2079850291302765262"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 12,
+                    "title": "为什么现在很多养宠物的人会喜欢将自己称为宠物的爸爸 / 妈妈呢？",
+                    "url": "https://www.zhihu.com/question/1725713018"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 10,
+                    "title": "某些朱重八粉张嘴就是没有朱元璋，现在有你吗这种唐氏发言，看看朱元璋是不是摘桃子大王",
+                    "url": "https://bbs.hupu.com/642318138.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 14,
+                    "title": "国人素质并不高，现在社会这么安全主要是党领导的好，这观点对吗？",
+                    "url": "https://bbs.hupu.com/642316451.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 15,
+                    "title": "表妹跟我说她在台球厅上班月薪3万，现在我信了",
+                    "url": "https://bbs.hupu.com/642315824.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 47,
+                    "title": "现在家长对待孩子的学习态度已经这么无所谓了，15岁就辍学了。。。",
+                    "url": "https://bbs.hupu.com/642309682.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 9,
+                    "title": "家里又吵了，一直潜水，实在是烦，JRS们帮忙看看，有什么好办法，他们之前就不和睦，吵过架，我中间协调，现在在外面租房子让老妈单独住，老婆二胎中",
+                    "url": "https://bbs.hupu.com/642319177.html"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "现在还适合转码吗？",
+                    "url": "https://www.v2ex.com/t/1240090"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "论坛现在好乱啊",
+                    "url": "https://www.nodeseek.com/post-917269-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 43,
+                    "title": "各位大佬 开了菲区的说说 菲区现在封号情况咋样啊 想开20x有点担心",
+                    "url": "https://www.nodeseek.com/post-884590-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 50,
+                    "title": "DMIT-Corona现在价值多少",
+                    "url": "https://www.nodeseek.com/post-917217-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "现在搜这个盗版的电子书，或者是盗版的电影夸克网盘链接哪个 AI 能够搜啊？之前用 Manus 的话都还能够搜得到，现在 Manus 也严了，搜不到盗版了。",
+                    "url": "https://www.nodeseek.com/post-917076-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 27,
+                    "title": "现在有什么小鸡可以入吗感觉好空虚",
+                    "url": "https://www.nodeseek.com/post-917282-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 29,
+                    "title": "现在codex还会降额度吗，不是说是bug已经修复了",
+                    "url": "https://www.nodeseek.com/post-917322-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "现在什么手机输入法好用？",
+                    "url": "https://www.nodeseek.com/post-917379-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 29,
+                    "title": "你们的 GiffGaff 现在处于什么状况？",
+                    "url": "https://www.nodeseek.com/post-913835-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 21,
+                    "title": "你们现在还跑tq吗？",
+                    "url": "https://www.nodeseek.com/post-916882-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 23,
+                    "title": "现在国内外服务器好像都没啥好优惠啦？",
+                    "url": "https://www.nodeseek.com/post-917129-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 27,
+                    "title": "年付 30 刀以内的鸡，现在哪家线路能打？",
+                    "url": "https://www.nodeseek.com/post-917256-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 21,
+                    "title": "现在ipv6感觉比ipv4更能打，TQ单线程测速是否可以多加入ipv6的测试点？",
+                    "url": "https://www.nodeseek.com/post-917417-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "兄弟们，2000元以下给长辈用的手机，现在有推荐的嘛",
+                    "url": "https://www.nodeseek.com/post-917477-1"
+                },
+                {
+                    "channelId": "wechat",
+                    "channelName": "微信文章",
+                    "ranking": "24h 热文榜",
+                    "rank": 25,
+                    "title": "疯了！现在短剧都卷到1000集了：这还叫“短剧”吗？",
+                    "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODc5ODk1Ng==&mid=2247508727&idx=1&sn=77aa2dde490673f07d636579ac25c452#rd"
+                }
+            ]
+        },
+        {
             "word": "发布会",
             "weight": 13,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5365,7 +5556,7 @@
         {
             "word": "美网",
             "weight": 12,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5492,7 +5683,7 @@
         {
             "word": "新品",
             "weight": 9,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5603,7 +5794,7 @@
         {
             "word": "芯片",
             "weight": 9,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5708,189 +5899,6 @@
                     "rank": 1,
                     "title": "早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
                     "url": "https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign="
-                }
-            ]
-        },
-        {
-            "word": "现在",
-            "weight": 22,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 72,
-                    "title": "你现在是我家的凑企鹅了",
-                    "url": "https://b23.tv/BV1Zttm6iEdj"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 8,
-                    "title": "媒体曝民宿从「一房难求」到房间空置，大量民宿经营者称入住率暴跌，为啥大家现在都不爱住民宿了？",
-                    "url": "https://www.zhihu.com/question/2079850291302765262"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 12,
-                    "title": "为什么现在很多养宠物的人会喜欢将自己称为宠物的爸爸 / 妈妈呢？",
-                    "url": "https://www.zhihu.com/question/1725713018"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 10,
-                    "title": "某些朱重八粉张嘴就是没有朱元璋，现在有你吗这种唐氏发言，看看朱元璋是不是摘桃子大王",
-                    "url": "https://bbs.hupu.com/642318138.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 14,
-                    "title": "国人素质并不高，现在社会这么安全主要是党领导的好，这观点对吗？",
-                    "url": "https://bbs.hupu.com/642316451.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 15,
-                    "title": "表妹跟我说她在台球厅上班月薪3万，现在我信了",
-                    "url": "https://bbs.hupu.com/642315824.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 47,
-                    "title": "现在家长对待孩子的学习态度已经这么无所谓了，15岁就辍学了。。。",
-                    "url": "https://bbs.hupu.com/642309682.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 9,
-                    "title": "家里又吵了，一直潜水，实在是烦，JRS们帮忙看看，有什么好办法，他们之前就不和睦，吵过架，我中间协调，现在在外面租房子让老妈单独住，老婆二胎中",
-                    "url": "https://bbs.hupu.com/642319177.html"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 8,
-                    "title": "论坛现在好乱啊",
-                    "url": "https://www.nodeseek.com/post-917269-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 43,
-                    "title": "各位大佬 开了菲区的说说 菲区现在封号情况咋样啊 想开20x有点担心",
-                    "url": "https://www.nodeseek.com/post-884590-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 50,
-                    "title": "DMIT-Corona现在价值多少",
-                    "url": "https://www.nodeseek.com/post-917217-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "现在搜这个盗版的电子书，或者是盗版的电影夸克网盘链接哪个 AI 能够搜啊？之前用 Manus 的话都还能够搜得到，现在 Manus 也严了，搜不到盗版了。",
-                    "url": "https://www.nodeseek.com/post-917076-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 27,
-                    "title": "现在有什么小鸡可以入吗感觉好空虚",
-                    "url": "https://www.nodeseek.com/post-917282-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 29,
-                    "title": "现在codex还会降额度吗，不是说是bug已经修复了",
-                    "url": "https://www.nodeseek.com/post-917322-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "现在什么手机输入法好用？",
-                    "url": "https://www.nodeseek.com/post-917379-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 29,
-                    "title": "你们的 GiffGaff 现在处于什么状况？",
-                    "url": "https://www.nodeseek.com/post-913835-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 21,
-                    "title": "你们现在还跑tq吗？",
-                    "url": "https://www.nodeseek.com/post-916882-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 23,
-                    "title": "现在国内外服务器好像都没啥好优惠啦？",
-                    "url": "https://www.nodeseek.com/post-917129-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 27,
-                    "title": "年付 30 刀以内的鸡，现在哪家线路能打？",
-                    "url": "https://www.nodeseek.com/post-917256-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 21,
-                    "title": "现在ipv6感觉比ipv4更能打，TQ单线程测速是否可以多加入ipv6的测试点？",
-                    "url": "https://www.nodeseek.com/post-917417-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "兄弟们，2000元以下给长辈用的手机，现在有推荐的嘛",
-                    "url": "https://www.nodeseek.com/post-917477-1"
-                },
-                {
-                    "channelId": "wechat",
-                    "channelName": "微信文章",
-                    "ranking": "24h 热文榜",
-                    "rank": 25,
-                    "title": "疯了！现在短剧都卷到1000集了：这还叫“短剧”吗？",
-                    "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODc5ODk1Ng==&mid=2247508727&idx=1&sn=77aa2dde490673f07d636579ac25c452#rd"
                 }
             ]
         },
@@ -7393,8 +7401,8 @@
             "00:22",
             "02:25",
             "04:20",
-            "06:19",
-            "09:31"
+            "06:26",
+            "09:38"
         ],
         "rows": [
             {
