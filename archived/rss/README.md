@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 04:20:57
+> 更新时间：2026-09-09 05:18:12
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
-2. [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
-3. [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
-4. [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
-5. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+1. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+2. [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
+3. [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
+4. [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
+5. [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
 
 ## AI News
 
