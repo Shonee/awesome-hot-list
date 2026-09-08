@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 06:19:45
+> 更新时间：2026-09-09 07:19:05
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-2. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
-3. [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
-4. [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
-5. [Trey Parker and Matt Stone Are Changing the Name of South Park to South America](https://twitter.com/SouthPark/status/2097364141237539116)
+1. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
+2. [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+3. [How to Build a Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+4. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
+5. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
 
 ## AI News
 
