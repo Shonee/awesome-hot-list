@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-08 19:27:38
+> 更新时间：2026-09-09 01:28:24
 
 ## 每日趋势
 
@@ -60,15 +60,14 @@
 12. [needle](https://github.com/cactus-compute/needle)
 13. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 14. [modular](https://github.com/modular/modular)
-15. [ai-memory](https://github.com/akitaonrails/ai-memory)
-16. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-17. [maka](https://github.com/apache/maka)
-18. [public-apis](https://github.com/public-apis/public-apis)
-19. [manim](https://github.com/3b1b/manim)
-20. [vphone-cli](https://github.com/Lakr233/vphone-cli)
-21. [holehe](https://github.com/megadose/holehe)
-22. [DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
-23. [unsloth](https://github.com/unslothai/unsloth)
+15. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+16. [maka](https://github.com/apache/maka)
+17. [public-apis](https://github.com/public-apis/public-apis)
+18. [manim](https://github.com/3b1b/manim)
+19. [vphone-cli](https://github.com/Lakr233/vphone-cli)
+20. [holehe](https://github.com/megadose/holehe)
+21. [DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
+22. [unsloth](https://github.com/unslothai/unsloth)
 
 ## Java
 

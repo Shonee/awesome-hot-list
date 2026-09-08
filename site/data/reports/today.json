@@ -1,14 +1,14 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-09",
-    "generatedAt": "2026-09-09 01:21:34",
-    "summary": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置成为本期综合热度最高的话题，李强主持国务院第二十一次专题学习紧随其后。当前覆盖 21 个有效渠道，共形成 66 个榜单时间切片；发现 8 个跨渠道重复热点。",
+    "generatedAt": "2026-09-09 01:28:31",
+    "summary": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置成为本期综合热度最高的话题，李强主持国务院第二十一次专题学习紧随其后。当前覆盖 22 个有效渠道，共形成 74 个榜单时间切片；发现 8 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1110,
+        "deduplicated": 1238,
         "resonance": 8,
         "maxRise": 38,
-        "slices": 66,
-        "coverage": 91
+        "slices": 74,
+        "coverage": 96
     },
     "topTopics": [
         {
@@ -269,7 +269,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 69,
+            "weight": 78,
             "tone": "hot",
             "hits": [
                 {
@@ -343,6 +343,86 @@
                     "rank": 38,
                     "title": "AI 认为泡泡玛特没有护城河，段永平却非常看好，我该听谁的？",
                     "url": "https://www.zhihu.com/question/2078805979487888921"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 3,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 11,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 13,
+                    "title": "vorssaint-utils",
+                    "url": "https://github.com/vorssaint/vorssaint-utils"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 6,
+                    "title": "jetbrains-cc-gui",
+                    "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 11,
+                    "title": "tailscale",
+                    "url": "https://github.com/tailscale/tailscale"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 12,
+                    "title": "tailcat",
+                    "url": "https://github.com/tailscale/tailcat"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 14,
+                    "title": "LocalAI",
+                    "url": "https://github.com/mudler/LocalAI"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 15,
+                    "title": "BillionMail",
+                    "url": "https://github.com/Billionmail/BillionMail"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 2,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 12,
+                    "title": "Open-Generative-AI",
+                    "url": "https://github.com/Anil-matcha/Open-Generative-AI"
                 },
                 {
                     "channelId": "juejin",
@@ -431,93 +511,411 @@
                     "rank": 47,
                     "title": "【AI】AC娘与TD娘的山路竞速",
                     "url": "https://www.acfun.cn/v/ac48834627"
-                },
+                }
+            ]
+        },
+        {
+            "word": "IG",
+            "weight": 25,
+            "tone": "teal",
+            "hits": [
                 {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 9,
-                    "title": "韵味姐姐~迷人短发-AOA-Short Hair【巫小萤】",
-                    "url": "https://www.acfun.cn/v/ac48829811"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 25,
-                    "title": "韵味姐姐~迷人短发-AOA-Short Hair【巫小萤】",
-                    "url": "https://www.acfun.cn/v/ac48829811"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
                     "rank": 1,
-                    "title": "消息称 WhatsApp 将支持第三方 AI 智能体，顺应时代潮流",
-                    "url": "https://www.ithome.com/0/999/948.htm"
+                    "title": "LGD IG",
+                    "url": "https://search.bilibili.com/all?keyword=LGD%20IG"
                 },
                 {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
-                    "url": "https://www.ithome.com/0/999/945.htm"
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 7,
+                    "title": "IG面对LCK胜率几何",
+                    "url": "https://search.bilibili.com/all?keyword=IG%E9%9D%A2%E5%AF%B9LCK%E8%83%9C%E7%8E%87%E5%87%A0%E4%BD%95"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 10,
+                    "title": "锐评IG四连胜晋级冒泡赛",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E5%9B%9B%E8%BF%9E%E8%83%9C%E6%99%8B%E7%BA%A7%E5%86%92%E6%B3%A1%E8%B5%9B"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 20,
+                    "title": "IG战胜LGD赛后数据",
+                    "url": "https://search.bilibili.com/all?keyword=IG%E6%88%98%E8%83%9CLGD%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 1,
+                    "title": "【2026LPL第三赛段】9月8日 LGD vs IG",
+                    "url": "https://b23.tv/BV1sHb56xEhC"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 27,
+                    "title": "IG 3-0 LGD 赛后数据雷达图+虎扑评分丨LPL季后赛",
+                    "url": "https://b23.tv/BV1dnbV6TEq4"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 50,
+                    "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 44分钟实机演示",
+                    "url": "https://b23.tv/BV1AxtJ6NEFR"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 95,
+                    "title": "【2026LPL第三赛段】9月6日 IG vs WE",
+                    "url": "https://b23.tv/BV1vobp6eEnT"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 9,
+                    "title": "【真实锐评】IG战胜LGD获得冒泡赛！闹麻了，能赢BLG吗 能赢AL吗 世界赛能赢LCK拿冠军吗！",
+                    "url": "https://b23.tv/BV17fYJ6gEHT"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 7,
+                    "title": "IG 3:0战胜LGD",
+                    "url": "https://www.douyin.com/search/IG%203%3A0%E6%88%98%E8%83%9CLGD"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 5,
+                    "title": "LPL 2026 赛季季后赛 iG 3:0 淘汰 LGD 距离晋级决赛仅一步之遥，如何评价这场比赛？",
+                    "url": "https://www.zhihu.com/question/2080688697410852069"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 2,
+                    "title": "diagram-design",
+                    "url": "https://github.com/cathrynlavery/diagram-design"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 1,
+                    "title": "diagram-design",
+                    "url": "https://github.com/cathrynlavery/diagram-design"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 21,
+                    "title": "awesome-low-level-design",
+                    "url": "https://github.com/ashishps1/awesome-low-level-design"
                 },
                 {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "虎扑热榜",
-                    "rank": 25,
-                    "title": "挑战传奇Against Legendary",
-                    "url": "https://m.hupu.com/hot?tagId=152939"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 2,
-                    "title": "DeepSeek一口气扩招150人，0个AI研究岗",
-                    "url": "https://www.36kr.com/p/3974040294388232"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 5,
-                    "title": "OpenAI放大招，一句话生成网站革了SaaS的命",
-                    "url": "https://www.36kr.com/p/3974225141231879"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
                     "rank": 9,
-                    "title": "从实习生日薪5000，到上亿年薪，AI人才争夺陷入疯狂丨深氪",
-                    "url": "https://www.36kr.com/p/3974476864876801"
+                    "title": "IG 3-1 胜WE豪取三连胜",
+                    "url": "https://m.hupu.com/hot?tagId=156416"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 3,
+                    "title": "WAN optimization configuration",
+                    "url": "https://stackoverflow.com/questions/80001691/wan-optimization-configuration"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 27,
+                    "title": "TriggerDagRunOperator fails with a 404 \"Dag run with run_id: 'manual__2026-09-08T02:35:00+00:00' not found\"",
+                    "url": "https://stackoverflow.com/questions/80001575/triggerdagrunoperator-fails-with-a-404-dag-run-with-run-id-manual-2026-09-08"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 28,
+                    "title": "Testinfo in playwright framework shows in miliseconds but if want in othere format then what should I do",
+                    "url": "https://stackoverflow.com/questions/80001605/testinfo-in-playwright-framework-shows-in-miliseconds-but-if-want-in-othere-form"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 44,
+                    "title": "go 1.27 might modify go.work.sum on start?",
+                    "url": "https://stackoverflow.com/questions/80001538/go-1-27-might-modify-go-work-sum-on-start"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 48,
+                    "title": "Designing a Future Message System with Flutter and Firebase Firestore",
+                    "url": "https://stackoverflow.com/questions/80001523/designing-a-future-message-system-with-flutter-and-firebase-firestore"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 50,
+                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
+                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 31,
+                    "title": "[收]ggc/gigsgigscloud jp 12u和us 3.8u",
+                    "url": "https://www.nodeseek.com/post-817128-1"
+                },
+                {
+                    "channelId": "tieba",
+                    "channelName": "百度贴吧",
+                    "ranking": "最有料热点",
+                    "rank": 2,
+                    "title": "IG速通LGD,宋圣禁欲梦回S8",
+                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363132&topic_name=IG%E9%80%9F%E9%80%9ALGD%2C%E5%AE%8B%E5%9C%A3%E7%A6%81%E6%AC%B2%E6%A2%A6%E5%9B%9ES8"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "MIT Technology Review",
+                    "rank": 5,
+                    "title": "This geneticist’s age-reversal tech could help restore sight",
+                    "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 1,
+                    "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
+                    "url": "https://cepr.org/publications/dp21706"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "AI News",
+                    "rank": 1,
+                    "title": "Arm launches Total Design for Physical AI and robotics framework",
+                    "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/"
+                }
+            ]
+        },
+        {
+            "word": "Pro",
+            "weight": 22,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 43,
+                    "title": "曝 PS6Lite 定价 4700 元，性能约等于 PS5Pro，市场前景如何？",
+                    "url": "https://www.zhihu.com/question/2080239783360590232"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 10,
+                    "title": "llvm-project",
+                    "url": "https://github.com/llvm/llvm-project"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 1,
+                    "title": "DevOps-Projects",
+                    "url": "https://github.com/NotHarshhaa/DevOps-Projects"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 2,
+                    "title": "prompts.chat",
+                    "url": "https://github.com/f/prompts.chat"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 15,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
                 },
                 {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
+                    "rank": 8,
+                    "title": "刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心",
+                    "url": "https://www.36kr.com/p/3974571498057985"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 34,
+                    "title": "手机 Pro Max 还在大乱斗，AI 模型的名字怎么都卷到「神话」了",
+                    "url": "https://www.36kr.com/p/3974137223950848"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 4,
+                    "title": "“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.8 日~9.15 日]",
+                    "url": "https://www.v2ex.com/t/1240245"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 1,
+                    "title": "What does Error: Process completed with exit code 22 mean?",
+                    "url": "https://stackoverflow.com/questions/80001695/what-does-error-process-completed-with-exit-code-22-mean"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
                     "rank": 11,
-                    "title": "AI本科月薪7千，材料机械涨薪25%：天坑易主了？",
-                    "url": "https://www.36kr.com/p/3974392667107846"
+                    "title": "terra::project() fails with NaN coordinates",
+                    "url": "https://stackoverflow.com/questions/80001669/terraproject-fails-with-nan-coordinates"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 13,
-                    "title": "AICRON参与《金特务》制作，韩国主流剧集首次引入AI生成内容｜早期项目",
-                    "url": "https://www.36kr.com/p/3966062388780290"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 29,
+                    "title": "Angular 6 / Webpack 4.8 production build suddenly takes 6+ hours and hangs at 77%",
+                    "url": "https://stackoverflow.com/questions/80001603/angular-6-webpack-4-8-production-build-suddenly-takes-6-hours-and-hangs-at-77"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 39,
+                    "title": "Setting Proxy Registry value via on PowerShell via a GPO",
+                    "url": "https://stackoverflow.com/questions/80001565/setting-proxy-registry-value-via-on-powershell-via-a-gpo"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 49,
+                    "title": "QUIC protocoal - qvis is not loading qlog files generated from pcap2qlog",
+                    "url": "https://stackoverflow.com/questions/80001516/quic-protocoal-qvis-is-not-loading-qlog-files-generated-from-pcap2qlog"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 50,
+                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
+                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "gemini pro咋又便宜了",
+                    "url": "https://www.nodeseek.com/post-919187-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 16,
+                    "title": "[TQ测试留档] VMISS CN.HK.BGP.DC2.Pro",
+                    "url": "https://www.nodeseek.com/post-918985-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 20,
+                    "title": "【NQ】Datawave JP-Pro留档",
+                    "url": "https://www.nodeseek.com/post-919252-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 25,
+                    "title": "【6级佬稳定老车找人】菲区 20x pro 阶梯车(5/4/3/2人车) —— 200起/月 —— 无5h限制/大妈GIA直连/质保",
+                    "url": "https://www.nodeseek.com/post-904781-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 28,
+                    "title": "出一个闲置DMIT的LAX.AS3.Pro.TINY",
+                    "url": "https://www.nodeseek.com/post-919249-1"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 22,
+                    "title": "VMware Workstation Pro 26H1u1 25688693 简体中文汉化版&简体中文语言包",
+                    "url": "https://www.52pojie.cn/thread-2126269-1-1.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 3,
+                    "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+                    "url": "https://logicola.org/blog/the-new-logicola"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "AI News",
+                    "rank": 2,
+                    "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+                    "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/"
                 }
             ]
         },
         {
             "word": "小米",
             "weight": 18,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -682,200 +1080,9 @@
             ]
         },
         {
-            "word": "IG",
-            "weight": 23,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 1,
-                    "title": "LGD IG",
-                    "url": "https://search.bilibili.com/all?keyword=LGD%20IG"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 7,
-                    "title": "IG面对LCK胜率几何",
-                    "url": "https://search.bilibili.com/all?keyword=IG%E9%9D%A2%E5%AF%B9LCK%E8%83%9C%E7%8E%87%E5%87%A0%E4%BD%95"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 10,
-                    "title": "锐评IG四连胜晋级冒泡赛",
-                    "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E5%9B%9B%E8%BF%9E%E8%83%9C%E6%99%8B%E7%BA%A7%E5%86%92%E6%B3%A1%E8%B5%9B"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 20,
-                    "title": "IG战胜LGD赛后数据",
-                    "url": "https://search.bilibili.com/all?keyword=IG%E6%88%98%E8%83%9CLGD%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 1,
-                    "title": "【2026LPL第三赛段】9月8日 LGD vs IG",
-                    "url": "https://b23.tv/BV1sHb56xEhC"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 27,
-                    "title": "IG 3-0 LGD 赛后数据雷达图+虎扑评分丨LPL季后赛",
-                    "url": "https://b23.tv/BV1dnbV6TEq4"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 50,
-                    "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 44分钟实机演示",
-                    "url": "https://b23.tv/BV1AxtJ6NEFR"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 95,
-                    "title": "【2026LPL第三赛段】9月6日 IG vs WE",
-                    "url": "https://b23.tv/BV1vobp6eEnT"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 9,
-                    "title": "【真实锐评】IG战胜LGD获得冒泡赛！闹麻了，能赢BLG吗 能赢AL吗 世界赛能赢LCK拿冠军吗！",
-                    "url": "https://b23.tv/BV17fYJ6gEHT"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 7,
-                    "title": "IG 3:0战胜LGD",
-                    "url": "https://www.douyin.com/search/IG%203%3A0%E6%88%98%E8%83%9CLGD"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 5,
-                    "title": "LPL 2026 赛季季后赛 iG 3:0 淘汰 LGD 距离晋级决赛仅一步之遥，如何评价这场比赛？",
-                    "url": "https://www.zhihu.com/question/2080688697410852069"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 9,
-                    "title": "IG 3-1 胜WE豪取三连胜",
-                    "url": "https://m.hupu.com/hot?tagId=156416"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 3,
-                    "title": "WAN optimization configuration",
-                    "url": "https://stackoverflow.com/questions/80001691/wan-optimization-configuration"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 27,
-                    "title": "TriggerDagRunOperator fails with a 404 \"Dag run with run_id: 'manual__2026-09-08T02:35:00+00:00' not found\"",
-                    "url": "https://stackoverflow.com/questions/80001575/triggerdagrunoperator-fails-with-a-404-dag-run-with-run-id-manual-2026-09-08"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 28,
-                    "title": "Testinfo in playwright framework shows in miliseconds but if want in othere format then what should I do",
-                    "url": "https://stackoverflow.com/questions/80001605/testinfo-in-playwright-framework-shows-in-miliseconds-but-if-want-in-othere-form"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 44,
-                    "title": "go 1.27 might modify go.work.sum on start?",
-                    "url": "https://stackoverflow.com/questions/80001538/go-1-27-might-modify-go-work-sum-on-start"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 48,
-                    "title": "Designing a Future Message System with Flutter and Firebase Firestore",
-                    "url": "https://stackoverflow.com/questions/80001523/designing-a-future-message-system-with-flutter-and-firebase-firestore"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 50,
-                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
-                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 31,
-                    "title": "[收]ggc/gigsgigscloud jp 12u和us 3.8u",
-                    "url": "https://www.nodeseek.com/post-817128-1"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 2,
-                    "title": "IG速通LGD,宋圣禁欲梦回S8",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363132&topic_name=IG%E9%80%9F%E9%80%9ALGD%2C%E5%AE%8B%E5%9C%A3%E7%A6%81%E6%AC%B2%E6%A2%A6%E5%9B%9ES8"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "MIT Technology Review",
-                    "rank": 5,
-                    "title": "This geneticist’s age-reversal tech could help restore sight",
-                    "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 1,
-                    "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
-                    "url": "https://cepr.org/publications/dp21706"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "AI News",
-                    "rank": 1,
-                    "title": "Arm launches Total Design for Physical AI and robotics framework",
-                    "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/"
-                }
-            ]
-        },
-        {
             "word": "手机",
             "weight": 23,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1114,7 +1321,7 @@
         {
             "word": "公司",
             "weight": 20,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1283,165 +1490,6 @@
                     "rank": 49,
                     "title": "人民财讯9月8日电，据四川省纪委监委消息，四川省煤炭产业集团有限责任公司原党委书记、董事长刘万波涉嫌严重违纪违法，目前正接受四川省纪委监委纪律审查和监察调查。 ...",
                     "url": "http://news.10jqka.com.cn/20260908/c679709801.shtml"
-                }
-            ]
-        },
-        {
-            "word": "Pro",
-            "weight": 19,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 43,
-                    "title": "曝 PS6Lite 定价 4700 元，性能约等于 PS5Pro，市场前景如何？",
-                    "url": "https://www.zhihu.com/question/2080239783360590232"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 15,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心",
-                    "url": "https://www.36kr.com/p/3974571498057985"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 34,
-                    "title": "手机 Pro Max 还在大乱斗，AI 模型的名字怎么都卷到「神话」了",
-                    "url": "https://www.36kr.com/p/3974137223950848"
-                },
-                {
-                    "channelId": "v2ex",
-                    "channelName": "V2EX",
-                    "ranking": "热门主题",
-                    "rank": 4,
-                    "title": "“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.8 日~9.15 日]",
-                    "url": "https://www.v2ex.com/t/1240245"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "What does Error: Process completed with exit code 22 mean?",
-                    "url": "https://stackoverflow.com/questions/80001695/what-does-error-process-completed-with-exit-code-22-mean"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 11,
-                    "title": "terra::project() fails with NaN coordinates",
-                    "url": "https://stackoverflow.com/questions/80001669/terraproject-fails-with-nan-coordinates"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 29,
-                    "title": "Angular 6 / Webpack 4.8 production build suddenly takes 6+ hours and hangs at 77%",
-                    "url": "https://stackoverflow.com/questions/80001603/angular-6-webpack-4-8-production-build-suddenly-takes-6-hours-and-hangs-at-77"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 39,
-                    "title": "Setting Proxy Registry value via on PowerShell via a GPO",
-                    "url": "https://stackoverflow.com/questions/80001565/setting-proxy-registry-value-via-on-powershell-via-a-gpo"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 49,
-                    "title": "QUIC protocoal - qvis is not loading qlog files generated from pcap2qlog",
-                    "url": "https://stackoverflow.com/questions/80001516/quic-protocoal-qvis-is-not-loading-qlog-files-generated-from-pcap2qlog"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 50,
-                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
-                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 6,
-                    "title": "gemini pro咋又便宜了",
-                    "url": "https://www.nodeseek.com/post-919187-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 16,
-                    "title": "[TQ测试留档] VMISS CN.HK.BGP.DC2.Pro",
-                    "url": "https://www.nodeseek.com/post-918985-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 20,
-                    "title": "【NQ】Datawave JP-Pro留档",
-                    "url": "https://www.nodeseek.com/post-919252-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 25,
-                    "title": "【6级佬稳定老车找人】菲区 20x pro 阶梯车(5/4/3/2人车) —— 200起/月 —— 无5h限制/大妈GIA直连/质保",
-                    "url": "https://www.nodeseek.com/post-904781-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 28,
-                    "title": "出一个闲置DMIT的LAX.AS3.Pro.TINY",
-                    "url": "https://www.nodeseek.com/post-919249-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 22,
-                    "title": "VMware Workstation Pro 26H1u1 25688693 简体中文汉化版&简体中文语言包",
-                    "url": "https://www.52pojie.cn/thread-2126269-1-1.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 3,
-                    "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
-                    "url": "https://logicola.org/blog/the-new-logicola"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "AI News",
-                    "rank": 2,
-                    "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
-                    "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/"
                 }
             ]
         },
@@ -1937,9 +1985,176 @@
             ]
         },
         {
+            "word": "GPT",
+            "weight": 20,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 10,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 3,
+                    "title": "GPT - 6 Astra 的使用焚诀",
+                    "url": "https://juejin.cn/post/7682634449856217115"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 15,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 26,
+                    "title": "GPT-6单价变成2.5倍，写代码却未必更贵",
+                    "url": "https://juejin.cn/post/7682069529204686891"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 27,
+                    "title": "实测GPT-6 Astra后，我发现过去十年的专业门槛正在失效",
+                    "url": "https://juejin.cn/post/7682698191627911211"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 30,
+                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
+                    "url": "https://juejin.cn/post/7682241475045687339"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
+                    "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 33,
+                    "title": "用 GPT-6-Astra，先检查这几个设置",
+                    "url": "https://juejin.cn/post/7681861285420285998"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 36,
+                    "title": "从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？",
+                    "url": "https://juejin.cn/post/7682634449856675867"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 50,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
+                    "url": "https://www.ithome.com/0/999/945.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 4,
+                    "title": "刚刚，GPT-6 Astra登顶了",
+                    "url": "https://www.36kr.com/p/3974129339101704"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 6,
+                    "title": "刚刚，GPT-6 Astra   “鲨死了”所有验证码",
+                    "url": "https://www.36kr.com/p/3973910125457667"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 16,
+                    "title": "清华博士做具身大脑拿下九轮融资，他说机器人行业不存在所谓ChatGPT时刻｜硬氪专访",
+                    "url": "https://www.36kr.com/p/3973012275785986"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 40,
+                    "title": "感谢用GPT-6搓3D的，燃烧自己的token换来一次全体重置",
+                    "url": "https://www.36kr.com/p/3974411327566338"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 12,
+                    "title": "感觉ChatGPT 6变慢变笨了",
+                    "url": "https://www.nodeseek.com/post-919166-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 36,
+                    "title": "codex重置ChatGPT不重置吗？而且codex也报错咋回事啊",
+                    "url": "https://www.nodeseek.com/post-918182-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 23,
+                    "title": "CHATGPT 6 Astra 成功通关了“我不是机器人”游戏的所有 48 个关卡",
+                    "url": "https://www.nodeseek.com/post-919233-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 1,
+                    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+                    "url": "https://www.qbitai.com/2026/09/485854.html"
+                }
+            ]
+        },
+        {
             "word": "第三",
             "weight": 18,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2130,7 +2345,7 @@
         {
             "word": "模型",
             "weight": 13,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -2239,9 +2454,96 @@
             ]
         },
         {
+            "word": "code",
+            "weight": 10,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 11,
+                    "title": "screenshot-to-code",
+                    "url": "https://github.com/abi/screenshot-to-code"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 8,
+                    "title": "everything-claude-code",
+                    "url": "https://github.com/WorldFlowAI/everything-claude-code"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
+                    "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 40,
+                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
+                    "url": "https://juejin.cn/post/7682069529204736043"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 48,
+                    "title": "代码我都定位了，Codex 还在考古：于是我写了个 VS Code 插件",
+                    "url": "https://juejin.cn/post/7682603130694139950"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
+                    "url": "https://www.ithome.com/0/999/945.htm"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 1,
+                    "title": "What does Error: Process completed with exit code 22 mean?",
+                    "url": "https://stackoverflow.com/questions/80001695/what-does-error-process-completed-with-exit-code-22-mean"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 6,
+                    "title": "I'm trying to create a bullet pattern based on the maurer rose code",
+                    "url": "https://stackoverflow.com/questions/80001689/im-trying-to-create-a-bullet-pattern-based-on-the-maurer-rose-code"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 36,
+                    "title": "codex重置ChatGPT不重置吗？而且codex也报错咋回事啊",
+                    "url": "https://www.nodeseek.com/post-918182-1"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 7,
+                    "title": "完美解码PureCodec20260826官方版&绿色版",
+                    "url": "https://www.52pojie.cn/thread-2126550-1-1.html"
+                }
+            ]
+        },
+        {
             "word": "折叠",
             "weight": 9,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -2328,7 +2630,7 @@
         {
             "word": "智能",
             "weight": 8,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2399,7 +2701,7 @@
         {
             "word": "3D",
             "weight": 7,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2462,7 +2764,7 @@
         {
             "word": "澎程",
             "weight": 7,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2539,168 +2841,183 @@
             ]
         },
         {
-            "word": "GPT",
-            "weight": 19,
-            "tone": "teal",
+            "word": "app",
+            "weight": 11,
+            "tone": "",
             "hits": [
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
                     "rank": 3,
-                    "title": "GPT - 6 Astra 的使用焚诀",
-                    "url": "https://juejin.cn/post/7682634449856217115"
+                    "title": "strykerapp",
+                    "url": "https://github.com/zalexdev/strykerapp"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 15,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 26,
-                    "title": "GPT-6单价变成2.5倍，写代码却未必更贵",
-                    "url": "https://juejin.cn/post/7682069529204686891"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 27,
-                    "title": "实测GPT-6 Astra后，我发现过去十年的专业门槛正在失效",
-                    "url": "https://juejin.cn/post/7682698191627911211"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 30,
-                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
-                    "url": "https://juejin.cn/post/7682241475045687339"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 32,
-                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
-                    "url": "https://juejin.cn/post/7681939121792778266"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 33,
-                    "title": "用 GPT-6-Astra，先检查这几个设置",
-                    "url": "https://juejin.cn/post/7681861285420285998"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 36,
-                    "title": "从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？",
-                    "url": "https://juejin.cn/post/7682634449856675867"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 50,
-                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
-                    "url": "https://juejin.cn/post/7682013859251863552"
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 9,
+                    "title": "termux-app",
+                    "url": "https://github.com/termux/termux-app"
                 },
                 {
                     "channelId": "ithome",
                     "channelName": "IT之家",
                     "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
-                    "url": "https://www.ithome.com/0/999/945.htm"
+                    "rank": 1,
+                    "title": "消息称 WhatsApp 将支持第三方 AI 智能体，顺应时代潮流",
+                    "url": "https://www.ithome.com/0/999/948.htm"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 4,
-                    "title": "刚刚，GPT-6 Astra登顶了",
-                    "url": "https://www.36kr.com/p/3974129339101704"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 9,
+                    "title": "csrf_meta_tags raises ArgumentError: wrong number of arguments (given 2, expected 1) on fresh Rails 8.1.3.1 app?",
+                    "url": "https://stackoverflow.com/questions/80001690/csrf-meta-tags-raises-argumenterror-wrong-number-of-arguments-given-2-expecte"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 6,
-                    "title": "刚刚，GPT-6 Astra   “鲨死了”所有验证码",
-                    "url": "https://www.36kr.com/p/3973910125457667"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 10,
+                    "title": "Music in apps script pages",
+                    "url": "https://stackoverflow.com/questions/80001670/music-in-apps-script-pages"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 16,
-                    "title": "清华博士做具身大脑拿下九轮融资，他说机器人行业不存在所谓ChatGPT时刻｜硬氪专访",
-                    "url": "https://www.36kr.com/p/3973012275785986"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 30,
+                    "title": "How should I structure multiple middleware checks in a Next.js full-stack application?",
+                    "url": "https://stackoverflow.com/questions/80001600/how-should-i-structure-multiple-middleware-checks-in-a-next-js-full-stack-applic"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 40,
-                    "title": "感谢用GPT-6搓3D的，燃烧自己的token换来一次全体重置",
-                    "url": "https://www.36kr.com/p/3974411327566338"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "感觉ChatGPT 6变慢变笨了",
-                    "url": "https://www.nodeseek.com/post-919166-1"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 47,
+                    "title": "Apple App Review Would this anonymous social app rejected Guideline 1.2?",
+                    "url": "https://stackoverflow.com/questions/80001527/apple-app-review-would-this-anonymous-social-app-rejected-guideline-1-2"
                 },
                 {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
-                    "rank": 36,
-                    "title": "codex重置ChatGPT不重置吗？而且codex也报错咋回事啊",
-                    "url": "https://www.nodeseek.com/post-918182-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 23,
-                    "title": "CHATGPT 6 Astra 成功通关了“我不是机器人”游戏的所有 48 个关卡",
-                    "url": "https://www.nodeseek.com/post-919233-1"
+                    "rank": 27,
+                    "title": "苹果的密码 app 三个端都不同步，我真服了",
+                    "url": "https://www.nodeseek.com/post-919064-1"
                 },
                 {
                     "channelId": "rss",
                     "channelName": "RSS",
-                    "ranking": "量子位",
+                    "ranking": "少数派",
                     "rank": 1,
-                    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-                    "url": "https://www.qbitai.com/2026/09/485854.html"
+                    "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+                    "url": "https://sspai.com/prime/story/sidecar-optimizations"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 2,
+                    "title": "Disappointed Optimists",
+                    "url": "https://cwodtke.com/disappointed-optimists/"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "AI News",
+                    "rank": 4,
+                    "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+                    "url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/"
+                }
+            ]
+        },
+        {
+            "word": "DeepSeek",
+            "weight": 9,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 16,
+                    "title": "DeepSeek V4.1 Flash",
+                    "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 14,
+                    "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
+                    "url": "https://www.zhihu.com/question/2080678583714977593"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 21,
+                    "title": "DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
+                    "url": "https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 2,
+                    "title": "DeepSeek一口气扩招150人，0个AI研究岗",
+                    "url": "https://www.36kr.com/p/3974040294388232"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 8,
+                    "title": "刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心",
+                    "url": "https://www.36kr.com/p/3974571498057985"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 20,
+                    "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+                    "url": "https://www.36kr.com/p/3973972580495881"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 29,
+                    "title": "DeepSeek突然扩招150人，AI越强公司怎么还越需要人？",
+                    "url": "https://www.36kr.com/p/3974499076321794"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 42,
+                    "title": "DeepSeek V4.1 Flash开始限时内测：新架构、原生多模态",
+                    "url": "https://www.36kr.com/p/3974654461604357"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "deepseek flash调整定价了？",
+                    "url": "https://www.nodeseek.com/post-919129-1"
                 }
             ]
         },
         {
             "word": "华为",
             "weight": 9,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -2779,7 +3096,7 @@
         {
             "word": "科技",
             "weight": 9,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2856,9 +3173,207 @@
             ]
         },
         {
+            "word": "Flash",
+            "weight": 6,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 16,
+                    "title": "DeepSeek V4.1 Flash",
+                    "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 14,
+                    "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
+                    "url": "https://www.zhihu.com/question/2080678583714977593"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 21,
+                    "title": "DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
+                    "url": "https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 8,
+                    "title": "刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心",
+                    "url": "https://www.36kr.com/p/3974571498057985"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 42,
+                    "title": "DeepSeek V4.1 Flash开始限时内测：新架构、原生多模态",
+                    "url": "https://www.36kr.com/p/3974654461604357"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "deepseek flash调整定价了？",
+                    "url": "https://www.nodeseek.com/post-919129-1"
+                }
+            ]
+        },
+        {
+            "word": "Agent",
+            "weight": 16,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 12,
+                    "title": "hermes-agent",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 3,
+                    "title": "hermes-agent",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 15,
+                    "title": "hello-agents",
+                    "url": "https://github.com/datawhalechina/hello-agents"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 17,
+                    "title": "scientific-agent-skills",
+                    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 7,
+                    "title": "Agent-Learning-Hub",
+                    "url": "https://github.com/datawhalechina/Agent-Learning-Hub"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 21,
+                    "title": "agent-skills",
+                    "url": "https://github.com/vercel-labs/agent-skills"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 1,
+                    "title": "走进AI Agent第三篇：让 Agent 记住你",
+                    "url": "https://juejin.cn/post/7682394398210932763"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 12,
+                    "title": "阿里开源了一个神级Agent项目",
+                    "url": "https://juejin.cn/post/7681931232724910122"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 21,
+                    "title": "我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness",
+                    "url": "https://juejin.cn/post/7682069529204441131"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 23,
+                    "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
+                    "url": "https://juejin.cn/post/7681521114217791528"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 24,
+                    "title": "别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统",
+                    "url": "https://juejin.cn/post/7682611037704011827"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 40,
+                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
+                    "url": "https://juejin.cn/post/7682069529204736043"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 46,
+                    "title": "2026 AI Agent 开发学习路线：从小白到全栈，这波红利必须抓住！",
+                    "url": "https://juejin.cn/post/7681733440023347254"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 18,
+                    "title": "当一个人带着16个Agent工作，人开始成为瓶颈",
+                    "url": "https://www.36kr.com/p/3974033069486339"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "极客公园",
+                    "rank": 5,
+                    "title": "判断用不用你的软件，Agent 只需 500 个 Token",
+                    "url": "http://www.geekpark.net/news/369960"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "MIT Technology Review",
+                    "rank": 3,
+                    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+                    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+                }
+            ]
+        },
+        {
             "word": "现场",
             "weight": 9,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2931,77 +3446,6 @@
                     "rank": 1,
                     "title": "IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上",
                     "url": "http://www.geekpark.net/news/370007"
-                }
-            ]
-        },
-        {
-            "word": "DeepSeek",
-            "weight": 8,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 16,
-                    "title": "DeepSeek V4.1 Flash",
-                    "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 14,
-                    "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
-                    "url": "https://www.zhihu.com/question/2080678583714977593"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 2,
-                    "title": "DeepSeek一口气扩招150人，0个AI研究岗",
-                    "url": "https://www.36kr.com/p/3974040294388232"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心",
-                    "url": "https://www.36kr.com/p/3974571498057985"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 20,
-                    "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
-                    "url": "https://www.36kr.com/p/3973972580495881"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 29,
-                    "title": "DeepSeek突然扩招150人，AI越强公司怎么还越需要人？",
-                    "url": "https://www.36kr.com/p/3974499076321794"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 42,
-                    "title": "DeepSeek V4.1 Flash开始限时内测：新架构、原生多模态",
-                    "url": "https://www.36kr.com/p/3974654461604357"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 9,
-                    "title": "deepseek flash调整定价了？",
-                    "url": "https://www.nodeseek.com/post-919129-1"
                 }
             ]
         },
@@ -3392,56 +3836,9 @@
             ]
         },
         {
-            "word": "Flash",
-            "weight": 5,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 16,
-                    "title": "DeepSeek V4.1 Flash",
-                    "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 14,
-                    "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
-                    "url": "https://www.zhihu.com/question/2080678583714977593"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心",
-                    "url": "https://www.36kr.com/p/3974571498057985"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 42,
-                    "title": "DeepSeek V4.1 Flash开始限时内测：新架构、原生多模态",
-                    "url": "https://www.36kr.com/p/3974654461604357"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 9,
-                    "title": "deepseek flash调整定价了？",
-                    "url": "https://www.nodeseek.com/post-919129-1"
-                }
-            ]
-        },
-        {
             "word": "vs",
             "weight": 5,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3488,7 +3885,7 @@
         {
             "word": "太子奶",
             "weight": 4,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3535,7 +3932,7 @@
         {
             "word": "Astra",
             "weight": 12,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3636,104 +4033,9 @@
             ]
         },
         {
-            "word": "Agent",
-            "weight": 11,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 1,
-                    "title": "走进AI Agent第三篇：让 Agent 记住你",
-                    "url": "https://juejin.cn/post/7682394398210932763"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 12,
-                    "title": "阿里开源了一个神级Agent项目",
-                    "url": "https://juejin.cn/post/7681931232724910122"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 21,
-                    "title": "我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness",
-                    "url": "https://juejin.cn/post/7682069529204441131"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 23,
-                    "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
-                    "url": "https://juejin.cn/post/7681521114217791528"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 24,
-                    "title": "别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统",
-                    "url": "https://juejin.cn/post/7682611037704011827"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 40,
-                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
-                    "url": "https://juejin.cn/post/7682069529204736043"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 46,
-                    "title": "2026 AI Agent 开发学习路线：从小白到全栈，这波红利必须抓住！",
-                    "url": "https://juejin.cn/post/7681733440023347254"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 18,
-                    "title": "当一个人带着16个Agent工作，人开始成为瓶颈",
-                    "url": "https://www.36kr.com/p/3974033069486339"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "极客公园",
-                    "rank": 5,
-                    "title": "判断用不用你的软件，Agent 只需 500 个 Token",
-                    "url": "http://www.geekpark.net/news/369960"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "MIT Technology Review",
-                    "rank": 3,
-                    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-                    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
-                }
-            ]
-        },
-        {
             "word": "哪些",
             "weight": 10,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3820,7 +4122,7 @@
         {
             "word": "郑钦文",
             "weight": 9,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -3939,7 +4241,7 @@
         {
             "word": "指数",
             "weight": 9,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "toutiao",
@@ -4026,7 +4328,7 @@
         {
             "word": "进出口",
             "weight": 8,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -4105,7 +4407,7 @@
         {
             "word": "冠军",
             "weight": 7,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4164,124 +4466,6 @@
                     "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363025&topic_name=%E7%A5%9E%E9%80%86%E8%BD%AC%2C%E9%83%91%E9%92%A6%E6%96%87%E6%89%93%E5%93%AD%E7%BE%8E%E7%BD%91%E5%86%A0%E5%86%9B"
                 }
             ]
-        },
-        {
-            "word": "攻略",
-            "weight": 7,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 8,
-                    "title": "全网首发！爆肝3天！S11新NPC佐拉、唐吉任务线全流程攻略！完成后送口琴和火箭！可演奏可互动可入局！单人几乎无法完成！",
-                    "url": "https://b23.tv/BV1X5bE62EbZ"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 37,
-                    "title": "开学攻略-选定你的硬核学习刚需",
-                    "url": "https://b23.tv/BV1ALtm61Eib"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 63,
-                    "title": "【逐星者行动】全流程保姆级带跑攻略！佐拉/唐吉任务全点位！抢暗星燃料造火箭！「三角洲S11」长弓2.0/守夜人口琴/阿萨拉一号",
-                    "url": "https://b23.tv/BV1htbs6wEFc"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 64,
-                    "title": "永久阿萨拉buff？特殊彩蛋大红口琴逃课速通攻略！",
-                    "url": "https://b23.tv/BV1kVbK6fE6L"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 34,
-                    "title": "三角洲S11赛季鱼竿获取攻略",
-                    "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2S11%E8%B5%9B%E5%AD%A3%E9%B1%BC%E7%AB%BF%E8%8E%B7%E5%8F%96%E6%94%BB%E7%95%A5"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 49,
-                    "title": "第五人格S44赛季末冲刺攻略",
-                    "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCS44%E8%B5%9B%E5%AD%A3%E6%9C%AB%E5%86%B2%E5%88%BA%E6%94%BB%E7%95%A5"
-                },
-                {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 14,
-                    "title": "自学健身教练证超详细攻略（手搓4000字分享）",
-                    "url": "https://www.douban.com/group/topic/498902910/?_spm_id=MjAxMjI0MTUw"
-                }
-            ]
-        },
-        {
-            "word": "三角洲",
-            "weight": 6,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 53,
-                    "title": "【三角洲动画】萌心相动-二",
-                    "url": "https://b23.tv/BV1DBb763Exj"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 63,
-                    "title": "【逐星者行动】全流程保姆级带跑攻略！佐拉/唐吉任务全点位！抢暗星燃料造火箭！「三角洲S11」长弓2.0/守夜人口琴/阿萨拉一号",
-                    "url": "https://b23.tv/BV1htbs6wEFc"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 78,
-                    "title": "如此相亲？#三角洲",
-                    "url": "https://b23.tv/BV1Dtbp6WEgc"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 24,
-                    "title": "三角洲不同玩家belike",
-                    "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E4%B8%8D%E5%90%8C%E7%8E%A9%E5%AE%B6belike"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 34,
-                    "title": "三角洲S11赛季鱼竿获取攻略",
-                    "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2S11%E8%B5%9B%E5%AD%A3%E9%B1%BC%E7%AB%BF%E8%8E%B7%E5%8F%96%E6%94%BB%E7%95%A5"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 48,
-                    "title": "三角洲行动：上帝啊我的队友呢？怎么就我一个人在战斗",
-                    "url": "https://www.acfun.cn/v/ac48832711"
-                }
-            ]
         }
     ],
     "flow": {
@@ -4289,8 +4473,8 @@
             "00:24",
             "00:25",
             "00:33",
-            "01:20",
-            "01:21"
+            "01:21",
+            "01:28"
         ],
         "rows": [
             {
