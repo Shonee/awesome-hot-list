@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 21:22:58
+> 更新时间：2026-09-08 22:24:06
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测](https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [PISA 2025 Students' reading and mathematics performance declined across the OECD](https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html)
-2. [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
-3. [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
-4. [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
-5. [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
+1. [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+2. [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+3. [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/)
+4. [PISA 2025 Students' reading and mathematics performance declined across the OECD](https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html)
+5. [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
 
 ## 阮一峰网络日志
 
