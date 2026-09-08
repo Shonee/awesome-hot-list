@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 10:30:40
+> 更新时间：2026-09-08 11:25:39
 
 ## 少数派
 
@@ -12,27 +12,27 @@
 
 ## 爱范儿
 
-1. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测](https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测](https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
-1. [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
-2. [GPT-6不只Astra！Sol内测结果曝光，速度快6倍](https://www.qbitai.com/2026/09/485431.html)
-3. [DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布](https://www.qbitai.com/2026/09/485154.html)
-4. [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
-5. [国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%](https://www.qbitai.com/2026/09/485064.html)
+1. [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
+2. [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
+3. [GPT-6不只Astra！Sol内测结果曝光，速度快6倍](https://www.qbitai.com/2026/09/485431.html)
+4. [DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布](https://www.qbitai.com/2026/09/485154.html)
+5. [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
 
 ## InfoQ
 
-1. [OpenClaw 2.0 发布：简化配置，支持智能体协作](https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article)
-2. [HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面](https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article)
-3. [从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海](https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article)
-4. [利用 Workload Identity Federation 清除 GCP 中长期有效的凭据](https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article)
-5. [Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据](https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article)
+1. [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海](https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article)
+2. [Cloudflare 新增可选 OAuth 权限范围，允许开发者标注用户可能拒绝的权限](https://www.infoq.cn/article/pbOsBzL0FljTYdZouj8r?utm_source=rss&utm_medium=article)
+3. [OpenClaw 2.0 发布：简化配置，支持智能体协作](https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article)
+4. [HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面](https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article)
+5. [从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海](https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -54,9 +54,9 @@
 
 1. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
 2. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
-3. [Disconnect your LG television from the internet, now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now)
-4. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-5. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
+3. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+4. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
+5. [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
 
 ## 阮一峰网络日志
 
