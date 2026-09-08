@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-08 09:31:17
+> 更新时间：2026-09-08 10:30:00
 
 ## 最新资讯
 
-1. [CHIIKAWA 正版授权爱玛元宇宙 Oi 电动摩托车上市，3899 元](https://www.ithome.com/0/999/537.htm)
-2. [雷克沙推出 SATA 固态硬盘 NF100，顺序读取至高可达 500MB/s](https://www.ithome.com/0/999/536.htm)
-3. [消息称苹果仍在探索折叠 Mac / iPad，触控键盘成最大挑战](https://www.ithome.com/0/999/535.htm)
-4. [同程、携程、飞猪、去哪儿、美团与 10 家航空公司完成机票超售整改，规则改为必读、明确补偿标准](https://www.ithome.com/0/999/534.htm)
-5. [华境 S 大六座 SUV 累计交付突破 2.5 万台：标配华为乾崑智驾 ADS Pro 增强版，售 15.98 万元起](https://www.ithome.com/0/999/533.htm)
+1. [Arm 发布第二代移动终端计算子系统 CSS for Mobile 2，支持双 SME2 引擎](https://www.ithome.com/0/999/590.htm)
+2. [极氪 7X 全球第 20 万台量产车下线，用时两年](https://www.ithome.com/0/999/588.htm)
+3. [瑞士启动 3000 台电脑迁移试点，900 万法郎推动开源替代微软 M365](https://www.ithome.com/0/999/587.htm)
+4. [天玑 9600/Pro 双芯登场？2026 联发科天玑旗舰新品发布会定档 9 月 15 日](https://www.ithome.com/0/999/586.htm)
+5. [海盗船推出《英雄联盟》三届全球总决赛冠军选手 Gumayusi 联名外设](https://www.ithome.com/0/999/584.htm)

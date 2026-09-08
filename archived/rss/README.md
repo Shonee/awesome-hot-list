@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 09:31:44
+> 更新时间：2026-09-08 10:30:40
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [把千亿模型装进笔记本，Windows 终于要反击 Mac 了](https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常](https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测](https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药](https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花](https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -52,14 +52,14 @@
 
 ## Hacker News
 
-1. [Secure temporary file sharing for AI agents and humans](https://github.com/aispace-sh/aispace-client)
-2. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-3. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
-4. [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
-5. [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+1. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
+2. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+3. [Disconnect your LG television from the internet, now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now)
+4. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+5. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
 
 ## 阮一峰网络日志
 
-1. [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
-2. [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
+1. [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
+2. [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
 3. [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
