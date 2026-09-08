@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 12:25:55
+> 更新时间：2026-09-08 13:23:24
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [A Screensaver for LG's Spying Smart TVs](https://weowntheglass.com)
-2. [Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]](https://www.youtube.com/watch?v=9EuNUe-CJRM)
-3. [Show HN: NYC MapTap – Learn NYC neighborhoods (with subway routes when you miss)](https://albertjoseph0.github.io/nyc-maptap/)
-4. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
-5. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+1. [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
+2. [The VMs Powering Mobile Agents (Instinct, Claude Code)](https://rohanadwankar.github.io/posts/platforms.html)
+3. [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
+4. [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
+5. [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
 
 ## AI News
 

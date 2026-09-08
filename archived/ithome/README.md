@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-08 12:24:58
+> 更新时间：2026-09-08 13:21:42
 
 ## 最新资讯
 
-1. [小米推出米家杀菌足浴器：专利管路杀菌，首发最低 294 元](https://www.ithome.com/0/999/640.htm)
-2. [尼康宣布正在开发九款尼克尔 Z CINEMA T1.9 VV 系列电影镜头](https://www.ithome.com/0/999/639.htm)
-3. [开源媒体服务器 Jellyfin 12.0 发布：原生支持书籍与漫画，启用现代化 UI 界面](https://www.ithome.com/0/999/638.htm)
-4. [比亚迪王传福、奇瑞尹同跃、蔚来李斌、江淮项兴初罕见同台，尹同跃回应“谁是奇瑞最强对手”](https://www.ithome.com/0/999/636.htm)
-5. [Linux 7.3-rc2 发布：工具修复占非驱动补丁约 20%，开发周期恐拉长](https://www.ithome.com/0/999/635.htm)
+1. [安卓最强 2nm 芯片：高通第六代骁龙 8 超级至尊版实物图曝光](https://www.ithome.com/0/999/649.htm)
+2. [尼康 ZR 全画幅相机年内发布 2.00 版本固件更新](https://www.ithome.com/0/999/648.htm)
+3. [小米推出米家扫拖机器人 6 Max 白色系列：水箱版国补价 4799 元起，薄嵌上下水 5099 元起](https://www.ithome.com/0/999/647.htm)
+4. [佳明首款 CIRQA 智能戒指通过多国认证，已列出 10 款关联型号](https://www.ithome.com/0/999/646.htm)
+5. [HKC 神盾 25Q360B 电竞显示器发布：2K 360Hz QD-MiniLED，预售价 1999 元](https://www.ithome.com/0/999/645.htm)
