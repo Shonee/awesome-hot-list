@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 05:18:12
+> 更新时间：2026-09-09 06:19:45
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
-2. [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
-3. [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
-4. [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
-5. [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
+1. [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+2. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+3. [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
+4. [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
+5. [Trey Parker and Matt Stone Are Changing the Name of South Park to South America](https://twitter.com/SouthPark/status/2097364141237539116)
 
 ## AI News
 
