@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-09 02:26:48
+> 更新时间：2026-09-09 03:17:44
 
 ## 热门文章
 
@@ -24,8 +24,8 @@
 18. [AI时代下，Android的边界正在消失](https://juejin.cn/post/7682628131855728675)
 19. [9 月第一周，前端圈又炸了四次](https://juejin.cn/post/7682949323614224390)
 20. [「Flutter 文件保存太难了？」一个插件打通 7 大平台，我把方案开源了 🎉](https://juejin.cn/post/7681952931486957583)
-21. [我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness](https://juejin.cn/post/7682069529204441131)
-22. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
+21. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
+22. [我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness](https://juejin.cn/post/7682069529204441131)
 23. [别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统](https://juejin.cn/post/7682611037704011827)
 24. [GPT-6单价变成2.5倍，写代码却未必更贵](https://juejin.cn/post/7682069529204686891)
 25. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
@@ -38,19 +38,19 @@
 32. [当 Mac mini 的价格不再 mini -- 肘子的 Swift 周报 #152](https://juejin.cn/post/7682670225502208038)
 33. [一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra](https://juejin.cn/post/7681939121792778266)
 34. [模型没换、提示词没动，成功率从不到 70% 干到 95% —— 改的到底是什么](https://juejin.cn/post/7681913265295278106)
-35. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
-36. [从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？](https://juejin.cn/post/7682634449856675867)
-37. [为什么 Android 非要用 Intent 传值？](https://juejin.cn/post/7682633827693838388)
-38. [30 天 AI 编程入门总结：接下来应该学什么](https://juejin.cn/post/7682221754647822382)
-39. [全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。](https://juejin.cn/post/7682190370525970442)
+35. [为什么 Android 非要用 Intent 传值？](https://juejin.cn/post/7682633827693838388)
+36. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
+37. [全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。](https://juejin.cn/post/7682190370525970442)
+38. [从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？](https://juejin.cn/post/7682634449856675867)
+39. [30 天 AI 编程入门总结：接下来应该学什么](https://juejin.cn/post/7682221754647822382)
 40. [从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛](https://juejin.cn/post/7682069529204736043)
-41. [为什么现在越来越多的开源模型，都“毕业“于 Qwen？](https://juejin.cn/post/7682499191234707497)
-42. [学习 FastAPI 的 Day 1：看懂接口与请求流程](https://juejin.cn/post/7682323883429232691)
-43. [零成本搭文档站：VitePress + GitHub Pages 就够了](https://juejin.cn/post/7682024345256624166)
-44. [苹果续费成功，几天后付费协议突然失效，导致线上苹果支付全部失败](https://juejin.cn/post/7681985571749986331)
-45. [产品经理神器：PRD 直接变可点击网页！](https://juejin.cn/post/7681913361723195430)
-46. [2026 AI Agent 开发学习路线：从小白到全栈，这波红利必须抓住！](https://juejin.cn/post/7681733440023347254)
-47. [ClickHouse 表的生老“并”死：表实例、表元数据与并发 DDL](https://juejin.cn/post/7682800396523503625)
-48. [代码我都定位了，Codex 还在考古：于是我写了个 VS Code 插件](https://juejin.cn/post/7682603130694139950)
-49. [Spring Boot多环境配置实战 配置文件加载顺序与切换不再翻车](https://juejin.cn/post/7682221754647625774)
-50. [别吹了，依赖图像识别的GPT‑6 Astra永远快不起来](https://juejin.cn/post/7682013859251863552)
+41. [苹果续费成功，几天后付费协议突然失效，导致线上苹果支付全部失败](https://juejin.cn/post/7681985571749986331)
+42. [代码我都定位了，Codex 还在考古：于是我写了个 VS Code 插件](https://juejin.cn/post/7682603130694139950)
+43. [为什么现在越来越多的开源模型，都“毕业“于 Qwen？](https://juejin.cn/post/7682499191234707497)
+44. [学习 FastAPI 的 Day 1：看懂接口与请求流程](https://juejin.cn/post/7682323883429232691)
+45. [零成本搭文档站：VitePress + GitHub Pages 就够了](https://juejin.cn/post/7682024345256624166)
+46. [产品经理神器：PRD 直接变可点击网页！](https://juejin.cn/post/7681913361723195430)
+47. [GPT-6 Astra 到底强在哪？](https://juejin.cn/post/7681797570143223851)
+48. [2026 AI Agent 开发学习路线：从小白到全栈，这波红利必须抓住！](https://juejin.cn/post/7681733440023347254)
+49. [ClickHouse 表的生老“并”死：表实例、表元数据与并发 DDL](https://juejin.cn/post/7682800396523503625)
+50. [前端转 Agent 开发 · 第三节：LangChain 提示词模板](https://juejin.cn/post/7682253775991603251)

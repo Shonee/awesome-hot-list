@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 02:27:35
+> 更新时间：2026-09-09 03:18:27
 
 ## 少数派
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
-2. [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1)
-3. [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)
-4. [Connecting the Machines](https://herdr.dev/blog/connecting-the-machines/)
-5. [Y Combinator Early Access Network](https://events.ycombinator.com/yc-early-access-fall-26)
-
-## AI News
-
-1. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-2. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
-3. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
-4. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
-5. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
+1. [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
+2. [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
+3. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+4. [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)
+5. [Connecting the Machines](https://herdr.dev/blog/connecting-the-machines/)
 
 ## 阮一峰网络日志
 
