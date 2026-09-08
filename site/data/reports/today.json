@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-08",
-    "generatedAt": "2026-09-08 13:23:46",
-    "summary": "中国女篮20分大胜意大利女篮成为本期综合热度最高的话题，DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药紧随其后。当前覆盖 22 个有效渠道，共形成 465 个榜单时间切片；发现 28 个跨渠道重复热点。",
+    "generatedAt": "2026-09-08 13:30:19",
+    "summary": "中国女篮20分大胜意大利女篮成为本期综合热度最高的话题，DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药紧随其后。当前覆盖 22 个有效渠道，共形成 466 个榜单时间切片；发现 28 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2565,
+        "deduplicated": 2570,
         "resonance": 28,
         "maxRise": 52,
-        "slices": 465,
+        "slices": 466,
         "coverage": 96
     },
     "topTopics": [
@@ -923,7 +923,7 @@
         },
         {
             "word": "Pro",
-            "weight": 63,
+            "weight": 64,
             "tone": "gold",
             "hits": [
                 {
@@ -1029,6 +1029,14 @@
                     "rank": 2,
                     "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
                     "url": "https://www.v2ex.com/t/1239906"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.8 日~9.15 日]",
+                    "url": "https://www.v2ex.com/t/1240245"
                 },
                 {
                     "channelId": "stackoverflow",
@@ -1157,20 +1165,12 @@
                     "rank": 35,
                     "title": "[TQ]megabox pro 晚高峰",
                     "url": "https://www.nodeseek.com/post-917248-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "讨论下,GPT pro20x 如果全蹬 gpt-6-astra的额度到底有多少",
-                    "url": "https://www.nodeseek.com/post-917073-1"
                 }
             ]
         },
         {
             "word": "小米",
-            "weight": 61,
+            "weight": 62,
             "tone": "",
             "hits": [
                 {
@@ -5892,7 +5892,7 @@
         },
         {
             "word": "现在",
-            "weight": 30,
+            "weight": 31,
             "tone": "teal",
             "hits": [
                 {
@@ -5990,6 +5990,14 @@
                     "rank": 8,
                     "title": "现在还适合转码吗？",
                     "url": "https://www.v2ex.com/t/1240090"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "累了 现在一个域名那么贵了吗",
+                    "url": "https://www.v2ex.com/t/1240199"
                 },
                 {
                     "channelId": "nodeseek",
@@ -6126,14 +6134,6 @@
                     "rank": 24,
                     "title": "现在收个鸡好难",
                     "url": "https://www.nodeseek.com/post-918045-1"
-                },
-                {
-                    "channelId": "wechat",
-                    "channelName": "微信文章",
-                    "ranking": "24h 热文榜",
-                    "rank": 25,
-                    "title": "疯了！现在短剧都卷到1000集了：这还叫“短剧”吗？",
-                    "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODc5ODk1Ng==&mid=2247508727&idx=1&sn=77aa2dde490673f07d636579ac25c452#rd"
                 }
             ]
         },
@@ -8545,8 +8545,8 @@
             "00:22",
             "03:17",
             "06:26",
-            "10:30",
-            "13:23"
+            "11:24",
+            "13:29"
         ],
         "rows": [
             {
