@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 18:23:50
+> 更新时间：2026-09-08 19:20:05
 
 ## 少数派
 
-1. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
-2. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
-3. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
-4. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
-5. [派评｜近期值得关注的 App](https://sspai.com/post/114288)
+1. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
+2. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
+3. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+4. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+5. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
 
 ## 爱范儿
 
-1. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测](https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三](https://www.ifanr.com/1676969?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测](https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -44,11 +44,11 @@
 
 ## MIT Technology Review
 
-1. [The Download: the hunt for underground hydrogen and more rogue OpenAI agents](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)
-2. [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
-3. [The Download: selling battlefield drone data and AI reshaping language](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/)
-4. [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/)
-5. [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/)
+1. [This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)
+2. [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)
+3. [This founder is making cheaper, cleaner steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/)
+4. [This geneticist’s age-reversal tech could help restore sight](https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/)
+5. [The Download: the hunt for underground hydrogen and more rogue OpenAI agents](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/)
 
 ## Hacker News
 
@@ -57,6 +57,14 @@
 3. [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
 4. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
 5. [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
+
+## AI News
+
+1. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+2. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
+3. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
+4. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
+5. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
 
 ## 阮一峰网络日志
 
