@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-08 11:25:39
+> 更新时间：2026-09-08 12:25:55
 
 ## 少数派
 
-1. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
-2. [派评｜近期值得关注的 App](https://sspai.com/post/114288)
-3. [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
-4. [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
-5. [派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
+1. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+2. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
+3. [派评｜近期值得关注的 App](https://sspai.com/post/114288)
+4. [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
+5. [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
 
 ## 爱范儿
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
-2. [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
-3. [GPT-6不只Astra！Sol内测结果曝光，速度快6倍](https://www.qbitai.com/2026/09/485431.html)
-4. [DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布](https://www.qbitai.com/2026/09/485154.html)
-5. [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
+1. [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
+2. [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
+3. [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
+4. [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
+5. [GPT-6不只Astra！Sol内测结果曝光，速度快6倍](https://www.qbitai.com/2026/09/485431.html)
 
 ## InfoQ
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
-2. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
-3. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-4. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
-5. [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+1. [A Screensaver for LG's Spying Smart TVs](https://weowntheglass.com)
+2. [Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]](https://www.youtube.com/watch?v=9EuNUe-CJRM)
+3. [Show HN: NYC MapTap – Learn NYC neighborhoods (with subway routes when you miss)](https://albertjoseph0.github.io/nyc-maptap/)
+4. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
+5. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+
+## AI News
+
+1. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
+2. [M&T Bank expands enterprise AI after years of technology overhaul](https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/)
+3. [50.5% of Americans Say AI Romance Can Count as Cheating](https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/)
+4. [OneRail uses Nvidia AI for real-time last-mile delivery optimisation](https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/)
+5. [NVIDIA to acquire Hugging Face for $12.93B](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/)
 
 ## 阮一峰网络日志
 

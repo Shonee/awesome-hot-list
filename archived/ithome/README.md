@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-08 11:25:06
+> 更新时间：2026-09-08 12:24:58
 
 ## 最新资讯
 
-1. [拜雅 MMX 100 wireless、AVENTHO Y 耳机国行上架，9 月 12 日发售](https://www.ithome.com/0/999/624.htm)
-2. [众泰汽车股价涨停，工作人员称计划今年内上新车](https://www.ithome.com/0/999/623.htm)
-3. [联发科官宣天玑旗舰芯首款 Pro 来了：先进制程里程碑式突破、AI 深度融合的 GPU 图形渲染技术等](https://www.ithome.com/0/999/622.htm)
-4. [269 元华为随行 WiFi 5 eSIM 版发售：免插卡开机即联，内置 2400mAh 电池](https://www.ithome.com/0/999/620.htm)
-5. [让 Win11 实现“灵动岛”：Notchify 迄今最大更新，匹配高刷显示器切换 60~240Hz](https://www.ithome.com/0/999/616.htm)
+1. [小米推出米家杀菌足浴器：专利管路杀菌，首发最低 294 元](https://www.ithome.com/0/999/640.htm)
+2. [尼康宣布正在开发九款尼克尔 Z CINEMA T1.9 VV 系列电影镜头](https://www.ithome.com/0/999/639.htm)
+3. [开源媒体服务器 Jellyfin 12.0 发布：原生支持书籍与漫画，启用现代化 UI 界面](https://www.ithome.com/0/999/638.htm)
+4. [比亚迪王传福、奇瑞尹同跃、蔚来李斌、江淮项兴初罕见同台，尹同跃回应“谁是奇瑞最强对手”](https://www.ithome.com/0/999/636.htm)
+5. [Linux 7.3-rc2 发布：工具修复占非驱动补丁约 20%，开发周期恐拉长](https://www.ithome.com/0/999/635.htm)
