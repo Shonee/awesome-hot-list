@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-08 06:26:38
+> 更新时间：2026-09-08 12:33:15
 
 ## 每日趋势
 
@@ -58,14 +58,13 @@
 13. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 14. [modular](https://github.com/modular/modular)
 15. [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
-16. [ai-memory](https://github.com/akitaonrails/ai-memory)
-17. [maka](https://github.com/apache/maka)
-18. [manim](https://github.com/3b1b/manim)
-19. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-20. [public-apis](https://github.com/public-apis/public-apis)
-21. [vphone-cli](https://github.com/Lakr233/vphone-cli)
-22. [code-graph-rag](https://github.com/vitali87/code-graph-rag)
-23. [holehe](https://github.com/megadose/holehe)
+16. [maka](https://github.com/apache/maka)
+17. [manim](https://github.com/3b1b/manim)
+18. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+19. [public-apis](https://github.com/public-apis/public-apis)
+20. [vphone-cli](https://github.com/Lakr233/vphone-cli)
+21. [code-graph-rag](https://github.com/vitali87/code-graph-rag)
+22. [holehe](https://github.com/megadose/holehe)
 
 ## Java
 
