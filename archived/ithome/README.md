@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-09 17:24:32
+> 更新时间：2026-09-09 18:22:13
 
 ## 最新资讯
 
-1. [铁三角首款无线开放式耳机 ATH-AL5NC 发布：53mm 驱动单元，279 美元](https://www.ithome.com/1/000/346.htm)
-2. [宁德时代巧克力换电：2027 年预计将建成 1000 座高速换电站](https://www.ithome.com/1/000/344.htm)
-3. [行业首个开放世界全天候商业交付级具身智能架构，万勋科技发布 NOVA2.0 柔性具身大脑](https://www.ithome.com/1/000/335.htm)
-4. [京东七鲜小厨智能移动餐车亮相服贸会，搭载 3 台炒菜机器人](https://www.ithome.com/1/000/334.htm)
-5. [颂拓推出 Suunto Run 2 智能运动手表：12 通道心率传感器、双频多星定位，2499 元起](https://www.ithome.com/1/000/333.htm)
+1. [联想来酷斗战者 AI NAS 900 系列私有云主机上架：飞牛 fnOS 系统，6999 元起](https://www.ithome.com/1/000/379.htm)
+2. [比亚迪：闪充车型市场订单饱满，第二代刀片电池月产能将逐步爬坡](https://www.ithome.com/1/000/378.htm)
+3. [荣耀 Magic 9 系列手机开启预约，9 月 28 日正式发布](https://www.ithome.com/1/000/376.htm)
+4. [英伟达 DLSS 5 可大幅提升老游戏画面效果，堪比高清重制](https://www.ithome.com/1/000/366.htm)
+5. [芝奇推出皇家戟 X 系列 DDR5 内存模组，支持 AMD EXPO ULL](https://www.ithome.com/1/000/362.htm)
