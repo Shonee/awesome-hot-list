@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-10 06:18:32
+> 更新时间：2026-09-10 07:18:09
 
 ## 热门文章
 
@@ -23,18 +23,18 @@
 17. [初创公司的“自己人”，到底能当多久？](https://juejin.cn/post/7682601317680316416)
 18. [别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统](https://juejin.cn/post/7682611037704011827)
 19. [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987)
-20. [我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness](https://juejin.cn/post/7682069529204441131)
-21. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
-22. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
+20. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
+21. [我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness](https://juejin.cn/post/7682069529204441131)
+22. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
 23. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
 24. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
 25. [栗子前端技术周刊第 145 期 - Remix 3 RC、htmx 4.0、Rslib 1.0...](https://juejin.cn/post/7681959629414400042)
 26. [当 Mac mini 的价格不再 mini -- 肘子的 Swift 周报 #152](https://juejin.cn/post/7682670225502208038)
 27. [为什么现在越来越多的开源模型，都“毕业“于 Qwen？](https://juejin.cn/post/7682499191234707497)
 28. [全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。](https://juejin.cn/post/7682190370525970442)
-29. [从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？](https://juejin.cn/post/7682634449856675867)
-30. [为什么 Android 非要用 Intent 传值？](https://juejin.cn/post/7682633827693838388)
-31. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
+29. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
+30. [从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？](https://juejin.cn/post/7682634449856675867)
+31. [为什么 Android 非要用 Intent 传值？](https://juejin.cn/post/7682633827693838388)
 32. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
 33. [从0到1手撕流式输出：Vue3 + Vite 实现 LLM 流式响应全解析](https://juejin.cn/post/7682987755446353960)
 34. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
