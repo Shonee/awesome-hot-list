@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 00:24:18
+> 更新时间：2026-09-10 01:19:39
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article)
-2. [Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式](https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&utm_medium=article)
-3. [当 Agent 开始写应用，数据库也得换一套打法](https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article)
-4. [面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article)
-5. [jQuery 二十年：一个小小的库如何重塑了 Web 开发](https://www.infoq.cn/article/qqfyJFd6mGXvErcfmyYI?utm_source=rss&utm_medium=article)
+1. [从 Harness 到 Loop 的持续进化](https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article)
+2. [技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article)
+3. [Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式](https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&utm_medium=article)
+4. [当 Agent 开始写应用，数据库也得换一套打法](https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article)
+5. [面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Anthropic Is Building a Predictive Surveillance System to Monitor Activists](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/)
-2. [GNU Radio in the Browser](https://gnuradioworld.com/)
-3. [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
-4. [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
-5. [Planet Labs' Open Satellite Feed](https://tech.marksblogg.com/planet-labs-open-satellite-feed.html)
+1. [Show HN: Rdltr – Inbox zero for your reading list](https://rdltr.app/)
+2. [I rank the open-source AI agents that launched in the last 30 days](https://www.theagenticleaderboard.com/)
+3. [Muse's Social Media Handle Is Stolen by New Meta AI Tool](https://www.realitytea.com/2026/09/09/muse-band-meta-ai-social-media-handle/)
+4. ["Good" AI](https://thoughts.wyounas.com/p/what-does-good-ai-mean)
+5. [Defining AI Psychosis. Part 2: "Prolific AI Psychosis"](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
 
 ## AI News
 
