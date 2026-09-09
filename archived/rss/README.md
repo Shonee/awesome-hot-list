@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 12:26:00
+> 更新时间：2026-09-09 13:22:06
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
-2. [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
-3. [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
-4. [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
-5. [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
+1. [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
+2. [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
+3. [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
+4. [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
+5. [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
 
 ## InfoQ
 
@@ -52,7 +52,7 @@
 
 ## Hacker News
 
-1. [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
+1. [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
 2. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
 3. [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
 4. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
