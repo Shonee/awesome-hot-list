@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 23:21:33
+> 更新时间：2026-09-10 00:24:18
 
 ## 少数派
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)
-2. [The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years](https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html)
-3. [Playing whack-a-mole is losing](https://dadrian.io/blog/posts/whack-a-mole-is-losing/)
-4. [What will our economic future look like?](https://www.anthropic.com/institute/econ-scenarios)
-5. [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+1. [Anthropic Is Building a Predictive Surveillance System to Monitor Activists](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/)
+2. [GNU Radio in the Browser](https://gnuradioworld.com/)
+3. [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
+4. [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
+5. [Planet Labs' Open Satellite Feed](https://tech.marksblogg.com/planet-labs-open-satellite-feed.html)
+
+## AI News
+
+1. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+2. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+3. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+4. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+5. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
 
 ## 阮一峰网络日志
 
