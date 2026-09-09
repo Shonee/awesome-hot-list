@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 02:27:00
+> 更新时间：2026-09-10 03:17:39
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
-2. [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
-3. [Apple Introduces AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
-4. [Apple debuts iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
-5. [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
+1. [Apple Watch Ultra 4](https://www.apple.com/apple-watch-ultra-4/)
+2. [Apple Unveils iPhone Duo](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)
+3. [iPhone Duo](https://www.apple.com/iphone-duo/)
+4. [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
+5. [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
 
 ## 阮一峰网络日志
 

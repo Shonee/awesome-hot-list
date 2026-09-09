@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-10 02:26:18
+> 更新时间：2026-09-10 03:16:58
 
 ## 热门文章
 
@@ -24,8 +24,8 @@
 18. [别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统](https://juejin.cn/post/7682611037704011827)
 19. [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987)
 20. [我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness](https://juejin.cn/post/7682069529204441131)
-21. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
-22. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
+21. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
+22. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
 23. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
 24. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
 25. [栗子前端技术周刊第 145 期 - Remix 3 RC、htmx 4.0、Rslib 1.0...](https://juejin.cn/post/7681959629414400042)
