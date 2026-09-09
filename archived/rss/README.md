@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 13:22:06
+> 更新时间：2026-09-09 14:36:52
 
 ## 少数派
 
@@ -20,19 +20,19 @@
 
 ## 量子位
 
-1. [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
-2. [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
-3. [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
-4. [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
-5. [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
+1. [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
+2. [具身机器人能搞定超市盘点吗？全球七万门店正在给出答案](https://www.qbitai.com/2026/09/486280.html)
+3. [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
+4. [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
+5. [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
 
 ## InfoQ
 
-1. [招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%](https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&utm_medium=article)
-2. [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
-3. [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
-4. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
-5. [Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求](https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article)
+1. [如何在人工智能时代开展严谨且可持续的人工审核](https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z?utm_source=rss&utm_medium=article)
+2. [招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%](https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&utm_medium=article)
+3. [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
+4. [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
+5. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
-2. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
-3. [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
-4. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-5. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+1. [The Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
+2. [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
+3. [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
+4. [The Nonfiction Book Market is Collapsing?](https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing)
+5. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
 
 ## 阮一峰网络日志
 
