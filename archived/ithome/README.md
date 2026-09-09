@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-09 15:25:14
+> 更新时间：2026-09-09 16:28:36
 
 ## 最新资讯
 
-1. [脉脉 CEO 林凡：明年科技公司将只招 AI 人才，白领绝大部分工作都可以用 Coding Agent 实现](https://www.ithome.com/1/000/237.htm)
-2. [欧盟维修标签实施满 1 年：2334 款新手机 82％未提供合规维修信息](https://www.ithome.com/1/000/231.htm)
-3. [DeepSeek 计划 9 月 10 日前后发布 V4.1 Flash 模型，各项指标全面超越 V4 Pro](https://www.ithome.com/1/000/222.htm)
-4. [三星电子开设日本横滨先进封装实验室，项目投资 3500 亿韩元](https://www.ithome.com/1/000/216.htm)
-5. [Steam 成就暗示：《王国之心 4》有望加入《星球大战》等多个新世界](https://www.ithome.com/1/000/211.htm)
+1. [向世界纪录全速进发，我国自研世界最大直径高铁盾构机穿越长江后二次始发](https://www.ithome.com/1/000/301.htm)
+2. [路虎揽胜全球产品与服务营销总监：我们的重点在利润率而非销量，不惧中国对手竞争](https://www.ithome.com/1/000/299.htm)
+3. [古尔曼：苹果 Apple Watch Series 12/Ultra 4 可自动记录用户每日活动并生成摘要](https://www.ithome.com/1/000/293.htm)
+4. [德国政府计划对加密货币收益征收 25% 税款](https://www.ithome.com/1/000/288.htm)
+5. [蔚来李斌内部讲话曝光：明年会有重量级新车，未来 3 年聚焦主业、高端、核心市场](https://www.ithome.com/1/000/286.htm)

@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 15:25:49
+> 更新时间：2026-09-09 16:29:04
 
 ## 少数派
 
-1. [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
-2. [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
-3. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
-4. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
-5. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+1. [华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
+2. [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
+3. [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
+4. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
+5. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
 
 ## 爱范儿
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [ApsaraMQ × IBM Confluent 实时数据沙龙](https://www.infoq.cn/video/4Bm4yEmkFQiB8hEcmMmW?utm_source=rss&utm_medium=article)
-2. [70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超过4人就“毕业”](https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z?utm_source=rss&utm_medium=article)
-3. [如何在人工智能时代开展严谨且可持续的人工审核](https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z?utm_source=rss&utm_medium=article)
-4. [招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%](https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&utm_medium=article)
-5. [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
+1. [百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”](https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx?utm_source=rss&utm_medium=article)
+2. [“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团](https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article)
+3. [火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式](https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm?utm_source=rss&utm_medium=article)
+4. [pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度](https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article)
+5. [ApsaraMQ × IBM Confluent 实时数据沙龙](https://www.infoq.cn/video/4Bm4yEmkFQiB8hEcmMmW?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,10 +52,10 @@
 
 ## Hacker News
 
-1. [Trying](https://gwern.net/on-really-trying)
-2. [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
-3. ["Tweet" and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
-4. [The Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
+1. [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
+2. [On Really Trying (2009)](https://gwern.net/on-really-trying)
+3. [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
+4. [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
 5. [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
 
 ## 阮一峰网络日志
