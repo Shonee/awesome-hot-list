@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 14:36:52
+> 更新时间：2026-09-09 15:25:49
 
 ## 少数派
 
@@ -28,19 +28,19 @@
 
 ## InfoQ
 
-1. [如何在人工智能时代开展严谨且可持续的人工审核](https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z?utm_source=rss&utm_medium=article)
-2. [招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%](https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&utm_medium=article)
-3. [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
-4. [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
-5. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
+1. [ApsaraMQ × IBM Confluent 实时数据沙龙](https://www.infoq.cn/video/4Bm4yEmkFQiB8hEcmMmW?utm_source=rss&utm_medium=article)
+2. [70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超过4人就“毕业”](https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z?utm_source=rss&utm_medium=article)
+3. [如何在人工智能时代开展严谨且可持续的人工审核](https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z?utm_source=rss&utm_medium=article)
+4. [招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%](https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&utm_medium=article)
+5. [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
-2. [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
-3. [单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单](http://www.geekpark.net/news/370006)
-4. [传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
-5. [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
+1. [千问办公发布多人工作台，重写企业软件的最后一公里](http://www.geekpark.net/news/370061)
+2. [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
+3. [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
+4. [单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单](http://www.geekpark.net/news/370006)
+5. [传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
 
 ## MIT Technology Review
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [The Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
-2. [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
-3. [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
-4. [The Nonfiction Book Market is Collapsing?](https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing)
-5. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+1. [Trying](https://gwern.net/on-really-trying)
+2. [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
+3. ["Tweet" and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
+4. [The Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
+5. [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
 
 ## 阮一峰网络日志
 

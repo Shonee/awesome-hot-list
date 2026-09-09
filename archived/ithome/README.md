@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-09 14:36:19
+> 更新时间：2026-09-09 15:25:14
 
 ## 最新资讯
 
-1. [鸿蒙智行：智界 V9 连续两个月获 MPV 市场销量第一](https://www.ithome.com/1/000/186.htm)
-2. [苹果首款折叠 iPhone Duo 研发史：库克亲自推动，挑战折痕等 4 大难题](https://www.ithome.com/1/000/185.htm)
-3. [万丽推出全域智能生态 MIE，支持语音智控显卡等硬件](https://www.ithome.com/1/000/184.htm)
-4. [奥之心发布复古无反相机 PEN 及 14-42mm F3.5-5.6 III 镜头：2040 万像素内置 EVF，单机身 999 美元](https://www.ithome.com/1/000/183.htm)
-5. [WPS 挣钱京东花：WPS 京东 PLUS 联合会员补贴加码，低至 62 元 / 年](https://www.ithome.com/1/000/182.htm)
+1. [脉脉 CEO 林凡：明年科技公司将只招 AI 人才，白领绝大部分工作都可以用 Coding Agent 实现](https://www.ithome.com/1/000/237.htm)
+2. [欧盟维修标签实施满 1 年：2334 款新手机 82％未提供合规维修信息](https://www.ithome.com/1/000/231.htm)
+3. [DeepSeek 计划 9 月 10 日前后发布 V4.1 Flash 模型，各项指标全面超越 V4 Pro](https://www.ithome.com/1/000/222.htm)
+4. [三星电子开设日本横滨先进封装实验室，项目投资 3500 亿韩元](https://www.ithome.com/1/000/216.htm)
+5. [Steam 成就暗示：《王国之心 4》有望加入《星球大战》等多个新世界](https://www.ithome.com/1/000/211.htm)
