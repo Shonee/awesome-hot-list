@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-09-10 05:17:34
+> 更新时间：2026-09-10 06:18:40
 
 ## 日榜
 
@@ -18,8 +18,8 @@
 12. [【成为标本的诗句】一场限时的相遇，把心动封进不朽诗句里。](https://www.acfun.cn/v/ac48835330)
 13. [宝！看看我的新大宝贝，包大的](https://www.acfun.cn/v/ac48836245)
 14. [交通事故20260909：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48836494)
-15. [蕾米埃尔是天使](https://www.acfun.cn/v/ac48834387)
-16. [【奧雷】黑白颠倒几时休？聊聊即将踏入神坛的董天宝！](https://www.acfun.cn/v/ac48837005)
+15. [【奧雷】黑白颠倒几时休？聊聊即将踏入神坛的董天宝！](https://www.acfun.cn/v/ac48837005)
+16. [蕾米埃尔是天使](https://www.acfun.cn/v/ac48834387)
 17. [【夏雅】阿格莱雅的闺蜜团看了笑三年](https://www.acfun.cn/v/ac48836890)
 18. [饭店大厨在熟食厂做一道嘎嘎下饭的肉段烧茄子，把老板娘又香懵了](https://www.acfun.cn/v/ac48836780)
 19. [旗袍妹妹真好看](https://www.acfun.cn/v/ac48832635)
@@ -40,9 +40,9 @@
 34. [Steam秋促偷跑？G胖提前背刺！多款3A逆天新史低，还有独立游戏神作低价清仓，等等党赢麻了](https://www.acfun.cn/v/ac48836020)
 35. [【燕返】鬼武者剑之道 鬼族的武士](https://www.acfun.cn/v/ac48835835)
 36. [《时之笛》重制版11月5日发售！塞尔达传说40周年直面会整理](https://www.acfun.cn/v/ac48834993)
-37. [2026年9月，俄军全天候打击摧毁乌全境90%现代仓储以及港口能源电力设施](https://www.acfun.cn/v/ac48834924)
-38. [【櫻坂46字幕组】2026.8.30「转角就是櫻坂吗？」EP300 小田倉麗奈直言不讳！](https://www.acfun.cn/v/ac48836689)
-39. [IVE 巡演香港场 IVE 张元英《EIGHT》个人SOLO舞台](https://www.acfun.cn/v/ac48836181)
+37. [IVE 巡演香港场 IVE 张元英《EIGHT》个人SOLO舞台](https://www.acfun.cn/v/ac48836181)
+38. [2026年9月，俄军全天候打击摧毁乌全境90%现代仓储以及港口能源电力设施](https://www.acfun.cn/v/ac48834924)
+39. [【櫻坂46字幕组】2026.8.30「转角就是櫻坂吗？」EP300 小田倉麗奈直言不讳！](https://www.acfun.cn/v/ac48836689)
 40. [蛇蛇大王_2026-09-08](https://www.acfun.cn/v/ac48835544)
 41. [开局就嘲讽可还行](https://www.acfun.cn/v/ac48827433)
 42. [皇冠80人口完美组合到底有多恐怖？魔兽争霸xiaoy解说sok lawliet](https://www.acfun.cn/v/ac48835395)
@@ -50,10 +50,10 @@
 44. [日语生第一次学韩语现状](https://www.acfun.cn/v/ac48834511)
 45. [메이뮤의 포근한 겨울 감성 무드 ️ | Winter Knit Look | Maymew](https://www.acfun.cn/v/ac48835401)
 46. [PLAY BACK-绝不重蹈覆辙](https://www.acfun.cn/v/ac48835611)
-47. [【绝望女神】【独立恐怖游戏 深夜照相馆】](https://www.acfun.cn/v/ac48825963)
-48. [你的辣丽萨！LISA - SaWaDiKa 4K版MV](https://www.acfun.cn/v/ac48836216)
-49. [虫姬Arrange模式真Aki练习](https://www.acfun.cn/v/ac48834800)
-50. [这个时候最烫了](https://www.acfun.cn/v/ac48835086)
+47. [极限竞速地平线6：即便大雾弥漫，三菱EVO依旧当仁不让](https://www.acfun.cn/v/ac48834983)
+48. [【绝望女神】【独立恐怖游戏 深夜照相馆】](https://www.acfun.cn/v/ac48825963)
+49. [你的辣丽萨！LISA - SaWaDiKa 4K版MV](https://www.acfun.cn/v/ac48836216)
+50. [虫姬Arrange模式真Aki练习](https://www.acfun.cn/v/ac48834800)
 
 ## 三日榜
 
@@ -73,9 +73,9 @@
 14. [心动的感觉！！！★手机竖屏1998★](https://www.acfun.cn/v/ac48834582)
 15. [睁眼看世界！！！★手机竖屏1997★](https://www.acfun.cn/v/ac48832296)
 16. [夹夹摇](https://www.acfun.cn/v/ac48830317)
-17. [网络上常见的热门短视频集锦   第三千四百一十七期](https://www.acfun.cn/v/ac48834583)
-18. [【原创曲】沉曦](https://www.acfun.cn/v/ac48834299)
-19. [录舞现场发来捷报](https://www.acfun.cn/v/ac48834504)
+17. [录舞现场发来捷报](https://www.acfun.cn/v/ac48834504)
+18. [网络上常见的热门短视频集锦   第三千四百一十七期](https://www.acfun.cn/v/ac48834583)
+19. [【原创曲】沉曦](https://www.acfun.cn/v/ac48834299)
 20. [我真的只是来吃饭的！欢乐八点档-1767](https://www.acfun.cn/v/ac48836161)
 21. [网络上常见的热门短视频集锦   第三千四百一十四期](https://www.acfun.cn/v/ac48831006)
 22. [没有这部电影，就没有昆汀的《杀死比尔》！结合漫画解说《修罗雪姬》](https://www.acfun.cn/v/ac48831065)
@@ -93,9 +93,9 @@
 34. [我也要死吗？](https://www.acfun.cn/v/ac48832223)
 35. [【柯基】《北京的金山上》](https://www.acfun.cn/v/ac48834961)
 36. [MOON](https://www.acfun.cn/v/ac48830227)
-37. [学功夫~练武术！何仙姑or无心昌？](https://www.acfun.cn/v/ac48832263)
-38. [要的就是蜘蛛侠](https://www.acfun.cn/v/ac48833363)
-39. [疯狂中国鸭：假鸭肉的成本可能比真鸭肉还高](https://www.acfun.cn/v/ac48835410)
+37. [疯狂中国鸭：假鸭肉的成本可能比真鸭肉还高](https://www.acfun.cn/v/ac48835410)
+38. [学功夫~练武术！何仙姑or无心昌？](https://www.acfun.cn/v/ac48832263)
+39. [要的就是蜘蛛侠](https://www.acfun.cn/v/ac48833363)
 40. [妈妈结婚了吗？【今天有什么好笑的 #2501】](https://www.acfun.cn/v/ac48836055)
 41. [【成为标本的诗句】一场限时的相遇，把心动封进不朽诗句里。](https://www.acfun.cn/v/ac48835330)
 42. [你来我往的高分对局！快速看完一局韩服王者斗殴局#823 Guardian, Lucy , Clear](https://www.acfun.cn/v/ac48827909)
@@ -120,8 +120,8 @@
 8. [《Do you love 咪？》](https://www.acfun.cn/v/ac48825601)
 9. [求你别离开我](https://www.acfun.cn/v/ac48834352)
 10. [呼吁封禁蒂法？业界毒瘤重现！Sweetbaby又出来搞事了](https://www.acfun.cn/v/ac48828100)
-11. [韵味姐姐~迷人短发-AOA-Short Hair【巫小萤】](https://www.acfun.cn/v/ac48829811)
-12. [【生日作】OL姐姐的 恋爱的条件「雪一」](https://www.acfun.cn/v/ac48836597)
+11. [【生日作】OL姐姐的 恋爱的条件「雪一」](https://www.acfun.cn/v/ac48836597)
+12. [韵味姐姐~迷人短发-AOA-Short Hair【巫小萤】](https://www.acfun.cn/v/ac48829811)
 13. [好想去车展啊！！！★手机竖屏1993★](https://www.acfun.cn/v/ac48824041)
 14. [《动物迷惑行为大赏323》](https://www.acfun.cn/v/ac48827862)
 15. [这个也是真心喜欢！★手机竖屏1995★](https://www.acfun.cn/v/ac48828307)
