@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 21:21:45
+> 更新时间：2026-09-09 22:22:07
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Teen reading slumps to worst this century due to surge in screen time](https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html)
-2. [Roame (YC S23) Is Hiring Viral Content Editor](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor)
-3. [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
-4. [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
-5. [DeepSeek launching v4.1 flash cheaper and more capable than v4 pro](https://news.ycombinator.com/item?id=49624603)
+1. [Ask HN: Anyone still coding like 2021? Where do you work?](https://news.ycombinator.com/item?id=49626431)
+2. [Playing whack-a-mole is losing](https://dadrian.io/blog/posts/whack-a-mole-is-losing/)
+3. [Do people prefer stories written by AI?](https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai)
+4. [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+5. [One woman's Tesla was remotely controlled by an abusive ex-partner](https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb)
 
 ## 阮一峰网络日志
 
