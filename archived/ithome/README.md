@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-09 22:21:32
+> 更新时间：2026-09-09 23:20:54
 
 ## 最新资讯
 
-1. [开发者将《GTA5》移植到安卓平台，骁龙 865 以上 CPU、8GB 以上内存可玩](https://www.ithome.com/1/000/467.htm)
-2. [《星球大战》系列明年将迎 50 周年庆：原版以 IMAX 格式重映，新作随后登上大银幕](https://www.ithome.com/1/000/466.htm)
-3. [日产 8 月暴跌 51.9%，与丰田、本田三家在华新车销量连续 5 个月同比下滑](https://www.ithome.com/1/000/465.htm)
-4. [本不该到地球的高能光子违反现有物理定律，科学家找到解释](https://www.ithome.com/1/000/459.htm)
-5. [珠海冠宇“认领”小米 18 Fold 中折叠手机电芯](https://www.ithome.com/1/000/457.htm)
+1. [任天堂新作《星之卡比跃然世界》公开，明年春季登陆 Switch 2](https://www.ithome.com/1/000/484.htm)
+2. [《女神异闻录 6》确认将登陆任天堂 Switch 2](https://www.ithome.com/1/000/483.htm)
+3. [游戏《女神异闻录４ Revival》官宣 2027 年 5 月 20 日登陆任天堂 Switch 2](https://www.ithome.com/1/000/482.htm)
+4. [《马力欧卡丁车世界》今日推送免费更新，新增 10 条 SNES 经典赛道](https://www.ithome.com/1/000/481.htm)
+5. [长城坦克品牌 CEO 谷玉坤预告新车坦克 700 GF：代表“坚定的信仰”，定位旗舰](https://www.ithome.com/1/000/480.htm)

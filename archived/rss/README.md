@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 22:22:07
+> 更新时间：2026-09-09 23:21:33
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Ask HN: Anyone still coding like 2021? Where do you work?](https://news.ycombinator.com/item?id=49626431)
-2. [Playing whack-a-mole is losing](https://dadrian.io/blog/posts/whack-a-mole-is-losing/)
-3. [Do people prefer stories written by AI?](https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai)
-4. [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
-5. [One woman's Tesla was remotely controlled by an abusive ex-partner](https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb)
+1. [Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)
+2. [The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years](https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html)
+3. [Playing whack-a-mole is losing](https://dadrian.io/blog/posts/whack-a-mole-is-losing/)
+4. [What will our economic future look like?](https://www.anthropic.com/institute/econ-scenarios)
+5. [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
 
 ## 阮一峰网络日志
 
