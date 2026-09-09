@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-09 22:30:54
+> 更新时间：2026-09-10 05:26:44
 
 ## 每日趋势
 
@@ -82,14 +82,13 @@
 11. [Wukong-AICRM](https://github.com/WuKongOpenSource/Wukong-AICRM)
 12. [jimureport](https://github.com/jeecgboot/jimureport)
 13. [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)
-14. [shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
-15. [hadoop](https://github.com/apache/hadoop)
-16. [intellij-community](https://github.com/JetBrains/intellij-community)
-17. [freerouting](https://github.com/freerouting/freerouting)
-18. [markor](https://github.com/gsantner/markor)
-19. [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-20. [thingsboard](https://github.com/thingsboard/thingsboard)
-21. [langchain4j](https://github.com/langchain4j/langchain4j)
+14. [hadoop](https://github.com/apache/hadoop)
+15. [intellij-community](https://github.com/JetBrains/intellij-community)
+16. [freerouting](https://github.com/freerouting/freerouting)
+17. [markor](https://github.com/gsantner/markor)
+18. [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+19. [thingsboard](https://github.com/thingsboard/thingsboard)
+20. [langchain4j](https://github.com/langchain4j/langchain4j)
 
 ## Python
 
@@ -122,21 +121,20 @@
 1. [WeKnora](https://github.com/Tencent/WeKnora)
 2. [ollama](https://github.com/ollama/ollama)
 3. [caveman](https://github.com/JuliusBrussee/caveman)
-4. [httpsms](https://github.com/NdoleStudio/httpsms)
-5. [semantic-router](https://github.com/vllm-project/semantic-router)
-6. [new-api](https://github.com/QuantumNous/new-api)
-7. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-8. [bifrost](https://github.com/maximhq/bifrost)
-9. [cilium](https://github.com/cilium/cilium)
-10. [LocalAI](https://github.com/mudler/LocalAI)
-11. [netbird](https://github.com/netbirdio/netbird)
-12. [nebula](https://github.com/slackhq/nebula)
-13. [Xray-core](https://github.com/XTLS/Xray-core)
-14. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
-15. [3x-ui](https://github.com/MHSanaei/3x-ui)
-16. [beszel](https://github.com/henrygd/beszel)
-17. [pentagi](https://github.com/vxcontrol/pentagi)
-18. [ipatool](https://github.com/majd/ipatool)
+4. [semantic-router](https://github.com/vllm-project/semantic-router)
+5. [new-api](https://github.com/QuantumNous/new-api)
+6. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
+7. [bifrost](https://github.com/maximhq/bifrost)
+8. [cilium](https://github.com/cilium/cilium)
+9. [LocalAI](https://github.com/mudler/LocalAI)
+10. [netbird](https://github.com/netbirdio/netbird)
+11. [nebula](https://github.com/slackhq/nebula)
+12. [Xray-core](https://github.com/XTLS/Xray-core)
+13. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
+14. [3x-ui](https://github.com/MHSanaei/3x-ui)
+15. [beszel](https://github.com/henrygd/beszel)
+16. [pentagi](https://github.com/vxcontrol/pentagi)
+17. [ipatool](https://github.com/majd/ipatool)
 
 ## HTML
 
