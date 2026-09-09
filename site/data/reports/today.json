@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-09",
-    "generatedAt": "2026-09-09 22:22:59",
-    "summary": "香港首任特首董建华逝世成为本期综合热度最高的话题，我国进出口连续4个月呈两位数增长紧随其后。当前覆盖 22 个有效渠道，共形成 761 个榜单时间切片；发现 46 个跨渠道重复热点。",
+    "generatedAt": "2026-09-09 22:31:48",
+    "summary": "香港首任特首董建华逝世成为本期综合热度最高的话题，我国进出口连续4个月呈两位数增长紧随其后。当前覆盖 22 个有效渠道，共形成 769 个榜单时间切片；发现 46 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3886,
+        "deduplicated": 3922,
         "resonance": 46,
         "maxRise": 97,
-        "slices": 761,
+        "slices": 769,
         "coverage": 96
     },
     "topTopics": [
@@ -565,7 +565,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 245,
+            "weight": 253,
             "tone": "hot",
             "hits": [
                 {
@@ -1306,7 +1306,7 @@
         },
         {
             "word": "Pro",
-            "weight": 109,
+            "weight": 110,
             "tone": "",
             "hits": [
                 {
@@ -1382,6 +1382,14 @@
                     "url": "https://github.com/f/prompts.chat"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 15,
+                    "title": "system_prompts_leaks",
+                    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -1540,20 +1548,12 @@
                     "rank": 50,
                     "title": "New in type script Playwright I am not able to get proper psot method respoce",
                     "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "How do I automatically approve \"low risk\" Github Copilot commands in VS Code?",
-                    "url": "https://stackoverflow.com/questions/80001736/how-do-i-automatically-approve-low-risk-github-copilot-commands-in-vs-code"
                 }
             ]
         },
         {
             "word": "pro",
-            "weight": 109,
+            "weight": 110,
             "tone": "hot",
             "hits": [
                 {
@@ -1629,6 +1629,14 @@
                     "url": "https://github.com/f/prompts.chat"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 15,
+                    "title": "system_prompts_leaks",
+                    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -1787,14 +1795,6 @@
                     "rank": 50,
                     "title": "New in type script Playwright I am not able to get proper psot method respoce",
                     "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "How do I automatically approve \"low risk\" Github Copilot commands in VS Code?",
-                    "url": "https://stackoverflow.com/questions/80001736/how-do-i-automatically-approve-low-risk-github-copilot-commands-in-vs-code"
                 }
             ]
         },
@@ -4721,6 +4721,14 @@
                     "url": "https://github.com/liquidslr/system-design-notes"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 6,
+                    "title": "diagram-design",
+                    "url": "https://github.com/cathrynlavery/diagram-design"
+                },
+                {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "虎扑热榜",
@@ -4751,14 +4759,6 @@
                     "rank": 3,
                     "title": "WAN optimization configuration",
                     "url": "https://stackoverflow.com/questions/80001691/wan-optimization-configuration"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 27,
-                    "title": "TriggerDagRunOperator fails with a 404 \"Dag run with run_id: 'manual__2026-09-08T02:35:00+00:00' not found\"",
-                    "url": "https://stackoverflow.com/questions/80001575/triggerdagrunoperator-fails-with-a-404-dag-run-with-run-id-manual-2026-09-08"
                 }
             ]
         },
@@ -6314,248 +6314,9 @@
                     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 3,
-                    "title": "GPT - 6 Astra 的使用焚诀",
-                    "url": "https://juejin.cn/post/7682634449856217115"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 15,
-                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-                    "url": "https://juejin.cn/post/7681733440023183414"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 26,
-                    "title": "GPT-6单价变成2.5倍，写代码却未必更贵",
-                    "url": "https://juejin.cn/post/7682069529204686891"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 27,
-                    "title": "实测GPT-6 Astra后，我发现过去十年的专业门槛正在失效",
-                    "url": "https://juejin.cn/post/7682698191627911211"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 30,
-                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
-                    "url": "https://juejin.cn/post/7682241475045687339"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 32,
-                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
-                    "url": "https://juejin.cn/post/7681939121792778266"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 33,
-                    "title": "用 GPT-6-Astra，先检查这几个设置",
-                    "url": "https://juejin.cn/post/7681861285420285998"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 36,
-                    "title": "从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？",
-                    "url": "https://juejin.cn/post/7682634449856675867"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 50,
-                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
-                    "url": "https://juejin.cn/post/7682013859251863552"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "GPT-6 Astra 到底强在哪？",
-                    "url": "https://juejin.cn/post/7681797570143223851"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 50,
-                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
-                    "url": "https://juejin.cn/post/7683072481465057323"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
-                    "url": "https://www.ithome.com/0/999/945.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图",
-                    "url": "https://www.ithome.com/0/999/956.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 4,
-                    "title": "刚刚，GPT-6 Astra登顶了",
-                    "url": "https://www.36kr.com/p/3974129339101704"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 6,
-                    "title": "刚刚，GPT-6 Astra   “鲨死了”所有验证码",
-                    "url": "https://www.36kr.com/p/3973910125457667"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 16,
-                    "title": "清华博士做具身大脑拿下九轮融资，他说机器人行业不存在所谓ChatGPT时刻｜硬氪专访",
-                    "url": "https://www.36kr.com/p/3973012275785986"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 40,
-                    "title": "感谢用GPT-6搓3D的，燃烧自己的token换来一次全体重置",
-                    "url": "https://www.36kr.com/p/3974411327566338"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 50,
-                    "title": "他让GPT-6管GPT-6，一周搭出曼哈顿",
-                    "url": "https://www.36kr.com/p/3974607913152775"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 31,
-                    "title": "刚刚，GPT-Image-2.5发布",
-                    "url": "https://www.36kr.com/p/3975317790273801"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 46,
-                    "title": "实测GPT-6很强，但被吹过头了",
-                    "url": "https://www.36kr.com/p/3974698698830341"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 38,
-                    "title": "GPT-6 击穿 48 道地狱级验证码，最聪明的 AI，遇上最笨的人类",
-                    "url": "https://www.36kr.com/p/3975337099227397"
-                }
-            ]
-        },
-        {
-            "word": "gpt",
-            "weight": 99,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 3,
-                    "title": "GPT Images2.5发布",
-                    "url": "https://search.bilibili.com/all?keyword=GPT%20Images2.5%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 3,
-                    "title": "GPT6通关我不是机器人小游戏测试",
-                    "url": "https://search.bilibili.com/all?keyword=GPT6%E9%80%9A%E5%85%B3%E6%88%91%E4%B8%8D%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E6%B8%B8%E6%88%8F%E6%B5%8B%E8%AF%95"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 44,
-                    "title": "GPT6给我搭建了一座魔法城堡",
-                    "url": "https://s.weibo.com/weibo?q=GPT6%E7%BB%99%E6%88%91%E6%90%AD%E5%BB%BA%E4%BA%86%E4%B8%80%E5%BA%A7%E9%AD%94%E6%B3%95%E5%9F%8E%E5%A0%A1&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 24,
-                    "title": "如何评价 AA 推出 V4.2 评分标准，GPT-6 分数超过 Muse Spark 1.3？",
-                    "url": "https://www.zhihu.com/question/2079499882709233769"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 14,
-                    "title": "如何评价 GPT6 在 Blender 建模的水平两极分化？",
-                    "url": "https://www.zhihu.com/question/2079875098979448454"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 2,
-                    "title": "都说 GPT-6-Astra 强，有没有实际点的应用案例？",
-                    "url": "https://www.zhihu.com/question/2080482298223399865"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 13,
-                    "title": "GPT image 2.5 发布，如何评价这一模型？",
-                    "url": "https://www.zhihu.com/question/2080851669617734486"
-                },
-                {
                     "channelId": "github",
                     "channelName": "GitHub",
-                    "ranking": "每月趋势",
+                    "ranking": "每日趋势",
                     "rank": 10,
                     "title": "awesome-gpt-image-2",
                     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
@@ -6727,14 +6488,253 @@
                     "rank": 46,
                     "title": "实测GPT-6很强，但被吹过头了",
                     "url": "https://www.36kr.com/p/3974698698830341"
+                }
+            ]
+        },
+        {
+            "word": "gpt",
+            "weight": 99,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 3,
+                    "title": "GPT Images2.5发布",
+                    "url": "https://search.bilibili.com/all?keyword=GPT%20Images2.5%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 3,
+                    "title": "GPT6通关我不是机器人小游戏测试",
+                    "url": "https://search.bilibili.com/all?keyword=GPT6%E9%80%9A%E5%85%B3%E6%88%91%E4%B8%8D%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E6%B8%B8%E6%88%8F%E6%B5%8B%E8%AF%95"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 44,
+                    "title": "GPT6给我搭建了一座魔法城堡",
+                    "url": "https://s.weibo.com/weibo?q=GPT6%E7%BB%99%E6%88%91%E6%90%AD%E5%BB%BA%E4%BA%86%E4%B8%80%E5%BA%A7%E9%AD%94%E6%B3%95%E5%9F%8E%E5%A0%A1&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 24,
+                    "title": "如何评价 AA 推出 V4.2 评分标准，GPT-6 分数超过 Muse Spark 1.3？",
+                    "url": "https://www.zhihu.com/question/2079499882709233769"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 14,
+                    "title": "如何评价 GPT6 在 Blender 建模的水平两极分化？",
+                    "url": "https://www.zhihu.com/question/2079875098979448454"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 2,
+                    "title": "都说 GPT-6-Astra 强，有没有实际点的应用案例？",
+                    "url": "https://www.zhihu.com/question/2080482298223399865"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 13,
+                    "title": "GPT image 2.5 发布，如何评价这一模型？",
+                    "url": "https://www.zhihu.com/question/2080851669617734486"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 10,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 10,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 3,
+                    "title": "GPT - 6 Astra 的使用焚诀",
+                    "url": "https://juejin.cn/post/7682634449856217115"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 15,
+                    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+                    "url": "https://juejin.cn/post/7681733440023183414"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 26,
+                    "title": "GPT-6单价变成2.5倍，写代码却未必更贵",
+                    "url": "https://juejin.cn/post/7682069529204686891"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 27,
+                    "title": "实测GPT-6 Astra后，我发现过去十年的专业门槛正在失效",
+                    "url": "https://juejin.cn/post/7682698191627911211"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 30,
+                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
+                    "url": "https://juejin.cn/post/7682241475045687339"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "一次面试让我重新认识了 Codex，顺便搞懂了 GPT-6 Astra",
+                    "url": "https://juejin.cn/post/7681939121792778266"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 33,
+                    "title": "用 GPT-6-Astra，先检查这几个设置",
+                    "url": "https://juejin.cn/post/7681861285420285998"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 36,
+                    "title": "从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？",
+                    "url": "https://juejin.cn/post/7682634449856675867"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 50,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 47,
+                    "title": "GPT-6 Astra 到底强在哪？",
+                    "url": "https://juejin.cn/post/7681797570143223851"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 50,
+                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
+                    "url": "https://juejin.cn/post/7683072481465057323"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
+                    "url": "https://www.ithome.com/0/999/945.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图",
+                    "url": "https://www.ithome.com/0/999/956.htm"
                 },
                 {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
-                    "rank": 38,
-                    "title": "GPT-6 击穿 48 道地狱级验证码，最聪明的 AI，遇上最笨的人类",
-                    "url": "https://www.36kr.com/p/3975337099227397"
+                    "rank": 4,
+                    "title": "刚刚，GPT-6 Astra登顶了",
+                    "url": "https://www.36kr.com/p/3974129339101704"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 6,
+                    "title": "刚刚，GPT-6 Astra   “鲨死了”所有验证码",
+                    "url": "https://www.36kr.com/p/3973910125457667"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 16,
+                    "title": "清华博士做具身大脑拿下九轮融资，他说机器人行业不存在所谓ChatGPT时刻｜硬氪专访",
+                    "url": "https://www.36kr.com/p/3973012275785986"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 40,
+                    "title": "感谢用GPT-6搓3D的，燃烧自己的token换来一次全体重置",
+                    "url": "https://www.36kr.com/p/3974411327566338"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 50,
+                    "title": "他让GPT-6管GPT-6，一周搭出曼哈顿",
+                    "url": "https://www.36kr.com/p/3974607913152775"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 31,
+                    "title": "刚刚，GPT-Image-2.5发布",
+                    "url": "https://www.36kr.com/p/3975317790273801"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 46,
+                    "title": "实测GPT-6很强，但被吹过头了",
+                    "url": "https://www.36kr.com/p/3974698698830341"
                 }
             ]
         },
@@ -8515,7 +8515,7 @@
         },
         {
             "word": "Agent",
-            "weight": 32,
+            "weight": 33,
             "tone": "gold",
             "hits": [
                 {
@@ -8565,6 +8565,14 @@
                     "rank": 21,
                     "title": "agent-skills",
                     "url": "https://github.com/vercel-labs/agent-skills"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 7,
+                    "title": "TradingAgents",
+                    "url": "https://github.com/TauricResearch/TradingAgents"
                 },
                 {
                     "channelId": "juejin",
@@ -8749,14 +8757,6 @@
                     "rank": 1,
                     "title": "办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌",
                     "url": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 1,
-                    "title": "百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”",
-                    "url": "https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx?utm_source=rss&utm_medium=article"
                 }
             ]
         },
@@ -9848,9 +9848,9 @@
         "times": [
             "00:24",
             "05:17",
-            "11:26",
-            "16:35",
-            "22:22"
+            "12:25",
+            "17:24",
+            "22:30"
         ],
         "rows": [
             {
