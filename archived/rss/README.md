@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 10:30:42
+> 更新时间：2026-09-09 11:26:15
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
-2. [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
-3. [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
-4. [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
-5. [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
+1. [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
+2. [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
+3. [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
+4. [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
+5. [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
 
 ## InfoQ
 
@@ -44,11 +44,11 @@
 
 ## MIT Technology Review
 
-1. [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/)
-2. [This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)
-3. [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)
-4. [This founder is making cheaper, cleaner steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/)
-5. [This geneticist’s age-reversal tech could help restore sight](https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/)
+1. [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
+2. [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/)
+3. [This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)
+4. [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)
+5. [This founder is making cheaper, cleaner steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/)
 
 ## Hacker News
 
@@ -57,14 +57,6 @@
 3. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
 4. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
 5. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-
-## AI News
-
-1. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-2. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
-3. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
-4. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
-5. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
 
 ## 阮一峰网络日志
 

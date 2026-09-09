@@ -1,8 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-09-09 10:30:28
+> 更新时间：2026-09-09 11:25:50
 
 ## 24 小时推荐排行
 
 1. [赞助商](https://www.cnblogs.com/cmt/p/19316348)
-2. [【编辑推荐】 都是 AI 写代码，为什么 C# 比 Java 快半拍(24/29/3363)](https://www.cnblogs.com/shanyou/p/22817435)
+2. [【编辑推荐】 AI 越来越强，打工人怎么反而越来越累了？(7/8/1055)](https://www.cnblogs.com/HaiJun-Aion/p/22870343)
+3. [【最多推荐】 ARM64端到端再提速40%：SimdPaddleOCR 1.2 发布！(1/10/201)](https://www.cnblogs.com/sdcb/p/22900887/20260909-simdpaddleocr-1-2)
+4. [1](https://www.cnblogs.com/sdcb/p/22900887/20260909-simdpaddleocr-1-2#commentform)
