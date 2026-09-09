@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-09 16:28:26
+> 更新时间：2026-09-09 17:24:22
 
 ## 热门文章
 
@@ -35,9 +35,9 @@
 29. [当 Mac mini 的价格不再 mini -- 肘子的 Swift 周报 #152](https://juejin.cn/post/7682670225502208038)
 30. [模型没换、提示词没动，成功率从不到 70% 干到 95% —— 改的到底是什么](https://juejin.cn/post/7681913265295278106)
 31. [全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。](https://juejin.cn/post/7682190370525970442)
-32. [从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？](https://juejin.cn/post/7682634449856675867)
-33. [为什么 Android 非要用 Intent 传值？](https://juejin.cn/post/7682633827693838388)
-34. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
+32. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
+33. [从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？](https://juejin.cn/post/7682634449856675867)
+34. [为什么 Android 非要用 Intent 传值？](https://juejin.cn/post/7682633827693838388)
 35. [为什么现在越来越多的开源模型，都“毕业“于 Qwen？](https://juejin.cn/post/7682499191234707497)
 36. [30 天 AI 编程入门总结：接下来应该学什么](https://juejin.cn/post/7682221754647822382)
 37. [代码我都定位了，Codex 还在考古：于是我写了个 VS Code 插件](https://juejin.cn/post/7682603130694139950)

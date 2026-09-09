@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-09 16:28:52
+> 更新时间：2026-09-09 17:24:53
 
 ## 最有料热点
 
@@ -31,6 +31,5 @@
 25. [日本饭店规矩多,国人霸气回怼](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363036&topic_name=%E6%97%A5%E6%9C%AC%E9%A5%AD%E5%BA%97%E8%A7%84%E7%9F%A9%E5%A4%9A%2C%E5%9B%BD%E4%BA%BA%E9%9C%B8%E6%B0%94%E5%9B%9E%E6%80%BC)
 26. [神逆转,郑钦文打哭美网冠军](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363025&topic_name=%E7%A5%9E%E9%80%86%E8%BD%AC%2C%E9%83%91%E9%92%A6%E6%96%87%E6%89%93%E5%93%AD%E7%BE%8E%E7%BD%91%E5%86%A0%E5%86%9B)
 27. [断开连接,Hoya告别LPL粉丝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363041&topic_name=%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5%2CHoya%E5%91%8A%E5%88%ABLPL%E7%B2%89%E4%B8%9D)
-28. [CN瓦大瓜,天禄开除夺冠功臣](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363028&topic_name=CN%E7%93%A6%E5%A4%A7%E7%93%9C%2C%E5%A4%A9%E7%A6%84%E5%BC%80%E9%99%A4%E5%A4%BA%E5%86%A0%E5%8A%9F%E8%87%A3)
-29. [版权到期,旅行青蛙官宣停运](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363103&topic_name=%E7%89%88%E6%9D%83%E5%88%B0%E6%9C%9F%2C%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99%E5%AE%98%E5%AE%A3%E5%81%9C%E8%BF%90)
-30. [美宪法不含喝水,铅中毒没法告](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363068&topic_name=%E7%BE%8E%E5%AE%AA%E6%B3%95%E4%B8%8D%E5%90%AB%E5%96%9D%E6%B0%B4%2C%E9%93%85%E4%B8%AD%E6%AF%92%E6%B2%A1%E6%B3%95%E5%91%8A)
+28. [版权到期,旅行青蛙官宣停运](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363103&topic_name=%E7%89%88%E6%9D%83%E5%88%B0%E6%9C%9F%2C%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99%E5%AE%98%E5%AE%A3%E5%81%9C%E8%BF%90)
+29. [CN瓦大瓜,天禄开除夺冠功臣](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363028&topic_name=CN%E7%93%A6%E5%A4%A7%E7%93%9C%2C%E5%A4%A9%E7%A6%84%E5%BC%80%E9%99%A4%E5%A4%BA%E5%86%A0%E5%8A%9F%E8%87%A3)

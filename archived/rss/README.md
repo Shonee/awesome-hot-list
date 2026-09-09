@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 16:29:04
+> 更新时间：2026-09-09 17:25:12
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌](https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌](https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”](https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx?utm_source=rss&utm_medium=article)
-2. [“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团](https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article)
-3. [火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式](https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm?utm_source=rss&utm_medium=article)
-4. [pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度](https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article)
-5. [ApsaraMQ × IBM Confluent 实时数据沙龙](https://www.infoq.cn/video/4Bm4yEmkFQiB8hEcmMmW?utm_source=rss&utm_medium=article)
+1. [Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元](https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article)
+2. [百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”](https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx?utm_source=rss&utm_medium=article)
+3. [“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团](https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article)
+4. [火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式](https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm?utm_source=rss&utm_medium=article)
+5. [pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度](https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -44,11 +44,11 @@
 
 ## MIT Technology Review
 
-1. [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
-2. [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/)
-3. [This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)
-4. [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)
-5. [This founder is making cheaper, cleaner steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/)
+1. [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/)
+2. [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)
+3. [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
+4. [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/)
+5. [This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)
 
 ## Hacker News
 
@@ -57,6 +57,14 @@
 3. [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
 4. [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
 5. [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
+
+## AI News
+
+1. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+2. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+3. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+4. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
+5. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
 
 ## 阮一峰网络日志
 
