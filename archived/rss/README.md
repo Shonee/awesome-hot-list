@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 01:19:39
+> 更新时间：2026-09-10 02:27:00
 
 ## 少数派
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [Show HN: Rdltr – Inbox zero for your reading list](https://rdltr.app/)
-2. [I rank the open-source AI agents that launched in the last 30 days](https://www.theagenticleaderboard.com/)
-3. [Muse's Social Media Handle Is Stolen by New Meta AI Tool](https://www.realitytea.com/2026/09/09/muse-band-meta-ai-social-media-handle/)
-4. ["Good" AI](https://thoughts.wyounas.com/p/what-does-good-ai-mean)
-5. [Defining AI Psychosis. Part 2: "Prolific AI Psychosis"](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
-
-## AI News
-
-1. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-2. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
-3. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-4. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
-5. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
+1. [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
+2. [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
+3. [Apple Introduces AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+4. [Apple debuts iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+5. [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
 
 ## 阮一峰网络日志
 

@@ -1,14 +1,14 @@
 # 掘金热榜
 
-> 更新时间：2026-09-10 01:18:42
+> 更新时间：2026-09-10 02:26:18
 
 ## 热门文章
 
 1. [固定电话验证详解：区号、号码、分机号的完整验证](https://juejin.cn/post/7682724380078080015)
 2. [三年了，AI为何还没有抢走程序员饭碗？](https://juejin.cn/post/7682262550978936884)
 3. [异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账](https://juejin.cn/post/7682364222383308850)
-4. [OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了](https://juejin.cn/post/7681931232724860970)
-5. [GPT - 6 Astra 的使用焚诀](https://juejin.cn/post/7682634449856217115)
+4. [GPT - 6 Astra 的使用焚诀](https://juejin.cn/post/7682634449856217115)
+5. [OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了](https://juejin.cn/post/7681931232724860970)
 6. [💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？](https://juejin.cn/post/7682217734722027558)
 7. [设计稿里的图片明明很清晰，为什么到了手机上却糊了？一文讲透 DPR、压缩与格式选择](https://juejin.cn/post/7682406523184709670)
 8. [支持独立部署的地图方案](https://juejin.cn/post/7682362046578966580)
@@ -34,14 +34,14 @@
 28. [全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。](https://juejin.cn/post/7682190370525970442)
 29. [从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？](https://juejin.cn/post/7682634449856675867)
 30. [为什么 Android 非要用 Intent 传值？](https://juejin.cn/post/7682633827693838388)
-31. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
-32. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
-33. [Flutter 双端开发实战：一套代码搞定 iOS + Android，从开发到上架全流程](https://juejin.cn/post/7682948530697207862)
-34. [代码我都定位了，Codex 还在考古：于是我写了个 VS Code 插件](https://juejin.cn/post/7682603130694139950)
-35. [别吹了，依赖图像识别的GPT‑6 Astra永远快不起来](https://juejin.cn/post/7682013859251863552)
-36. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
-37. [现在回头看，Dart取消宏是无比正确的决定](https://juejin.cn/post/7683027781632294946)
-38. [从0到1手撕流式输出：Vue3 + Vite 实现 LLM 流式响应全解析](https://juejin.cn/post/7682987755446353960)
+31. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
+32. [125秒到10秒：TypeScript 7.0用Go重写编译器，前端圈等了14年](https://juejin.cn/post/7682499191235166249)
+33. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
+34. [从0到1手撕流式输出：Vue3 + Vite 实现 LLM 流式响应全解析](https://juejin.cn/post/7682987755446353960)
+35. [Flutter 双端开发实战：一套代码搞定 iOS + Android，从开发到上架全流程](https://juejin.cn/post/7682948530697207862)
+36. [代码我都定位了，Codex 还在考古：于是我写了个 VS Code 插件](https://juejin.cn/post/7682603130694139950)
+37. [别吹了，依赖图像识别的GPT‑6 Astra永远快不起来](https://juejin.cn/post/7682013859251863552)
+38. [现在回头看，Dart取消宏是无比正确的决定](https://juejin.cn/post/7683027781632294946)
 39. [Anthropic一次性锁死十年算力，5170亿美元买什么](https://juejin.cn/post/7682593227544936454)
 40. [学习 FastAPI 的 Day 1：看懂接口与请求流程](https://juejin.cn/post/7682323883429232691)
 41. [Spring Boot多环境配置实战 配置文件加载顺序与切换不再翻车](https://juejin.cn/post/7682221754647625774)
@@ -53,4 +53,4 @@
 47. [神级API，原生外挂，谁用谁好用](https://juejin.cn/post/7682337326148747279)
 48. [前端转 Agent 开发 · 第三节：LangChain 提示词模板](https://juejin.cn/post/7682253775991603251)
 49. [不要先问“用哪个 AI”，先盘点你的开发工作流](https://juejin.cn/post/7683020866855632906)
-50. [同一个 AI，为啥有人用出花，有人用出屎？——聊聊上下文工程](https://juejin.cn/post/7683069801370386470)
+50. [Android17 重写 MessageQueue，解决 Handler 隐性卡顿](https://juejin.cn/post/7682633827692658740)
