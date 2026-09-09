@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-09 01:28:24
+> 更新时间：2026-09-09 09:02:52
 
 ## 每日趋势
 
@@ -60,14 +60,15 @@
 12. [needle](https://github.com/cactus-compute/needle)
 13. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 14. [modular](https://github.com/modular/modular)
-15. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-16. [maka](https://github.com/apache/maka)
-17. [public-apis](https://github.com/public-apis/public-apis)
-18. [manim](https://github.com/3b1b/manim)
-19. [vphone-cli](https://github.com/Lakr233/vphone-cli)
-20. [holehe](https://github.com/megadose/holehe)
-21. [DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
-22. [unsloth](https://github.com/unslothai/unsloth)
+15. [ai-memory](https://github.com/akitaonrails/ai-memory)
+16. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+17. [maka](https://github.com/apache/maka)
+18. [public-apis](https://github.com/public-apis/public-apis)
+19. [manim](https://github.com/3b1b/manim)
+20. [vphone-cli](https://github.com/Lakr233/vphone-cli)
+21. [holehe](https://github.com/megadose/holehe)
+22. [DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
+23. [unsloth](https://github.com/unslothai/unsloth)
 
 ## Java
 
@@ -120,23 +121,24 @@
 
 1. [WeKnora](https://github.com/Tencent/WeKnora)
 2. [ipatool](https://github.com/majd/ipatool)
-3. [Fabric](https://github.com/danielmiessler/Fabric)
-4. [new-api](https://github.com/QuantumNous/new-api)
-5. [ollama](https://github.com/ollama/ollama)
-6. [caveman](https://github.com/JuliusBrussee/caveman)
-7. [certificates](https://github.com/smallstep/certificates)
-8. [katana](https://github.com/projectdiscovery/katana)
-9. [engram](https://github.com/Gentleman-Programming/engram)
-10. [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
-11. [tailscale](https://github.com/tailscale/tailscale)
-12. [tailcat](https://github.com/tailscale/tailcat)
-13. [semantic-router](https://github.com/vllm-project/semantic-router)
-14. [LocalAI](https://github.com/mudler/LocalAI)
-15. [BillionMail](https://github.com/Billionmail/BillionMail)
-16. [netbird](https://github.com/netbirdio/netbird)
-17. [minikube](https://github.com/kubernetes/minikube)
-18. [nebula](https://github.com/slackhq/nebula)
-19. [seaweedfs](https://github.com/seaweedfs/seaweedfs)
+3. [httpsms](https://github.com/NdoleStudio/httpsms)
+4. [Fabric](https://github.com/danielmiessler/Fabric)
+5. [new-api](https://github.com/QuantumNous/new-api)
+6. [ollama](https://github.com/ollama/ollama)
+7. [caveman](https://github.com/JuliusBrussee/caveman)
+8. [certificates](https://github.com/smallstep/certificates)
+9. [katana](https://github.com/projectdiscovery/katana)
+10. [engram](https://github.com/Gentleman-Programming/engram)
+11. [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+12. [tailscale](https://github.com/tailscale/tailscale)
+13. [tailcat](https://github.com/tailscale/tailcat)
+14. [semantic-router](https://github.com/vllm-project/semantic-router)
+15. [LocalAI](https://github.com/mudler/LocalAI)
+16. [BillionMail](https://github.com/Billionmail/BillionMail)
+17. [netbird](https://github.com/netbirdio/netbird)
+18. [minikube](https://github.com/kubernetes/minikube)
+19. [nebula](https://github.com/slackhq/nebula)
+20. [seaweedfs](https://github.com/seaweedfs/seaweedfs)
 
 ## HTML
 

@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-09",
-    "generatedAt": "2026-09-09 08:56:07",
-    "summary": "我国进出口连续4个月保持两位数增长成为本期综合热度最高的话题，香港首任特首董建华逝世紧随其后。当前覆盖 22 个有效渠道，共形成 301 个榜单时间切片；发现 13 个跨渠道重复热点。",
+    "generatedAt": "2026-09-09 09:03:05",
+    "summary": "我国进出口连续4个月保持两位数增长成为本期综合热度最高的话题，香港首任特首董建华逝世紧随其后。当前覆盖 22 个有效渠道，共形成 310 个榜单时间切片；发现 13 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1745,
+        "deduplicated": 1751,
         "resonance": 13,
         "maxRise": 49,
-        "slices": 301,
+        "slices": 310,
         "coverage": 96
     },
     "topTopics": [
@@ -461,7 +461,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 112,
+            "weight": 113,
             "tone": "hot",
             "hits": [
                 {
@@ -657,6 +657,14 @@
                     "url": "https://github.com/Anil-matcha/Open-Generative-AI"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 15,
+                    "title": "ai-memory",
+                    "url": "https://github.com/akitaonrails/ai-memory"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -695,14 +703,6 @@
                     "rank": 22,
                     "title": "项目中新增给AI制定的代码规范",
                     "url": "https://juejin.cn/post/7681913361724620838"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 23,
-                    "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
-                    "url": "https://juejin.cn/post/7681521114217791528"
                 }
             ]
         },
@@ -1943,7 +1943,7 @@
         },
         {
             "word": "没有",
-            "weight": 32,
+            "weight": 33,
             "tone": "gold",
             "hits": [
                 {
@@ -2123,6 +2123,14 @@
                     "url": "http://news.10jqka.com.cn/20260909/c679716793.shtml"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "失业三个月多月了，做了两款全栈产品，目前付费收入 100 块都没有，还要继续吗",
+                    "url": "https://www.v2ex.com/t/1240426"
+                },
+                {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
@@ -2177,268 +2185,13 @@
                     "rank": 21,
                     "title": "cloudflare的R2没有visa能开通吗",
                     "url": "https://www.nodeseek.com/post-919123-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 9,
-                    "title": "怎么感觉很多优化的都没有移动优化呀，是我找的不对吗",
-                    "url": "https://www.nodeseek.com/post-919384-1"
-                }
-            ]
-        },
-        {
-            "word": "NS",
-            "weight": 29,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 34,
-                    "title": "OpenAI真疑似证明千禧年七大难题：NS方程问题",
-                    "url": "https://b23.tv/BV11BbV6RE38"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 7,
-                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
-                    "url": "https://b23.tv/BV1SdYn6cEoq"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 3,
-                    "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
-                    "url": "https://www.zhihu.com/question/2080654680389051865"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每日趋势",
-                    "rank": 16,
-                    "title": "plugins",
-                    "url": "https://github.com/openai/plugins"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 3,
-                    "title": "plugins",
-                    "url": "https://github.com/cursor/plugins"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 5,
-                    "title": "claude-plugins-community",
-                    "url": "https://github.com/anthropics/claude-plugins-community"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 22,
-                    "title": "unsloth",
-                    "url": "https://github.com/unslothai/unsloth"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Java",
-                    "rank": 6,
-                    "title": "jetbrains-cc-gui",
-                    "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Python",
-                    "rank": 11,
-                    "title": "screenshot-to-code",
-                    "url": "https://github.com/abi/screenshot-to-code"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "HTML",
-                    "rank": 11,
-                    "title": "unstructured",
-                    "url": "https://github.com/Unstructured-IO/unstructured"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "HTML",
-                    "rank": 12,
-                    "title": "InstagramUnfollowers",
-                    "url": "https://github.com/davidarroyo1234/InstagramUnfollowers"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "JavaScript",
-                    "rank": 9,
-                    "title": "plugins",
-                    "url": "https://github.com/openai/plugins"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 25,
-                    "title": "挑战传奇Against Legendary",
-                    "url": "https://m.hupu.com/hot?tagId=152939"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 24,
-                    "title": "OpenAI宣布千禧年七大问题之一的NS方程得解",
-                    "url": "https://bbs.hupu.com/642336797.html"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 15,
-                    "title": "How do I combine 2 instances of java.util.regex.Pattern?",
-                    "url": "https://stackoverflow.com/questions/80001645/how-do-i-combine-2-instances-of-java-util-regex-pattern"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 24,
-                    "title": "Retrieve data, but only from those that are present at both of two specifed locations in a separate connection table",
-                    "url": "https://stackoverflow.com/questions/80001597/retrieve-data-but-only-from-those-that-are-present-at-both-of-two-specifed-loca"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 31,
-                    "title": "Accessing struct members via pointer is not constant expression?",
-                    "url": "https://stackoverflow.com/questions/80001443/accessing-struct-members-via-pointer-is-not-constant-expression"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 37,
-                    "title": "How to turn this inspect element change to max width into a Tampermonkey script?",
-                    "url": "https://stackoverflow.com/questions/80001568/how-to-turn-this-inspect-element-change-to-max-width-into-a-tampermonkey-script"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "I have two elements with JavaScript: one is inside of another and they layering",
-                    "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-layering"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 3,
-                    "title": "Efficient singular extensions in a Python/Numba chess engine without killing search speed",
-                    "url": "https://stackoverflow.com/questions/80001720/efficient-singular-extensions-in-a-python-numba-chess-engine-without-killing-sea"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
-                    "url": "https://stackoverflow.com/questions/80001733/why-is-python-able-to-perform-a-bitwise-and-on-lsb-of-16-bit-value-instead-of-th"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 5,
-                    "title": "I have two elements with JavaScript: one is inside of another and they are layering",
-                    "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "SQL Queries for CRUD Operations",
-                    "url": "https://stackoverflow.com/questions/80001757/sql-queries-for-crud-operations"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "Compiler complaining about non-copy-assingnable type despite a condition ensuring it is",
-                    "url": "https://stackoverflow.com/questions/80001781/compiler-complaining-about-non-copy-assingnable-type-despite-a-condition-ensurin"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 7,
-                    "title": "openai官宣解决了千禧年七大难题之一的NS方程问题",
-                    "url": "https://www.nodeseek.com/post-919287-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 11,
-                    "title": "NS怎么修改名字？？",
-                    "url": "https://www.nodeseek.com/post-919148-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "[情报] advinservers kansas补货了",
-                    "url": "https://www.nodeseek.com/post-919395-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 1,
-                    "title": "ScreenTranslator (屏译) v0.4.5-离线LLM屏幕实时翻译工具",
-                    "url": "https://www.52pojie.cn/thread-2126236-1-1.html"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 9,
-                    "title": "Falcons解散,Dota2再无法老",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363086&topic_name=Falcons%E8%A7%A3%E6%95%A3%2CDota2%E5%86%8D%E6%97%A0%E6%B3%95%E8%80%81"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 26,
-                    "title": "NS2大规模误封,社区舆论反转",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362871&topic_name=NS2%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%AF%AF%E5%B0%81%2C%E7%A4%BE%E5%8C%BA%E8%88%86%E8%AE%BA%E5%8F%8D%E8%BD%AC"
                 }
             ]
         },
         {
             "word": "公司",
-            "weight": 28,
-            "tone": "hot",
+            "weight": 29,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2679,6 +2432,253 @@
                     "rank": 49,
                     "title": "人民财讯9月8日电，据四川省纪委监委消息，四川省煤炭产业集团有限责任公司原党委书记、董事长刘万波涉嫌严重违纪违法，目前正接受四川省纪委监委纪律审查和监察调查。 ...",
                     "url": "http://news.10jqka.com.cn/20260908/c679709801.shtml"
+                }
+            ]
+        },
+        {
+            "word": "NS",
+            "weight": 29,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 34,
+                    "title": "OpenAI真疑似证明千禧年七大难题：NS方程问题",
+                    "url": "https://b23.tv/BV11BbV6RE38"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 7,
+                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
+                    "url": "https://b23.tv/BV1SdYn6cEoq"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 3,
+                    "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
+                    "url": "https://www.zhihu.com/question/2080654680389051865"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 16,
+                    "title": "plugins",
+                    "url": "https://github.com/openai/plugins"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 3,
+                    "title": "plugins",
+                    "url": "https://github.com/cursor/plugins"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 5,
+                    "title": "claude-plugins-community",
+                    "url": "https://github.com/anthropics/claude-plugins-community"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 22,
+                    "title": "unsloth",
+                    "url": "https://github.com/unslothai/unsloth"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 6,
+                    "title": "jetbrains-cc-gui",
+                    "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 11,
+                    "title": "screenshot-to-code",
+                    "url": "https://github.com/abi/screenshot-to-code"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 11,
+                    "title": "unstructured",
+                    "url": "https://github.com/Unstructured-IO/unstructured"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 12,
+                    "title": "InstagramUnfollowers",
+                    "url": "https://github.com/davidarroyo1234/InstagramUnfollowers"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 9,
+                    "title": "plugins",
+                    "url": "https://github.com/openai/plugins"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "虎扑热榜",
+                    "rank": 25,
+                    "title": "挑战传奇Against Legendary",
+                    "url": "https://m.hupu.com/hot?tagId=152939"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 24,
+                    "title": "OpenAI宣布千禧年七大问题之一的NS方程得解",
+                    "url": "https://bbs.hupu.com/642336797.html"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 15,
+                    "title": "How do I combine 2 instances of java.util.regex.Pattern?",
+                    "url": "https://stackoverflow.com/questions/80001645/how-do-i-combine-2-instances-of-java-util-regex-pattern"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 24,
+                    "title": "Retrieve data, but only from those that are present at both of two specifed locations in a separate connection table",
+                    "url": "https://stackoverflow.com/questions/80001597/retrieve-data-but-only-from-those-that-are-present-at-both-of-two-specifed-loca"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 31,
+                    "title": "Accessing struct members via pointer is not constant expression?",
+                    "url": "https://stackoverflow.com/questions/80001443/accessing-struct-members-via-pointer-is-not-constant-expression"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 37,
+                    "title": "How to turn this inspect element change to max width into a Tampermonkey script?",
+                    "url": "https://stackoverflow.com/questions/80001568/how-to-turn-this-inspect-element-change-to-max-width-into-a-tampermonkey-script"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 2,
+                    "title": "I have two elements with JavaScript: one is inside of another and they layering",
+                    "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-layering"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 3,
+                    "title": "Efficient singular extensions in a Python/Numba chess engine without killing search speed",
+                    "url": "https://stackoverflow.com/questions/80001720/efficient-singular-extensions-in-a-python-numba-chess-engine-without-killing-sea"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 1,
+                    "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
+                    "url": "https://stackoverflow.com/questions/80001733/why-is-python-able-to-perform-a-bitwise-and-on-lsb-of-16-bit-value-instead-of-th"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 5,
+                    "title": "I have two elements with JavaScript: one is inside of another and they are layering",
+                    "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 1,
+                    "title": "SQL Queries for CRUD Operations",
+                    "url": "https://stackoverflow.com/questions/80001757/sql-queries-for-crud-operations"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 2,
+                    "title": "Compiler complaining about non-copy-assingnable type despite a condition ensuring it is",
+                    "url": "https://stackoverflow.com/questions/80001781/compiler-complaining-about-non-copy-assingnable-type-despite-a-condition-ensurin"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "openai官宣解决了千禧年七大难题之一的NS方程问题",
+                    "url": "https://www.nodeseek.com/post-919287-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 11,
+                    "title": "NS怎么修改名字？？",
+                    "url": "https://www.nodeseek.com/post-919148-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 12,
+                    "title": "[情报] advinservers kansas补货了",
+                    "url": "https://www.nodeseek.com/post-919395-1"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 1,
+                    "title": "ScreenTranslator (屏译) v0.4.5-离线LLM屏幕实时翻译工具",
+                    "url": "https://www.52pojie.cn/thread-2126236-1-1.html"
+                },
+                {
+                    "channelId": "tieba",
+                    "channelName": "百度贴吧",
+                    "ranking": "最有料热点",
+                    "rank": 9,
+                    "title": "Falcons解散,Dota2再无法老",
+                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363086&topic_name=Falcons%E8%A7%A3%E6%95%A3%2CDota2%E5%86%8D%E6%97%A0%E6%B3%95%E8%80%81"
+                },
+                {
+                    "channelId": "tieba",
+                    "channelName": "百度贴吧",
+                    "ranking": "最有料热点",
+                    "rank": 26,
+                    "title": "NS2大规模误封,社区舆论反转",
+                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362871&topic_name=NS2%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%AF%AF%E5%B0%81%2C%E7%A4%BE%E5%8C%BA%E8%88%86%E8%AE%BA%E5%8F%8D%E8%BD%AC"
                 }
             ]
         },
@@ -6952,9 +6952,9 @@
         "times": [
             "00:24",
             "01:21",
-            "03:17",
-            "05:18",
-            "08:55"
+            "03:18",
+            "06:19",
+            "09:02"
         ],
         "rows": [
             {
