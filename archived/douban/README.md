@@ -1,6 +1,6 @@
 # 豆瓣热榜
 
-> 更新时间：2026-09-09 18:22:14
+> 更新时间：2026-09-09 20:32:10
 
 ## 小组精选
 
@@ -15,7 +15,7 @@
 9. [芬兰 CS 硕士一年整体验](https://www.douban.com/group/topic/499133349/?_spm_id=MTQzMTUwMzIz)
 10. [梅里日照金山](https://www.douban.com/group/topic/499228560/?_spm_id=MjUwMzkzODc1)
 11. [分享一些租房收纳](https://www.douban.com/group/topic/499249200/?_spm_id=Mjc2NDI4NTEw)
-12. [收集一些长难句名字有意思的影片，适合改名字或者做签名，主楼评论更新ing](https://www.douban.com/group/topic/499132397/?_spm_id=MjI5MDIzMTg3)
+12. [收集一些长难句名字有意思的影片，适合改名字或者做签名（to小红书博主，我辛苦整理的片名不是你的流量工具。。。）](https://www.douban.com/group/topic/499132397/?_spm_id=MjI5MDIzMTg3)
 13. [出国旅游（尤其欧洲）规划好根本没那么贵啊](https://www.douban.com/group/topic/498952139/?_spm_id=NzM3MDMyNzU)
 14. [雪羊](https://www.douban.com/group/topic/499044228/?_spm_id=MTg5NzMwMjIz)
 15. [下班的太阳·云纱遮眼限定款](https://www.douban.com/group/topic/498960951/?_spm_id=MTE5NDczODkz)

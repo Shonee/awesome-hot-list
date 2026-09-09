@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-09 19:19:50
+> 更新时间：2026-09-09 20:32:08
 
 ## 最新资讯
 
-1. [“国产 GPU 四小龙”之一燧原科技：公司股票将于 9 月 11 日在科创板上市](https://www.ithome.com/1/000/401.htm)
-2. [iPhone Duo、iPhone 18 Pro 即将发布，苹果在线商店下线维护](https://www.ithome.com/1/000/400.htm)
-3. [佳能中国：警惕仿冒、假冒 Canon 品牌“CCD 相机”](https://www.ithome.com/1/000/398.htm)
-4. [Anthropic AI 素养研究负责人斯旺森：真正擅长用 AI 的人，应该知道何时不用 AI](https://www.ithome.com/1/000/397.htm)
-5. [阿里回应“钉钉创始人无招（陈航）回归千问办公”：消息不实](https://www.ithome.com/1/000/396.htm)
+1. [我国板级封装核心工艺实现关键跨越，华海清科自主研发国内首台全自动板级抛光装备进入量产线](https://www.ithome.com/1/000/427.htm)
+2. [SK 海力士再度回应：尚未就重庆工厂股权出售事宜做出决定](https://www.ithome.com/1/000/426.htm)
+3. [汉王 Clear6 Pro 二代电纸书开售：6 英寸 Carta1300 面板、纯平设计，1049 元起](https://www.ithome.com/1/000/425.htm)
+4. [小米米家洗衣机迷你双筒洗烘 5kg 开售，国补到手价 2699 元](https://www.ithome.com/1/000/424.htm)
+5. [消息称折叠屏限制了首款逻辑折叠 τ 芯片发挥，最佳性能设备得等华为 Mate 90 Pro Max](https://www.ithome.com/1/000/423.htm)
