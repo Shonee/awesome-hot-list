@@ -1,14 +1,14 @@
 # 掘金热榜
 
-> 更新时间：2026-09-10 03:16:58
+> 更新时间：2026-09-10 04:21:24
 
 ## 热门文章
 
 1. [固定电话验证详解：区号、号码、分机号的完整验证](https://juejin.cn/post/7682724380078080015)
 2. [三年了，AI为何还没有抢走程序员饭碗？](https://juejin.cn/post/7682262550978936884)
 3. [异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账](https://juejin.cn/post/7682364222383308850)
-4. [GPT - 6 Astra 的使用焚诀](https://juejin.cn/post/7682634449856217115)
-5. [OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了](https://juejin.cn/post/7681931232724860970)
+4. [OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了](https://juejin.cn/post/7681931232724860970)
+5. [GPT - 6 Astra 的使用焚诀](https://juejin.cn/post/7682634449856217115)
 6. [💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？](https://juejin.cn/post/7682217734722027558)
 7. [设计稿里的图片明明很清晰，为什么到了手机上却糊了？一文讲透 DPR、压缩与格式选择](https://juejin.cn/post/7682406523184709670)
 8. [支持独立部署的地图方案](https://juejin.cn/post/7682362046578966580)

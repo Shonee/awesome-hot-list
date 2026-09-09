@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-10 03:17:11
+> 更新时间：2026-09-10 04:21:35
 
 ## 最新资讯
 
-1. [苹果 watchOS 27.0 RC 发布](https://www.ithome.com/1/000/529.htm)
-2. [苹果 macOS 27.0 RC 发布](https://www.ithome.com/1/000/527.htm)
-3. [苹果 visionOS 27.0 RC 发布](https://www.ithome.com/1/000/528.htm)
-4. [稳定版发布进入最后倒计时，苹果 iOS / iPadOS 27 RC 推送](https://www.ithome.com/1/000/525.htm)
-5. [苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元](https://www.ithome.com/1/000/524.htm)
+1. [苹果上架爱马仕 Grand H Titane 表带，售价 17999 元](https://www.ithome.com/1/000/538.htm)
+2. [苹果官方详解 Apple Watch Ultra 4 手表：日常续航超两天，国行 6499 元起](https://www.ithome.com/1/000/522.htm)
+3. [国行 iPhone 18 Pro 系列采用实体 SIM + eSIM 设计，支持双卡使用](https://www.ithome.com/1/000/537.htm)
+4. [苹果 iOS / iPadOS 27 RC 更新日志：升级 Siri AI，增强家长管控等](https://www.ithome.com/1/000/536.htm)
+5. [苹果官方详解 Apple Watch Series 12 智能手表：全新健康传感器、S11 芯片，2999 元起](https://www.ithome.com/1/000/532.htm)
