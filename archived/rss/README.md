@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 07:19:05
+> 更新时间：2026-09-09 08:55:57
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [手机影像的下半场，是成就作品](https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
-2. [单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单](http://www.geekpark.net/news/370006)
-3. [传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
-4. [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
-5. [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
+1. [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
+2. [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
+3. [单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单](http://www.geekpark.net/news/370006)
+4. [传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
+5. [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
 
 ## MIT Technology Review
 
@@ -53,8 +53,8 @@
 ## Hacker News
 
 1. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-2. [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-3. [How to Build a Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+2. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+3. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
 4. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
 5. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
 

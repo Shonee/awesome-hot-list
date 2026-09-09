@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-09 07:18:32
+> 更新时间：2026-09-09 08:55:28
 
 ## 最新资讯
 
-1. [继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禧年大奖难题，陶哲轩既点赞又担忧](https://www.ithome.com/0/999/959.htm)
-2. [集邦报告 2026Q2 全球手机产量：三星占 23%、苹果 19%、OPPO 11%、小米 10%、vivo 8%、传音 7%](https://www.ithome.com/0/999/958.htm)
-3. [小米 REDMI 产品经理：澎程 N90 Max 探索版登记为 7 座及以下小型客车，与小型普通客车报废年限一致](https://www.ithome.com/0/999/957.htm)
-4. [OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图](https://www.ithome.com/0/999/956.htm)
-5. [微软 Win11 自动深浅色模式已在路上：可按当地日出 / 日落时间或自定义时间触发](https://www.ithome.com/0/999/955.htm)
+1. [日本首部 IMAX 拍摄电影：《哥斯拉-0.0》正式预告公布](https://www.ithome.com/0/999/984.htm)
+2. [科隆游戏展后 IFA 柏林 2026 也闹贼：极摩客多款设备被盗](https://www.ithome.com/0/999/983.htm)
+3. [通用 CarPlay 禁令首个例外，2027 款凯迪拉克 Lyriq 支持苹果车联方案](https://www.ithome.com/0/999/981.htm)
+4. [5999 元起华为 Pura X View 阔直板手机今日开售：16:9.5 比例面板、麒麟 9030S 处理器](https://www.ithome.com/0/999/980.htm)
+5. [消息称阿里 B2B 业务国内外打通，张阔统管 1688 与国际站](https://www.ithome.com/0/999/979.htm)
