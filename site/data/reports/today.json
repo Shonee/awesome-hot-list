@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-09",
-    "generatedAt": "2026-09-09 15:26:15",
-    "summary": "香港首任特首董建华逝世成为本期综合热度最高的话题，我国进出口连续4个月呈两位数增长紧随其后。当前覆盖 22 个有效渠道，共形成 530 个榜单时间切片；发现 31 个跨渠道重复热点。",
+    "generatedAt": "2026-09-09 15:32:56",
+    "summary": "香港首任特首董建华逝世成为本期综合热度最高的话题，我国进出口连续4个月呈两位数增长紧随其后。当前覆盖 22 个有效渠道，共形成 538 个榜单时间切片；发现 31 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2768,
+        "deduplicated": 2769,
         "resonance": 31,
         "maxRise": 71,
-        "slices": 530,
+        "slices": 538,
         "coverage": 96
     },
     "topTopics": [
@@ -3695,7 +3695,7 @@
         },
         {
             "word": "IG",
-            "weight": 44,
+            "weight": 45,
             "tone": "gold",
             "hits": [
                 {
@@ -3851,6 +3851,14 @@
                     "url": "https://github.com/ashishps1/awesome-low-level-design"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 15,
+                    "title": "system-design-notes",
+                    "url": "https://github.com/liquidslr/system-design-notes"
+                },
+                {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "虎扑热榜",
@@ -3929,14 +3937,6 @@
                     "rank": 1,
                     "title": "MongoDB -> Postgresql migration",
                     "url": "https://stackoverflow.com/questions/80001809/mongodb-postgresql-migration"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "React client doesn't catch the socket.on() signal from the server using setInterval",
-                    "url": "https://stackoverflow.com/questions/80001823/react-client-doesnt-catch-the-socket-on-signal-from-the-server-using-setinter"
                 }
             ]
         },
@@ -9024,9 +9024,9 @@
         "times": [
             "00:24",
             "03:17",
-            "07:18",
-            "11:25",
-            "15:25"
+            "07:19",
+            "11:26",
+            "15:32"
         ],
         "rows": [
             {

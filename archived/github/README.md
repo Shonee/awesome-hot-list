@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-09 09:02:52
+> 更新时间：2026-09-09 15:32:28
 
 ## 每日趋势
 
@@ -18,8 +18,9 @@
 12. [browser-use](https://github.com/browser-use/browser-use)
 13. [context-mode](https://github.com/mksglu/context-mode)
 14. [AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)
-15. [escrcpy](https://github.com/viarotel-org/escrcpy)
-16. [plugins](https://github.com/openai/plugins)
+15. [system-design-notes](https://github.com/liquidslr/system-design-notes)
+16. [escrcpy](https://github.com/viarotel-org/escrcpy)
+17. [plugins](https://github.com/openai/plugins)
 
 ## 每周趋势
 
