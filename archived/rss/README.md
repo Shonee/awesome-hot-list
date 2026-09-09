@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 09:32:34
+> 更新时间：2026-09-09 10:30:42
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
-2. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
-3. [Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求](https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article)
-4. [Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息](https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article)
-5. [Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度](https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article)
+1. [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
+2. [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
+3. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
+4. [Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求](https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article)
+5. [Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息](https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
-2. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-3. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-4. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-5. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
+1. [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
+2. [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)
+3. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+4. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
+5. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+
+## AI News
+
+1. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+2. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+3. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
+4. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
+5. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
 
 ## 阮一峰网络日志
 
