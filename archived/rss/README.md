@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 11:26:15
+> 更新时间：2026-09-09 12:26:00
 
 ## 少数派
 
-1. [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
-2. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
-3. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
-4. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
-5. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+1. [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
+2. [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
+3. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
+4. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
+5. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
 
 ## 爱范儿
 
-1. [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [AI 开始「互发微信」了，谁来管管它们？| AI 器物志](https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌](https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [就在明天！苹果折叠掀起史上最强新机发布潮](https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [小米澎程 20.99 万元起！五座七座双车齐发，「探索版」还分上下铺](https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
-2. [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
-3. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
-4. [Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求](https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article)
-5. [Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息](https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article)
+1. [招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%](https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&utm_medium=article)
+2. [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
+3. [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
+4. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
+5. [Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求](https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -53,8 +53,8 @@
 ## Hacker News
 
 1. [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
-2. [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)
-3. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+2. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+3. [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
 4. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
 5. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 
