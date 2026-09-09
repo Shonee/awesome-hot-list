@@ -1,14 +1,14 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-10",
-    "generatedAt": "2026-09-10 00:24:22",
-    "summary": "GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱成为本期综合热度最高的话题，OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代紧随其后。当前覆盖 20 个有效渠道，共形成 33 个榜单时间切片；发现 4 个跨渠道重复热点。",
+    "generatedAt": "2026-09-10 00:32:13",
+    "summary": "GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱成为本期综合热度最高的话题，OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代紧随其后。当前覆盖 21 个有效渠道，共形成 34 个榜单时间切片；发现 4 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 997,
+        "deduplicated": 1005,
         "resonance": 4,
         "maxRise": 0,
-        "slices": 33,
-        "coverage": 87
+        "slices": 34,
+        "coverage": 91
     },
     "topTopics": [
         {
@@ -197,7 +197,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 75,
+            "weight": 76,
             "tone": "hot",
             "hits": [
                 {
@@ -443,9 +443,120 @@
             ]
         },
         {
+            "word": "时代",
+            "weight": 13,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 8,
+                    "title": "【终末地1.5】全网最强基建！划时代创新科技！颠覆你对基建深度的认知！",
+                    "url": "https://b23.tv/BV1tgbW6RE6W"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 5,
+                    "title": "宁德时代已报警",
+                    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 6,
+                    "title": "如何看待曝某厂不让普工上厕所致拉裤兜，致其车间裸奔并拿粪便扔向他人，宁德时代宜宾基地回应称不是本公司？",
+                    "url": "https://www.zhihu.com/question/2081042167821354932"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 24,
+                    "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
+                    "url": "https://www.zhihu.com/question/2080662753119938210"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 16,
+                    "title": "AI时代下，Android的边界正在消失",
+                    "url": "https://juejin.cn/post/7682628131855728675"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持",
+                    "url": "https://juejin.cn/post/7683152167263846463"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 4,
+                    "title": "刚刚，OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
+                    "url": "https://www.36kr.com/p/3975337527587333"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 47,
+                    "title": "摩根结构性产品发行5系列可赎回牛熊证 挂钩腾讯、联想、宁德时代等5股",
+                    "url": "http://news.10jqka.com.cn/20260909/c679754970.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "又是一个新的时代",
+                    "url": "https://www.v2ex.com/t/1240550"
+                },
+                {
+                    "channelId": "tieba",
+                    "channelName": "百度贴吧",
+                    "ranking": "最有料热点",
+                    "rank": 4,
+                    "title": "员工裸奔扔屎?宁德时代辟谣",
+                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363342&topic_name=%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%E6%89%94%E5%B1%8E%3F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E8%BE%9F%E8%B0%A3"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 5,
+                    "title": "OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
+                    "url": "https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign="
+                }
+            ]
+        },
+        {
             "word": "iPhone",
             "weight": 19,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -604,7 +715,7 @@
         {
             "word": "手机",
             "weight": 17,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -777,112 +888,263 @@
             ]
         },
         {
-            "word": "时代",
-            "weight": 12,
-            "tone": "",
+            "word": "IG",
+            "weight": 16,
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
                     "channelName": "哔哩哔哩",
                     "ranking": "视频排行榜",
-                    "rank": 8,
-                    "title": "【终末地1.5】全网最强基建！划时代创新科技！颠覆你对基建深度的认知！",
-                    "url": "https://b23.tv/BV1tgbW6RE6W"
+                    "rank": 89,
+                    "title": "【2026LPL第三赛段】9月8日 LGD vs IG",
+                    "url": "https://b23.tv/BV1sHb56xEhC"
                 },
                 {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 92,
+                    "title": "【Phigros】4.0.0 主线第九章更新曲目预览",
+                    "url": "https://b23.tv/BV16vbN6REhD"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 29,
+                    "title": "如何评价二路解说 Wayward 在解说 IG vs LGD 时质疑涉及「假赛」？二路整活的边界在哪里？",
+                    "url": "https://www.zhihu.com/question/2081074583411737268"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 40,
+                    "title": "IVE 巡演香港场 IVE 张元英《EIGHT》个人SOLO舞台",
+                    "url": "https://www.acfun.cn/v/ac48836181"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "虎扑热榜",
+                    "rank": 11,
+                    "title": "IG成为涅槃组首支晋级全球总决赛资格赛的队伍",
+                    "url": "https://m.hupu.com/hot?tagId=156558"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "虎扑热榜",
+                    "rank": 29,
+                    "title": "IG 3-1 胜WE豪取三连胜",
+                    "url": "https://m.hupu.com/hot?tagId=156416"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
                     "rank": 5,
-                    "title": "宁德时代已报警",
-                    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6&Refer=index"
+                    "title": "V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益",
+                    "url": "https://www.v2ex.com/t/1240689"
                 },
                 {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 6,
-                    "title": "如何看待曝某厂不让普工上厕所致拉裤兜，致其车间裸奔并拿粪便扔向他人，宁德时代宜宾基地回应称不是本公司？",
-                    "url": "https://www.zhihu.com/question/2081042167821354932"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 10,
+                    "title": "How to \"universally\" scroll with AutoKey using other keys as \"triggers\"",
+                    "url": "https://stackoverflow.com/questions/80001896/how-to-universally-scroll-with-autokey-using-other-keys-as-triggers"
                 },
                 {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 24,
-                    "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
-                    "url": "https://www.zhihu.com/question/2080662753119938210"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 28,
+                    "title": "Compiler complaining about non-copy-assignable type despite a condition ensuring it is",
+                    "url": "https://stackoverflow.com/questions/80001781/compiler-complaining-about-non-copy-assignable-type-despite-a-condition-ensuring"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 16,
-                    "title": "AI时代下，Android的边界正在消失",
-                    "url": "https://juejin.cn/post/7682628131855728675"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 35,
+                    "title": "React client doesn't catch the socket.on() signal from the server using setInterval",
+                    "url": "https://stackoverflow.com/questions/80001823/react-client-doesnt-catch-the-socket-on-signal-from-the-server-using-setinter"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 32,
-                    "title": "Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持",
-                    "url": "https://juejin.cn/post/7683152167263846463"
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 50,
+                    "title": "An unexpected error with number 1000 has occurred: Not authenticated: NotSignedIn",
+                    "url": "https://stackoverflow.com/questions/80001775/an-unexpected-error-with-number-1000-has-occurred-not-authenticated-notsignedi"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "lightlayer 香港小水管打开nodeseek这个网站，总感觉很卡",
+                    "url": "https://www.nodeseek.com/post-920918-1"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 4,
-                    "title": "刚刚，OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
-                    "url": "https://www.36kr.com/p/3975337527587333"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 47,
-                    "title": "摩根结构性产品发行5系列可赎回牛熊证 挂钩腾讯、联想、宁德时代等5股",
-                    "url": "http://news.10jqka.com.cn/20260909/c679754970.shtml"
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "【已出】35 出 Lightlayer SJ-VP04-L 4.9 刀月付",
+                    "url": "https://www.nodeseek.com/post-885030-1"
                 },
                 {
                     "channelId": "tieba",
                     "channelName": "百度贴吧",
                     "ranking": "最有料热点",
-                    "rank": 4,
-                    "title": "员工裸奔扔屎?宁德时代辟谣",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363342&topic_name=%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%E6%89%94%E5%B1%8E%3F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E8%BE%9F%E8%B0%A3"
+                    "rank": 2,
+                    "title": "大黄质疑IG假赛,遭LPL严打",
+                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363338&topic_name=%E5%A4%A7%E9%BB%84%E8%B4%A8%E7%96%91IG%E5%81%87%E8%B5%9B%2C%E9%81%ADLPL%E4%B8%A5%E6%89%93"
+                },
+                {
+                    "channelId": "tieba",
+                    "channelName": "百度贴吧",
+                    "ranking": "最有料热点",
+                    "rank": 23,
+                    "title": "IG速通LGD,宋圣禁欲梦回S8",
+                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363132&topic_name=IG%E9%80%9F%E9%80%9ALGD%2C%E5%AE%8B%E5%9C%A3%E7%A6%81%E6%AC%B2%E6%A2%A6%E5%9B%9ES8"
                 },
                 {
                     "channelId": "rss",
                     "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 5,
-                    "title": "OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
-                    "url": "https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign="
+                    "ranking": "AI News",
+                    "rank": 3,
+                    "title": "Arm launches Total Design for Physical AI and robotics framework",
+                    "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/"
+                }
+            ]
+        },
+        {
+            "word": "开始",
+            "weight": 14,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 30,
+                    "title": "零食店开始集体\"动手脚\"，网友：不要把我们当傻子，好吗？",
+                    "url": "https://b23.tv/BV1s7bG6nE7x"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 39,
+                    "title": "人到什么年龄就开始老花眼了？",
+                    "url": "https://www.zhihu.com/question/398325975"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "泽连斯基开始求美国为乌克兰止损",
+                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 12,
+                    "title": "梦开始的地方，34万起，9.9，第一天，-1340。",
+                    "url": "https://bbs.hupu.com/642343987.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 17,
+                    "title": "跑得最快的公司，开始做最慢的事",
+                    "url": "https://www.36kr.com/p/3975460349489669"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 37,
+                    "title": "抢人！第一省会，开始了",
+                    "url": "https://www.36kr.com/p/3975611110978055"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 41,
+                    "title": "换皮肤、上直播、养桌宠，AI办公开始卷情绪价值？",
+                    "url": "https://www.36kr.com/p/3975646906872329"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 49,
+                    "title": "DeepSeek开始追求极致的“智能密度”",
+                    "url": "https://www.36kr.com/p/3974964749178500"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "从什么时候开始，早睡早起变成小众爱好了？",
+                    "url": "https://www.v2ex.com/t/1240610"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 31,
+                    "title": "还有几个小时就开始了。来猜猜看，今晚苹果到底有没有折叠鸡推出？价格会是多少？",
+                    "url": "https://www.nodeseek.com/post-920859-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 3,
+                    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+                    "url": "https://www.qbitai.com/2026/09/486288.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 3,
+                    "title": "当 Agent 开始写应用，数据库也得换一套打法",
+                    "url": "https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "极客公园",
+                    "rank": 4,
+                    "title": "单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单",
+                    "url": "http://www.geekpark.net/news/370006"
                 }
             ]
         },
         {
             "word": "OpenAI",
             "weight": 16,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1011,244 +1273,6 @@
                     "rank": 4,
                     "title": "What OpenAI’s latest controversy tells us about the future of math",
                     "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
-                }
-            ]
-        },
-        {
-            "word": "IG",
-            "weight": 15,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 89,
-                    "title": "【2026LPL第三赛段】9月8日 LGD vs IG",
-                    "url": "https://b23.tv/BV1sHb56xEhC"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 92,
-                    "title": "【Phigros】4.0.0 主线第九章更新曲目预览",
-                    "url": "https://b23.tv/BV16vbN6REhD"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 29,
-                    "title": "如何评价二路解说 Wayward 在解说 IG vs LGD 时质疑涉及「假赛」？二路整活的边界在哪里？",
-                    "url": "https://www.zhihu.com/question/2081074583411737268"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 40,
-                    "title": "IVE 巡演香港场 IVE 张元英《EIGHT》个人SOLO舞台",
-                    "url": "https://www.acfun.cn/v/ac48836181"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 11,
-                    "title": "IG成为涅槃组首支晋级全球总决赛资格赛的队伍",
-                    "url": "https://m.hupu.com/hot?tagId=156558"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 29,
-                    "title": "IG 3-1 胜WE豪取三连胜",
-                    "url": "https://m.hupu.com/hot?tagId=156416"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 10,
-                    "title": "How to \"universally\" scroll with AutoKey using other keys as \"triggers\"",
-                    "url": "https://stackoverflow.com/questions/80001896/how-to-universally-scroll-with-autokey-using-other-keys-as-triggers"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 28,
-                    "title": "Compiler complaining about non-copy-assignable type despite a condition ensuring it is",
-                    "url": "https://stackoverflow.com/questions/80001781/compiler-complaining-about-non-copy-assignable-type-despite-a-condition-ensuring"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 35,
-                    "title": "React client doesn't catch the socket.on() signal from the server using setInterval",
-                    "url": "https://stackoverflow.com/questions/80001823/react-client-doesnt-catch-the-socket-on-signal-from-the-server-using-setinter"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 50,
-                    "title": "An unexpected error with number 1000 has occurred: Not authenticated: NotSignedIn",
-                    "url": "https://stackoverflow.com/questions/80001775/an-unexpected-error-with-number-1000-has-occurred-not-authenticated-notsignedi"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 9,
-                    "title": "lightlayer 香港小水管打开nodeseek这个网站，总感觉很卡",
-                    "url": "https://www.nodeseek.com/post-920918-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "【已出】35 出 Lightlayer SJ-VP04-L 4.9 刀月付",
-                    "url": "https://www.nodeseek.com/post-885030-1"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 2,
-                    "title": "大黄质疑IG假赛,遭LPL严打",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363338&topic_name=%E5%A4%A7%E9%BB%84%E8%B4%A8%E7%96%91IG%E5%81%87%E8%B5%9B%2C%E9%81%ADLPL%E4%B8%A5%E6%89%93"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 23,
-                    "title": "IG速通LGD,宋圣禁欲梦回S8",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363132&topic_name=IG%E9%80%9F%E9%80%9ALGD%2C%E5%AE%8B%E5%9C%A3%E7%A6%81%E6%AC%B2%E6%A2%A6%E5%9B%9ES8"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "AI News",
-                    "rank": 3,
-                    "title": "Arm launches Total Design for Physical AI and robotics framework",
-                    "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/"
-                }
-            ]
-        },
-        {
-            "word": "开始",
-            "weight": 13,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 30,
-                    "title": "零食店开始集体\"动手脚\"，网友：不要把我们当傻子，好吗？",
-                    "url": "https://b23.tv/BV1s7bG6nE7x"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 39,
-                    "title": "人到什么年龄就开始老花眼了？",
-                    "url": "https://www.zhihu.com/question/398325975"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 7,
-                    "title": "泽连斯基开始求美国为乌克兰止损",
-                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 12,
-                    "title": "梦开始的地方，34万起，9.9，第一天，-1340。",
-                    "url": "https://bbs.hupu.com/642343987.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 17,
-                    "title": "跑得最快的公司，开始做最慢的事",
-                    "url": "https://www.36kr.com/p/3975460349489669"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 37,
-                    "title": "抢人！第一省会，开始了",
-                    "url": "https://www.36kr.com/p/3975611110978055"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 41,
-                    "title": "换皮肤、上直播、养桌宠，AI办公开始卷情绪价值？",
-                    "url": "https://www.36kr.com/p/3975646906872329"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 49,
-                    "title": "DeepSeek开始追求极致的“智能密度”",
-                    "url": "https://www.36kr.com/p/3974964749178500"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 31,
-                    "title": "还有几个小时就开始了。来猜猜看，今晚苹果到底有没有折叠鸡推出？价格会是多少？",
-                    "url": "https://www.nodeseek.com/post-920859-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 3,
-                    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-                    "url": "https://www.qbitai.com/2026/09/486288.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 3,
-                    "title": "当 Agent 开始写应用，数据库也得换一套打法",
-                    "url": "https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "极客公园",
-                    "rank": 4,
-                    "title": "单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单",
-                    "url": "http://www.geekpark.net/news/370006"
                 }
             ]
         },
@@ -1570,104 +1594,9 @@
             ]
         },
         {
-            "word": "还是",
-            "weight": 11,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 72,
-                    "title": "“我儿子可能还是个gay....”",
-                    "url": "https://b23.tv/BV1LYbH6wE2Q"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 44,
-                    "title": "领导说「你很有潜力」，到底是夸你还是在画饼？",
-                    "url": "https://www.zhihu.com/question/2073436476252086310"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 50,
-                    "title": "在一个企业里管理者认为培训不重要，这种观点是对还是错？",
-                    "url": "https://www.zhihu.com/question/1895598997445525534"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 9,
-                    "title": "明明做了很多事，为什么简历看起来还是没含金量？",
-                    "url": "https://juejin.cn/post/7682253775991734323"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 11,
-                    "title": "🤔首屏Banner压到40KB，LCP还是4秒？原来一直搞错了最大渲染元素",
-                    "url": "https://juejin.cn/post/7682046779555315763"
-                },
-                {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 17,
-                    "title": "狸狸两岁了，还是像个宝宝",
-                    "url": "https://www.douban.com/group/topic/499111802/?_spm_id=MjA5NDg4OTc0"
-                },
-                {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 30,
-                    "title": "我家，还是农村舒服",
-                    "url": "https://www.douban.com/group/topic/498790666/?_spm_id=MTk5ODcxMjg3"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 52,
-                    "title": "应该还是7月那波割的太狠了，股市也通缩了",
-                    "url": "https://bbs.hupu.com/642343646.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 22,
-                    "title": "WorkBuddy真正的对手，最终可能还是微信",
-                    "url": "https://www.36kr.com/p/3974839579285378"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "【导读】又一个利空大家好啊，今晚继续关注海外市场的表现，依旧不怎么平静。先看市场表现，欧洲股市依旧集体大跌，盘中虽然一度有点想“V”的意思，但尾盘还是继续下跌。而美股的表现则是 ...",
-                    "url": "http://news.10jqka.com.cn/20260909/c679756368.shtml"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 1,
-                    "title": "技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码",
-                    "url": "https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article"
-                }
-            ]
-        },
-        {
             "word": "员工",
             "weight": 8,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "toutiao",
@@ -1746,7 +1675,7 @@
         {
             "word": "苹果",
             "weight": 16,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1881,7 +1810,7 @@
         {
             "word": "公司",
             "weight": 24,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -2080,7 +2009,7 @@
         {
             "word": "第三",
             "weight": 20,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2271,7 +2200,7 @@
         {
             "word": "Code",
             "weight": 10,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -2358,7 +2287,7 @@
         {
             "word": "DeepSeek",
             "weight": 9,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2437,7 +2366,7 @@
         {
             "word": "到底",
             "weight": 9,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2516,7 +2445,7 @@
         {
             "word": "发布会",
             "weight": 8,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -2587,7 +2516,7 @@
         {
             "word": "小米",
             "weight": 8,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2658,7 +2587,7 @@
         {
             "word": "科技",
             "weight": 14,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2771,6 +2700,117 @@
                     "rank": 3,
                     "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
                     "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html"
+                }
+            ]
+        },
+        {
+            "word": "Agent",
+            "weight": 13,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 28,
+                    "title": "当我用豆包工作Agent在游戏中塞入知识...",
+                    "url": "https://b23.tv/BV1y5bg6yENh"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 14,
+                    "title": "阿里开源了一个神级Agent项目",
+                    "url": "https://juejin.cn/post/7681931232724910122"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 18,
+                    "title": "别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统",
+                    "url": "https://juejin.cn/post/7682611037704011827"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 19,
+                    "title": "我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness",
+                    "url": "https://juejin.cn/post/7682069529204441131"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 34,
+                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
+                    "url": "https://juejin.cn/post/7682069529204736043"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 43,
+                    "title": "前端转 Agent 开发 · 第三节：LangChain 提示词模板",
+                    "url": "https://juejin.cn/post/7682253775991603251"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 8,
+                    "title": "办公 Agent 大乱战，新势力 TeleAgent 凭什么坐上牌桌",
+                    "url": "https://www.36kr.com/p/3975654852702727"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "[送终身会员] 自带 Agent 的 SSH 终端软件",
+                    "url": "https://www.v2ex.com/t/1240564"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 2,
+                    "title": "首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口",
+                    "url": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 4,
+                    "title": "办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌",
+                    "url": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 3,
+                    "title": "当 Agent 开始写应用，数据库也得换一套打法",
+                    "url": "https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 4,
+                    "title": "面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk",
+                    "url": "https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article"
                 }
             ]
         },
@@ -3516,112 +3556,9 @@
             ]
         },
         {
-            "word": "Agent",
-            "weight": 12,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 28,
-                    "title": "当我用豆包工作Agent在游戏中塞入知识...",
-                    "url": "https://b23.tv/BV1y5bg6yENh"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 14,
-                    "title": "阿里开源了一个神级Agent项目",
-                    "url": "https://juejin.cn/post/7681931232724910122"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 18,
-                    "title": "别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统",
-                    "url": "https://juejin.cn/post/7682611037704011827"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 19,
-                    "title": "我给 Pi Coding Agent 做了一个桌面控制台：Pi-Harness",
-                    "url": "https://juejin.cn/post/7682069529204441131"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 34,
-                    "title": "从 OpenClaw、Codex 到 Hermes，看懂 AI Agent 架构为什么正在收敛",
-                    "url": "https://juejin.cn/post/7682069529204736043"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 43,
-                    "title": "前端转 Agent 开发 · 第三节：LangChain 提示词模板",
-                    "url": "https://juejin.cn/post/7682253775991603251"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "办公 Agent 大乱战，新势力 TeleAgent 凭什么坐上牌桌",
-                    "url": "https://www.36kr.com/p/3975654852702727"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 2,
-                    "title": "首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口",
-                    "url": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 4,
-                    "title": "办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌",
-                    "url": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 3,
-                    "title": "当 Agent 开始写应用，数据库也得换一套打法",
-                    "url": "https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 4,
-                    "title": "面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk",
-                    "url": "https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article"
-                }
-            ]
-        },
-        {
             "word": "GPT",
             "weight": 12,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3724,7 +3661,7 @@
         {
             "word": "开发",
             "weight": 8,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3803,7 +3740,7 @@
         {
             "word": "2.0",
             "weight": 7,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3866,7 +3803,7 @@
         {
             "word": "官宣",
             "weight": 7,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3929,7 +3866,7 @@
         {
             "word": "郑钦文",
             "weight": 6,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3984,7 +3921,7 @@
         {
             "word": "极限",
             "weight": 6,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4039,7 +3976,7 @@
         {
             "word": "难题",
             "weight": 6,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4090,12 +4027,60 @@
                     "url": "https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign="
                 }
             ]
+        },
+        {
+            "word": "Anthropic",
+            "weight": 5,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 39,
+                    "title": "Anthropic一次性锁死十年算力，5170亿美元买什么",
+                    "url": "https://juejin.cn/post/7682593227544936454"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 2,
+                    "title": "Claude Max 订阅条款出现“文字游戏”，用户将 Anthropic 告上法庭",
+                    "url": "https://www.ithome.com/1/000/486.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 27,
+                    "title": "27岁研究员连辞OpenAI、Anthropic，两家都在拿我们的命下注",
+                    "url": "https://www.36kr.com/p/3975901895635462"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 35,
+                    "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
+                    "url": "https://www.36kr.com/p/3975645923340808"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 1,
+                    "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+                    "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/"
+                }
+            ]
         }
     ],
     "flow": {
         "times": [
             "00:23",
-            "00:24"
+            "00:24",
+            "00:32"
         ],
         "rows": [
             {
