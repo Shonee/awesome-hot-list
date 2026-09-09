@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-09",
-    "generatedAt": "2026-09-09 16:29:30",
-    "summary": "香港首任特首董建华逝世成为本期综合热度最高的话题，我国进出口连续4个月呈两位数增长紧随其后。当前覆盖 22 个有效渠道，共形成 569 个榜单时间切片；发现 32 个跨渠道重复热点。",
+    "generatedAt": "2026-09-09 16:36:10",
+    "summary": "香港首任特首董建华逝世成为本期综合热度最高的话题，我国进出口连续4个月呈两位数增长紧随其后。当前覆盖 22 个有效渠道，共形成 570 个榜单时间切片；发现 32 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2968,
+        "deduplicated": 2972,
         "resonance": 32,
         "maxRise": 79,
-        "slices": 569,
+        "slices": 570,
         "coverage": 96
     },
     "topTopics": [
@@ -485,7 +485,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 184,
+            "weight": 185,
             "tone": "hot",
             "hits": [
                 {
@@ -1473,7 +1473,7 @@
         },
         {
             "word": "Pro",
-            "weight": 72,
+            "weight": 73,
             "tone": "hot",
             "hits": [
                 {
@@ -1581,6 +1581,14 @@
                     "url": "https://www.v2ex.com/t/1240245"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益",
+                    "url": "https://www.v2ex.com/t/1240689"
+                },
+                {
                     "channelId": "stackoverflow",
                     "channelName": "Stack Overflow",
                     "ranking": "热门问题",
@@ -1707,20 +1715,12 @@
                     "rank": 34,
                     "title": "【出】(号内有20刀余额）总价1500出DMIT LAX.AN4.Pro.MALIBU",
                     "url": "https://www.nodeseek.com/post-918735-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 43,
-                    "title": "[摆摊出鸡+抽奖] DMIT Pro Wee 大大怪软银家宽 Uzumaru韩国免费机 Vmiss LA CN2 TKY BGP wapac 台湾Hinet 云悠东京TCVM",
-                    "url": "https://www.nodeseek.com/post-917908-1"
                 }
             ]
         },
         {
             "word": "pro",
-            "weight": 72,
+            "weight": 73,
             "tone": "teal",
             "hits": [
                 {
@@ -1828,6 +1828,14 @@
                     "url": "https://www.v2ex.com/t/1240245"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益",
+                    "url": "https://www.v2ex.com/t/1240689"
+                },
+                {
                     "channelId": "stackoverflow",
                     "channelName": "Stack Overflow",
                     "ranking": "热门问题",
@@ -1954,14 +1962,6 @@
                     "rank": 34,
                     "title": "【出】(号内有20刀余额）总价1500出DMIT LAX.AN4.Pro.MALIBU",
                     "url": "https://www.nodeseek.com/post-918735-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 43,
-                    "title": "[摆摊出鸡+抽奖] DMIT Pro Wee 大大怪软银家宽 Uzumaru韩国免费机 Vmiss LA CN2 TKY BGP wapac 台湾Hinet 云悠东京TCVM",
-                    "url": "https://www.nodeseek.com/post-917908-1"
                 }
             ]
         },
@@ -2460,9 +2460,256 @@
             ]
         },
         {
+            "word": "IG",
+            "weight": 48,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 1,
+                    "title": "LGD IG",
+                    "url": "https://search.bilibili.com/all?keyword=LGD%20IG"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 7,
+                    "title": "IG面对LCK胜率几何",
+                    "url": "https://search.bilibili.com/all?keyword=IG%E9%9D%A2%E5%AF%B9LCK%E8%83%9C%E7%8E%87%E5%87%A0%E4%BD%95"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 10,
+                    "title": "锐评IG四连胜晋级冒泡赛",
+                    "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E5%9B%9B%E8%BF%9E%E8%83%9C%E6%99%8B%E7%BA%A7%E5%86%92%E6%B3%A1%E8%B5%9B"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 20,
+                    "title": "IG战胜LGD赛后数据",
+                    "url": "https://search.bilibili.com/all?keyword=IG%E6%88%98%E8%83%9CLGD%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 1,
+                    "title": "【2026LPL第三赛段】9月8日 LGD vs IG",
+                    "url": "https://b23.tv/BV1sHb56xEhC"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 27,
+                    "title": "IG 3-0 LGD 赛后数据雷达图+虎扑评分丨LPL季后赛",
+                    "url": "https://b23.tv/BV1dnbV6TEq4"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 50,
+                    "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 44分钟实机演示",
+                    "url": "https://b23.tv/BV1AxtJ6NEFR"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 95,
+                    "title": "【2026LPL第三赛段】9月6日 IG vs WE",
+                    "url": "https://b23.tv/BV1vobp6eEnT"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 9,
+                    "title": "【真实锐评】IG战胜LGD获得冒泡赛！闹麻了，能赢BLG吗 能赢AL吗 世界赛能赢LCK拿冠军吗！",
+                    "url": "https://b23.tv/BV17fYJ6gEHT"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 18,
+                    "title": "【IGN】《塞尔达传说 时之笛》发售日预告 | 任天堂直面会",
+                    "url": "https://b23.tv/BV1SeYJ64Eii"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 4,
+                    "title": "IG是否有机会冲击冠军",
+                    "url": "https://search.bilibili.com/all?keyword=IG%E6%98%AF%E5%90%A6%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 20,
+                    "title": "【IGN】《塞尔达传说 时之笛》实机演示 | 任天堂直面会",
+                    "url": "https://b23.tv/BV1yAYJ6mEaM"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 7,
+                    "title": "IG 3:0战胜LGD",
+                    "url": "https://www.douyin.com/search/IG%203%3A0%E6%88%98%E8%83%9CLGD"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 47,
+                    "title": "LGD发文恭喜iG",
+                    "url": "https://s.weibo.com/weibo?q=LGD%E5%8F%91%E6%96%87%E6%81%AD%E5%96%9CiG&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 46,
+                    "title": "Crisp预测iG晋级世界赛",
+                    "url": "https://s.weibo.com/weibo?q=Crisp%E9%A2%84%E6%B5%8BiG%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 5,
+                    "title": "LPL 2026 赛季季后赛 iG 3:0 淘汰 LGD 距离晋级决赛仅一步之遥，如何评价这场比赛？",
+                    "url": "https://www.zhihu.com/question/2080688697410852069"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 17,
+                    "title": "iG3:0 速推了 LGD，如何看待 iG 现在的状态？",
+                    "url": "https://www.zhihu.com/question/2080739443938431863"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 2,
+                    "title": "diagram-design",
+                    "url": "https://github.com/cathrynlavery/diagram-design"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 1,
+                    "title": "diagram-design",
+                    "url": "https://github.com/cathrynlavery/diagram-design"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 21,
+                    "title": "awesome-low-level-design",
+                    "url": "https://github.com/ashishps1/awesome-low-level-design"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 15,
+                    "title": "system-design-notes",
+                    "url": "https://github.com/liquidslr/system-design-notes"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "虎扑热榜",
+                    "rank": 9,
+                    "title": "IG 3-1 胜WE豪取三连胜",
+                    "url": "https://m.hupu.com/hot?tagId=156416"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益",
+                    "url": "https://www.v2ex.com/t/1240689"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 3,
+                    "title": "WAN optimization configuration",
+                    "url": "https://stackoverflow.com/questions/80001691/wan-optimization-configuration"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 27,
+                    "title": "TriggerDagRunOperator fails with a 404 \"Dag run with run_id: 'manual__2026-09-08T02:35:00+00:00' not found\"",
+                    "url": "https://stackoverflow.com/questions/80001575/triggerdagrunoperator-fails-with-a-404-dag-run-with-run-id-manual-2026-09-08"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 28,
+                    "title": "Testinfo in playwright framework shows in miliseconds but if want in othere format then what should I do",
+                    "url": "https://stackoverflow.com/questions/80001605/testinfo-in-playwright-framework-shows-in-miliseconds-but-if-want-in-othere-form"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 44,
+                    "title": "go 1.27 might modify go.work.sum on start?",
+                    "url": "https://stackoverflow.com/questions/80001538/go-1-27-might-modify-go-work-sum-on-start"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 48,
+                    "title": "Designing a Future Message System with Flutter and Firebase Firestore",
+                    "url": "https://stackoverflow.com/questions/80001523/designing-a-future-message-system-with-flutter-and-firebase-firestore"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 50,
+                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
+                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 3,
+                    "title": "An unexpected error with number 1000 has occurred: Not authenticated: NotSignedIn",
+                    "url": "https://stackoverflow.com/questions/80001775/an-unexpected-error-with-number-1000-has-occurred-not-authenticated-notsignedi"
+                }
+            ]
+        },
+        {
             "word": "日本",
             "weight": 32,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2709,7 +2956,7 @@
         {
             "word": "还是",
             "weight": 31,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2956,7 +3203,7 @@
         {
             "word": "科技",
             "weight": 30,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3203,7 +3450,7 @@
         {
             "word": "智能",
             "weight": 29,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3450,7 +3697,7 @@
         {
             "word": "折叠",
             "weight": 23,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3697,7 +3944,7 @@
         {
             "word": "2.5",
             "weight": 20,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3864,7 +4111,7 @@
         {
             "word": "系列",
             "weight": 20,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4025,253 +4272,6 @@
                     "rank": 35,
                     "title": "netcup建站是买RS系列还是VPS系列",
                     "url": "https://www.nodeseek.com/post-917196-1"
-                }
-            ]
-        },
-        {
-            "word": "IG",
-            "weight": 47,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 1,
-                    "title": "LGD IG",
-                    "url": "https://search.bilibili.com/all?keyword=LGD%20IG"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 7,
-                    "title": "IG面对LCK胜率几何",
-                    "url": "https://search.bilibili.com/all?keyword=IG%E9%9D%A2%E5%AF%B9LCK%E8%83%9C%E7%8E%87%E5%87%A0%E4%BD%95"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 10,
-                    "title": "锐评IG四连胜晋级冒泡赛",
-                    "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E5%9B%9B%E8%BF%9E%E8%83%9C%E6%99%8B%E7%BA%A7%E5%86%92%E6%B3%A1%E8%B5%9B"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 20,
-                    "title": "IG战胜LGD赛后数据",
-                    "url": "https://search.bilibili.com/all?keyword=IG%E6%88%98%E8%83%9CLGD%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 1,
-                    "title": "【2026LPL第三赛段】9月8日 LGD vs IG",
-                    "url": "https://b23.tv/BV1sHb56xEhC"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 27,
-                    "title": "IG 3-0 LGD 赛后数据雷达图+虎扑评分丨LPL季后赛",
-                    "url": "https://b23.tv/BV1dnbV6TEq4"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 50,
-                    "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 44分钟实机演示",
-                    "url": "https://b23.tv/BV1AxtJ6NEFR"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 95,
-                    "title": "【2026LPL第三赛段】9月6日 IG vs WE",
-                    "url": "https://b23.tv/BV1vobp6eEnT"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 9,
-                    "title": "【真实锐评】IG战胜LGD获得冒泡赛！闹麻了，能赢BLG吗 能赢AL吗 世界赛能赢LCK拿冠军吗！",
-                    "url": "https://b23.tv/BV17fYJ6gEHT"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 18,
-                    "title": "【IGN】《塞尔达传说 时之笛》发售日预告 | 任天堂直面会",
-                    "url": "https://b23.tv/BV1SeYJ64Eii"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 4,
-                    "title": "IG是否有机会冲击冠军",
-                    "url": "https://search.bilibili.com/all?keyword=IG%E6%98%AF%E5%90%A6%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 20,
-                    "title": "【IGN】《塞尔达传说 时之笛》实机演示 | 任天堂直面会",
-                    "url": "https://b23.tv/BV1yAYJ6mEaM"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 7,
-                    "title": "IG 3:0战胜LGD",
-                    "url": "https://www.douyin.com/search/IG%203%3A0%E6%88%98%E8%83%9CLGD"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 47,
-                    "title": "LGD发文恭喜iG",
-                    "url": "https://s.weibo.com/weibo?q=LGD%E5%8F%91%E6%96%87%E6%81%AD%E5%96%9CiG&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 46,
-                    "title": "Crisp预测iG晋级世界赛",
-                    "url": "https://s.weibo.com/weibo?q=Crisp%E9%A2%84%E6%B5%8BiG%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 5,
-                    "title": "LPL 2026 赛季季后赛 iG 3:0 淘汰 LGD 距离晋级决赛仅一步之遥，如何评价这场比赛？",
-                    "url": "https://www.zhihu.com/question/2080688697410852069"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 17,
-                    "title": "iG3:0 速推了 LGD，如何看待 iG 现在的状态？",
-                    "url": "https://www.zhihu.com/question/2080739443938431863"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每日趋势",
-                    "rank": 2,
-                    "title": "diagram-design",
-                    "url": "https://github.com/cathrynlavery/diagram-design"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 1,
-                    "title": "diagram-design",
-                    "url": "https://github.com/cathrynlavery/diagram-design"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Java",
-                    "rank": 21,
-                    "title": "awesome-low-level-design",
-                    "url": "https://github.com/ashishps1/awesome-low-level-design"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每日趋势",
-                    "rank": 15,
-                    "title": "system-design-notes",
-                    "url": "https://github.com/liquidslr/system-design-notes"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 9,
-                    "title": "IG 3-1 胜WE豪取三连胜",
-                    "url": "https://m.hupu.com/hot?tagId=156416"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 3,
-                    "title": "WAN optimization configuration",
-                    "url": "https://stackoverflow.com/questions/80001691/wan-optimization-configuration"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 27,
-                    "title": "TriggerDagRunOperator fails with a 404 \"Dag run with run_id: 'manual__2026-09-08T02:35:00+00:00' not found\"",
-                    "url": "https://stackoverflow.com/questions/80001575/triggerdagrunoperator-fails-with-a-404-dag-run-with-run-id-manual-2026-09-08"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 28,
-                    "title": "Testinfo in playwright framework shows in miliseconds but if want in othere format then what should I do",
-                    "url": "https://stackoverflow.com/questions/80001605/testinfo-in-playwright-framework-shows-in-miliseconds-but-if-want-in-othere-form"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 44,
-                    "title": "go 1.27 might modify go.work.sum on start?",
-                    "url": "https://stackoverflow.com/questions/80001538/go-1-27-might-modify-go-work-sum-on-start"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 48,
-                    "title": "Designing a Future Message System with Flutter and Firebase Firestore",
-                    "url": "https://stackoverflow.com/questions/80001523/designing-a-future-message-system-with-flutter-and-firebase-firestore"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 50,
-                    "title": "New in type script Playwright I am not able to get proper psot method respoce",
-                    "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 3,
-                    "title": "An unexpected error with number 1000 has occurred: Not authenticated: NotSignedIn",
-                    "url": "https://stackoverflow.com/questions/80001775/an-unexpected-error-with-number-1000-has-occurred-not-authenticated-notsignedi"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "Compiler complaining about non-copy-assignable type despite a condition ensuring it is",
-                    "url": "https://stackoverflow.com/questions/80001781/compiler-complaining-about-non-copy-assignable-type-despite-a-condition-ensuring"
                 }
             ]
         },
@@ -9208,9 +9208,9 @@
         "times": [
             "00:24",
             "03:17",
-            "07:19",
-            "12:26",
-            "16:29"
+            "08:55",
+            "12:33",
+            "16:35"
         ],
         "rows": [
             {
