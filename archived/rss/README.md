@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 08:55:57
+> 更新时间：2026-09-09 09:32:34
 
 ## 少数派
 
-1. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
-2. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
-3. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
-4. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
-5. [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
+1. [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
+2. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
+3. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
+4. [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+5. [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
 
 ## 爱范儿
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
-2. [Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求](https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article)
-3. [Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息](https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article)
-4. [Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度](https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article)
-5. [华为乾崑，守护200万份信任](https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article)
+1. [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
+2. [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
+3. [Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求](https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article)
+4. [Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息](https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article)
+5. [Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度](https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-2. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-3. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-4. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
-5. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
-
-## AI News
-
-1. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-2. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
-3. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
-4. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
-5. [MG Ship adds AI route optimisation as logistics returns accelerate](https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/)
+1. [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
+2. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
+3. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+4. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+5. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
 
 ## 阮一峰网络日志
 
