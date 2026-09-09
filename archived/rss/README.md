@@ -1,38 +1,38 @@
 # RSS热榜
 
-> 更新时间：2026-09-09 18:22:40
+> 更新时间：2026-09-09 19:20:32
 
 ## 少数派
 
-1. [华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
-2. [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
-3. [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
-4. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
-5. [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
+1. [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
+2. [华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
+3. [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
+4. [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
+5. [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
 
 ## 爱范儿
 
-1. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌](https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运](https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片](https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌](https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代](https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
-1. [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
-2. [具身机器人能搞定超市盘点吗？全球七万门店正在给出答案](https://www.qbitai.com/2026/09/486280.html)
-3. [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
-4. [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
-5. [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
+1. [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
+2. [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
+3. [具身机器人能搞定超市盘点吗？全球七万门店正在给出答案](https://www.qbitai.com/2026/09/486280.html)
+4. [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
+5. [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
 
 ## InfoQ
 
-1. [面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article)
-2. [jQuery 二十年：一个小小的库如何重塑了 Web 开发](https://www.infoq.cn/article/qqfyJFd6mGXvErcfmyYI?utm_source=rss&utm_medium=article)
-3. [Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元](https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article)
-4. [百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”](https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx?utm_source=rss&utm_medium=article)
-5. [“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团](https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article)
+1. [技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article)
+2. [Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式](https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&utm_medium=article)
+3. [当 Agent 开始写应用，数据库也得换一套打法](https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article)
+4. [面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article)
+5. [jQuery 二十年：一个小小的库如何重塑了 Web 开发](https://www.infoq.cn/article/qqfyJFd6mGXvErcfmyYI?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,19 +52,19 @@
 
 ## Hacker News
 
-1. [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
-2. [On Really Trying (2009)](https://gwern.net/on-really-trying)
-3. [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
-4. [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
-5. [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
+1. [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+2. [Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine](https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34)
+3. [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email)
+4. [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
+5. [On Really Trying (2009)](https://gwern.net/on-really-trying)
 
 ## AI News
 
-1. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
-2. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-3. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
-4. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
-5. [YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches](https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/)
+1. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+2. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+3. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+4. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+5. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
 
 ## 阮一峰网络日志
 
