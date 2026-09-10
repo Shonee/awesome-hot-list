@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-10",
-    "generatedAt": "2026-09-10 16:30:30",
-    "summary": "iPhone Duo上手体验成为本期综合热度最高的话题，iPhone18Pro价格紧随其后。当前覆盖 22 个有效渠道，共形成 563 个榜单时间切片；发现 40 个跨渠道重复热点。",
+    "generatedAt": "2026-09-10 16:37:17",
+    "summary": "iPhone Duo上手体验成为本期综合热度最高的话题，iPhone18Pro价格紧随其后。当前覆盖 22 个有效渠道，共形成 564 个榜单时间切片；发现 40 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3118,
+        "deduplicated": 3124,
         "resonance": 40,
         "maxRise": 55,
-        "slices": 563,
+        "slices": 564,
         "coverage": 96
     },
     "topTopics": [
@@ -565,7 +565,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 213,
+            "weight": 214,
             "tone": "hot",
             "hits": [
                 {
@@ -4149,9 +4149,256 @@
             ]
         },
         {
+            "word": "美国",
+            "weight": 36,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 14,
+                    "title": "地表42度，美国飞行员开战斗机冲上万米高空，竟是为了做冰淇淋？【AI全民制作人】",
+                    "url": "https://b23.tv/BV1Mabw6cEzV"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 50,
+                    "title": "🍗美式烤肉严父🍗战斧牛排吃到爽 馋死人不偿命！《美国烧烤对决》",
+                    "url": "https://b23.tv/BV1bkYH6fEaU"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 11,
+                    "title": "栾念调职去美国的原因",
+                    "url": "https://s.weibo.com/weibo?q=%E6%A0%BE%E5%BF%B5%E8%B0%83%E8%81%8C%E5%8E%BB%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%8E%9F%E5%9B%A0&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 24,
+                    "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
+                    "url": "https://www.zhihu.com/question/2080662753119938210"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "泽连斯基开始求美国为乌克兰止损",
+                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 9,
+                    "title": "美国囤69万吨铜的目的是什么",
+                    "url": "https://www.toutiao.com/trending/7683488444735032895/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683488444735032895%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%9B%A469%E4%B8%87%E5%90%A8%E9%93%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7683488444735032895"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 20,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "泽连斯基开始求美国为乌克兰止损",
+                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 24,
+                    "title": "美国囤69万吨铜的目的是什么",
+                    "url": "https://www.toutiao.com/trending/7683488444735032895/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683488444735032895%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%9B%A469%E4%B8%87%E5%90%A8%E9%93%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7683488444735032895"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "泽连斯基开始求美国为乌克兰止损",
+                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 17,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 35,
+                    "title": "美国囤69万吨铜的目的是什么",
+                    "url": "https://www.toutiao.com/trending/7683488444735032895/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683488444735032895%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%9B%A469%E4%B8%87%E5%90%A8%E9%93%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7683488444735032895"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 44,
+                    "title": "特朗普晒“美国版图”冰岛为何紧张",
+                    "url": "https://www.toutiao.com/trending/7683536822072249875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683536822072249875%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%92%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%89%88%E5%9B%BE%E2%80%9D%E5%86%B0%E5%B2%9B%E4%B8%BA%E4%BD%95%E7%B4%A7%E5%BC%A0%22%7D&rank=&style_id=40132&topic_id=7683536822072249875"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 14,
+                    "title": "泽连斯基开始求美国为乌克兰止损",
+                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 19,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 38,
+                    "title": "美国囤69万吨铜的目的是什么",
+                    "url": "https://www.toutiao.com/trending/7683488444735032895/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683488444735032895%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%9B%A469%E4%B8%87%E5%90%A8%E9%93%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7683488444735032895"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 44,
+                    "title": "特朗普晒“美国版图”冰岛为何紧张",
+                    "url": "https://www.toutiao.com/trending/7683536822072249875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683536822072249875%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%92%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%89%88%E5%9B%BE%E2%80%9D%E5%86%B0%E5%B2%9B%E4%B8%BA%E4%BD%95%E7%B4%A7%E5%BC%A0%22%7D&rank=&style_id=40132&topic_id=7683536822072249875"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 13,
+                    "title": "泽连斯基开始求美国为乌克兰止损",
+                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 17,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 26,
+                    "title": "美国囤69万吨铜的目的是什么",
+                    "url": "https://www.toutiao.com/trending/7683488444735032895/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683488444735032895%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%9B%A469%E4%B8%87%E5%90%A8%E9%93%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7683488444735032895"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 42,
+                    "title": "特朗普晒“美国版图”冰岛为何紧张",
+                    "url": "https://www.toutiao.com/trending/7683536822072249875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683536822072249875%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%92%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%89%88%E5%9B%BE%E2%80%9D%E5%86%B0%E5%B2%9B%E4%B8%BA%E4%BD%95%E7%B4%A7%E5%BC%A0%22%7D&rank=&style_id=40132&topic_id=7683536822072249875"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 4,
+                    "title": "泽连斯基开始求美国为乌克兰止损",
+                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "美国囤69万吨铜的目的是什么",
+                    "url": "https://www.toutiao.com/trending/7683488444735032895/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683488444735032895%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%9B%A469%E4%B8%87%E5%90%A8%E9%93%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7683488444735032895"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 17,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 42,
+                    "title": "特朗普晒“美国版图”冰岛为何紧张",
+                    "url": "https://www.toutiao.com/trending/7683536822072249875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683536822072249875%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%92%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%89%88%E5%9B%BE%E2%80%9D%E5%86%B0%E5%B2%9B%E4%B8%BA%E4%BD%95%E7%B4%A7%E5%BC%A0%22%7D&rank=&style_id=40132&topic_id=7683536822072249875"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "泽连斯基开始求美国为乌克兰止损",
+                    "url": "https://www.toutiao.com/trending/7683534658964819510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683534658964819510%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A2%E6%8D%9F%22%7D&rank=&style_id=40132&topic_id=7683534658964819510"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 29,
+                    "title": "美国囤69万吨铜的目的是什么",
+                    "url": "https://www.toutiao.com/trending/7683488444735032895/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683488444735032895%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%9B%A469%E4%B8%87%E5%90%A8%E9%93%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7683488444735032895"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 42,
+                    "title": "特朗普晒“美国版图”冰岛为何紧张",
+                    "url": "https://www.toutiao.com/trending/7683536822072249875/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683536822072249875%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%92%E2%80%9C%E7%BE%8E%E5%9B%BD%E7%89%88%E5%9B%BE%E2%80%9D%E5%86%B0%E5%B2%9B%E4%B8%BA%E4%BD%95%E7%B4%A7%E5%BC%A0%22%7D&rank=&style_id=40132&topic_id=7683536822072249875"
+                }
+            ]
+        },
+        {
             "word": "全球",
             "weight": 29,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4398,7 +4645,7 @@
         {
             "word": "体验",
             "weight": 28,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4645,7 +4892,7 @@
         {
             "word": "公司",
             "weight": 64,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4892,7 +5139,7 @@
         {
             "word": "系列",
             "weight": 48,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5139,7 +5386,7 @@
         {
             "word": "还是",
             "weight": 40,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5386,7 +5633,7 @@
         {
             "word": "科技",
             "weight": 38,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5633,7 +5880,7 @@
         {
             "word": "DeepSeek",
             "weight": 29,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5880,7 +6127,7 @@
         {
             "word": "OpenAI",
             "weight": 22,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6069,9 +6316,256 @@
             ]
         },
         {
+            "word": "GPT",
+            "weight": 52,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 16,
+                    "title": "实测GPT-6 Astra",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGPT-6%20Astra"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 15,
+                    "title": "GPT Images 2.5首发实测",
+                    "url": "https://search.bilibili.com/all?keyword=GPT%20Images%202.5%E9%A6%96%E5%8F%91%E5%AE%9E%E6%B5%8B"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 20,
+                    "title": "GPT-6 被实测「很强但被吹过头了」，你如何评价这款模型？",
+                    "url": "https://www.zhihu.com/question/2080789299197384413"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 24,
+                    "title": "Codex 里的 GPT 6 Astra 、 GPT 5.6 Sol 、 Terra 、 Luna 怎么选？",
+                    "url": "https://www.zhihu.com/question/2079625515565060391"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 10,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 10,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 5,
+                    "title": "GPT - 6 Astra 的使用焚诀",
+                    "url": "https://juejin.cn/post/7682634449856217115"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 24,
+                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
+                    "url": "https://juejin.cn/post/7682241475045687339"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 29,
+                    "title": "从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？",
+                    "url": "https://juejin.cn/post/7682634449856675867"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 35,
+                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
+                    "url": "https://juejin.cn/post/7682013859251863552"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 42,
+                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
+                    "url": "https://juejin.cn/post/7683072481465057323"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "OpenAI ChatGPT 语音模式支持调用 GPT-5.6 Sol 和 GPT-6 Astra",
+                    "url": "https://www.ithome.com/1/000/577.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 1,
+                    "title": "刚刚，GPT-Image-2.5发布",
+                    "url": "https://www.36kr.com/p/3975317790273801"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 11,
+                    "title": "GPT Images 2.5 突发上线，网友的「灵魂画作」一个比一个离谱",
+                    "url": "https://www.36kr.com/p/3975491521458433"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 15,
+                    "title": "GPT-6 击穿 48 道地狱级验证码，最聪明的 AI，遇上最笨的人类",
+                    "url": "https://www.36kr.com/p/3975337099227397"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 19,
+                    "title": "GPT-6数学封神，遭顶尖数学家公开质疑“算力截胡”？OpenAI内部研究员撕开Astra真相：人脑更容易被污染，而AI只看概率",
+                    "url": "https://www.36kr.com/p/3975903682998786"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 40,
+                    "title": "说句实话，GPT-6将冲击大量白领的工作",
+                    "url": "https://www.36kr.com/p/3976038677295367"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 44,
+                    "title": "实测 GPT Images 2.5：连鬼画符都能看懂，灵魂画手真要翻身了",
+                    "url": "https://www.36kr.com/p/3976786961019396"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 49,
+                    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+                    "url": "https://www.36kr.com/p/3976110733701636"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 4,
+                    "title": "如何充值 chatgpt？ 救救孩子吧",
+                    "url": "https://www.v2ex.com/t/1240984"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 39,
+                    "title": "DeepSeek V4.1 Flash出来了？比GPT6还叼？",
+                    "url": "https://www.nodeseek.com/post-920897-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 34,
+                    "title": "出两个 GPT PLUS  直充月卡",
+                    "url": "https://www.nodeseek.com/post-909553-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "怎么查看个人ChatGPT额度",
+                    "url": "https://www.nodeseek.com/post-920301-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 14,
+                    "title": "[情报]ChatGPT可能会停止新用户的Pro订阅，说是增涨太快？",
+                    "url": "https://www.nodeseek.com/post-920572-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 49,
+                    "title": "gpt代充怎么登陆上我的账号的？",
+                    "url": "https://www.nodeseek.com/post-919664-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 22,
+                    "title": "gpt-image-2.5 还是厉害啊 [有点 nsfw]",
+                    "url": "https://www.nodeseek.com/post-920317-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "gpt-6-astra这是被玩坏了还是降智了",
+                    "url": "https://www.nodeseek.com/post-921102-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 48,
+                    "title": "【车找人】48月 GPT Team｜80/月｜长期稳定车",
+                    "url": "https://www.nodeseek.com/post-921093-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 6,
+                    "title": "今天chatgpt是不是更新了什么东西？",
+                    "url": "https://www.nodeseek.com/post-921158-1"
+                }
+            ]
+        },
+        {
             "word": "Apple",
             "weight": 40,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6318,7 +6812,7 @@
         {
             "word": "支持",
             "weight": 34,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -6565,7 +7059,7 @@
         {
             "word": "首款",
             "weight": 26,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6756,7 +7250,7 @@
                     "channelName": "V2EX",
                     "ranking": "热门主题",
                     "rank": 8,
-                    "title": "苹果首款折叠屏手机名字敲定就叫 iPhone Duo\r\n\r\nDuo 怎么读呢 多?嘟噢?",
+                    "title": "苹果首款折叠屏手机名字敲定就叫 iPhone Duo\n\nDuo 怎么读呢 多?嘟噢?",
                     "url": "https://www.v2ex.com/t/1240720"
                 },
                 {
@@ -6780,7 +7274,7 @@
         {
             "word": "Max",
             "weight": 20,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -7011,7 +7505,7 @@
         {
             "word": "CEO",
             "weight": 15,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -7154,7 +7648,7 @@
         {
             "word": "华为",
             "weight": 14,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -7271,256 +7765,256 @@
             ]
         },
         {
-            "word": "GPT",
-            "weight": 51,
-            "tone": "teal",
+            "word": "现在",
+            "weight": 37,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
                     "channelName": "哔哩哔哩",
                     "ranking": "热门搜索",
-                    "rank": 16,
-                    "title": "实测GPT-6 Astra",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGPT-6%20Astra"
+                    "rank": 18,
+                    "title": "现在值得入手iPhone17吗",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%A8%E5%80%BC%E5%BE%97%E5%85%A5%E6%89%8BiPhone17%E5%90%97"
                 },
                 {
                     "channelId": "bilibili",
                     "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 15,
-                    "title": "GPT Images 2.5首发实测",
-                    "url": "https://search.bilibili.com/all?keyword=GPT%20Images%202.5%E9%A6%96%E5%8F%91%E5%AE%9E%E6%B5%8B"
+                    "ranking": "全站热门视频",
+                    "rank": 32,
+                    "title": "特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?",
+                    "url": "https://b23.tv/BV1zTYs6nEkk"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 64,
+                    "title": "RTX 5060首发：人人“骂” 现在：大学生⚡️概念神⚡️",
+                    "url": "https://b23.tv/BV1G6bg6oEWC"
                 },
                 {
                     "channelId": "zhihu",
                     "channelName": "知乎",
                     "ranking": "知乎热榜",
-                    "rank": 20,
-                    "title": "GPT-6 被实测「很强但被吹过头了」，你如何评价这款模型？",
-                    "url": "https://www.zhihu.com/question/2080789299197384413"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 24,
-                    "title": "Codex 里的 GPT 6 Astra 、 GPT 5.6 Sol 、 Terra 、 Luna 怎么选？",
-                    "url": "https://www.zhihu.com/question/2079625515565060391"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每日趋势",
-                    "rank": 10,
-                    "title": "awesome-gpt-image-2",
-                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 10,
-                    "title": "awesome-gpt-image-2",
-                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 5,
-                    "title": "GPT - 6 Astra 的使用焚诀",
-                    "url": "https://juejin.cn/post/7682634449856217115"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 24,
-                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
-                    "url": "https://juejin.cn/post/7682241475045687339"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 29,
-                    "title": "从 ChatGPT 到 Astra：四年走完的路，AGI 真的来了吗？",
-                    "url": "https://juejin.cn/post/7682634449856675867"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
                     "rank": 35,
-                    "title": "别吹了，依赖图像识别的GPT‑6 Astra永远快不起来",
-                    "url": "https://juejin.cn/post/7682013859251863552"
+                    "title": "陈赫电竞房引发热议，其「含金量」体现在哪些方面，对普通玩家有何参考？",
+                    "url": "https://www.zhihu.com/question/2072254278954230253"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 45,
+                    "title": "一种已经灭绝的古代动物，现在只能见到骨头，要怎么推断它吃什么？",
+                    "url": "https://www.zhihu.com/question/1977792112658519070"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 11,
+                    "title": "为啥星宇已经处罚了高管层且给应届生发补贴了，大众依旧不买账？星宇现在该怎么做才能挽回口碑？",
+                    "url": "https://www.zhihu.com/question/2080267732650387304"
                 },
                 {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
-                    "rank": 42,
-                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
-                    "url": "https://juejin.cn/post/7683072481465057323"
+                    "rank": 27,
+                    "title": "为什么现在越来越多的开源模型，都“毕业“于 Qwen？",
+                    "url": "https://juejin.cn/post/7682499191234707497"
                 },
                 {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "OpenAI ChatGPT 语音模式支持调用 GPT-5.6 Sol 和 GPT-6 Astra",
-                    "url": "https://www.ithome.com/1/000/577.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 1,
-                    "title": "刚刚，GPT-Image-2.5发布",
-                    "url": "https://www.36kr.com/p/3975317790273801"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 11,
-                    "title": "GPT Images 2.5 突发上线，网友的「灵魂画作」一个比一个离谱",
-                    "url": "https://www.36kr.com/p/3975491521458433"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 15,
-                    "title": "GPT-6 击穿 48 道地狱级验证码，最聪明的 AI，遇上最笨的人类",
-                    "url": "https://www.36kr.com/p/3975337099227397"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 19,
-                    "title": "GPT-6数学封神，遭顶尖数学家公开质疑“算力截胡”？OpenAI内部研究员撕开Astra真相：人脑更容易被污染，而AI只看概率",
-                    "url": "https://www.36kr.com/p/3975903682998786"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 40,
-                    "title": "说句实话，GPT-6将冲击大量白领的工作",
-                    "url": "https://www.36kr.com/p/3976038677295367"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 44,
-                    "title": "实测 GPT Images 2.5：连鬼画符都能看懂，灵魂画手真要翻身了",
-                    "url": "https://www.36kr.com/p/3976786961019396"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 49,
-                    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-                    "url": "https://www.36kr.com/p/3976110733701636"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "DeepSeek V4.1 Flash出来了？比GPT6还叼？",
-                    "url": "https://www.nodeseek.com/post-920897-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 34,
-                    "title": "出两个 GPT PLUS  直充月卡",
-                    "url": "https://www.nodeseek.com/post-909553-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "怎么查看个人ChatGPT额度",
-                    "url": "https://www.nodeseek.com/post-920301-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 14,
-                    "title": "[情报]ChatGPT可能会停止新用户的Pro订阅，说是增涨太快？",
-                    "url": "https://www.nodeseek.com/post-920572-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 49,
-                    "title": "gpt代充怎么登陆上我的账号的？",
-                    "url": "https://www.nodeseek.com/post-919664-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 22,
-                    "title": "gpt-image-2.5 还是厉害啊 [有点 nsfw]",
-                    "url": "https://www.nodeseek.com/post-920317-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 10,
-                    "title": "gpt-6-astra这是被玩坏了还是降智了",
-                    "url": "https://www.nodeseek.com/post-921102-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 48,
-                    "title": "【车找人】48月 GPT Team｜80/月｜长期稳定车",
-                    "url": "https://www.nodeseek.com/post-921093-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 6,
-                    "title": "今天chatgpt是不是更新了什么东西？",
-                    "url": "https://www.nodeseek.com/post-921158-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
                     "rank": 36,
-                    "title": "【请教】GPT Team成员如何换邮箱",
-                    "url": "https://www.nodeseek.com/post-916466-1"
+                    "title": "现在回头看，Dart取消宏是无比正确的决定",
+                    "url": "https://juejin.cn/post/7683027781632294946"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 20,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 17,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 19,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 17,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 17,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 19,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 48,
+                    "title": "台教授：现在轮到美国要弯道超车了",
+                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%22202609100853423D02F95A79BE07D954C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 47,
+                    "title": "那些年老师撒过的“谎”现在终于懂了",
+                    "url": "https://www.toutiao.com/trending/7683734383173976110/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683734383173976110%22%2C%22hot_board_impr_id%22%3A%2220260910152437A7DC9485CD11B3FAB254%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%A3%E4%BA%9B%E5%B9%B4%E8%80%81%E5%B8%88%E6%92%92%E8%BF%87%E7%9A%84%E2%80%9C%E8%B0%8E%E2%80%9D%E7%8E%B0%E5%9C%A8%E7%BB%88%E4%BA%8E%E6%87%82%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683734383173976110"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 45,
+                    "title": "那些年老师撒过的“谎”现在终于懂了",
+                    "url": "https://www.toutiao.com/trending/7683734383173976110/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683734383173976110%22%2C%22hot_board_impr_id%22%3A%2220260910162913A9746100656E021151FE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%A3%E4%BA%9B%E5%B9%B4%E8%80%81%E5%B8%88%E6%92%92%E8%BF%87%E7%9A%84%E2%80%9C%E8%B0%8E%E2%80%9D%E7%8E%B0%E5%9C%A8%E7%BB%88%E4%BA%8E%E6%87%82%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683734383173976110"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 32,
+                    "title": "男子怀疑妻子出轨，殴打妻子后和妻子发生性关系被告强奸！男子姐姐：“两人孩子都14岁了，夫妻间正常的生活，怎么能算强奸呢？而且女方当时也没说不愿意！现在女方索赔30万，但不谅解，我妈下跪求情也没有用，真",
+                    "url": "https://bbs.hupu.com/642342967.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 49,
+                    "title": "刘亦菲ins发合照把越南女星裁掉了，现在评论区被越南网友冲了",
+                    "url": "https://bbs.hupu.com/642342681.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 53,
+                    "title": "我一发小最近特迷茫，本身他是头部大模型的中层员工，手上期权价值一个亿，离解禁可售日期不远了，最近又有创业公司联系他，邀他去做联合创始人，成功了就是百亿富豪，但现在这家公司又有竞业协议3年，他愁的不行",
+                    "url": "https://bbs.hupu.com/642343699.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 50,
+                    "title": "现在00后去奶茶店面试都会被嫌弃年龄太大了而拒绝了。国内的就业年龄焦虑真的是越来越严重",
+                    "url": "https://bbs.hupu.com/642344101.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 54,
+                    "title": "现在剪头发都那么贵的吗",
+                    "url": "https://bbs.hupu.com/642344511.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 22,
+                    "title": "现在的刑侦技术有多厉害？有没有完美犯罪？",
+                    "url": "https://bbs.hupu.com/642353346.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 42,
+                    "title": "有人预测：10年后的2036年，房价将是现在的2-3倍，这可能吗？",
+                    "url": "https://bbs.hupu.com/642353231.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "虎扑热榜",
+                    "rank": 30,
+                    "title": "东契奇：感恩和老詹共事，现在要开启湖人新篇章",
+                    "url": "https://m.hupu.com/hot?tagId=156594"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "现在教师节收礼已经这么明目张胆了吗",
+                    "url": "https://www.v2ex.com/t/1240939"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 33,
+                    "title": "现在vmiss什么价格，准备9月底出掉，us tri",
+                    "url": "https://www.nodeseek.com/post-920493-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 37,
+                    "title": "Downie 4现在进去怎么需要购买啊",
+                    "url": "https://www.nodeseek.com/post-920919-1"
                 }
             ]
         },
         {
             "word": "郑钦文",
             "weight": 33,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -7767,7 +8261,7 @@
         {
             "word": "售价",
             "weight": 18,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -7982,7 +8476,7 @@
         {
             "word": "Flash",
             "weight": 15,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8109,7 +8603,7 @@
         {
             "word": "V4.1",
             "weight": 14,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8228,7 +8722,7 @@
         {
             "word": "开源",
             "weight": 13,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8337,256 +8831,9 @@
             ]
         },
         {
-            "word": "现在",
-            "weight": 36,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 18,
-                    "title": "现在值得入手iPhone17吗",
-                    "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%A8%E5%80%BC%E5%BE%97%E5%85%A5%E6%89%8BiPhone17%E5%90%97"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 32,
-                    "title": "特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?",
-                    "url": "https://b23.tv/BV1zTYs6nEkk"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 64,
-                    "title": "RTX 5060首发：人人“骂” 现在：大学生⚡️概念神⚡️",
-                    "url": "https://b23.tv/BV1G6bg6oEWC"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 35,
-                    "title": "陈赫电竞房引发热议，其「含金量」体现在哪些方面，对普通玩家有何参考？",
-                    "url": "https://www.zhihu.com/question/2072254278954230253"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 45,
-                    "title": "一种已经灭绝的古代动物，现在只能见到骨头，要怎么推断它吃什么？",
-                    "url": "https://www.zhihu.com/question/1977792112658519070"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 11,
-                    "title": "为啥星宇已经处罚了高管层且给应届生发补贴了，大众依旧不买账？星宇现在该怎么做才能挽回口碑？",
-                    "url": "https://www.zhihu.com/question/2080267732650387304"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 27,
-                    "title": "为什么现在越来越多的开源模型，都“毕业“于 Qwen？",
-                    "url": "https://juejin.cn/post/7682499191234707497"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 36,
-                    "title": "现在回头看，Dart取消宏是无比正确的决定",
-                    "url": "https://juejin.cn/post/7683027781632294946"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 20,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 17,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 19,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 17,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 17,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 19,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 48,
-                    "title": "台教授：现在轮到美国要弯道超车了",
-                    "url": "https://www.toutiao.com/trending/7683478830803369993/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683478830803369993%22%2C%22hot_board_impr_id%22%3A%22202609100853423D02F95A79BE07D954C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%95%99%E6%8E%88%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BD%AE%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683478830803369993"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 47,
-                    "title": "那些年老师撒过的“谎”现在终于懂了",
-                    "url": "https://www.toutiao.com/trending/7683734383173976110/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683734383173976110%22%2C%22hot_board_impr_id%22%3A%2220260910152437A7DC9485CD11B3FAB254%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%A3%E4%BA%9B%E5%B9%B4%E8%80%81%E5%B8%88%E6%92%92%E8%BF%87%E7%9A%84%E2%80%9C%E8%B0%8E%E2%80%9D%E7%8E%B0%E5%9C%A8%E7%BB%88%E4%BA%8E%E6%87%82%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683734383173976110"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 45,
-                    "title": "那些年老师撒过的“谎”现在终于懂了",
-                    "url": "https://www.toutiao.com/trending/7683734383173976110/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683734383173976110%22%2C%22hot_board_impr_id%22%3A%2220260910162913A9746100656E021151FE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%A3%E4%BA%9B%E5%B9%B4%E8%80%81%E5%B8%88%E6%92%92%E8%BF%87%E7%9A%84%E2%80%9C%E8%B0%8E%E2%80%9D%E7%8E%B0%E5%9C%A8%E7%BB%88%E4%BA%8E%E6%87%82%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7683734383173976110"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 32,
-                    "title": "男子怀疑妻子出轨，殴打妻子后和妻子发生性关系被告强奸！男子姐姐：“两人孩子都14岁了，夫妻间正常的生活，怎么能算强奸呢？而且女方当时也没说不愿意！现在女方索赔30万，但不谅解，我妈下跪求情也没有用，真",
-                    "url": "https://bbs.hupu.com/642342967.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 49,
-                    "title": "刘亦菲ins发合照把越南女星裁掉了，现在评论区被越南网友冲了",
-                    "url": "https://bbs.hupu.com/642342681.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 53,
-                    "title": "我一发小最近特迷茫，本身他是头部大模型的中层员工，手上期权价值一个亿，离解禁可售日期不远了，最近又有创业公司联系他，邀他去做联合创始人，成功了就是百亿富豪，但现在这家公司又有竞业协议3年，他愁的不行",
-                    "url": "https://bbs.hupu.com/642343699.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 50,
-                    "title": "现在00后去奶茶店面试都会被嫌弃年龄太大了而拒绝了。国内的就业年龄焦虑真的是越来越严重",
-                    "url": "https://bbs.hupu.com/642344101.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 54,
-                    "title": "现在剪头发都那么贵的吗",
-                    "url": "https://bbs.hupu.com/642344511.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 22,
-                    "title": "现在的刑侦技术有多厉害？有没有完美犯罪？",
-                    "url": "https://bbs.hupu.com/642353346.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 42,
-                    "title": "有人预测：10年后的2036年，房价将是现在的2-3倍，这可能吗？",
-                    "url": "https://bbs.hupu.com/642353231.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 30,
-                    "title": "东契奇：感恩和老詹共事，现在要开启湖人新篇章",
-                    "url": "https://m.hupu.com/hot?tagId=156594"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 33,
-                    "title": "现在vmiss什么价格，准备9月底出掉，us tri",
-                    "url": "https://www.nodeseek.com/post-920493-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 37,
-                    "title": "Downie 4现在进去怎么需要购买啊",
-                    "url": "https://www.nodeseek.com/post-920919-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 8,
-                    "title": "好啦，现在都成小丑啦",
-                    "url": "https://www.nodeseek.com/post-921021-1"
-                }
-            ]
-        },
-        {
             "word": "刘翔",
             "weight": 28,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8833,7 +9080,7 @@
         {
             "word": "Agent",
             "weight": 26,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -9056,7 +9303,7 @@
         {
             "word": "消费",
             "weight": 23,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -9283,229 +9530,6 @@
                     "url": "http://news.10jqka.com.cn/20260910/c679782336.shtml"
                 }
             ]
-        },
-        {
-            "word": "升级",
-            "weight": 20,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 20,
-                    "title": "苹果手表心率检测升级",
-                    "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E8%A1%A8%E5%BF%83%E7%8E%87%E6%A3%80%E6%B5%8B%E5%8D%87%E7%BA%A7&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 50,
-                    "title": "和 AI 进行深度对话，会让习惯深度思考的人认知升级，还是陷入智力舒适区？",
-                    "url": "https://www.zhihu.com/question/2078810364393821984"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 5,
-                    "title": "iPhone 18 Pro 系列 9999 元起，最高售价 20499 元，此次升级能撑起这次涨价吗？",
-                    "url": "https://www.zhihu.com/question/2081213028393908212"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 44,
-                    "title": "中东紧张局势升级 油价突破100美元",
-                    "url": "https://www.toutiao.com/trending/7683543271544458761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683543271544458761%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7+%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7683543271544458761"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 30,
-                    "title": "中东紧张局势升级 油价突破100美元",
-                    "url": "https://www.toutiao.com/trending/7683543271544458761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683543271544458761%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7+%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7683543271544458761"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 9,
-                    "title": "中东紧张局势升级 油价突破100美元",
-                    "url": "https://www.toutiao.com/trending/7683543271544458761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683543271544458761%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7+%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7683543271544458761"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 7,
-                    "title": "中东紧张局势升级 油价突破100美元",
-                    "url": "https://www.toutiao.com/trending/7683543271544458761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683543271544458761%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7+%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7683543271544458761"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 14,
-                    "title": "中东紧张局势升级 油价突破100美元",
-                    "url": "https://www.toutiao.com/trending/7683543271544458761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683543271544458761%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7+%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7683543271544458761"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 13,
-                    "title": "中东紧张局势升级 油价突破100美元",
-                    "url": "https://www.toutiao.com/trending/7683543271544458761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683543271544458761%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7+%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7683543271544458761"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 19,
-                    "title": "中东紧张局势升级 油价突破100美元",
-                    "url": "https://www.toutiao.com/trending/7683543271544458761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683543271544458761%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7+%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7683543271544458761"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 17,
-                    "title": "中东紧张局势升级 油价突破100美元",
-                    "url": "https://www.toutiao.com/trending/7683543271544458761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683543271544458761%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7+%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7683543271544458761"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 3,
-                    "title": "中国快递按下转型升级“换挡键”",
-                    "url": "https://www.toutiao.com/article/7683401305540313642"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 50,
-                    "title": "邵永灵：法德内讧升级",
-                    "url": "https://www.toutiao.com/trending/7683782598334385714/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683782598334385714%22%2C%22hot_board_impr_id%22%3A%2220260910152437A7DC9485CD11B3FAB254%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E6%B3%95%E5%BE%B7%E5%86%85%E8%AE%A7%E5%8D%87%E7%BA%A7%22%7D&rank=&style_id=40132&topic_id=7683782598334385714"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 49,
-                    "title": "【直播游戏】带着升级系统捡树叶",
-                    "url": "https://www.acfun.cn/v/ac48837303"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "苹果 iOS / iPadOS 27 RC 更新日志：升级 Siri AI，增强家长管控等",
-                    "url": "https://www.ithome.com/1/000/536.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "苹果 watchOS 27 升级健康体验：评估训练负荷、计算健康年龄等",
-                    "url": "https://www.ithome.com/1/000/543.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "苹果 iPhone 18 Pro / Max 升级摄影风格，带来全新质感和颗粒感控制选项",
-                    "url": "https://www.ithome.com/1/000/548.htm"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 5,
-                    "title": "商务部：更多跨国公司将中国工厂升级为“创新工场”",
-                    "url": "http://news.10jqka.com.cn/20260910/c679765573.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 24,
-                    "title": "人民财讯9月10日电，9月10日，在国新办新闻发布会上，金融监管总局副局长丛林表示，下一步，金融监管总局将引导金融机构顺应消费提质升级需要，支持扩大商品消费，持续释放服务消费和新型消 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679782336.shtml"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 23,
-                    "title": "龟龟升级成功!!!",
-                    "url": "https://www.nodeseek.com/post-920933-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 14,
-                    "title": "我擦，Raycast 要强制升级 v2 了？",
-                    "url": "https://www.nodeseek.com/post-921034-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 9,
-                    "title": "已证实升级号的计费顾虑",
-                    "url": "https://www.nodeseek.com/post-914770-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 27,
-                    "title": "iPhone的价格提上去了，升级还可以",
-                    "url": "https://www.nodeseek.com/post-921092-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 6,
-                    "title": "#iPhone 17 18 升级功能，各地区版本区别",
-                    "url": "https://www.nodeseek.com/post-921420-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 29,
-                    "title": "打龟成功，想问下mjj要不要升级-听劝，已升级成功",
-                    "url": "https://www.nodeseek.com/post-921408-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 34,
-                    "title": "Codex 5x用了一周升级到20x，费用怎么计算？",
-                    "url": "https://www.nodeseek.com/post-920635-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "Oracle 升级了账户,开的免费鸡还需要运行保活吗",
-                    "url": "https://www.nodeseek.com/post-921730-1"
-                }
-            ]
         }
     ],
     "flow": {
@@ -9513,8 +9537,8 @@
             "00:23",
             "04:22",
             "08:54",
-            "12:24",
-            "16:29"
+            "12:25",
+            "16:36"
         ],
         "rows": [
             {
