@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 06:18:53
+> 更新时间：2026-09-11 07:17:36
 
 ## 少数派
 
@@ -53,7 +53,7 @@
 ## Hacker News
 
 1. [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
-2. [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+2. [OpenAI’s Navier-Stokes release included a Lean 4 formal proof](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 3. [Bodily Oddities](https://vester.si/bodily-oddities/)
 4. [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
 5. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
