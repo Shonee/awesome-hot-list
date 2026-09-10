@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-10 08:53:52
+> 更新时间：2026-09-10 09:28:38
 
 ## 最新资讯
 
-1. [曾获扎克伯格 15 亿美元 offer，Meta 明星 AI 研究员安德鲁 · 塔洛克宣布离职](https://www.ithome.com/1/000/574.htm)
-2. [米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判](https://www.ithome.com/1/000/573.htm)
-3. [索尼 FE 400mm F4.5 GM OSS 镜头谍照首曝，预计未来两周内发布](https://www.ithome.com/1/000/572.htm)
-4. [OPPO Find X10 系列新机现身 Geekbench，搭载联发科天玑 9600 Pro 芯片](https://www.ithome.com/1/000/571.htm)
-5. [小米 18 Fold 中折叠手机今日首销：首发玄戒 O3 芯片，10999 元起](https://www.ithome.com/1/000/570.htm)
+1. [摩托罗拉预热 signature 27 智能手机，有望引入施华洛世奇水晶装饰](https://www.ithome.com/1/000/580.htm)
+2. [投票：苹果折叠屏手机 iPhone Duo 首秀，你还满意吗？考虑购买吗？](https://www.ithome.com/1/000/579.htm)
+3. [光荣特库摩《三国志 14 威力加强传承版》DLC 发售：Steam 国区售价 128 元](https://www.ithome.com/1/000/578.htm)
+4. [OpenAI ChatGPT 语音模式支持调用 GPT-5.6 Sol 和 GPT-6 Astra](https://www.ithome.com/1/000/577.htm)
+5. [苹果部分功能不随 iOS 27 及新硬件首发：Siri AI 下月拓展更多语言支持，Apple Watch 新功能年底推出](https://www.ithome.com/1/000/576.htm)

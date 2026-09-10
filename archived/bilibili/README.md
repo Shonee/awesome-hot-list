@@ -1,29 +1,29 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-09-10 08:53:37
+> 更新时间：2026-09-10 09:28:24
 
 ## 热门搜索
 
-1. [iPhone Duo折叠屏真机上手](https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B)
-2. [iPhone18系列新颜色](https://search.bilibili.com/all?keyword=iPhone18%E7%B3%BB%E5%88%97%E6%96%B0%E9%A2%9C%E8%89%B2)
-3. [速通苹果发布会](https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9A%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A)
+1. [iPhone Duo有折痕吗](https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%9C%89%E6%8A%98%E7%97%95%E5%90%97)
+2. [iPhone Duo折叠屏真机上手](https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B)
+3. [iPhone全系列新机现场上手](https://search.bilibili.com/all?keyword=iPhone%E5%85%A8%E7%B3%BB%E5%88%97%E6%96%B0%E6%9C%BA%E7%8E%B0%E5%9C%BA%E4%B8%8A%E6%89%8B)
 4. [康康爷爷离世](https://search.bilibili.com/all?keyword=%E5%BA%B7%E5%BA%B7%E7%88%B7%E7%88%B7%E7%A6%BB%E4%B8%96)
-5. [iPhone18上手体验](https://search.bilibili.com/all?keyword=iPhone18%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C)
-6. [我国首个百米水深油气原位扩容平台投用](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%99%BE%E7%B1%B3%E6%B0%B4%E6%B7%B1%E6%B2%B9%E6%B0%94%E5%8E%9F%E4%BD%8D%E6%89%A9%E5%AE%B9%E5%B9%B3%E5%8F%B0%E6%8A%95%E7%94%A8)
-7. [央视评停捐后遭催捐](https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%84%E5%81%9C%E6%8D%90%E5%90%8E%E9%81%AD%E5%82%AC%E6%8D%90)
+5. [我国首个百米水深油气原位扩容平台投用](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%99%BE%E7%B1%B3%E6%B0%B4%E6%B7%B1%E6%B2%B9%E6%B0%94%E5%8E%9F%E4%BD%8D%E6%89%A9%E5%AE%B9%E5%B9%B3%E5%8F%B0%E6%8A%95%E7%94%A8)
+6. [央视评停捐后遭催捐](https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%84%E5%81%9C%E6%8D%90%E5%90%8E%E9%81%AD%E5%82%AC%E6%8D%90)
+7. [欧冠联赛首轮利物浦逆转马竞取胜](https://search.bilibili.com/all?keyword=%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%88%A9%E7%89%A9%E6%B5%A6%E9%80%86%E8%BD%AC%E9%A9%AC%E7%AB%9E%E5%8F%96%E8%83%9C)
 8. [未眠野首曝PV](https://search.bilibili.com/all?keyword=%E6%9C%AA%E7%9C%A0%E9%87%8E%E9%A6%96%E6%9B%9DPV)
-9. [洲彦祖回归三角洲](https://search.bilibili.com/all?keyword=%E6%B4%B2%E5%BD%A6%E7%A5%96%E5%9B%9E%E5%BD%92%E4%B8%89%E8%A7%92%E6%B4%B2)
-10. [当不同学科老师过教师节](https://search.bilibili.com/all?keyword=%E5%BD%93%E4%B8%8D%E5%90%8C%E5%AD%A6%E7%A7%91%E8%80%81%E5%B8%88%E8%BF%87%E6%95%99%E5%B8%88%E8%8A%82)
-11. [iphone折叠机小剧场](https://search.bilibili.com/all?keyword=iphone%E6%8A%98%E5%8F%A0%E6%9C%BA%E5%B0%8F%E5%89%A7%E5%9C%BA)
-12. [开学宿舍爆改海洋馆](https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E5%AE%BF%E8%88%8D%E7%88%86%E6%94%B9%E6%B5%B7%E6%B4%8B%E9%A6%86)
-13. [iPhone18Pro勃艮第红](https://search.bilibili.com/all?keyword=iPhone18Pro%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2)
-14. [iPhone Duo动画实拍](https://search.bilibili.com/all?keyword=iPhone%20Duo%E5%8A%A8%E7%94%BB%E5%AE%9E%E6%8B%8D)
-15. [包贝尔事件背后的行业影响](https://search.bilibili.com/all?keyword=%E5%8C%85%E8%B4%9D%E5%B0%94%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%BD%B1%E5%93%8D)
-16. [如何看德国选择党选举胜利](https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%B7%E5%9B%BD%E9%80%89%E6%8B%A9%E5%85%9A%E9%80%89%E4%B8%BE%E8%83%9C%E5%88%A9)
-17. [央视自制教师节短片](https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%87%AA%E5%88%B6%E6%95%99%E5%B8%88%E8%8A%82%E7%9F%AD%E7%89%87)
-18. [郑钦文美网止步八强](https://search.bilibili.com/all?keyword=%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA)
-19. [特朗普关税政策现状如何](https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95)
-20. [国内多所名校陆续停招学硕](https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%86%85%E5%A4%9A%E6%89%80%E5%90%8D%E6%A0%A1%E9%99%86%E7%BB%AD%E5%81%9C%E6%8B%9B%E5%AD%A6%E7%A1%95)
+9. [苹果入局折叠屏市场有何影响](https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%85%A5%E5%B1%80%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D)
+10. [10支队伍确认晋级S16](https://search.bilibili.com/all?keyword=10%E6%94%AF%E9%98%9F%E4%BC%8D%E7%A1%AE%E8%AE%A4%E6%99%8B%E7%BA%A7S16)
+11. [iPhone18上手体验](https://search.bilibili.com/all?keyword=iPhone18%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C)
+12. [iPhone18系列新颜色](https://search.bilibili.com/all?keyword=iPhone18%E7%B3%BB%E5%88%97%E6%96%B0%E9%A2%9C%E8%89%B2)
+13. [AirPods 5 真机测评](https://search.bilibili.com/all?keyword=AirPods%205%20%E7%9C%9F%E6%9C%BA%E6%B5%8B%E8%AF%84)
+14. [iPhone18Pro勃艮第红](https://search.bilibili.com/all?keyword=iPhone18Pro%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2)
+15. [iphone折叠机小剧场](https://search.bilibili.com/all?keyword=iphone%E6%8A%98%E5%8F%A0%E6%9C%BA%E5%B0%8F%E5%89%A7%E5%9C%BA)
+16. [国内多所名校陆续停招学硕](https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%86%85%E5%A4%9A%E6%89%80%E5%90%8D%E6%A0%A1%E9%99%86%E7%BB%AD%E5%81%9C%E6%8B%9B%E5%AD%A6%E7%A1%95)
+17. [量贩零食店为何集体遭整改](https://search.bilibili.com/all?keyword=%E9%87%8F%E8%B4%A9%E9%9B%B6%E9%A3%9F%E5%BA%97%E4%B8%BA%E4%BD%95%E9%9B%86%E4%BD%93%E9%81%AD%E6%95%B4%E6%94%B9)
+18. [揭秘服贸会仿生机械鱼](https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BB%BF%E7%94%9F%E6%9C%BA%E6%A2%B0%E9%B1%BC)
+19. [当不同学科老师过教师节](https://search.bilibili.com/all?keyword=%E5%BD%93%E4%B8%8D%E5%90%8C%E5%AD%A6%E7%A7%91%E8%80%81%E5%B8%88%E8%BF%87%E6%95%99%E5%B8%88%E8%8A%82)
+20. [包贝尔事件背后的行业影响](https://search.bilibili.com/all?keyword=%E5%8C%85%E8%B4%9D%E5%B0%94%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%BD%B1%E5%93%8D)
 
 ## 全站热门视频
 
@@ -34,17 +34,17 @@
 5. [两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等](https://b23.tv/BV1K1Yh6UEHC)
 6. [这才是iphone折叠机啊！](https://b23.tv/BV1a2Yt6nEYH)
 7. [⚡️ 嘉 豪 の 小 曲 ⚡️](https://b23.tv/BV1KeY466Ekf)
-8. [开学这么爽怎么不早说？](https://b23.tv/BV1dkbA6GESu)
-9. [花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场](https://b23.tv/BV152b56uEgF)
+8. [花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场](https://b23.tv/BV152b56uEgF)
+9. [开学这么爽怎么不早说？](https://b23.tv/BV1dkbA6GESu)
 10. [我 来 同 你 玩  丨 二洲年快乐](https://b23.tv/BV1eqYx6UE9V)
 11. [假如“开学需带物品”来面试](https://b23.tv/BV1S9t66eEFk)
 12. [iPhone Duo全球首发上手](https://b23.tv/BV1NCYb6GE6J)
-13. [这个全球最大的游戏展上，国产游戏已经彻底疯狂了！](https://b23.tv/BV1BebG6zEBW)
-14. [【教师节TV】可恶……这么燃的考前动员？！](https://b23.tv/BV1AcY46PEYE)
-15. [帮精神小妹过一场生日，送给她一束特别的花](https://b23.tv/BV1aSYt6JEnd)
-16. [德国政坛大地震，选择党，前进四！](https://b23.tv/BV1veYx6DESi)
-17. [iPhone Duo上手体验！折痕控制太离谱了](https://b23.tv/BV1FDYb6qEQ5)
-18. [开学舍友把宿舍改造成了海洋馆](https://b23.tv/BV13abK62ECA)
+13. [【教师节TV】可恶……这么燃的考前动员？！](https://b23.tv/BV1AcY46PEYE)
+14. [帮精神小妹过一场生日，送给她一束特别的花](https://b23.tv/BV1aSYt6JEnd)
+15. [德国政坛大地震，选择党，前进四！](https://b23.tv/BV1veYx6DESi)
+16. [iPhone Duo上手体验！折痕控制太离谱了](https://b23.tv/BV1FDYb6qEQ5)
+17. [开学舍友把宿舍改造成了海洋馆](https://b23.tv/BV13abK62ECA)
+18. [这个全球最大的游戏展上，国产游戏已经彻底疯狂了！](https://b23.tv/BV1BebG6zEBW)
 19. [会卖萌的…太空歌剧??  - 新世代科幻RPG大作【EXODUS】最新试玩揭晓~ (Leya蕾雅)](https://b23.tv/BV1QWtz6TEjL)
 20. [《物业费最贵の一集》](https://b23.tv/BV1xsYn6pEw4)
 21. [【逆天中配】神人不行 第一集](https://b23.tv/BV1rmbV6UELD)
@@ -76,7 +76,7 @@
 47. [国土报重大爆料：十月七号前阿联酋曾郑重预警内塔尼亚胡](https://b23.tv/BV1D2Yt6nEyr)
 48. [小心对待你的顾客！这没有一个人是真的！](https://b23.tv/BV1pPY46cEzH)
 49. [挑战0元城市生存（1.2）](https://b23.tv/BV1TvbV6ZEZF)
-50. [给老外算卦｜科罗拉多](https://b23.tv/BV1xEbG6DEzB)
+50. [【招笑版】新植物8:嘴巴很大花](https://b23.tv/BV16Pbn6wEGf)
 
 ## 视频排行榜
 

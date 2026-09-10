@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 08:54:29
+> 更新时间：2026-09-10 09:29:05
 
 ## 少数派
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [苹果第一台折叠 iPhone，15999 元起](http://www.geekpark.net/news/370088)
-2. [千问办公发布多人工作台，重写企业软件的最后一公里](http://www.geekpark.net/news/370061)
-3. [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
-4. [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
-5. [单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单](http://www.geekpark.net/news/370006)
+1. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
+2. [苹果第一台折叠 iPhone，15999 元起](http://www.geekpark.net/news/370088)
+3. [千问办公发布多人工作台，重写企业软件的最后一公里](http://www.geekpark.net/news/370061)
+4. [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
+5. [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
 
 ## MIT Technology Review
 
@@ -52,7 +52,7 @@
 
 ## Hacker News
 
-1. [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)
+1. [I'm sorry, you're not going to die from an AI-engineered supervirus](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from)
 2. [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
 3. [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
 4. [iPhone Duo](https://www.apple.com/iphone-duo/)
