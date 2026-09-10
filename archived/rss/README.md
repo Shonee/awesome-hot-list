@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 15:26:19
+> 更新时间：2026-09-10 16:29:57
 
 ## 少数派
 
-1. [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
-2. [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
-3. [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
-4. [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
-5. [华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
+1. [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
+2. [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
+3. [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
+4. [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
+5. [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
 
 ## 爱范儿
 
@@ -20,19 +20,19 @@
 
 ## 量子位
 
-1. [营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者](https://www.qbitai.com/2026/09/486651.html)
-2. [一周连发6个模型！这家公司把具身智能的闭环跑通了](https://www.qbitai.com/2026/09/486625.html)
-3. [打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果](https://www.qbitai.com/2026/09/486436.html)
-4. [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
-5. [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
+1. [全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口](https://www.qbitai.com/2026/09/486900.html)
+2. [全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源](https://www.qbitai.com/2026/09/486747.html)
+3. [这个新开源的世界模型只有1.3B，单卡就能实时跑！](https://www.qbitai.com/2026/09/486716.html)
+4. [AGI时代的第一个生图模型，ChatGPT Images 2.5上线](https://www.qbitai.com/2026/09/486684.html)
+5. [营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者](https://www.qbitai.com/2026/09/486651.html)
 
 ## InfoQ
 
-1. [多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流](https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article)
-2. [14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲](https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article)
-3. [Airbnb 采用服务端驱动架构，身份验证代码量减少 60%](https://www.infoq.cn/article/CKpxx7ZtuZ7wLJ1CqF0i?utm_source=rss&utm_medium=article)
-4. [诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能](https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article)
-5. [OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战](https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article)
+1. [Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？](https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article)
+2. [多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流](https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article)
+3. [14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲](https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article)
+4. [Airbnb 采用服务端驱动架构，身份验证代码量减少 60%](https://www.infoq.cn/article/CKpxx7ZtuZ7wLJ1CqF0i?utm_source=rss&utm_medium=article)
+5. [诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能](https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -54,17 +54,9 @@
 
 1. [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
 2. [OpenAI might have stolen another major proof](https://twitter.com/ValerioCapraro/status/2097791836269977996)
-3. [All grown-ups were once children… but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
-4. [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
+3. [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
+4. [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)
 5. [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
-
-## AI News
-
-1. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-2. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
-3. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-4. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
-5. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
 
 ## 阮一峰网络日志
 
