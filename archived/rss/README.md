@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 21:20:55
+> 更新时间：2026-09-10 22:21:59
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级](https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [iPhone Duo 首发上手：唯一值两万元的折叠屏](https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配](https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池](https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级](https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [iPhone Duo 首发上手：唯一值两万元的折叠屏](https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
-2. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
-3. [苹果第一台折叠 iPhone，15999 元起](http://www.geekpark.net/news/370088)
-4. [千问办公发布多人工作台，重写企业软件的最后一公里](http://www.geekpark.net/news/370061)
-5. [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
+1. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
+2. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
+3. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
+4. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
+5. [苹果第一台折叠 iPhone，15999 元起](http://www.geekpark.net/news/370088)
 
 ## MIT Technology Review
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [List of references on Sony websites to players "owning" their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
-2. [Thanks to Siri Recaps, your Apple Watch is always listening](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
-3. [PlayStation cancels Kojima's PHYSINT, Xbox steps in](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
-4. [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
-5. [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
-
-## AI News
-
-1. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-2. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-3. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
-4. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-5. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+1. [Tell HN: OpenAI keeps re-enabling the 'allow training' setting](https://news.ycombinator.com/item?id=49643556)
+2. [Another researcher says OpenAI trained on conversations, then claimed breakthrou](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
+3. [Who People Talk to When They're Struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
+4. [List of references on Sony websites to players "owning" their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
+5. [Thanks to Siri Recaps, your Apple Watch is always listening](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
 
 ## 阮一峰网络日志
 
