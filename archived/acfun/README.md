@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-09-10 14:35:40
+> 更新时间：2026-09-10 15:24:45
 
 ## 日榜
 
@@ -13,11 +13,11 @@
 7. [宝！看看我的新大宝贝，包大的](https://www.acfun.cn/v/ac48836245)
 8. [【奧雷】黑白颠倒几时休？聊聊即将踏入神坛的董天宝！](https://www.acfun.cn/v/ac48837005)
 9. [想我就打给我！★手机竖屏1999★](https://www.acfun.cn/v/ac48836893)
-10. [饭店大厨在熟食厂做一道嘎嘎下饭的肉段烧茄子，把老板娘又香懵了](https://www.acfun.cn/v/ac48836780)
-11. [交通事故20260909：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48836494)
-12. [蕾米埃尔是天使](https://www.acfun.cn/v/ac48834387)
-13. [网络上常见的热门短视频集锦   第三千四百一十九期](https://www.acfun.cn/v/ac48836896)
-14. [被昆汀删除！《杀死比尔》原本还有比 Gogo 更疯的少女杀手](https://www.acfun.cn/v/ac48836023)
+10. [蕾米埃尔是天使](https://www.acfun.cn/v/ac48834387)
+11. [饭店大厨在熟食厂做一道嘎嘎下饭的肉段烧茄子，把老板娘又香懵了](https://www.acfun.cn/v/ac48836780)
+12. [交通事故20260909：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48836494)
+13. [被昆汀删除！《杀死比尔》原本还有比 Gogo 更疯的少女杀手](https://www.acfun.cn/v/ac48836023)
+14. [网络上常见的热门短视频集锦   第三千四百一十九期](https://www.acfun.cn/v/ac48836896)
 15. [【夏雅】阿格莱雅的闺蜜团看了笑三年](https://www.acfun.cn/v/ac48836890)
 16. [旗袍妹妹真好看](https://www.acfun.cn/v/ac48832635)
 17. [【绝望女神/翻唱】【Aldnoah Zero OP heavenly blue】](https://www.acfun.cn/v/ac48836676)
@@ -29,8 +29,8 @@
 23. [1588期：白车压线迎面冲来，避让的瞬间，路边行人太惊险](https://www.acfun.cn/v/ac48836557)
 24. [可以多爱我一点吗？️](https://www.acfun.cn/v/ac48836787)
 25. [【柯基】《谢师说》｜电视剧《春风化雨》主题曲](https://www.acfun.cn/v/ac48837255)
-26. [8.牙形动物：靠满嘴“乱牙”硬刚三亿年，古海幽灵的作妖与谢幕？](https://www.acfun.cn/v/ac48818129)
-27. [【AC独家】万疆~承一脉血流淌](https://www.acfun.cn/v/ac48829829)
+26. [【AC独家】万疆~承一脉血流淌](https://www.acfun.cn/v/ac48829829)
+27. [8.牙形动物：靠满嘴“乱牙”硬刚三亿年，古海幽灵的作妖与谢幕？](https://www.acfun.cn/v/ac48818129)
 28. [你怎么知道9.10是他们共鸣火种520天纪念日【夏雅】](https://www.acfun.cn/v/ac48837450)
 29. [KIKO-20260907](https://www.acfun.cn/v/ac48834411)
 30. [交通事故20260909期：序号29清晰视角](https://www.acfun.cn/v/ac48837407)
@@ -43,17 +43,17 @@
 37. [IVE 巡演香港场 IVE 张元英《EIGHT》个人SOLO舞台](https://www.acfun.cn/v/ac48836181)
 38. [【櫻坂46字幕组】2026.8.30「转角就是櫻坂吗？」EP300 小田倉麗奈直言不讳！](https://www.acfun.cn/v/ac48836689)
 39. [太帅了！入手的第二块波尔手表！300米防水夜光也无敌！](https://www.acfun.cn/v/ac48837317)
-40. [你的辣丽萨！LISA - SaWaDiKa 4K版MV](https://www.acfun.cn/v/ac48836216)
-41. [【绝望女神】【独立恐怖游戏 深夜照相馆】](https://www.acfun.cn/v/ac48825963)
-42. [艺术欣赏](https://www.acfun.cn/v/ac48837191)
+40. [【绝望女神】【独立恐怖游戏 深夜照相馆】](https://www.acfun.cn/v/ac48825963)
+41. [你的辣丽萨！LISA - SaWaDiKa 4K版MV](https://www.acfun.cn/v/ac48836216)
+42. [Only Apple Can Duo！15999的苹果折叠屏iPhone Duo摸着友商过河？](https://www.acfun.cn/v/ac48837958)
 43. [印尼火山爆发已致11人死亡，看见火山爆发还不跑](https://www.acfun.cn/v/ac48837193)
 44. [【纪录片】走进工厂 啤酒【1080p】【双语特效字幕】【纪录片之家科技控】](https://www.acfun.cn/v/ac48824085)
-45. [艾尔登法环 联机](https://www.acfun.cn/v/ac48836373)
+45. [【直播游戏】带着升级系统捡树叶](https://www.acfun.cn/v/ac48837303)
 46. [2026深圳改装车展D3 美女车模 你的小乔 #1](https://www.acfun.cn/v/ac48836571)
-47. [【直播游戏】带着升级系统捡树叶](https://www.acfun.cn/v/ac48837303)
+47. [艾尔登法环 联机](https://www.acfun.cn/v/ac48836373)
 48. [박아진_ Sexy girl sleeping [8.14]](https://www.acfun.cn/v/ac48836889)
-49. [Only Apple Can Duo！15999的苹果折叠屏iPhone Duo摸着友商过河？](https://www.acfun.cn/v/ac48837958)
-50. [귀여운 레드 리본 포인트로 시선 사로잡는 소희](https://www.acfun.cn/v/ac48837417)
+49. [귀여운 레드 리본 포인트로 시선 사로잡는 소희](https://www.acfun.cn/v/ac48837417)
+50. [神仙座驾](https://www.acfun.cn/v/ac48837192)
 
 ## 三日榜
 
@@ -99,14 +99,14 @@
 40. [【奧雷】黑白颠倒几时休？聊聊即将踏入神坛的董天宝！](https://www.acfun.cn/v/ac48837005)
 41. [想我就打给我！★手机竖屏1999★](https://www.acfun.cn/v/ac48836893)
 42. [你来我往的高分对局！快速看完一局韩服王者斗殴局#823 Guardian, Lucy , Clear](https://www.acfun.cn/v/ac48827909)
-43. [南通的海鲜，真的很便宜吗？](https://www.acfun.cn/v/ac48833921)
-44. [他们对我施放了回春术！](https://www.acfun.cn/v/ac48831806)
-45. [上线1天紧急加强！新版雨龙强度测评+抽取建议](https://www.acfun.cn/v/ac48831670)
-46. [交通事故20260909：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48836494)
-47. [蕾米埃尔是天使](https://www.acfun.cn/v/ac48834387)
-48. [饭店大厨在熟食厂做一道嘎嘎下饭的肉段烧茄子，把老板娘又香懵了](https://www.acfun.cn/v/ac48836780)
-49. [广东双马尾不是那个双马尾 ^v^喵~](https://www.acfun.cn/v/ac48832596)
-50. [6. 从先长肛门到统治地球：人类远祖“后口动物”的开挂逆袭史](https://www.acfun.cn/v/ac48818127)
+43. [蕾米埃尔是天使](https://www.acfun.cn/v/ac48834387)
+44. [南通的海鲜，真的很便宜吗？](https://www.acfun.cn/v/ac48833921)
+45. [他们对我施放了回春术！](https://www.acfun.cn/v/ac48831806)
+46. [上线1天紧急加强！新版雨龙强度测评+抽取建议](https://www.acfun.cn/v/ac48831670)
+47. [饭店大厨在熟食厂做一道嘎嘎下饭的肉段烧茄子，把老板娘又香懵了](https://www.acfun.cn/v/ac48836780)
+48. [交通事故20260909：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48836494)
+49. [网络上常见的热门短视频集锦   第三千四百一十九期](https://www.acfun.cn/v/ac48836896)
+50. [广东双马尾不是那个双马尾 ^v^喵~](https://www.acfun.cn/v/ac48832596)
 
 ## 周榜
 

@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 14:36:10
+> 更新时间：2026-09-10 15:26:19
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [一周连发6个模型！这家公司把具身智能的闭环跑通了](https://www.qbitai.com/2026/09/486625.html)
-2. [打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果](https://www.qbitai.com/2026/09/486436.html)
-3. [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
-4. [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
-5. [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
+1. [营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者](https://www.qbitai.com/2026/09/486651.html)
+2. [一周连发6个模型！这家公司把具身智能的闭环跑通了](https://www.qbitai.com/2026/09/486625.html)
+3. [打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果](https://www.qbitai.com/2026/09/486436.html)
+4. [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
+5. [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
 
 ## InfoQ
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [OpenAI have no mathematicians capable of understanding what they put out](https://mastodon.social/@tristanbuckmaster/117237555794407063)
+1. [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
 2. [OpenAI might have stolen another major proof](https://twitter.com/ValerioCapraro/status/2097791836269977996)
 3. [All grown-ups were once children… but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
 4. [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
 5. [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+
+## AI News
+
+1. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+2. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+3. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+4. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+5. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
 
 ## 阮一峰网络日志
 
