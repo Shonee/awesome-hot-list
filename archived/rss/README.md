@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 05:17:45
+> 更新时间：2026-09-11 06:18:53
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
-2. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
-3. [Creativity is the New Moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
-4. [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
-5. [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+1. [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+2. [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+3. [Bodily Oddities](https://vester.si/bodily-oddities/)
+4. [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
+5. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
 
 ## 阮一峰网络日志
 
