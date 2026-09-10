@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-10 11:34:06
+> 更新时间：2026-09-10 18:30:07
 
 ## 每日趋势
 
@@ -36,10 +36,11 @@
 14. [plugins](https://github.com/openai/plugins)
 15. [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 16. [academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
-17. [open-seo](https://github.com/every-app/open-seo)
-18. [ruflo](https://github.com/ruvnet/ruflo)
-19. [llvm-project](https://github.com/llvm/llvm-project)
-20. [no-ai-slop](https://github.com/petergyang/no-ai-slop)
+17. [skills](https://github.com/jakubkrehel/skills)
+18. [open-seo](https://github.com/every-app/open-seo)
+19. [ruflo](https://github.com/ruvnet/ruflo)
+20. [llvm-project](https://github.com/llvm/llvm-project)
+21. [no-ai-slop](https://github.com/petergyang/no-ai-slop)
 
 ## 每月趋势
 
@@ -57,15 +58,14 @@
 12. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 13. [modular](https://github.com/modular/modular)
 14. [needle](https://github.com/cactus-compute/needle)
-15. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-16. [ai-memory](https://github.com/akitaonrails/ai-memory)
-17. [marin](https://github.com/marin-community/marin)
-18. [maka](https://github.com/apache/maka)
-19. [vphone-cli](https://github.com/Lakr233/vphone-cli)
-20. [public-apis](https://github.com/public-apis/public-apis)
-21. [holehe](https://github.com/megadose/holehe)
-22. [manim](https://github.com/3b1b/manim)
-23. [distilly](https://github.com/titanwings/distilly)
+15. [ai-memory](https://github.com/akitaonrails/ai-memory)
+16. [marin](https://github.com/marin-community/marin)
+17. [maka](https://github.com/apache/maka)
+18. [vphone-cli](https://github.com/Lakr233/vphone-cli)
+19. [public-apis](https://github.com/public-apis/public-apis)
+20. [holehe](https://github.com/megadose/holehe)
+21. [manim](https://github.com/3b1b/manim)
+22. [distilly](https://github.com/titanwings/distilly)
 
 ## Java
 
@@ -101,20 +101,19 @@
 7. [skills](https://github.com/anthropics/skills)
 8. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 9. [claude-ads](https://github.com/AgriciDaniel/claude-ads)
-10. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-11. [AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)
-12. [timesfm](https://github.com/google-research/timesfm)
-13. [exploitarium](https://github.com/bikini/exploitarium)
-14. [Sequoia-X](https://github.com/sngyai/Sequoia-X)
-15. [minimind](https://github.com/jingyaogong/minimind)
-16. [Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering)
-17. [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
-18. [blender-mcp](https://github.com/ahujasid/blender-mcp)
-19. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
-20. [browser-use](https://github.com/browser-use/browser-use)
-21. [hello-agents](https://github.com/datawhalechina/hello-agents)
-22. [sglang](https://github.com/sgl-project/sglang)
-23. [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+10. [AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)
+11. [timesfm](https://github.com/google-research/timesfm)
+12. [exploitarium](https://github.com/bikini/exploitarium)
+13. [Sequoia-X](https://github.com/sngyai/Sequoia-X)
+14. [minimind](https://github.com/jingyaogong/minimind)
+15. [Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering)
+16. [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
+17. [blender-mcp](https://github.com/ahujasid/blender-mcp)
+18. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+19. [browser-use](https://github.com/browser-use/browser-use)
+20. [hello-agents](https://github.com/datawhalechina/hello-agents)
+21. [sglang](https://github.com/sgl-project/sglang)
+22. [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ## Go
 
@@ -123,20 +122,19 @@
 3. [caveman](https://github.com/JuliusBrussee/caveman)
 4. [semantic-router](https://github.com/vllm-project/semantic-router)
 5. [new-api](https://github.com/QuantumNous/new-api)
-6. [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
-7. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-8. [bifrost](https://github.com/maximhq/bifrost)
-9. [cilium](https://github.com/cilium/cilium)
-10. [dozzle](https://github.com/amir20/dozzle)
-11. [LocalAI](https://github.com/mudler/LocalAI)
-12. [netbird](https://github.com/netbirdio/netbird)
-13. [nebula](https://github.com/slackhq/nebula)
-14. [Xray-core](https://github.com/XTLS/Xray-core)
-15. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
-16. [3x-ui](https://github.com/MHSanaei/3x-ui)
-17. [beszel](https://github.com/henrygd/beszel)
-18. [pentagi](https://github.com/vxcontrol/pentagi)
-19. [ipatool](https://github.com/majd/ipatool)
+6. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
+7. [bifrost](https://github.com/maximhq/bifrost)
+8. [cilium](https://github.com/cilium/cilium)
+9. [dozzle](https://github.com/amir20/dozzle)
+10. [LocalAI](https://github.com/mudler/LocalAI)
+11. [netbird](https://github.com/netbirdio/netbird)
+12. [nebula](https://github.com/slackhq/nebula)
+13. [Xray-core](https://github.com/XTLS/Xray-core)
+14. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
+15. [3x-ui](https://github.com/MHSanaei/3x-ui)
+16. [beszel](https://github.com/henrygd/beszel)
+17. [pentagi](https://github.com/vxcontrol/pentagi)
+18. [ipatool](https://github.com/majd/ipatool)
 
 ## HTML
 
@@ -146,13 +144,14 @@
 4. [Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
 5. [osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)
 6. [diagram-design](https://github.com/cathrynlavery/diagram-design)
-7. [Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)
-8. [computer-science](https://github.com/ossu/computer-science)
-9. [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
-10. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-11. [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-12. [styleguide](https://github.com/google/styleguide)
-13. [cua](https://github.com/trycua/cua)
+7. [codeflow](https://github.com/braedonsaunders/codeflow)
+8. [Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)
+9. [computer-science](https://github.com/ossu/computer-science)
+10. [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+11. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+12. [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+13. [styleguide](https://github.com/google/styleguide)
+14. [cua](https://github.com/trycua/cua)
 
 ## JavaScript
 
@@ -171,5 +170,6 @@
 13. [9router](https://github.com/decolua/9router)
 14. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 15. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-16. [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
-17. [react](https://github.com/react/react)
+16. [register](https://github.com/is-a-dev/register)
+17. [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
+18. [react](https://github.com/react/react)
