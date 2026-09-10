@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 19:19:53
+> 更新时间：2026-09-10 20:32:38
 
 ## 少数派
 
@@ -28,27 +28,27 @@
 
 ## InfoQ
 
-1. [PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？](https://www.infoq.cn/article/8t2vJHOc5srUyQqSlO9m?utm_source=rss&utm_medium=article)
-2. [推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写](https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&utm_medium=article)
-3. [把 FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://www.infoq.cn/article/uQvqV8VlMl5g8OqQKwDG?utm_source=rss&utm_medium=article)
-4. [参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache](https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&utm_medium=article)
-5. [Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？](https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article)
+1. [2026 腾讯云大数据年度精选技术实践指南](https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX?utm_source=rss&utm_medium=article)
+2. [Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文](https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt?utm_source=rss&utm_medium=article)
+3. [破除人形崇拜！京东用“狼族”军团重做物理AI](https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&utm_medium=article)
+4. [PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？](https://www.infoq.cn/article/8t2vJHOc5srUyQqSlO9m?utm_source=rss&utm_medium=article)
+5. [推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写](https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
-2. [苹果第一台折叠 iPhone，15999 元起](http://www.geekpark.net/news/370088)
-3. [千问办公发布多人工作台，重写企业软件的最后一公里](http://www.geekpark.net/news/370061)
-4. [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
-5. [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
+1. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
+2. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
+3. [苹果第一台折叠 iPhone，15999 元起](http://www.geekpark.net/news/370088)
+4. [千问办公发布多人工作台，重写企业软件的最后一公里](http://www.geekpark.net/news/370061)
+5. [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
 
 ## MIT Technology Review
 
-1. [Can the US battery market untangle from China?](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/)
-2. [God told them to sell crypto. Their investors lost everything.](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
-3. [Healthcare AI’s next test is integration](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/)
-4. [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)
-5. [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/)
+1. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
+2. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
+3. [This road map could help us decide whether to deploy solar geoengineering](https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/)
+4. [Can the US battery market untangle from China?](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/)
+5. [God told them to sell crypto. Their investors lost everything.](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
 
 ## Hacker News
 
