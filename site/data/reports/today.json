@@ -1,14 +1,14 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-11",
-    "generatedAt": "2026-09-11 00:22:38",
-    "summary": "青岛货轮火灾25人遇难成为本期综合热度最高的话题，中国女篮不敌法国无缘世界杯四强紧随其后。当前覆盖 19 个有效渠道，共形成 33 个榜单时间切片；发现 7 个跨渠道重复热点。",
+    "generatedAt": "2026-09-11 00:29:27",
+    "summary": "青岛货轮火灾25人遇难成为本期综合热度最高的话题，中国女篮不敌法国无缘世界杯四强紧随其后。当前覆盖 20 个有效渠道，共形成 34 个榜单时间切片；发现 7 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 986,
+        "deduplicated": 995,
         "resonance": 7,
         "maxRise": 0,
-        "slices": 33,
-        "coverage": 83
+        "slices": 34,
+        "coverage": 87
     },
     "topTopics": [
         {
@@ -229,7 +229,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 68,
+            "weight": 70,
             "tone": "hot",
             "hits": [
                 {
@@ -476,7 +476,7 @@
         },
         {
             "word": "iPhone",
-            "weight": 41,
+            "weight": 42,
             "tone": "teal",
             "hits": [
                 {
@@ -969,9 +969,232 @@
             ]
         },
         {
+            "word": "Duo",
+            "weight": 25,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 8,
+                    "title": "【影视飓风】iPhone Duo折叠屏真机上手",
+                    "url": "https://b23.tv/BV12PYh62E3c"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 17,
+                    "title": "A20 Pro来啦！散热拉满？iPhone Duo/18 Pro现场上手",
+                    "url": "https://b23.tv/BV1JVYM6GEof"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 25,
+                    "title": "动态视频 | 折叠屏iPhone Duo、18 Pro系列现场上手！",
+                    "url": "https://b23.tv/BV1jcYa6BEDm"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 31,
+                    "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
+                    "url": "https://b23.tv/BV1LJYb6ZE1m"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 34,
+                    "title": "锐评2026苹果秋季新品发布会：iPhone Duo、iPhone 18 Pro、Apple Watch、AirPods",
+                    "url": "https://b23.tv/BV1jeYN6cEdH"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 38,
+                    "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
+                    "url": "https://b23.tv/BV1oFY868ETc"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 47,
+                    "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
+                    "url": "https://b23.tv/BV1LJYb6ZE1m"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 58,
+                    "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
+                    "url": "https://b23.tv/BV1oFY868ETc"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 43,
+                    "title": "多邻国开撕iPhone Duo",
+                    "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%BC%80%E6%92%95iPhone%20Duo&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 17,
+                    "title": "iPhone Duo 靠雾面纳米玻璃降低折痕可见度，怎样看待这种方式？要完全消除折叠痕还有哪些难点？",
+                    "url": "https://www.zhihu.com/question/2081316147840771483"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 21,
+                    "title": "如何看待三星嘲讽苹果 iPhoneDuo，称其「热剩饭」？苹果这个时候为什么一定要推出折叠屏手机？",
+                    "url": "https://www.zhihu.com/question/2081320443747594654"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 40,
+                    "title": "机构称 iPhone Duo 首年有望拿下 25% 市场份额，晚了三星、华为数年入局折叠屏，苹果能改写格局吗？",
+                    "url": "https://www.zhihu.com/question/2081335946977469507"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 28,
+                    "title": "iPhone Duo 适配 Drag and Drop 实现方案",
+                    "url": "https://juejin.cn/post/7683511159950540835"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 23,
+                    "title": "超63万人预约15999元iPhone Duo",
+                    "url": "https://www.toutiao.com/trending/7683867554368179721/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683867554368179721%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B6%8563%E4%B8%87%E4%BA%BA%E9%A2%84%E7%BA%A615999%E5%85%83iPhone+Duo%22%7D&rank=&style_id=40132&topic_id=7683867554368179721"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 26,
+                    "title": "罗永浩连用7个“抄的”吐槽iPhoneDuo",
+                    "url": "https://www.toutiao.com/trending/7683724776053162027/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683724776053162027%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%BF%9E%E7%94%A87%E4%B8%AA%E2%80%9C%E6%8A%84%E7%9A%84%E2%80%9D%E5%90%90%E6%A7%BDiPhoneDuo%22%7D&rank=&style_id=40132&topic_id=7683724776053162027"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 43,
+                    "title": "iPhone Duo发布市场为什么没鼓掌",
+                    "url": "https://www.toutiao.com/trending/7683871717537615414/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683871717537615414%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+Duo%E5%8F%91%E5%B8%83%E5%B8%82%E5%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E9%BC%93%E6%8E%8C%22%7D&rank=&style_id=40132&topic_id=7683871717537615414"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 23,
+                    "title": "Only Apple Can Duo！15999的苹果折叠屏iPhone Duo摸着友商过河？",
+                    "url": "https://www.acfun.cn/v/ac48837958"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 2,
+                    "title": "8点1氪丨苹果发布首款折叠屏iPhone Duo：售价15999元起；支付宝账户被哈啰打车盗刷6551元，哈啰客服称最多赔200；DeepSeek备战科创板IPO",
+                    "url": "https://www.36kr.com/p/3976825296597507"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 3,
+                    "title": "iPhone Duo 首发上手：唯一值两万元的折叠屏",
+                    "url": "https://www.36kr.com/p/3976675003347205"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 7,
+                    "title": "手机圈爱马仕，15999元的iPhone Duo摸着华为小米过河，开启手机奢侈品时代？",
+                    "url": "https://www.36kr.com/p/3976607903307657"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 10,
+                    "title": "999元起，AirPods 5加量不加价，两款Watch比Duo更有诚意？",
+                    "url": "https://www.36kr.com/p/3976622560941954"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 23,
+                    "title": "苹果iPhone Duo发布股价不涨反跌，市值一度蒸发约900亿美元",
+                    "url": "https://www.36kr.com/p/3976991414874371"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 1,
+                    "title": "iPhone Duo 并没有多惊艳",
+                    "url": "https://www.v2ex.com/t/1240866"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "大家打算入今年的苹果Duo吗",
+                    "url": "https://www.nodeseek.com/post-922484-1"
+                },
+                {
+                    "channelId": "tieba",
+                    "channelName": "百度贴吧",
+                    "ranking": "最有料热点",
+                    "rank": 25,
+                    "title": "iPhone Duo将亮相,双屏有惊喜",
+                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363317&topic_name=iPhone%20Duo%E5%B0%86%E4%BA%AE%E7%9B%B8%2C%E5%8F%8C%E5%B1%8F%E6%9C%89%E6%83%8A%E5%96%9C"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "少数派",
+                    "rank": 2,
+                    "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
+                    "url": "https://sspai.com/post/114394"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 5,
+                    "title": "iPhone Duo 首发上手：唯一值两万元的折叠屏",
+                    "url": "https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign="
+                }
+            ]
+        },
+        {
             "word": "世界",
             "weight": 23,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1178,7 +1401,7 @@
         {
             "word": "Pro",
             "weight": 30,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1419,221 +1642,6 @@
                     "rank": 5,
                     "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
                     "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/"
-                }
-            ]
-        },
-        {
-            "word": "Duo",
-            "weight": 24,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 8,
-                    "title": "【影视飓风】iPhone Duo折叠屏真机上手",
-                    "url": "https://b23.tv/BV12PYh62E3c"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 17,
-                    "title": "A20 Pro来啦！散热拉满？iPhone Duo/18 Pro现场上手",
-                    "url": "https://b23.tv/BV1JVYM6GEof"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 25,
-                    "title": "动态视频 | 折叠屏iPhone Duo、18 Pro系列现场上手！",
-                    "url": "https://b23.tv/BV1jcYa6BEDm"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 31,
-                    "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
-                    "url": "https://b23.tv/BV1LJYb6ZE1m"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 34,
-                    "title": "锐评2026苹果秋季新品发布会：iPhone Duo、iPhone 18 Pro、Apple Watch、AirPods",
-                    "url": "https://b23.tv/BV1jeYN6cEdH"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 38,
-                    "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
-                    "url": "https://b23.tv/BV1oFY868ETc"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 47,
-                    "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
-                    "url": "https://b23.tv/BV1LJYb6ZE1m"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 58,
-                    "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
-                    "url": "https://b23.tv/BV1oFY868ETc"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 43,
-                    "title": "多邻国开撕iPhone Duo",
-                    "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E5%BC%80%E6%92%95iPhone%20Duo&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 17,
-                    "title": "iPhone Duo 靠雾面纳米玻璃降低折痕可见度，怎样看待这种方式？要完全消除折叠痕还有哪些难点？",
-                    "url": "https://www.zhihu.com/question/2081316147840771483"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 21,
-                    "title": "如何看待三星嘲讽苹果 iPhoneDuo，称其「热剩饭」？苹果这个时候为什么一定要推出折叠屏手机？",
-                    "url": "https://www.zhihu.com/question/2081320443747594654"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 40,
-                    "title": "机构称 iPhone Duo 首年有望拿下 25% 市场份额，晚了三星、华为数年入局折叠屏，苹果能改写格局吗？",
-                    "url": "https://www.zhihu.com/question/2081335946977469507"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 28,
-                    "title": "iPhone Duo 适配 Drag and Drop 实现方案",
-                    "url": "https://juejin.cn/post/7683511159950540835"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 23,
-                    "title": "超63万人预约15999元iPhone Duo",
-                    "url": "https://www.toutiao.com/trending/7683867554368179721/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683867554368179721%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B6%8563%E4%B8%87%E4%BA%BA%E9%A2%84%E7%BA%A615999%E5%85%83iPhone+Duo%22%7D&rank=&style_id=40132&topic_id=7683867554368179721"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 26,
-                    "title": "罗永浩连用7个“抄的”吐槽iPhoneDuo",
-                    "url": "https://www.toutiao.com/trending/7683724776053162027/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683724776053162027%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%BF%9E%E7%94%A87%E4%B8%AA%E2%80%9C%E6%8A%84%E7%9A%84%E2%80%9D%E5%90%90%E6%A7%BDiPhoneDuo%22%7D&rank=&style_id=40132&topic_id=7683724776053162027"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 43,
-                    "title": "iPhone Duo发布市场为什么没鼓掌",
-                    "url": "https://www.toutiao.com/trending/7683871717537615414/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683871717537615414%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+Duo%E5%8F%91%E5%B8%83%E5%B8%82%E5%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E9%BC%93%E6%8E%8C%22%7D&rank=&style_id=40132&topic_id=7683871717537615414"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 23,
-                    "title": "Only Apple Can Duo！15999的苹果折叠屏iPhone Duo摸着友商过河？",
-                    "url": "https://www.acfun.cn/v/ac48837958"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 2,
-                    "title": "8点1氪丨苹果发布首款折叠屏iPhone Duo：售价15999元起；支付宝账户被哈啰打车盗刷6551元，哈啰客服称最多赔200；DeepSeek备战科创板IPO",
-                    "url": "https://www.36kr.com/p/3976825296597507"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 3,
-                    "title": "iPhone Duo 首发上手：唯一值两万元的折叠屏",
-                    "url": "https://www.36kr.com/p/3976675003347205"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 7,
-                    "title": "手机圈爱马仕，15999元的iPhone Duo摸着华为小米过河，开启手机奢侈品时代？",
-                    "url": "https://www.36kr.com/p/3976607903307657"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 10,
-                    "title": "999元起，AirPods 5加量不加价，两款Watch比Duo更有诚意？",
-                    "url": "https://www.36kr.com/p/3976622560941954"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 23,
-                    "title": "苹果iPhone Duo发布股价不涨反跌，市值一度蒸发约900亿美元",
-                    "url": "https://www.36kr.com/p/3976991414874371"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "大家打算入今年的苹果Duo吗",
-                    "url": "https://www.nodeseek.com/post-922484-1"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 25,
-                    "title": "iPhone Duo将亮相,双屏有惊喜",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363317&topic_name=iPhone%20Duo%E5%B0%86%E4%BA%AE%E7%9B%B8%2C%E5%8F%8C%E5%B1%8F%E6%9C%89%E6%83%8A%E5%96%9C"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "少数派",
-                    "rank": 2,
-                    "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
-                    "url": "https://sspai.com/post/114394"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 5,
-                    "title": "iPhone Duo 首发上手：唯一值两万元的折叠屏",
-                    "url": "https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign="
                 }
             ]
         },
@@ -2599,9 +2607,136 @@
             ]
         },
         {
+            "word": "GPT",
+            "weight": 15,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 10,
+                    "title": "GPT-6 正式发布",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 11,
+                    "title": "GPT-6 贵",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 26,
+                    "title": "怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？",
+                    "url": "https://www.zhihu.com/question/2080336745191817631"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 48,
+                    "title": "Codex 里的 GPT 6 Astra 、 GPT 5.6 Sol 、 Terra 、 Luna 怎么选？",
+                    "url": "https://www.zhihu.com/question/2079625515565060391"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 3,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "GPT - 6 Astra 的使用焚诀",
+                    "url": "https://juejin.cn/post/7682634449856217115"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 27,
+                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
+                    "url": "https://juejin.cn/post/7682241475045687339"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 30,
+                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
+                    "url": "https://juejin.cn/post/7683072481465057323"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 48,
+                    "title": "GPT-6 VS GPT-5.6：你该怎么选",
+                    "url": "https://juejin.cn/post/7683448371320537124"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 12,
+                    "title": "实测 GPT Images 2.5：连鬼画符都能看懂，灵魂画手真要翻身了",
+                    "url": "https://www.36kr.com/p/3976786961019396"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "如何充值 chatgpt？ 救救孩子吧",
+                    "url": "https://www.v2ex.com/t/1240984"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 4,
+                    "title": "怎么今天gpt这么慢。。。",
+                    "url": "https://www.nodeseek.com/post-922731-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 40,
+                    "title": "gpt6发布后，cyber检测是不是变严格了",
+                    "url": "https://www.nodeseek.com/post-922723-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 5,
+                    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+                    "url": "https://www.qbitai.com/2026/09/486684.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 5,
+                    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+                    "url": "https://cognition.com/blog/swe-2"
+                }
+            ]
+        },
+        {
             "word": "女篮",
             "weight": 13,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -2712,7 +2847,7 @@
         {
             "word": "科技",
             "weight": 13,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2823,7 +2958,7 @@
         {
             "word": "一次",
             "weight": 12,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2934,7 +3069,7 @@
         {
             "word": "还是",
             "weight": 12,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3037,7 +3172,7 @@
         {
             "word": "DeepSeek",
             "weight": 11,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3132,7 +3267,7 @@
         {
             "word": "IG",
             "weight": 10,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3219,7 +3354,7 @@
         {
             "word": "Apple",
             "weight": 9,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3298,7 +3433,7 @@
         {
             "word": "终于",
             "weight": 9,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3393,7 +3528,7 @@
         {
             "word": "火灾",
             "weight": 8,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3464,7 +3599,7 @@
         {
             "word": "货轮",
             "weight": 8,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3535,7 +3670,7 @@
         {
             "word": "世界杯",
             "weight": 7,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3598,7 +3733,7 @@
         {
             "word": "第三",
             "weight": 20,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3805,7 +3940,7 @@
         {
             "word": "公司",
             "weight": 19,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -3958,125 +4093,6 @@
                     "rank": 46,
                     "title": "证券日报网讯9月10日，上海医药发布公告称，近日，公司下属上海禾丰制药有限公司收到国家药品监督管理局颁发的关于盐酸林可霉素注射液的《药品补充申请批准通知书 ...",
                     "url": "http://news.10jqka.com.cn/20260910/c679798477.shtml"
-                }
-            ]
-        },
-        {
-            "word": "GPT",
-            "weight": 14,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 10,
-                    "title": "GPT-6 正式发布",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 11,
-                    "title": "GPT-6 贵",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 26,
-                    "title": "怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？",
-                    "url": "https://www.zhihu.com/question/2080336745191817631"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 48,
-                    "title": "Codex 里的 GPT 6 Astra 、 GPT 5.6 Sol 、 Terra 、 Luna 怎么选？",
-                    "url": "https://www.zhihu.com/question/2079625515565060391"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 3,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "GPT - 6 Astra 的使用焚诀",
-                    "url": "https://juejin.cn/post/7682634449856217115"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 27,
-                    "title": "幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么",
-                    "url": "https://juejin.cn/post/7682241475045687339"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 30,
-                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
-                    "url": "https://juejin.cn/post/7683072481465057323"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 48,
-                    "title": "GPT-6 VS GPT-5.6：你该怎么选",
-                    "url": "https://juejin.cn/post/7683448371320537124"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 12,
-                    "title": "实测 GPT Images 2.5：连鬼画符都能看懂，灵魂画手真要翻身了",
-                    "url": "https://www.36kr.com/p/3976786961019396"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 4,
-                    "title": "怎么今天gpt这么慢。。。",
-                    "url": "https://www.nodeseek.com/post-922731-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 40,
-                    "title": "gpt6发布后，cyber检测是不是变严格了",
-                    "url": "https://www.nodeseek.com/post-922723-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 5,
-                    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-                    "url": "https://www.qbitai.com/2026/09/486684.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 5,
-                    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-                    "url": "https://cognition.com/blog/swe-2"
                 }
             ]
         },
@@ -4397,9 +4413,64 @@
             ]
         },
         {
-            "word": "Max",
+            "word": "OpenAI",
             "weight": 6,
             "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 74,
+                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
+                    "url": "https://b23.tv/BV1SdYn6cEoq"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 1,
+                    "title": "如何评价霍奇猜想（七大千禧难题之一）疑似被 OpenAI 解决？",
+                    "url": "https://www.zhihu.com/question/2081241555524965559"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 3,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 36,
+                    "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
+                    "url": "https://www.36kr.com/p/3976956224926214"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 40,
+                    "title": "OpenAI总裁「格雷格·布罗克曼」专访：Astra是首个在10万块GPU上训练的模型，我们已进入AGI时代",
+                    "url": "https://www.36kr.com/p/3976784212203136"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "openai，我 qnmd！",
+                    "url": "https://www.v2ex.com/t/1241024"
+                }
+            ]
+        },
+        {
+            "word": "Max",
+            "weight": 6,
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4454,7 +4525,7 @@
         {
             "word": "华为",
             "weight": 6,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4509,7 +4580,7 @@
         {
             "word": "无缘",
             "weight": 6,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4564,7 +4635,7 @@
         {
             "word": "郑钦文",
             "weight": 5,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -4611,7 +4682,7 @@
         {
             "word": "四强",
             "weight": 5,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4658,7 +4729,7 @@
         {
             "word": "元起",
             "weight": 8,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "36kr",
@@ -4729,7 +4800,7 @@
         {
             "word": "Astra",
             "weight": 7,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -4792,7 +4863,7 @@
         {
             "word": "十五",
             "weight": 7,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4851,75 +4922,13 @@
                     "url": "https://mp.weixin.qq.com/s?__biz=MzYzMjI4NjA0OA==&mid=2247485098&idx=1&sn=fdae22d362496ad7662d65df80a3552a#rd"
                 }
             ]
-        },
-        {
-            "word": "王者",
-            "weight": 7,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 27,
-                    "title": "打出王牌，全员暴C｜《王者万象棋》王牌英雄企划现已开启！",
-                    "url": "https://b23.tv/BV1w2Y46YEQS"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 14,
-                    "title": "王者万象棋正式上线",
-                    "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 23,
-                    "title": "王者万象棋新手攻略",
-                    "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 46,
-                    "title": "黄子韬陈泽一诺王者万象棋合体",
-                    "url": "https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E9%99%88%E6%B3%BD%E4%B8%80%E8%AF%BA%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%90%88%E4%BD%93"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 25,
-                    "title": "如何评价《王者万象棋》这款游戏？它到底好不好玩？",
-                    "url": "https://www.zhihu.com/question/2080986057722574766"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 31,
-                    "title": "十职业十王者20分钟80人头，激战！快速看完一局韩服王者斗殴局#825 MihawK, Canyon",
-                    "url": "https://www.acfun.cn/v/ac48831183"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 44,
-                    "title": "你来我往的高分对局！快速看完一局韩服王者斗殴局#823 Guardian, Lucy , Clear",
-                    "url": "https://www.acfun.cn/v/ac48827909"
-                }
-            ]
         }
     ],
     "flow": {
         "times": [
             "00:21",
-            "00:22"
+            "00:22",
+            "00:29"
         ],
         "rows": [
             {
