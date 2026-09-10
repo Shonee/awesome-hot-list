@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 01:20:17
+> 更新时间：2026-09-11 02:24:56
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
-2. [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
-3. [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
-4. [Forgejo <=16.0.3 Critical RCE](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
-5. [Casablanca: How an unproduced play marched into movie history](https://www.thecollector.com/casablanca-unproduced-play-movie-history/)
+1. [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+2. [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+3. [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)
+4. [Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2)
+5. [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/)
 
 ## 阮一峰网络日志
 
