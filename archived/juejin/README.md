@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-11 02:24:20
+> 更新时间：2026-09-11 03:15:54
 
 ## 热门文章
 
@@ -22,15 +22,15 @@
 16. [为什么不推荐走Agent开发？](https://juejin.cn/post/7683457864929329204)
 17. [DeepSeek 明天又降价（涵历史价格对比）](https://juejin.cn/post/7683347149876051977)
 18. [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987)
-19. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
-20. [为啥 Blender 突然火了？](https://juejin.cn/post/7683515498140221478)
+19. [为啥 Blender 突然火了？](https://juejin.cn/post/7683515498140221478)
+20. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
 21. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
 22. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
 23. [每天白嫖 WorkBuddy 100 积分，我让WorkBuddy自己领](https://juejin.cn/post/7683353819855077412)
 24. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
-25. [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023)
-26. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
-27. [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130)
+25. [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130)
+26. [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023)
+27. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
 28. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
 29. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
 30. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)

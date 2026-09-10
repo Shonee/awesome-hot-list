@@ -1,25 +1,25 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-11 02:24:42
+> 更新时间：2026-09-11 03:16:15
 
 ## 热门热帖
 
-1. [短视频无水印解析下载 v1.0.0](https://www.52pojie.cn/thread-2126862-1-1.html)
-2. [重复文件查找删除工具](https://www.52pojie.cn/thread-2126656-1-1.html)
-3. [B站第三方 BT 0.9.35](https://www.52pojie.cn/thread-2126475-1-1.html)
-4. [Windows 极限优化助手 2.9](https://www.52pojie.cn/thread-2126667-1-1.html)
-5. [轻量级屏幕标注工具 MarkerOn v2.9.4](https://www.52pojie.cn/thread-2125295-1-1.html)
-6. [打印机工具箱1.1](https://www.52pojie.cn/thread-2126715-1-1.html)
-7. [小旋风收音机 v1.2.2](https://www.52pojie.cn/thread-2126705-1-1.html)
-8. [星愿浏览器 Twinkstar v11.4.1000.2609](https://www.52pojie.cn/thread-2126907-1-1.html)
-9. [NetBlocker - 进程断网工具（路由黑洞+防火墙拦截）](https://www.52pojie.cn/thread-2127139-1-1.html)
-10. [拆书器（拆书工具）](https://www.52pojie.cn/thread-2125259-1-1.html)
-11. [截图录屏OCR工具 Pixwit v1.16.3](https://www.52pojie.cn/thread-2126614-1-1.html)
-12. [图吧工具箱 winUI3 版 v1.6.1](https://www.52pojie.cn/thread-2127011-1-1.html)
-13. [查看硬盘健康度软件gsmartcontrol-2.0.2-win64最新版个人汉化](https://www.52pojie.cn/thread-2126734-1-1.html)
-14. [震撼发布：ZXC自动浏览器V0.1版本（市面上没有任何相关竞品，适配vue等所有框架）](https://www.52pojie.cn/thread-2127312-1-1.html)
-15. [工位风水大师 v1.0](https://www.52pojie.cn/thread-2125550-1-1.html)
-16. [万物工具箱 6.9.26.828](https://www.52pojie.cn/thread-2127033-1-1.html)
+1. [重复文件查找删除工具](https://www.52pojie.cn/thread-2126656-1-1.html)
+2. [截图录屏OCR工具 Pixwit v1.16.3](https://www.52pojie.cn/thread-2126614-1-1.html)
+3. [Windows 极限优化助手 2.9](https://www.52pojie.cn/thread-2126667-1-1.html)
+4. [打印机工具箱1.1](https://www.52pojie.cn/thread-2126715-1-1.html)
+5. [万物工具箱 6.9.26.828](https://www.52pojie.cn/thread-2127033-1-1.html)
+6. [星愿浏览器 Twinkstar v11.4.1000.2609](https://www.52pojie.cn/thread-2126907-1-1.html)
+7. [短视频无水印解析下载 v1.0.0](https://www.52pojie.cn/thread-2126862-1-1.html)
+8. [B站第三方 BT 0.9.35](https://www.52pojie.cn/thread-2126475-1-1.html)
+9. [轻量级屏幕标注工具 MarkerOn v2.9.4](https://www.52pojie.cn/thread-2125295-1-1.html)
+10. [小旋风收音机 v1.2.2](https://www.52pojie.cn/thread-2126705-1-1.html)
+11. [NetBlocker - 进程断网工具（路由黑洞+防火墙拦截）](https://www.52pojie.cn/thread-2127139-1-1.html)
+12. [拆书器（拆书工具）](https://www.52pojie.cn/thread-2125259-1-1.html)
+13. [图吧工具箱 winUI3 版 v1.6.1](https://www.52pojie.cn/thread-2127011-1-1.html)
+14. [查看硬盘健康度软件gsmartcontrol-2.0.2-win64最新版个人汉化](https://www.52pojie.cn/thread-2126734-1-1.html)
+15. [震撼发布：ZXC自动浏览器V0.1版本（市面上没有任何相关竞品，适配vue等所有框架）](https://www.52pojie.cn/thread-2127312-1-1.html)
+16. [工位风水大师 v1.0](https://www.52pojie.cn/thread-2125550-1-1.html)
 17. [远程桌面控制工具 UltraVNC v1.8.2.9](https://www.52pojie.cn/thread-2127152-1-1.html)
 18. [Markdown编辑器 HorseMD v0.13.187](https://www.52pojie.cn/thread-2126073-1-1.html)
 19. [小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2](https://www.52pojie.cn/thread-2126541-1-1.html)
