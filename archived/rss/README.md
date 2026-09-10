@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 18:22:18
+> 更新时间：2026-09-10 19:19:53
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口](https://www.qbitai.com/2026/09/486900.html)
-2. [全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源](https://www.qbitai.com/2026/09/486747.html)
-3. [这个新开源的世界模型只有1.3B，单卡就能实时跑！](https://www.qbitai.com/2026/09/486716.html)
-4. [AGI时代的第一个生图模型，ChatGPT Images 2.5上线](https://www.qbitai.com/2026/09/486684.html)
-5. [营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者](https://www.qbitai.com/2026/09/486651.html)
+1. [ECCV上，顶尖学者们开始研究如何让AI做生意了](https://www.qbitai.com/2026/09/486934.html)
+2. [全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口](https://www.qbitai.com/2026/09/486900.html)
+3. [全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源](https://www.qbitai.com/2026/09/486747.html)
+4. [这个新开源的世界模型只有1.3B，单卡就能实时跑！](https://www.qbitai.com/2026/09/486716.html)
+5. [AGI时代的第一个生图模型，ChatGPT Images 2.5上线](https://www.qbitai.com/2026/09/486684.html)
 
 ## InfoQ
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
-2. [I think I hate the internet](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
-3. [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
-4. [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
-5. [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)
+1. [Thanks to Siri Recaps, your Apple Watch is always listening](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
+2. [PlayStation cancels Kojima's PHYSINT, Xbox steps in](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
+3. [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
+4. [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+5. [I think I hate the internet](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
 
 ## 阮一峰网络日志
 
