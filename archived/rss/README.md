@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 10:31:01
+> 更新时间：2026-09-10 11:26:09
 
 ## 少数派
 
@@ -12,27 +12,27 @@
 
 ## 爱范儿
 
-1. [iPhone Duo 首发上手：唯一值两万元的折叠屏](https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌](https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [iPhone Duo 首发上手：唯一值两万元的折叠屏](https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
-1. [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
-2. [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
-3. [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
-4. [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
-5. [具身机器人能搞定超市盘点吗？全球七万门店正在给出答案](https://www.qbitai.com/2026/09/486280.html)
+1. [打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果](https://www.qbitai.com/2026/09/486436.html)
+2. [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
+3. [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
+4. [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
+5. [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
 
 ## InfoQ
 
-1. [边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海](https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb?utm_source=rss&utm_medium=article)
-2. [Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验](https://www.infoq.cn/article/7dKPszYaaHXIzoVLyh30?utm_source=rss&utm_medium=article)
-3. [从 Harness 到 Loop 的持续进化](https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article)
-4. [技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article)
-5. [Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式](https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&utm_medium=article)
+1. [中科院江小涓谈 AI 新经济：AI正在改写中国企业“先国内、再出海”的老路径](https://www.infoq.cn/article/7xE0eQlCGCSoM0wbmAoM?utm_source=rss&utm_medium=article)
+2. [Meta Muse突袭：人手一台AI虚拟机，全天候干活！扎克伯格想让 AI 自己“挣回饭钱”](https://www.infoq.cn/article/NSFJ4JFUjL6KaYUDV5Wv?utm_source=rss&utm_medium=article)
+3. [Copilot 代码审查功能已登陆 Azure Repos，按审查次数计费](https://www.infoq.cn/article/kB15qdDc6NFLdaUbCbqo?utm_source=rss&utm_medium=article)
+4. [边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海](https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb?utm_source=rss&utm_medium=article)
+5. [Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验](https://www.infoq.cn/article/7dKPszYaaHXIzoVLyh30?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,14 +52,14 @@
 
 ## Hacker News
 
-1. [I'm sorry, you're not going to die from an AI-engineered supervirus](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from)
-2. [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
-3. [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
-4. [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
-5. [iPhone Duo](https://www.apple.com/iphone-duo/)
+1. [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+2. [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+3. [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+4. [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
+5. [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
 
 ## 阮一峰网络日志
 
-1. [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
-2. [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
+1. [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
+2. [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
 3. [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
