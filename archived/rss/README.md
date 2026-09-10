@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 12:25:31
+> 更新时间：2026-09-10 13:22:34
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能](https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article)
-2. [OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战](https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article)
-3. [中科院江小涓谈 AI 新经济：AI正在改写中国企业“先国内、再出海”的老路径](https://www.infoq.cn/article/7xE0eQlCGCSoM0wbmAoM?utm_source=rss&utm_medium=article)
-4. [Meta Muse突袭：人手一台AI虚拟机，全天候干活！扎克伯格想让 AI 自己“挣回饭钱”](https://www.infoq.cn/article/NSFJ4JFUjL6KaYUDV5Wv?utm_source=rss&utm_medium=article)
-5. [Copilot 代码审查功能已登陆 Azure Repos，按审查次数计费](https://www.infoq.cn/article/kB15qdDc6NFLdaUbCbqo?utm_source=rss&utm_medium=article)
+1. [14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲](https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article)
+2. [Airbnb 采用服务端驱动架构，身份验证代码量减少 60%](https://www.infoq.cn/article/CKpxx7ZtuZ7wLJ1CqF0i?utm_source=rss&utm_medium=article)
+3. [诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能](https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article)
+4. [OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战](https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article)
+5. [中科院江小涓谈 AI 新经济：AI正在改写中国企业“先国内、再出海”的老路径](https://www.infoq.cn/article/7xE0eQlCGCSoM0wbmAoM?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 

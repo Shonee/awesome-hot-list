@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-10 12:25:01
+> 更新时间：2026-09-10 13:21:19
 
 ## 最新资讯
 
-1. [荣耀 Magic9 系列手机官宣支持阿莱色彩科学，含完整阿莱官方全套 Look 等](https://www.ithome.com/1/000/696.htm)
-2. [英伟达 CUDA Toolkit 13.4 首次原生支持 Windows on Arm64，铺路 RTX Spark](https://www.ithome.com/1/000/694.htm)
-3. [成都以 AI 治理“龟速车”：覆盖城区所有快速路及绕城高速，试行监测路段慢车数量降约 20%](https://www.ithome.com/1/000/693.htm)
-4. [DeepSeek V4.1 Flash 模型今日发布，V4 Pro 服务推迟到 9 月 14 日下线](https://www.ithome.com/1/000/692.htm)
-5. [微星再度联名动漫，预告《进击的巨人》主题产品](https://www.ithome.com/1/000/691.htm)
+1. [中国联通董事长董昕：反对恶性竞争，更要避开同质化竞争](https://www.ithome.com/1/000/707.htm)
+2. [消息称零跑 ABCD 四大系列车型有望全系搭载世界模型智驾，达到“全行业第一梯队”](https://www.ithome.com/1/000/706.htm)
+3. [集英社漫改游戏《封神演义：逆命承天》公布，2027 年登陆任天堂 Switch 2、PS5、PC 平台](https://www.ithome.com/1/000/705.htm)
+4. [Excel 2016 等用户反馈微软 9 月更新导致复制粘贴功能失效](https://www.ithome.com/1/000/704.htm)
+5. [我国空警-500、运油-20A、歼-16、直-20K 四种机型首次在国外航展公开展示](https://www.ithome.com/1/000/702.htm)
