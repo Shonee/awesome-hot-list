@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 00:22:34
+> 更新时间：2026-09-11 01:20:17
 
 ## 少数派
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [Casablanca: How An Unproduced Play Marched into Movie History](https://www.thecollector.com/casablanca-unproduced-play-movie-history/)
-2. [Serverless DTLS](https://proxylity.com/docs/listeners/dtls.html)
-3. [Neki by PlanetScale](https://neki.dev/)
-4. [Neki](https://planetscale.com/blog/introducing-neki)
-5. [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
-
-## AI News
-
-1. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-2. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-3. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
-4. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-5. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+1. [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
+2. [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
+3. [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
+4. [Forgejo <=16.0.3 Critical RCE](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
+5. [Casablanca: How an unproduced play marched into movie history](https://www.thecollector.com/casablanca-unproduced-play-movie-history/)
 
 ## 阮一峰网络日志
 

@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-11 00:21:44
+> 更新时间：2026-09-11 01:18:50
 
 ## 热门文章
 
@@ -19,22 +19,22 @@
 13. [初创公司的“自己人”，到底能当多久？](https://juejin.cn/post/7682601317680316416)
 14. [别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统](https://juejin.cn/post/7682611037704011827)
 15. [为什么市面上的 coding agent 大多数都基于Nodejs？](https://juejin.cn/post/7683481485497188403)
-16. [DeepSeek 明天又降价（涵历史价格对比）](https://juejin.cn/post/7683347149876051977)
-17. [为什么不推荐走Agent开发？](https://juejin.cn/post/7683457864929329204)
+16. [为什么不推荐走Agent开发？](https://juejin.cn/post/7683457864929329204)
+17. [DeepSeek 明天又降价（涵历史价格对比）](https://juejin.cn/post/7683347149876051977)
 18. [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987)
-19. [为啥 Blender 突然火了？](https://juejin.cn/post/7683515498140221478)
-20. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
+19. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
+20. [为啥 Blender 突然火了？](https://juejin.cn/post/7683515498140221478)
 21. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
 22. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
 23. [每天白嫖 WorkBuddy 100 积分，我让WorkBuddy自己领](https://juejin.cn/post/7683353819855077412)
 24. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
-25. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
-26. [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023)
-27. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
-28. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
-29. [你的 Vue3 项目也能有钉钉同款审批流设计器：npm 装包，10 分钟画出第一条审批流](https://juejin.cn/post/7683434989240795162)
-30. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
-31. [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130)
+25. [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023)
+26. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
+27. [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130)
+28. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
+29. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
+30. [你的 Vue3 项目也能有钉钉同款审批流设计器：npm 装包，10 分钟画出第一条审批流](https://juejin.cn/post/7683434989240795162)
+31. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
 32. [当 Mac mini 的价格不再 mini -- 肘子的 Swift 周报 #152](https://juejin.cn/post/7682670225502208038)
 33. [为什么现在越来越多的开源模型，都“毕业“于 Qwen？](https://juejin.cn/post/7682499191234707497)
 34. [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247)
@@ -46,8 +46,8 @@
 40. [让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践](https://juejin.cn/post/7683049897089335336)
 41. [现在回头看，Dart取消宏是无比正确的决定](https://juejin.cn/post/7683027781632294946)
 42. [Anthropic一次性锁死十年算力，5170亿美元买什么](https://juejin.cn/post/7682593227544936454)
-43. [不要先问“用哪个 AI”，先盘点你的开发工作流](https://juejin.cn/post/7683020866855632906)
-44. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
+43. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
+44. [不要先问“用哪个 AI”，先盘点你的开发工作流](https://juejin.cn/post/7683020866855632906)
 45. [Kotlin 2.4.20 现已发布，新特性多不多？](https://juejin.cn/post/7682977354633773083)
 46. [AndroidKMP之瀑布流实现](https://juejin.cn/post/7682663370555195446)
 47. [ClickHouse 表的生老“并”死：表实例、表元数据与并发 DDL](https://juejin.cn/post/7682800396523503625)
