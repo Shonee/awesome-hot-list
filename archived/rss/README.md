@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 20:32:38
+> 更新时间：2026-09-10 21:20:55
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [iPhone Duo 首发上手：唯一值两万元的折叠屏](https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级](https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [iPhone Duo 首发上手：唯一值两万元的折叠屏](https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Thanks to Siri Recaps, your Apple Watch is always listening](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
-2. [PlayStation cancels Kojima's PHYSINT, Xbox steps in](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
-3. [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
-4. [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
-5. [I think I hate the internet](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
+1. [List of references on Sony websites to players "owning" their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
+2. [Thanks to Siri Recaps, your Apple Watch is always listening](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
+3. [PlayStation cancels Kojima's PHYSINT, Xbox steps in](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
+4. [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
+5. [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+
+## AI News
+
+1. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+2. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+3. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+4. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+5. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
 
 ## 阮一峰网络日志
 
