@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 04:20:03
+> 更新时间：2026-09-11 05:17:45
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Genuine Creativity Is Your New Moat (2026)](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
-2. [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
-3. [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
-4. [Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2)
-5. [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/)
+1. [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
+2. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+3. [Creativity is the New Moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
+4. [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+5. [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
 ## 阮一峰网络日志
 
