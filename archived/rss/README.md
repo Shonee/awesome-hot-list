@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 23:21:52
+> 更新时间：2026-09-11 00:22:34
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
-2. [Show HN: I couldn't afford interview prep, so I built a free alternative](https://learningto.co/)
-3. [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
-4. [Who Dung It? (Turdle.fun)](https://turdle.fun/)
-5. [Bending Spoons buying Miro for $1.355B](https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro)
+1. [Casablanca: How An Unproduced Play Marched into Movie History](https://www.thecollector.com/casablanca-unproduced-play-movie-history/)
+2. [Serverless DTLS](https://proxylity.com/docs/listeners/dtls.html)
+3. [Neki by PlanetScale](https://neki.dev/)
+4. [Neki](https://planetscale.com/blog/introducing-neki)
+5. [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
 
 ## AI News
 
