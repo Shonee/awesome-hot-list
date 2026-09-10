@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 16:29:57
+> 更新时间：2026-09-10 17:24:29
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？](https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article)
-2. [多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流](https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article)
-3. [14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲](https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article)
-4. [Airbnb 采用服务端驱动架构，身份验证代码量减少 60%](https://www.infoq.cn/article/CKpxx7ZtuZ7wLJ1CqF0i?utm_source=rss&utm_medium=article)
-5. [诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能](https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article)
+1. [PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？](https://www.infoq.cn/article/8t2vJHOc5srUyQqSlO9m?utm_source=rss&utm_medium=article)
+2. [推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写](https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&utm_medium=article)
+3. [把 FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://www.infoq.cn/article/uQvqV8VlMl5g8OqQKwDG?utm_source=rss&utm_medium=article)
+4. [参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache](https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&utm_medium=article)
+5. [Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？](https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -44,19 +44,27 @@
 
 ## MIT Technology Review
 
-1. [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)
-2. [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/)
-3. [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)
-4. [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)
-5. [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/)
+1. [God told them to sell crypto. Their investors lost everything.](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
+2. [Healthcare AI’s next test is integration](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/)
+3. [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/)
+4. [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/)
+5. [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)
 
 ## Hacker News
 
-1. [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
-2. [OpenAI might have stolen another major proof](https://twitter.com/ValerioCapraro/status/2097791836269977996)
-3. [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
-4. [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)
-5. [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+1. [Show HN: Botbin.io – pastebin for AI agent artifacts](https://botbin.io/?v=next)
+2. [I think I hate the internet](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
+3. [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+4. [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
+5. [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)
+
+## AI News
+
+1. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+2. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+3. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+4. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+5. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
 
 ## 阮一峰网络日志
 

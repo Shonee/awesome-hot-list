@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-10 16:29:24
+> 更新时间：2026-09-10 17:23:46
 
 ## 最新资讯
 
-1. [支持前实习生创业项目：消息称阿里拟领投 AI 评测公司 UniPat 的 3 亿美元融资](https://www.ithome.com/1/000/856.htm)
-2. [支付宝设立“智能体涌现奖”：每年投入 1000 万，不会写代码也能参与](https://www.ithome.com/1/000/848.htm)
-3. [刷新全球开源模型多项评测 SOTA，宇树科技开源全新一代通用人形机器人基座模型 UnifoLM-WLA-1.0](https://www.ithome.com/1/000/837.htm)
-4. [中国商飞董事长贺东风：将打造人工智能训练场，让人形机器人走进大飞机的生产车间](https://www.ithome.com/1/000/832.htm)
-5. [详解苹果 Apple Watch Series 12 蜂窝版的 5G RedCap 技术：与完整 5G 有何不同](https://www.ithome.com/1/000/824.htm)
+1. [消息称月之暗面考虑沪港双重上市，争取更多融资](https://www.ithome.com/1/000/909.htm)
+2. [Wooting 预告 80HE+ 磁轴键盘：升级 Tikken 轴体、FR4 定位板](https://www.ithome.com/1/000/905.htm)
+3. [不止 Anthropic 的 Mythos 5，欧盟机构已获准访问 OpenAI GPT-6 Astra 模型](https://www.ithome.com/1/000/898.htm)
+4. [可检测身边的人是否戴着 Meta 智能眼镜，波兰开发者打造“Zuckoff”应用](https://www.ithome.com/1/000/896.htm)
+5. [集邦咨询：苹果首款折叠机带动供应链升级，预估今年 iPhone Duo 市占近 25%](https://www.ithome.com/1/000/895.htm)
