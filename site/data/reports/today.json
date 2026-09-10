@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-10",
-    "generatedAt": "2026-09-10 20:33:11",
-    "summary": "iPhoneDuo 折痕成为本期综合热度最高的话题，iPhone18Pro价格紧随其后。当前覆盖 22 个有效渠道，共形成 700 个榜单时间切片；发现 51 个跨渠道重复热点。",
+    "generatedAt": "2026-09-10 20:41:34",
+    "summary": "iPhoneDuo 折痕成为本期综合热度最高的话题，iPhone18Pro价格紧随其后。当前覆盖 22 个有效渠道，共形成 701 个榜单时间切片；发现 51 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3779,
+        "deduplicated": 3780,
         "resonance": 51,
         "maxRise": 67,
-        "slices": 700,
+        "slices": 701,
         "coverage": 96
     },
     "topTopics": [
@@ -661,7 +661,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 252,
+            "weight": 253,
             "tone": "hot",
             "hits": [
                 {
@@ -5106,9 +5106,256 @@
             ]
         },
         {
+            "word": "OpenAI",
+            "weight": 29,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 31,
+                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
+                    "url": "https://b23.tv/BV1SdYn6cEoq"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 98,
+                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
+                    "url": "https://b23.tv/BV1SdYn6cEoq"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 3,
+                    "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
+                    "url": "https://www.zhihu.com/question/2080253796941415480"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 21,
+                    "title": "OpenAI 宣布攻克了 N-S equations 这一千禧年问题，这意味着什么？会产生哪些影响？",
+                    "url": "https://www.zhihu.com/question/2080887293624304807"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 8,
+                    "title": "如何评价霍奇猜想（七大千禧难题之一）疑似被 OpenAI 解决？",
+                    "url": "https://www.zhihu.com/question/2081241555524965559"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+                    "url": "https://juejin.cn/post/7681931232724860970"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "OpenAI ChatGPT 语音模式支持调用 GPT-5.6 Sol 和 GPT-6 Astra",
+                    "url": "https://www.ithome.com/1/000/577.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "不止 Anthropic 的 Mythos 5，欧盟机构已获准访问 OpenAI GPT-6 Astra 模型",
+                    "url": "https://www.ithome.com/1/000/898.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "因模型入侵 Hugging Face，OpenAI 面临美国参议院调查",
+                    "url": "https://www.ithome.com/1/000/938.htm"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 24,
+                    "title": "OpenAI宣布千禧年七大问题之一的NS方程得解",
+                    "url": "https://bbs.hupu.com/642336797.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 4,
+                    "title": "刚刚，OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
+                    "url": "https://www.36kr.com/p/3975337527587333"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 19,
+                    "title": "GPT-6数学封神，遭顶尖数学家公开质疑“算力截胡”？OpenAI内部研究员撕开Astra真相：人脑更容易被污染，而AI只看概率",
+                    "url": "https://www.36kr.com/p/3975903682998786"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 24,
+                    "title": "难评，OpenAI刚官宣的NS方程大突破，被数学家手撕了……",
+                    "url": "https://www.36kr.com/p/3975499944571136"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 27,
+                    "title": "27岁研究员连辞OpenAI、Anthropic，两家都在拿我们的命下注",
+                    "url": "https://www.36kr.com/p/3975901895635462"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 35,
+                    "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
+                    "url": "https://www.36kr.com/p/3975645923340808"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 39,
+                    "title": "刚刚，OpenAI官宣：AI成功接管量子计算机",
+                    "url": "https://www.36kr.com/p/3976110428189186"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 50,
+                    "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
+                    "url": "https://www.36kr.com/p/3976956224926214"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 47,
+                    "title": "OpenAI总裁「格雷格·布罗克曼」专访：Astra是首个在10万块GPU上训练的模型，我们已进入AGI时代",
+                    "url": "https://www.36kr.com/p/3976784212203136"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 45,
+                    "title": "OpenAI、Google、腾讯已兵临城下，世界模型：字节跳动输不起的必答题",
+                    "url": "http://news.10jqka.com.cn/20260909/c679755175.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 11,
+                    "title": "一家中国初创企业三问OpenAI，官网、概念、理念怎么都撞了？",
+                    "url": "http://news.10jqka.com.cn/20260910/c679792982.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "openai，我 qnmd！",
+                    "url": "https://www.v2ex.com/t/1241024"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 11,
+                    "title": "直面 “性价比之战”！OpenAI或调整定价策略 降价迎战开源模型",
+                    "url": "https://www.cls.cn/detail/2478340"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 43,
+                    "title": "09 / 06 OpenAI ChatGPT Pro 20x 在线自助拼车 多区域端点接入",
+                    "url": "https://www.nodeseek.com/post-914438-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 14,
+                    "title": "（已恢复）qq.pw 出口访问 OpenAI WebSocket 503，有人和我一样不",
+                    "url": "https://www.nodeseek.com/post-921297-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 5,
+                    "title": "OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
+                    "url": "https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "MIT Technology Review",
+                    "rank": 1,
+                    "title": "The Download: OpenAI’s turning point for math and a battery record",
+                    "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "MIT Technology Review",
+                    "rank": 4,
+                    "title": "What OpenAI’s latest controversy tells us about the future of math",
+                    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 2,
+                    "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
+                    "url": "https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 1,
+                    "title": "OpenAI have no mathematicians capable of understanding what they put out",
+                    "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 2,
+                    "title": "OpenAI might have stolen another major proof",
+                    "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996"
+                }
+            ]
+        },
+        {
             "word": "GPT",
             "weight": 72,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5355,7 +5602,7 @@
         {
             "word": "科技",
             "weight": 44,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5602,7 +5849,7 @@
         {
             "word": "还是",
             "weight": 43,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5849,7 +6096,7 @@
         {
             "word": "DeepSeek",
             "weight": 37,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6090,245 +6337,6 @@
                     "rank": 49,
                     "title": "DeepSeek开始追求极致的“智能密度”",
                     "url": "https://www.36kr.com/p/3974964749178500"
-                }
-            ]
-        },
-        {
-            "word": "OpenAI",
-            "weight": 28,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 31,
-                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
-                    "url": "https://b23.tv/BV1SdYn6cEoq"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 98,
-                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
-                    "url": "https://b23.tv/BV1SdYn6cEoq"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 3,
-                    "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
-                    "url": "https://www.zhihu.com/question/2080253796941415480"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 21,
-                    "title": "OpenAI 宣布攻克了 N-S equations 这一千禧年问题，这意味着什么？会产生哪些影响？",
-                    "url": "https://www.zhihu.com/question/2080887293624304807"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 8,
-                    "title": "如何评价霍奇猜想（七大千禧难题之一）疑似被 OpenAI 解决？",
-                    "url": "https://www.zhihu.com/question/2081241555524965559"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-                    "url": "https://juejin.cn/post/7681931232724860970"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "OpenAI ChatGPT 语音模式支持调用 GPT-5.6 Sol 和 GPT-6 Astra",
-                    "url": "https://www.ithome.com/1/000/577.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "不止 Anthropic 的 Mythos 5，欧盟机构已获准访问 OpenAI GPT-6 Astra 模型",
-                    "url": "https://www.ithome.com/1/000/898.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "因模型入侵 Hugging Face，OpenAI 面临美国参议院调查",
-                    "url": "https://www.ithome.com/1/000/938.htm"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 24,
-                    "title": "OpenAI宣布千禧年七大问题之一的NS方程得解",
-                    "url": "https://bbs.hupu.com/642336797.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 4,
-                    "title": "刚刚，OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
-                    "url": "https://www.36kr.com/p/3975337527587333"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 19,
-                    "title": "GPT-6数学封神，遭顶尖数学家公开质疑“算力截胡”？OpenAI内部研究员撕开Astra真相：人脑更容易被污染，而AI只看概率",
-                    "url": "https://www.36kr.com/p/3975903682998786"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 24,
-                    "title": "难评，OpenAI刚官宣的NS方程大突破，被数学家手撕了……",
-                    "url": "https://www.36kr.com/p/3975499944571136"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 27,
-                    "title": "27岁研究员连辞OpenAI、Anthropic，两家都在拿我们的命下注",
-                    "url": "https://www.36kr.com/p/3975901895635462"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 35,
-                    "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
-                    "url": "https://www.36kr.com/p/3975645923340808"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 39,
-                    "title": "刚刚，OpenAI官宣：AI成功接管量子计算机",
-                    "url": "https://www.36kr.com/p/3976110428189186"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 50,
-                    "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
-                    "url": "https://www.36kr.com/p/3976956224926214"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 47,
-                    "title": "OpenAI总裁「格雷格·布罗克曼」专访：Astra是首个在10万块GPU上训练的模型，我们已进入AGI时代",
-                    "url": "https://www.36kr.com/p/3976784212203136"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 45,
-                    "title": "OpenAI、Google、腾讯已兵临城下，世界模型：字节跳动输不起的必答题",
-                    "url": "http://news.10jqka.com.cn/20260909/c679755175.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 11,
-                    "title": "一家中国初创企业三问OpenAI，官网、概念、理念怎么都撞了？",
-                    "url": "http://news.10jqka.com.cn/20260910/c679792982.shtml"
-                },
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 11,
-                    "title": "直面 “性价比之战”！OpenAI或调整定价策略 降价迎战开源模型",
-                    "url": "https://www.cls.cn/detail/2478340"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 43,
-                    "title": "09 / 06 OpenAI ChatGPT Pro 20x 在线自助拼车 多区域端点接入",
-                    "url": "https://www.nodeseek.com/post-914438-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 14,
-                    "title": "（已恢复）qq.pw 出口访问 OpenAI WebSocket 503，有人和我一样不",
-                    "url": "https://www.nodeseek.com/post-921297-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 5,
-                    "title": "OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
-                    "url": "https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "MIT Technology Review",
-                    "rank": 1,
-                    "title": "The Download: OpenAI’s turning point for math and a battery record",
-                    "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "MIT Technology Review",
-                    "rank": 4,
-                    "title": "What OpenAI’s latest controversy tells us about the future of math",
-                    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 2,
-                    "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
-                    "url": "https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 1,
-                    "title": "OpenAI have no mathematicians capable of understanding what they put out",
-                    "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "Hacker News",
-                    "rank": 2,
-                    "title": "OpenAI might have stolen another major proof",
-                    "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996"
                 }
             ]
         },
@@ -10232,9 +10240,9 @@
         "times": [
             "00:23",
             "05:17",
-            "10:29",
-            "15:24",
-            "20:32"
+            "10:30",
+            "15:25",
+            "20:40"
         ],
         "rows": [
             {
