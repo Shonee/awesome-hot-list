@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 09:29:05
+> 更新时间：2026-09-10 10:31:01
 
 ## 少数派
 
@@ -20,19 +20,19 @@
 
 ## 量子位
 
-1. [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
-2. [实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug](https://www.qbitai.com/2026/09/486374.html)
+1. [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
+2. [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
 3. [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
 4. [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
 5. [具身机器人能搞定超市盘点吗？全球七万门店正在给出答案](https://www.qbitai.com/2026/09/486280.html)
 
 ## InfoQ
 
-1. [从 Harness 到 Loop 的持续进化](https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article)
-2. [技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article)
-3. [Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式](https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&utm_medium=article)
-4. [当 Agent 开始写应用，数据库也得换一套打法](https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article)
-5. [面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article)
+1. [边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海](https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb?utm_source=rss&utm_medium=article)
+2. [Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验](https://www.infoq.cn/article/7dKPszYaaHXIzoVLyh30?utm_source=rss&utm_medium=article)
+3. [从 Harness 到 Loop 的持续进化](https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article)
+4. [技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article)
+5. [Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式](https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -53,18 +53,10 @@
 ## Hacker News
 
 1. [I'm sorry, you're not going to die from an AI-engineered supervirus](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from)
-2. [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
-3. [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
-4. [iPhone Duo](https://www.apple.com/iphone-duo/)
-5. [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
-
-## AI News
-
-1. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-2. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
-3. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
-4. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
-5. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
+2. [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+3. [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
+4. [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
+5. [iPhone Duo](https://www.apple.com/iphone-duo/)
 
 ## 阮一峰网络日志
 
