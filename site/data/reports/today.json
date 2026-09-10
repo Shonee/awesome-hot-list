@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-10",
-    "generatedAt": "2026-09-10 12:25:52",
-    "summary": "iPhone Duo上手体验成为本期综合热度最高的话题，【快讯】iPhone18 Pro系列价格公布紧随其后。当前覆盖 22 个有效渠道，共形成 435 个榜单时间切片；发现 30 个跨渠道重复热点。",
+    "generatedAt": "2026-09-10 12:33:38",
+    "summary": "iPhone Duo上手体验成为本期综合热度最高的话题，【快讯】iPhone18 Pro系列价格公布紧随其后。当前覆盖 22 个有效渠道，共形成 436 个榜单时间切片；发现 30 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2452,
+        "deduplicated": 2460,
         "resonance": 30,
         "maxRise": 49,
-        "slices": 435,
+        "slices": 436,
         "coverage": 96
     },
     "topTopics": [
@@ -1075,7 +1075,7 @@
         },
         {
             "word": "IP",
-            "weight": 200,
+            "weight": 202,
             "tone": "gold",
             "hits": [
                 {
@@ -1321,256 +1321,9 @@
             ]
         },
         {
-            "word": "Pro",
-            "weight": 89,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 13,
-                    "title": "iPhone18Pro勃艮第红",
-                    "url": "https://search.bilibili.com/all?keyword=iPhone18Pro%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 4,
-                    "title": "「小白」苹果iPhone18 Pro/Max体验：尽善尽美？",
-                    "url": "https://b23.tv/BV13hYb6nEhx"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 5,
-                    "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
-                    "url": "https://b23.tv/BV1K1Yh6UEHC"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 17,
-                    "title": "动态视频 | 折叠屏iPhone Duo、18 Pro系列现场上手！",
-                    "url": "https://b23.tv/BV1jcYa6BEDm"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 4,
-                    "title": "iPhone18Pro系列发布",
-                    "url": "https://www.douyin.com/search/iPhone18Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 5,
-                    "title": "iPhone18Pro涨价了",
-                    "url": "https://www.douyin.com/search/iPhone18Pro%E6%B6%A8%E4%BB%B7%E4%BA%86"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 16,
-                    "title": "iPhone18Pro系列价格公布",
-                    "url": "https://www.douyin.com/search/iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 2,
-                    "title": "iPhone 18 Pro四种配色",
-                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E5%9B%9B%E7%A7%8D%E9%85%8D%E8%89%B2"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 13,
-                    "title": "iPhone 18 Pro系列价格公布",
-                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 23,
-                    "title": "iPhone 18 Pro系列发布",
-                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 22,
-                    "title": "iPhone 18 Pro快速上手",
-                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 22,
-                    "title": "iPhone18Pro小号灵动岛",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E5%B0%8F%E5%8F%B7%E7%81%B5%E5%8A%A8%E5%B2%9B&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 35,
-                    "title": "iPhone18ProMax可变光圈稳了",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18ProMax%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%E7%A8%B3%E4%BA%86&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 42,
-                    "title": "iPhone18Pro灵动岛新功能",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E6%96%B0%E5%8A%9F%E8%83%BD&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 2,
-                    "title": "iPhone18Pro价格",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E4%BB%B7%E6%A0%BC&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 10,
-                    "title": "iPhone18Pro颜色",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E9%A2%9C%E8%89%B2&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 11,
-                    "title": "iPhone18Pro 勃艮第红",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 20,
-                    "title": "iPhone18Pro 充电速度",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E5%85%85%E7%94%B5%E9%80%9F%E5%BA%A6&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 4,
-                    "title": "天猫官旗iPhone18Pro享24期免息",
-                    "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8C%AB%E5%AE%98%E6%97%97iPhone18Pro%E4%BA%AB24%E6%9C%9F%E5%85%8D%E6%81%AF&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 12,
-                    "title": "苹果下架iPhone17Pro",
-                    "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E4%B8%8B%E6%9E%B6iPhone17Pro&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 16,
-                    "title": "何同学上手iPhone18Pro",
-                    "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E5%90%8C%E5%AD%A6%E4%B8%8A%E6%89%8BiPhone18Pro&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 19,
-                    "title": "iPhone18Pro天猫首发货量足",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E5%A4%A9%E7%8C%AB%E9%A6%96%E5%8F%91%E8%B4%A7%E9%87%8F%E8%B6%B3&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 4,
-                    "title": "抢iPhone18Pro首发认准京东",
-                    "url": "https://s.weibo.com/weibo?q=%E6%8A%A2iPhone18Pro%E9%A6%96%E5%8F%91%E8%AE%A4%E5%87%86%E4%BA%AC%E4%B8%9C&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 15,
-                    "title": "王嘉尔上手iPhone18Pro",
-                    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%8A%E6%89%8BiPhone18Pro&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 31,
-                    "title": "iPhone18Pro颜色 男士内裤",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E9%A2%9C%E8%89%B2%20%E7%94%B7%E5%A3%AB%E5%86%85%E8%A3%A4&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 2,
-                    "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？",
-                    "url": "https://www.zhihu.com/question/2081037199122895830"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 28,
-                    "title": "如何看待 2026 年 9 月 9 日 deepseek 官网公告将 v4pro 统一路由至 v4.1flash？",
-                    "url": "https://www.zhihu.com/question/2081047394758803787"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 5,
-                    "title": "iPhone 18 Pro 系列 9999 元起，最高售价 20499 元，此次升级能撑起这次涨价吗？",
-                    "url": "https://www.zhihu.com/question/2081213028393908212"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每周趋势",
-                    "rank": 19,
-                    "title": "llvm-project",
-                    "url": "https://github.com/llvm/llvm-project"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Java",
-                    "rank": 1,
-                    "title": "DevOps-Projects",
-                    "url": "https://github.com/NotHarshhaa/DevOps-Projects"
-                }
-            ]
-        },
-        {
             "word": "手机",
-            "weight": 49,
-            "tone": "hot",
+            "weight": 50,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1815,256 +1568,256 @@
             ]
         },
         {
-            "word": "时代",
-            "weight": 25,
-            "tone": "teal",
+            "word": "Pro",
+            "weight": 89,
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
                     "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 8,
-                    "title": "【终末地1.5】全网最强基建！划时代创新科技！颠覆你对基建深度的认知！",
-                    "url": "https://b23.tv/BV1tgbW6RE6W"
+                    "ranking": "热门搜索",
+                    "rank": 13,
+                    "title": "iPhone18Pro勃艮第红",
+                    "url": "https://search.bilibili.com/all?keyword=iPhone18Pro%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2"
                 },
                 {
                     "channelId": "bilibili",
                     "channelName": "哔哩哔哩",
                     "ranking": "全站热门视频",
-                    "rank": 31,
-                    "title": "新CEO，新形态，新时代｜十分钟看懂2026苹果秋季新品发布会",
-                    "url": "https://b23.tv/BV1VbYh68E6V"
+                    "rank": 4,
+                    "title": "「小白」苹果iPhone18 Pro/Max体验：尽善尽美？",
+                    "url": "https://b23.tv/BV13hYb6nEhx"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 5,
+                    "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
+                    "url": "https://b23.tv/BV1K1Yh6UEHC"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 17,
+                    "title": "动态视频 | 折叠屏iPhone Duo、18 Pro系列现场上手！",
+                    "url": "https://b23.tv/BV1jcYa6BEDm"
                 },
                 {
                     "channelId": "douyin",
                     "channelName": "抖音",
                     "ranking": "热搜",
-                    "rank": 31,
-                    "title": "第五人格进入全员小鸡时代",
-                    "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E8%BF%9B%E5%85%A5%E5%85%A8%E5%91%98%E5%B0%8F%E9%B8%A1%E6%97%B6%E4%BB%A3"
+                    "rank": 4,
+                    "title": "iPhone18Pro系列发布",
+                    "url": "https://www.douyin.com/search/iPhone18Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 5,
+                    "title": "iPhone18Pro涨价了",
+                    "url": "https://www.douyin.com/search/iPhone18Pro%E6%B6%A8%E4%BB%B7%E4%BA%86"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 16,
+                    "title": "iPhone18Pro系列价格公布",
+                    "url": "https://www.douyin.com/search/iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 2,
+                    "title": "iPhone 18 Pro四种配色",
+                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E5%9B%9B%E7%A7%8D%E9%85%8D%E8%89%B2"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 13,
+                    "title": "iPhone 18 Pro系列价格公布",
+                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 23,
+                    "title": "iPhone 18 Pro系列发布",
+                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 22,
+                    "title": "iPhone 18 Pro快速上手",
+                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B"
                 },
                 {
                     "channelId": "weibo",
                     "channelName": "微博",
                     "ranking": "微博热榜",
-                    "rank": 5,
-                    "title": "宁德时代已报警",
-                    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6&Refer=index"
+                    "rank": 22,
+                    "title": "iPhone18Pro小号灵动岛",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E5%B0%8F%E5%8F%B7%E7%81%B5%E5%8A%A8%E5%B2%9B&Refer=index"
                 },
                 {
                     "channelId": "weibo",
                     "channelName": "微博",
                     "ranking": "微博热榜",
-                    "rank": 28,
-                    "title": "宁德时代市值蒸发超5200亿",
-                    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%855200%E4%BA%BF&Refer=index"
+                    "rank": 35,
+                    "title": "iPhone18ProMax可变光圈稳了",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18ProMax%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%E7%A8%B3%E4%BA%86&Refer=index"
                 },
                 {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 6,
-                    "title": "如何看待曝某厂不让普工上厕所致拉裤兜，致其车间裸奔并拿粪便扔向他人，宁德时代宜宾基地回应称不是本公司？",
-                    "url": "https://www.zhihu.com/question/2081042167821354932"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 42,
+                    "title": "iPhone18Pro灵动岛新功能",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E6%96%B0%E5%8A%9F%E8%83%BD&Refer=index"
                 },
                 {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 24,
-                    "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
-                    "url": "https://www.zhihu.com/question/2080662753119938210"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 2,
+                    "title": "iPhone18Pro价格",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E4%BB%B7%E6%A0%BC&Refer=index"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 16,
-                    "title": "AI时代下，Android的边界正在消失",
-                    "url": "https://juejin.cn/post/7682628131855728675"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 32,
-                    "title": "Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持",
-                    "url": "https://juejin.cn/post/7683152167263846463"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 15,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 6,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 5,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 17,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
                     "rank": 10,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                    "title": "iPhone18Pro颜色",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E9%A2%9C%E8%89%B2&Refer=index"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 23,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 11,
+                    "title": "iPhone18Pro 勃艮第红",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2&Refer=index"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 9,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 20,
+                    "title": "iPhone18Pro 充电速度",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E5%85%85%E7%94%B5%E9%80%9F%E5%BA%A6&Refer=index"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 28,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 4,
+                    "title": "天猫官旗iPhone18Pro享24期免息",
+                    "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8C%AB%E5%AE%98%E6%97%97iPhone18Pro%E4%BA%AB24%E6%9C%9F%E5%85%8D%E6%81%AF&Refer=index"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 12,
+                    "title": "苹果下架iPhone17Pro",
+                    "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E4%B8%8B%E6%9E%B6iPhone17Pro&Refer=index"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 23,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
                     "rank": 16,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                    "title": "何同学上手iPhone18Pro",
+                    "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E5%90%8C%E5%AD%A6%E4%B8%8A%E6%89%8BiPhone18Pro&Refer=index"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 19,
+                    "title": "iPhone18Pro天猫首发货量足",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E5%A4%A9%E7%8C%AB%E9%A6%96%E5%8F%91%E8%B4%A7%E9%87%8F%E8%B6%B3&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 4,
+                    "title": "抢iPhone18Pro首发认准京东",
+                    "url": "https://s.weibo.com/weibo?q=%E6%8A%A2iPhone18Pro%E9%A6%96%E5%8F%91%E8%AE%A4%E5%87%86%E4%BA%AC%E4%B8%9C&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 15,
+                    "title": "王嘉尔上手iPhone18Pro",
+                    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%8A%E6%89%8BiPhone18Pro&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
                     "rank": 31,
-                    "title": "魏德尔喊话默茨：你的时代结束了",
-                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                    "title": "iPhone18Pro颜色 男士内裤",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E9%A2%9C%E8%89%B2%20%E7%94%B7%E5%A3%AB%E5%86%85%E8%A3%A4&Refer=index"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 44,
-                    "title": "不让上厕所员工裸奔？宁德时代否认",
-                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%22202609100853423D02F95A79BE07D954C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "2026 苹果秋季新品发布会启幕，Apple 新 CEO 特努斯时代开启",
-                    "url": "https://www.ithome.com/1/000/491.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
                     "rank": 2,
-                    "title": "10.18 万元广汽埃安 RT 605 智享版上市：非晶合金电驱 + 碳化硅电控 + 宁德时代电池",
-                    "url": "https://www.ithome.com/1/000/607.htm"
+                    "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？",
+                    "url": "https://www.zhihu.com/question/2081037199122895830"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 49,
-                    "title": "宁德时代已报警，班长不让普工上厕所，导致员工产生过激行为。",
-                    "url": "https://bbs.hupu.com/642348248.html"
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 28,
+                    "title": "如何看待 2026 年 9 月 9 日 deepseek 官网公告将 v4pro 统一路由至 v4.1flash？",
+                    "url": "https://www.zhihu.com/question/2081047394758803787"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 7,
-                    "title": "宁德时代利润高不是应该的吗？为什么义愤填膺",
-                    "url": "https://bbs.hupu.com/642355126.html"
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 5,
+                    "title": "iPhone 18 Pro 系列 9999 元起，最高售价 20499 元，此次升级能撑起这次涨价吗？",
+                    "url": "https://www.zhihu.com/question/2081213028393908212"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 19,
+                    "title": "llvm-project",
+                    "url": "https://github.com/llvm/llvm-project"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 1,
+                    "title": "DevOps-Projects",
+                    "url": "https://github.com/NotHarshhaa/DevOps-Projects"
                 }
             ]
         },
         {
             "word": "iPhone",
-            "weight": 165,
-            "tone": "gold",
+            "weight": 167,
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2310,8 +2063,8 @@
         },
         {
             "word": "苹果",
-            "weight": 140,
-            "tone": "",
+            "weight": 141,
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2557,8 +2310,8 @@
         },
         {
             "word": "Duo",
-            "weight": 79,
-            "tone": "hot",
+            "weight": 81,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2803,8 +2556,255 @@
             ]
         },
         {
+            "word": "时代",
+            "weight": 25,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 8,
+                    "title": "【终末地1.5】全网最强基建！划时代创新科技！颠覆你对基建深度的认知！",
+                    "url": "https://b23.tv/BV1tgbW6RE6W"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 31,
+                    "title": "新CEO，新形态，新时代｜十分钟看懂2026苹果秋季新品发布会",
+                    "url": "https://b23.tv/BV1VbYh68E6V"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 31,
+                    "title": "第五人格进入全员小鸡时代",
+                    "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E8%BF%9B%E5%85%A5%E5%85%A8%E5%91%98%E5%B0%8F%E9%B8%A1%E6%97%B6%E4%BB%A3"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 5,
+                    "title": "宁德时代已报警",
+                    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 28,
+                    "title": "宁德时代市值蒸发超5200亿",
+                    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%855200%E4%BA%BF&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 6,
+                    "title": "如何看待曝某厂不让普工上厕所致拉裤兜，致其车间裸奔并拿粪便扔向他人，宁德时代宜宾基地回应称不是本公司？",
+                    "url": "https://www.zhihu.com/question/2081042167821354932"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 24,
+                    "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
+                    "url": "https://www.zhihu.com/question/2080662753119938210"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 16,
+                    "title": "AI时代下，Android的边界正在消失",
+                    "url": "https://juejin.cn/post/7682628131855728675"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持",
+                    "url": "https://juejin.cn/post/7683152167263846463"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910002339A05A685038080863987F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 15,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910011843F839FC2D33800686041D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 6,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910022618874297C78C334E924C5F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 5,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 17,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910031658C41D670690C8D073C4E4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 23,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%22202609100421261953A2DBEC7C898998FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 9,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 28,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%2220260910051726BAF39C8CBA57967947D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 23,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%222026091006183315B30D521A9504AA18EC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 16,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 31,
+                    "title": "魏德尔喊话默茨：你的时代结束了",
+                    "url": "https://www.toutiao.com/trending/7682747425950335003/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682747425950335003%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BE%B7%E5%B0%94%E5%96%8A%E8%AF%9D%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7682747425950335003"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 44,
+                    "title": "不让上厕所员工裸奔？宁德时代否认",
+                    "url": "https://www.toutiao.com/trending/7683415620760715291/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683415620760715291%22%2C%22hot_board_impr_id%22%3A%22202609100853423D02F95A79BE07D954C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8D%E8%AE%A9%E4%B8%8A%E5%8E%95%E6%89%80%E5%91%98%E5%B7%A5%E8%A3%B8%E5%A5%94%EF%BC%9F%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%90%A6%E8%AE%A4%22%7D&rank=&style_id=40132&topic_id=7683415620760715291"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "2026 苹果秋季新品发布会启幕，Apple 新 CEO 特努斯时代开启",
+                    "url": "https://www.ithome.com/1/000/491.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 2,
+                    "title": "10.18 万元广汽埃安 RT 605 智享版上市：非晶合金电驱 + 碳化硅电控 + 宁德时代电池",
+                    "url": "https://www.ithome.com/1/000/607.htm"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 49,
+                    "title": "宁德时代已报警，班长不让普工上厕所，导致员工产生过激行为。",
+                    "url": "https://bbs.hupu.com/642348248.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 7,
+                    "title": "宁德时代利润高不是应该的吗？为什么义愤填膺",
+                    "url": "https://bbs.hupu.com/642355126.html"
+                }
+            ]
+        },
+        {
             "word": "折叠",
-            "weight": 73,
+            "weight": 74,
             "tone": "teal",
             "hits": [
                 {
@@ -4173,9 +4173,240 @@
             ]
         },
         {
+            "word": "体验",
+            "weight": 24,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 8,
+                    "title": "除了“阔”，还有什么？华为 Pura X View 深度体验",
+                    "url": "https://b23.tv/BV1zYYt6FE9F"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 36,
+                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
+                    "url": "https://b23.tv/BV1LtbK6JE5V"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 9,
+                    "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
+                    "url": "https://b23.tv/BV1LJYb6ZE1m"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 5,
+                    "title": "iPhone18上手体验",
+                    "url": "https://search.bilibili.com/all?keyword=iPhone18%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 4,
+                    "title": "「小白」苹果iPhone18 Pro/Max体验：尽善尽美？",
+                    "url": "https://b23.tv/BV13hYb6nEhx"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 17,
+                    "title": "iPhone Duo上手体验！折痕控制太离谱了",
+                    "url": "https://b23.tv/BV1FDYb6qEQ5"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 36,
+                    "title": "「小白」苹果Apple Watch S12/Ultra4 AirPods 5系列体验！",
+                    "url": "https://b23.tv/BV1XVYa6bEcb"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 3,
+                    "title": "iPhone Duo上手体验",
+                    "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 16,
+                    "title": "王者吕布加强上线体验服",
+                    "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%90%95%E5%B8%83%E5%8A%A0%E5%BC%BA%E4%B8%8A%E7%BA%BF%E4%BD%93%E9%AA%8C%E6%9C%8D"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 50,
+                    "title": "【全网最细】iPhone Duo 体验，最强折叠？15999 值吗？",
+                    "url": "https://b23.tv/BV1nLYh6uED8"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 11,
+                    "title": "iPhone Duo真机体验",
+                    "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E7%9C%9F%E6%9C%BA%E4%BD%93%E9%AA%8C"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 13,
+                    "title": "北极熊体验洛克王国新赛季",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%9E%81%E7%86%8A%E4%BD%93%E9%AA%8C%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E6%96%B0%E8%B5%9B%E5%AD%A3"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 20,
+                    "title": "在大银幕观看《杀死比尔：血色全传》是种怎样的体验？对比分开看卷一卷二，这一终极导剪版有哪些全新发现？",
+                    "url": "https://www.zhihu.com/question/2078896348430951825"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 6,
+                    "title": "苹果折叠屏真机上手体验",
+                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "苹果折叠屏真机上手体验",
+                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%22202609100853423D02F95A79BE07D954C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 35,
+                    "title": "苹果折叠屏真机上手体验",
+                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%2220260910092829EB1EF682CCAF40A85442%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 34,
+                    "title": "苹果折叠屏真机上手体验",
+                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%2220260910103006E0D9C9E770CB19E37702%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 46,
+                    "title": "苹果折叠屏真机上手体验",
+                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%22202609101125332F29C7660EBBA0C22EF5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "苹果 watchOS 27 升级健康体验：评估训练负荷、计算健康年龄等",
+                    "url": "https://www.ithome.com/1/000/543.htm"
+                },
+                {
+                    "channelId": "douban",
+                    "channelName": "豆瓣",
+                    "ranking": "小组精选",
+                    "rank": 9,
+                    "title": "芬兰 CS 硕士一年整体验",
+                    "url": "https://www.douban.com/group/topic/499133349/?_spm_id=MTQzMTUwMzIz"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 23,
+                    "title": "iPhone Duo 为啥比小米18 Fold热度高那么多？凌晨两点一大堆博主发体验Duo的视频，都是阔折屏，小米差在哪？",
+                    "url": "https://bbs.hupu.com/642352737.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 20,
+                    "title": "去了一次商K体验了一下 感觉人生观被重塑了",
+                    "url": "https://bbs.hupu.com/642353483.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 26,
+                    "title": "这台手机很难卖，但必须要做出来：荣耀Robot Phone上手体验",
+                    "url": "https://www.36kr.com/p/3975773677908486"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "东京夜生活-脱衣舞秀初体验",
+                    "url": "https://www.v2ex.com/t/1240875"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "DMIT pro 和 eb 使用体验差异求教",
+                    "url": "https://www.nodeseek.com/post-920327-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "ai要不要买家宽的真实体验",
+                    "url": "https://www.nodeseek.com/post-921568-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "少数派",
+                    "rank": 5,
+                    "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+                    "url": "https://sspai.com/prime/story/sidecar-optimizations"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 2,
+                    "title": "Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
+                    "url": "https://www.infoq.cn/article/7dKPszYaaHXIzoVLyh30?utm_source=rss&utm_medium=article"
+                }
+            ]
+        },
+        {
             "word": "DeepSeek",
             "weight": 21,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4422,7 +4653,7 @@
         {
             "word": "OpenAI",
             "weight": 19,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4589,7 +4820,7 @@
         {
             "word": "小米",
             "weight": 17,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4732,7 +4963,7 @@
         {
             "word": "上线",
             "weight": 13,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4851,7 +5082,7 @@
         {
             "word": "支持",
             "weight": 30,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5098,7 +5329,7 @@
         {
             "word": "还是",
             "weight": 27,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5319,232 +5550,224 @@
             ]
         },
         {
-            "word": "体验",
-            "weight": 23,
-            "tone": "teal",
+            "word": "首款",
+            "weight": 26,
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
                     "channelName": "哔哩哔哩",
                     "ranking": "全站热门视频",
-                    "rank": 8,
-                    "title": "除了“阔”，还有什么？华为 Pura X View 深度体验",
-                    "url": "https://b23.tv/BV1zYYt6FE9F"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 36,
-                    "title": "真《晚安，敖鲁古雅》真睡升顶帐篷小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅。",
-                    "url": "https://b23.tv/BV1LtbK6JE5V"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 9,
-                    "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
-                    "url": "https://b23.tv/BV1LJYb6ZE1m"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
                     "rank": 5,
-                    "title": "iPhone18上手体验",
-                    "url": "https://search.bilibili.com/all?keyword=iPhone18%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C"
+                    "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
+                    "url": "https://b23.tv/BV1K1Yh6UEHC"
                 },
                 {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 4,
-                    "title": "「小白」苹果iPhone18 Pro/Max体验：尽善尽美？",
-                    "url": "https://b23.tv/BV13hYb6nEhx"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
                     "rank": 17,
-                    "title": "iPhone Duo上手体验！折痕控制太离谱了",
-                    "url": "https://b23.tv/BV1FDYb6qEQ5"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 36,
-                    "title": "「小白」苹果Apple Watch S12/Ultra4 AirPods 5系列体验！",
-                    "url": "https://b23.tv/BV1XVYa6bEcb"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 3,
-                    "title": "iPhone Duo上手体验",
-                    "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 16,
-                    "title": "王者吕布加强上线体验服",
-                    "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%90%95%E5%B8%83%E5%8A%A0%E5%BC%BA%E4%B8%8A%E7%BA%BF%E4%BD%93%E9%AA%8C%E6%9C%8D"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 50,
-                    "title": "【全网最细】iPhone Duo 体验，最强折叠？15999 值吗？",
-                    "url": "https://b23.tv/BV1nLYh6uED8"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 11,
-                    "title": "iPhone Duo真机体验",
-                    "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E7%9C%9F%E6%9C%BA%E4%BD%93%E9%AA%8C"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 13,
-                    "title": "北极熊体验洛克王国新赛季",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%9E%81%E7%86%8A%E4%BD%93%E9%AA%8C%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E6%96%B0%E8%B5%9B%E5%AD%A3"
+                    "title": "iPhone首款折叠屏天猫新品发布",
+                    "url": "https://s.weibo.com/weibo?q=iPhone%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%A4%A9%E7%8C%AB%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83&Refer=index"
                 },
                 {
                     "channelId": "zhihu",
                     "channelName": "知乎",
                     "ranking": "知乎热榜",
-                    "rank": 20,
-                    "title": "在大银幕观看《杀死比尔：血色全传》是种怎样的体验？对比分开看卷一卷二，这一终极导剪版有哪些全新发现？",
-                    "url": "https://www.zhihu.com/question/2078896348430951825"
+                    "rank": 23,
+                    "title": "苹果首款折叠屏 iPhone 爆料起售价 2199 美元，人民币近 1.5 万元，如何看待该定价？",
+                    "url": "https://www.zhihu.com/question/2080987759133594987"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 6,
-                    "title": "苹果折叠屏真机上手体验",
-                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%222026091007181041DBFA79388E5F8B334D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "苹果折叠屏真机上手体验",
-                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%22202609100853423D02F95A79BE07D954C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 35,
-                    "title": "苹果折叠屏真机上手体验",
-                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%2220260910092829EB1EF682CCAF40A85442%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 34,
-                    "title": "苹果折叠屏真机上手体验",
-                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%2220260910103006E0D9C9E770CB19E37702%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 46,
-                    "title": "苹果折叠屏真机上手体验",
-                    "url": "https://www.toutiao.com/trending/7683455651527311402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683455651527311402%22%2C%22hot_board_impr_id%22%3A%22202609101125332F29C7660EBBA0C22EF5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%22%7D&rank=&style_id=40132&topic_id=7683455651527311402"
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 2,
+                    "title": "苹果首款折叠屏手机 iPhone Duo 国行定价 15999 元起",
+                    "url": "https://www.ithome.com/1/000/514.htm"
                 },
                 {
                     "channelId": "ithome",
                     "channelName": "IT之家",
                     "ranking": "最新资讯",
                     "rank": 3,
-                    "title": "苹果 watchOS 27 升级健康体验：评估训练负荷、计算健康年龄等",
-                    "url": "https://www.ithome.com/1/000/543.htm"
+                    "title": "苹果首款折叠 iPhone Duo 瞄准屏幕平整度：刚性高 40%，铰链超 100 个部件",
+                    "url": "https://www.ithome.com/1/000/513.htm"
                 },
                 {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 9,
-                    "title": "芬兰 CS 硕士一年整体验",
-                    "url": "https://www.douban.com/group/topic/499133349/?_spm_id=MTQzMTUwMzIz"
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "苹果确认首款折叠屏手机 iPhone Duo 全球只有 eSIM 版本",
+                    "url": "https://www.ithome.com/1/000/512.htm"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 23,
-                    "title": "iPhone Duo 为啥比小米18 Fold热度高那么多？凌晨两点一大堆博主发体验Duo的视频，都是阔折屏，小米差在哪？",
-                    "url": "https://bbs.hupu.com/642352737.html"
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "苹果首款折叠屏手机 iPhone Duo 正式发布，1999 美元起",
+                    "url": "https://www.ithome.com/1/000/511.htm"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 20,
-                    "title": "去了一次商K体验了一下 感觉人生观被重塑了",
-                    "url": "https://bbs.hupu.com/642353483.html"
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 1,
+                    "title": "未适配应用也能运行：苹果首款折叠手机 iPhone Duo 提供 3 种兼容模式",
+                    "url": "https://www.ithome.com/1/000/546.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "苹果首款折叠 iPhone Duo 支持 MagSafe，最高 15W 功率",
+                    "url": "https://www.ithome.com/1/000/541.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 2,
+                    "title": "首款支持手写笔的 iPhone：苹果首款折叠 iPhone Duo 显示仅兼容 USB-C 版 Apple Pencil",
+                    "url": "https://www.ithome.com/1/000/549.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "顶配 26499 元：古尔曼称苹果首款折叠 iPhone Duo 刷新消费级手机价格纪录",
+                    "url": "https://www.ithome.com/1/000/555.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "全球首款阔直板手机华为 Pura X View 首销当日销售超 18 万台",
+                    "url": "https://www.ithome.com/1/000/603.htm"
                 },
                 {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
+                    "rank": 5,
+                    "title": "8点1氪丨苹果发布首款折叠屏iPhone Duo：售价15999元起；支付宝账户被哈啰打车盗刷6551元，哈啰客服称最多赔200；DeepSeek备战科创板IPO",
+                    "url": "https://www.36kr.com/p/3976825296597507"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 44,
+                    "title": "苹果首款2nm手机芯片发布，引入全新封装",
+                    "url": "https://www.36kr.com/p/3976691897610497"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
                     "rank": 26,
-                    "title": "这台手机很难卖，但必须要做出来：荣耀Robot Phone上手体验",
-                    "url": "https://www.36kr.com/p/3975773677908486"
+                    "title": "苹果首款折叠屏iPhone来了，国行15999元起售，A20 Pro加持Duo与18 Pro；DeepSeek宣布降价，最高降幅60%",
+                    "url": "http://news.10jqka.com.cn/20260910/c679760473.shtml"
                 },
                 {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 5,
-                    "title": "DMIT pro 和 eb 使用体验差异求教",
-                    "url": "https://www.nodeseek.com/post-920327-1"
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 27,
+                    "title": "｜2026年9月10日星期四｜ NO.1苹果首款折叠屏iPhone来了，国行15999元起售，A20Pro加持Duo与18Pro苹果于美东时间9月9日举行秋季新品发布会，正式推出首款折叠屏iPhone Duo，国行256GB版本 ...",
+                    "url": "http://news.10jqka.com.cn/20260910/c679760473.shtml"
                 },
                 {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "ai要不要买家宽的真实体验",
-                    "url": "https://www.nodeseek.com/post-921568-1"
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 31,
+                    "title": "北京商报讯(记者王天逸)9月10日，苹果在秋季新品发布会上正式发布首款折叠屏手机iPhone Duo。该机提供256GB、512GB、1TB、2TB四种存储版本，售价分别为15999元、17999元、21499元、26499元 ...",
+                    "url": "http://news.10jqka.com.cn/20260910/c679758863.shtml"
                 },
                 {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "少数派",
-                    "rank": 5,
-                    "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
-                    "url": "https://sspai.com/prime/story/sidecar-optimizations"
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 1,
+                    "title": "独家！A股龙头进入苹果首款折叠屏手机iPhone Duo供应链",
+                    "url": "http://news.10jqka.com.cn/20260910/c679775692.shtml"
                 },
                 {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
                     "rank": 2,
-                    "title": "Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
-                    "url": "https://www.infoq.cn/article/7dKPszYaaHXIzoVLyh30?utm_source=rss&utm_medium=article"
+                    "title": "9月10日，中国证券报记者从产业链人士处独家获悉，领益智造是苹果首款折叠屏手机iPhoneDuo供应商。公司向苹果供应新一代终端产品相关核心精密件，涵盖铰链精密结构件、屏幕支撑板、超薄均热 ...",
+                    "url": "http://news.10jqka.com.cn/20260910/c679775692.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 5,
+                    "title": "苹果首款折叠屏iPhone Duo来了 售价15999元起",
+                    "url": "http://news.10jqka.com.cn/20260910/c679775242.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 6,
+                    "title": "上证报中国证券网讯(年悦记者张雪)北京时间2026年9月10日凌晨1点，苹果秋季发布会在Apple Park乔布斯剧院拉开帷幕。本次发布会的主角是传闻已久的首款折叠屏iPhone——iPhone Duo。发布会后 ...",
+                    "url": "http://news.10jqka.com.cn/20260910/c679775242.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 7,
+                    "title": "苹果首款折叠屏手机来了！A股反响平平，产业链谁能吃到肉？",
+                    "url": "http://news.10jqka.com.cn/20260910/c679776732.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 8,
+                    "title": "苹果首款折叠屏手机iPhone Duo正式发布！传闻备货目标已上调到1000万部。折叠屏手机和直板手机最大的不同，就是多了几个核心增量环节，如UTG超薄柔性玻璃、铰链及MIM结构件。相关产业链公司 ...",
+                    "url": "http://news.10jqka.com.cn/20260910/c679776732.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "苹果首款折叠屏手机名字敲定就叫 iPhone Duo\r\n\r\nDuo 怎么读呢 多?嘟噢?",
+                    "url": "https://www.v2ex.com/t/1240720"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 12,
+                    "title": "顶配逼近2.7万元 苹果首款折叠机面市 核心果链谁能分一杯羹？",
+                    "url": "https://www.cls.cn/detail/2478857"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 1,
+                    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+                    "url": "https://www.qbitai.com/2026/09/486450.html"
                 }
             ]
         },
         {
             "word": "公司",
             "weight": 51,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5791,7 +6014,7 @@
         {
             "word": "GPT",
             "weight": 38,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6038,7 +6261,7 @@
         {
             "word": "Apple",
             "weight": 33,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6285,7 +6508,7 @@
         {
             "word": "郑钦文",
             "weight": 33,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6526,213 +6749,6 @@
                     "rank": 13,
                     "title": "郑钦文遭莱巴金娜逆转无缘四强",
                     "url": "https://www.toutiao.com/trending/7682671371880284186/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682671371880284186%22%2C%22hot_board_impr_id%22%3A%2220260910092829EB1EF682CCAF40A85442%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E9%92%A6%E6%96%87%E9%81%AD%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E9%80%86%E8%BD%AC%E6%97%A0%E7%BC%98%E5%9B%9B%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682671371880284186"
-                }
-            ]
-        },
-        {
-            "word": "首款",
-            "weight": 25,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 5,
-                    "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
-                    "url": "https://b23.tv/BV1K1Yh6UEHC"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 17,
-                    "title": "iPhone首款折叠屏天猫新品发布",
-                    "url": "https://s.weibo.com/weibo?q=iPhone%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%A4%A9%E7%8C%AB%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 23,
-                    "title": "苹果首款折叠屏 iPhone 爆料起售价 2199 美元，人民币近 1.5 万元，如何看待该定价？",
-                    "url": "https://www.zhihu.com/question/2080987759133594987"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 2,
-                    "title": "苹果首款折叠屏手机 iPhone Duo 国行定价 15999 元起",
-                    "url": "https://www.ithome.com/1/000/514.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "苹果首款折叠 iPhone Duo 瞄准屏幕平整度：刚性高 40%，铰链超 100 个部件",
-                    "url": "https://www.ithome.com/1/000/513.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "苹果确认首款折叠屏手机 iPhone Duo 全球只有 eSIM 版本",
-                    "url": "https://www.ithome.com/1/000/512.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "苹果首款折叠屏手机 iPhone Duo 正式发布，1999 美元起",
-                    "url": "https://www.ithome.com/1/000/511.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 1,
-                    "title": "未适配应用也能运行：苹果首款折叠手机 iPhone Duo 提供 3 种兼容模式",
-                    "url": "https://www.ithome.com/1/000/546.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "苹果首款折叠 iPhone Duo 支持 MagSafe，最高 15W 功率",
-                    "url": "https://www.ithome.com/1/000/541.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 2,
-                    "title": "首款支持手写笔的 iPhone：苹果首款折叠 iPhone Duo 显示仅兼容 USB-C 版 Apple Pencil",
-                    "url": "https://www.ithome.com/1/000/549.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "顶配 26499 元：古尔曼称苹果首款折叠 iPhone Duo 刷新消费级手机价格纪录",
-                    "url": "https://www.ithome.com/1/000/555.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "全球首款阔直板手机华为 Pura X View 首销当日销售超 18 万台",
-                    "url": "https://www.ithome.com/1/000/603.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 5,
-                    "title": "8点1氪丨苹果发布首款折叠屏iPhone Duo：售价15999元起；支付宝账户被哈啰打车盗刷6551元，哈啰客服称最多赔200；DeepSeek备战科创板IPO",
-                    "url": "https://www.36kr.com/p/3976825296597507"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 44,
-                    "title": "苹果首款2nm手机芯片发布，引入全新封装",
-                    "url": "https://www.36kr.com/p/3976691897610497"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 26,
-                    "title": "苹果首款折叠屏iPhone来了，国行15999元起售，A20 Pro加持Duo与18 Pro；DeepSeek宣布降价，最高降幅60%",
-                    "url": "http://news.10jqka.com.cn/20260910/c679760473.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 27,
-                    "title": "｜2026年9月10日星期四｜ NO.1苹果首款折叠屏iPhone来了，国行15999元起售，A20Pro加持Duo与18Pro苹果于美东时间9月9日举行秋季新品发布会，正式推出首款折叠屏iPhone Duo，国行256GB版本 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679760473.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 31,
-                    "title": "北京商报讯(记者王天逸)9月10日，苹果在秋季新品发布会上正式发布首款折叠屏手机iPhone Duo。该机提供256GB、512GB、1TB、2TB四种存储版本，售价分别为15999元、17999元、21499元、26499元 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679758863.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 1,
-                    "title": "独家！A股龙头进入苹果首款折叠屏手机iPhone Duo供应链",
-                    "url": "http://news.10jqka.com.cn/20260910/c679775692.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "9月10日，中国证券报记者从产业链人士处独家获悉，领益智造是苹果首款折叠屏手机iPhoneDuo供应商。公司向苹果供应新一代终端产品相关核心精密件，涵盖铰链精密结构件、屏幕支撑板、超薄均热 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679775692.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 5,
-                    "title": "苹果首款折叠屏iPhone Duo来了 售价15999元起",
-                    "url": "http://news.10jqka.com.cn/20260910/c679775242.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "上证报中国证券网讯(年悦记者张雪)北京时间2026年9月10日凌晨1点，苹果秋季发布会在Apple Park乔布斯剧院拉开帷幕。本次发布会的主角是传闻已久的首款折叠屏iPhone——iPhone Duo。发布会后 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679775242.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 7,
-                    "title": "苹果首款折叠屏手机来了！A股反响平平，产业链谁能吃到肉？",
-                    "url": "http://news.10jqka.com.cn/20260910/c679776732.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 8,
-                    "title": "苹果首款折叠屏手机iPhone Duo正式发布！传闻备货目标已上调到1000万部。折叠屏手机和直板手机最大的不同，就是多了几个核心增量环节，如UTG超薄柔性玻璃、铰链及MIM结构件。相关产业链公司 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679776732.shtml"
-                },
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 12,
-                    "title": "顶配逼近2.7万元 苹果首款折叠机面市 核心果链谁能分一杯羹？",
-                    "url": "https://www.cls.cn/detail/2478857"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 1,
-                    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-                    "url": "https://www.qbitai.com/2026/09/486450.html"
                 }
             ]
         },
@@ -8889,8 +8905,8 @@
             "00:23",
             "03:17",
             "06:19",
-            "09:29",
-            "12:25"
+            "10:29",
+            "12:33"
         ],
         "rows": [
             {
