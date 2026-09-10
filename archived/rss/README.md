@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 07:19:13
+> 更新时间：2026-09-10 08:54:29
 
 ## 少数派
 
-1. [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
-2. [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
-3. [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
-4. [华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
-5. [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
+1. [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
+2. [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
+3. [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
+4. [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
+5. [华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
 
 ## 爱范儿
 
-1. [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌](https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代](https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [iPhone Duo 首发上手：唯一值两万元的折叠屏](https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱](https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口](https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了](https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌](https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)
-2. [Matt Mullenweg put on 'leave of absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
-3. [iPhone Duo](https://www.apple.com/iphone-duo/)
-4. [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
+1. [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)
+2. [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
+3. [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
+4. [iPhone Duo](https://www.apple.com/iphone-duo/)
 5. [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
+
+## AI News
+
+1. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+2. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+3. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+4. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
+5. [AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3](https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/)
 
 ## 阮一峰网络日志
 
