@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-10",
-    "generatedAt": "2026-09-10 08:54:41",
-    "summary": "iPhone Duo成为本期综合热度最高的话题，iPhone18Pro勃艮第红紧随其后。当前覆盖 22 个有效渠道，共形成 299 个榜单时间切片；发现 18 个跨渠道重复热点。",
+    "generatedAt": "2026-09-10 09:01:16",
+    "summary": "iPhone Duo成为本期综合热度最高的话题，iPhone18Pro勃艮第红紧随其后。当前覆盖 22 个有效渠道，共形成 300 个榜单时间切片；发现 18 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1866,
+        "deduplicated": 1868,
         "resonance": 18,
         "maxRise": 47,
-        "slices": 299,
+        "slices": 300,
         "coverage": 96
     },
     "topTopics": [
@@ -3320,9 +3320,144 @@
             ]
         },
         {
+            "word": "模型",
+            "weight": 16,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 15,
+                    "title": "DeepSeek新模型要来了",
+                    "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A6%81%E6%9D%A5%E4%BA%86"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 27,
+                    "title": "为什么现在越来越多的开源模型，都“毕业“于 Qwen？",
+                    "url": "https://juejin.cn/post/7682499191234707497"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 53,
+                    "title": "我一发小最近特迷茫，本身他是头部大模型的中层员工，手上期权价值一个亿，离解禁可售日期不远了，最近又有创业公司联系他，邀他去做联合创始人，成功了就是百亿富豪，但现在这家公司又有竞业协议3年，他愁的不行",
+                    "url": "https://bbs.hupu.com/642343699.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 25,
+                    "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
+                    "url": "https://www.36kr.com/p/3975646062113282"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 45,
+                    "title": "OpenAI、Google、腾讯已兵临城下，世界模型：字节跳动输不起的必答题",
+                    "url": "http://news.10jqka.com.cn/20260909/c679755175.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 46,
+                    "title": "9月7日，市场消息称，字节跳动正在基于旗下视频生成模型Seedance，开发一款实时空间视频生成模型。截至发稿，字节方面未对此做出官方回应，甚至有知情人士称，部分市场传言失实。但比传言更 ...",
+                    "url": "http://news.10jqka.com.cn/20260909/c679755175.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 10,
+                    "title": "1、美东时间9月8日，美国家安全局、网络安全与基础设施安全局、联邦调查局联合发布公告，指责中国人工智能企业对美开展“工业规模”蒸馏，获取美前沿模型能力，并向美企提出相关防御措施建 ...",
+                    "url": "http://news.10jqka.com.cn/20260910/c679765124.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "这里为什么感觉没人讨论国产模型。我发现 qwen 和豆包系列模型问题好多，生产直接没法用",
+                    "url": "https://www.v2ex.com/t/1240649"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "大家 codex 都用哪个模型哪个强度啊",
+                    "url": "https://www.v2ex.com/t/1240554"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 2,
+                    "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
+                    "url": "https://www.cls.cn/detail/2478606"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 11,
+                    "title": "直面 “性价比之战”！OpenAI或调整定价策略 降价迎战开源模型",
+                    "url": "https://www.cls.cn/detail/2478340"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 33,
+                    "title": "DeepSeek 将于 10 号发布 V4.1 Flash 模型，此后到新 Pro 模型发布前，V4 Pro 模型路由到此",
+                    "url": "https://www.nodeseek.com/post-920103-1"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 5,
+                    "title": "最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测",
+                    "url": "https://www.52pojie.cn/thread-2126497-1-1.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "量子位",
+                    "rank": 3,
+                    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+                    "url": "https://www.qbitai.com/2026/09/486288.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "极客公园",
+                    "rank": 2,
+                    "title": "折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道",
+                    "url": "http://www.geekpark.net/news/370026"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "极客公园",
+                    "rank": 5,
+                    "title": "传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机",
+                    "url": "http://www.geekpark.net/news/369965"
+                }
+            ]
+        },
+        {
             "word": "智能",
             "weight": 15,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -3449,7 +3584,7 @@
         {
             "word": "小米",
             "weight": 14,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3568,7 +3703,7 @@
         {
             "word": "还是",
             "weight": 23,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3759,7 +3894,7 @@
         {
             "word": "支持",
             "weight": 22,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3974,7 +4109,7 @@
         {
             "word": "OpenAI",
             "weight": 17,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4125,7 +4260,7 @@
         {
             "word": "全球",
             "weight": 16,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4324,7 +4459,7 @@
         {
             "word": "体验",
             "weight": 15,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4453,125 +4588,6 @@
                     "rank": 5,
                     "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
                     "url": "https://sspai.com/prime/story/sidecar-optimizations"
-                }
-            ]
-        },
-        {
-            "word": "模型",
-            "weight": 14,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 15,
-                    "title": "DeepSeek新模型要来了",
-                    "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A6%81%E6%9D%A5%E4%BA%86"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 27,
-                    "title": "为什么现在越来越多的开源模型，都“毕业“于 Qwen？",
-                    "url": "https://juejin.cn/post/7682499191234707497"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 53,
-                    "title": "我一发小最近特迷茫，本身他是头部大模型的中层员工，手上期权价值一个亿，离解禁可售日期不远了，最近又有创业公司联系他，邀他去做联合创始人，成功了就是百亿富豪，但现在这家公司又有竞业协议3年，他愁的不行",
-                    "url": "https://bbs.hupu.com/642343699.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 25,
-                    "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
-                    "url": "https://www.36kr.com/p/3975646062113282"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 45,
-                    "title": "OpenAI、Google、腾讯已兵临城下，世界模型：字节跳动输不起的必答题",
-                    "url": "http://news.10jqka.com.cn/20260909/c679755175.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 46,
-                    "title": "9月7日，市场消息称，字节跳动正在基于旗下视频生成模型Seedance，开发一款实时空间视频生成模型。截至发稿，字节方面未对此做出官方回应，甚至有知情人士称，部分市场传言失实。但比传言更 ...",
-                    "url": "http://news.10jqka.com.cn/20260909/c679755175.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 10,
-                    "title": "1、美东时间9月8日，美国家安全局、网络安全与基础设施安全局、联邦调查局联合发布公告，指责中国人工智能企业对美开展“工业规模”蒸馏，获取美前沿模型能力，并向美企提出相关防御措施建 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679765124.shtml"
-                },
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 2,
-                    "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
-                    "url": "https://www.cls.cn/detail/2478606"
-                },
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 11,
-                    "title": "直面 “性价比之战”！OpenAI或调整定价策略 降价迎战开源模型",
-                    "url": "https://www.cls.cn/detail/2478340"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 33,
-                    "title": "DeepSeek 将于 10 号发布 V4.1 Flash 模型，此后到新 Pro 模型发布前，V4 Pro 模型路由到此",
-                    "url": "https://www.nodeseek.com/post-920103-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 5,
-                    "title": "最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测",
-                    "url": "https://www.52pojie.cn/thread-2126497-1-1.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "量子位",
-                    "rank": 3,
-                    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-                    "url": "https://www.qbitai.com/2026/09/486288.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "极客公园",
-                    "rank": 2,
-                    "title": "折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道",
-                    "url": "http://www.geekpark.net/news/370026"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "极客公园",
-                    "rank": 5,
-                    "title": "传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机",
-                    "url": "http://www.geekpark.net/news/369965"
                 }
             ]
         },
@@ -4902,9 +4918,184 @@
             ]
         },
         {
-            "word": "美国",
+            "word": "系列",
             "weight": 21,
             "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 2,
+                    "title": "iPhone18系列新颜色",
+                    "url": "https://search.bilibili.com/all?keyword=iPhone18%E7%B3%BB%E5%88%97%E6%96%B0%E9%A2%9C%E8%89%B2"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 5,
+                    "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
+                    "url": "https://b23.tv/BV1K1Yh6UEHC"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 36,
+                    "title": "「小白」苹果Apple Watch S12/Ultra4 AirPods 5系列体验！",
+                    "url": "https://b23.tv/BV1XVYa6bEcb"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 4,
+                    "title": "iPhone18Pro系列发布",
+                    "url": "https://www.douyin.com/search/iPhone18Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 16,
+                    "title": "iPhone18Pro系列价格公布",
+                    "url": "https://www.douyin.com/search/iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 13,
+                    "title": "iPhone 18 Pro系列价格公布",
+                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 23,
+                    "title": "iPhone 18 Pro系列发布",
+                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 27,
+                    "title": "iPhone18系列",
+                    "url": "https://s.weibo.com/weibo?q=iPhone18%E7%B3%BB%E5%88%97&Refer=index"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 31,
+                    "title": "苹果下架停产iPhone 17 Pro系列",
+                    "url": "https://www.toutiao.com/trending/7682929182666768427/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%229%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682929182666768427%22%2C%22hot_board_impr_id%22%3A%22202609100853423D02F95A79BE07D954C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E4%B8%8B%E6%9E%B6%E5%81%9C%E4%BA%A7iPhone+17+Pro%E7%B3%BB%E5%88%97%22%7D&rank=&style_id=40132&topic_id=7682929182666768427"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元",
+                    "url": "https://www.ithome.com/1/000/524.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "国行 iPhone 18 Pro 系列采用实体 SIM + eSIM 设计，支持双卡使用",
+                    "url": "https://www.ithome.com/1/000/537.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元",
+                    "url": "https://www.ithome.com/1/000/542.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 4,
+                    "title": "OPPO Find X10 系列新机现身 Geekbench，搭载联发科天玑 9600 Pro 芯片",
+                    "url": "https://www.ithome.com/1/000/571.htm"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 16,
+                    "title": "记者从国务院新闻办公室9月9日举行的“开局起步‘十五五’”系列主题新闻发布会上获悉，中央统战部副部长马利怀在会上详细解读“十五五”时期民营经济发展总体部署，明确持续坚定落实“两个 ...",
+                    "url": "http://news.10jqka.com.cn/20260909/c679756230.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 21,
+                    "title": "百度将被纳入三只恒生系列指数，10月26日起生效",
+                    "url": "http://news.10jqka.com.cn/20260909/c679756014.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 47,
+                    "title": "摩根结构性产品发行5系列可赎回牛熊证 挂钩腾讯、联想、宁德时代等5股",
+                    "url": "http://news.10jqka.com.cn/20260909/c679754970.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 48,
+                    "title": "9月9日，J.P.Morgan Structured Products B.V.刊发补充上市文件，拟发行5系列单一股份可赎回牛熊证，由JPMorgan Chase Bank,National Association无条件及不可撤回地担保 ...",
+                    "url": "http://news.10jqka.com.cn/20260909/c679754970.shtml"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "这里为什么感觉没人讨论国产模型。我发现 qwen 和豆包系列模型问题好多，生产直接没法用",
+                    "url": "https://www.v2ex.com/t/1240649"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 46,
+                    "title": "【快讯】iPhone18 Pro系列价格公布",
+                    "url": "https://www.nodeseek.com/post-920994-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "watch ultra系列从1到4真是没什么变化",
+                    "url": "https://www.nodeseek.com/post-921054-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 33,
+                    "title": "【收】GigsGigs HK V系列（或 DMIT HKG Pro 早期款） 带价来 / 走官方中介",
+                    "url": "https://www.nodeseek.com/post-921082-1"
+                }
+            ]
+        },
+        {
+            "word": "美国",
+            "weight": 21,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5151,7 +5342,7 @@
         {
             "word": "公司",
             "weight": 30,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -5398,7 +5589,7 @@
         {
             "word": "郑钦文",
             "weight": 28,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5637,7 +5828,7 @@
         {
             "word": "Agent",
             "weight": 22,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5828,7 +6019,7 @@
         {
             "word": "价格",
             "weight": 21,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5997,173 +6188,6 @@
                     "rank": 2,
                     "title": "看了苹果18的价格，瞬间觉得，我的13还可以再战3年，",
                     "url": "https://www.nodeseek.com/post-921169-1"
-                }
-            ]
-        },
-        {
-            "word": "系列",
-            "weight": 20,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 2,
-                    "title": "iPhone18系列新颜色",
-                    "url": "https://search.bilibili.com/all?keyword=iPhone18%E7%B3%BB%E5%88%97%E6%96%B0%E9%A2%9C%E8%89%B2"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 5,
-                    "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
-                    "url": "https://b23.tv/BV1K1Yh6UEHC"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 36,
-                    "title": "「小白」苹果Apple Watch S12/Ultra4 AirPods 5系列体验！",
-                    "url": "https://b23.tv/BV1XVYa6bEcb"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 4,
-                    "title": "iPhone18Pro系列发布",
-                    "url": "https://www.douyin.com/search/iPhone18Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 16,
-                    "title": "iPhone18Pro系列价格公布",
-                    "url": "https://www.douyin.com/search/iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 13,
-                    "title": "iPhone 18 Pro系列价格公布",
-                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 23,
-                    "title": "iPhone 18 Pro系列发布",
-                    "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 27,
-                    "title": "iPhone18系列",
-                    "url": "https://s.weibo.com/weibo?q=iPhone18%E7%B3%BB%E5%88%97&Refer=index"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 31,
-                    "title": "苹果下架停产iPhone 17 Pro系列",
-                    "url": "https://www.toutiao.com/trending/7682929182666768427/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%229%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682929182666768427%22%2C%22hot_board_impr_id%22%3A%22202609100853423D02F95A79BE07D954C9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E4%B8%8B%E6%9E%B6%E5%81%9C%E4%BA%A7iPhone+17+Pro%E7%B3%BB%E5%88%97%22%7D&rank=&style_id=40132&topic_id=7682929182666768427"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元",
-                    "url": "https://www.ithome.com/1/000/524.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "国行 iPhone 18 Pro 系列采用实体 SIM + eSIM 设计，支持双卡使用",
-                    "url": "https://www.ithome.com/1/000/537.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元",
-                    "url": "https://www.ithome.com/1/000/542.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 4,
-                    "title": "OPPO Find X10 系列新机现身 Geekbench，搭载联发科天玑 9600 Pro 芯片",
-                    "url": "https://www.ithome.com/1/000/571.htm"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 16,
-                    "title": "记者从国务院新闻办公室9月9日举行的“开局起步‘十五五’”系列主题新闻发布会上获悉，中央统战部副部长马利怀在会上详细解读“十五五”时期民营经济发展总体部署，明确持续坚定落实“两个 ...",
-                    "url": "http://news.10jqka.com.cn/20260909/c679756230.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 21,
-                    "title": "百度将被纳入三只恒生系列指数，10月26日起生效",
-                    "url": "http://news.10jqka.com.cn/20260909/c679756014.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 47,
-                    "title": "摩根结构性产品发行5系列可赎回牛熊证 挂钩腾讯、联想、宁德时代等5股",
-                    "url": "http://news.10jqka.com.cn/20260909/c679754970.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 48,
-                    "title": "9月9日，J.P.Morgan Structured Products B.V.刊发补充上市文件，拟发行5系列单一股份可赎回牛熊证，由JPMorgan Chase Bank,National Association无条件及不可撤回地担保 ...",
-                    "url": "http://news.10jqka.com.cn/20260909/c679754970.shtml"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 46,
-                    "title": "【快讯】iPhone18 Pro系列价格公布",
-                    "url": "https://www.nodeseek.com/post-920994-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "watch ultra系列从1到4真是没什么变化",
-                    "url": "https://www.nodeseek.com/post-921054-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 33,
-                    "title": "【收】GigsGigs HK V系列（或 DMIT HKG Pro 早期款） 带价来 / 走官方中介",
-                    "url": "https://www.nodeseek.com/post-921082-1"
                 }
             ]
         },
@@ -7865,8 +7889,8 @@
             "00:23",
             "02:26",
             "04:22",
-            "06:18",
-            "08:54"
+            "06:19",
+            "09:01"
         ],
         "rows": [
             {
