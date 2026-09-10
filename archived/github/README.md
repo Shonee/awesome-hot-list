@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-10 05:26:44
+> 更新时间：2026-09-10 11:34:06
 
 ## 每日趋势
 
@@ -123,18 +123,20 @@
 3. [caveman](https://github.com/JuliusBrussee/caveman)
 4. [semantic-router](https://github.com/vllm-project/semantic-router)
 5. [new-api](https://github.com/QuantumNous/new-api)
-6. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-7. [bifrost](https://github.com/maximhq/bifrost)
-8. [cilium](https://github.com/cilium/cilium)
-9. [LocalAI](https://github.com/mudler/LocalAI)
-10. [netbird](https://github.com/netbirdio/netbird)
-11. [nebula](https://github.com/slackhq/nebula)
-12. [Xray-core](https://github.com/XTLS/Xray-core)
-13. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
-14. [3x-ui](https://github.com/MHSanaei/3x-ui)
-15. [beszel](https://github.com/henrygd/beszel)
-16. [pentagi](https://github.com/vxcontrol/pentagi)
-17. [ipatool](https://github.com/majd/ipatool)
+6. [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
+7. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
+8. [bifrost](https://github.com/maximhq/bifrost)
+9. [cilium](https://github.com/cilium/cilium)
+10. [dozzle](https://github.com/amir20/dozzle)
+11. [LocalAI](https://github.com/mudler/LocalAI)
+12. [netbird](https://github.com/netbirdio/netbird)
+13. [nebula](https://github.com/slackhq/nebula)
+14. [Xray-core](https://github.com/XTLS/Xray-core)
+15. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
+16. [3x-ui](https://github.com/MHSanaei/3x-ui)
+17. [beszel](https://github.com/henrygd/beszel)
+18. [pentagi](https://github.com/vxcontrol/pentagi)
+19. [ipatool](https://github.com/majd/ipatool)
 
 ## HTML
 
@@ -169,6 +171,5 @@
 13. [9router](https://github.com/decolua/9router)
 14. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 15. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-16. [register](https://github.com/is-a-dev/register)
-17. [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
-18. [react](https://github.com/react/react)
+16. [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
+17. [react](https://github.com/react/react)
