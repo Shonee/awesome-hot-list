@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-10 22:21:59
+> 更新时间：2026-09-10 23:21:52
 
 ## 少数派
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Tell HN: OpenAI keeps re-enabling the 'allow training' setting](https://news.ycombinator.com/item?id=49643556)
-2. [Another researcher says OpenAI trained on conversations, then claimed breakthrou](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
-3. [Who People Talk to When They're Struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
-4. [List of references on Sony websites to players "owning" their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
-5. [Thanks to Siri Recaps, your Apple Watch is always listening](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
+1. [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
+2. [Show HN: I couldn't afford interview prep, so I built a free alternative](https://learningto.co/)
+3. [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
+4. [Who Dung It? (Turdle.fun)](https://turdle.fun/)
+5. [Bending Spoons buying Miro for $1.355B](https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro)
+
+## AI News
+
+1. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+2. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+3. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+4. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+5. [Coca-Cola uses AI to improve retailer ordering in Malaysia](https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/)
 
 ## 阮一峰网络日志
 

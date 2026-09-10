@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-10 22:21:42
+> 更新时间：2026-09-10 23:21:33
 
 ## 最有料热点
 
@@ -33,4 +33,4 @@
 27. [救援人员时薪1欧,车手麻了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363239&topic_name=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%97%B6%E8%96%AA1%E6%AC%A7%2C%E8%BD%A6%E6%89%8B%E9%BA%BB%E4%BA%86)
 28. [三哥地铁骚扰上海女孩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363289&topic_name=%E4%B8%89%E5%93%A5%E5%9C%B0%E9%93%81%E9%AA%9A%E6%89%B0%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9)
 29. [加班搞双标,吧友罢工怼老板](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363234&topic_name=%E5%8A%A0%E7%8F%AD%E6%90%9E%E5%8F%8C%E6%A0%87%2C%E5%90%A7%E5%8F%8B%E7%BD%A2%E5%B7%A5%E6%80%BC%E8%80%81%E6%9D%BF)
-30. [AI攻克数学难题,韦神尴尬了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363251&topic_name=AI%E6%94%BB%E5%85%8B%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%2C%E9%9F%A6%E7%A5%9E%E5%B0%B4%E5%B0%AC%E4%BA%86)
+30. [偷吃token,大肥鱼工作时唱歌](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363506&topic_name=%E5%81%B7%E5%90%83token%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E5%B7%A5%E4%BD%9C%E6%97%B6%E5%94%B1%E6%AD%8C)
