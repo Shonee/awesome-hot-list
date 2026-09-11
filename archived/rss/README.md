@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 07:17:36
+> 更新时间：2026-09-11 08:53:52
 
 ## 少数派
 
-1. [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
-2. [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
-3. [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
-4. [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
-5. [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
+1. [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
+2. [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
+3. [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
+4. [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
+5. [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
 
 ## 爱范儿
 
-1. [20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配](https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池](https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级](https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [iPhone Duo 首发上手：唯一值两万元的折叠屏](https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配](https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池](https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级](https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看](https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
-2. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
-3. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
-4. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
-5. [苹果第一台折叠 iPhone，15999 元起](http://www.geekpark.net/news/370088)
+1. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
+2. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
+3. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
+4. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
+5. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
 
 ## MIT Technology Review
 
@@ -52,14 +52,14 @@
 
 ## Hacker News
 
-1. [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
-2. [OpenAI’s Navier-Stokes release included a Lean 4 formal proof](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
-3. [Bodily Oddities](https://vester.si/bodily-oddities/)
-4. [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
-5. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+1. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+2. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
+3. [NTSB issues investigative update on B-767 runway excursion accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+4. [OpenAI’s Navier-Stokes release included a Lean 4 formal proof](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+5. [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
 
 ## 阮一峰网络日志
 
-1. [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
-2. [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
-3. [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
+1. [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
+2. [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
+3. [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)

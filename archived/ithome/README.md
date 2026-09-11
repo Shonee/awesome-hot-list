@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-11 07:17:04
+> 更新时间：2026-09-11 08:53:23
 
 ## 最新资讯
 
-1. [三星 Galaxy SmartTag 3 智能追踪器价格曝光：单只 29.99 美元、四只装 99.99 美元](https://www.ithome.com/1/001/066.htm)
-2. [Doogee 推出 Anymoving M1 Pro 户外智能手表：支持离线路线导航、轨迹返航等功能，219 美元](https://www.ithome.com/1/001/065.htm)
-3. [OpenAI 推出金融服务版 ChatGPT：集成 GPT-6 Astra 内置金融数据与细粒度引用，支持估值模型与研究报告](https://www.ithome.com/1/001/063.htm)
-4. [苹果 iOS 27 线索：iPhone 18 Pro 等用视觉智能购物查询，将显示推广内容](https://www.ithome.com/1/001/062.htm)
-5. [博通停止公开提供 VMware VDDK 开发工具库下载，要求 IT 管理员联系官方技术联盟合作伙伴获取服务](https://www.ithome.com/1/001/061.htm)
+1. [ChatGPT、Claude、Gemini 与 Grok 谈 AI 风险：滥用比主动攻击更现实，生物武器与网络攻击比《终结者》杀手机器人更迫近](https://www.ithome.com/1/001/102.htm)
+2. [苹果首款折叠 iPhone Duo 发布首日，网友在三星 Galaxy Z Fold8 手机上实现类似开合透视动画](https://www.ithome.com/1/001/099.htm)
+3. [索尼 SIE 第一方游戏《漫威金刚狼》获 IGN 6 分评价“内容重复度较高、中后期较为无聊”](https://www.ithome.com/1/001/098.htm)
+4. [消息称拳头游戏与预测平台 Kalshi、Polymarket 讨论电子竞技赞助事宜](https://www.ithome.com/1/001/096.htm)
+5. [爱好者为V社 Steam Controller 手柄开发 LiveHaptics Mod，可将系统音频转为触觉反馈](https://www.ithome.com/1/001/095.htm)
