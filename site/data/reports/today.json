@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-11",
-    "generatedAt": "2026-09-11 12:26:33",
-    "summary": "青岛货轮火灾25人遇难成为本期综合热度最高的话题，萨巴伦卡连续4年闯入美网决赛紧随其后。当前覆盖 22 个有效渠道，共形成 445 个榜单时间切片；发现 26 个跨渠道重复热点。",
+    "generatedAt": "2026-09-11 12:33:42",
+    "summary": "青岛货轮火灾25人遇难成为本期综合热度最高的话题，萨巴伦卡连续4年闯入美网决赛紧随其后。当前覆盖 22 个有效渠道，共形成 446 个榜单时间切片；发现 26 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2459,
+        "deduplicated": 2466,
         "resonance": 26,
         "maxRise": 45,
-        "slices": 445,
+        "slices": 446,
         "coverage": 96
     },
     "topTopics": [
@@ -413,7 +413,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 171,
+            "weight": 173,
             "tone": "hot",
             "hits": [
                 {
@@ -660,7 +660,7 @@
         },
         {
             "word": "iPhone",
-            "weight": 74,
+            "weight": 75,
             "tone": "teal",
             "hits": [
                 {
@@ -907,7 +907,7 @@
         },
         {
             "word": "Duo",
-            "weight": 42,
+            "weight": 44,
             "tone": "gold",
             "hits": [
                 {
@@ -1894,256 +1894,9 @@
             ]
         },
         {
-            "word": "世界",
-            "weight": 37,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 19,
-                    "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
-                    "url": "https://b23.tv/BV18gtJ6LECq"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 3,
-                    "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
-                    "url": "https://b23.tv/BV18gtJ6LECq"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 20,
-                    "title": "<“世界顶级杀手”正在带妹>第一集【AI全民制作人】",
-                    "url": "https://b23.tv/BV1PMb469EAs"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 37,
-                    "title": "早期视频，我的世界模拟治疗",
-                    "url": "https://b23.tv/BV17uY46oESF"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 35,
-                    "title": "如意金箍棒居然真的存在？！探秘世界遗留唯一超古代工程！",
-                    "url": "https://b23.tv/BV1GTYT6tELQ"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 50,
-                    "title": "没有玩家干预 我的世界竟然通关了我的世界",
-                    "url": "https://b23.tv/BV1vCbN6JEXm"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 48,
-                    "title": "早期视频，我的世界模拟治疗",
-                    "url": "https://b23.tv/BV17uY46oESF"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 49,
-                    "title": "世界上一半的人每天看见这个现象，却不知道为什么",
-                    "url": "https://b23.tv/BV1ezYx6EEqA"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 1,
-                    "title": "中国女篮不敌法国无缘世界杯四强",
-                    "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 5,
-                    "title": "证监会：加快建设世界一流交易所",
-                    "url": "https://www.douyin.com/search/%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E4%BA%A4%E6%98%93%E6%89%80"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 22,
-                    "title": "中国女篮无缘世界杯四强",
-                    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 49,
-                    "title": "中国女篮止步世界杯八强",
-                    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%AD%A2%E6%AD%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 16,
-                    "title": "世界首例猪肾助患者摆脱透析 9 个月",
-                    "url": "https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E9%A6%96%E4%BE%8B%E7%8C%AA%E8%82%BE%E5%8A%A9%E6%82%A3%E8%80%85%E6%91%86%E8%84%B1%E9%80%8F%E6%9E%90%209%20%E4%B8%AA%E6%9C%88"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 8,
-                    "title": "2026 女篮世界杯 1/4 决赛，中国女篮 61 比 90 不敌法国女篮，止步八强，如何评价本场比赛？",
-                    "url": "https://www.zhihu.com/question/2081332911245096714"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 47,
-                    "title": "世界上有哪些鲜为人知的小国家？",
-                    "url": "https://www.zhihu.com/question/297777609"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 50,
-                    "title": "读什么书才能认清最真实的现实世界？",
-                    "url": "https://www.zhihu.com/question/515064795"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 20,
-                    "title": "如何评价世界历史上的包税制度？",
-                    "url": "https://www.zhihu.com/question/268232269"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 17,
-                    "title": "为何王者荣耀世界的美术被质疑审美过时，而内部的上千精英大佬却未察觉？",
-                    "url": "https://www.zhihu.com/question/2032386854570436068"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 25,
-                    "title": "女篮世界杯中国队止步八强",
-                    "url": "https://www.toutiao.com/trending/7683754363647361043/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683754363647361043%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7683754363647361043"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911011851FA22AC486A66795A184E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 37,
-                    "title": "女篮世界杯中国队止步八强",
-                    "url": "https://www.toutiao.com/trending/7683754363647361043/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683754363647361043%22%2C%22hot_board_impr_id%22%3A%2220260911011851FA22AC486A66795A184E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7683754363647361043"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911022420508648FCD6AEDCB34F30%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%222026091103155531BD6B89BF307D65768F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911041919FF6DB42C00863CE2296A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%22202609110517017FB724DB45E570735A77%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911061809C7523FEF4CBF2963F90A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 6,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%22202609110716556159C53E507E427CCE6C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "德媒：美国正在拆毁造福世界的秩序",
-                    "url": "https://www.toutiao.com/trending/7683763914330177582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683763914330177582%22%2C%22hot_board_impr_id%22%3A%2220260911085312BD82D698AC71B9881C60%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BE%B7%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%9C%A8%E6%8B%86%E6%AF%81%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C%E7%9A%84%E7%A7%A9%E5%BA%8F%22%7D&rank=&style_id=40132&topic_id=7683763914330177582"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 15,
-                    "title": "中国女篮无缘世界杯4强",
-                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911085312BD82D698AC71B9881C60%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
-                }
-            ]
-        },
-        {
             "word": "苹果",
-            "weight": 63,
-            "tone": "",
+            "weight": 64,
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2384,6 +2137,253 @@
                     "rank": 30,
                     "title": "苹果折叠屏和其他厂商有何不同",
                     "url": "https://www.toutiao.com/trending/7683906776294510123/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683906776294510123%22%2C%22hot_board_impr_id%22%3A%2220260911011851FA22AC486A66795A184E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%92%8C%E5%85%B6%E4%BB%96%E5%8E%82%E5%95%86%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%22%7D&rank=&style_id=40132&topic_id=7683906776294510123"
+                }
+            ]
+        },
+        {
+            "word": "世界",
+            "weight": 37,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 19,
+                    "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
+                    "url": "https://b23.tv/BV18gtJ6LECq"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 3,
+                    "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
+                    "url": "https://b23.tv/BV18gtJ6LECq"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 20,
+                    "title": "<“世界顶级杀手”正在带妹>第一集【AI全民制作人】",
+                    "url": "https://b23.tv/BV1PMb469EAs"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 37,
+                    "title": "早期视频，我的世界模拟治疗",
+                    "url": "https://b23.tv/BV17uY46oESF"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 35,
+                    "title": "如意金箍棒居然真的存在？！探秘世界遗留唯一超古代工程！",
+                    "url": "https://b23.tv/BV1GTYT6tELQ"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 50,
+                    "title": "没有玩家干预 我的世界竟然通关了我的世界",
+                    "url": "https://b23.tv/BV1vCbN6JEXm"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 48,
+                    "title": "早期视频，我的世界模拟治疗",
+                    "url": "https://b23.tv/BV17uY46oESF"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 49,
+                    "title": "世界上一半的人每天看见这个现象，却不知道为什么",
+                    "url": "https://b23.tv/BV1ezYx6EEqA"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 1,
+                    "title": "中国女篮不敌法国无缘世界杯四强",
+                    "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 5,
+                    "title": "证监会：加快建设世界一流交易所",
+                    "url": "https://www.douyin.com/search/%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E4%BA%A4%E6%98%93%E6%89%80"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 22,
+                    "title": "中国女篮无缘世界杯四强",
+                    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 49,
+                    "title": "中国女篮止步世界杯八强",
+                    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%AD%A2%E6%AD%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 16,
+                    "title": "世界首例猪肾助患者摆脱透析 9 个月",
+                    "url": "https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E9%A6%96%E4%BE%8B%E7%8C%AA%E8%82%BE%E5%8A%A9%E6%82%A3%E8%80%85%E6%91%86%E8%84%B1%E9%80%8F%E6%9E%90%209%20%E4%B8%AA%E6%9C%88"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 8,
+                    "title": "2026 女篮世界杯 1/4 决赛，中国女篮 61 比 90 不敌法国女篮，止步八强，如何评价本场比赛？",
+                    "url": "https://www.zhihu.com/question/2081332911245096714"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 47,
+                    "title": "世界上有哪些鲜为人知的小国家？",
+                    "url": "https://www.zhihu.com/question/297777609"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 50,
+                    "title": "读什么书才能认清最真实的现实世界？",
+                    "url": "https://www.zhihu.com/question/515064795"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 20,
+                    "title": "如何评价世界历史上的包税制度？",
+                    "url": "https://www.zhihu.com/question/268232269"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 17,
+                    "title": "为何王者荣耀世界的美术被质疑审美过时，而内部的上千精英大佬却未察觉？",
+                    "url": "https://www.zhihu.com/question/2032386854570436068"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 25,
+                    "title": "女篮世界杯中国队止步八强",
+                    "url": "https://www.toutiao.com/trending/7683754363647361043/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683754363647361043%22%2C%22hot_board_impr_id%22%3A%222026091100214455875A292ABF767E935D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7683754363647361043"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911011851FA22AC486A66795A184E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 37,
+                    "title": "女篮世界杯中国队止步八强",
+                    "url": "https://www.toutiao.com/trending/7683754363647361043/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683754363647361043%22%2C%22hot_board_impr_id%22%3A%2220260911011851FA22AC486A66795A184E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7683754363647361043"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911022420508648FCD6AEDCB34F30%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%222026091103155531BD6B89BF307D65768F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911041919FF6DB42C00863CE2296A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%22202609110517017FB724DB45E570735A77%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911061809C7523FEF4CBF2963F90A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 6,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%22202609110716556159C53E507E427CCE6C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 10,
+                    "title": "德媒：美国正在拆毁造福世界的秩序",
+                    "url": "https://www.toutiao.com/trending/7683763914330177582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683763914330177582%22%2C%22hot_board_impr_id%22%3A%2220260911085312BD82D698AC71B9881C60%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BE%B7%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%9C%A8%E6%8B%86%E6%AF%81%E9%80%A0%E7%A6%8F%E4%B8%96%E7%95%8C%E7%9A%84%E7%A7%A9%E5%BA%8F%22%7D&rank=&style_id=40132&topic_id=7683763914330177582"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 15,
+                    "title": "中国女篮无缘世界杯4强",
+                    "url": "https://www.toutiao.com/trending/7682919114865197066/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682919114865197066%22%2C%22hot_board_impr_id%22%3A%2220260911085312BD82D698AC71B9881C60%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7682919114865197066"
                 }
             ]
         },
@@ -8681,8 +8681,8 @@
             "00:21",
             "02:24",
             "05:17",
-            "09:28",
-            "12:26"
+            "09:29",
+            "12:33"
         ],
         "rows": [
             {

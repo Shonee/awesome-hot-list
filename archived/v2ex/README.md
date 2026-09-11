@@ -1,14 +1,14 @@
 # V2EX热榜
 
-> 更新时间：2026-09-11 09:01:06
+> 更新时间：2026-09-11 12:33:27
 
 ## 热门主题
 
-1. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)
-2. [现在教师节收礼已经这么明目张胆了吗](https://www.v2ex.com/t/1240939)
-3. [[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！](https://www.v2ex.com/t/1241018)
-4. [油皮有没有性价比高的洗面奶和爽肤水推荐？](https://www.v2ex.com/t/1240880)
-5. [AirPods 5 应该算是等等党胜利的一集吧，音质/降噪/续航提升，价格下降（主动降噪）](https://www.v2ex.com/t/1240959)
-6. [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)
-7. [如何培养一个爱好](https://www.v2ex.com/t/1240883)
-8. [程序员未来会怎么样? 我们的护城河感觉已经干涸了](https://www.v2ex.com/t/1240910)
+1. [[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！](https://www.v2ex.com/t/1241018)
+2. [大家会跟同事或者领导说自己用 Ai 完成需求吗？](https://www.v2ex.com/t/1241204)
+3. [一直有个疑问，感觉用 cursor 的人很少](https://www.v2ex.com/t/1241125)
+4. [ai 编程目前依然是普通人最好的杠杆](https://www.v2ex.com/t/1240993)
+5. [躺平是不是版本答案？](https://www.v2ex.com/t/1241205)
+6. [Duo 真的很不苹果](https://www.v2ex.com/t/1241080)
+7. [把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配](https://www.v2ex.com/t/1241226)
+8. [iPhone Duo 的销量关键就在销量上](https://www.v2ex.com/t/1241092)
