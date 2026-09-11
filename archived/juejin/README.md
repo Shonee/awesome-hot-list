@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-12 02:25:16
+> 更新时间：2026-09-12 03:17:21
 
 ## 热门文章
 
@@ -16,8 +16,8 @@
 10. [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171)
 11. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
 12. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
-13. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
-14. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
+13. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
+14. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
 15. [SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理](https://juejin.cn/post/7683830679906287643)
 16. [推荐一个比ES快5倍的搜索引擎](https://juejin.cn/post/7683722642070896690)
 17. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
@@ -43,14 +43,14 @@
 37. [花了 500 大洋买下 bbs.ss，我决定做一个真正属于出海人的论坛](https://juejin.cn/post/7682986422115041323)
 38. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
 39. [Android Studio 自动国际化插件：SmartI18n](https://juejin.cn/post/7683375626492903464)
-40. [用 Node.js 复刻 Codex Astra 的终端星光](https://juejin.cn/post/7683539970712830006)
-41. [《Agent 评测白皮书》系列01：Agent 评测全览](https://juejin.cn/post/7683448371321274404)
-42. [Android 架构演进：从生命周期事件到结构化任务](https://juejin.cn/post/7683086663757529138)
-43. [我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收](https://juejin.cn/post/7684102772083130422)
-44. [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468)
-45. [DeepSeek V4.1 Flash 正式发布！](https://juejin.cn/post/7683784267848122395)
-46. [AI 改祖传模块后，代码评审总绕不开两个问题](https://juejin.cn/post/7683724457529294854)
-47. [2026最新款Electron41+React19+AntDesign电脑端后台管理系统Exe](https://juejin.cn/post/7683443642280017935)
-48. [丝滑的奥秘：Reanimated 3 动画引擎与手势处理（Gesture Handler）](https://juejin.cn/post/7683433296757194806)
+40. [我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收](https://juejin.cn/post/7684102772083130422)
+41. [用 Node.js 复刻 Codex Astra 的终端星光](https://juejin.cn/post/7683539970712830006)
+42. [《Agent 评测白皮书》系列01：Agent 评测全览](https://juejin.cn/post/7683448371321274404)
+43. [Android 架构演进：从生命周期事件到结构化任务](https://juejin.cn/post/7683086663757529138)
+44. [丝滑的奥秘：Reanimated 3 动画引擎与手势处理（Gesture Handler）](https://juejin.cn/post/7683433296757194806)
+45. [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468)
+46. [DeepSeek V4.1 Flash 正式发布！](https://juejin.cn/post/7683784267848122395)
+47. [AI 改祖传模块后，代码评审总绕不开两个问题](https://juejin.cn/post/7683724457529294854)
+48. [2026最新款Electron41+React19+AntDesign电脑端后台管理系统Exe](https://juejin.cn/post/7683443642280017935)
 49. [AI Coding 提效 2 倍是真的吗？到底怎么衡量效果](https://juejin.cn/post/7683073875694321710)
 50. [Go 开发者也有自己的轻量工作流引擎了：go get 一行，5 分钟跑通一条审批流](https://juejin.cn/post/7683025447917027374)
