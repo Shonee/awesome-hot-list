@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-12 04:20:42
+> 更新时间：2026-09-12 05:17:52
 
 ## 热门文章
 
@@ -26,12 +26,12 @@
 20. [你的 Vue3 项目也能有钉钉同款审批流设计器：npm 装包，10 分钟画出第一条审批流](https://juejin.cn/post/7683434989240795162)
 21. [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247)
 22. [2026 年 9 月，整个 npm 生态的「心脏」都被 Rust 换了](https://juejin.cn/post/7682986422114893867)
-23. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
-24. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
-25. [Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？](https://juejin.cn/post/7683816340574617663)
+23. [Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？](https://juejin.cn/post/7683816340574617663)
+24. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
+25. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
 26. [让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践](https://juejin.cn/post/7683049897089335336)
-27. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
-28. [倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发](https://juejin.cn/post/7683784267847925787)
+27. [倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发](https://juejin.cn/post/7683784267847925787)
+28. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
 29. [面试官问我：AI 都能写代码了，前端凭什么还值 25K](https://juejin.cn/post/7683348233489924102)
 30. [现在回头看，Dart取消宏是无比正确的决定](https://juejin.cn/post/7683027781632294946)
 31. [同一个 AI，为啥有人用出花，有人用出屎？——聊聊上下文工程](https://juejin.cn/post/7683069801370386470)
@@ -39,8 +39,8 @@
 33. [OkHttp 5.3 隐形变更引发的线上偶发崩溃复盘](https://juejin.cn/post/7683704380166242304)
 34. [2026 苹果秋季新品发布会总结](https://juejin.cn/post/7683507165231677455)
 35. [什么是 RAG？如何用 RAG 实现一个用户记忆？](https://juejin.cn/post/7683339702867542058)
-36. [Go 还是 Golang？可能你一直都搞错了！](https://juejin.cn/post/7683700156294873134)
-37. [花了 500 大洋买下 bbs.ss，我决定做一个真正属于出海人的论坛](https://juejin.cn/post/7682986422115041323)
+36. [花了 500 大洋买下 bbs.ss，我决定做一个真正属于出海人的论坛](https://juejin.cn/post/7682986422115041323)
+37. [Go 还是 Golang？可能你一直都搞错了！](https://juejin.cn/post/7683700156294873134)
 38. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
 39. [Android Studio 自动国际化插件：SmartI18n](https://juejin.cn/post/7683375626492903464)
 40. [我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收](https://juejin.cn/post/7684102772083130422)
