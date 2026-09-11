@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-11 22:22:33
+> 更新时间：2026-09-11 23:20:12
 
 ## 热门文章
 
@@ -19,10 +19,10 @@
 13. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
 14. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
 15. [推荐一个比ES快5倍的搜索引擎](https://juejin.cn/post/7683722642070896690)
-16. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
-17. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
-18. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
-19. [SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理](https://juejin.cn/post/7683830679906287643)
+16. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
+17. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
+18. [SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理](https://juejin.cn/post/7683830679906287643)
+19. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
 20. [你的 Vue3 项目也能有钉钉同款审批流设计器：npm 装包，10 分钟画出第一条审批流](https://juejin.cn/post/7683434989240795162)
 21. [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247)
 22. [2026 年 9 月，整个 npm 生态的「心脏」都被 Rust 换了](https://juejin.cn/post/7682986422114893867)
@@ -30,21 +30,21 @@
 24. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
 25. [Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？](https://juejin.cn/post/7683816340574617663)
 26. [不要先问“用哪个 AI”，先盘点你的开发工作流](https://juejin.cn/post/7683020866855632906)
-27. [10 MB 的 Postman 替代品，启动不到 1 秒](https://juejin.cn/post/7683086663756693554)
-28. [让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践](https://juejin.cn/post/7683049897089335336)
+27. [让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践](https://juejin.cn/post/7683049897089335336)
+28. [10 MB 的 Postman 替代品，启动不到 1 秒](https://juejin.cn/post/7683086663756693554)
 29. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
 30. [现在回头看，Dart取消宏是无比正确的决定](https://juejin.cn/post/7683027781632294946)
 31. [倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发](https://juejin.cn/post/7683784267847925787)
 32. [面试官问我：AI 都能写代码了，前端凭什么还值 25K](https://juejin.cn/post/7683348233489924102)
 33. [同一个 AI，为啥有人用出花，有人用出屎？——聊聊上下文工程](https://juejin.cn/post/7683069801370386470)
 34. [百万行数据透视表，我是怎么把 Vue 响应式开销砍到零的](https://juejin.cn/post/7683728647317291054)
-35. [什么是 RAG？如何用 RAG 实现一个用户记忆？](https://juejin.cn/post/7683339702867542058)
-36. [OkHttp 5.3 隐形变更引发的线上偶发崩溃复盘](https://juejin.cn/post/7683704380166242304)
-37. [Go 还是 Golang？可能你一直都搞错了！](https://juejin.cn/post/7683700156294873134)
-38. [2026 苹果秋季新品发布会总结](https://juejin.cn/post/7683507165231677455)
-39. [Android Studio 自动国际化插件：SmartI18n](https://juejin.cn/post/7683375626492903464)
-40. [花了 500 大洋买下 bbs.ss，我决定做一个真正属于出海人的论坛](https://juejin.cn/post/7682986422115041323)
-41. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
+35. [2026 苹果秋季新品发布会总结](https://juejin.cn/post/7683507165231677455)
+36. [什么是 RAG？如何用 RAG 实现一个用户记忆？](https://juejin.cn/post/7683339702867542058)
+37. [OkHttp 5.3 隐形变更引发的线上偶发崩溃复盘](https://juejin.cn/post/7683704380166242304)
+38. [Go 还是 Golang？可能你一直都搞错了！](https://juejin.cn/post/7683700156294873134)
+39. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
+40. [Android Studio 自动国际化插件：SmartI18n](https://juejin.cn/post/7683375626492903464)
+41. [花了 500 大洋买下 bbs.ss，我决定做一个真正属于出海人的论坛](https://juejin.cn/post/7682986422115041323)
 42. [用 Node.js 复刻 Codex Astra 的终端星光](https://juejin.cn/post/7683539970712830006)
 43. [Android 架构演进：从生命周期事件到结构化任务](https://juejin.cn/post/7683086663757529138)
 44. [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468)

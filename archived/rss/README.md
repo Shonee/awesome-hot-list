@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 22:23:19
+> 更新时间：2026-09-11 23:21:08
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [不简单，“吃货快乐榜”也全面AI化了](https://www.qbitai.com/2026/09/487282.html)
-2. [墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济](https://www.qbitai.com/2026/09/487273.html)
-3. [量子位「MEET2027智能未来大会」启动！年度榜单征集进行中](https://www.qbitai.com/2026/09/487176.html)
-4. [3万台无人车之后，这家公司盯上了城市级物理AI](https://www.qbitai.com/2026/09/487163.html)
-5. [OpenAI这是拿千禧年难题当Benchmark刷啊。。。](https://www.qbitai.com/2026/09/487092.html)
+1. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
+2. [百度秒哒再升级！让最懂业务的人，亲手造自己的系统](https://www.qbitai.com/2026/09/487415.html)
+3. [不简单，“吃货快乐榜”也全面AI化了](https://www.qbitai.com/2026/09/487282.html)
+4. [墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济](https://www.qbitai.com/2026/09/487273.html)
+5. [量子位「MEET2027智能未来大会」启动！年度榜单征集进行中](https://www.qbitai.com/2026/09/487176.html)
 
 ## InfoQ
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Chamilo 3.0 – open-source LMS with native MCP server (PAuth2.1)](https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0)
-2. [Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)
-3. [If coding is solved, what now?: Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/)
-4. [Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
-5. [Houthis 'take control' of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
+1. [HuggingFace: Security.txt](https://huggingface.co/security.txt)
+2. [New York thoracic surgeon: "For many patients 9/11 is not over"](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/)
+3. [Why Bullshit Jobs Are (Finally) Dying [video]](https://www.youtube.com/watch?v=QecDVkcGPxY)
+4. [If coding is solved, what now?: Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/)
+5. [Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
 
 ## 阮一峰网络日志
 
