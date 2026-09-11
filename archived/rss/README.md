@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 20:32:18
+> 更新时间：2026-09-11 21:22:15
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [在外滩大会上，我看到健康 AI+ 硬件的新可能](https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个](https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配](https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%](https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [在外滩大会上，我看到健康 AI+ 硬件的新可能](https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个](https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [“我们在拿生命做赌注”：造AI的人为何开始密集预警？](https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&utm_medium=article)
-2. [AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践](https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu?utm_source=rss&utm_medium=article)
-3. [“数据比模型重要”成了共识，接下来拼什么？](https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article)
-4. [HashiCorp Packer 1.16 发布，支持机器镜像 SLSA 来源证明生成与核验](https://www.infoq.cn/article/v3VX3eqmROVDJ38rQOh0?utm_source=rss&utm_medium=article)
-5. [当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察](https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article)
+1. [AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践](https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&utm_medium=article)
+2. [怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮](https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&utm_medium=article)
+3. [“我们在拿生命做赌注”：造AI的人为何开始密集预警？](https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&utm_medium=article)
+4. [AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践](https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu?utm_source=rss&utm_medium=article)
+5. [“数据比模型重要”成了共识，接下来拼什么？](https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Instagram's head says engagement falls by half without the algorithm](https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia)
-2. [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
-3. [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
-4. [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
-5. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+1. [Remember Hong Kong](https://www.thenextmove.org/p/remember-hong-kong)
+2. [Show HN: Foldelight – the iPhone Duo folding effect the MacBook was owed](https://lufzle.dev/foldelight/)
+3. [Moonshot serves Claude instead of Kimi and collects exchanges for model training](https://twitter.com/DavidAgranovich/status/2098168522862215449)
+4. [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
+5. [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+
+## AI News
+
+1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 
