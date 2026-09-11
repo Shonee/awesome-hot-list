@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 09:29:15
+> 更新时间：2026-09-11 10:30:48
 
 ## 少数派
 
@@ -20,19 +20,19 @@
 
 ## 量子位
 
-1. [ECCV上，顶尖学者们开始研究如何让AI做生意了](https://www.qbitai.com/2026/09/486934.html)
-2. [全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口](https://www.qbitai.com/2026/09/486900.html)
-3. [全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源](https://www.qbitai.com/2026/09/486747.html)
-4. [这个新开源的世界模型只有1.3B，单卡就能实时跑！](https://www.qbitai.com/2026/09/486716.html)
-5. [AGI时代的第一个生图模型，ChatGPT Images 2.5上线](https://www.qbitai.com/2026/09/486684.html)
+1. [OpenAI这是拿千禧年难题当Benchmark刷啊。。。](https://www.qbitai.com/2026/09/487092.html)
+2. [吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞](https://www.qbitai.com/2026/09/487055.html)
+3. [ECCV上，顶尖学者们开始研究如何让AI做生意了](https://www.qbitai.com/2026/09/486934.html)
+4. [全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口](https://www.qbitai.com/2026/09/486900.html)
+5. [全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源](https://www.qbitai.com/2026/09/486747.html)
 
 ## InfoQ
 
-1. [1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站](https://www.infoq.cn/article/DtxID7YaDp3o3QRcOTYj?utm_source=rss&utm_medium=article)
-2. [2026 腾讯云大数据年度精选技术实践指南](https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX?utm_source=rss&utm_medium=article)
-3. [Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文](https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt?utm_source=rss&utm_medium=article)
-4. [破除人形崇拜！京东用“狼族”军团重做物理AI](https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&utm_medium=article)
-5. [PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？](https://www.infoq.cn/article/8t2vJHOc5srUyQqSlO9m?utm_source=rss&utm_medium=article)
+1. [端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海](https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ?utm_source=rss&utm_medium=article)
+2. [从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？](https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu?utm_source=rss&utm_medium=article)
+3. [1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站](https://www.infoq.cn/article/DtxID7YaDp3o3QRcOTYj?utm_source=rss&utm_medium=article)
+4. [2026 腾讯云大数据年度精选技术实践指南](https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX?utm_source=rss&utm_medium=article)
+5. [Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文](https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
-2. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
-3. [Details.so](https://www.details.so/inspo)
-4. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
-5. [NTSB issues investigative update on B-767 runway excursion accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+1. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+2. [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)
+3. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+4. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+5. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
 
 ## AI News
 
