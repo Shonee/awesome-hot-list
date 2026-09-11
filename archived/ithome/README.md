@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-11 17:23:32
+> 更新时间：2026-09-11 18:21:59
 
 ## 最新资讯
 
-1. [日产宣布重塑本土业务，目标将在日年产能提升至 100 万辆](https://www.ithome.com/1/001/382.htm)
-2. [全新一代智己 LS6 将于 9 月 23 日上市，预售价 20.99 万元起](https://www.ithome.com/1/001/381.htm)
-3. [飞利浦发布 Fast VA 曲面 WQHD 显示器 34M2C5601QA，集成 Ambiglow 氛围灯](https://www.ithome.com/1/001/380.htm)
-4. [vivo OriginOS 7 预告全新「液态动效」，9 月 16 日见](https://www.ithome.com/1/001/379.htm)
-5. [探索“能效极限”，大众 9 月 14 日将展示全新概念车 Mission Efficiency](https://www.ithome.com/1/001/375.htm)
+1. [Alpina 创始人“复活”宝马 Z4：性能超过此前任何一代，11.55 万欧元](https://www.ithome.com/1/001/416.htm)
+2. [别克世纪 CENTURY 黑金限量版发售：限量 50 台，54.99 万元起](https://www.ithome.com/1/001/415.htm)
+3. [三部门：探索运用高通量卫星、低轨卫星互联网等方式为农村及偏远地区提供多样化网络接入服务](https://www.ithome.com/1/001/414.htm)
+4. [工信部：车企打“口水战”、互相揭短等网络乱象得到初步治理，将引导规范新车发布和产品测评活动](https://www.ithome.com/1/001/413.htm)
+5. [Kimi K3 模型“突破性”成功，消息称月之暗面瞄准今年年底 20 亿美元年化收入](https://www.ithome.com/1/001/411.htm)
