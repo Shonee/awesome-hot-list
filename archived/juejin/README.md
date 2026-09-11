@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-11 14:34:36
+> 更新时间：2026-09-11 15:23:40
 
 ## 热门文章
 
@@ -32,25 +32,25 @@
 26. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
 27. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
 28. [推荐一个比ES快5倍的搜索引擎](https://juejin.cn/post/7683722642070896690)
-29. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
-30. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
+29. [GPT images 2.5 一手实测，这也太颠了。。。](https://juejin.cn/post/7683072481465057323)
+30. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
 31. [你的 Vue3 项目也能有钉钉同款审批流设计器：npm 装包，10 分钟画出第一条审批流](https://juejin.cn/post/7683434989240795162)
 32. [为什么现在越来越多的开源模型，都“毕业“于 Qwen？](https://juejin.cn/post/7682499191234707497)
 33. [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247)
 34. [会开完了，活还是没人干？我用 AiiOnly + Workbuddy 做了个「会议行动项助手」](https://juejin.cn/post/7683062233580634122)
-35. [2026 年 9 月，整个 npm 生态的「心脏」都被 Rust 换了](https://juejin.cn/post/7682986422114893867)
-36. [从0到1手撕流式输出：Vue3 + Vite 实现 LLM 流式响应全解析](https://juejin.cn/post/7682987755446353960)
+35. [从0到1手撕流式输出：Vue3 + Vite 实现 LLM 流式响应全解析](https://juejin.cn/post/7682987755446353960)
+36. [2026 年 9 月，整个 npm 生态的「心脏」都被 Rust 换了](https://juejin.cn/post/7682986422114893867)
 37. [Flutter 双端开发实战：一套代码搞定 iOS + Android，从开发到上架全流程](https://juejin.cn/post/7682948530697207862)
 38. [让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践](https://juejin.cn/post/7683049897089335336)
 39. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
 40. [不要先问“用哪个 AI”，先盘点你的开发工作流](https://juejin.cn/post/7683020866855632906)
 41. [现在回头看，Dart取消宏是无比正确的决定](https://juejin.cn/post/7683027781632294946)
-42. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
-43. [Kotlin 2.4.20 现已发布，新特性多不多？](https://juejin.cn/post/7682977354633773083)
-44. [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171)
-45. [10 MB 的 Postman 替代品，启动不到 1 秒](https://juejin.cn/post/7683086663756693554)
+42. [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171)
+43. [10 MB 的 Postman 替代品，启动不到 1 秒](https://juejin.cn/post/7683086663756693554)
+44. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
+45. [Kotlin 2.4.20 现已发布，新特性多不多？](https://juejin.cn/post/7682977354633773083)
 46. [同一个 AI，为啥有人用出花，有人用出屎？——聊聊上下文工程](https://juejin.cn/post/7683069801370386470)
-47. [AndroidKMP之瀑布流实现](https://juejin.cn/post/7682663370555195446)
-48. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
-49. [面试官问我：AI 都能写代码了，前端凭什么还值 25K](https://juejin.cn/post/7683348233489924102)
-50. [什么是 RAG？如何用 RAG 实现一个用户记忆？](https://juejin.cn/post/7683339702867542058)
+47. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
+48. [面试官问我：AI 都能写代码了，前端凭什么还值 25K](https://juejin.cn/post/7683348233489924102)
+49. [什么是 RAG？如何用 RAG 实现一个用户记忆？](https://juejin.cn/post/7683339702867542058)
+50. [百万行数据透视表，我是怎么把 Vue 响应式开销砍到零的](https://juejin.cn/post/7683728647317291054)

@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 14:35:28
+> 更新时间：2026-09-11 15:24:21
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化](https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article)
-2. [vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护](https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article)
-3. [刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话](https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article)
-4. [一句话就能下单，商业入口要变了！蚂蚁 CEO 韩歆毅：未来竞争的不只是流量](https://www.infoq.cn/article/EKC1INXeMjIo00JWMQdV?utm_source=rss&utm_medium=article)
-5. [AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同](https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article)
+1. [Netflix 采用开源 Flink Autoscaler，支撑超 3 万个流式作业](https://www.infoq.cn/article/8JZ9IdSIxo18dcz6pZG6?utm_source=rss&utm_medium=article)
+2. [AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化](https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article)
+3. [vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护](https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article)
+4. [刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话](https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article)
+5. [一句话就能下单，商业入口要变了！蚂蚁 CEO 韩歆毅：未来竞争的不只是流量](https://www.infoq.cn/article/EKC1INXeMjIo00JWMQdV?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
-2. [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
-3. [What Comes After Git](https://ersc.io/blog/what-comes-after-git)
-4. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-5. [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
+1. [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
+2. [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
+3. [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+4. [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
+5. [What Comes After Git](https://ersc.io/blog/what-comes-after-git)
 
 ## AI News
 
