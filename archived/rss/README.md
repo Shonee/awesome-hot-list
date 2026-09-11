@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 01:19:19
+> 更新时间：2026-09-12 02:25:57
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
-2. [百度秒哒再升级！让最懂业务的人，亲手造自己的系统](https://www.qbitai.com/2026/09/487415.html)
-3. [不简单，“吃货快乐榜”也全面AI化了](https://www.qbitai.com/2026/09/487282.html)
-4. [墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济](https://www.qbitai.com/2026/09/487273.html)
-5. [量子位「MEET2027智能未来大会」启动！年度榜单征集进行中](https://www.qbitai.com/2026/09/487176.html)
+1. [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
+2. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
+3. [百度秒哒再升级！让最懂业务的人，亲手造自己的系统](https://www.qbitai.com/2026/09/487415.html)
+4. [不简单，“吃货快乐榜”也全面AI化了](https://www.qbitai.com/2026/09/487282.html)
+5. [墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济](https://www.qbitai.com/2026/09/487273.html)
 
 ## InfoQ
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/)
-2. [Feeling Sad about AI](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
-3. [Triple H Writes Anniversary Story for Spider-Man #1000](https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000)
-4. [Show HN: Hacker News, Without AI](https://www.unslop.news/)
-5. [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
+1. [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+2. [Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)
+3. [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
+4. [Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/)
+5. [Triple H Writes Anniversary Story for Spider-Man #1000](https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000)
+
+## AI News
+
+1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 
