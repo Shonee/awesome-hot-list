@@ -1,14 +1,14 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-12",
-    "generatedAt": "2026-09-12 00:24:43",
-    "summary": "打假网红铁头一审获刑8年成为本期综合热度最高的话题，iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃紧随其后。当前覆盖 20 个有效渠道，共形成 33 个榜单时间切片；发现 9 个跨渠道重复热点。",
+    "generatedAt": "2026-09-12 00:31:03",
+    "summary": "打假网红铁头一审获刑8年成为本期综合热度最高的话题，iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃紧随其后。当前覆盖 21 个有效渠道，共形成 34 个榜单时间切片；发现 9 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1015,
+        "deduplicated": 1023,
         "resonance": 9,
         "maxRise": 0,
-        "slices": 33,
-        "coverage": 87
+        "slices": 34,
+        "coverage": 91
     },
     "topTopics": [
         {
@@ -237,7 +237,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 73,
+            "weight": 75,
             "tone": "hot",
             "hits": [
                 {
@@ -2126,9 +2126,112 @@
             ]
         },
         {
+            "word": "大家",
+            "weight": 12,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 35,
+                    "title": "500万粉丝博主“康康爷爷”去世，家属：爷爷临终交代，和大家的故事暂时告一段落了",
+                    "url": "https://b23.tv/BV1XwYt6nESK"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 26,
+                    "title": "强烈建议大家日常一定要把AI用起来",
+                    "url": "https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%97%A5%E5%B8%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8AAI%E7%94%A8%E8%B5%B7%E6%9D%A5&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 47,
+                    "title": "当你总是为别人考虑，慢慢的不想再委屈自己，却又不被人理解时，大家都是怎么熬过来的？",
+                    "url": "https://www.zhihu.com/question/6728445377"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 32,
+                    "title": "孟博龙百分大战战胜nba球员特雷伯克，取得千万年薪合同，什么水平？jr怎么看？赛前大家都认为孟博龙必输",
+                    "url": "https://bbs.hupu.com/642366440.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 42,
+                    "title": "雷军：我比较倒霉在大家老把小米跟苹果华为比，你给我一万亿美元做的比它们更惊艳，小米总被人说屌丝组装机但是光芒无法掩盖",
+                    "url": "https://bbs.hupu.com/642371360.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 54,
+                    "title": "客户申请仅退款，大家帮我看看是不是ai的。",
+                    "url": "https://bbs.hupu.com/642370988.html"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "大家会跟同事或者领导说自己用 Ai 完成需求吗？",
+                    "url": "https://www.v2ex.com/t/1241204"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "最近几月大家用 ai 开发之后，还会加班吗？",
+                    "url": "https://www.v2ex.com/t/1241211"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "为一个弱智的问题 大家怎么插入的图片",
+                    "url": "https://www.v2ex.com/t/1241328"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "大家怎么搭探针的",
+                    "url": "https://www.nodeseek.com/post-924240-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 24,
+                    "title": "又是周末了，大家去哪玩",
+                    "url": "https://www.nodeseek.com/post-924141-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 33,
+                    "title": "请教大家：之前有一个注册送200MB，1到能买1GB家宽流量的是哪家来着",
+                    "url": "https://www.nodeseek.com/post-915397-1"
+                }
+            ]
+        },
+        {
             "word": "科技",
             "weight": 10,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -2213,10 +2316,34 @@
             ]
         },
         {
-            "word": "工作",
+            "word": "开发",
             "weight": 9,
-            "tone": "",
+            "tone": "hot",
             "hits": [
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 52,
+                    "title": "张凌赫卢昱晓刺棠海报分开发",
+                    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8D%A2%E6%98%B1%E6%99%93%E5%88%BA%E6%A3%A0%E6%B5%B7%E6%8A%A5%E5%88%86%E5%BC%80%E5%8F%91&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 42,
+                    "title": "既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？",
+                    "url": "https://www.zhihu.com/question/2076970531870466744"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 4,
+                    "title": "为什么不推荐走Agent开发？",
+                    "url": "https://juejin.cn/post/7683457864929329204"
+                },
                 {
                     "channelId": "juejin",
                     "channelName": "掘金",
@@ -2229,72 +2356,48 @@
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
+                    "rank": 29,
+                    "title": "倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发",
+                    "url": "https://juejin.cn/post/7683784267847925787"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
                     "rank": 49,
                     "title": "Go 开发者也有自己的轻量工作流引擎了：go get 一行，5 分钟跑通一条审批流",
                     "url": "https://juejin.cn/post/7683025447917027374"
                 },
                 {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "AI抢走写代码工作谁来培养工程师",
-                    "url": "https://www.toutiao.com/trending/7684268291560312339/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684268291560312339%22%2C%22hot_board_impr_id%22%3A%2220260912002313CD04C86E12DAE9EF8A7E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%8A%A2%E8%B5%B0%E5%86%99%E4%BB%A3%E7%A0%81%E5%B7%A5%E4%BD%9C%E8%B0%81%E6%9D%A5%E5%9F%B9%E5%85%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D&rank=&style_id=40132&topic_id=7684268291560312339"
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "周榜",
+                    "rank": 4,
+                    "title": "CDPR前员工开发 巫师3的优质代餐《黎明行者之血》",
+                    "url": "https://www.acfun.cn/v/ac48832631"
                 },
                 {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 1,
-                    "title": "因未能严格规范个别工作人员执业行为，长江证券被监管责令改正",
-                    "url": "http://news.10jqka.com.cn/20260911/c679843925.shtml"
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "迄今最高效奥迪车型：奥迪 A2 e-tron 开发时间成功缩短 21 个月",
+                    "url": "https://www.ithome.com/1/001/468.htm"
                 },
                 {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "北京商报讯(记者李海媛)9月11日，湖北证监局发文称，经查，长江证券未能严格规范研究所个别工作人员执业行为，违反了相关规定。根据有关规定，湖北证监局决定对长江证券采取责令改正的行政 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679843925.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "9月11日，国务院总理李强主持召开国务院常务会议，对加强安全生产工作作出进一步部署，研究算力网建设有关工作，研究全面系统推进老旧水库改造提升有关工作，听取贯彻落实全国教育大会精神 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679843817.shtml"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 44,
-                    "title": "WorkBuddy多账号切换v15【保留工作区】",
-                    "url": "https://www.52pojie.cn/thread-2125949-1-1.html"
-                },
-                {
-                    "channelId": "wechat",
-                    "channelName": "微信文章",
-                    "ranking": "24h 热文榜",
-                    "rank": 27,
-                    "title": "比裁员更侮辱人的事情发生了：部门裁了2个人，一个月薪1.5w，一个月薪1.8w，工作都还交接给我，而我月薪只有1.2w，我提涨薪还直接被拒了",
-                    "url": "https://mp.weixin.qq.com/s?__biz=MzUyNDkzNzczNQ==&mid=2247565607&idx=1&sn=1bdf0e70148121e6155152782b9ce434#rd"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
                     "rank": 7,
-                    "title": "偷吃token,大肥鱼工作时唱歌",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363506&topic_name=%E5%81%B7%E5%90%83token%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E5%B7%A5%E4%BD%9C%E6%97%B6%E5%94%B1%E6%AD%8C"
+                    "title": "最近几月大家用 ai 开发之后，还会加班吗？",
+                    "url": "https://www.v2ex.com/t/1241211"
                 }
             ]
         },
         {
             "word": "事件",
             "weight": 8,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2365,7 +2468,7 @@
         {
             "word": "网红",
             "weight": 7,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -2428,7 +2531,7 @@
         {
             "word": "华为",
             "weight": 6,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2483,7 +2586,7 @@
         {
             "word": "第三",
             "weight": 15,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2650,7 +2753,7 @@
         {
             "word": "GPT",
             "weight": 14,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -2767,85 +2870,6 @@
             ]
         },
         {
-            "word": "大家",
-            "weight": 9,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 35,
-                    "title": "500万粉丝博主“康康爷爷”去世，家属：爷爷临终交代，和大家的故事暂时告一段落了",
-                    "url": "https://b23.tv/BV1XwYt6nESK"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 26,
-                    "title": "强烈建议大家日常一定要把AI用起来",
-                    "url": "https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%97%A5%E5%B8%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8AAI%E7%94%A8%E8%B5%B7%E6%9D%A5&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 47,
-                    "title": "当你总是为别人考虑，慢慢的不想再委屈自己，却又不被人理解时，大家都是怎么熬过来的？",
-                    "url": "https://www.zhihu.com/question/6728445377"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 32,
-                    "title": "孟博龙百分大战战胜nba球员特雷伯克，取得千万年薪合同，什么水平？jr怎么看？赛前大家都认为孟博龙必输",
-                    "url": "https://bbs.hupu.com/642366440.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 42,
-                    "title": "雷军：我比较倒霉在大家老把小米跟苹果华为比，你给我一万亿美元做的比它们更惊艳，小米总被人说屌丝组装机但是光芒无法掩盖",
-                    "url": "https://bbs.hupu.com/642371360.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 54,
-                    "title": "客户申请仅退款，大家帮我看看是不是ai的。",
-                    "url": "https://bbs.hupu.com/642370988.html"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "大家怎么搭探针的",
-                    "url": "https://www.nodeseek.com/post-924240-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 24,
-                    "title": "又是周末了，大家去哪玩",
-                    "url": "https://www.nodeseek.com/post-924141-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 33,
-                    "title": "请教大家：之前有一个注册送200MB，1到能买1GB家宽流量的是哪家来着",
-                    "url": "https://www.nodeseek.com/post-915397-1"
-                }
-            ]
-        },
-        {
             "word": "男子",
             "weight": 9,
             "tone": "gold",
@@ -2925,80 +2949,9 @@
             ]
         },
         {
-            "word": "开发",
-            "weight": 8,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 52,
-                    "title": "张凌赫卢昱晓刺棠海报分开发",
-                    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8D%A2%E6%98%B1%E6%99%93%E5%88%BA%E6%A3%A0%E6%B5%B7%E6%8A%A5%E5%88%86%E5%BC%80%E5%8F%91&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 42,
-                    "title": "既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？",
-                    "url": "https://www.zhihu.com/question/2076970531870466744"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 4,
-                    "title": "为什么不推荐走Agent开发？",
-                    "url": "https://juejin.cn/post/7683457864929329204"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 27,
-                    "title": "不要先问“用哪个 AI”，先盘点你的开发工作流",
-                    "url": "https://juejin.cn/post/7683020866855632906"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 29,
-                    "title": "倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发",
-                    "url": "https://juejin.cn/post/7683784267847925787"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 49,
-                    "title": "Go 开发者也有自己的轻量工作流引擎了：go get 一行，5 分钟跑通一条审批流",
-                    "url": "https://juejin.cn/post/7683025447917027374"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "周榜",
-                    "rank": 4,
-                    "title": "CDPR前员工开发 巫师3的优质代餐《黎明行者之血》",
-                    "url": "https://www.acfun.cn/v/ac48832631"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "迄今最高效奥迪车型：奥迪 A2 e-tron 开发时间成功缩短 21 个月",
-                    "url": "https://www.ithome.com/1/001/468.htm"
-                }
-            ]
-        },
-        {
             "word": "代码",
             "weight": 7,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -3061,7 +3014,7 @@
         {
             "word": "博主",
             "weight": 6,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3116,7 +3069,7 @@
         {
             "word": "模型",
             "weight": 6,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -3171,7 +3124,7 @@
         {
             "word": "晋级",
             "weight": 5,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3218,7 +3171,7 @@
         {
             "word": "百万",
             "weight": 5,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3273,7 +3226,7 @@
         {
             "word": "铁头",
             "weight": 5,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3320,7 +3273,7 @@
         {
             "word": "公司",
             "weight": 12,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -3423,7 +3376,7 @@
         {
             "word": "DeepSeek",
             "weight": 10,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3510,7 +3463,7 @@
         {
             "word": "分钟",
             "weight": 9,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3589,7 +3542,7 @@
         {
             "word": "PV",
             "weight": 8,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3660,7 +3613,7 @@
         {
             "word": "值得",
             "weight": 8,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3731,7 +3684,7 @@
         {
             "word": "开学",
             "weight": 8,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3802,7 +3755,7 @@
         {
             "word": "女子",
             "weight": 6,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -3857,7 +3810,7 @@
         {
             "word": "算力",
             "weight": 6,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "tonghuashun",
@@ -3912,7 +3865,7 @@
         {
             "word": "WorkBuddy",
             "weight": 5,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -3959,7 +3912,7 @@
         {
             "word": "CPI",
             "weight": 5,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -4002,12 +3955,60 @@
                     "url": "https://www.cls.cn/detail/2481177"
                 }
             ]
+        },
+        {
+            "word": "小米",
+            "weight": 5,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 14,
+                    "title": "小米澎程系列 4 分钟锁单破万",
+                    "url": "https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%204%20%E5%88%86%E9%92%9F%E9%94%81%E5%8D%95%E7%A0%B4%E4%B8%87"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 20,
+                    "title": "小米 宁德时代",
+                    "url": "https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%20%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 11,
+                    "title": "适配小米“中”折屏，非得买一台吗",
+                    "url": "https://juejin.cn/post/7682593227544805382"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 42,
+                    "title": "雷军：我比较倒霉在大家老把小米跟苹果华为比，你给我一万亿美元做的比它们更惊艳，小米总被人说屌丝组装机但是光芒无法掩盖",
+                    "url": "https://bbs.hupu.com/642371360.html"
+                },
+                {
+                    "channelId": "wechat",
+                    "channelName": "微信文章",
+                    "ranking": "24h 热文榜",
+                    "rank": 15,
+                    "title": "为什么小米，能‎轻松拿到高通最先进的芯片？答案很简单，因为小米不构成威胁。华为呢？芯片被卡、手机断供，到现在还用自研麒麟苦苦支撑",
+                    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzY0NzcwNQ==&mid=2247507498&idx=2&sn=56476492e28cce705051f500fcf0ef4b#rd"
+                }
+            ]
         }
     ],
     "flow": {
         "times": [
             "00:23",
-            "00:24"
+            "00:24",
+            "00:30"
         ],
         "rows": [
             {
