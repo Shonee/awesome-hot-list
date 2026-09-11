@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-11 21:21:36
+> 更新时间：2026-09-11 22:22:33
 
 ## 热门文章
 
@@ -14,8 +14,8 @@
 8. [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987)
 9. [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023)
 10. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
-11. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
-12. [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171)
+11. [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171)
+12. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
 13. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
 14. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
 15. [推荐一个比ES快5倍的搜索引擎](https://juejin.cn/post/7683722642070896690)
@@ -26,8 +26,8 @@
 20. [你的 Vue3 项目也能有钉钉同款审批流设计器：npm 装包，10 分钟画出第一条审批流](https://juejin.cn/post/7683434989240795162)
 21. [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247)
 22. [2026 年 9 月，整个 npm 生态的「心脏」都被 Rust 换了](https://juejin.cn/post/7682986422114893867)
-23. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
-24. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
+23. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
+24. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
 25. [Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？](https://juejin.cn/post/7683816340574617663)
 26. [不要先问“用哪个 AI”，先盘点你的开发工作流](https://juejin.cn/post/7683020866855632906)
 27. [10 MB 的 Postman 替代品，启动不到 1 秒](https://juejin.cn/post/7683086663756693554)
@@ -47,10 +47,10 @@
 41. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
 42. [用 Node.js 复刻 Codex Astra 的终端星光](https://juejin.cn/post/7683539970712830006)
 43. [Android 架构演进：从生命周期事件到结构化任务](https://juejin.cn/post/7683086663757529138)
-44. [AI 改祖传模块后，代码评审总绕不开两个问题](https://juejin.cn/post/7683724457529294854)
-45. [《Agent 评测白皮书》系列01：Agent 评测全览](https://juejin.cn/post/7683448371321274404)
-46. [2026最新款Electron41+React19+AntDesign电脑端后台管理系统Exe](https://juejin.cn/post/7683443642280017935)
-47. [丝滑的奥秘：Reanimated 3 动画引擎与手势处理（Gesture Handler）](https://juejin.cn/post/7683433296757194806)
-48. [AI Coding 提效 2 倍是真的吗？到底怎么衡量效果](https://juejin.cn/post/7683073875694321710)
-49. [Go 开发者也有自己的轻量工作流引擎了：go get 一行，5 分钟跑通一条审批流](https://juejin.cn/post/7683025447917027374)
-50. [Java + DDD，1:1 复刻 Deepseek Harness 项目](https://juejin.cn/post/7683013257235955731)
+44. [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468)
+45. [AI 改祖传模块后，代码评审总绕不开两个问题](https://juejin.cn/post/7683724457529294854)
+46. [《Agent 评测白皮书》系列01：Agent 评测全览](https://juejin.cn/post/7683448371321274404)
+47. [2026最新款Electron41+React19+AntDesign电脑端后台管理系统Exe](https://juejin.cn/post/7683443642280017935)
+48. [丝滑的奥秘：Reanimated 3 动画引擎与手势处理（Gesture Handler）](https://juejin.cn/post/7683433296757194806)
+49. [AI Coding 提效 2 倍是真的吗？到底怎么衡量效果](https://juejin.cn/post/7683073875694321710)
+50. [Go 开发者也有自己的轻量工作流引擎了：go get 一行，5 分钟跑通一条审批流](https://juejin.cn/post/7683025447917027374)
