@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 00:24:40
+> 更新时间：2026-09-12 01:19:19
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
-2. [Hacker News with reduced priority for AI driven content](https://sprinklz.io/public/pdwt4dve5uai)
-3. [Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
-4. [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
-5. [HuggingFace: Security.txt](https://huggingface.co/security.txt)
+1. [Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/)
+2. [Feeling Sad about AI](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
+3. [Triple H Writes Anniversary Story for Spider-Man #1000](https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000)
+4. [Show HN: Hacker News, Without AI](https://www.unslop.news/)
+5. [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
 
 ## 阮一峰网络日志
 
