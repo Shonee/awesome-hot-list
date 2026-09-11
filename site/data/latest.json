@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-11 20:32:18",
+    "generatedAt": "2026-09-11 20:39:42",
     "channels": [
         {
             "schemaVersion": 1,
@@ -8567,7 +8567,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-11 16:36:27",
+            "fetchedAt": "2026-09-11 20:39:42",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -8580,93 +8580,66 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "Anthropic 点名多家中国公司蒸馏 Claude，包括 Qwen, kimi, deepseek, glm, xiaomi, Minimax",
-                            "url": "https://www.v2ex.com/t/1241298",
-                            "hot": 215,
-                            "description": "程序员",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 12:25:53"
-                        },
-                        {
-                            "rank": 2,
                             "title": "筷子不能竖着插在饭里是全国性的常识吗？",
                             "url": "https://www.v2ex.com/t/1241327",
-                            "hot": 107,
+                            "hot": 154,
                             "description": "问与答",
                             "imageUrl": "",
                             "publishedAt": "2026-09-11 14:29:24"
                         },
                         {
-                            "rank": 3,
+                            "rank": 2,
                             "title": "把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配",
                             "url": "https://www.v2ex.com/t/1241226",
-                            "hot": 88,
+                            "hot": 98,
                             "description": "分享创造",
                             "imageUrl": "",
                             "publishedAt": "2026-09-11 09:58:56"
                         },
                         {
-                            "rank": 4,
+                            "rank": 3,
                             "title": "大家会跟同事或者领导说自己用 Ai 完成需求吗？",
                             "url": "https://www.v2ex.com/t/1241204",
-                            "hot": 86,
+                            "hot": 92,
                             "description": "职场话题",
                             "imageUrl": "",
                             "publishedAt": "2026-09-11 12:04:11"
                         },
                         {
-                            "rank": 5,
+                            "rank": 4,
                             "title": "躺平是不是版本答案？",
                             "url": "https://www.v2ex.com/t/1241205",
-                            "hot": 70,
+                            "hot": 79,
                             "description": "生活",
                             "imageUrl": "",
                             "publishedAt": "2026-09-11 09:05:40"
                         },
                         {
-                            "rank": 6,
-                            "title": "一直有个疑问，感觉用 cursor 的人很少",
-                            "url": "https://www.v2ex.com/t/1241125",
-                            "hot": 65,
-                            "description": "Cursor",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 12:07:15"
-                        },
-                        {
-                            "rank": 7,
+                            "rank": 5,
                             "title": "最近几月大家用 ai 开发之后，还会加班吗？",
                             "url": "https://www.v2ex.com/t/1241211",
-                            "hot": 48,
+                            "hot": 53,
                             "description": "职场话题",
                             "imageUrl": "",
                             "publishedAt": "2026-09-11 09:20:58"
                         },
                         {
-                            "rank": 8,
-                            "title": "iPhone Duo 的销量关键就在销量上",
-                            "url": "https://www.v2ex.com/t/1241092",
-                            "hot": 45,
-                            "description": "Apple",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-10 16:55:33"
-                        },
-                        {
-                            "rank": 9,
+                            "rank": 6,
                             "title": "更新下广州前端工程师这两个礼拜找工作的情况",
                             "url": "https://www.v2ex.com/t/1241146",
-                            "hot": 44,
+                            "hot": 48,
                             "description": "求职",
                             "imageUrl": "",
                             "publishedAt": "2026-09-10 20:44:06"
                         },
                         {
-                            "rank": 10,
-                            "title": "没有人讨论一下微信的漏洞吗？",
-                            "url": "https://www.v2ex.com/t/1241245",
-                            "hot": 40,
-                            "description": "程序员",
+                            "rank": 7,
+                            "title": "为一个弱智的问题 大家怎么插入的图片",
+                            "url": "https://www.v2ex.com/t/1241328",
+                            "hot": 47,
+                            "description": "问与答",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-11 10:29:48"
+                            "publishedAt": "2026-09-11 14:32:02"
                         }
                     ]
                 }

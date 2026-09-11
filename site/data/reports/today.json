@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-11",
-    "generatedAt": "2026-09-11 20:32:58",
-    "summary": "丁俊晖晋级英格兰公开赛8强成为本期综合热度最高的话题，青岛货轮火灾25人遇难紧随其后。当前覆盖 22 个有效渠道，共形成 717 个榜单时间切片；发现 48 个跨渠道重复热点。",
+    "generatedAt": "2026-09-11 20:40:30",
+    "summary": "丁俊晖晋级英格兰公开赛8强成为本期综合热度最高的话题，青岛货轮火灾25人遇难紧随其后。当前覆盖 22 个有效渠道，共形成 718 个榜单时间切片；发现 48 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3674,
+        "deduplicated": 3675,
         "resonance": 48,
         "maxRise": 66,
-        "slices": 717,
+        "slices": 718,
         "coverage": 96
     },
     "topTopics": [
@@ -731,9 +731,256 @@
             ]
         },
         {
+            "word": "问题",
+            "weight": 51,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 3,
+                    "title": "捉奸变藏尸？！开局够抓马，反转够吸睛，全程无尿点！年度高分韩剧《现在不是出轨的问题》上",
+                    "url": "https://b23.tv/BV1sFYb6rEjD"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 74,
+                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
+                    "url": "https://b23.tv/BV1SdYn6cEoq"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 46,
+                    "title": "我们为什么要削藩？谁又是藩？分配问题怎么解决，结果能成功吗？",
+                    "url": "https://b23.tv/BV1xJYT6EEYc"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 7,
+                    "title": "刷博有问题随手问智搜",
+                    "url": "https://s.weibo.com/weibo?q=%E5%88%B7%E5%8D%9A%E6%9C%89%E9%97%AE%E9%A2%98%E9%9A%8F%E6%89%8B%E9%97%AE%E6%99%BA%E6%90%9C&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 4,
+                    "title": "女子旧手机号二次放号后支付宝被哈啰盗刷 6551 元，平台仅补 200 元，这合理吗？暴露了哪些问题？",
+                    "url": "https://www.zhihu.com/question/2081001656066504241"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 27,
+                    "title": "景德镇学院通报强制大四生搬宿舍为新生腾床位，已处理相关人员，具体发生了什么？学校管理存在哪些问题？",
+                    "url": "https://www.zhihu.com/question/2081163303829628395"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 43,
+                    "title": "AI 改祖传模块后，代码评审总绕不开两个问题",
+                    "url": "https://juejin.cn/post/7683724457529294854"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 23,
+                    "title": "上海人社局解读“退休”三个高频问题",
+                    "url": "https://www.toutiao.com/trending/7683489381986385929/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683489381986385929%22%2C%22hot_board_impr_id%22%3A%2220260911152341D92152E63941E9DDFAA7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%A4%BE%E5%B1%80%E8%A7%A3%E8%AF%BB%E2%80%9C%E9%80%80%E4%BC%91%E2%80%9D%E4%B8%89%E4%B8%AA%E9%AB%98%E9%A2%91%E9%97%AE%E9%A2%98%22%7D&rank=&style_id=40132&topic_id=7683489381986385929"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 45,
+                    "title": "上海人社局解读“退休”三个高频问题",
+                    "url": "https://www.toutiao.com/trending/7683489381986385929/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683489381986385929%22%2C%22hot_board_impr_id%22%3A%2220260911182150EB90179E0DA1882B9A6D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%A4%BE%E5%B1%80%E8%A7%A3%E8%AF%BB%E2%80%9C%E9%80%80%E4%BC%91%E2%80%9D%E4%B8%89%E4%B8%AA%E9%AB%98%E9%A2%91%E9%97%AE%E9%A2%98%22%7D&rank=&style_id=40132&topic_id=7683489381986385929"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 42,
+                    "title": "【官方双语】苹果不学好  iPhone Duo有个大问题 - 苹果发布会2026#linus谈科技",
+                    "url": "https://www.acfun.cn/v/ac48839822"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 5,
+                    "title": "全球最大的网站证书颁发机构 Let's Encrypt 出现服务问题",
+                    "url": "https://www.ithome.com/1/001/126.htm"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "微信鸿蒙版 App 获 8.0.21.42 正式版升级，修复了一些已知问题",
+                    "url": "https://www.ithome.com/1/001/216.htm"
+                },
+                {
+                    "channelId": "douban",
+                    "channelName": "豆瓣",
+                    "ranking": "小组精选",
+                    "rank": 14,
+                    "title": "热心帮同事解决臭味问题，结果发现臭味源自我",
+                    "url": "https://www.douban.com/group/topic/499253819/?_spm_id=MTgzMzU1ODI3"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "虎扑热榜",
+                    "rank": 24,
+                    "title": "火记：阿门的投篮问题不会立马改善",
+                    "url": "https://m.hupu.com/hot?tagId=156616"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 58,
+                    "title": "80后90后总是担心养老金问题，算不算杞人忧天？",
+                    "url": "https://bbs.hupu.com/642356842.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 26,
+                    "title": "一文看懂IFA2026硬科技新趋势：这10个问题，比「AI落地」要具体得多",
+                    "url": "https://www.36kr.com/p/3976381527742338"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 22,
+                    "title": "人民财讯9月10日电，为进一步激发民间投资活力，9月10日国家发展改革委民营局主要负责同志主持召开有关民营企业和行业协会座谈会，面对面听取企业在投资过程中存在的问题、障碍及意见建议。 ...",
+                    "url": "http://news.10jqka.com.cn/20260910/c679799230.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 26,
+                    "title": "为进一步激发民间投资活力，9月10日国家发展改革委民营局主要负责同志主持召开有关民营企业和行业协会座谈会，面对面听取企业在投资过程中存在的问题、障碍及意见建议。围绕民营企业投资意 ...",
+                    "url": "http://news.10jqka.com.cn/20260910/c679799155.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 3,
+                    "title": "国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》",
+                    "url": "http://news.10jqka.com.cn/20260911/c679799837.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 4,
+                    "title": "新华社北京9月10日电日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称《通知》)，对依法治理中小企业回款难问题作出部署。  ...",
+                    "url": "http://news.10jqka.com.cn/20260911/c679799837.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 10,
+                    "title": "本报讯(记者杜雨萌)9月10日，国家发展改革委民营局主要负责同志主持召开有关民营企业和行业协会座谈会，面对面听取企业在投资过程中存在的问题、障碍及意见建议。 ...",
+                    "url": "http://news.10jqka.com.cn/20260911/c679799825.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 1,
+                    "title": "国办发文加强中小企业回款难问题治理 发挥央企国企及时支付表率作用，中央企业对中小企业全部采用现金支付",
+                    "url": "http://news.10jqka.com.cn/20260911/c679799916.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 2,
+                    "title": "据新华社电日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称《通知》)，对依法治理中小企业回款难问题作出部署。一是健全行业账款支付规则。各行业主管部 ...",
+                    "url": "http://news.10jqka.com.cn/20260911/c679799916.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 10,
+                    "title": "9月10日，国家发展改革委、市场监管总局发布消息，已于近日联合印发《关于重要工业品低价无序竞争成本核算有关事项的通知》(以下简称《通知》)，聚焦低价无序竞争问题突出的重要工业品生产 ...",
+                    "url": "http://news.10jqka.com.cn/20260911/c679799910.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 1,
+                    "title": "国办印发通知 加强中小企业 回款难问题治理",
+                    "url": "http://news.10jqka.com.cn/20260911/c679800112.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 2,
+                    "title": "● 据新华社北京9月10日电日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称《通知》)，对依法治理中小企业回款难问题作出部署。一是健全行业账款支付规则 ...",
+                    "url": "http://news.10jqka.com.cn/20260911/c679800112.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 6,
+                    "title": "新华社电日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》，对依法治理中小企业回款难问题作出部署。一是健全行业账款支付规则。各行业主管部门将及时支付账款要求 ...",
+                    "url": "http://news.10jqka.com.cn/20260911/c679801676.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 9,
+                    "title": "Opera One 承认原垂直标签布局问题，“新建标签页”按钮现改为置顶",
+                    "url": "http://news.10jqka.com.cn/20260911/c679820203.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 20,
+                    "title": "中小企业回款难，不是简单的财务结算问题，而是长期影响市场微循环、制约实体经济活力的结构性痛点。9月10日，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称 ...",
+                    "url": "http://news.10jqka.com.cn/20260911/c679819696.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 25,
+                    "title": "据媒体报道，记者卧底长沙慧美营销策划有限公司后，将涉嫌虚假招聘、夸大产品功效等问题反映给监管部门。9月3日，多部门前往该公司两处办公场所检查，目前相关情况仍在核查。公司负责人称其 ...",
+                    "url": "http://news.10jqka.com.cn/20260911/c679822395.shtml"
+                }
+            ]
+        },
+        {
             "word": "iPhone",
             "weight": 92,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -980,7 +1227,7 @@
         {
             "word": "苹果",
             "weight": 83,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1227,7 +1474,7 @@
         {
             "word": "Duo",
             "weight": 59,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1468,253 +1715,6 @@
                     "rank": 28,
                     "title": "iPhone Duo 适配 Drag and Drop 实现方案",
                     "url": "https://juejin.cn/post/7683511159950540835"
-                }
-            ]
-        },
-        {
-            "word": "问题",
-            "weight": 50,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 3,
-                    "title": "捉奸变藏尸？！开局够抓马，反转够吸睛，全程无尿点！年度高分韩剧《现在不是出轨的问题》上",
-                    "url": "https://b23.tv/BV1sFYb6rEjD"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 74,
-                    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
-                    "url": "https://b23.tv/BV1SdYn6cEoq"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 46,
-                    "title": "我们为什么要削藩？谁又是藩？分配问题怎么解决，结果能成功吗？",
-                    "url": "https://b23.tv/BV1xJYT6EEYc"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 7,
-                    "title": "刷博有问题随手问智搜",
-                    "url": "https://s.weibo.com/weibo?q=%E5%88%B7%E5%8D%9A%E6%9C%89%E9%97%AE%E9%A2%98%E9%9A%8F%E6%89%8B%E9%97%AE%E6%99%BA%E6%90%9C&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 4,
-                    "title": "女子旧手机号二次放号后支付宝被哈啰盗刷 6551 元，平台仅补 200 元，这合理吗？暴露了哪些问题？",
-                    "url": "https://www.zhihu.com/question/2081001656066504241"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 27,
-                    "title": "景德镇学院通报强制大四生搬宿舍为新生腾床位，已处理相关人员，具体发生了什么？学校管理存在哪些问题？",
-                    "url": "https://www.zhihu.com/question/2081163303829628395"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 43,
-                    "title": "AI 改祖传模块后，代码评审总绕不开两个问题",
-                    "url": "https://juejin.cn/post/7683724457529294854"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 23,
-                    "title": "上海人社局解读“退休”三个高频问题",
-                    "url": "https://www.toutiao.com/trending/7683489381986385929/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683489381986385929%22%2C%22hot_board_impr_id%22%3A%2220260911152341D92152E63941E9DDFAA7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%A4%BE%E5%B1%80%E8%A7%A3%E8%AF%BB%E2%80%9C%E9%80%80%E4%BC%91%E2%80%9D%E4%B8%89%E4%B8%AA%E9%AB%98%E9%A2%91%E9%97%AE%E9%A2%98%22%7D&rank=&style_id=40132&topic_id=7683489381986385929"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 45,
-                    "title": "上海人社局解读“退休”三个高频问题",
-                    "url": "https://www.toutiao.com/trending/7683489381986385929/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683489381986385929%22%2C%22hot_board_impr_id%22%3A%2220260911182150EB90179E0DA1882B9A6D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%A4%BE%E5%B1%80%E8%A7%A3%E8%AF%BB%E2%80%9C%E9%80%80%E4%BC%91%E2%80%9D%E4%B8%89%E4%B8%AA%E9%AB%98%E9%A2%91%E9%97%AE%E9%A2%98%22%7D&rank=&style_id=40132&topic_id=7683489381986385929"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 42,
-                    "title": "【官方双语】苹果不学好  iPhone Duo有个大问题 - 苹果发布会2026#linus谈科技",
-                    "url": "https://www.acfun.cn/v/ac48839822"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 5,
-                    "title": "全球最大的网站证书颁发机构 Let's Encrypt 出现服务问题",
-                    "url": "https://www.ithome.com/1/001/126.htm"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "微信鸿蒙版 App 获 8.0.21.42 正式版升级，修复了一些已知问题",
-                    "url": "https://www.ithome.com/1/001/216.htm"
-                },
-                {
-                    "channelId": "douban",
-                    "channelName": "豆瓣",
-                    "ranking": "小组精选",
-                    "rank": 14,
-                    "title": "热心帮同事解决臭味问题，结果发现臭味源自我",
-                    "url": "https://www.douban.com/group/topic/499253819/?_spm_id=MTgzMzU1ODI3"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 24,
-                    "title": "火记：阿门的投篮问题不会立马改善",
-                    "url": "https://m.hupu.com/hot?tagId=156616"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 58,
-                    "title": "80后90后总是担心养老金问题，算不算杞人忧天？",
-                    "url": "https://bbs.hupu.com/642356842.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 26,
-                    "title": "一文看懂IFA2026硬科技新趋势：这10个问题，比「AI落地」要具体得多",
-                    "url": "https://www.36kr.com/p/3976381527742338"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 22,
-                    "title": "人民财讯9月10日电，为进一步激发民间投资活力，9月10日国家发展改革委民营局主要负责同志主持召开有关民营企业和行业协会座谈会，面对面听取企业在投资过程中存在的问题、障碍及意见建议。 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679799230.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 26,
-                    "title": "为进一步激发民间投资活力，9月10日国家发展改革委民营局主要负责同志主持召开有关民营企业和行业协会座谈会，面对面听取企业在投资过程中存在的问题、障碍及意见建议。围绕民营企业投资意 ...",
-                    "url": "http://news.10jqka.com.cn/20260910/c679799155.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 3,
-                    "title": "国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》",
-                    "url": "http://news.10jqka.com.cn/20260911/c679799837.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 4,
-                    "title": "新华社北京9月10日电日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称《通知》)，对依法治理中小企业回款难问题作出部署。  ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679799837.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 10,
-                    "title": "本报讯(记者杜雨萌)9月10日，国家发展改革委民营局主要负责同志主持召开有关民营企业和行业协会座谈会，面对面听取企业在投资过程中存在的问题、障碍及意见建议。 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679799825.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 1,
-                    "title": "国办发文加强中小企业回款难问题治理 发挥央企国企及时支付表率作用，中央企业对中小企业全部采用现金支付",
-                    "url": "http://news.10jqka.com.cn/20260911/c679799916.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "据新华社电日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称《通知》)，对依法治理中小企业回款难问题作出部署。一是健全行业账款支付规则。各行业主管部 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679799916.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 10,
-                    "title": "9月10日，国家发展改革委、市场监管总局发布消息，已于近日联合印发《关于重要工业品低价无序竞争成本核算有关事项的通知》(以下简称《通知》)，聚焦低价无序竞争问题突出的重要工业品生产 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679799910.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 1,
-                    "title": "国办印发通知 加强中小企业 回款难问题治理",
-                    "url": "http://news.10jqka.com.cn/20260911/c679800112.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "● 据新华社北京9月10日电日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称《通知》)，对依法治理中小企业回款难问题作出部署。一是健全行业账款支付规则 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679800112.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "新华社电日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》，对依法治理中小企业回款难问题作出部署。一是健全行业账款支付规则。各行业主管部门将及时支付账款要求 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679801676.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 9,
-                    "title": "Opera One 承认原垂直标签布局问题，“新建标签页”按钮现改为置顶",
-                    "url": "http://news.10jqka.com.cn/20260911/c679820203.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 20,
-                    "title": "中小企业回款难，不是简单的财务结算问题，而是长期影响市场微循环、制约实体经济活力的结构性痛点。9月10日，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679819696.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 25,
-                    "title": "据媒体报道，记者卧底长沙慧美营销策划有限公司后，将涉嫌虚假招聘、夸大产品功效等问题反映给监管部门。9月3日，多部门前往该公司两处办公场所检查，目前相关情况仍在核查。公司负责人称其 ...",
-                    "url": "http://news.10jqka.com.cn/20260911/c679822395.shtml"
                 }
             ]
         },
@@ -7687,7 +7687,7 @@
         },
         {
             "word": "大家",
-            "weight": 31,
+            "weight": 32,
             "tone": "gold",
             "hits": [
                 {
@@ -7793,6 +7793,14 @@
                     "rank": 7,
                     "title": "最近几月大家用 ai 开发之后，还会加班吗？",
                     "url": "https://www.v2ex.com/t/1241211"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "为一个弱智的问题 大家怎么插入的图片",
+                    "url": "https://www.v2ex.com/t/1241328"
                 },
                 {
                     "channelId": "nodeseek",
@@ -7921,14 +7929,6 @@
                     "rank": 18,
                     "title": "视网膜脱落了，给大家说说相关的",
                     "url": "https://www.nodeseek.com/post-923897-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 6,
-                    "title": "退坑出点小鸡  请大家来吃鸡腿",
-                    "url": "https://www.nodeseek.com/post-923919-1"
                 }
             ]
         },
@@ -9808,9 +9808,9 @@
         "times": [
             "00:21",
             "04:27",
-            "10:30",
-            "15:24",
-            "20:32"
+            "11:24",
+            "15:32",
+            "20:39"
         ],
         "rows": [
             {
