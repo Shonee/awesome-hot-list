@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 16:29:27
+> 更新时间：2026-09-11 17:24:08
 
 ## 少数派
 
@@ -12,27 +12,27 @@
 
 ## 爱范儿
 
-1. [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配](https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池](https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级](https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个](https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配](https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池](https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
-1. [墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济](https://www.qbitai.com/2026/09/487273.html)
-2. [量子位「MEET2027智能未来大会」启动！年度榜单征集进行中](https://www.qbitai.com/2026/09/487176.html)
-3. [3万台无人车之后，这家公司盯上了城市级物理AI](https://www.qbitai.com/2026/09/487163.html)
-4. [OpenAI这是拿千禧年难题当Benchmark刷啊。。。](https://www.qbitai.com/2026/09/487092.html)
-5. [吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞](https://www.qbitai.com/2026/09/487055.html)
+1. [不简单，“吃货快乐榜”也全面AI化了](https://www.qbitai.com/2026/09/487282.html)
+2. [墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济](https://www.qbitai.com/2026/09/487273.html)
+3. [量子位「MEET2027智能未来大会」启动！年度榜单征集进行中](https://www.qbitai.com/2026/09/487176.html)
+4. [3万台无人车之后，这家公司盯上了城市级物理AI](https://www.qbitai.com/2026/09/487163.html)
+5. [OpenAI这是拿千禧年难题当Benchmark刷啊。。。](https://www.qbitai.com/2026/09/487092.html)
 
 ## InfoQ
 
-1. [当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察](https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article)
-2. [Netflix 采用开源 Flink Autoscaler，支撑超 3 万个流式作业](https://www.infoq.cn/article/8JZ9IdSIxo18dcz6pZG6?utm_source=rss&utm_medium=article)
-3. [AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化](https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article)
-4. [vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护](https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article)
-5. [刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话](https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article)
+1. [HashiCorp Packer 1.16 发布，支持机器镜像 SLSA 来源证明生成与核验](https://www.infoq.cn/article/v3VX3eqmROVDJ38rQOh0?utm_source=rss&utm_medium=article)
+2. [当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察](https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article)
+3. [Netflix 采用开源 Flink Autoscaler，支撑超 3 万个流式作业](https://www.infoq.cn/article/8JZ9IdSIxo18dcz6pZG6?utm_source=rss&utm_medium=article)
+4. [AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化](https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article)
+5. [vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护](https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,22 +52,14 @@
 
 ## Hacker News
 
-1. [DeepSeek v4.1 Flash Uncensored](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8)
-2. [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
-3. [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
-4. [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
-5. [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
-
-## AI News
-
-1. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-2. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-3. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-4. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
-5. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+1. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+2. [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
+3. [US diesel hits record $6 a gallon on Iran supply shock](https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b)
+4. [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
+5. [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
 
 ## 阮一峰网络日志
 
-1. [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
-2. [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
+1. [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)
+2. [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)
 3. [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
