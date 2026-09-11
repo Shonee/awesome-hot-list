@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-12 05:17:52
+> 更新时间：2026-09-12 06:19:18
 
 ## 热门文章
 
@@ -14,10 +14,10 @@
 8. [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987)
 9. [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023)
 10. [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171)
-11. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
-12. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
-13. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
-14. [SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理](https://juejin.cn/post/7683830679906287643)
+11. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
+12. [SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理](https://juejin.cn/post/7683830679906287643)
+13. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
+14. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
 15. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
 16. [推荐一个比ES快5倍的搜索引擎](https://juejin.cn/post/7683722642070896690)
 17. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)

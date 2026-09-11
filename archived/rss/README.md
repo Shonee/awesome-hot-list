@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 05:18:32
+> 更新时间：2026-09-12 06:19:59
 
 ## 少数派
 
@@ -44,7 +44,7 @@
 
 ## MIT Technology Review
 
-1. [Roundtables: Will AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
+1. [Roundtables: AI’s apocalypse crisis](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
 2. [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
 3. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 4. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
@@ -53,10 +53,10 @@
 ## Hacker News
 
 1. [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
-2. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
-3. [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
-4. [I spent $220 on Google app ads. 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
-5. [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+2. [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
+3. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+4. [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
+5. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
 
 ## 阮一峰网络日志
 
