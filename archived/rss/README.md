@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 13:21:44
+> 更新时间：2026-09-11 14:35:28
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护](https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article)
-2. [刘震云对话马毅谈AI：我写不出来、想不到的作品，AI模仿不了｜附完整对话](https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article)
-3. [一句话就能下单，商业入口要变了！蚂蚁 CEO 韩歆毅：未来竞争的不只是流量](https://www.infoq.cn/article/EKC1INXeMjIo00JWMQdV?utm_source=rss&utm_medium=article)
-4. [AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同](https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article)
-5. [Azure API Management Standard v2 支持区域冗余](https://www.infoq.cn/article/7c7c4W0KxxjMMMgS5RAC?utm_source=rss&utm_medium=article)
+1. [AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化](https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article)
+2. [vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护](https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article)
+3. [刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话](https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article)
+4. [一句话就能下单，商业入口要变了！蚂蚁 CEO 韩歆毅：未来竞争的不只是流量](https://www.infoq.cn/article/EKC1INXeMjIo00JWMQdV?utm_source=rss&utm_medium=article)
+5. [AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同](https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
-2. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-3. [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
-4. [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)
-5. [Google will buy half the electricity from one of Finland's nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+1. [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+2. [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
+3. [What Comes After Git](https://ersc.io/blog/what-comes-after-git)
+4. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+5. [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
 
 ## AI News
 
