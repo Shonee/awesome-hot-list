@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-11 10:29:59
+> 更新时间：2026-09-11 11:24:55
 
 ## 热门文章
 
@@ -29,8 +29,8 @@
 23. [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023)
 24. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
 25. [Flutter 状态管理基准测评，一个很有趣的观点](https://juejin.cn/post/7682593227544788998)
-26. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
-27. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
+26. [项目中新增给AI制定的代码规范](https://juejin.cn/post/7681913361724620838)
+27. [Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持](https://juejin.cn/post/7683152167263846463)
 28. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
 29. [幻觉率从 4.2% 降到 2% 又退回，GPT-6 Astra 到底在藏什么](https://juejin.cn/post/7682241475045687339)
 30. [推荐一个比ES快5倍的搜索引擎](https://juejin.cn/post/7683722642070896690)
@@ -46,8 +46,8 @@
 40. [让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践](https://juejin.cn/post/7683049897089335336)
 41. [现在回头看，Dart取消宏是无比正确的决定](https://juejin.cn/post/7683027781632294946)
 42. [Kotlin 2.4.20 现已发布，新特性多不多？](https://juejin.cn/post/7682977354633773083)
-43. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
-44. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
+43. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
+44. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
 45. [AndroidKMP之瀑布流实现](https://juejin.cn/post/7682663370555195446)
 46. [10 MB 的 Postman 替代品，启动不到 1 秒](https://juejin.cn/post/7683086663756693554)
 47. [同一个 AI，为啥有人用出花，有人用出屎？——聊聊上下文工程](https://juejin.cn/post/7683069801370386470)

@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-11 10:30:09
+> 更新时间：2026-09-11 11:25:04
 
 ## 最新资讯
 
-1. [OPPO Find N6 及 X9 系列、一加 15、真我 GT8 Pro 等机型开启 ColorOS 17 内测招募](https://www.ithome.com/1/001/131.htm)
-2. [苹果悄悄修改旧款 Apple Watch Series 11 官网参数，以匹配新款 Series 12 机型屏幕数据](https://www.ithome.com/1/001/130.htm)
-3. [8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖](https://www.ithome.com/1/001/129.htm)
-4. [苹果详解 Apple Watch 的 Siri Recap：全天谈话划重点、AI 摘要 7 天自动删除](https://www.ithome.com/1/001/127.htm)
-5. [全球最大的网站证书颁发机构 Let's Encrypt 出现服务问题](https://www.ithome.com/1/001/126.htm)
+1. [让机器狗替你买东西：支付宝宣布首推“AI 付 · 具身智能”，网友戏称“狗腿付”](https://www.ithome.com/1/001/145.htm)
+2. [索尼 SIE 在集体诉讼中称“消费者并非拥有数字游戏所有权”，玩家列举官方先前措辞清单“打脸”](https://www.ithome.com/1/001/144.htm)
+3. [首批 8 家华境汽车专营店开业：高端门店标准，不挂五菱标](https://www.ithome.com/1/001/143.htm)
+4. [苹果 iPhone 18 Pro/Max 升级电影效果模式，支持 4K 杜比视界 60FPS](https://www.ithome.com/1/001/142.htm)
+5. [Nothing Headphone（1）Pro 头戴式耳机曝光：三单元音频系统，9 月 29 日上市](https://www.ithome.com/1/001/141.htm)
