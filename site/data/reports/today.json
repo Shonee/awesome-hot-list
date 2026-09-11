@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-11",
-    "generatedAt": "2026-09-11 22:24:14",
-    "summary": "DeepSeek-V4-Flash能做什么成为本期综合热度最高的话题，丁俊晖晋级英格兰公开赛8强紧随其后。当前覆盖 22 个有效渠道，共形成 781 个榜单时间切片；发现 51 个跨渠道重复热点。",
+    "generatedAt": "2026-09-11 22:31:33",
+    "summary": "DeepSeek-V4-Flash能做什么成为本期综合热度最高的话题，丁俊晖晋级英格兰公开赛8强紧随其后。当前覆盖 22 个有效渠道，共形成 789 个榜单时间切片；发现 51 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3947,
+        "deduplicated": 3976,
         "resonance": 51,
         "maxRise": 67,
-        "slices": 781,
+        "slices": 789,
         "coverage": 96
     },
     "topTopics": [
@@ -509,7 +509,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 282,
+            "weight": 283,
             "tone": "hot",
             "hits": [
                 {
@@ -1003,7 +1003,7 @@
         },
         {
             "word": "Pro",
-            "weight": 133,
+            "weight": 134,
             "tone": "gold",
             "hits": [
                 {
@@ -1207,6 +1207,14 @@
                     "url": "https://github.com/asgeirtj/system_prompts_leaks"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 22,
+                    "title": "production-agentic-rag-course",
+                    "url": "https://github.com/jamwithai/production-agentic-rag-course"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -1237,20 +1245,12 @@
                     "rank": 27,
                     "title": "苹果iPhone 18 Pro/Max 售价",
                     "url": "https://www.toutiao.com/trending/7683675010896236059/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683675010896236059%22%2C%22hot_board_impr_id%22%3A%2220260911022420508648FCD6AEDCB34F30%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7%22%7D&rank=&style_id=40132&topic_id=7683675010896236059"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 27,
-                    "title": "苹果iPhone 18 Pro/Max 售价",
-                    "url": "https://www.toutiao.com/trending/7683675010896236059/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683675010896236059%22%2C%22hot_board_impr_id%22%3A%222026091103155531BD6B89BF307D65768F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7%22%7D&rank=&style_id=40132&topic_id=7683675010896236059"
                 }
             ]
         },
         {
             "word": "pro",
-            "weight": 133,
+            "weight": 134,
             "tone": "",
             "hits": [
                 {
@@ -1454,6 +1454,14 @@
                     "url": "https://github.com/asgeirtj/system_prompts_leaks"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 22,
+                    "title": "production-agentic-rag-course",
+                    "url": "https://github.com/jamwithai/production-agentic-rag-course"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -1484,14 +1492,6 @@
                     "rank": 27,
                     "title": "苹果iPhone 18 Pro/Max 售价",
                     "url": "https://www.toutiao.com/trending/7683675010896236059/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683675010896236059%22%2C%22hot_board_impr_id%22%3A%2220260911022420508648FCD6AEDCB34F30%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7%22%7D&rank=&style_id=40132&topic_id=7683675010896236059"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 27,
-                    "title": "苹果iPhone 18 Pro/Max 售价",
-                    "url": "https://www.toutiao.com/trending/7683675010896236059/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227683675010896236059%22%2C%22hot_board_impr_id%22%3A%222026091103155531BD6B89BF307D65768F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7%22%7D&rank=&style_id=40132&topic_id=7683675010896236059"
                 }
             ]
         },
@@ -9825,8 +9825,8 @@
             "00:21",
             "05:16",
             "12:25",
-            "16:36",
-            "22:23"
+            "17:23",
+            "22:30"
         ],
         "rows": [
             {
