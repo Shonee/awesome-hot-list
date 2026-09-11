@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-11 01:26:33
+> 更新时间：2026-09-11 09:01:03
 
 ## 每日趋势
 
@@ -64,13 +64,14 @@
 14. [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 15. [modular](https://github.com/modular/modular)
 16. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-17. [vphone-cli](https://github.com/Lakr233/vphone-cli)
-18. [public-apis](https://github.com/public-apis/public-apis)
-19. [needle](https://github.com/cactus-compute/needle)
-20. [maka](https://github.com/apache/maka)
-21. [llmfit](https://github.com/AlexsJones/llmfit)
-22. [i-have-adhd](https://github.com/ayghri/i-have-adhd)
-23. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+17. [ai-memory](https://github.com/akitaonrails/ai-memory)
+18. [vphone-cli](https://github.com/Lakr233/vphone-cli)
+19. [public-apis](https://github.com/public-apis/public-apis)
+20. [needle](https://github.com/cactus-compute/needle)
+21. [maka](https://github.com/apache/maka)
+22. [llmfit](https://github.com/AlexsJones/llmfit)
+23. [i-have-adhd](https://github.com/ayghri/i-have-adhd)
+24. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 ## Java
 
@@ -125,21 +126,23 @@
 
 1. [WeKnora](https://github.com/Tencent/WeKnora)
 2. [ollama](https://github.com/ollama/ollama)
-3. [new-api](https://github.com/QuantumNous/new-api)
-4. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
-5. [pentagi](https://github.com/vxcontrol/pentagi)
-6. [caveman](https://github.com/JuliusBrussee/caveman)
-7. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-8. [netbird](https://github.com/netbirdio/netbird)
-9. [bifrost](https://github.com/maximhq/bifrost)
-10. [google-api-go-client](https://github.com/googleapis/google-api-go-client)
-11. [LocalAI](https://github.com/mudler/LocalAI)
-12. [cilium](https://github.com/cilium/cilium)
-13. [rclone](https://github.com/rclone/rclone)
-14. [Xray-core](https://github.com/XTLS/Xray-core)
-15. [lago](https://github.com/getlago/lago)
-16. [engram](https://github.com/Gentleman-Programming/engram)
-17. [seaweedfs](https://github.com/seaweedfs/seaweedfs)
+3. [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
+4. [new-api](https://github.com/QuantumNous/new-api)
+5. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
+6. [pentagi](https://github.com/vxcontrol/pentagi)
+7. [caveman](https://github.com/JuliusBrussee/caveman)
+8. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
+9. [netbird](https://github.com/netbirdio/netbird)
+10. [bifrost](https://github.com/maximhq/bifrost)
+11. [google-api-go-client](https://github.com/googleapis/google-api-go-client)
+12. [LocalAI](https://github.com/mudler/LocalAI)
+13. [cilium](https://github.com/cilium/cilium)
+14. [dozzle](https://github.com/amir20/dozzle)
+15. [rclone](https://github.com/rclone/rclone)
+16. [Xray-core](https://github.com/XTLS/Xray-core)
+17. [lago](https://github.com/getlago/lago)
+18. [engram](https://github.com/Gentleman-Programming/engram)
+19. [seaweedfs](https://github.com/seaweedfs/seaweedfs)
 
 ## HTML
 

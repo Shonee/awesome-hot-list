@@ -1,15 +1,14 @@
 # V2EX热榜
 
-> 更新时间：2026-09-11 04:27:27
+> 更新时间：2026-09-11 09:01:06
 
 ## 热门主题
 
-1. [iPhone Duo 并没有多惊艳](https://www.v2ex.com/t/1240866)
-2. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)
-3. [现在教师节收礼已经这么明目张胆了吗](https://www.v2ex.com/t/1240939)
-4. [东京夜生活-脱衣舞秀初体验](https://www.v2ex.com/t/1240875)
-5. [openai，我 qnmd！](https://www.v2ex.com/t/1241024)
-6. [油皮有没有性价比高的洗面奶和爽肤水推荐？](https://www.v2ex.com/t/1240880)
-7. [[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！](https://www.v2ex.com/t/1241018)
-8. [头大，到底要怎么宣传自己的产品啊](https://www.v2ex.com/t/1240867)
-9. [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)
+1. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)
+2. [现在教师节收礼已经这么明目张胆了吗](https://www.v2ex.com/t/1240939)
+3. [[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！](https://www.v2ex.com/t/1241018)
+4. [油皮有没有性价比高的洗面奶和爽肤水推荐？](https://www.v2ex.com/t/1240880)
+5. [AirPods 5 应该算是等等党胜利的一集吧，音质/降噪/续航提升，价格下降（主动降噪）](https://www.v2ex.com/t/1240959)
+6. [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)
+7. [如何培养一个爱好](https://www.v2ex.com/t/1240883)
+8. [程序员未来会怎么样? 我们的护城河感觉已经干涸了](https://www.v2ex.com/t/1240910)
