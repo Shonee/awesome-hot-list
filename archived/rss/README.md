@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 12:26:11
+> 更新时间：2026-09-11 13:21:44
 
 ## 少数派
 
-1. [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
-2. [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
-3. [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
-4. [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
-5. [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
+1. [新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
+2. [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
+3. [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
+4. [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
+5. [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
 
 ## 爱范儿
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [Azure API Management Standard v2 支持区域冗余](https://www.infoq.cn/article/7c7c4W0KxxjMMMgS5RAC?utm_source=rss&utm_medium=article)
-2. [端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海](https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ?utm_source=rss&utm_medium=article)
-3. [从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？](https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu?utm_source=rss&utm_medium=article)
-4. [1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站](https://www.infoq.cn/article/DtxID7YaDp3o3QRcOTYj?utm_source=rss&utm_medium=article)
-5. [2026 腾讯云大数据年度精选技术实践指南](https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX?utm_source=rss&utm_medium=article)
+1. [vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护](https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article)
+2. [刘震云对话马毅谈AI：我写不出来、想不到的作品，AI模仿不了｜附完整对话](https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article)
+3. [一句话就能下单，商业入口要变了！蚂蚁 CEO 韩歆毅：未来竞争的不只是流量](https://www.infoq.cn/article/EKC1INXeMjIo00JWMQdV?utm_source=rss&utm_medium=article)
+4. [AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同](https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article)
+5. [Azure API Management Standard v2 支持区域冗余](https://www.infoq.cn/article/7c7c4W0KxxjMMMgS5RAC?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
+1. [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
 2. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
 3. [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
-4. [Google will buy half the electricity from one of Finland's nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
-5. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+4. [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)
+5. [Google will buy half the electricity from one of Finland's nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
 
 ## AI News
 
