@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-11 08:53:12
+> 更新时间：2026-09-11 09:28:33
 
 ## 热门文章
 
@@ -19,9 +19,9 @@
 13. [初创公司的“自己人”，到底能当多久？](https://juejin.cn/post/7682601317680316416)
 14. [为什么市面上的 coding agent 大多数都基于Nodejs？](https://juejin.cn/post/7683481485497188403)
 15. [别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统](https://juejin.cn/post/7682611037704011827)
-16. [为什么不推荐走Agent开发？](https://juejin.cn/post/7683457864929329204)
+16. [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130)
 17. [DeepSeek 明天又降价（涵历史价格对比）](https://juejin.cn/post/7683347149876051977)
-18. [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130)
+18. [为什么不推荐走Agent开发？](https://juejin.cn/post/7683457864929329204)
 19. [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987)
 20. [为啥 Blender 突然火了？](https://juejin.cn/post/7683515498140221478)
 21. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
@@ -43,9 +43,9 @@
 37. [2026 年 9 月，整个 npm 生态的「心脏」都被 Rust 换了](https://juejin.cn/post/7682986422114893867)
 38. [Flutter 双端开发实战：一套代码搞定 iOS + Android，从开发到上架全流程](https://juejin.cn/post/7682948530697207862)
 39. [Anthropic一次性锁死十年算力，5170亿美元买什么](https://juejin.cn/post/7682593227544936454)
-40. [让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践](https://juejin.cn/post/7683049897089335336)
+40. [不要先问“用哪个 AI”，先盘点你的开发工作流](https://juejin.cn/post/7683020866855632906)
 41. [现在回头看，Dart取消宏是无比正确的决定](https://juejin.cn/post/7683027781632294946)
-42. [不要先问“用哪个 AI”，先盘点你的开发工作流](https://juejin.cn/post/7683020866855632906)
+42. [让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践](https://juejin.cn/post/7683049897089335336)
 43. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
 44. [Kotlin 2.4.20 现已发布，新特性多不多？](https://juejin.cn/post/7682977354633773083)
 45. [AndroidKMP之瀑布流实现](https://juejin.cn/post/7682663370555195446)
