@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 11:25:39
+> 更新时间：2026-09-11 12:26:11
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [3万台无人车之后，这家公司盯上了城市级物理AI](https://www.qbitai.com/2026/09/487163.html)
-2. [OpenAI这是拿千禧年难题当Benchmark刷啊。。。](https://www.qbitai.com/2026/09/487092.html)
-3. [吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞](https://www.qbitai.com/2026/09/487055.html)
-4. [ECCV上，顶尖学者们开始研究如何让AI做生意了](https://www.qbitai.com/2026/09/486934.html)
-5. [全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口](https://www.qbitai.com/2026/09/486900.html)
+1. [量子位「MEET2027智能未来大会」启动！年度榜单征集进行中](https://www.qbitai.com/2026/09/487176.html)
+2. [3万台无人车之后，这家公司盯上了城市级物理AI](https://www.qbitai.com/2026/09/487163.html)
+3. [OpenAI这是拿千禧年难题当Benchmark刷啊。。。](https://www.qbitai.com/2026/09/487092.html)
+4. [吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞](https://www.qbitai.com/2026/09/487055.html)
+5. [ECCV上，顶尖学者们开始研究如何让AI做生意了](https://www.qbitai.com/2026/09/486934.html)
 
 ## InfoQ
 
@@ -52,10 +52,10 @@
 
 ## Hacker News
 
-1. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-2. [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
-3. [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)
-4. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+1. [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
+2. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+3. [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
+4. [Google will buy half the electricity from one of Finland's nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
 5. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
 
 ## AI News

@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-11 11:25:04
+> 更新时间：2026-09-11 12:25:46
 
 ## 最新资讯
 
-1. [让机器狗替你买东西：支付宝宣布首推“AI 付 · 具身智能”，网友戏称“狗腿付”](https://www.ithome.com/1/001/145.htm)
-2. [索尼 SIE 在集体诉讼中称“消费者并非拥有数字游戏所有权”，玩家列举官方先前措辞清单“打脸”](https://www.ithome.com/1/001/144.htm)
-3. [首批 8 家华境汽车专营店开业：高端门店标准，不挂五菱标](https://www.ithome.com/1/001/143.htm)
-4. [苹果 iPhone 18 Pro/Max 升级电影效果模式，支持 4K 杜比视界 60FPS](https://www.ithome.com/1/001/142.htm)
-5. [Nothing Headphone（1）Pro 头戴式耳机曝光：三单元音频系统，9 月 29 日上市](https://www.ithome.com/1/001/141.htm)
+1. [奥尔特曼称 OpenAI 考虑放缓前沿 AI 开发，希望其他公司也能跟进](https://www.ithome.com/1/001/219.htm)
+2. [Windows Server 2025 等用户反馈微软 9 月更新导致远程桌面服务故障](https://www.ithome.com/1/001/217.htm)
+3. [微信鸿蒙版 App 获 8.0.21.42 正式版升级，修复了一些已知问题](https://www.ithome.com/1/001/216.htm)
+4. [机械革命 2026 款翼龙 15 Air 笔记本 R7 H 449 版本发售：搭 24G + 1T + RTX5060 售 13999 元（国补后 9999 元）](https://www.ithome.com/1/001/215.htm)
+5. [索尼 SIE 恐怖游戏《直到黎明 2》开启预购，PSN 港服 278 港币起](https://www.ithome.com/1/001/204.htm)
