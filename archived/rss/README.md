@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 19:20:12
+> 更新时间：2026-09-11 20:32:18
 
 ## 少数派
 
@@ -44,19 +44,19 @@
 
 ## MIT Technology Review
 
-1. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
-2. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
-3. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
-4. [This road map could help us decide whether to deploy solar geoengineering](https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/)
-5. [Can the US battery market untangle from China?](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/)
+1. [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
+2. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
+3. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
+4. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
+5. [This road map could help us decide whether to deploy solar geoengineering](https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/)
 
 ## Hacker News
 
-1. [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
-2. [Resist "AI"](https://ronjeffries.com/articles/-v026/x/t/)
-3. [The Death of Shame Is Tearing Us Apart](https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart)
-4. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
-5. [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
+1. [Instagram's head says engagement falls by half without the algorithm](https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia)
+2. [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
+3. [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+4. [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
+5. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
 
 ## 阮一峰网络日志
 
