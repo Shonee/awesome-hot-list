@@ -1,18 +1,18 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 18:22:30
+> 更新时间：2026-09-11 19:20:12
 
 ## 少数派
 
-1. [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
-2. [「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
-3. [新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
-4. [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
-5. [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
+1. [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
+2. [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
+3. [「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
+4. [新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
+5. [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
 
 ## 爱范儿
 
-1. [在外滩大会上，我看到下一代健康 AI +硬件的样子](https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [在外滩大会上，我看到健康 AI+ 硬件的新可能](https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=)
 2. [GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个](https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=)
 3. [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
 4. [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [“数据比模型重要”成了共识，接下来拼什么？](https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article)
-2. [HashiCorp Packer 1.16 发布，支持机器镜像 SLSA 来源证明生成与核验](https://www.infoq.cn/article/v3VX3eqmROVDJ38rQOh0?utm_source=rss&utm_medium=article)
-3. [当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察](https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article)
-4. [Netflix 采用开源 Flink Autoscaler，支撑超 3 万个流式作业](https://www.infoq.cn/article/8JZ9IdSIxo18dcz6pZG6?utm_source=rss&utm_medium=article)
-5. [AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化](https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article)
+1. [“我们在拿生命做赌注”：造AI的人为何开始密集预警？](https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&utm_medium=article)
+2. [AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践](https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu?utm_source=rss&utm_medium=article)
+3. [“数据比模型重要”成了共识，接下来拼什么？](https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article)
+4. [HashiCorp Packer 1.16 发布，支持机器镜像 SLSA 来源证明生成与核验](https://www.infoq.cn/article/v3VX3eqmROVDJ38rQOh0?utm_source=rss&utm_medium=article)
+5. [当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察](https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
-2. [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
-3. [CSS Curiosities of the Past](https://vale.rocks/posts/css-relics)
-4. [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
-5. [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
-
-## AI News
-
-1. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-2. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-3. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-4. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
-5. [Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)
+1. [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
+2. [Resist "AI"](https://ronjeffries.com/articles/-v026/x/t/)
+3. [The Death of Shame Is Tearing Us Apart](https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart)
+4. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+5. [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
 
 ## 阮一峰网络日志
 
