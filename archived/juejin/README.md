@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-12 06:19:18
+> 更新时间：2026-09-12 07:17:54
 
 ## 热门文章
 
@@ -14,8 +14,8 @@
 8. [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987)
 9. [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023)
 10. [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171)
-11. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
-12. [SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理](https://juejin.cn/post/7683830679906287643)
+11. [SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理](https://juejin.cn/post/7683830679906287643)
+12. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
 13. [DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%](https://juejin.cn/post/7683375934587502643)
 14. [适配小米“中”折屏，非得买一台吗](https://juejin.cn/post/7682593227544805382)
 15. [iPhone Duo 适配 Drag and Drop 实现方案](https://juejin.cn/post/7683511159950540835)
@@ -53,4 +53,4 @@
 47. [AI 改祖传模块后，代码评审总绕不开两个问题](https://juejin.cn/post/7683724457529294854)
 48. [2026最新款Electron41+React19+AntDesign电脑端后台管理系统Exe](https://juejin.cn/post/7683443642280017935)
 49. [AI Coding 提效 2 倍是真的吗？到底怎么衡量效果](https://juejin.cn/post/7683073875694321710)
-50. [Go 开发者也有自己的轻量工作流引擎了：go get 一行，5 分钟跑通一条审批流](https://juejin.cn/post/7683025447917027374)
+50. [Java + DDD，1:1 复刻 Deepseek Harness 项目](https://juejin.cn/post/7683013257235955731)

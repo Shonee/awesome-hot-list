@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 06:19:59
+> 更新时间：2026-09-12 07:18:36
 
 ## 少数派
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
-2. [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
-3. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
-4. [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
-5. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+1. [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
+2. [Project Blinkenlights](https://blinkenlights.de/en/)
+3. [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
+4. [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
+5. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+
+## AI News
+
+1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 

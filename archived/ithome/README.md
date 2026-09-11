@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-12 06:19:29
+> 更新时间：2026-09-12 07:18:04
 
 ## 最新资讯
 
-1. [高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值](https://www.ithome.com/1/001/474.htm)
-2. [2027 款雷克萨斯 LS 登陆日本老家：全系 3.5L V6 混动，1414 万日元起](https://www.ithome.com/1/001/471.htm)
-3. [小岛秀夫《Physint》为何同索尼“分手”？消息称与预算、盈利前景、独占安排有关](https://www.ithome.com/1/001/470.htm)
-4. [Counterpoint：预计 2026 年折叠屏智能手机面板出货量同比增长 23%，最大增量来自苹果](https://www.ithome.com/1/001/469.htm)
-5. [迄今最高效奥迪车型：奥迪 A2 e-tron 开发时间成功缩短 21 个月](https://www.ithome.com/1/001/468.htm)
+1. [谷歌正式关闭 Google Health 应用 Fitbit 账号登录入口，原有账号体系退出历史舞台](https://www.ithome.com/1/001/487.htm)
+2. [SE《王国之心 4》确认由 FF7 重制工作室开发，最终幻想仍有可能改编为影视作品](https://www.ithome.com/1/001/486.htm)
+3. [OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名](https://www.ithome.com/1/001/485.htm)
+4. [苹果首款折叠屏手机 iPhone Duo 分屏不可调整比例，或为适配外屏让路](https://www.ithome.com/1/001/484.htm)
+5. [2026 年度《时代》杂志全球最佳企业榜单公布：英伟达位居第一、苹果重返排名前三](https://www.ithome.com/1/001/483.htm)
