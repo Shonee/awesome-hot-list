@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-11 23:21:08
+> 更新时间：2026-09-12 00:24:40
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [HuggingFace: Security.txt](https://huggingface.co/security.txt)
-2. [New York thoracic surgeon: "For many patients 9/11 is not over"](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/)
-3. [Why Bullshit Jobs Are (Finally) Dying [video]](https://www.youtube.com/watch?v=QecDVkcGPxY)
-4. [If coding is solved, what now?: Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/)
-5. [Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
+1. [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
+2. [Hacker News with reduced priority for AI driven content](https://sprinklz.io/public/pdwt4dve5uai)
+3. [Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
+4. [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
+5. [HuggingFace: Security.txt](https://huggingface.co/security.txt)
 
 ## 阮一峰网络日志
 
