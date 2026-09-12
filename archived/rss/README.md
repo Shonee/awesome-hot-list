@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 12:23:56
+> 更新时间：2026-09-12 13:33:34
 
 ## 少数派
 
@@ -18,14 +18,6 @@
 4. [GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个](https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=)
 5. [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
 
-## 量子位
-
-1. [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
-2. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
-3. [百度秒哒再升级！让最懂业务的人，亲手造自己的系统](https://www.qbitai.com/2026/09/487415.html)
-4. [不简单，“吃货快乐榜”也全面AI化了](https://www.qbitai.com/2026/09/487282.html)
-5. [墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济](https://www.qbitai.com/2026/09/487273.html)
-
 ## InfoQ
 
 1. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
@@ -33,14 +25,6 @@
 3. [V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维](https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article)
 4. [从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海](https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article)
 5. [Neovim 加入 vim.async：告别回调地狱](https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&utm_medium=article)
-
-## 极客公园
-
-1. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
-2. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
-3. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
-4. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
-5. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
 
 ## MIT Technology Review
 
@@ -52,11 +36,11 @@
 
 ## Hacker News
 
-1. [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
-2. [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
-3. [Ask HN: Did Google kill its enterprise workhorse model?](https://news.ycombinator.com/item?id=49668196)
-4. [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
-5. [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)
+1. [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+2. [Clay Mathematics Institute on the Navier-Stokes Problem](https://www.claymath.org/news/navier-stokes-announcement/)
+3. [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
+4. [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
+5. [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
 
 ## 阮一峰网络日志
 
