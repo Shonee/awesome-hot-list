@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-09-13 04:20:44
+> 更新时间：2026-09-13 05:18:39
 
 ## 热门问题
 
@@ -18,8 +18,8 @@
 12. [How to finish for loop that counts attempt on user input and then use the sum function to add all of the 5 nums from user input?](https://stackoverflow.com/questions/80002637/how-to-finish-for-loop-that-counts-attempt-on-user-input-and-then-use-the-sum-fu)
 13. [mysql2 takes 1700ms after MariaDB finishes to return 27k rows. is there a faster way?](https://stackoverflow.com/questions/80002646/mysql2-takes-1700ms-after-mariadb-finishes-to-return-27k-rows-is-there-a-faster)
 14. [How does OAuth2AuthorizedClientManager handle concurrent token refresh in Spring Security?](https://stackoverflow.com/questions/80002654/how-does-oauth2authorizedclientmanager-handle-concurrent-token-refresh-in-spring)
-15. [Why does std::jthread throw in its destructor after coroutine_handle::resume()?](https://stackoverflow.com/questions/80002619/why-does-stdjthread-throw-in-its-destructor-after-coroutine-handleresume)
-16. [Please provide me the right answers with any proof or documentation](https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation)
+15. [Please provide me the right answers with any proof or documentation](https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation)
+16. [Why does std::jthread throw in its destructor after coroutine_handle::resume()?](https://stackoverflow.com/questions/80002619/why-does-stdjthread-throw-in-its-destructor-after-coroutine-handleresume)
 17. [Workers in Playwright with parallel execution true is not working properly](https://stackoverflow.com/questions/80002596/workers-in-playwright-with-parallel-execution-true-is-not-working-properly)
 18. [How do I add the time to the date value I get from a cell?](https://stackoverflow.com/questions/80002588/how-do-i-add-the-time-to-the-date-value-i-get-from-a-cell)
 19. [tinymce is adding extra carriage returns that adds extra bullets](https://stackoverflow.com/questions/80002645/tinymce-is-adding-extra-carriage-returns-that-adds-extra-bullets)
@@ -33,9 +33,9 @@
 27. [Grails PageRenderer dysfunction in deployed war](https://stackoverflow.com/questions/80002557/grails-pagerenderer-dysfunction-in-deployed-war)
 28. [break axis on barplot for very low count](https://stackoverflow.com/questions/80002586/break-axis-on-barplot-for-very-low-count)
 29. [Replace classic whitespace with unbreakable space](https://stackoverflow.com/questions/80002566/replace-classic-whitespace-with-unbreakable-space)
-30. [How can I detect interactive logon, logoff, lock and unlock events in C#?](https://stackoverflow.com/questions/80002576/how-can-i-detect-interactive-logon-logoff-lock-and-unlock-events-in-c)
+30. [Why is there no sorted_vector container in the C++ standard library, and what are the recommended alternatives?](https://stackoverflow.com/questions/80002149/why-is-there-no-sorted-vector-container-in-the-c-standard-library-and-what-ar)
 31. [Expanding class members following open/closed principles](https://stackoverflow.com/questions/80002473/expanding-class-members-following-open-closed-principles)
-32. [Why is there no sorted_vector container in the C++ standard library, and what are the recommended alternatives?](https://stackoverflow.com/questions/80002149/why-is-there-no-sorted-vector-container-in-the-c-standard-library-and-what-ar)
+32. [How can I detect interactive logon, logoff, lock and unlock events in C#?](https://stackoverflow.com/questions/80002576/how-can-i-detect-interactive-logon-logoff-lock-and-unlock-events-in-c)
 33. [How to scroll the TextField to above the keyboard immediately after user tap on it?](https://stackoverflow.com/questions/80002570/how-to-scroll-the-textfield-to-above-the-keyboard-immediately-after-user-tap-on)
 34. [Webscrape tool suggestion](https://stackoverflow.com/questions/80002568/webscrape-tool-suggestion)
 35. [How can I get input from terminal without blocking Tk mainloop?](https://stackoverflow.com/questions/80002531/how-can-i-get-input-from-terminal-without-blocking-tk-mainloop)
@@ -44,13 +44,13 @@
 38. [Updating Git for Windows unattended with PowerShell returns an error when run against remote servers](https://stackoverflow.com/questions/80002487/updating-git-for-windows-unattended-with-powershell-returns-an-error-when-run-ag)
 39. [py4j.protocol.Py4JJavaError: An error occurred while calling o71.getDeclaredMethod in flink 2.2.1](https://stackoverflow.com/questions/80002556/py4j-protocol-py4jjavaerror-an-error-occurred-while-calling-o71-getdeclaredmeth)
 40. [SHAppBarMessage: my own window gets pushed out of the AppBar space it just registered, before my own function call even returns](https://stackoverflow.com/questions/80002486/shappbarmessage-my-own-window-gets-pushed-out-of-the-appbar-space-it-just-regis)
-41. [Copilot studio - NetSuite MCP server](https://stackoverflow.com/questions/80002547/copilot-studio-netsuite-mcp-server)
-42. [What's a proper way to handle a constructor process that might fail? try catch at the class instantiation? private constructor + public static member?](https://stackoverflow.com/questions/80002273/whats-a-proper-way-to-handle-a-constructor-process-that-might-fail-try-catch-a)
+41. [What's a proper way to handle a constructor process that might fail? try catch at the class instantiation? private constructor + public static member?](https://stackoverflow.com/questions/80002273/whats-a-proper-way-to-handle-a-constructor-process-that-might-fail-try-catch-a)
+42. [Copilot studio - NetSuite MCP server](https://stackoverflow.com/questions/80002547/copilot-studio-netsuite-mcp-server)
 43. [ReactJS (19.2) Server "LEFT JOIN" get all Results from 2. Table in first Query?](https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query)
 44. [GCC compilation fails or succeeds depending on the current directory](https://stackoverflow.com/questions/80002452/gcc-compilation-fails-or-succeeds-depending-on-the-current-directory)
 45. [gl::load_with error : Non-primitive conversion: converting `glfw::GLProc` to `*const std::os::raw::c_void` [E0605]](https://stackoverflow.com/questions/80002546/glload-with-error-non-primitive-conversion-converting-glfwglproc-to-c)
-46. [Downloading Apple-hosted asset packs in a SwiftUI macOS app](https://stackoverflow.com/questions/80002501/downloading-apple-hosted-asset-packs-in-a-swiftui-macos-app)
-47. [Does @NullMarked package imply non-nullablity on a field level?](https://stackoverflow.com/questions/80002412/does-nullmarked-package-imply-non-nullablity-on-a-field-level)
+46. [Does @NullMarked package imply non-nullablity on a field level?](https://stackoverflow.com/questions/80002412/does-nullmarked-package-imply-non-nullablity-on-a-field-level)
+47. [Downloading Apple-hosted asset packs in a SwiftUI macOS app](https://stackoverflow.com/questions/80002501/downloading-apple-hosted-asset-packs-in-a-swiftui-macos-app)
 48. [How to automatically detect no internet connection and show an offline screen in React Native (Expo)?](https://stackoverflow.com/questions/80002468/how-to-automatically-detect-no-internet-connection-and-show-an-offline-screen-in)
 49. [django bug, please help me to fix this](https://stackoverflow.com/questions/80002525/django-bug-please-help-me-to-fix-this)
 50. [List types (Bag, Seq, Alt) in PDF/A Extension Schemas with non-Literal Items](https://stackoverflow.com/questions/80002428/list-types-bag-seq-alt-in-pdf-a-extension-schemas-with-non-literal-items)

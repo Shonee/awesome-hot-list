@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 04:21:08
+> 更新时间：2026-09-13 05:18:58
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
-2. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
-3. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
-4. [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
-5. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+1. [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
+2. [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
+3. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
+4. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+5. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
 
 ## 阮一峰网络日志
 
