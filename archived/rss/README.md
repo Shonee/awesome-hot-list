@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 17:21:13
+> 更新时间：2026-09-12 18:19:11
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4](https://www.qbitai.com/2026/09/487701.html)
-2. [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
-3. [陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神](https://www.qbitai.com/2026/09/487653.html)
-4. [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
-5. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
+1. [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/487752.html)
+2. [AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4](https://www.qbitai.com/2026/09/487701.html)
+3. [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
+4. [陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神](https://www.qbitai.com/2026/09/487653.html)
+5. [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
 
 ## InfoQ
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
-2. [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
+1. [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
+2. [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
 3. [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
 4. [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
 5. [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+
+## AI News
+
+1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 
