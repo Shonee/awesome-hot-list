@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 22:19:35
+> 更新时间：2026-09-12 23:18:31
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)
-2. [Coding Is Over. Get over It](https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./)
-3. [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
-4. [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
-5. [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+1. [Ask HN: What default model do you use and why?](https://news.ycombinator.com/item?id=49672966)
+2. [Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"](https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun)
+3. [You Don't Need Matrix Calculus](https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html)
+4. [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
+5. [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
 
 ## 阮一峰网络日志
 
