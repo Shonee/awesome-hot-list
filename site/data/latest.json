@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-13 04:21:08",
+    "generatedAt": "2026-09-13 04:29:28",
     "channels": [
         {
             "schemaVersion": 1,
@@ -8243,7 +8243,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-13 00:28:35",
+            "fetchedAt": "2026-09-13 04:29:28",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -8258,7 +8258,7 @@
                             "rank": 1,
                             "title": "讨论一下在手机上编程是不是伪需求",
                             "url": "https://www.v2ex.com/t/1241482",
-                            "hot": 84,
+                            "hot": 91,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 09:20:44"
@@ -8274,33 +8274,42 @@
                         },
                         {
                             "rank": 3,
-                            "title": "codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神",
-                            "url": "https://www.v2ex.com/t/1241506",
-                            "hot": 53,
-                            "description": "程序员",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 11:35:41"
-                        },
-                        {
-                            "rank": 4,
                             "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
                             "url": "https://www.v2ex.com/t/1241484",
-                            "hot": 52,
+                            "hot": 57,
                             "description": "推广",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 09:26:36"
                         },
                         {
+                            "rank": 4,
+                            "title": "codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神",
+                            "url": "https://www.v2ex.com/t/1241506",
+                            "hot": 54,
+                            "description": "程序员",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 11:35:41"
+                        },
+                        {
                             "rank": 5,
+                            "title": "vibe coding 的代码你怎么放心上线？",
+                            "url": "https://www.v2ex.com/t/1241529",
+                            "hot": 46,
+                            "description": "程序员",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 14:00:24"
+                        },
+                        {
+                            "rank": 6,
                             "title": "不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历",
                             "url": "https://www.v2ex.com/t/1241515",
-                            "hot": 40,
+                            "hot": 45,
                             "description": "分享创造",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 12:21:19"
                         },
                         {
-                            "rank": 6,
+                            "rank": 7,
                             "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
                             "url": "https://www.v2ex.com/t/1241528",
                             "hot": 40,
@@ -8309,28 +8318,19 @@
                             "publishedAt": "2026-09-12 13:53:32"
                         },
                         {
-                            "rank": 7,
-                            "title": "vibe coding 的代码你怎么放心上线？",
-                            "url": "https://www.v2ex.com/t/1241529",
-                            "hot": 39,
+                            "rank": 8,
+                            "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
+                            "url": "https://www.v2ex.com/t/1241596",
+                            "hot": 33,
                             "description": "程序员",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-12 14:00:24"
-                        },
-                        {
-                            "rank": 8,
-                            "title": "木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办",
-                            "url": "https://www.v2ex.com/t/1241486",
-                            "hot": 30,
-                            "description": "问与答",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 09:54:42"
+                            "publishedAt": "2026-09-12 22:02:48"
                         },
                         {
                             "rank": 9,
                             "title": "你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?",
                             "url": "https://www.v2ex.com/t/1241496",
-                            "hot": 29,
+                            "hot": 31,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 10:55:07"
