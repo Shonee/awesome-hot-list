@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-13 05:18:21
+> 更新时间：2026-09-13 06:18:09
 
 ## 热门文章
 
@@ -30,9 +30,9 @@
 24. [《Agent 评测白皮书》系列01：Agent 评测全览](https://juejin.cn/post/7683448371321274404)
 25. [DeepSeek V4.1 Flash 正式发布！](https://juejin.cn/post/7683784267848122395)
 26. [用 Node.js 复刻 Codex Astra 的终端星光](https://juejin.cn/post/7683539970712830006)
-27. [用 AI 做短剧出海，赚麻了！（附 Skill 及教程）](https://juejin.cn/post/7684069447021035562)
-28. [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468)
-29. [丝滑的奥秘：Reanimated 3 动画引擎与手势处理（Gesture Handler）](https://juejin.cn/post/7683433296757194806)
+27. [丝滑的奥秘：Reanimated 3 动画引擎与手势处理（Gesture Handler）](https://juejin.cn/post/7683433296757194806)
+28. [用 AI 做短剧出海，赚麻了！（附 Skill 及教程）](https://juejin.cn/post/7684069447021035562)
+29. [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468)
 30. [AI 改祖传模块后，代码评审总绕不开两个问题](https://juejin.cn/post/7683724457529294854)
 31. [我把苹果发布会里的折叠屏，真的用网页做出来了](https://juejin.cn/post/7684463933702291466)
 32. [一个Docker命令，40万首古诗词API开箱即用](https://juejin.cn/post/7683820796637872154)

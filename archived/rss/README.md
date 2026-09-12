@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 05:18:58
+> 更新时间：2026-09-13 06:18:53
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
-2. [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
-3. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
-4. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
-5. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+1. [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
+2. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+3. [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
+4. [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
+5. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 
 ## 阮一峰网络日志
 
