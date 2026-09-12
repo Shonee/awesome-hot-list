@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 16:25:38
+> 更新时间：2026-09-12 17:21:13
 
 ## 少数派
 
@@ -12,19 +12,19 @@
 
 ## 爱范儿
 
-1. [讲讲 Duo 作为科技产品命名的前世今生](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [刚刚，Apple Watch 成为了苹果最新的 AI 硬件](https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%](https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [在外滩大会上，我看到健康 AI+ 硬件的新可能](https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [讲讲 Duo 作为科技产品命名的前世今生](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [刚刚，Apple Watch 成为了苹果最新的 AI 硬件](https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%](https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
-1. [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
-2. [陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神](https://www.qbitai.com/2026/09/487653.html)
-3. [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
-4. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
-5. [百度秒哒再升级！让最懂业务的人，亲手造自己的系统](https://www.qbitai.com/2026/09/487415.html)
+1. [AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4](https://www.qbitai.com/2026/09/487701.html)
+2. [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
+3. [陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神](https://www.qbitai.com/2026/09/487653.html)
+4. [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
+5. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
 
 ## InfoQ
 
@@ -57,14 +57,6 @@
 3. [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
 4. [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
 5. [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
-
-## AI News
-
-1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 

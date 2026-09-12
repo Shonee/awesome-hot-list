@@ -1,24 +1,24 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-12 16:25:24
+> 更新时间：2026-09-12 17:20:59
 
 ## 热门热帖
 
 1. [打印机工具箱1.1](https://www.52pojie.cn/thread-2126715-1-1.html)
-2. [图吧工具箱 winUI3 版 v1.6.1](https://www.52pojie.cn/thread-2127011-1-1.html)
-3. [短视频无水印解析下载 v1.0.0](https://www.52pojie.cn/thread-2126862-1-1.html)
-4. [重复文件查找删除工具](https://www.52pojie.cn/thread-2126656-1-1.html)
-5. [小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2](https://www.52pojie.cn/thread-2126541-1-1.html)
-6. [化学虚拟实验室Unreal_Chemist_v3.0.3_zh_RC2中文版(部分汉化)](https://www.52pojie.cn/thread-2126637-1-1.html)
-7. [Windows 极限优化助手 2.9](https://www.52pojie.cn/thread-2126667-1-1.html)
-8. [震撼发布：ZXC自动浏览器V0.1版本（市面上没有任何相关竞品，适配vue等所有框架）](https://www.52pojie.cn/thread-2127312-1-1.html)
-9. [星愿浏览器 Twinkstar v11.4.1000.2609](https://www.52pojie.cn/thread-2126907-1-1.html)
-10. [PDF盖章和盖骑缝章工具1.1](https://www.52pojie.cn/thread-2127317-1-1.html)
-11. [万物工具箱 6.9.26.828](https://www.52pojie.cn/thread-2127033-1-1.html)
-12. [OCR识图添加转表格功能 PaddleOCR-V6-Portable -1.01](https://www.52pojie.cn/thread-2127382-1-1.html)
-13. [手机投屏控制助手 scrcpy-helper v1.5.2](https://www.52pojie.cn/thread-2127053-1-1.html)
-14. [视频自动分段工具v1（更新V2）](https://www.52pojie.cn/thread-2126892-1-1.html)
-15. [WinRAR 7.30 beta1_x64 简体中文汉化版](https://www.52pojie.cn/thread-2127514-1-1.html)
+2. [短视频无水印解析下载 v1.0.0](https://www.52pojie.cn/thread-2126862-1-1.html)
+3. [WinRAR 7.30 beta1_x64 简体中文汉化版](https://www.52pojie.cn/thread-2127514-1-1.html)
+4. [万物工具箱 6.9.26.828](https://www.52pojie.cn/thread-2127033-1-1.html)
+5. [星愿浏览器 Twinkstar v11.4.1000.2609](https://www.52pojie.cn/thread-2126907-1-1.html)
+6. [图吧工具箱 winUI3 版 v1.6.1](https://www.52pojie.cn/thread-2127011-1-1.html)
+7. [重复文件查找删除工具](https://www.52pojie.cn/thread-2126656-1-1.html)
+8. [小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2](https://www.52pojie.cn/thread-2126541-1-1.html)
+9. [化学虚拟实验室Unreal_Chemist_v3.0.3_zh_RC2中文版(部分汉化)](https://www.52pojie.cn/thread-2126637-1-1.html)
+10. [Windows 极限优化助手 2.9](https://www.52pojie.cn/thread-2126667-1-1.html)
+11. [震撼发布：ZXC自动浏览器V0.1版本（市面上没有任何相关竞品，适配vue等所有框架）](https://www.52pojie.cn/thread-2127312-1-1.html)
+12. [PDF盖章和盖骑缝章工具1.1](https://www.52pojie.cn/thread-2127317-1-1.html)
+13. [OCR识图添加转表格功能 PaddleOCR-V6-Portable -1.01](https://www.52pojie.cn/thread-2127382-1-1.html)
+14. [手机投屏控制助手 scrcpy-helper v1.5.2](https://www.52pojie.cn/thread-2127053-1-1.html)
+15. [视频自动分段工具v1（更新V2）](https://www.52pojie.cn/thread-2126892-1-1.html)
 16. [软件安装包管理系统 v1.0（已更新2.0版本）](https://www.52pojie.cn/thread-2127353-1-1.html)
 17. [网络监控拓扑图设计工具V1.0.0](https://www.52pojie.cn/thread-2126606-1-1.html)
 18. [A 股每日复盘小工具](https://www.52pojie.cn/thread-2126526-1-1.html)
