@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-12 10:29:50
+> 更新时间：2026-09-12 11:23:44
 
 ## 最新资讯
 
-1. [英伟达 DLSS 5 混合精度 Mod 测试：RTX 50 系列显卡性能仅提升 1% 至 2%](https://www.ithome.com/1/001/524.htm)
-2. [机械革命推出“P2714FA”27 英寸显示器：1080P 144Hz，569 元](https://www.ithome.com/1/001/523.htm)
-3. [俞敏洪：人工智能可能加剧社会贫富悬殊](https://www.ithome.com/1/001/522.htm)
-4. [苹果公布 SimpleDesign 蛋白质设计模型，可联合生成序列与三维结构](https://www.ithome.com/1/001/521.htm)
-5. [波音向工程师工会提交最终提案：今年加薪 10%，未来四年每年最少加薪 4%](https://www.ithome.com/1/001/520.htm)
+1. [“连线粉丝”讲离奇“真事”被封，法院驳回主播解封申请](https://www.ithome.com/1/001/530.htm)
+2. [Bigscreen 宣布永久下调 Beyond 2 系列 PC VR 头显售价：起售价 1019 美元 → 959 美元](https://www.ithome.com/1/001/529.htm)
+3. [中国天眼 FAST 构建世界最大中性氢星系样本库，探测源达 15.6 万个](https://www.ithome.com/1/001/528.htm)
+4. [漫步者推出 HECATE G5 MAX 底座版头戴式无线耳机：53mm 单元、集成“八合一底座”，599 元](https://www.ithome.com/1/001/527.htm)
+5. [徐洁云确认，试驾小米澎程汽车误将油门当刹车的用户已锁单](https://www.ithome.com/1/001/526.htm)
