@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-12 20:27:51",
+    "generatedAt": "2026-09-12 20:35:13",
     "channels": [
         {
             "schemaVersion": 1,
@@ -9035,7 +9035,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-12 16:32:33",
+            "fetchedAt": "2026-09-12 20:35:13",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -9050,7 +9050,7 @@
                             "rank": 1,
                             "title": "讨论一下在手机上编程是不是伪需求",
                             "url": "https://www.v2ex.com/t/1241482",
-                            "hot": 62,
+                            "hot": 73,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 09:20:44"
@@ -9059,7 +9059,7 @@
                             "rank": 2,
                             "title": "v2ex 注册成功",
                             "url": "https://www.v2ex.com/t/1241517",
-                            "hot": 50,
+                            "hot": 62,
                             "description": "生活",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 12:26:10"
@@ -9068,64 +9068,73 @@
                             "rank": 3,
                             "title": "codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神",
                             "url": "https://www.v2ex.com/t/1241506",
-                            "hot": 43,
+                            "hot": 49,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 11:35:41"
                         },
                         {
                             "rank": 4,
-                            "title": "幼儿园的名单公示，打码规则是否不太合理？",
-                            "url": "https://www.v2ex.com/t/1241383",
-                            "hot": 35,
-                            "description": "分享发现",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 17:11:13"
-                        },
-                        {
-                            "rank": 5,
                             "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
                             "url": "https://www.v2ex.com/t/1241484",
-                            "hot": 28,
+                            "hot": 46,
                             "description": "推广",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 09:26:36"
                         },
                         {
+                            "rank": 5,
+                            "title": "不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历",
+                            "url": "https://www.v2ex.com/t/1241515",
+                            "hot": 35,
+                            "description": "分享创造",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 12:21:19"
+                        },
+                        {
                             "rank": 6,
+                            "title": "兄弟们和我一起当捞女去崩老头。",
+                            "url": "https://www.v2ex.com/t/1241452",
+                            "hot": 33,
+                            "description": "分享创造",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-11 23:28:17"
+                        },
+                        {
+                            "rank": 7,
                             "title": "不想上班了，回老家县城躺平是否可行？",
                             "url": "https://www.v2ex.com/t/1241455",
-                            "hot": 26,
+                            "hot": 28,
                             "description": "生活",
                             "imageUrl": "",
                             "publishedAt": "2026-09-11 23:40:28"
                         },
                         {
-                            "rank": 7,
+                            "rank": 8,
                             "title": "木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办",
                             "url": "https://www.v2ex.com/t/1241486",
-                            "hot": 24,
+                            "hot": 28,
                             "description": "问与答",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 09:54:42"
                         },
                         {
-                            "rank": 8,
-                            "title": "vibe coding 的代码你怎么放心上线？",
-                            "url": "https://www.v2ex.com/t/1241529",
-                            "hot": 22,
+                            "rank": 9,
+                            "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
+                            "url": "https://www.v2ex.com/t/1241528",
+                            "hot": 28,
                             "description": "程序员",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-12 14:00:24"
+                            "publishedAt": "2026-09-12 13:53:32"
                         },
                         {
-                            "rank": 9,
-                            "title": "大家觉得我们还需要去发明新的 IM 吗",
-                            "url": "https://www.v2ex.com/t/1241397",
-                            "hot": 21,
+                            "rank": 10,
+                            "title": "你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?",
+                            "url": "https://www.v2ex.com/t/1241496",
+                            "hot": 27,
                             "description": "程序员",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-11 17:40:15"
+                            "publishedAt": "2026-09-12 10:55:07"
                         }
                     ]
                 }
