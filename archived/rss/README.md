@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 21:18:24
+> 更新时间：2026-09-12 22:19:35
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com)
-2. [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
-3. [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
-4. [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
-5. [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
+1. [My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)
+2. [Coding Is Over. Get over It](https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./)
+3. [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+4. [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
+5. [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
 
 ## 阮一峰网络日志
 

@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-12 21:17:43
+> 更新时间：2026-09-12 22:18:55
 
 ## 最新资讯
 
-1. [一句话加油、买电影票，理想汽车联合支付宝升级智舱全场景生态服务](https://www.ithome.com/1/001/642.htm)
-2. [英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡](https://www.ithome.com/1/001/641.htm)
-3. [Counterpoint 预测：2026-2030 年折叠屏手机面板出货将增长 74%](https://www.ithome.com/1/001/639.htm)
-4. [VGN 推出蜻蜓 3 Turbo 系列鼠标：PAW 3950/3955 Extreme，269 元起](https://www.ithome.com/1/001/638.htm)
-5. [创维数字：与谷歌签署智能家居合作协议，首批产品覆盖欧洲 14 国](https://www.ithome.com/1/001/636.htm)
+1. [特斯拉 FSD v15 将提升主动避险能力：更早的危险预测、更快的反应时间](https://www.ithome.com/1/001/649.htm)
+2. [天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞](https://www.ithome.com/1/001/648.htm)
+3. [长安 UNI-V 蓝鲸超擎混动上市，限时 10.99 万-11.39 万元](https://www.ithome.com/1/001/646.htm)
+4. [九号 Mz3 闪骑电动自行车开售：五级可调后减震、12 寸满盘电机，首发 6299 元起](https://www.ithome.com/1/001/645.htm)
+5. [Debian 发布第 7 个稳定版小版本 13.7，修复 Bug 并更新关键基础设施](https://www.ithome.com/1/001/644.htm)
