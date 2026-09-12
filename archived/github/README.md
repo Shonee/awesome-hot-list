@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-13 00:28:33
+> 更新时间：2026-09-13 07:25:58
 
 ## 每日趋势
 
@@ -61,14 +61,13 @@
 12. [i-have-adhd](https://github.com/ayghri/i-have-adhd)
 13. [MTPLX](https://github.com/youssofal/MTPLX)
 14. [modular](https://github.com/modular/modular)
-15. [ai-memory](https://github.com/akitaonrails/ai-memory)
-16. [vphone-cli](https://github.com/Lakr233/vphone-cli)
-17. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-18. [llmfit](https://github.com/AlexsJones/llmfit)
-19. [maka](https://github.com/apache/maka)
-20. [public-apis](https://github.com/public-apis/public-apis)
-21. [semantica](https://github.com/semantica-agi/semantica)
-22. [Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
+15. [vphone-cli](https://github.com/Lakr233/vphone-cli)
+16. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+17. [llmfit](https://github.com/AlexsJones/llmfit)
+18. [maka](https://github.com/apache/maka)
+19. [public-apis](https://github.com/public-apis/public-apis)
+20. [semantica](https://github.com/semantica-agi/semantica)
+21. [Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
 
 ## Java
 
