@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-12 09:26:14
+> 更新时间：2026-09-12 10:29:50
 
 ## 最新资讯
 
-1. [VGN 推出猎鹰 3 系列鼠标：8KHz 回报率、可选 PAW3950/3955 Extreme 传感器，289 元起](https://www.ithome.com/1/001/512.htm)
-2. [19999 元起华为 Mate XT 2 非凡大师三折叠手机首销：首发麒麟 9050 Pro 芯片、首搭硬件级防窥](https://www.ithome.com/1/001/511.htm)
-3. [华硕 ROG 路由器拿下美国准入豁免，为 Wi-Fi 8 新品上市扫清障碍](https://www.ithome.com/1/001/510.htm)
-4. [外卖新规实施三个月，央视探访看到店员徒手抓烤鸡、明厨亮灶摄像头对着天花板](https://www.ithome.com/1/001/509.htm)
-5. [神舟为战神 S8 游戏本带回“酷睿 i5-13420H + 16G + 500G + RTX 4060“规格，7999 元](https://www.ithome.com/1/001/508.htm)
+1. [英伟达 DLSS 5 混合精度 Mod 测试：RTX 50 系列显卡性能仅提升 1% 至 2%](https://www.ithome.com/1/001/524.htm)
+2. [机械革命推出“P2714FA”27 英寸显示器：1080P 144Hz，569 元](https://www.ithome.com/1/001/523.htm)
+3. [俞敏洪：人工智能可能加剧社会贫富悬殊](https://www.ithome.com/1/001/522.htm)
+4. [苹果公布 SimpleDesign 蛋白质设计模型，可联合生成序列与三维结构](https://www.ithome.com/1/001/521.htm)
+5. [波音向工程师工会提交最终提案：今年加薪 10%，未来四年每年最少加薪 4%](https://www.ithome.com/1/001/520.htm)

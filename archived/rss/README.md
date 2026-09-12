@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 09:26:40
+> 更新时间：2026-09-12 10:30:15
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践](https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&utm_medium=article)
-2. [怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮](https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&utm_medium=article)
-3. [“我们在拿生命做赌注”：造AI的人为何开始密集预警？](https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&utm_medium=article)
-4. [AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践](https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu?utm_source=rss&utm_medium=article)
-5. [“数据比模型重要”成了共识，接下来拼什么？](https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article)
+1. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
+2. [模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞](https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article)
+3. [V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维](https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article)
+4. [从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海](https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article)
+5. [Neovim 加入 vim.async：告别回调地狱](https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
-2. [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)
-3. [How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs](https://www.firecrawl.dev/blog/ai-software-factory)
+1. [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)
+2. [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+3. [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)
 4. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
 5. [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
-
-## AI News
-
-1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 
