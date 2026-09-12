@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 20:27:51
+> 更新时间：2026-09-12 21:18:24
 
 ## 少数派
 
@@ -20,27 +20,27 @@
 
 ## 量子位
 
-1. [A社承认Claude安全对齐存在缺陷，但“尚无解决方案”](https://www.qbitai.com/2026/09/487796.html)
-2. [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/487752.html)
-3. [AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4](https://www.qbitai.com/2026/09/487701.html)
-4. [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
-5. [陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神](https://www.qbitai.com/2026/09/487653.html)
+1. [“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选](https://www.qbitai.com/2026/09/487860.html)
+2. [A社承认Claude安全对齐存在缺陷，但“尚无解决方案”](https://www.qbitai.com/2026/09/487796.html)
+3. [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/487752.html)
+4. [AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4](https://www.qbitai.com/2026/09/487701.html)
+5. [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
 
 ## InfoQ
 
-1. [Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article)
-2. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
-3. [模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞](https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article)
-4. [V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维](https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article)
-5. [从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海](https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article)
+1. [AI的新用法，被这群 Builder 带到了外滩大会开发者日](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article)
+2. [Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article)
+3. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
+4. [模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞](https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article)
+5. [V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维](https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
-2. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
-3. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
-4. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
-5. [苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道](http://www.geekpark.net/news/370089)
+1. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
+2. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
+3. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
+4. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
+5. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
 
 ## MIT Technology Review
 
@@ -52,9 +52,9 @@
 
 ## Hacker News
 
-1. [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
-2. [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
-3. [Altman tells staff OpenAI is open to slowing AI development](https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/)
+1. [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com)
+2. [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+3. [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
 4. [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
 5. [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
 
