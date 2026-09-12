@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 15:20:57
+> 更新时间：2026-09-12 16:25:38
 
 ## 少数派
 
-1. [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
-2. [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
-3. [「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
-4. [新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
-5. [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
+1. [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
+2. [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
+3. [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
+4. [「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
+5. [新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
 
 ## 爱范儿
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
-2. [模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞](https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article)
-3. [V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维](https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article)
-4. [从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海](https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article)
-5. [Neovim 加入 vim.async：告别回调地狱](https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&utm_medium=article)
+1. [Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article)
+2. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
+3. [模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞](https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article)
+4. [V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维](https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article)
+5. [从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海](https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
-2. [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
-3. [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
-4. [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
-5. [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
+1. [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+2. [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
+3. [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+4. [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+5. [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+
+## AI News
+
+1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 
