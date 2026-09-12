@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-13 06:18:18
+> 更新时间：2026-09-13 07:18:05
 
 ## 最新资讯
 
-1. [时隔 6 年首位新英雄：萨拉塔斯 9 月 28 日加入暴雪《风暴英雄》游戏](https://www.ithome.com/1/001/667.htm)
-2. [Plus 版经典怀旧服：暴雪《魔兽世界：永恒》游戏官宣 11 月 4 日上线](https://www.ithome.com/1/001/666.htm)
-3. [30+ 小时内容：暴雪《魔兽争霸 3》游戏时隔 20 多年首次推出官方新战役](https://www.ithome.com/1/001/665.htm)
-4. [暴雪《炉石传说》游戏官宣新增武僧职业，2027 年 3 月上线](https://www.ithome.com/1/001/664.htm)
-5. [首支预告放出，暴雪《暗黑破坏神 5》游戏官宣 2029 年发行](https://www.ithome.com/1/001/663.htm)
+1. [混进学校群聊冒充教师骗钱，6 名犯罪分子被抓](https://www.ithome.com/1/001/678.htm)
+2. [消息称华为 Mate 90 系列手机将延续星环设计，还是本月下旬发布](https://www.ithome.com/1/001/677.htm)
+3. [海外金融巨头 Revolut 确认发生数据泄露，黑客伪装执法机构发送欺诈请求](https://www.ithome.com/1/001/676.htm)
+4. [A20 Pro 芯片 AI 跑分曝光：苹果 iPhone 18 Pro NPU 最高增幅 51.53%](https://www.ithome.com/1/001/675.htm)
+5. [V社 Steam Frame VR 头显评测视频意外曝光，完整展示实际使用体验](https://www.ithome.com/1/001/674.htm)
