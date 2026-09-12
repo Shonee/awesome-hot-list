@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-12 19:16:47
+> 更新时间：2026-09-12 20:27:20
 
 ## 最新资讯
 
-1. [网易《逆水寒：新世界》“含金量最高版本”9 月 24 日上线，联动盗墓笔记](https://www.ithome.com/1/001/626.htm)
-2. [绿联发布 AI NAS iDX6011 Pro：酷睿 Ultra 7 255H、内存 64GB，首发价 15999 元](https://www.ithome.com/1/001/625.htm)
-3. [索尼计划减产实体 PlayStation 光盘，然而独占大作实体版仍能贡献可观收入](https://www.ithome.com/1/001/624.htm)
-4. [Stellantis CEO 菲洛萨称当今全球车市已明显分成两部分：美国和其他](https://www.ithome.com/1/001/623.htm)
-5. [8080 元起：新大洲本田推出 NS125FX 摩托车，含自由高达联名限量版](https://www.ithome.com/1/001/622.htm)
+1. [创维数字：与谷歌签署智能家居合作协议，首批产品覆盖欧洲 14 国](https://www.ithome.com/1/001/636.htm)
+2. [全球首个适配万台级产能，柳州优必选万台级工业人形机器人超级智慧工厂投产](https://www.ithome.com/1/001/635.htm)
+3. [中国工程院院士邬贺铨：2030 年中国算力有望占到全球 30%](https://www.ithome.com/1/001/634.htm)
+4. [“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量](https://www.ithome.com/1/001/633.htm)
+5. [鸿蒙智行问界 M9 Ultimate 领世加长版开启全国交付，64.98 万元起](https://www.ithome.com/1/001/632.htm)

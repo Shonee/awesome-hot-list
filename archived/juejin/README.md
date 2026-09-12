@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-12 19:16:37
+> 更新时间：2026-09-12 20:27:11
 
 ## 热门文章
 
@@ -21,9 +21,9 @@
 15. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
 16. [GPT-6 VS GPT-5.6：你该怎么选](https://juejin.cn/post/7683448371320537124)
 17. [倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发](https://juejin.cn/post/7683784267847925787)
-18. [面试官问我：AI 都能写代码了，前端凭什么还值 25K](https://juejin.cn/post/7683348233489924102)
-19. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
-20. [iPhone Duo 适配详解，需要改变的不止是布局模型](https://juejin.cn/post/7684204098858106886)
+18. [iPhone Duo 适配详解，需要改变的不止是布局模型](https://juejin.cn/post/7684204098858106886)
+19. [面试官问我：AI 都能写代码了，前端凭什么还值 25K](https://juejin.cn/post/7683348233489924102)
+20. [迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App](https://juejin.cn/post/7683400830063444006)
 21. [OkHttp 5.3 隐形变更引发的线上偶发崩溃复盘](https://juejin.cn/post/7683704380166242304)
 22. [什么是 RAG？如何用 RAG 实现一个用户记忆？](https://juejin.cn/post/7683339702867542058)
 23. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
@@ -42,15 +42,15 @@
 36. [一个Docker命令，40万首古诗词API开箱即用](https://juejin.cn/post/7683820796637872154)
 37. [Codex、Claude Code、WorkBuddy + Tabbit CLI：让 AI 操控浏览器发文章](https://juejin.cn/post/7683738599201685538)
 38. [GPT‑6 Astra真正的变化：AI开始直接操作工作软件](https://juejin.cn/post/7683803827217350675)
-39. [从“能回答”到“能干活”：AI Agent真正落地，需要哪些工程能力？](https://juejin.cn/post/7683580012662784042)
-40. [261 种手绘风格：双语提示词，这个 skill 夯爆了！](https://juejin.cn/post/7683515498139222054)
-41. [Tailwind CSS 加入 Shopify，正在用 Tailwind 的项目要不要调整？](https://juejin.cn/post/7683447309472727067)
-42. [微服务环境下如何避免孤儿数据：结合递归，墓碑标记与事件流](https://juejin.cn/post/7683443642279428111)
-43. [如何自己造一个时间处理库](https://juejin.cn/post/7683394933152923688)
-44. [5000亿估值冲刺科创板，DeepSeek 为何急着上市？](https://juejin.cn/post/7684102772083195958)
-45. [Worker 常驻 + 零拷贝：postMessage 的结构化克隆算法与 Transferable 的真实代价](https://juejin.cn/post/7683730433377648686)
-46. [等不到 Apple 的折叠 iPhone，我用 DeepV4.1Flash + workBuddy 一句话自己造了一台](https://juejin.cn/post/7683710262465101864)
+39. [等不到 Apple 的折叠 iPhone，我用 DeepV4.1Flash + workBuddy 一句话自己造了一台](https://juejin.cn/post/7683710262465101864)
+40. [从“能回答”到“能干活”：AI Agent真正落地，需要哪些工程能力？](https://juejin.cn/post/7683580012662784042)
+41. [261 种手绘风格：双语提示词，这个 skill 夯爆了！](https://juejin.cn/post/7683515498139222054)
+42. [Tailwind CSS 加入 Shopify，正在用 Tailwind 的项目要不要调整？](https://juejin.cn/post/7683447309472727067)
+43. [微服务环境下如何避免孤儿数据：结合递归，墓碑标记与事件流](https://juejin.cn/post/7683443642279428111)
+44. [如何自己造一个时间处理库](https://juejin.cn/post/7683394933152923688)
+45. [5000亿估值冲刺科创板，DeepSeek 为何急着上市？](https://juejin.cn/post/7684102772083195958)
+46. [Worker 常驻 + 零拷贝：postMessage 的结构化克隆算法与 Transferable 的真实代价](https://juejin.cn/post/7683730433377648686)
 47. [Gemini 3.8 Flash 是真的站起来了，一起来看看我到底做了什么吧~](https://juejin.cn/post/7683447309472792603)
 48. [当程序员遇到装修：用 AI 画 CAD、搭房子，甚至自己做家具](https://juejin.cn/post/7683447309472579611)
 49. [同一个 Blender 建模，Claude 两个模型都翻车，GPT-6 一次过](https://juejin.cn/post/7683394933152956456)
-50. [2026 爆火的「本体」：给大模型装上业务世界观](https://juejin.cn/post/7684080641566834703)
+50. [我把苹果发布会里的折叠屏，真的用网页做出来了](https://juejin.cn/post/7684463933702291466)

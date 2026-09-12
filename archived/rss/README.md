@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 19:17:18
+> 更新时间：2026-09-12 20:27:51
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All](https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825)
-2. [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
-3. [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
-4. [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
-5. [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+1. [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+2. [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
+3. [Altman tells staff OpenAI is open to slowing AI development](https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/)
+4. [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+5. [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
 
 ## 阮一峰网络日志
 
