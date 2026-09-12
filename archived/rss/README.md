@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 03:15:53
+> 更新时间：2026-09-13 04:21:08
 
 ## 少数派
 
@@ -52,7 +52,7 @@
 
 ## Hacker News
 
-1. [Anthropic CEO Says It's Time to Slow AI Model Advances](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
+1. [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
 2. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
 3. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
 4. [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
