@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 07:18:36
+> 更新时间：2026-09-12 08:53:33
 
 ## 少数派
 
@@ -12,11 +12,11 @@
 
 ## 爱范儿
 
-1. [制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%](https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [在外滩大会上，我看到健康 AI+ 硬件的新可能](https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个](https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」](https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%](https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [在外滩大会上，我看到健康 AI+ 硬件的新可能](https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个](https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃](https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
-2. [Project Blinkenlights](https://blinkenlights.de/en/)
-3. [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
-4. [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
-5. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
-
-## AI News
-
-1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+1. [How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs](https://www.firecrawl.dev/blog/ai-software-factory)
+2. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+3. [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
+4. [Project Blinkenlights](https://blinkenlights.de/en/)
+5. [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
 
 ## 阮一峰网络日志
 
