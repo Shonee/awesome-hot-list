@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-12 18:19:12",
+    "generatedAt": "2026-09-12 18:27:02",
     "channels": [
         {
             "schemaVersion": 1,
@@ -3237,7 +3237,7 @@
             "channelId": "github",
             "channelName": "GitHub",
             "sourceUrl": "https://github.com/trending",
-            "fetchedAt": "2026-09-12 11:32:45",
+            "fetchedAt": "2026-09-12 18:27:00",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -3252,7 +3252,7 @@
                             "rank": 1,
                             "title": "i-have-adhd",
                             "url": "https://github.com/ayghri/i-have-adhd",
-                            "hot": "42,096",
+                            "hot": "42,798",
                             "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. · Python · 3,463 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3261,7 +3261,7 @@
                             "rank": 2,
                             "title": "gods-eye-view",
                             "url": "https://github.com/bilawalsidhu/gods-eye-view",
-                            "hot": "27,298",
+                            "hot": "27,857",
                             "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. · JavaScript · 3,680 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3270,7 +3270,7 @@
                             "rank": 3,
                             "title": "iloader",
                             "url": "https://github.com/nab138/iloader",
-                            "hot": "2,929",
+                            "hot": "2,981",
                             "description": "User friendly sideloader · TypeScript · 50 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3279,7 +3279,7 @@
                             "rank": 4,
                             "title": "DeskcommCRM",
                             "url": "https://github.com/melgarafael/DeskcommCRM",
-                            "hot": "1,400",
+                            "hot": "1,531",
                             "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. · TypeScript · 152 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3288,7 +3288,7 @@
                             "rank": 5,
                             "title": "PI-Desktop",
                             "url": "https://github.com/vastsa/PI-Desktop",
-                            "hot": "2,817",
+                            "hot": "2,946",
                             "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins · TypeScript · 552 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3297,7 +3297,7 @@
                             "rank": 6,
                             "title": "armorpaint",
                             "url": "https://github.com/armory3d/armorpaint",
-                            "hot": "4,747",
+                            "hot": "4,813",
                             "description": "Graphics Creation Tools · C · 350 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3306,7 +3306,7 @@
                             "rank": 7,
                             "title": "CloddsBot",
                             "url": "https://github.com/alsk1992/CloddsBot",
-                            "hot": "2,187",
+                            "hot": "2,292",
                             "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. · TypeScript · 626 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3315,7 +3315,7 @@
                             "rank": 8,
                             "title": "llm_wiki",
                             "url": "https://github.com/nashsu/llm_wiki",
-                            "hot": "18,794",
+                            "hot": "18,956",
                             "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 · TypeScript · 647 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3324,7 +3324,7 @@
                             "rank": 9,
                             "title": "superpowers",
                             "url": "https://github.com/obra/superpowers",
-                            "hot": "285,417",
+                            "hot": "285,560",
                             "description": "An agentic skills framework & software development methodology that works. · Shell · 729 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3333,7 +3333,7 @@
                             "rank": 10,
                             "title": "Sonarr",
                             "url": "https://github.com/Sonarr/Sonarr",
-                            "hot": "15,753",
+                            "hot": "15,820",
                             "description": "Smart PVR for newsgroup and bittorrent users. · C# · 191 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3342,7 +3342,7 @@
                             "rank": 11,
                             "title": "MathModelAgent",
                             "url": "https://github.com/jihe520/MathModelAgent",
-                            "hot": "4,887",
+                            "hot": "4,981",
                             "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. · Python · 129 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3351,7 +3351,7 @@
                             "rank": 12,
                             "title": "OpenFlux",
                             "url": "https://github.com/p1neappleXpress/OpenFlux",
-                            "hot": "1,176",
+                            "hot": "1,264",
                             "description": "Network stack research tool. TCP tunnel with pluggable transports. · Go · 198 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3360,7 +3360,7 @@
                             "rank": 13,
                             "title": "hyperresearch",
                             "url": "https://github.com/jordan-gibbs/hyperresearch",
-                            "hot": "2,680",
+                            "hot": "2,895",
                             "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. · Python · 153 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3369,7 +3369,7 @@
                             "rank": 14,
                             "title": "OpenResearch",
                             "url": "https://github.com/alphaXiv/OpenResearch",
-                            "hot": "1,333",
+                            "hot": "1,493",
                             "description": "Run parallel research agents with any model · Rust · 120 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3378,7 +3378,7 @@
                             "rank": 15,
                             "title": "spec-kit",
                             "url": "https://github.com/github/spec-kit",
-                            "hot": "135,806",
+                            "hot": "135,905",
                             "description": "💫 Toolkit to help you get started with Spec-Driven Development · Python · 1,015 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3387,7 +3387,7 @@
                             "rank": 16,
                             "title": "editor",
                             "url": "https://github.com/pascalorg/editor",
-                            "hot": "23,659",
+                            "hot": "23,805",
                             "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. · TypeScript · 106 stars today",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3405,7 +3405,7 @@
                             "rank": 1,
                             "title": "i-have-adhd",
                             "url": "https://github.com/ayghri/i-have-adhd",
-                            "hot": "42,096",
+                            "hot": "42,798",
                             "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. · Python · 13,164 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3414,7 +3414,7 @@
                             "rank": 2,
                             "title": "ECC",
                             "url": "https://github.com/affaan-m/ECC",
-                            "hot": "256,583",
+                            "hot": "256,759",
                             "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · JavaScript · 8,714 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3423,7 +3423,7 @@
                             "rank": 3,
                             "title": "ponytail",
                             "url": "https://github.com/DietrichGebert/ponytail",
-                            "hot": "135,904",
+                            "hot": "136,171",
                             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · JavaScript · 11,054 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3432,7 +3432,7 @@
                             "rank": 4,
                             "title": "skills",
                             "url": "https://github.com/humanlayer/skills",
-                            "hot": "3,798",
+                            "hot": "3,839",
                             "description": "TypeScript · 1,637 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3441,7 +3441,7 @@
                             "rank": 5,
                             "title": "plugins",
                             "url": "https://github.com/openai/plugins",
-                            "hot": "6,462",
+                            "hot": "6,487",
                             "description": "OpenAI Plugins · JavaScript · 1,063 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3450,7 +3450,7 @@
                             "rank": 6,
                             "title": "archify",
                             "url": "https://github.com/tt-a1i/archify",
-                            "hot": "58,685",
+                            "hot": "59,019",
                             "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. · JavaScript · 11,006 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3459,7 +3459,7 @@
                             "rank": 7,
                             "title": "context-mode",
                             "url": "https://github.com/mksglu/context-mode",
-                            "hot": "22,227",
+                            "hot": "22,263",
                             "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. · TypeScript · 1,810 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3468,7 +3468,7 @@
                             "rank": 8,
                             "title": "skills",
                             "url": "https://github.com/mattpocock/skills",
-                            "hot": "259,862",
+                            "hot": "260,102",
                             "description": "Skills for Real Engineers. Straight from my .agents directory. · Shell · 10,571 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3477,7 +3477,7 @@
                             "rank": 9,
                             "title": "humanizer",
                             "url": "https://github.com/blader/humanizer",
-                            "hot": "46,979",
+                            "hot": "47,093",
                             "description": "Agent skill that removes signs of AI-generated writing from text · Python · 4,649 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3486,7 +3486,7 @@
                             "rank": 10,
                             "title": "skills",
                             "url": "https://github.com/openai/skills",
-                            "hot": "26,935",
+                            "hot": "26,963",
                             "description": "Skills Catalog for Codex · Python · 1,532 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3495,7 +3495,7 @@
                             "rank": 11,
                             "title": "hyperframes",
                             "url": "https://github.com/heygen-com/hyperframes",
-                            "hot": "49,044",
+                            "hot": "49,092",
                             "description": "Write HTML. Render video. Built for agents. · TypeScript · 5,100 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3504,7 +3504,7 @@
                             "rank": 12,
                             "title": "diagram-design",
                             "url": "https://github.com/cathrynlavery/diagram-design",
-                            "hot": "38,539",
+                            "hot": "38,641",
                             "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. · HTML · 7,776 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3513,7 +3513,7 @@
                             "rank": 13,
                             "title": "fmt",
                             "url": "https://github.com/fmtlib/fmt",
-                            "hot": "25,745",
+                            "hot": "25,749",
                             "description": "A modern formatting library · C++ · 338 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3522,7 +3522,7 @@
                             "rank": 14,
                             "title": "gods-eye-view",
                             "url": "https://github.com/bilawalsidhu/gods-eye-view",
-                            "hot": "27,298",
+                            "hot": "27,857",
                             "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. · JavaScript · 8,916 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3531,7 +3531,7 @@
                             "rank": 15,
                             "title": "marketingskills",
                             "url": "https://github.com/coreyhaines31/marketingskills",
-                            "hot": "49,650",
+                            "hot": "49,699",
                             "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. · JavaScript · 2,765 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3540,7 +3540,7 @@
                             "rank": 16,
                             "title": "chrome-devtools-mcp",
                             "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-                            "hot": "51,689",
+                            "hot": "51,718",
                             "description": "Chrome DevTools for coding agents · TypeScript · 804 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3549,7 +3549,7 @@
                             "rank": 17,
                             "title": "markitdown",
                             "url": "https://github.com/microsoft/markitdown",
-                            "hot": "182,704",
+                            "hot": "182,845",
                             "description": "Python tool for converting files and office documents to Markdown. · Python · 4,650 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3558,7 +3558,7 @@
                             "rank": 18,
                             "title": "hermes-agent",
                             "url": "https://github.com/NousResearch/hermes-agent",
-                            "hot": "244,644",
+                            "hot": "244,745",
                             "description": "The agent that grows with you · Python · 3,481 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3567,7 +3567,7 @@
                             "rank": 19,
                             "title": "ruflo",
                             "url": "https://github.com/ruvnet/ruflo",
-                            "hot": "72,154",
+                            "hot": "72,195",
                             "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated · TypeScript · 1,726 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3576,7 +3576,7 @@
                             "rank": 20,
                             "title": "OpenMAIC",
                             "url": "https://github.com/THU-MAIC/OpenMAIC",
-                            "hot": "35,933",
+                            "hot": "36,023",
                             "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click · TypeScript · 4,509 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3585,7 +3585,7 @@
                             "rank": 21,
                             "title": "WeKnora",
                             "url": "https://github.com/Tencent/WeKnora",
-                            "hot": "22,390",
+                            "hot": "22,495",
                             "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. · Go · 964 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3594,7 +3594,7 @@
                             "rank": 22,
                             "title": "skills",
                             "url": "https://github.com/jakubkrehel/skills",
-                            "hot": "6,307",
+                            "hot": "6,377",
                             "description": "A collection of agent skills that help you build a great interface. · Markdown · 691 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3603,7 +3603,7 @@
                             "rank": 23,
                             "title": "open-seo",
                             "url": "https://github.com/every-app/open-seo",
-                            "hot": "18,445",
+                            "hot": "18,489",
                             "description": "Open source alternative to Semrush and Ahrefs · TypeScript · 1,507 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3621,7 +3621,7 @@
                             "rank": 1,
                             "title": "omarchy",
                             "url": "https://github.com/omacom/omarchy",
-                            "hot": "40,376",
+                            "hot": "40,433",
                             "description": "Beautiful, Modern & Opinionated Linux · Shell · 16,125 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3630,7 +3630,7 @@
                             "rank": 2,
                             "title": "archify",
                             "url": "https://github.com/tt-a1i/archify",
-                            "hot": "58,685",
+                            "hot": "59,019",
                             "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. · JavaScript · 47,287 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3639,7 +3639,7 @@
                             "rank": 3,
                             "title": "claude-plugins-community",
                             "url": "https://github.com/anthropics/claude-plugins-community",
-                            "hot": "3,814",
+                            "hot": "3,830",
                             "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. · Python · 3,515 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3648,7 +3648,7 @@
                             "rank": 4,
                             "title": "cordis",
                             "url": "https://github.com/cordiverse/cordis",
-                            "hot": "8,382",
+                            "hot": "8,389",
                             "description": "Meta-Framework of Spatiotemporal Composability · TypeScript · 8,277 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3657,7 +3657,7 @@
                             "rank": 5,
                             "title": "plugins",
                             "url": "https://github.com/cursor/plugins",
-                            "hot": "7,467",
+                            "hot": "7,489",
                             "description": "Cursor plugin specification and official plugins · TypeScript · 4,892 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3666,7 +3666,7 @@
                             "rank": 6,
                             "title": "diagram-design",
                             "url": "https://github.com/cathrynlavery/diagram-design",
-                            "hot": "38,539",
+                            "hot": "38,641",
                             "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. · HTML · 32,734 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3675,7 +3675,7 @@
                             "rank": 7,
                             "title": "OpenLogi",
                             "url": "https://github.com/AprilNEA/OpenLogi",
-                            "hot": "20,704",
+                            "hot": "20,739",
                             "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. · Rust · 12,372 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3684,7 +3684,7 @@
                             "rank": 8,
                             "title": "OpenViking",
                             "url": "https://github.com/volcengine/OpenViking",
-                            "hot": "36,725",
+                            "hot": "36,773",
                             "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. · Python · 8,596 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3693,7 +3693,7 @@
                             "rank": 9,
                             "title": "awesome-gpt-image-2",
                             "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-                            "hot": "31,370",
+                            "hot": "31,432",
                             "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 · JavaScript · 21,657 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3702,7 +3702,7 @@
                             "rank": 10,
                             "title": "OpenMAIC",
                             "url": "https://github.com/THU-MAIC/OpenMAIC",
-                            "hot": "35,933",
+                            "hot": "36,023",
                             "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click · TypeScript · 15,320 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3711,7 +3711,7 @@
                             "rank": 11,
                             "title": "x-algorithm",
                             "url": "https://github.com/xai-org/x-algorithm",
-                            "hot": "33,144",
+                            "hot": "33,160",
                             "description": "Algorithm powering the For You feed on X · Rust · 6,300 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3720,7 +3720,7 @@
                             "rank": 12,
                             "title": "vorssaint-utils",
                             "url": "https://github.com/vorssaint/vorssaint-utils",
-                            "hot": "18,372",
+                            "hot": "18,431",
                             "description": "Free and open-source macOS menu bar toolkit. · Swift · 13,312 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3729,7 +3729,7 @@
                             "rank": 13,
                             "title": "semantica",
                             "url": "https://github.com/semantica-agi/semantica",
-                            "hot": "12,705",
+                            "hot": "12,720",
                             "description": "Graph-Native Infrastructure for Context and Accountable AI Systems · Python · 8,132 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3738,7 +3738,7 @@
                             "rank": 14,
                             "title": "modular",
                             "url": "https://github.com/modular/modular",
-                            "hot": "29,695",
+                            "hot": "29,702",
                             "description": "The Modular Platform (includes MAX & Mojo) · Mojo · 3,088 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3747,7 +3747,7 @@
                             "rank": 15,
                             "title": "VoiceStudio",
                             "url": "https://github.com/debpalash/VoiceStudio",
-                            "hot": "22,625",
+                            "hot": "22,705",
                             "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. · Python · 12,736 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3756,7 +3756,7 @@
                             "rank": 16,
                             "title": "ai-memory",
                             "url": "https://github.com/akitaonrails/ai-memory",
-                            "hot": "6,567",
+                            "hot": "6,588",
                             "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors · Rust · 5,121 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3765,7 +3765,7 @@
                             "rank": 17,
                             "title": "Switchyard",
                             "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-                            "hot": "2,904",
+                            "hot": "2,916",
                             "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. · Python · 2,657 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3774,7 +3774,7 @@
                             "rank": 18,
                             "title": "i-have-adhd",
                             "url": "https://github.com/ayghri/i-have-adhd",
-                            "hot": "42,096",
+                            "hot": "42,798",
                             "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. · Python · 20,983 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3783,7 +3783,7 @@
                             "rank": 19,
                             "title": "vphone-cli",
                             "url": "https://github.com/Lakr233/vphone-cli",
-                            "hot": "11,644",
+                            "hot": "11,676",
                             "description": "Swift · 4,005 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3792,7 +3792,7 @@
                             "rank": 20,
                             "title": "llmfit",
                             "url": "https://github.com/AlexsJones/llmfit",
-                            "hot": "36,102",
+                            "hot": "36,158",
                             "description": "Hundreds of models & providers. One command to find what runs on your hardware. · Rust · 4,799 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3801,7 +3801,7 @@
                             "rank": 21,
                             "title": "public-apis",
                             "url": "https://github.com/public-apis/public-apis",
-                            "hot": "479,067",
+                            "hot": "479,174",
                             "description": "A collective list of free APIs · Python · 24,522 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3810,7 +3810,7 @@
                             "rank": 22,
                             "title": "maka",
                             "url": "https://github.com/apache/maka",
-                            "hot": "5,250",
+                            "hot": "5,263",
                             "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. · TypeScript · 3,974 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3819,7 +3819,7 @@
                             "rank": 23,
                             "title": "needle",
                             "url": "https://github.com/cactus-compute/needle",
-                            "hot": "10,854",
+                            "hot": "10,868",
                             "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots. · Python · 7,243 stars this month",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3837,7 +3837,7 @@
                             "rank": 1,
                             "title": "DevOps-Projects",
                             "url": "https://github.com/NotHarshhaa/DevOps-Projects",
-                            "hot": "5,164",
+                            "hot": "5,166",
                             "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. · Java · 96 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3855,7 +3855,7 @@
                             "rank": 3,
                             "title": "termux-api",
                             "url": "https://github.com/termux/termux-api",
-                            "hot": "4,297",
+                            "hot": "4,298",
                             "description": "Termux add-on app which exposes device functionality as API to command line programs. · Java · 44 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3864,7 +3864,7 @@
                             "rank": 4,
                             "title": "awesome-low-level-design",
                             "url": "https://github.com/ashishps1/awesome-low-level-design",
-                            "hot": "26,734",
+                            "hot": "26,743",
                             "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources. · Java · 155 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3873,7 +3873,7 @@
                             "rank": 5,
                             "title": "termux-app",
                             "url": "https://github.com/termux/termux-app",
-                            "hot": "60,668",
+                            "hot": "60,675",
                             "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java · 383 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3891,7 +3891,7 @@
                             "rank": 7,
                             "title": "Fermata",
                             "url": "https://github.com/AndreyPavlenko/Fermata",
-                            "hot": "1,317",
+                            "hot": "1,316",
                             "description": "Java · 23 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3909,7 +3909,7 @@
                             "rank": 9,
                             "title": "fineract",
                             "url": "https://github.com/apache/fineract",
-                            "hot": "2,469",
+                            "hot": "2,470",
                             "description": "Apache Fineract · Java · 42 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3918,7 +3918,7 @@
                             "rank": 10,
                             "title": "nacos",
                             "url": "https://github.com/alibaba/nacos",
-                            "hot": "33,364",
+                            "hot": "33,363",
                             "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. · Java · 30 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3927,7 +3927,7 @@
                             "rank": 11,
                             "title": "Wukong-AICRM",
                             "url": "https://github.com/WuKongOpenSource/Wukong-AICRM",
-                            "hot": "1,581",
+                            "hot": "1,583",
                             "description": "开源 AI CRM，Salesforce 开源替代 + ChatGPT 式 AI 助手：客户管理、知识库查询、任务执行，全程对话完成。Open-source AI CRM and Salesforce alternative powered by conversational AI. · Java · 178 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3936,7 +3936,7 @@
                             "rank": 12,
                             "title": "JeecgBoot",
                             "url": "https://github.com/jeecgboot/JeecgBoot",
-                            "hot": "47,746",
+                            "hot": "47,755",
                             "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。 · Java · 135 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3945,7 +3945,7 @@
                             "rank": 13,
                             "title": "automq",
                             "url": "https://github.com/AutoMQ/automq",
-                            "hot": "10,697",
+                            "hot": "10,700",
                             "description": "Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. · Java · 92 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3954,7 +3954,7 @@
                             "rank": 14,
                             "title": "GmsCore",
                             "url": "https://github.com/microg/GmsCore",
-                            "hot": "14,546",
+                            "hot": "14,555",
                             "description": "Free implementation of Play Services · Java · 84 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3963,7 +3963,7 @@
                             "rank": 15,
                             "title": "GoGoGo",
                             "url": "https://github.com/ZCShou/GoGoGo",
-                            "hot": "11,235",
+                            "hot": "11,238",
                             "description": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 · Java · 71 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3972,7 +3972,7 @@
                             "rank": 16,
                             "title": "intellij-community",
                             "url": "https://github.com/JetBrains/intellij-community",
-                            "hot": "20,544",
+                            "hot": "20,545",
                             "description": "IntelliJ IDEA & IntelliJ Platform · Java · 38 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3981,7 +3981,7 @@
                             "rank": 17,
                             "title": "langchain4j",
                             "url": "https://github.com/langchain4j/langchain4j",
-                            "hot": "13,072",
+                            "hot": "13,075",
                             "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. · Java · 58 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3990,7 +3990,7 @@
                             "rank": 18,
                             "title": "jimureport",
                             "url": "https://github.com/jeecgboot/jimureport",
-                            "hot": "8,417",
+                            "hot": "8,419",
                             "description": "一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。 · Java · 53 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -3999,7 +3999,7 @@
                             "rank": 19,
                             "title": "SmartTube",
                             "url": "https://github.com/yuliskov/SmartTube",
-                            "hot": "33,037",
+                            "hot": "33,065",
                             "description": "Browse media content with your own rules on Android TV · Java · 409 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4008,7 +4008,7 @@
                             "rank": 20,
                             "title": "astron-agent",
                             "url": "https://github.com/iflytek/astron-agent",
-                            "hot": "8,990",
+                            "hot": "8,992",
                             "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. · Java · 97 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4017,7 +4017,7 @@
                             "rank": 21,
                             "title": "bazel",
                             "url": "https://github.com/bazelbuild/bazel",
-                            "hot": "25,836",
+                            "hot": "25,838",
                             "description": "a fast, scalable, multi-language and extensible build system · Java · 42 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4035,7 +4035,7 @@
                             "rank": 1,
                             "title": "i-have-adhd",
                             "url": "https://github.com/ayghri/i-have-adhd",
-                            "hot": "42,096",
+                            "hot": "42,798",
                             "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. · Python · 13,164 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4044,7 +4044,7 @@
                             "rank": 2,
                             "title": "humanizer",
                             "url": "https://github.com/blader/humanizer",
-                            "hot": "46,979",
+                            "hot": "47,093",
                             "description": "Agent skill that removes signs of AI-generated writing from text · Python · 4,649 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4053,7 +4053,7 @@
                             "rank": 3,
                             "title": "skills",
                             "url": "https://github.com/openai/skills",
-                            "hot": "26,935",
+                            "hot": "26,963",
                             "description": "Skills Catalog for Codex · Python · 1,532 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4062,7 +4062,7 @@
                             "rank": 4,
                             "title": "markitdown",
                             "url": "https://github.com/microsoft/markitdown",
-                            "hot": "182,704",
+                            "hot": "182,845",
                             "description": "Python tool for converting files and office documents to Markdown. · Python · 4,650 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4071,7 +4071,7 @@
                             "rank": 5,
                             "title": "hermes-agent",
                             "url": "https://github.com/NousResearch/hermes-agent",
-                            "hot": "244,644",
+                            "hot": "244,745",
                             "description": "The agent that grows with you · Python · 3,481 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4080,7 +4080,7 @@
                             "rank": 6,
                             "title": "academic-research-skills",
                             "url": "https://github.com/Imbad0202/academic-research-skills",
-                            "hot": "47,682",
+                            "hot": "47,723",
                             "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize · Python · 1,434 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4089,7 +4089,7 @@
                             "rank": 7,
                             "title": "no-ai-slop",
                             "url": "https://github.com/petergyang/no-ai-slop",
-                            "hot": "8,444",
+                            "hot": "8,491",
                             "description": "Removes 20+ patterns of AI slop from any piece of writing. · Python · 1,255 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4098,7 +4098,7 @@
                             "rank": 8,
                             "title": "browser-use",
                             "url": "https://github.com/browser-use/browser-use",
-                            "hot": "114,269",
+                            "hot": "114,294",
                             "description": "Agents that use the browser. · Python · 2,023 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4107,7 +4107,7 @@
                             "rank": 9,
                             "title": "ai-engineering-from-scratch",
                             "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-                            "hot": "54,286",
+                            "hot": "54,320",
                             "description": "Learn it. Build it. Ship it for others. · Python · 1,918 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4116,7 +4116,7 @@
                             "rank": 10,
                             "title": "AutoHedge",
                             "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-                            "hot": "6,013",
+                            "hot": "6,019",
                             "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. · Python · 1,677 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4125,7 +4125,7 @@
                             "rank": 11,
                             "title": "VoiceStudio",
                             "url": "https://github.com/debpalash/VoiceStudio",
-                            "hot": "22,625",
+                            "hot": "22,705",
                             "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. · Python · 5,465 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4134,7 +4134,7 @@
                             "rank": 12,
                             "title": "exploitarium",
                             "url": "https://github.com/bikini/exploitarium",
-                            "hot": "5,093",
+                            "hot": "5,096",
                             "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. · Python · 707 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4143,7 +4143,7 @@
                             "rank": 13,
                             "title": "minimind",
                             "url": "https://github.com/jingyaogong/minimind",
-                            "hot": "60,745",
+                            "hot": "60,780",
                             "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h! · Python · 2,290 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4152,7 +4152,7 @@
                             "rank": 14,
                             "title": "Hands-On-AI-Engineering",
                             "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
-                            "hot": "3,433",
+                            "hot": "3,454",
                             "description": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases. · Python · 280 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4161,7 +4161,7 @@
                             "rank": 15,
                             "title": "SkillSpector",
                             "url": "https://github.com/NVIDIA/SkillSpector",
-                            "hot": "16,981",
+                            "hot": "17,001",
                             "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. · Python · 911 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4170,7 +4170,7 @@
                             "rank": 16,
                             "title": "blender-mcp",
                             "url": "https://github.com/ahujasid/blender-mcp",
-                            "hot": "28,247",
+                            "hot": "28,293",
                             "description": "Community plugin to control Blender 3D with any LLM of your choice · Python · 1,411 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4179,7 +4179,7 @@
                             "rank": 17,
                             "title": "timesfm",
                             "url": "https://github.com/google-research/timesfm",
-                            "hot": "32,257",
+                            "hot": "32,291",
                             "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. · Python · 1,362 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4188,7 +4188,7 @@
                             "rank": 18,
                             "title": "Sequoia-X",
                             "url": "https://github.com/sngyai/Sequoia-X",
-                            "hot": "7,140",
+                            "hot": "7,150",
                             "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 · Python · 557 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4197,7 +4197,7 @@
                             "rank": 19,
                             "title": "open-webui",
                             "url": "https://github.com/open-webui/open-webui",
-                            "hot": "151,683",
+                            "hot": "151,724",
                             "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...) · Python · 805 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4206,7 +4206,7 @@
                             "rank": 20,
                             "title": "text-to-cad",
                             "url": "https://github.com/earthtojake/text-to-cad",
-                            "hot": "15,372",
+                            "hot": "15,383",
                             "description": "A library of agent skills for CAD, CAE and CAM · Python · 1,071 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4215,7 +4215,7 @@
                             "rank": 21,
                             "title": "OmniVoice",
                             "url": "https://github.com/k2-fsa/OmniVoice",
-                            "hot": "12,397",
+                            "hot": "12,560",
                             "description": "High-Quality Voice Cloning TTS for 600+ Languages · Python · 2,370 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4224,7 +4224,7 @@
                             "rank": 22,
                             "title": "production-agentic-rag-course",
                             "url": "https://github.com/jamwithai/production-agentic-rag-course",
-                            "hot": "8,885",
+                            "hot": "8,891",
                             "description": "Python · 306 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4242,7 +4242,7 @@
                             "rank": 1,
                             "title": "WeKnora",
                             "url": "https://github.com/Tencent/WeKnora",
-                            "hot": "22,390",
+                            "hot": "22,495",
                             "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. · Go · 964 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4251,7 +4251,7 @@
                             "rank": 2,
                             "title": "ollama",
                             "url": "https://github.com/ollama/ollama",
-                            "hot": "180,702",
+                            "hot": "180,718",
                             "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. · Go · 668 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4260,7 +4260,7 @@
                             "rank": 3,
                             "title": "new-api",
                             "url": "https://github.com/QuantumNous/new-api",
-                            "hot": "47,933",
+                            "hot": "47,956",
                             "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. · Go · 663 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4269,7 +4269,7 @@
                             "rank": 4,
                             "title": "gentle-ai",
                             "url": "https://github.com/Gentleman-Programming/gentle-ai",
-                            "hot": "6,673",
+                            "hot": "6,682",
                             "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in. · Go · 441 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4278,7 +4278,7 @@
                             "rank": 5,
                             "title": "filebrowser",
                             "url": "https://github.com/gtsteffaniak/filebrowser",
-                            "hot": "8,259",
+                            "hot": "8,260",
                             "description": "📂 Web File Browser · Go · 250 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4287,7 +4287,7 @@
                             "rank": 6,
                             "title": "pentagi",
                             "url": "https://github.com/vxcontrol/pentagi",
-                            "hot": "23,001",
+                            "hot": "23,043",
                             "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks · Go · 698 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4296,7 +4296,7 @@
                             "rank": 7,
                             "title": "bifrost",
                             "url": "https://github.com/maximhq/bifrost",
-                            "hot": "7,988",
+                            "hot": "7,991",
                             "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. · Go · 185 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4305,7 +4305,7 @@
                             "rank": 8,
                             "title": "semantic-router",
                             "url": "https://github.com/vllm-project/semantic-router",
-                            "hot": "5,741",
+                            "hot": "5,746",
                             "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference · Go · 181 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4314,7 +4314,7 @@
                             "rank": 9,
                             "title": "netbird",
                             "url": "https://github.com/netbirdio/netbird",
-                            "hot": "29,133",
+                            "hot": "29,140",
                             "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. · Go · 245 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4323,7 +4323,7 @@
                             "rank": 10,
                             "title": "katana",
                             "url": "https://github.com/projectdiscovery/katana",
-                            "hot": "17,471",
+                            "hot": "17,476",
                             "description": "A next-generation crawling and spidering framework. · Go · 83 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4332,7 +4332,7 @@
                             "rank": 11,
                             "title": "rclone",
                             "url": "https://github.com/rclone/rclone",
-                            "hot": "59,715",
+                            "hot": "59,727",
                             "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files · Go · 180 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4341,7 +4341,7 @@
                             "rank": 12,
                             "title": "Xray-core",
                             "url": "https://github.com/XTLS/Xray-core",
-                            "hot": "41,540",
+                            "hot": "41,547",
                             "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. · Go · 156 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4350,40 +4350,31 @@
                             "rank": 13,
                             "title": "LocalAI",
                             "url": "https://github.com/mudler/LocalAI",
-                            "hot": "49,060",
+                            "hot": "49,069",
                             "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. · Go · 223 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
                             "rank": 14,
-                            "title": "dozzle",
-                            "url": "https://github.com/amir20/dozzle",
-                            "hot": "14,352",
-                            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s. · Go · 84 stars this week",
-                            "imageUrl": "",
-                            "publishedAt": ""
-                        },
-                        {
-                            "rank": 15,
                             "title": "engram",
                             "url": "https://github.com/Gentleman-Programming/engram",
-                            "hot": "6,536",
+                            "hot": "6,542",
                             "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. · Go · 215 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
-                            "rank": 16,
+                            "rank": 15,
                             "title": "caveman",
                             "url": "https://github.com/JuliusBrussee/caveman",
-                            "hot": "105,059",
+                            "hot": "105,133",
                             "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman · Go · 1,646 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
-                            "rank": 17,
+                            "rank": 16,
                             "title": "google-api-go-client",
                             "url": "https://github.com/googleapis/google-api-go-client",
                             "hot": "4,474",
@@ -4404,7 +4395,7 @@
                             "rank": 1,
                             "title": "diagram-design",
                             "url": "https://github.com/cathrynlavery/diagram-design",
-                            "hot": "38,539",
+                            "hot": "38,642",
                             "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. · HTML · 7,776 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4413,7 +4404,7 @@
                             "rank": 2,
                             "title": "galaxy",
                             "url": "https://github.com/uiverse-io/galaxy",
-                            "hot": "12,709",
+                            "hot": "12,720",
                             "description": "The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. · HTML · 390 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4422,7 +4413,7 @@
                             "rank": 3,
                             "title": "prompts.chat",
                             "url": "https://github.com/f/prompts.chat",
-                            "hot": "170,010",
+                            "hot": "170,063",
                             "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. · HTML · 772 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4431,7 +4422,7 @@
                             "rank": 4,
                             "title": "reclip",
                             "url": "https://github.com/averygan/reclip",
-                            "hot": "9,195",
+                            "hot": "9,204",
                             "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. · HTML · 496 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4440,7 +4431,7 @@
                             "rank": 5,
                             "title": "codeflow",
                             "url": "https://github.com/braedonsaunders/codeflow",
-                            "hot": "5,189",
+                            "hot": "5,190",
                             "description": "Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser. · HTML · 53 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4458,7 +4449,7 @@
                             "rank": 7,
                             "title": "awesome-compose",
                             "url": "https://github.com/docker/awesome-compose",
-                            "hot": "46,292",
+                            "hot": "46,294",
                             "description": "Awesome Docker Compose samples · HTML · 70 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4467,7 +4458,7 @@
                             "rank": 8,
                             "title": "fonts",
                             "url": "https://github.com/google/fonts",
-                            "hot": "20,474",
+                            "hot": "20,477",
                             "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts · HTML · 41 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4476,7 +4467,7 @@
                             "rank": 9,
                             "title": "cua",
                             "url": "https://github.com/trycua/cua",
-                            "hot": "22,532",
+                            "hot": "22,543",
                             "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. · HTML · 341 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4485,7 +4476,7 @@
                             "rank": 10,
                             "title": "OpenClash",
                             "url": "https://github.com/vernesong/OpenClash",
-                            "hot": "27,436",
+                            "hot": "27,440",
                             "description": "A Clash Client For OpenWrt · HTML · 86 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4503,7 +4494,7 @@
                             "rank": 1,
                             "title": "ECC",
                             "url": "https://github.com/affaan-m/ECC",
-                            "hot": "256,583",
+                            "hot": "256,759",
                             "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · JavaScript · 8,714 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4512,7 +4503,7 @@
                             "rank": 2,
                             "title": "ponytail",
                             "url": "https://github.com/DietrichGebert/ponytail",
-                            "hot": "135,904",
+                            "hot": "136,171",
                             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · JavaScript · 11,054 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4521,7 +4512,7 @@
                             "rank": 3,
                             "title": "plugins",
                             "url": "https://github.com/openai/plugins",
-                            "hot": "6,462",
+                            "hot": "6,487",
                             "description": "OpenAI Plugins · JavaScript · 1,063 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4530,7 +4521,7 @@
                             "rank": 4,
                             "title": "archify",
                             "url": "https://github.com/tt-a1i/archify",
-                            "hot": "58,685",
+                            "hot": "59,019",
                             "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. · JavaScript · 11,006 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4539,7 +4530,7 @@
                             "rank": 5,
                             "title": "gods-eye-view",
                             "url": "https://github.com/bilawalsidhu/gods-eye-view",
-                            "hot": "27,299",
+                            "hot": "27,857",
                             "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. · JavaScript · 8,916 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4548,7 +4539,7 @@
                             "rank": 6,
                             "title": "marketingskills",
                             "url": "https://github.com/coreyhaines31/marketingskills",
-                            "hot": "49,650",
+                            "hot": "49,699",
                             "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. · JavaScript · 2,765 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4557,7 +4548,7 @@
                             "rank": 7,
                             "title": "camofox-browser",
                             "url": "https://github.com/jo-inc/camofox-browser",
-                            "hot": "10,943",
+                            "hot": "10,953",
                             "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. · JavaScript · 1,871 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4566,7 +4557,7 @@
                             "rank": 8,
                             "title": "stremio-web",
                             "url": "https://github.com/Stremio/stremio-web",
-                            "hot": "13,834",
+                            "hot": "13,844",
                             "description": "Stremio - Freedom to Stream · JavaScript · 741 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4575,7 +4566,7 @@
                             "rank": 9,
                             "title": "everything-claude-code",
                             "url": "https://github.com/WorldFlowAI/everything-claude-code",
-                            "hot": "2,826",
+                            "hot": "2,839",
                             "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development · JavaScript · 729 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4584,7 +4575,7 @@
                             "rank": 10,
                             "title": "openwhispr",
                             "url": "https://github.com/OpenWhispr/openwhispr",
-                            "hot": "8,072",
+                            "hot": "8,079",
                             "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. · JavaScript · 1,404 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4593,7 +4584,7 @@
                             "rank": 11,
                             "title": "9router",
                             "url": "https://github.com/decolua/9router",
-                            "hot": "28,473",
+                            "hot": "28,501",
                             "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. · JavaScript · 1,400 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4602,7 +4593,7 @@
                             "rank": 12,
                             "title": "OpenBidKit_Yibiao",
                             "url": "https://github.com/FB208/OpenBidKit_Yibiao",
-                            "hot": "2,908",
+                            "hot": "2,909",
                             "description": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用 · JavaScript · 266 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4611,7 +4602,7 @@
                             "rank": 13,
                             "title": "system_prompts_leaks",
                             "url": "https://github.com/asgeirtj/system_prompts_leaks",
-                            "hot": "64,914",
+                            "hot": "64,961",
                             "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. · JavaScript · 741 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4620,7 +4611,7 @@
                             "rank": 14,
                             "title": "register",
                             "url": "https://github.com/is-a-dev/register",
-                            "hot": "11,251",
+                            "hot": "11,253",
                             "description": "Grab your own sweet-looking '.is-a.dev' subdomain. · JavaScript · 99 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4629,7 +4620,7 @@
                             "rank": 15,
                             "title": "react",
                             "url": "https://github.com/react/react",
-                            "hot": "250,047",
+                            "hot": "250,050",
                             "description": "The library for web and native user interfaces. · JavaScript · 1,105 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4638,7 +4629,7 @@
                             "rank": 16,
                             "title": "awesome-copilot",
                             "url": "https://github.com/github/awesome-copilot",
-                            "hot": "38,913",
+                            "hot": "38,923",
                             "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. · JavaScript · 288 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4647,7 +4638,7 @@
                             "rank": 17,
                             "title": "edit",
                             "url": "https://github.com/fmhy/edit",
-                            "hot": "11,736",
+                            "hot": "11,737",
                             "description": "Make changes to FMHY · JavaScript · 197 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4656,7 +4647,7 @@
                             "rank": 18,
                             "title": "Open-Generative-AI",
                             "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-                            "hot": "28,310",
+                            "hot": "28,334",
                             "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. · JavaScript · 610 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -4665,7 +4656,7 @@
                             "rank": 19,
                             "title": "anything-llm",
                             "url": "https://github.com/Mintplex-Labs/anything-llm",
-                            "hot": "65,941",
+                            "hot": "65,949",
                             "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience · JavaScript · 348 stars this week",
                             "imageUrl": "",
                             "publishedAt": ""
@@ -9123,7 +9114,7 @@
             "channelId": "maimai",
             "channelName": "脉脉",
             "sourceUrl": "https://maimai.cn/web/gossip_list",
-            "fetchedAt": "2026-09-12 11:32:45",
+            "fetchedAt": "2026-09-12 18:27:00",
             "status": "disabled",
             "error": "missing MAIMAI_COOKIE",
             "rankings": []
@@ -9133,7 +9124,7 @@
             "channelId": "xueqiu",
             "channelName": "雪球",
             "sourceUrl": "https://xueqiu.com/today",
-            "fetchedAt": "2026-09-12 11:32:47",
+            "fetchedAt": "2026-09-12 18:27:02",
             "status": "disabled",
             "error": "xueqiu API unavailable: 400 Client Error:  for url: https://xueqiu.com/hot_event/list.json?count=10",
             "rankings": []

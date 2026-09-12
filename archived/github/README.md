@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-12 11:32:45
+> 更新时间：2026-09-12 18:27:00
 
 ## 每日趋势
 
@@ -137,10 +137,9 @@
 11. [rclone](https://github.com/rclone/rclone)
 12. [Xray-core](https://github.com/XTLS/Xray-core)
 13. [LocalAI](https://github.com/mudler/LocalAI)
-14. [dozzle](https://github.com/amir20/dozzle)
-15. [engram](https://github.com/Gentleman-Programming/engram)
-16. [caveman](https://github.com/JuliusBrussee/caveman)
-17. [google-api-go-client](https://github.com/googleapis/google-api-go-client)
+14. [engram](https://github.com/Gentleman-Programming/engram)
+15. [caveman](https://github.com/JuliusBrussee/caveman)
+16. [google-api-go-client](https://github.com/googleapis/google-api-go-client)
 
 ## HTML
 
