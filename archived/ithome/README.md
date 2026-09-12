@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-12 12:23:29
+> 更新时间：2026-09-12 14:31:52
 
 ## 最新资讯
 
-1. [特斯拉纽约致命车祸引争议：马斯克否认涉及 Autopilot 并嘲讽 ABC 等传统媒体“故意往特斯拉身上带节奏”](https://www.ithome.com/1/001/550.htm)
-2. [“全球最速万元内便携 HiFi 播放器”飞傲 M25 系列发布，7499 元](https://www.ithome.com/1/001/549.htm)
-3. [月之暗面：网传创始人及员工信息纯属虚构，已向公安机关报案](https://www.ithome.com/1/001/537.htm)
-4. [上汽大通 2027 款大家 9 正式上市，限时权益价 23.99 万元起](https://www.ithome.com/1/001/535.htm)
-5. [山灵 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日发售：外壳采用铜合金 CNC 工艺，11980 元](https://www.ithome.com/1/001/534.htm)
+1. [苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购](https://www.ithome.com/1/001/571.htm)
+2. [海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元](https://www.ithome.com/1/001/570.htm)
+3. [Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元](https://www.ithome.com/1/001/568.htm)
+4. [全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元](https://www.ithome.com/1/001/563.htm)
+5. [阿里千问办公上架麒麟软件商店，已原生适配全部主流操作系统](https://www.ithome.com/1/001/562.htm)

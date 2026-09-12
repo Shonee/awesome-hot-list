@@ -1,16 +1,16 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-12 13:30:47
+> 更新时间：2026-09-12 14:32:09
 
 ## 最有料热点
 
 1. [美军机图案讽日本,老日不敢言](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363742&topic_name=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9B%BE%E6%A1%88%E8%AE%BD%E6%97%A5%E6%9C%AC%2C%E8%80%81%E6%97%A5%E4%B8%8D%E6%95%A2%E8%A8%80)
 2. [吴柳芳带货扑街,男粉不消费](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363748&topic_name=%E5%90%B4%E6%9F%B3%E8%8A%B3%E5%B8%A6%E8%B4%A7%E6%89%91%E8%A1%97%2C%E7%94%B7%E7%B2%89%E4%B8%8D%E6%B6%88%E8%B4%B9)
-3. [青岛货轮起火,外包又扛雷](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363752&topic_name=%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E8%B5%B7%E7%81%AB%2C%E5%A4%96%E5%8C%85%E5%8F%88%E6%89%9B%E9%9B%B7)
-4. [粉丝滥用政务热线,男团凉凉](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363746&topic_name=%E7%B2%89%E4%B8%9D%E6%BB%A5%E7%94%A8%E6%94%BF%E5%8A%A1%E7%83%AD%E7%BA%BF%2C%E7%94%B7%E5%9B%A2%E5%87%89%E5%87%89)
+3. [局势升级,胡塞逼近曼德海峡](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363743&topic_name=%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%2C%E8%83%A1%E5%A1%9E%E9%80%BC%E8%BF%91%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1)
+4. [青岛货轮起火,外包又扛雷](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363752&topic_name=%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E8%B5%B7%E7%81%AB%2C%E5%A4%96%E5%8C%85%E5%8F%88%E6%89%9B%E9%9B%B7)
 5. [小孩叫服务员阿姨被围攻](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363753&topic_name=%E5%B0%8F%E5%AD%A9%E5%8F%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E9%98%BF%E5%A7%A8%E8%A2%AB%E5%9B%B4%E6%94%BB)
-6. [禁播!LPL拉黑管泽元](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363741&topic_name=%E7%A6%81%E6%92%AD%21LPL%E6%8B%89%E9%BB%91%E7%AE%A1%E6%B3%BD%E5%85%83)
-7. [局势升级,胡塞逼近曼德海峡](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363743&topic_name=%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%2C%E8%83%A1%E5%A1%9E%E9%80%BC%E8%BF%91%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1)
+6. [粉丝滥用政务热线,男团凉凉](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363746&topic_name=%E7%B2%89%E4%B8%9D%E6%BB%A5%E7%94%A8%E6%94%BF%E5%8A%A1%E7%83%AD%E7%BA%BF%2C%E7%94%B7%E5%9B%A2%E5%87%89%E5%87%89)
+7. [禁播!LPL拉黑管泽元](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363741&topic_name=%E7%A6%81%E6%92%AD%21LPL%E6%8B%89%E9%BB%91%E7%AE%A1%E6%B3%BD%E5%85%83)
 8. [万元新机到手4小时炸屏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363747&topic_name=%E4%B8%87%E5%85%83%E6%96%B0%E6%9C%BA%E5%88%B0%E6%89%8B4%E5%B0%8F%E6%97%B6%E7%82%B8%E5%B1%8F)
 9. [骂汉族挑对立,宋剑仁被判刑](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363707&topic_name=%E9%AA%82%E6%B1%89%E6%97%8F%E6%8C%91%E5%AF%B9%E7%AB%8B%2C%E5%AE%8B%E5%89%91%E4%BB%81%E8%A2%AB%E5%88%A4%E5%88%91)
 10. [小钰生日,Rookie夸现任美女](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363737&topic_name=%E5%B0%8F%E9%92%B0%E7%94%9F%E6%97%A5%2CRookie%E5%A4%B8%E7%8E%B0%E4%BB%BB%E7%BE%8E%E5%A5%B3)
