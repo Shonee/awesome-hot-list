@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-12 14:31:52
+> 更新时间：2026-09-12 15:20:20
 
 ## 最新资讯
 
-1. [苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购](https://www.ithome.com/1/001/571.htm)
-2. [海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元](https://www.ithome.com/1/001/570.htm)
-3. [Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元](https://www.ithome.com/1/001/568.htm)
-4. [全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元](https://www.ithome.com/1/001/563.htm)
-5. [阿里千问办公上架麒麟软件商店，已原生适配全部主流操作系统](https://www.ithome.com/1/001/562.htm)
+1. [小米 18 Fold 中折叠手机首销情况曝光，开售当日约 3.6 万台](https://www.ithome.com/1/001/581.htm)
+2. [AMD 发布 R5 7500 和 5500F：售价 189/99 美元，扩展 AM5、AM4 桌面处理器产品线](https://www.ithome.com/1/001/580.htm)
+3. [阿维塔 9 系旗舰 SUV 黑色款官图亮相，全新设计语言](https://www.ithome.com/1/001/579.htm)
+4. [国家超算互联网注册用户量突破 170 万，国产算力占比超 95%](https://www.ithome.com/1/001/578.htm)
+5. [小米澎程 SUV 今日开启交付，雷军在彭城给首批车主开车门](https://www.ithome.com/1/001/576.htm)

@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 14:32:38
+> 更新时间：2026-09-12 15:20:57
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神](https://www.qbitai.com/2026/09/487653.html)
-2. [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
-3. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
-4. [百度秒哒再升级！让最懂业务的人，亲手造自己的系统](https://www.qbitai.com/2026/09/487415.html)
-5. [不简单，“吃货快乐榜”也全面AI化了](https://www.qbitai.com/2026/09/487282.html)
+1. [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
+2. [陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神](https://www.qbitai.com/2026/09/487653.html)
+3. [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
+4. [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
+5. [百度秒哒再升级！让最懂业务的人，亲手造自己的系统](https://www.qbitai.com/2026/09/487415.html)
 
 ## InfoQ
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [macOS defaults list: Incomplete list of macOS defaults commands with demos](https://macos-defaults.com)
+1. [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
 2. [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
 3. [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
 4. [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
 5. [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
-
-## AI News
-
-1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 
