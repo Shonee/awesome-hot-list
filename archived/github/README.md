@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-12 05:25:27
+> 更新时间：2026-09-12 11:32:45
 
 ## 每日趋势
 
@@ -137,9 +137,10 @@
 11. [rclone](https://github.com/rclone/rclone)
 12. [Xray-core](https://github.com/XTLS/Xray-core)
 13. [LocalAI](https://github.com/mudler/LocalAI)
-14. [engram](https://github.com/Gentleman-Programming/engram)
-15. [caveman](https://github.com/JuliusBrussee/caveman)
-16. [google-api-go-client](https://github.com/googleapis/google-api-go-client)
+14. [dozzle](https://github.com/amir20/dozzle)
+15. [engram](https://github.com/Gentleman-Programming/engram)
+16. [caveman](https://github.com/JuliusBrussee/caveman)
+17. [google-api-go-client](https://github.com/googleapis/google-api-go-client)
 
 ## HTML
 
@@ -169,8 +170,9 @@
 11. [9router](https://github.com/decolua/9router)
 12. [OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao)
 13. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-14. [react](https://github.com/react/react)
-15. [awesome-copilot](https://github.com/github/awesome-copilot)
-16. [edit](https://github.com/fmhy/edit)
-17. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-18. [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+14. [register](https://github.com/is-a-dev/register)
+15. [react](https://github.com/react/react)
+16. [awesome-copilot](https://github.com/github/awesome-copilot)
+17. [edit](https://github.com/fmhy/edit)
+18. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+19. [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
