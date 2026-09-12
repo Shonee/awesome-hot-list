@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 01:17:13
+> 更新时间：2026-09-13 02:22:47
 
 ## 少数派
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
-2. [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
-3. [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
-4. [Is it time for a Luddite Renaissance?](https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance)
-5. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
-
-## AI News
-
-1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+1. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+2. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+3. [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
+4. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+5. [I made a build visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/)
 
 ## 阮一峰网络日志
 
