@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-12 23:18:31
+> 更新时间：2026-09-13 00:21:15
 
 ## 少数派
 
@@ -52,10 +52,10 @@
 
 ## Hacker News
 
-1. [Ask HN: What default model do you use and why?](https://news.ycombinator.com/item?id=49672966)
-2. [Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"](https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun)
-3. [You Don't Need Matrix Calculus](https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html)
-4. [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
+1. [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
+2. [Is it time for a Luddite Renaissance?](https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance)
+3. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+4. [Europe's "Less" Is Doing More Than Anyone Gives It Credit For](https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html)
 5. [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
 
 ## 阮一峰网络日志
