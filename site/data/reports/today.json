@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-12",
-    "generatedAt": "2026-09-12 16:26:04",
-    "summary": "国乒男单全军覆没成为本期综合热度最高的话题，丁俊晖晋级英格兰公开赛四强紧随其后。当前覆盖 22 个有效渠道，共形成 577 个榜单时间切片；发现 21 个跨渠道重复热点。",
+    "generatedAt": "2026-09-12 16:33:00",
+    "summary": "国乒男单全军覆没成为本期综合热度最高的话题，丁俊晖晋级英格兰公开赛四强紧随其后。当前覆盖 22 个有效渠道，共形成 578 个榜单时间切片；发现 21 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2846,
+        "deduplicated": 2854,
         "resonance": 21,
         "maxRise": 48,
-        "slices": 577,
+        "slices": 578,
         "coverage": 96
     },
     "topTopics": [
@@ -4786,9 +4786,503 @@
             ]
         },
         {
+            "word": "GPT",
+            "weight": 66,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 17,
+                    "title": "ChatGPT Pro 200美元档停售",
+                    "url": "https://search.bilibili.com/all?keyword=ChatGPT%20Pro%20200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 8,
+                    "title": "GPT-6 正式发布",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 9,
+                    "title": "GPT-6 贵",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 22,
+                    "title": "为什么 GPT 要暂停 $200 pro 订阅？",
+                    "url": "https://www.zhihu.com/question/2081639111572698705"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 43,
+                    "title": "怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？",
+                    "url": "https://www.zhihu.com/question/2080336745191817631"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 45,
+                    "title": "Codex 里的 GPT 6 Astra 、 GPT 5.6 Sol 、 Terra 、 Luna 怎么选？",
+                    "url": "https://www.zhihu.com/question/2079625515565060391"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 50,
+                    "title": "GPT-6 Astra 会给具身行业带来哪些影响？",
+                    "url": "https://www.zhihu.com/question/2081165724622513410"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 9,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 19,
+                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
+                    "url": "https://juejin.cn/post/7683072481465057323"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 25,
+                    "title": "GPT-6 VS GPT-5.6：你该怎么选",
+                    "url": "https://juejin.cn/post/7683448371320537124"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 46,
+                    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
+                    "url": "https://juejin.cn/post/7683803827217350675"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 50,
+                    "title": "别只拿 GPT-6 Astra 聊天，它真正恐怖的是开始会“干活”了",
+                    "url": "https://juejin.cn/post/7683152167265026111"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
+                    "url": "https://www.ithome.com/1/001/485.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 5,
+                    "title": "GPT-6登顶第一，AlphaFold之后最大震撼，成抗体预测最强AI",
+                    "url": "https://www.36kr.com/p/3978455065508609"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 8,
+                    "title": "OpenAI宣布：ChatGPT Pro 20X停止订阅",
+                    "url": "https://www.36kr.com/p/3978220011928576"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 13,
+                    "title": "从发布到“售罄”只用8天，OpenAI紧急停售ChatGPT Pro 20X",
+                    "url": "https://www.36kr.com/p/3978341442599943"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 31,
+                    "title": "GPT-6 已经这么强，为什么我们还不肯叫它 AGI？",
+                    "url": "https://www.36kr.com/p/3977696591812230"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 45,
+                    "title": "AI数学的最后一道高墙，塌了，GPT-6 Astra刷穿FrontierMath Tier 4",
+                    "url": "https://www.36kr.com/p/3978639480617733"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
+                    "url": "https://www.v2ex.com/t/1241484"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "GPT和DEEPSEEK选择",
+                    "url": "https://www.nodeseek.com/post-924387-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "NodeSeek （gpt-6已上）评论福利：评论留言用户ID，新用户送 $3，老用户送满 ¥20 减 ¥5 优惠券",
+                    "url": "https://www.nodeseek.com/post-922604-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 28,
+                    "title": "chatgpt momo 越南渠道试用复活",
+                    "url": "https://www.nodeseek.com/post-924415-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 12,
+                    "title": "玻区GPT订阅界面发生变化，是出问题了吗？",
+                    "url": "https://www.nodeseek.com/post-924458-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 22,
+                    "title": "50 出几个 gpt 学生认证 4 个月 plus 会员",
+                    "url": "https://www.nodeseek.com/post-924459-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 36,
+                    "title": "chatgpt 邀请额度分析",
+                    "url": "https://www.nodeseek.com/post-924310-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "09 / 06 OpenAI ChatGPT Pro 20x 在线自助拼车 多区域端点接入",
+                    "url": "https://www.nodeseek.com/post-914438-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 32,
+                    "title": "招行万事达卡可以直接用来开gptpro吗？",
+                    "url": "https://www.nodeseek.com/post-924307-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 24,
+                    "title": "fiat24 原来不能订阅 chatgpt啊",
+                    "url": "https://www.nodeseek.com/post-924522-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "ChatGPT plus好像可以免费试用一个月了",
+                    "url": "https://www.nodeseek.com/post-924538-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 25,
+                    "title": "Azure 学生订阅如何部署 Azure OpenAI GPT-5.6-sol",
+                    "url": "https://www.nodeseek.com/post-912295-1"
+                }
+            ]
+        },
+        {
+            "word": "gpt",
+            "weight": 66,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 17,
+                    "title": "ChatGPT Pro 200美元档停售",
+                    "url": "https://search.bilibili.com/all?keyword=ChatGPT%20Pro%20200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 8,
+                    "title": "GPT-6 正式发布",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 9,
+                    "title": "GPT-6 贵",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 22,
+                    "title": "为什么 GPT 要暂停 $200 pro 订阅？",
+                    "url": "https://www.zhihu.com/question/2081639111572698705"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 43,
+                    "title": "怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？",
+                    "url": "https://www.zhihu.com/question/2080336745191817631"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 45,
+                    "title": "Codex 里的 GPT 6 Astra 、 GPT 5.6 Sol 、 Terra 、 Luna 怎么选？",
+                    "url": "https://www.zhihu.com/question/2079625515565060391"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 50,
+                    "title": "GPT-6 Astra 会给具身行业带来哪些影响？",
+                    "url": "https://www.zhihu.com/question/2081165724622513410"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 9,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 19,
+                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
+                    "url": "https://juejin.cn/post/7683072481465057323"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 25,
+                    "title": "GPT-6 VS GPT-5.6：你该怎么选",
+                    "url": "https://juejin.cn/post/7683448371320537124"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 46,
+                    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
+                    "url": "https://juejin.cn/post/7683803827217350675"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 50,
+                    "title": "别只拿 GPT-6 Astra 聊天，它真正恐怖的是开始会“干活”了",
+                    "url": "https://juejin.cn/post/7683152167265026111"
+                },
+                {
+                    "channelId": "ithome",
+                    "channelName": "IT之家",
+                    "ranking": "最新资讯",
+                    "rank": 3,
+                    "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
+                    "url": "https://www.ithome.com/1/001/485.htm"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 5,
+                    "title": "GPT-6登顶第一，AlphaFold之后最大震撼，成抗体预测最强AI",
+                    "url": "https://www.36kr.com/p/3978455065508609"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 8,
+                    "title": "OpenAI宣布：ChatGPT Pro 20X停止订阅",
+                    "url": "https://www.36kr.com/p/3978220011928576"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 13,
+                    "title": "从发布到“售罄”只用8天，OpenAI紧急停售ChatGPT Pro 20X",
+                    "url": "https://www.36kr.com/p/3978341442599943"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 31,
+                    "title": "GPT-6 已经这么强，为什么我们还不肯叫它 AGI？",
+                    "url": "https://www.36kr.com/p/3977696591812230"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 45,
+                    "title": "AI数学的最后一道高墙，塌了，GPT-6 Astra刷穿FrontierMath Tier 4",
+                    "url": "https://www.36kr.com/p/3978639480617733"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
+                    "url": "https://www.v2ex.com/t/1241484"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "GPT和DEEPSEEK选择",
+                    "url": "https://www.nodeseek.com/post-924387-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "NodeSeek （gpt-6已上）评论福利：评论留言用户ID，新用户送 $3，老用户送满 ¥20 减 ¥5 优惠券",
+                    "url": "https://www.nodeseek.com/post-922604-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 28,
+                    "title": "chatgpt momo 越南渠道试用复活",
+                    "url": "https://www.nodeseek.com/post-924415-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 12,
+                    "title": "玻区GPT订阅界面发生变化，是出问题了吗？",
+                    "url": "https://www.nodeseek.com/post-924458-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 22,
+                    "title": "50 出几个 gpt 学生认证 4 个月 plus 会员",
+                    "url": "https://www.nodeseek.com/post-924459-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 36,
+                    "title": "chatgpt 邀请额度分析",
+                    "url": "https://www.nodeseek.com/post-924310-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "09 / 06 OpenAI ChatGPT Pro 20x 在线自助拼车 多区域端点接入",
+                    "url": "https://www.nodeseek.com/post-914438-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 32,
+                    "title": "招行万事达卡可以直接用来开gptpro吗？",
+                    "url": "https://www.nodeseek.com/post-924307-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 24,
+                    "title": "fiat24 原来不能订阅 chatgpt啊",
+                    "url": "https://www.nodeseek.com/post-924522-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "ChatGPT plus好像可以免费试用一个月了",
+                    "url": "https://www.nodeseek.com/post-924538-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 25,
+                    "title": "Azure 学生订阅如何部署 Azure OpenAI GPT-5.6-sol",
+                    "url": "https://www.nodeseek.com/post-912295-1"
+                }
+            ]
+        },
+        {
             "word": "国家",
             "weight": 31,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5034,8 +5528,8 @@
         },
         {
             "word": "大家",
-            "weight": 29,
-            "tone": "",
+            "weight": 30,
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5182,6 +5676,14 @@
                     "url": "https://www.v2ex.com/t/1241328"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 9,
+                    "title": "大家觉得我们还需要去发明新的 IM 吗",
+                    "url": "https://www.v2ex.com/t/1241397"
+                },
+                {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
@@ -5268,21 +5770,13 @@
                     "rank": 17,
                     "title": "大家准备啥时候入手折叠屏",
                     "url": "https://www.nodeseek.com/post-924910-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 50,
-                    "title": "联通手机流量最近似乎频繁断流，大家有类似情况吗？",
-                    "url": "https://www.nodeseek.com/post-924935-1"
                 }
             ]
         },
         {
             "word": "DeepSeek",
             "weight": 27,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5529,7 +6023,7 @@
         {
             "word": "科技",
             "weight": 24,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -5776,7 +6270,7 @@
         {
             "word": "模型",
             "weight": 18,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -5925,41 +6419,17 @@
             ]
         },
         {
-            "word": "GPT",
-            "weight": 65,
-            "tone": "",
+            "word": "代码",
+            "weight": 14,
+            "tone": "teal",
             "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 17,
-                    "title": "ChatGPT Pro 200美元档停售",
-                    "url": "https://search.bilibili.com/all?keyword=ChatGPT%20Pro%20200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 8,
-                    "title": "GPT-6 正式发布",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 9,
-                    "title": "GPT-6 贵",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
-                },
                 {
                     "channelId": "zhihu",
                     "channelName": "知乎",
                     "ranking": "知乎热榜",
-                    "rank": 22,
-                    "title": "为什么 GPT 要暂停 $200 pro 订阅？",
-                    "url": "https://www.zhihu.com/question/2081639111572698705"
+                    "rank": 50,
+                    "title": "AI 生成的代码会出错吗？需要人工审查吗？",
+                    "url": "https://www.zhihu.com/question/2073904454076724200"
                 },
                 {
                     "channelId": "zhihu",
@@ -5970,458 +6440,123 @@
                     "url": "https://www.zhihu.com/question/2080336745191817631"
                 },
                 {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 26,
+                    "title": "让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践",
+                    "url": "https://juejin.cn/post/7683049897089335336"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 31,
+                    "title": "面试官问我：AI 都能写代码了，前端凭什么还值 25K",
+                    "url": "https://juejin.cn/post/7683348233489924102"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
                     "rank": 45,
-                    "title": "Codex 里的 GPT 6 Astra 、 GPT 5.6 Sol 、 Terra 、 Luna 怎么选？",
-                    "url": "https://www.zhihu.com/question/2079625515565060391"
+                    "title": "AI 改祖传模块后，代码评审总绕不开两个问题",
+                    "url": "https://juejin.cn/post/7683724457529294854"
                 },
                 {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 50,
-                    "title": "GPT-6 Astra 会给具身行业带来哪些影响？",
-                    "url": "https://www.zhihu.com/question/2081165724622513410"
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "AI抢走写代码工作谁来培养工程师",
+                    "url": "https://www.toutiao.com/trending/7684268291560312339/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684268291560312339%22%2C%22hot_board_impr_id%22%3A%2220260912002313CD04C86E12DAE9EF8A7E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%8A%A2%E8%B5%B0%E5%86%99%E4%BB%A3%E7%A0%81%E5%B7%A5%E4%BD%9C%E8%B0%81%E6%9D%A5%E5%9F%B9%E5%85%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D&rank=&style_id=40132&topic_id=7684268291560312339"
                 },
                 {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 9,
-                    "title": "awesome-gpt-image-2",
-                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 32,
+                    "title": "AI抢走写代码工作谁来培养工程师",
+                    "url": "https://www.toutiao.com/trending/7684268291560312339/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684268291560312339%22%2C%22hot_board_impr_id%22%3A%2220260912011835589C9C7E19734C754853%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%8A%A2%E8%B5%B0%E5%86%99%E4%BB%A3%E7%A0%81%E5%B7%A5%E4%BD%9C%E8%B0%81%E6%9D%A5%E5%9F%B9%E5%85%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D&rank=&style_id=40132&topic_id=7684268291560312339"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 19,
-                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
-                    "url": "https://juejin.cn/post/7683072481465057323"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 25,
-                    "title": "GPT-6 VS GPT-5.6：你该怎么选",
-                    "url": "https://juejin.cn/post/7683448371320537124"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 46,
-                    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
-                    "url": "https://juejin.cn/post/7683803827217350675"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 50,
-                    "title": "别只拿 GPT-6 Astra 聊天，它真正恐怖的是开始会“干活”了",
-                    "url": "https://juejin.cn/post/7683152167265026111"
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 48,
+                    "title": "AI抢走写代码工作谁来培养工程师",
+                    "url": "https://www.toutiao.com/trending/7684268291560312339/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684268291560312339%22%2C%22hot_board_impr_id%22%3A%2220260912022517C66C892C156FF908F1D3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%8A%A2%E8%B5%B0%E5%86%99%E4%BB%A3%E7%A0%81%E5%B7%A5%E4%BD%9C%E8%B0%81%E6%9D%A5%E5%9F%B9%E5%85%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D&rank=&style_id=40132&topic_id=7684268291560312339"
                 },
                 {
                     "channelId": "ithome",
                     "channelName": "IT之家",
                     "ranking": "最新资讯",
                     "rank": 3,
-                    "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
-                    "url": "https://www.ithome.com/1/001/485.htm"
+                    "title": "开源 AI 移动自动化项目 Minitap 指控谷歌盗用自家代码，且起初未注明出处",
+                    "url": "https://www.ithome.com/1/001/590.htm"
                 },
                 {
                     "channelId": "36kr",
                     "channelName": "36氪",
                     "ranking": "热榜",
-                    "rank": 5,
-                    "title": "GPT-6登顶第一，AlphaFold之后最大震撼，成抗体预测最强AI",
-                    "url": "https://www.36kr.com/p/3978455065508609"
+                    "rank": 49,
+                    "title": "“AI写的代码「惨不忍睹」！”Linux内核开发者吐槽：Bug找得挺准，23个补丁最高提速90%，但代码都是我重写的",
+                    "url": "https://www.36kr.com/p/3978950516636674"
                 },
                 {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "OpenAI宣布：ChatGPT Pro 20X停止订阅",
-                    "url": "https://www.36kr.com/p/3978220011928576"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 13,
-                    "title": "从发布到“售罄”只用8天，OpenAI紧急停售ChatGPT Pro 20X",
-                    "url": "https://www.36kr.com/p/3978341442599943"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 31,
-                    "title": "GPT-6 已经这么强，为什么我们还不肯叫它 AGI？",
-                    "url": "https://www.36kr.com/p/3977696591812230"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 45,
-                    "title": "AI数学的最后一道高墙，塌了，GPT-6 Astra刷穿FrontierMath Tier 4",
-                    "url": "https://www.36kr.com/p/3978639480617733"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 3,
-                    "title": "GPT和DEEPSEEK选择",
-                    "url": "https://www.nodeseek.com/post-924387-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
                     "ranking": "热门主题",
                     "rank": 8,
-                    "title": "NodeSeek （gpt-6已上）评论福利：评论留言用户ID，新用户送 $3，老用户送满 ¥20 减 ¥5 优惠券",
-                    "url": "https://www.nodeseek.com/post-922604-1"
+                    "title": "vibe coding 的代码你怎么放心上线？",
+                    "url": "https://www.v2ex.com/t/1241529"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 6,
+                    "title": ".NET 异常处理的\"暗门\"：代码里写满 catch，你依然能抓住它——从一个 AI Agent 运行时的源码说起",
+                    "url": "https://www.cnblogs.com/shanyou/p/22814535"
                 },
                 {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
-                    "rank": 28,
-                    "title": "chatgpt momo 越南渠道试用复活",
-                    "url": "https://www.nodeseek.com/post-924415-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "玻区GPT订阅界面发生变化，是出问题了吗？",
-                    "url": "https://www.nodeseek.com/post-924458-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 22,
-                    "title": "50 出几个 gpt 学生认证 4 个月 plus 会员",
-                    "url": "https://www.nodeseek.com/post-924459-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 36,
-                    "title": "chatgpt 邀请额度分析",
-                    "url": "https://www.nodeseek.com/post-924310-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 9,
-                    "title": "09 / 06 OpenAI ChatGPT Pro 20x 在线自助拼车 多区域端点接入",
-                    "url": "https://www.nodeseek.com/post-914438-1"
+                    "rank": 20,
+                    "title": "写代码现在办公室不允许使用cc、codex之类的国外agent，用什么智能体比较好",
+                    "url": "https://www.nodeseek.com/post-921944-1"
                 },
                 {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
                     "rank": 32,
-                    "title": "招行万事达卡可以直接用来开gptpro吗？",
-                    "url": "https://www.nodeseek.com/post-924307-1"
+                    "title": "Blogger/blogspot 引入google的code-prettify实现代码高亮 并保留手动设置的文字颜色",
+                    "url": "https://www.nodeseek.com/post-924599-1"
                 },
                 {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
-                    "rank": 24,
-                    "title": "fiat24 原来不能订阅 chatgpt啊",
-                    "url": "https://www.nodeseek.com/post-924522-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 5,
-                    "title": "ChatGPT plus好像可以免费试用一个月了",
-                    "url": "https://www.nodeseek.com/post-924538-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 25,
-                    "title": "Azure 学生订阅如何部署 Azure OpenAI GPT-5.6-sol",
-                    "url": "https://www.nodeseek.com/post-912295-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 3,
-                    "title": "Gpt降智",
-                    "url": "https://www.nodeseek.com/post-924578-1"
-                }
-            ]
-        },
-        {
-            "word": "gpt",
-            "weight": 65,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
                     "rank": 17,
-                    "title": "ChatGPT Pro 200美元档停售",
-                    "url": "https://search.bilibili.com/all?keyword=ChatGPT%20Pro%20200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE"
+                    "title": "Kimi 新套餐已经上线，据说 699 增加了  Kimi Work Agent 额度 代码额度砍半了",
+                    "url": "https://www.nodeseek.com/post-924651-1"
                 },
                 {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 8,
-                    "title": "GPT-6 正式发布",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 9,
-                    "title": "GPT-6 贵",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 22,
-                    "title": "为什么 GPT 要暂停 $200 pro 订阅？",
-                    "url": "https://www.zhihu.com/question/2081639111572698705"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 43,
-                    "title": "怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？",
-                    "url": "https://www.zhihu.com/question/2080336745191817631"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 45,
-                    "title": "Codex 里的 GPT 6 Astra 、 GPT 5.6 Sol 、 Terra 、 Luna 怎么选？",
-                    "url": "https://www.zhihu.com/question/2079625515565060391"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 50,
-                    "title": "GPT-6 Astra 会给具身行业带来哪些影响？",
-                    "url": "https://www.zhihu.com/question/2081165724622513410"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 9,
-                    "title": "awesome-gpt-image-2",
-                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 19,
-                    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
-                    "url": "https://juejin.cn/post/7683072481465057323"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 25,
-                    "title": "GPT-6 VS GPT-5.6：你该怎么选",
-                    "url": "https://juejin.cn/post/7683448371320537124"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 46,
-                    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
-                    "url": "https://juejin.cn/post/7683803827217350675"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 50,
-                    "title": "别只拿 GPT-6 Astra 聊天，它真正恐怖的是开始会“干活”了",
-                    "url": "https://juejin.cn/post/7683152167265026111"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
-                    "url": "https://www.ithome.com/1/001/485.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 5,
-                    "title": "GPT-6登顶第一，AlphaFold之后最大震撼，成抗体预测最强AI",
-                    "url": "https://www.36kr.com/p/3978455065508609"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "OpenAI宣布：ChatGPT Pro 20X停止订阅",
-                    "url": "https://www.36kr.com/p/3978220011928576"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 13,
-                    "title": "从发布到“售罄”只用8天，OpenAI紧急停售ChatGPT Pro 20X",
-                    "url": "https://www.36kr.com/p/3978341442599943"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 31,
-                    "title": "GPT-6 已经这么强，为什么我们还不肯叫它 AGI？",
-                    "url": "https://www.36kr.com/p/3977696591812230"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 45,
-                    "title": "AI数学的最后一道高墙，塌了，GPT-6 Astra刷穿FrontierMath Tier 4",
-                    "url": "https://www.36kr.com/p/3978639480617733"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 3,
-                    "title": "GPT和DEEPSEEK选择",
-                    "url": "https://www.nodeseek.com/post-924387-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 8,
-                    "title": "NodeSeek （gpt-6已上）评论福利：评论留言用户ID，新用户送 $3，老用户送满 ¥20 减 ¥5 优惠券",
-                    "url": "https://www.nodeseek.com/post-922604-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 28,
-                    "title": "chatgpt momo 越南渠道试用复活",
-                    "url": "https://www.nodeseek.com/post-924415-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "玻区GPT订阅界面发生变化，是出问题了吗？",
-                    "url": "https://www.nodeseek.com/post-924458-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 22,
-                    "title": "50 出几个 gpt 学生认证 4 个月 plus 会员",
-                    "url": "https://www.nodeseek.com/post-924459-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 36,
-                    "title": "chatgpt 邀请额度分析",
-                    "url": "https://www.nodeseek.com/post-924310-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 9,
-                    "title": "09 / 06 OpenAI ChatGPT Pro 20x 在线自助拼车 多区域端点接入",
-                    "url": "https://www.nodeseek.com/post-914438-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 32,
-                    "title": "招行万事达卡可以直接用来开gptpro吗？",
-                    "url": "https://www.nodeseek.com/post-924307-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 24,
-                    "title": "fiat24 原来不能订阅 chatgpt啊",
-                    "url": "https://www.nodeseek.com/post-924522-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 5,
-                    "title": "ChatGPT plus好像可以免费试用一个月了",
-                    "url": "https://www.nodeseek.com/post-924538-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 25,
-                    "title": "Azure 学生订阅如何部署 Azure OpenAI GPT-5.6-sol",
-                    "url": "https://www.nodeseek.com/post-912295-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 3,
-                    "title": "Gpt降智",
-                    "url": "https://www.nodeseek.com/post-924578-1"
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 2,
+                    "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
+                    "url": "https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&utm_medium=article"
                 }
             ]
         },
         {
             "word": "公司",
             "weight": 35,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -6668,7 +6803,7 @@
         {
             "word": "一次",
             "weight": 32,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6909,133 +7044,6 @@
                     "rank": 3,
                     "title": "【最多推荐】 2026年AI编程工具大全，33个主流工具一次看懂(3/7/1312)",
                     "url": "https://www.cnblogs.com/jinjiangongzuoshi/p/22929704"
-                }
-            ]
-        },
-        {
-            "word": "代码",
-            "weight": 13,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 50,
-                    "title": "AI 生成的代码会出错吗？需要人工审查吗？",
-                    "url": "https://www.zhihu.com/question/2073904454076724200"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 43,
-                    "title": "怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？",
-                    "url": "https://www.zhihu.com/question/2080336745191817631"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 26,
-                    "title": "让 AI 真正读懂你的代码：一套可复用的 Cursor 辅助编码实践",
-                    "url": "https://juejin.cn/post/7683049897089335336"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 31,
-                    "title": "面试官问我：AI 都能写代码了，前端凭什么还值 25K",
-                    "url": "https://juejin.cn/post/7683348233489924102"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 45,
-                    "title": "AI 改祖传模块后，代码评审总绕不开两个问题",
-                    "url": "https://juejin.cn/post/7683724457529294854"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "AI抢走写代码工作谁来培养工程师",
-                    "url": "https://www.toutiao.com/trending/7684268291560312339/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684268291560312339%22%2C%22hot_board_impr_id%22%3A%2220260912002313CD04C86E12DAE9EF8A7E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%8A%A2%E8%B5%B0%E5%86%99%E4%BB%A3%E7%A0%81%E5%B7%A5%E4%BD%9C%E8%B0%81%E6%9D%A5%E5%9F%B9%E5%85%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D&rank=&style_id=40132&topic_id=7684268291560312339"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 32,
-                    "title": "AI抢走写代码工作谁来培养工程师",
-                    "url": "https://www.toutiao.com/trending/7684268291560312339/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684268291560312339%22%2C%22hot_board_impr_id%22%3A%2220260912011835589C9C7E19734C754853%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%8A%A2%E8%B5%B0%E5%86%99%E4%BB%A3%E7%A0%81%E5%B7%A5%E4%BD%9C%E8%B0%81%E6%9D%A5%E5%9F%B9%E5%85%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D&rank=&style_id=40132&topic_id=7684268291560312339"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 48,
-                    "title": "AI抢走写代码工作谁来培养工程师",
-                    "url": "https://www.toutiao.com/trending/7684268291560312339/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684268291560312339%22%2C%22hot_board_impr_id%22%3A%2220260912022517C66C892C156FF908F1D3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%8A%A2%E8%B5%B0%E5%86%99%E4%BB%A3%E7%A0%81%E5%B7%A5%E4%BD%9C%E8%B0%81%E6%9D%A5%E5%9F%B9%E5%85%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%22%7D&rank=&style_id=40132&topic_id=7684268291560312339"
-                },
-                {
-                    "channelId": "ithome",
-                    "channelName": "IT之家",
-                    "ranking": "最新资讯",
-                    "rank": 3,
-                    "title": "开源 AI 移动自动化项目 Minitap 指控谷歌盗用自家代码，且起初未注明出处",
-                    "url": "https://www.ithome.com/1/001/590.htm"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 49,
-                    "title": "“AI写的代码「惨不忍睹」！”Linux内核开发者吐槽：Bug找得挺准，23个补丁最高提速90%，但代码都是我重写的",
-                    "url": "https://www.36kr.com/p/3978950516636674"
-                },
-                {
-                    "channelId": "cnblogs",
-                    "channelName": "博客园",
-                    "ranking": "24 小时推荐排行",
-                    "rank": 6,
-                    "title": ".NET 异常处理的\"暗门\"：代码里写满 catch，你依然能抓住它——从一个 AI Agent 运行时的源码说起",
-                    "url": "https://www.cnblogs.com/shanyou/p/22814535"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 20,
-                    "title": "写代码现在办公室不允许使用cc、codex之类的国外agent，用什么智能体比较好",
-                    "url": "https://www.nodeseek.com/post-921944-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 32,
-                    "title": "Blogger/blogspot 引入google的code-prettify实现代码高亮 并保留手动设置的文字颜色",
-                    "url": "https://www.nodeseek.com/post-924599-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 17,
-                    "title": "Kimi 新套餐已经上线，据说 699 增加了  Kimi Work Agent 额度 代码额度砍半了",
-                    "url": "https://www.nodeseek.com/post-924651-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 2,
-                    "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
-                    "url": "https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&utm_medium=article"
                 }
             ]
         },
@@ -9375,10 +9383,10 @@
     "flow": {
         "times": [
             "00:23",
-            "04:29",
-            "08:59",
+            "05:17",
+            "09:26",
             "13:20",
-            "16:25"
+            "16:32"
         ],
         "rows": [
             {

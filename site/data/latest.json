@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-12 16:25:38",
+    "generatedAt": "2026-09-12 16:32:33",
     "channels": [
         {
             "schemaVersion": 1,
@@ -9116,7 +9116,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-12 12:31:33",
+            "fetchedAt": "2026-09-12 16:32:33",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -9129,66 +9129,84 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "筷子不能竖着插在饭里是全国性的常识吗？",
-                            "url": "https://www.v2ex.com/t/1241327",
-                            "hot": 187,
-                            "description": "问与答",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 14:29:24"
-                        },
-                        {
-                            "rank": 2,
-                            "title": "-52% 还能回本吗",
-                            "url": "https://www.v2ex.com/t/1241315",
-                            "hot": 79,
-                            "description": "投资",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 08:17:03"
-                        },
-                        {
-                            "rank": 3,
-                            "title": "有人买了中转站 6TB 的数据，里面有大量的服务器账号安全数据，看你们还敢用中转吗？",
-                            "url": "https://www.v2ex.com/t/1241336",
-                            "hot": 59,
-                            "description": "程序员",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 15:07:33"
-                        },
-                        {
-                            "rank": 4,
-                            "title": "[送码]在手机端 AI 编程最佳应用： Octrix",
-                            "url": "https://www.v2ex.com/t/1241311",
-                            "hot": 56,
-                            "description": "分享创造",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 13:48:37"
-                        },
-                        {
-                            "rank": 5,
-                            "title": "为一个弱智的问题 大家怎么插入的图片",
-                            "url": "https://www.v2ex.com/t/1241328",
-                            "hot": 55,
-                            "description": "问与答",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 14:32:02"
-                        },
-                        {
-                            "rank": 6,
-                            "title": "有些人不允许别人把筷子竖着插进饭里",
-                            "url": "https://www.v2ex.com/t/1241413",
-                            "hot": 54,
-                            "description": "随想",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 18:47:54"
-                        },
-                        {
-                            "rank": 7,
                             "title": "讨论一下在手机上编程是不是伪需求",
                             "url": "https://www.v2ex.com/t/1241482",
-                            "hot": 40,
+                            "hot": 62,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 09:20:44"
+                        },
+                        {
+                            "rank": 2,
+                            "title": "v2ex 注册成功",
+                            "url": "https://www.v2ex.com/t/1241517",
+                            "hot": 50,
+                            "description": "生活",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 12:26:10"
+                        },
+                        {
+                            "rank": 3,
+                            "title": "codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神",
+                            "url": "https://www.v2ex.com/t/1241506",
+                            "hot": 43,
+                            "description": "程序员",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 11:35:41"
+                        },
+                        {
+                            "rank": 4,
+                            "title": "幼儿园的名单公示，打码规则是否不太合理？",
+                            "url": "https://www.v2ex.com/t/1241383",
+                            "hot": 35,
+                            "description": "分享发现",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-11 17:11:13"
+                        },
+                        {
+                            "rank": 5,
+                            "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
+                            "url": "https://www.v2ex.com/t/1241484",
+                            "hot": 28,
+                            "description": "推广",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 09:26:36"
+                        },
+                        {
+                            "rank": 6,
+                            "title": "不想上班了，回老家县城躺平是否可行？",
+                            "url": "https://www.v2ex.com/t/1241455",
+                            "hot": 26,
+                            "description": "生活",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-11 23:40:28"
+                        },
+                        {
+                            "rank": 7,
+                            "title": "木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办",
+                            "url": "https://www.v2ex.com/t/1241486",
+                            "hot": 24,
+                            "description": "问与答",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 09:54:42"
+                        },
+                        {
+                            "rank": 8,
+                            "title": "vibe coding 的代码你怎么放心上线？",
+                            "url": "https://www.v2ex.com/t/1241529",
+                            "hot": 22,
+                            "description": "程序员",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 14:00:24"
+                        },
+                        {
+                            "rank": 9,
+                            "title": "大家觉得我们还需要去发明新的 IM 吗",
+                            "url": "https://www.v2ex.com/t/1241397",
+                            "hot": 21,
+                            "description": "程序员",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-11 17:40:15"
                         }
                     ]
                 }
