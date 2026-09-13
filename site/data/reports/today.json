@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-13",
-    "generatedAt": "2026-09-13 12:24:57",
-    "summary": "央视知名主持人敬一丹去世成为本期综合热度最高的话题，皇马4-1巴列卡诺紧随其后。当前覆盖 22 个有效渠道，共形成 448 个榜单时间切片；发现 16 个跨渠道重复热点。",
+    "generatedAt": "2026-09-13 12:32:30",
+    "summary": "央视知名主持人敬一丹去世成为本期综合热度最高的话题，皇马4-1巴列卡诺紧随其后。当前覆盖 22 个有效渠道，共形成 449 个榜单时间切片；发现 16 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2227,
+        "deduplicated": 2232,
         "resonance": 16,
         "maxRise": 45,
-        "slices": 448,
+        "slices": 449,
         "coverage": 96
     },
     "topTopics": [
@@ -4858,7 +4858,7 @@
         },
         {
             "word": "GPT",
-            "weight": 34,
+            "weight": 35,
             "tone": "",
             "hits": [
                 {
@@ -4918,6 +4918,14 @@
                     "url": "https://www.v2ex.com/t/1241484"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "你们 ChatGPT 重置了吗？",
+                    "url": "https://www.v2ex.com/t/1241535"
+                },
+                {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
@@ -5092,20 +5100,12 @@
                     "rank": 34,
                     "title": "gpt5.6-luna怕不是给我路由到了gpt5.5mini",
                     "url": "https://www.nodeseek.com/post-926222-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "开车菲区 Chat GPT 20x pro，还有两个车位",
-                    "url": "https://www.nodeseek.com/post-895121-1"
                 }
             ]
         },
         {
             "word": "gpt",
-            "weight": 34,
+            "weight": 35,
             "tone": "hot",
             "hits": [
                 {
@@ -5165,6 +5165,14 @@
                     "url": "https://www.v2ex.com/t/1241484"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "你们 ChatGPT 重置了吗？",
+                    "url": "https://www.v2ex.com/t/1241535"
+                },
+                {
                     "channelId": "nodeseek",
                     "channelName": "NodeSeek",
                     "ranking": "热门主题",
@@ -5339,14 +5347,6 @@
                     "rank": 34,
                     "title": "gpt5.6-luna怕不是给我路由到了gpt5.5mini",
                     "url": "https://www.nodeseek.com/post-926222-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "开车菲区 Chat GPT 20x pro，还有两个车位",
-                    "url": "https://www.nodeseek.com/post-895121-1"
                 }
             ]
         },
@@ -8945,8 +8945,8 @@
             "00:20",
             "03:14",
             "07:17",
-            "09:08",
-            "12:24"
+            "09:34",
+            "12:32"
         ],
         "rows": [
             {

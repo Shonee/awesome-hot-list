@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-13 12:24:41",
+    "generatedAt": "2026-09-13 12:32:13",
     "channels": [
         {
             "schemaVersion": 1,
@@ -8783,7 +8783,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-13 09:08:04",
+            "fetchedAt": "2026-09-13 12:32:13",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -8796,84 +8796,75 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "讨论一下在手机上编程是不是伪需求",
-                            "url": "https://www.v2ex.com/t/1241482",
-                            "hot": 96,
-                            "description": "程序员",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 09:20:44"
-                        },
-                        {
-                            "rank": 2,
-                            "title": "v2ex 注册成功",
-                            "url": "https://www.v2ex.com/t/1241517",
-                            "hot": 67,
-                            "description": "生活",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 12:26:10"
-                        },
-                        {
-                            "rank": 3,
-                            "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
-                            "url": "https://www.v2ex.com/t/1241484",
-                            "hot": 61,
-                            "description": "推广",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 09:26:36"
-                        },
-                        {
-                            "rank": 4,
-                            "title": "codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神",
-                            "url": "https://www.v2ex.com/t/1241506",
-                            "hot": 55,
-                            "description": "程序员",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 11:35:41"
-                        },
-                        {
-                            "rank": 5,
                             "title": "vibe coding 的代码你怎么放心上线？",
                             "url": "https://www.v2ex.com/t/1241529",
-                            "hot": 48,
+                            "hot": 60,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 14:00:24"
                         },
                         {
-                            "rank": 6,
-                            "title": "不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历",
-                            "url": "https://www.v2ex.com/t/1241515",
-                            "hot": 47,
-                            "description": "分享创造",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 12:21:19"
-                        },
-                        {
-                            "rank": 7,
-                            "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
-                            "url": "https://www.v2ex.com/t/1241528",
-                            "hot": 41,
-                            "description": "程序员",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 13:53:32"
-                        },
-                        {
-                            "rank": 8,
+                            "rank": 2,
                             "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
                             "url": "https://www.v2ex.com/t/1241596",
-                            "hot": 41,
+                            "hot": 56,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 22:02:48"
                         },
                         {
-                            "rank": 9,
-                            "title": "你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?",
-                            "url": "https://www.v2ex.com/t/1241496",
-                            "hot": 31,
+                            "rank": 3,
+                            "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
+                            "url": "https://www.v2ex.com/t/1241528",
+                            "hot": 46,
                             "description": "程序员",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-12 10:55:07"
+                            "publishedAt": "2026-09-12 13:53:32"
+                        },
+                        {
+                            "rank": 4,
+                            "title": "你们一天喝多少咖啡的？",
+                            "url": "https://www.v2ex.com/t/1241624",
+                            "hot": 35,
+                            "description": "咖啡",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 08:56:05"
+                        },
+                        {
+                            "rank": 5,
+                            "title": "养育孩子的牙齿，父母应该知道的事",
+                            "url": "https://www.v2ex.com/t/1241532",
+                            "hot": 26,
+                            "description": "生活",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 14:38:56"
+                        },
+                        {
+                            "rank": 6,
+                            "title": "18PM 抢到了， 10099 元",
+                            "url": "https://www.v2ex.com/t/1241578",
+                            "hot": 25,
+                            "description": "iPhone",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 20:04:58"
+                        },
+                        {
+                            "rank": 7,
+                            "title": "你们 ChatGPT 重置了吗？",
+                            "url": "https://www.v2ex.com/t/1241535",
+                            "hot": 23,
+                            "description": "OpenAI",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 15:04:41"
+                        },
+                        {
+                            "rank": 8,
+                            "title": "今晚 8 点开抢，你准备买哪款？",
+                            "url": "https://www.v2ex.com/t/1241540",
+                            "hot": 22,
+                            "description": "iPhone",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 15:12:39"
                         }
                     ]
                 }
