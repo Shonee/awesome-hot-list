@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 10:30:59
+> 更新时间：2026-09-13 11:26:14
 
 ## 少数派
 
@@ -52,7 +52,7 @@
 
 ## Hacker News
 
-1. [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+1. [The Interim Computer Museum](https://icm.museum/)
 2. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
 3. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
 4. [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/)
