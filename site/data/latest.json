@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-14 04:20:45",
+    "generatedAt": "2026-09-14 04:27:55",
     "channels": [
         {
             "schemaVersion": 1,
@@ -8774,7 +8774,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-14 00:28:44",
+            "fetchedAt": "2026-09-14 04:27:55",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -8789,7 +8789,7 @@
                             "rank": 1,
                             "title": "你们一天喝多少咖啡的？",
                             "url": "https://www.v2ex.com/t/1241624",
-                            "hot": 79,
+                            "hot": 82,
                             "description": "咖啡",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 08:56:05"
@@ -8798,7 +8798,7 @@
                             "rank": 2,
                             "title": "陶哲轩等数学家反对 AI，论失败的意义",
                             "url": "https://www.v2ex.com/t/1241637",
-                            "hot": 68,
+                            "hot": 70,
                             "description": "随想",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 11:29:43"
@@ -8807,7 +8807,7 @@
                             "rank": 3,
                             "title": "用 Astra 把家乡的竹林老屋做成一个可以游览的网页",
                             "url": "https://www.v2ex.com/t/1241660",
-                            "hot": 43,
+                            "hot": 44,
                             "description": "分享创造",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 14:38:29"
@@ -8825,13 +8825,22 @@
                             "rank": 5,
                             "title": "有没有什么工具，可以远程让 codex 干活？",
                             "url": "https://www.v2ex.com/t/1241635",
-                            "hot": 32,
+                            "hot": 35,
                             "description": "问与答",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 11:21:35"
                         },
                         {
                             "rank": 6,
+                            "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
+                            "url": "https://www.v2ex.com/t/1241642",
+                            "hot": 26,
+                            "description": "Apple",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 12:05:45"
+                        },
+                        {
+                            "rank": 7,
                             "title": "pdd 的金领冠真的不能买吗？",
                             "url": "https://www.v2ex.com/t/1241677",
                             "hot": 26,
@@ -8840,31 +8849,22 @@
                             "publishedAt": "2026-09-13 17:21:10"
                         },
                         {
-                            "rank": 7,
-                            "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
-                            "url": "https://www.v2ex.com/t/1241642",
-                            "hot": 25,
-                            "description": "Apple",
+                            "rank": 8,
+                            "title": "北京这下无人机算是彻底了。",
+                            "url": "https://www.v2ex.com/t/1241706",
+                            "hot": 24,
+                            "description": "北京",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 12:05:45"
+                            "publishedAt": "2026-09-13 21:43:30"
                         },
                         {
-                            "rank": 8,
+                            "rank": 9,
                             "title": "大家的椅子手托在双手打字场景有这个问题吗，现在很难受",
                             "url": "https://www.v2ex.com/t/1241644",
                             "hot": 22,
                             "description": "问与答",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 12:31:48"
-                        },
-                        {
-                            "rank": 9,
-                            "title": "北京这下无人机算是彻底了。",
-                            "url": "https://www.v2ex.com/t/1241706",
-                            "hot": 21,
-                            "description": "北京",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 21:43:30"
                         }
                     ]
                 }
