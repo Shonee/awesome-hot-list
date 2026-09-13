@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-14 03:15:06
+> 更新时间：2026-09-14 04:20:05
 
 ## 热门文章
 
@@ -24,18 +24,18 @@
 18. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
 19. [AI 前端落地实战：SSE 流式输出、断点续传、打字机渲染](https://juejin.cn/post/7684068584670134318)
 20. [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443)
-21. [Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答](https://juejin.cn/post/7684573646438301706)
-22. [GPT-6 做 UI 自动化测试：Demo 惊艳，但真的适合长期回归吗？](https://juejin.cn/post/7684049880512118836)
-23. [DeepSeek Harness 踩坑指南（基于大模型网关）](https://juejin.cn/post/7683816340574502975)
-24. [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514)
-25. [2026 爆火的「本体」：给大模型装上业务世界观](https://juejin.cn/post/7684080641566834703)
-26. [都在开源 Harness，Codex 和 DeepSeek 到底有什么不一样？](https://juejin.cn/post/7684079989646704667)
-27. [若依 + MyBatis-Plus，分页为什么悄悄失效了？](https://juejin.cn/post/7684049880512512052)
-28. [一天一个开源项目（第214篇）：AstronRPA —— 科大讯飞开源的企业级 RPA + AI Agent 自动化平台](https://juejin.cn/post/7684019326370611263)
-29. [在 Codex 桌面端接入 DeepSeek 模型（CC Switch 代理中转）](https://juejin.cn/post/7683877734305677354)
-30. [多租户隔离怎么落地？拆完这1600行Starter源码，我把5个坑全踩明白了](https://juejin.cn/post/7683724457529311238)
-31. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
-32. [从codex转战workbuddy使用一周的感受](https://juejin.cn/post/7684460980934049807)
+21. [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514)
+22. [Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答](https://juejin.cn/post/7684573646438301706)
+23. [2026 爆火的「本体」：给大模型装上业务世界观](https://juejin.cn/post/7684080641566834703)
+24. [GPT-6 做 UI 自动化测试：Demo 惊艳，但真的适合长期回归吗？](https://juejin.cn/post/7684049880512118836)
+25. [DeepSeek Harness 踩坑指南（基于大模型网关）](https://juejin.cn/post/7683816340574502975)
+26. [从codex转战workbuddy使用一周的感受](https://juejin.cn/post/7684460980934049807)
+27. [都在开源 Harness，Codex 和 DeepSeek 到底有什么不一样？](https://juejin.cn/post/7684079989646704667)
+28. [若依 + MyBatis-Plus，分页为什么悄悄失效了？](https://juejin.cn/post/7684049880512512052)
+29. [一天一个开源项目（第214篇）：AstronRPA —— 科大讯飞开源的企业级 RPA + AI Agent 自动化平台](https://juejin.cn/post/7684019326370611263)
+30. [在 Codex 桌面端接入 DeepSeek 模型（CC Switch 代理中转）](https://juejin.cn/post/7683877734305677354)
+31. [多租户隔离怎么落地？拆完这1600行Starter源码，我把5个坑全踩明白了](https://juejin.cn/post/7683724457529311238)
+32. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
 33. [WorkBuddy 技术解析：核心并不神秘，真正壁垒在产品化、生态与规模工程](https://juejin.cn/post/7684313635775004712)
 34. [Redis误用keys命令把生产环境搞崩了，血的教训](https://juejin.cn/post/7684070741898346530)
 35. [用 WorkBuddy 带你搭一支 7×24 小时待命的「AI 投研团队」](https://juejin.cn/post/7683846471339950131)
