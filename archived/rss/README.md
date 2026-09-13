@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 04:20:45
+> 更新时间：2026-09-14 05:18:56
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
-2. [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
-3. [Flock cameras used to arrest a child for playing on a swing](https://www.youtube.com/watch?v=koclOnlde0E)
-4. [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
-5. [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/)
+1. [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
+2. [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
+3. [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
+4. [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
+5. [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
 
 ## 阮一峰网络日志
 
