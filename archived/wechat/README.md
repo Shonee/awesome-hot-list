@@ -1,0 +1,36 @@
+# 微信文章热榜
+
+> 更新时间：2026-09-14 01:16:55
+
+## 24h 热文榜
+
+1. [都说胖东来是河南人的天堂。大姐带爸妈去转，不到十分钟就想离开。不是不好，是怕麻烦](https://mp.weixin.qq.com/s?__biz=MzE5MTUwMDAwNg==&mid=2247486451&idx=1&sn=43c718f061c0bef70e5b608257d11eb1#rd)
+2. [早知道就不脱鞋了，没见过这么脏的地板](https://mp.weixin.qq.com/s?__biz=MzYzNzk2ODcyMQ==&mid=2247486200&idx=1&sn=3fdb00b1ba7c11e86062d27147be3718#rd)
+3. [老年人秀恩爱比年轻人扎眼！](https://mp.weixin.qq.com/s?__biz=MzYyMjE2NTc1NQ==&mid=2247486365&idx=1&sn=b00ec294c0316e50fd8fd399cbd8f4b1#rd)
+4. [第一个法令纹如此明显的女演员，没医美我信](https://mp.weixin.qq.com/s?__biz=MzY4ODM2MTM2Ng==&mid=2247487246&idx=1&sn=944d3c9a60c85f4fc2e56fd8079804b2#rd)
+5. [能看出来是什么吗？像不像吞食后的大白蟒？](https://mp.weixin.qq.com/s?__biz=MzE5ODUwMzEyMw==&mid=2247491842&idx=1&sn=cea8c049a64590876b6b43ef58d9419a#rd)
+6. [没被说明书第一页劝退的都是狠人🌝](https://mp.weixin.qq.com/s?__biz=Mzk3NTc5NjMzMQ==&mid=2247486911&idx=1&sn=226772f4d131f5a48dd6e25e3bcc7647#rd)
+7. [谁的钻💍乱扔](https://mp.weixin.qq.com/s?__biz=MzYzMzI1OTUyMw==&mid=2247486003&idx=1&sn=0ccadd74835cc138a37daf097d93ab7e#rd)
+8. [昨晚，陈幸同惊天逆转，进入女单8强！](https://mp.weixin.qq.com/s?__biz=Mzg3NDIzNDk1Ng==&mid=2247485978&idx=1&sn=ade5d44b5bf987d33503eca4ea671b56#rd)
+9. [假性亲密关系是指，在两个人相处时](https://mp.weixin.qq.com/s?__biz=MzY4ODM4ODU5NQ==&mid=2247484339&idx=1&sn=591aff8590bee1ef45f4080dd0356c1b#rd)
+10. [控制慢性炎症！](https://mp.weixin.qq.com/s?__biz=MzIzMjg2MzIwOQ==&mid=2247487744&idx=1&sn=961571cd3bc6a284001b699c27cc578b#rd)
+11. [今日一笑：我爸爸的墓地到期了，那天陵园给我打电话说：续费20年要7万。我在电话里说：不续，天陵园给我打电话回：可以。但我需要看到书](https://mp.weixin.qq.com/s?__biz=MzcwMzM1ODAzMw==&mid=2247485407&idx=1&sn=e9dc41ff79faa39a2978e4814e1e2f1d#rd)
+12. [便宜到我不敢买](https://mp.weixin.qq.com/s?__biz=MzUzOTc1MDEyOQ==&mid=2247485279&idx=1&sn=a06afb49f61f5ed351c3f7f5bbf93fff#rd)
+13. [对越反击战明明已经结束40多年，越南为什么至今仍保留北方防线？他们究竟在防什么？其实真正把它焊死在北方防线上的是另外三个原因！](https://mp.weixin.qq.com/s?__biz=MzUxNTkwNjUxMQ==&mid=2247522920&idx=1&sn=f9caa22293f35c8293fbe8c61ee6a43a#rd)
+14. [50多岁女人坦言：除了丈夫，异性之间存在一种玄学现象，你有吗？](https://mp.weixin.qq.com/s?__biz=MjM5ODkzNTQyOQ==&mid=2653619156&idx=2&sn=89a76edcc64da3bc32fdad63f11258ad#rd)
+15. [国家终于对油价出手了](https://mp.weixin.qq.com/s?__biz=MzcwMzM3MDg0Mw==&mid=2247484668&idx=1&sn=a469e3d55e42e67e682d56e559594e81#rd)
+16. [求这课本改了那两个字的意义何在？](https://mp.weixin.qq.com/s?__biz=MzYzODE4MTYzNA==&mid=2247486470&idx=1&sn=c91971220ac299fd9106a4e254f34137#rd)
+17. [38岁高叶泳装照太惊艳了](https://mp.weixin.qq.com/s?__biz=MzA3MDQ0Nzk5MQ==&mid=2650117477&idx=1&sn=4d193b8f3da1a517ae927a9d33ae9c82#rd)
+18. [以为的大胸女孩VS实际上的大胸女孩](https://mp.weixin.qq.com/s?__biz=MzkzODUwMDQ5Mg==&mid=2247485245&idx=1&sn=f47b89dab511db3d2355744c1b51a9b8#rd)
+19. [为什么越来越多的老师，又悄悄变回了“满堂灌”](https://mp.weixin.qq.com/s?__biz=MzUxMTE1MjI3MA==&mid=2247486422&idx=1&sn=3eb767481620c3c640efe6a2d1471e05#rd)
+20. [7700水晶+免费招募220连！1.5周年庆典活动内容一览~](https://mp.weixin.qq.com/s?__biz=MzkxMzc0NTg1Mw==&mid=2247517448&idx=2&sn=8c0f978c13da38b3985b763679fa3b2e#rd)
+21. [老夫少妻的尴尬](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNjI2MA==&mid=2247487527&idx=1&sn=045b05d536f301e83f3fbcba9b153998#rd)
+22. [国风美学邂逅体彩即开票：解锁一场华夏寻宝之旅](https://mp.weixin.qq.com/s?__biz=Mzg3NTU2MDM3NQ==&mid=2247517271&idx=1&sn=c566d2732e9306eaf6daf9941ee03594#rd)
+23. [《兰香如故》:太奇怪了！谭松韵饰演的许兰香明明有800个心眼子，为什么阅人无数的青葙却说她“心眼浅，胆子小”？](https://mp.weixin.qq.com/s?__biz=MzkzMTUzMDIzMw==&mid=2247504478&idx=1&sn=0ac4aef4f7fef1c86f8c03abfa557af4#rd)
+24. [油价落地：本来一箱要涨17块，国家半夜出手按住，实际只涨10块](https://mp.weixin.qq.com/s?__biz=MzY4MjI5MDczOQ==&mid=2247484535&idx=1&sn=0c49aa375773242d32c0f6b891c23fa2#rd)
+25. [蒙古人杀牲的习俗和禁忌，看完长见识了](https://mp.weixin.qq.com/s?__biz=MzU4ODUyNTI4MQ==&mid=2247495176&idx=1&sn=f298f8567abdbb25c083746c2969d403#rd)
+26. [郭德纲罚单余热未消！朱之文又在台儿庄演唱红歌，造型引全网众怒](https://mp.weixin.qq.com/s?__biz=MzIyMzYyNzg4OA==&mid=2247500424&idx=1&sn=72fec942b7d9f3e3bcc42d0d496112a9#rd)
+27. [一对跨国鸳鸯鸟](https://mp.weixin.qq.com/s?__biz=MzYzNjQwMzYyMA==&mid=2247490140&idx=1&sn=472eb1f85e604d6c1dbcd110111a7a6e#rd)
+28. [某赵一鸣商超严重缺斤短两？](https://mp.weixin.qq.com/s?__biz=MzkzNTY1Njc4MA==&mid=2247487208&idx=1&sn=299c3502e2dcc7a3eb839d6c836b514c#rd)
+29. [地球所有动物中，偏偏只有人类女性生产如此困难，这究竟是怎么回事？](https://mp.weixin.qq.com/s?__biz=MzIyNjgwNjE1OA==&mid=2247487664&idx=1&sn=acf08e5927b43d49c6d30683fdbd003a#rd)
+30. [翁帆：28岁嫁给82岁的杨振宁，35岁考进清华读博，读了8年拿到博士学位，49岁被叫“翁博士”，她用21年把自己活成了独立学者](https://mp.weixin.qq.com/s?__biz=MzkzMDQxMDY4MQ==&mid=2247509539&idx=1&sn=3a070afd9907fc95560308b7e4d42a1e#rd)
