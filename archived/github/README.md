@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-13 07:25:58
+> 更新时间：2026-09-13 13:28:01
 
 ## 每日趋势
 
@@ -125,14 +125,15 @@
 7. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
 8. [katana](https://github.com/projectdiscovery/katana)
 9. [argo-cd](https://github.com/argoproj/argo-cd)
-10. [Xray-core](https://github.com/XTLS/Xray-core)
-11. [engram](https://github.com/Gentleman-Programming/engram)
-12. [semantic-router](https://github.com/vllm-project/semantic-router)
-13. [rclone](https://github.com/rclone/rclone)
-14. [grpc-go](https://github.com/grpc/grpc-go)
-15. [datadog-agent](https://github.com/DataDog/datadog-agent)
-16. [seaweedfs](https://github.com/seaweedfs/seaweedfs)
-17. [authelia](https://github.com/authelia/authelia)
+10. [dozzle](https://github.com/amir20/dozzle)
+11. [Xray-core](https://github.com/XTLS/Xray-core)
+12. [engram](https://github.com/Gentleman-Programming/engram)
+13. [semantic-router](https://github.com/vllm-project/semantic-router)
+14. [rclone](https://github.com/rclone/rclone)
+15. [grpc-go](https://github.com/grpc/grpc-go)
+16. [datadog-agent](https://github.com/DataDog/datadog-agent)
+17. [seaweedfs](https://github.com/seaweedfs/seaweedfs)
+18. [authelia](https://github.com/authelia/authelia)
 
 ## HTML
 
