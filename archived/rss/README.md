@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 05:18:56
+> 更新时间：2026-09-14 06:19:20
 
 ## 少数派
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
-2. [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
-3. [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
-4. [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
-5. [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
+1. [Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+2. [AI Is Destroying the World](https://gornak40.org/blog/ai-is-destroying-the-world.html)
+3. [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
+4. [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
+5. [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
+
+## AI News
+
+1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 

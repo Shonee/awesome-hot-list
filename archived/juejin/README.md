@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-14 05:17:35
+> 更新时间：2026-09-14 06:18:44
 
 ## 热门文章
 
@@ -8,8 +8,8 @@
 2. [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343)
 3. [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171)
 4. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
-5. [Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？](https://juejin.cn/post/7683816340574617663)
-6. [iPhone Duo 适配详解，需要改变的不止是布局模型](https://juejin.cn/post/7684204098858106886)
+5. [iPhone Duo 适配详解，需要改变的不止是布局模型](https://juejin.cn/post/7684204098858106886)
+6. [Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？](https://juejin.cn/post/7683816340574617663)
 7. [倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发](https://juejin.cn/post/7683784267847925787)
 8. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
 9. [用 AI 做短剧出海，赚麻了！（附 Skill 及教程）](https://juejin.cn/post/7684069447021035562)
@@ -23,8 +23,8 @@
 17. [5000亿估值冲刺科创板，DeepSeek 为何急着上市？](https://juejin.cn/post/7684102772083195958)
 18. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
 19. [AI 前端落地实战：SSE 流式输出、断点续传、打字机渲染](https://juejin.cn/post/7684068584670134318)
-20. [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443)
-21. [从codex转战workbuddy使用一周的感受](https://juejin.cn/post/7684460980934049807)
+20. [从codex转战workbuddy使用一周的感受](https://juejin.cn/post/7684460980934049807)
+21. [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443)
 22. [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514)
 23. [Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答](https://juejin.cn/post/7684573646438301706)
 24. [2026 爆火的「本体」：给大模型装上业务世界观](https://juejin.cn/post/7684080641566834703)
