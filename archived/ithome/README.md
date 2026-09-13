@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-13 07:18:05
+> 更新时间：2026-09-13 09:00:59
 
 ## 最新资讯
 
-1. [混进学校群聊冒充教师骗钱，6 名犯罪分子被抓](https://www.ithome.com/1/001/678.htm)
-2. [消息称华为 Mate 90 系列手机将延续星环设计，还是本月下旬发布](https://www.ithome.com/1/001/677.htm)
-3. [海外金融巨头 Revolut 确认发生数据泄露，黑客伪装执法机构发送欺诈请求](https://www.ithome.com/1/001/676.htm)
-4. [A20 Pro 芯片 AI 跑分曝光：苹果 iPhone 18 Pro NPU 最高增幅 51.53%](https://www.ithome.com/1/001/675.htm)
-5. [V社 Steam Frame VR 头显评测视频意外曝光，完整展示实际使用体验](https://www.ithome.com/1/001/674.htm)
+1. [绿联海外发布 Nexode Air Slim 100W 超薄充电器，2C+1A](https://www.ithome.com/1/001/698.htm)
+2. [小米 SU7L 长轴轿车谍照再曝：支持后轮转向、侧面新增雷达](https://www.ithome.com/1/001/697.htm)
+3. [唯卓仕推出 4 款 L 卡口全画幅镜头，含 14mm f/4.0、20mm f/2.8、40mm f/2.5、50mm f/2.0](https://www.ithome.com/1/001/695.htm)
+4. [OPPO、一加、真我确认首批同步升级 ColorOS 17 系统，9 月 17 日公布适配机型](https://www.ithome.com/1/001/694.htm)
+5. [澳大利亚昆士兰大学、新南威尔士大学新研究：能救人的“半机械蟑螂”](https://www.ithome.com/1/001/693.htm)

@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 07:18:38
+> 更新时间：2026-09-13 09:02:09
 
 ## 少数派
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
-2. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
-3. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
-4. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
-5. [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
+1. [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话](http://www.geekpark.net/news/370228)
+2. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
+3. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
+4. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
+5. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
 
 ## MIT Technology Review
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
-2. [Financial Times' 404 Page not Found](https://www.ft.com/article/404)
-3. [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
-4. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-5. [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
+1. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+2. [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
+3. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
+4. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+5. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
 
 ## AI News
 

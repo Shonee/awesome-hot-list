@@ -1,11 +1,9 @@
 # 博客园热榜
 
-> 更新时间：2026-09-13 07:18:19
+> 更新时间：2026-09-13 09:01:10
 
 ## 24 小时推荐排行
 
 1. [赞助商](https://www.cnblogs.com/cmt/p/19316348)
-2. [【编辑推荐】 AI 越来越强，打工人怎么反而越来越累了？(19/14/4493)](https://www.cnblogs.com/HaiJun-Aion/p/22870343)
-3. [【最多推荐】 2026年AI编程工具大全，33个主流工具一次看懂(3/8/1480)](https://www.cnblogs.com/jinjiangongzuoshi/p/22929704)
-4. [AI编程道心崩塌/十几年Qt开发经验一文不值](https://www.cnblogs.com/feiyangqingyun/p/22944370)
-5. [2](https://www.cnblogs.com/feiyangqingyun/p/22944370#commentform)
+2. [【编辑推荐】 AI 越来越强，打工人怎么反而越来越累了？(19/14/4504)](https://www.cnblogs.com/HaiJun-Aion/p/22870343)
+3. [【最多推荐】 .NET 异常处理的"暗门"：代码里写满 catch，你依然能抓住它——从一个 AI Agent 运行时的源码说起(0/5/394)](https://www.cnblogs.com/shanyou/p/22814535)
