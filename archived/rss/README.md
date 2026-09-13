@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 09:02:09
+> 更新时间：2026-09-13 09:35:03
 
 ## 少数派
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-2. [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
-3. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
-4. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
-5. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
-
-## AI News
-
-1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+1. [Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
+2. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+3. [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
+4. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
+5. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
 
 ## 阮一峰网络日志
 
