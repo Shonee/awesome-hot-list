@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 06:19:20
+> 更新时间：2026-09-14 07:18:16
 
 ## 少数派
 
@@ -36,11 +36,11 @@
 
 ## 极客公园
 
-1. [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话](http://www.geekpark.net/news/370228)
-2. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
-3. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
-4. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
-5. [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
+1. [苹果的折叠屏等了十五年，体验还差临门一脚](http://www.geekpark.net/news/370231)
+2. [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话](http://www.geekpark.net/news/370228)
+3. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
+4. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
+5. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
 
 ## MIT Technology Review
 
@@ -52,8 +52,8 @@
 
 ## Hacker News
 
-1. [Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-2. [AI Is Destroying the World](https://gornak40.org/blog/ai-is-destroying-the-world.html)
+1. [The Contagion of Fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+2. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
 3. [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
 4. [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
 5. [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
