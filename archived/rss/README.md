@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 01:17:11
+> 更新时间：2026-09-14 02:23:51
 
 ## 少数派
 
@@ -52,19 +52,11 @@
 
 ## Hacker News
 
-1. [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
-2. [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
-3. [Predictive intelligence to anticipate anything.](https://prior.chat/)
-4. [Cpak – OCI application package format for Linux desktops, servers and devices](https://cpak.it/)
-5. [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
-
-## AI News
-
-1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+1. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+2. [Ask HN: What are you working on? (September 2026)](https://news.ycombinator.com/item?id=49686380)
+3. [Ask HN: How can I browse HN in dark mode?](https://news.ycombinator.com/item?id=49686233)
+4. [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
+5. [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](https://twitter.com/DavidSacks/status/2098973625252708460)
 
 ## 阮一峰网络日志
 
