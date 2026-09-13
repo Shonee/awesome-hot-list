@@ -51,6 +51,26 @@ class DataRootTests(unittest.TestCase):
             self.assertIn('"channelId": "tieba"', rendered)
             self.assertIn("https://github.com/Shonee/awesome-hot-list", rendered)
 
+    def test_rendered_site_opens_latest_hotlists_first(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        latest_nav = '<button class="nav-btn active" data-view-target="latest">最新热榜</button>'
+        today_nav = '<button class="nav-btn" data-view-target="today">今日报告</button>'
+        self.assertIn(latest_nav, template)
+        self.assertIn(today_nav, template)
+        self.assertLess(template.index(latest_nav), template.index(today_nav))
+        self.assertIn('<section class="view active" id="view-latest">', template)
+        self.assertIn('<section class="view" id="view-today">', template)
+
+    def test_mobile_hotlists_show_ten_rows_without_nested_scrolling(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        self.assertIn("const MOBILE_TOP_COUNT = 10;", template)
+        self.assertIn("const effectiveTopCount = isMobileViewport() ? MOBILE_TOP_COUNT : prefs.topCount;", template)
+        self.assertIn("const rows = allRows.slice(0, effectiveTopCount);", template)
+        self.assertIn(".layout-channel-tabs .channel-body {", template)
+        self.assertIn("overflow-y: visible;", template)
+
 
 class WorkflowContractTests(unittest.TestCase):
     def test_generated_data_workflows_use_data_pages(self):

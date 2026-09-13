@@ -527,9 +527,17 @@
       .rank-plot { grid-column: 1 / -1; grid-row: 2; height: 72px; }
       .channel-grid { gap: 14px; }
       .channel-head { padding: 12px; }
+      .channel-body,
+      .layout-list .channel-body,
+      .layout-channel-tabs .channel-body {
+        height: auto;
+        flex-basis: auto;
+        overflow-y: visible;
+        overscroll-behavior: auto;
+        scrollbar-gutter: auto;
+      }
       .layout-list .channel-card { display: block; }
       .layout-list .channel-head { min-height: 64px; border-right: 0; border-bottom: 1px solid var(--line-strong); }
-      .layout-list .channel-body { height: 360px; }
       .choice-grid { grid-template-columns: 1fr; }
       .analysis-grid { gap: 20px; }
       .topic-dialog { width: calc(100% - 24px); }
@@ -557,8 +565,8 @@
         </div>
       </div>
       <nav class="main-nav" aria-label="主导航">
-        <button class="nav-btn active" data-view-target="today">今日报告</button>
-        <button class="nav-btn" data-view-target="latest">最新热榜</button>
+        <button class="nav-btn active" data-view-target="latest">最新热榜</button>
+        <button class="nav-btn" data-view-target="today">今日报告</button>
         <button class="nav-btn" data-view-target="history">历史报告</button>
       </nav>
       <div class="top-actions">
@@ -575,7 +583,16 @@
   </header>
 
   <main>
-    <section class="view active" id="view-today">
+    <section class="view active" id="view-latest">
+      <div class="page-toolbar">
+        <div><div class="eyebrow" id="latestEyebrow">LATEST SNAPSHOT</div><h1>最新热榜</h1></div>
+        <div class="heading-note" id="latestNote">正在加载各渠道最新快照</div>
+      </div>
+      <div class="channel-switcher" id="channelSwitcher" aria-label="渠道切换"></div>
+      <div class="channel-grid" id="channelGrid"></div>
+    </section>
+
+    <section class="view" id="view-today">
       <div class="report-heading">
         <div>
           <div class="eyebrow" id="todayEyebrow">DAILY SIGNAL</div>
@@ -620,15 +637,6 @@
           <div class="signal-list" id="todaySignals"></div>
         </section>
       </div>
-    </section>
-
-    <section class="view" id="view-latest">
-      <div class="page-toolbar">
-        <div><div class="eyebrow" id="latestEyebrow">LATEST SNAPSHOT</div><h1>最新热榜</h1></div>
-        <div class="heading-note" id="latestNote">正在加载各渠道最新快照</div>
-      </div>
-      <div class="channel-switcher" id="channelSwitcher" aria-label="渠道切换"></div>
-      <div class="channel-grid" id="channelGrid"></div>
     </section>
 
     <section class="view" id="view-history">
@@ -696,7 +704,7 @@
         </div>
         <div class="setting-block">
           <div class="setting-title">每个榜单显示数量</div>
-          <div class="setting-help">默认 20 条，最多 50 条。实际数量取决于渠道返回结果。</div>
+          <div class="setting-help">桌面端默认 20 条，最多 50 条；移动端固定展示前 10 条并完整展开。</div>
           <select id="drawerTopCount"><option value="10">10 条</option><option value="20">20 条</option><option value="30">30 条</option><option value="50">50 条</option></select>
         </div>
         <div class="setting-block">
@@ -732,6 +740,8 @@
 
   <script>
     const STORAGE_KEY = 'awesome-hot-list.preferences.v1';
+    const MOBILE_TOP_COUNT = 10;
+    const MOBILE_VIEWPORT = window.matchMedia('(max-width: 680px)');
     const DISPLAY_THEMES = Object.freeze({
       editorial: '编辑部浅色',
       night: '夜间阅读'
@@ -781,6 +791,7 @@
       visible: Object.fromEntries(CHANNEL_ORDER.map(key => [key, true]))
     };
     let prefs = loadPrefs();
+    function isMobileViewport() { return MOBILE_VIEWPORT.matches; }
 
     function normalizeOrder(order) {
       const valid = Array.isArray(order) ? order.filter(key => CHANNEL_ORDER.includes(key)) : [];
@@ -1006,7 +1017,8 @@
       const visibleRankingNames = isRss ? rssRankingNames : rankingNames;
       const activeRanking = visibleRankingNames.includes(prefs.activeRankings[key]) ? prefs.activeRankings[key] : visibleRankingNames[0];
       const allRows = isRss ? rssRows(rankings, rssMode, activeRanking) : rankings[activeRanking] || [];
-      const rows = allRows.slice(0, prefs.topCount);
+      const effectiveTopCount = isMobileViewport() ? MOBILE_TOP_COUNT : prefs.topCount;
+      const rows = allRows.slice(0, effectiveTopCount);
       const detailUrl = safeUrl(CHANNEL_RANKING_URLS[key]?.[activeRanking] || channel.sourceUrl);
       const detailLink = isRss
         ? `<button type="button" class="channel-detail" data-open-rss>查看全部 RSS</button>`
@@ -1389,6 +1401,7 @@
       renderChannels();
     });
     document.getElementById('drawerTopCount').addEventListener('change', event => { prefs.topCount = Math.min(50, Number(event.target.value) || 20); savePrefs(); renderChannels(); });
+    MOBILE_VIEWPORT.addEventListener('change', renderChannels);
     document.getElementById('resetSettings').addEventListener('click', () => { prefs = structuredClone(defaultPrefs); savePrefs(); renderSettings(); renderChannels(); showToast('已恢复默认显示设置'); });
     document.getElementById('closeTopicDialog').addEventListener('click', () => document.getElementById('topicDialog').close());
     document.getElementById('closeRssDialog').addEventListener('click', () => document.getElementById('rssDialog').close());
