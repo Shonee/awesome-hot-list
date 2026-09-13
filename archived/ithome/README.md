@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-13 11:25:42
+> 更新时间：2026-09-13 12:24:08
 
 ## 最新资讯
 
-1. [淘宝闪购：苹果 iPhone 18 Pro 系列手机预售火爆，首小时销售额较上代 17 Pro 系列翻倍](https://www.ithome.com/1/001/734.htm)
-2. [佳能 9 月 16 日新品发布会官宣，预计推出 EOS R8 Mark II 相机](https://www.ithome.com/1/001/733.htm)
-3. [荣耀 Play11 手机发售：骁龙 4 Gen4、AI 一键关广告弹窗，1399 元起](https://www.ithome.com/1/001/731.htm)
-4. [AOC 推出“Q27G40HE”27 英寸显示器：2K 210Hz，879 元](https://www.ithome.com/1/001/730.htm)
-5. [26.5" QHD 320Hz QD-OLED 显示器 +1：泰坦军团推出 G27P9 Ultra](https://www.ithome.com/1/001/729.htm)
+1. [小米澎程迎来上海首批车主，雷军亲自为 30 位车主及家人交付新车](https://www.ithome.com/1/001/743.htm)
+2. [赛洛斯推出 V12 鼠标：PAW NEXT I 传感器，nRF54H20 主控，349 元](https://www.ithome.com/1/001/742.htm)
+3. [通用汽车计划在美国本土开发储能系统、纯电汽车电池](https://www.ithome.com/1/001/741.htm)
+4. [时隔多年苹果再拿华为做对比，Apple Watch 心率准确性研究将 HUAWEI WATCH 5 列为“唯一的例外”](https://www.ithome.com/1/001/740.htm)
+5. [优派带来 VX27G81-2K-9 显示器：27" QHD 240Hz Fast IPS](https://www.ithome.com/1/001/739.htm)

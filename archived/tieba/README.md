@@ -1,14 +1,14 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-13 11:26:02
+> 更新时间：2026-09-13 12:24:29
 
 ## 最有料热点
 
-1. [决赛软脚,小胖拿FMVP遭嘲](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363908&topic_name=%E5%86%B3%E8%B5%9B%E8%BD%AF%E8%84%9A%2C%E5%B0%8F%E8%83%96%E6%8B%BFFMVP%E9%81%AD%E5%98%B2)
-2. [丢人!多车队永久退出ChinaGT](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363909&topic_name=%E4%B8%A2%E4%BA%BA%21%E5%A4%9A%E8%BD%A6%E9%98%9F%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChinaGT)
-3. [著名主持敬一丹去世,享年71岁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363913&topic_name=%E8%91%97%E5%90%8D%E4%B8%BB%E6%8C%81%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%2C%E4%BA%AB%E5%B9%B471%E5%B2%81)
-4. [疯狂!40岁Shy粉撕衣应援](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363914&topic_name=%E7%96%AF%E7%8B%82%2140%E5%B2%81Shy%E7%B2%89%E6%92%95%E8%A1%A3%E5%BA%94%E6%8F%B4)
-5. [倒反天罡,伏羲女娲被韩国认领](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363915&topic_name=%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1%2C%E4%BC%8F%E7%BE%B2%E5%A5%B3%E5%A8%B2%E8%A2%AB%E9%9F%A9%E5%9B%BD%E8%AE%A4%E9%A2%86)
+1. [倒反天罡,伏羲女娲被韩国认领](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363915&topic_name=%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1%2C%E4%BC%8F%E7%BE%B2%E5%A5%B3%E5%A8%B2%E8%A2%AB%E9%9F%A9%E5%9B%BD%E8%AE%A4%E9%A2%86)
+2. [决赛软脚,小胖拿FMVP遭嘲](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363908&topic_name=%E5%86%B3%E8%B5%9B%E8%BD%AF%E8%84%9A%2C%E5%B0%8F%E8%83%96%E6%8B%BFFMVP%E9%81%AD%E5%98%B2)
+3. [丢人!多车队永久退出ChinaGT](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363909&topic_name=%E4%B8%A2%E4%BA%BA%21%E5%A4%9A%E8%BD%A6%E9%98%9F%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChinaGT)
+4. [著名主持敬一丹去世,享年71岁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363913&topic_name=%E8%91%97%E5%90%8D%E4%B8%BB%E6%8C%81%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%2C%E4%BA%AB%E5%B9%B471%E5%B2%81)
+5. [疯狂!40岁Shy粉撕衣应援](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363914&topic_name=%E7%96%AF%E7%8B%82%2140%E5%B2%81Shy%E7%B2%89%E6%92%95%E8%A1%A3%E5%BA%94%E6%8F%B4)
 6. [五局拉满,AL送走IG晋级](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363836&topic_name=%E4%BA%94%E5%B1%80%E6%8B%89%E6%BB%A1%2CAL%E9%80%81%E8%B5%B0IG%E6%99%8B%E7%BA%A7)
 7. [安倍遇刺被撞JK获赔3895万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363842&topic_name=%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%E8%A2%AB%E6%92%9EJK%E8%8E%B7%E8%B5%943895%E4%B8%87)
 8. [爆了!苹果18首批开售秒空](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363832&topic_name=%E7%88%86%E4%BA%86%21%E8%8B%B9%E6%9E%9C18%E9%A6%96%E6%89%B9%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA)

@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 11:26:14
+> 更新时间：2026-09-13 12:24:41
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 量子位
 
-1. [“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选](https://www.qbitai.com/2026/09/487860.html)
-2. [A社承认Claude安全对齐存在缺陷，但“尚无解决方案”](https://www.qbitai.com/2026/09/487796.html)
-3. [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/487752.html)
-4. [AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4](https://www.qbitai.com/2026/09/487701.html)
-5. [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
+1. [OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了](https://www.qbitai.com/2026/09/488380.html)
+2. [“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选](https://www.qbitai.com/2026/09/487860.html)
+3. [A社承认Claude安全对齐存在缺陷，但“尚无解决方案”](https://www.qbitai.com/2026/09/487796.html)
+4. [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/487752.html)
+5. [AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4](https://www.qbitai.com/2026/09/487701.html)
 
 ## InfoQ
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [The Interim Computer Museum](https://icm.museum/)
-2. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
-3. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
-4. [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/)
-5. [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)
+1. [The Succession Crisis That Tore England Apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+2. [The Interim Computer Museum](https://icm.museum/)
+3. [Don't call yourself an artisanal programmer](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/)
+4. [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+5. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
 
 ## AI News
 
