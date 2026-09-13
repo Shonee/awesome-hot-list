@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-13 09:34:26
+> 更新时间：2026-09-13 10:30:10
 
 ## 热门文章
 
@@ -16,8 +16,8 @@
 10. [iPhone Duo 适配详解，需要改变的不止是布局模型](https://juejin.cn/post/7684204098858106886)
 11. [2026 年，你可以从项目中删掉这 5 个 npm 包了](https://juejin.cn/post/7683724457530376198)
 12. [倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发](https://juejin.cn/post/7683784267847925787)
-13. [OkHttp 5.3 隐形变更引发的线上偶发崩溃复盘](https://juejin.cn/post/7683704380166242304)
-14. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
+13. [2026年AI编程工具大全，33个主流工具一次看懂](https://juejin.cn/post/7683784267847794715)
+14. [OkHttp 5.3 隐形变更引发的线上偶发崩溃复盘](https://juejin.cn/post/7683704380166242304)
 15. [百万行数据透视表，我是怎么把 Vue 响应式开销砍到零的](https://juejin.cn/post/7683728647317291054)
 16. [我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收](https://juejin.cn/post/7684102772083130422)
 17. [Go 还是 Golang？可能你一直都搞错了！](https://juejin.cn/post/7683700156294873134)
@@ -26,11 +26,11 @@
 20. [用 AI 做短剧出海，赚麻了！（附 Skill 及教程）](https://juejin.cn/post/7684069447021035562)
 21. [用 Node.js 复刻 Codex Astra 的终端星光](https://juejin.cn/post/7683539970712830006)
 22. [《Agent 评测白皮书》系列01：Agent 评测全览](https://juejin.cn/post/7683448371321274404)
-23. [一个Docker命令，40万首古诗词API开箱即用](https://juejin.cn/post/7683820796637872154)
-24. [DeepSeek V4.1 Flash 正式发布！](https://juejin.cn/post/7683784267848122395)
-25. [丝滑的奥秘：Reanimated 3 动画引擎与手势处理（Gesture Handler）](https://juejin.cn/post/7683433296757194806)
-26. [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468)
-27. [我把苹果发布会里的折叠屏，真的用网页做出来了](https://juejin.cn/post/7684463933702291466)
+23. [丝滑的奥秘：Reanimated 3 动画引擎与手势处理（Gesture Handler）](https://juejin.cn/post/7683433296757194806)
+24. [一个Docker命令，40万首古诗词API开箱即用](https://juejin.cn/post/7683820796637872154)
+25. [DeepSeek V4.1 Flash 正式发布！](https://juejin.cn/post/7683784267848122395)
+26. [我把苹果发布会里的折叠屏，真的用网页做出来了](https://juejin.cn/post/7684463933702291466)
+27. [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468)
 28. [Codex、Claude Code、WorkBuddy + Tabbit CLI：让 AI 操控浏览器发文章](https://juejin.cn/post/7683738599201685538)
 29. [AI 改祖传模块后，代码评审总绕不开两个问题](https://juejin.cn/post/7683724457529294854)
 30. [GPT‑6 Astra真正的变化：AI开始直接操作工作软件](https://juejin.cn/post/7683803827217350675)
@@ -42,15 +42,15 @@
 36. [iPhone 18 系列全解读：折叠屏 Duo、A20 Pro，和一份最高 2.65 万的账单](https://juejin.cn/post/7683707616934641664)
 37. [Gemini 3.8 Flash 是真的站起来了，一起来看看我到底做了什么吧~](https://juejin.cn/post/7683447309472792603)
 38. [当程序员遇到装修：用 AI 画 CAD、搭房子，甚至自己做家具](https://juejin.cn/post/7683447309472579611)
-39. [微服务环境下如何避免孤儿数据：结合递归，墓碑标记与事件流](https://juejin.cn/post/7683443642279428111)
+39. [若依 + MyBatis-Plus，分页为什么悄悄失效了？](https://juejin.cn/post/7684049880512512052)
 40. [Androidiot开发之猫脸识别](https://juejin.cn/post/7683776112267526196)
 41. [Naive UI 虚拟级联选择器适配 Element Plus 风格](https://juejin.cn/post/7683722642071371826)
 42. [Spring AI 对话记忆深度实践：无状态本质、ChatMemory 抽象、上下文管理与会话隔离](https://juejin.cn/post/7683722642071273522)
 43. [image 2.5刷屏了：有人拿它做广告，有人已经做出了动画](https://juejin.cn/post/7683539970712715318)
-44. [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443)
-45. [2026 爆火的「本体」：给大模型装上业务世界观](https://juejin.cn/post/7684080641566834703)
+44. [2026 爆火的「本体」：给大模型装上业务世界观](https://juejin.cn/post/7684080641566834703)
+45. [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443)
 46. [Redis误用keys命令把生产环境搞崩了，血的教训](https://juejin.cn/post/7684070741898346530)
-47. [若依 + MyBatis-Plus，分页为什么悄悄失效了？](https://juejin.cn/post/7684049880512512052)
+47. [AI 前端落地实战：SSE 流式输出、断点续传、打字机渲染](https://juejin.cn/post/7684068584670134318)
 48. [GPT-6 做 UI 自动化测试：Demo 惊艳，但真的适合长期回归吗？](https://juejin.cn/post/7684049880512118836)
 49. [在 Codex 桌面端接入 DeepSeek 模型（CC Switch 代理中转）](https://juejin.cn/post/7683877734305677354)
 50. [用 WorkBuddy 带你搭一支 7×24 小时待命的「AI 投研团队」](https://juejin.cn/post/7683846471339950131)

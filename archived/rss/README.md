@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-13 09:35:03
+> 更新时间：2026-09-13 10:30:59
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [AI的新用法，被这群 Builder 带到了外滩大会开发者日](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article)
-2. [Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article)
-3. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
-4. [模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞](https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article)
-5. [V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维](https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article)
+1. [Figma 如何利用 AI 代理提升安全性](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article)
+2. [Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article)
+3. [AI的新用法，被这群 Builder 带到了外滩大会开发者日](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article)
+4. [Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article)
+5. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,19 @@
 
 ## Hacker News
 
-1. [Scientists Create a New Form of Ice at More Than 2000°C](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
-2. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-3. [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
-4. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
-5. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+1. [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+2. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
+3. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+4. [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/)
+5. [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)
+
+## AI News
+
+1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 

@@ -1,6 +1,6 @@
 # 虎扑热榜
 
-> 更新时间：2026-09-13 09:34:40
+> 更新时间：2026-09-13 10:30:25
 
 ## 虎扑热榜
 
@@ -12,25 +12,25 @@
 6. [冠军之心：篮球生涯](https://m.hupu.com/hot?tagId=156346)
 7. [TTG夺得2026 KPL夏季赛总冠军](https://m.hupu.com/hot?tagId=156728)
 8. [绿茵人生-从新人到球王](https://m.hupu.com/hot?tagId=156540)
-9. [我的篮球平行时空](https://m.hupu.com/hot?tagId=155056)
-10. [康平路笔记](https://m.hupu.com/hot?tagId=155384)
-11. [杰弗森：詹姆斯是最完美篮球运动员](https://m.hupu.com/hot?tagId=156730)
-12. [追梦：无KD我们仍是16‑17最佳球队](https://m.hupu.com/hot?tagId=156706)
-13. [中国男篮105-59大胜巴林](https://m.hupu.com/hot?tagId=156712)
-14. [我的梦幻九宫格成绩](https://m.hupu.com/hot?tagId=149058)
+9. [杰弗森：詹姆斯是最完美篮球运动员](https://m.hupu.com/hot?tagId=156730)
+10. [我的梦幻九宫格成绩](https://m.hupu.com/hot?tagId=149058)
+11. [我的篮球平行时空](https://m.hupu.com/hot?tagId=155056)
+12. [康平路笔记](https://m.hupu.com/hot?tagId=155384)
+13. [追梦：无KD我们仍是16‑17最佳球队](https://m.hupu.com/hot?tagId=156706)
+14. [中国男篮105-59大胜巴林](https://m.hupu.com/hot?tagId=156712)
 15. [追梦谈杜兰特加盟勇士](https://m.hupu.com/hot?tagId=156729)
 16. [冠军经理](https://m.hupu.com/hot?tagId=155315)
 17. [GOAT之路](https://m.hupu.com/hot?tagId=156664)
 18. [活塞给杜伦的最新报价是五年约1.9亿](https://m.hupu.com/hot?tagId=156705)
-19. [奥尼尔选21世纪一阵](https://m.hupu.com/hot?tagId=156731)
-20. [追梦曝库里詹姆斯球衣分成](https://m.hupu.com/hot?tagId=156699)
-21. [李悦洲全场6中6砍下18分3篮板3助攻1抢断](https://m.hupu.com/hot?tagId=156715)
-22. [弗莱：詹姆斯在如今的76人，只能算第3号球星](https://m.hupu.com/hot?tagId=156686)
-23. [我心中的金球评选](https://m.hupu.com/hot?tagId=155574)
-24. [虎扑2026金球奖评选](https://m.hupu.com/hot?tagId=154845)
+19. [追梦曝库里詹姆斯球衣分成](https://m.hupu.com/hot?tagId=156699)
+20. [奥尼尔选21世纪一阵](https://m.hupu.com/hot?tagId=156731)
+21. [弗莱：詹姆斯在如今的76人，只能算第3号球星](https://m.hupu.com/hot?tagId=156686)
+22. [李悦洲全场6中6砍下18分3篮板3助攻1抢断](https://m.hupu.com/hot?tagId=156715)
+23. [虎扑2026金球奖评选](https://m.hupu.com/hot?tagId=154845)
+24. [我心中的金球评选](https://m.hupu.com/hot?tagId=155574)
 25. [T1：我们能为选手提供高于任何战队的薪资和最佳支持](https://m.hupu.com/hot?tagId=156559)
 26. [GOAT三分大赛](https://m.hupu.com/hot?tagId=156439)
 27. [芬奇谈麦丹新赛季防守任务](https://m.hupu.com/hot?tagId=156732)
-28. [李凯尔：想代表中国男篮打下一届世界杯](https://m.hupu.com/hot?tagId=156666)
-29. [IG成为涅槃组首支晋级全球总决赛资格赛的队伍](https://m.hupu.com/hot?tagId=156558)
-30. [4AM vs 17 vs PeRo](https://m.hupu.com/hot?tagId=154115)
+28. [4AM vs 17 vs PeRo](https://m.hupu.com/hot?tagId=154115)
+29. [追梦格林谈勇士当年主动招募杜兰特](https://m.hupu.com/hot?tagId=156685)
+30. [李凯尔：想代表中国男篮打下一届世界杯](https://m.hupu.com/hot?tagId=156666)

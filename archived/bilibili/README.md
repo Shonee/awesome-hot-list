@@ -1,29 +1,29 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-09-13 09:34:22
+> 更新时间：2026-09-13 10:30:05
 
 ## 热门搜索
 
 1. [AI在数学解题领域还会有突破吗](https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E6%95%B0%E5%AD%A6%E8%A7%A3%E9%A2%98%E9%A2%86%E5%9F%9F%E8%BF%98%E4%BC%9A%E6%9C%89%E7%AA%81%E7%A0%B4%E5%90%97)
 2. [英伟达显卡出货量暴涨](https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%98%BE%E5%8D%A1%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E6%B6%A8)
 3. [暴雪官宣星际争霸新作](https://search.bilibili.com/all?keyword=%E6%9A%B4%E9%9B%AA%E5%AE%98%E5%AE%A3%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8%E6%96%B0%E4%BD%9C)
-4. [窦占龙](https://search.bilibili.com/all?keyword=%E7%AA%A6%E5%8D%A0%E9%BE%99)
-5. [新生开学的奇葩问题](https://search.bilibili.com/all?keyword=%E6%96%B0%E7%94%9F%E5%BC%80%E5%AD%A6%E7%9A%84%E5%A5%87%E8%91%A9%E9%97%AE%E9%A2%98)
+4. [AI巨头间的爱恨情仇](https://search.bilibili.com/all?keyword=AI%E5%B7%A8%E5%A4%B4%E9%97%B4%E7%9A%84%E7%88%B1%E6%81%A8%E6%83%85%E4%BB%87)
+5. [皇马4-1巴列卡诺](https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC4-1%E5%B7%B4%E5%88%97%E5%8D%A1%E8%AF%BA)
 6. [央视主持人敬一丹去世](https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96)
 7. [深度复盘HLE战胜T1](https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98HLE%E6%88%98%E8%83%9CT1)
-8. [F1西班牙站排位赛战报](https://search.bilibili.com/all?keyword=F1%E8%A5%BF%E7%8F%AD%E7%89%99%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5)
-9. [切尔西2-2赫尔城](https://search.bilibili.com/all?keyword=%E5%88%87%E5%B0%94%E8%A5%BF2-2%E8%B5%AB%E5%B0%94%E5%9F%8E)
-10. [F1西班牙站排位赛集锦](https://search.bilibili.com/all?keyword=F1%E8%A5%BF%E7%8F%AD%E7%89%99%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E9%9B%86%E9%94%A6)
+8. [中东局势再起变数 前路如何](https://search.bilibili.com/all?keyword=%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E5%86%8D%E8%B5%B7%E5%8F%98%E6%95%B0%20%E5%89%8D%E8%B7%AF%E5%A6%82%E4%BD%95)
+9. [苏超徐州2-3淮安](https://search.bilibili.com/all?keyword=%E8%8B%8F%E8%B6%85%E5%BE%90%E5%B7%9E2-3%E6%B7%AE%E5%AE%89)
+10. [阿森纳跨赛季英超9连胜](https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B3%E8%B7%A8%E8%B5%9B%E5%AD%A3%E8%8B%B1%E8%B6%859%E8%BF%9E%E8%83%9C)
 11. [原神7.1版本PV](https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E7.1%E7%89%88%E6%9C%ACPV)
 12. [第37届银河奖获奖名单揭晓](https://search.bilibili.com/all?keyword=%E7%AC%AC37%E5%B1%8A%E9%93%B6%E6%B2%B3%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%AD%E6%99%93)
-13. [F1意大利大奖赛.exe](https://search.bilibili.com/all?keyword=F1%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B.exe)
-14. [厄尔尼诺会带来极端天气吗](https://search.bilibili.com/all?keyword=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E5%90%97)
-15. [锐评AL战胜IG](https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84AL%E6%88%98%E8%83%9CIG)
+13. [探访美军登陆后的芭提雅](https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E7%BE%8E%E5%86%9B%E7%99%BB%E9%99%86%E5%90%8E%E7%9A%84%E8%8A%AD%E6%8F%90%E9%9B%85)
+14. [2026LPL总决赛发布会](https://search.bilibili.com/all?keyword=2026LPL%E6%80%BB%E5%86%B3%E8%B5%9B%E5%8F%91%E5%B8%83%E4%BC%9A)
+15. [AL晋级2026全球总决赛](https://search.bilibili.com/all?keyword=AL%E6%99%8B%E7%BA%A72026%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B)
 16. [AL IG](https://search.bilibili.com/all?keyword=AL%20IG)
-17. [孙心然夺美网青少年冠军](https://search.bilibili.com/all?keyword=%E5%AD%99%E5%BF%83%E7%84%B6%E5%A4%BA%E7%BE%8E%E7%BD%91%E9%9D%92%E5%B0%91%E5%B9%B4%E5%86%A0%E5%86%9B)
-18. [UP主探店勇哥餐厅](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8E%A2%E5%BA%97%E5%8B%87%E5%93%A5%E9%A4%90%E5%8E%85)
-19. [影视飓风探秘山西古建筑](https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E6%8E%A2%E7%A7%98%E5%B1%B1%E8%A5%BF%E5%8F%A4%E5%BB%BA%E7%AD%91)
-20. [UP主自制综艺谁是耗电王](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%BB%BC%E8%89%BA%E8%B0%81%E6%98%AF%E8%80%97%E7%94%B5%E7%8E%8B)
+17. [HLE战胜T1赛后数据](https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE)
+18. [窦占龙](https://search.bilibili.com/all?keyword=%E7%AA%A6%E5%8D%A0%E9%BE%99)
+19. [凡人修仙传191集逐帧解析](https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0191%E9%9B%86%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90)
+20. [哈利波特剧版原著党买账吗](https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%89%A7%E7%89%88%E5%8E%9F%E8%91%97%E5%85%9A%E4%B9%B0%E8%B4%A6%E5%90%97)
 
 ## 全站热门视频
 
@@ -37,10 +37,10 @@
 8. [光合作用：一次意外吞噬，改变了整个地球](https://b23.tv/BV1HyYS6wECP)
 9. [探访野生狗奶原产地，味道居然还不错](https://b23.tv/BV1cgYQ6PE8c)
 10. [这寝室呆的](https://b23.tv/BV1ZiYX6PEd5)
-11. [最不想沾边的词汇出现了](https://b23.tv/BV1SCY26NEfP)
-12. [反转到最后一秒！狗血100%，伏笔全回收，年度抓马爽剧诞生！年度高分韩剧《现在不是出轨的问题》下](https://b23.tv/BV1JKYm6nETk)
-13. [夏季的温馨碎片，重新剪到一起，准备再赚一次流量](https://b23.tv/BV1S5YE6HE9Q)
-14. [《原神》7.1版本PV：「往冥府的安魂歌」](https://b23.tv/BV1yuY96rEL7)
+11. [反转到最后一秒！狗血100%，伏笔全回收，年度抓马爽剧诞生！年度高分韩剧《现在不是出轨的问题》下](https://b23.tv/BV1JKYm6nETk)
+12. [夏季的温馨碎片，重新剪到一起，准备再赚一次流量](https://b23.tv/BV1S5YE6HE9Q)
+13. [《原神》7.1版本PV：「往冥府的安魂歌」](https://b23.tv/BV1yuY96rEL7)
+14. [最不想沾边的词汇出现了](https://b23.tv/BV1SCY26NEfP)
 15. [元代古沉船“元青花杯”疑似失踪？烧烤店主实名举报后，疑遭报复，5个部门上门检查15次 多数查无实据。（评论员：赵冰 编辑：刘嘉欣 责编：陈思 监制：余超）](https://b23.tv/BV126YQ6kEYw)
 16. [套假牌，超速200+，自称德国不限速。难度2星](https://b23.tv/BV1UeYQ62Eq3)
 17. [【假装讲电影】笑死！黑帮集体跳槽干物业！结果发现物业更黑啊！！！](https://b23.tv/BV1vnYQ6xEMr)

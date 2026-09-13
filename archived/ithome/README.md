@@ -1,11 +1,11 @@
 # IT之家热榜
 
-> 更新时间：2026-09-13 09:34:36
+> 更新时间：2026-09-13 10:30:20
 
 ## 最新资讯
 
-1. [《人类：一败涂地》开发商全新 VR 解谜游戏《小小羊群》9 月 29 日发售，登陆 SteamVR / Meta Quest 平台](https://www.ithome.com/1/001/707.htm)
-2. [赛博朋克之旅：VRChat 第三方地图《Uncanny Alley》获 2026 年度艾美奖“杰出新兴媒体节目”](https://www.ithome.com/1/001/706.htm)
-3. [消息称三星 Galaxy Tab S12 系列平板下月发布，天玑 9500 芯片](https://www.ithome.com/1/001/705.htm)
-4. [惠普 HyperX 暗影精灵 Pro 台式机新增“R7 9800X3D + 32G + 1T + RTX5070Ti”版本，22999 元](https://www.ithome.com/1/001/703.htm)
-5. [《炉石传说》扩展包“黑暗帝国的统治”公布，将于 10 月 21 日上线](https://www.ithome.com/1/001/701.htm)
+1. [时隔近一年华为 Mate 40 系列手机再获系统更新，HarmonyOS 4.2.0.196/210 版本推送](https://www.ithome.com/1/001/725.htm)
+2. [微星推出 B550 TOMAHAWK WIFI 主板，削减 SATA、RJ-45](https://www.ithome.com/1/001/722.htm)
+3. [安克推出声阔 Boom Go 3i 音箱：可直扣背包带、24 小时续航，489 元](https://www.ithome.com/1/001/720.htm)
+4. [苹果 iPadOS 27 系统带来两项专属特性：外置 SSD 传输速度最高提升 5 倍，截图视觉智能提升](https://www.ithome.com/1/001/719.htm)
+5. [小米人事调整：唐力担任国际业务部副总裁兼南亚地区部总经理，向曾学忠汇报](https://www.ithome.com/1/001/716.htm)
