@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14 09:37:46",
-    "summary": "中国足球小将西班牙捧杯成为本期综合热度最高的话题，英超承认哈兰德进球有效是误判紧随其后。当前覆盖 22 个有效渠道，共形成 343 个榜单时间切片；发现 12 个跨渠道重复热点。",
+    "generatedAt": "2026-09-14 09:44:14",
+    "summary": "中国足球小将西班牙捧杯成为本期综合热度最高的话题，英超承认哈兰德进球有效是误判紧随其后。当前覆盖 22 个有效渠道，共形成 351 个榜单时间切片；发现 12 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1876,
+        "deduplicated": 1877,
         "resonance": 12,
         "maxRise": 52,
-        "slices": 343,
+        "slices": 351,
         "coverage": 96
     },
     "topTopics": [
@@ -485,7 +485,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 140,
+            "weight": 141,
             "tone": "hot",
             "hits": [
                 {
@@ -713,26 +713,26 @@
                     "url": "https://github.com/Anil-matcha/Open-Generative-AI"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 13,
+                    "title": "ai-memory",
+                    "url": "https://github.com/akitaonrails/ai-memory"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
                     "rank": 8,
                     "title": "2026年AI编程工具大全，33个主流工具一次看懂",
                     "url": "https://juejin.cn/post/7683784267847794715"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 9,
-                    "title": "我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收",
-                    "url": "https://juejin.cn/post/7684102772083130422"
                 }
             ]
         },
         {
             "word": "ai",
-            "weight": 140,
+            "weight": 141,
             "tone": "teal",
             "hits": [
                 {
@@ -960,20 +960,20 @@
                     "url": "https://github.com/Anil-matcha/Open-Generative-AI"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 13,
+                    "title": "ai-memory",
+                    "url": "https://github.com/akitaonrails/ai-memory"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
                     "rank": 8,
                     "title": "2026年AI编程工具大全，33个主流工具一次看懂",
                     "url": "https://juejin.cn/post/7683784267847794715"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 9,
-                    "title": "我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收",
-                    "url": "https://juejin.cn/post/7684102772083130422"
                 }
             ]
         },
@@ -7232,9 +7232,9 @@
         "times": [
             "00:20",
             "03:15",
-            "05:17",
-            "07:18",
-            "09:37"
+            "05:18",
+            "09:00",
+            "09:44"
         ],
         "rows": [
             {
