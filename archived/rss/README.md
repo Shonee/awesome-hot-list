@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 19:21:27
+> 更新时间：2026-09-14 20:33:49
 
 ## IT之家
 
-1. [一汽红旗首款硬派越野 G919 将于 9 月 22 日预售，轴距 2900mm](https://www.ithome.com/1/002/248.htm)
-2. [《GTA 6》迈阿密线下宣传广告牌曝光，当地官员曾反对相关营销活动](https://www.ithome.com/1/002/245.htm)
-3. [OPPO 33W 口袋充超级闪充移动电源 10000 上架：新国标、A+C 双口，9 月 22 日发布](https://www.ithome.com/1/002/244.htm)
-4. [消息称多家大厂派开发人员赴苹果总部，适配 iPhone Duo 折叠手机](https://www.ithome.com/1/002/243.htm)
-5. [长城魏牌高山 8/9 智慧版 MPV 开启下订：5000 元订金可抵 8000 元尾款，PHEV 版四季度上市](https://www.ithome.com/1/002/242.htm)
+1. [钢铁侠式操作：工程师实现在 VR 中投掷 3D 模型至打印机直接打印](https://www.ithome.com/1/002/286.htm)
+2. [消息称高瓴创投合伙人严文韬有望加入 DeepSeek，担任首席财务官](https://www.ithome.com/1/002/284.htm)
+3. [我国未成年网民规模已达 1.98 亿，互联网普及率高达 98.3%](https://www.ithome.com/1/002/283.htm)
+4. [消息称铠侠控股拟通过赴美上市，筹集至少 100 亿美元](https://www.ithome.com/1/002/280.htm)
+5. [全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》](https://www.ithome.com/1/002/279.htm)
 
 ## 少数派
 
@@ -52,19 +52,11 @@
 
 ## MIT Technology Review
 
-1. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
-2. [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
-3. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
-4. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
-5. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
-
-## AI News
-
-1. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-2. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
-3. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
-4. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-5. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+1. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
+2. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
+3. [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
+4. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
+5. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
 
 ## 阮一峰网络日志
 
