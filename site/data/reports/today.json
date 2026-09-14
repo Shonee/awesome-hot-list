@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14 20:35:00",
-    "summary": "The case against JPEG XL成为本期综合热度最高的话题，上5休1上5休3上3休7上3休1紧随其后。当前覆盖 33 个有效渠道，共形成 797 个榜单时间切片；发现 118 个跨渠道重复热点。",
+    "generatedAt": "2026-09-14 20:42:36",
+    "summary": "The case against JPEG XL成为本期综合热度最高的话题，上5休1上5休3上3休7上3休1紧随其后。当前覆盖 33 个有效渠道，共形成 798 个榜单时间切片；发现 118 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 4508,
+        "deduplicated": 4517,
         "resonance": 118,
         "maxRise": 74,
-        "slices": 797,
+        "slices": 798,
         "coverage": 100,
-        "samplingCoverage": 83
+        "samplingCoverage": 84
     },
     "topTopics": [
         {
@@ -710,7 +710,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 247,
+            "weight": 249,
             "tone": "hot",
             "hits": [
                 {
@@ -957,7 +957,7 @@
         },
         {
             "word": "ai",
-            "weight": 247,
+            "weight": 249,
             "tone": "teal",
             "hits": [
                 {
@@ -1204,7 +1204,7 @@
         },
         {
             "word": "AL",
-            "weight": 140,
+            "weight": 144,
             "tone": "gold",
             "hits": [
                 {
@@ -1451,7 +1451,7 @@
         },
         {
             "word": "IP",
-            "weight": 127,
+            "weight": 128,
             "tone": "",
             "hits": [
                 {
@@ -1655,6 +1655,14 @@
                     "url": "https://spaceships.treybastian.com/"
                 },
                 {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 15,
+                    "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+                    "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -1685,20 +1693,12 @@
                     "rank": 21,
                     "title": "iPhone 17大降价",
                     "url": "https://www.toutiao.com/trending/7684220408232542771/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684220408232542771%22%2C%22hot_board_impr_id%22%3A%222026091400204253F6D0FDE981B8E9B5A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+17%E5%A4%A7%E9%99%8D%E4%BB%B7%22%7D&rank=&style_id=40132&topic_id=7684220408232542771"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 38,
-                    "title": "iPhone 18预定后香港信用卡盗刷潮",
-                    "url": "https://www.toutiao.com/trending/7684672254055989289/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684672254055989289%22%2C%22hot_board_impr_id%22%3A%222026091400204253F6D0FDE981B8E9B5A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+18%E9%A2%84%E5%AE%9A%E5%90%8E%E9%A6%99%E6%B8%AF%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%9B%97%E5%88%B7%E6%BD%AE%22%7D&rank=&style_id=40132&topic_id=7684672254055989289"
                 }
             ]
         },
         {
             "word": "Pro",
-            "weight": 90,
+            "weight": 91,
             "tone": "hot",
             "hits": [
                 {
@@ -1886,6 +1886,14 @@
                     "url": "https://www.threebodyorbits.com/"
                 },
                 {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 8,
+                    "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+                    "url": "https://xcancel.com/twitter"
+                },
+                {
                     "channelId": "huggingface",
                     "channelName": "Hugging Face",
                     "ranking": "Trending Models",
@@ -1932,14 +1940,6 @@
                     "rank": 21,
                     "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
                     "url": "https://codeberg.org/mergiraf/mergiraf"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 22,
-                    "title": "We are all Product Engineers now",
-                    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/"
                 }
             ]
         },
@@ -2439,7 +2439,7 @@
         },
         {
             "word": "US",
-            "weight": 106,
+            "weight": 107,
             "tone": "",
             "hits": [
                 {
@@ -2497,6 +2497,14 @@
                     "rank": 17,
                     "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
                     "url": "https://bensimms.moe/reverse-engineering-scooter/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 8,
+                    "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+                    "url": "https://xcancel.com/twitter"
                 },
                 {
                     "channelId": "huggingface",
@@ -2673,14 +2681,6 @@
                     "rank": 9,
                     "title": "rust glfw gl openGl draw a color line",
                     "url": "https://stackoverflow.com/questions/80002773/rust-glfw-gl-opengl-draw-a-color-line"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 12,
-                    "title": "how to use the unreachable statement to make the switch complete on ziglang",
-                    "url": "https://stackoverflow.com/questions/80002761/how-to-use-the-unreachable-statement-to-make-the-switch-complete-on-ziglang"
                 }
             ]
         },
@@ -3674,7 +3674,7 @@
         },
         {
             "word": "LA",
-            "weight": 139,
+            "weight": 141,
             "tone": "hot",
             "hits": [
                 {
@@ -3790,6 +3790,22 @@
                     "url": "https://www.threebodyorbits.com/"
                 },
                 {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 10,
+                    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+                    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 13,
+                    "title": "Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
+                    "url": "https://stemjson.com/"
+                },
+                {
                     "channelId": "huggingface",
                     "channelName": "Hugging Face",
                     "ranking": "Trending Models",
@@ -3900,22 +3916,6 @@
                     "rank": 46,
                     "title": "有点意思 playmusictheory",
                     "url": "https://www.acfun.cn/v/ac48845246"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 47,
-                    "title": "咩咩-20260912 No9 因为红 chocolatecream 上下 短裙 猫步轻俏 没有明天",
-                    "url": "https://www.acfun.cn/v/ac48844186"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 48,
-                    "title": "【东方】东方红魔乡：New Classic 预告PV（伪）",
-                    "url": "https://www.acfun.cn/v/ac48839280"
                 }
             ]
         },
@@ -7991,9 +7991,503 @@
             ]
         },
         {
+            "word": "GPT",
+            "weight": 62,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 8,
+                    "title": "GPT-6 正式发布",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 9,
+                    "title": "GPT-6 贵",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 8,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 10,
+                    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+                    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
+                },
+                {
+                    "channelId": "huggingface",
+                    "channelName": "Hugging Face",
+                    "ranking": "Trending Models",
+                    "rank": 19,
+                    "title": "openai-community/gpt2",
+                    "url": "https://huggingface.co/openai-community/gpt2"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 17,
+                    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
+                    "url": "https://juejin.cn/post/7683803827217350675"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 25,
+                    "title": "GPT-6 做 UI 自动化测试：Demo 惊艳，但真的适合长期回归吗？",
+                    "url": "https://juejin.cn/post/7684049880512118836"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 34,
+                    "title": "从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了",
+                    "url": "https://juejin.cn/post/7684759404726321203"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 40,
+                    "title": "GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？",
+                    "url": "https://juejin.cn/post/7685215742590517299"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "当GPT-6 能让机器人拿起筷子，留给具身模型的窗口期还剩多久？",
+                    "url": "https://view.inews.qq.com/a/20260914A036EX00"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "财经热榜",
+                    "rank": 18,
+                    "title": "当GPT-6 能让机器人拿起筷子，留给具身模型的窗口期还剩多久？",
+                    "url": "https://finance.sina.com.cn/stock/t/2026-09-14/doc-inirtwin4909545.shtml"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 17,
+                    "title": "震撼，果蝇大脑成功接上了ChatGPT",
+                    "url": "https://www.36kr.com/p/3982957231995910"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 39,
+                    "title": "GPT-6 Astra开放Plus，20美元只能拿它干活，不能聊天",
+                    "url": "https://www.36kr.com/p/3982956032408579"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 47,
+                    "title": "GPT-6 Astra一年狂赚1.5万美元，3倍碾压Claude",
+                    "url": "https://www.36kr.com/p/3982956431375106"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "ChatGPT英区11镑的48team，18号要续费了，考虑要不要卖掉回点本？",
+                    "url": "https://www.nodeseek.com/post-926748-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 49,
+                    "title": "Deepseek V4.1 flash怎么样，和gpt5.6 terra能比吗",
+                    "url": "https://www.nodeseek.com/post-927290-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 25,
+                    "title": "「已拼出」GPT Team订阅",
+                    "url": "https://www.nodeseek.com/post-925629-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 32,
+                    "title": "出GPT 48月team 80/月",
+                    "url": "https://www.nodeseek.com/post-920500-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 34,
+                    "title": "GPT team拼车",
+                    "url": "https://www.nodeseek.com/post-923517-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "求一个gpt plus共享车，只用web，35/月，我自有美国节点",
+                    "url": "https://www.nodeseek.com/post-927143-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "人找车ChatGPT Pro 20x 三人车或者四人车 不要菲区 要公平公正",
+                    "url": "https://www.nodeseek.com/post-926732-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 33,
+                    "title": "【疑问】gptpro20x拼车出了api2sub交付还有什么方式",
+                    "url": "https://www.nodeseek.com/post-924593-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 27,
+                    "title": "咨询一下大陆VISA卡 可以套Google 钱包 在网页选择Google 钱包 支付GPT吗？",
+                    "url": "https://www.nodeseek.com/post-927428-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 48,
+                    "title": "【慢讯】gpt又重置了，降智的号也恢复了",
+                    "url": "https://www.nodeseek.com/post-925249-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "为什么网页版GPT 有Astra  GPT桌面客户端就没有",
+                    "url": "https://www.nodeseek.com/post-927478-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 16,
+                    "title": "NodeSeek （gpt-6已上）评论福利：评论留言用户ID，新用户送 $3，老用户送满 ¥20 减 ¥5 优惠券",
+                    "url": "https://www.nodeseek.com/post-922604-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 49,
+                    "title": "为什么我拼的GPT workplace没变成5hour限制",
+                    "url": "https://www.nodeseek.com/post-927593-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "gpt埃区48team会降智吗",
+                    "url": "https://www.nodeseek.com/post-927706-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 12,
+                    "title": "菲区gpt稳定吗？",
+                    "url": "https://www.nodeseek.com/post-927700-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "出个加拿大区gpt plus，还有两天到期，apple会延期一个星期，还有三次重置，带gpt邮箱带apple 邮箱（实则是同一个）",
+                    "url": "https://www.nodeseek.com/post-927704-1"
+                }
+            ]
+        },
+        {
+            "word": "gpt",
+            "weight": 62,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 8,
+                    "title": "GPT-6 正式发布",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 9,
+                    "title": "GPT-6 贵",
+                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 8,
+                    "title": "awesome-gpt-image-2",
+                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 10,
+                    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+                    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
+                },
+                {
+                    "channelId": "huggingface",
+                    "channelName": "Hugging Face",
+                    "ranking": "Trending Models",
+                    "rank": 19,
+                    "title": "openai-community/gpt2",
+                    "url": "https://huggingface.co/openai-community/gpt2"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 17,
+                    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
+                    "url": "https://juejin.cn/post/7683803827217350675"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 25,
+                    "title": "GPT-6 做 UI 自动化测试：Demo 惊艳，但真的适合长期回归吗？",
+                    "url": "https://juejin.cn/post/7684049880512118836"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 34,
+                    "title": "从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了",
+                    "url": "https://juejin.cn/post/7684759404726321203"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 40,
+                    "title": "GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？",
+                    "url": "https://juejin.cn/post/7685215742590517299"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "当GPT-6 能让机器人拿起筷子，留给具身模型的窗口期还剩多久？",
+                    "url": "https://view.inews.qq.com/a/20260914A036EX00"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "财经热榜",
+                    "rank": 18,
+                    "title": "当GPT-6 能让机器人拿起筷子，留给具身模型的窗口期还剩多久？",
+                    "url": "https://finance.sina.com.cn/stock/t/2026-09-14/doc-inirtwin4909545.shtml"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 17,
+                    "title": "震撼，果蝇大脑成功接上了ChatGPT",
+                    "url": "https://www.36kr.com/p/3982957231995910"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 39,
+                    "title": "GPT-6 Astra开放Plus，20美元只能拿它干活，不能聊天",
+                    "url": "https://www.36kr.com/p/3982956032408579"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 47,
+                    "title": "GPT-6 Astra一年狂赚1.5万美元，3倍碾压Claude",
+                    "url": "https://www.36kr.com/p/3982956431375106"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "ChatGPT英区11镑的48team，18号要续费了，考虑要不要卖掉回点本？",
+                    "url": "https://www.nodeseek.com/post-926748-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 49,
+                    "title": "Deepseek V4.1 flash怎么样，和gpt5.6 terra能比吗",
+                    "url": "https://www.nodeseek.com/post-927290-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 25,
+                    "title": "「已拼出」GPT Team订阅",
+                    "url": "https://www.nodeseek.com/post-925629-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 32,
+                    "title": "出GPT 48月team 80/月",
+                    "url": "https://www.nodeseek.com/post-920500-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 34,
+                    "title": "GPT team拼车",
+                    "url": "https://www.nodeseek.com/post-923517-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "求一个gpt plus共享车，只用web，35/月，我自有美国节点",
+                    "url": "https://www.nodeseek.com/post-927143-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 19,
+                    "title": "人找车ChatGPT Pro 20x 三人车或者四人车 不要菲区 要公平公正",
+                    "url": "https://www.nodeseek.com/post-926732-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 33,
+                    "title": "【疑问】gptpro20x拼车出了api2sub交付还有什么方式",
+                    "url": "https://www.nodeseek.com/post-924593-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 27,
+                    "title": "咨询一下大陆VISA卡 可以套Google 钱包 在网页选择Google 钱包 支付GPT吗？",
+                    "url": "https://www.nodeseek.com/post-927428-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 48,
+                    "title": "【慢讯】gpt又重置了，降智的号也恢复了",
+                    "url": "https://www.nodeseek.com/post-925249-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "为什么网页版GPT 有Astra  GPT桌面客户端就没有",
+                    "url": "https://www.nodeseek.com/post-927478-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 16,
+                    "title": "NodeSeek （gpt-6已上）评论福利：评论留言用户ID，新用户送 $3，老用户送满 ¥20 减 ¥5 优惠券",
+                    "url": "https://www.nodeseek.com/post-922604-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 49,
+                    "title": "为什么我拼的GPT workplace没变成5hour限制",
+                    "url": "https://www.nodeseek.com/post-927593-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "gpt埃区48team会降智吗",
+                    "url": "https://www.nodeseek.com/post-927706-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 12,
+                    "title": "菲区gpt稳定吗？",
+                    "url": "https://www.nodeseek.com/post-927700-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "出个加拿大区gpt plus，还有两天到期，apple会延期一个星期，还有三次重置，带gpt邮箱带apple 邮箱（实则是同一个）",
+                    "url": "https://www.nodeseek.com/post-927704-1"
+                }
+            ]
+        },
+        {
             "word": "公告",
             "weight": 54,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -8240,7 +8734,7 @@
         {
             "word": "A股",
             "weight": 49,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -8487,7 +8981,7 @@
         {
             "word": "到底",
             "weight": 47,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8734,7 +9228,7 @@
         {
             "word": "特朗普",
             "weight": 34,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -8981,7 +9475,7 @@
         {
             "word": "先生",
             "weight": 32,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -9228,7 +9722,7 @@
         {
             "word": "野人",
             "weight": 31,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -9475,7 +9969,7 @@
         {
             "word": "机器人",
             "weight": 22,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -9698,7 +10192,7 @@
         {
             "word": "广汽",
             "weight": 19,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -9869,509 +10363,15 @@
                     "url": "https://www.ithome.com/1/001/959.htm"
                 }
             ]
-        },
-        {
-            "word": "GPT",
-            "weight": 61,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 8,
-                    "title": "GPT-6 正式发布",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 9,
-                    "title": "GPT-6 贵",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 8,
-                    "title": "awesome-gpt-image-2",
-                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-                },
-                {
-                    "channelId": "huggingface",
-                    "channelName": "Hugging Face",
-                    "ranking": "Trending Models",
-                    "rank": 19,
-                    "title": "openai-community/gpt2",
-                    "url": "https://huggingface.co/openai-community/gpt2"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 17,
-                    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
-                    "url": "https://juejin.cn/post/7683803827217350675"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 25,
-                    "title": "GPT-6 做 UI 自动化测试：Demo 惊艳，但真的适合长期回归吗？",
-                    "url": "https://juejin.cn/post/7684049880512118836"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 34,
-                    "title": "从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了",
-                    "url": "https://juejin.cn/post/7684759404726321203"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 40,
-                    "title": "GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？",
-                    "url": "https://juejin.cn/post/7685215742590517299"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "当GPT-6 能让机器人拿起筷子，留给具身模型的窗口期还剩多久？",
-                    "url": "https://view.inews.qq.com/a/20260914A036EX00"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "财经热榜",
-                    "rank": 18,
-                    "title": "当GPT-6 能让机器人拿起筷子，留给具身模型的窗口期还剩多久？",
-                    "url": "https://finance.sina.com.cn/stock/t/2026-09-14/doc-inirtwin4909545.shtml"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 17,
-                    "title": "震撼，果蝇大脑成功接上了ChatGPT",
-                    "url": "https://www.36kr.com/p/3982957231995910"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 39,
-                    "title": "GPT-6 Astra开放Plus，20美元只能拿它干活，不能聊天",
-                    "url": "https://www.36kr.com/p/3982956032408579"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 47,
-                    "title": "GPT-6 Astra一年狂赚1.5万美元，3倍碾压Claude",
-                    "url": "https://www.36kr.com/p/3982956431375106"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "ChatGPT英区11镑的48team，18号要续费了，考虑要不要卖掉回点本？",
-                    "url": "https://www.nodeseek.com/post-926748-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 49,
-                    "title": "Deepseek V4.1 flash怎么样，和gpt5.6 terra能比吗",
-                    "url": "https://www.nodeseek.com/post-927290-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 25,
-                    "title": "「已拼出」GPT Team订阅",
-                    "url": "https://www.nodeseek.com/post-925629-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 32,
-                    "title": "出GPT 48月team 80/月",
-                    "url": "https://www.nodeseek.com/post-920500-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 34,
-                    "title": "GPT team拼车",
-                    "url": "https://www.nodeseek.com/post-923517-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 10,
-                    "title": "求一个gpt plus共享车，只用web，35/月，我自有美国节点",
-                    "url": "https://www.nodeseek.com/post-927143-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "人找车ChatGPT Pro 20x 三人车或者四人车 不要菲区 要公平公正",
-                    "url": "https://www.nodeseek.com/post-926732-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 33,
-                    "title": "【疑问】gptpro20x拼车出了api2sub交付还有什么方式",
-                    "url": "https://www.nodeseek.com/post-924593-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 27,
-                    "title": "咨询一下大陆VISA卡 可以套Google 钱包 在网页选择Google 钱包 支付GPT吗？",
-                    "url": "https://www.nodeseek.com/post-927428-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 48,
-                    "title": "【慢讯】gpt又重置了，降智的号也恢复了",
-                    "url": "https://www.nodeseek.com/post-925249-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 7,
-                    "title": "为什么网页版GPT 有Astra  GPT桌面客户端就没有",
-                    "url": "https://www.nodeseek.com/post-927478-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 16,
-                    "title": "NodeSeek （gpt-6已上）评论福利：评论留言用户ID，新用户送 $3，老用户送满 ¥20 减 ¥5 优惠券",
-                    "url": "https://www.nodeseek.com/post-922604-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 49,
-                    "title": "为什么我拼的GPT workplace没变成5hour限制",
-                    "url": "https://www.nodeseek.com/post-927593-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "gpt埃区48team会降智吗",
-                    "url": "https://www.nodeseek.com/post-927706-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "菲区gpt稳定吗？",
-                    "url": "https://www.nodeseek.com/post-927700-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "出个加拿大区gpt plus，还有两天到期，apple会延期一个星期，还有三次重置，带gpt邮箱带apple 邮箱（实则是同一个）",
-                    "url": "https://www.nodeseek.com/post-927704-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 26,
-                    "title": "假家宽已经降智了，换真家宽后 GPT 恢复，附智商测试题",
-                    "url": "https://www.nodeseek.com/post-927688-1"
-                }
-            ]
-        },
-        {
-            "word": "gpt",
-            "weight": 61,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 8,
-                    "title": "GPT-6 正式发布",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 9,
-                    "title": "GPT-6 贵",
-                    "url": "https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每月趋势",
-                    "rank": 8,
-                    "title": "awesome-gpt-image-2",
-                    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-                },
-                {
-                    "channelId": "huggingface",
-                    "channelName": "Hugging Face",
-                    "ranking": "Trending Models",
-                    "rank": 19,
-                    "title": "openai-community/gpt2",
-                    "url": "https://huggingface.co/openai-community/gpt2"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 17,
-                    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
-                    "url": "https://juejin.cn/post/7683803827217350675"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 25,
-                    "title": "GPT-6 做 UI 自动化测试：Demo 惊艳，但真的适合长期回归吗？",
-                    "url": "https://juejin.cn/post/7684049880512118836"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 34,
-                    "title": "从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了",
-                    "url": "https://juejin.cn/post/7684759404726321203"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 40,
-                    "title": "GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？",
-                    "url": "https://juejin.cn/post/7685215742590517299"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "当GPT-6 能让机器人拿起筷子，留给具身模型的窗口期还剩多久？",
-                    "url": "https://view.inews.qq.com/a/20260914A036EX00"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "财经热榜",
-                    "rank": 18,
-                    "title": "当GPT-6 能让机器人拿起筷子，留给具身模型的窗口期还剩多久？",
-                    "url": "https://finance.sina.com.cn/stock/t/2026-09-14/doc-inirtwin4909545.shtml"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 17,
-                    "title": "震撼，果蝇大脑成功接上了ChatGPT",
-                    "url": "https://www.36kr.com/p/3982957231995910"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 39,
-                    "title": "GPT-6 Astra开放Plus，20美元只能拿它干活，不能聊天",
-                    "url": "https://www.36kr.com/p/3982956032408579"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 47,
-                    "title": "GPT-6 Astra一年狂赚1.5万美元，3倍碾压Claude",
-                    "url": "https://www.36kr.com/p/3982956431375106"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "ChatGPT英区11镑的48team，18号要续费了，考虑要不要卖掉回点本？",
-                    "url": "https://www.nodeseek.com/post-926748-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 49,
-                    "title": "Deepseek V4.1 flash怎么样，和gpt5.6 terra能比吗",
-                    "url": "https://www.nodeseek.com/post-927290-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 25,
-                    "title": "「已拼出」GPT Team订阅",
-                    "url": "https://www.nodeseek.com/post-925629-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 32,
-                    "title": "出GPT 48月team 80/月",
-                    "url": "https://www.nodeseek.com/post-920500-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 34,
-                    "title": "GPT team拼车",
-                    "url": "https://www.nodeseek.com/post-923517-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 10,
-                    "title": "求一个gpt plus共享车，只用web，35/月，我自有美国节点",
-                    "url": "https://www.nodeseek.com/post-927143-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 19,
-                    "title": "人找车ChatGPT Pro 20x 三人车或者四人车 不要菲区 要公平公正",
-                    "url": "https://www.nodeseek.com/post-926732-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 33,
-                    "title": "【疑问】gptpro20x拼车出了api2sub交付还有什么方式",
-                    "url": "https://www.nodeseek.com/post-924593-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 27,
-                    "title": "咨询一下大陆VISA卡 可以套Google 钱包 在网页选择Google 钱包 支付GPT吗？",
-                    "url": "https://www.nodeseek.com/post-927428-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 48,
-                    "title": "【慢讯】gpt又重置了，降智的号也恢复了",
-                    "url": "https://www.nodeseek.com/post-925249-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 7,
-                    "title": "为什么网页版GPT 有Astra  GPT桌面客户端就没有",
-                    "url": "https://www.nodeseek.com/post-927478-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 16,
-                    "title": "NodeSeek （gpt-6已上）评论福利：评论留言用户ID，新用户送 $3，老用户送满 ¥20 减 ¥5 优惠券",
-                    "url": "https://www.nodeseek.com/post-922604-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 49,
-                    "title": "为什么我拼的GPT workplace没变成5hour限制",
-                    "url": "https://www.nodeseek.com/post-927593-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "gpt埃区48team会降智吗",
-                    "url": "https://www.nodeseek.com/post-927706-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "菲区gpt稳定吗？",
-                    "url": "https://www.nodeseek.com/post-927700-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "出个加拿大区gpt plus，还有两天到期，apple会延期一个星期，还有三次重置，带gpt邮箱带apple 邮箱（实则是同一个）",
-                    "url": "https://www.nodeseek.com/post-927704-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 26,
-                    "title": "假家宽已经降智了，换真家宽后 GPT 恢复，附智商测试题",
-                    "url": "https://www.nodeseek.com/post-927688-1"
-                }
-            ]
         }
     ],
     "flow": {
         "times": [
             "00:20",
-            "06:18",
-            "11:26",
+            "06:19",
+            "11:28",
             "15:42",
-            "20:33"
+            "20:41"
         ],
         "rows": [
             {

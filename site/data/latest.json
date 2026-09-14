@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-14 20:33:49",
+    "generatedAt": "2026-09-14 20:41:26",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5564,7 +5564,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-14 18:30:37",
+            "fetchedAt": "2026-09-14 20:41:26",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5578,183 +5578,183 @@
                     "items": [
                         {
                             "rank": 1,
+                            "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+                            "url": "https://github.com/callbacked/kinesis",
+                            "hot": 16,
+                            "description": "3 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 12:01:31 UTC"
+                        },
+                        {
+                            "rank": 2,
                             "title": "EuroBirdPortal – Live bird movements across Europe",
                             "url": "https://www.eurobirdportal.org/ebp/en/",
-                            "hot": 38,
-                            "description": "9 comments",
+                            "hot": 118,
+                            "description": "42 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 08:25:47 UTC"
                         },
                         {
-                            "rank": 2,
+                            "rank": 3,
+                            "title": "Who Aligns the Aligners?",
+                            "url": "https://prestonbyrne.com/2026/09/13/aligners/",
+                            "hot": 43,
+                            "description": "38 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 10:41:56 UTC"
+                        },
+                        {
+                            "rank": 4,
                             "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
                             "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-                            "hot": 964,
-                            "description": "414 comments",
+                            "hot": 1053,
+                            "description": "465 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 21:06:13 UTC"
                         },
                         {
-                            "rank": 3,
+                            "rank": 5,
+                            "title": "Watch AI materials-science and bioscience abilities closely",
+                            "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+                            "hot": 24,
+                            "description": "17 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 11:01:00 UTC"
+                        },
+                        {
+                            "rank": 6,
                             "title": "A 386 PC for Your RP2350",
                             "url": "https://github.com/rh1tech/frank-386",
-                            "hot": 31,
-                            "description": "10 comments",
+                            "hot": 83,
+                            "description": "24 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 08:25:57 UTC"
                         },
                         {
-                            "rank": 4,
-                            "title": "XCancel Taken Down Again",
-                            "url": "https://xcancel.com/#",
-                            "hot": 49,
-                            "description": "31 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 09:51:50 UTC"
-                        },
-                        {
-                            "rank": 5,
-                            "title": "Spaceships (Reverse Asteroid)",
-                            "url": "https://spaceships.treybastian.com/",
-                            "hot": 243,
-                            "description": "44 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-10 04:44:32 UTC"
-                        },
-                        {
-                            "rank": 6,
-                            "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-                            "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-                            "hot": 271,
-                            "description": "130 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 21:47:04 UTC"
-                        },
-                        {
                             "rank": 7,
-                            "title": "Apple's Dimensional Drawings",
-                            "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-                            "hot": 207,
-                            "description": "78 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 00:11:21 UTC"
-                        },
-                        {
-                            "rank": 8,
-                            "title": "The case against JPEG XL",
-                            "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-                            "hot": 170,
-                            "description": "233 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 01:02:37 UTC"
-                        },
-                        {
-                            "rank": 9,
-                            "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-                            "url": "https://screensize.net/reports/viewport-stats",
-                            "hot": 17,
-                            "description": "12 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 07:35:00 UTC"
-                        },
-                        {
-                            "rank": 10,
                             "title": "An atlas of periodic solutions to the three-body problem",
                             "url": "https://www.threebodyorbits.com/",
-                            "hot": 7,
-                            "description": "0 comments",
+                            "hot": 83,
+                            "description": "13 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 10:13:24 UTC"
                         },
                         {
-                            "rank": 11,
+                            "rank": 8,
+                            "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+                            "url": "https://xcancel.com/twitter",
+                            "hot": 57,
+                            "description": "24 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 12:05:52 UTC"
+                        },
+                        {
+                            "rank": 9,
                             "title": "OpenArch – PyTorch implementations of modern LLM architectures",
                             "url": "https://github.com/anuj0456/OpenArch",
-                            "hot": 12,
-                            "description": "3 comments",
+                            "hot": 63,
+                            "description": "11 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 07:55:19 UTC"
                         },
                         {
-                            "rank": 12,
-                            "title": "Mullenweg has returned as CEO after attempted board ouster",
-                            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-                            "hot": 163,
-                            "description": "224 comments",
+                            "rank": 10,
+                            "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+                            "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+                            "hot": 28,
+                            "description": "5 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 20:19:06 UTC"
+                            "publishedAt": "2026-09-14 12:01:32 UTC"
+                        },
+                        {
+                            "rank": 11,
+                            "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+                            "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+                            "hot": 312,
+                            "description": "157 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 21:47:04 UTC"
+                        },
+                        {
+                            "rank": 12,
+                            "title": "Spaceships (Reverse Asteroid)",
+                            "url": "https://spaceships.treybastian.com/",
+                            "hot": 277,
+                            "description": "52 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-10 04:44:32 UTC"
                         },
                         {
                             "rank": 13,
-                            "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-                            "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-                            "hot": 72,
-                            "description": "21 comments",
+                            "title": "Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
+                            "url": "https://stemjson.com/",
+                            "hot": 5,
+                            "description": "0 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-11 17:38:11 UTC"
+                            "publishedAt": "2026-09-14 11:26:45 UTC"
                         },
                         {
                             "rank": 14,
-                            "title": "Ask HN: What are you working on? (September 2026)",
-                            "url": "https://news.ycombinator.com/item?id=49686380",
-                            "hot": 178,
-                            "description": "554 comments",
+                            "title": "Apple's Dimensional Drawings",
+                            "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+                            "hot": 256,
+                            "description": "89 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 17:31:38 UTC"
+                            "publishedAt": "2026-09-14 00:11:21 UTC"
                         },
                         {
                             "rank": 15,
-                            "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
-                            "url": "https://calif.io/research/oempocalypse",
-                            "hot": 69,
-                            "description": "29 comments",
+                            "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+                            "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
+                            "hot": 26,
+                            "description": "28 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 02:25:44 UTC"
+                            "publishedAt": "2026-09-14 11:05:25 UTC"
                         },
                         {
                             "rank": 16,
-                            "title": "Julia 1.13 highlights",
-                            "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-                            "hot": 232,
-                            "description": "21 comments",
+                            "title": "The case against JPEG XL",
+                            "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+                            "hot": 199,
+                            "description": "263 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-10 12:27:25 UTC"
+                            "publishedAt": "2026-09-14 01:02:37 UTC"
                         },
                         {
                             "rank": 17,
-                            "title": "Why is Google still serving dodgy ads?",
-                            "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-                            "hot": 828,
-                            "description": "366 comments",
+                            "title": "Drawably: Hand-Drawn UI Controls",
+                            "url": "https://github.com/Danilaa1/drawably",
+                            "hot": 10,
+                            "description": "5 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 17:37:44 UTC"
+                            "publishedAt": "2026-09-09 17:45:32 UTC"
                         },
                         {
                             "rank": 18,
+                            "title": "A Vacuum Diode for Make: Magazine",
+                            "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
+                            "hot": 16,
+                            "description": "0 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-10 23:56:32 UTC"
+                        },
+                        {
+                            "rank": 19,
                             "title": "The Nature of Dance",
                             "url": "https://vester.si/blog/nature-of-dance/",
-                            "hot": 7,
-                            "description": "7 comments",
+                            "hot": 30,
+                            "description": "31 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 00:17:23 UTC"
                         },
                         {
-                            "rank": 19,
-                            "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-                            "url": "https://eterdb.com/",
-                            "hot": 34,
-                            "description": "15 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-10 15:41:36 UTC"
-                        },
-                        {
                             "rank": 20,
-                            "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-                            "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-                            "hot": 84,
-                            "description": "40 comments",
+                            "title": "Mullenweg has returned as CEO after attempted board ouster",
+                            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+                            "hot": 206,
+                            "description": "277 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-10 19:39:13 UTC"
+                            "publishedAt": "2026-09-13 20:19:06 UTC"
                         }
                     ]
                 }
