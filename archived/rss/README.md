@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 07:18:16
+> 更新时间：2026-09-14 09:02:16
 
 ## 少数派
 
-1. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
-2. [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
-3. [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
-4. [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
-5. [「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
+1. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
+2. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
+3. [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
+4. [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
+5. [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
 
 ## 爱范儿
 
-1. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [讲讲 Duo 作为科技产品命名的前世今生](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [刚刚，Apple Watch 成为了苹果最新的 AI 硬件](https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%](https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [讲讲 Duo 作为科技产品命名的前世今生](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [刚刚，Apple Watch 成为了苹果最新的 AI 硬件](https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -28,11 +28,11 @@
 
 ## InfoQ
 
-1. [‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article)
-2. [Figma 如何利用 AI 代理提升安全性](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article)
-3. [Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article)
-4. [AI的新用法，被这群 Builder 带到了外滩大会开发者日](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article)
-5. [Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article)
+1. [Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion](https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article)
+2. [‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article)
+3. [Figma 如何利用 AI 代理提升安全性](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article)
+4. [Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article)
+5. [AI的新用法，被这群 Builder 带到了外滩大会开发者日](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [The Contagion of Fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
-2. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-3. [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
-4. [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
-5. [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
+1. [The Coming War on General Computation (2011)](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
+2. [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+3. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+4. [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)
+5. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
 
 ## AI News
 
