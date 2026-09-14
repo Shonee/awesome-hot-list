@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-15 05:18:53",
+    "generatedAt": "2026-09-15 05:27:13",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5590,7 +5590,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-15 02:34:00",
+            "fetchedAt": "2026-09-15 05:27:13",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5604,181 +5604,181 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "Pion, an agent designed to run any company autonomously",
-                            "url": "https://andonlabs.com/blog/why-we-built-pion",
-                            "hot": 64,
-                            "description": "64 comments",
+                            "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+                            "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+                            "hot": 60,
+                            "description": "18 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 17:16:06 UTC"
+                            "publishedAt": "2026-09-14 21:05:22 UTC"
                         },
                         {
                             "rank": 2,
                             "title": "Distributed Systems Classics (2017)",
                             "url": "https://nvartolomei.com/dist-sys-classics/",
-                            "hot": 107,
-                            "description": "24 comments",
+                            "hot": 182,
+                            "description": "37 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 16:02:01 UTC"
                         },
                         {
                             "rank": 3,
-                            "title": "Why don't machine learning research agents overfit?",
-                            "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-                            "hot": 49,
-                            "description": "21 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 16:32:23 UTC"
-                        },
-                        {
-                            "rank": 4,
-                            "title": "Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
-                            "url": "https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/",
-                            "hot": 16,
-                            "description": "4 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 17:58:00 UTC"
-                        },
-                        {
-                            "rank": 5,
-                            "title": "iOS 27, iPadOS 27, and macOS 27",
-                            "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-                            "hot": 110,
-                            "description": "86 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 17:50:29 UTC"
-                        },
-                        {
-                            "rank": 6,
-                            "title": "Principles for Fast Tokio Applications",
-                            "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-                            "hot": 73,
-                            "description": "14 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 15:27:56 UTC"
-                        },
-                        {
-                            "rank": 7,
-                            "title": "Steam Frame starts at $1059",
-                            "url": "https://store.steampowered.com/hardware/steamframe",
-                            "hot": 120,
-                            "description": "50 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 17:27:55 UTC"
-                        },
-                        {
-                            "rank": 8,
-                            "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-                            "url": "https://www.neobrutalism.dev/",
-                            "hot": 59,
-                            "description": "33 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 16:02:02 UTC"
-                        },
-                        {
-                            "rank": 9,
-                            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-                            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-                            "hot": 206,
-                            "description": "206 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:40:57 UTC"
-                        },
-                        {
-                            "rank": 10,
                             "title": "A Beginning for Mathematics",
                             "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-                            "hot": 44,
-                            "description": "6 comments",
+                            "hot": 130,
+                            "description": "56 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 15:33:07 UTC"
                         },
                         {
-                            "rank": 11,
-                            "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-                            "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-                            "hot": 88,
-                            "description": "38 comments",
+                            "rank": 4,
+                            "title": "Principles for Fast Tokio Applications",
+                            "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+                            "hot": 133,
+                            "description": "24 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 13:59:09 UTC"
+                            "publishedAt": "2026-09-14 15:27:56 UTC"
                         },
                         {
-                            "rank": 12,
-                            "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-                            "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-                            "hot": 11,
-                            "description": "4 comments",
+                            "rank": 5,
+                            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+                            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+                            "hot": 299,
+                            "description": "265 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 16:07:58 UTC"
+                            "publishedAt": "2026-09-14 12:40:57 UTC"
                         },
                         {
-                            "rank": 13,
+                            "rank": 6,
+                            "title": "Why don't machine learning research agents overfit?",
+                            "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+                            "hot": 85,
+                            "description": "46 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:32:23 UTC"
+                        },
+                        {
+                            "rank": 7,
                             "title": "How my e-reader lost its stripes",
                             "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-                            "hot": 24,
-                            "description": "1 comments",
+                            "hot": 91,
+                            "description": "11 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 16:23:16 UTC"
                         },
                         {
-                            "rank": 14,
+                            "rank": 8,
                             "title": "XCancel service is suspended until further notice",
                             "url": "https://xcancel.com/#",
-                            "hot": 200,
-                            "description": "470 comments",
+                            "hot": 340,
+                            "description": "626 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 09:51:50 UTC"
                         },
                         {
-                            "rank": 15,
-                            "title": "Truncated SVD (2023)",
-                            "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-                            "hot": 21,
-                            "description": "1 comments",
+                            "rank": 9,
+                            "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+                            "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+                            "hot": 96,
+                            "description": "57 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 16:00:33 UTC"
+                            "publishedAt": "2026-09-14 19:05:15 UTC"
                         },
                         {
-                            "rank": 16,
+                            "rank": 10,
                             "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
                             "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-                            "hot": 12,
-                            "description": "4 comments",
+                            "hot": 58,
+                            "description": "16 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 17:02:34 UTC"
                         },
                         {
-                            "rank": 17,
-                            "title": "When LLM judges agree, should we believe them?",
-                            "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-                            "hot": 23,
-                            "description": "8 comments",
+                            "rank": 11,
+                            "title": "Pion, an agent designed to run any company autonomously",
+                            "url": "https://andonlabs.com/blog/why-we-built-pion",
+                            "hot": 202,
+                            "description": "221 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 16:29:30 UTC"
+                            "publishedAt": "2026-09-14 17:16:06 UTC"
+                        },
+                        {
+                            "rank": 12,
+                            "title": "Optimizing a Spin-Lock",
+                            "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+                            "hot": 12,
+                            "description": "2 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 09:43:44 UTC"
+                        },
+                        {
+                            "rank": 13,
+                            "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+                            "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+                            "hot": 43,
+                            "description": "10 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:07:58 UTC"
+                        },
+                        {
+                            "rank": 14,
+                            "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+                            "url": "https://www.neobrutalism.dev/",
+                            "hot": 109,
+                            "description": "48 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:02:02 UTC"
+                        },
+                        {
+                            "rank": 15,
+                            "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+                            "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+                            "hot": 103,
+                            "description": "48 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 13:59:09 UTC"
+                        },
+                        {
+                            "rank": 16,
+                            "title": "Steam Frame starts at $1059",
+                            "url": "https://store.steampowered.com/hardware/steamframe",
+                            "hot": 393,
+                            "description": "261 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 17:27:55 UTC"
+                        },
+                        {
+                            "rank": 17,
+                            "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+                            "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+                            "hot": 152,
+                            "description": "72 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:09:45 UTC"
                         },
                         {
                             "rank": 18,
-                            "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-                            "url": "https://spectrum.ieee.org/adversarial-fashion",
-                            "hot": 59,
-                            "description": "26 comments",
+                            "title": "An atlas of periodic solutions to the three-body problem",
+                            "url": "https://www.threebodyorbits.com/",
+                            "hot": 307,
+                            "description": "70 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:04:53 UTC"
+                            "publishedAt": "2026-09-12 10:13:24 UTC"
                         },
                         {
                             "rank": 19,
-                            "title": "An atlas of periodic solutions to the three-body problem",
-                            "url": "https://www.threebodyorbits.com/",
-                            "hot": 266,
-                            "description": "60 comments",
+                            "title": "Truncated SVD (2023)",
+                            "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+                            "hot": 37,
+                            "description": "6 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-12 10:13:24 UTC"
+                            "publishedAt": "2026-09-14 16:00:33 UTC"
                         },
                         {
                             "rank": 20,
                             "title": "Ask HN: What are you working on? (September 2026)",
                             "url": "https://news.ycombinator.com/item?id=49686380",
-                            "hot": 253,
-                            "description": "782 comments",
+                            "hot": 277,
+                            "description": "854 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 17:31:38 UTC"
                         }

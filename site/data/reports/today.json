@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15 05:19:07",
-    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，国务院提级调查青岛船厂火灾紧随其后。当前覆盖 32 个有效渠道，共形成 243 个榜单时间切片；发现 29 个跨渠道重复热点。",
+    "generatedAt": "2026-09-15 05:27:26",
+    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，国务院提级调查青岛船厂火灾紧随其后。当前覆盖 32 个有效渠道，共形成 244 个榜单时间切片；发现 29 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1949,
+        "deduplicated": 1953,
         "resonance": 29,
         "maxRise": 47,
-        "slices": 243,
+        "slices": 244,
         "coverage": 97,
         "samplingCoverage": 96
     },
@@ -462,7 +462,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 101,
+            "weight": 103,
             "tone": "hot",
             "hits": [
                 {
@@ -602,6 +602,22 @@
                     "url": "https://spectrum.ieee.org/adversarial-fashion"
                 },
                 {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 1,
+                    "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+                    "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 9,
+                    "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+                    "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676"
+                },
+                {
                     "channelId": "huggingface",
                     "channelName": "Hugging Face",
                     "ranking": "Trending Models",
@@ -688,22 +704,6 @@
                     "rank": 41,
                     "title": "一天一个开源项目（第215篇）：Langflow - 可视化拖拽构建 AI 应用的低代码平台",
                     "url": "https://juejin.cn/post/7684463933718773787"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 43,
-                    "title": "两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下",
-                    "url": "https://juejin.cn/post/7684203867400044582"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "真实调研2500名程序员：工资差一倍，AI拉开分水岭",
-                    "url": "https://juejin.cn/post/7684565470046339107"
                 }
             ]
         },
@@ -6962,8 +6962,8 @@
             "00:22",
             "01:18",
             "02:34",
-            "04:20",
-            "05:18"
+            "04:21",
+            "05:27"
         ],
         "rows": [
             {
