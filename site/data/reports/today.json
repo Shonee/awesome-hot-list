@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14 15:33:13",
-    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，The case against JPEG XL紧随其后。当前覆盖 33 个有效渠道，共形成 586 个榜单时间切片；发现 90 个跨渠道重复热点。",
+    "generatedAt": "2026-09-14 15:43:04",
+    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，The case against JPEG XL紧随其后。当前覆盖 33 个有效渠道，共形成 588 个榜单时间切片；发现 90 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3397,
+        "deduplicated": 3404,
         "resonance": 90,
         "maxRise": 65,
-        "slices": 586,
+        "slices": 588,
         "coverage": 100,
         "samplingCoverage": 79
     },
@@ -598,7 +598,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 203,
+            "weight": 204,
             "tone": "hot",
             "hits": [
                 {
@@ -845,7 +845,7 @@
         },
         {
             "word": "ai",
-            "weight": 203,
+            "weight": 204,
             "tone": "teal",
             "hits": [
                 {
@@ -1339,7 +1339,7 @@
         },
         {
             "word": "AL",
-            "weight": 114,
+            "weight": 116,
             "tone": "",
             "hits": [
                 {
@@ -2573,256 +2573,9 @@
             ]
         },
         {
-            "word": "苹果",
-            "weight": 26,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 39,
-                    "title": "当内裤是苹果的产品",
-                    "url": "https://b23.tv/BV1P4YE6VE8z"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 18,
-                    "title": "当内裤是苹果的产品",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%86%85%E8%A3%A4%E6%98%AF%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BA%A7%E5%93%81"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 100,
-                    "title": "当内裤是苹果的产品",
-                    "url": "https://b23.tv/BV1P4YE6VE8z"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 42,
-                    "title": "到底是谁抢到了苹果18",
-                    "url": "https://www.douyin.com/search/%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E6%8A%A2%E5%88%B0%E4%BA%86%E8%8B%B9%E6%9E%9C18"
-                },
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 36,
-                    "title": "苹果18 Pro勃艮第卖爆了",
-                    "url": "https://www.kuaishou.com/short-video/3xyf9tm8m7b5sdm"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 22,
-                    "title": "三星嘲讽苹果iPhoneDuo",
-                    "url": "https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 10,
-                    "title": "如何看待苹果宣布 App 可以直接获取 iPhone Duo 铰链开合角度？将此应用于开屏广告的前景如何？",
-                    "url": "https://www.zhihu.com/question/2081661494270415480"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 26,
-                    "title": "罗永浩连用 7 个「抄的」吐槽 iPhone Duo，如何看待这次争议？苹果折叠屏真的缺少原创吗？",
-                    "url": "https://www.zhihu.com/question/2081419241438308033"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 50,
-                    "title": "地震局回应“预警信息接入苹果系统”",
-                    "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E2%80%9C%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF%E6%8E%A5%E5%85%A5%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 11,
-                    "title": "我把苹果发布会里的折叠屏，真的用网页做出来了",
-                    "url": "https://juejin.cn/post/7684463933702291466"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 39,
-                    "title": "消费者称新买的苹果手机时间总是变慢",
-                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%2220260914022313173EBBE0C018EA4B7193%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 49,
-                    "title": "消费者称新买的苹果手机时间总是变慢",
-                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%222026091403150860F01B04AD8ABBB39067%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 39,
-                    "title": "消费者称新买的苹果手机时间总是变慢",
-                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%2220260914042005F81E20F64C9B024B3AE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 40,
-                    "title": "消费者称新买的苹果手机时间总是变慢",
-                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%222026091405173597976EAAB789829F49D6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 30,
-                    "title": "消费者称新买的苹果手机时间总是变慢",
-                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%2220260914061845D5A2DCEC1CD5926AF0F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 27,
-                    "title": "消费者称新买的苹果手机时间总是变慢",
-                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 20,
-                    "title": "苹果首款折叠机的妥协，古尔曼：两大缺失功能有望在第三代回归",
-                    "url": "https://view.inews.qq.com/a/20260914A0318L00"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "香港多名市民称被盗刷信用卡预定苹果手机，警方已收到超700人报案，涉款约1470万港元，香港议员：疑为商户暂停“3DSecure”额外安全认证",
-                    "url": "https://view.inews.qq.com/a/20260914A06ZZ700"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 4,
-                    "title": "古尔曼：苹果iPhone Duo助推下，折叠手机10年内将成为市场领先形态",
-                    "url": "https://m.163.com/news/article/L6PGR58405567I2C.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 7,
-                    "title": "仅限iPhone Duo先用！等了多年的微信双开，苹果终于安排了",
-                    "url": "https://m.163.com/news/article/L6PN0RSJ051100B9.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 17,
-                    "title": "买了个顶配苹果18max pro 2TB有没有排面？为啥都说苹果没装13属性？",
-                    "url": "https://bbs.hupu.com/642401426.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 6,
-                    "title": "苹果的折叠屏等了十五年，体验还差临门一脚",
-                    "url": "https://www.36kr.com/p/3981515519441923"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 43,
-                    "title": "不做电视，不做汽车，折叠机迟到7年，背后是苹果严苛的战略纪律",
-                    "url": "https://www.36kr.com/p/3982653702700034"
-                },
-                {
-                    "channelId": "v2ex",
-                    "channelName": "V2EX",
-                    "ranking": "热门主题",
-                    "rank": 7,
-                    "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
-                    "url": "https://www.v2ex.com/t/1241642"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 41,
-                    "title": "(求助)苹果修改定位的帖子找不到了",
-                    "url": "https://www.nodeseek.com/post-923358-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 23,
-                    "title": "港版苹果用万事达怎么买划算？",
-                    "url": "https://www.nodeseek.com/post-927553-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 33,
-                    "title": "中国地震局回应推进预警信息接入 iOS 系统建议，称正与苹果公司沟通",
-                    "url": "https://www.nodeseek.com/post-927501-1"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 19,
-                    "title": "爆了!苹果18首批开售秒空",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363832&topic_name=%E7%88%86%E4%BA%86%21%E8%8B%B9%E6%9E%9C18%E9%A6%96%E6%89%B9%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 1,
-                    "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
-                    "url": "https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 3,
-                    "title": "刚刚，Apple Watch 成为了苹果最新的 AI 硬件",
-                    "url": "https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign="
-                }
-            ]
-        },
-        {
             "word": "手机",
-            "weight": 39,
-            "tone": "teal",
+            "weight": 40,
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3063,6 +2816,253 @@
                     "rank": 6,
                     "title": "田文静小朋友真调皮！★手机竖屏2001★",
                     "url": "https://www.acfun.cn/v/ac48841421"
+                }
+            ]
+        },
+        {
+            "word": "苹果",
+            "weight": 26,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 39,
+                    "title": "当内裤是苹果的产品",
+                    "url": "https://b23.tv/BV1P4YE6VE8z"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 18,
+                    "title": "当内裤是苹果的产品",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%86%85%E8%A3%A4%E6%98%AF%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BA%A7%E5%93%81"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 100,
+                    "title": "当内裤是苹果的产品",
+                    "url": "https://b23.tv/BV1P4YE6VE8z"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 42,
+                    "title": "到底是谁抢到了苹果18",
+                    "url": "https://www.douyin.com/search/%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E6%8A%A2%E5%88%B0%E4%BA%86%E8%8B%B9%E6%9E%9C18"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 36,
+                    "title": "苹果18 Pro勃艮第卖爆了",
+                    "url": "https://www.kuaishou.com/short-video/3xyf9tm8m7b5sdm"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 22,
+                    "title": "三星嘲讽苹果iPhoneDuo",
+                    "url": "https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 10,
+                    "title": "如何看待苹果宣布 App 可以直接获取 iPhone Duo 铰链开合角度？将此应用于开屏广告的前景如何？",
+                    "url": "https://www.zhihu.com/question/2081661494270415480"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 26,
+                    "title": "罗永浩连用 7 个「抄的」吐槽 iPhone Duo，如何看待这次争议？苹果折叠屏真的缺少原创吗？",
+                    "url": "https://www.zhihu.com/question/2081419241438308033"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 50,
+                    "title": "地震局回应“预警信息接入苹果系统”",
+                    "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E2%80%9C%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF%E6%8E%A5%E5%85%A5%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 11,
+                    "title": "我把苹果发布会里的折叠屏，真的用网页做出来了",
+                    "url": "https://juejin.cn/post/7684463933702291466"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 39,
+                    "title": "消费者称新买的苹果手机时间总是变慢",
+                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%2220260914022313173EBBE0C018EA4B7193%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 49,
+                    "title": "消费者称新买的苹果手机时间总是变慢",
+                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%222026091403150860F01B04AD8ABBB39067%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 39,
+                    "title": "消费者称新买的苹果手机时间总是变慢",
+                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%2220260914042005F81E20F64C9B024B3AE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 40,
+                    "title": "消费者称新买的苹果手机时间总是变慢",
+                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%222026091405173597976EAAB789829F49D6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 30,
+                    "title": "消费者称新买的苹果手机时间总是变慢",
+                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%2220260914061845D5A2DCEC1CD5926AF0F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 27,
+                    "title": "消费者称新买的苹果手机时间总是变慢",
+                    "url": "https://www.toutiao.com/trending/7684501600942080010/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684501600942080010%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B6%88%E8%B4%B9%E8%80%85%E7%A7%B0%E6%96%B0%E4%B9%B0%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E9%97%B4%E6%80%BB%E6%98%AF%E5%8F%98%E6%85%A2%22%7D&rank=&style_id=40132&topic_id=7684501600942080010"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 20,
+                    "title": "苹果首款折叠机的妥协，古尔曼：两大缺失功能有望在第三代回归",
+                    "url": "https://view.inews.qq.com/a/20260914A0318L00"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "香港多名市民称被盗刷信用卡预定苹果手机，警方已收到超700人报案，涉款约1470万港元，香港议员：疑为商户暂停“3DSecure”额外安全认证",
+                    "url": "https://view.inews.qq.com/a/20260914A06ZZ700"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 4,
+                    "title": "古尔曼：苹果iPhone Duo助推下，折叠手机10年内将成为市场领先形态",
+                    "url": "https://m.163.com/news/article/L6PGR58405567I2C.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 7,
+                    "title": "仅限iPhone Duo先用！等了多年的微信双开，苹果终于安排了",
+                    "url": "https://m.163.com/news/article/L6PN0RSJ051100B9.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 17,
+                    "title": "买了个顶配苹果18max pro 2TB有没有排面？为啥都说苹果没装13属性？",
+                    "url": "https://bbs.hupu.com/642401426.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 6,
+                    "title": "苹果的折叠屏等了十五年，体验还差临门一脚",
+                    "url": "https://www.36kr.com/p/3981515519441923"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 43,
+                    "title": "不做电视，不做汽车，折叠机迟到7年，背后是苹果严苛的战略纪律",
+                    "url": "https://www.36kr.com/p/3982653702700034"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
+                    "url": "https://www.v2ex.com/t/1241642"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 41,
+                    "title": "(求助)苹果修改定位的帖子找不到了",
+                    "url": "https://www.nodeseek.com/post-923358-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 23,
+                    "title": "港版苹果用万事达怎么买划算？",
+                    "url": "https://www.nodeseek.com/post-927553-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 33,
+                    "title": "中国地震局回应推进预警信息接入 iOS 系统建议，称正与苹果公司沟通",
+                    "url": "https://www.nodeseek.com/post-927501-1"
+                },
+                {
+                    "channelId": "tieba",
+                    "channelName": "百度贴吧",
+                    "ranking": "最有料热点",
+                    "rank": 19,
+                    "title": "爆了!苹果18首批开售秒空",
+                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363832&topic_name=%E7%88%86%E4%BA%86%21%E8%8B%B9%E6%9E%9C18%E9%A6%96%E6%89%B9%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 1,
+                    "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
+                    "url": "https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 3,
+                    "title": "刚刚，Apple Watch 成为了苹果最新的 AI 硬件",
+                    "url": "https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign="
                 }
             ]
         },
@@ -9594,8 +9594,8 @@
             "00:20",
             "04:27",
             "09:07",
-            "12:27",
-            "15:32"
+            "12:28",
+            "15:42"
         ],
         "rows": [
             {

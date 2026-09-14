@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-14 15:32:37",
+    "generatedAt": "2026-09-14 15:42:25",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5562,7 +5562,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-14 13:31:05",
+            "fetchedAt": "2026-09-14 15:42:25",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5578,181 +5578,181 @@
                             "rank": 1,
                             "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
                             "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-                            "hot": 683,
-                            "description": "295 comments",
+                            "hot": 807,
+                            "description": "340 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 21:06:13 UTC"
                         },
                         {
                             "rank": 2,
-                            "title": "Why is Google still serving dodgy ads?",
-                            "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-                            "hot": 711,
-                            "description": "328 comments",
+                            "title": "Spaceships (Reverse Asteroid)",
+                            "url": "https://spaceships.treybastian.com/",
+                            "hot": 182,
+                            "description": "34 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 17:37:44 UTC"
+                            "publishedAt": "2026-09-10 04:44:32 UTC"
                         },
                         {
                             "rank": 3,
-                            "title": "Spaceships (Reverse Asteroid)",
-                            "url": "https://spaceships.treybastian.com/",
-                            "hot": 119,
-                            "description": "22 comments",
+                            "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
+                            "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
+                            "hot": 16,
+                            "description": "4 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-10 04:44:32 UTC"
+                            "publishedAt": "2026-09-14 06:34:06 UTC"
                         },
                         {
                             "rank": 4,
                             "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
                             "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-                            "hot": 165,
-                            "description": "76 comments",
+                            "hot": 218,
+                            "description": "101 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 21:47:04 UTC"
                         },
                         {
                             "rank": 5,
-                            "title": "Open-Source AI and Open Models Reading List",
-                            "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-                            "hot": 66,
-                            "description": "7 comments",
+                            "title": "The case against JPEG XL",
+                            "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+                            "hot": 120,
+                            "description": "161 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 00:22:51 UTC"
+                            "publishedAt": "2026-09-14 01:02:37 UTC"
                         },
                         {
                             "rank": 6,
                             "title": "Apple's Dimensional Drawings",
                             "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-                            "hot": 101,
-                            "description": "25 comments",
+                            "hot": 149,
+                            "description": "52 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 00:11:21 UTC"
                         },
                         {
                             "rank": 7,
-                            "title": "The case against JPEG XL",
-                            "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-                            "hot": 76,
-                            "description": "100 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 01:02:37 UTC"
-                        },
-                        {
-                            "rank": 8,
-                            "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-                            "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-                            "hot": 409,
-                            "description": "183 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 14:28:36 UTC"
-                        },
-                        {
-                            "rank": 9,
                             "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
                             "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-                            "hot": 22,
-                            "description": "1 comments",
+                            "hot": 52,
+                            "description": "8 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-11 17:38:11 UTC"
                         },
                         {
-                            "rank": 10,
-                            "title": "The Malicious Use of Artificial Intelligence",
-                            "url": "https://arxiv.org/abs/1802.07228",
-                            "hot": 32,
-                            "description": "7 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 01:22:35 UTC"
-                        },
-                        {
-                            "rank": 11,
-                            "title": "Julia 1.13 highlights",
-                            "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-                            "hot": 185,
-                            "description": "16 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-10 12:27:25 UTC"
-                        },
-                        {
-                            "rank": 12,
+                            "rank": 8,
                             "title": "Data collected by cars and sold to third parties",
                             "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-                            "hot": 360,
-                            "description": "192 comments",
+                            "hot": 402,
+                            "description": "203 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 13:45:08 UTC"
                         },
                         {
-                            "rank": 13,
-                            "title": "Writing a better reality: The case for optimistic sci-fi",
-                            "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-                            "hot": 43,
-                            "description": "18 comments",
+                            "rank": 9,
+                            "title": "The Malicious Use of Artificial Intelligence",
+                            "url": "https://arxiv.org/abs/1802.07228",
+                            "hot": 54,
+                            "description": "11 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 00:27:11 UTC"
+                            "publishedAt": "2026-09-14 01:22:35 UTC"
                         },
                         {
-                            "rank": 14,
-                            "title": "Ask HN: What are you working on? (September 2026)",
-                            "url": "https://news.ycombinator.com/item?id=49686380",
-                            "hot": 122,
-                            "description": "323 comments",
+                            "rank": 10,
+                            "title": "Julia 1.13 highlights",
+                            "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+                            "hot": 213,
+                            "description": "19 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 17:31:38 UTC"
+                            "publishedAt": "2026-09-10 12:27:25 UTC"
                         },
                         {
-                            "rank": 15,
+                            "rank": 11,
                             "title": "Mullenweg has returned as CEO after attempted board ouster",
                             "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-                            "hot": 93,
-                            "description": "142 comments",
+                            "hot": 124,
+                            "description": "176 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 20:19:06 UTC"
                         },
                         {
-                            "rank": 16,
-                            "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-                            "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-                            "hot": 75,
-                            "description": "8 comments",
+                            "rank": 12,
+                            "title": "Ask HN: What are you working on? (September 2026)",
+                            "url": "https://news.ycombinator.com/item?id=49686380",
+                            "hot": 143,
+                            "description": "435 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 20:33:18 UTC"
+                            "publishedAt": "2026-09-13 17:31:38 UTC"
                         },
                         {
-                            "rank": 17,
-                            "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-                            "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-                            "hot": 49,
-                            "description": "13 comments",
+                            "rank": 13,
+                            "title": "Why is Google still serving dodgy ads?",
+                            "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+                            "hot": 772,
+                            "description": "346 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-10 19:39:13 UTC"
+                            "publishedAt": "2026-09-13 17:37:44 UTC"
                         },
                         {
-                            "rank": 18,
+                            "rank": 14,
                             "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
                             "url": "https://eterdb.com/",
-                            "hot": 12,
-                            "description": "2 comments",
+                            "hot": 26,
+                            "description": "4 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-10 15:41:36 UTC"
                         },
                         {
-                            "rank": 19,
-                            "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-                            "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-                            "hot": 235,
-                            "description": "54 comments",
+                            "rank": 15,
+                            "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+                            "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+                            "hot": 71,
+                            "description": "24 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 12:30:15 UTC"
+                            "publishedAt": "2026-09-10 19:39:13 UTC"
+                        },
+                        {
+                            "rank": 16,
+                            "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+                            "url": "https://calif.io/research/oempocalypse",
+                            "hot": 38,
+                            "description": "8 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 02:25:44 UTC"
+                        },
+                        {
+                            "rank": 17,
+                            "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+                            "url": "https://danluu.com/exercise-7/",
+                            "hot": 18,
+                            "description": "2 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-11 09:31:27 UTC"
+                        },
+                        {
+                            "rank": 18,
+                            "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+                            "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+                            "hot": 79,
+                            "description": "9 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 20:33:18 UTC"
+                        },
+                        {
+                            "rank": 19,
+                            "title": "Open-source AI and open models reading list",
+                            "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+                            "hot": 94,
+                            "description": "10 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 00:22:51 UTC"
                         },
                         {
                             "rank": 20,
-                            "title": "Making Startups Powerful",
-                            "url": "https://paulgraham.com/powerful.html",
-                            "hot": 188,
-                            "description": "84 comments",
+                            "title": "Five Words from Vanishing Fleece",
+                            "url": "https://blog.wordnik.com/five-words-from-vanishing-fleece",
+                            "hot": 3,
+                            "description": "0 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 14:09:53 UTC"
+                            "publishedAt": "2026-09-11 16:00:58 UTC"
                         }
                     ]
                 }
@@ -12490,7 +12490,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-14 12:36:27",
+            "fetchedAt": "2026-09-14 15:42:25",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -12504,84 +12504,75 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "北京这下无人机算是彻底了。",
-                            "url": "https://www.v2ex.com/t/1241706",
-                            "hot": 123,
-                            "description": "北京",
+                            "title": "第一次在试用期开除一个人，和大家探讨一下如何招人，用人。",
+                            "url": "https://www.v2ex.com/t/1241795",
+                            "hot": 114,
+                            "description": "职场话题",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 21:43:30"
+                            "publishedAt": "2026-09-14 10:49:49"
                         },
                         {
                             "rank": 2,
-                            "title": "用 Astra 把家乡的竹林老屋做成一个可以游览的网页",
-                            "url": "https://www.v2ex.com/t/1241660",
-                            "hot": 79,
-                            "description": "分享创造",
+                            "title": "对华为手机的贬值有了新的认识",
+                            "url": "https://www.v2ex.com/t/1241792",
+                            "hot": 95,
+                            "description": "华为",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 14:38:29"
+                            "publishedAt": "2026-09-14 12:15:27"
                         },
                         {
                             "rank": 3,
                             "title": "“万 1 免五”股票基金低费率大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.14 日~9.21 日]",
                             "url": "https://www.v2ex.com/t/1241745",
-                            "hot": 69,
+                            "hot": 91,
                             "description": "推广",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 08:35:27"
                         },
                         {
                             "rank": 4,
+                            "title": "领证后买的房一直空关，岳父母要住 3—5 年并搬大件家具，我要同意吗？",
+                            "url": "https://www.v2ex.com/t/1241840",
+                            "hot": 89,
+                            "description": "生活",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 13:00:41"
+                        },
+                        {
+                            "rank": 5,
                             "title": "被项目经理针对了，怎么办",
                             "url": "https://www.v2ex.com/t/1241751",
-                            "hot": 58,
+                            "hot": 69,
                             "description": "职场话题",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 09:09:14"
                         },
                         {
-                            "rank": 5,
-                            "title": "家境平凡、天赋资质平庸的人生，如果愿意跳出三贷之外，其实可以活得很自由",
-                            "url": "https://www.v2ex.com/t/1241709",
-                            "hot": 57,
-                            "description": "生活",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 08:09:58"
-                        },
-                        {
                             "rank": 6,
-                            "title": "为什么女装/男娘/TS 这类群体的自曝欲望显著地强？",
-                            "url": "https://www.v2ex.com/t/1241760",
-                            "hot": 55,
-                            "description": "分享发现",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 09:34:01"
-                        },
-                        {
-                            "rank": 7,
                             "title": "豆包输入法 win 正式版终于出来了",
                             "url": "https://www.v2ex.com/t/1241746",
-                            "hot": 50,
+                            "hot": 64,
                             "description": "软件",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 08:48:28"
                         },
                         {
-                            "rank": 8,
-                            "title": "第一次在试用期开除一个人，和大家探讨一下如何招人，用人。",
-                            "url": "https://www.v2ex.com/t/1241795",
-                            "hot": 50,
-                            "description": "职场话题",
+                            "rank": 7,
+                            "title": "家境平凡、天赋资质平庸的人生，如果愿意跳出三贷之外，其实可以活得很自由",
+                            "url": "https://www.v2ex.com/t/1241709",
+                            "hot": 62,
+                            "description": "生活",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 10:49:49"
+                            "publishedAt": "2026-09-14 08:09:58"
                         },
                         {
-                            "rank": 9,
-                            "title": "这大概是 claude 封号的真正原因",
-                            "url": "https://www.v2ex.com/t/1241695",
-                            "hot": 47,
-                            "description": "程序员",
+                            "rank": 8,
+                            "title": "纯电还是混动",
+                            "url": "https://www.v2ex.com/t/1241810",
+                            "hot": 59,
+                            "description": "汽车",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 19:46:32"
+                            "publishedAt": "2026-09-14 11:20:59"
                         }
                     ]
                 }
