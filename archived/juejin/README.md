@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-15 06:20:13
+> 更新时间：2026-09-15 07:18:00
 
 ## 热门文章
 
@@ -20,8 +20,8 @@
 14. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
 15. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
 16. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
-17. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
-18. [Deepseek Harness 架构解析和应用](https://juejin.cn/post/7684759404727320627)
+17. [Deepseek Harness 架构解析和应用](https://juejin.cn/post/7684759404727320627)
+18. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
 19. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
 20. [AI 越来越强，为什么打工人反而越来越累、越来越内耗了？](https://juejin.cn/post/7684573646438629386)
 21. [WebP 压缩到底在干嘛？小白也能看懂的原理拆解](https://juejin.cn/post/7685040997440978990)
@@ -30,8 +30,8 @@
 24. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
 25. [从产品角度：拆解WorkBuddy 功能](https://juejin.cn/post/7684615074137718824)
 26. [2026年古法编程的末法时代，如何评估自己完成迅速转行](https://juejin.cn/post/7684615074136801320)
-27. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
-28. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
+27. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
+28. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
 29. [最近火爆出圈的，FDE 到底是个什么岗位？](https://juejin.cn/post/7684795356343336998)
 30. [WorkBuddy 技术解析：核心并不神秘，真正壁垒在产品化、生态与规模工程](https://juejin.cn/post/7684313635775004712)
 31. [Agent 的控制权，为什么正在回到模型手里？](https://juejin.cn/post/7684900473053954094)
@@ -46,11 +46,11 @@
 40. [为什么你的页面在 Safari 上总出问题？Interop 2027 正在解决这个 20 年老毛病](https://juejin.cn/post/7684897169736187910)
 41. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
 42. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
-43. [Android 手簿 ADB 无线调试全攻略：USB 转 WiFi 一键连接](https://juejin.cn/post/7684547172776378414)
-44. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
-45. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
-46. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
-47. [小米版 Codex，干活有点猛啊](https://juejin.cn/post/7684795356321579018)
-48. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
+43. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
+44. [Android 手簿 ADB 无线调试全攻略：USB 转 WiFi 一键连接](https://juejin.cn/post/7684547172776378414)
+45. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
+46. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
+47. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
+48. [小米版 Codex，干活有点猛啊](https://juejin.cn/post/7684795356321579018)
 49. [三道保险丝，最后只能放弃治疗？ 一文聊聊我的agent是怎么做死循环检测的](https://juejin.cn/post/7684507874422571059)
 50. [JavaScript：函数体系-1](https://juejin.cn/post/7684507874421768243)
