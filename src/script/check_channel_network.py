@@ -139,6 +139,11 @@ PROBES = {
             "https://tophub.today/n/WnBe01o371", ("mp.weixin.qq.com",), min_items=1
         ))
     ),
+    "tophub-kuaishou": Probe(
+        lambda: len(fetch_tophub_ranking(
+            kuaishou.TOPHUB_URL, ("kuaishou.com",), min_items=1
+        ))
+    ),
     "xueqiu": Probe(lambda: _collect("xueqiu")),
 }
 

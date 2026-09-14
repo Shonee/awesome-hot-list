@@ -9,10 +9,12 @@ from src.utils.http_utils import get
 from ..models import HotItem, Ranking
 from .common import snapshot
 from .dailyhot import fetch_payload as fetch_dailyhot
+from .tophub import fetch_ranking as fetch_tophub_ranking
 
 
 SOURCE_URL = "https://www.kuaishou.com/?isHome=1&cc=CN"
 DAILYHOT_URL = "https://api-hot.imsyy.top/kuaishou"
+TOPHUB_URL = "https://tophub.today/n/MZd7PrPerO"
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -97,12 +99,23 @@ def collect() -> "ChannelSnapshot":
         provider_name = "快手官方"
         provider_url = SOURCE_URL
     except Exception as official_error:  # noqa: BLE001 - explicit provider fallback
-        logger.warning("快手官方热榜请求失败，尝试 DailyHot API: %s", official_error)
-        items = parse_dailyhot(fetch_dailyhot(DAILYHOT_URL))
-        if not items:
-            raise RuntimeError("快手官方及 DailyHot API 均未返回有效数据")
-        provider_name = "DailyHot API"
-        provider_url = DAILYHOT_URL
+        logger.warning("快手官方热榜请求失败，尝试今日热榜: %s", official_error)
+        try:
+            items = fetch_tophub_ranking(
+                TOPHUB_URL,
+                allowed_hosts=("kuaishou.com",),
+                limit=50,
+                min_items=5,
+            )
+            provider_name = "今日热榜"
+            provider_url = TOPHUB_URL
+        except Exception as tophub_error:  # noqa: BLE001 - final DailyHot fallback
+            logger.warning("快手今日热榜请求失败，尝试 DailyHot API: %s", tophub_error)
+            items = parse_dailyhot(fetch_dailyhot(DAILYHOT_URL))
+            if not items:
+                raise RuntimeError("快手官方、今日热榜及 DailyHot API 均未返回有效数据")
+            provider_name = "DailyHot API"
+            provider_url = DAILYHOT_URL
     return snapshot(
         "kuaishou",
         [Ranking("hot", "快手热榜", items, SOURCE_URL, provider_name, provider_url)],

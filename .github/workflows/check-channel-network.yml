@@ -2,6 +2,12 @@ name: Check channel network access
 
 on:
   workflow_dispatch:
+    inputs:
+      channels:
+        description: "Optional comma-separated probe IDs; blank runs all probes"
+        required: false
+        default: ""
+        type: string
 
 permissions:
   contents: read
@@ -21,9 +27,16 @@ jobs:
         run: python -m pip install -r src/requirements.txt
       - name: Probe public endpoints
         id: probe
+        env:
+          PROBE_CHANNELS: ${{ inputs.channels }}
         run: |
           set -o pipefail
-          python src/script/check_channel_network.py 2>&1 | tee channel-network-check.txt
+          if [ -n "$PROBE_CHANNELS" ]; then
+            IFS=',' read -ra CHANNEL_ARGS <<< "$PROBE_CHANNELS"
+            python src/script/check_channel_network.py "${CHANNEL_ARGS[@]}" 2>&1 | tee channel-network-check.txt
+          else
+            python src/script/check_channel_network.py 2>&1 | tee channel-network-check.txt
+          fi
       - name: Write probe summary
         if: always()
         run: |

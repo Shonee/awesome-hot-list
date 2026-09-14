@@ -180,9 +180,23 @@ class CandidateSourceTests(unittest.TestCase):
         fallback.assert_not_called()
 
     @patch("src.hotlist.channels.kuaishou.fetch_dailyhot")
+    @patch("src.hotlist.channels.kuaishou.fetch_tophub_ranking")
     @patch("src.hotlist.channels.kuaishou.get", return_value="no state")
-    def test_kuaishou_falls_back_to_dailyhot(self, _request, fallback):
-        fallback.return_value = [{"title": "第三方", "url": "https://www.kuaishou.com/1"}]
+    def test_kuaishou_falls_back_to_tophub(self, _request, tophub_fallback, dailyhot_fallback):
+        from src.hotlist.models import HotItem
+
+        tophub_fallback.return_value = [HotItem(1, "今日热榜快手", "https://index.e.kuaishou.com/1")]
+
+        result = kuaishou.collect()
+
+        self.assertEqual(result.rankings[0].provider_name, "今日热榜")
+        dailyhot_fallback.assert_not_called()
+
+    @patch("src.hotlist.channels.kuaishou.fetch_dailyhot")
+    @patch("src.hotlist.channels.kuaishou.fetch_tophub_ranking", side_effect=RuntimeError("tophub down"))
+    @patch("src.hotlist.channels.kuaishou.get", return_value="no state")
+    def test_kuaishou_uses_dailyhot_as_last_fallback(self, _request, _tophub_fallback, dailyhot_fallback):
+        dailyhot_fallback.return_value = [{"title": "DailyHot 快手", "url": "https://www.kuaishou.com/1"}]
 
         result = kuaishou.collect()
 
