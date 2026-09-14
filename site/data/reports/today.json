@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14 23:24:26",
-    "summary": "The case against JPEG XL成为本期综合热度最高的话题，上5休1上5休3上3休7上3休1紧随其后。当前覆盖 33 个有效渠道，共形成 915 个榜单时间切片；发现 146 个跨渠道重复热点。",
+    "generatedAt": "2026-09-14 23:32:42",
+    "summary": "The case against JPEG XL成为本期综合热度最高的话题，上5休1上5休3上3休7上3休1紧随其后。当前覆盖 33 个有效渠道，共形成 924 个榜单时间切片；发现 146 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 5050,
+        "deduplicated": 5098,
         "resonance": 146,
         "maxRise": 76,
-        "slices": 915,
+        "slices": 924,
         "coverage": 100,
         "samplingCoverage": 85
     },
@@ -566,7 +566,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 265,
+            "weight": 271,
             "tone": "hot",
             "hits": [
                 {
@@ -813,7 +813,7 @@
         },
         {
             "word": "Pro",
-            "weight": 114,
+            "weight": 117,
             "tone": "teal",
             "hits": [
                 {
@@ -1025,6 +1025,14 @@
                     "url": "https://github.com/asgeirtj/system_prompts_leaks"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 17,
+                    "title": "project-nomad",
+                    "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+                },
+                {
                     "channelId": "hackernews",
                     "channelName": "Hacker News",
                     "ranking": "Top Stories",
@@ -1047,14 +1055,6 @@
                     "rank": 8,
                     "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
                     "url": "https://xcancel.com/twitter"
-                },
-                {
-                    "channelId": "huggingface",
-                    "channelName": "Hugging Face",
-                    "ranking": "Trending Models",
-                    "rank": 6,
-                    "title": "nex-agi/Nex-N2.5-Pro",
-                    "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro"
                 }
             ]
         },
@@ -1307,7 +1307,7 @@
         },
         {
             "word": "AL",
-            "weight": 154,
+            "weight": 160,
             "tone": "",
             "hits": [
                 {
@@ -1527,28 +1527,28 @@
                     "url": "https://github.com/Ylianst/MeshCentral"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 9,
+                    "title": "localsend",
+                    "url": "https://github.com/localsend/localsend"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 20,
+                    "title": "social-analyzer",
+                    "url": "https://github.com/qeeqbox/social-analyzer"
+                },
+                {
                     "channelId": "hackernews",
                     "channelName": "Hacker News",
                     "ranking": "Top Stories",
                     "rank": 1,
                     "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
                     "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
-                },
-                {
-                    "channelId": "hackernews",
-                    "channelName": "Hacker News",
-                    "ranking": "Top Stories",
-                    "rank": 4,
-                    "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-                    "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
-                },
-                {
-                    "channelId": "hackernews",
-                    "channelName": "Hacker News",
-                    "ranking": "Top Stories",
-                    "rank": 7,
-                    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-                    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment"
                 }
             ]
         },
@@ -2295,7 +2295,7 @@
         },
         {
             "word": "US",
-            "weight": 117,
+            "weight": 120,
             "tone": "",
             "hits": [
                 {
@@ -2361,6 +2361,30 @@
                     "rank": 8,
                     "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
                     "url": "https://xcancel.com/twitter"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 2,
+                    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+                    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 15,
+                    "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
+                    "url": "https://github.com/Newspicel/sdrminusminus"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 20,
+                    "title": "Texas judge rules TikTok misled users on child safety feature",
+                    "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/"
                 },
                 {
                     "channelId": "huggingface",
@@ -2513,30 +2537,6 @@
                     "rank": 10,
                     "title": "从Muse看AI应用与软件的未来",
                     "url": "http://xueqiu.com/5332385101/408871365"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 3,
-                    "title": "When should I use init and init_app function in steamworks crate?",
-                    "url": "https://stackoverflow.com/questions/80002790/when-should-i-use-init-and-init-app-function-in-steamworks-crate"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 4,
-                    "title": "Is there any legitimate use case for JavaScript encodeURI()?",
-                    "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 6,
-                    "title": "Revised question: Frontend dockerfile, using docker-compose and getting \"Error 404 Not Found - GET https://registry.npmjs.org/@repo%2feslint-config\"",
-                    "url": "https://stackoverflow.com/questions/80002787/revised-question-frontend-dockerfile-using-docker-compose-and-getting-error-4"
                 }
             ]
         },
@@ -2789,7 +2789,7 @@
         },
         {
             "word": "LA",
-            "weight": 153,
+            "weight": 160,
             "tone": "teal",
             "hits": [
                 {
@@ -2889,6 +2889,30 @@
                     "url": "https://github.com/WorldFlowAI/everything-claude-code"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 19,
+                    "title": "opendisplay",
+                    "url": "https://github.com/peetzweg/opendisplay"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 17,
+                    "title": "data-formulator",
+                    "url": "https://github.com/microsoft/data-formulator"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 16,
+                    "title": "lawnchair",
+                    "url": "https://github.com/LawnchairLauncher/lawnchair"
+                },
+                {
                     "channelId": "hackernews",
                     "channelName": "Hacker News",
                     "ranking": "Top Stories",
@@ -2927,6 +2951,38 @@
                     "rank": 13,
                     "title": "Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
                     "url": "https://stemjson.com/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 2,
+                    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+                    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 6,
+                    "title": "Graphic Rants: Nanite Tessellation",
+                    "url": "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 11,
+                    "title": "Understanding FlashAttention Pt 1: Personal Notes",
+                    "url": "https://chizkidd.github.io//2026/09/13/flashattention/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 18,
+                    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+                    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public"
                 },
                 {
                     "channelId": "huggingface",
@@ -2975,62 +3031,6 @@
                     "rank": 41,
                     "title": "一天一个开源项目（第215篇）：Langflow - 可视化拖拽构建 AI 应用的低代码平台",
                     "url": "https://juejin.cn/post/7684463933718773787"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 44,
-                    "title": "两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下",
-                    "url": "https://juejin.cn/post/7684203867400044582"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 50,
-                    "title": "LangGraph 完全指南：从单 Agent 到多 Agent 工作流编排",
-                    "url": "https://juejin.cn/post/7683894943270420518"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 49,
-                    "title": "实测DeepSeek V4.1 Flash：调用费不到1元拿到补丁",
-                    "url": "https://juejin.cn/post/7684203867399634982"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 6,
-                    "title": "Golang developers should try Odin",
-                    "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 17,
-                    "title": "Being lazy in C++",
-                    "url": "https://cpp-rendering.io/being-lazy-in-c/"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 21,
-                    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
-                    "url": "https://codeberg.org/mergiraf/mergiraf"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 22,
-                    "title": "无论多大劣势也不能放弃！快速看完一局韩服王者斗殴局#827 Ady, Clark, Juhan, K",
-                    "url": "https://www.acfun.cn/v/ac48838081"
                 }
             ]
         },
@@ -10424,10 +10424,10 @@
     "flow": {
         "times": [
             "00:20",
-            "07:17",
-            "12:28",
+            "07:18",
+            "12:36",
             "18:22",
-            "23:22"
+            "23:31"
         ],
         "rows": [
             {
