@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-15 02:25:03
+> 更新时间：2026-09-15 03:18:03
 
 ## 热门文章
 
@@ -15,10 +15,10 @@
 9. [代码80%是AI写的，这家AI公司呼吁暂停AI开发](https://juejin.cn/post/7684228650583375878)
 10. [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443)
 11. [vue-split-screen：让 Vue Router 的导航轨迹变成两个页面](https://juejin.cn/post/7683846471340032051)
-12. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
-13. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
-14. [ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍](https://juejin.cn/post/7684657593512263722)
-15. [只备份一个 schema，别把整库都搬走](https://juejin.cn/post/7685224902321848358)
+12. [只备份一个 schema，别把整库都搬走](https://juejin.cn/post/7685224902321848358)
+13. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
+14. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
+15. [ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍](https://juejin.cn/post/7684657593512263722)
 16. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
 17. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
 18. [Deepseek Harness 架构解析和应用](https://juejin.cn/post/7684759404727320627)
@@ -39,16 +39,16 @@
 33. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
 34. [Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI](https://juejin.cn/post/7684507874422751283)
 35. [一天一个开源项目（第215篇）：Langflow - 可视化拖拽构建 AI 应用的低代码平台](https://juejin.cn/post/7684463933718773787)
-36. [别卷 Python 了：我用 Java 21 + Spring Boot 3 打造了一个企业级 RAG + 智能体工作流引擎（附架构与源码解析）](https://juejin.cn/post/7684092309538832390)
-37. [从 BI 到 Agent：我如何用 Java 打造一个轻量级数据库语义网关 DatI](https://juejin.cn/post/7684092309537734662)
-38. [为什么你的页面在 Safari 上总出问题？Interop 2027 正在解决这个 20 年老毛病](https://juejin.cn/post/7684897169736187910)
-39. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
-40. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
-41. [Android 手簿 ADB 无线调试全攻略：USB 转 WiFi 一键连接](https://juejin.cn/post/7684547172776378414)
-42. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
-43. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
-44. [两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下](https://juejin.cn/post/7684203867400044582)
-45. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
+36. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
+37. [别卷 Python 了：我用 Java 21 + Spring Boot 3 打造了一个企业级 RAG + 智能体工作流引擎（附架构与源码解析）](https://juejin.cn/post/7684092309538832390)
+38. [从 BI 到 Agent：我如何用 Java 打造一个轻量级数据库语义网关 DatI](https://juejin.cn/post/7684092309537734662)
+39. [为什么你的页面在 Safari 上总出问题？Interop 2027 正在解决这个 20 年老毛病](https://juejin.cn/post/7684897169736187910)
+40. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
+41. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
+42. [Android 手簿 ADB 无线调试全攻略：USB 转 WiFi 一键连接](https://juejin.cn/post/7684547172776378414)
+43. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
+44. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
+45. [两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下](https://juejin.cn/post/7684203867400044582)
 46. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
 47. [小米版 Codex，干活有点猛啊](https://juejin.cn/post/7684795356321579018)
 48. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)

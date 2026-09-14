@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 02:25:53
+> 更新时间：2026-09-15 03:18:51
 
 ## IT之家
 
-1. [vivo WATCH 6 智能手表亮相：蓝宝石玻璃表镜、钛合金表体，9 月 21 日发布](https://www.ithome.com/1/002/320.htm)
-2. [英伟达：Perplexity 本地智能体 Portable Computer 已向 Windows RTX PC 开放](https://www.ithome.com/1/002/315.htm)
-3. [马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责](https://www.ithome.com/1/002/314.htm)
-4. [当贝 X9 Max 投影仪亮相：支持 4800 CVIA 亮度、米家互联，9 月 16 日开售](https://www.ithome.com/1/002/313.htm)
-5. [16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦](https://www.ithome.com/1/002/311.htm)
+1. [苹果 watchOS 27.0 正式版发布](https://www.ithome.com/1/002/332.htm)
+2. [苹果 visionOS 27.0 正式版发布](https://www.ithome.com/1/002/331.htm)
+3. [苹果 macOS 27.0 正式版发布](https://www.ithome.com/1/002/330.htm)
+4. [苹果 iOS/iPadOS 27.0 正式版发布](https://www.ithome.com/1/002/329.htm)
+5. [vivo WATCH 6 智能手表亮相：蓝宝石玻璃表镜、钛合金表体，9 月 21 日发布](https://www.ithome.com/1/002/320.htm)
 
 ## 少数派
 
