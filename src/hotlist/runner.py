@@ -76,6 +76,13 @@ def due_channel_ids(
     due = []
     for channel_id in channel_ids:
         previous = latest.get(channel_id, {})
+        if previous.get("status") and previous.get("status") != "ok" and not any(
+            ranking.get("items")
+            for ranking in previous.get("rankings", [])
+            if isinstance(ranking, dict)
+        ):
+            due.append(channel_id)
+            continue
         fetched_at = previous.get("fetchedAt", "")
         try:
             fetched = datetime.strptime(fetched_at, "%Y-%m-%d %H:%M:%S")

@@ -22,7 +22,6 @@ DEFAULT_FEEDS = (
     ("InfoQ", "https://www.infoq.cn/feed"),
     ("极客公园", "https://www.geekpark.net/rss"),
     ("MIT Technology Review", "https://www.technologyreview.com/feed/"),
-    ("Hacker News", "https://hnrss.org/frontpage"),
     ("AI News", "https://www.artificialintelligence-news.com/feed/"),
     ("阮一峰网络日志", "https://www.ruanyifeng.com/blog/atom.xml"),
     ("Linux.do", "https://linux.do/top.rss?period=weekly"),

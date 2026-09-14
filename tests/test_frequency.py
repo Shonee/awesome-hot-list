@@ -28,6 +28,24 @@ class FrequencyTests(unittest.TestCase):
             self.assertIn("v2ex", due_channel_ids(["v2ex"], str(path), now=now))
             self.assertTrue(set(SPECIAL_CHANNELS) >= {"github", "v2ex"})
 
+    def test_failed_snapshot_without_rankings_is_due_immediately(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "latest.json"
+            path.write_text(
+                json.dumps({"channels": [{
+                    "channelId": "github",
+                    "fetchedAt": "2026-09-05 04:59:00",
+                    "status": "error",
+                    "rankings": [],
+                }]}),
+                encoding="utf-8",
+            )
+
+            self.assertIn(
+                "github",
+                due_channel_ids(["github"], str(path), now=datetime(2026, 9, 5, 5, 0)),
+            )
+
 
 if __name__ == "__main__":
     unittest.main()

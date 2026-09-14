@@ -3,7 +3,7 @@ from unittest.mock import patch
 
 import requests
 
-from src.hotlist.channels import tophub
+from src.hotlist.channels import dailyhot, tophub
 
 
 TOPHUB_HTML = """
@@ -55,6 +55,46 @@ class TophubRequestPolicyTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "冷却"):
             tophub.fetch_ranking("https://tophub.today/n/two", ("example.com",), min_items=1)
 
+        request.assert_called_once()
+
+
+class DailyHotRequestPolicyTests(unittest.TestCase):
+    def setUp(self):
+        dailyhot.reset_request_state()
+
+    def tearDown(self):
+        dailyhot.reset_request_state()
+
+    @patch("src.hotlist.channels.dailyhot.time.sleep")
+    @patch("src.hotlist.channels.dailyhot.time.monotonic", side_effect=[10.0, 11.0, 16.0])
+    @patch("src.hotlist.channels.dailyhot.get", side_effect=[{"data": [1]}, {"data": [2]}])
+    def test_different_endpoints_are_throttled(self, request, _clock, sleep):
+        dailyhot.fetch_payload("https://api-hot.imsyy.top/one")
+        dailyhot.fetch_payload("https://api-hot.imsyy.top/two")
+
+        self.assertEqual(request.call_count, 2)
+        sleep.assert_called_once_with(4.0)
+
+    @patch("src.hotlist.channels.dailyhot.time.monotonic", return_value=20.0)
+    @patch("src.hotlist.channels.dailyhot.get", return_value={"data": [1]})
+    def test_same_endpoint_is_cached(self, request, _clock):
+        self.assertEqual(
+            dailyhot.fetch_payload("https://api-hot.imsyy.top/one"),
+            dailyhot.fetch_payload("https://api-hot.imsyy.top/one"),
+        )
+        request.assert_called_once()
+
+    @patch("src.hotlist.channels.dailyhot.time.monotonic", side_effect=[10.0, 11.0])
+    @patch("src.hotlist.channels.dailyhot.get")
+    def test_rate_limit_opens_cooldown(self, request, _clock):
+        response = requests.Response()
+        response.status_code = 429
+        request.side_effect = requests.HTTPError("rate limited", response=response)
+
+        with self.assertRaisesRegex(RuntimeError, "冷却"):
+            dailyhot.fetch_payload("https://api-hot.imsyy.top/one")
+        with self.assertRaisesRegex(RuntimeError, "冷却"):
+            dailyhot.fetch_payload("https://api-hot.imsyy.top/two")
         request.assert_called_once()
 
 

@@ -151,6 +151,13 @@ class WorkflowContractTests(unittest.TestCase):
             with self.subTest(workflow=filename):
                 self.assertIn("HOTLIST_TOPHUB_MIN_INTERVAL_SECONDS:", content)
 
+    def test_collection_workflows_expose_dailyhot_rate_limit(self):
+        workflow_root = Path(".github/workflows")
+        for filename in ("collect-hourly.yml", "collect-special.yml"):
+            content = (workflow_root / filename).read_text(encoding="utf-8")
+            with self.subTest(workflow=filename):
+                self.assertIn("HOTLIST_DAILYHOT_MIN_INTERVAL_SECONDS:", content)
+
     def test_bootstrap_workflow_exists(self):
         content = Path(".github/workflows/bootstrap-data-pages.yml").read_text(encoding="utf-8")
         self.assertIn("git switch --orphan data-pages", content)

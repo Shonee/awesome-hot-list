@@ -28,16 +28,27 @@ class ChannelDefinition:
 CHANNEL_ORDER = (
     "bilibili",
     "douyin",
+    "kuaishou",
     "weibo",
     "zhihu",
+    "baidu",
     "github",
+    "hackernews",
+    "huggingface",
+    "googletrends",
     "juejin",
+    "lobsters",
     "toutiao",
+    "qqnews",
+    "netease",
+    "sina",
+    "thepaper",
     "acfun",
     "douban",
     "hupu",
     "36kr",
     "tonghuashun",
+    "eastmoney",
     "maimai",
     "xueqiu",
     "v2ex",
@@ -46,7 +57,6 @@ CHANNEL_ORDER = (
     "cnblogs",
     "nodeseek",
     "pojie52",
-    "qqnews",
     "wechat",
     "tieba",
     "fuliba",
@@ -61,6 +71,11 @@ RETIRED_CHANNEL_IDS = ("linuxdo", "ithome")
 # of a full hourly request.
 CHANNEL_FREQUENCIES = {
     "github": 360,
+    "googletrends": 360,
+    "huggingface": 360,
+    "kuaishou": 180,
+    "eastmoney": 180,
+    "hackernews": 120,
     "xueqiu": 360,
     "maimai": 360,
     "v2ex": 180,
@@ -79,7 +94,9 @@ def _lazy(channel_id: str) -> Collector:
 _METADATA = {
     "weibo": ("微博", "WB", "#e6162d", "https://s.weibo.com/top/summary", True, ()),
     "douyin": ("抖音", "DY", "#161823", "https://www.douyin.com/hot", True, ()),
+    "kuaishou": ("快手", "KS", "#ff5000", "https://www.kuaishou.com/?isHome=1&cc=CN", False, ()),
     "zhihu": ("知乎", "ZH", "#1772f6", "https://www.zhihu.com/hot", True, ()),
+    "baidu": ("百度热搜", "百", "#315efb", "https://top.baidu.com/board?tab=realtime", True, ()),
     "bilibili": ("哔哩哔哩", "BILI", "#fb7299", "https://www.bilibili.com/v/popular/all", True, ()),
     "toutiao": ("今日头条", "TT", "#f04142", "https://www.toutiao.com/hot-event/hot-board/", True, ()),
     "cls": ("财联社", "财", "#c72b2b", "https://www.cls.cn/telegraph", True, ()),
@@ -87,11 +104,19 @@ _METADATA = {
     "pojie52": ("吾爱破解", "吾", "#c44c42", "https://www.52pojie.cn/forum.php?mod=guide&view=hot", True, ()),
     "acfun": ("AcFun", "AC", "#fd4c5d", "https://www.acfun.cn/rank/list/", True, ()),
     "tonghuashun": ("同花顺", "THS", "#e83b35", "https://t.10jqka.com.cn/", True, ()),
+    "eastmoney": ("东方财富", "东", "#f04444", "https://guba.eastmoney.com/rank/", True, ()),
     "github": ("GitHub", "GH", "#24292f", "https://github.com/trending", True, ()),
+    "hackernews": ("Hacker News", "HN", "#ff6600", "https://news.ycombinator.com/", True, ()),
+    "huggingface": ("Hugging Face", "HF", "#e0a000", "https://huggingface.co/models?sort=trending", False, ()),
+    "googletrends": ("Google Trends", "G", "#4285f4", "https://trends.google.com/trending?geo=HK", False, ()),
     "juejin": ("掘金", "掘", "#1e80ff", "https://juejin.cn/hot/articles", True, ()),
+    "lobsters": ("Lobsters", "L", "#ac130d", "https://lobste.rs/", True, ()),
     "douban": ("豆瓣", "DB", "#00a65a", "https://movie.douban.com/chart", True, ()),
     "hupu": ("虎扑", "HP", "#b31b1b", "https://bbs.hupu.com/all-gambia", True, ()),
     "qqnews": ("腾讯新闻", "腾", "#1769aa", "https://news.qq.com/", True, ()),
+    "netease": ("网易新闻", "网", "#d22128", "https://news.163.com/", True, ()),
+    "sina": ("新浪", "新", "#e6162d", "https://news.sina.com.cn/", True, ()),
+    "thepaper": ("澎湃新闻", "澎", "#b5121b", "https://www.thepaper.cn/", True, ()),
     "wechat": ("微信文章", "微", "#07c160", "https://tophub.today/n/WnBe01o371", True, ()),
     "maimai": ("脉脉", "MM", "#00a6a6", "https://maimai.cn/web/gossip_list", False, ("MAIMAI_COOKIE",)),
     "xueqiu": ("雪球", "XQ", "#1f6fb2", "https://xueqiu.com/today", True, ()),
@@ -105,8 +130,8 @@ _METADATA = {
 }
 
 
-_HIDDEN_BY_DEFAULT = {"maimai", "fuliba"}
-_EXCLUDED_FROM_REPORT = {"maimai", "fuliba"}
+_HIDDEN_BY_DEFAULT = {"maimai", "fuliba", "kuaishou", "huggingface", "googletrends"}
+_EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "kuaishou", "huggingface", "googletrends"}
 
 
 CHANNELS: Dict[str, ChannelDefinition] = {

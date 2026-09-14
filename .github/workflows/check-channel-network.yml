@@ -36,3 +36,10 @@ jobs:
             echo
             echo "失败只表示 GitHub runner 当前不可达，不自动启用 Playwright。"
           } >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload probe log
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: channel-network-check
+          path: channel-network-check.txt
+          if-no-files-found: error
