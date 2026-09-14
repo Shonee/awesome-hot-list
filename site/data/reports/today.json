@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14 18:24:11",
-    "summary": "The case against JPEG XL成为本期综合热度最高的话题，上5休1上5休3上3休7上3休1紧随其后。当前覆盖 33 个有效渠道，共形成 716 个榜单时间切片；发现 108 个跨渠道重复热点。",
+    "generatedAt": "2026-09-14 18:31:18",
+    "summary": "The case against JPEG XL成为本期综合热度最高的话题，上5休1上5休3上3休7上3休1紧随其后。当前覆盖 33 个有效渠道，共形成 719 个榜单时间切片；发现 108 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 4034,
+        "deduplicated": 4074,
         "resonance": 108,
         "maxRise": 67,
-        "slices": 716,
+        "slices": 719,
         "coverage": 100,
         "samplingCoverage": 82
     },
@@ -143,6 +143,37 @@
                     "rank": 6,
                     "title": "上5休1上5休3上3休7上3休1",
                     "url": "https://www.toutiao.com/trending/7684573230690140179/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684573230690140179%22%2C%22hot_board_impr_id%22%3A%222026091418223133C97B1DD5193930F99F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%8A5%E4%BC%911%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917%E4%B8%8A3%E4%BC%911%22%7D&rank=&style_id=40132&topic_id=7684573230690140179"
+                }
+            ]
+        },
+        {
+            "title": "国务院对青岛船厂火灾提级调查",
+            "source": "跨渠道",
+            "url": "https://www.douyin.com/search/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%88%B9%E5%8E%82%E7%81%AB%E7%81%BE%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5",
+            "hits": [
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 5,
+                    "title": "国务院对青岛船厂火灾提级调查",
+                    "url": "https://www.douyin.com/search/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%88%B9%E5%8E%82%E7%81%AB%E7%81%BE%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 2,
+                    "title": "国务院对青岛船厂火灾提级调查",
+                    "url": "https://www.kuaishou.com/short-video/3xst75a5xwcqvdi"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 4,
+                    "title": "国务院提级调查青岛船厂火灾",
+                    "url": "https://www.toutiao.com/trending/7685325902787382838/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685325902787382838%22%2C%22hot_board_impr_id%22%3A%222026091418223133C97B1DD5193930F99F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5%E9%9D%92%E5%B2%9B%E8%88%B9%E5%8E%82%E7%81%AB%E7%81%BE%22%7D&rank=&style_id=40132&topic_id=7685325902787382838"
                 }
             ]
         },
@@ -336,6 +367,77 @@
             ]
         },
         {
+            "title": "网红暴躁的小张姥姥去世",
+            "source": "跨渠道",
+            "url": "https://www.kuaishou.com/short-video/3xy5ds434t7e66k",
+            "hits": [
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 5,
+                    "title": "网红暴躁的小张姥姥去世",
+                    "url": "https://www.kuaishou.com/short-video/3xy5ds434t7e66k"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 8,
+                    "title": "网红暴躁的小张姥姥去世",
+                    "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96&Refer=index"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 6,
+                    "title": "网红“暴躁的小张”姥姥去世",
+                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%2220260914144605917FACF01E80D41C755D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 4,
+                    "title": "网红“暴躁的小张”姥姥去世",
+                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%22202609141531558E8BFB4A4FF45AF98253%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "网红“暴躁的小张”姥姥去世",
+                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%22202609141633082462D800FD3941269A48%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 18,
+                    "title": "网红“暴躁的小张”姥姥去世",
+                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%2220260914173001F2D2CEE7F987795F6717%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 36,
+                    "title": "网红“暴躁的小张”姥姥去世",
+                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%222026091418223133C97B1DD5193930F99F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 24,
+                    "title": "网红“暴躁的小张”姥姥离世",
+                    "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
+                }
+            ]
+        },
+        {
             "title": "成都一越野车高架上坠落致1死1伤，警方通报",
             "source": "跨渠道",
             "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E8%B6%8A%E9%87%8E%E8%BD%A6%E9%AB%98%E6%9E%B6%E4%B8%8A%E5%9D%A0%E8%90%BD%E8%87%B41%E6%AD%BB1%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
@@ -403,77 +505,6 @@
                     "rank": 6,
                     "title": "成都一越野车高架上坠落致1死1伤，警方通报",
                     "url": "https://news.sina.com.cn/c/2026-09-14/doc-inirtwik4090283.shtml"
-                }
-            ]
-        },
-        {
-            "title": "网红“暴躁的小张”姥姥去世",
-            "source": "跨渠道",
-            "url": "https://www.kuaishou.com/short-video/3xy5ds434t7e66k",
-            "hits": [
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 5,
-                    "title": "网红暴躁的小张姥姥去世",
-                    "url": "https://www.kuaishou.com/short-video/3xy5ds434t7e66k"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 8,
-                    "title": "网红暴躁的小张姥姥去世",
-                    "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96&Refer=index"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 6,
-                    "title": "网红“暴躁的小张”姥姥去世",
-                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%2220260914144605917FACF01E80D41C755D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 4,
-                    "title": "网红“暴躁的小张”姥姥去世",
-                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%22202609141531558E8BFB4A4FF45AF98253%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 7,
-                    "title": "网红“暴躁的小张”姥姥去世",
-                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%22202609141633082462D800FD3941269A48%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "网红“暴躁的小张”姥姥去世",
-                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%2220260914173001F2D2CEE7F987795F6717%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 36,
-                    "title": "网红“暴躁的小张”姥姥去世",
-                    "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%222026091418223133C97B1DD5193930F99F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 24,
-                    "title": "网红“暴躁的小张”姥姥离世",
-                    "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
                 }
             ]
         },
@@ -618,43 +649,12 @@
                     "url": "https://www.zhihu.com/search?q=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B39%E6%9C%8816%E6%97%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%88%AA"
                 }
             ]
-        },
-        {
-            "title": "多车队宣布永久退出China GT",
-            "source": "跨渠道",
-            "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363909&topic_name=%E4%B8%A2%E4%BA%BA%21%E5%A4%9A%E8%BD%A6%E9%98%9F%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChinaGT",
-            "hits": [
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 15,
-                    "title": "丢人!多车队永久退出ChinaGT",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363909&topic_name=%E4%B8%A2%E4%BA%BA%21%E5%A4%9A%E8%BD%A6%E9%98%9F%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChinaGT"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 5,
-                    "title": "多车队宣布永久退出China GT",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChina%20GT"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 15,
-                    "title": "多车队宣布永久退出China GT",
-                    "url": "https://www.douyin.com/search/%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChina%20GT"
-                }
-            ]
         }
     ],
     "words": [
         {
             "word": "AI",
-            "weight": 237,
+            "weight": 238,
             "tone": "hot",
             "hits": [
                 {
@@ -901,7 +901,7 @@
         },
         {
             "word": "ai",
-            "weight": 237,
+            "weight": 238,
             "tone": "teal",
             "hits": [
                 {
@@ -1642,7 +1642,7 @@
         },
         {
             "word": "AL",
-            "weight": 129,
+            "weight": 131,
             "tone": "hot",
             "hits": [
                 {
@@ -1889,7 +1889,7 @@
         },
         {
             "word": "Pro",
-            "weight": 83,
+            "weight": 84,
             "tone": "teal",
             "hits": [
                 {
@@ -2061,6 +2061,14 @@
                     "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
                 },
                 {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 10,
+                    "title": "An atlas of periodic solutions to the three-body problem",
+                    "url": "https://www.threebodyorbits.com/"
+                },
+                {
                     "channelId": "huggingface",
                     "channelName": "Hugging Face",
                     "ranking": "Trending Models",
@@ -2123,14 +2131,6 @@
                     "rank": 27,
                     "title": "iPhone Duo 和 18 Pro 毁誉参半？所有人都忽略了这些细节",
                     "url": "https://www.36kr.com/p/3982673086675712"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 30,
-                    "title": "DeepSeek V4.1 Flash用了哪些黑科技？竟让Flash（差点）逼退Pro",
-                    "url": "https://www.36kr.com/p/3980013761182466"
                 }
             ]
         },
@@ -3618,7 +3618,7 @@
         },
         {
             "word": "LA",
-            "weight": 129,
+            "weight": 130,
             "tone": "hot",
             "hits": [
                 {
@@ -3724,6 +3724,14 @@
                     "rank": 3,
                     "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
                     "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 10,
+                    "title": "An atlas of periodic solutions to the three-body problem",
+                    "url": "https://www.threebodyorbits.com/"
                 },
                 {
                     "channelId": "huggingface",
@@ -3852,14 +3860,6 @@
                     "rank": 45,
                     "title": "AI这只手Palantir造了二十年",
                     "url": "https://www.36kr.com/p/3982518448339971"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 30,
-                    "title": "DeepSeek V4.1 Flash用了哪些黑科技？竟让Flash（差点）逼退Pro",
-                    "url": "https://www.36kr.com/p/3980013761182466"
                 }
             ]
         },
@@ -5322,9 +5322,256 @@
             ]
         },
         {
+            "word": "日本",
+            "weight": 35,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 27,
+                    "title": "【STN快报第8.5季20】日本做马桶圈很行，做马桶是真不行",
+                    "url": "https://b23.tv/BV1aZYe6TEcE"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 48,
+                    "title": "日本梅毒大爆发 艾呀 梅事哒！",
+                    "url": "https://b23.tv/BV1GUYD6EEtS"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 30,
+                    "title": "日本滨冈核电站数据造假",
+                    "url": "https://www.kuaishou.com/short-video/3xi46578i4yqqcm"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 20,
+                    "title": "日本亏本也要卖给中国图什么",
+                    "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%8F%E6%9C%AC%E4%B9%9F%E8%A6%81%E5%8D%96%E7%BB%99%E4%B8%AD%E5%9B%BD%E5%9B%BE%E4%BB%80%E4%B9%88&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 23,
+                    "title": "网友爆国内某日本药企在918开年会",
+                    "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%88%86%E5%9B%BD%E5%86%85%E6%9F%90%E6%97%A5%E6%9C%AC%E8%8D%AF%E4%BC%81%E5%9C%A8918%E5%BC%80%E5%B9%B4%E4%BC%9A&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 13,
+                    "title": "2026 年 WTT 澳门冠军赛，中国选手陈熠 3-4 日本选手张本美和，如何评价这场比赛？",
+                    "url": "https://www.zhihu.com/question/2082540197502088106"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 23,
+                    "title": "中方 9 月 14 日起上调日本公民赴华签证规费，外交部称依据对等原则安排，哪些信息值得关注？",
+                    "url": "https://www.zhihu.com/question/2081779888046995214"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 14,
+                    "title": "俄方给台湾人士放日本战败影片",
+                    "url": "https://www.toutiao.com/trending/7684204830839079450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684204830839079450%22%2C%22hot_board_impr_id%22%3A%222026091400204253F6D0FDE981B8E9B5A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E6%96%B9%E7%BB%99%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%A3%AB%E6%94%BE%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E5%BD%B1%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7684204830839079450"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 13,
+                    "title": "俄方给台湾人士放日本战败影片",
+                    "url": "https://www.toutiao.com/trending/7684204830839079450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684204830839079450%22%2C%22hot_board_impr_id%22%3A%222026091401162504ED4B65BDEE9BAF9CBB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E6%96%B9%E7%BB%99%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%A3%AB%E6%94%BE%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E5%BD%B1%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7684204830839079450"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 14,
+                    "title": "俄方给台湾人士放日本战败影片",
+                    "url": "https://www.toutiao.com/trending/7684204830839079450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684204830839079450%22%2C%22hot_board_impr_id%22%3A%2220260914022313173EBBE0C018EA4B7193%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E6%96%B9%E7%BB%99%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%A3%AB%E6%94%BE%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E5%BD%B1%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7684204830839079450"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 23,
+                    "title": "俄方给台湾人士放日本战败影片",
+                    "url": "https://www.toutiao.com/trending/7684204830839079450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684204830839079450%22%2C%22hot_board_impr_id%22%3A%222026091403150860F01B04AD8ABBB39067%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E6%96%B9%E7%BB%99%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%A3%AB%E6%94%BE%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E5%BD%B1%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7684204830839079450"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 20,
+                    "title": "俄方给台湾人士放日本战败影片",
+                    "url": "https://www.toutiao.com/trending/7684204830839079450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684204830839079450%22%2C%22hot_board_impr_id%22%3A%2220260914042005F81E20F64C9B024B3AE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E6%96%B9%E7%BB%99%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%A3%AB%E6%94%BE%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E5%BD%B1%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7684204830839079450"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 20,
+                    "title": "俄方给台湾人士放日本战败影片",
+                    "url": "https://www.toutiao.com/trending/7684204830839079450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684204830839079450%22%2C%22hot_board_impr_id%22%3A%222026091405173597976EAAB789829F49D6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E6%96%B9%E7%BB%99%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%A3%AB%E6%94%BE%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E5%BD%B1%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7684204830839079450"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 24,
+                    "title": "俄方给台湾人士放日本战败影片",
+                    "url": "https://www.toutiao.com/trending/7684204830839079450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684204830839079450%22%2C%22hot_board_impr_id%22%3A%2220260914061845D5A2DCEC1CD5926AF0F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E6%96%B9%E7%BB%99%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%A3%AB%E6%94%BE%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E5%BD%B1%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7684204830839079450"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 28,
+                    "title": "俄方给台湾人士放日本战败影片",
+                    "url": "https://www.toutiao.com/trending/7684204830839079450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684204830839079450%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E6%96%B9%E7%BB%99%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%A3%AB%E6%94%BE%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E5%BD%B1%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7684204830839079450"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 50,
+                    "title": "台湾近代化不是始于日本殖民",
+                    "url": "https://www.toutiao.com/trending/7685172515811524651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685172515811524651%22%2C%22hot_board_impr_id%22%3A%2220260914093652F6C826FF24052A45CE26%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%B9%BE%E8%BF%91%E4%BB%A3%E5%8C%96%E4%B8%8D%E6%98%AF%E5%A7%8B%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%AE%96%E6%B0%91%22%7D&rank=&style_id=40132&topic_id=7685172515811524651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 23,
+                    "title": "台湾近代化不是始于日本殖民",
+                    "url": "https://www.toutiao.com/trending/7685172515811524651/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685172515811524651%22%2C%22hot_board_impr_id%22%3A%222026091410333798F3A9A59A67EDEB03F9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%B9%BE%E8%BF%91%E4%BB%A3%E5%8C%96%E4%B8%8D%E6%98%AF%E5%A7%8B%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%AE%96%E6%B0%91%22%7D&rank=&style_id=40132&topic_id=7685172515811524651"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 46,
+                    "title": "日本东京一工厂发生爆炸3人受伤",
+                    "url": "https://www.toutiao.com/trending/7685198933437759529/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685198933437759529%22%2C%22hot_board_impr_id%22%3A%2220260914112809EF7C3A512617ABF91889%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E4%B8%80%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B83%E4%BA%BA%E5%8F%97%E4%BC%A4%22%7D&rank=&style_id=40132&topic_id=7685198933437759529"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 25,
+                    "title": "除了琉球，这张牌同样能直击日本七寸！",
+                    "url": "https://m.163.com/news/article/L6MOE8OS0556P8TS.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 31,
+                    "title": "日本知名艺人网上直接开骂，民众：东京好恐怖！",
+                    "url": "https://m.163.com/news/article/L6PDKK2B05188C7T.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 9,
+                    "title": "媒体：日本冲绳县知事换人 高市早苗被指捞到救命稻草",
+                    "url": "https://m.163.com/news/article/L6PPB8TI0550A0OW.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 5,
+                    "title": "冲绳被指\"变天\" 日本自民党12年后重新掌控冲绳县政府",
+                    "url": "https://m.163.com/news/article/L6Q8N5JQ0001899O.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 15,
+                    "title": "日本遭两枚原子弹轰炸之后，认定美国拿不出第三枚核弹，不料美国随后实施的行动，击碎日本的幻想让其彻底安分下来",
+                    "url": "https://m.163.com/news/article/L6Q780DV0552OWBV.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 25,
+                    "title": "58岁陈法蓉真抗老，日本旅游穿白T+牛仔裤+红色外套，美回28岁！",
+                    "url": "https://m.163.com/news/article/L6Q5AHTB05188021.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 28,
+                    "title": "官方：国足14日启程飞赴日本；吾米提江、李镇全伤缺，李新翔入替",
+                    "url": "https://m.163.com/news/article/L6Q53PHB0549BAP0.html"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 13,
+                    "title": "联大鼓励推广新版世界地图，为何日本急了？",
+                    "url": "https://mil.news.sina.com.cn/2026-09-14/doc-inirtwie9751454.shtml"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 17,
+                    "title": "日本自民党支持的候选人当选冲绳县知事",
+                    "url": "https://news.sina.com.cn/o/2026-09-14/doc-inirtwin4907340.shtml"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 48,
+                    "title": "顺为凡，逆为仙：日本诺奖得主的『返老还童』试验，有人正在突破寿命极限，活到1000岁…",
+                    "url": "https://www.acfun.cn/v/ac48846354"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 16,
+                    "title": "欧美男游客来中国旅游，吐槽中国人没日本人礼貌，不会对他低头哈腰，一口一个“私密马赛”",
+                    "url": "https://bbs.hupu.com/642401297.html"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 4,
+                    "title": "这是去年9月小林鹰之、茂木敏充、林芳正、高市早苗和小泉进次郎(从左至右)参加自民党总裁选举辩论会时的照片。新华社发日本首相高市早苗计划实施内阁改组和自民党高层人事调整,最早将在9月1 ...",
+                    "url": "http://news.10jqka.com.cn/20260914/c679854701.shtml"
+                }
+            ]
+        },
+        {
             "word": "HYROX",
             "weight": 31,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5571,7 +5818,7 @@
         {
             "word": "iPhone",
             "weight": 45,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5818,7 +6065,7 @@
         {
             "word": "模型",
             "weight": 29,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -6065,7 +6312,7 @@
         {
             "word": "汽车",
             "weight": 29,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6310,9 +6557,256 @@
             ]
         },
         {
+            "word": "金砖",
+            "weight": 27,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 14,
+                    "title": "一部手机看金砖国家合作前景",
+                    "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA%E7%9C%8B%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%90%88%E4%BD%9C%E5%89%8D%E6%99%AF"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 1,
+                    "title": "习近平引领大金砖合作开启新篇章",
+                    "url": "https://www.kuaishou.com/short-video/3x6tbdwb7u3axim"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 3,
+                    "title": "寻找金砖温度的答案",
+                    "url": "https://s.weibo.com/weibo?q=%E5%AF%BB%E6%89%BE%E9%87%91%E7%A0%96%E6%B8%A9%E5%BA%A6%E7%9A%84%E7%AD%94%E6%A1%88&Refer=index"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 1,
+                    "title": "“大金砖”如何实现大发展",
+                    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%87%91%E7%A0%96%E2%80%9D%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%A4%A7%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091400204253F6D0FDE981B8E9B5A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091401162504ED4B65BDEE9BAF9CBB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914022313173EBBE0C018EA4B7193%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091403150860F01B04AD8ABBB39067%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914042005F81E20F64C9B024B3AE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091405173597976EAAB789829F49D6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914061845D5A2DCEC1CD5926AF0F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 21,
+                    "title": "金砖国家领导人集体合影",
+                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914090041A8ECDC377E0F51EF3958%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 44,
+                    "title": "金砖财长层级联合声明释放何信号",
+                    "url": "https://www.toutiao.com/trending/7685270666467085834/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685270666467085834%22%2C%22hot_board_impr_id%22%3A%22202609141633082462D800FD3941269A48%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E8%B4%A2%E9%95%BF%E5%B1%82%E7%BA%A7%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E9%87%8A%E6%94%BE%E4%BD%95%E4%BF%A1%E5%8F%B7%22%7D&rank=&style_id=40132&topic_id=7685270666467085834"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 43,
+                    "title": "金砖财长层级联合声明释放何信号",
+                    "url": "https://www.toutiao.com/trending/7685270666467085834/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685270666467085834%22%2C%22hot_board_impr_id%22%3A%2220260914173001F2D2CEE7F987795F6717%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E8%B4%A2%E9%95%BF%E5%B1%82%E7%BA%A7%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E9%87%8A%E6%94%BE%E4%BD%95%E4%BF%A1%E5%8F%B7%22%7D&rank=&style_id=40132&topic_id=7685270666467085834"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "时政微观察丨“大金砖”，大有可为",
+                    "url": "https://view.inews.qq.com/a/20260913A093Q900"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "第一观察 | 习近平主席指引“大金砖”筑牢务实合作根基",
+                    "url": "https://view.inews.qq.com/a/20260914A00PL000"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 11,
+                    "title": "金砖峰会结束，中方专机回京，走前莫迪对华作出承诺，信号不寻常",
+                    "url": "https://m.163.com/news/article/L6PF5CEH05568PEW.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 26,
+                    "title": "金砖峰会结束，中方专机回京，走前莫迪对华作出承诺，信号不寻常",
+                    "url": "https://m.163.com/news/article/L6PEQA6D0556DYV8.html"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 7,
+                    "title": "独家视频丨金砖国家领导人参观金砖成立20周年图片展、共同植树并集体合影",
+                    "url": "https://news.sina.com.cn/c/xl/2026-09-13/doc-inirsuvw4483895.shtml"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 13,
+                    "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+                    "url": "https://news.sina.com.cn/c/xl/2026-09-13/doc-inirsuvw4476750.shtml"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 18,
+                    "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
+                    "url": "https://news.sina.com.cn/c/xl/2026-09-13/doc-inirszcw5299695.shtml"
+                },
+                {
+                    "channelId": "thepaper",
+                    "channelName": "澎湃新闻",
+                    "ranking": "热新闻",
+                    "rank": 18,
+                    "title": "王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+                    "url": "https://www.thepaper.cn/newsDetail_forward_34062704"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 13,
+                    "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
+                    "url": "http://news.10jqka.com.cn/20260913/c679853841.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 14,
+                    "title": "新华社北京9月13日电9月13日晚，国家主席习近平圆满结束出席金砖国家领导人第十八次会晤回到北京。 ...",
+                    "url": "http://news.10jqka.com.cn/20260913/c679853841.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 2,
+                    "title": "1、习近平结束出席金砖国家领导人第十八次会晤回到北京(99) ...",
+                    "url": "http://news.10jqka.com.cn/20260914/c679854611.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 3,
+                    "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+                    "url": "http://news.10jqka.com.cn/20260914/c679854799.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 4,
+                    "title": "新华社新德里9月13日电当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基壮大全球南方力量》的重要讲话。习近平指出 ...",
+                    "url": "http://news.10jqka.com.cn/20260914/c679854799.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 5,
+                    "title": "习近平出席金砖国家领导人第十八次会晤 第二阶段会议并发表重要讲话",
+                    "url": "http://news.10jqka.com.cn/20260914/c679854907.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 6,
+                    "title": "● 新华社新德里9月13日电(记者李忠发韩墨)当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基壮大全球南方力量》的 ...",
+                    "url": "http://news.10jqka.com.cn/20260914/c679854907.shtml"
+                }
+            ]
+        },
+        {
             "word": "Duo",
             "weight": 23,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -6527,7 +7021,7 @@
         {
             "word": "失禁",
             "weight": 17,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6692,256 +7186,9 @@
             ]
         },
         {
-            "word": "市场",
-            "weight": 66,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 13,
-                    "title": "全球市场迎“超级央行周”",
-                    "url": "https://www.douyin.com/search/%E5%85%A8%E7%90%83%E5%B8%82%E5%9C%BA%E8%BF%8E%E2%80%9C%E8%B6%85%E7%BA%A7%E5%A4%AE%E8%A1%8C%E5%91%A8%E2%80%9D"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 21,
-                    "title": "网友爆料付航脱口秀 1300 张门票有一千张黄牛票，检票时强实名导致 80% 观众进不了，反映了哪些市场乱象？",
-                    "url": "https://www.zhihu.com/question/2082137769556628252"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 15,
-                    "title": "AI 能否真正发现市场尚未定价的信息，还是本质上只能更高效地总结已经公开的信息？",
-                    "url": "https://www.zhihu.com/question/2078817272072594673"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 39,
-                    "title": "券商：市场企稳反弹会在未来数周出现",
-                    "url": "https://www.toutiao.com/trending/7684818632165048366/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684818632165048366%22%2C%22hot_board_impr_id%22%3A%2220260914090041A8ECDC377E0F51EF3958%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%B8%E5%95%86%EF%BC%9A%E5%B8%82%E5%9C%BA%E4%BC%81%E7%A8%B3%E5%8F%8D%E5%BC%B9%E4%BC%9A%E5%9C%A8%E6%9C%AA%E6%9D%A5%E6%95%B0%E5%91%A8%E5%87%BA%E7%8E%B0%22%7D&rank=&style_id=40132&topic_id=7684818632165048366"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 42,
-                    "title": "券商：市场企稳反弹会在未来数周出现",
-                    "url": "https://www.toutiao.com/trending/7684818632165048366/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684818632165048366%22%2C%22hot_board_impr_id%22%3A%2220260914093652F6C826FF24052A45CE26%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%B8%E5%95%86%EF%BC%9A%E5%B8%82%E5%9C%BA%E4%BC%81%E7%A8%B3%E5%8F%8D%E5%BC%B9%E4%BC%9A%E5%9C%A8%E6%9C%AA%E6%9D%A5%E6%95%B0%E5%91%A8%E5%87%BA%E7%8E%B0%22%7D&rank=&style_id=40132&topic_id=7684818632165048366"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 37,
-                    "title": "中端手机会从市场上消失吗",
-                    "url": "https://www.toutiao.com/trending/7685247909733862954/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685247909733862954%22%2C%22hot_board_impr_id%22%3A%22202609141531558E8BFB4A4FF45AF98253%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%AB%AF%E6%89%8B%E6%9C%BA%E4%BC%9A%E4%BB%8E%E5%B8%82%E5%9C%BA%E4%B8%8A%E6%B6%88%E5%A4%B1%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7685247909733862954"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 4,
-                    "title": "古尔曼：苹果iPhone Duo助推下，折叠手机10年内将成为市场领先形态",
-                    "url": "https://m.163.com/news/article/L6PGR58405567I2C.html"
-                },
-                {
-                    "channelId": "thepaper",
-                    "channelName": "澎湃新闻",
-                    "ranking": "热新闻",
-                    "rank": 14,
-                    "title": "财晓得｜一年花掉3126亿！猫猫狗狗这碗饭，市场有多大？",
-                    "url": "https://www.thepaper.cn/newsDetail_forward_34037867"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 54,
-                    "title": "浙江商K团灭，大批量适龄女性将回归相亲市场",
-                    "url": "https://bbs.hupu.com/642414864.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 13,
-                    "title": "中国的汽车市场已经进入寒冬，销量重度暴跌20%多，电车油车一起暴跌，大家为什么不买车了",
-                    "url": "https://bbs.hupu.com/642416764.html"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 4,
-                    "title": "企业供图近日，蒙牛集团控股的特殊医学营养专业品牌“特一亿诺”宣布，其自主研发的特殊医学用途氨基酸配方食品“宁敏瑞\" ”与特殊医学用途谷氨酰胺组件配方食品“萱康安\" ”获得国家市场监 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679854459.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 22,
-                    "title": "【导读】首家2万亿元规模代销巨头诞生！上半年基金保有规模百强榜揭晓，招行指数基金暴增66%今年上半年，A股市场迎来一波轰轰烈烈的科技股大牛市，各大基金代销巨头在此轮结构性牛市中交出 ...",
-                    "url": "http://news.10jqka.com.cn/20260913/c679853470.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 31,
-                    "title": "水晶光电与Lumus合作拓展AR反射光波导市场",
-                    "url": "http://news.10jqka.com.cn/20260913/c679853053.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 43,
-                    "title": "CFA协会发布《2026中国金融人才市场洞察白皮书》",
-                    "url": "http://news.10jqka.com.cn/20260913/c679852520.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 44,
-                    "title": "本报讯(记者冷翠华)9月12日，全球投资专业人士机构特许金融分析师协会(CFA协会)在深圳举办第六届中国金融人才峰会。峰会期间，CFA协会发布《2026中国金融人才市场 ...",
-                    "url": "http://news.10jqka.com.cn/20260913/c679852520.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "陈书玉/制表图片来源:AI生成证券时报基金研究院陈书玉低利率环境下存款持续搬家，叠加权益市场回暖，“固收+”正迎来第三轮扩张浪潮。头部基金公司凭借完善的产品线布局、高波类产品的业绩 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679854802.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 8,
-                    "title": "□ 孟亚生近日，山东菏泽一家烧烤店被迫停业的事件引发热议。短短两个月内，这家小店接连迎来市场监管、综合执法、消防等5个部门共计15次检查，单日最多3个部门同步上门，单次检查人员多达2 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679854877.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 1,
-                    "title": "2026年服贸会达成7类共1200余项成果 商务部：稳妥有序推进服务市场开放",
-                    "url": "http://news.10jqka.com.cn/20260914/c679855006.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "秋意渐浓，愿你的努力如这丰收的季节，硕果累累，不负晨光。早安，朋友们！今天，让我们关注一下黄金市除刚刚过去的一周，黄金市场在通胀数据与美联储加息预期的反复拉扯中剧烈震荡，周线最 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679855609.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 4,
-                    "title": "01上周(9月7日至11日)，多只通信主题ETF涨超5%；成长ETF易方达(159259)跟踪的国证成长100指数涨超4%，该ETF上周资金净流入超14亿元。02科技方向依然是上周市场交易的重心。科创50ETF易方达( ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679855606.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "据央视财经，近日，A股市场多个重要指数成分股调整落地。根据指数编制方案，北京证券交易所和中证指数有限公司对北证50指数样本股进行定期调整，于2026年9月14日(星期一)正式生效。本次调整 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679855234.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 9,
-                    "title": "影响市场重大事件：美联储加息“靴子”将落地，A股或迎反攻行情；上海“明珠星座计划”启动，全栈国产化打造吉瓦级天基计算星座；纳斯达克100指数将提高SpaceX权重",
-                    "url": "http://news.10jqka.com.cn/20260914/c679855043.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "■ 谢若琳在近日举办的“开局起步‘十五五’”系列主题新闻发布会上，证监会副主席李超介绍“十五五”期间资本市场的工作时表示，将进一步拓宽中长期资金来源、渠道和入市方式，健全“长钱 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679861903.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "中国证券报•‍A股市场打造境内优质企业上市首选地9月11日，燧原科技在上交所科创板上市，这家AI芯片企业的登场，成为资本市场支持科技创新的最新注脚。证监会日前在部署“十五五 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679861542.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 9,
-                    "title": "商务部：稳妥有序推进服务市场开放",
-                    "url": "http://news.10jqka.com.cn/20260914/c679860923.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 18,
-                    "title": "进入9月，市场风格出现阶段性微调，A股整体风险偏好有所收敛，资金开始增配确定性资产，高股息板块迎来阶段性修复行情。9月以来，A股沪指维持震荡走势，上涨的7个申万一级行业中，国防军工 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679860064.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 21,
-                    "title": "“国产四小龙”齐聚资本市场市值6132亿 中期营收全部高增长商业化落地考验开启",
-                    "url": "http://news.10jqka.com.cn/20260914/c679859664.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 22,
-                    "title": "编者按9月11日，燧原科技亮相上交所科创板，“国产GPU四小龙”在资本市场胜利会师。“国产GPU四小龙”齐聚资本市场，是国产算力产业发展的重要里程碑，这既是资本市场包容的结果，更与资本 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679859664.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 34,
-                    "title": "【大河财立方消息】国务院新闻办公室将于今日(14日)下午3时举行国务院政策例行吹风会，请工业和信息化部副部长柯吉欣和中国人民银行、国务院国资委、市场监管总局、中国证监会有关负责人介 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679856235.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "生意社09月14日讯2026年9月13日环氧氯丙烷市场整体维持震荡走势，行情呈现高位深回调的偏空特征。短期5日、10日均差同步回落，20日均差保持平稳，指标走势分化，暂无单边趋势行情。短期价格 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679866418.shtml"
-                }
-            ]
-        },
-        {
             "word": "A股",
             "weight": 49,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -7188,7 +7435,7 @@
         {
             "word": "公告",
             "weight": 38,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -7435,7 +7682,7 @@
         {
             "word": "特朗普",
             "weight": 31,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -7682,7 +7929,7 @@
         {
             "word": "先生",
             "weight": 28,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -7929,7 +8176,7 @@
         {
             "word": "员工",
             "weight": 27,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -8152,7 +8399,7 @@
         {
             "word": "野人",
             "weight": 26,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -8393,253 +8640,6 @@
                     "rank": 4,
                     "title": "罗永浩炮轰野人先生惨遭无视",
                     "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364133&topic_name=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%82%AE%E8%BD%B0%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E6%83%A8%E9%81%AD%E6%97%A0%E8%A7%86"
-                }
-            ]
-        },
-        {
-            "word": "金砖",
-            "weight": 26,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 14,
-                    "title": "一部手机看金砖国家合作前景",
-                    "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA%E7%9C%8B%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%90%88%E4%BD%9C%E5%89%8D%E6%99%AF"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 3,
-                    "title": "寻找金砖温度的答案",
-                    "url": "https://s.weibo.com/weibo?q=%E5%AF%BB%E6%89%BE%E9%87%91%E7%A0%96%E6%B8%A9%E5%BA%A6%E7%9A%84%E7%AD%94%E6%A1%88&Refer=index"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 1,
-                    "title": "“大金砖”如何实现大发展",
-                    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%87%91%E7%A0%96%E2%80%9D%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%A4%A7%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091400204253F6D0FDE981B8E9B5A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091401162504ED4B65BDEE9BAF9CBB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914022313173EBBE0C018EA4B7193%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091403150860F01B04AD8ABBB39067%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914042005F81E20F64C9B024B3AE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%222026091405173597976EAAB789829F49D6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914061845D5A2DCEC1CD5926AF0F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 21,
-                    "title": "金砖国家领导人集体合影",
-                    "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914090041A8ECDC377E0F51EF3958%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 44,
-                    "title": "金砖财长层级联合声明释放何信号",
-                    "url": "https://www.toutiao.com/trending/7685270666467085834/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685270666467085834%22%2C%22hot_board_impr_id%22%3A%22202609141633082462D800FD3941269A48%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E8%B4%A2%E9%95%BF%E5%B1%82%E7%BA%A7%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E9%87%8A%E6%94%BE%E4%BD%95%E4%BF%A1%E5%8F%B7%22%7D&rank=&style_id=40132&topic_id=7685270666467085834"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 43,
-                    "title": "金砖财长层级联合声明释放何信号",
-                    "url": "https://www.toutiao.com/trending/7685270666467085834/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685270666467085834%22%2C%22hot_board_impr_id%22%3A%2220260914173001F2D2CEE7F987795F6717%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E8%B4%A2%E9%95%BF%E5%B1%82%E7%BA%A7%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E9%87%8A%E6%94%BE%E4%BD%95%E4%BF%A1%E5%8F%B7%22%7D&rank=&style_id=40132&topic_id=7685270666467085834"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "时政微观察丨“大金砖”，大有可为",
-                    "url": "https://view.inews.qq.com/a/20260913A093Q900"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "第一观察 | 习近平主席指引“大金砖”筑牢务实合作根基",
-                    "url": "https://view.inews.qq.com/a/20260914A00PL000"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 11,
-                    "title": "金砖峰会结束，中方专机回京，走前莫迪对华作出承诺，信号不寻常",
-                    "url": "https://m.163.com/news/article/L6PF5CEH05568PEW.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 26,
-                    "title": "金砖峰会结束，中方专机回京，走前莫迪对华作出承诺，信号不寻常",
-                    "url": "https://m.163.com/news/article/L6PEQA6D0556DYV8.html"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 7,
-                    "title": "独家视频丨金砖国家领导人参观金砖成立20周年图片展、共同植树并集体合影",
-                    "url": "https://news.sina.com.cn/c/xl/2026-09-13/doc-inirsuvw4483895.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 13,
-                    "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
-                    "url": "https://news.sina.com.cn/c/xl/2026-09-13/doc-inirsuvw4476750.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 18,
-                    "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
-                    "url": "https://news.sina.com.cn/c/xl/2026-09-13/doc-inirszcw5299695.shtml"
-                },
-                {
-                    "channelId": "thepaper",
-                    "channelName": "澎湃新闻",
-                    "ranking": "热新闻",
-                    "rank": 18,
-                    "title": "王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
-                    "url": "https://www.thepaper.cn/newsDetail_forward_34062704"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 13,
-                    "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
-                    "url": "http://news.10jqka.com.cn/20260913/c679853841.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 14,
-                    "title": "新华社北京9月13日电9月13日晚，国家主席习近平圆满结束出席金砖国家领导人第十八次会晤回到北京。 ...",
-                    "url": "http://news.10jqka.com.cn/20260913/c679853841.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "1、习近平结束出席金砖国家领导人第十八次会晤回到北京(99) ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679854611.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 3,
-                    "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
-                    "url": "http://news.10jqka.com.cn/20260914/c679854799.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 4,
-                    "title": "新华社新德里9月13日电当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基壮大全球南方力量》的重要讲话。习近平指出 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679854799.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 5,
-                    "title": "习近平出席金砖国家领导人第十八次会晤 第二阶段会议并发表重要讲话",
-                    "url": "http://news.10jqka.com.cn/20260914/c679854907.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "● 新华社新德里9月13日电(记者李忠发韩墨)当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基壮大全球南方力量》的 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679854907.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 29,
-                    "title": "习近平主席在金砖国家领导人第十八次会晤上的重要讲话引发国际人士热烈反响",
-                    "url": "http://news.10jqka.com.cn/20260914/c679857804.shtml"
                 }
             ]
         },
@@ -10234,8 +10234,8 @@
             "00:20",
             "05:18",
             "10:33",
-            "14:45",
-            "18:23"
+            "14:46",
+            "18:30"
         ],
         "rows": [
             {
@@ -10744,6 +10744,41 @@
                 "delta": null
             },
             {
+                "title": "国务院对青岛船厂火灾提级调查",
+                "source": "跨渠道",
+                "url": "https://www.douyin.com/search/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%88%B9%E5%8E%82%E7%81%AB%E7%81%BE%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5",
+                "query": "国务院对青岛船厂火灾提级调查",
+                "hits": [
+                    {
+                        "channelId": "douyin",
+                        "channelName": "抖音",
+                        "ranking": "热搜",
+                        "rank": 5,
+                        "title": "国务院对青岛船厂火灾提级调查",
+                        "url": "https://www.douyin.com/search/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%88%B9%E5%8E%82%E7%81%AB%E7%81%BE%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5"
+                    },
+                    {
+                        "channelId": "kuaishou",
+                        "channelName": "快手",
+                        "ranking": "快手热榜",
+                        "rank": 2,
+                        "title": "国务院对青岛船厂火灾提级调查",
+                        "url": "https://www.kuaishou.com/short-video/3xst75a5xwcqvdi"
+                    },
+                    {
+                        "channelId": "toutiao",
+                        "channelName": "今日头条",
+                        "ranking": "热点榜",
+                        "rank": 4,
+                        "title": "国务院提级调查青岛船厂火灾",
+                        "url": "https://www.toutiao.com/trending/7685325902787382838/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685325902787382838%22%2C%22hot_board_impr_id%22%3A%222026091418223133C97B1DD5193930F99F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5%E9%9D%92%E5%B2%9B%E8%88%B9%E5%8E%82%E7%81%AB%E7%81%BE%22%7D&rank=&style_id=40132&topic_id=7685325902787382838"
+                    }
+                ],
+                "currentRank": 3,
+                "previousRank": null,
+                "delta": null
+            },
+            {
                 "title": "人民日报曝光后，苏州市委表态：严查！",
                 "source": "跨渠道",
                 "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%90%8E+%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%94%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%A5%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
@@ -10774,7 +10809,7 @@
                         "url": "https://news.sina.com.cn/c/2026-09-13/doc-inirsuvw4459532.shtml"
                     }
                 ],
-                "currentRank": 3,
+                "currentRank": 4,
                 "previousRank": null,
                 "delta": null
             },
@@ -10849,7 +10884,82 @@
                         "url": "https://www.toutiao.com/trending/7684800478262149139/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684800478262149139%22%2C%22hot_board_impr_id%22%3A%2220260914132300E22759F8BD0137F23D7C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF%22%7D&rank=&style_id=40132&topic_id=7684800478262149139"
                     }
                 ],
-                "currentRank": 5,
+                "currentRank": 6,
+                "previousRank": null,
+                "delta": null
+            },
+            {
+                "title": "网红暴躁的小张姥姥去世",
+                "source": "跨渠道",
+                "url": "https://www.kuaishou.com/short-video/3xy5ds434t7e66k",
+                "query": "网红暴躁的小张姥姥去世",
+                "hits": [
+                    {
+                        "channelId": "kuaishou",
+                        "channelName": "快手",
+                        "ranking": "快手热榜",
+                        "rank": 5,
+                        "title": "网红暴躁的小张姥姥去世",
+                        "url": "https://www.kuaishou.com/short-video/3xy5ds434t7e66k"
+                    },
+                    {
+                        "channelId": "weibo",
+                        "channelName": "微博",
+                        "ranking": "微博热榜",
+                        "rank": 8,
+                        "title": "网红暴躁的小张姥姥去世",
+                        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96&Refer=index"
+                    },
+                    {
+                        "channelId": "toutiao",
+                        "channelName": "今日头条",
+                        "ranking": "热点榜",
+                        "rank": 6,
+                        "title": "网红“暴躁的小张”姥姥去世",
+                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%2220260914144605917FACF01E80D41C755D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                    },
+                    {
+                        "channelId": "toutiao",
+                        "channelName": "今日头条",
+                        "ranking": "热点榜",
+                        "rank": 4,
+                        "title": "网红“暴躁的小张”姥姥去世",
+                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%22202609141531558E8BFB4A4FF45AF98253%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                    },
+                    {
+                        "channelId": "toutiao",
+                        "channelName": "今日头条",
+                        "ranking": "热点榜",
+                        "rank": 7,
+                        "title": "网红“暴躁的小张”姥姥去世",
+                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%22202609141633082462D800FD3941269A48%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                    },
+                    {
+                        "channelId": "toutiao",
+                        "channelName": "今日头条",
+                        "ranking": "热点榜",
+                        "rank": 18,
+                        "title": "网红“暴躁的小张”姥姥去世",
+                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%2220260914173001F2D2CEE7F987795F6717%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                    },
+                    {
+                        "channelId": "toutiao",
+                        "channelName": "今日头条",
+                        "ranking": "热点榜",
+                        "rank": 36,
+                        "title": "网红“暴躁的小张”姥姥去世",
+                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%222026091418223133C97B1DD5193930F99F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
+                    },
+                    {
+                        "channelId": "baidu",
+                        "channelName": "百度热搜",
+                        "ranking": "实时热搜",
+                        "rank": 24,
+                        "title": "网红“暴躁的小张”姥姥离世",
+                        "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
+                    }
+                ],
+                "currentRank": 7,
                 "previousRank": null,
                 "delta": null
             },
@@ -10924,82 +11034,7 @@
                         "url": "https://news.sina.com.cn/c/2026-09-14/doc-inirtwik4090283.shtml"
                     }
                 ],
-                "currentRank": 6,
-                "previousRank": null,
-                "delta": null
-            },
-            {
-                "title": "网红“暴躁的小张”姥姥去世",
-                "source": "跨渠道",
-                "url": "https://www.kuaishou.com/short-video/3xy5ds434t7e66k",
-                "query": "网红“暴躁的小张”姥姥去世",
-                "hits": [
-                    {
-                        "channelId": "kuaishou",
-                        "channelName": "快手",
-                        "ranking": "快手热榜",
-                        "rank": 5,
-                        "title": "网红暴躁的小张姥姥去世",
-                        "url": "https://www.kuaishou.com/short-video/3xy5ds434t7e66k"
-                    },
-                    {
-                        "channelId": "weibo",
-                        "channelName": "微博",
-                        "ranking": "微博热榜",
-                        "rank": 8,
-                        "title": "网红暴躁的小张姥姥去世",
-                        "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96&Refer=index"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 6,
-                        "title": "网红“暴躁的小张”姥姥去世",
-                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%2220260914144605917FACF01E80D41C755D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 4,
-                        "title": "网红“暴躁的小张”姥姥去世",
-                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%22202609141531558E8BFB4A4FF45AF98253%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 7,
-                        "title": "网红“暴躁的小张”姥姥去世",
-                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%22202609141633082462D800FD3941269A48%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 18,
-                        "title": "网红“暴躁的小张”姥姥去世",
-                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%2220260914173001F2D2CEE7F987795F6717%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 36,
-                        "title": "网红“暴躁的小张”姥姥去世",
-                        "url": "https://www.toutiao.com/trending/7685214905439731722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685214905439731722%22%2C%22hot_board_impr_id%22%3A%222026091418223133C97B1DD5193930F99F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7685214905439731722"
-                    },
-                    {
-                        "channelId": "baidu",
-                        "channelName": "百度热搜",
-                        "ranking": "实时热搜",
-                        "rank": 24,
-                        "title": "网红“暴躁的小张”姥姥离世",
-                        "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E2%80%9C%E6%9A%B4%E8%BA%81%E7%9A%84%E5%B0%8F%E5%BC%A0%E2%80%9D%E5%A7%A5%E5%A7%A5%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news"
-                    }
-                ],
-                "currentRank": 7,
+                "currentRank": 8,
                 "previousRank": null,
                 "delta": null
             },
@@ -11032,41 +11067,6 @@
                         "rank": 18,
                         "title": "平陆运河9月16日建成通航",
                         "url": "https://www.zhihu.com/search?q=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B39%E6%9C%8816%E6%97%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%88%AA"
-                    }
-                ],
-                "currentRank": 9,
-                "previousRank": null,
-                "delta": null
-            },
-            {
-                "title": "多车队宣布永久退出China GT",
-                "source": "跨渠道",
-                "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363909&topic_name=%E4%B8%A2%E4%BA%BA%21%E5%A4%9A%E8%BD%A6%E9%98%9F%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChinaGT",
-                "query": "多车队宣布永久退出China GT",
-                "hits": [
-                    {
-                        "channelId": "tieba",
-                        "channelName": "百度贴吧",
-                        "ranking": "最有料热点",
-                        "rank": 15,
-                        "title": "丢人!多车队永久退出ChinaGT",
-                        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363909&topic_name=%E4%B8%A2%E4%BA%BA%21%E5%A4%9A%E8%BD%A6%E9%98%9F%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChinaGT"
-                    },
-                    {
-                        "channelId": "bilibili",
-                        "channelName": "哔哩哔哩",
-                        "ranking": "热门搜索",
-                        "rank": 5,
-                        "title": "多车队宣布永久退出China GT",
-                        "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChina%20GT"
-                    },
-                    {
-                        "channelId": "douyin",
-                        "channelName": "抖音",
-                        "ranking": "热搜",
-                        "rank": 15,
-                        "title": "多车队宣布永久退出China GT",
-                        "url": "https://www.douyin.com/search/%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChina%20GT"
                     }
                 ],
                 "currentRank": 10,
@@ -11162,9 +11162,9 @@
                         "url": "https://www.toutiao.com/trending/7684800838530809897/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684800838530809897%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AE%E8%A7%86%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7684800838530809897"
                     }
                 ],
-                "currentRank": 4,
+                "currentRank": 5,
                 "previousRank": 1,
-                "delta": -3
+                "delta": -4
             },
             {
                 "title": "小七龄童去世",
@@ -11277,9 +11277,9 @@
                         "url": "https://www.toutiao.com/trending/7684843687422987782/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684843687422987782%22%2C%22hot_board_impr_id%22%3A%222026091410333798F3A9A59A67EDEB03F9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E4%B8%83%E9%BE%84%E7%AB%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7684843687422987782"
                     }
                 ],
-                "currentRank": 8,
+                "currentRank": 9,
                 "previousRank": 2,
-                "delta": -6
+                "delta": -7
             }
         ],
         "rising": [],
@@ -11371,9 +11371,9 @@
                         "url": "https://www.toutiao.com/trending/7684800838530809897/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684800838530809897%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AE%E8%A7%86%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7684800838530809897"
                     }
                 ],
-                "currentRank": 4,
+                "currentRank": 5,
                 "previousRank": 1,
-                "delta": -3
+                "delta": -4
             },
             {
                 "title": "小七龄童去世",
@@ -11486,9 +11486,9 @@
                         "url": "https://www.toutiao.com/trending/7684843687422987782/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684843687422987782%22%2C%22hot_board_impr_id%22%3A%222026091410333798F3A9A59A67EDEB03F9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E4%B8%83%E9%BE%84%E7%AB%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7684843687422987782"
                     }
                 ],
-                "currentRank": 8,
+                "currentRank": 9,
                 "previousRank": 2,
-                "delta": -6
+                "delta": -7
             }
         ],
         "dropped": [
