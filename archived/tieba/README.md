@@ -1,10 +1,9 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-14 20:33:35
+> 更新时间：2026-09-14 21:24:11
 
 ## 最有料热点
 
-1. [警方通报广州大学城伤人事件](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364177&topic_name=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9F%8E%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
 2. [旅行青蛙停运,吧友手搓离线版](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364122&topic_name=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99%E5%81%9C%E8%BF%90%2C%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93%E7%A6%BB%E7%BA%BF%E7%89%88)
 3. [官方致敬1437,贴吧梗又出圈](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364123&topic_name=%E5%AE%98%E6%96%B9%E8%87%B4%E6%95%AC1437%2C%E8%B4%B4%E5%90%A7%E6%A2%97%E5%8F%88%E5%87%BA%E5%9C%88)
 4. [沈阳盲人被撞反赔偿13万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364082&topic_name=%E6%B2%88%E9%98%B3%E7%9B%B2%E4%BA%BA%E8%A2%AB%E6%92%9E%E5%8F%8D%E8%B5%94%E5%81%BF13%E4%B8%87)

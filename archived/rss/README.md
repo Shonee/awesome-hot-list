@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 20:33:49
+> 更新时间：2026-09-14 21:24:23
 
 ## IT之家
 
-1. [钢铁侠式操作：工程师实现在 VR 中投掷 3D 模型至打印机直接打印](https://www.ithome.com/1/002/286.htm)
-2. [消息称高瓴创投合伙人严文韬有望加入 DeepSeek，担任首席财务官](https://www.ithome.com/1/002/284.htm)
-3. [我国未成年网民规模已达 1.98 亿，互联网普及率高达 98.3%](https://www.ithome.com/1/002/283.htm)
-4. [消息称铠侠控股拟通过赴美上市，筹集至少 100 亿美元](https://www.ithome.com/1/002/280.htm)
-5. [全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》](https://www.ithome.com/1/002/279.htm)
+1. [广汽集团：筹划发行股份购买一汽股份持有的某整车合资公司部分股权，股票停牌](https://www.ithome.com/1/002/296.htm)
+2. [努比亚 LiveClip 2 耳夹耳机上架：11mm 复合钛膜、透明 + RGB 设计耳机仓，首发 289 元](https://www.ithome.com/1/002/295.htm)
+3. [上线 39 天，蔚来旗下萤火虫累计换电突破 10000 次](https://www.ithome.com/1/002/294.htm)
+4. [长城猛龙 PLUS 力魂版官图公布，官宣“敬请期待”](https://www.ithome.com/1/002/293.htm)
+5. [小马智行发布第四代自动驾驶重卡 Robotruck，将于年内规模量产](https://www.ithome.com/1/002/291.htm)
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 爱范儿
 
-1. [理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」](https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [在学会数学之前，AI 先学会了大厂的虚荣心](https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」](https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
