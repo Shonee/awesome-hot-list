@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 14:46:45
+> 更新时间：2026-09-14 15:32:37
 
 ## IT之家
 
-1. [特斯拉无人出租车 Robotaxi 将搭载 FSD V15，下月开始全天候运营](https://www.ithome.com/1/002/080.htm)
-2. [OPPO Watch X3 手表“寰月钛”新配色官宣：亮银色全钛表体、极白竹节表带，9 月 22 日发布](https://www.ithome.com/1/002/068.htm)
-3. [商务部等 8 部门印发《促进智能家居消费行动方案》](https://www.ithome.com/1/002/064.htm)
-4. [美国总统科技顾问委员会主席炮轰 OpenAI、Anthropic：别借放缓之名寻求监管保护](https://www.ithome.com/1/002/063.htm)
-5. [OPPO ColorOS 17 全新主题壁纸亮相，Find X10 系列手机首发搭载](https://www.ithome.com/1/002/061.htm)
+1. [美光、闪迪赴韩争抢半导体核心人才，三星加码薪酬与股权激励应对挖角](https://www.ithome.com/1/002/109.htm)
+2. [全球首次：杭州镓仁半导体实现 12 英寸氧化镓晶体等径生长](https://www.ithome.com/1/002/107.htm)
+3. [华为 WATCH FIT 5 系列迎来鸿蒙 HarmonyOS 7 升级：系统界面全新升级，新增万象模块表盘](https://www.ithome.com/1/002/100.htm)
+4. [比亚迪股份副总裁李柯称燃油车已没有未来](https://www.ithome.com/1/002/099.htm)
+5. [ATK 推出 YOGO 75 系列三模矮轴机械键盘，到手价 599.25 元起](https://www.ithome.com/1/002/098.htm)
 
 ## 少数派
 
@@ -20,7 +20,7 @@
 
 ## 爱范儿
 
-1. [新「豆包手机」首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
 2. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
 3. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
 4. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -28,11 +28,11 @@
 
 ## 量子位
 
-1. [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html)
-2. [中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱](https://www.qbitai.com/2026/09/488725.html)
-3. [奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX](https://www.qbitai.com/2026/09/488699.html)
-4. [智谱提前剧透下一代GLM：完全自训练方法公开了](https://www.qbitai.com/2026/09/488694.html)
-5. [2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体](https://www.qbitai.com/2026/09/488672.html)
+1. [2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会](https://www.qbitai.com/2026/09/488875.html)
+2. [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html)
+3. [中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱](https://www.qbitai.com/2026/09/488725.html)
+4. [奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX](https://www.qbitai.com/2026/09/488699.html)
+5. [智谱提前剧透下一代GLM：完全自训练方法公开了](https://www.qbitai.com/2026/09/488694.html)
 
 ## InfoQ
 
@@ -57,6 +57,14 @@
 3. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 4. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
 5. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
+
+## AI News
+
+1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
+3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
+4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
+5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
 
 ## 阮一峰网络日志
 
