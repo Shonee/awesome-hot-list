@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-14 11:28:56",
+    "generatedAt": "2026-09-14 11:33:40",
     "channels": [
         {
             "schemaVersion": 1,
@@ -12298,10 +12298,201 @@
             "channelId": "xueqiu",
             "channelName": "雪球",
             "sourceUrl": "https://xueqiu.com/today",
-            "fetchedAt": "2026-09-14 09:44:02",
-            "status": "disabled",
-            "error": "xueqiu API unavailable: 400 Client Error:  for url: https://xueqiu.com/hot_event/list.json?count=10",
-            "rankings": []
+            "fetchedAt": "2026-09-14 11:33:40",
+            "status": "ok",
+            "error": "",
+            "warnings": [],
+            "rankings": [
+                {
+                    "id": "hot",
+                    "name": "热门话题",
+                    "sourceUrl": "https://xueqiu.com/today",
+                    "providerName": "今日热榜",
+                    "providerUrl": "https://tophub.today/n/X12owXzvNV",
+                    "items": [
+                        {
+                            "rank": 1,
+                            "title": "价值投资错在哪里？",
+                            "url": "http://xueqiu.com/8398715833/409096752",
+                            "hot": "大湾区炒家",
+                            "description": "",
+                            "imageUrl": "https://tophub.today/",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 2,
+                            "title": "东鹏饮料适合攒股收息吗？",
+                            "url": "http://xueqiu.com/1783822128/409091190",
+                            "hot": "刚哥爱投资",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a0998f21663dc1d3fd14ef5.jpeg",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 3,
+                            "title": "进口货旺季仍在持续（2609NRF报告综述）",
+                            "url": "http://xueqiu.com/3638220949/409104789",
+                            "hot": "幸运Huang",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a09a9d0f883c1b63fbcd047.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 4,
+                            "title": "为什么开店选址也是泡泡玛特的护城河，因为你看到的可能只是冰山一角（纯手打）",
+                            "url": "http://xueqiu.com/3631818965/409100060",
+                            "hot": "月如懿",
+                            "description": "",
+                            "imageUrl": "https://assets.imedao.com/ugc/images/face/emoji_38_flower.png?v=1",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 5,
+                            "title": "A股市场16家最具成长性和投资性价比的银行数据汇总及分析",
+                            "url": "http://xueqiu.com/2466842102/409043796",
+                            "hot": "摸索fhy",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a090af9c523ace03fe10886.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 6,
+                            "title": "一个散户的二十一年：我的价值投资复盘与反思",
+                            "url": "http://xueqiu.com/7271353740/408936110",
+                            "hot": "KAIZEN投资之道",
+                            "description": "",
+                            "imageUrl": "https://tophub.today/",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 7,
+                            "title": "估值的第一性原理：从DCF说起",
+                            "url": "http://xueqiu.com/7157351566/408967712",
+                            "hot": "贝叶斯之美",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a08f70a2163983f3fe6cae6.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 8,
+                            "title": "运价股价裂解差",
+                            "url": "http://xueqiu.com/4531216350/409009706",
+                            "hot": "莫问是谁",
+                            "description": "",
+                            "imageUrl": "https://tophub.today/",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 9,
+                            "title": "关于拼多多不分红的问题",
+                            "url": "http://xueqiu.com/6308001210/409029408",
+                            "hot": "czy710",
+                            "description": "",
+                            "imageUrl": "https://tophub.today/",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 10,
+                            "title": "从Muse看AI应用与软件的未来",
+                            "url": "http://xueqiu.com/5332385101/408871365",
+                            "hot": "陆家嘴幽灵",
+                            "description": "",
+                            "imageUrl": "https://tophub.today/",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 11,
+                            "title": "9.11 光通信行业更新",
+                            "url": "http://xueqiu.com/8141527616/408873354",
+                            "hot": "杨爽511",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a08e0946dd393de3fe5c6be.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 12,
+                            "title": "2026年9月 ENSO 月报：极强厄尔尼诺预警",
+                            "url": "http://xueqiu.com/7163180119/408862802",
+                            "hot": "熵控资本",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a08bad5f62386f53fd6e7da.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 13,
+                            "title": "A股地量出现，要变盘了吗？",
+                            "url": "http://xueqiu.com/1843761023/408862077",
+                            "hot": "睿知睿见",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a08a976d91f84eb3feb6936.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 14,
+                            "title": "新能源的电价有底吗？",
+                            "url": "http://xueqiu.com/5385800475/408915068",
+                            "hot": "浪里掌帆人",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a08e626f94f95483feb42a9.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 15,
+                            "title": "控回撤，远离成长风格？",
+                            "url": "http://xueqiu.com/3559889031/408862734",
+                            "hot": "张翼轸",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a08da6c150f8ee53fc9a29b.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 16,
+                            "title": "债台高筑为何仍要加息？看清全球宏观困局与资产博弈的底层真相",
+                            "url": "http://xueqiu.com/2884313460/408947941",
+                            "hot": "鴨先知",
+                            "description": "",
+                            "imageUrl": "https://tophub.today/",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 17,
+                            "title": "把投资中的焦虑，安放在对的地方",
+                            "url": "http://xueqiu.com/2245748859/408922298",
+                            "hot": "就叫姜诚",
+                            "description": "",
+                            "imageUrl": "https://tophub.today/",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 18,
+                            "title": "全球粮食危机的概率飙升，但国内在瞎炒",
+                            "url": "http://xueqiu.com/1843761023/408703125",
+                            "hot": "睿知睿见",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a0851ea6d2f61403fd7045e.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 19,
+                            "title": "中金黄金2026年中报分析：拐点时刻到来",
+                            "url": "http://xueqiu.com/2828641690/408796148",
+                            "hot": "阿果产业视角",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a08a3fc9a13800a3fe8055f.png",
+                            "publishedAt": ""
+                        },
+                        {
+                            "rank": 20,
+                            "title": "红利ETF怎么选：全品类对比与最终答案",
+                            "url": "http://xueqiu.com/2884313460/408765587",
+                            "hot": "鴨先知",
+                            "description": "",
+                            "imageUrl": "https://xqimg.imedao.com/1a089b6c09b3a0223fd85247.jpg!custom.jpg",
+                            "publishedAt": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "schemaVersion": 1,
