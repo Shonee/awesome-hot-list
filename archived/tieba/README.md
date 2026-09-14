@@ -1,10 +1,11 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-14 23:22:48
+> 更新时间：2026-09-15 00:22:52
 
 ## 最有料热点
 
-2. [旅行青蛙停运,吧友手搓离线版](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364122&topic_name=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99%E5%81%9C%E8%BF%90%2C%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93%E7%A6%BB%E7%BA%BF%E7%89%88)
+1. [旅行青蛙停运,吧友手搓离线版](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364122&topic_name=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99%E5%81%9C%E8%BF%90%2C%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93%E7%A6%BB%E7%BA%BF%E7%89%88)
+2. [韩国人笑中文难,浅薄当光荣](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364203&topic_name=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%AC%91%E4%B8%AD%E6%96%87%E9%9A%BE%2C%E6%B5%85%E8%96%84%E5%BD%93%E5%85%89%E8%8D%A3)
 3. [官方致敬1437,贴吧梗又出圈](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364123&topic_name=%E5%AE%98%E6%96%B9%E8%87%B4%E6%95%AC1437%2C%E8%B4%B4%E5%90%A7%E6%A2%97%E5%8F%88%E5%87%BA%E5%9C%88)
 4. [沈阳盲人被撞反赔偿13万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364082&topic_name=%E6%B2%88%E9%98%B3%E7%9B%B2%E4%BA%BA%E8%A2%AB%E6%92%9E%E5%8F%8D%E8%B5%94%E5%81%BF13%E4%B8%87)
 5. [吧主下任内幕!影之刃零吧炸锅](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364161&topic_name=%E5%90%A7%E4%B8%BB%E4%B8%8B%E4%BB%BB%E5%86%85%E5%B9%95%21%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%90%A7%E7%82%B8%E9%94%85)

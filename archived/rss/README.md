@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 23:22:57
+> 更新时间：2026-09-15 00:23:05
 
 ## IT之家
 
-1. [马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责](https://www.ithome.com/1/002/314.htm)
-2. [当贝 X9 Max 投影仪亮相：支持 4800 CVIA 亮度、米家互联，9 月 16 日开售](https://www.ithome.com/1/002/313.htm)
-3. [16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦](https://www.ithome.com/1/002/311.htm)
-4. [广汽集团筹划重大资产重组，消息称一汽丰田、广汽丰田合并取得阶段性进展](https://www.ithome.com/1/002/310.htm)
-5. [小米雷军现身宇树科技，和王兴兴观看人形机器人表演](https://www.ithome.com/1/002/308.htm)
+1. [vivo WATCH 6 智能手表亮相：蓝宝石玻璃表镜、钛合金表体，9 月 21 日发布](https://www.ithome.com/1/002/320.htm)
+2. [英伟达：Perplexity 本地智能体 Portable Computer 已向 Windows RTX PC 开放](https://www.ithome.com/1/002/315.htm)
+3. [马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责](https://www.ithome.com/1/002/314.htm)
+4. [当贝 X9 Max 投影仪亮相：支持 4800 CVIA 亮度、米家互联，9 月 16 日开售](https://www.ithome.com/1/002/313.htm)
+5. [16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦](https://www.ithome.com/1/002/311.htm)
 
 ## 少数派
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
-2. [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
-3. [Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”](https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article)
-4. [Azure 虚拟桌面混合版正式可用，许可细则尚未公布](https://www.infoq.cn/article/MMD3SrhB1HuUh5Rv9Fmw?utm_source=rss&utm_medium=article)
-5. [不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海](https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article)
+1. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
+2. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
+3. [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
+4. [Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”](https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article)
+5. [Azure 虚拟桌面混合版正式可用，许可细则尚未公布](https://www.infoq.cn/article/MMD3SrhB1HuUh5Rv9Fmw?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,11 +52,11 @@
 
 ## MIT Technology Review
 
-1. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
-2. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
-3. [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
-4. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
-5. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
+1. [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
+2. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
+3. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
+4. [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
+5. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 
 ## 阮一峰网络日志
 
