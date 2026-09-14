@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14 10:34:32",
+    "generatedAt": "2026-09-14 11:15:15",
     "summary": "中国足球小将西班牙捧杯成为本期综合热度最高的话题，丢人!多车队永久退出ChinaGT紧随其后。当前覆盖 22 个有效渠道，共形成 375 个榜单时间切片；发现 14 个跨渠道重复热点。",
     "metrics": {
         "deduplicated": 2053,
         "resonance": 14,
         "maxRise": 54,
         "slices": 375,
-        "coverage": 96,
-        "samplingCoverage": 92
+        "coverage": 73,
+        "samplingCoverage": 66
     },
     "topTopics": [
         {
@@ -1861,6 +1861,22 @@
                     "url": "https://www.toutiao.com/trending/7685166758033886761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685166758033886761%22%2C%22hot_board_impr_id%22%3A%222026091410333798F3A9A59A67EDEB03F9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%A6%E8%80%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%89%E6%8A%8A%E7%81%AB%E7%82%B9%E7%87%83%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%83%80%22%7D&rank=&style_id=40132&topic_id=7685166758033886761"
                 },
                 {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 14,
+                    "title": "美学者：中国航天补上关键一环，美国不能想当然",
+                    "url": "https://view.inews.qq.com/a/20260914A03MBG00"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 17,
+                    "title": "家中搜出约300根金条、200万美元现金、35块名贵腕表，美国中情局前官员认罪",
+                    "url": "https://view.inews.qq.com/a/20260914A03BL200"
+                },
+                {
                     "channelId": "acfun",
                     "channelName": "AcFun",
                     "ranking": "日榜",
@@ -1939,22 +1955,6 @@
                     "rank": 20,
                     "title": "NiiHost-2026暑期活动10-抽美国三网精品主机，TW-HiNet主机",
                     "url": "https://www.nodeseek.com/post-927113-1"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 14,
-                    "title": "美学者：中国航天补上关键一环，美国不能想当然",
-                    "url": "https://view.inews.qq.com/a/20260914A03MBG00"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 17,
-                    "title": "家中搜出约300根金条、200万美元现金、35块名贵腕表，美国中情局前官员认罪",
-                    "url": "https://view.inews.qq.com/a/20260914A03BL200"
                 },
                 {
                     "channelId": "rss",
@@ -3581,6 +3581,14 @@
                     "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914090041A8ECDC377E0F51EF3958%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
                 },
                 {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 4,
+                    "title": "一图看懂！2026年国家网络安全宣传周亮点全揭秘",
+                    "url": "https://view.inews.qq.com/a/20260913A0717D00"
+                },
+                {
                     "channelId": "hupu",
                     "channelName": "虎扑",
                     "ranking": "步行街热帖",
@@ -3722,14 +3730,6 @@
                     "ranking": "今日要闻",
                     "rank": 29,
                     "title": "习近平主席在金砖国家领导人第十八次会晤上的重要讲话引发国际人士热烈反响",
-                    "url": "http://news.10jqka.com.cn/20260914/c679857804.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 30,
-                    "title": "原标题：为推动“大金砖合作”高质量发展定向领航——习近平主席在金砖国家领导人第十八次会晤上的重要讲话引发国际人士热烈反响9月12日至13日，习近平主席在印度新德里出席金砖国家领导人 ...",
                     "url": "http://news.10jqka.com.cn/20260914/c679857804.shtml"
                 }
             ]
@@ -5331,6 +5331,14 @@
                     "url": "https://www.zhihu.com/question/2081927215936189203"
                 },
                 {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 15,
+                    "title": "千万网红现身员工婚礼，随礼100万现金，新郎当场抱老板痛哭",
+                    "url": "https://view.inews.qq.com/a/20260913V09GPD00"
+                },
+                {
                     "channelId": "acfun",
                     "channelName": "AcFun",
                     "ranking": "周榜",
@@ -5385,14 +5393,6 @@
                     "rank": 42,
                     "title": "9月10日，瑞浦兰钧发布声明，解释事件经过。据公司说法，当事员工因个人原因提出离职，希望立即办完手续，但公司流程需要一定时间。双方未能就办理时间达成一致，员工随后情绪失控，出现过 ...",
                     "url": "http://news.10jqka.com.cn/20260913/c679852534.shtml"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 15,
-                    "title": "千万网红现身员工婚礼，随礼100万现金，新郎当场抱老板痛哭",
-                    "url": "https://view.inews.qq.com/a/20260913V09GPD00"
                 }
             ]
         },
@@ -6102,6 +6102,14 @@
                     "url": "https://www.toutiao.com/trending/7684981836782784026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684981836782784026%22%2C%22hot_board_impr_id%22%3A%2220260914090041A8ECDC377E0F51EF3958%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%22%7D&rank=&style_id=40132&topic_id=7684981836782784026"
                 },
                 {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 1,
+                    "title": "时政微观察丨“大金砖”，大有可为",
+                    "url": "https://view.inews.qq.com/a/20260913A093Q900"
+                },
+                {
                     "channelId": "tonghuashun",
                     "channelName": "同花顺",
                     "ranking": "今日要闻",
@@ -6188,14 +6196,6 @@
                     "rank": 36,
                     "title": "摘要：习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话。筑牢金砖合作根基壮大全球南方力量——在金砖国家领导人第十八次会晤第二阶段会议的讲话(2026年9月13日，新德里)中华人民共 ...",
                     "url": "http://news.10jqka.com.cn/20260914/c679856069.shtml"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 1,
-                    "title": "时政微观察丨“大金砖”，大有可为",
-                    "url": "https://view.inews.qq.com/a/20260913A093Q900"
                 }
             ]
         },
@@ -6903,20 +6903,20 @@
                     "url": "https://www.toutiao.com/trending/7685125563648082459/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685125563648082459%22%2C%22hot_board_impr_id%22%3A%222026091410333798F3A9A59A67EDEB03F9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A5%B3%E7%AF%AE%E8%BD%BB%E5%8F%96%E5%BE%B7%E5%9B%BD%E8%8E%B7%E5%AD%A3%E5%86%9B%22%7D&rank=&style_id=40132&topic_id=7685125563648082459"
                 },
                 {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 29,
-                    "title": "不懂就问，上一届女篮世界杯郑薇教练带领中国女篮夺得了世界杯亚军并且在八强痛击法国，四强击败东道主澳大利亚，为什么别人好好的要换成公公执教，公公的执教理念就是打穆铁柱式的篮球，并且23年公公直言",
-                    "url": "https://bbs.hupu.com/642399415.html"
-                },
-                {
                     "channelId": "qqnews",
                     "channelName": "腾讯新闻",
                     "ranking": "热点榜",
                     "rank": 19,
                     "title": "刘禹彤或可平替韩旭！放眼亚运会对手，中国女篮仍处于第一位置",
                     "url": "https://view.inews.qq.com/a/20260913A07ELW00"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 29,
+                    "title": "不懂就问，上一届女篮世界杯郑薇教练带领中国女篮夺得了世界杯亚军并且在八强痛击法国，四强击败东道主澳大利亚，为什么别人好好的要换成公公执教，公公的执教理念就是打穆铁柱式的篮球，并且23年公公直言",
+                    "url": "https://bbs.hupu.com/642399415.html"
                 }
             ]
         },
