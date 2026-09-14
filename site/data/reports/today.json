@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15 07:18:51",
-    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，苹果回应iPhone18Pro破发紧随其后。当前覆盖 33 个有效渠道，共形成 329 个榜单时间切片；发现 31 个跨渠道重复热点。",
+    "generatedAt": "2026-09-15 07:25:42",
+    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，苹果回应iPhone18Pro破发紧随其后。当前覆盖 33 个有效渠道，共形成 332 个榜单时间切片；发现 31 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2266,
+        "deduplicated": 2271,
         "resonance": 31,
         "maxRise": 47,
-        "slices": 329,
+        "slices": 332,
         "coverage": 100,
-        "samplingCoverage": 93
+        "samplingCoverage": 95
     },
     "topTopics": [
         {
@@ -5644,9 +5644,168 @@
             ]
         },
         {
+            "word": "iOS",
+            "weight": 19,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 49,
+                    "title": "哪些机型可以升级iOS27",
+                    "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%BA%9B%E6%9C%BA%E5%9E%8B%E5%8F%AF%E4%BB%A5%E5%8D%87%E7%BA%A7iOS27&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 5,
+                    "title": "iOS升级包版本显示Bug",
+                    "url": "https://s.weibo.com/weibo?q=iOS%E5%8D%87%E7%BA%A7%E5%8C%85%E7%89%88%E6%9C%AC%E6%98%BE%E7%A4%BABug&Refer=index"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 5,
+                    "title": "iOS 27, iPadOS 27, and macOS 27",
+                    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
+                },
+                {
+                    "channelId": "googletrends",
+                    "channelName": "Google Trends",
+                    "ranking": "香港趋势",
+                    "rank": 4,
+                    "title": "ios 27",
+                    "url": "https://trends.google.com/trends/explore?q=ios+27&geo=HK"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 5,
+                    "title": "来了来了！苹果终于发布 iOS 27 正式版系统",
+                    "url": "https://m.163.com/news/article/L6R2TTVN0511Q78R.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 11,
+                    "title": "iOS 27正式推送：别急着升，这几个大实话苹果没明说",
+                    "url": "https://m.163.com/news/article/L6R7S3SS0556MLOL.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 23,
+                    "title": "iOS 27今天上线，想用上新Siri得先过这几关",
+                    "url": "https://m.163.com/news/article/L6R6LN3O05561FZW.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 24,
+                    "title": "苹果正式发布iOS 27：Siri迎来重大AI升级 性能提升并新增多项智能功能",
+                    "url": "https://m.163.com/news/article/L6R5DSOV0511BLFD.html"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 34,
+                    "title": "Preserve HTML email colours, background images and selectable text in Gmail iOS dark mode, is it possible?",
+                    "url": "https://stackoverflow.com/questions/80002896/preserve-html-email-colours-background-images-and-selectable-text-in-gmail-ios"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 13,
+                    "title": "ios27正式版推送了 开始更新",
+                    "url": "https://www.nodeseek.com/post-929073-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "获取不到 ios 27 更新的看这里",
+                    "url": "https://www.nodeseek.com/post-929095-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 32,
+                    "title": "ios27建议升级吗？美版苹果12卡贴机，备用机",
+                    "url": "https://www.nodeseek.com/post-929117-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 36,
+                    "title": "更正：ios 27正式版 可以使用美区icloud",
+                    "url": "https://www.nodeseek.com/post-929110-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "ios27实测续航发热流畅度全部秒杀ios26",
+                    "url": "https://www.nodeseek.com/post-929163-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "ios 27 正式版 国行无法使用美区icloud",
+                    "url": "https://www.nodeseek.com/post-929093-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 42,
+                    "title": "IOS 27、macOS 27、iPadOS 27同步更新中",
+                    "url": "https://www.nodeseek.com/post-929152-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 4,
+                    "title": "苹果 iOS/iPadOS 27.0 正式版发布",
+                    "url": "https://www.ithome.com/1/002/329.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 2,
+                    "title": "苹果 iOS 27 RC 新增爱马仕 Hermès MagSafe 钱包专属吸附动画",
+                    "url": "https://www.ithome.com/1/002/350.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 4,
+                    "title": "苹果 iOS 27 家庭 AI 功能强制捆绑 2TB 及以上 iCloud+ 套餐：单摄像头月费 9.99 美元、五摄像头 59.99 美元，引 iPhone 用户不满",
+                    "url": "https://www.ithome.com/1/002/348.htm"
+                }
+            ]
+        },
+        {
             "word": "DeepSeek",
             "weight": 17,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -5789,7 +5948,7 @@
         {
             "word": "A股",
             "weight": 15,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "toutiao",
@@ -5948,7 +6107,7 @@
         {
             "word": "亚运会",
             "weight": 13,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6171,7 +6330,7 @@
         {
             "word": "罗永浩",
             "weight": 11,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -6266,7 +6425,7 @@
         {
             "word": "一汽",
             "weight": 11,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -6361,7 +6520,7 @@
         {
             "word": "演唱会",
             "weight": 10,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -6520,7 +6679,7 @@
         {
             "word": "机器人",
             "weight": 8,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -6647,7 +6806,7 @@
         {
             "word": "HYROX",
             "weight": 7,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -6710,7 +6869,7 @@
         {
             "word": "Agent",
             "weight": 23,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "github",
@@ -6901,7 +7060,7 @@
         {
             "word": "优化",
             "weight": 21,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -7078,157 +7237,6 @@
                     "rank": 44,
                     "title": "Windows 极限优化助手 2.9",
                     "url": "https://www.52pojie.cn/thread-2126667-1-1.html"
-                }
-            ]
-        },
-        {
-            "word": "iOS",
-            "weight": 18,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 49,
-                    "title": "哪些机型可以升级iOS27",
-                    "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%BA%9B%E6%9C%BA%E5%9E%8B%E5%8F%AF%E4%BB%A5%E5%8D%87%E7%BA%A7iOS27&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 5,
-                    "title": "iOS升级包版本显示Bug",
-                    "url": "https://s.weibo.com/weibo?q=iOS%E5%8D%87%E7%BA%A7%E5%8C%85%E7%89%88%E6%9C%AC%E6%98%BE%E7%A4%BABug&Refer=index"
-                },
-                {
-                    "channelId": "hackernews",
-                    "channelName": "Hacker News",
-                    "ranking": "Top Stories",
-                    "rank": 5,
-                    "title": "iOS 27, iPadOS 27, and macOS 27",
-                    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 5,
-                    "title": "来了来了！苹果终于发布 iOS 27 正式版系统",
-                    "url": "https://m.163.com/news/article/L6R2TTVN0511Q78R.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 11,
-                    "title": "iOS 27正式推送：别急着升，这几个大实话苹果没明说",
-                    "url": "https://m.163.com/news/article/L6R7S3SS0556MLOL.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 23,
-                    "title": "iOS 27今天上线，想用上新Siri得先过这几关",
-                    "url": "https://m.163.com/news/article/L6R6LN3O05561FZW.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 24,
-                    "title": "苹果正式发布iOS 27：Siri迎来重大AI升级 性能提升并新增多项智能功能",
-                    "url": "https://m.163.com/news/article/L6R5DSOV0511BLFD.html"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 34,
-                    "title": "Preserve HTML email colours, background images and selectable text in Gmail iOS dark mode, is it possible?",
-                    "url": "https://stackoverflow.com/questions/80002896/preserve-html-email-colours-background-images-and-selectable-text-in-gmail-ios"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 13,
-                    "title": "ios27正式版推送了 开始更新",
-                    "url": "https://www.nodeseek.com/post-929073-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "获取不到 ios 27 更新的看这里",
-                    "url": "https://www.nodeseek.com/post-929095-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 32,
-                    "title": "ios27建议升级吗？美版苹果12卡贴机，备用机",
-                    "url": "https://www.nodeseek.com/post-929117-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 36,
-                    "title": "更正：ios 27正式版 可以使用美区icloud",
-                    "url": "https://www.nodeseek.com/post-929110-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "ios27实测续航发热流畅度全部秒杀ios26",
-                    "url": "https://www.nodeseek.com/post-929163-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 3,
-                    "title": "ios 27 正式版 国行无法使用美区icloud",
-                    "url": "https://www.nodeseek.com/post-929093-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 42,
-                    "title": "IOS 27、macOS 27、iPadOS 27同步更新中",
-                    "url": "https://www.nodeseek.com/post-929152-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 4,
-                    "title": "苹果 iOS/iPadOS 27.0 正式版发布",
-                    "url": "https://www.ithome.com/1/002/329.htm"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 2,
-                    "title": "苹果 iOS 27 RC 新增爱马仕 Hermès MagSafe 钱包专属吸附动画",
-                    "url": "https://www.ithome.com/1/002/350.htm"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 4,
-                    "title": "苹果 iOS 27 家庭 AI 功能强制捆绑 2TB 及以上 iCloud+ 套餐：单摄像头月费 9.99 美元、五摄像头 59.99 美元，引 iPhone 用户不满",
-                    "url": "https://www.ithome.com/1/002/348.htm"
                 }
             ]
         },
@@ -7768,10 +7776,10 @@
     "flow": {
         "times": [
             "00:22",
-            "01:26",
-            "03:18",
+            "02:24",
+            "04:20",
             "05:27",
-            "07:18"
+            "07:25"
         ],
         "rows": [
             {

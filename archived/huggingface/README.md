@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-09-15 00:30:33
+> 更新时间：2026-09-15 07:25:22
 
 ## Trending Models
 
@@ -18,9 +18,9 @@
 12. [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)
 13. [WarmBloodAban/Minimax-h3_Singularity](https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity)
 14. [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-15. [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
-16. [tencent/AuK](https://huggingface.co/tencent/AuK)
-17. [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)
-18. [openai-community/gpt2](https://huggingface.co/openai-community/gpt2)
-19. [openbmb/MiniCPM5-2B-GGUF](https://huggingface.co/openbmb/MiniCPM5-2B-GGUF)
+15. [tencent/AuK](https://huggingface.co/tencent/AuK)
+16. [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
+17. [openai-community/gpt2](https://huggingface.co/openai-community/gpt2)
+18. [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)
+19. [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)
 20. [google-bert/bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)
