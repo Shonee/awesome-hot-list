@@ -1,6 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 09:37:33
+> 更新时间：2026-09-14 10:34:18
+
+## IT之家
+
+1. [2999 元起：小米平板 9/9 Pro 开启预售，骁龙 8s Gen 4/8 Gen 5 芯片](https://www.ithome.com/1/001/962.htm)
+2. [微软 Win11 拓展 Copilot 专属按钮，可映射右键菜单 / 右 Ctrl 选项](https://www.ithome.com/1/001/961.htm)
+3. [OPPO ColorOS 17 系统全新流体设计官宣，9 月 17 日发布](https://www.ithome.com/1/001/960.htm)
+4. [广汽集团回应紧急停牌，收市后将发布重要公告](https://www.ithome.com/1/001/959.htm)
+5. [马斯克：Grok 4.8 模型本周完成训练，参数量 2.5 万亿](https://www.ithome.com/1/001/947.htm)
 
 ## 少数派
 
@@ -12,19 +20,19 @@
 
 ## 爱范儿
 
-1. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [讲讲 Duo 作为科技产品命名的前世今生](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [刚刚，Apple Watch 成为了苹果最新的 AI 硬件](https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市](https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [讲讲 Duo 作为科技产品命名的前世今生](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [刚刚，Apple Watch 成为了苹果最新的 AI 硬件](https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
-1. [2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体](https://www.qbitai.com/2026/09/488672.html)
-2. [GitHub三榜第一背后，一个“专升本”工程师的十年](https://www.qbitai.com/2026/09/488519.html)
-3. [今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你](https://www.qbitai.com/2026/09/488447.html)
-4. [OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了](https://www.qbitai.com/2026/09/488380.html)
-5. [“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选](https://www.qbitai.com/2026/09/487860.html)
+1. [智谱提前剧透GLM-6.0：完全自训练方法公开了](https://www.qbitai.com/2026/09/488694.html)
+2. [2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体](https://www.qbitai.com/2026/09/488672.html)
+3. [GitHub三榜第一背后，一个“专升本”工程师的十年](https://www.qbitai.com/2026/09/488519.html)
+4. [今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你](https://www.qbitai.com/2026/09/488447.html)
+5. [OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了](https://www.qbitai.com/2026/09/488380.html)
 
 ## InfoQ
 
@@ -52,11 +60,11 @@
 
 ## Hacker News
 
-1. [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
-2. [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)
-3. [The Coming War on General Computation (2011)](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
-4. [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
-5. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+1. [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)
+2. [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+3. [AI is not a normal technology](https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology)
+4. [Writing a better reality: The case for optimistic sci-fi](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/)
+5. [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)
 
 ## AI News
 
