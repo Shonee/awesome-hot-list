@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-09-14 09:01:02
+> 更新时间：2026-09-14 09:37:12
 
 ## 热门问题
 
@@ -12,21 +12,21 @@
 6. [How to use isinstance on functools.cache cached classes?](https://stackoverflow.com/questions/80002840/how-to-use-isinstance-on-functools-cache-cached-classes)
 7. [Casting an out-of-range counter through DOUBLE clamps it to INT64 max](https://stackoverflow.com/questions/80002830/casting-an-out-of-range-counter-through-double-clamps-it-to-int64-max)
 8. [Grass super shiny when facing the sun](https://stackoverflow.com/questions/80002832/grass-super-shiny-when-facing-the-sun)
-9. [export-data rejects explicit ISO8601 although its default output is ISO8601](https://stackoverflow.com/questions/80002833/export-data-rejects-explicit-iso8601-although-its-default-output-is-iso8601)
-10. [CSV exported from a custom TIME column cannot be imported by Apache IoTDB](https://stackoverflow.com/questions/80002831/csv-exported-from-a-custom-time-column-cannot-be-imported-by-apache-iotdb)
+9. [CSV exported from a custom TIME column cannot be imported by Apache IoTDB](https://stackoverflow.com/questions/80002831/csv-exported-from-a-custom-time-column-cannot-be-imported-by-apache-iotdb)
+10. [export-data rejects explicit ISO8601 although its default output is ISO8601](https://stackoverflow.com/questions/80002833/export-data-rejects-explicit-iso8601-although-its-default-output-is-iso8601)
 11. [Foreground Service doesn't keep score of data](https://stackoverflow.com/questions/80002807/foreground-service-doesnt-keep-score-of-data)
 12. [Compiling and parsing After Effects JavaScript code](https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code)
 13. [Conditional scroll-timeline binding inside CSS Container Queries](https://stackoverflow.com/questions/80002805/conditional-scroll-timeline-binding-inside-css-container-queries)
 14. [I have a picture with a mapped area that by clicking on it opens a mp4 video in a highslide frame](https://stackoverflow.com/questions/80002824/i-have-a-picture-with-a-mapped-area-that-by-clicking-on-it-opens-a-mp4-video-in)
 15. [Why does the first database write take significantly longer than subsequent writes?](https://stackoverflow.com/questions/80002802/why-does-the-first-database-write-take-significantly-longer-than-subsequent-writ)
-16. [Is there any legitimate use case for JavaScript encodeURI()?](https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri)
-17. [Revised question: Frontend dockerfile, using docker-compose and getting "Error 404 Not Found - GET https://registry.npmjs.org/@repo%2feslint-config"](https://stackoverflow.com/questions/80002787/revised-question-frontend-dockerfile-using-docker-compose-and-getting-error-4)
+16. [Revised question: Frontend dockerfile, using docker-compose and getting "Error 404 Not Found - GET https://registry.npmjs.org/@repo%2feslint-config"](https://stackoverflow.com/questions/80002787/revised-question-frontend-dockerfile-using-docker-compose-and-getting-error-4)
+17. [Is there any legitimate use case for JavaScript encodeURI()?](https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri)
 18. [ImportError: cannot import name 'GradientBaseModelLLM' from 'llama_index.llms'](https://stackoverflow.com/questions/80002769/importerror-cannot-import-name-gradientbasemodelllm-from-llama-index-llms)
 19. [C: How to fold a constant before it is stringified?](https://stackoverflow.com/questions/80002793/c-how-to-fold-a-constant-before-it-is-stringified)
 20. [When should I use init and init_app function in steamworks crate?](https://stackoverflow.com/questions/80002790/when-should-i-use-init-and-init-app-function-in-steamworks-crate)
 21. [Generate foreign keys inside CREATE TABLE during migrations](https://stackoverflow.com/questions/80002785/generate-foreign-keys-inside-create-table-during-migrations)
-22. [How to ensure that only one document of a type is 'active' at a time](https://stackoverflow.com/questions/80002799/how-to-ensure-that-only-one-document-of-a-type-is-active-at-a-time)
-23. [Rork app unable to install app parsing problem how to fix](https://stackoverflow.com/questions/80002801/rork-app-unable-to-install-app-parsing-problem-how-to-fix)
+22. [Rork app unable to install app parsing problem how to fix](https://stackoverflow.com/questions/80002801/rork-app-unable-to-install-app-parsing-problem-how-to-fix)
+23. [How to ensure that only one document of a type is 'active' at a time](https://stackoverflow.com/questions/80002799/how-to-ensure-that-only-one-document-of-a-type-is-active-at-a-time)
 24. [Unexpected exit of echoserver.exe from wolfssl running on windows](https://stackoverflow.com/questions/80002798/unexpected-exit-of-echoserver-exe-from-wolfssl-running-on-windows)
 25. [rust glfw gl openGl draw a color line](https://stackoverflow.com/questions/80002773/rust-glfw-gl-opengl-draw-a-color-line)
 26. [How to declare optional Maven dependencies when building Spring Boot auto-configuration with Gradle?](https://stackoverflow.com/questions/80002796/how-to-declare-optional-maven-dependencies-when-building-spring-boot-auto-config)

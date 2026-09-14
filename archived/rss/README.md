@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 09:02:16
+> 更新时间：2026-09-14 09:37:33
 
 ## 少数派
 
@@ -52,11 +52,11 @@
 
 ## Hacker News
 
-1. [The Coming War on General Computation (2011)](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
-2. [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
-3. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
-4. [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)
-5. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+1. [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+2. [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)
+3. [The Coming War on General Computation (2011)](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
+4. [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+5. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
 
 ## AI News
 
