@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-14 13:23:42",
+    "generatedAt": "2026-09-14 13:31:05",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5572,7 +5572,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-14 11:26:21",
+            "fetchedAt": "2026-09-14 13:31:05",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5588,8 +5588,8 @@
                             "rank": 1,
                             "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
                             "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-                            "hot": 550,
-                            "description": "245 comments",
+                            "hot": 683,
+                            "description": "295 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 21:06:13 UTC"
                         },
@@ -5597,8 +5597,8 @@
                             "rank": 2,
                             "title": "Why is Google still serving dodgy ads?",
                             "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-                            "hot": 646,
-                            "description": "303 comments",
+                            "hot": 711,
+                            "description": "328 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 17:37:44 UTC"
                         },
@@ -5606,8 +5606,8 @@
                             "rank": 3,
                             "title": "Spaceships (Reverse Asteroid)",
                             "url": "https://spaceships.treybastian.com/",
-                            "hot": 56,
-                            "description": "15 comments",
+                            "hot": 119,
+                            "description": "22 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-10 04:44:32 UTC"
                         },
@@ -5615,154 +5615,154 @@
                             "rank": 4,
                             "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
                             "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-                            "hot": 111,
-                            "description": "57 comments",
+                            "hot": 165,
+                            "description": "76 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 21:47:04 UTC"
                         },
                         {
                             "rank": 5,
-                            "title": "Show HN: Is It Greg?",
-                            "url": "https://github.com/antoineleclair/is-it-greg",
-                            "hot": 36,
-                            "description": "11 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 01:58:41 UTC"
-                        },
-                        {
-                            "rank": 6,
                             "title": "Open-Source AI and Open Models Reading List",
                             "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-                            "hot": 36,
-                            "description": "2 comments",
+                            "hot": 66,
+                            "description": "7 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 00:22:51 UTC"
                         },
                         {
+                            "rank": 6,
+                            "title": "Apple's Dimensional Drawings",
+                            "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+                            "hot": 101,
+                            "description": "25 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 00:11:21 UTC"
+                        },
+                        {
                             "rank": 7,
+                            "title": "The case against JPEG XL",
+                            "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+                            "hot": 76,
+                            "description": "100 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 01:02:37 UTC"
+                        },
+                        {
+                            "rank": 8,
                             "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
                             "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-                            "hot": 395,
-                            "description": "179 comments",
+                            "hot": 409,
+                            "description": "183 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 14:28:36 UTC"
                         },
                         {
-                            "rank": 8,
-                            "title": "Julia 1.13 highlights",
-                            "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-                            "hot": 170,
-                            "description": "12 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-10 12:27:25 UTC"
-                        },
-                        {
                             "rank": 9,
-                            "title": "Data collected by cars and sold to third parties",
-                            "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-                            "hot": 330,
-                            "description": "171 comments",
+                            "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
+                            "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
+                            "hot": 22,
+                            "description": "1 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 13:45:08 UTC"
+                            "publishedAt": "2026-09-11 17:38:11 UTC"
                         },
                         {
                             "rank": 10,
                             "title": "The Malicious Use of Artificial Intelligence",
                             "url": "https://arxiv.org/abs/1802.07228",
-                            "hot": 13,
-                            "description": "4 comments",
+                            "hot": 32,
+                            "description": "7 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 01:22:35 UTC"
                         },
                         {
                             "rank": 11,
-                            "title": "Mullenweg has returned as CEO after attempted board ouster",
-                            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-                            "hot": 65,
-                            "description": "120 comments",
+                            "title": "Julia 1.13 highlights",
+                            "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+                            "hot": 185,
+                            "description": "16 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 20:19:06 UTC"
+                            "publishedAt": "2026-09-10 12:27:25 UTC"
                         },
                         {
                             "rank": 12,
+                            "title": "Data collected by cars and sold to third parties",
+                            "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+                            "hot": 360,
+                            "description": "192 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 13:45:08 UTC"
+                        },
+                        {
+                            "rank": 13,
+                            "title": "Writing a better reality: The case for optimistic sci-fi",
+                            "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+                            "hot": 43,
+                            "description": "18 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 00:27:11 UTC"
+                        },
+                        {
+                            "rank": 14,
                             "title": "Ask HN: What are you working on? (September 2026)",
                             "url": "https://news.ycombinator.com/item?id=49686380",
-                            "hot": 102,
-                            "description": "233 comments",
+                            "hot": 122,
+                            "description": "323 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 17:31:38 UTC"
                         },
                         {
-                            "rank": 13,
+                            "rank": 15,
+                            "title": "Mullenweg has returned as CEO after attempted board ouster",
+                            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+                            "hot": 93,
+                            "description": "142 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 20:19:06 UTC"
+                        },
+                        {
+                            "rank": 16,
                             "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
                             "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-                            "hot": 68,
+                            "hot": 75,
                             "description": "8 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 20:33:18 UTC"
                         },
                         {
-                            "rank": 14,
-                            "title": "Apple's Dimensional Drawings",
-                            "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-                            "hot": 43,
-                            "description": "6 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 00:11:21 UTC"
-                        },
-                        {
-                            "rank": 15,
-                            "title": "Writing a better reality: The case for optimistic sci-fi",
-                            "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-                            "hot": 13,
-                            "description": "6 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 00:27:11 UTC"
-                        },
-                        {
-                            "rank": 16,
+                            "rank": 17,
                             "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
                             "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-                            "hot": 37,
-                            "description": "7 comments",
+                            "hot": 49,
+                            "description": "13 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-10 19:39:13 UTC"
                         },
                         {
-                            "rank": 17,
-                            "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-                            "url": "https://bensimms.moe/reverse-engineering-scooter/",
-                            "hot": 395,
-                            "description": "91 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-10 03:32:04 UTC"
-                        },
-                        {
                             "rank": 18,
-                            "title": "The Coming War on General Computation (2011)",
-                            "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-                            "hot": 58,
-                            "description": "14 comments",
+                            "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+                            "url": "https://eterdb.com/",
+                            "hot": 12,
+                            "description": "2 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 23:54:55 UTC"
+                            "publishedAt": "2026-09-10 15:41:36 UTC"
                         },
                         {
                             "rank": 19,
-                            "title": "Making Startups Powerful",
-                            "url": "https://paulgraham.com/powerful.html",
-                            "hot": 176,
-                            "description": "77 comments",
+                            "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+                            "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+                            "hot": 235,
+                            "description": "54 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 14:09:53 UTC"
+                            "publishedAt": "2026-09-13 12:30:15 UTC"
                         },
                         {
                             "rank": 20,
-                            "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-                            "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-                            "hot": 218,
-                            "description": "50 comments",
+                            "title": "Making Startups Powerful",
+                            "url": "https://paulgraham.com/powerful.html",
+                            "hot": 188,
+                            "description": "84 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 12:30:15 UTC"
+                            "publishedAt": "2026-09-13 14:09:53 UTC"
                         }
                     ]
                 }

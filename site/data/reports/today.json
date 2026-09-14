@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14 13:24:11",
-    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，成都一越野车高架上坠落致1死1伤紧随其后。当前覆盖 33 个有效渠道，共形成 506 个榜单时间切片；发现 72 个跨渠道重复热点。",
+    "generatedAt": "2026-09-14 13:31:28",
+    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，成都一越野车高架上坠落致1死1伤紧随其后。当前覆盖 33 个有效渠道，共形成 507 个榜单时间切片；发现 72 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2933,
+        "deduplicated": 2935,
         "resonance": 72,
         "maxRise": 58,
-        "slices": 506,
+        "slices": 507,
         "coverage": 100,
         "samplingCoverage": 77
     },
@@ -135,6 +135,37 @@
                     "rank": 6,
                     "title": "成都一越野车高架上坠落致1死1伤，警方通报",
                     "url": "https://news.sina.com.cn/c/2026-09-14/doc-inirtwik4090283.shtml"
+                }
+            ]
+        },
+        {
+            "title": "The case against JPEG XL",
+            "source": "跨渠道",
+            "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+            "hits": [
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 7,
+                    "title": "The case against JPEG XL",
+                    "url": "https://giannirosato.com/blog/post/case-against-jxl/"
+                },
+                {
+                    "channelId": "lobsters",
+                    "channelName": "Lobsters",
+                    "ranking": "Hottest",
+                    "rank": 7,
+                    "title": "The case against JPEG XL",
+                    "url": "https://giannirosato.com/blog/post/case-against-jxl"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "Hacker News",
+                    "rank": 1,
+                    "title": "The case against JPEG XL",
+                    "url": "https://giannirosato.com/blog/post/case-against-jxl/"
                 }
             ]
         },
@@ -538,51 +569,12 @@
                     "url": "https://www.douyin.com/search/%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChina%20GT"
                 }
             ]
-        },
-        {
-            "title": "Hyrox回应选手失禁完赛",
-            "source": "跨渠道",
-            "url": "https://search.bilibili.com/all?keyword=Hyrox%E5%9B%9E%E5%BA%94%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E5%AE%8C%E8%B5%9B",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 8,
-                    "title": "Hyrox回应选手失禁完赛",
-                    "url": "https://search.bilibili.com/all?keyword=Hyrox%E5%9B%9E%E5%BA%94%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E5%AE%8C%E8%B5%9B"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 8,
-                    "title": "HYROX回应女选手失禁夺冠",
-                    "url": "https://www.baidu.com/s?wd=HYROX%E5%9B%9E%E5%BA%94%E5%A5%B3%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 19,
-                    "title": "Hyrox回应女选手失禁",
-                    "url": "https://s.weibo.com/weibo?q=Hyrox%E5%9B%9E%E5%BA%94%E5%A5%B3%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81&Refer=index"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "Hyrox回应选手失禁",
-                    "url": "https://www.toutiao.com/trending/7684645559630626857/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684645559630626857%22%2C%22hot_board_impr_id%22%3A%2220260914112809EF7C3A512617ABF91889%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22Hyrox%E5%9B%9E%E5%BA%94%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%22%7D&rank=&style_id=40132&topic_id=7684645559630626857"
-                }
-            ]
         }
     ],
     "words": [
         {
             "word": "AI",
-            "weight": 190,
+            "weight": 191,
             "tone": "hot",
             "hits": [
                 {
@@ -829,7 +821,7 @@
         },
         {
             "word": "ai",
-            "weight": 190,
+            "weight": 191,
             "tone": "teal",
             "hits": [
                 {
@@ -9289,9 +9281,9 @@
         "times": [
             "00:20",
             "04:19",
-            "07:18",
-            "10:34",
-            "13:23"
+            "09:00",
+            "11:26",
+            "13:31"
         ],
         "rows": [
             {
@@ -9784,6 +9776,41 @@
                 "delta": null
             },
             {
+                "title": "The case against JPEG XL",
+                "source": "跨渠道",
+                "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+                "query": "The case against JPEG XL",
+                "hits": [
+                    {
+                        "channelId": "hackernews",
+                        "channelName": "Hacker News",
+                        "ranking": "Top Stories",
+                        "rank": 7,
+                        "title": "The case against JPEG XL",
+                        "url": "https://giannirosato.com/blog/post/case-against-jxl/"
+                    },
+                    {
+                        "channelId": "lobsters",
+                        "channelName": "Lobsters",
+                        "ranking": "Hottest",
+                        "rank": 7,
+                        "title": "The case against JPEG XL",
+                        "url": "https://giannirosato.com/blog/post/case-against-jxl"
+                    },
+                    {
+                        "channelId": "rss",
+                        "channelName": "RSS",
+                        "ranking": "Hacker News",
+                        "rank": 1,
+                        "title": "The case against JPEG XL",
+                        "url": "https://giannirosato.com/blog/post/case-against-jxl/"
+                    }
+                ],
+                "currentRank": 3,
+                "previousRank": null,
+                "delta": null
+            },
+            {
                 "title": "人民日报曝光后，苏州市委表态：严查！",
                 "source": "跨渠道",
                 "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%90%8E+%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%94%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%A5%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
@@ -9814,7 +9841,7 @@
                         "url": "https://news.sina.com.cn/c/2026-09-13/doc-inirsuvw4459532.shtml"
                     }
                 ],
-                "currentRank": 3,
+                "currentRank": 4,
                 "previousRank": null,
                 "delta": null
             },
@@ -9849,7 +9876,7 @@
                         "url": "https://www.baidu.com/s?wd=%E6%B8%85%E5%8C%97%E5%89%91%E6%A1%A5%E5%8D%9A%E5%A3%AB%E6%B6%8C%E5%85%A5%E4%B8%AD%E5%AD%A6%E5%BD%93%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news"
                     }
                 ],
-                "currentRank": 5,
+                "currentRank": 6,
                 "previousRank": null,
                 "delta": null
             },
@@ -9924,7 +9951,7 @@
                         "url": "https://www.toutiao.com/trending/7684800478262149139/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684800478262149139%22%2C%22hot_board_impr_id%22%3A%2220260914132300E22759F8BD0137F23D7C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF%22%7D&rank=&style_id=40132&topic_id=7684800478262149139"
                     }
                 ],
-                "currentRank": 6,
+                "currentRank": 7,
                 "previousRank": null,
                 "delta": null
             },
@@ -9967,7 +9994,7 @@
                         "url": "https://www.kuaishou.com/short-video/3xbh26bbaniwrrk"
                     }
                 ],
-                "currentRank": 7,
+                "currentRank": 8,
                 "previousRank": null,
                 "delta": null
             },
@@ -10000,49 +10027,6 @@
                         "rank": 15,
                         "title": "多车队宣布永久退出China GT",
                         "url": "https://www.douyin.com/search/%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BAChina%20GT"
-                    }
-                ],
-                "currentRank": 9,
-                "previousRank": null,
-                "delta": null
-            },
-            {
-                "title": "Hyrox回应选手失禁完赛",
-                "source": "跨渠道",
-                "url": "https://search.bilibili.com/all?keyword=Hyrox%E5%9B%9E%E5%BA%94%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E5%AE%8C%E8%B5%9B",
-                "query": "Hyrox回应选手失禁完赛",
-                "hits": [
-                    {
-                        "channelId": "bilibili",
-                        "channelName": "哔哩哔哩",
-                        "ranking": "热门搜索",
-                        "rank": 8,
-                        "title": "Hyrox回应选手失禁完赛",
-                        "url": "https://search.bilibili.com/all?keyword=Hyrox%E5%9B%9E%E5%BA%94%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E5%AE%8C%E8%B5%9B"
-                    },
-                    {
-                        "channelId": "baidu",
-                        "channelName": "百度热搜",
-                        "ranking": "实时热搜",
-                        "rank": 8,
-                        "title": "HYROX回应女选手失禁夺冠",
-                        "url": "https://www.baidu.com/s?wd=HYROX%E5%9B%9E%E5%BA%94%E5%A5%B3%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E5%A4%BA%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news"
-                    },
-                    {
-                        "channelId": "weibo",
-                        "channelName": "微博",
-                        "ranking": "微博热榜",
-                        "rank": 19,
-                        "title": "Hyrox回应女选手失禁",
-                        "url": "https://s.weibo.com/weibo?q=Hyrox%E5%9B%9E%E5%BA%94%E5%A5%B3%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81&Refer=index"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 10,
-                        "title": "Hyrox回应选手失禁",
-                        "url": "https://www.toutiao.com/trending/7684645559630626857/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684645559630626857%22%2C%22hot_board_impr_id%22%3A%2220260914112809EF7C3A512617ABF91889%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22Hyrox%E5%9B%9E%E5%BA%94%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%22%7D&rank=&style_id=40132&topic_id=7684645559630626857"
                     }
                 ],
                 "currentRank": 10,
@@ -10138,9 +10122,9 @@
                         "url": "https://www.toutiao.com/trending/7684800838530809897/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684800838530809897%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AE%E8%A7%86%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7684800838530809897"
                     }
                 ],
-                "currentRank": 4,
+                "currentRank": 5,
                 "previousRank": 1,
-                "delta": -3
+                "delta": -4
             },
             {
                 "title": "小七龄童去世",
@@ -10253,9 +10237,9 @@
                         "url": "https://www.toutiao.com/trending/7684843687422987782/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684843687422987782%22%2C%22hot_board_impr_id%22%3A%222026091410333798F3A9A59A67EDEB03F9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E4%B8%83%E9%BE%84%E7%AB%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7684843687422987782"
                     }
                 ],
-                "currentRank": 8,
+                "currentRank": 9,
                 "previousRank": 2,
-                "delta": -6
+                "delta": -7
             }
         ],
         "rising": [],
@@ -10347,9 +10331,9 @@
                         "url": "https://www.toutiao.com/trending/7684800838530809897/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684800838530809897%22%2C%22hot_board_impr_id%22%3A%2220260914071735EB5AFB559779146C51A2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AE%E8%A7%86%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7684800838530809897"
                     }
                 ],
-                "currentRank": 4,
+                "currentRank": 5,
                 "previousRank": 1,
-                "delta": -3
+                "delta": -4
             },
             {
                 "title": "小七龄童去世",
@@ -10462,9 +10446,9 @@
                         "url": "https://www.toutiao.com/trending/7684843687422987782/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684843687422987782%22%2C%22hot_board_impr_id%22%3A%222026091410333798F3A9A59A67EDEB03F9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E4%B8%83%E9%BE%84%E7%AB%A5%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7684843687422987782"
                     }
                 ],
-                "currentRank": 8,
+                "currentRank": 9,
                 "previousRank": 2,
-                "delta": -6
+                "delta": -7
             }
         ],
         "dropped": [
