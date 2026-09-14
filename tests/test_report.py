@@ -1,9 +1,155 @@
 import unittest
+from datetime import datetime
+from types import SimpleNamespace
+from unittest.mock import patch
+from zoneinfo import ZoneInfo
 
-from src.hotlist.report import _extract_keywords, build_report_from_rows
+from src.hotlist.report import (
+    _extract_keywords,
+    add_day_comparison,
+    build_report,
+    build_report_from_rows,
+    load_rows,
+)
 
 
 class ReportBuilderTests(unittest.TestCase):
+    def test_day_comparison_matches_rewrites_and_classifies_top_ten_movement(self):
+        current = {
+            "date": "2026-09-06",
+            "metrics": {"slices": 1},
+            "topTopics": [
+                {"title": "今日新增热点", "url": "https://example.com/new", "hits": []},
+                {"title": "西藏泥石流造成31人遇难 531人失联", "url": "https://example.com/rising", "hits": []},
+                {"title": "位置保持不变", "url": "https://example.com/steady", "hits": []},
+                {"title": "排名下降热点", "url": "https://example.com/falling", "hits": []},
+            ],
+        }
+        previous = {
+            "date": "2026-09-05",
+            "metrics": {"slices": 1},
+            "topTopics": [
+                {"title": "排名下降热点", "url": "https://example.com/falling", "hits": []},
+                {"title": "昨日掉榜热点", "url": "https://example.com/dropped", "hits": []},
+                {"title": "位置保持不变", "url": "https://example.com/steady", "hits": []},
+                {"title": "昨日占位热点", "url": "https://example.com/placeholder", "hits": []},
+                {"title": "西藏泥石流31人遇难531人失联", "url": "https://example.com/rising-old", "hits": []},
+            ],
+        }
+
+        add_day_comparison(current, previous)
+        comparison = current["dayComparison"]
+
+        self.assertEqual(
+            comparison["counts"],
+            {"new": 1, "continued": 3, "rising": 1, "falling": 1, "dropped": 2},
+        )
+        self.assertEqual(comparison["rising"][0]["title"], "西藏泥石流造成31人遇难 531人失联")
+        self.assertEqual(comparison["rising"][0]["previousRank"], 5)
+        self.assertEqual(comparison["rising"][0]["currentRank"], 2)
+        self.assertEqual(comparison["rising"][0]["delta"], 3)
+        self.assertEqual(comparison["falling"][0]["previousRank"], 1)
+        self.assertEqual(comparison["falling"][0]["currentRank"], 4)
+        self.assertEqual(comparison["falling"][0]["delta"], -3)
+
+    def test_build_report_always_compares_with_the_previous_calendar_day(self):
+        reports = {
+            "2026-09-05": {
+                "schemaVersion": 1,
+                "date": "2026-09-05",
+                "metrics": {"slices": 1},
+                "topTopics": [{"title": "昨日热点", "url": "https://example.com/old", "hits": []}],
+            },
+            "2026-09-06": {
+                "schemaVersion": 1,
+                "date": "2026-09-06",
+                "metrics": {"slices": 1},
+                "topTopics": [{"title": "今日热点", "url": "https://example.com/new", "hits": []}],
+            },
+        }
+
+        with (
+            patch("src.hotlist.report.load_rows", side_effect=lambda date: {"date": date}),
+            patch("src.hotlist.report.build_report_from_rows", side_effect=lambda date, _: reports[date]),
+        ):
+            report = build_report("2026-09-06")
+
+        self.assertEqual(report["dayComparison"]["baselineDate"], "2026-09-05")
+        self.assertEqual(report["dayComparison"]["counts"]["new"], 1)
+        self.assertEqual(report["dayComparison"]["counts"]["dropped"], 1)
+
+    def test_report_excludes_channels_marked_out_of_report(self):
+        rows = {
+            "weibo": [
+                {"index": 1, "title": "公开热点", "url": "https://w.example/1"},
+            ],
+            "fuliba": [
+                {"index": 1, "title": "隐藏内容", "url": "https://f.example/1"},
+            ],
+        }
+
+        def definition(channel_id):
+            return SimpleNamespace(
+                channel_id=channel_id,
+                name=channel_id,
+                enabled_by_default=True,
+                include_in_report=channel_id != "fuliba",
+            )
+
+        with (
+            patch("src.hotlist.report.CHANNEL_ORDER", ("weibo", "fuliba")),
+            patch("src.hotlist.report.get_channel", side_effect=definition),
+            patch("src.hotlist.report.iter_channels", return_value=map(definition, ("weibo", "fuliba"))),
+        ):
+            report = build_report_from_rows("2026-09-04", rows)
+
+        self.assertEqual(report["metrics"]["deduplicated"], 1)
+        self.assertEqual(report["topTopics"][0]["title"], "公开热点")
+
+    def test_load_rows_does_not_read_channels_excluded_from_reports(self):
+        definitions = {
+            "weibo": SimpleNamespace(include_in_report=True),
+            "fuliba": SimpleNamespace(include_in_report=False),
+        }
+
+        with (
+            patch("src.hotlist.report.CHANNEL_ORDER", ("weibo", "fuliba")),
+            patch("src.hotlist.report.get_channel", side_effect=definitions.__getitem__),
+            patch("src.hotlist.report.archive_path", side_effect=lambda channel_id, *_: f"{channel_id}.csv"),
+            patch("src.hotlist.report.read_csv", return_value=[]) as read_rows,
+        ):
+            rows = load_rows("2026-09-04")
+
+        self.assertEqual(rows, {"weibo": []})
+        read_rows.assert_called_once_with("weibo.csv")
+
+    def test_topic_ranking_uses_position_within_each_source_list(self):
+        rows = {
+            "weibo": [
+                {
+                    "index": rank,
+                    "title": "长榜高百分位" if rank == 5 else "长榜占位",
+                    "url": f"https://w.example/{rank}",
+                    "datetime": "2026-09-04 12:00:00",
+                }
+                for rank in range(1, 101)
+            ],
+            "douyin": [
+                {
+                    "index": rank,
+                    "title": "短榜绝对名次靠前" if rank == 2 else "短榜占位",
+                    "url": f"https://d.example/{rank}",
+                    "datetime": "2026-09-04 12:00:00",
+                }
+                for rank in range(1, 11)
+            ],
+        }
+
+        report = build_report_from_rows("2026-09-04", rows)
+        topic_titles = [item["title"] for item in report["topTopics"]]
+
+        self.assertLess(topic_titles.index("长榜高百分位"), topic_titles.index("短榜绝对名次靠前"))
+
     def test_cross_channel_topic_outranks_repeated_single_channel_topic(self):
         rows = {
             "acfun": [
@@ -178,6 +324,54 @@ class ReportBuilderTests(unittest.TestCase):
         report = build_report_from_rows("2026-09-04", rows)
 
         self.assertLessEqual(report["metrics"]["coverage"], 100)
+
+    def test_sampling_coverage_uses_channel_frequency_and_unique_collection_times(self):
+        rows = {
+            "hourly": [
+                {"index": 1, "title": "早间热点", "url": "https://example.com/1", "datetime": "2026-09-04 08:00:00"},
+                {"index": 1, "title": "午间热点", "url": "https://example.com/2", "datetime": "2026-09-04 12:00:00"},
+            ],
+            "special": [
+                {"index": 1, "title": "低频热点", "url": "https://example.com/3", "datetime": "2026-09-04 12:00:00"},
+            ],
+        }
+
+        def definition(channel_id):
+            return SimpleNamespace(
+                channel_id=channel_id,
+                name=channel_id,
+                enabled_by_default=True,
+                include_in_report=True,
+                frequency_minutes=60 if channel_id == "hourly" else 360,
+            )
+
+        with (
+            patch("src.hotlist.report.CHANNEL_ORDER", ("hourly", "special")),
+            patch("src.hotlist.report.get_channel", side_effect=definition),
+            patch("src.hotlist.report.iter_channels", return_value=map(definition, ("hourly", "special"))),
+            patch(
+                "src.hotlist.report.project_now",
+                return_value=datetime(2026, 9, 4, 12, 0, tzinfo=ZoneInfo("Asia/Shanghai")),
+            ),
+        ):
+            report = build_report_from_rows("2026-09-04", rows)
+
+        self.assertEqual(report["metrics"]["coverage"], 100)
+        self.assertEqual(report["metrics"]["samplingCoverage"], 19)
+
+    def test_topic_score_prefers_a_topic_present_in_the_latest_slice(self):
+        rows = {
+            "weibo": [
+                {"index": 1, "title": "AAA早已掉榜热点", "url": "https://example.com/old", "datetime": "2026-09-04 09:00:00"},
+                {"index": 1, "title": "中间占位热点", "url": "https://example.com/mid", "datetime": "2026-09-04 10:00:00"},
+                {"index": 1, "title": "ZZZ仍在榜热点", "url": "https://example.com/current", "datetime": "2026-09-04 11:00:00"},
+            ]
+        }
+
+        report = build_report_from_rows("2026-09-04", rows)
+
+        titles = [topic["title"] for topic in report["topTopics"]]
+        self.assertLess(titles.index("ZZZ仍在榜热点"), titles.index("AAA早已掉榜热点"))
 
 
 if __name__ == "__main__":

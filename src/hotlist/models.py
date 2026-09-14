@@ -78,6 +78,7 @@ class ChannelSnapshot:
     status: str = "ok"
     error: str = ""
     schema_version: int = 1
+    warnings: List[str] = field(default_factory=list)
 
     def to_dict(self) -> dict:
         return {
@@ -88,6 +89,7 @@ class ChannelSnapshot:
             "fetchedAt": self.fetched_at,
             "status": self.status,
             "error": self.error,
+            "warnings": list(self.warnings),
             "rankings": [ranking.to_dict() for ranking in self.rankings],
         }
 

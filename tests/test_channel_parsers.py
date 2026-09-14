@@ -12,6 +12,7 @@ from src.hotlist.channels.kr36 import parse_hot as parse_36kr
 from src.hotlist.channels.linuxdo import parse_topics as parse_linuxdo
 from src.hotlist.channels.nodeseek import parse_topics as parse_nodeseek
 from src.hotlist.channels.pojie52 import parse_hot_threads as parse_pojie52
+from src.hotlist.channels.qqnews import parse_hot_ranking as parse_qqnews_hot_ranking
 from src.hotlist.channels.qqnews import parse_news as parse_qqnews
 from src.hotlist.channels.rss import parse_feed as parse_rss
 from src.hotlist.channels.stackoverflow import parse_questions
@@ -186,6 +187,33 @@ class MarkupParserTests(unittest.TestCase):
         html = '<a href="https://news.qq.com/rain/a/20260906A">腾讯新闻标题内容</a>'
         items = parse_qqnews(html)
         self.assertEqual(items[0].title, "腾讯新闻标题内容")
+
+    def test_qqnews_hot_ranking_parser_reads_official_payload(self):
+        payload = {
+            "idlist": [
+                {
+                    "newslist": [
+                        {"title": "榜单说明"},
+                        {
+                            "title": "腾讯官方热点",
+                            "url": "https://view.inews.qq.com/a/demo",
+                            "abstract": "热点摘要",
+                            "time": "2026-09-14 08:00:00",
+                            "hotEvent": {"ranking": 3, "hotScore": 98765},
+                        },
+                    ]
+                }
+            ]
+        }
+
+        items = parse_qqnews_hot_ranking(payload)
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].rank, 3)
+        self.assertEqual(items[0].title, "腾讯官方热点")
+        self.assertEqual(items[0].hot, 98765)
+        self.assertEqual(items[0].description, "热点摘要")
+        self.assertEqual(items[0].published_at, "2026-09-14 08:00:00")
 
     def test_rss_parser_supports_rss_and_atom_links(self):
         rss = """<?xml version="1.0"?><rss><channel><title>测试源</title><item>

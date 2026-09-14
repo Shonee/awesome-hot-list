@@ -2,11 +2,12 @@
 
 import re
 from collections import Counter, defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta
+from math import ceil
 from typing import Dict, Iterable, List, Mapping
 
 from src.utils.file_utils import archive_path, read_csv
-from src.utils.time_utils import now_string
+from src.utils.time_utils import now_string, project_now
 
 from .registry import CHANNEL_ORDER, get_channel, iter_channels
 
@@ -40,6 +41,24 @@ def _rank(value) -> int:
     return value if value > 0 else 0
 
 
+def _included_channel_ids() -> tuple[str, ...]:
+    """Return report channels while remaining compatible with older registries."""
+    return tuple(
+        channel_id
+        for channel_id in CHANNEL_ORDER
+        if getattr(get_channel(channel_id), "include_in_report", True)
+    )
+
+
+def _rank_percentile(rank: int, ranking_length: int) -> float:
+    """Normalize a rank to 0..1 so differently sized lists are comparable."""
+    if rank <= 0:
+        return 0.0
+    if ranking_length <= 1:
+        return 1.0
+    return max(0.0, min(1.0, 1 - (rank - 1) / (ranking_length - 1)))
+
+
 def _normalize_title(title: str) -> str:
     return re.sub(r"[^0-9a-z\u4e00-\u9fff]+", "", str(title or "").lower())
 
@@ -61,6 +80,81 @@ def _similar_title(left: str, right: str) -> bool:
     if shared < 5:
         return False
     return shared / len(left_terms | right_terms) >= 0.56
+
+
+def _comparison_topic(topic: dict, current_rank=None, previous_rank=None) -> dict:
+    current_rank = _rank(current_rank) or None
+    previous_rank = _rank(previous_rank) or None
+    return {
+        "title": topic.get("title") or "",
+        "source": topic.get("source") or "",
+        "url": topic.get("url") or "",
+        "query": topic.get("title") or "",
+        "hits": topic.get("hits") or [],
+        "currentRank": current_rank,
+        "previousRank": previous_rank,
+        "delta": previous_rank - current_rank if current_rank and previous_rank else None,
+    }
+
+
+def add_day_comparison(report: dict, previous_report: dict) -> dict:
+    """Compare two Top-10 reports using the same fuzzy title matching as clustering."""
+    current_topics = list(report.get("topTopics", []))[:10]
+    previous_topics = list(previous_report.get("topTopics", []))[:10]
+    previous_keys = [_normalize_title(topic.get("title")) for topic in previous_topics]
+    unmatched_previous = set(range(len(previous_topics)))
+    new_topics = []
+    continued_topics = []
+    rising_topics = []
+    falling_topics = []
+
+    for current_index, topic in enumerate(current_topics):
+        current_key = _normalize_title(topic.get("title"))
+        exact = [
+            index
+            for index in unmatched_previous
+            if current_key and current_key == previous_keys[index]
+        ]
+        similar = [
+            index
+            for index in unmatched_previous
+            if current_key and _similar_title(current_key, previous_keys[index])
+        ]
+        candidates = exact or similar
+        if not candidates:
+            new_topics.append(_comparison_topic(topic, current_index + 1))
+            continue
+
+        previous_index = min(candidates, key=lambda index: abs(index - current_index))
+        unmatched_previous.remove(previous_index)
+        item = _comparison_topic(topic, current_index + 1, previous_index + 1)
+        continued_topics.append(item)
+        if item["delta"] > 0:
+            rising_topics.append(item)
+        elif item["delta"] < 0:
+            falling_topics.append(item)
+
+    dropped_topics = [
+        _comparison_topic(topic, previous_rank=index + 1)
+        for index, topic in enumerate(previous_topics)
+        if index in unmatched_previous
+    ]
+    report["dayComparison"] = {
+        "baselineDate": previous_report.get("date") or "",
+        "counts": {
+            "new": len(new_topics),
+            "continued": len(continued_topics),
+            "rising": len(rising_topics),
+            "falling": len(falling_topics),
+            "dropped": len(dropped_topics),
+        },
+        "new": new_topics,
+        "continued": continued_topics,
+        "rising": rising_topics,
+        "falling": falling_topics,
+        "dropped": dropped_topics,
+    }
+    return report
 
 
 def _merge_topic_groups(grouped: Mapping[str, List[tuple]]) -> Dict[str, List[tuple]]:
@@ -97,6 +191,52 @@ def _sample(values: List[str], limit: int = 5) -> List[str]:
         return values
     indexes = {round(index * (len(values) - 1) / (limit - 1)) for index in range(limit)}
     return [values[index] for index in sorted(indexes)]
+
+
+def _topic_freshness(sample_keys: set, ranking_slices: Mapping[tuple, set]) -> float:
+    """Measure whether a topic still appears in each source's latest sample."""
+    values = []
+    ranking_keys = {sample[:2] for sample in sample_keys}
+    for ranking_key in ranking_keys:
+        timeline = sorted(ranking_slices[ranking_key])
+        topic_times = {sample[2] for sample in sample_keys if sample[:2] == ranking_key}
+        if not timeline or not topic_times:
+            continue
+        if len(timeline) == 1:
+            values.append(1.0)
+            continue
+        latest_index = timeline.index(max(topic_times))
+        values.append(latest_index / (len(timeline) - 1))
+    return sum(values) / max(1, len(values))
+
+
+def _sampling_coverage(date: str, records: List[tuple], enabled_channels: List[object]) -> int:
+    """Return successful scheduled samples as a percentage of expected samples."""
+    try:
+        report_date = datetime.strptime(date, "%Y-%m-%d").date()
+    except ValueError:
+        return 0
+
+    now = project_now()
+    if report_date > now.date():
+        elapsed_minutes = 0
+    elif report_date == now.date():
+        elapsed_minutes = now.hour * 60 + now.minute + 1
+    else:
+        elapsed_minutes = 24 * 60
+
+    actual_times = defaultdict(set)
+    for channel_id, row in records:
+        actual_times[channel_id].add(_time_key(row, date))
+
+    expected_total = 0
+    actual_total = 0
+    for channel in enabled_channels:
+        interval = max(1, int(getattr(channel, "frequency_minutes", 60)))
+        expected = ceil(elapsed_minutes / interval) if elapsed_minutes else 0
+        expected_total += expected
+        actual_total += min(expected, len(actual_times[channel.channel_id]))
+    return round(actual_total / max(1, expected_total) * 100)
 
 
 def _hit(channel_id: str, row: dict) -> dict:
@@ -219,10 +359,18 @@ def _tenure(times: List[str], observed: int | None = None) -> str:
 
 
 def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]]) -> dict:
+    included_channel_ids = _included_channel_ids()
+    enabled_channels = [
+        channel
+        for channel in iter_channels(enabled_only=True)
+        if getattr(channel, "include_in_report", True)
+    ]
+    enabled_ids = {channel.channel_id for channel in enabled_channels}
     records = []
     slices = set()
     grouped = defaultdict(list)
     ranking_slices = defaultdict(set)
+    ranking_lengths = defaultdict(int)
     tracks = defaultdict(
         lambda: {
             "title": "",
@@ -233,7 +381,7 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
         }
     )
 
-    for channel_id in CHANNEL_ORDER:
+    for channel_id in included_channel_ids:
         for row in rows_by_channel.get(channel_id, []):
             title = str(row.get("title") or "").strip()
             normalized = _normalize_title(title)
@@ -247,6 +395,10 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
             ranking_name = row.get("type") or "热榜"
             slices.add((channel_id, ranking_name, when))
             ranking_slices[(channel_id, ranking_name)].add(when)
+            ranking_lengths[(channel_id, ranking_name, when)] = max(
+                ranking_lengths[(channel_id, ranking_name, when)],
+                _rank(row.get("index")),
+            )
             track = tracks[(normalized, channel_id, ranking_name)]
             track["title"] = title
             track["channelId"] = channel_id
@@ -259,9 +411,17 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
     topics = []
     for normalized, occurrences in grouped.items():
         channels = {channel_id for channel_id, _ in occurrences}
-        valid_ranks = [_rank(row.get("index")) for _, row in occurrences]
-        valid_ranks = [rank for rank in valid_ranks if rank]
-        best_rank = min(valid_ranks) if valid_ranks else 50
+        rank_percentiles = []
+        for channel_id, row in occurrences:
+            ranking_name = row.get("type") or "热榜"
+            when = _time_key(row, date)
+            rank_percentiles.append(
+                _rank_percentile(
+                    _rank(row.get("index")),
+                    ranking_lengths[(channel_id, ranking_name, when)],
+                )
+            )
+        rank_quality = sum(rank_percentiles) / max(1, len(rank_percentiles))
         sample_keys = {
             (channel_id, row.get("type") or "热榜", _time_key(row, date))
             for channel_id, row in occurrences
@@ -272,7 +432,20 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
             / max(1, len(ranking_slices[ranking_key]))
             for ranking_key in ranking_keys
         ) / max(1, len(ranking_keys))
-        score = len(channels) * 10_000 + max(0, 51 - best_rank) * 100 + round(persistence * 100)
+        freshness = _topic_freshness(sample_keys, ranking_slices)
+        # Resonance has the largest weight and reaches full value at three
+        # channels. The remaining factors distinguish topics without turning
+        # absolute list length or old repeated samples into a permanent lead.
+        channel_reach = min(1.0, len(channels) / 3)
+        score = round(
+            (
+                channel_reach * 0.70
+                + rank_quality * 0.15
+                + persistence * 0.10
+                + freshness * 0.05
+            )
+            * 10_000
+        )
         hits = _unique_hits(occurrences)
         latest_title = max(occurrences, key=lambda item: _time_key(item[1], date))[1]["title"]
         topics.append(
@@ -338,8 +511,7 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
         )
 
     resonance = sum(1 for topic in topics if topic["channelCount"] > 1)
-    enabled_ids = {channel.channel_id for channel in iter_channels(enabled_only=True)}
-    active_count = sum(1 for channel_id in CHANNEL_ORDER if rows_by_channel.get(channel_id))
+    active_count = sum(1 for channel_id in included_channel_ids if rows_by_channel.get(channel_id))
     max_rise = 0
     for _, _, _, _, _, _, ranks, _, _ in track_candidates:
         valid = [rank for rank in ranks if rank]
@@ -397,6 +569,7 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
                 / max(1, len(enabled_ids))
                 * 100
             ),
+            "samplingCoverage": _sampling_coverage(date, records, enabled_channels),
         },
         "topTopics": [{key: value for key, value in topic.items() if key not in {"key", "score", "channelCount"}} for topic in topics[:10]],
         "words": words,
@@ -408,9 +581,12 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
 def load_rows(date: str) -> Dict[str, List[dict]]:
     return {
         channel_id: read_csv(archive_path(channel_id, "csv", date))
-        for channel_id in CHANNEL_ORDER
+        for channel_id in _included_channel_ids()
     }
 
 
 def build_report(date: str) -> dict:
-    return build_report_from_rows(date, load_rows(date))
+    report = build_report_from_rows(date, load_rows(date))
+    previous_date = (datetime.strptime(date, "%Y-%m-%d") - timedelta(days=1)).strftime("%Y-%m-%d")
+    previous_report = build_report_from_rows(previous_date, load_rows(previous_date))
+    return add_day_comparison(report, previous_report)

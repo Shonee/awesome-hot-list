@@ -21,6 +21,8 @@ class ChannelDefinition:
     enabled_by_default: bool = True
     requires_env: Tuple[str, ...] = ()
     frequency_minutes: int = 60
+    visible_by_default: bool = True
+    include_in_report: bool = True
 
 
 CHANNEL_ORDER = (
@@ -32,7 +34,6 @@ CHANNEL_ORDER = (
     "juejin",
     "toutiao",
     "acfun",
-    "ithome",
     "douban",
     "hupu",
     "36kr",
@@ -43,14 +44,16 @@ CHANNEL_ORDER = (
     "stackoverflow",
     "cls",
     "cnblogs",
-    "linuxdo",
     "nodeseek",
     "pojie52",
     "qqnews",
     "wechat",
     "tieba",
+    "fuliba",
     "rss",
 )
+
+RETIRED_CHANNEL_IDS = ("linuxdo", "ithome")
 
 # GitHub Actions checks special channels hourly, but the collector only runs a
 # channel when this interval has elapsed since its last snapshot. This keeps
@@ -83,7 +86,6 @@ _METADATA = {
     "36kr": ("36氪", "36", "#0066ff", "https://www.36kr.com/hot-list/catalog", True, ()),
     "pojie52": ("吾爱破解", "吾", "#c44c42", "https://www.52pojie.cn/forum.php?mod=guide&view=hot", True, ()),
     "acfun": ("AcFun", "AC", "#fd4c5d", "https://www.acfun.cn/rank/list/", True, ()),
-    "ithome": ("IT之家", "IT", "#d22222", "https://www.ithome.com/", True, ()),
     "tonghuashun": ("同花顺", "THS", "#e83b35", "https://t.10jqka.com.cn/", True, ()),
     "github": ("GitHub", "GH", "#24292f", "https://github.com/trending", True, ()),
     "juejin": ("掘金", "掘", "#1e80ff", "https://juejin.cn/hot/articles", True, ()),
@@ -92,15 +94,19 @@ _METADATA = {
     "qqnews": ("腾讯新闻", "腾", "#1769aa", "https://news.qq.com/", True, ()),
     "wechat": ("微信文章", "微", "#07c160", "https://tophub.today/n/WnBe01o371", True, ()),
     "maimai": ("脉脉", "MM", "#00a6a6", "https://maimai.cn/web/gossip_list", False, ("MAIMAI_COOKIE",)),
-    "xueqiu": ("雪球", "XQ", "#1f6fb2", "https://xueqiu.com/today", False, ()),
+    "xueqiu": ("雪球", "XQ", "#1f6fb2", "https://xueqiu.com/today", True, ()),
     "v2ex": ("V2EX", "V2", "#778087", "https://www.v2ex.com/?tab=hot", True, ()),
     "stackoverflow": ("Stack Overflow", "SO", "#f48024", "https://stackoverflow.com/questions?tab=hot", True, ()),
     "cnblogs": ("博客园", "园", "#2c7a4b", "https://www.cnblogs.com/aggsite/topdigged24h", True, ()),
-    "linuxdo": ("Linux.do", "L", "#16846b", "https://linux.do/top", False, ()),
     "nodeseek": ("NodeSeek", "N", "#4e6e8e", "https://www.nodeseek.com/?tab=hot", True, ()),
     "tieba": ("百度贴吧", "贴", "#2f76c7", "https://tieba.baidu.com/", True, ()),
+    "fuliba": ("福利吧", "福", "#d94c4c", "https://fuliba2023.net/", True, ()),
     "rss": ("RSS", "RSS", "#f28c28", "", True, ()),
 }
+
+
+_HIDDEN_BY_DEFAULT = {"maimai", "fuliba"}
+_EXCLUDED_FROM_REPORT = {"maimai", "fuliba"}
 
 
 CHANNELS: Dict[str, ChannelDefinition] = {
@@ -115,6 +121,8 @@ CHANNELS: Dict[str, ChannelDefinition] = {
         enabled_by_default=values[4],
         requires_env=values[5],
         frequency_minutes=CHANNEL_FREQUENCIES.get(channel_id, 60),
+        visible_by_default=channel_id not in _HIDDEN_BY_DEFAULT,
+        include_in_report=channel_id not in _EXCLUDED_FROM_REPORT,
     )
     for index, channel_id in enumerate(CHANNEL_ORDER, 1)
     for values in (_METADATA[channel_id],)
@@ -122,7 +130,10 @@ CHANNELS: Dict[str, ChannelDefinition] = {
 
 
 SPECIAL_CHANNELS = tuple(
-    channel_id for channel_id in CHANNEL_ORDER if CHANNELS[channel_id].frequency_minutes != 60
+    channel_id
+    for channel_id in CHANNEL_ORDER
+    if CHANNELS[channel_id].frequency_minutes != 60
+    and CHANNELS[channel_id].enabled_by_default
 )
 HOURLY_CHANNELS = tuple(
     channel_id

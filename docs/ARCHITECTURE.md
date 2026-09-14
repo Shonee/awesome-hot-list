@@ -98,10 +98,13 @@ Cloudflare Pages 是可选的并行部署目标。它直接监听 `data-pages`�
 ## 代码边界
 
 - 适配器只处理来源请求和字段转换，直接返回 `ChannelSnapshot`。
-- `channels/tophub.py` 是不注册卡片、不单独归档的内部降级 Provider；知乎和微信适配器负责把其结果转换成各自的 `ChannelSnapshot`。
-- 榜单的 `sourceUrl` 表示页面“查看详情”地址，`providerName` 和 `providerUrl` 记录本次实际数据来源。知乎优先官方来源，微信当前使用今日热榜。
+- `channels/tophub.py` 是不注册卡片、不单独归档的内部降级 Provider；它在进程内统一执行缓存和最小请求间隔。知乎、雪球、腾讯新闻和微信适配器负责把结果转换成各自的 `ChannelSnapshot`。
+- 榜单的 `sourceUrl` 表示页面“查看详情”地址，`providerName` 和 `providerUrl` 记录本次实际数据来源。普通渠道遵循官方优先、稳定第三方其次；若只能使用 RSS，则数据进入 RSS 卡片而不是原渠道卡片。
+- `enabled_by_default`、`visible_by_default`、`include_in_report` 分别控制默认调度、首次页面展示和综合报告参与。福利吧正常采集但默认隐藏且不进入报告；脉脉三项默认关闭。
+- Linux.do 官方 JSON 在自动化环境受限，官方 RSS 作为 RSS 聚合源展示；IT之家同样使用官方 RSS。两者旧独立快照会在下一次合并时移除。
+- RSS 快照通过 `warnings` 暴露单 Feed 失败，允许成功 Feed 继续更新；全部 Feed 都无有效数据时，采集器才返回渠道级错误。
 - runner 统一处理渠道选择、异常隔离和最新快照合并。
-- report 只读取数据根目录中的 CSV，不访问网络。
+- report 只读取数据根目录中的 CSV，不访问网络。综合热度以跨渠道覆盖为主要权重，并结合榜单百分位、持续度和新鲜度；`samplingCoverage` 按渠道频率衡量当天采样完成度，保留旧 `coverage` 字段用于向后兼容。
 - collect 和 render 接受显式 `--data-root`，不依赖源码与数据位于同一 Git 分支。
 - archive 只负责确定性资产、校验和受限清理，Release 协议留在工作流中。
 - 页面只读取同目录静态 JSON，不包含渠道请求逻辑和凭证。

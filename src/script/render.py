@@ -3,6 +3,7 @@
 
 import argparse
 from contextlib import contextmanager
+from datetime import datetime
 import glob
 import json
 import logging
@@ -19,6 +20,7 @@ if PROJECT_ROOT not in sys.path:
 
 from src.hotlist.models import ChannelSnapshot, Ranking, items_from_legacy
 from src.hotlist.registry import CHANNEL_ORDER, get_channel, iter_channels
+from src.hotlist.report import add_day_comparison as _add_day_comparison
 from src.hotlist.report import build_report, load_rows
 from src.hotlist.runner import merge_latest_snapshot
 from src.utils.file_utils import current_date, read_csv, write_json, yesterday_date
@@ -38,6 +40,8 @@ def _channel_config() -> list[dict]:
             "color": channel.color,
             "sourceUrl": channel.homepage,
             "enabledByDefault": channel.enabled_by_default,
+            "visibleByDefault": getattr(channel, "visible_by_default", True),
+            "includeInReport": getattr(channel, "include_in_report", True),
         }
         for channel in iter_channels()
     ]
@@ -59,6 +63,20 @@ def _write_enabled() -> bool:
     return os.environ.get("HOTLIST_WRITE", "1").strip().lower() not in {
         "0", "false", "no", "off",
     }
+
+
+def _available_report_dates(reports_dir: str, limit: int = 7) -> list[str]:
+    dates = []
+    for path in glob.glob(os.path.join(reports_dir, "*.json")):
+        name = os.path.splitext(os.path.basename(path))[0]
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", name):
+            continue
+        try:
+            datetime.strptime(name, "%Y-%m-%d")
+        except ValueError:
+            continue
+        dates.append(name)
+    return sorted(set(dates), reverse=True)[:limit]
 
 
 def _timestamp(row: dict, fallback: str) -> str:
@@ -158,6 +176,20 @@ def main(data_root: str = PROJECT_ROOT) -> None:
         write_json(today_report, os.path.join(reports_dir, "today.json"), atomic=True)
         write_json(previous_report, os.path.join(reports_dir, "previous.json"), atomic=True)
         write_json(previous_report, os.path.join(reports_dir, f"{previous}.json"), atomic=True)
+        report_dates = _available_report_dates(reports_dir)
+        write_json(
+            {
+                "schemaVersion": 1,
+                "generatedAt": now_string(),
+                "dates": report_dates,
+                "reports": [
+                    {"date": date, "path": f"./data/reports/{date}.json"}
+                    for date in report_dates
+                ],
+            },
+            os.path.join(reports_dir, "index.json"),
+            atomic=True,
+        )
 
         latest_path = os.path.join("site", "data", "latest.json")
         _ensure_latest_snapshot(today, today_rows, latest_path)

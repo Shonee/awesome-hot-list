@@ -77,10 +77,10 @@ class RegistryTests(unittest.TestCase):
             CHANNEL_ORDER,
             (
                 "bilibili", "douyin", "weibo", "zhihu", "github",
-                "juejin", "toutiao", "acfun", "ithome", "douban", "hupu",
+                "juejin", "toutiao", "acfun", "douban", "hupu",
                 "36kr", "tonghuashun", "maimai", "xueqiu", "v2ex",
-                "stackoverflow", "cls", "cnblogs", "linuxdo", "nodeseek",
-                "pojie52", "qqnews", "wechat", "tieba", "rss",
+                "stackoverflow", "cls", "cnblogs", "nodeseek", "pojie52",
+                "qqnews", "wechat", "tieba", "fuliba", "rss",
             ),
         )
 

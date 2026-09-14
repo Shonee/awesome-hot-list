@@ -9,7 +9,7 @@ from src.utils.file_utils import write_json
 from src.utils.time_utils import now_string, project_now
 
 from .models import ChannelSnapshot
-from .registry import CHANNEL_ORDER, CHANNELS, ChannelDefinition
+from .registry import CHANNEL_ORDER, CHANNELS, RETIRED_CHANNEL_IDS, ChannelDefinition
 
 def collect_channels(
     channel_ids: Iterable[str],
@@ -94,6 +94,8 @@ def merge_latest_snapshot(
     channel_order=CHANNEL_ORDER,
 ) -> dict:
     merged = _load_latest(output_path)
+    for channel_id in RETIRED_CHANNEL_IDS:
+        merged.pop(channel_id, None)
     for snapshot in snapshots:
         incoming = snapshot.to_dict()
         previous = merged.get(snapshot.channel_id)

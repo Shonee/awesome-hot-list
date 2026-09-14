@@ -10,11 +10,12 @@ import logging
 from src.utils.http_utils import get
 
 from ..models import HotItem, Ranking
-from .common import clean_html, snapshot, unavailable
+from .common import clean_html, snapshot
 
 logger = logging.getLogger(__name__)
 RSS_LIMIT = 5
 DEFAULT_FEEDS = (
+    ("IT之家", "https://www.ithome.com/rss/"),
     ("少数派", "https://sspai.com/feed"),
     ("爱范儿", "https://www.ifanr.com/feed"),
     ("量子位", "https://www.qbitai.com/feed"),
@@ -24,6 +25,7 @@ DEFAULT_FEEDS = (
     ("Hacker News", "https://hnrss.org/frontpage"),
     ("AI News", "https://www.artificialintelligence-news.com/feed/"),
     ("阮一峰网络日志", "https://www.ruanyifeng.com/blog/atom.xml"),
+    ("Linux.do", "https://linux.do/top.rss?period=weekly"),
 )
 
 
@@ -93,15 +95,19 @@ def collect() -> "ChannelSnapshot":
         limit = RSS_LIMIT
 
     rankings = []
+    failed_feeds = []
     for index, (configured_name, feed_url) in enumerate(feeds, 1):
         try:
             name, items = parse_feed(get(feed_url), feed_url, limit=limit)
         except Exception as exc:  # noqa: BLE001 - one feed must not hide other feeds
             logger.warning("RSS 请求失败: %s: %s", feed_url, exc)
+            failed_feeds.append(configured_name.strip() or f"Feed {index}")
             continue
         name = configured_name.strip() or name
         if items:
             rankings.append(Ranking(_feed_id(name, index), name, items, feed_url))
     if not rankings:
-        return unavailable("rss", "no RSS feed returned usable items")
-    return snapshot("rss", rankings)
+        raise RuntimeError("no RSS feed returned usable items")
+    result = snapshot("rss", rankings)
+    result.warnings = list(dict.fromkeys(failed_feeds))
+    return result

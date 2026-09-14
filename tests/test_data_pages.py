@@ -70,6 +70,39 @@ class DataRootTests(unittest.TestCase):
         self.assertIn("const rows = allRows.slice(0, effectiveTopCount);", template)
         self.assertIn(".layout-channel-tabs .channel-body {", template)
         self.assertIn("overflow-y: visible;", template)
+        self.assertIn(".main-nav { margin: 0 -16px; padding: 4px 16px 8px; min-width: 0; width: auto; }", template)
+        self.assertIn(".nav-btn { flex: 1 1 0; min-width: 0; padding: 0 8px; }", template)
+
+    def test_channel_defaults_and_provider_metadata_are_rendered(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        self.assertIn("const PREFS_SCHEMA_VERSION = 2;", template)
+        self.assertIn("channel.visibleByDefault !== false", template)
+        self.assertIn("CHANNEL_RANKING_PROVIDERS", template)
+        self.assertIn("providerName", template)
+
+    def test_history_report_supports_recent_date_selection_and_day_comparison(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        self.assertIn('id="historyDateSelect"', template)
+        self.assertIn("./data/reports/index.json", template)
+        self.assertIn("dayComparison", template)
+        self.assertNotIn("scope === 'today' ? [", template)
+        self.assertIn("comparison.rising", template)
+        self.assertIn("comparison.falling", template)
+        self.assertIn("rankMovementValue", template)
+
+    def test_report_cards_prefer_sampling_coverage_with_legacy_fallback(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        self.assertIn("metrics.samplingCoverage ?? metrics.coverage", template)
+        self.assertEqual(template.count("采样完成度"), 2)
+
+    def test_partial_channel_warnings_are_visible_in_status_tooltips(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        self.assertIn("snapshot.warnings", template)
+        self.assertIn("部分来源采集失败", template)
 
 
 class WorkflowContractTests(unittest.TestCase):
@@ -105,6 +138,18 @@ class WorkflowContractTests(unittest.TestCase):
             with self.subTest(workflow=filename):
                 self.assertIn("continue-on-error: true", content)
                 self.assertIn("Enforce collection health", content)
+
+    def test_hourly_workflow_can_manually_collect_maimai(self):
+        content = Path(".github/workflows/collect-hourly.yml").read_text(encoding="utf-8")
+
+        self.assertIn("MAIMAI_COOKIE: ${{ secrets.MAIMAI_COOKIE }}", content)
+
+    def test_collection_workflows_expose_tophub_rate_limit(self):
+        workflow_root = Path(".github/workflows")
+        for filename in ("collect-hourly.yml", "collect-special.yml"):
+            content = (workflow_root / filename).read_text(encoding="utf-8")
+            with self.subTest(workflow=filename):
+                self.assertIn("HOTLIST_TOPHUB_MIN_INTERVAL_SECONDS:", content)
 
     def test_bootstrap_workflow_exists(self):
         content = Path(".github/workflows/bootstrap-data-pages.yml").read_text(encoding="utf-8")

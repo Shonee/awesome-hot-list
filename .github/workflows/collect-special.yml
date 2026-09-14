@@ -27,6 +27,7 @@ jobs:
       TZ: Asia/Shanghai
       HOTLIST_RSS_FEEDS: ${{ secrets.HOTLIST_RSS_FEEDS }}
       HOTLIST_RSS_LIMIT: "5"
+      HOTLIST_TOPHUB_MIN_INTERVAL_SECONDS: ${{ vars.HOTLIST_TOPHUB_MIN_INTERVAL_SECONDS || '3' }}
       MAIMAI_COOKIE: ${{ secrets.MAIMAI_COOKIE }}
 
     steps:

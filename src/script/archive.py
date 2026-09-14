@@ -238,6 +238,42 @@ def verify(root: Path = ROOT, output_dir: Path | None = None) -> dict:
     return result
 
 
+def _refresh_report_index(root: Path) -> None:
+    reports_dir = root / "site" / "data" / "reports"
+    index_path = reports_dir / "index.json"
+    if not index_path.is_file():
+        return
+    try:
+        payload = json.loads(index_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        payload = {"schemaVersion": 1}
+    dates = []
+    for path in reports_dir.glob("*.json"):
+        if not REPORT_FILE.fullmatch(path.name):
+            continue
+        try:
+            dt.date.fromisoformat(path.stem)
+        except ValueError:
+            continue
+        dates.append(path.stem)
+    dates = sorted(set(dates), reverse=True)[:7]
+    payload.update(
+        {
+            "dates": dates,
+            "reports": [
+                {"date": date, "path": f"./data/reports/{date}.json"}
+                for date in dates
+            ],
+        }
+    )
+    temporary = index_path.with_name(f"{index_path.name}.tmp")
+    temporary.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    temporary.replace(index_path)
+
+
 def clean(root: Path = ROOT, output_dir: Path | None = None) -> int:
     """Delete only files listed by the already verified local manifest."""
     root = root.resolve()
@@ -263,6 +299,8 @@ def clean(root: Path = ROOT, output_dir: Path | None = None) -> int:
         while parent != root and parent.name not in {"archived", "reports"} and parent.is_dir() and not any(parent.iterdir()):
             parent.rmdir()
             parent = parent.parent
+    if removed:
+        _refresh_report_index(root)
     return removed
 
 

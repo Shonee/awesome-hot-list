@@ -1,4 +1,5 @@
 import datetime as dt
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -17,6 +18,19 @@ class WeeklyArchiveTests(unittest.TestCase):
             for path in (old_csv, kept_csv, old_report, kept_report):
                 path.parent.mkdir(parents=True, exist_ok=True)
                 path.write_text(path.name, encoding="utf-8")
+            index_path = root / "site" / "data" / "reports" / "index.json"
+            index_path.write_text(
+                json.dumps({
+                    "schemaVersion": 1,
+                    "generatedAt": "2026-09-07 02:00:00",
+                    "dates": ["2026-09-01", "2026-08-31"],
+                    "reports": [
+                        {"date": "2026-09-01", "path": "./data/reports/2026-09-01.json"},
+                        {"date": "2026-08-31", "path": "./data/reports/2026-08-31.json"},
+                    ],
+                }),
+                encoding="utf-8",
+            )
 
             output = root / ".archive-work"
             result = prepare(root, output, dt.date(2026, 9, 7), retention_days=7)
@@ -32,6 +46,8 @@ class WeeklyArchiveTests(unittest.TestCase):
             self.assertFalse(old_report.exists())
             self.assertTrue(kept_csv.exists())
             self.assertTrue(kept_report.exists())
+            refreshed_index = json.loads(index_path.read_text(encoding="utf-8"))
+            self.assertEqual(refreshed_index["dates"], ["2026-09-01"])
 
     def test_empty_selection_is_safe(self):
         with tempfile.TemporaryDirectory() as directory:
