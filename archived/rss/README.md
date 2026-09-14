@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 21:24:23
+> 更新时间：2026-09-14 22:25:08
 
 ## IT之家
 
-1. [广汽集团：筹划发行股份购买一汽股份持有的某整车合资公司部分股权，股票停牌](https://www.ithome.com/1/002/296.htm)
-2. [努比亚 LiveClip 2 耳夹耳机上架：11mm 复合钛膜、透明 + RGB 设计耳机仓，首发 289 元](https://www.ithome.com/1/002/295.htm)
-3. [上线 39 天，蔚来旗下萤火虫累计换电突破 10000 次](https://www.ithome.com/1/002/294.htm)
-4. [长城猛龙 PLUS 力魂版官图公布，官宣“敬请期待”](https://www.ithome.com/1/002/293.htm)
-5. [小马智行发布第四代自动驾驶重卡 Robotruck，将于年内规模量产](https://www.ithome.com/1/002/291.htm)
+1. [3D 打印龙头拓竹官宣 9 月 22 日发布 R1 激光切割机](https://www.ithome.com/1/002/304.htm)
+2. [小米澎程 N90 Max 探索版展车已进入全国 108 个城市的门店](https://www.ithome.com/1/002/303.htm)
+3. [吴赟履新满月，消息称上汽大众启动 20 人中层大轮岗](https://www.ithome.com/1/002/302.htm)
+4. [德国称暂停 AI 开发对欧洲而言不可行，呼吁中美参与 AI 治理](https://www.ithome.com/1/002/301.htm)
+5. [消息称甲骨文启动新一轮裁员，部分团队裁员比例达两位数](https://www.ithome.com/1/002/300.htm)
 
 ## 少数派
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [Azure 虚拟桌面混合版正式可用，许可细则尚未公布](https://www.infoq.cn/article/MMD3SrhB1HuUh5Rv9Fmw?utm_source=rss&utm_medium=article)
-2. [不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海](https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article)
-3. [ICANN 取消第三级 .name 域名注册，是否为身份盗用敞开了大门？](https://www.infoq.cn/article/DlKsq4vFFkUV9Xl7Fxls?utm_source=rss&utm_medium=article)
-4. [openJiuwen 首发双维度 RSI 框架，AI 自修改，落地办公智能体，算力亲和助力又快又省](https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&utm_medium=article)
-5. [GitLab 警告称，AI 代理的沙箱安全性取决于其网络访问的安全性](https://www.infoq.cn/article/XLzpR2brCNW2VgYuuYJk?utm_source=rss&utm_medium=article)
+1. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
+2. [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
+3. [Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”](https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article)
+4. [Azure 虚拟桌面混合版正式可用，许可细则尚未公布](https://www.infoq.cn/article/MMD3SrhB1HuUh5Rv9Fmw?utm_source=rss&utm_medium=article)
+5. [不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海](https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
