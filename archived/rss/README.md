@@ -1,30 +1,30 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 17:30:48
+> 更新时间：2026-09-14 18:23:18
 
 ## IT之家
 
-1. [波士顿动力 IPO 计划遇阻：Atlas 人形机器人尚未大规模部署](https://www.ithome.com/1/002/225.htm)
-2. [多家美国顶尖 AI 企业 CEO 呼吁放缓技术发展，全球 AI 概念股集体下挫](https://www.ithome.com/1/002/224.htm)
-3. [耳夹耳机再添新品，努比亚 LiveClip2 将于 9 月 16 日发布](https://www.ithome.com/1/002/223.htm)
-4. [OPPO Watch S2 手表亮点公布：8.9mm 厚、34.4g 重，升级旗舰健康传感器](https://www.ithome.com/1/002/222.htm)
-5. [IDC 报告：2026Q2 全球家用清洁机器人市场出货约 1120.5 万台，同比增长 21.5%](https://www.ithome.com/1/002/218.htm)
+1. [长城魏牌高山 8/9 智慧版 MPV 开启下订：5000 元订金可抵 8000 元尾款，PHEV 版四季度上市](https://www.ithome.com/1/002/242.htm)
+2. [岚图梦想家 9 将于本月内正式上市，预售价 42.99 万元起](https://www.ithome.com/1/002/241.htm)
+3. [部分惠普用户反馈无法安装微软 8 月 Win11 累积更新，开机卡 HP 标志界面](https://www.ithome.com/1/002/239.htm)
+4. [从 6 月至 8 月底，消息称追觅离职与被裁员工在 1 万人左右](https://www.ithome.com/1/002/234.htm)
+5. [消息称三星电机与高通合作开发基于有机桥片的 2.1D 先进封装](https://www.ithome.com/1/002/233.htm)
 
 ## 少数派
 
-1. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
-2. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
-3. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
-4. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
-5. [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
+1. [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
+2. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
+3. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+4. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
+5. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
 
 ## 爱范儿
 
-1. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [讲讲 Duo 作为科技产品命名的前世今生](https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」](https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [特努斯回答一切，那个懂技术的苹果 CEO 回来了](https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海](https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article)
-2. [ICANN 取消第三级 .name 域名注册，是否为身份盗用敞开了大门？](https://www.infoq.cn/article/DlKsq4vFFkUV9Xl7Fxls?utm_source=rss&utm_medium=article)
-3. [openJiuwen 首发双维度 RSI 框架，AI 自修改，落地办公智能体，算力亲和助力又快又省](https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&utm_medium=article)
-4. [GitLab 警告称，AI 代理的沙箱安全性取决于其网络访问的安全性](https://www.infoq.cn/article/XLzpR2brCNW2VgYuuYJk?utm_source=rss&utm_medium=article)
-5. [欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&utm_medium=article)
+1. [Azure 虚拟桌面混合版正式可用，许可细则尚未公布](https://www.infoq.cn/article/MMD3SrhB1HuUh5Rv9Fmw?utm_source=rss&utm_medium=article)
+2. [不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海](https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article)
+3. [ICANN 取消第三级 .name 域名注册，是否为身份盗用敞开了大门？](https://www.infoq.cn/article/DlKsq4vFFkUV9Xl7Fxls?utm_source=rss&utm_medium=article)
+4. [openJiuwen 首发双维度 RSI 框架，AI 自修改，落地办公智能体，算力亲和助力又快又省](https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&utm_medium=article)
+5. [GitLab 警告称，AI 代理的沙箱安全性取决于其网络访问的安全性](https://www.infoq.cn/article/XLzpR2brCNW2VgYuuYJk?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
