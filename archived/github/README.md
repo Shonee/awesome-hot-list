@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-14 23:31:10
+> 更新时间：2026-09-15 06:28:44
 
 ## 每日趋势
 
@@ -81,22 +81,23 @@
 4. [astron-agent](https://github.com/iflytek/astron-agent)
 5. [bazel](https://github.com/bazelbuild/bazel)
 6. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
-7. [GmsCore](https://github.com/microg/GmsCore)
-8. [octo-android](https://github.com/Mininglamp-OSS/octo-android)
-9. [Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server)
-10. [agentscope-java](https://github.com/agentscope-ai/agentscope-java)
-11. [fineract](https://github.com/apache/fineract)
-12. [Apktool](https://github.com/iBotPeaches/Apktool)
-13. [JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-14. [termux-app](https://github.com/termux/termux-app)
-15. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-16. [lawnchair](https://github.com/LawnchairLauncher/lawnchair)
-17. [keycloak](https://github.com/keycloak/keycloak)
-18. [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
-19. [Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course)
-20. [Aegis](https://github.com/beemdevelopment/Aegis)
-21. [doris](https://github.com/apache/doris)
-22. [Wukong-AICRM](https://github.com/WuKongOpenSource/Wukong-AICRM)
+7. [shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
+8. [GmsCore](https://github.com/microg/GmsCore)
+9. [octo-android](https://github.com/Mininglamp-OSS/octo-android)
+10. [Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server)
+11. [agentscope-java](https://github.com/agentscope-ai/agentscope-java)
+12. [fineract](https://github.com/apache/fineract)
+13. [Apktool](https://github.com/iBotPeaches/Apktool)
+14. [JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
+15. [termux-app](https://github.com/termux/termux-app)
+16. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+17. [lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+18. [keycloak](https://github.com/keycloak/keycloak)
+19. [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+20. [Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course)
+21. [Aegis](https://github.com/beemdevelopment/Aegis)
+22. [doris](https://github.com/apache/doris)
+23. [Wukong-AICRM](https://github.com/WuKongOpenSource/Wukong-AICRM)
 
 ## Python
 
@@ -129,15 +130,14 @@
 6. [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
 7. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
 8. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-9. [dozzle](https://github.com/amir20/dozzle)
-10. [hetty](https://github.com/dstotijn/hetty)
-11. [ollama](https://github.com/ollama/ollama)
-12. [authelia](https://github.com/authelia/authelia)
-13. [Xray-core](https://github.com/XTLS/Xray-core)
-14. [fzf](https://github.com/junegunn/fzf)
-15. [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-16. [octo-server](https://github.com/Mininglamp-OSS/octo-server)
-17. [octo-cli](https://github.com/Mininglamp-OSS/octo-cli)
+9. [hetty](https://github.com/dstotijn/hetty)
+10. [ollama](https://github.com/ollama/ollama)
+11. [authelia](https://github.com/authelia/authelia)
+12. [Xray-core](https://github.com/XTLS/Xray-core)
+13. [fzf](https://github.com/junegunn/fzf)
+14. [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+15. [octo-server](https://github.com/Mininglamp-OSS/octo-server)
+16. [octo-cli](https://github.com/Mininglamp-OSS/octo-cli)
 
 ## HTML
 
