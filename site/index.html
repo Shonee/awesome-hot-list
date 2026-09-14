@@ -425,6 +425,7 @@
     .rss-item .item-title { display: -webkit-box; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; line-height: 1.45; }
     .rss-item-meta { display: block; overflow: hidden; margin-top: 2px; color: var(--muted); font-size: 10px; font-weight: 500; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
     .rss-mode-note { color: var(--gold); }
+    .provider-note { color: var(--blue); }
     .empty-channel { min-height: 100%; display: grid; place-items: center; color: var(--muted); text-align: center; padding: 26px; }
     .empty-channel strong { display: block; color: var(--ink); margin-bottom: 3px; }
     .layout-list .channel-card { display: grid; grid-template-columns: 210px minmax(0, 1fr); }
@@ -436,6 +437,8 @@
 
     .history-banner { display: flex; gap: 18px; align-items: center; padding: 13px 0 18px; color: var(--muted); }
     .complete-mark { color: var(--teal); background: var(--teal-soft); border-radius: 3px; padding: 2px 7px; font-size: 11px; font-weight: 760; }
+    .history-heading-meta { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+    .history-date-select { min-width: 150px; height: 34px; padding: 0 30px 0 10px; color: var(--ink); background: var(--surface); border: 1px solid var(--line-strong); border-radius: 4px; }
 
     .drawer-layer { position: fixed; inset: 0; z-index: 60; overflow: hidden; pointer-events: none; visibility: hidden; transition: visibility 0s linear .24s; }
     .drawer-layer.open { pointer-events: auto; visibility: visible; transition-delay: 0s; }
@@ -501,10 +504,13 @@
 
     @media (max-width: 680px) {
       .topbar-inner { min-height: 58px; padding: 0 16px; gap: 10px; }
-      .main-nav { margin: 0 -16px; padding: 4px 16px 8px; }
+      .main-nav { margin: 0 -16px; padding: 4px 16px 8px; min-width: 0; width: auto; }
+      .nav-btn { flex: 1 1 0; min-width: 0; padding: 0 8px; }
       .top-actions .plain-btn { padding: 0 10px; }
       main { padding: 20px 16px 54px; }
       .report-heading, .page-toolbar { display: block; }
+      .history-heading-meta { align-items: stretch; margin-top: 14px; }
+      .history-date-select { width: 100%; }
       h1, .page-toolbar h1 { font-size: 27px; }
       .heading-note { margin-top: 10px; }
       .metrics { grid-template-columns: repeat(2, 1fr); }
@@ -604,7 +610,7 @@
         <div class="metric"><div class="metric-label">去重热点</div><div class="metric-value" id="todayDeduplicated">--</div></div>
         <div class="metric"><div class="metric-label">跨渠道共振</div><div class="metric-value" id="todayResonance">--</div></div>
         <div class="metric"><div class="metric-label">最大排名跃升</div><div class="metric-value" id="todayRise">--</div></div>
-        <div class="metric"><div class="metric-label">有效数据覆盖</div><div class="metric-value" id="todayCoverage">--</div></div>
+        <div class="metric"><div class="metric-label">采样完成度</div><div class="metric-value" id="todayCoverage">--</div></div>
       </div>
 
       <div class="lead-grid">
@@ -641,31 +647,34 @@
 
     <section class="view" id="view-history">
       <div class="report-heading">
-        <div><div class="eyebrow" id="historyEyebrow">ARCHIVE</div><h1>昨日完整报告</h1></div>
-        <div class="heading-note" id="historyNote">正在加载上一日完整报告。</div>
+        <div><div class="eyebrow" id="historyEyebrow">ARCHIVE</div><h1>历史完整报告</h1></div>
+        <div class="history-heading-meta">
+          <select class="history-date-select" id="historyDateSelect" aria-label="选择历史报告日期" disabled><option>正在加载日期</option></select>
+          <div class="heading-note" id="historyNote">正在加载历史完整报告。</div>
+        </div>
       </div>
       <div class="metrics">
         <div class="metric"><div class="metric-label">去重热点</div><div class="metric-value" id="historyDeduplicated">--</div></div>
         <div class="metric"><div class="metric-label">跨渠道共振</div><div class="metric-value" id="historyResonance">--</div></div>
         <div class="metric"><div class="metric-label">数据切片</div><div class="metric-value" id="historySlices">--</div></div>
-        <div class="metric"><div class="metric-label">有效数据覆盖</div><div class="metric-value" id="historyCoverage">--</div></div>
+        <div class="metric"><div class="metric-label">采样完成度</div><div class="metric-value" id="historyCoverage">--</div></div>
       </div>
       <div class="lead-grid">
         <div>
           <section class="section">
-            <div class="section-head"><h2>昨日摘要</h2><span class="section-meta">完整日终结论</span></div>
+            <div class="section-head"><h2>当日摘要</h2><span class="section-meta">完整日终结论</span></div>
             <div class="briefing">
               <div class="briefing-label">DAY IN REVIEW</div>
               <p id="historySummary">正在根据完整日归档生成综合摘要。</p>
             </div>
           </section>
           <section class="section">
-            <div class="section-head"><h2>昨日热点词云</h2><span class="section-meta">完整 24 小时权重</span></div>
+            <div class="section-head"><h2>当日热点词云</h2><span class="section-meta">完整 24 小时权重</span></div>
             <div class="word-field" id="historyWords"></div>
           </section>
         </div>
         <section class="section">
-          <div class="section-head"><h2>昨日综合 Top 10</h2><span class="section-meta">日终排名</span></div>
+          <div class="section-head"><h2>当日综合 Top 10</h2><span class="section-meta">日终排名</span></div>
           <div class="top-list" id="historyTop"></div>
         </section>
       </div>
@@ -675,7 +684,7 @@
           <div class="viz-panel rank-flow-scroll" id="historyRankFlow"></div>
         </section>
         <section class="section">
-          <div class="section-head"><h2>昨日值得关注</h2><span class="section-meta">日终变化信号</span></div>
+          <div class="section-head"><h2>当日值得关注</h2><span class="section-meta">日终变化信号</span></div>
           <div class="signal-list" id="historySignals"></div>
         </section>
       </div>
@@ -740,6 +749,7 @@
 
   <script>
     const STORAGE_KEY = 'awesome-hot-list.preferences.v1';
+    const PREFS_SCHEMA_VERSION = 2;
     const MOBILE_TOP_COUNT = 10;
     const MOBILE_VIEWPORT = window.matchMedia('(max-width: 680px)');
     const DISPLAY_THEMES = Object.freeze({
@@ -759,7 +769,9 @@
     "short": "BILI",
     "color": "#fb7299",
     "sourceUrl": "https://www.bilibili.com/v/popular/all",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "douyin",
@@ -767,7 +779,9 @@
     "short": "DY",
     "color": "#161823",
     "sourceUrl": "https://www.douyin.com/hot",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "weibo",
@@ -775,7 +789,9 @@
     "short": "WB",
     "color": "#e6162d",
     "sourceUrl": "https://s.weibo.com/top/summary",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "zhihu",
@@ -783,7 +799,9 @@
     "short": "ZH",
     "color": "#1772f6",
     "sourceUrl": "https://www.zhihu.com/hot",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "github",
@@ -791,7 +809,9 @@
     "short": "GH",
     "color": "#24292f",
     "sourceUrl": "https://github.com/trending",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "juejin",
@@ -799,7 +819,9 @@
     "short": "掘",
     "color": "#1e80ff",
     "sourceUrl": "https://juejin.cn/hot/articles",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "toutiao",
@@ -807,7 +829,9 @@
     "short": "TT",
     "color": "#f04142",
     "sourceUrl": "https://www.toutiao.com/hot-event/hot-board/",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "acfun",
@@ -815,15 +839,9 @@
     "short": "AC",
     "color": "#fd4c5d",
     "sourceUrl": "https://www.acfun.cn/rank/list/",
-    "enabledByDefault": true
-  },
-  {
-    "channelId": "ithome",
-    "name": "IT之家",
-    "short": "IT",
-    "color": "#d22222",
-    "sourceUrl": "https://www.ithome.com/",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "douban",
@@ -831,7 +849,9 @@
     "short": "DB",
     "color": "#00a65a",
     "sourceUrl": "https://movie.douban.com/chart",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "hupu",
@@ -839,7 +859,9 @@
     "short": "HP",
     "color": "#b31b1b",
     "sourceUrl": "https://bbs.hupu.com/all-gambia",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "36kr",
@@ -847,7 +869,9 @@
     "short": "36",
     "color": "#0066ff",
     "sourceUrl": "https://www.36kr.com/hot-list/catalog",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "tonghuashun",
@@ -855,7 +879,9 @@
     "short": "THS",
     "color": "#e83b35",
     "sourceUrl": "https://t.10jqka.com.cn/",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "maimai",
@@ -863,7 +889,9 @@
     "short": "MM",
     "color": "#00a6a6",
     "sourceUrl": "https://maimai.cn/web/gossip_list",
-    "enabledByDefault": false
+    "enabledByDefault": false,
+    "visibleByDefault": false,
+    "includeInReport": false
   },
   {
     "channelId": "xueqiu",
@@ -871,7 +899,9 @@
     "short": "XQ",
     "color": "#1f6fb2",
     "sourceUrl": "https://xueqiu.com/today",
-    "enabledByDefault": false
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "v2ex",
@@ -879,7 +909,9 @@
     "short": "V2",
     "color": "#778087",
     "sourceUrl": "https://www.v2ex.com/?tab=hot",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "stackoverflow",
@@ -887,7 +919,9 @@
     "short": "SO",
     "color": "#f48024",
     "sourceUrl": "https://stackoverflow.com/questions?tab=hot",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "cls",
@@ -895,7 +929,9 @@
     "short": "财",
     "color": "#c72b2b",
     "sourceUrl": "https://www.cls.cn/telegraph",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "cnblogs",
@@ -903,15 +939,9 @@
     "short": "园",
     "color": "#2c7a4b",
     "sourceUrl": "https://www.cnblogs.com/aggsite/topdigged24h",
-    "enabledByDefault": true
-  },
-  {
-    "channelId": "linuxdo",
-    "name": "Linux.do",
-    "short": "L",
-    "color": "#16846b",
-    "sourceUrl": "https://linux.do/top",
-    "enabledByDefault": false
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "nodeseek",
@@ -919,7 +949,9 @@
     "short": "N",
     "color": "#4e6e8e",
     "sourceUrl": "https://www.nodeseek.com/?tab=hot",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "pojie52",
@@ -927,7 +959,9 @@
     "short": "吾",
     "color": "#c44c42",
     "sourceUrl": "https://www.52pojie.cn/forum.php?mod=guide&view=hot",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "qqnews",
@@ -935,7 +969,9 @@
     "short": "腾",
     "color": "#1769aa",
     "sourceUrl": "https://news.qq.com/",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "wechat",
@@ -943,7 +979,9 @@
     "short": "微",
     "color": "#07c160",
     "sourceUrl": "https://tophub.today/n/WnBe01o371",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   },
   {
     "channelId": "tieba",
@@ -951,7 +989,19 @@
     "short": "贴",
     "color": "#2f76c7",
     "sourceUrl": "https://tieba.baidu.com/",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
+  },
+  {
+    "channelId": "fuliba",
+    "name": "福利吧",
+    "short": "福",
+    "color": "#d94c4c",
+    "sourceUrl": "https://fuliba2023.net/",
+    "enabledByDefault": true,
+    "visibleByDefault": false,
+    "includeInReport": false
   },
   {
     "channelId": "rss",
@@ -959,7 +1009,9 @@
     "short": "RSS",
     "color": "#f28c28",
     "sourceUrl": "",
-    "enabledByDefault": true
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true
   }
 ];
     const CHANNEL_ORDER = CHANNEL_CONFIG.map(channel => channel.channelId);
@@ -976,6 +1028,9 @@
     const CHANNEL_RANKING_URLS = Object.fromEntries(
       CHANNEL_ORDER.map(key => [key, {}])
     );
+    const CHANNEL_RANKING_PROVIDERS = Object.fromEntries(
+      CHANNEL_ORDER.map(key => [key, {}])
+    );
     let topTopics = [];
     let historyTopics = [];
     let words = [];
@@ -987,6 +1042,7 @@
     let historySignals = [];
 
     const defaultPrefs = {
+      preferencesVersion: PREFS_SCHEMA_VERSION,
       topCount: 20,
       theme: 'editorial',
       layout: 'cards',
@@ -997,7 +1053,7 @@
       rssEnabled: {},
       rssShowPublishedAt: true,
       order: [...CHANNEL_ORDER],
-      visible: Object.fromEntries(CHANNEL_ORDER.map(key => [key, true]))
+      visible: Object.fromEntries(CHANNEL_CONFIG.map(channel => [channel.channelId, channel.visibleByDefault !== false]))
     };
     let prefs = loadPrefs();
     function isMobileViewport() { return MOBILE_VIEWPORT.matches; }
@@ -1018,9 +1074,16 @@
       try {
         const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null');
         if (!saved) return structuredClone(defaultPrefs);
+        const savedVisible = { ...defaultPrefs.visible, ...(saved.visible || {}) };
+        if (saved.preferencesVersion !== PREFS_SCHEMA_VERSION) {
+          CHANNEL_CONFIG.filter(channel => channel.visibleByDefault === false).forEach(channel => {
+            savedVisible[channel.channelId] = false;
+          });
+        }
         return {
           ...defaultPrefs,
           ...saved,
+          preferencesVersion: PREFS_SCHEMA_VERSION,
           theme: Object.hasOwn(DISPLAY_THEMES, saved.theme) ? saved.theme : defaultPrefs.theme,
           layout: Object.hasOwn(HOTLIST_LAYOUTS, saved.layout) ? saved.layout : defaultPrefs.layout,
           rssMode: Object.hasOwn(RSS_MODES, saved.rssMode) ? saved.rssMode : defaultPrefs.rssMode,
@@ -1029,7 +1092,7 @@
           rssShowPublishedAt: saved.rssShowPublishedAt !== false,
           order: normalizeOrder(saved.order),
           activeRankings: { ...(saved.activeRankings || {}) },
-          visible: { ...defaultPrefs.visible, ...(saved.visible || {}) }
+          visible: savedVisible
         };
       } catch { return structuredClone(defaultPrefs); }
     }
@@ -1229,6 +1292,7 @@
       const effectiveTopCount = isMobileViewport() ? MOBILE_TOP_COUNT : prefs.topCount;
       const rows = allRows.slice(0, effectiveTopCount);
       const detailUrl = safeUrl(CHANNEL_RANKING_URLS[key]?.[activeRanking] || channel.sourceUrl);
+      const provider = CHANNEL_RANKING_PROVIDERS[key]?.[activeRanking];
       const detailLink = isRss
         ? `<button type="button" class="channel-detail" data-open-rss>查看全部 RSS</button>`
         : detailUrl === '#' ? '' : `<a class="channel-detail" href="${detailUrl}" target="_blank" rel="noopener">查看详情</a>`;
@@ -1243,12 +1307,15 @@
       }).join('')}</ol>`
         : `<div class="empty-channel"><div><strong>暂无可展示数据</strong>${escapeHtml(channel.statusMessage || '等待下一次渠道采集')}</div></div>`;
       const modeNote = isRss ? ` · <span class="rss-mode-note">${RSS_MODES[rssMode]}</span>` : '';
+      const providerNote = !isRss && provider?.name
+        ? ` · <span class="provider-note" title="实际数据源：${escapeHtml(provider.name)}">来源 ${escapeHtml(provider.name)}</span>`
+        : '';
       const status = ['ok', 'stale', 'error', 'disabled'].includes(channel.status) ? channel.status : 'unavailable';
       const statusTitle = channel.checkedAt && status === 'stale'
         ? `${channel.statusMessage}；最近检查 ${shortDateTime(channel.checkedAt)}`
         : channel.statusMessage;
       return `<article class="channel-card" data-channel="${key}">
-        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${channel.name}</div><div class="channel-sub">${isRss ? `${visibleRankingNames.length} 个源` : visibleRankingNames.length > 1 ? `${visibleRankingNames.length} 个榜单` : activeRanking} · <span class="channel-status status-${status}" title="${escapeHtml(statusTitle)}">${channelStatusLabel(status)}</span> · 更新 ${channel.updated}${modeNote}</div></div></div><div class="channel-count"><strong>${rows.length}</strong>共 ${allRows.length} 条</div></header>${tabs}<div class="channel-body">${body}</div><footer class="channel-foot">${detailLink}</footer>
+        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${channel.name}</div><div class="channel-sub">${isRss ? `${visibleRankingNames.length} 个源` : visibleRankingNames.length > 1 ? `${visibleRankingNames.length} 个榜单` : activeRanking} · <span class="channel-status status-${status}" title="${escapeHtml(statusTitle)}">${channelStatusLabel(status)}</span> · 更新 ${channel.updated}${modeNote}${providerNote}</div></div></div><div class="channel-count"><strong>${rows.length}</strong>共 ${allRows.length} 条</div></header>${tabs}<div class="channel-body">${body}</div><footer class="channel-foot">${detailLink}</footer>
       </article>`;
     }
 
@@ -1425,6 +1492,12 @@
       return key;
     }
 
+    function rankMovementValue(item, fallback) {
+      return item.previousRank && item.currentRank
+        ? `#${item.previousRank} -> #${item.currentRank}`
+        : fallback;
+    }
+
     function reportToView(scope, report) {
       const top = (report.topTopics || []).map(item => [
         item.title,
@@ -1446,7 +1519,16 @@
           query: registerHits(scope, item.topic, item.hits)
         }))
       };
-      const signals = (report.signals || []).map(item => [
+      const comparison = report.dayComparison || {};
+      const comparisonLabel = comparison.baselineDate ? `较 ${comparison.baselineDate.slice(5)}` : '较昨日';
+      const comparisonSignals = [
+        ...(comparison.new || []).slice(0, 2).map(item => ({ ...item, tag: '新增热点', value: comparisonLabel })),
+        ...(comparison.rising || []).slice(0, 2).map(item => ({ ...item, tag: '热度上升', value: rankMovementValue(item, comparisonLabel) })),
+        ...(comparison.falling || []).slice(0, 1).map(item => ({ ...item, tag: '热度回落', value: rankMovementValue(item, comparisonLabel) })),
+        ...(comparison.continued || []).filter(item => Number(item.delta) === 0).slice(0, 1).map(item => ({ ...item, tag: '持续热点', value: comparisonLabel })),
+        ...(comparison.dropped || []).slice(0, 1).map(item => ({ ...item, tag: '掉出榜单', value: comparisonLabel }))
+      ];
+      const signals = [...comparisonSignals, ...(report.signals || [])].slice(0, 8).map(item => [
         item.tag,
         item.title,
         item.value,
@@ -1483,16 +1565,25 @@
       const metrics = report.metrics || {};
       document.getElementById(`${prefix}Deduplicated`).textContent = metrics.deduplicated ?? '--';
       document.getElementById(`${prefix}Resonance`).textContent = metrics.resonance ?? '--';
-      document.getElementById(`${prefix}Coverage`).innerHTML = `${metrics.coverage ?? '--'} <span class="metric-delta">%</span>`;
+      const coverage = metrics.samplingCoverage ?? metrics.coverage ?? '--';
+      document.getElementById(`${prefix}Coverage`).innerHTML = `${coverage} <span class="metric-delta">%</span>`;
       document.getElementById(`${prefix}Summary`).textContent = report.summary || '暂无足够数据生成摘要。';
       if (scope === 'today') {
         document.getElementById('todayRise').innerHTML = `${metrics.maxRise > 0 ? '+' : ''}${metrics.maxRise ?? '--'} <span class="metric-delta">位</span>`;
         document.getElementById('todayEyebrow').textContent = `DAILY SIGNAL / ${(report.date || '').slice(5).replace('-', '.')}`;
-        document.getElementById('todayNote').textContent = `截至 ${(report.generatedAt || '').slice(11, 16) || '--:--'}，已整合 ${metrics.slices || 0} 个榜单时间切片。`;
+        const comparison = report.dayComparison;
+        const comparisonText = comparison?.counts
+          ? `；较 ${comparison.baselineDate || '昨日'} 新增 ${comparison.counts.new || 0} 条、升温 ${comparison.counts.rising || 0} 条、降温 ${comparison.counts.falling || 0} 条、持续 ${comparison.counts.continued || 0} 条`
+          : '';
+        document.getElementById('todayNote').textContent = `截至 ${(report.generatedAt || '').slice(11, 16) || '--:--'}，已整合 ${metrics.slices || 0} 个榜单时间切片${comparisonText}。`;
       } else {
         document.getElementById('historySlices').textContent = metrics.slices ?? '--';
         document.getElementById('historyEyebrow').textContent = `ARCHIVE / ${(report.date || '').slice(5).replace('-', '.')}`;
-        document.getElementById('historyNote').innerHTML = `覆盖 ${escapeHtml(report.date || '上一日')} 的完整归档，分析方法与今日报告一致。 <span class="complete-mark">已完成</span>`;
+        const comparison = report.dayComparison;
+        const comparisonText = comparison?.counts
+          ? `，较 ${escapeHtml(comparison.baselineDate || '前一日')} 新增 ${comparison.counts.new || 0} 条、升温 ${comparison.counts.rising || 0} 条、降温 ${comparison.counts.falling || 0} 条`
+          : '';
+        document.getElementById('historyNote').innerHTML = `覆盖 ${escapeHtml(report.date || '上一日')} 的完整归档${comparisonText}。 <span class="complete-mark">已完成</span>`;
       }
     }
 
@@ -1500,6 +1591,7 @@
       Object.keys(CHANNEL_RANKINGS).forEach(key => {
         CHANNEL_RANKINGS[key] = { '等待采集': [] };
         CHANNEL_RANKING_URLS[key] = {};
+        CHANNEL_RANKING_PROVIDERS[key] = {};
         CHANNELS[key].status = 'unavailable';
         CHANNELS[key].checkedAt = '';
         CHANNELS[key].statusMessage = '该渠道尚无统一快照';
@@ -1512,17 +1604,21 @@
         CHANNELS[key].updated = shortDateTime(snapshot.fetchedAt);
         CHANNELS[key].status = snapshot.status || 'unavailable';
         CHANNELS[key].checkedAt = snapshot.checkedAt || '';
+        const warnings = Array.isArray(snapshot.warnings) ? snapshot.warnings.filter(Boolean) : [];
         CHANNELS[key].statusMessage = snapshot.status === 'disabled'
           ? '需要在环境变量中启用该渠道'
           : snapshot.status === 'stale'
             ? '本次刷新失败，当前显示上次成功数据'
             : snapshot.status === 'ok'
-              ? '本次采集成功'
+              ? warnings.length
+                ? `本次采集成功；部分来源采集失败：${warnings.join('、')}`
+                : '本次采集成功'
               : snapshot.status === 'unavailable'
                 ? '该渠道尚未采集'
                 : snapshot.error || '等待下一次渠道采集';
         const rankings = {};
         const rankingUrls = {};
+        const rankingProviders = {};
         for (const ranking of snapshot.rankings || []) {
           rankings[ranking.name] = (ranking.items || []).map(item => ({
             ...item,
@@ -1530,9 +1626,14 @@
             url: safeUrl(item.url)
           }));
           rankingUrls[ranking.name] = ranking.sourceUrl || snapshot.sourceUrl || CHANNELS[key].sourceUrl || '';
+          rankingProviders[ranking.name] = {
+            name: ranking.providerName || '',
+            url: ranking.providerUrl || ''
+          };
         }
         CHANNEL_RANKINGS[key] = Object.keys(rankings).length ? rankings : { '暂无数据': [] };
         CHANNEL_RANKING_URLS[key] = rankingUrls;
+        CHANNEL_RANKING_PROVIDERS[key] = rankingProviders;
       }
       const statusCounts = (payload.channels || []).reduce((counts, item) => {
         const status = item.status || 'unavailable';
@@ -1561,16 +1662,50 @@
       return response.json();
     }
 
+    function populateHistoryDates(indexPayload, fallbackReport) {
+      const select = document.getElementById('historyDateSelect');
+      const candidates = Array.isArray(indexPayload?.reports) ? indexPayload.reports : [];
+      const reports = candidates.filter(item => item?.date && item?.path);
+      if (fallbackReport?.date && !reports.some(item => item.date === fallbackReport.date)) {
+        reports.unshift({ date: fallbackReport.date, path: './data/reports/previous.json' });
+      }
+      select.innerHTML = reports.length
+        ? reports.map(item => `<option value="${escapeHtml(item.path)}" data-report-date="${escapeHtml(item.date)}">${escapeHtml(item.date)}</option>`).join('')
+        : '<option value="">暂无历史报告</option>';
+      select.disabled = reports.length === 0;
+      const fallbackOption = [...select.options].find(option => option.dataset.reportDate === fallbackReport?.date);
+      if (fallbackOption) select.value = fallbackOption.value;
+    }
+
+    async function loadSelectedHistory(path) {
+      if (!path) return;
+      const select = document.getElementById('historyDateSelect');
+      select.disabled = true;
+      document.getElementById('historyNote').textContent = '正在加载所选日期报告。';
+      try {
+        renderReport('history', await fetchJson(path));
+      } catch {
+        document.getElementById('historyNote').textContent = '所选日期报告暂不可用，请稍后重试。';
+      } finally {
+        select.disabled = false;
+      }
+    }
+
     async function loadSiteData() {
       const results = await Promise.allSettled([
         fetchJson('./data/latest.json'),
         fetchJson('./data/reports/today.json'),
-        fetchJson('./data/reports/previous.json')
+        fetchJson('./data/reports/previous.json'),
+        fetchJson('./data/reports/index.json')
       ]);
       if (results[0].status === 'fulfilled') applyLatest(results[0].value);
       else document.getElementById('latestNote').textContent = '暂无统一快照，请先运行采集任务';
       if (results[1].status === 'fulfilled') renderReport('today', results[1].value);
       if (results[2].status === 'fulfilled') renderReport('history', results[2].value);
+      populateHistoryDates(
+        results[3].status === 'fulfilled' ? results[3].value : null,
+        results[2].status === 'fulfilled' ? results[2].value : null
+      );
     }
 
     document.querySelectorAll('.nav-btn').forEach(button => button.addEventListener('click', () => switchView(button.dataset.viewTarget)));
@@ -1614,6 +1749,7 @@
     document.getElementById('resetSettings').addEventListener('click', () => { prefs = structuredClone(defaultPrefs); savePrefs(); renderSettings(); renderChannels(); showToast('已恢复默认显示设置'); });
     document.getElementById('closeTopicDialog').addEventListener('click', () => document.getElementById('topicDialog').close());
     document.getElementById('closeRssDialog').addEventListener('click', () => document.getElementById('rssDialog').close());
+    document.getElementById('historyDateSelect').addEventListener('change', event => loadSelectedHistory(event.target.value));
     document.addEventListener('keydown', event => { if (event.key === 'Escape') closeSettings(); });
 
     renderTopList('todayTop', topTopics);
