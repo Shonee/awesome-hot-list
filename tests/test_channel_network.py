@@ -1,7 +1,7 @@
 import unittest
 
 from src.hotlist.models import ChannelSnapshot, HotItem, Ranking
-from src.script.check_channel_network import SKIPPED_SOURCES, count_snapshot_items, require_items
+from src.script.check_channel_network import PROBES, SKIPPED_SOURCES, count_snapshot_items, require_items
 
 
 class ChannelNetworkValidationTests(unittest.TestCase):
@@ -26,6 +26,11 @@ class ChannelNetworkValidationTests(unittest.TestCase):
     def test_bing_is_explicitly_skipped_without_non_rss_source(self):
         self.assertIn("bing", SKIPPED_SOURCES)
         self.assertIn("non-RSS", SKIPPED_SOURCES["bing"])
+
+    def test_kuaishou_chain_is_required_but_diagnostic_sources_are_optional(self):
+        self.assertTrue(PROBES["kuaishou"].required)
+        self.assertFalse(PROBES["kuaishou-official"].required)
+        self.assertFalse(PROBES["dailyhot-kuaishou"].required)
 
 
 if __name__ == "__main__":

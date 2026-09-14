@@ -54,7 +54,7 @@ Actions 将 `master` 检出到 `app/`，将 `data-pages` 检出到 `runtime/`。
 ## 调度
 
 - `collect-hourly.yml` 每小时采集默认渠道，只提交 `runtime/archived` 和 `runtime/site/data` 到 `data-pages`。
-- `collect-special.yml` 每小时触发，由 `runner.due_channel_ids()` 根据上次成功时间和渠道频率决定是否请求。
+- `collect-special.yml` 每小时触发，由 `runner.due_channel_ids()` 根据上次成功时间和渠道频率决定是否请求。显式失败且没有有效榜单的快照会立即重试，不会被失败时的 `fetchedAt` 阻塞整个低频周期。
 - `render-daily.yml` 每天生成昨日完整报告；页面模板或报告代码在 `master` 更新时也会重新渲染。
 - 所有数据写入工作流共用 `hotlist-repository-writer` 并发组，避免同时修改 `data-pages`。
 - `pages.yml` 在上述工作流成功后检出 `data-pages`，校验关键文件并上传 `site/` Artifact。
@@ -98,10 +98,13 @@ Cloudflare Pages 是可选的并行部署目标。它直接监听 `data-pages`�
 ## 代码边界
 
 - 适配器只处理来源请求和字段转换，直接返回 `ChannelSnapshot`。
-- `channels/tophub.py` 是不注册卡片、不单独归档的内部降级 Provider；它在进程内统一执行缓存和最小请求间隔。知乎、雪球、腾讯新闻和微信适配器负责把结果转换成各自的 `ChannelSnapshot`。
+- `channels/tophub.py` 是不注册卡片、不单独归档的内部降级 Provider；它在进程内统一执行缓存和最小请求间隔。知乎、雪球、腾讯新闻、微信和快手适配器负责把结果转换成各自的 `ChannelSnapshot`。
+- `channels/dailyhot.py` 是快手最后一级备用 Provider，独立执行缓存、最小请求间隔和 403/429 冷却。快手优先读取官方 Apollo 状态，今日热榜可用时不会请求 DailyHot。
 - 榜单的 `sourceUrl` 表示页面“查看详情”地址，`providerName` 和 `providerUrl` 记录本次实际数据来源。普通渠道遵循官方优先、稳定第三方其次；若只能使用 RSS，则数据进入 RSS 卡片而不是原渠道卡片。
 - `enabled_by_default`、`visible_by_default`、`include_in_report` 分别控制默认调度、首次页面展示和综合报告参与。福利吧正常采集但默认隐藏且不进入报告；脉脉三项默认关闭。
 - Linux.do 官方 JSON 在自动化环境受限，官方 RSS 作为 RSS 聚合源展示；IT之家同样使用官方 RSS。两者旧独立快照会在下一次合并时移除。
+- Hacker News 使用官方 Firebase API 成为独立卡片，并限制详情请求数；RSS 聚合不再重复请求 Hacker News。
+- `check-channel-network.yml` 对响应执行解析和最小有效条数校验。Google Trends、Hugging Face、快手官方及快手今日热榜只有通过 GitHub runner 验证后才进入默认调度；Bing 因没有合格非 RSS 数据源保持未接入。
 - RSS 快照通过 `warnings` 暴露单 Feed 失败，允许成功 Feed 继续更新；全部 Feed 都无有效数据时，采集器才返回渠道级错误。
 - runner 统一处理渠道选择、异常隔离和最新快照合并。
 - report 只读取数据根目录中的 CSV，不访问网络。综合热度以跨渠道覆盖为主要权重，并结合榜单百分位、持续度和新鲜度；`samplingCoverage` 按渠道频率衡量当天采样完成度，保留旧 `coverage` 字段用于向后兼容。

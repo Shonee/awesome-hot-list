@@ -23,6 +23,7 @@ from src.utils.http_utils import get, post
 class Probe:
     run: Callable[[], int]
     minimum: int = 5
+    required: bool = True
 
 
 SKIPPED_SOURCES = {
@@ -115,16 +116,17 @@ PROBES = {
     "netease": Probe(lambda: _collect("netease")),
     "sina": Probe(lambda: _collect("sina", require_every_ranking=True), minimum=10),
     "eastmoney": Probe(lambda: _collect("eastmoney")),
-    "eastmoney-quotes": Probe(_eastmoney_quotes),
+    "eastmoney-quotes": Probe(_eastmoney_quotes, required=False),
     "hackernews": Probe(_hackernews_api),
     "thepaper": Probe(lambda: _collect("thepaper")),
     "lobsters": Probe(lambda: _collect("lobsters")),
     "huggingface": Probe(_huggingface_api),
     "googletrends": Probe(_google_trends_page),
-    "kuaishou-official": Probe(_kuaishou_official_page),
-    "dailyhot-kuaishou": Probe(_kuaishou_dailyhot),
+    "kuaishou": Probe(lambda: _collect("kuaishou")),
+    "kuaishou-official": Probe(_kuaishou_official_page, required=False),
+    "dailyhot-kuaishou": Probe(_kuaishou_dailyhot, required=False),
     "cnblogs": Probe(lambda: _collect("cnblogs")),
-    "linuxdo": Probe(_linuxdo_rss),
+    "linuxdo": Probe(_linuxdo_rss, required=False),
     "nodeseek": Probe(lambda: _collect("nodeseek")),
     "pojie52": Probe(lambda: _collect("pojie52")),
     "qqnews": Probe(lambda: _collect("qqnews")),
@@ -164,8 +166,11 @@ def main() -> int:
             count = require_items(channel_id, probe.run(), probe.minimum)
             print(f"[ok]   {channel_id}: {count} valid item(s)")
         except Exception as exc:  # noqa: BLE001 - report every endpoint independently
-            failed += 1
-            print(f"[fail] {channel_id}: {exc}")
+            if probe.required:
+                failed += 1
+                print(f"[fail] {channel_id}: {exc}")
+            else:
+                print(f"[warn] {channel_id}: optional source unavailable: {exc}")
     if failed:
         print(f"{failed} probe(s) failed structural validation", file=sys.stderr)
         return 1

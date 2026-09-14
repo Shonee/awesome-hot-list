@@ -18,7 +18,7 @@
 - 澎湃新闻：使用官方首页侧栏结构化接口并过滤栏目节点。
 - Lobsters：使用官方 `hottest.json`。
 - Hugging Face：实现官方 Trending API 适配器，但只有 Actions 验证可达且数据有效后才默认启用。
-- 快手：优先解析官方页面的 Apollo 状态，失败时使用 DailyHot API；第三方请求采用独立限频与冷却策略，是否默认启用由 Actions 验证结果决定。
+- 快手：优先解析官方页面的 Apollo 状态，失败时使用今日热榜快手节点，最后才使用 DailyHot API；两个第三方 Provider 分别采用进程级缓存、限频与冷却策略，是否默认启用由 Actions 验证结果决定。
 - Google Trends：Actions 中验证官方 Trending 页面或结构化响应，只有能持续解析出有效条目才接入。
 - Bing：仅在找到可验证、稳定、合法的榜单源时接入。已退役的 Bing Search API 和普通搜索结果页不作为热榜源。
 

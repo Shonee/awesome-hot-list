@@ -30,16 +30,27 @@
 | --- | --- | --- | --- |
 | 哔哩哔哩 | 热门搜索、全站热门、视频排行 | 是 | 官方公开接口 |
 | 抖音 | 热搜 | 是 | 公开接口可能调整 |
+| 快手 | 快手热榜 | 是（3 小时） | 官方页面优先，失败时依次使用今日热榜和 DailyHot API |
 | 微博 | 热榜 | 是（1 小时） | 页面接口可能限制访问 |
 | 知乎 | 热搜、热榜 | 是 | `ZHIHU_COOKIE` 可选；官方热榜不可用时使用今日热榜降级源 |
+| 百度热搜 | 实时热搜 | 是 | 官方榜单页结构化数据 |
 | GitHub | 日/周/月趋势、语言榜 | 是（6 小时） | Trending 页面，Search API 兜底 |
+| Hacker News | Top Stories | 是（2 小时） | 官方 Firebase API；最多读取前 25 个详情并展示 20 条 |
+| Hugging Face | Trending Models | 是（6 小时） | 官方模型 API；已通过 Actions 网络验证 |
+| Google Trends | 香港趋势 | 是（6 小时） | 官方 Trending Now 页面；中国大陆无对应地区榜，使用香港地区 |
 | 掘金 | 热门文章 | 是 | 公开推荐接口 |
+| Lobsters | Hottest | 是 | 官方 JSON API |
 | 今日头条 | 热点榜 | 是 | 公开榜单接口 |
+| 腾讯新闻 | 热点榜 | 是 | 腾讯官方 JSON 接口优先，失败时使用今日热榜降级源 |
+| 网易新闻 | 热门新闻 | 是 | 官方移动端热闻接口 |
+| 新浪 | 新闻热榜、财经热榜 | 是 | 两个官方榜单接口聚合为一个渠道卡片 |
+| 澎湃新闻 | 热新闻 | 是 | 官方首页结构化接口 |
 | AcFun | 日榜、三日榜、周榜 | 是 | 公开榜单接口 |
 | 豆瓣 | 小组精选 | 是 | HTML 解析 |
 | 虎扑 | 热榜 | 是 | 使用移动端服务端渲染数据，桌面入口可能被 WAF 拦截 |
 | 36氪 | 热榜 | 是 | 公开榜单接口 |
 | 同花顺 | 今日要闻 | 是 | HTML 解析，结构可能调整 |
+| 东方财富 | 股票人气榜 | 是（3 小时） | 官方人气榜；批量行情不可用时保留股票代码榜单 |
 | 脉脉 | 职场热议 | 否 | 需要 `MAIMAI_COOKIE`，默认不采集、不展示且不进入综合报告，可手动采集和展示 |
 | 雪球 | 热门话题 | 是（6 小时） | 官方接口优先，失败时使用今日热榜降级源 |
 | V2EX | 热门主题 | 是（3 小时） | 公开接口；部分网络环境可能出现 TLS 访问限制 |
@@ -48,11 +59,10 @@
 | 博客园 | 24 小时推荐排行 | 是 | 公开 HTML 排行页 |
 | NodeSeek | 热门主题 | 是 | 公开页面 HTML，实际可用性以 Actions 采集结果为准 |
 | 吾爱破解 | 热门热帖 | 是 | Discuz 热榜页面 |
-| 腾讯新闻 | 热点榜 | 是 | 腾讯官方 JSON 接口优先，失败时使用今日热榜降级源 |
 | 微信文章 | 24h 热文榜 | 是 | 微信无公开全网文章热榜，当前使用今日热榜，条目跳转公众号原文 |
 | 百度贴吧 | 最有料热点 | 是 | 贴吧首页右上角热点榜，使用公开热点话题 JSON |
 | 福利吧 | 最新文章 | 是 | 官方首页；正常采集但默认隐藏，不进入综合报告，可在显示设置中开启 |
-| RSS | 新闻/AI资讯 Feed | 是 | 默认 11 个公开源，包含 IT之家和 Linux.do 官方 RSS；每个源按时间取最多 5 条 |
+| RSS | 新闻/AI资讯 Feed | 是 | 默认 10 个公开源，包含 IT之家和 Linux.do 官方 RSS；每个源按时间取最多 5 条 |
 
 单渠道失败不会中断同批其他渠道。`site/data/latest.json` 会保留上一次成功快照并标记为 `stale`，避免页面因一次网络抖动清空。
 
@@ -116,7 +126,7 @@ python3 src/script/render.py --data-root ../awesome-hot-list-data
 ## 采集频率与归档
 
 - `collect-hourly.yml` 每小时运行一次，默认采集注册表中频率为 60 分钟的公开渠道。
-- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球为 6 小时，V2EX 为 3 小时，其余默认 1 小时；脉脉不进入默认调度。
+- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face、Google Trends 为 6 小时，V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时，其余默认 1 小时；脉脉不进入默认调度。
 - 手动运行特殊渠道时可以选择 `force`，忽略间隔立即采集；新增渠道只需在 `registry.py` 设置频率，无需新增一个 Action。
 - `render-daily.yml` 每天生成前一天完整报告，同时更新今日报告。
 - `archive-weekly.yml` 每周一北京时间 02:00 将超过 7 个日历日的数据打包到 GitHub Release。`data-pages` 保留最近 7 天的 CSV，旧 CSV 和日期报告会进入 `hotlist-archive-through-YYYY-MM-DD` Release。
@@ -180,7 +190,9 @@ Cloudflare Pages 可以直接监听 `data-pages`，不需要额外构建或 Clou
 
 所有 TodayHot 请求共享进程级缓存和请求节流，默认不同页面之间至少间隔 3 秒，并且不会在 Provider 层连续重试。可用 `HOTLIST_TOPHUB_MIN_INTERVAL_SECONDS` 调大间隔，不建议设置得更低。
 
-RSS 默认包含 IT之家、少数派、爱范儿、量子位、InfoQ、极客公园、MIT Technology Review、Hacker News、AI News、阮一峰网络日志和 Linux.do 官方周榜。IT之家和 Linux.do 不再生成独立卡片，只在 RSS 卡片中展示。每个 Feed 按发布时间倒序取数据，默认最多 5 条，可用 `HOTLIST_RSS_LIMIT` 调整为 1-5 条。单个 Feed 失败不会阻断其他 Feed，RSS 卡片状态提示会列出本次失败的来源；全部失败时才将 RSS 渠道标记为采集失败。
+快手只在官方页面失败后请求今日热榜，只有前两级都失败才请求 DailyHot API。所有 DailyHot 请求同样共享进程级缓存和节流，默认最小间隔 5 秒，403/429 后停止本批次后续请求；可用 `HOTLIST_DAILYHOT_MIN_INTERVAL_SECONDS` 调大间隔。GitHub Actions 验证中快手官方与今日热榜均能返回有效数据，DailyHot 公共域名曾出现 DNS 不可达，因此它只作为最后一级备用源。
+
+RSS 默认包含 IT之家、少数派、爱范儿、量子位、InfoQ、极客公园、MIT Technology Review、AI News、阮一峰网络日志和 Linux.do 官方周榜。Hacker News 已迁移为官方 API 独立卡片，不再在 RSS 中重复展示。IT之家和 Linux.do 不再生成独立卡片，只在 RSS 卡片中展示。每个 Feed 按发布时间倒序取数据，默认最多 5 条，可用 `HOTLIST_RSS_LIMIT` 调整为 1-5 条。单个 Feed 失败不会阻断其他 Feed，RSS 卡片状态提示会列出本次失败的来源；全部失败时才将 RSS 渠道标记为采集失败。
 
 `HOTLIST_RSS_FEEDS` 支持逗号或换行分隔，也支持 `名称|URL`，设置后会覆盖默认源：
 
@@ -193,9 +205,9 @@ HOTLIST_RSS_LIMIT=5
 
 脉脉不进入默认调度。确需恢复时，先配置 `MAIMAI_COOKIE` Secret，再手动运行 hourly 工作流并将 `channels` 指定为 `maimai`；页面卡片仍需在显示设置中手动开启。
 
-## 待评估渠道
+## 未接入候选
 
-按接入稳定性和与现有内容的互补性，后续可评估谷歌热搜、必应热搜、百度热搜、东方财富和新浪财经。优先使用公开接口或稳定页面，只有在没有可维护接口且数据价值明确时才考虑浏览器抓取；渠道源数据不足或更新较慢时，再通过 RSS 作为补充。
+Bing 热搜暂未接入。Microsoft 的 Bing Search API 已退役，普通 Bing 搜索或新闻搜索结果不等同于有排名依据的热门趋势榜，本轮也未找到可独立验证的稳定非 RSS 第三方源。后续只有在出现可维护、可验证且来源语义明确的榜单时再接入，不以空卡片或搜索结果冒充热榜。
 
 ## 检查
 

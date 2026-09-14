@@ -94,7 +94,7 @@ def _lazy(channel_id: str) -> Collector:
 _METADATA = {
     "weibo": ("微博", "WB", "#e6162d", "https://s.weibo.com/top/summary", True, ()),
     "douyin": ("抖音", "DY", "#161823", "https://www.douyin.com/hot", True, ()),
-    "kuaishou": ("快手", "KS", "#ff5000", "https://www.kuaishou.com/?isHome=1&cc=CN", False, ()),
+    "kuaishou": ("快手", "KS", "#ff5000", "https://www.kuaishou.com/?isHome=1&cc=CN", True, ()),
     "zhihu": ("知乎", "ZH", "#1772f6", "https://www.zhihu.com/hot", True, ()),
     "baidu": ("百度热搜", "百", "#315efb", "https://top.baidu.com/board?tab=realtime", True, ()),
     "bilibili": ("哔哩哔哩", "BILI", "#fb7299", "https://www.bilibili.com/v/popular/all", True, ()),
@@ -107,8 +107,8 @@ _METADATA = {
     "eastmoney": ("东方财富", "东", "#f04444", "https://guba.eastmoney.com/rank/", True, ()),
     "github": ("GitHub", "GH", "#24292f", "https://github.com/trending", True, ()),
     "hackernews": ("Hacker News", "HN", "#ff6600", "https://news.ycombinator.com/", True, ()),
-    "huggingface": ("Hugging Face", "HF", "#e0a000", "https://huggingface.co/models?sort=trending", False, ()),
-    "googletrends": ("Google Trends", "G", "#4285f4", "https://trends.google.com/trending?geo=HK", False, ()),
+    "huggingface": ("Hugging Face", "HF", "#e0a000", "https://huggingface.co/models?sort=trending", True, ()),
+    "googletrends": ("Google Trends", "G", "#4285f4", "https://trends.google.com/trending?geo=HK", True, ()),
     "juejin": ("掘金", "掘", "#1e80ff", "https://juejin.cn/hot/articles", True, ()),
     "lobsters": ("Lobsters", "L", "#ac130d", "https://lobste.rs/", True, ()),
     "douban": ("豆瓣", "DB", "#00a65a", "https://movie.douban.com/chart", True, ()),
@@ -130,8 +130,8 @@ _METADATA = {
 }
 
 
-_HIDDEN_BY_DEFAULT = {"maimai", "fuliba", "kuaishou", "huggingface", "googletrends"}
-_EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "kuaishou", "huggingface", "googletrends"}
+_HIDDEN_BY_DEFAULT = {"maimai", "fuliba"}
+_EXCLUDED_FROM_REPORT = {"maimai", "fuliba"}
 
 
 CHANNELS: Dict[str, ChannelDefinition] = {

@@ -4,6 +4,7 @@ from unittest.mock import call, patch
 
 from src.hotlist.channels import baidu, eastmoney, googletrends, hackernews
 from src.hotlist.channels import huggingface, kuaishou, lobsters, netease, sina, thepaper
+from src.hotlist.registry import SPECIAL_CHANNELS, get_channel
 
 
 class FirstBatchParserTests(unittest.TestCase):
@@ -97,6 +98,18 @@ class FirstBatchParserTests(unittest.TestCase):
         self.assertEqual(len(result.rankings[0].items), hackernews.OUTPUT_LIMIT)
         self.assertLessEqual(request.call_count, hackernews.DETAIL_LIMIT + 1)
 
+    @patch("src.hotlist.channels.hackernews.get")
+    def test_hackernews_skips_one_failed_story_request(self, request):
+        request.side_effect = [
+            [100, 101],
+            RuntimeError("one story failed"),
+            {"id": 101, "type": "story", "title": "Still works", "score": 1},
+        ]
+
+        result = hackernews.collect()
+
+        self.assertEqual([item.title for item in result.rankings[0].items], ["Still works"])
+
 
 class SecondBatchParserTests(unittest.TestCase):
     def test_thepaper_only_reads_article_nodes(self):
@@ -131,6 +144,15 @@ class SecondBatchParserTests(unittest.TestCase):
 
 
 class CandidateSourceTests(unittest.TestCase):
+    def test_actions_verified_candidates_are_enabled_and_reported(self):
+        for channel_id in ("kuaishou", "huggingface", "googletrends"):
+            definition = get_channel(channel_id)
+            with self.subTest(channel=channel_id):
+                self.assertTrue(definition.enabled_by_default)
+                self.assertTrue(definition.visible_by_default)
+                self.assertTrue(definition.include_in_report)
+                self.assertIn(channel_id, SPECIAL_CHANNELS)
+
     def test_google_trends_reads_official_embedded_data(self):
         data = [None, [["任正非", None, "HK", [1789302600], None, None, 5000, None, 1000, ["任正非 最新消息"]]]]
         html = "<script>AF_initDataCallback({key: 'ds:0', hash: '2', data:" + json.dumps(data, ensure_ascii=False) + ", sideChannel: {}});</script>"
