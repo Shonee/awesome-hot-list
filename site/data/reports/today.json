@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14 12:28:30",
-    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，成都一越野车高架上坠落致1死1伤紧随其后。当前覆盖 33 个有效渠道，共形成 466 个榜单时间切片；发现 68 个跨渠道重复热点。",
+    "generatedAt": "2026-09-14 12:36:47",
+    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，成都一越野车高架上坠落致1死1伤紧随其后。当前覆盖 33 个有效渠道，共形成 467 个榜单时间切片；发现 68 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2753,
+        "deduplicated": 2759,
         "resonance": 68,
         "maxRise": 57,
-        "slices": 466,
+        "slices": 467,
         "coverage": 100,
         "samplingCoverage": 75
     },
@@ -1785,7 +1785,7 @@
         },
         {
             "word": "Pro",
-            "weight": 59,
+            "weight": 60,
             "tone": "teal",
             "hits": [
                 {
@@ -1965,6 +1965,14 @@
                     "url": "https://www.36kr.com/p/3982673086675712"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "“万 1 免五”股票基金低费率大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.14 日~9.21 日]",
+                    "url": "https://www.v2ex.com/t/1241745"
+                },
+                {
                     "channelId": "stackoverflow",
                     "channelName": "Stack Overflow",
                     "ranking": "热门问题",
@@ -2019,14 +2027,6 @@
                     "rank": 1,
                     "title": "Beyond tutorials: How can I improve my web development skills?",
                     "url": "https://stackoverflow.com/questions/80002882/beyond-tutorials-how-can-i-improve-my-web-development-skills"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 8,
-                    "title": "【650已收到】收个DMIT LAX PRO WEE新版  最好给原邮",
-                    "url": "https://www.nodeseek.com/post-920893-1"
                 }
             ]
         },
@@ -8769,9 +8769,9 @@
         "times": [
             "00:20",
             "04:19",
-            "07:17",
-            "09:37",
-            "12:28"
+            "07:18",
+            "09:44",
+            "12:36"
         ],
         "rows": [
             {
