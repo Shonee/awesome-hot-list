@@ -1,6 +1,6 @@
 # 百度热搜热榜
 
-> 更新时间：2026-09-14 11:26:10
+> 更新时间：2026-09-14 11:28:07
 
 ## 实时热搜
 
@@ -30,8 +30,8 @@
 24. [4.26元！年内最便宜新股来了](https://www.baidu.com/s?wd=4.26%E5%85%83%EF%BC%81%E5%B9%B4%E5%86%85%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%96%B0%E8%82%A1%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 25. [公职人员醉驾撞死夫妻 事发监控曝光](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB%E5%A4%AB%E5%A6%BB+%E4%BA%8B%E5%8F%91%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 26. [新疆昭苏上演大地“鸳鸯锅”](https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E6%98%AD%E8%8B%8F%E4%B8%8A%E6%BC%94%E5%A4%A7%E5%9C%B0%E2%80%9C%E9%B8%B3%E9%B8%AF%E9%94%85%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
-27. [男子出轨被开除 家属索赔38万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E5%BC%80%E9%99%A4+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9438%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
-28. [出租屋花盆里搜出1930克黄金](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8A%B1%E7%9B%86%E9%87%8C%E6%90%9C%E5%87%BA1930%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
+27. [出租屋花盆里搜出1930克黄金](https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8A%B1%E7%9B%86%E9%87%8C%E6%90%9C%E5%87%BA1930%E5%85%8B%E9%BB%84%E9%87%91&sa=fyb_news&rsv_dl=fyb_news)
+28. [男子出轨被开除 家属索赔38万](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E5%BC%80%E9%99%A4+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9438%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
 29. [借5万盘下小店面 如今企业年产值3亿](https://www.baidu.com/s?wd=%E5%80%9F5%E4%B8%87%E7%9B%98%E4%B8%8B%E5%B0%8F%E5%BA%97%E9%9D%A2+%E5%A6%82%E4%BB%8A%E4%BC%81%E4%B8%9A%E5%B9%B4%E4%BA%A7%E5%80%BC3%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
 30. [受贿46次 三甲医院被30多家药企围猎](https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF46%E6%AC%A1+%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E8%A2%AB30%E5%A4%9A%E5%AE%B6%E8%8D%AF%E4%BC%81%E5%9B%B4%E7%8C%8E&sa=fyb_news&rsv_dl=fyb_news)
 31. [多地发布提醒告诫书](https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%E5%91%8A%E8%AF%AB%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news)
@@ -48,9 +48,9 @@
 42. [王毅与俄罗斯外长、伊朗外长友好交流](https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E3%80%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&sa=fyb_news&rsv_dl=fyb_news)
 43. [央视曝光数百万元治污工程闲置](https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%95%B0%E7%99%BE%E4%B8%87%E5%85%83%E6%B2%BB%E6%B1%A1%E5%B7%A5%E7%A8%8B%E9%97%B2%E7%BD%AE&sa=fyb_news&rsv_dl=fyb_news)
 44. [兹维列夫美网男单冠军](https://www.baidu.com/s?wd=%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news)
-45. [开学典礼“无臂教授”这段演讲火了](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E2%80%9C%E6%97%A0%E8%87%82%E6%95%99%E6%8E%88%E2%80%9D%E8%BF%99%E6%AE%B5%E6%BC%94%E8%AE%B2%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
-46. [立陶宛错把鸟群当成无人机](https://www.baidu.com/s?wd=%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%94%99%E6%8A%8A%E9%B8%9F%E7%BE%A4%E5%BD%93%E6%88%90%E6%97%A0%E4%BA%BA%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
-47. [海南五指山持续暴雨 河水暴涨](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%BA%94%E6%8C%87%E5%B1%B1%E6%8C%81%E7%BB%AD%E6%9A%B4%E9%9B%A8+%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)
-48. [网红墙绘孤独少女被围挡](https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%A2%99%E7%BB%98%E5%AD%A4%E7%8B%AC%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%9B%B4%E6%8C%A1&sa=fyb_news&rsv_dl=fyb_news)
-49. [女星彭小苒 直播服装](https://www.baidu.com/s?wd=%E5%A5%B3%E6%98%9F%E5%BD%AD%E5%B0%8F%E8%8B%92+%E7%9B%B4%E6%92%AD%E6%9C%8D%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)
-50. [王健林甩卖HYROX 估值或达47亿](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E7%94%A9%E5%8D%96HYROX+%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE47%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
+45. [立陶宛错把鸟群当成无人机](https://www.baidu.com/s?wd=%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%94%99%E6%8A%8A%E9%B8%9F%E7%BE%A4%E5%BD%93%E6%88%90%E6%97%A0%E4%BA%BA%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news)
+46. [开学典礼“无臂教授”这段演讲火了](https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E2%80%9C%E6%97%A0%E8%87%82%E6%95%99%E6%8E%88%E2%80%9D%E8%BF%99%E6%AE%B5%E6%BC%94%E8%AE%B2%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+47. [王健林甩卖HYROX 估值或达47亿](https://www.baidu.com/s?wd=%E7%8E%8B%E5%81%A5%E6%9E%97%E7%94%A9%E5%8D%96HYROX+%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE47%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news)
+48. [女星彭小苒 直播服装](https://www.baidu.com/s?wd=%E5%A5%B3%E6%98%9F%E5%BD%AD%E5%B0%8F%E8%8B%92+%E7%9B%B4%E6%92%AD%E6%9C%8D%E8%A3%85&sa=fyb_news&rsv_dl=fyb_news)
+49. [海南五指山持续暴雨 河水暴涨](https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E4%BA%94%E6%8C%87%E5%B1%B1%E6%8C%81%E7%BB%AD%E6%9A%B4%E9%9B%A8+%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news)
+50. [地震局回应“预警信息接入苹果系统”](https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E2%80%9C%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF%E6%8E%A5%E5%85%A5%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)

@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 10:34:18
+> 更新时间：2026-09-14 11:28:56
 
 ## IT之家
 
-1. [2999 元起：小米平板 9/9 Pro 开启预售，骁龙 8s Gen 4/8 Gen 5 芯片](https://www.ithome.com/1/001/962.htm)
-2. [微软 Win11 拓展 Copilot 专属按钮，可映射右键菜单 / 右 Ctrl 选项](https://www.ithome.com/1/001/961.htm)
-3. [OPPO ColorOS 17 系统全新流体设计官宣，9 月 17 日发布](https://www.ithome.com/1/001/960.htm)
-4. [广汽集团回应紧急停牌，收市后将发布重要公告](https://www.ithome.com/1/001/959.htm)
-5. [马斯克：Grok 4.8 模型本周完成训练，参数量 2.5 万亿](https://www.ithome.com/1/001/947.htm)
+1. [国产捉宠 RPG《伊莫》开启预载，PC 端 9 月 16 日开启公测](https://www.ithome.com/1/001/995.htm)
+2. [华虹宏力完成 82.68 亿元收购案，华力微成为其全资子公司](https://www.ithome.com/1/001/994.htm)
+3. [小米推出米家智能浴霸 2C：搭 3000W 石墨烯加热模块、支持人感照明 / 感应换气，882 元](https://www.ithome.com/1/001/993.htm)
+4. [肖战官宣出任荣耀旗舰手机全球代言人，Magic9 系列新机官图发布](https://www.ithome.com/1/001/992.htm)
+5. [非官方应用 NeuralScreen 延伸英伟达 DLSS 5，增强 Win11 视频 / 图片等体验](https://www.ithome.com/1/001/991.htm)
 
 ## 少数派
 
@@ -28,19 +28,19 @@
 
 ## 量子位
 
-1. [智谱提前剧透GLM-6.0：完全自训练方法公开了](https://www.qbitai.com/2026/09/488694.html)
-2. [2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体](https://www.qbitai.com/2026/09/488672.html)
-3. [GitHub三榜第一背后，一个“专升本”工程师的十年](https://www.qbitai.com/2026/09/488519.html)
-4. [今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你](https://www.qbitai.com/2026/09/488447.html)
-5. [OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了](https://www.qbitai.com/2026/09/488380.html)
+1. [奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX](https://www.qbitai.com/2026/09/488699.html)
+2. [智谱提前剧透GLM-6.0：完全自训练方法公开了](https://www.qbitai.com/2026/09/488694.html)
+3. [2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体](https://www.qbitai.com/2026/09/488672.html)
+4. [GitHub三榜第一背后，一个“专升本”工程师的十年](https://www.qbitai.com/2026/09/488519.html)
+5. [今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你](https://www.qbitai.com/2026/09/488447.html)
 
 ## InfoQ
 
-1. [Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion](https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article)
-2. [‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article)
-3. [Figma 如何利用 AI 代理提升安全性](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article)
-4. [Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article)
-5. [AI的新用法，被这群 Builder 带到了外滩大会开发者日](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article)
+1. [欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&utm_medium=article)
+2. [Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion](https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article)
+3. [‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article)
+4. [Figma 如何利用 AI 代理提升安全性](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article)
+5. [Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -57,14 +57,6 @@
 3. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 4. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
 5. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
-
-## Hacker News
-
-1. [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)
-2. [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
-3. [AI is not a normal technology](https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology)
-4. [Writing a better reality: The case for optimistic sci-fi](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/)
-5. [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)
 
 ## AI News
 
