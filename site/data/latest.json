@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-15 02:25:53",
+    "generatedAt": "2026-09-15 02:34:00",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5590,7 +5590,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-14 23:31:12",
+            "fetchedAt": "2026-09-15 02:34:00",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5604,183 +5604,183 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "How to Write an Effective Software Design Document",
-                            "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-                            "hot": 158,
-                            "description": "35 comments",
+                            "title": "Pion, an agent designed to run any company autonomously",
+                            "url": "https://andonlabs.com/blog/why-we-built-pion",
+                            "hot": 64,
+                            "description": "64 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 13:00:46 UTC"
+                            "publishedAt": "2026-09-14 17:16:06 UTC"
                         },
                         {
                             "rank": 2,
+                            "title": "Distributed Systems Classics (2017)",
+                            "url": "https://nvartolomei.com/dist-sys-classics/",
+                            "hot": 107,
+                            "description": "24 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:02:01 UTC"
+                        },
+                        {
+                            "rank": 3,
+                            "title": "Why don't machine learning research agents overfit?",
+                            "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+                            "hot": 49,
+                            "description": "21 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:32:23 UTC"
+                        },
+                        {
+                            "rank": 4,
+                            "title": "Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
+                            "url": "https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/",
+                            "hot": 16,
+                            "description": "4 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 17:58:00 UTC"
+                        },
+                        {
+                            "rank": 5,
+                            "title": "iOS 27, iPadOS 27, and macOS 27",
+                            "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+                            "hot": 110,
+                            "description": "86 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 17:50:29 UTC"
+                        },
+                        {
+                            "rank": 6,
+                            "title": "Principles for Fast Tokio Applications",
+                            "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+                            "hot": 73,
+                            "description": "14 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 15:27:56 UTC"
+                        },
+                        {
+                            "rank": 7,
+                            "title": "Steam Frame starts at $1059",
+                            "url": "https://store.steampowered.com/hardware/steamframe",
+                            "hot": 120,
+                            "description": "50 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 17:27:55 UTC"
+                        },
+                        {
+                            "rank": 8,
+                            "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+                            "url": "https://www.neobrutalism.dev/",
+                            "hot": 59,
+                            "description": "33 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:02:02 UTC"
+                        },
+                        {
+                            "rank": 9,
+                            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+                            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+                            "hot": 206,
+                            "description": "206 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 12:40:57 UTC"
+                        },
+                        {
+                            "rank": 10,
+                            "title": "A Beginning for Mathematics",
+                            "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+                            "hot": 44,
+                            "description": "6 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 15:33:07 UTC"
+                        },
+                        {
+                            "rank": 11,
                             "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
                             "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-                            "hot": 34,
-                            "description": "11 comments",
+                            "hot": 88,
+                            "description": "38 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 13:59:09 UTC"
                         },
                         {
-                            "rank": 3,
-                            "title": "Jabber/XMPP: How Do We Gain Traction?",
-                            "url": "https://gultsch.de/posts/how-do-we-gain-traction/",
-                            "hot": 32,
-                            "description": "12 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:37:49 UTC"
-                        },
-                        {
-                            "rank": 4,
-                            "title": "The AI job market in 2026",
-                            "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
-                            "hot": 45,
-                            "description": "18 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 13:49:57 UTC"
-                        },
-                        {
-                            "rank": 5,
-                            "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-                            "url": "https://rietta.com/blog/rubygems-supply-chain-openai/",
-                            "hot": 17,
+                            "rank": 12,
+                            "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+                            "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+                            "hot": 11,
                             "description": "4 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:39:01 UTC"
+                            "publishedAt": "2026-09-14 16:07:58 UTC"
                         },
                         {
-                            "rank": 6,
-                            "title": "Graphic Rants: Nanite Tessellation",
-                            "url": "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html",
-                            "hot": 15,
-                            "description": "2 comments",
+                            "rank": 13,
+                            "title": "How my e-reader lost its stripes",
+                            "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+                            "hot": 24,
+                            "description": "1 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:27:24 UTC"
+                            "publishedAt": "2026-09-14 16:23:16 UTC"
                         },
                         {
-                            "rank": 7,
-                            "title": "Where has Construction Automation been successful?",
-                            "url": "https://www.construction-physics.com/p/where-has-construction-automation",
-                            "hot": 18,
-                            "description": "13 comments",
+                            "rank": 14,
+                            "title": "XCancel service is suspended until further notice",
+                            "url": "https://xcancel.com/#",
+                            "hot": 200,
+                            "description": "470 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:13:52 UTC"
+                            "publishedAt": "2026-09-14 09:51:50 UTC"
                         },
                         {
-                            "rank": 8,
-                            "title": "EuroBirdPortal – Live bird movements across Europe",
-                            "url": "https://www.eurobirdportal.org/ebp/en/",
-                            "hot": 185,
-                            "description": "52 comments",
+                            "rank": 15,
+                            "title": "Truncated SVD (2023)",
+                            "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+                            "hot": 21,
+                            "description": "1 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 08:25:47 UTC"
+                            "publishedAt": "2026-09-14 16:00:33 UTC"
                         },
                         {
-                            "rank": 9,
+                            "rank": 16,
+                            "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+                            "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+                            "hot": 12,
+                            "description": "4 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 17:02:34 UTC"
+                        },
+                        {
+                            "rank": 17,
+                            "title": "When LLM judges agree, should we believe them?",
+                            "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+                            "hot": 23,
+                            "description": "8 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:29:30 UTC"
+                        },
+                        {
+                            "rank": 18,
+                            "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+                            "url": "https://spectrum.ieee.org/adversarial-fashion",
+                            "hot": 59,
+                            "description": "26 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 14:04:53 UTC"
+                        },
+                        {
+                            "rank": 19,
                             "title": "An atlas of periodic solutions to the three-body problem",
                             "url": "https://www.threebodyorbits.com/",
-                            "hot": 194,
-                            "description": "38 comments",
+                            "hot": 266,
+                            "description": "60 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 10:13:24 UTC"
                         },
                         {
-                            "rank": 10,
-                            "title": "A 386 PC for Your RP2350",
-                            "url": "https://github.com/rh1tech/frank-386",
-                            "hot": 155,
-                            "description": "43 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 08:25:57 UTC"
-                        },
-                        {
-                            "rank": 11,
-                            "title": "Understanding FlashAttention Pt 1: Personal Notes",
-                            "url": "https://chizkidd.github.io//2026/09/13/flashattention/",
-                            "hot": 13,
-                            "description": "0 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:01:04 UTC"
-                        },
-                        {
-                            "rank": 12,
-                            "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-                            "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-                            "hot": 27,
-                            "description": "18 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-11 14:55:41 UTC"
-                        },
-                        {
-                            "rank": 13,
-                            "title": "Trying to Make a Loop Auto-Vectorize",
-                            "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-                            "hot": 8,
-                            "description": "0 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-10 04:50:25 UTC"
-                        },
-                        {
-                            "rank": 14,
-                            "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
-                            "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-                            "hot": 27,
-                            "description": "5 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 13:20:22 UTC"
-                        },
-                        {
-                            "rank": 15,
-                            "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
-                            "url": "https://github.com/Newspicel/sdrminusminus",
-                            "hot": 26,
-                            "description": "1 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:35:56 UTC"
-                        },
-                        {
-                            "rank": 16,
-                            "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-                            "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-                            "hot": 166,
-                            "description": "87 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:01:32 UTC"
-                        },
-                        {
-                            "rank": 17,
-                            "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
-                            "url": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/",
-                            "hot": 22,
-                            "description": "24 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:23:11 UTC"
-                        },
-                        {
-                            "rank": 18,
-                            "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
-                            "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
-                            "hot": 17,
-                            "description": "4 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 13:01:04 UTC"
-                        },
-                        {
-                            "rank": 19,
-                            "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-                            "url": "https://github.com/callbacked/kinesis",
-                            "hot": 86,
-                            "description": "26 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:01:31 UTC"
-                        },
-                        {
                             "rank": 20,
-                            "title": "Texas judge rules TikTok misled users on child safety feature",
-                            "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
-                            "hot": 92,
-                            "description": "33 comments",
+                            "title": "Ask HN: What are you working on? (September 2026)",
+                            "url": "https://news.ycombinator.com/item?id=49686380",
+                            "hot": 253,
+                            "description": "782 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:37:42 UTC"
+                            "publishedAt": "2026-09-13 17:31:38 UTC"
                         }
                     ]
                 }
@@ -12518,7 +12518,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-14 22:32:35",
+            "fetchedAt": "2026-09-15 02:34:00",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -12534,7 +12534,7 @@
                             "rank": 1,
                             "title": "第一次在试用期开除一个人，和大家探讨一下如何招人，用人。",
                             "url": "https://www.v2ex.com/t/1241795",
-                            "hot": 162,
+                            "hot": 167,
                             "description": "职场话题",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 10:49:49"
@@ -12543,7 +12543,7 @@
                             "rank": 2,
                             "title": "领证后买的房一直空关，岳父母要住 3—5 年并搬大件家具，我要同意吗？",
                             "url": "https://www.v2ex.com/t/1241840",
-                            "hot": 152,
+                            "hot": 160,
                             "description": "生活",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 13:00:41"
@@ -12552,7 +12552,7 @@
                             "rank": 3,
                             "title": "对华为手机的贬值有了新的认识",
                             "url": "https://www.v2ex.com/t/1241792",
-                            "hot": 117,
+                            "hot": 120,
                             "description": "华为",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 12:15:27"
@@ -12561,7 +12561,7 @@
                             "rank": 4,
                             "title": "“万 1 免五”股票基金低费率大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.14 日~9.21 日]",
                             "url": "https://www.v2ex.com/t/1241745",
-                            "hot": 109,
+                            "hot": 114,
                             "description": "推广",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 08:35:27"
@@ -12570,55 +12570,55 @@
                             "rank": 5,
                             "title": "纯电还是混动",
                             "url": "https://www.v2ex.com/t/1241810",
-                            "hot": 105,
+                            "hot": 109,
                             "description": "汽车",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 11:20:59"
                         },
                         {
                             "rank": 6,
-                            "title": "被项目经理针对了，怎么办",
-                            "url": "https://www.v2ex.com/t/1241751",
-                            "hot": 77,
-                            "description": "职场话题",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 09:09:14"
-                        },
-                        {
-                            "rank": 7,
                             "title": "预测一下， 2027 年的今天，程序员在职数量会减少 80%",
                             "url": "https://www.v2ex.com/t/1241755",
-                            "hot": 77,
+                            "hot": 80,
                             "description": "职场话题",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 09:22:46"
                         },
                         {
+                            "rank": 7,
+                            "title": "被项目经理针对了，怎么办",
+                            "url": "https://www.v2ex.com/t/1241751",
+                            "hot": 79,
+                            "description": "职场话题",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 09:09:14"
+                        },
+                        {
                             "rank": 8,
                             "title": "豆包输入法 win 正式版终于出来了",
                             "url": "https://www.v2ex.com/t/1241746",
-                            "hot": 76,
+                            "hot": 77,
                             "description": "软件",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 08:48:28"
                         },
                         {
                             "rank": 9,
-                            "title": "18PM 首发已入，有没有推荐的壳和膜",
-                            "url": "https://www.v2ex.com/t/1241770",
-                            "hot": 64,
-                            "description": "Apple",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 09:59:53"
-                        },
-                        {
-                            "rank": 10,
                             "title": "第一次做出海产品，上线 3 个多月几乎没流量，有点迷茫了。",
                             "url": "https://www.v2ex.com/t/1241853",
-                            "hot": 64,
+                            "hot": 71,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 13:56:45"
+                        },
+                        {
+                            "rank": 10,
+                            "title": "18PM 首发已入，有没有推荐的壳和膜",
+                            "url": "https://www.v2ex.com/t/1241770",
+                            "hot": 65,
+                            "description": "Apple",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 09:59:53"
                         }
                     ]
                 }
