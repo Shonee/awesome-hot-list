@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 15:32:37
+> 更新时间：2026-09-14 16:33:47
 
 ## IT之家
 
-1. [美光、闪迪赴韩争抢半导体核心人才，三星加码薪酬与股权激励应对挖角](https://www.ithome.com/1/002/109.htm)
-2. [全球首次：杭州镓仁半导体实现 12 英寸氧化镓晶体等径生长](https://www.ithome.com/1/002/107.htm)
-3. [华为 WATCH FIT 5 系列迎来鸿蒙 HarmonyOS 7 升级：系统界面全新升级，新增万象模块表盘](https://www.ithome.com/1/002/100.htm)
-4. [比亚迪股份副总裁李柯称燃油车已没有未来](https://www.ithome.com/1/002/099.htm)
-5. [ATK 推出 YOGO 75 系列三模矮轴机械键盘，到手价 599.25 元起](https://www.ithome.com/1/002/098.htm)
+1. [京东家政首次推出家厨服务：专业团队上门做饭，食材来自七鲜超市](https://www.ithome.com/1/002/152.htm)
+2. [大众发布 Mission Efficiency 概念车：创下三项能效纪录，百公里耗电量仅 6.48 千瓦时](https://www.ithome.com/1/002/151.htm)
+3. [成渝中线高铁全线无砟轨道完工，建成通车后成都至重庆 50 分钟可达](https://www.ithome.com/1/002/150.htm)
+4. [铭瑄 MS-iCraft B850M GKD5 WIFI 主板上市，1249 元](https://www.ithome.com/1/002/149.htm)
+5. [荣耀 Magic9 超能版手机规格曝光：第五代骁龙 8 至尊版处理器，11000mAh 电池](https://www.ithome.com/1/002/148.htm)
 
 ## 少数派
 
-1. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
-2. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
-3. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
-4. [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
-5. [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
+1. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
+2. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+3. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
+4. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
+5. [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
 
 ## 爱范儿
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [openJiuwen 首发双维度 RSI 框架，AI 自修改，落地办公智能体，算力亲和助力又快又省](https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&utm_medium=article)
-2. [GitLab 警告称，AI 代理的沙箱安全性取决于其网络访问的安全性](https://www.infoq.cn/article/XLzpR2brCNW2VgYuuYJk?utm_source=rss&utm_medium=article)
-3. [欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&utm_medium=article)
-4. [Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion](https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article)
-5. [‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article)
+1. [不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海](https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article)
+2. [ICANN 取消第三级 .name 域名注册，是否为身份盗用敞开了大门？](https://www.infoq.cn/article/DlKsq4vFFkUV9Xl7Fxls?utm_source=rss&utm_medium=article)
+3. [openJiuwen 首发双维度 RSI 框架，AI 自修改，落地办公智能体，算力亲和助力又快又省](https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&utm_medium=article)
+4. [GitLab 警告称，AI 代理的沙箱安全性取决于其网络访问的安全性](https://www.infoq.cn/article/XLzpR2brCNW2VgYuuYJk?utm_source=rss&utm_medium=article)
+5. [欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -60,11 +60,11 @@
 
 ## AI News
 
-1. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-2. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
-3. [JD.com expands physical AI in logistics with 3 million robots](https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/)
-4. [CloudNC aims to accelerate AI supply chain machining](https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/)
-5. [Samsung taps Mistral AI models for semiconductor manufacturing](https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/)
+1. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+2. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
+3. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
+4. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+5. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
 
 ## 阮一峰网络日志
 
