@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-14 18:22:31
+> 更新时间：2026-09-14 19:20:35
 
 ## Hottest
 
@@ -15,17 +15,17 @@
 9. [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
 10. [Golang developers should try Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)
 11. [What are you doing this week?](https://lobste.rs/s/0inlyw)
-12. [I made a build visualizer to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
-13. [This PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
-14. [heol](https://wiki.xxiivv.com/site/heol.html)
-15. [From Git to Fossil (2025)](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html)
+12. [This PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
+13. [I made a build visualizer to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
+14. [From Git to Fossil (2025)](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html)
+15. [heol](https://wiki.xxiivv.com/site/heol.html)
 16. [Can a regex match valid card numbers?](https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/)
-17. [Singeli: High-level interface for low-level programming](https://github.com/mlochbaum/Singeli)
-18. [Stabilizing Rust's never type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
+17. [Stabilizing Rust's never type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
+18. [Singeli: High-level interface for low-level programming](https://github.com/mlochbaum/Singeli)
 19. [After Math](https://terrytao.wordpress.com/2026/09/12/after-math/)
 20. [Sorry, Wrong Number: Debugging a Crash under Wine (2022)](https://blog.jchw.dev/wrong-number/)
-21. [Download Dimensional Drawings - Accessories](https://developer.apple.com/accessories/dimensional-drawings/)
-22. [A Dick Smith VZ200 without the Dick Smith](http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html)
-23. [Being lazy in C++](https://cpp-rendering.io/being-lazy-in-c/)
-24. [The Edsac Film (1951, 1976)](https://www.youtube.com/watch?v=DjhRRj6WYcs)
-25. [GEFS: The File Shredder of the Future](https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u)
+21. [Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats](https://codeberg.org/mergiraf/mergiraf)
+22. [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/)
+23. [Download Dimensional Drawings - Accessories](https://developer.apple.com/accessories/dimensional-drawings/)
+24. [GEFS: The File Shredder of the Future](https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u)
+25. [A Dick Smith VZ200 without the Dick Smith](http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html)

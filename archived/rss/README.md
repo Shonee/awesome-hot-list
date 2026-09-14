@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 18:23:18
+> 更新时间：2026-09-14 19:21:27
 
 ## IT之家
 
-1. [长城魏牌高山 8/9 智慧版 MPV 开启下订：5000 元订金可抵 8000 元尾款，PHEV 版四季度上市](https://www.ithome.com/1/002/242.htm)
-2. [岚图梦想家 9 将于本月内正式上市，预售价 42.99 万元起](https://www.ithome.com/1/002/241.htm)
-3. [部分惠普用户反馈无法安装微软 8 月 Win11 累积更新，开机卡 HP 标志界面](https://www.ithome.com/1/002/239.htm)
-4. [从 6 月至 8 月底，消息称追觅离职与被裁员工在 1 万人左右](https://www.ithome.com/1/002/234.htm)
-5. [消息称三星电机与高通合作开发基于有机桥片的 2.1D 先进封装](https://www.ithome.com/1/002/233.htm)
+1. [一汽红旗首款硬派越野 G919 将于 9 月 22 日预售，轴距 2900mm](https://www.ithome.com/1/002/248.htm)
+2. [《GTA 6》迈阿密线下宣传广告牌曝光，当地官员曾反对相关营销活动](https://www.ithome.com/1/002/245.htm)
+3. [OPPO 33W 口袋充超级闪充移动电源 10000 上架：新国标、A+C 双口，9 月 22 日发布](https://www.ithome.com/1/002/244.htm)
+4. [消息称多家大厂派开发人员赴苹果总部，适配 iPhone Duo 折叠手机](https://www.ithome.com/1/002/243.htm)
+5. [长城魏牌高山 8/9 智慧版 MPV 开启下订：5000 元订金可抵 8000 元尾款，PHEV 版四季度上市](https://www.ithome.com/1/002/242.htm)
 
 ## 少数派
 
-1. [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
-2. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
-3. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
-4. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
-5. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
+1. [派评｜近期值得关注的 App](https://sspai.com/post/114577)
+2. [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
+3. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
+4. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+5. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
 
 ## 爱范儿
 
@@ -28,11 +28,11 @@
 
 ## 量子位
 
-1. [分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”](https://www.qbitai.com/2026/09/489023.html)
-2. [端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装](https://www.qbitai.com/2026/09/488933.html)
-3. [一年连融三轮，这家金融AI公司又拿下超3亿B轮](https://www.qbitai.com/2026/09/488912.html)
-4. [2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会](https://www.qbitai.com/2026/09/488875.html)
-5. [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html)
+1. [首届蚂蚁灵波具身大模型挑战赛正式启动](https://www.qbitai.com/2026/09/489105.html)
+2. [全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证](https://www.qbitai.com/2026/09/489106.html)
+3. [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/489037.html)
+4. [分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”](https://www.qbitai.com/2026/09/489023.html)
+5. [端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装](https://www.qbitai.com/2026/09/488933.html)
 
 ## InfoQ
 
@@ -57,6 +57,14 @@
 3. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 4. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
 5. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
+
+## AI News
+
+1. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+2. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
+3. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
+4. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
+5. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
 
 ## 阮一峰网络日志
 

@@ -1,26 +1,26 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-14 18:22:38
+> 更新时间：2026-09-14 19:20:45
 
 ## 热新闻
 
 1. [王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤](https://www.thepaper.cn/newsDetail_forward_34062704)
 2. [30年过去，话剧《商鞅》依然一票难求](https://www.thepaper.cn/newsDetail_forward_34060480)
-3. [媒体实地采访“烧烤店主被频繁检查”：有116件投诉来自同一举报人](https://www.thepaper.cn/newsDetail_forward_34061555)
-4. [水均益忆敬一丹：“野蛮生长”年代里的“大姐姐”](https://www.thepaper.cn/newsDetail_forward_34062407)
-5. [上海警方查处倒卖脱口秀门票“黄牛”：3人被采取刑事强制措施，3人被行政处罚](https://www.thepaper.cn/newsDetail_forward_34062127)
-6. [央视曝光农村治污乱象：近200万建成污水处理站，村民一天没用还收费](https://www.thepaper.cn/newsDetail_forward_34062116)
-7. [游客在距离市区约30公里的泸州东站下车后建议更改站名，官方答复](https://www.thepaper.cn/newsDetail_forward_34064772)
-8. [超30家药企长期行贿，涉案1.84亿！河北医科大学第二医院回应：正配合监管部门开展工作](https://www.thepaper.cn/newsDetail_forward_34065386)
-9. [十大券商看后市｜A股短期胜率和赔率均提升，保持信心和冷静](https://www.thepaper.cn/newsDetail_forward_34064560)
-10. [决赛不敌张本美和，国乒女将陈熠收获澳门冠军赛女单亚军](https://www.thepaper.cn/newsDetail_forward_34061924)
+3. [水均益忆敬一丹：“野蛮生长”年代里的“大姐姐”](https://www.thepaper.cn/newsDetail_forward_34062407)
+4. [上海警方查处倒卖脱口秀门票“黄牛”：3人被采取刑事强制措施，3人被行政处罚](https://www.thepaper.cn/newsDetail_forward_34062127)
+5. [央视曝光农村治污乱象：近200万建成污水处理站，村民一天没用还收费](https://www.thepaper.cn/newsDetail_forward_34062116)
+6. [游客在距离市区约30公里的泸州东站下车后建议更改站名，官方答复](https://www.thepaper.cn/newsDetail_forward_34064772)
+7. [超30家药企长期行贿，涉案1.84亿！河北医科大学第二医院回应：正配合监管部门开展工作](https://www.thepaper.cn/newsDetail_forward_34065386)
+8. [十大券商看后市｜A股短期胜率和赔率均提升，保持信心和冷静](https://www.thepaper.cn/newsDetail_forward_34064560)
+9. [决赛不敌张本美和，国乒女将陈熠收获澳门冠军赛女单亚军](https://www.thepaper.cn/newsDetail_forward_34061924)
+10. [外交部：散播人工智能威胁叙事不符合任何一方利益](https://www.thepaper.cn/newsDetail_forward_34066545)
 11. [财晓得｜一年花掉3126亿！猫猫狗狗这碗饭，市场有多大？](https://www.thepaper.cn/newsDetail_forward_34037867)
 12. [国家卫健委：我国人口大国基本面没有变](https://www.thepaper.cn/newsDetail_forward_34065847)
 13. [国务院国资委：中央企业带头及时支付账款](https://www.thepaper.cn/newsDetail_forward_34066495)
-14. [外交部：散播人工智能威胁叙事不符合任何一方利益](https://www.thepaper.cn/newsDetail_forward_34066545)
+14. [马上评｜一车人都买错票？高铁站还是名副其实的好](https://www.thepaper.cn/newsDetail_forward_34066505)
 15. [媒体刊文：求职背调不可越界失序，背调机构不应是“裁判者”](https://www.thepaper.cn/newsDetail_forward_34064646)
 16. [国家卫健委：支持社区、用人单位举办托育服务机构](https://www.thepaper.cn/newsDetail_forward_34065306)
 17. [双一流硕士求职败给专科起点，媒体：别让“第一学历”锁死奋斗者出路](https://www.thepaper.cn/newsDetail_forward_34064723)
-18. [马上评｜一车人都买错票？高铁站还是名副其实的好](https://www.thepaper.cn/newsDetail_forward_34066505)
-19. [八部门：推广家庭服务机器人、健康监测、智能照护等适老化产品](https://www.thepaper.cn/newsDetail_forward_34066323)
-20. [马上评｜名校硕博士到中西部中学从教，真正该关注的是什么](https://www.thepaper.cn/newsDetail_forward_34065984)
+18. [八部门：推广家庭服务机器人、健康监测、智能照护等适老化产品](https://www.thepaper.cn/newsDetail_forward_34066323)
+19. [马上评｜名校硕博士到中西部中学从教，真正该关注的是什么](https://www.thepaper.cn/newsDetail_forward_34065984)
+20. [成都一辆越野车从高架上坠落，警方通报：涉事司机已死亡](https://www.thepaper.cn/newsDetail_forward_34064694)
