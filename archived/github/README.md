@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-14 09:44:00
+> 更新时间：2026-09-14 16:41:11
 
 ## 每日趋势
 
@@ -125,17 +125,18 @@
 4. [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
 5. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
 6. [bifrost](https://github.com/maximhq/bifrost)
-7. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-8. [argo-cd](https://github.com/argoproj/argo-cd)
-9. [new-api](https://github.com/QuantumNous/new-api)
-10. [datadog-agent](https://github.com/DataDog/datadog-agent)
-11. [katana](https://github.com/projectdiscovery/katana)
-12. [ollama](https://github.com/ollama/ollama)
-13. [engram](https://github.com/Gentleman-Programming/engram)
-14. [go-github](https://github.com/google/go-github)
-15. [moby](https://github.com/moby/moby)
-16. [Xray-core](https://github.com/XTLS/Xray-core)
-17. [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+7. [dozzle](https://github.com/amir20/dozzle)
+8. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
+9. [argo-cd](https://github.com/argoproj/argo-cd)
+10. [new-api](https://github.com/QuantumNous/new-api)
+11. [datadog-agent](https://github.com/DataDog/datadog-agent)
+12. [katana](https://github.com/projectdiscovery/katana)
+13. [ollama](https://github.com/ollama/ollama)
+14. [engram](https://github.com/Gentleman-Programming/engram)
+15. [go-github](https://github.com/google/go-github)
+16. [moby](https://github.com/moby/moby)
+17. [Xray-core](https://github.com/XTLS/Xray-core)
+18. [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
 
 ## HTML
 
