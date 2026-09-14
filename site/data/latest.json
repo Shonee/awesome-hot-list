@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-14 09:02:16",
+    "generatedAt": "2026-09-14 09:07:52",
     "channels": [
         {
             "schemaVersion": 1,
@@ -9008,7 +9008,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-14 04:27:55",
+            "fetchedAt": "2026-09-14 09:07:52",
             "status": "ok",
             "error": "",
             "rankings": [
@@ -9021,42 +9021,33 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "你们一天喝多少咖啡的？",
-                            "url": "https://www.v2ex.com/t/1241624",
-                            "hot": 82,
-                            "description": "咖啡",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 08:56:05"
-                        },
-                        {
-                            "rank": 2,
                             "title": "陶哲轩等数学家反对 AI，论失败的意义",
                             "url": "https://www.v2ex.com/t/1241637",
-                            "hot": 70,
+                            "hot": 79,
                             "description": "随想",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 11:29:43"
                         },
                         {
-                            "rank": 3,
+                            "rank": 2,
                             "title": "用 Astra 把家乡的竹林老屋做成一个可以游览的网页",
                             "url": "https://www.v2ex.com/t/1241660",
-                            "hot": 44,
+                            "hot": 46,
                             "description": "分享创造",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 14:38:29"
                         },
                         {
-                            "rank": 4,
-                            "title": "SRE 岗 offer 选择",
-                            "url": "https://www.v2ex.com/t/1241623",
-                            "hot": 39,
-                            "description": "职场话题",
+                            "rank": 3,
+                            "title": "北京这下无人机算是彻底了。",
+                            "url": "https://www.v2ex.com/t/1241706",
+                            "hot": 42,
+                            "description": "北京",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 08:51:11"
+                            "publishedAt": "2026-09-13 21:43:30"
                         },
                         {
-                            "rank": 5,
+                            "rank": 4,
                             "title": "有没有什么工具，可以远程让 codex 干活？",
                             "url": "https://www.v2ex.com/t/1241635",
                             "hot": 35,
@@ -9065,40 +9056,49 @@
                             "publishedAt": "2026-09-13 11:21:35"
                         },
                         {
+                            "rank": 5,
+                            "title": "pdd 的金领冠真的不能买吗？",
+                            "url": "https://www.v2ex.com/t/1241677",
+                            "hot": 29,
+                            "description": "问与答",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 17:21:10"
+                        },
+                        {
                             "rank": 6,
                             "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
                             "url": "https://www.v2ex.com/t/1241642",
-                            "hot": 26,
+                            "hot": 27,
                             "description": "Apple",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 12:05:45"
                         },
                         {
                             "rank": 7,
-                            "title": "pdd 的金领冠真的不能买吗？",
-                            "url": "https://www.v2ex.com/t/1241677",
-                            "hot": 26,
-                            "description": "问与答",
+                            "title": "如果抄作业就能得高分进好大学，且老师及学校都不管，那该多好呀",
+                            "url": "https://www.v2ex.com/t/1241673",
+                            "hot": 25,
+                            "description": "分享发现",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 17:21:10"
+                            "publishedAt": "2026-09-13 16:32:25"
                         },
                         {
                             "rank": 8,
-                            "title": "北京这下无人机算是彻底了。",
-                            "url": "https://www.v2ex.com/t/1241706",
-                            "hot": 24,
-                            "description": "北京",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 21:43:30"
-                        },
-                        {
-                            "rank": 9,
                             "title": "大家的椅子手托在双手打字场景有这个问题吗，现在很难受",
                             "url": "https://www.v2ex.com/t/1241644",
-                            "hot": 22,
+                            "hot": 24,
                             "description": "问与答",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 12:31:48"
+                        },
+                        {
+                            "rank": 9,
+                            "title": "这大概是 claude 封号的真正原因",
+                            "url": "https://www.v2ex.com/t/1241695",
+                            "hot": 23,
+                            "description": "程序员",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 19:46:32"
                         }
                     ]
                 }
