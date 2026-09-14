@@ -1,12 +1,12 @@
 # Hugging Face热榜
 
-> 更新时间：2026-09-14 11:26:23
+> 更新时间：2026-09-14 17:37:37
 
 ## Trending Models
 
 1. [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
-2. [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)
-3. [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)
+2. [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)
+3. [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)
 4. [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)
 5. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
 6. [nex-agi/Nex-N2.5-Pro](https://huggingface.co/nex-agi/Nex-N2.5-Pro)
@@ -19,8 +19,8 @@
 13. [WarmBloodAban/Minimax-h3_Singularity](https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity)
 14. [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 15. [google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)
-16. [dealignai/GLM-5.3-CYBERSECURITY-FP8](https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8)
-17. [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
-18. [openbmb/MiniCPM5-2B-GGUF](https://huggingface.co/openbmb/MiniCPM5-2B-GGUF)
+16. [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
+17. [openbmb/MiniCPM5-2B-GGUF](https://huggingface.co/openbmb/MiniCPM5-2B-GGUF)
+18. [tencent/AuK](https://huggingface.co/tencent/AuK)
 19. [openai-community/gpt2](https://huggingface.co/openai-community/gpt2)
-20. [tencent/AuK](https://huggingface.co/tencent/AuK)
+20. [google-bert/bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)

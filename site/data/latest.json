@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-14 17:30:48",
+    "generatedAt": "2026-09-14 17:37:39",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5782,7 +5782,7 @@
             "channelId": "huggingface",
             "channelName": "Hugging Face",
             "sourceUrl": "https://huggingface.co/models?sort=trending",
-            "fetchedAt": "2026-09-14 11:26:23",
+            "fetchedAt": "2026-09-14 17:37:37",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5798,26 +5798,26 @@
                             "rank": 1,
                             "title": "deepseek-ai/DeepSeek-V4.1-Flash",
                             "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-                            "hot": 2005,
-                            "description": "244457 downloads · 2239 likes · image-text-to-text",
+                            "hot": 2059,
+                            "description": "288414 downloads · 2307 likes · image-text-to-text",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
                             "rank": 2,
-                            "title": "openbmb/MiniCPM5-2B",
-                            "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
-                            "hot": 1141,
-                            "description": "150110 downloads · 1346 likes · text-generation",
+                            "title": "Edge0/Edge0-35B-A3B-preview",
+                            "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+                            "hot": 1354,
+                            "description": "8109 downloads · 1387 likes · text-generation",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
                             "rank": 3,
-                            "title": "Edge0/Edge0-35B-A3B-preview",
-                            "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
-                            "hot": 1090,
-                            "description": "3552 downloads · 1117 likes · text-generation",
+                            "title": "openbmb/MiniCPM5-2B",
+                            "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+                            "hot": 1155,
+                            "description": "206774 downloads · 1364 likes · text-generation",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5825,8 +5825,8 @@
                             "rank": 4,
                             "title": "nex-agi/Nex-N2.5-mini",
                             "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-                            "hot": 602,
-                            "description": "3970 downloads · 759 likes · text-generation",
+                            "hot": 612,
+                            "description": "4543 downloads · 773 likes · text-generation",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5834,8 +5834,8 @@
                             "rank": 5,
                             "title": "Qwen/Qwen3.8-27B",
                             "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-                            "hot": 564,
-                            "description": "7768964 downloads · 15001 likes · image-text-to-text",
+                            "hot": 576,
+                            "description": "7703400 downloads · 15062 likes · image-text-to-text",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5843,8 +5843,8 @@
                             "rank": 6,
                             "title": "nex-agi/Nex-N2.5-Pro",
                             "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-                            "hot": 479,
-                            "description": "30289 downloads · 624 likes · text-generation",
+                            "hot": 482,
+                            "description": "30489 downloads · 630 likes · text-generation",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5852,8 +5852,8 @@
                             "rank": 7,
                             "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
                             "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-                            "hot": 478,
-                            "description": "769557 downloads · 972 likes · image-text-to-text",
+                            "hot": 477,
+                            "description": "819784 downloads · 986 likes · image-text-to-text",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5861,8 +5861,8 @@
                             "rank": 8,
                             "title": "XHToken/Spark-X2.5-4B",
                             "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-                            "hot": 465,
-                            "description": "21336 downloads · 1155 likes · text-generation",
+                            "hot": 452,
+                            "description": "24084 downloads · 1162 likes · text-generation",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5870,8 +5870,8 @@
                             "rank": 9,
                             "title": "m-a-p/YuE2-3B",
                             "url": "https://huggingface.co/m-a-p/YuE2-3B",
-                            "hot": 399,
-                            "description": "3707 downloads · 421 likes · text-to-audio",
+                            "hot": 407,
+                            "description": "5186 downloads · 429 likes · text-to-audio",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5879,8 +5879,8 @@
                             "rank": 10,
                             "title": "Lightricks/LTX-2.5",
                             "url": "https://huggingface.co/Lightricks/LTX-2.5",
-                            "hot": 370,
-                            "description": "1548442 downloads · 3755 likes · image-to-video",
+                            "hot": 376,
+                            "description": "1559653 downloads · 3792 likes · image-to-video",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5888,8 +5888,8 @@
                             "rank": 11,
                             "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
                             "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-                            "hot": 351,
-                            "description": "750591 downloads · 642 likes · image-text-to-text",
+                            "hot": 347,
+                            "description": "875703 downloads · 653 likes · image-text-to-text",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5898,7 +5898,7 @@
                             "title": "unsloth/Qwen3.8-27B-GGUF",
                             "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
                             "hot": 339,
-                            "description": "11005880 downloads · 4022 likes",
+                            "description": "10077938 downloads · 4055 likes",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5906,8 +5906,8 @@
                             "rank": 13,
                             "title": "WarmBloodAban/Minimax-h3_Singularity",
                             "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
-                            "hot": 266,
-                            "description": "123491 downloads · 376 likes · image-to-video",
+                            "hot": 255,
+                            "description": "141057 downloads · 385 likes · image-to-video",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5915,8 +5915,8 @@
                             "rank": 14,
                             "title": "sentence-transformers/all-MiniLM-L6-v2",
                             "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-                            "hot": 232,
-                            "description": "252928721 downloads · 5938 likes · sentence-similarity",
+                            "hot": 235,
+                            "description": "252806720 downloads · 5958 likes · sentence-similarity",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5924,35 +5924,35 @@
                             "rank": 15,
                             "title": "google/timesfm-3.0-pytorch",
                             "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
-                            "hot": 232,
-                            "description": "797832 downloads · 778 likes · time-series-forecasting",
+                            "hot": 217,
+                            "description": "826017 downloads · 782 likes · time-series-forecasting",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
                             "rank": 16,
-                            "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
-                            "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
-                            "hot": 219,
-                            "description": "30310 downloads · 433 likes · text-generation",
+                            "title": "MiniMaxAI/MiniMax-H3",
+                            "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+                            "hot": 212,
+                            "description": "4827156 downloads · 5263 likes · image-text-to-video",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
                             "rank": 17,
-                            "title": "MiniMaxAI/MiniMax-H3",
-                            "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-                            "hot": 208,
-                            "description": "4819845 downloads · 5248 likes · image-text-to-video",
+                            "title": "openbmb/MiniCPM5-2B-GGUF",
+                            "url": "https://huggingface.co/openbmb/MiniCPM5-2B-GGUF",
+                            "hot": 207,
+                            "description": "108471 downloads · 222 likes · text-generation",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
                             "rank": 18,
-                            "title": "openbmb/MiniCPM5-2B-GGUF",
-                            "url": "https://huggingface.co/openbmb/MiniCPM5-2B-GGUF",
-                            "hot": 204,
-                            "description": "99716 downloads · 219 likes · text-generation",
+                            "title": "tencent/AuK",
+                            "url": "https://huggingface.co/tencent/AuK",
+                            "hot": 205,
+                            "description": "1928 downloads · 208 likes · text-to-speech",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
@@ -5960,17 +5960,17 @@
                             "rank": 19,
                             "title": "openai-community/gpt2",
                             "url": "https://huggingface.co/openai-community/gpt2",
-                            "hot": 200,
-                            "description": "15158496 downloads · 4049 likes · text-generation",
+                            "hot": 203,
+                            "description": "15182177 downloads · 4070 likes · text-generation",
                             "imageUrl": "",
                             "publishedAt": ""
                         },
                         {
                             "rank": 20,
-                            "title": "tencent/AuK",
-                            "url": "https://huggingface.co/tencent/AuK",
-                            "hot": 193,
-                            "description": "1202 downloads · 196 likes · text-to-speech",
+                            "title": "google-bert/bert-base-uncased",
+                            "url": "https://huggingface.co/google-bert/bert-base-uncased",
+                            "hot": 191,
+                            "description": "46435111 downloads · 3337 likes · fill-mask",
                             "imageUrl": "",
                             "publishedAt": ""
                         }
@@ -5983,7 +5983,7 @@
             "channelId": "googletrends",
             "channelName": "Google Trends",
             "sourceUrl": "https://trends.google.com/trending?geo=HK",
-            "fetchedAt": "2026-09-14 11:26:23",
+            "fetchedAt": "2026-09-14 17:37:37",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5997,21 +5997,21 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "曼聯對曼城",
-                            "url": "https://trends.google.com/trends/explore?q=%E6%9B%BC%E8%81%AF%E5%B0%8D%E6%9B%BC%E5%9F%8E&geo=HK",
-                            "hot": 10000,
-                            "description": "相关：曼聯對曼城、曼聯、英超",
+                            "title": "任正非",
+                            "url": "https://trends.google.com/trends/explore?q=%E4%BB%BB%E6%AD%A3%E9%9D%9E&geo=HK",
+                            "hot": 2000,
+                            "description": "相关：任正非",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 14:30:00"
+                            "publishedAt": "2026-09-13 11:20:00"
                         },
                         {
                             "rank": 2,
-                            "title": "hyrox",
-                            "url": "https://trends.google.com/trends/explore?q=hyrox&geo=HK",
-                            "hot": 5000,
-                            "description": "相关：hyrox、joanna wietrzyk",
+                            "title": "李嘉诚",
+                            "url": "https://trends.google.com/trends/explore?q=%E6%9D%8E%E5%98%89%E8%AF%9A&geo=HK",
+                            "hot": 2000,
+                            "description": "相关：李嘉诚",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 05:00:00"
+                            "publishedAt": "2026-09-13 14:40:00"
                         },
                         {
                             "rank": 3,
@@ -6024,75 +6024,75 @@
                         },
                         {
                             "rank": 4,
-                            "title": "任正非",
-                            "url": "https://trends.google.com/trends/explore?q=%E4%BB%BB%E6%AD%A3%E9%9D%9E&geo=HK",
+                            "title": "林行止",
+                            "url": "https://trends.google.com/trends/explore?q=%E6%9E%97%E8%A1%8C%E6%AD%A2&geo=HK",
                             "hot": 2000,
-                            "description": "相关：任正非",
+                            "description": "相关：林行止、林 行止",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 11:20:00"
+                            "publishedAt": "2026-09-14 06:40:00"
                         },
                         {
                             "rank": 5,
-                            "title": "李嘉诚",
-                            "url": "https://trends.google.com/trends/explore?q=%E6%9D%8E%E5%98%89%E8%AF%9A&geo=HK",
-                            "hot": 2000,
-                            "description": "相关：李嘉诚",
+                            "title": "預測",
+                            "url": "https://trends.google.com/trends/explore?q=%E9%A0%90%E6%B8%AC&geo=HK",
+                            "hot": 1000,
+                            "description": "相关：預測",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 14:40:00"
+                            "publishedAt": "2026-09-14 07:40:00"
                         },
                         {
                             "rank": 6,
-                            "title": "王賢誌",
-                            "url": "https://trends.google.com/trends/explore?q=%E7%8E%8B%E8%B3%A2%E8%AA%8C&geo=HK",
-                            "hot": 2000,
-                            "description": "相关：王賢誌",
+                            "title": "香港人",
+                            "url": "https://trends.google.com/trends/explore?q=%E9%A6%99%E6%B8%AF%E4%BA%BA&geo=HK",
+                            "hot": 500,
+                            "description": "相关：香港人",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 09:20:00"
+                            "publishedAt": "2026-09-14 08:50:00"
                         },
                         {
                             "rank": 7,
-                            "title": "快達票",
-                            "url": "https://trends.google.com/trends/explore?q=%E5%BF%AB%E9%81%94%E7%A5%A8&geo=HK",
-                            "hot": 1000,
-                            "description": "相关：快達票",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 16:30:00"
-                        },
-                        {
-                            "rank": 8,
-                            "title": "超級 市場",
-                            "url": "https://trends.google.com/trends/explore?q=%E8%B6%85%E7%B4%9A+%E5%B8%82%E5%A0%B4&geo=HK",
-                            "hot": 200,
-                            "description": "相关：超級 市場",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 02:10:00"
-                        },
-                        {
-                            "rank": 9,
-                            "title": "curry",
-                            "url": "https://trends.google.com/trends/explore?q=curry&geo=HK",
-                            "hot": 200,
-                            "description": "相关：curry",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 23:30:00"
-                        },
-                        {
-                            "rank": 10,
                             "title": "債券",
                             "url": "https://trends.google.com/trends/explore?q=%E5%82%B5%E5%88%B8&geo=HK",
-                            "hot": 500,
+                            "hot": 2000,
                             "description": "相关：債券",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 10:20:00"
                         },
                         {
-                            "rank": 11,
-                            "title": "bigbang 演唱會",
-                            "url": "https://trends.google.com/trends/explore?q=bigbang+%E6%BC%94%E5%94%B1%E6%9C%83&geo=HK",
-                            "hot": 200,
-                            "description": "相关：bigbang 演唱會",
+                            "rank": 8,
+                            "title": "超級 市場",
+                            "url": "https://trends.google.com/trends/explore?q=%E8%B6%85%E7%B4%9A+%E5%B8%82%E5%A0%B4&geo=HK",
+                            "hot": 1000,
+                            "description": "相关：超級 市場、超級市場",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 02:50:00"
+                            "publishedAt": "2026-09-14 02:10:00"
+                        },
+                        {
+                            "rank": 9,
+                            "title": "郭珮文",
+                            "url": "https://trends.google.com/trends/explore?q=%E9%83%AD%E7%8F%AE%E6%96%87&geo=HK",
+                            "hot": 5000,
+                            "description": "相关：郭珮文、女神配對計劃2、俞鋆瑞",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 13:20:00"
+                        },
+                        {
+                            "rank": 10,
+                            "title": "氣象廳",
+                            "url": "https://trends.google.com/trends/explore?q=%E6%B0%A3%E8%B1%A1%E5%BB%B3&geo=HK",
+                            "hot": 200,
+                            "description": "相关：氣象廳",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 09:00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "title": "曼聯對曼城",
+                            "url": "https://trends.google.com/trends/explore?q=%E6%9B%BC%E8%81%AF%E5%B0%8D%E6%9B%BC%E5%9F%8E&geo=HK",
+                            "hot": 10000,
+                            "description": "相关：曼聯對曼城、曼聯、英超",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 14:30:00"
                         },
                         {
                             "rank": 12,
@@ -6105,60 +6105,15 @@
                         },
                         {
                             "rank": 13,
-                            "title": "優惠 券",
-                            "url": "https://trends.google.com/trends/explore?q=%E5%84%AA%E6%83%A0+%E5%88%B8&geo=HK",
-                            "hot": 5000,
-                            "description": "相关：優惠 券",
+                            "title": "快達票",
+                            "url": "https://trends.google.com/trends/explore?q=%E5%BF%AB%E9%81%94%E7%A5%A8&geo=HK",
+                            "hot": 2000,
+                            "description": "相关：快達票",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 05:20:00"
+                            "publishedAt": "2026-09-13 16:30:00"
                         },
                         {
                             "rank": 14,
-                            "title": "李芷晴",
-                            "url": "https://trends.google.com/trends/explore?q=%E6%9D%8E%E8%8A%B7%E6%99%B4&geo=HK",
-                            "hot": 2000,
-                            "description": "相关：李芷晴",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 07:30:00"
-                        },
-                        {
-                            "rank": 15,
-                            "title": "us open",
-                            "url": "https://trends.google.com/trends/explore?q=us+open&geo=HK",
-                            "hot": 2000,
-                            "description": "相关：us open、zverev、us open 2026",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 18:10:00"
-                        },
-                        {
-                            "rank": 16,
-                            "title": "celine dion",
-                            "url": "https://trends.google.com/trends/explore?q=celine+dion&geo=HK",
-                            "hot": 1000,
-                            "description": "相关：celine dion",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 10:00:00"
-                        },
-                        {
-                            "rank": 17,
-                            "title": "郭珮文",
-                            "url": "https://trends.google.com/trends/explore?q=%E9%83%AD%E7%8F%AE%E6%96%87&geo=HK",
-                            "hot": 5000,
-                            "description": "相关：郭珮文、女神配對計劃2、俞鋆瑞",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 13:20:00"
-                        },
-                        {
-                            "rank": 18,
-                            "title": "乒乓球",
-                            "url": "https://trends.google.com/trends/explore?q=%E4%B9%92%E4%B9%93%E7%90%83&geo=HK",
-                            "hot": 2000,
-                            "description": "相关：乒乓球",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 10:10:00"
-                        },
-                        {
-                            "rank": 19,
                             "title": "萊萬特對巴塞隆納",
                             "url": "https://trends.google.com/trends/explore?q=%E8%90%8A%E8%90%AC%E7%89%B9%E5%B0%8D%E5%B7%B4%E5%A1%9E%E9%9A%86%E7%B4%8D&geo=HK",
                             "hot": 2000,
@@ -6167,13 +6122,58 @@
                             "publishedAt": "2026-09-13 13:20:00"
                         },
                         {
-                            "rank": 20,
-                            "title": "东北季风",
-                            "url": "https://trends.google.com/trends/explore?q=%E4%B8%9C%E5%8C%97%E5%AD%A3%E9%A3%8E&geo=HK",
+                            "rank": 15,
+                            "title": "乒乓球",
+                            "url": "https://trends.google.com/trends/explore?q=%E4%B9%92%E4%B9%93%E7%90%83&geo=HK",
                             "hot": 2000,
-                            "description": "相关：东北季风、陣風、吴德荣",
+                            "description": "相关：乒乓球",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 03:40:00"
+                            "publishedAt": "2026-09-13 10:10:00"
+                        },
+                        {
+                            "rank": 16,
+                            "title": "us open",
+                            "url": "https://trends.google.com/trends/explore?q=us+open&geo=HK",
+                            "hot": 2000,
+                            "description": "相关：us open、us open 2026、zverev",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 18:10:00"
+                        },
+                        {
+                            "rank": 17,
+                            "title": "熱帶氣旋",
+                            "url": "https://trends.google.com/trends/explore?q=%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B&geo=HK",
+                            "hot": 2000,
+                            "description": "相关：熱帶氣旋、天氣、特別天氣提示",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 07:10:00"
+                        },
+                        {
+                            "rank": 18,
+                            "title": "郭富城",
+                            "url": "https://trends.google.com/trends/explore?q=%E9%83%AD%E5%AF%8C%E5%9F%8E&geo=HK",
+                            "hot": 1000,
+                            "description": "相关：郭富城",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 10:40:00"
+                        },
+                        {
+                            "rank": 19,
+                            "title": "celine dion",
+                            "url": "https://trends.google.com/trends/explore?q=celine+dion&geo=HK",
+                            "hot": 1000,
+                            "description": "相关：celine dion",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 10:00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "title": "bigbang 演唱會",
+                            "url": "https://trends.google.com/trends/explore?q=bigbang+%E6%BC%94%E5%94%B1%E6%9C%83&geo=HK",
+                            "hot": 500,
+                            "description": "相关：bigbang 演唱會",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 02:50:00"
                         }
                     ]
                 }
@@ -12299,7 +12299,7 @@
             "channelId": "xueqiu",
             "channelName": "雪球",
             "sourceUrl": "https://xueqiu.com/today",
-            "fetchedAt": "2026-09-14 11:33:40",
+            "fetchedAt": "2026-09-14 17:37:39",
             "status": "ok",
             "error": "",
             "warnings": [],
