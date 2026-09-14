@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 12:28:11
+> 更新时间：2026-09-14 13:23:42
 
 ## IT之家
 
-1. [成交均价过百万！消息称鸿蒙智行尊界周度交付重新回到 700 台](https://www.ithome.com/1/002/020.htm)
-2. [近距离看赛博无人驾驶电动车，特斯拉 Cybercab 官宣入华展览](https://www.ithome.com/1/002/018.htm)
-3. [号称“行业最高”，曝一加 16 手机多指采样率 520Hz、陀螺仪采样率首次达到 800Hz](https://www.ithome.com/1/002/017.htm)
-4. [理想汽车 CEO 李想：纯电架构的天生优势，决定了尺寸军备竞赛一定会结束](https://www.ithome.com/1/002/016.htm)
-5. [哈利 · 波特版 realme 真我 16 Pro 手机预热：天玑 7300 Max 芯片，7000mAh 电池](https://www.ithome.com/1/002/015.htm)
+1. [华为智选车产品总监彭磊详解享界 V8 后备箱设计：674L 容积、三排对折空间可拓至 1552L](https://www.ithome.com/1/002/031.htm)
+2. [小米米家智能窗帘 3 上架：配备隐藏式无刷电机、采用拼接直轨设计，705 元](https://www.ithome.com/1/002/030.htm)
+3. [奇瑞捷豹路虎神行者 8 官宣 9 月 19 日全国交付：华为乾崑智驾 ADS 5，28.99 万元起](https://www.ithome.com/1/002/029.htm)
+4. [美国新提案遏制前沿 AI 发展，违规实体 / 开发者最高监禁 20 年](https://www.ithome.com/1/002/028.htm)
+5. [荣耀 Magic9/Pro Max 手机规格曝光：大 R 角极窄四等边设计、至高搭载第六代骁龙 8 超级至尊版处理器](https://www.ithome.com/1/002/027.htm)
 
 ## 少数派
 
@@ -28,27 +28,27 @@
 
 ## 量子位
 
-1. [奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX](https://www.qbitai.com/2026/09/488699.html)
-2. [智谱提前剧透GLM-6.0：完全自训练方法公开了](https://www.qbitai.com/2026/09/488694.html)
-3. [2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体](https://www.qbitai.com/2026/09/488672.html)
-4. [GitHub三榜第一背后，一个“专升本”工程师的十年](https://www.qbitai.com/2026/09/488519.html)
-5. [今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你](https://www.qbitai.com/2026/09/488447.html)
+1. [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html)
+2. [中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱](https://www.qbitai.com/2026/09/488725.html)
+3. [奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX](https://www.qbitai.com/2026/09/488699.html)
+4. [智谱提前剧透GLM-6.0：完全自训练方法公开了](https://www.qbitai.com/2026/09/488694.html)
+5. [2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体](https://www.qbitai.com/2026/09/488672.html)
 
 ## InfoQ
 
-1. [欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&utm_medium=article)
-2. [Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion](https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article)
-3. [‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article)
-4. [Figma 如何利用 AI 代理提升安全性](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article)
-5. [Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article)
+1. [GitLab 警告称，AI 代理的沙箱安全性取决于其网络访问的安全性](https://www.infoq.cn/article/XLzpR2brCNW2VgYuuYJk?utm_source=rss&utm_medium=article)
+2. [欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&utm_medium=article)
+3. [Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion](https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article)
+4. [‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article)
+5. [Figma 如何利用 AI 代理提升安全性](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [苹果的折叠屏等了十五年，体验还差临门一脚](http://www.geekpark.net/news/370231)
-2. [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话](http://www.geekpark.net/news/370228)
-3. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
-4. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
-5. [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
+1. [专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件](http://www.geekpark.net/news/370269)
+2. [苹果的折叠屏等了十五年，体验还差临门一脚](http://www.geekpark.net/news/370231)
+3. [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话](http://www.geekpark.net/news/370228)
+4. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
+5. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
 
 ## MIT Technology Review
 
