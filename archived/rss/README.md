@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 11:28:56
+> 更新时间：2026-09-14 12:28:11
 
 ## IT之家
 
-1. [国产捉宠 RPG《伊莫》开启预载，PC 端 9 月 16 日开启公测](https://www.ithome.com/1/001/995.htm)
-2. [华虹宏力完成 82.68 亿元收购案，华力微成为其全资子公司](https://www.ithome.com/1/001/994.htm)
-3. [小米推出米家智能浴霸 2C：搭 3000W 石墨烯加热模块、支持人感照明 / 感应换气，882 元](https://www.ithome.com/1/001/993.htm)
-4. [肖战官宣出任荣耀旗舰手机全球代言人，Magic9 系列新机官图发布](https://www.ithome.com/1/001/992.htm)
-5. [非官方应用 NeuralScreen 延伸英伟达 DLSS 5，增强 Win11 视频 / 图片等体验](https://www.ithome.com/1/001/991.htm)
+1. [成交均价过百万！消息称鸿蒙智行尊界周度交付重新回到 700 台](https://www.ithome.com/1/002/020.htm)
+2. [近距离看赛博无人驾驶电动车，特斯拉 Cybercab 官宣入华展览](https://www.ithome.com/1/002/018.htm)
+3. [号称“行业最高”，曝一加 16 手机多指采样率 520Hz、陀螺仪采样率首次达到 800Hz](https://www.ithome.com/1/002/017.htm)
+4. [理想汽车 CEO 李想：纯电架构的天生优势，决定了尺寸军备竞赛一定会结束](https://www.ithome.com/1/002/016.htm)
+5. [哈利 · 波特版 realme 真我 16 Pro 手机预热：天玑 7300 Max 芯片，7000mAh 电池](https://www.ithome.com/1/002/015.htm)
 
 ## 少数派
 
-1. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
-2. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
-3. [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
-4. [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
-5. [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
+1. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+2. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
+3. [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
+4. [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
+5. [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
 
 ## 爱范儿
 
