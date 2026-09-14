@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-14 16:33:14
+> 更新时间：2026-09-14 17:30:07
 
 ## 热新闻
 
@@ -20,7 +20,7 @@
 14. [国家卫健委：我国人口大国基本面没有变](https://www.thepaper.cn/newsDetail_forward_34065847)
 15. [媒体刊文：求职背调不可越界失序，背调机构不应是“裁判者”](https://www.thepaper.cn/newsDetail_forward_34064646)
 16. [国家卫健委：支持社区、用人单位举办托育服务机构](https://www.thepaper.cn/newsDetail_forward_34065306)
-17. [双一流硕士求职败给专科起点，媒体：别让“第一学历”锁死奋斗者出路](https://www.thepaper.cn/newsDetail_forward_34064723)
-18. [大众网实地采访“烧烤店主被频繁检查”：该店被同一人举报116次](https://www.thepaper.cn/newsDetail_forward_34061219)
-19. [八部门：推广家庭服务机器人、健康监测、智能照护等适老化产品](https://www.thepaper.cn/newsDetail_forward_34066323)
-20. [成都一辆越野车从高架上坠落，警方通报：涉事司机已死亡](https://www.thepaper.cn/newsDetail_forward_34064694)
+17. [国务院国资委：中央企业带头及时支付账款](https://www.thepaper.cn/newsDetail_forward_34066495)
+18. [双一流硕士求职败给专科起点，媒体：别让“第一学历”锁死奋斗者出路](https://www.thepaper.cn/newsDetail_forward_34064723)
+19. [大众网实地采访“烧烤店主被频繁检查”：该店被同一人举报116次](https://www.thepaper.cn/newsDetail_forward_34061219)
+20. [外交部：散播人工智能威胁叙事不符合任何一方利益](https://www.thepaper.cn/newsDetail_forward_34066545)

@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-14 16:33:47
+> 更新时间：2026-09-14 17:30:48
 
 ## IT之家
 
-1. [京东家政首次推出家厨服务：专业团队上门做饭，食材来自七鲜超市](https://www.ithome.com/1/002/152.htm)
-2. [大众发布 Mission Efficiency 概念车：创下三项能效纪录，百公里耗电量仅 6.48 千瓦时](https://www.ithome.com/1/002/151.htm)
-3. [成渝中线高铁全线无砟轨道完工，建成通车后成都至重庆 50 分钟可达](https://www.ithome.com/1/002/150.htm)
-4. [铭瑄 MS-iCraft B850M GKD5 WIFI 主板上市，1249 元](https://www.ithome.com/1/002/149.htm)
-5. [荣耀 Magic9 超能版手机规格曝光：第五代骁龙 8 至尊版处理器，11000mAh 电池](https://www.ithome.com/1/002/148.htm)
+1. [波士顿动力 IPO 计划遇阻：Atlas 人形机器人尚未大规模部署](https://www.ithome.com/1/002/225.htm)
+2. [多家美国顶尖 AI 企业 CEO 呼吁放缓技术发展，全球 AI 概念股集体下挫](https://www.ithome.com/1/002/224.htm)
+3. [耳夹耳机再添新品，努比亚 LiveClip2 将于 9 月 16 日发布](https://www.ithome.com/1/002/223.htm)
+4. [OPPO Watch S2 手表亮点公布：8.9mm 厚、34.4g 重，升级旗舰健康传感器](https://www.ithome.com/1/002/222.htm)
+5. [IDC 报告：2026Q2 全球家用清洁机器人市场出货约 1120.5 万台，同比增长 21.5%](https://www.ithome.com/1/002/218.htm)
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## 量子位
 
-1. [2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会](https://www.qbitai.com/2026/09/488875.html)
-2. [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html)
-3. [中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱](https://www.qbitai.com/2026/09/488725.html)
-4. [奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX](https://www.qbitai.com/2026/09/488699.html)
-5. [智谱提前剧透下一代GLM：完全自训练方法公开了](https://www.qbitai.com/2026/09/488694.html)
+1. [分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”](https://www.qbitai.com/2026/09/489023.html)
+2. [端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装](https://www.qbitai.com/2026/09/488933.html)
+3. [一年连融三轮，这家金融AI公司又拿下超3亿B轮](https://www.qbitai.com/2026/09/488912.html)
+4. [2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会](https://www.qbitai.com/2026/09/488875.html)
+5. [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html)
 
 ## InfoQ
 
@@ -57,14 +57,6 @@
 3. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 4. [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
 5. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
-
-## AI News
-
-1. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-2. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
-3. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
-4. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
-5. [Supply chains detect fast, act slow: How AI agents fix it](https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/)
 
 ## 阮一峰网络日志
 
