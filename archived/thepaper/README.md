@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-15 00:22:27
+> 更新时间：2026-09-15 01:17:48
 
 ## 热新闻
 
@@ -22,5 +22,5 @@
 16. [成都一辆越野车从高架上坠落，警方通报：涉事司机已死亡](https://www.thepaper.cn/newsDetail_forward_34064694)
 17. [国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查](https://www.thepaper.cn/newsDetail_forward_34067032)
 18. [单项冠军县，何以扛打丨辽西凌源撬动10亿“美丽经济”](https://www.thepaper.cn/newsDetail_forward_33977674)
-19. [两只PCB大牛股双双澄清：未向英伟达供货，无业务合作](https://www.thepaper.cn/newsDetail_forward_34063097)
-20. [也门局势快速升级：24小时58次空袭，沙特石油出口“腹背受敌”](https://www.thepaper.cn/newsDetail_forward_34066341)
+19. [上海楼市“金九”成色足：二手房13天网签已破万套，新盘陆续收回折扣](https://www.thepaper.cn/newsDetail_forward_34067831)
+20. [两只PCB大牛股双双澄清：未向英伟达供货，无业务合作](https://www.thepaper.cn/newsDetail_forward_34063097)

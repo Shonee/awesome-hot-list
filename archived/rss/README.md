@@ -1,6 +1,6 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 00:23:05
+> 更新时间：2026-09-15 01:18:21
 
 ## IT之家
 
@@ -57,6 +57,14 @@
 3. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
 4. [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
 5. [Meet the under-35s shaping the future of biotech](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
+
+## AI News
+
+1. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+2. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+3. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
+4. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
+5. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
 
 ## 阮一峰网络日志
 

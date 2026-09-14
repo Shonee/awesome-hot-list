@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-15 00:22:52
+> 更新时间：2026-09-15 01:18:10
 
 ## 最有料热点
 
@@ -33,4 +33,3 @@
 27. [追星族洗地:大把贫困生买显卡](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363966&topic_name=%E8%BF%BD%E6%98%9F%E6%97%8F%E6%B4%97%E5%9C%B0%3A%E5%A4%A7%E6%8A%8A%E8%B4%AB%E5%9B%B0%E7%94%9F%E4%B9%B0%E6%98%BE%E5%8D%A1)
 28. [演唱会索吻被拒,男友心碎分手](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363961&topic_name=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B4%A2%E5%90%BB%E8%A2%AB%E6%8B%92%2C%E7%94%B7%E5%8F%8B%E5%BF%83%E7%A2%8E%E5%88%86%E6%89%8B)
 29. [泳装coser原图曝光,堪称诈骗](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363943&topic_name=%E6%B3%B3%E8%A3%85coser%E5%8E%9F%E5%9B%BE%E6%9B%9D%E5%85%89%2C%E5%A0%AA%E7%A7%B0%E8%AF%88%E9%AA%97)
-30. [骇人,印度火化工用尸体下酒](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363977&topic_name=%E9%AA%87%E4%BA%BA%2C%E5%8D%B0%E5%BA%A6%E7%81%AB%E5%8C%96%E5%B7%A5%E7%94%A8%E5%B0%B8%E4%BD%93%E4%B8%8B%E9%85%92)
