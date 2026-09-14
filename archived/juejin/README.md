@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-15 04:20:52
+> 更新时间：2026-09-15 05:18:00
 
 ## 热门文章
 
@@ -36,13 +36,13 @@
 30. [WorkBuddy 技术解析：核心并不神秘，真正壁垒在产品化、生态与规模工程](https://juejin.cn/post/7684313635775004712)
 31. [Agent 的控制权，为什么正在回到模型手里？](https://juejin.cn/post/7684900473053954094)
 32. [磁盘IO打满怎么办？我用5个真实案例，总结了这套可复用的排查方法论](https://juejin.cn/post/7684460980933459983)
-33. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
-34. [Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI](https://juejin.cn/post/7684507874422751283)
-35. [一天一个开源项目（第215篇）：Langflow - 可视化拖拽构建 AI 应用的低代码平台](https://juejin.cn/post/7684463933718773787)
-36. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
-37. [别卷 Python 了：我用 Java 21 + Spring Boot 3 打造了一个企业级 RAG + 智能体工作流引擎（附架构与源码解析）](https://juejin.cn/post/7684092309538832390)
-38. [从 BI 到 Agent：我如何用 Java 打造一个轻量级数据库语义网关 DatI](https://juejin.cn/post/7684092309537734662)
-39. [两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下](https://juejin.cn/post/7684203867400044582)
+33. [从 BI 到 Agent：我如何用 Java 打造一个轻量级数据库语义网关 DatI](https://juejin.cn/post/7684092309537734662)
+34. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
+35. [Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI](https://juejin.cn/post/7684507874422751283)
+36. [一天一个开源项目（第215篇）：Langflow - 可视化拖拽构建 AI 应用的低代码平台](https://juejin.cn/post/7684463933718773787)
+37. [两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下](https://juejin.cn/post/7684203867400044582)
+38. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
+39. [别卷 Python 了：我用 Java 21 + Spring Boot 3 打造了一个企业级 RAG + 智能体工作流引擎（附架构与源码解析）](https://juejin.cn/post/7684092309538832390)
 40. [为什么你的页面在 Safari 上总出问题？Interop 2027 正在解决这个 20 年老毛病](https://juejin.cn/post/7684897169736187910)
 41. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
 42. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
