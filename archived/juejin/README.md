@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-15 05:18:00
+> 更新时间：2026-09-15 06:20:13
 
 ## 热门文章
 
@@ -13,9 +13,9 @@
 7. [App 架构演进：MVC → MVP → MVVM → MVI，一篇看懂](https://juejin.cn/post/7684439645419274267)
 8. [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514)
 9. [代码80%是AI写的，这家AI公司呼吁暂停AI开发](https://juejin.cn/post/7684228650583375878)
-10. [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443)
-11. [vue-split-screen：让 Vue Router 的导航轨迹变成两个页面](https://juejin.cn/post/7683846471340032051)
-12. [只备份一个 schema，别把整库都搬走](https://juejin.cn/post/7685224902321848358)
+10. [只备份一个 schema，别把整库都搬走](https://juejin.cn/post/7685224902321848358)
+11. [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443)
+12. [vue-split-screen：让 Vue Router 的导航轨迹变成两个页面](https://juejin.cn/post/7683846471340032051)
 13. [ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍](https://juejin.cn/post/7684657593512263722)
 14. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
 15. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
@@ -29,8 +29,8 @@
 23. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
 24. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
 25. [从产品角度：拆解WorkBuddy 功能](https://juejin.cn/post/7684615074137718824)
-26. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
-27. [2026年古法编程的末法时代，如何评估自己完成迅速转行](https://juejin.cn/post/7684615074136801320)
+26. [2026年古法编程的末法时代，如何评估自己完成迅速转行](https://juejin.cn/post/7684615074136801320)
+27. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
 28. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
 29. [最近火爆出圈的，FDE 到底是个什么岗位？](https://juejin.cn/post/7684795356343336998)
 30. [WorkBuddy 技术解析：核心并不神秘，真正壁垒在产品化、生态与规模工程](https://juejin.cn/post/7684313635775004712)

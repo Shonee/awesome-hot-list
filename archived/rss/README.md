@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 05:18:53
+> 更新时间：2026-09-15 06:21:04
 
 ## IT之家
 
-1. [苹果 watchOS 27.0 正式版发布](https://www.ithome.com/1/002/332.htm)
-2. [苹果 visionOS 27.0 正式版发布](https://www.ithome.com/1/002/331.htm)
-3. [苹果 macOS 27.0 正式版发布](https://www.ithome.com/1/002/330.htm)
-4. [苹果 iOS/iPadOS 27.0 正式版发布](https://www.ithome.com/1/002/329.htm)
-5. [vivo WATCH 6 智能手表亮相：蓝宝石玻璃表镜、钛合金表体，9 月 21 日发布](https://www.ithome.com/1/002/320.htm)
+1. [苹果为 AirPods Pro 3 等耳机推送 9A348 新固件](https://www.ithome.com/1/002/336.htm)
+2. [V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题](https://www.ithome.com/1/002/335.htm)
+3. [苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展](https://www.ithome.com/1/002/332.htm)
+4. [苹果 visionOS 27.0 正式版发布：Siri AI、4K 录制与 Wi-Fi 提速](https://www.ithome.com/1/002/331.htm)
+5. [苹果 macOS 27.0 正式版发布：Siri 独立 App、引入多项智能辅助...](https://www.ithome.com/1/002/330.htm)
 
 ## 少数派
 
@@ -56,7 +56,15 @@
 2. [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
 3. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
 4. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
-5. [The Download: biotech’s future and cheaper, cleaner steel](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
+5. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
+
+## AI News
+
+1. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+2. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+3. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
+4. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
+5. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
 
 ## 阮一峰网络日志
 
