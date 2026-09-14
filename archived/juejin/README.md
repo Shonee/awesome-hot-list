@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-15 01:17:41
+> 更新时间：2026-09-15 02:25:03
 
 ## 热门文章
 
@@ -18,16 +18,16 @@
 12. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
 13. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
 14. [ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍](https://juejin.cn/post/7684657593512263722)
-15. [Deepseek Harness 架构解析和应用](https://juejin.cn/post/7684759404727320627)
-16. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
-17. [只备份一个 schema，别把整库都搬走](https://juejin.cn/post/7685224902321848358)
-18. [AI 越来越强，为什么打工人反而越来越累、越来越内耗了？](https://juejin.cn/post/7684573646438629386)
-19. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
-20. [程序员都开始懂业务了，产品经理还剩下什么价值？](https://juejin.cn/post/7684690252645515298)
-21. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
-22. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
-23. [从产品角度：拆解WorkBuddy 功能](https://juejin.cn/post/7684615074137718824)
-24. [WebP 压缩到底在干嘛？小白也能看懂的原理拆解](https://juejin.cn/post/7685040997440978990)
+15. [只备份一个 schema，别把整库都搬走](https://juejin.cn/post/7685224902321848358)
+16. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
+17. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
+18. [Deepseek Harness 架构解析和应用](https://juejin.cn/post/7684759404727320627)
+19. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
+20. [AI 越来越强，为什么打工人反而越来越累、越来越内耗了？](https://juejin.cn/post/7684573646438629386)
+21. [WebP 压缩到底在干嘛？小白也能看懂的原理拆解](https://juejin.cn/post/7685040997440978990)
+22. [程序员都开始懂业务了，产品经理还剩下什么价值？](https://juejin.cn/post/7684690252645515298)
+23. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
+24. [从产品角度：拆解WorkBuddy 功能](https://juejin.cn/post/7684615074137718824)
 25. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
 26. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
 27. [2026年古法编程的末法时代，如何评估自己完成迅速转行](https://juejin.cn/post/7684615074136801320)
@@ -45,10 +45,10 @@
 39. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
 40. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
 41. [Android 手簿 ADB 无线调试全攻略：USB 转 WiFi 一键连接](https://juejin.cn/post/7684547172776378414)
-42. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
-43. [两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下](https://juejin.cn/post/7684203867400044582)
-44. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
-45. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
+42. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
+43. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
+44. [两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下](https://juejin.cn/post/7684203867400044582)
+45. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
 46. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
 47. [小米版 Codex，干活有点猛啊](https://juejin.cn/post/7684795356321579018)
 48. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
