@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 07:18:40
+> 更新时间：2026-09-15 08:57:11
 
 ## IT之家
 
-1. [V社透露仍在推进 Steam Deck 2 游戏掌机开发工作，内存涨价未打乱产品正常迭代规划](https://www.ithome.com/1/002/351.htm)
-2. [苹果 iOS 27 RC 新增爱马仕 Hermès MagSafe 钱包专属吸附动画](https://www.ithome.com/1/002/350.htm)
-3. [三星与 Verizon 开展“利用 5G 无线信号实时生成人群密度热力图”真实环境测试，为 6G 技术铺路](https://www.ithome.com/1/002/349.htm)
-4. [苹果 iOS 27 家庭 AI 功能强制捆绑 2TB 及以上 iCloud+ 套餐：单摄像头月费 9.99 美元、五摄像头 59.99 美元，引 iPhone 用户不满](https://www.ithome.com/1/002/348.htm)
-5. [分析师称玩家针对索尼 SIE 停产游戏光盘发起的抵制活动“PlayStation Blackout”收效甚微](https://www.ithome.com/1/002/347.htm)
+1. [苹果 Apple Watch 官方表带累计已超 1000 款，最贵售价 17999 元](https://www.ithome.com/1/002/378.htm)
+2. [苹果上诉最高法院：要求撤销 Epic 案中“藐视法庭”裁决，试图将 App Store 规则恢复至 2025 年前](https://www.ithome.com/1/002/377.htm)
+3. [拳头游戏宣布《英雄联盟》虚拟乐团“心之钢”回归，将推新单曲《Live My Life》](https://www.ithome.com/1/002/376.htm)
+4. [AI-eSIM 团体标准编制启动，中国移动 / 联通 / 电信三大运营商参与](https://www.ithome.com/1/002/375.htm)
+5. [联想来酷斗战者 AI NAS 900 系列私有云主机开售：飞牛 fnOS 系统，6999 元起](https://www.ithome.com/1/002/373.htm)
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 爱范儿
 
-1. [在学会数学之前，AI 先学会了大厂的虚荣心](https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」](https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」](https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [在学会数学之前，AI 先学会了大厂的虚荣心](https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」](https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -44,11 +44,11 @@
 
 ## 极客公园
 
-1. [专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件](http://www.geekpark.net/news/370269)
-2. [苹果的折叠屏等了十五年，体验还差临门一脚](http://www.geekpark.net/news/370231)
-3. [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话](http://www.geekpark.net/news/370228)
-4. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
-5. [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
+1. [iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束](http://www.geekpark.net/news/370306)
+2. [专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件](http://www.geekpark.net/news/370269)
+3. [苹果的折叠屏等了十五年，体验还差临门一脚](http://www.geekpark.net/news/370231)
+4. [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话](http://www.geekpark.net/news/370228)
+5. [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
 
 ## MIT Technology Review
 
@@ -57,6 +57,14 @@
 3. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
 4. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
 5. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
+
+## AI News
+
+1. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+2. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+3. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
+4. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
+5. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
 
 ## 阮一峰网络日志
 
