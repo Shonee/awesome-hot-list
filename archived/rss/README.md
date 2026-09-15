@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 23:21:34
+> 更新时间：2026-09-16 00:23:37
 
 ## IT之家
 
-1. [岚图汽车卢放详解虎踞底盘 P 方案：专门面向旗舰 MPV，标配双向 10 度后轮转向](https://www.ithome.com/1/002/800.htm)
-2. [互传联盟推出“碰一碰互传技术标准”：荣耀、OPPO、vivo、小米联调，10 月中旬起陆续推送](https://www.ithome.com/1/002/799.htm)
-3. [iQOO 16 三色官图发布：逐光 / 传奇 / 赛道、主打科幻感，新机 9 月 29 日发布](https://www.ithome.com/1/002/798.htm)
-4. [红魔姜超：红魔 12 系列手机只升配不降配，搭载独家第九代屏下全面屏](https://www.ithome.com/1/002/797.htm)
-5. [宏碁推出 Swift Spin 14 翻转本：最高可选酷睿 Ultra 9 386H 处理器、32GB 内存](https://www.ithome.com/1/002/796.htm)
+1. [Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元](https://www.ithome.com/1/002/818.htm)
+2. [消息称华为 Mate 90 系列手机“大杯”都有双层 OLED 屏幕，支持万级高亮度](https://www.ithome.com/1/002/817.htm)
+3. [戴尔科技股价涨超 6% 再创历史新高，年内累计大涨约 355%](https://www.ithome.com/1/002/816.htm)
+4. [雷蛇发布北海巨妖 V4 X SENSA HD 耳机，799 元](https://www.ithome.com/1/002/815.htm)
+5. [荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发](https://www.ithome.com/1/002/814.htm)
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## 量子位
 
-1. [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
-2. [手机替我跑了一整套流程！我就说了一句话，AI执行了100步](https://www.qbitai.com/2026/09/489466.html)
-3. [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
-4. [全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型](https://www.qbitai.com/2026/09/489389.html)
-5. [一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影](https://www.qbitai.com/2026/09/489381.html)
+1. [梁文锋CFO到位！投过智谱MiniMax](https://www.qbitai.com/2026/09/489707.html)
+2. [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
+3. [手机替我跑了一整套流程！我就说了一句话，AI执行了100步](https://www.qbitai.com/2026/09/489466.html)
+4. [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
+5. [全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型](https://www.qbitai.com/2026/09/489389.html)
 
 ## InfoQ
 

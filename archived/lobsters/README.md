@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-15 23:20:42
+> 更新时间：2026-09-16 00:22:49
 
 ## Hottest
 
@@ -26,6 +26,6 @@
 20. [Anecdotally, programmers dislike "reduce"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
 21. [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 22. [Postgres development activity](https://vondra.me/posts/postgres-development-activity/)
-23. [IBM Built the Cold War’s Most Powerful Code Breaker for the NSA](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
-24. [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
-25. [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
+23. [Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)
+24. [IBM Built the Cold War’s Most Powerful Code Breaker for the NSA](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
+25. [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
