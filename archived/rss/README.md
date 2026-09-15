@@ -1,18 +1,18 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 09:34:02
+> 更新时间：2026-09-15 10:31:56
 
 ## IT之家
 
-1. [工信部、国家发改委：“十五五”规划提高先进制程能力，突破高端手机核心芯片、PC 高性能芯片，加强开源鸿蒙等国产操作系统搭载](https://www.ithome.com/1/002/403.htm)
-2. [Mac 卸载工具 AppZapper 3000 发布：数秒内删除应用及关联文件](https://www.ithome.com/1/002/401.htm)
-3. [Waymo 扩大美国无人驾驶网约车服务版图，将拉斯维加斯纳入运营范围](https://www.ithome.com/1/002/400.htm)
-4. [共享单车重要新规：互联网租赁自行车国家标准发布，要求车辆具有唯一性编码](https://www.ithome.com/1/002/390.htm)
-5. [iQOO 16 官宣 9 月 29 日发布，号称标准版产品力超 Pro Max](https://www.ithome.com/1/002/388.htm)
+1. [华尔街日报：夏尔马收拾微软 XBOX 烂摊子，每月数小时亲自回玩家工单](https://www.ithome.com/1/002/441.htm)
+2. [小米米家智能 IH 电饭煲 2 多功能版首销：分体式结构设计、9 大烹饪模式，首发价 687.74 元起](https://www.ithome.com/1/002/429.htm)
+3. [2988 元华为 HUAWEI WATCH D3 腕部动态血压记录仪预售：动态血压监测、一键微体检、运动前后血压测量...](https://www.ithome.com/1/002/427.htm)
+4. [微软媒体创建工具更新 Win11 镜像：整合 2026 最大累积更新，修复漏洞数同比增 1032.6%](https://www.ithome.com/1/002/423.htm)
+5. [小米手表 S5 41mm、REDMI Buds 8S 耳机开启预约](https://www.ithome.com/1/002/422.htm)
 
 ## 少数派
 
-1. [派早报：豆包发布手机助手消费者版，绿联发布首款雷电 5 显卡坞等](https://sspai.com/post/114593)
+1. [派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等](https://sspai.com/post/114593)
 2. [派评｜近期值得关注的 App](https://sspai.com/post/114577)
 3. [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
 4. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训](https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article)
-2. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
-3. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
-4. [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
-5. [Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”](https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article)
+1. [从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海](https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article)
+2. [在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训](https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article)
+3. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
+4. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
+5. [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
