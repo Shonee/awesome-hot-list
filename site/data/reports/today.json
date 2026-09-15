@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15 19:22:11",
-    "summary": "我国人口总量14.05亿成为本期综合热度最高的话题，这个“合订本”让日本人气坏了紧随其后。当前覆盖 33 个有效渠道，共形成 822 个榜单时间切片；发现 132 个跨渠道重复热点。",
+    "generatedAt": "2026-09-15 19:30:08",
+    "summary": "我国人口总量14.05亿成为本期综合热度最高的话题，这个“合订本”让日本人气坏了紧随其后。当前覆盖 33 个有效渠道，共形成 830 个榜单时间切片；发现 132 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 4882,
+        "deduplicated": 4911,
         "resonance": 132,
         "maxRise": 74,
-        "slices": 822,
+        "slices": 830,
         "coverage": 100,
         "samplingCoverage": 95
     },
@@ -2463,7 +2463,7 @@
         },
         {
             "word": "LA",
-            "weight": 141,
+            "weight": 143,
             "tone": "",
             "hits": [
                 {
@@ -2561,6 +2561,30 @@
                     "rank": 15,
                     "title": "everything-claude-code",
                     "url": "https://github.com/WorldFlowAI/everything-claude-code"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 10,
+                    "title": "atlas",
+                    "url": "https://github.com/pacifio/atlas"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 11,
+                    "title": "Claude-Red",
+                    "url": "https://github.com/SnailSploit/Claude-Red"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 12,
+                    "title": "horilla-hr",
+                    "url": "https://github.com/horilla/horilla-hr"
                 },
                 {
                     "channelId": "hackernews",
@@ -2681,36 +2705,12 @@
                     "rank": 43,
                     "title": "两个月 59 篇 AI 开发日志 + Golang 商业级实战项目收工后，得来的 AI 使用心法-下",
                     "url": "https://juejin.cn/post/7684203867400044582"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 3,
-                    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
-                    "url": "https://codeberg.org/mergiraf/mergiraf"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 18,
-                    "title": "Golang developers should try Odin",
-                    "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 25,
-                    "title": "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code",
-                    "url": "https://kythe.io"
                 }
             ]
         },
         {
             "word": "US",
-            "weight": 121,
+            "weight": 122,
             "tone": "hot",
             "hits": [
                 {
@@ -2728,6 +2728,14 @@
                     "rank": 9,
                     "title": "browser-use",
                     "url": "https://github.com/browser-use/browser-use"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 13,
+                    "title": "lx-music-source",
+                    "url": "https://github.com/pdone/lx-music-source"
                 },
                 {
                     "channelId": "hackernews",
@@ -2944,14 +2952,6 @@
                     "rank": 3,
                     "title": "How to use pydicom auto_format config option",
                     "url": "https://stackoverflow.com/questions/80003029/how-to-use-pydicom-auto-format-config-option"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 6,
-                    "title": "Google Business Profile Performance API returning 0 for BUSINESS_IMPRESSIONS_MOBILE_MAPS after 15+ days",
-                    "url": "https://stackoverflow.com/questions/80003020/google-business-profile-performance-api-returning-0-for-business-impressions-mob"
                 }
             ]
         },
@@ -10136,10 +10136,10 @@
     "flow": {
         "times": [
             "00:22",
-            "04:28",
-            "09:33",
+            "05:17",
+            "09:34",
             "14:38",
-            "19:20"
+            "19:28"
         ],
         "rows": [
             {
