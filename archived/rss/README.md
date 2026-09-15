@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 20:32:48
+> 更新时间：2026-09-15 21:23:54
 
 ## IT之家
 
-1. [华为发布全球首个 3D 数据中心](https://www.ithome.com/1/002/762.htm)
-2. [树莓派 Raspberry Pi OS 更新：新增程序坞、启动台](https://www.ithome.com/1/002/761.htm)
-3. [Salesforce 联合英伟达推出 Koa 推理大模型，挑战闭源前沿模型](https://www.ithome.com/1/002/760.htm)
-4. [ANKER 黑神话联名 3 合 1 能量棒 399 → 168 元再降价，10000mAh 可上飞机](https://www.ithome.com/1/002/759.htm)
-5. [消息称智界搭载主动悬架车型计划明年亮相，操稳性能开发项目采购公告曝光](https://www.ithome.com/1/002/758.htm)
+1. [比亚迪辅助驾驶车型保有量超 372 万辆，天神之眼每天生成数据超 2.3 亿公里](https://www.ithome.com/1/002/772.htm)
+2. [Sharkoon 推出 Stealthbite IEM 入耳式耳机，搭载 10mm 圈铁混合单元](https://www.ithome.com/1/002/771.htm)
+3. [长城汽车坦克 300“虎克之路”盲订：越野套件、前后双硬桥加持，可适配 40 英寸轮胎](https://www.ithome.com/1/002/770.htm)
+4. [上市权益价 10.36 万元起，2027 款埃安 i60 上市](https://www.ithome.com/1/002/769.htm)
+5. [启境汽车回应 GX7 是否会推纯电版：请留意官方信息，敬请期待](https://www.ithome.com/1/002/768.htm)
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 爱范儿
 
-1. [号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么](https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群](https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西](https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [纯电续航 960km！腾势 N8L 纯电版 29.98 万元起，语音助手成最大亮点](https://www.ifanr.com/1680061?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱](https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么](https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群](https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西](https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
-2. [支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎](https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article)
-3. [QQ 飞车 Agentic 研发转型过程中的Loop Engineering](https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article)
-4. [OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra](https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&utm_medium=article)
-5. [京东上线“东东”购物助手：在原来的APP里长出了一个“更懂你”的Agent](https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ?utm_source=rss&utm_medium=article)
+1. [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
+2. [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
+3. [支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎](https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article)
+4. [QQ 飞车 Agentic 研发转型过程中的Loop Engineering](https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article)
+5. [OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra](https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
