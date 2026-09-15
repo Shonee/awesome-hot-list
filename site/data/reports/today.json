@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-16",
-    "generatedAt": "2026-09-16 07:20:00",
-    "summary": "不良信息一键举报 共建清朗网络空间成为本期综合热度最高的话题，崔天凯：一劳永逸解决台湾问题紧随其后。当前覆盖 33 个有效渠道，共形成 327 个榜单时间切片；发现 41 个跨渠道重复热点。",
+    "generatedAt": "2026-09-16 07:27:17",
+    "summary": "不良信息一键举报 共建清朗网络空间成为本期综合热度最高的话题，崔天凯：一劳永逸解决台湾问题紧随其后。当前覆盖 33 个有效渠道，共形成 328 个榜单时间切片；发现 41 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2241,
+        "deduplicated": 2245,
         "resonance": 41,
         "maxRise": 39,
-        "slices": 327,
+        "slices": 328,
         "coverage": 100,
-        "samplingCoverage": 92
+        "samplingCoverage": 93
     },
     "topTopics": [
         {
@@ -287,29 +287,6 @@
             ]
         },
         {
-            "title": "GEFS on OpenBSD: A very early preview",
-            "source": "跨渠道",
-            "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-            "hits": [
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 8,
-                    "title": "GEFS on OpenBSD: A very early preview",
-                    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
-                },
-                {
-                    "channelId": "hackernews",
-                    "channelName": "Hacker News",
-                    "ranking": "Top Stories",
-                    "rank": 5,
-                    "title": "GEFS on OpenBSD: A Early Preview",
-                    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
-                }
-            ]
-        },
-        {
             "title": "号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么",
             "source": "跨渠道",
             "url": "https://www.36kr.com/p/3984454407158787",
@@ -333,25 +310,25 @@
             ]
         },
         {
-            "title": "Converting a $20 4G wireless hotspot into a texting device",
+            "title": "GEFS on OpenBSD: A Early Preview",
             "source": "跨渠道",
-            "url": "https://bkovac.github.io/modem-thing/",
+            "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
             "hits": [
                 {
                     "channelId": "lobsters",
                     "channelName": "Lobsters",
                     "ranking": "Hottest",
                     "rank": 8,
-                    "title": "Converting a $20 4G wireless hotspot into a texting device",
-                    "url": "https://bkovac.github.io/modem-thing/"
+                    "title": "GEFS on OpenBSD: A very early preview",
+                    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
                 },
                 {
                     "channelId": "hackernews",
                     "channelName": "Hacker News",
                     "ranking": "Top Stories",
-                    "rank": 7,
-                    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-                    "url": "https://bkovac.github.io/modem-thing/"
+                    "rank": 5,
+                    "title": "GEFS on OpenBSD: A Early Preview",
+                    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
                 }
             ]
         },
@@ -377,12 +354,35 @@
                     "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%8F%B8%E6%B3%95%E9%89%B4%E5%AE%9A%E4%B8%AD%E5%BF%83%E8%A2%AB%E5%A4%84%E7%BD%9A&Refer=index"
                 }
             ]
+        },
+        {
+            "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+            "source": "跨渠道",
+            "url": "https://www.36kr.com/p/3984193168784390",
+            "hits": [
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 2,
+                    "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+                    "url": "https://www.36kr.com/p/3984193168784390"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 4,
+                    "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+                    "url": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign="
+                }
+            ]
         }
     ],
     "words": [
         {
             "word": "AI",
-            "weight": 117,
+            "weight": 118,
             "tone": "hot",
             "hits": [
                 {
@@ -876,7 +876,7 @@
         },
         {
             "word": "Pro",
-            "weight": 46,
+            "weight": 47,
             "tone": "gold",
             "hits": [
                 {
@@ -942,6 +942,14 @@
                     "rank": 7,
                     "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
                     "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 11,
+                    "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+                    "url": "https://mnoukhov.github.io/posts/ngu/"
                 },
                 {
                     "channelId": "huggingface",
@@ -1110,14 +1118,6 @@
                     "rank": 34,
                     "title": "【补档4K】麒麟9050 Pro能效实测！华为Mate XT2性能有多强？_2160p60",
                     "url": "https://www.acfun.cn/v/ac48847776"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 28,
-                    "title": "卢伟冰称“史上最大升级”，官宣小米18 Pro本月迎战苹果",
-                    "url": "https://www.36kr.com/p/3984289450432384"
                 }
             ]
         },
@@ -4886,9 +4886,256 @@
             ]
         },
         {
+            "word": "Agent",
+            "weight": 28,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 10,
+                    "title": "如何理解李博杰开源的《深入理解 AI Agent》？",
+                    "url": "https://www.zhihu.com/question/2082847664274497759"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 12,
+                    "title": "agent-skills",
+                    "url": "https://github.com/addyosmani/agent-skills"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 16,
+                    "title": "TradingAgents",
+                    "url": "https://github.com/TauricResearch/TradingAgents"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 7,
+                    "title": "astron-agent",
+                    "url": "https://github.com/iflytek/astron-agent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 13,
+                    "title": "agentscope-java",
+                    "url": "https://github.com/agentscope-ai/agentscope-java"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 5,
+                    "title": "TradingAgents",
+                    "url": "https://github.com/TauricResearch/TradingAgents"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 10,
+                    "title": "Agent-Reach",
+                    "url": "https://github.com/Panniantong/Agent-Reach"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 15,
+                    "title": "MathModelAgent",
+                    "url": "https://github.com/jihe520/MathModelAgent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 7,
+                    "title": "agent-sandbox",
+                    "url": "https://github.com/kubernetes-sigs/agent-sandbox"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 13,
+                    "title": "simulink-agentic-toolkit",
+                    "url": "https://github.com/matlab/simulink-agentic-toolkit"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 9,
+                    "title": "ux-ui-agent-skills",
+                    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 14,
+                    "title": "agent-skills",
+                    "url": "https://github.com/addyosmani/agent-skills"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 17,
+                    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+                    "url": "https://github.com/pizza-bot-app/pizza-bot"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 16,
+                    "title": "AgentLoop: 从 while(true) 到生产级循环",
+                    "url": "https://juejin.cn/post/7684795356321775626"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "Agent 的控制权，为什么正在回到模型手里？",
+                    "url": "https://juejin.cn/post/7684900473053954094"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 36,
+                    "title": "Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI",
+                    "url": "https://juejin.cn/post/7684507874422751283"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 44,
+                    "title": "ADK for Kotlin：Google 官方 AI Agent 教程来了",
+                    "url": "https://juejin.cn/post/7684533566942134278"
+                },
+                {
+                    "channelId": "lobsters",
+                    "channelName": "Lobsters",
+                    "ranking": "Hottest",
+                    "rank": 23,
+                    "title": "txcript: Switching coding agents mid-conversation",
+                    "url": "https://github.com/skillsynchq/txcript"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 2,
+                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1284)",
+                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 2,
+                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1287)",
+                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 2,
+                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1288)",
+                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 2,
+                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1289)",
+                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 2,
+                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1291)",
+                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 3,
+                    "title": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
+                    "url": "https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 2,
+                    "title": "Agent开始调用基础设施，Kubernetes准备好了吗？",
+                    "url": "https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 3,
+                    "title": "飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT",
+                    "url": "https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 4,
+                    "title": "支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎",
+                    "url": "https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 5,
+                    "title": "QQ 飞车 Agentic 研发转型过程中的Loop Engineering",
+                    "url": "https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "MIT Technology Review",
+                    "rank": 1,
+                    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+                    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "AI News",
+                    "rank": 4,
+                    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+                    "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/"
+                }
+            ]
+        },
+        {
             "word": "NET",
             "weight": 24,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "hackernews",
@@ -5087,7 +5334,7 @@
         {
             "word": "男子",
             "weight": 18,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5334,7 +5581,7 @@
         {
             "word": "科技",
             "weight": 16,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5477,7 +5724,7 @@
         {
             "word": "vs",
             "weight": 15,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5604,7 +5851,7 @@
         {
             "word": "韩国",
             "weight": 14,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5723,7 +5970,7 @@
         {
             "word": "体验",
             "weight": 13,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5834,7 +6081,7 @@
         {
             "word": "直播",
             "weight": 10,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -5921,7 +6168,7 @@
         {
             "word": "黄仁勋",
             "weight": 8,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -6050,245 +6297,6 @@
                     "rank": 5,
                     "title": "英伟达黄仁勋：AI 行业不需要新法律，开发可兼得速度和安全",
                     "url": "https://www.ithome.com/1/002/834.htm"
-                }
-            ]
-        },
-        {
-            "word": "Agent",
-            "weight": 27,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 10,
-                    "title": "如何理解李博杰开源的《深入理解 AI Agent》？",
-                    "url": "https://www.zhihu.com/question/2082847664274497759"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每日趋势",
-                    "rank": 12,
-                    "title": "agent-skills",
-                    "url": "https://github.com/addyosmani/agent-skills"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "每周趋势",
-                    "rank": 16,
-                    "title": "TradingAgents",
-                    "url": "https://github.com/TauricResearch/TradingAgents"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Java",
-                    "rank": 7,
-                    "title": "astron-agent",
-                    "url": "https://github.com/iflytek/astron-agent"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Java",
-                    "rank": 13,
-                    "title": "agentscope-java",
-                    "url": "https://github.com/agentscope-ai/agentscope-java"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Python",
-                    "rank": 5,
-                    "title": "TradingAgents",
-                    "url": "https://github.com/TauricResearch/TradingAgents"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Python",
-                    "rank": 10,
-                    "title": "Agent-Reach",
-                    "url": "https://github.com/Panniantong/Agent-Reach"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Python",
-                    "rank": 15,
-                    "title": "MathModelAgent",
-                    "url": "https://github.com/jihe520/MathModelAgent"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "Go",
-                    "rank": 7,
-                    "title": "agent-sandbox",
-                    "url": "https://github.com/kubernetes-sigs/agent-sandbox"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "HTML",
-                    "rank": 13,
-                    "title": "simulink-agentic-toolkit",
-                    "url": "https://github.com/matlab/simulink-agentic-toolkit"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "JavaScript",
-                    "rank": 9,
-                    "title": "ux-ui-agent-skills",
-                    "url": "https://github.com/plugin87/ux-ui-agent-skills"
-                },
-                {
-                    "channelId": "github",
-                    "channelName": "GitHub",
-                    "ranking": "JavaScript",
-                    "rank": 14,
-                    "title": "agent-skills",
-                    "url": "https://github.com/addyosmani/agent-skills"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 16,
-                    "title": "AgentLoop: 从 while(true) 到生产级循环",
-                    "url": "https://juejin.cn/post/7684795356321775626"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 32,
-                    "title": "Agent 的控制权，为什么正在回到模型手里？",
-                    "url": "https://juejin.cn/post/7684900473053954094"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 36,
-                    "title": "Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI",
-                    "url": "https://juejin.cn/post/7684507874422751283"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 44,
-                    "title": "ADK for Kotlin：Google 官方 AI Agent 教程来了",
-                    "url": "https://juejin.cn/post/7684533566942134278"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 23,
-                    "title": "txcript: Switching coding agents mid-conversation",
-                    "url": "https://github.com/skillsynchq/txcript"
-                },
-                {
-                    "channelId": "cnblogs",
-                    "channelName": "博客园",
-                    "ranking": "24 小时推荐排行",
-                    "rank": 2,
-                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1284)",
-                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
-                },
-                {
-                    "channelId": "cnblogs",
-                    "channelName": "博客园",
-                    "ranking": "24 小时推荐排行",
-                    "rank": 2,
-                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1287)",
-                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
-                },
-                {
-                    "channelId": "cnblogs",
-                    "channelName": "博客园",
-                    "ranking": "24 小时推荐排行",
-                    "rank": 2,
-                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1288)",
-                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
-                },
-                {
-                    "channelId": "cnblogs",
-                    "channelName": "博客园",
-                    "ranking": "24 小时推荐排行",
-                    "rank": 2,
-                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1289)",
-                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
-                },
-                {
-                    "channelId": "cnblogs",
-                    "channelName": "博客园",
-                    "ranking": "24 小时推荐排行",
-                    "rank": 2,
-                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1291)",
-                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 3,
-                    "title": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
-                    "url": "https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign="
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 2,
-                    "title": "Agent开始调用基础设施，Kubernetes准备好了吗？",
-                    "url": "https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 3,
-                    "title": "飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT",
-                    "url": "https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 4,
-                    "title": "支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎",
-                    "url": "https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "InfoQ",
-                    "rank": 5,
-                    "title": "QQ 飞车 Agentic 研发转型过程中的Loop Engineering",
-                    "url": "https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "MIT Technology Review",
-                    "rank": 1,
-                    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-                    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "AI News",
-                    "rank": 4,
-                    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-                    "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/"
                 }
             ]
         },
@@ -7218,8 +7226,8 @@
             "00:22",
             "02:24",
             "03:27",
-            "05:19",
-            "07:19"
+            "05:20",
+            "07:27"
         ],
         "rows": [
             {
@@ -7603,33 +7611,6 @@
                 "delta": null
             },
             {
-                "title": "GEFS on OpenBSD: A very early preview",
-                "source": "跨渠道",
-                "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-                "query": "GEFS on OpenBSD: A very early preview",
-                "hits": [
-                    {
-                        "channelId": "lobsters",
-                        "channelName": "Lobsters",
-                        "ranking": "Hottest",
-                        "rank": 8,
-                        "title": "GEFS on OpenBSD: A very early preview",
-                        "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
-                    },
-                    {
-                        "channelId": "hackernews",
-                        "channelName": "Hacker News",
-                        "ranking": "Top Stories",
-                        "rank": 5,
-                        "title": "GEFS on OpenBSD: A Early Preview",
-                        "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
-                    }
-                ],
-                "currentRank": 7,
-                "previousRank": null,
-                "delta": null
-            },
-            {
                 "title": "号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么",
                 "source": "跨渠道",
                 "url": "https://www.36kr.com/p/3984454407158787",
@@ -7652,34 +7633,34 @@
                         "url": "https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign="
                     }
                 ],
-                "currentRank": 8,
+                "currentRank": 7,
                 "previousRank": null,
                 "delta": null
             },
             {
-                "title": "Converting a $20 4G wireless hotspot into a texting device",
+                "title": "GEFS on OpenBSD: A Early Preview",
                 "source": "跨渠道",
-                "url": "https://bkovac.github.io/modem-thing/",
-                "query": "Converting a $20 4G wireless hotspot into a texting device",
+                "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+                "query": "GEFS on OpenBSD: A Early Preview",
                 "hits": [
                     {
                         "channelId": "lobsters",
                         "channelName": "Lobsters",
                         "ranking": "Hottest",
                         "rank": 8,
-                        "title": "Converting a $20 4G wireless hotspot into a texting device",
-                        "url": "https://bkovac.github.io/modem-thing/"
+                        "title": "GEFS on OpenBSD: A very early preview",
+                        "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
                     },
                     {
                         "channelId": "hackernews",
                         "channelName": "Hacker News",
                         "ranking": "Top Stories",
-                        "rank": 7,
-                        "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-                        "url": "https://bkovac.github.io/modem-thing/"
+                        "rank": 5,
+                        "title": "GEFS on OpenBSD: A Early Preview",
+                        "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
                     }
                 ],
-                "currentRank": 9,
+                "currentRank": 8,
                 "previousRank": null,
                 "delta": null
             },
@@ -7704,6 +7685,33 @@
                         "rank": 24,
                         "title": "孙子非亲生案司法鉴定中心被处罚",
                         "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%8F%B8%E6%B3%95%E9%89%B4%E5%AE%9A%E4%B8%AD%E5%BF%83%E8%A2%AB%E5%A4%84%E7%BD%9A&Refer=index"
+                    }
+                ],
+                "currentRank": 9,
+                "previousRank": null,
+                "delta": null
+            },
+            {
+                "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+                "source": "跨渠道",
+                "url": "https://www.36kr.com/p/3984193168784390",
+                "query": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+                "hits": [
+                    {
+                        "channelId": "36kr",
+                        "channelName": "36氪",
+                        "ranking": "热榜",
+                        "rank": 2,
+                        "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+                        "url": "https://www.36kr.com/p/3984193168784390"
+                    },
+                    {
+                        "channelId": "rss",
+                        "channelName": "RSS",
+                        "ranking": "爱范儿",
+                        "rank": 4,
+                        "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
+                        "url": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign="
                     }
                 ],
                 "currentRank": 10,

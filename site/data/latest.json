@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-16 07:19:42",
+    "generatedAt": "2026-09-16 07:27:03",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5536,7 +5536,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-16 05:26:29",
+            "fetchedAt": "2026-09-16 07:27:03",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5552,8 +5552,8 @@
                             "rank": 1,
                             "title": "Introducing System One Models and Jev",
                             "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-                            "hot": 351,
-                            "description": "137 comments",
+                            "hot": 589,
+                            "description": "195 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 19:25:03 UTC"
                         },
@@ -5561,8 +5561,8 @@
                             "rank": 2,
                             "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
                             "url": "https://github.com/arnegiacomo/fugleramme",
-                            "hot": 1111,
-                            "description": "152 comments",
+                            "hot": 1216,
+                            "description": "168 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 12:31:10 UTC"
                         },
@@ -5570,163 +5570,163 @@
                             "rank": 3,
                             "title": "An Update on Wayback Machine Access",
                             "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-                            "hot": 253,
-                            "description": "126 comments",
+                            "hot": 325,
+                            "description": "174 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 17:52:18 UTC"
                         },
                         {
                             "rank": 4,
-                            "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-                            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-                            "hot": 181,
-                            "description": "117 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 17:38:18 UTC"
-                        },
-                        {
-                            "rank": 5,
-                            "title": "Jean-Pierre Serre is 100 years old today",
-                            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-                            "hot": 19,
-                            "description": "0 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 20:57:18 UTC"
-                        },
-                        {
-                            "rank": 6,
-                            "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-                            "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-                            "hot": 151,
-                            "description": "61 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 18:11:24 UTC"
-                        },
-                        {
-                            "rank": 7,
                             "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
                             "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-                            "hot": 13,
-                            "description": "0 comments",
+                            "hot": 91,
+                            "description": "22 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 21:07:47 UTC"
                         },
                         {
+                            "rank": 5,
+                            "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+                            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+                            "hot": 249,
+                            "description": "171 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 17:38:18 UTC"
+                        },
+                        {
+                            "rank": 6,
+                            "title": "Jean-Pierre Serre is 100 years old today",
+                            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+                            "hot": 70,
+                            "description": "11 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 20:57:18 UTC"
+                        },
+                        {
+                            "rank": 7,
+                            "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+                            "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+                            "hot": 184,
+                            "description": "95 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 18:11:24 UTC"
+                        },
+                        {
                             "rank": 8,
-                            "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-                            "url": "https://github.com/GraafHenk/numberwang",
-                            "hot": 53,
-                            "description": "19 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 19:27:35 UTC"
-                        },
-                        {
-                            "rank": 9,
-                            "title": "Chopping up books when they're physically too big",
-                            "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-                            "hot": 63,
-                            "description": "53 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 18:45:31 UTC"
-                        },
-                        {
-                            "rank": 10,
                             "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
                             "url": "https://codyho.dev/blog/gpu-driver/",
-                            "hot": 31,
-                            "description": "2 comments",
+                            "hot": 105,
+                            "description": "57 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 19:30:03 UTC"
                         },
                         {
-                            "rank": 11,
-                            "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-                            "url": "https://withcapsule.app/",
-                            "hot": 243,
-                            "description": "110 comments",
+                            "rank": 9,
+                            "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+                            "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+                            "hot": 62,
+                            "description": "20 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 13:31:40 UTC"
+                            "publishedAt": "2026-09-15 17:37:12 UTC"
+                        },
+                        {
+                            "rank": 10,
+                            "title": "Chopping up books when they're physically too big",
+                            "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+                            "hot": 102,
+                            "description": "96 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 18:45:31 UTC"
+                        },
+                        {
+                            "rank": 11,
+                            "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+                            "url": "https://mnoukhov.github.io/posts/ngu/",
+                            "hot": 17,
+                            "description": "0 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 19:07:38 UTC"
                         },
                         {
                             "rank": 12,
+                            "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+                            "url": "https://github.com/GraafHenk/numberwang",
+                            "hot": 85,
+                            "description": "32 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 19:27:35 UTC"
+                        },
+                        {
+                            "rank": 13,
                             "title": "I can't stop thinking about Papua New Guinea",
                             "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-                            "hot": 954,
-                            "description": "383 comments",
+                            "hot": 1004,
+                            "description": "415 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 06:16:24 UTC"
                         },
                         {
-                            "rank": 13,
-                            "title": "Vibe Coding is the new Internet Dating?",
-                            "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-                            "hot": 8,
-                            "description": "1 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 01:45:53 UTC"
-                        },
-                        {
                             "rank": 14,
-                            "title": "GEFS on OpenBSD: A Early Preview",
-                            "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-                            "hot": 80,
-                            "description": "43 comments",
+                            "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+                            "url": "https://withcapsule.app/",
+                            "hot": 261,
+                            "description": "113 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 17:12:19 UTC"
+                            "publishedAt": "2026-09-15 13:31:40 UTC"
                         },
                         {
                             "rank": 15,
-                            "title": "The CSS Zen Garden dream, finally shipped",
-                            "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-                            "hot": 104,
-                            "description": "46 comments",
+                            "title": "Data races and the limits of ThreadSanitizer in C and Go",
+                            "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+                            "hot": 16,
+                            "description": "1 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 14:40:08 UTC"
+                            "publishedAt": "2026-09-13 04:09:19 UTC"
                         },
                         {
                             "rank": 16,
-                            "title": "Suspected sabotage causes major Netherlands rail disruption",
-                            "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-                            "hot": 378,
-                            "description": "368 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 10:22:46 UTC"
-                        },
-                        {
-                            "rank": 17,
                             "title": "Let's make quality the norm again",
                             "url": "https://www.forbrukerradet.no/short-life/",
-                            "hot": 247,
-                            "description": "261 comments",
+                            "hot": 280,
+                            "description": "289 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 10:00:16 UTC"
                         },
                         {
-                            "rank": 18,
-                            "title": "Cartesian – AI 3D Modeling for Design",
-                            "url": "https://www.formas.ai/cartesian",
-                            "hot": 74,
-                            "description": "62 comments",
+                            "rank": 17,
+                            "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+                            "url": "https://github.com/pizza-bot-app/pizza-bot",
+                            "hot": 15,
+                            "description": "3 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 15:26:45 UTC"
+                            "publishedAt": "2026-09-15 15:20:26 UTC"
+                        },
+                        {
+                            "rank": 18,
+                            "title": "GEFS on OpenBSD: A Early Preview",
+                            "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+                            "hot": 95,
+                            "description": "53 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 17:12:19 UTC"
                         },
                         {
                             "rank": 19,
-                            "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-                            "url": "https://bkovac.github.io/modem-thing/",
-                            "hot": 151,
-                            "description": "29 comments",
+                            "title": "Vibe Coding is the new Internet Dating?",
+                            "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
+                            "hot": 28,
+                            "description": "41 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 13:20:24 UTC"
+                            "publishedAt": "2026-09-15 01:45:53 UTC"
                         },
                         {
                             "rank": 20,
-                            "title": "How much oil-market buffer is left?",
-                            "url": "https://www.depletion.org",
-                            "hot": 62,
-                            "description": "88 comments",
+                            "title": "Suspected sabotage causes major Netherlands rail disruption",
+                            "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+                            "hot": 411,
+                            "description": "380 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 19:56:56 UTC"
+                            "publishedAt": "2026-09-15 10:22:46 UTC"
                         }
                     ]
                 }
