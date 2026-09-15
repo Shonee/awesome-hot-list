@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-16 02:23:53
+> 更新时间：2026-09-16 03:18:01
 
 ## 热门文章
 
@@ -19,8 +19,8 @@
 13. [App 架构演进：MVC → MVP → MVVM → MVI，一篇看懂](https://juejin.cn/post/7684439645419274267)
 14. [AI 越来越强，为什么打工人反而越来越累、越来越内耗了？](https://juejin.cn/post/7684573646438629386)
 15. [ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍](https://juejin.cn/post/7684657593512263722)
-16. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
-17. [最近火爆出圈的，FDE 到底是个什么岗位？](https://juejin.cn/post/7684795356343336998)
+16. [最近火爆出圈的，FDE 到底是个什么岗位？](https://juejin.cn/post/7684795356343336998)
+17. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
 18. [程序员都开始懂业务了，产品经理还剩下什么价值？](https://juejin.cn/post/7684690252645515298)
 19. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
 20. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
@@ -29,8 +29,8 @@
 23. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
 24. [“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股](https://juejin.cn/post/7684460980934164495)
 25. [全球最聪明的几个人，本周突然一起说“别卷了”](https://juejin.cn/post/7685267114438115366)
-26. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
-27. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
+26. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
+27. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
 28. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
 29. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
 30. [从产品角度：拆解WorkBuddy 功能](https://juejin.cn/post/7684615074137718824)
