@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15 14:39:19",
-    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，这个“合订本”，让日本人气坏了！紧随其后。当前覆盖 33 个有效渠道，共形成 620 个榜单时间切片；发现 97 个跨渠道重复热点。",
+    "generatedAt": "2026-09-15 14:46:47",
+    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，这个“合订本”，让日本人气坏了！紧随其后。当前覆盖 33 个有效渠道，共形成 621 个榜单时间切片；发现 97 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3834,
+        "deduplicated": 3840,
         "resonance": 97,
         "maxRise": 51,
-        "slices": 620,
+        "slices": 621,
         "coverage": 100,
-        "samplingCoverage": 95
+        "samplingCoverage": 96
     },
     "topTopics": [
         {
@@ -2423,7 +2423,7 @@
         },
         {
             "word": "US",
-            "weight": 78,
+            "weight": 79,
             "tone": "",
             "hits": [
                 {
@@ -2473,6 +2473,14 @@
                     "rank": 14,
                     "title": "XCancel service is suspended until further notice",
                     "url": "https://xcancel.com/#"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 19,
+                    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+                    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete"
                 },
                 {
                     "channelId": "huggingface",
@@ -2657,14 +2665,6 @@
                     "rank": 1,
                     "title": "Google Translate using PHP and cURL",
                     "url": "https://stackoverflow.com/questions/80003104/google-translate-using-php-and-curl"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 3,
-                    "title": "Is Registered for Android Developer Verification by Sep 30, 2026 warning an indication we missed something or just a note?",
-                    "url": "https://stackoverflow.com/questions/80003113/is-registered-for-android-developer-verification-by-sep-30-2026-warning-an-indi"
                 }
             ]
         },
@@ -9482,8 +9482,8 @@
             "00:22",
             "03:18",
             "07:17",
-            "11:26",
-            "14:38"
+            "11:35",
+            "14:45"
         ],
         "rows": [
             {
