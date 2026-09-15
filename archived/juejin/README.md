@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-15 08:56:26
+> 更新时间：2026-09-15 09:33:16
 
 ## 热门文章
 
@@ -33,8 +33,8 @@
 27. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
 28. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
 29. [最近火爆出圈的，FDE 到底是个什么岗位？](https://juejin.cn/post/7684795356343336998)
-30. [WorkBuddy 技术解析：核心并不神秘，真正壁垒在产品化、生态与规模工程](https://juejin.cn/post/7684313635775004712)
-31. [Agent 的控制权，为什么正在回到模型手里？](https://juejin.cn/post/7684900473053954094)
+30. [Agent 的控制权，为什么正在回到模型手里？](https://juejin.cn/post/7684900473053954094)
+31. [WorkBuddy 技术解析：核心并不神秘，真正壁垒在产品化、生态与规模工程](https://juejin.cn/post/7684313635775004712)
 32. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
 33. [磁盘IO打满怎么办？我用5个真实案例，总结了这套可复用的排查方法论](https://juejin.cn/post/7684460980933459983)
 34. [从 BI 到 Agent：我如何用 Java 打造一个轻量级数据库语义网关 DatI](https://juejin.cn/post/7684092309537734662)
@@ -44,13 +44,13 @@
 38. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
 39. [别卷 Python 了：我用 Java 21 + Spring Boot 3 打造了一个企业级 RAG + 智能体工作流引擎（附架构与源码解析）](https://juejin.cn/post/7684092309538832390)
 40. [Android 手簿 ADB 无线调试全攻略：USB 转 WiFi 一键连接](https://juejin.cn/post/7684547172776378414)
-41. [为什么你的页面在 Safari 上总出问题？Interop 2027 正在解决这个 20 年老毛病](https://juejin.cn/post/7684897169736187910)
-42. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
-43. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
-44. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
-45. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
-46. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
-47. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
+41. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
+42. [为什么你的页面在 Safari 上总出问题？Interop 2027 正在解决这个 20 年老毛病](https://juejin.cn/post/7684897169736187910)
+43. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
+44. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
+45. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
+46. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
+47. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
 48. [小米版 Codex，干活有点猛啊](https://juejin.cn/post/7684795356321579018)
-49. [三道保险丝，最后只能放弃治疗？ 一文聊聊我的agent是怎么做死循环检测的](https://juejin.cn/post/7684507874422571059)
-50. [JavaScript：函数体系-1](https://juejin.cn/post/7684507874421768243)
+49. [ADK for Kotlin：Google 官方 AI Agent 教程来了](https://juejin.cn/post/7684533566942134278)
+50. [三道保险丝，最后只能放弃治疗？ 一文聊聊我的agent是怎么做死循环检测的](https://juejin.cn/post/7684507874422571059)

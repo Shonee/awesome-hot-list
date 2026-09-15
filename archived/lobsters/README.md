@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-15 08:56:27
+> 更新时间：2026-09-15 09:33:16
 
 ## Hottest
 
@@ -14,8 +14,8 @@
 8. [Why Am I Still Programming](https://www.youtube.com/watch?v=pOAj3mor8y8)
 9. [A New Equal-Area Map that natively zooms to Mercator](https://www.benjoffe.com/map)
 10. [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
-11. [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/)
-12. [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
+11. [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
+12. [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/)
 13. [Finished aerial maps in under 30 minutes](https://blog.zm.is/finished-aerial-maps-within-30-minutes/)
 14. [A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)
 15. [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
@@ -25,7 +25,7 @@
 19. [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
 20. [What are you doing this week?](https://lobste.rs/s/0inlyw)
 21. [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
-22. [Purely Functional Operating Systems](https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982)
-23. [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
-24. [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
-25. [How I use a single .zshrc file on macOS and Windows (WSL2)](https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/)
+22. [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
+23. [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)
+24. [Purely Functional Operating Systems](https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982)
+25. [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)

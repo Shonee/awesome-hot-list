@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 08:57:11
+> 更新时间：2026-09-15 09:34:02
 
 ## IT之家
 
-1. [苹果 Apple Watch 官方表带累计已超 1000 款，最贵售价 17999 元](https://www.ithome.com/1/002/378.htm)
-2. [苹果上诉最高法院：要求撤销 Epic 案中“藐视法庭”裁决，试图将 App Store 规则恢复至 2025 年前](https://www.ithome.com/1/002/377.htm)
-3. [拳头游戏宣布《英雄联盟》虚拟乐团“心之钢”回归，将推新单曲《Live My Life》](https://www.ithome.com/1/002/376.htm)
-4. [AI-eSIM 团体标准编制启动，中国移动 / 联通 / 电信三大运营商参与](https://www.ithome.com/1/002/375.htm)
-5. [联想来酷斗战者 AI NAS 900 系列私有云主机开售：飞牛 fnOS 系统，6999 元起](https://www.ithome.com/1/002/373.htm)
+1. [工信部、国家发改委：“十五五”规划提高先进制程能力，突破高端手机核心芯片、PC 高性能芯片，加强开源鸿蒙等国产操作系统搭载](https://www.ithome.com/1/002/403.htm)
+2. [Mac 卸载工具 AppZapper 3000 发布：数秒内删除应用及关联文件](https://www.ithome.com/1/002/401.htm)
+3. [Waymo 扩大美国无人驾驶网约车服务版图，将拉斯维加斯纳入运营范围](https://www.ithome.com/1/002/400.htm)
+4. [共享单车重要新规：互联网租赁自行车国家标准发布，要求车辆具有唯一性编码](https://www.ithome.com/1/002/390.htm)
+5. [iQOO 16 官宣 9 月 29 日发布，号称标准版产品力超 Pro Max](https://www.ithome.com/1/002/388.htm)
 
 ## 少数派
 
-1. [派评｜近期值得关注的 App](https://sspai.com/post/114577)
-2. [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
-3. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
-4. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
-5. [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
+1. [派早报：豆包发布手机助手消费者版，绿联发布首款雷电 5 显卡坞等](https://sspai.com/post/114593)
+2. [派评｜近期值得关注的 App](https://sspai.com/post/114577)
+3. [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
+4. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
+5. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
 
 ## 爱范儿
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
-2. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
-3. [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
-4. [Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”](https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article)
-5. [Azure 虚拟桌面混合版正式可用，许可细则尚未公布](https://www.infoq.cn/article/MMD3SrhB1HuUh5Rv9Fmw?utm_source=rss&utm_medium=article)
+1. [在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训](https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article)
+2. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
+3. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
+4. [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
+5. [Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”](https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -57,14 +57,6 @@
 3. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
 4. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
 5. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
-
-## AI News
-
-1. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
-2. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-3. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
-4. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
-5. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
 
 ## 阮一峰网络日志
 
