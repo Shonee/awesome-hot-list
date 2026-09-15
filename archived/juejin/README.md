@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-15 22:23:12
+> 更新时间：2026-09-15 23:20:42
 
 ## 热门文章
 
@@ -36,21 +36,21 @@
 30. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
 31. [从产品角度：拆解WorkBuddy 功能](https://juejin.cn/post/7684615074137718824)
 32. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
-33. [Agent 的控制权，为什么正在回到模型手里？](https://juejin.cn/post/7684900473053954094)
-34. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
+33. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
+34. [Agent 的控制权，为什么正在回到模型手里？](https://juejin.cn/post/7684900473053954094)
 35. [Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI](https://juejin.cn/post/7684507874422751283)
 36. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
 37. [iPhone Duo 带来的机遇与挑战 -- 肘子的 Swift 周报 #153](https://juejin.cn/post/7685220741705007167)
 38. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
 39. [小米版 Codex，干活有点猛啊](https://juejin.cn/post/7684795356321579018)
-40. [GPT-6 Astra爆火后，我用全新3D版“鹈鹕骑车”实测12款大模型，结果它拿了第一](https://juejin.cn/post/7684937171811221513)
-41. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
+40. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
+41. [GPT-6 Astra爆火后，我用全新3D版“鹈鹕骑车”实测12款大模型，结果它拿了第一](https://juejin.cn/post/7684937171811221513)
 42. [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906)
 43. [聊聊 Function Calling，你的模型是否答非所问？](https://juejin.cn/post/7685209311463440435)
 44. [磁盘IO打满怎么办？我用5个真实案例，总结了这套可复用的排查方法论](https://juejin.cn/post/7684460980933459983)
 45. [AI Coding UI Patterns：把好设计说清楚！](https://juejin.cn/post/7685302724011704347)
 46. [AI会让程序员失业吗？200年前的手工织工已经给出了答案](https://juejin.cn/post/7685276242113019938)
-47. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
-48. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
-49. [ADK for Kotlin：Google 官方 AI Agent 教程来了](https://juejin.cn/post/7684533566942134278)
-50. [失败重试：Agent 中指数退避的正确姿势](https://juejin.cn/post/7685559824034758707)
+47. [为什么你的页面在 Safari 上总出问题？Interop 2027 正在解决这个 20 年老毛病](https://juejin.cn/post/7684897169736187910)
+48. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
+49. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
+50. [ADK for Kotlin：Google 官方 AI Agent 教程来了](https://juejin.cn/post/7684533566942134278)
