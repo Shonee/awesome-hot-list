@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-15 21:22:53
+> 更新时间：2026-09-15 22:23:12
 
 ## 热门文章
 
@@ -22,11 +22,11 @@
 16. [ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍](https://juejin.cn/post/7684657593512263722)
 17. [最近火爆出圈的，FDE 到底是个什么岗位？](https://juejin.cn/post/7684795356343336998)
 18. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
-19. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
-20. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
-21. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
-22. [WebP 压缩到底在干嘛？小白也能看懂的原理拆解](https://juejin.cn/post/7685040997440978990)
-23. [程序员都开始懂业务了，产品经理还剩下什么价值？](https://juejin.cn/post/7684690252645515298)
+19. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
+20. [程序员都开始懂业务了，产品经理还剩下什么价值？](https://juejin.cn/post/7684690252645515298)
+21. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
+22. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
+23. [WebP 压缩到底在干嘛？小白也能看懂的原理拆解](https://juejin.cn/post/7685040997440978990)
 24. [全球最聪明的几个人，本周突然一起说“别卷了”](https://juejin.cn/post/7685267114438115366)
 25. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
 26. [“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股](https://juejin.cn/post/7684460980934164495)
@@ -45,12 +45,12 @@
 39. [小米版 Codex，干活有点猛啊](https://juejin.cn/post/7684795356321579018)
 40. [GPT-6 Astra爆火后，我用全新3D版“鹈鹕骑车”实测12款大模型，结果它拿了第一](https://juejin.cn/post/7684937171811221513)
 41. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
-42. [WorkBuddy 技术解析：核心并不神秘，真正壁垒在产品化、生态与规模工程](https://juejin.cn/post/7684313635775004712)
+42. [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906)
 43. [聊聊 Function Calling，你的模型是否答非所问？](https://juejin.cn/post/7685209311463440435)
 44. [磁盘IO打满怎么办？我用5个真实案例，总结了这套可复用的排查方法论](https://juejin.cn/post/7684460980933459983)
-45. [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906)
-46. [AI Coding UI Patterns：把好设计说清楚！](https://juejin.cn/post/7685302724011704347)
+45. [AI Coding UI Patterns：把好设计说清楚！](https://juejin.cn/post/7685302724011704347)
+46. [AI会让程序员失业吗？200年前的手工织工已经给出了答案](https://juejin.cn/post/7685276242113019938)
 47. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
 48. [各位产品经理求你们优化一下吧，暗黑模式最大的BUG！文中附解决方案](https://juejin.cn/post/7684547172776312878)
 49. [ADK for Kotlin：Google 官方 AI Agent 教程来了](https://juejin.cn/post/7684533566942134278)
-50. [30分钟拿执照，2500元租到200平，我去亦庄做OPC了](https://juejin.cn/post/7684313635774971944)
+50. [失败重试：Agent 中指数退避的正确姿势](https://juejin.cn/post/7685559824034758707)

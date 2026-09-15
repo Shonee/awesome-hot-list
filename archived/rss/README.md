@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 21:23:54
+> 更新时间：2026-09-15 22:24:12
 
 ## IT之家
 
-1. [比亚迪辅助驾驶车型保有量超 372 万辆，天神之眼每天生成数据超 2.3 亿公里](https://www.ithome.com/1/002/772.htm)
-2. [Sharkoon 推出 Stealthbite IEM 入耳式耳机，搭载 10mm 圈铁混合单元](https://www.ithome.com/1/002/771.htm)
-3. [长城汽车坦克 300“虎克之路”盲订：越野套件、前后双硬桥加持，可适配 40 英寸轮胎](https://www.ithome.com/1/002/770.htm)
-4. [上市权益价 10.36 万元起，2027 款埃安 i60 上市](https://www.ithome.com/1/002/769.htm)
-5. [启境汽车回应 GX7 是否会推纯电版：请留意官方信息，敬请期待](https://www.ithome.com/1/002/768.htm)
+1. [马斯克又暗示：SpaceX 和特斯拉可能要合并](https://www.ithome.com/1/002/789.htm)
+2. [发售仅 5 天，第一人称战术射击游戏《战狗》销量突破 500 万份](https://www.ithome.com/1/002/788.htm)
+3. [可选碳纤维扰流板，宝马推出多款全新一代 X5 原厂升级配件](https://www.ithome.com/1/002/787.htm)
+4. [“问界大饭店”回归，推出免费错峰洗车 / 加玻璃水、餐饮等服务](https://www.ithome.com/1/002/786.htm)
+5. [美光展示全球首个 512GB DDR5 内存模组，支持 9200MT/s 传输速率](https://www.ithome.com/1/002/783.htm)
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## 量子位
 
-1. [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
-2. [全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型](https://www.qbitai.com/2026/09/489389.html)
-3. [一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影](https://www.qbitai.com/2026/09/489381.html)
-4. [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
-5. [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
+1. [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
+2. [手机替我跑了一整套流程！我就说了一句话，AI执行了100步](https://www.qbitai.com/2026/09/489466.html)
+3. [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
+4. [全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型](https://www.qbitai.com/2026/09/489389.html)
+5. [一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影](https://www.qbitai.com/2026/09/489381.html)
 
 ## InfoQ
 
@@ -57,6 +57,14 @@
 3. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
 4. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
 5. [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
+
+## AI News
+
+1. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
+2. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
+3. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+4. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+5. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
 
 ## 阮一峰网络日志
 

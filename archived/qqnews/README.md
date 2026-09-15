@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-15 21:22:56
+> 更新时间：2026-09-15 22:23:14
 
 ## 热点榜
 
 1. [习近平：在加强基础研究座谈会上的讲话](https://view.inews.qq.com/a/20260915A08OQM00)
-2. [中国赠送联合国，将永久展出！](https://view.inews.qq.com/a/20260915A07B1600)
-3. [视频丨一箭十星 朱雀二号改进型遥七运载火箭发射成功](https://view.inews.qq.com/a/20260915A08BCR00)
+2. [董军同出席北京香山论坛客人举行会谈](https://view.inews.qq.com/a/20260915A0C5SI00)
+3. [新华视点丨世纪工程平陆运河六大看点](https://view.inews.qq.com/a/20260915A0BKTI00)
 4. [8月中国规上工业增加值同比增5.2% 超六成行业地区回升](https://view.inews.qq.com/a/20260915A091DI00)
-5. [金砖国家峰会期间，俄罗斯外长拉夫罗夫被曝新三折叠手机来自中国；普京点赞：中国华为“是世界级全球科技巨头”](https://view.inews.qq.com/a/20260915A04DOJ00)
+5. [从“搬不走的邻居”到深度相连，中国东盟关系走过35年](https://view.inews.qq.com/a/20260915A0BZQN00)
 6. [外交部：伊朗外长阿拉格齐将访华](https://view.inews.qq.com/a/20260915A098UQ00)
-7. [8月贷款减少较快，直接融资占比超过信贷](https://view.inews.qq.com/a/20260915A06AMN00)
-8. [王楚钦：以夺金为目标征战亚运，作为年龄最大的选手必须发挥带头作用](https://view.inews.qq.com/a/20260915A06XA200)
+7. [崔天凯：一劳永逸解决台湾问题](https://view.inews.qq.com/a/20260915A0B16K00)
+8. [中国乒乓球队亚锦赛名单出炉](https://view.inews.qq.com/a/20260915A0B7Q400)
 9. [中国车企加速布局自研电池](https://view.inews.qq.com/a/20260915A09WBF00)
-10. [41个“中国酿酒大师”称号，被撤销](https://view.inews.qq.com/a/20260914A0D79300)
+10. [为什么今年没有四价流感疫苗？因为一个“坏蛋”不见了！](https://view.inews.qq.com/a/20260915A0BRT600)
 11. [不良信息一键举报 共建清朗网络空间](https://mp.weixin.qq.com/s/Y4rvhLzEngoaLcj2Uv1SpQ?platform=mac&version=5.0.11.99983)
-12. [部分高校就“过紧日子”下发细则文件，提醒“把钱花在该花的地方”](https://view.inews.qq.com/a/20260915A08ZO000)
-13. [特朗普刚否认，美国军方承认了](https://view.inews.qq.com/a/20260915A082KH00)
-14. [金饰克价1个月内下跌超110元](https://view.inews.qq.com/a/20260915A0ANJ300)
-15. [云南曲靖一村山体开裂山坡现“马刀树”？村民：扔石头进去数秒才落底](https://view.inews.qq.com/a/20260915A0AV5T00)
-16. [为何当国民党主席？郑丽文：盼缔造台海和平](https://view.inews.qq.com/a/20260915A0B48B00)
-17. [中方宣布：阿莫林将访华](https://view.inews.qq.com/a/20260915A08FIL00)
-18. [宝武、鞍钢等44家钢企发“控产降库存”倡议书：坚决抵制亏本抢市场！上半年上市钢企营收超5500亿元，净利不足70亿元](https://view.inews.qq.com/a/20260915A0BMQG00)
-19. [计划有变，他准备当首富](https://view.inews.qq.com/a/20260915A06GVY00)
-20. [日本百岁老人首次突破10万人，近90%为女性](https://view.inews.qq.com/a/20260915A07QW600)
+12. [为何当国民党主席？郑丽文：盼缔造台海和平](https://view.inews.qq.com/a/20260915A0B48B00)
+13. [快观察 | 英国三地联手闹“脱英”，“分而治之”的幽灵回到了英国](https://view.inews.qq.com/a/20260915A0B3TD00)
+14. [俄外长：俄罗斯希望结束俄乌冲突](https://view.inews.qq.com/a/20260915A0BPR000)
+15. [宝武、鞍钢等44家钢企发“控产降库存”倡议书：坚决抵制亏本抢市场！上半年上市钢企营收超5500亿元，净利不足70亿元](https://view.inews.qq.com/a/20260915A0BMQG00)
+16. [云南曲靖一村山体开裂山坡现“马刀树”？村民：扔石头进去数秒才落底](https://view.inews.qq.com/a/20260915A0AV5T00)
+17. [独居老人家中电路跳闸，“啄木鸟”师傅上门换1个开关收费2800！连续多次投诉，平台客服始终没有出具明细单据，仅同意退款1000元](https://view.inews.qq.com/a/20260915A08XEF00)
+18. [10后学生流行起“呆毛”发型：在头顶取一小撮头发，距头皮2至3厘米处剪断，留下的发根自然炸开](https://view.inews.qq.com/a/20260915A05JKS00)
+19. [特朗普刚否认，美国军方承认了](https://view.inews.qq.com/a/20260915A082KH00)
+20. [中方宣布：阿莫林将访华](https://view.inews.qq.com/a/20260915A08FIL00)
