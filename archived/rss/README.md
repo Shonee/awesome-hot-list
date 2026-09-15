@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 19:20:50
+> 更新时间：2026-09-15 20:32:48
 
 ## IT之家
 
-1. [曝百度挖来前谷歌 DeepMind 核心成员 Qiyin Wu，曾是 Gemini 2.5 模型官方报告核心作者](https://www.ithome.com/1/002/740.htm)
-2. [2027 款福特 F-150 皮卡发布：基础发动机升级，全系可选 5.0L V8](https://www.ithome.com/1/002/738.htm)
-3. [荣耀 MagicOS 11 系统首批升级机型开启正式版不限量尝鲜](https://www.ithome.com/1/002/737.htm)
-4. [丰田申请新专利：你的眼睛看哪里，车载摄像头就帮你拍哪里](https://www.ithome.com/1/002/736.htm)
-5. [消息称双框架华为鸿蒙车机将支持荣耀手机，新版“超级桌面”Demo 演示曝光](https://www.ithome.com/1/002/735.htm)
+1. [华为发布全球首个 3D 数据中心](https://www.ithome.com/1/002/762.htm)
+2. [树莓派 Raspberry Pi OS 更新：新增程序坞、启动台](https://www.ithome.com/1/002/761.htm)
+3. [Salesforce 联合英伟达推出 Koa 推理大模型，挑战闭源前沿模型](https://www.ithome.com/1/002/760.htm)
+4. [ANKER 黑神话联名 3 合 1 能量棒 399 → 168 元再降价，10000mAh 可上飞机](https://www.ithome.com/1/002/759.htm)
+5. [消息称智界搭载主动悬架车型计划明年亮相，操稳性能开发项目采购公告曝光](https://www.ithome.com/1/002/758.htm)
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## 量子位
 
-1. [一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影](https://www.qbitai.com/2026/09/489381.html)
-2. [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
-3. [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
-4. [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
-5. [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
+1. [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
+2. [全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型](https://www.qbitai.com/2026/09/489389.html)
+3. [一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影](https://www.qbitai.com/2026/09/489381.html)
+4. [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
+5. [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
 
 ## InfoQ
 
@@ -52,11 +52,11 @@
 
 ## MIT Technology Review
 
-1. [What must happen for AI’s trillion-dollar gamble to pay off](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
-2. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
-3. [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
-4. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
-5. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
+1. [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
+2. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
+3. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
+4. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
+5. [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
 
 ## 阮一峰网络日志
 
