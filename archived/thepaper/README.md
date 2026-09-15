@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-15 16:29:55
+> 更新时间：2026-09-15 17:24:37
 
 ## 热新闻
 
@@ -9,8 +9,8 @@
 3. [台湾东海大学教授陈以爱加盟复旦大学](https://www.thepaper.cn/newsDetail_forward_34067934)
 4. [“泸州东”不在泸州市区？你还遇到过哪些“名在市、站在县”的高铁站](https://www.thepaper.cn/newsDetail_forward_34068702)
 5. [敬一丹账号发布生平回顾视频](https://www.thepaper.cn/newsDetail_forward_34068711)
-6. [特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”](https://www.thepaper.cn/newsDetail_forward_34068616)
-7. [“胖东来新员工实行四年合同制”冲上热搜，律师：若企业单方决定不续签，需依法向劳动者支付补偿金](https://www.thepaper.cn/newsDetail_forward_34066862)
+6. [“胖东来新员工实行四年合同制”冲上热搜，律师：若企业单方决定不续签，需依法向劳动者支付补偿金](https://www.thepaper.cn/newsDetail_forward_34066862)
+7. [特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”](https://www.thepaper.cn/newsDetail_forward_34068616)
 8. [智能体下线后，他们与逝去亲人的第二次“告别”](https://www.thepaper.cn/newsDetail_forward_34062204)
 9. [马上评｜赢了就是赢了？HYROX要守住体面和健康底线](https://www.thepaper.cn/newsDetail_forward_34067056)
 10. [河北邢台一医院误给8月龄婴儿注射10倍剂量肾上腺素，双方已达成调解意见](https://www.thepaper.cn/newsDetail_forward_34073125)

@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-15 16:29:50
+> 更新时间：2026-09-15 17:24:33
 
 ## 热点榜
 
@@ -15,12 +15,12 @@
 9. [涨疯了！内存、芯片、电池全线涨价，手机厂商向屏幕要增量](https://view.inews.qq.com/a/20260914A0CSZS00)
 10. [41个“中国酿酒大师”称号，被撤销](https://view.inews.qq.com/a/20260914A0D79300)
 11. [皮肤收敛水，可以治疗毛孔粗大？](https://view.inews.qq.com/a/20260914A0BVL700)
-12. [计划有变，他准备当首富](https://view.inews.qq.com/a/20260915A06GVY00)
-13. [日本代表团密集访华，“但若高市不收回言论…”](https://view.inews.qq.com/a/20260915A07JFM00)
-14. [“杜鹃”，存在登陆浙江的可能性](https://view.inews.qq.com/a/20260915A072RC00)
+12. [日本代表团密集访华，“但若高市不收回言论…”](https://view.inews.qq.com/a/20260915A07JFM00)
+13. [特朗普刚否认，美国军方承认了](https://view.inews.qq.com/a/20260915A082KH00)
+14. [计划有变，他准备当首富](https://view.inews.qq.com/a/20260915A06GVY00)
 15. [内塔尼亚胡也“破防”](https://view.inews.qq.com/a/20260915A0792B00)
-16. [AI正在「惩罚」那些用它写作业的中学生](https://view.inews.qq.com/a/20260915A05KZA00)
-17. [特朗普刚否认，美国军方承认了](https://view.inews.qq.com/a/20260915A082KH00)
-18. [日本百岁老人首次突破10万人，近90%为女性](https://view.inews.qq.com/a/20260915A07QW600)
-19. [马珊珊任沈阳市代市长](https://view.inews.qq.com/a/20260915A06IIQ00)
-20. [河南一大巴高速路行驶，司机跷着二郎腿； 客运方：往返车程长， 司机称跷二郎腿是缓解疲劳， 已介入调查](https://view.inews.qq.com/a/20260915A07NMU00)
+16. [河南一大巴高速路行驶，司机跷着二郎腿； 客运方：往返车程长， 司机称跷二郎腿是缓解疲劳， 已介入调查](https://view.inews.qq.com/a/20260915A07NMU00)
+17. [日本百岁老人首次突破10万人，近90%为女性](https://view.inews.qq.com/a/20260915A07QW600)
+18. [马珊珊任沈阳市代市长](https://view.inews.qq.com/a/20260915A06IIQ00)
+19. [又一德国百年零部件企业走向破产](https://view.inews.qq.com/a/20260915A062IK00)
+20. [中方宣布：阿莫林将访华](https://view.inews.qq.com/a/20260915A08FIL00)

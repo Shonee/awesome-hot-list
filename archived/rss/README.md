@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 16:30:28
+> 更新时间：2026-09-15 17:25:19
 
 ## IT之家
 
-1. [两部门要求美团、抖音、京东、携程、同程、飞猪等平台，防范化解“全网最低价”等竞争风险](https://www.ithome.com/1/002/624.htm)
-2. [联发科天玑 9600M 处理器亮相：全大核 CPU 架构，宣称旗舰基因一脉相承](https://www.ithome.com/1/002/619.htm)
-3. [vivo X500 Pro 系列手机官宣全球首发搭载天玑 9600 Pro 旗舰芯片](https://www.ithome.com/1/002/618.htm)
-4. [揭秘 Lady Gaga 未婚夫迈克尔 · 波兰斯基最具雄心项目：用从人类皮肤收集的数据训练 AI](https://www.ithome.com/1/002/616.htm)
-5. [特斯拉 Model YL 后轮塌陷后续：官方修改车主手册多项车辆参数，整体缩减 3-4 毫米](https://www.ithome.com/1/002/615.htm)
+1. [国家超算互联网累计上线智能体 500 余个、覆盖 170 余个核心计算场景](https://www.ithome.com/1/002/681.htm)
+2. [问界发布关于鸿蒙智行合作模式的说明：赛力斯与华为将继续携手并进](https://www.ithome.com/1/002/679.htm)
+3. [《黑神话：悟空》SteamDB 数据库更新，暗示有望加入 AMD 光线重建技术](https://www.ithome.com/1/002/675.htm)
+4. [让网络生态少一些情绪对抗，抖音发布“可信友善社区”计划](https://www.ithome.com/1/002/674.htm)
+5. [Circana 报告：针对索尼停产游戏光盘的美国 PS5 玩家抵制活动收效甚微](https://www.ithome.com/1/002/673.htm)
 
 ## 少数派
 
@@ -28,19 +28,19 @@
 
 ## 量子位
 
-1. [Hacked by CoupDeGrace](https://www.qbitai.com/2026/09/489365.html)
-2. [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
-3. [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
-4. [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
-5. [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
+1. [Hacked by CoupDeGrace](https://www.qbitai.com/2026/09/489371.html)
+2. [Hacked by CoupDeGrace](https://www.qbitai.com/2026/09/489365.html)
+3. [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
+4. [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
+5. [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
 
 ## InfoQ
 
-1. [OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust](https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&utm_medium=article)
-2. [月之暗面：网传创始人及员工信息系恶意造谣；OpenAI 放弃今年上市；iPhone Duo炒到9万，黄牛贷款欲囤货｜AI周报](https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA?utm_source=rss&utm_medium=article)
-3. [Claude在英伟达内部被限用，黄仁勋告诉特朗普：我们不会让AI发展放缓发生](https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj?utm_source=rss&utm_medium=article)
-4. [什么样的数据库底座，能加速 Agent 从 Demo 走向生产？](https://www.infoq.cn/video/CNlXsz2yMZpLvdwMlhXY?utm_source=rss&utm_medium=article)
-5. [Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台](https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&utm_medium=article)
+1. [OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra](https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&utm_medium=article)
+2. [京东上线“东东”购物助手：在原来的APP里长出了一个“更懂你”的Agent](https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ?utm_source=rss&utm_medium=article)
+3. [OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust](https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&utm_medium=article)
+4. [月之暗面：网传创始人及员工信息系恶意造谣；OpenAI 放弃今年上市；iPhone Duo炒到9万，黄牛贷款欲囤货｜AI周报](https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA?utm_source=rss&utm_medium=article)
+5. [Claude在英伟达内部被限用，黄仁勋告诉特朗普：我们不会让AI发展放缓发生](https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -57,6 +57,14 @@
 3. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
 4. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
 5. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
+
+## AI News
+
+1. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
+2. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+3. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+4. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
+5. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
 
 ## 阮一峰网络日志
 
