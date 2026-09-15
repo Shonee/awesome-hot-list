@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-15 06:28:44
+> 更新时间：2026-09-15 12:34:24
 
 ## 每日趋势
 
@@ -130,14 +130,14 @@
 6. [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
 7. [filebrowser](https://github.com/gtsteffaniak/filebrowser)
 8. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-9. [hetty](https://github.com/dstotijn/hetty)
-10. [ollama](https://github.com/ollama/ollama)
-11. [authelia](https://github.com/authelia/authelia)
-12. [Xray-core](https://github.com/XTLS/Xray-core)
-13. [fzf](https://github.com/junegunn/fzf)
-14. [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-15. [octo-server](https://github.com/Mininglamp-OSS/octo-server)
-16. [octo-cli](https://github.com/Mininglamp-OSS/octo-cli)
+9. [dozzle](https://github.com/amir20/dozzle)
+10. [hetty](https://github.com/dstotijn/hetty)
+11. [ollama](https://github.com/ollama/ollama)
+12. [authelia](https://github.com/authelia/authelia)
+13. [Xray-core](https://github.com/XTLS/Xray-core)
+14. [fzf](https://github.com/junegunn/fzf)
+15. [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+16. [octo-server](https://github.com/Mininglamp-OSS/octo-server)
 
 ## HTML
 
