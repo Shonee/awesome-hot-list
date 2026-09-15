@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15 09:34:27",
-    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，父亲撞死人让儿子顶包 全家串供掩盖紧随其后。当前覆盖 33 个有效渠道，共形成 413 个榜单时间切片；发现 55 个跨渠道重复热点。",
+    "generatedAt": "2026-09-15 09:41:17",
+    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，父亲撞死人让儿子顶包 全家串供掩盖紧随其后。当前覆盖 33 个有效渠道，共形成 414 个榜单时间切片；发现 55 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2734,
+        "deduplicated": 2737,
         "resonance": 55,
         "maxRise": 47,
-        "slices": 413,
+        "slices": 414,
         "coverage": 100,
-        "samplingCoverage": 95
+        "samplingCoverage": 96
     },
     "topTopics": [
         {
@@ -614,7 +614,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 152,
+            "weight": 154,
             "tone": "hot",
             "hits": [
                 {
@@ -2096,7 +2096,7 @@
         },
         {
             "word": "iPhone",
-            "weight": 31,
+            "weight": 32,
             "tone": "gold",
             "hits": [
                 {
@@ -2292,6 +2292,14 @@
                     "url": "https://www.36kr.com/p/3981258056203014"
                 },
                 {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 7,
+                    "title": "求推荐耳夹式耳机，给 iPhone 用，性价比高些的",
+                    "url": "https://www.v2ex.com/t/1241781"
+                },
+                {
                     "channelId": "cls",
                     "channelName": "财联社",
                     "ranking": "热门快讯",
@@ -2330,14 +2338,6 @@
                     "rank": 3,
                     "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
                     "url": "https://sspai.com/post/114453"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "少数派",
-                    "rank": 4,
-                    "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-                    "url": "https://sspai.com/post/114410"
                 }
             ]
         },
@@ -8618,8 +8618,8 @@
             "00:22",
             "02:25",
             "05:17",
-            "07:17",
-            "09:34"
+            "07:18",
+            "09:40"
         ],
         "rows": [
             {

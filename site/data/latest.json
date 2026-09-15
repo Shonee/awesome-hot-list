@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-15 09:34:02",
+    "generatedAt": "2026-09-15 09:40:52",
     "channels": [
         {
             "schemaVersion": 1,
@@ -11978,7 +11978,7 @@
             "channelId": "v2ex",
             "channelName": "V2EX",
             "sourceUrl": "https://www.v2ex.com/?tab=hot",
-            "fetchedAt": "2026-09-15 06:28:44",
+            "fetchedAt": "2026-09-15 09:40:52",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -11992,93 +11992,84 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "第一次在试用期开除一个人，和大家探讨一下如何招人，用人。",
-                            "url": "https://www.v2ex.com/t/1241795",
-                            "hot": 167,
-                            "description": "职场话题",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 10:49:49"
-                        },
-                        {
-                            "rank": 2,
                             "title": "领证后买的房一直空关，岳父母要住 3—5 年并搬大件家具，我要同意吗？",
                             "url": "https://www.v2ex.com/t/1241840",
-                            "hot": 161,
+                            "hot": 174,
                             "description": "生活",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 13:00:41"
                         },
                         {
+                            "rank": 2,
+                            "title": "第一次在试用期开除一个人，和大家探讨一下如何招人，用人。",
+                            "url": "https://www.v2ex.com/t/1241795",
+                            "hot": 170,
+                            "description": "职场话题",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 10:49:49"
+                        },
+                        {
                             "rank": 3,
                             "title": "对华为手机的贬值有了新的认识",
                             "url": "https://www.v2ex.com/t/1241792",
-                            "hot": 120,
+                            "hot": 128,
                             "description": "华为",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 12:15:27"
                         },
                         {
                             "rank": 4,
-                            "title": "“万 1 免五”股票基金低费率大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.14 日~9.21 日]",
-                            "url": "https://www.v2ex.com/t/1241745",
-                            "hot": 114,
-                            "description": "推广",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 08:35:27"
-                        },
-                        {
-                            "rank": 5,
                             "title": "纯电还是混动",
                             "url": "https://www.v2ex.com/t/1241810",
-                            "hot": 109,
+                            "hot": 112,
                             "description": "汽车",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 11:20:59"
                         },
                         {
-                            "rank": 6,
-                            "title": "预测一下， 2027 年的今天，程序员在职数量会减少 80%",
-                            "url": "https://www.v2ex.com/t/1241755",
-                            "hot": 82,
-                            "description": "职场话题",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 09:22:46"
-                        },
-                        {
-                            "rank": 7,
-                            "title": "被项目经理针对了，怎么办",
-                            "url": "https://www.v2ex.com/t/1241751",
-                            "hot": 80,
-                            "description": "职场话题",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 09:09:14"
-                        },
-                        {
-                            "rank": 8,
-                            "title": "豆包输入法 win 正式版终于出来了",
-                            "url": "https://www.v2ex.com/t/1241746",
-                            "hot": 77,
-                            "description": "软件",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 08:48:28"
-                        },
-                        {
-                            "rank": 9,
+                            "rank": 5,
                             "title": "第一次做出海产品，上线 3 个多月几乎没流量，有点迷茫了。",
                             "url": "https://www.v2ex.com/t/1241853",
-                            "hot": 75,
+                            "hot": 84,
                             "description": "程序员",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 13:56:45"
                         },
                         {
-                            "rank": 10,
+                            "rank": 6,
                             "title": "18PM 首发已入，有没有推荐的壳和膜",
                             "url": "https://www.v2ex.com/t/1241770",
-                            "hot": 65,
+                            "hot": 67,
                             "description": "Apple",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 09:59:53"
+                        },
+                        {
+                            "rank": 7,
+                            "title": "求推荐耳夹式耳机，给 iPhone 用，性价比高些的",
+                            "url": "https://www.v2ex.com/t/1241781",
+                            "hot": 67,
+                            "description": "配件",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 12:13:06"
+                        },
+                        {
+                            "rank": 8,
+                            "title": "[V8AIX] 自建中转上线，超多福利等你来领 [10 刀]",
+                            "url": "https://www.v2ex.com/t/1241876",
+                            "hot": 62,
+                            "description": "推广",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 14:36:45"
+                        },
+                        {
+                            "rank": 9,
+                            "title": "论 AI 恐惧症——对莱顿宣言的驳斥",
+                            "url": "https://www.v2ex.com/t/1241901",
+                            "hot": 61,
+                            "description": "随想",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 20:30:00"
                         }
                     ]
                 }
