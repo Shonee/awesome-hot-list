@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 12:26:08
+> 更新时间：2026-09-15 13:23:09
 
 ## IT之家
 
-1. [小米米家富矿净水器 2 今日开售：1200G 大流量 + 8 年长效 RO 滤芯，首发 2199 元](https://www.ithome.com/1/002/518.htm)
-2. [岚图梦想家 9 车型 9 月 22 日上市：首搭虎踞 P 底盘，预售价 42.99 万元起](https://www.ithome.com/1/002/517.htm)
-3. [HORI 为 Nintendo Switch 2 带来复古格斗控制器，采用模块化摇杆](https://www.ithome.com/1/002/516.htm)
-4. [惠普战 X Pro 锐龙版上市：锐龙 AI 9 HX Pro 470、64GB + 2TB 存储，29999 元](https://www.ithome.com/1/002/515.htm)
-5. [国家统计局：截至 6 月末我国已建成 70 余条算力大通道](https://www.ithome.com/1/002/511.htm)
+1. [《哆啦 A 梦：大雄的蒸汽时间车》剧场版动画电影公布预告，2027 年日本上映](https://www.ithome.com/1/002/525.htm)
+2. [苹果 54 项 iOS / iPadOS 27 隐藏新功能 / 新特性汇总：打磨细节、聚焦 AI](https://www.ithome.com/1/002/524.htm)
+3. [国产消防机器狼“防火天狼”首次实战演练，冲进 500℃ 高温火场](https://www.ithome.com/1/002/523.htm)
+4. [苹果 Apple TV+《寡妇湾》横扫 6 项艾美奖，《同乐者》2 项、《流人》1 项](https://www.ithome.com/1/002/521.htm)
+5. [比尔 · 盖茨：中美大模型各有 4 家能够保持最先进水平，中国人形机器人运动会非常有意思](https://www.ithome.com/1/002/520.htm)
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 爱范儿
 
-1. [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [在学会数学之前，AI 先学会了大厂的虚荣心](https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」](https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner](https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西](https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [在学会数学之前，AI 先学会了大厂的虚荣心](https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」](https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [新豆包手机助手首发体验，智能手机正在变成「行动终端」](https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [Meta 打造“组织第二大脑”智能体的设计思路](https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&utm_medium=article)
-2. [从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海](https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article)
-3. [在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训](https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article)
-4. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
-5. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
+1. [HTTP 新增 QUERY 方法：有人叫好，也有人质疑“这不就是 GET？”](https://www.infoq.cn/article/BmJh0DzGPYBEl1zlyO0C?utm_source=rss&utm_medium=article)
+2. [Meta 打造“组织第二大脑”智能体的设计思路](https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&utm_medium=article)
+3. [从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海](https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article)
+4. [在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训](https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article)
+5. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -57,14 +57,6 @@
 3. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
 4. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
 5. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
-
-## AI News
-
-1. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
-2. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-3. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
-4. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
-5. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
 
 ## 阮一峰网络日志
 
