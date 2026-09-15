@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-16 00:22:48
+> 更新时间：2026-09-16 01:18:24
 
 ## 热门文章
 
@@ -35,8 +35,8 @@
 29. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
 30. [从产品角度：拆解WorkBuddy 功能](https://juejin.cn/post/7684615074137718824)
 31. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
-32. [Agent 的控制权，为什么正在回到模型手里？](https://juejin.cn/post/7684900473053954094)
-33. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
+32. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
+33. [Agent 的控制权，为什么正在回到模型手里？](https://juejin.cn/post/7684900473053954094)
 34. [🎥 手搓一套直播高并发环境！一个后端小白从 0 到 1 的搭建笔记](https://juejin.cn/post/7684154085232001059)
 35. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
 36. [Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI](https://juejin.cn/post/7684507874422751283)
@@ -49,8 +49,8 @@
 43. [聊聊 Function Calling，你的模型是否答非所问？](https://juejin.cn/post/7685209311463440435)
 44. [ADK for Kotlin：Google 官方 AI Agent 教程来了](https://juejin.cn/post/7684533566942134278)
 45. [磁盘IO打满怎么办？我用5个真实案例，总结了这套可复用的排查方法论](https://juejin.cn/post/7684460980933459983)
-46. [地图瓦片批量改色来啦！](https://juejin.cn/post/7684800289061404698)
+46. [AI Coding UI Patterns：把好设计说清楚！](https://juejin.cn/post/7685302724011704347)
 47. [AI会让程序员失业吗？200年前的手工织工已经给出了答案](https://juejin.cn/post/7685276242113019938)
 48. [为什么你的页面在 Safari 上总出问题？Interop 2027 正在解决这个 20 年老毛病](https://juejin.cn/post/7684897169736187910)
-49. [AI Coding UI Patterns：把好设计说清楚！](https://juejin.cn/post/7685302724011704347)
+49. [地图瓦片批量改色来啦！](https://juejin.cn/post/7684800289061404698)
 50. [[个人学习记录]从零构建高性能 LLM 推理网关：Go 语言 SSE 流式转发、级联取消与背压](https://juejin.cn/post/7684573646438383626)
