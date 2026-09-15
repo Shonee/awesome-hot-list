@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15 08:57:24",
-    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，父亲撞死人让儿子顶包 全家串供掩盖紧随其后。当前覆盖 33 个有效渠道，共形成 372 个榜单时间切片；发现 46 个跨渠道重复热点。",
+    "generatedAt": "2026-09-15 09:04:10",
+    "summary": "上5休1上5休3上3休7上3休1成为本期综合热度最高的话题，父亲撞死人让儿子顶包 全家串供掩盖紧随其后。当前覆盖 33 个有效渠道，共形成 375 个榜单时间切片；发现 51 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2576,
-        "resonance": 46,
+        "deduplicated": 2603,
+        "resonance": 51,
         "maxRise": 47,
-        "slices": 372,
+        "slices": 375,
         "coverage": 100,
-        "samplingCoverage": 95
+        "samplingCoverage": 86
     },
     "topTopics": [
         {
@@ -345,6 +345,37 @@
             ]
         },
         {
+            "title": "武契奇将辞任塞尔维亚总统",
+            "source": "跨渠道",
+            "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%EF%BC%9A%E5%B0%86%E8%BE%9E%E5%8E%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
+            "hits": [
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 14,
+                    "title": "武契奇：将辞去塞尔维亚总统职务",
+                    "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%EF%BC%9A%E5%B0%86%E8%BE%9E%E5%8E%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 11,
+                    "title": "武契奇将辞去塞尔维亚总统职务",
+                    "url": "https://www.toutiao.com/trending/7685534447466204699/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685534447466204699%22%2C%22hot_board_impr_id%22%3A%222026091508562769BF0004A2833C7565FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AD%A6%E5%A5%91%E5%A5%87%E5%B0%86%E8%BE%9E%E5%8E%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1%22%7D&rank=&style_id=40132&topic_id=7685534447466204699"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 11,
+                    "title": "武契奇将辞任塞尔维亚总统",
+                    "url": "https://www.kuaishou.com/short-video/3x3d3ukbyqvhvfs"
+                }
+            ]
+        },
+        {
             "title": "日本首相高市早苗将于17日改组内阁",
             "source": "跨渠道",
             "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E4%BA%8E17%E6%97%A5%E6%94%B9%E7%BB%84%E5%86%85%E9%98%81&sa=fyb_news&rsv_dl=fyb_news",
@@ -407,7 +438,7 @@
             ]
         },
         {
-            "title": "新华社权威快报|2026年国家网络安全宣传周开幕",
+            "title": "2026年国家网络安全宣传周开幕",
             "source": "跨渠道",
             "url": "https://view.inews.qq.com/a/20260914A09AA900",
             "hits": [
@@ -586,35 +617,12 @@
                     "url": "https://www.toutiao.com/trending/7685231197416472582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685231197416472582%22%2C%22hot_board_impr_id%22%3A%22202609150718005066DE3769186F3EB66D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A5%AE%E7%94%A8%E6%B0%B4%E6%8A%A5%E5%91%8A%EF%BC%9A72%25%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9C%AA%E8%BE%BE%E9%80%82%E5%AE%9C%E6%91%84%E5%85%A5%E9%87%8F%22%7D&rank=&style_id=40132&topic_id=7685231197416472582"
                 }
             ]
-        },
-        {
-            "title": "苹果回应iPhone 17大降价",
-            "source": "跨渠道",
-            "url": "https://www.cls.cn/detail/2482600",
-            "hits": [
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 5,
-                    "title": "苹果回应iPhone 17大降价",
-                    "url": "https://www.cls.cn/detail/2482600"
-                },
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 36,
-                    "title": "苹果客服回应iPhone17大降价",
-                    "url": "https://www.kuaishou.com/short-video/3x33m32nfwna72i"
-                }
-            ]
         }
     ],
     "words": [
         {
             "word": "AI",
-            "weight": 145,
+            "weight": 146,
             "tone": "hot",
             "hits": [
                 {
@@ -1108,7 +1116,7 @@
         },
         {
             "word": "手机",
-            "weight": 36,
+            "weight": 37,
             "tone": "gold",
             "hits": [
                 {
@@ -1126,6 +1134,14 @@
                     "rank": 38,
                     "title": "绝不承认手机妈对我的印象",
                     "url": "https://www.douyin.com/search/%E7%BB%9D%E4%B8%8D%E6%89%BF%E8%AE%A4%E6%89%8B%E6%9C%BA%E5%A6%88%E5%AF%B9%E6%88%91%E7%9A%84%E5%8D%B0%E8%B1%A1"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 36,
+                    "title": "十年内折叠屏手机或成市场主流",
+                    "url": "https://www.kuaishou.com/short-video/3xdah7j9cjqbqdy"
                 },
                 {
                     "channelId": "weibo",
@@ -1342,20 +1358,12 @@
                     "rank": 11,
                     "title": "OpenAI收购了初创企业Glass Imaging，该公司专注于智能手机摄像头相关影像技术研发，该初创公司估值超过3亿美元。",
                     "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirvqsq3922805.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "财经热榜",
-                    "rank": 7,
-                    "title": "OpenAI收购了一家研发智能手机摄像头的初创企业。",
-                    "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirvqsq3922386.shtml"
                 }
             ]
         },
         {
             "word": "苹果",
-            "weight": 43,
+            "weight": 44,
             "tone": "",
             "hits": [
                 {
@@ -1413,6 +1421,14 @@
                     "rank": 47,
                     "title": "苹果回应iPhone18Pro破发",
                     "url": "https://www.kuaishou.com/short-video/3x5w2khzdq6y4aa"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 32,
+                    "title": "苹果iOS27正式版发布",
+                    "url": "https://www.kuaishou.com/short-video/3xazskkumbpukvu"
                 },
                 {
                     "channelId": "weibo",
@@ -1589,20 +1605,12 @@
                     "rank": 32,
                     "title": "ios27建议升级吗？美版苹果12卡贴机，备用机",
                     "url": "https://www.nodeseek.com/post-929117-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 3,
-                    "title": "马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责",
-                    "url": "https://www.ithome.com/1/002/314.htm"
                 }
             ]
         },
         {
             "word": "正式",
-            "weight": 33,
+            "weight": 34,
             "tone": "hot",
             "hits": [
                 {
@@ -1612,6 +1620,14 @@
                     "rank": 8,
                     "title": "重返渴望现场｜百事可乐音乐盛典完整回放正式上线！",
                     "url": "https://b23.tv/BV1uKY26hETJ"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 32,
+                    "title": "苹果iOS27正式版发布",
+                    "url": "https://www.kuaishou.com/short-video/3xazskkumbpukvu"
                 },
                 {
                     "channelId": "weibo",
@@ -1836,14 +1852,6 @@
                     "rank": 3,
                     "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
                     "url": "https://www.ithome.com/1/002/332.htm"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 4,
-                    "title": "苹果 visionOS 27.0 正式版发布：Siri AI、4K 录制与 Wi-Fi 提速",
-                    "url": "https://www.ithome.com/1/002/331.htm"
                 }
             ]
         },
@@ -2095,9 +2103,256 @@
             ]
         },
         {
+            "word": "iOS",
+            "weight": 32,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 3,
+                    "title": "iOS27有哪些亮点",
+                    "url": "https://search.bilibili.com/all?keyword=iOS27%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 32,
+                    "title": "苹果iOS27正式版发布",
+                    "url": "https://www.kuaishou.com/short-video/3xazskkumbpukvu"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 49,
+                    "title": "哪些机型可以升级iOS27",
+                    "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%BA%9B%E6%9C%BA%E5%9E%8B%E5%8F%AF%E4%BB%A5%E5%8D%87%E7%BA%A7iOS27&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 5,
+                    "title": "iOS升级包版本显示Bug",
+                    "url": "https://s.weibo.com/weibo?q=iOS%E5%8D%87%E7%BA%A7%E5%8C%85%E7%89%88%E6%9C%AC%E6%98%BE%E7%A4%BABug&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 14,
+                    "title": "iOS27",
+                    "url": "https://s.weibo.com/weibo?q=iOS27&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 18,
+                    "title": "iOS27更新九大看点",
+                    "url": "https://s.weibo.com/weibo?q=iOS27%E6%9B%B4%E6%96%B0%E4%B9%9D%E5%A4%A7%E7%9C%8B%E7%82%B9&Refer=index"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 27,
+                    "title": "iOS27流畅度大增",
+                    "url": "https://s.weibo.com/weibo?q=iOS27%E6%B5%81%E7%95%85%E5%BA%A6%E5%A4%A7%E5%A2%9E&Refer=index"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 33,
+                    "title": "iOS 27正式版来了",
+                    "url": "https://www.baidu.com/s?wd=iOS+27%E6%AD%A3%E5%BC%8F%E7%89%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 5,
+                    "title": "iOS 27, iPadOS 27, and macOS 27",
+                    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
+                },
+                {
+                    "channelId": "googletrends",
+                    "channelName": "Google Trends",
+                    "ranking": "香港趋势",
+                    "rank": 4,
+                    "title": "ios 27",
+                    "url": "https://trends.google.com/trends/explore?q=ios+27&geo=HK"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 31,
+                    "title": "苹果正式推送iOS 27",
+                    "url": "https://www.toutiao.com/trending/7685535581568257555/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685535581568257555%22%2C%22hot_board_impr_id%22%3A%222026091508562769BF0004A2833C7565FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%BC%8F%E6%8E%A8%E9%80%81iOS+27%22%7D&rank=&style_id=40132&topic_id=7685535581568257555"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 15,
+                    "title": "苹果Siri AI拖了两年终落地！iOS 27上线，AI开始接管iPhone",
+                    "url": "https://view.inews.qq.com/a/20260915A01H0F00"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 5,
+                    "title": "来了来了！苹果终于发布 iOS 27 正式版系统",
+                    "url": "https://m.163.com/news/article/L6R2TTVN0511Q78R.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 11,
+                    "title": "iOS 27正式推送：别急着升，这几个大实话苹果没明说",
+                    "url": "https://m.163.com/news/article/L6R7S3SS0556MLOL.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 23,
+                    "title": "iOS 27今天上线，想用上新Siri得先过这几关",
+                    "url": "https://m.163.com/news/article/L6R6LN3O05561FZW.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 24,
+                    "title": "苹果正式发布iOS 27：Siri迎来重大AI升级 性能提升并新增多项智能功能",
+                    "url": "https://m.163.com/news/article/L6R5DSOV0511BLFD.html"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 34,
+                    "title": "Preserve HTML email colours, background images and selectable text in Gmail iOS dark mode, is it possible?",
+                    "url": "https://stackoverflow.com/questions/80002896/preserve-html-email-colours-background-images-and-selectable-text-in-gmail-ios"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 13,
+                    "title": "ios27正式版推送了 开始更新",
+                    "url": "https://www.nodeseek.com/post-929073-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 15,
+                    "title": "获取不到 ios 27 更新的看这里",
+                    "url": "https://www.nodeseek.com/post-929095-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 32,
+                    "title": "ios27建议升级吗？美版苹果12卡贴机，备用机",
+                    "url": "https://www.nodeseek.com/post-929117-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 36,
+                    "title": "更正：ios 27正式版 可以使用美区icloud",
+                    "url": "https://www.nodeseek.com/post-929110-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "ios27实测续航发热流畅度全部秒杀ios26",
+                    "url": "https://www.nodeseek.com/post-929163-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "ios 27 正式版 国行无法使用美区icloud",
+                    "url": "https://www.nodeseek.com/post-929093-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 42,
+                    "title": "IOS 27、macOS 27、iPadOS 27同步更新中",
+                    "url": "https://www.nodeseek.com/post-929152-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 10,
+                    "title": "IOS设置里更换Apple账号会删除哪些东西啊？",
+                    "url": "https://www.nodeseek.com/post-929188-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 30,
+                    "title": "有佬更新了IOS27吗？想听听体验",
+                    "url": "https://www.nodeseek.com/post-929199-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 34,
+                    "title": "IOS26.7 还是 27，升哪个？",
+                    "url": "https://www.nodeseek.com/post-929227-1"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 4,
+                    "title": "苹果 iOS/iPadOS 27.0 正式版发布",
+                    "url": "https://www.ithome.com/1/002/329.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 2,
+                    "title": "苹果 iOS 27 RC 新增爱马仕 Hermès MagSafe 钱包专属吸附动画",
+                    "url": "https://www.ithome.com/1/002/350.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 4,
+                    "title": "苹果 iOS 27 家庭 AI 功能强制捆绑 2TB 及以上 iCloud+ 套餐：单摄像头月费 9.99 美元、五摄像头 59.99 美元，引 iPhone 用户不满",
+                    "url": "https://www.ithome.com/1/002/348.htm"
+                }
+            ]
+        },
+        {
             "word": "全球",
             "weight": 23,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2288,7 +2543,7 @@
         {
             "word": "官方",
             "weight": 17,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -2495,7 +2750,7 @@
         {
             "word": "美国",
             "weight": 35,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2740,255 +2995,8 @@
             ]
         },
         {
-            "word": "iOS",
-            "weight": 31,
-            "tone": "teal",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 3,
-                    "title": "iOS27有哪些亮点",
-                    "url": "https://search.bilibili.com/all?keyword=iOS27%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 49,
-                    "title": "哪些机型可以升级iOS27",
-                    "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%BA%9B%E6%9C%BA%E5%9E%8B%E5%8F%AF%E4%BB%A5%E5%8D%87%E7%BA%A7iOS27&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 5,
-                    "title": "iOS升级包版本显示Bug",
-                    "url": "https://s.weibo.com/weibo?q=iOS%E5%8D%87%E7%BA%A7%E5%8C%85%E7%89%88%E6%9C%AC%E6%98%BE%E7%A4%BABug&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 14,
-                    "title": "iOS27",
-                    "url": "https://s.weibo.com/weibo?q=iOS27&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 18,
-                    "title": "iOS27更新九大看点",
-                    "url": "https://s.weibo.com/weibo?q=iOS27%E6%9B%B4%E6%96%B0%E4%B9%9D%E5%A4%A7%E7%9C%8B%E7%82%B9&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 27,
-                    "title": "iOS27流畅度大增",
-                    "url": "https://s.weibo.com/weibo?q=iOS27%E6%B5%81%E7%95%85%E5%BA%A6%E5%A4%A7%E5%A2%9E&Refer=index"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 33,
-                    "title": "iOS 27正式版来了",
-                    "url": "https://www.baidu.com/s?wd=iOS+27%E6%AD%A3%E5%BC%8F%E7%89%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "hackernews",
-                    "channelName": "Hacker News",
-                    "ranking": "Top Stories",
-                    "rank": 5,
-                    "title": "iOS 27, iPadOS 27, and macOS 27",
-                    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
-                },
-                {
-                    "channelId": "googletrends",
-                    "channelName": "Google Trends",
-                    "ranking": "香港趋势",
-                    "rank": 4,
-                    "title": "ios 27",
-                    "url": "https://trends.google.com/trends/explore?q=ios+27&geo=HK"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 31,
-                    "title": "苹果正式推送iOS 27",
-                    "url": "https://www.toutiao.com/trending/7685535581568257555/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685535581568257555%22%2C%22hot_board_impr_id%22%3A%222026091508562769BF0004A2833C7565FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%BC%8F%E6%8E%A8%E9%80%81iOS+27%22%7D&rank=&style_id=40132&topic_id=7685535581568257555"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 15,
-                    "title": "苹果Siri AI拖了两年终落地！iOS 27上线，AI开始接管iPhone",
-                    "url": "https://view.inews.qq.com/a/20260915A01H0F00"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 5,
-                    "title": "来了来了！苹果终于发布 iOS 27 正式版系统",
-                    "url": "https://m.163.com/news/article/L6R2TTVN0511Q78R.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 11,
-                    "title": "iOS 27正式推送：别急着升，这几个大实话苹果没明说",
-                    "url": "https://m.163.com/news/article/L6R7S3SS0556MLOL.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 23,
-                    "title": "iOS 27今天上线，想用上新Siri得先过这几关",
-                    "url": "https://m.163.com/news/article/L6R6LN3O05561FZW.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 24,
-                    "title": "苹果正式发布iOS 27：Siri迎来重大AI升级 性能提升并新增多项智能功能",
-                    "url": "https://m.163.com/news/article/L6R5DSOV0511BLFD.html"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 34,
-                    "title": "Preserve HTML email colours, background images and selectable text in Gmail iOS dark mode, is it possible?",
-                    "url": "https://stackoverflow.com/questions/80002896/preserve-html-email-colours-background-images-and-selectable-text-in-gmail-ios"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 13,
-                    "title": "ios27正式版推送了 开始更新",
-                    "url": "https://www.nodeseek.com/post-929073-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "获取不到 ios 27 更新的看这里",
-                    "url": "https://www.nodeseek.com/post-929095-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 32,
-                    "title": "ios27建议升级吗？美版苹果12卡贴机，备用机",
-                    "url": "https://www.nodeseek.com/post-929117-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 36,
-                    "title": "更正：ios 27正式版 可以使用美区icloud",
-                    "url": "https://www.nodeseek.com/post-929110-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "ios27实测续航发热流畅度全部秒杀ios26",
-                    "url": "https://www.nodeseek.com/post-929163-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 3,
-                    "title": "ios 27 正式版 国行无法使用美区icloud",
-                    "url": "https://www.nodeseek.com/post-929093-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 42,
-                    "title": "IOS 27、macOS 27、iPadOS 27同步更新中",
-                    "url": "https://www.nodeseek.com/post-929152-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 10,
-                    "title": "IOS设置里更换Apple账号会删除哪些东西啊？",
-                    "url": "https://www.nodeseek.com/post-929188-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 30,
-                    "title": "有佬更新了IOS27吗？想听听体验",
-                    "url": "https://www.nodeseek.com/post-929199-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 34,
-                    "title": "IOS26.7 还是 27，升哪个？",
-                    "url": "https://www.nodeseek.com/post-929227-1"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 4,
-                    "title": "苹果 iOS/iPadOS 27.0 正式版发布",
-                    "url": "https://www.ithome.com/1/002/329.htm"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 2,
-                    "title": "苹果 iOS 27 RC 新增爱马仕 Hermès MagSafe 钱包专属吸附动画",
-                    "url": "https://www.ithome.com/1/002/350.htm"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 4,
-                    "title": "苹果 iOS 27 家庭 AI 功能强制捆绑 2TB 及以上 iCloud+ 套餐：单摄像头月费 9.99 美元、五摄像头 59.99 美元，引 iPhone 用户不满",
-                    "url": "https://www.ithome.com/1/002/348.htm"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "爱范儿",
-                    "rank": 1,
-                    "title": "早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预",
-                    "url": "https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign="
-                }
-            ]
-        },
-        {
             "word": "日本",
-            "weight": 29,
+            "weight": 31,
             "tone": "gold",
             "hits": [
                 {
@@ -3038,6 +3046,22 @@
                     "rank": 32,
                     "title": "对日本二氯二氢硅反倾销",
                     "url": "https://www.kuaishou.com/short-video/3xnhw49mjsksiws"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 3,
+                    "title": "日本首相高市将改组内阁",
+                    "url": "https://www.kuaishou.com/short-video/3x7cvu4vpib39ju"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 21,
+                    "title": "日本护理机器人倒水失败",
+                    "url": "https://www.kuaishou.com/short-video/3xvby3ptzehzb8y"
                 },
                 {
                     "channelId": "zhihu",
@@ -3214,252 +3238,13 @@
                     "rank": 48,
                     "title": "2026年9月第二周日本广告合集",
                     "url": "https://www.acfun.cn/v/ac48843478"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 11,
-                    "title": "抽点自己的日本9950x小鸡",
-                    "url": "https://www.nodeseek.com/post-927438-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 18,
-                    "title": "日本女优仓木华好像紫砂了",
-                    "url": "https://www.nodeseek.com/post-929076-1"
-                }
-            ]
-        },
-        {
-            "word": "工作",
-            "weight": 27,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 8,
-                    "title": "终于知道为什么有人工作能力这么强",
-                    "url": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 15,
-                    "title": "陈哲远工作室皮下 公费追星",
-                    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%9A%AE%E4%B8%8B%20%E5%85%AC%E8%B4%B9%E8%BF%BD%E6%98%9F&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 6,
-                    "title": "女子买学区房双证齐全疑因房间太小孩子无法入学，工作人员说法矛盾，具体是怎么回事？因小户型拒收合理吗？",
-                    "url": "https://www.zhihu.com/question/2081037697808691696"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热榜",
-                    "rank": 29,
-                    "title": "下一代程序员离开 AI 还能独立工作吗？",
-                    "url": "https://www.zhihu.com/question/2078918941477545304"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 34,
-                    "title": "Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI",
-                    "url": "https://juejin.cn/post/7684507874422751283"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 36,
-                    "title": "别卷 Python 了：我用 Java 21 + Spring Boot 3 打造了一个企业级 RAG + 智能体工作流引擎（附架构与源码解析）",
-                    "url": "https://juejin.cn/post/7684092309538832390"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 14,
-                    "title": "半个月工资55元、被踢出845个工作群，重庆女孩遭公司“冷处理”最新后续：公积金追缴已到账",
-                    "url": "https://view.inews.qq.com/a/20260914A0DB9G00"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 29,
-                    "title": "\"被踢出845个工作群\"女子维权近1年 追缴公积金已到账",
-                    "url": "https://m.163.com/news/article/L6QGJVLV05561G0D.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 49,
-                    "title": "单位该不该介入公职人员社会纠纷？| 风向标工作室",
-                    "url": "https://m.163.com/news/article/L3IOKB410512D3VJ.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 19,
-                    "title": "传闻称曾为梅根·马克尔和哈里王子工作过的人有一个持续在用的“幸存者”聊天群",
-                    "url": "https://m.163.com/news/article/L6R1L7M005561FXI.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 17,
-                    "title": "蒙古国7.77万尼特族不工作、不上学、也不放牧",
-                    "url": "https://m.163.com/news/article/L6RCPMET055616ZJ.html"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 5,
-                    "title": "督察组连续追问，现场糊弄的工作人员承认了问题",
-                    "url": "https://news.sina.com.cn/o/2026-09-14/doc-iniruhxh4760984.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 2,
-                    "title": "女演员工作室紧急道歉：已严控不当画面扩散",
-                    "url": "https://news.sina.com.cn/s/2026-09-15/doc-inirvkkn9216445.shtml"
-                },
-                {
-                    "channelId": "thepaper",
-                    "channelName": "澎湃新闻",
-                    "ranking": "热新闻",
-                    "rank": 2,
-                    "title": "超30家药企长期行贿，涉案1.84亿！河北医科大学第二医院回应：正配合监管部门开展工作",
-                    "url": "https://www.thepaper.cn/newsDetail_forward_34065386"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 20,
-                    "title": "算力网，不是“多堆服务器”那么简单。9月11日召开的国务院常务会议，研究算力网建设有关工作。会议指出，算力网是人工智能发展的基础支撑。要坚持合理布局、规范有序，进一步完善算力基础 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679895965.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 50,
-                    "title": "21世纪经济报道记者冉黎黎 北京报道回款难问题是中小企业的“心头大事”。近日，国务院办公厅印发了《关于加强中小企业回款难问题治理有关工作的通知》（以下简称《通知》）。9月14日，国新 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679894911.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "本报讯(记者聂国春)近日，金融监管总局副局长丛林在国新办“开局起步‘十五五’”系列主题新闻发布会上表示，将一体推进防风险、强监管、促高质量发展各项工作，加大对促消费、扩投资、稳企 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679897024.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "● 本报记者欧阳剑环昝秀丽国务院办公厅日前印发《关于加强中小企业回款难问题治理有关工作的通知》(下称《通知》)，针对造成中小企业回款难的堵点难点问题提出4方面10条具体措施。多部门有 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679897003.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "□ 赖德胜当前，全球处于第四次工业革命的起步阶段，新经济、新产业蓬勃发展，持续推动就业、工作模式变革。数字经济的兴起，对劳动力市场产生深远影响。近年来，互联网、大数据、云计算、 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679897093.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 8,
-                    "title": "近日，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(以下简称《通知》)。9月14日，国新办举行国务院政策例行吹风会，工业和信息化部副部长柯吉欣、中国人民银行金融 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679897069.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 8,
-                    "title": "“没想到平时网购、点外卖、手机支付这些日常消费记录，也能成为银行了解我的一个参考。”25岁的周琴说。周琴在江西省樟树市经营一家美甲工作室。创业两年多，客源稳步增长，她琢磨着添置设 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679904344.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 14,
-                    "title": "日前，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》(简称《通知》)，对依法治理中小企业回款难问题作出部署。在9月14日国新办举行的国务院政策例行吹风会上，工业和 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679903950.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 16,
-                    "title": "回款难，是中小企业的“心头脖，更是经济循环的“血栓点”。近日国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》，以分行业设定合理账期、推动龙头企业践行“60日付现承 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679903699.shtml"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 15,
-                    "title": "你也不想你的丈夫失去这份工作吧",
-                    "url": "https://www.nodeseek.com/post-929059-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 21,
-                    "title": "WorkBuddy多账号切换v15【保留工作区】",
-                    "url": "https://www.52pojie.cn/thread-2125949-1-1.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "少数派",
-                    "rank": 2,
-                    "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-                    "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 1,
-                    "title": "V社透露仍在推进 Steam Deck 2 游戏掌机开发工作，内存涨价未打乱产品正常迭代规划",
-                    "url": "https://www.ithome.com/1/002/351.htm"
                 }
             ]
         },
         {
             "word": "问题",
             "weight": 26,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3682,7 +3467,7 @@
         {
             "word": "公司",
             "weight": 44,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -3929,7 +3714,7 @@
         {
             "word": "世界",
             "weight": 29,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4176,7 +3961,7 @@
         {
             "word": "男子",
             "weight": 21,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -4381,6 +4166,165 @@
             ]
         },
         {
+            "word": "科技",
+            "weight": 19,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 12,
+                    "title": "雷军现身宇树科技",
+                    "url": "https://www.kuaishou.com/short-video/3xxj8jtv5cpjaw4"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 47,
+                    "title": "雷军现身宇树科技",
+                    "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E7%8E%B0%E8%BA%AB%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80&Refer=index"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 30,
+                    "title": "95后清华核科技女博士当村支书",
+                    "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E6%B8%85%E5%8D%8E%E6%A0%B8%E7%A7%91%E6%8A%80%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%BD%93%E6%9D%91%E6%94%AF%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 19,
+                    "title": "雷军现身宇树科技 王兴兴陪同",
+                    "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%8E%B0%E8%BA%AB%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80+%E7%8E%8B%E5%85%B4%E5%85%B4%E9%99%AA%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 19,
+                    "title": "\"95后\"清华核科技女博士报名到村里当村支书 本人发声",
+                    "url": "https://m.163.com/news/article/L6QMHR57053469LG.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 9,
+                    "title": "刚刚，美股科技小登又崩了，费半狂跌近6%，发生了什么？",
+                    "url": "https://m.163.com/news/article/L6R1DVTB05566UTE.html"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 24,
+                    "title": "【官方双语】2026年  花钱能够买到的地表最强PC#linus谈科技",
+                    "url": "https://www.acfun.cn/v/ac48845732"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 39,
+                    "title": "美股盘前科技暴跌",
+                    "url": "https://bbs.hupu.com/642418568.html"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 2,
+                    "title": "蓝思科技的压力，不只是手机卖不动",
+                    "url": "https://www.36kr.com/p/3982707524844544"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 21,
+                    "title": "DeepSeek V4.1 Flash用了哪些黑科技？竟让Flash（差点）逼退Pro",
+                    "url": "https://www.36kr.com/p/3980013761182466"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 23,
+                    "title": "28年老牌高尔夫科技公司，自研AI模拟器，营收数亿｜Insight全球",
+                    "url": "https://www.36kr.com/p/3962843190738311"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 33,
+                    "title": "晶澳科技：第七届董事会第八次会议决议公告",
+                    "url": "http://news.10jqka.com.cn/20260914/c679895431.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 34,
+                    "title": "证券日报网讯 9月14日，晶澳科技发布公告称，公司于2026年9月14日召开第七届董事会第八次会议，审议通过《关于公司2025年股票期权激励计划第一个行权期行权条 ...",
+                    "url": "http://news.10jqka.com.cn/20260914/c679895431.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 1,
+                    "title": "广西北投科技股份有限公司关于 2026年半年度业绩说明会召开情况的公告",
+                    "url": "http://news.10jqka.com.cn/20260915/c679897688.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 2,
+                    "title": "证券代码：600936证券简称：北投科技公告编号：2026-033本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责 ...",
+                    "url": "http://news.10jqka.com.cn/20260915/c679897688.shtml"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 1,
+                    "title": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
+                    "url": "https://www.cls.cn/detail/2482469"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "阮一峰网络日志",
+                    "rank": 1,
+                    "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+                    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "阮一峰网络日志",
+                    "rank": 2,
+                    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+                    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "阮一峰网络日志",
+                    "rank": 3,
+                    "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+                    "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"
+                }
+            ]
+        },
+        {
             "word": "最新",
             "weight": 19,
             "tone": "hot",
@@ -4575,6 +4519,14 @@
                     "rank": 14,
                     "title": "女子因怕疼杀人求死刑",
                     "url": "https://www.kuaishou.com/short-video/3xquw4c7a6vepbw"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 41,
+                    "title": "女子撞伤出轨丈夫获刑",
+                    "url": "https://www.kuaishou.com/short-video/3xfyeinjiwasi4e"
                 },
                 {
                     "channelId": "weibo",
@@ -4779,160 +4731,9 @@
             ]
         },
         {
-            "word": "科技",
-            "weight": 18,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 47,
-                    "title": "雷军现身宇树科技",
-                    "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E7%8E%B0%E8%BA%AB%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80&Refer=index"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 30,
-                    "title": "95后清华核科技女博士当村支书",
-                    "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E6%B8%85%E5%8D%8E%E6%A0%B8%E7%A7%91%E6%8A%80%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%BD%93%E6%9D%91%E6%94%AF%E4%B9%A6&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 19,
-                    "title": "雷军现身宇树科技 王兴兴陪同",
-                    "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%8E%B0%E8%BA%AB%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80+%E7%8E%8B%E5%85%B4%E5%85%B4%E9%99%AA%E5%90%8C&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 19,
-                    "title": "\"95后\"清华核科技女博士报名到村里当村支书 本人发声",
-                    "url": "https://m.163.com/news/article/L6QMHR57053469LG.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 9,
-                    "title": "刚刚，美股科技小登又崩了，费半狂跌近6%，发生了什么？",
-                    "url": "https://m.163.com/news/article/L6R1DVTB05566UTE.html"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 24,
-                    "title": "【官方双语】2026年  花钱能够买到的地表最强PC#linus谈科技",
-                    "url": "https://www.acfun.cn/v/ac48845732"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 39,
-                    "title": "美股盘前科技暴跌",
-                    "url": "https://bbs.hupu.com/642418568.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 2,
-                    "title": "蓝思科技的压力，不只是手机卖不动",
-                    "url": "https://www.36kr.com/p/3982707524844544"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 21,
-                    "title": "DeepSeek V4.1 Flash用了哪些黑科技？竟让Flash（差点）逼退Pro",
-                    "url": "https://www.36kr.com/p/3980013761182466"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 23,
-                    "title": "28年老牌高尔夫科技公司，自研AI模拟器，营收数亿｜Insight全球",
-                    "url": "https://www.36kr.com/p/3962843190738311"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 33,
-                    "title": "晶澳科技：第七届董事会第八次会议决议公告",
-                    "url": "http://news.10jqka.com.cn/20260914/c679895431.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 34,
-                    "title": "证券日报网讯 9月14日，晶澳科技发布公告称，公司于2026年9月14日召开第七届董事会第八次会议，审议通过《关于公司2025年股票期权激励计划第一个行权期行权条 ...",
-                    "url": "http://news.10jqka.com.cn/20260914/c679895431.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 1,
-                    "title": "广西北投科技股份有限公司关于 2026年半年度业绩说明会召开情况的公告",
-                    "url": "http://news.10jqka.com.cn/20260915/c679897688.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 2,
-                    "title": "证券代码：600936证券简称：北投科技公告编号：2026-033本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679897688.shtml"
-                },
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 1,
-                    "title": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
-                    "url": "https://www.cls.cn/detail/2482469"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "阮一峰网络日志",
-                    "rank": 1,
-                    "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
-                    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "阮一峰网络日志",
-                    "rank": 2,
-                    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
-                    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "阮一峰网络日志",
-                    "rank": 3,
-                    "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-                    "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"
-                }
-            ]
-        },
-        {
             "word": "特朗普",
             "weight": 26,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "toutiao",
@@ -5179,7 +4980,7 @@
         {
             "word": "到底",
             "weight": 24,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5378,7 +5179,7 @@
         {
             "word": "哪些",
             "weight": 21,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5601,7 +5402,7 @@
         {
             "word": "汽车",
             "weight": 19,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5816,7 +5617,7 @@
         {
             "word": "DeepSeek",
             "weight": 18,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5967,7 +5768,7 @@
         {
             "word": "模型",
             "weight": 18,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -6118,7 +5919,7 @@
         {
             "word": "罗永浩",
             "weight": 17,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -6259,6 +6060,133 @@
             ]
         },
         {
+            "word": "vs",
+            "weight": 15,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 46,
+                    "title": "【2026LPL第三赛段】9月13日 BLG vs AL",
+                    "url": "https://b23.tv/BV1GjYe6KEGt"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 27,
+                    "title": "高糖VS戒糖14天！真的差别很大吗？",
+                    "url": "https://b23.tv/BV1enYL6SEtU"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 58,
+                    "title": "现在的小孩vs以前的小孩",
+                    "url": "https://b23.tv/BV1xZYU6eE9F"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 89,
+                    "title": "闹吃VS古振兴，但是两人和谐相处、谦虚交流",
+                    "url": "https://b23.tv/BV1MEYX62EnQ"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 20,
+                    "title": "王美川vs强巴旦增",
+                    "url": "https://www.kuaishou.com/short-video/3x8uxt4pkxbpixg"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 1,
+                    "title": "曼联vs曼城",
+                    "url": "https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%94vs%E6%9B%BC%E5%9F%8E"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 1,
+                    "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+                    "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 10,
+                    "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+                    "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html"
+                },
+                {
+                    "channelId": "googletrends",
+                    "channelName": "Google Trends",
+                    "ranking": "香港趋势",
+                    "rank": 5,
+                    "title": "leeds vs newcastle",
+                    "url": "https://trends.google.com/trends/explore?q=leeds+vs+newcastle&geo=HK"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 7,
+                    "title": "中国男篮vs沙特前瞻：大胜进四强无悬念 王俊杰廖三宁有望暴走",
+                    "url": "https://m.163.com/news/article/L6QET21S0529RKNN.html"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 22,
+                    "title": "原来父母不愿意进城住是有原因的，进城后VS回村后，看完明白了",
+                    "url": "https://bbs.hupu.com/642417702.html"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 33,
+                    "title": "VS Code doesn't recognize tsconfig path aliases for ES modules when verbatimModuleSyntax=true and type=\"module\" in package.json",
+                    "url": "https://stackoverflow.com/questions/80002895/vs-code-doesnt-recognize-tsconfig-path-aliases-for-es-modules-when-verbatimmodu"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 6,
+                    "title": "In Outlook VSTO C# AppointmentItem what Organizer will be set and how it can be changed?",
+                    "url": "https://stackoverflow.com/questions/80003054/in-outlook-vsto-c-appointmentitem-what-organizer-will-be-set-and-how-it-can-be"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 9,
+                    "title": "VS IDE getting path auto-completion and HTML class extension to work in nunjucks .njk files",
+                    "url": "https://stackoverflow.com/questions/80003062/vs-ide-getting-path-auto-completion-and-html-class-extension-to-work-in-nunjucks"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 10,
+                    "title": "In Outlook VSTO & C#, for the AppointmentItem - what organizer will be set and how it can be changed?",
+                    "url": "https://stackoverflow.com/questions/80003054/in-outlook-vsto-c-for-the-appointmentitem-what-organizer-will-be-set-and-h"
+                }
+            ]
+        },
+        {
             "word": "广汽",
             "weight": 15,
             "tone": "gold",
@@ -6387,7 +6315,7 @@
         },
         {
             "word": "演唱会",
-            "weight": 13,
+            "weight": 14,
             "tone": "",
             "hits": [
                 {
@@ -6413,6 +6341,22 @@
                     "rank": 16,
                     "title": "赵雷6岁儿子现身演唱会",
                     "url": "https://www.kuaishou.com/short-video/3xng86hfguektng"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 15,
+                    "title": "自称演唱会求婚事件当事人发声",
+                    "url": "https://www.kuaishou.com/short-video/3xs87axti57d8xg"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 37,
+                    "title": "赵雷6岁儿子现身演唱会",
+                    "url": "https://www.kuaishou.com/short-video/3xyf7vqrhua3f6i"
                 },
                 {
                     "channelId": "weibo",
@@ -7467,9 +7411,136 @@
             ]
         },
         {
-            "word": "A股",
+            "word": "正式版",
             "weight": 15,
             "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 32,
+                    "title": "苹果iOS27正式版发布",
+                    "url": "https://www.kuaishou.com/short-video/3xazskkumbpukvu"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 33,
+                    "title": "iOS 27正式版来了",
+                    "url": "https://www.baidu.com/s?wd=iOS+27%E6%AD%A3%E5%BC%8F%E7%89%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 5,
+                    "title": "来了来了！苹果终于发布 iOS 27 正式版系统",
+                    "url": "https://m.163.com/news/article/L6R2TTVN0511Q78R.html"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 8,
+                    "title": "豆包输入法 win 正式版终于出来了",
+                    "url": "https://www.v2ex.com/t/1241746"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 13,
+                    "title": "ios27正式版推送了 开始更新",
+                    "url": "https://www.nodeseek.com/post-929073-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 36,
+                    "title": "更正：ios 27正式版 可以使用美区icloud",
+                    "url": "https://www.nodeseek.com/post-929110-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 3,
+                    "title": "ios 27 正式版 国行无法使用美区icloud",
+                    "url": "https://www.nodeseek.com/post-929093-1"
+                },
+                {
+                    "channelId": "pojie52",
+                    "channelName": "吾爱破解",
+                    "ranking": "热门热帖",
+                    "rank": 10,
+                    "title": "截图工具 PixPin 3.5.5.1  便携正式版",
+                    "url": "https://www.52pojie.cn/thread-2127743-1-1.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 1,
+                    "title": "苹果 watchOS 27.0 正式版发布",
+                    "url": "https://www.ithome.com/1/002/332.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 2,
+                    "title": "苹果 visionOS 27.0 正式版发布",
+                    "url": "https://www.ithome.com/1/002/331.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 3,
+                    "title": "苹果 macOS 27.0 正式版发布",
+                    "url": "https://www.ithome.com/1/002/330.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 4,
+                    "title": "苹果 iOS/iPadOS 27.0 正式版发布",
+                    "url": "https://www.ithome.com/1/002/329.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 3,
+                    "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
+                    "url": "https://www.ithome.com/1/002/332.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 4,
+                    "title": "苹果 visionOS 27.0 正式版发布：Siri AI、4K 录制与 Wi-Fi 提速",
+                    "url": "https://www.ithome.com/1/002/331.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 5,
+                    "title": "苹果 macOS 27.0 正式版发布：Siri 独立 App、引入多项智能辅助...",
+                    "url": "https://www.ithome.com/1/002/330.htm"
+                }
+            ]
+        },
+        {
+            "word": "A股",
+            "weight": 15,
+            "tone": "",
             "hits": [
                 {
                     "channelId": "toutiao",
@@ -7626,9 +7697,128 @@
             ]
         },
         {
+            "word": "敬一丹",
+            "weight": 14,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 6,
+                    "title": "敬一丹账号发布生平视频",
+                    "url": "https://www.kuaishou.com/short-video/3xc6ev3tkcsjn5c"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 22,
+                    "title": "金龟子刘纯燕悼念敬一丹",
+                    "url": "https://www.kuaishou.com/short-video/3xeab6d42bgdcdw"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 48,
+                    "title": "敬一丹退休前愿望曝光",
+                    "url": "https://www.kuaishou.com/short-video/3xjvm75ek2nw9yk"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 20,
+                    "title": "崔永元发文悼念敬一丹",
+                    "url": "https://s.weibo.com/weibo?q=%E5%B4%94%E6%B0%B8%E5%85%83%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%95%AC%E4%B8%80%E4%B8%B9&Refer=index"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 14,
+                    "title": "敬一丹多张生前照片公布",
+                    "url": "https://www.baidu.com/s?wd=%E6%95%AC%E4%B8%80%E4%B8%B9%E5%A4%9A%E5%BC%A0%E7%94%9F%E5%89%8D%E7%85%A7%E7%89%87%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 9,
+                    "title": "敬一丹去世后，无语一幕发生了，女儿私生活被扒，网友：被气的",
+                    "url": "https://m.163.com/news/article/L6R9LOP70556BS36.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 36,
+                    "title": "敬一丹去世早有预兆，生前2个习惯或成催命符，给所有人提了醒",
+                    "url": "https://m.163.com/news/article/L6QQ23CA05567KE9.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 11,
+                    "title": "敬一丹去世，她生前最大的遗憾不是女儿，而是生日当天离世的母亲",
+                    "url": "https://m.163.com/news/article/L6RJ091G055616Z7.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 15,
+                    "title": "敬一丹离世！退休断崖抑郁，晚年深陷绝境，女儿和丈夫成了人生救赎",
+                    "url": "https://m.163.com/news/article/L6RF95I80556C0UB.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 19,
+                    "title": "\"金龟子\"刘纯燕悼念敬一丹：她见证了我和王宁的爱情",
+                    "url": "https://m.163.com/news/article/L6QEIAJO053469LG.html"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 10,
+                    "title": "不够锐的敬一丹，在一个很锐的节目里坚持了很久",
+                    "url": "https://news.sina.com.cn/c/2026-09-13/doc-inirszcu4417238.shtml"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "财经热榜",
+                    "rank": 10,
+                    "title": "敬一丹因脑出血离世",
+                    "url": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirtfmq7540507.shtml"
+                },
+                {
+                    "channelId": "thepaper",
+                    "channelName": "澎湃新闻",
+                    "ranking": "热新闻",
+                    "rank": 18,
+                    "title": "敬一丹账号发布生平回顾视频",
+                    "url": "https://www.thepaper.cn/newsDetail_forward_34068711"
+                },
+                {
+                    "channelId": "wechat",
+                    "channelName": "微信文章",
+                    "ranking": "24h 热文榜",
+                    "rank": 4,
+                    "title": "敬一丹静悄悄走了：病危抢救三个月，她竟用6篇节气随笔完成了告别",
+                    "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjY4ODIyMQ==&mid=2247484836&idx=1&sn=12f68021a75bbea92c3df98c78a6d374#rd"
+                }
+            ]
+        },
+        {
             "word": "亚运会",
             "weight": 13,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -7849,120 +8039,9 @@
             ]
         },
         {
-            "word": "敬一丹",
-            "weight": 13,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 6,
-                    "title": "敬一丹账号发布生平视频",
-                    "url": "https://www.kuaishou.com/short-video/3xc6ev3tkcsjn5c"
-                },
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 22,
-                    "title": "金龟子刘纯燕悼念敬一丹",
-                    "url": "https://www.kuaishou.com/short-video/3xeab6d42bgdcdw"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 20,
-                    "title": "崔永元发文悼念敬一丹",
-                    "url": "https://s.weibo.com/weibo?q=%E5%B4%94%E6%B0%B8%E5%85%83%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%95%AC%E4%B8%80%E4%B8%B9&Refer=index"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 14,
-                    "title": "敬一丹多张生前照片公布",
-                    "url": "https://www.baidu.com/s?wd=%E6%95%AC%E4%B8%80%E4%B8%B9%E5%A4%9A%E5%BC%A0%E7%94%9F%E5%89%8D%E7%85%A7%E7%89%87%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 9,
-                    "title": "敬一丹去世后，无语一幕发生了，女儿私生活被扒，网友：被气的",
-                    "url": "https://m.163.com/news/article/L6R9LOP70556BS36.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 36,
-                    "title": "敬一丹去世早有预兆，生前2个习惯或成催命符，给所有人提了醒",
-                    "url": "https://m.163.com/news/article/L6QQ23CA05567KE9.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 11,
-                    "title": "敬一丹去世，她生前最大的遗憾不是女儿，而是生日当天离世的母亲",
-                    "url": "https://m.163.com/news/article/L6RJ091G055616Z7.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 15,
-                    "title": "敬一丹离世！退休断崖抑郁，晚年深陷绝境，女儿和丈夫成了人生救赎",
-                    "url": "https://m.163.com/news/article/L6RF95I80556C0UB.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 19,
-                    "title": "\"金龟子\"刘纯燕悼念敬一丹：她见证了我和王宁的爱情",
-                    "url": "https://m.163.com/news/article/L6QEIAJO053469LG.html"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 10,
-                    "title": "不够锐的敬一丹，在一个很锐的节目里坚持了很久",
-                    "url": "https://news.sina.com.cn/c/2026-09-13/doc-inirszcu4417238.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "财经热榜",
-                    "rank": 10,
-                    "title": "敬一丹因脑出血离世",
-                    "url": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirtfmq7540507.shtml"
-                },
-                {
-                    "channelId": "thepaper",
-                    "channelName": "澎湃新闻",
-                    "ranking": "热新闻",
-                    "rank": 18,
-                    "title": "敬一丹账号发布生平回顾视频",
-                    "url": "https://www.thepaper.cn/newsDetail_forward_34068711"
-                },
-                {
-                    "channelId": "wechat",
-                    "channelName": "微信文章",
-                    "ranking": "24h 热文榜",
-                    "rank": 4,
-                    "title": "敬一丹静悄悄走了：病危抢救三个月，她竟用6篇节气随笔完成了告别",
-                    "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjY4ODIyMQ==&mid=2247484836&idx=1&sn=12f68021a75bbea92c3df98c78a6d374#rd"
-                }
-            ]
-        },
-        {
             "word": "一汽",
             "weight": 13,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "weibo",
@@ -8071,157 +8150,6 @@
             ]
         },
         {
-            "word": "出炉",
-            "weight": 11,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 15,
-                    "title": "亚运会男篮八强对阵出炉",
-                    "url": "https://www.toutiao.com/trending/7685316397068698122/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685316397068698122%22%2C%22hot_board_impr_id%22%3A%2220260915002220AFB9B7EDF36A9D8679BA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E5%85%AB%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685316397068698122"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 15,
-                    "title": "亚运会男篮八强对阵出炉",
-                    "url": "https://www.toutiao.com/trending/7685316397068698122/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685316397068698122%22%2C%22hot_board_impr_id%22%3A%2220260915011742B0DC9C3C2EB652565C99%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E5%85%AB%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685316397068698122"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "亚运会男篮八强对阵出炉",
-                    "url": "https://www.toutiao.com/trending/7685316397068698122/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685316397068698122%22%2C%22hot_board_impr_id%22%3A%22202609150225056D5B9537135278FCEC2B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E5%85%AB%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685316397068698122"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 27,
-                    "title": "亚运会男篮八强对阵出炉",
-                    "url": "https://www.toutiao.com/trending/7685316397068698122/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685316397068698122%22%2C%22hot_board_impr_id%22%3A%22202609150318048958C89960565BCB0E56%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E5%85%AB%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685316397068698122"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 37,
-                    "title": "亚运会男篮八强对阵出炉",
-                    "url": "https://www.toutiao.com/trending/7685316397068698122/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685316397068698122%22%2C%22hot_board_impr_id%22%3A%2220260915042053BF4B705B4C6B7673C742%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E5%85%AB%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685316397068698122"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 42,
-                    "title": "亚运会男篮八强对阵出炉",
-                    "url": "https://www.toutiao.com/trending/7685316397068698122/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685316397068698122%22%2C%22hot_board_impr_id%22%3A%2220260915051801FD80FA490C64CD1CB086%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E5%85%AB%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685316397068698122"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 35,
-                    "title": "亚运会男篮八强对阵出炉",
-                    "url": "https://www.toutiao.com/trending/7685316397068698122/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685316397068698122%22%2C%22hot_board_impr_id%22%3A%2220260915062015736AA14F65E0F401A1B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E5%85%AB%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685316397068698122"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 44,
-                    "title": "亚运会男篮八强对阵出炉",
-                    "url": "https://www.toutiao.com/trending/7685316397068698122/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685316397068698122%22%2C%22hot_board_impr_id%22%3A%22202609150718005066DE3769186F3EB66D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AE%E5%85%AB%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685316397068698122"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 27,
-                    "title": "WTT中国大满贯中国队名单出炉",
-                    "url": "https://www.toutiao.com/trending/7685454048010535433/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685454048010535433%22%2C%22hot_board_impr_id%22%3A%222026091508562769BF0004A2833C7565FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%22%7D&rank=&style_id=40132&topic_id=7685454048010535433"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 5,
-                    "title": "财经聚焦｜8月金融数据出炉，释放哪些信息",
-                    "url": "https://view.inews.qq.com/a/20260914A0D7D800"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 7,
-                    "title": "0.4秒绝杀与垫脚之争：马刺&quot;反派&quot;四强出炉",
-                    "url": "https://m.163.com/news/article/L6R4M88O05561FZ9.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 4,
-                    "title": "随着勒温双响炮+利兹联4-1大胜纽卡，英超最新积分榜出炉",
-                    "url": "https://m.163.com/news/article/L6RFOAUI0549WGPN.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 22,
-                    "title": "随着罗马2-0、科莫2-1，意甲最新积分榜出炉：榜首易主",
-                    "url": "https://m.163.com/news/article/L6R7BLUN0549WGPN.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 18,
-                    "title": "亚运男篮八强对阵出炉！中国男篮喜提上上签，中国台北遭遇最强敌",
-                    "url": "https://m.163.com/news/article/L6ROEBE40553TB9L.html"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "财经热榜",
-                    "rank": 16,
-                    "title": "“超级央行周”将至，A股如何走？融资客重点加仓的高股息公司出炉",
-                    "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-14/doc-inirtwih7323438.shtml"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "虎扑热榜",
-                    "rank": 16,
-                    "title": "男篮亚运会1/4决赛对阵出炉",
-                    "url": "https://m.hupu.com/hot?tagId=156794"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 45,
-                    "title": "公募代销百强榜出炉，上半年谁卖的基金最多？",
-                    "url": "https://www.36kr.com/p/3983177336379010"
-                },
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 1,
-                    "title": "8月金融数据出炉：社融规模存量同比增7.2%，信贷资源更多流向科技创新、绿色转型等新动能领域",
-                    "url": "https://www.cls.cn/detail/2482469"
-                }
-            ]
-        },
-        {
             "word": "野人",
             "weight": 11,
             "tone": "",
@@ -8322,8 +8250,8 @@
             "00:22",
             "02:24",
             "04:21",
-            "06:21",
-            "08:57"
+            "06:28",
+            "09:03"
         ],
         "rows": [
             {
@@ -8904,6 +8832,41 @@
                 "delta": null
             },
             {
+                "title": "武契奇将辞任塞尔维亚总统",
+                "source": "跨渠道",
+                "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%EF%BC%9A%E5%B0%86%E8%BE%9E%E5%8E%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news",
+                "query": "武契奇将辞任塞尔维亚总统",
+                "hits": [
+                    {
+                        "channelId": "baidu",
+                        "channelName": "百度热搜",
+                        "ranking": "实时热搜",
+                        "rank": 14,
+                        "title": "武契奇：将辞去塞尔维亚总统职务",
+                        "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%EF%BC%9A%E5%B0%86%E8%BE%9E%E5%8E%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1&sa=fyb_news&rsv_dl=fyb_news"
+                    },
+                    {
+                        "channelId": "toutiao",
+                        "channelName": "今日头条",
+                        "ranking": "热点榜",
+                        "rank": 11,
+                        "title": "武契奇将辞去塞尔维亚总统职务",
+                        "url": "https://www.toutiao.com/trending/7685534447466204699/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685534447466204699%22%2C%22hot_board_impr_id%22%3A%222026091508562769BF0004A2833C7565FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AD%A6%E5%A5%91%E5%A5%87%E5%B0%86%E8%BE%9E%E5%8E%BB%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1%22%7D&rank=&style_id=40132&topic_id=7685534447466204699"
+                    },
+                    {
+                        "channelId": "kuaishou",
+                        "channelName": "快手",
+                        "ranking": "快手热榜",
+                        "rank": 11,
+                        "title": "武契奇将辞任塞尔维亚总统",
+                        "url": "https://www.kuaishou.com/short-video/3x3d3ukbyqvhvfs"
+                    }
+                ],
+                "currentRank": 5,
+                "previousRank": null,
+                "delta": null
+            },
+            {
                 "title": "日本首相高市早苗将于17日改组内阁",
                 "source": "跨渠道",
                 "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E4%BA%8E17%E6%97%A5%E6%94%B9%E7%BB%84%E5%86%85%E9%98%81&sa=fyb_news&rsv_dl=fyb_news",
@@ -8934,7 +8897,7 @@
                         "url": "https://m.163.com/news/article/L6QUR8O105346RC6.html"
                     }
                 ],
-                "currentRank": 5,
+                "currentRank": 6,
                 "previousRank": null,
                 "delta": null
             },
@@ -8969,7 +8932,7 @@
                         "url": "https://finance.sina.com.cn/roll/2026-09-14/doc-inirutpa4608766.shtml"
                     }
                 ],
-                "currentRank": 6,
+                "currentRank": 7,
                 "previousRank": null,
                 "delta": null
             },
@@ -9052,7 +9015,7 @@
                         "url": "https://www.toutiao.com/trending/7684234682344046618/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684234682344046618%22%2C%22hot_board_impr_id%22%3A%22202609150718005066DE3769186F3EB66D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E5%81%9C%E6%AD%A2%E8%B5%84%E5%8A%A9%E5%AD%A6%E7%94%9F%E5%90%8E%E5%8F%8D%E9%81%AD%E5%A8%81%E8%83%81%E2%80%9D%E7%B3%BB%E9%80%A0%E8%B0%A3%22%7D&rank=&style_id=40132&topic_id=7684234682344046618"
                     }
                 ],
-                "currentRank": 8,
+                "currentRank": 9,
                 "previousRank": null,
                 "delta": null
             },
@@ -9133,33 +9096,6 @@
                         "rank": 2,
                         "title": "饮用水报告：72%成年人未达适宜摄入量",
                         "url": "https://www.toutiao.com/trending/7685231197416472582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685231197416472582%22%2C%22hot_board_impr_id%22%3A%22202609150718005066DE3769186F3EB66D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A5%AE%E7%94%A8%E6%B0%B4%E6%8A%A5%E5%91%8A%EF%BC%9A72%25%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9C%AA%E8%BE%BE%E9%80%82%E5%AE%9C%E6%91%84%E5%85%A5%E9%87%8F%22%7D&rank=&style_id=40132&topic_id=7685231197416472582"
-                    }
-                ],
-                "currentRank": 9,
-                "previousRank": null,
-                "delta": null
-            },
-            {
-                "title": "苹果回应iPhone 17大降价",
-                "source": "跨渠道",
-                "url": "https://www.cls.cn/detail/2482600",
-                "query": "苹果回应iPhone 17大降价",
-                "hits": [
-                    {
-                        "channelId": "cls",
-                        "channelName": "财联社",
-                        "ranking": "热门快讯",
-                        "rank": 5,
-                        "title": "苹果回应iPhone 17大降价",
-                        "url": "https://www.cls.cn/detail/2482600"
-                    },
-                    {
-                        "channelId": "kuaishou",
-                        "channelName": "快手",
-                        "ranking": "快手热榜",
-                        "rank": 36,
-                        "title": "苹果客服回应iPhone17大降价",
-                        "url": "https://www.kuaishou.com/short-video/3x33m32nfwna72i"
                     }
                 ],
                 "currentRank": 10,
@@ -9351,10 +9287,10 @@
                 "delta": -1
             },
             {
-                "title": "新华社权威快报|2026年国家网络安全宣传周开幕",
+                "title": "2026年国家网络安全宣传周开幕",
                 "source": "跨渠道",
                 "url": "https://view.inews.qq.com/a/20260914A09AA900",
-                "query": "新华社权威快报|2026年国家网络安全宣传周开幕",
+                "query": "2026年国家网络安全宣传周开幕",
                 "hits": [
                     {
                         "channelId": "qqnews",
@@ -9373,9 +9309,9 @@
                         "url": "https://www.kuaishou.com/short-video/3x8sd89sd6rsfwm"
                     }
                 ],
-                "currentRank": 7,
+                "currentRank": 8,
                 "previousRank": 5,
-                "delta": -2
+                "delta": -3
             }
         ],
         "rising": [
@@ -9564,10 +9500,10 @@
                 "delta": -1
             },
             {
-                "title": "新华社权威快报|2026年国家网络安全宣传周开幕",
+                "title": "2026年国家网络安全宣传周开幕",
                 "source": "跨渠道",
                 "url": "https://view.inews.qq.com/a/20260914A09AA900",
-                "query": "新华社权威快报|2026年国家网络安全宣传周开幕",
+                "query": "2026年国家网络安全宣传周开幕",
                 "hits": [
                     {
                         "channelId": "qqnews",
@@ -9586,9 +9522,9 @@
                         "url": "https://www.kuaishou.com/short-video/3x8sd89sd6rsfwm"
                     }
                 ],
-                "currentRank": 7,
+                "currentRank": 8,
                 "previousRank": 5,
-                "delta": -2
+                "delta": -3
             }
         ],
         "dropped": [
