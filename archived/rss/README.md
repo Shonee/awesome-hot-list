@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 06:20:52
+> 更新时间：2026-09-16 07:19:42
 
 ## IT之家
 
-1. [Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元](https://www.ithome.com/1/002/818.htm)
-2. [消息称华为 Mate 90 系列手机“大杯”都有双层 OLED 屏幕，支持万级高亮度](https://www.ithome.com/1/002/817.htm)
-3. [戴尔科技股价涨超 6% 再创历史新高，年内累计大涨约 355%](https://www.ithome.com/1/002/816.htm)
-4. [雷蛇发布北海巨妖 V4 X SENSA HD 耳机，799 元](https://www.ithome.com/1/002/815.htm)
-5. [荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发](https://www.ithome.com/1/002/814.htm)
+1. [OpenAI 奥尔特曼称 AI 行业自律可守住安全底线](https://www.ithome.com/1/002/838.htm)
+2. [消息称 Meta 将推出无摄像头的智能眼镜，应对日益加剧的隐私顾虑](https://www.ithome.com/1/002/837.htm)
+3. [马斯克 SpaceX 星舰第 14 次试飞定档 9 月 22 日，首次冲击地球轨道](https://www.ithome.com/1/002/836.htm)
+4. [影石 Mic Pro 腾讯会议版 AI 录音领夹麦发布，698 元](https://www.ithome.com/1/002/835.htm)
+5. [英伟达黄仁勋：AI 行业不需要新法律，开发可兼得速度和安全](https://www.ithome.com/1/002/834.htm)
 
 ## 少数派
 
@@ -57,14 +57,6 @@
 3. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 4. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
 5. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
-
-## AI News
-
-1. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
-2. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-3. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
-4. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-5. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
 
 ## 阮一峰网络日志
 

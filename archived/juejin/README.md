@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-16 06:19:58
+> 更新时间：2026-09-16 07:18:56
 
 ## 热门文章
 
@@ -13,8 +13,8 @@
 7. [Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答](https://juejin.cn/post/7684573646438301706)
 8. [iPhone Duo 发布后，一个 Vue 组件让 Web 应用低成本适配折叠屏](https://juejin.cn/post/7683846471340032051)
 9. [代码80%是AI写的，这家AI公司呼吁暂停AI开发](https://juejin.cn/post/7684228650583375878)
-10. [Deepseek Harness 架构解析和应用](https://juejin.cn/post/7684759404727320627)
-11. [2026年古法编程的末法时代，如何评估自己完成迅速转行](https://juejin.cn/post/7684615074136801320)
+10. [2026年古法编程的末法时代，如何评估自己完成迅速转行](https://juejin.cn/post/7684615074136801320)
+11. [Deepseek Harness 架构解析和应用](https://juejin.cn/post/7684759404727320627)
 12. [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514)
 13. [App 架构演进：MVC → MVP → MVVM → MVI，一篇看懂](https://juejin.cn/post/7684439645419274267)
 14. [AI 越来越强，为什么打工人反而越来越累、越来越内耗了？](https://juejin.cn/post/7684573646438629386)
@@ -27,8 +27,8 @@
 21. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
 22. [WebP 压缩到底在干嘛？小白也能看懂的原理拆解](https://juejin.cn/post/7685040997440978990)
 23. [全球最聪明的几个人，本周突然一起说“别卷了”](https://juejin.cn/post/7685267114438115366)
-24. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
-25. [“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股](https://juejin.cn/post/7684460980934164495)
+24. [“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股](https://juejin.cn/post/7684460980934164495)
+25. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
 26. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
 27. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
 28. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
