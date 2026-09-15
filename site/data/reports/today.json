@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-16",
-    "generatedAt": "2026-09-16 02:25:07",
-    "summary": "我国人口总量14.05亿成为本期综合热度最高的话题，不良信息一键举报 共建清朗网络空间紧随其后。当前覆盖 28 个有效渠道，共形成 121 个榜单时间切片；发现 27 个跨渠道重复热点。",
+    "generatedAt": "2026-09-16 02:32:57",
+    "summary": "我国人口总量14.05亿成为本期综合热度最高的话题，不良信息一键举报 共建清朗网络空间紧随其后。当前覆盖 30 个有效渠道，共形成 130 个榜单时间切片；发现 29 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1598,
-        "resonance": 27,
+        "deduplicated": 1733,
+        "resonance": 29,
         "maxRise": 38,
-        "slices": 121,
-        "coverage": 85,
-        "samplingCoverage": 92
+        "slices": 130,
+        "coverage": 91,
+        "samplingCoverage": 94
     },
     "topTopics": [
         {
@@ -199,6 +199,29 @@
             ]
         },
         {
+            "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+            "source": "跨渠道",
+            "url": "https://bkovac.github.io/modem-thing/",
+            "hits": [
+                {
+                    "channelId": "lobsters",
+                    "channelName": "Lobsters",
+                    "ranking": "Hottest",
+                    "rank": 8,
+                    "title": "Converting a $20 4G wireless hotspot into a texting device",
+                    "url": "https://bkovac.github.io/modem-thing/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 7,
+                    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+                    "url": "https://bkovac.github.io/modem-thing/"
+                }
+            ]
+        },
+        {
             "title": "七旬老太入冰棺1天睁眼复活",
             "source": "跨渠道",
             "url": "https://s.weibo.com/weibo?q=%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E5%85%A5%E5%86%B0%E6%A3%BA1%E5%A4%A9%E7%9D%81%E7%9C%BC%E5%A4%8D%E6%B4%BB&Refer=index",
@@ -266,35 +289,12 @@
                     "url": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign="
                 }
             ]
-        },
-        {
-            "title": "苹果CEO展示iPhoneDuo时翻车",
-            "source": "跨渠道",
-            "url": "https://www.kuaishou.com/short-video/3xy76cry5en46e4",
-            "hits": [
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 12,
-                    "title": "苹果CEO展示iPhoneDuo时翻车",
-                    "url": "https://www.kuaishou.com/short-video/3xy76cry5en46e4"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 25,
-                    "title": "苹果CEO展示iPhoneDuo时翻车",
-                    "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CCEO%E5%B1%95%E7%A4%BAiPhoneDuo%E6%97%B6%E7%BF%BB%E8%BD%A6&Refer=index"
-                }
-            ]
         }
     ],
     "words": [
         {
             "word": "AI",
-            "weight": 82,
+            "weight": 92,
             "tone": "hot",
             "hits": [
                 {
@@ -418,6 +418,110 @@
                     "url": "https://www.baidu.com/s?wd=AI%E5%BC%80%E5%A7%8B%E9%A2%84%E6%B5%8B%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news"
                 },
                 {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 7,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 17,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 19,
+                    "title": "no-ai-slop",
+                    "url": "https://github.com/petergyang/no-ai-slop"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 6,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 10,
+                    "title": "vorssaint-utils",
+                    "url": "https://github.com/vorssaint/vorssaint-utils"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 15,
+                    "title": "ai-memory",
+                    "url": "https://github.com/akitaonrails/ai-memory"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 15,
+                    "title": "lawnchair",
+                    "url": "https://github.com/LawnchairLauncher/lawnchair"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 6,
+                    "title": "no-ai-slop",
+                    "url": "https://github.com/petergyang/no-ai-slop"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 13,
+                    "title": "ai-engineering-from-scratch",
+                    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 4,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 9,
+                    "title": "Cartesian – AI 3D Modeling for Design",
+                    "url": "https://www.formas.ai/cartesian"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 11,
+                    "title": "Let's make quality the norm again",
+                    "url": "https://www.forbrukerradet.no/short-life/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 15,
+                    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+                    "url": "https://www.effort.news/irregular"
+                },
+                {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
@@ -432,117 +536,260 @@
                     "rank": 7,
                     "title": "Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答",
                     "url": "https://juejin.cn/post/7684573646438301706"
+                }
+            ]
+        },
+        {
+            "word": "ai",
+            "weight": 92,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 6,
+                    "title": "丘成桐创刊AI辅助下的数学",
+                    "url": "https://search.bilibili.com/all?keyword=%E4%B8%98%E6%88%90%E6%A1%90%E5%88%9B%E5%88%8AAI%E8%BE%85%E5%8A%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%A6"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 9,
-                    "title": "代码80%是AI写的，这家AI公司呼吁暂停AI开发",
-                    "url": "https://juejin.cn/post/7684228650583375878"
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 15,
+                    "title": "AI短片人生反悔局",
+                    "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E4%BA%BA%E7%94%9F%E5%8F%8D%E6%82%94%E5%B1%80"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 12,
-                    "title": "Kafka已正式接入AI",
-                    "url": "https://juejin.cn/post/7684573646439317514"
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 5,
+                    "title": "当你和一百万人一起吃火锅【AI全民制作人】",
+                    "url": "https://b23.tv/BV1CSej6kETr"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 14,
-                    "title": "AI 越来越强，为什么打工人反而越来越累、越来越内耗了？",
-                    "url": "https://juejin.cn/post/7684573646438629386"
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 28,
+                    "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+                    "url": "https://b23.tv/BV1PYYo6XEW9"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 21,
-                    "title": "AI发展下的后编程时代思考",
-                    "url": "https://juejin.cn/post/7684657593500205110"
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 7,
+                    "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+                    "url": "https://b23.tv/BV1PYYo6XEW9"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 90,
+                    "title": "高分AI短片《人生反悔局》：解不开的：“如果当初”",
+                    "url": "https://b23.tv/BV1DhYQ6UEpe"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 13,
+                    "title": "Anthropic研究员因担忧AI失控辞职",
+                    "url": "https://www.zhihu.com/search?q=Anthropic%E7%A0%94%E7%A9%B6%E5%91%98%E5%9B%A0%E6%8B%85%E5%BF%A7AI%E5%A4%B1%E6%8E%A7%E8%BE%9E%E8%81%8C"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
                     "rank": 24,
-                    "title": "“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股",
-                    "url": "https://juejin.cn/post/7684460980934164495"
+                    "title": "邓煜等菲奖得主称 AI 公司正摧毁数学",
+                    "url": "https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 27,
-                    "title": "真实调研2500名程序员：工资差一倍，AI拉开分水岭",
-                    "url": "https://juejin.cn/post/7684565470046339107"
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 18,
+                    "title": "如何向别人解释「有你这 AI 写代码的时间，我早就古法编程写完了」？",
+                    "url": "https://www.zhihu.com/question/2040516110559220540"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
                     "rank": 36,
-                    "title": "Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI",
-                    "url": "https://juejin.cn/post/7684507874422751283"
+                    "title": "看到 AI 不停攻克各种数学难题，有一些害怕了，以后还需要人类数学家吗？",
+                    "url": "https://www.zhihu.com/question/2082391278357168693"
                 },
                 {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 38,
-                    "title": "AI 对话 \"打字机\" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连",
-                    "url": "https://juejin.cn/post/7684814322542395455"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 41,
-                    "title": "前端转型全栈 00：AI 时代该学哪些，不该学哪些",
-                    "url": "https://juejin.cn/post/7685561582916304906"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 42,
-                    "title": "硅谷爆火的FDE是AI新风口，还是高级外包？",
-                    "url": "https://juejin.cn/post/7685224015707979826"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
                     "rank": 44,
-                    "title": "ADK for Kotlin：Google 官方 AI Agent 教程来了",
-                    "url": "https://juejin.cn/post/7684533566942134278"
+                    "title": "短剧行业出现大量抄袭， AI 几分钟就能抄出一部剧，月薪几千的原创编剧还有未来吗？",
+                    "url": "https://www.zhihu.com/question/2015730174461747883"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 22,
+                    "title": "ai 大概还要多久就可以取代程序员了?",
+                    "url": "https://www.zhihu.com/question/2038411932424725710"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 10,
+                    "title": "如何理解李博杰开源的《深入理解 AI Agent》？",
+                    "url": "https://www.zhihu.com/question/2082847664274497759"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 9,
+                    "title": "AI正在惩罚用它写作业的中学生",
+                    "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%83%A9%E7%BD%9A%E7%94%A8%E5%AE%83%E5%86%99%E4%BD%9C%E4%B8%9A%E7%9A%84%E4%B8%AD%E5%AD%A6%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 22,
+                    "title": "AI开始预测人类",
+                    "url": "https://www.baidu.com/s?wd=AI%E5%BC%80%E5%A7%8B%E9%A2%84%E6%B5%8B%E4%BA%BA%E7%B1%BB&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 7,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 17,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 19,
+                    "title": "no-ai-slop",
+                    "url": "https://github.com/petergyang/no-ai-slop"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 6,
+                    "title": "OpenMAIC",
+                    "url": "https://github.com/THU-MAIC/OpenMAIC"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 10,
+                    "title": "vorssaint-utils",
+                    "url": "https://github.com/vorssaint/vorssaint-utils"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每月趋势",
+                    "rank": 15,
+                    "title": "ai-memory",
+                    "url": "https://github.com/akitaonrails/ai-memory"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 15,
+                    "title": "lawnchair",
+                    "url": "https://github.com/LawnchairLauncher/lawnchair"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 6,
+                    "title": "no-ai-slop",
+                    "url": "https://github.com/petergyang/no-ai-slop"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 13,
+                    "title": "ai-engineering-from-scratch",
+                    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 4,
+                    "title": "ponytail",
+                    "url": "https://github.com/DietrichGebert/ponytail"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 9,
+                    "title": "Cartesian – AI 3D Modeling for Design",
+                    "url": "https://www.formas.ai/cartesian"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 11,
+                    "title": "Let's make quality the norm again",
+                    "url": "https://www.forbrukerradet.no/short-life/"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 15,
+                    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+                    "url": "https://www.effort.news/irregular"
                 },
                 {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
-                    "rank": 47,
-                    "title": "AI会让程序员失业吗？200年前的手工织工已经给出了答案",
-                    "url": "https://juejin.cn/post/7685276242113019938"
+                    "rank": 6,
+                    "title": "黄仁勋台上接特朗普电话开免提，全场听到一句话：AI 不会减速",
+                    "url": "https://juejin.cn/post/7685320540698361899"
                 },
                 {
                     "channelId": "juejin",
                     "channelName": "掘金",
                     "ranking": "热门文章",
-                    "rank": 49,
-                    "title": "AI Coding UI Patterns：把好设计说清楚！",
-                    "url": "https://juejin.cn/post/7685302724011704347"
+                    "rank": 7,
+                    "title": "Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答",
+                    "url": "https://juejin.cn/post/7684573646438301706"
                 }
             ]
         },
         {
             "word": "没有",
             "weight": 31,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -789,7 +1036,7 @@
         {
             "word": "正式",
             "weight": 24,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -986,9 +1233,503 @@
             ]
         },
         {
+            "word": "US",
+            "weight": 41,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 2,
+                    "title": "曝Claude Opus 5.2开启灰测",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DClaude%20Opus%205.2%E5%BC%80%E5%90%AF%E7%81%B0%E6%B5%8B"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 10,
+                    "title": "UP主实测Claude Opus5.2",
+                    "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BClaude%20Opus5.2"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 4,
+                    "title": "Mindustry",
+                    "url": "https://github.com/Anuken/Mindustry"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 13,
+                    "title": "lx-music-source",
+                    "url": "https://github.com/pdone/lx-music-source"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 1,
+                    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+                    "url": "https://github.com/arnegiacomo/fugleramme"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 16,
+                    "title": "US confirms for first time it has deployed space weapons",
+                    "url": "https://www.bbc.com/news/articles/ck790xg41ygro"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 18,
+                    "title": "Rat and Mouse Gazette: Nursing Care (1996)",
+                    "url": "https://www.rmca.org/Articles/nurse.htm"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 7,
+                    "title": "Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答",
+                    "url": "https://juejin.cn/post/7684573646438301706"
+                },
+                {
+                    "channelId": "lobsters",
+                    "channelName": "Lobsters",
+                    "ranking": "Hottest",
+                    "rank": 7,
+                    "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
+                    "url": "https://www.benjoffe.com/map"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 10,
+                    "title": "美国财长贝森特：《天才法案》（GENIUS Act）的规则制定工作将于 1 月完成。",
+                    "url": "https://finance.sina.com.cn/7x24/2026-09-16/doc-inirxtrn6827659.shtml"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 20,
+                    "title": "GALA VS Gumayusi,2万分局！快速看完一局韩服王者斗殴局#829 Eclipse,",
+                    "url": "https://www.acfun.cn/v/ac48842715"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 33,
+                    "title": "【官方双语】这次还能颠覆市场吗 - Steam Frame评测#linus谈科技",
+                    "url": "https://www.acfun.cn/v/ac48850064"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 44,
+                    "title": "魔兽决定版 新英雄战术持续开发 魔兽争霸xiaoy解说moon focus",
+                    "url": "https://www.acfun.cn/v/ac48848399"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 47,
+                    "title": "雪芙-20260914 No.9 hush 一分一秒",
+                    "url": "https://www.acfun.cn/v/ac48849112"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 10,
+                    "title": "阿莫迪口嗨AI减速，这边Opus 5.2疑似已灰测",
+                    "url": "https://www.36kr.com/p/3984014015092610"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 21,
+                    "title": "突发，Opus 5.2深夜上线，RSI真来了？",
+                    "url": "https://www.36kr.com/p/3984223089867781"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 1,
+                    "title": "How should I handle custom payload in a sparse set?",
+                    "url": "https://stackoverflow.com/questions/80003294/how-should-i-handle-custom-payload-in-a-sparse-set"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 3,
+                    "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
+                    "url": "https://stackoverflow.com/questions/80003283/how-to-compute-a-gradient-column-wise-in-a-pandas-dataframe-using-the-index-as-a"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 11,
+                    "title": "Postgres row-level security leaks across tenants when using a pooled connection",
+                    "url": "https://stackoverflow.com/questions/80003232/postgres-row-level-security-leaks-across-tenants-when-using-a-pooled-connection"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 16,
+                    "title": "How DDD allows to maintain the logic where business rules require two and more domain contexts",
+                    "url": "https://stackoverflow.com/questions/80003242/how-ddd-allows-to-maintain-the-logic-where-business-rules-require-two-and-more-d"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 25,
+                    "title": "How to realize which version of Selenium to use for each Chrome version?",
+                    "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 31,
+                    "title": "Why doesn't Python use a simpler, implied enum syntax?",
+                    "url": "https://stackoverflow.com/questions/80003161/why-doesnt-python-use-a-simpler-implied-enum-syntax"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 32,
+                    "title": "Is it a good practice to manage Tekton Pipeline manifests using Argo CD?",
+                    "url": "https://stackoverflow.com/questions/80003175/is-it-a-good-practice-to-manage-tekton-pipeline-manifests-using-argo-cd"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 36,
+                    "title": "Why does a FLOAT INVERTED index change query results for a filter involving negative zero in Milvus?",
+                    "url": "https://stackoverflow.com/questions/80003165/why-does-a-float-inverted-index-change-query-results-for-a-filter-involving-nega"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 45,
+                    "title": "Is Registered for Android Developer Verification by Sep 30, 2026 warning an indication we missed something or just a note?",
+                    "url": "https://stackoverflow.com/questions/80003113/is-registered-for-android-developer-verification-by-sep-30-2026-warning-an-indi"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 50,
+                    "title": "Google Translate using PHP and cURL",
+                    "url": "https://stackoverflow.com/questions/80003104/google-translate-using-php-and-curl"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "【NQ+TQ】FxTransit US NOVA - Nano 36$/年",
+                    "url": "https://www.nodeseek.com/post-930759-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "晚高峰  ISVORO US.PRO 22￥  vs   VMISS US.LA.TRI.Basic",
+                    "url": "https://www.nodeseek.com/post-930615-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 29,
+                    "title": "【已出】溢价180出US.LA.TRI.Basic",
+                    "url": "https://www.nodeseek.com/post-930740-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 48,
+                    "title": "krak开日区plus试用貌似已经开走了",
+                    "url": "https://www.nodeseek.com/post-930797-1"
+                }
+            ]
+        },
+        {
+            "word": "Pro",
+            "weight": 37,
+            "tone": "teal",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 7,
+                    "title": "「小白」OPPO Find X10 Pro Max 性能实测：天玑9600 Pro调得怎么样？",
+                    "url": "https://b23.tv/BV1PGeE62Efd"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 9,
+                    "title": "天玑9600 Pro前瞻上手：2nm旗舰手机能效如何？",
+                    "url": "https://b23.tv/BV1aoeJ6vEoz"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 30,
+                    "title": "天玑9600 Pro前瞻体验:2nm共研+新架构有多强?",
+                    "url": "https://b23.tv/BV1m2eE6WEyz"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 6,
+                    "title": "OPPO Find X10 Pro Max性能续航实测：2nm天玑9600 Pro量产机是什么水平？",
+                    "url": "https://b23.tv/BV1QCen6AEPR"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 3,
+                    "title": "prompts.chat",
+                    "url": "https://github.com/f/prompts.chat"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 7,
+                    "title": "system_prompts_leaks",
+                    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 3,
+                    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+                    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
+                },
+                {
+                    "channelId": "lobsters",
+                    "channelName": "Lobsters",
+                    "ranking": "Hottest",
+                    "rank": 16,
+                    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+                    "url": "https://codeberg.org/mergiraf/mergiraf"
+                },
+                {
+                    "channelId": "lobsters",
+                    "channelName": "Lobsters",
+                    "ranking": "Hottest",
+                    "rank": 19,
+                    "title": "Why Am I Still Programming",
+                    "url": "https://www.youtube.com/watch?v=pOAj3mor8y8"
+                },
+                {
+                    "channelId": "lobsters",
+                    "channelName": "Lobsters",
+                    "ranking": "Hottest",
+                    "rank": 20,
+                    "title": "Anecdotally, programmers dislike \"reduce\"",
+                    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
+                },
+                {
+                    "channelId": "lobsters",
+                    "channelName": "Lobsters",
+                    "ranking": "Hottest",
+                    "rank": 13,
+                    "title": "Performance Improvements in .NET 11",
+                    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 21,
+                    "title": "苹果回应iPhone 18 Pro破发",
+                    "url": "https://www.toutiao.com/trending/7684654232915804202/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684654232915804202%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone+18+Pro%E7%A0%B4%E5%8F%91%22%7D&rank=&style_id=40132&topic_id=7684654232915804202"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 21,
+                    "title": "苹果回应iPhone 18 Pro破发",
+                    "url": "https://www.toutiao.com/trending/7684654232915804202/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684654232915804202%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone+18+Pro%E7%A0%B4%E5%8F%91%22%7D&rank=&style_id=40132&topic_id=7684654232915804202"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 21,
+                    "title": "苹果回应iPhone 18 Pro破发",
+                    "url": "https://www.toutiao.com/trending/7684654232915804202/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684654232915804202%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone+18+Pro%E7%A0%B4%E5%8F%91%22%7D&rank=&style_id=40132&topic_id=7684654232915804202"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "财经热榜",
+                    "rank": 6,
+                    "title": "iPhone 18 Pro上市即破发！苹果客服：警惕风险",
+                    "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-15/doc-inirwfqe6902674.shtml"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "三日榜",
+                    "rank": 34,
+                    "title": "【补档4K】麒麟9050 Pro能效实测！华为Mate XT2性能有多强？_2160p60",
+                    "url": "https://www.acfun.cn/v/ac48847776"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 28,
+                    "title": "卢伟冰称“史上最大升级”，官宣小米18 Pro本月迎战苹果",
+                    "url": "https://www.36kr.com/p/3984289450432384"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 2,
+                    "title": "What is the difference between MiniProfiler's request duration and action duration?",
+                    "url": "https://stackoverflow.com/questions/80003281/what-is-the-difference-between-miniprofilers-request-duration-and-action-durati"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 8,
+                    "title": "Revit Design Automation: OperationCanceledException \"Opening was canceled\" after hundreds of \"Space is not in a properly enclosed region\" warnings",
+                    "url": "https://stackoverflow.com/questions/80003262/revit-design-automation-operationcanceledexception-opening-was-canceled-after"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 12,
+                    "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
+                    "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 15,
+                    "title": "If A *happens-before* B in an execution, could that execution be produced by B occurring an hour before A?",
+                    "url": "https://stackoverflow.com/questions/80003154/if-a-happens-before-b-in-an-execution-could-that-execution-be-produced-by-b-o"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 20,
+                    "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
+                    "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 24,
+                    "title": "Why is Err.Clear not automatically called when Exit Function is executed in a VBA procedure?",
+                    "url": "https://stackoverflow.com/questions/80003230/why-is-err-clear-not-automatically-called-when-exit-function-is-executed-in-a-vb"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 35,
+                    "title": "How to check proximity between two ESP32's",
+                    "url": "https://stackoverflow.com/questions/80003166/how-to-check-proximity-between-two-esp32s"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 42,
+                    "title": "I need help choosing file dialog library for C++ ImGui project",
+                    "url": "https://stackoverflow.com/questions/80003052/i-need-help-choosing-file-dialog-library-for-c-imgui-project"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 2,
+                    "title": "How to properly return specific error in Go",
+                    "url": "https://stackoverflow.com/questions/80003313/how-to-properly-return-specific-error-in-go"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "晚高峰  ISVORO US.PRO 22￥  vs   VMISS US.LA.TRI.Basic",
+                    "url": "https://www.nodeseek.com/post-930615-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 16,
+                    "title": "dmit pro.wee 收目前是是什么价？",
+                    "url": "https://www.nodeseek.com/post-930791-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 17,
+                    "title": "正价开的pro 20x被封了还能申述refund吗？",
+                    "url": "https://www.nodeseek.com/post-928288-1"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 43,
+                    "title": "2nm旗舰手机Soc-联发科天玑9600Pro",
+                    "url": "https://www.nodeseek.com/post-930780-1"
+                }
+            ]
+        },
+        {
             "word": "手机",
             "weight": 26,
-            "tone": "",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1235,7 +1976,7 @@
         {
             "word": "日本",
             "weight": 23,
-            "tone": "hot",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1458,7 +2199,7 @@
         {
             "word": "苹果",
             "weight": 16,
-            "tone": "teal",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -1609,7 +2350,7 @@
         {
             "word": "全球",
             "weight": 15,
-            "tone": "gold",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -1742,503 +2483,9 @@
             ]
         },
         {
-            "word": "US",
-            "weight": 36,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 2,
-                    "title": "曝Claude Opus 5.2开启灰测",
-                    "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DClaude%20Opus%205.2%E5%BC%80%E5%90%AF%E7%81%B0%E6%B5%8B"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 10,
-                    "title": "UP主实测Claude Opus5.2",
-                    "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BClaude%20Opus5.2"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 7,
-                    "title": "Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答",
-                    "url": "https://juejin.cn/post/7684573646438301706"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 7,
-                    "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
-                    "url": "https://www.benjoffe.com/map"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 10,
-                    "title": "美国财长贝森特：《天才法案》（GENIUS Act）的规则制定工作将于 1 月完成。",
-                    "url": "https://finance.sina.com.cn/7x24/2026-09-16/doc-inirxtrn6827659.shtml"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 20,
-                    "title": "GALA VS Gumayusi,2万分局！快速看完一局韩服王者斗殴局#829 Eclipse,",
-                    "url": "https://www.acfun.cn/v/ac48842715"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 33,
-                    "title": "【官方双语】这次还能颠覆市场吗 - Steam Frame评测#linus谈科技",
-                    "url": "https://www.acfun.cn/v/ac48850064"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 44,
-                    "title": "魔兽决定版 新英雄战术持续开发 魔兽争霸xiaoy解说moon focus",
-                    "url": "https://www.acfun.cn/v/ac48848399"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 47,
-                    "title": "雪芙-20260914 No.9 hush 一分一秒",
-                    "url": "https://www.acfun.cn/v/ac48849112"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 10,
-                    "title": "阿莫迪口嗨AI减速，这边Opus 5.2疑似已灰测",
-                    "url": "https://www.36kr.com/p/3984014015092610"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 21,
-                    "title": "突发，Opus 5.2深夜上线，RSI真来了？",
-                    "url": "https://www.36kr.com/p/3984223089867781"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 1,
-                    "title": "How should I handle custom payload in a sparse set?",
-                    "url": "https://stackoverflow.com/questions/80003294/how-should-i-handle-custom-payload-in-a-sparse-set"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 3,
-                    "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
-                    "url": "https://stackoverflow.com/questions/80003283/how-to-compute-a-gradient-column-wise-in-a-pandas-dataframe-using-the-index-as-a"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 11,
-                    "title": "Postgres row-level security leaks across tenants when using a pooled connection",
-                    "url": "https://stackoverflow.com/questions/80003232/postgres-row-level-security-leaks-across-tenants-when-using-a-pooled-connection"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 16,
-                    "title": "How DDD allows to maintain the logic where business rules require two and more domain contexts",
-                    "url": "https://stackoverflow.com/questions/80003242/how-ddd-allows-to-maintain-the-logic-where-business-rules-require-two-and-more-d"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 25,
-                    "title": "How to realize which version of Selenium to use for each Chrome version?",
-                    "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 31,
-                    "title": "Why doesn't Python use a simpler, implied enum syntax?",
-                    "url": "https://stackoverflow.com/questions/80003161/why-doesnt-python-use-a-simpler-implied-enum-syntax"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 32,
-                    "title": "Is it a good practice to manage Tekton Pipeline manifests using Argo CD?",
-                    "url": "https://stackoverflow.com/questions/80003175/is-it-a-good-practice-to-manage-tekton-pipeline-manifests-using-argo-cd"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 36,
-                    "title": "Why does a FLOAT INVERTED index change query results for a filter involving negative zero in Milvus?",
-                    "url": "https://stackoverflow.com/questions/80003165/why-does-a-float-inverted-index-change-query-results-for-a-filter-involving-nega"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 45,
-                    "title": "Is Registered for Android Developer Verification by Sep 30, 2026 warning an indication we missed something or just a note?",
-                    "url": "https://stackoverflow.com/questions/80003113/is-registered-for-android-developer-verification-by-sep-30-2026-warning-an-indi"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 50,
-                    "title": "Google Translate using PHP and cURL",
-                    "url": "https://stackoverflow.com/questions/80003104/google-translate-using-php-and-curl"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 2,
-                    "title": "【NQ+TQ】FxTransit US NOVA - Nano 36$/年",
-                    "url": "https://www.nodeseek.com/post-930759-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 5,
-                    "title": "晚高峰  ISVORO US.PRO 22￥  vs   VMISS US.LA.TRI.Basic",
-                    "url": "https://www.nodeseek.com/post-930615-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 29,
-                    "title": "【已出】溢价180出US.LA.TRI.Basic",
-                    "url": "https://www.nodeseek.com/post-930740-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 48,
-                    "title": "krak开日区plus试用貌似已经开走了",
-                    "url": "https://www.nodeseek.com/post-930797-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 31,
-                    "title": "shlii 的 USA- Frontier 动态家宽出问题了",
-                    "url": "https://www.nodeseek.com/post-930694-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 34,
-                    "title": "VMISS - US.LA.9929.Basic 补货",
-                    "url": "https://www.nodeseek.com/post-929737-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 44,
-                    "title": "[溢价180出] VMISS.US.LA.TRI.Basic 9折年付45CAD",
-                    "url": "https://www.nodeseek.com/post-930500-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 16,
-                    "title": "【出🐔】 100出 面包云Breadcloud US 12刀年付原油+ JP18刀年付Root",
-                    "url": "https://www.nodeseek.com/post-930893-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 34,
-                    "title": "【NQ留档】BageVM Japan Standard - TINY $53.24 USD/y",
-                    "url": "https://www.nodeseek.com/post-930864-1"
-                }
-            ]
-        },
-        {
-            "word": "Pro",
-            "weight": 34,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 7,
-                    "title": "「小白」OPPO Find X10 Pro Max 性能实测：天玑9600 Pro调得怎么样？",
-                    "url": "https://b23.tv/BV1PGeE62Efd"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 9,
-                    "title": "天玑9600 Pro前瞻上手：2nm旗舰手机能效如何？",
-                    "url": "https://b23.tv/BV1aoeJ6vEoz"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 30,
-                    "title": "天玑9600 Pro前瞻体验:2nm共研+新架构有多强?",
-                    "url": "https://b23.tv/BV1m2eE6WEyz"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 6,
-                    "title": "OPPO Find X10 Pro Max性能续航实测：2nm天玑9600 Pro量产机是什么水平？",
-                    "url": "https://b23.tv/BV1QCen6AEPR"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 16,
-                    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
-                    "url": "https://codeberg.org/mergiraf/mergiraf"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 19,
-                    "title": "Why Am I Still Programming",
-                    "url": "https://www.youtube.com/watch?v=pOAj3mor8y8"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 20,
-                    "title": "Anecdotally, programmers dislike \"reduce\"",
-                    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 13,
-                    "title": "Performance Improvements in .NET 11",
-                    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 21,
-                    "title": "苹果回应iPhone 18 Pro破发",
-                    "url": "https://www.toutiao.com/trending/7684654232915804202/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684654232915804202%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone+18+Pro%E7%A0%B4%E5%8F%91%22%7D&rank=&style_id=40132&topic_id=7684654232915804202"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 21,
-                    "title": "苹果回应iPhone 18 Pro破发",
-                    "url": "https://www.toutiao.com/trending/7684654232915804202/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684654232915804202%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone+18+Pro%E7%A0%B4%E5%8F%91%22%7D&rank=&style_id=40132&topic_id=7684654232915804202"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 21,
-                    "title": "苹果回应iPhone 18 Pro破发",
-                    "url": "https://www.toutiao.com/trending/7684654232915804202/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684654232915804202%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone+18+Pro%E7%A0%B4%E5%8F%91%22%7D&rank=&style_id=40132&topic_id=7684654232915804202"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "财经热榜",
-                    "rank": 6,
-                    "title": "iPhone 18 Pro上市即破发！苹果客服：警惕风险",
-                    "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-15/doc-inirwfqe6902674.shtml"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 34,
-                    "title": "【补档4K】麒麟9050 Pro能效实测！华为Mate XT2性能有多强？_2160p60",
-                    "url": "https://www.acfun.cn/v/ac48847776"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 28,
-                    "title": "卢伟冰称“史上最大升级”，官宣小米18 Pro本月迎战苹果",
-                    "url": "https://www.36kr.com/p/3984289450432384"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "What is the difference between MiniProfiler's request duration and action duration?",
-                    "url": "https://stackoverflow.com/questions/80003281/what-is-the-difference-between-miniprofilers-request-duration-and-action-durati"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 8,
-                    "title": "Revit Design Automation: OperationCanceledException \"Opening was canceled\" after hundreds of \"Space is not in a properly enclosed region\" warnings",
-                    "url": "https://stackoverflow.com/questions/80003262/revit-design-automation-operationcanceledexception-opening-was-canceled-after"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 12,
-                    "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
-                    "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 15,
-                    "title": "If A *happens-before* B in an execution, could that execution be produced by B occurring an hour before A?",
-                    "url": "https://stackoverflow.com/questions/80003154/if-a-happens-before-b-in-an-execution-could-that-execution-be-produced-by-b-o"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 20,
-                    "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
-                    "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 24,
-                    "title": "Why is Err.Clear not automatically called when Exit Function is executed in a VBA procedure?",
-                    "url": "https://stackoverflow.com/questions/80003230/why-is-err-clear-not-automatically-called-when-exit-function-is-executed-in-a-vb"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 35,
-                    "title": "How to check proximity between two ESP32's",
-                    "url": "https://stackoverflow.com/questions/80003166/how-to-check-proximity-between-two-esp32s"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 42,
-                    "title": "I need help choosing file dialog library for C++ ImGui project",
-                    "url": "https://stackoverflow.com/questions/80003052/i-need-help-choosing-file-dialog-library-for-c-imgui-project"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 2,
-                    "title": "How to properly return specific error in Go",
-                    "url": "https://stackoverflow.com/questions/80003313/how-to-properly-return-specific-error-in-go"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 5,
-                    "title": "晚高峰  ISVORO US.PRO 22￥  vs   VMISS US.LA.TRI.Basic",
-                    "url": "https://www.nodeseek.com/post-930615-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 16,
-                    "title": "dmit pro.wee 收目前是是什么价？",
-                    "url": "https://www.nodeseek.com/post-930791-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 17,
-                    "title": "正价开的pro 20x被封了还能申述refund吗？",
-                    "url": "https://www.nodeseek.com/post-928288-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 43,
-                    "title": "2nm旗舰手机Soc-联发科天玑9600Pro",
-                    "url": "https://www.nodeseek.com/post-930780-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 28,
-                    "title": "「已出」DMIT LAX.AS3.Pro.TINY",
-                    "url": "https://www.nodeseek.com/post-927940-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 33,
-                    "title": "收台 DMIT TYO.AS3.Pro",
-                    "url": "https://www.nodeseek.com/post-927988-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "【测试留档】ISvoro PRO Mini 三网优化",
-                    "url": "https://www.nodeseek.com/post-930819-1"
-                }
-            ]
-        },
-        {
             "word": "支持",
             "weight": 15,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2381,7 +2628,7 @@
         {
             "word": "iPhone",
             "weight": 14,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -2516,7 +2763,7 @@
         {
             "word": "iOS",
             "weight": 15,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2659,7 +2906,7 @@
         {
             "word": "特朗普",
             "weight": 14,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -2786,7 +3033,7 @@
         {
             "word": "女子",
             "weight": 12,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2897,7 +3144,7 @@
         {
             "word": "华为",
             "weight": 9,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2976,7 +3223,7 @@
         {
             "word": "太空",
             "weight": 9,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -3071,7 +3318,7 @@
         {
             "word": "公司",
             "weight": 19,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -3230,7 +3477,7 @@
         {
             "word": "美国",
             "weight": 17,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3389,7 +3636,7 @@
         {
             "word": "男子",
             "weight": 16,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3540,7 +3787,7 @@
         {
             "word": "体验",
             "weight": 12,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3643,7 +3890,7 @@
         {
             "word": "科技",
             "weight": 12,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3746,7 +3993,7 @@
         {
             "word": "亚运会",
             "weight": 11,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -3865,7 +4112,7 @@
         {
             "word": "DeepSeek",
             "weight": 10,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -3968,7 +4215,7 @@
         {
             "word": "离世",
             "weight": 7,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -4039,7 +4286,7 @@
         {
             "word": "到底",
             "weight": 13,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -4150,7 +4397,7 @@
         {
             "word": "vs",
             "weight": 12,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4253,7 +4500,7 @@
         {
             "word": "模型",
             "weight": 11,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -4348,7 +4595,7 @@
         {
             "word": "深夜",
             "weight": 9,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -4427,7 +4674,7 @@
         {
             "word": "举报",
             "weight": 8,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4498,7 +4745,7 @@
         {
             "word": "复活",
             "weight": 8,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -4593,7 +4840,7 @@
         {
             "word": "中秋",
             "weight": 7,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4656,7 +4903,7 @@
         {
             "word": "官宣",
             "weight": 7,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4727,7 +4974,7 @@
         {
             "word": "黄仁勋",
             "weight": 6,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4798,7 +5045,7 @@
         {
             "word": "平陆",
             "weight": 6,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4851,9 +5098,224 @@
             ]
         },
         {
+            "word": "Agent",
+            "weight": 24,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热榜",
+                    "rank": 10,
+                    "title": "如何理解李博杰开源的《深入理解 AI Agent》？",
+                    "url": "https://www.zhihu.com/question/2082847664274497759"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每日趋势",
+                    "rank": 12,
+                    "title": "agent-skills",
+                    "url": "https://github.com/addyosmani/agent-skills"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "每周趋势",
+                    "rank": 16,
+                    "title": "TradingAgents",
+                    "url": "https://github.com/TauricResearch/TradingAgents"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 7,
+                    "title": "astron-agent",
+                    "url": "https://github.com/iflytek/astron-agent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Java",
+                    "rank": 13,
+                    "title": "agentscope-java",
+                    "url": "https://github.com/agentscope-ai/agentscope-java"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 5,
+                    "title": "TradingAgents",
+                    "url": "https://github.com/TauricResearch/TradingAgents"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 10,
+                    "title": "Agent-Reach",
+                    "url": "https://github.com/Panniantong/Agent-Reach"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Python",
+                    "rank": 15,
+                    "title": "MathModelAgent",
+                    "url": "https://github.com/jihe520/MathModelAgent"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "Go",
+                    "rank": 7,
+                    "title": "agent-sandbox",
+                    "url": "https://github.com/kubernetes-sigs/agent-sandbox"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "HTML",
+                    "rank": 13,
+                    "title": "simulink-agentic-toolkit",
+                    "url": "https://github.com/matlab/simulink-agentic-toolkit"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 9,
+                    "title": "ux-ui-agent-skills",
+                    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+                },
+                {
+                    "channelId": "github",
+                    "channelName": "GitHub",
+                    "ranking": "JavaScript",
+                    "rank": 14,
+                    "title": "agent-skills",
+                    "url": "https://github.com/addyosmani/agent-skills"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 16,
+                    "title": "AgentLoop: 从 while(true) 到生产级循环",
+                    "url": "https://juejin.cn/post/7684795356321775626"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 32,
+                    "title": "Agent 的控制权，为什么正在回到模型手里？",
+                    "url": "https://juejin.cn/post/7684900473053954094"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 36,
+                    "title": "Worktrunk: 面向并行 AI Agent 工作流的 Git Worktree 管理 CLI",
+                    "url": "https://juejin.cn/post/7684507874422751283"
+                },
+                {
+                    "channelId": "juejin",
+                    "channelName": "掘金",
+                    "ranking": "热门文章",
+                    "rank": 44,
+                    "title": "ADK for Kotlin：Google 官方 AI Agent 教程来了",
+                    "url": "https://juejin.cn/post/7684533566942134278"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 2,
+                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1284)",
+                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 2,
+                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1287)",
+                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
+                },
+                {
+                    "channelId": "cnblogs",
+                    "channelName": "博客园",
+                    "ranking": "24 小时推荐排行",
+                    "rank": 2,
+                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1288)",
+                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "爱范儿",
+                    "rank": 3,
+                    "title": "豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群",
+                    "url": "https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign="
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 2,
+                    "title": "Agent开始调用基础设施，Kubernetes准备好了吗？",
+                    "url": "https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 3,
+                    "title": "飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT",
+                    "url": "https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 4,
+                    "title": "支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎",
+                    "url": "https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "InfoQ",
+                    "rank": 5,
+                    "title": "QQ 飞车 Agentic 研发转型过程中的Loop Engineering",
+                    "url": "https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "MIT Technology Review",
+                    "rank": 1,
+                    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+                    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "AI News",
+                    "rank": 4,
+                    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+                    "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/"
+                }
+            ]
+        },
+        {
             "word": "兰香",
             "weight": 15,
-            "tone": "gold",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -4980,7 +5442,7 @@
         {
             "word": "如故",
             "weight": 15,
-            "tone": "",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5107,7 +5569,7 @@
         {
             "word": "NET",
             "weight": 10,
-            "tone": "hot",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "lobsters",
@@ -5194,7 +5656,7 @@
         {
             "word": "哪些",
             "weight": 10,
-            "tone": "teal",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -5277,173 +5739,15 @@
                     "url": "https://www.nodeseek.com/post-930812-1"
                 }
             ]
-        },
-        {
-            "word": "罗永浩",
-            "weight": 9,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 9,
-                    "title": "罗永浩为钟薛高发声",
-                    "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E4%B8%BA%E9%92%9F%E8%96%9B%E9%AB%98%E5%8F%91%E5%A3%B0&Refer=index"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 48,
-                    "title": "罗永浩曝钟薛高爱买不买是恶意剪辑",
-                    "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%9B%9D%E9%92%9F%E8%96%9B%E9%AB%98%E7%88%B1%E4%B9%B0%E4%B8%8D%E4%B9%B0%E6%98%AF%E6%81%B6%E6%84%8F%E5%89%AA%E8%BE%91&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 21,
-                    "title": "罗永浩吐槽iphoneduo多处抄袭",
-                    "url": "https://www.zhihu.com/search?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BDiphoneduo%E5%A4%9A%E5%A4%84%E6%8A%84%E8%A2%AD"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 41,
-                    "title": "黄斌说早期罗永浩在日本街头吃个面都激动到掐大腿，现在罗永浩在国内说野人先生难吃，说这个难吃那个难吃，我觉得他就是拿大V人设压人，自败人品。现实中当面吐槽没问题，可发到网上，几百万粉丝看着，性质就变了…",
-                    "url": "https://bbs.hupu.com/642427638.html"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 8,
-                    "title": "罗永浩，成了所有公关的 “试金石”？",
-                    "url": "https://www.36kr.com/p/3983882366581512"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 20,
-                    "title": "回答罗永浩：野人先生是这么火起来的",
-                    "url": "https://www.36kr.com/p/3983904878345216"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 32,
-                    "title": "罗永浩可能是所有品牌公关的“恩人”",
-                    "url": "https://www.36kr.com/p/3983963848758917"
-                },
-                {
-                    "channelId": "36kr",
-                    "channelName": "36氪",
-                    "ranking": "热榜",
-                    "rank": 40,
-                    "title": "从罗永浩两度点评品牌，看网红消费品牌的舆情必修课",
-                    "url": "https://www.36kr.com/p/3984146993976960"
-                },
-                {
-                    "channelId": "tieba",
-                    "channelName": "百度贴吧",
-                    "ranking": "最有料热点",
-                    "rank": 26,
-                    "title": "罗永浩炮轰野人先生惨遭无视",
-                    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364133&topic_name=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%82%AE%E8%BD%B0%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E6%83%A8%E9%81%AD%E6%97%A0%E8%A7%86"
-                }
-            ]
-        },
-        {
-            "word": "优化",
-            "weight": 9,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 19,
-                    "title": "Android性能优化：启动、内存、卡顿的一站式排查手册",
-                    "url": "https://juejin.cn/post/7684943124759068682"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 6,
-                    "title": "9月15日，国家发展改革委主任郑栅洁主持召开民营企业座谈会，围绕优化发展环境、拓展投资空间听取意见建议。来自电气设备、算力基础设施、文化旅游服务、养老服务 ...",
-                    "url": "http://news.10jqka.com.cn/20260916/c679940308.shtml"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 12,
-                    "title": "Lite 2.3.3 更新（Komari 分支优化版）：远程控制首发支持 MCP 代理，让 AI 帮你运维管理小鸡",
-                    "url": "https://www.nodeseek.com/post-930703-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 23,
-                    "title": "这两天为啥没人出hk优化小水管了？",
-                    "url": "https://www.nodeseek.com/post-930802-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 23,
-                    "title": "兄弟们,vmiss 9929,cmin2,cn2,三网优化大量补货,想要的冲啊",
-                    "url": "https://www.nodeseek.com/post-929729-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 37,
-                    "title": "MatrixIDC 圣何塞 4837 优化 活动款 11.28",
-                    "url": "https://www.nodeseek.com/post-930846-1"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 39,
-                    "title": "【测试留档】ISvoro PRO Mini 三网优化",
-                    "url": "https://www.nodeseek.com/post-930819-1"
-                },
-                {
-                    "channelId": "pojie52",
-                    "channelName": "吾爱破解",
-                    "ranking": "热门热帖",
-                    "rank": 16,
-                    "title": "Windows 极限优化助手 2.11",
-                    "url": "https://www.52pojie.cn/thread-2126667-1-1.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "少数派",
-                    "rank": 2,
-                    "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
-                    "url": "https://sspai.com/post/114565"
-                }
-            ]
         }
     ],
     "flow": {
         "times": [
             "00:22",
             "00:31",
-            "01:18",
             "01:19",
-            "02:24"
+            "02:23",
+            "02:32"
         ],
         "rows": [
             {
@@ -5823,6 +6127,33 @@
                 "delta": null
             },
             {
+                "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+                "source": "跨渠道",
+                "url": "https://bkovac.github.io/modem-thing/",
+                "query": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+                "hits": [
+                    {
+                        "channelId": "lobsters",
+                        "channelName": "Lobsters",
+                        "ranking": "Hottest",
+                        "rank": 8,
+                        "title": "Converting a $20 4G wireless hotspot into a texting device",
+                        "url": "https://bkovac.github.io/modem-thing/"
+                    },
+                    {
+                        "channelId": "hackernews",
+                        "channelName": "Hacker News",
+                        "ranking": "Top Stories",
+                        "rank": 7,
+                        "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+                        "url": "https://bkovac.github.io/modem-thing/"
+                    }
+                ],
+                "currentRank": 7,
+                "previousRank": null,
+                "delta": null
+            },
+            {
                 "title": "七旬老太入冰棺1天睁眼复活",
                 "source": "跨渠道",
                 "url": "https://s.weibo.com/weibo?q=%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E5%85%A5%E5%86%B0%E6%A3%BA1%E5%A4%A9%E7%9D%81%E7%9C%BC%E5%A4%8D%E6%B4%BB&Refer=index",
@@ -5845,7 +6176,7 @@
                         "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E5%85%A5%E5%86%B0%E6%A3%BA%E5%90%8E%E5%8F%88%E7%9D%81%E7%9C%BC%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
                     }
                 ],
-                "currentRank": 7,
+                "currentRank": 8,
                 "previousRank": null,
                 "delta": null
             },
@@ -5872,7 +6203,7 @@
                         "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%8F%B8%E6%B3%95%E9%89%B4%E5%AE%9A%E4%B8%AD%E5%BF%83%E8%A2%AB%E5%A4%84%E7%BD%9A&Refer=index"
                     }
                 ],
-                "currentRank": 8,
+                "currentRank": 9,
                 "previousRank": null,
                 "delta": null
             },
@@ -5897,33 +6228,6 @@
                         "rank": 4,
                         "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
                         "url": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign="
-                    }
-                ],
-                "currentRank": 9,
-                "previousRank": null,
-                "delta": null
-            },
-            {
-                "title": "苹果CEO展示iPhoneDuo时翻车",
-                "source": "跨渠道",
-                "url": "https://www.kuaishou.com/short-video/3xy76cry5en46e4",
-                "query": "苹果CEO展示iPhoneDuo时翻车",
-                "hits": [
-                    {
-                        "channelId": "kuaishou",
-                        "channelName": "快手",
-                        "ranking": "快手热榜",
-                        "rank": 12,
-                        "title": "苹果CEO展示iPhoneDuo时翻车",
-                        "url": "https://www.kuaishou.com/short-video/3xy76cry5en46e4"
-                    },
-                    {
-                        "channelId": "weibo",
-                        "channelName": "微博",
-                        "ranking": "微博热榜",
-                        "rank": 25,
-                        "title": "苹果CEO展示iPhoneDuo时翻车",
-                        "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CCEO%E5%B1%95%E7%A4%BAiPhoneDuo%E6%97%B6%E7%BF%BB%E8%BD%A6&Refer=index"
                     }
                 ],
                 "currentRank": 10,

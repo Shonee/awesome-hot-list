@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-15 19:28:47
+> 更新时间：2026-09-16 02:32:45
 
 ## 每日趋势
 
@@ -61,9 +61,8 @@
 13. [modular](https://github.com/modular/modular)
 14. [vphone-cli](https://github.com/Lakr233/vphone-cli)
 15. [ai-memory](https://github.com/akitaonrails/ai-memory)
-16. [linkedin-skills](https://github.com/sergebulaev/linkedin-skills)
-17. [maka](https://github.com/apache/maka)
-18. [timesfm](https://github.com/google-research/timesfm)
+16. [maka](https://github.com/apache/maka)
+17. [timesfm](https://github.com/google-research/timesfm)
 
 ## Java
 
@@ -104,14 +103,13 @@
 10. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 11. [Claude-Red](https://github.com/SnailSploit/Claude-Red)
 12. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-13. [linkedin-skills](https://github.com/sergebulaev/linkedin-skills)
-14. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-15. [blender-mcp](https://github.com/ahujasid/blender-mcp)
-16. [MathModelAgent](https://github.com/jihe520/MathModelAgent)
-17. [open-webui](https://github.com/open-webui/open-webui)
-18. [douyin-downloader](https://github.com/jiji262/douyin-downloader)
-19. [core](https://github.com/home-assistant/core)
-20. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+13. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+14. [blender-mcp](https://github.com/ahujasid/blender-mcp)
+15. [MathModelAgent](https://github.com/jihe520/MathModelAgent)
+16. [open-webui](https://github.com/open-webui/open-webui)
+17. [douyin-downloader](https://github.com/jiji262/douyin-downloader)
+18. [core](https://github.com/home-assistant/core)
+19. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
 ## Go
 
@@ -123,16 +121,15 @@
 6. [argo-cd](https://github.com/argoproj/argo-cd)
 7. [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
 8. [fzf](https://github.com/junegunn/fzf)
-9. [dozzle](https://github.com/amir20/dozzle)
-10. [navidrome](https://github.com/navidrome/navidrome)
-11. [engram](https://github.com/Gentleman-Programming/engram)
-12. [bifrost](https://github.com/maximhq/bifrost)
-13. [helm](https://github.com/helm/helm)
-14. [ollama](https://github.com/ollama/ollama)
-15. [dagu](https://github.com/dagucloud/dagu)
-16. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
-17. [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-18. [nomad](https://github.com/hashicorp/nomad)
+9. [navidrome](https://github.com/navidrome/navidrome)
+10. [engram](https://github.com/Gentleman-Programming/engram)
+11. [bifrost](https://github.com/maximhq/bifrost)
+12. [helm](https://github.com/helm/helm)
+13. [ollama](https://github.com/ollama/ollama)
+14. [dagu](https://github.com/dagucloud/dagu)
+15. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+16. [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+17. [nomad](https://github.com/hashicorp/nomad)
 
 ## HTML
 
