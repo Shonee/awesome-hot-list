@@ -1,25 +1,25 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-16 03:18:56
+> 更新时间：2026-09-16 04:21:44
 
 ## 热门热帖
 
-1. [截图工具 Shotera v7.4.2](https://www.52pojie.cn/thread-2127441-1-1.html)
-2. [Windows 网络快速切换工具](https://www.52pojie.cn/thread-2127831-1-1.html)
-3. [【原创游戏】像素火线：末日突围 v0.1 — 单文件绿色版 ·支持 4 人局域网联机](https://www.52pojie.cn/thread-2127948-1-1.html)
-4. [【更新】图片转换王V 1.06 支持【Al、PSD、PSB、PDF、RAW等格式】](https://www.52pojie.cn/thread-2127837-1-1.html)
-5. [格式转换工具 FlyingMouse Format v0.6.5](https://www.52pojie.cn/thread-2127841-1-1.html)
-6. [截图工具 PixPin 3.5.5.1  便携正式版](https://www.52pojie.cn/thread-2127743-1-1.html)
-7. [WinRAR 7.30 beta1_x64 简体中文汉化版](https://www.52pojie.cn/thread-2127514-1-1.html)
-8. [TranslucentTB（任务栏透明工具）v2026.2 绿色便携版](https://www.52pojie.cn/thread-2127403-1-1.html)
-9. [文本转语音工具edge-tts-gui v0.16.2](https://www.52pojie.cn/thread-2127805-1-1.html)
-10. [短视频无水印解析下载 v1.0.0](https://www.52pojie.cn/thread-2126862-1-1.html)
-11. [小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2](https://www.52pojie.cn/thread-2126541-1-1.html)
-12. [Android加固工具 V10.0.0](https://www.52pojie.cn/thread-2126036-1-1.html)
-13. [测量工具 X  4.3.0](https://www.52pojie.cn/thread-2127727-1-1.html)
-14. [Markdown编辑器 HorseMD v0.13.187](https://www.52pojie.cn/thread-2126073-1-1.html)
-15. [超级教师Super Teacher 1.2.19](https://www.52pojie.cn/thread-2126248-1-1.html)
-16. [数据光盘刻录工具 v1.0.0：支持 CD/DVD 多次追加、读取已有内容和刻录校验](https://www.52pojie.cn/thread-2127262-1-1.html)
+1. [数据光盘刻录工具 v1.0.0：支持 CD/DVD 多次追加、读取已有内容和刻录校验](https://www.52pojie.cn/thread-2127262-1-1.html)
+2. [【更新】图片转换王V 1.06 支持【Al、PSD、PSB、PDF、RAW等格式】](https://www.52pojie.cn/thread-2127837-1-1.html)
+3. [格式转换工具 FlyingMouse Format v0.6.5](https://www.52pojie.cn/thread-2127841-1-1.html)
+4. [截图工具 Shotera v7.4.2](https://www.52pojie.cn/thread-2127441-1-1.html)
+5. [Windows 网络快速切换工具](https://www.52pojie.cn/thread-2127831-1-1.html)
+6. [【原创游戏】像素火线：末日突围 v0.1 — 单文件绿色版 ·支持 4 人局域网联机](https://www.52pojie.cn/thread-2127948-1-1.html)
+7. [截图工具 PixPin 3.5.5.1  便携正式版](https://www.52pojie.cn/thread-2127743-1-1.html)
+8. [WinRAR 7.30 beta1_x64 简体中文汉化版](https://www.52pojie.cn/thread-2127514-1-1.html)
+9. [TranslucentTB（任务栏透明工具）v2026.2 绿色便携版](https://www.52pojie.cn/thread-2127403-1-1.html)
+10. [文本转语音工具edge-tts-gui v0.16.2](https://www.52pojie.cn/thread-2127805-1-1.html)
+11. [短视频无水印解析下载 v1.0.0](https://www.52pojie.cn/thread-2126862-1-1.html)
+12. [小学、初中、高中电子课本下载工具 tchMaterial-parser v4.2](https://www.52pojie.cn/thread-2126541-1-1.html)
+13. [Android加固工具 V10.0.0](https://www.52pojie.cn/thread-2126036-1-1.html)
+14. [测量工具 X  4.3.0](https://www.52pojie.cn/thread-2127727-1-1.html)
+15. [Markdown编辑器 HorseMD v0.13.187](https://www.52pojie.cn/thread-2126073-1-1.html)
+16. [超级教师Super Teacher 1.2.19](https://www.52pojie.cn/thread-2126248-1-1.html)
 17. [震撼发布：ZXC自动浏览器V0.1版本（市面上没有任何相关竞品，适配vue等所有框架）](https://www.52pojie.cn/thread-2127312-1-1.html)
 18. [Windows 极限优化助手 2.11](https://www.52pojie.cn/thread-2126667-1-1.html)
 19. [NetBlocker - 进程断网工具（路由黑洞+防火墙拦截）](https://www.52pojie.cn/thread-2127139-1-1.html)
