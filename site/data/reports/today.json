@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-16",
-    "generatedAt": "2026-09-16 04:22:10",
-    "summary": "不良信息一键举报 共建清朗网络空间成为本期综合热度最高的话题，我国人口总量14.05亿紧随其后。当前覆盖 33 个有效渠道，共形成 209 个榜单时间切片；发现 34 个跨渠道重复热点。",
+    "generatedAt": "2026-09-16 04:29:15",
+    "summary": "不良信息一键举报 共建清朗网络空间成为本期综合热度最高的话题，我国人口总量14.05亿紧随其后。当前覆盖 33 个有效渠道，共形成 212 个榜单时间切片；发现 36 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 1954,
-        "resonance": 34,
+        "deduplicated": 1978,
+        "resonance": 36,
         "maxRise": 38,
-        "slices": 209,
+        "slices": 212,
         "coverage": 100,
-        "samplingCoverage": 93
+        "samplingCoverage": 96
     },
     "topTopics": [
         {
@@ -107,7 +107,7 @@
             ]
         },
         {
-            "title": "100秒看习近平南亚之行三大成果",
+            "title": "习近平南亚之行三大成果",
             "source": "跨渠道",
             "url": "https://www.baidu.com/s?wd=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news",
             "hits": [
@@ -126,6 +126,52 @@
                     "rank": 1,
                     "title": "习近平南亚之行三大成果",
                     "url": "https://www.kuaishou.com/short-video/3xb5zuamebe2ffm"
+                }
+            ]
+        },
+        {
+            "title": "崔天凯：一劳永逸解决台湾问题",
+            "source": "跨渠道",
+            "url": "https://view.inews.qq.com/a/20260915A0B16K00",
+            "hits": [
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 7,
+                    "title": "崔天凯：一劳永逸解决台湾问题",
+                    "url": "https://view.inews.qq.com/a/20260915A0B16K00"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 6,
+                    "title": "一劳永逸解决台湾问题",
+                    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&Refer=index"
+                }
+            ]
+        },
+        {
+            "title": "台风杜鹃未来或将趋向日本",
+            "source": "跨渠道",
+            "url": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC",
+            "hits": [
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 1,
+                    "title": "25号台风“杜鹃”未来或将趋向日本",
+                    "url": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 16,
+                    "title": "台风杜鹃未来或将趋向日本",
+                    "url": "https://www.kuaishou.com/short-video/3xnqdybffeg5eb2"
                 }
             ]
         },
@@ -181,29 +227,6 @@
                     "rank": 5,
                     "title": "一线城市房价涨了",
                     "url": "https://www.toutiao.com/trending/7685663412193447470/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685663412193447470%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E6%B6%A8%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7685663412193447470"
-                }
-            ]
-        },
-        {
-            "title": "崔天凯：一劳永逸解决台湾问题",
-            "source": "跨渠道",
-            "url": "https://view.inews.qq.com/a/20260915A0B16K00",
-            "hits": [
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 7,
-                    "title": "崔天凯：一劳永逸解决台湾问题",
-                    "url": "https://view.inews.qq.com/a/20260915A0B16K00"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 6,
-                    "title": "一劳永逸解决台湾问题",
-                    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&Refer=index"
                 }
             ]
         },
@@ -296,61 +319,6 @@
                     "rank": 8,
                     "title": "七旬老太入冰棺后又睁眼“复活”",
                     "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E5%85%A5%E5%86%B0%E6%A3%BA%E5%90%8E%E5%8F%88%E7%9D%81%E7%9C%BC%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
-                }
-            ]
-        },
-        {
-            "title": "李大霄：A股牛市已经告一段落",
-            "source": "跨渠道",
-            "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news",
-            "hits": [
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 28,
-                    "title": "李大霄：A股牛市已经告一段落",
-                    "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 16,
-                    "title": "李大霄：A股牛市已经告一段落",
-                    "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 18,
-                    "title": "李大霄：A股牛市已经告一段落",
-                    "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 17,
-                    "title": "李大霄：A股牛市已经告一段落",
-                    "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 15,
-                    "title": "李大霄：A股牛市已经告一段落",
-                    "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%22202609160318092B3C32D04C1F423F1CAC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 14,
-                    "title": "李大霄：A股牛市已经告一段落",
-                    "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
                 }
             ]
         }
@@ -1823,9 +1791,256 @@
             ]
         },
         {
+            "word": "日本",
+            "weight": 29,
+            "tone": "gold",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 7,
+                    "title": "日本梅毒疫情有多严重",
+                    "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 63,
+                    "title": "【STN快报第8.5季20】日本做马桶圈很行，做马桶是真不行",
+                    "url": "https://b23.tv/BV1aZYe6TEcE"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 39,
+                    "title": "日本年轻人开始流行“梅毒妆”：身上点满红斑，假装自己感染了",
+                    "url": "https://b23.tv/BV1h7Y16PERV"
+                },
+                {
+                    "channelId": "douyin",
+                    "channelName": "抖音",
+                    "ranking": "热搜",
+                    "rank": 1,
+                    "title": "25号台风“杜鹃”未来或将趋向日本",
+                    "url": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 17,
+                    "title": "日本演员中村友理离世",
+                    "url": "https://www.kuaishou.com/short-video/3xp6fxtu9vi2fsc"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 32,
+                    "title": "日本对南海和平稳定的破坏性更大",
+                    "url": "https://www.kuaishou.com/short-video/3xiw776pdabxeb2"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 50,
+                    "title": "日本航空自卫队一全球鹰失联",
+                    "url": "https://www.kuaishou.com/short-video/3xfe82wbeewuj9a"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 16,
+                    "title": "台风杜鹃未来或将趋向日本",
+                    "url": "https://www.kuaishou.com/short-video/3xnqdybffeg5eb2"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 3,
+                    "title": "日本梅毒感染扩散",
+                    "url": "https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%89%A9%E6%95%A3"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 5,
+                    "title": "日本梅毒大暴发：为何买不到青霉素",
+                    "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E5%A4%A7%E6%9A%B4%E5%8F%91%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%9D%92%E9%9C%89%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "baidu",
+                    "channelName": "百度热搜",
+                    "ranking": "实时热搜",
+                    "rank": 49,
+                    "title": "这个“合订本”让日本人气坏了",
+                    "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E2%80%9C%E5%90%88%E8%AE%A2%E6%9C%AC%E2%80%9D%E8%AE%A9%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%B0%94%E5%9D%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 2,
+                    "title": "鸠山由纪夫：日本应始终反省和道歉",
+                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 39,
+                    "title": "日本共产党委员长落泪痛批高市政府",
+                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 6,
+                    "title": "鸠山由纪夫：日本应始终反省和道歉",
+                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 48,
+                    "title": "日本共产党委员长落泪痛批高市政府",
+                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 6,
+                    "title": "鸠山由纪夫：日本应始终反省和道歉",
+                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 47,
+                    "title": "日本共产党委员长落泪痛批高市政府",
+                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 6,
+                    "title": "鸠山由纪夫：日本应始终反省和道歉",
+                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%22202609160318092B3C32D04C1F423F1CAC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 50,
+                    "title": "日本共产党委员长落泪痛批高市政府",
+                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%22202609160318092B3C32D04C1F423F1CAC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 21,
+                    "title": "鸠山由纪夫：日本应始终反省和道歉",
+                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
+                },
+                {
+                    "channelId": "toutiao",
+                    "channelName": "今日头条",
+                    "ranking": "热点榜",
+                    "rank": 29,
+                    "title": "日本共产党委员长落泪痛批高市政府",
+                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
+                },
+                {
+                    "channelId": "qqnews",
+                    "channelName": "腾讯新闻",
+                    "ranking": "热点榜",
+                    "rank": 20,
+                    "title": "日本百岁老人首次突破10万人，近90%为女性",
+                    "url": "https://view.inews.qq.com/a/20260915A07QW600"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 9,
+                    "title": "冲绳一夜转向 第二天一条新闻瞬间引爆日本社交媒体",
+                    "url": "https://m.163.com/news/article/L6SMEHDV05504DOQ.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 29,
+                    "title": "特朗普准备打世界大战？美国人先发出警告：日本得做好＂急先锋＂",
+                    "url": "https://m.163.com/news/article/L6TCIVUO0556M5SI.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 36,
+                    "title": "亚冠最新积分榜：海港国安进前4！东南亚4队0胜，日本球队3胜1负",
+                    "url": "https://m.163.com/news/article/L6TBHOFJ0552QRY4.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 18,
+                    "title": "CCTV5今日直播赛程，调整！中国男篮冲4强，台北出击，日本或输球",
+                    "url": "https://m.163.com/news/article/L6THE1K605560OKZ.html"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 2,
+                    "title": "这个“合订本”，让日本人气坏了！",
+                    "url": "https://news.sina.com.cn/w/2026-09-15/doc-inirvkks3990002.shtml"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 7,
+                    "title": "美国财长贝森特：美国财政部借助一笔名义金额，释放出对日本相关政策的支持信号。",
+                    "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirxtrn6804744.shtml"
+                },
+                {
+                    "channelId": "sina",
+                    "channelName": "新浪",
+                    "ranking": "新闻热榜",
+                    "rank": 14,
+                    "title": "日本前首相：高市早苗应撤回涉台错误言论",
+                    "url": "https://news.sina.com.cn/w/2026-09-15/doc-inirxaty3706060.shtml"
+                },
+                {
+                    "channelId": "hupu",
+                    "channelName": "虎扑",
+                    "ranking": "步行街热帖",
+                    "rank": 41,
+                    "title": "黄斌说早期罗永浩在日本街头吃个面都激动到掐大腿，现在罗永浩在国内说野人先生难吃，说这个难吃那个难吃，我觉得他就是拿大V人设压人，自败人品。现实中当面吐槽没问题，可发到网上，几百万粉丝看着，性质就变了…",
+                    "url": "https://bbs.hupu.com/642427638.html"
+                }
+            ]
+        },
+        {
             "word": "手机",
             "weight": 28,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -2070,255 +2285,8 @@
             ]
         },
         {
-            "word": "日本",
-            "weight": 28,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 7,
-                    "title": "日本梅毒疫情有多严重",
-                    "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 63,
-                    "title": "【STN快报第8.5季20】日本做马桶圈很行，做马桶是真不行",
-                    "url": "https://b23.tv/BV1aZYe6TEcE"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 39,
-                    "title": "日本年轻人开始流行“梅毒妆”：身上点满红斑，假装自己感染了",
-                    "url": "https://b23.tv/BV1h7Y16PERV"
-                },
-                {
-                    "channelId": "douyin",
-                    "channelName": "抖音",
-                    "ranking": "热搜",
-                    "rank": 1,
-                    "title": "25号台风“杜鹃”未来或将趋向日本",
-                    "url": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC"
-                },
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 17,
-                    "title": "日本演员中村友理离世",
-                    "url": "https://www.kuaishou.com/short-video/3xp6fxtu9vi2fsc"
-                },
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 32,
-                    "title": "日本对南海和平稳定的破坏性更大",
-                    "url": "https://www.kuaishou.com/short-video/3xiw776pdabxeb2"
-                },
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 50,
-                    "title": "日本航空自卫队一全球鹰失联",
-                    "url": "https://www.kuaishou.com/short-video/3xfe82wbeewuj9a"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 3,
-                    "title": "日本梅毒感染扩散",
-                    "url": "https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%89%A9%E6%95%A3"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 5,
-                    "title": "日本梅毒大暴发：为何买不到青霉素",
-                    "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E5%A4%A7%E6%9A%B4%E5%8F%91%EF%BC%9A%E4%B8%BA%E4%BD%95%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%9D%92%E9%9C%89%E7%B4%A0&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "baidu",
-                    "channelName": "百度热搜",
-                    "ranking": "实时热搜",
-                    "rank": 49,
-                    "title": "这个“合订本”让日本人气坏了",
-                    "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E2%80%9C%E5%90%88%E8%AE%A2%E6%9C%AC%E2%80%9D%E8%AE%A9%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%B0%94%E5%9D%8F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 2,
-                    "title": "鸠山由纪夫：日本应始终反省和道歉",
-                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 39,
-                    "title": "日本共产党委员长落泪痛批高市政府",
-                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 6,
-                    "title": "鸠山由纪夫：日本应始终反省和道歉",
-                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 48,
-                    "title": "日本共产党委员长落泪痛批高市政府",
-                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 6,
-                    "title": "鸠山由纪夫：日本应始终反省和道歉",
-                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 47,
-                    "title": "日本共产党委员长落泪痛批高市政府",
-                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 6,
-                    "title": "鸠山由纪夫：日本应始终反省和道歉",
-                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%22202609160318092B3C32D04C1F423F1CAC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 50,
-                    "title": "日本共产党委员长落泪痛批高市政府",
-                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%22202609160318092B3C32D04C1F423F1CAC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 21,
-                    "title": "鸠山由纪夫：日本应始终反省和道歉",
-                    "url": "https://www.toutiao.com/trending/7685775033184292402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685775033184292402%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BA%94%E5%A7%8B%E7%BB%88%E5%8F%8D%E7%9C%81%E5%92%8C%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7685775033184292402"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 29,
-                    "title": "日本共产党委员长落泪痛批高市政府",
-                    "url": "https://www.toutiao.com/trending/7684884488019771428/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227684884488019771428%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E5%A7%94%E5%91%98%E9%95%BF%E8%90%BD%E6%B3%AA%E7%97%9B%E6%89%B9%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%22%7D&rank=&style_id=40132&topic_id=7684884488019771428"
-                },
-                {
-                    "channelId": "qqnews",
-                    "channelName": "腾讯新闻",
-                    "ranking": "热点榜",
-                    "rank": 20,
-                    "title": "日本百岁老人首次突破10万人，近90%为女性",
-                    "url": "https://view.inews.qq.com/a/20260915A07QW600"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 9,
-                    "title": "冲绳一夜转向 第二天一条新闻瞬间引爆日本社交媒体",
-                    "url": "https://m.163.com/news/article/L6SMEHDV05504DOQ.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 29,
-                    "title": "特朗普准备打世界大战？美国人先发出警告：日本得做好＂急先锋＂",
-                    "url": "https://m.163.com/news/article/L6TCIVUO0556M5SI.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 36,
-                    "title": "亚冠最新积分榜：海港国安进前4！东南亚4队0胜，日本球队3胜1负",
-                    "url": "https://m.163.com/news/article/L6TBHOFJ0552QRY4.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 18,
-                    "title": "CCTV5今日直播赛程，调整！中国男篮冲4强，台北出击，日本或输球",
-                    "url": "https://m.163.com/news/article/L6THE1K605560OKZ.html"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 2,
-                    "title": "这个“合订本”，让日本人气坏了！",
-                    "url": "https://news.sina.com.cn/w/2026-09-15/doc-inirvkks3990002.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 7,
-                    "title": "美国财长贝森特：美国财政部借助一笔名义金额，释放出对日本相关政策的支持信号。",
-                    "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirxtrn6804744.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 14,
-                    "title": "日本前首相：高市早苗应撤回涉台错误言论",
-                    "url": "https://news.sina.com.cn/w/2026-09-15/doc-inirxaty3706060.shtml"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 41,
-                    "title": "黄斌说早期罗永浩在日本街头吃个面都激动到掐大腿，现在罗永浩在国内说野人先生难吃，说这个难吃那个难吃，我觉得他就是拿大V人设压人，自败人品。现实中当面吐槽没问题，可发到网上，几百万粉丝看着，性质就变了…",
-                    "url": "https://bbs.hupu.com/642427638.html"
-                },
-                {
-                    "channelId": "hupu",
-                    "channelName": "虎扑",
-                    "ranking": "步行街热帖",
-                    "rank": 15,
-                    "title": "韩国官员表示：日本名古屋亚运会服务环境差到令人发指！日本有失基本的体面……",
-                    "url": "https://bbs.hupu.com/642434593.html"
-                }
-            ]
-        },
-        {
             "word": "苹果",
-            "weight": 18,
+            "weight": 19,
             "tone": "hot",
             "hits": [
                 {
@@ -2352,6 +2320,14 @@
                     "rank": 12,
                     "title": "苹果CEO展示iPhoneDuo时翻车",
                     "url": "https://www.kuaishou.com/short-video/3xy76cry5en46e4"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 14,
+                    "title": "苹果新机仅加价两三百",
+                    "url": "https://www.kuaishou.com/short-video/3xezf4wba7dcu4a"
                 },
                 {
                     "channelId": "weibo",
@@ -4313,7 +4289,7 @@
         },
         {
             "word": "男子",
-            "weight": 17,
+            "weight": 18,
             "tone": "teal",
             "hits": [
                 {
@@ -4355,6 +4331,14 @@
                     "rank": 33,
                     "title": "男子偷金箍棒大圣勾指唤回",
                     "url": "https://www.kuaishou.com/short-video/3xuj4t85sibxi4e"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 9,
+                    "title": "男子倒车撞倒路过老人",
+                    "url": "https://www.kuaishou.com/short-video/3xevqnkumfpyd5q"
                 },
                 {
                     "channelId": "baidu",
@@ -4630,9 +4614,136 @@
             ]
         },
         {
+            "word": "科技",
+            "weight": 14,
+            "tone": "",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 19,
+                    "title": "赛博修仙！我们给古代攻城车上了亿点点科技！",
+                    "url": "https://b23.tv/BV1j4YY6zE8i"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 99,
+                    "title": "赛博修仙！我们给古代攻城车上了亿点点科技！",
+                    "url": "https://b23.tv/BV1j4YY6zE8i"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 36,
+                    "title": "宇树科技股价暴跌",
+                    "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C&Refer=index"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 33,
+                    "title": "【官方双语】这次还能颠覆市场吗 - Steam Frame评测#linus谈科技",
+                    "url": "https://www.acfun.cn/v/ac48850064"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 28,
+                    "title": "行云科技拟大幅增加服务器设备及零部件采购预算。行云科技(300209)9月15日公告，公司及子公司此前预计2026年度将使用不超过70亿元自有和自筹资金(包括融资租赁款)用于服务器设备及零部件采 ...",
+                    "url": "http://news.10jqka.com.cn/20260915/c679939548.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 47,
+                    "title": "企业信用科技赛道迎来“新组合” 百望股份与企查查拟共同成立合资公司",
+                    "url": "http://news.10jqka.com.cn/20260915/c679939005.shtml"
+                },
+                {
+                    "channelId": "tonghuashun",
+                    "channelName": "同花顺",
+                    "ranking": "今日要闻",
+                    "rank": 48,
+                    "title": "本报讯(记者贾丽)近日，百望股份有限公司(以下简称“百望股份”)与企查查科技拟联合设立合资公司，共同布局企业信用科技与服务领域。    这不 ...",
+                    "url": "http://news.10jqka.com.cn/20260915/c679939005.shtml"
+                },
+                {
+                    "channelId": "eastmoney",
+                    "channelName": "东方财富",
+                    "ranking": "股票人气榜",
+                    "rank": 11,
+                    "title": "吉鑫科技 (601218)",
+                    "url": "https://quote.eastmoney.com/sh601218.html"
+                },
+                {
+                    "channelId": "eastmoney",
+                    "channelName": "东方财富",
+                    "ranking": "股票人气榜",
+                    "rank": 17,
+                    "title": "中晶科技 (003026)",
+                    "url": "https://quote.eastmoney.com/sz003026.html"
+                },
+                {
+                    "channelId": "eastmoney",
+                    "channelName": "东方财富",
+                    "ranking": "股票人气榜",
+                    "rank": 20,
+                    "title": "锡华科技 (603248)",
+                    "url": "https://quote.eastmoney.com/sh603248.html"
+                },
+                {
+                    "channelId": "cls",
+                    "channelName": "财联社",
+                    "ranking": "热门快讯",
+                    "rank": 2,
+                    "title": "独家|商业银行科技贷款统计口径面临收紧，新框架望年底落地",
+                    "url": "https://www.cls.cn/detail/2483817"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "IT之家",
+                    "rank": 3,
+                    "title": "戴尔科技股价涨超 6% 再创历史新高，年内累计大涨约 355%",
+                    "url": "https://www.ithome.com/1/002/816.htm"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "阮一峰网络日志",
+                    "rank": 1,
+                    "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+                    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "阮一峰网络日志",
+                    "rank": 2,
+                    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+                    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"
+                },
+                {
+                    "channelId": "rss",
+                    "channelName": "RSS",
+                    "ranking": "阮一峰网络日志",
+                    "rank": 3,
+                    "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+                    "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"
+                }
+            ]
+        },
+        {
             "word": "vs",
             "weight": 13,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4743,7 +4854,7 @@
         {
             "word": "体验",
             "weight": 13,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4854,7 +4965,7 @@
         {
             "word": "感觉",
             "weight": 13,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -4959,117 +5070,6 @@
                     "rank": 6,
                     "title": "鱼：我感觉自己被扒得明明白白！",
                     "url": "https://mp.weixin.qq.com/s?__biz=MzcwODA3MzUyMw==&mid=2247485607&idx=1&sn=c976847c33fa92f7c0fd2ba5e698ae03#rd"
-                }
-            ]
-        },
-        {
-            "word": "科技",
-            "weight": 12,
-            "tone": "gold",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 19,
-                    "title": "赛博修仙！我们给古代攻城车上了亿点点科技！",
-                    "url": "https://b23.tv/BV1j4YY6zE8i"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 99,
-                    "title": "赛博修仙！我们给古代攻城车上了亿点点科技！",
-                    "url": "https://b23.tv/BV1j4YY6zE8i"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 36,
-                    "title": "宇树科技股价暴跌",
-                    "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C&Refer=index"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 33,
-                    "title": "【官方双语】这次还能颠覆市场吗 - Steam Frame评测#linus谈科技",
-                    "url": "https://www.acfun.cn/v/ac48850064"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 28,
-                    "title": "行云科技拟大幅增加服务器设备及零部件采购预算。行云科技(300209)9月15日公告，公司及子公司此前预计2026年度将使用不超过70亿元自有和自筹资金(包括融资租赁款)用于服务器设备及零部件采 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679939548.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 47,
-                    "title": "企业信用科技赛道迎来“新组合” 百望股份与企查查拟共同成立合资公司",
-                    "url": "http://news.10jqka.com.cn/20260915/c679939005.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 48,
-                    "title": "本报讯(记者贾丽)近日，百望股份有限公司(以下简称“百望股份”)与企查查科技拟联合设立合资公司，共同布局企业信用科技与服务领域。    这不 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679939005.shtml"
-                },
-                {
-                    "channelId": "eastmoney",
-                    "channelName": "东方财富",
-                    "ranking": "股票人气榜",
-                    "rank": 11,
-                    "title": "吉鑫科技 (601218)",
-                    "url": "https://quote.eastmoney.com/sh601218.html"
-                },
-                {
-                    "channelId": "cls",
-                    "channelName": "财联社",
-                    "ranking": "热门快讯",
-                    "rank": 2,
-                    "title": "独家|商业银行科技贷款统计口径面临收紧，新框架望年底落地",
-                    "url": "https://www.cls.cn/detail/2483817"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "IT之家",
-                    "rank": 3,
-                    "title": "戴尔科技股价涨超 6% 再创历史新高，年内累计大涨约 355%",
-                    "url": "https://www.ithome.com/1/002/816.htm"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "阮一峰网络日志",
-                    "rank": 1,
-                    "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
-                    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "阮一峰网络日志",
-                    "rank": 2,
-                    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
-                    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html"
-                },
-                {
-                    "channelId": "rss",
-                    "channelName": "RSS",
-                    "ranking": "阮一峰网络日志",
-                    "rank": 3,
-                    "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-                    "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html"
                 }
             ]
         },
@@ -5225,9 +5225,88 @@
             ]
         },
         {
-            "word": "离世",
-            "weight": 7,
+            "word": "中秋",
+            "weight": 9,
             "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 8,
+                    "title": "【萌黄一槽】冰镜之间灵活穿梭，白[中秋限定]全技能爆料！",
+                    "url": "https://b23.tv/BV1wHen6EE2D"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 62,
+                    "title": "🐧当你想在中秋和国庆中间三天请假🐧",
+                    "url": "https://b23.tv/BV1AcYm69EGT"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 2,
+                    "title": "今年中秋十五的月亮十七圆",
+                    "url": "https://www.kuaishou.com/short-video/3xijbvbqgnbfkwk"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 6,
+                    "title": "中秋国庆调休安排出炉",
+                    "url": "https://www.kuaishou.com/short-video/3xk9c99ryhyr5u4"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 8,
+                    "title": "四川省内高校不允许中秋国庆连休不实",
+                    "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%86%85%E9%AB%98%E6%A0%A1%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E4%BC%91%E4%B8%8D%E5%AE%9E&Refer=index"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 32,
+                    "title": "是中秋上车，还是等双十一？",
+                    "url": "https://www.acfun.cn/v/ac48848796"
+                },
+                {
+                    "channelId": "36kr",
+                    "channelName": "36氪",
+                    "ranking": "热榜",
+                    "rank": 22,
+                    "title": "中秋国庆，反向旅游的年轻人傻眼了",
+                    "url": "https://www.36kr.com/p/3984042184522752"
+                },
+                {
+                    "channelId": "v2ex",
+                    "channelName": "V2EX",
+                    "ranking": "热门主题",
+                    "rank": 2,
+                    "title": "中秋来送水果😋， V 友回帖抽奖！🔥",
+                    "url": "https://www.v2ex.com/t/1242036"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 40,
+                    "title": "中秋将至，国庆同庆，Isvoro 提前祝各位双节快乐！",
+                    "url": "https://www.nodeseek.com/post-928478-1"
+                }
+            ]
+        },
+        {
+            "word": "离世",
+            "weight": 8,
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -5236,6 +5315,14 @@
                     "rank": 17,
                     "title": "日本演员中村友理离世",
                     "url": "https://www.kuaishou.com/short-video/3xp6fxtu9vi2fsc"
+                },
+                {
+                    "channelId": "kuaishou",
+                    "channelName": "快手",
+                    "ranking": "快手热榜",
+                    "rank": 36,
+                    "title": "小伙车祸离世妈妈捐器官",
+                    "url": "https://www.kuaishou.com/short-video/3xfxgxxu5gpvkfw"
                 },
                 {
                     "channelId": "weibo",
@@ -5314,7 +5401,7 @@
         {
             "word": "如故",
             "weight": 16,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "douyin",
@@ -5449,7 +5536,7 @@
         {
             "word": "优化",
             "weight": 12,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -5552,7 +5639,7 @@
         {
             "word": "Claude",
             "weight": 11,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5647,7 +5734,7 @@
         {
             "word": "哪些",
             "weight": 11,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "bilibili",
@@ -5742,7 +5829,7 @@
         {
             "word": "模型",
             "weight": 11,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -5837,7 +5924,7 @@
         {
             "word": "A股",
             "weight": 10,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "baidu",
@@ -5956,7 +6043,7 @@
         {
             "word": "深夜",
             "weight": 9,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "juejin",
@@ -6035,7 +6122,7 @@
         {
             "word": "复活",
             "weight": 8,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -6146,7 +6233,7 @@
         {
             "word": "直播",
             "weight": 8,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -6217,7 +6304,7 @@
         {
             "word": "赛力斯",
             "weight": 7,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -6276,118 +6363,15 @@
                     "url": "https://quote.eastmoney.com/sh601127.html"
                 }
             ]
-        },
-        {
-            "word": "黄仁勋",
-            "weight": 7,
-            "tone": "",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 37,
-                    "title": "乔布斯、黄仁勋、扎克伯格都来打卡的川菜馆，有多好吃？",
-                    "url": "https://b23.tv/BV1R6YD6XEvq"
-                },
-                {
-                    "channelId": "kuaishou",
-                    "channelName": "快手",
-                    "ranking": "快手热榜",
-                    "rank": 49,
-                    "title": "特朗普嘲黄仁勋不会开免提",
-                    "url": "https://www.kuaishou.com/short-video/3xh9nmptzhsq3qg"
-                },
-                {
-                    "channelId": "juejin",
-                    "channelName": "掘金",
-                    "ranking": "热门文章",
-                    "rank": 6,
-                    "title": "黄仁勋台上接特朗普电话开免提，全场听到一句话：AI 不会减速",
-                    "url": "https://juejin.cn/post/7685320540698361899"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 10,
-                    "title": "黄仁勋：中国对AI的叙事方式更务实",
-                    "url": "https://www.toutiao.com/trending/7685349886699733042/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685349886699733042%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AF%B9AI%E7%9A%84%E5%8F%99%E4%BA%8B%E6%96%B9%E5%BC%8F%E6%9B%B4%E5%8A%A1%E5%AE%9E%22%7D&rank=&style_id=40132&topic_id=7685349886699733042"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 24,
-                    "title": "黄仁勋：中国对AI的叙事方式更务实",
-                    "url": "https://www.toutiao.com/trending/7685349886699733042/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685349886699733042%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AF%B9AI%E7%9A%84%E5%8F%99%E4%BA%8B%E6%96%B9%E5%BC%8F%E6%9B%B4%E5%8A%A1%E5%AE%9E%22%7D&rank=&style_id=40132&topic_id=7685349886699733042"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 23,
-                    "title": "黄仁勋：中国对AI的叙事方式更务实",
-                    "url": "https://www.toutiao.com/trending/7685349886699733042/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685349886699733042%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AF%B9AI%E7%9A%84%E5%8F%99%E4%BA%8B%E6%96%B9%E5%BC%8F%E6%9B%B4%E5%8A%A1%E5%AE%9E%22%7D&rank=&style_id=40132&topic_id=7685349886699733042"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 33,
-                    "title": "黄仁勋：中国对AI的叙事方式更务实",
-                    "url": "https://www.toutiao.com/trending/7685349886699733042/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685349886699733042%22%2C%22hot_board_impr_id%22%3A%22202609160318092B3C32D04C1F423F1CAC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AF%B9AI%E7%9A%84%E5%8F%99%E4%BA%8B%E6%96%B9%E5%BC%8F%E6%9B%B4%E5%8A%A1%E5%AE%9E%22%7D&rank=&style_id=40132&topic_id=7685349886699733042"
-                },
-                {
-                    "channelId": "toutiao",
-                    "channelName": "今日头条",
-                    "ranking": "热点榜",
-                    "rank": 34,
-                    "title": "黄仁勋：中国对AI的叙事方式更务实",
-                    "url": "https://www.toutiao.com/trending/7685349886699733042/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685349886699733042%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%AF%B9AI%E7%9A%84%E5%8F%99%E4%BA%8B%E6%96%B9%E5%BC%8F%E6%9B%B4%E5%8A%A1%E5%AE%9E%22%7D&rank=&style_id=40132&topic_id=7685349886699733042"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 20,
-                    "title": "峰会现场，特朗普突袭连线黄仁勋，大谈AI减速是骗局，自夸对此领域“有遗传优势”",
-                    "url": "https://news.sina.com.cn/w/2026-09-15/doc-inirwmwe3745587.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 7,
-                    "title": "英伟达CEO黄仁勋：谈及人工智能安全，企业应当把握节奏，直到确信所推出的产品能够获得市场认可。",
-                    "url": "https://finance.sina.com.cn/7x24/2026-09-16/doc-inirxxxk6742554.shtml"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "财经热榜",
-                    "rank": 6,
-                    "title": "英伟达CEO黄仁勋：谈及人工智能安全，企业应当把握节奏，直到确信所推出的产品能够获得市场认可。",
-                    "url": "https://finance.sina.com.cn/7x24/2026-09-16/doc-inirxxxk6742554.shtml"
-                },
-                {
-                    "channelId": "thepaper",
-                    "channelName": "澎湃新闻",
-                    "ranking": "热新闻",
-                    "rank": 4,
-                    "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
-                    "url": "https://www.thepaper.cn/newsDetail_forward_34072434"
-                }
-            ]
         }
     ],
     "flow": {
         "times": [
             "00:22",
-            "01:18",
-            "02:24",
-            "03:19",
-            "04:21"
+            "01:19",
+            "03:17",
+            "03:26",
+            "04:29"
         ],
         "rows": [
             {
@@ -6775,10 +6759,10 @@
                 "delta": null
             },
             {
-                "title": "100秒看习近平南亚之行三大成果",
+                "title": "习近平南亚之行三大成果",
                 "source": "跨渠道",
                 "url": "https://www.baidu.com/s?wd=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news&rsv_dl=fyb_news",
-                "query": "100秒看习近平南亚之行三大成果",
+                "query": "习近平南亚之行三大成果",
                 "hits": [
                     {
                         "channelId": "baidu",
@@ -6798,6 +6782,33 @@
                     }
                 ],
                 "currentRank": 3,
+                "previousRank": null,
+                "delta": null
+            },
+            {
+                "title": "台风杜鹃未来或将趋向日本",
+                "source": "跨渠道",
+                "url": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC",
+                "query": "台风杜鹃未来或将趋向日本",
+                "hits": [
+                    {
+                        "channelId": "douyin",
+                        "channelName": "抖音",
+                        "ranking": "热搜",
+                        "rank": 1,
+                        "title": "25号台风“杜鹃”未来或将趋向日本",
+                        "url": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC"
+                    },
+                    {
+                        "channelId": "kuaishou",
+                        "channelName": "快手",
+                        "ranking": "快手热榜",
+                        "rank": 16,
+                        "title": "台风杜鹃未来或将趋向日本",
+                        "url": "https://www.kuaishou.com/short-video/3xnqdybffeg5eb2"
+                    }
+                ],
+                "currentRank": 5,
                 "previousRank": null,
                 "delta": null
             },
@@ -6824,7 +6835,7 @@
                         "url": "https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign="
                     }
                 ],
-                "currentRank": 6,
+                "currentRank": 7,
                 "previousRank": null,
                 "delta": null
             },
@@ -6851,7 +6862,7 @@
                         "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
                     }
                 ],
-                "currentRank": 7,
+                "currentRank": 8,
                 "previousRank": null,
                 "delta": null
             },
@@ -6878,7 +6889,7 @@
                         "url": "https://bkovac.github.io/modem-thing/"
                     }
                 ],
-                "currentRank": 8,
+                "currentRank": 9,
                 "previousRank": null,
                 "delta": null
             },
@@ -6903,65 +6914,6 @@
                         "rank": 8,
                         "title": "七旬老太入冰棺后又睁眼“复活”",
                         "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E5%85%A5%E5%86%B0%E6%A3%BA%E5%90%8E%E5%8F%88%E7%9D%81%E7%9C%BC%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news"
-                    }
-                ],
-                "currentRank": 9,
-                "previousRank": null,
-                "delta": null
-            },
-            {
-                "title": "李大霄：A股牛市已经告一段落",
-                "source": "跨渠道",
-                "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news",
-                "query": "李大霄：A股牛市已经告一段落",
-                "hits": [
-                    {
-                        "channelId": "baidu",
-                        "channelName": "百度热搜",
-                        "ranking": "实时热搜",
-                        "rank": 28,
-                        "title": "李大霄：A股牛市已经告一段落",
-                        "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD&sa=fyb_news&rsv_dl=fyb_news"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 16,
-                        "title": "李大霄：A股牛市已经告一段落",
-                        "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%2220260916002249DCE66DFA8704E6181824%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 18,
-                        "title": "李大霄：A股牛市已经告一段落",
-                        "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%2220260916011825447B53DE66BCADDB4578%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 17,
-                        "title": "李大霄：A股牛市已经告一段落",
-                        "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%2220260916022354BF966F48B83D95921A15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 15,
-                        "title": "李大霄：A股牛市已经告一段落",
-                        "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%22202609160318092B3C32D04C1F423F1CAC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
-                    },
-                    {
-                        "channelId": "toutiao",
-                        "channelName": "今日头条",
-                        "ranking": "热点榜",
-                        "rank": 14,
-                        "title": "李大霄：A股牛市已经告一段落",
-                        "url": "https://www.toutiao.com/trending/7685669070485720614/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685669070485720614%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%A4%A7%E9%9C%84%EF%BC%9AA%E8%82%A1%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E5%91%8A%E4%B8%80%E6%AE%B5%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7685669070485720614"
                     }
                 ],
                 "currentRank": 10,
@@ -7038,6 +6990,33 @@
                 "delta": 0
             },
             {
+                "title": "崔天凯：一劳永逸解决台湾问题",
+                "source": "跨渠道",
+                "url": "https://view.inews.qq.com/a/20260915A0B16K00",
+                "query": "崔天凯：一劳永逸解决台湾问题",
+                "hits": [
+                    {
+                        "channelId": "qqnews",
+                        "channelName": "腾讯新闻",
+                        "ranking": "热点榜",
+                        "rank": 7,
+                        "title": "崔天凯：一劳永逸解决台湾问题",
+                        "url": "https://view.inews.qq.com/a/20260915A0B16K00"
+                    },
+                    {
+                        "channelId": "weibo",
+                        "channelName": "微博",
+                        "ranking": "微博热榜",
+                        "rank": 6,
+                        "title": "一劳永逸解决台湾问题",
+                        "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&Refer=index"
+                    }
+                ],
+                "currentRank": 4,
+                "previousRank": 9,
+                "delta": 5
+            },
+            {
                 "title": "一线城市房价涨了",
                 "source": "跨渠道",
                 "url": "https://www.kuaishou.com/short-video/3xsguzayzfgf4kc",
@@ -7092,36 +7071,9 @@
                         "url": "https://www.toutiao.com/trending/7685663412193447470/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685663412193447470%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E6%B6%A8%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7685663412193447470"
                     }
                 ],
-                "currentRank": 4,
+                "currentRank": 6,
                 "previousRank": 3,
-                "delta": -1
-            },
-            {
-                "title": "崔天凯：一劳永逸解决台湾问题",
-                "source": "跨渠道",
-                "url": "https://view.inews.qq.com/a/20260915A0B16K00",
-                "query": "崔天凯：一劳永逸解决台湾问题",
-                "hits": [
-                    {
-                        "channelId": "qqnews",
-                        "channelName": "腾讯新闻",
-                        "ranking": "热点榜",
-                        "rank": 7,
-                        "title": "崔天凯：一劳永逸解决台湾问题",
-                        "url": "https://view.inews.qq.com/a/20260915A0B16K00"
-                    },
-                    {
-                        "channelId": "weibo",
-                        "channelName": "微博",
-                        "ranking": "微博热榜",
-                        "rank": 6,
-                        "title": "一劳永逸解决台湾问题",
-                        "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&Refer=index"
-                    }
-                ],
-                "currentRank": 5,
-                "previousRank": 9,
-                "delta": 4
+                "delta": -3
             }
         ],
         "rising": [
@@ -7148,9 +7100,9 @@
                         "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98&Refer=index"
                     }
                 ],
-                "currentRank": 5,
+                "currentRank": 4,
                 "previousRank": 9,
-                "delta": 4
+                "delta": 5
             }
         ],
         "falling": [
@@ -7209,9 +7161,9 @@
                         "url": "https://www.toutiao.com/trending/7685663412193447470/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227685663412193447470%22%2C%22hot_board_impr_id%22%3A%2220260916042118E3D1E3CEFC5786D8A88C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E6%B6%A8%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7685663412193447470"
                     }
                 ],
-                "currentRank": 4,
+                "currentRank": 6,
                 "previousRank": 3,
-                "delta": -1
+                "delta": -3
             }
         ],
         "dropped": [
