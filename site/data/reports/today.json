@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15 23:23:26",
-    "summary": "这个“合订本”，让日本人气坏了！成为本期综合热度最高的话题，我国人口总量14.05亿紧随其后。当前覆盖 33 个有效渠道，共形成 994 个榜单时间切片；发现 164 个跨渠道重复热点。",
+    "generatedAt": "2026-09-15 23:30:44",
+    "summary": "这个“合订本”，让日本人气坏了！成为本期综合热度最高的话题，我国人口总量14.05亿紧随其后。当前覆盖 33 个有效渠道，共形成 995 个榜单时间切片；发现 165 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 5705,
-        "resonance": 164,
+        "deduplicated": 5717,
+        "resonance": 165,
         "maxRise": 79,
-        "slices": 994,
+        "slices": 995,
         "coverage": 100,
         "samplingCoverage": 96
     },
@@ -630,7 +630,7 @@
     "words": [
         {
             "word": "AI",
-            "weight": 286,
+            "weight": 287,
             "tone": "hot",
             "hits": [
                 {
@@ -2359,7 +2359,7 @@
         },
         {
             "word": "LA",
-            "weight": 167,
+            "weight": 170,
             "tone": "",
             "hits": [
                 {
@@ -2606,7 +2606,7 @@
         },
         {
             "word": "US",
-            "weight": 151,
+            "weight": 153,
             "tone": "hot",
             "hits": [
                 {
@@ -2696,6 +2696,22 @@
                     "rank": 2,
                     "title": "Suspected sabotage causes major Netherlands rail disruption",
                     "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 1,
+                    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+                    "url": "https://github.com/arnegiacomo/fugleramme"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 17,
+                    "title": "US confirms for first time it has deployed space weapons",
+                    "url": "https://www.bbc.com/news/articles/ck790xg41ygro"
                 },
                 {
                     "channelId": "huggingface",
@@ -2832,22 +2848,6 @@
                     "rank": 44,
                     "title": "突发，Opus 5.2深夜上线，RSI真来了？",
                     "url": "https://www.36kr.com/p/3984223089867781"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 4,
-                    "title": "9月15日，名创优品(09896.HK)透过第10b5-1条回购计划，在纽约证券交易所回购26,412股美国存托股，代表105,648股普通股。本次回购每股最高价为USD2.295，每股最低为USD2.2625，付出的价格总 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679917471.shtml"
-                },
-                {
-                    "channelId": "tonghuashun",
-                    "channelName": "同花顺",
-                    "ranking": "今日要闻",
-                    "rank": 20,
-                    "title": "9月15日，摩根士丹利(MS.US)策略师团队对其高信心股票池进行了一次规模超出常规的调整，建议投资者在欧洲投资组合中拓宽布局，不要只局限于AI资本开支、国防这类市场热门主线。由玛丽娜.扎 ...",
-                    "url": "http://news.10jqka.com.cn/20260915/c679920553.shtml"
                 }
             ]
         },
@@ -10290,8 +10290,8 @@
             "00:22",
             "05:27",
             "12:25",
-            "16:38",
-            "23:21"
+            "17:24",
+            "23:28"
         ],
         "rows": [
             {

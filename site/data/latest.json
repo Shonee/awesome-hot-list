@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-15 23:21:34",
+    "generatedAt": "2026-09-15 23:28:53",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5563,7 +5563,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-15 20:40:26",
+            "fetchedAt": "2026-09-15 23:28:53",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5577,183 +5577,183 @@
                     "items": [
                         {
                             "rank": 1,
+                            "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+                            "url": "https://github.com/arnegiacomo/fugleramme",
+                            "hot": 418,
+                            "description": "73 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 12:31:10 UTC"
+                        },
+                        {
+                            "rank": 2,
+                            "title": "Java 27 Released",
+                            "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+                            "hot": 183,
+                            "description": "130 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 13:13:43 UTC"
+                        },
+                        {
+                            "rank": 3,
+                            "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+                            "url": "https://withcapsule.app/",
+                            "hot": 78,
+                            "description": "33 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 13:31:40 UTC"
+                        },
+                        {
+                            "rank": 4,
+                            "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+                            "url": "https://bkovac.github.io/modem-thing/",
+                            "hot": 63,
+                            "description": "5 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-15 13:20:24 UTC"
+                        },
+                        {
+                            "rank": 5,
                             "title": "I can't stop thinking about Papua New Guinea",
                             "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-                            "hot": 403,
-                            "description": "155 comments",
+                            "hot": 637,
+                            "description": "271 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 06:16:24 UTC"
                         },
                         {
-                            "rank": 2,
-                            "title": "Suspected sabotage causes major Netherlands rail disruption",
-                            "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-                            "hot": 203,
-                            "description": "174 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 10:22:46 UTC"
-                        },
-                        {
-                            "rank": 3,
-                            "title": "Alternatives to MinIO for single-node local S3",
-                            "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-                            "hot": 76,
-                            "description": "41 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 08:21:27 UTC"
-                        },
-                        {
-                            "rank": 4,
-                            "title": "CSS-Tricks in Limbo",
-                            "url": "https://vale.rocks/micros/20260915-0135",
-                            "hot": 76,
-                            "description": "9 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-15 07:27:46 UTC"
-                        },
-                        {
-                            "rank": 5,
-                            "title": "iOS 27, iPadOS 27, and macOS 27",
-                            "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-                            "hot": 649,
-                            "description": "741 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 17:50:29 UTC"
-                        },
-                        {
                             "rank": 6,
-                            "title": "OpenArm: An open-source 7DOF humanoid arm",
-                            "url": "https://github.com/enactic/OpenArm",
-                            "hot": 129,
-                            "description": "22 comments",
+                            "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+                            "url": "https://github.com/greentfrapp/panel",
+                            "hot": 18,
+                            "description": "3 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 14:17:49 UTC"
+                            "publishedAt": "2026-09-15 13:58:37 UTC"
                         },
                         {
                             "rank": 7,
-                            "title": "The k-server conjecture is true",
-                            "url": "https://arxiv.org/abs/2609.15979",
-                            "hot": 38,
-                            "description": "14 comments",
+                            "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+                            "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+                            "hot": 69,
+                            "description": "40 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 07:45:31 UTC"
+                            "publishedAt": "2026-09-15 14:07:01 UTC"
                         },
                         {
                             "rank": 8,
                             "title": "25 Years of Mass Surveillance Is Enough",
                             "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-                            "hot": 33,
-                            "description": "2 comments",
+                            "hot": 375,
+                            "description": "99 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-15 11:26:48 UTC"
                         },
                         {
                             "rank": 9,
-                            "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-                            "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-                            "hot": 168,
-                            "description": "53 comments",
+                            "title": "Alternatives to MinIO for single-node local S3",
+                            "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+                            "hot": 148,
+                            "description": "71 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-12 18:51:40 UTC"
+                            "publishedAt": "2026-09-15 08:21:27 UTC"
                         },
                         {
                             "rank": 10,
-                            "title": "Pion, an agent designed to run any company autonomously",
-                            "url": "https://andonlabs.com/blog/why-we-built-pion",
-                            "hot": 432,
-                            "description": "533 comments",
+                            "title": "Sony's First Computer – The SMC-70 from 1982 [video]",
+                            "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
+                            "hot": 26,
+                            "description": "1 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 17:16:06 UTC"
+                            "publishedAt": "2026-09-13 05:47:13 UTC"
                         },
                         {
                             "rank": 11,
-                            "title": "A rough guide for going back to the Moon",
-                            "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
-                            "hot": 15,
-                            "description": "7 comments",
+                            "title": "A Man Archiving Pirate Radio Station Kool FM",
+                            "url": "https://londonist.com/london/music/kool-fm-archives",
+                            "hot": 12,
+                            "description": "1 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:33:00 UTC"
+                            "publishedAt": "2026-09-14 10:01:05 UTC"
                         },
                         {
                             "rank": 12,
-                            "title": "Linux from Scratch",
-                            "url": "https://www.linuxfromscratch.org/",
-                            "hot": 242,
-                            "description": "78 comments",
+                            "title": "CSS-Tricks in Limbo",
+                            "url": "https://vale.rocks/micros/20260915-0135",
+                            "hot": 169,
+                            "description": "69 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 04:15:23 UTC"
+                            "publishedAt": "2026-09-15 07:27:46 UTC"
                         },
                         {
                             "rank": 13,
-                            "title": "XCancel service is suspended until further notice",
-                            "url": "https://xcancel.com/#",
-                            "hot": 688,
-                            "description": "961 comments",
+                            "title": "Suspected sabotage causes major Netherlands rail disruption",
+                            "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+                            "hot": 322,
+                            "description": "299 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 09:51:50 UTC"
+                            "publishedAt": "2026-09-15 10:22:46 UTC"
                         },
                         {
                             "rank": 14,
-                            "title": "Charts built for Chat",
-                            "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-                            "hot": 253,
-                            "description": "78 comments",
+                            "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+                            "url": "https://github.com/ordewell/ordewell",
+                            "hot": 15,
+                            "description": "10 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 21:22:54 UTC"
+                            "publishedAt": "2026-09-15 13:31:37 UTC"
                         },
                         {
                             "rank": 15,
-                            "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-                            "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-                            "hot": 11,
-                            "description": "2 comments",
+                            "title": "Inverse-Square Law",
+                            "url": "https://blog.coredump.cx/p/inverse-square-law",
+                            "hot": 27,
+                            "description": "4 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 12:01:31 UTC"
+                            "publishedAt": "2026-09-14 04:45:43 UTC"
                         },
                         {
                             "rank": 16,
-                            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-                            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-                            "hot": 479,
-                            "description": "387 comments",
+                            "title": "OpenArm: An open-source 7DOF humanoid arm",
+                            "url": "https://github.com/enactic/OpenArm",
+                            "hot": 174,
+                            "description": "36 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:40:57 UTC"
+                            "publishedAt": "2026-09-13 14:17:49 UTC"
                         },
                         {
                             "rank": 17,
-                            "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-                            "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-                            "hot": 135,
-                            "description": "28 comments",
+                            "title": "US confirms for first time it has deployed space weapons",
+                            "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+                            "hot": 228,
+                            "description": "143 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:29:23 UTC"
+                            "publishedAt": "2026-09-15 03:47:56 UTC"
                         },
                         {
                             "rank": 18,
-                            "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
-                            "url": "https://poltora.dev/redis",
-                            "hot": 122,
-                            "description": "20 comments",
+                            "title": "Sovereign: A Unified GPU Inference Substrate (Fractal Memory, Manifold Routing)",
+                            "url": "https://github.com/CuppaTea1983/Sovereign/tree/V1",
+                            "hot": 5,
+                            "description": "0 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-12 19:43:34 UTC"
+                            "publishedAt": "2026-09-15 13:56:18 UTC"
                         },
                         {
                             "rank": 19,
-                            "title": "A beginning for mathematics",
-                            "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-                            "hot": 245,
-                            "description": "128 comments",
+                            "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+                            "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+                            "hot": 86,
+                            "description": "6 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 15:33:07 UTC"
+                            "publishedAt": "2026-09-15 12:08:26 UTC"
                         },
                         {
                             "rank": 20,
-                            "title": "Distributed Systems Classics (2017)",
-                            "url": "https://nvartolomei.com/dist-sys-classics/",
-                            "hot": 323,
-                            "description": "68 comments",
+                            "title": "The k-server conjecture is true",
+                            "url": "https://arxiv.org/abs/2609.15979",
+                            "hot": 73,
+                            "description": "33 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 16:02:01 UTC"
+                            "publishedAt": "2026-09-15 07:45:31 UTC"
                         }
                     ]
                 }
