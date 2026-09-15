@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-15 15:26:06
+> 更新时间：2026-09-15 16:29:48
 
 ## Hottest
 
@@ -16,9 +16,9 @@
 10. [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)
 11. [A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)
 12. [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
-13. [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
-14. [Finished aerial maps in under 30 minutes](https://blog.zm.is/finished-aerial-maps-within-30-minutes/)
-15. [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions)
+13. [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions)
+14. [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
+15. [Finished aerial maps in under 30 minutes](https://blog.zm.is/finished-aerial-maps-within-30-minutes/)
 16. [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/)
 17. [There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
 18. [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)
