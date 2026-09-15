@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-15 11:26:56",
+    "generatedAt": "2026-09-15 11:35:10",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5599,7 +5599,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-15 09:03:44",
+            "fetchedAt": "2026-09-15 11:35:10",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5615,8 +5615,8 @@
                             "rank": 1,
                             "title": "iOS 27, iPadOS 27, and macOS 27",
                             "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-                            "hot": 345,
-                            "description": "402 comments",
+                            "hot": 440,
+                            "description": "493 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 17:50:29 UTC"
                         },
@@ -5624,8 +5624,8 @@
                             "rank": 2,
                             "title": "Pion, an agent designed to run any company autonomously",
                             "url": "https://andonlabs.com/blog/why-we-built-pion",
-                            "hot": 276,
-                            "description": "291 comments",
+                            "hot": 315,
+                            "description": "347 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 17:16:06 UTC"
                         },
@@ -5633,89 +5633,89 @@
                             "rank": 3,
                             "title": "Charts built for Chat",
                             "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-                            "hot": 80,
-                            "description": "26 comments",
+                            "hot": 135,
+                            "description": "42 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 21:22:54 UTC"
                         },
                         {
                             "rank": 4,
+                            "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+                            "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+                            "hot": 42,
+                            "description": "5 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 18:51:40 UTC"
+                        },
+                        {
+                            "rank": 5,
                             "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
                             "url": "https://github.com/JamesRyanATX/fcbnerd",
-                            "hot": 28,
-                            "description": "2 comments",
+                            "hot": 44,
+                            "description": "9 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 23:01:36 UTC"
                         },
                         {
-                            "rank": 5,
-                            "title": "Compressing a Flag to 11 Bits",
-                            "url": "https://read.vantezzen.io/miniflags",
-                            "hot": 57,
-                            "description": "25 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 15:57:43 UTC"
-                        },
-                        {
                             "rank": 6,
-                            "title": "Distributed Systems Classics (2017)",
-                            "url": "https://nvartolomei.com/dist-sys-classics/",
-                            "hot": 230,
-                            "description": "48 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 16:02:01 UTC"
-                        },
-                        {
-                            "rank": 7,
-                            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-                            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-                            "hot": 364,
-                            "description": "311 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:40:57 UTC"
-                        },
-                        {
-                            "rank": 8,
                             "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
                             "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-                            "hot": 20,
-                            "description": "4 comments",
+                            "hot": 51,
+                            "description": "15 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 14:29:23 UTC"
                         },
                         {
-                            "rank": 9,
+                            "rank": 7,
                             "title": "XCancel service is suspended until further notice",
                             "url": "https://xcancel.com/#",
-                            "hot": 440,
-                            "description": "753 comments",
+                            "hot": 501,
+                            "description": "799 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 09:51:50 UTC"
                         },
                         {
-                            "rank": 10,
-                            "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-                            "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-                            "hot": 163,
-                            "description": "162 comments",
+                            "rank": 8,
+                            "title": "Compressing a Flag to 11 Bits",
+                            "url": "https://read.vantezzen.io/miniflags",
+                            "hot": 87,
+                            "description": "39 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 21:05:22 UTC"
+                            "publishedAt": "2026-09-12 15:57:43 UTC"
+                        },
+                        {
+                            "rank": 9,
+                            "title": "Distributed Systems Classics (2017)",
+                            "url": "https://nvartolomei.com/dist-sys-classics/",
+                            "hot": 248,
+                            "description": "56 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:02:01 UTC"
+                        },
+                        {
+                            "rank": 10,
+                            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+                            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+                            "hot": 391,
+                            "description": "331 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 12:40:57 UTC"
                         },
                         {
                             "rank": 11,
-                            "title": "A Beginning for Mathematics",
-                            "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-                            "hot": 165,
-                            "description": "92 comments",
+                            "title": "The biggest dinosaurs couldn't sit on their eggs",
+                            "url": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
+                            "hot": 18,
+                            "description": "2 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 15:33:07 UTC"
+                            "publishedAt": "2026-09-14 00:00:30 UTC"
                         },
                         {
                             "rank": 12,
                             "title": "Principles for Fast Tokio Applications",
                             "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-                            "hot": 158,
-                            "description": "41 comments",
+                            "hot": 175,
+                            "description": "44 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 15:27:56 UTC"
                         },
@@ -5723,73 +5723,73 @@
                             "rank": 13,
                             "title": "How my e-reader lost its stripes",
                             "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-                            "hot": 146,
-                            "description": "24 comments",
+                            "hot": 164,
+                            "description": "25 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 16:23:16 UTC"
                         },
                         {
                             "rank": 14,
-                            "title": "Optimizing a Spin-Lock",
-                            "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-                            "hot": 40,
-                            "description": "16 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 09:43:44 UTC"
-                        },
-                        {
-                            "rank": 15,
                             "title": "Steam Frame starts at $1059",
                             "url": "https://store.steampowered.com/hardware/steamframe",
-                            "hot": 485,
-                            "description": "355 comments",
+                            "hot": 547,
+                            "description": "422 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 17:27:55 UTC"
                         },
                         {
-                            "rank": 16,
+                            "rank": 15,
                             "title": "Why don't machine learning research agents overfit?",
                             "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-                            "hot": 102,
-                            "description": "57 comments",
+                            "hot": 111,
+                            "description": "61 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 16:32:23 UTC"
                         },
                         {
-                            "rank": 17,
+                            "rank": 16,
                             "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
                             "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-                            "hot": 84,
-                            "description": "24 comments",
+                            "hot": 95,
+                            "description": "26 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 17:02:34 UTC"
                         },
                         {
+                            "rank": 17,
+                            "title": "Optimizing a Spin-Lock",
+                            "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+                            "hot": 47,
+                            "description": "24 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 09:43:44 UTC"
+                        },
+                        {
                             "rank": 18,
+                            "title": "A Beginning for Mathematics",
+                            "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+                            "hot": 177,
+                            "description": "104 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 15:33:07 UTC"
+                        },
+                        {
+                            "rank": 19,
                             "title": "Ask HN: What are you working on? (September 2026)",
                             "url": "https://news.ycombinator.com/item?id=49686380",
-                            "hot": 294,
-                            "description": "925 comments",
+                            "hot": 306,
+                            "description": "958 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 17:31:38 UTC"
                         },
                         {
-                            "rank": 19,
-                            "title": "An atlas of periodic solutions to the three-body problem",
-                            "url": "https://www.threebodyorbits.com/",
-                            "hot": 349,
-                            "description": "79 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 10:13:24 UTC"
-                        },
-                        {
                             "rank": 20,
-                            "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-                            "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-                            "hot": 3,
-                            "description": "0 comments",
+                            "title": "People who can't picture anything are rewriting the science of imagination",
+                            "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+                            "hot": 111,
+                            "description": "179 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-12 18:51:40 UTC"
+                            "publishedAt": "2026-09-14 13:23:53 UTC"
                         }
                     ]
                 }
