@@ -1,11 +1,11 @@
 # 掘金热榜
 
-> 更新时间：2026-09-16 05:18:38
+> 更新时间：2026-09-16 06:19:58
 
 ## 热门文章
 
-1. [从codex转战workbuddy使用一周的感受](https://juejin.cn/post/7684460980934049807)
-2. [ValidX时间段验证详解：ISO 8601标准与简化格式](https://juejin.cn/post/7684649314159312930)
+1. [ValidX时间段验证详解：ISO 8601标准与简化格式](https://juejin.cn/post/7684649314159312930)
+2. [从codex转战workbuddy使用一周的感受](https://juejin.cn/post/7684460980934049807)
 3. [被吹上天的 JWT，为什么主流网站一个都不用](https://juejin.cn/post/7684261460002701338)
 4. [DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！](https://juejin.cn/post/7685188623412133898)
 5. [只备份一个 schema，别把整库都搬走](https://juejin.cn/post/7685224902321848358)
