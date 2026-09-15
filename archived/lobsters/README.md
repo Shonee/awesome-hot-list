@@ -1,13 +1,13 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-15 11:26:07
+> 更新时间：2026-09-15 12:25:18
 
 ## Hottest
 
 1. [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
 2. [What blog posts influenced your thinking the most?](https://lobste.rs/s/lbavmm)
-3. [How can you not be romantic about UNIX domain sockets?](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets)
-4. ["Do You Still Read the Code?"](https://zanlib.dev/blog/do-you-still-read-the-code/)
+3. ["Do You Still Read the Code?"](https://zanlib.dev/blog/do-you-still-read-the-code/)
+4. [How can you not be romantic about UNIX domain sockets?](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets)
 5. [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl)
 6. [Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats](https://codeberg.org/mergiraf/mergiraf)
 7. [Anecdotally, programmers dislike "reduce"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
@@ -24,8 +24,8 @@
 18. [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)
 19. [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/)
 20. [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
-21. [What are you doing this week?](https://lobste.rs/s/0inlyw)
-22. [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
-23. [Dropping eBPF CPU Cost by About 90% With Memoization](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
-24. [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
-25. [Purely Functional Operating Systems](https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982)
+21. [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
+22. [What are you doing this week?](https://lobste.rs/s/0inlyw)
+23. [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
+24. [Dropping eBPF CPU Cost by About 90% With Memoization](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
+25. [Push-based vs Pull-based Customization](https://brevzin.github.io/c++/2026/09/14/push-vs-pull/)

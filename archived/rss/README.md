@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 11:26:56
+> 更新时间：2026-09-15 12:26:08
 
 ## IT之家
 
-1. [艾利和推出 CLARUS 克鲁斯 Hi-Fi 入耳式耳机，21999 元](https://www.ithome.com/1/002/490.htm)
-2. [直径 16.68 米：国产最大直径盾构机“中铁 1662 号”在郑州下线](https://www.ithome.com/1/002/489.htm)
-3. [完美世界电竞再度于上海主办 2027 反恐精英世界锦标赛](https://www.ithome.com/1/002/486.htm)
-4. [比亚迪腾势 N8L 纯电版开启首批车主交付，29.98 万元起](https://www.ithome.com/1/002/485.htm)
-5. [Waymo 自动驾驶出租车商业服务目标 2027 年正式登陆日本东京市场](https://www.ithome.com/1/002/484.htm)
+1. [小米米家富矿净水器 2 今日开售：1200G 大流量 + 8 年长效 RO 滤芯，首发 2199 元](https://www.ithome.com/1/002/518.htm)
+2. [岚图梦想家 9 车型 9 月 22 日上市：首搭虎踞 P 底盘，预售价 42.99 万元起](https://www.ithome.com/1/002/517.htm)
+3. [HORI 为 Nintendo Switch 2 带来复古格斗控制器，采用模块化摇杆](https://www.ithome.com/1/002/516.htm)
+4. [惠普战 X Pro 锐龙版上市：锐龙 AI 9 HX Pro 470、64GB + 2TB 存储，29999 元](https://www.ithome.com/1/002/515.htm)
+5. [国家统计局：截至 6 月末我国已建成 70 余条算力大通道](https://www.ithome.com/1/002/511.htm)
 
 ## 少数派
 
-1. [派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等](https://sspai.com/post/114593)
-2. [派评｜近期值得关注的 App](https://sspai.com/post/114577)
-3. [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
-4. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
-5. [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+1. [开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
+2. [派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等](https://sspai.com/post/114593)
+3. [派评｜近期值得关注的 App](https://sspai.com/post/114577)
+4. [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
+5. [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
 
 ## 爱范儿
 
@@ -57,6 +57,14 @@
 3. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
 4. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
 5. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
+
+## AI News
+
+1. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+2. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+3. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
+4. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
+5. [Palantir Foundry and cuOpt drive NVIDIA supply chain allocation](https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/)
 
 ## 阮一峰网络日志
 
