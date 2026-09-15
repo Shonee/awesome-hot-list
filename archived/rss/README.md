@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 18:23:24
+> 更新时间：2026-09-15 19:20:50
 
 ## IT之家
 
-1. [小米米家智能燃气热水器 2 静音一级能效 16L 发售，2899 元](https://www.ithome.com/1/002/715.htm)
-2. [全国首个具身智能机器人专用 SIM 卡发布：套餐 599 元起，峰值上行 500Mbps](https://www.ithome.com/1/002/714.htm)
-3. [戴尔 CEO 迈克尔 · 戴尔：明年“缺芯”可能更严重，硬件价格还得涨](https://www.ithome.com/1/002/713.htm)
-4. [美国首次公开承认：已在太空部署武器](https://www.ithome.com/1/002/712.htm)
-5. [水月雨耳机新品 Position 准星公布，9 月 17 日发布](https://www.ithome.com/1/002/703.htm)
+1. [曝百度挖来前谷歌 DeepMind 核心成员 Qiyin Wu，曾是 Gemini 2.5 模型官方报告核心作者](https://www.ithome.com/1/002/740.htm)
+2. [2027 款福特 F-150 皮卡发布：基础发动机升级，全系可选 5.0L V8](https://www.ithome.com/1/002/738.htm)
+3. [荣耀 MagicOS 11 系统首批升级机型开启正式版不限量尝鲜](https://www.ithome.com/1/002/737.htm)
+4. [丰田申请新专利：你的眼睛看哪里，车载摄像头就帮你拍哪里](https://www.ithome.com/1/002/736.htm)
+5. [消息称双框架华为鸿蒙车机将支持荣耀手机，新版“超级桌面”Demo 演示曝光](https://www.ithome.com/1/002/735.htm)
 
 ## 少数派
 
@@ -28,19 +28,19 @@
 
 ## 量子位
 
-1. [Hacked by CoupDeGrace](https://www.qbitai.com/2026/09/489371.html)
-2. [Hacked by CoupDeGrace](https://www.qbitai.com/2026/09/489365.html)
-3. [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
-4. [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
-5. [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
+1. [一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影](https://www.qbitai.com/2026/09/489381.html)
+2. [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
+3. [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
+4. [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
+5. [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
 
 ## InfoQ
 
-1. [QQ 飞车 Agentic 研发转型过程中的Loop Engineering](https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article)
-2. [OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra](https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&utm_medium=article)
-3. [京东上线“东东”购物助手：在原来的APP里长出了一个“更懂你”的Agent](https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ?utm_source=rss&utm_medium=article)
-4. [OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust](https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&utm_medium=article)
-5. [月之暗面：网传创始人及员工信息系恶意造谣；OpenAI 放弃今年上市；iPhone Duo炒到9万，黄牛贷款欲囤货｜AI周报](https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA?utm_source=rss&utm_medium=article)
+1. [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
+2. [支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎](https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article)
+3. [QQ 飞车 Agentic 研发转型过程中的Loop Engineering](https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article)
+4. [OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra](https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&utm_medium=article)
+5. [京东上线“东东”购物助手：在原来的APP里长出了一个“更懂你”的Agent](https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -52,19 +52,11 @@
 
 ## MIT Technology Review
 
-1. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
-2. [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
-3. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
-4. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
-5. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
-
-## AI News
-
-1. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-2. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
-3. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-4. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
-5. [How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel](https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/)
+1. [What must happen for AI’s trillion-dollar gamble to pay off](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
+2. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
+3. [Donated livers can be made biologically younger](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
+4. [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/)
+5. [The Download: AI’s real extinction threat and age-reversal tech for eyes](https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/)
 
 ## 阮一峰网络日志
 
