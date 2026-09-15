@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15 17:26:27",
-    "summary": "这个“合订本”让日本人气坏了成为本期综合热度最高的话题，上5休1上5休3上3休7上3休1紧随其后。当前覆盖 33 个有效渠道，共形成 742 个榜单时间切片；发现 121 个跨渠道重复热点。",
+    "generatedAt": "2026-09-15 17:36:41",
+    "summary": "这个“合订本”让日本人气坏了成为本期综合热度最高的话题，上5休1上5休3上3休7上3休1紧随其后。当前覆盖 33 个有效渠道，共形成 743 个榜单时间切片；发现 121 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 4472,
+        "deduplicated": 4475,
         "resonance": 121,
         "maxRise": 62,
-        "slices": 742,
+        "slices": 743,
         "coverage": 100,
         "samplingCoverage": 96
     },
@@ -2184,7 +2184,7 @@
         },
         {
             "word": "LA",
-            "weight": 126,
+            "weight": 128,
             "tone": "gold",
             "hits": [
                 {
@@ -2340,6 +2340,22 @@
                     "url": "https://read.vantezzen.io/miniflags"
                 },
                 {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 14,
+                    "title": "Compressing a flag to 11 bits",
+                    "url": "https://read.vantezzen.io/miniflags"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 16,
+                    "title": "Forgotten Woodlands",
+                    "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49"
+                },
+                {
                     "channelId": "huggingface",
                     "channelName": "Hugging Face",
                     "ranking": "Trending Models",
@@ -2410,22 +2426,6 @@
                     "rank": 25,
                     "title": "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code",
                     "url": "https://kythe.io"
-                },
-                {
-                    "channelId": "lobsters",
-                    "channelName": "Lobsters",
-                    "ranking": "Hottest",
-                    "rank": 25,
-                    "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
-                    "url": "https://maggieappleton.com/planning-agents"
-                },
-                {
-                    "channelId": "sina",
-                    "channelName": "新浪",
-                    "ranking": "新闻热榜",
-                    "rank": 11,
-                    "title": "OpenAI收购了初创企业Glass Imaging，该公司专注于智能手机摄像头相关影像技术研发，该初创公司估值超过3亿美元。",
-                    "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirvqsq3922805.shtml"
                 }
             ]
         },
@@ -10017,9 +10017,9 @@
         "times": [
             "00:22",
             "04:21",
-            "08:57",
-            "13:30",
-            "17:25"
+            "09:03",
+            "14:36",
+            "17:35"
         ],
         "rows": [
             {

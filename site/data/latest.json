@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-09-15 17:25:19",
+    "generatedAt": "2026-09-15 17:35:58",
     "channels": [
         {
             "schemaVersion": 1,
@@ -5617,7 +5617,7 @@
             "channelId": "hackernews",
             "channelName": "Hacker News",
             "sourceUrl": "https://news.ycombinator.com/",
-            "fetchedAt": "2026-09-15 14:45:58",
+            "fetchedAt": "2026-09-15 17:35:58",
             "status": "ok",
             "error": "",
             "warnings": [],
@@ -5631,183 +5631,183 @@
                     "items": [
                         {
                             "rank": 1,
-                            "title": "iOS 27, iPadOS 27, and macOS 27",
-                            "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-                            "hot": 533,
-                            "description": "581 comments",
+                            "title": "I can't stop thinking about Papua New Guinea",
+                            "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+                            "hot": 121,
+                            "description": "31 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 17:50:29 UTC"
+                            "publishedAt": "2026-09-15 06:16:24 UTC"
                         },
                         {
                             "rank": 2,
-                            "title": "Linux from Scratch",
-                            "url": "https://www.linuxfromscratch.org/",
-                            "hot": 69,
-                            "description": "24 comments",
+                            "title": "iOS 27, iPadOS 27, and macOS 27",
+                            "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+                            "hot": 598,
+                            "description": "679 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-15 04:15:23 UTC"
+                            "publishedAt": "2026-09-14 17:50:29 UTC"
                         },
                         {
                             "rank": 3,
                             "title": "OpenArm: An open-source 7DOF humanoid arm",
                             "url": "https://github.com/enactic/OpenArm",
-                            "hot": 36,
-                            "description": "5 comments",
+                            "hot": 85,
+                            "description": "18 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-13 14:17:49 UTC"
                         },
                         {
                             "rank": 4,
-                            "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-                            "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-                            "hot": 98,
-                            "description": "19 comments",
+                            "title": "Linux from Scratch",
+                            "url": "https://www.linuxfromscratch.org/",
+                            "hot": 172,
+                            "description": "58 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-12 18:51:40 UTC"
+                            "publishedAt": "2026-09-15 04:15:23 UTC"
                         },
                         {
                             "rank": 5,
                             "title": "Pion, an agent designed to run any company autonomously",
                             "url": "https://andonlabs.com/blog/why-we-built-pion",
-                            "hot": 361,
-                            "description": "416 comments",
+                            "hot": 404,
+                            "description": "502 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 17:16:06 UTC"
                         },
                         {
                             "rank": 6,
-                            "title": "Every invoice in Brazil's economy runs on SOAP 1.2",
-                            "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
-                            "hot": 65,
-                            "description": "34 comments",
+                            "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+                            "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+                            "hot": 130,
+                            "description": "40 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-13 03:19:54 UTC"
+                            "publishedAt": "2026-09-12 18:51:40 UTC"
                         },
                         {
                             "rank": 7,
                             "title": "Charts built for Chat",
                             "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-                            "hot": 197,
-                            "description": "61 comments",
+                            "hot": 225,
+                            "description": "69 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 21:22:54 UTC"
                         },
                         {
                             "rank": 8,
-                            "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-                            "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-                            "hot": 89,
-                            "description": "25 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 14:29:23 UTC"
-                        },
-                        {
-                            "rank": 9,
                             "title": "XCancel service is suspended until further notice",
                             "url": "https://xcancel.com/#",
-                            "hot": 576,
-                            "description": "843 comments",
+                            "hot": 629,
+                            "description": "933 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 09:51:50 UTC"
                         },
                         {
-                            "rank": 10,
-                            "title": "When code is a maze, smart developers make maps",
-                            "url": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
-                            "hot": 9,
-                            "description": "12 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 08:35:30 UTC"
-                        },
-                        {
-                            "rank": 11,
-                            "title": "Distributed Systems Classics (2017)",
-                            "url": "https://nvartolomei.com/dist-sys-classics/",
-                            "hot": 276,
-                            "description": "60 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 16:02:01 UTC"
-                        },
-                        {
-                            "rank": 12,
-                            "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-                            "url": "https://github.com/JamesRyanATX/fcbnerd",
-                            "hot": 54,
-                            "description": "11 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 23:01:36 UTC"
-                        },
-                        {
-                            "rank": 13,
-                            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-                            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-                            "hot": 426,
-                            "description": "343 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 12:40:57 UTC"
-                        },
-                        {
-                            "rank": 14,
-                            "title": "A beginning for mathematics",
-                            "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-                            "hot": 196,
-                            "description": "109 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-14 15:33:07 UTC"
-                        },
-                        {
-                            "rank": 15,
-                            "title": "Compressing a Flag to 11 Bits",
-                            "url": "https://read.vantezzen.io/miniflags",
-                            "hot": 115,
-                            "description": "49 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-12 15:57:43 UTC"
-                        },
-                        {
-                            "rank": 16,
+                            "rank": 9,
                             "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
                             "url": "https://poltora.dev/redis",
-                            "hot": 40,
-                            "description": "7 comments",
+                            "hot": 83,
+                            "description": "13 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-12 19:43:34 UTC"
                         },
                         {
-                            "rank": 17,
-                            "title": "Principles for Fast Tokio Applications",
-                            "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-                            "hot": 192,
-                            "description": "47 comments",
+                            "rank": 10,
+                            "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+                            "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+                            "hot": 109,
+                            "description": "27 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 15:27:56 UTC"
+                            "publishedAt": "2026-09-14 14:29:23 UTC"
+                        },
+                        {
+                            "rank": 11,
+                            "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+                            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+                            "hot": 460,
+                            "description": "367 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 12:40:57 UTC"
+                        },
+                        {
+                            "rank": 12,
+                            "title": "Distributed Systems Classics (2017)",
+                            "url": "https://nvartolomei.com/dist-sys-classics/",
+                            "hot": 300,
+                            "description": "66 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 16:02:01 UTC"
+                        },
+                        {
+                            "rank": 13,
+                            "title": "A beginning for mathematics",
+                            "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+                            "hot": 221,
+                            "description": "117 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 15:33:07 UTC"
+                        },
+                        {
+                            "rank": 14,
+                            "title": "Compressing a flag to 11 bits",
+                            "url": "https://read.vantezzen.io/miniflags",
+                            "hot": 142,
+                            "description": "59 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-12 15:57:43 UTC"
+                        },
+                        {
+                            "rank": 15,
+                            "title": "High-performance garbage collection for C++",
+                            "url": "https://v8.dev/blog/high-performance-cpp-gc",
+                            "hot": 37,
+                            "description": "4 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 11:55:44 UTC"
+                        },
+                        {
+                            "rank": 16,
+                            "title": "Forgotten Woodlands",
+                            "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+                            "hot": 57,
+                            "description": "20 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-11 21:21:04 UTC"
+                        },
+                        {
+                            "rank": 17,
+                            "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+                            "url": "https://github.com/JamesRyanATX/fcbnerd",
+                            "hot": 69,
+                            "description": "17 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-14 23:01:36 UTC"
                         },
                         {
                             "rank": 18,
-                            "title": "Ask HN: What are you working on? (September 2026)",
-                            "url": "https://news.ycombinator.com/item?id=49686380",
-                            "hot": 318,
-                            "description": "985 comments",
-                            "imageUrl": "",
-                            "publishedAt": "2026-09-13 17:31:38 UTC"
-                        },
-                        {
-                            "rank": 19,
                             "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
                             "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-                            "hot": 144,
-                            "description": "129 comments",
+                            "hot": 184,
+                            "description": "188 comments",
                             "imageUrl": "",
                             "publishedAt": "2026-09-14 13:38:58 UTC"
                         },
                         {
-                            "rank": 20,
-                            "title": "People who can't picture anything are rewriting the science of imagination",
-                            "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-                            "hot": 147,
-                            "description": "208 comments",
+                            "rank": 19,
+                            "title": "Principles for Fast Tokio Applications",
+                            "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+                            "hot": 212,
+                            "description": "52 comments",
                             "imageUrl": "",
-                            "publishedAt": "2026-09-14 13:23:53 UTC"
+                            "publishedAt": "2026-09-14 15:27:56 UTC"
+                        },
+                        {
+                            "rank": 20,
+                            "title": "Ask HN: What are you working on? (September 2026)",
+                            "url": "https://news.ycombinator.com/item?id=49686380",
+                            "hot": 336,
+                            "description": "1022 comments",
+                            "imageUrl": "",
+                            "publishedAt": "2026-09-13 17:31:38 UTC"
                         }
                     ]
                 }
