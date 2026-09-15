@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-15 10:31:56
+> 更新时间：2026-09-15 11:26:56
 
 ## IT之家
 
-1. [华尔街日报：夏尔马收拾微软 XBOX 烂摊子，每月数小时亲自回玩家工单](https://www.ithome.com/1/002/441.htm)
-2. [小米米家智能 IH 电饭煲 2 多功能版首销：分体式结构设计、9 大烹饪模式，首发价 687.74 元起](https://www.ithome.com/1/002/429.htm)
-3. [2988 元华为 HUAWEI WATCH D3 腕部动态血压记录仪预售：动态血压监测、一键微体检、运动前后血压测量...](https://www.ithome.com/1/002/427.htm)
-4. [微软媒体创建工具更新 Win11 镜像：整合 2026 最大累积更新，修复漏洞数同比增 1032.6%](https://www.ithome.com/1/002/423.htm)
-5. [小米手表 S5 41mm、REDMI Buds 8S 耳机开启预约](https://www.ithome.com/1/002/422.htm)
+1. [艾利和推出 CLARUS 克鲁斯 Hi-Fi 入耳式耳机，21999 元](https://www.ithome.com/1/002/490.htm)
+2. [直径 16.68 米：国产最大直径盾构机“中铁 1662 号”在郑州下线](https://www.ithome.com/1/002/489.htm)
+3. [完美世界电竞再度于上海主办 2027 反恐精英世界锦标赛](https://www.ithome.com/1/002/486.htm)
+4. [比亚迪腾势 N8L 纯电版开启首批车主交付，29.98 万元起](https://www.ithome.com/1/002/485.htm)
+5. [Waymo 自动驾驶出租车商业服务目标 2027 年正式登陆日本东京市场](https://www.ithome.com/1/002/484.htm)
 
 ## 少数派
 
@@ -28,19 +28,19 @@
 
 ## 量子位
 
-1. [首届蚂蚁灵波具身大模型挑战赛正式启动](https://www.qbitai.com/2026/09/489105.html)
-2. [全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证](https://www.qbitai.com/2026/09/489106.html)
-3. [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/489037.html)
-4. [分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”](https://www.qbitai.com/2026/09/489023.html)
-5. [端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装](https://www.qbitai.com/2026/09/488933.html)
+1. [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
+2. [首届蚂蚁灵波具身大模型挑战赛正式启动](https://www.qbitai.com/2026/09/489105.html)
+3. [全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证](https://www.qbitai.com/2026/09/489106.html)
+4. [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/489037.html)
+5. [分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”](https://www.qbitai.com/2026/09/489023.html)
 
 ## InfoQ
 
-1. [从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海](https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article)
-2. [在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训](https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article)
-3. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
-4. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
-5. [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
+1. [Meta 打造“组织第二大脑”智能体的设计思路](https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&utm_medium=article)
+2. [从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海](https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article)
+3. [在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训](https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article)
+4. [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
+5. [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 

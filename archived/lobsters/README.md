@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-15 10:31:19
+> 更新时间：2026-09-15 11:26:07
 
 ## Hottest
 
@@ -18,12 +18,12 @@
 12. [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/)
 13. [Finished aerial maps in under 30 minutes](https://blog.zm.is/finished-aerial-maps-within-30-minutes/)
 14. [A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)
-15. [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
-16. [There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
-17. [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)
-18. [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/)
-19. [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
-20. [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)
+15. [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)
+16. [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
+17. [There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
+18. [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)
+19. [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/)
+20. [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
 21. [What are you doing this week?](https://lobste.rs/s/0inlyw)
 22. [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
 23. [Dropping eBPF CPU Cost by About 90% With Memoization](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
