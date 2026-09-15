@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-16 01:18:24
+> 更新时间：2026-09-16 02:23:53
 
 ## 热门文章
 
@@ -22,16 +22,16 @@
 16. [AgentLoop: 从 while(true) 到生产级循环](https://juejin.cn/post/7684795356321775626)
 17. [最近火爆出圈的，FDE 到底是个什么岗位？](https://juejin.cn/post/7684795356343336998)
 18. [程序员都开始懂业务了，产品经理还剩下什么价值？](https://juejin.cn/post/7684690252645515298)
-19. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
-20. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
-21. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
+19. [AI发展下的后编程时代思考](https://juejin.cn/post/7684657593500205110)
+20. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
+21. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
 22. [WebP 压缩到底在干嘛？小白也能看懂的原理拆解](https://juejin.cn/post/7685040997440978990)
 23. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
 24. [“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股](https://juejin.cn/post/7684460980934164495)
 25. [全球最聪明的几个人，本周突然一起说“别卷了”](https://juejin.cn/post/7685267114438115366)
-26. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
-27. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
-28. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
+26. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
+27. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
+28. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
 29. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
 30. [从产品角度：拆解WorkBuddy 功能](https://juejin.cn/post/7684615074137718824)
 31. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
@@ -43,8 +43,8 @@
 37. [iPhone Duo 带来的机遇与挑战 -- 肘子的 Swift 周报 #153](https://juejin.cn/post/7685220741705007167)
 38. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
 39. [小米版 Codex，干活有点猛啊](https://juejin.cn/post/7684795356321579018)
-40. [GPT-6 Astra爆火后，我用全新3D版“鹈鹕骑车”实测12款大模型，结果它拿了第一](https://juejin.cn/post/7684937171811221513)
-41. [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906)
+40. [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906)
+41. [GPT-6 Astra爆火后，我用全新3D版“鹈鹕骑车”实测12款大模型，结果它拿了第一](https://juejin.cn/post/7684937171811221513)
 42. [硅谷爆火的FDE是AI新风口，还是高级外包？](https://juejin.cn/post/7685224015707979826)
 43. [聊聊 Function Calling，你的模型是否答非所问？](https://juejin.cn/post/7685209311463440435)
 44. [ADK for Kotlin：Google 官方 AI Agent 教程来了](https://juejin.cn/post/7684533566942134278)
