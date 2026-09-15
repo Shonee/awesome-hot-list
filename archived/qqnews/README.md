@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-15 17:24:33
+> 更新时间：2026-09-15 18:22:32
 
 ## 热点榜
 
@@ -14,13 +14,13 @@
 8. [王楚钦：以夺金为目标征战亚运，作为年龄最大的选手必须发挥带头作用](https://view.inews.qq.com/a/20260915A06XA200)
 9. [涨疯了！内存、芯片、电池全线涨价，手机厂商向屏幕要增量](https://view.inews.qq.com/a/20260914A0CSZS00)
 10. [41个“中国酿酒大师”称号，被撤销](https://view.inews.qq.com/a/20260914A0D79300)
-11. [皮肤收敛水，可以治疗毛孔粗大？](https://view.inews.qq.com/a/20260914A0BVL700)
-12. [日本代表团密集访华，“但若高市不收回言论…”](https://view.inews.qq.com/a/20260915A07JFM00)
+11. [内塔尼亚胡也“破防”](https://view.inews.qq.com/a/20260915A0792B00)
+12. [日本百岁老人首次突破10万人，近90%为女性](https://view.inews.qq.com/a/20260915A07QW600)
 13. [特朗普刚否认，美国军方承认了](https://view.inews.qq.com/a/20260915A082KH00)
-14. [计划有变，他准备当首富](https://view.inews.qq.com/a/20260915A06GVY00)
-15. [内塔尼亚胡也“破防”](https://view.inews.qq.com/a/20260915A0792B00)
-16. [河南一大巴高速路行驶，司机跷着二郎腿； 客运方：往返车程长， 司机称跷二郎腿是缓解疲劳， 已介入调查](https://view.inews.qq.com/a/20260915A07NMU00)
-17. [日本百岁老人首次突破10万人，近90%为女性](https://view.inews.qq.com/a/20260915A07QW600)
-18. [马珊珊任沈阳市代市长](https://view.inews.qq.com/a/20260915A06IIQ00)
-19. [又一德国百年零部件企业走向破产](https://view.inews.qq.com/a/20260915A062IK00)
-20. [中方宣布：阿莫林将访华](https://view.inews.qq.com/a/20260915A08FIL00)
+14. [中方宣布：阿莫林将访华](https://view.inews.qq.com/a/20260915A08FIL00)
+15. [少林派武术名家、中国当代十大武术名师之一梁以全逝世](https://view.inews.qq.com/a/20260915A06K9J00)
+16. [广州一地铁站附近“空降”餐刀，一把直插车顶，一把差点击中外卖小哥](https://view.inews.qq.com/a/20260915V06YAT00)
+17. [计划有变，他准备当首富](https://view.inews.qq.com/a/20260915A06GVY00)
+18. [视频丨受贿5742万 十四届全国政协原常委毕井泉一审获刑十四年](https://view.inews.qq.com/a/20260915A0A2SR00)
+19. [17岁少年凌晨离开学校失联2天，妈妈急疯，惊动两地警方联合搜寻，最终在家中床底下找到](https://view.inews.qq.com/a/20260914A0DH8Q00)
+20. [10后学生流行起“呆毛”发型：在头顶取一小撮头发，距头皮2至3厘米处剪断，留下的发根自然炸开](https://view.inews.qq.com/a/20260915A05JKS00)
