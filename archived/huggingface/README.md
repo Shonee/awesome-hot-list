@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-09-15 20:40:26
+> 更新时间：2026-09-16 03:26:58
 
 ## Trending Models
 
@@ -9,8 +9,8 @@
 3. [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)
 4. [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)
 5. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-6. [nex-agi/Nex-N2.5-Pro](https://huggingface.co/nex-agi/Nex-N2.5-Pro)
-7. [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)
+6. [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)
+7. [nex-agi/Nex-N2.5-Pro](https://huggingface.co/nex-agi/Nex-N2.5-Pro)
 8. [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)
 9. [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)
 10. [TokenRhythm/NeoHorse-1-4B](https://huggingface.co/TokenRhythm/NeoHorse-1-4B)
@@ -18,9 +18,9 @@
 12. [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)
 13. [XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)
 14. [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-15. [WarmBloodAban/Minimax-h3_Singularity](https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity)
-16. [tencent/AuK](https://huggingface.co/tencent/AuK)
-17. [openai-community/gpt2](https://huggingface.co/openai-community/gpt2)
+15. [tencent/AuK](https://huggingface.co/tencent/AuK)
+16. [ukisai/Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b)
+17. [WarmBloodAban/Minimax-h3_Singularity](https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity)
 18. [MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)
-19. [ukisai/Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b)
+19. [openai-community/gpt2](https://huggingface.co/openai-community/gpt2)
 20. [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)
