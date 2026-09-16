@@ -1,13 +1,13 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-16",
-    "generatedAt": "2026-09-16 14:37:41",
-    "summary": "不良信息一键举报 共建清朗网络空间成为本期综合热度最高的话题，崔天凯：一劳永逸解决台湾问题紧随其后。当前覆盖 33 个有效渠道，共形成 619 个榜单时间切片；发现 106 个跨渠道重复热点。",
+    "generatedAt": "2026-09-16 14:46:45",
+    "summary": "不良信息一键举报 共建清朗网络空间成为本期综合热度最高的话题，崔天凯：一劳永逸解决台湾问题紧随其后。当前覆盖 33 个有效渠道，共形成 620 个榜单时间切片；发现 106 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 3822,
+        "deduplicated": 3824,
         "resonance": 106,
         "maxRise": 50,
-        "slices": 619,
+        "slices": 620,
         "coverage": 100,
         "samplingCoverage": 95
     },
@@ -8716,7 +8716,7 @@
         },
         {
             "word": "Agent",
-            "weight": 42,
+            "weight": 43,
             "tone": "gold",
             "hits": [
                 {
@@ -8822,6 +8822,14 @@
                     "rank": 17,
                     "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
                     "url": "https://github.com/pizza-bot-app/pizza-bot"
+                },
+                {
+                    "channelId": "hackernews",
+                    "channelName": "Hacker News",
+                    "ranking": "Top Stories",
+                    "rank": 6,
+                    "title": "Datamimic – don't let your coding agent invent its own test world",
+                    "url": "https://github.com/rapiddweller/datamimic"
                 },
                 {
                     "channelId": "juejin",
@@ -8949,14 +8957,6 @@
                     "ranking": "24 小时推荐排行",
                     "rank": 2,
                     "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(1/10/1342)",
-                    "url": "https://www.cnblogs.com/duwenlong/p/22879534"
-                },
-                {
-                    "channelId": "cnblogs",
-                    "channelName": "博客园",
-                    "ranking": "24 小时推荐排行",
-                    "rank": 2,
-                    "title": "【编辑推荐】 Memory 记忆设计讨论：Agent Memory 到底应该是什么？(2/10/1377)",
                     "url": "https://www.cnblogs.com/duwenlong/p/22879534"
                 }
             ]
@@ -10008,10 +10008,10 @@
     "flow": {
         "times": [
             "00:22",
-            "03:19",
-            "06:20",
+            "03:26",
+            "07:18",
             "10:31",
-            "14:37"
+            "14:45"
         ],
         "rows": [
             {
