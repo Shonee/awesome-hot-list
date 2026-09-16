@@ -1,38 +1,38 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 11:27:01
+> 更新时间：2026-09-16 12:26:33
 
 ## IT之家
 
-1. [光荣《卧龙 2：凤火连天》定档 2027 年 3 月 4 日发售：298 元起，体验版已上线](https://www.ithome.com/1/002/972.htm)
-2. [对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能](https://www.ithome.com/1/002/971.htm)
-3. [消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资](https://www.ithome.com/1/002/970.htm)
-4. [绿联 P5 自带线充电宝今日开售：22.5W 快充，售价 119 元](https://www.ithome.com/1/002/969.htm)
-5. [vivo OriginOS 7 升级“光影美学”，带来沉浸主屏、动态透彩材质等](https://www.ithome.com/1/002/967.htm)
+1. [行业首个，中国移动开源连接 VLA / WAM 模型与机器人本体的通用工程底座 Open-RAIL](https://www.ithome.com/1/003/013.htm)
+2. [豆包大模型 2.1 Pro 更新 0915 版本：Agent 交付更可靠，多模态 Coding 进化](https://www.ithome.com/1/003/012.htm)
+3. [中国天眼 FAST 重要新发现，捕获目前已知总质量最轻的双中子星系统](https://www.ithome.com/1/003/011.htm)
+4. [别克世纪 CENTURY 黑金限量版售罄：限量 50 台，54.99 万元起](https://www.ithome.com/1/003/009.htm)
+5. [通用汽车让步，部分燃油车继续支持苹果 CarPlay 车联方案](https://www.ithome.com/1/003/004.htm)
 
 ## 少数派
 
-1. [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
-2. [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
-3. [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
-4. [开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
-5. [派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等](https://sspai.com/post/114593)
+1. [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
+2. [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
+3. [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
+4. [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
+5. [开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
 
 ## 爱范儿
 
-1. [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱](https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么](https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群](https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西](https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [我和我的 AI 手机吃了 3 顿饭](https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱](https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么](https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
-1. [华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下](https://www.qbitai.com/2026/09/490098.html)
-2. [梁文锋CFO到位！投过智谱MiniMax](https://www.qbitai.com/2026/09/489707.html)
-3. [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
-4. [手机替我跑了一整套流程！我就说了一句话，AI执行了100步](https://www.qbitai.com/2026/09/489466.html)
-5. [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
+1. [被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」](https://www.qbitai.com/2026/09/490185.html)
+2. [把记忆交给CPU，大模型会变快](https://www.qbitai.com/2026/09/489724.html)
+3. [实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招](https://www.qbitai.com/2026/09/490109.html)
+4. [华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下](https://www.qbitai.com/2026/09/490098.html)
+5. [梁文锋CFO到位！投过智谱MiniMax](https://www.qbitai.com/2026/09/489707.html)
 
 ## InfoQ
 
