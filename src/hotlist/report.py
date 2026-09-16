@@ -252,15 +252,17 @@ def _hit(channel_id: str, row: dict) -> dict:
 
 def _unique_hits(rows: Iterable[tuple]) -> List[dict]:
     hits = []
-    seen = set()
+    seen = defaultdict(list)
     for channel_id, row in rows:
         hit = _hit(channel_id, row)
-        key = (hit["channelId"], _normalize_title(hit["title"]))
-        if key in seen or not hit["url"]:
+        title = _normalize_title(hit["title"])
+        if not hit["url"] or any(_similar_title(title, previous) for previous in seen[channel_id]):
             continue
-        seen.add(key)
+        seen[channel_id].append(title)
         hits.append(hit)
-    return hits[:30]
+        if len(hits) == 30:
+            break
+    return hits
 
 
 def _extract_keywords(records: List[tuple], limit: int = 40) -> List[tuple]:

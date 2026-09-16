@@ -195,6 +195,15 @@ class ReportBuilderTests(unittest.TestCase):
         self.assertEqual(len(report["topTopics"][0]["hits"]), 1)
         self.assertEqual(len(report["words"][0]["hits"]), 1)
 
+    def test_report_hits_collapse_title_rewrites_within_one_channel(self):
+        rows = {"weibo": [
+            {"index": 1, "title": "男子30年前存一万定期忘取", "url": "https://example.com/one", "type": "热榜", "datetime": "2026-09-04 09:00:00"},
+            {"index": 8, "title": "男子30年前存一万定期忘取法院判了", "url": "https://example.com/two", "type": "热榜", "datetime": "2026-09-04 12:00:00"},
+        ]}
+        report = build_report_from_rows("2026-09-04", rows)
+        topic = next(item for item in report["topTopics"] if "男子30年前" in item["title"])
+        self.assertEqual(len(topic["hits"]), 1)
+
     def test_report_builds_curve_points_from_time_slices(self):
         rows = {
             "douyin": [
