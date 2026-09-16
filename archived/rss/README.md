@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-17 02:26:14
+> 更新时间：2026-09-17 03:18:52
 
 ## IT之家
 
-1. [联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争](https://www.ithome.com/1/003/338.htm)
-2. [多名欧美艺人集体发帖，暗示自己将入选《GTA 6》电台音乐或出任 DJ](https://www.ithome.com/1/003/336.htm)
-3. [任天堂推出《朋友收集：梦想生活》同捆版 Switch Lite 游戏机，10 月 29 日发售](https://www.ithome.com/1/003/330.htm)
-4. [《饥饿游戏》前传电影《饥饿游戏：收获日出》曝全新中字预告，北美 2026 年 11 月 20 日上映](https://www.ithome.com/1/003/329.htm)
-5. [形似“脚印”，好奇号在火星上发现奇特新地貌](https://www.ithome.com/1/003/328.htm)
+1. [苹果 watchOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/345.htm)
+2. [苹果 visionOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/344.htm)
+3. [苹果 macOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/343.htm)
+4. [苹果 iOS/iPadOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/342.htm)
+5. [联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争](https://www.ithome.com/1/003/338.htm)
 
 ## 少数派
 
