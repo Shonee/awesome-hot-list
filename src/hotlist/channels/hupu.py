@@ -1,4 +1,4 @@
-"""Hupu hot-topic adapter using the mobile SSR payload."""
+"""Hupu homepage posts and walk-street threads."""
 
 import json
 import logging
@@ -14,8 +14,26 @@ from .common import snapshot
 
 
 SOURCE_URL = "https://m.hupu.com/hot"
+HOME_URL = "https://m.hupu.com/"
 WALK_STREET_URL = "https://bbs.hupu.com/all-gambia"
 logger = logging.getLogger(__name__)
+
+
+def parse_home(html: str) -> list[HotItem]:
+    soup = BeautifulSoup(html, "html.parser")
+    items = []
+    seen = set()
+    for link in soup.select("a.news-item[href*='/bbs/']"):
+        heading = link.select_one(".news-item-info-title")
+        title = heading.get_text(" ", strip=True) if heading else ""
+        url = urljoin(HOME_URL, link.get("href", ""))
+        if not title or url in seen:
+            continue
+        seen.add(url)
+        items.append(HotItem(len(items) + 1, title, url))
+        if len(items) >= 50:
+            break
+    return items
 
 
 def parse_topics(html: str) -> list[HotItem]:
@@ -45,7 +63,7 @@ def parse_topics(html: str) -> list[HotItem]:
 
 
 def collect() -> "ChannelSnapshot":
-    rankings = [Ranking("hot", "虎扑热榜", parse_topics(get(SOURCE_URL)), SOURCE_URL)]
+    rankings = [Ranking("home", "虎扑首页", parse_home(get(HOME_URL)), HOME_URL)]
     try:
         walk_items = parse_topics(get(WALK_STREET_URL, timeout=12, retries=1))
         if walk_items:

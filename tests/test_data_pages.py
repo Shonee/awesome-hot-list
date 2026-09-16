@@ -28,6 +28,10 @@ class DataRootTests(unittest.TestCase):
             self.assertTrue((root / "archived/douyin/2026/09/csv/2026-09-06.csv").is_file())
             self.assertTrue((root / "site/data/latest.json").is_file())
             self.assertTrue((root / "site/data/reports/today.json").is_file())
+            self.assertEqual(
+                (root / "site/data/reports/today.json").read_text(encoding="utf-8"),
+                '{"date":"2026-09-06"}',
+            )
 
     def test_render_writes_site_to_the_selected_data_root(self):
         with tempfile.TemporaryDirectory() as directory:

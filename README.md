@@ -38,6 +38,7 @@
 | Hacker News | Top Stories | 是（2 小时） | 官方 Firebase API；最多读取前 25 个详情并展示 20 条 |
 | Hugging Face | Trending Models | 是（6 小时） | 官方模型 API；已通过 Actions 网络验证 |
 | Google Trends | 香港趋势 | 是（6 小时） | 官方 Trending Now 页面；中国大陆无对应地区榜，使用香港地区 |
+| 必应热门新闻 | Trending on Bing（美国新闻） | 是（3 小时） | 官方 Bing News 英文地区热门新闻，非中文搜索热词；来源页面可能受地区和反爬限制 |
 | 掘金 | 热门文章 | 是 | 公开推荐接口 |
 | Lobsters | Hottest | 是 | 官方 JSON API |
 | 今日头条 | 热点榜 | 是 | 公开榜单接口 |
@@ -47,7 +48,7 @@
 | 澎湃新闻 | 热新闻 | 是 | 官方首页结构化接口 |
 | AcFun | 日榜、三日榜、周榜 | 是 | 公开榜单接口 |
 | 豆瓣 | 小组精选 | 是 | HTML 解析 |
-| 虎扑 | 热榜 | 是 | 使用移动端服务端渲染数据，桌面入口可能被 WAF 拦截 |
+| 虎扑 | 虎扑首页、步行街热帖 | 是 | 首页读取移动端可跳转的帖子链接；步行街保留原有榜单 |
 | 36氪 | 热榜 | 是 | 公开榜单接口 |
 | 同花顺 | 今日要闻 | 是 | HTML 解析，结构可能调整 |
 | 东方财富 | 股票人气榜 | 是（3 小时） | 官方人气榜；批量行情不可用时保留股票代码榜单 |
@@ -56,15 +57,15 @@
 | V2EX | 热门主题 | 是（3 小时） | 公开接口；部分网络环境可能出现 TLS 访问限制 |
 | Stack Overflow | 热门问题 | 是 | Stack Exchange 公开 API |
 | 财联社 | 热门快讯 | 是 | 首页 SSR 数据，详情链接指向电报文章 |
-| 博客园 | 24 小时推荐排行 | 是 | 公开 HTML 排行页 |
+| 博客园 | 最新帖子、精华帖子、48 小时阅读排行 | 是 | 首页和精华页只读正文帖子，阅读榜读取公开侧栏接口；各榜单失败隔离 |
 | NodeSeek | 热门主题 | 是 | 公开页面 HTML，实际可用性以 Actions 采集结果为准 |
-| 吾爱破解 | 热门热帖 | 是 | Discuz 热榜页面 |
+| 吾爱破解 | 人气热门、精华采撷 | 是 | 精华榜为可选来源，遇到 JavaScript 验证时保留原有人气榜 |
 | 微信文章 | 24h 热文榜 | 是 | 微信无公开全网文章热榜，当前使用今日热榜，条目跳转公众号原文 |
 | 百度贴吧 | 最有料热点 | 是 | 贴吧首页右上角热点榜，使用公开热点话题 JSON |
 | 福利吧 | 最新文章 | 是 | 官方首页；正常采集但默认隐藏，不进入综合报告，可在显示设置中开启 |
 | RSS | 新闻/AI资讯 Feed | 是 | 默认 10 个公开源，包含 IT之家和 Linux.do 官方 RSS；每个源按时间取最多 5 条 |
 
-单渠道失败不会中断同批其他渠道。`site/data/latest.json` 会保留上一次成功快照并标记为 `stale`，避免页面因一次网络抖动清空。
+单渠道失败不会中断同批其他渠道。`site/data/latest.json` 会保留上一次成功快照并标记为 `stale`，避免页面因一次网络抖动清空。首屏独立读取最新快照，报告进入对应视图才下载；请求超时有明确提示，快照可手动重试。站点 JSON 使用紧凑编码，归档 CSV 格式不变。
 
 ## 轻量架构
 
@@ -126,7 +127,7 @@ python3 src/script/render.py --data-root ../awesome-hot-list-data
 ## 采集频率与归档
 
 - `collect-hourly.yml` 每小时运行一次，默认采集注册表中频率为 60 分钟的公开渠道。
-- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face、Google Trends 为 6 小时，V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时，其余默认 1 小时；脉脉不进入默认调度。
+- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face、Google Trends 为 6 小时，Bing News、V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时，其余默认 1 小时；脉脉不进入默认调度。
 - 手动运行特殊渠道时可以选择 `force`，忽略间隔立即采集；新增渠道只需在 `registry.py` 设置频率，无需新增一个 Action。
 - `render-daily.yml` 每天生成前一天完整报告，同时更新今日报告。
 - `archive-weekly.yml` 每周一北京时间 02:00 将超过 7 个日历日的数据打包到 GitHub Release。`data-pages` 保留最近 7 天的 CSV，旧 CSV 和日期报告会进入 `hotlist-archive-through-YYYY-MM-DD` Release。

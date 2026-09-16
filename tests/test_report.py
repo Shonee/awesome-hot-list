@@ -184,6 +184,17 @@ class ReportBuilderTests(unittest.TestCase):
         self.assertEqual(len(shared["hits"]), 2)
         self.assertEqual({hit["channelId"] for hit in shared["hits"]}, {"bilibili", "douyin"})
 
+    def test_report_hits_collapse_same_link_across_rankings_and_samples(self):
+        rows = {"weibo": [
+            {"index": rank, "title": "同一条热点", "url": "https://example.com/one", "type": ranking, "datetime": f"2026-09-04 {hour:02d}:00:00"}
+            for hour, ranking, rank in [(9, "热榜", 1), (10, "热榜", 8), (11, "实时热搜", 12)]
+        ]}
+        rows["weibo"][1]["url"] += "?log_pb=tracking-a"
+        rows["weibo"][2]["url"] += "?log_pb=tracking-b"
+        report = build_report_from_rows("2026-09-04", rows)
+        self.assertEqual(len(report["topTopics"][0]["hits"]), 1)
+        self.assertEqual(len(report["words"][0]["hits"]), 1)
+
     def test_report_builds_curve_points_from_time_slices(self):
         rows = {
             "douyin": [

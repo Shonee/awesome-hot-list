@@ -126,5 +126,5 @@ def merge_latest_snapshot(
         "generatedAt": now_string(),
         "channels": [merged[channel_id] for channel_id in ordered_ids],
     }
-    write_json(payload, output_path, atomic=True)
+    write_json(payload, output_path, indent=None, atomic=True)
     return payload

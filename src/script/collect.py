@@ -84,6 +84,7 @@ def run(
             write_json(
                 build_report(current_date()),
                 os.path.join("site", "data", "reports", "today.json"),
+                indent=None,
                 atomic=True,
             )
 

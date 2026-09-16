@@ -173,9 +173,9 @@ def main(data_root: str = PROJECT_ROOT) -> None:
             return
 
         reports_dir = os.path.join("site", "data", "reports")
-        write_json(today_report, os.path.join(reports_dir, "today.json"), atomic=True)
-        write_json(previous_report, os.path.join(reports_dir, "previous.json"), atomic=True)
-        write_json(previous_report, os.path.join(reports_dir, f"{previous}.json"), atomic=True)
+        write_json(today_report, os.path.join(reports_dir, "today.json"), indent=None, atomic=True)
+        write_json(previous_report, os.path.join(reports_dir, "previous.json"), indent=None, atomic=True)
+        write_json(previous_report, os.path.join(reports_dir, f"{previous}.json"), indent=None, atomic=True)
         report_dates = _available_report_dates(reports_dir)
         write_json(
             {

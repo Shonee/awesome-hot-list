@@ -1,5 +1,6 @@
 """吾爱破解 hot thread adapter."""
 
+import logging
 import re
 from urllib.parse import urljoin
 
@@ -12,6 +13,8 @@ from .common import snapshot
 
 
 SOURCE_URL = "https://www.52pojie.cn/forum.php?mod=guide&view=hot"
+DIGEST_URL = "https://www.52pojie.cn/forum.php?mod=guide&view=digest"
+logger = logging.getLogger(__name__)
 
 
 def _number(value: str):
@@ -42,4 +45,17 @@ def parse_hot_threads(html: str) -> list[HotItem]:
 
 def collect() -> "ChannelSnapshot":
     items = parse_hot_threads(get(SOURCE_URL))
-    return snapshot("pojie52", [Ranking("hot", "热门热帖", items, SOURCE_URL)])
+    rankings = [Ranking("hot", "人气热门", items, SOURCE_URL)]
+    warnings = []
+    try:
+        digest = parse_hot_threads(get(DIGEST_URL, timeout=12, retries=1))
+        if digest:
+            rankings.append(Ranking("digest", "精华采撷", digest, DIGEST_URL))
+        else:
+            warnings.append("精华采撷")
+    except Exception as exc:  # noqa: BLE001 - optional ranking cannot break hot posts
+        logger.warning("吾爱精华采撷请求失败: %s", exc)
+        warnings.append("精华采撷")
+    result = snapshot("pojie52", rankings)
+    result.warnings = warnings
+    return result

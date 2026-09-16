@@ -188,7 +188,12 @@ def write_json(
 ) -> str:
     """把 Python 对象序列化为 JSON 落盘。"""
     ensure_parent_dir(file_path)
-    text = json.dumps(data, indent=indent, ensure_ascii=ensure_ascii)
+    text = json.dumps(
+        data,
+        indent=indent,
+        ensure_ascii=ensure_ascii,
+        separators=(",", ":") if indent is None else None,
+    )
     if not atomic:
         with open(file_path, "w", encoding=encoding) as f:
             f.write(text)

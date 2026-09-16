@@ -5,8 +5,11 @@ from src.hotlist.channels.bilibili import parse_hot_search as parse_bilibili_hot
 from src.hotlist.channels.bilibili import parse_videos as parse_bilibili_videos
 from src.hotlist.channels.cls import parse_hot_articles as parse_cls_hot_articles
 from src.hotlist.channels.cnblogs import parse_rank as parse_cnblogs
+from src.hotlist.channels.cnblogs import parse_reading_rank
+from src.hotlist.channels.bing import parse_trending
 from src.hotlist.channels.douban import parse_topics as parse_douban
 from src.hotlist.channels.hupu import parse_topics as parse_hupu
+from src.hotlist.channels.hupu import parse_home
 from src.hotlist.channels.juejin import parse_articles as parse_juejin
 from src.hotlist.channels.kr36 import parse_hot as parse_36kr
 from src.hotlist.channels.linuxdo import parse_topics as parse_linuxdo
@@ -139,6 +142,23 @@ class MarkupParserTests(unittest.TestCase):
         self.assertEqual(items[0].title, "博客园文章")
         self.assertEqual(items[0].url, "https://www.cnblogs.com/author/p/123")
 
+    def test_cnblogs_body_and_sidebar_ignore_header_ads_and_other_rankings(self):
+        html = '''<header><a href="/ad/p/1">赞助商</a></header>
+        <div id="post_list"><article class="post-item"><a class="post-item-title" href="/author/p/2">正文文章</a></article></div>'''
+        self.assertEqual([item.title for item in parse_cnblogs(html)], ["正文文章"])
+        sidebar = '''<div class="card"><div class="card-title">48小时阅读排行</div>
+        <a href="/a/p/3">阅读文章</a></div><div class="card"><div class="card-title">10天推荐排行</div>
+        <a href="/b/p/4">其他文章</a></div>'''
+        self.assertEqual([item.title for item in parse_reading_rank(sidebar)], ["阅读文章"])
+
+    def test_bing_parser_only_reads_trending_on_bing_topic_links(self):
+        html = '''<div><a href="/news/topicview?q=ad">广告</a></div>
+        <div class="TrendingOnBing"><a href="/news/topicview?q=topic">Breaks record</a>
+        <a href="/news/topicview?q=topic">Breaks record</a></div>'''
+        items = parse_trending(html)
+        self.assertEqual([item.title for item in items], ["Breaks record"])
+        self.assertEqual(items[0].url, "https://www.bing.com/news/topicview?q=topic")
+
     def test_pojie_parser_reads_hot_threads(self):
         html = '<a class="xst" href="thread-123-1-1.html">吾爱热帖</a>'
         items = parse_pojie52(html)
@@ -245,6 +265,13 @@ class MarkupParserTests(unittest.TestCase):
         items = parse_hupu(html)
         self.assertEqual(items[0].url, "https://bbs.hupu.com/123.html")
         self.assertEqual(items[0].hot, "100回复")
+
+    def test_hupu_home_parser_links_to_posts_and_ignores_navigation(self):
+        html = '''<a href="/hot">热榜</a><a class="news-item" href="/bbs/123">
+        <div class="news-item-info-title">可访问的首页帖子</div><span>100回复</span></a>'''
+        items = parse_home(html)
+        self.assertEqual([item.title for item in items], ["可访问的首页帖子"])
+        self.assertEqual(items[0].url, "https://m.hupu.com/bbs/123")
 
     def test_hupu_parser_reads_mobile_ssr_payload(self):
         html = '''<script id="__NEXT_DATA__" type="application/json">

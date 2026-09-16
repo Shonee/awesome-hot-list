@@ -592,7 +592,7 @@
     <section class="view active" id="view-latest">
       <div class="page-toolbar">
         <div><div class="eyebrow" id="latestEyebrow">LATEST SNAPSHOT</div><h1>最新热榜</h1></div>
-        <div class="heading-note" id="latestNote">正在加载各渠道最新快照</div>
+        <div class="heading-note"><span id="latestNote">正在加载各渠道最新快照</span> <button class="plain-btn" id="retryLatest" type="button" hidden>重试</button></div>
       </div>
       <div class="channel-switcher" id="channelSwitcher" aria-label="渠道切换"></div>
       <div class="channel-grid" id="channelGrid"></div>
@@ -785,6 +785,7 @@
     let words = [];
     const TOPIC_TERMS = {};
     const TOPIC_HITS = {};
+    const TOPIC_LABELS = {};
     let todayFlow = { times: [], rows: [] };
     let historyFlow = { times: [], rows: [] };
     let todaySignals = [];
@@ -966,7 +967,7 @@
         window.open(items[0].url, '_blank', 'noopener');
         return;
       }
-      document.getElementById('topicDialogTitle').textContent = `${topic} · ${items.length} 条关联内容`;
+      document.getElementById('topicDialogTitle').textContent = `${TOPIC_LABELS[topic] || topic} · ${items.length} 条关联内容`;
       document.getElementById('topicDialogBody').innerHTML = items.map(item => {
         const channel = CHANNELS[item.channel] || { name: item.channelName || item.channel || '来源' };
         return `<a class="topic-result" href="${item.url}" target="_blank" rel="noopener" title="${escapeHtml(item.title)}">
@@ -1209,6 +1210,8 @@
     function switchView(name) {
       document.querySelectorAll('.view').forEach(view => view.classList.toggle('active', view.id === `view-${name}`));
       document.querySelectorAll('.nav-btn').forEach(button => button.classList.toggle('active', button.dataset.viewTarget === name));
+      if (name === 'today') loadTodayReport();
+      if (name === 'history') loadHistoryReport();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
     function openSettings() { document.getElementById('settingsLayer').classList.add('open'); document.getElementById('settingsLayer').setAttribute('aria-hidden', 'false'); }
@@ -1225,19 +1228,22 @@
     }
 
     function normalizeHits(hits) {
-      return (hits || []).map(hit => ({
-        title: hit.title,
-        channel: hit.channelId || hit.channel,
-        channelName: hit.channelName,
-        ranking: hit.ranking,
-        rank: hit.rank,
-        url: safeUrl(hit.url)
-      })).filter(hit => hit.url !== '#');
+      const seen = new Set();
+      return (hits || []).flatMap(hit => {
+        const url = safeUrl(hit.url);
+        const channel = hit.channelId || hit.channel;
+        const key = `${channel}:${String(hit.title || '').toLowerCase().replace(/[^0-9a-z\u4e00-\u9fff]/g, '')}`;
+        if (url === '#' || seen.has(key)) return [];
+        seen.add(key);
+        return [{ title: hit.title, channel, channelName: hit.channelName,
+          ranking: hit.ranking, rank: hit.rank, url }];
+      });
     }
 
-    function registerHits(scope, label, hits) {
+    function registerHits(scope, label, hits, displayLabel = label) {
       const key = `${scope}:${label}`;
       TOPIC_HITS[key] = normalizeHits(hits);
+      TOPIC_LABELS[key] = displayLabel;
       return key;
     }
 
@@ -1281,7 +1287,7 @@
         item.tag,
         item.title,
         item.value,
-        registerHits(scope, `${item.title}:${item.tag}`, item.hits)
+        registerHits(scope, `${item.title}:${item.tag}`, item.hits, item.title)
       ]);
       return { top, words: reportWords, flow, signals };
     }
@@ -1397,6 +1403,7 @@
         ['unavailable', '待采集']
       ].filter(([status]) => statusCounts[status]).map(([status, label]) => `${label} ${statusCounts[status]}`).join(' · ');
       const generatedAt = payload.generatedAt || '';
+      document.getElementById('retryLatest').hidden = true;
       document.getElementById('syncStatus').textContent = `最近同步 ${shortDateTime(generatedAt)}`;
       document.getElementById('latestEyebrow').textContent = `LATEST SNAPSHOT / ${shortDateTime(generatedAt)}`;
       document.getElementById('latestNote').textContent = statusSummary || '暂无渠道采集状态';
@@ -1406,9 +1413,15 @@
     }
 
     async function fetchJson(path) {
-      const response = await fetch(path, { cache: 'no-store' });
-      if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
-      return response.json();
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), 15000);
+      try {
+        const response = await fetch(path, { cache: 'no-cache', signal: controller.signal });
+        if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
+        return await response.json();
+      } finally {
+        clearTimeout(timer);
+      }
     }
 
     function populateHistoryDates(indexPayload, fallbackReport) {
@@ -1427,34 +1440,87 @@
     }
 
     async function loadSelectedHistory(path) {
-      if (!path) return;
+      if (!path) return false;
       const select = document.getElementById('historyDateSelect');
       select.disabled = true;
       document.getElementById('historyNote').textContent = '正在加载所选日期报告。';
       try {
-        renderReport('history', await fetchJson(path));
+        const report = await fetchJson(path);
+        if (select.value === path) {
+          renderReport('history', report);
+          return true;
+        }
+        return false;
       } catch {
         document.getElementById('historyNote').textContent = '所选日期报告暂不可用，请稍后重试。';
+        return false;
       } finally {
         select.disabled = false;
       }
     }
 
-    async function loadSiteData() {
-      const results = await Promise.allSettled([
-        fetchJson('./data/latest.json'),
-        fetchJson('./data/reports/today.json'),
-        fetchJson('./data/reports/previous.json'),
+    let latestLoading = false;
+    let todayLoaded = false;
+    let todayLoading = false;
+    let historyLoaded = false;
+    let historyLoading = false;
+
+    async function loadLatest() {
+      if (latestLoading) return;
+      latestLoading = true;
+      document.getElementById('retryLatest').hidden = true;
+      document.getElementById('latestNote').textContent = '正在加载各渠道最新快照';
+      try {
+        applyLatest(await fetchJson('./data/latest.json'));
+      } catch {
+        document.getElementById('syncStatus').textContent = '快照加载失败';
+        document.getElementById('latestNote').textContent = '快照暂不可用，请检查网络后重试';
+        document.getElementById('retryLatest').hidden = false;
+        document.getElementById('channelGrid').innerHTML = '<div class="empty-report">最新快照暂不可用</div>';
+      } finally {
+        latestLoading = false;
+      }
+    }
+
+    async function loadTodayReport() {
+      if (todayLoaded || todayLoading) return;
+      todayLoading = true;
+      try {
+        renderReport('today', await fetchJson('./data/reports/today.json'));
+        todayLoaded = true;
+      } catch {
+        document.getElementById('todayNote').textContent = '今日报告暂不可用，请重新进入该视图重试。';
+      } finally {
+        todayLoading = false;
+      }
+    }
+
+    async function loadHistoryReport() {
+      if (historyLoaded || historyLoading) return;
+      historyLoading = true;
+      const previousRequest = fetchJson('./data/reports/previous.json').then(report => {
+        renderReport('history', report);
+        historyLoaded = true;
+        return report;
+      });
+      const [previous, index] = await Promise.allSettled([
+        previousRequest,
         fetchJson('./data/reports/index.json')
       ]);
-      if (results[0].status === 'fulfilled') applyLatest(results[0].value);
-      else document.getElementById('latestNote').textContent = '暂无统一快照，请先运行采集任务';
-      if (results[1].status === 'fulfilled') renderReport('today', results[1].value);
-      if (results[2].status === 'fulfilled') renderReport('history', results[2].value);
-      populateHistoryDates(
-        results[3].status === 'fulfilled' ? results[3].value : null,
-        results[2].status === 'fulfilled' ? results[2].value : null
-      );
+      const fallback = previous.status === 'fulfilled' ? previous.value : null;
+      const dates = index.status === 'fulfilled' ? index.value : null;
+      if (!fallback) {
+        document.getElementById('historyNote').textContent = '历史报告暂不可用，请重新进入该视图重试。';
+      }
+      populateHistoryDates(dates, fallback);
+      if (!fallback && document.getElementById('historyDateSelect').value) {
+        historyLoaded = await loadSelectedHistory(document.getElementById('historyDateSelect').value);
+      }
+      historyLoading = false;
+    }
+
+    function loadSiteData() {
+      loadLatest();
     }
 
     document.querySelectorAll('.nav-btn').forEach(button => button.addEventListener('click', () => switchView(button.dataset.viewTarget)));
@@ -1499,6 +1565,7 @@
     document.getElementById('closeTopicDialog').addEventListener('click', () => document.getElementById('topicDialog').close());
     document.getElementById('closeRssDialog').addEventListener('click', () => document.getElementById('rssDialog').close());
     document.getElementById('historyDateSelect').addEventListener('change', event => loadSelectedHistory(event.target.value));
+    document.getElementById('retryLatest').addEventListener('click', loadLatest);
     document.addEventListener('keydown', event => { if (event.key === 'Escape') closeSettings(); });
 
     renderTopList('todayTop', topTopics);
@@ -1510,7 +1577,7 @@
     renderSignals('todaySignals', todaySignals);
     renderSignals('historySignals', historySignals);
     renderSettings();
-    renderChannels();
+    document.getElementById('channelGrid').innerHTML = '<div class="empty-report">正在读取最新快照</div>';
     loadSiteData();
   </script>
 </body>

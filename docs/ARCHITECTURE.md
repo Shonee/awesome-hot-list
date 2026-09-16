@@ -104,7 +104,7 @@ Cloudflare Pages 是可选的并行部署目标。它直接监听 `data-pages`�
 - `enabled_by_default`、`visible_by_default`、`include_in_report` 分别控制默认调度、首次页面展示和综合报告参与。福利吧正常采集但默认隐藏且不进入报告；脉脉三项默认关闭。
 - Linux.do 官方 JSON 在自动化环境受限，官方 RSS 作为 RSS 聚合源展示；IT之家同样使用官方 RSS。两者旧独立快照会在下一次合并时移除。
 - Hacker News 使用官方 Firebase API 成为独立卡片，并限制详情请求数；RSS 聚合不再重复请求 Hacker News。
-- `check-channel-network.yml` 对响应执行解析和最小有效条数校验。Google Trends、Hugging Face、快手官方及快手今日热榜只有通过 GitHub runner 验证后才进入默认调度；Bing 因没有合格非 RSS 数据源保持未接入。
+- `check-channel-network.yml` 对响应执行解析和最小有效条数校验。Google Trends、Hugging Face、快手官方及快手今日热榜此前经 GitHub runner 验证。Bing News 的 “Trending on Bing” 美国地区页面已通过本地解析验证，新增独立渠道；其 Actions runner 实际采集与部署仍需单独确认，不等同于中文搜索热搜。
 - RSS 快照通过 `warnings` 暴露单 Feed 失败，允许成功 Feed 继续更新；全部 Feed 都无有效数据时，采集器才返回渠道级错误。
 - runner 统一处理渠道选择、异常隔离和最新快照合并。
 - report 只读取数据根目录中的 CSV，不访问网络。综合热度以跨渠道覆盖为主要权重，并结合榜单百分位、持续度和新鲜度；`samplingCoverage` 按渠道频率衡量当天采样完成度，保留旧 `coverage` 字段用于向后兼容。

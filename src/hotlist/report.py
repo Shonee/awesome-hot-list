@@ -255,7 +255,7 @@ def _unique_hits(rows: Iterable[tuple]) -> List[dict]:
     seen = set()
     for channel_id, row in rows:
         hit = _hit(channel_id, row)
-        key = (hit["channelId"], hit["ranking"], hit["title"], hit["url"])
+        key = (hit["channelId"], _normalize_title(hit["title"]))
         if key in seen or not hit["url"]:
             continue
         seen.add(key)

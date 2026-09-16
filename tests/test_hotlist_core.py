@@ -76,12 +76,13 @@ class RegistryTests(unittest.TestCase):
         self.assertEqual(
             CHANNEL_ORDER,
             (
-                "bilibili", "douyin", "kuaishou", "weibo", "zhihu", "baidu",
-                "github", "hackernews", "huggingface", "googletrends", "juejin", "lobsters",
-                "toutiao", "qqnews", "netease", "sina", "thepaper", "acfun",
-                "douban", "hupu", "36kr", "tonghuashun", "eastmoney", "maimai",
-                "xueqiu", "v2ex", "stackoverflow", "cls", "cnblogs", "nodeseek",
-                "pojie52", "wechat", "tieba", "fuliba", "rss",
+                "weibo", "zhihu", "douyin", "kuaishou", "bilibili", "acfun",
+                "toutiao", "github", "juejin", "cnblogs", "pojie52",
+                "googletrends", "bing", "baidu", "wechat", "36kr", "qqnews",
+                "netease", "sina", "xueqiu", "tonghuashun", "huggingface",
+                "thepaper", "douban", "tieba", "hupu", "eastmoney", "maimai",
+                "v2ex", "lobsters", "hackernews", "stackoverflow", "cls",
+                "nodeseek", "fuliba", "rss",
             ),
         )
 
