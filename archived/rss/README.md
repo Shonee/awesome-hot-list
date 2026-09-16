@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 12:26:33
+> 更新时间：2026-09-16 13:22:32
 
 ## IT之家
 
-1. [行业首个，中国移动开源连接 VLA / WAM 模型与机器人本体的通用工程底座 Open-RAIL](https://www.ithome.com/1/003/013.htm)
-2. [豆包大模型 2.1 Pro 更新 0915 版本：Agent 交付更可靠，多模态 Coding 进化](https://www.ithome.com/1/003/012.htm)
-3. [中国天眼 FAST 重要新发现，捕获目前已知总质量最轻的双中子星系统](https://www.ithome.com/1/003/011.htm)
-4. [别克世纪 CENTURY 黑金限量版售罄：限量 50 台，54.99 万元起](https://www.ithome.com/1/003/009.htm)
-5. [通用汽车让步，部分燃油车继续支持苹果 CarPlay 车联方案](https://www.ithome.com/1/003/004.htm)
+1. [微软承认 Word v2608 版存在 Bug，可能导致意外关闭](https://www.ithome.com/1/003/021.htm)
+2. [香港将推动全民 AI 培训、推进跨境自动驾驶发展、助力国产飞机打进世界市场](https://www.ithome.com/1/003/019.htm)
+3. [Win11 26H2 前瞻，微软称将带来用户可感知的体验升级](https://www.ithome.com/1/003/018.htm)
+4. [得物发布 11 周年全员信：AI 时代下组织分工升级，让团队对完整结果负责](https://www.ithome.com/1/003/017.htm)
+5. [HBO 总裁回应苹果 Apple TV 首夺艾美奖第一平台：有点压力](https://www.ithome.com/1/003/015.htm)
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## 量子位
 
-1. [被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」](https://www.qbitai.com/2026/09/490185.html)
-2. [把记忆交给CPU，大模型会变快](https://www.qbitai.com/2026/09/489724.html)
-3. [实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招](https://www.qbitai.com/2026/09/490109.html)
-4. [华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下](https://www.qbitai.com/2026/09/490098.html)
-5. [梁文锋CFO到位！投过智谱MiniMax](https://www.qbitai.com/2026/09/489707.html)
+1. [量子位2026人工智能年度榜单，正式启动！](https://www.qbitai.com/2026/09/490329.html)
+2. [被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」](https://www.qbitai.com/2026/09/490185.html)
+3. [把记忆交给CPU，大模型会变快](https://www.qbitai.com/2026/09/489724.html)
+4. [实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招](https://www.qbitai.com/2026/09/490109.html)
+5. [华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下](https://www.qbitai.com/2026/09/490098.html)
 
 ## InfoQ
 
@@ -57,6 +57,14 @@
 3. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 4. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
 5. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
+
+## AI News
+
+1. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
+2. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
+3. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+4. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+5. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
 
 ## 阮一峰网络日志
 
