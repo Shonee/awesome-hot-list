@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "date": "2026-09-16",
-    "generatedAt": "2026-09-16 09:32:30",
-    "summary": "不良信息一键举报 共建清朗网络空间成为本期综合热度最高的话题，崔天凯：一劳永逸解决台湾问题紧随其后。当前覆盖 33 个有效渠道，共形成 418 个榜单时间切片；发现 55 个跨渠道重复热点。",
+    "generatedAt": "2026-09-16 09:39:08",
+    "summary": "不良信息一键举报 共建清朗网络空间成为本期综合热度最高的话题，崔天凯：一劳永逸解决台湾问题紧随其后。当前覆盖 33 个有效渠道，共形成 422 个榜单时间切片；发现 55 个跨渠道重复热点。",
     "metrics": {
-        "deduplicated": 2666,
+        "deduplicated": 2680,
         "resonance": 55,
         "maxRise": 53,
-        "slices": 418,
+        "slices": 422,
         "coverage": 100,
-        "samplingCoverage": 94
+        "samplingCoverage": 96
     },
     "topTopics": [
         {
@@ -6505,9 +6505,176 @@
             ]
         },
         {
+            "word": "vs",
+            "weight": 20,
+            "tone": "hot",
+            "hits": [
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 70,
+                    "title": "高糖VS戒糖14天！真的差别很大吗？",
+                    "url": "https://b23.tv/BV1enYL6SEtU"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 71,
+                    "title": "琵琶曲｜耄耋VS大狗",
+                    "url": "https://b23.tv/BV1ZNYe6kEs9"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 82,
+                    "title": "闹吃VS古振兴，但是两人和谐相处、谦虚交流",
+                    "url": "https://b23.tv/BV1MEYX62EnQ"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 96,
+                    "title": "琵琶曲 | 奶龙 vs 肥嘟嘟",
+                    "url": "https://b23.tv/BV1GXYr69EKc"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "热门搜索",
+                    "rank": 15,
+                    "title": "奶龙vs肥嘟嘟版琵琶曲",
+                    "url": "https://search.bilibili.com/all?keyword=%E5%A5%B6%E9%BE%99vs%E8%82%A5%E5%98%9F%E5%98%9F%E7%89%88%E7%90%B5%E7%90%B6%E6%9B%B2"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "全站热门视频",
+                    "rank": 34,
+                    "title": "《女生VS男生》",
+                    "url": "https://b23.tv/BV18weE6WEpG"
+                },
+                {
+                    "channelId": "bilibili",
+                    "channelName": "哔哩哔哩",
+                    "ranking": "视频排行榜",
+                    "rank": 100,
+                    "title": "【2026LPL第三赛段】9月13日 BLG vs AL",
+                    "url": "https://b23.tv/BV1GjYe6KEGt"
+                },
+                {
+                    "channelId": "weibo",
+                    "channelName": "微博",
+                    "ranking": "微博热榜",
+                    "rank": 45,
+                    "title": "北京国安vs浦项铁人",
+                    "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89vs%E6%B5%A6%E9%A1%B9%E9%93%81%E4%BA%BA&Refer=index"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 1,
+                    "title": "利物浦vs富勒姆",
+                    "url": "https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%AF%8C%E5%8B%92%E5%A7%86"
+                },
+                {
+                    "channelId": "zhihu",
+                    "channelName": "知乎",
+                    "ranking": "知乎热搜",
+                    "rank": 4,
+                    "title": "利物浦vs热刺",
+                    "url": "https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E7%83%AD%E5%88%BA"
+                },
+                {
+                    "channelId": "googletrends",
+                    "channelName": "Google Trends",
+                    "ranking": "香港趋势",
+                    "rank": 6,
+                    "title": "liverpool vs spurs",
+                    "url": "https://trends.google.com/trends/explore?q=liverpool+vs+spurs&geo=HK"
+                },
+                {
+                    "channelId": "googletrends",
+                    "channelName": "Google Trends",
+                    "ranking": "香港趋势",
+                    "rank": 8,
+                    "title": "ipswich town vs arsenal",
+                    "url": "https://trends.google.com/trends/explore?q=ipswich+town+vs+arsenal&geo=HK"
+                },
+                {
+                    "channelId": "googletrends",
+                    "channelName": "Google Trends",
+                    "ranking": "香港趋势",
+                    "rank": 11,
+                    "title": "elche vs real madrid",
+                    "url": "https://trends.google.com/trends/explore?q=elche+vs+real+madrid&geo=HK"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 7,
+                    "title": "15:00，CCTV5直播！中国男篮VS沙特，至少大胜20分，3人或将缺席",
+                    "url": "https://m.163.com/news/article/L6SVMIOE054908VZ.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 14,
+                    "title": "利物浦vs热刺：加克波PK马尔穆什，麦卡利斯特、恩古莫哈首发",
+                    "url": "https://m.163.com/news/article/L6TO05R80549BAP0.html"
+                },
+                {
+                    "channelId": "netease",
+                    "channelName": "网易新闻",
+                    "ranking": "热门新闻",
+                    "rank": 36,
+                    "title": "时间已定！男篮VS沙特，双方主力阵容对比，有望20分之差大胜对手",
+                    "url": "https://m.163.com/news/article/L6U9L0HR0553T94S.html"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "日榜",
+                    "rank": 20,
+                    "title": "GALA VS Gumayusi,2万分局！快速看完一局韩服王者斗殴局#829 Eclipse,",
+                    "url": "https://www.acfun.cn/v/ac48842715"
+                },
+                {
+                    "channelId": "acfun",
+                    "channelName": "AcFun",
+                    "ranking": "三日榜",
+                    "rank": 50,
+                    "title": "瑞恩·加西亚 vs 康纳·本",
+                    "url": "https://www.acfun.cn/v/ac48844736"
+                },
+                {
+                    "channelId": "stackoverflow",
+                    "channelName": "Stack Overflow",
+                    "ranking": "热门问题",
+                    "rank": 46,
+                    "title": "In Outlook VSTO & C#, for the AppointmentItem - what organizer will be set and how can it be changed?",
+                    "url": "https://stackoverflow.com/questions/80003054/in-outlook-vsto-c-for-the-appointmentitem-what-organizer-will-be-set-and-h"
+                },
+                {
+                    "channelId": "nodeseek",
+                    "channelName": "NodeSeek",
+                    "ranking": "热门主题",
+                    "rank": 5,
+                    "title": "晚高峰  ISVORO US.PRO 22￥  vs   VMISS US.LA.TRI.Basic",
+                    "url": "https://www.nodeseek.com/post-930615-1"
+                }
+            ]
+        },
+        {
             "word": "离世",
             "weight": 10,
-            "tone": "hot",
+            "tone": "teal",
             "hits": [
                 {
                     "channelId": "kuaishou",
@@ -6666,7 +6833,7 @@
         {
             "word": "Agent",
             "weight": 31,
-            "tone": "teal",
+            "tone": "gold",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -6913,7 +7080,7 @@
         {
             "word": "NET",
             "weight": 26,
-            "tone": "gold",
+            "tone": "",
             "hits": [
                 {
                     "channelId": "hackernews",
@@ -7128,7 +7295,7 @@
         {
             "word": "GPT",
             "weight": 24,
-            "tone": "",
+            "tone": "hot",
             "hits": [
                 {
                     "channelId": "zhihu",
@@ -7321,149 +7488,6 @@
                     "rank": 1,
                     "title": "OpenAI GPT-5.5 将于 10 月 14 日下线：覆盖 ChatGPT 与 Codex，官方建议迁移至新模型",
                     "url": "https://www.ithome.com/1/002/858.htm"
-                }
-            ]
-        },
-        {
-            "word": "vs",
-            "weight": 17,
-            "tone": "hot",
-            "hits": [
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 70,
-                    "title": "高糖VS戒糖14天！真的差别很大吗？",
-                    "url": "https://b23.tv/BV1enYL6SEtU"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 71,
-                    "title": "琵琶曲｜耄耋VS大狗",
-                    "url": "https://b23.tv/BV1ZNYe6kEs9"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 82,
-                    "title": "闹吃VS古振兴，但是两人和谐相处、谦虚交流",
-                    "url": "https://b23.tv/BV1MEYX62EnQ"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 96,
-                    "title": "琵琶曲 | 奶龙 vs 肥嘟嘟",
-                    "url": "https://b23.tv/BV1GXYr69EKc"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "热门搜索",
-                    "rank": 15,
-                    "title": "奶龙vs肥嘟嘟版琵琶曲",
-                    "url": "https://search.bilibili.com/all?keyword=%E5%A5%B6%E9%BE%99vs%E8%82%A5%E5%98%9F%E5%98%9F%E7%89%88%E7%90%B5%E7%90%B6%E6%9B%B2"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "全站热门视频",
-                    "rank": 34,
-                    "title": "《女生VS男生》",
-                    "url": "https://b23.tv/BV18weE6WEpG"
-                },
-                {
-                    "channelId": "bilibili",
-                    "channelName": "哔哩哔哩",
-                    "ranking": "视频排行榜",
-                    "rank": 100,
-                    "title": "【2026LPL第三赛段】9月13日 BLG vs AL",
-                    "url": "https://b23.tv/BV1GjYe6KEGt"
-                },
-                {
-                    "channelId": "weibo",
-                    "channelName": "微博",
-                    "ranking": "微博热榜",
-                    "rank": 45,
-                    "title": "北京国安vs浦项铁人",
-                    "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89vs%E6%B5%A6%E9%A1%B9%E9%93%81%E4%BA%BA&Refer=index"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 1,
-                    "title": "利物浦vs富勒姆",
-                    "url": "https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%AF%8C%E5%8B%92%E5%A7%86"
-                },
-                {
-                    "channelId": "zhihu",
-                    "channelName": "知乎",
-                    "ranking": "知乎热搜",
-                    "rank": 4,
-                    "title": "利物浦vs热刺",
-                    "url": "https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E7%83%AD%E5%88%BA"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 7,
-                    "title": "15:00，CCTV5直播！中国男篮VS沙特，至少大胜20分，3人或将缺席",
-                    "url": "https://m.163.com/news/article/L6SVMIOE054908VZ.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 14,
-                    "title": "利物浦vs热刺：加克波PK马尔穆什，麦卡利斯特、恩古莫哈首发",
-                    "url": "https://m.163.com/news/article/L6TO05R80549BAP0.html"
-                },
-                {
-                    "channelId": "netease",
-                    "channelName": "网易新闻",
-                    "ranking": "热门新闻",
-                    "rank": 36,
-                    "title": "时间已定！男篮VS沙特，双方主力阵容对比，有望20分之差大胜对手",
-                    "url": "https://m.163.com/news/article/L6U9L0HR0553T94S.html"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "日榜",
-                    "rank": 20,
-                    "title": "GALA VS Gumayusi,2万分局！快速看完一局韩服王者斗殴局#829 Eclipse,",
-                    "url": "https://www.acfun.cn/v/ac48842715"
-                },
-                {
-                    "channelId": "acfun",
-                    "channelName": "AcFun",
-                    "ranking": "三日榜",
-                    "rank": 50,
-                    "title": "瑞恩·加西亚 vs 康纳·本",
-                    "url": "https://www.acfun.cn/v/ac48844736"
-                },
-                {
-                    "channelId": "stackoverflow",
-                    "channelName": "Stack Overflow",
-                    "ranking": "热门问题",
-                    "rank": 46,
-                    "title": "In Outlook VSTO & C#, for the AppointmentItem - what organizer will be set and how can it be changed?",
-                    "url": "https://stackoverflow.com/questions/80003054/in-outlook-vsto-c-for-the-appointmentitem-what-organizer-will-be-set-and-h"
-                },
-                {
-                    "channelId": "nodeseek",
-                    "channelName": "NodeSeek",
-                    "ranking": "热门主题",
-                    "rank": 5,
-                    "title": "晚高峰  ISVORO US.PRO 22￥  vs   VMISS US.LA.TRI.Basic",
-                    "url": "https://www.nodeseek.com/post-930615-1"
                 }
             ]
         },
@@ -8408,10 +8432,10 @@
     "flow": {
         "times": [
             "00:22",
-            "02:32",
-            "04:28",
+            "03:17",
+            "04:29",
             "07:18",
-            "09:32"
+            "09:38"
         ],
         "rows": [
             {
