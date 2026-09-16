@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 21:22:42
+> 更新时间：2026-09-16 22:23:48
 
 ## IT之家
 
-1. [奕境曾清林：华为是非常难得的战略合作伙伴，奕境目前这种模式是最完美合作模式](https://www.ithome.com/1/003/294.htm)
-2. [揭秘劳斯莱斯最新测试场：空气实验室让车辆以“不超速”状态模拟超速环境](https://www.ithome.com/1/003/293.htm)
-3. [影石 Luna Ultra 云台相机“小巨炮”长焦模组官宣，9 月 21 日见](https://www.ithome.com/1/003/291.htm)
-4. [华为 Mate 90 系列手机影像配置曝光，主摄支持思特威新一代 LOFIC 技术](https://www.ithome.com/1/003/289.htm)
-5. [京东推出七鲜大厨，首创 AI 膳食规划 + 净菜供应链 + 炒菜机器人组合](https://www.ithome.com/1/003/288.htm)
+1. [微软 AI 负责人苏莱曼向 Anthropic 开炮：别让 Claude 去模仿人类意识](https://www.ithome.com/1/003/313.htm)
+2. [华为发布《智能世界 2035》最新报告，预测到 2035 年全球年度 Token 消耗量将增长 10 万倍](https://www.ithome.com/1/003/312.htm)
+3. [诺和诺德与 Anthropic 达成合作，用 Claude 大模型加速新药研发](https://www.ithome.com/1/003/311.htm)
+4. [华擎推出三款全新 Taichi 系列电竞显示器：27 英寸 4K 240Hz、2K 500Hz、2K 540Hz/720P 720Hz](https://www.ithome.com/1/003/310.htm)
+5. [零跑推出 MM-i 多模混动电驱及 CTC 3.0 高低压融合电池，正式入局插混赛道](https://www.ithome.com/1/003/308.htm)
 
 ## 少数派
 
@@ -28,11 +28,11 @@
 
 ## 量子位
 
-1. [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
-2. [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
-3. [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
-4. [协同办公进入Agent时代，飞书+豆包工作跑在了最前面](https://www.qbitai.com/2026/09/490686.html)
-5. [西门子不造机器人，为什么机器人进厂的故事里总有它？](https://www.qbitai.com/2026/09/490416.html)
+1. [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
+2. [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
+3. [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
+4. [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
+5. [协同办公进入Agent时代，飞书+豆包工作跑在了最前面](https://www.qbitai.com/2026/09/490686.html)
 
 ## InfoQ
 

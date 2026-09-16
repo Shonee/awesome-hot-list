@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-16 21:38:01
+> 更新时间：2026-09-16 22:23:03
 
 ## 最新帖子
 
@@ -55,4 +55,4 @@
 3. [开源：基于.Net开发的数据库自治诊断平台——DBPilot](https://www.cnblogs.com/skychen1218/p/22961976)
 4. [2026 性能测试工具大盘点：13 款主流压测工具，测试工程师必备！](https://www.cnblogs.com/jinjiangongzuoshi/p/22975900)
 5. [中医竟是AI Harness祖师爷？](https://www.cnblogs.com/east4ming/p/22979442)
-6. [基于Blazor实现的项目管理系统](https://www.cnblogs.com/known/p/22972193)
+6. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
