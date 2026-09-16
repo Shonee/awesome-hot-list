@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 23:27:56
+> 更新时间：2026-09-17 00:24:31
 
 ## IT之家
 
-1. [任天堂推出《朋友收集：梦想生活》同捆版 Switch Lite 游戏机，10 月 29 日发售](https://www.ithome.com/1/003/330.htm)
-2. [《饥饿游戏》前传电影《饥饿游戏：收获日出》曝全新中字预告，北美 2026 年 11 月 20 日上映](https://www.ithome.com/1/003/329.htm)
-3. [形似“脚印”，好奇号在火星上发现奇特新地貌](https://www.ithome.com/1/003/328.htm)
-4. [盖世小鸡推出《堡垒之夜》联名拉伸手柄，49.99 美元起](https://www.ithome.com/1/003/327.htm)
-5. [小米汽车：澎程 N90 Max 探索版升降顶舱篷布统一为浅卡其色，目前仅此一款](https://www.ithome.com/1/003/326.htm)
+1. [联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争](https://www.ithome.com/1/003/338.htm)
+2. [多名欧美艺人集体发帖，暗示自己将入选《GTA 6》电台音乐或出任 DJ](https://www.ithome.com/1/003/336.htm)
+3. [任天堂推出《朋友收集：梦想生活》同捆版 Switch Lite 游戏机，10 月 29 日发售](https://www.ithome.com/1/003/330.htm)
+4. [《饥饿游戏》前传电影《饥饿游戏：收获日出》曝全新中字预告，北美 2026 年 11 月 20 日上映](https://www.ithome.com/1/003/329.htm)
+5. [形似“脚印”，好奇号在火星上发现奇特新地貌](https://www.ithome.com/1/003/328.htm)
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 爱范儿
 
-1. [iPhone 18 Pro & Duo 首发评测，提升最大的是「充电」和这个…](https://www.ifanr.com/1680407?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [我和我的 AI 手机吃了 3 顿饭](https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [比 MEGA Home 便宜 14 万！理想 i9 Home 上市定价 36.98 万元，六座旗舰变天了](https://www.ifanr.com/1680467?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [iPhone 18 Pro & Duo 首发评测，提升最大的是「充电」和这个…](https://www.ifanr.com/1680407?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [我和我的 AI 手机吃了 3 顿饭](https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -57,14 +57,6 @@
 3. [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 4. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
 5. [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
-
-## AI News
-
-1. [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/)
-2. [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
-3. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
-4. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-5. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
 
 ## 阮一峰网络日志
 
