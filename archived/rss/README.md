@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 07:19:42
+> 更新时间：2026-09-16 08:55:57
 
 ## IT之家
 
-1. [OpenAI 奥尔特曼称 AI 行业自律可守住安全底线](https://www.ithome.com/1/002/838.htm)
-2. [消息称 Meta 将推出无摄像头的智能眼镜，应对日益加剧的隐私顾虑](https://www.ithome.com/1/002/837.htm)
-3. [马斯克 SpaceX 星舰第 14 次试飞定档 9 月 22 日，首次冲击地球轨道](https://www.ithome.com/1/002/836.htm)
-4. [影石 Mic Pro 腾讯会议版 AI 录音领夹麦发布，698 元](https://www.ithome.com/1/002/835.htm)
-5. [英伟达黄仁勋：AI 行业不需要新法律，开发可兼得速度和安全](https://www.ithome.com/1/002/834.htm)
+1. [OpenAI GPT-5.5 将于 10 月 14 日下线：覆盖 ChatGPT 与 Codex，官方建议迁移至新模型](https://www.ithome.com/1/002/858.htm)
+2. [因丈夫常拍不出理想照片，前 TikTok 高管推出 AI 摆拍姿势相机应用 Superpose](https://www.ithome.com/1/002/857.htm)
+3. [东芝推出全新 Canvio Ready 移动机械硬盘，顶盖采用 65% 回收材料制造](https://www.ithome.com/1/002/856.htm)
+4. [索尼发布 PS Pulse 与 Pulse Edge 无线耳机：平面磁驱动，支持 PlayStation Link](https://www.ithome.com/1/002/855.htm)
+5. [Meta 扎克伯格：保障 AI 安全应依靠引入独立外部评估，而不是放缓 AI 发展](https://www.ithome.com/1/002/854.htm)
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 爱范儿
 
-1. [19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱](https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么](https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群](https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西](https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预](https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱](https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么](https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [豆包工作和飞书，把中国第一个团队 Agent 拉进了工作群](https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西](https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,19 +36,19 @@
 
 ## InfoQ
 
-1. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
-2. [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
-3. [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
-4. [支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎](https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article)
-5. [QQ 飞车 Agentic 研发转型过程中的Loop Engineering](https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article)
+1. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
+2. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
+3. [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
+4. [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
+5. [支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎](https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场](http://www.geekpark.net/news/370345)
-2. [给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗](http://www.geekpark.net/news/370328)
-3. [造物 100 #06｜自动驾驶上轮椅了，口袋相机学会飞行，AI 教练上了雪场](http://www.geekpark.net/news/370325)
-4. [iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束](http://www.geekpark.net/news/370306)
-5. [专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件](http://www.geekpark.net/news/370269)
+1. [OpenAI、Anthropic、谷歌联手研究 AI 安全；微信员工辟谣 AI 助手小微「偷隐私」；美国已在太空部署武器](http://www.geekpark.net/news/370375)
+2. [对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场](http://www.geekpark.net/news/370345)
+3. [给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗](http://www.geekpark.net/news/370328)
+4. [造物 100 #06｜自动驾驶上轮椅了，口袋相机学会飞行，AI 教练上了雪场](http://www.geekpark.net/news/370325)
+5. [iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束](http://www.geekpark.net/news/370306)
 
 ## MIT Technology Review
 
