@@ -1,26 +1,26 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-17 05:20:30
+> 更新时间：2026-09-17 06:19:40
 
 ## Hottest
 
-1. [A/I Shuts Down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
-2. [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
+1. [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
+2. [A/I Shuts Down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
 3. [Forgery of C2PA on a Pixel 10](https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html)
-4. [Why i'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)
-5. [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/)
-6. [Reinventing issue tracking: Local-first and Git-native](https://blog.manganin.dev/blog/reinventing-issue-tracking/)
-7. [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
-8. [Introducing GNOME 51](https://release.gnome.org/51/)
+4. [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/)
+5. [Introducing GNOME 51](https://release.gnome.org/51/)
+6. [Why i'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)
+7. [Reinventing issue tracking: Local-first and Git-native](https://blog.manganin.dev/blog/reinventing-issue-tracking/)
+8. [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
 9. [Some things Veloren does differently](https://blog.jsbarretto.com/post/veloren)
-10. [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa)
-11. [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
-12. [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
-13. [Maintaining the love for coding in the time of AI](https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/)
-14. [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
-15. [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
-16. [OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development](https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development)
-17. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
+10. [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
+11. [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa)
+12. [OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development](https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development)
+13. [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+14. [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
+15. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
+16. [Maintaining the love for coding in the time of AI](https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/)
+17. [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
 18. [Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
 19. [JDK 27 has been released](https://openjdk.org/projects/jdk/27/)
 20. [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
