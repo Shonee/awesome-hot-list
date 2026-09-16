@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-16 09:03:28
+> 更新时间：2026-09-16 15:33:33
 
 ## 每日趋势
 
@@ -104,7 +104,7 @@
 11. [Claude-Red](https://github.com/SnailSploit/Claude-Red)
 12. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
 13. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-14. [blender-mcp](https://github.com/ahujasid/blender-mcp)
+14. [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
 15. [MathModelAgent](https://github.com/jihe520/MathModelAgent)
 16. [open-webui](https://github.com/open-webui/open-webui)
 17. [douyin-downloader](https://github.com/jiji262/douyin-downloader)
