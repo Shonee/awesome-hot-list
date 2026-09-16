@@ -202,6 +202,41 @@ class RunnerTests(unittest.TestCase):
             self.assertEqual(channel["rankings"][0]["items"][0]["title"], "旧数据")
             self.assertEqual(channel["checkedAt"], "2026-09-04 11:00:00")
 
+    def test_partial_refresh_keeps_last_nonempty_ranking(self):
+        with tempfile.TemporaryDirectory() as directory:
+            output = os.path.join(directory, "latest.json")
+            previous = ChannelSnapshot(
+                channel_id="pojie52",
+                channel_name="吾爱破解",
+                source_url="https://www.52pojie.cn/",
+                fetched_at="2026-09-04 10:00:00",
+                rankings=[Ranking("hot", "热门热帖", [HotItem(1, "旧热门", "https://www.52pojie.cn/thread-1.html")])],
+            ).to_dict()
+            with open(output, "w", encoding="utf-8") as file:
+                json.dump({"channels": [previous]}, file)
+
+            fresh = ChannelSnapshot(
+                channel_id="pojie52",
+                channel_name="吾爱破解",
+                source_url="https://www.52pojie.cn/",
+                fetched_at="2026-09-04 11:00:00",
+                warnings=[],
+                rankings=[
+                    Ranking("hot", "人气热门", []),
+                    Ranking("digest", "精华采撷", [HotItem(1, "新精华", "https://www.52pojie.cn/thread-2.html")]),
+                ],
+            )
+            merge_latest_snapshot([fresh], output, channel_order=("pojie52",))
+
+            with open(output, "r", encoding="utf-8") as file:
+                channel = json.load(file)["channels"][0]
+
+            self.assertEqual(channel["status"], "ok")
+            self.assertEqual(channel["warnings"], ["人气热门"])
+            self.assertEqual(channel["rankings"][0]["name"], "人气热门")
+            self.assertEqual(channel["rankings"][0]["items"][0]["title"], "旧热门")
+            self.assertEqual(channel["rankings"][1]["items"][0]["title"], "新精华")
+
     def test_disabled_channels_are_treated_as_noop_success(self):
         snapshots = [
             ChannelSnapshot.unavailable(

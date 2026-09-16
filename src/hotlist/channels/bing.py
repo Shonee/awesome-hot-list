@@ -1,5 +1,7 @@
 """Trending on Bing topics from the public Bing News page (US locale)."""
 
+import logging
+import subprocess
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
@@ -11,9 +13,10 @@ from .common import snapshot
 
 
 SOURCE_URL = "https://www.bing.com/news?cc=us&setlang=en-US"
+logger = logging.getLogger(__name__)
 
 
-def parse_trending(html: str) -> list[HotItem]:
+def parse_trending(html: str | bytes) -> list[HotItem]:
     soup = BeautifulSoup(html, "html.parser")
     items = []
     seen = set()
@@ -30,5 +33,20 @@ def parse_trending(html: str) -> list[HotItem]:
 
 
 def collect() -> "ChannelSnapshot":
-    items = parse_trending(get(SOURCE_URL, timeout=12, retries=1))
+    try:
+        items = parse_trending(get(SOURCE_URL, timeout=12, retries=1))
+    except Exception as exc:  # noqa: BLE001 - try the alternate HTTP client on source challenges
+        logger.warning("必应常规请求失败: %s", exc)
+        items = []
+    if not items:
+        try:
+            response = subprocess.run(
+                ["curl", "--fail", "--silent", "--show-error", "--location", "--max-time", "12", SOURCE_URL],
+                capture_output=True,
+                check=True,
+                timeout=15,
+            )
+            items = parse_trending(response.stdout)
+        except (OSError, subprocess.SubprocessError) as exc:
+            logger.warning("必应备用请求失败: %s", exc)
     return snapshot("bing", [Ranking("trending-news", "Trending on Bing（美国新闻）", items, SOURCE_URL)])

@@ -2,6 +2,7 @@
 
 import logging
 import re
+import subprocess
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
@@ -22,7 +23,7 @@ def _number(value: str):
     return int(match.group(1).replace(",", "")) if match else None
 
 
-def parse_hot_threads(html: str) -> list[HotItem]:
+def parse_hot_threads(html: str | bytes) -> list[HotItem]:
     soup = BeautifulSoup(html, "html.parser")
     selectors = ("a.xst[href]", "th.common a[href*='thread']", "a[href*='thread-']")
     links = []
@@ -43,12 +44,33 @@ def parse_hot_threads(html: str) -> list[HotItem]:
     return items
 
 
-def collect() -> "ChannelSnapshot":
-    items = parse_hot_threads(get(SOURCE_URL))
-    rankings = [Ranking("hot", "人气热门", items, SOURCE_URL)]
-    warnings = []
+def _fetch_threads(url: str) -> list[HotItem]:
     try:
-        digest = parse_hot_threads(get(DIGEST_URL, timeout=12, retries=1))
+        items = parse_hot_threads(get(url, timeout=12, retries=1))
+        if items:
+            return items
+    except Exception as exc:  # noqa: BLE001 - curl may work when the standard client is challenged
+        logger.warning("吾爱常规请求失败 %s: %s", url, exc)
+
+    try:
+        response = subprocess.run(
+            ["curl", "--fail", "--silent", "--show-error", "--location", "--max-time", "12", url],
+            capture_output=True,
+            check=True,
+            timeout=15,
+        )
+        return parse_hot_threads(response.stdout)
+    except (OSError, subprocess.SubprocessError) as exc:
+        logger.warning("吾爱备用请求失败 %s: %s", url, exc)
+        return []
+
+
+def collect() -> "ChannelSnapshot":
+    items = _fetch_threads(SOURCE_URL)
+    rankings = [Ranking("hot", "人气热门", items, SOURCE_URL)]
+    warnings = ["人气热门"] if not items else []
+    try:
+        digest = _fetch_threads(DIGEST_URL)
         if digest:
             rankings.append(Ranking("digest", "精华采撷", digest, DIGEST_URL))
         else:

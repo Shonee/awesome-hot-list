@@ -117,6 +117,18 @@ def merge_latest_snapshot(
             )
             merged[snapshot.channel_id] = previous
         else:
+            if snapshot.status == "ok" and previous:
+                prior_rankings = {
+                    ranking.get("id"): ranking
+                    for ranking in previous.get("rankings", [])
+                    if isinstance(ranking, dict) and ranking.get("id")
+                }
+                for ranking in incoming["rankings"]:
+                    prior = prior_rankings.get(ranking["id"])
+                    if not ranking["items"] and prior and prior.get("items"):
+                        ranking["items"] = prior["items"]
+                        if ranking["name"] not in incoming["warnings"]:
+                            incoming["warnings"].append(ranking["name"])
             merged[snapshot.channel_id] = incoming
 
     ordered_ids = [channel_id for channel_id in channel_order if channel_id in merged]

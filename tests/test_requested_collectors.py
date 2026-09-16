@@ -1,10 +1,20 @@
 import unittest
+from subprocess import CompletedProcess
 from unittest.mock import patch
 
-from src.hotlist.channels import cnblogs, hupu, pojie52
+from src.hotlist.channels import bing, cnblogs, hupu, pojie52
 
 
 class RequestedCollectorTests(unittest.TestCase):
+    def test_bing_http_fallback_recovers_trending_topics(self):
+        html = b'<div class="TrendingOnBing"><a href="/news/topicview?q=demo">Example</a></div>'
+        with patch.object(bing, "get", return_value="<html>blocked</html>"), patch("src.hotlist.channels.bing.subprocess.run", return_value=CompletedProcess([], 0, stdout=html)) as fallback:
+            result = bing.collect()
+
+        self.assertEqual(result.rankings[0].items[0].title, "Example")
+        fallback.assert_called_once()
+        self.assertFalse(fallback.call_args.kwargs.get("shell", False))
+
     def test_hupu_first_ranking_is_clickable_home_posts(self):
         def source(url, **_):
             if url == hupu.HOME_URL:
@@ -33,11 +43,37 @@ class RequestedCollectorTests(unittest.TestCase):
         with patch.object(pojie52, "get", side_effect=[
             '<a class="xst" href="thread-123-1-1.html">人气热门</a>',
             TimeoutError("challenge"),
-        ]):
+        ]), patch.object(pojie52.subprocess, "run", return_value=CompletedProcess([], 0, stdout=b"<html></html>")):
             result = pojie52.collect()
 
         self.assertEqual([rank.name for rank in result.rankings], ["人气热门"])
         self.assertEqual(result.warnings, ["精华采撷"])
+
+    def test_pojie_empty_popular_ranking_is_reported_when_digest_succeeds(self):
+        with patch.object(pojie52, "get", side_effect=[
+            "<html><body>verification required</body></html>",
+            '<a class="xst" href="thread-456-1-1.html">精华文章</a>',
+        ]), patch.object(pojie52.subprocess, "run", return_value=CompletedProcess([], 0, stdout=b"<html></html>")):
+            result = pojie52.collect()
+
+        self.assertEqual([rank.name for rank in result.rankings], ["人气热门", "精华采撷"])
+        self.assertEqual(len(result.rankings[0].items), 0)
+        self.assertEqual(len(result.rankings[1].items), 1)
+        self.assertEqual(result.warnings, ["人气热门"])
+
+    def test_pojie_http_fallback_recovers_hot_page_from_verification(self):
+        hot_html = '<meta charset="gbk"><a class="xst" href="thread-123-1-1.html">人气热门</a>'
+        with patch.object(pojie52, "get", side_effect=[
+            "<html><body>verification required</body></html>",
+            '<a class="xst" href="thread-456-1-1.html">精华文章</a>',
+        ]), patch.object(pojie52.subprocess, "run", return_value=CompletedProcess([], 0, stdout=hot_html.encode("gbk"))) as fallback:
+            result = pojie52.collect()
+
+        self.assertEqual([len(rank.items) for rank in result.rankings], [1, 1])
+        self.assertEqual(result.warnings, [])
+        self.assertEqual(result.rankings[0].items[0].title, "人气热门")
+        fallback.assert_called_once()
+        self.assertFalse(fallback.call_args.kwargs.get("shell", False))
 
 
 if __name__ == "__main__":
