@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 18:23:12
+> 更新时间：2026-09-16 19:21:07
 
 ## IT之家
 
-1. [飞牛独立音乐 App 正式发布，鸿蒙、iOS、安卓全平台同步上线](https://www.ithome.com/1/003/244.htm)
-2. [微软 XBOX 回应 Game Pass 取消首发入库传闻：暂无确定可公布计划](https://www.ithome.com/1/003/243.htm)
-3. [广州拟立法：公交、地铁内手机外放声音，最高可罚款 1000 元](https://www.ithome.com/1/003/242.htm)
-4. [开发者为 Windows Phone 带来“快速分享”功能，支持向 PC、安卓设备发送文件](https://www.ithome.com/1/003/240.htm)
-5. [零跑汽车定增获证监会正式批复，一汽股权及金义高新战略入股敲定](https://www.ithome.com/1/003/238.htm)
+1. [英伟达黄仁勋：在中国，没人谈所谓“AI 末日论”](https://www.ithome.com/1/003/266.htm)
+2. [消息称 AMD RDNA 5 将搭载自研神经渲染技术，对标英伟达 DLSS 5](https://www.ithome.com/1/003/265.htm)
+3. [致敬苹果 50 周年：Caviar 推出撞色定制 iPhone 18 Pro / Max，每款限 50 台](https://www.ithome.com/1/003/263.htm)
+4. [SK 海力士回应“与英特尔洽谈在美生产存储芯片”：正探索各种方案，尚未敲定任何具体计划](https://www.ithome.com/1/003/262.htm)
+5. [马克 · 库班警告：人们在社交媒体反 AI，其实是给谷歌、Meta 等巨头送钱](https://www.ithome.com/1/003/261.htm)
 
 ## 少数派
 
-1. [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
-2. [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
-3. [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
-4. [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
-5. [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
+1. [探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
+2. [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
+3. [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
+4. [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
+5. [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
 
 ## 爱范儿
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [从概率生成到稳定交付：AIGC专业内容生产的工程化挑战](https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article)
-2. [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
-3. [Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信](https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&utm_medium=article)
-4. [模型再强，为什么 Demo 还是进不了生产？](https://www.infoq.cn/article/j2kBZR1JiZxATpU7gjtS?utm_source=rss&utm_medium=article)
-5. [自主团队被捧过头了？Simon Rohrer 直言：你们交付的根本不是产品](https://www.infoq.cn/article/zZ1VxUIIPts70RtVpGhB?utm_source=rss&utm_medium=article)
+1. [实测 Vibe Key：开口使唤 AI，真有当甲方的感觉](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article)
+2. [Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案](https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&utm_medium=article)
+3. [从概率生成到稳定交付：AIGC专业内容生产的工程化挑战](https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article)
+4. [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
+5. [Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信](https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -60,11 +60,11 @@
 
 ## AI News
 
-1. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
-2. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-3. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
-4. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-5. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
+1. [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
+2. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
+3. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
+4. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+5. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
 
 ## 阮一峰网络日志
 
