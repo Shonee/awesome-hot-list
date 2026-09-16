@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 20:32:50
+> 更新时间：2026-09-16 21:22:42
 
 ## IT之家
 
-1. [OpenAI 奥尔特曼：AI 事故无法完全避免，应借鉴航空业建立公开上报机制](https://www.ithome.com/1/003/284.htm)
-2. [上市补贴价 13.28 万元起：极狐阿尔法 T7 汽车上市，可选增程 / 纯电动力、华为乾崑智驾 ADS 5 Pro](https://www.ithome.com/1/003/283.htm)
-3. [全新理想 i9 Home 六座 SUV 发布：第二代纯电平台的首发旗舰，36.98 万元](https://www.ithome.com/1/003/280.htm)
-4. [零跑世界模型辅助驾驶将覆盖 A、B、C、D 全系车型，10 万元内也可拥有](https://www.ithome.com/1/003/279.htm)
-5. [大疆 Osmo Pocket 4P 双主摄口袋摄影机“珠光白”配色开售，3799 元](https://www.ithome.com/1/003/278.htm)
+1. [奕境曾清林：华为是非常难得的战略合作伙伴，奕境目前这种模式是最完美合作模式](https://www.ithome.com/1/003/294.htm)
+2. [揭秘劳斯莱斯最新测试场：空气实验室让车辆以“不超速”状态模拟超速环境](https://www.ithome.com/1/003/293.htm)
+3. [影石 Luna Ultra 云台相机“小巨炮”长焦模组官宣，9 月 21 日见](https://www.ithome.com/1/003/291.htm)
+4. [华为 Mate 90 系列手机影像配置曝光，主摄支持思特威新一代 LOFIC 技术](https://www.ithome.com/1/003/289.htm)
+5. [京东推出七鲜大厨，首创 AI 膳食规划 + 净菜供应链 + 炒菜机器人组合](https://www.ithome.com/1/003/288.htm)
 
 ## 少数派
 
@@ -52,19 +52,11 @@
 
 ## MIT Technology Review
 
-1. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
-2. [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
-3. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
-4. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
-5. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
-
-## AI News
-
-1. [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
-2. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
-3. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-4. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
-5. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+1. [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/)
+2. [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
+3. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
+4. [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
+5. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 
 ## 阮一峰网络日志
 

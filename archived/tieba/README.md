@@ -1,11 +1,12 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-16 20:32:38
+> 更新时间：2026-09-16 21:22:30
 
 ## 最有料热点
 
 1. [互联网上亿条视频抢救计划,吧友在行动](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364350&topic_name=%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%8A%E4%BA%BF%E6%9D%A1%E8%A7%86%E9%A2%91%E6%8A%A2%E6%95%91%E8%AE%A1%E5%88%92%2C%E5%90%A7%E5%8F%8B%E5%9C%A8%E8%A1%8C%E5%8A%A8)
 2. [青春时期最意难平的那个人](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364473&topic_name=%E9%9D%92%E6%98%A5%E6%97%B6%E6%9C%9F%E6%9C%80%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA)
+3. [南医导师曾转账关心坠亡学生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364550&topic_name=%E5%8D%97%E5%8C%BB%E5%AF%BC%E5%B8%88%E6%9B%BE%E8%BD%AC%E8%B4%A6%E5%85%B3%E5%BF%83%E5%9D%A0%E4%BA%A1%E5%AD%A6%E7%94%9F)
 4. [洛恩佐劲敌宣布竞选影之刃零吧主](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364537&topic_name=%E6%B4%9B%E6%81%A9%E4%BD%90%E5%8A%B2%E6%95%8C%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%90%A7%E4%B8%BB)
 5. [孙子查出非亲生,鉴定机构挨罚](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364467&topic_name=%E5%AD%99%E5%AD%90%E6%9F%A5%E5%87%BA%E9%9D%9E%E4%BA%B2%E7%94%9F%2C%E9%89%B4%E5%AE%9A%E6%9C%BA%E6%9E%84%E6%8C%A8%E7%BD%9A)
 6. [deepseek工程师自嘲被AI取代](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3)
@@ -29,7 +30,7 @@
 24. [印度外交官狂吃坚果舔手指](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364276&topic_name=%E5%8D%B0%E5%BA%A6%E5%A4%96%E4%BA%A4%E5%AE%98%E7%8B%82%E5%90%83%E5%9D%9A%E6%9E%9C%E8%88%94%E6%89%8B%E6%8C%87)
 25. [不认自己,豆包犯蠢闹笑料](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364270&topic_name=%E4%B8%8D%E8%AE%A4%E8%87%AA%E5%B7%B1%2C%E8%B1%86%E5%8C%85%E7%8A%AF%E8%A0%A2%E9%97%B9%E7%AC%91%E6%96%99)
 26. [日本女演员在公关男友家自杀](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364283&topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E5%9C%A8%E5%85%AC%E5%85%B3%E7%94%B7%E5%8F%8B%E5%AE%B6%E8%87%AA%E6%9D%80)
-27. [IG粉丝要求处理Wayward](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364324&topic_name=IG%E7%B2%89%E4%B8%9D%E8%A6%81%E6%B1%82%E5%A4%84%E7%90%86Wayward)
-28. [显卡成奢品,千张5090跑AI](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364278&topic_name=%E6%98%BE%E5%8D%A1%E6%88%90%E5%A5%A2%E5%93%81%2C%E5%8D%83%E5%BC%A05090%E8%B7%91AI)
+27. [显卡成奢品,千张5090跑AI](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364278&topic_name=%E6%98%BE%E5%8D%A1%E6%88%90%E5%A5%A2%E5%93%81%2C%E5%8D%83%E5%BC%A05090%E8%B7%91AI)
+28. [商K遭严打,小妹转战陪玩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364281&topic_name=%E5%95%86K%E9%81%AD%E4%B8%A5%E6%89%93%2C%E5%B0%8F%E5%A6%B9%E8%BD%AC%E6%88%98%E9%99%AA%E7%8E%A9)
 29. [四川芬达恶搞杨坤遭反噬](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364311&topic_name=%E5%9B%9B%E5%B7%9D%E8%8A%AC%E8%BE%BE%E6%81%B6%E6%90%9E%E6%9D%A8%E5%9D%A4%E9%81%AD%E5%8F%8D%E5%99%AC)
-30. [商K遭严打,小妹转战陪玩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364281&topic_name=%E5%95%86K%E9%81%AD%E4%B8%A5%E6%89%93%2C%E5%B0%8F%E5%A6%B9%E8%BD%AC%E6%88%98%E9%99%AA%E7%8E%A9)
+30. [IG粉丝要求处理Wayward](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364324&topic_name=IG%E7%B2%89%E4%B8%9D%E8%A6%81%E6%B1%82%E5%A4%84%E7%90%86Wayward)
