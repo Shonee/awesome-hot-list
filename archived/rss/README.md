@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 13:22:32
+> 更新时间：2026-09-16 14:37:04
 
 ## IT之家
 
-1. [微软承认 Word v2608 版存在 Bug，可能导致意外关闭](https://www.ithome.com/1/003/021.htm)
-2. [香港将推动全民 AI 培训、推进跨境自动驾驶发展、助力国产飞机打进世界市场](https://www.ithome.com/1/003/019.htm)
-3. [Win11 26H2 前瞻，微软称将带来用户可感知的体验升级](https://www.ithome.com/1/003/018.htm)
-4. [得物发布 11 周年全员信：AI 时代下组织分工升级，让团队对完整结果负责](https://www.ithome.com/1/003/017.htm)
-5. [HBO 总裁回应苹果 Apple TV 首夺艾美奖第一平台：有点压力](https://www.ithome.com/1/003/015.htm)
+1. [华为余承东：智界 RX 正式获得 L3 级自动驾驶道路测试牌照，目前正在公开城市快速路等复杂道路有序开展实测](https://www.ithome.com/1/003/057.htm)
+2. [松下推出首款 Copilot+ 认证 TOUGHBOOK 强固型笔电 FZ-34，分体式二合一设计](https://www.ithome.com/1/003/032.htm)
+3. [传闻 SK 海力士、英特尔讨论历史性在美存储器芯片前端制造合作](https://www.ithome.com/1/003/056.htm)
+4. [小米澎湃 OS 4 Beta 第三批机型开启招募：含 REDMI K80、MIX Flip 2、Pad 7 Ultra 等机型](https://www.ithome.com/1/003/054.htm)
+5. [iQOO 首款跨端头戴电竞耳机官宣 9 月 29 日发布，搭载 MonsterSound 电竞音效](https://www.ithome.com/1/003/053.htm)
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 爱范儿
 
-1. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [我和我的 AI 手机吃了 3 顿饭](https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱](https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [号称人类造的最后一个 AI 要来了，刷屏全网的 RSI 是什么](https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [我和我的 AI 手机吃了 3 顿饭](https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱](https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,19 +36,19 @@
 
 ## InfoQ
 
-1. [Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j](https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&utm_medium=article)
-2. [从接住告警到自我进化：快手智能运维助手实践｜QCon上海](https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article)
-3. [Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台](https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article)
-4. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
-5. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
+1. [自主团队被捧过头了？Simon Rohrer 直言：你们交付的根本不是产品](https://www.infoq.cn/article/zZ1VxUIIPts70RtVpGhB?utm_source=rss&utm_medium=article)
+2. [Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j](https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&utm_medium=article)
+3. [从接住告警到自我进化：快手智能运维助手实践｜QCon上海](https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article)
+4. [Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台](https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article)
+5. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [OpenAI、Anthropic、谷歌联手研究 AI 安全；微信员工辟谣 AI 助手小微「偷隐私」；美国已在太空部署武器](http://www.geekpark.net/news/370375)
-2. [对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场](http://www.geekpark.net/news/370345)
-3. [给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗](http://www.geekpark.net/news/370328)
-4. [造物 100 #06｜自动驾驶上轮椅了，口袋相机学会飞行，AI 教练上了雪场](http://www.geekpark.net/news/370325)
-5. [iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束](http://www.geekpark.net/news/370306)
+1. [没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了](http://www.geekpark.net/news/370425)
+2. [4 款车、3 颗芯片、15999 的折叠屏手机，小米的「疯狂一夜」](http://www.geekpark.net/news/370423)
+3. [特斯拉、Figure 还在攻克量产，小鹏机器人已经走下产线](http://www.geekpark.net/news/370421)
+4. [我坐进特斯拉 Cybercab，吃下马斯克 Robotaxi 的「新饼」](http://www.geekpark.net/news/370412)
+5. [OpenAI、Anthropic、谷歌联手研究 AI 安全；微信员工辟谣 AI 助手小微「偷隐私」；美国已在太空部署武器](http://www.geekpark.net/news/370375)
 
 ## MIT Technology Review
 
@@ -57,14 +57,6 @@
 3. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 4. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
 5. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
-
-## AI News
-
-1. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
-2. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-3. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
-4. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-5. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
 
 ## 阮一峰网络日志
 
