@@ -296,7 +296,7 @@
     .rank-flow-row:last-child { border-bottom: 0; }
     .rank-flow-topic { position: sticky; left: 0; z-index: 3; min-width: 0; background: var(--surface); text-align: left; }
     .rank-flow-topic::after { content: ""; position: absolute; top: -13px; right: -15px; bottom: -13px; width: 14px; box-shadow: 10px 0 14px -16px rgba(20, 25, 32, .9); pointer-events: none; }
-    .rank-flow-times { display: grid; grid-template-columns: repeat(var(--time-count), minmax(0, 1fr)); text-align: center; font-variant-numeric: tabular-nums; }
+    .rank-flow-times { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 4px; text-align: center; font-variant-numeric: tabular-nums; }
     .rank-flow-state { text-align: center; }
     .topic-link { max-width: 100%; padding: 0; border: 0; background: none; color: var(--ink); cursor: pointer; text-align: left; font-weight: 680; }
     .topic-link:hover { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
@@ -309,6 +309,9 @@
     .rank-grid-line { stroke: var(--line); stroke-width: 1; stroke-dasharray: 2 4; vector-effect: non-scaling-stroke; }
     .rank-time-line { position: absolute; top: 9%; bottom: 9%; left: calc(var(--x) * 1%); border-left: 1px solid var(--line); opacity: .62; }
     .rank-curve { fill: none; stroke: var(--rank-color); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; vector-effect: non-scaling-stroke; animation: reveal-rank-curve .38s ease-out both; }
+    .rank-absence { fill: none; stroke: var(--muted); stroke-width: 1.5; stroke-dasharray: 4 4; vector-effect: non-scaling-stroke; }
+    .rank-absence-key { display: inline-flex; align-items: center; gap: 5px; margin-left: 8px; white-space: nowrap; font-weight: 500; }
+    .rank-absence-key::before { content: ''; width: 16px; border-top: 1.5px dashed var(--muted); }
     .rank-point {
       position: absolute;
       left: calc(var(--x) * 1%);
@@ -488,6 +491,10 @@
     .topic-result:hover .topic-result-title { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
     .topic-result-title { line-height: 1.5; font-weight: 680; }
     .topic-result-meta { margin-top: 2px; color: var(--muted); font-size: 11px; }
+    .topic-result-group { padding: 12px 2px; border-bottom: 1px solid var(--line); }
+    .topic-result-sources { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+    .topic-source { display: inline-flex; align-items: center; gap: 5px; max-width: 100%; padding: 5px 8px; border: 1px solid var(--line); border-radius: 3px; color: var(--blue); font-size: 11px; text-decoration: none; }
+    .topic-source:hover, .topic-source:focus-visible { border-color: var(--blue); background: var(--surface-alt); }
     .rss-description { display: block; overflow: hidden; max-width: 100%; text-overflow: ellipsis; white-space: nowrap; }
     .external-mark { color: var(--muted); font-size: 18px; }
 
@@ -1268,6 +1275,18 @@
       }, `M ${points[0].x} ${points[0].y}`);
     }
 
+    function rankPlotPaths(ranks, xAt, yAt) {
+      const points = ranks.map((rank, index) => rank ? { rank, index, x: xAt(index), y: yAt(rank) } : null);
+      const solid = splitRankSegments(points).map(smoothRankPath).filter(Boolean);
+      const missing = ranks.slice(1).flatMap((_, index) => {
+        if (points[index] && points[index + 1]) return [];
+        const from = points[index] || { x: xAt(index), y: 94 };
+        const to = points[index + 1] || { x: xAt(index + 1), y: 94 };
+        return [`M ${from.x} ${from.y} L ${to.x} ${to.y}`];
+      });
+      return { points, solid, missing };
+    }
+
     function renderRankFlow(target, flow) {
       if (!flow?.rows?.length || !flow?.times?.length) {
         document.getElementById(target).innerHTML = '<div class="empty-report">暂无排名轨迹</div>';
@@ -1275,13 +1294,12 @@
       }
       const maxRank = Math.max(35, ...flow.rows.flatMap(row => row.ranks.filter(Boolean)));
       const yAt = rank => 12 + ((rank - 1) / Math.max(1, maxRank - 1)) * 76;
-      const header = `<div class="rank-flow-head"><div>热点主题</div><div class="rank-flow-times">按渠道与子榜单的真实采样绘制</div><div class="rank-flow-state">当前趋势</div></div>`;
+      const header = `<div class="rank-flow-head"><div>热点主题</div><div class="rank-flow-times">按渠道与子榜单的真实采样<span class="rank-absence-key">未上榜</span></div><div class="rank-flow-state">当前趋势</div></div>`;
       const rows = flow.rows.map(row => {
         const rowTimes = row.times?.length ? row.times : flow.times;
         const timeCount = rowTimes.length;
         const xAt = index => timeCount === 1 ? 50 : 4 + (index / (timeCount - 1)) * 92;
-        const points = row.ranks.map((rank, index) => rank ? { rank, index, x: xAt(index), y: yAt(rank) } : null);
-        const paths = splitRankSegments(points).map(segment => smoothRankPath(segment)).filter(Boolean);
+        const { points, solid, missing } = rankPlotPaths(row.ranks, xAt, yAt);
         const summary = row.ranks.map((rank, index) => `${rowTimes[index]}${rank ? `第 ${rank} 名` : '未上榜'}`).join('，');
         const guides = rowTimes.map((_, index) => `<span class="rank-time-line" style="--x:${xAt(index)}" aria-hidden="true"></span>`).join('');
         const dots = points.filter(Boolean).map(point => {
@@ -1291,7 +1309,7 @@
         }).join('');
         return `<div class="rank-flow-row">
           <div class="rank-flow-topic"><button class="topic-link" data-topic="${escapeHtml(row.query)}">${escapeHtml(row.topic)}<span class="topic-tenure">${escapeHtml(row.source || '')}${row.ranking ? ` · ${escapeHtml(row.ranking)}` : ''} · ${escapeHtml(row.tenure)}</span></button></div>
-          <div class="rank-plot tone-${row.tone}" role="img" aria-label="${escapeHtml(row.topic)}排名轨迹：${summary}">${guides}<svg class="rank-line" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"><line class="rank-grid-line" x1="4" y1="12" x2="96" y2="12"></line><line class="rank-grid-line" x1="4" y1="50" x2="96" y2="50"></line><line class="rank-grid-line" x1="4" y1="88" x2="96" y2="88"></line>${paths.map(path => `<path class="rank-curve" d="${path}"></path>`).join('')}</svg>${dots}</div>
+          <div class="rank-plot tone-${row.tone}" role="img" aria-label="${escapeHtml(row.topic)}排名轨迹：${summary}">${guides}<svg class="rank-line" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"><line class="rank-grid-line" x1="4" y1="12" x2="96" y2="12"></line><line class="rank-grid-line" x1="4" y1="50" x2="96" y2="50"></line><line class="rank-grid-line" x1="4" y1="88" x2="96" y2="88"></line>${missing.map(path => `<path class="rank-absence" d="${path}"></path>`).join('')}${solid.map(path => `<path class="rank-curve" d="${path}"></path>`).join('')}</svg>${dots}</div>
           <div class="rank-flow-state"><span class="trend-state ${row.tone}">${row.state}</span></div>
         </div>`;
       }).join('');
@@ -1322,18 +1340,34 @@
       ];
     }
 
+    function groupHits(hits) {
+      const groups = [];
+      normalizeHits(hits).forEach(item => {
+        const title = normalizeTitle(item.title);
+        const group = groups.find(entry => similarTitle(title, normalizeTitle(entry.title)));
+        if (group) {
+          if (!group.sources.some(source => source.url === item.url)) group.sources.push(item);
+        } else {
+          groups.push({ title: item.title, sources: [item] });
+        }
+      });
+      return groups;
+    }
+
     function openTopic(topic) {
       const items = relatedItems(topic);
-      if (items.length === 1) {
-        window.open(items[0].url, '_blank', 'noopener');
+      const groups = groupHits(items);
+      if (groups.length === 1 && groups[0].sources.length === 1) {
+        window.open(groups[0].sources[0].url, '_blank', 'noopener');
         return;
       }
-      document.getElementById('topicDialogTitle').textContent = `${TOPIC_LABELS[topic] || topic} · ${items.length} 条关联内容`;
-      document.getElementById('topicDialogBody').innerHTML = items.map(item => {
-        const channel = CHANNELS[item.channel] || { name: item.channelName || item.channel || '来源' };
-        return `<a class="topic-result" href="${item.url}" target="_blank" rel="noopener" title="${escapeHtml(item.title)}">
-          <span><span class="topic-result-title">${escapeHtml(item.title)}</span><span class="topic-result-meta">${escapeHtml(channel.name)} · ${escapeHtml(item.ranking || '关联搜索')}${item.rank ? ` · 榜单 #${Number(item.rank)}` : ''}</span></span><span class="external-mark">↗</span>
-        </a>`;
+      document.getElementById('topicDialogTitle').textContent = `${TOPIC_LABELS[topic] || topic} · ${groups.length} 条关联内容`;
+      document.getElementById('topicDialogBody').innerHTML = groups.map(group => {
+        const sources = group.sources.map(item => {
+          const channel = CHANNELS[item.channel] || { name: item.channelName || item.channel || '来源' };
+          return `<a class="topic-source" href="${safeUrl(item.url)}" target="_blank" rel="noopener" title="${escapeHtml(item.title)}">${escapeHtml(channel.name)}${item.ranking ? ` · ${escapeHtml(item.ranking)}` : ''} <span aria-hidden="true">↗</span></a>`;
+        }).join('');
+        return `<div class="topic-result-group"><div class="topic-result-title">${escapeHtml(group.title)}</div><div class="topic-result-sources">${sources}</div></div>`;
       }).join('');
       document.getElementById('topicDialog').showModal();
     }
@@ -1588,14 +1622,31 @@
       } catch { return '#'; }
     }
 
+    function normalizeTitle(title) {
+      return String(title || '').toLowerCase().replace(/[^0-9a-z\u4e00-\u9fff]/g, '');
+    }
+
+    function similarTitle(left, right) {
+      if (left === right) return true;
+      if (Math.min(left.length, right.length) < 8) return false;
+      if (left.includes(right) || right.includes(left)) return Math.min(left.length, right.length) / Math.max(left.length, right.length) >= 0.65;
+      const bigrams = value => new Set(Array.from({ length: value.length - 1 }, (_, index) => value.slice(index, index + 2)));
+      const a = bigrams(left);
+      const b = bigrams(right);
+      const shared = [...a].filter(value => b.has(value)).length;
+      return shared >= 5 && shared / (a.size + b.size - shared) >= 0.56;
+    }
+
     function normalizeHits(hits) {
-      const seen = new Set();
+      const seen = new Map();
       return (hits || []).flatMap(hit => {
         const url = safeUrl(hit.url);
         const channel = hit.channelId || hit.channel;
-        const key = `${channel}:${String(hit.title || '').toLowerCase().replace(/[^0-9a-z\u4e00-\u9fff]/g, '')}`;
-        if (url === '#' || seen.has(key)) return [];
-        seen.add(key);
+        const title = normalizeTitle(hit.title);
+        const titles = seen.get(channel) || [];
+        if (url === '#' || titles.some(previous => similarTitle(title, previous))) return [];
+        titles.push(title);
+        seen.set(channel, titles);
         return [{ title: hit.title, channel, channelName: hit.channelName,
           ranking: hit.ranking, rank: hit.rank, url }];
       });
