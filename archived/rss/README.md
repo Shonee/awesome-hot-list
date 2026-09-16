@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 16:30:34
+> 更新时间：2026-09-16 17:24:54
 
 ## IT之家
 
-1. [鸿蒙智行智界 RX L3 自动驾驶测试车现身公开道路，消息称验证重心放在城市快速路](https://www.ithome.com/1/003/162.htm)
-2. [劳斯莱斯打造幻影蜂鸟定制车型，首次将鲍鱼壳用作车内镶嵌装饰](https://www.ithome.com/1/003/161.htm)
-3. [华擎推出 NUC BOX-300 系列迷你主机，酷睿 3 304 / 酷睿 5 320 处理器，支持壁挂](https://www.ithome.com/1/003/159.htm)
-4. [成年人的“奢侈品玩具”：保时捷推出 80% 缩小版 550 Spyder，9.38 万美元起售](https://www.ithome.com/1/003/156.htm)
-5. [消息称天玑 9600 Pro 芯片售 220 美元，创联发科旗舰 SoC 价格新高](https://www.ithome.com/1/003/155.htm)
+1. [消息称吉利将在西班牙生产银河战舰 700，进一步扩大与福特的合作](https://www.ithome.com/1/003/196.htm)
+2. [PS5 游戏机模拟器 KytyPS5 新进展：可运行《宇宙机器人无线控制器使用指南》](https://www.ithome.com/1/003/195.htm)
+3. [小米首款“昼夜全彩”摄像机：小米智能摄像机 5 Pro 全彩夜视发布，众筹价 429 元](https://www.ithome.com/1/003/194.htm)
+4. [极摩客 AMD 锐龙 AI Max+ PRO 495 迷你主机 EVO-X5 Pro 定档 9 月 28 日全球发布](https://www.ithome.com/1/003/192.htm)
+5. [中国航天科技集团严正声明：华航天特（福建）智能科技有限公司为假冒国企，其一切行为均与公司无关](https://www.ithome.com/1/003/191.htm)
 
 ## 少数派
 
@@ -28,27 +28,27 @@
 
 ## 量子位
 
-1. [西门子不造机器人，为什么机器人进厂的故事里总有它？](https://www.qbitai.com/2026/09/490416.html)
-2. [清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单](https://www.qbitai.com/2026/09/490400.html)
-3. [B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首](https://www.qbitai.com/2026/09/490396.html)
-4. [量子位2026人工智能年度榜单，正式启动！](https://www.qbitai.com/2026/09/490329.html)
-5. [被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」](https://www.qbitai.com/2026/09/490185.html)
+1. [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
+2. [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
+3. [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
+4. [协同办公进入Agent时代，飞书+豆包工作跑在了最前面](https://www.qbitai.com/2026/09/490686.html)
+5. [西门子不造机器人，为什么机器人进厂的故事里总有它？](https://www.qbitai.com/2026/09/490416.html)
 
 ## InfoQ
 
-1. [Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信](https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&utm_medium=article)
-2. [模型再强，为什么 Demo 还是进不了生产？](https://www.infoq.cn/article/j2kBZR1JiZxATpU7gjtS?utm_source=rss&utm_medium=article)
-3. [自主团队被捧过头了？Simon Rohrer 直言：你们交付的根本不是产品](https://www.infoq.cn/article/zZ1VxUIIPts70RtVpGhB?utm_source=rss&utm_medium=article)
-4. [Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j](https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&utm_medium=article)
-5. [从接住告警到自我进化：快手智能运维助手实践｜QCon上海](https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article)
+1. [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
+2. [Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信](https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&utm_medium=article)
+3. [模型再强，为什么 Demo 还是进不了生产？](https://www.infoq.cn/article/j2kBZR1JiZxATpU7gjtS?utm_source=rss&utm_medium=article)
+4. [自主团队被捧过头了？Simon Rohrer 直言：你们交付的根本不是产品](https://www.infoq.cn/article/zZ1VxUIIPts70RtVpGhB?utm_source=rss&utm_medium=article)
+5. [Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j](https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
-2. [当智能体开始替人花钱，如何证明「它是谁」？](http://www.geekpark.net/news/370440)
-3. [腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变](http://www.geekpark.net/news/370431)
-4. [没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了](http://www.geekpark.net/news/370425)
-5. [4 款车、3 颗芯片、15999 的折叠屏手机，小米的「疯狂一夜」](http://www.geekpark.net/news/370423)
+1. [Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案](http://www.geekpark.net/news/370453)
+2. [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
+3. [当智能体开始替人花钱，如何证明「它是谁」？](http://www.geekpark.net/news/370440)
+4. [腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变](http://www.geekpark.net/news/370431)
+5. [没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了](http://www.geekpark.net/news/370425)
 
 ## MIT Technology Review
 
@@ -57,6 +57,14 @@
 3. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 4. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
 5. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
+
+## AI News
+
+1. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
+2. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
+3. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+4. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+5. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
 
 ## 阮一峰网络日志
 
