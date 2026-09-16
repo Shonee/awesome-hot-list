@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 10:31:33
+> 更新时间：2026-09-16 11:27:01
 
 ## IT之家
 
-1. [苹果 iOS 27 电话彩蛋：通话对方生日当天界面显示烟花特效](https://www.ithome.com/1/002/938.htm)
-2. [vivo 发布四款蓝心大模型，推出系统级蓝心 Harness](https://www.ithome.com/1/002/937.htm)
-3. [vivo 发布蓝心小 V Pro](https://www.ithome.com/1/002/936.htm)
-4. [曜越 M-ATX 双舱海景房机箱 Arcus 280 TG ARGB 发售：含 3 风扇，到手价 699 元](https://www.ithome.com/1/002/932.htm)
-5. [华为小艺 Work 开启内测：鸿蒙手机、平板、电脑全打通，支持办公、代码、设计多种 AI 任务](https://www.ithome.com/1/002/926.htm)
+1. [光荣《卧龙 2：凤火连天》定档 2027 年 3 月 4 日发售：298 元起，体验版已上线](https://www.ithome.com/1/002/972.htm)
+2. [对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能](https://www.ithome.com/1/002/971.htm)
+3. [消息称 OpenAI 拟以超 1.2 万亿美元估值进行新一轮融资](https://www.ithome.com/1/002/970.htm)
+4. [绿联 P5 自带线充电宝今日开售：22.5W 快充，售价 119 元](https://www.ithome.com/1/002/969.htm)
+5. [vivo OriginOS 7 升级“光影美学”，带来沉浸主屏、动态透彩材质等](https://www.ithome.com/1/002/967.htm)
 
 ## 少数派
 
@@ -28,19 +28,19 @@
 
 ## 量子位
 
-1. [梁文锋CFO到位！投过智谱MiniMax](https://www.qbitai.com/2026/09/489707.html)
-2. [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
-3. [手机替我跑了一整套流程！我就说了一句话，AI执行了100步](https://www.qbitai.com/2026/09/489466.html)
-4. [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
-5. [全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型](https://www.qbitai.com/2026/09/489389.html)
+1. [华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下](https://www.qbitai.com/2026/09/490098.html)
+2. [梁文锋CFO到位！投过智谱MiniMax](https://www.qbitai.com/2026/09/489707.html)
+3. [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
+4. [手机替我跑了一整套流程！我就说了一句话，AI执行了100步](https://www.qbitai.com/2026/09/489466.html)
+5. [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
 
 ## InfoQ
 
-1. [从接住告警到自我进化：快手智能运维助手实践｜QCon上海](https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article)
-2. [Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台](https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article)
-3. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
-4. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
-5. [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
+1. [Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j](https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&utm_medium=article)
+2. [从接住告警到自我进化：快手智能运维助手实践｜QCon上海](https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article)
+3. [Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台](https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article)
+4. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
+5. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
