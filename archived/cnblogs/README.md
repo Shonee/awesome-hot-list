@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-16 22:23:03
+> 更新时间：2026-09-16 23:27:15
 
 ## 最新帖子
 
-1. [把 LLM 密钥从环境变量里解放出来：OpenClaw.NET 迎来 Vault/OpenBao 密钥后端](https://www.cnblogs.com/shanyou/p/23002448)
-2. [SDUT计算机网络实验二：交换机的配置](https://www.cnblogs.com/minyun/p/23002408)
-3. [如何使用 Bash 进行数据清洗](https://www.cnblogs.com/wang_yb/p/23002397)
-4. [卓驭：基于 JuiceFS 百 PB 级智驾数据存储架构演进](https://www.cnblogs.com/JuiceData/p/23000985)
-5. [Ubuntu 22.04 Docker 从零部署全栈项目实录：Next.js + FastAPI + PostgreSQL 一次跑通](https://www.cnblogs.com/shenchuanchao/p/23000365/ubuntu-2204-docker-deployment-record)
-6. [聊聊最近很火的FDE](https://www.cnblogs.com/dotnetcrazy/p/22999992)
-7. [Codesys 应用实践 - 上下位机闭环](https://www.cnblogs.com/Zhouyongh/p/22998823)
-8. [BRP，如何用“反向构造”让黑盒对抗 Patch 更省查询？](https://www.cnblogs.com/heyonggang/p/22998269)
-9. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
-10. [LLM论文研读：Trace as State——把思考过程放到问题之前，真的能让大模型更会推理吗？](https://www.cnblogs.com/mengrennwpu/p/22997077)
-11. [Openplc与Fractory IO联合仿真](https://www.cnblogs.com/19373400weileng/p/22996816)
-12. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
-13. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
-14. [数字化转型的价值迷思：从技术指标到业务结果](https://www.cnblogs.com/keepsmart/p/22995049)
-15. [DBA 经验:MySQL性能最重要的参数只有2个！](https://www.cnblogs.com/xiexj/p/22993301)
-16. [嵌入式里面互相嵌套的结构体](https://www.cnblogs.com/zw-awa/p/22981147)
-17. [Python 创建 Excel 下拉列表的两种方法](https://www.cnblogs.com/jazz-z/p/22992495)
-18. [数字航空摄影：经典计算与参数推演](https://www.cnblogs.com/charlee44/p/22991244)
-19. [BrowserAct，给AI Agent配一个真实浏览器，从安装到实战](https://www.cnblogs.com/jinjiangongzuoshi/p/22991224)
-20. [Whim 是什么？一门把 PHP 被否决的设想真跑起来的实验语言](https://www.cnblogs.com/catchadmin/p/22991030)
+1. [机器学习项目：二手车价格预测](https://www.cnblogs.com/myInception/p/23002903)
+2. [把 LLM 密钥从环境变量里解放出来：OpenClaw.NET 迎来 Vault/OpenBao 密钥后端](https://www.cnblogs.com/shanyou/p/23002448)
+3. [SDUT计算机网络实验二：交换机的配置](https://www.cnblogs.com/minyun/p/23002408)
+4. [如何使用 Bash 进行数据清洗](https://www.cnblogs.com/wang_yb/p/23002397)
+5. [卓驭：基于 JuiceFS 百 PB 级智驾数据存储架构演进](https://www.cnblogs.com/JuiceData/p/23000985)
+6. [Ubuntu 22.04 Docker 从零部署全栈项目实录：Next.js + FastAPI + PostgreSQL 一次跑通](https://www.cnblogs.com/shenchuanchao/p/23000365/ubuntu-2204-docker-deployment-record)
+7. [聊聊最近很火的FDE](https://www.cnblogs.com/dotnetcrazy/p/22999992)
+8. [Codesys 应用实践 - 上下位机闭环](https://www.cnblogs.com/Zhouyongh/p/22998823)
+9. [BRP，如何用“反向构造”让黑盒对抗 Patch 更省查询？](https://www.cnblogs.com/heyonggang/p/22998269)
+10. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
+11. [LLM论文研读：Trace as State——把思考过程放到问题之前，真的能让大模型更会推理吗？](https://www.cnblogs.com/mengrennwpu/p/22997077)
+12. [Openplc与Fractory IO联合仿真](https://www.cnblogs.com/19373400weileng/p/22996816)
+13. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
+14. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
+15. [数字化转型的价值迷思：从技术指标到业务结果](https://www.cnblogs.com/keepsmart/p/22995049)
+16. [DBA 经验:MySQL性能最重要的参数只有2个！](https://www.cnblogs.com/xiexj/p/22993301)
+17. [嵌入式里面互相嵌套的结构体](https://www.cnblogs.com/zw-awa/p/22981147)
+18. [Python 创建 Excel 下拉列表的两种方法](https://www.cnblogs.com/jazz-z/p/22992495)
+19. [数字航空摄影：经典计算与参数推演](https://www.cnblogs.com/charlee44/p/22991244)
+20. [BrowserAct，给AI Agent配一个真实浏览器，从安装到实战](https://www.cnblogs.com/jinjiangongzuoshi/p/22991224)
 
 ## 精华帖子
 
