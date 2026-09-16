@@ -1,13 +1,12 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-16 19:20:51
+> 更新时间：2026-09-16 20:32:38
 
 ## 最有料热点
 
 1. [互联网上亿条视频抢救计划,吧友在行动](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364350&topic_name=%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%8A%E4%BA%BF%E6%9D%A1%E8%A7%86%E9%A2%91%E6%8A%A2%E6%95%91%E8%AE%A1%E5%88%92%2C%E5%90%A7%E5%8F%8B%E5%9C%A8%E8%A1%8C%E5%8A%A8)
 2. [青春时期最意难平的那个人](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364473&topic_name=%E9%9D%92%E6%98%A5%E6%97%B6%E6%9C%9F%E6%9C%80%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA)
-3. [南博院长徐湖平受贿获刑3年](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364541&topic_name=%E5%8D%97%E5%8D%9A%E9%99%A2%E9%95%BF%E5%BE%90%E6%B9%96%E5%B9%B3%E5%8F%97%E8%B4%BF%E8%8E%B7%E5%88%913%E5%B9%B4)
-4. [米线山等宣布竞选影之刃零吧主](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364537&topic_name=%E7%B1%B3%E7%BA%BF%E5%B1%B1%E7%AD%89%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%90%A7%E4%B8%BB)
+4. [洛恩佐劲敌宣布竞选影之刃零吧主](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364537&topic_name=%E6%B4%9B%E6%81%A9%E4%BD%90%E5%8A%B2%E6%95%8C%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%90%A7%E4%B8%BB)
 5. [孙子查出非亲生,鉴定机构挨罚](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364467&topic_name=%E5%AD%99%E5%AD%90%E6%9F%A5%E5%87%BA%E9%9D%9E%E4%BA%B2%E7%94%9F%2C%E9%89%B4%E5%AE%9A%E6%9C%BA%E6%9E%84%E6%8C%A8%E7%BD%9A)
 6. [deepseek工程师自嘲被AI取代](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3)
 7. [Uzi对线粉丝:观众事多礼少](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364471&topic_name=Uzi%E5%AF%B9%E7%BA%BF%E7%B2%89%E4%B8%9D%3A%E8%A7%82%E4%BC%97%E4%BA%8B%E5%A4%9A%E7%A4%BC%E5%B0%91)

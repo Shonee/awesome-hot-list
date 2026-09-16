@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 19:21:07
+> 更新时间：2026-09-16 20:32:50
 
 ## IT之家
 
-1. [英伟达黄仁勋：在中国，没人谈所谓“AI 末日论”](https://www.ithome.com/1/003/266.htm)
-2. [消息称 AMD RDNA 5 将搭载自研神经渲染技术，对标英伟达 DLSS 5](https://www.ithome.com/1/003/265.htm)
-3. [致敬苹果 50 周年：Caviar 推出撞色定制 iPhone 18 Pro / Max，每款限 50 台](https://www.ithome.com/1/003/263.htm)
-4. [SK 海力士回应“与英特尔洽谈在美生产存储芯片”：正探索各种方案，尚未敲定任何具体计划](https://www.ithome.com/1/003/262.htm)
-5. [马克 · 库班警告：人们在社交媒体反 AI，其实是给谷歌、Meta 等巨头送钱](https://www.ithome.com/1/003/261.htm)
+1. [OpenAI 奥尔特曼：AI 事故无法完全避免，应借鉴航空业建立公开上报机制](https://www.ithome.com/1/003/284.htm)
+2. [上市补贴价 13.28 万元起：极狐阿尔法 T7 汽车上市，可选增程 / 纯电动力、华为乾崑智驾 ADS 5 Pro](https://www.ithome.com/1/003/283.htm)
+3. [全新理想 i9 Home 六座 SUV 发布：第二代纯电平台的首发旗舰，36.98 万元](https://www.ithome.com/1/003/280.htm)
+4. [零跑世界模型辅助驾驶将覆盖 A、B、C、D 全系车型，10 万元内也可拥有](https://www.ithome.com/1/003/279.htm)
+5. [大疆 Osmo Pocket 4P 双主摄口袋摄影机“珠光白”配色开售，3799 元](https://www.ithome.com/1/003/278.htm)
 
 ## 少数派
 
@@ -20,11 +20,11 @@
 
 ## 爱范儿
 
-1. [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [我和我的 AI 手机吃了 3 顿饭](https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱](https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [iPhone 18 Pro & Duo 首发评测，提升最大的是「充电」和这个…](https://www.ifanr.com/1680407?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [我和我的 AI 手机吃了 3 顿饭](https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导](https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [实测 Vibe Key：开口使唤 AI，真有当甲方的感觉](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article)
-2. [Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案](https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&utm_medium=article)
-3. [从概率生成到稳定交付：AIGC专业内容生产的工程化挑战](https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article)
-4. [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
-5. [Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信](https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&utm_medium=article)
+1. [亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article)
+2. [实测 Vibe Key：开口使唤 AI，真有当甲方的感觉](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article)
+3. [Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案](https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&utm_medium=article)
+4. [从概率生成到稳定交付：AIGC专业内容生产的工程化挑战](https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article)
+5. [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
