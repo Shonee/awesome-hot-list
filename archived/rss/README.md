@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 17:24:54
+> 更新时间：2026-09-16 18:23:12
 
 ## IT之家
 
-1. [消息称吉利将在西班牙生产银河战舰 700，进一步扩大与福特的合作](https://www.ithome.com/1/003/196.htm)
-2. [PS5 游戏机模拟器 KytyPS5 新进展：可运行《宇宙机器人无线控制器使用指南》](https://www.ithome.com/1/003/195.htm)
-3. [小米首款“昼夜全彩”摄像机：小米智能摄像机 5 Pro 全彩夜视发布，众筹价 429 元](https://www.ithome.com/1/003/194.htm)
-4. [极摩客 AMD 锐龙 AI Max+ PRO 495 迷你主机 EVO-X5 Pro 定档 9 月 28 日全球发布](https://www.ithome.com/1/003/192.htm)
-5. [中国航天科技集团严正声明：华航天特（福建）智能科技有限公司为假冒国企，其一切行为均与公司无关](https://www.ithome.com/1/003/191.htm)
+1. [飞牛独立音乐 App 正式发布，鸿蒙、iOS、安卓全平台同步上线](https://www.ithome.com/1/003/244.htm)
+2. [微软 XBOX 回应 Game Pass 取消首发入库传闻：暂无确定可公布计划](https://www.ithome.com/1/003/243.htm)
+3. [广州拟立法：公交、地铁内手机外放声音，最高可罚款 1000 元](https://www.ithome.com/1/003/242.htm)
+4. [开发者为 Windows Phone 带来“快速分享”功能，支持向 PC、安卓设备发送文件](https://www.ithome.com/1/003/240.htm)
+5. [零跑汽车定增获证监会正式批复，一汽股权及金义高新战略入股敲定](https://www.ithome.com/1/003/238.htm)
 
 ## 少数派
 
@@ -36,19 +36,19 @@
 
 ## InfoQ
 
-1. [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
-2. [Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信](https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&utm_medium=article)
-3. [模型再强，为什么 Demo 还是进不了生产？](https://www.infoq.cn/article/j2kBZR1JiZxATpU7gjtS?utm_source=rss&utm_medium=article)
-4. [自主团队被捧过头了？Simon Rohrer 直言：你们交付的根本不是产品](https://www.infoq.cn/article/zZ1VxUIIPts70RtVpGhB?utm_source=rss&utm_medium=article)
-5. [Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j](https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&utm_medium=article)
+1. [从概率生成到稳定交付：AIGC专业内容生产的工程化挑战](https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article)
+2. [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
+3. [Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信](https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&utm_medium=article)
+4. [模型再强，为什么 Demo 还是进不了生产？](https://www.infoq.cn/article/j2kBZR1JiZxATpU7gjtS?utm_source=rss&utm_medium=article)
+5. [自主团队被捧过头了？Simon Rohrer 直言：你们交付的根本不是产品](https://www.infoq.cn/article/zZ1VxUIIPts70RtVpGhB?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案](http://www.geekpark.net/news/370453)
-2. [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
-3. [当智能体开始替人花钱，如何证明「它是谁」？](http://www.geekpark.net/news/370440)
-4. [腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变](http://www.geekpark.net/news/370431)
-5. [没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了](http://www.geekpark.net/news/370425)
+1. [在飞书的上下文底座上，豆包开工了](http://www.geekpark.net/news/370460)
+2. [Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案](http://www.geekpark.net/news/370453)
+3. [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
+4. [当智能体开始替人花钱，如何证明「它是谁」？](http://www.geekpark.net/news/370440)
+5. [腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变](http://www.geekpark.net/news/370431)
 
 ## MIT Technology Review
 
