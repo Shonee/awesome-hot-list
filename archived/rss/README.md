@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-17 06:20:39
+> 更新时间：2026-09-17 07:19:20
 
 ## IT之家
 
-1. [苹果 watchOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/345.htm)
-2. [苹果 visionOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/344.htm)
-3. [苹果 macOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/343.htm)
-4. [苹果 iOS/iPadOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/342.htm)
-5. [联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争](https://www.ithome.com/1/003/338.htm)
+1. [64 位门槛落地：苹果 watchOS 27 开始筛选不兼容第三方应用](https://www.ithome.com/1/003/350.htm)
+2. [全国日均 Token 词元调用量较两年前实现千倍级增长](https://www.ithome.com/1/003/349.htm)
+3. [苹果 iOS 27.2 Beta 1 新特性：支持新旧 App 数据 / 设置“搬家”](https://www.ithome.com/1/003/347.htm)
+4. [苹果 visionOS 27.2 开发者预览版 Beta 发布，初步支持原生 Mac 窗口控件渲染](https://www.ithome.com/1/003/344.htm)
+5. [苹果 watchOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/345.htm)
 
 ## 少数派
 
@@ -57,6 +57,14 @@
 3. [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 4. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
 5. [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
+
+## AI News
+
+1. [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/)
+2. [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
+3. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
+4. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
+5. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
 
 ## 阮一峰网络日志
 

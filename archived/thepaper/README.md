@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-17 06:19:36
+> 更新时间：2026-09-17 07:18:57
 
 ## 热新闻
 
@@ -8,11 +8,11 @@
 2. [马上评｜“难不难吃”属于个人口味，做好产品才是关键](https://www.thepaper.cn/newsDetail_forward_34081598)
 3. [南方医科大学通报学生坠楼事件：排除他杀，学校成立工作专班](https://www.thepaper.cn/newsDetail_forward_34082570)
 4. [钟薛高重启！预计四季度产品上市，新老板是谁？为何定价6-8元？](https://www.thepaper.cn/newsDetail_forward_34082175)
-5. [受赠文物事件处理结果公布！南京博物院原院长徐湖平获刑三年](https://www.thepaper.cn/newsDetail_forward_34081492)
-6. [马上评｜“假村官”带货，是对网民和农民的双重收割](https://www.thepaper.cn/newsDetail_forward_34080007)
+5. [游客建议泸州东站更名续：12306客户端已增加弹窗提示](https://www.thepaper.cn/newsDetail_forward_34082760)
+6. [受赠文物事件处理结果公布！南京博物院原院长徐湖平获刑三年](https://www.thepaper.cn/newsDetail_forward_34081492)
 7. [经纬度：“全网最低价”为什么必须叫停](https://www.thepaper.cn/newsDetail_forward_34080119)
-8. [马上测·兼职④丨我们在律所假扮“咨询离婚诉讼”当事人，酬劳40元](https://www.thepaper.cn/newsDetail_forward_34060283)
-9. [上海歌剧院新Logo被网友吐槽，院长石倚洁发文回应](https://www.thepaper.cn/newsDetail_forward_34076823)
+8. [马上评｜“假村官”带货，是对网民和农民的双重收割](https://www.thepaper.cn/newsDetail_forward_34080007)
+9. [马上测·兼职④丨我们在律所假扮“咨询离婚诉讼”当事人，酬劳40元](https://www.thepaper.cn/newsDetail_forward_34060283)
 10. [影像志｜八桂向海！平陆运河建成通航，十八组对比影像见证山河巨变](https://www.thepaper.cn/newsDetail_forward_34050207)
 11. [深一度｜在世界最难超长越野赛创纪录夺冠的赵家驹，到底是谁](https://www.thepaper.cn/newsDetail_forward_34080037)
 12. [见微知沪｜一座图书馆，如何“托住”普通人的拼搏和梦想](https://www.thepaper.cn/newsDetail_forward_34074470)
