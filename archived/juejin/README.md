@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-17 03:18:06
+> 更新时间：2026-09-17 04:22:24
 
 ## 热门文章
 
@@ -42,9 +42,9 @@
 36. [GPT-6 Astra爆火后，我用全新3D版“鹈鹕骑车”实测12款大模型，结果它拿了第一](https://juejin.cn/post/7684937171811221513)
 37. [CSS 浮动布局：从浮动到 BFC](https://juejin.cn/post/7684814322541051967)
 38. [ADK for Kotlin：Google 官方 AI Agent 教程来了](https://juejin.cn/post/7684533566942134278)
-39. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
-40. [地图瓦片批量改色来啦！](https://juejin.cn/post/7684800289061404698)
-41. [个人提效，攒不成组织提效：货拉拉 AI Coding 落地实践](https://juejin.cn/post/7685936943796977718)
+39. [个人提效，攒不成组织提效：货拉拉 AI Coding 落地实践](https://juejin.cn/post/7685936943796977718)
+40. [AI 对话 "打字机" 是怎么实现的？从 SSE 流式、Markdown 组件到 Nginx 防粘连](https://juejin.cn/post/7684814322542395455)
+41. [地图瓦片批量改色来啦！](https://juejin.cn/post/7684800289061404698)
 42. [【AI+Gpt-Image2.5】我偷偷把同事做成了虚拟角色，结果被发现了](https://juejin.cn/post/7685701789799022602)
 43. [AI Coding UI Patterns：把好设计说清楚！](https://juejin.cn/post/7685302724011704347)
 44. [Kimi K3 + Claude：AI Agent 多模型路由实战](https://juejin.cn/post/7685190703506112538)
