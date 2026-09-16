@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-16 09:31:01
+> 更新时间：2026-09-16 10:30:43
 
 ## Hottest
 
@@ -15,17 +15,17 @@
 9. [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/)
 10. [From Intern to Software Architect](https://chauhankiran.blogspot.com/2026/09/levels.html)
 11. [What blog posts influenced your thinking the most?](https://lobste.rs/s/lbavmm)
-12. [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)
-13. [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
-14. [How can you not be romantic about UNIX domain sockets?](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets)
-15. [A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)](https://www.benjoffe.com/map)
-16. [Trying to Make a Loop Auto-Vectorize](https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/)
-17. [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)
+12. [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
+13. [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)
+14. [A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)](https://www.benjoffe.com/map)
+15. [How can you not be romantic about UNIX domain sockets?](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets)
+16. [txcript: Switching coding agents mid-conversation](https://github.com/skillsynchq/txcript)
+17. [Trying to Make a Loop Auto-Vectorize](https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/)
 18. [Stalling installing](https://adactio.com/journal/22757)
-19. [Subnormal floating-point numbers are expensive… on Intel processors](https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/)
-20. [PlayBook: A Programmable Paper Notebook](https://www.youtube.com/watch?v=GurWDZ8ENpA)
+19. [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)
+20. [Search over Algebraic Graphs](https://anekstein.com/posts/2026-08-22.html)
 21. [IBM Built the Cold War’s Most Powerful Code Breaker for the NSA](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
-22. [A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)
-23. [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions)
-24. [How I Wrote a Forth (Without Knowing How)](https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html)
-25. [Search over Algebraic Graphs](https://anekstein.com/posts/2026-08-22.html)
+22. [Subnormal floating-point numbers are expensive… on Intel processors](https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/)
+23. [A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)
+24. [PlayBook: A Programmable Paper Notebook](https://www.youtube.com/watch?v=GurWDZ8ENpA)
+25. [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions)

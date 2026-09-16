@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 09:32:07
+> 更新时间：2026-09-16 10:31:33
 
 ## IT之家
 
-1. [Java 27 正式发布：TLS 1.3 引入后量子混合密钥交换，JDK 27 含 9 项 JEP](https://www.ithome.com/1/002/871.htm)
-2. [Goodram 推出 Master 固态硬盘：14GB/s 峰值顺序读取，功耗降低至多 27%](https://www.ithome.com/1/002/870.htm)
-3. [佳能发布全画幅相机 EOS R8 Mark II：2420 万像素、支持机身防抖](https://www.ithome.com/1/002/869.htm)
-4. [小米 18 Pro 系列手机全新“百变背屏”亮相：AI 生成应用，煮蛋定时、喝水打卡、番茄时钟等](https://www.ithome.com/1/002/868.htm)
-5. [AIDA64 v8.40 正式版发布，合并对 AMD "Zen 7" 服务器处理器初步支持](https://www.ithome.com/1/002/866.htm)
+1. [苹果 iOS 27 电话彩蛋：通话对方生日当天界面显示烟花特效](https://www.ithome.com/1/002/938.htm)
+2. [vivo 发布四款蓝心大模型，推出系统级蓝心 Harness](https://www.ithome.com/1/002/937.htm)
+3. [vivo 发布蓝心小 V Pro](https://www.ithome.com/1/002/936.htm)
+4. [曜越 M-ATX 双舱海景房机箱 Arcus 280 TG ARGB 发售：含 3 风扇，到手价 699 元](https://www.ithome.com/1/002/932.htm)
+5. [华为小艺 Work 开启内测：鸿蒙手机、平板、电脑全打通，支持办公、代码、设计多种 AI 任务](https://www.ithome.com/1/002/926.htm)
 
 ## 少数派
 
-1. [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
-2. [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
-3. [开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
-4. [派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等](https://sspai.com/post/114593)
-5. [派评｜近期值得关注的 App](https://sspai.com/post/114577)
+1. [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
+2. [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
+3. [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
+4. [开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
+5. [派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等](https://sspai.com/post/114593)
 
 ## 爱范儿
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台](https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article)
-2. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
-3. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
-4. [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
-5. [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
+1. [从接住告警到自我进化：快手智能运维助手实践｜QCon上海](https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article)
+2. [Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台](https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article)
+3. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
+4. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
+5. [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -57,14 +57,6 @@
 3. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 4. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
 5. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
-
-## AI News
-
-1. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
-2. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-3. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
-4. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
-5. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
 
 ## 阮一峰网络日志
 
