@@ -1,14 +1,14 @@
 # Hugging Face热榜
 
-> 更新时间：2026-09-16 09:38:40
+> 更新时间：2026-09-16 16:38:25
 
 ## Trending Models
 
 1. [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
 2. [Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)
 3. [openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)
-4. [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)
-5. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
+4. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
+5. [nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)
 6. [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)
 7. [nex-agi/Nex-N2.5-Pro](https://huggingface.co/nex-agi/Nex-N2.5-Pro)
 8. [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)
