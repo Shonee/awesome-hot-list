@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-17 00:23:25
+> 更新时间：2026-09-17 01:18:09
 
 ## 热门文章
 
@@ -18,17 +18,17 @@
 12. [全球最聪明的几个人，本周突然一起说“别卷了”](https://juejin.cn/post/7685267114438115366)
 13. [Android性能优化：启动、内存、卡顿的一站式排查手册](https://juejin.cn/post/7684943124759068682)
 14. [PNG/JPG 如何变成 WebP？真相不是改后缀！](https://juejin.cn/post/7684900473053970478)
-15. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
-16. [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906)
+15. [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906)
+16. [真实调研2500名程序员：工资差一倍，AI拉开分水岭](https://juejin.cn/post/7684565470046339107)
 17. [WebP 压缩到底在干嘛？小白也能看懂的原理拆解](https://juejin.cn/post/7685040997440978990)
 18. [“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股](https://juejin.cn/post/7684460980934164495)
 19. [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203)
 20. [WorkBuddy + 飞书的 8 种神仙用法（建议收藏）](https://juejin.cn/post/7685215742590451763)
 21. [写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面](https://juejin.cn/post/7684612482775941183)
-22. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
-23. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
-24. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
-25. [Android Studio Quail 4发布，看日志我以为谷歌放弃Flutter了](https://juejin.cn/post/7685597597233905716)
+22. [Android Studio Quail 4发布，看日志我以为谷歌放弃Flutter了](https://juejin.cn/post/7685597597233905716)
+23. [GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？](https://juejin.cn/post/7685215742590517299)
+24. [JPEG 压缩到底在干嘛？小白也能看懂的 8 步拆解](https://juejin.cn/post/7684937171812794377)
+25. [栗子前端技术周刊第 146 期 - React 19.3、jQuery 1.0 20 周年、Bun 1.4.2...](https://juejin.cn/post/7684828206503870527)
 26. [AI会让程序员失业吗？200年前的手工织工已经给出了答案](https://juejin.cn/post/7685276242113019938)
 27. [CPF-Flutter 社区提出折叠场景分栏（平行视界） 方案](https://juejin.cn/post/7685604730751057983)
 28. [iPhone Duo 带来的机遇与挑战 -- 肘子的 Swift 周报 #153](https://juejin.cn/post/7685220741705007167)

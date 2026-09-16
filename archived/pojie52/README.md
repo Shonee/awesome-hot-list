@@ -1,15 +1,15 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-17 00:23:34
+> 更新时间：2026-09-17 01:18:29
 
 ## 人气热门
 
-1. [UFS改U盘主控，对应支持型号及量产工具](https://www.52pojie.cn/thread-2126621-1-1.html)
-2. [微信防撤回工具v1.3](https://www.52pojie.cn/thread-2128266-1-1.html)
-3. [文本转语音工具edge-tts-gui v0.16.2](https://www.52pojie.cn/thread-2127805-1-1.html)
-4. [定时关机工具 KShutdown v6.2/Beta 6.3](https://www.52pojie.cn/thread-2127192-1-1.html)
-5. [WinRAR 7.30 beta1_x64 简体中文汉化版](https://www.52pojie.cn/thread-2127514-1-1.html)
-6. [剪辑工具 Concat  0.2.1](https://www.52pojie.cn/thread-2127728-1-1.html)
+1. [剪辑工具 Concat  0.2.1](https://www.52pojie.cn/thread-2127728-1-1.html)
+2. [UFS改U盘主控，对应支持型号及量产工具](https://www.52pojie.cn/thread-2126621-1-1.html)
+3. [微信防撤回工具v1.3](https://www.52pojie.cn/thread-2128266-1-1.html)
+4. [文本转语音工具edge-tts-gui v0.16.2](https://www.52pojie.cn/thread-2127805-1-1.html)
+5. [定时关机工具 KShutdown v6.2/Beta 6.3](https://www.52pojie.cn/thread-2127192-1-1.html)
+6. [WinRAR 7.30 beta1_x64 简体中文汉化版](https://www.52pojie.cn/thread-2127514-1-1.html)
 7. [Alibi v0.5.3.16取证工具-像执法仪一样后台录制神器-川陀大学图书馆横向对比推荐](https://www.52pojie.cn/thread-2126771-1-1.html)
 8. [【原创游戏】像素火线：末日突围 v0.1 — 单文件绿色版 ·支持 4 人局域网联机](https://www.52pojie.cn/thread-2127948-1-1.html)
 9. [手机投屏控制助手 scrcpy-helper v1.5.2](https://www.52pojie.cn/thread-2127053-1-1.html)
