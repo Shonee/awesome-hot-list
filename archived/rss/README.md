@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-16 08:55:57
+> 更新时间：2026-09-16 09:32:07
 
 ## IT之家
 
-1. [OpenAI GPT-5.5 将于 10 月 14 日下线：覆盖 ChatGPT 与 Codex，官方建议迁移至新模型](https://www.ithome.com/1/002/858.htm)
-2. [因丈夫常拍不出理想照片，前 TikTok 高管推出 AI 摆拍姿势相机应用 Superpose](https://www.ithome.com/1/002/857.htm)
-3. [东芝推出全新 Canvio Ready 移动机械硬盘，顶盖采用 65% 回收材料制造](https://www.ithome.com/1/002/856.htm)
-4. [索尼发布 PS Pulse 与 Pulse Edge 无线耳机：平面磁驱动，支持 PlayStation Link](https://www.ithome.com/1/002/855.htm)
-5. [Meta 扎克伯格：保障 AI 安全应依靠引入独立外部评估，而不是放缓 AI 发展](https://www.ithome.com/1/002/854.htm)
+1. [Java 27 正式发布：TLS 1.3 引入后量子混合密钥交换，JDK 27 含 9 项 JEP](https://www.ithome.com/1/002/871.htm)
+2. [Goodram 推出 Master 固态硬盘：14GB/s 峰值顺序读取，功耗降低至多 27%](https://www.ithome.com/1/002/870.htm)
+3. [佳能发布全画幅相机 EOS R8 Mark II：2420 万像素、支持机身防抖](https://www.ithome.com/1/002/869.htm)
+4. [小米 18 Pro 系列手机全新“百变背屏”亮相：AI 生成应用，煮蛋定时、喝水打卡、番茄时钟等](https://www.ithome.com/1/002/868.htm)
+5. [AIDA64 v8.40 正式版发布，合并对 AMD "Zen 7" 服务器处理器初步支持](https://www.ithome.com/1/002/866.htm)
 
 ## 少数派
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
-2. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
-3. [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
-4. [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
-5. [支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎](https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article)
+1. [Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台](https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article)
+2. [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
+3. [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
+4. [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
+5. [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -57,6 +57,14 @@
 3. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 4. [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
 5. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
+
+## AI News
+
+1. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
+2. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
+3. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
+4. [Why Most Enterprise Agent Pilots Never Reach Deployment](https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/)
+5. [From Video to Data: How AI Is Transforming Multimedia Content Processing](https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/)
 
 ## 阮一峰网络日志
 
