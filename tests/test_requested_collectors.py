@@ -21,7 +21,7 @@ class RequestedCollectorTests(unittest.TestCase):
         self.assertFalse(fallback.call_args.kwargs.get("shell", False))
 
     def test_bing_returns_disabled_when_no_valid_items(self):
-        with patch.object(bing, "get", return_value="<html>blocked</html>"), patch("src.hotlist.channels.bing.subprocess.run", return_value=CompletedProcess([], 0, stdout=b"<html></html>")):
+        with patch.object(bing, "get", side_effect=RuntimeError("blocked")), patch("src.hotlist.channels.bing.subprocess.run", return_value=CompletedProcess([], 0, stdout=b"<html></html>")):
             result = bing.collect()
 
         self.assertEqual(result.status, "disabled")
