@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-17 21:21:54
+> 更新时间：2026-09-17 22:24:36
 
 ## 热门文章
 
@@ -16,8 +16,8 @@
 10. [AI会让程序员失业吗？200年前的手工织工已经给出了答案](https://juejin.cn/post/7685276242113019938)
 11. [一座不够大的城市，装下了我毕业后的成长](https://juejin.cn/post/7686327615728975922)
 12. [JDK27正式发布，人麻了!](https://juejin.cn/post/7686174631263404073)
-13. [Android Studio Quail 4发布，看日志我以为谷歌放弃Flutter了](https://juejin.cn/post/7685597597233905716)
-14. [个人提效，攒不成组织提效：货拉拉 AI Coding 落地实践](https://juejin.cn/post/7685936943796977718)
+13. [个人提效，攒不成组织提效：货拉拉 AI Coding 落地实践](https://juejin.cn/post/7685936943796977718)
+14. [Android Studio Quail 4发布，看日志我以为谷歌放弃Flutter了](https://juejin.cn/post/7685597597233905716)
 15. [为什么越来越多人用OpenWiki？](https://juejin.cn/post/7685591822258585626)
 16. [CPF-Flutter 社区提出折叠场景分栏（平行视界） 方案](https://juejin.cn/post/7685604730751057983)
 17. [民间AI排行榜单新鲜出炉，Fable 5.1仅排第三](https://juejin.cn/post/7686044352167575604)
@@ -32,8 +32,8 @@
 26. [【AI+Gpt-Image2.5】我偷偷把同事做成了虚拟角色，结果被发现了](https://juejin.cn/post/7685701789799022602)
 27. [给若依加审批流，不用 Flowable](https://juejin.cn/post/7685577977079185423)
 28. [别再堆 AGENTS.md 了：前端团队的 Agent 上下文分层落地指南](https://juejin.cn/post/7685944661652602914)
-29. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://juejin.cn/post/7686040694948134921)
-30. [Flutter GSoC 2026 提案进度解读，补上 DevTools、FFI 和原生平台的关键缺口](https://juejin.cn/post/7686218976179126291)
+29. [Flutter GSoC 2026 提案进度解读，补上 DevTools、FFI 和原生平台的关键缺口](https://juejin.cn/post/7686218976179126291)
+30. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://juejin.cn/post/7686040694948134921)
 31. [程序员创业快一年：做出产品不等于拥有生意](https://juejin.cn/post/7685966242269151270)
 32. [AI Coding UI Patterns：把好设计说清楚！](https://juejin.cn/post/7685302724011704347)
 33. [2026年，这5个JS新趋势正在悄悄改写前端](https://juejin.cn/post/7685684235953094697)
@@ -45,12 +45,12 @@
 39. [Javaer转Agent：学习资料篇](https://juejin.cn/post/7685765300814643200)
 40. [失败重试：Agent 中指数退避的正确姿势](https://juejin.cn/post/7685559824034758707)
 41. [从 0 到 1 速通 WorkBuddy](https://juejin.cn/post/7686090678486073395)
-42. [网页端, 40mb离线模型, 自动抠图, 不用 Python，不用服务器，不用 API Key, 不用显卡](https://juejin.cn/post/7686043275371282466)
+42. [Morya UI：别手搓了，搓也搓不过 Agent](https://juejin.cn/post/7685657703510343680)
 43. [AI Coding 方法论分析：同一个需求 SpecKit 、 Superpowers、 MattpocockSkills 不同设计](https://juejin.cn/post/7685963804388573194)
 44. [受够微信偷偷更新，我做了一个 Windows 微信更新屏蔽工具](https://juejin.cn/post/7685317187398664238)
 45. [🔥别再死磕压缩了，Codex、NVIDIA、DeepSeek、Uber 给出 Agent 上下文管理的新答案](https://juejin.cn/post/7685282635450925065)
-46. [用 GPT6 + Hyper3D MCP 搓 3D 个人网站，太夯了！（附教程）](https://juejin.cn/post/7685944952623300659)
-47. [Android 工控终端实战：从秒级卡顿到毫秒响应，SQLite/LitePal 性能优化全记录](https://juejin.cn/post/7685559824035070003)
-48. [Agnes 3.0 Flash 来了：一个"能真正把活干完"的 AI 模型](https://juejin.cn/post/7685332147724910602)
-49. [AI 编程 Agent 全景图：5 大终端 Agent 横评 + Skills / MCP 生态一次讲透](https://juejin.cn/post/7685267114438164518)
-50. [Morya UI：别手搓了，搓也搓不过 Agent](https://juejin.cn/post/7685657703510343680)
+46. [网页端, 40mb离线模型, 自动抠图, 不用 Python，不用服务器，不用 API Key, 不用显卡](https://juejin.cn/post/7686043275371282466)
+47. [用 GPT6 + Hyper3D MCP 搓 3D 个人网站，太夯了！（附教程）](https://juejin.cn/post/7685944952623300659)
+48. [Android 工控终端实战：从秒级卡顿到毫秒响应，SQLite/LitePal 性能优化全记录](https://juejin.cn/post/7685559824035070003)
+49. [Agnes 3.0 Flash 来了：一个"能真正把活干完"的 AI 模型](https://juejin.cn/post/7685332147724910602)
+50. [AI 编程 Agent 全景图：5 大终端 Agent 横评 + Skills / MCP 生态一次讲透](https://juejin.cn/post/7685267114438164518)
