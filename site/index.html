@@ -392,6 +392,10 @@
     .channel-grid.layout-list { grid-template-columns: 1fr; }
     .channel-grid.layout-channel-tabs { display: block; }
     .channel-card { min-width: 0; display: flex; flex-direction: column; overflow: hidden; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+    .channel-card-placeholder { min-height: 520px; content-visibility: auto; contain-intrinsic-size: auto 520px; }
+    .channel-card-placeholder .channel-body { display: grid; place-items: center; min-height: 400px; color: var(--muted); }
+    .channel-card-placeholder .channel-body::after { content: ""; width: 42%; height: 3px; background: var(--line-strong); animation: placeholder-pulse 1.2s ease-in-out infinite alternate; }
+    @keyframes placeholder-pulse { from { opacity: .35; } to { opacity: .85; } }
     .channel-head { min-height: 64px; padding: 10px 12px; display: flex; flex: 0 0 auto; align-items: center; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--line-strong); }
     .channel-id { display: flex; align-items: center; gap: 10px; min-width: 0; }
     .channel-icon { width: 34px; height: 34px; display: grid; place-items: center; border-radius: 4px; color: white; font-size: 12px; font-weight: 800; flex: 0 0 auto; }
@@ -734,6 +738,12 @@
     const STORAGE_KEY = 'awesome-hot-list.preferences.v1';
     const PREFS_SCHEMA_VERSION = 3;
     const MOBILE_TOP_COUNT = 10;
+    const INITIAL_DOM_BUDGET = 1500;
+    const SURFACE_DATA_FILES = Object.freeze({
+      live: './data/live.json',
+      digest: './data/digest.json',
+      authority: './data/authority.json'
+    });
     const MOBILE_VIEWPORT = window.matchMedia('(max-width: 680px)');
     const DISPLAY_THEMES = Object.freeze({
       editorial: '编辑部浅色',
@@ -1205,6 +1215,10 @@
     let historyFlow = { times: [], rows: [] };
     let todaySignals = [];
     let historySignals = [];
+    let latestGeneratedAt = '';
+    let channelObserver = null;
+    let lazyRenderGeneration = 0;
+    let enforceInitialDomBudget = true;
 
     const defaultPrefs = {
       preferencesVersion: PREFS_SCHEMA_VERSION,
@@ -1458,6 +1472,116 @@
       </article>`;
     }
 
+    function htmlNodeCount(html) {
+      const template = document.createElement('template');
+      template.innerHTML = html;
+      return template.content.querySelectorAll('*').length;
+    }
+
+    function projectedNodeCount(current, replacementHtml) {
+      const currentNodes = current ? 1 + current.querySelectorAll('*').length : 0;
+      return document.querySelectorAll('*').length - currentNodes + htmlNodeCount(replacementHtml);
+    }
+
+    function channelPlaceholder(key) {
+      const channel = CHANNELS[key];
+      return `<article class="channel-card channel-card-placeholder" data-lazy-channel="${key}" aria-busy="true">
+        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${channel.name}</div><div class="channel-sub">内容准备中</div></div></div></header>
+        <div class="channel-body" aria-label="${channel.name}内容加载中"></div>
+      </article>`;
+    }
+
+    function eagerChannelKeys(keys) {
+      const grid = document.getElementById('channelGrid');
+      const baseNodes = document.querySelectorAll('*').length - (grid?.querySelectorAll('*').length || 0);
+      const placeholders = Object.fromEntries(keys.map(key => [key, channelPlaceholder(key)]));
+      let projectedNodes = baseNodes + keys.reduce((count, key) => count + htmlNodeCount(placeholders[key]), 0);
+      const eager = [];
+      for (const key of keys) {
+        const nextProjectedNodes = projectedNodes - htmlNodeCount(placeholders[key]) + htmlNodeCount(channelCard(key));
+        if (nextProjectedNodes > INITIAL_DOM_BUDGET) break;
+        eager.push(key);
+        projectedNodes = nextProjectedNodes;
+      }
+      return new Set(eager);
+    }
+
+    function replaceLazyChannel(placeholder, { respectBudget = false } = {}) {
+      if (!placeholder?.isConnected) return false;
+      const key = placeholder.dataset.lazyChannel;
+      const card = channelCard(key);
+      if (respectBudget && enforceInitialDomBudget && projectedNodeCount(placeholder, card) > INITIAL_DOM_BUDGET) return false;
+      placeholder.insertAdjacentHTML('beforebegin', card);
+      placeholder.remove();
+      return true;
+    }
+
+    function scheduleIdle(callback) {
+      if ('requestIdleCallback' in window) return window.requestIdleCallback(callback, { timeout: 600 });
+      return setTimeout(() => callback({ timeRemaining: () => 8 }), 16);
+    }
+
+    function observeLazyChannels(grid) {
+      channelObserver?.disconnect();
+      channelObserver = null;
+      const placeholders = [...grid.querySelectorAll('[data-lazy-channel]')];
+      if (!placeholders.length) return;
+      if ('IntersectionObserver' in window) {
+        channelObserver = new IntersectionObserver(entries => {
+          entries.filter(entry => entry.isIntersecting).forEach(entry => {
+            if (replaceLazyChannel(entry.target, { respectBudget: true })) channelObserver.unobserve(entry.target);
+          });
+        }, { rootMargin: '640px 0px' });
+        placeholders.forEach(placeholder => channelObserver.observe(placeholder));
+        return;
+      }
+      const generation = ++lazyRenderGeneration;
+      const mountBatch = deadline => {
+        if (generation !== lazyRenderGeneration) return;
+        let mounted = 0;
+        let budgetBlocked = false;
+        while (placeholders.length && mounted < 2 && deadline.timeRemaining() > 1) {
+          const placeholder = placeholders.shift();
+          if (!replaceLazyChannel(placeholder, { respectBudget: true })) {
+            placeholders.unshift(placeholder);
+            budgetBlocked = true;
+            break;
+          }
+          mounted += 1;
+        }
+        if (placeholders.length && !budgetBlocked) scheduleIdle(mountBatch);
+      };
+      scheduleIdle(mountBatch);
+    }
+
+    function releaseInitialDomBudget() {
+      if (!enforceInitialDomBudget) return;
+      enforceInitialDomBudget = false;
+      document.querySelectorAll('[data-lazy-channel]').forEach(placeholder => {
+        const bounds = placeholder.getBoundingClientRect();
+        if (bounds.bottom < -640 || bounds.top > window.innerHeight + 640) return;
+        channelObserver?.unobserve(placeholder);
+        replaceLazyChannel(placeholder);
+      });
+      if (!channelObserver && document.querySelector('[data-lazy-channel]')) {
+        observeLazyChannels(document.getElementById('channelGrid'));
+      }
+    }
+
+    function replaceRenderedChannel(key, { respectBudget = false } = {}) {
+      const current = document.querySelector(`[data-channel="${key}"]`);
+      if (!current) return true;
+      const card = channelCard(key);
+      if (respectBudget && enforceInitialDomBudget && projectedNodeCount(current, card) > INITIAL_DOM_BUDGET) {
+        current.insertAdjacentHTML('beforebegin', channelPlaceholder(key));
+        current.remove();
+        return false;
+      }
+      current.insertAdjacentHTML('beforebegin', card);
+      current.remove();
+      return true;
+    }
+
     function renderChannels() {
       const visibleKeys = prefs.order.filter(key => prefs.visible[key]);
       const switcher = document.getElementById('channelSwitcher');
@@ -1476,18 +1600,14 @@
         switcher.classList.remove('active');
         switcher.innerHTML = '';
       }
-      grid.innerHTML = keys.length ? keys.map(channelCard).join('') : '<div class="empty-channel"><div><strong>未选择展示渠道</strong>请在显示设置中至少启用一个渠道</div></div>';
+      if (keys.length) {
+        const eager = prefs.layout === 'channel-tabs' ? new Set(keys) : eagerChannelKeys(keys);
+        grid.innerHTML = keys.map(key => eager.has(key) ? channelCard(key) : channelPlaceholder(key)).join('');
+        observeLazyChannels(grid);
+      } else {
+        grid.innerHTML = '<div class="empty-channel"><div><strong>未选择展示渠道</strong>请在显示设置中至少启用一个渠道</div></div>';
+      }
       document.getElementById('drawerTopCount').value = String(prefs.topCount);
-      document.querySelectorAll('[data-ranking-channel]').forEach(button => button.addEventListener('click', () => {
-        prefs.activeRankings[button.dataset.rankingChannel] = button.dataset.rankingName;
-        savePrefs();
-        renderChannels();
-      }));
-      document.querySelectorAll('[data-channel-switch]').forEach(button => button.addEventListener('click', () => {
-        prefs.activeChannel = button.dataset.channelSwitch;
-        savePrefs();
-        renderChannels();
-      }));
     }
 
     function renderPreferenceChoices() {
@@ -1732,7 +1852,7 @@
         && nowMs - fetchedAt > staleAfterHours * 60 * 60 * 1000;
     }
 
-    function applyLatest(payload) {
+    function resetLatestState() {
       Object.keys(CHANNEL_RANKINGS).forEach(key => {
         CHANNEL_RANKINGS[key] = { '等待采集': [] };
         CHANNEL_RANKING_URLS[key] = {};
@@ -1742,16 +1862,45 @@
         CHANNELS[key].checkedAt = '';
         CHANNELS[key].statusMessage = '该渠道尚无统一快照';
       });
+      latestGeneratedAt = '';
+    }
+
+    function updateLatestSummary(generatedAt = '') {
+      if (generatedAt && (!latestGeneratedAt || snapshotTimeMs(generatedAt) > snapshotTimeMs(latestGeneratedAt))) latestGeneratedAt = generatedAt;
+      const effectiveStatuses = Object.values(CHANNELS).map(channel => channel.status || 'unavailable');
+      const statusCounts = effectiveStatuses.reduce((counts, status) => {
+        counts[status] = (counts[status] || 0) + 1;
+        return counts;
+      }, {});
+      const statusSummary = [
+        ['ok', '正常'],
+        ['stale', '陈旧'],
+        ['error', '失败'],
+        ['disabled', '未启用'],
+        ['unavailable', '待采集']
+      ].filter(([status]) => statusCounts[status]).map(([status, label]) => `${label} ${statusCounts[status]}`).join(' · ');
+      document.getElementById('retryLatest').hidden = true;
+      document.getElementById('syncStatus').textContent = `最近同步 ${shortDateTime(latestGeneratedAt)}`;
+      document.getElementById('latestEyebrow').textContent = `LATEST SNAPSHOT / ${shortDateTime(latestGeneratedAt)}`;
+      document.getElementById('latestNote').textContent = statusSummary || '暂无渠道采集状态';
+      if (latestGeneratedAt) document.getElementById('brandDate').textContent = `${latestGeneratedAt.slice(0, 10).replaceAll('-', '.')} · 数据持续更新`;
+    }
+
+    function mergeSnapshotPayload(payload, { reset = false, renderAll = false } = {}) {
+      if (reset) resetLatestState();
+      const affected = new Set();
       const effectiveStatuses = [];
       for (const snapshot of payload.channels || []) {
         const key = snapshot.channelId;
         if (!CHANNELS[key]) continue;
         const snapshotRankings = Array.isArray(snapshot.rankings) ? snapshot.rankings : [];
-        if (key === 'bing' && !snapshotRankings.some(ranking => ranking.id === 'domestic-trending')) {
+        const containsHotlist = snapshotRankings.some(ranking => (ranking.surface || 'hotlist') === 'hotlist');
+        if (key === 'bing' && containsHotlist && !snapshotRankings.some(ranking => ranking.id === 'domestic-trending')) {
           CHANNELS[key].status = 'unavailable';
           CHANNELS[key].statusMessage = '历史国际版快照已停用，等待国内热点采集';
           CHANNEL_RANKINGS[key] = { '暂无数据': [] };
           effectiveStatuses.push('unavailable');
+          affected.add(key);
           continue;
         }
         CHANNELS[key].name = snapshot.channelName || CHANNELS[key].name;
@@ -1764,6 +1913,7 @@
           CHANNELS[key].statusMessage = '旧快照已超过保留时限，等待国内热点重新采集';
           CHANNEL_RANKINGS[key] = { '暂无数据': [] };
           effectiveStatuses.push('unavailable');
+          affected.add(key);
           continue;
         }
         const warnings = Array.isArray(snapshot.warnings) ? snapshot.warnings.filter(Boolean) : [];
@@ -1778,10 +1928,12 @@
               : snapshot.status === 'unavailable'
                 ? '该渠道尚未采集'
                 : snapshot.error || '等待下一次渠道采集';
-        const rankings = {};
-        const rankingUrls = {};
-        const rankingProviders = {};
-        const rankingSurfaces = {};
+        const rankings = { ...(CHANNEL_RANKINGS[key] || {}) };
+        const rankingUrls = { ...(CHANNEL_RANKING_URLS[key] || {}) };
+        const rankingProviders = { ...(CHANNEL_RANKING_PROVIDERS[key] || {}) };
+        const rankingSurfaces = { ...(CHANNEL_RANKING_SURFACES[key] || {}) };
+        delete rankings['等待采集'];
+        delete rankings['暂无数据'];
         for (const ranking of snapshotRankings) {
           rankings[ranking.name] = (ranking.items || []).map(item => ({
             ...item,
@@ -1800,26 +1952,25 @@
         CHANNEL_RANKING_PROVIDERS[key] = rankingProviders;
         CHANNEL_RANKING_SURFACES[key] = rankingSurfaces;
         effectiveStatuses.push(CHANNELS[key].status);
+        affected.add(key);
       }
-      const statusCounts = effectiveStatuses.reduce((counts, status) => {
-        counts[status] = (counts[status] || 0) + 1;
-        return counts;
-      }, {});
-      const statusSummary = [
-        ['ok', '正常'],
-        ['stale', '陈旧'],
-        ['error', '失败'],
-        ['disabled', '未启用'],
-        ['unavailable', '待采集']
-      ].filter(([status]) => statusCounts[status]).map(([status, label]) => `${label} ${statusCounts[status]}`).join(' · ');
       const generatedAt = payload.generatedAt || '';
-      document.getElementById('retryLatest').hidden = true;
-      document.getElementById('syncStatus').textContent = `最近同步 ${shortDateTime(generatedAt)}`;
-      document.getElementById('latestEyebrow').textContent = `LATEST SNAPSHOT / ${shortDateTime(generatedAt)}`;
-      document.getElementById('latestNote').textContent = statusSummary || '暂无渠道采集状态';
-      if (generatedAt) document.getElementById('brandDate').textContent = `${generatedAt.slice(0, 10).replaceAll('-', '.')} · 数据持续更新`;
-      renderChannels();
-      renderSettings();
+      updateLatestSummary(generatedAt);
+      if (renderAll) {
+        renderChannels();
+        renderSettings();
+      } else {
+        let deferred = false;
+        affected.forEach(key => {
+          if (!replaceRenderedChannel(key, { respectBudget: true })) deferred = true;
+        });
+        if (deferred) observeLazyChannels(document.getElementById('channelGrid'));
+      }
+      return affected;
+    }
+
+    function applyLatest(payload) {
+      return mergeSnapshotPayload(payload, { reset: true, renderAll: true });
     }
 
     async function fetchJson(path, forceRefresh = false) {
@@ -1876,14 +2027,29 @@
     let todayLoading = false;
     let historyLoaded = false;
     let historyLoading = false;
+    let latestLoadGeneration = 0;
+
+    async function loadSupplementarySurfaces(forceRefresh, generation) {
+      const entries = Object.entries(SURFACE_DATA_FILES);
+      const results = await Promise.allSettled(
+        entries.map(([, path]) => fetchJson(path, forceRefresh))
+      );
+      if (generation !== latestLoadGeneration) return;
+      results.forEach((result, index) => {
+        if (result.status !== 'fulfilled') return;
+        mergeSnapshotPayload(result.value);
+      });
+    }
 
     async function loadLatest(forceRefresh = false) {
       if (latestLoading) return;
       latestLoading = true;
+      const generation = ++latestLoadGeneration;
       document.getElementById('retryLatest').hidden = true;
       document.getElementById('latestNote').textContent = '正在加载各渠道最新快照';
       try {
         applyLatest(await fetchJson('./data/latest.json', forceRefresh));
+        scheduleSupplementaryLoad(forceRefresh, generation);
       } catch {
         document.getElementById('syncStatus').textContent = '快照加载失败';
         document.getElementById('latestNote').textContent = '快照暂不可用，请检查网络后重试';
@@ -1892,6 +2058,10 @@
       } finally {
         latestLoading = false;
       }
+    }
+
+    function scheduleSupplementaryLoad(forceRefresh = false, generation = latestLoadGeneration) {
+      scheduleIdle(() => loadSupplementarySurfaces(forceRefresh, generation));
     }
 
     async function loadTodayReport() {
@@ -1940,6 +2110,7 @@
     document.getElementById('closeSettings').addEventListener('click', closeSettings);
     document.getElementById('drawerBackdrop').addEventListener('click', closeSettings);
     document.getElementById('saveSettings').addEventListener('click', () => { closeSettings(); showToast('显示设置已保存在当前浏览器'); });
+    window.addEventListener('scroll', releaseInitialDomBudget, { passive: true, once: true });
     document.querySelectorAll('[data-theme-choice]').forEach(button => button.addEventListener('click', () => {
       if (!Object.hasOwn(DISPLAY_THEMES, button.dataset.themeChoice)) return;
       prefs.theme = button.dataset.themeChoice;
@@ -1959,6 +2130,20 @@
     document.getElementById('closeTopicDialog').addEventListener('click', () => document.getElementById('topicDialog').close());
     document.getElementById('historyDateSelect').addEventListener('change', event => loadSelectedHistory(event.target.value));
     document.getElementById('retryLatest').addEventListener('click', () => loadLatest(true));
+    document.getElementById('channelGrid').addEventListener('click', event => {
+      const button = event.target.closest('[data-ranking-channel]');
+      if (!button) return;
+      prefs.activeRankings[button.dataset.rankingChannel] = button.dataset.rankingName;
+      savePrefs();
+      replaceRenderedChannel(button.dataset.rankingChannel);
+    });
+    document.getElementById('channelSwitcher').addEventListener('click', event => {
+      const button = event.target.closest('[data-channel-switch]');
+      if (!button) return;
+      prefs.activeChannel = button.dataset.channelSwitch;
+      savePrefs();
+      renderChannels();
+    });
     document.addEventListener('keydown', event => { if (event.key === 'Escape') closeSettings(); });
 
     renderTopList('todayTop', topTopics);
