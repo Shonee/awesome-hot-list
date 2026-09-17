@@ -64,6 +64,7 @@ class HotlistModelTests(unittest.TestCase):
                     "source": "示例",
                     "type": "热榜",
                     "ranking_id": "hot",
+                    "surface": "hotlist",
                     "published_at": "",
                     "datetime": "2026-09-04 11:30:00",
                 }
@@ -78,11 +79,11 @@ class RegistryTests(unittest.TestCase):
             (
                 "weibo", "zhihu", "douyin", "kuaishou", "bilibili", "acfun",
                 "toutiao", "github", "juejin", "cnblogs", "pojie52",
-                "googletrends", "bing", "baidu", "wechat", "36kr", "qqnews",
-                "netease", "sina", "xueqiu", "tonghuashun", "huggingface",
-                "thepaper", "douban", "tieba", "hupu", "eastmoney", "maimai",
-                "v2ex", "lobsters", "hackernews", "stackoverflow", "cls",
-                "nodeseek", "fuliba", "rss",
+                "googletrends", "bing", "baidu", "wechat", "36kr", "readhub",
+                "thepaper", "cctv", "mfa", "qqnews", "netease", "sina", "cls",
+                "wallstreetcn", "xueqiu", "eastmoney", "tonghuashun", "tieba",
+                "douban", "hupu", "maimai", "huggingface", "v2ex", "lobsters",
+                "hackernews", "stackoverflow", "nodeseek", "fuliba",
             ),
         )
 

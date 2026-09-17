@@ -7,11 +7,16 @@ from src.hotlist.channels import bing, cnblogs, hupu, pojie52
 
 class RequestedCollectorTests(unittest.TestCase):
     def test_bing_http_fallback_recovers_trending_topics(self):
-        html = b'<div class="TrendingOnBing"><a href="/news/topicview?q=demo">Example</a></div>'
+        html = b'''<div id="tobPrompt">
+        <a href="/search?q=one"><span class="tob_title">\xe5\x9b\xbd\xe5\x86\x85\xe7\x83\xad\xe7\x82\xb9\xe4\xb8\x80</span></a>
+        <a href="/search?q=two"><span class="tob_title">\xe5\x9b\xbd\xe5\x86\x85\xe7\x83\xad\xe7\x82\xb9\xe4\xba\x8c</span></a>
+        <a href="/search?q=three"><span class="tob_title">\xe5\x9b\xbd\xe5\x86\x85\xe7\x83\xad\xe7\x82\xb9\xe4\xb8\x89</span></a>
+        </div>'''
         with patch.object(bing, "get", return_value="<html>blocked</html>"), patch("src.hotlist.channels.bing.subprocess.run", return_value=CompletedProcess([], 0, stdout=html)) as fallback:
             result = bing.collect()
 
-        self.assertEqual(result.rankings[0].items[0].title, "Example")
+        self.assertEqual(result.rankings[0].items[0].title, "国内热点一")
+        self.assertEqual(result.rankings[0].ranking_id, "domestic-trending")
         fallback.assert_called_once()
         self.assertFalse(fallback.call_args.kwargs.get("shell", False))
 

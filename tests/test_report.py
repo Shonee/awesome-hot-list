@@ -1,4 +1,5 @@
 import unittest
+from collections import defaultdict
 from datetime import datetime
 from types import SimpleNamespace
 from unittest.mock import patch
@@ -11,9 +12,22 @@ from src.hotlist.report import (
     build_report_from_rows,
     load_rows,
 )
+from src.hotlist import report as report_module
 
 
 class ReportBuilderTests(unittest.TestCase):
+    def test_topic_group_candidate_index_avoids_quadratic_comparisons(self):
+        grouped = {
+            chr(0x4E00 + index) * 10: [("weibo", {"title": str(index)})]
+            for index in range(500)
+        }
+
+        with patch.object(report_module, "_similar_title", wraps=report_module._similar_title) as similar:
+            merged = report_module._merge_topic_groups(defaultdict(list, grouped))
+
+        self.assertEqual(len(merged), 500)
+        self.assertLess(similar.call_count, 500)
+
     def test_day_comparison_matches_rewrites_and_classifies_top_ten_movement(self):
         current = {
             "date": "2026-09-06",

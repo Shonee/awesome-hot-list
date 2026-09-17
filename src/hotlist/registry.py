@@ -23,6 +23,7 @@ class ChannelDefinition:
     frequency_minutes: int = 60
     visible_by_default: bool = True
     include_in_report: bool = True
+    stale_after_hours: Optional[int] = None
 
 
 CHANNEL_ORDER = (
@@ -42,29 +43,34 @@ CHANNEL_ORDER = (
     "baidu",
     "wechat",
     "36kr",
+    "readhub",
+    "thepaper",
+    "cctv",
+    "mfa",
     "qqnews",
     "netease",
     "sina",
+    "cls",
+    "wallstreetcn",
     "xueqiu",
-    "tonghuashun",
-    "huggingface",
-    "thepaper",
-    "douban",
-    "tieba",
-    "hupu",
     "eastmoney",
+    "tonghuashun",
+    "tieba",
+    "douban",
+    "hupu",
     "maimai",
+    "huggingface",
     "v2ex",
     "lobsters",
     "hackernews",
     "stackoverflow",
-    "cls",
     "nodeseek",
     "fuliba",
-    "rss",
 )
 
-RETIRED_CHANNEL_IDS = ("linuxdo", "ithome")
+RETIRED_CHANNEL_IDS = ("linuxdo", "ithome", "rss")
+RETIRED_RANKING_IDS = {"bing": ("trending-news",)}
+LIVE_CHANNELS = ("sina", "cls", "wallstreetcn")
 
 # GitHub Actions checks special channels hourly, but the collector only runs a
 # channel when this interval has elapsed since its last snapshot. This keeps
@@ -81,6 +87,7 @@ CHANNEL_FREQUENCIES = {
     "xueqiu": 360,
     "maimai": 360,
     "v2ex": 180,
+    "wallstreetcn": 15,
 }
 
 
@@ -111,7 +118,7 @@ _METADATA = {
     "hackernews": ("Hacker News", "HN", "#ff6600", "https://news.ycombinator.com/", True, ()),
     "huggingface": ("Hugging Face", "HF", "#e0a000", "https://huggingface.co/models?sort=trending", True, ()),
     "googletrends": ("Google Trends", "G", "#4285f4", "https://trends.google.com/trending?geo=HK", True, ()),
-    "bing": ("必应热门新闻", "B", "#167a83", "https://www.bing.com/news?cc=us&setlang=en-US", True, ()),
+    "bing": ("必应国内热点", "B", "#167a83", "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans", True, ()),
     "juejin": ("掘金", "掘", "#1e80ff", "https://juejin.cn/hot/articles", True, ()),
     "lobsters": ("Lobsters", "L", "#ac130d", "https://lobste.rs/", True, ()),
     "douban": ("豆瓣", "DB", "#00a65a", "https://movie.douban.com/chart", True, ()),
@@ -121,6 +128,10 @@ _METADATA = {
     "sina": ("新浪", "新", "#e6162d", "https://news.sina.com.cn/", True, ()),
     "thepaper": ("澎湃新闻", "澎", "#b5121b", "https://www.thepaper.cn/", True, ()),
     "wechat": ("微信文章", "微", "#07c160", "https://tophub.today/n/WnBe01o371", True, ()),
+    "readhub": ("Readhub", "R", "#1677ff", "https://readhub.cn/", True, ()),
+    "cctv": ("央视新闻", "视", "#c8171e", "https://news.cctv.com/", True, ()),
+    "mfa": ("外交部", "外", "#1d4f91", "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/", True, ()),
+    "wallstreetcn": ("华尔街见闻", "见", "#d8a23f", "https://wallstreetcn.com/live/global", True, ()),
     "maimai": ("脉脉", "MM", "#00a6a6", "https://maimai.cn/web/gossip_list", False, ("MAIMAI_COOKIE",)),
     "xueqiu": ("雪球", "XQ", "#1f6fb2", "https://xueqiu.com/today", True, ()),
     "v2ex": ("V2EX", "V2", "#778087", "https://www.v2ex.com/?tab=hot", True, ()),
@@ -129,12 +140,12 @@ _METADATA = {
     "nodeseek": ("NodeSeek", "N", "#4e6e8e", "https://www.nodeseek.com/?tab=hot", True, ()),
     "tieba": ("百度贴吧", "贴", "#2f76c7", "https://tieba.baidu.com/", True, ()),
     "fuliba": ("福利吧", "福", "#d94c4c", "https://fuliba2023.net/", True, ()),
-    "rss": ("RSS", "RSS", "#f28c28", "", True, ()),
 }
 
 
 _HIDDEN_BY_DEFAULT = {"maimai", "fuliba"}
-_EXCLUDED_FROM_REPORT = {"maimai", "fuliba"}
+_EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "readhub", "cctv", "mfa", "wallstreetcn"}
+_STALE_AFTER_HOURS = {"bing": 24}
 
 
 CHANNELS: Dict[str, ChannelDefinition] = {
@@ -151,6 +162,7 @@ CHANNELS: Dict[str, ChannelDefinition] = {
         frequency_minutes=CHANNEL_FREQUENCIES.get(channel_id, 60),
         visible_by_default=channel_id not in _HIDDEN_BY_DEFAULT,
         include_in_report=channel_id not in _EXCLUDED_FROM_REPORT,
+        stale_after_hours=_STALE_AFTER_HOURS.get(channel_id),
     )
     for index, channel_id in enumerate(CHANNEL_ORDER, 1)
     for values in (_METADATA[channel_id],)
@@ -185,8 +197,12 @@ def iter_channels(enabled_only: bool = False) -> Iterable[ChannelDefinition]:
 
 
 def resolve_channels(value) -> list:
-    if isinstance(value, str) and value in {"hourly", "special"}:
-        return list(HOURLY_CHANNELS if value == "hourly" else SPECIAL_CHANNELS)
+    if isinstance(value, str) and value in {"hourly", "special", "live"}:
+        if value == "hourly":
+            return list(HOURLY_CHANNELS)
+        if value == "special":
+            return list(SPECIAL_CHANNELS)
+        return list(LIVE_CHANNELS)
     if value is None or value == "all" or value == ["all"]:
         return list(CHANNEL_ORDER)
     if isinstance(value, str):

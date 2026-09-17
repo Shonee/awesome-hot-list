@@ -1,14 +1,11 @@
 import unittest
 import json
-import os
 import tempfile
 from pathlib import Path
-from unittest.mock import patch
 
-from src.hotlist.channels import rss
 from src.hotlist.channels.rss import DEFAULT_FEEDS
 from src.hotlist.models import ChannelSnapshot
-from src.hotlist.registry import CHANNEL_ORDER
+from src.hotlist.registry import CHANNEL_ORDER, get_channel
 from src.hotlist.runner import merge_latest_snapshot
 
 
@@ -28,6 +25,7 @@ class RssSourceOwnershipTests(unittest.TestCase):
                 json.dumps({"channels": [
                     {"channelId": "linuxdo", "status": "stale"},
                     {"channelId": "ithome", "status": "ok"},
+                    {"channelId": "rss", "status": "ok"},
                 ]}),
                 encoding="utf-8",
             )
@@ -39,31 +37,12 @@ class RssSourceOwnershipTests(unittest.TestCase):
 
         self.assertNotIn("linuxdo", [item["channelId"] for item in payload["channels"]])
         self.assertNotIn("ithome", [item["channelId"] for item in payload["channels"]])
+        self.assertNotIn("rss", [item["channelId"] for item in payload["channels"]])
 
-    def test_all_rss_failures_are_reported_as_collection_errors(self):
-        with (
-            patch.dict(os.environ, {"HOTLIST_RSS_FEEDS": "测试源|https://example.com/feed"}),
-            patch("src.hotlist.channels.rss.get", side_effect=RuntimeError("network down")),
-        ):
-            with self.assertRaisesRegex(RuntimeError, "no RSS feed returned usable items"):
-                rss.collect()
-
-    def test_partial_rss_failures_are_exposed_as_snapshot_warnings(self):
-        xml = """<?xml version="1.0"?><rss><channel><title>成功源</title><item>
-        <title>示例文章</title><link>https://example.com/article</link>
-        </item></channel></rss>"""
-        with (
-            patch.dict(
-                os.environ,
-                {"HOTLIST_RSS_FEEDS": "成功源|https://ok.example/feed,失败源|https://bad.example/feed"},
-            ),
-            patch("src.hotlist.channels.rss.get", side_effect=[xml, RuntimeError("network down")]),
-        ):
-            result = rss.collect()
-
-        self.assertEqual(result.status, "ok")
-        self.assertEqual(result.warnings, ["失败源"])
-        self.assertEqual(result.to_dict()["warnings"], ["失败源"])
+    def test_rss_is_retired_from_registration_and_default_collection(self):
+        self.assertNotIn("rss", CHANNEL_ORDER)
+        with self.assertRaisesRegex(ValueError, "unknown channel: rss"):
+            get_channel("rss")
 
 
 if __name__ == "__main__":

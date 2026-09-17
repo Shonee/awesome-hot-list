@@ -41,8 +41,12 @@ class DataRootTests(unittest.TestCase):
                 patch("src.script.render.yesterday_date", return_value="2026-09-05"),
                 patch("src.script.render.load_rows", return_value={}),
                 patch(
-                    "src.script.render.build_report",
-                    side_effect=lambda date: {"date": date, "metrics": {"deduplicated": 0}},
+                    "src.script.render.build_report_from_rows",
+                    side_effect=lambda date, _rows: {
+                        "date": date,
+                        "metrics": {"deduplicated": 0},
+                        "topTopics": [],
+                    },
                 ),
             ):
                 render_site(data_root=str(root))
@@ -54,6 +58,30 @@ class DataRootTests(unittest.TestCase):
             self.assertNotIn("__HOTLIST_CHANNEL_CONFIG__", rendered)
             self.assertIn('"channelId": "tieba"', rendered)
             self.assertIn("https://github.com/Shonee/awesome-hot-list", rendered)
+
+    def test_render_reads_and_builds_each_comparison_date_once(self):
+        with tempfile.TemporaryDirectory() as directory:
+            with (
+                patch("src.script.render.current_date", return_value="2026-09-06"),
+                patch("src.script.render.yesterday_date", return_value="2026-09-05"),
+                patch("src.script.render.load_rows", return_value={}) as load,
+                patch(
+                    "src.script.render.build_report_from_rows",
+                    side_effect=lambda date, _rows: {
+                        "date": date,
+                        "metrics": {"deduplicated": 0},
+                        "topTopics": [],
+                    },
+                ) as build,
+            ):
+                render_site(data_root=directory)
+
+        self.assertEqual([call.args[0] for call in load.call_args_list], [
+            "2026-09-06", "2026-09-05", "2026-09-04",
+        ])
+        self.assertEqual([call.args[0] for call in build.call_args_list], [
+            "2026-09-06", "2026-09-05", "2026-09-04",
+        ])
 
     def test_rendered_site_opens_latest_hotlists_first(self):
         template = Path("src/template/site.html").read_text(encoding="utf-8")
@@ -71,7 +99,8 @@ class DataRootTests(unittest.TestCase):
 
         self.assertIn("const MOBILE_TOP_COUNT = 10;", template)
         self.assertIn("const effectiveTopCount = isMobileViewport() ? MOBILE_TOP_COUNT : prefs.topCount;", template)
-        self.assertIn("const rows = allRows.slice(0, effectiveTopCount);", template)
+        self.assertIn("const rows = allRows.slice(0, isLive ? 100 : effectiveTopCount);", template)
+        self.assertIn("const marker = isLive ? publishedLabel(item.publishedAt).slice(11, 16)", template)
         self.assertIn(".layout-channel-tabs .channel-body {", template)
         self.assertIn("overflow-y: visible;", template)
         self.assertIn(".main-nav { margin: 0 -16px; padding: 4px 16px 8px; min-width: 0; width: auto; }", template)
@@ -80,10 +109,38 @@ class DataRootTests(unittest.TestCase):
     def test_channel_defaults_and_provider_metadata_are_rendered(self):
         template = Path("src/template/site.html").read_text(encoding="utf-8")
 
-        self.assertIn("const PREFS_SCHEMA_VERSION = 2;", template)
+        self.assertIn("const PREFS_SCHEMA_VERSION = 3;", template)
         self.assertIn("channel.visibleByDefault !== false", template)
         self.assertIn("CHANNEL_RANKING_PROVIDERS", template)
+        self.assertIn("CHANNEL_RANKING_SURFACES", template)
+        self.assertIn("rankingSurfaces[ranking.name] = ranking.surface || 'hotlist';", template)
         self.assertIn("providerName", template)
+
+    def test_latest_snapshot_uses_default_cache_and_only_manual_retry_forces_reload(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        self.assertIn("async function fetchJson(path, forceRefresh = false)", template)
+        self.assertIn("if (forceRefresh) options.cache = 'reload';", template)
+        self.assertNotIn("cache: 'no-cache'", template)
+        self.assertIn("async function loadLatest(forceRefresh = false)", template)
+        self.assertIn("fetchJson('./data/latest.json', forceRefresh)", template)
+        self.assertIn("addEventListener('click', () => loadLatest(true))", template)
+
+    def test_bing_stale_snapshot_expires_after_configured_window(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        self.assertIn("function snapshotIsExpired(snapshot, channel, nowMs = Date.now())", template)
+        self.assertIn("channel.staleAfterHours", template)
+        self.assertIn("旧快照已超过保留时限", template)
+        self.assertIn("ranking.id === 'domestic-trending'", template)
+        self.assertIn("历史国际版快照已停用", template)
+
+    def test_rss_ui_is_fully_retired(self):
+        template = Path("src/template/site.html").read_text(encoding="utf-8")
+
+        for marker in ("RSS", "rss", "Rss"):
+            with self.subTest(marker=marker):
+                self.assertNotIn(marker, template)
 
     def test_history_report_supports_recent_date_selection_and_day_comparison(self):
         template = Path("src/template/site.html").read_text(encoding="utf-8")
@@ -142,6 +199,21 @@ class WorkflowContractTests(unittest.TestCase):
             with self.subTest(workflow=filename):
                 self.assertIn("continue-on-error: true", content)
                 self.assertIn("Enforce collection health", content)
+
+    def test_live_workflow_runs_every_fifteen_minutes_without_rebuilding_reports(self):
+        content = Path(".github/workflows/collect-live.yml").read_text(encoding="utf-8")
+
+        self.assertIn('cron: "*/15 * * * *"', content)
+        self.assertIn("collect.py\" live --surface live --skip-report", content)
+        self.assertIn("git -C runtime add archived/ site/data/latest.json", content)
+        self.assertNotIn("site/data/reports", content)
+
+    def test_collection_workflows_no_longer_configure_rss(self):
+        workflow_root = Path(".github/workflows")
+        for filename in ("collect-hourly.yml", "collect-special.yml", "collect-live.yml"):
+            content = (workflow_root / filename).read_text(encoding="utf-8")
+            with self.subTest(workflow=filename):
+                self.assertNotIn("HOTLIST_RSS", content)
 
     def test_hourly_workflow_can_manually_collect_maimai(self):
         content = Path(".github/workflows/collect-hourly.yml").read_text(encoding="utf-8")

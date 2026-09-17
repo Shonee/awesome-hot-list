@@ -23,9 +23,15 @@ class ChannelNetworkValidationTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "only 0 valid item"):
             require_items("demo", 0, minimum=5)
 
-    def test_bing_is_explicitly_skipped_without_non_rss_source(self):
-        self.assertIn("bing", SKIPPED_SOURCES)
-        self.assertIn("non-RSS", SKIPPED_SOURCES["bing"])
+    def test_bing_and_new_content_sources_have_network_probes(self):
+        self.assertNotIn("bing", SKIPPED_SOURCES)
+        self.assertFalse(PROBES["bing"].required)
+        for probe_id in ("sina-live", "cls-live", "wallstreetcn", "readhub", "cctv", "mfa"):
+            with self.subTest(probe_id=probe_id):
+                self.assertIn(probe_id, PROBES)
+
+    def test_rss_probe_is_retired(self):
+        self.assertNotIn("linuxdo", PROBES)
 
     def test_kuaishou_chain_is_required_but_diagnostic_sources_are_optional(self):
         self.assertTrue(PROBES["kuaishou"].required)

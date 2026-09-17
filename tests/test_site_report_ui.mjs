@@ -15,6 +15,64 @@ loadFunctions('splitRankSegments', 'renderSignals');
 loadFunctions('groupHits', 'openTopic');
 loadFunctions('openTopic', 'bindTopicButtons');
 loadFunctions('safeUrl', 'rankMovementValue');
+loadFunctions('snapshotTimeMs', 'applyLatest');
+loadFunctions('applyLatest', 'populateHistoryDates');
+
+test('stale snapshots expire against project timestamps after the configured window', () => {
+  const { snapshotIsExpired } = context;
+  const channel = { staleAfterHours: 24 };
+  const snapshot = { status: 'stale', fetchedAt: '2026-09-16 12:00:00' };
+  assert.equal(snapshotIsExpired(snapshot, channel, Date.parse('2026-09-17T11:59:59+08:00')), false);
+  assert.equal(snapshotIsExpired(snapshot, channel, Date.parse('2026-09-17T12:00:01+08:00')), true);
+  assert.equal(snapshotIsExpired({ ...snapshot, status: 'ok' }, channel, Date.parse('2026-09-18T12:00:00+08:00')), false);
+});
+
+test('applying an expired Bing snapshot removes its rankings from the rendered state', () => {
+  const elements = new Map();
+  context.document = {
+    getElementById(id) {
+      if (!elements.has(id)) elements.set(id, { hidden: false, textContent: '' });
+      return elements.get(id);
+    },
+  };
+  context.CHANNEL_RANKINGS = { bing: { 国内热点: [{ title: '旧热点' }] } };
+  context.CHANNEL_RANKING_URLS = { bing: {} };
+  context.CHANNEL_RANKING_PROVIDERS = { bing: {} };
+  context.CHANNEL_RANKING_SURFACES = { bing: {} };
+  context.CHANNELS = { bing: { name: '必应国内热点', sourceUrl: '', staleAfterHours: 24 } };
+  context.shortDateTime = value => String(value || '');
+  context.renderChannels = () => {};
+  context.renderSettings = () => {};
+
+  context.applyLatest({ generatedAt: '2026-09-17 13:00:00', channels: [{
+    channelId: 'bing',
+    channelName: '必应国内热点',
+    fetchedAt: '2026-09-15 12:00:00',
+    checkedAt: '2026-09-17 13:00:00',
+    status: 'stale',
+    rankings: [{ id: 'domestic-trending', name: '国内热点', items: [{ title: '旧热点' }] }],
+  }] });
+
+  assert.equal(context.CHANNELS.bing.status, 'unavailable');
+  assert.match(context.CHANNELS.bing.statusMessage, /超过保留时限/);
+  assert.equal(context.CHANNEL_RANKINGS.bing['暂无数据'].length, 0);
+});
+
+test('applying a legacy international Bing snapshot never exposes its ranking', () => {
+  context.applyLatest({ generatedAt: '2026-09-17 13:00:00', channels: [{
+    channelId: 'bing',
+    channelName: '必应热门新闻',
+    sourceUrl: 'https://www.bing.com/news?cc=us',
+    fetchedAt: '2026-09-17 12:00:00',
+    status: 'ok',
+    rankings: [{ id: 'trending-news', name: '美国新闻', items: [{ title: 'International item' }] }],
+  }] });
+
+  assert.equal(context.CHANNELS.bing.name, '必应国内热点');
+  assert.equal(context.CHANNELS.bing.status, 'unavailable');
+  assert.match(context.CHANNELS.bing.statusMessage, /国际版快照已停用/);
+  assert.equal(context.CHANNEL_RANKINGS.bing['暂无数据'].length, 0);
+});
 
 test('unranked samples use a dashed baseline and transitions without invented rank points', () => {
   const { rankPlotPaths } = context;

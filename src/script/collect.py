@@ -3,6 +3,7 @@
 
 import argparse
 from contextlib import contextmanager
+from dataclasses import replace
 import os
 import sys
 
@@ -68,6 +69,8 @@ def run(
     latest_path: str = DEFAULT_LATEST_PATH,
     due_only: bool = False,
     data_root: str = ".",
+    surface: str = "",
+    build_daily_report: bool = True,
 ):
     with _use_data_root(data_root):
         channel_ids = resolve_channels(channel_value)
@@ -76,17 +79,31 @@ def run(
             if not channel_ids:
                 print("[skip] no channels are due")
                 return []
-        snapshots = collect_channels(channel_ids)
+        snapshots = collect_channels(channel_ids, surface=surface)
+        if surface:
+            snapshots = [
+                replace(
+                    snapshot,
+                    rankings=[ranking for ranking in snapshot.rankings if ranking.surface == surface],
+                )
+                for snapshot in snapshots
+            ]
         if _write_enabled():
             for snapshot in snapshots:
                 write_channel_archive(snapshot)
-            merge_latest_snapshot(snapshots, latest_path, channel_order=CHANNEL_ORDER)
-            write_json(
-                build_report(current_date()),
-                os.path.join("site", "data", "reports", "today.json"),
-                indent=None,
-                atomic=True,
+            merge_latest_snapshot(
+                snapshots,
+                latest_path,
+                channel_order=CHANNEL_ORDER,
+                preserve_existing_rankings=bool(surface),
             )
+            if build_daily_report:
+                write_json(
+                    build_report(current_date()),
+                    os.path.join("site", "data", "reports", "today.json"),
+                    indent=None,
+                    atomic=True,
+                )
 
     for snapshot in snapshots:
         count = sum(len(ranking.items) for ranking in snapshot.rankings)
@@ -102,6 +119,17 @@ def build_parser() -> argparse.ArgumentParser:
         nargs="?",
         default="all",
         help="渠道 ID、逗号分隔的多个 ID，或 all",
+    )
+    parser.add_argument(
+        "--surface",
+        choices=("hotlist", "live", "digest", "authority"),
+        default="",
+        help="只归档并合并指定内容面；用于 15 分钟快讯局部刷新",
+    )
+    parser.add_argument(
+        "--skip-report",
+        action="store_true",
+        help="采集后不重建今日报告；非 hotlist 内容面应使用此选项",
     )
     parser.add_argument("--latest-path", default=DEFAULT_LATEST_PATH, help="统一最新快照 JSON 路径")
     parser.add_argument(
@@ -135,6 +163,8 @@ def main() -> int:
         args.latest_path,
         due_only=args.due,
         data_root=args.data_root,
+        surface=args.surface,
+        build_daily_report=not args.skip_report,
     )
     return _exit_code_for_snapshots(snapshots)
 

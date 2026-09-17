@@ -47,6 +47,7 @@ class Ranking:
     source_url: str = ""
     provider_name: str = ""
     provider_url: str = ""
+    surface: str = "hotlist"
 
     def __post_init__(self):
         self.ranking_id = str(self.ranking_id or "").strip()
@@ -54,8 +55,11 @@ class Ranking:
         self.source_url = str(self.source_url or "").strip()
         self.provider_name = str(self.provider_name or "").strip()
         self.provider_url = str(self.provider_url or "").strip()
+        self.surface = str(self.surface or "hotlist").strip().lower()
         if not self.ranking_id or not self.name:
             raise ValueError("ranking id and name must not be empty")
+        if self.surface not in {"hotlist", "live", "digest", "authority"}:
+            raise ValueError(f"unsupported ranking surface: {self.surface}")
 
     def to_dict(self) -> dict:
         return {
@@ -64,6 +68,7 @@ class Ranking:
             "sourceUrl": self.source_url,
             "providerName": self.provider_name,
             "providerUrl": self.provider_url,
+            "surface": self.surface,
             "items": [item.to_dict() for item in self.items],
         }
 
@@ -108,6 +113,7 @@ class ChannelSnapshot:
                         "source": self.channel_name,
                         "type": ranking.name,
                         "ranking_id": ranking.ranking_id,
+                        "surface": ranking.surface,
                         "published_at": item.published_at,
                         "datetime": self.fetched_at,
                     }

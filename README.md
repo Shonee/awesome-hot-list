@@ -20,9 +20,9 @@
 - 今日报告：基于当天已有 CSV 时间片生成去重热点、词云、归一化综合 Top 10、排名曲线，以及与昨日对比的新增、升温、降温、持续和掉榜热点。
 - 历史报告：可选择最近 7 个有数据的日期，并展示所选日期相对前一日的同类变化信号。
 
-网站默认打开最新热榜。主题、布局、桌面端单榜数量、渠道显隐和排序只保存在浏览器 `localStorage`，不会改动仓库配置；移动端固定展示每个榜单前 10 条并完整展开，避免卡片内部滚动与页面滚动冲突。
+网站默认打开最新热榜。主题、布局、桌面端单榜数量、渠道显隐和排序只保存在浏览器 `localStorage`，不会改动仓库配置；普通榜单在移动端固定展示前 10 条，7x24 快讯按时间倒序最多展示 100 条，均由页面自然滚动。
 
-综合 Top 10 同时考虑跨渠道覆盖、榜单内相对名次、持续在榜比例和最近一次出现位置，其中跨渠道覆盖权重最高。报告中的“采样完成度”按渠道配置频率计算当天应有采样数与实际唯一采集时间数；旧报告没有该字段时，页面会回退显示原有渠道覆盖率。
+综合 Top 10 同时考虑跨渠道覆盖、榜单内相对名次、持续在榜比例和最近一次出现位置，其中跨渠道覆盖权重最高。报告只处理普通热榜，不处理 7x24、Readhub、央视新闻和外交部内容。报告中的“采样完成度”按渠道配置频率计算当天应有采样数与实际唯一采集时间数；旧报告没有该字段时，页面会回退显示原有渠道覆盖率。
 
 ## 渠道
 
@@ -38,13 +38,13 @@
 | Hacker News | Top Stories | 是（2 小时） | 官方 Firebase API；最多读取前 25 个详情并展示 20 条 |
 | Hugging Face | Trending Models | 是（6 小时） | 官方模型 API；已通过 Actions 网络验证 |
 | Google Trends | 香港趋势 | 是（6 小时） | 官方 Trending Now 页面；中国大陆无对应地区榜，使用香港地区 |
-| 必应热门新闻 | Trending on Bing（美国新闻） | 是（3 小时） | 官方 Bing News 英文地区热门新闻，非中文搜索热词；来源页面可能受地区和反爬限制 |
+| 必应国内热点 | 国内热点 | 是（3 小时） | 只解析必应中文国内首页热点；失败时保留最近成功数据，超过 24 小时后页面隐藏 |
 | 掘金 | 热门文章 | 是 | 公开推荐接口 |
 | Lobsters | Hottest | 是 | 官方 JSON API |
 | 今日头条 | 热点榜 | 是 | 公开榜单接口 |
 | 腾讯新闻 | 热点榜 | 是 | 腾讯官方 JSON 接口优先，失败时使用今日热榜降级源 |
 | 网易新闻 | 热门新闻 | 是 | 官方移动端热闻接口 |
-| 新浪 | 新闻热榜、财经热榜 | 是 | 两个官方榜单接口聚合为一个渠道卡片 |
+| 新浪 | 新闻热榜、财经热榜、7x24 | 是 | 普通榜单每小时采集；7x24 每 15 分钟刷新并嵌入同一卡片 |
 | 澎湃新闻 | 热新闻 | 是 | 官方首页结构化接口 |
 | AcFun | 日榜、三日榜、周榜 | 是 | 公开榜单接口 |
 | 豆瓣 | 小组精选 | 是 | HTML 解析 |
@@ -56,16 +56,19 @@
 | 雪球 | 热门话题 | 是（6 小时） | 官方接口优先，失败时使用今日热榜降级源 |
 | V2EX | 热门主题 | 是（3 小时） | 公开接口；部分网络环境可能出现 TLS 访问限制 |
 | Stack Overflow | 热门问题 | 是 | Stack Exchange 公开 API |
-| 财联社 | 热门快讯 | 是 | 首页 SSR 数据，详情链接指向电报文章 |
+| 财联社 | 热门文章、电报 | 是 | 首页热门文章每小时采集；电报每 15 分钟刷新并嵌入同一卡片 |
+| 华尔街见闻 | 7x24 | 是（15 分钟） | 官方公开接口，按发布时间倒序展示 |
+| Readhub | 24 小时热榜、每日早报、AI 资讯 | 是 | 作为资讯卡片展示，不进入综合报告 |
+| 央视新闻 | 最新发布 | 是 | 央视网公开新闻页面，不进入综合报告 |
+| 外交部 | 例行记者会 | 是 | 外交部公开页面，不进入综合报告 |
 | 博客园 | 最新帖子、精华帖子、48 小时阅读排行 | 是 | 首页和精华页只读正文帖子，阅读榜读取公开侧栏接口；各榜单失败隔离 |
 | NodeSeek | 热门主题 | 是 | 公开页面 HTML，实际可用性以 Actions 采集结果为准 |
 | 吾爱破解 | 人气热门、精华采撷 | 是 | 精华榜为可选来源，遇到 JavaScript 验证时保留原有人气榜 |
 | 微信文章 | 24h 热文榜 | 是 | 微信无公开全网文章热榜，当前使用今日热榜，条目跳转公众号原文 |
 | 百度贴吧 | 最有料热点 | 是 | 贴吧首页右上角热点榜，使用公开热点话题 JSON |
 | 福利吧 | 最新文章 | 是 | 官方首页；正常采集但默认隐藏，不进入综合报告，可在显示设置中开启 |
-| RSS | 新闻/AI资讯 Feed | 是 | 默认 10 个公开源，包含 IT之家和 Linux.do 官方 RSS；每个源按时间取最多 5 条 |
 
-单渠道失败不会中断同批其他渠道。`site/data/latest.json` 会保留上一次成功快照并标记为 `stale`，避免页面因一次网络抖动清空。首屏独立读取最新快照，报告进入对应视图才下载；请求超时有明确提示，快照可手动重试。站点 JSON 使用紧凑编码，归档 CSV 格式不变。
+单渠道失败不会中断同批其他渠道。`site/data/latest.json` 会保留上一次成功快照并标记为 `stale`，避免页面因一次网络抖动清空；必应国内热点旧快照只保留 24 小时。首屏独立读取最新快照，报告进入对应视图才下载；普通请求使用浏览器缓存，手动重试才强制刷新。站点 JSON 使用紧凑编码，归档 CSV 增加 `surface` 字段以区分内容面。
 
 ## 轻量架构
 
@@ -98,7 +101,8 @@ GitHub Releases             超过 7 天的长期归档
     {
       "id": "popular",
       "name": "全站热门视频",
-      "items": [{"rank": 1, "title": "...", "url": "...", "hot": 123}]
+      "surface": "hotlist",
+      "items": [{"rank": 1, "title": "...", "url": "...", "hot": 123, "publishedAt": ""}]
     }
   ]
 }
@@ -116,6 +120,7 @@ git fetch origin
 git worktree add --track -b data-pages ../awesome-hot-list-data origin/data-pages
 python3 src/script/collect.py bilibili --data-root ../awesome-hot-list-data
 python3 src/script/collect.py bilibili,douyin --data-root ../awesome-hot-list-data
+python3 src/script/collect.py live --surface live --skip-report --data-root ../awesome-hot-list-data
 python3 src/script/collect.py all --data-root ../awesome-hot-list-data
 python3 src/script/render.py --data-root ../awesome-hot-list-data
 ```
@@ -127,7 +132,8 @@ python3 src/script/render.py --data-root ../awesome-hot-list-data
 ## 采集频率与归档
 
 - `collect-hourly.yml` 每小时运行一次，默认采集注册表中频率为 60 分钟的公开渠道。
-- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face、Google Trends 为 6 小时，Bing News、V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时，其余默认 1 小时；脉脉不进入默认调度。
+- `collect-live.yml` 每 15 分钟只请求新浪、财联社和华尔街见闻的 7x24 接口，局部合并卡片内快讯榜单，不重建综合报告。
+- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face、Google Trends 为 6 小时，必应国内热点、V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时；脉脉不进入默认调度。
 - 手动运行特殊渠道时可以选择 `force`，忽略间隔立即采集；新增渠道只需在 `registry.py` 设置频率，无需新增一个 Action。
 - `render-daily.yml` 每天生成前一天完整报告，同时更新今日报告。
 - `archive-weekly.yml` 每周一北京时间 02:00 将超过 7 个日历日的数据打包到 GitHub Release。`data-pages` 保留最近 7 天的 CSV，旧 CSV 和日期报告会进入 `hotlist-archive-through-YYYY-MM-DD` Release。
@@ -193,22 +199,13 @@ Cloudflare Pages 可以直接监听 `data-pages`，不需要额外构建或 Clou
 
 快手只在官方页面失败后请求今日热榜，只有前两级都失败才请求 DailyHot API。所有 DailyHot 请求同样共享进程级缓存和节流，默认最小间隔 5 秒，403/429 后停止本批次后续请求；可用 `HOTLIST_DAILYHOT_MIN_INTERVAL_SECONDS` 调大间隔。GitHub Actions 验证中快手官方与今日热榜均能返回有效数据，DailyHot 公共域名曾出现 DNS 不可达，因此它只作为最后一级备用源。
 
-RSS 默认包含 IT之家、少数派、爱范儿、量子位、InfoQ、极客公园、MIT Technology Review、AI News、阮一峰网络日志和 Linux.do 官方周榜。Hacker News 已迁移为官方 API 独立卡片，不再在 RSS 中重复展示。IT之家和 Linux.do 不再生成独立卡片，只在 RSS 卡片中展示。每个 Feed 按发布时间倒序取数据，默认最多 5 条，可用 `HOTLIST_RSS_LIMIT` 调整为 1-5 条。单个 Feed 失败不会阻断其他 Feed，RSS 卡片状态提示会列出本次失败的来源；全部失败时才将 RSS 渠道标记为采集失败。
-
-`HOTLIST_RSS_FEEDS` 支持逗号或换行分隔，也支持 `名称|URL`，设置后会覆盖默认源：
-
-```text
-HOTLIST_RSS_FEEDS=IT之家|https://www.ithome.com/rss/,https://example.com/feed.xml
-HOTLIST_RSS_LIMIT=5
-```
-
-页面端还可以在右上角设置中分别调整每个 RSS 源的展示条数、分源 Tabs 或聚合时间线，以及文章发布时间显示。页面设置只保存在浏览器 `localStorage`，不会修改采集配置。
+RSS 当前暂停：不注册渠道、不进入默认或手动采集选择、不参与报告，也不在页面显示。适配器源码与既有历史 CSV 暂时保留，便于未来重新评估时复用。
 
 脉脉不进入默认调度。确需恢复时，先配置 `MAIMAI_COOKIE` Secret，再手动运行 hourly 工作流并将 `channels` 指定为 `maimai`；页面卡片仍需在显示设置中手动开启。
 
 ## 未接入候选
 
-Bing 热搜暂未接入。Microsoft 的 Bing Search API 已退役，普通 Bing 搜索或新闻搜索结果不等同于有排名依据的热门趋势榜，本轮也未找到可独立验证的稳定非 RSS 第三方源。后续只有在出现可维护、可验证且来源语义明确的榜单时再接入，不以空卡片或搜索结果冒充热榜。
+腾讯新闻、雪球和东方财富的额外 7x24 来源仍待稳定公开接口验证；当前只保留它们已有的普通榜单。地方生活资讯暂不接入。
 
 ## 检查
 

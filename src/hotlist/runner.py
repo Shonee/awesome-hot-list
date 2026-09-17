@@ -9,12 +9,20 @@ from src.utils.file_utils import write_json
 from src.utils.time_utils import now_string, project_now
 
 from .models import ChannelSnapshot
-from .registry import CHANNEL_ORDER, CHANNELS, RETIRED_CHANNEL_IDS, ChannelDefinition
+from .registry import (
+    CHANNEL_ORDER,
+    CHANNELS,
+    RETIRED_CHANNEL_IDS,
+    RETIRED_RANKING_IDS,
+    ChannelDefinition,
+)
 
 def collect_channels(
     channel_ids: Iterable[str],
     definitions: Optional[Mapping[str, ChannelDefinition]] = None,
+    surface: str = "",
 ) -> List[ChannelSnapshot]:
+    use_registered_collectors = definitions is None
     definitions = definitions or CHANNELS
     snapshots = []
     for channel_id in channel_ids:
@@ -22,7 +30,12 @@ def collect_channels(
         try:
             if definition.collector is None:
                 raise RuntimeError("collector is not implemented")
-            snapshot = definition.collector()
+            if surface and use_registered_collectors:
+                from .channels import collect_channel
+
+                snapshot = collect_channel(channel_id, surface=surface)
+            else:
+                snapshot = definition.collector()
             if snapshot.channel_id != channel_id:
                 raise ValueError(
                     f"collector returned channel {snapshot.channel_id!r}, expected {channel_id!r}"
@@ -99,11 +112,23 @@ def merge_latest_snapshot(
     snapshots: Iterable[ChannelSnapshot],
     output_path: str,
     channel_order=CHANNEL_ORDER,
+    preserve_existing_rankings: bool = False,
 ) -> dict:
     merged = _load_latest(output_path)
     for channel_id in RETIRED_CHANNEL_IDS:
         merged.pop(channel_id, None)
+    for channel_id, ranking_ids in RETIRED_RANKING_IDS.items():
+        if channel_id not in merged:
+            continue
+        retired = set(ranking_ids)
+        merged[channel_id]["rankings"] = [
+            ranking
+            for ranking in merged[channel_id].get("rankings", [])
+            if ranking.get("id") not in retired
+        ]
     for snapshot in snapshots:
+        if snapshot.channel_id in RETIRED_CHANNEL_IDS:
+            continue
         incoming = snapshot.to_dict()
         previous = merged.get(snapshot.channel_id)
         if snapshot.status != "ok" and previous and previous.get("rankings"):
@@ -129,6 +154,13 @@ def merge_latest_snapshot(
                         ranking["items"] = prior["items"]
                         if ranking["name"] not in incoming["warnings"]:
                             incoming["warnings"].append(ranking["name"])
+                if preserve_existing_rankings:
+                    incoming_by_id = {ranking["id"]: ranking for ranking in incoming["rankings"]}
+                    combined = []
+                    for prior in previous.get("rankings", []):
+                        combined.append(incoming_by_id.pop(prior.get("id"), prior))
+                    combined.extend(incoming_by_id.values())
+                    incoming["rankings"] = combined
             merged[snapshot.channel_id] = incoming
 
     ordered_ids = [channel_id for channel_id in channel_order if channel_id in merged]

@@ -160,15 +160,28 @@ def add_day_comparison(report: dict, previous_report: dict) -> dict:
 def _merge_topic_groups(grouped: Mapping[str, List[tuple]]) -> Dict[str, List[tuple]]:
     """Greedily merge small headline rewrites without an external NLP service."""
     merged: Dict[str, List[tuple]] = {}
+    key_order = {}
+    bigram_index = defaultdict(set)
     for normalized, occurrences in sorted(
         grouped.items(), key=lambda item: (-len(item[1]), -len(item[0]))
     ):
+        candidates = set()
+        if len(normalized) >= 8:
+            for bigram in _title_bigrams(normalized):
+                candidates.update(bigram_index.get(bigram, ()))
         target = next(
-            (key for key in merged if _similar_title(key, normalized)),
+            (
+                key
+                for key in sorted(candidates, key=key_order.__getitem__)
+                if _similar_title(key, normalized)
+            ),
             None,
         )
         if target is None:
             merged[normalized] = list(occurrences)
+            key_order[normalized] = len(key_order)
+            for bigram in _title_bigrams(normalized):
+                bigram_index[bigram].add(normalized)
         else:
             merged[target].extend(occurrences)
     return merged
@@ -385,6 +398,8 @@ def build_report_from_rows(date: str, rows_by_channel: Mapping[str, List[dict]])
 
     for channel_id in included_channel_ids:
         for row in rows_by_channel.get(channel_id, []):
+            if str(row.get("surface") or "hotlist").strip().lower() != "hotlist":
+                continue
             title = str(row.get("title") or "").strip()
             normalized = _normalize_title(title)
             if not normalized:

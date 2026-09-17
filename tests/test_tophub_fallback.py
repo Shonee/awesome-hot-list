@@ -243,9 +243,9 @@ class FallbackRegistryTests(unittest.TestCase):
         self.assertEqual(definition.frequency_minutes, 60)
         self.assertIn("zhihu", HOURLY_CHANNELS)
 
-    def test_wechat_is_registered_before_rss(self):
+    def test_wechat_is_registered_and_rss_is_retired(self):
         self.assertIn("wechat", HOURLY_CHANNELS)
-        self.assertLess(CHANNEL_ORDER.index("wechat"), CHANNEL_ORDER.index("rss"))
+        self.assertNotIn("rss", CHANNEL_ORDER)
 
     def test_xueqiu_fallback_channel_is_scheduled(self):
         definition = get_channel("xueqiu")

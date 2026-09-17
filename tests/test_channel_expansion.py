@@ -45,15 +45,18 @@ class FirstBatchParserTests(unittest.TestCase):
         request.side_effect = [
             'var data = {"data":[{"title":"新闻","url":"https://news.sina.com.cn/1"}]};',
             'var data = {"data":[{"title":"财经","url":"https://finance.sina.com.cn/1"}]};',
+            {"result": {"data": {"feed": {"list": []}}}},
         ]
 
         result = sina.collect()
 
-        self.assertEqual([ranking.ranking_id for ranking in result.rankings], ["news", "finance"])
-        self.assertEqual([ranking.name for ranking in result.rankings], ["新闻热榜", "财经热榜"])
+        self.assertEqual([ranking.ranking_id for ranking in result.rankings], ["news", "finance", "live"])
+        self.assertEqual([ranking.name for ranking in result.rankings], ["新闻热榜", "财经热榜", "7x24"])
+        self.assertEqual(result.rankings[-1].surface, "live")
         self.assertTrue(all(ranking.provider_name == "新浪官方" for ranking in result.rankings))
         self.assertIn("top.news.sina.com.cn", request.call_args_list[0].args[0])
         self.assertIn("top.finance.sina.com.cn", request.call_args_list[1].args[0])
+        self.assertIn("app.cj.sina.com.cn", request.call_args_list[2].args[0])
 
     @patch("src.hotlist.channels.eastmoney.get")
     @patch("src.hotlist.channels.eastmoney.post")

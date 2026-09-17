@@ -11,12 +11,13 @@ ROOT = Path(__file__).resolve().parents[2]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from src.hotlist.channels import eastmoney, googletrends, hackernews, huggingface, kuaishou, rss
+from src.hotlist.channels import cls, eastmoney, googletrends, hackernews, huggingface, kuaishou, sina
 from src.hotlist.channels import collect_channel
 from src.hotlist.channels.dailyhot import fetch_payload as fetch_dailyhot
 from src.hotlist.channels.tophub import fetch_ranking as fetch_tophub_ranking
 from src.hotlist.models import ChannelSnapshot
 from src.utils.http_utils import get, post
+from src.utils.time_utils import project_now
 
 
 @dataclass(frozen=True)
@@ -26,12 +27,7 @@ class Probe:
     required: bool = True
 
 
-SKIPPED_SOURCES = {
-    "bing": (
-        "no stable non-RSS Bing trend source identified; the official Bing Search API "
-        "is retired and a normal search result page is not a popularity ranking"
-    ),
-}
+SKIPPED_SOURCES = {}
 
 
 def count_snapshot_items(snapshot: ChannelSnapshot) -> int:
@@ -105,16 +101,28 @@ def _eastmoney_quotes() -> int:
     return len(eastmoney._quote_map(quote_payload))
 
 
-def _linuxdo_rss() -> int:
-    url = "https://linux.do/top.rss?period=weekly"
-    _name, items = rss.parse_feed(get(url, timeout=20, retries=1), url)
-    return len(items)
+def _sina_live() -> int:
+    payload = get(sina.LIVE_API_URL, res_type="json", timeout=20, retries=1)
+    return len(sina.parse_live_payload(payload))
+
+
+def _cls_live() -> int:
+    query = urlencode({"rn": 200, "lastTime": int(project_now().timestamp()), "name": "telegraph"})
+    payload = get(f"{cls.LIVE_API_URL}?{query}", res_type="json", timeout=20, retries=1)
+    return len(cls.parse_live_payload(payload))
 
 
 PROBES = {
     "baidu": Probe(lambda: _collect("baidu")),
+    "bing": Probe(lambda: _collect("bing"), minimum=3, required=False),
     "netease": Probe(lambda: _collect("netease")),
     "sina": Probe(lambda: _collect("sina", require_every_ranking=True), minimum=10),
+    "sina-live": Probe(_sina_live),
+    "cls-live": Probe(_cls_live),
+    "wallstreetcn": Probe(lambda: _collect("wallstreetcn", require_every_ranking=True)),
+    "readhub": Probe(lambda: _collect("readhub", require_every_ranking=True)),
+    "cctv": Probe(lambda: _collect("cctv", require_every_ranking=True)),
+    "mfa": Probe(lambda: _collect("mfa", require_every_ranking=True)),
     "eastmoney": Probe(lambda: _collect("eastmoney")),
     "eastmoney-quotes": Probe(_eastmoney_quotes, required=False),
     "hackernews": Probe(_hackernews_api),
@@ -126,7 +134,6 @@ PROBES = {
     "kuaishou-official": Probe(_kuaishou_official_page, required=False),
     "dailyhot-kuaishou": Probe(_kuaishou_dailyhot, required=False),
     "cnblogs": Probe(lambda: _collect("cnblogs")),
-    "linuxdo": Probe(_linuxdo_rss, required=False),
     "nodeseek": Probe(lambda: _collect("nodeseek")),
     "pojie52": Probe(lambda: _collect("pojie52")),
     "qqnews": Probe(lambda: _collect("qqnews")),

@@ -151,13 +151,13 @@ class MarkupParserTests(unittest.TestCase):
         <a href="/b/p/4">其他文章</a></div>'''
         self.assertEqual([item.title for item in parse_reading_rank(sidebar)], ["阅读文章"])
 
-    def test_bing_parser_only_reads_trending_on_bing_topic_links(self):
-        html = '''<div><a href="/news/topicview?q=ad">广告</a></div>
-        <div class="TrendingOnBing"><a href="/news/topicview?q=topic">Breaks record</a>
-        <a href="/news/topicview?q=topic">Breaks record</a></div>'''
+    def test_bing_parser_only_reads_domestic_homepage_topics(self):
+        html = '''<div><a href="/search?q=ad">广告</a></div>
+        <div id="tobPrompt"><a href="/search?q=topic"><span class="tob_title">国内热点新闻</span></a>
+        <a href="/search?q=topic"><span class="tob_title">国内热点新闻</span></a></div>'''
         items = parse_trending(html)
-        self.assertEqual([item.title for item in items], ["Breaks record"])
-        self.assertEqual(items[0].url, "https://www.bing.com/news/topicview?q=topic")
+        self.assertEqual([item.title for item in items], ["国内热点新闻"])
+        self.assertEqual(items[0].url, "https://www.bing.com/search?q=topic")
 
     def test_pojie_parser_reads_hot_threads(self):
         html = '<a class="xst" href="thread-123-1-1.html">吾爱热帖</a>'

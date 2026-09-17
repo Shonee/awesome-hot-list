@@ -3,7 +3,7 @@
 
 import argparse
 from contextlib import contextmanager
-from datetime import datetime
+from datetime import datetime, timedelta
 import glob
 import json
 import logging
@@ -21,7 +21,7 @@ if PROJECT_ROOT not in sys.path:
 from src.hotlist.models import ChannelSnapshot, Ranking, items_from_legacy
 from src.hotlist.registry import CHANNEL_ORDER, get_channel, iter_channels
 from src.hotlist.report import add_day_comparison as _add_day_comparison
-from src.hotlist.report import build_report, load_rows
+from src.hotlist.report import build_report_from_rows, load_rows
 from src.hotlist.runner import merge_latest_snapshot
 from src.utils.file_utils import current_date, read_csv, write_json, yesterday_date
 from src.utils.time_utils import now_string
@@ -42,6 +42,7 @@ def _channel_config() -> list[dict]:
             "enabledByDefault": channel.enabled_by_default,
             "visibleByDefault": getattr(channel, "visible_by_default", True),
             "includeInReport": getattr(channel, "include_in_report", True),
+            "staleAfterHours": getattr(channel, "stale_after_hours", None),
         }
         for channel in iter_channels()
     ]
@@ -82,6 +83,10 @@ def _available_report_dates(reports_dir: str, limit: int = 7) -> list[str]:
 def _timestamp(row: dict, fallback: str) -> str:
     """Return the collection timestamp, never an item's publication time."""
     return str(row.get("datetime") or row.get("now_time") or fallback).strip()
+
+
+def _previous_date(date: str) -> str:
+    return (datetime.strptime(date, "%Y-%m-%d") - timedelta(days=1)).strftime("%Y-%m-%d")
 
 
 def _latest_from_rows(date: str, rows_by_channel: dict) -> list:
@@ -163,11 +168,18 @@ def main(data_root: str = PROJECT_ROOT) -> None:
     with _use_data_root(data_root):
         today = current_date()
         previous = yesterday_date()
+        previous_baseline = _previous_date(previous)
         logger.info("生成正式站点：今日 %s，历史 %s", today, previous)
 
-        today_rows = load_rows(today)
-        today_report = build_report(today)
-        previous_report = build_report(previous)
+        report_dates = (today, previous, previous_baseline)
+        rows_by_date = {date: load_rows(date) for date in report_dates}
+        base_reports = {
+            date: build_report_from_rows(date, rows_by_date[date])
+            for date in report_dates
+        }
+        today_rows = rows_by_date[today]
+        today_report = _add_day_comparison(base_reports[today], base_reports[previous])
+        previous_report = _add_day_comparison(base_reports[previous], base_reports[previous_baseline])
         if not _write_enabled():
             logger.info("当前为调试模式（HOTLIST_WRITE=0），只分析不落盘")
             return
