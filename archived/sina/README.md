@@ -1,56 +1,10 @@
 # 新浪热榜
 
-> 更新时间：2026-09-18 05:20:12
-
-## 新闻热榜
-
-1. [美联储三年来首次加息震动全球：沃什鹰派首秀，特朗普怒喊利率降至1%](https://finance.sina.com.cn/money/forex/forexroll/2026-09-17/doc-inisatum3469915.shtml)
-2. [美国返还58件中国文物 包括百余年前遭劫掠菩萨像](https://news.sina.com.cn/c/2026-09-17/doc-inisefvv0351923.shtml)
-3. [以色列媒体：美方这种安排“不同寻常”](https://news.sina.com.cn/w/2026-09-18/doc-inisefvv0359548.shtml)
-4. [特朗普三天内受挫两次，都是“自己的人不听话”](https://news.sina.com.cn/w/2026-09-17/doc-iniscqye9190072.shtml)
-5. [美国联邦航空管理局批准波音公司请求，允许其额外销售最多35架777F货机。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0365554.shtml)
-6. [市场消息：美国联邦航空管理局将斥资8.75亿美元计划运用人工智能缓解空中交通困境。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvt3625150.shtml)
-7. [特朗普：伊朗战争正站在重大十字路口上。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0388528.shtml)
-8. [密密麻麻！33岁女子体内取出197枚，医生：从医以来第一次见](https://mil.news.sina.com.cn/2026-09-17/doc-inisefvt3575682.shtml)
-9. [美国卫生与公众服务部（HHS）：美国疾病控制与预防中心（CDC）尚未通过常规渠道收到正式的流行病援助申请。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0288951.shtml)
-10. [AMWAY将支付 2.25 亿美元，了结美国联邦贸易委员会的执法诉讼。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3509385.shtml)
-11. [特朗普：军事基地选址很快就会公布。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0273973.shtml)
-12. [英国航空航天系统公司（BAE Systems）：旗下BAE Systems OneArc获美国陆军授予其他交易协议合同，负责整合电子战通信训练（ECT）解决方案](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0379038.shtml)
-13. [麦当劳告知特许经营商，培训体系即将调整。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3554409.shtml)
-14. [法国9月18日电价稳定在119.74欧元/兆瓦时。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3537960.shtml)
-15. [环球时报社评：95年了，日本一些人仍活在军国主义迷梦中](https://news.sina.com.cn/w/2026-09-17/doc-inisefvt3559322.shtml)
-16. [特朗普：在伊朗战争中正接近重大十字路口](https://finance.sina.com.cn/world/2026-09-18/doc-inisefvt3624609.shtml)
-17. [冲着中印来的关税牌，特朗普打得出来吗？](https://news.sina.com.cn/w/2026-09-18/doc-inisefvt3559449.shtml)
-18. [事件预测平台kalshi的数据显示，美联储10月维持利率不变的概率为53%，而加息25个基点的概率为48%。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0291359.shtml)
-19. [俄罗斯总统普京：俄罗斯通胀处于可控状态。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0272862.shtml)
-20. [Anthropic：的Mythos 5.1、Opus 5以及Sonnet 5模型，均适用生命科学计划的标准使用授权条款。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0279552.shtml)
-
-## 财经热榜
-
-1. [30分钟，“天地板”后又“地天板”！603159，巨震！](https://finance.sina.com.cn/wm/2026-09-17/doc-iniscksh9281456.shtml)
-2. [9月17日美股成交额前20：英特尔涨超4% 计划与海力士合作在美国本土生产存储芯片](https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapnm4347847.shtml)
-3. [女子备孕两年未果，手术取出197枚肌瘤！医生：这几类人风险最高→](https://finance.sina.com.cn/wm/2026-09-17/doc-iniscksh9285566.shtml)
-4. [当AI开始批改作文，是喜还是忧？](https://finance.sina.com.cn/jjxw/2026-09-17/doc-inisatup0352634.shtml)
-5. [美联储点阵图：预测中值显示今年年内还将加息一次](https://finance.sina.com.cn/world/2026-09-17/doc-inisaawt3673715.shtml)
-6. [“黑天鹅”突袭！深夜，熔断了！美联储宣布加息，沃什发声！特朗普重磅表态！金银、美股大跳水，油价重挫](https://finance.sina.com.cn/money/future/fmnews/2026-09-17/doc-inisatup0239223.shtml)
-7. [美国联邦航空管理局批准波音公司请求，允许其额外销售最多35架777F货机。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0365554.shtml)
-8. [市场消息：美国联邦航空管理局将斥资8.75亿美元计划运用人工智能缓解空中交通困境。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvt3625150.shtml)
-9. [云顶新耀：维适平由境外转移至境内生产的药品上市注册申请获国家药监局受理](https://finance.sina.com.cn/7x24/2026-09-17/doc-inisatum3493780.shtml)
-10. [卡尼：加拿大与欧洲亦应探索创建一体化金融服务市场。](https://finance.sina.com.cn/7x24/2026-09-17/doc-iniscqxz3650148.shtml)
-11. [美联储时隔三年重启加息！A股会承压吗？最近三次历史行情给出答案](https://finance.sina.com.cn/roll/2026-09-17/doc-inisatuq9472340.shtml)
-12. [特朗普没能阻拦美联储加息，机构：沃什是FOMC最鹰派委员之一](https://finance.sina.com.cn/world/2026-09-17/doc-inisczpv3536492.shtml)
-13. [美联储加息搅动市场！美债在“最痛时刻”迎逆向买盘，金价反弹油价下跌](https://finance.sina.com.cn/roll/2026-09-17/doc-iniscksf0359374.shtml)
-14. [“嫦娥六号”月背月壤样品落户联合国 我国探月成果有多硬核→](https://finance.sina.com.cn/jjxw/2026-09-17/doc-inisapnr0330137.shtml)
-15. [全票通过，加息25个基点！美股跳水](https://finance.sina.com.cn/wm/2026-09-17/doc-inisapnp3582952.shtml)
-16. [国家统计局发布2026年8月份分年龄组失业率数据](https://finance.sina.com.cn/7x24/2026-09-17/doc-iniscqxz3650060.shtml)
-17. [浙江女子做早饭时发现罕见一幕，直呼“像中了彩票”，72岁的婆婆说一辈子没见过！有资料说“概率可能万分之一甚至更低”](https://finance.sina.com.cn/wm/2026-09-17/doc-iniscekk9326233.shtml)
-18. [据美国证券交易委员会（SEC）文件显示，CoreWeave可能会根据股票分销协议发售最多3500万股A类普通股。](https://finance.sina.com.cn/7x24/2026-09-17/doc-iniscvfz0359974.shtml)
-19. [抖音一次清退6888名“理财师” 互联网平台密集整治财经内容](https://finance.sina.com.cn/jjxw/2026-09-17/doc-inisaawv0451197.shtml)
-20. [宇树科技，市值重回2000亿元](https://finance.sina.com.cn/wm/2026-09-17/doc-iniscekf3584667.shtml)
+> 更新时间：2026-09-18 05:23:40
 
 ## 7x24
 
-1. [伊朗法尔斯通讯社：伊朗伊斯兰革命卫队海军称，一艘多哥籍油轮试图 “非法” 穿越霍尔木兹海峡，已遭其瞄准。](https://finance.sina.cn/7x24/2026-09-18/detail-inisesmr0263321.d.html)
+1. [伊朗法尔斯通讯社：伊朗伊斯兰革命卫队海军称，一艘多哥籍油轮试图 “非法” 穿越霍尔木兹海峡，已遭其打击。](https://finance.sina.cn/7x24/2026-09-18/detail-inisesmr0263321.d.html)
 2. [富时A50期指连续夜盘收涨0.36%，报14371点。](https://finance.sina.cn/7x24/2026-09-18/detail-inisesmp3489208.d.html)
 3. [美国联邦通信委员会批准派拉蒙与华纳兄弟并购交易中的外资相关事项。](https://finance.sina.cn/7x24/2026-09-18/detail-inisesmp3488427.d.html)
 4. [美国能源部：授权 PJM 调度备用发电资源。启用备用兜底方案，触发能源紧急警报前的最后手段。](https://finance.sina.cn/7x24/2026-09-18/detail-inisesmp3488137.d.html)
