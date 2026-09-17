@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-17 05:28:11
+> 更新时间：2026-09-17 11:35:20
 
 ## 每日趋势
 
@@ -88,17 +88,16 @@
 9. [netty](https://github.com/netty/netty)
 10. [quarkus](https://github.com/quarkusio/quarkus)
 11. [bazel](https://github.com/bazelbuild/bazel)
-12. [octo-android](https://github.com/Mininglamp-OSS/octo-android)
-13. [Apktool](https://github.com/iBotPeaches/Apktool)
-14. [doris](https://github.com/apache/doris)
-15. [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
-16. [Fermata](https://github.com/AndreyPavlenko/Fermata)
-17. [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
-18. [spring-boot](https://github.com/spring-projects/spring-boot)
-19. [JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-20. [keycloak](https://github.com/keycloak/keycloak)
-21. [agentscope-java](https://github.com/agentscope-ai/agentscope-java)
-22. [rocketmq](https://github.com/apache/rocketmq)
+12. [Apktool](https://github.com/iBotPeaches/Apktool)
+13. [doris](https://github.com/apache/doris)
+14. [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
+15. [Fermata](https://github.com/AndreyPavlenko/Fermata)
+16. [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+17. [spring-boot](https://github.com/spring-projects/spring-boot)
+18. [JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
+19. [keycloak](https://github.com/keycloak/keycloak)
+20. [agentscope-java](https://github.com/agentscope-ai/agentscope-java)
+21. [rocketmq](https://github.com/apache/rocketmq)
 
 ## Python
 
