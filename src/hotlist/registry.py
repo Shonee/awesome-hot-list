@@ -24,6 +24,7 @@ class ChannelDefinition:
     visible_by_default: bool = True
     include_in_report: bool = True
     stale_after_hours: Optional[int] = None
+    surfaces: Tuple[str, ...] = ("hotlist",)
 
 
 CHANNEL_ORDER = (
@@ -146,6 +147,26 @@ _METADATA = {
 _HIDDEN_BY_DEFAULT = {"maimai", "fuliba"}
 _EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "readhub", "cctv", "mfa", "wallstreetcn"}
 _STALE_AFTER_HOURS = {"bing": 24}
+_HOTLIST_SURFACE_CHANNELS = (
+    "weibo", "zhihu", "douyin", "kuaishou", "bilibili", "acfun", "toutiao",
+    "github", "juejin", "cnblogs", "pojie52", "googletrends", "bing", "baidu",
+    "wechat", "36kr", "thepaper", "qqnews", "netease", "sina", "cls", "xueqiu",
+    "eastmoney", "tonghuashun", "tieba", "douban", "hupu", "maimai", "huggingface",
+    "v2ex", "lobsters", "hackernews", "stackoverflow", "nodeseek", "fuliba",
+)
+CHANNEL_SURFACES = {channel_id: ("hotlist",) for channel_id in _HOTLIST_SURFACE_CHANNELS}
+CHANNEL_SURFACES.update({
+    "sina": ("hotlist", "live"),
+    "cls": ("hotlist", "live"),
+    "wallstreetcn": ("live",),
+    "readhub": ("digest",),
+    "cctv": ("authority",),
+    "mfa": ("authority",),
+})
+if set(CHANNEL_SURFACES) != set(CHANNEL_ORDER):
+    missing = sorted(set(CHANNEL_ORDER) - set(CHANNEL_SURFACES))
+    extra = sorted(set(CHANNEL_SURFACES) - set(CHANNEL_ORDER))
+    raise RuntimeError(f"channel surface registry mismatch: missing={missing}, extra={extra}")
 
 
 CHANNELS: Dict[str, ChannelDefinition] = {
@@ -163,6 +184,7 @@ CHANNELS: Dict[str, ChannelDefinition] = {
         visible_by_default=channel_id not in _HIDDEN_BY_DEFAULT,
         include_in_report=channel_id not in _EXCLUDED_FROM_REPORT,
         stale_after_hours=_STALE_AFTER_HOURS.get(channel_id),
+        surfaces=CHANNEL_SURFACES[channel_id],
     )
     for index, channel_id in enumerate(CHANNEL_ORDER, 1)
     for values in (_METADATA[channel_id],)

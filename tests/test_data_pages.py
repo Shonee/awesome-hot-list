@@ -19,19 +19,14 @@ class DataRootTests(unittest.TestCase):
         )
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            with (
-                patch("src.script.collect.collect_channels", return_value=[snapshot]),
-                patch("src.script.collect.build_report", return_value={"date": "2026-09-06"}),
-            ):
+            with patch("src.script.collect.collect_channels", return_value=[snapshot]):
                 run("douyin", data_root=str(root))
 
             self.assertTrue((root / "archived/douyin/2026/09/csv/2026-09-06.csv").is_file())
             self.assertTrue((root / "site/data/latest.json").is_file())
-            self.assertTrue((root / "site/data/reports/today.json").is_file())
-            self.assertEqual(
-                (root / "site/data/reports/today.json").read_text(encoding="utf-8"),
-                '{"date":"2026-09-06"}',
-            )
+            self.assertFalse((root / "site/data/reports/today.json").exists())
+            for name in ("live.json", "digest.json", "authority.json"):
+                self.assertTrue((root / "site/data" / name).is_file())
 
     def test_render_writes_site_to_the_selected_data_root(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -204,9 +199,24 @@ class WorkflowContractTests(unittest.TestCase):
         content = Path(".github/workflows/collect-live.yml").read_text(encoding="utf-8")
 
         self.assertIn('cron: "*/15 * * * *"', content)
-        self.assertIn("collect.py\" live --surface live --skip-report", content)
-        self.assertIn("git -C runtime add archived/ site/data/latest.json", content)
+        self.assertIn("collect.py\" live --surface live", content)
+        self.assertNotIn("--skip-report", content)
+        self.assertIn("git -C runtime add archived/ site/data/live.json", content)
         self.assertNotIn("site/data/reports", content)
+
+    def test_all_collection_workflows_leave_reports_to_the_render_job(self):
+        workflow_root = Path(".github/workflows")
+        for filename in ("collect-hourly.yml", "collect-special.yml", "collect-live.yml"):
+            content = (workflow_root / filename).read_text(encoding="utf-8")
+            with self.subTest(workflow=filename):
+                self.assertNotIn("site/data/reports", content)
+
+    def test_render_runs_hourly_and_pages_deploys_live_updates(self):
+        render = Path(".github/workflows/render-daily.yml").read_text(encoding="utf-8")
+        pages = Path(".github/workflows/pages.yml").read_text(encoding="utf-8")
+
+        self.assertIn('cron: "40 * * * *"', render)
+        self.assertIn("Collect live news", pages)
 
     def test_collection_workflows_no_longer_configure_rss(self):
         workflow_root = Path(".github/workflows")

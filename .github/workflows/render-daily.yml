@@ -2,8 +2,8 @@ name: Render Daily Dashboard
 
 on:
   schedule:
-    # Beijing 00:40 = previous day 16:40 UTC.
-    - cron: "40 16 * * *"
+    # Refresh reports once per hour, after the :07 and :23 collection windows.
+    - cron: "40 * * * *"
   push:
     branches: ["master"]
     paths:
@@ -54,11 +54,16 @@ jobs:
           python "$GITHUB_WORKSPACE/app/src/script/render.py"
           --data-root "$GITHUB_WORKSPACE/runtime"
 
+      - name: Enforce static data budgets
+        run: >-
+          python "$GITHUB_WORKSPACE/app/src/script/check_performance_budget.py"
+          --data-root "$GITHUB_WORKSPACE/runtime"
+
       - name: Commit dashboard to data-pages
         run: |
           git -C runtime config user.name "github-actions[bot]"
           git -C runtime config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git -C runtime add site/index.html site/data/latest.json site/data/reports/
+          git -C runtime add site/index.html site/data/latest.json site/data/live.json site/data/digest.json site/data/authority.json site/data/reports/
           if git -C runtime diff --cached --quiet; then
             echo "no dashboard change"
             exit 0

@@ -2,7 +2,9 @@
 
 import json
 import os
+from dataclasses import replace
 from datetime import datetime, timedelta
+from pathlib import Path
 from typing import Dict, Iterable, List, Mapping, Optional
 
 from src.utils.file_utils import write_json
@@ -16,6 +18,22 @@ from .registry import (
     RETIRED_RANKING_IDS,
     ChannelDefinition,
 )
+
+
+SURFACES = ("hotlist", "live", "digest", "authority")
+SURFACE_FILENAMES = {
+    "hotlist": "latest.json",
+    "live": "live.json",
+    "digest": "digest.json",
+    "authority": "authority.json",
+}
+
+
+def surface_data_path(latest_path, surface: str) -> Path:
+    """Return the sibling data file for a ranking surface."""
+    if surface not in SURFACE_FILENAMES:
+        raise ValueError(f"unsupported ranking surface: {surface}")
+    return Path(latest_path).with_name(SURFACE_FILENAMES[surface])
 
 def collect_channels(
     channel_ids: Iterable[str],
@@ -39,6 +57,11 @@ def collect_channels(
             if snapshot.channel_id != channel_id:
                 raise ValueError(
                     f"collector returned channel {snapshot.channel_id!r}, expected {channel_id!r}"
+                )
+            undeclared = sorted({ranking.surface for ranking in snapshot.rankings} - set(definition.surfaces))
+            if undeclared:
+                raise ValueError(
+                    f"collector returned undeclared ranking surface(s): {', '.join(undeclared)}"
                 )
             snapshots.append(snapshot)
         except Exception as exc:  # noqa: BLE001 - a single source must not abort the batch
@@ -71,6 +94,16 @@ def _load_latest(path: str) -> Dict[str, dict]:
     }
 
 
+def _load_all_surfaces(latest_path) -> Dict[str, dict]:
+    merged = {}
+    for surface in SURFACES:
+        for channel_id, item in _load_latest(os.fspath(surface_data_path(latest_path, surface))).items():
+            previous = merged.get(channel_id)
+            if previous is None or str(item.get("fetchedAt") or "") > str(previous.get("fetchedAt") or ""):
+                merged[channel_id] = item
+    return merged
+
+
 def due_channel_ids(
     channel_ids: Iterable[str],
     latest_path: str,
@@ -84,7 +117,7 @@ def due_channel_ids(
     postponing retries for another full interval.
     """
     definitions = definitions or CHANNELS
-    latest = _load_latest(latest_path)
+    latest = _load_all_surfaces(latest_path)
     now = now or project_now().replace(tzinfo=None)
     due = []
     for channel_id in channel_ids:
@@ -113,8 +146,22 @@ def merge_latest_snapshot(
     output_path: str,
     channel_order=CHANNEL_ORDER,
     preserve_existing_rankings: bool = False,
+    surface: str = "",
 ) -> dict:
     merged = _load_latest(output_path)
+    if surface:
+        for channel_id, item in list(merged.items()):
+            rankings = [
+                ranking
+                for ranking in item.get("rankings", [])
+                if str(ranking.get("surface") or "hotlist").strip().lower() == surface
+            ]
+            if not rankings:
+                merged.pop(channel_id, None)
+                continue
+            item = dict(item)
+            item["rankings"] = rankings
+            merged[channel_id] = item
     for channel_id in RETIRED_CHANNEL_IDS:
         merged.pop(channel_id, None)
     for channel_id, ranking_ids in RETIRED_RANKING_IDS.items():
@@ -130,6 +177,14 @@ def merge_latest_snapshot(
         if snapshot.channel_id in RETIRED_CHANNEL_IDS:
             continue
         incoming = snapshot.to_dict()
+        if surface:
+            incoming["rankings"] = [
+                ranking
+                for ranking in incoming["rankings"]
+                if ranking.get("surface", "hotlist") == surface
+            ]
+            if snapshot.status == "ok" and not incoming["rankings"]:
+                continue
         previous = merged.get(snapshot.channel_id)
         if snapshot.status != "ok" and previous and previous.get("rankings"):
             previous = dict(previous)
@@ -172,3 +227,100 @@ def merge_latest_snapshot(
     }
     write_json(payload, output_path, indent=None, atomic=True)
     return payload
+
+
+def _payload_for_channels(channels: Dict[str, dict], generated_at: str = "") -> dict:
+    ordered_ids = [channel_id for channel_id in CHANNEL_ORDER if channel_id in channels]
+    ordered_ids.extend(sorted(set(channels) - set(ordered_ids)))
+    return {
+        "schemaVersion": 1,
+        "generatedAt": generated_at or now_string(),
+        "channels": [channels[channel_id] for channel_id in ordered_ids],
+    }
+
+
+def migrate_surface_files(latest_path) -> None:
+    """Split rankings left in a legacy combined latest.json without losing newer files."""
+    latest_path = Path(latest_path)
+    legacy = _load_latest(os.fspath(latest_path))
+    if not legacy and not latest_path.is_file():
+        return
+    try:
+        with latest_path.open("r", encoding="utf-8") as file:
+            generated_at = str(json.load(file).get("generatedAt") or "")
+    except (OSError, json.JSONDecodeError, AttributeError):
+        generated_at = ""
+
+    for surface in SURFACES:
+        target_path = surface_data_path(latest_path, surface)
+        existing = _load_latest(os.fspath(target_path)) if target_path != latest_path else {}
+        changed = False
+        for channel_id, item in legacy.items():
+            rankings = [
+                ranking
+                for ranking in item.get("rankings", [])
+                if str(ranking.get("surface") or "hotlist").strip().lower() == surface
+            ]
+            if not rankings or channel_id in existing:
+                continue
+            migrated = dict(item)
+            migrated["rankings"] = rankings
+            existing[channel_id] = migrated
+            changed = True
+
+        if target_path == latest_path:
+            changed = changed or any(
+                str(ranking.get("surface") or "hotlist").strip().lower() != "hotlist"
+                for item in legacy.values()
+                for ranking in item.get("rankings", [])
+            )
+        if changed or not target_path.is_file():
+            write_json(
+                _payload_for_channels(existing, generated_at),
+                os.fspath(target_path),
+                indent=None,
+                atomic=True,
+            )
+
+
+def write_surface_snapshots(
+    snapshots: Iterable[ChannelSnapshot],
+    latest_path,
+    requested_surface: str = "",
+    channel_order=CHANNEL_ORDER,
+) -> Dict[str, dict]:
+    """Persist snapshots by surface while retaining channel-level failure isolation."""
+    snapshots = list(snapshots)
+    migrate_surface_files(latest_path)
+    outputs = {}
+    surfaces = (requested_surface,) if requested_surface else SURFACES
+    for surface in surfaces:
+        selected = []
+        for snapshot in snapshots:
+            definition = CHANNELS.get(snapshot.channel_id)
+            declared = definition.surfaces if definition else tuple(
+                dict.fromkeys(ranking.surface for ranking in snapshot.rankings)
+            )
+            rankings = [ranking for ranking in snapshot.rankings if ranking.surface == surface]
+            if rankings:
+                selected.append(replace(snapshot, rankings=rankings))
+            elif snapshot.status != "ok" and surface in declared:
+                selected.append(replace(snapshot, rankings=[]))
+        output_path = surface_data_path(latest_path, surface)
+        if not selected and output_path.is_file():
+            continue
+        allowed_order = tuple(
+            channel_id
+            for channel_id in channel_order
+            if channel_id not in CHANNELS or surface in CHANNELS[channel_id].surfaces
+        )
+        payload = merge_latest_snapshot(
+            selected,
+            os.fspath(output_path),
+            channel_order=allowed_order,
+            preserve_existing_rankings=bool(requested_surface),
+            surface=surface,
+        )
+        if selected:
+            outputs[surface] = payload
+    return outputs

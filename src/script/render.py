@@ -22,7 +22,7 @@ from src.hotlist.models import ChannelSnapshot, Ranking, items_from_legacy
 from src.hotlist.registry import CHANNEL_ORDER, get_channel, iter_channels
 from src.hotlist.report import add_day_comparison as _add_day_comparison
 from src.hotlist.report import build_report_from_rows, load_rows
-from src.hotlist.runner import merge_latest_snapshot
+from src.hotlist.runner import merge_latest_snapshot, migrate_surface_files
 from src.utils.file_utils import current_date, read_csv, write_json, yesterday_date
 from src.utils.time_utils import now_string
 
@@ -109,11 +109,13 @@ def _latest_from_rows(date: str, rows_by_channel: dict) -> list:
             latest_time = max(slices)
             latest_channel_time = max(latest_channel_time, latest_time)
             ranking_id = re.sub(r"[^0-9a-z]+", "-", name.lower()).strip("-")
+            surface = str(slices[latest_time][0].get("surface") or "hotlist").strip().lower()
             rankings.append(
                 Ranking(
                     ranking_id or f"ranking-{index}",
                     name,
                     items_from_legacy(slices[latest_time]),
+                    surface=surface,
                 )
             )
 
@@ -205,6 +207,7 @@ def main(data_root: str = PROJECT_ROOT) -> None:
 
         latest_path = os.path.join("site", "data", "latest.json")
         _ensure_latest_snapshot(today, today_rows, latest_path)
+        migrate_surface_files(latest_path)
 
         template_path = os.path.join(PROJECT_ROOT, "src", "template", "site.html")
         output_path = os.path.join("site", "index.html")

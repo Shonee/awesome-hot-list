@@ -23,6 +23,29 @@ class SiteLoadingTests(unittest.TestCase):
         self.assertIn("function groupHits(hits)", source)
         self.assertIn("similarTitle(title, previous)", source)
 
+    def test_noncritical_surfaces_load_after_hotlist(self):
+        source = SITE.read_text(encoding="utf-8")
+
+        self.assertIn("const SURFACE_DATA_FILES", source)
+        self.assertIn("'./data/live.json'", source)
+        self.assertIn("'./data/digest.json'", source)
+        self.assertIn("'./data/authority.json'", source)
+        self.assertIn("scheduleSupplementaryLoad", source)
+        self.assertIn("Promise.allSettled", source)
+        self.assertLess(source.index("await fetchJson('./data/latest.json'"), source.index("scheduleSupplementaryLoad"))
+
+    def test_channel_cards_use_dom_budget_and_progressive_mounting(self):
+        source = SITE.read_text(encoding="utf-8")
+
+        self.assertIn("const INITIAL_DOM_BUDGET = 1500;", source)
+        self.assertIn("new IntersectionObserver", source)
+        self.assertIn("requestIdleCallback", source)
+        self.assertIn("data-lazy-channel", source)
+        self.assertIn("projectedNodeCount", source)
+        self.assertIn("respectBudget: true", source)
+        self.assertIn("releaseInitialDomBudget", source)
+        self.assertNotIn("keys.map(channelCard).join('')", source)
+
     @unittest.skipUnless(shutil.which("node"), "Node.js is unavailable")
     def test_report_ui_behavior(self):
         result = subprocess.run(

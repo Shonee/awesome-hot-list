@@ -17,6 +17,9 @@ data-pages
   -> archived/<channel>/README.md
   -> site/index.html
   -> site/data/latest.json
+  -> site/data/live.json
+  -> site/data/digest.json
+  -> site/data/authority.json
   -> site/data/reports/*.json
 
 GitHub Releases
@@ -35,14 +38,14 @@ master: channel adapter
   -> ChannelSnapshot
   -> collect.py --data-root runtime/
      -> data-pages:archived/
-     -> data-pages:site/data/latest.json
-     -> data-pages:site/data/reports/today.json
+     -> data-pages:site/data/{latest,live,digest,authority}.json
 
 data-pages:archived CSV
   -> report.py
   -> render.py --data-root runtime/
      -> data-pages:site/index.html
      -> data-pages:site/data/reports/
+     -> check_performance_budget.py
 
 data-pages:site/
   -> GitHub Pages Artifact
@@ -56,7 +59,8 @@ Actions 将 `master` 检出到 `app/`，将 `data-pages` 检出到 `runtime/`。
 - `collect-hourly.yml` 每小时采集默认渠道，只提交 `runtime/archived` 和 `runtime/site/data` 到 `data-pages`。
 - `collect-live.yml` 每 15 分钟只采集 `live` 内容面，局部合并新浪、财联社和华尔街见闻卡片，且不重建报告。
 - `collect-special.yml` 每小时触发，由 `runner.due_channel_ids()` 根据上次成功时间和渠道频率决定是否请求。显式失败且没有有效榜单的快照会立即重试，不会被失败时的 `fetchedAt` 阻塞整个低频周期。
-- `render-daily.yml` 每天生成昨日完整报告；页面模板或报告代码在 `master` 更新时也会重新渲染。
+- 采集工作流只写归档和内容面快照，不调用报告构建。
+- `render-daily.yml` 每小时第 40 分钟生成今日与昨日报告；页面模板或报告代码在 `master` 更新时也会重新渲染。渲染后校验四个内容面文件不串面，并限制 `latest.json` gzip 体积不超过 300 KiB。
 - 所有数据写入工作流共用 `hotlist-repository-writer` 并发组，避免同时修改 `data-pages`。
 - `pages.yml` 在上述工作流成功后检出 `data-pages`，校验关键文件并上传 `site/` Artifact。
 
@@ -86,13 +90,13 @@ Release tag 不指向 `data-pages`，否则 tag 会继续保留已经压缩掉�
 1. 安装与正式采集相同的 Python 依赖。
 2. 从 `master` 的页面模板和渠道注册表渲染空站点。
 3. 创建没有父提交的 `data-pages`，写入 `site/` 和 `archived/.gitkeep`。
-4. 从远端读取新分支并检查页面、最新快照和今日报告。
+4. 从远端读取新分支并检查页面、四个内容面快照和今日报告。
 
 如果 `data-pages` 已存在，工作流只执行验证。它不修改 `master`，也不要求源码分支携带任何历史运行数据。
 
 ## 页面部署
 
-GitHub Pages 继续采用 Actions Artifact，不把 Pages 设置切换为传统分支发布。`pages.yml` 始终上传 `data-pages/site`，并在上传前校验 `index.html`、`latest.json` 和 `today.json`。
+GitHub Pages 继续采用 Actions Artifact，不把 Pages 设置切换为传统分支发布。`pages.yml` 始终上传 `data-pages/site`，并在上传前校验 `index.html`、四个内容面 JSON 和 `today.json`。
 
 Cloudflare Pages 是可选的并行部署目标。它直接监听 `data-pages`，生产目录为 `site`，无需构建命令和运行时环境变量。应关闭其他分支的自动 Preview，避免源码分支因没有 `site/` 产生无意义构建。
 
@@ -107,10 +111,13 @@ Cloudflare Pages 是可选的并行部署目标。它直接监听 `data-pages`�
 - Hacker News 使用官方 Firebase API 成为独立卡片，并限制详情请求数。
 - `check-channel-network.yml` 对响应执行解析和最小有效条数校验。必应只探测中文国内首页热点且作为可选探测；新浪/财联社快讯、华尔街见闻、Readhub、央视和外交部均有独立结构探测。
 - runner 统一处理渠道选择、异常隔离和最新快照合并。
+- registry 声明渠道允许的 `surface`，runner 拒绝适配器返回未声明的内容面；旧合并快照在首次读取时自动拆分。
 - report 只读取数据根目录中的 `hotlist` CSV 行，不访问网络。综合热度以跨渠道覆盖为主要权重，并结合榜单百分位、持续度和新鲜度；`samplingCoverage` 按渠道频率衡量当天采样完成度，保留旧 `coverage` 字段用于向后兼容。
 - collect 和 render 接受显式 `--data-root`，不依赖源码与数据位于同一 Git 分支。
 - archive 只负责确定性资产、校验和受限清理，Release 协议留在工作流中。
 - 页面只读取同目录静态 JSON，不包含渠道请求逻辑和凭证。
+- 页面先读取 `latest.json`，再在空闲时并行读取其他内容面；卡片首批挂载按实际节点数受 1500 DOM 预算约束，滚动后由 `IntersectionObserver` 继续挂载。
+- `config/channels/` 保存不参与运行的可导出渠道目录：不可变基线、当前全量快照和可回放增量变更；CI 检查它与注册表及适配器一致。
 
 ## 失败语义
 

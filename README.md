@@ -68,19 +68,23 @@
 | 百度贴吧 | 最有料热点 | 是 | 贴吧首页右上角热点榜，使用公开热点话题 JSON |
 | 福利吧 | 最新文章 | 是 | 官方首页；正常采集但默认隐藏，不进入综合报告，可在显示设置中开启 |
 
-单渠道失败不会中断同批其他渠道。`site/data/latest.json` 会保留上一次成功快照并标记为 `stale`，避免页面因一次网络抖动清空；必应国内热点旧快照只保留 24 小时。首屏独立读取最新快照，报告进入对应视图才下载；普通请求使用浏览器缓存，手动重试才强制刷新。站点 JSON 使用紧凑编码，归档 CSV 增加 `surface` 字段以区分内容面。
+单渠道失败不会中断同批其他渠道。内容面分别保存在 `site/data/latest.json`、`live.json`、`digest.json` 和 `authority.json`，各自保留上一次成功快照并标记为 `stale`；旧版合并快照会自动迁移。必应国内热点旧快照只保留 24 小时。
+
+首屏只请求普通热榜，其他内容面在浏览器空闲时并行补齐；卡片按实际 DOM 节点数控制首批挂载，首屏预算为 1500，其余卡片由 `IntersectionObserver` 在接近视口时替换稳定高度的占位卡。报告只在进入对应视图时下载；普通请求使用浏览器缓存，手动重试才强制刷新。站点 JSON 使用紧凑编码，归档 CSV 增加 `surface` 字段以区分内容面。
 
 ## 轻量架构
 
 ```text
 src/hotlist/models.py       统一 HotItem / Ranking / ChannelSnapshot
 src/hotlist/registry.py     渠道顺序、元数据和惰性注册
+src/hotlist/catalog.py      可导出渠道目录和增量变更逻辑
 src/hotlist/channels/       渠道适配器和少量复用数据源 Provider
-src/hotlist/runner.py       失败隔离、latest.json 合并
+src/hotlist/runner.py       失败隔离、内容面分流和快照合并
 src/hotlist/report.py       基于 CSV 的当天/日终报告
 src/script/collect.py       统一采集 CLI
 src/script/archive.py       七日滚动归档、校验和清理
 src/script/render.py        生成正式页面和日报 JSON
+config/channels/            渠道全量基线、当前快照、Schema 和增量变更
 src/template/site.html      正式页面模板
 data-pages:archived/        最近 7 天 CSV
 data-pages:site/            页面和静态 JSON
@@ -108,7 +112,7 @@ GitHub Releases             超过 7 天的长期归档
 }
 ```
 
-新增渠道时只需在 `src/hotlist/channels/` 增加一个与渠道 ID 同名、返回 `ChannelSnapshot` 的适配器，并在 `registry.py` 登记元数据；`36kr` 这类 ID 与 Python 模块名不一致时才需增加别名。适配器不写文件、不返回 JSON 字符串；持久化、页面配置和失败处理不需要复制。
+新增渠道时在 `src/hotlist/channels/` 增加一个返回 `ChannelSnapshot` 的适配器，在 `registry.py` 登记元数据和允许的内容面，再按 [渠道信息目录](docs/channel-catalog.md) 执行 `channel_catalog.py sync`，同步更新当前全量数据并追加增量记录。`36kr` 这类 ID 与 Python 模块名不一致时才需增加别名。适配器不写文件、不返回 JSON 字符串；持久化、页面配置和失败处理不需要复制。
 
 ## 本地运行
 
@@ -120,7 +124,7 @@ git fetch origin
 git worktree add --track -b data-pages ../awesome-hot-list-data origin/data-pages
 python3 src/script/collect.py bilibili --data-root ../awesome-hot-list-data
 python3 src/script/collect.py bilibili,douyin --data-root ../awesome-hot-list-data
-python3 src/script/collect.py live --surface live --skip-report --data-root ../awesome-hot-list-data
+python3 src/script/collect.py live --surface live --data-root ../awesome-hot-list-data
 python3 src/script/collect.py all --data-root ../awesome-hot-list-data
 python3 src/script/render.py --data-root ../awesome-hot-list-data
 ```
@@ -135,7 +139,8 @@ python3 src/script/render.py --data-root ../awesome-hot-list-data
 - `collect-live.yml` 每 15 分钟只请求新浪、财联社和华尔街见闻的 7x24 接口，局部合并卡片内快讯榜单，不重建综合报告。
 - `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face、Google Trends 为 6 小时，必应国内热点、V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时；脉脉不进入默认调度。
 - 手动运行特殊渠道时可以选择 `force`，忽略间隔立即采集；新增渠道只需在 `registry.py` 设置频率，无需新增一个 Action。
-- `render-daily.yml` 每天生成前一天完整报告，同时更新今日报告。
+- 所有采集任务只更新归档和内容面快照，不在采集进程中重建报告。
+- `render-daily.yml` 每小时第 40 分钟统一生成今日报告和前一天完整报告，并执行内容面与 gzip 体积预算检查。
 - `archive-weekly.yml` 每周一北京时间 02:00 将超过 7 个日历日的数据打包到 GitHub Release。`data-pages` 保留最近 7 天的 CSV，旧 CSV 和日期报告会进入 `hotlist-archive-through-YYYY-MM-DD` Release。
 - 首次迁移时可手动将 `include_legacy` 设为 true，一次性归档旧 JSON、Markdown、GIF、`data.json` 等非规范文件；渠道 README 和最近 7 天 CSV 会继续保留。
 - Release 包含压缩包、清单和 SHA256 校验文件，清单同时记录 `master` 代码提交和 `data-pages` 数据提交。只有远端资产上传并校验成功后，Action 才删除超期文件并把 `data-pages` 压缩为单个滚动快照提交；手动 dry-run 不创建 Release，也不更新分支。
@@ -160,7 +165,7 @@ python3 -m http.server 4311 --directory ../awesome-hot-list-data/site
 
 1. 在 GitHub 仓库进入 **Actions > Bootstrap data-pages > Run workflow**。
 2. 工作流从 `master` 的模板渲染一个空站点，创建无父提交的 `data-pages`，并写入 `site/` 与 `archived/.gitkeep`。
-3. 确认 `data-pages` 中存在 `site/index.html`、`site/data/latest.json` 和 `site/data/reports/today.json`。
+3. 确认 `data-pages` 中存在 `site/index.html`、四个内容面 JSON 和 `site/data/reports/today.json`。
 4. 手动运行一次 **Collect hourly hotlists** 生成首批数据，再确认 **Deploy Pages** 成功。
 
 工作流可以安全重跑：如果 `data-pages` 已存在，只执行远端关键文件验证。它不会修改 `master`，也不依赖源码分支中存在历史归档。
@@ -185,7 +190,7 @@ Cloudflare Pages 可以直接监听 `data-pages`，不需要额外构建或 Clou
 7. 不需要配置环境变量，因为采集在 GitHub Actions 中完成，Cloudflare 只发布静态文件。
 8. 选择 **Save and Deploy**。部署成功后访问 Cloudflare 分配的 `*.pages.dev` 地址。
 9. 在 **Settings > Builds & deployments > Branch control** 中保持 `data-pages` 的自动生产部署开启，并把 Preview branch deployments 设为 **None**，避免 `master` 因没有 `site/` 而产生无效预览构建。
-10. 分别检查 `/`、`/data/latest.json` 和 `/data/reports/today.json`，再等待下一次采集，确认 Production deployment 对应的提交已更新。
+10. 分别检查 `/`、`/data/latest.json`、`/data/live.json`、`/data/digest.json`、`/data/authority.json` 和 `/data/reports/today.json`，再等待下一次采集，确认 Production deployment 对应的提交已更新。
 
 需要自定义域名时，在 Pages 项目的 **Custom domains** 中添加域名并按 Cloudflare 提示完成 DNS 配置。Cloudflare 官方说明参见 [Git integration](https://developers.cloudflare.com/pages/get-started/git-integration/)、[Build configuration](https://developers.cloudflare.com/pages/configuration/build-configuration/) 和 [Branch deployment controls](https://developers.cloudflare.com/pages/configuration/branch-build-controls/)。
 

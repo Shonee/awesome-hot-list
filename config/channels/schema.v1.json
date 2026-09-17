@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Shonee/awesome-hot-list/config/channels/schema.v1.json",
+  "title": "Awesome Hot List Channel Catalog",
+  "type": "object",
+  "required": ["schemaVersion", "catalogVersion", "updatedAt", "updatePolicy", "channels"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "catalogVersion": { "type": "string", "minLength": 1 },
+    "updatedAt": { "type": "string", "format": "date" },
+    "updatePolicy": { "type": "object" },
+    "channels": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["channelId", "name", "order", "category", "surfaces", "homepage", "collector", "schedule", "defaults", "requirements"],
+        "properties": {
+          "channelId": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+          "name": { "type": "string", "minLength": 1 },
+          "shortName": { "type": "string", "minLength": 1 },
+          "order": { "type": "integer", "minimum": 1 },
+          "category": {
+            "type": "object",
+            "required": ["id", "label"],
+            "properties": { "id": { "type": "string" }, "label": { "type": "string" } }
+          },
+          "surfaces": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": { "enum": ["hotlist", "live", "digest", "authority"] }
+          },
+          "homepage": { "type": "string", "format": "uri" },
+          "collector": {
+            "type": "object",
+            "required": ["module", "entryPoints", "endpoints"],
+            "properties": {
+              "module": { "type": "string" },
+              "entryPoints": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+              "endpoints": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "object",
+                  "required": ["name", "kind", "url"],
+                  "properties": {
+                    "name": { "type": "string" },
+                    "kind": { "enum": ["page", "api"] },
+                    "url": { "type": "string", "format": "uri" }
+                  }
+                }
+              }
+            }
+          },
+          "schedule": {
+            "type": "object",
+            "required": ["frequencyMinutes"],
+            "properties": { "frequencyMinutes": { "type": "integer", "minimum": 1 } }
+          },
+          "defaults": {
+            "type": "object",
+            "required": ["enabled", "visible", "includeInReport"],
+            "properties": {
+              "enabled": { "type": "boolean" },
+              "visible": { "type": "boolean" },
+              "includeInReport": { "type": "boolean" }
+            }
+          },
+          "requirements": {
+            "type": "object",
+            "required": ["authentication", "environment", "notes"],
+            "properties": {
+              "authentication": { "enum": ["none", "environment"] },
+              "environment": { "type": "array", "items": { "type": "string" } },
+              "notes": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    }
+  }
+}

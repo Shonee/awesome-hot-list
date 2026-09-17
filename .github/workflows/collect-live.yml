@@ -46,7 +46,7 @@ jobs:
         id: collect
         continue-on-error: true
         run: >-
-          python "$GITHUB_WORKSPACE/app/src/script/collect.py" live --surface live --skip-report
+          python "$GITHUB_WORKSPACE/app/src/script/collect.py" live --surface live
           --data-root "$GITHUB_WORKSPACE/runtime"
 
       - name: Commit live snapshots to data-pages
@@ -54,7 +54,7 @@ jobs:
         run: |
           git -C runtime config user.name "github-actions[bot]"
           git -C runtime config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git -C runtime add archived/ site/data/latest.json
+          git -C runtime add archived/ site/data/live.json
           if git -C runtime diff --cached --quiet; then
             echo "no live data changed"
             exit 0

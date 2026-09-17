@@ -66,7 +66,7 @@ jobs:
         run: |
           git -C runtime config user.name "github-actions[bot]"
           git -C runtime config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git -C runtime add archived/ site/data/latest.json site/data/reports/today.json
+          git -C runtime add archived/ site/data/latest.json site/data/live.json site/data/digest.json site/data/authority.json
           if git -C runtime diff --cached --quiet; then
             echo "no channel data changed"
             exit 0

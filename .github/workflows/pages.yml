@@ -7,6 +7,7 @@ on:
       - Bootstrap data-pages
       - Collect hourly hotlists
       - Collect special hotlists
+      - Collect live news
       - Render Daily Dashboard
       - Archive weekly hot-list data
     types: [completed]
@@ -40,6 +41,9 @@ jobs:
         run: |
           test -s site/index.html
           test -s site/data/latest.json
+          test -s site/data/live.json
+          test -s site/data/digest.json
+          test -s site/data/authority.json
           test -s site/data/reports/today.json
 
       - name: Configure Pages

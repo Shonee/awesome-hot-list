@@ -3,7 +3,6 @@
 
 import argparse
 from contextlib import contextmanager
-from dataclasses import replace
 import os
 import sys
 
@@ -12,9 +11,8 @@ if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
 
 from src.hotlist.registry import CHANNEL_ORDER, resolve_channels
-from src.hotlist.report import build_report
-from src.hotlist.runner import collect_channels, due_channel_ids, merge_latest_snapshot
-from src.utils.file_utils import archive_path, channel_readme_path, current_date, write_csv, write_json, write_text
+from src.hotlist.runner import collect_channels, due_channel_ids, write_surface_snapshots
+from src.utils.file_utils import archive_path, channel_readme_path, current_date, write_csv, write_text
 from src.utils.utils import load_dotenv
 
 
@@ -70,7 +68,6 @@ def run(
     due_only: bool = False,
     data_root: str = ".",
     surface: str = "",
-    build_daily_report: bool = True,
 ):
     with _use_data_root(data_root):
         channel_ids = resolve_channels(channel_value)
@@ -80,30 +77,15 @@ def run(
                 print("[skip] no channels are due")
                 return []
         snapshots = collect_channels(channel_ids, surface=surface)
-        if surface:
-            snapshots = [
-                replace(
-                    snapshot,
-                    rankings=[ranking for ranking in snapshot.rankings if ranking.surface == surface],
-                )
-                for snapshot in snapshots
-            ]
         if _write_enabled():
             for snapshot in snapshots:
                 write_channel_archive(snapshot)
-            merge_latest_snapshot(
+            write_surface_snapshots(
                 snapshots,
                 latest_path,
+                requested_surface=surface,
                 channel_order=CHANNEL_ORDER,
-                preserve_existing_rankings=bool(surface),
             )
-            if build_daily_report:
-                write_json(
-                    build_report(current_date()),
-                    os.path.join("site", "data", "reports", "today.json"),
-                    indent=None,
-                    atomic=True,
-                )
 
     for snapshot in snapshots:
         count = sum(len(ranking.items) for ranking in snapshot.rankings)
@@ -126,12 +108,7 @@ def build_parser() -> argparse.ArgumentParser:
         default="",
         help="只归档并合并指定内容面；用于 15 分钟快讯局部刷新",
     )
-    parser.add_argument(
-        "--skip-report",
-        action="store_true",
-        help="采集后不重建今日报告；非 hotlist 内容面应使用此选项",
-    )
-    parser.add_argument("--latest-path", default=DEFAULT_LATEST_PATH, help="统一最新快照 JSON 路径")
+    parser.add_argument("--latest-path", default=DEFAULT_LATEST_PATH, help="热榜快照 JSON 路径；其他内容面使用同目录独立文件")
     parser.add_argument(
         "--data-root",
         default=os.environ.get("HOTLIST_DATA_ROOT", "."),
@@ -164,7 +141,6 @@ def main() -> int:
         due_only=args.due,
         data_root=args.data_root,
         surface=args.surface,
-        build_daily_report=not args.skip_report,
     )
     return _exit_code_for_snapshots(snapshots)
 

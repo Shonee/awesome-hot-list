@@ -40,6 +40,7 @@ test('applying an expired Bing snapshot removes its rankings from the rendered s
   context.CHANNEL_RANKING_PROVIDERS = { bing: {} };
   context.CHANNEL_RANKING_SURFACES = { bing: {} };
   context.CHANNELS = { bing: { name: '必应国内热点', sourceUrl: '', staleAfterHours: 24 } };
+  context.latestGeneratedAt = '';
   context.shortDateTime = value => String(value || '');
   context.renderChannels = () => {};
   context.renderSettings = () => {};
