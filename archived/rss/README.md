@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-17 07:19:20
+> 更新时间：2026-09-17 08:56:18
 
 ## IT之家
 
-1. [64 位门槛落地：苹果 watchOS 27 开始筛选不兼容第三方应用](https://www.ithome.com/1/003/350.htm)
-2. [全国日均 Token 词元调用量较两年前实现千倍级增长](https://www.ithome.com/1/003/349.htm)
-3. [苹果 iOS 27.2 Beta 1 新特性：支持新旧 App 数据 / 设置“搬家”](https://www.ithome.com/1/003/347.htm)
-4. [苹果 visionOS 27.2 开发者预览版 Beta 发布，初步支持原生 Mac 窗口控件渲染](https://www.ithome.com/1/003/344.htm)
-5. [苹果 watchOS 27.2 开发者预览版 Beta 发布](https://www.ithome.com/1/003/345.htm)
+1. [三星 One UI 9 正式版推送：Galaxy S26 系列首批升级，Z Fold8 已预装](https://www.ithome.com/1/003/374.htm)
+2. [长假出行别忘买票，国庆假期首日火车票今日开售](https://www.ithome.com/1/003/373.htm)
+3. [号称千元扫地机器人到手竟是玩具，总台曝光“积分兑换”套路](https://www.ithome.com/1/003/372.htm)
+4. [我国批复 5 个城市群开展氢能综合应用试点，建成加氢站超 620 座居全球首位](https://www.ithome.com/1/003/370.htm)
+5. [6999 元，华为 WATCH Ultimate 2 非凡探索雪域白今日开售](https://www.ithome.com/1/003/369.htm)
 
 ## 少数派
 
@@ -44,11 +44,11 @@
 
 ## 极客公园
 
-1. [在飞书的上下文底座上，豆包开工了](http://www.geekpark.net/news/370460)
-2. [Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案](http://www.geekpark.net/news/370453)
-3. [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
-4. [当智能体开始替人花钱，如何证明「它是谁」？](http://www.geekpark.net/news/370440)
-5. [腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变](http://www.geekpark.net/news/370431)
+1. [马斯克再暗示合并特斯拉和 SpaceX；传 iPhone 18 Pro 系列卖爆；大疆 Pocket 4P「珠光白」3799 开售｜极客早知道](http://www.geekpark.net/news/370472)
+2. [在飞书的上下文底座上，豆包开工了](http://www.geekpark.net/news/370460)
+3. [Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案](http://www.geekpark.net/news/370453)
+4. [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
+5. [当智能体开始替人花钱，如何证明「它是谁」？](http://www.geekpark.net/news/370440)
 
 ## MIT Technology Review
 
@@ -57,14 +57,6 @@
 3. [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 4. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
 5. [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
-
-## AI News
-
-1. [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/)
-2. [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
-3. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
-4. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-5. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
 
 ## 阮一峰网络日志
 
