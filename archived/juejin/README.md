@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-18 06:19:32
+> 更新时间：2026-09-18 07:17:27
 
 ## 热门文章
 
@@ -27,9 +27,9 @@
 21. [AI 给了我 8 个优化方案，全都是对的，但没有一个有用](https://juejin.cn/post/7686327764182745114)
 22. [全网都在测鹈鹕，我用 DeepSeek-V4.1-Flash 跑了50+小时、超5000MTokens消耗的真实开发任务](https://juejin.cn/post/7685282635450744841)
 23. [iPhone Duo 带来的机遇与挑战 -- 肘子的 Swift 周报 #153](https://juejin.cn/post/7685220741705007167)
-24. [摸鱼神器：一边写代码，一边刷剧，从此没有一点摸鱼时间会被浪费！](https://juejin.cn/post/7685770509586284550)
-25. [我花3天抓了一个幽灵bug，凶手藏在第4层](https://juejin.cn/post/7685591822258864154)
-26. [一份 KDMS 评估报告，怎样排出迁移先后顺序](https://juejin.cn/post/7686361321610035246)
+24. [一份 KDMS 评估报告，怎样排出迁移先后顺序](https://juejin.cn/post/7686361321610035246)
+25. [摸鱼神器：一边写代码，一边刷剧，从此没有一点摸鱼时间会被浪费！](https://juejin.cn/post/7685770509586284550)
+26. [我花3天抓了一个幽灵bug，凶手藏在第4层](https://juejin.cn/post/7685591822258864154)
 27. [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790)
 28. [别再堆 AGENTS.md 了：前端团队的 Agent 上下文分层落地指南](https://juejin.cn/post/7685944661652602914)
 29. [【AI+Gpt-Image2.5】我偷偷把同事做成了虚拟角色，结果被发现了](https://juejin.cn/post/7685701789799022602)
@@ -42,15 +42,15 @@
 36. [从 0 到 1 速通 WorkBuddy](https://juejin.cn/post/7686090678486073395)
 37. [2026年，这5个JS新趋势正在悄悄改写前端](https://juejin.cn/post/7685684235953094697)
 38. [🦭 别再用 emoji 凑数：Naive Icons 让你 vibe coding 界面来点活人感](https://juejin.cn/post/7685346528044007464)
-39. [GPT-6 拿下模型众测第一：我拆完 30 个主题的实时榜单，「最强 AI」得看你问哪个场景](https://juejin.cn/post/7686011859111100454)
+39. [Mermaid 原生渲染：不用 WebView，用 Kotlin + Compose Multiplatform 完成 2048 组对拍](https://juejin.cn/post/7685332147725844490)
 40. [前端转型全栈 01：数据建模，前端最大的盲区](https://juejin.cn/post/7685963804388392970)
-41. [Javaer转Agent：学习资料篇](https://juejin.cn/post/7685765300814643200)
-42. [Mermaid 原生渲染：不用 WebView，用 Kotlin + Compose Multiplatform 完成 2048 组对拍](https://juejin.cn/post/7685332147725844490)
+41. [GPT-6 拿下模型众测第一：我拆完 30 个主题的实时榜单，「最强 AI」得看你问哪个场景](https://juejin.cn/post/7686011859111100454)
+42. [Javaer转Agent：学习资料篇](https://juejin.cn/post/7685765300814643200)
 43. [失败重试：Agent 中指数退避的正确姿势](https://juejin.cn/post/7685559824034758707)
-44. [网页端, 40mb离线模型, 自动抠图, 不用 Python，不用服务器，不用 API Key, 不用显卡](https://juejin.cn/post/7686043275371282466)
-45. [AI Coding 方法论分析：同一个需求 SpecKit 、 Superpowers、 MattpocockSkills 不同设计](https://juejin.cn/post/7685963804388573194)
-46. [Morya UI：别手搓了，搓也搓不过 Agent](https://juejin.cn/post/7685657703510343680)
-47. [受够微信偷偷更新，我做了一个 Windows 微信更新屏蔽工具](https://juejin.cn/post/7685317187398664238)
-48. [🔥别再死磕压缩了，Codex、NVIDIA、DeepSeek、Uber 给出 Agent 上下文管理的新答案](https://juejin.cn/post/7685282635450925065)
-49. [AI 编程 Agent 全景图：5 大终端 Agent 横评 + Skills / MCP 生态一次讲透](https://juejin.cn/post/7685267114438164518)
-50. [用 GPT6 + Hyper3D MCP 搓 3D 个人网站，太夯了！（附教程）](https://juejin.cn/post/7685944952623300659)
+44. [Morya UI：别手搓了，搓也搓不过 Agent](https://juejin.cn/post/7685657703510343680)
+45. [网页端, 40mb离线模型, 自动抠图, 不用 Python，不用服务器，不用 API Key, 不用显卡](https://juejin.cn/post/7686043275371282466)
+46. [AI Coding 方法论分析：同一个需求 SpecKit 、 Superpowers、 MattpocockSkills 不同设计](https://juejin.cn/post/7685963804388573194)
+47. [Android 工控终端实战：从秒级卡顿到毫秒响应，SQLite/LitePal 性能优化全记录](https://juejin.cn/post/7685559824035070003)
+48. [受够微信偷偷更新，我做了一个 Windows 微信更新屏蔽工具](https://juejin.cn/post/7685317187398664238)
+49. [🔥别再死磕压缩了，Codex、NVIDIA、DeepSeek、Uber 给出 Agent 上下文管理的新答案](https://juejin.cn/post/7685282635450925065)
+50. [AI 编程 Agent 全景图：5 大终端 Agent 横评 + Skills / MCP 生态一次讲透](https://juejin.cn/post/7685267114438164518)

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-18 06:19:47
+> 更新时间：2026-09-18 07:17:37
 
 ## 24 小时热榜
 
@@ -21,19 +21,19 @@
 15. [AI 影视走向产业化，多平台布局相关内容](https://readhub.cn/topic/8wUTFCGhZTn?tab=daily)
 16. [蚂蚁集团全员接入千问办公，打造大型企业办公标杆](https://readhub.cn/topic/8wUmWpZPPVm?tab=daily)
 17. [AI Agent 安全不能只靠 Prompt 了：上海 AI Lab 探索 Agent 安全进化新范式](https://readhub.cn/topic/8wUcYtQQPOm?tab=daily)
-18. [广州提议禁止公共交通内外放声音](https://readhub.cn/topic/8wTErWBEXQb?tab=daily)
-19. [华为发布业界首个 NPO 技术的昇腾 960 超节点](https://readhub.cn/topic/8wUVO7AYE0w?tab=daily)
-20. [华为发布新 AI 计算架构 让百万处理器成为一台计算机](https://readhub.cn/topic/8wUrXA58ho3?tab=daily)
-21. [匿名模型 Union Alpha 上线，首日处理 20 亿 Token](https://readhub.cn/topic/8wUW8KVVwtT?tab=daily)
-22. [豆包大模型 2.1 Pro 升级：降幻觉、提 Agent 及多模态能力](https://readhub.cn/topic/8wU7nZ7vy6H?tab=daily)
-23. [GLM 披露国内首个 RSI 工程实践](https://readhub.cn/topic/8wUnbsJZnR6?tab=daily)
-24. [徐罡团队以跨模态迁移破局 RNA 领域数据瓶颈](https://readhub.cn/topic/8wUR7Y8Fuif?tab=daily)
-25. [夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖](https://readhub.cn/topic/8wUkODwrbhr?tab=daily)
-26. [Anthropic 将合并 Claude 系列产品，推出统一办公入口](https://readhub.cn/topic/8wUC6cLFti1?tab=daily)
-27. [Polymarket 签勒布朗・詹姆斯代言，年薪超其 NBA 合同](https://readhub.cn/topic/8wUNWJkqgtu?tab=daily)
-28. [烽火通信实现单盘 110 公里空芯光纤连续拉制](https://readhub.cn/topic/8wUjKySt0p0?tab=daily)
-29. [小米、刘强东等入股上海五源识远私募基金](https://readhub.cn/topic/8wUnFYtDP3J?tab=daily)
-30. [红豆股份参股成立红芯智联科技公司](https://readhub.cn/topic/8wUcadfYXiS?tab=daily)
+18. [华为发布业界首个 NPO 技术的昇腾 960 超节点](https://readhub.cn/topic/8wUVO7AYE0w?tab=daily)
+19. [豆包大模型 2.1 Pro 升级：降幻觉、提 Agent 及多模态能力](https://readhub.cn/topic/8wU7nZ7vy6H?tab=daily)
+20. [消息称 OpenAI 接近攻克霍奇猜想](https://readhub.cn/topic/8wUuOpOdTzm?tab=daily)
+21. [广州提议禁止公共交通内外放声音](https://readhub.cn/topic/8wTErWBEXQb?tab=daily)
+22. [华为发布新 AI 计算架构 让百万处理器成为一台计算机](https://readhub.cn/topic/8wUrXA58ho3?tab=daily)
+23. [匿名模型 Union Alpha 上线，首日处理 20 亿 Token](https://readhub.cn/topic/8wUW8KVVwtT?tab=daily)
+24. [GLM 披露国内首个 RSI 工程实践](https://readhub.cn/topic/8wUnbsJZnR6?tab=daily)
+25. [徐罡团队以跨模态迁移破局 RNA 领域数据瓶颈](https://readhub.cn/topic/8wUR7Y8Fuif?tab=daily)
+26. [夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖](https://readhub.cn/topic/8wUkODwrbhr?tab=daily)
+27. [烽火通信实现单盘 110 公里空芯光纤连续拉制](https://readhub.cn/topic/8wUjKySt0p0?tab=daily)
+28. [Anthropic 将合并 Claude 系列产品，推出统一办公入口](https://readhub.cn/topic/8wUC6cLFti1?tab=daily)
+29. [何小鹏：小鹏今年开始电池都自己干](https://readhub.cn/topic/8wVHdIQSb07?tab=daily)
+30. [Polymarket 签勒布朗・詹姆斯代言，年薪超其 NBA 合同](https://readhub.cn/topic/8wUNWJkqgtu?tab=daily)
 
 ## 每日早报
 
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [Self-generated prompt injections in compaction summaries](https://simonwillison.net/2026/Sep/17/compaction-summaries/)
-2. [Anthropic 发布 AI 发展速度评估指标 追踪前沿实验室模型研发进程](https://www.gelonghui.com/live/2675674)
-3. [20 所全球顶尖高校联手打造「科学 IDE」，用科研经验训练 AI](https://www.mittrchina.com/news/detail/16967)
-4. [陈天昊：无尽的前沿 ——AI 智能体的技术进展、应用风险与治理展望](https://hub.baai.ac.cn/view/58052)
-5. [苹果 iPhone 18 Pro 系列今日开售：A20 Pro 芯片、国行 9999 元起](https://www.itbear.com.cn/html/2026-09/1565527.html)
-6. [Benchmark 进入真实世界，斯坦福 / 清华 / Anthropic/Meta/ 阿里等重新定义 AI 能力评测](https://hub.baai.ac.cn/view/58048)
-7. [研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%](https://www.aibase.com/zh/news/31135)
-8. [桥水：应对 AI 算力巨头进行监管](https://wallstreetcn.com/articles/3782026)
-9. [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
-10. [SpaceX 考虑从倒闭初创公司购买数据，为 Grok AI 模型扩充训练资源](https://wallstreetcn.com/articles/3782023)
+2. [新型安卓恶意木马 RatHat 现身：引入 AI 识别能力，可帮助黑客快速分析 / 操作受感染设备](https://www.ithome.com/1/003/876.htm)
+3. [Anthropic 发布 AI 发展速度评估指标 追踪前沿实验室模型研发进程](https://www.gelonghui.com/live/2675674)
+4. [20 所全球顶尖高校联手打造「科学 IDE」，用科研经验训练 AI](https://www.mittrchina.com/news/detail/16967)
+5. [AI 系统可让 3D 打印实现同步质检](https://www.gelonghui.com/live/2675748)
+6. [首个月球模型发布并开源](https://news.10jqka.com.cn/20260918/c680032717.shtml)
+7. [Lucid 押注自动驾驶「翻身」：联手 Bolt 瞄准欧洲 2.5 万辆 Robotaxi](https://www.gelonghui.com/live/2675737)
+8. [陈天昊：无尽的前沿 ——AI 智能体的技术进展、应用风险与治理展望](https://hub.baai.ac.cn/view/58052)
+9. [吴恩达批评 AI 灭绝论：堪比科幻小说，造势或意在影响监管](https://www.itbear.com.cn/html/2026-09/1565588.html)
+10. [苹果 iPhone 18 Pro 系列今日开售：A20 Pro 芯片、国行 9999 元起](https://www.itbear.com.cn/html/2026-09/1565527.html)

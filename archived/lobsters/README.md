@@ -1,24 +1,24 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-18 06:20:13
+> 更新时间：2026-09-18 07:17:54
 
 ## Hottest
 
 1. [I Don't Like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)
-2. [I expected better from Google](https://www.minitap.ai/blog/i-expected-better-from-google)
-3. [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
+2. [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
+3. [I expected better from Google](https://www.minitap.ai/blog/i-expected-better-from-google)
 4. [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
 5. [Be alert: targeted attacks on prominent Rustaceans](https://blog.rust-lang.org/2026/09/17/targeted-attacks/)
 6. [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/)
-7. [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
-8. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
-9. [Introducing GNOME 51](https://release.gnome.org/51/)
-10. [Your Donations at Work: One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+7. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
+8. [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
+9. [Your Donations at Work: One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+10. [Introducing GNOME 51](https://release.gnome.org/51/)
 11. [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)
-12. [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/)
-13. [A/I Shuts Down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
-14. [jemalloc 5.4.0 release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
-15. [Tilia—a new formatter for Haskell](https://markkarpov.com/post/announcing-tilia.html)
+12. [jemalloc 5.4.0 release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+13. [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/)
+14. [Tilia—a new formatter for Haskell](https://markkarpov.com/post/announcing-tilia.html)
+15. [A/I Shuts Down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
 16. [On learning programming in an age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
 17. [Why .tar.gz files can't be combined with cat](https://alexwlchan.net/2026/cat-confusion/)
 18. [XApp — Apps that work everywhere](https://xapp-project.org/)
