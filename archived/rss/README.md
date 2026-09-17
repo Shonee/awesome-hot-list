@@ -1,30 +1,30 @@
 # RSS热榜
 
-> 更新时间：2026-09-17 11:26:39
+> 更新时间：2026-09-17 12:27:21
 
 ## IT之家
 
-1. [OPPO ColorOS 17 发布：全新“流体设计”、新一代小布](https://www.ithome.com/1/003/439.htm)
-2. [小米米家空气净化器 6C 预售：千分位甲醛数显，999 元](https://www.ithome.com/1/003/438.htm)
-3. [OPPO ColorOS 17 设备互联升级：Car+ 车联支持步行导航接续，耳机支持 AI 对话翻译](https://www.ithome.com/1/003/436.htm)
-4. [OPPO 发布全天候主动式 AI 硬件“心力球”，今年晚些时候到来](https://www.ithome.com/1/003/435.htm)
-5. [OPPO 手表将同步升级 ColorOS 17：全新流体云和小布建议可无缝流转到手表](https://www.ithome.com/1/003/434.htm)
+1. [华为打造业界首个采用 NPO 技术的超节点，汪涛宣布 openEuler 成为中国服务器操作系统份额第一](https://www.ithome.com/1/003/505.htm)
+2. [谷歌推送安卓 17 QPR2 Beta 5 更新：修复通话后蓝牙音频失真等问题](https://www.ithome.com/1/003/470.htm)
+3. [朱江明回应零跑智驾何时追上特斯拉 FSD：没有可比性，中国车不能到美国，FSD 也没在中国落地](https://www.ithome.com/1/003/456.htm)
+4. [朱江明：零跑近期不会把人形机器人作为重点，将来真正能带来价值的还是非人形](https://www.ithome.com/1/003/451.htm)
+5. [一航班落地后客舱冒烟，湖南航空回应称旅客携带的充电宝出现明火](https://www.ithome.com/1/003/449.htm)
 
 ## 少数派
 
-1. [派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
-2. [探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
-3. [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
-4. [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
-5. [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
+1. [一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
+2. [派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
+3. [探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
+4. [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
+5. [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
 
 ## 爱范儿
 
-1. [比 MEGA Home 便宜 14 万！理想 i9 Home 上市定价 36.98 万元，六座旗舰变天了](https://www.ifanr.com/1680467?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [iPhone 18 Pro & Duo 首发评测，提升最大的是「充电」和这个…](https://www.ifanr.com/1680407?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [我和我的 AI 手机吃了 3 顿饭](https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [这顿饭，我是用腿付的钱](https://www.ifanr.com/1680599?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [比 MEGA Home 便宜 14 万！理想 i9 Home 上市定价 36.98 万元，六座旗舰变天了](https://www.ifanr.com/1680467?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [iPhone 18 Pro & Duo 首发评测，提升最大的是「充电」和这个…](https://www.ifanr.com/1680407?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服](https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」](https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 量子位
 
@@ -57,14 +57,6 @@
 3. [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 4. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
 5. [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
-
-## AI News
-
-1. [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/)
-2. [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
-3. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
-4. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
-5. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
 
 ## 阮一峰网络日志
 

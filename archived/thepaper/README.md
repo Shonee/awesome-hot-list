@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-17 11:26:14
+> 更新时间：2026-09-17 12:26:05
 
 ## 热新闻
 
@@ -18,9 +18,9 @@
 12. [见微知沪｜一座图书馆，如何“托住”普通人的拼搏和梦想](https://www.thepaper.cn/newsDetail_forward_34074470)
 13. [被罗永浩吐槽难吃后，野人先生发文：对广大顾客意见和建议用心聆听，努力做得更好](https://www.thepaper.cn/newsDetail_forward_34080590)
 14. [单项冠军县，何以扛打｜江苏丹阳何以撑起全球眼镜市场半壁江山](https://www.thepaper.cn/newsDetail_forward_34061880)
-15. [高手，在身边｜有传承不守旧，法式蝴蝶酥如何炼成“上海特产”](https://www.thepaper.cn/newsDetail_forward_34074473)
-16. [广州拟立法处罚噪声污染：乘地铁外放手机声音最高罚1000元](https://www.thepaper.cn/newsDetail_forward_34079636)
-17. [海归女硕士人才引进考试拔头筹因“专升本”被取消资格，用人单位：资格审查时错误理解条款](https://www.thepaper.cn/newsDetail_forward_34079916)
-18. [马上评｜警惕公共事件中那些“让人一眼愤怒”的谣言](https://www.thepaper.cn/newsDetail_forward_34087336)
-19. [日本高市内阁全体阁僚提交辞呈](https://www.thepaper.cn/newsDetail_forward_34087783)
-20. [马上评｜守护国家文物安全必须动真格、零容忍](https://www.thepaper.cn/newsDetail_forward_34082326)
+15. [日本高市内阁全体阁僚提交辞呈](https://www.thepaper.cn/newsDetail_forward_34087783)
+16. [高手，在身边｜有传承不守旧，法式蝴蝶酥如何炼成“上海特产”](https://www.thepaper.cn/newsDetail_forward_34074473)
+17. [马上评｜警惕公共事件中那些“让人一眼愤怒”的谣言](https://www.thepaper.cn/newsDetail_forward_34087336)
+18. [海归女硕士人才引进考试拔头筹因“专升本”被取消资格，用人单位：资格审查时错误理解条款](https://www.thepaper.cn/newsDetail_forward_34079916)
+19. [马上评｜守护国家文物安全必须动真格、零容忍](https://www.thepaper.cn/newsDetail_forward_34082326)
+20. [深观察｜割尾之忧：人工智能时代，人脑会退化吗？](https://www.thepaper.cn/newsDetail_forward_34081931)
