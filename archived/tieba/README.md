@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-18 00:25:01
+> 更新时间：2026-09-18 01:18:46
 
 ## 最有料热点
 
@@ -32,5 +32,4 @@
 26. [口嗨Shy哥,大黄彻底凉凉](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364385&topic_name=%E5%8F%A3%E5%97%A8Shy%E5%93%A5%2C%E5%A4%A7%E9%BB%84%E5%BD%BB%E5%BA%95%E5%87%89%E5%87%89)
 27. [扎心!吧友锐评体制内牢九门](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364352&topic_name=%E6%89%8E%E5%BF%83%21%E5%90%A7%E5%8F%8B%E9%94%90%E8%AF%84%E4%BD%93%E5%88%B6%E5%86%85%E7%89%A2%E4%B9%9D%E9%97%A8)
 28. [老外室内抽烟,安保主动递火](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364349&topic_name=%E8%80%81%E5%A4%96%E5%AE%A4%E5%86%85%E6%8A%BD%E7%83%9F%2C%E5%AE%89%E4%BF%9D%E4%B8%BB%E5%8A%A8%E9%80%92%E7%81%AB)
-29. [不粘锅打法!Bin得圣枪真传?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364424&topic_name=%E4%B8%8D%E7%B2%98%E9%94%85%E6%89%93%E6%B3%95%21Bin%E5%BE%97%E5%9C%A3%E6%9E%AA%E7%9C%9F%E4%BC%A0%3F)
 30. [青春时期最意难平的那个人](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364473&topic_name=%E9%9D%92%E6%98%A5%E6%97%B6%E6%9C%9F%E6%9C%80%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA)
