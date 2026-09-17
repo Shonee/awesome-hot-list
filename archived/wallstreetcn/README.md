@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-18 02:50:38
+> 更新时间：2026-09-18 03:08:22
 
 ## 7x24
 
@@ -87,7 +87,3 @@ LME期镍收涨123美元，报16290...](https://wallstreetcn.com/livenews/316692
 39. [秘鲁智库称2026年上半年非法黄金产量或首超合法产量，全年非法出口额恐达160亿美元](https://wallstreetcn.com/livenews/3166911)
 40. [美中央司令部称已改道104艘商船](https://wallstreetcn.com/livenews/3166909)
 41. [英国英国海上贸易行动办公室（UKMTO）：一艘西行油轮报告称，一艘小艇追踪并试图拦截该船。](https://wallstreetcn.com/livenews/3166908)
-42. [问界将撤出华为专卖店？赛力斯回应消息不实](https://wallstreetcn.com/livenews/3166907)
-43. [房地美：美国上周30年期按揭贷款/抵押贷款利率6.95%，连涨四周、创2025年1月底以来最高，前值6.76%。](https://wallstreetcn.com/livenews/3166906)
-44. [嘉能可停职负责Radiant World业务的高管](https://wallstreetcn.com/livenews/3166905)
-45. [美国司法部官员称，美方正权衡针对人工智能安全的反垄断指引。](https://wallstreetcn.com/livenews/3166904)
