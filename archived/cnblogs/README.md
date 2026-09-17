@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-17 15:26:47
+> 更新时间：2026-09-17 16:30:21
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [记一次 .NET 某珠宝公司内部管理系统 内存暴涨分析](https://www.cnblogs.com/huangxincheng/p/22983141)
-2. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
+1. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
+2. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
 3. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
-4. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
-5. [模型聪明了 10 倍，为什么你的 Agent 每天还在过《土拨鼠之日》？](https://www.cnblogs.com/swizard/p/22990047)
+4. [模型聪明了 10 倍，为什么你的 Agent 每天还在过《土拨鼠之日》？](https://www.cnblogs.com/swizard/p/22990047)
+5. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
 6. [DBA 经验:MySQL性能最重要的参数只有2个！](https://www.cnblogs.com/xiexj/p/22993301)
