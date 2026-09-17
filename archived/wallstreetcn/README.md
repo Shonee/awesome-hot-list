@@ -1,98 +1,102 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-17 21:25:46
+> 更新时间：2026-09-17 21:38:02
 
 ## 7x24
 
-1. [小鹏G9L起售价最低23.18万，Ultra旗舰版最低29.98万](https://wallstreetcn.com/livenews/3166843)
-2. [特斯拉机器人量产加速，启动新一轮中国供应链审厂](https://wallstreetcn.com/livenews/3166842)
-3. [茅台自营店限购：个人年5箱、企业年50箱](https://wallstreetcn.com/livenews/3166841)
-4. [迈威尔科技、微软、Utimaco将推出支付安全平台。（彭博）](https://wallstreetcn.com/livenews/3166840)
-5. [夜盘期货开盘，纯苯、原油跌超4%，苯乙烯跌近4%，燃料油、液化石油气、焦煤跌超3%，对二甲苯、合成橡胶跌超2%；沪银涨超2%，沪锡、沪锌、国际铜、沪金、沪铜涨超1%，沪镍、沪铅涨近1%。](https://wallstreetcn.com/livenews/3166839)
-6. [中国航发携11款产品亮相第四届CATA航空大会](https://wallstreetcn.com/livenews/3166838)
-7. [周四美股盘前你需要了解的全球要闻](https://wallstreetcn.com/livenews/3166837)
-8. [湖南裕能：第二大股东宁德时代6月26日至9月16日累计减持1745.97万股 持股比例降至5%以下](https://wallstreetcn.com/livenews/3166836)
-9. [美国上周首次申请失业救济人数降至19.6万人，创7月以来最低水平](https://wallstreetcn.com/livenews/3166835)
-10. [布伦特原油日内跌幅达4.0%，报101.59美元/桶。
+1. [纳指涨1.5%，费城半导体指数涨近3%，Generac涨约31%，Nebius涨约10%，存储芯片股、光通信股普涨](https://wallstreetcn.com/livenews/3166845)
+2. [标普500指数高开79.63点，涨幅1.05%，报7631.44点；
+
+道琼斯工业平均指数高开420.63点，涨幅0.82%，报51882.53点；
+
+纳斯达克综合指数高开399.44点，涨幅1.54%，报26377.86点。](https://wallstreetcn.com/livenews/3166844)
+3. [小鹏G9L起售价最低23.18万，Ultra旗舰版最低29.98万](https://wallstreetcn.com/livenews/3166843)
+4. [特斯拉机器人量产加速，启动新一轮中国供应链审厂](https://wallstreetcn.com/livenews/3166842)
+5. [茅台自营店限购：个人年5箱、企业年50箱](https://wallstreetcn.com/livenews/3166841)
+6. [迈威尔科技、微软、Utimaco将推出支付安全平台。（彭博）](https://wallstreetcn.com/livenews/3166840)
+7. [夜盘期货开盘，纯苯、原油跌超4%，苯乙烯跌近4%，燃料油、液化石油气、焦煤跌超3%，对二甲苯、合成橡胶跌超2%；沪银涨超2%，沪锡、沪锌、国际铜、沪金、沪铜涨超1%，沪镍、沪铅涨近1%。](https://wallstreetcn.com/livenews/3166839)
+8. [中国航发携11款产品亮相第四届CATA航空大会](https://wallstreetcn.com/livenews/3166838)
+9. [周四美股盘前你需要了解的全球要闻](https://wallstreetcn.com/livenews/3166837)
+10. [湖南裕能：第二大股东宁德时代6月26日至9月16日累计减持1745.97万股 持股比例降至5%以下](https://wallstreetcn.com/livenews/3166836)
+11. [美国上周首次申请失业救济人数降至19.6万人，创7月以来最低水平](https://wallstreetcn.com/livenews/3166835)
+12. [布伦特原油日内跌幅达4.0%，报101.59美元/桶。
 
 WTI原油跌近3%，报94.64美元/桶。](https://wallstreetcn.com/livenews/3166834)
-11. [英伟达美股盘前拉升，现涨超2%。](https://wallstreetcn.com/livenews/3166833)
-12. [英伟达CEO黄仁勋：英伟达明年芯片销量将是今年的两倍。
+13. [英伟达美股盘前拉升，现涨超2%。](https://wallstreetcn.com/livenews/3166833)
+14. [英伟达CEO黄仁勋：英伟达明年芯片销量将是今年的两倍。
 
 不安全产品必须被拦下。
 
 AI安全至关重要。](https://wallstreetcn.com/livenews/3166832)
-13. [加拿大7月海外投资者净买入证券 206.53亿加元，前值 408.3亿加元。](https://wallstreetcn.com/livenews/3166831)
-14. [加拿大8月工业品价格指数环比 1.3%，预期 0%，前值 0.6%。](https://wallstreetcn.com/livenews/3166830)
-15. [加拿大8月原材料价格指数环比 3.1%，预期 0.8%，前值 -2.2%。](https://wallstreetcn.com/livenews/3166829)
-16. [美国9月费城联储制造业指数 37.8，预期 32.5，前值 47.4。](https://wallstreetcn.com/livenews/3166828)
-17. [美国9月5日当周续请失业救济人数 173万人，预期 178万人，前值 177.4万人。](https://wallstreetcn.com/livenews/3166827)
-18. [美国9月12日当周首次申请失业救济人数 19.6万人，预期 20.7万人，前值 20.6万人。](https://wallstreetcn.com/livenews/3166826)
-19. [美国8月营建许可环比初值 -2.7%，预期 -1.4%，前值 4.3%。](https://wallstreetcn.com/livenews/3166825)
-20. [美国8月营建许可初值 139.4万户，预期 141万户，前值 143.3万户。](https://wallstreetcn.com/livenews/3166824)
-21. [美国8月新屋开工 127.5万户，预期 131.9万户，前值 123.9万户。](https://wallstreetcn.com/livenews/3166823)
-22. [美国8月新屋开工环比 -2.6%，预期 6.6%，前值 -12.4%。](https://wallstreetcn.com/livenews/3166822)
-23. [纳斯达克100指数期货涨幅扩大至1.5%。](https://wallstreetcn.com/livenews/3166821)
-24. [我国今年以来已批准上市创新药59个](https://wallstreetcn.com/livenews/3166819)
-25. [伊朗称击落第53架美军MQ9无人机](https://wallstreetcn.com/livenews/3166818)
-26. [高盛谨慎看待长期债券 波动性可能进一步加大](https://wallstreetcn.com/livenews/3166817)
-27. [现货白银日内涨幅达4.0%，报65.49美元/盎司。](https://wallstreetcn.com/livenews/3166816)
-28. [美元兑日元下跌0.6%至155.39。](https://wallstreetcn.com/livenews/3166815)
-29. [提醒：北京时间20:30，将公布美国9月12日当周首次申请失业救济人数、美国8月新屋开工、美国8月营建许可、美国9月费城联储制造业指数。](https://wallstreetcn.com/livenews/3166814)
-30. [美股三大股指期货均涨超1%。](https://wallstreetcn.com/livenews/3166813)
-31. [立讯精密：立讯转债2026年10月29日停止交易](https://wallstreetcn.com/livenews/3166812)
-32. [中国巨石：9月15日至17日振石集团减持2833万股公司股份](https://wallstreetcn.com/livenews/3166811)
-33. [西贝回应新品牌多家门店暂停营业：系单店规划调整](https://wallstreetcn.com/livenews/3166809)
-34. [国家发改委主任郑栅洁会见印尼国家经济委员会主席卢胡特](https://wallstreetcn.com/livenews/3166808)
-35. [波罗的海干散货指数涨0.27%，至3,336点。](https://wallstreetcn.com/livenews/3166807)
-36. [现货黄金日内涨幅达2.0%，报4351.65美元/盎司。
+15. [加拿大7月海外投资者净买入证券 206.53亿加元，前值 408.3亿加元。](https://wallstreetcn.com/livenews/3166831)
+16. [加拿大8月工业品价格指数环比 1.3%，预期 0%，前值 0.6%。](https://wallstreetcn.com/livenews/3166830)
+17. [加拿大8月原材料价格指数环比 3.1%，预期 0.8%，前值 -2.2%。](https://wallstreetcn.com/livenews/3166829)
+18. [美国9月费城联储制造业指数 37.8，预期 32.5，前值 47.4。](https://wallstreetcn.com/livenews/3166828)
+19. [美国9月5日当周续请失业救济人数 173万人，预期 178万人，前值 177.4万人。](https://wallstreetcn.com/livenews/3166827)
+20. [美国9月12日当周首次申请失业救济人数 19.6万人，预期 20.7万人，前值 20.6万人。](https://wallstreetcn.com/livenews/3166826)
+21. [美国8月营建许可环比初值 -2.7%，预期 -1.4%，前值 4.3%。](https://wallstreetcn.com/livenews/3166825)
+22. [美国8月营建许可初值 139.4万户，预期 141万户，前值 143.3万户。](https://wallstreetcn.com/livenews/3166824)
+23. [美国8月新屋开工 127.5万户，预期 131.9万户，前值 123.9万户。](https://wallstreetcn.com/livenews/3166823)
+24. [美国8月新屋开工环比 -2.6%，预期 6.6%，前值 -12.4%。](https://wallstreetcn.com/livenews/3166822)
+25. [纳斯达克100指数期货涨幅扩大至1.5%。](https://wallstreetcn.com/livenews/3166821)
+26. [我国今年以来已批准上市创新药59个](https://wallstreetcn.com/livenews/3166819)
+27. [伊朗称击落第53架美军MQ9无人机](https://wallstreetcn.com/livenews/3166818)
+28. [高盛谨慎看待长期债券 波动性可能进一步加大](https://wallstreetcn.com/livenews/3166817)
+29. [现货白银日内涨幅达4.0%，报65.49美元/盎司。](https://wallstreetcn.com/livenews/3166816)
+30. [美元兑日元下跌0.6%至155.39。](https://wallstreetcn.com/livenews/3166815)
+31. [提醒：北京时间20:30，将公布美国9月12日当周首次申请失业救济人数、美国8月新屋开工、美国8月营建许可、美国9月费城联储制造业指数。](https://wallstreetcn.com/livenews/3166814)
+32. [美股三大股指期货均涨超1%。](https://wallstreetcn.com/livenews/3166813)
+33. [立讯精密：立讯转债2026年10月29日停止交易](https://wallstreetcn.com/livenews/3166812)
+34. [中国巨石：9月15日至17日振石集团减持2833万股公司股份](https://wallstreetcn.com/livenews/3166811)
+35. [西贝回应新品牌多家门店暂停营业：系单店规划调整](https://wallstreetcn.com/livenews/3166809)
+36. [国家发改委主任郑栅洁会见印尼国家经济委员会主席卢胡特](https://wallstreetcn.com/livenews/3166808)
+37. [波罗的海干散货指数涨0.27%，至3,336点。](https://wallstreetcn.com/livenews/3166807)
+38. [现货黄金日内涨幅达2.0%，报4351.65美元/盎司。
 
 现货白银日内涨幅达2.5%，报64.65美元/盎司。
 
 布伦特原油日内跌幅达3.0%，报102.45美元/桶。
 
 WTI原油日内跌幅达2.0%，报95.54美元/桶。](https://wallstreetcn.com/livenews/3166806)
-37. [英国30年期国债收益率下跌10个基点，为5月以来最大跌幅，至5.76%。](https://wallstreetcn.com/livenews/3166805)
-38. [波音警告未来数月挑战重重 延误和产量提升缓慢构成压力](https://wallstreetcn.com/livenews/3166804)
-39. [瑞典首相宣布辞职](https://wallstreetcn.com/livenews/3166803)
-40. [纬景储能回应欠薪停工：正内部统筹处理](https://wallstreetcn.com/livenews/3166801)
-41. [郑商所：2026年中秋节、国庆节期间调整部分期货合约交易保证金标准和涨跌停板幅度](https://wallstreetcn.com/livenews/3166800)
-42. [英国央行9月利率决议要点汇总](https://wallstreetcn.com/livenews/3166799)
-43. [陈吉宁会见澳大利亚必和必拓集团首席执行官康柏德](https://wallstreetcn.com/livenews/3166798)
-44. [跨国公司投资合作座谈会在上海顺利举办](https://wallstreetcn.com/livenews/3166810)
-45. [米莱向阿根廷议会提交主权防卫法案。（彭博）](https://wallstreetcn.com/livenews/3166797)
-46. [布伦特原油日内跌幅达2.5%，报103.17美元/桶。](https://wallstreetcn.com/livenews/3166796)
-47. [沃尔核材：上海电子拟投8亿元建生产基地，已签订投资协议书](https://wallstreetcn.com/livenews/3166795)
-48. [英国央行维持核心政策指引不变，称其“随时准备采取行动”。](https://wallstreetcn.com/livenews/3166794)
-49. [英国央行上调通胀预期，预计2026年底达3.75%。
+39. [英国30年期国债收益率下跌10个基点，为5月以来最大跌幅，至5.76%。](https://wallstreetcn.com/livenews/3166805)
+40. [波音警告未来数月挑战重重 延误和产量提升缓慢构成压力](https://wallstreetcn.com/livenews/3166804)
+41. [瑞典首相宣布辞职](https://wallstreetcn.com/livenews/3166803)
+42. [纬景储能回应欠薪停工：正内部统筹处理](https://wallstreetcn.com/livenews/3166801)
+43. [郑商所：2026年中秋节、国庆节期间调整部分期货合约交易保证金标准和涨跌停板幅度](https://wallstreetcn.com/livenews/3166800)
+44. [英国央行9月利率决议要点汇总](https://wallstreetcn.com/livenews/3166799)
+45. [陈吉宁会见澳大利亚必和必拓集团首席执行官康柏德](https://wallstreetcn.com/livenews/3166798)
+46. [跨国公司投资合作座谈会在上海顺利举办](https://wallstreetcn.com/livenews/3166810)
+47. [米莱向阿根廷议会提交主权防卫法案。（彭博）](https://wallstreetcn.com/livenews/3166797)
+48. [布伦特原油日内跌幅达2.5%，报103.17美元/桶。](https://wallstreetcn.com/livenews/3166796)
+49. [沃尔核材：上海电子拟投8亿元建生产基地，已签订投资协议书](https://wallstreetcn.com/livenews/3166795)
+50. [英国央行维持核心政策指引不变，称其“随时准备采取行动”。](https://wallstreetcn.com/livenews/3166794)
+51. [英国央行上调通胀预期，预计2026年底达3.75%。
 
 英国央行预计2027年第一季度英国通胀率将略高于4%。
 
 英国央行预计第三季度GDP增长0.4%，此前预测为0.1%。](https://wallstreetcn.com/livenews/3166793)
-50. [英国央行放弃出售长期英国国债的计划](https://wallstreetcn.com/livenews/3166792)
-51. [英国央行：通胀上行风险大于7月。
+52. [英国央行放弃出售长期英国国债的计划](https://wallstreetcn.com/livenews/3166792)
+53. [英国央行：通胀上行风险大于7月。
 
 对CPI的间接影响可能被推迟，而非减弱。
 
 鉴于第二轮效应的显现存在滞后性，等待此类效应的证据出现后再采取政策应对的做法并不妥当。
 
 能源价格的走势与“不利”情景相似，该情景可能导致通胀根深蒂固。](https://wallstreetcn.com/livenews/3166791)
-52. [英国央行行长贝利：如果冲突持续，政策可能不得不收紧。解决冲突的紧迫性正在减弱。国债计划将逐步、可预测地实施。
+54. [英国央行行长贝利：如果冲突持续，政策可能不得不收紧。解决冲突的紧迫性正在减弱。国债计划将逐步、可预测地实施。
 
 英国央行首席经济学家Pill：最好在压力根深蒂固之前加以遏制。在伊朗冲突的迷雾中，加息将发出明确信号。
 
 英国央行副行长B...](https://wallstreetcn.com/livenews/3166790)
-53. [交易员削减了对英国央行加息的押注，目前市场完全计入年底前加息一次的预期，并认为再加息一次的概率为50%。英国国债上涨，长期债券领涨，30年期国债收益率下跌4个基点至5.82%。英镑兑美元回吐涨幅，报1.3374。](https://wallstreetcn.com/livenews/3166789)
-54. [英国央行以6比3的投票结果决定维持基准利率在3.75%不变](https://wallstreetcn.com/livenews/3166788)
-55. [英国央行政策利率 3.75%，预期 3.75%，前值 3.75%。](https://wallstreetcn.com/livenews/3166787)
-56. [卡尼：加拿大与欧盟“不是只在顺境中才站在一起的盟友”](https://wallstreetcn.com/livenews/3166786)
-57. [清华团队首次直接证明：超新星爆炸“吹的泡泡”驱动星系湍流](https://wallstreetcn.com/livenews/3166785)
-58. [首批17家前沿“种子”项目签约 上海国投科创策源基金二期瞄准前沿与颠覆性技术创新](https://wallstreetcn.com/livenews/3166784)
-59. [提醒：北京时间19:00，英国央行将公布利率决议。](https://wallstreetcn.com/livenews/3166783)
-60. [陈吉宁会见亚洲企业领袖协会会员代表](https://wallstreetcn.com/livenews/3166782)
-61. [前德意志银行员工因侵吞富裕客户资金被判刑](https://wallstreetcn.com/livenews/3166781)
-62. [外卖小哥举报“幽灵外卖”，最高可奖500元！北京新规10月1日起实施](https://wallstreetcn.com/livenews/3166780)
-63. [佩斯科夫：美通过对俄的新制裁法案是不友好行为](https://wallstreetcn.com/livenews/3166779)
-64. [价格成本和认证中心赴青海省开展光热发电调研](https://wallstreetcn.com/livenews/3166778)
-65. [国家能源局主要负责人会见东盟秘书长](https://wallstreetcn.com/livenews/3166777)
-66. [高盛调整对美联储的政策预期 现在认为10月就将再度加息](https://wallstreetcn.com/livenews/3166776)
+55. [交易员削减了对英国央行加息的押注，目前市场完全计入年底前加息一次的预期，并认为再加息一次的概率为50%。英国国债上涨，长期债券领涨，30年期国债收益率下跌4个基点至5.82%。英镑兑美元回吐涨幅，报1.3374。](https://wallstreetcn.com/livenews/3166789)
+56. [英国央行以6比3的投票结果决定维持基准利率在3.75%不变](https://wallstreetcn.com/livenews/3166788)
+57. [英国央行政策利率 3.75%，预期 3.75%，前值 3.75%。](https://wallstreetcn.com/livenews/3166787)
+58. [卡尼：加拿大与欧盟“不是只在顺境中才站在一起的盟友”](https://wallstreetcn.com/livenews/3166786)
+59. [清华团队首次直接证明：超新星爆炸“吹的泡泡”驱动星系湍流](https://wallstreetcn.com/livenews/3166785)
+60. [首批17家前沿“种子”项目签约 上海国投科创策源基金二期瞄准前沿与颠覆性技术创新](https://wallstreetcn.com/livenews/3166784)
+61. [提醒：北京时间19:00，英国央行将公布利率决议。](https://wallstreetcn.com/livenews/3166783)
+62. [陈吉宁会见亚洲企业领袖协会会员代表](https://wallstreetcn.com/livenews/3166782)
+63. [前德意志银行员工因侵吞富裕客户资金被判刑](https://wallstreetcn.com/livenews/3166781)
+64. [外卖小哥举报“幽灵外卖”，最高可奖500元！北京新规10月1日起实施](https://wallstreetcn.com/livenews/3166780)
+65. [佩斯科夫：美通过对俄的新制裁法案是不友好行为](https://wallstreetcn.com/livenews/3166779)
+66. [价格成本和认证中心赴青海省开展光热发电调研](https://wallstreetcn.com/livenews/3166778)
