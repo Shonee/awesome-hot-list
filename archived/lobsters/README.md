@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-17 16:31:00
+> 更新时间：2026-09-17 17:25:35
 
 ## Hottest
 
@@ -13,16 +13,16 @@
 7. [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
 8. [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
 9. [OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development](https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development)
-10. [Reinventing issue tracking: Local-first and Git-native](https://blog.manganin.dev/blog/reinventing-issue-tracking/)
-11. [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
+10. [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
+11. [Reinventing issue tracking: Local-first and Git-native](https://blog.manganin.dev/blog/reinventing-issue-tracking/)
 12. [Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
-13. [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
-14. [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
-15. [Some things Veloren does differently](https://blog.jsbarretto.com/post/veloren)
-16. [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa)
-17. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
-18. [Tilia—a new formatter for Haskell](https://markkarpov.com/post/announcing-tilia.html)
-19. [Why .tar.gz files can't be combined with cat](https://alexwlchan.net/2026/cat-confusion/)
+13. [Why .tar.gz files can't be combined with cat](https://alexwlchan.net/2026/cat-confusion/)
+14. [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
+15. [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
+16. [Some things Veloren does differently](https://blog.jsbarretto.com/post/veloren)
+17. [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa)
+18. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
+19. [Tilia—a new formatter for Haskell](https://markkarpov.com/post/announcing-tilia.html)
 20. [Style Guide for Online Hypertext (1992)](https://www.w3.org/Provider/Style/)
 21. [Maintaining the love for coding in the time of AI](https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/)
 22. [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
