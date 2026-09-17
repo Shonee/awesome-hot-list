@@ -60,7 +60,7 @@ jobs:
             exit 0
           fi
           git -C runtime commit -m "chore: update live news"
-          git -C runtime pull --rebase origin data-pages
+          git -C runtime pull --rebase --autostash origin data-pages
           git -C runtime push origin HEAD:data-pages
 
       - name: Enforce collection health
