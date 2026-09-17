@@ -26,7 +26,8 @@ class RequestedCollectorTests(unittest.TestCase):
 
         self.assertEqual(result.status, "disabled")
         self.assertEqual(result.rankings, [])
-        self.assertIn("仅返回 0 条有效数据", result.error)
+        self.assertIn("Bing 国内热点仅返回", result.error)
+        self.assertIn("条有效数据", result.error)
 
     def test_hupu_first_ranking_is_clickable_home_posts(self):
         def source(url, **_):
