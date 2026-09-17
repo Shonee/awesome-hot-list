@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-18 05:20:02
+> 更新时间：2026-09-18 06:19:47
 
 ## 24 小时热榜
 
@@ -8,18 +8,18 @@
 2. [AI 辅助破译 83 年前德军未被破解的恩尼格玛密文](https://readhub.cn/topic/8wUwXnNnmCU?tab=daily)
 3. [问界明年 1 月 1 日将撤出鸿蒙智行和华为专卖店](https://readhub.cn/topic/8wUg6v3maj5?tab=daily)
 4. [湖南航空通报一航班下机时旅客携带充电宝起火](https://readhub.cn/topic/8wUTFQOO5kt?tab=daily)
-5. [iPhone Duo 发布后三星 Z Fold8 销量反增 单周增长 10%](https://readhub.cn/topic/8wUU0O5MOcr?tab=daily)
-6. [玛莎拉蒂与华为合作两款新车 首款纯电 GT 对标欧陆 GT](https://readhub.cn/topic/8wUhX7rc9SF?tab=daily)
+5. [玛莎拉蒂与华为合作两款新车 首款纯电 GT 对标欧陆 GT](https://readhub.cn/topic/8wUhX7rc9SF?tab=daily)
+6. [iPhone Duo 发布后三星 Z Fold8 销量反增 单周增长 10%](https://readhub.cn/topic/8wUU0O5MOcr?tab=daily)
 7. [西贝回应新品牌多家门店暂停营业：系单店规划调整](https://readhub.cn/topic/8wV1utkKrlI?tab=daily)
 8. [前 OpenAI 研究员发布 Jev 模型，放弃自由文本生成](https://readhub.cn/topic/8wUegXMfJZ8?tab=daily)
 9. [月之暗面 Kimi 发布金融行业解决方案](https://readhub.cn/topic/8wUizttqU6r?tab=daily)
 10. [小米直播训练 MiMo-V2.6，罗福莉称半年钻研强化学习](https://readhub.cn/topic/8wUIWvRjqxJ?tab=daily)
 11. [国产 AI 开始自我优化国产芯片：GLM-5.3 Flash 两周实现 3.2 倍性能](https://readhub.cn/topic/8wUzQ5Y4aB8?tab=daily)
-12. [荷兰国际银行：印度外包业未见被 AI 取代迹象](https://readhub.cn/topic/8wUiFL4lFnR?tab=daily)
-13. [小鹏称 G9L 全球同级无对手 空间、操控、智能有亮点](https://readhub.cn/topic/8wULOlPTbfc?tab=daily)
+12. [小鹏称 G9L 全球同级无对手 空间、操控、智能有亮点](https://readhub.cn/topic/8wULOlPTbfc?tab=daily)
+13. [荷兰国际银行：印度外包业未见被 AI 取代迹象](https://readhub.cn/topic/8wUiFL4lFnR?tab=daily)
 14. [华为夺 8 月路由器线上双第一 销售额独占超 30%](https://readhub.cn/topic/8wUCqeczway?tab=daily)
-15. [蚂蚁集团全员接入千问办公，打造大型企业办公标杆](https://readhub.cn/topic/8wUmWpZPPVm?tab=daily)
-16. [AI 影视走向产业化，多平台布局相关内容](https://readhub.cn/topic/8wUTFCGhZTn?tab=daily)
+15. [AI 影视走向产业化，多平台布局相关内容](https://readhub.cn/topic/8wUTFCGhZTn?tab=daily)
+16. [蚂蚁集团全员接入千问办公，打造大型企业办公标杆](https://readhub.cn/topic/8wUmWpZPPVm?tab=daily)
 17. [AI Agent 安全不能只靠 Prompt 了：上海 AI Lab 探索 Agent 安全进化新范式](https://readhub.cn/topic/8wUcYtQQPOm?tab=daily)
 18. [广州提议禁止公共交通内外放声音](https://readhub.cn/topic/8wTErWBEXQb?tab=daily)
 19. [华为发布业界首个 NPO 技术的昇腾 960 超节点](https://readhub.cn/topic/8wUVO7AYE0w?tab=daily)
@@ -37,13 +37,13 @@
 
 ## 每日早报
 
-1. [09.16 苹果正式推送 iOS 27：Siri AI 全面升级 老款机型性能优化 17 条](https://readhub.cn/daily/2026-09-16)
-2. [09.15 传高瓴 90 后合伙人严文韬加入 DeepSeek 出任 CFO 14 条](https://readhub.cn/daily/2026-09-15)
-3. [09.14 Anthropic CEO 呼吁前沿 AI 限速，奥特曼、马斯克表态支持 9 条](https://readhub.cn/daily/2026-09-14)
-4. [09.13 月之暗面报案：网传关于创始人及员工的信息系恶意造谣 10 条](https://readhub.cn/daily/2026-09-13)
-5. [09.12 OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，因需求过大 12 条](https://readhub.cn/daily/2026-09-12)
-6. [09.11 OpenAI 推出金融服务版 ChatGPT 13 条](https://readhub.cn/daily/2026-09-11)
-7. [09.10 苹果发布首款折叠屏 iPhone Duo，15999 元起售 15 条](https://readhub.cn/daily/2026-09-10)
+1. [09.17 张一鸣首次成为亚洲首富 13 条](https://readhub.cn/daily/2026-09-17)
+2. [09.16 苹果正式推送 iOS 27：Siri AI 全面升级 老款机型性能优化 17 条](https://readhub.cn/daily/2026-09-16)
+3. [09.15 传高瓴 90 后合伙人严文韬加入 DeepSeek 出任 CFO 14 条](https://readhub.cn/daily/2026-09-15)
+4. [09.14 Anthropic CEO 呼吁前沿 AI 限速，奥特曼、马斯克表态支持 9 条](https://readhub.cn/daily/2026-09-14)
+5. [09.13 月之暗面报案：网传关于创始人及员工的信息系恶意造谣 10 条](https://readhub.cn/daily/2026-09-13)
+6. [09.12 OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，因需求过大 12 条](https://readhub.cn/daily/2026-09-12)
+7. [09.11 OpenAI 推出金融服务版 ChatGPT 13 条](https://readhub.cn/daily/2026-09-11)
 
 ## AI 资讯
 

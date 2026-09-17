@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-18 05:19:46
+> 更新时间：2026-09-18 06:19:32
 
 ## 热门文章
 
@@ -30,18 +30,18 @@
 24. [摸鱼神器：一边写代码，一边刷剧，从此没有一点摸鱼时间会被浪费！](https://juejin.cn/post/7685770509586284550)
 25. [我花3天抓了一个幽灵bug，凶手藏在第4层](https://juejin.cn/post/7685591822258864154)
 26. [一份 KDMS 评估报告，怎样排出迁移先后顺序](https://juejin.cn/post/7686361321610035246)
-27. [别再堆 AGENTS.md 了：前端团队的 Agent 上下文分层落地指南](https://juejin.cn/post/7685944661652602914)
-28. [【AI+Gpt-Image2.5】我偷偷把同事做成了虚拟角色，结果被发现了](https://juejin.cn/post/7685701789799022602)
-29. [给若依加审批流，不用 Flowable](https://juejin.cn/post/7685577977079185423)
-30. [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790)
+27. [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790)
+28. [别再堆 AGENTS.md 了：前端团队的 Agent 上下文分层落地指南](https://juejin.cn/post/7685944661652602914)
+29. [【AI+Gpt-Image2.5】我偷偷把同事做成了虚拟角色，结果被发现了](https://juejin.cn/post/7685701789799022602)
+30. [给若依加审批流，不用 Flowable](https://juejin.cn/post/7685577977079185423)
 31. [Flutter GSoC 2026 提案进度解读，补上 DevTools、FFI 和原生平台的关键缺口](https://juejin.cn/post/7686218976179126291)
 32. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://juejin.cn/post/7686040694948134921)
 33. [找不到好用的 Mac 便签，我干脆自己做了一个](https://juejin.cn/post/7685559824034316339)
 34. [AI Coding UI Patterns：把好设计说清楚！](https://juejin.cn/post/7685302724011704347)
 35. [程序员创业快一年：做出产品不等于拥有生意](https://juejin.cn/post/7685966242269151270)
-36. [2026年，这5个JS新趋势正在悄悄改写前端](https://juejin.cn/post/7685684235953094697)
-37. [🦭 别再用 emoji 凑数：Naive Icons 让你 vibe coding 界面来点活人感](https://juejin.cn/post/7685346528044007464)
-38. [从 0 到 1 速通 WorkBuddy](https://juejin.cn/post/7686090678486073395)
+36. [从 0 到 1 速通 WorkBuddy](https://juejin.cn/post/7686090678486073395)
+37. [2026年，这5个JS新趋势正在悄悄改写前端](https://juejin.cn/post/7685684235953094697)
+38. [🦭 别再用 emoji 凑数：Naive Icons 让你 vibe coding 界面来点活人感](https://juejin.cn/post/7685346528044007464)
 39. [GPT-6 拿下模型众测第一：我拆完 30 个主题的实时榜单，「最强 AI」得看你问哪个场景](https://juejin.cn/post/7686011859111100454)
 40. [前端转型全栈 01：数据建模，前端最大的盲区](https://juejin.cn/post/7685963804388392970)
 41. [Javaer转Agent：学习资料篇](https://juejin.cn/post/7685765300814643200)
