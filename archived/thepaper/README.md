@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-17 08:55:48
+> 更新时间：2026-09-17 09:32:20
 
 ## 热新闻
 
@@ -17,10 +17,10 @@
 11. [深一度｜在世界最难超长越野赛创纪录夺冠的赵家驹，到底是谁](https://www.thepaper.cn/newsDetail_forward_34080037)
 12. [见微知沪｜一座图书馆，如何“托住”普通人的拼搏和梦想](https://www.thepaper.cn/newsDetail_forward_34074470)
 13. [香港特区首个五年规划正式公布](https://www.thepaper.cn/newsDetail_forward_34079690)
-14. [博闻｜5.2亿的项目，监管账户流水达8.36亿，3个多亿去哪了？](https://www.thepaper.cn/newsDetail_forward_34040200)
-15. [被罗永浩吐槽难吃后，野人先生发文：对广大顾客意见和建议用心聆听，努力做得更好](https://www.thepaper.cn/newsDetail_forward_34080590)
-16. [广州拟立法处罚噪声污染：乘地铁外放手机声音最高罚1000元](https://www.thepaper.cn/newsDetail_forward_34079636)
-17. [黄仁勋再次发声反对AI减速：创新和安全不是二选一](https://www.thepaper.cn/newsDetail_forward_34079491)
-18. [海归女硕士人才引进考试拔头筹因“专升本”被取消资格，用人单位：资格审查时错误理解条款](https://www.thepaper.cn/newsDetail_forward_34079916)
-19. [学生信息竟成黑市商品，新华时评：对“内鬼”及背后灰黑产零容忍](https://www.thepaper.cn/newsDetail_forward_34079152)
+14. [被罗永浩吐槽难吃后，野人先生发文：对广大顾客意见和建议用心聆听，努力做得更好](https://www.thepaper.cn/newsDetail_forward_34080590)
+15. [广州拟立法处罚噪声污染：乘地铁外放手机声音最高罚1000元](https://www.thepaper.cn/newsDetail_forward_34079636)
+16. [黄仁勋再次发声反对AI减速：创新和安全不是二选一](https://www.thepaper.cn/newsDetail_forward_34079491)
+17. [海归女硕士人才引进考试拔头筹因“专升本”被取消资格，用人单位：资格审查时错误理解条款](https://www.thepaper.cn/newsDetail_forward_34079916)
+18. [学生信息竟成黑市商品，新华时评：对“内鬼”及背后灰黑产零容忍](https://www.thepaper.cn/newsDetail_forward_34079152)
+19. [高手，在身边｜有传承不守旧，法式蝴蝶酥如何炼成“上海特产”](https://www.thepaper.cn/newsDetail_forward_34074473)
 20. [马上评｜守护国家文物安全必须动真格、零容忍](https://www.thepaper.cn/newsDetail_forward_34082326)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-17 08:55:30
+> 更新时间：2026-09-17 09:32:00
 
 ## 最新帖子
 
-1. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
-2. [你以为加个 TenantId 字段就算隔离了，其实还差三道防线](https://www.cnblogs.com/shenchuanchao/p/22993507/tenant-id-field-not-enough-three-defense-lines)
-3. [你在用AI，还是在围观AI？](https://www.cnblogs.com/cicada-smile/p/23005786)
-4. [执行新项目 python 脚本前，先用 conda 建一个独立环境](https://www.cnblogs.com/jyzhao/p/23005659)
-5. [Codex 重置雷达 1.3 发布：新增重置预测与阈值提醒，附 3 周 1200 人复盘](https://www.cnblogs.com/gdutxiaoxu/p/23002964)
-6. [机器学习项目：二手车价格预测](https://www.cnblogs.com/myInception/p/23002903)
-7. [把 LLM 密钥从环境变量里解放出来：OpenClaw.NET 迎来 Vault/OpenBao 密钥后端](https://www.cnblogs.com/shanyou/p/23002448)
-8. [如何使用 Bash 进行数据清洗](https://www.cnblogs.com/wang_yb/p/23002397)
-9. [卓驭：基于 JuiceFS 百 PB 级智驾数据存储架构演进](https://www.cnblogs.com/JuiceData/p/23000985)
-10. [Ubuntu 22.04 Docker 从零部署全栈项目实录：Next.js + FastAPI + PostgreSQL 一次跑通](https://www.cnblogs.com/shenchuanchao/p/23000365/ubuntu-2204-docker-deployment-record)
-11. [聊聊最近很火的FDE](https://www.cnblogs.com/dotnetcrazy/p/22999992)
-12. [Codesys 应用实践 - 上下位机闭环](https://www.cnblogs.com/Zhouyongh/p/22998823)
-13. [BRP，如何用“反向构造”让黑盒对抗 Patch 更省查询？](https://www.cnblogs.com/heyonggang/p/22998269)
-14. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
-15. [LLM论文研读：Trace as State——把思考过程放到问题之前，真的能让大模型更会推理吗？](https://www.cnblogs.com/mengrennwpu/p/22997077)
-16. [Openplc与Fractory IO联合仿真](https://www.cnblogs.com/19373400weileng/p/22996816)
-17. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
-18. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
-19. [数字化转型的价值迷思：从技术指标到业务结果](https://www.cnblogs.com/keepsmart/p/22995049)
-20. [DBA 经验:MySQL性能最重要的参数只有2个！](https://www.cnblogs.com/xiexj/p/22993301)
+1. [从一份 README 到 3 万星，RustFS 这一年都干了什么？](https://www.cnblogs.com/xueweihan/p/22970800)
+2. [前端框架选择的思考](https://www.cnblogs.com/ChineseLiao/p/23006388)
+3. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
+4. [薅WorkBuddy羊毛，无限使用DeepSeek，自动签到+积分躺赚+通用 API 接口](https://www.cnblogs.com/degao/p/23006284)
+5. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
+6. [你以为加个 TenantId 字段就算隔离了，其实还差三道防线](https://www.cnblogs.com/shenchuanchao/p/22993507/tenant-id-field-not-enough-three-defense-lines)
+7. [你在用AI，还是在围观AI？](https://www.cnblogs.com/cicada-smile/p/23005786)
+8. [执行新项目 python 脚本前，先用 conda 建一个独立环境](https://www.cnblogs.com/jyzhao/p/23005659)
+9. [Codex 重置雷达 1.3 发布：新增重置预测与阈值提醒，附 3 周 1200 人复盘](https://www.cnblogs.com/gdutxiaoxu/p/23002964)
+10. [机器学习项目：二手车价格预测](https://www.cnblogs.com/myInception/p/23002903)
+11. [把 LLM 密钥从环境变量里解放出来：OpenClaw.NET 迎来 Vault/OpenBao 密钥后端](https://www.cnblogs.com/shanyou/p/23002448)
+12. [如何使用 Bash 进行数据清洗](https://www.cnblogs.com/wang_yb/p/23002397)
+13. [卓驭：基于 JuiceFS 百 PB 级智驾数据存储架构演进](https://www.cnblogs.com/JuiceData/p/23000985)
+14. [Ubuntu 22.04 Docker 从零部署全栈项目实录：Next.js + FastAPI + PostgreSQL 一次跑通](https://www.cnblogs.com/shenchuanchao/p/23000365/ubuntu-2204-docker-deployment-record)
+15. [聊聊最近很火的FDE](https://www.cnblogs.com/dotnetcrazy/p/22999992)
+16. [Codesys 应用实践 - 上下位机闭环](https://www.cnblogs.com/Zhouyongh/p/22998823)
+17. [BRP，如何用“反向构造”让黑盒对抗 Patch 更省查询？](https://www.cnblogs.com/heyonggang/p/22998269)
+18. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
+19. [LLM论文研读：Trace as State——把思考过程放到问题之前，真的能让大模型更会推理吗？](https://www.cnblogs.com/mengrennwpu/p/22997077)
+20. [Openplc与Fractory IO联合仿真](https://www.cnblogs.com/19373400weileng/p/22996816)
 
 ## 精华帖子
 

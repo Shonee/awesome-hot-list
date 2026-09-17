@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-17 08:55:55
+> 更新时间：2026-09-17 09:32:27
 
 ## Hottest
 
@@ -16,13 +16,13 @@
 10. [Some things Veloren does differently](https://blog.jsbarretto.com/post/veloren)
 11. [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
 12. [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa)
-13. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
-14. [Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
-15. [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
-16. [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
-17. [Maintaining the love for coding in the time of AI](https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/)
-18. [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
-19. [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
+13. [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
+14. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
+15. [Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
+16. [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
+17. [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
+18. [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+19. [Maintaining the love for coding in the time of AI](https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/)
 20. [When adding a fractional part to a number fixes your shader](https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/)
 21. [JDK 27 has been released](https://openjdk.org/projects/jdk/27/)
 22. [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)

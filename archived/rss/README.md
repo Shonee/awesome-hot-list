@@ -1,22 +1,22 @@
 # RSS热榜
 
-> 更新时间：2026-09-17 08:56:18
+> 更新时间：2026-09-17 09:32:49
 
 ## IT之家
 
-1. [三星 One UI 9 正式版推送：Galaxy S26 系列首批升级，Z Fold8 已预装](https://www.ithome.com/1/003/374.htm)
-2. [长假出行别忘买票，国庆假期首日火车票今日开售](https://www.ithome.com/1/003/373.htm)
-3. [号称千元扫地机器人到手竟是玩具，总台曝光“积分兑换”套路](https://www.ithome.com/1/003/372.htm)
-4. [我国批复 5 个城市群开展氢能综合应用试点，建成加氢站超 620 座居全球首位](https://www.ithome.com/1/003/370.htm)
-5. [6999 元，华为 WATCH Ultimate 2 非凡探索雪域白今日开售](https://www.ithome.com/1/003/369.htm)
+1. [七彩虹上架 iGame 御甲 G114 智显充电器：140W 四口，199 元](https://www.ithome.com/1/003/388.htm)
+2. [影石法务部称遭遇有组织黑水军攻击：已有同行业公司高管被行政拘留，举报者获奖 1 万元](https://www.ithome.com/1/003/387.htm)
+3. [行业首个，消息称一加 16 手机 165Hz 超高刷“能下载的应用都能开”](https://www.ithome.com/1/003/386.htm)
+4. [苹果 iPhone 18 Pro/Max 零售包装曝光](https://www.ithome.com/1/003/385.htm)
+5. [599 元起飞智八爪鱼 6/Pro 手柄发售：《明日方舟：终末地》联名款 799 元，《绝区零》《影之刃零》联名 899 元](https://www.ithome.com/1/003/384.htm)
 
 ## 少数派
 
-1. [探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
-2. [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
-3. [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
-4. [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
-5. [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
+1. [派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
+2. [探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
+3. [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
+4. [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
+5. [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
 
 ## 爱范儿
 
@@ -36,11 +36,11 @@
 
 ## InfoQ
 
-1. [亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article)
-2. [实测 Vibe Key：开口使唤 AI，真有当甲方的感觉](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article)
-3. [Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案](https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&utm_medium=article)
-4. [从概率生成到稳定交付：AIGC专业内容生产的工程化挑战](https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article)
-5. [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
+1. [在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？](https://www.infoq.cn/article/ZFk50FZmqsgY7uShA2Gw?utm_source=rss&utm_medium=article)
+2. [亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article)
+3. [实测 Vibe Key：开口使唤 AI，真有当甲方的感觉](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article)
+4. [Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案](https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&utm_medium=article)
+5. [从概率生成到稳定交付：AIGC专业内容生产的工程化挑战](https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
@@ -57,6 +57,14 @@
 3. [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 4. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)
 5. [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/)
+
+## AI News
+
+1. [Microsoft AI CEO criticises Anthropic over model ‘rights’](https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/)
+2. [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
+3. [Pony.ai unveils autonomous electric truck for logistics fleets](https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/)
+4. [The AI Talent Britain Fought to Hire May Be Recalculating Its Future](https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/)
+5. [Microsoft AI opens review on Humanist AI Code of Conduct](https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/)
 
 ## 阮一峰网络日志
 
