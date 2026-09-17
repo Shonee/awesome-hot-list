@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-18 06:19:57
-
-## 新闻热榜
-
-1. [美联储三年来首次加息震动全球：沃什鹰派首秀，特朗普怒喊利率降至1%](https://finance.sina.com.cn/money/forex/forexroll/2026-09-17/doc-inisatum3469915.shtml)
-2. [美国返还58件中国文物 包括百余年前遭劫掠菩萨像](https://news.sina.com.cn/c/2026-09-17/doc-inisefvv0351923.shtml)
-3. [以色列媒体：美方这种安排“不同寻常”](https://news.sina.com.cn/w/2026-09-18/doc-inisefvv0359548.shtml)
-4. [特朗普三天内受挫两次，都是“自己的人不听话”](https://news.sina.com.cn/w/2026-09-17/doc-iniscqye9190072.shtml)
-5. [密密麻麻！33岁女子体内取出197枚，医生：从医以来第一次见](https://mil.news.sina.com.cn/2026-09-17/doc-inisefvt3575682.shtml)
-6. [美国联邦航空管理局批准波音公司请求，允许其额外销售最多35架777F货机。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0365554.shtml)
-7. [市场消息：美国联邦航空管理局将斥资8.75亿美元计划运用人工智能缓解空中交通困境。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvt3625150.shtml)
-8. [特朗普：伊朗战争正站在重大十字路口上。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0388528.shtml)
-9. [市场消息：一架德克萨斯州的F-16战机训练时在密歇根州乡村地区坠毁，军方称F-16飞行员在坠机后安全弹射逃生。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisesmr0219198.shtml)
-10. [美国卫生与公众服务部（HHS）：美国疾病控制与预防中心（CDC）尚未通过常规渠道收到正式的流行病援助申请。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0288951.shtml)
-11. [AMWAY将支付 2.25 亿美元，了结美国联邦贸易委员会的执法诉讼。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3509385.shtml)
-12. [特朗普：军事基地选址很快就会公布。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0273973.shtml)
-13. [英国航空航天系统公司（BAE Systems）：旗下BAE Systems OneArc获美国陆军授予其他交易协议合同，负责整合电子战通信训练（ECT）解决方案](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0379038.shtml)
-14. [环球时报社评：95年了，日本一些人仍活在军国主义迷梦中](https://news.sina.com.cn/w/2026-09-17/doc-inisefvt3559322.shtml)
-15. [冲着中印来的关税牌，特朗普打得出来吗？](https://news.sina.com.cn/w/2026-09-18/doc-inisefvt3559449.shtml)
-16. [麦当劳告知特许经营商，培训体系即将调整。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3554409.shtml)
-17. [特朗普：在伊朗战争中正接近重大十字路口](https://finance.sina.com.cn/world/2026-09-18/doc-inisefvt3624609.shtml)
-18. [法国9月18日电价稳定在119.74欧元/兆瓦时。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3537960.shtml)
-19. [美国亿万富翁排队资助共和党中期选举，前20大金主中16人支持共和党](https://finance.sina.com.cn/world/2026-09-17/doc-inisefvt3568791.shtml)
-20. [男子称儿女均非亲生，妻子婚内转移1472万元财产并提起离婚诉讼，妻子：非亲生问题不便回答，钱均用于生活和工作必要支出](https://news.sina.com.cn/s/2026-09-18/doc-inisefvt3588328.shtml)
-
-## 财经热榜
-
-1. [美国联邦航空管理局批准波音公司请求，允许其额外销售最多35架777F货机。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0365554.shtml)
-2. [市场消息：美国联邦航空管理局将斥资8.75亿美元计划运用人工智能缓解空中交通困境。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvt3625150.shtml)
-3. [特朗普：伊朗战争正站在重大十字路口上。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0388528.shtml)
-4. [市场消息：一架德克萨斯州的F-16战机训练时在密歇根州乡村地区坠毁，军方称F-16飞行员在坠机后安全弹射逃生。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisesmr0219198.shtml)
-5. [9月17日外盘头条：联储加息 沃什强调通胀太高持续太久 特朗普敦促降息 苹果考虑重返服务器市场](https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapns9515429.shtml)
-6. [何时追上特斯拉FSD？朱江明：没有可比性，中国车不能到美国，特斯拉FSD也还没在中国落地](https://finance.sina.com.cn/roll/2026-09-17/doc-inisayam0345801.shtml)
-7. [AMWAY将支付 2.25 亿美元，了结美国联邦贸易委员会的执法诉讼。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3509385.shtml)
-8. [美国卫生与公众服务部（HHS）：美国疾病控制与预防中心（CDC）尚未通过常规渠道收到正式的流行病援助申请。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0288951.shtml)
-9. [特朗普：军事基地选址很快就会公布。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0273973.shtml)
-10. [英国航空航天系统公司（BAE Systems）：旗下BAE Systems OneArc获美国陆军授予其他交易协议合同，负责整合电子战通信训练（ECT）解决方案](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0379038.shtml)
-11. [美联储主席沃什：物价稳定对工人来说是好消息，有望看到实际到手工资增长。](https://finance.sina.com.cn/7x24/2026-09-17/doc-inisaiet0340735.shtml)
-12. [麦当劳告知特许经营商，培训体系即将调整。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3554409.shtml)
-13. [特朗普：在伊朗战争中正接近重大十字路口](https://finance.sina.com.cn/world/2026-09-18/doc-inisefvt3624609.shtml)
-14. [法国9月18日电价稳定在119.74欧元/兆瓦时。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3537960.shtml)
-15. [事件预测平台kalshi的数据显示，美联储10月维持利率不变的概率为53%，而加息25个基点的概率为48%。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0291359.shtml)
-16. [俄罗斯总统普京：俄罗斯通胀处于可控状态。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0272862.shtml)
-17. [Anthropic：的Mythos 5.1、Opus 5以及Sonnet 5模型，均适用生命科学计划的标准使用授权条款。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0279552.shtml)
-18. [美国联邦航空管理局局长贝德福德表示，关税将给空中交通管制现代化项目成本带来1亿美元的影响。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisenct0276764.shtml)
-19. [纽约联储9月17日对逆回购工具操作全额接受申报，申报规模为2.76亿美元，接受规模同样为2.76亿美元。](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisencr3496700.shtml)
-20. [经营贷利率涨了？记者探访沪深两地银行：实际并没有提高，但有客户经理称10月会上调](https://finance.sina.com.cn/7x24/2026-09-18/doc-inisefvv0374194.shtml)
+> 更新时间：2026-09-18 06:22:41
 
 ## 7x24
 
