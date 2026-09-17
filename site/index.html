@@ -424,10 +424,9 @@
     .item-link { min-width: 0; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; line-height: 1.45; text-decoration: none; font-weight: 590; }
     .item-link:hover { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
     .item-hot { color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
-    .rss-item .item-link { display: block; -webkit-line-clamp: initial; line-clamp: initial; }
-    .rss-item .item-title { display: -webkit-box; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; line-height: 1.45; }
-    .rss-item-meta { display: block; overflow: hidden; margin-top: 2px; color: var(--muted); font-size: 10px; font-weight: 500; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
-    .rss-mode-note { color: var(--gold); }
+    .live-item { grid-template-columns: 42px minmax(0, 1fr); align-items: start; padding-block: 8px; }
+    .live-item .item-link { display: block; -webkit-line-clamp: initial; line-clamp: initial; }
+    .live-time { padding-top: 2px; color: var(--hot); font-size: 11px; font-weight: 760; font-variant-numeric: tabular-nums; text-align: left; }
     .provider-note { color: var(--blue); }
     .empty-channel { min-height: 100%; display: grid; place-items: center; color: var(--muted); text-align: center; padding: 26px; }
     .empty-channel strong { display: block; color: var(--ink); margin-bottom: 3px; }
@@ -457,12 +456,6 @@
     .setting-title { font-weight: 760; margin-bottom: 10px; }
     .setting-help { color: var(--muted); font-size: 12px; margin-bottom: 12px; }
     .setting-check { display: flex; align-items: center; gap: 8px; min-height: 34px; color: var(--ink); font-size: 12px; cursor: pointer; }
-    .rss-feed-settings { margin-top: 10px; border-top: 1px solid var(--line); }
-    .rss-feed-title { padding: 10px 0 4px; color: var(--muted); font-size: 11px; font-weight: 700; }
-    .rss-feed-row { min-height: 38px; display: grid; grid-template-columns: minmax(0, 1fr) 82px; align-items: center; gap: 10px; border-bottom: 1px solid var(--line); font-size: 12px; }
-    .rss-feed-name { min-width: 0; display: flex; align-items: center; gap: 7px; cursor: pointer; }
-    .rss-feed-row span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .rss-feed-row select { width: 82px; height: 30px; padding: 0 20px 0 7px; font-size: 11px; }
     .choice-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
     .choice-btn { min-height: 52px; padding: 7px 8px; border: 1px solid var(--line); border-radius: 4px; background: var(--surface); color: var(--muted); cursor: pointer; font-size: 11px; font-weight: 650; }
     .choice-btn:hover { border-color: var(--line-strong); color: var(--ink); }
@@ -495,7 +488,6 @@
     .topic-result-sources { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
     .topic-source { display: inline-flex; align-items: center; gap: 5px; max-width: 100%; padding: 5px 8px; border: 1px solid var(--line); border-radius: 3px; color: var(--blue); font-size: 11px; text-decoration: none; }
     .topic-source:hover, .topic-source:focus-visible { border-color: var(--blue); background: var(--surface-alt); }
-    .rss-description { display: block; overflow: hidden; max-width: 100%; text-overflow: ellipsis; white-space: nowrap; }
     .external-mark { color: var(--muted); font-size: 18px; }
 
     @media (max-width: 980px) {
@@ -724,17 +716,6 @@
           <select id="drawerTopCount"><option value="10">10 条</option><option value="20">20 条</option><option value="30">30 条</option><option value="50">50 条</option></select>
         </div>
         <div class="setting-block">
-          <div class="setting-title">RSS 阅读</div>
-          <div class="setting-help">RSS 每个源最多展示 5 条，按发布时间排序。</div>
-          <label class="setting-check"><input id="rssVisibleToggle" type="checkbox"> <span>显示 RSS 卡片</span></label>
-          <div class="choice-grid" id="rssModeChoices">
-            <button class="choice-btn" data-rss-mode-choice="tabs">分源 Tabs</button>
-            <button class="choice-btn" data-rss-mode-choice="aggregate">聚合时间线</button>
-          </div>
-          <label class="setting-check"><input id="rssPublishedToggle" type="checkbox"> <span>显示文章发布时间</span></label>
-          <div class="rss-feed-settings" id="rssFeedSettings"></div>
-        </div>
-        <div class="setting-block">
           <div class="setting-title">本地展示渠道</div>
           <div class="setting-help">渠道显隐与排序仅保存在当前浏览器。</div>
           <div id="channelSettings"></div>
@@ -749,14 +730,9 @@
     <div class="topic-dialog-head"><h2 id="topicDialogTitle">关联内容</h2><button class="icon-btn" id="closeTopicDialog" aria-label="关闭">×</button></div>
     <div class="topic-dialog-body" id="topicDialogBody"></div>
   </dialog>
-  <dialog class="topic-dialog rss-dialog" id="rssDialog">
-    <div class="topic-dialog-head"><h2>RSS 全部资讯</h2><button class="icon-btn" id="closeRssDialog" aria-label="关闭">×</button></div>
-    <div class="topic-dialog-body" id="rssDialogBody"></div>
-  </dialog>
-
   <script>
     const STORAGE_KEY = 'awesome-hot-list.preferences.v1';
-    const PREFS_SCHEMA_VERSION = 2;
+    const PREFS_SCHEMA_VERSION = 3;
     const MOBILE_TOP_COUNT = 10;
     const MOBILE_VIEWPORT = window.matchMedia('(max-width: 680px)');
     const DISPLAY_THEMES = Object.freeze({
@@ -768,7 +744,6 @@
       list: '紧凑列表',
       'channel-tabs': '渠道 Tabs'
     });
-    const RSS_MODES = Object.freeze({ tabs: '分源 Tabs', aggregate: '聚合时间线' });
     const CHANNEL_CONFIG = [
   {
     "channelId": "weibo",
@@ -778,7 +753,8 @@
     "sourceUrl": "https://s.weibo.com/top/summary",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "zhihu",
@@ -788,7 +764,8 @@
     "sourceUrl": "https://www.zhihu.com/hot",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "douyin",
@@ -798,7 +775,8 @@
     "sourceUrl": "https://www.douyin.com/hot",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "kuaishou",
@@ -808,7 +786,8 @@
     "sourceUrl": "https://www.kuaishou.com/?isHome=1&cc=CN",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "bilibili",
@@ -818,7 +797,8 @@
     "sourceUrl": "https://www.bilibili.com/v/popular/all",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "acfun",
@@ -828,7 +808,8 @@
     "sourceUrl": "https://www.acfun.cn/rank/list/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "toutiao",
@@ -838,7 +819,8 @@
     "sourceUrl": "https://www.toutiao.com/hot-event/hot-board/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "github",
@@ -848,7 +830,8 @@
     "sourceUrl": "https://github.com/trending",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "juejin",
@@ -858,7 +841,8 @@
     "sourceUrl": "https://juejin.cn/hot/articles",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "cnblogs",
@@ -868,7 +852,8 @@
     "sourceUrl": "https://www.cnblogs.com/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "pojie52",
@@ -878,7 +863,8 @@
     "sourceUrl": "https://www.52pojie.cn/forum.php?mod=guide&view=hot",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "googletrends",
@@ -888,17 +874,19 @@
     "sourceUrl": "https://trends.google.com/trending?geo=HK",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "bing",
-    "name": "必应热门新闻",
+    "name": "必应国内热点",
     "short": "B",
     "color": "#167a83",
-    "sourceUrl": "https://www.bing.com/news?cc=us&setlang=en-US",
+    "sourceUrl": "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": 24
   },
   {
     "channelId": "baidu",
@@ -908,7 +896,8 @@
     "sourceUrl": "https://top.baidu.com/board?tab=realtime",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "wechat",
@@ -918,7 +907,8 @@
     "sourceUrl": "https://tophub.today/n/WnBe01o371",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "36kr",
@@ -928,67 +918,19 @@
     "sourceUrl": "https://www.36kr.com/hot-list/catalog",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
-    "channelId": "qqnews",
-    "name": "腾讯新闻",
-    "short": "腾",
-    "color": "#1769aa",
-    "sourceUrl": "https://news.qq.com/",
+    "channelId": "readhub",
+    "name": "Readhub",
+    "short": "R",
+    "color": "#1677ff",
+    "sourceUrl": "https://readhub.cn/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
-  },
-  {
-    "channelId": "netease",
-    "name": "网易新闻",
-    "short": "网",
-    "color": "#d22128",
-    "sourceUrl": "https://news.163.com/",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
-  },
-  {
-    "channelId": "sina",
-    "name": "新浪",
-    "short": "新",
-    "color": "#e6162d",
-    "sourceUrl": "https://news.sina.com.cn/",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
-  },
-  {
-    "channelId": "xueqiu",
-    "name": "雪球",
-    "short": "XQ",
-    "color": "#1f6fb2",
-    "sourceUrl": "https://xueqiu.com/today",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
-  },
-  {
-    "channelId": "tonghuashun",
-    "name": "同花顺",
-    "short": "THS",
-    "color": "#e83b35",
-    "sourceUrl": "https://t.10jqka.com.cn/",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
-  },
-  {
-    "channelId": "huggingface",
-    "name": "Hugging Face",
-    "short": "HF",
-    "color": "#e0a000",
-    "sourceUrl": "https://huggingface.co/models?sort=trending",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": false,
+    "staleAfterHours": null
   },
   {
     "channelId": "thepaper",
@@ -998,97 +940,63 @@
     "sourceUrl": "https://www.thepaper.cn/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
-    "channelId": "douban",
-    "name": "豆瓣",
-    "short": "DB",
-    "color": "#00a65a",
-    "sourceUrl": "https://movie.douban.com/chart",
+    "channelId": "cctv",
+    "name": "央视新闻",
+    "short": "视",
+    "color": "#c8171e",
+    "sourceUrl": "https://news.cctv.com/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": false,
+    "staleAfterHours": null
   },
   {
-    "channelId": "tieba",
-    "name": "百度贴吧",
-    "short": "贴",
-    "color": "#2f76c7",
-    "sourceUrl": "https://tieba.baidu.com/",
+    "channelId": "mfa",
+    "name": "外交部",
+    "short": "外",
+    "color": "#1d4f91",
+    "sourceUrl": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": false,
+    "staleAfterHours": null
   },
   {
-    "channelId": "hupu",
-    "name": "虎扑",
-    "short": "HP",
-    "color": "#b31b1b",
-    "sourceUrl": "https://m.hupu.com/",
+    "channelId": "qqnews",
+    "name": "腾讯新闻",
+    "short": "腾",
+    "color": "#1769aa",
+    "sourceUrl": "https://news.qq.com/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
-    "channelId": "eastmoney",
-    "name": "东方财富",
-    "short": "东",
-    "color": "#f04444",
-    "sourceUrl": "https://guba.eastmoney.com/rank/",
+    "channelId": "netease",
+    "name": "网易新闻",
+    "short": "网",
+    "color": "#d22128",
+    "sourceUrl": "https://news.163.com/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
-    "channelId": "maimai",
-    "name": "脉脉",
-    "short": "MM",
-    "color": "#00a6a6",
-    "sourceUrl": "https://maimai.cn/web/gossip_list",
-    "enabledByDefault": false,
-    "visibleByDefault": false,
-    "includeInReport": false
-  },
-  {
-    "channelId": "v2ex",
-    "name": "V2EX",
-    "short": "V2",
-    "color": "#778087",
-    "sourceUrl": "https://www.v2ex.com/?tab=hot",
+    "channelId": "sina",
+    "name": "新浪",
+    "short": "新",
+    "color": "#e6162d",
+    "sourceUrl": "https://news.sina.com.cn/",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
-  },
-  {
-    "channelId": "lobsters",
-    "name": "Lobsters",
-    "short": "L",
-    "color": "#ac130d",
-    "sourceUrl": "https://lobste.rs/",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
-  },
-  {
-    "channelId": "hackernews",
-    "name": "Hacker News",
-    "short": "HN",
-    "color": "#ff6600",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
-  },
-  {
-    "channelId": "stackoverflow",
-    "name": "Stack Overflow",
-    "short": "SO",
-    "color": "#f48024",
-    "sourceUrl": "https://stackoverflow.com/questions?tab=hot",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "cls",
@@ -1098,7 +1006,151 @@
     "sourceUrl": "https://www.cls.cn/telegraph",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "wallstreetcn",
+    "name": "华尔街见闻",
+    "short": "见",
+    "color": "#d8a23f",
+    "sourceUrl": "https://wallstreetcn.com/live/global",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": false,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "xueqiu",
+    "name": "雪球",
+    "short": "XQ",
+    "color": "#1f6fb2",
+    "sourceUrl": "https://xueqiu.com/today",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "eastmoney",
+    "name": "东方财富",
+    "short": "东",
+    "color": "#f04444",
+    "sourceUrl": "https://guba.eastmoney.com/rank/",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "tonghuashun",
+    "name": "同花顺",
+    "short": "THS",
+    "color": "#e83b35",
+    "sourceUrl": "https://t.10jqka.com.cn/",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "tieba",
+    "name": "百度贴吧",
+    "short": "贴",
+    "color": "#2f76c7",
+    "sourceUrl": "https://tieba.baidu.com/",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "douban",
+    "name": "豆瓣",
+    "short": "DB",
+    "color": "#00a65a",
+    "sourceUrl": "https://movie.douban.com/chart",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "hupu",
+    "name": "虎扑",
+    "short": "HP",
+    "color": "#b31b1b",
+    "sourceUrl": "https://m.hupu.com/",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "maimai",
+    "name": "脉脉",
+    "short": "MM",
+    "color": "#00a6a6",
+    "sourceUrl": "https://maimai.cn/web/gossip_list",
+    "enabledByDefault": false,
+    "visibleByDefault": false,
+    "includeInReport": false,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "huggingface",
+    "name": "Hugging Face",
+    "short": "HF",
+    "color": "#e0a000",
+    "sourceUrl": "https://huggingface.co/models?sort=trending",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "v2ex",
+    "name": "V2EX",
+    "short": "V2",
+    "color": "#778087",
+    "sourceUrl": "https://www.v2ex.com/?tab=hot",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "lobsters",
+    "name": "Lobsters",
+    "short": "L",
+    "color": "#ac130d",
+    "sourceUrl": "https://lobste.rs/",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "hackernews",
+    "name": "Hacker News",
+    "short": "HN",
+    "color": "#ff6600",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "stackoverflow",
+    "name": "Stack Overflow",
+    "short": "SO",
+    "color": "#f48024",
+    "sourceUrl": "https://stackoverflow.com/questions?tab=hot",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "nodeseek",
@@ -1108,7 +1160,8 @@
     "sourceUrl": "https://www.nodeseek.com/?tab=hot",
     "enabledByDefault": true,
     "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": true,
+    "staleAfterHours": null
   },
   {
     "channelId": "fuliba",
@@ -1118,17 +1171,8 @@
     "sourceUrl": "https://fuliba2023.net/",
     "enabledByDefault": true,
     "visibleByDefault": false,
-    "includeInReport": false
-  },
-  {
-    "channelId": "rss",
-    "name": "RSS",
-    "short": "RSS",
-    "color": "#f28c28",
-    "sourceUrl": "",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true
+    "includeInReport": false,
+    "staleAfterHours": null
   }
 ];
     const CHANNEL_ORDER = CHANNEL_CONFIG.map(channel => channel.channelId);
@@ -1146,6 +1190,9 @@
       CHANNEL_ORDER.map(key => [key, {}])
     );
     const CHANNEL_RANKING_PROVIDERS = Object.fromEntries(
+      CHANNEL_ORDER.map(key => [key, {}])
+    );
+    const CHANNEL_RANKING_SURFACES = Object.fromEntries(
       CHANNEL_ORDER.map(key => [key, {}])
     );
     let topTopics = [];
@@ -1166,10 +1213,6 @@
       layout: 'cards',
       activeChannel: 'bilibili',
       activeRankings: {},
-      rssMode: 'aggregate',
-      rssLimits: {},
-      rssEnabled: {},
-      rssShowPublishedAt: true,
       order: [...CHANNEL_ORDER],
       visible: Object.fromEntries(CHANNEL_CONFIG.map(channel => [channel.channelId, channel.visibleByDefault !== false]))
     };
@@ -1178,15 +1221,15 @@
 
     function normalizeOrder(order) {
       const valid = Array.isArray(order) ? order.filter(key => CHANNEL_ORDER.includes(key)) : [];
-      const normalized = [...new Set(valid)].filter(key => key !== 'rss');
-      CHANNEL_ORDER.filter(key => key !== 'rss').forEach(key => {
+      const normalized = [...new Set(valid)];
+      CHANNEL_ORDER.forEach(key => {
         if (normalized.includes(key)) return;
         const defaultIndex = CHANNEL_ORDER.indexOf(key);
         const insertAt = normalized.findIndex(existing => CHANNEL_ORDER.indexOf(existing) > defaultIndex);
         if (insertAt < 0) normalized.push(key);
         else normalized.splice(insertAt, 0, key);
       });
-      return [...normalized, 'rss'];
+      return normalized;
     }
     function loadPrefs() {
       try {
@@ -1204,10 +1247,6 @@
           preferencesVersion: PREFS_SCHEMA_VERSION,
           theme: Object.hasOwn(DISPLAY_THEMES, saved.theme) ? saved.theme : defaultPrefs.theme,
           layout: Object.hasOwn(HOTLIST_LAYOUTS, saved.layout) ? saved.layout : defaultPrefs.layout,
-          rssMode: Object.hasOwn(RSS_MODES, saved.rssMode) ? saved.rssMode : defaultPrefs.rssMode,
-          rssLimits: Object.fromEntries(Object.entries(saved.rssLimits || {}).map(([key, value]) => [key, Math.max(1, Math.min(5, Number(value) || 5))])),
-          rssEnabled: Object.fromEntries(Object.entries(saved.rssEnabled || {}).map(([key, value]) => [key, value !== false])),
-          rssShowPublishedAt: saved.rssShowPublishedAt !== false,
           order: normalizeOrder(saved.order),
           activeRankings: { ...(saved.activeRankings || {}) },
           visible: savedVisible
@@ -1376,14 +1415,6 @@
       root.querySelectorAll('[data-topic]').forEach(button => button.addEventListener('click', () => openTopic(button.dataset.topic)));
     }
 
-    function rssLimitFor(name) {
-      return Math.max(1, Math.min(5, Number(prefs.rssLimits[name]) || 5));
-    }
-
-    function rssEnabledFor(name) {
-      return prefs.rssEnabled[name] !== false;
-    }
-
     function publishedLabel(value) {
       if (!value) return '';
       const text = String(value).trim();
@@ -1395,64 +1426,27 @@
       return `${parts.join('-')} ${time}`;
     }
 
-    function rssRows(rankings, mode, activeRanking) {
-      const entries = Object.entries(rankings)
-        .filter(([name]) => !['等待采集', '暂无数据'].includes(name) && rssEnabledFor(name))
-        .map(([name, rows]) => [name, rows.slice(0, rssLimitFor(name))]);
-      if (mode === 'aggregate') {
-        return entries.flatMap(([name, rows]) => rows.map(item => ({ ...item, rssSource: name })))
-          .sort((left, right) => {
-            const leftTime = Date.parse(left.publishedAt || '') || 0;
-            const rightTime = Date.parse(right.publishedAt || '') || 0;
-            return rightTime - leftTime;
-          })
-          .map((item, index) => ({ ...item, rank: index + 1 }));
-      }
-      return (entries.find(([name]) => name === activeRanking)?.[1] || []).map(item => ({ ...item, rssSource: activeRanking }));
-    }
-
-    function openRssDialog() {
-      const rankings = CHANNEL_RANKINGS.rss || {};
-      const entries = Object.entries(rankings)
-        .filter(([name]) => !['等待采集', '暂无数据'].includes(name) && rssEnabledFor(name))
-        .flatMap(([name, rows]) => rows.map(item => ({ ...item, rssSource: name })))
-        .sort((left, right) => (Date.parse(right.publishedAt || '') || 0) - (Date.parse(left.publishedAt || '') || 0));
-      const body = document.getElementById('rssDialogBody');
-      body.innerHTML = entries.length
-        ? entries.map(item => `<a class="topic-result rss-result" href="${safeUrl(item.url)}" target="_blank" rel="noopener" title="${escapeHtml(item.title)}"><span><span class="topic-result-title">${escapeHtml(item.title)}</span><span class="topic-result-meta">${escapeHtml(item.rssSource)}${item.publishedAt ? ` · ${escapeHtml(publishedLabel(item.publishedAt))}` : ''}</span>${item.description ? `<span class="topic-result-meta rss-description">${escapeHtml(item.description)}</span>` : ''}</span><span class="external-mark">↗</span></a>`).join('')
-        : '<div class="empty-report">暂无已启用的 RSS 资讯</div>';
-      document.getElementById('rssDialog').showModal();
-    }
-
     function channelCard(key) {
       const channel = CHANNELS[key];
       const rankings = CHANNEL_RANKINGS[key] || { '榜单': [] };
       const rankingNames = Object.keys(rankings);
-      const rssRankingNames = rankingNames.filter(name => !['等待采集', '暂无数据'].includes(name) && rssEnabledFor(name));
-      const isRss = key === 'rss';
-      const rssMode = isRss ? prefs.rssMode : 'tabs';
-      const visibleRankingNames = isRss ? rssRankingNames : rankingNames;
-      const activeRanking = visibleRankingNames.includes(prefs.activeRankings[key]) ? prefs.activeRankings[key] : visibleRankingNames[0];
-      const allRows = isRss ? rssRows(rankings, rssMode, activeRanking) : rankings[activeRanking] || [];
+      const activeRanking = rankingNames.includes(prefs.activeRankings[key]) ? prefs.activeRankings[key] : rankingNames[0];
+      const allRows = rankings[activeRanking] || [];
+      const isLive = CHANNEL_RANKING_SURFACES[key]?.[activeRanking] === 'live';
       const effectiveTopCount = isMobileViewport() ? MOBILE_TOP_COUNT : prefs.topCount;
-      const rows = allRows.slice(0, effectiveTopCount);
+      const rows = allRows.slice(0, isLive ? 100 : effectiveTopCount);
       const detailUrl = safeUrl(CHANNEL_RANKING_URLS[key]?.[activeRanking] || channel.sourceUrl);
       const provider = CHANNEL_RANKING_PROVIDERS[key]?.[activeRanking];
-      const detailLink = isRss
-        ? `<button type="button" class="channel-detail" data-open-rss>查看全部 RSS</button>`
-        : detailUrl === '#' ? '' : `<a class="channel-detail" href="${detailUrl}" target="_blank" rel="noopener">查看详情</a>`;
-      const tabs = visibleRankingNames.length > 1 && (!isRss || rssMode === 'tabs') ? `<div class="ranking-tabs" role="tablist" aria-label="${channel.name}榜单">
-        ${visibleRankingNames.map(name => `<button class="ranking-tab ${name === activeRanking ? 'active' : ''}" data-ranking-channel="${key}" data-ranking-name="${escapeHtml(name)}" role="tab" aria-selected="${name === activeRanking}">${escapeHtml(name)}</button>`).join('')}
+      const detailLink = detailUrl === '#' ? '' : `<a class="channel-detail" href="${detailUrl}" target="_blank" rel="noopener">查看详情</a>`;
+      const tabs = rankingNames.length > 1 ? `<div class="ranking-tabs" role="tablist" aria-label="${channel.name}榜单">
+        ${rankingNames.map(name => `<button class="ranking-tab ${name === activeRanking ? 'active' : ''}" data-ranking-channel="${key}" data-ranking-name="${escapeHtml(name)}" role="tab" aria-selected="${name === activeRanking}">${escapeHtml(name)}</button>`).join('')}
       </div>` : '';
       const body = rows.length ? `<ol class="hotlist">${rows.map((item, index) => {
-        const date = isRss && prefs.rssShowPublishedAt ? publishedLabel(item.publishedAt) : '';
-        const source = isRss && rssMode === 'aggregate' ? item.rssSource : '';
-        const meta = [source, date].filter(Boolean).join(' · ');
-        return `<li class="hot-item ${isRss ? 'rss-item' : ''}"><span class="item-rank">${Number(item.rank) || index + 1}</span><a class="item-link" href="${safeUrl(item.url)}" target="_blank" rel="noopener" title="${escapeHtml(item.title)}"><span class="item-title">${escapeHtml(item.title)}</span>${meta ? `<span class="rss-item-meta">${escapeHtml(meta)}</span>` : ''}</a>${!isRss ? `<span class="item-hot">${escapeHtml(fmtHot(item.hot))}</span>` : ''}</li>`;
+        const marker = isLive ? publishedLabel(item.publishedAt).slice(11, 16) || '--:--' : Number(item.rank) || index + 1;
+        return `<li class="hot-item ${isLive ? 'live-item' : ''}"><span class="${isLive ? 'live-time' : 'item-rank'}">${escapeHtml(marker)}</span><a class="item-link" href="${safeUrl(item.url)}" target="_blank" rel="noopener" title="${escapeHtml(item.title)}"><span class="item-title">${escapeHtml(item.title)}</span></a>${!isLive ? `<span class="item-hot">${escapeHtml(fmtHot(item.hot))}</span>` : ''}</li>`;
       }).join('')}</ol>`
         : `<div class="empty-channel"><div><strong>暂无可展示数据</strong>${escapeHtml(channel.statusMessage || '等待下一次渠道采集')}</div></div>`;
-      const modeNote = isRss ? ` · <span class="rss-mode-note">${RSS_MODES[rssMode]}</span>` : '';
-      const providerNote = !isRss && provider?.name
+      const providerNote = provider?.name
         ? ` · <span class="provider-note" title="实际数据源：${escapeHtml(provider.name)}">来源 ${escapeHtml(provider.name)}</span>`
         : '';
       const status = ['ok', 'stale', 'error', 'disabled'].includes(channel.status) ? channel.status : 'unavailable';
@@ -1460,7 +1454,7 @@
         ? `${channel.statusMessage}；最近检查 ${shortDateTime(channel.checkedAt)}`
         : channel.statusMessage;
       return `<article class="channel-card" data-channel="${key}">
-        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${channel.name}</div><div class="channel-sub">${isRss ? `${visibleRankingNames.length} 个源` : visibleRankingNames.length > 1 ? `${visibleRankingNames.length} 个榜单` : activeRanking} · <span class="channel-status status-${status}" title="${escapeHtml(statusTitle)}">${channelStatusLabel(status)}</span> · 更新 ${channel.updated}${modeNote}${providerNote}</div></div></div><div class="channel-count"><strong>${rows.length}</strong>共 ${allRows.length} 条</div></header>${tabs}<div class="channel-body">${body}</div><footer class="channel-foot">${detailLink}</footer>
+        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${channel.name}</div><div class="channel-sub">${rankingNames.length > 1 ? `${rankingNames.length} 个榜单` : activeRanking} · <span class="channel-status status-${status}" title="${escapeHtml(statusTitle)}">${channelStatusLabel(status)}</span> · 更新 ${channel.updated}${providerNote}</div></div></div><div class="channel-count"><strong>${rows.length}</strong>共 ${allRows.length} 条</div></header>${tabs}<div class="channel-body">${body}</div><footer class="channel-foot">${detailLink}</footer>
       </article>`;
     }
 
@@ -1494,7 +1488,6 @@
         savePrefs();
         renderChannels();
       }));
-      document.querySelectorAll('[data-open-rss]').forEach(button => button.addEventListener('click', openRssDialog));
     }
 
     function renderPreferenceChoices() {
@@ -1509,38 +1502,6 @@
         button.classList.toggle('active', selected);
         button.setAttribute('aria-pressed', String(selected));
       });
-      document.querySelectorAll('[data-rss-mode-choice]').forEach(button => {
-        const selected = button.dataset.rssModeChoice === prefs.rssMode;
-        button.classList.toggle('active', selected);
-        button.setAttribute('aria-pressed', String(selected));
-      });
-      const visible = document.getElementById('rssVisibleToggle');
-      const published = document.getElementById('rssPublishedToggle');
-      if (visible) visible.checked = Boolean(prefs.visible.rss);
-      if (published) published.checked = Boolean(prefs.rssShowPublishedAt);
-    }
-
-    function renderRssSettings() {
-      const container = document.getElementById('rssFeedSettings');
-      if (!container) return;
-      const names = Object.keys(CHANNEL_RANKINGS.rss || {}).filter(name => !['等待采集', '暂无数据'].includes(name));
-      container.innerHTML = names.length
-        ? `<div class="rss-feed-title">各源展示与条数</div>${names.map(name => `<div class="rss-feed-row"><label class="rss-feed-name" title="${escapeHtml(name)}"><input type="checkbox" data-rss-enabled="${escapeHtml(name)}" ${rssEnabledFor(name) ? 'checked' : ''}> <span>${escapeHtml(name)}</span></label><select data-rss-limit="${escapeHtml(name)}" aria-label="${escapeHtml(name)}显示条数"><option value="1">1 条</option><option value="2">2 条</option><option value="3">3 条</option><option value="4">4 条</option><option value="5">5 条</option></select></div>`).join('')}`
-        : '<div class="setting-help">加载 RSS 快照后可分别设置各源条数。</div>';
-      container.querySelectorAll('[data-rss-limit]').forEach(select => {
-        const name = select.dataset.rssLimit;
-        select.value = String(rssLimitFor(name));
-        select.addEventListener('change', () => {
-          prefs.rssLimits[name] = Math.max(1, Math.min(5, Number(select.value) || 5));
-          savePrefs();
-          renderChannels();
-        });
-      });
-      container.querySelectorAll('[data-rss-enabled]').forEach(input => input.addEventListener('change', () => {
-        prefs.rssEnabled[input.dataset.rssEnabled] = input.checked;
-        savePrefs();
-        renderChannels();
-      }));
     }
 
     function renderSettings() {
@@ -1556,7 +1517,6 @@
         renderChannels();
       }));
       bindChannelSorting();
-      renderRssSettings();
       renderPreferenceChoices();
     }
 
@@ -1754,23 +1714,58 @@
       }
     }
 
+    function snapshotTimeMs(value) {
+      const text = String(value || '').trim();
+      if (!text) return Number.NaN;
+      const projectTime = /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(text)
+        ? `${text.replace(' ', 'T')}+08:00`
+        : text;
+      return Date.parse(projectTime);
+    }
+
+    function snapshotIsExpired(snapshot, channel, nowMs = Date.now()) {
+      const staleAfterHours = Number(channel.staleAfterHours);
+      const fetchedAt = snapshotTimeMs(snapshot.fetchedAt);
+      return snapshot.status === 'stale'
+        && staleAfterHours > 0
+        && Number.isFinite(fetchedAt)
+        && nowMs - fetchedAt > staleAfterHours * 60 * 60 * 1000;
+    }
+
     function applyLatest(payload) {
       Object.keys(CHANNEL_RANKINGS).forEach(key => {
         CHANNEL_RANKINGS[key] = { '等待采集': [] };
         CHANNEL_RANKING_URLS[key] = {};
         CHANNEL_RANKING_PROVIDERS[key] = {};
+        CHANNEL_RANKING_SURFACES[key] = {};
         CHANNELS[key].status = 'unavailable';
         CHANNELS[key].checkedAt = '';
         CHANNELS[key].statusMessage = '该渠道尚无统一快照';
       });
+      const effectiveStatuses = [];
       for (const snapshot of payload.channels || []) {
         const key = snapshot.channelId;
         if (!CHANNELS[key]) continue;
+        const snapshotRankings = Array.isArray(snapshot.rankings) ? snapshot.rankings : [];
+        if (key === 'bing' && !snapshotRankings.some(ranking => ranking.id === 'domestic-trending')) {
+          CHANNELS[key].status = 'unavailable';
+          CHANNELS[key].statusMessage = '历史国际版快照已停用，等待国内热点采集';
+          CHANNEL_RANKINGS[key] = { '暂无数据': [] };
+          effectiveStatuses.push('unavailable');
+          continue;
+        }
         CHANNELS[key].name = snapshot.channelName || CHANNELS[key].name;
         CHANNELS[key].sourceUrl = snapshot.sourceUrl || CHANNELS[key].sourceUrl;
         CHANNELS[key].updated = shortDateTime(snapshot.fetchedAt);
         CHANNELS[key].status = snapshot.status || 'unavailable';
         CHANNELS[key].checkedAt = snapshot.checkedAt || '';
+        if (snapshotIsExpired(snapshot, CHANNELS[key])) {
+          CHANNELS[key].status = 'unavailable';
+          CHANNELS[key].statusMessage = '旧快照已超过保留时限，等待国内热点重新采集';
+          CHANNEL_RANKINGS[key] = { '暂无数据': [] };
+          effectiveStatuses.push('unavailable');
+          continue;
+        }
         const warnings = Array.isArray(snapshot.warnings) ? snapshot.warnings.filter(Boolean) : [];
         CHANNELS[key].statusMessage = snapshot.status === 'disabled'
           ? '需要在环境变量中启用该渠道'
@@ -1786,7 +1781,8 @@
         const rankings = {};
         const rankingUrls = {};
         const rankingProviders = {};
-        for (const ranking of snapshot.rankings || []) {
+        const rankingSurfaces = {};
+        for (const ranking of snapshotRankings) {
           rankings[ranking.name] = (ranking.items || []).map(item => ({
             ...item,
             channel: key,
@@ -1797,13 +1793,15 @@
             name: ranking.providerName || '',
             url: ranking.providerUrl || ''
           };
+          rankingSurfaces[ranking.name] = ranking.surface || 'hotlist';
         }
         CHANNEL_RANKINGS[key] = Object.keys(rankings).length ? rankings : { '暂无数据': [] };
         CHANNEL_RANKING_URLS[key] = rankingUrls;
         CHANNEL_RANKING_PROVIDERS[key] = rankingProviders;
+        CHANNEL_RANKING_SURFACES[key] = rankingSurfaces;
+        effectiveStatuses.push(CHANNELS[key].status);
       }
-      const statusCounts = (payload.channels || []).reduce((counts, item) => {
-        const status = item.status || 'unavailable';
+      const statusCounts = effectiveStatuses.reduce((counts, status) => {
         counts[status] = (counts[status] || 0) + 1;
         return counts;
       }, {});
@@ -1824,11 +1822,13 @@
       renderSettings();
     }
 
-    async function fetchJson(path) {
+    async function fetchJson(path, forceRefresh = false) {
       const controller = new AbortController();
       const timer = setTimeout(() => controller.abort(), 15000);
       try {
-        const response = await fetch(path, { cache: 'no-cache', signal: controller.signal });
+        const options = { signal: controller.signal };
+        if (forceRefresh) options.cache = 'reload';
+        const response = await fetch(path, options);
         if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
         return await response.json();
       } finally {
@@ -1877,13 +1877,13 @@
     let historyLoaded = false;
     let historyLoading = false;
 
-    async function loadLatest() {
+    async function loadLatest(forceRefresh = false) {
       if (latestLoading) return;
       latestLoading = true;
       document.getElementById('retryLatest').hidden = true;
       document.getElementById('latestNote').textContent = '正在加载各渠道最新快照';
       try {
-        applyLatest(await fetchJson('./data/latest.json'));
+        applyLatest(await fetchJson('./data/latest.json', forceRefresh));
       } catch {
         document.getElementById('syncStatus').textContent = '快照加载失败';
         document.getElementById('latestNote').textContent = '快照暂不可用，请检查网络后重试';
@@ -1953,31 +1953,12 @@
       renderPreferenceChoices();
       renderChannels();
     }));
-    document.querySelectorAll('[data-rss-mode-choice]').forEach(button => button.addEventListener('click', () => {
-      if (!Object.hasOwn(RSS_MODES, button.dataset.rssModeChoice)) return;
-      prefs.rssMode = button.dataset.rssModeChoice;
-      savePrefs();
-      renderPreferenceChoices();
-      renderChannels();
-    }));
-    document.getElementById('rssVisibleToggle').addEventListener('change', event => {
-      prefs.visible.rss = event.target.checked;
-      savePrefs();
-      renderSettings();
-      renderChannels();
-    });
-    document.getElementById('rssPublishedToggle').addEventListener('change', event => {
-      prefs.rssShowPublishedAt = event.target.checked;
-      savePrefs();
-      renderChannels();
-    });
     document.getElementById('drawerTopCount').addEventListener('change', event => { prefs.topCount = Math.min(50, Number(event.target.value) || 20); savePrefs(); renderChannels(); });
     MOBILE_VIEWPORT.addEventListener('change', renderChannels);
     document.getElementById('resetSettings').addEventListener('click', () => { prefs = structuredClone(defaultPrefs); savePrefs(); renderSettings(); renderChannels(); showToast('已恢复默认显示设置'); });
     document.getElementById('closeTopicDialog').addEventListener('click', () => document.getElementById('topicDialog').close());
-    document.getElementById('closeRssDialog').addEventListener('click', () => document.getElementById('rssDialog').close());
     document.getElementById('historyDateSelect').addEventListener('change', event => loadSelectedHistory(event.target.value));
-    document.getElementById('retryLatest').addEventListener('click', loadLatest);
+    document.getElementById('retryLatest').addEventListener('click', () => loadLatest(true));
     document.addEventListener('keydown', event => { if (event.key === 'Escape') closeSettings(); });
 
     renderTopList('todayTop', topTopics);
