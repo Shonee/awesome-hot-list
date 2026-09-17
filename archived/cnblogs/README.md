@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-17 17:24:54
+> 更新时间：2026-09-17 18:22:33
 
 ## 最新帖子
 
-1. [Excel 列转行/行列转换全指南：从 4 种常见解法到 Python 批量自动化](https://www.cnblogs.com/Yesi/p/23015583)
-2. [基于 LlamaIndex 实现RAG向量检索入门](https://www.cnblogs.com/LyShark/p/23014455)
-3. [Python 可变默认参数导致的分页故障：从现象到根因到修复](https://www.cnblogs.com/exioran/p/23011869)
-4. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
-5. [DDD、SOA、微服务和微内核](https://www.cnblogs.com/xiexj/p/23010353)
-6. [标准外设库到底在替你做什么：从时钟到 GPIO 的一次完整调用](https://www.cnblogs.com/zw-awa/p/22994720)
-7. [告别“散装 AI ”：用 SKILL 编排对存量代码做“微创手术”](https://www.cnblogs.com/vivotech/p/23009536)
-8. [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线](https://www.cnblogs.com/goodhacker/p/23008551)
-9. [AI 赋能 Push Kit 场景化消息开发，高效完成鸿蒙应用推送能力接入](https://www.cnblogs.com/HarmonyOSSDK/p/23008151)
-10. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
-11. [数据脱敏是怎么做的](https://www.cnblogs.com/zrui-xyu/p/23007299)
-12. [Kafka 三节点集群：只订阅一个 broker 会丢消息吗？能用 VIP订阅 吗？](https://www.cnblogs.com/zjdxr-up/p/23007196)
-13. [从一份 README 到 3 万星，RustFS 这一年都干了什么？](https://www.cnblogs.com/xueweihan/p/22970800)
-14. [前端框架选择的思考](https://www.cnblogs.com/ChineseLiao/p/23006388)
-15. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
-16. [薅WorkBuddy羊毛，无限使用DeepSeek，自动签到+积分躺赚+通用 API 接口](https://www.cnblogs.com/degao/p/23006284)
-17. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
-18. [你以为加个 TenantId 字段就算隔离了，其实还差三道防线](https://www.cnblogs.com/shenchuanchao/p/22993507/tenant-id-field-not-enough-three-defense-lines)
-19. [你在用AI，还是在围观AI？](https://www.cnblogs.com/cicada-smile/p/23005786)
-20. [执行新项目 python 脚本前，先用 conda 建一个独立环境](https://www.cnblogs.com/jyzhao/p/23005659)
+1. [并发编程（二）：语言内存模型——程序员可以依赖的规则](https://www.cnblogs.com/ThinkerQAQ/p/23002812)
+2. [MynaTest｜一款面向 Web 测试人员的 Chrome MV3 扩展，开箱即用的测试辅助工具集](https://www.cnblogs.com/tynam/p/23016207)
+3. [Excel 列转行/行列转换全指南：从 4 种常见解法到 Python 批量自动化](https://www.cnblogs.com/Yesi/p/23015583)
+4. [基于 LlamaIndex 实现RAG向量检索入门](https://www.cnblogs.com/LyShark/p/23014455)
+5. [Python 可变默认参数导致的分页故障：从现象到根因到修复](https://www.cnblogs.com/exioran/p/23011869)
+6. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
+7. [DDD、SOA、微服务和微内核](https://www.cnblogs.com/xiexj/p/23010353)
+8. [标准外设库到底在替你做什么：从时钟到 GPIO 的一次完整调用](https://www.cnblogs.com/zw-awa/p/22994720)
+9. [告别“散装 AI ”：用 SKILL 编排对存量代码做“微创手术”](https://www.cnblogs.com/vivotech/p/23009536)
+10. [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线](https://www.cnblogs.com/goodhacker/p/23008551)
+11. [AI 赋能 Push Kit 场景化消息开发，高效完成鸿蒙应用推送能力接入](https://www.cnblogs.com/HarmonyOSSDK/p/23008151)
+12. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
+13. [数据脱敏是怎么做的](https://www.cnblogs.com/zrui-xyu/p/23007299)
+14. [Kafka 三节点集群：只订阅一个 broker 会丢消息吗？能用 VIP订阅 吗？](https://www.cnblogs.com/zjdxr-up/p/23007196)
+15. [从一份 README 到 3 万星，RustFS 这一年都干了什么？](https://www.cnblogs.com/xueweihan/p/22970800)
+16. [前端框架选择的思考](https://www.cnblogs.com/ChineseLiao/p/23006388)
+17. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
+18. [薅WorkBuddy羊毛，无限使用DeepSeek，自动签到+积分躺赚+通用 API 接口](https://www.cnblogs.com/degao/p/23006284)
+19. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
+20. [你以为加个 TenantId 字段就算隔离了，其实还差三道防线](https://www.cnblogs.com/shenchuanchao/p/22993507/tenant-id-field-not-enough-three-defense-lines)
 
 ## 精华帖子
 
