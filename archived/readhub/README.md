@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-18 03:18:32
+> 更新时间：2026-09-18 04:22:43
 
 ## 24 小时热榜
 
@@ -24,12 +24,12 @@
 18. [广州提议禁止公共交通内外放声音](https://readhub.cn/topic/8wTErWBEXQb?tab=daily)
 19. [匿名模型 Union Alpha 上线，首日处理 20 亿 Token](https://readhub.cn/topic/8wUW8KVVwtT?tab=daily)
 20. [华为发布业界首个 NPO 技术的昇腾 960 超节点](https://readhub.cn/topic/8wUVO7AYE0w?tab=daily)
-21. [豆包大模型 2.1 Pro 升级：降幻觉、提 Agent 及多模态能力](https://readhub.cn/topic/8wU7nZ7vy6H?tab=daily)
-22. [GLM 披露国内首个 RSI 工程实践](https://readhub.cn/topic/8wUnbsJZnR6?tab=daily)
-23. [华为发布新 AI 计算架构 让百万处理器成为一台计算机](https://readhub.cn/topic/8wUrXA58ho3?tab=daily)
-24. [徐罡团队以跨模态迁移破局 RNA 领域数据瓶颈](https://readhub.cn/topic/8wUR7Y8Fuif?tab=daily)
-25. [夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖](https://readhub.cn/topic/8wUkODwrbhr?tab=daily)
-26. [Anthropic 将合并 Claude 系列产品，推出统一办公入口](https://readhub.cn/topic/8wUC6cLFti1?tab=daily)
+21. [华为发布新 AI 计算架构 让百万处理器成为一台计算机](https://readhub.cn/topic/8wUrXA58ho3?tab=daily)
+22. [豆包大模型 2.1 Pro 升级：降幻觉、提 Agent 及多模态能力](https://readhub.cn/topic/8wU7nZ7vy6H?tab=daily)
+23. [GLM 披露国内首个 RSI 工程实践](https://readhub.cn/topic/8wUnbsJZnR6?tab=daily)
+24. [夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖](https://readhub.cn/topic/8wUkODwrbhr?tab=daily)
+25. [Anthropic 将合并 Claude 系列产品，推出统一办公入口](https://readhub.cn/topic/8wUC6cLFti1?tab=daily)
+26. [徐罡团队以跨模态迁移破局 RNA 领域数据瓶颈](https://readhub.cn/topic/8wUR7Y8Fuif?tab=daily)
 27. [Polymarket 签勒布朗・詹姆斯代言，年薪超其 NBA 合同](https://readhub.cn/topic/8wUNWJkqgtu?tab=daily)
 28. [烽火通信实现单盘 110 公里空芯光纤连续拉制](https://readhub.cn/topic/8wUjKySt0p0?tab=daily)
 29. [小米、刘强东等入股上海五源识远私募基金](https://readhub.cn/topic/8wUnFYtDP3J?tab=daily)
@@ -56,4 +56,4 @@
 7. [九识建成首个 L4 万卡集群，无人驾驶进入多模态大模型新范式](https://www.leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html)
 8. [360 纳米 Work 启动「双城千店上岗计划」探索实体商业 AI 落地新路径](https://www.leiphone.com/category/industrynews/IX9DPt2tjo0E0gDh.html)
 9. [小米公开 MiMo-V2.6 大模型 RL 训练过程 罗福莉发文确认将开源技术细节](https://www.aibase.com/zh/news/31131)
-10. [Claude 王座失守 OpenAI 一夜反超，神秘 GPT-6 Sol 偷跑](https://hub.baai.ac.cn/view/58047)
+10. [KPMG：2026 年第二季度全球 AI 脉搏报告](https://www.199it.com/archives/1838619.html)
