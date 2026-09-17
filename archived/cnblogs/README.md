@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-17 09:32:00
+> 更新时间：2026-09-17 10:31:06
 
 ## 最新帖子
 
-1. [从一份 README 到 3 万星，RustFS 这一年都干了什么？](https://www.cnblogs.com/xueweihan/p/22970800)
-2. [前端框架选择的思考](https://www.cnblogs.com/ChineseLiao/p/23006388)
-3. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
-4. [薅WorkBuddy羊毛，无限使用DeepSeek，自动签到+积分躺赚+通用 API 接口](https://www.cnblogs.com/degao/p/23006284)
-5. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
-6. [你以为加个 TenantId 字段就算隔离了，其实还差三道防线](https://www.cnblogs.com/shenchuanchao/p/22993507/tenant-id-field-not-enough-three-defense-lines)
-7. [你在用AI，还是在围观AI？](https://www.cnblogs.com/cicada-smile/p/23005786)
-8. [执行新项目 python 脚本前，先用 conda 建一个独立环境](https://www.cnblogs.com/jyzhao/p/23005659)
-9. [Codex 重置雷达 1.3 发布：新增重置预测与阈值提醒，附 3 周 1200 人复盘](https://www.cnblogs.com/gdutxiaoxu/p/23002964)
-10. [机器学习项目：二手车价格预测](https://www.cnblogs.com/myInception/p/23002903)
-11. [把 LLM 密钥从环境变量里解放出来：OpenClaw.NET 迎来 Vault/OpenBao 密钥后端](https://www.cnblogs.com/shanyou/p/23002448)
-12. [如何使用 Bash 进行数据清洗](https://www.cnblogs.com/wang_yb/p/23002397)
-13. [卓驭：基于 JuiceFS 百 PB 级智驾数据存储架构演进](https://www.cnblogs.com/JuiceData/p/23000985)
-14. [Ubuntu 22.04 Docker 从零部署全栈项目实录：Next.js + FastAPI + PostgreSQL 一次跑通](https://www.cnblogs.com/shenchuanchao/p/23000365/ubuntu-2204-docker-deployment-record)
-15. [聊聊最近很火的FDE](https://www.cnblogs.com/dotnetcrazy/p/22999992)
-16. [Codesys 应用实践 - 上下位机闭环](https://www.cnblogs.com/Zhouyongh/p/22998823)
-17. [BRP，如何用“反向构造”让黑盒对抗 Patch 更省查询？](https://www.cnblogs.com/heyonggang/p/22998269)
-18. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
-19. [LLM论文研读：Trace as State——把思考过程放到问题之前，真的能让大模型更会推理吗？](https://www.cnblogs.com/mengrennwpu/p/22997077)
-20. [Openplc与Fractory IO联合仿真](https://www.cnblogs.com/19373400weileng/p/22996816)
+1. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
+2. [数据脱敏是怎么做的](https://www.cnblogs.com/zrui-xyu/p/23007299)
+3. [Kafka 三节点集群：只订阅一个 broker 会丢消息吗？能用 VIP订阅 吗？](https://www.cnblogs.com/zjdxr-up/p/23007196)
+4. [从一份 README 到 3 万星，RustFS 这一年都干了什么？](https://www.cnblogs.com/xueweihan/p/22970800)
+5. [前端框架选择的思考](https://www.cnblogs.com/ChineseLiao/p/23006388)
+6. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
+7. [薅WorkBuddy羊毛，无限使用DeepSeek，自动签到+积分躺赚+通用 API 接口](https://www.cnblogs.com/degao/p/23006284)
+8. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
+9. [你以为加个 TenantId 字段就算隔离了，其实还差三道防线](https://www.cnblogs.com/shenchuanchao/p/22993507/tenant-id-field-not-enough-three-defense-lines)
+10. [你在用AI，还是在围观AI？](https://www.cnblogs.com/cicada-smile/p/23005786)
+11. [执行新项目 python 脚本前，先用 conda 建一个独立环境](https://www.cnblogs.com/jyzhao/p/23005659)
+12. [Codex 重置雷达 1.3 发布：新增重置预测与阈值提醒，附 3 周 1200 人复盘](https://www.cnblogs.com/gdutxiaoxu/p/23002964)
+13. [机器学习项目：二手车价格预测](https://www.cnblogs.com/myInception/p/23002903)
+14. [把 LLM 密钥从环境变量里解放出来：OpenClaw.NET 迎来 Vault/OpenBao 密钥后端](https://www.cnblogs.com/shanyou/p/23002448)
+15. [如何使用 Bash 进行数据清洗](https://www.cnblogs.com/wang_yb/p/23002397)
+16. [卓驭：基于 JuiceFS 百 PB 级智驾数据存储架构演进](https://www.cnblogs.com/JuiceData/p/23000985)
+17. [Ubuntu 22.04 Docker 从零部署全栈项目实录：Next.js + FastAPI + PostgreSQL 一次跑通](https://www.cnblogs.com/shenchuanchao/p/23000365/ubuntu-2204-docker-deployment-record)
+18. [聊聊最近很火的FDE](https://www.cnblogs.com/dotnetcrazy/p/22999992)
+19. [Codesys 应用实践 - 上下位机闭环](https://www.cnblogs.com/Zhouyongh/p/22998823)
+20. [BRP，如何用“反向构造”让黑盒对抗 Patch 更省查询？](https://www.cnblogs.com/heyonggang/p/22998269)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [AVX性能暴涨135%，吊打OpenVINO.NET——SimdPaddleOCR 1.3发布！](https://www.cnblogs.com/sdcb/p/22973218/20260914-simdpaddleocr-1-3)
-2. [记一次 .NET 某珠宝公司内部管理系统 内存暴涨分析](https://www.cnblogs.com/huangxincheng/p/22983141)
-3. [开源：基于.Net开发的数据库自治诊断平台——DBPilot](https://www.cnblogs.com/skychen1218/p/22961976)
-4. [2026 性能测试工具大盘点：13 款主流压测工具，测试工程师必备！](https://www.cnblogs.com/jinjiangongzuoshi/p/22975900)
-5. [中医竟是AI Harness祖师爷？](https://www.cnblogs.com/east4ming/p/22979442)
-6. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
+1. [记一次 .NET 某珠宝公司内部管理系统 内存暴涨分析](https://www.cnblogs.com/huangxincheng/p/22983141)
+2. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
+3. [中医竟是AI Harness祖师爷？](https://www.cnblogs.com/east4ming/p/22979442)
+4. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
+5. [模型聪明了 10 倍，为什么你的 Agent 每天还在过《土拨鼠之日》？](https://www.cnblogs.com/swizard/p/22990047)
+6. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)

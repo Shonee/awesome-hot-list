@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-17 09:32:49
+> 更新时间：2026-09-17 10:31:49
 
 ## IT之家
 
-1. [七彩虹上架 iGame 御甲 G114 智显充电器：140W 四口，199 元](https://www.ithome.com/1/003/388.htm)
-2. [影石法务部称遭遇有组织黑水军攻击：已有同行业公司高管被行政拘留，举报者获奖 1 万元](https://www.ithome.com/1/003/387.htm)
-3. [行业首个，消息称一加 16 手机 165Hz 超高刷“能下载的应用都能开”](https://www.ithome.com/1/003/386.htm)
-4. [苹果 iPhone 18 Pro/Max 零售包装曝光](https://www.ithome.com/1/003/385.htm)
-5. [599 元起飞智八爪鱼 6/Pro 手柄发售：《明日方舟：终末地》联名款 799 元，《绝区零》《影之刃零》联名 899 元](https://www.ithome.com/1/003/384.htm)
+1. [小米推出米家杀菌足浴器 2：三段按摩 + 升降雨幕，首发 409 元](https://www.ithome.com/1/003/412.htm)
+2. [我国成功发射卫星互联网低轨 25 组卫星](https://www.ithome.com/1/003/411.htm)
+3. [微软承认 9 月 Win11 更新可能破坏域信任关系](https://www.ithome.com/1/003/409.htm)
+4. [酷态科 10 号一分二智转线 Ultra 开启预约：首款接入米家 App 的屏显数据线，首发 129 元](https://www.ithome.com/1/003/408.htm)
+5. [IT之家鸿蒙版 9.0 重大更新：适配鸿蒙 7.0、小尾巴颜色、首页事件日历等超多更新](https://www.ithome.com/1/003/407.htm)
 
 ## 少数派
 
@@ -28,19 +28,19 @@
 
 ## 量子位
 
-1. [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
-2. [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
-3. [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
-4. [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
-5. [协同办公进入Agent时代，飞书+豆包工作跑在了最前面](https://www.qbitai.com/2026/09/490686.html)
+1. [罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元](https://www.qbitai.com/2026/09/490950.html)
+2. [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
+3. [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
+4. [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
+5. [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
 
 ## InfoQ
 
-1. [在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？](https://www.infoq.cn/article/ZFk50FZmqsgY7uShA2Gw?utm_source=rss&utm_medium=article)
-2. [亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article)
-3. [实测 Vibe Key：开口使唤 AI，真有当甲方的感觉](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article)
-4. [Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案](https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&utm_medium=article)
-5. [从概率生成到稳定交付：AIGC专业内容生产的工程化挑战](https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article)
+1. [如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海](https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article)
+2. [Snowflake World Tour 上海站 Keynote——Snowflake 企业级智能体](https://www.infoq.cn/video/81qDfiHlpMYmNUg269l8?utm_source=rss&utm_medium=article)
+3. [在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？](https://www.infoq.cn/article/ZFk50FZmqsgY7uShA2Gw?utm_source=rss&utm_medium=article)
+4. [亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article)
+5. [实测 Vibe Key：开口使唤 AI，真有当甲方的感觉](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 

@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-17 09:32:20
+> 更新时间：2026-09-17 10:31:24
 
 ## 热新闻
 
@@ -8,8 +8,8 @@
 2. [马上评｜“难不难吃”属于个人口味，做好产品才是关键](https://www.thepaper.cn/newsDetail_forward_34081598)
 3. [南方医科大学通报学生坠楼事件：排除他杀，学校成立工作专班](https://www.thepaper.cn/newsDetail_forward_34082570)
 4. [亚运男足首战，U23国足2比1战胜朝鲜](https://www.thepaper.cn/newsDetail_forward_34082468)
-5. [钟薛高重启！预计四季度产品上市，新老板是谁？为何定价6-8元？](https://www.thepaper.cn/newsDetail_forward_34082175)
-6. [游客建议泸州东站更名续：12306客户端已增加弹窗提示](https://www.thepaper.cn/newsDetail_forward_34082760)
+5. [游客建议泸州东站更名续：12306客户端已增加弹窗提示](https://www.thepaper.cn/newsDetail_forward_34082760)
+6. [钟薛高重启！预计四季度产品上市，新老板是谁？为何定价6-8元？](https://www.thepaper.cn/newsDetail_forward_34082175)
 7. [“榆林41岁患者死后电子病历被鉴定为不真实”续：一审判医院赔偿131万余元](https://www.thepaper.cn/newsDetail_forward_34082863)
 8. [受赠文物事件处理结果公布！南京博物院原院长徐湖平获刑三年](https://www.thepaper.cn/newsDetail_forward_34081492)
 9. [经纬度：“全网最低价”为什么必须叫停](https://www.thepaper.cn/newsDetail_forward_34080119)
@@ -18,9 +18,9 @@
 12. [见微知沪｜一座图书馆，如何“托住”普通人的拼搏和梦想](https://www.thepaper.cn/newsDetail_forward_34074470)
 13. [香港特区首个五年规划正式公布](https://www.thepaper.cn/newsDetail_forward_34079690)
 14. [被罗永浩吐槽难吃后，野人先生发文：对广大顾客意见和建议用心聆听，努力做得更好](https://www.thepaper.cn/newsDetail_forward_34080590)
-15. [广州拟立法处罚噪声污染：乘地铁外放手机声音最高罚1000元](https://www.thepaper.cn/newsDetail_forward_34079636)
-16. [黄仁勋再次发声反对AI减速：创新和安全不是二选一](https://www.thepaper.cn/newsDetail_forward_34079491)
-17. [海归女硕士人才引进考试拔头筹因“专升本”被取消资格，用人单位：资格审查时错误理解条款](https://www.thepaper.cn/newsDetail_forward_34079916)
-18. [学生信息竟成黑市商品，新华时评：对“内鬼”及背后灰黑产零容忍](https://www.thepaper.cn/newsDetail_forward_34079152)
-19. [高手，在身边｜有传承不守旧，法式蝴蝶酥如何炼成“上海特产”](https://www.thepaper.cn/newsDetail_forward_34074473)
+15. [单项冠军县，何以扛打｜江苏丹阳何以撑起全球眼镜市场半壁江山](https://www.thepaper.cn/newsDetail_forward_34061880)
+16. [高手，在身边｜有传承不守旧，法式蝴蝶酥如何炼成“上海特产”](https://www.thepaper.cn/newsDetail_forward_34074473)
+17. [广州拟立法处罚噪声污染：乘地铁外放手机声音最高罚1000元](https://www.thepaper.cn/newsDetail_forward_34079636)
+18. [黄仁勋再次发声反对AI减速：创新和安全不是二选一](https://www.thepaper.cn/newsDetail_forward_34079491)
+19. [海归女硕士人才引进考试拔头筹因“专升本”被取消资格，用人单位：资格审查时错误理解条款](https://www.thepaper.cn/newsDetail_forward_34079916)
 20. [马上评｜守护国家文物安全必须动真格、零容忍](https://www.thepaper.cn/newsDetail_forward_34082326)
