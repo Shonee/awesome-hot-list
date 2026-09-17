@@ -20,6 +20,14 @@ class RequestedCollectorTests(unittest.TestCase):
         fallback.assert_called_once()
         self.assertFalse(fallback.call_args.kwargs.get("shell", False))
 
+    def test_bing_returns_disabled_when_primary_blocked_and_fallback_empty(self):
+        with patch.object(bing, "get", side_effect=RuntimeError("blocked")), patch("src.hotlist.channels.bing.subprocess.run", return_value=CompletedProcess([], 0, stdout=b"<html></html>")):
+            result = bing.collect()
+
+        self.assertEqual(result.status, "disabled")
+        self.assertEqual(result.rankings, [])
+        self.assertEqual(result.error, "Bing 国内热点仅返回 0 条有效数据")
+
     def test_hupu_first_ranking_is_clickable_home_posts(self):
         def source(url, **_):
             if url == hupu.HOME_URL:
