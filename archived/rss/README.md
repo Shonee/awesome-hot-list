@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-17 12:27:21
+> 更新时间：2026-09-17 13:24:11
 
 ## IT之家
 
-1. [华为打造业界首个采用 NPO 技术的超节点，汪涛宣布 openEuler 成为中国服务器操作系统份额第一](https://www.ithome.com/1/003/505.htm)
-2. [谷歌推送安卓 17 QPR2 Beta 5 更新：修复通话后蓝牙音频失真等问题](https://www.ithome.com/1/003/470.htm)
-3. [朱江明回应零跑智驾何时追上特斯拉 FSD：没有可比性，中国车不能到美国，FSD 也没在中国落地](https://www.ithome.com/1/003/456.htm)
-4. [朱江明：零跑近期不会把人形机器人作为重点，将来真正能带来价值的还是非人形](https://www.ithome.com/1/003/451.htm)
-5. [一航班落地后客舱冒烟，湖南航空回应称旅客携带的充电宝出现明火](https://www.ithome.com/1/003/449.htm)
+1. [消息称三星 Galaxy S27 Ultra 手机调整拍摄算法，照片色彩更温暖](https://www.ithome.com/1/003/559.htm)
+2. [安森美推出嵌入式电源平台：硅晶圆载板封装，实现 3~5 倍功率密度](https://www.ithome.com/1/003/558.htm)
+3. [英伟达展示 DSX MaxLPS 技术，AI 工厂每兆瓦 token 吞吐量最高提升 40%](https://www.ithome.com/1/003/557.htm)
+4. [别克至境 E7 焕新款定档 9 月 23 日上市，现款车型 14.99 万元起](https://www.ithome.com/1/003/556.htm)
+5. [小米直播训练 MiMo-V2.6 模型，罗福莉称沉寂半年钻研一件事](https://www.ithome.com/1/003/555.htm)
 
 ## 少数派
 
@@ -28,27 +28,27 @@
 
 ## 量子位
 
-1. [比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌](https://www.qbitai.com/2026/09/491062.html)
-2. [网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”](https://www.qbitai.com/2026/09/490974.html)
-3. [罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元](https://www.qbitai.com/2026/09/490950.html)
-4. [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
-5. [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
+1. [首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利](https://www.qbitai.com/2026/09/491147.html)
+2. [国产RSI模型交卷！Flash模型靠它反打旗舰](https://www.qbitai.com/2026/09/491091.html)
+3. [比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌](https://www.qbitai.com/2026/09/491062.html)
+4. [网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”](https://www.qbitai.com/2026/09/490974.html)
+5. [罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元](https://www.qbitai.com/2026/09/490950.html)
 
 ## InfoQ
 
-1. [亚马逊云科技服务越做越多，Terraform Provider 正在变成关键“翻译层”](https://www.infoq.cn/article/W9wJHIvu52BTYVHZZim3?utm_source=rss&utm_medium=article)
-2. [如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海](https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article)
-3. [Snowflake World Tour 上海站 Keynote——Snowflake 企业级智能体](https://www.infoq.cn/video/81qDfiHlpMYmNUg269l8?utm_source=rss&utm_medium=article)
-4. [在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？](https://www.infoq.cn/article/ZFk50FZmqsgY7uShA2Gw?utm_source=rss&utm_medium=article)
-5. [亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article)
+1. [ESLint 最坚固的护城河，正被 Rust 和 Go 联手攻破](https://www.infoq.cn/article/ymjJ9iJxHIU8iYpkPglp?utm_source=rss&utm_medium=article)
+2. [vivo 把 Agent 做进操作系统：6000 多项原子技能开放调用，AgentOS 预览版亮相](https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&utm_medium=article)
+3. [亚马逊云科技服务越做越多，Terraform Provider 正在变成关键“翻译层”](https://www.infoq.cn/article/W9wJHIvu52BTYVHZZim3?utm_source=rss&utm_medium=article)
+4. [如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海](https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article)
+5. [Snowflake World Tour 上海站 Keynote——Snowflake 企业级智能体](https://www.infoq.cn/video/81qDfiHlpMYmNUg269l8?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
-1. [马斯克再暗示合并特斯拉和 SpaceX；传 iPhone 18 Pro 系列卖爆；大疆 Pocket 4P「珠光白」3799 开售｜极客早知道](http://www.geekpark.net/news/370472)
-2. [在飞书的上下文底座上，豆包开工了](http://www.geekpark.net/news/370460)
-3. [Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案](http://www.geekpark.net/news/370453)
-4. [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
-5. [当智能体开始替人花钱，如何证明「它是谁」？](http://www.geekpark.net/news/370440)
+1. [追觅四大赛道 IFA 首秀：一套技术，四个出口](http://www.geekpark.net/news/370506)
+2. [马斯克再暗示合并特斯拉和 SpaceX；传 iPhone 18 Pro 系列卖爆；大疆 Pocket 4P「珠光白」3799 开售｜极客早知道](http://www.geekpark.net/news/370472)
+3. [在飞书的上下文底座上，豆包开工了](http://www.geekpark.net/news/370460)
+4. [Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案](http://www.geekpark.net/news/370453)
+5. [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
 
 ## MIT Technology Review
 

@@ -1,11 +1,11 @@
 # 博客园热榜
 
-> 更新时间：2026-09-17 12:25:34
+> 更新时间：2026-09-17 13:23:10
 
 ## 最新帖子
 
-1. [标准外设库到底在替你做什么：从时钟到 GPIO 的一次完整调用](https://www.cnblogs.com/zw-awa/p/22994720)
-2. [私有化部署的成本账：算力、模型、运维三层隐性清单](https://www.cnblogs.com/codigger/p/23009749)
+1. [DDD、SOA、微服务和微内核](https://www.cnblogs.com/xiexj/p/23010353)
+2. [标准外设库到底在替你做什么：从时钟到 GPIO 的一次完整调用](https://www.cnblogs.com/zw-awa/p/22994720)
 3. [告别“散装 AI ”：用 SKILL 编排对存量代码做“微创手术”](https://www.cnblogs.com/vivotech/p/23009536)
 4. [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线](https://www.cnblogs.com/goodhacker/p/23008551)
 5. [AI 赋能 Push Kit 场景化消息开发，高效完成鸿蒙应用推送能力接入](https://www.cnblogs.com/HarmonyOSSDK/p/23008151)
@@ -52,7 +52,7 @@
 
 1. [记一次 .NET 某珠宝公司内部管理系统 内存暴涨分析](https://www.cnblogs.com/huangxincheng/p/22983141)
 2. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
-3. [中医竟是AI Harness祖师爷？](https://www.cnblogs.com/east4ming/p/22979442)
-4. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
+3. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
+4. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
 5. [模型聪明了 10 倍，为什么你的 Agent 每天还在过《土拨鼠之日》？](https://www.cnblogs.com/swizard/p/22990047)
-6. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
+6. [DBA 经验:MySQL性能最重要的参数只有2个！](https://www.cnblogs.com/xiexj/p/22993301)
