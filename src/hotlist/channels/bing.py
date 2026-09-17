@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from src.utils.http_utils import get
 
 from ..models import HotItem, Ranking
-from .common import snapshot
+from .common import snapshot, unavailable
 
 
 SOURCE_URL = "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans"
@@ -71,5 +71,5 @@ def collect() -> "ChannelSnapshot":
         except (OSError, subprocess.SubprocessError) as exc:
             logger.warning("必应备用请求失败: %s", exc)
     if len(items) < 3:
-        raise RuntimeError(f"Bing 国内热点仅返回 {len(items)} 条有效数据")
+        return unavailable("bing", f"Bing 国内热点仅返回 {len(items)} 条有效数据")
     return snapshot("bing", [Ranking("domestic-trending", "国内热点", items, SOURCE_URL, "必应官方", SOURCE_URL)])
