@@ -1,12 +1,12 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-17 10:31:27
+> 更新时间：2026-09-17 11:26:17
 
 ## 最有料热点
 
-1. [勇哥跑路,B站切片全停](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364551&topic_name=%E5%8B%87%E5%93%A5%E8%B7%91%E8%B7%AF%2CB%E7%AB%99%E5%88%87%E7%89%87%E5%85%A8%E5%81%9C)
-2. [TES法务出击,陀螺键帽下架](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364556&topic_name=TES%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E9%99%80%E8%9E%BA%E9%94%AE%E5%B8%BD%E4%B8%8B%E6%9E%B6)
-3. [草台班子!亚运代表队被困机场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364580&topic_name=%E8%8D%89%E5%8F%B0%E7%8F%AD%E5%AD%90%21%E4%BA%9A%E8%BF%90%E4%BB%A3%E8%A1%A8%E9%98%9F%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA)
+1. [草台班子!亚运代表队被困机场](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364580&topic_name=%E8%8D%89%E5%8F%B0%E7%8F%AD%E5%AD%90%21%E4%BA%9A%E8%BF%90%E4%BB%A3%E8%A1%A8%E9%98%9F%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA)
+2. [勇哥跑路,B站切片全停](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364551&topic_name=%E5%8B%87%E5%93%A5%E8%B7%91%E8%B7%AF%2CB%E7%AB%99%E5%88%87%E7%89%87%E5%85%A8%E5%81%9C)
+3. [TES法务出击,陀螺键帽下架](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364556&topic_name=TES%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E9%99%80%E8%9E%BA%E9%94%AE%E5%B8%BD%E4%B8%8B%E6%9E%B6)
 4. [deepseek工程师自嘲被AI取代](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3)
 5. [孙子查出非亲生,鉴定机构挨罚](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364467&topic_name=%E5%AD%99%E5%AD%90%E6%9F%A5%E5%87%BA%E9%9D%9E%E4%BA%B2%E7%94%9F%2C%E9%89%B4%E5%AE%9A%E6%9C%BA%E6%9E%84%E6%8C%A8%E7%BD%9A)
 6. [Uzi对线粉丝:观众事多礼少](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364471&topic_name=Uzi%E5%AF%B9%E7%BA%BF%E7%B2%89%E4%B8%9D%3A%E8%A7%82%E4%BC%97%E4%BA%8B%E5%A4%9A%E7%A4%BC%E5%B0%91)
@@ -33,4 +33,3 @@
 27. [日本女演员在公关男友家自杀](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364283&topic_name=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%BC%94%E5%91%98%E5%9C%A8%E5%85%AC%E5%85%B3%E7%94%B7%E5%8F%8B%E5%AE%B6%E8%87%AA%E6%9D%80)
 28. [商K遭严打,小妹转战陪玩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364281&topic_name=%E5%95%86K%E9%81%AD%E4%B8%A5%E6%89%93%2C%E5%B0%8F%E5%A6%B9%E8%BD%AC%E6%88%98%E9%99%AA%E7%8E%A9)
 29. [泰国首曝电诈园,地牢遍布刑具](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364172&topic_name=%E6%B3%B0%E5%9B%BD%E9%A6%96%E6%9B%9D%E7%94%B5%E8%AF%88%E5%9B%AD%2C%E5%9C%B0%E7%89%A2%E9%81%8D%E5%B8%83%E5%88%91%E5%85%B7)
-30. [显卡成奢品,千张5090跑AI](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364278&topic_name=%E6%98%BE%E5%8D%A1%E6%88%90%E5%A5%A2%E5%93%81%2C%E5%8D%83%E5%BC%A05090%E8%B7%91AI)

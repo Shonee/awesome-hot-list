@@ -1,14 +1,14 @@
 # RSS热榜
 
-> 更新时间：2026-09-17 10:31:49
+> 更新时间：2026-09-17 11:26:39
 
 ## IT之家
 
-1. [小米推出米家杀菌足浴器 2：三段按摩 + 升降雨幕，首发 409 元](https://www.ithome.com/1/003/412.htm)
-2. [我国成功发射卫星互联网低轨 25 组卫星](https://www.ithome.com/1/003/411.htm)
-3. [微软承认 9 月 Win11 更新可能破坏域信任关系](https://www.ithome.com/1/003/409.htm)
-4. [酷态科 10 号一分二智转线 Ultra 开启预约：首款接入米家 App 的屏显数据线，首发 129 元](https://www.ithome.com/1/003/408.htm)
-5. [IT之家鸿蒙版 9.0 重大更新：适配鸿蒙 7.0、小尾巴颜色、首页事件日历等超多更新](https://www.ithome.com/1/003/407.htm)
+1. [OPPO ColorOS 17 发布：全新“流体设计”、新一代小布](https://www.ithome.com/1/003/439.htm)
+2. [小米米家空气净化器 6C 预售：千分位甲醛数显，999 元](https://www.ithome.com/1/003/438.htm)
+3. [OPPO ColorOS 17 设备互联升级：Car+ 车联支持步行导航接续，耳机支持 AI 对话翻译](https://www.ithome.com/1/003/436.htm)
+4. [OPPO 发布全天候主动式 AI 硬件“心力球”，今年晚些时候到来](https://www.ithome.com/1/003/435.htm)
+5. [OPPO 手表将同步升级 ColorOS 17：全新流体云和小布建议可无缝流转到手表](https://www.ithome.com/1/003/434.htm)
 
 ## 少数派
 
@@ -28,19 +28,19 @@
 
 ## 量子位
 
-1. [罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元](https://www.qbitai.com/2026/09/490950.html)
-2. [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
-3. [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
-4. [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
-5. [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
+1. [比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌](https://www.qbitai.com/2026/09/491062.html)
+2. [网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”](https://www.qbitai.com/2026/09/490974.html)
+3. [罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元](https://www.qbitai.com/2026/09/490950.html)
+4. [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
+5. [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
 
 ## InfoQ
 
-1. [如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海](https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article)
-2. [Snowflake World Tour 上海站 Keynote——Snowflake 企业级智能体](https://www.infoq.cn/video/81qDfiHlpMYmNUg269l8?utm_source=rss&utm_medium=article)
-3. [在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？](https://www.infoq.cn/article/ZFk50FZmqsgY7uShA2Gw?utm_source=rss&utm_medium=article)
-4. [亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article)
-5. [实测 Vibe Key：开口使唤 AI，真有当甲方的感觉](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj?utm_source=rss&utm_medium=article)
+1. [亚马逊云科技服务越做越多，Terraform Provider 正在变成关键“翻译层”](https://www.infoq.cn/article/W9wJHIvu52BTYVHZZim3?utm_source=rss&utm_medium=article)
+2. [如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海](https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article)
+3. [Snowflake World Tour 上海站 Keynote——Snowflake 企业级智能体](https://www.infoq.cn/video/81qDfiHlpMYmNUg269l8?utm_source=rss&utm_medium=article)
+4. [在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？](https://www.infoq.cn/article/ZFk50FZmqsgY7uShA2Gw?utm_source=rss&utm_medium=article)
+5. [亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article)
 
 ## 极客公园
 
