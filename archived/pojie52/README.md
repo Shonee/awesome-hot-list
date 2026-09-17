@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-18 04:22:39
+> 更新时间：2026-09-18 05:19:54
 
 ## 人气热门
 
@@ -57,15 +57,15 @@
 
 ## 精华采撷
 
-1. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
-2. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-3. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-4. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
-5. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
-6. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
-7. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-8. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-9. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+1. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+2. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
+3. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+4. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+5. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
+6. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
+7. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
+8. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+9. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 10. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
 11. [Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...](https://www.52pojie.cn/thread-2107426-1-1.html)
 12. [x64dbg插件无驱动过vmp3.9.4反调试](https://www.52pojie.cn/thread-2101175-1-1.html)
