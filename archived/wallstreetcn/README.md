@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-18 07:07:57
+> 更新时间：2026-09-18 07:20:49
 
 ## 7x24
 
@@ -65,8 +65,3 @@
 49. [Meta关联数据中心首次涉足美国垃圾债市场](https://wallstreetcn.com/livenews/3166991)
 50. [Anthropic：2026年迄今，本公司Claude在AI研发领域占比26%。](https://wallstreetcn.com/livenews/3166990)
 51. [英国海军收到霍尔木兹海峡安全事件报告，船员据报安全](https://wallstreetcn.com/livenews/3166989)
-52. [美国五角大楼考虑从欧洲撤出近三分之一的美军。（NBC新闻）](https://wallstreetcn.com/livenews/3166988)
-53. [新兴市场ETF收涨1.8%，领跑美股大类资产类ETF](https://wallstreetcn.com/livenews/3166987)
-54. [联合国调查团：美军空袭伊朗学校可能构成战争罪](https://wallstreetcn.com/livenews/3166986)
-55. [周四（9月17日），美股行业ETF普遍收涨，半导体ETF涨2.76%，生物科技指数ETF、全球科技股指数ETF、科技行业ETF至少涨2.25%，网络股指数ETF涨1.02%，能源业ETF涨0.69%，金融业ETF、银行业ETF至多跌0...](https://wallstreetcn.com/livenews/3166985)
-56. [第九届俄罗斯国家杜马选举开始投票](https://wallstreetcn.com/livenews/3166984)
