@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-17 18:22:33
+> 更新时间：2026-09-17 19:20:18
 
 ## 最新帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
-2. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
-3. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
-4. [模型聪明了 10 倍，为什么你的 Agent 每天还在过《土拨鼠之日》？](https://www.cnblogs.com/swizard/p/22990047)
-5. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
-6. [DBA 经验:MySQL性能最重要的参数只有2个！](https://www.cnblogs.com/xiexj/p/22993301)
+2. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
+3. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
+4. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
+5. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
+6. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)

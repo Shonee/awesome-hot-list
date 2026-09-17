@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-17 18:23:05
+> 更新时间：2026-09-17 19:20:44
 
 ## Hottest
 
@@ -18,14 +18,14 @@
 12. [Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
 13. [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
 14. [Reinventing issue tracking: Local-first and Git-native](https://blog.manganin.dev/blog/reinventing-issue-tracking/)
-15. [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
-16. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
-17. [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa)
-18. [Tilia—a new formatter for Haskell](https://markkarpov.com/post/announcing-tilia.html)
-19. [Some things Veloren does differently](https://blog.jsbarretto.com/post/veloren)
-20. [XApp — Apps that work everywhere](https://xapp-project.org/)
-21. [Style Guide for Online Hypertext (1992)](https://www.w3.org/Provider/Style/)
-22. [Maintaining the love for coding in the time of AI](https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/)
-23. [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
-24. [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
-25. [When adding a fractional part to a number fixes your shader](https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/)
+15. [Tilia—a new formatter for Haskell](https://markkarpov.com/post/announcing-tilia.html)
+16. [Your Donations at Work: One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+17. [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
+18. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
+19. [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa)
+20. [Style Guide for Online Hypertext (1992)](https://www.w3.org/Provider/Style/)
+21. [Some things Veloren does differently](https://blog.jsbarretto.com/post/veloren)
+22. [XApp — Apps that work everywhere](https://xapp-project.org/)
+23. [Maintaining the love for coding in the time of AI](https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/)
+24. [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+25. [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)

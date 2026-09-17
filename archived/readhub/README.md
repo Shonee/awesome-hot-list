@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-17 18:22:44
+> 更新时间：2026-09-17 19:20:25
 
 ## 24 小时热榜
 
@@ -14,26 +14,26 @@
 8. [湖南航空通报一航班下机时旅客携带充电宝起火](https://readhub.cn/topic/8wUTFQOO5kt?tab=daily)
 9. [iOS 27 正式版推送：超七成用户首升，获八成用户满意](https://readhub.cn/topic/8wTAc5vIn2d?tab=daily)
 10. [iPhone Duo 发布后三星 Z Fold8 销量反增 单周增长 10%](https://readhub.cn/topic/8wUU0O5MOcr?tab=daily)
-11. [曝玛莎拉蒂与华为合作两款新车 首款纯电 GT 对标欧陆 GT](https://readhub.cn/topic/8wUhX7rc9SF?tab=daily)
+11. [玛莎拉蒂与华为合作两款新车 首款纯电 GT 对标欧陆 GT](https://readhub.cn/topic/8wUhX7rc9SF?tab=daily)
 12. [月之暗面 Kimi 发布金融行业解决方案](https://readhub.cn/topic/8wUizttqU6r?tab=daily)
 13. [李想：理想 i9 是年均超百亿研发投入的成果 今晚发布](https://readhub.cn/topic/8wT95Is2CZp?tab=daily)
-14. [比亚迪运动轿车方程 S 与 S GT 正式上市，售价 18.99 万起](https://readhub.cn/topic/8wTQEi0erN5?tab=daily)
-15. [iPhone 18 Pro Max 充电速度提升：快充突破 50W 15 分钟充入 50%](https://readhub.cn/topic/8wTO5nPXjPz?tab=daily)
-16. [全新理想 i9 上市：第二代纯电平台首发旗舰，售价 36.98 万元](https://readhub.cn/topic/8wTPX15F0Ih?tab=daily)
-17. [研究显示复杂 Harness Evolution 效果不如多跑几遍](https://readhub.cn/topic/8wSrBzYwIYj?tab=daily)
-18. [苹果正在研发使用自研芯片的企业级服务器 已与英伟达洽谈采用网络技术](https://readhub.cn/topic/8wTRix3bAkJ?tab=daily)
-19. [内存价格飙涨五到七倍 英特尔 CEO 预警内存短缺还会继续恶化](https://readhub.cn/topic/8wTIidXrVMF?tab=daily)
-20. [前 OpenAI 研究员发布 Jev 模型，放弃自由文本生成](https://readhub.cn/topic/8wUegXMfJZ8?tab=daily)
-21. [理想 i9 正式登场：36.98 万元起售，六座纯电 SUV 开启智能出行新体验](https://readhub.cn/topic/8wTYoHAOGMG?tab=daily)
-22. [OpenAI 总裁称已进入 AGI 时代，GPT-6 可自主工作 24 小时](https://readhub.cn/topic/8wSmvWpE2F6?tab=daily)
-23. [AI Agent 安全不能只靠 Prompt 了：上海 AI Lab 探索 Agent 安全进化新范式](https://readhub.cn/topic/8wUcYtQQPOm?tab=daily)
-24. [小米直播训练 MiMo-V2.6，罗福莉称半年钻研强化学习](https://readhub.cn/topic/8wUIWvRjqxJ?tab=daily)
+14. [前 OpenAI 研究员发布 Jev 模型，放弃自由文本生成](https://readhub.cn/topic/8wUegXMfJZ8?tab=daily)
+15. [比亚迪运动轿车方程 S 与 S GT 正式上市，售价 18.99 万起](https://readhub.cn/topic/8wTQEi0erN5?tab=daily)
+16. [iPhone 18 Pro Max 充电速度提升：快充突破 50W 15 分钟充入 50%](https://readhub.cn/topic/8wTO5nPXjPz?tab=daily)
+17. [全新理想 i9 上市：第二代纯电平台首发旗舰，售价 36.98 万元](https://readhub.cn/topic/8wTPX15F0Ih?tab=daily)
+18. [研究显示复杂 Harness Evolution 效果不如多跑几遍](https://readhub.cn/topic/8wSrBzYwIYj?tab=daily)
+19. [苹果正在研发使用自研芯片的企业级服务器 已与英伟达洽谈采用网络技术](https://readhub.cn/topic/8wTRix3bAkJ?tab=daily)
+20. [理想 i9 正式登场：36.98 万元起售，六座纯电 SUV 开启智能出行新体验](https://readhub.cn/topic/8wTYoHAOGMG?tab=daily)
+21. [内存价格飙涨五到七倍 英特尔 CEO 预警内存短缺还会继续恶化](https://readhub.cn/topic/8wTIidXrVMF?tab=daily)
+22. [小米直播训练 MiMo-V2.6，罗福莉称半年钻研强化学习](https://readhub.cn/topic/8wUIWvRjqxJ?tab=daily)
+23. [OpenAI 总裁称已进入 AGI 时代，GPT-6 可自主工作 24 小时](https://readhub.cn/topic/8wSmvWpE2F6?tab=daily)
+24. [AI Agent 安全不能只靠 Prompt 了：上海 AI Lab 探索 Agent 安全进化新范式](https://readhub.cn/topic/8wUcYtQQPOm?tab=daily)
 25. [马斯克再次释放信号：特斯拉和 SpaceX 或合并](https://readhub.cn/topic/8wT1CwYo4JX?tab=daily)
-26. [豆包大模型 2.1 Pro 升级：降幻觉、提 Agent 及多模态能力](https://readhub.cn/topic/8wU7nZ7vy6H?tab=daily)
-27. [蚂蚁发布大模型安全护栏 SingProbe](https://readhub.cn/topic/8wRaxSm9RzM?tab=daily)
-28. [GPT-6 Astra 在具身智能测评中展现显著优势](https://readhub.cn/topic/8wTAYyTxFC2?tab=daily)
-29. [华为夺 8 月路由器线上双第一 销售额独占超 30%](https://readhub.cn/topic/8wUCqeczway?tab=daily)
-30. [Anthropic 将 Claude 的协作和聊天功能合并为一个应用程序](https://readhub.cn/topic/8wTfvXBZPPb?tab=daily)
+26. [蚂蚁发布大模型安全护栏 SingProbe](https://readhub.cn/topic/8wRaxSm9RzM?tab=daily)
+27. [蚂蚁集团全员接入千问办公，打造大型企业办公标杆](https://readhub.cn/topic/8wUmWpZPPVm?tab=daily)
+28. [匿名模型 Union Alpha 上线，首日处理 20 亿 Token](https://readhub.cn/topic/8wUW8KVVwtT?tab=daily)
+29. [荷兰国际银行：印度外包业未见被 AI 取代迹象](https://readhub.cn/topic/8wUiFL4lFnR?tab=daily)
+30. [AI 影视走向产业化，多平台布局相关内容](https://readhub.cn/topic/8wUTFCGhZTn?tab=daily)
 
 ## 每日早报
 
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [20 所全球顶尖高校联手打造「科学 IDE」，用科研经验训练 AI](https://www.mittrchina.com/news/detail/16967)
-2. [研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%](https://www.aibase.com/zh/news/31135)
-3. [小米公开 MiMo-V2.6 大模型 RL 训练过程 罗福莉发文确认将开源技术细节](https://www.aibase.com/zh/news/31131)
-4. [阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考](https://www.aibase.com/zh/news/31126)
-5. [快手搜索广告落地生成式检索新范式：UniGD 生成-判别一体化重塑检索链路](https://hub.baai.ac.cn/view/58044)
-6. [蚂蚁集团全员接入千问办公，打造大型企业办公标杆](https://www.leiphone.com/category/industrynews/U3X9WHILcYX0kh4l.html)
-7. [AI 办公之外，百度智能云为何盯上「产业智能体操作系统」？](https://www.leiphone.com/category/industrynews/oZjAyDmVEtf8iH76.html)
-8. [清华博士携诺奖班底，跨模态降维破局 RNA 赛道](https://www.mittrchina.com/news/detail/16965)
-9. [前腾讯混元预训练负责人姚星丞加入 Thinking Machines Lab](https://www.leiphone.com/category/industrynews/xfxXxO3233YuLZEJ.html)
-10. [留给人类阻止 AI 的时间不多了](https://hub.baai.ac.cn/view/58045)
+2. [Benchmark 进入真实世界，斯坦福 / 清华 / Anthropic/Meta/ 阿里等重新定义 AI 能力评测](https://hub.baai.ac.cn/view/58048)
+3. [研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%](https://www.aibase.com/zh/news/31135)
+4. [小米公开 MiMo-V2.6 大模型 RL 训练过程 罗福莉发文确认将开源技术细节](https://www.aibase.com/zh/news/31131)
+5. [Claude 王座失守 OpenAI 一夜反超，神秘 GPT-6 Sol 偷跑](https://hub.baai.ac.cn/view/58047)
+6. [阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考](https://www.aibase.com/zh/news/31126)
+7. [快手搜索广告落地生成式检索新范式：UniGD 生成-判别一体化重塑检索链路](https://hub.baai.ac.cn/view/58044)
+8. [蚂蚁集团全员接入千问办公，打造大型企业办公标杆](https://www.leiphone.com/category/industrynews/U3X9WHILcYX0kh4l.html)
+9. [AI 办公之外，百度智能云为何盯上「产业智能体操作系统」？](https://www.leiphone.com/category/industrynews/oZjAyDmVEtf8iH76.html)
+10. [清华博士携诺奖班底，跨模态降维破局 RNA 赛道](https://www.mittrchina.com/news/detail/16965)
