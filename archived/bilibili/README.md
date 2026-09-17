@@ -1,34 +1,34 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-09-17 14:36:52
+> 更新时间：2026-09-17 15:26:35
 
 ## 热门搜索
 
-1. [琵琶曲原作者入驻B站](https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E6%9B%B2%E5%8E%9F%E4%BD%9C%E8%80%85%E5%85%A5%E9%A9%BBB%E7%AB%99)
-2. [高市早苗内阁全体阁僚辞职](https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E5%85%A8%E4%BD%93%E9%98%81%E5%83%9A%E8%BE%9E%E8%81%8C)
-3. [三地联手向英国发出什么信号](https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9C%B0%E8%81%94%E6%89%8B%E5%90%91%E8%8B%B1%E5%9B%BD%E5%8F%91%E5%87%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7)
-4. [平陆运河建成通航纪实](https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%BB%BA%E6%88%90%E9%80%9A%E8%88%AA%E7%BA%AA%E5%AE%9E)
-5. [我国成功发射天仪51和52卫星](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%A4%A9%E4%BB%AA51%E5%92%8C52%E5%8D%AB%E6%98%9F)
-6. [夏乌拉的白色幸福re0手书](https://search.bilibili.com/all?keyword=%E5%A4%8F%E4%B9%8C%E6%8B%89%E7%9A%84%E7%99%BD%E8%89%B2%E5%B9%B8%E7%A6%8Fre0%E6%89%8B%E4%B9%A6)
-7. [曼联主帅卡里克战术有问题吗](https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B8%BB%E5%B8%85%E5%8D%A1%E9%87%8C%E5%85%8B%E6%88%98%E6%9C%AF%E6%9C%89%E9%97%AE%E9%A2%98%E5%90%97)
-8. [囚徒摩旅黄金大环线](https://search.bilibili.com/all?keyword=%E5%9B%9A%E5%BE%92%E6%91%A9%E6%97%85%E9%BB%84%E9%87%91%E5%A4%A7%E7%8E%AF%E7%BA%BF)
-9. [深扒高价低质校服产业链](https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%89%92%E9%AB%98%E4%BB%B7%E4%BD%8E%E8%B4%A8%E6%A0%A1%E6%9C%8D%E4%BA%A7%E4%B8%9A%E9%93%BE)
-10. [新人UP主张云雷报道](https://search.bilibili.com/all?keyword=%E6%96%B0%E4%BA%BAUP%E4%B8%BB%E5%BC%A0%E4%BA%91%E9%9B%B7%E6%8A%A5%E9%81%93)
+1. [平陆运河建成通航纪实](https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%BB%BA%E6%88%90%E9%80%9A%E8%88%AA%E7%BA%AA%E5%AE%9E)
+2. [我国成功发射天仪51和52卫星](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%A4%A9%E4%BB%AA51%E5%92%8C52%E5%8D%AB%E6%98%9F)
+3. [PRX正式入驻B站](https://search.bilibili.com/all?keyword=PRX%E6%AD%A3%E5%BC%8F%E5%85%A5%E9%A9%BBB%E7%AB%99)
+4. [三地联手向英国发出什么信号](https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9C%B0%E8%81%94%E6%89%8B%E5%90%91%E8%8B%B1%E5%9B%BD%E5%8F%91%E5%87%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7)
+5. [烽火职业联赛夏季赛](https://search.bilibili.com/all?keyword=%E7%83%BD%E7%81%AB%E8%81%8C%E4%B8%9A%E8%81%94%E8%B5%9B%E5%A4%8F%E5%AD%A3%E8%B5%9B)
+6. [琵琶曲原作者入驻B站](https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E6%9B%B2%E5%8E%9F%E4%BD%9C%E8%80%85%E5%85%A5%E9%A9%BBB%E7%AB%99)
+7. [新人UP主张云雷报道](https://search.bilibili.com/all?keyword=%E6%96%B0%E4%BA%BAUP%E4%B8%BB%E5%BC%A0%E4%BA%91%E9%9B%B7%E6%8A%A5%E9%81%93)
+8. [UP主线下提前上手新iPhone](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BA%BF%E4%B8%8B%E6%8F%90%E5%89%8D%E4%B8%8A%E6%89%8B%E6%96%B0iPhone)
+9. [美联储10月还会加息吗](https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A810%E6%9C%88%E8%BF%98%E4%BC%9A%E5%8A%A0%E6%81%AF%E5%90%97)
+10. [老番茄联动噜咪真人挑战](https://search.bilibili.com/all?keyword=%E8%80%81%E7%95%AA%E8%8C%84%E8%81%94%E5%8A%A8%E5%99%9C%E5%92%AA%E7%9C%9F%E4%BA%BA%E6%8C%91%E6%88%98)
 11. [2026无畏契约冠军套预告](https://search.bilibili.com/all?keyword=2026%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%86%A0%E5%86%9B%E5%A5%97%E9%A2%84%E5%91%8A)
-12. [我国火箭单次海上发射载荷重量创新高](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%8D%95%E6%AC%A1%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E8%BD%BD%E8%8D%B7%E9%87%8D%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98)
-13. [平陆运河为何称得上世纪工程](https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E4%B8%BA%E4%BD%95%E7%A7%B0%E5%BE%97%E4%B8%8A%E4%B8%96%E7%BA%AA%E5%B7%A5%E7%A8%8B)
-14. [中国科技进步引外媒关注](https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%9B%E6%AD%A5%E5%BC%95%E5%A4%96%E5%AA%92%E5%85%B3%E6%B3%A8)
-15. [原神薇斯纳角色PV](https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%96%87%E6%96%AF%E7%BA%B3%E8%A7%92%E8%89%B2PV)
-16. [琵琶曲但是沈腾VS马丽](https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E6%9B%B2%E4%BD%86%E6%98%AF%E6%B2%88%E8%85%BEVS%E9%A9%AC%E4%B8%BD)
-17. [大学生兼职是不是不务正业](https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A)
-18. [2026无畏契约全球冠军赛主题曲](https://search.bilibili.com/all?keyword=2026%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E8%B5%9B%E4%B8%BB%E9%A2%98%E6%9B%B2)
-19. [迈阿密国际2-0蓝十字夺冠](https://search.bilibili.com/all?keyword=%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%852-0%E8%93%9D%E5%8D%81%E5%AD%97%E5%A4%BA%E5%86%A0)
-20. [胡塞如何逼急沙特王爷](https://search.bilibili.com/all?keyword=%E8%83%A1%E5%A1%9E%E5%A6%82%E4%BD%95%E9%80%BC%E6%80%A5%E6%B2%99%E7%89%B9%E7%8E%8B%E7%88%B7)
+12. [iPhone Duo Vlog形态](https://search.bilibili.com/all?keyword=iPhone%20Duo%20Vlog%E5%BD%A2%E6%80%81)
+13. [异环1.4版本PV祷歌为谁而诵](https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF1.4%E7%89%88%E6%9C%ACPV%E7%A5%B7%E6%AD%8C%E4%B8%BA%E8%B0%81%E8%80%8C%E8%AF%B5)
+14. [平陆运河正式通航](https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%88%AA)
+15. [兰香如故的长剧魅力](https://search.bilibili.com/all?keyword=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%9A%84%E9%95%BF%E5%89%A7%E9%AD%85%E5%8A%9B)
+16. [无畏契约26冠军套实机演示](https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A626%E5%86%A0%E5%86%9B%E5%A5%97%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA)
+17. [我国火箭单次海上发射载荷重量创新高](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%8D%95%E6%AC%A1%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E8%BD%BD%E8%8D%B7%E9%87%8D%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98)
+18. [平陆运河为何称得上世纪工程](https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E4%B8%BA%E4%BD%95%E7%A7%B0%E5%BE%97%E4%B8%8A%E4%B8%96%E7%BA%AA%E5%B7%A5%E7%A8%8B)
+19. [胡塞如何逼急沙特王爷](https://search.bilibili.com/all?keyword=%E8%83%A1%E5%A1%9E%E5%A6%82%E4%BD%95%E9%80%BC%E6%80%A5%E6%B2%99%E7%89%B9%E7%8E%8B%E7%88%B7)
+20. [琵琶曲但是沈腾VS马丽](https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E6%9B%B2%E4%BD%86%E6%98%AF%E6%B2%88%E8%85%BEVS%E9%A9%AC%E4%B8%BD)
 
 ## 全站热门视频
 
-1. [《原神》沃雅妮莎角色PV——「心之声」](https://b23.tv/BV13Xew6LE7T)
-2. [折叠还是直板？iPhone 18 Pro&Duo深度视频](https://b23.tv/BV1cSec6tEux)
+1. [折叠还是直板？iPhone 18 Pro&Duo深度视频](https://b23.tv/BV1cSec6tEux)
+2. [《原神》沃雅妮莎角色PV——「心之声」](https://b23.tv/BV13Xew6LE7T)
 3. [天津漫展手机事件](https://b23.tv/BV1YaeN6xEWR)
 4. [英国可能解体又不太可能](https://b23.tv/BV1iQeM6uEEH)
 5. [大禹看了沉默，愚公看了流泪](https://b23.tv/BV1fYes6xEmq)

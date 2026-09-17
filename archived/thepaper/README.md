@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-17 14:37:20
+> 更新时间：2026-09-17 15:26:57
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [马上评｜警惕公共事件中那些“让人一眼愤怒”的谣言](https://www.thepaper.cn/newsDetail_forward_34087336)
 14. [马上评｜守护国家文物安全必须动真格、零容忍](https://www.thepaper.cn/newsDetail_forward_34082326)
 15. [深观察｜割尾之忧：人工智能时代，人脑会退化吗？](https://www.thepaper.cn/newsDetail_forward_34081931)
-16. [广电总局：机顶盒功能将以软件形态内置于电视机](https://www.thepaper.cn/newsDetail_forward_34087820)
-17. [南方医科大坠楼学生“父母进ICU”“导师只给三天假”？家属称均为谣言](https://www.thepaper.cn/newsDetail_forward_34082982)
-18. [言短意长｜博士人数超过驴的存栏量？荒诞之说可休矣](https://www.thepaper.cn/newsDetail_forward_34088259)
+16. [言短意长｜博士人数超过驴的存栏量？荒诞之说可休矣](https://www.thepaper.cn/newsDetail_forward_34088259)
+17. [广电总局：机顶盒功能将以软件形态内置于电视机](https://www.thepaper.cn/newsDetail_forward_34087820)
+18. [南方医科大坠楼学生“父母进ICU”“导师只给三天假”？家属称均为谣言](https://www.thepaper.cn/newsDetail_forward_34082982)
 19. [一图世界｜沙特“东西输油管道”停运，全球石油市场雪上加霜](https://www.thepaper.cn/newsDetail_forward_34081363)
 20. [外卖小哥到亚洲第一，他凭什么？](https://www.thepaper.cn/newsDetail_forward_34084102)
