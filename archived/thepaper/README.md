@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-18 20:30:48
+> 更新时间：2026-09-18 21:20:51
 
 ## 热新闻
 
@@ -17,10 +17,10 @@
 11. [小麦烂在仓里，化肥买不到手，厄尔尼诺来袭：战火与气候夹击下的粮食困局](https://www.thepaper.cn/newsDetail_forward_34088824)
 12. [没早餐、查无此人、大巴开错路……名古屋亚运还没开幕就麻了](https://www.thepaper.cn/newsDetail_forward_34096004)
 13. [山西一行贿案罚没“足金观音像”拍卖变铜合金续：竞得人获退款84万余元，原因仍不明](https://www.thepaper.cn/newsDetail_forward_34095156)
-14. [预告｜《大方之谈》对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34080153)
-15. [成都锦江区“烟草零售点间距拟下调至10米”引商户质疑，官方回应](https://www.thepaper.cn/newsDetail_forward_34090987)
-16. [一图世界｜放缓AI发展，美国政商两界谁赞成、谁反对？](https://www.thepaper.cn/newsDetail_forward_34091924)
+14. [涉乒乓球跳水领域恶意拉踩、公然侮辱等，5起网暴运动员案例公布](https://www.thepaper.cn/newsDetail_forward_34097435)
+15. [预告｜《大方之谈》对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34080153)
+16. [中国男篮不敌日本男篮，未能晋级亚运男篮决赛](https://www.thepaper.cn/newsDetail_forward_34097694)
 17. [马上评丨用硫磺熏竹笋，食品监管不能总靠博主曝光](https://www.thepaper.cn/newsDetail_forward_34097054)
-18. [名古屋亚运会又出乌龙！曲棍球赛前给韩国队演奏朝鲜国歌](https://www.thepaper.cn/newsDetail_forward_34096796)
-19. [北京香山论坛丨百余国代表齐聚北京香山论坛，全球治理倡议成热议焦点](https://www.thepaper.cn/newsDetail_forward_34091414)
-20. [苦“转人工难”久矣，人民日报密集发声：何以从“拦路虎”到不再“答非所问”](https://www.thepaper.cn/newsDetail_forward_34091597)
+18. [一图世界｜放缓AI发展，美国政商两界谁赞成、谁反对？](https://www.thepaper.cn/newsDetail_forward_34091924)
+19. [名古屋亚运会又出乌龙！曲棍球赛前给韩国队演奏朝鲜国歌](https://www.thepaper.cn/newsDetail_forward_34096796)
+20. [北京香山论坛丨百余国代表齐聚北京香山论坛，全球治理倡议成热议焦点](https://www.thepaper.cn/newsDetail_forward_34091414)

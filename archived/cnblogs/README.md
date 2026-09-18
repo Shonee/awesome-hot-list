@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-18 20:30:34
+> 更新时间：2026-09-18 21:20:36
 
 ## 最新帖子
 
-1. [移动应用开发手册16：CI/CD控制论——如何用系统工程对抗熵增巨婴](https://www.cnblogs.com/2452316Czq/p/23028511)
-2. [【笔记】一行代码让大模型推理的 overlap scheduler 失效](https://www.cnblogs.com/cswuyg/p/23031766)
-3. [让向量检索随处可用：Zvec 多平台支持全景](https://www.cnblogs.com/DashVector/p/23030447)
-4. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
-5. [基于 LlamaIndex+PostgreSQL 实现RAG持久化](https://www.cnblogs.com/LyShark/p/22996705)
-6. [设计一个简易合成器框架-Common Lisp](https://www.cnblogs.com/zxc-cppnb/p/23010422)
-7. [DuckDB + SQL 高效分析 JSON 数据](https://www.cnblogs.com/wang_yb/p/23026278)
-8. [第2篇：《Python 环境搭建与第一个项目运行》](https://www.cnblogs.com/bigant9527/p/23026013)
-9. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)
-10. [DeepSeek 视觉 API 刚上线：单张图 0.001 元，Agent 终于能看图](https://www.cnblogs.com/uniqueDong/p/23023564)
-11. [DDD领域驱动设计的四重边界](https://www.cnblogs.com/xiexj/p/23023207)
-12. [CLI 还是 MCP？一场关于 Agent 工具接口的再思考](https://www.cnblogs.com/codigger/p/23022943)
-13. [从 Healthory 到 Nature Aimanic：两款 iOS App 审核实战后，我总结了这份过审清单](https://www.cnblogs.com/Firepad-magic/p/23022488)
-14. [存算一体、云边协同：DolphinDB 为石油化工行业设备监测打造高效数据底座](https://www.cnblogs.com/DolphinDB/p/23022088)
-15. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
-16. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
-17. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
-18. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
-19. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)
-20. [java服务异常日志只打印异常类型，没有堆栈定位分析](https://www.cnblogs.com/zjdxr-up/p/23016204)
+1. [【Agent Harness】Gliding Horse 最新进化：从“能学习”到“可验证的自主进化”](https://www.cnblogs.com/doiito/p/23032121)
+2. [移动应用开发手册16：CI/CD控制论——如何用系统工程对抗熵增巨婴](https://www.cnblogs.com/2452316Czq/p/23028511)
+3. [【笔记】一行代码让大模型推理的 overlap scheduler 失效](https://www.cnblogs.com/cswuyg/p/23031766)
+4. [让向量检索随处可用：Zvec 多平台支持全景](https://www.cnblogs.com/DashVector/p/23030447)
+5. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
+6. [基于 LlamaIndex+PostgreSQL 实现RAG持久化](https://www.cnblogs.com/LyShark/p/22996705)
+7. [设计一个简易合成器框架-Common Lisp](https://www.cnblogs.com/zxc-cppnb/p/23010422)
+8. [DuckDB + SQL 高效分析 JSON 数据](https://www.cnblogs.com/wang_yb/p/23026278)
+9. [第2篇：《Python 环境搭建与第一个项目运行》](https://www.cnblogs.com/bigant9527/p/23026013)
+10. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)
+11. [DeepSeek 视觉 API 刚上线：单张图 0.001 元，Agent 终于能看图](https://www.cnblogs.com/uniqueDong/p/23023564)
+12. [DDD领域驱动设计的四重边界](https://www.cnblogs.com/xiexj/p/23023207)
+13. [CLI 还是 MCP？一场关于 Agent 工具接口的再思考](https://www.cnblogs.com/codigger/p/23022943)
+14. [从 Healthory 到 Nature Aimanic：两款 iOS App 审核实战后，我总结了这份过审清单](https://www.cnblogs.com/Firepad-magic/p/23022488)
+15. [存算一体、云边协同：DolphinDB 为石油化工行业设备监测打造高效数据底座](https://www.cnblogs.com/DolphinDB/p/23022088)
+16. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
+17. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
+18. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
+19. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
+20. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)
 
 ## 精华帖子
 
