@@ -1,11 +1,11 @@
 # 豆瓣热榜
 
-> 更新时间：2026-09-18 12:25:38
+> 更新时间：2026-09-18 13:21:54
 
 ## 小组精选
 
 1. [一定要大量读书！分享我心目中的亚女四大名著，每一本都超绝！](https://www.douban.com/group/topic/500054739/?_spm_id=MTc3NjY4MjE3)
-2. [上班OOTD穿搭分享（四季）](https://www.douban.com/group/topic/500129704/?_spm_id=MjA0NzA0MTI3)
+2. [上班OOTD穿搭分享（四季 不定时更新中）](https://www.douban.com/group/topic/500129704/?_spm_id=MjA0NzA0MTI3)
 3. [大连-烟台7天休闲旅行（轮渡版）](https://www.douban.com/group/topic/499770322/?_spm_id=MjM0ODg0OTcw)
 4. [旺盛的生命力和解决一切难题的决心——冷门小妞电影大盘点](https://www.douban.com/group/topic/499595088/?_spm_id=MTgyNjk2NDk2)
 5. [独自绽放的美丽](https://www.douban.com/group/topic/499726867/?_spm_id=MjI1MDY2NDIw)
