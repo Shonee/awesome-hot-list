@@ -1,13 +1,13 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-18 20:53:48
+> 更新时间：2026-09-18 21:08:58
 
 ## 7x24
 
 1. [周五美股盘前你需要了解的全球要闻](https://wallstreetcn.com/livenews/3167338)
 2. [安森美再发涨价函](https://wallstreetcn.com/livenews/3167337)
-3. [土耳其财富基金周四买入股票，以遏制市场暴跌。（彭博）](https://wallstreetcn.com/livenews/3167336)
-4. [MiniMax Code CLI正式开源](https://wallstreetcn.com/livenews/3167335)
+3. [报道：土耳其主权财富基金周四买入股票以遏制市场暴跌](https://wallstreetcn.com/livenews/3167336)
+4. [MiniMax 宣布开源 MiniMax Code CLI，助力构建可靠企业级应用](https://wallstreetcn.com/livenews/3167335)
 5. [据报道，Anthropic计划到年底拥有5吉瓦算力。](https://wallstreetcn.com/livenews/3167334)
 6. [消息人士：普京特使与德国选择党筹备会谈，旨在恢复俄气对德供应](https://wallstreetcn.com/livenews/3167333)
 7. [锐捷网络：拟募资不超26亿元用于面向大规模智算集群的高速互联网络系统研发及产业化项目等](https://wallstreetcn.com/livenews/3167332)
@@ -20,7 +20,7 @@
 12. [文旅部：支持符合条件的文化企业通过上市、股权、债券等方式融资](https://wallstreetcn.com/livenews/3167327)
 13. [Naive AI在三轮融资中筹集4亿美元，估值达到14亿美元。Naive AI准备于本月发布首个大语言模型。（The Information）](https://wallstreetcn.com/livenews/3167326)
 14. [《文化产业发展“十五五”规划》印发：培育文化领域耐心资本 扩大长期投资](https://wallstreetcn.com/livenews/3167325)
-15. [昂跑美股盘前涨超7%，耐克跌超1%，报道称法国足球运动员姆巴佩签约昂跑，此举对耐克构成打击。](https://wallstreetcn.com/livenews/3167324)
+15. [昂跑签约姆巴佩加码足球布局 对耐克构成打击](https://wallstreetcn.com/livenews/3167324)
 16. [波罗的海干散货指数上涨1.02%，至3370点。](https://wallstreetcn.com/livenews/3167323)
 17. [欧盟贸易伙伴呼吁放弃农药限制计划。（彭博）](https://wallstreetcn.com/livenews/3167322)
 18. [安德利：签署协议7.93亿元收购甬强科技控制权](https://wallstreetcn.com/livenews/3167321)
@@ -70,8 +70,3 @@
 48. [阿斯利康CEO斥资726万英镑购入公司股票](https://wallstreetcn.com/livenews/3167289)
 49. [拉加德称将于2027年卸任欧洲央行行长 但未透露具体时间](https://wallstreetcn.com/livenews/3167288)
 50. [Anthropic设立生物实验室，推进AI药物研发项目](https://wallstreetcn.com/livenews/3167287)
-51. [克里姆林宫称尚未就雀巢和欧尚做出进一步决定](https://wallstreetcn.com/livenews/3167286)
-52. [中老跨境数字支付互联互通正式启动](https://wallstreetcn.com/livenews/3167285)
-53. [伯克希尔·哈撒韦任命沃伦·巴菲特为名誉董事长，霍华德·巴菲特任董事长](https://wallstreetcn.com/livenews/3167284)
-54. [软银本月到期信贷额度获续一年 规模提高至65亿美元](https://wallstreetcn.com/livenews/3167283)
-55. [广汽集团：正在筹划购买一汽股份某整车合资公司的部分股权 A股股票将继续停牌](https://wallstreetcn.com/livenews/3167279)
