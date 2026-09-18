@@ -1,37 +1,47 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-18 16:12:49
+> 更新时间：2026-09-18 16:34:46
 
 ## 7x24
 
-1. [恒生指数收盘涨0.6%，恒生科技指数涨2.2%](https://wallstreetcn.com/livenews/3167245)
-2. [欧洲央行行长拉加德：我们将逐次会议决定利率。
+1. [新华传媒：拟发行股份购买界面财联社100%股权 股票下周一复牌](https://wallstreetcn.com/livenews/3167256)
+2. [财政部：1—8月国有土地使用权出让收入13753亿元 同比下降28.6%](https://wallstreetcn.com/livenews/3167254)
+3. [【财政部：1—8月证券交易印花税2160亿元，同比增长82%】财政部数据显示，1—8月，全国一般公共预算收入156633亿元，同比增长5.7%。其中，证券交易印花税2160亿元，同比增长82%。1—8月，全国一般公共预算支出18145...](https://wallstreetcn.com/livenews/3167253)
+4. [【工业富联：完成10亿元股份回购计划】工业富联公告，公司此前拟使用自有资金10亿元~20亿元回购股份，价格不超过103元/股，用于维护公司价值及股东权益，回购股份拟出售，逾期未实施出售部分依法注销。截至公告披露日，公司已累计回购158...](https://wallstreetcn.com/livenews/3167252)
+5. [欧洲央行副行长Vujcic：经济可能在秋季放缓](https://wallstreetcn.com/livenews/3167251)
+6. [华锡有色：2026年9月21日复牌，中国五矿拟取得51%股权](https://wallstreetcn.com/livenews/3167249)
+7. [商务部：预计全年进口额有望再创新高](https://wallstreetcn.com/livenews/3167248)
+8. [商务部：下一步积极扩大优质产品进口，促进进出口平衡发展](https://wallstreetcn.com/livenews/3167247)
+9. [恒生指数收盘涨0.6%，恒生科技指数涨2.2%](https://wallstreetcn.com/livenews/3167245)
+10. [欧洲央行行长拉加德：我们将逐次会议决定利率。
 
 增长状况比我们预想的要好一些。
 
-目前尚未看到第二轮效应。](https://wallstreetcn.com/livenews/3167244)
-3. [游戏工委：8月中国国内游戏市场实际销售收入同比增长8.08%](https://wallstreetcn.com/livenews/3167243)
-4. [伦敦金属交易所(LME)：锌库存增加1050吨，镍库存增加36吨，铝库存持平，锡库存减少110吨，铜库存减少800吨，铅库存减少1975吨。](https://wallstreetcn.com/livenews/3167242)
-5. [报道：吉利和雷诺或扩大在拉丁美洲的合作](https://wallstreetcn.com/livenews/3167241)
-6. [欧元区7月季调后经常帐 276.28亿欧元，前值 351亿欧元。](https://wallstreetcn.com/livenews/3167240)
-7. [华为周跃峰：昇腾950智算集群将于9月30日启用](https://wallstreetcn.com/livenews/3167239)
-8. [欧洲央行管委Kaasik：若通胀风险成为现实，则需要进一步收紧政策。
+目前尚未看到第二轮效应。
+
+我将于2027年卸任欧洲央行行长一职。](https://wallstreetcn.com/livenews/3167244)
+11. [游戏工委：8月中国国内游戏市场实际销售收入同比增长8.08%](https://wallstreetcn.com/livenews/3167243)
+12. [伦敦金属交易所(LME)：锌库存增加1050吨，镍库存增加36吨，铝库存持平，锡库存减少110吨，铜库存减少800吨，铅库存减少1975吨。](https://wallstreetcn.com/livenews/3167242)
+13. [报道：吉利和雷诺或扩大在拉丁美洲的合作](https://wallstreetcn.com/livenews/3167241)
+14. [欧元区7月季调后经常帐 276.28亿欧元，前值 351亿欧元。](https://wallstreetcn.com/livenews/3167240)
+15. [华为周跃峰：昇腾950智算集群将于9月30日启用](https://wallstreetcn.com/livenews/3167239)
+16. [欧洲央行管委Kaasik：若通胀风险成为现实，则需要进一步收紧政策。
 
 目前中性利率的确切水平并非大问题。
 
 我们必须防止（通胀带来的）第二轮效应。](https://wallstreetcn.com/livenews/3167238)
-9. [太阳富国航空宣布开通三条上海直飞越南航线](https://wallstreetcn.com/livenews/3167236)
-10. [提醒：日本央行行长植田和男的新闻发布会结束。](https://wallstreetcn.com/livenews/3167235)
-11. [民调支持率跌新低 李在明道歉](https://wallstreetcn.com/livenews/3167233)
-12. [云南发行10年期一般债地方债，规模84.0038亿元，发行利率1.7400%，边际倍数1.50倍，倍数预期1.74；
+17. [太阳富国航空宣布开通三条上海直飞越南航线](https://wallstreetcn.com/livenews/3167236)
+18. [提醒：日本央行行长植田和男的新闻发布会结束。](https://wallstreetcn.com/livenews/3167235)
+19. [民调支持率跌新低 李在明道歉](https://wallstreetcn.com/livenews/3167233)
+20. [云南发行10年期一般债地方债，规模84.0038亿元，发行利率1.7400%，边际倍数1.50倍，倍数预期1.74；
 
 云南发行7年期一般债地方债，规模91.8000亿元，发行利率1.5700%，边际倍数1.03倍，倍数预期1.57；...](https://wallstreetcn.com/livenews/3167232)
-13. [阿里AI登顶《科学》：全球首个专家级通用医疗影像模型，一个模型识别146种病症](https://wallstreetcn.com/livenews/3167231)
-14. [美元兑日元日内涨幅达1%，报157.53。日本央行行长植田和男称很难判断金融环境是否过于宽松。](https://wallstreetcn.com/livenews/3167230)
-15. [专家解读人民币升破6.7原因](https://wallstreetcn.com/livenews/3167229)
-16. [工信部：实施“人工智能+制造”行动，加快发展新一代智能制造](https://wallstreetcn.com/livenews/3167228)
-17. [比亚迪汽车工业有限公司、比亚迪汽车有限公司召回部分国产汽车](https://wallstreetcn.com/livenews/3167227)
-18. [日本央行行长植田和男：应参照通胀和经济状况来评估收益率水平。
+21. [阿里AI登顶《科学》：全球首个专家级通用医疗影像模型，一个模型识别146种病症](https://wallstreetcn.com/livenews/3167231)
+22. [美元兑日元日内涨幅达1%，报157.53。日本央行行长植田和男称很难判断金融环境是否过于宽松。](https://wallstreetcn.com/livenews/3167230)
+23. [专家解读人民币升破6.7原因](https://wallstreetcn.com/livenews/3167229)
+24. [工信部：实施“人工智能+制造”行动，加快发展新一代智能制造](https://wallstreetcn.com/livenews/3167228)
+25. [比亚迪汽车工业有限公司、比亚迪汽车有限公司召回部分国产汽车](https://wallstreetcn.com/livenews/3167227)
+26. [日本央行行长植田和男：应参照通胀和经济状况来评估收益率水平。
 
 “政策阶段的转变”意味着当前政策目标的目的在于将基础通胀稳定在2%左右。
 
@@ -40,33 +50,29 @@
 董事会内部存在不同意见是自然的。
 
 将关注加息对金融环境的累...](https://wallstreetcn.com/livenews/3167225)
-19. [布伦特原油日内跌幅达2.0%，报97.92美元/桶。](https://wallstreetcn.com/livenews/3167224)
-20. [外交部：菲方应立即停止海上的侵权挑衅 停止散播虚假叙事、颠倒黑白](https://wallstreetcn.com/livenews/3167222)
-21. [外交部：中美应办成更多造福两国和两国人民的好事实事](https://wallstreetcn.com/livenews/3167220)
-22. [欧盟寻求限制进口中国混动汽车，外交部：中欧经贸关系的本质是互利共赢](https://wallstreetcn.com/livenews/3167219)
-23. [消息人士：长鑫准备进入NAND闪存市场](https://wallstreetcn.com/livenews/3167218)
-24. [外交部：敦促日方正视并深刻反省侵略历史，绝不允许日本军国主义死灰复燃。（央视）](https://wallstreetcn.com/livenews/3167217)
-25. [外交部：中美双方就年内元首互动安排保持着沟通](https://wallstreetcn.com/livenews/3167216)
-26. [日本央行行长植田和男：不会预先排除任何政策选项](https://wallstreetcn.com/livenews/3167214)
-27. [韩国总统李在明就支持率下滑向公众致歉 承诺不会卷入伊朗冲突](https://wallstreetcn.com/livenews/3167212)
-28. [明确处置范围，中央网信办加强涉企侵权信息管理](https://wallstreetcn.com/livenews/3167211)
-29. [日本央行行长植田和男：海外利率变动可能通过多种渠道影响物价。
+27. [布伦特原油日内跌幅达2.0%，报97.92美元/桶。](https://wallstreetcn.com/livenews/3167224)
+28. [外交部：菲方应立即停止海上的侵权挑衅 停止散播虚假叙事、颠倒黑白](https://wallstreetcn.com/livenews/3167222)
+29. [外交部：中美应办成更多造福两国和两国人民的好事实事](https://wallstreetcn.com/livenews/3167220)
+30. [欧盟寻求限制进口中国混动汽车，外交部：中欧经贸关系的本质是互利共赢](https://wallstreetcn.com/livenews/3167219)
+31. [消息人士：长鑫准备进入NAND闪存市场](https://wallstreetcn.com/livenews/3167218)
+32. [外交部：敦促日方正视并深刻反省侵略历史，绝不允许日本军国主义死灰复燃。（央视）](https://wallstreetcn.com/livenews/3167217)
+33. [外交部：中美双方就年内元首互动安排保持着沟通](https://wallstreetcn.com/livenews/3167216)
+34. [日本央行行长植田和男：不会预先排除任何政策选项](https://wallstreetcn.com/livenews/3167214)
+35. [韩国总统李在明就支持率下滑向公众致歉 承诺不会卷入伊朗冲突](https://wallstreetcn.com/livenews/3167212)
+36. [明确处置范围，中央网信办加强涉企侵权信息管理](https://wallstreetcn.com/livenews/3167211)
+37. [日本央行行长植田和男：海外利率变动可能通过多种渠道影响物价。
 
 加息步伐缓慢并非总是好事。
 
 正与政府在各层级保持密切沟通。
 
-将预先采取行动，以避免通胀超出目标。
+日本央行需要先发制人，以确保通胀不会像几年前美国和欧洲那样失控。
 
-力求避免物价超调而需要大幅加息。
-
-拒绝就与贝森特的会面置评。
-
-...](https://wallstreetcn.com/livenews/3167210)
-30. [沪深两市今日成交额合计20771.00亿元](https://wallstreetcn.com/livenews/3167209)
-31. [欧洲斯托克50指数开盘跌0.2%，德国DAX指数跌0.4%，英国富时100指数跌0.2%，法国CAC 40指数跌0.4%。](https://wallstreetcn.com/livenews/3167208)
-32. [A股收盘：创业板指放量涨超2%，次新股集体爆发](https://wallstreetcn.com/livenews/3167207)
-33. [日本财务大臣片山皋月：赢得市场信任、维护市场秩序至关重要。
+希望避免物价超过目标至需要快速加息的程...](https://wallstreetcn.com/livenews/3167210)
+38. [沪深两市今日成交额合计20771.00亿元](https://wallstreetcn.com/livenews/3167209)
+39. [欧洲斯托克50指数开盘跌0.2%，德国DAX指数跌0.4%，英国富时100指数跌0.2%，法国CAC 40指数跌0.4%。](https://wallstreetcn.com/livenews/3167208)
+40. [A股收盘：创业板指放量涨超2%，次新股集体爆发](https://wallstreetcn.com/livenews/3167207)
+41. [日本财务大臣片山皋月：赢得市场信任、维护市场秩序至关重要。
 
 拒绝就日本央行两名审议委员持反对意见一事置评。
 
@@ -76,7 +82,7 @@
 
 将就外汇问题与其他国家金融当局保持密切沟通。
 ...](https://wallstreetcn.com/livenews/3167206)
-34. [上证指数收报3911.87点，涨0.94%。
+42. [上证指数收报3911.87点，涨0.94%。
 
 深证成指收报13640.87点，涨1.72%。
 
@@ -85,8 +91,8 @@
 沪深300收报4507.39点，涨1.06%。
 
 科创50收报1652.63点，涨2.8...](https://wallstreetcn.com/livenews/3167205)
-35. [商品期货收盘，原油主力合约跌超9%，焦煤跌超7%，焦炭跌超5%，燃料油、液化气、瓶片、对二甲苯、短纤跌超4%。沪银涨近4%，钯、集运欧线、铂、沪铅涨超2%。](https://wallstreetcn.com/livenews/3167204)
-36. [日本央行行长植田和男：春季工资谈判是影响物价趋势的重要因素。
+43. [商品期货收盘，原油主力合约跌超9%，焦煤跌超7%，焦炭跌超5%，燃料油、液化气、瓶片、对二甲苯、短纤跌超4%。沪银涨近4%，钯、集运欧线、铂、沪铅涨超2%。](https://wallstreetcn.com/livenews/3167204)
+44. [日本央行行长植田和男：春季工资谈判是影响物价趋势的重要因素。
 
 加息已逐步收紧金融环境。
 
@@ -97,8 +103,8 @@
 与政府保持密切沟通非常重要。
 
 不会预先排除任何特定的政策举措。](https://wallstreetcn.com/livenews/3167201)
-37. [【美元兑日元短线下跌约50点，植田和男：没有关于具体加息步伐的想法】美元兑日元短线下跌约50点，现报156.65。日本央行行长植田和男称，没有关于具体加息步伐的想法，将在每次会议上经过充分讨论后决定政策。将考量调整政策的时机与步伐。](https://wallstreetcn.com/livenews/3167199)
-38. [日本央行行长植田和男：政策执行所处的阶段已经发生变化。
+45. [【美元兑日元短线下跌约50点，植田和男：没有关于具体加息步伐的想法】美元兑日元短线下跌约50点，现报156.65。日本央行行长植田和男称，没有关于具体加息步伐的想法，将在每次会议上经过充分讨论后决定政策。将考量调整政策的时机与步伐。](https://wallstreetcn.com/livenews/3167199)
+46. [日本央行行长植田和男：政策执行所处的阶段已经发生变化。
 
 之所以加息，是因为我们需要警惕物价上行风险。
 
@@ -109,8 +115,8 @@
 将潜在通胀率稳定维持在2%左右的水准至关重要。
 
 很难...](https://wallstreetcn.com/livenews/3167198)
-39. [沈鼓涨幅一度涨超297%，分析人士：是极低发行价、极小流通盘、稀缺题材共振以及市场资金风格切换多重因素叠加的结果](https://wallstreetcn.com/livenews/3167197)
-40. [日本央行行长植田和男：将根据经济和物价情况继续加息。
+47. [沈鼓涨幅一度涨超297%，分析人士：是极低发行价、极小流通盘、稀缺题材共振以及市场资金风格切换多重因素叠加的结果](https://wallstreetcn.com/livenews/3167197)
+48. [日本央行行长植田和男：将根据经济和物价情况继续加息。
 
 中东、AI需求和汇率是影响利率路径的因素。
 
@@ -121,12 +127,16 @@
 需要避免物价偏离目标、损害经济。
 
 近...](https://wallstreetcn.com/livenews/3167196)
-41. [欧洲央行管委Kazaks：能源价格冲击更为持久。
+49. [欧洲央行管委Kazaks：能源价格冲击更为持久。
 
 所有会议都是实时会议。
 
-如有必要，我们将把存款利率提高到2.5%以上。](https://wallstreetcn.com/livenews/3167195)
-42. [日本央行行长植田和男：日本经济温和复苏，尽管仍存在一些疲弱迹象。
+如有必要，我们将把存款利率提高到2.5%以上。
+
+很可能需要采取限制性的货币政策。
+
+2.5%可能是中性利率区间的上限。](https://wallstreetcn.com/livenews/3167195)
+50. [日本央行行长植田和男：日本经济温和复苏，尽管仍存在一些疲弱迹象。
 
 经济可能将继续温和增长。
 
@@ -135,39 +145,36 @@
 潜在物价趋势正接近2%。
 
 鉴于企业加薪与定价行为趋于积极、中长期通胀预期上升...](https://wallstreetcn.com/livenews/3167194)
-43. [日经225指数收盘涨1.4%，报65018.95点。
+51. [日经225指数收盘涨1.4%，报65018.95点。
 
 日本东证指数收盘跌0.1%，报4091.14点。
 
 韩国首尔综指收盘涨2.7%，报6894.23点。](https://wallstreetcn.com/livenews/3167193)
-44. [仅用3天 千问办公协助国家天文台科研团队打造科研级望远镜仿真系统](https://wallstreetcn.com/livenews/3167192)
-45. [多家民营银行上调存款利率](https://wallstreetcn.com/livenews/3167191)
-46. [WTI原油日内跌幅达1.5%，报95.76美元/桶。](https://wallstreetcn.com/livenews/3167190)
-47. [巴基斯坦KSE-100指数上涨1%，至170,751.70点。](https://wallstreetcn.com/livenews/3167189)
-48. [房地产板块持续走高](https://wallstreetcn.com/livenews/3167188)
-49. [提醒：北京时间14:30，日本央行行长植田和男召开货币政策新闻发布会。](https://wallstreetcn.com/livenews/3167187)
-50. [现货黄金日内涨幅达1%，报4386.01美元/盎司。](https://wallstreetcn.com/livenews/3167184)
-51. [上期所欧线集运主力合约大涨6%，报2255点。](https://wallstreetcn.com/livenews/3167183)
-52. [蔡东出任金融监管总局党委委员](https://wallstreetcn.com/livenews/3167181)
-53. [AI赋能 我国开启天文智能观测新范式](https://wallstreetcn.com/livenews/3167180)
-54. [德国8月PPI同比 4.6%，预期 3.9%，前值 3%。](https://wallstreetcn.com/livenews/3167179)
-55. [德国8月PPI环比 1.1%，预期 0.6%，前值 1.1%。](https://wallstreetcn.com/livenews/3167178)
-56. [英国8月核心零售销售同比 2.7%，预期 1.9%，前值 2.3%。](https://wallstreetcn.com/livenews/3167177)
-57. [英国8月零售销售同比 2.4%，预期 1.9%，前值 1.6%。](https://wallstreetcn.com/livenews/3167176)
-58. [英国8月核心零售销售环比 0.6%，预期 -0.2%，前值 -0.9%。](https://wallstreetcn.com/livenews/3167175)
-59. [英国8月零售销售环比 0.5%，预期 -0.2%，前值 -0.5%。](https://wallstreetcn.com/livenews/3167174)
-60. [C沈鼓盘中涨超250%，现报74元/股；早盘一度跌近30%。](https://wallstreetcn.com/livenews/3167173)
-61. [软银将Arm保证金贷款增至250亿美元，加大人工智能押注](https://wallstreetcn.com/livenews/3167172)
-62. [SK海力士旗下公司Solidigm考虑在美国建设首座NAND闪存工厂。（韩联社）](https://wallstreetcn.com/livenews/3167171)
-63. [欧洲央行副行长Vujcic：市场利率路径主要反映能源价格。
+52. [仅用3天 千问办公协助国家天文台科研团队打造科研级望远镜仿真系统](https://wallstreetcn.com/livenews/3167192)
+53. [多家民营银行上调存款利率](https://wallstreetcn.com/livenews/3167191)
+54. [WTI原油日内跌幅达1.5%，报95.76美元/桶。](https://wallstreetcn.com/livenews/3167190)
+55. [巴基斯坦KSE-100指数上涨1%，至170,751.70点。](https://wallstreetcn.com/livenews/3167189)
+56. [房地产板块持续走高](https://wallstreetcn.com/livenews/3167188)
+57. [提醒：北京时间14:30，日本央行行长植田和男召开货币政策新闻发布会。](https://wallstreetcn.com/livenews/3167187)
+58. [现货黄金日内涨幅达1%，报4386.01美元/盎司。](https://wallstreetcn.com/livenews/3167184)
+59. [上期所欧线集运主力合约大涨6%，报2255点。](https://wallstreetcn.com/livenews/3167183)
+60. [蔡东出任金融监管总局党委委员](https://wallstreetcn.com/livenews/3167181)
+61. [AI赋能 我国开启天文智能观测新范式](https://wallstreetcn.com/livenews/3167180)
+62. [德国8月PPI同比 4.6%，预期 3.9%，前值 3%。](https://wallstreetcn.com/livenews/3167179)
+63. [德国8月PPI环比 1.1%，预期 0.6%，前值 1.1%。](https://wallstreetcn.com/livenews/3167178)
+64. [英国8月核心零售销售同比 2.7%，预期 1.9%，前值 2.3%。](https://wallstreetcn.com/livenews/3167177)
+65. [英国8月零售销售同比 2.4%，预期 1.9%，前值 1.6%。](https://wallstreetcn.com/livenews/3167176)
+66. [英国8月核心零售销售环比 0.6%，预期 -0.2%，前值 -0.9%。](https://wallstreetcn.com/livenews/3167175)
+67. [英国8月零售销售环比 0.5%，预期 -0.2%，前值 -0.5%。](https://wallstreetcn.com/livenews/3167174)
+68. [C沈鼓盘中涨超250%，现报74元/股；早盘一度跌近30%。](https://wallstreetcn.com/livenews/3167173)
+69. [软银将Arm保证金贷款增至250亿美元，加大人工智能押注](https://wallstreetcn.com/livenews/3167172)
+70. [SK海力士旗下公司Solidigm考虑在美国建设首座NAND闪存工厂。（韩联社）](https://wallstreetcn.com/livenews/3167171)
+71. [欧洲央行副行长Vujcic：市场利率路径主要反映能源价格。
 
 欧洲央行关注范围更广，不只限于能源价格。
 
 秋季高通胀将拖累经济。](https://wallstreetcn.com/livenews/3167170)
-64. [C信诺维涨超27%，触发临停。](https://wallstreetcn.com/livenews/3167169)
-65. [台交所加权股价指数收高1.9%报47,180.75点。](https://wallstreetcn.com/livenews/3167168)
-66. [北京市新增51款已完成登记的生成式人工智能服务](https://wallstreetcn.com/livenews/3167167)
-67. [上期所原油主力合约大跌9%，报732.4元/桶。](https://wallstreetcn.com/livenews/3167166)
-68. [赛力斯回应合作新模式会否影响问界“含华量”：华为终端持续参与赋能](https://wallstreetcn.com/livenews/3167165)
-69. [沈鼓集团持续拉升，盘中涨超30%，现报27.65元。](https://wallstreetcn.com/livenews/3167163)
-70. [创业板指涨幅扩大至3%，深证成指涨超2%，半导体、CPO、光伏设备等板块涨幅居前。](https://wallstreetcn.com/livenews/3167162)
+72. [C信诺维涨超27%，触发临停。](https://wallstreetcn.com/livenews/3167169)
+73. [台交所加权股价指数收高1.9%报47,180.75点。](https://wallstreetcn.com/livenews/3167168)
+74. [北京市新增51款已完成登记的生成式人工智能服务](https://wallstreetcn.com/livenews/3167167)
+75. [上期所原油主力合约大跌9%，报732.4元/桶。](https://wallstreetcn.com/livenews/3167166)
