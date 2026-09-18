@@ -1,11 +1,26 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-18 21:22:16
+> 更新时间：2026-09-18 21:24:18
 
-## 首页头条
+## 7x24
 
-1. [详解前8月全国财政数据](https://www.yicai.com/news/103370226.html)
-2. [高铁票价现节前浮动：有动卧大涨500元，“商务线”反而降价](https://www.yicai.com/news/103370115.html)
-3. [现场直击iPhone 18新机发售：线上价格“破发”后，黄牛加价不如前代](https://www.yicai.com/news/103369644.html)
-4. [越来越多人全款买房，多城居民杠杆率大幅降低](https://www.yicai.com/news/103370322.html)
-5. [从荷兰到西班牙，欧洲多国为何加速让黄金储备“回家”](https://www.yicai.com/news/103370159.html)
+1. [国际油价走高](https://m.yicai.com/brief/103370516.html)
+2. [四川甘孜州新龙县发生3.2级地震，震源深度11千米](https://m.yicai.com/brief/103370508.html)
+3. [国内商品期货夜盘开盘](https://m.yicai.com/brief/103370506.html)
+4. [宁德时代：9月18日斥资4.56亿元回购151.26万股A股](https://m.yicai.com/brief/103370504.html)
+5. [闲鱼严打色情引流：今年已封号9.8万个](https://m.yicai.com/brief/103370501.html)
+6. [宝钢独家中标中海油无缝海管框架协议](https://m.yicai.com/brief/103370492.html)
+7. [安森美再发涨价函](https://m.yicai.com/brief/103370487.html)
+8. [MiniMax Code CLI正式开源](https://m.yicai.com/brief/103370484.html)
+9. [美股盘前丨道指期货跌0.34% 奈飞盘前跌超3%](https://m.yicai.com/brief/103370480.html)
+10. [交通运输部：推动先进制造业和现代服务业深度融合，推进交通物流降本提质增效](https://m.yicai.com/brief/103370473.html)
+11. [锐捷网络：拟募资不超26亿元，用于面向大规模智算集群的高速互联网络系统研发及产业化项目等](https://m.yicai.com/brief/103370467.html)
+12. [AI进化速递丨智谱推出GLM-5.3-FlashX](https://m.yicai.com/brief/103370465.html)
+13. [欧洲斯托克600指数下跌1%](https://m.yicai.com/brief/103370457.html)
+14. [四川甘孜州新龙县发生3.6级地震，震源深度15千米](https://m.yicai.com/brief/103370443.html)
+15. [久量股份：拟以5000万元-1亿元回购公司股份](https://m.yicai.com/brief/103370438.html)
+16. [文化和旅游部发布《文化产业发展“十五五”规划》](https://m.yicai.com/brief/103370436.html)
+17. [华大九天：国家集成电路产业投资基金拟减持不超1%股份](https://m.yicai.com/brief/103370432.html)
+18. [星徽股份：液冷散热、服务器滑轨等业务尚未形成规模收入](https://m.yicai.com/brief/103370427.html)
+19. [徐工集团与天津临港控股签署战略合作框架协议](https://m.yicai.com/brief/103370410.html)
+20. [镇洋发展：PVC装置临时停产预计不超过4个月](https://m.yicai.com/brief/103370408.html)
