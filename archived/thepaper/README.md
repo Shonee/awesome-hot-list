@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-18 11:25:18
+> 更新时间：2026-09-18 12:25:14
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [九一八事变爆发95周年｜不忘国耻，吾辈自强](https://www.thepaper.cn/newsDetail_forward_34088592)
 14. [预告｜《大方之谈》对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34080153)
 15. [管家转卖雇主酒水获利243万元被判刑10年半，家属称将申诉](https://www.thepaper.cn/newsDetail_forward_34087700)
-16. [监控曝光！美国法庭突发一幕：判刑后，男子弄断手铐袭警欲逃跑](https://www.thepaper.cn/newsDetail_forward_34088073)
-17. [高市改组内阁纳入“黑金”议员引争议，布局明年总裁选举或遇林芳正挑战](https://www.thepaper.cn/newsDetail_forward_34089929)
-18. [王毅同美国国务卿鲁比奥通电话](https://www.thepaper.cn/newsDetail_forward_34091798)
-19. [北京香山论坛丨百余国代表齐聚北京香山论坛，全球治理倡议成热议焦点](https://www.thepaper.cn/newsDetail_forward_34091414)
-20. [苦“转人工难”久矣，人民日报密集发声：何以从“拦路虎”到不再“答非所问”](https://www.thepaper.cn/newsDetail_forward_34091597)
+16. [高市改组内阁纳入“黑金”议员引争议，布局明年总裁选举或遇林芳正挑战](https://www.thepaper.cn/newsDetail_forward_34089929)
+17. [王毅同美国国务卿鲁比奥通电话](https://www.thepaper.cn/newsDetail_forward_34091798)
+18. [北京香山论坛丨百余国代表齐聚北京香山论坛，全球治理倡议成热议焦点](https://www.thepaper.cn/newsDetail_forward_34091414)
+19. [苦“转人工难”久矣，人民日报密集发声：何以从“拦路虎”到不再“答非所问”](https://www.thepaper.cn/newsDetail_forward_34091597)
+20. [辽宁省政协原党组副书记、副主席戴玉林被查](https://www.thepaper.cn/newsDetail_forward_34089543)
