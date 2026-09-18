@@ -1,33 +1,31 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 04:24:39
+> 更新时间：2026-09-19 04:35:37
 
 ## 7x24
 
-1. [俄国家原子能公司称库尔斯克核电站冷却塔遭袭，运行未受影响](https://wallstreetcn.com/livenews/3167470)
-2. [美国总统特朗普谈及《电力用户保护法案》：正与参议院多数派领导人图恩（John Thune）讨论此事。](https://wallstreetcn.com/livenews/3167469)
-3. [大豆基金收跌1%，与地产ETF领跌美股大类资产类ETF](https://wallstreetcn.com/livenews/3167468)
-4. [美国总统特朗普谈可能对新闻禁令提起的法律挑战：我们拭目以待。](https://wallstreetcn.com/livenews/3167467)
-5. [Scope：上调希腊信用评级至BBB+，之前为BBB评级。](https://wallstreetcn.com/livenews/3167466)
-6. [周五（9月18日），美股行业ETF多数收跌，公用事业ETF跌1.42%，生物科技指数ETF跌1.21%，网络股指数ETF跌1.19%，全球科技股指数ETF涨0.79%，科技行业ETF涨0.82%，半导体ETF涨2.21%。](https://wallstreetcn.com/livenews/3167465)
-7. [Scope：将法国信用评级从AA-下调至A+。](https://wallstreetcn.com/livenews/3167464)
-8. [标普500指数的11个板块多数收跌，公用事业板块跌1.4%，原材料板块跌1.1%，房地产板块跌0.94%，电信板块跌0.74%，工业板块涨0.47%，信息技术/科技板块涨0.81%。](https://wallstreetcn.com/livenews/3167463)
-9. [报道：Anthropic推进IPO计划](https://wallstreetcn.com/livenews/3167462)
-10. [纽柯钢铁收涨6.3%，创2025年4月份以来最大单日跌幅。](https://wallstreetcn.com/livenews/3167461)
-11. [加密货币交易所Coinbase收涨12%，网红券商Robinhood涨9.1%。](https://wallstreetcn.com/livenews/3167460)
-12. [美国总统特朗普：我们将建议医药企业生产小剂量针剂。
+1. [美联储：美国上周银行存款19.657万亿美元，之前一周19.566万亿美元。](https://wallstreetcn.com/livenews/3167471)
+2. [俄国家原子能公司称库尔斯克核电站冷却塔遭袭，运行未受影响](https://wallstreetcn.com/livenews/3167470)
+3. [美国总统特朗普谈及《电力用户保护法案》：正与参议院多数派领导人图恩（John Thune）讨论此事。](https://wallstreetcn.com/livenews/3167469)
+4. [大豆基金收跌1%，与地产ETF领跌美股大类资产类ETF](https://wallstreetcn.com/livenews/3167468)
+5. [美国总统特朗普谈可能对新闻禁令提起的法律挑战：我们拭目以待。](https://wallstreetcn.com/livenews/3167467)
+6. [Scope：上调希腊信用评级至BBB+，之前为BBB评级。](https://wallstreetcn.com/livenews/3167466)
+7. [周五（9月18日），美股行业ETF多数收跌，公用事业ETF跌1.42%，生物科技指数ETF跌1.21%，网络股指数ETF跌1.19%，全球科技股指数ETF涨0.79%，科技行业ETF涨0.82%，半导体ETF涨2.21%。](https://wallstreetcn.com/livenews/3167465)
+8. [Scope：将法国信用评级从AA-下调至A+。](https://wallstreetcn.com/livenews/3167464)
+9. [标普500指数的11个板块多数收跌，公用事业板块跌1.4%，原材料板块跌1.1%，房地产板块跌0.94%，电信板块跌0.74%，工业板块涨0.47%，信息技术/科技板块涨0.81%。](https://wallstreetcn.com/livenews/3167463)
+10. [报道：Anthropic推进IPO计划](https://wallstreetcn.com/livenews/3167462)
+11. [纽柯钢铁收涨6.3%，创2025年4月份以来最大单日跌幅。](https://wallstreetcn.com/livenews/3167461)
+12. [加密货币交易所Coinbase收涨12%，网红券商Robinhood涨9.1%。](https://wallstreetcn.com/livenews/3167460)
+13. [美国总统特朗普：我们将建议医药企业生产小剂量针剂。
 
 将建议接种五剂疫苗，每剂间隔六个月。
 
 我们将建议部分儿童取消接种。
 
 将要求药企做出这项疫苗调整。](https://wallstreetcn.com/livenews/3167459)
-13. [本周，标普累跌约0.2%，道指跌1.6%，纳指涨0.5%，半导体指数大致持平整体持续收复失地，存储芯片指数涨1%，科技股七巨头指数涨1%，超大市值科技股涨0.8%，降息赢家指数跌3.1%。
+14. [本周，标普累跌约0.2%，道指跌1.6%，纳指涨0.5%，半导体指数大致持平整体持续收复失地，存储芯片指数涨1%，科技股七巨头指数涨1%，超大市值科技股涨0.8%，降息赢家指数跌3.1%。
 
 标普500指数初步收涨0.1%，科技板块涨...](https://wallstreetcn.com/livenews/3167458)
-14. [纳斯达克金龙中国指数初步收涨0.7%，本周累跌0.4%。
-
-热门中概股里，阿里初步收涨4.3%，日月光半导体涨4%，拼多多涨1.5%，小米涨0.7%，美团涨0.6%，比亚迪涨0.4%。](https://wallstreetcn.com/livenews/3167456)
 15. [纳斯达克100指数涨0.4%，刷新日高。](https://wallstreetcn.com/livenews/3167454)
 16. [英伟达参与投资的数据中心公司Nscale申请美国IPO](https://wallstreetcn.com/livenews/3167453)
 17. [美国商品期货交易委员会（CFTC）：9月15日当周，交易员转而看涨日元，为2025年以来首次。](https://wallstreetcn.com/livenews/3167452)
@@ -78,4 +76,3 @@
 36. [美银预测美联储加息至5%以上 建议客户为2年期收益率上行布仓](https://wallstreetcn.com/livenews/3167427)
 37. [五角大楼向美国国会提交对伊行动成本估算：436亿美元](https://wallstreetcn.com/livenews/3167426)
 38. [SpaceXAI：推出 Grok 语音转写 2.0 版本，在保持原有定价不变的情况下，准确率提升一倍。](https://wallstreetcn.com/livenews/3167425)
-39. [报道：西屋电气拟在美国IPO中获得超500亿美元估值](https://wallstreetcn.com/livenews/3167424)
