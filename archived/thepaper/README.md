@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-18 22:22:24
+> 更新时间：2026-09-18 23:21:02
 
 ## 热新闻
 
@@ -10,17 +10,17 @@
 4. [女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：报告结论客观，将再次开展调查](https://www.thepaper.cn/newsDetail_forward_34090377)
 5. [南方医科大学学生坠亡事件造谣微博账号已被处置](https://www.thepaper.cn/newsDetail_forward_34095780)
 6. [AI安全争议升温，英国王室罕见介入！查尔斯三世召集全球AI高层开会，黄仁勋、哈萨比斯参会](https://www.thepaper.cn/newsDetail_forward_34095187)
-7. [联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪](https://www.thepaper.cn/newsDetail_forward_34094739)
-8. [九一八事变爆发95周年｜不忘国耻，吾辈自强](https://www.thepaper.cn/newsDetail_forward_34088592)
-9. [涉乒乓球跳水领域恶意拉踩、公然侮辱等，5起网暴运动员案例公布](https://www.thepaper.cn/newsDetail_forward_34097435)
+7. [涉乒乓球跳水领域恶意拉踩、公然侮辱等，5起网暴运动员案例公布](https://www.thepaper.cn/newsDetail_forward_34097435)
+8. [联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪](https://www.thepaper.cn/newsDetail_forward_34094739)
+9. [九一八事变爆发95周年｜不忘国耻，吾辈自强](https://www.thepaper.cn/newsDetail_forward_34088592)
 10. [小麦烂在仓里，化肥买不到手，厄尔尼诺来袭：战火与气候夹击下的粮食困局](https://www.thepaper.cn/newsDetail_forward_34088824)
-11. [没早餐、查无此人、大巴开错路……名古屋亚运还没开幕就麻了](https://www.thepaper.cn/newsDetail_forward_34096004)
-12. [山西一行贿案罚没“足金观音像”拍卖变铜合金续：竞得人获退款84万余元，原因仍不明](https://www.thepaper.cn/newsDetail_forward_34095156)
-13. [中国男篮不敌日本男篮，未能晋级亚运男篮决赛](https://www.thepaper.cn/newsDetail_forward_34097694)
-14. [预告｜《大方之谈》对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34080153)
-15. [马上评丨用硫磺熏竹笋，食品监管不能总靠博主曝光](https://www.thepaper.cn/newsDetail_forward_34097054)
+11. [中国男篮不敌日本男篮，未能晋级亚运男篮决赛](https://www.thepaper.cn/newsDetail_forward_34097694)
+12. [马上评丨用硫磺熏竹笋，食品监管不能总靠博主曝光](https://www.thepaper.cn/newsDetail_forward_34097054)
+13. [没早餐、查无此人、大巴开错路……名古屋亚运还没开幕就麻了](https://www.thepaper.cn/newsDetail_forward_34096004)
+14. [山西一行贿案罚没“足金观音像”拍卖变铜合金续：竞得人获退款84万余元，原因仍不明](https://www.thepaper.cn/newsDetail_forward_34095156)
+15. [预告｜《大方之谈》对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34080153)
 16. [一图世界｜放缓AI发展，美国政商两界谁赞成、谁反对？](https://www.thepaper.cn/newsDetail_forward_34091924)
 17. [郭士强答澎湃新闻：我从不给自己打分](https://www.thepaper.cn/newsDetail_forward_34098317)
 18. [名古屋亚运会又出乌龙！曲棍球赛前给韩国队演奏朝鲜国歌](https://www.thepaper.cn/newsDetail_forward_34096796)
-19. [习挺松已任上海虹口区委常委、组织部部长](https://www.thepaper.cn/newsDetail_forward_34094769)
-20. [从战场到家庭账单：美伊战事七个月，账面军费约380亿美元](https://www.thepaper.cn/newsDetail_forward_34081386)
+19. [广东清远通报“硫磺熏笋”：已对违法加工原料及产品进行查封](https://www.thepaper.cn/newsDetail_forward_34096179)
+20. [习挺松已任上海虹口区委常委、组织部部长](https://www.thepaper.cn/newsDetail_forward_34094769)
