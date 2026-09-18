@@ -1,51 +1,61 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-18 13:47:58
+> 更新时间：2026-09-18 14:16:18
 
 ## 7x24
 
-1. [沈鼓集团盘中涨超100%，总市值突破1200亿元，日内成交额逾34亿元。](https://wallstreetcn.com/livenews/3167173)
-2. [因加大人工智能押注，软银将ARM保证金贷款增至250亿美元。](https://wallstreetcn.com/livenews/3167172)
-3. [SK海力士旗下公司Solidigm考虑在美国建设首座NAND闪存工厂。（韩联社）](https://wallstreetcn.com/livenews/3167171)
-4. [欧洲央行副行长Vujcic：市场利率路径主要反映能源价格。
+1. [现货黄金日内涨幅达1%，报4386.01美元/盎司。](https://wallstreetcn.com/livenews/3167184)
+2. [上期所欧线集运主力合约大涨6%，报2255点。](https://wallstreetcn.com/livenews/3167183)
+3. [蔡东出任金融监管总局党委委员](https://wallstreetcn.com/livenews/3167181)
+4. [AI赋能 我国开启天文智能观测新范式](https://wallstreetcn.com/livenews/3167180)
+5. [德国8月PPI同比 4.6%，预期 3.9%，前值 3%。](https://wallstreetcn.com/livenews/3167179)
+6. [德国8月PPI环比 1.1%，预期 0.6%，前值 1.1%。](https://wallstreetcn.com/livenews/3167178)
+7. [英国8月核心零售销售同比 2.7%，预期 1.9%，前值 2.3%。](https://wallstreetcn.com/livenews/3167177)
+8. [英国8月零售销售同比 2.4%，预期 1.9%，前值 1.6%。](https://wallstreetcn.com/livenews/3167176)
+9. [英国8月核心零售销售环比 0.6%，预期 -0.2%，前值 -0.9%。](https://wallstreetcn.com/livenews/3167175)
+10. [英国8月零售销售环比 0.5%，预期 -0.2%，前值 -0.5%。](https://wallstreetcn.com/livenews/3167174)
+11. [C沈鼓盘中涨超250%，现报74元/股；早盘一度跌近30%。](https://wallstreetcn.com/livenews/3167173)
+12. [软银将Arm保证金贷款增至250亿美元，加大人工智能押注](https://wallstreetcn.com/livenews/3167172)
+13. [SK海力士旗下公司Solidigm考虑在美国建设首座NAND闪存工厂。（韩联社）](https://wallstreetcn.com/livenews/3167171)
+14. [欧洲央行副行长Vujcic：市场利率路径主要反映能源价格。
 
 欧洲央行关注范围更广，不只限于能源价格。
 
 秋季高通胀将拖累经济。](https://wallstreetcn.com/livenews/3167170)
-5. [C信诺维涨超27%，触发临停。](https://wallstreetcn.com/livenews/3167169)
-6. [台交所加权股价指数收高1.9%报47,180.75点。](https://wallstreetcn.com/livenews/3167168)
-7. [北京市新增51款已完成登记的生成式人工智能服务](https://wallstreetcn.com/livenews/3167167)
-8. [上期所原油主力合约大跌9%，报732.4元/桶。](https://wallstreetcn.com/livenews/3167166)
-9. [赛力斯回应合作新模式会否影响问界“含华量”：华为终端持续参与赋能](https://wallstreetcn.com/livenews/3167165)
-10. [沈鼓集团持续拉升，盘中涨超30%，现报27.65元。](https://wallstreetcn.com/livenews/3167163)
-11. [创业板指涨幅扩大至3%，深证成指涨超2%，半导体、CPO、光伏设备等板块涨幅居前。](https://wallstreetcn.com/livenews/3167162)
-12. [沈鼓集团拉升涨近15%，触发二次临停。](https://wallstreetcn.com/livenews/3167161)
-13. [A股半导体板块持续走高，东微半导涨停，燧原科技、国民技术、富创精密涨超10%。](https://wallstreetcn.com/livenews/3167160)
-14. [新西兰：未与欧盟讨论过成为“联席成员”](https://wallstreetcn.com/livenews/3167159)
-15. [智谱发布GLM-5.3-FlashX，扩算力、提速度、提定价](https://wallstreetcn.com/livenews/3167158)
-16. [日本一核电站反应堆或因管道漏水暂时关停](https://wallstreetcn.com/livenews/3167156)
-17. [面向东盟开展数据合作 世界数据组织新设立分支机构](https://wallstreetcn.com/livenews/3167155)
-18. [NHK称，日本首相高市早苗正在安排下周联合国大会期间与美国总统特朗普会晤；共同社报道称，正在安排于9月22日举行会晤。](https://wallstreetcn.com/livenews/3167154)
-19. [提醒：日内请重点关注（以下均为北京时间）](https://wallstreetcn.com/livenews/3167153)
-20. [早间要闻汇总](https://wallstreetcn.com/livenews/3167152)
-21. [山西发行10年期其他专项地方债，规模1.9300亿元，发行利率1.7400%，边际倍数1.24倍，倍数预期1.74；
+15. [C信诺维涨超27%，触发临停。](https://wallstreetcn.com/livenews/3167169)
+16. [台交所加权股价指数收高1.9%报47,180.75点。](https://wallstreetcn.com/livenews/3167168)
+17. [北京市新增51款已完成登记的生成式人工智能服务](https://wallstreetcn.com/livenews/3167167)
+18. [上期所原油主力合约大跌9%，报732.4元/桶。](https://wallstreetcn.com/livenews/3167166)
+19. [赛力斯回应合作新模式会否影响问界“含华量”：华为终端持续参与赋能](https://wallstreetcn.com/livenews/3167165)
+20. [沈鼓集团持续拉升，盘中涨超30%，现报27.65元。](https://wallstreetcn.com/livenews/3167163)
+21. [创业板指涨幅扩大至3%，深证成指涨超2%，半导体、CPO、光伏设备等板块涨幅居前。](https://wallstreetcn.com/livenews/3167162)
+22. [沈鼓集团拉升涨近15%，触发二次临停。](https://wallstreetcn.com/livenews/3167161)
+23. [A股半导体板块持续走高，东微半导涨停，燧原科技、国民技术、富创精密涨超10%。](https://wallstreetcn.com/livenews/3167160)
+24. [新西兰：未与欧盟讨论过成为“联席成员”](https://wallstreetcn.com/livenews/3167159)
+25. [智谱发布GLM-5.3-FlashX，扩算力、提速度、提定价](https://wallstreetcn.com/livenews/3167158)
+26. [日本一核电站反应堆或因管道漏水暂时关停](https://wallstreetcn.com/livenews/3167156)
+27. [面向东盟开展数据合作 世界数据组织新设立分支机构](https://wallstreetcn.com/livenews/3167155)
+28. [NHK称，日本首相高市早苗正在安排下周联合国大会期间与美国总统特朗普会晤；共同社报道称，正在安排于9月22日举行会晤。](https://wallstreetcn.com/livenews/3167154)
+29. [提醒：日内请重点关注（以下均为北京时间）](https://wallstreetcn.com/livenews/3167153)
+30. [早间要闻汇总](https://wallstreetcn.com/livenews/3167152)
+31. [山西发行10年期其他专项地方债，规模1.9300亿元，发行利率1.7400%，边际倍数1.24倍，倍数预期1.74；
 
 山西发行15年期其他专项地方债，规模1.8500亿元，发行利率2.0600%，边际倍数1.43倍，倍数预期2.05...](https://wallstreetcn.com/livenews/3167151)
-22. [武汉：预计到2030年人工智能产业规模达到2000亿元](https://wallstreetcn.com/livenews/3167150)
-23. [日本20年期国债回吐此前涨幅，收益率现报3.835%。](https://wallstreetcn.com/livenews/3167149)
-24. [日经225指数日内涨幅扩大至2%。](https://wallstreetcn.com/livenews/3167148)
-25. [日经225指数午后开盘直线拉升，涨幅扩大至1.8%。](https://wallstreetcn.com/livenews/3167147)
-26. [日本央行加息后，日本30年期国债期货抹去此前涨幅。
+32. [武汉：预计到2030年人工智能产业规模达到2000亿元](https://wallstreetcn.com/livenews/3167150)
+33. [日本20年期国债回吐此前涨幅，收益率现报3.835%。](https://wallstreetcn.com/livenews/3167149)
+34. [日经225指数日内涨幅扩大至2%。](https://wallstreetcn.com/livenews/3167148)
+35. [日经225指数午后开盘直线拉升，涨幅扩大至1.8%。](https://wallstreetcn.com/livenews/3167147)
+36. [日本央行加息后，日本30年期国债期货抹去此前涨幅。
 
 日本10年期国收益率缩减跌幅，最新下行1.5个基点至2.975%。
 
 日本两年期国债收益率下行2.5个基点至1.835%。](https://wallstreetcn.com/livenews/3167146)
-27. [渣打：美联储主席沃什可能已经制造了卖出美元的障碍](https://wallstreetcn.com/livenews/3167145)
-28. [分析师称日本央行两名委员投票反对加息传递出鸽派信号](https://wallstreetcn.com/livenews/3167144)
-29. [恒生科技指数盘中一度涨2%，天数智芯涨超16%，MINIMAX涨超12%。](https://wallstreetcn.com/livenews/3167143)
-30. [SK海力士日内涨5%。](https://wallstreetcn.com/livenews/3167139)
-31. [创业板指半日涨超2%，全市场上涨个股超4600只](https://wallstreetcn.com/livenews/3167138)
-32. [上证指数早盘收报3916.07点，涨1.04%。
+37. [渣打：美联储主席沃什可能已经制造了卖出美元的障碍](https://wallstreetcn.com/livenews/3167145)
+38. [分析师称日本央行两名委员投票反对加息传递出鸽派信号](https://wallstreetcn.com/livenews/3167144)
+39. [恒生科技指数盘中一度涨2%，天数智芯涨超16%，MINIMAX涨超12%。](https://wallstreetcn.com/livenews/3167143)
+40. [SK海力士日内涨5%。](https://wallstreetcn.com/livenews/3167139)
+41. [创业板指半日涨超2%，全市场上涨个股超4600只](https://wallstreetcn.com/livenews/3167138)
+42. [上证指数早盘收报3916.07点，涨1.04%。
 
 深证成指早盘收报13613.48点，涨1.52%。
 
@@ -54,58 +64,8 @@
 沪深300早盘收报4507.02点，涨1.05%。
 
 科创50早盘收报166...](https://wallstreetcn.com/livenews/3167137)
-33. [国债期货早盘收盘，30年期主力合约涨0.13%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。](https://wallstreetcn.com/livenews/3167136)
-34. [创业板指涨超2%。](https://wallstreetcn.com/livenews/3167135)
-35. [美元兑日元涨破157.00关口，日内涨近0.7%，此前日本央行以7-2通过加息决定。](https://wallstreetcn.com/livenews/3167134)
-36. [国产大飞机研制新进展：C929正在稳步设计阶段](https://wallstreetcn.com/livenews/3167133)
-37. [韩国总统承认单一股票杠杆ETF存在不足，但未就投资者损失道歉](https://wallstreetcn.com/livenews/3167131)
-38. [贵州发行10年期一般债地方债，规模31.9500亿元，发行利率1.7400%，边际倍数2.17倍，倍数预期1.75；
-
-贵州发行20年期其他专项地方债，规模169.4271亿元，发行利率2.2500%，边际倍数1.81倍，倍数预期2....](https://wallstreetcn.com/livenews/3167130)
-39. [进出口行发行1年期债券，规模140亿元，发行利率1.3496%，预期1.3400%，投标倍数2.31倍，边际倍数1.07倍。](https://wallstreetcn.com/livenews/3167129)
-40. [A股三大指数均涨超1%。](https://wallstreetcn.com/livenews/3167128)
-41. [中国8月份汽油出口70万吨，同比降17.5%；1-8月累计汽油出口242万吨，同比降57.4%。
-
-8月份航空煤油出口255万吨，同比增41.4%；1-8月累计航空煤油出口1,176万吨，同比降14.4%。
-
-8月份柴油出口133万吨...](https://wallstreetcn.com/livenews/3167127)
-42. [中国8月份稀土及其制品出口10,822吨，同比降17.6%；1-8月累计稀土及其制品出口87,682吨，同比增3.2%。](https://wallstreetcn.com/livenews/3167126)
-43. [中国8月份肥料出口286万吨，同比降43.9%；1-8月累计肥料出口2,132万吨，同比降23.7%。](https://wallstreetcn.com/livenews/3167125)
-44. [中国8月份玉米及玉米粉进口32万吨，同比增784%；1-8月累计玉米及玉米粉进口168万吨，同比增91.1%。
-
-8月份小麦及小麦粉进口26万吨，同比增13.4%；1-8月累计小麦及小麦粉进口352万吨，同比增35.6%。
-
-8月份食...](https://wallstreetcn.com/livenews/3167124)
-45. [菲律宾股指日内下跌1%。](https://wallstreetcn.com/livenews/3167123)
-46. [隔夜SHIBOR报1.4170%，下降4.30个基点。
-
-7天SHIBOR报1.4620%，上涨1.20个基点。
-
-3个月SHIBOR报1.4300%，上涨0.00个基点。](https://wallstreetcn.com/livenews/3167122)
-47. [日本央行：CPI很可能在2026财年下半年明显加速升至2%以上。
-
-日本经济的发展符合日本央行的预期。
-
-实际利率依然维持在较低水平。
-
-中长期的通胀预期预计将有所上升。
-
-通胀存在偏离并高于物价目标的风险。
-
-将物价趋势稳定在2%附...](https://wallstreetcn.com/livenews/3167121)
-48. [日本央行审议委员浅田统一郎：在CPI低于2%的情况下，不能说经济是强劲的。](https://wallstreetcn.com/livenews/3167120)
-49. [日本央行：将根据经济和物价状况继续加息。
-
-物价趋势在2026财年下半年至2027财年期间符合目标。
-
-物价趋势存在偏离并高于目标的风险。
-
-中东局势、AI及汇率是评估下一次加息时机需要考量的因素。
-
-将物价趋势稳定在2%附近至关重要...](https://wallstreetcn.com/livenews/3167119)
-50. [美元/日元短线快速拉升。](https://wallstreetcn.com/livenews/3167117)
-51. [日本央行将基准利率从1%上调至1.25%，符合预期，为31年高位。
-
-日本央行以7-2的投票比例通过利率决议，审议委员浅田统一郎和佐藤绫野投下反对票。](https://wallstreetcn.com/livenews/3167116)
-52. [韩国总统李在明：杠杆ETF政策可能存在缺陷。](https://wallstreetcn.com/livenews/3167115)
-53. [韩国总统李在明：将尽快增加住房供应。](https://wallstreetcn.com/livenews/3167114)
+43. [国债期货早盘收盘，30年期主力合约涨0.13%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。](https://wallstreetcn.com/livenews/3167136)
+44. [创业板指涨超2%。](https://wallstreetcn.com/livenews/3167135)
+45. [美元兑日元涨破157.00关口，日内涨近0.7%，此前日本央行以7-2通过加息决定。](https://wallstreetcn.com/livenews/3167134)
+46. [国产大飞机研制新进展：C929正在稳步设计阶段](https://wallstreetcn.com/livenews/3167133)
+47. [韩国总统承认单一股票杠杆ETF存在不足，但未就投资者损失道歉](https://wallstreetcn.com/livenews/3167131)
