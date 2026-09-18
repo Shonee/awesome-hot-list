@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-18 18:22:22
+> 更新时间：2026-09-18 19:20:13
 
 ## Hottest
 
@@ -10,22 +10,22 @@
 4. [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
 5. [I expected better from Google](https://www.minitap.ai/blog/i-expected-better-from-google)
 6. [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
-7. [Introducing System One Models & Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
-8. [We Must Create the Shit Machine](https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine)
-9. [What is still exciting in tech?](https://lobste.rs/s/lcjf7c)
+7. [What is still exciting in tech?](https://lobste.rs/s/lcjf7c)
+8. [Introducing System One Models & Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+9. [We Must Create the Shit Machine](https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine)
 10. [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/)
-11. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
-12. [jemalloc 5.4.0 release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
-13. [What are you doing this weekend?](https://lobste.rs/s/e1xglz)
-14. [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
-15. [Bend](https://bend-lang.com/)
-16. [Your Donations at Work: One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
-17. [Not In My Git Yard: Catching Backdoors at Commit and Release Time](https://arxiv.org/abs/2607.26719)
-18. [Introducing GNOME 51](https://release.gnome.org/51/)
-19. [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
-20. [On learning programming in an age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
+11. [What are you doing this weekend?](https://lobste.rs/s/e1xglz)
+12. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
+13. [jemalloc 5.4.0 release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+14. [Bend](https://bend-lang.com/)
+15. [Not In My Git Yard: Catching Backdoors at Commit and Release Time](https://arxiv.org/abs/2607.26719)
+16. [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
+17. [Your Donations at Work: One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+18. [A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill](https://seclists.org/oss-sec/2026/q3/822)
+19. [Introducing GNOME 51](https://release.gnome.org/51/)
+20. [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
 21. [The C++20’s u8/char8_t Backward-Compatibility Fiasco](https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/)
-22. [Flet : Build cross-platform apps in Python](https://flet.dev/)
-23. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
-24. [Tilia—a new formatter for Haskell](https://markkarpov.com/post/announcing-tilia.html)
-25. [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/)
+22. [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
+23. [On learning programming in an age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
+24. [Flet : Build cross-platform apps in Python](https://flet.dev/)
+25. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
