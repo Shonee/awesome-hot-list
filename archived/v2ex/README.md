@@ -1,15 +1,15 @@
 # V2EX热榜
 
-> 更新时间：2026-09-19 00:29:52
+> 更新时间：2026-09-19 04:29:02
 
 ## 热门主题
 
 1. [国内的麦当劳，肯德基，汉堡王，好像大部分人都不会收盘子](https://www.v2ex.com/t/1242932)
-2. [我的三十岁，以及从龟到独立人格的改变](https://www.v2ex.com/t/1242824)
-3. [[送终身会员] Termind： AI 驱动的 SSH 终端，现已支持 iOS](https://www.v2ex.com/t/1242844)
-4. [写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局](https://www.v2ex.com/t/1242880)
-5. [大家的 MacBook pro 是怎么散热的呀， 2017 款，能用，现在 vibe coding 发热巨烫，一直对着小风扇吹着的。](https://www.v2ex.com/t/1242836)
-6. [亲戚欠钱不还，要不要起诉](https://www.v2ex.com/t/1242862)
+2. [[送终身会员] Termind： AI 驱动的 SSH 终端，现已支持 iOS](https://www.v2ex.com/t/1242844)
+3. [写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局](https://www.v2ex.com/t/1242880)
+4. [大家的 MacBook pro 是怎么散热的呀， 2017 款，能用，现在 vibe coding 发热巨烫，一直对着小风扇吹着的。](https://www.v2ex.com/t/1242836)
+5. [亲戚欠钱不还，要不要起诉](https://www.v2ex.com/t/1242862)
+6. [肝了！真的做了一个 PS，再也不用 photoshop 了](https://www.v2ex.com/t/1242849)
 7. [最近找工作有点把我整不会了](https://www.v2ex.com/t/1242845)
-8. [肝了！真的做了一个 PS，再也不用 photoshop 了](https://www.v2ex.com/t/1242849)
-9. [Claude 封号问题，想使用 claude 不被封，这是我近半年 100+账号跌跌撞撞的一些心得](https://www.v2ex.com/t/1242854)
+8. [Claude 封号问题，想使用 claude 不被封，这是我近半年 100+账号跌跌撞撞的一些心得](https://www.v2ex.com/t/1242854)
+9. [豆包手机发布了，好像没啥讨论的](https://www.v2ex.com/t/1242930)
