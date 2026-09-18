@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-18 07:17:29
+> 更新时间：2026-09-18 08:55:09
 
 ## 最新帖子
 
-1. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
-2. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)
-3. [手机管理小工具](https://www.cnblogs.com/futrueface/p/23018359)
-4. [PCI 总线协议解析](https://www.cnblogs.com/ayuan01/p/23018252)
-5. [java服务异常日志只打印异常类型，没有堆栈定位分析](https://www.cnblogs.com/zjdxr-up/p/23016204)
-6. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- （3）--- Rollout思路](https://www.cnblogs.com/rossiXYZ/p/22864291)
-7. [图论：LCA、树的直径、树的重心、二分图与 Tarjan 缩点](https://www.cnblogs.com/lvwangshuOI/p/23017314)
-8. [并发编程（二）：语言内存模型——程序员可以依赖的规则](https://www.cnblogs.com/ThinkerQAQ/p/23002812)
-9. [MynaTest｜一款面向 Web 测试人员的 Chrome MV3 扩展，开箱即用的测试辅助工具集](https://www.cnblogs.com/tynam/p/23016207)
-10. [Excel 列转行/行列转换全指南：从 4 种常见解法到 Python 批量自动化](https://www.cnblogs.com/Yesi/p/23015583)
-11. [基于 LlamaIndex 实现RAG向量检索入门](https://www.cnblogs.com/LyShark/p/23014455)
-12. [Python 可变默认参数导致的分页故障：从现象到根因到修复](https://www.cnblogs.com/exioran/p/23011869)
-13. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
-14. [DDD、SOA、微服务和微内核](https://www.cnblogs.com/xiexj/p/23010353)
-15. [标准外设库到底在替你做什么：从时钟到 GPIO 的一次完整调用](https://www.cnblogs.com/zw-awa/p/22994720)
-16. [告别“散装 AI ”：用 SKILL 编排对存量代码做“微创手术”](https://www.cnblogs.com/vivotech/p/23009536)
-17. [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线](https://www.cnblogs.com/goodhacker/p/23008551)
-18. [AI 赋能 Push Kit 场景化消息开发，高效完成鸿蒙应用推送能力接入](https://www.cnblogs.com/HarmonyOSSDK/p/23008151)
-19. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
-20. [数据脱敏是怎么做的](https://www.cnblogs.com/zrui-xyu/p/23007299)
+1. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
+2. [免费线上 OFD 阅读器 全程本地](https://www.cnblogs.com/objects/p/23020814)
+3. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
+4. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
+5. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)
+6. [手机管理小工具](https://www.cnblogs.com/futrueface/p/23018359)
+7. [PCI 总线协议解析](https://www.cnblogs.com/ayuan01/p/23018252)
+8. [java服务异常日志只打印异常类型，没有堆栈定位分析](https://www.cnblogs.com/zjdxr-up/p/23016204)
+9. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- （3）--- Rollout思路](https://www.cnblogs.com/rossiXYZ/p/22864291)
+10. [图论：LCA、树的直径、树的重心、二分图与 Tarjan 缩点](https://www.cnblogs.com/lvwangshuOI/p/23017314)
+11. [并发编程（二）：语言内存模型——程序员可以依赖的规则](https://www.cnblogs.com/ThinkerQAQ/p/23002812)
+12. [MynaTest｜一款面向 Web 测试人员的 Chrome MV3 扩展，开箱即用的测试辅助工具集](https://www.cnblogs.com/tynam/p/23016207)
+13. [Excel 列转行/行列转换全指南：从 4 种常见解法到 Python 批量自动化](https://www.cnblogs.com/Yesi/p/23015583)
+14. [基于 LlamaIndex 实现RAG向量检索入门](https://www.cnblogs.com/LyShark/p/23014455)
+15. [Python 可变默认参数导致的分页故障：从现象到根因到修复](https://www.cnblogs.com/exioran/p/23011869)
+16. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
+17. [DDD、SOA、微服务和微内核](https://www.cnblogs.com/xiexj/p/23010353)
+18. [标准外设库到底在替你做什么：从时钟到 GPIO 的一次完整调用](https://www.cnblogs.com/zw-awa/p/22994720)
+19. [告别“散装 AI ”：用 SKILL 编排对存量代码做“微创手术”](https://www.cnblogs.com/vivotech/p/23009536)
+20. [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线](https://www.cnblogs.com/goodhacker/p/23008551)
 
 ## 精华帖子
 

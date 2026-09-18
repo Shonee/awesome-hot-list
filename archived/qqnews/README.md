@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-18 07:17:40
+> 更新时间：2026-09-18 08:55:23
 
 ## 热点榜
 
 1. [习言道 总书记引领科技强国路：科技兴则民族兴，科技强则国家强，党的十八大以来，以习近平同志为核心的党中央统筹中华民族伟大复兴战略全局和世界百年未有之大变局，始终把科技创新摆在国家发展全局的核心位置，系统谋划、统筹推进，加快高水平科技自立自强，全力建设科技强国](https://view.inews.qq.com/a/20260917V04T5W00)
 2. [九十五年了，我们为何依然要拉响警报](https://view.inews.qq.com/a/20260918A0257H00)
-3. [亚运会｜旗手吴愉：期待高举五星红旗入场](https://view.inews.qq.com/a/20260917A0D1IQ00)
+3. [视频丨硬核突破！中国先进制造接连“上新”](https://view.inews.qq.com/a/20260918A01WBB00)
 4. [国际观察｜赋能世界经济　合作共创未来——中国先进制造业何以走向全球](https://view.inews.qq.com/a/20260917A0CB2A00)
-5. [全球首组，“太空透视眼”上天了！](https://view.inews.qq.com/a/20260917V0DORG00)
-6. [首批目录13类，中医暂不纳入：医疗服务项目医保支付加快全国统一](https://view.inews.qq.com/a/20260917A0A1DD00)
-7. [超20城优化公积金政策，大病提取范围进一步扩大](https://view.inews.qq.com/a/20260917A08BH800)
-8. [视频丨账户余额到账用钱时却凭空消失 北京反诈中心揭秘私下换汇骗局](https://view.inews.qq.com/a/20260917A06KG600)
-9. [新疆阿勒泰夜空现不明发光飞行物？天文摄影师：系境外火箭发射形成的暮光效应](https://view.inews.qq.com/a/20260917A0C2T400)
-10. [AI手机的关键战场变了：APP调度权比模型能力本身更重要](https://view.inews.qq.com/a/20260917A0A6WB00)
-11. [警方披露“外卖员向餐食吐口水摆拍案”细节（2026·09·17）](https://view.inews.qq.com/a/20260917A0CH3T00)
-12. [特朗普：美伊战争迎来关键节点 我面临一个重大决定](https://view.inews.qq.com/a/20260918A01AN700)
-13. [茅台自营店限购：个人年5箱、企业年50箱](https://view.inews.qq.com/a/20260917A0EDLK00)
-14. [一体化电视时代将来临！对普通消费者和彩电产业有何利好？业内解读](https://view.inews.qq.com/a/20260918A00KKD00)
-15. [蓝芩喉糖“蓝芩含量为0”引争议：企业称蓝芩是商标，律师称关键看广告话术](https://view.inews.qq.com/a/20260917A0CVVS00)
-16. [黄晓明、王鹤棣、黄子韬、刘耀文等知名艺人中招！警方破获特大明星行程黑产](https://view.inews.qq.com/a/20260917A0EKSB00)
-17. [82岁，正是闯的年纪？](https://view.inews.qq.com/a/20260917A0EIV600)
-18. [柯东贤，保送！](https://view.inews.qq.com/a/20260917A0DTI800)
+5. [视频丨勿忘九一八！全军各部队开展多形式活动缅怀先烈](https://view.inews.qq.com/a/20260918A02B8C00)
+6. [新规落地倒计时！六大红线已明确，严打金融产品网络营销灰色地带](https://view.inews.qq.com/a/20260917A0FEQP00)
+7. [视频丨美国向我国返还64件（套）文物艺术品和古生物化石](https://view.inews.qq.com/a/20260918A01VDB00)
+8. [一体化电视时代将来临！对普通消费者和彩电产业有何利好？业内解读](https://view.inews.qq.com/a/20260918A00KKD00)
+9. [新华视点丨如何加固学生信息“安全锁”](https://view.inews.qq.com/a/20260917A0CCC400)
+10. [视频丨事关再生资源绿色供应链 最新报告显示废旧家电等成今年增长重点](https://view.inews.qq.com/a/20260918A02CZP00)
+11. [开水烫一下餐具能杀菌？](https://view.inews.qq.com/a/20260917A0CQRU00)
+12. [中国和俄罗斯投了反对票](https://view.inews.qq.com/a/20260918A02D0F00)
+13. [管姚：胡塞击落沙特战机，“美械神话”千疮百孔](https://view.inews.qq.com/a/20260917A0F5YB00)
+14. [茅台自营店限购：个人购500ml飞天茅台年度限购5箱，企业年度限购50箱](https://view.inews.qq.com/a/20260917A0EDLK00)
+15. [巴基斯坦表态了，这是一个重要信号](https://view.inews.qq.com/a/20260918A02HQB00)
+16. [特朗普：美伊战争迎来关键节点 我面临一个重大决定](https://view.inews.qq.com/a/20260918A01AN700)
+17. [钟声：病根不除，日本没有未来](https://view.inews.qq.com/a/20260917A0ERIM00)
+18. [苹果iPhone 18 Pro系列今日正式开售，国行9999元起](https://view.inews.qq.com/a/20260918A001PY00)
 19. [“还我清白！”店里钻戒丢失，浙江女子哭着报警喊冤，结局反转：民警在其家中厕所木板下找到被盗钻戒，已被刑拘](https://view.inews.qq.com/a/20260917A0AL7R00)
-20. [王毅同美国国务卿鲁比奥通电话](https://view.inews.qq.com/a/20260917A0EV6P00)
+20. [贾国龙新品牌多店暂停营业？西贝回应](https://view.inews.qq.com/a/20260917A0F99J00)
