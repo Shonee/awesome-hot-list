@@ -1,11 +1,26 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-18 13:21:50
+> 更新时间：2026-09-18 13:24:58
 
-## 首页头条
+## 7x24
 
-1. [现场直击iPhone 18新机发售：线上价格“破发”后，黄牛加价不如前代](https://www.yicai.com/news/103369644.html)
-2. [高规格会议部署先进制造业：加快新兴产业规模应用](https://www.yicai.com/news/103368841.html)
-3. [美联储加息落地，全球紧缩交易重启](https://www.yicai.com/news/103368767.html)
-4. [审计揭地方财政资源统筹问题：部分结转结余资金未盘活](https://www.yicai.com/news/103367768.html)
-5. [美伊冲突半年后，全球油运市场进入极端行情](https://www.yicai.com/news/103368510.html)
+1. [创业板指涨幅扩大至3%](https://m.yicai.com/brief/103369687.html)
+2. [沈鼓集团涨超15% 触发二次临停](https://m.yicai.com/brief/103369680.html)
+3. [新西兰：未与欧盟讨论过成为“联席成员”](https://m.yicai.com/brief/103369678.html)
+4. [智谱发布GLM-5.3-FlashX 扩算力、提速度、提定价](https://m.yicai.com/brief/103369664.html)
+5. [创新药板块迎利好 业绩有望持续高增长股名单出炉](https://m.yicai.com/brief/103369662.html)
+6. [顺丰同城：控股股东增持4584.4万股H股 持股比例升至约63.48%](https://m.yicai.com/brief/103369660.html)
+7. [面向东盟开展数据合作 世界数据组织新设立分支机构](https://m.yicai.com/brief/103369655.html)
+8. [网传相关全极耳磷酸铁锂电池存在原材料供货问题？蔚蓝锂芯：不属实](https://m.yicai.com/brief/103369652.html)
+9. [韩国KOSPI指数突破6900点](https://m.yicai.com/brief/103369626.html)
+10. [港股午盘｜恒指涨0.67% 半导体板块大涨](https://m.yicai.com/brief/103369614.html)
+11. [半日主力资金丨加仓电子股 抛售建筑材料股](https://m.yicai.com/brief/103369585.html)
+12. [联想市值超越美团](https://m.yicai.com/brief/103369583.html)
+13. [SK海力士涨幅扩大至5%](https://m.yicai.com/brief/103369581.html)
+14. [恒生科技指数盘中一度涨2%](https://m.yicai.com/brief/103369576.html)
+15. [国债期货午盘全线上涨](https://m.yicai.com/brief/103369574.html)
+16. [A股午盘丨创业板指涨2.11% 芯片产业链集体走强](https://m.yicai.com/brief/103369568.html)
+17. [国内商品期市午盘多数下跌](https://m.yicai.com/brief/103369566.html)
+18. [创业板指涨幅扩大至2%](https://m.yicai.com/brief/103369562.html)
+19. [韩国总统称不会向霍尔木兹海峡派兵“介入战争”](https://m.yicai.com/brief/103369559.html)
+20. [大金融板块异动拉升](https://m.yicai.com/brief/103369546.html)
