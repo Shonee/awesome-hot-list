@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-19 05:18:43
+> 更新时间：2026-09-19 06:19:43
 
 ## 24 小时热榜
 
@@ -12,12 +12,12 @@
 6. [腾讯正式推出 AI 游戏创作平台「游点灵」](https://readhub.cn/topic/8wWJajHc8RD?tab=daily)
 7. [不到 30 岁清华校友任 Anthropic 前沿计算战略负责人](https://readhub.cn/topic/8wW7RFr5gPz?tab=daily)
 8. [iPhone 18 Pro 首发日：黄牛利润缩水，顶配溢价比去年少一半](https://readhub.cn/topic/8wW60EaLktc?tab=daily)
-9. [苹果回应 iPhone Duo 发烫问题 称博主单机测评较片面](https://readhub.cn/topic/8wUiHDrYspY?tab=daily)
-10. [安世半导体与塔塔达成合作 将在印度生产及封装芯片](https://readhub.cn/topic/8wUvsSQSlFR?tab=daily)
+9. [安世半导体与塔塔达成合作 将在印度生产及封装芯片](https://readhub.cn/topic/8wUvsSQSlFR?tab=daily)
+10. [苹果回应 iPhone Duo 发烫问题 称博主单机测评较片面](https://readhub.cn/topic/8wUiHDrYspY?tab=daily)
 11. [比亚迪汽车工业有限公司、比亚迪汽车有限公司召回部分国产汽车](https://readhub.cn/topic/8wWN9IazcaN?tab=daily)
-12. [Anthropic 发布 AI 发展速度评估指标 追踪前沿实验室模型研发进程](https://readhub.cn/topic/8wVfCoqNKIr?tab=daily)
-13. [智谱发布 GLM-5.3-FlashX，扩算力、提速度、提定价](https://readhub.cn/topic/8wWCQaV7QHi?tab=daily)
-14. [特斯拉推送软件更新：为更多车型上线豆包大模型](https://readhub.cn/topic/8wVrONaJutp?tab=daily)
+12. [特斯拉推送软件更新：为更多车型上线豆包大模型](https://readhub.cn/topic/8wVrONaJutp?tab=daily)
+13. [Anthropic 发布 AI 发展速度评估指标 追踪前沿实验室模型研发进程](https://readhub.cn/topic/8wVfCoqNKIr?tab=daily)
+14. [智谱发布 GLM-5.3-FlashX，扩算力、提速度、提定价](https://readhub.cn/topic/8wWCQaV7QHi?tab=daily)
 15. [Claude 编写 Anthropic 八成代码，致 CI 半年暴涨 25 倍](https://readhub.cn/topic/8wW0K2jsDl6?tab=daily)
 16. [Manus 恢复独立 17 天，拟融资目标估值 40 亿美元](https://readhub.cn/topic/8wVvHoAQo1C?tab=daily)
 17. [苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补](https://readhub.cn/topic/8wVK7S82r4e?tab=daily)
@@ -37,13 +37,13 @@
 
 ## 每日早报
 
-1. [09.17 张一鸣首次成为亚洲首富 13 条](https://readhub.cn/daily/2026-09-17)
-2. [09.16 苹果正式推送 iOS 27：Siri AI 全面升级 老款机型性能优化 17 条](https://readhub.cn/daily/2026-09-16)
-3. [09.15 传高瓴 90 后合伙人严文韬加入 DeepSeek 出任 CFO 14 条](https://readhub.cn/daily/2026-09-15)
-4. [09.14 Anthropic CEO 呼吁前沿 AI 限速，奥特曼、马斯克表态支持 9 条](https://readhub.cn/daily/2026-09-14)
-5. [09.13 月之暗面报案：网传关于创始人及员工的信息系恶意造谣 10 条](https://readhub.cn/daily/2026-09-13)
-6. [09.12 OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，因需求过大 12 条](https://readhub.cn/daily/2026-09-12)
-7. [09.11 OpenAI 推出金融服务版 ChatGPT 13 条](https://readhub.cn/daily/2026-09-11)
+1. [09.18 消息称 OpenAI 接近攻克霍奇猜想 12 条](https://readhub.cn/daily/2026-09-18)
+2. [09.17 张一鸣首次成为亚洲首富 13 条](https://readhub.cn/daily/2026-09-17)
+3. [09.16 苹果正式推送 iOS 27：Siri AI 全面升级 老款机型性能优化 17 条](https://readhub.cn/daily/2026-09-16)
+4. [09.15 传高瓴 90 后合伙人严文韬加入 DeepSeek 出任 CFO 14 条](https://readhub.cn/daily/2026-09-15)
+5. [09.14 Anthropic CEO 呼吁前沿 AI 限速，奥特曼、马斯克表态支持 9 条](https://readhub.cn/daily/2026-09-14)
+6. [09.13 月之暗面报案：网传关于创始人及员工的信息系恶意造谣 10 条](https://readhub.cn/daily/2026-09-13)
+7. [09.12 OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，因需求过大 12 条](https://readhub.cn/daily/2026-09-12)
 
 ## AI 资讯
 
