@@ -21,6 +21,9 @@ HTTP 请求工具（独立模块，零项目内依赖）
 import logging
 import random
 import time
+import os
+import threading
+from urllib.parse import urlparse
 
 logger = logging.getLogger(__name__)
 
@@ -55,6 +58,31 @@ DEFAULT_RETRIES = 3
 
 #: 重试退避基数（秒），实际间隔为 base * 2^(n-1)
 DEFAULT_BACKOFF = 1.0
+_DOMAIN_STATE = {}
+_DOMAIN_LOCK = threading.Lock()
+
+
+def _domain_gate(url: str) -> None:
+    """Apply an optional process-wide per-domain request interval/cooldown."""
+    minimum = max(0.0, float(os.environ.get("HOTLIST_DOMAIN_MIN_INTERVAL_SECONDS", "0")))
+    host = (urlparse(url).hostname or "").lower()
+    if not host or minimum <= 0:
+        return
+    with _DOMAIN_LOCK:
+        wait_until = _DOMAIN_STATE.get(host, 0.0)
+    now = time.monotonic()
+    if wait_until > now:
+        time.sleep(wait_until - now)
+    with _DOMAIN_LOCK:
+        _DOMAIN_STATE[host] = time.monotonic() + minimum
+
+
+def _mark_domain_cooldown(url: str, seconds: float) -> None:
+    host = (urlparse(url).hostname or "").lower()
+    if not host:
+        return
+    with _DOMAIN_LOCK:
+        _DOMAIN_STATE[host] = max(_DOMAIN_STATE.get(host, 0.0), time.monotonic() + seconds)
 
 
 def _retryable_status(status_code: int) -> bool:
@@ -87,6 +115,7 @@ def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEO
     last_error = None
     for attempt in range(1, max(1, retries) + 1):
         try:
+            _domain_gate(url)
             caller = session or requests
             response = caller.get(url, headers=merged, timeout=timeout)
             if response.status_code != 200:
@@ -101,6 +130,13 @@ def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEO
         except Exception as e:  # noqa: BLE001 - 采集脚本不应因单次抖动整体崩溃
             last_error = e
             status = getattr(getattr(e, "response", None), "status_code", None)
+            if status in {403, 429}:
+                retry_after = getattr(getattr(e, "response", None), "headers", {}).get("Retry-After", "")
+                try:
+                    cooldown = min(600.0, max(5.0, float(retry_after)))
+                except (TypeError, ValueError):
+                    cooldown = 30.0
+                _mark_domain_cooldown(url, cooldown)
             should_retry = status is None or _retryable_status(status)
             if attempt < retries and should_retry:
                 wait = DEFAULT_BACKOFF * (2 ** (attempt - 1))
@@ -129,6 +165,7 @@ def post(url, payload=None, res_type='text', headers: dict = None,
     last_error = None
     for attempt in range(1, max(1, retries) + 1):
         try:
+            _domain_gate(url)
             caller = session or requests
             response = caller.post(url, headers=merged, json=payload, timeout=timeout)
             if response.status_code != 200:
@@ -139,6 +176,8 @@ def post(url, payload=None, res_type='text', headers: dict = None,
         except Exception as exc:  # noqa: BLE001 - retry transient source failures
             last_error = exc
             status = getattr(getattr(exc, "response", None), "status_code", None)
+            if status in {403, 429}:
+                _mark_domain_cooldown(url, 30.0)
             should_retry = status is None or _retryable_status(status)
             if attempt < retries and should_retry:
                 wait = DEFAULT_BACKOFF * (2 ** (attempt - 1))

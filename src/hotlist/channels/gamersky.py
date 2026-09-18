@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from src.utils.http_utils import get
 
 from ..models import HotItem, Ranking
-from .common import snapshot
+from .common import same_host, snapshot
 
 
 SOURCE_URL = "https://www.gamersky.com/news/"
@@ -23,7 +23,7 @@ def parse_hot_news(html: str | bytes) -> list[HotItem]:
             continue
         title = link.get("title") or link.get_text(" ", strip=True)
         url = link.get("href", "")
-        if not title or (urlparse(url).hostname or "").lower() != "www.gamersky.com" or url in seen:
+        if not title or not same_host(url, {"www.gamersky.com"}) or url in seen:
             continue
         seen.add(url)
         rank_node = row.select_one(".num")

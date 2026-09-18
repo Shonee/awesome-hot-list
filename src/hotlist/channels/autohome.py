@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 from src.utils.http_utils import get
 
 from ..models import HotItem, Ranking
-from .common import snapshot
+from .common import same_host, snapshot
 
 
 SOURCE_URL = "https://www.autohome.com.cn/cars/hotrank/1"
@@ -22,7 +22,7 @@ def parse_hot_rank(payload: dict) -> list[HotItem]:
         title = str(row.get("title") or "").strip()
         url = str(row.get("url") or "").strip()
         host = (urlparse(url).hostname or "").lower()
-        if not title or not (host == "autohome.com.cn" or host.endswith(".autohome.com.cn")) or url in seen:
+        if not title or not (same_host(url, {"autohome.com.cn", host}) and (host == "autohome.com.cn" or host.endswith(".autohome.com.cn"))) or url in seen:
             continue
         seen.add(url)
         items.append(HotItem(row.get("rank") or len(items) + 1, title, url, hot=row.get("hotScore"),

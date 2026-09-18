@@ -84,6 +84,7 @@ class ChannelSnapshot:
     error: str = ""
     schema_version: int = 1
     warnings: List[str] = field(default_factory=list)
+    health: dict = field(default_factory=dict)
 
     def to_dict(self) -> dict:
         return {
@@ -95,6 +96,7 @@ class ChannelSnapshot:
             "status": self.status,
             "error": self.error,
             "warnings": list(self.warnings),
+            "health": dict(self.health),
             "rankings": [ranking.to_dict() for ranking in self.rankings],
         }
 
@@ -129,6 +131,7 @@ class ChannelSnapshot:
         fetched_at: str,
         status: str,
         error: str,
+        health: Optional[dict] = None,
     ) -> "ChannelSnapshot":
         return cls(
             channel_id=channel_id,
@@ -138,6 +141,7 @@ class ChannelSnapshot:
             rankings=[],
             status=status,
             error=error,
+            health=dict(health or {}),
         )
 
 

@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from src.utils.http_utils import get
 
 from ..models import HotItem, Ranking
-from .common import clean_html, select_live_items, snapshot
+from .common import clean_html, same_host, select_live_items, snapshot
 
 
 SOURCE_URL = "https://www.yicai.com/"
@@ -25,7 +25,7 @@ def parse_headlines(html: str | bytes) -> list[HotItem]:
         url = urljoin(SOURCE_URL, link.get("href", ""))
         title_node = link.select_one("h2")
         title = title_node.get_text(" ", strip=True) if title_node else link.get_text(" ", strip=True)
-        if not title or (urlparse(url).hostname or "").lower() != "www.yicai.com" or "/news/" not in urlparse(url).path or url in seen:
+        if not title or not same_host(url, {"www.yicai.com"}) or "/news/" not in urlparse(url).path or url in seen:
             continue
         seen.add(url)
         items.append(HotItem(len(items) + 1, title, url))
@@ -44,7 +44,7 @@ def parse_live_payload(payload: list) -> list[HotItem]:
         published = str(row.get("CreateDate") or "").strip()
         url = str(row.get("ShareUrl") or "").strip()
         host = (urlparse(url).hostname or "").lower()
-        if not title or not published or host not in {"www.yicai.com", "m.yicai.com"} or "/brief/" not in urlparse(url).path or url in seen:
+        if not title or not published or not same_host(url, {"www.yicai.com", "m.yicai.com"}) or "/brief/" not in urlparse(url).path or url in seen:
             continue
         seen.add(url)
         items.append(HotItem(len(items) + 1, title, url, published_at=published))
@@ -62,14 +62,4 @@ def collect_live() -> "ChannelSnapshot":
 
 def collect() -> "ChannelSnapshot":
     items = parse_headlines(get(SOURCE_URL, res_type="bytes", timeout=20, retries=1))
-    rankings = [Ranking("headlines", "首页头条", items, SOURCE_URL, "第一财经官方", SOURCE_URL)]
-    warnings = []
-    try:
-        rankings.append(collect_live().rankings[0])
-    except Exception as exc:  # noqa: BLE001 - live feed must not discard homepage headlines
-        logger.warning("第一财经 7x24 请求失败: %s", exc)
-        rankings.append(Ranking("live", "7x24", [], LIVE_SOURCE_URL, "第一财经官方", LIVE_API_URL, "live"))
-        warnings.append("7x24")
-    result = snapshot("yicai", rankings)
-    result.warnings = warnings
-    return result
+    return snapshot("yicai", [Ranking("headlines", "首页头条", items, SOURCE_URL, "第一财经官方", SOURCE_URL)])

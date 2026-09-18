@@ -45,13 +45,13 @@ class OfficialSourceParserTests(unittest.TestCase):
         self.assertEqual([item.title for item in items], ["最新快讯", "较旧快讯"])
         self.assertEqual(items[0].published_at, "2026-09-17T10:02:00")
 
-    def test_yicai_homepage_survives_live_failure(self):
+    def test_yicai_homepage_collection_is_independent_from_live(self):
         html = '<div class="swiper-wrapper"><div class="swiper-slide item"><a href="/news/123.html"><h2 class="m-tips1">首页头条</h2></a></div></div>'
-        with patch.object(yicai, "get", return_value=html), patch.object(yicai, "collect_live", side_effect=RuntimeError("live down")):
+        with patch.object(yicai, "get", return_value=html), patch.object(yicai, "collect_live", side_effect=RuntimeError("live down")) as live_collect:
             result = yicai.collect()
         self.assertEqual(result.rankings[0].items[0].title, "首页头条")
-        self.assertEqual(result.rankings[1].surface, "live")
-        self.assertEqual(result.warnings, ["7x24"])
+        self.assertEqual([ranking.surface for ranking in result.rankings], ["hotlist"])
+        live_collect.assert_not_called()
 
 
 if __name__ == "__main__":

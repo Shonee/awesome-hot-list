@@ -2,6 +2,7 @@
 
 import json
 import os
+import time
 from dataclasses import replace
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -46,6 +47,7 @@ def collect_channels(
     for channel_id in channel_ids:
         definition = definitions[channel_id]
         try:
+            started = time.monotonic()
             if definition.collector is None:
                 raise RuntimeError("collector is not implemented")
             if surface and use_registered_collectors:
@@ -63,8 +65,28 @@ def collect_channels(
                 raise ValueError(
                     f"collector returned undeclared ranking surface(s): {', '.join(undeclared)}"
                 )
+            snapshot.health = {
+                **snapshot.health,
+                "durationMs": round((time.monotonic() - started) * 1000, 1),
+                "itemCount": sum(len(ranking.items) for ranking in snapshot.rankings),
+                "provider": ",".join(sorted({ranking.provider_name for ranking in snapshot.rankings if ranking.provider_name})),
+            }
             snapshots.append(snapshot)
         except Exception as exc:  # noqa: BLE001 - a single source must not abort the batch
+            duration = round((time.monotonic() - started) * 1000, 1) if 'started' in locals() else 0
+            status = getattr(getattr(exc, "response", None), "status_code", None)
+            if status == 429:
+                error_type = "rate_limited"
+            elif status == 403:
+                error_type = "forbidden"
+            elif status and status >= 500:
+                error_type = "upstream_server"
+            elif isinstance(exc, TimeoutError) or exc.__class__.__name__ in {"Timeout", "ConnectTimeout", "ReadTimeout"}:
+                error_type = "timeout"
+            elif isinstance(exc, ValueError):
+                error_type = "parse_error"
+            else:
+                error_type = "request_error"
             snapshots.append(
                 ChannelSnapshot.unavailable(
                     channel_id=channel_id,
@@ -73,6 +95,7 @@ def collect_channels(
                     fetched_at=now_string(),
                     status="error",
                     error=str(exc),
+                    health={"durationMs": duration, "itemCount": 0, "errorType": error_type},
                 )
             )
     return snapshots
@@ -104,6 +127,18 @@ def _load_all_surfaces(latest_path) -> Dict[str, dict]:
     return merged
 
 
+def _latest_surface_snapshots(latest_path) -> Dict[tuple, dict]:
+    """Load the newest snapshot independently for each channel/content surface."""
+    merged = {}
+    for surface in SURFACES:
+        for channel_id, item in _load_latest(os.fspath(surface_data_path(latest_path, surface))).items():
+            key = (channel_id, surface)
+            previous = merged.get(key)
+            if previous is None or str(item.get("fetchedAt") or "") > str(previous.get("fetchedAt") or ""):
+                merged[key] = item
+    return merged
+
+
 def due_channel_ids(
     channel_ids: Iterable[str],
     latest_path: str,
@@ -117,11 +152,19 @@ def due_channel_ids(
     postponing retries for another full interval.
     """
     definitions = definitions or CHANNELS
-    latest = _load_all_surfaces(latest_path)
+    latest = _latest_surface_snapshots(latest_path)
     now = now or project_now().replace(tzinfo=None)
     due = []
     for channel_id in channel_ids:
-        previous = latest.get(channel_id, {})
+        # A channel may have independent schedules for hotlist/live/etc.
+        declared = definitions[channel_id].surfaces
+        previous = latest.get((channel_id, "hotlist"))
+        if previous is None:
+            previous = max(
+                (latest.get((channel_id, surface), {}) for surface in declared),
+                key=lambda item: str(item.get("fetchedAt") or ""),
+                default={},
+            )
         if previous.get("status") and previous.get("status") != "ok" and not any(
             ranking.get("items")
             for ranking in previous.get("rankings", [])
@@ -193,16 +236,26 @@ def merge_latest_snapshot(
         previous = merged.get(snapshot.channel_id)
         if snapshot.status != "ok" and previous and previous.get("rankings"):
             previous = dict(previous)
+            prior_health = previous.get("health") if isinstance(previous.get("health"), dict) else {}
             previous.update(
                 {
                     "status": "stale",
                     "error": snapshot.error,
                     "checkedAt": snapshot.fetched_at,
+                    "health": {
+                        **prior_health,
+                        **snapshot.health,
+                        "failureCount": int(prior_health.get("failureCount", 0) or 0) + 1,
+                    },
                 }
             )
             merged[snapshot.channel_id] = previous
         else:
             if snapshot.status == "ok" and previous:
+                incoming["health"] = {
+                    **incoming.get("health", {}),
+                    "failureCount": 0,
+                }
                 prior_rankings = {
                     ranking.get("id"): ranking
                     for ranking in previous.get("rankings", [])

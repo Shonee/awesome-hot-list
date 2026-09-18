@@ -2,6 +2,7 @@
 
 from datetime import datetime, timedelta
 from html import unescape
+from urllib.parse import urlparse
 import warnings
 
 from ..models import ChannelSnapshot, Ranking
@@ -77,3 +78,24 @@ def clean_html(value) -> str:
     with warnings.catch_warnings():
         warnings.simplefilter("ignore", MarkupResemblesLocatorWarning)
         return BeautifulSoup(unescape(str(value)), "html.parser").get_text(" ", strip=True)
+
+
+def same_host(url: str, allowed_hosts) -> bool:
+    """Validate an absolute URL against an explicit host allowlist."""
+    return (urlparse(str(url or "")).hostname or "").lower() in {
+        str(host).lower() for host in allowed_hosts
+    }
+
+
+def unique_items(items, limit: int = 50):
+    """Keep non-empty, title/url-unique items with stable input order."""
+    result, seen = [], set()
+    for item in items:
+        key = (item.title, item.url)
+        if not item.title or key in seen:
+            continue
+        seen.add(key)
+        result.append(item)
+        if len(result) >= limit:
+            break
+    return result

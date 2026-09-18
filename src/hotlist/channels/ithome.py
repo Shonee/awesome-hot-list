@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from src.utils.http_utils import get
 
 from ..models import HotItem, Ranking
-from .common import snapshot
+from .common import same_host, snapshot
 
 
 SOURCE_URL = "https://www.ithome.com/"
@@ -20,7 +20,7 @@ def parse_daily_rank(html: str | bytes) -> list[HotItem]:
     for link in soup.select("#rank #d-1 > li a[href]"):
         title = link.get("title") or link.get_text(" ", strip=True)
         url = link.get("href", "")
-        if not title or (urlparse(url).hostname or "").lower() != "www.ithome.com" or url in seen:
+        if not title or not same_host(url, {"www.ithome.com"}) or url in seen:
             continue
         seen.add(url)
         items.append(HotItem(len(items) + 1, title, url))
