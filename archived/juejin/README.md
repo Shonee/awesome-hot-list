@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-19 03:17:49
+> 更新时间：2026-09-19 04:20:47
 
 ## 热门文章
 
@@ -9,17 +9,17 @@
 3. [Codex 最新焚决发布，快！](https://juejin.cn/post/7686029820083929097)
 4. [⚡2026 年了，十万级表格还只会「虚拟滚动」？难怪你的页面照样卡顿](https://juejin.cn/post/7686043275371708450)
 5. [🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡](https://juejin.cn/post/7685970177332592655)
-6. [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790)
-7. [JDK27正式发布，人麻了!](https://juejin.cn/post/7686174631263404073)
-8. [一份 KDMS 评估报告，怎样排出迁移先后顺序](https://juejin.cn/post/7686361321610035246)
+6. [JDK27正式发布，人麻了!](https://juejin.cn/post/7686174631263404073)
+7. [一份 KDMS 评估报告，怎样排出迁移先后顺序](https://juejin.cn/post/7686361321610035246)
+8. [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790)
 9. [民间AI排行榜单新鲜出炉，Fable 5.1仅排第三](https://juejin.cn/post/7686044352167575604)
 10. [5 年级的儿子居然学会了破解。。。](https://juejin.cn/post/7685987418991001600)
 11. [OpenSider：让浏览器驱动 Agent](https://juejin.cn/post/7685651354878754825)
 12. [用了一个月 WorkBuddy，聊聊我的真实感受](https://juejin.cn/post/7686407614478237748)
 13. [个人提效，攒不成组织提效：货拉拉 AI Coding 落地实践](https://juejin.cn/post/7685936943796977718)
 14. [周下载量1.1亿的Tailwind，为什么养不活自己？](https://juejin.cn/post/7686054741464694826)
-15. [AI 给了我 8 个优化方案，全都是对的，但没有一个有用](https://juejin.cn/post/7686327764182745114)
-16. [微信里多了个[小微]，可以帮你看朋友圈、发消息、点外卖了](https://juejin.cn/post/7685606304111509545)
+15. [微信里多了个[小微]，可以帮你看朋友圈、发消息、点外卖了](https://juejin.cn/post/7685606304111509545)
+16. [AI 给了我 8 个优化方案，全都是对的，但没有一个有用](https://juejin.cn/post/7686327764182745114)
 17. [别再堆 AGENTS.md 了：前端团队的 Agent 上下文分层落地指南](https://juejin.cn/post/7685944661652602914)
 18. [CPF-Flutter 社区提出折叠场景分栏（平行视界） 方案](https://juejin.cn/post/7685604730751057983)
 19. [摸鱼神器：一边写代码，一边刷剧，从此没有一点摸鱼时间会被浪费！](https://juejin.cn/post/7685770509586284550)
@@ -33,14 +33,14 @@
 27. [2026年，这5个JS新趋势正在悄悄改写前端](https://juejin.cn/post/7685684235953094697)
 28. [网页端, 40mb离线模型, 自动抠图, 不用 Python，不用服务器，不用 API Key, 不用显卡](https://juejin.cn/post/7686043275371282466)
 29. [前端转型全栈 01：数据建模，前端最大的盲区](https://juejin.cn/post/7685963804388392970)
-30. [ZCode 把整个 Git 仓库加密上传到了阿里云 OSS：一次客户端逆向的完整复盘](https://juejin.cn/post/7686534839903535144)
-31. [Morya UI：别手搓了，搓也搓不过 Agent](https://juejin.cn/post/7685657703510343680)
+30. [Morya UI：别手搓了，搓也搓不过 Agent](https://juejin.cn/post/7685657703510343680)
+31. [ZCode 把整个 Git 仓库加密上传到了阿里云 OSS：一次客户端逆向的完整复盘](https://juejin.cn/post/7686534839903535144)
 32. [Swift 6.4 发布：iOS开发者值得关注的新特性](https://juejin.cn/post/7686317828618502144)
 33. [AI 热点日报（2026-09-17）：谷歌 Gemini 3.8 Live 双模型发布，OpenAI 联手 Anthropic 共商 AI 安全](https://juejin.cn/post/7686047425312358436)
 34. [GPT-6 拿下模型众测第一：我拆完 30 个主题的实时榜单，「最强 AI」得看你问哪个场景](https://juejin.cn/post/7686011859111100454)
 35. [真没想到，AI 圈又杀出来一匹黑马！](https://juejin.cn/post/7686341072615948326)
-36. [AI Coding 方法论分析：同一个需求 SpecKit 、 Superpowers、 MattpocockSkills 不同设计](https://juejin.cn/post/7685963804388573194)
-37. [发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍](https://juejin.cn/post/7686669083098775562)
+36. [发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍](https://juejin.cn/post/7686669083098775562)
+37. [AI Coding 方法论分析：同一个需求 SpecKit 、 Superpowers、 MattpocockSkills 不同设计](https://juejin.cn/post/7685963804388573194)
 38. [这个小程序是 AI 帮我写的，可它里面一个 AI 功能都没有](https://juejin.cn/post/7686699741968400430)
 39. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://juejin.cn/post/7686408837754748978)
 40. [不用游戏引擎，用 Canvas 2D 做一个《逃离鸭科夫》风格的搜打撤游戏](https://juejin.cn/post/7686283257302925338)

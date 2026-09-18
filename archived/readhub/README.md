@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-19 03:18:01
+> 更新时间：2026-09-19 04:21:03
 
 ## 24 小时热榜
 
@@ -19,8 +19,8 @@
 13. [智谱发布 GLM-5.3-FlashX，扩算力、提速度、提定价](https://readhub.cn/topic/8wWCQaV7QHi?tab=daily)
 14. [特斯拉推送软件更新：为更多车型上线豆包大模型](https://readhub.cn/topic/8wVrONaJutp?tab=daily)
 15. [Manus 恢复独立 17 天，拟融资目标估值 40 亿美元](https://readhub.cn/topic/8wVvHoAQo1C?tab=daily)
-16. [张雪机车 9 月 19 日将发布五款新车：820X / 500F 等齐发](https://readhub.cn/topic/8wW89jksfsI?tab=daily)
-17. [Claude 编写 Anthropic 八成代码，致 CI 半年暴涨 25 倍](https://readhub.cn/topic/8wW0K2jsDl6?tab=daily)
+16. [Claude 编写 Anthropic 八成代码，致 CI 半年暴涨 25 倍](https://readhub.cn/topic/8wW0K2jsDl6?tab=daily)
+17. [张雪机车 9 月 19 日将发布五款新车：820X / 500F 等齐发](https://readhub.cn/topic/8wW89jksfsI?tab=daily)
 18. [苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补](https://readhub.cn/topic/8wVK7S82r4e?tab=daily)
 19. [研究人员借 Claude 攻入 OpenAI 内部代码系统](https://readhub.cn/topic/8wWFIEsi1tc?tab=daily)
 20. [住房城乡建设部：我国房地产进入存量时代](https://readhub.cn/topic/8wW0zUUAMcG?tab=daily)
@@ -31,8 +31,8 @@
 25. [鸿蒙智行被曝今年将推两款 9 系新车：奇瑞、上汽各一款](https://readhub.cn/topic/8wW2SYJjVrt?tab=daily)
 26. [智谱 ZCode 回应整库上传：Repo Wiki 默认开启惹祸，承诺开源客户端](https://readhub.cn/topic/8wWNrN2HHhx?tab=daily)
 27. [钉钉创始人无招出任百望股份非执行董事](https://readhub.cn/topic/8wWGiYxaCIG?tab=daily)
-28. [阿里通用医疗影像 AI 登上《Science》：覆盖超 146 种病症，已正式开源](https://readhub.cn/topic/8wWLkNhWm9t?tab=daily)
-29. [PS5 Linux 核心开发者怒退圈，因 AI 使用者上报漏洞](https://readhub.cn/topic/8wWYjOtWLda?tab=daily)
+28. [PS5 Linux 核心开发者怒退圈，因 AI 使用者上报漏洞](https://readhub.cn/topic/8wWYjOtWLda?tab=daily)
+29. [阿里通用医疗影像 AI 登上《Science》：覆盖超 146 种病症，已正式开源](https://readhub.cn/topic/8wWLkNhWm9t?tab=daily)
 30. [我国拟出台规定保障未成年人健康安全使用网络](https://readhub.cn/topic/8wWXAwmRY6M?tab=daily)
 
 ## 每日早报
