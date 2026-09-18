@@ -1,11 +1,11 @@
 # 博客园热榜
 
-> 更新时间：2026-09-18 08:55:09
+> 更新时间：2026-09-18 09:30:46
 
 ## 最新帖子
 
-1. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
-2. [免费线上 OFD 阅读器 全程本地](https://www.cnblogs.com/objects/p/23020814)
+1. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
+2. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
 3. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
 4. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
 5. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)

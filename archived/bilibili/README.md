@@ -1,29 +1,29 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-09-18 08:54:57
+> 更新时间：2026-09-18 09:30:35
 
 ## 热门搜索
 
-1. [九一八事变爆发95周年](https://search.bilibili.com/all?keyword=%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9195%E5%91%A8%E5%B9%B4)
-2. [曼城5-0诺维奇](https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E5-0%E8%AF%BA%E7%BB%B4%E5%A5%87)
-3. [如何看赵雷演唱会求婚风波](https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%B5%B5%E9%9B%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E9%A3%8E%E6%B3%A2)
-4. [锐评TES战胜IG晋级S赛](https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84TES%E6%88%98%E8%83%9CIG%E6%99%8B%E7%BA%A7S%E8%B5%9B)
-5. [TES战胜IG战术复盘](https://search.bilibili.com/all?keyword=TES%E6%88%98%E8%83%9CIG%E6%88%98%E6%9C%AF%E5%A4%8D%E7%9B%98)
-6. [南医大学生坠亡事件谣言为何汹涌](https://search.bilibili.com/all?keyword=%E5%8D%97%E5%8C%BB%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E8%B0%A3%E8%A8%80%E4%B8%BA%E4%BD%95%E6%B1%B9%E6%B6%8C)
+1. [勿忘九一八](https://search.bilibili.com/all?keyword=%E5%8B%BF%E5%BF%98%E4%B9%9D%E4%B8%80%E5%85%AB)
+2. [九一八事变爆发95周年](https://search.bilibili.com/all?keyword=%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9195%E5%91%A8%E5%B9%B4)
+3. [TES战胜IG战术复盘](https://search.bilibili.com/all?keyword=TES%E6%88%98%E8%83%9CIG%E6%88%98%E6%9C%AF%E5%A4%8D%E7%9B%98)
+4. [曼城5-0诺维奇](https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E5-0%E8%AF%BA%E7%BB%B4%E5%A5%87)
+5. [如何看赵雷演唱会求婚风波](https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%B5%B5%E9%9B%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E9%A3%8E%E6%B3%A2)
+6. [刘旸林宇辉聊梅姨案幕后细节](https://search.bilibili.com/all?keyword=%E5%88%98%E6%97%B8%E6%9E%97%E5%AE%87%E8%BE%89%E8%81%8A%E6%A2%85%E5%A7%A8%E6%A1%88%E5%B9%95%E5%90%8E%E7%BB%86%E8%8A%82)
 7. [TES战胜IG赛后数据](https://search.bilibili.com/all?keyword=TES%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE)
-8. [刘旸林宇辉聊梅姨案幕后细节](https://search.bilibili.com/all?keyword=%E5%88%98%E6%97%B8%E6%9E%97%E5%AE%87%E8%BE%89%E8%81%8A%E6%A2%85%E5%A7%A8%E6%A1%88%E5%B9%95%E5%90%8E%E7%BB%86%E8%8A%82)
-9. [生命奇观](https://search.bilibili.com/all?keyword=%E7%94%9F%E5%91%BD%E5%A5%87%E8%A7%82)
-10. [TES IG](https://search.bilibili.com/all?keyword=TES%20IG)
-11. [外置机顶盒将成为历史](https://search.bilibili.com/all?keyword=%E5%A4%96%E7%BD%AE%E6%9C%BA%E9%A1%B6%E7%9B%92%E5%B0%86%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2)
-12. [我只是想煮一个鸡蛋](https://search.bilibili.com/all?keyword=%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E7%85%AE%E4%B8%80%E4%B8%AA%E9%B8%A1%E8%9B%8B)
-13. [我国成功发射天仪51和52卫星](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%A4%A9%E4%BB%AA51%E5%92%8C52%E5%8D%AB%E6%98%9F)
-14. [平陆运河为何称得上世纪工程](https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E4%B8%BA%E4%BD%95%E7%A7%B0%E5%BE%97%E4%B8%8A%E4%B8%96%E7%BA%AA%E5%B7%A5%E7%A8%8B)
-15. [三地联手向英国发出什么信号](https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9C%B0%E8%81%94%E6%89%8B%E5%90%91%E8%8B%B1%E5%9B%BD%E5%8F%91%E5%87%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7)
-16. [琵琶曲但是沈腾VS马丽](https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E6%9B%B2%E4%BD%86%E6%98%AF%E6%B2%88%E8%85%BEVS%E9%A9%AC%E4%B8%BD)
-17. [花小龙带陈小春自律的一天](https://search.bilibili.com/all?keyword=%E8%8A%B1%E5%B0%8F%E9%BE%99%E5%B8%A6%E9%99%88%E5%B0%8F%E6%98%A5%E8%87%AA%E5%BE%8B%E7%9A%84%E4%B8%80%E5%A4%A9)
-18. [罗永浩差评野人先生与钟薛高复出有关吗](https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%B7%AE%E8%AF%84%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E4%B8%8E%E9%92%9F%E8%96%9B%E9%AB%98%E5%A4%8D%E5%87%BA%E6%9C%89%E5%85%B3%E5%90%97)
-19. [老番茄联动噜咪真人挑战](https://search.bilibili.com/all?keyword=%E8%80%81%E7%95%AA%E8%8C%84%E8%81%94%E5%8A%A8%E5%99%9C%E5%92%AA%E7%9C%9F%E4%BA%BA%E6%8C%91%E6%88%98)
-20. [勿忘九一八](https://search.bilibili.com/all?keyword=%E5%8B%BF%E5%BF%98%E4%B9%9D%E4%B8%80%E5%85%AB)
+8. [生命奇观](https://search.bilibili.com/all?keyword=%E7%94%9F%E5%91%BD%E5%A5%87%E8%A7%82)
+9. [南医大学生坠亡事件谣言为何汹涌](https://search.bilibili.com/all?keyword=%E5%8D%97%E5%8C%BB%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E8%B0%A3%E8%A8%80%E4%B8%BA%E4%BD%95%E6%B1%B9%E6%B6%8C)
+10. [苹果折叠屏优缺点分析](https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BC%98%E7%BC%BA%E7%82%B9%E5%88%86%E6%9E%90)
+11. [我国成功发射天仪51和52卫星](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%A4%A9%E4%BB%AA51%E5%92%8C52%E5%8D%AB%E6%98%9F)
+12. [平陆运河为何称得上世纪工程](https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E4%B8%BA%E4%BD%95%E7%A7%B0%E5%BE%97%E4%B8%8A%E4%B8%96%E7%BA%AA%E5%B7%A5%E7%A8%8B)
+13. [我只是想煮一个鸡蛋](https://search.bilibili.com/all?keyword=%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E7%85%AE%E4%B8%80%E4%B8%AA%E9%B8%A1%E8%9B%8B)
+14. [老番茄联动噜咪真人挑战](https://search.bilibili.com/all?keyword=%E8%80%81%E7%95%AA%E8%8C%84%E8%81%94%E5%8A%A8%E5%99%9C%E5%92%AA%E7%9C%9F%E4%BA%BA%E6%8C%91%E6%88%98)
+15. [原神沃雅妮莎综合测评](https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E6%B2%83%E9%9B%85%E5%A6%AE%E8%8E%8E%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84)
+16. [原神沃雅妮莎角色PV](https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E6%B2%83%E9%9B%85%E5%A6%AE%E8%8E%8E%E8%A7%92%E8%89%B2PV)
+17. [三地联手向英国发出什么信号](https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9C%B0%E8%81%94%E6%89%8B%E5%90%91%E8%8B%B1%E5%9B%BD%E5%8F%91%E5%87%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7)
+18. [琵琶曲但是沈腾VS马丽](https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E6%9B%B2%E4%BD%86%E6%98%AF%E6%B2%88%E8%85%BEVS%E9%A9%AC%E4%B8%BD)
+19. [英国三个地区为何想脱英](https://search.bilibili.com/all?keyword=%E8%8B%B1%E5%9B%BD%E4%B8%89%E4%B8%AA%E5%9C%B0%E5%8C%BA%E4%B8%BA%E4%BD%95%E6%83%B3%E8%84%B1%E8%8B%B1)
+20. [花小龙带陈小春自律的一天](https://search.bilibili.com/all?keyword=%E8%8A%B1%E5%B0%8F%E9%BE%99%E5%B8%A6%E9%99%88%E5%B0%8F%E6%98%A5%E8%87%AA%E5%BE%8B%E7%9A%84%E4%B8%80%E5%A4%A9)
 
 ## 全站热门视频
 
@@ -41,12 +41,12 @@
 12. [2026年了，还有人听《权御天下》吗？](https://b23.tv/BV1dLeg6rEg4)
 13. [小不列颠联合不起来王国现在是真快亡国了](https://b23.tv/BV1Gwe363EB8)
 14. [这里只有一个是真的张起灵](https://b23.tv/BV1uheG6gERq)
-15. [甄姬：没见第一波线，第二波直接来8个？！](https://b23.tv/BV1VfeJ6PE12)
-16. [人机大战](https://b23.tv/BV1rmeG6tEgu)
-17. [动态视频｜3天拍完？影视飓风的iPhone评测是怎么拍的？](https://b23.tv/BV1Y6eu6iEeF)
-18. [友：时长越长观看越少。  我：但这里是B站诶！](https://b23.tv/BV1doec6QEqF)
-19. [【冰岛第一集】吃400岁“毒”鲨鱼，与火山共生，体验冰岛人的极端生活…](https://b23.tv/BV1HMeA6PEQ6)
-20. [重返渴望现场｜百事可乐音乐盛典完整回放正式上线！](https://b23.tv/BV1uKY26hETJ)
+15. [人机大战](https://b23.tv/BV1rmeG6tEgu)
+16. [动态视频｜3天拍完？影视飓风的iPhone评测是怎么拍的？](https://b23.tv/BV1Y6eu6iEeF)
+17. [友：时长越长观看越少。  我：但这里是B站诶！](https://b23.tv/BV1doec6QEqF)
+18. [【冰岛第一集】吃400岁“毒”鲨鱼，与火山共生，体验冰岛人的极端生活…](https://b23.tv/BV1HMeA6PEQ6)
+19. [重返渴望现场｜百事可乐音乐盛典完整回放正式上线！](https://b23.tv/BV1uKY26hETJ)
+20. [甄姬：没见第一波线，第二波直接来8个？！](https://b23.tv/BV1VfeJ6PE12)
 21. [【边狱巴士】“今天，我杀了妈妈...”丨 主线第10章汉化（施工中）](https://b23.tv/BV14Meu6tEiC)
 22. [【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】](https://b23.tv/BV1tue36vEZy)
 23. [特厨做饭|零差评零失误！专业厨师的压箱底](https://b23.tv/BV1mheg6hE6j)
@@ -76,7 +76,7 @@
 47. [“夏天结束了,之后想做些什么？”【中秋&国庆特辑】](https://b23.tv/BV1AieM6nEtX)
 48. [我终于去骑318了！！！](https://b23.tv/BV1EUeM6GE2t)
 49. [明爽大王](https://b23.tv/BV1EfeA6FEkC)
-50. [5.0L大V8，如今是否还能打？](https://b23.tv/BV1mLew6zEPe)
+50. [【邓肯】“梅姨”案](https://b23.tv/BV14oew6rEH5)
 
 ## 视频排行榜
 

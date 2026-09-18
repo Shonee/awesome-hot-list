@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-18 08:55:23
+> 更新时间：2026-09-18 09:30:57
 
 ## 热点榜
 
@@ -16,11 +16,11 @@
 10. [视频丨事关再生资源绿色供应链 最新报告显示废旧家电等成今年增长重点](https://view.inews.qq.com/a/20260918A02CZP00)
 11. [开水烫一下餐具能杀菌？](https://view.inews.qq.com/a/20260917A0CQRU00)
 12. [中国和俄罗斯投了反对票](https://view.inews.qq.com/a/20260918A02D0F00)
-13. [管姚：胡塞击落沙特战机，“美械神话”千疮百孔](https://view.inews.qq.com/a/20260917A0F5YB00)
-14. [茅台自营店限购：个人购500ml飞天茅台年度限购5箱，企业年度限购50箱](https://view.inews.qq.com/a/20260917A0EDLK00)
-15. [巴基斯坦表态了，这是一个重要信号](https://view.inews.qq.com/a/20260918A02HQB00)
-16. [特朗普：美伊战争迎来关键节点 我面临一个重大决定](https://view.inews.qq.com/a/20260918A01AN700)
-17. [钟声：病根不除，日本没有未来](https://view.inews.qq.com/a/20260917A0ERIM00)
-18. [苹果iPhone 18 Pro系列今日正式开售，国行9999元起](https://view.inews.qq.com/a/20260918A001PY00)
-19. [“还我清白！”店里钻戒丢失，浙江女子哭着报警喊冤，结局反转：民警在其家中厕所木板下找到被盗钻戒，已被刑拘](https://view.inews.qq.com/a/20260917A0AL7R00)
-20. [贾国龙新品牌多店暂停营业？西贝回应](https://view.inews.qq.com/a/20260917A0F99J00)
+13. [茅台自营店限购：个人购500ml飞天茅台年度限购5箱，企业年度限购50箱](https://view.inews.qq.com/a/20260917A0EDLK00)
+14. [钟声：病根不除，日本没有未来](https://view.inews.qq.com/a/20260917A0ERIM00)
+15. [特朗普：美伊战争迎来关键节点 我面临一个重大决定](https://view.inews.qq.com/a/20260918A01AN700)
+16. [贾国龙新品牌多店暂停营业？西贝回应](https://view.inews.qq.com/a/20260917A0F99J00)
+17. [猛料曝光：美方密会胡塞武装高层](https://view.inews.qq.com/a/20260918A003F300)
+18. [巴基斯坦表态了，这是一个重要信号](https://view.inews.qq.com/a/20260918A02HQB00)
+19. [收紧各类签证，严控移民人数，澳大利亚宣布禁止留学生家属陪读](https://view.inews.qq.com/a/20260918A027DB00)
+20. [“十一”高铁票涨价，有的车次比平时贵了近百元？12306：日常票价有折扣，节假日有浮动是正常的](https://view.inews.qq.com/a/20260917A0BC7Y00)
