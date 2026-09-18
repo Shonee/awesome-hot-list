@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-19 02:25:27
+> 更新时间：2026-09-19 03:18:01
 
 ## 24 小时热榜
 
@@ -17,16 +17,16 @@
 11. [比亚迪汽车工业有限公司、比亚迪汽车有限公司召回部分国产汽车](https://readhub.cn/topic/8wWN9IazcaN?tab=daily)
 12. [Anthropic 发布 AI 发展速度评估指标 追踪前沿实验室模型研发进程](https://readhub.cn/topic/8wVfCoqNKIr?tab=daily)
 13. [智谱发布 GLM-5.3-FlashX，扩算力、提速度、提定价](https://readhub.cn/topic/8wWCQaV7QHi?tab=daily)
-14. [Manus 恢复独立 17 天，拟融资目标估值 40 亿美元](https://readhub.cn/topic/8wVvHoAQo1C?tab=daily)
-15. [特斯拉推送软件更新：为更多车型上线豆包大模型](https://readhub.cn/topic/8wVrONaJutp?tab=daily)
+14. [特斯拉推送软件更新：为更多车型上线豆包大模型](https://readhub.cn/topic/8wVrONaJutp?tab=daily)
+15. [Manus 恢复独立 17 天，拟融资目标估值 40 亿美元](https://readhub.cn/topic/8wVvHoAQo1C?tab=daily)
 16. [张雪机车 9 月 19 日将发布五款新车：820X / 500F 等齐发](https://readhub.cn/topic/8wW89jksfsI?tab=daily)
 17. [Claude 编写 Anthropic 八成代码，致 CI 半年暴涨 25 倍](https://readhub.cn/topic/8wW0K2jsDl6?tab=daily)
 18. [苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补](https://readhub.cn/topic/8wVK7S82r4e?tab=daily)
 19. [研究人员借 Claude 攻入 OpenAI 内部代码系统](https://readhub.cn/topic/8wWFIEsi1tc?tab=daily)
 20. [住房城乡建设部：我国房地产进入存量时代](https://readhub.cn/topic/8wW0zUUAMcG?tab=daily)
-21. [AI 系统可让 3D 打印实现同步质检](https://readhub.cn/topic/8wVn68l5Asf?tab=daily)
-22. [消息称长鑫正准备进入闪存市场，与三星、海力士、美光正面竞争](https://readhub.cn/topic/8wWN9ZFvuvE?tab=daily)
-23. [Anthropic 重构 Claude Code 项目功能，多线程并行执行任务](https://readhub.cn/topic/8wVPqQfRqkc?tab=daily)
+21. [Anthropic 重构 Claude Code 项目功能，多线程并行执行任务](https://readhub.cn/topic/8wVPqQfRqkc?tab=daily)
+22. [AI 系统可让 3D 打印实现同步质检](https://readhub.cn/topic/8wVn68l5Asf?tab=daily)
+23. [消息称长鑫正准备进入闪存市场，与三星、海力士、美光正面竞争](https://readhub.cn/topic/8wWN9ZFvuvE?tab=daily)
 24. [苹果五款新品今日开售：最低仅需 999 元 最高突破 2 万](https://readhub.cn/topic/8wVNhJj4A97?tab=daily)
 25. [鸿蒙智行被曝今年将推两款 9 系新车：奇瑞、上汽各一款](https://readhub.cn/topic/8wW2SYJjVrt?tab=daily)
 26. [智谱 ZCode 回应整库上传：Repo Wiki 默认开启惹祸，承诺开源客户端](https://readhub.cn/topic/8wWNrN2HHhx?tab=daily)
@@ -51,9 +51,9 @@
 2. [RSI 靠「做梦」就能进化？谷歌提出不改模型也能持续变强的新系统](https://www.mittrchina.com/news/detail/16974)
 3. [一边竞速，一边喊停：AI 巨头的矛盾时刻](https://www.mittrchina.com/news/detail/16975)
 4. [机器人进家门就能直接干活？Figure AI 宣称实现零样本全身泛化，但同行并不买账](https://www.mittrchina.com/news/detail/16973)
-5. [OpenAI 被曝雪藏数百个数学证明，数学界担忧答案早已被机器算出](https://hub.baai.ac.cn/view/58079)
-6. [药企的私有数据，正在成为 AI 药物研发最强燃料](https://www.mittrchina.com/news/detail/16970)
-7. [1300 张卡叫板 10 万卡 前 OpenAI 副总裁出手，硬核难题击败 GPT-6 Astra](https://hub.baai.ac.cn/view/58066)
-8. [Plugin4Shell zero-click RCE hits Claude Code, Codex, Copilot and Gemini CLI via git SHA bypass](https://daily.dev/posts/zero-click-rce-flaw-in-ai-coding-agents-let-attackers-swap-in-malicious-plugins-kmy9j53rq)
-9. [中科闻歌发布磐石・智研决策平台 SciencePro，面向所有科研人开放](https://hub.baai.ac.cn/view/58078)
-10. [谷歌 DeepMind 成立 AGI 研究所，诺奖得主亲自挂帅](https://hub.baai.ac.cn/view/58077)
+5. [Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/)
+6. [OpenAI 被曝雪藏数百个数学证明，数学界担忧答案早已被机器算出](https://hub.baai.ac.cn/view/58079)
+7. [药企的私有数据，正在成为 AI 药物研发最强燃料](https://www.mittrchina.com/news/detail/16970)
+8. [1300 张卡叫板 10 万卡 前 OpenAI 副总裁出手，硬核难题击败 GPT-6 Astra](https://hub.baai.ac.cn/view/58066)
+9. [Plugin4Shell zero-click RCE hits Claude Code, Codex, Copilot and Gemini CLI via git SHA bypass](https://daily.dev/posts/zero-click-rce-flaw-in-ai-coding-agents-let-attackers-swap-in-malicious-plugins-kmy9j53rq)
+10. [中科闻歌发布磐石・智研决策平台 SciencePro，面向所有科研人开放](https://hub.baai.ac.cn/view/58078)
