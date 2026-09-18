@@ -1,15 +1,15 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-18 15:25:48
+> 更新时间：2026-09-18 16:29:00
 
 ## 热点资讯排行
 
 1. [《星际争霸》新作官宣！开放世界射击定档2030](https://www.gamersky.com/news/202609/2208532.shtml)
-2. [《红色沙漠》DLC部分地区停售！有恋爱新功能](https://www.gamersky.com/news/202609/2209388.shtml)
-3. [《暗黑破坏神4》本体免费领！永久入库随时畅玩](https://www.gamersky.com/news/202609/2210423.shtml)
+2. [《暗黑破坏神4》本体免费领！永久入库随时畅玩](https://www.gamersky.com/news/202609/2210423.shtml)
+3. [《红色沙漠》DLC部分地区停售！有恋爱新功能](https://www.gamersky.com/news/202609/2209388.shtml)
 4. [《暗黑破坏神5》正式公布！预告首曝 定档2029](https://www.gamersky.com/news/202609/2208533.shtml)
-5. [失眠组发《漫威金刚狼》琴格蕾演员被骂2000楼！游戏里咋能这么丑](https://www.gamersky.com/news/202609/2208892.shtml)
-6. [《火焰纹章：万缕千丝》首个更新上线！IGN 10分封神之作](https://www.gamersky.com/news/202609/2211215.shtml)
+5. [《火焰纹章：万缕千丝》首个更新上线！IGN 10分封神之作](https://www.gamersky.com/news/202609/2211215.shtml)
+6. [失眠组发《漫威金刚狼》琴格蕾演员被骂2000楼！游戏里咋能这么丑](https://www.gamersky.com/news/202609/2208892.shtml)
 7. [《漫威金刚狼》确认和SweetBaby合作！被DEI荼毒？](https://www.gamersky.com/news/202609/2209498.shtml)
 8. [《魔兽世界：Forever》正式公布！11月4日上线](https://www.gamersky.com/news/202609/2208538.shtml)
 9. [PS5破解惨遭重大突破！更接近完全破解了](https://www.gamersky.com/news/202609/2210420.shtml)
