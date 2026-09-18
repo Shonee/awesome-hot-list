@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-18 10:31:43
+> 更新时间：2026-09-18 11:25:18
 
 ## 热新闻
 
@@ -14,13 +14,13 @@
 8. [【社论】机顶盒谢幕，电视回归本分](https://www.thepaper.cn/newsDetail_forward_34089449)
 9. [言短意长｜博士人数超过驴的存栏量？荒诞之说可休矣](https://www.thepaper.cn/newsDetail_forward_34088259)
 10. [场地积水致比赛取消，亚运会中国女子板球队未赛被淘汰](https://www.thepaper.cn/newsDetail_forward_34088758)
-11. [广电总局：机顶盒功能将以软件形态内置于电视机](https://www.thepaper.cn/newsDetail_forward_34087820)
+11. [女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：报告结论客观，将再次开展调查](https://www.thepaper.cn/newsDetail_forward_34090377)
 12. [美国返还58件中国文物，包括流失百年的山西天龙山菩萨身躯](https://www.thepaper.cn/newsDetail_forward_34089258)
 13. [九一八事变爆发95周年｜不忘国耻，吾辈自强](https://www.thepaper.cn/newsDetail_forward_34088592)
-14. [女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：报告结论客观，将再次开展调查](https://www.thepaper.cn/newsDetail_forward_34090377)
-15. [预告｜《大方之谈》对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34080153)
-16. [管家转卖雇主酒水获利243万元被判刑10年半，家属称将申诉](https://www.thepaper.cn/newsDetail_forward_34087700)
-17. [监控曝光！美国法庭突发一幕：判刑后，男子弄断手铐袭警欲逃跑](https://www.thepaper.cn/newsDetail_forward_34088073)
-18. [高市改组内阁纳入“黑金”议员引争议，布局明年总裁选举或遇林芳正挑战](https://www.thepaper.cn/newsDetail_forward_34089929)
-19. [王毅同美国国务卿鲁比奥通电话](https://www.thepaper.cn/newsDetail_forward_34091798)
-20. [北京香山论坛丨百余国代表齐聚北京香山论坛，全球治理倡议成热议焦点](https://www.thepaper.cn/newsDetail_forward_34091414)
+14. [预告｜《大方之谈》对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34080153)
+15. [管家转卖雇主酒水获利243万元被判刑10年半，家属称将申诉](https://www.thepaper.cn/newsDetail_forward_34087700)
+16. [监控曝光！美国法庭突发一幕：判刑后，男子弄断手铐袭警欲逃跑](https://www.thepaper.cn/newsDetail_forward_34088073)
+17. [高市改组内阁纳入“黑金”议员引争议，布局明年总裁选举或遇林芳正挑战](https://www.thepaper.cn/newsDetail_forward_34089929)
+18. [王毅同美国国务卿鲁比奥通电话](https://www.thepaper.cn/newsDetail_forward_34091798)
+19. [北京香山论坛丨百余国代表齐聚北京香山论坛，全球治理倡议成热议焦点](https://www.thepaper.cn/newsDetail_forward_34091414)
+20. [苦“转人工难”久矣，人民日报密集发声：何以从“拦路虎”到不再“答非所问”](https://www.thepaper.cn/newsDetail_forward_34091597)

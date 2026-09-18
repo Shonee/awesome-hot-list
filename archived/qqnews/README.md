@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-18 10:31:47
+> 更新时间：2026-09-18 11:25:21
 
 ## 热点榜
 
@@ -15,12 +15,12 @@
 9. [新华视点丨如何加固学生信息“安全锁”](https://view.inews.qq.com/a/20260917A0CCC400)
 10. [视频丨事关再生资源绿色供应链 最新报告显示废旧家电等成今年增长重点](https://view.inews.qq.com/a/20260918A02CZP00)
 11. [从“戏说野史”到“直播踩墓”——抹黑英雄必受严惩，歪曲历史绝不容忍](https://mp.weixin.qq.com/s/EH4ZM1jGMv7WsYOb4fMDLQ)
-12. [禁令之下，这门生意彻底转入地下](https://view.inews.qq.com/a/20260918A02Y8600)
-13. [巴基斯坦表态了，这是一个重要信号](https://view.inews.qq.com/a/20260918A02HQB00)
-14. [净亏24亿，携程业绩失速](https://view.inews.qq.com/a/20260918A029ZS00)
-15. [中国和俄罗斯投了反对票](https://view.inews.qq.com/a/20260918A02D0F00)
-16. [加快淘汰“双响”、“摔炮”等产品](https://view.inews.qq.com/a/20260918A02ER100)
-17. [遭前美籍总经理“讨薪”超4800万，A股公司回应：其涉嫌窃取商业秘密](https://view.inews.qq.com/a/20260918A00HSE00)
-18. [特朗普：美伊战争迎来关键节点 我面临一个重大决定](https://view.inews.qq.com/a/20260918A01AN700)
-19. [猛料曝光：美方密会胡塞武装高层](https://view.inews.qq.com/a/20260918A003F300)
-20. [收紧各类签证，严控移民人数，澳大利亚宣布禁止留学生家属陪读](https://view.inews.qq.com/a/20260918A027DB00)
+12. [巴基斯坦表态了，这是一个重要信号](https://view.inews.qq.com/a/20260918A02HQB00)
+13. [加快淘汰“双响”、“摔炮”等产品](https://view.inews.qq.com/a/20260918A02ER100)
+14. [特朗普：美伊战争迎来关键节点 我面临一个重大决定](https://view.inews.qq.com/a/20260918A01AN700)
+15. [钟声：病根不除，日本没有未来](https://view.inews.qq.com/a/20260917A0ERIM00)
+16. [茅台自营店限购：个人购500ml飞天茅台年度限购5箱，企业年度限购50箱](https://view.inews.qq.com/a/20260917A0EDLK00)
+17. [Anthropic首曝RSI绝密报告：3万智能体正自我迭代](https://view.inews.qq.com/a/20260918A02FSV00)
+18. [中国电池出海遭“围剿”](https://view.inews.qq.com/a/20260916A08WTK00)
+19. [净亏24亿，携程业绩失速](https://view.inews.qq.com/a/20260918A029ZS00)
+20. [禁令之下，这门生意彻底转入地下](https://view.inews.qq.com/a/20260918A02Y8600)

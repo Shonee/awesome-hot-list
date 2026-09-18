@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-18 10:32:07
+> 更新时间：2026-09-18 11:25:46
 
 ## Hottest
 
@@ -10,8 +10,8 @@
 4. [Be alert: targeted attacks on prominent Rustaceans](https://blog.rust-lang.org/2026/09/17/targeted-attacks/)
 5. [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
 6. [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)
-7. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
-8. [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/)
+7. [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/)
+8. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
 9. [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
 10. [jemalloc 5.4.0 release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 11. [Your Donations at Work: One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
@@ -26,6 +26,6 @@
 20. [XApp — Apps that work everywhere](https://xapp-project.org/)
 21. [Why i'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)
 22. [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
-23. [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
-24. [Forgery of C2PA on a Pixel 10](https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html)
-25. [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
+23. [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
+24. [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
+25. [Forgery of C2PA on a Pixel 10](https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html)
