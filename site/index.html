@@ -893,9 +893,9 @@
     "short": "B",
     "color": "#167a83",
     "sourceUrl": "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans",
-    "enabledByDefault": true,
-    "visibleByDefault": true,
-    "includeInReport": true,
+    "enabledByDefault": false,
+    "visibleByDefault": false,
+    "includeInReport": false,
     "staleAfterHours": 24
   },
   {
@@ -1014,6 +1014,50 @@
     "short": "财",
     "color": "#c72b2b",
     "sourceUrl": "https://www.cls.cn/telegraph",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "autohome",
+    "name": "汽车之家",
+    "short": "汽",
+    "color": "#e64036",
+    "sourceUrl": "https://www.autohome.com.cn/cars/hotrank/1",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "gamersky",
+    "name": "游民星空",
+    "short": "游",
+    "color": "#bb2925",
+    "sourceUrl": "https://www.gamersky.com/news/",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "ithome",
+    "name": "IT之家",
+    "short": "IT",
+    "color": "#d3342f",
+    "sourceUrl": "https://www.ithome.com/",
+    "enabledByDefault": true,
+    "visibleByDefault": true,
+    "includeInReport": true,
+    "staleAfterHours": null
+  },
+  {
+    "channelId": "yicai",
+    "name": "第一财经",
+    "short": "一",
+    "color": "#a82728",
+    "sourceUrl": "https://www.yicai.com/",
     "enabledByDefault": true,
     "visibleByDefault": true,
     "includeInReport": true,
@@ -1250,6 +1294,7 @@
         const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null');
         if (!saved) return structuredClone(defaultPrefs);
         const savedVisible = { ...defaultPrefs.visible, ...(saved.visible || {}) };
+        savedVisible.bing = false;
         if (saved.preferencesVersion !== PREFS_SCHEMA_VERSION) {
           CHANNEL_CONFIG.filter(channel => channel.visibleByDefault === false).forEach(channel => {
             savedVisible[channel.channelId] = false;
