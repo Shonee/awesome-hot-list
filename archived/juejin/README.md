@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-19 06:19:30
+> 更新时间：2026-09-19 07:19:36
 
 ## 热门文章
 
@@ -14,8 +14,8 @@
 8. [JDK27正式发布，人麻了!](https://juejin.cn/post/7686174631263404073)
 9. [民间AI排行榜单新鲜出炉，Fable 5.1仅排第三](https://juejin.cn/post/7686044352167575604)
 10. [5 年级的儿子居然学会了破解。。。](https://juejin.cn/post/7685987418991001600)
-11. [OpenSider：让浏览器驱动 Agent](https://juejin.cn/post/7685651354878754825)
-12. [用了一个月 WorkBuddy，聊聊我的真实感受](https://juejin.cn/post/7686407614478237748)
+11. [用了一个月 WorkBuddy，聊聊我的真实感受](https://juejin.cn/post/7686407614478237748)
+12. [OpenSider：让浏览器驱动 Agent](https://juejin.cn/post/7685651354878754825)
 13. [个人提效，攒不成组织提效：货拉拉 AI Coding 落地实践](https://juejin.cn/post/7685936943796977718)
 14. [周下载量1.1亿的Tailwind，为什么养不活自己？](https://juejin.cn/post/7686054741464694826)
 15. [微信里多了个[小微]，可以帮你看朋友圈、发消息、点外卖了](https://juejin.cn/post/7685606304111509545)
@@ -35,11 +35,11 @@
 29. [前端转型全栈 01：数据建模，前端最大的盲区](https://juejin.cn/post/7685963804388392970)
 30. [Morya UI：别手搓了，搓也搓不过 Agent](https://juejin.cn/post/7685657703510343680)
 31. [ZCode 把整个 Git 仓库加密上传到了阿里云 OSS：一次客户端逆向的完整复盘](https://juejin.cn/post/7686534839903535144)
-32. [Swift 6.4 发布：iOS开发者值得关注的新特性](https://juejin.cn/post/7686317828618502144)
-33. [AI 热点日报（2026-09-17）：谷歌 Gemini 3.8 Live 双模型发布，OpenAI 联手 Anthropic 共商 AI 安全](https://juejin.cn/post/7686047425312358436)
+32. [AI 热点日报（2026-09-17）：谷歌 Gemini 3.8 Live 双模型发布，OpenAI 联手 Anthropic 共商 AI 安全](https://juejin.cn/post/7686047425312358436)
+33. [Swift 6.4 发布：iOS开发者值得关注的新特性](https://juejin.cn/post/7686317828618502144)
 34. [GPT-6 拿下模型众测第一：我拆完 30 个主题的实时榜单，「最强 AI」得看你问哪个场景](https://juejin.cn/post/7686011859111100454)
-35. [真没想到，AI 圈又杀出来一匹黑马！](https://juejin.cn/post/7686341072615948326)
-36. [发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍](https://juejin.cn/post/7686669083098775562)
+35. [发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍](https://juejin.cn/post/7686669083098775562)
+36. [真没想到，AI 圈又杀出来一匹黑马！](https://juejin.cn/post/7686341072615948326)
 37. [AI Coding 方法论分析：同一个需求 SpecKit 、 Superpowers、 MattpocockSkills 不同设计](https://juejin.cn/post/7685963804388573194)
 38. [这个小程序是 AI 帮我写的，可它里面一个 AI 功能都没有](https://juejin.cn/post/7686699741968400430)
 39. [2026年，前端框架开始为 AI 而生了](https://juejin.cn/post/7686452260913053715)
