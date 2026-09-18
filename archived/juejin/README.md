@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-19 04:20:47
+> 更新时间：2026-09-19 05:18:27
 
 ## 热门文章
 
@@ -9,9 +9,9 @@
 3. [Codex 最新焚决发布，快！](https://juejin.cn/post/7686029820083929097)
 4. [⚡2026 年了，十万级表格还只会「虚拟滚动」？难怪你的页面照样卡顿](https://juejin.cn/post/7686043275371708450)
 5. [🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡](https://juejin.cn/post/7685970177332592655)
-6. [JDK27正式发布，人麻了!](https://juejin.cn/post/7686174631263404073)
+6. [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790)
 7. [一份 KDMS 评估报告，怎样排出迁移先后顺序](https://juejin.cn/post/7686361321610035246)
-8. [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790)
+8. [JDK27正式发布，人麻了!](https://juejin.cn/post/7686174631263404073)
 9. [民间AI排行榜单新鲜出炉，Fable 5.1仅排第三](https://juejin.cn/post/7686044352167575604)
 10. [5 年级的儿子居然学会了破解。。。](https://juejin.cn/post/7685987418991001600)
 11. [OpenSider：让浏览器驱动 Agent](https://juejin.cn/post/7685651354878754825)
@@ -42,15 +42,15 @@
 36. [发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍](https://juejin.cn/post/7686669083098775562)
 37. [AI Coding 方法论分析：同一个需求 SpecKit 、 Superpowers、 MattpocockSkills 不同设计](https://juejin.cn/post/7685963804388573194)
 38. [这个小程序是 AI 帮我写的，可它里面一个 AI 功能都没有](https://juejin.cn/post/7686699741968400430)
-39. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://juejin.cn/post/7686408837754748978)
-40. [不用游戏引擎，用 Canvas 2D 做一个《逃离鸭科夫》风格的搜打撤游戏](https://juejin.cn/post/7686283257302925338)
-41. [不要在 Data 层随意把 Cold Flow 转换成 Hot Flow](https://juejin.cn/post/7686029820083306505)
-42. [用 GPT6 + Hyper3D MCP 搓 3D 个人网站，太夯了！（附教程）](https://juejin.cn/post/7685944952623300659)
-43. [把 Agent 框架拆开：PI 开发生产级 Harness](https://juejin.cn/post/7686462220679594034)
-44. [2026年，前端框架开始为 AI 而生了](https://juejin.cn/post/7686452260913053715)
+39. [2026年，前端框架开始为 AI 而生了](https://juejin.cn/post/7686452260913053715)
+40. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://juejin.cn/post/7686408837754748978)
+41. [不用游戏引擎，用 Canvas 2D 做一个《逃离鸭科夫》风格的搜打撤游戏](https://juejin.cn/post/7686283257302925338)
+42. [不要在 Data 层随意把 Cold Flow 转换成 Hot Flow](https://juejin.cn/post/7686029820083306505)
+43. [用 GPT6 + Hyper3D MCP 搓 3D 个人网站，太夯了！（附教程）](https://juejin.cn/post/7685944952623300659)
+44. [把 Agent 框架拆开：PI 开发生产级 Harness](https://juejin.cn/post/7686462220679594034)
 45. [彻底搞懂 JavaScript 类型转换：显式转换、隐式转换与 ToPrimitive](https://juejin.cn/post/7686218976209092614)
 46. [腾讯地图瓦片接入方案：一个 Bun 代理，让 Mapbox / Leaflet / OpenLayers 通用](https://juejin.cn/post/7685601627438923786)
 47. [Three.js 与 Cesium 融合实战问题汇总](https://juejin.cn/post/7686693462478127145)
-48. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://juejin.cn/post/7685816258890334246)
-49. [GPT-6 Astra 发布，Codex 支持”近乎”无限上下文了？](https://juejin.cn/post/7685745420586287119)
-50. [JetBrains 调查：终端打败 IDE](https://juejin.cn/post/7685648064543801390)
+48. [从零到一跑通苍穹外卖：一个大二学生的暑假项目复盘](https://juejin.cn/post/7686376405304344628)
+49. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://juejin.cn/post/7685816258890334246)
+50. [GPT-6 Astra 发布，Codex 支持”近乎”无限上下文了？](https://juejin.cn/post/7685745420586287119)
