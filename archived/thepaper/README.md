@@ -1,15 +1,15 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-19 01:17:35
+> 更新时间：2026-09-19 02:25:29
 
 ## 热新闻
 
 1. [长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本](https://www.thepaper.cn/newsDetail_forward_34037598)
-2. [马上评丨又来了，“擦边”式营销真没法治了吗](https://www.thepaper.cn/newsDetail_forward_34095497)
-3. [涉乒乓球跳水领域恶意拉踩、公然侮辱等，5起网暴运动员案例公布](https://www.thepaper.cn/newsDetail_forward_34097435)
-4. [解读｜菩萨为何身首分离？山西天龙山造像回归背后的流失文物之痛](https://www.thepaper.cn/newsDetail_forward_34094924)
-5. [中国男篮不敌日本男篮，未能晋级亚运男篮决赛](https://www.thepaper.cn/newsDetail_forward_34097694)
-6. [马上评丨用硫磺熏竹笋，食品监管不能总靠博主曝光](https://www.thepaper.cn/newsDetail_forward_34097054)
+2. [涉乒乓球跳水领域恶意拉踩、公然侮辱等，5起网暴运动员案例公布](https://www.thepaper.cn/newsDetail_forward_34097435)
+3. [马上评丨又来了，“擦边”式营销真没法治了吗](https://www.thepaper.cn/newsDetail_forward_34095497)
+4. [中国男篮不敌日本男篮，未能晋级亚运男篮决赛](https://www.thepaper.cn/newsDetail_forward_34097694)
+5. [马上评丨用硫磺熏竹笋，食品监管不能总靠博主曝光](https://www.thepaper.cn/newsDetail_forward_34097054)
+6. [解读｜菩萨为何身首分离？山西天龙山造像回归背后的流失文物之痛](https://www.thepaper.cn/newsDetail_forward_34094924)
 7. [女子体检正常半年多后确诊乳腺癌，江苏省省级机关医院：报告结论客观，将再次开展调查](https://www.thepaper.cn/newsDetail_forward_34090377)
 8. [南方医科大学学生坠亡事件造谣微博账号已被处置](https://www.thepaper.cn/newsDetail_forward_34095780)
 9. [AI安全争议升温，英国王室罕见介入！查尔斯三世召集全球AI高层开会，黄仁勋、哈萨比斯参会](https://www.thepaper.cn/newsDetail_forward_34095187)
