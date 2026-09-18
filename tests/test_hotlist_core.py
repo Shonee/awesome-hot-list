@@ -73,6 +73,13 @@ class HotlistModelTests(unittest.TestCase):
 
 
 class RegistryTests(unittest.TestCase):
+    def test_bing_is_disabled_and_hidden_by_default(self):
+        from src.hotlist.registry import SPECIAL_CHANNELS, get_channel
+
+        self.assertFalse(get_channel('bing').enabled_by_default)
+        self.assertFalse(get_channel('bing').visible_by_default)
+        self.assertNotIn('bing', SPECIAL_CHANNELS)
+
     def test_default_order_matches_the_product_configuration(self):
         self.assertEqual(
             CHANNEL_ORDER,
@@ -81,6 +88,7 @@ class RegistryTests(unittest.TestCase):
                 "toutiao", "github", "juejin", "cnblogs", "pojie52",
                 "googletrends", "bing", "baidu", "wechat", "36kr", "readhub",
                 "thepaper", "cctv", "mfa", "qqnews", "netease", "sina", "cls",
+                "autohome", "gamersky", "ithome", "yicai",
                 "wallstreetcn", "xueqiu", "eastmoney", "tonghuashun", "tieba",
                 "douban", "hupu", "maimai", "huggingface", "v2ex", "lobsters",
                 "hackernews", "stackoverflow", "nodeseek", "fuliba",

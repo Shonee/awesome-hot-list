@@ -8,8 +8,8 @@ from .registry import CHANNEL_ORDER, get_channel
 
 
 CATALOG_SCHEMA_VERSION = 1
-CATALOG_VERSION = "1.0.0"
-CATALOG_UPDATED_AT = "2026-09-17"
+CATALOG_VERSION = "1.1.1"
+CATALOG_UPDATED_AT = "2026-09-18"
 
 CATEGORY_LABELS = {
     "ai": "AI 平台",
@@ -40,7 +40,8 @@ CHANNEL_CATEGORIES = {
     "douban": "entertainment", "hupu": "sports", "maimai": "workplace",
     "huggingface": "ai", "v2ex": "developer", "lobsters": "developer",
     "hackernews": "developer", "stackoverflow": "developer", "nodeseek": "community",
-    "fuliba": "community",
+    "fuliba": "community", "autohome": "news", "gamersky": "entertainment",
+    "ithome": "news", "yicai": "finance",
 }
 
 SPECIAL_REQUIREMENTS = {
@@ -54,6 +55,7 @@ SPECIAL_REQUIREMENTS = {
     "readhub": ["热点、每日早报和 AI 资讯归为 digest，不进入综合报告"],
     "cctv": ["作为 authority 内容保存，不进入综合报告"],
     "mfa": ["作为 authority 内容保存，不进入综合报告"],
+    "yicai": ["首页头条每小时采集，7x24 快讯每 15 分钟采集"],
     "fuliba": ["默认隐藏且不进入综合报告"],
 }
 

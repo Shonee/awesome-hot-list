@@ -15,7 +15,7 @@ SOURCE_URL = "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/"
 DATE_PATTERN = re.compile(r"(20\d{2})-(\d{2})-(\d{2})")
 
 
-def parse_briefings(html: str) -> list[HotItem]:
+def parse_briefings(html: str | bytes) -> list[HotItem]:
     soup = BeautifulSoup(html, "html.parser")
     items = []
     seen = set()
@@ -34,5 +34,5 @@ def parse_briefings(html: str) -> list[HotItem]:
 
 
 def collect() -> "ChannelSnapshot":
-    items = parse_briefings(get(SOURCE_URL, timeout=20, retries=1))
+    items = parse_briefings(get(SOURCE_URL, res_type="bytes", timeout=20, retries=1))
     return snapshot("mfa", [Ranking("briefings", "例行记者会", items, SOURCE_URL, "外交部", SOURCE_URL, "authority")])

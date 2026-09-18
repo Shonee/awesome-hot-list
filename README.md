@@ -38,7 +38,11 @@
 | Hacker News | Top Stories | 是（2 小时） | 官方 Firebase API；最多读取前 25 个详情并展示 20 条 |
 | Hugging Face | Trending Models | 是（6 小时） | 官方模型 API；已通过 Actions 网络验证 |
 | Google Trends | 香港趋势 | 是（6 小时） | 官方 Trending Now 页面；中国大陆无对应地区榜，使用香港地区 |
-| 必应国内热点 | 国内热点 | 是（3 小时） | 只解析必应中文国内首页热点；失败时保留最近成功数据，超过 24 小时后页面隐藏 |
+| 必应国内热点 | 国内热点 | 否 | 普通 HTTP 请求无法稳定获取首页热点，默认停用并隐藏；不使用国际版新闻替代 |
+| 汽车之家 | 每日热点榜 | 是 | 官方热点榜 JSON，保留原站内容链接和热度 |
+| 游民星空 | 热点资讯排行 | 是 | 官方资讯页侧栏的独立 15 条排名，不混入最新资讯 |
+| IT之家 | 日榜 | 是 | 官方首页日榜，不解析 RSS |
+| 第一财经 | 首页头条、7x24 | 是 | 首页编辑头条每小时采集；官方快讯接口每 15 分钟刷新 |
 | 掘金 | 热门文章 | 是 | 公开推荐接口 |
 | Lobsters | Hottest | 是 | 官方 JSON API |
 | 今日头条 | 热点榜 | 是 | 公开榜单接口 |
@@ -136,8 +140,8 @@ python3 src/script/render.py --data-root ../awesome-hot-list-data
 ## 采集频率与归档
 
 - `collect-hourly.yml` 每小时运行一次，默认采集注册表中频率为 60 分钟的公开渠道。
-- `collect-live.yml` 每 15 分钟只请求新浪、财联社和华尔街见闻的 7x24 接口，局部合并卡片内快讯榜单，不重建综合报告。
-- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face、Google Trends 为 6 小时，必应国内热点、V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时；脉脉不进入默认调度。
+- `collect-live.yml` 每 15 分钟只请求新浪、财联社、第一财经和华尔街见闻的 7x24 接口，局部合并卡片内快讯榜单，不重建综合报告。
+- `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face、Google Trends 为 6 小时，V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时；必应国内热点和脉脉不进入默认调度。
 - 手动运行特殊渠道时可以选择 `force`，忽略间隔立即采集；新增渠道只需在 `registry.py` 设置频率，无需新增一个 Action。
 - 所有采集任务只更新归档和内容面快照，不在采集进程中重建报告。
 - `render-daily.yml` 每小时第 40 分钟统一生成今日报告和前一天完整报告，并执行内容面与 gzip 体积预算检查。

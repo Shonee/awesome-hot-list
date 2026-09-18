@@ -58,6 +58,17 @@ class GithubParserTests(unittest.TestCase):
 
 
 class HttpRequestTests(unittest.TestCase):
+    @patch("requests.get")
+    def test_get_can_return_raw_html_bytes(self, requests_get):
+        from src.utils.http_utils import get
+
+        response = requests_get.return_value
+        response.status_code = 200
+        response.content = "外交部例行记者会".encode("utf-8")
+        response.encoding = "ISO-8859-1"
+
+        self.assertEqual(get("https://example.com/", res_type="bytes"), response.content)
+
     @patch("requests.post")
     def test_post_returns_json_with_shared_request_shape(self, requests_post):
         response = requests_post.return_value

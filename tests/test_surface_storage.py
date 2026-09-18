@@ -19,6 +19,7 @@ class SurfaceRegistryTests(unittest.TestCase):
         self.assertEqual(get_channel("readhub").surfaces, ("digest",))
         self.assertEqual(get_channel("cctv").surfaces, ("authority",))
         self.assertEqual(get_channel("mfa").surfaces, ("authority",))
+        self.assertEqual(get_channel("yicai").surfaces, ("hotlist", "live"))
 
     def test_collector_cannot_return_an_undeclared_surface(self):
         def collect_live_only():

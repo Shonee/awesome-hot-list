@@ -1,0 +1,70 @@
+{
+    "schemaVersion": 1,
+    "changeId": "20260917-disable-bing",
+    "fromVersion": "1.0.0",
+    "toVersion": "1.0.1",
+    "targetMetadata": {
+        "$schema": "schema.v1.json",
+        "schemaVersion": 1,
+        "catalogVersion": "1.0.1",
+        "updatedAt": "2026-09-17",
+        "updatePolicy": {
+            "schema": "config/channels/schema.v1.json",
+            "baseline": "config/channels/base.v1.json",
+            "current": "config/channels/current.json",
+            "changes": "config/channels/changes/*.json",
+            "strategy": "full-snapshot-plus-append-only-deltas"
+        }
+    },
+    "operations": [
+        {
+            "op": "replace",
+            "channelId": "bing",
+            "value": {
+                "channelId": "bing",
+                "name": "必应国内热点",
+                "shortName": "B",
+                "order": 13,
+                "category": {
+                    "id": "search",
+                    "label": "搜索趋势"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans",
+                "collector": {
+                    "module": "src/hotlist/channels/bing.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 180
+                },
+                "defaults": {
+                    "enabled": false,
+                    "visible": false,
+                    "includeInReport": false
+                },
+                "freshness": {
+                    "staleAfterHours": 24
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "仅接受经中文内容校验的国内热点，不回退国际新闻"
+                    ]
+                }
+            }
+        }
+    ]
+}

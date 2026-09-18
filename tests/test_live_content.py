@@ -185,6 +185,25 @@ class LiveParserTests(unittest.TestCase):
 
 
 class NewSourceParserTests(unittest.TestCase):
+    def test_authority_parsers_decode_page_bytes(self):
+        from src.hotlist.channels import cctv, mfa
+
+        cctv_html = '<a href="/2026/09/17/ARTI123.shtml">央视新闻中文标题</a>'.encode('utf-8')
+        mfa_html = '<div class="newsBd"><li><a href="./test.shtml">2026-09-17 外交部例行记者会</a></li></div>'.encode('utf-8')
+        self.assertEqual(cctv.parse_headlines(cctv_html)[0].title, '央视新闻中文标题')
+        self.assertEqual(mfa.parse_briefings(mfa_html)[0].title, '2026-09-17 外交部例行记者会')
+
+    def test_authority_collectors_request_raw_bytes(self):
+        from unittest.mock import patch
+        from src.hotlist.channels import cctv, mfa
+
+        with patch.object(cctv, 'get', return_value='<a href="/2026/09/17/ARTI123.shtml">央视新闻中文标题</a>'.encode()) as request:
+            cctv.collect()
+            self.assertEqual(request.call_args.kwargs['res_type'], 'bytes')
+        with patch.object(mfa, 'get', return_value='<div class="newsBd"><li><a href="./test.shtml">外交部例行记者会</a></li></div>'.encode()) as request:
+            mfa.collect()
+            self.assertEqual(request.call_args.kwargs['res_type'], 'bytes')
+
     def test_bing_reads_domestic_homepage_topics(self):
         html = '<div id="tobPrompt"><a href="/search?q=%E5%9B%BD%E5%86%85"><span class="tob_title">国内热点新闻</span></a></div>'
 

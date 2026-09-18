@@ -820,6 +820,7 @@
         const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null');
         if (!saved) return structuredClone(defaultPrefs);
         const savedVisible = { ...defaultPrefs.visible, ...(saved.visible || {}) };
+        savedVisible.bing = false;
         if (saved.preferencesVersion !== PREFS_SCHEMA_VERSION) {
           CHANNEL_CONFIG.filter(channel => channel.visibleByDefault === false).forEach(channel => {
             savedVisible[channel.channelId] = false;

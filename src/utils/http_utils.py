@@ -93,7 +93,11 @@ def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEO
                 raise requests.HTTPError(
                     f"HTTP {response.status_code} for {url}", response=response
                 )
-            return response.json() if res_type == 'json' else response.text
+            if res_type == 'json':
+                return response.json()
+            if res_type == 'bytes':
+                return response.content
+            return response.text
         except Exception as e:  # noqa: BLE001 - 采集脚本不应因单次抖动整体崩溃
             last_error = e
             status = getattr(getattr(e, "response", None), "status_code", None)

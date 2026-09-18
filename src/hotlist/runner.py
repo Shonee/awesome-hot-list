@@ -164,6 +164,11 @@ def merge_latest_snapshot(
             merged[channel_id] = item
     for channel_id in RETIRED_CHANNEL_IDS:
         merged.pop(channel_id, None)
+    if "ithome" in merged and not any(
+        ranking.get("id") == "daily" for ranking in merged["ithome"].get("rankings", [])
+        if isinstance(ranking, dict)
+    ):
+        merged.pop("ithome")
     for channel_id, ranking_ids in RETIRED_RANKING_IDS.items():
         if channel_id not in merged:
             continue

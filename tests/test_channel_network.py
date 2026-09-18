@@ -30,6 +30,11 @@ class ChannelNetworkValidationTests(unittest.TestCase):
             with self.subTest(probe_id=probe_id):
                 self.assertIn(probe_id, PROBES)
 
+    def test_new_official_rankings_and_yicai_live_have_probes(self):
+        for channel_id in ("autohome", "gamersky", "ithome", "yicai", "yicai-live"):
+            with self.subTest(channel_id=channel_id):
+                self.assertIn(channel_id, PROBES)
+
     def test_rss_probe_is_retired(self):
         self.assertNotIn("linuxdo", PROBES)
 

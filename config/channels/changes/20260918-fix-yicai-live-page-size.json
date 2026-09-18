@@ -1,0 +1,82 @@
+{
+    "schemaVersion": 1,
+    "changeId": "20260918-fix-yicai-live-page-size",
+    "fromVersion": "1.1.0",
+    "toVersion": "1.1.1",
+    "targetMetadata": {
+        "$schema": "schema.v1.json",
+        "schemaVersion": 1,
+        "catalogVersion": "1.1.1",
+        "updatedAt": "2026-09-18",
+        "updatePolicy": {
+            "schema": "config/channels/schema.v1.json",
+            "baseline": "config/channels/base.v1.json",
+            "current": "config/channels/current.json",
+            "changes": "config/channels/changes/*.json",
+            "strategy": "full-snapshot-plus-append-only-deltas"
+        }
+    },
+    "operations": [
+        {
+            "op": "replace",
+            "channelId": "yicai",
+            "value": {
+                "channelId": "yicai",
+                "name": "第一财经",
+                "shortName": "一",
+                "order": 28,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "hotlist",
+                    "live"
+                ],
+                "homepage": "https://www.yicai.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/yicai.py",
+                    "entryPoints": [
+                        "collect",
+                        "collect_live"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "live_api_url",
+                            "kind": "api",
+                            "url": "https://www.yicai.com/api/ajax/getbrieflist?page=1&pagesize=20&type=0&id=all&action=mix"
+                        },
+                        {
+                            "name": "live_source_url",
+                            "kind": "page",
+                            "url": "https://www.yicai.com/brief/"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.yicai.com/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 60
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "首页头条每小时采集，7x24 快讯每 15 分钟采集"
+                    ]
+                }
+            }
+        }
+    ]
+}

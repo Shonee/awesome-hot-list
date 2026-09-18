@@ -52,6 +52,10 @@ CHANNEL_ORDER = (
     "netease",
     "sina",
     "cls",
+    "autohome",
+    "gamersky",
+    "ithome",
+    "yicai",
     "wallstreetcn",
     "xueqiu",
     "eastmoney",
@@ -69,9 +73,9 @@ CHANNEL_ORDER = (
     "fuliba",
 )
 
-RETIRED_CHANNEL_IDS = ("linuxdo", "ithome", "rss")
+RETIRED_CHANNEL_IDS = ("linuxdo", "rss")
 RETIRED_RANKING_IDS = {"bing": ("trending-news",)}
-LIVE_CHANNELS = ("sina", "cls", "wallstreetcn")
+LIVE_CHANNELS = ("sina", "cls", "yicai", "wallstreetcn")
 
 # GitHub Actions checks special channels hourly, but the collector only runs a
 # channel when this interval has elapsed since its last snapshot. This keeps
@@ -119,7 +123,7 @@ _METADATA = {
     "hackernews": ("Hacker News", "HN", "#ff6600", "https://news.ycombinator.com/", True, ()),
     "huggingface": ("Hugging Face", "HF", "#e0a000", "https://huggingface.co/models?sort=trending", True, ()),
     "googletrends": ("Google Trends", "G", "#4285f4", "https://trends.google.com/trending?geo=HK", True, ()),
-    "bing": ("必应国内热点", "B", "#167a83", "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans", True, ()),
+    "bing": ("必应国内热点", "B", "#167a83", "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans", False, ()),
     "juejin": ("掘金", "掘", "#1e80ff", "https://juejin.cn/hot/articles", True, ()),
     "lobsters": ("Lobsters", "L", "#ac130d", "https://lobste.rs/", True, ()),
     "douban": ("豆瓣", "DB", "#00a65a", "https://movie.douban.com/chart", True, ()),
@@ -133,6 +137,10 @@ _METADATA = {
     "cctv": ("央视新闻", "视", "#c8171e", "https://news.cctv.com/", True, ()),
     "mfa": ("外交部", "外", "#1d4f91", "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/", True, ()),
     "wallstreetcn": ("华尔街见闻", "见", "#d8a23f", "https://wallstreetcn.com/live/global", True, ()),
+    "autohome": ("汽车之家", "汽", "#e64036", "https://www.autohome.com.cn/cars/hotrank/1", True, ()),
+    "gamersky": ("游民星空", "游", "#bb2925", "https://www.gamersky.com/news/", True, ()),
+    "ithome": ("IT之家", "IT", "#d3342f", "https://www.ithome.com/", True, ()),
+    "yicai": ("第一财经", "一", "#a82728", "https://www.yicai.com/", True, ()),
     "maimai": ("脉脉", "MM", "#00a6a6", "https://maimai.cn/web/gossip_list", False, ("MAIMAI_COOKIE",)),
     "xueqiu": ("雪球", "XQ", "#1f6fb2", "https://xueqiu.com/today", True, ()),
     "v2ex": ("V2EX", "V2", "#778087", "https://www.v2ex.com/?tab=hot", True, ()),
@@ -144,14 +152,15 @@ _METADATA = {
 }
 
 
-_HIDDEN_BY_DEFAULT = {"maimai", "fuliba"}
-_EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "readhub", "cctv", "mfa", "wallstreetcn"}
+_HIDDEN_BY_DEFAULT = {"maimai", "fuliba", "bing"}
+_EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "bing", "readhub", "cctv", "mfa", "wallstreetcn"}
 _STALE_AFTER_HOURS = {"bing": 24}
 _HOTLIST_SURFACE_CHANNELS = (
     "weibo", "zhihu", "douyin", "kuaishou", "bilibili", "acfun", "toutiao",
     "github", "juejin", "cnblogs", "pojie52", "googletrends", "bing", "baidu",
     "wechat", "36kr", "thepaper", "qqnews", "netease", "sina", "cls", "xueqiu",
     "eastmoney", "tonghuashun", "tieba", "douban", "hupu", "maimai", "huggingface",
+    "autohome", "gamersky", "ithome", "yicai",
     "v2ex", "lobsters", "hackernews", "stackoverflow", "nodeseek", "fuliba",
 )
 CHANNEL_SURFACES = {channel_id: ("hotlist",) for channel_id in _HOTLIST_SURFACE_CHANNELS}
@@ -162,6 +171,7 @@ CHANNEL_SURFACES.update({
     "readhub": ("digest",),
     "cctv": ("authority",),
     "mfa": ("authority",),
+    "yicai": ("hotlist", "live"),
 })
 if set(CHANNEL_SURFACES) != set(CHANNEL_ORDER):
     missing = sorted(set(CHANNEL_ORDER) - set(CHANNEL_SURFACES))

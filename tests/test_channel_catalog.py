@@ -31,7 +31,7 @@ class ChannelCatalogTests(unittest.TestCase):
 
         self.assertEqual(baseline["schemaVersion"], 1)
         self.assertEqual(baseline["catalogVersion"], "1.0.0")
-        self.assertEqual(len(baseline["channels"]), len(CHANNEL_ORDER))
+        self.assertEqual(len(baseline["channels"]), 39)
 
     def test_delta_round_trip_reconstructs_target_catalog(self):
         base = {

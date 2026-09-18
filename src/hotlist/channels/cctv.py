@@ -15,7 +15,7 @@ SOURCE_URL = "https://news.cctv.com/"
 ARTICLE_PATH = re.compile(r"/(?:20\d{2})/\d{2}/\d{2}/(?:ARTI|VIDE)[^/]+\.shtml$")
 
 
-def parse_headlines(html: str) -> list[HotItem]:
+def parse_headlines(html: str | bytes) -> list[HotItem]:
     soup = BeautifulSoup(html, "html.parser")
     items = []
     seen = set()
@@ -32,5 +32,5 @@ def parse_headlines(html: str) -> list[HotItem]:
 
 
 def collect() -> "ChannelSnapshot":
-    items = parse_headlines(get(SOURCE_URL, timeout=20, retries=1))
+    items = parse_headlines(get(SOURCE_URL, res_type="bytes", timeout=20, retries=1))
     return snapshot("cctv", [Ranking("latest", "最新发布", items, SOURCE_URL, "央视网", SOURCE_URL, "authority")])

@@ -14,9 +14,10 @@ class RssSourceOwnershipTests(unittest.TestCase):
         self.assertIn(("Linux.do", "https://linux.do/top.rss?period=weekly"), DEFAULT_FEEDS)
         self.assertNotIn("linuxdo", CHANNEL_ORDER)
 
-    def test_ithome_official_rss_is_in_aggregate_card_only(self):
+    def test_ithome_official_daily_rank_is_separate_from_retired_rss(self):
         self.assertIn(("IT之家", "https://www.ithome.com/rss/"), DEFAULT_FEEDS)
-        self.assertNotIn("ithome", CHANNEL_ORDER)
+        self.assertIn("ithome", CHANNEL_ORDER)
+        self.assertEqual(get_channel("ithome").homepage, "https://www.ithome.com/")
 
     def test_retired_rss_backed_snapshots_are_removed_during_merge(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -38,6 +39,16 @@ class RssSourceOwnershipTests(unittest.TestCase):
         self.assertNotIn("linuxdo", [item["channelId"] for item in payload["channels"]])
         self.assertNotIn("ithome", [item["channelId"] for item in payload["channels"]])
         self.assertNotIn("rss", [item["channelId"] for item in payload["channels"]])
+
+    def test_official_ithome_daily_snapshot_survives_other_channel_merge(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "latest.json"
+            path.write_text(json.dumps({"channels": [{
+                "channelId": "ithome", "status": "ok",
+                "rankings": [{"id": "daily", "items": [{"title": "官方日榜"}]}],
+            }]}), encoding="utf-8")
+            payload = merge_latest_snapshot([], str(path))
+        self.assertEqual(payload["channels"][0]["rankings"][0]["id"], "daily")
 
     def test_rss_is_retired_from_registration_and_default_collection(self):
         self.assertNotIn("rss", CHANNEL_ORDER)
