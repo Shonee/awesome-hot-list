@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-19 00:22:00
+> 更新时间：2026-09-19 01:17:34
 
 ## 24 小时热榜
 
@@ -26,11 +26,11 @@
 20. [研究人员借 Claude 攻入 OpenAI 内部代码系统](https://readhub.cn/topic/8wWFIEsi1tc?tab=daily)
 21. [住房城乡建设部：我国房地产进入存量时代](https://readhub.cn/topic/8wW0zUUAMcG?tab=daily)
 22. [AI 系统可让 3D 打印实现同步质检](https://readhub.cn/topic/8wVn68l5Asf?tab=daily)
-23. [消息称长鑫正准备进入闪存市场，与三星、海力士、美光正面竞争](https://readhub.cn/topic/8wWN9ZFvuvE?tab=daily)
-24. [Anthropic 重构 Claude Code 项目功能，多线程并行执行任务](https://readhub.cn/topic/8wVPqQfRqkc?tab=daily)
-25. [鸿蒙智行被曝今年将推两款 9 系新车：奇瑞、上汽各一款](https://readhub.cn/topic/8wW2SYJjVrt?tab=daily)
-26. [苹果五款新品今日开售：最低仅需 999 元 最高突破 2 万](https://readhub.cn/topic/8wVNhJj4A97?tab=daily)
-27. [智谱 ZCode 回应整库上传：Repo Wiki 默认开启惹祸，承诺开源客户端](https://readhub.cn/topic/8wWNrN2HHhx?tab=daily)
+23. [Anthropic 重构 Claude Code 项目功能，多线程并行执行任务](https://readhub.cn/topic/8wVPqQfRqkc?tab=daily)
+24. [消息称长鑫正准备进入闪存市场，与三星、海力士、美光正面竞争](https://readhub.cn/topic/8wWN9ZFvuvE?tab=daily)
+25. [苹果五款新品今日开售：最低仅需 999 元 最高突破 2 万](https://readhub.cn/topic/8wVNhJj4A97?tab=daily)
+26. [智谱 ZCode 回应整库上传：Repo Wiki 默认开启惹祸，承诺开源客户端](https://readhub.cn/topic/8wWNrN2HHhx?tab=daily)
+27. [鸿蒙智行被曝今年将推两款 9 系新车：奇瑞、上汽各一款](https://readhub.cn/topic/8wW2SYJjVrt?tab=daily)
 28. [钉钉创始人无招出任百望股份非执行董事](https://readhub.cn/topic/8wWGiYxaCIG?tab=daily)
 29. [阿里通用医疗影像 AI 登上《Science》：覆盖超 146 种病症，已正式开源](https://readhub.cn/topic/8wWLkNhWm9t?tab=daily)
 30. [PS5 Linux 核心开发者怒退圈，因 AI 使用者上报漏洞](https://readhub.cn/topic/8wWYjOtWLda?tab=daily)
@@ -54,6 +54,6 @@
 5. [OpenAI 被曝雪藏数百个数学证明，数学界担忧答案早已被机器算出](https://hub.baai.ac.cn/view/58079)
 6. [药企的私有数据，正在成为 AI 药物研发最强燃料](https://www.mittrchina.com/news/detail/16970)
 7. [1300 张卡叫板 10 万卡 前 OpenAI 副总裁出手，硬核难题击败 GPT-6 Astra](https://hub.baai.ac.cn/view/58066)
-8. [中科闻歌发布磐石・智研决策平台 SciencePro，面向所有科研人开放](https://hub.baai.ac.cn/view/58078)
-9. [谷歌 DeepMind 成立 AGI 研究所，诺奖得主亲自挂帅](https://hub.baai.ac.cn/view/58077)
-10. [I³LUNG 联盟用多模态 AI 探索肺癌免疫治疗决策，2396 名患者数据表现超越 PD-L1 等传统指标](https://hub.baai.ac.cn/view/58076)
+8. [Plugin4Shell zero-click RCE hits Claude Code, Codex, Copilot and Gemini CLI via git SHA bypass](https://daily.dev/posts/zero-click-rce-flaw-in-ai-coding-agents-let-attackers-swap-in-malicious-plugins-kmy9j53rq)
+9. [中科闻歌发布磐石・智研决策平台 SciencePro，面向所有科研人开放](https://hub.baai.ac.cn/view/58078)
+10. [谷歌 DeepMind 成立 AGI 研究所，诺奖得主亲自挂帅](https://hub.baai.ac.cn/view/58077)
