@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-18 14:35:31
+> 更新时间：2026-09-18 15:25:18
 
 ## 最新帖子
 
-1. [DuckDB + SQL 高效分析 JSON 数据](https://www.cnblogs.com/wang_yb/p/23026278)
-2. [第2篇：《Python 环境搭建与第一个项目运行》](https://www.cnblogs.com/bigant9527/p/23026013)
-3. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)
-4. [DeepSeek 视觉 API 刚上线：单张图 0.001 元，Agent 终于能看图](https://www.cnblogs.com/uniqueDong/p/23023564)
-5. [DDD领域驱动设计的四重边界](https://www.cnblogs.com/xiexj/p/23023207)
-6. [CLI 还是 MCP？一场关于 Agent 工具接口的再思考](https://www.cnblogs.com/codigger/p/23022943)
-7. [从 Healthory 到 Nature Aimanic：两款 iOS App 审核实战后，我总结了这份过审清单](https://www.cnblogs.com/Firepad-magic/p/23022488)
-8. [存算一体、云边协同：DolphinDB 为石油化工行业设备监测打造高效数据底座](https://www.cnblogs.com/DolphinDB/p/23022088)
-9. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
-10. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
-11. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
-12. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
-13. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)
-14. [java服务异常日志只打印异常类型，没有堆栈定位分析](https://www.cnblogs.com/zjdxr-up/p/23016204)
-15. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- （3）--- Rollout思路](https://www.cnblogs.com/rossiXYZ/p/22864291)
-16. [图论：LCA、树的直径、树的重心、二分图与 Tarjan 缩点](https://www.cnblogs.com/lvwangshuOI/p/23017314)
-17. [并发编程（二）：语言内存模型——程序员可以依赖的规则](https://www.cnblogs.com/ThinkerQAQ/p/23002812)
-18. [MynaTest｜一款面向 Web 测试人员的 Chrome MV3 扩展，开箱即用的测试辅助工具集](https://www.cnblogs.com/tynam/p/23016207)
-19. [Excel 列转行/行列转换全指南：从 4 种常见解法到 Python 批量自动化](https://www.cnblogs.com/Yesi/p/23015583)
-20. [基于 LlamaIndex 实现RAG向量检索入门](https://www.cnblogs.com/LyShark/p/23014455)
+1. [基于 LlamaIndex+PostgreSQL 实现RAG持久化](https://www.cnblogs.com/LyShark/p/22996705)
+2. [设计一个简易合成器框架-Common Lisp](https://www.cnblogs.com/zxc-cppnb/p/23010422)
+3. [DuckDB + SQL 高效分析 JSON 数据](https://www.cnblogs.com/wang_yb/p/23026278)
+4. [第2篇：《Python 环境搭建与第一个项目运行》](https://www.cnblogs.com/bigant9527/p/23026013)
+5. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)
+6. [DeepSeek 视觉 API 刚上线：单张图 0.001 元，Agent 终于能看图](https://www.cnblogs.com/uniqueDong/p/23023564)
+7. [DDD领域驱动设计的四重边界](https://www.cnblogs.com/xiexj/p/23023207)
+8. [CLI 还是 MCP？一场关于 Agent 工具接口的再思考](https://www.cnblogs.com/codigger/p/23022943)
+9. [从 Healthory 到 Nature Aimanic：两款 iOS App 审核实战后，我总结了这份过审清单](https://www.cnblogs.com/Firepad-magic/p/23022488)
+10. [存算一体、云边协同：DolphinDB 为石油化工行业设备监测打造高效数据底座](https://www.cnblogs.com/DolphinDB/p/23022088)
+11. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
+12. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
+13. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
+14. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
+15. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)
+16. [java服务异常日志只打印异常类型，没有堆栈定位分析](https://www.cnblogs.com/zjdxr-up/p/23016204)
+17. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- （3）--- Rollout思路](https://www.cnblogs.com/rossiXYZ/p/22864291)
+18. [图论：LCA、树的直径、树的重心、二分图与 Tarjan 缩点](https://www.cnblogs.com/lvwangshuOI/p/23017314)
+19. [并发编程（二）：语言内存模型——程序员可以依赖的规则](https://www.cnblogs.com/ThinkerQAQ/p/23002812)
+20. [MynaTest｜一款面向 Web 测试人员的 Chrome MV3 扩展，开箱即用的测试辅助工具集](https://www.cnblogs.com/tynam/p/23016207)
 
 ## 精华帖子
 
