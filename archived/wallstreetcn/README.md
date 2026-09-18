@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 01:21:16
+> 更新时间：2026-09-19 01:34:15
 
 ## 7x24
 
@@ -78,11 +78,3 @@ ICE欧盟碳排放交易许可（期货...](https://wallstreetcn.com/livenews/31
 38. [墨西哥总统辛鲍姆：我们尊重加拿大接触欧盟的决定。](https://wallstreetcn.com/livenews/3167377)
 39. [何小鹏：绝大部分机器人公司都严重低估了硬件的复杂度](https://wallstreetcn.com/livenews/3167376)
 40. [中国央行副行长陆磊称AI带来新型金融风险](https://wallstreetcn.com/livenews/3167375)
-41. [美国两年期国债收益率涨至4.743%，创2024年7月以来新高，日内当前涨约8个基点。
-
-10年期美债收益率涨约7.2个基点，刷新日高至5.0043%。
-
-两年期通胀保值国债（TIPS）收益率涨6.93个基点，报2.2649%，逼近7...](https://wallstreetcn.com/livenews/3167374)
-42. [英国想入伙“欧盟制造”](https://wallstreetcn.com/livenews/3167373)
-43. [中国—塔吉克斯坦政府间经贸合作委员会第十四次会议在杜尚别召开](https://wallstreetcn.com/livenews/3167372)
-44. [中俄经贸合作分委会第二十九次会议召开](https://wallstreetcn.com/livenews/3167371)
