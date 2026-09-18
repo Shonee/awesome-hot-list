@@ -1,11 +1,12 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-19 06:20:03
+> 更新时间：2026-09-19 06:23:17
 
-## 首页头条
+## 7x24
 
-1. [详解前8月全国财政数据](https://www.yicai.com/news/103370226.html)
-2. [高铁票价现节前浮动：有动卧大涨500元，“商务线”反而降价](https://www.yicai.com/news/103370115.html)
-3. [现场直击iPhone 18新机发售：线上价格“破发”后，黄牛加价不如前代](https://www.yicai.com/news/103369644.html)
-4. [越来越多人全款买房，多城居民杠杆率大幅降低](https://www.yicai.com/news/103370322.html)
-5. [从荷兰到西班牙，欧洲多国为何加速让黄金储备“回家”](https://www.yicai.com/news/103370159.html)
+1. [美总统特朗普签署针对俄罗斯和伊朗的制裁法案](https://m.yicai.com/brief/103370693.html)
+2. [对冲基金自2025年年中以来首次转为看涨日元](https://m.yicai.com/brief/103370691.html)
+3. [国际油价18日下跌](https://m.yicai.com/brief/103370689.html)
+4. [特朗普宣布全美50州医疗补助计划纳入最惠国药品定价 未来十年预计节省643亿美元](https://m.yicai.com/brief/103370687.html)
+5. [纳斯达克中国金龙指数收涨0.74%](https://m.yicai.com/brief/103370685.html)
+6. [美股涨跌互现](https://m.yicai.com/brief/103370683.html)
