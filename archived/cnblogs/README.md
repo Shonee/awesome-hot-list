@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-18 09:30:46
+> 更新时间：2026-09-18 10:31:35
 
 ## 最新帖子
 
-1. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
-2. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
-3. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
-4. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
-5. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)
-6. [手机管理小工具](https://www.cnblogs.com/futrueface/p/23018359)
-7. [PCI 总线协议解析](https://www.cnblogs.com/ayuan01/p/23018252)
-8. [java服务异常日志只打印异常类型，没有堆栈定位分析](https://www.cnblogs.com/zjdxr-up/p/23016204)
-9. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- （3）--- Rollout思路](https://www.cnblogs.com/rossiXYZ/p/22864291)
-10. [图论：LCA、树的直径、树的重心、二分图与 Tarjan 缩点](https://www.cnblogs.com/lvwangshuOI/p/23017314)
-11. [并发编程（二）：语言内存模型——程序员可以依赖的规则](https://www.cnblogs.com/ThinkerQAQ/p/23002812)
-12. [MynaTest｜一款面向 Web 测试人员的 Chrome MV3 扩展，开箱即用的测试辅助工具集](https://www.cnblogs.com/tynam/p/23016207)
-13. [Excel 列转行/行列转换全指南：从 4 种常见解法到 Python 批量自动化](https://www.cnblogs.com/Yesi/p/23015583)
-14. [基于 LlamaIndex 实现RAG向量检索入门](https://www.cnblogs.com/LyShark/p/23014455)
-15. [Python 可变默认参数导致的分页故障：从现象到根因到修复](https://www.cnblogs.com/exioran/p/23011869)
-16. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
-17. [DDD、SOA、微服务和微内核](https://www.cnblogs.com/xiexj/p/23010353)
-18. [标准外设库到底在替你做什么：从时钟到 GPIO 的一次完整调用](https://www.cnblogs.com/zw-awa/p/22994720)
-19. [告别“散装 AI ”：用 SKILL 编排对存量代码做“微创手术”](https://www.cnblogs.com/vivotech/p/23009536)
-20. [PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线](https://www.cnblogs.com/goodhacker/p/23008551)
+1. [CLI 还是 MCP？一场关于 Agent 工具接口的再思考](https://www.cnblogs.com/codigger/p/23022943)
+2. [从 Healthory 到 Nature Aimanic：两款 iOS App 审核实战后，我总结了这份过审清单](https://www.cnblogs.com/Firepad-magic/p/23022488)
+3. [存算一体、云边协同：DolphinDB 为石油化工行业设备监测打造高效数据底座](https://www.cnblogs.com/DolphinDB/p/23022088)
+4. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
+5. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
+6. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
+7. [PHP 8.6 只是个小版本，三十项弃用却已在为 PHP 9.0 铺路](https://www.cnblogs.com/catchadmin/p/23020590)
+8. [sed 一条命令批量替换 SQL 文件路径](https://www.cnblogs.com/jyzhao/p/23020587)
+9. [java服务异常日志只打印异常类型，没有堆栈定位分析](https://www.cnblogs.com/zjdxr-up/p/23016204)
+10. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- （3）--- Rollout思路](https://www.cnblogs.com/rossiXYZ/p/22864291)
+11. [图论：LCA、树的直径、树的重心、二分图与 Tarjan 缩点](https://www.cnblogs.com/lvwangshuOI/p/23017314)
+12. [并发编程（二）：语言内存模型——程序员可以依赖的规则](https://www.cnblogs.com/ThinkerQAQ/p/23002812)
+13. [MynaTest｜一款面向 Web 测试人员的 Chrome MV3 扩展，开箱即用的测试辅助工具集](https://www.cnblogs.com/tynam/p/23016207)
+14. [Excel 列转行/行列转换全指南：从 4 种常见解法到 Python 批量自动化](https://www.cnblogs.com/Yesi/p/23015583)
+15. [基于 LlamaIndex 实现RAG向量检索入门](https://www.cnblogs.com/LyShark/p/23014455)
+16. [Python 可变默认参数导致的分页故障：从现象到根因到修复](https://www.cnblogs.com/exioran/p/23011869)
+17. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
+18. [DDD、SOA、微服务和微内核](https://www.cnblogs.com/xiexj/p/23010353)
+19. [标准外设库到底在替你做什么：从时钟到 GPIO 的一次完整调用](https://www.cnblogs.com/zw-awa/p/22994720)
+20. [告别“散装 AI ”：用 SKILL 编排对存量代码做“微创手术”](https://www.cnblogs.com/vivotech/p/23009536)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
-2. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
+1. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
+2. [给Claude Code装上40个Skill后，我才发现之前都白用了](https://www.cnblogs.com/uniqueDong/p/22995744)
 3. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
-4. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
-5. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
+4. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
+5. [管理复盘：一次代码审核冲突的处理与反思](https://www.cnblogs.com/warrior2017/p/22998235)
 6. [大模型（DeepSeek）辅助 3D 实时建模 + 拖拽配置：业务可视化应用快速构建实践（标注、巡检与视角控制等）](https://www.cnblogs.com/lsjwq/p/22996244)
