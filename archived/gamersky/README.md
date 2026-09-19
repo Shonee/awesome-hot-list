@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-19 13:20:55
+> 更新时间：2026-09-19 14:32:59
 
 ## 热点资讯排行
 
@@ -11,8 +11,8 @@
 5. [《火焰纹章：万缕千丝》首个更新上线！IGN 10分封神之作](https://www.gamersky.com/news/202609/2211215.shtml)
 6. [失眠组发《漫威金刚狼》琴格蕾演员被骂2000楼！游戏里咋能这么丑](https://www.gamersky.com/news/202609/2208892.shtml)
 7. [《漫威金刚狼》确认和SweetBaby合作！被DEI荼毒？](https://www.gamersky.com/news/202609/2209498.shtml)
-8. [《魔兽世界：Forever》正式公布！11月4日上线](https://www.gamersky.com/news/202609/2208538.shtml)
-9. [小岛秀夫在《OD》启用跨性别演员亨特·莎弗 引玩家集体不满](https://www.gamersky.com/news/202609/2211912.shtml)
+8. [小岛秀夫在《OD》启用跨性别演员亨特·莎弗 引玩家集体不满](https://www.gamersky.com/news/202609/2211912.shtml)
+9. [《魔兽世界：Forever》正式公布！11月4日上线](https://www.gamersky.com/news/202609/2208538.shtml)
 10. [PS5破解惨遭重大突破！更接近完全破解了](https://www.gamersky.com/news/202609/2210420.shtml)
 11. [《赛博朋克2077》官宣登陆暴雪战网！今年之内上架](https://www.gamersky.com/news/202609/2208798.shtml)
 12. [《WOW无限》新种族收费惹怒玩家！快赶上个DLC了](https://www.gamersky.com/news/202609/2208828.shtml)

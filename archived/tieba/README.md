@@ -1,14 +1,14 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-19 13:21:00
+> 更新时间：2026-09-19 14:33:04
 
 ## 最有料热点
 
 1. [禁止代入!缘之空汉化组训玩家](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364813&topic_name=%E7%A6%81%E6%AD%A2%E4%BB%A3%E5%85%A5%21%E7%BC%98%E4%B9%8B%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%E8%AE%AD%E7%8E%A9%E5%AE%B6)
 2. [AI剧迎严审,官方力挺真人剧](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364800&topic_name=AI%E5%89%A7%E8%BF%8E%E4%B8%A5%E5%AE%A1%2C%E5%AE%98%E6%96%B9%E5%8A%9B%E6%8C%BA%E7%9C%9F%E4%BA%BA%E5%89%A7)
-3. [沙特首都利雅得遭空袭](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364806&topic_name=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E9%81%AD%E7%A9%BA%E8%A2%AD)
-4. [绝!原来方便面有这么多种类](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364718&topic_name=%E7%BB%9D%21%E5%8E%9F%E6%9D%A5%E6%96%B9%E4%BE%BF%E9%9D%A2%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A7%8D%E7%B1%BB)
-5. [学术分歧被劝退,博士低保维生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364812&topic_name=%E5%AD%A6%E6%9C%AF%E5%88%86%E6%AD%A7%E8%A2%AB%E5%8A%9D%E9%80%80%2C%E5%8D%9A%E5%A3%AB%E4%BD%8E%E4%BF%9D%E7%BB%B4%E7%94%9F)
+3. [绝!原来方便面有这么多种类](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364718&topic_name=%E7%BB%9D%21%E5%8E%9F%E6%9D%A5%E6%96%B9%E4%BE%BF%E9%9D%A2%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A7%8D%E7%B1%BB)
+4. [学术分歧被劝退,博士低保维生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364812&topic_name=%E5%AD%A6%E6%9C%AF%E5%88%86%E6%AD%A7%E8%A2%AB%E5%8A%9D%E9%80%80%2C%E5%8D%9A%E5%A3%AB%E4%BD%8E%E4%BF%9D%E7%BB%B4%E7%94%9F)
+5. [沙特首都利雅得遭空袭](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364806&topic_name=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E9%81%AD%E7%A9%BA%E8%A2%AD)
 6. [老外也鸡娃,儿子挂科删游戏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364804&topic_name=%E8%80%81%E5%A4%96%E4%B9%9F%E9%B8%A1%E5%A8%83%2C%E5%84%BF%E5%AD%90%E6%8C%82%E7%A7%91%E5%88%A0%E6%B8%B8%E6%88%8F)
 7. [沙特豪掷百亿购置48架F35](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364811&topic_name=%E6%B2%99%E7%89%B9%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E8%B4%AD%E7%BD%AE48%E6%9E%B6F35)
 8. [联合早报炒作旧案引众怒](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364767&topic_name=%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5%E7%82%92%E4%BD%9C%E6%97%A7%E6%A1%88%E5%BC%95%E4%BC%97%E6%80%92)

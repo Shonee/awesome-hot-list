@@ -1,26 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-19 14:15:00
+> 更新时间：2026-09-19 14:33:00
 
-## 7x24
+## 首页头条
 
-1. [应急管理部针对四川启动国家地质灾害四级应急响应](https://m.yicai.com/brief/103370868.html)
-2. [今年前8个月开行旅游列车2501列 多地专列上新不断](https://m.yicai.com/brief/103370866.html)
-3. [普京批欧领导人宣扬对俄开战](https://m.yicai.com/brief/103370864.html)
-4. [印尼巴布亚省发生5.8级地震](https://m.yicai.com/brief/103370859.html)
-5. [研究显示格陵兰和南极冰盖40多年损失逾11万亿吨冰](https://m.yicai.com/brief/103370857.html)
-6. [俄召见英临时代办抗议英向乌供武](https://m.yicai.com/brief/103370855.html)
-7. [施一公：西湖大学放弃科研量化指标、不设科研奖励](https://m.yicai.com/brief/103370853.html)
-8. [中国CNS论文数量比四年前增加125%](https://m.yicai.com/brief/103370851.html)
-9. [飞猪、同程、途家、美团，一同回应被立案调查](https://m.yicai.com/brief/103370846.html)
-10. [飞猪回应被立案调查](https://m.yicai.com/brief/103370843.html)
-11. [自然资源部对四川启动地质灾害防御Ⅳ级响应](https://m.yicai.com/brief/103370841.html)
-12. [欧元集团：能源价格上涨加剧欧洲经济压力](https://m.yicai.com/brief/103370839.html)
-13. [被北京市市场监督管理局立案调查，同程回应来了](https://m.yicai.com/brief/103370837.html)
-14. [马克龙说美伊短期内难达成协议](https://m.yicai.com/brief/103370835.html)
-15. [美团回应被立案调查：将积极配合监管部门调查 全面落实监管要求](https://m.yicai.com/brief/103370833.html)
-16. [四川攀枝花盐边县突发泥石流 应急管理厅已派出工作组赶赴现场](https://m.yicai.com/brief/103370830.html)
-17. [中使馆提醒在沙特中资机构和中国公民进一步加强安全防范](https://m.yicai.com/brief/103370828.html)
-18. [四家在线酒店旅游预订平台被立案调查，中国饭店协会：积极支持并推动落实相关部署](https://m.yicai.com/brief/103370826.html)
-19. [四川盐边县突发泥石流 已致5人失联](https://m.yicai.com/brief/103370824.html)
-20. [途家回应被立案调查：高度重视 将全力配合监管调查](https://m.yicai.com/brief/103370822.html)
+1. [详解前8月全国财政数据](https://www.yicai.com/news/103370226.html)
+2. [高铁票价现节前浮动：有动卧大涨500元，“商务线”反而降价](https://www.yicai.com/news/103370115.html)
+3. [现场直击iPhone 18新机发售：线上价格“破发”后，黄牛加价不如前代](https://www.yicai.com/news/103369644.html)
+4. [越来越多人全款买房，多城居民杠杆率大幅降低](https://www.yicai.com/news/103370322.html)
+5. [从荷兰到西班牙，欧洲多国为何加速让黄金储备“回家”](https://www.yicai.com/news/103370159.html)
