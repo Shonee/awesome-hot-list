@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-19 12:24:00
+> 更新时间：2026-09-19 13:19:48
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
-2. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
-3. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
+1. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
+2. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
+3. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
 4. [DeepSeek 视觉 API 刚上线：单张图 0.001 元，Agent 终于能看图](https://www.cnblogs.com/uniqueDong/p/23023564)
-5. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
-6. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
+5. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
+6. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
