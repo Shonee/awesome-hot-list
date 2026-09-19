@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-09-20 05:17:26
+> 更新时间：2026-09-20 06:18:10
 
 ## 日榜
 
@@ -10,8 +10,8 @@
 4. [网络上常见的热门短视频集锦   第三千四百三十八期](https://www.acfun.cn/v/ac48858394)
 5. [网络上常见的热门短视频集锦   第三千四百三十七期](https://www.acfun.cn/v/ac48857544)
 6. [单纯的约会（92）](https://www.acfun.cn/v/ac48857199)
-7. [这该死的肥美！★手机竖屏2008★](https://www.acfun.cn/v/ac48857541)
-8. [【东方】推特东方小视频选集 第272期](https://www.acfun.cn/v/ac48858830)
+7. [【东方】推特东方小视频选集 第272期](https://www.acfun.cn/v/ac48858830)
+8. [这该死的肥美！★手机竖屏2008★](https://www.acfun.cn/v/ac48857541)
 9. [钓鱼佬是真会享受！欢乐八点档-1777](https://www.acfun.cn/v/ac48858969)
 10. [一天生产500万个！速冻水饺是如何制造出来的？](https://www.acfun.cn/v/ac48859253)
 11. [奶油苏打和冕形灯](https://www.acfun.cn/v/ac48857839)
@@ -20,10 +20,10 @@
 14. [给姨脸都笑开花了【今天有什么好笑的 #2511】](https://www.acfun.cn/v/ac48858780)
 15. [这波是谁的责任？](https://www.acfun.cn/v/ac48858355)
 16. [小姐姐还是戴眼镜好看一点](https://www.acfun.cn/v/ac48858346)
-17. [果然压轴的才是大运大佬](https://www.acfun.cn/v/ac48858348)
-18. [这一口浓痰恐怕会记住一辈子了](https://www.acfun.cn/v/ac48858351)
-19. [24.我们的祖宗是条鱼？征服大地的亿年史诗](https://www.acfun.cn/v/ac48845325)
-20. [一起喝一杯？【写真本】](https://www.acfun.cn/v/ac48858836)
+17. [一起喝一杯？【写真本】](https://www.acfun.cn/v/ac48858836)
+18. [果然压轴的才是大运大佬](https://www.acfun.cn/v/ac48858348)
+19. [这一口浓痰恐怕会记住一辈子了](https://www.acfun.cn/v/ac48858351)
+20. [24.我们的祖宗是条鱼？征服大地的亿年史诗](https://www.acfun.cn/v/ac48845325)
 21. [迈了一大步但扯到了裆，卧龙2A测有些劝退](https://www.acfun.cn/v/ac48859623)
 22. [云南曲靖南城大集，臭豆腐罐罐米线，薄荷羊汤锅，阿星吃炸洋芋片](https://www.acfun.cn/v/ac48858994)
 23. [多人跑团！原汁原味的《龙与地下城》跑团？超还原DND的CRPG《索拉斯塔2》](https://www.acfun.cn/v/ac48859320)
@@ -39,8 +39,8 @@
 33. [宇儿-20260918 siren Mr.taxi 笛子舞](https://www.acfun.cn/v/ac48858241)
 34. [喵～喵～](https://www.acfun.cn/v/ac48859577)
 35. [我也要跳滑溜溜海豹舞吗？](https://www.acfun.cn/v/ac48858972)
-36. [畸形“侏罗纪公园”？拥有人类特征的恐龙！模拟恐怖ISLA TACAÑO](https://www.acfun.cn/v/ac48858059)
-37. [【扒】莫蒂的植物进化之路，是柔弱胜刚强吗？](https://www.acfun.cn/v/ac48857387)
+36. [【扒】莫蒂的植物进化之路，是柔弱胜刚强吗？](https://www.acfun.cn/v/ac48857387)
+37. [畸形“侏罗纪公园”？拥有人类特征的恐龙！模拟恐怖ISLA TACAÑO](https://www.acfun.cn/v/ac48858059)
 38. [妮露皮肤又卡监修？刀鸣新版秘境战线活动攻略！](https://www.acfun.cn/v/ac48857871)
 39. [你的朋友圈更新了！](https://www.acfun.cn/v/ac48859161)
 40. [【AI】黑丝高跟~Red](https://www.acfun.cn/v/ac48859604)
@@ -51,8 +51,8 @@
 45. [桢-20260918 猫步轻俏 wigglewiggle hush](https://www.acfun.cn/v/ac48858245)
 46. [【兔游】緋色月下、狂咲ノ絶 大触LV.8 FC【musedash】](https://www.acfun.cn/v/ac48857911)
 47. [失误还是故意？大韩航空007事件](https://www.acfun.cn/v/ac48858816)
-48. [皇冠12个狮鹫骑士疯狂爆破 魔兽争霸xiaoy解说lyn sok](https://www.acfun.cn/v/ac48858215)
-49. [宇儿-20260917 短裙 Mr.taxi 笛子舞](https://www.acfun.cn/v/ac48858246)
+48. [宇儿-20260917 短裙 Mr.taxi 笛子舞](https://www.acfun.cn/v/ac48858246)
+49. [皇冠12个狮鹫骑士疯狂爆破 魔兽争霸xiaoy解说lyn sok](https://www.acfun.cn/v/ac48858215)
 50. [水一下-她的梦](https://www.acfun.cn/v/ac48858926)
 
 ## 三日榜
@@ -117,8 +117,8 @@
 5. [我跳的对吗](https://www.acfun.cn/v/ac48849847)
 6. [游戏还在，人已失联，2030年的星际开放世界，你还会玩吗？【绅批】](https://www.acfun.cn/v/ac48854748)
 7. [《动物迷惑行为大赏324》](https://www.acfun.cn/v/ac48844889)
-8. [《动物：是的，我不同意和解》](https://www.acfun.cn/v/ac48851885)
-9. [【写真】ol穿搭](https://www.acfun.cn/v/ac48856919)
+8. [【写真】ol穿搭](https://www.acfun.cn/v/ac48856919)
+9. [《动物：是的，我不同意和解》](https://www.acfun.cn/v/ac48851885)
 10. [开学对各省舍友的刻板印象](https://www.acfun.cn/v/ac48857410)
 11. [emoji动物模仿～](https://www.acfun.cn/v/ac48852436)
 12. [网络上常见的热门短视频集锦   第三千四百三十二期](https://www.acfun.cn/v/ac48851115)
@@ -140,8 +140,8 @@
 28. [《  早 八 的 酒  》](https://www.acfun.cn/v/ac48845154)
 29. [魔兽无限服禁金团引爆社区！但原教旨主义玩家才是最抽象的？【绅批】](https://www.acfun.cn/v/ac48857248)
 30. [微醺时刻！！！★手机竖屏2006★](https://www.acfun.cn/v/ac48852704)
-31. [网络上常见的热门短视频集锦   第三千四百二十九期](https://www.acfun.cn/v/ac48847758)
-32. [过期JK碎碎念！](https://www.acfun.cn/v/ac48859219)
+31. [过期JK碎碎念！](https://www.acfun.cn/v/ac48859219)
+32. [网络上常见的热门短视频集锦   第三千四百二十九期](https://www.acfun.cn/v/ac48847758)
 33. [胡塞两天拿下曼德海峡，美国为什么一点都不慌？](https://www.acfun.cn/v/ac48854396)
 34. [你们内外皆钢，而我们化身钢铁！【达奇】战锤40K故事内容](https://www.acfun.cn/v/ac48856443)
 35. [别脱，要的就是蜘蛛侠！★手机竖屏2003★](https://www.acfun.cn/v/ac48845366)
