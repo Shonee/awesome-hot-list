@@ -1,17 +1,17 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-20 02:22:50
+> 更新时间：2026-09-20 03:15:11
 
 ## 人气热门
 
-1. [古诗词宝典 · Chinese Poetry Reader · v1.0.1](https://www.52pojie.cn/thread-2127172-1-1.html)
-2. [本地快捷截图OCR工具（自动写入粘贴板）](https://www.52pojie.cn/thread-2128632-1-1.html)
-3. [中华人民共和国药典(2025年版)1.0版本](https://www.52pojie.cn/thread-2128710-1-1.html)
-4. [微信防撤回工具v1.3](https://www.52pojie.cn/thread-2128266-1-1.html)
-5. [Excel通用财务账模板](https://www.52pojie.cn/thread-2128163-1-1.html)
-6. [人体穴位图解3.2.1版本](https://www.52pojie.cn/thread-2128627-1-1.html)
-7. [截图工具 PixPin 3.5.5.1  便携正式版](https://www.52pojie.cn/thread-2127743-1-1.html)
-8. [鼠标自动点击工具 AutoClick v1.5.5](https://www.52pojie.cn/thread-2128494-1-1.html)
+1. [鼠标自动点击工具 AutoClick v1.5.5](https://www.52pojie.cn/thread-2128494-1-1.html)
+2. [古诗词宝典 · Chinese Poetry Reader · v1.0.1](https://www.52pojie.cn/thread-2127172-1-1.html)
+3. [本地快捷截图OCR工具（自动写入粘贴板）](https://www.52pojie.cn/thread-2128632-1-1.html)
+4. [中华人民共和国药典(2025年版)1.0版本](https://www.52pojie.cn/thread-2128710-1-1.html)
+5. [微信防撤回工具v1.3](https://www.52pojie.cn/thread-2128266-1-1.html)
+6. [Excel通用财务账模板](https://www.52pojie.cn/thread-2128163-1-1.html)
+7. [人体穴位图解3.2.1版本](https://www.52pojie.cn/thread-2128627-1-1.html)
+8. [截图工具 PixPin 3.5.5.1  便携正式版](https://www.52pojie.cn/thread-2127743-1-1.html)
 9. [截图录屏OCR工具 Pixwit v1.16.3](https://www.52pojie.cn/thread-2126614-1-1.html)
 10. [化学虚拟实验室Unreal_Chemist_v3.0.3_zh_RC2中文版(部分汉化)](https://www.52pojie.cn/thread-2126637-1-1.html)
 11. [离在线系统IP地址查询器 V1.0](https://www.52pojie.cn/thread-2128468-1-1.html)

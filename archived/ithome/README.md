@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-20 02:23:15
+> 更新时间：2026-09-20 03:15:43
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [运输前需放电：苹果为 iPhone 18 Pro Max 新增“准备发运”功能，以确保电量阈值不超过 20Wh](https://www.ithome.com/1/004/372.htm)
 7. [“机顶盒内置”引发网友热议：专家解读一体化电视到底长什么样，广电总局目标在今年实现数千万规模部署](https://www.ithome.com/1/004/382.htm)
 8. [苹果调整 iOS 27 Apple 智能表述：iPhone 17 Pro 等部分机型需多达 14GB 存储空间](https://www.ithome.com/1/004/389.htm)
-9. [苹果首款折叠 iPhone Duo 海外媒体评论汇总：CNET 称希望有“单屏版 Duo”](https://www.ithome.com/1/004/434.htm)
-10. [张雪首款 ADV 摩托车 820X 发布，4.68 万元起](https://www.ithome.com/1/004/409.htm)
+9. [张雪首款 ADV 摩托车 820X 发布，4.68 万元起](https://www.ithome.com/1/004/409.htm)
+10. [苹果首款折叠 iPhone Duo 海外媒体评论汇总：CNET 称希望有“单屏版 Duo”](https://www.ithome.com/1/004/434.htm)
 11. [苹果首款折叠 iPhone Duo 爆料：30° 角为界，切换内外屏功耗／散热策略](https://www.ithome.com/1/004/394.htm)
 12. [小米 REDMI K100 新机入网，有望搭载万级大电池](https://www.ithome.com/1/004/465.htm)
