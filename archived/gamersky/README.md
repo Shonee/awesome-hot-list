@@ -1,21 +1,21 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-20 03:15:37
+> 更新时间：2026-09-20 04:20:34
 
 ## 热点资讯排行
 
-1. [《赛博朋克2077》官宣登陆暴雪战网！今年之内上架](https://www.gamersky.com/news/202609/2208798.shtml)
-2. [小团团直播PUBG被水友贴脸开大：你前两年哪去了？](https://www.gamersky.com/news/202609/2210275.shtml)
-3. [《魔兽世界：无限》画面升级曝光！水面、纹理、光影全面升级](https://www.gamersky.com/news/202609/2208842.shtml)
-4. [显卡](https://www.gamersky.com/news/202609/2208854.shtml)
-5. [影视飓风确认给员工发iPhoneDuo!每人一台 自选型号](https://www.gamersky.com/news/202609/2210351.shtml)
-6. [谁看了不想尝一口：王星辰新角色太甜了 完美身材](https://www.gamersky.com/news/202609/2208577.shtml)
-7. [买X2收到X3！罗技新品旗舰鼠标提前泄露：还没官宣玩家先用上了](https://www.gamersky.com/hardware/202609/2212059.shtml)
-8. [真·当面NTR！小岛秀夫穿上Xbox外套 窗外就是索尼总部](https://www.gamersky.com/news/202609/2209189.shtml)
-9. [《火焰纹章：万缕千丝》新女角介绍公开:喜欢赚钱的黑皮美女](https://www.gamersky.com/news/202609/2209143.shtml)
-10. [PlayStation全新产品官宣！沉浸式体验更上一层楼](https://www.gamersky.com/news/202609/2210425.shtml)
-11. [卢本伟老婆晒赵灵儿COS：当牛马打工 为家添砖加瓦](https://www.gamersky.com/news/202609/2208760.shtml)
-12. [女流66锐评靠《黑神话：悟空》博流量 国产游戏正起势影响国际](https://www.gamersky.com/news/202609/2208832.shtml)
-13. [《魔兽世界》资料片](https://www.gamersky.com/news/202609/2208536.shtml)
-14. [PS6或延期！索尼CEO回应PS6发售日](https://www.gamersky.com/news/202609/2210135.shtml)
-15. [平台月付将退出支付选项！再也不怕误用花呗了](https://www.gamersky.com/news/202609/2210258.shtml)
+1. [逆向工程师历时4年：索尼PS2“魔法安全芯片”26年来首次被破解](https://www.gamersky.com/news/202609/2209275.shtml)
+2. [提前5分钟开门!苹果门店新规：全员须为首批顾客鼓掌](https://www.gamersky.com/news/202609/2209121.shtml)
+3. [GTA玩成电影！DLSS5加持直接起飞:飙车射警堪比大片](https://www.gamersky.com/news/202609/2209274.shtml)
+4. [买了游戏只囤不玩？40岁父亲积压百款游戏引热议](https://www.gamersky.com/news/202609/2209345.shtml)
+5. [艾利和推出CLARUS克鲁斯Hi-Fi入耳式耳机 21999元 航空级材质 人体工学设计](https://www.gamersky.com/news/202609/2209993.shtml)
+6. [《星际争霸》完全新作惊喜官宣！不做RTS你接受吗](https://www.gamersky.com/news/202609/2208560.shtml)
+7. [曝索尼想收购小岛秀夫工作室但没谈妥！不怕赔钱 只要独占](https://www.gamersky.com/news/202609/2209132.shtml)
+8. [《死或生6：最后一战》新角色Minato今日参战 靠“复制”对手招式战斗](https://www.gamersky.com/news/202609/2206709.shtml)
+9. [iPhone 18 Pro支持60W快充 苹果重申要花329元买新的适配器](https://www.gamersky.com/news/202609/2208865.shtml)
+10. [《时之笛RE》世界地图曝光！布局相似但有新细节](https://www.gamersky.com/news/202609/2208546.shtml)
+11. [失眠组发琴格蕾演员被骂3000楼！游戏里实在太难看](https://www.gamersky.com/news/202609/2211118.shtml)
+12. [《空之轨迹the 2nd》IGN9分！当之无愧的RPG佳作](https://www.gamersky.com/news/202609/2210819.shtml)
+13. [iOS27闹钟支持调休！苹果迎中国定制更新 打工人刚需](https://www.gamersky.com/news/202609/2209564.shtml)
+14. [R星公布更多《GTA6》情报！多位重磅巨星加盟](https://www.gamersky.com/news/202609/2210599.shtml)
+15. [暴雪总裁回应《星际》新作公布太早：为了给玩家信心](https://www.gamersky.com/news/202609/2208757.shtml)
