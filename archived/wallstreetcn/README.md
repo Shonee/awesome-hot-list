@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 07:49:16
+> 更新时间：2026-09-19 08:25:07
 
 ## 7x24
 
@@ -12,7 +12,7 @@
 6. [美国法官裁定：特朗普政府取消70亿美元太阳能项目违法](https://wallstreetcn.com/livenews/3167516)
 7. [经济日报金观平：莫以产能过剩之名行贸易保护之实](https://wallstreetcn.com/livenews/3167515)
 8. [Meta关联数据中心垃圾债因需求火爆而溢价发行](https://wallstreetcn.com/livenews/3167514)
-9. [报道：OpenAI到2030年这段时间料将烧钱2800亿美元](https://wallstreetcn.com/livenews/3167512)
+9. [报道：OpenAI到2030年这段时间料将烧钱将近2800亿美元](https://wallstreetcn.com/livenews/3167512)
 10. [螺旋蝇重现新墨西哥州，美最大墨牛进口口岸仍拟如期重开](https://wallstreetcn.com/livenews/3167511)
 11. [千问发布Qwen3.8-Omni-Flash， 提升其在真实生产力场景中的 Agent 能力](https://wallstreetcn.com/livenews/3167510)
 12. [美国政府将于下周主办联合国人工智能主题会议。（CNN）](https://wallstreetcn.com/livenews/3167508)
@@ -40,13 +40,3 @@
 
 鲁比奥与韩国外长承诺开展芯片领域合作。](https://wallstreetcn.com/livenews/3167492)
 26. [报道：Anthropic计划11月IPO](https://wallstreetcn.com/livenews/3167490)
-27. [普京：“三位一体”核力量仍是俄罗斯国家主权的保障](https://wallstreetcn.com/livenews/3167488)
-28. [特朗普：美国已与丹麦达成协议，将永久控制格陵兰岛的安全](https://wallstreetcn.com/livenews/3167487)
-29. [英伟达CEO黄仁勋减持45,728股公司股票。
-
-CFO克雷斯出售34,918股英伟达股票。](https://wallstreetcn.com/livenews/3167486)
-30. [富时A50期指连续夜盘收涨0.01%，报14484点。](https://wallstreetcn.com/livenews/3167484)
-31. [周五（9月18日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.6955元，逼近2022年7月8日最终报价6.6862元，较周四纽约尾盘涨86点，日内整体交投于6.7044-6.6934元区间，09:15涨穿6....](https://wallstreetcn.com/livenews/3167483)
-32. [波兰财长： 波兰对穆迪下调本国评级一事 “严肃但冷静地看待”。](https://wallstreetcn.com/livenews/3167482)
-33. [国际金价周五涨超0.8%，本周涨约0.7%，现货白银累涨超2.7%](https://wallstreetcn.com/livenews/3167481)
-34. [特朗普再称对伊朗战争将很快结束](https://wallstreetcn.com/livenews/3167477)
