@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-19 11:24:37
+> 更新时间：2026-09-19 12:24:14
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [为压缩成本安排运动员住邮轮、集装箱房等，亚奥理事会回应住宿条件争议](https://www.thepaper.cn/newsDetail_forward_34097432)
 8. [媒体称欧盟希中国自愿限制混动汽车对欧出口，商务部：坚决反对](https://www.thepaper.cn/newsDetail_forward_34098607)
 9. [马上评丨又来了，“擦边”式营销真没法治了吗](https://www.thepaper.cn/newsDetail_forward_34095497)
-10. [AI安全争议升温，英国王室罕见介入！查尔斯三世召集全球AI高层开会，黄仁勋、哈萨比斯参会](https://www.thepaper.cn/newsDetail_forward_34095187)
-11. [南方医科大学学生坠亡事件造谣微博账号已被处置](https://www.thepaper.cn/newsDetail_forward_34095780)
+10. [南方医科大学学生坠亡事件造谣微博账号已被处置](https://www.thepaper.cn/newsDetail_forward_34095780)
+11. [“投名状”被美国退回后：万亿矿产在手，塔利班为何仍难靠经济“破局”？](https://www.thepaper.cn/newsDetail_forward_34094970)
 12. [没早餐、查无此人、大巴开错路……名古屋亚运还没开幕就麻了](https://www.thepaper.cn/newsDetail_forward_34096004)
-13. [山西一行贿案罚没“足金观音像”拍卖变铜合金续：竞得人获退款84万余元，原因仍不明](https://www.thepaper.cn/newsDetail_forward_34095156)
-14. [郭士强答澎湃新闻：我从不给自己打分](https://www.thepaper.cn/newsDetail_forward_34098317)
-15. [《交锋》好看，说到底离不开这群人](https://www.thepaper.cn/newsDetail_forward_34097351)
-16. [名古屋亚运会又出乌龙！曲棍球赛前给韩国队演奏朝鲜国歌](https://www.thepaper.cn/newsDetail_forward_34096796)
-17. [卖豆浆前主播先换上黑丝，“擦边”式营销真没法治了吗](https://www.thepaper.cn/newsDetail_forward_34099157)
-18. [广东清远通报“硫磺熏笋”：已对违法加工原料及产品进行查封](https://www.thepaper.cn/newsDetail_forward_34096179)
+13. [郭士强答澎湃新闻：我从不给自己打分](https://www.thepaper.cn/newsDetail_forward_34098317)
+14. [《交锋》好看，说到底离不开这群人](https://www.thepaper.cn/newsDetail_forward_34097351)
+15. [名古屋亚运会又出乌龙！曲棍球赛前给韩国队演奏朝鲜国歌](https://www.thepaper.cn/newsDetail_forward_34096796)
+16. [卖豆浆前主播先换上黑丝，“擦边”式营销真没法治了吗](https://www.thepaper.cn/newsDetail_forward_34099157)
+17. [广东清远通报“硫磺熏笋”：已对违法加工原料及产品进行查封](https://www.thepaper.cn/newsDetail_forward_34096179)
+18. [特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻](https://www.thepaper.cn/newsDetail_forward_34102730)
 19. [宁波“能看海的地铁”免费试乘将遇周末，运营方再次提醒错峰出行](https://www.thepaper.cn/newsDetail_forward_34097813)
 20. [关联公司涉民间借贷纠纷，万通创始人冯仑被限制高消费](https://www.thepaper.cn/newsDetail_forward_34097425)
