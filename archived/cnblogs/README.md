@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-20 00:20:34
+> 更新时间：2026-09-20 01:16:43
 
 ## 最新帖子
 
@@ -54,5 +54,5 @@
 2. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
 3. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
 4. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
-5. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)
-6. [CLI 还是 MCP？一场关于 Agent 工具接口的再思考](https://www.cnblogs.com/codigger/p/23022943)
+5. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
+6. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)

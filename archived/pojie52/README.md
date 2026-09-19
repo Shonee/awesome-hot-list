@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-20 00:20:41
+> 更新时间：2026-09-20 01:16:51
 
 ## 人气热门
 
@@ -57,8 +57,8 @@
 
 ## 精华采撷
 
-1. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
-2. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+1. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+2. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 3. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
 4. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
 5. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
