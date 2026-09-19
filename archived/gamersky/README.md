@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-19 10:29:17
+> 更新时间：2026-09-19 11:24:57
 
 ## 热点资讯排行
 
@@ -13,9 +13,9 @@
 7. [《漫威金刚狼》确认和SweetBaby合作！被DEI荼毒？](https://www.gamersky.com/news/202609/2209498.shtml)
 8. [《魔兽世界：Forever》正式公布！11月4日上线](https://www.gamersky.com/news/202609/2208538.shtml)
 9. [PS5破解惨遭重大突破！更接近完全破解了](https://www.gamersky.com/news/202609/2210420.shtml)
-10. [《赛博朋克2077》官宣登陆暴雪战网！今年之内上架](https://www.gamersky.com/news/202609/2208798.shtml)
-11. [小岛秀夫在《OD》启用跨性别演员亨特·莎弗 引玩家集体不满](https://www.gamersky.com/news/202609/2211912.shtml)
+10. [小岛秀夫在《OD》启用跨性别演员亨特·莎弗 引玩家集体不满](https://www.gamersky.com/news/202609/2211912.shtml)
+11. [《赛博朋克2077》官宣登陆暴雪战网！今年之内上架](https://www.gamersky.com/news/202609/2208798.shtml)
 12. [《WOW无限》新种族收费惹怒玩家！快赶上个DLC了](https://www.gamersky.com/news/202609/2208828.shtml)
 13. [太窒息了！17岁辛苦打工买电脑 因起床晚被亲爹狂砸](https://www.gamersky.com/news/202609/2211144.shtml)
-14. [《魔兽争霸3RE》新战役今日上线！30小时体量超大](https://www.gamersky.com/news/202609/2208537.shtml)
-15. [《火纹》新作获IGN 10分！故事线封神 越玩越精彩](https://www.gamersky.com/news/202609/2211134.shtml)
+14. [《火纹》新作获IGN 10分！故事线封神 越玩越精彩](https://www.gamersky.com/news/202609/2211134.shtml)
+15. [《魔兽争霸3RE》新战役今日上线！30小时体量超大](https://www.gamersky.com/news/202609/2208537.shtml)
