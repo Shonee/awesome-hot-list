@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 21:22:29
+> 更新时间：2026-09-19 21:33:58
 
 ## 7x24
 
@@ -62,4 +62,3 @@
 32. [我国部署深入打击生态环境监测机构弄虚作假问题](https://wallstreetcn.com/livenews/3167683)
 33. [哈萨克斯坦代表团到访深城交，签署人工智能合作备忘录](https://wallstreetcn.com/livenews/3167682)
 34. [喜力正洽谈从Stonegate收购300家酒吧，交易价值约3亿英镑。（泰晤士报）](https://wallstreetcn.com/livenews/3167681)
-35. [安全形势依然严峻 我使馆提醒中国公民暂勿前往苏丹](https://wallstreetcn.com/livenews/3167680)
