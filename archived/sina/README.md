@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-20 00:20:58
-
-## 新闻热榜
-
-1. [南海这一幕，我们不能掉以轻心](https://news.sina.com.cn/o/2026-09-19/doc-inisifyi3193297.shtml)
-2. [剥夺国籍、赔偿金提高20倍！内塔尼亚胡发出威胁](https://news.sina.com.cn/w/2026-09-18/doc-inishkut3493507.shtml)
-3. [CNN爆料：美军被AI误导，险些冲上中国船只……](https://news.sina.com.cn/w/2026-09-19/doc-inisinhf3205023.shtml)
-4. [日本亚运会还没开幕 闹的笑话都能拍连续剧了](https://news.sina.com.cn/w/2026-09-19/doc-inisisqe9924615.shtml)
-5. [局长被查，家人花300万找了个“政治骗子”](https://news.sina.com.cn/c/2026-09-19/doc-inisifyf2728458.shtml)
-6. [中国篮球之队：比赛中暴露出攻防多种问题，将深刻总结调整状态](https://news.sina.com.cn/c/2026-09-18/doc-inishkuv0251734.shtml)
-7. [亚运再次失利，中国男篮差距何在](https://news.sina.com.cn/o/2026-09-19/doc-inisifyn7878465.shtml)
-8. [[新浪彩票]足彩第26130期任九：罗马建议舍弃](https://sports.sina.com.cn/l/2026-09-19/doc-inisifyn7891844.shtml)
-9. [顶流女星丈夫确认被诈骗！或有更多名人也被卷入骗局……涉案资金巨大](https://news.sina.com.cn/c/2026-09-19/doc-inisinhc2637742.shtml)
-10. [“九一八”前，日本最新发布的一个数据引关注！](https://news.sina.com.cn/c/2026-09-18/doc-inishkur3122109.shtml)
-11. [特朗普称与丹麦、格陵兰达成协议“梦想成真”，美将永久扩大军事存在 丹麦、格陵兰回应](https://news.sina.com.cn/w/2026-09-19/doc-inisinhh9930409.shtml)
-12. [[新浪彩票]足彩第26130期大势：纽卡主胜可期](https://sports.sina.com.cn/l/2026-09-19/doc-inisifyk9976106.shtml)
-13. [秦王级别墓葬被发现！墓主或为华阳太后](https://mil.news.sina.com.cn/2026-09-19/doc-inisifyn7885211.shtml)
-14. [面对美使馆挑拨离间，墨西哥网友神回复](https://news.sina.com.cn/c/2026-09-18/doc-inishkut3491519.shtml)
-15. [[新浪彩票]足彩26130期盈亏指数：埃弗顿重点防平](https://sports.sina.com.cn/l/2026-09-19/doc-inisifyf2729289.shtml)
-16. [萨普斯堡爆5倍冷负 足彩头奖仅开3注212万元](https://sports.sina.com.cn/l/2026-09-19/doc-inisifyf2727421.shtml)
-17. [商务部新闻发言人就中美经贸磋商有关问题答记者问](https://news.sina.com.cn/c/2026-09-19/doc-inisinhk7790227.shtml)
-18. [菲船十分钟内两次挑衅我海警艇 现场视频还原真相](https://news.sina.com.cn/c/2026-09-19/doc-inisiwvx2490755.shtml)
-19. [注意!近8次周六足彩大奖频出 这几场或造大冷](https://sports.sina.com.cn/l/2026-09-19/doc-inisftxc0306223.shtml)
-20. [[新浪彩票]足彩26130期投注策略：巴萨单3过关](https://sports.sina.com.cn/l/2026-09-19/doc-inisifyk9982415.shtml)
-
-## 财经热榜
-
-1. [无需付费、无限期！美国获得格陵兰岛永久安全控制权，特朗普：“对美国而言是梦想成真 ”](https://finance.sina.com.cn/wm/2026-09-19/doc-inisifyf2727309.shtml)
-2. [突发！沙特首都利雅得遭空袭，目前“危险已解除”！胡塞武装多次对沙特发动导弹和无人机袭击，但利雅得发布防空警报还是第一次](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisinhk7819304.shtml)
-3. [“史上最大IPO”时间表又生变 Anthropic年化收入预计将突破1000亿美元](https://finance.sina.com.cn/money/forex/forexinfo/2026-09-19/doc-inisifyf2733359.shtml)
-4. [也门战事升级，又一战略海峡危险了](https://finance.sina.com.cn/wm/2026-09-19/doc-inisifyi3241239.shtml)
-5. [9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100美元下方](https://finance.sina.com.cn/world/2026-09-19/doc-inishzsi2810028.shtml)
-6. [沙特首都利雅得遭空袭](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisifyk9991546.shtml)
-7. [中使馆紧急提醒：中国公民及时避险！9月18日晚至19日凌晨，沙特连发安全警报，首都利雅得遭空袭，吉达、哈里格等多地传出爆炸声](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisisqc3115165.shtml)
-8. [车企“去宁化”升级，宁德时代市值蒸发超5000亿元，动力电池市场格局生变？](https://finance.sina.com.cn/roll/2026-09-19/doc-inisisqc3155090.shtml)
-9. [牛弹琴：南海这一幕，我们不能掉以轻心](https://finance.sina.com.cn/roll/2026-09-19/doc-inisinhk7791993.shtml)
-10. [玉渊谭天：3年13次修改用户隐私协议 Anthropic将全球用户数据交给美情报机构](https://finance.sina.com.cn/roll/2026-09-19/doc-inisiwwe7650028.shtml)
-11. [三大央行同步加息，人民币汇率升破6.7](https://finance.sina.com.cn/roll/2026-09-19/doc-inisifyi3212826.shtml)
-12. [三方即将签署协议，特朗普称获格陵兰岛永久安全控制权](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisifyk9977755.shtml)
-13. [9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解](https://finance.sina.com.cn/world/2026-09-19/doc-inisifyn7873555.shtml)
-14. [突然！史上最大IPO，推迟！](https://finance.sina.com.cn/roll/2026-09-19/doc-inisinhh9974498.shtml)
-15. [全球债市再遇抛售！激进加息周期担忧是否会兑现](https://finance.sina.com.cn/roll/2026-09-19/doc-inisifyk9971267.shtml)
-16. [特朗普宣布格陵兰安全协议，称获得“永久控制权”](https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0046597.shtml)
-17. [特朗普：美国正在与胡塞武装对话。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishrat0153373.shtml)
-18. [超级央行周落幕！美日双双加息，英国按兵不动](https://finance.sina.com.cn/roll/2026-09-19/doc-inisinhh9905973.shtml)
-19. [证券交易印花税增速放缓，却非年内最低，为何与年内最低成交量背离了？](https://finance.sina.com.cn/roll/2026-09-19/doc-inisinhk7810773.shtml)
-20. [杜克能源呼吁南北卡罗来纳州用户减少用电。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishrar3411905.shtml)
+> 更新时间：2026-09-20 00:24:16
 
 ## 7x24
 
