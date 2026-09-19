@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-19 21:18:52
+> 更新时间：2026-09-19 22:18:55
 
 ## 最新帖子
 
-1. [并发编程（三）：互斥锁——语言层的原子性、可见性与有序性 · ThinkerQAQ](https://www.cnblogs.com/ThinkerQAQ/p/23039631)
-2. [如何查看codex与后端大模型交互细节](https://www.cnblogs.com/grey-wolf/p/23039479)
-3. [Jev 工程实践：在 Agent Harness 里放一个"快思考层"](https://www.cnblogs.com/aitejiu/p/23039318)
-4. [.net10+winform+Antdui 制作 LOL 小助手三](https://www.cnblogs.com/sc-Free-Die/p/23038354)
-5. [Robotics-机器人建模中的坐标系建立](https://www.cnblogs.com/ai-ldj/p/23037776)
-6. [点亮第一盏 LED：STM32 的 GPIO 到底在控制什么](https://www.cnblogs.com/zw-awa/p/23025590)
-7. [年薪128万美元：FDE 究竟是 AI 落地的船票，还是一张更贵的外包工牌？](https://www.cnblogs.com/xiaobaiysf/p/23037239)
-8. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
-9. [一文读懂 HarmonyOS 7.0 带来的十大API重要升级](https://www.cnblogs.com/aqi00/p/22883097)
-10. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
-11. [Oracle Property Graph 结合 In-Memory 的性能验证](https://www.cnblogs.com/jyzhao/p/23034788)
-12. [房产测绘面积计算全解析](https://www.cnblogs.com/charlee44/p/23032573)
-13. [LaTeX 公式转 PNG / SVG：几种实用方案和使用场景对比](https://www.cnblogs.com/dxzg/p/23032569)
-14. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
-15. [企业 AI 最大的问题，不是数据不足，而是数据没有业务语义](https://www.cnblogs.com/xianxh/p/23032380)
-16. [【Agent Harness】Gliding Horse 最新进化：从“能学习”到“可验证的自主进化”](https://www.cnblogs.com/doiito/p/23032121)
-17. [移动应用开发手册16：CI/CD控制论——如何用系统工程对抗熵增巨婴](https://www.cnblogs.com/2452316Czq/p/23028511)
-18. [【笔记】一行代码让大模型推理的 overlap scheduler 失效](https://www.cnblogs.com/cswuyg/p/23031766)
-19. [让向量检索随处可用：Zvec 多平台支持全景](https://www.cnblogs.com/DashVector/p/23030447)
-20. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
+1. [长对话先收口：用“工作记忆 vs 长期记忆“管理 AI 上下文](https://www.cnblogs.com/jessica837488/p/23040016)
+2. [并发编程（三）：互斥锁——语言层的原子性、可见性与有序性 · ThinkerQAQ](https://www.cnblogs.com/ThinkerQAQ/p/23039631)
+3. [如何查看codex与后端大模型交互细节](https://www.cnblogs.com/grey-wolf/p/23039479)
+4. [Jev 工程实践：在 Agent Harness 里放一个"快思考层"](https://www.cnblogs.com/aitejiu/p/23039318)
+5. [.net10+winform+Antdui 制作 LOL 小助手三](https://www.cnblogs.com/sc-Free-Die/p/23038354)
+6. [Robotics-机器人建模中的坐标系建立](https://www.cnblogs.com/ai-ldj/p/23037776)
+7. [点亮第一盏 LED：STM32 的 GPIO 到底在控制什么](https://www.cnblogs.com/zw-awa/p/23025590)
+8. [年薪128万美元：FDE 究竟是 AI 落地的船票，还是一张更贵的外包工牌？](https://www.cnblogs.com/xiaobaiysf/p/23037239)
+9. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
+10. [一文读懂 HarmonyOS 7.0 带来的十大API重要升级](https://www.cnblogs.com/aqi00/p/22883097)
+11. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
+12. [Oracle Property Graph 结合 In-Memory 的性能验证](https://www.cnblogs.com/jyzhao/p/23034788)
+13. [房产测绘面积计算全解析](https://www.cnblogs.com/charlee44/p/23032573)
+14. [LaTeX 公式转 PNG / SVG：几种实用方案和使用场景对比](https://www.cnblogs.com/dxzg/p/23032569)
+15. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
+16. [企业 AI 最大的问题，不是数据不足，而是数据没有业务语义](https://www.cnblogs.com/xianxh/p/23032380)
+17. [【Agent Harness】Gliding Horse 最新进化：从“能学习”到“可验证的自主进化”](https://www.cnblogs.com/doiito/p/23032121)
+18. [移动应用开发手册16：CI/CD控制论——如何用系统工程对抗熵增巨婴](https://www.cnblogs.com/2452316Czq/p/23028511)
+19. [【笔记】一行代码让大模型推理的 overlap scheduler 失效](https://www.cnblogs.com/cswuyg/p/23031766)
+20. [让向量检索随处可用：Zvec 多平台支持全景](https://www.cnblogs.com/DashVector/p/23030447)
 
 ## 精华帖子
 

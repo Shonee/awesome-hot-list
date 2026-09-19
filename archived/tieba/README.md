@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-19 21:19:32
+> 更新时间：2026-09-19 22:19:37
 
 ## 最有料热点
 
@@ -33,4 +33,4 @@
 27. [作者抛纯爱整绿帽剧受威胁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364708&topic_name=%E4%BD%9C%E8%80%85%E6%8A%9B%E7%BA%AF%E7%88%B1%E6%95%B4%E7%BB%BF%E5%B8%BD%E5%89%A7%E5%8F%97%E5%A8%81%E8%83%81)
 28. [拳头出手,CN瓦上海站禁鞭尸](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364724&topic_name=%E6%8B%B3%E5%A4%B4%E5%87%BA%E6%89%8B%2CCN%E7%93%A6%E4%B8%8A%E6%B5%B7%E7%AB%99%E7%A6%81%E9%9E%AD%E5%B0%B8)
 29. [知名编剧:年轻电影人又红又专](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364667&topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%3A%E5%B9%B4%E8%BD%BB%E7%94%B5%E5%BD%B1%E4%BA%BA%E5%8F%88%E7%BA%A2%E5%8F%88%E4%B8%93)
-30. [买手机换签售,兔娘怒退漫展](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364616&topic_name=%E4%B9%B0%E6%89%8B%E6%9C%BA%E6%8D%A2%E7%AD%BE%E5%94%AE%2C%E5%85%94%E5%A8%98%E6%80%92%E9%80%80%E6%BC%AB%E5%B1%95)
+30. [BLG出征世界赛,Bin剑指冠军](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364883&topic_name=BLG%E5%87%BA%E5%BE%81%E4%B8%96%E7%95%8C%E8%B5%9B%2CBin%E5%89%91%E6%8C%87%E5%86%A0%E5%86%9B)
