@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 22:08:22
+> 更新时间：2026-09-19 22:22:32
 
 ## 7x24
 
@@ -51,7 +51,3 @@
 25. [全球超级油轮短缺威胁长途原油运输](https://wallstreetcn.com/livenews/3167692)
 26. [迈克尔·马拉当选英国苏格兰工党新任党首](https://wallstreetcn.com/livenews/3167691)
 27. [俄国家杜马选举开启：顿涅茨克等四地首次参与，普京呼吁民众作出正确选择](https://wallstreetcn.com/livenews/3167690)
-28. [希腊获评为欧债危机以来最高评级](https://wallstreetcn.com/livenews/3167466)
-29. [叙利亚东部爆炸致过渡政府国防部11人死亡](https://wallstreetcn.com/livenews/3167689)
-30. [美媒：两架滑翔机在纽约州上空相撞，造成1人死亡](https://wallstreetcn.com/livenews/3167688)
-31. [伊朗处决一名被指控为以色列提供情报的男子](https://wallstreetcn.com/livenews/3167687)
