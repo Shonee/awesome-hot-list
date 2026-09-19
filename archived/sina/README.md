@@ -1,50 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-20 05:17:53
-
-## 新闻热榜
-
-1. [土耳其外交部长：我方已向乌克兰、俄罗斯提交黑海停火提议，静待两国回复。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9595252.shtml)
-2. [土耳其外长：沙特阿拉伯被卷入美伊战争是不可接受的，他们无意加入冲突。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9587269.shtml)
-3. [伊朗称仍在通过调解方向美方传递谈判条件](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2774403.shtml)
-4. [日本生命保险计划投入130亿美元用于数据中心融资。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2781504.shtml)
-5. [土耳其外长：不接受沙特被卷入美伊冲突](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismern9485565.shtml)
-6. [俄罗斯国防部：打击了一艘向乌克兰西南部敖德萨地区乌军运送燃料的船只。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9662655.shtml)
-7. [土耳其调查基金骗局 多名金融高管被拘](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2784097.shtml)
-8. [奈飞暗盘跌超1%，现报70.8217美元。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9671310.shtml)
-9. [刚果（金）埃博拉疫情确诊病例超7500例](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9557930.shtml)
-10. [环球时报社评：一出肉麻政治双簧，揭了特奥多罗的老底](https://news.sina.com.cn/w/2026-09-20/doc-inisktzr2863248.shtml)
-11. [特朗普没“拿下”格陵兰，为何仍称已“梦想成真”？](https://news.sina.com.cn/w/2026-09-19/doc-iniskimt2314179.shtml)
-12. [塞浦路斯客轮倾覆事故死亡人数升至15人](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9663319.shtml)
-13. [沙特领导的联军称挫败了胡塞武装对沙特城市比什、塔伊夫、法拉桑和延布平民的袭击。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismern9488559.shtml)
-14. [特朗普：遗憾的是，美国最高法院缺乏让美国再次伟大的勇气。过去六个月，法院在关税以及出生地公民权问题上做出错误、带有政治倾向且荒唐](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzr2899588.shtml)
-15. [伊朗提出对美谈判三大前提，等待特朗普答复](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisktzr2868566.shtml)
-16. [美国债市：美债追随欧洲债市下跌 收益率曲线走平](https://finance.sina.com.cn/world/2026-09-19/doc-inishvks8093161.shtml)
-17. [习语丨“中国队加油！中国加油！”](https://news.sina.com.cn/c/xl/2026-09-19/doc-iniskimy7469725.shtml)
-18. [伊朗高级官员批准一项法律条款，对经由霍尔木兹海峡的数据路由实施监管。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9575141.shtml)
-19. [外媒：沙特罕见向以色列提出支援请求](https://news.sina.com.cn/w/2026-09-19/doc-iniskptu9684414.shtml)
-
-## 财经热榜
-
-1. [土耳其外交部长：我方已向乌克兰、俄罗斯提交黑海停火提议，静待两国回复。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9595252.shtml)
-2. [土耳其外长：沙特阿拉伯被卷入美伊战争是不可接受的，他们无意加入冲突。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9587269.shtml)
-3. [伊朗称仍在通过调解方向美方传递谈判条件](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2774403.shtml)
-4. [日本生命保险计划投入130亿美元用于数据中心融资。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2781504.shtml)
-5. [土耳其外长：不接受沙特被卷入美伊冲突](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismern9485565.shtml)
-6. [俄罗斯国防部：打击了一艘向乌克兰西南部敖德萨地区乌军运送燃料的船只。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9662655.shtml)
-7. [土耳其调查基金骗局 多名金融高管被拘](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2784097.shtml)
-8. [奈飞暗盘跌超1%，现报70.8217美元。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9671310.shtml)
-9. [刚果（金）埃博拉疫情确诊病例超7500例](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9557930.shtml)
-10. [中信证券：极致散热登场，金刚石迎来产业化元年](https://finance.sina.com.cn/stock/hyyj/2026-09-19/doc-inisiwwe7630542.shtml)
-11. [秘鲁因厄尔尼诺影响下调今年经济增长预期](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisiwvz3078446.shtml)
-12. [马斯克： 无聊公司（The Boring Company）的下一款周边产品，要把铀放进天王星。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisisqe9935501.shtml)
-13. [王兴兴：当前人形机器人发展最大的短板是“对齐”](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisiwwa9823734.shtml)
-14. [委内瑞拉约40亿美元黄金储备或将从英国转移至美国](https://finance.sina.com.cn/jjxw/2026-09-19/doc-iniskcea7560501.shtml)
-15. [科技企业成港股再融资主力 全球资本真金白银加码中国硬科技资产](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisifyk9973116.shtml)
-16. [美联储主席沃什：物价稳定对工人来说是好消息，有望看到实际到手工资增长。](https://finance.sina.com.cn/7x24/2026-09-17/doc-inisaiet0340735.shtml)
-17. [中国工程院院士沈昌祥：发展世界一流的智能交通，必须筑牢安全可信保障底座](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisinhh9981330.shtml)
-18. [中信建投：预计Vera Rubin 26/27/28年分别出货1/7/9万柜](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisiwwa9860347.shtml)
-19. [俄罗斯库尔斯克核电站否认冷却塔遭无人机袭击](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishrar3387430.shtml)
+> 更新时间：2026-09-20 05:20:58
 
 ## 7x24
 
