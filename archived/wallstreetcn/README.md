@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 22:34:07
+> 更新时间：2026-09-19 22:48:29
 
 ## 7x24
 
@@ -45,7 +45,3 @@
 19. [《广西金融业发展“十五五”规划》印发：鼓励上市公司并购重组和再融资，支持上市公司发展新质生产力](https://wallstreetcn.com/livenews/3167698)
 20. [广西：到2030年金融业整体实力明显增强](https://wallstreetcn.com/livenews/3167697)
 21. [银河航天四颗SAR卫星成功发射，批产能力再获验证](https://wallstreetcn.com/livenews/3167696)
-22. [璇玑动力宣布进军东盟市场](https://wallstreetcn.com/livenews/3167695)
-23. [我国成功发射株洲太空星际PIESAT-2 13~16星](https://wallstreetcn.com/livenews/3167694)
-24. [乌克兰称研制针对伊朗自杀式无人机的新型拦截无人机](https://wallstreetcn.com/livenews/3167693)
-25. [全球超级油轮短缺威胁长途原油运输](https://wallstreetcn.com/livenews/3167692)
