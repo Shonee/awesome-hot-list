@@ -1,6 +1,6 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-19 23:21:51
+> 更新时间：2026-09-19 23:33:52
 
 ## 7x24
 
@@ -13,5 +13,3 @@
 7. [周六重大事件汇总](https://m.yicai.com/brief/103370990.html)
 8. [下周财经日历](https://m.yicai.com/brief/103370986.html)
 9. [AI进化速递丨OpenAI预计到2030年底累计消耗近2800亿美元资金](https://m.yicai.com/brief/103370984.html)
-10. [世界最大盐穴压缩空气储能项目机组启动](https://m.yicai.com/brief/103370978.html)
-11. [西藏那曲市申扎县附近发生4.2级左右地震](https://m.yicai.com/brief/103370976.html)

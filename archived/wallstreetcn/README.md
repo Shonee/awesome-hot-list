@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 23:21:52
+> 更新时间：2026-09-19 23:33:54
 
 ## 7x24
 
@@ -20,12 +20,3 @@
 
 要求Nipsco、CenterPoint Energy、MIso采取行动。](https://wallstreetcn.com/livenews/3167710)
 10. [西贝回应“将彻底倒闭”传闻，称全国门店正常营业](https://wallstreetcn.com/livenews/3167709)
-11. [胜宏科技：目前mSAP产能需求旺盛，将围绕客户需求进行产能布局](https://wallstreetcn.com/livenews/3167707)
-12. [公司股权激励的目标是今年要比去年增长50%？胜宏科技回应](https://wallstreetcn.com/livenews/3167706)
-13. [希腊央行行长Yannis Stournaras回应评级机构最新行动：这对许多国家来说也是一个“鼓舞人心的结论”。
-
-但这当然需要政治意愿和懂得重要议题的政府。
-
-好的政策可以改变一切，没有无法解决的结构性约束。
-
-过去，许多人预测希腊...](https://wallstreetcn.com/livenews/3167705)
