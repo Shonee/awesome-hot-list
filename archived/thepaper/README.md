@@ -1,26 +1,26 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-19 20:28:42
+> 更新时间：2026-09-19 21:19:08
 
 ## 热新闻
 
 1. [媒体称欧盟希中国自愿限制混动汽车对欧出口，商务部：坚决反对](https://www.thepaper.cn/newsDetail_forward_34098607)
 2. [“投名状”被美国退回后：万亿矿产在手，塔利班为何仍难靠经济“破局”？](https://www.thepaper.cn/newsDetail_forward_34094970)
 3. [专访｜“我追求的痛苦让我强大”，破纪录夺冠背后，赵家驹咬紧牙关翻越那座山](https://www.thepaper.cn/newsDetail_forward_34102721)
-4. [飞猪同程途家美团回应被查：全面落实监管要求](https://www.thepaper.cn/newsDetail_forward_34103142)
+4. [菲船十分钟内两次挑衅我海警艇，现场视频还原真相](https://www.thepaper.cn/newsDetail_forward_34104002)
 5. [《交锋》好看，说到底离不开这群人](https://www.thepaper.cn/newsDetail_forward_34097351)
-6. [菲船十分钟内两次挑衅我海警艇，现场视频还原真相](https://www.thepaper.cn/newsDetail_forward_34104002)
-7. [郭士强答澎湃新闻：我从不给自己打分](https://www.thepaper.cn/newsDetail_forward_34098317)
-8. [评论｜中国男篮，已经没有“不能输”的比赛了](https://www.thepaper.cn/newsDetail_forward_34103551)
-9. [特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻](https://www.thepaper.cn/newsDetail_forward_34102730)
+6. [飞猪同程途家美团回应被查：全面落实监管要求](https://www.thepaper.cn/newsDetail_forward_34103142)
+7. [评论｜中国男篮，已经没有“不能输”的比赛了](https://www.thepaper.cn/newsDetail_forward_34103551)
+8. [特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻](https://www.thepaper.cn/newsDetail_forward_34102730)
+9. [63岁湖南师大退休教师龚德才逝世，曾因只讲课不评职称在网上走红](https://www.thepaper.cn/newsDetail_forward_34103137)
 10. [卖豆浆前主播先换上黑丝，“擦边”式营销真没法治了吗](https://www.thepaper.cn/newsDetail_forward_34099157)
 11. [特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》](https://www.thepaper.cn/newsDetail_forward_34102731)
 12. [体坛联播｜C罗入选新一期国家队，切尔西半场崩盘三球败北](https://www.thepaper.cn/newsDetail_forward_34102036)
 13. [商务部新闻发言人就中美经贸磋商有关问题答记者问](https://www.thepaper.cn/newsDetail_forward_34102725)
 14. [深观察｜上海长宁，何以成为“全球最酷街区”](https://www.thepaper.cn/newsDetail_forward_34103554)
 15. [支持率创新低，韩总统李在明向国民致歉：不连任、不参战中东](https://www.thepaper.cn/newsDetail_forward_34099160)
-16. [《杭州市支持低空经济高质量发展的若干措施》将废止，已发布通知征求意见](https://www.thepaper.cn/newsDetail_forward_34103463)
-17. [言短意长｜“最年长讲师”逝世为何引关注](https://www.thepaper.cn/newsDetail_forward_34103535)
-18. [整治恶意炒作涉企信息，国家网信办曝光第二批典型案例](https://www.thepaper.cn/newsDetail_forward_34102722)
+16. [言短意长｜“最年长讲师”逝世为何引关注](https://www.thepaper.cn/newsDetail_forward_34103535)
+17. [《杭州市支持低空经济高质量发展的若干措施》将废止，已发布通知征求意见](https://www.thepaper.cn/newsDetail_forward_34103463)
+18. [媒体：两三个月内彻底倒闭？西贝辟谣称目前全国门店均正常运营](https://www.thepaper.cn/newsDetail_forward_34104097)
 19. [四川盐边县突发泥石流已致5人失联，村民：前一晚持续强降雨](https://www.thepaper.cn/newsDetail_forward_34103145)
 20. [斑海豹“娜娜”开账号了？大连长海：系官方号，会更新日常和科普宣传](https://www.thepaper.cn/newsDetail_forward_34103904)
