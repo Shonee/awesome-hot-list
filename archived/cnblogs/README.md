@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-19 18:19:12
+> 更新时间：2026-09-19 19:17:12
 
 ## 最新帖子
 
-1. [.net10+winform+Antdui 制作 LOL 小助手三](https://www.cnblogs.com/sc-Free-Die/p/23038354)
-2. [Robotics-机器人建模中的坐标系建立](https://www.cnblogs.com/ai-ldj/p/23037776)
-3. [点亮第一盏 LED：STM32 的 GPIO 到底在控制什么](https://www.cnblogs.com/zw-awa/p/23025590)
-4. [年薪128万美元：FDE 究竟是 AI 落地的船票，还是一张更贵的外包工牌？](https://www.cnblogs.com/xiaobaiysf/p/23037239)
-5. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
-6. [一文读懂 HarmonyOS 7.0 带来的十大API重要升级](https://www.cnblogs.com/aqi00/p/22883097)
-7. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
-8. [Oracle Property Graph 结合 In-Memory 的性能验证](https://www.cnblogs.com/jyzhao/p/23034788)
-9. [房产测绘面积计算全解析](https://www.cnblogs.com/charlee44/p/23032573)
-10. [LaTeX 公式转 PNG / SVG：几种实用方案和使用场景对比](https://www.cnblogs.com/dxzg/p/23032569)
-11. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
-12. [企业 AI 最大的问题，不是数据不足，而是数据没有业务语义](https://www.cnblogs.com/xianxh/p/23032380)
-13. [【Agent Harness】Gliding Horse 最新进化：从“能学习”到“可验证的自主进化”](https://www.cnblogs.com/doiito/p/23032121)
-14. [移动应用开发手册16：CI/CD控制论——如何用系统工程对抗熵增巨婴](https://www.cnblogs.com/2452316Czq/p/23028511)
-15. [【笔记】一行代码让大模型推理的 overlap scheduler 失效](https://www.cnblogs.com/cswuyg/p/23031766)
-16. [让向量检索随处可用：Zvec 多平台支持全景](https://www.cnblogs.com/DashVector/p/23030447)
-17. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
-18. [基于 LlamaIndex+PostgreSQL 实现RAG持久化](https://www.cnblogs.com/LyShark/p/22996705)
-19. [设计一个简易合成器框架-Common Lisp](https://www.cnblogs.com/zxc-cppnb/p/23010422)
-20. [DuckDB + SQL 高效分析 JSON 数据](https://www.cnblogs.com/wang_yb/p/23026278)
+1. [如何查看codex与后端大模型交互细节](https://www.cnblogs.com/grey-wolf/p/23039479)
+2. [Jev 工程实践：在 Agent Harness 里放一个"快思考层"](https://www.cnblogs.com/aitejiu/p/23039318)
+3. [.net10+winform+Antdui 制作 LOL 小助手三](https://www.cnblogs.com/sc-Free-Die/p/23038354)
+4. [Robotics-机器人建模中的坐标系建立](https://www.cnblogs.com/ai-ldj/p/23037776)
+5. [点亮第一盏 LED：STM32 的 GPIO 到底在控制什么](https://www.cnblogs.com/zw-awa/p/23025590)
+6. [年薪128万美元：FDE 究竟是 AI 落地的船票，还是一张更贵的外包工牌？](https://www.cnblogs.com/xiaobaiysf/p/23037239)
+7. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
+8. [一文读懂 HarmonyOS 7.0 带来的十大API重要升级](https://www.cnblogs.com/aqi00/p/22883097)
+9. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
+10. [Oracle Property Graph 结合 In-Memory 的性能验证](https://www.cnblogs.com/jyzhao/p/23034788)
+11. [房产测绘面积计算全解析](https://www.cnblogs.com/charlee44/p/23032573)
+12. [LaTeX 公式转 PNG / SVG：几种实用方案和使用场景对比](https://www.cnblogs.com/dxzg/p/23032569)
+13. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
+14. [企业 AI 最大的问题，不是数据不足，而是数据没有业务语义](https://www.cnblogs.com/xianxh/p/23032380)
+15. [【Agent Harness】Gliding Horse 最新进化：从“能学习”到“可验证的自主进化”](https://www.cnblogs.com/doiito/p/23032121)
+16. [移动应用开发手册16：CI/CD控制论——如何用系统工程对抗熵增巨婴](https://www.cnblogs.com/2452316Czq/p/23028511)
+17. [【笔记】一行代码让大模型推理的 overlap scheduler 失效](https://www.cnblogs.com/cswuyg/p/23031766)
+18. [让向量检索随处可用：Zvec 多平台支持全景](https://www.cnblogs.com/DashVector/p/23030447)
+19. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
+20. [基于 LlamaIndex+PostgreSQL 实现RAG持久化](https://www.cnblogs.com/LyShark/p/22996705)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
 2. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
-3. [DeepSeek 视觉 API 刚上线：单张图 0.001 元，Agent 终于能看图](https://www.cnblogs.com/uniqueDong/p/23023564)
-4. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
-5. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
-6. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)
+3. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
+4. [自己编写 .c 和 .h：把小车代码分开放](https://www.cnblogs.com/zw-awa/p/23017592)
+5. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)
+6. [CLI 还是 MCP？一场关于 Agent 工具接口的再思考](https://www.cnblogs.com/codigger/p/23022943)
