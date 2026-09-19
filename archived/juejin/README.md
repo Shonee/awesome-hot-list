@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-20 04:19:45
+> 更新时间：2026-09-20 05:17:28
 
 ## 热门文章
 
@@ -30,9 +30,9 @@
 24. [把 Agent 框架拆开：PI 开发生产级 Harness](https://juejin.cn/post/7686462220679594034)
 25. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://juejin.cn/post/7686408837754748978)
 26. [不用游戏引擎，用 Canvas 2D 做一个《逃离鸭科夫》风格的搜打撤游戏](https://juejin.cn/post/7686283257302925338)
-27. [不要在 Data 层随意把 Cold Flow 转换成 Hot Flow](https://juejin.cn/post/7686029820083306505)
-28. [Three.js 与 Cesium 融合实战问题汇总](https://juejin.cn/post/7686693462478127145)
-29. [为什么越来越多开发者开始用 PostgreSQL？](https://juejin.cn/post/7686397150886477851)
+27. [为什么越来越多开发者开始用 PostgreSQL？](https://juejin.cn/post/7686397150886477851)
+28. [不要在 Data 层随意把 Cold Flow 转换成 Hot Flow](https://juejin.cn/post/7686029820083306505)
+29. [Three.js 与 Cesium 融合实战问题汇总](https://juejin.cn/post/7686693462478127145)
 30. [为什么 AI 写代码时，总喜欢“防御性编程”？](https://juejin.cn/post/7686396501736357951)
 31. [一文吃透 Pi：10w stars 的极简 Agent harness](https://juejin.cn/post/7686223991560601609)
 32. [彻底搞懂 JavaScript 类型转换：显式转换、隐式转换与 ToPrimitive](https://juejin.cn/post/7686218976209092614)
