@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-19 23:18:10
+> 更新时间：2026-09-20 00:20:41
 
 ## 人气热门
 
@@ -57,13 +57,13 @@
 
 ## 精华采撷
 
-1. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-2. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
-3. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-4. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
-5. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-6. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
-7. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
+1. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
+2. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+3. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
+4. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
+5. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
+6. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+7. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
 8. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 9. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
 10. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)

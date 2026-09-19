@@ -1,21 +1,21 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-19 23:18:54
+> 更新时间：2026-09-20 00:21:02
 
 ## 热点资讯排行
 
-1. [《星际争霸》新作官宣！开放世界射击定档2030](https://www.gamersky.com/news/202609/2208532.shtml)
-2. [《暗黑破坏神4》本体免费领！永久入库随时畅玩](https://www.gamersky.com/news/202609/2210423.shtml)
-3. [《红色沙漠》DLC部分地区停售！有恋爱新功能](https://www.gamersky.com/news/202609/2209388.shtml)
-4. [《暗黑破坏神5》正式公布！预告首曝 定档2029](https://www.gamersky.com/news/202609/2208533.shtml)
-5. [《火焰纹章：万缕千丝》首个更新上线！IGN 10分封神之作](https://www.gamersky.com/news/202609/2211215.shtml)
-6. [小岛秀夫在《OD》启用跨性别演员亨特·莎弗 引玩家集体不满](https://www.gamersky.com/news/202609/2211912.shtml)
-7. [失眠组发《漫威金刚狼》琴格蕾演员被骂2000楼！游戏里咋能这么丑](https://www.gamersky.com/news/202609/2208892.shtml)
-8. [《漫威金刚狼》确认和SweetBaby合作！被DEI荼毒？](https://www.gamersky.com/news/202609/2209498.shtml)
-9. [《魔兽世界：Forever》正式公布！11月4日上线](https://www.gamersky.com/news/202609/2208538.shtml)
-10. [PS5破解惨遭重大突破！更接近完全破解了](https://www.gamersky.com/news/202609/2210420.shtml)
-11. [《赛博朋克2077》官宣登陆暴雪战网！今年之内上架](https://www.gamersky.com/news/202609/2208798.shtml)
-12. [《WOW无限》新种族收费惹怒玩家！快赶上个DLC了](https://www.gamersky.com/news/202609/2208828.shtml)
-13. [太窒息了！17岁辛苦打工买电脑 因起床晚被亲爹狂砸](https://www.gamersky.com/news/202609/2211144.shtml)
-14. [《火纹》新作获IGN 10分！故事线封神 越玩越精彩](https://www.gamersky.com/news/202609/2211134.shtml)
-15. [《魔兽争霸3RE》新战役今日上线！30小时体量超大](https://www.gamersky.com/news/202609/2208537.shtml)
+1. [《赛博朋克2077》官宣登陆暴雪战网！今年之内上架](https://www.gamersky.com/news/202609/2208798.shtml)
+2. [小团团直播PUBG被水友贴脸开大：你前两年哪去了？](https://www.gamersky.com/news/202609/2210275.shtml)
+3. [《魔兽世界：无限》画面升级曝光！水面、纹理、光影全面升级](https://www.gamersky.com/news/202609/2208842.shtml)
+4. [显卡](https://www.gamersky.com/news/202609/2208854.shtml)
+5. [影视飓风确认给员工发iPhoneDuo!每人一台 自选型号](https://www.gamersky.com/news/202609/2210351.shtml)
+6. [谁看了不想尝一口：王星辰新角色太甜了 完美身材](https://www.gamersky.com/news/202609/2208577.shtml)
+7. [买X2收到X3！罗技新品旗舰鼠标提前泄露：还没官宣玩家先用上了](https://www.gamersky.com/hardware/202609/2212059.shtml)
+8. [真·当面NTR！小岛秀夫穿上Xbox外套 窗外就是索尼总部](https://www.gamersky.com/news/202609/2209189.shtml)
+9. [《火焰纹章：万缕千丝》新女角介绍公开:喜欢赚钱的黑皮美女](https://www.gamersky.com/news/202609/2209143.shtml)
+10. [PlayStation全新产品官宣！沉浸式体验更上一层楼](https://www.gamersky.com/news/202609/2210425.shtml)
+11. [卢本伟老婆晒赵灵儿COS：当牛马打工 为家添砖加瓦](https://www.gamersky.com/news/202609/2208760.shtml)
+12. [女流66锐评靠《黑神话：悟空》博流量 国产游戏正起势影响国际](https://www.gamersky.com/news/202609/2208832.shtml)
+13. [《魔兽世界》资料片](https://www.gamersky.com/news/202609/2208536.shtml)
+14. [PS6或延期！索尼CEO回应PS6发售日](https://www.gamersky.com/news/202609/2210135.shtml)
+15. [平台月付将退出支付选项！再也不怕误用花呗了](https://www.gamersky.com/news/202609/2210258.shtml)

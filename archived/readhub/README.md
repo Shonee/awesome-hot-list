@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-19 23:18:18
+> 更新时间：2026-09-20 00:20:46
 
 ## 24 小时热榜
 
@@ -13,27 +13,27 @@
 7. [苹果揭秘 iPhone Duo 设计理念：灵感来自纸质笔记本](https://readhub.cn/topic/8wWjKeGxjVc?tab=daily)
 8. [Anthropic 等 AI 巨头因呼吁放缓 AI 发展面临共谋指控](https://readhub.cn/topic/8wXcK74fNGP?tab=daily)
 9. [iPhone 18 Pro 首销破发，品控现瑕疵](https://readhub.cn/topic/8wWp1g0LI0D?tab=daily)
-10. [美国总统特朗普称即日起禁止 CNN 等三家媒体进入白宫](https://readhub.cn/topic/8wWu2oQdUaZ?tab=daily)
-11. [iPhone 18 Pro / Max 全球发售 苹果高管现身门店迎客](https://readhub.cn/topic/8wWz2AvuNEm?tab=daily)
+10. [小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线](https://readhub.cn/topic/8wXQtMN33wo?tab=daily)
+11. [美国总统特朗普称即日起禁止 CNN 等三家媒体进入白宫](https://readhub.cn/topic/8wWu2oQdUaZ?tab=daily)
 12. [北京依法对四家在线酒店旅游预订平台企业立案调查](https://readhub.cn/topic/8wXfBCWSaPr?tab=daily)
-13. [小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线](https://readhub.cn/topic/8wXQtMN33wo?tab=daily)
+13. [iPhone 18 Pro / Max 全球发售 苹果高管现身门店迎客](https://readhub.cn/topic/8wWz2AvuNEm?tab=daily)
 14. [美团：将积极配合监管部门调查，全面落实监管要求](https://readhub.cn/topic/8wXkuXXa2m6?tab=daily)
-15. [Anthropic 推进 IPO 计划，估值将数周内增长](https://readhub.cn/topic/8wXGAZTPeI4?tab=daily)
-16. [特朗普称伊朗战争将很快结束](https://readhub.cn/topic/8wXGAesMJmD?tab=daily)
-17. [中国央行副行长陆磊称 AI 带来新型金融风险](https://readhub.cn/topic/8wWsbXRiEff?tab=daily)
-18. [同声传译大模型 Qwen3.8-LiveTranslate 正式发布](https://readhub.cn/topic/8wY1Kqs72vK?tab=daily)
-19. [华为内部明确：问界未完全脱离鸿蒙智行渠道体系](https://readhub.cn/topic/8wWxbXioWGm?tab=daily)
-20. [谷歌 Gemini 在红队测试中首次自主发起网络攻击](https://readhub.cn/topic/8wXPT9GCNWi?tab=daily)
-21. [应急管理部针对四川启动国家地质灾害四级应急响应](https://readhub.cn/topic/8wXxPpQliQo?tab=daily)
-22. [何永贤：2030 年内要基本解决住宅内的劣质劏房问题](https://readhub.cn/topic/8wYClxfbVzg?tab=daily)
+15. [特朗普称伊朗战争将很快结束](https://readhub.cn/topic/8wXGAesMJmD?tab=daily)
+16. [Anthropic 推进 IPO 计划，估值将数周内增长](https://readhub.cn/topic/8wXGAZTPeI4?tab=daily)
+17. [同声传译大模型 Qwen3.8-LiveTranslate 正式发布](https://readhub.cn/topic/8wY1Kqs72vK?tab=daily)
+18. [华为内部明确：问界未完全脱离鸿蒙智行渠道体系](https://readhub.cn/topic/8wWxbXioWGm?tab=daily)
+19. [谷歌 Gemini 在红队测试中首次自主发起网络攻击](https://readhub.cn/topic/8wXPT9GCNWi?tab=daily)
+20. [应急管理部针对四川启动国家地质灾害四级应急响应](https://readhub.cn/topic/8wXxPpQliQo?tab=daily)
+21. [何永贤：2030 年内要基本解决住宅内的劣质劏房问题](https://readhub.cn/topic/8wYClxfbVzg?tab=daily)
+22. [智谱 AI 创始人唐杰在清华开讲 AI 前沿课](https://readhub.cn/topic/8wWFJK6WGl7?tab=daily)
 23. [疑似 Gemini 4 Pro 泄露，AI 竞赛未因呼吁减速停步](https://readhub.cn/topic/8wXhLlZLg05?tab=daily)
-24. [Anthropic3 年 13 次改隐私协议，可自行向美情报机构交用户数据](https://readhub.cn/topic/8wY0dfcOBht?tab=daily)
-25. [整治恶意炒作涉企信息 国家网信办曝光第二批典型案例](https://readhub.cn/topic/8wXbG8RcIjd?tab=daily)
-26. [大摩再度限制私募信贷赎回，11% 投资者申请退出](https://readhub.cn/topic/8wXVtEolH66?tab=daily)
-27. [智谱 AI 创始人唐杰在清华开讲 AI 前沿课](https://readhub.cn/topic/8wWFJK6WGl7?tab=daily)
-28. [拆解确认：美版 iPhone18 Pro Max 独用高通 X80 基带](https://readhub.cn/topic/8wXSKjeYMpt?tab=daily)
-29. [华为：昇腾已跨过生态拐点，有能力有机会构建 AI 新生态](https://readhub.cn/topic/8wXxlIDfsM5?tab=daily)
-30. [消息人士：Anthropic 年化收入或超千亿，IPO 估值冲击 2 万亿](https://readhub.cn/topic/8wXGXapcoqC?tab=daily)
+24. [拆解确认：美版 iPhone18 Pro Max 独用高通 X80 基带](https://readhub.cn/topic/8wXSKjeYMpt?tab=daily)
+25. [Anthropic3 年 13 次改隐私协议，可自行向美情报机构交用户数据](https://readhub.cn/topic/8wY0dfcOBht?tab=daily)
+26. [李小龙：华为手机现已支持香港八达通 可在钱包 App 开通](https://readhub.cn/topic/8wWB0b0ABZE?tab=daily)
+27. [整治恶意炒作涉企信息 国家网信办曝光第二批典型案例](https://readhub.cn/topic/8wXbG8RcIjd?tab=daily)
+28. [大摩再度限制私募信贷赎回，11% 投资者申请退出](https://readhub.cn/topic/8wXVtEolH66?tab=daily)
+29. [胜宏科技：目前 mSAP 产能需求旺盛 将围绕客户需求进行产能布局](https://readhub.cn/topic/8wYN8pzLcE6?tab=daily)
+30. [华为：昇腾已跨过生态拐点，有能力有机会构建 AI 新生态](https://readhub.cn/topic/8wXxlIDfsM5?tab=daily)
 
 ## 每日早报
 
