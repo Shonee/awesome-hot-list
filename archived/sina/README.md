@@ -1,50 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-20 06:19:04
-
-## 新闻热榜
-
-1. [土耳其外交部长：我方已向乌克兰、俄罗斯提交黑海停火提议，静待两国回复。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9595252.shtml)
-2. [土耳其外长：沙特阿拉伯被卷入美伊战争是不可接受的，他们无意加入冲突。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9587269.shtml)
-3. [伊朗称仍在通过调解方向美方传递谈判条件](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2774403.shtml)
-4. [日本生命保险计划投入130亿美元用于数据中心融资。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2781504.shtml)
-5. [土耳其外长：不接受沙特被卷入美伊冲突](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismern9485565.shtml)
-6. [俄罗斯国防部：打击了一艘向乌克兰西南部敖德萨地区乌军运送燃料的船只。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9662655.shtml)
-7. [环球时报社评：一出肉麻政治双簧，揭了特奥多罗的老底](https://news.sina.com.cn/w/2026-09-20/doc-inisktzr2863248.shtml)
-8. [土耳其调查基金骗局 多名金融高管被拘](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2784097.shtml)
-9. [奈飞暗盘跌超1%，现报70.8217美元。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9671310.shtml)
-10. [刚果（金）埃博拉疫情确诊病例超7500例](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9557930.shtml)
-11. [澳大利亚总理：今日在苹果总部会见蒂姆·库克。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismerm2731899.shtml)
-12. [特朗普没“拿下”格陵兰，为何仍称已“梦想成真”？](https://news.sina.com.cn/w/2026-09-19/doc-iniskimt2314179.shtml)
-13. [外媒：沙特罕见向以色列提出支援请求](https://news.sina.com.cn/w/2026-09-19/doc-iniskptu9684414.shtml)
-14. [伊朗提出对美谈判三大前提，等待特朗普答复](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisktzr2868566.shtml)
-15. [塞浦路斯客轮倾覆事故死亡人数升至15人](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9663319.shtml)
-16. [习语丨“中国队加油！中国加油！”](https://news.sina.com.cn/c/xl/2026-09-19/doc-iniskimy7469725.shtml)
-17. [沙特领导的联军称挫败了胡塞武装对沙特城市比什、塔伊夫、法拉桑和延布平民的袭击。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismern9488559.shtml)
-18. [特朗普：遗憾的是，美国最高法院缺乏让美国再次伟大的勇气。过去六个月，法院在关税以及出生地公民权问题上做出错误、带有政治倾向且荒唐](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzr2899588.shtml)
-19. [美国债市：美债追随欧洲债市下跌 收益率曲线走平](https://finance.sina.com.cn/world/2026-09-19/doc-inishvks8093161.shtml)
-
-## 财经热榜
-
-1. [土耳其外交部长：我方已向乌克兰、俄罗斯提交黑海停火提议，静待两国回复。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9595252.shtml)
-2. [土耳其外长：沙特阿拉伯被卷入美伊战争是不可接受的，他们无意加入冲突。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9587269.shtml)
-3. [伊朗称仍在通过调解方向美方传递谈判条件](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2774403.shtml)
-4. [日本生命保险计划投入130亿美元用于数据中心融资。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2781504.shtml)
-5. [土耳其外长：不接受沙特被卷入美伊冲突](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismern9485565.shtml)
-6. [俄罗斯国防部：打击了一艘向乌克兰西南部敖德萨地区乌军运送燃料的船只。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9662655.shtml)
-7. [土耳其调查基金骗局 多名金融高管被拘](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2784097.shtml)
-8. [奈飞暗盘跌超1%，现报70.8217美元。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9671310.shtml)
-9. [刚果（金）埃博拉疫情确诊病例超7500例](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9557930.shtml)
-10. [澳大利亚总理：今日在苹果总部会见蒂姆·库克。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismerm2731899.shtml)
-11. [美联储主席沃什：物价稳定对工人来说是好消息，有望看到实际到手工资增长。](https://finance.sina.com.cn/7x24/2026-09-17/doc-inisaiet0340735.shtml)
-12. [塞浦路斯客轮倾覆事故死亡人数升至15人](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9663319.shtml)
-13. [智谱ZCode回应数据上传争议：功能默认开启致数据上传，将开源代码](https://finance.sina.com.cn/roll/2026-09-19/doc-inisinhc2626091.shtml)
-14. [巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisisqc3102561.shtml)
-15. [沙特领导的联军称挫败了胡塞武装对沙特城市比什、塔伊夫、法拉桑和延布平民的袭击。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inismern9488559.shtml)
-16. [Nscale 2025 年营收 3300 万美元，去年同期为 1910 万美元。2026上半年营收 1.406 亿美元，去年同期为 1040 万美元。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishvkr0122990.shtml)
-17. [公积金功能，有大变化！](https://finance.sina.com.cn/roll/2026-09-19/doc-inisifyi3249816.shtml)
-18. [特朗普被问及对俄罗斯袭击的担忧时表示：波兰已掌控局势。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishvkr0134019.shtml)
-19. [特朗普：遗憾的是，美国最高法院缺乏让美国再次伟大的勇气。过去六个月，法院在关税以及出生地公民权问题上做出错误、带有政治倾向且荒唐](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzr2899588.shtml)
+> 更新时间：2026-09-20 06:21:49
 
 ## 7x24
 
