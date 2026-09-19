@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-20 03:15:32
-
-## 新闻热榜
-
-1. [伊朗称仍在通过调解方向美方传递谈判条件](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2774403.shtml)
-2. [日本生命保险计划投入130亿美元用于数据中心融资。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2781504.shtml)
-3. [俄罗斯国防部：打击了一艘向乌克兰西南部敖德萨地区乌军运送燃料的船只。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9662655.shtml)
-4. [土耳其调查基金骗局 多名金融高管被拘](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2784097.shtml)
-5. [奈飞暗盘跌超1%，现报70.8217美元。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9671310.shtml)
-6. [刚果（金）埃博拉疫情确诊病例超7500例](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9557930.shtml)
-7. [塞浦路斯客轮倾覆事故死亡人数升至15人](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9663319.shtml)
-8. [特朗普：遗憾的是，美国最高法院缺乏让美国再次伟大的勇气。过去六个月，法院在关税以及出生地公民权问题上做出错误、带有政治倾向且荒唐](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzr2899588.shtml)
-9. [美国债市：美债追随欧洲债市下跌 收益率曲线走平](https://finance.sina.com.cn/world/2026-09-19/doc-inishvks8093161.shtml)
-10. [特朗普没“拿下”格陵兰，为何仍称已“梦想成真”？](https://news.sina.com.cn/w/2026-09-19/doc-iniskimt2314179.shtml)
-11. [南海这一幕，我们不能掉以轻心](https://news.sina.com.cn/o/2026-09-19/doc-inisifyi3193297.shtml)
-12. [也门胡塞武装称，已使用弹道导弹和无人机对利雅得境内其所称的“敏感”目标发动了袭击。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9545182.shtml)
-13. [沙特方面未立即证实胡塞武装的声明。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2773076.shtml)
-14. [日本亚运会还没开幕 闹的笑话都能拍连续剧了](https://news.sina.com.cn/w/2026-09-19/doc-inisisqe9924615.shtml)
-15. [伊朗提出对美谈判三大前提，等待特朗普答复](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisktzr2868566.shtml)
-16. [环球时报社评：一出肉麻政治双簧，揭了特奥多罗的老底](https://news.sina.com.cn/w/2026-09-20/doc-inisktzr2863248.shtml)
-17. [习语丨“中国队加油！中国加油！”](https://news.sina.com.cn/c/xl/2026-09-19/doc-iniskimy7469725.shtml)
-18. [布伦特原油暗盘跌破99美元，日内跌超1%。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9650642.shtml)
-19. [亚运再次失利，中国男篮差距何在](https://news.sina.com.cn/o/2026-09-19/doc-inisifyn7878465.shtml)
-20. [特朗普称与丹麦、格陵兰达成协议“梦想成真”，美将永久扩大军事存在 丹麦、格陵兰回应](https://news.sina.com.cn/w/2026-09-19/doc-inisinhh9930409.shtml)
-
-## 财经热榜
-
-1. [伊朗称仍在通过调解方向美方传递谈判条件](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2774403.shtml)
-2. [日本生命保险计划投入130亿美元用于数据中心融资。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2781504.shtml)
-3. [俄罗斯国防部：打击了一艘向乌克兰西南部敖德萨地区乌军运送燃料的船只。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9662655.shtml)
-4. [土耳其调查基金骗局 多名金融高管被拘](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2784097.shtml)
-5. [奈飞暗盘跌超1%，现报70.8217美元。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9671310.shtml)
-6. [超20家A股公司密集提示风险](https://finance.sina.com.cn/wm/2026-09-19/doc-inishrau8170026.shtml)
-7. [特朗普签署对俄罗斯石油买家征收关税法案](https://finance.sina.com.cn/world/2026-09-19/doc-inishzsm3271890.shtml)
-8. [美国批准对乌克兰近27亿美元军售](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisinhh9926942.shtml)
-9. [美媒：与伊朗战事期间，美军被AI生成的不实军情报告误导，险些派兵全副武装冲上一艘中国船只](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisisqe9880078.shtml)
-10. [Anthropic推进上市筹备，年化营收料超1000亿美元](https://finance.sina.com.cn/world/2026-09-19/doc-inishvkr0136721.shtml)
-11. [国际货币基金组织（IMF）表示，自上一轮工作人员代表团访察以来，黎巴嫩在预算管理方面已取得进展。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisinhf3197407.shtml)
-12. [美国商品期货交易委员会（CFTC）数据显示，截至9月15日，投机者普遍看涨日元，这是2025年来首次交易员普遍看涨日元。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishvkr0117889.shtml)
-13. [达美航空：不会向人工智能定价工具提供客户个人信息。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisinhf3154335.shtml)
-14. [环球时报快评：当美联社说“美国应当感谢中国”](https://finance.sina.com.cn/jjxw/2026-09-19/doc-iniskimw9757991.shtml)
-15. [刚果（金）埃博拉疫情确诊病例超7500例](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9557930.shtml)
-16. [中期选举激烈 多名共和党候选人在数据中心等议题疏远特朗普](https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisispz2548225.shtml)
-17. [市委书记多次表示“债都是前面欠的，凭什么让我还？”人民日报：这样的“歪理”令人瞠目](https://finance.sina.com.cn/jjxw/2026-09-19/doc-iniskcea7551142.shtml)
-18. [熊市终将到来，只是我们不知何时降临，历史经验告诉你，如何安然度过熊市](https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrat0160600.shtml)
-19. [经济日报：能源转型不是油气简单退出](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisifyk9959907.shtml)
-20. [司机称代驾百万路虎24天倒贴2.2万元，途中与车主相谈甚欢，越走越远，跨7城后车主态度反转：需抵扣轮胎损坏、酒店住宿等费用](https://finance.sina.com.cn/wm/2026-09-19/doc-inisisqe9863334.shtml)
+> 更新时间：2026-09-20 03:18:53
 
 ## 7x24
 
