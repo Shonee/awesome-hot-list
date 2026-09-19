@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 16:30:09
+> 更新时间：2026-09-19 16:43:14
 
 ## 7x24
 
@@ -32,5 +32,3 @@
 26. [调查显示上周英国多地机场瘫痪系软件故障所致](https://wallstreetcn.com/livenews/3167632)
 27. [刘元春：经济过度追求短期平衡会失去穿越周期的能力](https://wallstreetcn.com/livenews/3167630)
 28. [消息人士称，Anthropic考虑在IPO前发布新AI模型。（路透）](https://wallstreetcn.com/livenews/3167629)
-29. [今年前8个月开行旅游列车2501列 多地专列上新不断](https://wallstreetcn.com/livenews/3167626)
-30. [山东：“十五五”时期高端化工产业拟锚定16个发展方向](https://wallstreetcn.com/livenews/3167624)
