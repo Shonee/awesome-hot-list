@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-19 15:21:45
+> 更新时间：2026-09-19 16:25:45
 
 ## 热新闻
 
@@ -12,15 +12,15 @@
 6. [为压缩成本安排运动员住邮轮、集装箱房等，亚奥理事会回应住宿条件争议](https://www.thepaper.cn/newsDetail_forward_34097432)
 7. [媒体称欧盟希中国自愿限制混动汽车对欧出口，商务部：坚决反对](https://www.thepaper.cn/newsDetail_forward_34098607)
 8. [“投名状”被美国退回后：万亿矿产在手，塔利班为何仍难靠经济“破局”？](https://www.thepaper.cn/newsDetail_forward_34094970)
-9. [《交锋》好看，说到底离不开这群人](https://www.thepaper.cn/newsDetail_forward_34097351)
-10. [郭士强答澎湃新闻：我从不给自己打分](https://www.thepaper.cn/newsDetail_forward_34098317)
-11. [飞猪同程途家美团回应被查：全面落实监管要求](https://www.thepaper.cn/newsDetail_forward_34103142)
-12. [专访｜“我追求的痛苦让我强大”，破纪录夺冠背后，赵家驹咬紧牙关翻越那座山](https://www.thepaper.cn/newsDetail_forward_34102721)
+9. [飞猪同程途家美团回应被查：全面落实监管要求](https://www.thepaper.cn/newsDetail_forward_34103142)
+10. [《交锋》好看，说到底离不开这群人](https://www.thepaper.cn/newsDetail_forward_34097351)
+11. [专访｜“我追求的痛苦让我强大”，破纪录夺冠背后，赵家驹咬紧牙关翻越那座山](https://www.thepaper.cn/newsDetail_forward_34102721)
+12. [郭士强答澎湃新闻：我从不给自己打分](https://www.thepaper.cn/newsDetail_forward_34098317)
 13. [特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻](https://www.thepaper.cn/newsDetail_forward_34102730)
-14. [名古屋亚运会又出乌龙！曲棍球赛前给韩国队演奏朝鲜国歌](https://www.thepaper.cn/newsDetail_forward_34096796)
-15. [卖豆浆前主播先换上黑丝，“擦边”式营销真没法治了吗](https://www.thepaper.cn/newsDetail_forward_34099157)
-16. [体坛联播｜C罗入选新一期国家队，切尔西半场崩盘三球败北](https://www.thepaper.cn/newsDetail_forward_34102036)
-17. [宁波“能看海的地铁”免费试乘将遇周末，运营方再次提醒错峰出行](https://www.thepaper.cn/newsDetail_forward_34097813)
-18. [关联公司涉民间借贷纠纷，万通创始人冯仑被限制高消费](https://www.thepaper.cn/newsDetail_forward_34097425)
-19. [商务部新闻发言人就中美经贸磋商有关问题答记者问](https://www.thepaper.cn/newsDetail_forward_34102725)
-20. [中方领导人是否将访问美国？外交部：中美就年内元首互访保持着沟通](https://www.thepaper.cn/newsDetail_forward_34096269)
+14. [评论｜中国男篮，已经没有“不能输”的比赛了](https://www.thepaper.cn/newsDetail_forward_34103551)
+15. [名古屋亚运会又出乌龙！曲棍球赛前给韩国队演奏朝鲜国歌](https://www.thepaper.cn/newsDetail_forward_34096796)
+16. [卖豆浆前主播先换上黑丝，“擦边”式营销真没法治了吗](https://www.thepaper.cn/newsDetail_forward_34099157)
+17. [特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》](https://www.thepaper.cn/newsDetail_forward_34102731)
+18. [体坛联播｜C罗入选新一期国家队，切尔西半场崩盘三球败北](https://www.thepaper.cn/newsDetail_forward_34102036)
+19. [宁波“能看海的地铁”免费试乘将遇周末，运营方再次提醒错峰出行](https://www.thepaper.cn/newsDetail_forward_34097813)
+20. [关联公司涉民间借贷纠纷，万通创始人冯仑被限制高消费](https://www.thepaper.cn/newsDetail_forward_34097425)
