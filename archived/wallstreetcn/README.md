@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 17:35:10
+> 更新时间：2026-09-19 17:48:15
 
 ## 7x24
 
@@ -31,7 +31,3 @@
 25. [巴基斯坦安全部队打死8名自杀式爆炸袭击者](https://wallstreetcn.com/livenews/3167648)
 26. [同声传译大模型Qwen3.8-LiveTranslate正式发布](https://wallstreetcn.com/livenews/3167647)
 27. [玉渊谭天：3年13次修改用户隐私协议，Anthropic将全球用户数据交给美情报机构](https://wallstreetcn.com/livenews/3167646)
-28. [意大利今年报告超650例西尼罗河病毒感染病例](https://wallstreetcn.com/livenews/3167645)
-29. [中信证券：储能及液冷有望成为AIDC基础设施的重要增量环节](https://wallstreetcn.com/livenews/3167644)
-30. [贵州茅台将新增广州与郑州两大发货仓](https://wallstreetcn.com/livenews/3167643)
-31. [秘鲁因厄尔尼诺影响下调今年经济增长预期](https://wallstreetcn.com/livenews/3167642)
