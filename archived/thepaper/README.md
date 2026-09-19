@@ -1,16 +1,16 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-20 06:18:56
+> 更新时间：2026-09-20 07:17:22
 
 ## 热新闻
 
 1. [媒体：两三个月内彻底倒闭？西贝辟谣称目前全国门店均正常运营](https://www.thepaper.cn/newsDetail_forward_34104097)
-2. [“投名状”被美国退回后：万亿矿产在手，塔利班为何仍难靠经济“破局”？](https://www.thepaper.cn/newsDetail_forward_34094970)
-3. [释新闻｜美国和丹麦说法不同：未公布全文的格陵兰岛协议留下哪些问号](https://www.thepaper.cn/newsDetail_forward_34104580)
-4. [专访｜“我追求的痛苦让我强大”，破纪录夺冠背后，赵家驹咬紧牙关翻越那座山](https://www.thepaper.cn/newsDetail_forward_34102721)
-5. [骗子张龙被打假一个月后，其名下公司微信号已被停用](https://www.thepaper.cn/newsDetail_forward_34105563)
-6. [菲船十分钟内两次挑衅我海警艇，现场视频还原真相](https://www.thepaper.cn/newsDetail_forward_34104002)
-7. [《交锋》好看，说到底离不开这群人](https://www.thepaper.cn/newsDetail_forward_34097351)
+2. [释新闻｜美国和丹麦各说各话：未公布全文的格陵兰岛协议留下哪些问号](https://www.thepaper.cn/newsDetail_forward_34104580)
+3. [“投名状”被美国退回后：万亿矿产在手，塔利班为何仍难靠经济“破局”？](https://www.thepaper.cn/newsDetail_forward_34094970)
+4. [骗子张龙被打假一个月后，其名下公司微信号已被停用](https://www.thepaper.cn/newsDetail_forward_34105563)
+5. [专访｜“我追求的痛苦让我强大”，破纪录夺冠背后，赵家驹咬紧牙关翻越那座山](https://www.thepaper.cn/newsDetail_forward_34102721)
+6. [“苏超”常规赛结束：上届冠军泰州涉险晋级，季军南京跌出八强](https://www.thepaper.cn/newsDetail_forward_34105669)
+7. [菲船十分钟内两次挑衅我海警艇，现场视频还原真相](https://www.thepaper.cn/newsDetail_forward_34104002)
 8. [言短意长｜“最年长讲师”逝世为何引关注](https://www.thepaper.cn/newsDetail_forward_34103535)
 9. [飞猪同程途家美团回应被查：全面落实监管要求](https://www.thepaper.cn/newsDetail_forward_34103142)
 10. [山东荣成一面包车坠海致8死3伤，调查报告认定：司机路况不熟、误判路线](https://www.thepaper.cn/newsDetail_forward_34104103)
@@ -23,4 +23,4 @@
 17. [贵州毕节一中学老师给女学生发骚扰信息，警方和纪委已介入](https://www.thepaper.cn/newsDetail_forward_34103562)
 18. [俄国家杜马选举开启：顿涅茨克等四地首次参与，普京呼吁民众作出正确选择](https://www.thepaper.cn/newsDetail_forward_34104094)
 19. [美对进口俄罗斯石油或天然气的第三国加征所谓“次级关税”，商务部回应](https://www.thepaper.cn/newsDetail_forward_34104940)
-20. [对话｜搭档12年再战亚运，黄镇廷和杜凯琹这次希望走到最后](https://www.thepaper.cn/newsDetail_forward_34104100)
+20. [媒体刊文：一家企业被“倒闭”，只需要一条热搜吗？](https://www.thepaper.cn/newsDetail_forward_34106191)
