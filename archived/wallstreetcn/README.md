@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 22:22:32
+> 更新时间：2026-09-19 22:34:07
 
 ## 7x24
 
@@ -49,5 +49,3 @@
 23. [我国成功发射株洲太空星际PIESAT-2 13~16星](https://wallstreetcn.com/livenews/3167694)
 24. [乌克兰称研制针对伊朗自杀式无人机的新型拦截无人机](https://wallstreetcn.com/livenews/3167693)
 25. [全球超级油轮短缺威胁长途原油运输](https://wallstreetcn.com/livenews/3167692)
-26. [迈克尔·马拉当选英国苏格兰工党新任党首](https://wallstreetcn.com/livenews/3167691)
-27. [俄国家杜马选举开启：顿涅茨克等四地首次参与，普京呼吁民众作出正确选择](https://wallstreetcn.com/livenews/3167690)
