@@ -1,12 +1,10 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 21:48:04
+> 更新时间：2026-09-19 22:08:22
 
 ## 7x24
 
-1. [【美军称已清除霍尔木兹海峡主要通航航道水雷】9月19日，美军中央司令部司令布拉德·库珀发布视频，公布有关霍尔木兹海峡航运及美军在该地区行动情况。
-
-库珀表示，霍尔木兹海峡主要通航航道已经完成水雷清除，已有数千艘船只通过。海湾地区合作伙...](https://wallstreetcn.com/livenews/3167723)
+1. [美军称已清除霍尔木兹海峡主要通航航道水雷](https://wallstreetcn.com/livenews/3167723)
 2. [沙特拦截弹即将耗尽，紧急求援](https://wallstreetcn.com/livenews/3167722)
 3. [马斯克称X平台（原推特）的使用量创下历史新高。](https://wallstreetcn.com/livenews/3167720)
 4. [沙特罕见地向首都利雅得发布空袭警报](https://wallstreetcn.com/livenews/3167719)
@@ -57,10 +55,3 @@
 29. [叙利亚东部爆炸致过渡政府国防部11人死亡](https://wallstreetcn.com/livenews/3167689)
 30. [美媒：两架滑翔机在纽约州上空相撞，造成1人死亡](https://wallstreetcn.com/livenews/3167688)
 31. [伊朗处决一名被指控为以色列提供情报的男子](https://wallstreetcn.com/livenews/3167687)
-32. [法国预算草案：预计法国2027年公共支出占GDP的56.9%；2026年公共支出占GDP的57.1%。
-
-预计法国2027年税收收入占GDP的44.2%。
-
-预计法国2027年债务占GDP之比为121.7%；2026年债务占GDP之比...](https://wallstreetcn.com/livenews/3167686)
-33. [《网络安全人才实战能力报告—AI赋能篇》发布](https://wallstreetcn.com/livenews/3167684)
-34. [我国部署深入打击生态环境监测机构弄虚作假问题](https://wallstreetcn.com/livenews/3167683)
