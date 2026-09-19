@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-19 08:54:33
+> 更新时间：2026-09-19 09:29:58
 
 ## Hottest
 
@@ -25,7 +25,7 @@
 19. [CSS-Tricks could be a co-op](https://ericwbailey.website/published/css-tricks-could-be-a-co-op/)
 20. [The Bikeshed email — PHKs Bikeshed](https://phk.freebsd.dk/sagas/bikeshed/)
 21. [I expected better from Google](https://www.minitap.ai/blog/i-expected-better-from-google)
-22. [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
-23. [Internet Phone Book](https://internetphonebook.net/)
+22. [Internet Phone Book](https://internetphonebook.net/)
+23. [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
 24. [Bend](https://bend-lang.com/)
 25. [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/)
