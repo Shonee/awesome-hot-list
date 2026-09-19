@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-19 23:33:54
+> 更新时间：2026-09-19 23:48:18
 
 ## 7x24
 
@@ -16,7 +16,3 @@
 
 过去两周的石油、货物、液化天然气（LNG）创最近六个月新高。](https://wallstreetcn.com/livenews/3167714)
 8. [美国能源部发布紧急命令，要求在卡罗来纳地区降低停电风险。](https://wallstreetcn.com/livenews/3167712)
-9. [美国能源部长Wright下令维持印第安纳州两座燃煤电厂的运营。
-
-要求Nipsco、CenterPoint Energy、MIso采取行动。](https://wallstreetcn.com/livenews/3167710)
-10. [西贝回应“将彻底倒闭”传闻，称全国门店正常营业](https://wallstreetcn.com/livenews/3167709)

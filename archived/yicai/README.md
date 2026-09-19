@@ -1,6 +1,6 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-19 23:33:52
+> 更新时间：2026-09-19 23:48:17
 
 ## 7x24
 
@@ -12,4 +12,3 @@
 6. [逾百名专家呼吁对AI企业加强独立监管](https://m.yicai.com/brief/103370992.html)
 7. [周六重大事件汇总](https://m.yicai.com/brief/103370990.html)
 8. [下周财经日历](https://m.yicai.com/brief/103370986.html)
-9. [AI进化速递丨OpenAI预计到2030年底累计消耗近2800亿美元资金](https://m.yicai.com/brief/103370984.html)
