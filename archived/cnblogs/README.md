@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-19 09:29:03
+> 更新时间：2026-09-19 10:28:49
 
 ## 最新帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [.NET 11 性能深度解读：这一次，真的「到 11」了](https://www.cnblogs.com/shanyou/p/23002817)
-2. [AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）](https://www.cnblogs.com/jinjiangongzuoshi/p/23006318)
-3. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
-4. [代码之外，还有回声](https://www.cnblogs.com/yuyisi/p/22972190)
-5. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
-6. [薅WorkBuddy羊毛，无限使用DeepSeek，自动签到+积分躺赚+通用 API 接口](https://www.cnblogs.com/degao/p/23006284)
+2. [AI也没想到，三年红透半边天](https://www.cnblogs.com/cicada-smile/p/23020801)
+3. [30K Star 神器，给 Claude Code 装上代码地图，Token 中位数省 65 倍](https://www.cnblogs.com/uniqueDong/p/23010731)
+4. [DeepSeek 视觉 API 刚上线：单张图 0.001 元，Agent 终于能看图](https://www.cnblogs.com/uniqueDong/p/23023564)
+5. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
+6. [AI越来越强了，为什么测试人反而越来越累！（为打工人发声）](https://www.cnblogs.com/jinjiangongzuoshi/p/23021622)
