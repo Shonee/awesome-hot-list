@@ -1,11 +1,26 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-19 10:29:20
+> 更新时间：2026-09-19 10:34:16
 
-## 首页头条
+## 7x24
 
-1. [详解前8月全国财政数据](https://www.yicai.com/news/103370226.html)
-2. [高铁票价现节前浮动：有动卧大涨500元，“商务线”反而降价](https://www.yicai.com/news/103370115.html)
-3. [现场直击iPhone 18新机发售：线上价格“破发”后，黄牛加价不如前代](https://www.yicai.com/news/103369644.html)
-4. [越来越多人全款买房，多城居民杠杆率大幅降低](https://www.yicai.com/news/103370322.html)
-5. [从荷兰到西班牙，欧洲多国为何加速让黄金储备“回家”](https://www.yicai.com/news/103370159.html)
+1. [工信部总工程师王卫明：将实施汽车标准提升专项行动，优化积分管理政策](https://m.yicai.com/brief/103370755.html)
+2. [工信部总工程师王卫明：进一步提高汽车消费潜力，将出台汽车改装管理办法](https://m.yicai.com/brief/103370754.html)
+3. [三六零与昇腾AI联合打造解决方案，为AI Agent全面提速](https://m.yicai.com/brief/103370753.html)
+4. [中国代表：愿推动维和行动更加务实、高效、可持续](https://m.yicai.com/brief/103370751.html)
+5. [1至8月全国铁路发送旅客33.2亿人次](https://m.yicai.com/brief/103370749.html)
+6. [英国和爱尔兰重申维护《贝尔法斯特协议》](https://m.yicai.com/brief/103370747.html)
+7. [黑龙江省海伦市政府市长、一级调研员刘晓光被查](https://m.yicai.com/brief/103370745.html)
+8. [零跑A10 OTA于今日开始陆续推送](https://m.yicai.com/brief/103370744.html)
+9. [机构：预估2026年全球数据中心电力需求容量将达161GW，年增约31%](https://m.yicai.com/brief/103370742.html)
+10. [北京依法对四家在线酒店旅游预订平台企业立案调查](https://m.yicai.com/brief/103370740.html)
+11. [美国批准对乌克兰近27亿美元军售](https://m.yicai.com/brief/103370738.html)
+12. [整治恶意炒作涉企信息 国家网信办曝光第二批典型案例](https://m.yicai.com/brief/103370730.html)
+13. [商务部新闻发言人就中美经贸磋商有关问题答记者问](https://m.yicai.com/brief/103370728.html)
+14. [楚江新材：金刚石复合热沉材料相关业务目前处于研发阶段](https://m.yicai.com/brief/103370725.html)
+15. [武汉脑机接口两大科创平台揭牌](https://m.yicai.com/brief/103370723.html)
+16. [四川、重庆等地部分地区将有暴雨 西北东北迎明显降温](https://m.yicai.com/brief/103370721.html)
+17. [昨夜今晨重大事件汇总](https://m.yicai.com/brief/103370719.html)
+18. [上海电气与中信集团签署战略合作协议](https://m.yicai.com/brief/103370717.html)
+19. [沙特首都利雅得遭空袭](https://m.yicai.com/brief/103370715.html)
+20. [特朗普点名纽时华邮或也将禁入白宫](https://m.yicai.com/brief/103370713.html)
