@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-20 04:20:10
-
-## 新闻热榜
-
-1. [土耳其外交部长：我方已向乌克兰、俄罗斯提交黑海停火提议，静待两国回复。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9595252.shtml)
-2. [土耳其外长：沙特阿拉伯被卷入美伊战争是不可接受的，他们无意加入冲突。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9587269.shtml)
-3. [伊朗称仍在通过调解方向美方传递谈判条件](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2774403.shtml)
-4. [日本生命保险计划投入130亿美元用于数据中心融资。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2781504.shtml)
-5. [俄罗斯国防部：打击了一艘向乌克兰西南部敖德萨地区乌军运送燃料的船只。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9662655.shtml)
-6. [土耳其调查基金骗局 多名金融高管被拘](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2784097.shtml)
-7. [奈飞暗盘跌超1%，现报70.8217美元。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9671310.shtml)
-8. [刚果（金）埃博拉疫情确诊病例超7500例](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9557930.shtml)
-9. [塞浦路斯客轮倾覆事故死亡人数升至15人](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9663319.shtml)
-10. [特朗普没“拿下”格陵兰，为何仍称已“梦想成真”？](https://news.sina.com.cn/w/2026-09-19/doc-iniskimt2314179.shtml)
-11. [特朗普：遗憾的是，美国最高法院缺乏让美国再次伟大的勇气。过去六个月，法院在关税以及出生地公民权问题上做出错误、带有政治倾向且荒唐](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzr2899588.shtml)
-12. [环球时报社评：一出肉麻政治双簧，揭了特奥多罗的老底](https://news.sina.com.cn/w/2026-09-20/doc-inisktzr2863248.shtml)
-13. [美国债市：美债追随欧洲债市下跌 收益率曲线走平](https://finance.sina.com.cn/world/2026-09-19/doc-inishvks8093161.shtml)
-14. [伊朗高级官员批准一项法律条款，对经由霍尔木兹海峡的数据路由实施监管。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9575141.shtml)
-15. [俄罗斯“进步MS-35”货运飞船与国际空间站对接](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9598147.shtml)
-16. [南海这一幕，我们不能掉以轻心](https://news.sina.com.cn/o/2026-09-19/doc-inisifyi3193297.shtml)
-17. [伊朗提出对美谈判三大前提，等待特朗普答复](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisktzr2868566.shtml)
-18. [也门胡塞武装称，已使用弹道导弹和无人机对利雅得境内其所称的“敏感”目标发动了袭击。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9545182.shtml)
-19. [习语丨“中国队加油！中国加油！”](https://news.sina.com.cn/c/xl/2026-09-19/doc-iniskimy7469725.shtml)
-20. [日本亚运会还没开幕 闹的笑话都能拍连续剧了](https://news.sina.com.cn/w/2026-09-19/doc-inisisqe9924615.shtml)
-
-## 财经热榜
-
-1. [土耳其外交部长：我方已向乌克兰、俄罗斯提交黑海停火提议，静待两国回复。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9595252.shtml)
-2. [土耳其外长：沙特阿拉伯被卷入美伊战争是不可接受的，他们无意加入冲突。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9587269.shtml)
-3. [伊朗称仍在通过调解方向美方传递谈判条件](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2774403.shtml)
-4. [日本生命保险计划投入130亿美元用于数据中心融资。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2781504.shtml)
-5. [俄罗斯国防部：打击了一艘向乌克兰西南部敖德萨地区乌军运送燃料的船只。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9662655.shtml)
-6. [土耳其调查基金骗局 多名金融高管被拘](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyip2784097.shtml)
-7. [奈飞暗盘跌超1%，现报70.8217美元。](https://finance.sina.com.cn/7x24/2026-09-20/doc-inisktzs9671310.shtml)
-8. [刚果（金）埃博拉疫情确诊病例超7500例](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9557930.shtml)
-9. [特朗普：胡塞武装同样希望达成协议。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishrat0153497.shtml)
-10. [美国国防部长赫格塞思：全力支持特朗普总统将CNN、MSNOW和Politico“踢到路边”的决定，这样他们就可以在白宫外面发布他们的“假新闻”。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishzsm3271742.shtml)
-11. [7月也门冲突升级以来首次 沙特首都遭袭](https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqe9872951.shtml)
-12. [美国驻联合国大使：特朗普将与海湾领导人举行多边会议。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishzsm3276487.shtml)
-13. [北约发言人：我们对美国、丹麦与格陵兰即将签署协议的公告表示欢迎。北极地区与北大西洋对我们的集体安全至关重要。](https://finance.sina.com.cn/7x24/2026-09-19/doc-iniskccy9819166.shtml)
-14. [“我太痛苦了，回家吧”，一位母亲从看病到离世仅14天，儿子视频记录她从“铿锵有力”到天人永隔，看哭网友，当事人发声](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inishvkp3327864.shtml)
-15. [NScale：ANTHROPIC服务协议规定向我们支付的款项总额最高约446亿美元。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishvkr0123245.shtml)
-16. [因信披违规，“福建猪王”傲农生物及4名责任人合计被罚565万元](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisinhk7814290.shtml)
-17. [惠誉维持智利“A-”评级，展望稳定。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishvkr0106730.shtml)
-18. [英国首相将与特朗普会晤 说服释放“爱国者”防空导弹援乌](https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqc3165413.shtml)
-19. [中信证券：极致散热登场，金刚石迎来产业化元年](https://finance.sina.com.cn/stock/hyyj/2026-09-19/doc-inisiwwe7630542.shtml)
-20. [秘鲁因厄尔尼诺影响下调今年经济增长预期](https://finance.sina.com.cn/7x24/2026-09-19/doc-inisiwvz3078446.shtml)
+> 更新时间：2026-09-20 04:23:09
 
 ## 7x24
 
