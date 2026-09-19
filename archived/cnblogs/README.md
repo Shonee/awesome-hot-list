@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-19 16:25:31
+> 更新时间：2026-09-19 17:20:46
 
 ## 最新帖子
 
-1. [Robotics-机器人建模中的坐标系建立](https://www.cnblogs.com/ai-ldj/p/23037776)
-2. [点亮第一盏 LED：STM32 的 GPIO 到底在控制什么](https://www.cnblogs.com/zw-awa/p/23025590)
-3. [年薪128万美元：FDE 究竟是 AI 落地的船票，还是一张更贵的外包工牌？](https://www.cnblogs.com/xiaobaiysf/p/23037239)
-4. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
-5. [一文读懂 HarmonyOS 7.0 带来的十大API重要升级](https://www.cnblogs.com/aqi00/p/22883097)
-6. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
-7. [Oracle Property Graph 结合 In-Memory 的性能验证](https://www.cnblogs.com/jyzhao/p/23034788)
-8. [房产测绘面积计算全解析](https://www.cnblogs.com/charlee44/p/23032573)
-9. [LaTeX 公式转 PNG / SVG：几种实用方案和使用场景对比](https://www.cnblogs.com/dxzg/p/23032569)
-10. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
-11. [企业 AI 最大的问题，不是数据不足，而是数据没有业务语义](https://www.cnblogs.com/xianxh/p/23032380)
-12. [【Agent Harness】Gliding Horse 最新进化：从“能学习”到“可验证的自主进化”](https://www.cnblogs.com/doiito/p/23032121)
-13. [移动应用开发手册16：CI/CD控制论——如何用系统工程对抗熵增巨婴](https://www.cnblogs.com/2452316Czq/p/23028511)
-14. [【笔记】一行代码让大模型推理的 overlap scheduler 失效](https://www.cnblogs.com/cswuyg/p/23031766)
-15. [让向量检索随处可用：Zvec 多平台支持全景](https://www.cnblogs.com/DashVector/p/23030447)
-16. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
-17. [基于 LlamaIndex+PostgreSQL 实现RAG持久化](https://www.cnblogs.com/LyShark/p/22996705)
-18. [设计一个简易合成器框架-Common Lisp](https://www.cnblogs.com/zxc-cppnb/p/23010422)
-19. [DuckDB + SQL 高效分析 JSON 数据](https://www.cnblogs.com/wang_yb/p/23026278)
-20. [第2篇：《Python 环境搭建与第一个项目运行》](https://www.cnblogs.com/bigant9527/p/23026013)
+1. [.net10+winform+Antdui 制作 LOL 小助手三](https://www.cnblogs.com/sc-Free-Die/p/23038354)
+2. [Robotics-机器人建模中的坐标系建立](https://www.cnblogs.com/ai-ldj/p/23037776)
+3. [点亮第一盏 LED：STM32 的 GPIO 到底在控制什么](https://www.cnblogs.com/zw-awa/p/23025590)
+4. [年薪128万美元：FDE 究竟是 AI 落地的船票，还是一张更贵的外包工牌？](https://www.cnblogs.com/xiaobaiysf/p/23037239)
+5. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
+6. [一文读懂 HarmonyOS 7.0 带来的十大API重要升级](https://www.cnblogs.com/aqi00/p/22883097)
+7. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
+8. [Oracle Property Graph 结合 In-Memory 的性能验证](https://www.cnblogs.com/jyzhao/p/23034788)
+9. [房产测绘面积计算全解析](https://www.cnblogs.com/charlee44/p/23032573)
+10. [LaTeX 公式转 PNG / SVG：几种实用方案和使用场景对比](https://www.cnblogs.com/dxzg/p/23032569)
+11. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
+12. [企业 AI 最大的问题，不是数据不足，而是数据没有业务语义](https://www.cnblogs.com/xianxh/p/23032380)
+13. [【Agent Harness】Gliding Horse 最新进化：从“能学习”到“可验证的自主进化”](https://www.cnblogs.com/doiito/p/23032121)
+14. [移动应用开发手册16：CI/CD控制论——如何用系统工程对抗熵增巨婴](https://www.cnblogs.com/2452316Czq/p/23028511)
+15. [【笔记】一行代码让大模型推理的 overlap scheduler 失效](https://www.cnblogs.com/cswuyg/p/23031766)
+16. [让向量检索随处可用：Zvec 多平台支持全景](https://www.cnblogs.com/DashVector/p/23030447)
+17. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
+18. [基于 LlamaIndex+PostgreSQL 实现RAG持久化](https://www.cnblogs.com/LyShark/p/22996705)
+19. [设计一个简易合成器框架-Common Lisp](https://www.cnblogs.com/zxc-cppnb/p/23010422)
+20. [DuckDB + SQL 高效分析 JSON 数据](https://www.cnblogs.com/wang_yb/p/23026278)
 
 ## 精华帖子
 
