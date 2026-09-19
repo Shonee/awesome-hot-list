@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-19 18:19:36
-
-## 新闻热榜
-
-1. [南海这一幕，我们不能掉以轻心](https://news.sina.com.cn/o/2026-09-19/doc-inisifyi3193297.shtml)
-2. [剥夺国籍、赔偿金提高20倍！内塔尼亚胡发出威胁](https://news.sina.com.cn/w/2026-09-18/doc-inishkut3493507.shtml)
-3. [著名女星拍大尺度广告，惹了众怒](https://news.sina.com.cn/c/2026-09-18/doc-inisftwz3479407.shtml)
-4. [中国篮球之队：比赛中暴露出攻防多种问题，将深刻总结调整状态](https://news.sina.com.cn/c/2026-09-18/doc-inishkuv0251734.shtml)
-5. [局长被查，家人花300万找了个“政治骗子”](https://news.sina.com.cn/c/2026-09-19/doc-inisifyf2728458.shtml)
-6. [“九一八”前，日本最新发布的一个数据引关注！](https://news.sina.com.cn/c/2026-09-18/doc-inishkur3122109.shtml)
-7. [又一“虎”被查，曾是智库首席专家](https://news.sina.com.cn/c/2026-09-18/doc-inisfyex3541566.shtml)
-8. [秦王级别墓葬被发现！墓主或为华阳太后](https://mil.news.sina.com.cn/2026-09-19/doc-inisifyn7885211.shtml)
-9. [顶流女星丈夫确认被诈骗！或有更多名人也被卷入骗局……涉案资金巨大](https://news.sina.com.cn/c/2026-09-19/doc-inisinhc2637742.shtml)
-10. [亚运再次失利，中国男篮差距何在](https://news.sina.com.cn/o/2026-09-19/doc-inisifyn7878465.shtml)
-11. [CNN爆料：美军被AI误导，险些冲上中国船只……](https://news.sina.com.cn/w/2026-09-19/doc-inisinhf3205023.shtml)
-12. [面对美使馆挑拨离间，墨西哥网友神回复](https://news.sina.com.cn/c/2026-09-18/doc-inishkut3491519.shtml)
-13. [[新浪彩票]足彩第26130期任九：罗马建议舍弃](https://sports.sina.com.cn/l/2026-09-19/doc-inisifyn7891844.shtml)
-14. [“跳梁小丑”还在叫嚣：危险啊，中国想重塑世界](https://news.sina.com.cn/c/2026-09-18/doc-inisfyex3487965.shtml)
-15. [[新浪彩票]足彩第26130期大势：纽卡主胜可期](https://sports.sina.com.cn/l/2026-09-19/doc-inisifyk9976106.shtml)
-16. [萨普斯堡爆5倍冷负 足彩头奖仅开3注212万元](https://sports.sina.com.cn/l/2026-09-19/doc-inisifyf2727421.shtml)
-17. [特朗普称与丹麦、格陵兰达成协议“梦想成真”，美将永久扩大军事存在 丹麦、格陵兰回应](https://news.sina.com.cn/w/2026-09-19/doc-inisinhh9930409.shtml)
-18. [日本亚运会还没开幕 闹的笑话都能拍连续剧了](https://news.sina.com.cn/w/2026-09-19/doc-inisisqe9924615.shtml)
-19. [特朗普：美国将获得对格陵兰岛安全“永久控制权”](https://news.sina.com.cn/w/2026-09-19/doc-inishzsi2835850.shtml)
-20. [人民币汇率，升破6.7！还会继续走强吗？专家最新解读](https://news.sina.com.cn/c/2026-09-18/doc-inishkuw8281875.shtml)
-
-## 财经热榜
-
-1. [突发！沙特首都利雅得遭空袭，目前“危险已解除”！胡塞武装多次对沙特发动导弹和无人机袭击，但利雅得发布防空警报还是第一次](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisinhk7819304.shtml)
-2. [也门战事升级，又一战略海峡危险了](https://finance.sina.com.cn/wm/2026-09-19/doc-inisifyi3241239.shtml)
-3. [沙特首都利雅得遭空袭](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisifyk9991546.shtml)
-4. [9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100美元下方](https://finance.sina.com.cn/world/2026-09-19/doc-inishzsi2810028.shtml)
-5. [无需付费、无限期！美国获得格陵兰岛永久安全控制权，特朗普：“对美国而言是梦想成真 ”](https://finance.sina.com.cn/wm/2026-09-19/doc-inisifyf2727309.shtml)
-6. [中使馆紧急提醒：中国公民及时避险！9月18日晚至19日凌晨，沙特连发安全警报，首都利雅得遭空袭，吉达、哈里格等多地传出爆炸声](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisisqc3115165.shtml)
-7. [“史上最大IPO”时间表又生变 Anthropic年化收入预计将突破1000亿美元](https://finance.sina.com.cn/money/forex/forexinfo/2026-09-19/doc-inisifyf2733359.shtml)
-8. [全球债市再遇抛售！激进加息周期担忧是否会兑现](https://finance.sina.com.cn/roll/2026-09-19/doc-inisifyk9971267.shtml)
-9. [特朗普：美国正在与胡塞武装对话。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishrat0153373.shtml)
-10. [三方即将签署协议，特朗普称获格陵兰岛永久安全控制权](https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisifyk9977755.shtml)
-11. [牛弹琴：南海这一幕，我们不能掉以轻心](https://finance.sina.com.cn/roll/2026-09-19/doc-inisinhk7791993.shtml)
-12. [杜克能源呼吁南北卡罗来纳州用户减少用电。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishrar3411905.shtml)
-13. [美国商品期货交易委员会（CFTC）数据显示，截至9月15日当周，纽约商品交易所（COMEX）黄金投机客将净多头头寸削减2488手，至137060手。](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishvkr0113866.shtml)
-14. [9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解](https://finance.sina.com.cn/world/2026-09-19/doc-inisifyn7873555.shtml)
-15. [特朗普宣布格陵兰安全协议，称获得“永久控制权”](https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0046597.shtml)
-16. [三大央行同步加息，人民币汇率升破6.7](https://finance.sina.com.cn/roll/2026-09-19/doc-inisifyi3212826.shtml)
-17. [巴菲特过半持仓集中在这三只股票，当下哪只最值得买入？](https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrar3378625.shtml)
-18. [毛东东随团访朝祭扫志愿军烈士陵园，在毛岸英烈士铜像前祭酒、敬上从家乡带来的月饼](https://finance.sina.com.cn/wm/2026-09-19/doc-inishrau8168252.shtml)
-19. [特朗普再称对伊朗战争将很快结束](https://finance.sina.com.cn/7x24/2026-09-19/doc-inishzsm3245586.shtml)
-20. [谷歌AI首次“越狱”：Gemini在测试中入侵三家企业](https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7993750.shtml)
+> 更新时间：2026-09-19 18:22:49
 
 ## 7x24
 
