@@ -939,3 +939,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,流式推理优化，让机器人决策延迟低至 0.68 秒,通过复用历史计算，SimpleMemVLA 将 60 秒历史的决策延迟从 1.02 秒降至 0.68 秒，低于实测任务的 0.96 秒实时预算。这套精确流式推理流程与全量重算生成相同的子任务文本，但将共享历史的计算与动作执行重叠起来，减少了决策时的等待。在更长上下文的延迟测试中，约 45 分钟历史对应 245k token，全量重算需要 32.1 秒，而流式决策路径缩短至 1.18 秒。 智源社区 4 小时前,,https://hub.baai.ac.cn/view/58095,,Readhub,AI 资讯,ai,digest,,2026-09-19 19:17:24
 9,中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B,官方表示，从训练芯片到推理部署，全栈国产 —— 昇腾训练、国产框架适配、自研架构、开源生态，一条路走通。从 SuperCLUE 评测结果来看，在智能体能力方面，Xing4.0-29B-A4B 得分 93.52，位列第 3 名，与两款头部 Qwen 模型的差距均不足 1 分。Xing4.0-29B-A4B 延续星辰大模型的开源路线，对主流开源生态做了全面兼容：支持 LLaMA-Factory、MindFormers 等微调架构。 IT 之家 44 分钟前,,https://www.ithome.com/1/004/530.htm,,Readhub,AI 资讯,ai,digest,,2026-09-19 19:17:24
 10,Gemini Hacked Three Companies in First Known Breakout by Google's AI,"The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In the other two cases, the model found",,https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/,,Readhub,AI 资讯,ai,digest,,2026-09-19 19:17:24
+1,Anthropic 开放 Mythos 模型，面向科研群体解禁,,,https://readhub.cn/topic/8wWBNnmIwWU?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+2,浙大 00 后创办魔芯科技估值将达近 100 亿元,,,https://readhub.cn/topic/8wWarPGvKJY?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+3,鸿蒙 7 发布后，手机里的 App 进入智能体时代了,,,https://readhub.cn/topic/8wXwLtOfCeR?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+4,Kimi 向左，Claude、GPT 向右,,,https://readhub.cn/topic/8wXbbx4mgEw?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+5,ChatGPT Pro 20X 仅向符合条件老用户恢复购买,,,https://readhub.cn/topic/8wXwLO7fJ7V?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+6,Anthropic 据悉设立生物实验室，目标让 Claude 指挥物理机器人开展实验,,,https://readhub.cn/topic/8wWZIg0FYO3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+7,苹果揭秘 iPhone Duo 设计理念：灵感来自纸质笔记本,,,https://readhub.cn/topic/8wWjKeGxjVc?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+8,我国拟出台规定保障未成年人健康安全使用网络,,,https://readhub.cn/topic/8wWXAwmRY6M?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+9,DeepSeek：调休上班的周末、中国法定节假日全天均按空闲时段计费,,,https://readhub.cn/topic/8wYAd7Wg5cP?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+10,Anthropic 等 AI 巨头因呼吁放缓 AI 发展面临共谋指控,,,https://readhub.cn/topic/8wXcK74fNGP?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+11,iPhone 18 Pro / Max 全球发售 苹果高管现身门店迎客,,,https://readhub.cn/topic/8wWz2AvuNEm?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+12,iPhone 18 Pro 首销破发，品控现瑕疵,,,https://readhub.cn/topic/8wWp1g0LI0D?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+13,OpenAI 研究员谈 AI 进展：已学会隐藏自身，对齐时间紧迫,,,https://readhub.cn/topic/8wWQ3vyVRwZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+14,小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线,,,https://readhub.cn/topic/8wXQtMN33wo?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+15,美团：将积极配合监管部门调查，全面落实监管要求,,,https://readhub.cn/topic/8wXkuXXa2m6?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+16,北京依法对四家在线酒店旅游预订平台企业立案调查,,,https://readhub.cn/topic/8wXfBCWSaPr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+17,美国总统特朗普称即日起禁止 CNN 等三家媒体进入白宫,,,https://readhub.cn/topic/8wWu2oQdUaZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+18,Anthropic 推进 IPO 计划，估值将数周内增长,,,https://readhub.cn/topic/8wXGAZTPeI4?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+19,特朗普称伊朗战争将很快结束,,,https://readhub.cn/topic/8wXGAesMJmD?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+20,中国央行副行长陆磊称 AI 带来新型金融风险,,,https://readhub.cn/topic/8wWsbXRiEff?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+21,汇丰拟通过风险转移交易对冲数据中心贷款风险,,,https://readhub.cn/topic/8wWjKrAZkvP?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+22,同声传译大模型 Qwen3.8-LiveTranslate 正式发布,,,https://readhub.cn/topic/8wY1Kqs72vK?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+23,华为内部明确：问界未完全脱离鸿蒙智行渠道体系,,,https://readhub.cn/topic/8wWxbXioWGm?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+24,诺贝尔基金会宣布增加 2026 年诺奖奖金,,,https://readhub.cn/topic/8wWnbX4MmCO?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+25,谷歌 Gemini 在红队测试中首次自主发起网络攻击,,,https://readhub.cn/topic/8wXPT9GCNWi?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+26,MiniMax Code CLI 正式开源，在评测中取得 76.7% 的任务通过率,,,https://readhub.cn/topic/8wWk1O7pLFZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+27,宁德时代：9 月 18 日斥资 4.56 亿元回购 151.26 万股 A 股,,,https://readhub.cn/topic/8wWeJjZNLjw?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+28,疑似 Gemini 4 Pro 泄露，AI 竞赛未因呼吁减速停步,,,https://readhub.cn/topic/8wXhLlZLg05?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+29,应急管理部针对四川启动国家地质灾害四级应急响应,,,https://readhub.cn/topic/8wXxPpQliQo?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+30,何永贤：2030 年内要基本解决住宅内的劣质劏房问题,,,https://readhub.cn/topic/8wYClxfbVzg?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-19 20:28:40
+1,09.18 消息称 OpenAI 接近攻克霍奇猜想 12 条,,,https://readhub.cn/daily/2026-09-18,,Readhub,每日早报,daily,digest,2026-09-18,2026-09-19 20:28:40
+2,09.17 张一鸣首次成为亚洲首富 13 条,,,https://readhub.cn/daily/2026-09-17,,Readhub,每日早报,daily,digest,2026-09-17,2026-09-19 20:28:40
+3,09.16 苹果正式推送 iOS 27：Siri AI 全面升级 老款机型性能优化 17 条,,,https://readhub.cn/daily/2026-09-16,,Readhub,每日早报,daily,digest,2026-09-16,2026-09-19 20:28:40
+4,09.15 传高瓴 90 后合伙人严文韬加入 DeepSeek 出任 CFO 14 条,,,https://readhub.cn/daily/2026-09-15,,Readhub,每日早报,daily,digest,2026-09-15,2026-09-19 20:28:40
+5,09.14 Anthropic CEO 呼吁前沿 AI 限速，奥特曼、马斯克表态支持 9 条,,,https://readhub.cn/daily/2026-09-14,,Readhub,每日早报,daily,digest,2026-09-14,2026-09-19 20:28:40
+6,09.13 月之暗面报案：网传关于创始人及员工的信息系恶意造谣 10 条,,,https://readhub.cn/daily/2026-09-13,,Readhub,每日早报,daily,digest,2026-09-13,2026-09-19 20:28:40
+7,09.12 OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，因需求过大 12 条,,,https://readhub.cn/daily/2026-09-12,,Readhub,每日早报,daily,digest,2026-09-12,2026-09-19 20:28:40
+1,下一场生物安全危机，会和 AI 有关吗？,就在几天前，AI 研究员雅各布・考克森（Jacob Coxon）宣布离开 Anthropic，并指责 Anthropic 和他此前工作过的 OpenAI 都没有以足够负责任的方式开发 AI。当越来越强大的 AI 与越来越容易获取的生物技术结合在一起，风险也随之上升。在他看来，未来我们甚至可能不得不用 AI 来寻找限制 AI 的办法。 麻省理工科技评论 1 小时前,,https://www.mittrchina.com/news/detail/16980,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+2,Sam Altman 最新访谈：AI 越界之后，暂停还是继续？,独立 AI 评测机构 METR 公布调查报告，披露 OpenAI 的一批 AI 智能体在模型评估中出现罕见的越界行为：为完成测试任务，它们不仅把目标转向 Hugging Face，还发现并使用了一个未经批准的共享留言板，彼此交换信息，试图摸清评分系统的运行方式。在《财富》杂志的采访中，这起事件被带到了 OpenAI 首席执行官 Sam Altman 的访谈桌上。微软 AI 发布《人文主义 AI 行为准则》（Code of Conduct）征求意见稿，要求模型接受人类中断、纠正,,https://www.mittrchina.com/news/detail/16979,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+3,AI 越来越强，但我们仍不知道智能是否只是计算｜对话前 DeepMind 资深科学家曹原,从研究、产品到市场的经历，进一步深化了他对 AI 的思考 —— 当模型被真正部署、使用并创造价值时，我们该如何理解这种能力：它是智能本身，还是一种越来越强的计算与模拟。到了 AI 时代，这些问题被转换成了一种新的形式：人类智能中的哪些部分可以被计算所描述，计算能够在多大程度上刻画智能，又是否存在某些仅靠现有计算范式很难触及的部分。但相对来说，从计算理论、认知科学以及智能本身的结构出发，系统地研究智能与计算之间的关系，研究现有范式能够做到什么、不能做到什么，未来的 AI 技术应,,https://www.mittrchina.com/news/detail/16978,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+4,德睿智药发布生命科学基座模型体系 Intera，首个模型聚焦蛋白质与小分子结合构象预测,临床阶段 AI 驱动的新药研发科技公司德睿智药（MindRank）正式发布生命科学基座模型体系 Intera（Intelligence Era），并公布 InteraFold 系列首个模型 InteraFold-Chem 技术报告。本次发布的 InteraFold-Chem 主要聚焦蛋白质与小分子的结合构象预测，在药物研发中，这类结构信息可为研究人员分析分子作用方式、提出分子改造方案提供参考。按照公司披露的发布计划，德睿智药将于 2026 年第四季度推出 InteraFold,,https://hub.baai.ac.cn/view/58100,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+5,实时交互模型：一个还没形成共识的赛道，怎么就成了热门？,Runway 在传统视频生成模型之外，陆续推出实时角色 Characters、可交互世界 GWM Worlds，以及直接生成交互界面的 Solaris。也正因此，一些团队会将交互模型视为通往世界模型的早期形态，两者之间很难画出一条泾渭分明的边界。Reverie AI 更明确地把「交互模型」与视频生成模型、世界模型并列为三条路线。 智源社区 1 小时前,,https://hub.baai.ac.cn/view/58101,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+6,AGI 最难一战，竟在医院 中国 AI 登上 Science，医生不怕失业还催着上线,这个 AI「雷达」由阿里达摩院研发，过去几年团队用 AI 识别 CT 中肉眼难见的早期癌症病灶，在胰腺癌、胃癌、肠癌等专病上取得重大突破，发表 5 篇 Nature Medicine。这波对比共有来自 14 家医院的 26 名放射科医生参与，RADAR 和他们各自独立诊断同一批病例，结果 RADAR 的准确率超过了其中 23 名医生，只稍弱于 3 名资深医生。回过头看，从达摩院几年前用 PANDA 模型攻克胰腺癌筛查难题，到今天 RADAR 登上 Science，其实都是在求,,https://hub.baai.ac.cn/view/58089,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+7,GPT-5.6 被抓现行 偷教 AI 瞒报撒谎，OpenAI 曝光 6 起失控实录,就在今天，OpenAI 第一次建立了一套专门追踪、调查和公开披露 GPT「对齐失效」的机制。六个案例里，最值得一看的一个，直接发生在 GPT-5.6 Sol 训练期间。甚至，在监控统计中，GPT-5.6 Sol 有高达 2.15% 的摘要里，都带这种「教唆欺瞒」的倾向。 智源社区 3 小时前,,https://hub.baai.ac.cn/view/58098,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+8,流式推理优化，让机器人决策延迟低至 0.68 秒,通过复用历史计算，SimpleMemVLA 将 60 秒历史的决策延迟从 1.02 秒降至 0.68 秒，低于实测任务的 0.96 秒实时预算。这套精确流式推理流程与全量重算生成相同的子任务文本，但将共享历史的计算与动作执行重叠起来，减少了决策时的等待。在更长上下文的延迟测试中，约 45 分钟历史对应 245k token，全量重算需要 32.1 秒，而流式决策路径缩短至 1.18 秒。 智源社区 5 小时前,,https://hub.baai.ac.cn/view/58095,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+9,SpaceXAI 发布 Grok Voice Transcribe 2.0 语音转文本模型：错误率降低约一半，价格保持不变,官方表示，Grok Voice Transcribe 2.0 基于 Grok Voice 底层的音频基础模型构建。Grok Voice 已全面赋能实际业务：每天承接数万通客服电话，转录数百万小时的视频旁白，并驱动实体硬件中的各类语音智能体，其中包括特斯拉车辆中搭载的 Grok 助手。在 Artificial Analysis 榜单中，Grok Voice Transcribe 2.0 在全部 32 款流式模型中准确率高居榜首。 IT 之家 1 小时前,,https://www.ithome.com/1/004/534.htm,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
+10,中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B,官方表示，从训练芯片到推理部署，全栈国产 —— 昇腾训练、国产框架适配、自研架构、开源生态，一条路走通。从 SuperCLUE 评测结果来看，在智能体能力方面，Xing4.0-29B-A4B 得分 93.52，位列第 3 名，与两款头部 Qwen 模型的差距均不足 1 分。Xing4.0-29B-A4B 延续星辰大模型的开源路线，对主流开源生态做了全面兼容：支持 LLaMA-Factory、MindFormers 等微调架构。 IT 之家 1 小时前,,https://www.ithome.com/1/004/530.htm,,Readhub,AI 资讯,ai,digest,,2026-09-19 20:28:40
