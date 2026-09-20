@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-09-21 03:16:00
+> 更新时间：2026-09-21 04:19:58
 
 ## 日榜
 
@@ -19,11 +19,11 @@
 13. [学功夫练武术师傅教我扎马步](https://www.acfun.cn/v/ac48859874)
 14. [别只看第一部！《修罗雪姬2：怨恨的恋歌》撕开明治维新最肮脏的真相！](https://www.acfun.cn/v/ac48860619)
 15. [“墨西哥湾”变“美国湾”，世界地名到底谁说了算？](https://www.acfun.cn/v/ac48860453)
-16. [半生骄傲半生离别早 向谁叹知音少「归潮」翻唱](https://www.acfun.cn/v/ac48860805)
-17. [南通的小吃，真的“没有特色”吗？](https://www.acfun.cn/v/ac48861732)
-18. [超搞效公司（91）](https://www.acfun.cn/v/ac48860660)
+16. [南通的小吃，真的“没有特色”吗？](https://www.acfun.cn/v/ac48861732)
+17. [半生骄傲半生离别早 向谁叹知音少「归潮」翻唱](https://www.acfun.cn/v/ac48860805)
+18. [【搞笑/AI】大妈猎车手 -Grandma Theft Auto- 实机PLAY（伪）](https://www.acfun.cn/v/ac48861195)
 19. [【东方】猜拳大战【MMD小剧场】](https://www.acfun.cn/v/ac48858826)
-20. [【搞笑/AI】大妈猎车手 -Grandma Theft Auto- 实机PLAY（伪）](https://www.acfun.cn/v/ac48861195)
+20. [超搞效公司（91）](https://www.acfun.cn/v/ac48860660)
 21. [移船相近邀相见，添酒回灯重开宴【琵琶行】](https://www.acfun.cn/v/ac48861486)
 22. [《神女令》原创编舞](https://www.acfun.cn/v/ac48861633)
 23. [特斯拉无人出租车来了：没有方向盘、没有刹车、没有后视镜](https://www.acfun.cn/v/ac48860979)
@@ -39,8 +39,8 @@
 33. [【AI】恋爱的条件~Love Options](https://www.acfun.cn/v/ac48861989)
 34. [SISTAR-Shake it](https://www.acfun.cn/v/ac48859776)
 35. [艺术欣赏](https://www.acfun.cn/v/ac48859996)
-36. [1993邪典玄幻武侠：春秋五霸竟是绿帽王者？干将莫邪神兵传奇，尺度大胆老电影《将邪神剑》](https://www.acfun.cn/v/ac48861063)
-37. [【品城记】200块一只鸡！150块一条鱼！老板：嫌贵可以去其它地方吃！](https://www.acfun.cn/v/ac48845157)
+36. [【品城记】200块一只鸡！150块一条鱼！老板：嫌贵可以去其它地方吃！](https://www.acfun.cn/v/ac48845157)
+37. [1993邪典玄幻武侠：春秋五霸竟是绿帽王者？干将莫邪神兵传奇，尺度大胆老电影《将邪神剑》](https://www.acfun.cn/v/ac48861063)
 38. [你真的忘的了你的初恋情人吗？](https://www.acfun.cn/v/ac48860272)
 39. [【AI】傲慢扭胯](https://www.acfun.cn/v/ac48861979)
 40. [【AI】晚礼服~提线木偶](https://www.acfun.cn/v/ac48861990)
@@ -51,9 +51,9 @@
 45. [【逛吃大连】不吃海鲜也嘎嘎快乐！冷面夹臭豆腐！千层肉饭香晕了](https://www.acfun.cn/v/ac48860080)
 46. [【AI】肉感甜妹~Joker](https://www.acfun.cn/v/ac48861982)
 47. [【逛吃大连】传说中的大连商场一层都是吃的！各种熟食眼花缭乱！](https://www.acfun.cn/v/ac48860371)
-48. [【初音ミクV6 × 重音テトSV】magnet (流星P) 【Vocaloid SynthVカバー】](https://www.acfun.cn/v/ac48862070)
-49. [法语｜法国钢琴家国庆来华巡演](https://www.acfun.cn/v/ac48862043)
-50. [保重小师妹](https://www.acfun.cn/v/ac48860782)
+48. [绝顶性感黑丝【up&down】舞蹈翻跳](https://www.acfun.cn/v/ac48862258)
+49. [【初音ミクV6 × 重音テトSV】magnet (流星P) 【Vocaloid SynthVカバー】](https://www.acfun.cn/v/ac48862070)
+50. [法语｜法国钢琴家国庆来华巡演](https://www.acfun.cn/v/ac48862043)
 
 ## 三日榜
 
@@ -95,8 +95,8 @@
 36. [2026TGS商务日DAY 1](https://www.acfun.cn/v/ac48855621)
 37. [嘞个就是爱情【今天有什么好笑的 #2512】](https://www.acfun.cn/v/ac48860992)
 38. [小姐姐跳得好丝滑，软糯糯](https://www.acfun.cn/v/ac48858374)
-39. [一起喝一杯？【写真本】](https://www.acfun.cn/v/ac48858836)
-40. [草薙京叛逃组队八神庵？港漫逆天神作《KOF95》毁了谁的童年](https://www.acfun.cn/v/ac48860898)
+39. [草薙京叛逃组队八神庵？港漫逆天神作《KOF95》毁了谁的童年](https://www.acfun.cn/v/ac48860898)
+40. [一起喝一杯？【写真本】](https://www.acfun.cn/v/ac48858836)
 41. [厨师长分享：“焦溜肉段”的家常做法，外酥里嫩](https://www.acfun.cn/v/ac48860523)
 42. [凯龙的2026北京国际耳机展见闻](https://www.acfun.cn/v/ac48859804)
 43. [迈了一大步但扯到了裆，卧龙2A测有些劝退](https://www.acfun.cn/v/ac48859623)
@@ -125,8 +125,8 @@
 13. [【绘画过程】《Start！》](https://www.acfun.cn/v/ac48836992)
 14. [优雅永不过时！！！★手机竖屏2007★](https://www.acfun.cn/v/ac48855173)
 15. [是爱看的超模大赛！！！欢乐八点档-1773](https://www.acfun.cn/v/ac48849050)
-16. [《动物游戏行为图鉴》](https://www.acfun.cn/v/ac48857450)
-17. [跳最开心的一集](https://www.acfun.cn/v/ac48860571)
+16. [跳最开心的一集](https://www.acfun.cn/v/ac48860571)
+17. [《动物游戏行为图鉴》](https://www.acfun.cn/v/ac48857450)
 18. [这个也是真心喜欢！★手机竖屏2004★](https://www.acfun.cn/v/ac48847752)
 19. [你们喜欢哪一套？★手机竖屏2005★](https://www.acfun.cn/v/ac48850289)
 20. [误入女儿国！！！欢乐八点档-1772](https://www.acfun.cn/v/ac48846301)
@@ -143,10 +143,10 @@
 31. [你们内外皆钢，而我们化身钢铁！【达奇】战锤40K故事内容](https://www.acfun.cn/v/ac48856443)
 32. [微醺时刻！！！★手机竖屏2006★](https://www.acfun.cn/v/ac48852704)
 33. [网络上常见的热门短视频集锦   第三千四百二十九期](https://www.acfun.cn/v/ac48847758)
-34. [别脱，要的就是蜘蛛侠！★手机竖屏2003★](https://www.acfun.cn/v/ac48845366)
-35. [海洋公园一定要去啊！欢乐八点档-1776](https://www.acfun.cn/v/ac48856824)
-36. [一个非常西域的邯郸学步](https://www.acfun.cn/v/ac48849816)
-37. [喜欢哪套？](https://www.acfun.cn/v/ac48861422)
+34. [喜欢哪套？](https://www.acfun.cn/v/ac48861422)
+35. [别脱，要的就是蜘蛛侠！★手机竖屏2003★](https://www.acfun.cn/v/ac48845366)
+36. [海洋公园一定要去啊！欢乐八点档-1776](https://www.acfun.cn/v/ac48856824)
+37. [一个非常西域的邯郸学步](https://www.acfun.cn/v/ac48849816)
 38. [一拳一个Acer！欢乐八点档-1775](https://www.acfun.cn/v/ac48854481)
 39. [网络上常见的热门短视频集锦   第三千四百三十一期](https://www.acfun.cn/v/ac48850295)
 40. [还是少妇会啊！！！★手机竖屏2009★](https://www.acfun.cn/v/ac48859515)

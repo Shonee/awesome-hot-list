@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-21 03:16:16
+> 更新时间：2026-09-21 04:20:16
 
 ## 24 小时热榜
 
@@ -23,16 +23,16 @@
 17. [微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能「动手」执行](https://readhub.cn/topic/8wZhfygYibn?tab=daily)
 18. [TypeSafe AI 推出 Jev 模型：以概率输出赋能软件自动化降本增效](https://readhub.cn/topic/8wZGWmP8ag9?tab=daily)
 19. [东风人形机器人 10 月进工厂，明年年底能力拟与真人持平](https://readhub.cn/topic/8wZjsBl6fsa?tab=daily)
-20. [MiniMax 开源命令行 AI 编程工具 MiniMax Code CLI](https://readhub.cn/topic/8wZK6tyElSm?tab=daily)
-21. [GPT-6 Astra 联手人类攻克重大进展级数学难题](https://readhub.cn/topic/8wZU68eBvXe?tab=daily)
+20. [GPT-6 Astra 联手人类攻克重大进展级数学难题](https://readhub.cn/topic/8wZU68eBvXe?tab=daily)
+21. [MiniMax 开源命令行 AI 编程工具 MiniMax Code CLI](https://readhub.cn/topic/8wZK6tyElSm?tab=daily)
 22. [央视曝光回流药黑色产业链：司美格鲁肽成变质回流药重灾区](https://readhub.cn/topic/8wYuMOy6RHm?tab=daily)
 23. [华为旗下控股公司引望：将一如既往支持问界发展，全力保障用户服务与体验](https://readhub.cn/topic/8wZtpVbNVWx?tab=daily)
 24. [三家文生视频公司转型布局世界模型](https://readhub.cn/topic/8wZhfhHv0KX?tab=daily)
-25. [马斯克 Terafab 芯片厂未投产即陷商标纠纷](https://readhub.cn/topic/8wYbmewMc5s?tab=daily)
-26. [卢伟冰确认小米 18 Pro 系列将涨价](https://readhub.cn/topic/8wZsQIch7Jc?tab=daily)
+25. [英特尔关停旧漏洞赏金计划，新机制无现金奖励](https://readhub.cn/topic/8wYJxl4ewiG?tab=daily)
+26. [马斯克 Terafab 芯片厂未投产即陷商标纠纷](https://readhub.cn/topic/8wYbmewMc5s?tab=daily)
 27. [谷歌承认其 AI 模型在安全测试中侵入三家公司系统](https://readhub.cn/topic/8wYBL8f1Mp4?tab=daily)
 28. [古尔曼：苹果最早将于下月推出智能家居屏幕设备](https://readhub.cn/topic/8waBhvKDVWm?tab=daily)
-29. [英特尔关停旧漏洞赏金计划，新机制无现金奖励](https://readhub.cn/topic/8wYJxl4ewiG?tab=daily)
+29. [卢伟冰确认小米 18 Pro 系列将涨价](https://readhub.cn/topic/8wZsQIch7Jc?tab=daily)
 30. [腾讯元宝升级「AI 录音笔」：支持边录边拍及设备内录](https://readhub.cn/topic/8wZRxKivxF6?tab=daily)
 
 ## 每日早报
