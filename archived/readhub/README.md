@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-21 04:20:16
+> 更新时间：2026-09-21 05:18:29
 
 ## 24 小时热榜
 
@@ -13,10 +13,10 @@
 7. [华为 Mate 90 系列下周宣布，五款机型将登场](https://readhub.cn/topic/8wYIUnVyFfs?tab=daily)
 8. [西贝起诉罗永浩案即将开庭，大 V 理记质疑其借事重塑舆论](https://readhub.cn/topic/8wZeo816js1?tab=daily)
 9. [启元个人机器人近 2 万元起售，高配版价格贵于苹果折叠屏手机](https://readhub.cn/topic/8wZooWbXNzu?tab=daily)
-10. [Anthropic 推演 2030 年 AI 对美经济及就业的三种情景](https://readhub.cn/topic/8wZgxPESINP?tab=daily)
-11. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
-12. [长鑫科技宣布第五代技术平台正式量产](https://readhub.cn/topic/8wZSKEuutEU?tab=daily)
-13. [百度搭子用户规模环比增长 9 倍 企业版升级并启动生态共创](https://readhub.cn/topic/8wZo6zgcfGS?tab=daily)
+10. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
+11. [长鑫科技宣布第五代技术平台正式量产](https://readhub.cn/topic/8wZSKEuutEU?tab=daily)
+12. [百度搭子用户规模环比增长 9 倍 企业版升级并启动生态共创](https://readhub.cn/topic/8wZo6zgcfGS?tab=daily)
+13. [Anthropic 推演 2030 年 AI 对美经济及就业的三种情景](https://readhub.cn/topic/8wZgxPESINP?tab=daily)
 14. [苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜](https://readhub.cn/topic/8wZF5PLXd9c?tab=daily)
 15. [啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元](https://readhub.cn/topic/8wXuuj6jUtz?tab=daily)
 16. [Unity 推出 Claude Code 与 OpenAI Codex 官方插件，提供 31 项开发技能](https://readhub.cn/topic/8wZIfPMqrZt?tab=daily)
@@ -25,15 +25,15 @@
 19. [东风人形机器人 10 月进工厂，明年年底能力拟与真人持平](https://readhub.cn/topic/8wZjsBl6fsa?tab=daily)
 20. [GPT-6 Astra 联手人类攻克重大进展级数学难题](https://readhub.cn/topic/8wZU68eBvXe?tab=daily)
 21. [MiniMax 开源命令行 AI 编程工具 MiniMax Code CLI](https://readhub.cn/topic/8wZK6tyElSm?tab=daily)
-22. [央视曝光回流药黑色产业链：司美格鲁肽成变质回流药重灾区](https://readhub.cn/topic/8wYuMOy6RHm?tab=daily)
-23. [华为旗下控股公司引望：将一如既往支持问界发展，全力保障用户服务与体验](https://readhub.cn/topic/8wZtpVbNVWx?tab=daily)
+22. [华为旗下控股公司引望：将一如既往支持问界发展，全力保障用户服务与体验](https://readhub.cn/topic/8wZtpVbNVWx?tab=daily)
+23. [央视曝光回流药黑色产业链：司美格鲁肽成变质回流药重灾区](https://readhub.cn/topic/8wYuMOy6RHm?tab=daily)
 24. [三家文生视频公司转型布局世界模型](https://readhub.cn/topic/8wZhfhHv0KX?tab=daily)
 25. [英特尔关停旧漏洞赏金计划，新机制无现金奖励](https://readhub.cn/topic/8wYJxl4ewiG?tab=daily)
-26. [马斯克 Terafab 芯片厂未投产即陷商标纠纷](https://readhub.cn/topic/8wYbmewMc5s?tab=daily)
-27. [谷歌承认其 AI 模型在安全测试中侵入三家公司系统](https://readhub.cn/topic/8wYBL8f1Mp4?tab=daily)
-28. [古尔曼：苹果最早将于下月推出智能家居屏幕设备](https://readhub.cn/topic/8waBhvKDVWm?tab=daily)
-29. [卢伟冰确认小米 18 Pro 系列将涨价](https://readhub.cn/topic/8wZsQIch7Jc?tab=daily)
-30. [腾讯元宝升级「AI 录音笔」：支持边录边拍及设备内录](https://readhub.cn/topic/8wZRxKivxF6?tab=daily)
+26. [谷歌承认其 AI 模型在安全测试中侵入三家公司系统](https://readhub.cn/topic/8wYBL8f1Mp4?tab=daily)
+27. [古尔曼：苹果最早将于下月推出智能家居屏幕设备](https://readhub.cn/topic/8waBhvKDVWm?tab=daily)
+28. [卢伟冰确认小米 18 Pro 系列将涨价](https://readhub.cn/topic/8wZsQIch7Jc?tab=daily)
+29. [腾讯元宝升级「AI 录音笔」：支持边录边拍及设备内录](https://readhub.cn/topic/8wZRxKivxF6?tab=daily)
+30. [马斯克 Terafab 芯片厂未投产即陷商标纠纷](https://readhub.cn/topic/8wYbmewMc5s?tab=daily)
 
 ## 每日早报
 
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [RSI 开始走进科学研究，MIT 教授让 AI 自建物理研究工具](https://www.mittrchina.com/news/detail/16988)
-2. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制](https://www.mittrchina.com/news/detail/16987)
-3. [华为汪涛：华为要打造 AI 算力底座，只做好一颗芯片远远不够](https://hub.baai.ac.cn/view/58116)
-4. [微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」](https://www.aibase.com/zh/news/31201)
-5. [Nature：AI 重生到 1900，这一世抢先爱因斯坦提出光量子](https://hub.baai.ac.cn/view/58121)
-6. [走访十几家机器人公司后，知名华尔街研究机构判断：机器人正在逼近临界点](https://www.mittrchina.com/news/detail/16984)
-7. [对话 Memories.ai 沈俊潇：用视觉记忆驱动物理 AI 自进化](https://www.mittrchina.com/news/detail/16983)
-8. [GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者](https://www.aibase.com/zh/news/31195)
-9. [拿下开源生图第一，千问 Qwen-Image-2.1 把生图卷出新高度](https://news.qq.com/rain/a/20260920A0D50G00)
-10. [在南方医院，临床医生开始「造」AI 工具](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
+2. [Bun 用 AI 代理四个月将 53.5 万行 Zig 代码重写为 Rust](https://daily.dev/posts/bun-rewrites-535k-lines-of-zig-into-rust-in-four-months-eliminates-numerous-memory-leaks-rbhvdbhty)
+3. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制](https://www.mittrchina.com/news/detail/16987)
+4. [华为汪涛：华为要打造 AI 算力底座，只做好一颗芯片远远不够](https://hub.baai.ac.cn/view/58116)
+5. [微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」](https://www.aibase.com/zh/news/31201)
+6. [Nature：AI 重生到 1900，这一世抢先爱因斯坦提出光量子](https://hub.baai.ac.cn/view/58121)
+7. [走访十几家机器人公司后，知名华尔街研究机构判断：机器人正在逼近临界点](https://www.mittrchina.com/news/detail/16984)
+8. [对话 Memories.ai 沈俊潇：用视觉记忆驱动物理 AI 自进化](https://www.mittrchina.com/news/detail/16983)
+9. [GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者](https://www.aibase.com/zh/news/31195)
+10. [拿下开源生图第一，千问 Qwen-Image-2.1 把生图卷出新高度](https://news.qq.com/rain/a/20260920A0D50G00)
