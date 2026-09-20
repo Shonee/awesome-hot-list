@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-20 09:00:51
+> 更新时间：2026-09-20 09:34:24
 
 ## 最新帖子
 
@@ -18,12 +18,12 @@
 12. [点亮第一盏 LED：STM32 的 GPIO 到底在控制什么](https://www.cnblogs.com/zw-awa/p/23025590)
 13. [年薪128万美元：FDE 究竟是 AI 落地的船票，还是一张更贵的外包工牌？](https://www.cnblogs.com/xiaobaiysf/p/23037239)
 14. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
-15. [一文读懂 HarmonyOS 7.0 带来的十大API重要升级](https://www.cnblogs.com/aqi00/p/22883097)
-16. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
-17. [Oracle Property Graph 结合 In-Memory 的性能验证](https://www.cnblogs.com/jyzhao/p/23034788)
-18. [房产测绘面积计算全解析](https://www.cnblogs.com/charlee44/p/23032573)
-19. [LaTeX 公式转 PNG / SVG：几种实用方案和使用场景对比](https://www.cnblogs.com/dxzg/p/23032569)
-20. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
+15. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
+16. [Oracle Property Graph 结合 In-Memory 的性能验证](https://www.cnblogs.com/jyzhao/p/23034788)
+17. [房产测绘面积计算全解析](https://www.cnblogs.com/charlee44/p/23032573)
+18. [LaTeX 公式转 PNG / SVG：几种实用方案和使用场景对比](https://www.cnblogs.com/dxzg/p/23032569)
+19. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
+20. [企业 AI 最大的问题，不是数据不足，而是数据没有业务语义](https://www.cnblogs.com/xianxh/p/23032380)
 
 ## 精华帖子
 
