@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-20 21:18:44
+> 更新时间：2026-09-20 22:18:54
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
-2. [.NET 11 来了！ASP.NET Core 新特性全解析，HTTP/2/HTTP/3 这次真的变了](https://www.cnblogs.com/shanyou/p/23042166)
-3. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
-4. [又是一年了，那个“不务正业“的央企程序员](https://www.cnblogs.com/yubaolee/p/23042984/starganttdev)
-5. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
-6. [.net10+winform+Antdui 制作 LOL 小助手三](https://www.cnblogs.com/sc-Free-Die/p/23038354)
+1. [.NET 11 来了！ASP.NET Core 新特性全解析，HTTP/2/HTTP/3 这次真的变了](https://www.cnblogs.com/shanyou/p/23042166)
+2. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
+3. [又是一年了，那个“不务正业“的央企程序员](https://www.cnblogs.com/yubaolee/p/23042984/starganttdev)
+4. [.net10+winform+Antdui 制作 LOL 小助手三](https://www.cnblogs.com/sc-Free-Die/p/23038354)
+5. [如何快速上传10G文件](https://www.cnblogs.com/zrui-xyu/p/23043556)
+6. [Cloudflare 这个老功能，被 AI Coding 重新带火了](https://www.cnblogs.com/kaifazhinan/p/23040147/cloudflare-tunnels)

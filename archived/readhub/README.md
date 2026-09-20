@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-20 21:19:01
+> 更新时间：2026-09-20 22:19:11
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [贾国龙妻子质押西贝股权，网传西贝将倒闭遭否认](https://readhub.cn/topic/8wYObrjlHHX?tab=daily)
 10. [无输出仅做判断的 Jev 爆火，引 14 万开发者涌入](https://readhub.cn/topic/8wZU6BOmqiR?tab=daily)
 11. [中办、国办印发《关于分类推进高校改革的意见》](https://readhub.cn/topic/8wZqcS5xqI0?tab=daily)
-12. [华为 Mate 90 系列下周宣布，五款机型将登场](https://readhub.cn/topic/8wYIUnVyFfs?tab=daily)
-13. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
-14. [西贝起诉罗永浩案即将开庭，大 V 理记质疑其借事重塑舆论](https://readhub.cn/topic/8wZeo816js1?tab=daily)
-15. [长鑫科技宣布第五代技术平台正式量产](https://readhub.cn/topic/8wZSKEuutEU?tab=daily)
-16. [啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元](https://readhub.cn/topic/8wXuuj6jUtz?tab=daily)
+12. [阿里 Qoder 正式上线 Qoder Sites，可一键构建网页应用](https://readhub.cn/topic/8wZuZqQ9mwX?tab=daily)
+13. [华为 Mate 90 系列下周宣布，五款机型将登场](https://readhub.cn/topic/8wYIUnVyFfs?tab=daily)
+14. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
+15. [西贝起诉罗永浩案即将开庭，大 V 理记质疑其借事重塑舆论](https://readhub.cn/topic/8wZeo816js1?tab=daily)
+16. [长鑫科技宣布第五代技术平台正式量产](https://readhub.cn/topic/8wZSKEuutEU?tab=daily)
 17. [启元个人机器人近 2 万元起售，高配版价格贵于苹果折叠屏手机](https://readhub.cn/topic/8wZooWbXNzu?tab=daily)
 18. [Anthropic 推演 2030 年 AI 对美经济及就业的三种情景](https://readhub.cn/topic/8wZgxPESINP?tab=daily)
-19. [NASA 与波音洽谈星际客机执行 10 次以上新任务，距 2024 年故障滞留事件已两年](https://readhub.cn/topic/8wXDJgelj1E?tab=daily)
-20. [阿里 Qoder 正式上线 Qoder Sites，可一键构建网页应用](https://readhub.cn/topic/8wZuZqQ9mwX?tab=daily)
+19. [啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元](https://readhub.cn/topic/8wXuuj6jUtz?tab=daily)
+20. [NASA 与波音洽谈星际客机执行 10 次以上新任务，距 2024 年故障滞留事件已两年](https://readhub.cn/topic/8wXDJgelj1E?tab=daily)
 21. [苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜](https://readhub.cn/topic/8wZF5PLXd9c?tab=daily)
 22. [Unity 推出 Claude Code 与 OpenAI Codex 官方插件，提供 31 项开发技能](https://readhub.cn/topic/8wZIfPMqrZt?tab=daily)
-23. [美中央司令部：过去两月协助超 10 亿桶原油过霍尔木兹海峡](https://readhub.cn/topic/8wYQ22SRLoE?tab=daily)
-24. [TypeSafe AI 推出 Jev 模型：以概率输出赋能软件自动化降本增效](https://readhub.cn/topic/8wZGWmP8ag9?tab=daily)
-25. [腾讯首席人才官奚丹：腾讯支持基础科研的决心不会改变](https://readhub.cn/topic/8wXgcmnXUSj?tab=daily)
-26. [微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能「动手」执行](https://readhub.cn/topic/8wZhfygYibn?tab=daily)
-27. [GPT-6 Astra 联手人类攻克重大进展级数学难题](https://readhub.cn/topic/8wZU68eBvXe?tab=daily)
-28. [东风人形机器人 10 月进工厂，明年年底能力拟与真人持平](https://readhub.cn/topic/8wZjsBl6fsa?tab=daily)
-29. [MiniMax 开源命令行 AI 编程工具 MiniMax Code CLI](https://readhub.cn/topic/8wZK6tyElSm?tab=daily)
-30. [三家文生视频公司转型布局世界模型](https://readhub.cn/topic/8wZhfhHv0KX?tab=daily)
+23. [TypeSafe AI 推出 Jev 模型：以概率输出赋能软件自动化降本增效](https://readhub.cn/topic/8wZGWmP8ag9?tab=daily)
+24. [腾讯首席人才官奚丹：腾讯支持基础科研的决心不会改变](https://readhub.cn/topic/8wXgcmnXUSj?tab=daily)
+25. [微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能「动手」执行](https://readhub.cn/topic/8wZhfygYibn?tab=daily)
+26. [GPT-6 Astra 联手人类攻克重大进展级数学难题](https://readhub.cn/topic/8wZU68eBvXe?tab=daily)
+27. [东风人形机器人 10 月进工厂，明年年底能力拟与真人持平](https://readhub.cn/topic/8wZjsBl6fsa?tab=daily)
+28. [MiniMax 开源命令行 AI 编程工具 MiniMax Code CLI](https://readhub.cn/topic/8wZK6tyElSm?tab=daily)
+29. [三家文生视频公司转型布局世界模型](https://readhub.cn/topic/8wZhfhHv0KX?tab=daily)
+30. [央视曝光回流药黑色产业链：司美格鲁肽成变质回流药重灾区](https://readhub.cn/topic/8wYuMOy6RHm?tab=daily)
 
 ## 每日早报
 
@@ -56,4 +56,4 @@
 7. [对话 Memories.ai 沈俊潇：用视觉记忆驱动物理 AI 自进化](https://www.mittrchina.com/news/detail/16983)
 8. [GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者](https://www.aibase.com/zh/news/31195)
 9. [在南方医院，临床医生开始「造」AI 工具](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
-10. [阿里千问开源 Qwen-Image-2.1 图像模型：可生成、编辑透明图像，支持最多 10 张参考图](https://www.ithome.com/1/004/989.htm)
+10. [阿里千问开源 Qwen-Image-2.1 图像模型：可生成、编辑透明图像](https://www.donews.com/news/detail/1/6717686.html)
