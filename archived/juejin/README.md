@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-21 06:18:50
+> 更新时间：2026-09-21 07:18:06
 
 ## 热门文章
 
@@ -24,15 +24,15 @@
 18. [儿童免费学习网站大更新](https://juejin.cn/post/7686397150885855259)
 19. [AI 热点日报（2026-09-18）：华为昇腾960超节点发布，OpenAI 首次公开模型失准报告](https://juejin.cn/post/7686588753230364708)
 20. [造一个"录制回放 + LLM 自主操作手机"的 Android 自动化测试平台（一）整体架构与录制引擎](https://juejin.cn/post/7686389996108300338)
-21. [为什么最近开始关注 JEV？几个实战案例告诉你答案](https://juejin.cn/post/7686808742222856211)
-22. [从零到一跑通苍穹外卖：一个大二学生的暑假项目复盘](https://juejin.cn/post/7686376405304344628)
-23. [货拉拉开源Hadice：安卓 & 鸿蒙桌面调试工具](https://juejin.cn/post/7687209773675937818)
-24. [Jev 入门第一课](https://juejin.cn/post/7686925590315696138)
-25. [Spring AI、LangChain4j、AgentScope、Embabel，哪个AI框架更好？](https://juejin.cn/post/7687440193649033222)
+21. [Spring AI、LangChain4j、AgentScope、Embabel，哪个AI框架更好？](https://juejin.cn/post/7687440193649033222)
+22. [为什么最近开始关注 JEV？几个实战案例告诉你答案](https://juejin.cn/post/7686808742222856211)
+23. [从零到一跑通苍穹外卖：一个大二学生的暑假项目复盘](https://juejin.cn/post/7686376405304344628)
+24. [货拉拉开源Hadice：安卓 & 鸿蒙桌面调试工具](https://juejin.cn/post/7687209773675937818)
+25. [Jev 入门第一课](https://juejin.cn/post/7686925590315696138)
 26. [Jev来了，一个不会说话的AI模型正在改写自动化的规则](https://juejin.cn/post/7686762541280378889)
-27. [FDE：一个缩写，两种命运](https://juejin.cn/post/7686806089748693007)
-28. [从 0 到 1 搭建你的 AI Agent 平台：当 Agent 有了工厂，人人都能造同事](https://juejin.cn/post/7686588753231560740)
-29. [智谱 ZCode 静默上传 Git 历史：48 小时信任危机复盘](https://juejin.cn/post/7687441604429692955)
+27. [智谱 ZCode 静默上传 Git 历史：48 小时信任危机复盘](https://juejin.cn/post/7687441604429692955)
+28. [FDE：一个缩写，两种命运](https://juejin.cn/post/7686806089748693007)
+29. [从 0 到 1 搭建你的 AI Agent 平台：当 Agent 有了工厂，人人都能造同事](https://juejin.cn/post/7686588753231560740)
 30. [为什么全世界的 AI 都画不好一只骑自行车的鹈鹕](https://juejin.cn/post/7687439830713417737)
 31. [《潮水漫过十七岁》爸爸最近很忙](https://juejin.cn/post/7686674237757456422)
 32. [从终端里长出来的 IDE，oh-my-pi 到底是个什么东西](https://juejin.cn/post/7686462220679282738)
@@ -41,8 +41,8 @@
 35. [弃用 ZCode，转 DeepSeek Harness：我用 GitHub Actions 自建 Windows 打包的全实录](https://juejin.cn/post/7686780705862582278)
 36. [也许我们误解了DeepSeek-V4.1-Flash，罪魁祸首其实是它](https://juejin.cn/post/7686774294090383386)
 37. [我删掉了 29 个 AI Skill 里的 23 个：留下的 6 个都有同一个特点](https://juejin.cn/post/7686710853032165414)
-38. [AI 开始自己改进自己：智谱在十万卡集群上，让 AI 两周把效率提了 3 倍](https://juejin.cn/post/7686459441953046562)
-39. [独立 App 首发完成 iPhone Duo 展开态适配](https://juejin.cn/post/7686529021817143336)
+38. [独立 App 首发完成 iPhone Duo 展开态适配](https://juejin.cn/post/7686529021817143336)
+39. [AI 开始自己改进自己：智谱在十万卡集群上，让 AI 两周把效率提了 3 倍](https://juejin.cn/post/7686459441953046562)
 40. [作为面试官，我最怕遇到什么样的候选人？](https://juejin.cn/post/7686998011197145107)
 41. [实现一个图形编辑器](https://juejin.cn/post/7686803938519957514)
 42. [AI 幻觉导致的错误情报险些引发美军拦截中国船只](https://juejin.cn/post/7686780705862746118)
