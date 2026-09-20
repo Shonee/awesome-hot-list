@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-20 12:10:55
+> 更新时间：2026-09-20 12:28:47
 
 ## 7x24
 
@@ -32,7 +32,3 @@
 22. [今年前8个月，社会消费商品和服务零售总额同比增长2.5%](https://wallstreetcn.com/livenews/3167753)
 23. [特朗普提前返回白宫](https://wallstreetcn.com/livenews/3167752)
 24. [农业农村部、工业和信息化部联合印发《全国农业机械化发展“十五五”规划》](https://wallstreetcn.com/livenews/3167751)
-25. [最复杂、速度最快的分子计算机诞生，可实现100比特、连续25次不同运算](https://wallstreetcn.com/livenews/3167750)
-26. [雷军：小米18 Pro系列将于9月23日发布](https://wallstreetcn.com/livenews/3167749)
-27. [中国央行：今日开展320亿元7天逆回购操作，操作利率为1.40%。](https://wallstreetcn.com/livenews/3167748)
-28. [前8个月限售股转让所得个税增长59.7%](https://wallstreetcn.com/livenews/3167747)
