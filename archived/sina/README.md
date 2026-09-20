@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-20 22:19:30
-
-## 新闻热榜
-
-1. [北大、复旦校长，接连发出警告](https://news.sina.com.cn/c/2026-09-20/doc-inismvpe9326355.shtml)
-2. [会中文的法国“90后”前总理竞选总统，倒是没忘台湾是中国的一个省](https://news.sina.com.cn/o/2026-09-20/doc-inismrfc1755654.shtml)
-3. [让中国“自愿限制”汽车出口？中方：坚决反对，欧盟有关举措严重违反世贸组织规则](https://news.sina.com.cn/w/2026-09-20/doc-inismkxf1839751.shtml)
-4. [环球时报社评：一出肉麻政治双簧，揭了特奥多罗的老底](https://news.sina.com.cn/w/2026-09-20/doc-inisktzr2863248.shtml)
-5. [中东传来一个好消息](https://news.sina.com.cn/w/2026-09-20/doc-inismrfk6891275.shtml)
-6. [新西兰军舰过航台湾海峡，解放军全程跟监警戒](https://news.sina.com.cn/o/2026-09-20/doc-inismzuz2542371.shtml)
-7. [[新浪彩票]足彩第26131期任九：利兹联坐和望赢](https://sports.sina.com.cn/l/2026-09-20/doc-inismrfh9342650.shtml)
-8. [河南省委书记到少林寺管理处调研](https://news.sina.com.cn/c/2026-09-20/doc-inismvph6819238.shtml)
-9. [A股中长期利好！“三高”席卷全球，中国逆势突围的背后逻辑](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxi2677012.shtml)
-10. [刷新多项纪录！我国硬核科技与重大工程捷报频传](https://news.sina.com.cn/c/2026-09-20/doc-inismerq7115382.shtml)
-11. [董建华先生公祭仪式在香港举行](https://news.sina.com.cn/c/xl/2026-09-20/doc-inismzve6759140.shtml)
-12. [美方宣扬“永久控制”，丹麦否认“出让主权”，“格陵兰岛协议”谁是赢家？](https://news.sina.com.cn/w/2026-09-20/doc-inismkxk9419504.shtml)
-13. [伊朗已向美方提出停战条件](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxf1845029.shtml)
-14. [[新浪彩票]足彩26131期冷热指数：利物浦谨防平局](https://sports.sina.com.cn/l/2026-09-20/doc-inismrfk6897805.shtml)
-15. [局势突变！美国驻巴林、阿曼、阿联酋、沙特、卡塔尔、科威特、约旦、以色列、黎巴嫩等国使馆，突发警告](https://finance.sina.com.cn/roll/2026-09-20/doc-inismvpc2530393.shtml)
-16. [[新浪彩票]足彩第26131期大势：曼城大巴黎作胆](https://sports.sina.com.cn/l/2026-09-20/doc-inismrfk6895695.shtml)
-17. [诺丁汉森林造5.3倍冷负 足彩头奖开出19注44万](https://sports.sina.com.cn/l/2026-09-20/doc-inismrfk6898957.shtml)
-18. [[新浪彩票]足彩26131期盈亏指数：皇马德比防平](https://sports.sina.com.cn/l/2026-09-20/doc-inismrfk6897877.shtml)
-19. [特朗普说封就封，CNN记者到白宫只剩个证件套](https://news.sina.com.cn/w/2026-09-20/doc-inismrfc1738903.shtml)
-20. [突闻噩耗：传奇球星去世](https://news.sina.com.cn/w/2026-09-20/doc-inismrfk6915844.shtml)
-
-## 财经热榜
-
-1. [A股中长期利好！“三高”席卷全球，中国逆势突围的背后逻辑](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxi2677012.shtml)
-2. [美方宣扬“永久控制”，丹麦否认“出让主权”，“格陵兰岛协议”谁是赢家？](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxi2645076.shtml)
-3. [伊朗已向美方提出停战条件](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxf1845029.shtml)
-4. [局势突变！美国驻巴林、阿曼、阿联酋、沙特、卡塔尔、科威特、约旦、以色列、黎巴嫩等国使馆，突发警告](https://finance.sina.com.cn/roll/2026-09-20/doc-inismvpc2530393.shtml)
-5. [伊朗称已向美政府传达7项谈判条件](https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismkxf1822935.shtml)
-6. [11家中国厂商入局！iPhone Duo背后的大佬们](https://finance.sina.com.cn/stock/companyt/2026-09-20/doc-inismkxf1841373.shtml)
-7. [西贝否认倒闭！理记发文炮轰罗永浩：给贾国龙留条路](https://finance.sina.com.cn/roll/2026-09-20/doc-inismrff2643906.shtml)
-8. [男子拎起十几个西瓜砸摊主头部，对方全程没有起身还手，摊主父亲：事实上儿子平时脾气比较暴躁，最新进展：摊主已获近7万元赔偿](https://finance.sina.com.cn/wm/2026-09-20/doc-inismrfh9342698.shtml)
-9. [敲诈上海男子1亿元被曝光后，湖南邵阳两公安局长被免职](https://finance.sina.com.cn/stock/companyt/2026-09-19/doc-inismzve6751470.shtml)
-10. [李成钢任中华人民共和国国际贸易谈判代表（正部长级）](https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnhay9333209.shtml)
-11. [资金再次转向科技！超140亿元涌入这一方向](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxn6990403.shtml)
-12. [“一小时一个价”！MLCC价格飙涨，最高涨十倍](https://finance.sina.com.cn/stock/2026-09-20/doc-inismrfk6903843.shtml)
-13. [“9·24”行情即将两周年！下周迎重磅事件，A股怎么走？](https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inismvph6825113.shtml)
-14. [603061，半导体大牛股，逾百家机构调研！多只千亿市值科技股被盯上](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxn7012835.shtml)
-15. [中国公民及时避险、不要拍摄军事行动！我使馆紧急提醒](https://finance.sina.com.cn/wm/2026-09-19/doc-inisktzs9655663.shtml)
-16. [让中国“自愿限制”汽车出口？中方：坚决反对](https://finance.sina.com.cn/roll/2026-09-20/doc-inismrfk6918613.shtml)
-17. [城市更新下半场：得「情绪」者，得 2.7 万亿](https://finance.sina.com.cn/stock/estate/integration/2026-09-20/doc-inismkxn7007496.shtml)
-18. [莫迪突然对华连退三步，特朗普这次真是帮了中国一个大忙](https://finance.sina.com.cn/roll/2026-09-20/doc-inisktzr2877859.shtml)
-19. [市场监管总局发声！用组合拳整治“内卷式”竞争](https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismvpe9348283.shtml)
-20. [沙特首都“敏感目标”遭大量导弹袭击](https://finance.sina.com.cn/cj/2026-09-20/doc-inismrff2573676.shtml)
+> 更新时间：2026-09-20 22:22:13
 
 ## 7x24
 
