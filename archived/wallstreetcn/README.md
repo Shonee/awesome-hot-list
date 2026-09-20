@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-20 23:22:19
+> 更新时间：2026-09-20 23:34:05
 
 ## 7x24
 
@@ -36,6 +36,3 @@
 24. [上半年制造业人工智能重点场景应用普及率超34%](https://wallstreetcn.com/livenews/3167822)
 25. [赵乐际同澳大利亚联邦议会众议长迪克会谈](https://wallstreetcn.com/livenews/3167821)
 26. [赛力斯副总裁：问界“含华量”不降](https://wallstreetcn.com/livenews/3167820)
-27. [卡塔尔首相Majed al Ansari：（与伊朗战争相关的）调停方的目标是阻止伊朗战争、开放霍尔木兹海峡。（彭博电视）](https://wallstreetcn.com/livenews/3167819)
-28. [欧洲电力拍卖：北欧明日电价飙升超500%](https://wallstreetcn.com/livenews/3167817)
-29. [NAFTOGAZ：乌克兰国家石油天然气公司与匈牙利MOL签署关于为乌克兰建立战略燃料储备的备忘录。](https://wallstreetcn.com/livenews/3167816)
