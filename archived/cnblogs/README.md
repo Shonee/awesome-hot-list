@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-20 12:24:29
+> 更新时间：2026-09-20 13:20:15
 
 ## 最新帖子
 
@@ -52,7 +52,7 @@
 
 1. [很多年没更新博客了：从程序员到外贸，刚好又遇上了 AI 时代](https://www.cnblogs.com/aluna/p/23028697/from-programmer-to-foreign-trade)
 2. [微信和 VS Code 强强联合！WeChat AHP 来了](https://www.cnblogs.com/formulahendry/p/23036505)
-3. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
-4. [.NET 11 来了！ASP.NET Core 新特性全解析，HTTP/2/HTTP/3 这次真的变了](https://www.cnblogs.com/shanyou/p/23042166)
-5. [Codex 记忆机制的两条路](https://www.cnblogs.com/ai-old-six/p/23023802)
+3. [.NET 11 来了！ASP.NET Core 新特性全解析，HTTP/2/HTTP/3 这次真的变了](https://www.cnblogs.com/shanyou/p/23042166)
+4. [.NET 11 性能全解读：从 JIT 到基础库，这一版到底快了多少](https://www.cnblogs.com/shanyou/p/23032468)
+5. [又是一年了，那个“不务正业“的央企程序员](https://www.cnblogs.com/yubaolee/p/23042984/starganttdev)
 6. [从互联网到半导体：初入行业的迷茫，去与留的纠结](https://www.cnblogs.com/liudw-0215/p/23035616)
