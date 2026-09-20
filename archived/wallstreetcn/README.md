@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-20 23:07:58
+> 更新时间：2026-09-20 23:22:19
 
 ## 7x24
 
@@ -39,4 +39,3 @@
 27. [卡塔尔首相Majed al Ansari：（与伊朗战争相关的）调停方的目标是阻止伊朗战争、开放霍尔木兹海峡。（彭博电视）](https://wallstreetcn.com/livenews/3167819)
 28. [欧洲电力拍卖：北欧明日电价飙升超500%](https://wallstreetcn.com/livenews/3167817)
 29. [NAFTOGAZ：乌克兰国家石油天然气公司与匈牙利MOL签署关于为乌克兰建立战略燃料储备的备忘录。](https://wallstreetcn.com/livenews/3167816)
-30. [俄美计划未来几周内举行新一轮会谈](https://wallstreetcn.com/livenews/3167815)
