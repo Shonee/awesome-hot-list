@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-20 11:27:20
+> 更新时间：2026-09-20 12:25:56
 
 ## Hottest
 
@@ -13,19 +13,19 @@
 7. [kicking the tires on jev (TypeSafe's System One model) with 2048](https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb)
 8. [What happens to TLDs when their country stops existing? (2022)](https://astrid.tech/2022/04/05/0/dead-tlds/)
 9. [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
-10. [Reviving the language that brought us the Jak & Daxter Series](https://opengoal.dev/)
-11. [Write while learning](https://purplesyringa.moe/blog/write-while-learning/)
-12. [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
+10. [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
+11. [Reviving the language that brought us the Jak & Daxter Series](https://opengoal.dev/)
+12. [Quarkdown: Turing-complete Markdown typesetting system](https://github.com/iamgio/quarkdown)
 13. [Thread-identity switcheroo for io_uring](https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/)
-14. [Typst makes big strides](https://lwn.net/Articles/1092993/)
-15. [CleanShot’s bulldozed settings](https://unsung.aresluna.org/cleanshots-bulldozed-settings/)
-16. [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+14. [Write while learning](https://purplesyringa.moe/blog/write-while-learning/)
+15. [Typst makes big strides](https://lwn.net/Articles/1092993/)
+16. [CleanShot’s bulldozed settings](https://unsung.aresluna.org/cleanshots-bulldozed-settings/)
 17. [Faster JSON parsing with SVE2 on ARM processors](https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/)
-18. [LispBM: Concurrent Lisp for Microcontrollers](https://www.lispbm.com/)
-19. [There's no point at which turning your brain off will work](https://danluu.com/brain-off/)
-20. [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
-21. [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
-22. [Persistent Databases in the Browser with DuckDB-Wasm and OPFS](https://duckdb.org/2026/09/18/opfs-wasm)
-23. [ZK-JPEG: Zero-knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
-24. [Grit your teeth and ship it](https://www.seangoedecke.com/grit-your-teeth-and-ship-it/)
-25. [Secure VMs for Kubernetes: Hardening Kata containers](https://srcreigh.ca/posts/auditable-kata/)
+18. [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+19. [Union vs sum types](https://viralinstruction.com/posts/uniontypes/)
+20. [LispBM: Concurrent Lisp for Microcontrollers](https://www.lispbm.com/)
+21. [There's no point at which turning your brain off will work](https://danluu.com/brain-off/)
+22. [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+23. [Persistent Databases in the Browser with DuckDB-Wasm and OPFS](https://duckdb.org/2026/09/18/opfs-wasm)
+24. [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
+25. [RSA-896 Factored](https://saweis.net/posts/rsa-896.html)
