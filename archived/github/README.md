@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-20 06:26:36
+> 更新时间：2026-09-20 12:33:10
 
 ## 每日趋势
 
@@ -163,13 +163,14 @@
 6. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 7. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 8. [tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
-9. [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
-10. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
-11. [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)
-12. [ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
-13. [lx-music-source](https://github.com/pdone/lx-music-source)
-14. [fleetbase](https://github.com/fleetbase/fleetbase)
-15. [TradingView-API](https://github.com/Mathieu2301/TradingView-API)
-16. [lavish-axi](https://github.com/kunchenguid/lavish-axi)
-17. [everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)
-18. [react](https://github.com/react/react)
+9. [codex-router](https://github.com/duolahypercho/codex-router)
+10. [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+11. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+12. [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)
+13. [ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
+14. [lx-music-source](https://github.com/pdone/lx-music-source)
+15. [fleetbase](https://github.com/fleetbase/fleetbase)
+16. [TradingView-API](https://github.com/Mathieu2301/TradingView-API)
+17. [lavish-axi](https://github.com/kunchenguid/lavish-axi)
+18. [everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)
+19. [react](https://github.com/react/react)
