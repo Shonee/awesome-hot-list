@@ -1,51 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-21 02:24:05
-
-## 新闻热榜
-
-1. [德国总理默茨：国家行政体系已变得过于复杂。](https://finance.sina.com.cn/7x24/2026-09-21/doc-inispchq9121078.shtml)
-2. [俄罗斯国防部称，乌克兰武装部队试图动用无人机以及“火烈鸟”导弹发动大规模袭击，破坏俄罗斯公民在9月19日至20日选举中的投票。](https://finance.sina.com.cn/7x24/2026-09-21/doc-inispchq9134334.shtml)
-3. [美国债市：美债追随欧洲债市下跌 收益率曲线走平](https://finance.sina.com.cn/world/2026-09-19/doc-inishvks8093161.shtml)
-4. [8月用电量再破万亿千瓦时 新业态成用电增量重要来源](https://finance.sina.com.cn/7x24/2026-09-21/doc-inispchq9129245.shtml)
-5. [电子信息产业园消防维修工程中标公告](https://finance.sina.com.cn/roll/2026-09-20/doc-inisnnkt1440271.shtml)
-6. [钟南山：全世界没有特效药！1岁以下婴儿家长警惕，即将进入流行高峰……](https://finance.sina.com.cn/roll/2026-09-20/doc-inisnssu9215568.shtml)
-7. [今天起，装修、交物业费也可提取公积金！](https://finance.sina.com.cn/wm/2026-09-20/doc-inisnnkw9245064.shtml)
-8. [邀请函 | “创投中国”科创路演厅新能源专场](https://finance.sina.com.cn/wm/2026-09-20/doc-inisnnkt1426233.shtml)
-9. [今天起，装修、交物业费都能用这笔钱了](https://finance.sina.com.cn/wm/2026-09-20/doc-inisnnkw9276532.shtml)
-10. [京蒙协作30年成果展暨产业交流合作活动在京成功举办](https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnssr1391483.shtml)
-11. [莫斯科市长称该市遭“最大规模袭击”，泽连斯基发声](https://news.sina.com.cn/w/2026-09-20/doc-inisnnkt1447732.shtml)
-12. [周末，利好来了！北京，重磅发文](https://finance.sina.com.cn/stock/zqgd/2026-09-20/doc-inisnsst2508708.shtml)
-13. [这也太业余了！亚运会官网将王楚钦比分弄反，3-0获胜变成0-3输球](https://news.sina.com.cn/zx/2026-09-20/doc-inisnnkt1452357.shtml)
-14. [AI巨头，爆雷！长鑫科技，重磅发布！上交所出手：暂停！本周申购“光”和“芯”，影响一周市场的十大消息](https://finance.sina.com.cn/stock/zqgd/2026-09-20/doc-inisnnkw9264612.shtml)
-15. [董建华先生公祭仪式在香港举行](https://news.sina.com.cn/c/xl/2026-09-20/doc-inismzve6759140.shtml)
-16. [A股中长期利好！“三高”席卷全球，中国逆势突围的背后逻辑](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxi2677012.shtml)
-17. [敲诈上海男子1亿元被曝光后，湖南邵阳两公安局长被免职](https://finance.sina.com.cn/stock/companyt/2026-09-19/doc-inismzve6751470.shtml)
-18. [新西兰军舰过航台湾海峡，解放军全程跟监警戒](https://news.sina.com.cn/o/2026-09-20/doc-inismzuz2542371.shtml)
-19. [“请3休13”超长版黄金周即将开启：长线游与奔县深度游同步升温，“一程多城”成新玩法](https://news.sina.com.cn/c/2026-09-20/doc-inisnhav1519775.shtml)
-20. [五角大楼“披萨指数”飙升！特朗普提前返回白宫](https://news.sina.com.cn/w/2026-09-21/doc-inispchq9111335.shtml)
-
-## 财经热榜
-
-1. [特朗普称将组建一支“人工智能部队”](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxf1829096.shtml)
-2. [沙特首都“敏感目标”遭大量导弹袭击](https://finance.sina.com.cn/cj/2026-09-20/doc-inismrff2573676.shtml)
-3. [文明不文明！湖南证监局披露：中泰证券湖南分公司前领导杨文明代客理财，交易25亿亏9206万！](https://finance.sina.com.cn/stock/companyt/2026-09-20/doc-inismrfk6922437.shtml)
-4. [长鑫科技宣布第五代技术平台正式量产](https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismvpe9383661.shtml)
-5. [100万房贷月供少636元，总利息多20万！多家银行落地40年房贷，有银行设45岁年龄门槛](https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismrff2565564.shtml)
-6. [下周，“高中签率”新股来了](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxi2678987.shtml)
-7. [重磅！“美国已准备好与伊朗进行谈判并达成协议”，伊朗开出7项谈判条件！原油暗盘直线跳水！](https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismkxn7016229.shtml)
-8. [电梯行业重磅利好！概念股来了 龙头股今年已涨近100%](https://finance.sina.com.cn/stock/bxjj/2026-09-20/doc-inismkxk9409685.shtml)
-9. [全行业都在AI里狂奔，OPPO陈明永为什么劝大家 “慢下来”？](https://finance.sina.com.cn/wm/2026-09-20/doc-inismrff2599144.shtml)
-10. [名古屋亚运会官方金牌榜更新，中国体育代表团漏算的金牌被“补上”，但又把中国队夺金选手名字写错了](https://finance.sina.com.cn/wm/2026-09-20/doc-inisnnky6620815.shtml)
-11. [黄仁勋，减持！](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxn7013158.shtml)
-12. [贾国龙妻子质押西贝股权，数额约540万元](https://finance.sina.com.cn/stock/2026-09-20/doc-inismrfk6933431.shtml)
-13. [003031，突然火了！机构扎堆调研半导体产业链](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxf1851633.shtml)
-14. [周末要闻汇总：国常会部署深入实施积极应对人口老龄化国家战略](https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnnkv2465026.shtml)
-15. [伊朗被曝愿意重返外交途径以结束战争，前提是“美国展现出诚意”](https://finance.sina.com.cn/roll/2026-09-20/doc-inismkxn7002291.shtml)
-16. [说到做到！西贝被曝已起诉罗永浩，即将开庭](https://finance.sina.com.cn/chanjing/gsnews/2026-09-20/doc-inisnhav1512832.shtml)
-17. [飞猪、同程、途家、美团回应被立案调查](https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismrff2616832.shtml)
-18. [土耳其外交部长：我方已向乌克兰、俄罗斯提交黑海停火提议，静待两国回复。](https://finance.sina.com.cn/7x24/2026-09-20/doc-iniskyiq9595252.shtml)
-19. [公积金，今起大变化](https://finance.sina.com.cn/stock/2026-09-20/doc-inismrfc1726602.shtml)
+> 更新时间：2026-09-21 02:27:29
 
 ## 7x24
 
