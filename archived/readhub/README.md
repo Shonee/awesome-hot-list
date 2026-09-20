@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-21 01:17:18
+> 更新时间：2026-09-21 02:23:53
 
 ## 24 小时热榜
 
@@ -21,15 +21,15 @@
 15. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
 16. [启元个人机器人近 2 万元起售，高配版价格贵于苹果折叠屏手机](https://readhub.cn/topic/8wZooWbXNzu?tab=daily)
 17. [长鑫科技宣布第五代技术平台正式量产](https://readhub.cn/topic/8wZSKEuutEU?tab=daily)
-18. [Anthropic 推演 2030 年 AI 对美经济及就业的三种情景](https://readhub.cn/topic/8wZgxPESINP?tab=daily)
+18. [用 AI「复活」家人，似乎不是个好生意](https://readhub.cn/topic/8wZqJ36oCLb?tab=daily)
 19. [百度搭子用户规模环比增长 9 倍 企业版升级并启动生态共创](https://readhub.cn/topic/8wZo6zgcfGS?tab=daily)
-20. [苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜](https://readhub.cn/topic/8wZF5PLXd9c?tab=daily)
-21. [啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元](https://readhub.cn/topic/8wXuuj6jUtz?tab=daily)
-22. [iPhone 18 Pro 上市首日出现死机问题 苹果回应正调查](https://readhub.cn/topic/8wZbFCUl7kk?tab=daily)
-23. [Unity 推出 Claude Code 与 OpenAI Codex 官方插件，提供 31 项开发技能](https://readhub.cn/topic/8wZIfPMqrZt?tab=daily)
-24. [TypeSafe AI 推出 Jev 模型：以概率输出赋能软件自动化降本增效](https://readhub.cn/topic/8wZGWmP8ag9?tab=daily)
+20. [Anthropic 推演 2030 年 AI 对美经济及就业的三种情景](https://readhub.cn/topic/8wZgxPESINP?tab=daily)
+21. [iPhone 18 Pro 上市首日出现死机问题 苹果回应正调查](https://readhub.cn/topic/8wZbFCUl7kk?tab=daily)
+22. [苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜](https://readhub.cn/topic/8wZF5PLXd9c?tab=daily)
+23. [啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元](https://readhub.cn/topic/8wXuuj6jUtz?tab=daily)
+24. [Unity 推出 Claude Code 与 OpenAI Codex 官方插件，提供 31 项开发技能](https://readhub.cn/topic/8wZIfPMqrZt?tab=daily)
 25. [东风人形机器人 10 月进工厂，明年年底能力拟与真人持平](https://readhub.cn/topic/8wZjsBl6fsa?tab=daily)
-26. [用 AI「复活」家人，似乎不是个好生意](https://readhub.cn/topic/8wZqJ36oCLb?tab=daily)
+26. [TypeSafe AI 推出 Jev 模型：以概率输出赋能软件自动化降本增效](https://readhub.cn/topic/8wZGWmP8ag9?tab=daily)
 27. [微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能「动手」执行](https://readhub.cn/topic/8wZhfygYibn?tab=daily)
 28. [腾讯首席人才官奚丹：腾讯支持基础科研的决心不会改变](https://readhub.cn/topic/8wXgcmnXUSj?tab=daily)
 29. [GPT-6 Astra 联手人类攻克重大进展级数学难题](https://readhub.cn/topic/8wZU68eBvXe?tab=daily)
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [RSI 开始走进科学研究，MIT 教授让 AI 自建物理研究工具 马库斯将这种给定科学问题、由 AI 自主设计工具、交付智能体集群使用并得出可靠结论的研究范式命名为「递归元智能」（Recursive Meta-Intelligence），认为它是通往「科学超级智能」（scientific superintelligence，指在科学发现层面具备远超人类能力的 AI）的雏形。另一条是论文生成型，代表产品包括日本公司 Sakana AI 推出的 AI 科学家二代、新加坡 AI 公司 Analemma 推出的全自动化研究系统等，这些工具将闭环部署在机器学习领域内部，交付成果是可用于提交同行评审的论文。研究展示只涉及「从 AI 造仪器到 AI 群体用仪器」，想实现真正的递归元智能，还要看 AI 能否在使用仪器后主动参与反馈，对工具进行有效改进。 麻省理工科技评论 6 小时前](https://www.mittrchina.com/news/detail/16988)
-2. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制 一旦其中混入新的命令，接手的模型就可能把模型自创的要求当成用户或开发者留下的真实指令。OpenAI 在一次未发布 Astra 系列模型的训练中，找到 27 份类似越狱的摘要。前两组关注单个任务如何继续，最后两份报告把问题推进到模型之间：当所需文件无法取得，或者协作者之间传不了文件，模型会不会自行建立新的通信渠道。 麻省理工科技评论 9 小时前](https://www.mittrchina.com/news/detail/16987)
-3. [华为汪涛：华为要打造 AI 算力底座，只做好一颗芯片远远不够 谈到华为在这一轮算力竞争中的位置，汪涛的判断很鲜明：「要做好这么大的超节点集群，需要通信技术、IP、光模块、算力、系统，华为干了 30 年，每个领域都有长期大规模研发投资」。它需要在现有工艺条件下，把性能提升的空间继续往芯片之外延伸，通过封装、互联、光通信、系统架构和软件协同等多层优化，尽可能放大整体算力效率，缩小与国际领先 AI 芯片和计算系统之间的差距。华为想守住的，也正是这个位置 —— 把中国 AI 需要的算力底座做厚，为国内模型公司的训练、推理和持续迭代提供充足、稳定的算力支撑。 智源社区 9 小时前](https://hub.baai.ac.cn/view/58116)
-4. [微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」 微信 AI 团队正式开源了知识管理框架 WeKnora（维娜拉），最新发布的 0.8.0 版本已全面面向公众开放使用。WeKnora 想解决的是大模型落地时最现实的问题 —— 知识躺在文档里，模型说得头头是道，但要把它们变成可验证的结果，中间缺一双手脚。知识库中的内容可以被封装成「技能」，运行在 Docker、E2B、CubeSandbox 等沙箱环境里 —— 这意味着知识不只是被「读到」，而是能被安全地「执行」。 AIBase 8 小时前](https://www.aibase.com/zh/news/31201)
-5. [Nature：AI 重生到 1900，这一世抢先爱因斯坦提出光量子 如果把 AI 送回 1911 年，只让它掌握爱因斯坦所能了解的知识，AI 能否在 4 年后的 1915 年提出相对论？哈萨比斯真正想考的，是 AI 能不能仅以 1911 年的知识水平，直面当时的知识和物理难题，自己提出一套新的解释框架，并完成一套超出训练材料的推理，而不是只会照着答案复读。今年 3 月，独立研究者 Michael Hla 把知识截止时间进一步提前到 1900 年，并从零训练了一个历史语言模型 GPT-1900，试图让它重新发现光量子、狭义相对论和广义相对论。 智源社区 6 小时前](https://hub.baai.ac.cn/view/58121)
-6. [走访十几家机器人公司后，知名华尔街研究机构判断：机器人正在逼近临界点 美国机器人公司 Figure AI 把机器人分拣包裹的过程连续直播了九天。带着这个问题，一向擅长实地调研的投资研究机构 Citrini Research 的分析师走访了旧金山湾区十几家机器人实验室和企业，观察机器人的实际表现，不断向工程师和投资人追问美国机器人产业的现状。看过眼下的机器人之后，报告归纳出四个关于未来的判断：人形机器人的基础运动能力已相对成熟，硬件会继续降价。 麻省理工科技评论 14 小时前](https://www.mittrchina.com/news/detail/16984)
-7. [对话 Memories.ai 沈俊潇：用视觉记忆驱动物理 AI 自进化 DeepTech 在硅谷再次与沈俊潇对话，他对公司的组织方式，对视觉记忆和物理 AI 的判断，都进一步收敛至更清晰的维度。沈俊潇告诉 DeepTech，「我们讲的记忆更多是关于世界的记忆」，目标是让机器人和物理智能系统在部署到新场景时，能够依靠积累的视觉经验自我修正、自我提升，最终达到「物理世界的递归自我进化」（Physical RSI）。沈俊潇对物理 AI 自进化的预期是，公司为客户部署视觉理解模型时，初始准确率大概在 70%，后续通过模型自我进化，准确率可以升至接近 90%。 麻省理工科技评论 14 小时前](https://www.mittrchina.com/news/detail/16983)
-8. [GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者 在全球顶级 AI 数学基准 FrontierMath 上，一道悬了九年、自 2017 年就被抛出的「重大进展」级开放难题被拿下 —— 而这次的功臣是 GPT-6 Astra 与三位人类研究员的人机组合。题目问的是批准式委员会选举里「核是否为空」，本意是寻找「核为空」的反例，GPT-6 Astra 却反过来证明：这样的反例根本不存在，也就是说绝对公平的委员会在任何情况下都必定存在。这是 AI 头一回摘下「重大进展」级数学难题，意义不只是多解了一道题。 AIBase 10 小时前](https://www.aibase.com/zh/news/31195)
-9. [拿下开源生图第一，千问 Qwen-Image-2.1 把生图卷出新高度 本周日，阿里千问正式开源图片生成模型 Qwen-Image-2.1，以小模型的体量解决了大部分生产力难题：它实现了文生图与图像编辑一体化，原生支持透明图生成，最高可以接收 10 张参考图，还进一步强化了局部编辑、人像与商品保真。公开评测结果显示，Qwen-Image-2.1 取得开源模型第一，得分甚至超过了 Nano Banana 2.0。我们可以大胆预测下，随着 Qwen-Image-2.1 这类图像模型的开源，社区还会进一步把生成与编辑能力融入更多内容制作场景，让更多人用上适合自己需求的创作工具。 腾讯网 2 小时前](https://news.qq.com/rain/a/20260920A0D50G00)
-10. [在南方医院，临床医生开始「造」AI 工具 其核心组件 Nexent 智能体平台以零代码、可视化的方式，让医生无需编程，仅用自然语言描述临床逻辑，就能生成智能体原型 —— 许多过去根本不可能被提上日程的临床创新，突然变成了医生当天就能验证的想法。更根本的障碍在于沟通：做数据采集的不懂 AI，做 AI 的不懂业务流，医生脑子里有完整的临床逻辑，工程师却需要花很长时间才能理解那些细微的诊疗决策节点。医疗是一个容错率极低的行业，南方医院的医生们在开发过程中，也始终保持着对严谨性的坚持：aHUS 智能体严格限定知识库只检索权威文献，设置多智能体交叉验证和医生终审。 雷锋网 13 小时前](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
+1. [RSI 开始走进科学研究，MIT 教授让 AI 自建物理研究工具](https://www.mittrchina.com/news/detail/16988)
+2. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制](https://www.mittrchina.com/news/detail/16987)
+3. [华为汪涛：华为要打造 AI 算力底座，只做好一颗芯片远远不够](https://hub.baai.ac.cn/view/58116)
+4. [微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」](https://www.aibase.com/zh/news/31201)
+5. [Nature：AI 重生到 1900，这一世抢先爱因斯坦提出光量子](https://hub.baai.ac.cn/view/58121)
+6. [走访十几家机器人公司后，知名华尔街研究机构判断：机器人正在逼近临界点](https://www.mittrchina.com/news/detail/16984)
+7. [对话 Memories.ai 沈俊潇：用视觉记忆驱动物理 AI 自进化](https://www.mittrchina.com/news/detail/16983)
+8. [GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者](https://www.aibase.com/zh/news/31195)
+9. [拿下开源生图第一，千问 Qwen-Image-2.1 把生图卷出新高度](https://news.qq.com/rain/a/20260920A0D50G00)
+10. [在南方医院，临床医生开始「造」AI 工具](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
