@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-21 00:24:48
+> 更新时间：2026-09-21 00:35:30
 
 ## 7x24
 
@@ -22,4 +22,3 @@
 12. [卡塔尔航空公司：伊朗战争是我司历史上面临的“头等危机”。](https://wallstreetcn.com/livenews/3167838)
 13. [美国财长为美元资产辩护](https://wallstreetcn.com/livenews/3167837)
 14. [造谣宁德时代宜宾基地班长不让普通员工上厕所，林某某被行拘](https://wallstreetcn.com/livenews/3167835)
-15. [特朗普称将对伊朗作出重大决定](https://wallstreetcn.com/livenews/3167834)
