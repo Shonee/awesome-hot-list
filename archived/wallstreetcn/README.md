@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-20 17:48:01
+> 更新时间：2026-09-20 18:08:49
 
 ## 7x24
 
@@ -12,5 +12,3 @@
 6. [盛和资源：控股股东不存在拟对外转让公司控股权的情形](https://wallstreetcn.com/livenews/3167789)
 7. [军事冲突或“迅速升级”，美国针对中东地区发布新的安全警报](https://wallstreetcn.com/livenews/3167788)
 8. [剪映发布多端AI新功能，推出“AI Ultra”订阅制](https://wallstreetcn.com/livenews/3167786)
-9. [香港财政司司长陈茂波：会进一步扩大点心债市场、发展人民币计价的黄金及大宗商品市场](https://wallstreetcn.com/livenews/3167785)
-10. [俄军称夜间击落超千架乌军无人机](https://wallstreetcn.com/livenews/3167784)
