@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-21 00:09:24
+> 更新时间：2026-09-21 00:24:48
 
 ## 7x24
 
@@ -23,7 +23,3 @@
 13. [美国财长为美元资产辩护](https://wallstreetcn.com/livenews/3167837)
 14. [造谣宁德时代宜宾基地班长不让普通员工上厕所，林某某被行拘](https://wallstreetcn.com/livenews/3167835)
 15. [特朗普称将对伊朗作出重大决定](https://wallstreetcn.com/livenews/3167834)
-16. [橡树资本：希望美联储少点干预，少说点话](https://wallstreetcn.com/livenews/3167832)
-17. [美国总统特朗普科技顾问Michael Kratsios：AI领袖们无需某个人来放慢（AI模型开发）节奏。
-
-美国工具箱中有工具来应对AI安全问题。（福克斯新闻）](https://wallstreetcn.com/livenews/3167830)
