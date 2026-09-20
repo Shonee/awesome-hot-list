@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-20 15:26:21
+> 更新时间：2026-09-20 15:37:45
 
 ## 7x24
 
@@ -10,5 +10,3 @@
 4. [国内首个 “首箭首星” 一体化算力卫星 “超智算一号” 成功发射](https://wallstreetcn.com/livenews/3167781)
 5. [工信部：大力发展开源基座模型和垂类模型，夯实新一代智能制造软硬件基础](https://wallstreetcn.com/livenews/3167780)
 6. [土耳其称或将向沙特提供帮助](https://wallstreetcn.com/livenews/3167779)
-7. [全球首个大型具身智能主题乐园将于9月24日启幕](https://wallstreetcn.com/livenews/3167778)
-8. [我国一箭9星发射成功](https://wallstreetcn.com/livenews/3167777)
