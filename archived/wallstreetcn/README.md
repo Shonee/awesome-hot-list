@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-21 01:07:55
+> 更新时间：2026-09-21 01:20:42
 
 ## 7x24
 
@@ -13,7 +13,3 @@
 5. [特朗普：也门胡塞武装同意不与美国交战](https://wallstreetcn.com/livenews/3167850)
 6. [卡塔尔首相：也门胡塞武装加剧地区紧张局势的做法“是不负责任的”。](https://wallstreetcn.com/livenews/3167847)
 7. [格陵兰岛民众担心美国获得“独占权”](https://wallstreetcn.com/livenews/3167846)
-8. [地中海航运（MSC）是德国国有迈尔船厂股权的潜在收购方之一。](https://wallstreetcn.com/livenews/3167845)
-9. [卡塔尔首相公布卡塔尔投资局（QIA）面向本土交易设立的多哈投资平台。
-
-预计未来五年将提供385亿美元基础设施项目。](https://wallstreetcn.com/livenews/3167844)
