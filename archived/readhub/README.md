@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-20 22:19:11
+> 更新时间：2026-09-20 23:18:27
 
 ## 24 小时热榜
 
@@ -23,17 +23,17 @@
 17. [启元个人机器人近 2 万元起售，高配版价格贵于苹果折叠屏手机](https://readhub.cn/topic/8wZooWbXNzu?tab=daily)
 18. [Anthropic 推演 2030 年 AI 对美经济及就业的三种情景](https://readhub.cn/topic/8wZgxPESINP?tab=daily)
 19. [啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元](https://readhub.cn/topic/8wXuuj6jUtz?tab=daily)
-20. [NASA 与波音洽谈星际客机执行 10 次以上新任务，距 2024 年故障滞留事件已两年](https://readhub.cn/topic/8wXDJgelj1E?tab=daily)
-21. [苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜](https://readhub.cn/topic/8wZF5PLXd9c?tab=daily)
+20. [苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜](https://readhub.cn/topic/8wZF5PLXd9c?tab=daily)
+21. [百度搭子用户规模环比增长 9 倍 企业版升级并启动生态共创](https://readhub.cn/topic/8wZo6zgcfGS?tab=daily)
 22. [Unity 推出 Claude Code 与 OpenAI Codex 官方插件，提供 31 项开发技能](https://readhub.cn/topic/8wZIfPMqrZt?tab=daily)
 23. [TypeSafe AI 推出 Jev 模型：以概率输出赋能软件自动化降本增效](https://readhub.cn/topic/8wZGWmP8ag9?tab=daily)
 24. [腾讯首席人才官奚丹：腾讯支持基础科研的决心不会改变](https://readhub.cn/topic/8wXgcmnXUSj?tab=daily)
 25. [微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能「动手」执行](https://readhub.cn/topic/8wZhfygYibn?tab=daily)
-26. [GPT-6 Astra 联手人类攻克重大进展级数学难题](https://readhub.cn/topic/8wZU68eBvXe?tab=daily)
-27. [东风人形机器人 10 月进工厂，明年年底能力拟与真人持平](https://readhub.cn/topic/8wZjsBl6fsa?tab=daily)
-28. [MiniMax 开源命令行 AI 编程工具 MiniMax Code CLI](https://readhub.cn/topic/8wZK6tyElSm?tab=daily)
-29. [三家文生视频公司转型布局世界模型](https://readhub.cn/topic/8wZhfhHv0KX?tab=daily)
-30. [央视曝光回流药黑色产业链：司美格鲁肽成变质回流药重灾区](https://readhub.cn/topic/8wYuMOy6RHm?tab=daily)
+26. [东风人形机器人 10 月进工厂，明年年底能力拟与真人持平](https://readhub.cn/topic/8wZjsBl6fsa?tab=daily)
+27. [GPT-6 Astra 联手人类攻克重大进展级数学难题](https://readhub.cn/topic/8wZU68eBvXe?tab=daily)
+28. [三家文生视频公司转型布局世界模型](https://readhub.cn/topic/8wZhfhHv0KX?tab=daily)
+29. [央视曝光回流药黑色产业链：司美格鲁肽成变质回流药重灾区](https://readhub.cn/topic/8wYuMOy6RHm?tab=daily)
+30. [MiniMax 开源命令行 AI 编程工具 MiniMax Code CLI](https://readhub.cn/topic/8wZK6tyElSm?tab=daily)
 
 ## 每日早报
 
@@ -55,5 +55,5 @@
 6. [走访十几家机器人公司后，知名华尔街研究机构判断：机器人正在逼近临界点](https://www.mittrchina.com/news/detail/16984)
 7. [对话 Memories.ai 沈俊潇：用视觉记忆驱动物理 AI 自进化](https://www.mittrchina.com/news/detail/16983)
 8. [GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者](https://www.aibase.com/zh/news/31195)
-9. [在南方医院，临床医生开始「造」AI 工具](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
-10. [阿里千问开源 Qwen-Image-2.1 图像模型：可生成、编辑透明图像](https://www.donews.com/news/detail/1/6717686.html)
+9. [拿下开源生图第一，千问 Qwen-Image-2.1 把生图卷出新高度](https://news.qq.com/rain/a/20260920A0D50G00)
+10. [在南方医院，临床医生开始「造」AI 工具](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
