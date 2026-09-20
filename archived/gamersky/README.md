@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-20 23:18:40
+> 更新时间：2026-09-21 00:21:39
 
 ## 热点资讯排行
 
@@ -14,8 +14,8 @@
 8. [《生化危机：爆发夜》枪版资源大规模泄露！9000人同时观看](https://www.gamersky.com/news/202609/2212670.shtml)
 9. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
 10. [G胖奇怪癖好曝光！沉迷蒙古呼麦 甚至还在办公室锻刀](https://www.gamersky.com/news/202609/2212727.shtml)
-11. [准时下班被做成潜行](https://www.gamersky.com/news/202609/2212690.shtml)
-12. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
-13. [史上最大升级！小米18 Pro系列官宣9月23日发布](https://www.gamersky.com/news/202609/2212681.shtml)
+11. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
+12. [准时下班被做成潜行](https://www.gamersky.com/news/202609/2212690.shtml)
+13. [《炉石》](https://www.gamersky.com/news/202609/2213101.shtml)
 14. [《GTA圣安地列斯》DLSS 5演示：画质像换了新游戏！](https://www.gamersky.com/news/202609/2212771.shtml)
-15. [《炉石》](https://www.gamersky.com/news/202609/2213101.shtml)
+15. [史上最大升级！小米18 Pro系列官宣9月23日发布](https://www.gamersky.com/news/202609/2212681.shtml)
