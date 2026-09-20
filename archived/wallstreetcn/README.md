@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-20 23:34:05
+> 更新时间：2026-09-20 23:48:38
 
 ## 7x24
 
@@ -34,5 +34,3 @@
 22. [伊朗在边境地区部署大规模部队](https://wallstreetcn.com/livenews/3167824)
 23. [富兰克林分析师Jenny Johnson：美联储需要通过（继续）加息来保持信誉。（彭博电视）](https://wallstreetcn.com/livenews/3167823)
 24. [上半年制造业人工智能重点场景应用普及率超34%](https://wallstreetcn.com/livenews/3167822)
-25. [赵乐际同澳大利亚联邦议会众议长迪克会谈](https://wallstreetcn.com/livenews/3167821)
-26. [赛力斯副总裁：问界“含华量”不降](https://wallstreetcn.com/livenews/3167820)
