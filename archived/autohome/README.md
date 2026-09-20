@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-09-20 18:19:54
+> 更新时间：2026-09-20 19:18:02
 
 ## 每日热点榜
 
@@ -25,6 +25,7 @@
 19. [宁德时代高管谈车企自研电池](http://club.autohome.com.cn/bbs/thread/104223075d9852ec/116180794-1.html)
 20. [零跑C11街头追尾后起火燃烧](http://club.autohome.com.cn/bbs/thread/8e64b46d82005909/116180998-1.html)
 21. [大众新款Taigo油电混动版谍照曝光](http://www.autohome.com.cn/news/202609/1317255.html)
-22. [Stellantis集团巴黎车展阵容](http://www.autohome.com.cn/news/202609/1317251.html)
-23. [特斯拉最新OTA推送](http://www.autohome.com.cn/news/202609/1317253.html)
-24. [小鹏GX推出新月银车色](https://chejiahao.autohome.com.cn/info/26490977#pvareaid=6834132)
+22. [日产高管喊话英国给中国汽车加征关税](https://chejiahao.autohome.com.cn/info/26481523#pvareaid=6834132)
+23. [Stellantis集团巴黎车展阵容](http://www.autohome.com.cn/news/202609/1317251.html)
+24. [特斯拉最新OTA推送](http://www.autohome.com.cn/news/202609/1317253.html)
+25. [小鹏GX推出新月银车色](https://chejiahao.autohome.com.cn/info/26490977#pvareaid=6834132)
