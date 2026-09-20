@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-20 19:18:04
+> 更新时间：2026-09-20 20:29:31
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [史上最大升级！小米18 Pro系列官宣9月23日发布](https://www.gamersky.com/news/202609/2212681.shtml)
 11. [准时下班被做成潜行](https://www.gamersky.com/news/202609/2212690.shtml)
 12. [《GTA圣安地列斯》DLSS 5演示：画质像换了新游戏！](https://www.gamersky.com/news/202609/2212771.shtml)
-13. [印度首款自研游戏掌机发布：2300元性价比无敌](https://www.gamersky.com/hardware/202609/2212691.shtml)
-14. [2万元贱卖RTX 5090整机 低价甩卖竟是为了戒游戏](https://www.gamersky.com/news/202609/2212705.shtml)
-15. [国庆调休今天上班！苹果用户感慨：闹钟终于会响了](https://www.gamersky.com/news/202609/2212682.shtml)
+13. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
+14. [印度首款自研游戏掌机发布：2300元性价比无敌](https://www.gamersky.com/hardware/202609/2212691.shtml)
+15. [2万元贱卖RTX 5090整机 低价甩卖竟是为了戒游戏](https://www.gamersky.com/news/202609/2212705.shtml)

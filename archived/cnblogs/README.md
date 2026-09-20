@@ -1,10 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-09-20 19:17:16
+> 更新时间：2026-09-20 20:28:37
 
 ## 最新帖子
 
-1. [我又做了一个视频压缩站，这次反而要上传文件](https://www.cnblogs.com/fengyuqing/p/23052833)
+1. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
 2. [Docker Swarm 线上环境 MariaDB XA 悬停事务故障排查](https://www.cnblogs.com/zjdxr-up/p/23049231)
 3. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
 4. [服务器又卡了？一篇讲透 Linux 性能排查（基础四件套 + perf/strace/火焰图）](https://www.cnblogs.com/codigger/p/23048446)

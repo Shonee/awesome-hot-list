@@ -1,20 +1,20 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-20 19:17:19
+> 更新时间：2026-09-20 20:28:46
 
 ## 人气热门
 
-1. [短视频无水印解析下载 v1.0.0](https://www.52pojie.cn/thread-2126862-1-1.html)
-2. [青简输入法 0.1.3](https://www.52pojie.cn/thread-2128786-1-1.html)
-3. [鼠标自动点击工具 AutoClick v1.5.5](https://www.52pojie.cn/thread-2128494-1-1.html)
-4. [SpeedTest-1.2.3](https://www.52pojie.cn/thread-2127678-1-1.html)
-5. [软件导航网址收藏工具箱V260916](https://www.52pojie.cn/thread-2128345-1-1.html)
-6. [【吾爱首发】FPAC Tool V2.0.0 （用于提取和重建部分游戏的PAC工具）](https://www.52pojie.cn/thread-2128640-1-1.html)
-7. [中华人民共和国药典(2025年版)1.0版本](https://www.52pojie.cn/thread-2128710-1-1.html)
-8. [本地模型 快捷截图OCR工具（自动写入粘贴板）](https://www.52pojie.cn/thread-2128632-1-1.html)
-9. [万物工具箱 6.9.26.828](https://www.52pojie.cn/thread-2127033-1-1.html)
-10. [人体穴位图解3.2.1版本](https://www.52pojie.cn/thread-2128627-1-1.html)
-11. [校园IP数字网络广播控制小工具](https://www.52pojie.cn/thread-2128967-1-1.html)
+1. [中华人民共和国药典(2025年版)1.0版本](https://www.52pojie.cn/thread-2128710-1-1.html)
+2. [人体穴位图解3.2.1版本](https://www.52pojie.cn/thread-2128627-1-1.html)
+3. [软件导航网址收藏工具箱V260916](https://www.52pojie.cn/thread-2128345-1-1.html)
+4. [校园IP数字网络广播控制小工具](https://www.52pojie.cn/thread-2128967-1-1.html)
+5. [短视频无水印解析下载 v1.0.0](https://www.52pojie.cn/thread-2126862-1-1.html)
+6. [青简输入法 0.1.3](https://www.52pojie.cn/thread-2128786-1-1.html)
+7. [鼠标自动点击工具 AutoClick v1.5.5](https://www.52pojie.cn/thread-2128494-1-1.html)
+8. [SpeedTest-1.2.3](https://www.52pojie.cn/thread-2127678-1-1.html)
+9. [【吾爱首发】FPAC Tool V2.0.0 （用于提取和重建部分游戏的PAC工具）](https://www.52pojie.cn/thread-2128640-1-1.html)
+10. [本地模型 快捷截图OCR工具（自动写入粘贴板）](https://www.52pojie.cn/thread-2128632-1-1.html)
+11. [万物工具箱 6.9.26.828](https://www.52pojie.cn/thread-2127033-1-1.html)
 12. [Excel通用财务账模板](https://www.52pojie.cn/thread-2128163-1-1.html)
 13. [数据光盘刻录工具 v1.0.0：支持 CD/DVD 多次追加、读取已有内容和刻录校验](https://www.52pojie.cn/thread-2127262-1-1.html)
 14. [收租管家-v4.0.apk（安卓安装包）](https://www.52pojie.cn/thread-2127103-1-1.html)
