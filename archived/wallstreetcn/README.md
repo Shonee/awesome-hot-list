@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-20 23:48:38
+> 更新时间：2026-09-21 00:09:24
 
 ## 7x24
 
@@ -27,10 +27,3 @@
 17. [美国总统特朗普科技顾问Michael Kratsios：AI领袖们无需某个人来放慢（AI模型开发）节奏。
 
 美国工具箱中有工具来应对AI安全问题。（福克斯新闻）](https://wallstreetcn.com/livenews/3167830)
-18. [Qwen-Image-2.1开源：轻量高能，创作编辑一体化](https://wallstreetcn.com/livenews/3167828)
-19. [美国驻联合国大使Waltz：美国严肃看待也门胡塞武装打击沙特首都一事。](https://wallstreetcn.com/livenews/3167827)
-20. [我国推进7项天然气国际标准成功立项](https://wallstreetcn.com/livenews/3167826)
-21. [埃及总统：支持政治途径解决伊朗、巴勒斯坦问题](https://wallstreetcn.com/livenews/3167825)
-22. [伊朗在边境地区部署大规模部队](https://wallstreetcn.com/livenews/3167824)
-23. [富兰克林分析师Jenny Johnson：美联储需要通过（继续）加息来保持信誉。（彭博电视）](https://wallstreetcn.com/livenews/3167823)
-24. [上半年制造业人工智能重点场景应用普及率超34%](https://wallstreetcn.com/livenews/3167822)
