@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-21 00:35:30
+> 更新时间：2026-09-21 00:48:02
 
 ## 7x24
 
@@ -21,4 +21,3 @@
 11. [沐曦股份完成对Qwen-Image-2.1模型的适配](https://wallstreetcn.com/livenews/3167840)
 12. [卡塔尔航空公司：伊朗战争是我司历史上面临的“头等危机”。](https://wallstreetcn.com/livenews/3167838)
 13. [美国财长为美元资产辩护](https://wallstreetcn.com/livenews/3167837)
-14. [造谣宁德时代宜宾基地班长不让普通员工上厕所，林某某被行拘](https://wallstreetcn.com/livenews/3167835)
