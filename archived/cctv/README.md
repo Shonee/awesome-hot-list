@@ -1,12 +1,12 @@
 # 央视新闻热榜
 
-> 更新时间：2026-09-20 07:17:22
+> 更新时间：2026-09-20 09:01:05
 
 ## 最新发布
 
-1. [住房城乡建设部：全链条 全生命周期推进好房子建设](https://news.cctv.com/2026/09/19/ARTI6Mps0Um1py5vgORJwup1260918.shtml)
-2. [【九一八事变爆发95周年】档案揭露日军残暴罪行](https://news.cctv.com/2026/09/19/ARTIoxOSxQUN01RtxktBXcFV260918.shtml)
-3. [秦岭大熊猫研究中心新生金丝猴“变身记”](https://news.cctv.com/2026/09/19/ARTIsNeJf1UlTk2OY9UPyoih260918.shtml)
-4. [今年全年货物进口额有望再创新高](https://tv.cctv.com/2026/09/19/VIDEqn3epLa2C1p844SHhOL6260919.shtml)
-5. [“国庆假期部分列车疑似票价上涨”引关注](https://tv.cctv.com/2026/09/19/VIDEDidMszZ0IPRbBTrWVTNz260919.shtml)
-6. [俄方要求日本撤出美国“堤丰”导弹系统](https://tv.cctv.com/2026/09/19/VIDEAEbxIhFRjRRWYA9Vnbdn260919.shtml)
+1. [生态环境部：重拳整治环境监测造假！](https://news.cctv.com/2026/09/20/ARTIFhNJ7QKOBTYepuFZktUm260920.shtml)
+2. [京通铁路完成换梁改造 全面恢复通车](https://news.cctv.com/2026/09/20/ARTIuFlKtKjCPEVR6CKE12Ki260919.shtml)
+3. [航天医学工程大会上新！这些成果解锁太空探索新可能](https://news.cctv.com/2026/09/20/ARTI1GIlmSF5qtVcDzyByT7h260920.shtml)
+4. [前8个月全国铁路发送旅客33.2亿人次](https://tv.cctv.com/2026/09/20/VIDE1YdHYOA2dGmtns6AYev5260920.shtml)
+5. [我国成功发射株洲太空星际PIESAT-2 13至16星](https://tv.cctv.com/2026/09/19/VIDEUZ5ZyElL93DHyyjfWbpH260919.shtml)
+6. [“好好警官”刘好好：“操心”别人 好管急事儿难事儿](https://tv.cctv.com/2026/09/19/VIDEKhjIAejow63qJxTxTxqW260919.shtml)

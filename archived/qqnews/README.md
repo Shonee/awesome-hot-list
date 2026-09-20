@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-20 07:17:24
+> 更新时间：2026-09-20 09:01:06
 
 ## 热点榜
 
 1. [习语丨“中国队加油！中国加油！”](https://view.inews.qq.com/a/20260919V07F6200)
-2. [2026年名古屋亚运会](https://view.inews.qq.com/a/UTR2026090406706200)
-3. [苏超常规赛大结局：泰州搭上季后赛末班车，南京、淮安被淘汰](https://view.inews.qq.com/a/20260919A0AOLH00)
+2. [中国代表团夺得名古屋亚运会首枚奖牌](https://view.inews.qq.com/a/20260920A03X7F00)
+3. [中国男篮vs伊朗前瞻：耻辱一败后需振作 胡金秋率队全力争铜牌](https://view.inews.qq.com/a/20260919A0AJLS00)
 4. [新旧动能协同发力 一组数据看中国经济活力迸发](https://view.inews.qq.com/a/20260919A02IX600)
-5. [香港设三处吊唁处悼念董建华，花牌花圈布满街道两侧](https://view.inews.qq.com/a/20260919V09POK00)
-6. [商务部新闻发言人就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法答记者问](https://view.inews.qq.com/a/20260919A0A2XV00)
-7. [许嵩宣布与冯禧结婚：我们的人生故事写到了新的一章，谢谢关心和祝福；两人婚纱照公布](https://view.inews.qq.com/a/20260919A0ACK100)
-8. [外媒：沙特罕见向以色列提出支援请求](https://view.inews.qq.com/a/20260919A09VCB00)
-9. [中国书法家协会郑重声明](https://view.inews.qq.com/a/20260919A0AERR00)
-10. [张迎春已任新疆维吾尔自治区党委副书记](https://view.inews.qq.com/a/20260919A0ADAA00)
-11. [网传“商水某地田间失火”系谣言](https://view.inews.qq.com/a/20260918A09URV00)
+5. [真相来了丨装着毒花生的电动车被盗？警方辟谣](https://view.inews.qq.com/a/20260920A02X7F00)
+6. [中国为何使用“历史否认主义”这个新表述批评日本？丨冰镇热点](https://view.inews.qq.com/a/20260919A0A23G00)
+7. [下周，“高中签率”新股来了](https://view.inews.qq.com/a/20260920A02JIW00)
+8. [我国成功发射四颗SAR卫星](https://view.inews.qq.com/a/20260919A0A37600)
+9. [河北：问责党员干部102人，446项问题隐患全部整改](https://view.inews.qq.com/a/20260919A09UNZ00)
+10. [1.5万日本民众举行反战集会，要求高市早苗立即下台！](https://view.inews.qq.com/a/20260919A0AR4V00)
+11. [散步是适合所有人的运动？](https://view.inews.qq.com/a/20260919A09MR400)
 12. [宁波夜市西瓜砸人事件已调解成功，男子赔偿摊主6万多元，被砸者家属发声](https://view.inews.qq.com/a/20260919A0A2YB00)
-13. [蒋锋任无锡市委书记；曾任溧阳市委书记，常州市副市长，江苏省应急管理厅厅长等职](https://view.inews.qq.com/a/20260919A09T2E00)
-14. [女子夜晚出门散步，突然一团黑影直冲面门，医生果断给她安排了9针](https://view.inews.qq.com/a/20260919A0AH5R00)
-15. [贾国龙妻子，质押西贝股权](https://view.inews.qq.com/a/20260919A0A8DK00)
-16. [武汉青山：锥桶一摆，10万元现金被拦在了“交货”前](https://view.inews.qq.com/a/20260919A09TM000)
-17. [河北：问责党员干部102人，446项问题隐患全部整改](https://view.inews.qq.com/a/20260919A09UNZ00)
-18. [机器人商业订单被指虚假繁荣，业内人士怎么看？](https://view.inews.qq.com/a/20260919A084A000)
-19. [广州25岁女子捐肾给丈夫，成功概率仅5%-10%，“我只想要一家人好好的”；丈夫：“康复后我想带她去环游世界，实现她这个梦想”](https://view.inews.qq.com/a/20260919A08PUO00)
+13. [亚运会备战不公！国乒被曝禁止使用1号球台 主场馆训练时段被大幅削减](https://view.inews.qq.com/a/20260920A036SN00)
+14. [胡塞武装称对沙特敏感目标及设施发动袭击](https://view.inews.qq.com/a/20260920A01M4N00)
+15. [遍地开花的数采中心，开始批量露馅](https://view.inews.qq.com/a/20260920A034PY00)
+16. [普京谈俄防空系统：必须确保摧毁任何从空中和太空发动攻击的武器装备](https://view.inews.qq.com/a/20260919A0ARMG00)
+17. [名古屋亚运会的开幕式后，中国队和中国香港队怎么都“出圈”了？](https://view.inews.qq.com/a/20260920A03IE600)
+18. [一系列迹象表明，美国已准备好停止战争](https://view.inews.qq.com/a/20260920A01XV600)
+19. [香港海关侦破最大海路贩毒案，检获约535公斤疑似大麻花，3名怀疑涉案男子被捕](https://view.inews.qq.com/a/20260920A03CV100)
 20. [北大、复旦校长，接连发出警告](https://view.inews.qq.com/a/20260919A04WM100)
