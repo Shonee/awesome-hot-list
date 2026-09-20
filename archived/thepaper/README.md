@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-21 02:23:55
+> 更新时间：2026-09-21 03:16:17
 
 ## 热新闻
 
@@ -17,10 +17,10 @@
 11. [课前手机统一入袋入盒，近期多所高校推进“无手机课堂”建设](https://www.thepaper.cn/newsDetail_forward_34107622)
 12. [中国男篮铜牌战不敌伊朗，无缘爱知·名古屋亚运会领奖台](https://www.thepaper.cn/newsDetail_forward_34109298)
 13. [五角大楼疑漏报美军死亡人数，美防长怒喷美媒“恨特朗普超过爱美国”](https://www.thepaper.cn/newsDetail_forward_34108907)
-14. [湖南双峰县一女子持刀追砍老人，附近商铺女老板徒手夺刀](https://www.thepaper.cn/newsDetail_forward_34108168)
-15. [特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套](https://www.thepaper.cn/newsDetail_forward_34108031)
+14. [特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套](https://www.thepaper.cn/newsDetail_forward_34108031)
+15. [湖南双峰县一女子持刀追砍老人，附近商铺女老板徒手夺刀](https://www.thepaper.cn/newsDetail_forward_34108168)
 16. [伪造全套票据“洗白”药品，央视曝光回流药黑色产业链](https://www.thepaper.cn/newsDetail_forward_34106541)
 17. [直播丨百余位电影人、音乐人亮相“湾区升明月”2026大湾区电影音乐晚会](https://www.thepaper.cn/newsDetail_forward_34108123)
-18. [“自发标记沉陷井盖”网友称潮州5公里路面500个井盖，当地住建局回应](https://www.thepaper.cn/newsDetail_forward_34108128)
-19. [特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑](https://www.thepaper.cn/newsDetail_forward_34110440)
-20. [李成钢任中华人民共和国国际贸易谈判代表（正部长级）](https://www.thepaper.cn/newsDetail_forward_34109294)
+18. [特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑](https://www.thepaper.cn/newsDetail_forward_34110440)
+19. [董明珠卸任格力电商法定代表人，旗下拥有两大直播账号](https://www.thepaper.cn/newsDetail_forward_34110149)
+20. [“自发标记沉陷井盖”网友称潮州5公里路面500个井盖，当地住建局回应](https://www.thepaper.cn/newsDetail_forward_34108128)
