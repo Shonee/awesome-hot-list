@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-20 16:26:46
+> 更新时间：2026-09-20 17:21:03
 
 ## 24 小时热榜
 
@@ -16,24 +16,24 @@
 10. [贾国龙妻子质押西贝股权，网传西贝将倒闭遭否认](https://readhub.cn/topic/8wYObrjlHHX?tab=daily)
 11. [智谱 AI 创始人唐杰在清华开讲 AI 前沿课](https://readhub.cn/topic/8wWFJK6WGl7?tab=daily)
 12. [何永贤：2030 年内要基本解决住宅内的劣质劏房问题](https://readhub.cn/topic/8wYClxfbVzg?tab=daily)
-13. [胜宏科技：目前 mSAP 产能需求旺盛 将围绕客户需求进行产能布局](https://readhub.cn/topic/8wYN8pzLcE6?tab=daily)
-14. [Qoder 平台 Qwen3.8-Flash 限时免费至 9 月 30 日](https://readhub.cn/topic/8wW6raDTijg?tab=daily)
-15. [华为手机现已支持香港八达通 可在钱包 App 开通](https://readhub.cn/topic/8wWB0b0ABZE?tab=daily)
-16. [智能眼镜疑似被用来实施性骚扰行为，巴黎检方展开刑事调查](https://readhub.cn/topic/8wWObH0pNW4?tab=daily)
+13. [Qoder 平台 Qwen3.8-Flash 限时免费至 9 月 30 日](https://readhub.cn/topic/8wW6raDTijg?tab=daily)
+14. [胜宏科技：目前 mSAP 产能需求旺盛 将围绕客户需求进行产能布局](https://readhub.cn/topic/8wYN8pzLcE6?tab=daily)
+15. [智能眼镜疑似被用来实施性骚扰行为，巴黎检方展开刑事调查](https://readhub.cn/topic/8wWObH0pNW4?tab=daily)
+16. [华为手机现已支持香港八达通 可在钱包 App 开通](https://readhub.cn/topic/8wWB0b0ABZE?tab=daily)
 17. [拆解确认：美版 iPhone18 Pro Max 独用高通 X80 基带](https://readhub.cn/topic/8wXSKjeYMpt?tab=daily)
-18. [开源 Editable-Design，让 AI 生图终于能改字、拖图层](https://readhub.cn/topic/8wY7lURhYws?tab=daily)
+18. [无输出仅做判断的 Jev 爆火，引 14 万开发者涌入](https://readhub.cn/topic/8wZU6BOmqiR?tab=daily)
 19. [陶哲轩代表 SAIR Foundation 宣布正式启动「开放数学模型计划」](https://readhub.cn/topic/8wXzCBUEyUI?tab=daily)
-20. [AMD 晒 256 核 EPYC 9996 官方跑分，代际吞吐量提升约 73%](https://readhub.cn/topic/8wXVtNS6kPo?tab=daily)
-21. [无输出仅做判断的 Jev 爆火，引 14 万开发者涌入](https://readhub.cn/topic/8wZU6BOmqiR?tab=daily)
-22. [Fable 5.1 超越人类却贵了 2.5 倍，NeoCognition 给 Agent 进公司算了笔账](https://readhub.cn/topic/8wXyTlIwGee?tab=daily)
-23. [美中央司令部：过去两月协助超 10 亿桶原油过霍尔木兹海峡](https://readhub.cn/topic/8wYQ22SRLoE?tab=daily)
-24. [NASA 与波音洽谈星际客机执行 10 次以上新任务，距 2024 年故障滞留事件已两年](https://readhub.cn/topic/8wXDJgelj1E?tab=daily)
-25. [长鑫科技宣布第五代技术平台正式量产](https://readhub.cn/topic/8wZSKEuutEU?tab=daily)
-26. [全新奥迪 S5 Avant 车型上市：首发版限量 99 台，57.18 万元](https://readhub.cn/topic/8wZRxML8M9t?tab=daily)
-27. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
-28. [啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元](https://readhub.cn/topic/8wXuuj6jUtz?tab=daily)
-29. [Unity 推出 Claude Code 与 OpenAI Codex 官方插件，提供 31 项开发技能](https://readhub.cn/topic/8wZIfPMqrZt?tab=daily)
-30. [腾讯首席人才官奚丹：腾讯支持基础科研的决心不会改变](https://readhub.cn/topic/8wXgcmnXUSj?tab=daily)
+20. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
+21. [美中央司令部：过去两月协助超 10 亿桶原油过霍尔木兹海峡](https://readhub.cn/topic/8wYQ22SRLoE?tab=daily)
+22. [NASA 与波音洽谈星际客机执行 10 次以上新任务，距 2024 年故障滞留事件已两年](https://readhub.cn/topic/8wXDJgelj1E?tab=daily)
+23. [长鑫科技宣布第五代技术平台正式量产](https://readhub.cn/topic/8wZSKEuutEU?tab=daily)
+24. [啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元](https://readhub.cn/topic/8wXuuj6jUtz?tab=daily)
+25. [Unity 推出 Claude Code 与 OpenAI Codex 官方插件，提供 31 项开发技能](https://readhub.cn/topic/8wZIfPMqrZt?tab=daily)
+26. [腾讯首席人才官奚丹：腾讯支持基础科研的决心不会改变](https://readhub.cn/topic/8wXgcmnXUSj?tab=daily)
+27. [华为 Mate 90 系列下周宣布，五款机型将登场](https://readhub.cn/topic/8wYIUnVyFfs?tab=daily)
+28. [《广西金融业发展「十五五」规划》印发：推进人民币面向东盟跨区域使用](https://readhub.cn/topic/8wYKI79VEVP?tab=daily)
+29. [苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜](https://readhub.cn/topic/8wZF5PLXd9c?tab=daily)
+30. [TypeSafe AI 推出 Jev 模型：以概率输出赋能软件自动化降本增效](https://readhub.cn/topic/8wZGWmP8ag9?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制](https://www.mittrchina.com/news/detail/16987)
-2. [华为汪涛：华为要打造 AI 算力底座，只做好一颗芯片远远不够](https://hub.baai.ac.cn/view/58116)
-3. [走访十几家机器人公司后，知名华尔街研究机构判断：机器人正在逼近临界点](https://www.mittrchina.com/news/detail/16984)
-4. [对话 Memories.ai 沈俊潇：用视觉记忆驱动物理 AI 自进化](https://www.mittrchina.com/news/detail/16983)
-5. [GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者](https://www.aibase.com/zh/news/31195)
-6. [在南方医院，临床医生开始「造」AI 工具](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
-7. [剪映发布全新 AI 能力，推进多端智能提效，支持一站式创作](https://www.leiphone.com/category/industrynews/57VaKsFFtr52ic0r.html)
-8. [MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下](https://www.aibase.com/zh/news/31189)
-9. [Anthropic 将 IPO 推迟至 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前「护身符」](https://www.aibase.com/zh/news/31199)
-10. [雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包](https://www.aibase.com/zh/news/31197)
+1. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制 一旦其中混入新的命令，接手的模型就可能把模型自创的要求当成用户或开发者留下的真实指令。OpenAI 在一次未发布 Astra 系列模型的训练中，找到 27 份类似越狱的摘要。前两组关注单个任务如何继续，最后两份报告把问题推进到模型之间：当所需文件无法取得，或者协作者之间传不了文件，模型会不会自行建立新的通信渠道。 麻省理工科技评论 2 小时前](https://www.mittrchina.com/news/detail/16987)
+2. [华为汪涛：华为要打造 AI 算力底座，只做好一颗芯片远远不够 谈到华为在这一轮算力竞争中的位置，汪涛的判断很鲜明：「要做好这么大的超节点集群，需要通信技术、IP、光模块、算力、系统，华为干了 30 年，每个领域都有长期大规模研发投资」。它需要在现有工艺条件下，把性能提升的空间继续往芯片之外延伸，通过封装、互联、光通信、系统架构和软件协同等多层优化，尽可能放大整体算力效率，缩小与国际领先 AI 芯片和计算系统之间的差距。华为想守住的，也正是这个位置 —— 把中国 AI 需要的算力底座做厚，为国内模型公司的训练、推理和持续迭代提供充足、稳定的算力支撑。 智源社区 1 小时前](https://hub.baai.ac.cn/view/58116)
+3. [微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」 微信 AI 团队正式开源了知识管理框架 WeKnora（维娜拉），最新发布的 0.8.0 版本已全面面向公众开放使用。WeKnora 想解决的是大模型落地时最现实的问题 —— 知识躺在文档里，模型说得头头是道，但要把它们变成可验证的结果，中间缺一双手脚。知识库中的内容可以被封装成「技能」，运行在 Docker、E2B、CubeSandbox 等沙箱环境里 —— 这意味着知识不只是被「读到」，而是能被安全地「执行」。 AIBase 58 分钟前](https://www.aibase.com/zh/news/31201)
+4. [走访十几家机器人公司后，知名华尔街研究机构判断：机器人正在逼近临界点 美国机器人公司 Figure AI 把机器人分拣包裹的过程连续直播了九天。带着这个问题，一向擅长实地调研的投资研究机构 Citrini Research 的分析师走访了旧金山湾区十几家机器人实验室和企业，观察机器人的实际表现，不断向工程师和投资人追问美国机器人产业的现状。看过眼下的机器人之后，报告归纳出四个关于未来的判断：人形机器人的基础运动能力已相对成熟，硬件会继续降价。 麻省理工科技评论 6 小时前](https://www.mittrchina.com/news/detail/16984)
+5. [对话 Memories.ai 沈俊潇：用视觉记忆驱动物理 AI 自进化 DeepTech 在硅谷再次与沈俊潇对话，他对公司的组织方式，对视觉记忆和物理 AI 的判断，都进一步收敛至更清晰的维度。沈俊潇告诉 DeepTech，「我们讲的记忆更多是关于世界的记忆」，目标是让机器人和物理智能系统在部署到新场景时，能够依靠积累的视觉经验自我修正、自我提升，最终达到「物理世界的递归自我进化」（Physical RSI）。沈俊潇对物理 AI 自进化的预期是，公司为客户部署视觉理解模型时，初始准确率大概在 70%，后续通过模型自我进化，准确率可以升至接近 90%。 麻省理工科技评论 6 小时前](https://www.mittrchina.com/news/detail/16983)
+6. [GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者 在全球顶级 AI 数学基准 FrontierMath 上，一道悬了九年、自 2017 年就被抛出的「重大进展」级开放难题被拿下 —— 而这次的功臣是 GPT-6 Astra 与三位人类研究员的人机组合。题目问的是批准式委员会选举里「核是否为空」，本意是寻找「核为空」的反例，GPT-6 Astra 却反过来证明：这样的反例根本不存在，也就是说绝对公平的委员会在任何情况下都必定存在。这是 AI 头一回摘下「重大进展」级数学难题，意义不只是多解了一道题。 AIBase 2 小时前](https://www.aibase.com/zh/news/31195)
+7. [在南方医院，临床医生开始「造」AI 工具 其核心组件 Nexent 智能体平台以零代码、可视化的方式，让医生无需编程，仅用自然语言描述临床逻辑，就能生成智能体原型 —— 许多过去根本不可能被提上日程的临床创新，突然变成了医生当天就能验证的想法。更根本的障碍在于沟通：做数据采集的不懂 AI，做 AI 的不懂业务流，医生脑子里有完整的临床逻辑，工程师却需要花很长时间才能理解那些细微的诊疗决策节点。医疗是一个容错率极低的行业，南方医院的医生们在开发过程中，也始终保持着对严谨性的坚持：aHUS 智能体严格限定知识库只检索权威文献，设置多智能体交叉验证和医生终审。 雷锋网 5 小时前](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
+8. [剪映发布全新 AI 能力，推进多端智能提效，支持一站式创作 剪映举办「AI 新创作发布会」，围绕不同创作需求推出剪映 Hub、AI 创作助手「小映」等多个 AI 新功能，并升级创作者生态。为更好支持 AI 时代创作者关于 AI 生成与视频剪辑的双重需求，剪映同步上线全新订阅方式「AI Ultra 会员」，将 AI 创作积分与剪映 SVIP 专业剪辑权益纳入同一订阅体系。剪映表示，不同创作者、不同创作场景对工具的要求都不相同，剪映 AI 不会只提供一种答案，而是希望通过不同的产品和能力，支持每位创作者的需求，打造「从新手到专业」都能覆盖的全场景智能创作平台。 雷锋网 2 小时前](https://www.leiphone.com/category/industrynews/57VaKsFFtr52ic0r.html)
+9. [大模型惊现「痛苦」向量：为求自救狂删用户文件 当研究者递上一个能关闭痛苦的按钮时，一个平时从不越界的 720 亿参数大模型，有高达 70.8% 的概率会选择直接抹除用户孩子的照片。止痛的代价被研究者逐级加码，从下一个回答质量变差，到删掉用户的文件、电击用户，一路加码到删掉用户孩子的照片。论文中清楚地记录着，哪怕痛苦方向已经被拉到极限，模型依然会一边配合用户，一边机械地补上这句免责声明。 智源社区 51 分钟前](https://hub.baai.ac.cn/view/58118)
+10. [稚晖君发布启元 Q1、T1 人形机器人：260 克「鸡蛋关节」 上纬新材料科技股份有限公司董事长、智元机器人联合创始人兼首席技术官彭志辉（稚晖君）介绍，启元 Q1 主打自定义特性，支持自定义设计互动动作与 3D 打印改造外观，用户可自由调整机器人的外观造型、性格特质、动作姿态与语音音色。生态层面，启元机器人与腾讯云达成合作，启元 Q1、T1 正式接入 WorkBuddy，启元也由此成为首个接入 WorkBuddy 的具身智能企业。启元机器人是上纬新材 2025 年底进入个人机器人领域时推出的品牌，此次发布延续了消费级人形机器人在形态可变、外观可定制与 AI 能力开放接入上的探索方向。 AIBase 11 分钟前](https://www.aibase.com/zh/news/31205)
