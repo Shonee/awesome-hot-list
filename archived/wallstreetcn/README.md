@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-20 12:43:08
+> 更新时间：2026-09-20 12:51:26
 
 ## 7x24
 
@@ -30,5 +30,3 @@
 20. [国家药监局：升级药品安全全链条全过程监管](https://wallstreetcn.com/livenews/3167757)
 21. [市场监管总局：“十五五”时期着力整治侵害消费者权益突出问题](https://wallstreetcn.com/livenews/3167756)
 22. [市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争](https://wallstreetcn.com/livenews/3167755)
-23. [深蓝航天自研雷霆R2.0发动机完成首次200秒长程试车](https://wallstreetcn.com/livenews/3167754)
-24. [今年前8个月，社会消费商品和服务零售总额同比增长2.5%](https://wallstreetcn.com/livenews/3167753)
