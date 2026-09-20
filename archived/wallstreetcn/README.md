@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-21 01:20:42
+> 更新时间：2026-09-21 01:34:02
 
 ## 7x24
 
@@ -11,5 +11,3 @@
 
 通胀仍然过高，不仅仅源于油价因素。](https://wallstreetcn.com/livenews/3167851)
 5. [特朗普：也门胡塞武装同意不与美国交战](https://wallstreetcn.com/livenews/3167850)
-6. [卡塔尔首相：也门胡塞武装加剧地区紧张局势的做法“是不负责任的”。](https://wallstreetcn.com/livenews/3167847)
-7. [格陵兰岛民众担心美国获得“独占权”](https://wallstreetcn.com/livenews/3167846)
