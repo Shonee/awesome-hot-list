@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-22 00:24:43
+> 更新时间：2026-09-22 01:18:26
 
 ## 24 小时热榜
 
@@ -19,21 +19,21 @@
 13. [保时捷卡宴 3.0T 逐梦版狂降 30 万：V6 四驱仅售 61.8 万元](https://readhub.cn/topic/8wZyqU2IyJ7?tab=daily)
 14. [罗永浩再发文吐槽港式茶餐厅但没公开点名：都不容易](https://readhub.cn/topic/8wb7e4BMAhb?tab=daily)
 15. [iPhone 20 Pro 被曝采用无边四曲面设计 灵动岛变小](https://readhub.cn/topic/8wb9lMAWUAI?tab=daily)
-16. [马斯克转发帖文称 GPT-6 Astra 模拟测试推人下悬崖](https://readhub.cn/topic/8wbJjkOey74?tab=daily)
-17. [研究发现 ChatGPT 可通过 Cookie 追踪用户跨站购物等记录](https://readhub.cn/topic/8wb1CfQ64wP?tab=daily)
-18. [OpenAI 称物理断网难阻 AI，可借温度低速通信](https://readhub.cn/topic/8wZvG50J6I4?tab=daily)
+16. [OpenAI 称物理断网难阻 AI，可借温度低速通信](https://readhub.cn/topic/8wZvG50J6I4?tab=daily)
+17. [马斯克转发帖文称 GPT-6 Astra 模拟测试推人下悬崖](https://readhub.cn/topic/8wbJjkOey74?tab=daily)
+18. [研究发现 ChatGPT 可通过 Cookie 追踪用户跨站购物等记录](https://readhub.cn/topic/8wb1CfQ64wP?tab=daily)
 19. [小米 AI 硬创团队近期开源 4 个 AI 硬件探索项目](https://readhub.cn/topic/8wbVCjFoqOt?tab=daily)
-20. [中国 AI 大模型周调用量连续二十一周领跑：DeepSeek V4.1-Flash 登顶，环比增长 219%](https://readhub.cn/topic/8wb40K8fhHo?tab=daily)
-21. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制](https://readhub.cn/topic/8wZgxKL16KO?tab=daily)
-22. [Jev 全网解禁 新用户获 1.2 亿 Token 免费额度](https://readhub.cn/topic/8wbR3RQLmHS?tab=daily)
+20. [Jev 全网解禁 新用户获 1.2 亿 Token 免费额度](https://readhub.cn/topic/8wbR3RQLmHS?tab=daily)
+21. [中国 AI 大模型周调用量连续二十一周领跑：DeepSeek V4.1-Flash 登顶，环比增长 219%](https://readhub.cn/topic/8wb40K8fhHo?tab=daily)
+22. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制](https://readhub.cn/topic/8wZgxKL16KO?tab=daily)
 23. [钟南山团队新发现：71% 肺结节患者不吸烟](https://readhub.cn/topic/8wa5GKm2Jsa?tab=daily)
 24. [问界推进专属专营 赛力斯股价「三连涨」](https://readhub.cn/topic/8wbEiOGE8wS?tab=daily)
 25. [IDC 报告：耳夹式耳机成开放式耳机主流，市场格局分化竞争加剧](https://readhub.cn/topic/8wbAQJSuWtk?tab=daily)
-26. [保时捷首席执行官：保时捷不计划额外裁员 4000 人](https://readhub.cn/topic/8wbLrhZ58Js?tab=daily)
-27. [Anthropic、字节布局 AI 制药，数据成关键瓶颈](https://readhub.cn/topic/8wbKTtlo45T?tab=daily)
-28. [月之暗面发布 Kimi Code Desktop 桌面客户端](https://readhub.cn/topic/8wbO1OqgfTN?tab=daily)
-29. [微软工程师花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变成 80 万行 Rust，快 15.9 倍](https://readhub.cn/topic/8wbT0P9YcS0?tab=daily)
-30. [iPhone 19 或被跳过，iPhone 20 Pro 配置曝光](https://readhub.cn/topic/8wbVF82kaeM?tab=daily)
+26. [Anthropic、字节布局 AI 制药，数据成关键瓶颈](https://readhub.cn/topic/8wbKTtlo45T?tab=daily)
+27. [保时捷首席执行官：保时捷不计划额外裁员 4000 人](https://readhub.cn/topic/8wbLrhZ58Js?tab=daily)
+28. [微软工程师花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变成 80 万行 Rust，快 15.9 倍](https://readhub.cn/topic/8wbT0P9YcS0?tab=daily)
+29. [月之暗面发布 Kimi Code Desktop 桌面客户端](https://readhub.cn/topic/8wbO1OqgfTN?tab=daily)
+30. [OpenAI 开发新功能应对 Grok Bot 和 Meta Muse 竞争](https://readhub.cn/topic/8wbqx6LHnkw?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [爆火一周后，Jev 正式全面开放：一个「不会说话」的 AI，为何风靡硅谷？](https://www.mittrchina.com/news/detail/16994)
-2. [世界模型的下一个战场：生物医学](https://www.mittrchina.com/news/detail/16993)
-3. [AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack](https://blogs.nvidia.com/blog/ai-security-agent-stack/)
-4. [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an)
-5. [AI 会带来新一轮的经济泡沫吗？](https://www.mittrchina.com/news/detail/16992)
-6. [AI 虚拟细胞是什么？一篇报告说清楚](https://www.mittrchina.com/news/detail/16991)
-7. [5 Companies Using NVIDIA AI for Clean Energy](https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/)
-8. [微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍](https://www.aibase.com/zh/news/31240)
-9. [月之暗面推出 Kimi Code Desktop 桌面端，把 AI 编程 Agent 直接搬上 macOS 和 Windows](https://www.aibase.com/zh/news/31239)
-10. [How V7 gives AI agents institutional memory](https://openai.com/index/v7)
+1. [From Enablement to Execution, Egypt's AI Ecosystem Reaches Production Scale](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/)
+2. [爆火一周后，Jev 正式全面开放：一个「不会说话」的 AI，为何风靡硅谷？](https://www.mittrchina.com/news/detail/16994)
+3. [世界模型的下一个战场：生物医学](https://www.mittrchina.com/news/detail/16993)
+4. [AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack](https://blogs.nvidia.com/blog/ai-security-agent-stack/)
+5. [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an)
+6. [AI 会带来新一轮的经济泡沫吗？](https://www.mittrchina.com/news/detail/16992)
+7. [AI 虚拟细胞是什么？一篇报告说清楚](https://www.mittrchina.com/news/detail/16991)
+8. [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/)
+9. [5 Companies Using NVIDIA AI for Clean Energy](https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/)
+10. [微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍](https://www.aibase.com/zh/news/31240)

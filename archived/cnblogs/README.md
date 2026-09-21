@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-22 00:24:20
+> 更新时间：2026-09-22 01:18:02
 
 ## 最新帖子
 
 1. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
 2. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
 3. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
-4. [喜报！白鲸开源斩获“创客北京2026”创新创业大赛海淀区级赛企业组二等奖](https://www.cnblogs.com/seatunnel/p/23069334)
-5. [如何看待前 OpenAI 研究员发布的新模型「Jev」 ？这不就是SimCSE的翻版吗？](https://www.cnblogs.com/apachecn/p/23068328)
-6. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
-7. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
-8. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
-9. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
-10. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
-11. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
-12. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-13. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
-14. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
-15. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
-16. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-17. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
-18. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
-19. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
-20. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
+4. [如何看待前 OpenAI 研究员发布的新模型「Jev」 ？这不就是SimCSE的翻版吗？](https://www.cnblogs.com/apachecn/p/23068328)
+5. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
+6. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
+7. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
+8. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
+9. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
+10. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
+11. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
+12. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
+13. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
+14. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
+15. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
+16. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
+17. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
+18. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
+19. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
+20. [2026互联网大厂秋招AI Coding笔试全攻略！](https://www.cnblogs.com/jinjiangongzuoshi/p/23056537)
 
 ## 精华帖子
 
@@ -55,4 +55,4 @@
 3. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
 4. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
 5. [如何快速上传10G文件](https://www.cnblogs.com/zrui-xyu/p/23043556)
-6. [Cloudflare 这个老功能，被 AI Coding 重新带火了](https://www.cnblogs.com/kaifazhinan/p/23040147/cloudflare-tunnels)
+6. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
