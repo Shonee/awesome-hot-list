@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-21 13:23:58
+> 更新时间：2026-09-21 14:47:19
 
 ## 热新闻
 
@@ -15,8 +15,8 @@
 9. [中国男篮铜牌战不敌伊朗，无缘爱知·名古屋亚运会领奖台](https://www.thepaper.cn/newsDetail_forward_34109298)
 10. [五角大楼疑漏报美军死亡人数，美防长怒喷美媒“恨特朗普超过爱美国”](https://www.thepaper.cn/newsDetail_forward_34108907)
 11. [大方之谈丨对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34087937)
-12. [湖南双峰县一女子持刀追砍老人，附近商铺女老板徒手夺刀](https://www.thepaper.cn/newsDetail_forward_34108168)
-13. [夜读｜父亲的慢时光](https://www.thepaper.cn/newsDetail_forward_34096809)
+12. [夜读｜父亲的慢时光](https://www.thepaper.cn/newsDetail_forward_34096809)
+13. [重庆某公益组织副会长报警称遭性侵未获立案，涉事大学老师反诉名誉侵权被驳回](https://www.thepaper.cn/newsDetail_forward_34103628)
 14. [齐齐哈尔一小学班主任被指殴打7岁男童，区教育局：已查实，正在处理](https://www.thepaper.cn/newsDetail_forward_34109489)
 15. [深一度｜世界纪录后，潘展乐用两年学会“不怕输”](https://www.thepaper.cn/newsDetail_forward_34113058)
 16. [直播丨百余位电影人、音乐人亮相“湾区升明月”2026大湾区电影音乐晚会](https://www.thepaper.cn/newsDetail_forward_34108123)

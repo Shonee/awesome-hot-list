@@ -1,25 +1,25 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-21 13:24:46
+> 更新时间：2026-09-21 14:47:59
 
 ## Hottest
 
 1. [Software sandboxing: The basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
 2. [An actively maintained and updated Motif fork actually exists](https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/)
 3. [Lambda MicroEgg](https://www.philipzucker.com/lambda_miller_egg/)
-4. [Beyond jj: config & tools ecosystem](https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/)
-5. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
-6. [Bot-free self-hosted analytics with GoatCounter on NixOS](https://vincent.bernat.ch/en/blog/2026-goatcounter)
-7. [Thoughts on the Future of Web Browsers](https://sarahjamielewis.com/log/2026/future-of-web-browsers.html)
-8. [Are we really going to use the same Desktop UX forever?](https://www.youtube.com/watch?v=V7AfAcQwLW0)
-9. [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
-10. [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
+4. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+5. [Beyond jj: config & tools ecosystem](https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/)
+6. [Are we really going to use the same Desktop UX forever?](https://www.youtube.com/watch?v=V7AfAcQwLW0)
+7. [Bot-free self-hosted analytics with GoatCounter on NixOS](https://vincent.bernat.ch/en/blog/2026-goatcounter)
+8. [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
+9. [Thoughts on the Future of Web Browsers](https://sarahjamielewis.com/log/2026/future-of-web-browsers.html)
+10. [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
 11. [Roku launches open-source Roku LT OS for creative programmers](https://blog.roku.com/developer/roku-lt-os)
 12. [Vim's UserGettingBored autocmd](https://evanhahn.com/usergettingbored-vim/)
 13. [AI Is an Elite Crime Spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
 14. [we have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
-15. [Using non-breakable spaces in test method names](https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names)
-16. [Adversarial examples for fast hash functions](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
+15. [Adversarial examples for fast hash functions](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
+16. [Using non-breakable spaces in test method names](https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names)
 17. [How Notion handles concurrent editing with CRDTs](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts)
 18. [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
 19. [HEIF Heist](https://heif-heist.com)
