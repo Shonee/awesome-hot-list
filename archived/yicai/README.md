@@ -1,6 +1,6 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-22 01:34:23
+> 更新时间：2026-09-22 01:48:16
 
 ## 7x24
 
@@ -13,7 +13,3 @@
 7. [【个股解码】复合年增长率超25.52%！车载业务多年超50%增长 这家公司投资超10亿加码SiC等器件](https://m.yicai.com/vip/brief/103373015.html)
 8. [国内商品期货夜盘收盘](https://m.yicai.com/brief/103373014.html)
 9. [伊朗称霍尔木兹甘省有760艘船只在敌方袭击中被毁](https://m.yicai.com/brief/103373011.html)
-10. [上交所：将持续对沈鼓集团上市初期交易予以密切关注，依规采取自律监管措施](https://m.yicai.com/brief/103373008.html)
-11. [纳斯达克100指数涨幅扩大至2%](https://m.yicai.com/brief/103373006.html)
-12. [OpenAI据悉正开发新功能 应对Grok Bot与Meta个人AI助手竞争](https://m.yicai.com/brief/103373004.html)
-13. [建发股份与中国地质调查局发展研究中心签署合作协议](https://m.yicai.com/brief/103373002.html)
