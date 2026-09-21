@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-22 05:19:18
+> 更新时间：2026-09-22 06:20:34
 
 ## 热门文章
 
@@ -15,8 +15,8 @@
 9. [为什么最近开始关注 JEV？几个实战案例告诉你答案](https://juejin.cn/post/7686808742222856211)
 10. [为什么全世界的 AI 都画不好一只骑自行车的鹈鹕](https://juejin.cn/post/7687439830713417737)
 11. [React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”](https://juejin.cn/post/7686769981477814313)
-12. [Jev 入门第一课](https://juejin.cn/post/7686925590315696138)
-13. [推荐一个牛逼的AgentScope系统](https://juejin.cn/post/7687438959296413732)
+12. [推荐一个牛逼的AgentScope系统](https://juejin.cn/post/7687438959296413732)
+13. [Jev 入门第一课](https://juejin.cn/post/7686925590315696138)
 14. [Sass 和 Less 在 2026 年彻底多余了吗？](https://juejin.cn/post/7687521521468325929)
 15. [Jev来了，一个不会说话的AI模型正在改写自动化的规则](https://juejin.cn/post/7686762541280378889)
 16. [货拉拉开源Hadice：安卓 & 鸿蒙桌面调试工具](https://juejin.cn/post/7687209773675937818)
@@ -28,9 +28,9 @@
 22. [FDE：一个缩写，两种命运](https://juejin.cn/post/7686806089748693007)
 23. [实现一个图形编辑器](https://juejin.cn/post/7686803938519957514)
 24. [独立 App 首发完成 iPhone Duo 展开态适配](https://juejin.cn/post/7686529021817143336)
-25. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
-26. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
-27. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
+25. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
+26. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
+27. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
 28. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
 29. [也许我们误解了DeepSeek-V4.1-Flash，罪魁祸首其实是它](https://juejin.cn/post/7686774294090383386)
 30. [之前用 AI 两小时写的塔罗网站，我真把它做上线了，然后呢？](https://juejin.cn/post/7686767414039396367)
@@ -44,10 +44,10 @@
 38. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
 39. [大模型的参数量为什么那么大？](https://juejin.cn/post/7686949251356033074)
 40. [Android-休眠唤醒后onLocationChanged没有数据问题排查](https://juejin.cn/post/7686803938521022474)
-41. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
-42. [Redis主从切换竟让业务卡了3秒？这个坑我替你踩了](https://juejin.cn/post/7686861782687449128)
-43. [Shopify 弃 React Native 上了 HN 1272 分，我复现了它给 Agent 用的那套无头架构](https://juejin.cn/post/7686808742222954515)
-44. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
+41. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
+42. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
+43. [Redis主从切换竟让业务卡了3秒？这个坑我替你踩了](https://juejin.cn/post/7686861782687449128)
+44. [Shopify 弃 React Native 上了 HN 1272 分，我复现了它给 Agent 用的那套无头架构](https://juejin.cn/post/7686808742222954515)
 45. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
 46. [WorkBuddy + 腾讯乐享，原来知识库还能这么用](https://juejin.cn/post/7687386851713073198)
 47. [Vue3 Composition API 最佳实践，别再乱写 setup 了](https://juejin.cn/post/7687077659597652009)
