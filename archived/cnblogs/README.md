@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-21 14:47:09
+> 更新时间：2026-09-21 15:33:23
 
 ## 最新帖子
 
 1. [第4篇：《Python 流程控制——条件判断与循环结构》](https://www.cnblogs.com/bigant9527/p/23062748)
-2. [JAVA下载问题及解决过程](https://www.cnblogs.com/xqb123/p/23062408)
-3. [Git：让代码不再是一堆“最终版”文件夹](https://www.cnblogs.com/zw-awa/p/23047566)
-4. [iNeuOS工业互联网，Web组态增加三维（3D）模型渲染、标注、巡检、预警功能](https://www.cnblogs.com/lsjwq/p/23061841)
-5. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
-6. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
-7. [AI 视频生成进阶：Prompt 之外的镜头语言、构图与运镜方法](https://www.cnblogs.com/jacklu/p/23061028)
-8. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-9. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
-10. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
-11. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
-12. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-13. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
-14. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
-15. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
-16. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
-17. [2026互联网大厂秋招AI Coding笔试全攻略！](https://www.cnblogs.com/jinjiangongzuoshi/p/23056537)
-18. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
-19. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
-20. [Docker Swarm 线上环境 MariaDB XA 悬停事务故障排查](https://www.cnblogs.com/zjdxr-up/p/23049231)
+2. [Git：让代码不再是一堆“最终版”文件夹](https://www.cnblogs.com/zw-awa/p/23047566)
+3. [iNeuOS工业互联网，Web组态增加三维（3D）模型渲染、标注、巡检、预警功能](https://www.cnblogs.com/lsjwq/p/23061841)
+4. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
+5. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
+6. [AI 视频生成进阶：Prompt 之外的镜头语言、构图与运镜方法](https://www.cnblogs.com/jacklu/p/23061028)
+7. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
+8. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
+9. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
+10. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
+11. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
+12. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
+13. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
+14. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
+15. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
+16. [2026互联网大厂秋招AI Coding笔试全攻略！](https://www.cnblogs.com/jinjiangongzuoshi/p/23056537)
+17. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
+18. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
+19. [Docker Swarm 线上环境 MariaDB XA 悬停事务故障排查](https://www.cnblogs.com/zjdxr-up/p/23049231)
+20. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
 
 ## 精华帖子
 
