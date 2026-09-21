@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-22 02:26:26
+> 更新时间：2026-09-22 03:18:40
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [宋承良评球｜一个足球记者眼中的中国篮球](https://www.thepaper.cn/newsDetail_forward_34114051)
 14. [马上评｜“闲鱼涉黄”又上热搜，平台治理不能限于封号整改](https://www.thepaper.cn/newsDetail_forward_34115171)
 15. [AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”](https://www.thepaper.cn/newsDetail_forward_34114249)
-16. [覃伟中被查，广东：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34117046)
-17. [咸阳一新生儿遭月子中心护工拍打案一审裁定：涉嫌虐待，移送公安](https://www.thepaper.cn/newsDetail_forward_34116356)
-18. [中美经贸磋商在美国纽约举行](https://www.thepaper.cn/newsDetail_forward_34113727)
-19. [厄尔尼诺、地缘冲突影响国际粮食市场，国家粮食和物资储备局：我国粮食安全有可靠保障](https://www.thepaper.cn/newsDetail_forward_34114077)
+16. [咸阳一新生儿遭月子中心护工拍打案一审裁定：涉嫌虐待，移送公安](https://www.thepaper.cn/newsDetail_forward_34116356)
+17. [覃伟中被查，广东：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34117046)
+18. [重庆理工大学通报“廖某被我校原教师李某性侵后报警未立案”](https://www.thepaper.cn/newsDetail_forward_34117570)
+19. [中美经贸磋商在美国纽约举行](https://www.thepaper.cn/newsDetail_forward_34113727)
 20. [“金九”上海二手房单日成交冲出下半年新高，多个新房项目认购触发积分](https://www.thepaper.cn/newsDetail_forward_34111567)
