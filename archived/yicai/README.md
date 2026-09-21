@@ -1,10 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-22 02:31:39
+> 更新时间：2026-09-22 03:08:17
 
 ## 7x24
 
-1. [中东局势带动全球超大型油轮采购潮](https://m.yicai.com/brief/103373028.html)
-2. [王毅同德国外长瓦德富尔通电话](https://m.yicai.com/brief/103373026.html)
-3. [巴基斯坦与伊朗两国内政部长就双边关系和地区局势交换意见](https://m.yicai.com/brief/103373024.html)
-4. [欧股主要股指收盘集体上涨](https://m.yicai.com/brief/103373022.html)
+1. [派拉蒙天舞就收购华纳兄弟案与12州达成和解](https://m.yicai.com/brief/103373039.html)
+2. [欧盟通过延长对俄制裁方案 期限长达三年](https://m.yicai.com/brief/103373037.html)
+3. [国际原子能机构：扎波罗热核电站附近袭击频发 核安全风险持续](https://m.yicai.com/brief/103373035.html)
+4. [伦钴本轮下跌幅度逼近30%](https://m.yicai.com/brief/103373033.html)
+5. [标准普尔：银行对人工智能的应用将很快影响它们信用评级](https://m.yicai.com/brief/103373031.html)
