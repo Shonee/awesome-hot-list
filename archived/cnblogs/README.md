@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-21 21:23:18
+> 更新时间：2026-09-21 22:24:22
 
 ## 最新帖子
 
-1. [如何看待前 OpenAI 研究员发布的新模型「Jev」 ？这不就是SimCSE的翻版吗？](https://www.cnblogs.com/apachecn/p/23068328)
-2. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
-3. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
-4. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
-5. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
-6. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
-7. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
-8. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-9. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
-10. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
-11. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
-12. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-13. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
-14. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
-15. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
-16. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
-17. [2026互联网大厂秋招AI Coding笔试全攻略！](https://www.cnblogs.com/jinjiangongzuoshi/p/23056537)
-18. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
-19. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
-20. [Docker Swarm 线上环境 MariaDB XA 悬停事务故障排查](https://www.cnblogs.com/zjdxr-up/p/23049231)
+1. [喜报！白鲸开源斩获“创客北京2026”创新创业大赛海淀区级赛企业组二等奖](https://www.cnblogs.com/seatunnel/p/23069334)
+2. [计算机组成原理强化小结](https://www.cnblogs.com/snmwyl/p/23069220)
+3. [如何看待前 OpenAI 研究员发布的新模型「Jev」 ？这不就是SimCSE的翻版吗？](https://www.cnblogs.com/apachecn/p/23068328)
+4. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
+5. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
+6. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
+7. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
+8. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
+9. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
+10. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
+11. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
+12. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
+13. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
+14. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
+15. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
+16. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
+17. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
+18. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
+19. [2026互联网大厂秋招AI Coding笔试全攻略！](https://www.cnblogs.com/jinjiangongzuoshi/p/23056537)
+20. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [又是一年了，那个“不务正业“的央企程序员](https://www.cnblogs.com/yubaolee/p/23042984/starganttdev)
 2. [.NET 11 来了！ASP.NET Core 新特性全解析，HTTP/2/HTTP/3 这次真的变了](https://www.cnblogs.com/shanyou/p/23042166)
 3. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
-4. [如何快速上传10G文件](https://www.cnblogs.com/zrui-xyu/p/23043556)
-5. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
+4. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
+5. [如何快速上传10G文件](https://www.cnblogs.com/zrui-xyu/p/23043556)
 6. [Cloudflare 这个老功能，被 AI Coding 重新带火了](https://www.cnblogs.com/kaifazhinan/p/23040147/cloudflare-tunnels)
