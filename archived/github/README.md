@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-21 22:33:34
+> 更新时间：2026-09-22 05:28:10
 
 ## 每日趋势
 
@@ -140,7 +140,6 @@
 6. [opensource.guide](https://github.com/github/opensource.guide)
 7. [simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit)
 8. [Top10](https://github.com/OWASP/Top10)
-9. [dev-days](https://github.com/github/dev-days)
 
 ## JavaScript
 
