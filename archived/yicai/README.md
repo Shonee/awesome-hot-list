@@ -1,6 +1,6 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-22 01:21:51
+> 更新时间：2026-09-22 01:34:23
 
 ## 7x24
 
@@ -17,5 +17,3 @@
 11. [纳斯达克100指数涨幅扩大至2%](https://m.yicai.com/brief/103373006.html)
 12. [OpenAI据悉正开发新功能 应对Grok Bot与Meta个人AI助手竞争](https://m.yicai.com/brief/103373004.html)
 13. [建发股份与中国地质调查局发展研究中心签署合作协议](https://m.yicai.com/brief/103373002.html)
-14. [慧博云通：拟收购控股子公司南京金信49%股权](https://m.yicai.com/brief/103373000.html)
-15. [布伦特原油期货跌破每桶100美元](https://m.yicai.com/brief/103372998.html)
