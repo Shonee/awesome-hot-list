@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-22 01:17:58
+> 更新时间：2026-09-22 02:26:07
 
 ## 热门文章
 
@@ -17,8 +17,8 @@
 11. [React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”](https://juejin.cn/post/7686769981477814313)
 12. [Jev 入门第一课](https://juejin.cn/post/7686925590315696138)
 13. [推荐一个牛逼的AgentScope系统](https://juejin.cn/post/7687438959296413732)
-14. [Sass 和 Less 在 2026 年彻底多余了吗？](https://juejin.cn/post/7687521521468325929)
-15. [Jev来了，一个不会说话的AI模型正在改写自动化的规则](https://juejin.cn/post/7686762541280378889)
+14. [Jev来了，一个不会说话的AI模型正在改写自动化的规则](https://juejin.cn/post/7686762541280378889)
+15. [Sass 和 Less 在 2026 年彻底多余了吗？](https://juejin.cn/post/7687521521468325929)
 16. [货拉拉开源Hadice：安卓 & 鸿蒙桌面调试工具](https://juejin.cn/post/7687209773675937818)
 17. [DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？](https://juejin.cn/post/7687537292214501412)
 18. [Kotlin 协程闯关：看代码，猜结果](https://juejin.cn/post/7687445339747958793)
@@ -26,8 +26,8 @@
 20. [弃用 ZCode，转 DeepSeek Harness：我用 GitHub Actions 自建 Windows 打包的全实录](https://juejin.cn/post/7686780705862582278)
 21. [FDE：一个缩写，两种命运](https://juejin.cn/post/7686806089748693007)
 22. [独立 App 首发完成 iPhone Duo 展开态适配](https://juejin.cn/post/7686529021817143336)
-23. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
-24. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
+23. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
+24. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 25. [实现一个图形编辑器](https://juejin.cn/post/7686803938519957514)
 26. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
 27. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
@@ -38,11 +38,11 @@
 32. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
 33. [AI 幻觉导致的错误情报险些引发美军拦截中国船只](https://juejin.cn/post/7686780705862746118)
 34. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
-35. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
-36. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
-37. [Android-休眠唤醒后onLocationChanged没有数据问题排查](https://juejin.cn/post/7686803938521022474)
-38. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
-39. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
+35. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
+36. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
+37. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
+38. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
+39. [Android-休眠唤醒后onLocationChanged没有数据问题排查](https://juejin.cn/post/7686803938521022474)
 40. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
 41. [大模型的参数量为什么那么大？](https://juejin.cn/post/7686949251356033074)
 42. [Redis主从切换竟让业务卡了3秒？这个坑我替你踩了](https://juejin.cn/post/7686861782687449128)
