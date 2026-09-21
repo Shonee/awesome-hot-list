@@ -1,12 +1,12 @@
 # 央视新闻热榜
 
-> 更新时间：2026-09-22 06:20:49
+> 更新时间：2026-09-22 07:19:55
 
 ## 最新发布
 
-1. [城市微更新松绑提速 多地闲置空间重获新生](https://news.cctv.com/2026/09/21/ARTIo7JNu9uK3a0S69zO9AbG260920.shtml)
-2. [多国跟进“最严社媒禁令” 中国方案有哪些新思路？](https://news.cctv.com/2026/09/21/ARTI2CvtDkRMesFs9coCIb7D260921.shtml)
-3. [“像中国人一样生活”圈粉海外游客 入境游持续升温](https://news.cctv.com/2026/09/21/ARTIaihXW9lsheQ9pRvdZABT260920.shtml)
-4. [前八个月消费市场稳中提质 结构持续优化](https://tv.cctv.com/2026/09/21/VIDEiGq7v6J3pauNArfSn5Ww260921.shtml)
-5. [在轨近4个月 神二十三乘组开展多项任务](https://tv.cctv.com/2026/09/21/VIDEcpQuLUnOvo1SgEUolRbr260921.shtml)
-6. [证券交易App惊现“高仿”版本 多位股民被骗](https://tv.cctv.com/2026/09/20/VIDEzeG4DmzelP24yX7ilc29260920.shtml)
+1. [烈士纪念丰碑屹立桂北 红军精神扎根热土](https://military.cctv.com/2026/09/21/ARTIXX1l2atMuLzzYf94HJbO260921.shtml)
+2. [中方将举行全球发展倡议5周年高级别对话会](https://news.cctv.com/2026/09/22/ARTI14v5qHi29ECJyzHbjuug260922.shtml)
+3. [伊朗总统22日赴美出席联合国大会](https://news.cctv.com/2026/09/21/ARTIikh3MqlQFPBfNJfT6vun260921.shtml)
+4. [亚运会 中国队单日斩获12枚金牌](https://tv.cctv.com/2026/09/22/VIDEQVm8AWY8zRDOsi2CeCj1260922.shtml)
+5. [揭开“中食办”所谓“中字头”身份的真相](https://tv.cctv.com/2026/09/21/VIDEVBrKR48nWCkoLJsgtLtp260921.shtml)
+6. [俄罗斯称 欧洲正面临“史上最严重”能源危机](https://tv.cctv.com/2026/09/21/VIDEdEUU5jh4wmS0R2Iih7S3260921.shtml)

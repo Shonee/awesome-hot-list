@@ -1,16 +1,16 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-22 06:20:49
+> 更新时间：2026-09-22 07:19:54
 
 ## 热新闻
 
 1. [广东省人大常委会党组成员覃伟中被查，曾任深圳市长](https://www.thepaper.cn/newsDetail_forward_34116039)
-2. [张又侠、刘振立严重违纪违法被开除党籍军籍](https://www.thepaper.cn/newsDetail_forward_34116353)
-3. [咸阳一新生儿遭月子中心护工拍打案一审裁定：涉嫌虐待，移送公安](https://www.thepaper.cn/newsDetail_forward_34116356)
+2. [咸阳一新生儿遭月子中心护工拍打案一审裁定：涉嫌虐待，移送公安](https://www.thepaper.cn/newsDetail_forward_34116356)
+3. [张又侠、刘振立严重违纪违法被开除党籍军籍](https://www.thepaper.cn/newsDetail_forward_34116353)
 4. [重庆理工大学通报“廖某被我校原教师李某性侵后报警未立案”](https://www.thepaper.cn/newsDetail_forward_34117570)
 5. [贾国龙：结合西贝惨痛的教训，恳请进一步厘清高流量网络账号的言论边界](https://www.thepaper.cn/newsDetail_forward_34114549)
 6. [枣庄16岁少年与14岁女孩发生性关系获刑3年，申诉被驳回](https://www.thepaper.cn/newsDetail_forward_34115853)
-7. [中国创新药走到转折点：何时能出百亿爆款？](https://www.thepaper.cn/newsDetail_forward_34110001)
+7. [美批准向沙特出售F-35战机，对中东军力格局影响有多大？](https://www.thepaper.cn/newsDetail_forward_34115876)
 8. [独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单](https://www.thepaper.cn/newsDetail_forward_34113571)
 9. [中共中央政治局召开会议，讨论拟提请二十届五中全会审议的文件，中共中央总书记习近平主持会议](https://www.thepaper.cn/newsDetail_forward_34114731)
 10. [闲鱼回应平台出现色情引流情况：成立专项小组，呼吁各平台联合行动](https://www.thepaper.cn/newsDetail_forward_34114114)
@@ -21,6 +21,6 @@
 15. [体坛联播｜十人皇马1比2不敌马竞，曼城5轮全胜领跑英超](https://www.thepaper.cn/newsDetail_forward_34111885)
 16. [宋承良评球｜一个足球记者眼中的中国篮球](https://www.thepaper.cn/newsDetail_forward_34114051)
 17. [世界技能大赛｜每一双手，都在创造未来](https://www.thepaper.cn/newsDetail_forward_34108901)
-18. [马上评｜“闲鱼涉黄”又上热搜，平台治理不能限于封号整改](https://www.thepaper.cn/newsDetail_forward_34115171)
-19. [AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”](https://www.thepaper.cn/newsDetail_forward_34114249)
+18. [AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”](https://www.thepaper.cn/newsDetail_forward_34114249)
+19. [马上评｜“闲鱼涉黄”又上热搜，平台治理不能限于封号整改](https://www.thepaper.cn/newsDetail_forward_34115171)
 20. [反外国制裁法适用再添新案例，安世相关主体21.39亿元等额财产被查封、扣押、冻结](https://www.thepaper.cn/newsDetail_forward_34118448)

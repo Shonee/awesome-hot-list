@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-22 06:20:34
+> 更新时间：2026-09-22 07:19:25
 
 ## 热门文章
 
@@ -25,15 +25,15 @@
 19. [Kotlin 协程闯关：看代码，猜结果](https://juejin.cn/post/7687445339747958793)
 20. [弃用 ZCode，转 DeepSeek Harness：我用 GitHub Actions 自建 Windows 打包的全实录](https://juejin.cn/post/7686780705862582278)
 21. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
-22. [FDE：一个缩写，两种命运](https://juejin.cn/post/7686806089748693007)
-23. [实现一个图形编辑器](https://juejin.cn/post/7686803938519957514)
-24. [独立 App 首发完成 iPhone Duo 展开态适配](https://juejin.cn/post/7686529021817143336)
+22. [独立 App 首发完成 iPhone Duo 展开态适配](https://juejin.cn/post/7686529021817143336)
+23. [FDE：一个缩写，两种命运](https://juejin.cn/post/7686806089748693007)
+24. [实现一个图形编辑器](https://juejin.cn/post/7686803938519957514)
 25. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
 26. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 27. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
-28. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
-29. [也许我们误解了DeepSeek-V4.1-Flash，罪魁祸首其实是它](https://juejin.cn/post/7686774294090383386)
-30. [之前用 AI 两小时写的塔罗网站，我真把它做上线了，然后呢？](https://juejin.cn/post/7686767414039396367)
+28. [之前用 AI 两小时写的塔罗网站，我真把它做上线了，然后呢？](https://juejin.cn/post/7686767414039396367)
+29. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
+30. [也许我们误解了DeepSeek-V4.1-Flash，罪魁祸首其实是它](https://juejin.cn/post/7686774294090383386)
 31. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
 32. [从 Windows 换到 Mac 三个月，我真香了](https://juejin.cn/post/7686714970139131944)
 33. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
@@ -48,9 +48,9 @@
 42. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
 43. [Redis主从切换竟让业务卡了3秒？这个坑我替你踩了](https://juejin.cn/post/7686861782687449128)
 44. [Shopify 弃 React Native 上了 HN 1272 分，我复现了它给 Agent 用的那套无头架构](https://juejin.cn/post/7686808742222954515)
-45. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
-46. [WorkBuddy + 腾讯乐享，原来知识库还能这么用](https://juejin.cn/post/7687386851713073198)
-47. [Vue3 Composition API 最佳实践，别再乱写 setup 了](https://juejin.cn/post/7687077659597652009)
-48. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
-49. [阿里开源的 AI 代码评审工具，我喂了 5 个坑，一个没漏](https://juejin.cn/post/7686777563219345458)
-50. [一套审批流要写多少代码：13 个框架的接入 diff 我数了一遍，最少 422 行，最多 1798 行](https://juejin.cn/post/7686769981477552169)
+45. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
+46. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
+47. [WorkBuddy + 腾讯乐享，原来知识库还能这么用](https://juejin.cn/post/7687386851713073198)
+48. [Vue3 Composition API 最佳实践，别再乱写 setup 了](https://juejin.cn/post/7687077659597652009)
+49. [一套审批流要写多少代码：13 个框架的接入 diff 我数了一遍，最少 422 行，最多 1798 行](https://juejin.cn/post/7686769981477552169)
+50. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)

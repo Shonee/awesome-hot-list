@@ -1,13 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-22 07:08:35
+> 更新时间：2026-09-22 07:20:53
 
-## 7x24
+## 首页头条
 
-1. [今年秋招，公私募打响AI人才争夺战](https://m.yicai.com/brief/103373085.html)
-2. [专家：四季度人民币汇率或偏强运行双向波动](https://m.yicai.com/brief/103373083.html)
-3. [近40家公司预告三季度业绩，AI产业链高景气度持续兑现](https://m.yicai.com/brief/103373056.html)
-4. [法国债务或创48年新高](https://m.yicai.com/brief/103373054.html)
-5. [国际金价跌超0.8%，纽约期铜五天涨约5.9%](https://m.yicai.com/brief/103373052.html)
-6. [白宫自导自演"特朗普电视台"：五大电视网集体停播，官方直播只剩画面没声音](https://m.yicai.com/brief/103373050.html)
-7. [美股半导体指数创8月4日以来最佳单日表现](https://m.yicai.com/brief/103373047.html)
+1. [智算中心上演交付竞赛，算电协同迎来双向基建大考](https://www.yicai.com/news/103372841.html)
+2. [多家企业奖励员工婚育，多地宣布结婚发钱](https://www.yicai.com/news/103372556.html)
+3. [节前机票超低价捡漏机会来了！票价低至两三百，比高铁二等座便宜](https://www.yicai.com/news/103372038.html)
+4. [千万家庭被困阿尔茨海默病，“漫长告别”背后的照护之战](https://www.yicai.com/news/103372041.html)
+5. [“蔚小理零”都开始卖技术，这门生意有多大？](https://www.yicai.com/news/103372166.html)
