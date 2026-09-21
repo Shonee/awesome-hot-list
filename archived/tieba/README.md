@@ -1,14 +1,14 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-21 17:31:29
+> 更新时间：2026-09-21 18:24:16
 
 ## 最有料热点
 
 1. [CS主播茄子输光家产变老赖](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365113&topic_name=CS%E4%B8%BB%E6%92%AD%E8%8C%84%E5%AD%90%E8%BE%93%E5%85%89%E5%AE%B6%E4%BA%A7%E5%8F%98%E8%80%81%E8%B5%96)
-2. [儿子数学不及格,家人删MC存档](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365096&topic_name=%E5%84%BF%E5%AD%90%E6%95%B0%E5%AD%A6%E4%B8%8D%E5%8F%8A%E6%A0%BC%2C%E5%AE%B6%E4%BA%BA%E5%88%A0MC%E5%AD%98%E6%A1%A3)
-3. [川大新规:吸烟取消学费减免](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365111&topic_name=%E5%B7%9D%E5%A4%A7%E6%96%B0%E8%A7%84%3A%E5%90%B8%E7%83%9F%E5%8F%96%E6%B6%88%E5%AD%A6%E8%B4%B9%E5%87%8F%E5%85%8D)
-4. [西贝怒告罗永浩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365070&topic_name=%E8%A5%BF%E8%B4%9D%E6%80%92%E5%91%8A%E7%BD%97%E6%B0%B8%E6%B5%A9)
-5. [闲鱼涉黄,14岁少女被标价](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365071&topic_name=%E9%97%B2%E9%B1%BC%E6%B6%89%E9%BB%84%2C14%E5%B2%81%E5%B0%91%E5%A5%B3%E8%A2%AB%E6%A0%87%E4%BB%B7)
+2. [川大新规:吸烟取消学费减免](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365111&topic_name=%E5%B7%9D%E5%A4%A7%E6%96%B0%E8%A7%84%3A%E5%90%B8%E7%83%9F%E5%8F%96%E6%B6%88%E5%AD%A6%E8%B4%B9%E5%87%8F%E5%85%8D)
+3. [西贝怒告罗永浩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365070&topic_name=%E8%A5%BF%E8%B4%9D%E6%80%92%E5%91%8A%E7%BD%97%E6%B0%B8%E6%B5%A9)
+4. [闲鱼涉黄,14岁少女被标价](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365071&topic_name=%E9%97%B2%E9%B1%BC%E6%B6%89%E9%BB%84%2C14%E5%B2%81%E5%B0%91%E5%A5%B3%E8%A2%AB%E6%A0%87%E4%BB%B7)
+5. [儿子数学不及格,家人删MC存档](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365096&topic_name=%E5%84%BF%E5%AD%90%E6%95%B0%E5%AD%A6%E4%B8%8D%E5%8F%8A%E6%A0%BC%2C%E5%AE%B6%E4%BA%BA%E5%88%A0MC%E5%AD%98%E6%A1%A3)
 6. [霓虹汉服女生拒与外国人合影](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365097&topic_name=%E9%9C%93%E8%99%B9%E6%B1%89%E6%9C%8D%E5%A5%B3%E7%94%9F%E6%8B%92%E4%B8%8E%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%88%E5%BD%B1)
 7. [韩网嘲笑中国人调休](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365074&topic_name=%E9%9F%A9%E7%BD%91%E5%98%B2%E7%AC%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B0%83%E4%BC%91)
 8. [1张卡顶套房,Faker卡牌卖165万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365112&topic_name=1%E5%BC%A0%E5%8D%A1%E9%A1%B6%E5%A5%97%E6%88%BF%2CFaker%E5%8D%A1%E7%89%8C%E5%8D%96165%E4%B8%87)

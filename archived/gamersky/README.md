@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-21 17:31:24
+> 更新时间：2026-09-21 18:24:10
 
 ## 热点资讯排行
 
@@ -10,12 +10,12 @@
 4. [百万奖金](https://www.gamersky.com/news/202609/2212881.shtml)
 5. [《GTA:东京》突遭曝光！今日游民最热新闻大汇总](https://www.gamersky.com/news/202609/2212528.shtml)
 6. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
-7. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
-8. [《生化危机：爆发夜》枪版资源大规模泄露！9000人同时观看](https://www.gamersky.com/news/202609/2212670.shtml)
+7. [《生化危机：爆发夜》枪版资源大规模泄露！9000人同时观看](https://www.gamersky.com/news/202609/2212670.shtml)
+8. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
 9. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
-10. [苹果在中国又卖爆了！库克微博发文：让人倍感振奋](https://www.gamersky.com/news/202609/2212907.shtml)
-11. [卡普空小萝莉再现举牌名场面！有点恐怖谷效应](https://www.gamersky.com/news/202609/2213091.shtml)
-12. [西贝贾国龙称罗永浩下跪才和解！恩怨难消再上热搜](https://www.gamersky.com/news/202609/2213715.shtml)
-13. [游戏主播茄子成老赖！被执行290万](https://www.gamersky.com/news/202609/2213499.shtml)
+10. [西贝贾国龙称罗永浩下跪才和解！恩怨难消再上热搜](https://www.gamersky.com/news/202609/2213715.shtml)
+11. [苹果在中国又卖爆了！库克微博发文：让人倍感振奋](https://www.gamersky.com/news/202609/2212907.shtml)
+12. [游戏主播茄子成老赖！被执行290万](https://www.gamersky.com/news/202609/2213499.shtml)
+13. [卡普空小萝莉再现举牌名场面！有点恐怖谷效应](https://www.gamersky.com/news/202609/2213091.shtml)
 14. [《炉石》](https://www.gamersky.com/news/202609/2213101.shtml)
 15. [G胖奇怪癖好曝光！沉迷蒙古呼麦 甚至还在办公室锻刀](https://www.gamersky.com/news/202609/2212727.shtml)
