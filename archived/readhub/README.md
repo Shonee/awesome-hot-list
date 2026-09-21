@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-21 12:27:57
+> 更新时间：2026-09-21 13:23:57
 
 ## 24 小时热榜
 
@@ -20,11 +20,11 @@
 14. [华为 Mate 90 系列下周宣布，五款机型将登场](https://readhub.cn/topic/8wYIUnVyFfs?tab=daily)
 15. [西贝起诉罗永浩案即将开庭，大 V 理记质疑其借事重塑舆论](https://readhub.cn/topic/8wZeo816js1?tab=daily)
 16. [智谱正式开源 ZCode](https://readhub.cn/topic/8wb1ABaMNcV?tab=daily)
-17. [启元个人机器人近 2 万元起售，高配版价格贵于苹果折叠屏手机](https://readhub.cn/topic/8wZooWbXNzu?tab=daily)
-18. [iPhone 18 Pro 屏幕左上角现斑点，系缩小灵动岛所致](https://readhub.cn/topic/8wZsQ3pZA34?tab=daily)
+17. [iPhone 18 Pro 屏幕左上角现斑点，系缩小灵动岛所致](https://readhub.cn/topic/8wZsQ3pZA34?tab=daily)
+18. [启元个人机器人近 2 万元起售，高配版价格贵于苹果折叠屏手机](https://readhub.cn/topic/8wZooWbXNzu?tab=daily)
 19. [Aether AI 发布因果世界模型 CausalWM，获 TriWorldBench 榜首](https://readhub.cn/topic/8wagPdTqMdK?tab=daily)
-20. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
-21. [Anthropic 推演 2030 年 AI 对美经济及就业的三种情景](https://readhub.cn/topic/8wZgxPESINP?tab=daily)
+20. [Anthropic 推演 2030 年 AI 对美经济及就业的三种情景](https://readhub.cn/topic/8wZgxPESINP?tab=daily)
+21. [B 站上线「AI 无限竞技场」，GPT-6 Astra 暂居榜首](https://readhub.cn/topic/8wZaX0JCAYI?tab=daily)
 22. [苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜](https://readhub.cn/topic/8wZF5PLXd9c?tab=daily)
 23. [微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能「动手」执行](https://readhub.cn/topic/8wZhfygYibn?tab=daily)
 24. [百度搭子用户规模环比增长 9 倍 企业版升级并启动生态共创](https://readhub.cn/topic/8wZo6zgcfGS?tab=daily)
@@ -33,7 +33,7 @@
 27. [法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元](https://readhub.cn/topic/8wZDfleZoya?tab=daily)
 28. [英特尔关停旧漏洞赏金计划，新机制无现金奖励](https://readhub.cn/topic/8wYJxl4ewiG?tab=daily)
 29. [三家文生视频公司转型布局世界模型](https://readhub.cn/topic/8wZhfhHv0KX?tab=daily)
-30. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制](https://readhub.cn/topic/8wZgxKL16KO?tab=daily)
+30. [GPT-6 Astra 无条件证明哥德巴赫猜想刘维尔弱形式](https://readhub.cn/topic/8wb18xk3SpQ?tab=daily)
 
 ## 每日早报
 
@@ -54,6 +54,6 @@
 5. [通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化](https://www.aibase.com/zh/news/31212)
 6. [用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓](https://www.aibase.com/zh/news/31225)
 7. [微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览](https://www.aibase.com/zh/news/31216)
-8. [深度解读：关于 Jev 的几大疑问](https://www.leiphone.com/category/yanxishe/NWrXUxymnfYDTSCF.html)
-9. [中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国](https://www.aibase.com/zh/news/31226)
-10. [TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一](https://www.aibase.com/zh/news/31215)
+8. [具身智能模型公司方奇科技完成千万级天使轮融资](https://www.leiphone.com/category/industrynews/YREhdZ1XsK1D5Rfi.html)
+9. [深度解读：关于 Jev 的几大疑问](https://www.leiphone.com/category/yanxishe/NWrXUxymnfYDTSCF.html)
+10. [中国大模型周调用量达 67.46 万亿 Token，连续 21 周领先美国](https://www.aibase.com/zh/news/31226)
