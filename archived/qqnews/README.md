@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-21 11:28:53
+> 更新时间：2026-09-21 12:28:02
 
 ## 热点榜
 
 1. [习近平主席引领全球发展倡议造福世界](https://view.inews.qq.com/a/20260920A0CWOC00)
-2. [今天，亚运赛场将决出18金！冲金点一览](https://view.inews.qq.com/a/20260921A01YU800)
-3. [北京奥运会背包现身名古屋亚运会：18年了，拉链和肩带完好，中国制造的含金量还在不断上升](https://view.inews.qq.com/a/20260920A04D0000)
+2. [DNA检测技术可“跨界”打假肉类制品！最高检：已用此办法处理检材1千余份](https://view.inews.qq.com/a/20260921A04NT000)
+3. [每周质量报告丨“绵羊绒”竟一根羊绒都没有 个别团体自创概念误导消费者](https://view.inews.qq.com/a/20260920A09PWJ00)
 4. [绘就多彩丰收图景](https://view.inews.qq.com/a/20260920A02VDM00)
-5. [抗滑值不到国标一半，谁在给“滑道斑马线”放行](https://view.inews.qq.com/a/20260920A0DGG700)
-6. [百余年来首个定名猫科新物种！比普通家猫小](https://view.inews.qq.com/a/20260920A0CK3V00)
-7. [假流水、假合同 总台曝光明码标价的骗保灰色产业链](https://view.inews.qq.com/a/20260920A0D24D00)
-8. [A股大手笔分红即将实施](https://view.inews.qq.com/a/20260921A027Z200)
-9. [起底高市“新型军国主义”幕后推手](https://view.inews.qq.com/a/20260921A026YI00)
-10. [五角大楼“披萨指数”飙升！特朗普提前返回白宫](https://view.inews.qq.com/a/20260921A006CF00)
+5. [CNN火力全开：中期选举临近，特朗普举动越来越滑稽](https://view.inews.qq.com/a/20260921A02MVJ00)
+6. [未来10天华西地区仍多降雨 需警惕持续降雨引发的次生灾害](https://view.inews.qq.com/a/20260921A02ZZO00)
+7. [摆脱对华依赖？“中国货便宜30%，企业每天都想选”](https://view.inews.qq.com/a/20260921A02MVU00)
+8. [男子网购空礼盒装入散装月饼，总成本不到25元，包出高档效果](https://view.inews.qq.com/a/20260921A003XU00)
+9. [2026年名古屋亚运会](https://view.inews.qq.com/a/UTR2026090406706200)
+10. [抗滑值不到国标一半，谁在给“滑道斑马线”放行](https://view.inews.qq.com/a/20260920A0DGG700)
 11. [肾炎必须尿蛋白指标 0+ 才是治愈？](https://view.inews.qq.com/a/20260920A0BCAV00)
-12. [中国男篮队长发声](https://view.inews.qq.com/a/20260920A0CG8G00)
-13. [又画饼！马斯克无聊公司将修超级高铁：2.5小时行程可缩至30分钟内](https://view.inews.qq.com/a/20260921A02BSJ00)
-14. [西贝贾国龙现身演讲：呼吁厘清高流量账号的言论边界，区分舆论监督和网络软暴力](https://view.inews.qq.com/a/20260921A02CVW00)
+12. [西贝贾国龙现身演讲：呼吁厘清高流量账号的言论边界，区分舆论监督和网络软暴力](https://view.inews.qq.com/a/20260921A02CVW00)
+13. [独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单](https://view.inews.qq.com/a/20260921A03HNJ00)
+14. [吸烟学生将失去学费减免资格，四川大学资助条款引热议](https://view.inews.qq.com/a/20260921A03GO700)
 15. [iPhone 18 Pro系列首销超32万台 库克发文：让人倍感振奋](https://view.inews.qq.com/a/20260921A02EZM00)
-16. [CNN火力全开：中期选举临近，特朗普举动越来越滑稽](https://view.inews.qq.com/a/20260921A02MVJ00)
-17. [显示器也开始涨价了，部分产品涨幅达13%](https://view.inews.qq.com/a/20260920A0BHM600)
-18. [王楚钦回应亚运会官网搞错比分：打到第三局9：3才发现，感觉打半天要输了，于是中断比赛示意修改](https://view.inews.qq.com/a/20260920A0D7Y600)
+16. [王楚钦回应亚运会官网搞错比分：打到第三局9：3才发现，感觉打半天要输了，于是中断比赛示意修改](https://view.inews.qq.com/a/20260920A0D7Y600)
+17. [西安表态：深挖彻查、绝不姑息](https://view.inews.qq.com/a/20260921A03KSW00)
+18. [丰田将首次在中国推出增程式汽车，2027年4月投产](https://view.inews.qq.com/a/20260921A04DV300)
 19. [我国著名外科学家、医学教育家、湖南省政协原副主席韩明逝世](https://view.inews.qq.com/a/20260920A0DCWS00)
-20. [是什么让北大复旦校长都如此紧张](https://view.inews.qq.com/a/20260921A020LE00)
+20. [卡尼：只有四国处于AI前沿，除了中美，还有法国、加拿大](https://view.inews.qq.com/a/20260921A03XMC00)

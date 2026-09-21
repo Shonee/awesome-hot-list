@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-21 11:28:40
+> 更新时间：2026-09-21 12:27:48
 
 ## 最新帖子
 
-1. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-2. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
-3. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
-4. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-5. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
-6. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
-7. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
-8. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
-9. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
-10. [Docker Swarm 线上环境 MariaDB XA 悬停事务故障排查](https://www.cnblogs.com/zjdxr-up/p/23049231)
-11. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
-12. [服务器又卡了？一篇讲透 Linux 性能排查（基础四件套 + perf/strace/火焰图）](https://www.cnblogs.com/codigger/p/23048446)
-13. [HarmonyOS智慧多窗，让应用在任意窗口都“恰到好处”](https://www.cnblogs.com/HarmonyOSSDK/p/23048305)
-14. [OctaFuse Gateway 2.11.0：流式请求优化、用户折扣策略与错误契约升级](https://www.cnblogs.com/didispace/p/23047331)
-15. [使用 DuckDB 分析 Parquet 文件](https://www.cnblogs.com/wang_yb/p/23046497)
-16. [一次游戏安全SO静态分析记录：腾讯ACE与FairGuard加固强度对比](https://www.cnblogs.com/bytehidden/p/23046349)
-17. [Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起](https://www.cnblogs.com/xianxh/p/23045625)
-18. [数据库主从复制扩展(一)](https://www.cnblogs.com/zhangwencheng/p/21331027)
-19. [如何快速上传10G文件](https://www.cnblogs.com/zrui-xyu/p/23043556)
-20. [又是一年了，那个“不务正业“的央企程序员](https://www.cnblogs.com/yubaolee/p/23042984/starganttdev)
+1. [AI 视频生成进阶：Prompt 之外的镜头语言、构图与运镜方法](https://www.cnblogs.com/jacklu/p/23061028)
+2. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
+3. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
+4. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
+5. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
+6. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
+7. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
+8. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
+9. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
+10. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
+11. [Docker Swarm 线上环境 MariaDB XA 悬停事务故障排查](https://www.cnblogs.com/zjdxr-up/p/23049231)
+12. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
+13. [服务器又卡了？一篇讲透 Linux 性能排查（基础四件套 + perf/strace/火焰图）](https://www.cnblogs.com/codigger/p/23048446)
+14. [HarmonyOS智慧多窗，让应用在任意窗口都“恰到好处”](https://www.cnblogs.com/HarmonyOSSDK/p/23048305)
+15. [OctaFuse Gateway 2.11.0：流式请求优化、用户折扣策略与错误契约升级](https://www.cnblogs.com/didispace/p/23047331)
+16. [使用 DuckDB 分析 Parquet 文件](https://www.cnblogs.com/wang_yb/p/23046497)
+17. [一次游戏安全SO静态分析记录：腾讯ACE与FairGuard加固强度对比](https://www.cnblogs.com/bytehidden/p/23046349)
+18. [Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起](https://www.cnblogs.com/xianxh/p/23045625)
+19. [数据库主从复制扩展(一)](https://www.cnblogs.com/zhangwencheng/p/21331027)
+20. [如何快速上传10G文件](https://www.cnblogs.com/zrui-xyu/p/23043556)
 
 ## 精华帖子
 
