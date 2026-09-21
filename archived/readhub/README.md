@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-21 23:21:24
+> 更新时间：2026-09-22 00:24:43
 
 ## 24 小时热榜
 
@@ -14,26 +14,26 @@
 8. [Aether AI 发布因果世界模型 CausalWM，获 TriWorldBench 榜首](https://readhub.cn/topic/8wagPdTqMdK?tab=daily)
 9. [GPT-6 Astra 无条件证明哥德巴赫猜想刘维尔弱形式](https://readhub.cn/topic/8wb18xk3SpQ?tab=daily)
 10. [iPhone 18 Pro Max 闪存极限测试：大负载下性能落后 SD 卡](https://readhub.cn/topic/8wb1BINodEF?tab=daily)
-11. [法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元](https://readhub.cn/topic/8wZDfleZoya?tab=daily)
-12. [麦当劳多门店被举报数据造假、售卖到期奶浆，涉事餐厅回应](https://readhub.cn/topic/8wa7PgoZ5Tg?tab=daily)
-13. [长鑫科技第五代技术平台量产；力箭一号订单排至 2027 下半年](https://readhub.cn/topic/8wam8ZNBD7s?tab=daily)
-14. [保时捷卡宴 3.0T 逐梦版狂降 30 万：V6 四驱仅售 61.8 万元](https://readhub.cn/topic/8wZyqU2IyJ7?tab=daily)
-15. [罗永浩再发文吐槽港式茶餐厅但没公开点名：都不容易](https://readhub.cn/topic/8wb7e4BMAhb?tab=daily)
-16. [iPhone 20 Pro 被曝采用无边四曲面设计 灵动岛变小](https://readhub.cn/topic/8wb9lMAWUAI?tab=daily)
-17. [马斯克转发帖文称 GPT-6 Astra 模拟测试推人下悬崖](https://readhub.cn/topic/8wbJjkOey74?tab=daily)
-18. [研究发现 ChatGPT 可通过 Cookie 追踪用户跨站购物等记录](https://readhub.cn/topic/8wb1CfQ64wP?tab=daily)
-19. [OpenAI 称物理断网难阻 AI，可借温度低速通信](https://readhub.cn/topic/8wZvG50J6I4?tab=daily)
+11. [麦当劳多门店被举报数据造假、售卖到期奶浆，涉事餐厅回应](https://readhub.cn/topic/8wa7PgoZ5Tg?tab=daily)
+12. [长鑫科技第五代技术平台量产；力箭一号订单排至 2027 下半年](https://readhub.cn/topic/8wam8ZNBD7s?tab=daily)
+13. [保时捷卡宴 3.0T 逐梦版狂降 30 万：V6 四驱仅售 61.8 万元](https://readhub.cn/topic/8wZyqU2IyJ7?tab=daily)
+14. [罗永浩再发文吐槽港式茶餐厅但没公开点名：都不容易](https://readhub.cn/topic/8wb7e4BMAhb?tab=daily)
+15. [iPhone 20 Pro 被曝采用无边四曲面设计 灵动岛变小](https://readhub.cn/topic/8wb9lMAWUAI?tab=daily)
+16. [马斯克转发帖文称 GPT-6 Astra 模拟测试推人下悬崖](https://readhub.cn/topic/8wbJjkOey74?tab=daily)
+17. [研究发现 ChatGPT 可通过 Cookie 追踪用户跨站购物等记录](https://readhub.cn/topic/8wb1CfQ64wP?tab=daily)
+18. [OpenAI 称物理断网难阻 AI，可借温度低速通信](https://readhub.cn/topic/8wZvG50J6I4?tab=daily)
+19. [小米 AI 硬创团队近期开源 4 个 AI 硬件探索项目](https://readhub.cn/topic/8wbVCjFoqOt?tab=daily)
 20. [中国 AI 大模型周调用量连续二十一周领跑：DeepSeek V4.1-Flash 登顶，环比增长 219%](https://readhub.cn/topic/8wb40K8fhHo?tab=daily)
 21. [OpenAI 披露六份失准报告，揭示 AI 越界的三种机制](https://readhub.cn/topic/8wZgxKL16KO?tab=daily)
-22. [小米 AI 硬创团队近期开源 4 个 AI 硬件探索项目](https://readhub.cn/topic/8wbVCjFoqOt?tab=daily)
-23. [Jev 全网解禁 新用户获 1.2 亿 Token 免费额度](https://readhub.cn/topic/8wbR3RQLmHS?tab=daily)
-24. [钟南山团队新发现：71% 肺结节患者不吸烟](https://readhub.cn/topic/8wa5GKm2Jsa?tab=daily)
-25. [问界推进专属专营 赛力斯股价「三连涨」](https://readhub.cn/topic/8wbEiOGE8wS?tab=daily)
-26. [IDC 报告：耳夹式耳机成开放式耳机主流，市场格局分化竞争加剧](https://readhub.cn/topic/8wbAQJSuWtk?tab=daily)
+22. [Jev 全网解禁 新用户获 1.2 亿 Token 免费额度](https://readhub.cn/topic/8wbR3RQLmHS?tab=daily)
+23. [钟南山团队新发现：71% 肺结节患者不吸烟](https://readhub.cn/topic/8wa5GKm2Jsa?tab=daily)
+24. [问界推进专属专营 赛力斯股价「三连涨」](https://readhub.cn/topic/8wbEiOGE8wS?tab=daily)
+25. [IDC 报告：耳夹式耳机成开放式耳机主流，市场格局分化竞争加剧](https://readhub.cn/topic/8wbAQJSuWtk?tab=daily)
+26. [保时捷首席执行官：保时捷不计划额外裁员 4000 人](https://readhub.cn/topic/8wbLrhZ58Js?tab=daily)
 27. [Anthropic、字节布局 AI 制药，数据成关键瓶颈](https://readhub.cn/topic/8wbKTtlo45T?tab=daily)
-28. [保时捷首席执行官：保时捷不计划额外裁员 4000 人](https://readhub.cn/topic/8wbLrhZ58Js?tab=daily)
-29. [月之暗面发布 Kimi Code Desktop 桌面客户端](https://readhub.cn/topic/8wbO1OqgfTN?tab=daily)
-30. [微软工程师花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变成 80 万行 Rust，快 15.9 倍](https://readhub.cn/topic/8wbT0P9YcS0?tab=daily)
+28. [月之暗面发布 Kimi Code Desktop 桌面客户端](https://readhub.cn/topic/8wbO1OqgfTN?tab=daily)
+29. [微软工程师花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变成 80 万行 Rust，快 15.9 倍](https://readhub.cn/topic/8wbT0P9YcS0?tab=daily)
+30. [iPhone 19 或被跳过，iPhone 20 Pro 配置曝光](https://readhub.cn/topic/8wbVF82kaeM?tab=daily)
 
 ## 每日早报
 
