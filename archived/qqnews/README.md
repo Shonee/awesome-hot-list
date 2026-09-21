@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-21 16:33:39
+> 更新时间：2026-09-21 17:30:55
 
 ## 热点榜
 
@@ -15,12 +15,12 @@
 9. [天安门广场巨型花篮已初露真容，预计25日正式完工亮相](https://view.inews.qq.com/a/20260920A0CGIN00)
 10. [夺刀女警王妙丽，在人民日报撰文](https://view.inews.qq.com/a/20260921A02JUY00)
 11. [新鲜肉突然跳动是因为有寄生虫？](https://view.inews.qq.com/a/20260920A0BCAZ00)
-12. [央视曝光后，泰安市委市政府要求迅速查清事实，岱岳区第一时间成立联合调查组，控制6人](https://view.inews.qq.com/a/20260921A05Y7X00)
-13. [吸烟学生将失去学费减免资格，四川大学资助条款引热议](https://view.inews.qq.com/a/20260921A03GO700)
-14. [男子称住酒店被床上针头扎入手臂，保安直接徒手拔针！酒店回应：针不一定是酒店的](https://view.inews.qq.com/a/20260921V04YDG00)
-15. [58岁生下儿子60岁再诞一女 “失独”妈妈：希望孩子能有个伴，夫妻俩已退休可专心带娃](https://view.inews.qq.com/a/20260920A0BQBQ00)
-16. [男子网购空礼盒装入散装月饼，总成本不到25元，包出高档效果](https://view.inews.qq.com/a/20260921A003XU00)
-17. [是什么让北大复旦校长都如此紧张](https://view.inews.qq.com/a/20260921A020LE00)
-18. [特朗普突然宣布：改！](https://view.inews.qq.com/a/20260921A064OM00)
+12. [点击抽奖丨假期“发福”，趣玩不停](https://h5.news.qq.com/maker/prod/publish/M0dY3hg7zb01oiAdQl43f.html)
+13. [特朗普突然宣布：改！](https://view.inews.qq.com/a/20260921A064OM00)
+14. [央视曝光后，泰安市委市政府要求迅速查清事实，岱岳区第一时间成立联合调查组，控制6人](https://view.inews.qq.com/a/20260921A05Y7X00)
+15. [西安表态：深挖彻查、绝不姑息](https://view.inews.qq.com/a/20260921A03KSW00)
+16. [钟南山团队研究发现，71%肺结节患者从不吸烟](https://view.inews.qq.com/a/20260921A04IAX00)
+17. [保安清早捡到3张纸条：“我已20小时，没有进食进水，帮我，求你们”](https://view.inews.qq.com/a/20260921A05P1000)
+18. [男子网购空礼盒装入散装月饼，总成本不到25元，包出高档效果](https://view.inews.qq.com/a/20260921A003XU00)
 19. [父女同涉39亿元资金占用案：实控人父亲默许纵容，董事长女儿组织实施](https://view.inews.qq.com/a/20260921A04HQV00)
-20. [西安表态：深挖彻查、绝不姑息](https://view.inews.qq.com/a/20260921A03KSW00)
+20. [中国游客奈良喂鹿遭公鹿袭击受伤，就诊花费两千余元](https://view.inews.qq.com/a/20260920A0BFVI00)

@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-21 16:33:36
+> 更新时间：2026-09-21 17:30:51
 
 ## 热新闻
 
@@ -11,8 +11,8 @@
 5. [关店风暴中的西贝：部分门店客流恢复乏力，“工资能正常发就很难得了”](https://www.thepaper.cn/newsDetail_forward_34108501)
 6. [中国创新药走到转折点：何时能出百亿爆款？](https://www.thepaper.cn/newsDetail_forward_34110001)
 7. [中国男篮铜牌战不敌伊朗，无缘爱知·名古屋亚运会领奖台](https://www.thepaper.cn/newsDetail_forward_34109298)
-8. [大方之谈丨对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34087937)
-9. [贾国龙：结合西贝惨痛的教训，恳请进一步厘清高流量网络账号的言论边界](https://www.thepaper.cn/newsDetail_forward_34114549)
+8. [贾国龙：结合西贝惨痛的教训，恳请进一步厘清高流量网络账号的言论边界](https://www.thepaper.cn/newsDetail_forward_34114549)
+9. [大方之谈丨对话郁金泰：一个医生想用“大数据”跑赢阿尔茨海默病](https://www.thepaper.cn/newsDetail_forward_34087937)
 10. [夜读｜父亲的慢时光](https://www.thepaper.cn/newsDetail_forward_34096809)
 11. [重庆某公益组织副会长报警称遭性侵未获立案，涉事大学老师反诉名誉侵权被驳回](https://www.thepaper.cn/newsDetail_forward_34103628)
 12. [齐齐哈尔一小学班主任被指殴打7岁男童，区教育局：已查实，正在处理](https://www.thepaper.cn/newsDetail_forward_34109489)

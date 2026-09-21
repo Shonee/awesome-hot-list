@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-21 16:33:20
+> 更新时间：2026-09-21 17:30:37
 
 ## 热门文章
 
@@ -21,8 +21,8 @@
 15. [Jev来了，一个不会说话的AI模型正在改写自动化的规则](https://juejin.cn/post/7686762541280378889)
 16. [Sass 和 Less 在 2026 年彻底多余了吗？](https://juejin.cn/post/7687521521468325929)
 17. [货拉拉开源Hadice：安卓 & 鸿蒙桌面调试工具](https://juejin.cn/post/7687209773675937818)
-18. [弃用 ZCode，转 DeepSeek Harness：我用 GitHub Actions 自建 Windows 打包的全实录](https://juejin.cn/post/7686780705862582278)
-19. [推荐一个牛逼的AgentScope系统](https://juejin.cn/post/7687438959296413732)
+18. [推荐一个牛逼的AgentScope系统](https://juejin.cn/post/7687438959296413732)
+19. [弃用 ZCode，转 DeepSeek Harness：我用 GitHub Actions 自建 Windows 打包的全实录](https://juejin.cn/post/7686780705862582278)
 20. [实现一个图形编辑器](https://juejin.cn/post/7686803938519957514)
 21. [独立 App 首发完成 iPhone Duo 展开态适配](https://juejin.cn/post/7686529021817143336)
 22. [DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？](https://juejin.cn/post/7687537292214501412)
@@ -37,20 +37,20 @@
 31. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
 32. [Android-休眠唤醒后onLocationChanged没有数据问题排查](https://juejin.cn/post/7686803938521022474)
 33. [AI 幻觉导致的错误情报险些引发美军拦截中国船只](https://juejin.cn/post/7686780705862746118)
-34. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
-35. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
-36. [大模型的参数量为什么那么大？](https://juejin.cn/post/7686949251356033074)
-37. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
-38. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
+34. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
+35. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
+36. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
+37. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
+38. [大模型的参数量为什么那么大？](https://juejin.cn/post/7686949251356033074)
 39. [Shopify 弃 React Native 上了 HN 1272 分，我复现了它给 Agent 用的那套无头架构](https://juejin.cn/post/7686808742222954515)
 40. [从 Windows 换到 Mac 三个月，我真香了](https://juejin.cn/post/7686714970139131944)
 41. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
 42. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
 43. [WorkBuddy + 腾讯乐享，原来知识库还能这么用](https://juejin.cn/post/7687386851713073198)
 44. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
-45. [阿里开源的 AI 代码评审工具，我喂了 5 个坑，一个没漏](https://juejin.cn/post/7686777563219345458)
-46. [Vue3 Composition API 最佳实践，别再乱写 setup 了](https://juejin.cn/post/7687077659597652009)
-47. [vLLM 的 token 预算还有余量，为什么请求仍被抢占？](https://juejin.cn/post/7687209773675446298)
-48. [React 为何不做双端 diff？Vue 与 React 更新逻辑的三层差异](https://juejin.cn/post/7686710853032362022)
+45. [Vue3 Composition API 最佳实践，别再乱写 setup 了](https://juejin.cn/post/7687077659597652009)
+46. [阿里开源的 AI 代码评审工具，我喂了 5 个坑，一个没漏](https://juejin.cn/post/7686777563219345458)
+47. [一套审批流要写多少代码：13 个框架的接入 diff 我数了一遍，最少 422 行，最多 1798 行](https://juejin.cn/post/7686769981477552169)
+48. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 49. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
-50. [Redis主从切换竟让业务卡了3秒？这个坑我替你踩了](https://juejin.cn/post/7686861782687449128)
+50. [AI Agent 为什么总是失忆？一篇讲透 Agent Memory](https://juejin.cn/post/7687377634816294912)
