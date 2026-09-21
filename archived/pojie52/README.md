@@ -1,19 +1,19 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-22 04:21:30
+> 更新时间：2026-09-22 05:19:30
 
 ## 人气热门
 
-1. [豆包输入法  V0.9.0](https://www.52pojie.cn/thread-2129058-1-1.html)
-2. [中华人民共和国药典(2025年版)1.0版本](https://www.52pojie.cn/thread-2128710-1-1.html)
-3. [茶话间 Teahouse v0.57.0](https://www.52pojie.cn/thread-2127934-1-1.html)
-4. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
-5. [鼠标自动点击工具 AutoClick v1.5.5](https://www.52pojie.cn/thread-2128494-1-1.html)
-6. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
-7. [视频下载器 Videdown v1.2.7](https://www.52pojie.cn/thread-2129168-1-1.html)
-8. [手机投屏控制助手 scrcpy-helper v1.5.2](https://www.52pojie.cn/thread-2127053-1-1.html)
-9. [OCR识图添加转表格功能 PaddleOCR-V6-Portable -1.01](https://www.52pojie.cn/thread-2127382-1-1.html)
-10. [人体穴位图解3.2.1版本](https://www.52pojie.cn/thread-2128627-1-1.html)
+1. [人体穴位图解3.2.1版本](https://www.52pojie.cn/thread-2128627-1-1.html)
+2. [豆包输入法  V0.9.0](https://www.52pojie.cn/thread-2129058-1-1.html)
+3. [鼠标自动点击工具 AutoClick v1.5.5](https://www.52pojie.cn/thread-2128494-1-1.html)
+4. [中华人民共和国药典(2025年版)1.0版本](https://www.52pojie.cn/thread-2128710-1-1.html)
+5. [茶话间 Teahouse v0.57.0](https://www.52pojie.cn/thread-2127934-1-1.html)
+6. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
+7. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
+8. [视频下载器 Videdown v1.2.7](https://www.52pojie.cn/thread-2129168-1-1.html)
+9. [手机投屏控制助手 scrcpy-helper v1.5.2](https://www.52pojie.cn/thread-2127053-1-1.html)
+10. [OCR识图添加转表格功能 PaddleOCR-V6-Portable -1.01](https://www.52pojie.cn/thread-2127382-1-1.html)
 11. [古诗词宝典 · Chinese Poetry Reader · v1.0.1](https://www.52pojie.cn/thread-2127172-1-1.html)
 12. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
 13. [本地模型 快捷截图OCR工具（自动写入粘贴板）](https://www.52pojie.cn/thread-2128632-1-1.html)

@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-22 04:21:21
+> 更新时间：2026-09-22 05:19:18
 
 ## 热门文章
 
@@ -49,8 +49,8 @@
 43. [Shopify 弃 React Native 上了 HN 1272 分，我复现了它给 Agent 用的那套无头架构](https://juejin.cn/post/7686808742222954515)
 44. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
 45. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
-46. [Vue3 Composition API 最佳实践，别再乱写 setup 了](https://juejin.cn/post/7687077659597652009)
-47. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
-48. [阿里开源的 AI 代码评审工具，我喂了 5 个坑，一个没漏](https://juejin.cn/post/7686777563219345458)
-49. [一套审批流要写多少代码：13 个框架的接入 diff 我数了一遍，最少 422 行，最多 1798 行](https://juejin.cn/post/7686769981477552169)
-50. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
+46. [WorkBuddy + 腾讯乐享，原来知识库还能这么用](https://juejin.cn/post/7687386851713073198)
+47. [Vue3 Composition API 最佳实践，别再乱写 setup 了](https://juejin.cn/post/7687077659597652009)
+48. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
+49. [阿里开源的 AI 代码评审工具，我喂了 5 个坑，一个没漏](https://juejin.cn/post/7686777563219345458)
+50. [一套审批流要写多少代码：13 个框架的接入 diff 我数了一遍，最少 422 行，最多 1798 行](https://juejin.cn/post/7686769981477552169)
