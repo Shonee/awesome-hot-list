@@ -152,7 +152,7 @@ jobs:
 
           git -C "$GITHUB_WORKSPACE/runtime" config user.name "github-actions[bot]"
           git -C "$GITHUB_WORKSPACE/runtime" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git -C "$GITHUB_WORKSPACE/runtime" switch --orphan compacted-data-pages
+          git -C "$GITHUB_WORKSPACE/runtime" switch --orphan -f compacted-data-pages
           git -C "$GITHUB_WORKSPACE/runtime" rm -rf --ignore-unmatch .
           if [ -d "$snapshot_dir/archived" ]; then
             cp -a "$snapshot_dir/archived" "$GITHUB_WORKSPACE/runtime/"
