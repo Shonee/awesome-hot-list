@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-21 18:23:58
+> 更新时间：2026-09-21 19:21:15
 
 ## 热点榜
 
@@ -10,11 +10,11 @@
 4. [视频丨农业农村部：今年全国秋粮播种面积预计稳中略增](https://view.inews.qq.com/a/20260921A047NW00)
 5. [中国，又一批三四线“地铁城市”来了](https://view.inews.qq.com/a/20260920A0D0HB00)
 6. [前770米落后 最后30米绝杀日本！男子4x200自中国破亚洲纪录夺冠](https://view.inews.qq.com/a/20260921A056H000)
-7. [节前机票超低价捡漏机会来了！票价低至两三百，比高铁二等座便宜](https://view.inews.qq.com/a/20260921A05K3J00)
+7. [我国天关卫星联合拉索观测新发现！](https://view.inews.qq.com/a/20260921A060KH00)
 8. [2026年名古屋亚运会](https://view.inews.qq.com/a/UTR2026090406706200)
-9. [天安门广场巨型花篮已初露真容，预计25日正式完工亮相](https://view.inews.qq.com/a/20260920A0CGIN00)
-10. [夺刀女警王妙丽，在人民日报撰文](https://view.inews.qq.com/a/20260921A02JUY00)
-11. [造谣“某企业基地班长不让普工上厕所”者被行拘（2026·09·21）](https://www.piyao.org.cn/20260921/3d630945e3844697b19e76ce9a238222/c.html)
+9. [明年正式发布实施！二手车鉴定国标将迎重大变化，事故车判定不再“一刀切”](https://view.inews.qq.com/a/20260921A08TFE00)
+10. [电诈逃到马达加斯加？中马警方首次联手清剿，遣返50人](https://view.inews.qq.com/a/20260921A09DQJ00)
+11. [诈骗套路多，网贷需谨慎](https://mp.weixin.qq.com/s/3v_hi0zIBEMEnC-_R-peeQ)
 12. [点击抽奖丨假期“发福”，趣玩不停](https://h5.news.qq.com/maker/prod/publish/M0dY3hg7zb01oiAdQl43f.html)
 13. [张又侠、刘振立严重违纪违法被开除党籍军籍](https://view.inews.qq.com/a/20260921A09P4W00)
 14. [30楼窗外突现一陌生男子，自称在修空调，包里却搜出百克黄金](https://view.inews.qq.com/a/20260921V064YO00)
@@ -22,5 +22,5 @@
 16. [特朗普突然宣布：改！](https://view.inews.qq.com/a/20260921A064OM00)
 17. [钟南山团队研究发现，71%肺结节患者从不吸烟](https://view.inews.qq.com/a/20260921A04IAX00)
 18. [保安清早捡到3张纸条：“我已20小时，没有进食进水，帮我，求你们”](https://view.inews.qq.com/a/20260921A05P1000)
-19. [24秒04！中国队第17金诞生：徐嘉余再破亚运纪录 王梓成获银牌](https://view.inews.qq.com/a/20260921A087F300)
-20. [我国著名外科学家、医学教育家、湖南省政协原副主席韩明逝世](https://view.inews.qq.com/a/20260920A0DCWS00)
+19. [2天2冠！13岁于子迪200混破亚洲纪录夺冠，距世界纪录仅差0.4秒](https://view.inews.qq.com/a/20260921A0953G00)
+20. [一代人的银幕记忆，走了](https://view.inews.qq.com/a/20260921A07TNI00)
