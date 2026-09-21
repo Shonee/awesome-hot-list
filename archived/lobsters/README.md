@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-21 09:01:08
+> 更新时间：2026-09-21 09:38:18
 
 ## Hottest
 
@@ -16,16 +16,16 @@
 10. [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
 11. [we have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
 12. [Using non-breakable spaces in test method names](https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names)
-13. [How Notion handles concurrent editing with CRDTs](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts)
-14. [Vim's UserGettingBored autocmd](https://evanhahn.com/usergettingbored-vim/)
-15. [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
-16. [HEIF Heist](https://heif-heist.com)
-17. [Adversarial examples for fast hash functions](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
-18. [Roku launches open-source Roku LT OS for creative programmers](https://blog.roku.com/developer/roku-lt-os)
-19. [Bot-free self-hosted analytics with GoatCounter on NixOS](https://vincent.bernat.ch/en/blog/2026-goatcounter)
+13. [Adversarial examples for fast hash functions](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
+14. [How Notion handles concurrent editing with CRDTs](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts)
+15. [Vim's UserGettingBored autocmd](https://evanhahn.com/usergettingbored-vim/)
+16. [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
+17. [Bot-free self-hosted analytics with GoatCounter on NixOS](https://vincent.bernat.ch/en/blog/2026-goatcounter)
+18. [HEIF Heist](https://heif-heist.com)
+19. [Roku launches open-source Roku LT OS for creative programmers](https://blog.roku.com/developer/roku-lt-os)
 20. [I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a "Breakthrough"](https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me)
-21. [Quarkdown: Turing-complete Markdown typesetting system](https://github.com/iamgio/quarkdown)
-22. [What's been going on in w64devkit the past year](https://nullprogram.com/blog/2026/09/20/)
-23. [Don’t Let Architecture Astronauts Scare You (2001)](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
-24. [What happens to TLDs when their country stops existing? (2022)](https://astrid.tech/2022/04/05/0/dead-tlds/)
+21. [A study of sequence weighting at scale](https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/)
+22. [Quarkdown: Turing-complete Markdown typesetting system](https://github.com/iamgio/quarkdown)
+23. [What's been going on in w64devkit the past year](https://nullprogram.com/blog/2026/09/20/)
+24. [Don’t Let Architecture Astronauts Scare You (2001)](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 25. [Unix Year 2038 problem and the art of underestimating](https://www.buzzsprout.com/2469780/episodes/19824439)
