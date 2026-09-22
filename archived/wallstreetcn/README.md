@@ -1,45 +1,49 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-22 13:10:17
+> 更新时间：2026-09-22 13:26:02
 
 ## 7x24
 
-1. [罗氏Enicepatide在II期T2D试验中达到两项主要终点](https://wallstreetcn.com/livenews/3168675)
-2. [A股煤炭板块午后拉升，大有能源逼近涨停，云煤能源、大有能源、郑州煤电、晋控煤业、陕西黑猫跟涨。](https://wallstreetcn.com/livenews/3168672)
-3. [印度尼西亚镍业中心因厄尔尼诺引发的干旱将减产。（彭博）](https://wallstreetcn.com/livenews/3168671)
-4. [丁向群会见香港特区政府财政司司长陈茂波](https://wallstreetcn.com/livenews/3168666)
-5. [机构：二季度全球真无线耳机出货量同比下降0.7%至8210万台](https://wallstreetcn.com/livenews/3168665)
-6. [觅蜂科技最新估值冲击百亿元？公司回应：不予置评](https://wallstreetcn.com/livenews/3168664)
-7. [阿里平头哥公布CPU规划，2027年将推出倚天720、倚天730两代芯片](https://wallstreetcn.com/livenews/3168663)
-8. [中韩举行海洋事务对话合作机制第四次会议](https://wallstreetcn.com/livenews/3168662)
-9. [支持眼动追踪、虹膜支付，千问新一代AI眼镜亮相云栖大会](https://wallstreetcn.com/livenews/3168661)
-10. [早间要闻汇总](https://wallstreetcn.com/livenews/3168660)
-11. [提醒：日内请重点关注（以下均为北京时间）](https://wallstreetcn.com/livenews/3168659)
-12. [广东发行20年期其他专项地方债，规模10.0000亿元，发行利率2.1938%，边际倍数1.52倍，倍数预期2.33；
+1. [股N世纪日内涨幅扩大至521%，N中塑扩大涨幅至677%，双双触发二次临停。](https://wallstreetcn.com/livenews/3168683)
+2. [新股N世纪午后扩大涨幅至405%，触发临停，成交超6亿元。](https://wallstreetcn.com/livenews/3168681)
+3. [新股N中塑午后拉升涨超530%触发临停。](https://wallstreetcn.com/livenews/3168680)
+4. [工信部旗下媒体：“去宁德化”论调要不得](https://wallstreetcn.com/livenews/3168679)
+5. [罗氏Enicepatide在II期T2D试验中达到两项主要终点](https://wallstreetcn.com/livenews/3168675)
+6. [A股煤炭板块午后拉升，大有能源逼近涨停，云煤能源、大有能源、郑州煤电、晋控煤业、陕西黑猫跟涨。](https://wallstreetcn.com/livenews/3168672)
+7. [印度尼西亚镍业中心因厄尔尼诺引发的干旱将减产。（彭博）](https://wallstreetcn.com/livenews/3168671)
+8. [丁向群会见香港特区政府财政司司长陈茂波](https://wallstreetcn.com/livenews/3168666)
+9. [机构：二季度全球真无线耳机出货量同比下降0.7%至8210万台](https://wallstreetcn.com/livenews/3168665)
+10. [觅蜂科技最新估值冲击百亿元？公司回应：不予置评](https://wallstreetcn.com/livenews/3168664)
+11. [平头哥公布CPU规划，将推倚天720、倚天730和倚天750三代芯片](https://wallstreetcn.com/livenews/3168663)
+12. [中韩举行海洋事务对话合作机制第四次会议](https://wallstreetcn.com/livenews/3168662)
+13. [支持眼动追踪、虹膜支付，千问新一代AI眼镜亮相云栖大会](https://wallstreetcn.com/livenews/3168661)
+14. [早间要闻汇总](https://wallstreetcn.com/livenews/3168660)
+15. [提醒：日内请重点关注（以下均为北京时间）](https://wallstreetcn.com/livenews/3168659)
+16. [广东发行20年期其他专项地方债，规模10.0000亿元，发行利率2.1938%，边际倍数1.52倍，倍数预期2.33；
 
 广东发行10年期一般债地方债，规模25.8688亿元，发行利率1.6800%，边际倍数1.01倍，倍数预期1.7...](https://wallstreetcn.com/livenews/3168658)
-13. [欧洲央行首席经济学家Lane：当前并未看到通胀的第二轮效应。
+17. [欧洲央行首席经济学家Lane：当前并未看到通胀的第二轮效应。
 
 能源价格上涨将推高食品价格。
 
 服务业价格压力应能保持受控。
 
 经济将以稳定但适度的速度增长。](https://wallstreetcn.com/livenews/3168657)
-14. [阿里平头哥AI芯片真武V900将于2027年一季度上市](https://wallstreetcn.com/livenews/3168656)
-15. [欧洲央行首席经济学家Lane：通胀率将高于预期，且持续时间更长。
+18. [阿里平头哥AI芯片真武V900将于2027年一季度上市](https://wallstreetcn.com/livenews/3168656)
+19. [欧洲央行首席经济学家Lane：通胀率将高于预期，且持续时间更长。
 
 地缘政治风险似乎再次升高。](https://wallstreetcn.com/livenews/3168654)
-16. [千问手机来了](https://wallstreetcn.com/livenews/3168653)
-17. [澳洲联储主席布洛克：澳元基本处于反映基本面的合理区间内。](https://wallstreetcn.com/livenews/3168652)
-18. [美团王莆中：10万家闪电仓、2000亿GMV目标将提前完成](https://wallstreetcn.com/livenews/3168651)
-19. [澳洲联储主席布洛克：人工智能生产力繁荣仍处于早期阶段。](https://wallstreetcn.com/livenews/3168649)
-20. [1—8月全国电力市场交易电量同比增长19.2%](https://wallstreetcn.com/livenews/3168648)
-21. [京东方陈炎顺：预计未来五年研发资金超800亿元，坚持“三个开放”](https://wallstreetcn.com/livenews/3168647)
-22. [成都1宗宅地溢价39.6%成交](https://wallstreetcn.com/livenews/3168646)
-23. [澳洲联储主席布洛克：当前4.5%的失业率“偏紧”。](https://wallstreetcn.com/livenews/3168645)
-24. [沃尔玛中国调整双业态采购负责人](https://wallstreetcn.com/livenews/3168644)
-25. [澳洲联储主席布洛克：当前房价的回调幅度与历史调整时期基本一致。](https://wallstreetcn.com/livenews/3168641)
-26. [上证指数早盘收报3958.64点，涨0.22%。
+20. [千问手机来了](https://wallstreetcn.com/livenews/3168653)
+21. [澳洲联储主席布洛克：澳元基本处于反映基本面的合理区间内。](https://wallstreetcn.com/livenews/3168652)
+22. [美团王莆中：10万家闪电仓、2000亿GMV目标将提前完成](https://wallstreetcn.com/livenews/3168651)
+23. [澳洲联储主席布洛克：人工智能生产力繁荣仍处于早期阶段。](https://wallstreetcn.com/livenews/3168649)
+24. [1—8月全国电力市场交易电量同比增长19.2%](https://wallstreetcn.com/livenews/3168648)
+25. [京东方陈炎顺：预计未来五年研发资金超800亿元，坚持“三个开放”](https://wallstreetcn.com/livenews/3168647)
+26. [成都1宗宅地溢价39.6%成交](https://wallstreetcn.com/livenews/3168646)
+27. [澳洲联储主席布洛克：当前4.5%的失业率“偏紧”。](https://wallstreetcn.com/livenews/3168645)
+28. [沃尔玛中国调整双业态采购负责人](https://wallstreetcn.com/livenews/3168644)
+29. [澳洲联储主席布洛克：当前房价的回调幅度与历史调整时期基本一致。](https://wallstreetcn.com/livenews/3168641)
+30. [上证指数早盘收报3958.64点，涨0.22%。
 
 深证成指早盘收报13814.87点，涨0.62%。
 
@@ -48,70 +52,55 @@
 沪深300早盘收报4562.50点，涨0.51%。
 
 科创50早盘收报167...](https://wallstreetcn.com/livenews/3168640)
-27. [9月22日午间收评：创业板指冲高回落涨近1%，传媒板块集体走强](https://wallstreetcn.com/livenews/3168639)
-28. [国债期货早盘收盘，30年期主力合约涨0.25%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。](https://wallstreetcn.com/livenews/3168637)
-29. [台风杜鹃致日本4人死6人失踪](https://wallstreetcn.com/livenews/3168636)
-30. [特朗普将于当地时间周二上午11:45在纽约会见英国首相，12:30会见日本首相，13:15会见乌克兰总统泽连斯基，14:45会见海湾合作委员会成员，19:40会见委内瑞拉代总统。](https://wallstreetcn.com/livenews/3168635)
-31. [澳洲联储主席布洛克：澳大利亚企业的活力似乎有所下降。
+31. [9月22日午间收评：创业板指冲高回落涨近1%，传媒板块集体走强](https://wallstreetcn.com/livenews/3168639)
+32. [国债期货早盘收盘，30年期主力合约涨0.25%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。](https://wallstreetcn.com/livenews/3168637)
+33. [台风杜鹃致日本4人死6人失踪](https://wallstreetcn.com/livenews/3168636)
+34. [特朗普将于当地时间周二上午11:45在纽约会见英国首相，12:30会见日本首相，13:15会见乌克兰总统泽连斯基，14:45会见海湾合作委员会成员，19:40会见委内瑞拉代总统。](https://wallstreetcn.com/livenews/3168635)
+35. [澳洲联储主席布洛克：澳大利亚企业的活力似乎有所下降。
 
 几乎没有迹象表明人工智能正在影响经济的供给侧。
 
 大量证据表明人工智能正在影响需求方。](https://wallstreetcn.com/livenews/3168634)
-32. [内蒙古发行10年期一般债地方债，规模48.5328亿元，发行利率1.7300%，边际倍数1.79倍，倍数预期1.73；
+36. [内蒙古发行10年期一般债地方债，规模48.5328亿元，发行利率1.7300%，边际倍数1.79倍，倍数预期1.73；
 
 内蒙古发行15年期普通专项地方债，规模7.5140亿元，发行利率2.0600%，边际倍数1.24倍，倍数预期2.07。](https://wallstreetcn.com/livenews/3168633)
-33. [加拿大贸易部长：加美关系对商业和供应链至关重要。
+37. [加拿大贸易部长：加美关系对商业和供应链至关重要。
 
 加拿大将继续与美国进行对话。
 
 加拿大希望与美国达成公平协议。](https://wallstreetcn.com/livenews/3168632)
-34. [进出口行发行1年期债券，规模140亿元，发行利率1.3477%，预期1.3500%，投标倍数2.62倍，边际倍数1.45倍。](https://wallstreetcn.com/livenews/3168631)
-35. [韩国政府表示，将为德克萨斯州天然气电厂提供全额投资资金，但股权将与美方按50比50平分。](https://wallstreetcn.com/livenews/3168630)
-36. [韩国产业部表示，对美投资计划最终将由特朗普宣布；若美方提出要求，资金需在45天内汇出。（韩联社）](https://wallstreetcn.com/livenews/3168629)
-37. [韩国政府表示，即使仅持有西屋电气5%至10%的股份，韩国也将拥有投票权。（韩联社）](https://wallstreetcn.com/livenews/3168628)
-38. [澳洲联储主席布洛克：供应侧冲击对货币政策而言难以应对。
+38. [进出口行发行1年期债券，规模140亿元，发行利率1.3477%，预期1.3500%，投标倍数2.62倍，边际倍数1.45倍。](https://wallstreetcn.com/livenews/3168631)
+39. [韩国政府表示，将为德克萨斯州天然气电厂提供全额投资资金，但股权将与美方按50比50平分。](https://wallstreetcn.com/livenews/3168630)
+40. [韩国产业部表示，对美投资计划最终将由特朗普宣布；若美方提出要求，资金需在45天内汇出。（韩联社）](https://wallstreetcn.com/livenews/3168629)
+41. [韩国政府表示，即使仅持有西屋电气5%至10%的股份，韩国也将拥有投票权。（韩联社）](https://wallstreetcn.com/livenews/3168628)
+42. [澳洲联储主席布洛克：供应侧冲击对货币政策而言难以应对。
 
 货币政策需要应对通胀的第二轮效应。
 
 担忧通胀预期变得根深蒂固。](https://wallstreetcn.com/livenews/3168626)
-39. [到2030年 全国海洋生产总值将突破13万亿元](https://wallstreetcn.com/livenews/3168625)
-40. [南向资金净买额超50亿港元。](https://wallstreetcn.com/livenews/3168622)
-41. [隔夜SHIBOR报1.3640%，上涨0.00个基点。
+43. [到2030年 全国海洋生产总值将突破13万亿元](https://wallstreetcn.com/livenews/3168625)
+44. [南向资金净买额超50亿港元。](https://wallstreetcn.com/livenews/3168622)
+45. [隔夜SHIBOR报1.3640%，上涨0.00个基点。
 
 7天SHIBOR报1.3893%，下降1.70个基点。
 
 3个月SHIBOR报1.4300%，上涨0.00个基点。](https://wallstreetcn.com/livenews/3168621)
-42. [阿里Qwen刘大一恒：坚持开源开放，实现AI普惠](https://wallstreetcn.com/livenews/3168619)
-43. [阿里吴泳铭：未来机器思考的总量将达到人类的1000倍以上](https://wallstreetcn.com/livenews/3168618)
-44. [腾讯混元发布混元图像3.5预览版](https://wallstreetcn.com/livenews/3168616)
-45. [韩国议员：议员们对美投资计划的商业可行性表示担忧。
+46. [阿里Qwen刘大一恒：坚持开源开放，实现AI普惠](https://wallstreetcn.com/livenews/3168619)
+47. [阿里吴泳铭：未来机器思考的总量将达到人类的1000倍以上](https://wallstreetcn.com/livenews/3168618)
+48. [腾讯混元发布混元图像3.5预览版](https://wallstreetcn.com/livenews/3168616)
+49. [韩国议员：议员们对美投资计划的商业可行性表示担忧。
 
 韩国政府认为该对美投资计划具备商业可行性，并附带20年的利润回报方案。
 
 正式对外宣布后，预计需在9月底前支付“相当大比例”的投资款项。
 
 韩国政府向议员介绍了核电站、德克萨斯州电...](https://wallstreetcn.com/livenews/3168615)
-46. [新西兰联储警告，短期通胀率可能高于货币政策声明（MPS）的预测。](https://wallstreetcn.com/livenews/3168613)
-47. [据媒体报道，波士顿动力寻求在IPO前筹集至少10亿美元的资金。](https://wallstreetcn.com/livenews/3168610)
-48. [国家发改委：近期向民营企业推介36个项目，拟引入民间资本156亿元](https://wallstreetcn.com/livenews/3168609)
-49. [国开行发行1年期债券，规模80亿元，发行利率1.3944%，预期1.3800%，投标倍数2.61倍，边际倍数4.30倍；
+50. [新西兰联储警告，短期通胀率可能高于货币政策声明（MPS）的预测。](https://wallstreetcn.com/livenews/3168613)
+51. [据媒体报道，波士顿动力寻求在IPO前筹集至少10亿美元的资金。](https://wallstreetcn.com/livenews/3168610)
+52. [国家发改委：近期向民营企业推介36个项目，拟引入民间资本156亿元](https://wallstreetcn.com/livenews/3168609)
+53. [国开行发行1年期债券，规模80亿元，发行利率1.3944%，预期1.3800%，投标倍数2.61倍，边际倍数4.30倍；
 
 国开行发行3年期债券，规模70亿元，发行利率1.4875%，预期1.4800%，投标倍数3.31倍，边际倍数7...](https://wallstreetcn.com/livenews/3168607)
-50. [国内首条跨海市域铁路通车运营](https://wallstreetcn.com/livenews/3168605)
-51. [上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报132500元/吨，较上日16:30价格上涨250元/吨。](https://wallstreetcn.com/livenews/3168604)
-52. [国家发改委：将加快推动《中华人民共和国卫星导航条例》出台实施](https://wallstreetcn.com/livenews/3168603)
-53. [国家发改委：北斗应用场景和规模不断扩大，14亿部智能手机搭载北斗定位服务。](https://wallstreetcn.com/livenews/3168599)
-54. [国家发改委：我国农业生产应对厄尔尼诺等风险挑战是有底气、有条件、有能力的](https://wallstreetcn.com/livenews/3168598)
-55. [胡塞武装称沙特空袭也门 致多人伤亡](https://wallstreetcn.com/livenews/3168597)
-56. [国家发改委：上半年水网建设吸引民间投资同比增长85.8%](https://wallstreetcn.com/livenews/3168596)
-57. [知情人士称美国将在格陵兰岛新设两处军事基地](https://wallstreetcn.com/livenews/3168595)
-58. [2032年阿里云数据中心规模将超20GW](https://wallstreetcn.com/livenews/3168593)
-59. [新西兰联储主席布雷曼：如果油价持续高企，预计短期通胀率将略高于我们在9月声明中的预期。
-
-我们将评估即将公布的数据和全球形势，然后再于10月做出下一次决定，并将继续关注通胀前景。
-
-经济前景仍面临重大风险，我们预计经济复苏将加强并扩大...](https://wallstreetcn.com/livenews/3168591)
-60. [阿里巴巴计划训练5到10万亿参数AI模型。](https://wallstreetcn.com/livenews/3168590)
-61. [创新药、CRO概念异动拉升，义翘神州触及20cm涨停，新华制药、哈药股份此前2连板，百花医药、康希诺、万邦医药涨超6%。](https://wallstreetcn.com/livenews/3168589)
-62. [找矿突破成绩喜人！我国发现超大型规模铜金矿](https://wallstreetcn.com/livenews/3168587)
-63. [SpaceX已停止销售猎鹰9号（Falcon 9）共享发射任务。（华尔街日报）](https://wallstreetcn.com/livenews/3168586)
+54. [国内首条跨海市域铁路通车运营](https://wallstreetcn.com/livenews/3168605)
+55. [上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报132500元/吨，较上日16:30价格上涨250元/吨。](https://wallstreetcn.com/livenews/3168604)
+56. [国家发改委：将加快推动《中华人民共和国卫星导航条例》出台实施](https://wallstreetcn.com/livenews/3168603)
