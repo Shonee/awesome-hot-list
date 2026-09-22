@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-23 05:18:20
+> 更新时间：2026-09-23 06:19:26
 
 ## 热门文章
 
@@ -29,12 +29,12 @@
 23. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
 24. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
 25. [别再跟AI说“请”了，它根本不 care——但有个东西它超在意](https://juejin.cn/post/7687818534403588146)
-26. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
-27. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
+26. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
+27. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 28. [FlutterPatch：把 Shorebird 热更新的控制面搬回自己服务器](https://juejin.cn/post/7687400852546011199)
-29. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
-30. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
-31. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
+29. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
+30. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
+31. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
 32. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
 33. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
 34. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
