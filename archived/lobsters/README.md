@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-23 04:21:35
+> 更新时间：2026-09-23 05:19:21
 
 ## Hottest
 
@@ -14,13 +14,13 @@
 8. [rift - a tiling window manager for macos](https://github.com/acsandmann/rift/)
 9. [Why 0xCAFEBABE?](https://www.artima.com/insidejvm/whyCAFEBABE.html)
 10. [Raspberry Pi locks down Pi 5 RAM upgrades in firmware](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/)
-11. [Jev-powered autocorrection](https://levmiseri.com/nospace)
-12. [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
-13. [EvilVM: Forth shellcode](https://web.archive.org/web/20250418124519/http://evilvm.ninja/)
-14. [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
-15. [tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/)
-16. [That About Wraps It Up for Stock Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
-17. [Did OpenAI solve the wrong Navier-Stokes problem?](https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/)
+11. [That About Wraps It Up for Stock Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
+12. [Jev-powered autocorrection](https://levmiseri.com/nospace)
+13. [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+14. [Did OpenAI solve the wrong Navier-Stokes problem?](https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/)
+15. [EvilVM: Forth shellcode](https://web.archive.org/web/20250418124519/http://evilvm.ninja/)
+16. [tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/)
+17. [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
 18. [Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://ahelwer.ca/post/2026-09-21-concurrency-textbook/)
 19. [Ju! Ju! Tsu](https://arialdo.codeberg.page/ju-ju-tsu/)
 20. [evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it](https://code.irenes.space/evocation/tree/README.txt)
