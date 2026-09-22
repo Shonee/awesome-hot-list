@@ -75,9 +75,11 @@ Actions 将 `master` 检出到 `app/`，将 `data-pages` 检出到 `runtime/`。
 5. 创建指向 `master` 代码提交的 Release tag，上传资产。
 6. 从 Release 下载资产并再次校验 SHA256。
 7. 确认远端 `data-pages` 仍是本次读取的提交。
-8. 删除 manifest 中列出且哈希未变化的超期文件。
+8. 删除 manifest 中列出且哈希未变化的超期文件，并把这次清理提交为一个临时提交。
 9. 创建只包含剩余 `archived/` 和 `site/` 的孤儿提交。
 10. 使用 `--force-with-lease` 更新 `data-pages`。
+
+清理会改写 `site/data/reports/index.json`，而 `git switch` 拒绝离开仍带未提交改动的分支（不同 git 版本对 `--orphan -f` 的处理也不一致），所以第 8 步的删除必须先落地成提交；第 9 步的孤儿提交没有父提交，这个临时提交会随之被丢弃，`data-pages` 上始终只有一个压缩后的快照。
 
 Release tag 不指向 `data-pages`，否则 tag 会继续保留已经压缩掉的数据历史。manifest 同时记录 `sourceCommit` 和 `dataCommit`，用于还原“哪个版本的代码生成了哪批数据”。
 

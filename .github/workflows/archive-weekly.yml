@@ -144,15 +144,24 @@ jobs:
             python "$GITHUB_WORKSPACE/app/src/script/archive.py" clean --root "$GITHUB_WORKSPACE/runtime" --output-dir "$ARCHIVE_WORK"
           fi
 
+          # clean 会改写 site/data/reports/index.json。git switch 即便带上 -f 也拒绝
+          # 离开留有未提交改动的分支（2026-09-20 那次失败就停在这里），所以先把清理
+          # 结果提交成一次性提交；下面的 orphan 快照没有父提交，会把它整条丢弃。
+          git -C "$GITHUB_WORKSPACE/runtime" config user.name "github-actions[bot]"
+          git -C "$GITHUB_WORKSPACE/runtime" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$GITHUB_WORKSPACE/runtime" add -A
+          git -C "$GITHUB_WORKSPACE/runtime" diff --cached --quiet \
+            || git -C "$GITHUB_WORKSPACE/runtime" commit -q -m "chore: prune files packaged into the weekly release"
+
           snapshot_dir="$(mktemp -d)"
           if [ -d "$GITHUB_WORKSPACE/runtime/archived" ]; then
             cp -a "$GITHUB_WORKSPACE/runtime/archived" "$snapshot_dir/"
           fi
           cp -a "$GITHUB_WORKSPACE/runtime/site" "$snapshot_dir/"
 
-          git -C "$GITHUB_WORKSPACE/runtime" config user.name "github-actions[bot]"
-          git -C "$GITHUB_WORKSPACE/runtime" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git -C "$GITHUB_WORKSPACE/runtime" switch --orphan -f compacted-data-pages
+          # 不带 -f：老版本 git 会把 "-f orphan" 之后的参数当成 start-point 直接报
+          # invalid reference，而工作区在上一步已经提交干净了。
+          git -C "$GITHUB_WORKSPACE/runtime" switch --orphan compacted-data-pages
           git -C "$GITHUB_WORKSPACE/runtime" rm -rf --ignore-unmatch .
           if [ -d "$snapshot_dir/archived" ]; then
             cp -a "$snapshot_dir/archived" "$GITHUB_WORKSPACE/runtime/"
