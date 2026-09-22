@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-22 10:30:28
+> 更新时间：2026-09-22 11:26:09
 
 ## 最新帖子
 
-1. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
-2. [RuoYi-Cloud-Plus一些坑](https://www.cnblogs.com/maomao777/p/23074288)
-3. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
-4. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
-5. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
-6. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
-7. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
-8. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
-9. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
-10. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
-11. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
-12. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
-13. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
-14. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
-15. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
-16. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
-17. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-18. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
-19. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
-20. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
+1. [Python coverage 进阶：从跑命令到“构造“覆盖率报告](https://www.cnblogs.com/exioran/p/23075327)
+2. [Agent 记忆系统的分层设计](https://www.cnblogs.com/ai-old-six/p/23075259)
+3. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+4. [RuoYi-Cloud-Plus一些坑](https://www.cnblogs.com/maomao777/p/23074288)
+5. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
+6. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
+7. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
+8. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+9. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
+10. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
+11. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
+12. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
+13. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
+14. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
+15. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
+16. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
+17. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
+18. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
+19. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
+20. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
 
 ## 精华帖子
 

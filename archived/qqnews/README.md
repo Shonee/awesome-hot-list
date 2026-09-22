@@ -1,13 +1,13 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-22 10:30:45
+> 更新时间：2026-09-22 11:26:51
 
 ## 热点榜
 
-1. [中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议](https://view.inews.qq.com/a/20260921A0660S00)
+1. [新华全媒头条丨共同擘画中美关系新篇章——写在习近平主席对美国进行国事访问之际](https://view.inews.qq.com/a/20260921A0CFJD00)
 2. [今天，亚运赛场将决出25金！冲金点一览](https://view.inews.qq.com/a/20260922A01Z2Z00)
 3. [明年正式发布实施！二手车鉴定国标将迎重大变化，事故车判定不再“一刀切”](https://view.inews.qq.com/a/20260921A08TFE00)
-4. [今年前8个月全国工业销售收入同比增长7.3%](https://view.inews.qq.com/a/20260921A09RVH00)
+4. [特色体育展现多元精彩：亚运会12个非奥项目看点足](https://view.inews.qq.com/a/20260922A0293K00)
 5. [铁翼破晓！歼-16夜训最新现场图](https://view.inews.qq.com/a/20260922A016W700)
 6. [视频丨国内首个！八层楼高的“空中大气球”来了](https://view.inews.qq.com/a/20260922A01S0F00)
 7. [五部门印发通知严惩生态环境技术服务机构弄虚作假](https://view.inews.qq.com/a/20260921A06O4P00)
@@ -17,10 +17,10 @@
 11. [吃素就能预防或治好脂肪肝？](https://view.inews.qq.com/a/20260921A0A31D00)
 12. [点击抽奖丨假期“发福”，趣玩不停](https://h5.news.qq.com/maker/prod/publish/M0dY3hg7zb01oiAdQl43f.html)
 13. [著名星二代，突然去世](https://view.inews.qq.com/a/20260922A02X9S00)
-14. [河北沧州婚车半路被拦下，男子骑三轮车堵路索要整条喜烟，网友怒了](https://view.inews.qq.com/a/20260921A0A64Q00)
-15. [江苏一企业给每名员工发26样中秋礼品，不少人开三轮车来拉，董事长：公司发展依仗员工付出，多发些礼物大家能孝敬父母](https://view.inews.qq.com/a/20260921A080AQ00)
-16. [三件“小事”看边界感](https://view.inews.qq.com/a/20260922A02BL600)
-17. [微信又上新功能，发朋友圈可自动转为“仅自己可见”，不少安卓、苹果用户已经可用](https://view.inews.qq.com/a/20260921A0CDQ600)
-18. [储户约8万存款疑遭盗刷，银行回应：公安无责证明不等同于银行担责，需司法裁决](https://view.inews.qq.com/a/20260921A0BJHR00)
-19. [五大国产主流手机全部接入中国地震预警网](https://view.inews.qq.com/a/20260922A02IX700)
-20. [新闻1+1丨全球冰川加速消融，我们能做什么？](https://view.inews.qq.com/a/20260922A00X3X00)
+14. [三件“小事”看边界感](https://view.inews.qq.com/a/20260922A02BL600)
+15. [五大国产主流手机全部接入中国地震预警网](https://view.inews.qq.com/a/20260922A02IX700)
+16. [宇树科技Dex5-S灵巧手发布：22自由度，3.99万元起](https://view.inews.qq.com/a/20260922A02OM000)
+17. [美心低至六七折、29.9元礼盒爆卖200万件，月饼告别礼赠时代](https://view.inews.qq.com/a/20260921A09BH700)
+18. [河北沧州婚车半路被拦下，男子骑三轮车堵路索要整条喜烟，网友怒了](https://view.inews.qq.com/a/20260921A0A64Q00)
+19. [“狱中总统”罕见亮相，消瘦了，没说话](https://view.inews.qq.com/a/20260922A02WXS00)
+20. [徐海博高喊牛X被央视消音！潘展乐：我是最菜的 张展硕是奇迹之子](https://view.inews.qq.com/a/20260922A02K1M00)
