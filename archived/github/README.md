@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-22 11:35:37
+> 更新时间：2026-09-22 18:31:49
 
 ## 每日趋势
 
@@ -70,24 +70,23 @@
 1. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 2. [IPED](https://github.com/sepinf-inc/IPED)
 3. [Paper](https://github.com/PaperMC/Paper)
-4. [webhtv](https://github.com/fish2018/webhtv)
-5. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-6. [keycloak](https://github.com/keycloak/keycloak)
-7. [OsmAnd](https://github.com/osmandapp/OsmAnd)
-8. [Geyser](https://github.com/GeyserMC/Geyser)
-9. [spring-boot](https://github.com/spring-projects/spring-boot)
-10. [InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
-11. [SmartTube](https://github.com/yuliskov/SmartTube)
-12. [rocketmq](https://github.com/apache/rocketmq)
-13. [GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
-14. [doris](https://github.com/apache/doris)
-15. [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-16. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
-17. [hibernate-orm](https://github.com/hibernate/hibernate-orm)
-18. [hello-algo](https://github.com/krahets/hello-algo)
-19. [voxy](https://github.com/MCRcortex/voxy)
-20. [GoGoGo](https://github.com/ZCShou/GoGoGo)
-21. [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
+4. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+5. [keycloak](https://github.com/keycloak/keycloak)
+6. [OsmAnd](https://github.com/osmandapp/OsmAnd)
+7. [Geyser](https://github.com/GeyserMC/Geyser)
+8. [spring-boot](https://github.com/spring-projects/spring-boot)
+9. [InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
+10. [SmartTube](https://github.com/yuliskov/SmartTube)
+11. [rocketmq](https://github.com/apache/rocketmq)
+12. [GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+13. [doris](https://github.com/apache/doris)
+14. [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+15. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+16. [hibernate-orm](https://github.com/hibernate/hibernate-orm)
+17. [hello-algo](https://github.com/krahets/hello-algo)
+18. [voxy](https://github.com/MCRcortex/voxy)
+19. [GoGoGo](https://github.com/ZCShou/GoGoGo)
+20. [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
 
 ## Python
 
