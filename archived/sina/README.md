@@ -1,51 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-23 05:18:42
-
-## 新闻热榜
-
-1. [约快递员上门取件，15岁女孩从5楼扔快递时坠亡，父母索赔74万！](https://finance.sina.com.cn/roll/2026-09-22/doc-inissyqx6831289.shtml)
-2. [纽约期银突破68美元/盎司，日内涨2.40%。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inistvut5516698.shtml)
-3. [“13岁女孩遭强奸警方不予立案”复核完成、侦查终结，受害者家属：案件已移交检察院审查起诉，经办民警被纪检部门立案调查](https://news.sina.com.cn/s/2026-09-22/doc-inistewv6771685.shtml)
-4. [西藏等3省区党委主要负责同志职务调整](https://news.sina.com.cn/zx/2026-09-22/doc-inissuic8848231.shtml)
-5. [高市早苗提前会见特朗普，“担心美国对中国让步”](https://news.sina.com.cn/c/2026-09-22/doc-inissyrf1996703.shtml)
-6. [美日韩联合声明，说了些啥？](https://news.sina.com.cn/w/2026-09-22/doc-inissyrf1996572.shtml)
-7. [WTI原油失守89美元/桶，日内跌3.66%。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inistvut5516928.shtml)
-8. [韩国前总统夫人金建希涉嫌“卖官鬻爵”获刑5年](https://news.sina.com.cn/w/2026-09-22/doc-inisspzi5696253.shtml)
-9. [特朗普民调支持率刷新历史新低 中期选举形势告急](https://news.sina.com.cn/w/2026-09-22/doc-inissuhz6912180.shtml)
-10. [受贿1.48亿余元 四川省人大常委会原副主任宋朝华一审被判死缓](https://news.sina.com.cn/zx/2026-09-22/doc-inissyqx6826609.shtml)
-11. [断层领先！亚运会奖牌榜：中国32金13银8铜继续领跑，日本11金第2](https://news.sina.com.cn/zx/2026-09-22/doc-inistmev8807775.shtml)
-12. [数据显示：统俄党将获创纪录杜马议员席位](https://news.sina.com.cn/w/2026-09-22/doc-inissuic8872400.shtml)
-13. [费城半导体指数日内涨2%](https://finance.sina.com.cn/7x24/2026-09-23/doc-inistvur8747379.shtml)
-14. [在岸人民币兑美元（CNY）北京时间03:00收报6.7005元，较周一夜盘收盘跌52点。成交量458.39亿美元。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inistvut5512594.shtml)
-15. [美国各界对习近平主席国事访问充满期待](https://news.sina.com.cn/c/xl/2026-09-22/doc-inistewx8911262.shtml)
-16. [用敌敌畏消杀餐厅且拒不改正，厦门绿林森环境科技被罚2万元](https://news.sina.com.cn/c/2026-09-22/doc-inistmev8861532.shtml)
-17. [英国首相伯纳姆：我曾就关税问题向特朗普施压。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inistvut5520109.shtml)
-18. [特朗普：希望伊朗能尽快采取正确行动。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inistvut5517988.shtml)
-19. [联大成美伊会谈“黄金窗口”，霍尔木兹可能在7天内重开](https://finance.sina.com.cn/jjxw/2026-09-22/doc-inistmev8866646.shtml)
-20. [张展硕：我想赢，但更不想输！日本选手赛前“战书”给了更大动力](https://news.sina.com.cn/zx/2026-09-22/doc-inistewv6803658.shtml)
-
-## 财经热榜
-
-1. [纽约期银突破68美元/盎司，日内涨2.40%。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inistvut5516698.shtml)
-2. [致第四次全国农业普查清查对象的一封信](https://finance.sina.com.cn/wm/2026-09-21/doc-inisqriy5790275.shtml)
-3. [9月22日美股成交前20：智能体Muse引爆AI行情 Meta大涨11.43% CPU生产商AMD大涨近10% 市值首破万亿美元](https://finance.sina.com.cn/world/2026-09-22/doc-inisrxcm7213445.shtml)
-4. [DeepSeek据悉召开闭门会议，梁文锋称正训练2万亿参数模型](https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisscmp5669195.shtml)
-5. [9月22日隔夜要闻：美股全线走高 原油下跌 铜价延续涨势 金价走低 欧盟通过延长对俄制裁方案](https://finance.sina.com.cn/world/2026-09-22/doc-inisrxcm7218020.shtml)
-6. [近40家公司预告三季度业绩 AI产业链高景气度持续兑现](https://finance.sina.com.cn/roll/2026-09-22/doc-inisrnpr7416684.shtml)
-7. [最新 | 知名男星自曝：确诊！年轻人发病率高！](https://finance.sina.com.cn/wm/2026-09-22/doc-inisscmm8862385.shtml)
-8. [Meta势创1月以来最高收盘价 智能体Muse登上苹果应用商店榜首](https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5871394.shtml)
-9. [女子深夜满身鲜血倒卧地上，疑遭多只流浪狗袭击身亡，警方：捕获3只流浪狗](https://finance.sina.com.cn/wm/2026-09-22/doc-inisscmr2286880.shtml)
-10. [雷军回应“打新宇树挣了100多亿”：不是打新，是支持早期创业者](https://finance.sina.com.cn/jjxw/2026-09-22/doc-inissuic8941167.shtml)
-11. [外交部：各方应该共同推动人工智能开放、包容、普惠、向善发展](https://finance.sina.com.cn/jjxw/2026-09-22/doc-inissuhz6910400.shtml)
-12. [市场消息：SB Energy推迟了IPO。](https://finance.sina.com.cn/7x24/2026-09-22/doc-inisrnpt9103551.shtml)
-13. [因凡蒂诺提议对国际足联重大决策治理机制进行外部审查](https://finance.sina.com.cn/7x24/2026-09-22/doc-inisrsvt5769954.shtml)
-14. [25岁中国女游客在马来西亚旅游熟睡时遭男子闯入脱衣，扭打逃脱又被扯头发摔倒，躲灌木丛一夜](https://finance.sina.com.cn/roll/2026-09-22/doc-inisscmi7105270.shtml)
-15. [以军称在“黄线”附近遭袭 对哈马斯目标实施报复打击](https://finance.sina.com.cn/7x24/2026-09-22/doc-inisrsvt5762958.shtml)
-16. [兰香如故谭松韵把许兰香演活了](https://finance.sina.com.cn/jjxw/2026-09-22/doc-inisscmp5635165.shtml)
-17. [俄罗斯国防部：俄罗斯部队在黑海击中一艘货轮。](https://finance.sina.com.cn/7x24/2026-09-22/doc-inissuic8817827.shtml)
-18. [盛李豪/王子菲斩获10米气步枪混合团体金牌  “干饭哥”成“三金王”](https://finance.sina.com.cn/jjxw/2026-09-22/doc-inissitf7083160.shtml)
-19. [美国政策制定者已告知阿根廷，重新谈判贸易协定不在讨论范围内。](https://finance.sina.com.cn/7x24/2026-09-22/doc-inistewz5638762.shtml)
+> 更新时间：2026-09-23 05:22:18
 
 ## 7x24
 

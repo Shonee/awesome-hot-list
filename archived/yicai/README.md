@@ -1,11 +1,14 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-23 05:19:10
+> 更新时间：2026-09-23 05:22:21
 
-## 首页头条
+## 7x24
 
-1. [第48届世界技能大赛在上海开幕，推动技能生态更好服务全球经济](https://www.yicai.com/news/103374777.html)
-2. [土地使用权到期如何补地价？多个城市有了可执行方案](https://www.yicai.com/news/103374251.html)
-3. [马斯克终于交卷：Grok 4.7跑分很强，实测却翻车了？](https://www.yicai.com/news/103373702.html)
-4. [公费流感疫苗从5.5元涨至9元：企业“价格战”暂停，原因有哪些](https://www.yicai.com/news/103374562.html)
-5. [AI手机不只拼模型：荣耀阿里押注下一个超级场景](https://www.yicai.com/news/103374717.html)
+1. [英国警方逮捕两名涉嫌策划恐袭的男子](https://m.yicai.com/brief/103374816.html)
+2. [巴西东南部遭强风暴袭击 已致2死3伤](https://m.yicai.com/brief/103374814.html)
+3. [西班牙首相：摩洛哥应对非法移民涌入休达负责](https://m.yicai.com/brief/103374812.html)
+4. [也门政府军称打死打伤数十名胡塞武装人员](https://m.yicai.com/brief/103374810.html)
+5. [伊朗外长与美特使在纽约会晤](https://m.yicai.com/brief/103374808.html)
+6. [波兰称拦截一架俄罗斯侦察机 俄方暂无回应](https://m.yicai.com/brief/103374806.html)
+7. [也门胡塞武装称多地遭沙特空袭 致人员伤亡](https://m.yicai.com/brief/103374804.html)
+8. [巴西总统呼吁维护国家主权与多边主义](https://m.yicai.com/brief/103374801.html)
