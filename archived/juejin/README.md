@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-23 00:23:42
+> 更新时间：2026-09-23 01:19:26
 
 ## 热门文章
 
@@ -24,8 +24,8 @@
 18. [DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？](https://juejin.cn/post/7687537292214501412)
 19. [货拉拉开源Hadice：安卓 & 鸿蒙桌面调试工具](https://juejin.cn/post/7687209773675937818)
 20. [Kotlin 协程闯关：看代码，猜结果](https://juejin.cn/post/7687445339747958793)
-21. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
-22. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
+21. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
+22. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
 23. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
 24. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
 25. [别再跟AI说“请”了，它根本不 care——但有个东西它超在意](https://juejin.cn/post/7687818534403588146)

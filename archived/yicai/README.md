@@ -1,26 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-23 01:08:37
+> 更新时间：2026-09-23 01:20:03
 
-## 7x24
+## 首页头条
 
-1. [SpaceXAI旗下Grok Bot上线首月周用户突破40万](https://m.yicai.com/brief/103374790.html)
-2. [美国与丹麦及格陵兰岛签署安全协议](https://m.yicai.com/brief/103374788.html)
-3. [欧洲主要股指收盘多数上涨](https://m.yicai.com/brief/103374786.html)
-4. [美股大型银行股走低](https://m.yicai.com/brief/103374784.html)
-5. [国家移民管理局：不断提高引才引智层次水平，为推进新一代智能制造、发展先进制造业持续注入动力活力](https://m.yicai.com/brief/103374782.html)
-6. [PayPal宣布与Meta合作，使用Muse进行购物和结账](https://m.yicai.com/brief/103374778.html)
-7. [千亿航天SY‑300FF液体火箭发动机评审立项](https://m.yicai.com/brief/103374775.html)
-8. [中船动力发布我国首台套自主研发的“核柴一号”6MW级机组](https://m.yicai.com/brief/103374772.html)
-9. [国投智能1000台保安机器人量产启动](https://m.yicai.com/brief/103374769.html)
-10. [武汉：加快把集成电路打造成为“首位产业”](https://m.yicai.com/brief/103374767.html)
-11. [国内商品期货夜盘收盘](https://m.yicai.com/brief/103374766.html)
-12. [2026腾冲科学家论坛曼谷专题活动关注AI与合作](https://m.yicai.com/brief/103374763.html)
-13. [现货黄金短线走低](https://m.yicai.com/brief/103374760.html)
-14. [岚图高管谈与华为合作模式：强强联合、和而不同](https://m.yicai.com/brief/103374758.html)
-15. [山西运城汾河沿岸大面积耕地被淹 当地回应：连夜抽排](https://m.yicai.com/brief/103374755.html)
-16. [拓竹R1激光切割机正式发布](https://m.yicai.com/brief/103374752.html)
-17. [联合国秘书长呼吁国际社会支持“两国方案”](https://m.yicai.com/brief/103374750.html)
-18. [英特尔携手生态伙伴发布TBX16词元一体机，英维克提供全链条液冷方案](https://m.yicai.com/brief/103374748.html)
-19. [贵州茅台酒（春夏秋冬）四季文化新品上市 每瓶售价2199元](https://m.yicai.com/brief/103374746.html)
-20. [公司互动丨这些公司披露在新能源汽车等方面最新情况](https://m.yicai.com/brief/103374744.html)
+1. [第48届世界技能大赛在上海开幕，推动技能生态更好服务全球经济](https://www.yicai.com/news/103374777.html)
+2. [土地使用权到期如何补地价？多个城市有了可执行方案](https://www.yicai.com/news/103374251.html)
+3. [马斯克终于交卷：Grok 4.7跑分很强，实测却翻车了？](https://www.yicai.com/news/103373702.html)
+4. [公费流感疫苗从5.5元涨至9元：企业“价格战”暂停，原因有哪些](https://www.yicai.com/news/103374562.html)
+5. [AI手机不只拼模型：荣耀阿里押注下一个超级场景](https://www.yicai.com/news/103374717.html)

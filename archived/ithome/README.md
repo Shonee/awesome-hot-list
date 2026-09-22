@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-23 00:24:22
+> 更新时间：2026-09-23 01:20:01
 
 ## 日榜
 
@@ -9,8 +9,8 @@
 3. [OPPO Find X10 Pro Max 发布：首发三 2 亿像素镜头群，售价 6799 元起](https://www.ithome.com/1/005/943.htm)
 4. [罗永浩回应贾国龙要求下跪才肯和解：流氓黑公关造谣，已取证将起诉](https://www.ithome.com/1/005/521.htm)
 5. [铁路 12306 App 新增“车”标识，客服称系“自行车随身行”服务、收费 88 元 / 辆](https://www.ithome.com/1/005/654.htm)
-6. [小米 18 Pro 系列手机官宣首发「传奇一瞬」大模型影像，号称成像质感媲美专业相机](https://www.ithome.com/1/005/675.htm)
-7. [苹果修改宣传口径：iOS 27 质感与颗粒相机功能仅 iPhone18 Pro 与 iPhone Duo 支持](https://www.ithome.com/1/005/908.htm)
+6. [苹果修改宣传口径：iOS 27 质感与颗粒相机功能仅 iPhone18 Pro 与 iPhone Duo 支持](https://www.ithome.com/1/005/908.htm)
+7. [小米 18 Pro 系列手机官宣首发「传奇一瞬」大模型影像，号称成像质感媲美专业相机](https://www.ithome.com/1/005/675.htm)
 8. [小米 18 Pro 系列手机首发徕卡双 2 亿像素影像系统：1/1.28'' 大底主摄 + 1/1.56'' 潜望长焦](https://www.ithome.com/1/005/526.htm)
 9. [“2026 中国民营企业 500 强”发布：京东、阿里、恒力集团、华为、比亚迪位居前五](https://www.ithome.com/1/005/569.htm)
 10. [工信部旗下媒体：“去宁德化”论调要不得](https://www.ithome.com/1/005/711.htm)
