@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-23 02:49:56
+> 更新时间：2026-09-23 03:08:29
 
 ## 7x24
 
@@ -94,12 +94,3 @@ LME期镍收涨314美元，报16632美元/...](https://wallstreetcn.com/livenews
 因霍尔木兹海峡天然气液化运输受阻，上调了荷兰所有权转让中心（TTF）天然气价格假设。
 
 预计（沙特）东西输油管道运力恢复后布伦特油价将下跌。](https://wallstreetcn.com/livenews/3169056)
-49. [Viking Therapeutics小型研究显示减肥注射剂帮助患者减重并维持效果，股价飙升](https://wallstreetcn.com/livenews/3169054)
-50. [英国国债收益率至少涨3个基点](https://wallstreetcn.com/livenews/3169053)
-51. [美国白宫发布美国与丹麦之间关于格陵兰协议的细节信息：美国将在Narsarsuaq和Mestersvig开辟防务区域。
-
-美国可能会在格陵兰成立更多军事区域。
-
-美国将根据最新协议扩大Pituffik空间基地。
-
-美国与丹麦可能会围绕防...](https://wallstreetcn.com/livenews/3169052)
