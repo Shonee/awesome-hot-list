@@ -194,3 +194,37 @@ def apply_catalog_delta(base: dict, delta: dict) -> dict:
     result = deepcopy(delta.get("targetMetadata", {}))
     result["channels"] = channels
     return result
+
+
+def replay_catalog_deltas(base: dict, deltas: Iterable[dict]) -> dict:
+    """Rebuild a catalog by following the version chain, not a stored order.
+
+    Change IDs are free-form, so a directory listing can present the deltas in an
+    order that never existed. Picking the next delta by ``fromVersion`` keeps the
+    replay deterministic and turns a forked or missing link into an error.
+    """
+    remaining = list(deltas)
+    catalog = deepcopy(base)
+    while remaining:
+        version = catalog.get("catalogVersion", "")
+        ready = [delta for delta in remaining if delta.get("fromVersion") == version]
+        if not ready:
+            raise ValueError(
+                f"catalog replay stopped at version {version!r}; no delta starts here, unconsumed: "
+                + ", ".join(sorted(_delta_label(delta) for delta in remaining))
+            )
+        if len(ready) > 1:
+            raise ValueError(
+                f"catalog version {version!r} has more than one next delta: "
+                + ", ".join(sorted(_delta_label(delta) for delta in ready))
+            )
+        catalog = apply_catalog_delta(catalog, ready[0])
+        remaining.remove(ready[0])
+    return catalog
+
+
+def _delta_label(delta: dict) -> str:
+    return (
+        f"{delta.get('changeId', '<no id>')}"
+        f"[{delta.get('fromVersion', '')} -> {delta.get('toVersion', '')}]"
+    )
