@@ -1,6 +1,7 @@
 import json
 import os
 import tempfile
+import time
 import unittest
 from types import SimpleNamespace
 from unittest.mock import patch
@@ -14,7 +15,7 @@ from src.hotlist.registry import (
     resolve_channels,
 )
 from src.hotlist.runner import collect_channels, merge_latest_snapshot
-from src.script.collect import _exit_code_for_snapshots
+from src.script.collect import _exit_code_for_snapshots, _failure_summary
 
 
 class HotlistModelTests(unittest.TestCase):
@@ -210,6 +211,59 @@ class RunnerTests(unittest.TestCase):
         self.assertEqual(snapshots[0].health["errorType"], "empty_response")
         self.assertEqual(snapshots[0].status, "error")
 
+    def test_domain_cooldown_and_run_deadline_are_classified(self):
+        from src.hotlist.runner import RunDeadlineExceeded
+        from src.utils.http_utils import DomainCooldownError
+
+        failures = {
+            "cooling": DomainCooldownError("api.example.com is cooling down"),
+            "late": RunDeadlineExceeded("collection budget exhausted"),
+        }
+
+        def raise_(error):
+            def collector():
+                raise error
+            return collector
+
+        definitions = {
+            channel_id: ChannelDefinition(channel_id, "渠道", order, "CH", "#111111", raise_(error))
+            for order, (channel_id, error) in enumerate(failures.items(), 1)
+        }
+
+        snapshots = collect_channels(list(failures), definitions=definitions)
+
+        self.assertEqual(
+            [snapshot.health["errorType"] for snapshot in snapshots],
+            ["rate_limited", "deadline"],
+        )
+
+    def test_exhausted_collection_budget_skips_remaining_channels(self):
+        def collector():
+            raise AssertionError("a channel must not be fetched once the budget is gone")
+
+        definitions = {
+            channel_id: ChannelDefinition(channel_id, "渠道", order, "CH", "#111111", collector)
+            for order, channel_id in enumerate(("first", "second"), 1)
+        }
+
+        with patch("src.hotlist.runner._collect_deadline", return_value=0.0):
+            snapshots = collect_channels(list(definitions), definitions=definitions)
+
+        self.assertEqual([snapshot.status for snapshot in snapshots], ["error", "error"])
+        self.assertEqual([snapshot.health["errorType"] for snapshot in snapshots], ["deadline", "deadline"])
+        self.assertEqual([snapshot.rankings for snapshot in snapshots], [[], []])
+
+    def test_collection_budget_setting_is_optional(self):
+        from src.hotlist.runner import _collect_deadline
+
+        with patch.dict(os.environ, {}, clear=True):
+            self.assertIsNone(_collect_deadline())
+        for value in ("0", "-5", "not-a-number", ""):
+            with patch.dict(os.environ, {"HOTLIST_COLLECT_BUDGET_SECONDS": value}):
+                self.assertIsNone(_collect_deadline(), msg=value)
+        with patch.dict(os.environ, {"HOTLIST_COLLECT_BUDGET_SECONDS": "300"}):
+            self.assertGreater(_collect_deadline(), time.monotonic())
+
     def test_latest_snapshot_merge_preserves_other_channels(self):
         with tempfile.TemporaryDirectory() as directory:
             output = os.path.join(directory, "latest.json")
@@ -339,6 +393,70 @@ class RunnerTests(unittest.TestCase):
         ]
 
         self.assertEqual(_exit_code_for_snapshots(snapshots), 1)
+
+    @staticmethod
+    def _batch(ok_count, error_count):
+        snapshots = []
+        for index in range(ok_count):
+            snapshots.append(
+                ChannelSnapshot(
+                    channel_id=f"good{index}",
+                    channel_name="正常",
+                    source_url="https://example.com",
+                    fetched_at="2026-09-04 11:30:00",
+                    rankings=[Ranking("hot", "热榜", [HotItem(1, "条目", "https://example.com/1")])],
+                )
+            )
+        for index in range(error_count):
+            snapshots.append(
+                ChannelSnapshot.unavailable(
+                    f"bad{index}",
+                    "异常",
+                    "https://example.com",
+                    "2026-09-04 11:30:00",
+                    "error",
+                    "network down",
+                    health={"errorType": "request_error"},
+                )
+            )
+        return snapshots
+
+    def test_one_survivor_cannot_mask_a_wiped_batch(self):
+        snapshots = self._batch(ok_count=1, error_count=38)
+
+        self.assertEqual(_exit_code_for_snapshots(snapshots), 1)
+
+    def test_scattered_failures_below_both_thresholds_stay_green(self):
+        snapshots = self._batch(ok_count=8, error_count=2)
+
+        self.assertEqual(_exit_code_for_snapshots(snapshots), 0)
+
+    def test_failure_thresholds_can_be_lowered_for_small_batches(self):
+        snapshots = self._batch(ok_count=3, error_count=2)
+
+        self.assertEqual(_exit_code_for_snapshots(snapshots), 0)
+        with patch.dict(os.environ, {"HOTLIST_FAILURE_MIN": "2", "HOTLIST_FAILURE_RATIO": "0.4"}):
+            self.assertEqual(_exit_code_for_snapshots(snapshots), 1)
+
+    def test_malformed_threshold_env_falls_back_to_default(self):
+        snapshots = self._batch(ok_count=8, error_count=2)
+
+        with patch.dict(os.environ, {"HOTLIST_FAILURE_RATIO": "half"}):
+            self.assertEqual(_exit_code_for_snapshots(snapshots), 0)
+
+    def test_failure_summary_groups_channels_by_error_type(self):
+        snapshots = self._batch(ok_count=2, error_count=3) + [
+            ChannelSnapshot.unavailable(
+                "off", "关闭", "https://example.com", "2026-09-04 11:30:00", "disabled", "no cookie"
+            )
+        ]
+
+        summary = _failure_summary(snapshots)
+
+        self.assertEqual(summary["attempted"], 5)
+        self.assertEqual(summary["failed"], 3)
+        self.assertEqual(summary["errorTypes"], {"request_error": 3})
+        self.assertEqual(summary["failedChannels"], ["bad0", "bad1", "bad2"])
 
 
 if __name__ == "__main__":

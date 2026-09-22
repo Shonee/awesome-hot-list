@@ -3,6 +3,7 @@
 
 import argparse
 from contextlib import contextmanager
+import json
 import os
 import sys
 
@@ -127,14 +128,59 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
+def _failure_summary(snapshots) -> dict:
+    attempted = [snapshot for snapshot in snapshots if snapshot.status != "disabled"]
+    failed = [snapshot for snapshot in attempted if snapshot.status == "error"]
+    error_types = {}
+    for snapshot in failed:
+        key = (snapshot.health or {}).get("errorType") or "unknown"
+        error_types[key] = error_types.get(key, 0) + 1
+    return {
+        "attempted": len(attempted),
+        "failed": len(failed),
+        "failedChannels": [snapshot.channel_id for snapshot in failed],
+        "errorTypes": error_types,
+    }
+
+
+def _env_number(name: str, default: float) -> float:
+    try:
+        return float(os.environ.get(name, "") or default)
+    except ValueError:
+        return default
+
+
 def _exit_code_for_snapshots(snapshots) -> int:
-    if not snapshots:
+    """Fail when a batch is broken, not when one flaky source hiccuped.
+
+    单个渠道失败是常态，每天都红会淹掉真正的事故，所以比例和绝对数要同时越界；
+    全军覆没则与批次大小无关，一定是事故。
+    """
+    summary = _failure_summary(snapshots)
+    if not summary["attempted"]:
         return 0
-    if any(snapshot.status == "ok" for snapshot in snapshots):
-        return 0
-    if all(snapshot.status == "disabled" for snapshot in snapshots):
-        return 0
-    return 1 if any(snapshot.status in {"error", "stale"} for snapshot in snapshots) else 0
+    if summary["failed"] == summary["attempted"]:
+        return 1
+    ratio = _env_number("HOTLIST_FAILURE_RATIO", 0.5)
+    minimum = _env_number("HOTLIST_FAILURE_MIN", 3)
+    if summary["failed"] >= minimum and summary["failed"] / summary["attempted"] >= ratio:
+        return 1
+    return 0
+
+
+def _report_failures(snapshots) -> None:
+    summary = _failure_summary(snapshots)
+    print("[summary] " + json.dumps(summary, ensure_ascii=False, sort_keys=True))
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY", "").strip()
+    if not summary_path or not summary["failed"]:
+        return
+    error_types = ", ".join(f"{key}={count}" for key, count in sorted(summary["errorTypes"].items()))
+    with open(summary_path, "a", encoding="utf-8") as handle:
+        handle.write(
+            f"### 采集失败 {summary['failed']}/{summary['attempted']}\n\n"
+            f"- 错误类型：{error_types}\n"
+            f"- 渠道：{', '.join(summary['failedChannels'])}\n\n"
+        )
 
 
 def main() -> int:
@@ -147,6 +193,7 @@ def main() -> int:
         data_root=args.data_root,
         surface=args.surface,
     )
+    _report_failures(snapshots)
     return _exit_code_for_snapshots(snapshots)
 
 

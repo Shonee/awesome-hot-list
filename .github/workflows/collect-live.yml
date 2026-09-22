@@ -19,6 +19,8 @@ jobs:
     env:
       TZ: Asia/Shanghai
       HOTLIST_DOMAIN_MIN_INTERVAL_SECONDS: ${{ vars.HOTLIST_DOMAIN_MIN_INTERVAL_SECONDS || '1' }}
+      # 15 分钟一次的快讯任务，必须在上限内收尾，否则整个 surface 空转一轮。
+      HOTLIST_COLLECT_BUDGET_SECONDS: '400'
 
     steps:
       - name: Checkout source

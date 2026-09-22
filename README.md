@@ -209,6 +209,8 @@ Cloudflare Pages 可以直接监听 `data-pages`，不需要额外构建或 Clou
 
 快手只在官方页面失败后请求今日热榜，只有前两级都失败才请求 DailyHot API。所有 DailyHot 请求同样共享进程级缓存和节流，默认最小间隔 5 秒，403/429 后停止本批次后续请求；可用 `HOTLIST_DAILYHOT_MIN_INTERVAL_SECONDS` 调大间隔。GitHub Actions 验证中快手官方与今日热榜均能返回有效数据，DailyHot 公共域名曾出现 DNS 不可达，因此它只作为最后一级备用源。
 
+域名级节流之外的等待都视为故障：某个域名被 403/429 冷却后，单次请求最多等待 `HOTLIST_DOMAIN_MAX_WAIT_SECONDS`（默认 30 秒），超出就让该渠道以 `rate_limited` 缺席本轮，而不是把整批任务睡到被 job 超时杀掉；上游给出的 `Retry-After` 也只在 120 秒内生效。`HOTLIST_COLLECT_BUDGET_SECONDS` 给单批采集设一个总预算（CI 中 hourly 600 秒、special 每轮 300 秒、live 400 秒），预算耗尽的渠道记 `deadline` 错误并立刻收尾，保证已采到的数据仍能落盘推送。退出码上，单个渠道失败属于常态，只有全军覆没、或失败数同时达到 `HOTLIST_FAILURE_MIN` 与 `HOTLIST_FAILURE_RATIO`（默认 3 与 0.5）才判为失败；无论是否失败，采集都会输出一行 `[summary]` JSON，并在 GitHub Actions 中把失败渠道写进任务摘要。
+
 RSS 当前暂停：不注册渠道、不进入默认或手动采集选择、不参与报告，也不在页面显示。适配器源码与既有历史 CSV 暂时保留，便于未来重新评估时复用。
 
 脉脉不进入默认调度。确需恢复时，先配置 `MAIMAI_COOKIE` Secret，再手动运行 hourly 工作流并将 `channels` 指定为 `maimai`；页面卡片仍需在显示设置中手动开启。

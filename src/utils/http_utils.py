@@ -58,8 +58,28 @@ DEFAULT_RETRIES = 3
 
 #: 重试退避基数（秒），实际间隔为 base * 2^(n-1)
 DEFAULT_BACKOFF = 1.0
+
+#: 单次请求在域名冷却里最多愿意等待的秒数。冷却是别人给的节奏，
+#: 采集任务有自己的调度周期：等满 10 分钟不如让这一渠道本轮缺席，
+#: 陈旧标记会告诉前端和下一轮任务真实情况。
+DEFAULT_DOMAIN_MAX_WAIT = 30.0
+
+#: 上游 Retry-After 的采纳上限（秒）
+DOMAIN_COOLDOWN_CAP = 120.0
+
 _DOMAIN_STATE = {}
 _DOMAIN_LOCK = threading.Lock()
+
+
+class DomainCooldownError(RuntimeError):
+    """域名仍在冷却中，且剩余等待超出了本轮采集愿意付出的预算。"""
+
+
+def _domain_max_wait() -> float:
+    try:
+        return max(0.0, float(os.environ.get("HOTLIST_DOMAIN_MAX_WAIT_SECONDS", DEFAULT_DOMAIN_MAX_WAIT)))
+    except (TypeError, ValueError):
+        return DEFAULT_DOMAIN_MAX_WAIT
 
 
 def _domain_gate(url: str) -> None:
@@ -70,9 +90,14 @@ def _domain_gate(url: str) -> None:
         return
     with _DOMAIN_LOCK:
         wait_until = _DOMAIN_STATE.get(host, 0.0)
-    now = time.monotonic()
-    if wait_until > now:
-        time.sleep(wait_until - now)
+    remaining = wait_until - time.monotonic()
+    if remaining > 0:
+        budget = _domain_max_wait()
+        if remaining > budget:
+            raise DomainCooldownError(
+                f"{host} is cooling down for another {remaining:.0f}s, over the {budget:.0f}s budget"
+            )
+        time.sleep(remaining)
     with _DOMAIN_LOCK:
         _DOMAIN_STATE[host] = time.monotonic() + minimum
 
@@ -128,12 +153,14 @@ def get(url, res_type='text', headers: dict = None, timeout: int = DEFAULT_TIMEO
                 return response.content
             return response.text
         except Exception as e:  # noqa: BLE001 - 采集脚本不应因单次抖动整体崩溃
+            if isinstance(e, DomainCooldownError):
+                raise
             last_error = e
             status = getattr(getattr(e, "response", None), "status_code", None)
             if status in {403, 429}:
                 retry_after = getattr(getattr(e, "response", None), "headers", {}).get("Retry-After", "")
                 try:
-                    cooldown = min(600.0, max(5.0, float(retry_after)))
+                    cooldown = min(DOMAIN_COOLDOWN_CAP, max(5.0, float(retry_after)))
                 except (TypeError, ValueError):
                     cooldown = 30.0
                 _mark_domain_cooldown(url, cooldown)
@@ -174,6 +201,8 @@ def post(url, payload=None, res_type='text', headers: dict = None,
                 )
             return response.json() if res_type == 'json' else response.text
         except Exception as exc:  # noqa: BLE001 - retry transient source failures
+            if isinstance(exc, DomainCooldownError):
+                raise
             last_error = exc
             status = getattr(getattr(exc, "response", None), "status_code", None)
             if status in {403, 429}:

@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Mapping, Optional
 
 from src.utils.file_utils import write_json
+from src.utils.http_utils import DomainCooldownError
 from src.utils.time_utils import now_string, project_now
 
 from .models import ChannelSnapshot, EmptySourceError
@@ -36,6 +37,25 @@ def surface_data_path(latest_path, surface: str) -> Path:
         raise ValueError(f"unsupported ranking surface: {surface}")
     return Path(latest_path).with_name(SURFACE_FILENAMES[surface])
 
+
+class RunDeadlineExceeded(RuntimeError):
+    """The batch spent its allotted seconds; later channels stay untouched."""
+
+
+def _collect_deadline() -> Optional[float]:
+    """Absolute monotonic deadline for one collection batch, or None when unset."""
+    raw = os.environ.get("HOTLIST_COLLECT_BUDGET_SECONDS", "").strip()
+    if not raw:
+        return None
+    try:
+        budget = float(raw)
+    except ValueError:
+        return None
+    if budget <= 0:
+        return None
+    return time.monotonic() + budget
+
+
 def collect_channels(
     channel_ids: Iterable[str],
     definitions: Optional[Mapping[str, ChannelDefinition]] = None,
@@ -43,11 +63,14 @@ def collect_channels(
 ) -> List[ChannelSnapshot]:
     use_registered_collectors = definitions is None
     definitions = definitions or CHANNELS
+    deadline = _collect_deadline()
     snapshots = []
     for channel_id in channel_ids:
         definition = definitions[channel_id]
         try:
             started = time.monotonic()
+            if deadline is not None and started >= deadline:
+                raise RunDeadlineExceeded("collection budget exhausted before this channel")
             if definition.collector is None:
                 raise RuntimeError("collector is not implemented")
             if surface and use_registered_collectors:
@@ -81,6 +104,8 @@ def collect_channels(
                 error_type = "forbidden"
             elif status and status >= 500:
                 error_type = "upstream_server"
+            elif isinstance(exc, (DomainCooldownError, RunDeadlineExceeded)):
+                error_type = "rate_limited" if isinstance(exc, DomainCooldownError) else "deadline"
             elif isinstance(exc, TimeoutError) or exc.__class__.__name__ in {"Timeout", "ConnectTimeout", "ReadTimeout"}:
                 error_type = "timeout"
             elif isinstance(exc, EmptySourceError):
