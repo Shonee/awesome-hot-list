@@ -1,6 +1,6 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-23 01:47:57
+> 更新时间：2026-09-23 02:12:43
 
 ## 7x24
 
@@ -13,8 +13,3 @@
 7. [国家移民管理局：不断提高引才引智层次水平，为推进新一代智能制造、发展先进制造业持续注入动力活力](https://m.yicai.com/brief/103374782.html)
 8. [PayPal宣布与Meta合作，使用Muse进行购物和结账](https://m.yicai.com/brief/103374778.html)
 9. [千亿航天SY‑300FF液体火箭发动机评审立项](https://m.yicai.com/brief/103374775.html)
-10. [中船动力发布我国首台套自主研发的“核柴一号”6MW级机组](https://m.yicai.com/brief/103374772.html)
-11. [国投智能1000台保安机器人量产启动](https://m.yicai.com/brief/103374769.html)
-12. [武汉：加快把集成电路打造成为“首位产业”](https://m.yicai.com/brief/103374767.html)
-13. [国内商品期货夜盘收盘](https://m.yicai.com/brief/103374766.html)
-14. [2026腾冲科学家论坛曼谷专题活动关注AI与合作](https://m.yicai.com/brief/103374763.html)
