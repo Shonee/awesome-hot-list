@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-22 18:23:16
+> 更新时间：2026-09-22 19:20:07
 
 ## 热门文章
 
@@ -19,8 +19,8 @@
 13. [为什么全世界的 AI 都画不好一只骑自行车的鹈鹕](https://juejin.cn/post/7687439830713417737)
 14. [Jev 入门第一课](https://juejin.cn/post/7686925590315696138)
 15. [推荐一个牛逼的AgentScope系统](https://juejin.cn/post/7687438959296413732)
-16. [React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”](https://juejin.cn/post/7686769981477814313)
-17. [Sass 和 Less 在 2026 年彻底多余了吗？](https://juejin.cn/post/7687521521468325929)
+16. [Sass 和 Less 在 2026 年彻底多余了吗？](https://juejin.cn/post/7687521521468325929)
+17. [React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”](https://juejin.cn/post/7686769981477814313)
 18. [DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？](https://juejin.cn/post/7687537292214501412)
 19. [货拉拉开源Hadice：安卓 & 鸿蒙桌面调试工具](https://juejin.cn/post/7687209773675937818)
 20. [Kotlin 协程闯关：看代码，猜结果](https://juejin.cn/post/7687445339747958793)
@@ -28,8 +28,8 @@
 22. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
 23. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
 24. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
-25. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
-26. [别再跟AI说“请”了，它根本不 care——但有个东西它超在意](https://juejin.cn/post/7687818534403588146)
+25. [别再跟AI说“请”了，它根本不 care——但有个东西它超在意](https://juejin.cn/post/7687818534403588146)
+26. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
 27. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 28. [FDE：一个缩写，两种命运](https://juejin.cn/post/7686806089748693007)
 29. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
@@ -41,16 +41,16 @@
 35. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
 36. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
 37. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
-38. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
-39. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
-40. [大模型的参数量为什么那么大？](https://juejin.cn/post/7686949251356033074)
-41. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
-42. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
-43. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
-44. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
-45. [AI Agent 为什么总是失忆？一篇讲透 Agent Memory](https://juejin.cn/post/7687377634816294912)
-46. [Shopify 弃 React Native 上了 HN 1272 分，我复现了它给 Agent 用的那套无头架构](https://juejin.cn/post/7686808742222954515)
-47. [一套审批流要写多少代码：13 个框架的接入 diff 我数了一遍，最少 422 行，最多 1798 行](https://juejin.cn/post/7686769981477552169)
-48. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
+38. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
+39. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
+40. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
+41. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
+42. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
+43. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
+44. [AI Agent 为什么总是失忆？一篇讲透 Agent Memory](https://juejin.cn/post/7687377634816294912)
+45. [Shopify 弃 React Native 上了 HN 1272 分，我复现了它给 Agent 用的那套无头架构](https://juejin.cn/post/7686808742222954515)
+46. [一套审批流要写多少代码：13 个框架的接入 diff 我数了一遍，最少 422 行，最多 1798 行](https://juejin.cn/post/7686769981477552169)
+47. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
+48. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
 49. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
 50. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
