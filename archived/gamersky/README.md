@@ -1,11 +1,11 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-22 13:22:49
+> 更新时间：2026-09-22 14:36:53
 
 ## 热点资讯排行
 
 1. [带枪穿越中世纪乱杀！全新美女角色获胜赞](https://www.gamersky.com/news/202609/2212673.shtml)
-2. [游戏主播茄子成老赖！被执行290万](https://www.gamersky.com/news/202609/2213499.shtml)
+2. [曝游戏主播茄子成老赖！被执行290万](https://www.gamersky.com/news/202609/2213499.shtml)
 3. [女流66谈自己Steam号被盗 千款游戏不玩只《绝地求生》开挂](https://www.gamersky.com/news/202609/2212703.shtml)
 4. [《GTA:东京》细节披露:重点武士刀 效仿《恶霸鲁尼》](https://www.gamersky.com/news/202609/2212489.shtml)
 5. [百万奖金](https://www.gamersky.com/news/202609/2212881.shtml)
