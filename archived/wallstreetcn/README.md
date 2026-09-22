@@ -1,32 +1,51 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-22 10:13:53
+> 更新时间：2026-09-22 10:36:39
 
 ## 7x24
 
-1. [找矿突破成绩喜人！我国发现超大型规模铜金矿](https://wallstreetcn.com/livenews/3168587)
-2. [SpaceX已停止销售猎鹰9号（Falcon 9）共享发射任务。（华尔街日报）](https://wallstreetcn.com/livenews/3168586)
-3. [MSCI亚太指数上涨1%至281.28点。](https://wallstreetcn.com/livenews/3168585)
-4. [中秋、国庆假期单日最高通关量将突破240万人次](https://wallstreetcn.com/livenews/3168583)
-5. [国家禁毒委员会办公室发布警示通告防范美托咪定和酒石酸流失用于制毒风险。（新华社）](https://wallstreetcn.com/livenews/3168581)
-6. [韩国对美贸易协议首个投资项目是德克萨斯州天然气发电厂。
+1. [国开行发行1年期债券，规模80亿元，发行利率1.3944%，预期1.3800%，投标倍数2.61倍，边际倍数4.30倍；
+
+国开行发行3年期债券，规模70亿元，发行利率1.4875%，预期1.4800%，投标倍数3.31倍，边际倍数7...](https://wallstreetcn.com/livenews/3168607)
+2. [国内首条跨海市域铁路通车运营](https://wallstreetcn.com/livenews/3168605)
+3. [上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报132500元/吨，较上日16:30价格上涨250元/吨。](https://wallstreetcn.com/livenews/3168604)
+4. [国家发改委：将加快推动《中华人民共和国卫星导航条例》出台实施](https://wallstreetcn.com/livenews/3168603)
+5. [国家发改委：北斗应用场景和规模不断扩大，14亿部智能手机搭载北斗定位服务。](https://wallstreetcn.com/livenews/3168599)
+6. [国家发改委：我国农业生产应对厄尔尼诺等风险挑战是有底气、有条件、有能力的](https://wallstreetcn.com/livenews/3168598)
+7. [胡塞武装称沙特空袭也门 致多人伤亡](https://wallstreetcn.com/livenews/3168597)
+8. [国家发改委：上半年水网建设吸引民间投资同比增长85.8%](https://wallstreetcn.com/livenews/3168596)
+9. [知情人士称美国将在格陵兰岛新设两处军事基地](https://wallstreetcn.com/livenews/3168595)
+10. [2032年阿里云数据中心规模将超20GW](https://wallstreetcn.com/livenews/3168593)
+11. [新西兰联储主席布雷曼：如果油价持续高企，预计短期通胀率将略高于我们在9月声明中的预期。
+
+我们将评估即将公布的数据和全球形势，然后再于10月做出下一次决定，并将继续关注通胀前景。
+
+经济前景仍面临重大风险，我们预计经济复苏将加强并扩大...](https://wallstreetcn.com/livenews/3168591)
+12. [阿里巴巴计划训练5到10万亿参数AI模型。](https://wallstreetcn.com/livenews/3168590)
+13. [创新药、CRO概念异动拉升，义翘神州触及20cm涨停，新华制药、哈药股份此前2连板，百花医药、康希诺、万邦医药涨超6%。](https://wallstreetcn.com/livenews/3168589)
+14. [找矿突破成绩喜人！我国发现超大型规模铜金矿](https://wallstreetcn.com/livenews/3168587)
+15. [SpaceX已停止销售猎鹰9号（Falcon 9）共享发射任务。（华尔街日报）](https://wallstreetcn.com/livenews/3168586)
+16. [MSCI亚太指数上涨1%至281.28点。](https://wallstreetcn.com/livenews/3168585)
+17. [中秋、国庆假期单日最高通关量将突破240万人次](https://wallstreetcn.com/livenews/3168583)
+18. [国家禁毒委员会办公室发布警示通告防范美托咪定和酒石酸流失用于制毒风险。（新华社）](https://wallstreetcn.com/livenews/3168581)
+19. [韩国对美贸易协议首个投资项目是德克萨斯州天然气发电厂。
 
 韩国正在评估将核电与阿拉斯加项目作为下一批对美投资项目。
 
 韩国表示对美投资每年不会超过200亿美元的上限。（韩联社）](https://wallstreetcn.com/livenews/3168580)
-7. [韩国正与美国就入股西屋电气（Westinghouse）5%至10%进行谈判。（韩联社）](https://wallstreetcn.com/livenews/3168579)
-8. [2026年全国国庆文化和旅游消费月启动](https://wallstreetcn.com/livenews/3168578)
-9. [A股机器人概念反复走强，联合精密封涨停，联合光电涨超12%，宁波东力、瑞芯微、鸿日达、北自科技涨超5%。](https://wallstreetcn.com/livenews/3168576)
-10. [监管文件显示：伯克希尔哈撒韦在9月17日至21日期间增持了莱纳房屋（Lennar）约270万股A类股及75021股B类股。](https://wallstreetcn.com/livenews/3168574)
-11. [“2026中国民营企业500强”发布](https://wallstreetcn.com/livenews/3168573)
-12. [阿里巴巴将通过大宗交易出售价值5亿美元的中通快递股票。（彭博）](https://wallstreetcn.com/livenews/3168571)
-13. [创业板指涨超2%，沪指涨0.35%，深成指涨1.34%，半导体、传媒、消费电子、软件开发等方向领涨，沪深京三市上涨个股超2600只。](https://wallstreetcn.com/livenews/3168570)
-14. [A股PCB概念股反复活跃，广合科技、宏和科技双双涨停，逸豪新材涨超10%，威尔高、贤丰控股、崇达技术、迅捷兴等纷纷走高。](https://wallstreetcn.com/livenews/3168568)
-15. [中证转债指数开盘上涨0.27%。华峰转债、澳弘转债、颀中转债、路维转债、本川转债涨幅居前，分别涨3.36%、2.92%、2.73%、2.07%、2.06%。皓元转债、赫达转债、煜邦转债、隆22转债、建龙转债跌幅居前，分别跌0.64%、...](https://wallstreetcn.com/livenews/3168565)
-16. [国债期货开盘，30年期主力合约涨0.05%，10年期主力合约涨0.00%，5年期主力合约涨0.01%，2年期主力合约涨0.00%。](https://wallstreetcn.com/livenews/3168564)
-17. [欧盟委员会主席冯德莱恩表示，与菲律宾达成自由贸易协定。](https://wallstreetcn.com/livenews/3168563)
-18. [A股半导体产业链开盘领涨，龙芯中科涨近10%，澜起科技、聚辰股份、昂瑞微、海光信息、先导基电等多股涨超6%。](https://wallstreetcn.com/livenews/3168562)
-19. [上证指数开盘报3963.81点，涨0.35%。
+20. [韩国正与美国就入股西屋电气（Westinghouse）5%至10%进行谈判。（韩联社）](https://wallstreetcn.com/livenews/3168579)
+21. [2026年全国国庆文化和旅游消费月启动](https://wallstreetcn.com/livenews/3168578)
+22. [A股机器人概念反复走强，联合精密封涨停，联合光电涨超12%，宁波东力、瑞芯微、鸿日达、北自科技涨超5%。](https://wallstreetcn.com/livenews/3168576)
+23. [监管文件显示：伯克希尔哈撒韦在9月17日至21日期间增持了莱纳房屋（Lennar）约270万股A类股及75021股B类股。](https://wallstreetcn.com/livenews/3168574)
+24. [“2026中国民营企业500强”发布](https://wallstreetcn.com/livenews/3168573)
+25. [阿里巴巴将通过大宗交易出售价值5亿美元的中通快递股票。（彭博）](https://wallstreetcn.com/livenews/3168571)
+26. [创业板指涨超2%，沪指涨0.35%，深成指涨1.34%，半导体、传媒、消费电子、软件开发等方向领涨，沪深京三市上涨个股超2600只。](https://wallstreetcn.com/livenews/3168570)
+27. [A股PCB概念股反复活跃，广合科技、宏和科技双双涨停，逸豪新材涨超10%，威尔高、贤丰控股、崇达技术、迅捷兴等纷纷走高。](https://wallstreetcn.com/livenews/3168568)
+28. [中证转债指数开盘上涨0.27%。华峰转债、澳弘转债、颀中转债、路维转债、本川转债涨幅居前，分别涨3.36%、2.92%、2.73%、2.07%、2.06%。皓元转债、赫达转债、煜邦转债、隆22转债、建龙转债跌幅居前，分别跌0.64%、...](https://wallstreetcn.com/livenews/3168565)
+29. [国债期货开盘，30年期主力合约涨0.05%，10年期主力合约涨0.00%，5年期主力合约涨0.01%，2年期主力合约涨0.00%。](https://wallstreetcn.com/livenews/3168564)
+30. [欧盟委员会主席冯德莱恩表示，与菲律宾达成自由贸易协定。](https://wallstreetcn.com/livenews/3168563)
+31. [A股半导体产业链开盘领涨，龙芯中科涨近10%，澜起科技、聚辰股份、昂瑞微、海光信息、先导基电等多股涨超6%。](https://wallstreetcn.com/livenews/3168562)
+32. [上证指数开盘报3963.81点，涨0.35%。
 
 深证成指开盘报13858.62点，涨0.94%。
 
@@ -35,43 +54,38 @@
 沪深300开盘报4569.87点，涨0.67%。
 
 科创50开盘报1699.05点...](https://wallstreetcn.com/livenews/3168559)
-20. [中国央行公开市场开展350亿元7天期逆回购操作，操作利率1.40%，持平上次。今日无逆回购到期。](https://wallstreetcn.com/livenews/3168558)
-21. [恒指高开0.51%，报25170.80点；恒生科技指数涨1.01%。天数智芯、MINIMAX涨超5%，腾讯音乐涨近5%，智谱涨超4%。](https://wallstreetcn.com/livenews/3168557)
-22. [韩国产业通商部长官金正官：随着与美国达成的投资项目逐步落实，韩国企业将获得进入美国市场的新通道。
+33. [中国央行公开市场开展350亿元7天期逆回购操作，操作利率1.40%，持平上次。今日无逆回购到期。](https://wallstreetcn.com/livenews/3168558)
+34. [恒指高开0.51%，报25170.80点；恒生科技指数涨1.01%。天数智芯、MINIMAX涨超5%，腾讯音乐涨近5%，智谱涨超4%。](https://wallstreetcn.com/livenews/3168557)
+35. [韩国产业通商部长官金正官：随着与美国达成的投资项目逐步落实，韩国企业将获得进入美国市场的新通道。
 
 将于周二向国会议员汇报一项高达3500亿美元的对美投资计划，其中包括计划在德克萨斯州兴建的大型天然气电厂项目。](https://wallstreetcn.com/livenews/3168556)
-23. [阿里试水千问平板，与字节押注不同的AI终端](https://wallstreetcn.com/livenews/3168555)
-24. [人民币兑美元中间价报6.7459，上调28点；上一交易日中间价6.7487，上一交易日官方收盘价6.6955，上日夜盘报收6.6953。](https://wallstreetcn.com/livenews/3168554)
-25. [多只ETF停牌一小时](https://wallstreetcn.com/livenews/3168553)
-26. [美元/韩元日内下跌1%至1360.60，为9月16日以来最低水平。
+36. [阿里试水千问平板，与字节押注不同的AI终端](https://wallstreetcn.com/livenews/3168555)
+37. [人民币兑美元中间价报6.7459，上调28点；上一交易日中间价6.7487，上一交易日官方收盘价6.6955，上日夜盘报收6.6953。](https://wallstreetcn.com/livenews/3168554)
+38. [多只ETF停牌一小时](https://wallstreetcn.com/livenews/3168553)
+39. [美元/韩元日内下跌1%至1360.60，为9月16日以来最低水平。
 
 韩元表现优于亚洲新兴市场货币，得益于外国投资者买入韩国本地股票。](https://wallstreetcn.com/livenews/3168552)
-27. [台湾证交所加权股价指数盘初上涨1.8%，创下盘中历史新高。](https://wallstreetcn.com/livenews/3168550)
-28. [内盘商品期货开盘，菜籽粕、国际铜、豆二主力合约涨超1%，乙二醇、丙烯跌超2%，原油、燃料油跌超1%。](https://wallstreetcn.com/livenews/3168551)
-29. [富时中国A50指数期货盘初涨0.35%，上一个交易日夜盘收涨0.29%。](https://wallstreetcn.com/livenews/3168549)
-30. [两市融资余额增加141.71亿元](https://wallstreetcn.com/livenews/3168548)
-31. [小米MiMo-V2.6 Pro登顶Artificial Analysis开放权重模型榜](https://wallstreetcn.com/livenews/3168547)
-32. [越南称与美国贸易协议“非常接近”](https://wallstreetcn.com/livenews/3168546)
-33. [黑海航运受阻，俄罗斯改造波罗的海和北极港口出口粮食](https://wallstreetcn.com/livenews/3168545)
-34. [摩根大通CEO戴蒙：印度的税收和规章制度、对外资企业的限制壁垒可能会阻碍投资。
+40. [台湾证交所加权股价指数盘初上涨1.8%，创下盘中历史新高。](https://wallstreetcn.com/livenews/3168550)
+41. [内盘商品期货开盘，菜籽粕、国际铜、豆二主力合约涨超1%，乙二醇、丙烯跌超2%，原油、燃料油跌超1%。](https://wallstreetcn.com/livenews/3168551)
+42. [富时中国A50指数期货盘初涨0.35%，上一个交易日夜盘收涨0.29%。](https://wallstreetcn.com/livenews/3168549)
+43. [两市融资余额增加141.71亿元](https://wallstreetcn.com/livenews/3168548)
+44. [小米MiMo-V2.6 Pro登顶Artificial Analysis开放权重模型榜](https://wallstreetcn.com/livenews/3168547)
+45. [越南称与美国贸易协议“非常接近”](https://wallstreetcn.com/livenews/3168546)
+46. [黑海航运受阻，俄罗斯改造波罗的海和北极港口出口粮食](https://wallstreetcn.com/livenews/3168545)
+47. [摩根大通CEO戴蒙：印度的税收和规章制度、对外资企业的限制壁垒可能会阻碍投资。
 
 仍将美国视为强劲的投资目的地。](https://wallstreetcn.com/livenews/3168543)
-35. [LG与微软扩大在AI和数据中心领域的战略合作伙伴关系。](https://wallstreetcn.com/livenews/3168542)
-36. [瑞银资产管理：日本央行若再次干预将带来日元卖出机会](https://wallstreetcn.com/livenews/3168541)
-37. [SK海力士股价上涨3%。](https://wallstreetcn.com/livenews/3168540)
-38. [青岛：发放5000万元“乐购青岛”线上消费券](https://wallstreetcn.com/livenews/3168539)
-39. [韩国首尔综指高开2.2%，三星电子涨3%。
+48. [LG与微软扩大在AI和数据中心领域的战略合作伙伴关系。](https://wallstreetcn.com/livenews/3168542)
+49. [瑞银资产管理：日本央行若再次干预将带来日元卖出机会](https://wallstreetcn.com/livenews/3168541)
+50. [SK海力士股价上涨3%。](https://wallstreetcn.com/livenews/3168540)
+51. [青岛：发放5000万元“乐购青岛”线上消费券](https://wallstreetcn.com/livenews/3168539)
+52. [韩国首尔综指高开2.2%，三星电子涨3%。
 
 日本股市因假期继续休市一日。](https://wallstreetcn.com/livenews/3168538)
-40. [中国即将发行或正在发行的地方政府债](https://wallstreetcn.com/livenews/3168537)
-41. [中国即将发行或正在发行的国债和政策性金融债](https://wallstreetcn.com/livenews/3168536)
-42. [三花智控获Schroders PLC增持311.35万股 每股作价约24.24港元](https://wallstreetcn.com/livenews/3168535)
-43. [Shopify将采用Meta的Muse实现自主结账功能。（华尔街日报）](https://wallstreetcn.com/livenews/3168534)
-44. [法国总统马克龙称，法国准备帮助确保红海石油出口安全。](https://wallstreetcn.com/livenews/3168533)
-45. [全球功率半导体厂商多轮调价 行业步入高景气周期](https://wallstreetcn.com/livenews/3168532)
-46. [华尔街见闻早餐 | 2026年9月22日](https://wallstreetcn.com/livenews/3168531)
-47. [法国总统马克龙称，与特朗普讨论了乌克兰、俄罗斯打击能源设施的问题。
-
-马克龙表示，他将与泽连斯基讨论停止打击能源设施的问题。](https://wallstreetcn.com/livenews/3168530)
-48. [金正恩观摩朝鲜新型武器试验](https://wallstreetcn.com/livenews/3168529)
-49. [澳洲联储助理主席Hunter：可能需再次升息以控制通胀](https://wallstreetcn.com/livenews/3168528)
+53. [中国即将发行或正在发行的地方政府债](https://wallstreetcn.com/livenews/3168537)
+54. [中国即将发行或正在发行的国债和政策性金融债](https://wallstreetcn.com/livenews/3168536)
+55. [三花智控获Schroders PLC增持311.35万股 每股作价约24.24港元](https://wallstreetcn.com/livenews/3168535)
+56. [Shopify将采用Meta的Muse实现自主结账功能。（华尔街日报）](https://wallstreetcn.com/livenews/3168534)
+57. [法国总统马克龙称，法国准备帮助确保红海石油出口安全。](https://wallstreetcn.com/livenews/3168533)
+58. [全球功率半导体厂商多轮调价 行业步入高景气周期](https://wallstreetcn.com/livenews/3168532)
+59. [华尔街见闻早餐 | 2026年9月22日](https://wallstreetcn.com/livenews/3168531)
