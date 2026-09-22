@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-22 09:31:25
+> 更新时间：2026-09-22 10:30:28
 
 ## 最新帖子
 
-1. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
-2. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
-3. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
-4. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
-5. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
-6. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
-7. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
-8. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
-9. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
-10. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
-11. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
-12. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
-13. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
-14. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-15. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
-16. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
-17. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
-18. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-19. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
-20. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
+1. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+2. [RuoYi-Cloud-Plus一些坑](https://www.cnblogs.com/maomao777/p/23074288)
+3. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
+4. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
+5. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
+6. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+7. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
+8. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
+9. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
+10. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
+11. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
+12. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
+13. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
+14. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
+15. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
+16. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
+17. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
+18. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
+19. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
+20. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [又是一年了，那个“不务正业“的央企程序员](https://www.cnblogs.com/yubaolee/p/23042984/starganttdev)
-2. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
-3. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
-4. [如何快速上传10G文件](https://www.cnblogs.com/zrui-xyu/p/23043556)
-5. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
-6. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
+1. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
+2. [Jev：当 AI 不再生成 Token，而是直接做决策](https://www.cnblogs.com/heyonggang/p/23048923)
+3. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
+4. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
+5. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
+6. [服务器又卡了？一篇讲透 Linux 性能排查（基础四件套 + perf/strace/火焰图）](https://www.cnblogs.com/codigger/p/23048446)
