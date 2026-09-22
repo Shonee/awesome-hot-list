@@ -222,6 +222,8 @@ RSS 当前暂停：不注册渠道、不进入默认或手动采集选择、不�
 ```bash
 python3 -m unittest discover -s tests -v
 python3 -m compileall -q src tests
+python3 src/script/channel_catalog.py check
+node --test tests/test_site_report_ui.mjs
 git diff --check
 ```
 
