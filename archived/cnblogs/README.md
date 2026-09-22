@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-22 12:25:07
+> 更新时间：2026-09-22 13:22:23
 
 ## 最新帖子
 
@@ -8,22 +8,22 @@
 2. [Robotics-从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿](https://www.cnblogs.com/ai-ldj/p/23076443)
 3. [Python coverage 进阶：从跑命令到“构造“覆盖率报告](https://www.cnblogs.com/exioran/p/23075327)
 4. [Agent 记忆系统的分层设计](https://www.cnblogs.com/ai-old-six/p/23075259)
-5. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
-6. [RuoYi-Cloud-Plus一些坑](https://www.cnblogs.com/maomao777/p/23074288)
-7. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
-8. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
-9. [cloudflared，不需要服务器和公网 IP 的免费内网穿透，一条命令上手](https://www.cnblogs.com/jinjiangongzuoshi/p/23073018)
-10. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
-11. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
-12. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
-13. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
-14. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
-15. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
-16. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
-17. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
-18. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
-19. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
-20. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
+5. [DevOps从持续开发到持续部署](https://www.cnblogs.com/xiexj/p/23075271)
+6. [geo-toolbox 水文插件算法解析：从 Muskingum 到 Muskingum-Cunge](https://www.cnblogs.com/miku196/p/23074579)
+7. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+8. [RuoYi-Cloud-Plus一些坑](https://www.cnblogs.com/maomao777/p/23074288)
+9. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
+10. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
+11. [cloudflared，不需要服务器和公网 IP 的免费内网穿透，一条命令上手](https://www.cnblogs.com/jinjiangongzuoshi/p/23073018)
+12. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
+13. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+14. [踩坑记：一次Nacos客户端偶发connect timed out全链路排查](https://www.cnblogs.com/zhangs1986/p/22956469)
+15. [我用豆包 Seed-2.1-pro-0915 做了个「今天吃啥」，中午点菜这事终于不用纠结了](https://www.cnblogs.com/xiezhr/p/23072190)
+16. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
+17. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
+18. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
+19. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
+20. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
 
 ## 精华帖子
 
