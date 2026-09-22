@@ -149,3 +149,16 @@ test('one deduplicated destination opens directly', () => {
   assert.equal(opened.length, 1);
   assert.equal(opened[0][0], 'https://example.com/one');
 });
+
+test('channel names from published JSON reach the DOM only through escapeHtml', () => {
+  // applyLatest() replaces the build-time channel name with snapshot.channelName,
+  // so a source that renames a channel could otherwise break attributes or inject
+  // markup into the card header, the ranking tabs and the visibility drawer.
+  assert.ok(html.includes('CHANNELS[key].name = snapshot.channelName'), 'channel name is JSON-derived');
+  for (const sink of ['${channel.name}', '${CHANNELS[key].name}', ': activeRanking}']) {
+    assert.equal(html.includes(sink), false, `unescaped name reaches a sink: ${sink}`);
+  }
+  assert.ok(html.includes('${escapeHtml(channel.name)}'));
+  assert.ok(html.includes('${escapeHtml(CHANNELS[key].name)}'));
+  assert.ok(html.includes(': escapeHtml(activeRanking)}'));
+});
