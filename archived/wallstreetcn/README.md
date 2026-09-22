@@ -1,22 +1,20 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-23 05:22:22
+> 更新时间：2026-09-23 05:34:24
 
 ## 7x24
 
-1. [伊拉克总理即将会见美国总统。（INA）](https://wallstreetcn.com/livenews/3169164)
-2. [富时A50期指连续夜盘收涨0.33%，报14703点。](https://wallstreetcn.com/livenews/3169161)
-3. [随着供应中断缓解，原油交易员以前所未有的速度押注价格下跌](https://wallstreetcn.com/livenews/3169160)
-4. [周二（9月22日）纽约尾盘，标普500股指期货最终涨0.01%，道指期货跌0.33%，纳斯达克100股指期货涨0.71%。
+1. [土耳其逮捕资产管理公司Tera董事会主席Emre Tezmen。（NTV）](https://wallstreetcn.com/livenews/3169165)
+2. [伊拉克总理即将会见美国总统。（INA）](https://wallstreetcn.com/livenews/3169164)
+3. [富时A50期指连续夜盘收涨0.33%，报14703点。](https://wallstreetcn.com/livenews/3169161)
+4. [随着供应中断缓解，原油交易员以前所未有的速度押注价格下跌](https://wallstreetcn.com/livenews/3169160)
+5. [周二（9月22日）纽约尾盘，标普500股指期货最终涨0.01%，道指期货跌0.33%，纳斯达克100股指期货涨0.71%。
 
 罗素2000股指期货涨0.55%。](https://wallstreetcn.com/livenews/3169159)
-5. [周二（9月22日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.6988元，较周一纽约尾盘跌59点，日内整体交投于6.6915-6.7034元区间。](https://wallstreetcn.com/livenews/3169158)
-6. [国际金价涨约0.4%，白银涨约1.6%，纽约铜涨超1.9%一度逼近6.93美元](https://wallstreetcn.com/livenews/3169157)
-7. [比特币杠杆随快速价格波动风险同步攀升](https://wallstreetcn.com/livenews/3169156)
-8. [比特币领涨加密市场重返3万亿美元，高风险押注持续升温](https://wallstreetcn.com/livenews/3169155)
-9. [美国缅因州参议员Collins、King针对家庭取暖油的（库存）释放问题致函总统特朗普。
-
-他们希望，美国政府能面向西北地区释放家用取暖油储备。](https://wallstreetcn.com/livenews/3169154)
+6. [周二（9月22日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.6988元，较周一纽约尾盘跌59点，日内整体交投于6.6915-6.7034元区间。](https://wallstreetcn.com/livenews/3169158)
+7. [国际金价涨约0.4%，白银涨约1.6%，纽约铜涨超1.9%一度逼近6.93美元](https://wallstreetcn.com/livenews/3169157)
+8. [比特币杠杆随快速价格波动风险同步攀升](https://wallstreetcn.com/livenews/3169156)
+9. [比特币领涨加密市场重返3万亿美元，高风险押注持续升温](https://wallstreetcn.com/livenews/3169155)
 10. [欧洲央行管委兼德国央行行长Nagel：央行（在货币政策）处于中性状态。
 
 可以保证欧洲央行会保持警惕。不会允许第二轮通胀效应显现。](https://wallstreetcn.com/livenews/3169153)
@@ -89,16 +87,3 @@ CBOT玉米期货跌1.24%，CBOT小麦期货跌1.44%，CBOT大豆期货跌0.23%�
 49. [Meta的Muse冲击那些依赖“消费惯性”的股票](https://wallstreetcn.com/livenews/3169133)
 50. [在岸人民币兑美元（CNY）北京时间03:00收报6.7005元，较周一夜盘收盘跌52点。成交量458.39亿美元。](https://wallstreetcn.com/livenews/3169108)
 51. [特朗普首次会见英国首相，抨击查戈斯协议](https://wallstreetcn.com/livenews/3169107)
-52. [法国总统马克龙：战争罪行已实现工业化，我们目睹了平民基础设施的毁灭与人权侵犯，这是一个野蛮行径的新时代。](https://wallstreetcn.com/livenews/3169106)
-53. [WTI 10月原油期货收跌1.19美元，跌幅超过1.24%，报94.59美元/桶。
-
-布伦特11月原油期货收跌1.09美元，跌幅超过1.08%，报99.25美元/桶。
-
-中东Abu Dhabi Murban原油期货涨3.80%，报11...](https://wallstreetcn.com/livenews/3169105)
-54. [上期所原油期货2611合约夜盘收跌3.11%，报694.80元人民币/桶。
-
-沪金夜盘收涨0.36%，沪银收涨1.14%。](https://wallstreetcn.com/livenews/3169104)
-55. [乌克兰总统泽连斯基在美国纽约会见国际货币基金组织（IMF）总裁Georgieva。](https://wallstreetcn.com/livenews/3169103)
-56. [据媒体报道：巴西Suzano纸浆公司将从10月起将欧洲和美洲地区的纸浆价格每吨上调50美元。
-
-巴西Suzano纸浆公司拟自10月起将亚洲地区纸浆价格每吨上调20美元。](https://wallstreetcn.com/livenews/3169102)
