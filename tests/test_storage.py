@@ -41,6 +41,26 @@ class ArchivePathTests(unittest.TestCase):
                 ],
             )
 
+    def test_atomic_append_keeps_existing_rows(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = os.path.join(directory, "data.csv")
+            write_csv([{"title": "first"}], path, atomic=True)
+            write_csv([{"title": "second"}], path, atomic=True)
+
+            self.assertEqual([row["title"] for row in read_csv(path)], ["first", "second"])
+
+    def test_unreadable_existing_csv_is_never_truncated(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = os.path.join(directory, "data.csv")
+            with open(path, "wb") as stream:
+                stream.write(b"\xff\xfe existing archive\n")
+
+            with self.assertRaises(OSError):
+                write_csv([{"title": "today"}], path, mode="append", atomic=True)
+
+            with open(path, "rb") as stream:
+                self.assertEqual(stream.read(), b"\xff\xfe existing archive\n")
+
 
 if __name__ == "__main__":
     unittest.main()

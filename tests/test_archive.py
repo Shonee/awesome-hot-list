@@ -49,6 +49,31 @@ class WeeklyArchiveTests(unittest.TestCase):
             refreshed_index = json.loads(index_path.read_text(encoding="utf-8"))
             self.assertEqual(refreshed_index["dates"], ["2026-09-01"])
 
+    def test_compaction_failure_is_recovered_by_the_next_run(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            stranded = root / "archived" / "demo" / "2026" / "09" / "csv" / "2026-09-08.csv"
+            stranded.parent.mkdir(parents=True)
+            stranded.write_text("row", encoding="utf-8")
+
+            first = prepare(root, root / ".archive-work", dt.date(2026, 9, 21), retention_days=7)
+            self.assertEqual(
+                [entry["path"] for entry in first["files"]],
+                ["archived/demo/2026/09/csv/2026-09-08.csv"],
+            )
+
+            # The release is published before the branch is compacted, so a failed
+            # compaction leaves the files behind; the next weekly run must pick them
+            # up again instead of stranding them past the retention window.
+            second = prepare(root, root / ".archive-work-next", dt.date(2026, 9, 28), retention_days=7)
+
+            self.assertEqual(
+                [entry["path"] for entry in second["files"]],
+                [entry["path"] for entry in first["files"]],
+            )
+            # Recovery rides a new tag, so the recovered days land in two releases.
+            self.assertNotEqual(second["archiveId"], first["archiveId"])
+
     def test_empty_selection_is_safe(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

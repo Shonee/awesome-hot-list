@@ -378,7 +378,11 @@ def _write_csv_atomic(rows, file_path, fieldnames, mode, encoding):
     import io
     old = ""
     if mode == "append" and _has_content(file_path):
-        old = read_text(file_path, default="", encoding=encoding)
+        # read_text 失败返回 None 而不是 default=""：已有内容读不出来时必须报错，
+        # 否则会退化成「重写表头 + 只写本批行」，把该渠道当天归档截断掉。
+        old = read_text(file_path, encoding=encoding)
+        if old is None:
+            raise OSError(f"existing CSV is unreadable, refusing to overwrite: {file_path}")
         if old and not old.endswith("\n"):
             old += "\n"
 

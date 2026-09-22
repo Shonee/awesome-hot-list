@@ -28,6 +28,26 @@ class DataRootTests(unittest.TestCase):
             for name in ("live.json", "digest.json", "authority.json"):
                 self.assertTrue((root / "site/data" / name).is_file())
 
+    def test_unreadable_archive_does_not_block_site_snapshot(self):
+        snapshot = ChannelSnapshot(
+            channel_id="douyin",
+            channel_name="抖音",
+            source_url="https://example.com/douyin",
+            fetched_at="2026-09-06 12:00:00",
+            rankings=[Ranking("hot", "热搜", [HotItem(1, "测试热点", "https://example.com/1")])],
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            csv_path = root / "archived/douyin/2026/09/csv/2026-09-06.csv"
+            csv_path.parent.mkdir(parents=True)
+            csv_path.write_bytes(b"\xff\xfe existing archive\n")
+
+            with patch("src.script.collect.collect_channels", return_value=[snapshot]):
+                run("douyin", data_root=str(root))
+
+            self.assertTrue((root / "site/data/latest.json").is_file())
+            self.assertEqual(csv_path.read_bytes(), b"\xff\xfe existing archive\n")
+
     def test_render_writes_site_to_the_selected_data_root(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
