@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-22 15:25:50
+> 更新时间：2026-09-22 16:29:30
 
 ## 最新帖子
 
-1. [NeoVim 使用笔记](https://www.cnblogs.com/owlman/p/23077541)
-2. [什么是关系型数据库：一次库存超卖事故的内核复盘](https://www.cnblogs.com/dicengwanjialaozhang/p/23076598)
-3. [Robotics-从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿](https://www.cnblogs.com/ai-ldj/p/23076443)
-4. [Python coverage 进阶：从跑命令到“构造“覆盖率报告](https://www.cnblogs.com/exioran/p/23075327)
-5. [Agent 记忆系统的分层设计](https://www.cnblogs.com/ai-old-six/p/23075259)
-6. [DevOps从持续开发到持续部署](https://www.cnblogs.com/xiexj/p/23075271)
-7. [geo-toolbox 水文插件算法解析：从 Muskingum 到 Muskingum-Cunge](https://www.cnblogs.com/miku196/p/23074579)
-8. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
-9. [RuoYi-Cloud-Plus一些坑](https://www.cnblogs.com/maomao777/p/23074288)
-10. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
-11. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
-12. [cloudflared，不需要服务器和公网 IP 的免费内网穿透，一条命令上手](https://www.cnblogs.com/jinjiangongzuoshi/p/23073018)
-13. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
-14. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
-15. [踩坑记：一次Nacos客户端偶发connect timed out全链路排查](https://www.cnblogs.com/zhangs1986/p/22956469)
-16. [我用豆包 Seed-2.1-pro-0915 做了个「今天吃啥」，中午点菜这事终于不用纠结了](https://www.cnblogs.com/xiezhr/p/23072190)
-17. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
-18. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
-19. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
-20. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
+1. [MysticMirror 自研大模型全维度自动化测试套件（42 项用例）](https://www.cnblogs.com/LyShark/p/23079567)
+2. [NeoVim 使用笔记](https://www.cnblogs.com/owlman/p/23077541)
+3. [什么是关系型数据库：一次库存超卖事故的内核复盘](https://www.cnblogs.com/dicengwanjialaozhang/p/23076598)
+4. [Robotics-从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿](https://www.cnblogs.com/ai-ldj/p/23076443)
+5. [Python coverage 进阶：从跑命令到“构造“覆盖率报告](https://www.cnblogs.com/exioran/p/23075327)
+6. [Agent 记忆系统的分层设计](https://www.cnblogs.com/ai-old-six/p/23075259)
+7. [DevOps从持续开发到持续部署](https://www.cnblogs.com/xiexj/p/23075271)
+8. [geo-toolbox 水文插件算法解析：从 Muskingum 到 Muskingum-Cunge](https://www.cnblogs.com/miku196/p/23074579)
+9. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+10. [RuoYi-Cloud-Plus一些坑](https://www.cnblogs.com/maomao777/p/23074288)
+11. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
+12. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
+13. [cloudflared，不需要服务器和公网 IP 的免费内网穿透，一条命令上手](https://www.cnblogs.com/jinjiangongzuoshi/p/23073018)
+14. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
+15. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+16. [踩坑记：一次Nacos客户端偶发connect timed out全链路排查](https://www.cnblogs.com/zhangs1986/p/22956469)
+17. [我用豆包 Seed-2.1-pro-0915 做了个「今天吃啥」，中午点菜这事终于不用纠结了](https://www.cnblogs.com/xiezhr/p/23072190)
+18. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
+19. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
+20. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
 
 ## 精华帖子
 

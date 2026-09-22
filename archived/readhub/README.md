@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-22 15:26:04
+> 更新时间：2026-09-22 16:29:48
 
 ## 24 小时热榜
 
@@ -17,23 +17,23 @@
 11. [保时捷卡宴 3.0T 逐梦版狂降 30 万：V6 四驱仅售 61.8 万元](https://readhub.cn/topic/8wZyqU2IyJ7?tab=daily)
 12. [小米 AI 硬创团队近期开源 4 个 AI 硬件探索项目](https://readhub.cn/topic/8wbVCjFoqOt?tab=daily)
 13. [钟南山团队新发现：71% 肺结节患者不吸烟](https://readhub.cn/topic/8wa5GKm2Jsa?tab=daily)
-14. [OpenAI 开发新功能应对 Grok Bot 和 Meta Muse 竞争](https://readhub.cn/topic/8wbqx6LHnkw?tab=daily)
-15. [宇树科技发布 Dex5-S 灵巧手](https://readhub.cn/topic/8wbcI5vqtkO?tab=daily)
-16. [多邻国被指诱导消费 用户 7 天试用遭秒扣 738 元](https://readhub.cn/topic/8wbtT1tLnPS?tab=daily)
+14. [多邻国被指诱导消费 用户 7 天试用遭秒扣 738 元](https://readhub.cn/topic/8wbtT1tLnPS?tab=daily)
+15. [OpenAI 开发新功能应对 Grok Bot 和 Meta Muse 竞争](https://readhub.cn/topic/8wbqx6LHnkw?tab=daily)
+16. [宇树科技发布 Dex5-S 灵巧手](https://readhub.cn/topic/8wbcI5vqtkO?tab=daily)
 17. [理想推进芯片子公司首轮融资，投前估值约 150 亿元](https://readhub.cn/topic/8wbdm4J07Ou?tab=daily)
 18. [IDC 报告：耳夹式耳机成开放式耳机主流，市场格局分化竞争加剧](https://readhub.cn/topic/8wbAQJSuWtk?tab=daily)
 19. [微软工程师花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变成 80 万行 Rust，快 15.9 倍](https://readhub.cn/topic/8wbT0P9YcS0?tab=daily)
-20. [上汽奥迪高管辟谣：奥迪总部未否定 AUDI 品牌](https://readhub.cn/topic/8wbJj5LLskL?tab=daily)
-21. [保时捷首席执行官：保时捷不计划额外裁员 4000 人](https://readhub.cn/topic/8wbLrhZ58Js?tab=daily)
+20. [罗永浩否认贾国龙要求下跪和解的谣传](https://readhub.cn/topic/8wbMdbRp6QH?tab=daily)
+21. [上汽奥迪高管辟谣：奥迪总部未否定 AUDI 品牌](https://readhub.cn/topic/8wbJj5LLskL?tab=daily)
 22. [Anthropic、字节布局 AI 制药，数据成关键瓶颈](https://readhub.cn/topic/8wbKTtlo45T?tab=daily)
-23. [罗永浩否认贾国龙要求下跪和解的谣传](https://readhub.cn/topic/8wbMdbRp6QH?tab=daily)
-24. [AI 降低开发门槛致 App 供给暴增，需求未跟上](https://readhub.cn/topic/8wbRbNnIAMd?tab=daily)
+23. [AI 降低开发门槛致 App 供给暴增，需求未跟上](https://readhub.cn/topic/8wbRbNnIAMd?tab=daily)
+24. [Meta 个人 AI Agent 产品 Muse 登顶美国 App Store 免费应用榜](https://readhub.cn/topic/8wcbn4ZfnKr?tab=daily)
 25. [字节跳动 26.13 亿元摘得北京奥林匹克公园商业用地](https://readhub.cn/topic/8wbYjPtD4OZ?tab=daily)
-26. [Meta 个人 AI Agent 产品 Muse 登顶美国 App Store 免费应用榜](https://readhub.cn/topic/8wcbn4ZfnKr?tab=daily)
+26. [DeepSeek 召开闭门会议，梁文锋称正训练 2 万亿参数模型](https://readhub.cn/topic/8wcZdgxDPqh?tab=daily)
 27. [谷歌推出 Googlebook 进军高端笔记本市场，起售价 899 美元](https://readhub.cn/topic/8wblEsYItDL?tab=daily)
 28. [iOS 27 带来多项 CarPlay 新改进](https://readhub.cn/topic/8wbn1C3xAxl?tab=daily)
-29. [DeepSeek 召开闭门会议，梁文锋称正训练 2 万亿参数模型](https://readhub.cn/topic/8wcZdgxDPqh?tab=daily)
-30. [雷军：小米澎程首销月数据将于 10 月 7 日公布](https://readhub.cn/topic/8wbd0maAkSQ?tab=daily)
+29. [雷军：小米澎程首销月数据将于 10 月 7 日公布](https://readhub.cn/topic/8wbd0maAkSQ?tab=daily)
+30. [千问出行体验升级，东航航班动态随时查](https://readhub.cn/topic/8wc3pzeaxH9?tab=daily)
 
 ## 每日早报
 
@@ -52,8 +52,8 @@
 3. [Qwen4 已投入训练，阿里公布 10 万亿参数模型演进路线](https://www.aibase.com/zh/news/31264)
 4. [SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半](https://www.aibase.com/zh/news/31268)
 5. [Jev 推出新型 LLM 系统一，即决策模型](https://simonwillison.net/2026/Sep/21/jev/)
-6. [阿里平头哥发布 AI 芯片真武 V900，算力达 M890 三倍](https://www.aibase.com/zh/news/31260)
-7. [上海 AI Lab 与上交大抛出 NCP 预训练新范式，8.9B 隐空间模型用一半 Token 追平对手](https://www.aibase.com/zh/news/31257)
-8. [韩国 FuriosaAI 公布第三代推理加速器：算力与内存带宽均提升 32 倍](https://www.aibase.com/zh/news/31255)
-9. [蚂蚁阿福健康专区进入 2000 多家商超，AI 营养师走向线下](https://www.aibase.com/zh/news/31267)
-10. [小米发布并开源 MiMo-V2.6：AA 智能指数 46 分登顶最强开源模型](https://www.aibase.com/zh/news/31249)
+6. [小米 18 Pro 系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机](https://www.aibase.com/zh/news/31272)
+7. [阿里平头哥发布 AI 芯片真武 V900，算力达 M890 三倍](https://www.aibase.com/zh/news/31260)
+8. [阿里试水 QwenBook AI 设备，团队规模约 150 人](https://www.aibase.com/zh/news/31270)
+9. [上海 AI Lab 与上交大抛出 NCP 预训练新范式，8.9B 隐空间模型用一半 Token 追平对手](https://www.aibase.com/zh/news/31257)
+10. [韩国 FuriosaAI 公布第三代推理加速器：算力与内存带宽均提升 32 倍](https://www.aibase.com/zh/news/31255)
