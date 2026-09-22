@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-22 08:55:50
+> 更新时间：2026-09-22 09:32:23
 
 ## 热新闻
 
@@ -18,9 +18,9 @@
 12. [村民反映365万积蓄“存”化肥厂取不回，山东单县警方：涉事公司涉嫌非吸，追回损失需等待司法程序](https://www.thepaper.cn/newsDetail_forward_34113902)
 13. [马上评｜遗体滞留ICU十小时，患方维权不能越界](https://www.thepaper.cn/newsDetail_forward_34114522)
 14. [深一度｜世界纪录后，潘展乐用两年学会“不怕输”](https://www.thepaper.cn/newsDetail_forward_34113058)
-15. [体坛联播｜十人皇马1比2不敌马竞，曼城5轮全胜领跑英超](https://www.thepaper.cn/newsDetail_forward_34111885)
+15. [AI先淘汰员工，还是先淘汰职业经理人？](https://www.thepaper.cn/newsDetail_forward_34115860)
 16. [宋承良评球｜一个足球记者眼中的中国篮球](https://www.thepaper.cn/newsDetail_forward_34114051)
 17. [世界技能大赛｜每一双手，都在创造未来](https://www.thepaper.cn/newsDetail_forward_34108901)
-18. [退休警察“代持”上亿股权，法院判决不能给腐败洗白](https://www.thepaper.cn/newsDetail_forward_34117686)
-19. [AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”](https://www.thepaper.cn/newsDetail_forward_34114249)
+18. [青海辟谣“前文旅厅厅长开网约车”：不实，实际是网约车司机](https://www.thepaper.cn/newsDetail_forward_34116533)
+19. [退休警察“代持”上亿股权，法院判决不能给腐败洗白](https://www.thepaper.cn/newsDetail_forward_34117686)
 20. [马上评｜“闲鱼涉黄”又上热搜，平台治理不能限于封号整改](https://www.thepaper.cn/newsDetail_forward_34115171)
