@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-23 01:19:34
+> 更新时间：2026-09-23 02:27:52
 
 ## 人气热门
 
@@ -57,22 +57,22 @@
 
 ## 精华采撷
 
-1. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-2. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-3. [CTF游戏逆向入门](https://www.52pojie.cn/thread-2098123-1-1.html)
-4. [逆向分析某排八字软件的过程](https://www.52pojie.cn/thread-2114056-1-1.html)
-5. [Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]](https://www.52pojie.cn/thread-2090893-1-1.html)
-6. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
-7. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-8. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
-9. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-10. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
-11. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-12. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-13. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
-14. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-15. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
-16. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
+1. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
+2. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+3. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+4. [CTF游戏逆向入门](https://www.52pojie.cn/thread-2098123-1-1.html)
+5. [逆向分析某排八字软件的过程](https://www.52pojie.cn/thread-2114056-1-1.html)
+6. [Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]](https://www.52pojie.cn/thread-2090893-1-1.html)
+7. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
+8. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+9. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+10. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+11. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
+12. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+13. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+14. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
+15. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
+16. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
 17. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
 18. [x64dbg插件无驱动过vmp3.9.4反调试](https://www.52pojie.cn/thread-2101175-1-1.html)
 19. [八猫付费小说逆向-hostnameVerify&sign](https://www.52pojie.cn/thread-2102001-1-1.html)

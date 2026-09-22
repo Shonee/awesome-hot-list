@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-23 01:19:26
+> 更新时间：2026-09-23 02:27:44
 
 ## 热门文章
 
@@ -40,11 +40,11 @@
 34. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
 35. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
 36. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
-37. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
-38. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
-39. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
-40. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
-41. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
+37. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
+38. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
+39. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
+40. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
+41. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
 42. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
 43. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
 44. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)

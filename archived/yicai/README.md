@@ -1,15 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-23 02:12:43
+> 更新时间：2026-09-23 02:28:16
 
-## 7x24
+## 首页头条
 
-1. [美国一调查显示57%民众支持对华友好合作](https://m.yicai.com/brief/103374799.html)
-2. [新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里](https://m.yicai.com/brief/103374797.html)
-3. [SpaceXAI旗下Grok Bot上线首月周用户突破40万](https://m.yicai.com/brief/103374790.html)
-4. [美国与丹麦及格陵兰岛签署安全协议](https://m.yicai.com/brief/103374788.html)
-5. [欧洲主要股指收盘多数上涨](https://m.yicai.com/brief/103374786.html)
-6. [美股大型银行股走低](https://m.yicai.com/brief/103374784.html)
-7. [国家移民管理局：不断提高引才引智层次水平，为推进新一代智能制造、发展先进制造业持续注入动力活力](https://m.yicai.com/brief/103374782.html)
-8. [PayPal宣布与Meta合作，使用Muse进行购物和结账](https://m.yicai.com/brief/103374778.html)
-9. [千亿航天SY‑300FF液体火箭发动机评审立项](https://m.yicai.com/brief/103374775.html)
+1. [第48届世界技能大赛在上海开幕，推动技能生态更好服务全球经济](https://www.yicai.com/news/103374777.html)
+2. [土地使用权到期如何补地价？多个城市有了可执行方案](https://www.yicai.com/news/103374251.html)
+3. [马斯克终于交卷：Grok 4.7跑分很强，实测却翻车了？](https://www.yicai.com/news/103373702.html)
+4. [公费流感疫苗从5.5元涨至9元：企业“价格战”暂停，原因有哪些](https://www.yicai.com/news/103374562.html)
+5. [AI手机不只拼模型：荣耀阿里押注下一个超级场景](https://www.yicai.com/news/103374717.html)
