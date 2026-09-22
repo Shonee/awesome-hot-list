@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-22 07:19:29
+> 更新时间：2026-09-22 08:55:23
 
 ## 最新帖子
 
-1. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
-2. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
-3. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
-4. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
-5. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
-6. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
-7. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
-8. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
-9. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
-10. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
-11. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-12. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
-13. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
-14. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
-15. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-16. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
-17. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
-18. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
-19. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
-20. [2026互联网大厂秋招AI Coding笔试全攻略！](https://www.cnblogs.com/jinjiangongzuoshi/p/23056537)
+1. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
+2. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+3. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
+4. [ESP32-WROOM-32 设备管理页从零到上线](https://www.cnblogs.com/skybot/p/23069801)
+5. [Redis 数据结构：从五种基础到四种高级](https://www.cnblogs.com/yanshajiuzhou/p/23069770)
+6. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
+7. [LangGraph 基于状态图构建工作流入门](https://www.cnblogs.com/LyShark/p/23067721)
+8. [央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！](https://www.cnblogs.com/developer-tianyiyun/p/23065762)
+9. [geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地](https://www.cnblogs.com/miku196/p/23064342)
+10. [[踩坑]电源设计没算功耗，LDO差点烧了](https://www.cnblogs.com/strongestrabbit/p/23064569)
+11. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
+12. [泊松分布：从基础到实际应用](https://www.cnblogs.com/wang_yb/p/23061531)
+13. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
+14. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
+15. [机器学习核心算法全解析：监督学习、无监督学习、神经网络、SVM 一文读懂（附入门路线）](https://www.cnblogs.com/codigger/p/23059160)
+16. [前端电子表格技术路线图（2026-2027）](https://www.cnblogs.com/powertoolsteam/p/23058801)
+17. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
+18. [当对话模型遇上向量模型，vllm production stack 又该如何应对?](https://www.cnblogs.com/JulianHuang/p/23056976)
+19. [用 Python 把文字变成ASCII艺术字：开发者的专属极客浪漫](https://www.cnblogs.com/exioran/p/23056926)
+20. [Spring AI RAG接上观测云怎么做全链路观测？](https://www.cnblogs.com/guoxiaoyu/p/23053825)
 
 ## 精华帖子
 
