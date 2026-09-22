@@ -1,10 +1,10 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-22 23:48:42
+> 更新时间：2026-09-23 00:10:01
 
 ## 7x24
 
-1. [SpaceXAI旗下Grok Bot上线约一个月用户数突破40万](https://m.yicai.com/brief/103374790.html)
+1. [SpaceXAI旗下Grok Bot上线首月周用户突破40万](https://m.yicai.com/brief/103374790.html)
 2. [美国与丹麦及格陵兰岛签署安全协议](https://m.yicai.com/brief/103374788.html)
 3. [欧洲主要股指收盘多数上涨](https://m.yicai.com/brief/103374786.html)
 4. [美股大型银行股走低](https://m.yicai.com/brief/103374784.html)
