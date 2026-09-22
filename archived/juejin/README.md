@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-23 03:18:12
+> 更新时间：2026-09-23 04:20:42
 
 ## 热门文章
 
@@ -26,8 +26,8 @@
 20. [Kotlin 协程闯关：看代码，猜结果](https://juejin.cn/post/7687445339747958793)
 21. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
 22. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
-23. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
-24. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
+23. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
+24. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
 25. [别再跟AI说“请”了，它根本不 care——但有个东西它超在意](https://juejin.cn/post/7687818534403588146)
 26. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 27. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
@@ -40,17 +40,17 @@
 34. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
 35. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
 36. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
-37. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
-38. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
-39. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
-40. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
-41. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
-42. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
-43. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
-44. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
-45. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
-46. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
-47. [💫 闭包是个背包：拆解小米前端面试题里的三道"闭包陷阱"](https://juejin.cn/post/7687436260063543331)
+37. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
+38. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
+39. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
+40. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
+41. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
+42. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
+43. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
+44. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
+45. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
+46. [WorkBuddy + 腾讯乐享，原来知识库还能这么用](https://juejin.cn/post/7687386851713073198)
+47. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
 48. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
-49. [WorkBuddy + 腾讯乐享，原来知识库还能这么用](https://juejin.cn/post/7687386851713073198)
+49. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
 50. [AI Agent 为什么总是失忆？一篇讲透 Agent Memory](https://juejin.cn/post/7687377634816294912)
