@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-22 17:23:24
+> 更新时间：2026-09-22 18:23:20
 
 ## 最新帖子
 
@@ -52,7 +52,7 @@
 
 1. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
 2. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
-3. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-4. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
-5. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+3. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+4. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
+5. [「骂 AI 它就变聪明」，能用机制解释的只有一半](https://www.cnblogs.com/xiexj/p/23053019)
 6. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)

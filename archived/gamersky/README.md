@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-22 17:24:11
+> 更新时间：2026-09-22 18:23:44
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [《GTA:东京》突遭曝光！今日游民最热新闻大汇总](https://www.gamersky.com/news/202609/2212528.shtml)
 10. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
 11. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
-12. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
-13. [苹果在中国又卖爆了！库克微博发文：让人倍感振奋](https://www.gamersky.com/news/202609/2212907.shtml)
-14. [《街霸》春丽演员回应粗大腿](https://www.gamersky.com/news/202609/2214419.shtml)
+12. [《街霸》春丽演员回应粗大腿](https://www.gamersky.com/news/202609/2214419.shtml)
+13. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
+14. [苹果在中国又卖爆了！库克微博发文：让人倍感振奋](https://www.gamersky.com/news/202609/2212907.shtml)
 15. [全新PS限量手柄来了！联动BLACKPINK成员LISA](https://www.gamersky.com/news/202609/2214115.shtml)
