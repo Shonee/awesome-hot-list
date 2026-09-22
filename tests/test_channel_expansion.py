@@ -148,7 +148,7 @@ class SecondBatchParserTests(unittest.TestCase):
 
 class CandidateSourceTests(unittest.TestCase):
     def test_actions_verified_candidates_are_enabled_and_reported(self):
-        for channel_id in ("kuaishou", "huggingface", "googletrends"):
+        for channel_id in ("kuaishou", "huggingface"):
             definition = get_channel(channel_id)
             with self.subTest(channel=channel_id):
                 self.assertTrue(definition.enabled_by_default)

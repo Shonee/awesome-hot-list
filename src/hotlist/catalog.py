@@ -8,8 +8,8 @@ from .registry import CHANNEL_ORDER, get_channel
 
 
 CATALOG_SCHEMA_VERSION = 1
-CATALOG_VERSION = "1.1.1"
-CATALOG_UPDATED_AT = "2026-09-18"
+CATALOG_VERSION = "1.1.2"
+CATALOG_UPDATED_AT = "2026-09-22"
 
 CATEGORY_LABELS = {
     "ai": "AI 平台",
@@ -38,6 +38,7 @@ CHANNEL_CATEGORIES = {
     "cls": "finance", "wallstreetcn": "finance", "xueqiu": "finance",
     "eastmoney": "finance", "tonghuashun": "finance", "tieba": "community",
     "douban": "entertainment", "hupu": "sports", "maimai": "workplace",
+    "jandan": "community",
     "huggingface": "ai", "v2ex": "developer", "lobsters": "developer",
     "hackernews": "developer", "stackoverflow": "developer", "nodeseek": "community",
     "fuliba": "community", "autohome": "news", "gamersky": "entertainment",

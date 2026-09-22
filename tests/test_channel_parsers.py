@@ -10,6 +10,7 @@ from src.hotlist.channels.bing import parse_trending
 from src.hotlist.channels.douban import parse_topics as parse_douban
 from src.hotlist.channels.hupu import parse_topics as parse_hupu
 from src.hotlist.channels.hupu import parse_home
+from src.hotlist.channels.jandan import parse_rank as parse_jandan
 from src.hotlist.channels.juejin import parse_articles as parse_juejin
 from src.hotlist.channels.kr36 import parse_hot as parse_36kr
 from src.hotlist.channels.linuxdo import parse_topics as parse_linuxdo
@@ -133,6 +134,43 @@ class JsonChannelParserTests(unittest.TestCase):
         self.assertEqual(items[0].url, "https://www.cls.cn/detail/7")
         self.assertEqual(items[0].hot, 88)
         self.assertEqual(items[0].description, "摘要")
+
+    def test_jandan_parser_falls_back_to_hot_comment_and_ranks_by_votes(self):
+        items = parse_jandan(
+            {
+                "code": 0,
+                "data": [
+                    {
+                        "id": 1,
+                        "content": '<img src="https://img.example.com/a.jpg" />',
+                        "vote_positive": 30,
+                        "date_gmt": "2026-09-22T11:00:00+08:00",
+                    },
+                    {
+                        "id": 2,
+                        "content": '<img src="https://img.example.com/b.jpg" />',
+                        "hot_tucao": {"content": "热评：这张图绝了"},
+                        "vote_positive": 90,
+                        "date_gmt": "2026-09-22T10:00:00+08:00",
+                    },
+                    {"id": 3, "content": "自带文字的帖子\n第二行", "vote_positive": 60},
+                ],
+            }
+        )
+
+        # The image-only post without a hot comment cannot produce a title.
+        self.assertEqual([item.title for item in items], ["热评：这张图绝了", "自带文字的帖子 第二行"])
+        self.assertEqual([item.rank for item in items], [1, 2])
+        self.assertEqual([item.hot for item in items], [90, 60])
+        self.assertEqual(items[0].url, "https://jandan.net/t/2")
+        self.assertEqual(items[0].published_at, "2026-09-22T10:00:00+08:00")
+
+    def test_jandan_parser_rejects_unusable_payloads(self):
+        for payload in (None, {}, {"code": 1, "msg": "error"}):
+            with self.subTest(payload=payload):
+                self.assertRaises(RuntimeError, parse_jandan, payload)
+
+        self.assertEqual(parse_jandan({"code": 0, "data": None}), [])
 
 
 class MarkupParserTests(unittest.TestCase):

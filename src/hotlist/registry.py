@@ -63,13 +63,14 @@ CHANNEL_ORDER = (
     "tieba",
     "douban",
     "hupu",
+    "jandan",
     "maimai",
-    "huggingface",
+    "nodeseek",
     "v2ex",
-    "lobsters",
+    "huggingface",
     "hackernews",
     "stackoverflow",
-    "nodeseek",
+    "lobsters",
     "fuliba",
 )
 
@@ -122,20 +123,21 @@ _METADATA = {
     "github": ("GitHub", "GH", "#24292f", "https://github.com/trending", True, ()),
     "hackernews": ("Hacker News", "HN", "#ff6600", "https://news.ycombinator.com/", True, ()),
     "huggingface": ("Hugging Face", "HF", "#e0a000", "https://huggingface.co/models?sort=trending", True, ()),
-    "googletrends": ("Google Trends", "G", "#4285f4", "https://trends.google.com/trending?geo=HK", True, ()),
+    "googletrends": ("Google Trends", "G", "#4285f4", "https://trends.google.com/trending?geo=HK", False, ()),
     "bing": ("必应国内热点", "B", "#167a83", "https://www.bing.com/?mkt=zh-CN&cc=cn&setlang=zh-hans", False, ()),
     "juejin": ("掘金", "掘", "#1e80ff", "https://juejin.cn/hot/articles", True, ()),
     "lobsters": ("Lobsters", "L", "#ac130d", "https://lobste.rs/", True, ()),
     "douban": ("豆瓣", "DB", "#00a65a", "https://movie.douban.com/chart", True, ()),
     "hupu": ("虎扑", "HP", "#b31b1b", "https://m.hupu.com/", True, ()),
+    "jandan": ("煎蛋网", "蛋", "#ff8f1f", "https://jandan.net/top", True, ()),
     "qqnews": ("腾讯新闻", "腾", "#1769aa", "https://news.qq.com/", True, ()),
     "netease": ("网易新闻", "网", "#d22128", "https://news.163.com/", True, ()),
     "sina": ("新浪", "新", "#e6162d", "https://news.sina.com.cn/", True, ()),
     "thepaper": ("澎湃新闻", "澎", "#b5121b", "https://www.thepaper.cn/", True, ()),
     "wechat": ("微信文章", "微", "#07c160", "https://tophub.today/n/WnBe01o371", True, ()),
     "readhub": ("Readhub", "R", "#1677ff", "https://readhub.cn/", True, ()),
-    "cctv": ("央视新闻", "视", "#c8171e", "https://news.cctv.com/", True, ()),
-    "mfa": ("外交部", "外", "#1d4f91", "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/", True, ()),
+    "cctv": ("央视新闻", "视", "#c8171e", "https://news.cctv.com/", False, ()),
+    "mfa": ("外交部", "外", "#1d4f91", "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/", False, ()),
     "wallstreetcn": ("华尔街见闻", "见", "#d8a23f", "https://wallstreetcn.com/live/global", True, ()),
     "autohome": ("汽车之家", "汽", "#e64036", "https://www.autohome.com.cn/cars/hotrank/1", True, ()),
     "gamersky": ("游民星空", "游", "#bb2925", "https://www.gamersky.com/news/", True, ()),
@@ -152,14 +154,14 @@ _METADATA = {
 }
 
 
-_HIDDEN_BY_DEFAULT = {"maimai", "fuliba", "bing"}
-_EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "bing", "readhub", "cctv", "mfa", "wallstreetcn"}
+_HIDDEN_BY_DEFAULT = {"maimai", "fuliba", "bing", "googletrends", "cctv", "mfa"}
+_EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "bing", "readhub", "cctv", "mfa", "wallstreetcn", "googletrends"}
 _STALE_AFTER_HOURS = {"bing": 24}
 _HOTLIST_SURFACE_CHANNELS = (
     "weibo", "zhihu", "douyin", "kuaishou", "bilibili", "acfun", "toutiao",
     "github", "juejin", "cnblogs", "pojie52", "googletrends", "bing", "baidu",
     "wechat", "36kr", "thepaper", "qqnews", "netease", "sina", "cls", "xueqiu",
-    "eastmoney", "tonghuashun", "tieba", "douban", "hupu", "maimai", "huggingface",
+    "eastmoney", "tonghuashun", "tieba", "douban", "hupu", "jandan", "maimai", "huggingface",
     "autohome", "gamersky", "ithome", "yicai",
     "v2ex", "lobsters", "hackernews", "stackoverflow", "nodeseek", "fuliba",
 )

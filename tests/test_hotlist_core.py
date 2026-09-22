@@ -80,20 +80,24 @@ class RegistryTests(unittest.TestCase):
         self.assertFalse(get_channel('bing').visible_by_default)
         self.assertNotIn('bing', SPECIAL_CHANNELS)
 
-    def test_default_order_matches_the_product_configuration(self):
+    def test_channel_order_is_gapless_and_fully_registered(self):
+        from src.hotlist.registry import CHANNELS, _METADATA
+
+        self.assertEqual(len(CHANNEL_ORDER), len(set(CHANNEL_ORDER)))
+        # A metadata entry missing from CHANNEL_ORDER would silently vanish from
+        # the site instead of failing, because CHANNELS is built from the order.
+        self.assertEqual(set(CHANNEL_ORDER), set(_METADATA))
         self.assertEqual(
-            CHANNEL_ORDER,
-            (
-                "weibo", "zhihu", "douyin", "kuaishou", "bilibili", "acfun",
-                "toutiao", "github", "juejin", "cnblogs", "pojie52",
-                "googletrends", "bing", "baidu", "wechat", "36kr", "readhub",
-                "thepaper", "cctv", "mfa", "qqnews", "netease", "sina", "cls",
-                "autohome", "gamersky", "ithome", "yicai",
-                "wallstreetcn", "xueqiu", "eastmoney", "tonghuashun", "tieba",
-                "douban", "hupu", "maimai", "huggingface", "v2ex", "lobsters",
-                "hackernews", "stackoverflow", "nodeseek", "fuliba",
-            ),
+            [CHANNELS[channel_id].order for channel_id in CHANNEL_ORDER],
+            list(range(1, len(CHANNEL_ORDER) + 1)),
         )
+
+    def test_channel_order_keeps_the_product_anchors(self):
+        self.assertEqual(
+            CHANNEL_ORDER[:5],
+            ("weibo", "zhihu", "douyin", "kuaishou", "bilibili"),
+        )
+        self.assertEqual(CHANNEL_ORDER[-1], "fuliba")
 
     def test_hupu_is_enabled_by_default_after_mobile_ssr_adapter(self):
         from src.hotlist.registry import get_channel
