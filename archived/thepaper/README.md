@@ -1,16 +1,16 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-23 02:28:00
+> 更新时间：2026-09-23 03:18:31
 
 ## 热新闻
 
 1. [美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉](https://www.thepaper.cn/newsDetail_forward_34121849)
-2. [为倒渣土抄近路损毁明长城，山西通报：涉事企业被依法处理](https://www.thepaper.cn/newsDetail_forward_34122995)
-3. [三大球第一金！中国女排成功加冕亚运会十冠王](https://www.thepaper.cn/newsDetail_forward_34125616)
+2. [三大球第一金！中国女排成功加冕亚运会十冠王](https://www.thepaper.cn/newsDetail_forward_34125616)
+3. [为倒渣土抄近路损毁明长城，山西通报：涉事企业被依法处理](https://www.thepaper.cn/newsDetail_forward_34122995)
 4. [见微知沪｜车流静候老人缓缓过马路，城市善意更需“精细化”守护](https://www.thepaper.cn/newsDetail_forward_34121537)
-5. [马上评｜幼儿园炒菜锅洗拖把，通报为何迟到两个多月？](https://www.thepaper.cn/newsDetail_forward_34123351)
-6. [雷军澄清“打新宇树挣了100多亿”：顺为投资且不是打新，让有想法的年轻人拿到第一笔投资](https://www.thepaper.cn/newsDetail_forward_34123498)
-7. [上课，请先收起手机！高校推进“无手机课堂”，能帮大学生上好课吗](https://www.thepaper.cn/newsDetail_forward_34073740)
+5. [上课，请先收起手机！高校推进“无手机课堂”，能帮大学生上好课吗](https://www.thepaper.cn/newsDetail_forward_34073740)
+6. [马上评｜幼儿园炒菜锅洗拖把，通报为何迟到两个多月？](https://www.thepaper.cn/newsDetail_forward_34123351)
+7. [雷军澄清“打新宇树挣了100多亿”：顺为投资且不是打新，让有想法的年轻人拿到第一笔投资](https://www.thepaper.cn/newsDetail_forward_34123498)
 8. [还未见顶：2-4个月后超强厄尔尼诺才迎峰值，关键海区已逼近历史极值](https://www.thepaper.cn/newsDetail_forward_34122696)
 9. [AI先淘汰员工，还是先淘汰职业经理人？](https://www.thepaper.cn/newsDetail_forward_34115860)
 10. [马上评｜16岁少年强奸案，追问“法定代理人到场权”的落实](https://www.thepaper.cn/newsDetail_forward_34122861)
