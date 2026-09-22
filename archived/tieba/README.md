@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-22 22:24:00
+> 更新时间：2026-09-22 23:22:20
 
 ## 最有料热点
 
@@ -31,6 +31,6 @@
 25. [滔搏陀螺键帽下架,吧友晒绝版](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364968&topic_name=%E6%BB%94%E6%90%8F%E9%99%80%E8%9E%BA%E9%94%AE%E5%B8%BD%E4%B8%8B%E6%9E%B6%2C%E5%90%A7%E5%8F%8B%E6%99%92%E7%BB%9D%E7%89%88)
 26. [南小鸟偶像变教师,吧友幻灭](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364967&topic_name=%E5%8D%97%E5%B0%8F%E9%B8%9F%E5%81%B6%E5%83%8F%E5%8F%98%E6%95%99%E5%B8%88%2C%E5%90%A7%E5%8F%8B%E5%B9%BB%E7%81%AD)
 27. [中国男篮不敌伊朗无缘领奖台](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0)
-28. [来搭伙!贴吧签到5天白嫖50](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364948&topic_name=%E6%9D%A5%E6%90%AD%E4%BC%99%21%E8%B4%B4%E5%90%A7%E7%AD%BE%E5%88%B05%E5%A4%A9%E7%99%BD%E5%AB%9650)
-29. [吧友吹爆的方便面,大半你没吃过](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364924&topic_name=%E5%90%A7%E5%8F%8B%E5%90%B9%E7%88%86%E7%9A%84%E6%96%B9%E4%BE%BF%E9%9D%A2%2C%E5%A4%A7%E5%8D%8A%E4%BD%A0%E6%B2%A1%E5%90%83%E8%BF%87)
-30. [仗义!吧友帮外包工讨血汗钱](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364940&topic_name=%E4%BB%97%E4%B9%89%21%E5%90%A7%E5%8F%8B%E5%B8%AE%E5%A4%96%E5%8C%85%E5%B7%A5%E8%AE%A8%E8%A1%80%E6%B1%97%E9%92%B1)
+28. [吧友吹爆的方便面,大半你没吃过](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364924&topic_name=%E5%90%A7%E5%8F%8B%E5%90%B9%E7%88%86%E7%9A%84%E6%96%B9%E4%BE%BF%E9%9D%A2%2C%E5%A4%A7%E5%8D%8A%E4%BD%A0%E6%B2%A1%E5%90%83%E8%BF%87)
+29. [仗义!吧友帮外包工讨血汗钱](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364940&topic_name=%E4%BB%97%E4%B9%89%21%E5%90%A7%E5%8F%8B%E5%B8%AE%E5%A4%96%E5%8C%85%E5%B7%A5%E8%AE%A8%E8%A1%80%E6%B1%97%E9%92%B1)
+30. [来搭伙!贴吧签到5天白嫖50](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364948&topic_name=%E6%9D%A5%E6%90%AD%E4%BC%99%21%E8%B4%B4%E5%90%A7%E7%AD%BE%E5%88%B05%E5%A4%A9%E7%99%BD%E5%AB%9650)

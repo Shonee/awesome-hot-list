@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-22 22:23:15
+> 更新时间：2026-09-22 23:21:15
 
 ## 热门文章
 
@@ -17,8 +17,8 @@
 11. [从 0 到 1，记录我的第一个出海 SaaS 独立开发项目](https://juejin.cn/post/7687457196955631657)
 12. [Spring AI、LangChain4j、AgentScope、Embabel，哪个AI框架更好？](https://juejin.cn/post/7687440193649033222)
 13. [为什么全世界的 AI 都画不好一只骑自行车的鹈鹕](https://juejin.cn/post/7687439830713417737)
-14. [Jev 入门第一课](https://juejin.cn/post/7686925590315696138)
-15. [推荐一个牛逼的AgentScope系统](https://juejin.cn/post/7687438959296413732)
+14. [推荐一个牛逼的AgentScope系统](https://juejin.cn/post/7687438959296413732)
+15. [Jev 入门第一课](https://juejin.cn/post/7686925590315696138)
 16. [Sass 和 Less 在 2026 年彻底多余了吗？](https://juejin.cn/post/7687521521468325929)
 17. [React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”](https://juejin.cn/post/7686769981477814313)
 18. [DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？](https://juejin.cn/post/7687537292214501412)
@@ -26,8 +26,8 @@
 20. [Kotlin 协程闯关：看代码，猜结果](https://juejin.cn/post/7687445339747958793)
 21. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
 22. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
-23. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
-24. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
+23. [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302)
+24. [Jev是什么AI模型？不做自然语言生成为何引发热议](https://juejin.cn/post/7687583607784636426)
 25. [别再跟AI说“请”了，它根本不 care——但有个东西它超在意](https://juejin.cn/post/7687818534403588146)
 26. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 27. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
@@ -35,14 +35,14 @@
 29. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
 30. [FlutterPatch：把 Shorebird 热更新的控制面搬回自己服务器](https://juejin.cn/post/7687400852546011199)
 31. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
-32. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
-33. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
-34. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
-35. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
-36. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
-37. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
-38. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
-39. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
+32. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
+33. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
+34. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
+35. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
+36. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
+37. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
+38. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
+39. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
 40. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
 41. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
 42. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
