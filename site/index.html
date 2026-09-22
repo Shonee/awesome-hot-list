@@ -1508,7 +1508,7 @@
       const detailUrl = safeUrl(CHANNEL_RANKING_URLS[key]?.[activeRanking] || channel.sourceUrl);
       const provider = CHANNEL_RANKING_PROVIDERS[key]?.[activeRanking];
       const detailLink = detailUrl === '#' ? '' : `<a class="channel-detail" href="${detailUrl}" target="_blank" rel="noopener">查看详情</a>`;
-      const tabs = rankingNames.length > 1 ? `<div class="ranking-tabs" role="tablist" aria-label="${channel.name}榜单">
+      const tabs = rankingNames.length > 1 ? `<div class="ranking-tabs" role="tablist" aria-label="${escapeHtml(channel.name)}榜单">
         ${rankingNames.map(name => `<button class="ranking-tab ${name === activeRanking ? 'active' : ''}" data-ranking-channel="${key}" data-ranking-name="${escapeHtml(name)}" role="tab" aria-selected="${name === activeRanking}">${escapeHtml(name)}</button>`).join('')}
       </div>` : '';
       const body = rows.length ? `<ol class="hotlist">${rows.map((item, index) => {
@@ -1524,7 +1524,7 @@
         ? `${channel.statusMessage}；最近检查 ${shortDateTime(channel.checkedAt)}`
         : channel.statusMessage;
       return `<article class="channel-card" data-channel="${key}">
-        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${channel.name}</div><div class="channel-sub">${rankingNames.length > 1 ? `${rankingNames.length} 个榜单` : activeRanking} · <span class="channel-status status-${status}" title="${escapeHtml(statusTitle)}">${channelStatusLabel(status)}</span> · 更新 ${channel.updated}${providerNote}</div></div></div><div class="channel-count"><strong>${rows.length}</strong>共 ${allRows.length} 条</div></header>${tabs}<div class="channel-body">${body}</div><footer class="channel-foot">${detailLink}</footer>
+        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${escapeHtml(channel.name)}</div><div class="channel-sub">${rankingNames.length > 1 ? `${rankingNames.length} 个榜单` : escapeHtml(activeRanking)} · <span class="channel-status status-${status}" title="${escapeHtml(statusTitle)}">${channelStatusLabel(status)}</span> · 更新 ${channel.updated}${providerNote}</div></div></div><div class="channel-count"><strong>${rows.length}</strong>共 ${allRows.length} 条</div></header>${tabs}<div class="channel-body">${body}</div><footer class="channel-foot">${detailLink}</footer>
       </article>`;
     }
 
@@ -1542,8 +1542,8 @@
     function channelPlaceholder(key) {
       const channel = CHANNELS[key];
       return `<article class="channel-card channel-card-placeholder" data-lazy-channel="${key}" aria-busy="true">
-        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${channel.name}</div><div class="channel-sub">内容准备中</div></div></div></header>
-        <div class="channel-body" aria-label="${channel.name}内容加载中"></div>
+        <header class="channel-head"><div class="channel-id"><span class="channel-icon" style="background:${channel.color}">${channel.short}</span><div><div class="channel-name">${escapeHtml(channel.name)}</div><div class="channel-sub">内容准备中</div></div></div></header>
+        <div class="channel-body" aria-label="${escapeHtml(channel.name)}内容加载中"></div>
       </article>`;
     }
 
@@ -1651,7 +1651,7 @@
         }
         keys = [prefs.activeChannel];
         switcher.classList.add('active');
-        switcher.innerHTML = visibleKeys.map(key => `<button class="channel-switch-btn ${key === prefs.activeChannel ? 'active' : ''}" data-channel-switch="${key}">${CHANNELS[key].name}</button>`).join('');
+        switcher.innerHTML = visibleKeys.map(key => `<button class="channel-switch-btn ${key === prefs.activeChannel ? 'active' : ''}" data-channel-switch="${key}">${escapeHtml(CHANNELS[key].name)}</button>`).join('');
       } else {
         switcher.classList.remove('active');
         switcher.innerHTML = '';
@@ -1682,9 +1682,9 @@
 
     function renderSettings() {
       document.getElementById('channelSettings').innerHTML = prefs.order.map((key, index) => `<div class="channel-toggle" data-sort-channel="${key}">
-        <button class="sort-handle" draggable="true" data-drag-handle="${key}" aria-label="拖动${CHANNELS[key].name}排序" title="拖动排序">⋮⋮</button>
-        <label for="toggle-${key}">${CHANNELS[key].name}</label>
-        <span class="sort-actions"><button class="sort-btn" data-move-channel="${key}" data-move="-1" aria-label="上移${CHANNELS[key].name}" title="上移" ${index === 0 ? 'disabled' : ''}>↑</button><button class="sort-btn" data-move-channel="${key}" data-move="1" aria-label="下移${CHANNELS[key].name}" title="下移" ${index === prefs.order.length - 1 ? 'disabled' : ''}>↓</button></span>
+        <button class="sort-handle" draggable="true" data-drag-handle="${key}" aria-label="拖动${escapeHtml(CHANNELS[key].name)}排序" title="拖动排序">⋮⋮</button>
+        <label for="toggle-${key}">${escapeHtml(CHANNELS[key].name)}</label>
+        <span class="sort-actions"><button class="sort-btn" data-move-channel="${key}" data-move="-1" aria-label="上移${escapeHtml(CHANNELS[key].name)}" title="上移" ${index === 0 ? 'disabled' : ''}>↑</button><button class="sort-btn" data-move-channel="${key}" data-move="1" aria-label="下移${escapeHtml(CHANNELS[key].name)}" title="下移" ${index === prefs.order.length - 1 ? 'disabled' : ''}>↓</button></span>
         <input id="toggle-${key}" type="checkbox" data-channel-toggle="${key}" ${prefs.visible[key] ? 'checked' : ''}>
       </div>`).join('');
       document.querySelectorAll('[data-channel-toggle]').forEach(input => input.addEventListener('change', () => {
