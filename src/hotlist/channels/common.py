@@ -5,7 +5,7 @@ from html import unescape
 from urllib.parse import urlparse
 import warnings
 
-from ..models import ChannelSnapshot, Ranking
+from ..models import ChannelSnapshot, EmptySourceError, Ranking
 from ..registry import get_channel
 from src.utils.time_utils import PROJECT_TIMEZONE, now_string, project_now
 
@@ -48,7 +48,7 @@ def select_live_items(items, now=None, default_hours: int = 3, overflow_hours: i
 def snapshot(channel_id: str, rankings: list[Ranking]) -> ChannelSnapshot:
     definition = get_channel(channel_id)
     if not any(ranking.items for ranking in rankings):
-        raise RuntimeError("source returned no usable items")
+        raise EmptySourceError("source returned no usable items")
     return ChannelSnapshot(
         channel_id=channel_id,
         channel_name=definition.name,
@@ -85,17 +85,3 @@ def same_host(url: str, allowed_hosts) -> bool:
     return (urlparse(str(url or "")).hostname or "").lower() in {
         str(host).lower() for host in allowed_hosts
     }
-
-
-def unique_items(items, limit: int = 50):
-    """Keep non-empty, title/url-unique items with stable input order."""
-    result, seen = [], set()
-    for item in items:
-        key = (item.title, item.url)
-        if not item.title or key in seen:
-            continue
-        seen.add(key)
-        result.append(item)
-        if len(result) >= limit:
-            break
-    return result

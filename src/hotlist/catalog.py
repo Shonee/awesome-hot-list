@@ -4,6 +4,7 @@ from copy import deepcopy
 from importlib import import_module
 from typing import Any, Iterable
 
+from .channels import MODULE_ALIASES
 from .registry import CHANNEL_ORDER, get_channel
 
 
@@ -62,7 +63,7 @@ SPECIAL_REQUIREMENTS = {
 
 
 def _module_name(channel_id: str) -> str:
-    return "kr36" if channel_id == "36kr" else channel_id
+    return MODULE_ALIASES.get(channel_id, channel_id)
 
 
 def _urls(value: Any) -> Iterable[str]:

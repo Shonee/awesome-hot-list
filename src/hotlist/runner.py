@@ -11,7 +11,7 @@ from typing import Dict, Iterable, List, Mapping, Optional
 from src.utils.file_utils import write_json
 from src.utils.time_utils import now_string, project_now
 
-from .models import ChannelSnapshot
+from .models import ChannelSnapshot, EmptySourceError
 from .registry import (
     CHANNEL_ORDER,
     CHANNELS,
@@ -83,6 +83,8 @@ def collect_channels(
                 error_type = "upstream_server"
             elif isinstance(exc, TimeoutError) or exc.__class__.__name__ in {"Timeout", "ConnectTimeout", "ReadTimeout"}:
                 error_type = "timeout"
+            elif isinstance(exc, EmptySourceError):
+                error_type = "empty_response"
             elif isinstance(exc, ValueError):
                 error_type = "parse_error"
             else:

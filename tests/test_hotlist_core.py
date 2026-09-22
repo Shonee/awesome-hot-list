@@ -6,8 +6,13 @@ from types import SimpleNamespace
 from unittest.mock import patch
 
 from src.hotlist.channels import collect_channel
-from src.hotlist.models import ChannelSnapshot, HotItem, Ranking
-from src.hotlist.registry import CHANNEL_ORDER, ChannelDefinition, resolve_channels
+from src.hotlist.models import ChannelSnapshot, EmptySourceError, HotItem, Ranking
+from src.hotlist.registry import (
+    CHANNEL_ORDER,
+    ChannelDefinition,
+    _reject_unknown_channel_ids,
+    resolve_channels,
+)
 from src.hotlist.runner import collect_channels, merge_latest_snapshot
 from src.script.collect import _exit_code_for_snapshots
 
@@ -115,6 +120,12 @@ class RegistryTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             resolve_channels("unknown")
 
+    def test_optional_registry_tables_only_reference_registered_channels(self):
+        _reject_unknown_channel_ids("demo", CHANNEL_ORDER)
+
+        with self.assertRaisesRegex(RuntimeError, "typo-channel"):
+            _reject_unknown_channel_ids("DEMO_TABLE", ("weibo", "typo-channel"))
+
 
 class ChannelLoaderTests(unittest.TestCase):
     @patch("src.hotlist.channels.import_module")
@@ -155,6 +166,49 @@ class RunnerTests(unittest.TestCase):
 
         self.assertEqual([item.status for item in snapshots], ["ok", "error"])
         self.assertIn("temporary failure", snapshots[1].error)
+
+    def test_collector_failures_are_classified_by_root_cause(self):
+        class UpstreamForbidden(Exception):
+            response = SimpleNamespace(status_code=403)
+
+        failures = {
+            "forbidden": UpstreamForbidden(),
+            "timeout": TimeoutError("connect timed out"),
+            "empty": EmptySourceError("source returned no usable items"),
+            "parse": ValueError("unexpected shape"),
+            "other": RuntimeError("unclassified"),
+        }
+
+        def raise_(error):
+            def collector():
+                raise error
+            return collector
+
+        definitions = {
+            channel_id: ChannelDefinition(
+                channel_id, "渠道", order, "CH", "#111111", raise_(error)
+            )
+            for order, (channel_id, error) in enumerate(failures.items(), 1)
+        }
+
+        snapshots = collect_channels(list(failures), definitions=definitions)
+
+        self.assertEqual(
+            [snapshot.health["errorType"] for snapshot in snapshots],
+            ["forbidden", "timeout", "empty_response", "parse_error", "request_error"],
+        )
+
+    def test_empty_source_is_reported_separately_from_request_failures(self):
+        def empty():
+            raise EmptySourceError("source returned no usable items")
+
+        snapshots = collect_channels(
+            ["empty"],
+            definitions={"empty": ChannelDefinition("empty", "空数据渠道", 1, "EMP", "#111111", empty)},
+        )
+
+        self.assertEqual(snapshots[0].health["errorType"], "empty_response")
+        self.assertEqual(snapshots[0].status, "error")
 
     def test_latest_snapshot_merge_preserves_other_channels(self):
         with tempfile.TemporaryDirectory() as directory:

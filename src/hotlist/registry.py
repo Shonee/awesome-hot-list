@@ -203,6 +203,29 @@ CHANNELS: Dict[str, ChannelDefinition] = {
 }
 
 
+def _reject_unknown_channel_ids(table_name: str, channel_ids) -> None:
+    """Catch mistyped or retired channel IDs instead of silently taking defaults.
+
+    The optional tables below are read with ``.get`` or ``in``, so an unknown key
+    would otherwise be ignored and the channel would keep its default schedule,
+    visibility or report membership.
+    """
+    unknown = sorted({channel_id for channel_id in channel_ids if channel_id not in CHANNELS})
+    if unknown:
+        raise RuntimeError(f"{table_name} references unknown channel id(s): {', '.join(unknown)}")
+
+
+for _table_name, _table in (
+    ("CHANNEL_FREQUENCIES", CHANNEL_FREQUENCIES),
+    ("_HIDDEN_BY_DEFAULT", _HIDDEN_BY_DEFAULT),
+    ("_EXCLUDED_FROM_REPORT", _EXCLUDED_FROM_REPORT),
+    ("_STALE_AFTER_HOURS", _STALE_AFTER_HOURS),
+    ("LIVE_CHANNELS", LIVE_CHANNELS),
+):
+    _reject_unknown_channel_ids(_table_name, _table)
+del _table_name, _table
+
+
 SPECIAL_CHANNELS = tuple(
     channel_id
     for channel_id in CHANNEL_ORDER

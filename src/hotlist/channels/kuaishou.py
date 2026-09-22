@@ -6,7 +6,7 @@ from urllib.parse import quote
 
 from src.utils.http_utils import get
 
-from ..models import HotItem, Ranking
+from ..models import EmptySourceError, HotItem, Ranking
 from .common import snapshot
 from .dailyhot import fetch_payload as fetch_dailyhot
 from .tophub import fetch_ranking as fetch_tophub_ranking
@@ -113,7 +113,7 @@ def collect() -> "ChannelSnapshot":
             logger.warning("快手今日热榜请求失败，尝试 DailyHot API: %s", tophub_error)
             items = parse_dailyhot(fetch_dailyhot(DAILYHOT_URL))
             if not items:
-                raise RuntimeError("快手官方、今日热榜及 DailyHot API 均未返回有效数据")
+                raise EmptySourceError("快手官方、今日热榜及 DailyHot API 均未返回有效数据")
             provider_name = "DailyHot API"
             provider_url = DAILYHOT_URL
     return snapshot(

@@ -7,6 +7,10 @@ from typing import Any, List, Optional, Union
 HotValue = Optional[Union[int, float, str]]
 
 
+class EmptySourceError(RuntimeError):
+    """The source answered, but nothing in it could be ranked."""
+
+
 @dataclass
 class HotItem:
     rank: int

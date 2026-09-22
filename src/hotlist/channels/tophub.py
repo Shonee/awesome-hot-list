@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 from src.utils.http_utils import get
 
-from ..models import HotItem
+from ..models import EmptySourceError, HotItem
 
 
 HEADERS = {
@@ -158,5 +158,5 @@ def fetch_ranking(
 ) -> list[HotItem]:
     items = parse_ranking(_fetch_page(page_url), allowed_hosts, limit=limit)
     if len(items) < max(1, int(min_items)):
-        raise RuntimeError(f"今日热榜仅返回 {len(items)} 条有效数据")
+        raise EmptySourceError(f"今日热榜仅返回 {len(items)} 条有效数据")
     return items
