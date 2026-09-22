@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-23 06:19:26
+> 更新时间：2026-09-23 07:18:24
 
 ## 热门文章
 
@@ -35,18 +35,18 @@
 29. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
 30. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
 31. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
-32. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
-33. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
-34. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
-35. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
+32. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
+33. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
+34. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
+35. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
 36. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
 37. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
-38. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
-39. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
-40. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
-41. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
-42. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
-43. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
+38. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
+39. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
+40. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
+41. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
+42. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
+43. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
 44. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
 45. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
 46. [AI Agent 为什么总是失忆？一篇讲透 Agent Memory](https://juejin.cn/post/7687377634816294912)

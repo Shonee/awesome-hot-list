@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-23 06:19:55
+> 更新时间：2026-09-23 07:18:49
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
 12. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
 13. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
-14. [苹果在中国又卖爆了！库克微博发文：让人倍感振奋](https://www.gamersky.com/news/202609/2212907.shtml)
-15. [全新PS限量手柄来了！联动BLACKPINK成员LISA](https://www.gamersky.com/news/202609/2214115.shtml)
+14. [全新PS限量手柄来了！联动BLACKPINK成员LISA](https://www.gamersky.com/news/202609/2214115.shtml)
+15. [苹果在中国又卖爆了！库克微博发文：让人倍感振奋](https://www.gamersky.com/news/202609/2212907.shtml)

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-23 06:19:39
+> 更新时间：2026-09-23 07:18:37
 
 ## 24 小时热榜
 
@@ -18,22 +18,22 @@
 12. [Meta 个人 AI 助手 Muse 上线 13 天爆火 遭亚马逊限制访问](https://readhub.cn/topic/8wciD4gAQoM?tab=daily)
 13. [吴泳铭：阿里坚定投入 AI 模型、AI 芯片、AI 云三大基石](https://readhub.cn/topic/8wciE3mBNdX?tab=daily)
 14. [钟薛高创始人称西贝若倒闭将是中国餐饮行业的倒退](https://readhub.cn/topic/8wbVDvZJjkY?tab=daily)
-15. [沃尔玛中国调整两大业态采购负责人](https://readhub.cn/topic/8wckMjN70LU?tab=daily)
-16. [GPT-6 Sol 被曝将于本周二正式发布](https://readhub.cn/topic/8wcRkhePgXy?tab=daily)
-17. [蔡崇信：阿里巴巴正坚定投入全栈 AI 建设](https://readhub.cn/topic/8wceclv30y8?tab=daily)
-18. [Cloudflare 正式推出 Python Workers：可直接跑主流 Python 框架无需胶水代码](https://readhub.cn/topic/8wbmKaf55LD?tab=daily)
+15. [GPT-6 Sol 被曝将于本周二正式发布](https://readhub.cn/topic/8wcRkhePgXy?tab=daily)
+16. [沃尔玛中国调整两大业态采购负责人](https://readhub.cn/topic/8wckMjN70LU?tab=daily)
+17. [Cloudflare 正式推出 Python Workers：可直接跑主流 Python 框架无需胶水代码](https://readhub.cn/topic/8wbmKaf55LD?tab=daily)
+18. [蔡崇信：阿里巴巴正坚定投入全栈 AI 建设](https://readhub.cn/topic/8wceclv30y8?tab=daily)
 19. [前高瓴创投合伙人严文韬正式入职 DeepSeek 出任 CFO](https://readhub.cn/topic/8wckNYY1CIr?tab=daily)
 20. [陈冠希直播带货千万，背后靠 CLOT 品牌资产](https://readhub.cn/topic/8wawsgDUq3h?tab=daily)
-21. [OpenAI 内部 AI 可自主训练模型，发布全球 AI 安全倡议](https://readhub.cn/topic/8wcv3FNB7qX?tab=daily)
-22. [传阿里巴巴将大宗交易出售 5 亿美元中通快递股票](https://readhub.cn/topic/8wcc7VDEYQ6?tab=daily)
-23. [智谱 GLM-5.3-Flash 调用量增长 73% 位列 OpenRouter 日榜第一](https://readhub.cn/topic/8wd3f6I80RN?tab=daily)
-24. [江淮称将坚定与华为长期合作 江淮汽车尾盘涨停](https://readhub.cn/topic/8wd2DIyv74X?tab=daily)
-25. [千问发布 AI 手机全栈解决方案 Qwen Intelligence](https://readhub.cn/topic/8wd54tnOCO8?tab=daily)
-26. [OPPO 推出「AI 心力球」可穿戴新品 体验价 499 元](https://readhub.cn/topic/8wdNdsFtju5?tab=daily)
+21. [OPPO 推出「AI 心力球」可穿戴新品 体验价 499 元](https://readhub.cn/topic/8wdNdsFtju5?tab=daily)
+22. [OpenAI 内部 AI 可自主训练模型，发布全球 AI 安全倡议](https://readhub.cn/topic/8wcv3FNB7qX?tab=daily)
+23. [传阿里巴巴将大宗交易出售 5 亿美元中通快递股票](https://readhub.cn/topic/8wcc7VDEYQ6?tab=daily)
+24. [智谱 GLM-5.3-Flash 调用量增长 73% 位列 OpenRouter 日榜第一](https://readhub.cn/topic/8wd3f6I80RN?tab=daily)
+25. [江淮称将坚定与华为长期合作 江淮汽车尾盘涨停](https://readhub.cn/topic/8wd2DIyv74X?tab=daily)
+26. [千问发布 AI 手机全栈解决方案 Qwen Intelligence](https://readhub.cn/topic/8wd54tnOCO8?tab=daily)
 27. [千问全系列 AI 硬件亮相云栖大会 含支持眼动追踪的 AI 眼镜](https://readhub.cn/topic/8wcodTkVipf?tab=daily)
 28. [千问新一代 AI 硬件亮相云栖大会 10 月 13 日现货发售](https://readhub.cn/topic/8wcnuDte8zX?tab=daily)
-29. [美团 CatPaw 启用中文名「妙手」，瞄准 AI 经营工作台赛道](https://readhub.cn/topic/8wbT1EU7ApR?tab=daily)
-30. [阿里巴巴：Qwen4 和下代视频模型均在训练中](https://readhub.cn/topic/8wcl2Yo3iCI?tab=daily)
+29. [阿里巴巴：Qwen4 和下代视频模型均在训练中](https://readhub.cn/topic/8wcl2Yo3iCI?tab=daily)
+30. [广州白云机场 T3 大面积铺地毯引推行费力争议 正优化](https://readhub.cn/topic/8wd2v444kFB?tab=daily)
 
 ## 每日早报
 
@@ -50,10 +50,10 @@
 1. [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
 2. [Meta 再次上桌 个人 AI 产品爆红，扎克伯格身价直涨 2000 亿](https://www.mittrchina.com/news/detail/17000)
 3. [AI 会不会毁灭人类？答案可能比想象中更复杂](https://www.mittrchina.com/news/detail/16997)
-4. [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/)
-5. [高通发布第六代骁龙 8 超级至尊版芯片：2nm 工艺、CPU 行业首超 5GHz](https://www.ithome.com/1/006/009.htm)
+4. [高通发布第六代骁龙 8 至尊版 2nm 旗舰：CPU 突破 5.0GHz，小米 18 Pro 首发独占](https://news.mydrivers.com/1/1153/1153219.htm)
+5. [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/)
 6. [预填充吞吐超 330 Token / s：高通携手阶跃等为第六代骁龙 8 超级至尊版端侧适配 300 亿参数 AI 模型](https://www.ithome.com/1/006/008.htm)
 7. [高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电](https://www.ithome.com/1/006/003.htm)
 8. [一张硬件卡片，一场上下文之争：千问办公押注企业 Agent](https://www.leiphone.com/category/weiwu/DHnalKdgCUg8xEpC.html)
 9. [Alibaba unveils Zhenwu V900 chip and full-stack AI strategy at Apsara Conference](https://daily.dev/posts/5zlqdbrtr)
-10. [稀土分离最难的一步，美国公司想用量子计算和机器人实验室来解决](https://www.mittrchina.com/news/detail/16995)
+10. [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra)
