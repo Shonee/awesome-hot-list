@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-24 01:20:39
+> 更新时间：2026-09-24 02:27:33
 
 ## 人气热门
 
@@ -58,16 +58,16 @@
 ## 精华采撷
 
 1. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-2. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
-3. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-4. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
-5. [Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]](https://www.52pojie.cn/thread-2090893-1-1.html)
-6. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-7. [CTF游戏逆向入门](https://www.52pojie.cn/thread-2098123-1-1.html)
-8. [逆向分析某排八字软件的过程](https://www.52pojie.cn/thread-2114056-1-1.html)
-9. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
-10. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-11. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+2. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+3. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+4. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
+5. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+6. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
+7. [Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]](https://www.52pojie.cn/thread-2090893-1-1.html)
+8. [CTF游戏逆向入门](https://www.52pojie.cn/thread-2098123-1-1.html)
+9. [逆向分析某排八字软件的过程](https://www.52pojie.cn/thread-2114056-1-1.html)
+10. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
+11. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
 12. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
 13. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
 14. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
