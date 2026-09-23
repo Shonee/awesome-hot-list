@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-23 22:23:31
+> 更新时间：2026-09-23 23:21:58
 
 ## 热门文章
 
@@ -38,19 +38,19 @@
 32. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
 33. [AI 知识库 WeKnora（腾讯微信团队出品）](https://juejin.cn/post/7688530195554140194)
 34. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
-35. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
-36. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
-37. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
-38. [我给 WorkBuddy 设了个闹钟：每天上午十点半，一份 AI 日报自动送进微信](https://juejin.cn/post/7687897009885708324)
+35. [我给 WorkBuddy 设了个闹钟：每天上午十点半，一份 AI 日报自动送进微信](https://juejin.cn/post/7687897009885708324)
+36. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
+37. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
+38. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
 39. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
 40. [给公司年会写了个大屏抽奖系统：动画在前端跑，凭什么说结果没被改？](https://juejin.cn/post/7687800089250709546)
 41. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
 42. [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401)
 43. [我用 Go 搭了一条 AI Agent 流水线：从 1 张商品图到一整套淘宝详情页](https://juejin.cn/post/7687943158864887843)
 44. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
-45. [看不懂的装修图纸，豆包2.1 Pro帮我变成了能走进去的 3D 家](https://juejin.cn/post/7687995393330561078)
-46. [前端转型 Agent 开发 05 之 Agent Hooks 与 Checkpointer（让 Agent 从全自动转变人为可掌控）](https://juejin.cn/post/7687876412298805248)
-47. [棉宇宙 Flutter 热更新是如何落地的](https://juejin.cn/post/7687830468987928576)
-48. [实战案例：实现120fps流畅的渐变进度条](https://juejin.cn/post/7687583607785619466)
-49. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
-50. [Redis主从切换竟让业务卡了3秒？这个坑我替你踩了](https://juejin.cn/post/7686861782687449128)
+45. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
+46. [看不懂的装修图纸，豆包2.1 Pro帮我变成了能走进去的 3D 家](https://juejin.cn/post/7687995393330561078)
+47. [前端转型 Agent 开发 05 之 Agent Hooks 与 Checkpointer（让 Agent 从全自动转变人为可掌控）](https://juejin.cn/post/7687876412298805248)
+48. [棉宇宙 Flutter 热更新是如何落地的](https://juejin.cn/post/7687830468987928576)
+49. [实战案例：实现120fps流畅的渐变进度条](https://juejin.cn/post/7687583607785619466)
+50. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
