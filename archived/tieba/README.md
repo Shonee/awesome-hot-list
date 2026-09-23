@@ -1,11 +1,11 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-23 09:31:52
+> 更新时间：2026-09-23 10:31:05
 
 ## 最有料热点
 
 1. [好活!吧友爆改LOL水浒传](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365380&topic_name=%E5%A5%BD%E6%B4%BB%21%E5%90%A7%E5%8F%8B%E7%88%86%E6%94%B9LOL%E6%B0%B4%E6%B5%92%E4%BC%A0)
-2. [B站网红杰克辣条被刺进ICU](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365350&topic_name=B%E7%AB%99%E7%BD%91%E7%BA%A2%E6%9D%B0%E5%85%8B%E8%BE%A3%E6%9D%A1%E8%A2%AB%E5%88%BA%E8%BF%9BICU)
+2. [博主怒斥开屏广告被封禁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365432&topic_name=%E5%8D%9A%E4%B8%BB%E6%80%92%E6%96%A5%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E8%A2%AB%E5%B0%81%E7%A6%81)
 3. [吧友评无职转生:鲁迪铁好人](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365428&topic_name=%E5%90%A7%E5%8F%8B%E8%AF%84%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F%3A%E9%B2%81%E8%BF%AA%E9%93%81%E5%A5%BD%E4%BA%BA)
 4. [西瓜比南京贵,韩女回应翻车](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365358&topic_name=%E8%A5%BF%E7%93%9C%E6%AF%94%E5%8D%97%E4%BA%AC%E8%B4%B5%2C%E9%9F%A9%E5%A5%B3%E5%9B%9E%E5%BA%94%E7%BF%BB%E8%BD%A6)
 5. [大整治,浙江商K大面积关门](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365359&topic_name=%E5%A4%A7%E6%95%B4%E6%B2%BB%2C%E6%B5%99%E6%B1%9F%E5%95%86K%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E9%97%A8)
@@ -31,6 +31,6 @@
 25. [天价米难卖,日本新米要爆仓](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365015&topic_name=%E5%A4%A9%E4%BB%B7%E7%B1%B3%E9%9A%BE%E5%8D%96%2C%E6%97%A5%E6%9C%AC%E6%96%B0%E7%B1%B3%E8%A6%81%E7%88%86%E4%BB%93)
 26. [滔搏陀螺键帽下架,吧友晒绝版](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364968&topic_name=%E6%BB%94%E6%90%8F%E9%99%80%E8%9E%BA%E9%94%AE%E5%B8%BD%E4%B8%8B%E6%9E%B6%2C%E5%90%A7%E5%8F%8B%E6%99%92%E7%BB%9D%E7%89%88)
 27. [南小鸟偶像变教师,吧友幻灭](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364967&topic_name=%E5%8D%97%E5%B0%8F%E9%B8%9F%E5%81%B6%E5%83%8F%E5%8F%98%E6%95%99%E5%B8%88%2C%E5%90%A7%E5%8F%8B%E5%B9%BB%E7%81%AD)
-28. [中国男篮不敌伊朗无缘领奖台](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0)
-29. [吧友吹爆的方便面,大半你没吃过](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364924&topic_name=%E5%90%A7%E5%8F%8B%E5%90%B9%E7%88%86%E7%9A%84%E6%96%B9%E4%BE%BF%E9%9D%A2%2C%E5%A4%A7%E5%8D%8A%E4%BD%A0%E6%B2%A1%E5%90%83%E8%BF%87)
+28. [吧友吹爆的方便面,大半你没吃过](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364924&topic_name=%E5%90%A7%E5%8F%8B%E5%90%B9%E7%88%86%E7%9A%84%E6%96%B9%E4%BE%BF%E9%9D%A2%2C%E5%A4%A7%E5%8D%8A%E4%BD%A0%E6%B2%A1%E5%90%83%E8%BF%87)
+29. [中国男篮不敌伊朗无缘领奖台](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0)
 30. [仗义!吧友帮外包工讨血汗钱](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364940&topic_name=%E4%BB%97%E4%B9%89%21%E5%90%A7%E5%8F%8B%E5%B8%AE%E5%A4%96%E5%8C%85%E5%B7%A5%E8%AE%A8%E8%A1%80%E6%B1%97%E9%92%B1)
