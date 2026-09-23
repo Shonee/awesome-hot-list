@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-24 01:20:58
-
-## 新闻热榜
-
-1. [举报“幼儿园炒菜锅洗拖把”幼师发声：举报前想了两天两夜，做人要有良心，不能对不起孩子](https://news.sina.com.cn/o/2026-09-23/doc-inisusyf8584123.shtml)
-2. [马斯克：中国太棒了，是一个了不起的国家，我建议一定要去看看](https://news.sina.com.cn/o/2026-09-23/doc-inisuhki6360807.shtml)
-3. [果然，高市早苗找特朗普聊了中国](https://news.sina.com.cn/o/2026-09-23/doc-inisunsm5293661.shtml)
-4. [中国田径亚运历史第200金！石升吉夺本届亚运会田径首金](https://news.sina.com.cn/o/2026-09-23/doc-inisuhkr1519433.shtml)
-5. [“戏剧性”外交时刻！美伊领导人齐聚纽约，伊朗总统罕见战时赴美参会](https://news.sina.com.cn/o/2026-09-23/doc-inisuhkm8558659.shtml)
-6. [与中方聊了后，美财长有新职？](https://news.sina.com.cn/o/2026-09-23/doc-inisuhkp5368604.shtml)
-7. [六省区党委主要负责同志调整](https://news.sina.com.cn/c/2026-09-23/doc-inisvcqf1220167.shtml)
-8. [安徽等3省省委主要负责同志职务调整](https://news.sina.com.cn/c/2026-09-23/doc-inisunsf6301134.shtml)
-9. [高市早苗在联大呼吁删除《联合国宪章》“敌国条款”，外交部回应](https://news.sina.com.cn/c/2026-09-23/doc-inisvcqf1195803.shtml)
-10. [广东八旬老人离世曝出巨额遗产纠纷，女儿称6亿元财产都归了继母，起诉索要5734万，“父亲患有老年痴呆症，我对遗嘱真实性抱有极大疑问”](https://news.sina.com.cn/zx/2026-09-23/doc-inisuhki6341774.shtml)
-11. [习近平离京对美国进行国事访问](https://news.sina.com.cn/gov/xlxw/2026-09-23/doc-inisvcqf1251475.shtml)
-12. [拾光纪·“您是伟大的领导人”，特朗普热情期待在华盛顿接待习主席](https://news.sina.com.cn/gov/xlxw/2026-09-23/doc-inisuxhi1280659.shtml)
-13. [高市早苗抵达美国，一张照片尬上热搜！](https://news.sina.com.cn/w/2026-09-23/doc-inisusyf8594134.shtml)
-14. [牛弹琴：一年一度，最狠的咒骂，开始了](https://finance.sina.com.cn/wm/2026-09-23/doc-inisuhkr1519303.shtml)
-15. [爆料：乌军用自杀机器人搞渗透](https://news.sina.com.cn/w/2026-09-23/doc-inisuhki6360704.shtml)
-16. [这是32岁的习近平第一次访问美国](https://news.sina.com.cn/gov/xlxw/2026-09-23/doc-inisuxhc8517590.shtml)
-17. [叶建春辞去江西省省长职务](https://news.sina.com.cn/c/2026-09-23/doc-inisunsi8609344.shtml)
-18. [中国企业家代表团将随习主席一同访美吗？外交部：没有相关信息](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhf5383000.shtml)
-19. [犯21宗罪，黄大发二审维持死刑原判：人称“武汉高启强”，控制近十个乡村，或涉暴力强拆事件](https://news.sina.com.cn/zx/2026-09-23/doc-inisuxfz6107322.shtml)
-20. [美方发出威胁后，中方还允许伊朗商业航班降落吗？外交部：中方立场是一贯的](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhi1325357.shtml)
-
-## 财经热榜
-
-1. [牛弹琴：一年一度，最狠的咒骂，开始了](https://finance.sina.com.cn/wm/2026-09-23/doc-inisuhkr1519303.shtml)
-2. [中国企业家代表团将随习主席一同访美吗？外交部：没有相关信息](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhf5383000.shtml)
-3. [美方发出威胁后，中方还允许伊朗商业航班降落吗？外交部：中方立场是一贯的](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhi1325357.shtml)
-4. [特朗普重新定义AI：美国今后将把人工智能称为“超级智能”](https://finance.sina.com.cn/roll/2026-09-23/doc-inistrnr6655130.shtml)
-5. [操盘必读：影响股市利好或利空消息_2026年9月23日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-23/doc-inisuhkp5350766.shtml)
-6. [“戏剧性”外交时刻！美伊领导人齐聚纽约，伊朗总统罕见战时赴美参会](https://finance.sina.com.cn/roll/2026-09-23/doc-inisuhkm8558032.shtml)
-7. [A股整体冲高回落 AI应用端全天强势 机构：四季度有望出现“吃饭行情”](https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-09-23/doc-inisuhki6337996.shtml)
-8. [财经早报丨运力告急！全球掀起“买船潮” 国际油价五连跌丨2026年9月23日](https://finance.sina.com.cn/stock/y/2026-09-23/doc-inisuhkp5366564.shtml)
-9. [特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向](https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistvup6558348.shtml)
-10. [高市早苗呼吁删除“敌国条款”，中方表态](https://finance.sina.com.cn/wm/2026-09-23/doc-inisvcqf1197770.shtml)
-11. [特朗普：中期选举后美伊或达成协议](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inistvut5498821.shtml)
-12. [特朗普：要么与伊朗达成协议，要么“消灭伊朗”](https://finance.sina.com.cn/roll/2026-09-23/doc-inisuhki6355887.shtml)
-13. [李强在上海调研先进制造业，强调壮大耐心资本](https://finance.sina.com.cn/roll/2026-09-23/doc-inisusyi5380546.shtml)
-14. [台湾退役海巡舰援赠菲律宾，近日被发现已转成菲执法船，国台办：助纣为虐](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisusyf8552062.shtml)
-15. [车企集体提“分手”，宁德时代怎么了？](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhc8519121.shtml)
-16. [中国驻美国大使谢锋人民日报撰文：推动中美建设性战略稳定关系落地落实](https://finance.sina.com.cn/roll/2026-09-23/doc-inisuhki6340416.shtml)
-17. [中金公司今日复牌，“三合一”下多数股东选择留下换股](https://finance.sina.com.cn/stock/bxjj/2026-09-23/doc-inisuhkp5360104.shtml)
-18. [厦门钨业起诉洛阳钼业索赔1.16亿 钨钼半年营收161.5亿贡献半壁江山](https://finance.sina.com.cn/roll/2026-09-23/doc-inisuhki6356178.shtml)
-19. [罗永浩宣布播客暂停更新：卷进舆论漩涡，避免连累嘉宾](https://finance.sina.com.cn/china/2026-09-23/doc-inisuhkr1515402.shtml)
-20. [特朗普证实美伊在联大罕见直接接触 三小时会谈进行得“非常好”](https://finance.sina.com.cn/world/2026-09-23/doc-inistvuv1710063.shtml)
+> 更新时间：2026-09-24 01:24:30
 
 ## 7x24
 
