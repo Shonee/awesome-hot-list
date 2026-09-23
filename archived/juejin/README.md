@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-23 08:53:27
+> 更新时间：2026-09-23 09:30:59
 
 ## 热门文章
 
@@ -32,13 +32,13 @@
 26. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
 27. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 28. [FlutterPatch：把 Shorebird 热更新的控制面搬回自己服务器](https://juejin.cn/post/7687400852546011199)
-29. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
-30. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
-31. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
+29. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
+30. [用 IndexedDB 存用户的文件，我踩过的五个坑](https://juejin.cn/post/7687208012303728691)
+31. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
 32. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
 33. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
-34. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
-35. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
+34. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
+35. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
 36. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
 37. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
 38. [Anthropic 估值冲 4 万亿，但企业客户已经偷偷换了便宜模型](https://juejin.cn/post/7687026961769529407)
@@ -46,11 +46,11 @@
 40. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
 41. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
 42. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
-43. [拆解 Google《AI Agent Handbook》：企业级 Agent 的六层架构与产品矩阵](https://juejin.cn/post/7687151813254021154)
+43. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
 44. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
-45. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
-46. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
-47. [AI Agent 为什么总是失忆？一篇讲透 Agent Memory](https://juejin.cn/post/7687377634816294912)
-48. [给公司年会写了个大屏抽奖系统：动画在前端跑，凭什么说结果没被改？](https://juejin.cn/post/7687800089250709546)
-49. [💫 闭包是个背包：拆解小米前端面试题里的三道"闭包陷阱"](https://juejin.cn/post/7687436260063543331)
-50. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
+45. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
+46. [AI Agent 为什么总是失忆？一篇讲透 Agent Memory](https://juejin.cn/post/7687377634816294912)
+47. [Android 工业终端保活实战：前台服务 + 开机自启 + 更新自启的三重保障](https://juejin.cn/post/7687077659597406249)
+48. [Redis主从切换竟让业务卡了3秒？这个坑我替你踩了](https://juejin.cn/post/7686861782687449128)
+49. [Jev：当 AI 不再生成 Token，而是直接做决策](https://juejin.cn/post/7687422041256951835)
+50. [WorkBuddy + 腾讯乐享，原来知识库还能这么用](https://juejin.cn/post/7687386851713073198)

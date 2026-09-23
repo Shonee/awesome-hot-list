@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-23 08:53:29
+> 更新时间：2026-09-23 09:31:04
 
 ## 最新帖子
 
-1. [制造业质量追溯01：最小测试用例与 Oracle 层次查询演示](https://www.cnblogs.com/jyzhao/p/23087915)
-2. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://www.cnblogs.com/nzbin/p/23015141)
-3. [使用 DuckDB 分析 CSV 文件](https://www.cnblogs.com/wang_yb/p/23084068)
-4. [机器人 / 物理 Agent Harness 综合分析与对比：从「更强的模型」到「更好的系统」](https://www.cnblogs.com/rossiXYZ/p/22957482)
-5. [Windows 电脑如何使用 SCP 进行文件传输](https://www.cnblogs.com/zhongzhengli/p/23083599)
-6. [MCP 终极指南完整笔记 —— 基础篇 + 进阶篇 + 番外篇](https://www.cnblogs.com/Mickey-7/p/23083453)
-7. [MysticMirror 自研大模型全维度自动化测试套件（42 项用例）](https://www.cnblogs.com/LyShark/p/23079567)
-8. [NeoVim 使用笔记](https://www.cnblogs.com/owlman/p/23077541)
-9. [Robotics-从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿](https://www.cnblogs.com/ai-ldj/p/23076443)
-10. [Python coverage 进阶：从跑命令到“构造“覆盖率报告](https://www.cnblogs.com/exioran/p/23075327)
-11. [DevOps从持续开发到持续部署](https://www.cnblogs.com/xiexj/p/23075271)
-12. [geo-toolbox 水文插件算法解析：从 Muskingum 到 Muskingum-Cunge](https://www.cnblogs.com/miku196/p/23074579)
-13. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
-14. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
-15. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
-16. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
-17. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
-18. [踩坑记：一次Nacos客户端偶发connect timed out全链路排查](https://www.cnblogs.com/zhangs1986/p/22956469)
-19. [我用豆包 Seed-2.1-pro-0915 做了个「今天吃啥」，中午点菜这事终于不用纠结了](https://www.cnblogs.com/xiezhr/p/23072190)
-20. [npm 源切换：一条命令搞定](https://www.cnblogs.com/jyzhao/p/23071778)
+1. [告别“报告堆积如山“：打造一个集中化的 Allure 报告共享平台](https://www.cnblogs.com/exioran/p/23088977)
+2. [制造业质量追溯01：最小测试用例与 Oracle 层次查询演示](https://www.cnblogs.com/jyzhao/p/23087915)
+3. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://www.cnblogs.com/nzbin/p/23015141)
+4. [使用 DuckDB 分析 CSV 文件](https://www.cnblogs.com/wang_yb/p/23084068)
+5. [机器人 / 物理 Agent Harness 综合分析与对比：从「更强的模型」到「更好的系统」](https://www.cnblogs.com/rossiXYZ/p/22957482)
+6. [Windows 电脑如何使用 SCP 进行文件传输](https://www.cnblogs.com/zhongzhengli/p/23083599)
+7. [MCP 终极指南完整笔记 —— 基础篇 + 进阶篇 + 番外篇](https://www.cnblogs.com/Mickey-7/p/23083453)
+8. [MysticMirror 自研大模型全维度自动化测试套件（42 项用例）](https://www.cnblogs.com/LyShark/p/23079567)
+9. [NeoVim 使用笔记](https://www.cnblogs.com/owlman/p/23077541)
+10. [Robotics-从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿](https://www.cnblogs.com/ai-ldj/p/23076443)
+11. [Python coverage 进阶：从跑命令到“构造“覆盖率报告](https://www.cnblogs.com/exioran/p/23075327)
+12. [DevOps从持续开发到持续部署](https://www.cnblogs.com/xiexj/p/23075271)
+13. [geo-toolbox 水文插件算法解析：从 Muskingum 到 Muskingum-Cunge](https://www.cnblogs.com/miku196/p/23074579)
+14. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+15. [Python 如何提取 PDF 表格数据并写入 SQLite？](https://www.cnblogs.com/jazz-z/p/23073564)
+16. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
+17. [按键接到 STM32 后：GPIO 输入到底读到了什么](https://www.cnblogs.com/zw-awa/p/23068637)
+18. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+19. [踩坑记：一次Nacos客户端偶发connect timed out全链路排查](https://www.cnblogs.com/zhangs1986/p/22956469)
+20. [我用豆包 Seed-2.1-pro-0915 做了个「今天吃啥」，中午点菜这事终于不用纠结了](https://www.cnblogs.com/xiezhr/p/23072190)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [Fable 5.1操刀，内存腰斩，外星科技——SimdPaddleOCR 1.4 发布！](https://www.cnblogs.com/sdcb/p/23054351/20260919-simdpaddleocr-1-4)
-2. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
-3. [AI为什么能处理超大Excel，却不消耗等量Token？](https://www.cnblogs.com/jyzhao/p/23056092)
-4. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-5. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-6. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+1. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+2. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
+3. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
+4. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+5. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
+6. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
