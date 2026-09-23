@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-24 05:20:37
+> 更新时间：2026-09-24 06:20:14
 
 ## 24 小时热榜
 
@@ -24,26 +24,26 @@
 18. [iQOO 打造「3 + 2 游戏技术版图」，定义下一代移动电竞体验](https://readhub.cn/topic/8wckNGjpaJm?tab=daily)
 19. [比亚迪第二代海鸥设计图曝光：采用新设计语言 轴距加长 150 毫米](https://readhub.cn/topic/8wcmXnxB7t0?tab=daily)
 20. [长江存储 3D NAND 专利战在德国获胜 美光相关侵权产品遭禁售](https://readhub.cn/topic/8weISeVeGIO?tab=daily)
-21. [小米 18 Pro 系列全球首发两款第六代骁龙 8 旗舰芯片](https://readhub.cn/topic/8wdvDofNyIH?tab=daily)
-22. [腾讯 WorkBuddy 企业版办公套件化升级](https://readhub.cn/topic/8wePF8aV5rL?tab=daily)
-23. [米家智能意式半自动咖啡机 Pro 发布：自动打奶零门槛 3499 元](https://readhub.cn/topic/8weL1zB13JD?tab=daily)
-24. [网信中国：3 款手机端侧生成式 AI 服务已完成备案](https://readhub.cn/topic/8wejyrfTfzB?tab=daily)
-25. [华为暂缓全球 AI 芯片推广 优先满足国内算力需求](https://readhub.cn/topic/8wcnBqClDus?tab=daily)
-26. [拓竹发布消费级 CO₂激光切割机 R1，独家搭载自动光路校准功能](https://readhub.cn/topic/8wdVYn2yR0y?tab=daily)
-27. [网易云音乐鸿蒙版正式上线，完成多终端适配](https://readhub.cn/topic/8werrJ7kwjx?tab=daily)
-28. [宝马 CEO 称部分中国汽车欧售价难理解 不主张加征关税](https://readhub.cn/topic/8wegRXhn8PA?tab=daily)
-29. [小米 18 Pro 系列发布 定价 5999 元起](https://readhub.cn/topic/8wezg6s5oao?tab=daily)
-30. [OpenAI、Anthropic 同步推出新大模型并大幅下调 API 单价](https://readhub.cn/topic/8weUEnkTNbD?tab=daily)
+21. [腾讯 WorkBuddy 企业版办公套件化升级](https://readhub.cn/topic/8wePF8aV5rL?tab=daily)
+22. [米家智能意式半自动咖啡机 Pro 发布：自动打奶零门槛 3499 元](https://readhub.cn/topic/8weL1zB13JD?tab=daily)
+23. [网信中国：3 款手机端侧生成式 AI 服务已完成备案](https://readhub.cn/topic/8wejyrfTfzB?tab=daily)
+24. [华为暂缓全球 AI 芯片推广 优先满足国内算力需求](https://readhub.cn/topic/8wcnBqClDus?tab=daily)
+25. [拓竹发布消费级 CO₂激光切割机 R1，独家搭载自动光路校准功能](https://readhub.cn/topic/8wdVYn2yR0y?tab=daily)
+26. [网易云音乐鸿蒙版正式上线，完成多终端适配](https://readhub.cn/topic/8werrJ7kwjx?tab=daily)
+27. [宝马 CEO 称部分中国汽车欧售价难理解 不主张加征关税](https://readhub.cn/topic/8wegRXhn8PA?tab=daily)
+28. [小米 18 Pro 系列发布 定价 5999 元起](https://readhub.cn/topic/8wezg6s5oao?tab=daily)
+29. [OpenAI、Anthropic 同步推出新大模型并大幅下调 API 单价](https://readhub.cn/topic/8weUEnkTNbD?tab=daily)
+30. [贝莱德：在长飞光纤光缆 H 股的持股比例升至 6.2%](https://readhub.cn/topic/8wd8fKafdFT?tab=daily)
 
 ## 每日早报
 
-1. [09.22 阿里巴巴任命刘大一恒为 Qwen 大语言模型项目负责人 17 条](https://readhub.cn/daily/2026-09-22)
-2. [09.21 古尔曼：苹果最早将于下月推出智能家居屏幕设备 11 条](https://readhub.cn/daily/2026-09-21)
-3. [09.20 网传西贝两三个月内将彻底倒闭，贾国龙拟揽债弃股 12 条](https://readhub.cn/daily/2026-09-20)
-4. [09.19 Anthropic 开放 Mythos 模型，面向科研群体解禁 16 条](https://readhub.cn/daily/2026-09-19)
-5. [09.18 消息称 OpenAI 接近攻克霍奇猜想 12 条](https://readhub.cn/daily/2026-09-18)
-6. [09.17 张一鸣首次成为亚洲首富 13 条](https://readhub.cn/daily/2026-09-17)
-7. [09.16 苹果正式推送 iOS 27：Siri AI 全面升级 老款机型性能优化 17 条](https://readhub.cn/daily/2026-09-16)
+1. [09.23 豆包对话团队或裁员一半 16 条](https://readhub.cn/daily/2026-09-23)
+2. [09.22 阿里巴巴任命刘大一恒为 Qwen 大语言模型项目负责人 17 条](https://readhub.cn/daily/2026-09-22)
+3. [09.21 古尔曼：苹果最早将于下月推出智能家居屏幕设备 11 条](https://readhub.cn/daily/2026-09-21)
+4. [09.20 网传西贝两三个月内将彻底倒闭，贾国龙拟揽债弃股 12 条](https://readhub.cn/daily/2026-09-20)
+5. [09.19 Anthropic 开放 Mythos 模型，面向科研群体解禁 16 条](https://readhub.cn/daily/2026-09-19)
+6. [09.18 消息称 OpenAI 接近攻克霍奇猜想 12 条](https://readhub.cn/daily/2026-09-18)
+7. [09.17 张一鸣首次成为亚洲首富 13 条](https://readhub.cn/daily/2026-09-17)
 
 ## AI 资讯
 
@@ -55,5 +55,5 @@
 6. [Introducing MentalHealthBench](https://openai.com/index/introducing-mentalhealthbench)
 7. [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
 8. [How invideo improves color grading 3x with GPT‑6 Astra](https://openai.com/index/invideo-builds-with-gpt-6-astra)
-9. [穆迪：五大科技巨头因 AI 投资产生 2.8 万亿美元表外义务](https://wallstreetcn.com/livenews/3169877)
-10. [澳总理：一款 OpenAI 智能体侵入联邦政府网站](https://wallstreetcn.com/livenews/3169867)
+9. [Anthropic CEO：出于安全考量，公司将放缓 AI 研发进度](https://www.theblockbeats.info/flash/368709)
+10. [穆迪：五大科技巨头因 AI 投资产生 2.8 万亿美元表外义务](https://wallstreetcn.com/livenews/3169877)
