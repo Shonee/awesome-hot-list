@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-23 12:26:52
+> 更新时间：2026-09-23 13:22:39
 
 ## 24 小时热榜
 
@@ -14,26 +14,26 @@
 8. [千问办公发布 AI 硬件 QwenNote A2 售价 1199 元](https://readhub.cn/topic/8wcxEHFlue8?tab=daily)
 9. [小米与 SpaceXAI 同日发布新大模型 同跑分成本差近 29 倍](https://readhub.cn/topic/8wdK6ALwhRa?tab=daily)
 10. [余承东称智界 R7 将成 25 万级家用 SUV 优选 9 月 28 日亮相](https://readhub.cn/topic/8wd5m6rnoFW?tab=daily)
-11. [阿里千问办公首款桌面机器人 QwenNote Eva 发布 售价 899 元](https://readhub.cn/topic/8wd6Uv0Dodc?tab=daily)
-12. [广州白云机场 T3 大面积铺地毯引推行费力争议 正优化](https://readhub.cn/topic/8wd2v444kFB?tab=daily)
+11. [广州白云机场 T3 大面积铺地毯引推行费力争议 正优化](https://readhub.cn/topic/8wd2v444kFB?tab=daily)
+12. [阿里千问办公首款桌面机器人 QwenNote Eva 发布 售价 899 元](https://readhub.cn/topic/8wd6Uv0Dodc?tab=daily)
 13. [OPPO 推出「AI 心力球」可穿戴新品 体验价 499 元](https://readhub.cn/topic/8wdNdsFtju5?tab=daily)
 14. [Cloudflare 正式推出 Python Workers：可直接跑主流 Python 框架无需胶水代码](https://readhub.cn/topic/8wbmKaf55LD?tab=daily)
 15. [谷歌宣布推出 Googlebook 起售价 899 美元](https://readhub.cn/topic/8wcaKy1iROf?tab=daily)
 16. [Meta 个人 AI 助手 Muse 上线 13 天爆火 遭亚马逊限制访问](https://readhub.cn/topic/8wciD4gAQoM?tab=daily)
-17. [去摸了 Cybercab 实车 一台真正的「塑料」特斯拉](https://readhub.cn/topic/8wb5QZts81q?tab=daily)
-18. [吴泳铭：阿里坚定投入 AI 模型、AI 芯片、AI 云三大基石](https://readhub.cn/topic/8wciE3mBNdX?tab=daily)
-19. [阿里云发布企业级 Agent 平台 AgentCore](https://readhub.cn/topic/8weHNUfVclj?tab=daily)
+17. [OpenAI 发布 GPT-6 两款新模型 降价切入 DeepSeek 低价赛道](https://readhub.cn/topic/8weCQeGCHvL?tab=daily)
+18. [阿里云发布企业级 Agent 平台 AgentCore](https://readhub.cn/topic/8weHNUfVclj?tab=daily)
+19. [去摸了 Cybercab 实车 一台真正的「塑料」特斯拉](https://readhub.cn/topic/8wb5QZts81q?tab=daily)
 20. [苹果新款 Mac 作为本地 AI 机器向企业推销 无需按 token 付费](https://readhub.cn/topic/8we1exRiOsR?tab=daily)
 21. [蔡崇信：阿里巴巴正坚定投入全栈 AI 建设](https://readhub.cn/topic/8wceclv30y8?tab=daily)
-22. [OpenAI 发布 GPT-6 两款新模型 降价切入 DeepSeek 低价赛道](https://readhub.cn/topic/8weCQeGCHvL?tab=daily)
+22. [高端 MLCC 缺货严重 华强北相关商家爆单价格看涨](https://readhub.cn/topic/8weAEQUVItL?tab=daily)
 23. [千问发布 AI 手机全栈解决方案 Qwen Intelligence](https://readhub.cn/topic/8wd54tnOCO8?tab=daily)
-24. [智谱 GLM-5.3-Flash 调用量增长 73% 位列 OpenRouter 日榜第一](https://readhub.cn/topic/8wd3f6I80RN?tab=daily)
-25. [江淮称将坚定与华为长期合作 江淮汽车尾盘涨停](https://readhub.cn/topic/8wd2DIyv74X?tab=daily)
+24. [江淮称将坚定与华为长期合作 江淮汽车尾盘涨停](https://readhub.cn/topic/8wd2DIyv74X?tab=daily)
+25. [智谱 GLM-5.3-Flash 调用量增长 73% 位列 OpenRouter 日榜第一](https://readhub.cn/topic/8wd3f6I80RN?tab=daily)
 26. [Claude Opus 5.5 发布：多数任务追平 Fable 5.1，典型成本降 40%](https://readhub.cn/topic/8wdemyg8D7R?tab=daily)
-27. [高端 MLCC 缺货严重 华强北相关商家爆单价格看涨](https://readhub.cn/topic/8weAEQUVItL?tab=daily)
-28. [阿里发布 QwenIntelligence，提供 AI 手机全栈解决方案](https://readhub.cn/topic/8wd53PZAv41?tab=daily)
-29. [千问全系列 AI 硬件亮相云栖大会 含支持眼动追踪的 AI 眼镜](https://readhub.cn/topic/8wcodTkVipf?tab=daily)
-30. [千问新一代 AI 硬件亮相云栖大会 10 月 13 日现货发售](https://readhub.cn/topic/8wcnuDte8zX?tab=daily)
+27. [阿里发布 QwenIntelligence，提供 AI 手机全栈解决方案](https://readhub.cn/topic/8wd53PZAv41?tab=daily)
+28. [Meta 正对其新款个人 AI 助手 Muse 进行「人类礼宾」功能测试](https://readhub.cn/topic/8wdheIBdYiY?tab=daily)
+29. [字节通报二季度违规案例：114 名员工被辞退，8 人移交司法机关](https://readhub.cn/topic/8wd5pftMYmo?tab=daily)
+30. [Agent 版 Hugging Face 来了，openJiuwen 发布首个开源智能体资产平台](https://readhub.cn/topic/8wd5nhTQJlP?tab=daily)
 
 ## 每日早报
 
@@ -54,6 +54,6 @@
 5. [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
 6. [火山引擎 Seedance2.5 上线 Draft 模式：480P 试错、1080P 成片，成本最高省 77%](https://www.aibase.com/zh/news/31293)
 7. [世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管](https://www.aibase.com/zh/news/31289)
-8. [AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻](https://www.aibase.com/zh/news/31279)
-9. [被指「OpenClaw 换皮」后，Meta 罕见承认：产品设计确实深受其影响](https://www.aibase.com/zh/news/31282)
-10. [韶音首款 AI 耳机 OpenFit 2 AI 亮相云栖大会，首发「AI 实验室」四大新功能](https://www.aibase.com/zh/news/31295)
+8. [深度拆解 MiMo-V2.6：1M 上下文只是表面，2.5 万条轨迹才是底牌](https://www.leiphone.com/category/ai/f8vJztYMmCQ3ENED.html)
+9. [AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻](https://www.aibase.com/zh/news/31279)
+10. [Jev 的「百亿补贴」迷局：既然「极省」为何还要狂送 1.2 亿 Token？](https://www.leiphone.com/category/ai/CC2fOX5Nj0OQ06t1.html)
