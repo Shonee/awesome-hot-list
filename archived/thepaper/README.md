@@ -1,12 +1,12 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-23 17:24:39
+> 更新时间：2026-09-23 18:23:28
 
 ## 热新闻
 
-1. [上课，请先收起手机！高校推进“无手机课堂”，能帮大学生上好课吗](https://www.thepaper.cn/newsDetail_forward_34073740)
-2. [言短意长｜机关食堂开放：定向是智慧，克制是边界](https://www.thepaper.cn/newsDetail_forward_34125615)
-3. [直播丨第48届世界技能大赛开幕式](https://www.thepaper.cn/newsDetail_forward_34115183)
+1. [直播丨第48届世界技能大赛开幕式](https://www.thepaper.cn/newsDetail_forward_34115183)
+2. [上课，请先收起手机！高校推进“无手机课堂”，能帮大学生上好课吗](https://www.thepaper.cn/newsDetail_forward_34073740)
+3. [言短意长｜机关食堂开放：定向是智慧，克制是边界](https://www.thepaper.cn/newsDetail_forward_34125615)
 4. [赛力斯董事长回应与华为合作模式生变：提升品牌价值与销量，全球通行做法](https://www.thepaper.cn/newsDetail_forward_34125826)
 5. [技能之巅，遇见全球匠心](https://www.thepaper.cn/newsDetail_forward_34126467)
 6. [三大球第一金！中国女排成功加冕亚运会十冠王](https://www.thepaper.cn/newsDetail_forward_34125616)
