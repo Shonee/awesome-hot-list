@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-24 06:20:03
+> 更新时间：2026-09-24 07:17:10
 
 ## 热门文章
 
@@ -53,4 +53,4 @@
 47. [傻瓜式UX：ERP的致命糖衣](https://juejin.cn/post/7688603830758195235)
 48. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
 49. [Antigravity + Blender MCP（上）：打造3D 智慧仓储数字孪生](https://juejin.cn/post/7688180809024651315)
-50. [前端转型 Agent 开发 05 之 Agent Hooks 与 Checkpointer（让 Agent 从全自动转变人为可掌控）](https://juejin.cn/post/7687876412298805248)
+50. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)

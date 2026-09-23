@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-24 06:20:25
+> 更新时间：2026-09-24 07:17:39
 
 ## 热点资讯排行
 
@@ -14,8 +14,8 @@
 8. [西贝贾国龙称罗永浩下跪才和解！恩怨难消再上热搜](https://www.gamersky.com/news/202609/2213715.shtml)
 9. [三上真司新作细节曝光！非常厉害非常有趣](https://www.gamersky.com/news/202609/2213512.shtml)
 10. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
-11. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
-12. [姿态直播意外露出银行卡余额:千万现金流 真京城贵妇](https://www.gamersky.com/news/202609/2215346.shtml)
+11. [姿态直播意外露出银行卡余额:千万现金流 真京城贵妇](https://www.gamersky.com/news/202609/2215346.shtml)
+12. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
 13. [国产大尺度游戏下架 关闭下载入口！此前曾和谐角色立绘](https://www.gamersky.com/news/202609/2215229.shtml)
 14. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
 15. [全新PS限量手柄来了！联动BLACKPINK成员LISA](https://www.gamersky.com/news/202609/2214115.shtml)

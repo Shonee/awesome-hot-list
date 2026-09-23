@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-24 06:20:25
+> 更新时间：2026-09-24 07:17:40
 
 ## 日榜
 
@@ -11,8 +11,8 @@
 5. [卢伟冰：小米 18 标准版手机后续单独发布](https://www.ithome.com/1/006/292.htm)
 6. [苹果 iPhone 18 Pro Max 体验：有颜有料，这杯“勃艮第”还有后劲](https://www.ithome.com/1/006/209.htm)
 7. [反向虚标：苹果 iPhone 18 Pro Max 游戏平均帧率较前代高 50.3%](https://www.ithome.com/1/006/135.htm)
-8. [“超级”在哪里？高通第六代骁龙 8 超级至尊版 / 至尊版芯片规格对比](https://www.ithome.com/1/006/016.htm)
-9. [网易云音乐鸿蒙版正式上线，完成多终端适配](https://www.ithome.com/1/006/409.htm)
-10. [小米 18 Pro Max 首发第六代骁龙 8 超级至尊版：CPU 主频 5GHz，移动平台历史最高](https://www.ithome.com/1/006/415.htm)
-11. [全球最快移动 CPU：高通官宣小米、vivo、红魔、REDMI 等率先适配第六代骁龙 8 超级至尊版](https://www.ithome.com/1/006/014.htm)
-12. [任正非重申华为不造车，但是很乐意发挥在智能化方面的特长帮助造好车](https://www.ithome.com/1/006/411.htm)
+8. [网易云音乐鸿蒙版正式上线，完成多终端适配](https://www.ithome.com/1/006/409.htm)
+9. [小米 18 Pro Max 首发第六代骁龙 8 超级至尊版：CPU 主频 5GHz，移动平台历史最高](https://www.ithome.com/1/006/415.htm)
+10. [任正非重申华为不造车，但是很乐意发挥在智能化方面的特长帮助造好车](https://www.ithome.com/1/006/411.htm)
+11. [苹果 M6/M5 Pro 款 Mac mini 固态硬盘不可拆卸：回归板载 NAND 闪存设计，256GB 版读写速度仅为 512GB 版一半](https://www.ithome.com/1/006/199.htm)
+12. [首个实质性胜利：长江存储 3D NAND 专利战在德国获胜，美光遭禁售](https://www.ithome.com/1/006/071.htm)
