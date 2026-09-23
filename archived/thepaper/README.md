@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-23 10:30:50
+> 更新时间：2026-09-23 11:27:02
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [马上评｜幼儿园炒菜锅洗拖把，通报为何迟到两个多月？](https://www.thepaper.cn/newsDetail_forward_34123351)
 8. [雷军澄清“打新宇树挣了100多亿”：顺为投资且不是打新，让有想法的年轻人拿到第一笔投资](https://www.thepaper.cn/newsDetail_forward_34123498)
 9. [还未见顶：2-4个月后超强厄尔尼诺才迎峰值，关键海区已逼近历史极值](https://www.thepaper.cn/newsDetail_forward_34122696)
-10. [马上评｜16岁少年强奸案，追问“法定代理人到场权”的落实](https://www.thepaper.cn/newsDetail_forward_34122861)
-11. [直播丨第48届世界技能大赛开幕式](https://www.thepaper.cn/newsDetail_forward_34115183)
+10. [直播丨第48届世界技能大赛开幕式](https://www.thepaper.cn/newsDetail_forward_34115183)
+11. [马上评｜16岁少年强奸案，追问“法定代理人到场权”的落实](https://www.thepaper.cn/newsDetail_forward_34122861)
 12. [南京通报一幼儿园多名幼儿午餐后呕吐：园长撤职、厨师开除](https://www.thepaper.cn/newsDetail_forward_34122860)
 13. [白宫推出流媒体频道“特朗普电视”，此前五大电视网暂停报道特朗普](https://www.thepaper.cn/newsDetail_forward_34123963)
-14. [患者检查单背面是他人死亡证明，乐山市中医院：节约用纸重复打印，将优化流程](https://www.thepaper.cn/newsDetail_forward_34122685)
-15. [白酒“双节”动销旺季不旺：飞天茅台终端价格坚挺，有经销商称多款白酒已是“地板价”](https://www.thepaper.cn/newsDetail_forward_34126980)
+14. [白酒“双节”动销旺季不旺：飞天茅台终端价格坚挺，有经销商称多款白酒已是“地板价”](https://www.thepaper.cn/newsDetail_forward_34126980)
+15. [患者检查单背面是他人死亡证明，乐山市中医院：节约用纸重复打印，将优化流程](https://www.thepaper.cn/newsDetail_forward_34122685)
 16. [德国17.5万汽车业员工全国多地集会抗议裁员，呼吁政府加码产业政策](https://www.thepaper.cn/newsDetail_forward_34122484)
-17. [用敌敌畏消杀餐厅且拒不改正，厦门绿林森环境科技公司被罚2万元](https://www.thepaper.cn/newsDetail_forward_34126977)
-18. [男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病”](https://www.thepaper.cn/newsDetail_forward_34125321)
-19. [英美首次从无人潜航器试射鱼雷，奥库斯推进水下无人战力发展](https://www.thepaper.cn/newsDetail_forward_34123536)
-20. [重庆市委书记袁家军赴张雪机车调研并召开座谈会](https://www.thepaper.cn/newsDetail_forward_34125698)
+17. [男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病”](https://www.thepaper.cn/newsDetail_forward_34125321)
+18. [用敌敌畏消杀餐厅且拒不改正，厦门绿林森环境科技公司被罚2万元](https://www.thepaper.cn/newsDetail_forward_34126977)
+19. [AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本](https://www.thepaper.cn/newsDetail_forward_34130539)
+20. [英美首次从无人潜航器试射鱼雷，奥库斯推进水下无人战力发展](https://www.thepaper.cn/newsDetail_forward_34123536)
