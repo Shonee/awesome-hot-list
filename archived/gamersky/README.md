@@ -1,14 +1,14 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-23 21:23:20
+> 更新时间：2026-09-23 22:24:27
 
 ## 热点资讯排行
 
 1. [曝游戏主播茄子成老赖！被执行290万](https://www.gamersky.com/news/202609/2213499.shtml)
 2. [带枪穿越中世纪乱杀！全新美女角色获胜赞](https://www.gamersky.com/news/202609/2212673.shtml)
 3. [女流66谈自己Steam号被盗 千款游戏不玩只《绝地求生》开挂](https://www.gamersky.com/news/202609/2212703.shtml)
-4. [《GTA:东京》细节披露:重点武士刀 效仿《恶霸鲁尼》](https://www.gamersky.com/news/202609/2212489.shtml)
-5. [《街霸》春丽演员回应粗大腿](https://www.gamersky.com/news/202609/2214419.shtml)
+4. [《街霸》春丽演员回应粗大腿](https://www.gamersky.com/news/202609/2214419.shtml)
+5. [《GTA:东京》细节披露:重点武士刀 效仿《恶霸鲁尼》](https://www.gamersky.com/news/202609/2212489.shtml)
 6. [百万奖金](https://www.gamersky.com/news/202609/2212881.shtml)
 7. [《生化危机：爆发夜》枪版资源大规模泄露！9000人同时观看](https://www.gamersky.com/news/202609/2212670.shtml)
 8. [西贝贾国龙称罗永浩下跪才和解！恩怨难消再上热搜](https://www.gamersky.com/news/202609/2213715.shtml)
@@ -18,4 +18,4 @@
 12. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
 13. [全新PS限量手柄来了！联动BLACKPINK成员LISA](https://www.gamersky.com/news/202609/2214115.shtml)
 14. [《羊蹄山》突发29GB大补丁！为DLC铺路 新模式抢跑](https://www.gamersky.com/news/202609/2214399.shtml)
-15. [万元升个寂寞！iPhone 18第一批受害者 你中招没：没法直视](https://www.gamersky.com/news/202609/2214474.shtml)
+15. [姿态直播意外露出银行卡余额:千万现金流 真京城贵妇](https://www.gamersky.com/news/202609/2215346.shtml)

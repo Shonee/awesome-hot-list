@@ -1,26 +1,10 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-23 22:10:42
+> 更新时间：2026-09-23 22:24:29
 
-## 7x24
+## 首页头条
 
-1. [美联储巴尔：或需进一步加息以确保及时回归2%通胀目标](https://m.yicai.com/brief/103376377.html)
-2. [公司互动丨这些公司披露在超节点、PCB等方面最新情况](https://m.yicai.com/brief/103376374.html)
-3. [美国10年期国债收益率升至5.04%](https://m.yicai.com/brief/103376372.html)
-4. [美国10年期国债收益率升至5.036%](https://m.yicai.com/brief/103376367.html)
-5. [美元指数升至101](https://m.yicai.com/brief/103376365.html)
-6. [【个股解码】冲刺全年百亿营收！这家公司超节点放量提速，预计明年将实现倍数级增长](https://m.yicai.com/vip/brief/103376363.html)
-7. [东方电气集团与浙能集团签署战略合作协议](https://m.yicai.com/brief/103376359.html)
-8. [硅业分会：减产预期明确，本周多晶硅市场成交好转](https://m.yicai.com/brief/103376354.html)
-9. [以色列议会批准追加近150亿新谢克尔国防预算](https://m.yicai.com/brief/103376351.html)
-10. [金龙鱼：浙江湖州蛋鸡养殖基地目前正处于建设阶段](https://m.yicai.com/brief/103376348.html)
-11. [晚间重大事件汇总](https://m.yicai.com/brief/103376343.html)
-12. [中富电路：泰国工厂已通过多家海外客户审核，在手订单增长较快](https://m.yicai.com/brief/103376338.html)
-13. [美股开盘丨三大指数集体低开 IonQ涨近12%](https://m.yicai.com/brief/103376324.html)
-14. [我国自研F级重型燃机首次成套出口](https://m.yicai.com/brief/103376316.html)
-15. [回购计划 | 这家公司拟1.3亿元-2.6亿元回购股份](https://m.yicai.com/brief/103376308.html)
-16. [江淮汽车：公司及控股股东不存在其他应披露而未披露的重大资产重组、重大业务合作等重大事项](https://m.yicai.com/brief/103376298.html)
-17. [瑞声科技与英特尔达成液冷生态合作伙伴关系](https://m.yicai.com/brief/103376292.html)
-18. [中国—中东欧国家物流合作会议在京召开](https://m.yicai.com/brief/103376276.html)
-19. [中科曙光在河北达成系列战略合作](https://m.yicai.com/brief/103376269.html)
-20. [国内商品期货夜盘开盘](https://m.yicai.com/brief/103376263.html)
+1. [总理上海调研释放明确信号：推动AI更好赋能先进制造业](https://www.yicai.com/news/103376364.html)
+2. [未来4年“双一流”高校本科扩招7.6万人以上](https://www.yicai.com/news/103375843.html)
+3. [建设新型电力系统，多家能源央企发声](https://www.yicai.com/news/103376224.html)
+4. [马斯克终于交卷：Grok 4.7跑分很强，实测却翻车了？](https://www.yicai.com/news/103373702.html)

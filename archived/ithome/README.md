@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-09-23 21:23:20
+> 更新时间：2026-09-23 22:24:29
 
 ## 日榜
 
-1. [苹果 iOS 27.2 Beta 2 针对“摇一摇”广告新增国行特供功能：可限制 App 获取运动数据，目前仅国区账号可见](https://www.ithome.com/1/006/022.htm)
-2. [iPhone 17 Pro 低至 7459 元起，京东 iPhone 18 Pro 系列换新补贴 800 元](https://www.ithome.com/1/005/971.htm)
-3. [全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%](https://www.ithome.com/1/006/004.htm)
-4. [小米 18 Pro 手机发布：首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起](https://www.ithome.com/1/006/426.htm)
+1. [小米 18 Pro 手机发布：首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起](https://www.ithome.com/1/006/426.htm)
+2. [苹果 iOS 27.2 Beta 2 针对“摇一摇”广告新增国行特供功能：可限制 App 获取运动数据，目前仅国区账号可见](https://www.ithome.com/1/006/022.htm)
+3. [小米 18 Pro Max 手机发布：首发第六代骁龙 8 超级至尊版、8500mAh 金沙江电池，6999 元起](https://www.ithome.com/1/006/425.htm)
+4. [小米 18 Pro 系列透明特别版手机发布，9999 元起](https://www.ithome.com/1/006/427.htm)
 5. [卢伟冰：小米 18 标准版手机后续单独发布](https://www.ithome.com/1/006/292.htm)
-6. [“超级”在哪里？高通第六代骁龙 8 超级至尊版 / 至尊版芯片规格对比](https://www.ithome.com/1/006/016.htm)
-7. [4999 元起：OPPO Find X10 E 手机发布，天玑 9500s 芯片](https://www.ithome.com/1/005/955.htm)
-8. [苹果 iPhone 18 Pro Max 体验：有颜有料，这杯“勃艮第”还有后劲](https://www.ithome.com/1/006/209.htm)
+6. [全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%](https://www.ithome.com/1/006/004.htm)
+7. [苹果 iPhone 18 Pro Max 体验：有颜有料，这杯“勃艮第”还有后劲](https://www.ithome.com/1/006/209.htm)
+8. [“超级”在哪里？高通第六代骁龙 8 超级至尊版 / 至尊版芯片规格对比](https://www.ithome.com/1/006/016.htm)
 9. [反向虚标：苹果 iPhone 18 Pro Max 游戏平均帧率较前代高 50.3%](https://www.ithome.com/1/006/135.htm)
-10. [小米 18 Pro Max 手机发布：首发第六代骁龙 8 超级至尊版、8500mAh 金沙江电池，6999 元起](https://www.ithome.com/1/006/425.htm)
-11. [小米 18 Pro 系列透明特别版手机发布，9999 元起](https://www.ithome.com/1/006/427.htm)
-12. [全球最快移动 CPU：高通官宣小米、vivo、红魔、REDMI 等率先适配第六代骁龙 8 超级至尊版](https://www.ithome.com/1/006/014.htm)
+10. [全球最快移动 CPU：高通官宣小米、vivo、红魔、REDMI 等率先适配第六代骁龙 8 超级至尊版](https://www.ithome.com/1/006/014.htm)
+11. [小米 18 Pro Max 首发第六代骁龙 8 超级至尊版：CPU 主频 5GHz，移动平台历史最高](https://www.ithome.com/1/006/415.htm)
+12. [网易云音乐鸿蒙版正式上线，完成多终端适配](https://www.ithome.com/1/006/409.htm)
