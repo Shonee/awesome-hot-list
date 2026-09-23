@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-23 15:28:14
+> 更新时间：2026-09-23 16:30:32
 
 ## 最有料热点
 
@@ -33,4 +33,3 @@
 27. [洛琪希病死,无职转生太刀人](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365075&topic_name=%E6%B4%9B%E7%90%AA%E5%B8%8C%E7%97%85%E6%AD%BB%2C%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F%E5%A4%AA%E5%88%80%E4%BA%BA)
 28. [开局不利,Faker险成越南腐乳](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365025&topic_name=%E5%BC%80%E5%B1%80%E4%B8%8D%E5%88%A9%2CFaker%E9%99%A9%E6%88%90%E8%B6%8A%E5%8D%97%E8%85%90%E4%B9%B3)
 29. [欧洲多国被曝囤物资抗俄](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365040&topic_name=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E8%A2%AB%E6%9B%9D%E5%9B%A4%E7%89%A9%E8%B5%84%E6%8A%97%E4%BF%84)
-30. [天价米难卖,日本新米要爆仓](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365015&topic_name=%E5%A4%A9%E4%BB%B7%E7%B1%B3%E9%9A%BE%E5%8D%96%2C%E6%97%A5%E6%9C%AC%E6%96%B0%E7%B1%B3%E8%A6%81%E7%88%86%E4%BB%93)
