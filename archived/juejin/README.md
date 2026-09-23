@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-24 03:18:49
+> 更新时间：2026-09-24 04:22:45
 
 ## 热门文章
 
@@ -23,8 +23,8 @@
 17. [别再跟AI说“请”了，它根本不 care——但有个东西它超在意](https://juejin.cn/post/7687818534403588146)
 18. [OceanBase VS 金仓：同一组复杂 SQL，分布式与集中式架构怎么跑](https://juejin.cn/post/7688300268688572442)
 19. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
-20. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
-21. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
+20. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
+21. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
 22. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
 23. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
 24. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
@@ -47,10 +47,10 @@
 41. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
 42. [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401)
 43. [CLAUDE.md 越写越长，哪些规则该放到子目录？](https://juejin.cn/post/7687583607810588682)
-44. [看不懂的装修图纸，豆包2.1 Pro帮我变成了能走进去的 3D 家](https://juejin.cn/post/7687995393330561078)
-45. [我用 Go 搭了一条 AI Agent 流水线：从 1 张商品图到一整套淘宝详情页](https://juejin.cn/post/7687943158864887843)
-46. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
+44. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
+45. [看不懂的装修图纸，豆包2.1 Pro帮我变成了能走进去的 3D 家](https://juejin.cn/post/7687995393330561078)
+46. [我用 Go 搭了一条 AI Agent 流水线：从 1 张商品图到一整套淘宝详情页](https://juejin.cn/post/7687943158864887843)
 47. [傻瓜式UX：ERP的致命糖衣](https://juejin.cn/post/7688603830758195235)
 48. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
-49. [前端转型 Agent 开发 05 之 Agent Hooks 与 Checkpointer（让 Agent 从全自动转变人为可掌控）](https://juejin.cn/post/7687876412298805248)
-50. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
+49. [Antigravity + Blender MCP（上）：打造3D 智慧仓储数字孪生](https://juejin.cn/post/7688180809024651315)
+50. [前端转型 Agent 开发 05 之 Agent Hooks 与 Checkpointer（让 Agent 从全自动转变人为可掌控）](https://juejin.cn/post/7687876412298805248)
