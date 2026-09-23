@@ -1,51 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-24 06:20:21
-
-## 新闻热榜
-
-1. [车企集体提“分手”，宁德时代怎么了？](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhc8519121.shtml)
-2. [习近平离京对美国进行国事访问](https://news.sina.com.cn/gov/xlxw/2026-09-23/doc-inisvcqf1251475.shtml)
-3. [六省区党委主要负责同志调整](https://news.sina.com.cn/c/2026-09-23/doc-inisvcqf1220167.shtml)
-4. [F-35敏感部件误运到香港！澳防长说出实情](https://news.sina.com.cn/c/2026-09-23/doc-inisvqcv8465662.shtml)
-5. [OpenAI首席执行官奥特曼：全球在人工智能问题上“面临选择”。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezp8321197.shtml)
-6. [肺癌女性中，98%从不吸烟，钟南山团队回应](https://news.sina.com.cn/c/2026-09-23/doc-inisvqcv8536041.shtml)
-7. [海昏侯墓考古，有新论断！](https://news.sina.com.cn/c/2026-09-23/doc-inisvqcv8506920.shtml)
-8. [市场资讯：美国拒绝了伊朗提出的开放霍尔木兹海峡的提议。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5098137.shtml)
-9. [美方发出威胁后，中方还允许伊朗商业航班降落吗？外交部：中方立场是一贯的](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhi1325357.shtml)
-10. [经费停拨，美军对华智库CASI将正式关闭](https://news.sina.com.cn/o/2026-09-23/doc-inisvcpx6049097.shtml)
-11. [要对黎巴嫩真主党动手？叙利亚军队边境集结](https://news.sina.com.cn/w/2026-09-23/doc-inisvqcv8535902.shtml)
-12. [微软扩大在中东地区的投资。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8511488.shtml)
-13. [继续领跑！亚运会奖牌榜：中国队48金20银10铜第一 日本15金第2](https://news.sina.com.cn/c/2026-09-23/doc-inisvqcz1080148.shtml)
-14. [亚运会已夺15金！徐嘉余超越王义夫，成亚运金牌最多的中国运动员](https://news.sina.com.cn/c/2026-09-23/doc-inisviwc1137098.shtml)
-15. [33岁女演员确诊癌症，已失去生活自理能力，家人苦撑2年公开求助：她想活下去，还想回去唱戏](https://news.sina.com.cn/c/2026-09-23/doc-inisvcqf1197037.shtml)
-16. [高市早苗呼吁删除“敌国条款”，中方表态](https://finance.sina.com.cn/wm/2026-09-23/doc-inisvcqf1197770.shtml)
-17. [研究发现：顶尖AI人才数量中国已超越美国](https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisvumt8491687.shtml)
-18. [美团联合创始人王慧文社交平台发声：有没有人要组局把西贝买下来？我还是挺喜欢西贝的](https://news.sina.com.cn/c/2026-09-23/doc-inisvcpx6087473.shtml)
-19. [克宫：普京已准备好和特朗普会晤](https://news.sina.com.cn/w/2026-09-23/doc-inisvumx0986090.shtml)
-20. [微软总裁Brad Smith：投资海湾国家正当其时。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvytt5176384.shtml)
-
-## 财经热榜
-
-1. [OpenAI首席执行官奥特曼：全球在人工智能问题上“面临选择”。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezp8321197.shtml)
-2. [市场资讯：美国拒绝了伊朗提出的开放霍尔木兹海峡的提议。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5098137.shtml)
-3. [微软扩大在中东地区的投资。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8511488.shtml)
-4. [微软总裁Brad Smith：投资海湾国家正当其时。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvytt5176384.shtml)
-5. [微软计划到 2030 年在中东投资超 100 亿美元，在四个海湾国家扩建云与人工智能基础设施。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8511617.shtml)
-6. [美国总统特朗普已邀请俄罗斯总统普京于今年晚些时候赴迈阿密出席二十国集团峰会。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5109676.shtml)
-7. [美国国务卿宣布对“生育旅游”实施新的签证限制](https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvytt5189420.shtml)
-8. [肥胖药赛道，礼来与诺和诺德迎来挑战者？](https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnt8779440.shtml)
-9. [印度下调食用油进口关税。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8509711.shtml)
-10. [纳斯达克持续上涨，但部分科技股已亮起警示信号](https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvytt5159020.shtml)
-11. [OpenAI开源MentalHealthBench，填补AI心理健康全场景评测空白](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5091758.shtml)
-12. [美国监管机构计划加快新型电子烟产品的审批流程。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5106139.shtml)
-13. [市场计入美联储再度加息预期，10年期美债收益率创2007年以来新高](https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvytt5160814.shtml)
-14. [伊朗向美国提出重启谈判条件 包括接受霍尔木兹海峡方案](https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvytr8384613.shtml)
-15. [周三（9月23日），美联储隔夜逆回购协议（RRP）使用规模为4.61亿美元（交易对手4家），上个交易日报4.53亿美元。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvytt5170624.shtml)
-16. [微软总裁Brad Smith：公司将针对气候目标作出“调整”。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvytr8409581.shtml)
-17. [美国联邦航空管理局局长贝德福德称，针对特朗普提议建造的拱门项目的审查不存在政治干预。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5121136.shtml)
-18. [纳瓦罗：白宫官员不应上福克斯新闻和福克斯商业频道的节目](https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvumt8509980.shtml)
-19. [英国外交大臣表示，不能忽视人工智能领域领军者发出的警告。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezp8341607.shtml)
+> 更新时间：2026-09-24 06:23:38
 
 ## 7x24
 
