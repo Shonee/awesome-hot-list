@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-24 02:27:54
+> 更新时间：2026-09-24 03:19:17
 
 ## 日榜
 
@@ -9,8 +9,8 @@
 3. [小米 18 Pro 系列透明特别版手机发布，9999 元起](https://www.ithome.com/1/006/427.htm)
 4. [苹果 iOS 27.2 Beta 2 针对“摇一摇”广告新增国行特供功能：可限制 App 获取运动数据，目前仅国区账号可见](https://www.ithome.com/1/006/022.htm)
 5. [卢伟冰：小米 18 标准版手机后续单独发布](https://www.ithome.com/1/006/292.htm)
-6. [全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%](https://www.ithome.com/1/006/004.htm)
-7. [苹果 iPhone 18 Pro Max 体验：有颜有料，这杯“勃艮第”还有后劲](https://www.ithome.com/1/006/209.htm)
+6. [苹果 iPhone 18 Pro Max 体验：有颜有料，这杯“勃艮第”还有后劲](https://www.ithome.com/1/006/209.htm)
+7. [全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%](https://www.ithome.com/1/006/004.htm)
 8. [反向虚标：苹果 iPhone 18 Pro Max 游戏平均帧率较前代高 50.3%](https://www.ithome.com/1/006/135.htm)
 9. [“超级”在哪里？高通第六代骁龙 8 超级至尊版 / 至尊版芯片规格对比](https://www.ithome.com/1/006/016.htm)
 10. [网易云音乐鸿蒙版正式上线，完成多终端适配](https://www.ithome.com/1/006/409.htm)

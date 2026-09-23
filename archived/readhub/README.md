@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-24 02:27:39
+> 更新时间：2026-09-24 03:19:03
 
 ## 24 小时热榜
 
@@ -18,22 +18,22 @@
 12. [东风汽车总经理冯长军与华为创始人任正非会面](https://readhub.cn/topic/8weVhqE1GLK?tab=daily)
 13. [享界 V8 首发 MPV 五防隐藏式地轨，将于 9 月 28 日开启小订](https://readhub.cn/topic/8weJYiBN95q?tab=daily)
 14. [杰克科技：首款 AI 缝纫机目前月产能达 2000 台](https://readhub.cn/topic/8weJs5PoQDR?tab=daily)
-15. [比亚迪第二代海鸥设计图曝光：采用新设计语言 轴距加长 150 毫米](https://readhub.cn/topic/8wcmXnxB7t0?tab=daily)
-16. [渐冻症患者用上定制 RNA 药物，一年后神经损伤指标下降 50%](https://readhub.cn/topic/8wdLWjOja3w?tab=daily)
-17. [微信反诈助手帮用户避免 1421 万元损失 可多场景预警](https://readhub.cn/topic/8weSoMnou5L?tab=daily)
-18. [小米开源 MiMo V2.6 系列 凭大规模 RL 登顶全球开源模型榜首](https://readhub.cn/topic/8weZxGg9lHO?tab=daily)
+15. [微信反诈助手帮用户避免 1421 万元损失 可多场景预警](https://readhub.cn/topic/8weSoMnou5L?tab=daily)
+16. [小米开源 MiMo V2.6 系列 凭大规模 RL 登顶全球开源模型榜首](https://readhub.cn/topic/8weZxGg9lHO?tab=daily)
+17. [比亚迪第二代海鸥设计图曝光：采用新设计语言 轴距加长 150 毫米](https://readhub.cn/topic/8wcmXnxB7t0?tab=daily)
+18. [渐冻症患者用上定制 RNA 药物，一年后神经损伤指标下降 50%](https://readhub.cn/topic/8wdLWjOja3w?tab=daily)
 19. [盒马「AI 验蟹师」上线：数据积累助力检测分拣效率提升数十倍](https://readhub.cn/topic/8wehqy3KERX?tab=daily)
 20. [iQOO 打造「3 + 2 游戏技术版图」，定义下一代移动电竞体验](https://readhub.cn/topic/8wckNGjpaJm?tab=daily)
 21. [长江存储 3D NAND 专利战在德国获胜 美光相关侵权产品遭禁售](https://readhub.cn/topic/8weISeVeGIO?tab=daily)
 22. [小米 18 Pro 系列全球首发两款第六代骁龙 8 旗舰芯片](https://readhub.cn/topic/8wdvDofNyIH?tab=daily)
 23. [腾讯 WorkBuddy 企业版办公套件化升级](https://readhub.cn/topic/8wePF8aV5rL?tab=daily)
 24. [米家智能意式半自动咖啡机 Pro 发布：自动打奶零门槛 3499 元](https://readhub.cn/topic/8weL1zB13JD?tab=daily)
-25. [网易云音乐鸿蒙版正式上线，完成多终端适配](https://readhub.cn/topic/8werrJ7kwjx?tab=daily)
-26. [宝马 CEO 称部分中国汽车欧售价难理解 不主张加征关税](https://readhub.cn/topic/8wegRXhn8PA?tab=daily)
-27. [网信中国：3 款手机端侧生成式 AI 服务已完成备案](https://readhub.cn/topic/8wejyrfTfzB?tab=daily)
-28. [拓竹发布消费级 CO₂激光切割机 R1，独家搭载自动光路校准功能](https://readhub.cn/topic/8wdVYn2yR0y?tab=daily)
-29. [OpenAI、Anthropic 同步推出新大模型并大幅下调 API 单价](https://readhub.cn/topic/8weUEnkTNbD?tab=daily)
-30. [端侧智能体从演示走向日常 骁龙峰会折射移动计算新转向](https://readhub.cn/topic/8we8n9tQLu6?tab=daily)
+25. [宝马 CEO 称部分中国汽车欧售价难理解 不主张加征关税](https://readhub.cn/topic/8wegRXhn8PA?tab=daily)
+26. [网信中国：3 款手机端侧生成式 AI 服务已完成备案](https://readhub.cn/topic/8wejyrfTfzB?tab=daily)
+27. [拓竹发布消费级 CO₂激光切割机 R1，独家搭载自动光路校准功能](https://readhub.cn/topic/8wdVYn2yR0y?tab=daily)
+28. [网易云音乐鸿蒙版正式上线，完成多终端适配](https://readhub.cn/topic/8werrJ7kwjx?tab=daily)
+29. [华为暂缓全球 AI 芯片推广 优先满足国内算力需求](https://readhub.cn/topic/8wcnBqClDus?tab=daily)
+30. [小米 18 Pro 系列发布 定价 5999 元起](https://readhub.cn/topic/8wezg6s5oao?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization](https://huggingface.co/blog/nvidia/nemotron-diarization)
-2. [一块芯片掰了 3000 次还能用，MIT 造出透明的光子芯片](https://www.mittrchina.com/news/detail/17003)
-3. [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
-4. [Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale](https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/)
-5. [Grab and OpenAI bring practical AI skills to Southeast Asia](https://openai.com/index/grab-openai-ai-skills-southeast-asia)
-6. [千问一口气端出五款语音大模型，TTS 价格腰斩七成、ASR 砍掉九成五，把耳朵和嗓子全打包给了开发者](https://www.aibase.com/zh/news/31305)
-7. [科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态](https://www.aibase.com/zh/news/31314)
-8. [YouTube 推出全新 AI 智能体，能帮创作者「翻红」老视频](https://www.ithome.com/1/006/503.htm)
-9. [蚂蚁密算发布企业级可信智能云服务平台「密算一号」，启动首批定向邀测](https://www.leiphone.com/category/industrynews/vcFXR69YQUTL9k43.html)
-10. [斯坦福团队做了一家「AI 药企」，3.7 万个智能体一起做药](https://www.mittrchina.com/news/detail/17002)
+1. [Harvey turns legal context into stronger drafts with GPT-6 Astra](https://openai.com/index/harvey-from-context-to-confidence-with-astra)
+2. [Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization](https://huggingface.co/blog/nvidia/nemotron-diarization)
+3. [一块芯片掰了 3000 次还能用，MIT 造出透明的光子芯片](https://www.mittrchina.com/news/detail/17003)
+4. [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp)
+5. [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
+6. [How invideo improves color grading 3x with GPT‑6 Astra](https://openai.com/index/invideo-builds-with-gpt-6-astra)
+7. [AI agent campaign steals 600K credit cards from 119 retail sites using open-source frameworks](https://daily.dev/posts/malicious-ai-agents-steal-600k-credit-cards-infect-100-sites-with-skimmers-zgb8oxehj)
+8. [Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale](https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/)
+9. [Grab and OpenAI bring practical AI skills to Southeast Asia](https://openai.com/index/grab-openai-ai-skills-southeast-asia)
+10. [千问一口气端出五款语音大模型，TTS 价格腰斩七成、ASR 砍掉九成五，把耳朵和嗓子全打包给了开发者](https://www.aibase.com/zh/news/31305)
