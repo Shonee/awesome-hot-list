@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-23 18:23:27
+> 更新时间：2026-09-23 19:21:21
 
 ## 24 小时热榜
 
@@ -27,13 +27,13 @@
 21. [苹果 iOS 27.2 Beta 2 新增国区专属运动数据限制功能](https://readhub.cn/topic/8we6ejratSi?tab=daily)
 22. [Meta 正对其新款个人 AI 助手 Muse 进行「人类礼宾」功能测试](https://readhub.cn/topic/8wdheIBdYiY?tab=daily)
 23. [字节通报二季度违规案例：114 名员工被辞退，8 人移交司法机关](https://readhub.cn/topic/8wd5pftMYmo?tab=daily)
-24. [Agent 版 Hugging Face 来了，openJiuwen 发布首个开源智能体资产平台](https://readhub.cn/topic/8wd5nhTQJlP?tab=daily)
-25. [美团 CatPaw 启用中文名「妙手」，瞄准 AI 经营工作台赛道](https://readhub.cn/topic/8wbT1EU7ApR?tab=daily)
-26. [QQ 上线双人聊天精灵「秋秋人」，好友互动标识迎拟人化升级](https://readhub.cn/topic/8wefibe1U8K?tab=daily)
+24. [QQ 上线双人聊天精灵「秋秋人」，好友互动标识迎拟人化升级](https://readhub.cn/topic/8wefibe1U8K?tab=daily)
+25. [Agent 版 Hugging Face 来了，openJiuwen 发布首个开源智能体资产平台](https://readhub.cn/topic/8wd5nhTQJlP?tab=daily)
+26. [美团 CatPaw 启用中文名「妙手」，瞄准 AI 经营工作台赛道](https://readhub.cn/topic/8wbT1EU7ApR?tab=daily)
 27. [东风汽车总经理冯长军与华为创始人任正非会面](https://readhub.cn/topic/8weVhqE1GLK?tab=daily)
-28. [享界 V8 首发 MPV 五防隐藏式地轨，将于 9 月 28 日开启小订](https://readhub.cn/topic/8weJYiBN95q?tab=daily)
-29. [杰克科技：首款 AI 缝纫机目前月产能达 2000 台](https://readhub.cn/topic/8weJs5PoQDR?tab=daily)
-30. [渐冻症患者用上定制 RNA 药物，一年后神经损伤指标下降 50%](https://readhub.cn/topic/8wdLWjOja3w?tab=daily)
+28. [杰克科技：首款 AI 缝纫机目前月产能达 2000 台](https://readhub.cn/topic/8weJs5PoQDR?tab=daily)
+29. [享界 V8 首发 MPV 五防隐藏式地轨，将于 9 月 28 日开启小订](https://readhub.cn/topic/8weJYiBN95q?tab=daily)
+30. [比亚迪第二代海鸥设计图曝光：采用新设计语言 轴距加长 150 毫米](https://readhub.cn/topic/8wcmXnxB7t0?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [千问一口气端出五款语音大模型，TTS 价格腰斩七成、ASR 砍掉九成五，把耳朵和嗓子全打包给了开发者](https://www.aibase.com/zh/news/31305)
-2. [科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态](https://www.aibase.com/zh/news/31314)
-3. [斯坦福团队做了一家「AI 药企」，3.7 万个智能体一起做药](https://www.mittrchina.com/news/detail/17002)
-4. [Anthropic、OpenAI 同夜上新：Opus 5.5 多项性能超过 Astra，GPT-6 Sol 赢在价格](https://www.mittrchina.com/news/detail/17001)
-5. [高通发布骁龙 8 Elite Gen 6 与 Extreme 芯片，支持本地运行 300 亿参数大模型](https://www.aibase.com/zh/news/31300)
-6. [医疗 AI 走向全球普惠：Anthropic 携手 OpenEvidence，将临床决策支持工具免费覆盖百国](https://www.aibase.com/zh/news/31299)
-7. [Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息](https://www.aibase.com/zh/news/31297)
-8. [Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖](https://www.aibase.com/zh/news/31313)
-9. [Yann LeCun 万字演讲：「预测像素」是伪命题，JEPA 也并非凭空而来 | ECCV 2026](https://www.leiphone.com/category/academic/F8VUijJ4JY8kkXTG.html)
-10. [李飞飞谈 AI 安全：不能只让开发者评估自己的系统](https://www.aibase.com/zh/news/31296)
+1. [一块芯片掰了 3000 次还能用，MIT 造出透明的光子芯片](https://www.mittrchina.com/news/detail/17003)
+2. [Grab and OpenAI bring practical AI skills to Southeast Asia](https://openai.com/index/grab-openai-ai-skills-southeast-asia)
+3. [千问一口气端出五款语音大模型，TTS 价格腰斩七成、ASR 砍掉九成五，把耳朵和嗓子全打包给了开发者](https://www.aibase.com/zh/news/31305)
+4. [科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态](https://www.aibase.com/zh/news/31314)
+5. [蚂蚁密算发布企业级可信智能云服务平台「密算一号」，启动首批定向邀测](https://www.leiphone.com/category/industrynews/vcFXR69YQUTL9k43.html)
+6. [斯坦福团队做了一家「AI 药企」，3.7 万个智能体一起做药](https://www.mittrchina.com/news/detail/17002)
+7. [Anthropic、OpenAI 同夜上新：Opus 5.5 多项性能超过 Astra，GPT-6 Sol 赢在价格](https://www.mittrchina.com/news/detail/17001)
+8. [高通发布骁龙 8 Elite Gen 6 与 Extreme 芯片，支持本地运行 300 亿参数大模型](https://www.aibase.com/zh/news/31300)
+9. [医疗 AI 走向全球普惠：Anthropic 携手 OpenEvidence，将临床决策支持工具免费覆盖百国](https://www.aibase.com/zh/news/31299)
+10. [Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息](https://www.aibase.com/zh/news/31297)

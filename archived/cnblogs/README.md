@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-23 18:23:12
+> 更新时间：2026-09-23 19:20:42
 
 ## 最新帖子
 
-1. [宝塔面板+Nginx配置HTTP强制跳转HTTPS：解决网站不安全提示、重定向循环问题（适配CDN）](https://www.cnblogs.com/entaoer/p/23098999)
-2. [开多个 Agent 后 Claude Code 账单翻了 4 倍，一个配置解决了](https://www.cnblogs.com/uniqueDong/p/23098897)
-3. [百万订单的架构演化](https://www.cnblogs.com/liuzhang/p/23097040)
-4. [三维地球上的 500 个标注广告牌：DOM 与 Canvas 贴图的两条优化路线](https://www.cnblogs.com/ChineseLiao/p/23096233)
-5. [ELF 文件格式从魔数到动态链接：读懂 Linux 可执行文件的每一字节](https://www.cnblogs.com/yizhilaoxiaobai/p/23096174)
-6. [TensorSharp 支持 Jev 模式了：一次去噪，直接读出决策](https://www.cnblogs.com/shanyou/p/23096117)
-7. [一个 Deployment 就能跑 vLLM，为什么还需要 KServe？](https://www.cnblogs.com/KubeExplorer/p/23093634)
-8. [使用 DuckDB 计算描述性统计量](https://www.cnblogs.com/wang_yb/p/23093058)
-9. [Typora图片解决方案：Typora + PicGo + 重命名插件使用指南](https://www.cnblogs.com/dominickk/p/23093049)
-10. [记一次给 Claude Code 装护栏的全过程](https://www.cnblogs.com/codigger/p/23092470)
-11. [Unity AssetBundle 热更新资源保护排查笔记](https://www.cnblogs.com/bytehidden/p/23092352)
-12. [AI 不仅仅埋葬了我的才华](https://www.cnblogs.com/liulun/p/23092153)
-13. [C#: 爸爸再爱我一回! 写在微软使用Rust重写GitHub Copilot之后的碎碎念](https://www.cnblogs.com/waku/p/23091139)
-14. [Elasticsearch实战-磁盘IO被打满](https://www.cnblogs.com/xiexj/p/23090905)
-15. [按键为什么会乱跳：一次按下为什么变成很多次](https://www.cnblogs.com/zw-awa/p/23073197)
-16. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
-17. [使用WSL下的sshfs访问远程文件系统](https://www.cnblogs.com/Fan-iX/p/23068118/alpine-sshfs)
-18. [保证线程安全的方法有哪些](https://www.cnblogs.com/zrui-xyu/p/23089843)
-19. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://www.cnblogs.com/jinjiangongzuoshi/p/23088780)
-20. [制造业质量追溯01：最小测试用例与 Oracle 层次查询演示](https://www.cnblogs.com/jyzhao/p/23087915)
+1. [Apache Doris 高性能 Open Lake Variant 读写技术解析（含对比数据）](https://www.cnblogs.com/SelectDB/p/23099320)
+2. [宝塔面板+Nginx配置HTTP强制跳转HTTPS：解决网站不安全提示、重定向循环问题（适配CDN）](https://www.cnblogs.com/entaoer/p/23098999)
+3. [开多个 Agent 后 Claude Code 账单翻了 4 倍，一个配置解决了](https://www.cnblogs.com/uniqueDong/p/23098897)
+4. [百万订单的架构演化](https://www.cnblogs.com/liuzhang/p/23097040)
+5. [三维地球上的 500 个标注广告牌：DOM 与 Canvas 贴图的两条优化路线](https://www.cnblogs.com/ChineseLiao/p/23096233)
+6. [ELF 文件格式从魔数到动态链接：读懂 Linux 可执行文件的每一字节](https://www.cnblogs.com/yizhilaoxiaobai/p/23096174)
+7. [TensorSharp 支持 Jev 模式了：一次去噪，直接读出决策](https://www.cnblogs.com/shanyou/p/23096117)
+8. [一个 Deployment 就能跑 vLLM，为什么还需要 KServe？](https://www.cnblogs.com/KubeExplorer/p/23093634)
+9. [使用 DuckDB 计算描述性统计量](https://www.cnblogs.com/wang_yb/p/23093058)
+10. [Typora图片解决方案：Typora + PicGo + 重命名插件使用指南](https://www.cnblogs.com/dominickk/p/23093049)
+11. [记一次给 Claude Code 装护栏的全过程](https://www.cnblogs.com/codigger/p/23092470)
+12. [Unity AssetBundle 热更新资源保护排查笔记](https://www.cnblogs.com/bytehidden/p/23092352)
+13. [AI 不仅仅埋葬了我的才华](https://www.cnblogs.com/liulun/p/23092153)
+14. [C#: 爸爸再爱我一回! 写在微软使用Rust重写GitHub Copilot之后的碎碎念](https://www.cnblogs.com/waku/p/23091139)
+15. [Elasticsearch实战-磁盘IO被打满](https://www.cnblogs.com/xiexj/p/23090905)
+16. [按键为什么会乱跳：一次按下为什么变成很多次](https://www.cnblogs.com/zw-awa/p/23073197)
+17. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
+18. [使用WSL下的sshfs访问远程文件系统](https://www.cnblogs.com/Fan-iX/p/23068118/alpine-sshfs)
+19. [保证线程安全的方法有哪些](https://www.cnblogs.com/zrui-xyu/p/23089843)
+20. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://www.cnblogs.com/jinjiangongzuoshi/p/23088780)
 
 ## 精华帖子
 
