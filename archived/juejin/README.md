@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-23 23:21:58
+> 更新时间：2026-09-24 00:25:18
 
 ## 热门文章
 
@@ -17,19 +17,19 @@
 11. [DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？](https://juejin.cn/post/7687537292214501412)
 12. [程序员即将隐退，建造者持续辉煌](https://juejin.cn/post/7688298824981856271)
 13. [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348)
-14. [Kotlin 协程闯关：看代码，猜结果](https://juejin.cn/post/7687445339747958793)
-15. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283)
+14. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283)
+15. [Kotlin 协程闯关：看代码，猜结果](https://juejin.cn/post/7687445339747958793)
 16. [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008)
 17. [别再跟AI说“请”了，它根本不 care——但有个东西它超在意](https://juejin.cn/post/7687818534403588146)
 18. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
 19. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
 20. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
-21. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
-22. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
-23. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
-24. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
-25. [FlutterPatch：把 Shorebird 热更新的控制面搬回自己服务器](https://juejin.cn/post/7687400852546011199)
-26. [OceanBase VS 金仓：同一组复杂 SQL，分布式与集中式架构怎么跑](https://juejin.cn/post/7688300268688572442)
+21. [OceanBase VS 金仓：同一组复杂 SQL，分布式与集中式架构怎么跑](https://juejin.cn/post/7688300268688572442)
+22. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
+23. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
+24. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
+25. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
+26. [FlutterPatch：把 Shorebird 热更新的控制面搬回自己服务器](https://juejin.cn/post/7687400852546011199)
 27. [一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了](https://juejin.cn/post/7688300268687130650)
 28. [轻松掌握 LangGraph 的状态与节点](https://juejin.cn/post/7688270826491658266)
 29. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
@@ -51,6 +51,6 @@
 45. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
 46. [看不懂的装修图纸，豆包2.1 Pro帮我变成了能走进去的 3D 家](https://juejin.cn/post/7687995393330561078)
 47. [前端转型 Agent 开发 05 之 Agent Hooks 与 Checkpointer（让 Agent 从全自动转变人为可掌控）](https://juejin.cn/post/7687876412298805248)
-48. [棉宇宙 Flutter 热更新是如何落地的](https://juejin.cn/post/7687830468987928576)
-49. [实战案例：实现120fps流畅的渐变进度条](https://juejin.cn/post/7687583607785619466)
-50. [Memory Provider 实战：Hermes、Mem0、Honcho、Hindsight 为什么都这样设计？](https://juejin.cn/post/7687072602574880811)
+48. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
+49. [棉宇宙 Flutter 热更新是如何落地的](https://juejin.cn/post/7687830468987928576)
+50. [实战案例：实现120fps流畅的渐变进度条](https://juejin.cn/post/7687583607785619466)

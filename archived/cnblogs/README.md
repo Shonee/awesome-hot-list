@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-23 23:22:09
+> 更新时间：2026-09-24 00:25:22
 
 ## 最新帖子
 
@@ -55,4 +55,4 @@
 3. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
 4. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://www.cnblogs.com/nzbin/p/23015141)
 5. [AI 不仅仅埋葬了我的才华](https://www.cnblogs.com/liulun/p/23092153)
-6. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
+6. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
