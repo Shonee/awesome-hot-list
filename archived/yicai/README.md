@@ -1,10 +1,16 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-24 07:17:40
+> 更新时间：2026-09-24 07:20:48
 
-## 首页头条
+## 7x24
 
-1. [总理上海调研释放明确信号：推动AI更好赋能先进制造业](https://www.yicai.com/news/103376364.html)
-2. [未来4年“双一流”高校本科扩招7.6万人以上](https://www.yicai.com/news/103375843.html)
-3. [建设新型电力系统，多家能源央企发声](https://www.yicai.com/news/103376224.html)
-4. [国债逆回购“双节窗口”开启：短期资金管理工具重获关注](https://www.yicai.com/news/103375469.html)
+1. [俄外长：俄支持古巴关于全面解除封锁的诉求](https://m.yicai.com/brief/103376464.html)
+2. [发现疑似无人机 德国柏林勃兰登堡机场一度暂停航班起降](https://m.yicai.com/brief/103376461.html)
+3. [土耳其护卫舰访问沙特吉达港](https://m.yicai.com/brief/103376459.html)
+4. [AI巨头联合国发声：警惕人工智能对潜在风险](https://m.yicai.com/brief/103376457.html)
+5. [也门胡塞武装：近期逾400艘商船通过曼德海峡](https://m.yicai.com/brief/103376448.html)
+6. [特朗普总统赴机场 欢迎习近平主席到访](https://m.yicai.com/brief/103376446.html)
+7. [习近平抵达美国首都华盛顿](https://m.yicai.com/brief/103376444.html)
+8. [联合国秘书长古特雷斯呼吁加快能源转型](https://m.yicai.com/brief/103376442.html)
+9. [习近平将抵达美国首都华盛顿](https://m.yicai.com/brief/103376440.html)
+10. [特朗普总统抵达机场，迎接习近平主席到访](https://m.yicai.com/brief/103376438.html)
