@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-24 04:23:01
+> 更新时间：2026-09-24 05:20:40
 
 ## 热点榜
 
@@ -18,9 +18,9 @@
 12. [“喝着没什么奶味”，网友在纯牛奶里倒出透明的水，企业道歉：系工人操作失误](https://view.inews.qq.com/a/20260923A0AZ6Y00)
 13. [要动手？叙利亚军队边境集结](https://view.inews.qq.com/a/20260923A0BBKF00)
 14. [为什么这一次楼市将领先于消费复苏？](https://view.inews.qq.com/a/20260923A0BG2T00)
-15. [白酒“双节”动销旺季不旺：有经销商称多款白酒已是“地板价”](https://view.inews.qq.com/a/20260923A0341C00)
-16. [花12万元“定制”龙凤胎，一位母亲的失败尝试](https://view.inews.qq.com/a/20260923A0BM5100)
-17. [点击抽奖丨假期“发福”，趣玩不停](https://h5.news.qq.com/maker/prod/publish/M0dY3hg7zb01oiAdQl43f.html)
-18. [“站在自家门口，人却进不去”！回家先看广告，免广告还得充会员，小区门禁App被吐槽](https://view.inews.qq.com/a/20260923A07TOT00)
-19. [王楚钦谈林诗栋不敌16岁小将：这位小将没见过，能赢球超出所有人想象](https://view.inews.qq.com/a/20260923A03JRJ00)
+15. [花12万元“定制”龙凤胎，一位母亲的失败尝试](https://view.inews.qq.com/a/20260923A0BM5100)
+16. [徐嘉余破28年“胡子纪录”，15金成就亚运多金王 | 全眼传真](https://view.inews.qq.com/a/20260923A0ADID00)
+17. [“站在自家门口，人却进不去”！回家先看广告，免广告还得充会员，小区门禁App被吐槽](https://view.inews.qq.com/a/20260923A07TOT00)
+18. [白酒“双节”动销旺季不旺：有经销商称多款白酒已是“地板价”](https://view.inews.qq.com/a/20260923A0341C00)
+19. [万隆等三名同志任前公示](https://view.inews.qq.com/a/20260923A0BD6900)
 20. [加拿大要成为欧盟“第28国”？](https://view.inews.qq.com/a/20260923A0AZ5R00)

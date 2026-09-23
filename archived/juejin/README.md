@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-24 04:22:45
+> 更新时间：2026-09-24 05:20:21
 
 ## 热门文章
 
@@ -27,11 +27,11 @@
 21. [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875)
 22. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
 23. [一行命令复刻爆款视频，我把 Hypit 从安装跑到了出片](https://juejin.cn/post/7687521521469440041)
-24. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
-25. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
-26. [FlutterPatch：把 Shorebird 热更新的控制面搬回自己服务器](https://juejin.cn/post/7687400852546011199)
-27. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
-28. [一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了](https://juejin.cn/post/7688300268687130650)
+24. [FlutterPatch：把 Shorebird 热更新的控制面搬回自己服务器](https://juejin.cn/post/7687400852546011199)
+25. [一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了](https://juejin.cn/post/7688300268687130650)
+26. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
+27. [​不做更强的 LLM，而是更快的 if：聊聊 Jev 决策模型的选型四原则](https://juejin.cn/post/7687804226240069670)
+28. [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419)
 29. [轻松掌握 LangGraph 的状态与节点](https://juejin.cn/post/7688270826491658266)
 30. [做了近两年的Agent开发，其实真正要学的就是这五件事](https://juejin.cn/post/7688159506154209321)
 31. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)

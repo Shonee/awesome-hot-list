@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-09-24 04:22:43
+> 更新时间：2026-09-24 05:20:19
 
 ## 日榜
 
@@ -23,8 +23,8 @@
 17. [【夏雅】Trouble maker](https://www.acfun.cn/v/ac48868004)
 18. [【东方】watershard【ぱらどっと Melodic Progressive House】](https://www.acfun.cn/v/ac48865167)
 19. [发怒了好多次哈哈哈哈，最后一遍最好！](https://www.acfun.cn/v/ac48867030)
-20. [闪身步教学](https://www.acfun.cn/v/ac48866782)
-21. [【绝望女神/翻唱】【机动新世纪高达 X OP DREAMS 梦想】](https://www.acfun.cn/v/ac48868968)
+20. [【绝望女神/翻唱】【机动新世纪高达 X OP DREAMS 梦想】](https://www.acfun.cn/v/ac48868968)
+21. [闪身步教学](https://www.acfun.cn/v/ac48866782)
 22. [原创编舞《千层套路》的定机位竖屏来啦！](https://www.acfun.cn/v/ac48869245)
 23. [极限竞速地平线6：0.01 秒绝杀！GMC 反超宝马 X6M 越野赛](https://www.acfun.cn/v/ac48867212)
 24. [学功夫，练武术，师父教我扎马步！](https://www.acfun.cn/v/ac48868852)
@@ -119,8 +119,8 @@
 7. [《动物：是的，我不同意和解》](https://www.acfun.cn/v/ac48851885)
 8. [开学对各省舍友的刻板印象](https://www.acfun.cn/v/ac48857410)
 9. [优雅永不过时！！！★手机竖屏2007★](https://www.acfun.cn/v/ac48855173)
-10. [《动物迷惑行为大赏325》](https://www.acfun.cn/v/ac48861293)
-11. [是谁点的小恶魔，蕉出来～](https://www.acfun.cn/v/ac48867778)
+10. [是谁点的小恶魔，蕉出来～](https://www.acfun.cn/v/ac48867778)
+11. [《动物迷惑行为大赏325》](https://www.acfun.cn/v/ac48861293)
 12. [《动物游戏行为图鉴》](https://www.acfun.cn/v/ac48857450)
 13. [双马尾小女仆带来的情绪摇～](https://www.acfun.cn/v/ac48861966)
 14. [【绘图过程】《海边》6周年纪念插图过程](https://www.acfun.cn/v/ac48836990)
@@ -150,9 +150,9 @@
 38. [这是丝袜还是渔网啊？【写真本】](https://www.acfun.cn/v/ac48851879)
 39. [网络上常见的热门短视频集锦   第三千四百三十九期](https://www.acfun.cn/v/ac48859518)
 40. [琵琶曲丨夜神月 VS  L](https://www.acfun.cn/v/ac48861693)
-41. [今天你不能嫁出去【今天有什么好笑的 #2514】](https://www.acfun.cn/v/ac48865864)
+41. [一天生产500万个！速冻水饺是如何制造出来的？](https://www.acfun.cn/v/ac48859253)
 42. [漫威金刚狼深陷争议！SweetBaby又毁一款？【绅批】](https://www.acfun.cn/v/ac48868810)
-43. [一天生产500万个！速冻水饺是如何制造出来的？](https://www.acfun.cn/v/ac48859253)
+43. [今天你不能嫁出去【今天有什么好笑的 #2514】](https://www.acfun.cn/v/ac48865864)
 44. [网络上常见的热门短视频集锦   第三千四百四十五期](https://www.acfun.cn/v/ac48866824)
 45. [单纯的约会（92）](https://www.acfun.cn/v/ac48857199)
 46. [【东方】推特东方小视频选集 第272期](https://www.acfun.cn/v/ac48858830)
