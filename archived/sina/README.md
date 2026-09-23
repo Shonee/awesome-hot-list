@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-24 05:21:48
-
-## 新闻热榜
-
-1. [车企集体提“分手”，宁德时代怎么了？](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhc8519121.shtml)
-2. [六省区党委主要负责同志调整](https://news.sina.com.cn/c/2026-09-23/doc-inisvcqf1220167.shtml)
-3. [习近平离京对美国进行国事访问](https://news.sina.com.cn/gov/xlxw/2026-09-23/doc-inisvcqf1251475.shtml)
-4. [F-35敏感部件误运到香港！澳防长说出实情](https://news.sina.com.cn/c/2026-09-23/doc-inisvqcv8465662.shtml)
-5. [OpenAI首席执行官奥特曼：全球在人工智能问题上“面临选择”。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezp8321197.shtml)
-6. [市场资讯：美国拒绝了伊朗提出的开放霍尔木兹海峡的提议。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5098137.shtml)
-7. [海昏侯墓考古，有新论断！](https://news.sina.com.cn/c/2026-09-23/doc-inisvqcv8506920.shtml)
-8. [肺癌女性中，98%从不吸烟，钟南山团队回应](https://news.sina.com.cn/c/2026-09-23/doc-inisvqcv8536041.shtml)
-9. [美方发出威胁后，中方还允许伊朗商业航班降落吗？外交部：中方立场是一贯的](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhi1325357.shtml)
-10. [微软扩大在中东地区的投资。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8511488.shtml)
-11. [经费停拨，美军对华智库CASI将正式关闭](https://news.sina.com.cn/o/2026-09-23/doc-inisvcpx6049097.shtml)
-12. [要对黎巴嫩真主党动手？叙利亚军队边境集结](https://news.sina.com.cn/w/2026-09-23/doc-inisvqcv8535902.shtml)
-13. [继续领跑！亚运会奖牌榜：中国队48金20银10铜第一 日本15金第2](https://news.sina.com.cn/c/2026-09-23/doc-inisvqcz1080148.shtml)
-14. [微软总裁Brad Smith：投资海湾国家正当其时。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvytt5176384.shtml)
-15. [微软计划到 2030 年在中东投资超 100 亿美元，在四个海湾国家扩建云与人工智能基础设施。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8511617.shtml)
-16. [33岁女演员确诊癌症，已失去生活自理能力，家人苦撑2年公开求助：她想活下去，还想回去唱戏](https://news.sina.com.cn/c/2026-09-23/doc-inisvcqf1197037.shtml)
-17. [亚运会已夺15金！徐嘉余超越王义夫，成亚运金牌最多的中国运动员](https://news.sina.com.cn/c/2026-09-23/doc-inisviwc1137098.shtml)
-18. [高市早苗呼吁删除“敌国条款”，中方表态](https://finance.sina.com.cn/wm/2026-09-23/doc-inisvcqf1197770.shtml)
-19. [研究发现：顶尖AI人才数量中国已超越美国](https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisvumt8491687.shtml)
-20. [美团联合创始人王慧文社交平台发声：有没有人要组局把西贝买下来？我还是挺喜欢西贝的](https://news.sina.com.cn/c/2026-09-23/doc-inisvcpx6087473.shtml)
-
-## 财经热榜
-
-1. [OpenAI首席执行官奥特曼：全球在人工智能问题上“面临选择”。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezp8321197.shtml)
-2. [市场资讯：美国拒绝了伊朗提出的开放霍尔木兹海峡的提议。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5098137.shtml)
-3. [微软扩大在中东地区的投资。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8511488.shtml)
-4. [伊朗外交部发言人表示，在纽约与美方的接触是通过卡塔尔调停方进行。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisunsm5377265.shtml)
-5. [关于做好2026年中秋节与国庆节期间市场风险控制工作的通知](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisunsi8583322.shtml)
-6. [印度尼西亚央行高级副行长艾达表示：高油价对我国进口造成影响，但我国出口则受益于其他大宗商品价格上涨。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisvcqc5272593.shtml)
-7. [巴拉圭总统圣地亚哥·培尼亚呼吁委内瑞拉融入南方共同市场。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisvumt8452798.shtml)
-8. [现货黄金失守4330美元/盎司，日内跌0.67%。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisuxhf5291105.shtml)
-9. [创新药指数“五连阳” 64只主题基金净值全部走高](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuhkm8555207.shtml)
-10. [印度储备银行副行长：过去一年半卢比贬值为暂时现象。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisvqcx5252568.shtml)
-11. [南向资金净买入额达30亿港元。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisvcqc5260486.shtml)
-12. [歌手潘玮柏公布病情，医生提醒](https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxfz6115667.shtml)
-13. [波兰卢布林（Lublin）和热舒夫（Rzeszów）的机场在因军事航空活动而暂时关闭后，现已恢复飞行运营。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisuxhc8518205.shtml)
-14. [法国外交部表示，感谢所有在巴黎和巴库两地不懈努力、促成这一积极成果的团队。](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisvqcx5298340.shtml)
-15. [COMEX黄金期货跌超1%](https://finance.sina.com.cn/7x24/2026-09-23/doc-inisvivx8579213.shtml)
-16. [微软总裁Brad Smith：投资海湾国家正当其时。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvytt5176384.shtml)
-17. [微软计划到 2030 年在中东投资超 100 亿美元，在四个海湾国家扩建云与人工智能基础设施。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8511617.shtml)
-18. [肥胖药赛道，礼来与诺和诺德迎来挑战者？](https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnt8779440.shtml)
-19. [印度下调食用油进口关税。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisvumt8509711.shtml)
-20. [OpenAI开源MentalHealthBench，填补AI心理健康全场景评测空白](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezr5091758.shtml)
+> 更新时间：2026-09-24 05:24:07
 
 ## 7x24
 

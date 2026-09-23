@@ -1,10 +1,14 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-24 05:22:16
+> 更新时间：2026-09-24 05:24:14
 
-## 首页头条
+## 7x24
 
-1. [总理上海调研释放明确信号：推动AI更好赋能先进制造业](https://www.yicai.com/news/103376364.html)
-2. [未来4年“双一流”高校本科扩招7.6万人以上](https://www.yicai.com/news/103375843.html)
-3. [建设新型电力系统，多家能源央企发声](https://www.yicai.com/news/103376224.html)
-4. [国债逆回购“双节窗口”开启：短期资金管理工具重获关注](https://www.yicai.com/news/103375469.html)
+1. [习近平将抵达美国首都华盛顿](https://m.yicai.com/brief/103376440.html)
+2. [特朗普总统抵达机场，迎接习近平主席到访](https://m.yicai.com/brief/103376438.html)
+3. [英伟达成美国信用违约互换最活跃标的之一 对冲需求飙升](https://m.yicai.com/brief/103376436.html)
+4. [纳斯达克中国金龙指数收跌1.45%](https://m.yicai.com/brief/103376433.html)
+5. [美股收跌](https://m.yicai.com/brief/103376431.html)
+6. [快讯](https://m.yicai.com/brief/103376429.html)
+7. [俄外长：俄美应尽快“修复双边关系”](https://m.yicai.com/brief/103376427.html)
+8. [工业金属普跌](https://m.yicai.com/brief/103376425.html)
