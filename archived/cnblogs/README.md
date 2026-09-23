@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-23 11:26:23
+> 更新时间：2026-09-23 12:26:08
 
 ## 最新帖子
 
-1. [C#: 爸爸再爱我一回! 写在微软使用Rust重写GitHub Copilot之后的碎碎念](https://www.cnblogs.com/waku/p/23091139)
-2. [Elasticsearch实战-磁盘IO被打满](https://www.cnblogs.com/xiexj/p/23090905)
-3. [按键为什么会乱跳：一次按下为什么变成很多次](https://www.cnblogs.com/zw-awa/p/23073197)
-4. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
-5. [使用WSL下的sshfs访问远程文件系统](https://www.cnblogs.com/Fan-iX/p/23068118/alpine-sshfs)
-6. [保证线程安全的方法有哪些](https://www.cnblogs.com/zrui-xyu/p/23089843)
-7. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://www.cnblogs.com/jinjiangongzuoshi/p/23088780)
-8. [制造业质量追溯01：最小测试用例与 Oracle 层次查询演示](https://www.cnblogs.com/jyzhao/p/23087915)
-9. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://www.cnblogs.com/nzbin/p/23015141)
-10. [使用 DuckDB 分析 CSV 文件](https://www.cnblogs.com/wang_yb/p/23084068)
-11. [机器人 / 物理 Agent Harness 综合分析与对比：从「更强的模型」到「更好的系统」](https://www.cnblogs.com/rossiXYZ/p/22957482)
-12. [Windows 电脑如何使用 SCP 进行文件传输](https://www.cnblogs.com/zhongzhengli/p/23083599)
-13. [MCP 终极指南完整笔记 —— 基础篇 + 进阶篇 + 番外篇](https://www.cnblogs.com/Mickey-7/p/23083453)
-14. [MysticMirror 自研大模型全维度自动化测试套件（42 项用例）](https://www.cnblogs.com/LyShark/p/23079567)
-15. [NeoVim 使用笔记](https://www.cnblogs.com/owlman/p/23077541)
-16. [Robotics-从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿](https://www.cnblogs.com/ai-ldj/p/23076443)
-17. [Python coverage 进阶：从跑命令到“构造“覆盖率报告](https://www.cnblogs.com/exioran/p/23075327)
-18. [DevOps从持续开发到持续部署](https://www.cnblogs.com/xiexj/p/23075271)
-19. [geo-toolbox 水文插件算法解析：从 Muskingum 到 Muskingum-Cunge](https://www.cnblogs.com/miku196/p/23074579)
-20. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+1. [Unity AssetBundle 热更新资源保护排查笔记](https://www.cnblogs.com/bytehidden/p/23092352)
+2. [AI 不仅仅埋葬了我的才华](https://www.cnblogs.com/liulun/p/23092153)
+3. [C#: 爸爸再爱我一回! 写在微软使用Rust重写GitHub Copilot之后的碎碎念](https://www.cnblogs.com/waku/p/23091139)
+4. [Elasticsearch实战-磁盘IO被打满](https://www.cnblogs.com/xiexj/p/23090905)
+5. [按键为什么会乱跳：一次按下为什么变成很多次](https://www.cnblogs.com/zw-awa/p/23073197)
+6. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
+7. [使用WSL下的sshfs访问远程文件系统](https://www.cnblogs.com/Fan-iX/p/23068118/alpine-sshfs)
+8. [保证线程安全的方法有哪些](https://www.cnblogs.com/zrui-xyu/p/23089843)
+9. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://www.cnblogs.com/jinjiangongzuoshi/p/23088780)
+10. [制造业质量追溯01：最小测试用例与 Oracle 层次查询演示](https://www.cnblogs.com/jyzhao/p/23087915)
+11. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://www.cnblogs.com/nzbin/p/23015141)
+12. [使用 DuckDB 分析 CSV 文件](https://www.cnblogs.com/wang_yb/p/23084068)
+13. [机器人 / 物理 Agent Harness 综合分析与对比：从「更强的模型」到「更好的系统」](https://www.cnblogs.com/rossiXYZ/p/22957482)
+14. [Windows 电脑如何使用 SCP 进行文件传输](https://www.cnblogs.com/zhongzhengli/p/23083599)
+15. [MCP 终极指南完整笔记 —— 基础篇 + 进阶篇 + 番外篇](https://www.cnblogs.com/Mickey-7/p/23083453)
+16. [MysticMirror 自研大模型全维度自动化测试套件（42 项用例）](https://www.cnblogs.com/LyShark/p/23079567)
+17. [NeoVim 使用笔记](https://www.cnblogs.com/owlman/p/23077541)
+18. [Robotics-从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿](https://www.cnblogs.com/ai-ldj/p/23076443)
+19. [Python coverage 进阶：从跑命令到“构造“覆盖率报告](https://www.cnblogs.com/exioran/p/23075327)
+20. [DevOps从持续开发到持续部署](https://www.cnblogs.com/xiexj/p/23075271)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
-2. [【开源】c#造个轮子-日程安排工具](https://www.cnblogs.com/axing/p/23058071)
-3. [百万数据Excel如何快速导入导出](https://www.cnblogs.com/zrui-xyu/p/23060216)
-4. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
-5. [Deepseek的战略考虑以及核心竞争力本质](https://www.cnblogs.com/xiexj/p/23059263)
-6. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
+2. [我用 AI 做完整项目后，总结出一套把需求钉死的工作流](https://www.cnblogs.com/codigger/p/23074289)
+3. [Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程](https://www.cnblogs.com/daen/p/23069577)
+4. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://www.cnblogs.com/nzbin/p/23015141)
+5. [Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude](https://www.cnblogs.com/uniqueDong/p/23061618)
+6. [DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑](https://www.cnblogs.com/zrui-xyu/p/23073247)
