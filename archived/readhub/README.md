@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-23 13:22:39
+> 更新时间：2026-09-23 14:37:07
 
 ## 24 小时热榜
 
@@ -17,23 +17,23 @@
 11. [广州白云机场 T3 大面积铺地毯引推行费力争议 正优化](https://readhub.cn/topic/8wd2v444kFB?tab=daily)
 12. [阿里千问办公首款桌面机器人 QwenNote Eva 发布 售价 899 元](https://readhub.cn/topic/8wd6Uv0Dodc?tab=daily)
 13. [OPPO 推出「AI 心力球」可穿戴新品 体验价 499 元](https://readhub.cn/topic/8wdNdsFtju5?tab=daily)
-14. [Cloudflare 正式推出 Python Workers：可直接跑主流 Python 框架无需胶水代码](https://readhub.cn/topic/8wbmKaf55LD?tab=daily)
-15. [谷歌宣布推出 Googlebook 起售价 899 美元](https://readhub.cn/topic/8wcaKy1iROf?tab=daily)
-16. [Meta 个人 AI 助手 Muse 上线 13 天爆火 遭亚马逊限制访问](https://readhub.cn/topic/8wciD4gAQoM?tab=daily)
-17. [OpenAI 发布 GPT-6 两款新模型 降价切入 DeepSeek 低价赛道](https://readhub.cn/topic/8weCQeGCHvL?tab=daily)
-18. [阿里云发布企业级 Agent 平台 AgentCore](https://readhub.cn/topic/8weHNUfVclj?tab=daily)
-19. [去摸了 Cybercab 实车 一台真正的「塑料」特斯拉](https://readhub.cn/topic/8wb5QZts81q?tab=daily)
+14. [OpenAI 发布 GPT-6 两款新模型 降价切入 DeepSeek 低价赛道](https://readhub.cn/topic/8weCQeGCHvL?tab=daily)
+15. [Cloudflare 正式推出 Python Workers：可直接跑主流 Python 框架无需胶水代码](https://readhub.cn/topic/8wbmKaf55LD?tab=daily)
+16. [谷歌宣布推出 Googlebook 起售价 899 美元](https://readhub.cn/topic/8wcaKy1iROf?tab=daily)
+17. [Meta 个人 AI 助手 Muse 上线 13 天爆火 遭亚马逊限制访问](https://readhub.cn/topic/8wciD4gAQoM?tab=daily)
+18. [去摸了 Cybercab 实车 一台真正的「塑料」特斯拉](https://readhub.cn/topic/8wb5QZts81q?tab=daily)
+19. [阿里云发布企业级 Agent 平台 AgentCore](https://readhub.cn/topic/8weHNUfVclj?tab=daily)
 20. [苹果新款 Mac 作为本地 AI 机器向企业推销 无需按 token 付费](https://readhub.cn/topic/8we1exRiOsR?tab=daily)
 21. [蔡崇信：阿里巴巴正坚定投入全栈 AI 建设](https://readhub.cn/topic/8wceclv30y8?tab=daily)
 22. [高端 MLCC 缺货严重 华强北相关商家爆单价格看涨](https://readhub.cn/topic/8weAEQUVItL?tab=daily)
-23. [千问发布 AI 手机全栈解决方案 Qwen Intelligence](https://readhub.cn/topic/8wd54tnOCO8?tab=daily)
-24. [江淮称将坚定与华为长期合作 江淮汽车尾盘涨停](https://readhub.cn/topic/8wd2DIyv74X?tab=daily)
-25. [智谱 GLM-5.3-Flash 调用量增长 73% 位列 OpenRouter 日榜第一](https://readhub.cn/topic/8wd3f6I80RN?tab=daily)
+23. [江淮称将坚定与华为长期合作 江淮汽车尾盘涨停](https://readhub.cn/topic/8wd2DIyv74X?tab=daily)
+24. [智谱 GLM-5.3-Flash 调用量增长 73% 位列 OpenRouter 日榜第一](https://readhub.cn/topic/8wd3f6I80RN?tab=daily)
+25. [阿里发布 QwenIntelligence，提供 AI 手机全栈解决方案](https://readhub.cn/topic/8wd53PZAv41?tab=daily)
 26. [Claude Opus 5.5 发布：多数任务追平 Fable 5.1，典型成本降 40%](https://readhub.cn/topic/8wdemyg8D7R?tab=daily)
-27. [阿里发布 QwenIntelligence，提供 AI 手机全栈解决方案](https://readhub.cn/topic/8wd53PZAv41?tab=daily)
-28. [Meta 正对其新款个人 AI 助手 Muse 进行「人类礼宾」功能测试](https://readhub.cn/topic/8wdheIBdYiY?tab=daily)
-29. [字节通报二季度违规案例：114 名员工被辞退，8 人移交司法机关](https://readhub.cn/topic/8wd5pftMYmo?tab=daily)
-30. [Agent 版 Hugging Face 来了，openJiuwen 发布首个开源智能体资产平台](https://readhub.cn/topic/8wd5nhTQJlP?tab=daily)
+27. [千问发布 AI 手机全栈解决方案 Qwen Intelligence](https://readhub.cn/topic/8wd54tnOCO8?tab=daily)
+28. [DeepSeek 公开 Agent 训练系统 DSec 技术细节，梁文锋署名](https://readhub.cn/topic/8wePyKavcRx?tab=daily)
+29. [苹果 iOS 27.2 Beta 2 新增国区专属运动数据限制功能](https://readhub.cn/topic/8we6ejratSi?tab=daily)
+30. [Meta 正对其新款个人 AI 助手 Muse 进行「人类礼宾」功能测试](https://readhub.cn/topic/8wdheIBdYiY?tab=daily)
 
 ## 每日早报
 
@@ -49,11 +49,11 @@
 
 1. [斯坦福团队做了一家「AI 药企」，3.7 万个智能体一起做药](https://www.mittrchina.com/news/detail/17002)
 2. [Anthropic、OpenAI 同夜上新：Opus 5.5 多项性能超过 Astra，GPT-6 Sol 赢在价格](https://www.mittrchina.com/news/detail/17001)
-3. [Yann LeCun 万字演讲：「预测像素」是伪命题，JEPA 也并非凭空而来 | ECCV 2026](https://www.leiphone.com/category/academic/F8VUijJ4JY8kkXTG.html)
-4. [李飞飞谈 AI 安全：不能只让开发者评估自己的系统](https://www.aibase.com/zh/news/31296)
-5. [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
-6. [火山引擎 Seedance2.5 上线 Draft 模式：480P 试错、1080P 成片，成本最高省 77%](https://www.aibase.com/zh/news/31293)
-7. [世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管](https://www.aibase.com/zh/news/31289)
-8. [深度拆解 MiMo-V2.6：1M 上下文只是表面，2.5 万条轨迹才是底牌](https://www.leiphone.com/category/ai/f8vJztYMmCQ3ENED.html)
-9. [AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻](https://www.aibase.com/zh/news/31279)
-10. [Jev 的「百亿补贴」迷局：既然「极省」为何还要狂送 1.2 亿 Token？](https://www.leiphone.com/category/ai/CC2fOX5Nj0OQ06t1.html)
+3. [高通发布骁龙 8 Elite Gen 6 与 Extreme 芯片，支持本地运行 300 亿参数大模型](https://www.aibase.com/zh/news/31300)
+4. [医疗 AI 走向全球普惠：Anthropic 携手 OpenEvidence，将临床决策支持工具免费覆盖百国](https://www.aibase.com/zh/news/31299)
+5. [Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息](https://www.aibase.com/zh/news/31297)
+6. [Yann LeCun 万字演讲：「预测像素」是伪命题，JEPA 也并非凭空而来 | ECCV 2026](https://www.leiphone.com/category/academic/F8VUijJ4JY8kkXTG.html)
+7. [李飞飞谈 AI 安全：不能只让开发者评估自己的系统](https://www.aibase.com/zh/news/31296)
+8. [Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
+9. [火山引擎 Seedance2.5 上线 Draft 模式：480P 试错、1080P 成片，成本最高省 77%](https://www.aibase.com/zh/news/31293)
+10. [世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管](https://www.aibase.com/zh/news/31289)

@@ -1,26 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-23 14:17:03
+> 更新时间：2026-09-23 14:37:23
 
-## 7x24
+## 首页头条
 
-1. [PCB概念午后持续走强](https://m.yicai.com/brief/103375564.html)
-2. [智谱跌幅扩大至10%](https://m.yicai.com/brief/103375561.html)
-3. [【盘中特供】北斗“十五五”设定万亿产业发展目标，AI融合持续拓展应用场景，这两家公司已布局北斗核心软硬件环节](https://m.yicai.com/vip/brief/103375555.html)
-4. [现货黄金失守4330美元/盎司](https://m.yicai.com/brief/103375549.html)
-5. [中国信通院政经所发布《全球数字经贸规则年度观察报告（2026年）》](https://m.yicai.com/brief/103375539.html)
-6. [中国信通院政经所发布《数字包容发展研究报告（2026年）》](https://m.yicai.com/brief/103375537.html)
-7. [马斯克惊叹中国AI大模型 称单位算力产出性能几乎是全球顶尖水平](https://m.yicai.com/brief/103375532.html)
-8. [北证50指数涨超3%](https://m.yicai.com/brief/103375527.html)
-9. [《大湾区氢能汽车高速公路通行费优惠及跨省互认倡议》发布：推动氢能汽车高速免费](https://m.yicai.com/brief/103375522.html)
-10. [印尼失事客轮已确认20人遇难](https://m.yicai.com/brief/103375519.html)
-11. [马克龙批评以色列侵犯巴勒斯坦人主权](https://m.yicai.com/brief/103375514.html)
-12. [农业板块午后活跃](https://m.yicai.com/brief/103375509.html)
-13. [美伊联大期间举行间接会谈 伊朗再提重开海峡条件](https://m.yicai.com/brief/103375489.html)
-14. [量子科技概念午后震荡走高](https://m.yicai.com/brief/103375488.html)
-15. [【盘中特供】京东方透露玻璃基封装载板业务最新进展，机构称玻璃基板迈入产业验证窗口，相关公司有望迎来产业机遇](https://m.yicai.com/vip/brief/103375482.html)
-16. [巴西总统谴责以色列实施种族灭绝](https://m.yicai.com/brief/103375477.html)
-17. [国际绿色航运走廊联盟成立](https://m.yicai.com/brief/103375470.html)
-18. [湖北省高级人民法院对黄大发等涉黑案件二审公开宣判](https://m.yicai.com/brief/103375462.html)
-19. [王陆进任河南省委副书记、省政府党组书记](https://m.yicai.com/brief/103375457.html)
-20. [中国警队赴塞尔维亚执行警务联合巡逻任务](https://m.yicai.com/brief/103375455.html)
+1. [第48届世界技能大赛在上海开幕，推动技能生态更好服务全球经济](https://www.yicai.com/news/103374777.html)
+2. [土地使用权到期如何补地价？多个城市有了可执行方案](https://www.yicai.com/news/103374251.html)
+3. [马斯克终于交卷：Grok 4.7跑分很强，实测却翻车了？](https://www.yicai.com/news/103373702.html)
+4. [公费流感疫苗从5.5元涨至9元：企业“价格战”暂停，原因有哪些](https://www.yicai.com/news/103374562.html)
+5. [AI手机不只拼模型：荣耀阿里押注下一个超级场景](https://www.yicai.com/news/103374717.html)

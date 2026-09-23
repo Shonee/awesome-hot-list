@@ -1,12 +1,12 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-23 13:23:25
+> 更新时间：2026-09-23 14:37:28
 
 ## 最有料热点
 
-1. [好活!吧友爆改LOL水浒传](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365380&topic_name=%E5%A5%BD%E6%B4%BB%21%E5%90%A7%E5%8F%8B%E7%88%86%E6%94%B9LOL%E6%B0%B4%E6%B5%92%E4%BC%A0)
-2. [博主怒斥开屏广告被封禁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365432&topic_name=%E5%8D%9A%E4%B8%BB%E6%80%92%E6%96%A5%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E8%A2%AB%E5%B0%81%E7%A6%81)
-3. [第一届泡面大赛32强对决正式开启](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365444&topic_name=%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%B3%A1%E9%9D%A2%E5%A4%A7%E8%B5%9B32%E5%BC%BA%E5%AF%B9%E5%86%B3%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF)
+1. [第一届泡面大赛32强对决正式开启](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365444&topic_name=%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%B3%A1%E9%9D%A2%E5%A4%A7%E8%B5%9B32%E5%BC%BA%E5%AF%B9%E5%86%B3%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF)
+2. [好活!吧友爆改LOL水浒传](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365380&topic_name=%E5%A5%BD%E6%B4%BB%21%E5%90%A7%E5%8F%8B%E7%88%86%E6%94%B9LOL%E6%B0%B4%E6%B5%92%E4%BC%A0)
+3. [博主怒斥开屏广告被封禁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365432&topic_name=%E5%8D%9A%E4%B8%BB%E6%80%92%E6%96%A5%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E8%A2%AB%E5%B0%81%E7%A6%81)
 4. [吧友评无职转生:鲁迪铁好人](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365428&topic_name=%E5%90%A7%E5%8F%8B%E8%AF%84%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F%3A%E9%B2%81%E8%BF%AA%E9%93%81%E5%A5%BD%E4%BA%BA)
 5. [骑行圈鸟哥22天撬走准新娘](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365441&topic_name=%E9%AA%91%E8%A1%8C%E5%9C%88%E9%B8%9F%E5%93%A522%E5%A4%A9%E6%92%AC%E8%B5%B0%E5%87%86%E6%96%B0%E5%A8%98)
 6. [渣男文鼻祖斥巨资求娶女友](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365440&topic_name=%E6%B8%A3%E7%94%B7%E6%96%87%E9%BC%BB%E7%A5%96%E6%96%A5%E5%B7%A8%E8%B5%84%E6%B1%82%E5%A8%B6%E5%A5%B3%E5%8F%8B)
