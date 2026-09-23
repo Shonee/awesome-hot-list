@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-23 16:30:25
+> 更新时间：2026-09-23 17:24:54
 
 ## 热点资讯排行
 
@@ -13,9 +13,9 @@
 7. [《生化危机：爆发夜》枪版资源大规模泄露！9000人同时观看](https://www.gamersky.com/news/202609/2212670.shtml)
 8. [西贝贾国龙称罗永浩下跪才和解！恩怨难消再上热搜](https://www.gamersky.com/news/202609/2213715.shtml)
 9. [三上真司新作细节曝光！非常厉害非常有趣](https://www.gamersky.com/news/202609/2213512.shtml)
-10. [《GTA:东京》突遭曝光！今日游民最热新闻大汇总](https://www.gamersky.com/news/202609/2212528.shtml)
-11. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
-12. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
-13. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
-14. [全新PS限量手柄来了！联动BLACKPINK成员LISA](https://www.gamersky.com/news/202609/2214115.shtml)
-15. [《羊蹄山》突发29GB大补丁！为DLC铺路 新模式抢跑](https://www.gamersky.com/news/202609/2214399.shtml)
+10. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
+11. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
+12. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)
+13. [全新PS限量手柄来了！联动BLACKPINK成员LISA](https://www.gamersky.com/news/202609/2214115.shtml)
+14. [《羊蹄山》突发29GB大补丁！为DLC铺路 新模式抢跑](https://www.gamersky.com/news/202609/2214399.shtml)
+15. [万元升个寂寞！iPhone 18第一批受害者 你中招没：没法直视](https://www.gamersky.com/news/202609/2214474.shtml)

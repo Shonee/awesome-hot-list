@@ -1,17 +1,17 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-23 16:29:42
+> 更新时间：2026-09-23 17:24:30
 
 ## 人气热门
 
-1. [剪辑工具 Concat  0.2.1](https://www.52pojie.cn/thread-2127728-1-1.html)
-2. [PDF盖章和盖骑缝章工具1.1](https://www.52pojie.cn/thread-2127317-1-1.html)
-3. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
-4. [离在线系统IP地址查询器 V1.0](https://www.52pojie.cn/thread-2128468-1-1.html)
-5. [软件安装包管理系统 v1.0（已更新V3.0局域网版本）](https://www.52pojie.cn/thread-2127353-1-1.html)
-6. [微信Windows版 v4.1.15.48多开&消息防撤回公测版绿色版x64位（9.22更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
-7. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
-8. [via浏览器 v7.3.4](https://www.52pojie.cn/thread-2129303-1-1.html)
+1. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
+2. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
+3. [微信Windows版 v4.1.15.48多开&消息防撤回公测版绿色版x64位（9.22更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
+4. [剪辑工具 Concat  0.2.1](https://www.52pojie.cn/thread-2127728-1-1.html)
+5. [via浏览器 v7.3.4](https://www.52pojie.cn/thread-2129303-1-1.html)
+6. [PDF盖章和盖骑缝章工具1.1](https://www.52pojie.cn/thread-2127317-1-1.html)
+7. [离在线系统IP地址查询器 V1.0](https://www.52pojie.cn/thread-2128468-1-1.html)
+8. [软件安装包管理系统 v1.0（已更新V3.0局域网版本）](https://www.52pojie.cn/thread-2127353-1-1.html)
 9. [聚合书源小说下载器 sonovel v1.11.0](https://www.52pojie.cn/thread-2129296-1-1.html)
 10. [智能睡眠助手](https://www.52pojie.cn/thread-2129009-1-1.html)
 11. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
@@ -57,20 +57,20 @@
 
 ## 精华采撷
 
-1. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
-2. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-3. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
-4. [Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]](https://www.52pojie.cn/thread-2090893-1-1.html)
-5. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-6. [CTF游戏逆向入门](https://www.52pojie.cn/thread-2098123-1-1.html)
-7. [逆向分析某排八字软件的过程](https://www.52pojie.cn/thread-2114056-1-1.html)
-8. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
-9. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-10. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
-11. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-12. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
-13. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-14. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+1. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+2. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
+3. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+4. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
+5. [Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]](https://www.52pojie.cn/thread-2090893-1-1.html)
+6. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+7. [CTF游戏逆向入门](https://www.52pojie.cn/thread-2098123-1-1.html)
+8. [逆向分析某排八字软件的过程](https://www.52pojie.cn/thread-2114056-1-1.html)
+9. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
+10. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+11. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+12. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+13. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
+14. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
 15. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 16. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
 17. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
