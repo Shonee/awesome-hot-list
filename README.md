@@ -145,7 +145,7 @@ python3 src/script/render.py --data-root ../awesome-hot-list-data
 - `collect-special.yml` 也每小时触发，但 `collect.py --due` 会按照渠道上次成功快照和注册表中的 `frequency_minutes` 判断是否实际请求。当前 GitHub、雪球、Hugging Face 为 6 小时，V2EX、快手、东方财富为 3 小时，Hacker News 为 2 小时；必应国内热点和脉脉不进入默认调度，Google Trends、央视新闻和外交部属非热榜内容，同样不采集、不展示。
 - 手动运行特殊渠道时可以选择 `force`，忽略间隔立即采集；新增渠道只需在 `registry.py` 设置频率，无需新增一个 Action。
 - 所有采集任务只更新归档和内容面快照，不在采集进程中重建报告。
-- `render-daily.yml` 每小时第 40 分钟统一生成今日报告和前一天完整报告，并执行内容面与 gzip 体积预算检查。
+- `render-daily.yml` 每小时第 40 分钟统一生成今日报告和前一天完整报告，并执行内容面与 gzip 体积预算检查：注册表声明了某内容面的渠道时，对应快照文件既不能是空列表，也不能一条榜单都没有。
 - `archive-weekly.yml` 每周一北京时间 02:00 将超过 7 个日历日的数据打包到 GitHub Release。`data-pages` 保留最近 7 天的 CSV，旧 CSV 和日期报告会进入 `hotlist-archive-through-YYYY-MM-DD` Release。
 - 首次迁移时可手动将 `include_legacy` 设为 true，一次性归档旧 JSON、Markdown、GIF、`data.json` 等非规范文件；渠道 README 和最近 7 天 CSV 会继续保留。
 - Release 包含压缩包、清单和 SHA256 校验文件，清单同时记录 `master` 代码提交和 `data-pages` 数据提交。只有远端资产上传并校验成功后，Action 才删除超期文件并把 `data-pages` 压缩为单个滚动快照提交；手动 dry-run 不创建 Release，也不更新分支。

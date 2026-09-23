@@ -1,3 +1,4 @@
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -47,6 +48,39 @@ class DataRootTests(unittest.TestCase):
 
             self.assertTrue((root / "site/data/latest.json").is_file())
             self.assertEqual(csv_path.read_bytes(), b"\xff\xfe existing archive\n")
+
+    def test_unencodable_title_does_not_break_the_batch(self):
+        """上游 JSON 里未配对的代理对曾让快照写入抛 UnicodeEncodeError，整批陪葬。"""
+        broken = ChannelSnapshot(
+            channel_id="douyin",
+            channel_name="抖音",
+            source_url="https://example.com/douyin",
+            fetched_at="2026-09-06 12:00:00",
+            rankings=[Ranking("hot", "热搜", [HotItem(1, "坏 emoji \ud800 尾巴", "https://example.com/1")])],
+        )
+        healthy = ChannelSnapshot(
+            channel_id="weibo",
+            channel_name="微博",
+            source_url="https://example.com/weibo",
+            fetched_at="2026-09-06 12:00:00",
+            rankings=[Ranking("hot", "热搜", [HotItem(1, "正常热点", "https://example.com/2")])],
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            with patch("src.script.collect.collect_channels", return_value=[broken, healthy]):
+                snapshots = run("douyin,weibo", data_root=str(root))
+
+            self.assertEqual([item.channel_id for item in snapshots], ["douyin", "weibo"])
+            self.assertTrue((root / "archived/douyin/2026/09/csv/2026-09-06.csv").is_file())
+            self.assertTrue((root / "archived/weibo/2026/09/csv/2026-09-06.csv").is_file())
+            payload = json.loads((root / "site/data/latest.json").read_text(encoding="utf-8"))
+            titles = [
+                item["title"]
+                for channel in payload["channels"]
+                for ranking in channel["rankings"]
+                for item in ranking["items"]
+            ]
+            self.assertIn("坏 emoji \ud800 尾巴", titles)
 
     def test_render_writes_site_to_the_selected_data_root(self):
         with tempfile.TemporaryDirectory() as directory:

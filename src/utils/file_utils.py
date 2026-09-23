@@ -48,6 +48,11 @@ FORMAT_EXT = {
 #: 默认文本编码
 DEFAULT_ENCODING = "utf-8"
 
+#: 落盘时的编码错误策略。上游 JSON 可以合法地携带未配对的代理对
+#: （``"\ud800"``），默认策略会让整批采集在写快照时抛 UnicodeEncodeError。
+#: 用 backslashreplace 把它原样落成转义串，JSON 仍然可解析，历史也不会断。
+TEXT_WRITE_ERRORS = "backslashreplace"
+
 #: JSON 落盘默认缩进（与历史文件保持一致，改动会导致全量 diff）
 DEFAULT_JSON_INDENT = 4
 
@@ -170,7 +175,7 @@ def write_text(
     """
     ensure_parent_dir(file_path)
     if not atomic:
-        with open(file_path, "w", encoding=encoding) as f:
+        with open(file_path, "w", encoding=encoding, errors=TEXT_WRITE_ERRORS) as f:
             f.write(text)
     else:
         _atomic_write(file_path, text, encoding=encoding)
@@ -195,7 +200,7 @@ def write_json(
         separators=(",", ":") if indent is None else None,
     )
     if not atomic:
-        with open(file_path, "w", encoding=encoding) as f:
+        with open(file_path, "w", encoding=encoding, errors=TEXT_WRITE_ERRORS) as f:
             f.write(text)
     else:
         _atomic_write(file_path, text, encoding=encoding)
@@ -266,7 +271,7 @@ def write_csv(
 
     write_header = mode == "overwrite" or not _has_content(file_path)
     with open(file_path, "a" if mode == "append" else "w",
-              encoding=encoding, newline="") as f:
+              encoding=encoding, errors=TEXT_WRITE_ERRORS, newline="") as f:
         writer = csv.DictWriter(
             f,
             fieldnames=fieldnames,
@@ -407,7 +412,7 @@ def _atomic_write(file_path: str, text: str, encoding: str = DEFAULT_ENCODING) -
     directory = os.path.dirname(file_path) or "."
     fd, tmp_path = tempfile.mkstemp(dir=directory, prefix=".tmp-", suffix=".part")
     try:
-        with os.fdopen(fd, "w", encoding=encoding) as f:
+        with os.fdopen(fd, "w", encoding=encoding, errors=TEXT_WRITE_ERRORS) as f:
             f.write(text)
         os.replace(tmp_path, file_path)
     except Exception:

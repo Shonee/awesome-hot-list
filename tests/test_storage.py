@@ -1,8 +1,16 @@
+import json
 import os
 import tempfile
 import unittest
 
-from src.utils.file_utils import archive_path, read_csv, write_csv, write_json
+from src.utils.file_utils import (
+    archive_path,
+    read_csv,
+    read_text,
+    write_csv,
+    write_json,
+    write_text,
+)
 
 
 class ArchivePathTests(unittest.TestCase):
@@ -60,6 +68,24 @@ class ArchivePathTests(unittest.TestCase):
 
             with open(path, "rb") as stream:
                 self.assertEqual(stream.read(), b"\xff\xfe existing archive\n")
+
+    def test_unpaired_surrogate_from_upstream_still_lands_on_disk(self):
+        """``json.loads('"\\ud800"')`` 会得到无法编码的字符，落盘必须不炸且可回读。"""
+        title = json.loads('"坏 emoji \\ud800 尾巴"')
+        with tempfile.TemporaryDirectory() as directory:
+            for atomic in (True, False):
+                json_path = os.path.join(directory, f"data-{atomic}.json")
+                write_json({"title": title}, json_path, indent=None, atomic=atomic)
+                self.assertEqual(json.loads(read_text(json_path))["title"], title)
+
+            csv_path = os.path.join(directory, "data.csv")
+            write_csv([{"title": title}], csv_path, mode="append", atomic=True)
+            write_csv([{"title": title}], csv_path, mode="append", atomic=False)
+            self.assertEqual(len(read_csv(csv_path)), 2)
+
+            md_path = os.path.join(directory, "data.md")
+            write_text(f"# {title}\n", md_path, atomic=True)
+            self.assertIn("尾巴", read_text(md_path))
 
 
 if __name__ == "__main__":

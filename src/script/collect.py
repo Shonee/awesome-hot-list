@@ -88,10 +88,10 @@ def run(
             for snapshot in snapshots:
                 try:
                     write_channel_archive(snapshot)
-                except OSError as exc:
-                    # 页面快照已落盘；单渠道归档读不到旧 CSV 时跳过该渠道，
-                    # 而不是让整批采集陪葬，也绝不静默覆盖已有内容。
-                    print(f"[warn] {snapshot.channel_id}: archive skipped: {exc}")
+                except Exception as exc:  # noqa: BLE001 - 一个渠道的归档不该让整批陪葬
+                    # 页面快照已落盘；读不到旧 CSV、或上游标题里有无法编码的
+                    # 孤立代理对（UnicodeEncodeError 不是 OSError）时跳过该渠道。
+                    print(f"[warn] {snapshot.channel_id}: archive skipped: {exc.__class__.__name__}: {exc}")
 
     for snapshot in snapshots:
         count = sum(len(ranking.items) for ranking in snapshot.rankings)
