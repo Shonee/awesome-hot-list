@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-23 07:26:56
+> 更新时间：2026-09-23 13:31:16
 
 ## 每日趋势
 
@@ -28,14 +28,13 @@
 11. [LibreChat](https://github.com/danny-avila/LibreChat)
 12. [core](https://github.com/home-assistant/core)
 13. [cline](https://github.com/cline/cline)
-14. [linkedin-skills](https://github.com/sergebulaev/linkedin-skills)
-15. [quiche](https://github.com/cloudflare/quiche)
-16. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-17. [supabase](https://github.com/supabase/supabase)
-18. [cilium](https://github.com/cilium/cilium)
-19. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-20. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
-21. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
+14. [quiche](https://github.com/cloudflare/quiche)
+15. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+16. [supabase](https://github.com/supabase/supabase)
+17. [cilium](https://github.com/cilium/cilium)
+18. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+19. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+20. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
 ## 每月趋势
 
@@ -48,19 +47,18 @@
 7. [i-have-adhd](https://github.com/ayghri/i-have-adhd)
 8. [claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
 9. [FreeToken](https://github.com/FlashML-org/FreeToken)
-10. [linkedin-skills](https://github.com/sergebulaev/linkedin-skills)
-11. [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-12. [magnitude](https://github.com/magnitudedev/magnitude)
-13. [omarchy](https://github.com/omacom/omarchy)
-14. [vphone-cli](https://github.com/Lakr233/vphone-cli)
-15. [agent-skills](https://github.com/tech-leads-club/agent-skills)
-16. [timesfm](https://github.com/google-research/timesfm)
-17. [WeKnora](https://github.com/Tencent/WeKnora)
-18. [minimind](https://github.com/jingyaogong/minimind)
-19. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
-20. [open-seo](https://github.com/every-app/open-seo)
-21. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
-22. [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+10. [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+11. [magnitude](https://github.com/magnitudedev/magnitude)
+12. [omarchy](https://github.com/omacom/omarchy)
+13. [vphone-cli](https://github.com/Lakr233/vphone-cli)
+14. [agent-skills](https://github.com/tech-leads-club/agent-skills)
+15. [timesfm](https://github.com/google-research/timesfm)
+16. [WeKnora](https://github.com/Tencent/WeKnora)
+17. [minimind](https://github.com/jingyaogong/minimind)
+18. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
+19. [open-seo](https://github.com/every-app/open-seo)
+20. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+21. [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
 
 ## Java
 
@@ -91,19 +89,18 @@
 2. [Octop](https://github.com/TencentCloud/Octop)
 3. [financial-services](https://github.com/anthropics/financial-services)
 4. [core](https://github.com/home-assistant/core)
-5. [linkedin-skills](https://github.com/sergebulaev/linkedin-skills)
-6. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-7. [YuE](https://github.com/multimodal-art-projection/YuE)
-8. [Claude-Red](https://github.com/SnailSploit/Claude-Red)
-9. [open-source-games](https://github.com/bobeff/open-source-games)
-10. [autoclip](https://github.com/zhouxiaoka/autoclip)
-11. [oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
-12. [supervision](https://github.com/roboflow/supervision)
-13. [hindsight](https://github.com/vectorize-io/hindsight)
-14. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
-15. [ASC](https://github.com/MG1937/ASC)
-16. [awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
-17. [MiroFish](https://github.com/666ghj/MiroFish)
+5. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+6. [YuE](https://github.com/multimodal-art-projection/YuE)
+7. [Claude-Red](https://github.com/SnailSploit/Claude-Red)
+8. [open-source-games](https://github.com/bobeff/open-source-games)
+9. [autoclip](https://github.com/zhouxiaoka/autoclip)
+10. [oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+11. [supervision](https://github.com/roboflow/supervision)
+12. [hindsight](https://github.com/vectorize-io/hindsight)
+13. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+14. [ASC](https://github.com/MG1937/ASC)
+15. [awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
+16. [MiroFish](https://github.com/666ghj/MiroFish)
 
 ## Go
 
