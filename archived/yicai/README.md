@@ -1,11 +1,26 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-23 12:27:10
+> 更新时间：2026-09-23 12:31:06
 
-## 首页头条
+## 7x24
 
-1. [第48届世界技能大赛在上海开幕，推动技能生态更好服务全球经济](https://www.yicai.com/news/103374777.html)
-2. [土地使用权到期如何补地价？多个城市有了可执行方案](https://www.yicai.com/news/103374251.html)
-3. [马斯克终于交卷：Grok 4.7跑分很强，实测却翻车了？](https://www.yicai.com/news/103373702.html)
-4. [公费流感疫苗从5.5元涨至9元：企业“价格战”暂停，原因有哪些](https://www.yicai.com/news/103374562.html)
-5. [AI手机不只拼模型：荣耀阿里押注下一个超级场景](https://www.yicai.com/news/103374717.html)
+1. [湖北省高级人民法院对黄大发等涉黑案件二审公开宣判](https://m.yicai.com/brief/103375462.html)
+2. [王陆进任河南省委副书记、省政府党组书记](https://m.yicai.com/brief/103375457.html)
+3. [中国警队赴塞尔维亚执行警务联合巡逻任务](https://m.yicai.com/brief/103375455.html)
+4. [马斯克预测未来世界：20年后可能有1000亿台人形机器人](https://m.yicai.com/brief/103375446.html)
+5. [2026全球治理论坛（雄安）将于今年10月下旬举办](https://m.yicai.com/brief/103375443.html)
+6. [港股午盘｜恒指跌0.76% 融信中国涨19%](https://m.yicai.com/brief/103375442.html)
+7. [半日主力资金丨加仓电子、机械设备股](https://m.yicai.com/brief/103375420.html)
+8. [国债期货午盘全线下跌](https://m.yicai.com/brief/103375394.html)
+9. [国内商品期市午盘涨跌参半](https://m.yicai.com/brief/103375391.html)
+10. [A股午盘｜沪指跌0.36% 房地产板块冲高回落](https://m.yicai.com/brief/103375385.html)
+11. [全球AI相关产品贸易额超4万亿美元](https://m.yicai.com/brief/103375351.html)
+12. [未来四年“双一流”高校本科招生数还将扩容7.6万人](https://m.yicai.com/brief/103375244.html)
+13. [跨里海国际运输走廊高级别会议召开 共同发布扩能增效倡议](https://m.yicai.com/brief/103375236.html)
+14. [大金重工携手Ulstein 进军海上风电安装环节](https://m.yicai.com/brief/103375234.html)
+15. [赵龙任福建省委书记](https://m.yicai.com/brief/103375232.html)
+16. [周祖翼任河南省委书记](https://m.yicai.com/brief/103375230.html)
+17. [李乐成任安徽省委书记](https://m.yicai.com/brief/103375228.html)
+18. [每周至少半天校外实践教学将在全国推行](https://m.yicai.com/brief/103375226.html)
+19. [教育部：建立分类评价机制 推进各类高校特色发展](https://m.yicai.com/brief/103375220.html)
+20. [铁路中秋国庆假期运输今日启动](https://m.yicai.com/brief/103375217.html)
