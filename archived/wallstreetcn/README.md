@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-23 09:01:55
+> 更新时间：2026-09-23 09:06:27
 
 ## 7x24
 
@@ -47,4 +47,3 @@
 37. [台风“杜鹃”已致日本7人死亡](https://wallstreetcn.com/livenews/3169173)
 38. [上证报：分类施策、有扶有控，金融有望成为产业“反内卷”重要支点](https://wallstreetcn.com/livenews/3169172)
 39. [产品布局持续拓宽，被动指数债基规模超过两万亿元](https://wallstreetcn.com/livenews/3169170)
-40. [苹果将其新款Mac宣传为AI机器，且无需按token付费](https://wallstreetcn.com/livenews/3169169)
