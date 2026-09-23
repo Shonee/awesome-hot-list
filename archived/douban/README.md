@@ -1,12 +1,12 @@
 # 豆瓣热榜
 
-> 更新时间：2026-09-23 14:37:29
+> 更新时间：2026-09-23 15:28:15
 
 ## 小组精选
 
 1. [小众城市旅行成功经验之——云南普洱，超好玩儿！](https://www.douban.com/group/topic/500554623/?_spm_id=MTI4OTc0Mjg5)
 2. [雨后的傍晚去摘柿子和桂花](https://www.douban.com/group/topic/500318028/?_spm_id=NTMxNDExOTA)
-3. [想做手工的朋友们都来画手帐吧！超治愈的！](https://www.douban.com/group/topic/500484555/?_spm_id=MjE0NTIxMTU5)
+3. [下班了不知道干什么的友友都来画手帐吧！超治愈的！](https://www.douban.com/group/topic/500484555/?_spm_id=MjE0NTIxMTU5)
 4. [牵牛花盛开的小家](https://www.douban.com/group/topic/500471808/?_spm_id=NDM2MDY0Mg)
 5. [一日往返济州岛，打工人24h可以干多少事](https://www.douban.com/group/topic/500506218/?_spm_id=NjI2MzIyODk)
 6. [Fire 45个月，重新去上班](https://www.douban.com/group/topic/500378698/?_spm_id=MjUwOTIyMzk5)
