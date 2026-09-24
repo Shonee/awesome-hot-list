@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-24 17:25:39
+> 更新时间：2026-09-24 18:23:32
 
 ## 日榜
 
@@ -13,6 +13,6 @@
 7. [25.58 万元起、最高 1100km 纯电续航，比亚迪腾势 Z9S 正式上市](https://www.ithome.com/1/006/459.htm)
 8. [卢伟冰：大家对小米 18 Pro 系列透明版认可度很高，首批备货快速售罄](https://www.ithome.com/1/006/480.htm)
 9. [卢伟冰：在内存成本剧烈上涨的周期下，创新产品才能满足用户购机 / 换机需求](https://www.ithome.com/1/006/500.htm)
-10. [小米 18 Pro Max 首发第六代骁龙 8 超级至尊版：CPU 主频 5GHz，移动平台历史最高](https://www.ithome.com/1/006/415.htm)
-11. [罗福莉官宣小米 MiMo-V3 采用全新架构，核心 HySparse 2 今日发布](https://www.ithome.com/1/006/502.htm)
+10. [罗福莉官宣小米 MiMo-V3 采用全新架构，核心 HySparse 2 今日发布](https://www.ithome.com/1/006/502.htm)
+11. [小米 18 Pro Max 首发第六代骁龙 8 超级至尊版：CPU 主频 5GHz，移动平台历史最高](https://www.ithome.com/1/006/415.htm)
 12. [罗永浩评小米 18 Fold“如果能接受 D 型屏，确实做得非常漂亮”，强调无商业利益合作](https://www.ithome.com/1/006/533.htm)
