@@ -1,51 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-25 03:19:08
-
-## 新闻热榜
-
-1. [“中国更有底气了”：中美谈大事，欧洲怎么办？](https://news.sina.com.cn/o/2026-09-24/doc-inisxtat5118280.shtml)
-2. [习近平同美国总统特朗普小范围交流](https://news.sina.com.cn/c/xl/2026-09-25/doc-inisycsp4962778.shtml)
-3. [特朗普政府表示，媒体进入白宫的权限已恢复。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4882449.shtml)
-4. [考克斯汽车：受新车需求持续韧性支撑，将美国全年新车销量预测从此前的1580万辆上调至1610万辆。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8127709.shtml)
-5. [美国7年期国债中标收益率为5.085%，高于发行前交易收益率5.078%。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8127228.shtml)
-6. [以色列官员：恢复对伊朗的打击只是时间问题](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8010838.shtml)
-7. [习近平主席乘车离开白宫](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8136587.shtml)
-8. [习近平在白宫欢迎仪式上的致辞（全文）](https://news.sina.com.cn/c/xl/2026-09-24/doc-inisxxkv4968252.shtml)
-9. [新闻机构此前曾向法庭表示，他们在周四被拒绝入内。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4882273.shtml)
-10. [岛内讨论“一国两制”台湾方案和统一问题的声音日益增多，国防部：统一将根除“台独”祸根乱源](https://news.sina.com.cn/c/2026-09-24/doc-inisxhnz8304126.shtml)
-11. [单日狂揽32金！亚运奖牌榜：中国80金30银20铜断层领跑，日本20金](https://news.sina.com.cn/zx/2026-09-24/doc-inisxxkr5044987.shtml)
-12. [沙特表示，国际社会必须应对胡塞武装的威胁。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4906554.shtml)
-13. [美国7年期国债拍卖收益率创1993年4月以来新高。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4907248.shtml)
-14. [内塔尼亚胡表示：“在我在联合国发表演讲之前，我将继续进行一系列政治会晤，其中包括与希腊总理以及斯洛文尼亚总理的会面。”](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8133855.shtml)
-15. [美国加州法官称警长必须终止选票调查。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyr4781958.shtml)
-16. [瑙塞达称，美军驻扎立陶宛并非为了作战，而是为了威慑。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8123638.shtml)
-17. [乌克兰总理科列茨基（Koretskyi）与美国代办就液化天然气（LNG）供应事宜进行讨论。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisycsr8094747.shtml)
-18. [荷兰首相：欧洲企业在获取资本方面面临困难。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4895947.shtml)
-19. [俄罗斯副外长：朝鲜最高领导人金正恩已获邀访问俄罗斯，具体日期将通过外交渠道商定](https://news.sina.com.cn/w/2026-09-24/doc-inisxxkv4911963.shtml)
-
-## 财经热榜
-
-1. [亚运会乒乓球决赛对阵出炉！国乒男女团均将迎战日本队，上演伦敦世乒赛决赛翻版](https://finance.sina.com.cn/wm/2026-09-24/doc-iniswvxi4947849.shtml)
-2. [人民日报：“推动中美关系这艘巨轮沿着正确航道平稳前行”](https://finance.sina.com.cn/roll/2026-09-24/doc-iniswmim8287037.shtml)
-3. [钱大妈二次冲刺港交所：门店超3000家，毛利率逐年改善](https://finance.sina.com.cn/stock/hkstock/2026-09-24/doc-iniswrri8166956.shtml)
-4. [美联储哈马克：在产出需求稳健的情况下，通胀仍然居高不下。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisxtav8246668.shtml)
-5. [一文读懂美债"黑色星期三"："完美风暴"冲击，"10月再加息"风起](https://finance.sina.com.cn/roll/2026-09-24/doc-iniswrrp0627392.shtml)
-6. [美联储哈马克：供应冲击目前是美联储政策面临的显著挑战。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisxtav8247008.shtml)
-7. [DeepSeek最新智能体论文：梁文锋署名，单集群每天运行300万个沙盒，还要防AI“作弊”](https://finance.sina.com.cn/jjxw/2026-09-24/doc-iniswrrf5486390.shtml)
-8. [OpenAI首席执行官奥特曼：全球在人工智能问题上“面临选择”。](https://finance.sina.com.cn/7x24/2026-09-24/doc-iniswezp8321197.shtml)
-9. [李梦谈差点错失赵星棠：我不是典型大美女](https://finance.sina.com.cn/jjxw/2026-09-24/doc-iniswrrm4978228.shtml)
-10. [9月24日外盘头条：伊朗总统向美国释放强硬信号 布油重回100美元之上 美联储巴尔称需要进一步加息以压低通胀](https://finance.sina.com.cn/world/2026-09-24/doc-iniswmir0715258.shtml)
-11. [“员工感慨豆包成边缘产品”登上热搜，豆包公关负责人回应：“2亿人用的豆包裁员”“对话团队砍掉一半”等表述不实](https://finance.sina.com.cn/roll/2026-09-24/doc-inisxafi0491149.shtml)
-12. [江某为图省事，随手将吃剩猪排骨从17楼扔下，砸中路过女子头部，随后外出上班2天后被抓，获刑6个月](https://finance.sina.com.cn/wm/2026-09-24/doc-iniswrrm5011235.shtml)
-13. [F-35座舱盖意外落在香港，美国急得跳脚，二手平台标价648万包邮](https://finance.sina.com.cn/roll/2026-09-24/doc-inisvumx1021032.shtml)
-14. [“员工感慨豆包成边缘产品”登上热搜，豆包公关负责人：“2亿人用的豆包裁员”“对话团队砍掉一半”等表述不实](https://finance.sina.com.cn/wm/2026-09-24/doc-inisxaff4965796.shtml)
-15. [网络招工频密、车间深夜亮灯 众泰汽车“复活”前景几何？](https://finance.sina.com.cn/stock/companyt/2026-09-24/doc-iniswrri8180175.shtml)
-16. [不排斥谈判但拒绝被威胁 伊朗总统向美国释放强硬信号](https://finance.sina.com.cn/world/2026-09-24/doc-iniswezr5108326.shtml)
-17. [中方是否已同意建立中美人工智能安全对话机制？外交部：建议询问主管部门](https://finance.sina.com.cn/jjxw/2026-09-24/doc-inisxhnz8240588.shtml)
-18. [特朗普政府表示，媒体进入白宫的权限已恢复。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4882449.shtml)
-19. [考克斯汽车：受新车需求持续韧性支撑，将美国全年新车销量预测从此前的1580万辆上调至1610万辆。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8127709.shtml)
-20. [巴西央行：第三季度早期指标显示经济活动走弱。](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisxtav8172915.shtml)
+> 更新时间：2026-09-25 03:22:30
 
 ## 7x24
 
