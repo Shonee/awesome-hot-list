@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-24 19:21:01
+> 更新时间：2026-09-24 20:33:06
 
 ## 24 小时热榜
 
@@ -12,28 +12,28 @@
 6. [叮咚买菜关闭北京多个站点](https://readhub.cn/topic/8weFEkNLYcK?tab=daily)
 7. [王自如直播回应西贝风波 十二年后公开替罗永浩说话](https://readhub.cn/topic/8wczPuzGAtD?tab=daily)
 8. [腾讯 QClaw 将于 2026 年 12 月 24 日停运 数据可迁移至 WorkBuddy](https://readhub.cn/topic/8wfps9Leh5G?tab=daily)
-9. [高通将收购美国具身智能企业 Picknik](https://readhub.cn/topic/8wexbFaDycH?tab=daily)
-10. [Anthropic 成立生命科学团队及实验室，Claude 参与发现新型酶系统](https://readhub.cn/topic/8wfQTej3Rug?tab=daily)
-11. [马斯克接受央视专访，力荐大家到中国看一看](https://readhub.cn/topic/8we8nJ6FgTt?tab=daily)
-12. [阿里云发布 Qwen Book：AI 智能体电脑正式亮相](https://readhub.cn/topic/8weZErsIJb4?tab=daily)
-13. [DeepSeek 公开 Agent 训练沙盒平台 DSec 技术细节 梁文锋署名](https://readhub.cn/topic/8wfniERaVys?tab=daily)
-14. [Anthropic 工程师解释 Claude 写作变差：模型训练为写给 AI 看而非人看](https://readhub.cn/topic/8wfFP3eLwc0?tab=daily)
-15. [罗福莉官宣小米 MiMo-V3 将采用全新架构 核心 HySparse 2 发布](https://readhub.cn/topic/8wfDHNNdDFQ?tab=daily)
-16. [小米 18 Pro 系列发布 定价 5999 元起](https://readhub.cn/topic/8wezg6s5oao?tab=daily)
-17. [腾讯 WorkBuddy 微信小程序发布能力上线](https://readhub.cn/topic/8wgJrfIrnh3?tab=daily)
-18. [腾讯 Marvis 定位升级「AI 管家」，支持用户管理个人设备和数字资产](https://readhub.cn/topic/8wg249e6tiO?tab=daily)
-19. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
-20. [我国成功发射卫星互联网低轨 26 组卫星](https://readhub.cn/topic/8wfDFe2hex5?tab=daily)
-21. [Simate AutoResearch 登顶 RoboDojo 探索机器人自主迭代能力](https://readhub.cn/topic/8wf3yeeCI1A?tab=daily)
-22. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
-23. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
-24. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
-25. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
-26. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
-27. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
-28. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
-29. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
-30. [Meta 推出个人智能体 Muse 重回 AI 领域竞争牌桌](https://readhub.cn/topic/8wemv2nUJy0?tab=daily)
+9. [Anthropic 成立生命科学团队及实验室，Claude 参与发现新型酶系统](https://readhub.cn/topic/8wfQTej3Rug?tab=daily)
+10. [马斯克接受央视专访，力荐大家到中国看一看](https://readhub.cn/topic/8we8nJ6FgTt?tab=daily)
+11. [阿里云发布 Qwen Book：AI 智能体电脑正式亮相](https://readhub.cn/topic/8weZErsIJb4?tab=daily)
+12. [DeepSeek 公开 Agent 训练沙盒平台 DSec 技术细节 梁文锋署名](https://readhub.cn/topic/8wfniERaVys?tab=daily)
+13. [Anthropic 工程师解释 Claude 写作变差：模型训练为写给 AI 看而非人看](https://readhub.cn/topic/8wfFP3eLwc0?tab=daily)
+14. [罗福莉官宣小米 MiMo-V3 将采用全新架构 核心 HySparse 2 发布](https://readhub.cn/topic/8wfDHNNdDFQ?tab=daily)
+15. [腾讯 WorkBuddy 微信小程序发布能力上线](https://readhub.cn/topic/8wgJrfIrnh3?tab=daily)
+16. [腾讯 Marvis 定位升级「AI 管家」，支持用户管理个人设备和数字资产](https://readhub.cn/topic/8wg249e6tiO?tab=daily)
+17. [我国成功发射卫星互联网低轨 26 组卫星](https://readhub.cn/topic/8wfDFe2hex5?tab=daily)
+18. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
+19. [Simate AutoResearch 登顶 RoboDojo 探索机器人自主迭代能力](https://readhub.cn/topic/8wf3yeeCI1A?tab=daily)
+20. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
+21. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
+22. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
+23. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
+24. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
+25. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
+26. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
+27. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
+28. [Meta 推出个人智能体 Muse 重回 AI 领域竞争牌桌](https://readhub.cn/topic/8wemv2nUJy0?tab=daily)
+29. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
+30. [三大运营商暂停金融分期业务，「0 元购机」全面停办新受理](https://readhub.cn/topic/8wgKaW2nZ5A?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [AGI 时代真的来了？可能只是炒作 大多充满惊叹，往往直接沿用了这些公司的「拟人化」叙事 —— 这种叙事意在把它们的软件描绘成不仅能力强大，而且已经是初具雏形的「通用人工智能」（AGI, artificial general intelligence）。一份由数百名数学家签署的声明指出，目前科技行业存在「强烈的商业动机去夸大其产品的能力」，并呼吁政策制定者在制定政策时「咨询包括数学家在内的专家，而不是依赖新闻稿或大众媒体对数学成果的报道」。如果说这个「AI 炒作之夏」能够带来什么最好的结果，那就是政策制定者和广大公众能够从中学会：下一次类似的炒作再次出现时，不妨先冷静下来，保持怀疑，并认清这种炒作的本质。 麻省理工科技评论 4 小时前](https://www.mittrchina.com/news/detail/17009)
-2. [首部上星 AI 长剧《后西游记》幕后：没有摄影机，100% 画面由 Seedance 生成，单集成本压到十几万 这部规划 60 集、每集约 40 分钟的剧集由芒果 TV 出品、伯璟文化承制，全程没有一台摄影机，视频生成 100% 交给 Seedance 完成。想法一出，芒果 TV 那边几乎没犹豫 —— 这家平台从 2018 年就布局 AI，自研的 AIGC 创作平台「芒果灵创」已经落地过多部 AI 作品，双方几天内就报审立项。当一部没有摄影机的长剧坐进卫视黄金档、单集成本被砍到原来的零头，影视生产最坚固的那道设备与人力高墙，已经被 Seedance 这样的生成模型撬开了一道缝。 AIBase 1 小时前](https://www.aibase.com/zh/news/31357)
-3. [AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样 黑石集团总裁兼首席运营官 Jon Gray 在面向投资者的演讲中，将当前 AI 发展阶段比作「1870 年的拂晓」，并以企业收入、应用案例和黑石的投资数据，回应巨额资本开支的回报问题。Gray 在此前的公开访谈中回顾，黑石收购 QTS 后，开始接到大型科技公司越来越多的计算需求，随后将投资延伸至能源、电气设备，以及提供 GPU 算力的新型云服务企业。回到「牛肉在哪儿」这一问题，部分 AI 应用已带来收入和效率收益，黑石也据此投资算力、数据中心与能源项目。 麻省理工科技评论 6 小时前](https://www.mittrchina.com/news/detail/17008)
-4. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌 阿里达摩院联合四川省肿瘤医院、中山大学肿瘤防治中心等机构研发出食管癌筛查 AI 模型 DAMO EAGLE，无需插管和造影，从平扫 CT 上即可识别食管癌（含早期与癌前恶性病变），已在 3 个国家 8 万多病例上获得验证，相关论文于 9 月 22 日登上国际顶级期刊《自然・医学》（Nature Medicine）。达摩院算法专家姚佳文介绍，团队依托多年医疗影像 AI 积累，创新性地将内镜检查报告与增强 CT 上的准确病灶位置配对到平扫 CT 影像上，成功训练 AI 识别人眼难辨的早期病灶。随着胰腺癌、胃癌、肠癌、食管癌、主动脉夹层等 AI 模型接连发布，达摩院已跑通「平扫 CT + AI」一扫多查的原创技术路线，累计发表《自然・医学》论文 5 篇，有望通过一次平扫 CT 查出中国死亡人数最多的前七大癌症。 AIBase 5 小时前](https://www.aibase.com/zh/news/31341)
-5. [蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账 蚂蚁 inclusionAI 在 HuggingFace 上开设名为 AI-Transparency 的仓库，一次性公开旗下 Ling、Ring、Ming 几大系列模型的训练内容摘要。这不是又一轮发布模型权重，而是一次针对「模型到底吃了什么数据练出来」的主动交代 —— 仓库里只有文档，没有权重，也没有训练数据集，却把从 Ling-2.0 到 Ling-3.0、Ring-2.0 到 Ring-2.6、再到 Ming-Omni 及两款 16B-A3B 多模态模型的来路逐份写明。当全球监管把「训练透明度」从可选项变成硬门槛，蚂蚁这步把全系模型的训练摘要整齐归档公开，既是在给出海合规铺路，也顺手把「我的模型怎么炼成」这扇门朝外界推开了一道缝。 AIBase 1 小时前](https://www.aibase.com/zh/news/31356)
-6. [谷歌确认新一代旗舰 Gemini 4 即将推出：已进入后训练，有望远早于年底 在 The Information 当地时间 23 日举办的 AI Agenda Live 峰会上，谷歌 DeepMind 负责人科拉伊・卡武克奥卢透露，谷歌新一代旗舰模型 Gemini 4 即将推出，目前已进入开发流程中的「后训练初期」。卡武克奥卢希望 Gemini 4 在「远早于年底」的时间点推出，并称正尽快拿出后训练阶段的早期成果，「因为我们看到了结果，也很振奋」，随后谷歌会继续快速迭代。卡武克奥卢解释，Gemini 3 与 3.1 推出后，谷歌没有继续发布 3.5 Pro，而是「稍微退了一步」，把精力转向 Flash 模型，「对我们来说，当时最重要的是尽可能加快学习速度」。 AIBase 3 小时前](https://www.aibase.com/zh/news/31350)
-7. [高通联手 PrismML 发布 1-bit Bonsai：AI 眼镜离线识图，内存占用降到 1 / 4 在 2026 骁龙峰会上，高通携手 PrismML 公司，在骁龙 AR1 Gen 1 智能眼镜平台上成功本地运行了 20 亿参数的 1-bit 量化 Bonsai 视觉模型，让 AI 眼镜在离线状态下也能完成识图与问答。Bonsai 1-bit 模型基于 PrismML 此前发布的 Bonsai 1.7B 版本构建，将模型精度压缩到 1-bit，以降低存储与推理所需的内存资源。官方表示，在相同内存容量下可容纳约 4 倍参数，内存占用约为传统 4-bit 模型的 1 / 4，文本 Token 生成速度则翻倍。 AIBase 4 小时前](https://www.aibase.com/zh/news/31349)
-8. [SeeAct AI 穆尧：具身智能终局，一定是从「被训练」走向「自我进化」｜物理 AI50 人 2026 年，穆尧做了一个更激进的选择：押注「具身自我进化」，创办 SeeAct AI 观行智能。以前大家觉得具身智能的数据很难 Scale Up，2024 年、2025 年，很多具身智能的报告开篇都在讲数据短缺，但当大家找到像 UMI、手持式夹爪这种比较合适的数据采集方式以后，你会发现到百万小时的速度比很多人的预期快。有人在社交媒体上质疑「具身 RSI」，认为这不过是包装出来的新概念，自我进化太远、递归自我提升太虚。 雷锋网 2 小时前](https://www.leiphone.com/category/ai/k1XGdu6w3n7xGgKB.html)
-9. [Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能 科技媒体 The Verge 指出，本次发布会的清晰趋势是 Meta 正把 AI、智能眼镜与 VR 硬件结合，而对「元宇宙」的讨论明显减少。硬件方面，Meta 首次推出不带摄像头的音频智能眼镜 Ray-Ban Meta Audio Glasses，起售价 349 美元，无法拍摄周围环境，是公司针对隐私争议的新形态尝试。这款眼镜重约 43 克，支持听歌、播客、通话及音频操作 AI 助手，单次充电续航最长 12 小时，是 Meta 目前续航最长的智能眼镜，搭配充电盒还可额外提供 48 小时。 AIBase 4 小时前](https://www.aibase.com/zh/news/31346)
-10. [华为小艺 Work 正式上线：7×24 小时养成系助理，支持一句话做 PPT 与数据分析 华为宣布小艺 Work 正式上线，定位为 7×24 小时专属养成系助理，支持鸿蒙手机、平板和电脑，并可实现跨设备协同。能力层面，小艺 Work 覆盖市场调研、文档处理、PPT 制作、数据分析、内容创作、代码开发等场景。执行环境上，小艺 Work 同时支持云电脑和本地电脑，可根据任务所需软件、文件及工作环境灵活选择，云电脑方案让任务得以脱离本地设备的算力与软件环境限制持续运行。 AIBase 5 小时前](https://www.aibase.com/zh/news/31343)
+1. [一家机器人数据公司关门，创始人复盘：卖数据撑不起一家独立公司](https://www.mittrchina.com/news/detail/17011)
+2. [AGI 时代真的来了？可能只是炒作](https://www.mittrchina.com/news/detail/17009)
+3. [首部上星 AI 长剧《后西游记》幕后：没有摄影机，100% 画面由 Seedance 生成，单集成本压到十几万](https://www.aibase.com/zh/news/31357)
+4. [AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样](https://www.mittrchina.com/news/detail/17008)
+5. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌](https://www.aibase.com/zh/news/31341)
+6. [蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账](https://www.aibase.com/zh/news/31356)
+7. [谷歌确认新一代旗舰 Gemini 4 即将推出：已进入后训练，有望远早于年底](https://www.aibase.com/zh/news/31350)
+8. [高通联手 PrismML 发布 1-bit Bonsai：AI 眼镜离线识图，内存占用降到 1 / 4](https://www.aibase.com/zh/news/31349)
+9. [SeeAct AI 穆尧：具身智能终局，一定是从「被训练」走向「自我进化」｜物理 AI50 人](https://www.leiphone.com/category/ai/k1XGdu6w3n7xGgKB.html)
+10. [Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能](https://www.aibase.com/zh/news/31346)
