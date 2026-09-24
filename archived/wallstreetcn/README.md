@@ -1,15 +1,18 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-25 06:49:17
+> 更新时间：2026-09-25 07:08:44
 
 ## 7x24
 
-1. [周五亚太盘初，NYMEX天然气期货跌4%，至3.156美元/百万英热单位单位附近。](https://wallstreetcn.com/livenews/3170648)
-2. [美国总统特朗普、众议院议长约翰逊将于9月29日与科技界CEO们开会，讨论AI问题。（Axios）](https://wallstreetcn.com/livenews/3170647)
-3. [OpenAI正准备在未来几天预览其最新的网络安全专用模型GPT-6 Cyber。
+1. [英国9月GfK消费者信心指数 -13，预期 -16，前值 -14。](https://wallstreetcn.com/livenews/3170651)
+2. [俄称控制多个定居点，乌称击落多架无人机](https://wallstreetcn.com/livenews/3170650)
+3. [落实“两国方案”高级别国际会议召开](https://wallstreetcn.com/livenews/3170649)
+4. [周五亚太盘初，NYMEX天然气期货跌4%，至3.156美元/百万英热单位单位附近。](https://wallstreetcn.com/livenews/3170648)
+5. [美国总统特朗普、众议院议长约翰逊将于9月29日与科技界CEO们开会，讨论AI问题。（Axios）](https://wallstreetcn.com/livenews/3170647)
+6. [OpenAI正准备在未来几天预览其最新的网络安全专用模型GPT-6 Cyber。
 
 该公司还将发布一款新产品，帮助客户以更安全、自动化的方式部署GPT-6 Cyber。（财富杂志）](https://wallstreetcn.com/livenews/3170646)
-4. [伊朗总统佩泽希齐扬： 我们从未谋求战争，现在也不想要战争。
+7. [伊朗总统佩泽希齐扬： 我们从未谋求战争，现在也不想要战争。
 
 我深信人类不应互相残杀。但凡可以通过对话解决问题，就不该诉诸杀戮。
 
@@ -18,13 +21,13 @@
 我们并不希望战事持续。
 
 是否结束冲突，决定权在美国。](https://wallstreetcn.com/livenews/3170645)
-5. [美国30年期固定抵押贷款利率周四大幅跳升至7.45%](https://wallstreetcn.com/livenews/3170644)
-6. [习近平和彭丽媛将出席特朗普总统夫妇举行的欢迎宴会](https://wallstreetcn.com/livenews/3170643)
-7. [英国外交大臣米利班德警告伊朗外长阿拉格齐，英国“不会容忍在英国领土上的敌对活动”。](https://wallstreetcn.com/livenews/3170642)
-8. [法国拟召集七国集团商讨释放战略石油储备](https://wallstreetcn.com/livenews/3170641)
-9. [提醒：日内请重点关注（以下均为北京时间）](https://wallstreetcn.com/livenews/3170640)
-10. [秘鲁部长称，中国金兆将于2027年启动秘鲁港口建设](https://wallstreetcn.com/livenews/3170639)
-11. [伊朗总统佩泽希齐扬：也门胡塞武装队他们自己的行动负责。
+8. [美国30年期固定抵押贷款利率周四大幅跳升至7.45%](https://wallstreetcn.com/livenews/3170644)
+9. [习近平和彭丽媛将出席特朗普总统夫妇举行的欢迎宴会](https://wallstreetcn.com/livenews/3170643)
+10. [提醒：日内请重点关注（以下均为北京时间）](https://wallstreetcn.com/livenews/3170640)
+11. [英国外交大臣米利班德警告伊朗外长阿拉格齐，英国“不会容忍在英国领土上的敌对活动”。](https://wallstreetcn.com/livenews/3170642)
+12. [法国拟召集七国集团商讨释放战略石油储备](https://wallstreetcn.com/livenews/3170641)
+13. [秘鲁部长称，中国金兆将于2027年启动秘鲁港口建设](https://wallstreetcn.com/livenews/3170639)
+14. [伊朗总统佩泽希齐扬：也门胡塞武装队他们自己的行动负责。
 
 并没有与胡塞武装联系并授意对方（针对沙特等）采取行动。
 
@@ -35,59 +38,46 @@
 我们不想要任何核弹。
 
 我们...](https://wallstreetcn.com/livenews/3170638)
-12. [秘鲁计划出台举措加快矿业投资落地。（Comercio）](https://wallstreetcn.com/livenews/3170637)
-13. [Anthropic为联合创始人寻求投票控制权。（The Information）](https://wallstreetcn.com/livenews/3170636)
-14. [美国总统特使Witkoff会见俄罗斯官员Dmitriev。（CNN）](https://wallstreetcn.com/livenews/3170635)
-15. [秘鲁能矿部长：欢迎中企扩大在秘能矿领域投资](https://wallstreetcn.com/livenews/3170633)
-16. [周四（9月24日）纽约尾盘，欧元兑美元跌0.05%，英镑兑美元跌0.20%，美元兑瑞郎涨0.32%。
+15. [秘鲁计划出台举措加快矿业投资落地。（Comercio）](https://wallstreetcn.com/livenews/3170637)
+16. [Anthropic为联合创始人寻求投票控制权。（The Information）](https://wallstreetcn.com/livenews/3170636)
+17. [美国总统特使Witkoff会见俄罗斯官员Dmitriev。（CNN）](https://wallstreetcn.com/livenews/3170635)
+18. [秘鲁能矿部长：欢迎中企扩大在秘能矿领域投资](https://wallstreetcn.com/livenews/3170633)
+19. [周四（9月24日）纽约尾盘，欧元兑美元跌0.05%，英镑兑美元跌0.20%，美元兑瑞郎涨0.32%。
 
 商品货币对中，澳元兑美元跌0.35%，纽元兑美元跌0.16%，美元兑加元涨0.29%。
 
 瑞典克朗兑美元跌0.15%，挪威克朗兑美...](https://wallstreetcn.com/livenews/3170632)
-17. [哥伦比亚宣布与伊朗断交](https://wallstreetcn.com/livenews/3170631)
-18. [富时A50期指连续夜盘收涨0.03%，报14318点。](https://wallstreetcn.com/livenews/3170629)
-19. [Anthropic生物学发现引发科学家谨慎表态](https://wallstreetcn.com/livenews/3170627)
-20. [阿根廷总统：若英国移交控制权，阿方不会驱逐福克兰群岛居民](https://wallstreetcn.com/livenews/3170626)
-21. [周四（9月24日）纽约尾盘，标普500股指期货最终跌0.12%，道指期货跌0.39%，纳斯达克100股指期货跌0.07%。
+20. [哥伦比亚宣布与伊朗断交](https://wallstreetcn.com/livenews/3170631)
+21. [富时A50期指连续夜盘收涨0.03%，报14318点。](https://wallstreetcn.com/livenews/3170629)
+22. [Anthropic生物学发现引发科学家谨慎表态](https://wallstreetcn.com/livenews/3170627)
+23. [阿根廷总统：若英国移交控制权，阿方不会驱逐福克兰群岛居民](https://wallstreetcn.com/livenews/3170626)
+24. [周四（9月24日）纽约尾盘，标普500股指期货最终跌0.12%，道指期货跌0.39%，纳斯达克100股指期货跌0.07%。
 
 罗素2000股指期货跌0.17%。](https://wallstreetcn.com/livenews/3170625)
-22. [周四（9月24日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7159元，较周三纽约尾盘跌44点，日内整体交投于6.7101-6.7201元区间。](https://wallstreetcn.com/livenews/3170624)
-23. [对冲基金Situational Awareness今年成为高盛最大客户](https://wallstreetcn.com/livenews/3170623)
-24. [周四（9月24日）纽约尾盘，现货黄金跌0.37%，报4271.49美元/盎司。
+25. [周四（9月24日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7159元，较周三纽约尾盘跌44点，日内整体交投于6.7101-6.7201元区间。](https://wallstreetcn.com/livenews/3170624)
+26. [对冲基金Situational Awareness今年成为高盛最大客户](https://wallstreetcn.com/livenews/3170623)
+27. [周四（9月24日）纽约尾盘，现货黄金跌0.37%，报4271.49美元/盎司。
 
 现货白银跌1%，报63.7915美元/盎司。
 
 COMEX铜期货涨0.16%，报6.7645美元/磅。
 
 在美股时段交易的费城金银指数收跌1.53%，报...](https://wallstreetcn.com/livenews/3170622)
-25. [美国银行策略师Raghav Adlakha表示：要让套息交易继续奏效，我们需要利率波动率走低，理想情况下美国利率保持区间震荡。
+28. [美国银行策略师Raghav Adlakha表示：要让套息交易继续奏效，我们需要利率波动率走低，理想情况下美国利率保持区间震荡。
 
 如果这种情况发生的同时油价低于100美元，那么这一主题还能卷土重来。（彭博）](https://wallstreetcn.com/livenews/3170620)
-26. [美债暴跌威胁新兴市场套息交易，花旗选择撤退](https://wallstreetcn.com/livenews/3170619)
-27. [中美元首夫人参观国立亚洲艺术博物馆](https://wallstreetcn.com/livenews/3170618)
-28. [联合国机构：加沙重建需要约715亿美元](https://wallstreetcn.com/livenews/3170617)
-29. [明晟公司MSCI新兴市场股票指数跌0.4%，发展中国家外汇指数跌0.9%。](https://wallstreetcn.com/livenews/3170616)
-30. [北美科技软件股指数ETF跌0.88%，报107.15美元。
+29. [美债暴跌威胁新兴市场套息交易，花旗选择撤退](https://wallstreetcn.com/livenews/3170619)
+30. [中美元首夫人参观国立亚洲艺术博物馆](https://wallstreetcn.com/livenews/3170618)
+31. [联合国机构：加沙重建需要约715亿美元](https://wallstreetcn.com/livenews/3170617)
+32. [明晟公司MSCI新兴市场股票指数跌0.4%，发展中国家外汇指数跌0.9%。](https://wallstreetcn.com/livenews/3170616)
+33. [北美科技软件股指数ETF跌0.88%，报107.15美元。
 
 Global X网络安全ETF跌1%，纳斯达克网络安全ETF跌0.79%，ETFMG网络安全ETF跌1.52%。](https://wallstreetcn.com/livenews/3170615)
-31. [北约秘书长：欧洲炼油产能萎缩令人担忧](https://wallstreetcn.com/livenews/3170613)
-32. [标普500指数的11个板块中，公用事业、原材料板块至多收跌1.02%，信息技术/科技板块跌0.32%，能源板块涨0.43%，电信板块涨1.92%——成分股Meta收涨4.5%领跑、谷歌A涨超1.3%。](https://wallstreetcn.com/livenews/3170610)
-33. [周四（9月24日），美股行业ETF多数收跌，公用事业ETF收跌0.98%，科技行业ETF、全球科技股指数ETF、半导体ETF至多跌0.32%，能源业ETF涨0.37%，网络股指数ETF涨0.77%，区域银行ETF涨0.8%，生物科技指...](https://wallstreetcn.com/livenews/3170609)
-34. [20+年期美债ETF收跌约1.3%，领跌美股大类资产类ETF，布油基金涨超2.4%](https://wallstreetcn.com/livenews/3170608)
-35. [明晟公司（MSCI）：将加拿大证券交易所纳入 MSCI 全球可投资市场指数编制方法中加拿大的合格证券交易所名单。](https://wallstreetcn.com/livenews/3170607)
-36. [习近平同美国总统特朗普会谈](https://wallstreetcn.com/livenews/3170606)
-37. [美国10年期国债收益率涨穿5.2%，为2007年以来首次](https://wallstreetcn.com/livenews/3170605)
-38. [报道：蓝色起源按1400亿美元估值融资100亿美元](https://wallstreetcn.com/livenews/3170604)
-39. [以色列总理联大发言，多国代表集体退场](https://wallstreetcn.com/livenews/3170603)
-40. [Anthropic与Akamai达成将近120亿美元AI算力协议](https://wallstreetcn.com/livenews/3170602)
-41. [印度允许投资组合管理人投资海外证券并做空股票](https://wallstreetcn.com/livenews/3170601)
-42. [Gen Digital收跌12%，创2022年以来最大单日跌幅。](https://wallstreetcn.com/livenews/3170600)
-43. [纳斯达克金龙中国指数收跌0.67%，报5724.41点。
-
-热门中概股里，再鼎医药初步收跌4.3%，大全新能源跌3.5%，晶科能源跌2.7%，百度跌1.8%，拼多多跌1.3%，腾讯、日月光半导体跌0.8%，阿里巴巴跌0.1%，小米涨0...](https://wallstreetcn.com/livenews/3170599)
-44. [标普500指数收跌1.90点，跌幅0.02%，报7704.13点。
-
-道琼斯工业平均指数收跌161.61点，跌幅0.31%，连续三个交易日下挫，报51349.98点。
-
-纳斯达克综合指数（纳指）收涨3.336点，涨幅0.01%，报26...](https://wallstreetcn.com/livenews/3170598)
-45. [墨西哥总统辛鲍姆：墨西哥将与韩国在人工智能、电动出行领域开展合作。](https://wallstreetcn.com/livenews/3170595)
+34. [北约秘书长：欧洲炼油产能萎缩令人担忧](https://wallstreetcn.com/livenews/3170613)
+35. [标普500指数的11个板块中，公用事业、原材料板块至多收跌1.02%，信息技术/科技板块跌0.32%，能源板块涨0.43%，电信板块涨1.92%——成分股Meta收涨4.5%领跑、谷歌A涨超1.3%。](https://wallstreetcn.com/livenews/3170610)
+36. [周四（9月24日），美股行业ETF多数收跌，公用事业ETF收跌0.98%，科技行业ETF、全球科技股指数ETF、半导体ETF至多跌0.32%，能源业ETF涨0.37%，网络股指数ETF涨0.77%，区域银行ETF涨0.8%，生物科技指...](https://wallstreetcn.com/livenews/3170609)
+37. [20+年期美债ETF收跌约1.3%，领跌美股大类资产类ETF，布油基金涨超2.4%](https://wallstreetcn.com/livenews/3170608)
+38. [明晟公司（MSCI）：将加拿大证券交易所纳入 MSCI 全球可投资市场指数编制方法中加拿大的合格证券交易所名单。](https://wallstreetcn.com/livenews/3170607)
+39. [习近平同美国总统特朗普会谈](https://wallstreetcn.com/livenews/3170606)
+40. [美国10年期国债收益率涨穿5.2%，为2007年以来首次](https://wallstreetcn.com/livenews/3170605)
+41. [报道：蓝色起源按1400亿美元估值融资100亿美元](https://wallstreetcn.com/livenews/3170604)
