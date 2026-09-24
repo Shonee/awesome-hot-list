@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-25 07:34:18
+> 更新时间：2026-09-25 07:48:00
 
 ## 7x24
 
@@ -73,8 +73,3 @@ COMEX铜期货涨0.16%，报6.7645美元/磅。
 33. [美债暴跌威胁新兴市场套息交易，花旗选择撤退](https://wallstreetcn.com/livenews/3170619)
 34. [中美元首夫人参观国立亚洲艺术博物馆](https://wallstreetcn.com/livenews/3170618)
 35. [联合国机构：加沙重建需要约715亿美元](https://wallstreetcn.com/livenews/3170617)
-36. [明晟公司MSCI新兴市场股票指数跌0.4%，发展中国家外汇指数跌0.9%。](https://wallstreetcn.com/livenews/3170616)
-37. [北美科技软件股指数ETF跌0.88%，报107.15美元。
-
-Global X网络安全ETF跌1%，纳斯达克网络安全ETF跌0.79%，ETFMG网络安全ETF跌1.52%。](https://wallstreetcn.com/livenews/3170615)
-38. [北约秘书长：欧洲炼油产能萎缩令人担忧](https://wallstreetcn.com/livenews/3170613)
