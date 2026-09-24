@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-24 09:39:53
+> 更新时间：2026-09-24 16:39:41
 
 ## 每日趋势
 
@@ -36,7 +36,7 @@
 10. [orca](https://github.com/stablyai/orca)
 11. [claude-code-templates](https://github.com/davila7/claude-code-templates)
 12. [quiche](https://github.com/cloudflare/quiche)
-13. [LibreChat](https://github.com/danny-avila/LibreChat)
+13. [LibreChat](https://github.com/LibreChat-AI/LibreChat)
 14. [cline](https://github.com/cline/cline)
 15. [pytorch](https://github.com/pytorch/pytorch)
 16. [cilium](https://github.com/cilium/cilium)
