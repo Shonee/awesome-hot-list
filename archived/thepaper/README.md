@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-24 09:31:45
+> 更新时间：2026-09-24 10:31:59
 
 ## 热新闻
 
@@ -10,8 +10,8 @@
 4. [临近中秋，月饼卖得怎么样？记者线下实探](https://www.thepaper.cn/newsDetail_forward_34134538)
 5. [马上评｜舆论场中的“防御式道歉”为何越来越多了](https://www.thepaper.cn/newsDetail_forward_34134080)
 6. [苹果限制“摇一摇”跳转广告？最新iOS测试版允许用户限制App读取相关信息](https://www.thepaper.cn/newsDetail_forward_34131951)
-7. [AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本](https://www.thepaper.cn/newsDetail_forward_34130539)
-8. [马上评｜月饼卖不动了？其实是回归理性了](https://www.thepaper.cn/newsDetail_forward_34131142)
+7. [马上评｜月饼卖不动了？其实是回归理性了](https://www.thepaper.cn/newsDetail_forward_34131142)
+8. [AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本](https://www.thepaper.cn/newsDetail_forward_34130539)
 9. [特朗普总统抵达机场，迎接习近平主席到访](https://www.thepaper.cn/newsDetail_forward_34137674)
 10. [被指涉色情引流，闲鱼公布调查结果](https://www.thepaper.cn/newsDetail_forward_34130853)
 11. [国足主帅邵佳一：需要严肃对待马尔代夫，不能给对手任何机会](https://www.thepaper.cn/newsDetail_forward_34133131)

@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-24 09:32:42
+> 更新时间：2026-09-24 10:32:28
 
 ## Hottest
 
@@ -21,11 +21,11 @@
 15. [That About Wraps It Up for Stock Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
 16. [Latest BGP hijack targets hosting software vendor](https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/)
 17. [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
-18. [Why you should check your gem's lines of code](https://spinel.coop/blog/why-you-should-check-your-gems-lines-of-code/)
-19. [Parsing JSON Objects without intermediate ASTs](https://arthi-chaud.github.io/posts/json-ir/)
-20. [How to talk about "AI" without adding to the anthropomorphization](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/)
-21. [Sandboxing with minimal effort](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/)
-22. [tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/)
-23. [FLAWED’s Flaws and What This Means for Industry Research — Suha Sabi Hussain](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
-24. [Jev-powered autocorrection](https://levmiseri.com/nospace)
-25. [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/)
+18. [Automatically detecting AI text in my browser](https://www.seangoedecke.com/deckard/)
+19. [FLAWED’s Flaws and What This Means for Industry Research — Suha Sabi Hussain](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
+20. [Why you should check your gem's lines of code](https://spinel.coop/blog/why-you-should-check-your-gems-lines-of-code/)
+21. [Parsing JSON Objects without intermediate ASTs](https://arthi-chaud.github.io/posts/json-ir/)
+22. [Sandboxing with minimal effort](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/)
+23. [How to talk about "AI" without adding to the anthropomorphization](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/)
+24. [We just shipped support for the ugliest part of HTTP: Vary](https://blog.cloudflare.com/vary-support/)
+25. [tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/)
