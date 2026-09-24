@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-25 02:27:39
+> 更新时间：2026-09-25 03:18:59
 
 ## 热新闻
 
@@ -21,6 +21,6 @@
 15. [澎湃读报｜人民日报整版刊文：上海历史性解决“拎马桶”问题的调查与思考](https://www.thepaper.cn/newsDetail_forward_34132924)
 16. [商务部：中美第八轮经贸磋商达成多项共识](https://www.thepaper.cn/newsDetail_forward_34141091)
 17. [油价调控再出手！国家半年四次压缩成品油涨幅，本轮涨幅砍半](https://www.thepaper.cn/newsDetail_forward_34142908)
-18. [OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险](https://www.thepaper.cn/newsDetail_forward_34139046)
-19. [王陆进任河南省代省长](https://www.thepaper.cn/newsDetail_forward_34139897)
-20. [习近平在白宫欢迎仪式上的致辞（全文）](https://www.thepaper.cn/newsDetail_forward_34144356)
+18. [习近平在白宫欢迎仪式上的致辞（全文）](https://www.thepaper.cn/newsDetail_forward_34144356)
+19. [OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险](https://www.thepaper.cn/newsDetail_forward_34139046)
+20. [王陆进任河南省代省长](https://www.thepaper.cn/newsDetail_forward_34139897)

@@ -1,8 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-25 02:50:18
+> 更新时间：2026-09-25 03:19:57
 
-## 7x24
+## 首页头条
 
-1. [谷歌推出搭载实时虚拟形象功能的Gemini 3.8 Live](https://m.yicai.com/brief/103378119.html)
-2. [欧洲主要股指收盘集体下跌](https://m.yicai.com/brief/103378117.html)
+1. [“请3休13”催热双节出行，长线旅行受青睐](https://www.yicai.com/news/103377668.html)
+2. [修飞机、做牙模、拧螺丝！世赛专用的这些工具有多强](https://www.yicai.com/news/103377795.html)
+3. [北京官宣现房销售细则：新老项目划断、土地款可分期](https://www.yicai.com/news/103377931.html)
+4. [多所高校密集调整院系专业，未来学科专业如何调整](https://www.yicai.com/news/103377660.html)
+5. [硬科技主导A股前三季度IPO，120只新股募资2109亿](https://www.yicai.com/news/103377693.html)

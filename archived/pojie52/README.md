@@ -1,25 +1,25 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-25 02:27:32
+> 更新时间：2026-09-25 03:18:52
 
 ## 人气热门
 
-1. [聚合书源小说下载器 sonovel v1.11.0](https://www.52pojie.cn/thread-2129296-1-1.html)
-2. [发票/车票/证件打印工具(主要用于打印发票、火车票一键合并在A4上打印)](https://www.52pojie.cn/thread-2129557-1-1.html)
-3. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
-4. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
-5. [自动点击工具（图片识别与坐标点击）V2.0版](https://www.52pojie.cn/thread-2129133-1-1.html)
-6. [豆包输入法  V0.9.0](https://www.52pojie.cn/thread-2129058-1-1.html)
-7. [剪映国际版 CapCut v9.5.0.4050](https://www.52pojie.cn/thread-2129472-1-1.html)
-8. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
-9. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
-10. [SpeedTest-1.2.3](https://www.52pojie.cn/thread-2127678-1-1.html)
-11. [右键菜单管理 ContextMenuManager v4.0.0.8 qqycra 修改版本](https://www.52pojie.cn/thread-2128795-1-1.html)
-12. [MobaXterm 26.5 中文汉化版](https://www.52pojie.cn/thread-2128457-1-1.html)
-13. [微信Windows版 v4.1.15.50多开&消息防撤回公测版绿色版x64位（9.24更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
-14. [青简输入法 0.1.4正式版（2026年9月24日更新）](https://www.52pojie.cn/thread-2128786-1-1.html)
-15. [WinRAR 7.30 beta1_x64 简体中文汉化版](https://www.52pojie.cn/thread-2127514-1-1.html)
-16. [本地模型 快捷截图OCR工具（自动写入粘贴板）更新v1.1](https://www.52pojie.cn/thread-2128632-1-1.html)
+1. [微信Windows版 v4.1.15.50多开&消息防撤回公测版绿色版x64位（9.24更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
+2. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
+3. [本地模型 快捷截图OCR工具（自动写入粘贴板）更新v1.1](https://www.52pojie.cn/thread-2128632-1-1.html)
+4. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
+5. [剪映国际版 CapCut v9.5.0.4050](https://www.52pojie.cn/thread-2129472-1-1.html)
+6. [WinRAR 7.30 beta1_x64 简体中文汉化版](https://www.52pojie.cn/thread-2127514-1-1.html)
+7. [聚合书源小说下载器 sonovel v1.11.0](https://www.52pojie.cn/thread-2129296-1-1.html)
+8. [发票/车票/证件打印工具(主要用于打印发票、火车票一键合并在A4上打印)](https://www.52pojie.cn/thread-2129557-1-1.html)
+9. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
+10. [自动点击工具（图片识别与坐标点击）V2.0版](https://www.52pojie.cn/thread-2129133-1-1.html)
+11. [豆包输入法  V0.9.0](https://www.52pojie.cn/thread-2129058-1-1.html)
+12. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
+13. [SpeedTest-1.2.3](https://www.52pojie.cn/thread-2127678-1-1.html)
+14. [右键菜单管理 ContextMenuManager v4.0.0.8 qqycra 修改版本](https://www.52pojie.cn/thread-2128795-1-1.html)
+15. [MobaXterm 26.5 中文汉化版](https://www.52pojie.cn/thread-2128457-1-1.html)
+16. [青简输入法 0.1.4正式版（2026年9月24日更新）](https://www.52pojie.cn/thread-2128786-1-1.html)
 17. [软件导航网址收藏工具箱V260921](https://www.52pojie.cn/thread-2128345-1-1.html)
 18. [鼠标自动点击工具 AutoClick v1.5.5](https://www.52pojie.cn/thread-2128494-1-1.html)
 19. [小米互联服务 2.0.2.524](https://www.52pojie.cn/thread-2129306-1-1.html)
@@ -57,12 +57,12 @@
 
 ## 精华采撷
 
-1. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-2. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-3. [web逆向基础知识--- js 事件 事件循环 和异步](https://www.52pojie.cn/thread-2111598-1-1.html)
-4. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-5. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-6. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+1. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+2. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+3. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+4. [web逆向基础知识--- js 事件 事件循环 和异步](https://www.52pojie.cn/thread-2111598-1-1.html)
+5. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
+6. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 7. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
 8. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
 9. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
