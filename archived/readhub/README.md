@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-24 22:24:15
+> 更新时间：2026-09-24 23:22:49
 
 ## 24 小时热榜
 
@@ -26,8 +26,8 @@
 20. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
 21. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
 22. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
-23. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
-24. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
+23. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
+24. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
 25. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
 26. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
 27. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)

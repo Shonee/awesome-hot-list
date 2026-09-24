@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-09-24 22:24:54
+> 更新时间：2026-09-24 23:23:26
 
 ## 每日热点榜
 
@@ -17,22 +17,21 @@
 11. [三十余款新车节前扎堆上市](https://chejiahao.autohome.com.cn/info/26509357#pvareaid=6834132)
 12. [全新深蓝S07接入豆包模型](https://chejiahao.autohome.com.cn/info/26520360#pvareaid=6834132)
 13. [捷途旅行者7预售14.99万起](http://www.autohome.com.cn/news/202609/1317398.html)
-14. [凯迪拉克XT5 PHEV开启交付](http://www.autohome.com.cn/news/202609/1317396.html)
-15. [长城大狗系列混动版车型官图公布](http://www.autohome.com.cn/news/202609/1317394.html)
-16. [阿维塔T09全球首秀定档10月11日](http://www.autohome.com.cn/news/202609/1317412.html)
-17. [奔腾小马新增宁德时代电池车型](https://chejiahao.autohome.com.cn/info/26530206#pvareaid=6834132)
-18. [日产Pixo官图曝光](http://www.autohome.com.cn/news/202609/1317403.html)
+14. [阿维塔T09全球首秀定档10月11日](http://www.autohome.com.cn/news/202609/1317412.html)
+15. [凯迪拉克XT5 PHEV开启交付](http://www.autohome.com.cn/news/202609/1317396.html)
+16. [长城大狗系列混动版车型官图公布](http://www.autohome.com.cn/news/202609/1317394.html)
+17. [日产Pixo官图曝光](http://www.autohome.com.cn/news/202609/1317403.html)
+18. [吉利智充用AI定义可持续快充](https://chejiahao.autohome.com.cn/info/26526500#pvareaid=6834132)
 19. [东风标致雪铁龙2027款SUV上市](http://www.autohome.com.cn/news/202609/1317370.html)
-20. [吉利智充用AI定义可持续快充](https://chejiahao.autohome.com.cn/info/26526500#pvareaid=6834132)
-21. [长安启源销量破百万辆](https://chejiahao.autohome.com.cn/info/26525563#pvareaid=6834132)
-22. [新款天逸C5 AIRCROSS实车亮相](http://www.autohome.com.cn/news/202609/1317355.html)
-23. [宾利纯电车起售价17.3万英镑](https://chejiahao.autohome.com.cn/info/26529357#pvareaid=6834132)
-24. [工信部旗下媒体：去宁德化论调要不得](http://club.autohome.com.cn/bbs/thread/01bac89ef5e0f8e2/116219747-1.html)
+20. [奔腾小马新增宁德时代电池版](https://chejiahao.autohome.com.cn/info/26530206#pvareaid=6834132)
+21. [长安启源销量破百万](https://chejiahao.autohome.com.cn/info/26525563#pvareaid=6834132)
+22. [宾利纯电车起售价17.3万英镑](https://chejiahao.autohome.com.cn/info/26529357#pvareaid=6834132)
+23. [新款天逸C5 AIRCROSS实车亮相](http://www.autohome.com.cn/news/202609/1317355.html)
+24. [MG4第20万辆整车下线](https://chejiahao.autohome.com.cn/info/26537153#pvareaid=6834132)
 25. [全新阿维塔9系10月巴黎车展首发](http://www.autohome.com.cn/news/202609/1317353.html)
 26. [埃安Ray7登上减免车辆购置税目录](http://www.autohome.com.cn/news/202609/1317365.html)
-27. [MG4第20万辆整车下线](https://chejiahao.autohome.com.cn/info/26537153#pvareaid=6834132)
-28. [严管速成车进入下一阶段](https://chejiahao.autohome.com.cn/info/26519119#pvareaid=6834132)
-29. [智界R7焕新款展车到店](http://club.autohome.com.cn/bbs/thread/cc4166a5342c34fa/116245064-1.html)
-30. [欣旺达：拟向国开行深圳分行申请1.02亿元借款](https://chejiahao.autohome.com.cn/info/26534692#pvareaid=6834132)
-31. [奥迪A6创续航吉尼斯纪录](https://chejiahao.autohome.com.cn/info/26535139#pvareaid=6834132)
-32. [李想回应i6延期：10月底才有合格证](https://chejiahao.autohome.com.cn/info/26535097#pvareaid=6834132)
+27. [严管速成车进入下一阶段](https://chejiahao.autohome.com.cn/info/26519119#pvareaid=6834132)
+28. [智界R7焕新款展车到店](http://club.autohome.com.cn/bbs/thread/cc4166a5342c34fa/116245064-1.html)
+29. [欣旺达：拟向国开行深圳分行申请1.02亿元借款](https://chejiahao.autohome.com.cn/info/26534692#pvareaid=6834132)
+30. [奥迪A6创续航吉尼斯纪录](https://chejiahao.autohome.com.cn/info/26535139#pvareaid=6834132)
+31. [李想回应i6延期：10月底才有合格证](https://chejiahao.autohome.com.cn/info/26535097#pvareaid=6834132)

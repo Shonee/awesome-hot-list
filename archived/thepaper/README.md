@@ -1,18 +1,18 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-24 22:24:16
+> 更新时间：2026-09-24 23:22:52
 
 ## 热新闻
 
 1. [习近平主席抵达华盛顿，80秒看美方高规格迎接](https://www.thepaper.cn/newsDetail_forward_34141792)
 2. [大外交·现场｜1962年后首次：美国总统亲赴机场迎接释放何种讯息？](https://www.thepaper.cn/newsDetail_forward_34138752)
 3. [特朗普总统抵达机场，迎接习近平主席到访](https://www.thepaper.cn/newsDetail_forward_34137674)
-4. [临近中秋，月饼卖得怎么样？记者线下实探](https://www.thepaper.cn/newsDetail_forward_34134538)
-5. [送别“济公”！表演艺术家游本昌今晨去世](https://www.thepaper.cn/newsDetail_forward_34139437)
-6. [“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能](https://www.thepaper.cn/newsDetail_forward_34132966)
-7. [纪念｜游本昌去世，他的济公留在了人间](https://www.thepaper.cn/newsDetail_forward_34139540)
-8. [马上评｜保障艾滋病感染者配偶知情权，生命高于片面隐私](https://www.thepaper.cn/newsDetail_forward_34139709)
-9. [澎湃回声｜泰康人寿已向患结肠癌男子理赔付款，此前称系“遗传性疾病”拒赔付](https://www.thepaper.cn/newsDetail_forward_34142641)
+4. [送别“济公”！表演艺术家游本昌今晨去世](https://www.thepaper.cn/newsDetail_forward_34139437)
+5. [“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能](https://www.thepaper.cn/newsDetail_forward_34132966)
+6. [纪念｜游本昌去世，他的济公留在了人间](https://www.thepaper.cn/newsDetail_forward_34139540)
+7. [马上评｜保障艾滋病感染者配偶知情权，生命高于片面隐私](https://www.thepaper.cn/newsDetail_forward_34139709)
+8. [澎湃回声｜泰康人寿已向患结肠癌男子理赔付款，此前称系“遗传性疾病”拒赔付](https://www.thepaper.cn/newsDetail_forward_34142641)
+9. [云南高院指令再审“家暴离婚被驳回”案：再审审查期间丈夫持刀重伤岳父母，足以证明感情已破裂](https://www.thepaper.cn/newsDetail_forward_34143631)
 10. [国乒男团不敌东道主日本队，无缘亚运乒乓首金](https://www.thepaper.cn/newsDetail_forward_34140481)
 11. [特朗普：将举行晚宴欢迎习主席到访，人人都想来，唯一遗憾是座位有限](https://www.thepaper.cn/newsDetail_forward_34139663)
 12. [中国国家话剧院表演艺术家、“济公”的扮演者游本昌去世](https://www.thepaper.cn/newsDetail_forward_34139563)
@@ -23,4 +23,4 @@
 17. [王陆进任河南省代省长](https://www.thepaper.cn/newsDetail_forward_34139897)
 18. [“十五五”时期将落实哪些举措推动旅游业发展？文旅部答澎湃](https://www.thepaper.cn/newsDetail_forward_34139935)
 19. [北京：商品房预售需封顶，优先选择现房销售](https://www.thepaper.cn/newsDetail_forward_34141651)
-20. [习近平抵达华盛顿对美国进行国事访问](https://www.thepaper.cn/newsDetail_forward_34138758)
+20. [王凯辞去河南省人民政府省长职务](https://www.thepaper.cn/newsDetail_forward_34139809)
