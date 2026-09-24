@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-24 13:22:20
+> 更新时间：2026-09-24 14:36:56
 
 ## 最新帖子
 
-1. [在 DuckDB 中执行假设检验](https://www.cnblogs.com/wang_yb/p/23108959)
-2. [ObjectSense：一门千行内核、把可靠性写进骨子里的面向对象脚本语言](https://www.cnblogs.com/codigger/p/23108330)
-3. [Elasticsearch的基本概念和指标](https://www.cnblogs.com/xiexj/p/23107204)
-4. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
-5. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)
-6. [开源一个基于 Rust 和 egui 开发的跨平台 SSH 客户端应用ssh-client](https://www.cnblogs.com/shiningrise/p/23104560)
-7. [聊聊 Blazor 里 Radzen 6.0.0 那几个用着别扭的官方组件](https://www.cnblogs.com/shenchuanchao/p/23077957/blazor-radzen-6-0-0-awkward-official-components)
-8. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
-9. [制造业质量追溯02：用 Oracle 26ai 属性图（Property Graph）搞定工业网状追溯](https://www.cnblogs.com/jyzhao/p/23104299)
-10. [Ubuntu 25.10 Server 部署 Claude Code 与 Agent 完整指南](https://www.cnblogs.com/Johny-zhao/p/23101767)
-11. [并发编程（四）：互斥锁的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23053554)
-12. [[深度学习] 大模型学习10-Agent基础原理与主流范式](https://www.cnblogs.com/luohenyueji/p/23100737)
-13. [[Agent Memory / 强化学习] MemPO源码学习笔记 ---（4）--- Rollout实现细节](https://www.cnblogs.com/rossiXYZ/p/22864294)
-14. [Apache Doris 高性能 Open Lake Variant 读写技术解析（含对比数据）](https://www.cnblogs.com/SelectDB/p/23099320)
-15. [宝塔面板+Nginx配置HTTP强制跳转HTTPS：解决网站不安全提示、重定向循环问题（适配CDN）](https://www.cnblogs.com/entaoer/p/23098999)
-16. [开多个 Agent 后 Claude Code 账单翻了 4 倍，一个配置解决了](https://www.cnblogs.com/uniqueDong/p/23098897)
-17. [百万订单的架构演化](https://www.cnblogs.com/liuzhang/p/23097040)
-18. [三维地球上的 500 个标注广告牌：DOM 与 Canvas 贴图的两条优化路线](https://www.cnblogs.com/ChineseLiao/p/23096233)
-19. [ELF 文件格式从魔数到动态链接：读懂 Linux 可执行文件的每一字节](https://www.cnblogs.com/yizhilaoxiaobai/p/23096174)
-20. [TensorSharp 支持 Jev 模式了：一次去噪，直接读出决策](https://www.cnblogs.com/shanyou/p/23096117)
+1. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
+2. [求内推-坐标武汉](https://www.cnblogs.com/blackman/p/23109851)
+3. [学习笔记 9——斜率优化dp](https://www.cnblogs.com/T-M-T/p/23109744)
+4. [在 DuckDB 中执行假设检验](https://www.cnblogs.com/wang_yb/p/23108959)
+5. [ObjectSense：一门千行内核、把可靠性写进骨子里的面向对象脚本语言](https://www.cnblogs.com/codigger/p/23108330)
+6. [Elasticsearch的基本概念和指标](https://www.cnblogs.com/xiexj/p/23107204)
+7. [WSL开发网络模式选择：NAT与镜像模式详解](https://www.cnblogs.com/gloamfox/p/23105545)
+8. [[人工撰写]AI时代工业数字化的迭代与落地--从AI底座到场景迁移的循环迭代](https://www.cnblogs.com/lsjwq/p/23105060)
+9. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
+10. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)
+11. [开源一个基于 Rust 和 egui 开发的跨平台 SSH 客户端应用ssh-client](https://www.cnblogs.com/shiningrise/p/23104560)
+12. [聊聊 Blazor 里 Radzen 6.0.0 那几个用着别扭的官方组件](https://www.cnblogs.com/shenchuanchao/p/23077957/blazor-radzen-6-0-0-awkward-official-components)
+13. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
+14. [制造业质量追溯02：用 Oracle 26ai 属性图（Property Graph）搞定工业网状追溯](https://www.cnblogs.com/jyzhao/p/23104299)
+15. [Ubuntu 25.10 Server 部署 Claude Code 与 Agent 完整指南](https://www.cnblogs.com/Johny-zhao/p/23101767)
+16. [并发编程（四）：互斥锁的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23053554)
+17. [[深度学习] 大模型学习10-Agent基础原理与主流范式](https://www.cnblogs.com/luohenyueji/p/23100737)
+18. [[Agent Memory / 强化学习] MemPO源码学习笔记 ---（4）--- Rollout实现细节](https://www.cnblogs.com/rossiXYZ/p/22864294)
+19. [Apache Doris 高性能 Open Lake Variant 读写技术解析（含对比数据）](https://www.cnblogs.com/SelectDB/p/23099320)
+20. [宝塔面板+Nginx配置HTTP强制跳转HTTPS：解决网站不安全提示、重定向循环问题（适配CDN）](https://www.cnblogs.com/entaoer/p/23098999)
 
 ## 精华帖子
 
