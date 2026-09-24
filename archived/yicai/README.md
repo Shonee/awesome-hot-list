@@ -1,6 +1,6 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-25 01:48:08
+> 更新时间：2026-09-25 02:12:12
 
 ## 7x24
 
@@ -14,7 +14,3 @@
 8. [美国天然气期货大涨逾6%](https://m.yicai.com/brief/103378104.html)
 9. [习近平将同美国总统特朗普会谈](https://m.yicai.com/brief/103378101.html)
 10. [阿里云百炼决策模型预览版上线，并支持Token Plan](https://m.yicai.com/brief/103378099.html)
-11. [WTI原油期货大涨4%](https://m.yicai.com/brief/103378095.html)
-12. [现货白银下跌2%](https://m.yicai.com/brief/103378093.html)
-13. [大熊猫“平平”“福双”将会落户美国亚特兰大动物园](https://m.yicai.com/brief/103378091.html)
-14. [习近平在白宫欢迎仪式上的致辞（全文）](https://m.yicai.com/brief/103378089.html)
