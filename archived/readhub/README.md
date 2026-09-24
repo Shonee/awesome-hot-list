@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-24 20:33:06
+> 更新时间：2026-09-24 21:22:59
 
 ## 24 小时热榜
 
@@ -28,12 +28,12 @@
 22. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
 23. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
 24. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
-25. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
-26. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
-27. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
-28. [Meta 推出个人智能体 Muse 重回 AI 领域竞争牌桌](https://readhub.cn/topic/8wemv2nUJy0?tab=daily)
+25. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
+26. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
+27. [Meta 推出个人智能体 Muse 重回 AI 领域竞争牌桌](https://readhub.cn/topic/8wemv2nUJy0?tab=daily)
+28. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
 29. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
-30. [三大运营商暂停金融分期业务，「0 元购机」全面停办新受理](https://readhub.cn/topic/8wgKaW2nZ5A?tab=daily)
+30. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
 
 ## 每日早报
 
@@ -53,7 +53,7 @@
 4. [AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样](https://www.mittrchina.com/news/detail/17008)
 5. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌](https://www.aibase.com/zh/news/31341)
 6. [蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账](https://www.aibase.com/zh/news/31356)
-7. [谷歌确认新一代旗舰 Gemini 4 即将推出：已进入后训练，有望远早于年底](https://www.aibase.com/zh/news/31350)
-8. [高通联手 PrismML 发布 1-bit Bonsai：AI 眼镜离线识图，内存占用降到 1 / 4](https://www.aibase.com/zh/news/31349)
-9. [SeeAct AI 穆尧：具身智能终局，一定是从「被训练」走向「自我进化」｜物理 AI50 人](https://www.leiphone.com/category/ai/k1XGdu6w3n7xGgKB.html)
-10. [Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能](https://www.aibase.com/zh/news/31346)
+7. [Contain the Chaos:「CONTROL Resonant」Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/)
+8. [谷歌确认新一代旗舰 Gemini 4 即将推出：已进入后训练，有望远早于年底](https://www.aibase.com/zh/news/31350)
+9. [高通联手 PrismML 发布 1-bit Bonsai：AI 眼镜离线识图，内存占用降到 1 / 4](https://www.aibase.com/zh/news/31349)
+10. [SeeAct AI 穆尧：具身智能终局，一定是从「被训练」走向「自我进化」｜物理 AI50 人](https://www.leiphone.com/category/ai/k1XGdu6w3n7xGgKB.html)
