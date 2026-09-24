@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-25 04:23:35
+> 更新时间：2026-09-25 05:20:19
 
 ## 热门文章
 
@@ -30,8 +30,8 @@
 24. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
 25. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
 26. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
-27. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
-28. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
+27. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
+28. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
 29. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
 30. [Antigravity + Blender MCP（上）：打造3D 智慧仓储数字孪生](https://juejin.cn/post/7688180809024651315)
 31. [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490)

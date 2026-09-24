@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-25 04:23:51
+> 更新时间：2026-09-25 05:20:35
 
 ## 24 小时热榜
 
@@ -22,10 +22,10 @@
 16. [腾讯 Marvis 定位升级「AI 管家」，支持用户管理个人设备和数字资产](https://readhub.cn/topic/8wg249e6tiO?tab=daily)
 17. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
 18. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
-19. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
-20. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
-21. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
-22. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
+19. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
+20. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
+21. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
+22. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
 23. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
 24. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
 25. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
@@ -50,10 +50,10 @@
 1. [一家机器人数据公司关门，创始人复盘：卖数据撑不起一家独立公司](https://www.mittrchina.com/news/detail/17011)
 2. [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)
 3. [How Open Science Can Help Researchers Prepare for the Next Pandemic](https://blogs.nvidia.com/blog/open-protein-dataset/)
-4. [AGI 时代真的来了？可能只是炒作](https://www.mittrchina.com/news/detail/17009)
-5. [首部上星 AI 长剧《后西游记》幕后：没有摄影机，100% 画面由 Seedance 生成，单集成本压到十几万](https://www.aibase.com/zh/news/31357)
-6. [AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样](https://www.mittrchina.com/news/detail/17008)
-7. [OpenAI、Anthropic 被要求在完成白宫测试之前不能给英国分享新模型](https://wallstreetcn.com/livenews/3170548)
-8. [CPU shortages hit cloud infrastructure as AI agent workloads drive demand surge](https://daily.dev/posts/the-pulse-a-new-trend-of-cpu-shortages-6yfwmynmb)
-9. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌](https://www.aibase.com/zh/news/31341)
-10. [蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账](https://www.aibase.com/zh/news/31356)
+4. [Anthropic signs $11.6bn Akamai cloud deal with warrant for 5% of Akamai stock](https://daily.dev/posts/anthropic-signs-11-6bn-akamai-cloud-deal-and-gets-warrant-for-5-of-akamai-p2zii26cu)
+5. [AGI 时代真的来了？可能只是炒作](https://www.mittrchina.com/news/detail/17009)
+6. [首部上星 AI 长剧《后西游记》幕后：没有摄影机，100% 画面由 Seedance 生成，单集成本压到十几万](https://www.aibase.com/zh/news/31357)
+7. [AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样](https://www.mittrchina.com/news/detail/17008)
+8. [OpenAI、Anthropic 被要求在完成白宫测试之前不能给英国分享新模型](https://wallstreetcn.com/livenews/3170548)
+9. [CPU shortages hit cloud infrastructure as AI agent workloads drive demand surge](https://daily.dev/posts/the-pulse-a-new-trend-of-cpu-shortages-6yfwmynmb)
+10. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌](https://www.aibase.com/zh/news/31341)
