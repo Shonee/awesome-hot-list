@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-25 00:25:17
+> 更新时间：2026-09-25 01:20:23
 
 ## 最新帖子
 
-1. [Halo插件：支持GitHub的图床附件策略](https://www.cnblogs.com/dominickk/p/23116100)
-2. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
-3. [华三VXLAN集中式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23115756)
-4. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
-5. [大 O、大 Omega、大 Theta 的区别，O(n) 复杂度是什么意思](https://www.cnblogs.com/moonout/p/23083800)
-6. [Java标签跳转：一个鲜为人知但却很实用的小技巧](https://www.cnblogs.com/jilodream/p/23115325)
-7. [多智能体系统论文速读](https://www.cnblogs.com/mianmaner/p/23110425)
-8. [Claude Code 把自己改成了任务调度器，这次设计比功能更值得看](https://www.cnblogs.com/uniqueDong/p/23114174)
-9. [基于DeepSeek API构建一个AI树木识别网站](https://www.cnblogs.com/zgzf/p/23113985/tree-identification)
-10. [git开发规范~深度阅读](https://www.cnblogs.com/lori/p/23113447)
-11. [从纸带打孔到AI自动编程：三十年亲历，见证编程范式的效率革命](https://www.cnblogs.com/yefanqiu/p/23111915)
-12. [知识不是文件，也不是向量 | KDC 系列 02](https://www.cnblogs.com/vivotech/p/23111756)
-13. [人大金仓V9系统表名字冲突，设置search_path不起作用](https://www.cnblogs.com/xiaoyu01/p/23111651)
-14. [Git 冲突全攻略：从原理到实战，一文打通所有场景](https://www.cnblogs.com/zrui-xyu/p/23111571)
-15. [用 OLED 给 STM32 做实时调试面板](https://www.cnblogs.com/zw-awa/p/23091967)
-16. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
-17. [学习NOTE 9——斜率优化dp](https://www.cnblogs.com/T-M-T/p/23109744)
-18. [在 DuckDB 中执行假设检验](https://www.cnblogs.com/wang_yb/p/23108959)
-19. [ObjectSense：一门千行内核、把可靠性写进骨子里的面向对象脚本语言](https://www.cnblogs.com/codigger/p/23108330)
-20. [Elasticsearch的基本概念和指标](https://www.cnblogs.com/xiexj/p/23107204)
+1. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
+2. [Halo插件：支持GitHub的图床附件策略](https://www.cnblogs.com/dominickk/p/23116100)
+3. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
+4. [华三VXLAN集中式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23115756)
+5. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
+6. [大 O、大 Omega、大 Theta 的区别，O(n) 复杂度是什么意思](https://www.cnblogs.com/moonout/p/23083800)
+7. [Java标签跳转：一个鲜为人知但却很实用的小技巧](https://www.cnblogs.com/jilodream/p/23115325)
+8. [多智能体系统论文速读](https://www.cnblogs.com/mianmaner/p/23110425)
+9. [Claude Code 把自己改成了任务调度器，这次设计比功能更值得看](https://www.cnblogs.com/uniqueDong/p/23114174)
+10. [基于DeepSeek API构建一个AI树木识别网站](https://www.cnblogs.com/zgzf/p/23113985/tree-identification)
+11. [git开发规范~深度阅读](https://www.cnblogs.com/lori/p/23113447)
+12. [从纸带打孔到AI自动编程：三十年亲历，见证编程范式的效率革命](https://www.cnblogs.com/yefanqiu/p/23111915)
+13. [知识不是文件，也不是向量 | KDC 系列 02](https://www.cnblogs.com/vivotech/p/23111756)
+14. [人大金仓V9系统表名字冲突，设置search_path不起作用](https://www.cnblogs.com/xiaoyu01/p/23111651)
+15. [Git 冲突全攻略：从原理到实战，一文打通所有场景](https://www.cnblogs.com/zrui-xyu/p/23111571)
+16. [用 OLED 给 STM32 做实时调试面板](https://www.cnblogs.com/zw-awa/p/23091967)
+17. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
+18. [学习NOTE 9——斜率优化dp](https://www.cnblogs.com/T-M-T/p/23109744)
+19. [在 DuckDB 中执行假设检验](https://www.cnblogs.com/wang_yb/p/23108959)
+20. [ObjectSense：一门千行内核、把可靠性写进骨子里的面向对象脚本语言](https://www.cnblogs.com/codigger/p/23108330)
 
 ## 精华帖子
 

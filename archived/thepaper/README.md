@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-25 00:25:30
+> 更新时间：2026-09-25 01:20:46
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [马上评｜保障艾滋病感染者配偶知情权，生命高于片面隐私](https://www.thepaper.cn/newsDetail_forward_34139709)
 8. [决赛田忌赛马？王楚钦：运动员只是执行者，不要揣测教练意图](https://www.thepaper.cn/newsDetail_forward_34142942)
 9. [澎湃回声｜泰康人寿已向患结肠癌男子理赔付款，此前称系“遗传性疾病”拒赔付](https://www.thepaper.cn/newsDetail_forward_34142641)
-10. [云南高院指令再审“家暴离婚被驳回”案：再审审查期间丈夫持刀重伤岳父母，足以证明感情已破裂](https://www.thepaper.cn/newsDetail_forward_34143631)
-11. [国乒男团不敌东道主日本队，无缘亚运乒乓首金](https://www.thepaper.cn/newsDetail_forward_34140481)
-12. [特朗普：将举行晚宴欢迎习主席到访，人人都想来，唯一遗憾是座位有限](https://www.thepaper.cn/newsDetail_forward_34139663)
-13. [中国国家话剧院表演艺术家、“济公”的扮演者游本昌去世](https://www.thepaper.cn/newsDetail_forward_34139563)
-14. [澎湃读报｜人民日报整版刊文：上海历史性解决“拎马桶”问题的调查与思考](https://www.thepaper.cn/newsDetail_forward_34132924)
-15. [商务部：中美第八轮经贸磋商达成多项共识](https://www.thepaper.cn/newsDetail_forward_34141091)
-16. [OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险](https://www.thepaper.cn/newsDetail_forward_34139046)
-17. [特朗普挥手目送习主席专车驶离：这是伟大时刻](https://www.thepaper.cn/newsDetail_forward_34139945)
-18. [王陆进任河南省代省长](https://www.thepaper.cn/newsDetail_forward_34139897)
-19. [油价调控再出手！国家半年四次压缩成品油涨幅，本轮涨幅砍半](https://www.thepaper.cn/newsDetail_forward_34142908)
+10. [谭案说法｜“非亲生”案中，受骗的抚养者被侵何权？](https://www.thepaper.cn/newsDetail_forward_34141770)
+11. [云南高院指令再审“家暴离婚被驳回”案：再审审查期间丈夫持刀重伤岳父母，足以证明感情已破裂](https://www.thepaper.cn/newsDetail_forward_34143631)
+12. [中国队战胜日本队，实现亚运女团六连冠](https://www.thepaper.cn/newsDetail_forward_34140550)
+13. [国乒男团不敌东道主日本队，无缘亚运乒乓首金](https://www.thepaper.cn/newsDetail_forward_34140481)
+14. [中国国家话剧院表演艺术家、“济公”的扮演者游本昌去世](https://www.thepaper.cn/newsDetail_forward_34139563)
+15. [澎湃读报｜人民日报整版刊文：上海历史性解决“拎马桶”问题的调查与思考](https://www.thepaper.cn/newsDetail_forward_34132924)
+16. [商务部：中美第八轮经贸磋商达成多项共识](https://www.thepaper.cn/newsDetail_forward_34141091)
+17. [油价调控再出手！国家半年四次压缩成品油涨幅，本轮涨幅砍半](https://www.thepaper.cn/newsDetail_forward_34142908)
+18. [OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险](https://www.thepaper.cn/newsDetail_forward_34139046)
+19. [王陆进任河南省代省长](https://www.thepaper.cn/newsDetail_forward_34139897)
 20. [北京：商品房预售需封顶，优先选择现房销售](https://www.thepaper.cn/newsDetail_forward_34141651)

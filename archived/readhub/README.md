@@ -1,13 +1,13 @@
 # Readhub热榜
 
-> 更新时间：2026-09-25 00:25:29
+> 更新时间：2026-09-25 01:20:44
 
 ## 24 小时热榜
 
 1. [罗永浩宣布播客暂停更新：卷进舆论漩涡，避免连累嘉宾](https://readhub.cn/topic/8we7NEHk9kJ?tab=daily)
 2. [王慧文发文称有意组局收购西贝，称不在乎其是否为预制菜](https://readhub.cn/topic/8wehodYvpKy?tab=daily)
-3. [前 Hack VC 合伙人被曝身亡，死前曾爆料公司迫其带病工作](https://readhub.cn/topic/8weiWpI6tXP?tab=daily)
-4. [OpenAI 上线 GPT-6 Sol 和 Luna，大幅下调模型价格](https://readhub.cn/topic/8weJWenjj4S?tab=daily)
+3. [OpenAI 上线 GPT-6 Sol 和 Luna，大幅下调模型价格](https://readhub.cn/topic/8weJWenjj4S?tab=daily)
+4. [前 Hack VC 合伙人被曝身亡，死前曾爆料公司迫其带病工作](https://readhub.cn/topic/8weiWpI6tXP?tab=daily)
 5. [马斯克称中国 AI 大模型单位算力产出性能几乎是全球顶尖水平](https://readhub.cn/topic/8weXq5gQvRb?tab=daily)
 6. [叮咚买菜关闭北京多个站点](https://readhub.cn/topic/8weFEkNLYcK?tab=daily)
 7. [王自如直播回应西贝风波 十二年后公开替罗永浩说话](https://readhub.cn/topic/8wczPuzGAtD?tab=daily)
@@ -23,11 +23,11 @@
 17. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
 18. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
 19. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
-20. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
-21. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
-22. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
-23. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
-24. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
+20. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
+21. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
+22. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
+23. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
+24. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
 25. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
 26. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
 27. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
