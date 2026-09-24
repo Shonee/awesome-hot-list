@@ -1,22 +1,22 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-24 15:27:33
+> 更新时间：2026-09-24 16:31:36
 
 ## Hottest
 
 1. [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html)
-2. [I want my mesh networks to be signed, not encrypted](https://andanti.no/blog/SignedMesh.html)
-3. [The Story of Mel](https://users.cs.utah.edu/~elb/folklore/mel.html)
+2. [The Story of Mel](https://users.cs.utah.edu/~elb/folklore/mel.html)
+3. [I want my mesh networks to be signed, not encrypted](https://andanti.no/blog/SignedMesh.html)
 4. [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
 5. [The GNOME LLM Policy That I Want](https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/)
 6. [KDE for People](https://kdeforpeople.com)
-7. [Beware overreliance on metaphor](https://evnm.substack.com/p/beware-overreliance-on-metaphor)
-8. [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
-9. [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
-10. [No Sloptober](https://no-sloptober.com/)
-11. [Pick OS is a Living Fossil of Computer History](https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557)
-12. [The Zig Journey](https://kristoff.it/blog/the-zig-journey/)
-13. [Automatically detecting AI text in my browser](https://www.seangoedecke.com/deckard/)
+7. [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
+8. [Beware overreliance on metaphor](https://evnm.substack.com/p/beware-overreliance-on-metaphor)
+9. [Pick OS is a Living Fossil of Computer History](https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557)
+10. [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
+11. [No Sloptober](https://no-sloptober.com/)
+12. [Automatically detecting AI text in my browser](https://www.seangoedecke.com/deckard/)
+13. [The Zig Journey](https://kristoff.it/blog/the-zig-journey/)
 14. [Do not let your type system reason about aliasing in your programming language](https://futhark-lang.org/blog/2026-09-22-aliasing.html)
 15. [Cheaper LLM labelling](https://entropicthoughts.com/cheaper-llm-labeling)
 16. [The GitHub wiki is an anti-pattern](https://michaelheap.com/github-wiki-is-an-antipattern/)

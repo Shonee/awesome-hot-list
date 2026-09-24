@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-24 15:26:51
+> 更新时间：2026-09-24 16:30:40
 
 ## 最新帖子
 
-1. [Git 冲突全攻略：从原理到实战，一文打通所有场景](https://www.cnblogs.com/zrui-xyu/p/23111571)
-2. [用 OLED 给 STM32 做实时调试面板](https://www.cnblogs.com/zw-awa/p/23091967)
-3. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
-4. [求内推-坐标武汉](https://www.cnblogs.com/blackman/p/23109851)
-5. [学习NOTE 9——斜率优化dp](https://www.cnblogs.com/T-M-T/p/23109744)
-6. [在 DuckDB 中执行假设检验](https://www.cnblogs.com/wang_yb/p/23108959)
-7. [ObjectSense：一门千行内核、把可靠性写进骨子里的面向对象脚本语言](https://www.cnblogs.com/codigger/p/23108330)
-8. [Elasticsearch的基本概念和指标](https://www.cnblogs.com/xiexj/p/23107204)
-9. [WSL开发网络模式选择：NAT与镜像模式详解](https://www.cnblogs.com/gloamfox/p/23105545)
-10. [[人工撰写]AI时代工业数字化的迭代与落地--从AI底座到场景迁移的循环迭代](https://www.cnblogs.com/lsjwq/p/23105060)
-11. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
-12. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)
-13. [开源一个基于 Rust 和 egui 开发的跨平台 SSH 客户端应用ssh-client](https://www.cnblogs.com/shiningrise/p/23104560)
-14. [聊聊 Blazor 里 Radzen 6.0.0 那几个用着别扭的官方组件](https://www.cnblogs.com/shenchuanchao/p/23077957/blazor-radzen-6-0-0-awkward-official-components)
-15. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
-16. [制造业质量追溯02：用 Oracle 26ai 属性图（Property Graph）搞定工业网状追溯](https://www.cnblogs.com/jyzhao/p/23104299)
-17. [Ubuntu 25.10 Server 部署 Claude Code 与 Agent 完整指南](https://www.cnblogs.com/Johny-zhao/p/23101767)
-18. [并发编程（四）：互斥锁的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23053554)
-19. [[深度学习] 大模型学习10-Agent基础原理与主流范式](https://www.cnblogs.com/luohenyueji/p/23100737)
-20. [[Agent Memory / 强化学习] MemPO源码学习笔记 ---（4）--- Rollout实现细节](https://www.cnblogs.com/rossiXYZ/p/22864294)
+1. [从纸带打孔到AI自动编程：三十年亲历，见证编程范式的效率革命](https://www.cnblogs.com/yefanqiu/p/23111915)
+2. [知识不是文件，也不是向量 | KDC 系列 02](https://www.cnblogs.com/vivotech/p/23111756)
+3. [人大金仓V9系统表名字冲突，设置search_path不起作用](https://www.cnblogs.com/xiaoyu01/p/23111651)
+4. [Git 冲突全攻略：从原理到实战，一文打通所有场景](https://www.cnblogs.com/zrui-xyu/p/23111571)
+5. [用 OLED 给 STM32 做实时调试面板](https://www.cnblogs.com/zw-awa/p/23091967)
+6. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
+7. [学习NOTE 9——斜率优化dp](https://www.cnblogs.com/T-M-T/p/23109744)
+8. [在 DuckDB 中执行假设检验](https://www.cnblogs.com/wang_yb/p/23108959)
+9. [ObjectSense：一门千行内核、把可靠性写进骨子里的面向对象脚本语言](https://www.cnblogs.com/codigger/p/23108330)
+10. [Elasticsearch的基本概念和指标](https://www.cnblogs.com/xiexj/p/23107204)
+11. [WSL开发网络模式选择：NAT与镜像模式详解](https://www.cnblogs.com/gloamfox/p/23105545)
+12. [[人工撰写]AI时代工业数字化的迭代与落地--从AI底座到场景迁移的循环迭代](https://www.cnblogs.com/lsjwq/p/23105060)
+13. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
+14. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)
+15. [开源一个基于 Rust 和 egui 开发的跨平台 SSH 客户端应用ssh-client](https://www.cnblogs.com/shiningrise/p/23104560)
+16. [聊聊 Blazor 里 Radzen 6.0.0 那几个用着别扭的官方组件](https://www.cnblogs.com/shenchuanchao/p/23077957/blazor-radzen-6-0-0-awkward-official-components)
+17. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
+18. [制造业质量追溯02：用 Oracle 26ai 属性图（Property Graph）搞定工业网状追溯](https://www.cnblogs.com/jyzhao/p/23104299)
+19. [Ubuntu 25.10 Server 部署 Claude Code 与 Agent 完整指南](https://www.cnblogs.com/Johny-zhao/p/23101767)
+20. [并发编程（四）：互斥锁的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23053554)
 
 ## 精华帖子
 
