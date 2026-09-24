@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-24 23:22:33
+> 更新时间：2026-09-25 00:25:17
 
 ## 最新帖子
 
@@ -52,7 +52,7 @@
 
 1. [C#: 爸爸再爱我一回! 写在微软使用Rust重写GitHub Copilot之后的碎碎念](https://www.cnblogs.com/waku/p/23091139)
 2. [AI 不仅仅埋葬了我的才华](https://www.cnblogs.com/liulun/p/23092153)
-3. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://www.cnblogs.com/nzbin/p/23015141)
-4. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
-5. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://www.cnblogs.com/jinjiangongzuoshi/p/23088780)
-6. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
+3. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
+4. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://www.cnblogs.com/jinjiangongzuoshi/p/23088780)
+5. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
+6. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)

@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-24 23:23:27
+> 更新时间：2026-09-25 00:26:09
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [国产大尺度游戏下架 关闭下载入口！此前曾和谐角色立绘](https://www.gamersky.com/news/202609/2215229.shtml)
 12. [《剑星》总监金亨泰访谈秒答 最坚持伊芙身材 勒痕晃动都要真实](https://www.gamersky.com/news/202609/2213932.shtml)
 13. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
-14. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
-15. [《巫师3：狂猎重制版》官方画面对比翻车！遭质疑：谁新谁旧啊？](https://www.gamersky.com/news/202609/2216385.shtml)
+14. [《巫师3：狂猎重制版》官方画面对比翻车！遭质疑：谁新谁旧啊？](https://www.gamersky.com/news/202609/2216385.shtml)
+15. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-24 23:22:49
+> 更新时间：2026-09-25 00:25:29
 
 ## 24 小时热榜
 
@@ -19,21 +19,21 @@
 13. [Anthropic 工程师解释 Claude 写作变差：模型训练为写给 AI 看而非人看](https://readhub.cn/topic/8wfFP3eLwc0?tab=daily)
 14. [罗福莉官宣小米 MiMo-V3 将采用全新架构 核心 HySparse 2 发布](https://readhub.cn/topic/8wfDHNNdDFQ?tab=daily)
 15. [腾讯 WorkBuddy 微信小程序发布能力上线](https://readhub.cn/topic/8wgJrfIrnh3?tab=daily)
-16. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
-17. [我国成功发射卫星互联网低轨 26 组卫星](https://readhub.cn/topic/8wfDFe2hex5?tab=daily)
-18. [腾讯 Marvis 定位升级「AI 管家」，支持用户管理个人设备和数字资产](https://readhub.cn/topic/8wg249e6tiO?tab=daily)
+16. [腾讯 Marvis 定位升级「AI 管家」，支持用户管理个人设备和数字资产](https://readhub.cn/topic/8wg249e6tiO?tab=daily)
+17. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
+18. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
 19. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
-20. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
-21. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
-22. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
+20. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
+21. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
+22. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
 23. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
-24. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
-25. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
-26. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
-27. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
-28. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
-29. [三大运营商暂停金融分期业务，「0 元购机」全面停办新受理](https://readhub.cn/topic/8wgKaW2nZ5A?tab=daily)
-30. [华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起](https://readhub.cn/topic/8wfs1DDZXQg?tab=daily)
+24. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
+25. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
+26. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
+27. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
+28. [三大运营商暂停金融分期业务，「0 元购机」全面停办新受理](https://readhub.cn/topic/8wgKaW2nZ5A?tab=daily)
+29. [华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起](https://readhub.cn/topic/8wfs1DDZXQg?tab=daily)
+30. [中国人民银行对邮储银行警告通报批评并罚没超 1743 万元](https://readhub.cn/topic/8wgYDgtvoCx?tab=daily)
 
 ## 每日早报
 
