@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-25 04:24:01
-
-## 新闻热榜
-
-1. [“中国更有底气了”：中美谈大事，欧洲怎么办？](https://news.sina.com.cn/o/2026-09-24/doc-inisxtat5118280.shtml)
-2. [习近平同美国总统特朗普小范围交流](https://news.sina.com.cn/c/xl/2026-09-25/doc-inisycsp4962778.shtml)
-3. [岛内讨论“一国两制”台湾方案和统一问题的声音日益增多，国防部：统一将根除“台独”祸根乱源](https://news.sina.com.cn/c/2026-09-24/doc-inisxhnz8304126.shtml)
-4. [习近平在白宫欢迎仪式上的致辞（全文）](https://news.sina.com.cn/c/xl/2026-09-24/doc-inisxxkv4968252.shtml)
-5. [特朗普政府表示，媒体进入白宫的权限已恢复。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4882449.shtml)
-6. [考克斯汽车：受新车需求持续韧性支撑，将美国全年新车销量预测从此前的1580万辆上调至1610万辆。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8127709.shtml)
-7. [荷兰首相希望阻止美国对阿斯麦（ASML）出台更多出口限制。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8017061.shtml)
-8. [单日狂揽32金！亚运奖牌榜：中国80金30银20铜断层领跑，日本20金](https://news.sina.com.cn/zx/2026-09-24/doc-inisxxkr5044987.shtml)
-9. [美国7年期国债中标收益率为5.085%，高于发行前交易收益率5.078%。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8127228.shtml)
-10. [以色列官员：恢复对伊朗的打击只是时间问题](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8010838.shtml)
-11. [俄罗斯副外长：朝鲜最高领导人金正恩已获邀访问俄罗斯，具体日期将通过外交渠道商定](https://news.sina.com.cn/w/2026-09-24/doc-inisxxkv4911963.shtml)
-12. [习近平主席乘车离开白宫](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8136587.shtml)
-13. [新闻机构此前曾向法庭表示，他们在周四被拒绝入内。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4882273.shtml)
-14. [市场消息：伊朗代表团未出席内塔尼亚胡在联合国大会上的演讲。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8038557.shtml)
-15. [内塔尼亚胡：伊朗政权将会倒台。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8037096.shtml)
-16. [独家视频丨习近平和夫人彭丽媛抵达白宫](https://news.sina.com.cn/c/xl/2026-09-24/doc-inisxxkr5070310.shtml)
-17. [内塔尼亚胡：针对使用传呼机袭击伊朗支持的真主党一事，内塔尼亚胡在发言中举着一部传呼机。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8027863.shtml)
-18. [美联储公布稳定币发行商提案。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8031609.shtml)
-19. [独家视频丨习近平出席特朗普在白宫举行的欢迎仪式](https://news.sina.com.cn/c/xl/2026-09-25/doc-inisycst4877573.shtml)
-20. [法国总统马克龙：法国可能遭遇类似莱比锡未遂袭击的袭击事件。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyr4799133.shtml)
-
-## 财经热榜
-
-1. [特朗普政府表示，媒体进入白宫的权限已恢复。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4882449.shtml)
-2. [考克斯汽车：受新车需求持续韧性支撑，将美国全年新车销量预测从此前的1580万辆上调至1610万辆。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8127709.shtml)
-3. [荷兰首相希望阻止美国对阿斯麦（ASML）出台更多出口限制。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8017061.shtml)
-4. [美国7年期国债中标收益率为5.085%，高于发行前交易收益率5.078%。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8127228.shtml)
-5. [以色列官员：恢复对伊朗的打击只是时间问题](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8010838.shtml)
-6. [商务部：中美第八轮经贸磋商达成多项共识](https://finance.sina.com.cn/jjxw/2026-09-24/doc-inisxhnx5288011.shtml)
-7. [央行：要继续实施适度宽松的货币政策 加大逆周期调节力度](https://finance.sina.com.cn/china/2026-09-24/doc-inisxnvc0364032.shtml)
-8. [中秋假期预计全社会跨区域人员流动量将达6.5亿人次](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisxhpc4979635.shtml)
-9. [上交所：关于发布上证创新药科创领先指数等2条指数的公告](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisxnuz5012477.shtml)
-10. [习近平主席乘车离开白宫](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8136587.shtml)
-11. [9月24日美股成交额前20：美光跌超2% 科技股承压 宏碁CEO警告“存储荒”不会持续太久](https://finance.sina.com.cn/world/2026-09-24/doc-iniswmii5567128.shtml)
-12. [汽车零重力座椅热销 舒适与安全该如何兼顾？](https://finance.sina.com.cn/roll/2026-09-24/doc-iniswrri8168562.shtml)
-13. [新闻机构此前曾向法庭表示，他们在周四被拒绝入内。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4882273.shtml)
-14. [市场消息：伊朗代表团未出席内塔尼亚胡在联合国大会上的演讲。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8038557.shtml)
-15. [抛售风暴全面失控！这一夜 美债遭遇闪电“五连鞭”](https://finance.sina.com.cn/roll/2026-09-24/doc-iniswrrf5494215.shtml)
-16. [收评：深成指、创指低开低走跌超2% 下跌个股超4300只](https://finance.sina.com.cn/tob/2026-09-24/doc-inisxhpf0426327.shtml)
-17. [美国国务卿宣布对“生育旅游”实施新的签证限制](https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvytt5189420.shtml)
-18. [加仓意愿再度集聚 股票私募仓位两周连涨](https://finance.sina.com.cn/roll/2026-09-24/doc-inisvytp5764670.shtml)
-19. [内塔尼亚胡：伊朗政权将会倒台。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8037096.shtml)
-20. [光大期货：节前资金流出，短线黄金还有救吗？](https://finance.sina.com.cn/7x24/2026-09-24/doc-inisxnuz4971805.shtml)
+> 更新时间：2026-09-25 04:28:10
 
 ## 7x24
 
