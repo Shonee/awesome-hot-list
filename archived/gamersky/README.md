@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-24 12:26:45
+> 更新时间：2026-09-24 13:23:09
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [姿态直播意外露出银行卡余额:千万现金流 真京城贵妇](https://www.gamersky.com/news/202609/2215346.shtml)
 11. [国产大尺度游戏下架 关闭下载入口！此前曾和谐角色立绘](https://www.gamersky.com/news/202609/2215229.shtml)
 12. [一比吓一跳！美末艾莉对比太扎心：剧版演员更尴尬了](https://www.gamersky.com/news/202609/2212959.shtml)
-13. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
-14. [《剑星》总监金亨泰访谈秒答 最坚持伊芙身材 勒痕晃动都要真实](https://www.gamersky.com/news/202609/2213932.shtml)
+13. [《剑星》总监金亨泰访谈秒答 最坚持伊芙身材 勒痕晃动都要真实](https://www.gamersky.com/news/202609/2213932.shtml)
+14. [《剑星》新试玩](https://www.gamersky.com/news/202609/2212621.shtml)
 15. [金亨泰亲制！《剑星》与《猎天使魔女》联动中的第四套服装正式公开](https://www.gamersky.com/news/202609/2213068.shtml)

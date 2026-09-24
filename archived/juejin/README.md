@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-24 12:25:56
+> 更新时间：2026-09-24 13:22:18
 
 ## 热门文章
 
@@ -29,16 +29,16 @@
 23. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
 24. [前端转型全栈 03：接口失败也返回 200，OpenAPI 契约与错误码怎么定](https://juejin.cn/post/7687630544473767982)
 25. [Jev 不是 Agent：TypeSafe System One 如何成为离 LLM 最近的决策层](https://juejin.cn/post/7687180832369377323)
-26. [我给 WorkBuddy 设了个闹钟：每天上午十点半，一份 AI 日报自动送进微信](https://juejin.cn/post/7687897009885708324)
-27. [给公司年会写了个大屏抽奖系统：动画在前端跑，凭什么说结果没被改？](https://juejin.cn/post/7687800089250709546)
-28. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
-29. [傻瓜式UX：ERP的致命糖衣](https://juejin.cn/post/7688603830758195235)
-30. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
-31. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
-32. [突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」](https://juejin.cn/post/7688532185121439754)
-33. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
-34. [微信开源了一个神级知识库项目](https://juejin.cn/post/7688628566758555698)
-35. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
+26. [微信开源了一个神级知识库项目](https://juejin.cn/post/7688628566758555698)
+27. [我给 WorkBuddy 设了个闹钟：每天上午十点半，一份 AI 日报自动送进微信](https://juejin.cn/post/7687897009885708324)
+28. [给公司年会写了个大屏抽奖系统：动画在前端跑，凭什么说结果没被改？](https://juejin.cn/post/7687800089250709546)
+29. [TypeScript 全面の拥抱 ！Prisma 8 + Electron 升级实战](https://juejin.cn/post/7687428120388124699)
+30. [傻瓜式UX：ERP的致命糖衣](https://juejin.cn/post/7688603830758195235)
+31. [突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」](https://juejin.cn/post/7688532185121439754)
+32. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
+33. [从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程](https://juejin.cn/post/7686798164307853346)
+34. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
+35. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
 36. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
 37. [给小程序加「一键发公众号贴图」，我把 wx.shareToOfficialAccount 的三个坑趟了一遍](https://juejin.cn/post/7687791979586142208)
 38. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
