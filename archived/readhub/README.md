@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-24 21:22:59
+> 更新时间：2026-09-24 22:24:15
 
 ## 24 小时热榜
 
@@ -19,21 +19,21 @@
 13. [Anthropic 工程师解释 Claude 写作变差：模型训练为写给 AI 看而非人看](https://readhub.cn/topic/8wfFP3eLwc0?tab=daily)
 14. [罗福莉官宣小米 MiMo-V3 将采用全新架构 核心 HySparse 2 发布](https://readhub.cn/topic/8wfDHNNdDFQ?tab=daily)
 15. [腾讯 WorkBuddy 微信小程序发布能力上线](https://readhub.cn/topic/8wgJrfIrnh3?tab=daily)
-16. [腾讯 Marvis 定位升级「AI 管家」，支持用户管理个人设备和数字资产](https://readhub.cn/topic/8wg249e6tiO?tab=daily)
+16. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
 17. [我国成功发射卫星互联网低轨 26 组卫星](https://readhub.cn/topic/8wfDFe2hex5?tab=daily)
-18. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
-19. [Simate AutoResearch 登顶 RoboDojo 探索机器人自主迭代能力](https://readhub.cn/topic/8wf3yeeCI1A?tab=daily)
-20. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
-21. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
-22. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
+18. [腾讯 Marvis 定位升级「AI 管家」，支持用户管理个人设备和数字资产](https://readhub.cn/topic/8wg249e6tiO?tab=daily)
+19. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
+20. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
+21. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
+22. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
 23. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
-24. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
+24. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
 25. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
-26. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
-27. [Meta 推出个人智能体 Muse 重回 AI 领域竞争牌桌](https://readhub.cn/topic/8wemv2nUJy0?tab=daily)
-28. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
-29. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
-30. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
+26. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
+27. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
+28. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
+29. [三大运营商暂停金融分期业务，「0 元购机」全面停办新受理](https://readhub.cn/topic/8wgKaW2nZ5A?tab=daily)
+30. [华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起](https://readhub.cn/topic/8wfs1DDZXQg?tab=daily)
 
 ## 每日早报
 
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [一家机器人数据公司关门，创始人复盘：卖数据撑不起一家独立公司](https://www.mittrchina.com/news/detail/17011)
-2. [AGI 时代真的来了？可能只是炒作](https://www.mittrchina.com/news/detail/17009)
-3. [首部上星 AI 长剧《后西游记》幕后：没有摄影机，100% 画面由 Seedance 生成，单集成本压到十几万](https://www.aibase.com/zh/news/31357)
-4. [AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样](https://www.mittrchina.com/news/detail/17008)
-5. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌](https://www.aibase.com/zh/news/31341)
-6. [蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账](https://www.aibase.com/zh/news/31356)
-7. [Contain the Chaos:「CONTROL Resonant」Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/)
-8. [谷歌确认新一代旗舰 Gemini 4 即将推出：已进入后训练，有望远早于年底](https://www.aibase.com/zh/news/31350)
-9. [高通联手 PrismML 发布 1-bit Bonsai：AI 眼镜离线识图，内存占用降到 1 / 4](https://www.aibase.com/zh/news/31349)
-10. [SeeAct AI 穆尧：具身智能终局，一定是从「被训练」走向「自我进化」｜物理 AI50 人](https://www.leiphone.com/category/ai/k1XGdu6w3n7xGgKB.html)
+2. [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)
+3. [How Open Science Can Help Researchers Prepare for the Next Pandemic](https://blogs.nvidia.com/blog/open-protein-dataset/)
+4. [AGI 时代真的来了？可能只是炒作](https://www.mittrchina.com/news/detail/17009)
+5. [首部上星 AI 长剧《后西游记》幕后：没有摄影机，100% 画面由 Seedance 生成，单集成本压到十几万](https://www.aibase.com/zh/news/31357)
+6. [AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样](https://www.mittrchina.com/news/detail/17008)
+7. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌](https://www.aibase.com/zh/news/31341)
+8. [蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账](https://www.aibase.com/zh/news/31356)
+9. [Contain the Chaos:「CONTROL Resonant」Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/)
+10. [谷歌确认新一代旗舰 Gemini 4 即将推出：已进入后训练，有望远早于年底](https://www.aibase.com/zh/news/31350)
