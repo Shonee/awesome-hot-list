@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-09-24 08:55:33
+> 更新时间：2026-09-24 09:31:55
 
 ## 每日热点榜
 
@@ -12,24 +12,19 @@
 6. [车企集体和宁德提分手](https://chejiahao.autohome.com.cn/info/26521198#pvareaid=6834132)
 7. [吉利发布新一代AI智充技术](https://chejiahao.autohome.com.cn/info/26514083#pvareaid=6834132)
 8. [魏牌高山智慧版30.98万起](http://www.autohome.com.cn/news/202609/1317375.html)
-9. [红旗G919预售35.98万起](http://www.autohome.com.cn/news/202609/1317358.html)
-10. [吉利发布2.2兆瓦智充技术](https://chejiahao.autohome.com.cn/info/26526186#pvareaid=6834132)
+9. [新款问界M8登上减免车辆购置税目录](http://www.autohome.com.cn/news/202609/1317378.html)
+10. [埃安Ray7登上减免车辆购置税目录](http://www.autohome.com.cn/news/202609/1317365.html)
 11. [新款吉利银河E5上市9.78万起](http://www.autohome.com.cn/news/202609/1317390.html)
-12. [新款问界M8登上减免车辆购置税目录](http://www.autohome.com.cn/news/202609/1317378.html)
+12. [方程豹钛9实车内饰曝光](http://www.autohome.com.cn/news/202609/1317333.html)
 13. [长城猛龙PLUS力魂版上市](http://www.autohome.com.cn/news/202609/1317384.html)
-14. [埃安Ray7登上减免车辆购置税目录](http://www.autohome.com.cn/news/202609/1317365.html)
-15. [方程豹钛9实车内饰曝光](http://www.autohome.com.cn/news/202609/1317333.html)
-16. [全新阿维塔9系10月巴黎车展首发](http://www.autohome.com.cn/news/202609/1317353.html)
-17. [新款天逸C5 AIRCROSS实车亮相](http://www.autohome.com.cn/news/202609/1317355.html)
+14. [全新阿维塔9系10月巴黎车展首发](http://www.autohome.com.cn/news/202609/1317353.html)
+15. [新款天逸C5 AIRCROSS实车亮相](http://www.autohome.com.cn/news/202609/1317355.html)
+16. [雷军回应“吃早餐被骂装”](http://club.autohome.com.cn/bbs/thread/be9161548fda756f/116215911-1.html)
+17. [比亚迪泰国工厂第10万辆新能源车下线](https://chejiahao.autohome.com.cn/info/26522559#pvareaid=6834132)
 18. [赛力斯董事长回应与华为合作生变](http://club.autohome.com.cn/bbs/thread/3d61a8e8fb5472c9/116232549-1.html)
-19. [东风标致雪铁龙三款SUV上市13.97万起](https://chejiahao.autohome.com.cn/info/26521961#pvareaid=6834132)
+19. [深蓝L06特别版信息曝光](http://www.autohome.com.cn/news/202609/1317351.html)
 20. [中秋国庆假期将至 交管部门发布出行提示](https://chejiahao.autohome.com.cn/info/26519726#pvareaid=6834132)
-21. [雷军回应“吃早餐被骂装”](http://club.autohome.com.cn/bbs/thread/be9161548fda756f/116215911-1.html)
-22. [深蓝S07接入豆包模型](https://chejiahao.autohome.com.cn/info/26524563#pvareaid=6834132)
-23. [工信部旗下媒体：去宁德化论调要不得](http://club.autohome.com.cn/bbs/thread/01bac89ef5e0f8e2/116219747-1.html)
-24. [比亚迪泰国工厂第10万辆新能源车下线](https://chejiahao.autohome.com.cn/info/26522559#pvareaid=6834132)
-25. [深蓝L06特别版信息曝光](http://www.autohome.com.cn/news/202609/1317351.html)
-26. [蔚来ES9第3万台正式交付](https://chejiahao.autohome.com.cn/info/26521838#pvareaid=6834132)
-27. [本代宝马M2 CS正式收官](http://www.autohome.com.cn/news/202609/1317334.html)
-28. [理想L6累计交付突破41万辆](https://chejiahao.autohome.com.cn/info/26525985#pvareaid=6834132)
-29. [比亚迪仰望超豪华行政轿车实车亮相](http://club.autohome.com.cn/bbs/thread/4afeae6b35f500a6/116232205-1.html)
+21. [深蓝S07接入豆包模型](https://chejiahao.autohome.com.cn/info/26524563#pvareaid=6834132)
+22. [本代宝马M2 CS正式收官](http://www.autohome.com.cn/news/202609/1317334.html)
+23. [蔚来ES9第3万台正式交付](https://chejiahao.autohome.com.cn/info/26521838#pvareaid=6834132)
+24. [理想L6累计交付突破41万辆](https://chejiahao.autohome.com.cn/info/26525985#pvareaid=6834132)

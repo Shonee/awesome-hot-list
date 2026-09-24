@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-24 08:55:03
+> 更新时间：2026-09-24 09:31:45
 
 ## 热新闻
 
@@ -16,11 +16,11 @@
 10. [被指涉色情引流，闲鱼公布调查结果](https://www.thepaper.cn/newsDetail_forward_34130853)
 11. [国足主帅邵佳一：需要严肃对待马尔代夫，不能给对手任何机会](https://www.thepaper.cn/newsDetail_forward_34133131)
 12. [多年前登记遗体捐献去世后被拒收？湖北省、黄石市红十字会：接收池已满，意愿登记无法律效力](https://www.thepaper.cn/newsDetail_forward_34130870)
-13. [财晓得｜中秋的生意只能做一个月？月饼可能比你想象中更能打](https://www.thepaper.cn/newsDetail_forward_34124822)
-14. [82岁知名画家夏葆元辞世，陈逸飞曾说“我们所有人都学他”](https://www.thepaper.cn/newsDetail_forward_34096922)
-15. [不止观赛！世界技能博览会，让普通人亲手触摸技能的力量](https://www.thepaper.cn/newsDetail_forward_34134635)
-16. [李乐成任安徽省委书记，周祖翼任河南省委书记，赵龙任福建省委书记](https://www.thepaper.cn/newsDetail_forward_34130867)
-17. [澎湃AI晚新闻丨2026年9月23日](https://www.thepaper.cn/newsDetail_forward_34135181)
-18. [“十五五”期间将如何提升儿童福利保障水平？民政部答澎湃](https://www.thepaper.cn/newsDetail_forward_34132980)
-19. [【社论】全国推行，让校外实践成为成长沃土](https://www.thepaper.cn/newsDetail_forward_34132998)
-20. [河北省委副书记王陆进履新河南省委副书记、省政府党组书记](https://www.thepaper.cn/newsDetail_forward_34131459)
+13. [“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能](https://www.thepaper.cn/newsDetail_forward_34132966)
+14. [财晓得｜中秋的生意只能做一个月？月饼可能比你想象中更能打](https://www.thepaper.cn/newsDetail_forward_34124822)
+15. [82岁知名画家夏葆元辞世，陈逸飞曾说“我们所有人都学他”](https://www.thepaper.cn/newsDetail_forward_34096922)
+16. [不止观赛！世界技能博览会，让普通人亲手触摸技能的力量](https://www.thepaper.cn/newsDetail_forward_34134635)
+17. [李乐成任安徽省委书记，周祖翼任河南省委书记，赵龙任福建省委书记](https://www.thepaper.cn/newsDetail_forward_34130867)
+18. [澎湃AI晚新闻丨2026年9月23日](https://www.thepaper.cn/newsDetail_forward_34135181)
+19. [“十五五”期间将如何提升儿童福利保障水平？民政部答澎湃](https://www.thepaper.cn/newsDetail_forward_34132980)
+20. [【社论】全国推行，让校外实践成为成长沃土](https://www.thepaper.cn/newsDetail_forward_34132998)
