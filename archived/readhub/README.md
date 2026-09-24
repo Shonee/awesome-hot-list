@@ -1,13 +1,13 @@
 # Readhub热榜
 
-> 更新时间：2026-09-25 01:20:44
+> 更新时间：2026-09-25 02:27:37
 
 ## 24 小时热榜
 
 1. [罗永浩宣布播客暂停更新：卷进舆论漩涡，避免连累嘉宾](https://readhub.cn/topic/8we7NEHk9kJ?tab=daily)
 2. [王慧文发文称有意组局收购西贝，称不在乎其是否为预制菜](https://readhub.cn/topic/8wehodYvpKy?tab=daily)
-3. [OpenAI 上线 GPT-6 Sol 和 Luna，大幅下调模型价格](https://readhub.cn/topic/8weJWenjj4S?tab=daily)
-4. [前 Hack VC 合伙人被曝身亡，死前曾爆料公司迫其带病工作](https://readhub.cn/topic/8weiWpI6tXP?tab=daily)
+3. [前 Hack VC 合伙人被曝身亡，死前曾爆料公司迫其带病工作](https://readhub.cn/topic/8weiWpI6tXP?tab=daily)
+4. [OpenAI 上线 GPT-6 Sol 和 Luna，大幅下调模型价格](https://readhub.cn/topic/8weJWenjj4S?tab=daily)
 5. [马斯克称中国 AI 大模型单位算力产出性能几乎是全球顶尖水平](https://readhub.cn/topic/8weXq5gQvRb?tab=daily)
 6. [叮咚买菜关闭北京多个站点](https://readhub.cn/topic/8weFEkNLYcK?tab=daily)
 7. [王自如直播回应西贝风波 十二年后公开替罗永浩说话](https://readhub.cn/topic/8wczPuzGAtD?tab=daily)
@@ -21,18 +21,18 @@
 15. [腾讯 WorkBuddy 微信小程序发布能力上线](https://readhub.cn/topic/8wgJrfIrnh3?tab=daily)
 16. [腾讯 Marvis 定位升级「AI 管家」，支持用户管理个人设备和数字资产](https://readhub.cn/topic/8wg249e6tiO?tab=daily)
 17. [AI 短剧半年报价跌九成，行业超九成公司亏损洗牌](https://readhub.cn/topic/8wfyQE4Ordu?tab=daily)
-18. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
-19. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
+18. [刘大一恒首次以 Qwen 新负责人身份亮相 公布五大发展路线](https://readhub.cn/topic/8wejyZvpe5C?tab=daily)
+19. [特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟](https://readhub.cn/topic/8wg5aihROYu?tab=daily)
 20. [首部上星 AI 长剧《后西游记》：无摄影机，100% 画面由 Seedance 生成，单集成本十几万](https://readhub.cn/topic/8wgWjeax9ot?tab=daily)
-21. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
-22. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
+21. [Simate 登顶 RoboDojo 榜单 超越 GPT-6-Astra 等获第一](https://readhub.cn/topic/8wg25BTryK5?tab=daily)
+22. [DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资](https://readhub.cn/topic/8wgH1bWKVJF?tab=daily)
 23. [腾讯混元宣布「腾讯 Hy 翻译」APP 上线](https://readhub.cn/topic/8wgFahOgPqY?tab=daily)
 24. [Meta 个人 AI 智能体 Muse 上线两周 下载日活超 ChatGPT 同期水平](https://readhub.cn/topic/8weWNe4klBW?tab=daily)
 25. [Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理](https://readhub.cn/topic/8wfurcuudSp?tab=daily)
-26. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
-27. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
-28. [三大运营商暂停金融分期业务，「0 元购机」全面停办新受理](https://readhub.cn/topic/8wgKaW2nZ5A?tab=daily)
-29. [华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起](https://readhub.cn/topic/8wfs1DDZXQg?tab=daily)
+26. [Claude 网页版存汉字限速问题，经优化后整体提速 3 倍](https://readhub.cn/topic/8wg21F2yBij?tab=daily)
+27. [Claude 发现全新类 CRISPR DNA 酶系统 消耗 2.1 亿 Token](https://readhub.cn/topic/8wfqYwaZT4N?tab=daily)
+28. [华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起](https://readhub.cn/topic/8wfs1DDZXQg?tab=daily)
+29. [三大运营商暂停金融分期业务，「0 元购机」全面停办新受理](https://readhub.cn/topic/8wgKaW2nZ5A?tab=daily)
 30. [中国人民银行对邮储银行警告通报批评并罚没超 1743 万元](https://readhub.cn/topic/8wgYDgtvoCx?tab=daily)
 
 ## 每日早报
@@ -53,7 +53,7 @@
 4. [AGI 时代真的来了？可能只是炒作](https://www.mittrchina.com/news/detail/17009)
 5. [首部上星 AI 长剧《后西游记》幕后：没有摄影机，100% 画面由 Seedance 生成，单集成本压到十几万](https://www.aibase.com/zh/news/31357)
 6. [AI 热潮会重演铁路投资泡沫吗？黑石总裁：这次不一样](https://www.mittrchina.com/news/detail/17008)
-7. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌](https://www.aibase.com/zh/news/31341)
-8. [蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账](https://www.aibase.com/zh/news/31356)
-9. [Contain the Chaos:「CONTROL Resonant」Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/)
-10. [谷歌确认新一代旗舰 Gemini 4 即将推出：已进入后训练，有望远早于年底](https://www.aibase.com/zh/news/31350)
+7. [OpenAI、Anthropic 被要求在完成白宫测试之前不能给英国分享新模型](https://wallstreetcn.com/livenews/3170548)
+8. [CPU shortages hit cloud infrastructure as AI agent workloads drive demand surge](https://daily.dev/posts/the-pulse-a-new-trend-of-cpu-shortages-6yfwmynmb)
+9. [阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌](https://www.aibase.com/zh/news/31341)
+10. [蚂蚁 inclusionAI 把训练底稿摆上 HuggingFace，Ling、Ring、Ming 全系模型按欧盟 AI 法案交透明账](https://www.aibase.com/zh/news/31356)

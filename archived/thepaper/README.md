@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-25 01:20:46
+> 更新时间：2026-09-25 02:27:39
 
 ## 热新闻
 
@@ -23,4 +23,4 @@
 17. [油价调控再出手！国家半年四次压缩成品油涨幅，本轮涨幅砍半](https://www.thepaper.cn/newsDetail_forward_34142908)
 18. [OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险](https://www.thepaper.cn/newsDetail_forward_34139046)
 19. [王陆进任河南省代省长](https://www.thepaper.cn/newsDetail_forward_34139897)
-20. [北京：商品房预售需封顶，优先选择现房销售](https://www.thepaper.cn/newsDetail_forward_34141651)
+20. [习近平在白宫欢迎仪式上的致辞（全文）](https://www.thepaper.cn/newsDetail_forward_34144356)
