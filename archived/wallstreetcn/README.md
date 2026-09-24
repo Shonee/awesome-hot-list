@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-25 03:22:34
+> 更新时间：2026-09-25 03:34:07
 
 ## 7x24
 
@@ -84,6 +84,3 @@ LME期镍收涨20美元，报16501美元/吨...](https://wallstreetcn.com/livene
 46. [纳斯达克100指数转涨，此前一度跌0.9%；纳指转涨，标普涨超0.1%。](https://wallstreetcn.com/livenews/3170539)
 47. [2026年世界技能大会上海技能发展主题平行会举行](https://wallstreetcn.com/livenews/3170538)
 48. [马斯克：我们的AI研发才进行了3年 迅速上线庞大算力极其困难](https://wallstreetcn.com/livenews/3170537)
-49. [英国中长期国债收益率至少涨超3个基点](https://wallstreetcn.com/livenews/3170536)
-50. [“当然由美国出钱！”丹麦称特朗普政府应为格陵兰军事基地买单](https://wallstreetcn.com/livenews/3170535)
-51. [习近平同美国总统特朗普会谈](https://wallstreetcn.com/livenews/3170534)
