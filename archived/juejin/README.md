@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-25 05:20:19
+> 更新时间：2026-09-25 06:20:56
 
 ## 热门文章
 
@@ -16,8 +16,8 @@
 10. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
 11. [我把 Cursor 接到了蓝湖上，设计师再也不用追着我问"还原了吗"](https://juejin.cn/post/7688644921475924010)
 12. [AI 知识库 WeKnora（腾讯微信团队出品）](https://juejin.cn/post/7688530195554140194)
-13. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
-14. [给Codex配上Jev，直接起飞。](https://juejin.cn/post/7688401277182066738)
+13. [给Codex配上Jev，直接起飞。](https://juejin.cn/post/7688401277182066738)
+14. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
 15. [小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平](https://juejin.cn/post/7687902696659943466)
 16. [给公司年会写了个大屏抽奖系统：动画在前端跑，凭什么说结果没被改？](https://juejin.cn/post/7687800089250709546)
 17. [轻松掌握 LangGraph 的状态与节点](https://juejin.cn/post/7688270826491658266)
@@ -29,8 +29,8 @@
 23. [我给 WorkBuddy 设了个闹钟：每天上午十点半，一份 AI 日报自动送进微信](https://juejin.cn/post/7687897009885708324)
 24. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
 25. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
-26. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
-27. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
+26. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
+27. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
 28. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
 29. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
 30. [Antigravity + Blender MCP（上）：打造3D 智慧仓储数字孪生](https://juejin.cn/post/7688180809024651315)
@@ -49,8 +49,8 @@
 43. [ref、reactive、toRefs 到底该用哪个？我把三个反例都写了一遍](https://juejin.cn/post/7688341026175500324)
 44. [📱iPhone Duo 开屏动画咋实现的？](https://juejin.cn/post/7688737629098999843)
 45. [WorkBuddy + ima 搭建本地知识库](https://juejin.cn/post/7688591999923322930)
-46. [Axios 完整封装合集（鉴权 + 重复拦截 + Loading + 缓存 + 统一错误 + 请求重试｜全代码逐行注释）](https://juejin.cn/post/7688341026176286756)
-47. [开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了](https://juejin.cn/post/7688333234086150178)
-48. [Jev刷屏了：50局一起打，7秒订机票，724条广告40秒拆完](https://juejin.cn/post/7688144876657278976)
-49. [腾讯开源了一个项目，让 AI 直接用你已经登录好的浏览器](https://juejin.cn/post/7688023798625632306)
+46. [腾讯开源了一个项目，让 AI 直接用你已经登录好的浏览器](https://juejin.cn/post/7688023798625632306)
+47. [Axios 完整封装合集（鉴权 + 重复拦截 + Loading + 缓存 + 统一错误 + 请求重试｜全代码逐行注释）](https://juejin.cn/post/7688341026176286756)
+48. [开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了](https://juejin.cn/post/7688333234086150178)
+49. [Jev刷屏了：50局一起打，7秒订机票，724条广告40秒拆完](https://juejin.cn/post/7688144876657278976)
 50. [FastAPI为什么成为默认答案](https://juejin.cn/post/7687872425694412854)
