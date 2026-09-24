@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-25 06:21:14
+> 更新时间：2026-09-25 07:19:29
 
 ## 热点榜
 
@@ -17,10 +17,10 @@
 11. [陌生快递寄来“双节礼品卡”，这些误区要注意](https://mp.weixin.qq.com/s/NhwJ3WlSxVCNip5zOyz34w)
 12. [高速免费时间定了！速速收藏这份中秋国庆双节出行攻略](https://view.inews.qq.com/a/20260924A0EQVI00)
 13. [喜极而泣！中国诞生了又一位“超级全满贯”，世界羽坛现役第一人](https://view.inews.qq.com/a/20260924A0B2EY00)
-14. [用中国人修建世界第一高桥的投入，英国人修了个“地下通道”……](https://view.inews.qq.com/a/20260924A0009Z00)
+14. [高通CEO安蒙谈“智能体时代”：终端侧AI正在发生，点赞中国创新生态](https://view.inews.qq.com/a/20260924V0E66600)
 15. [教育部：2027至2030年，“双一流”高校本科招生数还将扩容7.6万人](https://view.inews.qq.com/a/20260923A05R3Q00)
-16. [美国商界：美企业扎根中国承诺不变，告诉你一个秘密，美国国宴“一票难求”](https://view.inews.qq.com/a/20260924V068PE00)
-17. [四川红军长征遗迹考古调查取得重要成果！填补夹金山长征实物考古空白｜封面头条](https://view.inews.qq.com/a/20260924A0EWZW00)
-18. [高通CEO安蒙谈“智能体时代”：终端侧AI正在发生，点赞中国创新生态](https://view.inews.qq.com/a/20260924V0E66600)
-19. [汽车产业的增长越来越“贵”](https://view.inews.qq.com/a/20260924A07EDS00)
-20. [英国向中国返还12件流失文物艺术品](https://view.inews.qq.com/a/20260924A04JYD00)
+16. [商务部：在中美经贸磋商机制下，双方就人工智能进行了首次对话](https://view.inews.qq.com/a/20260924A0AAD700)
+17. [北大清华，“一饼难求”](https://view.inews.qq.com/a/20260924A0E93200)
+18. [点击抽奖丨假期“发福”，趣玩不停](https://h5.news.qq.com/maker/prod/publish/M0dY3hg7zb01oiAdQl43f.html)
+19. [油价调控再出手！国家半年四次压缩成品油涨幅，本轮涨幅砍半](https://view.inews.qq.com/a/20260924A0ECMP00)
+20. [四川红军长征遗迹考古调查取得重要成果！填补夹金山长征实物考古空白｜封面头条](https://view.inews.qq.com/a/20260924A0EWZW00)

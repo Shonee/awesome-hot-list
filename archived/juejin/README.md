@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-25 06:20:56
+> 更新时间：2026-09-25 07:19:10
 
 ## 热门文章
 
@@ -29,20 +29,20 @@
 23. [我给 WorkBuddy 设了个闹钟：每天上午十点半，一份 AI 日报自动送进微信](https://juejin.cn/post/7687897009885708324)
 24. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
 25. [Jev：不是聊天机器人， 而是一个智能 if 语句](https://juejin.cn/post/7688159506153095209)
-26. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
-27. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
-28. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
+26. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
+27. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
+28. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
 29. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
 30. [Antigravity + Blender MCP（上）：打造3D 智慧仓储数字孪生](https://juejin.cn/post/7688180809024651315)
 31. [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490)
 32. [订单30分钟未支付自动取消：定时任务为什么被面试官嫌弃](https://juejin.cn/post/7688532185122422794)
 33. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://juejin.cn/post/7688334749719789604)
 34. [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401)
-35. [WorkBuddy 每天自动领积分！教你用云函数做个签到机器人](https://juejin.cn/post/7688905988846305289)
-36. [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945)
-37. [Antigravity + Blender MCP（下）：3D 智慧仓储数字孪生进阶实战](https://juejin.cn/post/7688329495955243058)
-38. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://juejin.cn/post/7688163400499281935)
-39. [看不懂的装修图纸，豆包2.1 Pro帮我变成了能走进去的 3D 家](https://juejin.cn/post/7687995393330561078)
+35. [看不懂的装修图纸，豆包2.1 Pro帮我变成了能走进去的 3D 家](https://juejin.cn/post/7687995393330561078)
+36. [WorkBuddy 每天自动领积分！教你用云函数做个签到机器人](https://juejin.cn/post/7688905988846305289)
+37. [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945)
+38. [Antigravity + Blender MCP（下）：3D 智慧仓储数字孪生进阶实战](https://juejin.cn/post/7688329495955243058)
+39. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://juejin.cn/post/7688163400499281935)
 40. [棉宇宙 Flutter 热更新是如何落地的](https://juejin.cn/post/7687830468987928576)
 41. [大模型在货拉拉营销广告的应用实践](https://juejin.cn/post/7688368434233606178)
 42. [前端转型 Agent 开发 05 之 Agent Hooks 与 Checkpointer（让 Agent 从全自动转变人为可掌控）](https://juejin.cn/post/7687876412298805248)
