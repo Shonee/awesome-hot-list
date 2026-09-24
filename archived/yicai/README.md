@@ -1,11 +1,12 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-25 07:21:09
+> 更新时间：2026-09-25 07:22:59
 
-## 首页头条
+## 7x24
 
-1. [“请3休13”催热双节出行，长线旅行受青睐](https://www.yicai.com/news/103377668.html)
-2. [修飞机、做牙模、拧螺丝！世赛专用的这些工具有多强](https://www.yicai.com/news/103377795.html)
-3. [北京官宣现房销售细则：新老项目划断、土地款可分期](https://www.yicai.com/news/103377931.html)
-4. [多所高校密集调整院系专业，未来学科专业如何调整](https://www.yicai.com/news/103377660.html)
-5. [硬科技主导A股前三季度IPO，120只新股募资2109亿](https://www.yicai.com/news/103377693.html)
+1. [习近平同美国总统特朗普会谈](https://m.yicai.com/brief/103378150.html)
+2. [巴基斯坦军方称击毙数名来自阿富汗的武装分子](https://m.yicai.com/brief/103378148.html)
+3. [哥伦比亚宣布与伊朗断交](https://m.yicai.com/brief/103378147.html)
+4. [热门中概股多数下跌，纳斯达克金龙中国指数收跌0.67%](https://m.yicai.com/brief/103378130.html)
+5. [龙头科技股涨跌互现](https://m.yicai.com/brief/103378129.html)
+6. [美股三大股指涨跌互现](https://m.yicai.com/brief/103378127.html)
