@@ -1,97 +1,105 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-25 00:43:30
+> 更新时间：2026-09-25 00:52:26
 
 ## 7x24
 
-1. [2026年世界技能大会上海技能发展主题平行会举行](https://wallstreetcn.com/livenews/3170538)
-2. [马斯克：我们的AI研发才进行了3年 迅速上线庞大算力极其困难](https://wallstreetcn.com/livenews/3170537)
-3. [英国中长期国债收益率至少涨超3个基点](https://wallstreetcn.com/livenews/3170536)
-4. [“当然由美国出钱！”丹麦称特朗普政府应为格陵兰军事基地买单](https://wallstreetcn.com/livenews/3170535)
-5. [习近平同美国总统特朗普会谈](https://wallstreetcn.com/livenews/3170534)
-6. [报道：美伊研究分阶段重启霍尔木兹海峡的方案](https://wallstreetcn.com/livenews/3170532)
-7. [阿联酋暂停所有伊朗航空公司往返阿航班](https://wallstreetcn.com/livenews/3170531)
-8. [谷歌云：GKE智能迁移工具通过自动拉取请求，将AWS EKS基础设施即代码转换为GKE格式。](https://wallstreetcn.com/livenews/3170530)
-9. [WTI原油日内涨幅达5.0%，报96.77美元/桶；布伦特原油期货涨穿108美元。](https://wallstreetcn.com/livenews/3170527)
-10. [美国抵押贷款利率自去年初以来首次超过7%](https://wallstreetcn.com/livenews/3170526)
-11. [周四（9月24日）欧市尾盘，ICE英国天然气期货涨5.70%，报190.050便士/千卡，北京时间22:00以来显著扩大涨幅。
+1. [【习近平：把中美建设性战略稳定关系从愿景转化为行动】当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫举行会谈。
+
+习近平指出，中美建设性战略稳定关系的新定位反映了中美关系的现实，也体现了对未来的期许，是迈向两国正确相处之道...](https://wallstreetcn.com/livenews/3170542)
+2. [【习近平谈中东局势】当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫举行会谈。
+
+习近平指出，中方一直认为，各国的主权和安全都要得到尊重，始终在为缓局降温发挥建设性作用，鼓励各方坚持和平选择，保持谈判势头。中方支持美伊两国...](https://wallstreetcn.com/livenews/3170541)
+3. [习近平：希望美方坚持反对“台独”的正确立场，慎重处理台湾问题。（央视）](https://wallstreetcn.com/livenews/3170540)
+4. [纳斯达克100指数转涨，此前一度跌0.9%；纳指转涨，标普涨超0.1%。](https://wallstreetcn.com/livenews/3170539)
+5. [2026年世界技能大会上海技能发展主题平行会举行](https://wallstreetcn.com/livenews/3170538)
+6. [马斯克：我们的AI研发才进行了3年 迅速上线庞大算力极其困难](https://wallstreetcn.com/livenews/3170537)
+7. [英国中长期国债收益率至少涨超3个基点](https://wallstreetcn.com/livenews/3170536)
+8. [“当然由美国出钱！”丹麦称特朗普政府应为格陵兰军事基地买单](https://wallstreetcn.com/livenews/3170535)
+9. [习近平同美国总统特朗普会谈](https://wallstreetcn.com/livenews/3170534)
+10. [报道：美伊研究分阶段重启霍尔木兹海峡的方案](https://wallstreetcn.com/livenews/3170532)
+11. [阿联酋暂停所有伊朗航空公司往返阿航班](https://wallstreetcn.com/livenews/3170531)
+12. [谷歌云：GKE智能迁移工具通过自动拉取请求，将AWS EKS基础设施即代码转换为GKE格式。](https://wallstreetcn.com/livenews/3170530)
+13. [WTI原油日内涨幅达5.0%，报96.77美元/桶；布伦特原油期货涨穿108美元。](https://wallstreetcn.com/livenews/3170527)
+14. [美国抵押贷款利率自去年初以来首次超过7%](https://wallstreetcn.com/livenews/3170526)
+15. [周四（9月24日）欧市尾盘，ICE英国天然气期货涨5.70%，报190.050便士/千卡，北京时间22:00以来显著扩大涨幅。
 
 TTF基准荷兰天然气期货涨2.50%，报76.171欧元/兆瓦时。
 
 ICE欧盟碳排放交易许可（期货价格...](https://wallstreetcn.com/livenews/3170525)
-12. [谷歌推出搭载实时虚拟形象功能的Gemini 3.8 Live。](https://wallstreetcn.com/livenews/3170524)
-13. [穆迪维持百度A3评级，花旗持有百度好仓增持至5.04%](https://wallstreetcn.com/livenews/3170523)
-14. [习近平同美国总统特朗普小范围交流](https://wallstreetcn.com/livenews/3170522)
-15. [伊朗：已向巴基斯坦通报霍尔木兹海峡通行协议最新进展](https://wallstreetcn.com/livenews/3170521)
-16. [明晟公司MSCI北欧国家指数跌1%，报390.43点，创7月23日以来收盘新低。
+16. [谷歌推出搭载实时虚拟形象功能的Gemini 3.8 Live。](https://wallstreetcn.com/livenews/3170524)
+17. [穆迪维持百度A3评级，花旗持有百度好仓增持至5.04%](https://wallstreetcn.com/livenews/3170523)
+18. [习近平同美国总统特朗普小范围交流](https://wallstreetcn.com/livenews/3170522)
+19. [伊朗：已向巴基斯坦通报霍尔木兹海峡通行协议最新进展](https://wallstreetcn.com/livenews/3170521)
+20. [明晟公司MSCI北欧国家指数跌1%，报390.43点，创7月23日以来收盘新低。
 
 在十个板块中，北欧工业板块跌幅最大。
 
 Metso Oyj跌5.3%，在一众北欧个股里表现最差。](https://wallstreetcn.com/livenews/3170520)
-17. [巴西石油公司首席执行官：公司石油产量即将达到300万桶/日。](https://wallstreetcn.com/livenews/3170517)
-18. [印度将继续维持柴油出口，美国出口禁令预期扰动市场](https://wallstreetcn.com/livenews/3170516)
-19. [美元兑日元涨穿159，为9月2日以来首次，日内当前涨超0.4%。](https://wallstreetcn.com/livenews/3170515)
-20. [南非向美国投资者们提出关键矿物平台计划。](https://wallstreetcn.com/livenews/3170514)
-21. [美国寻求加入马斯克与欧盟就X罚款展开的法庭诉讼](https://wallstreetcn.com/livenews/3170512)
-22. [美国财政部拍卖四周期国债，得标利率3.850%，投标倍数2.61。
+21. [巴西石油公司首席执行官：公司石油产量即将达到300万桶/日。](https://wallstreetcn.com/livenews/3170517)
+22. [印度将继续维持柴油出口，美国出口禁令预期扰动市场](https://wallstreetcn.com/livenews/3170516)
+23. [美元兑日元涨穿159，为9月2日以来首次，日内当前涨超0.4%。](https://wallstreetcn.com/livenews/3170515)
+24. [南非向美国投资者们提出关键矿物平台计划。](https://wallstreetcn.com/livenews/3170514)
+25. [美国寻求加入马斯克与欧盟就X罚款展开的法庭诉讼](https://wallstreetcn.com/livenews/3170512)
+26. [美国财政部拍卖四周期国债，得标利率3.850%，投标倍数2.61。
 
 拍卖八周期国债，得标利率3.990%，投标倍数2.76。](https://wallstreetcn.com/livenews/3170511)
-23. [欧洲STOXX 600指数初步收跌0.56%，报636.33点。
+27. [欧洲STOXX 600指数初步收跌0.56%，报636.33点。
 
 欧元区STOXX 50指数初步收跌0.44%，报6272.39点。
 
 富时泛欧绩优300指数初步收跌0.51%，报2543.22点。](https://wallstreetcn.com/livenews/3170510)
-24. [习近平将同美国总统特朗普会谈](https://wallstreetcn.com/livenews/3170509)
-25. [现代汽车预计第三季度销量将超越福特，底特律车企混动布局不足](https://wallstreetcn.com/livenews/3170507)
-26. [美国10-30年期国债收益率上涨，创下多年来新高，投资者关注国际油价涨势。
+28. [习近平将同美国总统特朗普会谈](https://wallstreetcn.com/livenews/3170509)
+29. [现代汽车预计第三季度销量将超越福特，底特律车企混动布局不足](https://wallstreetcn.com/livenews/3170507)
+30. [美国10-30年期国债收益率上涨，创下多年来新高，投资者关注国际油价涨势。
 
 德国10年期国债收益率涨5个基点，报3.61%。](https://wallstreetcn.com/livenews/3170506)
-27. [巴基斯坦总理在联合国大会期间会见伊朗总统。](https://wallstreetcn.com/livenews/3170505)
-28. [WTI原油日内涨幅达4.0%，报95.87美元/桶；布伦特原油日内涨幅达3.5%，报101.56美元/桶。
+31. [巴基斯坦总理在联合国大会期间会见伊朗总统。](https://wallstreetcn.com/livenews/3170505)
+32. [WTI原油日内涨幅达4.0%，报95.87美元/桶；布伦特原油日内涨幅达3.5%，报101.56美元/桶。
 
 巴西雷亚尔、墨西哥比索、南非兰特刷新日低。
 
 新兴市场股票指数刷新日低。
 
 投资者关注伊朗威胁扩大中东战事的影响。](https://wallstreetcn.com/livenews/3170503)
-29. [现货白银日内跌幅达2.0%，报63.13美元/盎司。](https://wallstreetcn.com/livenews/3170502)
-30. [美元/瑞郎日内涨幅达0.5%，报0.8293。](https://wallstreetcn.com/livenews/3170501)
-31. [加纳黄金局将可自由向市场出售外汇。](https://wallstreetcn.com/livenews/3170499)
-32. [美国财政部：将在9月24日的流动性回购操作中，购入规模最高达60亿美元的期限为20-30年期国债。](https://wallstreetcn.com/livenews/3170497)
-33. [俄罗斯将今年石油出口预期砍掉超20%](https://wallstreetcn.com/livenews/3170496)
-34. [再过几天，大熊猫“平平”、“福双”就会落户亚特兰大动物园，同美国人民见面。（央视）](https://wallstreetcn.com/livenews/3170495)
-35. [美国9月堪萨斯联储制造业综合指数 14，预期 9，前值 10。](https://wallstreetcn.com/livenews/3170494)
-36. [习近平在白宫欢迎仪式上的致辞（全文）。（央视）](https://wallstreetcn.com/livenews/3170493)
-37. [NYMEX天然气期货涨超5%，现报3.311美元/百万英热单位。
+33. [现货白银日内跌幅达2.0%，报63.13美元/盎司。](https://wallstreetcn.com/livenews/3170502)
+34. [美元/瑞郎日内涨幅达0.5%，报0.8293。](https://wallstreetcn.com/livenews/3170501)
+35. [加纳黄金局将可自由向市场出售外汇。](https://wallstreetcn.com/livenews/3170499)
+36. [美国财政部：将在9月24日的流动性回购操作中，购入规模最高达60亿美元的期限为20-30年期国债。](https://wallstreetcn.com/livenews/3170497)
+37. [俄罗斯将今年石油出口预期砍掉超20%](https://wallstreetcn.com/livenews/3170496)
+38. [再过几天，大熊猫“平平”、“福双”就会落户亚特兰大动物园，同美国人民见面。（央视）](https://wallstreetcn.com/livenews/3170495)
+39. [美国9月堪萨斯联储制造业综合指数 14，预期 9，前值 10。](https://wallstreetcn.com/livenews/3170494)
+40. [习近平在白宫欢迎仪式上的致辞（全文）。（央视）](https://wallstreetcn.com/livenews/3170493)
+41. [NYMEX天然气期货涨超5%，现报3.311美元/百万英热单位。
 
 TC Energy旗下Columbia Gas Transmission管道系统向客户发布不可抗力通知，称MXP 100管线需“立即降压”，推动美国天然气期货大幅上涨...](https://wallstreetcn.com/livenews/3170492)
-38. [也门胡塞武装称袭击沙特多处军事目标](https://wallstreetcn.com/livenews/3170490)
-39. [临近10月交割，原糖价差跌至历史低位](https://wallstreetcn.com/livenews/3170489)
-40. [布伦特原油日内涨幅达3.0%，报101.1美元/桶。](https://wallstreetcn.com/livenews/3170488)
-41. [研究显示：本轮厄尔尼诺或致因高温死亡人数增加45万](https://wallstreetcn.com/livenews/3170486)
-42. [行业预计机器人租赁市场规模将增超900%](https://wallstreetcn.com/livenews/3170485)
-43. [习近平主席在欢迎仪式上发表致辞](https://wallstreetcn.com/livenews/3170483)
-44. [美国能源信息署（EIA）：美国上周EIA天然气库存增加530亿立方英尺，分析师预期增加507.3亿立方英尺，周环比增幅1.61%，至3.35万亿立方英尺。](https://wallstreetcn.com/livenews/3170482)
-45. [美国9月18日当周EIA天然气库存变动 530亿立方英尺，前值 440亿立方英尺。](https://wallstreetcn.com/livenews/3170481)
-46. [罗永浩发文辟谣售卖病死鱼：视频截图系抠图合成，从未卖过该产品](https://wallstreetcn.com/livenews/3170479)
-47. [美国总统特朗普在欢迎仪式上发表致辞](https://wallstreetcn.com/livenews/3170477)
-48. [提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。](https://wallstreetcn.com/livenews/3170476)
-49. [习主席强调三个“没有变”，内涵深刻！](https://wallstreetcn.com/livenews/3170475)
-50. [美国能源部宣布深化电网投资，将向31个电网升级改造项目提供资金支持。](https://wallstreetcn.com/livenews/3170474)
-51. [美国纽约起诉Polymarket涉嫌非法运营博彩活动。](https://wallstreetcn.com/livenews/3170473)
-52. [国际货币基金组织（IMF）：将任命Isabel Schnabel为货币与资本市场副主任。
+42. [也门胡塞武装称袭击沙特多处军事目标](https://wallstreetcn.com/livenews/3170490)
+43. [临近10月交割，原糖价差跌至历史低位](https://wallstreetcn.com/livenews/3170489)
+44. [布伦特原油日内涨幅达3.0%，报101.1美元/桶。](https://wallstreetcn.com/livenews/3170488)
+45. [研究显示：本轮厄尔尼诺或致因高温死亡人数增加45万](https://wallstreetcn.com/livenews/3170486)
+46. [行业预计机器人租赁市场规模将增超900%](https://wallstreetcn.com/livenews/3170485)
+47. [习近平主席在欢迎仪式上发表致辞](https://wallstreetcn.com/livenews/3170483)
+48. [美国能源信息署（EIA）：美国上周EIA天然气库存增加530亿立方英尺，分析师预期增加507.3亿立方英尺，周环比增幅1.61%，至3.35万亿立方英尺。](https://wallstreetcn.com/livenews/3170482)
+49. [美国9月18日当周EIA天然气库存变动 530亿立方英尺，前值 440亿立方英尺。](https://wallstreetcn.com/livenews/3170481)
+50. [罗永浩发文辟谣售卖病死鱼：视频截图系抠图合成，从未卖过该产品](https://wallstreetcn.com/livenews/3170479)
+51. [美国总统特朗普在欢迎仪式上发表致辞](https://wallstreetcn.com/livenews/3170477)
+52. [提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。](https://wallstreetcn.com/livenews/3170476)
+53. [习主席强调三个“没有变”，内涵深刻！](https://wallstreetcn.com/livenews/3170475)
+54. [美国能源部宣布深化电网投资，将向31个电网升级改造项目提供资金支持。](https://wallstreetcn.com/livenews/3170474)
+55. [美国纽约起诉Polymarket涉嫌非法运营博彩活动。](https://wallstreetcn.com/livenews/3170473)
+56. [国际货币基金组织（IMF）：将任命Isabel Schnabel为货币与资本市场副主任。
 
 有意任命其为金融顾问。](https://wallstreetcn.com/livenews/3170472)
-53. [中美两国元首将在欢迎仪式上发表致辞](https://wallstreetcn.com/livenews/3170471)
-54. [Meta Platforms Inc.涨3.1%，报767美元，创最近52周新高，分析师对Muse相关产品发布持乐观态度。
+57. [中美两国元首将在欢迎仪式上发表致辞](https://wallstreetcn.com/livenews/3170471)
+58. [Meta Platforms Inc.涨3.1%，报767美元，创最近52周新高，分析师对Muse相关产品发布持乐观态度。
 
 9月份迄今，Meta股价已经累计大涨33%，有望创2013年7月以来最大单月涨幅。](https://wallstreetcn.com/livenews/3170470)
-55. [欧洲央行：执委会成员Isabel Schnabel将离职。
+59. [欧洲央行：执委会成员Isabel Schnabel将离职。
 
 其将到国际货币基金组织（IMF）履新。](https://wallstreetcn.com/livenews/3170469)
-56. [【习近平主席车队抵达白宫】当地时间9月24日上午，国家主席习近平和夫人彭丽媛乘车抵达白宫，出席美国总统特朗普举行的欢迎仪式。（央视）](https://wallstreetcn.com/livenews/3170468)
-57. [习近平出席美国总统特朗普举行的欢迎仪式](https://wallstreetcn.com/livenews/3170467)
-58. [美国费城联储主席Paulson（2026年FOMC票委）：可能需要适度加息。
+60. [【习近平主席车队抵达白宫】当地时间9月24日上午，国家主席习近平和夫人彭丽媛乘车抵达白宫，出席美国总统特朗普举行的欢迎仪式。（央视）](https://wallstreetcn.com/livenews/3170468)
+61. [习近平出席美国总统特朗普举行的欢迎仪式](https://wallstreetcn.com/livenews/3170467)
+62. [美国费城联储主席Paulson（2026年FOMC票委）：可能需要适度加息。
 
 让通胀回归2%是头等大事。
 
@@ -100,20 +108,19 @@ TC Energy旗下Columbia Gas Transmission管道系统向客户发布不可抗力�
 虽然面临诸多冲击，（经济）产出稳健，劳动力市场稳定。
 
 AI投资给需求、价格带来实质性的影响。](https://wallstreetcn.com/livenews/3170466)
-59. [摩尔多瓦总理称该国无意加入北约](https://wallstreetcn.com/livenews/3170465)
-60. [特朗普总统夫妇在下车处迎候习近平主席夫妇](https://wallstreetcn.com/livenews/3170464)
-61. [习近平主席车队将抵达白宫](https://wallstreetcn.com/livenews/3170463)
-62. [美国8月独栋新房销量增长6.4%，创2026年迄今最快。](https://wallstreetcn.com/livenews/3170462)
-63. [阿尔诺以简化控股结构进一步收紧对LVMH集团的控制权](https://wallstreetcn.com/livenews/3170461)
-64. [美国8月新屋销售 68.4万户，预期 61.6万户，前值 60.7万户。](https://wallstreetcn.com/livenews/3170460)
-65. [美国8月新屋销售环比 6.4%，预期 1.4%，前值 -10.5%。](https://wallstreetcn.com/livenews/3170459)
-66. [乌克兰称俄军袭击多地致9人死亡](https://wallstreetcn.com/livenews/3170458)
-67. [进银新型政策性金融工具9月以来投放超220亿元](https://wallstreetcn.com/livenews/3170457)
-68. [源杰科技：控股股东等拟减持不超过0.2317%股份。](https://wallstreetcn.com/livenews/3170456)
-69. [“固收+”正式纳入个人养老金基金产品名录](https://wallstreetcn.com/livenews/3170455)
-70. [据美国纽约联储数据，上个交易日（9月23日）担保隔夜融资利率（SOFR）报3.87%，之前一天报3.87%。
+63. [摩尔多瓦总理称该国无意加入北约](https://wallstreetcn.com/livenews/3170465)
+64. [特朗普总统夫妇在下车处迎候习近平主席夫妇](https://wallstreetcn.com/livenews/3170464)
+65. [习近平主席车队将抵达白宫](https://wallstreetcn.com/livenews/3170463)
+66. [美国8月独栋新房销量增长6.4%，创2026年迄今最快。](https://wallstreetcn.com/livenews/3170462)
+67. [阿尔诺以简化控股结构进一步收紧对LVMH集团的控制权](https://wallstreetcn.com/livenews/3170461)
+68. [美国8月新屋销售 68.4万户，预期 61.6万户，前值 60.7万户。](https://wallstreetcn.com/livenews/3170460)
+69. [美国8月新屋销售环比 6.4%，预期 1.4%，前值 -10.5%。](https://wallstreetcn.com/livenews/3170459)
+70. [乌克兰称俄军袭击多地致9人死亡](https://wallstreetcn.com/livenews/3170458)
+71. [进银新型政策性金融工具9月以来投放超220亿元](https://wallstreetcn.com/livenews/3170457)
+72. [源杰科技：控股股东等拟减持不超过0.2317%股份。](https://wallstreetcn.com/livenews/3170456)
+73. [“固收+”正式纳入个人养老金基金产品名录](https://wallstreetcn.com/livenews/3170455)
+74. [据美国纽约联储数据，上个交易日（9月23日）担保隔夜融资利率（SOFR）报3.87%，之前一天报3.87%。
 
 上个交易日有效的联邦基金利率报3.88%，之前一天报3.88%。](https://wallstreetcn.com/livenews/3170454)
-71. [国际机器人联合会：中国蝉联全球工业机器人最大市场](https://wallstreetcn.com/livenews/3170453)
-72. [地缘冲突致供应不稳 欧盟柴油均价创新高](https://wallstreetcn.com/livenews/3170452)
-73. [行付通支付获批合并东方付通支付](https://wallstreetcn.com/livenews/3170451)
+75. [国际机器人联合会：中国蝉联全球工业机器人最大市场](https://wallstreetcn.com/livenews/3170453)
+76. [地缘冲突致供应不稳 欧盟柴油均价创新高](https://wallstreetcn.com/livenews/3170452)
