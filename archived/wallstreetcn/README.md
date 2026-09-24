@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-25 05:34:34
+> 更新时间：2026-09-25 05:48:12
 
 ## 7x24
 
@@ -10,7 +10,7 @@
 商品货币对中，澳元兑美元跌0.35%，纽元兑美元跌0.16%，美元兑加元涨0.29%。
 
 瑞典克朗兑美元跌0.15%，挪威克朗兑美...](https://wallstreetcn.com/livenews/3170632)
-3. [哥伦比亚宣布已与伊朗断绝外交关系。](https://wallstreetcn.com/livenews/3170631)
+3. [哥伦比亚宣布与伊朗断交](https://wallstreetcn.com/livenews/3170631)
 4. [富时A50期指连续夜盘收涨0.03%，报14318点。](https://wallstreetcn.com/livenews/3170629)
 5. [Anthropic生物学发现引发科学家谨慎表态](https://wallstreetcn.com/livenews/3170627)
 6. [阿根廷总统：若英国移交控制权，阿方不会驱逐福克兰群岛居民](https://wallstreetcn.com/livenews/3170626)
@@ -82,10 +82,3 @@ CBOT玉米期货跌0.47%，CBOT小麦期货跌0.28%，CBOT大豆期货跌0.10%�
 42. [墨西哥央行维持隔夜利率在6.50%不变。](https://wallstreetcn.com/livenews/3170582)
 43. [伊拉克与美国签署巴格达机场外交支持设施移交协议](https://wallstreetcn.com/livenews/3170581)
 44. [法国总统马克龙：希望七国集团（G7）讨论释放战略石油储备问题。](https://wallstreetcn.com/livenews/3170579)
-45. [瑞银集团：预计特斯拉三季度车辆销售/交付47万辆（彭博调查结果为46.6万）。](https://wallstreetcn.com/livenews/3170578)
-46. [据媒体报道：伊朗代表团未出席内塔尼亚胡在联合国大会上的演讲。](https://wallstreetcn.com/livenews/3170577)
-47. [TypeSafe AI洽谈融资至少10亿美元。（The Information）](https://wallstreetcn.com/livenews/3170576)
-48. [伦交所理柏（LSEG Lipper）数据显示，9月23日当周，美国杠杆贷款基金最近一周资金流入13亿美元，创2025年2月19日以来新高，连续13周获得资金流入、创一年来最长连涨。
-
-上周，美联储加息。](https://wallstreetcn.com/livenews/3170575)
-49. [瑞银股价上涨，有报道称其考虑与外国银行合并](https://wallstreetcn.com/livenews/3170574)
