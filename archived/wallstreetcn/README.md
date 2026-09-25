@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-25 13:10:04
+> 更新时间：2026-09-25 13:26:38
 
 ## 7x24
 
@@ -21,6 +21,3 @@
 15. [成渝中线高铁重庆段铺轨完成](https://wallstreetcn.com/livenews/3170679)
 16. [特斯拉开始交付Semi电动卡车](https://wallstreetcn.com/livenews/3170678)
 17. [截至早盘收盘，日经225指数、东证指数涨1.2%。](https://wallstreetcn.com/livenews/3170677)
-18. [日本财务大臣片山皋月：收益率受到多种因素的影响。
-
-我们正在尽力采取措施应对收益率上升。](https://wallstreetcn.com/livenews/3170676)
