@@ -5,7 +5,7 @@ import logging
 import requests
 
 from ..models import HotItem, Ranking
-from .common import snapshot
+from .common import snapshot, unavailable
 from .tophub import fetch_ranking as fetch_tophub_ranking
 
 
@@ -62,9 +62,10 @@ def collect() -> "ChannelSnapshot":
                 min_items=5,
             )
         except Exception as fallback_error:  # noqa: BLE001 - expose complete source failure to runner
-            raise RuntimeError(
-                f"雪球官方及今日热榜数据源均不可用: {fallback_error}"
-            ) from fallback_error
+            return unavailable(
+                "xueqiu",
+                f"雪球官方及今日热榜数据源均不可用: {fallback_error}",
+            )
         provider_name = "今日热榜"
         provider_url = TOPHUB_URL
 
