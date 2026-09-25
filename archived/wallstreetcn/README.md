@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 07:08:38
+> 更新时间：2026-09-26 07:22:41
 
 ## 7x24
 
@@ -53,6 +53,3 @@
 27. [OpenAI正设法在发生用户数据泄露事故理解AI agent的活动范围。（路透）](https://wallstreetcn.com/livenews/3170910)
 28. [报道：Anthropic正谈判租赁最高1吉瓦算力，需要投入至少400亿美元](https://wallstreetcn.com/livenews/3170909)
 29. [伊朗外交部长：伊朗方面可以接受这份七天计划，霍尔木兹海峡最终将恢复通航。](https://wallstreetcn.com/livenews/3170907)
-30. [新兴市场ETF收涨约1.1%，与日元ETF领涨美股大类资产类ETF，布油基金跌超3.5%](https://wallstreetcn.com/livenews/3170906)
-31. [美联储：美国上周银行存款19.568万亿美元，之前一周19.658万亿美元。](https://wallstreetcn.com/livenews/3170905)
-32. [标普500指数的11个板块多数收涨，信息技术/科技板块涨0.99%，工业板块涨0.94%，金融板块涨0.53%，房地产、电信、能源板块则至多收跌0.87%。](https://wallstreetcn.com/livenews/3170904)
