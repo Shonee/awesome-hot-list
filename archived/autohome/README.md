@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-09-25 15:28:11
+> 更新时间：2026-09-25 16:31:05
 
 ## 每日热点榜
 
@@ -10,19 +10,19 @@
 4. [9月车圈促销战来袭](https://mf.autohome.com.cn/v3/13663)
 5. [余承东称四界将获得更充足资源](https://chejiahao.autohome.com.cn/info/26534046#pvareaid=6834132)
 6. [新一轮购车补贴来了 多地放大招](https://chejiahao.autohome.com.cn/info/26533414#pvareaid=6834132)
-7. [宾利托卡尔纯电SUV首发](http://www.autohome.com.cn/news/202609/1317391.html)
+7. [国内高颜值皮卡方程豹鲨鱼官图](http://www.autohome.com.cn/news/202609/1317393.html)
 8. [大众安徽与众09预售19.99万起](http://www.autohome.com.cn/news/202609/1317413.html)
-9. [比亚迪方程豹鲨鱼皮卡官图公布](http://www.autohome.com.cn/news/202609/1317393.html)
-10. [林肯神秘车型曝光](http://www.autohome.com.cn/news/202609/1317392.html)
-11. [奔腾小马新增搭载宁德时代电池车型](https://chejiahao.autohome.com.cn/info/26530206#pvareaid=6834132)
-12. [本轮油价继续上调](http://www.autohome.com.cn/news/202609/1317411.html)
-13. [三十余款新车节前扎堆上市](https://chejiahao.autohome.com.cn/info/26509357#pvareaid=6834132)
-14. [长城大狗系列混动版车型官图公布](http://www.autohome.com.cn/news/202609/1317394.html)
-15. [全新深蓝S07接入豆包模型](https://chejiahao.autohome.com.cn/info/26520360#pvareaid=6834132)
-16. [问界新M8内饰正式揭晓](https://chejiahao.autohome.com.cn/info/26540967#pvareaid=6834132)
+9. [林肯神秘车型曝光](http://www.autohome.com.cn/news/202609/1317392.html)
+10. [奔腾小马新增搭载宁德时代电池车型](https://chejiahao.autohome.com.cn/info/26530206#pvareaid=6834132)
+11. [三十余款新车节前扎堆上市](https://chejiahao.autohome.com.cn/info/26509357#pvareaid=6834132)
+12. [问界新M8内饰正式揭晓](https://chejiahao.autohome.com.cn/info/26540967#pvareaid=6834132)
+13. [长城大狗系列混动版车型官图公布](http://www.autohome.com.cn/news/202609/1317394.html)
+14. [全新深蓝S07接入豆包模型](https://chejiahao.autohome.com.cn/info/26520360#pvareaid=6834132)
+15. [凯迪拉克XT5 PHEV开启交付](http://www.autohome.com.cn/news/202609/1317396.html)
+16. [斯巴鲁WRX和BRZ特别版预告](http://www.autohome.com.cn/news/202609/1317407.html)
 17. [日产Pixo官图曝光](http://www.autohome.com.cn/news/202609/1317403.html)
-18. [斯巴鲁WRX和BRZ特别版预告](http://www.autohome.com.cn/news/202609/1317407.html)
-19. [新款天逸C5 AIRCROSS实车亮相](http://www.autohome.com.cn/news/202609/1317355.html)
-20. [工信部旗下媒体：去宁德化论调要不得](http://club.autohome.com.cn/bbs/thread/01bac89ef5e0f8e2/116219747-1.html)
-21. [严管速成车进入下一阶段](https://chejiahao.autohome.com.cn/info/26519119#pvareaid=6834132)
-22. [欣旺达：拟向国开行深圳分行申请1.02亿元借款](https://chejiahao.autohome.com.cn/info/26534692#pvareaid=6834132)
+18. [新款天逸C5 AIRCROSS实车亮相](http://www.autohome.com.cn/news/202609/1317355.html)
+19. [严管速成车进入下一阶段](https://chejiahao.autohome.com.cn/info/26519119#pvareaid=6834132)
+20. [欣旺达：拟向国开行深圳分行申请1.02亿元借款](https://chejiahao.autohome.com.cn/info/26534692#pvareaid=6834132)
+21. [智界R7焕新款展车到店](http://club.autohome.com.cn/bbs/thread/cc4166a5342c34fa/116245064-1.html)
+22. [李想回应i6延期：10月底才有合格证](https://chejiahao.autohome.com.cn/info/26535097#pvareaid=6834132)
