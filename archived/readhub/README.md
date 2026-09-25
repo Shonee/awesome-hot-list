@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-25 20:32:58
+> 更新时间：2026-09-25 21:23:36
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [LVMH 阿诺特家族推进股权架构重组，巩固集团控制权](https://readhub.cn/topic/8wfOgTLsQs6?tab=daily)
 10. [一家机器人数据公司关门，创始人复盘：卖数据撑不起一家独立公司](https://readhub.cn/topic/8wgg34AgKZ3?tab=daily)
 11. [影石正布局 AI 眼镜，或采用「分体电池」设计](https://readhub.cn/topic/8whmcQPN7w0?tab=daily)
-12. [Meta 承认 Muse 产品设计深受 OpenClaw 启发，但强调从零构建](https://readhub.cn/topic/8weFyacqAXK?tab=daily)
-13. [长安汽车：力争在 2028 年实现人形机器人量产](https://readhub.cn/topic/8whXc7dvtVg?tab=daily)
-14. [哈伊高铁 9 月 28 日开通运营 沿线多地接入全国高铁网](https://readhub.cn/topic/8whqBaLrBle?tab=daily)
+12. [长安汽车：力争在 2028 年实现人形机器人量产](https://readhub.cn/topic/8whXc7dvtVg?tab=daily)
+13. [哈伊高铁 9 月 28 日开通运营 沿线多地接入全国高铁网](https://readhub.cn/topic/8whqBaLrBle?tab=daily)
+14. [高通这一代骁龙：手机芯片，开始为 Agent 重新设计](https://readhub.cn/topic/8wgpIhizYDU?tab=daily)
 15. [朱一明关联石溪资本拟出资 50 亿元参与 DeepSeek 第二轮融资](https://readhub.cn/topic/8wg4rhlMwUn?tab=daily)
-16. [成渝中线高铁重庆段铺轨完成](https://readhub.cn/topic/8whgBxvqHBv?tab=daily)
-17. [高通这一代骁龙：手机芯片，开始为 Agent 重新设计](https://readhub.cn/topic/8wgpIhizYDU?tab=daily)
-18. [Meta 发布 Muse 个人智能体生态 推出百克 VR 眼镜等多款硬件](https://readhub.cn/topic/8wgO9Es1VX6?tab=daily)
-19. [Google、OpenAI 和 Anthropic 筹建 AI 安全自律机构，拟为前沿模型制定统一标准](https://readhub.cn/topic/8wgjE5lIDfR?tab=daily)
-20. [Meta 推出外观酷似眼镜的 VR 头显 售价 1299 美元](https://readhub.cn/topic/8wfoQtGePn4?tab=daily)
-21. [苹果推送 watchOS 27.0.1 更新 修复 Apple Watch Series 12 / Ultra 4 随机重启故障](https://readhub.cn/topic/8wfXzVrq5K5?tab=daily)
+16. [Meta 发布 Muse 个人智能体生态 推出百克 VR 眼镜等多款硬件](https://readhub.cn/topic/8wgO9Es1VX6?tab=daily)
+17. [成渝中线高铁重庆段铺轨完成](https://readhub.cn/topic/8whgBxvqHBv?tab=daily)
+18. [Meta 推出外观酷似眼镜的 VR 头显 售价 1299 美元](https://readhub.cn/topic/8wfoQtGePn4?tab=daily)
+19. [苹果推送 watchOS 27.0.1 更新 修复 Apple Watch Series 12 / Ultra 4 随机重启故障](https://readhub.cn/topic/8wfXzVrq5K5?tab=daily)
+20. [Google、OpenAI 和 Anthropic 筹建 AI 安全自律机构，拟为前沿模型制定统一标准](https://readhub.cn/topic/8wgjE5lIDfR?tab=daily)
+21. [Yuga Labs 高管提醒用户尽快撤销相关合约授权](https://readhub.cn/topic/8wi0CEXwOGM?tab=daily)
 22. [美国能源部将投入近 20 亿美元升级电网](https://readhub.cn/topic/8wgl5NBB35C?tab=daily)
 23. [LG 电子印度公司收到海关拟追缴约 15.4 亿卢比关税通知](https://readhub.cn/topic/8whzTMV6wnn?tab=daily)
 24. [Meta 市值有望逼近 2 万亿美元 股价或创 13 年最佳月表现](https://readhub.cn/topic/8whHsXTgfcC?tab=daily)
 25. [柳州推进向海图强开放发展 多项产业开放成果公布](https://readhub.cn/topic/8whZ1pbAFmu?tab=daily)
 26. [谷歌推出搭载实时虚拟形象功能的 Gemini 3.8 Live](https://readhub.cn/topic/8wgvjeIqzCJ?tab=daily)
 27. [沙特 7 月石油出口额同比下降 12.8%](https://readhub.cn/topic/8wgGHfyhb1P?tab=daily)
-28. [中际旭创完成回购股份 565.31 万股 耗资 49.97 亿元](https://readhub.cn/topic/8wggjetXmvq?tab=daily)
-29. [Yuga Labs 高管提醒用户尽快撤销相关合约授权](https://readhub.cn/topic/8wi0CEXwOGM?tab=daily)
-30. [源杰科技：控股股东等拟减持不超过 0.2317% 股份](https://readhub.cn/topic/8wgn9pDb6i2?tab=daily)
+28. [源杰科技：控股股东等拟减持不超过 0.2317% 股份](https://readhub.cn/topic/8wgn9pDb6i2?tab=daily)
+29. [中信证券：高阶智驾加速渗透 产业链持续受益](https://readhub.cn/topic/8why2pWL9qr?tab=daily)
+30. [谷歌计划下周发射搭载 4 颗 TPU 的原型卫星](https://readhub.cn/topic/8whOJtEjtxA?tab=daily)
 
 ## 每日早报
 
@@ -49,11 +49,11 @@
 
 1. [美国初创给 AI 造了座实验室，发现模型缺的是实验室手感](https://www.mittrchina.com/news/detail/17014)
 2. [一边减碳一边建电厂，AI 到底是救气候还是毁气候？](https://www.mittrchina.com/news/detail/17013)
-3. [AI 资本开支冲向 1.7 万亿美元，回报要达到什么水平才算合理？高盛算了一笔账](https://wallstreetcn.com/articles/3782541)
-4. [为了把更多 HBM 塞进芯片，英伟达加速推进玻璃基板技术](https://wallstreetcn.com/articles/3782539)
-5. [IMF：2026 年全球 AI 投资规模或突破 2 万亿美元，成为增长重要驱动力](https://wallstreetcn.com/livenews/3170722)
-6. [AI 需求吃紧 12 英寸晶圆产能，2027 年涨价超 40%、2028 年继续上涨](https://news.mydrivers.com/1/1153/1153958.htm)
-7. [甲骨文为数据中心延期风险留后路，发出「不可抗力」通知引华尔街质疑](https://www.ithome.com/1/007/158.htm)
-8. [第 48 届世界技能大赛在沪举办，新增 3 项人工智能相关赛项创历届之最](https://www.ithome.com/1/007/206.htm)
-9. [Meta 个人智能体 Muse macOS 版被曝严重漏洞，可被劫持操控关联应用](https://www.ithome.com/1/007/126.htm)
-10. [中国各地推动 AI 视频产业化](https://www.solidot.org/story?sid=85475)
+3. [梁文锋狙击战：深扒那些梁文锋署名的论文有多牛](https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html)
+4. [马斯克放话：Colossus 2 部署的英伟达芯片年底或增加一倍](https://wallstreetcn.com/articles/3782549)
+5. [AI 资本开支冲向 1.7 万亿美元，回报要达到什么水平才算合理？高盛算了一笔账](https://wallstreetcn.com/articles/3782541)
+6. [为了把更多 HBM 塞进芯片，英伟达加速推进玻璃基板技术](https://wallstreetcn.com/articles/3782539)
+7. [IMF：2026 年全球 AI 投资规模或突破 2 万亿美元，成为增长重要驱动力](https://wallstreetcn.com/livenews/3170722)
+8. [英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期](https://www.ithome.com/1/007/228.htm)
+9. [AI 需求吃紧 12 英寸晶圆产能，2027 年涨价超 40%、2028 年继续上涨](https://news.mydrivers.com/1/1153/1153958.htm)
+10. [甲骨文为数据中心延期风险留后路，发出「不可抗力」通知引华尔街质疑](https://www.ithome.com/1/007/158.htm)

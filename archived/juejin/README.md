@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-25 20:32:34
+> 更新时间：2026-09-25 21:23:15
 
 ## 热门文章
 
@@ -21,13 +21,13 @@
 15. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
 16. [订单30分钟未支付自动取消：定时任务为什么被面试官嫌弃](https://juejin.cn/post/7688532185122422794)
 17. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
-18. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
-19. [同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层](https://juejin.cn/post/7688805244534325263)
+18. [同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层](https://juejin.cn/post/7688805244534325263)
+19. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
 20. [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490)
-21. [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945)
-22. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://juejin.cn/post/7688334749719789604)
-23. [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401)
-24. [WorkBuddy 每天自动领积分！教你用云函数做个签到机器人](https://juejin.cn/post/7688905988846305289)
+21. [WorkBuddy 每天自动领积分！教你用云函数做个签到机器人](https://juejin.cn/post/7688905988846305289)
+22. [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945)
+23. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://juejin.cn/post/7688334749719789604)
+24. [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401)
 25. [大模型在货拉拉营销广告的应用实践](https://juejin.cn/post/7688368434233606178)
 26. [Antigravity + Blender MCP（下）：3D 智慧仓储数字孪生进阶实战](https://juejin.cn/post/7688329495955243058)
 27. [历时三年，我的第一款全栈产品 Acrodata 终于上线了！](https://juejin.cn/post/7688163400499281935)
@@ -40,8 +40,8 @@
 34. [从零构建一个生产级记忆型 AI Agent —— AgentScope 项目全景技术与学习指南](https://juejin.cn/post/7688252916677230592)
 35. [AI 圈爆火的 Jev 是什么？如何在 TraeCode 中使用](https://juejin.cn/post/7688018731444584457)
 36. [你有搞明白 Volatile 什么意思吗？](https://juejin.cn/post/7687823120007397412)
-37. [安卓代码加固（1）：加密DEX](https://juejin.cn/post/7688669403517681674)
-38. [多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案](https://juejin.cn/post/7688585710283014184)
+37. [多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案](https://juejin.cn/post/7688585710283014184)
+38. [安卓代码加固（1）：加密DEX](https://juejin.cn/post/7688669403517681674)
 39. [从零到一开发一个英语情景教学Agent](https://juejin.cn/post/7688557018052968498)
 40. [Java 线程池原理详解：从核心参数到线上调优](https://juejin.cn/post/7688298824981610511)
 41. [Skill 为什么不同于 Tool？Agent 技能库的自演进与动态加载机制](https://juejin.cn/post/7687897009885397028)
