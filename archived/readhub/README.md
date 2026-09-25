@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-26 03:17:55
+> 更新时间：2026-09-26 04:20:28
 
 ## 24 小时热榜
 
@@ -15,24 +15,24 @@
 9. [一家机器人数据公司关门，创始人复盘：卖数据撑不起一家独立公司](https://readhub.cn/topic/8wgg34AgKZ3?tab=daily)
 10. [LVMH 阿诺特家族推进股权架构重组，巩固集团控制权](https://readhub.cn/topic/8wfOgTLsQs6?tab=daily)
 11. [影石正布局 AI 眼镜，或采用「分体电池」设计](https://readhub.cn/topic/8whmcQPN7w0?tab=daily)
-12. [长安汽车：力争在 2028 年实现人形机器人量产](https://readhub.cn/topic/8whXc7dvtVg?tab=daily)
-13. [高通这一代骁龙：手机芯片，开始为 Agent 重新设计](https://readhub.cn/topic/8wgpIhizYDU?tab=daily)
-14. [哈伊高铁 9 月 28 日开通运营 沿线多地接入全国高铁网](https://readhub.cn/topic/8whqBaLrBle?tab=daily)
-15. [朱一明关联石溪资本拟出资 50 亿元参与 DeepSeek 第二轮融资](https://readhub.cn/topic/8wg4rhlMwUn?tab=daily)
-16. [LG 电子印度公司收到海关拟追缴约 15.4 亿卢比关税通知](https://readhub.cn/topic/8whzTMV6wnn?tab=daily)
+12. [哈伊高铁 9 月 28 日开通运营 沿线多地接入全国高铁网](https://readhub.cn/topic/8whqBaLrBle?tab=daily)
+13. [长安汽车：力争在 2028 年实现人形机器人量产](https://readhub.cn/topic/8whXc7dvtVg?tab=daily)
+14. [高通这一代骁龙：手机芯片，开始为 Agent 重新设计](https://readhub.cn/topic/8wgpIhizYDU?tab=daily)
+15. [LG 电子印度公司收到海关拟追缴约 15.4 亿卢比关税通知](https://readhub.cn/topic/8whzTMV6wnn?tab=daily)
+16. [朱一明关联石溪资本拟出资 50 亿元参与 DeepSeek 第二轮融资](https://readhub.cn/topic/8wg4rhlMwUn?tab=daily)
 17. [Yuga Labs 高管提醒用户尽快撤销相关合约授权](https://readhub.cn/topic/8wi0CEXwOGM?tab=daily)
 18. [成渝中线高铁重庆段铺轨完成](https://readhub.cn/topic/8whgBxvqHBv?tab=daily)
 19. [Meta 推出外观酷似眼镜的 VR 头显 售价 1299 美元](https://readhub.cn/topic/8wfoQtGePn4?tab=daily)
 20. [Meta 市值有望逼近 2 万亿美元 股价或创 13 年最佳月表现](https://readhub.cn/topic/8whHsXTgfcC?tab=daily)
 21. [谷歌计划下周发射搭载 4 颗 TPU 的原型卫星](https://readhub.cn/topic/8whOJtEjtxA?tab=daily)
-22. [柳州推进向海图强开放发展 多项产业开放成果公布](https://readhub.cn/topic/8whZ1pbAFmu?tab=daily)
-23. [从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5 正在重新定义 vibe coding](https://readhub.cn/topic/8wi8lTJ6oTE?tab=daily)
-24. [中信证券：高阶智驾加速渗透 产业链持续受益](https://readhub.cn/topic/8why2pWL9qr?tab=daily)
-25. [斑马智能发布端侧大模型，推动 AI 在智能终端深度落地](https://readhub.cn/topic/8wgNVVggiFw?tab=daily)
-26. [日本金融厅加强对人工智能数据中心融资的审查力度](https://readhub.cn/topic/8wi1ygYzNPb?tab=daily)
-27. [法国拟召集七国集团商讨释放战略石油储备](https://readhub.cn/topic/8wh7sT5cFTM?tab=daily)
-28. [智元第 20000 台具身智能机器人下线 刷新全球量产纪录](https://readhub.cn/topic/8wfzvXgHB9T?tab=daily)
-29. [实测 Opus 5.5：一句提示词造出 100 个网页，还会做动画谱曲](https://readhub.cn/topic/8wiZCtxJRlh?tab=daily)
+22. [从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5 正在重新定义 vibe coding](https://readhub.cn/topic/8wi8lTJ6oTE?tab=daily)
+23. [实测 Opus 5.5：一句提示词造出 100 个网页，还会做动画谱曲](https://readhub.cn/topic/8wiZCtxJRlh?tab=daily)
+24. [柳州推进向海图强开放发展 多项产业开放成果公布](https://readhub.cn/topic/8whZ1pbAFmu?tab=daily)
+25. [中信证券：高阶智驾加速渗透 产业链持续受益](https://readhub.cn/topic/8why2pWL9qr?tab=daily)
+26. [斑马智能发布端侧大模型，推动 AI 在智能终端深度落地](https://readhub.cn/topic/8wgNVVggiFw?tab=daily)
+27. [智元第 20000 台具身智能机器人下线 刷新全球量产纪录](https://readhub.cn/topic/8wfzvXgHB9T?tab=daily)
+28. [日本金融厅加强对人工智能数据中心融资的审查力度](https://readhub.cn/topic/8wi1ygYzNPb?tab=daily)
+29. [法国拟召集七国集团商讨释放战略石油储备](https://readhub.cn/topic/8wh7sT5cFTM?tab=daily)
 30. [腾讯旗下 QClaw 将于 12 月 24 日停运，即日起停止新用户注册](https://readhub.cn/topic/8whMss55whl?tab=daily)
 
 ## 每日早报
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [美国初创给 AI 造了座实验室，发现模型缺的是实验室手感](https://www.mittrchina.com/news/detail/17014)
-2. [一边减碳一边建电厂，AI 到底是救气候还是毁气候？](https://www.mittrchina.com/news/detail/17013)
-3. [智元第 20000 台具身机器人交付长隆，首期超 300 台机器人常驻乐园](https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html)
-4. [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/)
-5. [梁文锋狙击战：深扒那些梁文锋署名的论文有多牛](https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html)
-6. [畅销小说被指用 AI 创作，法国龚古尔奖将其移出初选名单](https://www.ithome.com/1/007/252.htm)
-7. [Google 将于 10 月 1 日发射首颗太空 AI 计算实验卫星，搭载 4 枚 TPU 运行 Gemini](https://www.techflowpost.com/zh-CN/newsletter/137808)
-8. [GPT-6 Astra 考过「科目二」？5 分 22 秒驶入锥桶车位](https://www.theblockbeats.info/flash/369037)
-9. [马斯克放话：Colossus 2 部署的英伟达芯片年底或增加一倍](https://wallstreetcn.com/articles/3782549)
-10. [AI 资本开支冲向 1.7 万亿美元，回报要达到什么水平才算合理？高盛算了一笔账](https://wallstreetcn.com/articles/3782541)
+1. [美国初创给 AI 造了座实验室，发现模型缺的是实验室手感 该初创公司发布了一个名为 SciUniverse 的基准，用于测试模型能否在真实实验室里工作。结果发现，模型虽然很懂科学理论，却在实际操作中频繁遗漏关键细节。它并未声称模型能独自搞定所有动手的活，这个区别划出了实际测试的边界：要测的是模型能否可靠地把一个研究目标转化为人和机器都能照着做的实验步骤，最后再用实验结果指导下一步决策。一些行业内其他动向也值得留意，比如 Insilico Medicine 公司宣布在其 AI 驱动的全机器人药物发现实验室里部署了第一台双足人形机器人，能够用于数据采集和生成，训练具身 AI 系统地学习人类实验室科学家的技能。 麻省理工科技评论 8 小时前](https://www.mittrchina.com/news/detail/17014)
+2. [一边减碳一边建电厂，AI 到底是救气候还是毁气候？ 围绕人工智能对气候变化和气候技术的影响，一种日益明显的分歧正在浮现。联合国秘书长安东尼奥・古特雷斯在大会首日的讲话中谈到了人工智能与气候问题的交汇。联合国气候事务负责人西蒙・斯蒂尔本周在一次讲话中说：「在能否继续获得社会认可、维持运营方面，人工智能行业领导者如今已如履薄冰」。 麻省理工科技评论 8 小时前](https://www.mittrchina.com/news/detail/17013)
+3. [智元第 20000 台具身机器人交付长隆，首期超 300 台机器人常驻乐园 作为全球首个大规模具身智能主题乐园，乐园此次引入超 300 台智元机器人，分布在 100 余个交互体验点，覆盖文娱商演、科普研学、导览导引、服务零售、智能伴游、酒店场景、体育竞技七大场景。同一天，智元第 20000 台具身智能机器人远征 A3 Ultra 正式下线并交付长隆集团，「长隆 × 智元具身智能文旅联合研究院」揭牌，由智元、长隆集团与中国移动联合共研的文旅场景大规模 5G-A 具身智能创新应用也同步发布。今年此前，智元第 15000 台具身机器人交付的场景是龙旗科技的产线，对应工业场景的劳动生产力。 雷锋网 3 小时前](https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html)
+4. [Alibaba unveils V900 AI chip, plans data center capacity past 20 GW by 2032 Alibaba opened its annual Apsara Conference in Hangzhou with three big numbers: a chip that it says triples the performance of its predecessor, AI clusters that could stretch to 500,000 of those chips, and a pledge, quoted by the South China Morning Post, that the data centers Alibaba Cloud operates worldwide will pass 20 gigawatts of capacity by 2032. The V900, as per Zhidx, reporting on the launch, lists 216GB of memory and 1,200GB/s of chip-to-chip bandwidth and was originally expected to be available to clients in Q3 2027 before the recent revision pushed it two quarters earlier. Wu said medium- to long-term demand far exceeds what Alibaba can supply, and that shortages across the AI data center supply chain「are currently limiting the speed at which we can scale our compute infrastructure.」The target covers capacity Alibaba Cloud operates, and the company did not say whether it means IT load or total facility power. techradar.com 1 小时前](https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus)
+5. [Quoting John Gruber ‘‘「Muse is getting a lot of attention — including mine — because it」s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta's cloud) and because it's packaged in an easy-to-install easy-to-use way ... If you buy a power saw that can cut your fingers off, you are almost certainly aware that you are buying a power saw that can sever your fingers ... ‘「[...] I don」t think people realize how powerful — and thus dangerous — Muse is, especially if it's running on your Mac. Simon Willison 2 小时前](https://simonwillison.net/2026/Sep/25/john-gruber/)
+6. [梁文锋狙击战：深扒那些梁文锋署名的论文有多牛 过去三年，梁文锋极少以第一作者或通讯作者身份出现在 V3.2、V4、V4.1-Flash 等上百人署名的旗舰模型整体报告中。整整 11 篇梁文锋署名的论文，串起了一部精准瞄准行业核心痛点、直击底层内核的技术狙击史。回望三年，这 11 篇技术论文从成本战出发，专挑最底层、最硬核的地方下手。 雷锋网 9 小时前](https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html)
+7. [畅销小说被指用 AI 创作，法国龚古尔奖将其移出初选名单 当地时间 25 日，法国最负盛名的文学奖项龚古尔奖主办方宣布，将海地裔加拿大作家泰利森・奥雷利安的畅销小说《C'etait Ca ou Mourir（要么就这样，要么死）》移出初选名单，原因是有人指控奥雷利安使用 AI 创作该书。针对奥雷利安的 AI 写作和抄袭指控，龚古尔学院决定将其移出名单，以维护奖项和学院的公信力。学院还表示，希望借此表明坚决反对「创作借助 AI 生成的文本」，并将在 10 月 6 日公布短名单前不再发表评论。 IT 之家 4 小时前](https://www.ithome.com/1/007/252.htm)
+8. [Google 将于 10 月 1 日发射首颗太空 AI 计算实验卫星，搭载 4 枚 TPU 运行 Gemini Google 计划于 10 月 1 日发射 Project Suncatcher 首颗实验卫星，测试 AI 计算基础设施在太空运行的可行性。该卫星约冰箱大小，将搭载 4 枚 Google TPU，在距地面数百英里的低地球轨道运行 Gemini 工作负载。Google 此前还对 Trillium TPU 进行了振动及辐射测试，未来计划探索通过太阳能卫星、TPU 和高速光通信组成大规模太空 AI 计算集群。 techflowpost.com 6 小时前](https://www.techflowpost.com/zh-CN/newsletter/137808)
+9. [GPT-6 Astra 考过「科目二」？5 分 22 秒驶入锥桶车位 三名中国台湾地区研究人员搭建 DrivingBench，将 GPT-6 Astra、GPT-5.6 Sol、Grok 4.6 和 Claude Fable 5.1 等通用大模型接入一辆真实的 2022 款丰田卡罗拉，进行类似「科目二」的真实车辆驾驶测试。测试赛道全长约 130 米，由彩色锥桶组成 8 米宽通道，车辆需连续通过多个弯道，最终驶入一个 7×5 米的锥桶车位。此前从未接受专门驾驶训练的 GPT-6 Astra，在首次测试中因判断失误偏离赛道，但第二次调整策略后，以 5 分 22 秒完成约 134.7 米赛程并成功驶入车位，成为四个模型中唯一「通过科目二」的模型。 theblockbeats.info 5 小时前](https://www.theblockbeats.info/flash/369037)
+10. [马斯克放话：Colossus 2 部署的英伟达芯片年底或增加一倍 当地时间 9 月 25 日，马斯克在社交平台 X 上表示，其 AI 计算集群 Colossus 2 目前已部署 11 万颗英伟达 GB200 和 44 万颗 GB300，共计 55 万颗芯片，年底前芯片数量可能超过目前水平的两倍。马斯克透露，Colossus 2 还将迎来密集扩容：22 万颗 GB300 预计下周正式投入运行，另外 22 万颗将于 11 月上线。按照这一扩容计划，Colossus 2 到年底最多可能新增 66 万颗 GB300，芯片总数将达到 121 万颗左右，较目前的 55 万颗增加约 120%。 华尔街见闻 7 小时前](https://wallstreetcn.com/articles/3782549)
