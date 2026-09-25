@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-25 16:30:35
+> 更新时间：2026-09-25 17:25:44
 
 ## 热点榜
 
@@ -17,10 +17,10 @@
 11. [陌生快递寄来“双节礼品卡”，这些误区要注意](https://mp.weixin.qq.com/s/NhwJ3WlSxVCNip5zOyz34w)
 12. [习近平：美方应慎重处理台湾问题](https://view.inews.qq.com/a/20260925A00MJT00)
 13. [大国外交进行时丨战机飞越白宫 向中美两国元首夫妇致敬](https://view.inews.qq.com/a/20260924A0FQCS00)
-14. [流失美国的元代巨幅壁画，以另一种方式“回家”了](https://view.inews.qq.com/a/20260925A050HY00)
-15. [秋冬呼吸道感染易刺激腺样体“疯长”，专家：几种情况要就医](https://view.inews.qq.com/a/20260925A05DDF00)
-16. [男子被拐电诈园失联79天后获救，亲述枪口抵胸的噩梦：最恐怖的是感受不到时间流逝](https://view.inews.qq.com/a/20260925A03SIF00)
-17. [哈尔滨至伊春高铁9月28日开通运营 将实施市场化票价机制](https://view.inews.qq.com/a/20260925A057AW00)
-18. [月饼第一股，有多赚钱？](https://view.inews.qq.com/a/20260925A046UK00)
-19. [Muse大火，扎克伯格跃升为全球第四大富豪](https://view.inews.qq.com/a/20260925A0498700)
+14. [民企500强大洗牌：安徽上分，湖北“失血”](https://view.inews.qq.com/a/20260925A04WDC00)
+15. [流失美国的元代巨幅壁画，以另一种方式“回家”了](https://view.inews.qq.com/a/20260925A050HY00)
+16. [湖南第一师范学院教师走红网络：“优秀教师很多，自己很幸运被看见”](https://view.inews.qq.com/a/20260925V04YRF00)
+17. [马尔代夫总统最新涉华表态](https://view.inews.qq.com/a/20260925A06IHA00)
+18. [秋冬呼吸道感染易刺激腺样体“疯长”，专家：几种情况要就医](https://view.inews.qq.com/a/20260925A05DDF00)
+19. [五芳斋拟410万元再卖上海房产，此前已卖12间产生利润1120万元](https://view.inews.qq.com/a/20260925A04Q3M00)
 20. [官宣！《中央广播电视总台2026年中秋晚会》节目单发布](https://view.inews.qq.com/a/20260925A04GDL00)
