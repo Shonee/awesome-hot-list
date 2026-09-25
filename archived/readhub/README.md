@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-25 22:24:54
+> 更新时间：2026-09-25 23:23:13
 
 ## 24 小时热榜
 
@@ -18,22 +18,22 @@
 12. [长安汽车：力争在 2028 年实现人形机器人量产](https://readhub.cn/topic/8whXc7dvtVg?tab=daily)
 13. [哈伊高铁 9 月 28 日开通运营 沿线多地接入全国高铁网](https://readhub.cn/topic/8whqBaLrBle?tab=daily)
 14. [高通这一代骁龙：手机芯片，开始为 Agent 重新设计](https://readhub.cn/topic/8wgpIhizYDU?tab=daily)
-15. [成渝中线高铁重庆段铺轨完成](https://readhub.cn/topic/8whgBxvqHBv?tab=daily)
-16. [朱一明关联石溪资本拟出资 50 亿元参与 DeepSeek 第二轮融资](https://readhub.cn/topic/8wg4rhlMwUn?tab=daily)
+15. [朱一明关联石溪资本拟出资 50 亿元参与 DeepSeek 第二轮融资](https://readhub.cn/topic/8wg4rhlMwUn?tab=daily)
+16. [成渝中线高铁重庆段铺轨完成](https://readhub.cn/topic/8whgBxvqHBv?tab=daily)
 17. [Meta 推出外观酷似眼镜的 VR 头显 售价 1299 美元](https://readhub.cn/topic/8wfoQtGePn4?tab=daily)
 18. [Yuga Labs 高管提醒用户尽快撤销相关合约授权](https://readhub.cn/topic/8wi0CEXwOGM?tab=daily)
 19. [Meta 市值有望逼近 2 万亿美元 股价或创 13 年最佳月表现](https://readhub.cn/topic/8whHsXTgfcC?tab=daily)
 20. [LG 电子印度公司收到海关拟追缴约 15.4 亿卢比关税通知](https://readhub.cn/topic/8whzTMV6wnn?tab=daily)
 21. [谷歌计划下周发射搭载 4 颗 TPU 的原型卫星](https://readhub.cn/topic/8whOJtEjtxA?tab=daily)
-22. [柳州推进向海图强开放发展 多项产业开放成果公布](https://readhub.cn/topic/8whZ1pbAFmu?tab=daily)
-23. [谷歌推出搭载实时虚拟形象功能的 Gemini 3.8 Live](https://readhub.cn/topic/8wgvjeIqzCJ?tab=daily)
+22. [谷歌推出搭载实时虚拟形象功能的 Gemini 3.8 Live](https://readhub.cn/topic/8wgvjeIqzCJ?tab=daily)
+23. [柳州推进向海图强开放发展 多项产业开放成果公布](https://readhub.cn/topic/8whZ1pbAFmu?tab=daily)
 24. [中信证券：高阶智驾加速渗透 产业链持续受益](https://readhub.cn/topic/8why2pWL9qr?tab=daily)
-25. [法国拟召集七国集团商讨释放战略石油储备](https://readhub.cn/topic/8wh7sT5cFTM?tab=daily)
-26. [智元第 20000 台具身智能机器人下线 刷新全球量产纪录](https://readhub.cn/topic/8wfzvXgHB9T?tab=daily)
-27. [谷歌宣布推出开源 GKE 智能体迁移工具](https://readhub.cn/topic/8wgwoRWBztx?tab=daily)
-28. [京东七鲜大厨专业版首发价 19888 元 含智能烹饪机器人等多项权益](https://readhub.cn/topic/8wgChrSQjbX?tab=daily)
-29. [海外光刻胶涨价潮起 国产验证周期从 1-2 年缩至 6-12 月](https://readhub.cn/topic/8wgoEOFHDKp?tab=daily)
-30. [日本金融厅加强对人工智能数据中心融资的审查力度](https://readhub.cn/topic/8wi1ygYzNPb?tab=daily)
+25. [智元第 20000 台具身智能机器人下线 刷新全球量产纪录](https://readhub.cn/topic/8wfzvXgHB9T?tab=daily)
+26. [谷歌宣布推出开源 GKE 智能体迁移工具](https://readhub.cn/topic/8wgwoRWBztx?tab=daily)
+27. [日本金融厅加强对人工智能数据中心融资的审查力度](https://readhub.cn/topic/8wi1ygYzNPb?tab=daily)
+28. [腾讯旗下 QClaw 将于 12 月 24 日停运，即日起停止新用户注册](https://readhub.cn/topic/8whMss55whl?tab=daily)
+29. [斑马智能发布端侧大模型，推动 AI 在智能终端深度落地](https://readhub.cn/topic/8wgNVVggiFw?tab=daily)
+30. [法国拟召集七国集团商讨释放战略石油储备](https://readhub.cn/topic/8wh7sT5cFTM?tab=daily)
 
 ## 每日早报
 
@@ -50,10 +50,10 @@
 1. [美国初创给 AI 造了座实验室，发现模型缺的是实验室手感](https://www.mittrchina.com/news/detail/17014)
 2. [一边减碳一边建电厂，AI 到底是救气候还是毁气候？](https://www.mittrchina.com/news/detail/17013)
 3. [梁文锋狙击战：深扒那些梁文锋署名的论文有多牛](https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html)
-4. [马斯克放话：Colossus 2 部署的英伟达芯片年底或增加一倍](https://wallstreetcn.com/articles/3782549)
-5. [AI 资本开支冲向 1.7 万亿美元，回报要达到什么水平才算合理？高盛算了一笔账](https://wallstreetcn.com/articles/3782541)
-6. [灵巧手不是等 AGI 才用：一份被误读的物理 AI 落地地图](https://www.tmtpost.com/8152613.html)
-7. [为了把更多 HBM 塞进芯片，英伟达加速推进玻璃基板技术](https://wallstreetcn.com/articles/3782539)
-8. [IMF：2026 年全球 AI 投资规模或突破 2 万亿美元，成为增长重要驱动力](https://wallstreetcn.com/livenews/3170722)
-9. [英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期](https://www.ithome.com/1/007/228.htm)
-10. [AI 需求吃紧 12 英寸晶圆产能，2027 年涨价超 40%、2028 年继续上涨](https://news.mydrivers.com/1/1153/1153958.htm)
+4. [Google 将于 10 月 1 日发射首颗太空 AI 计算实验卫星，搭载 4 枚 TPU 运行 Gemini](https://www.techflowpost.com/zh-CN/newsletter/137808)
+5. [GPT-6 Astra 考过「科目二」？5 分 22 秒驶入锥桶车位](https://www.theblockbeats.info/flash/369037)
+6. [马斯克放话：Colossus 2 部署的英伟达芯片年底或增加一倍](https://wallstreetcn.com/articles/3782549)
+7. [AI 资本开支冲向 1.7 万亿美元，回报要达到什么水平才算合理？高盛算了一笔账](https://wallstreetcn.com/articles/3782541)
+8. [灵巧手不是等 AGI 才用：一份被误读的物理 AI 落地地图](https://www.tmtpost.com/8152613.html)
+9. [为了把更多 HBM 塞进芯片，英伟达加速推进玻璃基板技术](https://wallstreetcn.com/articles/3782539)
+10. [IMF：2026 年全球 AI 投资规模或突破 2 万亿美元，成为增长重要驱动力](https://wallstreetcn.com/livenews/3170722)
