@@ -1,15 +1,14 @@
 # V2EX热榜
 
-> 更新时间：2026-09-25 12:36:45
+> 更新时间：2026-09-25 16:39:49
 
 ## 热门主题
 
-1. [有没有有经验的老哥们，准备起诉离婚了，目前工资到手 2 万，抚养费一般判给多少？
-- 成都隔壁三线城市
-- 判太高，怕失业了，抚养费都交不起](https://www.v2ex.com/t/1244510)
-2. [你们过节都发了什么东西？](https://www.v2ex.com/t/1244516)
-3. [大家公司中秋都发了什么？都来晒一下呗](https://www.v2ex.com/t/1244528)
-4. [顶级折磨](https://www.v2ex.com/t/1244514)
-5. [到底应该用 astra 还是 opus 5.5 来写代码呢？](https://www.v2ex.com/t/1244518)
-6. [当司机都 10-15k 了，做程序员干啥](https://www.v2ex.com/t/1244564)
-7. [用半年时间打磨的 HTTPS 抓包和调试工具-ApiCatcher，对标 Proxyman](https://www.v2ex.com/t/1244674)
+1. [用半年时间打磨的 HTTPS 抓包和调试工具-ApiCatcher，对标 Proxyman](https://www.v2ex.com/t/1244674)
+2. [今天中秋节，还要加班的有吗？来报道下](https://www.v2ex.com/t/1244704)
+3. [实体倒闭真是活该的](https://www.v2ex.com/t/1244668)
+4. [国内注册 Muse 的方法，亲测可用](https://www.v2ex.com/t/1244695)
+5. [黑神话悟空-在线版](https://www.v2ex.com/t/1244710)
+6. [LockSticky 上架不到 2 天收入 25 刀，再送本帖评论数量 * 0.1 个永久会员码！](https://www.v2ex.com/t/1244722)
+7. [一个不需要 gemini pro 的完全免费的注册 Muse 的方法](https://www.v2ex.com/t/1244728)
+8. [贴膜的价值：回收的时候多 200 块](https://www.v2ex.com/t/1244642)
