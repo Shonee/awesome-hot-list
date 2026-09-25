@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-25 14:38:04
+> 更新时间：2026-09-25 15:27:16
 
 ## 热门文章
 
@@ -14,8 +14,8 @@
 8. [给Codex配上Jev，直接起飞。](https://juejin.cn/post/7688401277182066738)
 9. [我把 Cursor 接到了蓝湖上，设计师再也不用追着我问"还原了吗"](https://juejin.cn/post/7688644921475924010)
 10. [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168)
-11. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
-12. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
+11. [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710)
+12. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
 13. [AI 知识库 WeKnora（腾讯微信团队出品）](https://juejin.cn/post/7688530195554140194)
 14. [2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写](https://juejin.cn/post/7687902696659894314)
 15. [轻松掌握 LangGraph 的状态与节点](https://juejin.cn/post/7688270826491658266)
@@ -26,14 +26,14 @@
 20. [IT风云录 02 | 中年程序员，看不惯大公司，去小公司了](https://juejin.cn/post/7688193248973357106)
 21. [Antigravity + Blender MCP（上）：打造3D 智慧仓储数字孪生](https://juejin.cn/post/7688180809024651315)
 22. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
-23. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
-24. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
-25. [一个人做完一套企业级系统，赚到了第一个 1000 块](https://juejin.cn/post/7688942552989761571)
-26. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
+23. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
+24. [藏在设备上的秘密，终究藏不住](https://juejin.cn/post/7687865854437376050)
+25. [前端工程师的 3D 第一课：一个模型如何进入网页](https://juejin.cn/post/7687855997507993643)
+26. [一个人做完一套企业级系统，赚到了第一个 1000 块](https://juejin.cn/post/7688942552989761571)
 27. [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490)
-28. [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945)
-29. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://juejin.cn/post/7688334749719789604)
-30. [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401)
+28. [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401)
+29. [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945)
+30. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://juejin.cn/post/7688334749719789604)
 31. [WorkBuddy 每天自动领积分！教你用云函数做个签到机器人](https://juejin.cn/post/7688905988846305289)
 32. [大模型在货拉拉营销广告的应用实践](https://juejin.cn/post/7688368434233606178)
 33. [Antigravity + Blender MCP（下）：3D 智慧仓储数字孪生进阶实战](https://juejin.cn/post/7688329495955243058)
