@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-26 05:20:14
-
-## 新闻热榜
-
-1. [给外国人“亿点点”中国震撼！美媒记者被当场“硬控” 绕周参观红旗汽车](https://news.sina.com.cn/w/2026-09-25/doc-initaait7587306.shtml)
-2. [现场画面：80岁奥斯卡影后和31岁知名女演员，在纽约联合国总部外被逮捕！](https://news.sina.com.cn/w/2026-09-25/doc-iniszrtx7751171.shtml)
-3. [摩根大通：数据安全中心已上线摩根大通手机银行，用于管理关联应用。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7446651.shtml)
-4. [美联储哈玛克：美联储会留意金融状况，但货币政策的决定权在美联储。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7350076.shtml)
-5. [白宫欢迎国宴，哪些企业家坐主桌？](https://news.sina.com.cn/c/xl/2026-09-25/doc-iniszrtz4468424.shtml)
-6. [据相关陪审团裁定：Meta Platforms(META.O)在剑桥分析（Cambridge Analytica）丑闻相关诉讼中误导了新墨西哥州消费者。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4222168.shtml)
-7. [美国总统特朗普最早可能会在周五宣布柴油相关政策。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4128460.shtml)
-8. [习近平分享这个好消息，特朗普笑着点头致意（现场视频）](https://finance.sina.com.cn/roll/2026-09-25/doc-inisyuqi7932722.shtml)
-9. [内塔尼亚胡联大演讲，台下再次空空荡荡](https://news.sina.com.cn/w/2026-09-25/doc-iniszrtv4342763.shtml)
-10. [习近平和彭丽媛同美国总统特朗普夫妇茶叙](https://news.sina.com.cn/c/xl/2026-09-25/doc-initahru9236030.shtml)
-11. [胡塞武装：沙特政权不实指控也门穆斯林民众企图袭击麦加。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4224566.shtml)
-12. [新一轮购车补贴来了，多地放大招！买车前这笔账要算清](https://news.sina.com.cn/c/2026-09-25/doc-iniszrtx7711337.shtml)
-13. [伊朗总统：伊朗将在尊重国家主权、缓和紧张局势以及维护地区和平稳定等问题上继续推动建设性合作。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7358828.shtml)
-14. [OpenAI表示正在通知受影响的网站运营机构。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7365715.shtml)
-15. [SEC拟投票放宽私募市场准入 扩大合格投资者范围](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4134243.shtml)
-16. [“赛考斯”回应被习近平主席提及：太不可思议了](https://news.sina.com.cn/c/xl/2026-09-25/doc-initaait7580889.shtml)
-17. [必和必拓：Escondida矿场的活动已经开始恢复。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4205398.shtml)
-18. [日元周五涨1%，本周呈现出V形走势](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4139659.shtml)
-19. [韩正会见加纳总统马哈马](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4243198.shtml)
-20. [美联储哈玛克：潜在通胀大概率高于目标水平。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7472193.shtml)
-
-## 财经热榜
-
-1. [摩根大通：数据安全中心已上线摩根大通手机银行，用于管理关联应用。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7446651.shtml)
-2. [美联储哈玛克：美联储会留意金融状况，但货币政策的决定权在美联储。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7350076.shtml)
-3. [据相关陪审团裁定：Meta Platforms(META.O)在剑桥分析（Cambridge Analytica）丑闻相关诉讼中误导了新墨西哥州消费者。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4222168.shtml)
-4. [美国总统特朗普最早可能会在周五宣布柴油相关政策。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4128460.shtml)
-5. [胡塞武装：沙特政权不实指控也门穆斯林民众企图袭击麦加。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4224566.shtml)
-6. [伊朗总统：伊朗将在尊重国家主权、缓和紧张局势以及维护地区和平稳定等问题上继续推动建设性合作。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7358828.shtml)
-7. [OpenAI表示正在通知受影响的网站运营机构。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7365715.shtml)
-8. [SEC拟投票放宽私募市场准入 扩大合格投资者范围](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4134243.shtml)
-9. [必和必拓：Escondida矿场的活动已经开始恢复。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4205398.shtml)
-10. [日元周五涨1%，本周呈现出V形走势](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4139659.shtml)
-11. [韩正会见加纳总统马哈马](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4243198.shtml)
-12. [美联储哈玛克：潜在通胀大概率高于目标水平。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7472193.shtml)
-13. [半岛电视台德黑兰分社社长周五报道：伊朗与美国在纽约举行的谈判已从初步外交接触阶段转入更为细致的技术阶段，德黑兰方面消息人士称谈判](https://finance.sina.com.cn/7x24/2026-09-26/doc-initahrr7552472.shtml)
-14. [印度储备银行（RBI，央行）于7月份在外汇市场净买入186.5亿美元。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4210235.shtml)
-15. [韩正会见塞浦路斯总统赫里斯托祖利季斯](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7470227.shtml)
-16. [美元指数本周涨超0.3%](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4138783.shtml)
-17. [洲际期货美国分部：宣布对二号咖啡、公制表二号咖啡及可可合约的每日结算时段作出临时调整。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4131308.shtml)
-18. [欧洲央行副行长武伊契奇：原油价格似乎将会回落，但成品油价格不会。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4238787.shtml)
-19. [美联储哈玛克：除房地产领域外，美联储政策并未抑制经济活动。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4247095.shtml)
-20. [伯克希尔3天斥资2.12亿美元抄底这只暴跌个股，本季度持仓已大增81%](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initahrp4094961.shtml)
+> 更新时间：2026-09-26 05:23:55
 
 ## 7x24
 
