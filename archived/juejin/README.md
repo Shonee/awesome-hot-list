@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-26 01:19:23
+> 更新时间：2026-09-26 02:26:05
 
 ## 热门文章
 
@@ -8,8 +8,8 @@
 2. [程序员即将隐退，建造者持续闪耀](https://juejin.cn/post/7688298824981856271)
 3. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283)
 4. [一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了](https://juejin.cn/post/7688300268687130650)
-5. [做了近两年的Agent开发，其实真正要学的就是这五件事](https://juejin.cn/post/7688159506154209321)
-6. [给Codex配上Jev，直接起飞。](https://juejin.cn/post/7688401277182066738)
+5. [给Codex配上Jev，直接起飞。](https://juejin.cn/post/7688401277182066738)
+6. [做了近两年的Agent开发，其实真正要学的就是这五件事](https://juejin.cn/post/7688159506154209321)
 7. [我把 Cursor 接到了蓝湖上，设计师再也不用追着我问"还原了吗"](https://juejin.cn/post/7688644921475924010)
 8. [AI 知识库 WeKnora（腾讯微信团队出品）](https://juejin.cn/post/7688530195554140194)
 9. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
@@ -29,9 +29,9 @@
 23. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://juejin.cn/post/7688334749719789604)
 24. [大模型在货拉拉营销广告的应用实践](https://juejin.cn/post/7688368434233606178)
 25. [Antigravity + Blender MCP（下）：3D 智慧仓储数字孪生进阶实战](https://juejin.cn/post/7688329495955243058)
-26. [📱iPhone Duo 开屏动画咋实现的？](https://juejin.cn/post/7688737629098999843)
-27. [Axios 完整封装合集（鉴权 + 重复拦截 + Loading + 缓存 + 统一错误 + 请求重试｜全代码逐行注释）](https://juejin.cn/post/7688341026176286756)
-28. [ref、reactive、toRefs 到底该用哪个？我把三个反例都写了一遍](https://juejin.cn/post/7688341026175500324)
+26. [ref、reactive、toRefs 到底该用哪个？我把三个反例都写了一遍](https://juejin.cn/post/7688341026175500324)
+27. [📱iPhone Duo 开屏动画咋实现的？](https://juejin.cn/post/7688737629098999843)
+28. [Axios 完整封装合集（鉴权 + 重复拦截 + Loading + 缓存 + 统一错误 + 请求重试｜全代码逐行注释）](https://juejin.cn/post/7688341026176286756)
 29. [开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了](https://juejin.cn/post/7688333234086150178)
 30. [VibeCoding 一套 Admin 系统，五种技术栈实现](https://juejin.cn/post/7688739949714997288)
 31. [多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案](https://juejin.cn/post/7688585710283014184)
@@ -49,8 +49,8 @@
 43. [AI圈最近爆火的"哑巴"Jev，到底是个啥？](https://juejin.cn/post/7688571406653538350)
 44. [jev-ultrafast 深度解析：7 秒订机票的浏览器 Agent 是如何炼成的](https://juejin.cn/post/7688252916676640768)
 45. [你的网站准备好被AI Agent阅读了吗？2026年最被忽视的前端工程问题](https://juejin.cn/post/7688192884433682486)
-46. [Flutter 获取 iPhone Duo 预留区位置](https://juejin.cn/post/7688917667420717091)
-47. [管理后台数据国际化：不建翻译表、一列 JSON、后端零改动](https://juejin.cn/post/7688579804614361138)
-48. [Grok4.7评测排名前列，我为何还是退订了它？](https://juejin.cn/post/7688571406653095982)
-49. [不要把报错直接丢给 AI：正确的排障上下文长什么样](https://juejin.cn/post/7688569614587527194)
-50. [我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景](https://juejin.cn/post/7688569614586953754)
+46. [我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景](https://juejin.cn/post/7688569614586953754)
+47. [Flutter 获取 iPhone Duo 预留区位置](https://juejin.cn/post/7688917667420717091)
+48. [Trae 每天自动签到：Serverless 定时任务完整复盘](https://juejin.cn/post/7688669403517960202)
+49. [管理后台数据国际化：不建翻译表、一列 JSON、后端零改动](https://juejin.cn/post/7688579804614361138)
+50. [Grok4.7评测排名前列，我为何还是退订了它？](https://juejin.cn/post/7688571406653095982)

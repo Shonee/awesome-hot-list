@@ -1,23 +1,23 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-26 01:19:33
+> 更新时间：2026-09-26 02:26:14
 
 ## 人气热门
 
-1. [发票/车票/证件打印工具(主要用于打印发票、火车票一键合并在A4上打印)](https://www.52pojie.cn/thread-2129557-1-1.html)
-2. [聚合书源小说下载器 sonovel v1.11.0](https://www.52pojie.cn/thread-2129296-1-1.html)
+1. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
+2. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
 3. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
-4. [MobaXterm 26.5 中文汉化版](https://www.52pojie.cn/thread-2128457-1-1.html)
-5. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
+4. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
+5. [八月十五到了，做了一个程序。](https://www.52pojie.cn/thread-2129540-1-1.html)
 6. [小初高电子教材下载  tchMaterial-parser v4.3](https://www.52pojie.cn/thread-2129450-1-1.html)
-7. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
-8. [第三方精简版知乎 Zhihu++ v0.29.2](https://www.52pojie.cn/thread-2128075-1-1.html)
-9. [微信Windows版 v4.1.15.50多开&消息防撤回公测版绿色版x64位（9.24更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
-10. [八月十五到了，做了一个程序。](https://www.52pojie.cn/thread-2129540-1-1.html)
-11. [自动点击工具（图片识别与坐标点击）V2.0版](https://www.52pojie.cn/thread-2129133-1-1.html)
-12. [青简输入法 0.1.4正式版（2026年9月24日更新）](https://www.52pojie.cn/thread-2128786-1-1.html)
-13. [Excel通用财务账模板](https://www.52pojie.cn/thread-2128163-1-1.html)
-14. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
+7. [发票/车票/证件打印工具(主要用于打印发票、火车票一键合并在A4上打印)](https://www.52pojie.cn/thread-2129557-1-1.html)
+8. [聚合书源小说下载器 sonovel v1.11.0](https://www.52pojie.cn/thread-2129296-1-1.html)
+9. [MobaXterm 26.5 中文汉化版](https://www.52pojie.cn/thread-2128457-1-1.html)
+10. [第三方精简版知乎 Zhihu++ v0.29.2](https://www.52pojie.cn/thread-2128075-1-1.html)
+11. [微信Windows版 v4.1.15.50多开&消息防撤回公测版绿色版x64位（9.24更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
+12. [自动点击工具（图片识别与坐标点击）V2.0版](https://www.52pojie.cn/thread-2129133-1-1.html)
+13. [青简输入法 0.1.4正式版（2026年9月24日更新）](https://www.52pojie.cn/thread-2128786-1-1.html)
+14. [Excel通用财务账模板](https://www.52pojie.cn/thread-2128163-1-1.html)
 15. [剪映国际版 CapCut v9.5.0.4050](https://www.52pojie.cn/thread-2129472-1-1.html)
 16. [视频下载器 Videdown v1.2.7](https://www.52pojie.cn/thread-2129168-1-1.html)
 17. [《英雄无敌3》《深渊号角》——存档修改器第二版（支持汉化版游戏）](https://www.52pojie.cn/thread-2128423-1-1.html)
