@@ -1,13 +1,13 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-25 23:23:48
+> 更新时间：2026-09-26 00:26:07
 
 ## 热点资讯排行
 
 1. [曝游戏主播茄子成老赖！被执行290万](https://www.gamersky.com/news/202609/2213499.shtml)
 2. [带枪穿越中世纪乱杀！全新美女角色获胜赞](https://www.gamersky.com/news/202609/2212673.shtml)
-3. [女流66谈自己Steam号被盗 千款游戏不玩只《绝地求生》开挂](https://www.gamersky.com/news/202609/2212703.shtml)
-4. [《巫师3：狂猎重制版》官方画面对比翻车！遭质疑：谁新谁旧啊？](https://www.gamersky.com/news/202609/2216385.shtml)
+3. [《巫师3：狂猎重制版》官方画面对比翻车！遭质疑：谁新谁旧啊？](https://www.gamersky.com/news/202609/2216385.shtml)
+4. [女流66谈自己Steam号被盗 千款游戏不玩只《绝地求生》开挂](https://www.gamersky.com/news/202609/2212703.shtml)
 5. [《街霸》春丽演员回应粗大腿](https://www.gamersky.com/news/202609/2214419.shtml)
 6. [《生化危机：爆发夜》枪版资源大规模泄露！9000人同时观看](https://www.gamersky.com/news/202609/2212670.shtml)
 7. [《GTA:东京》细节披露:重点武士刀 效仿《恶霸鲁尼》](https://www.gamersky.com/news/202609/2212489.shtml)
