@@ -1,10 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-09-25 08:55:28
+> 更新时间：2026-09-25 09:30:56
 
 ## 最新帖子
 
-1. [我们如何实现同态加密推理（八）：SiLU 的密文化——两条路径，和一个 8 字节的开关](https://www.cnblogs.com/haliuhome/p/23118642)
+1. [【FHE】我们如何实现同态加密推理（八）：SiLU 的密文化——两条路径，和一个 8 字节的开关](https://www.cnblogs.com/haliuhome/p/23118642)
 2. [SQLcl 中 c/old/new 替换变量为何失效？先定位再替换](https://www.cnblogs.com/jyzhao/p/23118624)
 3. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
 4. [Halo插件：支持GitHub的图床附件策略](https://www.cnblogs.com/dominickk/p/23116100)
@@ -53,6 +53,6 @@
 1. [C#: 爸爸再爱我一回! 写在微软使用Rust重写GitHub Copilot之后的碎碎念](https://www.cnblogs.com/waku/p/23091139)
 2. [AI 不仅仅埋葬了我的才华](https://www.cnblogs.com/liulun/p/23092153)
 3. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
-4. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://www.cnblogs.com/jinjiangongzuoshi/p/23088780)
-5. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
-6. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
+4. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
+5. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
+6. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)

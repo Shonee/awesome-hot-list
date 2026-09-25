@@ -1,16 +1,16 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-25 08:55:38
+> 更新时间：2026-09-25 09:31:01
 
 ## 人气热门
 
 1. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
-2. [发票/车票/证件打印工具(主要用于打印发票、火车票一键合并在A4上打印)](https://www.52pojie.cn/thread-2129557-1-1.html)
-3. [聚合书源小说下载器 sonovel v1.11.0](https://www.52pojie.cn/thread-2129296-1-1.html)
-4. [via浏览器 v7.3.4](https://www.52pojie.cn/thread-2129303-1-1.html)
-5. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
-6. [自动点击工具（图片识别与坐标点击）V2.0版](https://www.52pojie.cn/thread-2129133-1-1.html)
-7. [微信Windows版 v4.1.15.50多开&消息防撤回公测版绿色版x64位（9.24更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
+2. [聚合书源小说下载器 sonovel v1.11.0](https://www.52pojie.cn/thread-2129296-1-1.html)
+3. [微信Windows版 v4.1.15.50多开&消息防撤回公测版绿色版x64位（9.24更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
+4. [发票/车票/证件打印工具(主要用于打印发票、火车票一键合并在A4上打印)](https://www.52pojie.cn/thread-2129557-1-1.html)
+5. [via浏览器 v7.3.4](https://www.52pojie.cn/thread-2129303-1-1.html)
+6. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)
+7. [自动点击工具（图片识别与坐标点击）V2.0版](https://www.52pojie.cn/thread-2129133-1-1.html)
 8. [中华人民共和国药典(2025年版)1.0版本](https://www.52pojie.cn/thread-2128710-1-1.html)
 9. [第三方精简版知乎 Zhihu++ v0.29.2](https://www.52pojie.cn/thread-2128075-1-1.html)
 10. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
@@ -57,14 +57,14 @@
 
 ## 精华采撷
 
-1. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-2. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-3. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-4. [web逆向基础知识--- js 事件 事件循环 和异步](https://www.52pojie.cn/thread-2111598-1-1.html)
-5. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-6. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-7. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-8. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
+1. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
+2. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+3. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+4. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+5. [web逆向基础知识--- js 事件 事件循环 和异步](https://www.52pojie.cn/thread-2111598-1-1.html)
+6. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
+7. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+8. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
 9. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
 10. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
 11. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
