@@ -1,10 +1,10 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-25 11:25:53
+> 更新时间：2026-09-25 12:27:01
 
 ## 最有料热点
 
-1. [强强对决,谁才是真正的面王](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365576&topic_name=%E5%BC%BA%E5%BC%BA%E5%AF%B9%E5%86%B3%2C%E8%B0%81%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%9D%A2%E7%8E%8B)
+1. [面王争霸赛,谁是你心目中的面王](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365746&topic_name=%E9%9D%A2%E7%8E%8B%E4%BA%89%E9%9C%B8%E8%B5%9B%2C%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E9%9D%A2%E7%8E%8B)
 2. [第一批已到账!签到5天白嫖50](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365575&topic_name=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%B7%B2%E5%88%B0%E8%B4%A6%21%E7%AD%BE%E5%88%B05%E5%A4%A9%E7%99%BD%E5%AB%9650)
 3. [亚运会中国金牌数断层领先](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365725&topic_name=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%95%B0%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88)
 4. [影之刃零吧吧主竞选开启](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365666&topic_name=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%90%A7%E5%90%A7%E4%B8%BB%E7%AB%9E%E9%80%89%E5%BC%80%E5%90%AF)
@@ -33,4 +33,3 @@
 27. [济公活佛扮演者游本昌去世](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365569&topic_name=%E6%B5%8E%E5%85%AC%E6%B4%BB%E4%BD%9B%E6%89%AE%E6%BC%94%E8%80%85%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%8E%BB%E4%B8%96)
 28. [Zuian签证被拒,TES召回369](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365361&topic_name=Zuian%E7%AD%BE%E8%AF%81%E8%A2%AB%E6%8B%92%2CTES%E5%8F%AC%E5%9B%9E369)
 29. [G胖开麦:玩家整活不算作弊](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365357&topic_name=G%E8%83%96%E5%BC%80%E9%BA%A6%3A%E7%8E%A9%E5%AE%B6%E6%95%B4%E6%B4%BB%E4%B8%8D%E7%AE%97%E4%BD%9C%E5%BC%8A)
-30. [结婚发钱,生娃再拿12万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365189&topic_name=%E7%BB%93%E5%A9%9A%E5%8F%91%E9%92%B1%2C%E7%94%9F%E5%A8%83%E5%86%8D%E6%8B%BF12%E4%B8%87)

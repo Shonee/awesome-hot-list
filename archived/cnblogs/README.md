@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-25 11:24:50
+> 更新时间：2026-09-25 12:26:26
 
 ## 最新帖子
 
-1. [【FHE】我们如何实现同态加密推理（八）：SiLU 的密文化——两条路径，和一个 8 字节的开关](https://www.cnblogs.com/haliuhome/p/23118642)
-2. [SQLcl 中 c/old/new 替换变量为何失效？先定位再替换](https://www.cnblogs.com/jyzhao/p/23118624)
-3. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
-4. [Halo插件：支持GitHub的图床附件策略](https://www.cnblogs.com/dominickk/p/23116100)
-5. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
-6. [华三VXLAN集中式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23115756)
-7. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
-8. [大 O、大 Omega、大 Theta 的区别，O(n) 复杂度是什么意思](https://www.cnblogs.com/moonout/p/23083800)
-9. [Java标签跳转：一个鲜为人知但却很实用的小技巧](https://www.cnblogs.com/jilodream/p/23115325)
-10. [多智能体系统论文速读](https://www.cnblogs.com/mianmaner/p/23110425)
-11. [Claude Code 把自己改成了任务调度器，这次设计比功能更值得看](https://www.cnblogs.com/uniqueDong/p/23114174)
-12. [基于DeepSeek API构建一个AI树木识别网站](https://www.cnblogs.com/zgzf/p/23113985/tree-identification)
-13. [git开发规范~深度阅读](https://www.cnblogs.com/lori/p/23113447)
-14. [从纸带打孔到AI自动编程：三十年亲历，见证编程范式的效率革命](https://www.cnblogs.com/yefanqiu/p/23111915)
-15. [知识不是文件，也不是向量 | KDC 系列 02](https://www.cnblogs.com/vivotech/p/23111756)
-16. [人大金仓V9系统表名字冲突，设置search_path不起作用](https://www.cnblogs.com/xiaoyu01/p/23111651)
-17. [Git 冲突全攻略：从原理到实战，一文打通所有场景](https://www.cnblogs.com/zrui-xyu/p/23111571)
-18. [用 OLED 给 STM32 做实时调试面板](https://www.cnblogs.com/zw-awa/p/23091967)
-19. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
-20. [学习NOTE 9——斜率优化dp](https://www.cnblogs.com/T-M-T/p/23109744)
+1. [在笔记本上自制39M小语言模型指南](https://www.cnblogs.com/duoia/p/23119785)
+2. [HTTP状态码1XX深入理解](https://www.cnblogs.com/xiexj/p/23119771)
+3. [【FHE】我们如何实现同态加密推理（八）：SiLU 的密文化——两条路径，和一个 8 字节的开关](https://www.cnblogs.com/haliuhome/p/23118642)
+4. [SQLcl 中 c/old/new 替换变量为何失效？先定位再替换](https://www.cnblogs.com/jyzhao/p/23118624)
+5. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
+6. [Halo插件：支持GitHub的图床附件策略](https://www.cnblogs.com/dominickk/p/23116100)
+7. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
+8. [华三VXLAN集中式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23115756)
+9. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
+10. [大 O、大 Omega、大 Theta 的区别，O(n) 复杂度是什么意思](https://www.cnblogs.com/moonout/p/23083800)
+11. [Java标签跳转：一个鲜为人知但却很实用的小技巧](https://www.cnblogs.com/jilodream/p/23115325)
+12. [多智能体系统论文速读](https://www.cnblogs.com/mianmaner/p/23110425)
+13. [Claude Code 把自己改成了任务调度器，这次设计比功能更值得看](https://www.cnblogs.com/uniqueDong/p/23114174)
+14. [基于DeepSeek API构建一个AI树木识别网站](https://www.cnblogs.com/zgzf/p/23113985/tree-identification)
+15. [git开发规范~深度阅读](https://www.cnblogs.com/lori/p/23113447)
+16. [从纸带打孔到AI自动编程：三十年亲历，见证编程范式的效率革命](https://www.cnblogs.com/yefanqiu/p/23111915)
+17. [知识不是文件，也不是向量 | KDC 系列 02](https://www.cnblogs.com/vivotech/p/23111756)
+18. [人大金仓V9系统表名字冲突，设置search_path不起作用](https://www.cnblogs.com/xiaoyu01/p/23111651)
+19. [Git 冲突全攻略：从原理到实战，一文打通所有场景](https://www.cnblogs.com/zrui-xyu/p/23111571)
+20. [用 OLED 给 STM32 做实时调试面板](https://www.cnblogs.com/zw-awa/p/23091967)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [C#: 爸爸再爱我一回! 写在微软使用Rust重写GitHub Copilot之后的碎碎念](https://www.cnblogs.com/waku/p/23091139)
-2. [AI 不仅仅埋葬了我的才华](https://www.cnblogs.com/liulun/p/23092153)
-3. [.NET 项目 Docker 化 + Nginx 反向代理，一篇讲透](https://www.cnblogs.com/shenchuanchao/p/23078003/dotnet-project-docker-nginx-reverse-proxy-guide)
-4. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
-5. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
-6. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)
+1. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
+2. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
+3. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)
+4. [百万订单的架构演化](https://www.cnblogs.com/liuzhang/p/23097040)
+5. [TensorSharp 支持 Jev 模式了：一次去噪，直接读出决策](https://www.cnblogs.com/shanyou/p/23096117)
+6. [Ubuntu 25.10 Server 部署 Claude Code 与 Agent 完整指南](https://www.cnblogs.com/Johny-zhao/p/23101767)
