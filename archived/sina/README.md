@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-26 01:19:58
-
-## 新闻热榜
-
-1. [习近平分享这个好消息，特朗普笑着点头致意（现场视频）](https://finance.sina.com.cn/roll/2026-09-25/doc-inisyuqi7932722.shtml)
-2. [视频丨以色列总理联大发言 多国代表集体退场](https://news.sina.com.cn/w/2026-09-25/doc-inisyuqm4651681.shtml)
-3. [视频丨习近平同美国总统特朗普会谈](https://news.sina.com.cn/c/xl/2026-09-25/doc-inisyqhp4750896.shtml)
-4. [白宫公布国宴菜单，特别致敬1972年“和平祝酒”](https://news.sina.com.cn/c/2026-09-25/doc-inisyywi4621934.shtml)
-5. [内塔尼亚胡联大演讲，台下再次空空荡荡](https://news.sina.com.cn/w/2026-09-25/doc-iniszrtv4342763.shtml)
-6. [白宫欢迎国宴，哪些企业家坐主桌？](https://news.sina.com.cn/c/xl/2026-09-25/doc-iniszrtz4468424.shtml)
-7. [官宣！《中央广播电视总台2026年中秋晚会》节目单发布](https://news.sina.com.cn/c/2026-09-25/doc-iniszfeh9667980.shtml)
-8. [现场画面：80岁奥斯卡影后和31岁知名女演员，在纽约联合国总部外被逮捕！](https://news.sina.com.cn/w/2026-09-25/doc-iniszrtx7751171.shtml)
-9. [视频丨习近平出席美国总统特朗普在白宫举行的欢迎仪式](https://news.sina.com.cn/c/xl/2026-09-25/doc-inisyiyr4824248.shtml)
-10. [日本最想掩盖的，中方回应一针见血！](https://news.sina.com.cn/w/2026-09-25/doc-inisycsr8109319.shtml)
-11. [新一轮购车补贴来了，多地放大招！买车前这笔账要算清](https://news.sina.com.cn/c/2026-09-25/doc-iniszrtx7711337.shtml)
-12. [张本智和：日本真的超越了中国！他的另一句话更让人警醒！王楚钦的“后怕”折射国乒男队困境](https://news.sina.com.cn/c/2026-09-25/doc-iniszfec7813601.shtml)
-13. [亚运会｜王皓：要把“输”变成一件好事](https://news.sina.com.cn/c/2026-09-25/doc-inisyywi4616165.shtml)
-14. [印媒惊呼：中国上演卫星“闪电战”](https://mil.news.sina.com.cn/2026-09-25/doc-iniszfeh9668298.shtml)
-15. [给外国人“亿点点”中国震撼！美媒记者被当场“硬控” 绕周参观红旗汽车](https://news.sina.com.cn/w/2026-09-25/doc-initaait7587306.shtml)
-16. [张本智和放话日本乒乓已超中国](https://news.sina.com.cn/c/2026-09-25/doc-inisyywc4585573.shtml)
-17. [叠加“请3休13”抢跑游客，中秋首日机场“堪比过年”](https://news.sina.com.cn/s/2026-09-25/doc-iniszrua9498629.shtml)
-18. [习近平主席在白宫欢迎仪式上的致辞金句](https://news.sina.com.cn/c/xl/2026-09-25/doc-inisyuqn9842741.shtml)
-19. [得知被提及，赛考斯无比激动：不可思议！](https://news.sina.com.cn/c/2026-09-25/doc-iniszmmz7782772.shtml)
-20. [微信：切勿使用这种头像及昵称，或被封号](https://news.sina.com.cn/c/2026-09-25/doc-inisyywf7827803.shtml)
-
-## 财经热榜
-
-1. [习近平分享这个好消息，特朗普笑着点头致意（现场视频）](https://finance.sina.com.cn/roll/2026-09-25/doc-inisyuqi7932722.shtml)
-2. [白宫公布国宴菜单，特别致敬1972年“和平祝酒”](https://finance.sina.com.cn/roll/2026-09-25/doc-inisyywf7846239.shtml)
-3. [白宫国宴主桌都有谁？马斯克、库克、黄仁勋、苏姿丰现身](https://finance.sina.com.cn/roll/2026-09-25/doc-iniszfeh9695457.shtml)
-4. [美伊战争陷僵局：德黑兰提议解封海峡，海湾国家力劝白宫维持封锁](https://finance.sina.com.cn/roll/2026-09-25/doc-iniszmmx4455576.shtml)
-5. [习近平同美国总统特朗普会谈](https://finance.sina.com.cn/roll/2026-09-25/doc-inisyuqn9829627.shtml)
-6. [有关货币政策，央行最新部署！](https://finance.sina.com.cn/wm/2026-09-25/doc-inisyiym4879687.shtml)
-7. [荷兰首相游说美方：别再限制ASML对华出口](https://finance.sina.com.cn/roll/2026-09-25/doc-iniszmmx4449042.shtml)
-8. [9月25日收盘：道指连续三日收跌 油价、美债收益率维持高位](https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhi4765190.shtml)
-9. [日本财务大臣：特朗普向高市早苗表达对日元的担忧](https://finance.sina.com.cn/world/2026-09-25/doc-inisyywk9780797.shtml)
-10. [港股三大指数开盘下挫，恒生科技指数跌超2%](https://finance.sina.com.cn/stock/hkstock/2026-09-25/doc-inisyywk9757260.shtml)
-11. [美国投资公司协会（ICI）：美国货币市场基金资产规模增至 7.94 万亿美元。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyr4830243.shtml)
-12. [炸裂！21万/㎡！深圳湾双拼房捅穿天花板，有房源一年狂涨41%，外围却跌了17%……](https://finance.sina.com.cn/roll/2026-09-25/doc-inisycsv0123264.shtml)
-13. [港股收评：恒指跌1.01% 科指跌1.13% 科网股普跌 石油股走弱](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-25/doc-iniszrtx7720176.shtml)
-14. [美国 FDA 批准一款肾病药物后，默沙东股价持平但成交量激增，最新上涨 0.50%，报 148.81 美元。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8052252.shtml)
-15. [一所初中1.2万人，学校为何越来越大？](https://finance.sina.com.cn/roll/2026-09-25/doc-inisyywk9744983.shtml)
-16. [凌晨，大抛售！美联储“四位大佬”，集体表态](https://finance.sina.com.cn/stock/zqgd/2026-09-25/doc-inisyuqm4680660.shtml)
-17. [特朗普政府表示，媒体进入白宫的权限已恢复。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycst4882449.shtml)
-18. [考克斯汽车：受新车需求持续韧性支撑，将美国全年新车销量预测从此前的1580万辆上调至1610万辆。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisycsr8127709.shtml)
-19. [墨西哥总统辛鲍姆：墨西哥将与韩国在人工智能、电动出行领域开展合作。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8061310.shtml)
-20. [荷兰首相希望阻止美国对阿斯麦（ASML）出台更多出口限制。](https://finance.sina.com.cn/7x24/2026-09-25/doc-inisyiyp8017061.shtml)
+> 更新时间：2026-09-26 01:23:57
 
 ## 7x24
 
