@@ -230,8 +230,9 @@ class XueqiuFallbackTests(unittest.TestCase):
     @patch("src.hotlist.channels.xueqiu.fetch_tophub_ranking", side_effect=RuntimeError("fallback down"))
     @patch("src.hotlist.channels.xueqiu.fetch_official_topics", side_effect=RuntimeError("official down"))
     def test_all_sources_failed_raises(self, _official, _fallback):
-        with self.assertRaisesRegex(RuntimeError, "fallback down"):
-            xueqiu.collect()
+        result = xueqiu.collect()
+        self.assertEqual(result.status, "disabled")
+        self.assertIn("fallback down", result.error)
 
 
 class FallbackRegistryTests(unittest.TestCase):
