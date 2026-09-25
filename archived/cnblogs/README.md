@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-25 17:25:22
+> 更新时间：2026-09-25 18:22:35
 
 ## 最新帖子
 
@@ -53,6 +53,6 @@
 1. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
 2. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
 3. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)
-4. [百万订单的架构演化](https://www.cnblogs.com/liuzhang/p/23097040)
-5. [TensorSharp 支持 Jev 模式了：一次去噪，直接读出决策](https://www.cnblogs.com/shanyou/p/23096117)
-6. [Ubuntu 25.10 Server 部署 Claude Code 与 Agent 完整指南](https://www.cnblogs.com/Johny-zhao/p/23101767)
+4. [Ubuntu 25.10 Server 部署 Claude Code 与 Agent 完整指南](https://www.cnblogs.com/Johny-zhao/p/23101767)
+5. [开源一个基于 Rust 和 egui 开发的跨平台 SSH 客户端应用ssh-client](https://www.cnblogs.com/shiningrise/p/23104560)
+6. [开多个 Agent 后 Claude Code 账单翻了 4 倍，一个配置解决了](https://www.cnblogs.com/uniqueDong/p/23098897)
