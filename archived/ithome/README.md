@@ -1,12 +1,12 @@
 # IT之家热榜
 
-> 更新时间：2026-09-26 06:21:44
+> 更新时间：2026-09-26 07:19:44
 
 ## 日榜
 
 1. [【互动】苹果 iOS 27.2 绝杀摇一摇广告，你想拉黑谁？](https://www.ithome.com/1/007/079.htm)
-2. [DeepSeek Harness 官方桌面版预览偷跑](https://www.ithome.com/1/007/099.htm)
-3. [新一代梅赛德斯-迈巴赫 S 级轿车上市：搭载高阶智能辅助驾驶系统，139.8 万元起](https://www.ithome.com/1/007/102.htm)
+2. [新一代梅赛德斯-迈巴赫 S 级轿车上市：搭载高阶智能辅助驾驶系统，139.8 万元起](https://www.ithome.com/1/007/102.htm)
+3. [DeepSeek Harness 官方桌面版预览偷跑](https://www.ithome.com/1/007/099.htm)
 4. [小米 18 Fold 中折叠首销情况曝光：9 月 7 日-13 日约 3.97 万台](https://www.ithome.com/1/007/244.htm)
 5. [罗永浩回应交个朋友代销劣质溜溜凳：2022 年 5 月已退出管理层，承认严重质量管理事故](https://www.ithome.com/1/007/247.htm)
 6. [鸿蒙智行国庆 OTA 推送：智界、享界、尊界、尚界同步升级](https://www.ithome.com/1/007/118.htm)
