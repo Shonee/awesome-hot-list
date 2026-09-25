@@ -1,13 +1,13 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-25 21:30:05
+> 更新时间：2026-09-25 22:25:11
 
 ## 最有料热点
 
 1. [面王争霸赛,谁是你心目中的面王](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365746&topic_name=%E9%9D%A2%E7%8E%8B%E4%BA%89%E9%9C%B8%E8%B5%9B%2C%E8%B0%81%E6%98%AF%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E9%9D%A2%E7%8E%8B)
 2. [第一批已到账!签到5天白嫖50](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365575&topic_name=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%B7%B2%E5%88%B0%E8%B4%A6%21%E7%AD%BE%E5%88%B05%E5%A4%A9%E7%99%BD%E5%AB%9650)
 3. [亚运会中国金牌数断层领先](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365725&topic_name=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%95%B0%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88)
-4. [影之刃零吧吧主竞选开启](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365666&topic_name=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%90%A7%E5%90%A7%E4%B8%BB%E7%AB%9E%E9%80%89%E5%BC%80%E5%90%AF)
+4. [完美世界停更,帝关战留到年底](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365794&topic_name=%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%E5%81%9C%E6%9B%B4%2C%E5%B8%9D%E5%85%B3%E6%88%98%E7%95%99%E5%88%B0%E5%B9%B4%E5%BA%95)
 5. [CN瓦一号种子天禄遭G2零封](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365726&topic_name=CN%E7%93%A6%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%E5%A4%A9%E7%A6%84%E9%81%ADG2%E9%9B%B6%E5%B0%81)
 6. [六连冠!国乒女团横扫日本夺金](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365665&topic_name=%E5%85%AD%E8%BF%9E%E5%86%A0%21%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E5%A4%BA%E9%87%91)
 7. [各省宝藏泡面,泡面也有限定款](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365745&topic_name=%E5%90%84%E7%9C%81%E5%AE%9D%E8%97%8F%E6%B3%A1%E9%9D%A2%2C%E6%B3%A1%E9%9D%A2%E4%B9%9F%E6%9C%89%E9%99%90%E5%AE%9A%E6%AC%BE)
@@ -31,5 +31,5 @@
 25. [大鹅画饼:伏尔加河连通长江](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365389&topic_name=%E5%A4%A7%E9%B9%85%E7%94%BB%E9%A5%BC%3A%E4%BC%8F%E5%B0%94%E5%8A%A0%E6%B2%B3%E8%BF%9E%E9%80%9A%E9%95%BF%E6%B1%9F)
 26. [女顶流片酬跳水,几千万变100万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365360&topic_name=%E5%A5%B3%E9%A1%B6%E6%B5%81%E7%89%87%E9%85%AC%E8%B7%B3%E6%B0%B4%2C%E5%87%A0%E5%8D%83%E4%B8%87%E5%8F%98100%E4%B8%87)
 27. [济公活佛扮演者游本昌去世](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365569&topic_name=%E6%B5%8E%E5%85%AC%E6%B4%BB%E4%BD%9B%E6%89%AE%E6%BC%94%E8%80%85%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%8E%BB%E4%B8%96)
-28. [Zuian签证被拒,TES召回369](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365361&topic_name=Zuian%E7%AD%BE%E8%AF%81%E8%A2%AB%E6%8B%92%2CTES%E5%8F%AC%E5%9B%9E369)
-29. [G胖开麦:玩家整活不算作弊](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365357&topic_name=G%E8%83%96%E5%BC%80%E9%BA%A6%3A%E7%8E%A9%E5%AE%B6%E6%95%B4%E6%B4%BB%E4%B8%8D%E7%AE%97%E4%BD%9C%E5%BC%8A)
+28. [G胖开麦:玩家整活不算作弊](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365357&topic_name=G%E8%83%96%E5%BC%80%E9%BA%A6%3A%E7%8E%A9%E5%AE%B6%E6%95%B4%E6%B4%BB%E4%B8%8D%E7%AE%97%E4%BD%9C%E5%BC%8A)
+29. [Zuian签证被拒,TES召回369](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365361&topic_name=Zuian%E7%AD%BE%E8%AF%81%E8%A2%AB%E6%8B%92%2CTES%E5%8F%AC%E5%9B%9E369)
