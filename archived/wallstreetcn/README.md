@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-25 12:11:43
+> 更新时间：2026-09-25 12:31:46
 
 ## 7x24
 
@@ -35,7 +35,3 @@
 19. [花旗：腾讯小微有望成为中国首选代理式AI助手](https://wallstreetcn.com/livenews/3170672)
 20. [日本30年期国债收益率升至4.21%，创1999年上市以来新高。](https://wallstreetcn.com/livenews/3170671)
 21. [特朗普：今年到访北京感受到中国人民的热情好客，我们希望以同样的热情款待各位](https://wallstreetcn.com/livenews/3170670)
-22. [恒生科技指数日内跌幅扩大至2%。小米、阿里巴巴跌超3%。](https://wallstreetcn.com/livenews/3170669)
-23. [恒指低开0.96%，报24523.50点；恒生科技指数跌0.99%。阿里巴巴、网易跌超2%，京东健康、比亚迪股份跌近2%。](https://wallstreetcn.com/livenews/3170668)
-24. [日经225指数日内涨幅扩大至1%。](https://wallstreetcn.com/livenews/3170667)
-25. [日本东证指数涨幅扩大至1%。](https://wallstreetcn.com/livenews/3170666)
