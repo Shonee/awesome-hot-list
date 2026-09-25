@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 07:22:41
+> 更新时间：2026-09-26 07:34:00
 
 ## 7x24
 
@@ -50,6 +50,3 @@
 
 美国...](https://wallstreetcn.com/livenews/3170913)
 26. [Meta在美国新墨西哥州败诉，或面临高达2190亿美元罚款](https://wallstreetcn.com/livenews/3170911)
-27. [OpenAI正设法在发生用户数据泄露事故理解AI agent的活动范围。（路透）](https://wallstreetcn.com/livenews/3170910)
-28. [报道：Anthropic正谈判租赁最高1吉瓦算力，需要投入至少400亿美元](https://wallstreetcn.com/livenews/3170909)
-29. [伊朗外交部长：伊朗方面可以接受这份七天计划，霍尔木兹海峡最终将恢复通航。](https://wallstreetcn.com/livenews/3170907)
