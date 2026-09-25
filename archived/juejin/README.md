@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-26 02:26:05
+> 更新时间：2026-09-26 03:17:35
 
 ## 热门文章
 
@@ -8,8 +8,8 @@
 2. [程序员即将隐退，建造者持续闪耀](https://juejin.cn/post/7688298824981856271)
 3. [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283)
 4. [一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了](https://juejin.cn/post/7688300268687130650)
-5. [给Codex配上Jev，直接起飞。](https://juejin.cn/post/7688401277182066738)
-6. [做了近两年的Agent开发，其实真正要学的就是这五件事](https://juejin.cn/post/7688159506154209321)
+5. [做了近两年的Agent开发，其实真正要学的就是这五件事](https://juejin.cn/post/7688159506154209321)
+6. [给Codex配上Jev，直接起飞。](https://juejin.cn/post/7688401277182066738)
 7. [我把 Cursor 接到了蓝湖上，设计师再也不用追着我问"还原了吗"](https://juejin.cn/post/7688644921475924010)
 8. [AI 知识库 WeKnora（腾讯微信团队出品）](https://juejin.cn/post/7688530195554140194)
 9. [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036)
@@ -18,8 +18,8 @@
 12. [轻松掌握 LangGraph 的状态与节点](https://juejin.cn/post/7688270826491658266)
 13. [5 次优化让首屏快 3.6 秒，只有 1 次是改代码](https://juejin.cn/post/7688212417864024091)
 14. [突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」](https://juejin.cn/post/7688532185121439754)
-15. [同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层](https://juejin.cn/post/7688805244534325263)
-16. [傻瓜式UX：ERP的致命糖衣](https://juejin.cn/post/7688603830758195235)
+15. [傻瓜式UX：ERP的致命糖衣](https://juejin.cn/post/7688603830758195235)
+16. [同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层](https://juejin.cn/post/7688805244534325263)
 17. [订单30分钟未支付自动取消：定时任务为什么被面试官嫌弃](https://juejin.cn/post/7688532185122422794)
 18. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
 19. [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490)
@@ -45,11 +45,11 @@
 39. [Java 线程池原理详解：从核心参数到线上调优](https://juejin.cn/post/7688298824981610511)
 40. [Skill 为什么不同于 Tool？Agent 技能库的自演进与动态加载机制](https://juejin.cn/post/7687897009885397028)
 41. [Redis大key删除引发的服务雪崩，这次我真记住了](https://juejin.cn/post/7687876412299444224)
-42. [我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议](https://juejin.cn/post/7689029662157668390)
-43. [AI圈最近爆火的"哑巴"Jev，到底是个啥？](https://juejin.cn/post/7688571406653538350)
-44. [jev-ultrafast 深度解析：7 秒订机票的浏览器 Agent 是如何炼成的](https://juejin.cn/post/7688252916676640768)
-45. [你的网站准备好被AI Agent阅读了吗？2026年最被忽视的前端工程问题](https://juejin.cn/post/7688192884433682486)
-46. [我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景](https://juejin.cn/post/7688569614586953754)
+42. [你的网站准备好被AI Agent阅读了吗？2026年最被忽视的前端工程问题](https://juejin.cn/post/7688192884433682486)
+43. [我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议](https://juejin.cn/post/7689029662157668390)
+44. [AI圈最近爆火的"哑巴"Jev，到底是个啥？](https://juejin.cn/post/7688571406653538350)
+45. [我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景](https://juejin.cn/post/7688569614586953754)
+46. [jev-ultrafast 深度解析：7 秒订机票的浏览器 Agent 是如何炼成的](https://juejin.cn/post/7688252916676640768)
 47. [Flutter 获取 iPhone Duo 预留区位置](https://juejin.cn/post/7688917667420717091)
 48. [Trae 每天自动签到：Serverless 定时任务完整复盘](https://juejin.cn/post/7688669403517960202)
 49. [管理后台数据国际化：不建翻译表、一列 JSON、后端零改动](https://juejin.cn/post/7688579804614361138)

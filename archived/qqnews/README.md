@@ -1,10 +1,10 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-26 02:26:23
+> 更新时间：2026-09-26 03:17:58
 
 ## 热点榜
 
-1. [时政新闻眼丨化愿景为行动，习近平为中美落实新定位指明方向路径](https://view.inews.qq.com/a/20260925A02IGB00)
+1. [视频丨习近平和彭丽媛同美国总统特朗普夫妇茶叙](https://view.inews.qq.com/a/20260926A00LBL00)
 2. [学习快评丨共同浇灌中美友谊的美丽花朵](https://view.inews.qq.com/a/20260925A086Y800)
 3. [中美元首华盛顿会晤，为何“规格罕见”？](https://view.inews.qq.com/a/20260925A09PEP00)
 4. [壹视界·心相知丨一撇一捺，中美青年“双向奔赴”](https://view.inews.qq.com/a/20260925A04Z6P00)
@@ -19,8 +19,8 @@
 13. [中美元首不到半年实现互访，“前所未有”](https://view.inews.qq.com/a/20260925A07ACR00)
 14. [“危险但真来钱！”男子这行干2个半月能赚20多万，“就是年年都有被大风刮走的”](https://view.inews.qq.com/a/20260925V0806T00)
 15. [王霜第109分钟绝杀！亚运会：女足加时1-0越南，半决赛战朝鲜](https://view.inews.qq.com/a/20260925A071T500)
-16. [会谈结束后，特朗普安排了特别环节](https://view.inews.qq.com/a/20260925A02QFU00)
+16. [点击抽奖丨假期“发福”，趣玩不停](https://h5.news.qq.com/maker/prod/publish/M0dY3hg7zb01oiAdQl43f.html)
 17. [湖南第一师范学院教师走红网络：“优秀教师很多，自己很幸运被看见”](https://view.inews.qq.com/a/20260925V04YRF00)
-18. [点击抽奖丨假期“发福”，趣玩不停](https://h5.news.qq.com/maker/prod/publish/M0dY3hg7zb01oiAdQl43f.html)
-19. [央行例会，出现新提法](https://view.inews.qq.com/a/20260925A071EE00)
+18. [会谈结束后，特朗普安排了特别环节](https://view.inews.qq.com/a/20260925A02QFU00)
+19. [马宁、傅明，周飞、罗政4名中国裁判入选2027年亚洲杯执法名单，马宁将担任主裁](https://view.inews.qq.com/a/20260925A02VA800)
 20. [库里专访：我不是那种频繁换队的球员 现在每天都会思考何时退役](https://view.inews.qq.com/a/20260925A032QK00)
