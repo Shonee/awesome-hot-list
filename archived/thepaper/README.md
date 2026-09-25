@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-26 05:19:57
+> 更新时间：2026-09-26 06:21:28
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [一文读懂｜北京出台商品住房销售制度改革细则，将带来哪些新变化？](https://www.thepaper.cn/newsDetail_forward_34143901)
 8. [广东明确：电动自行车违规停放充电起火，可能被拘留](https://www.thepaper.cn/newsDetail_forward_34149093)
 9. [县级医院招博士研究生是不是浪费？浙江永嘉回应：有现实必要性](https://www.thepaper.cn/newsDetail_forward_34149922)
-10. [共此明月，中秋快乐](https://www.thepaper.cn/newsDetail_forward_34140505)
-11. [球迷“输球思振东”，媒体：不能用“年轻”二字把所有问题轻轻带过](https://www.thepaper.cn/newsDetail_forward_34149789)
+10. [球迷“输球思振东”，媒体：不能用“年轻”二字把所有问题轻轻带过](https://www.thepaper.cn/newsDetail_forward_34149789)
+11. [共此明月，中秋快乐](https://www.thepaper.cn/newsDetail_forward_34140505)
 12. [中国女篮半决赛不敌韩国，本届亚运会中国篮球各项均无缘决赛](https://www.thepaper.cn/newsDetail_forward_34149676)
 13. [中国足协党委书记：坚决杜绝国家队建设急功近利，防范职业足球领域重蹈金元足球覆辙](https://www.thepaper.cn/newsDetail_forward_34148484)
 14. [马琳：中日女队水平已在伯仲之间，未来十年“中日对决”不可避免](https://www.thepaper.cn/newsDetail_forward_34147999)
 15. [大外交·现场｜访美第二日：从“五军仪仗队”到国宴的历史细节](https://www.thepaper.cn/newsDetail_forward_34148411)
 16. [大国外交进行时丨特朗普：这是一次“伟大的会晤”](https://www.thepaper.cn/newsDetail_forward_34147964)
-17. [白宫欢迎国宴，哪些企业家坐主桌？](https://www.thepaper.cn/newsDetail_forward_34148989)
+17. [18岁之前打破亚运会纪录夺金，陈妤颉：这是最好的成年礼](https://www.thepaper.cn/newsDetail_forward_34150727)
 18. [宫鲁鸣回应三分球颗粒无收：时间长了什么情况都可能遇到](https://www.thepaper.cn/newsDetail_forward_34149921)
-19. [观察｜以战略稳定应对外部不确定性，中美关系“重中之重”的背后](https://www.thepaper.cn/newsDetail_forward_34143275)
-20. [澎湃读报丨主要央媒头版聚焦“中美元首华盛顿会晤”](https://www.thepaper.cn/newsDetail_forward_34147905)
+19. [白宫欢迎国宴，哪些企业家坐主桌？](https://www.thepaper.cn/newsDetail_forward_34148989)
+20. [观察｜以战略稳定应对外部不确定性，中美关系“重中之重”的背后](https://www.thepaper.cn/newsDetail_forward_34143275)
