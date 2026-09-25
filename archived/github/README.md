@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-25 19:29:49
+> 更新时间：2026-09-26 02:34:35
 
 ## 每日趋势
 
@@ -126,12 +126,13 @@
 11. [cilium](https://github.com/cilium/cilium)
 12. [tunnel-client](https://github.com/openai/tunnel-client)
 13. [trivy](https://github.com/aquasecurity/trivy)
-14. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-15. [go-sdk](https://github.com/modelcontextprotocol/go-sdk)
-16. [prometheus](https://github.com/prometheus/prometheus)
-17. [bifrost](https://github.com/maximhq/bifrost)
-18. [beszel](https://github.com/henrygd/beszel)
-19. [go-music-dl](https://github.com/guohuiyuan/go-music-dl)
+14. [v2rayA](https://github.com/v2rayA/v2rayA)
+15. [gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
+16. [go-sdk](https://github.com/modelcontextprotocol/go-sdk)
+17. [prometheus](https://github.com/prometheus/prometheus)
+18. [bifrost](https://github.com/maximhq/bifrost)
+19. [beszel](https://github.com/henrygd/beszel)
+20. [go-music-dl](https://github.com/guohuiyuan/go-music-dl)
 
 ## HTML
 
