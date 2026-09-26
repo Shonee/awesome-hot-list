@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-26 23:19:19
+> 更新时间：2026-09-27 00:22:16
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
-2. [我用 ASP.NET Core 做了个水稻病虫害检查系统](https://www.cnblogs.com/shenchuanchao/p/23122839/aspnet-core-rice-pest-disease-inspection-system)
-3. [在笔记本上自制39M小语言模型指南](https://www.cnblogs.com/duoia/p/23119785)
-4. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
-5. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
+1. [我用 ASP.NET Core 做了个水稻病虫害检查系统](https://www.cnblogs.com/shenchuanchao/p/23122839/aspnet-core-rice-pest-disease-inspection-system)
+2. [在笔记本上自制39M小语言模型指南](https://www.cnblogs.com/duoia/p/23119785)
+3. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
+4. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
+5. [使用mitmweb查看windows上软件发出去 的网络请求](https://www.cnblogs.com/grey-wolf/p/23121156)
 6. [GitHub + Cloudflare + Picgo 搭建你的免费图床](https://www.cnblogs.com/dominickk/p/23120855)
