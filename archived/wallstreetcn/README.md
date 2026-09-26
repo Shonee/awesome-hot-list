@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 22:35:43
+> 更新时间：2026-09-26 22:48:10
 
 ## 7x24
 
@@ -22,4 +22,3 @@
 10. [美国总统特朗普重申，伊朗不可以拥有核武器。](https://wallstreetcn.com/livenews/3170986)
 11. [阿塞拜疆签署总价值超过100亿美元的投资协议](https://wallstreetcn.com/livenews/3170995)
 12. [山西省省长：要加速扭转煤炭产量下滑趋势](https://wallstreetcn.com/livenews/3170983)
-13. [理想汽车官微抽奖罗永浩中奖，奖品为iPhone17 Pro Max，网友调侃：以为是P的](https://wallstreetcn.com/livenews/3170982)
