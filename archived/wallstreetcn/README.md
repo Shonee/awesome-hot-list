@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 23:08:59
+> 更新时间：2026-09-26 23:23:36
 
 ## 7x24
 
@@ -18,5 +18,3 @@
 针对特定机场，我们掌握多种非军事反制手段，必要时将予以实施，当然，我们希望事...](https://wallstreetcn.com/livenews/3170994)
 7. [欧盟拟大力增加卫星发射，寻域外发射场](https://wallstreetcn.com/livenews/3170993)
 8. [美媒称以总理曾获袭击警告但为促以沙建交未打击哈马斯](https://wallstreetcn.com/livenews/3170992)
-9. [伊朗：与土耳其、巴基斯坦的航班仍然处于运营状态。（伊朗媒体IRIB）](https://wallstreetcn.com/livenews/3170987)
-10. [美国总统特朗普重申，伊朗不可以拥有核武器。](https://wallstreetcn.com/livenews/3170986)
