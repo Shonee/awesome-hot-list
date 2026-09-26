@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-09-26 16:36:19
+> 更新时间：2026-09-26 23:28:11
 
 ## Trending Models
 
@@ -19,8 +19,8 @@
 13. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
 14. [AlexWortega/openjev](https://huggingface.co/AlexWortega/openjev)
 15. [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)
-16. [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
-17. [nvidia/Nemotron-3-Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization)
+16. [nvidia/Nemotron-3-Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization)
+17. [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
 18. [netease-youdao/Confucius4-R2T2](https://huggingface.co/netease-youdao/Confucius4-R2T2)
 19. [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)
-20. [yandex/AliceAI-Foundation-80B-A3B-Base](https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base)
+20. [StarDoc-AI/TeleOCR](https://huggingface.co/StarDoc-AI/TeleOCR)
