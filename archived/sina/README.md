@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-26 21:19:27
-
-## 新闻热榜
-
-1. [歌手刘欢病逝，享年63岁，对外经贸大学发布讣告](https://news.sina.com.cn/c/2026-09-26/doc-initckaz3583171.shtml)
-2. [中秋当天，菲律宾又搞事，果然失败了](https://news.sina.com.cn/c/2026-09-26/doc-initccvk8824535.shtml)
-3. [视频丨习近平和彭丽媛同美国总统特朗普夫妇茶叙](https://news.sina.com.cn/c/xl/2026-09-26/doc-initanxs9147328.shtml)
-4. [[新浪彩票]足彩第26133期任九：德国主胜可期](https://sports.sina.com.cn/l/2026-09-26/doc-initccvc3663207.shtml)
-5. [中美达成八点成果共识](https://news.sina.com.cn/c/2026-09-26/doc-initcusx7090529.shtml)
-6. [视频丨习近平圆满结束对美国的国事访问](https://news.sina.com.cn/c/xl/2026-09-26/doc-initanxp7441490.shtml)
-7. [中国足球彩票胜负彩26133期澳盘最新赔率(17:00)](https://sports.sina.com.cn/l/2026-09-26/doc-initckcf3937734.shtml)
-8. [刘欢中秋节离世 女儿去年刚结婚](https://news.sina.com.cn/c/2026-09-26/doc-initckcf3956118.shtml)
-9. [日本亚组委道歉](https://news.sina.com.cn/w/2026-09-26/doc-initcuta8559927.shtml)
-10. [中美元首华盛顿会晤，为何“规格罕见”？](https://news.sina.com.cn/c/xl/2026-09-25/doc-initaair4179195.shtml)
-11. [普京：俄方乐见中美元首会晤，两国如何以及达成何种协议，将对全球经济产生影响，也将对我们的经济产生影响](https://news.sina.com.cn/w/2026-09-26/doc-initccvf7246095.shtml)
-12. [胜负彩26133期欧洲四大机构最新数据(17:00)](https://sports.sina.com.cn/l/2026-09-26/doc-initckcc7165727.shtml)
-13. [国安部披露：一大陆学生赴台湾交流时，与“学姐”坠入爱河，返回大陆后对方以情侣“查岗”为名让其拍实验室照片等，对方实为台间谍](https://news.sina.com.cn/c/2026-09-26/doc-initccvf7193835.shtml)
-14. [[新浪彩票]足彩第26133期大势：荷兰客战防平](https://sports.sina.com.cn/l/2026-09-26/doc-initccvi3963629.shtml)
-15. [[新浪彩票]足彩26133期盈亏指数：丹麦谨慎防平](https://sports.sina.com.cn/l/2026-09-26/doc-initccvi3965118.shtml)
-16. [送别刘欢｜中秋月圆，那个唱《弯弯的月亮》的人走了，林志炫吉克隽逸沉痛悼念](https://news.sina.com.cn/c/2026-09-26/doc-initckaz3603131.shtml)
-17. [刘欢走了，自称“业余歌手”](https://news.sina.com.cn/s/2026-09-26/doc-initcute0520944.shtml)
-18. [刘欢去年现身岳麓山品茶 去年大肚腩消失瘦了一大圈](https://news.sina.com.cn/c/2026-09-26/doc-initckcc7183634.shtml)
-19. [习近平结束对美国的国事访问回到北京](https://news.sina.com.cn/c/xl/2026-09-26/doc-initcusx7082018.shtml)
-20. [[新浪彩票]足彩26133期投注策略：克罗地亚不败](https://sports.sina.com.cn/l/2026-09-26/doc-initccvf7192238.shtml)
-
-## 财经热榜
-
-1. [习近平圆满结束对美国的国事访问（现场视频）](https://finance.sina.com.cn/world/2026-09-26/doc-initccvc3659614.shtml)
-2. [特朗普拒绝伊朗“七天停火提议” 预计中期选举后重启轰炸行动](https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3989604.shtml)
-3. [著名音乐家刘欢病逝，享年63岁](https://finance.sina.com.cn/roll/2026-09-26/doc-initckcf3931840.shtml)
-4. [罕见，上市第6日跌停，原因揭秘！潜力低估值次新股出炉，仅10只](https://finance.sina.com.cn/stock/zqgd/2026-09-26/doc-initccvf7197279.shtml)
-5. [习近平和彭丽媛同特朗普夫妇茶叙，高清大图来了！](https://finance.sina.com.cn/world/2026-09-26/doc-initccvc3666442.shtml)
-6. [知名音乐人刘欢逝世，享年63岁](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initckcc7154664.shtml)
-7. [国庆假期临近，持股还是持币过节？机构研判来了](https://finance.sina.com.cn/stock/marketresearch/2026-09-26/doc-initcqmc3869022.shtml)
-8. [对外经济贸易大学发布讣告：我国著名音乐家刘欢逝世](https://finance.sina.com.cn/roll/2026-09-26/doc-initckaz3589151.shtml)
-9. [普京：俄方乐见中美元首会晤！中美达成的任何具有积极意义的协议，我们都是欢迎的](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initckcc7133117.shtml)
-10. [加息冲击波何时来？美银警告：两大因素或引发美股恐慌抛售](https://finance.sina.com.cn/roll/2026-09-26/doc-initccvf7186981.shtml)
-11. [AI失控了？OpenAI确认干预3家美国政府网站](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvk8821562.shtml)
-12. [中美达成八点成果共识](https://finance.sina.com.cn/roll/2026-09-26/doc-initcusz3862882.shtml)
-13. [曾经最忠诚的女秘书，调转枪口对准连斯基，骂他带领国家自杀](https://finance.sina.com.cn/roll/2026-09-26/doc-initanxr4206240.shtml)
-14. [伯克希尔3天斥资2.12亿美元抄底这只暴跌个股，本季度持仓已大增81%](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initahrp4094961.shtml)
-15. [9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高](https://finance.sina.com.cn/world/2026-09-26/doc-initatfp4160592.shtml)
-16. [特朗普第一时间发帖总结会晤](https://finance.sina.com.cn/world/2026-09-26/doc-initcqme8647331.shtml)
-17. [摩根大通：数据安全中心已上线摩根大通手机银行，用于管理关联应用。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7446651.shtml)
-18. [9月26日隔夜要闻：美股三大指数收涨 原油下跌 金价微升 美官员称美伊正就重新开放霍尔木兹海峡进行讨论](https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4073998.shtml)
-19. [美联储哈玛克：美联储会留意金融状况，但货币政策的决定权在美联储。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7350076.shtml)
-20. [苹果因侵犯触觉反馈专利 被判需支付57亿美元赔偿金](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvi3960554.shtml)
+> 更新时间：2026-09-26 21:22:02
 
 ## 7x24
 
@@ -79,4 +33,3 @@
 27. [伊朗总统佩泽希齐扬：经过每次谈判后反复的攻击和制裁，我们不再信任与华盛顿的会谈。](https://finance.sina.cn/7x24/2026-09-26/detail-initcyze4158752.d.html)
 28. [【泰国多地强降雨致交通受阻 政府启动24小时游客援助机制】9月26日，泰国总理府发言人表示，近期该国多地强降雨对民众和游客出行造成影响，部分航班取消造成游客滞留。泰国旅游与体育部已启动紧急应对措施，并前往机场协助受影响游客。泰国旅游与体育部部长素拉萨下令相关部门协调行动，全力为受影响游客提供帮助。旅游警察与泰国国家旅游局已设立应急行动中心，并通过旅游警察热线1155与游客援助中心（TAC）提供24小时服务，直至情况缓解。泰国国家旅游局同时协调酒店及旅游经营机构，为因航班延误、错过航班或需要延长住宿时间的游客提供协助，并及时提供出行信息，方便游客调整行程。](https://finance.sina.cn/7x24/2026-09-26/detail-initcyze4158280.d.html)
 29. [【外交部发言人就人工智能问题答记者问】问：我们注意到，美方在介绍此次访问成果时，使用“超级智能”代替“人工智能”。请问中方有何评论？答：中美元首会晤时，就人工智能问题进行了深入讨论。关于人工智能表述问题，中方重视美方的立场，也尊重美方的提法。人工智能技术正在持续发展，各方可以结合最新形势，加强交流、深入探讨、寻求共识。（外交部）](https://finance.sina.cn/7x24/2026-09-26/detail-initcyzh0926879.d.html)
-30. [【印度东北部发生假酒中毒事件 至少19人死亡】印度警方当地时间26日发布消息称，该国东北部那加兰邦过去两天发生假酒中毒事件，已造成至少19人死亡。当地警方已成立特别调查组，全面调查假酒来源及供应链。目前，疑似假酒的样本已经进行法医毒理学检验，以确定确切致死原因。警方表示已掌握部分线索，相关案件调查正在进一步展开中。](https://finance.sina.cn/7x24/2026-09-26/detail-initcyze4153536.d.html)

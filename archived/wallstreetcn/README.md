@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 21:08:06
+> 更新时间：2026-09-26 21:22:09
 
 ## 7x24
 
@@ -22,6 +22,3 @@
 12. [泰国多地强降雨致交通受阻 政府启动24小时游客援助机制](https://wallstreetcn.com/livenews/3170979)
 13. [外交部：关于人工智能表述问题，中方重视美方立场也尊重美方提法](https://wallstreetcn.com/livenews/3170978)
 14. [王毅谈习近平主席对美国进行国事访问](https://wallstreetcn.com/livenews/3170977)
-15. [新华社评论员：共同构建“基于尊重、公平、对等的建设性战略稳定关系”](https://wallstreetcn.com/livenews/3170976)
-16. [伊朗总统佩泽希齐扬：也门发生的事件与伊朗无关。（半岛电视台）](https://wallstreetcn.com/livenews/3170975)
-17. [2026中秋档票房破2亿](https://wallstreetcn.com/livenews/3170974)
