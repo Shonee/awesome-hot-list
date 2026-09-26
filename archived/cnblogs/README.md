@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-26 19:17:50
+> 更新时间：2026-09-26 20:28:54
 
 ## 最新帖子
 
-1. [PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查](https://www.cnblogs.com/ayic/p/23121980)
-2. [Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？](https://www.cnblogs.com/xiaobaiysf/p/23127340)
-3. [从 TensorSharp 视角解读 Ternary Bonsai 2 27B：当 1.72 比特的权重遇上 Hadamard 变换](https://www.cnblogs.com/shanyou/p/23126888)
-4. [【.NET】Logging 库探索（一）：基础接口](https://www.cnblogs.com/tcjiaan/p/23068018)
-5. [JAVA日志的前世今生](https://www.cnblogs.com/xiexj/p/23126648)
-6. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
-7. [【FHE】（十）：密文里的 attention——没有 max，softmax 怎么办](https://www.cnblogs.com/haliuhome/p/23125666)
-8. [面包板接线为什么这样接：从模块需求到芯片资源分配](https://www.cnblogs.com/zw-awa/p/23112397)
-9. [JAVA数据处理的常用技术](https://www.cnblogs.com/xiexj/p/23122919)
-10. [我用 ASP.NET Core 做了个水稻病虫害检查系统](https://www.cnblogs.com/shenchuanchao/p/23122839/aspnet-core-rice-pest-disease-inspection-system)
-11. [ChromaPanel vs 其他 React 颜色选择器对比：功能、包体积、可访问性等](https://www.cnblogs.com/wangju5170/p/23122583)
-12. [阿里云2026年AI Agent 开发者调研报告解读：企业 Agent 到底卡在哪](https://www.cnblogs.com/xiaobaiysf/p/23122354)
-13. [使用mitmweb查看windows上软件发出去 的网络请求](https://www.cnblogs.com/grey-wolf/p/23121156)
-14. [GitHub + Cloudflare + Picgo 搭建你的免费图床](https://www.cnblogs.com/dominickk/p/23120855)
-15. [go语言中内存地址(指针) 与new和make的区别](https://www.cnblogs.com/ishoulgodo/p/23120402)
-16. [在笔记本上自制39M小语言模型指南](https://www.cnblogs.com/duoia/p/23119785)
-17. [【FHE】我们如何实现同态加密推理（八）：SiLU 的密文化——两条路径，和一个 8 字节的开关](https://www.cnblogs.com/haliuhome/p/23118642)
-18. [SQLcl 中 c/old/new 替换变量为何失效？先定位再替换](https://www.cnblogs.com/jyzhao/p/23118624)
-19. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
-20. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
+1. [P12960 毒药 题解](https://www.cnblogs.com/lvwangshuOI/p/23128372)
+2. [把按键和 LED 状态显示出来：第一次看见程序到底在干什么](https://www.cnblogs.com/zw-awa/p/23128263)
+3. [PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查](https://www.cnblogs.com/ayic/p/23121980)
+4. [Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？](https://www.cnblogs.com/xiaobaiysf/p/23127340)
+5. [从 TensorSharp 视角解读 Ternary Bonsai 2 27B：当 1.72 比特的权重遇上 Hadamard 变换](https://www.cnblogs.com/shanyou/p/23126888)
+6. [【.NET】Logging 库探索（一）：基础接口](https://www.cnblogs.com/tcjiaan/p/23068018)
+7. [JAVA日志的前世今生](https://www.cnblogs.com/xiexj/p/23126648)
+8. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
+9. [【FHE】（十）：密文里的 attention——没有 max，softmax 怎么办](https://www.cnblogs.com/haliuhome/p/23125666)
+10. [面包板接线为什么这样接：从模块需求到芯片资源分配](https://www.cnblogs.com/zw-awa/p/23112397)
+11. [JAVA数据处理的常用技术](https://www.cnblogs.com/xiexj/p/23122919)
+12. [我用 ASP.NET Core 做了个水稻病虫害检查系统](https://www.cnblogs.com/shenchuanchao/p/23122839/aspnet-core-rice-pest-disease-inspection-system)
+13. [ChromaPanel vs 其他 React 颜色选择器对比：功能、包体积、可访问性等](https://www.cnblogs.com/wangju5170/p/23122583)
+14. [阿里云2026年AI Agent 开发者调研报告解读：企业 Agent 到底卡在哪](https://www.cnblogs.com/xiaobaiysf/p/23122354)
+15. [使用mitmweb查看windows上软件发出去 的网络请求](https://www.cnblogs.com/grey-wolf/p/23121156)
+16. [GitHub + Cloudflare + Picgo 搭建你的免费图床](https://www.cnblogs.com/dominickk/p/23120855)
+17. [go语言中内存地址(指针) 与new和make的区别](https://www.cnblogs.com/ishoulgodo/p/23120402)
+18. [在笔记本上自制39M小语言模型指南](https://www.cnblogs.com/duoia/p/23119785)
+19. [【FHE】我们如何实现同态加密推理（八）：SiLU 的密文化——两条路径，和一个 8 字节的开关](https://www.cnblogs.com/haliuhome/p/23118642)
+20. [SQLcl 中 c/old/new 替换变量为何失效？先定位再替换](https://www.cnblogs.com/jyzhao/p/23118624)
 
 ## 精华帖子
 

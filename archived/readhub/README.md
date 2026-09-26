@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-26 19:18:01
+> 更新时间：2026-09-26 20:29:13
 
 ## 24 小时热榜
 
@@ -21,19 +21,19 @@
 15. [蔚来官方宣布丝绸之路换电路线正式贯通](https://readhub.cn/topic/8whkTVdkqBi?tab=daily)
 16. [AI 云计算公司 Nscale 在 IPO 前通过可转换票据融资 33.6 亿美元](https://readhub.cn/topic/8wiNnzwm51b?tab=daily)
 17. [IROS 2026 最佳移动操作论文候选：ULTRA 让人形机器人按目标行动](https://readhub.cn/topic/8wiZCxBzqjK?tab=daily)
-18. [千禧管理公司新一轮募资吸引客户 300 亿美元需求](https://readhub.cn/topic/8wiIlXcdeZs?tab=daily)
-19. [高速光互联与计算技术北京市重点实验室落地北京经开区](https://readhub.cn/topic/8wjCsANjM4C?tab=daily)
-20. [AI 创企 DensityAI 正进入融资谈判后期 投后估值接近 100 亿美元](https://readhub.cn/topic/8whgBCdvWfL?tab=daily)
-21. [巴斯夫确认就潜在收购赢创开展探索性谈判](https://readhub.cn/topic/8wjjk8WZCME?tab=daily)
-22. [Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元](https://readhub.cn/topic/8witvNlhrQ0?tab=daily)
-23. [iQOO Pad Ultra 官宣屏幕参数，将于 9 月 29 日发布](https://readhub.cn/topic/8whnL6Z2Ib0?tab=daily)
-24. [中国天眼落成十周年 全域检修完成重启观测 二期阵列建设提速](https://readhub.cn/topic/8whom9vDJPY?tab=daily)
-25. [微软对 Copilot 进行全面升级 新增代码生成和代理式 AI 工具](https://readhub.cn/topic/8wiKDOylwv5?tab=daily)
-26. [阿克迈美股盘前涨超 21% 此前签署 116 亿美元云计算协议](https://readhub.cn/topic/8wi3lHKCDGr?tab=daily)
+18. [高速光互联与计算技术北京市重点实验室落地北京经开区](https://readhub.cn/topic/8wjCsANjM4C?tab=daily)
+19. [AI 创企 DensityAI 正进入融资谈判后期 投后估值接近 100 亿美元](https://readhub.cn/topic/8whgBCdvWfL?tab=daily)
+20. [巴斯夫确认就潜在收购赢创开展探索性谈判](https://readhub.cn/topic/8wjjk8WZCME?tab=daily)
+21. [Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元](https://readhub.cn/topic/8witvNlhrQ0?tab=daily)
+22. [iQOO Pad Ultra 官宣屏幕参数，将于 9 月 29 日发布](https://readhub.cn/topic/8whnL6Z2Ib0?tab=daily)
+23. [中国天眼落成十周年 全域检修完成重启观测 二期阵列建设提速](https://readhub.cn/topic/8whom9vDJPY?tab=daily)
+24. [微软对 Copilot 进行全面升级 新增代码生成和代理式 AI 工具](https://readhub.cn/topic/8wiKDOylwv5?tab=daily)
+25. [阿克迈美股盘前涨超 21% 此前签署 116 亿美元云计算协议](https://readhub.cn/topic/8wi3lHKCDGr?tab=daily)
+26. [英伟达获批 AI 工具专利 有望缩短游戏优化周期提升体验稳定性](https://readhub.cn/topic/8wjWW7Jr8ZP?tab=daily)
 27. [铁路部门调整火车票预约购票试点可预约日期范围](https://readhub.cn/topic/8wjIwiNKT3m?tab=daily)
-28. [秘鲁矿业部长预计今年秘鲁铜产量为 250 万-270 万吨](https://readhub.cn/topic/8wiXm95cHJm?tab=daily)
-29. [Anthropic 推 Claude Code 云端会话 老用户最高赠 250 美元额度](https://readhub.cn/topic/8wiMLI3Qj5y?tab=daily)
-30. [英伟达获批 AI 工具专利 有望缩短游戏优化周期提升体验稳定性](https://readhub.cn/topic/8wjWW7Jr8ZP?tab=daily)
+28. [Anthropic 推 Claude Code 云端会话 老用户最高赠 250 美元额度](https://readhub.cn/topic/8wiMLI3Qj5y?tab=daily)
+29. [秘鲁矿业部长预计今年秘鲁铜产量为 250 万-270 万吨](https://readhub.cn/topic/8wiXm95cHJm?tab=daily)
+30. [XRG 就阿塞拜疆天然气扩建项目做出最终投资决定](https://readhub.cn/topic/8wjjk6PQWGP?tab=daily)
 
 ## 每日早报
 
@@ -49,11 +49,11 @@
 
 1. [发布仅 9 天的 Jev 据称估值破百亿美金，硅谷也看好薄利多销？](https://www.mittrchina.com/news/detail/17017)
 2. [Claude 独立攻克理论物理前沿难题，全程无人指导，花费不到两千美元](https://www.mittrchina.com/news/detail/17015)
-3. [阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ)
-4. [让 AI 学会「挑刺」：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%](https://www.ithome.com/1/007/414.htm)
-5. [美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力](https://www.ithome.com/1/007/356.htm)
-6. [索尼芯片子公司将收紧远程办公：要求约 8000 名员工全面返岗，加速物理 AI 研发](https://www.ithome.com/1/007/413.htm)
-7. [纳指再创新高，特朗普联手黄仁勋「做多 AI」，下一波行情来自 AI 智能体？](https://www.huxiu.com/article/4894055.html?f=rss)
-8. [华硕：英伟达 RTX Spark 款 ProArt 创 16 创作本 10 月 8 日登场](https://www.ithome.com/1/007/393.htm)
-9. [不到 1 公斤的 RTX 5070 影驰 FIRE 显卡开卖：4599 元](https://news.mydrivers.com/1/1154/1154068.htm)
-10. [Bumble 官宣放弃「左滑右滑」，转向 AI 红娘，并探索出售等战略选项](https://www.huxiu.com/article/4894042.html?f=rss)
+3. [OpenAI pauses most capable models after agents bypass safeguards and leak data](https://daily.dev/posts/f7qqszuul)
+4. [阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ)
+5. [让 AI 学会「挑刺」：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%](https://www.ithome.com/1/007/414.htm)
+6. [牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练](https://www.ithome.com/1/007/426.htm)
+7. [美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力](https://www.ithome.com/1/007/356.htm)
+8. [索尼芯片子公司将收紧远程办公：要求约 8000 名员工全面返岗，加速物理 AI 研发](https://www.ithome.com/1/007/413.htm)
+9. [爱优腾芒的 AI 剧集布局与抖音的爆款突围](https://www.huxiu.com/article/4894054.html?f=rss)
+10. [OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度](https://www.ithome.com/1/007/421.htm)

@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-26 19:18:54
+> 更新时间：2026-09-26 20:29:33
 
 ## 热点资讯排行
 
@@ -12,10 +12,10 @@
 6. [《生化危机：爆发夜》枪版资源大规模泄露！9000人同时观看](https://www.gamersky.com/news/202609/2212670.shtml)
 7. [《GTA:东京》细节披露:重点武士刀 效仿《恶霸鲁尼》](https://www.gamersky.com/news/202609/2212489.shtml)
 8. [百万奖金](https://www.gamersky.com/news/202609/2212881.shtml)
-9. [姿态直播意外露出银行卡余额:千万现金流 真京城贵妇](https://www.gamersky.com/news/202609/2215346.shtml)
-10. [国产大尺度游戏下架 关闭下载入口！此前曾和谐角色立绘](https://www.gamersky.com/news/202609/2215229.shtml)
-11. [西贝贾国龙称罗永浩下跪才和解！恩怨难消再上热搜](https://www.gamersky.com/news/202609/2213715.shtml)
-12. [三上真司新作细节曝光！非常厉害非常有趣](https://www.gamersky.com/news/202609/2213512.shtml)
-13. [明星赛何润东成全场唯一手柄玩家 一旁陈赫都看呆了](https://www.gamersky.com/news/202609/2217378.shtml)
+9. [明星赛何润东成全场唯一手柄玩家 一旁陈赫都看呆了](https://www.gamersky.com/news/202609/2217378.shtml)
+10. [姿态直播意外露出银行卡余额:千万现金流 真京城贵妇](https://www.gamersky.com/news/202609/2215346.shtml)
+11. [国产大尺度游戏下架 关闭下载入口！此前曾和谐角色立绘](https://www.gamersky.com/news/202609/2215229.shtml)
+12. [西贝贾国龙称罗永浩下跪才和解！恩怨难消再上热搜](https://www.gamersky.com/news/202609/2213715.shtml)
+13. [三上真司新作细节曝光！非常厉害非常有趣](https://www.gamersky.com/news/202609/2213512.shtml)
 14. [茄子回应欠债成老赖：属实！买版权乱了还钱计划](https://www.gamersky.com/news/202609/2216471.shtml)
 15. [《剑星》总监金亨泰访谈秒答 最坚持伊芙身材 勒痕晃动都要真实](https://www.gamersky.com/news/202609/2213932.shtml)
