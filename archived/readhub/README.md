@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-26 22:21:03
+> 更新时间：2026-09-26 23:20:00
 
 ## 24 小时热榜
 
@@ -19,21 +19,21 @@
 13. [蔚来官方宣布丝绸之路换电路线正式贯通](https://readhub.cn/topic/8whkTVdkqBi?tab=daily)
 14. [美初创建 AI 科研设施 测试发现 AI 模型缺实验室实操能力](https://readhub.cn/topic/8wiKv7n8XZi?tab=daily)
 15. [巴斯夫确认就潜在收购赢创开展探索性谈判](https://readhub.cn/topic/8wjjk8WZCME?tab=daily)
-16. [IROS 2026 最佳移动操作论文候选：ULTRA 让人形机器人按目标行动](https://readhub.cn/topic/8wiZCxBzqjK?tab=daily)
-17. [AI 创企 DensityAI 正进入融资谈判后期 投后估值接近 100 亿美元](https://readhub.cn/topic/8whgBCdvWfL?tab=daily)
-18. [高速光互联与计算技术北京市重点实验室落地北京经开区](https://readhub.cn/topic/8wjCsANjM4C?tab=daily)
-19. [iQOO Pad Ultra 官宣屏幕参数，将于 9 月 29 日发布](https://readhub.cn/topic/8whnL6Z2Ib0?tab=daily)
-20. [Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元](https://readhub.cn/topic/8witvNlhrQ0?tab=daily)
-21. [中国天眼落成十周年 全域检修完成重启观测 二期阵列建设提速](https://readhub.cn/topic/8whom9vDJPY?tab=daily)
-22. [英伟达获批 AI 工具专利 有望缩短游戏优化周期提升体验稳定性](https://readhub.cn/topic/8wjWW7Jr8ZP?tab=daily)
-23. [铁路部门调整火车票预约购票试点可预约日期范围](https://readhub.cn/topic/8wjIwiNKT3m?tab=daily)
-24. [山西省省长：要加速扭转煤炭产量下滑趋势](https://readhub.cn/topic/8wjwc6mmoJF?tab=daily)
+16. [AI 创企 DensityAI 正进入融资谈判后期 投后估值接近 100 亿美元](https://readhub.cn/topic/8whgBCdvWfL?tab=daily)
+17. [IROS 2026 最佳移动操作论文候选：ULTRA 让人形机器人按目标行动](https://readhub.cn/topic/8wiZCxBzqjK?tab=daily)
+18. [iQOO Pad Ultra 官宣屏幕参数，将于 9 月 29 日发布](https://readhub.cn/topic/8whnL6Z2Ib0?tab=daily)
+19. [高速光互联与计算技术北京市重点实验室落地北京经开区](https://readhub.cn/topic/8wjCsANjM4C?tab=daily)
+20. [山西省省长：要加速扭转煤炭产量下滑趋势](https://readhub.cn/topic/8wjwc6mmoJF?tab=daily)
+21. [英伟达获批 AI 工具专利 有望缩短游戏优化周期提升体验稳定性](https://readhub.cn/topic/8wjWW7Jr8ZP?tab=daily)
+22. [Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元](https://readhub.cn/topic/8witvNlhrQ0?tab=daily)
+23. [中国天眼落成十周年 全域检修完成重启观测 二期阵列建设提速](https://readhub.cn/topic/8whom9vDJPY?tab=daily)
+24. [铁路部门调整火车票预约购票试点可预约日期范围](https://readhub.cn/topic/8wjIwiNKT3m?tab=daily)
 25. [Anthropic 推 Claude Code 云端会话 老用户最高赠 250 美元额度](https://readhub.cn/topic/8wiMLI3Qj5y?tab=daily)
-26. [秘鲁矿业部长预计今年秘鲁铜产量为 250 万-270 万吨](https://readhub.cn/topic/8wiXm95cHJm?tab=daily)
-27. [国产火箭总装周期缩至约 15 天](https://readhub.cn/topic/8wjoNcPigKm?tab=daily)
-28. [中瓷电子：上游原材料供应均已实现国产化且满足需求](https://readhub.cn/topic/8wjjNZufLWy?tab=daily)
-29. [美航天器 LINK 未完成任务 已再入大气层](https://readhub.cn/topic/8wjHALggZ3H?tab=daily)
-30. [李小龙：华为大疆联名款 Osmo Pocket 4 云台相机有更多协同功能](https://readhub.cn/topic/8wjaoDt1Vvi?tab=daily)
+26. [国产火箭总装周期缩至约 15 天](https://readhub.cn/topic/8wjoNcPigKm?tab=daily)
+27. [秘鲁矿业部长预计今年秘鲁铜产量为 250 万-270 万吨](https://readhub.cn/topic/8wiXm95cHJm?tab=daily)
+28. [李小龙：华为大疆联名款 Osmo Pocket 4 云台相机有更多协同功能](https://readhub.cn/topic/8wjaoDt1Vvi?tab=daily)
+29. [中瓷电子：上游原材料供应均已实现国产化且满足需求](https://readhub.cn/topic/8wjjNZufLWy?tab=daily)
+30. [美航天器 LINK 未完成任务 已再入大气层](https://readhub.cn/topic/8wjHALggZ3H?tab=daily)
 
 ## 每日早报
 
@@ -51,9 +51,9 @@
 2. [Claude 独立攻克理论物理前沿难题，全程无人指导，花费不到两千美元](https://www.mittrchina.com/news/detail/17015)
 3. [科学家首次实时观测单个声子消失，量子计算纠错研究迈出重要一步](https://www.ithome.com/1/007/438.htm)
 4. [OpenAI pauses most capable models after agents bypass safeguards and leak data](https://daily.dev/posts/f7qqszuul)
-5. [阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ)
-6. [英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练](https://www.ithome.com/1/007/426.htm)
-7. [让 AI 学会「挑刺」：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%](https://www.ithome.com/1/007/414.htm)
-8. [美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力](https://www.ithome.com/1/007/356.htm)
-9. [Nvidia RTX Spark vs Apple M6: which chip is better for creating, gaming, and AI?](https://www.techradar.com/computing/cpu/nvidia-rtx-spark-vs-apple-m6)
-10. [Michael Saylor 提出数字经济政策框架，主张允许比特币进入银行和保险体系](https://www.theblockbeats.info/flash/369139)
+5. [从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议](https://www.ithome.com/1/007/441.htm)
+6. [报告：中国 AI 算力将扩容三倍，国产芯片占比有望超 70%](https://news.mydrivers.com/1/1154/1154086.htm)
+7. [阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ)
+8. [宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势](https://www.ithome.com/1/007/443.htm)
+9. [英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练](https://www.ithome.com/1/007/426.htm)
+10. [让 AI 学会「挑刺」：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%](https://www.ithome.com/1/007/414.htm)

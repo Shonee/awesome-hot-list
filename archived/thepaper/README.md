@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-26 22:21:04
+> 更新时间：2026-09-26 23:20:04
 
 ## 热新闻
 
@@ -14,13 +14,13 @@
 8. [纪念刘欢｜他的课总是座无虚席，老校长至今记得那句“当老师是一生的”](https://www.thepaper.cn/newsDetail_forward_34155681)
 9. [国庆假期潮州一民宿一晚155元涨到1486元？市监局：“涨价近十倍”的结论与实际情况不符](https://www.thepaper.cn/newsDetail_forward_34154650)
 10. [言短意长｜领导公开手机号只是起点，民意连通不能止步于此](https://www.thepaper.cn/newsDetail_forward_34155815)
-11. [直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽](https://www.thepaper.cn/newsDetail_forward_34154261)
-12. [“动漫组合”亚运混双夺冠，中国队包揽金银牌](https://www.thepaper.cn/newsDetail_forward_34156607)
+11. [“动漫组合”亚运混双夺冠，中国队包揽金银牌](https://www.thepaper.cn/newsDetail_forward_34156607)
+12. [直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽](https://www.thepaper.cn/newsDetail_forward_34154261)
 13. [他是音乐顽童，一个千古难遇的人｜《甄嬛传》编曲孟可忆刘欢](https://www.thepaper.cn/newsDetail_forward_34155380)
 14. [刘欢在跨年舞台上完成最后一次公开演出，“祝大家2026平安健康”](https://www.thepaper.cn/newsDetail_forward_34155066)
-15. [刘欢逝世：回顾他横跨四十年的音乐传奇](https://www.thepaper.cn/newsDetail_forward_34154433)
-16. [七嘴八舌｜文化出海需要更多“周深式开口”](https://www.thepaper.cn/newsDetail_forward_34116351)
+15. [王楚钦：打到第四局，那个疼痛有一点受不了](https://www.thepaper.cn/newsDetail_forward_34156819)
+16. [刘欢逝世：回顾他横跨四十年的音乐传奇](https://www.thepaper.cn/newsDetail_forward_34154433)
 17. [张本智和爆冷不敌伊朗老将，日本队无缘亚运会乒乓球男单四强](https://www.thepaper.cn/newsDetail_forward_34156367)
-18. [王楚钦：打到第四局，那个疼痛有一点受不了](https://www.thepaper.cn/newsDetail_forward_34156819)
+18. [七嘴八舌｜文化出海需要更多“周深式开口”](https://www.thepaper.cn/newsDetail_forward_34116351)
 19. [特朗普：这次访问富有成效](https://www.thepaper.cn/newsDetail_forward_34151570)
-20. [秋晚《时光回信》牛犇陈丽君刘昊然等共诉家国情怀](https://www.thepaper.cn/newsDetail_forward_34150964)
+20. [新闻1+1丨一对大熊猫即将赴美，意味着什么？](https://www.thepaper.cn/newsDetail_forward_34151752)
