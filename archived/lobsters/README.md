@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-26 18:20:42
+> 更新时间：2026-09-26 19:19:06
 
 ## Hottest
 
@@ -9,10 +9,10 @@
 3. [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
 4. [Lobsters: Rename vibecoding to llms (Greasemonkey script)](https://greasyfork.org/en/scripts?by=1646191)
 5. [NetBSD Playing with disklabels](https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html)
-6. [Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)](https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/)
+6. [This Month in Redox - August 2026](https://www.redox-os.org/news/this-month-260831/)
 7. [We’re gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
-8. [This Month in Redox - August 2026](https://www.redox-os.org/news/this-month-260831/)
-9. [Keep if clauses side-effect free](https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html)
+8. [Keep if clauses side-effect free](https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html)
+9. [Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)](https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/)
 10. [Who Is Open Source About?](https://blog.glyph.im/2026/09/who-is-open-source-about.html)
 11. [Amiga screens: a primer](https://www.datagubbe.se/amscr/)
 12. [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
