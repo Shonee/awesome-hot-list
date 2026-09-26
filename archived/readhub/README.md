@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-26 16:27:29
+> 更新时间：2026-09-26 17:21:28
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [Meta 不再谈元宇宙，关键词改为「个人超级智能」](https://readhub.cn/topic/8wg4rQDvfBV?tab=daily)
 10. [LG 电子印度公司收到海关拟追缴约 15.4 亿卢比关税通知](https://readhub.cn/topic/8whzTMV6wnn?tab=daily)
 11. [半夏投资李蓓：AI 资本开支或在明年年中见顶，地产机会升级至二十年一遇](https://readhub.cn/topic/8wgW5zaUXAJ?tab=daily)
-12. [Yuga Labs 高管提醒用户尽快撤销相关合约授权](https://readhub.cn/topic/8wi0CEXwOGM?tab=daily)
+12. [OpenAI 称 AI 智能体引发多起异常事件 调查或持续数月](https://readhub.cn/topic/8wiuIX5p4IQ?tab=daily)
 13. [快手推出电商图像编辑基座模型 KwaiMind 多项评测居开源第一](https://readhub.cn/topic/8wi4UvCifjO?tab=daily)
-14. [OpenAI 称 AI 智能体引发多起异常事件 调查或持续数月](https://readhub.cn/topic/8wiuIX5p4IQ?tab=daily)
-15. [美初创建 AI 科研设施 测试发现 AI 模型缺实验室实操能力](https://readhub.cn/topic/8wiKv7n8XZi?tab=daily)
-16. [中科曙光五年前布局超智融合 造出全国产十万卡 AI 超集群曙光 8000](https://readhub.cn/topic/8wjXEGbk0Qz?tab=daily)
-17. [蔚来官方宣布丝绸之路换电路线正式贯通](https://readhub.cn/topic/8whkTVdkqBi?tab=daily)
-18. [高速光互联与计算技术北京市重点实验室落地北京经开区](https://readhub.cn/topic/8wjCsANjM4C?tab=daily)
-19. [IROS 2026 最佳移动操作论文候选：ULTRA 让人形机器人按目标行动](https://readhub.cn/topic/8wiZCxBzqjK?tab=daily)
-20. [AI 云计算公司 Nscale 在 IPO 前通过可转换票据融资 33.6 亿美元](https://readhub.cn/topic/8wiNnzwm51b?tab=daily)
-21. [千禧管理公司新一轮募资吸引客户 300 亿美元需求](https://readhub.cn/topic/8wiIlXcdeZs?tab=daily)
+14. [美初创建 AI 科研设施 测试发现 AI 模型缺实验室实操能力](https://readhub.cn/topic/8wiKv7n8XZi?tab=daily)
+15. [中科曙光五年前布局超智融合 造出全国产十万卡 AI 超集群曙光 8000](https://readhub.cn/topic/8wjXEGbk0Qz?tab=daily)
+16. [蔚来官方宣布丝绸之路换电路线正式贯通](https://readhub.cn/topic/8whkTVdkqBi?tab=daily)
+17. [高速光互联与计算技术北京市重点实验室落地北京经开区](https://readhub.cn/topic/8wjCsANjM4C?tab=daily)
+18. [IROS 2026 最佳移动操作论文候选：ULTRA 让人形机器人按目标行动](https://readhub.cn/topic/8wiZCxBzqjK?tab=daily)
+19. [AI 云计算公司 Nscale 在 IPO 前通过可转换票据融资 33.6 亿美元](https://readhub.cn/topic/8wiNnzwm51b?tab=daily)
+20. [千禧管理公司新一轮募资吸引客户 300 亿美元需求](https://readhub.cn/topic/8wiIlXcdeZs?tab=daily)
+21. [AI 创企 DensityAI 正进入融资谈判后期 投后估值接近 100 亿美元](https://readhub.cn/topic/8whgBCdvWfL?tab=daily)
 22. [Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元](https://readhub.cn/topic/8witvNlhrQ0?tab=daily)
-23. [AI 创企 DensityAI 正进入融资谈判后期 投后估值接近 100 亿美元](https://readhub.cn/topic/8whgBCdvWfL?tab=daily)
+23. [微软对 Copilot 进行全面升级 新增代码生成和代理式 AI 工具](https://readhub.cn/topic/8wiKDOylwv5?tab=daily)
 24. [阿克迈美股盘前涨超 21% 此前签署 116 亿美元云计算协议](https://readhub.cn/topic/8wi3lHKCDGr?tab=daily)
 25. [iQOO Pad Ultra 官宣屏幕参数，将于 9 月 29 日发布](https://readhub.cn/topic/8whnL6Z2Ib0?tab=daily)
 26. [中国天眼落成十周年 全域检修完成重启观测 二期阵列建设提速](https://readhub.cn/topic/8whom9vDJPY?tab=daily)
 27. [秘鲁矿业部长预计今年秘鲁铜产量为 250 万-270 万吨](https://readhub.cn/topic/8wiXm95cHJm?tab=daily)
-28. [微软对 Copilot 进行全面升级 新增代码生成和代理式 AI 工具](https://readhub.cn/topic/8wiKDOylwv5?tab=daily)
-29. [铁路部门调整火车票预约购票试点可预约日期范围](https://readhub.cn/topic/8wjIwiNKT3m?tab=daily)
-30. [Anthropic 推 Claude Code 云端会话 老用户最高赠 250 美元额度](https://readhub.cn/topic/8wiMLI3Qj5y?tab=daily)
+28. [铁路部门调整火车票预约购票试点可预约日期范围](https://readhub.cn/topic/8wjIwiNKT3m?tab=daily)
+29. [Anthropic 推 Claude Code 云端会话 老用户最高赠 250 美元额度](https://readhub.cn/topic/8wiMLI3Qj5y?tab=daily)
+30. [英伟达获批 AI 工具专利 有望缩短游戏优化周期提升体验稳定性](https://readhub.cn/topic/8wjWW7Jr8ZP?tab=daily)
 
 ## 每日早报
 
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [Claude 独立攻克理论物理前沿难题，全程无人指导，花费不到两千美元](https://www.mittrchina.com/news/detail/17015)
-2. [美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力](https://www.ithome.com/1/007/356.htm)
-3. [Claude Code 新机制：AI 任务中途触发 5 小时上限将优雅收尾](https://www.ithome.com/1/007/369.htm)
-4. [DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag](https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3)
-5. [全球首款无线 eGPU WiCi One 今年发货：内置 RTX 5060 Ti，体验价 14300 元](https://news.mydrivers.com/1/1154/1154030.htm)
-6. [5% 的美债还杀不死 AI：真正的 AI Capex「斩杀线」在哪里？](https://wallstreetcn.com/member/articles/3782459)
-7. [AI 基础设施撞上「墙」Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键](https://wallstreetcn.com/articles/3782579)
-8. [微星推出 MS-C9ZA 无风扇边缘 AI 盒子，基于 Jetson Orin Nano 8GB](https://www.ithome.com/1/007/344.htm)
-9. [英伟达获批 AI 工具专利：缩短游戏优化周期，让游戏体验更稳定](https://usstock.jrj.com.cn/2026/09/26133458553866.shtml)
-10. [滴滴与杭州余杭达成战略合作，探索落地自动驾驶产业应用](https://news.10jqka.com.cn/20260926/c680285878.shtml)
+2. [阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ)
+3. [美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力](https://www.ithome.com/1/007/356.htm)
+4. [华硕：英伟达 RTX Spark 款 ProArt 创 16 创作本 10 月 8 日登场](https://www.ithome.com/1/007/393.htm)
+5. [Bumble 官宣放弃「左滑右滑」，转向 AI 红娘，并探索出售等战略选项](https://www.huxiu.com/article/4894042.html?f=rss)
+6. [x86 都做不到的优势：苹果 Mac 电脑 2TB 内存可跑 1.6 万亿参数 AI](https://news.mydrivers.com/1/1154/1154046.htm)
+7. [Claude Code 新机制：AI 任务中途触发 5 小时上限将优雅收尾](https://www.ithome.com/1/007/369.htm)
+8. [DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag](https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3)
+9. [全球首款无线 eGPU WiCi One 今年发货：内置 RTX 5060 Ti，体验价 14300 元](https://news.mydrivers.com/1/1154/1154030.htm)
+10. [5% 的美债还杀不死 AI：真正的 AI Capex「斩杀线」在哪里？](https://wallstreetcn.com/member/articles/3782459)
