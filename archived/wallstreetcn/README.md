@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 19:21:54
+> 更新时间：2026-09-26 19:34:20
 
 ## 7x24
 
@@ -15,4 +15,3 @@
 9. [普京说没理由与欧洲发生军事冲突](https://wallstreetcn.com/livenews/3170972)
 10. [伊朗外长：美以袭击致5000余人丧生](https://wallstreetcn.com/livenews/3170971)
 11. [巴斯夫确认就潜在收购赢创开展探索性谈判](https://wallstreetcn.com/livenews/3170970)
-12. [沙特主导的联军称拦截也门胡塞武装导弹和无人机](https://wallstreetcn.com/livenews/3170969)
