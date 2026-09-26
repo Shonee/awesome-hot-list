@@ -1,51 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-26 15:22:51
-
-## 新闻热榜
-
-1. [歌手刘欢病逝，享年63岁，对外经贸大学发布讣告](https://news.sina.com.cn/c/2026-09-26/doc-initckaz3583171.shtml)
-2. [中秋当天，菲律宾又搞事，果然失败了](https://news.sina.com.cn/c/2026-09-26/doc-initccvk8824535.shtml)
-3. [视频丨习近平和彭丽媛同美国总统特朗普夫妇茶叙](https://news.sina.com.cn/c/xl/2026-09-26/doc-initanxs9147328.shtml)
-4. [视频丨习近平圆满结束对美国的国事访问](https://news.sina.com.cn/c/xl/2026-09-26/doc-initanxp7441490.shtml)
-5. [白宫欢迎国宴，哪些企业家坐主桌？](https://news.sina.com.cn/c/xl/2026-09-25/doc-iniszrtz4468424.shtml)
-6. [给外国人“亿点点”中国震撼！美媒记者被当场“硬控” 绕周参观红旗汽车](https://news.sina.com.cn/w/2026-09-25/doc-initaait7587306.shtml)
-7. [内塔尼亚胡联大演讲，台下再次空空荡荡](https://news.sina.com.cn/w/2026-09-25/doc-iniszrtv4342763.shtml)
-8. [中美元首华盛顿会晤，为何“规格罕见”？](https://news.sina.com.cn/c/xl/2026-09-25/doc-initaair4179195.shtml)
-9. [国安部披露：一大陆学生赴台湾交流时，与“学姐”坠入爱河，返回大陆后对方以情侣“查岗”为名让其拍实验室照片等，对方实为台间谍](https://news.sina.com.cn/c/2026-09-26/doc-initccvf7193835.shtml)
-10. [新一轮购车补贴来了，多地放大招！买车前这笔账要算清](https://news.sina.com.cn/c/2026-09-25/doc-iniszrtx7711337.shtml)
-11. [叠加“请3休13”抢跑游客，中秋首日机场“堪比过年”](https://news.sina.com.cn/s/2026-09-25/doc-iniszrua9498629.shtml)
-12. [普京：俄方乐见中美元首会晤，两国如何以及达成何种协议，将对全球经济产生影响，也将对我们的经济产生影响](https://news.sina.com.cn/w/2026-09-26/doc-initccvf7246095.shtml)
-13. [[新浪彩票]足彩第26133期任九：德国主胜可期](https://sports.sina.com.cn/l/2026-09-26/doc-initccvc3663207.shtml)
-14. [习言道｜中美关系又站在新的历史起点上](https://news.sina.com.cn/c/xl/2026-09-26/doc-initanxr4242752.shtml)
-15. [马尔代夫总统最新涉华表态](https://mil.news.sina.com.cn/2026-09-26/doc-initccvi4007266.shtml)
-16. [习近平向全球发展倡议5周年高级别对话会致贺信](https://news.sina.com.cn/c/xl/2026-09-26/doc-initaxpi7298390.shtml)
-17. [刘欢病逝，丧事从简不举行遗体告别仪式和追悼会，曾因股骨头坏死治疗，去年现身乌镇戏剧节](https://news.sina.com.cn/c/2026-09-26/doc-initckcf3946935.shtml)
-18. [刘欢逝世，享年63岁](https://news.sina.com.cn/c/2026-09-26/doc-initckcc7148461.shtml)
-19. [特朗普演讲中秀中文 特别提及一个中文词语“工合”](https://news.sina.com.cn/w/2026-09-25/doc-iniszvzt4283117.shtml)
-20. [特朗普会中文的外孙女，现身白宫欢迎宴会，18个月大就开始学中文，4岁用中文唱歌，还会背《三字经》](https://news.sina.com.cn/w/2026-09-25/doc-iniszrua9524743.shtml)
-
-## 财经热榜
-
-1. [特朗普拒绝伊朗“七天停火提议” 预计中期选举后重启轰炸行动](https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3989604.shtml)
-2. [知名音乐人刘欢逝世，享年63岁](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initckcc7154664.shtml)
-3. [著名音乐家刘欢病逝，享年63岁](https://finance.sina.com.cn/roll/2026-09-26/doc-initckcf3931840.shtml)
-4. [罕见，上市第6日跌停，原因揭秘！潜力低估值次新股出炉，仅10只](https://finance.sina.com.cn/stock/zqgd/2026-09-26/doc-initccvf7197279.shtml)
-5. [AI失控了？OpenAI确认干预3家美国政府网站](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvk8821562.shtml)
-6. [伯克希尔3天斥资2.12亿美元抄底这只暴跌个股，本季度持仓已大增81%](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initahrp4094961.shtml)
-7. [9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高](https://finance.sina.com.cn/world/2026-09-26/doc-initatfp4160592.shtml)
-8. [曾经最忠诚的女秘书，调转枪口对准连斯基，骂他带领国家自杀](https://finance.sina.com.cn/roll/2026-09-26/doc-initanxr4206240.shtml)
-9. [加息冲击波何时来？美银警告：两大因素或引发美股恐慌抛售](https://finance.sina.com.cn/roll/2026-09-26/doc-initccvf7186981.shtml)
-10. [摩根大通：数据安全中心已上线摩根大通手机银行，用于管理关联应用。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7446651.shtml)
-11. [美联储哈玛克：美联储会留意金融状况，但货币政策的决定权在美联储。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7350076.shtml)
-12. [据相关陪审团裁定：Meta Platforms(META.O)在剑桥分析（Cambridge Analytica）丑闻相关诉讼中误导了新墨西哥州消费者。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4222168.shtml)
-13. [美国总统特朗普最早可能会在周五宣布柴油相关政策。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4128460.shtml)
-14. [9月26日隔夜要闻：美股三大指数收涨 原油下跌 金价微升 美官员称美伊正就重新开放霍尔木兹海峡进行讨论](https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4073998.shtml)
-15. [网新恒天推出AI债券智能交易助手](https://finance.sina.com.cn/7x24/2026-09-26/doc-initckcc7146381.shtml)
-16. [俄军在黑海击中一艘为乌军运送物资的干货船](https://finance.sina.com.cn/7x24/2026-09-26/doc-initcqkz7150493.shtml)
-17. [上海刚刚发布中心城区雷电黄色预警](https://finance.sina.com.cn/7x24/2026-09-26/doc-initccvi3958230.shtml)
-18. [全球原油运输指数年内涨幅超过100%](https://finance.sina.com.cn/7x24/2026-09-26/doc-initccvi3967608.shtml)
-19. [能源价格大幅攀升 欧洲供暖季面临考验](https://finance.sina.com.cn/7x24/2026-09-26/doc-initckcf3909351.shtml)
+> 更新时间：2026-09-26 15:25:31
 
 ## 7x24
 
