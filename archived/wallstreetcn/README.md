@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 22:48:10
+> 更新时间：2026-09-26 23:08:59
 
 ## 7x24
 
@@ -20,5 +20,3 @@
 8. [美媒称以总理曾获袭击警告但为促以沙建交未打击哈马斯](https://wallstreetcn.com/livenews/3170992)
 9. [伊朗：与土耳其、巴基斯坦的航班仍然处于运营状态。（伊朗媒体IRIB）](https://wallstreetcn.com/livenews/3170987)
 10. [美国总统特朗普重申，伊朗不可以拥有核武器。](https://wallstreetcn.com/livenews/3170986)
-11. [阿塞拜疆签署总价值超过100亿美元的投资协议](https://wallstreetcn.com/livenews/3170995)
-12. [山西省省长：要加速扭转煤炭产量下滑趋势](https://wallstreetcn.com/livenews/3170983)
