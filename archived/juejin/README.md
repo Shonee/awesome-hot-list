@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-26 21:18:42
+> 更新时间：2026-09-26 22:20:19
 
 ## 热门文章
 
@@ -15,8 +15,8 @@
 9. [Antigravity + Blender MCP（下）：3D 智慧仓储数字孪生进阶实战](https://juejin.cn/post/7688329495955243058)
 10. [📱iPhone Duo 开屏动画咋实现的？](https://juejin.cn/post/7688737629098999843)
 11. [VibeCoding 一套 Admin 系统，五种技术栈实现](https://juejin.cn/post/7688739949714997288)
-12. [Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级](https://juejin.cn/post/7688528701483827241)
-13. [安卓代码加固（1）：加密DEX](https://juejin.cn/post/7688669403517681674)
+12. [安卓代码加固（1）：加密DEX](https://juejin.cn/post/7688669403517681674)
+13. [Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级](https://juejin.cn/post/7688528701483827241)
 14. [多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案](https://juejin.cn/post/7688585710283014184)
 15. [我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议](https://juejin.cn/post/7689029662157668390)
 16. [Flutter 获取 iPhone Duo 预留区位置](https://juejin.cn/post/7688917667420717091)
@@ -32,19 +32,19 @@
 26. [Android HWC退化与防治方法](https://juejin.cn/post/7688689006075756580)
 27. [别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？](https://juejin.cn/post/7688611918492614698)
 28. [X6 框选拖拽性能内幕：从 issue 4823 到开源内核（系列 3 篇）之三](https://juejin.cn/post/7688579804614082610)
-29. [Wails v2 实战：用 Go + Vue3 做一个真正能用的 AI 桌面应用](https://juejin.cn/post/7688538708639662114)
-30. [双端同步！云服务器装最新Node.js v26.10全过程追踪](https://juejin.cn/post/7688538666185326611)
-31. [GetX 在 Flutter 中的使用：两种视图管理方式解析](https://juejin.cn/post/7689029864910225458)
-32. [阶跃星辰这波起飞了。](https://juejin.cn/post/7688990935070703666)
-33. [一张平面图把学校做成2D游戏](https://juejin.cn/post/7688968064205586474)
-34. [Flutter版本选择指南：9月大限落地，3.47一个月连发四补丁 | 2026年9月](https://juejin.cn/post/7688917667420848163)
-35. [货拉拉 DataAgent 实践：策略复盘的智能化探索](https://juejin.cn/post/7688739949715603496)
-36. [Remix 3 RC 发布：一个不再依赖 React 的全栈框架，正在重新定义“元框架”的边界](https://juejin.cn/post/7688683848524693513)
-37. [共享黑板模式（Blackboard）实战：多 Agent 如何并发协作而不冲突？](https://juejin.cn/post/7688603830762782735)
-38. [X6 框选拖拽性能内幕：从 issue 4823 到开源内核（系列 3 篇）之一](https://juejin.cn/post/7688571406654062638)
+29. [X6 框选拖拽性能内幕：从 issue 4823 到开源内核（系列 3 篇）之一](https://juejin.cn/post/7688571406654062638)
+30. [Wails v2 实战：用 Go + Vue3 做一个真正能用的 AI 桌面应用](https://juejin.cn/post/7688538708639662114)
+31. [双端同步！云服务器装最新Node.js v26.10全过程追踪](https://juejin.cn/post/7688538666185326611)
+32. [耗时两周从零搭建私有化企业 RAG 知识库，完整架构与踩坑总结](https://juejin.cn/post/7689030315844419630)
+33. [DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程](https://juejin.cn/post/7689061402817265710)
+34. [GetX 在 Flutter 中的使用：两种视图管理方式解析](https://juejin.cn/post/7689029864910225458)
+35. [阶跃星辰这波起飞了。](https://juejin.cn/post/7688990935070703666)
+36. [一张平面图把学校做成2D游戏](https://juejin.cn/post/7688968064205586474)
+37. [Flutter版本选择指南：9月大限落地，3.47一个月连发四补丁 | 2026年9月](https://juejin.cn/post/7688917667420848163)
+38. [货拉拉 DataAgent 实践：策略复盘的智能化探索](https://juejin.cn/post/7688739949715603496)
 39. [一个门店预约小程序，真正难的不是页面，是这 4 个后端接口](https://juejin.cn/post/7688694348460539930)
-40. [DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程](https://juejin.cn/post/7689061402817265710)
-41. [耗时两周从零搭建私有化企业 RAG 知识库，完整架构与踩坑总结](https://juejin.cn/post/7689030315844419630)
+40. [Remix 3 RC 发布：一个不再依赖 React 的全栈框架，正在重新定义“元框架”的边界](https://juejin.cn/post/7688683848524693513)
+41. [共享黑板模式（Blackboard）实战：多 Agent 如何并发协作而不冲突？](https://juejin.cn/post/7688603830762782735)
 42. [官方说一个破折号拖慢整段高亮，我在 Node 里验证了一遍：机制是真的，2.8 倍没跑出来](https://juejin.cn/post/7688978039406346259)
 43. [记一次用 AI 重构三年前老 Spring Boot 服务的真实经历：爽是真爽，账单也是真疼](https://juejin.cn/post/7688885975997464612)
 44. [FastapiAdmin插件介绍](https://juejin.cn/post/7688805244534194191)

@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-26 21:19:32
+> 更新时间：2026-09-26 22:22:59
 
 ## 热点资讯排行
 
@@ -10,9 +10,9 @@
 4. [女流66谈自己Steam号被盗 千款游戏不玩只《绝地求生》开挂](https://www.gamersky.com/news/202609/2212703.shtml)
 5. [《街霸》春丽演员回应粗大腿](https://www.gamersky.com/news/202609/2214419.shtml)
 6. [《生化危机：爆发夜》枪版资源大规模泄露！9000人同时观看](https://www.gamersky.com/news/202609/2212670.shtml)
-7. [《GTA:东京》细节披露:重点武士刀 效仿《恶霸鲁尼》](https://www.gamersky.com/news/202609/2212489.shtml)
-8. [百万奖金](https://www.gamersky.com/news/202609/2212881.shtml)
-9. [明星赛何润东成全场唯一手柄玩家 一旁陈赫都看呆了](https://www.gamersky.com/news/202609/2217378.shtml)
+7. [明星赛何润东成全场唯一手柄玩家 一旁陈赫都看呆了](https://www.gamersky.com/news/202609/2217378.shtml)
+8. [《GTA:东京》细节披露:重点武士刀 效仿《恶霸鲁尼》](https://www.gamersky.com/news/202609/2212489.shtml)
+9. [百万奖金](https://www.gamersky.com/news/202609/2212881.shtml)
 10. [姿态直播意外露出银行卡余额:千万现金流 真京城贵妇](https://www.gamersky.com/news/202609/2215346.shtml)
 11. [国产大尺度游戏下架 关闭下载入口！此前曾和谐角色立绘](https://www.gamersky.com/news/202609/2215229.shtml)
 12. [西贝贾国龙称罗永浩下跪才和解！恩怨难消再上热搜](https://www.gamersky.com/news/202609/2213715.shtml)
