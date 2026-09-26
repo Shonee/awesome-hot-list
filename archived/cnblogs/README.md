@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-26 14:33:47
+> 更新时间：2026-09-26 15:22:26
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
+1. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
 2. [从纸带打孔到AI自动编程：三十年亲历，见证编程范式的效率革命](https://www.cnblogs.com/yefanqiu/p/23111915)
-3. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
-4. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
-5. [git开发规范~深度阅读](https://www.cnblogs.com/lori/p/23113447)
-6. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
+3. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
+4. [git开发规范~深度阅读](https://www.cnblogs.com/lori/p/23113447)
+5. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
+6. [基于DeepSeek API构建一个AI树木识别网站](https://www.cnblogs.com/zgzf/p/23113985/tree-identification)

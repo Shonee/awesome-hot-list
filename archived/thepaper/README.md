@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-26 14:34:07
+> 更新时间：2026-09-26 15:22:43
 
 ## 热新闻
 
@@ -13,11 +13,11 @@
 7. [县级医院招博士研究生是不是浪费？浙江永嘉回应：有现实必要性](https://www.thepaper.cn/newsDetail_forward_34149922)
 8. [广东明确：电动自行车违规停放充电起火，可能被拘留](https://www.thepaper.cn/newsDetail_forward_34149093)
 9. [言短意长｜被网暴的符文迪、韩雅平，把“恶意”甩在了身后](https://www.thepaper.cn/newsDetail_forward_34150971)
-10. [球迷“输球思振东”，媒体：不能用“年轻”二字把所有问题轻轻带过](https://www.thepaper.cn/newsDetail_forward_34149789)
-11. [中国女篮半决赛不敌韩国，本届亚运会中国篮球各项均无缘决赛](https://www.thepaper.cn/newsDetail_forward_34149676)
-12. [以色列要做什么？内塔尼亚胡演讲多国代表离席，以色列专人巡视记录](https://www.thepaper.cn/newsDetail_forward_34150400)
-13. [直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽](https://www.thepaper.cn/newsDetail_forward_34154261)
-14. [纪念｜刘欢走了，“我和你”都会记得](https://www.thepaper.cn/newsDetail_forward_34154729)
+10. [纪念｜刘欢走了，“我和你”都会记得](https://www.thepaper.cn/newsDetail_forward_34154729)
+11. [球迷“输球思振东”，媒体：不能用“年轻”二字把所有问题轻轻带过](https://www.thepaper.cn/newsDetail_forward_34149789)
+12. [中国女篮半决赛不敌韩国，本届亚运会中国篮球各项均无缘决赛](https://www.thepaper.cn/newsDetail_forward_34149676)
+13. [以色列要做什么？内塔尼亚胡演讲多国代表离席，以色列专人巡视记录](https://www.thepaper.cn/newsDetail_forward_34150400)
+14. [直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽](https://www.thepaper.cn/newsDetail_forward_34154261)
 15. [以色列在联大拿出星链挑衅，遭伊朗代表团人员无视](https://www.thepaper.cn/newsDetail_forward_34149928)
 16. [七嘴八舌｜文化出海需要更多“周深式开口”](https://www.thepaper.cn/newsDetail_forward_34116351)
 17. [宫鲁鸣回应三分球颗粒无收：时间长了什么情况都可能遇到](https://www.thepaper.cn/newsDetail_forward_34149921)

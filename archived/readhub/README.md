@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-26 14:34:06
+> 更新时间：2026-09-26 15:22:41
 
 ## 24 小时热榜
 
@@ -24,16 +24,16 @@
 18. [IROS 2026 最佳移动操作论文候选：ULTRA 让人形机器人按目标行动](https://readhub.cn/topic/8wiZCxBzqjK?tab=daily)
 19. [AI 云计算公司 Nscale 在 IPO 前通过可转换票据融资 33.6 亿美元](https://readhub.cn/topic/8wiNnzwm51b?tab=daily)
 20. [千禧管理公司新一轮募资吸引客户 300 亿美元需求](https://readhub.cn/topic/8wiIlXcdeZs?tab=daily)
-21. [Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元](https://readhub.cn/topic/8witvNlhrQ0?tab=daily)
-22. [蔚来官方宣布丝绸之路换电路线正式贯通](https://readhub.cn/topic/8whkTVdkqBi?tab=daily)
-23. [高速光互联与计算技术北京市重点实验室落地北京经开区](https://readhub.cn/topic/8wjCsANjM4C?tab=daily)
-24. [AI 创企 DensityAI 正进入融资谈判后期 投后估值接近 100 亿美元](https://readhub.cn/topic/8whgBCdvWfL?tab=daily)
-25. [阿克迈美股盘前涨超 21% 此前签署 116 亿美元云计算协议](https://readhub.cn/topic/8wi3lHKCDGr?tab=daily)
-26. [秘鲁矿业部长预计今年秘鲁铜产量为 250 万-270 万吨](https://readhub.cn/topic/8wiXm95cHJm?tab=daily)
-27. [微软对 Copilot 进行全面升级 新增代码生成和代理式 AI 工具](https://readhub.cn/topic/8wiKDOylwv5?tab=daily)
-28. [铁路部门调整火车票预约购票试点可预约日期范围](https://readhub.cn/topic/8wjIwiNKT3m?tab=daily)
-29. [中国天眼落成十周年 全域检修完成重启观测 二期阵列建设提速](https://readhub.cn/topic/8whom9vDJPY?tab=daily)
-30. [中科曙光五年前布局超智融合 造出全国产十万卡 AI 超集群曙光 8000](https://readhub.cn/topic/8wjXEGbk0Qz?tab=daily)
+21. [蔚来官方宣布丝绸之路换电路线正式贯通](https://readhub.cn/topic/8whkTVdkqBi?tab=daily)
+22. [Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元](https://readhub.cn/topic/8witvNlhrQ0?tab=daily)
+23. [中科曙光五年前布局超智融合 造出全国产十万卡 AI 超集群曙光 8000](https://readhub.cn/topic/8wjXEGbk0Qz?tab=daily)
+24. [高速光互联与计算技术北京市重点实验室落地北京经开区](https://readhub.cn/topic/8wjCsANjM4C?tab=daily)
+25. [AI 创企 DensityAI 正进入融资谈判后期 投后估值接近 100 亿美元](https://readhub.cn/topic/8whgBCdvWfL?tab=daily)
+26. [阿克迈美股盘前涨超 21% 此前签署 116 亿美元云计算协议](https://readhub.cn/topic/8wi3lHKCDGr?tab=daily)
+27. [秘鲁矿业部长预计今年秘鲁铜产量为 250 万-270 万吨](https://readhub.cn/topic/8wiXm95cHJm?tab=daily)
+28. [微软对 Copilot 进行全面升级 新增代码生成和代理式 AI 工具](https://readhub.cn/topic/8wiKDOylwv5?tab=daily)
+29. [铁路部门调整火车票预约购票试点可预约日期范围](https://readhub.cn/topic/8wjIwiNKT3m?tab=daily)
+30. [中国天眼落成十周年 全域检修完成重启观测 二期阵列建设提速](https://readhub.cn/topic/8whom9vDJPY?tab=daily)
 
 ## 每日早报
 
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [Claude 独立攻克理论物理前沿难题，全程无人指导，花费不到两千美元](https://www.mittrchina.com/news/detail/17015)
-2. [DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag](https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3)
-3. [AI 基础设施撞上「墙」Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键](https://wallstreetcn.com/articles/3782579)
-4. [微星推出 MS-C9ZA 无风扇边缘 AI 盒子，基于 Jetson Orin Nano 8GB](https://www.ithome.com/1/007/344.htm)
-5. [英伟达获批 AI 工具专利：缩短游戏优化周期，让游戏体验更稳定](https://usstock.jrj.com.cn/2026/09/26133458553866.shtml)
-6. [滴滴与杭州余杭达成战略合作，探索落地自动驾驶产业应用](https://news.10jqka.com.cn/20260926/c680285878.shtml)
-7. [AI 代写论文露馅？顶刊主编一问，作者啥都答不上来](https://www.36kr.com/p/3999670422458247)
-8. [美国初创给 AI 造了座实验室，发现模型缺的是实验室手感](https://www.mittrchina.com/news/detail/17014)
-9. [微软把 Office 三件套塞进 Copilot，AI 助手从「插件」变「入口」，股价上涨 3.7%](https://wallstreetcn.com/articles/3782567)
-10. [随着推理需求激增，Fireworks 与 Fal 考虑开启新一轮融资](https://www.36kr.com/newsflashes/3999707884802184)
+2. [美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力](https://www.ithome.com/1/007/356.htm)
+3. [DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag](https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3)
+4. [全球首款无线 eGPU WiCi One 今年发货：内置 RTX 5060 Ti，体验价 14300 元](https://news.mydrivers.com/1/1154/1154030.htm)
+5. [AI 基础设施撞上「墙」Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键](https://wallstreetcn.com/articles/3782579)
+6. [微星推出 MS-C9ZA 无风扇边缘 AI 盒子，基于 Jetson Orin Nano 8GB](https://www.ithome.com/1/007/344.htm)
+7. [英伟达获批 AI 工具专利：缩短游戏优化周期，让游戏体验更稳定](https://usstock.jrj.com.cn/2026/09/26133458553866.shtml)
+8. [滴滴与杭州余杭达成战略合作，探索落地自动驾驶产业应用](https://news.10jqka.com.cn/20260926/c680285878.shtml)
+9. [AI 代写论文露馅？顶刊主编一问，作者啥都答不上来](https://www.36kr.com/p/3999670422458247)
+10. [美国初创给 AI 造了座实验室，发现模型缺的是实验室手感](https://www.mittrchina.com/news/detail/17014)
