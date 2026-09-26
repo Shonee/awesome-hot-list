@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-27 00:22:41
-
-## 新闻热榜
-
-1. [歌手刘欢病逝，享年63岁，对外经贸大学发布讣告](https://news.sina.com.cn/c/2026-09-26/doc-initckaz3583171.shtml)
-2. [中秋当天，菲律宾又搞事，果然失败了](https://news.sina.com.cn/c/2026-09-26/doc-initccvk8824535.shtml)
-3. [中美达成八点成果共识](https://news.sina.com.cn/c/2026-09-26/doc-initcusx7090529.shtml)
-4. [[新浪彩票]足彩第26133期任九：德国主胜可期](https://sports.sina.com.cn/l/2026-09-26/doc-initccvc3663207.shtml)
-5. [视频丨习近平和彭丽媛同美国总统特朗普夫妇茶叙](https://news.sina.com.cn/c/xl/2026-09-26/doc-initanxs9147328.shtml)
-6. [中国足球彩票胜负彩26133期澳盘最新赔率(17:00)](https://sports.sina.com.cn/l/2026-09-26/doc-initckcf3937734.shtml)
-7. [视频丨习近平圆满结束对美国的国事访问](https://news.sina.com.cn/c/xl/2026-09-26/doc-initanxp7441490.shtml)
-8. [日本亚组委道歉](https://news.sina.com.cn/w/2026-09-26/doc-initcuta8559927.shtml)
-9. [刘欢中秋节离世 女儿去年刚结婚](https://news.sina.com.cn/c/2026-09-26/doc-initckcf3956118.shtml)
-10. [胜负彩26133期欧洲四大机构最新数据(17:00)](https://sports.sina.com.cn/l/2026-09-26/doc-initckcc7165727.shtml)
-11. [普京：俄方乐见中美元首会晤，两国如何以及达成何种协议，将对全球经济产生影响，也将对我们的经济产生影响](https://news.sina.com.cn/w/2026-09-26/doc-initccvf7246095.shtml)
-12. [国安部披露：一大陆学生赴台湾交流时，与“学姐”坠入爱河，返回大陆后对方以情侣“查岗”为名让其拍实验室照片等，对方实为台间谍](https://news.sina.com.cn/c/2026-09-26/doc-initccvf7193835.shtml)
-13. [[新浪彩票]足彩第26133期大势：荷兰客战防平](https://sports.sina.com.cn/l/2026-09-26/doc-initccvi3963629.shtml)
-14. [刘欢妻子发布朋友圈：我永远的爱，永远的痛 姚贝娜父亲哽咽回应：他就是个天才 孙楠、韩红、蔡健雅、萧敬腾、孙茜等众歌手悼念刘欢](https://news.sina.com.cn/s/2026-09-26/doc-initcyyy8494528.shtml)
-15. [[新浪彩票]足彩26133期盈亏指数：丹麦谨慎防平](https://sports.sina.com.cn/l/2026-09-26/doc-initccvi3965118.shtml)
-16. [刘欢走了，自称“业余歌手”](https://news.sina.com.cn/s/2026-09-26/doc-initcute0520944.shtml)
-17. [刘欢去年现身岳麓山品茶 去年大肚腩消失瘦了一大圈](https://news.sina.com.cn/c/2026-09-26/doc-initckcc7183634.shtml)
-18. [送别刘欢｜中秋月圆，那个唱《弯弯的月亮》的人走了，林志炫吉克隽逸沉痛悼念](https://news.sina.com.cn/c/2026-09-26/doc-initckaz3603131.shtml)
-19. [习近平结束对美国的国事访问回到北京](https://news.sina.com.cn/c/xl/2026-09-26/doc-initcusx7082018.shtml)
-20. [苹果，被判赔383亿元](https://news.sina.com.cn/w/2026-09-26/doc-initckch8729663.shtml)
-
-## 财经热榜
-
-1. [习近平圆满结束对美国的国事访问（现场视频）](https://finance.sina.com.cn/world/2026-09-26/doc-initccvc3659614.shtml)
-2. [习近平和彭丽媛同特朗普夫妇茶叙，高清大图来了！](https://finance.sina.com.cn/world/2026-09-26/doc-initccvc3666442.shtml)
-3. [特朗普拒绝伊朗“七天停火提议” 预计中期选举后重启轰炸行动](https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3989604.shtml)
-4. [著名音乐家刘欢病逝，享年63岁](https://finance.sina.com.cn/roll/2026-09-26/doc-initckcf3931840.shtml)
-5. [罕见，上市第6日跌停，原因揭秘！潜力低估值次新股出炉，仅10只](https://finance.sina.com.cn/stock/zqgd/2026-09-26/doc-initccvf7197279.shtml)
-6. [国庆假期临近，持股还是持币过节？机构研判来了](https://finance.sina.com.cn/stock/marketresearch/2026-09-26/doc-initcqmc3869022.shtml)
-7. [对外经济贸易大学发布讣告：我国著名音乐家刘欢逝世](https://finance.sina.com.cn/roll/2026-09-26/doc-initckaz3589151.shtml)
-8. [普京：俄方乐见中美元首会晤！中美达成的任何具有积极意义的协议，我们都是欢迎的](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initckcc7133117.shtml)
-9. [中美达成八点成果共识](https://finance.sina.com.cn/roll/2026-09-26/doc-initcusz3862882.shtml)
-10. [知名音乐人刘欢逝世，享年63岁](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initckcc7154664.shtml)
-11. [AI失控了？OpenAI确认干预3家美国政府网站](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvk8821562.shtml)
-12. [加息冲击波何时来？美银警告：两大因素或引发美股恐慌抛售](https://finance.sina.com.cn/roll/2026-09-26/doc-initccvf7186981.shtml)
-13. [曾经最忠诚的女秘书，调转枪口对准连斯基，骂他带领国家自杀](https://finance.sina.com.cn/roll/2026-09-26/doc-initanxr4206240.shtml)
-14. [特朗普第一时间发帖总结会晤](https://finance.sina.com.cn/world/2026-09-26/doc-initcqme8647331.shtml)
-15. [中美元首白宫茶叙，六字共识举世瞩目](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initcyyx3768802.shtml)
-16. [伯克希尔3天斥资2.12亿美元抄底这只暴跌个股，本季度持仓已大增81%](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initahrp4094961.shtml)
-17. [9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高](https://finance.sina.com.cn/world/2026-09-26/doc-initatfp4160592.shtml)
-18. [美伊大消息！美方：特朗普拒绝伊朗7日内重开霍尔木兹提议，或在中期选举后恢复轰炸！特朗普：伊朗一直“乞求”美国达成协议](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initcqkx3490558.shtml)
-19. [摩根大通：数据安全中心已上线摩根大通手机银行，用于管理关联应用。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7446651.shtml)
-20. [苹果因侵犯触觉反馈专利 被判需支付57亿美元赔偿金](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvi3960554.shtml)
+> 更新时间：2026-09-27 00:26:25
 
 ## 7x24
 
