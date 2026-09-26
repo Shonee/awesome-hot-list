@@ -1,20 +1,20 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-26 08:55:48
+> 更新时间：2026-09-26 09:30:18
 
 ## Hottest
 
-1. [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
+1. [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
 2. [What About Rails?](https://jardo.dev/what-about-rails)
-3. [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
+3. [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
 4. [Lobsters: Rename vibecoding to llms (Greasemonkey script)](https://greasyfork.org/en/scripts?by=1646191)
 5. [Amiga screens: a primer](https://www.datagubbe.se/amscr/)
 6. [This Month in Redox - August 2026](https://www.redox-os.org/news/this-month-260831/)
 7. [Who Is Open Source About?](https://blog.glyph.im/2026/09/who-is-open-source-about.html)
 8. [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 9. [A Type Stronger than the Sum of its Components](https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/)
-10. [Every package is already installed](https://fzakaria.com/2026/09/24/every-package-is-already-installed)
-11. [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
+10. [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
+11. [Every package is already installed](https://fzakaria.com/2026/09/24/every-package-is-already-installed)
 12. [File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS](https://inoti.fyi/)
 13. [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 14. [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)

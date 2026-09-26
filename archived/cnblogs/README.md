@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-26 08:54:48
+> 更新时间：2026-09-26 09:29:43
 
 ## 最新帖子
 
-1. [【FHE】（十）：密文里的 attention——没有 max，softmax 怎么办](https://www.cnblogs.com/haliuhome/p/23125666)
-2. [面包板接线为什么这样接：从模块需求到芯片资源分配](https://www.cnblogs.com/zw-awa/p/23112397)
-3. [JAVA数据处理的常用技术](https://www.cnblogs.com/xiexj/p/23122919)
-4. [我用 ASP.NET Core 做了个水稻病虫害检查系统](https://www.cnblogs.com/shenchuanchao/p/23122839/aspnet-core-rice-pest-disease-inspection-system)
-5. [ChromaPanel vs 其他 React 颜色选择器对比：功能、包体积、可访问性等](https://www.cnblogs.com/wangju5170/p/23122583)
-6. [阿里云2026年AI Agent 开发者调研报告解读：企业 Agent 到底卡在哪](https://www.cnblogs.com/xiaobaiysf/p/23122354)
-7. [使用mitmweb查看windows上软件发出去 的网络请求](https://www.cnblogs.com/grey-wolf/p/23121156)
-8. [GitHub + Cloudflare + Picgo 搭建你的免费图床](https://www.cnblogs.com/dominickk/p/23120855)
-9. [go语言中内存地址(指针) 与new和make的区别](https://www.cnblogs.com/ishoulgodo/p/23120402)
-10. [在笔记本上自制39M小语言模型指南](https://www.cnblogs.com/duoia/p/23119785)
-11. [【FHE】我们如何实现同态加密推理（八）：SiLU 的密文化——两条路径，和一个 8 字节的开关](https://www.cnblogs.com/haliuhome/p/23118642)
-12. [SQLcl 中 c/old/new 替换变量为何失效？先定位再替换](https://www.cnblogs.com/jyzhao/p/23118624)
-13. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
-14. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
-15. [华三VXLAN集中式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23115756)
-16. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
-17. [大 O、大 Omega、大 Theta 的区别，O(n) 复杂度是什么意思](https://www.cnblogs.com/moonout/p/23083800)
-18. [Java标签跳转：一个鲜为人知但却很实用的小技巧](https://www.cnblogs.com/jilodream/p/23115325)
-19. [多智能体系统论文速读](https://www.cnblogs.com/mianmaner/p/23110425)
-20. [Claude Code 把自己改成了任务调度器，这次设计比功能更值得看](https://www.cnblogs.com/uniqueDong/p/23114174)
+1. [一文看懂 RAGFlow 四层存储：元数据、对象、检索、缓存如何协作](https://www.cnblogs.com/aifrontiers/p/23125877)
+2. [【FHE】（十）：密文里的 attention——没有 max，softmax 怎么办](https://www.cnblogs.com/haliuhome/p/23125666)
+3. [面包板接线为什么这样接：从模块需求到芯片资源分配](https://www.cnblogs.com/zw-awa/p/23112397)
+4. [JAVA数据处理的常用技术](https://www.cnblogs.com/xiexj/p/23122919)
+5. [我用 ASP.NET Core 做了个水稻病虫害检查系统](https://www.cnblogs.com/shenchuanchao/p/23122839/aspnet-core-rice-pest-disease-inspection-system)
+6. [ChromaPanel vs 其他 React 颜色选择器对比：功能、包体积、可访问性等](https://www.cnblogs.com/wangju5170/p/23122583)
+7. [阿里云2026年AI Agent 开发者调研报告解读：企业 Agent 到底卡在哪](https://www.cnblogs.com/xiaobaiysf/p/23122354)
+8. [使用mitmweb查看windows上软件发出去 的网络请求](https://www.cnblogs.com/grey-wolf/p/23121156)
+9. [GitHub + Cloudflare + Picgo 搭建你的免费图床](https://www.cnblogs.com/dominickk/p/23120855)
+10. [go语言中内存地址(指针) 与new和make的区别](https://www.cnblogs.com/ishoulgodo/p/23120402)
+11. [在笔记本上自制39M小语言模型指南](https://www.cnblogs.com/duoia/p/23119785)
+12. [【FHE】我们如何实现同态加密推理（八）：SiLU 的密文化——两条路径，和一个 8 字节的开关](https://www.cnblogs.com/haliuhome/p/23118642)
+13. [SQLcl 中 c/old/new 替换变量为何失效？先定位再替换](https://www.cnblogs.com/jyzhao/p/23118624)
+14. [不让模型写作文，直接从它脑子里读答案：Jev 决策在 .NET 的两条路线](https://www.cnblogs.com/shanyou/p/23117082)
+15. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
+16. [华三VXLAN集中式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23115756)
+17. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
+18. [大 O、大 Omega、大 Theta 的区别，O(n) 复杂度是什么意思](https://www.cnblogs.com/moonout/p/23083800)
+19. [Java标签跳转：一个鲜为人知但却很实用的小技巧](https://www.cnblogs.com/jilodream/p/23115325)
+20. [多智能体系统论文速读](https://www.cnblogs.com/mianmaner/p/23110425)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [别只盯着 Codex，分享一款免费且支持随时随地远程控制工具UU， 我也在用...](https://www.cnblogs.com/jinjiangongzuoshi/p/23104882)
-2. [定时任务还想上 Hangfire？这个被 AI Agent 项目看上的 TickerQ，把反射全干掉了](https://www.cnblogs.com/shanyou/p/23104373)
-3. [Jev 刷屏了：这个不聊天的 AI 模型，盯上了企业系统里那批高频小判断](https://www.cnblogs.com/powertoolsteam/p/23104668)
-4. [开源一个基于 Rust 和 egui 开发的跨平台 SSH 客户端应用ssh-client](https://www.cnblogs.com/shiningrise/p/23104560)
-5. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
-6. [聊聊 Blazor 里 Radzen 6.0.0 那几个用着别扭的官方组件](https://www.cnblogs.com/shenchuanchao/p/23077957/blazor-radzen-6-0-0-awkward-official-components)
+2. [偷懒是人类发展的动力，写一个MCP+Skill来代替日志检查](https://www.cnblogs.com/lmy5215006/p/22840080)
+3. [从纸带打孔到AI自动编程：三十年亲历，见证编程范式的效率革命](https://www.cnblogs.com/yefanqiu/p/23111915)
+4. [软件更好写之后口碑会更重要](https://www.cnblogs.com/lindexi/p/23115629)
+5. [git开发规范~深度阅读](https://www.cnblogs.com/lori/p/23113447)
+6. [电视投屏界的“一股清流”！SimpleTVCast 6.0.0-beta 抢先体验：无需TV端App，界面大换血！✨](https://www.cnblogs.com/eguid/p/23115916)
