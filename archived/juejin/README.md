@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-26 11:24:40
+> 更新时间：2026-09-26 12:24:06
 
 ## 热门文章
 
@@ -22,8 +22,8 @@
 16. [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666)
 17. [WorkBuddy 每天自动领积分！教你用云函数做个签到机器人](https://juejin.cn/post/7688905988846305289)
 18. [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490)
-19. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://juejin.cn/post/7688334749719789604)
-20. [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945)
+19. [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945)
+20. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://juejin.cn/post/7688334749719789604)
 21. [大模型在货拉拉营销广告的应用实践](https://juejin.cn/post/7688368434233606178)
 22. [Axios 完整封装合集（鉴权 + 重复拦截 + Loading + 缓存 + 统一错误 + 请求重试｜全代码逐行注释）](https://juejin.cn/post/7688341026176286756)
 23. [Antigravity + Blender MCP（下）：3D 智慧仓储数字孪生进阶实战](https://juejin.cn/post/7688329495955243058)
@@ -40,17 +40,17 @@
 34. [Skill 为什么不同于 Tool？Agent 技能库的自演进与动态加载机制](https://juejin.cn/post/7687897009885397028)
 35. [我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议](https://juejin.cn/post/7689029662157668390)
 36. [Jev 火了两周，开源生态已经长出 28 个项目](https://juejin.cn/post/7688569614586789914)
-37. [Java 线程池原理详解：从核心参数到线上调优](https://juejin.cn/post/7688298824981610511)
-38. [Redis大key删除引发的服务雪崩，这次我真记住了](https://juejin.cn/post/7687876412299444224)
-39. [Flutter 获取 iPhone Duo 预留区位置](https://juejin.cn/post/7688917667420717091)
-40. [管理后台数据国际化：不建翻译表、一列 JSON、后端零改动](https://juejin.cn/post/7688579804614361138)
-41. [AI圈最近爆火的"哑巴"Jev，到底是个啥？](https://juejin.cn/post/7688571406653538350)
-42. [不要把报错直接丢给 AI：正确的排障上下文长什么样](https://juejin.cn/post/7688569614587527194)
-43. [我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景](https://juejin.cn/post/7688569614586953754)
+37. [Redis大key删除引发的服务雪崩，这次我真记住了](https://juejin.cn/post/7687876412299444224)
+38. [Flutter 获取 iPhone Duo 预留区位置](https://juejin.cn/post/7688917667420717091)
+39. [管理后台数据国际化：不建翻译表、一列 JSON、后端零改动](https://juejin.cn/post/7688579804614361138)
+40. [AI圈最近爆火的"哑巴"Jev，到底是个啥？](https://juejin.cn/post/7688571406653538350)
+41. [不要把报错直接丢给 AI：正确的排障上下文长什么样](https://juejin.cn/post/7688569614587527194)
+42. [我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景](https://juejin.cn/post/7688569614586953754)
+43. [一文讲透原生渲染和自渲染](https://juejin.cn/post/7688532185122062346)
 44. [cos-design 4.0：91 个特效组件一次捅成 React / Vue / Web Components / Core](https://juejin.cn/post/7688529340346269746)
 45. [jev-ultrafast 深度解析：7 秒订机票的浏览器 Agent 是如何炼成的](https://juejin.cn/post/7688252916676640768)
 46. [SpringBoot 集成 SSE 实现服务端推送或可代替Websocket](https://juejin.cn/post/7687910066222530606)
-47. [一文讲透原生渲染和自渲染](https://juejin.cn/post/7688532185122062346)
-48. [突发：Claude自主发现未知生物系统，或能编辑基因](https://juejin.cn/post/7689029662157717542)
-49. [UniApp 内嵌 H5 通信全攻略](https://juejin.cn/post/7689029662157602854)
-50. [Trae 每天自动签到：Serverless 定时任务完整复盘](https://juejin.cn/post/7688669403517960202)
+47. [突发：Claude自主发现未知生物系统，或能编辑基因](https://juejin.cn/post/7689029662157717542)
+48. [UniApp 内嵌 H5 通信全攻略](https://juejin.cn/post/7689029662157602854)
+49. [Trae 每天自动签到：Serverless 定时任务完整复盘](https://juejin.cn/post/7688669403517960202)
+50. [X6 框选拖拽性能内幕：从 issue 4823 到开源内核（系列 3 篇）之三](https://juejin.cn/post/7688579804614082610)

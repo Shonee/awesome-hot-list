@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-26 11:25:11
+> 更新时间：2026-09-26 12:25:07
 
 ## Hottest
 
@@ -11,21 +11,21 @@
 5. [Amiga screens: a primer](https://www.datagubbe.se/amscr/)
 6. [This Month in Redox - August 2026](https://www.redox-os.org/news/this-month-260831/)
 7. [Who Is Open Source About?](https://blog.glyph.im/2026/09/who-is-open-source-about.html)
-8. [We’re gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
-9. [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
-10. [Every package is already installed](https://fzakaria.com/2026/09/24/every-package-is-already-installed)
-11. [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
-12. [A Type Stronger than the Sum of its Components](https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/)
-13. [File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS](https://inoti.fyi/)
-14. [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
-15. [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
-16. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
-17. [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
-18. [I asked Meta’s Muse for its filesystem and it sent me 6.8 GB](https://mouse.dev/blog/muse-runtime-export/)
-19. [NetBSD Playing with disklabels](https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html)
-20. [LLM Policies: Progress At All Costs](https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/)
-21. [What are you doing this weekend?](https://lobste.rs/s/bubfjf)
-22. [Cross-Site Scripting (XSS) Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
-23. [Understanding NvPCRs in systemd v262](https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/)
-24. [weave: structural merging for different languages](https://github.com/Ataraxy-Labs/weave)
-25. [Pencils Down, Eyes Open: A Rails Developer After Rails World](https://caio.ca/blog/pencils-down-eyes-open-rails-world)
+8. [NetBSD Playing with disklabels](https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html)
+9. [We’re gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+10. [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+11. [Every package is already installed](https://fzakaria.com/2026/09/24/every-package-is-already-installed)
+12. [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
+13. [A Type Stronger than the Sum of its Components](https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/)
+14. [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
+15. [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
+16. [File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS](https://inoti.fyi/)
+17. [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+18. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+19. [I asked Meta’s Muse for its filesystem and it sent me 6.8 GB](https://mouse.dev/blog/muse-runtime-export/)
+20. [Keep if clauses side-effect free](https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html)
+21. [Cross-Site Scripting (XSS) Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+22. [LLM Policies: Progress At All Costs](https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/)
+23. [What are you doing this weekend?](https://lobste.rs/s/bubfjf)
+24. [Understanding NvPCRs in systemd v262](https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/)
+25. [weave: structural merging for different languages](https://github.com/Ataraxy-Labs/weave)
