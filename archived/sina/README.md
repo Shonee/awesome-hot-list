@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-27 02:25:19
-
-## 新闻热榜
-
-1. [若曼城8座英超冠军被剥夺，6名主帅将受益，渣叔塔帅各补2冠](https://news.sina.com.cn/o/2026-09-26/doc-initckch8732147.shtml)
-2. [美联储哈玛克：美联储会留意金融状况，但货币政策的决定权在美联储。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7350076.shtml)
-3. [俄罗斯外交部长拉夫罗夫：使用武力杀害伊朗最高领袖阿里·哈梅内伊及其家人是不可接受的。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerww3923469.shtml)
-4. [俄罗斯外交部长拉夫罗夫：安理会约一年前批准了加沙地带和平计划，但和平尚未实现。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerwy0688424.shtml)
-5. [俄罗斯外交部长拉夫罗夫：美国摧毁了欧洲安全体系，并在乌克兰建立了一个反俄政权。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerwy0690519.shtml)
-6. [胡塞武装：在过去24小时内，沙特战机从海米斯穆谢特和塔伊夫空军基地起飞，使用F-15和台风战斗机发动了27次空袭。这些空袭针对了塔伊兹、](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerww3925377.shtml)
-7. [美国纽约州州长霍楚尔，就沿海风暴向纽约州民众发布最新通报。她表示，停电情况将持续增加，全州已报告超过2.8万处停电。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerww3919866.shtml)
-8. [英国希思罗机场表示，规划中的第三跑道可能推迟至2039年投用。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerww3928773.shtml)
-9. [特朗普：佛罗里达州为拜伦·唐纳兹安排了两场集会。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerww3914220.shtml)
-10. [古巴外交部长表示，古巴永远做好了与美国对话的准备。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initerwy0682886.shtml)
-11. [中美达成八点成果共识](https://news.sina.com.cn/c/2026-09-26/doc-initcusx7090529.shtml)
-12. [“他当上总统，她失去一切”](https://news.sina.com.cn/w/2026-09-26/doc-initcyza0442667.shtml)
-13. [习近平和彭丽媛同特朗普夫妇茶叙，高清大图来了！](https://finance.sina.com.cn/world/2026-09-26/doc-initccvc3666442.shtml)
-14. [巴基斯坦总理联大发言：感谢中国](https://news.sina.com.cn/o/2026-09-26/doc-initcuta8585601.shtml)
-15. [又见韩国！中国U23男足晋级四强，真正的考验来了](https://news.sina.com.cn/zx/2026-09-26/doc-initcyze4156262.shtml)
-16. [刘欢妻子发布朋友圈：我永远的爱，永远的痛 姚贝娜父亲哽咽回应：他就是个天才 孙楠、韩红、蔡健雅、萧敬腾、孙茜等众歌手悼念刘欢](https://news.sina.com.cn/s/2026-09-26/doc-initcyyy8494528.shtml)
-17. [乌克兰“星链”数据处理中心，遭俄军打击](https://news.sina.com.cn/w/2026-09-26/doc-initcyzh0930092.shtml)
-18. [打破亚运会纪录！粟文夺得田径男子三级跳远金牌](https://news.sina.com.cn/zx/2026-09-26/doc-initemra0742615.shtml)
-19. [内塔尼亚胡即将入住，酒店旁下水道有人钻出！特情局追查：“绝望催人奋进”的拾荒匠](https://news.sina.com.cn/w/2026-09-26/doc-initcyzh0912302.shtml)
-20. [一见·一轮中秋月，照见中美两国的友好交往](https://news.sina.com.cn/c/xl/2026-09-26/doc-initefie0859716.shtml)
-
-## 财经热榜
-
-1. [9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高](https://finance.sina.com.cn/world/2026-09-26/doc-initatfp4160592.shtml)
-2. [美伊大消息！美方：特朗普拒绝伊朗7日内重开霍尔木兹提议，或在中期选举后恢复轰炸！特朗普：伊朗一直“乞求”美国达成协议](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initcqkx3490558.shtml)
-3. [摩根大通：数据安全中心已上线摩根大通手机银行，用于管理关联应用。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxp7446651.shtml)
-4. [苹果因侵犯触觉反馈专利 被判需支付57亿美元赔偿金](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvi3960554.shtml)
-5. [9月26日隔夜要闻：美股三大指数收涨 原油下跌 金价微升 美官员称美伊正就重新开放霍尔木兹海峡进行讨论](https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4073998.shtml)
-6. [美联储哈玛克：美联储会留意金融状况，但货币政策的决定权在美联储。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7350076.shtml)
-7. [庞巴迪CEO：正就加拿大本土生产萨博监视飞机进入深度谈判](https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvf7211893.shtml)
-8. [著名音乐家刘欢病逝 生平回顾](https://finance.sina.com.cn/roll/2026-09-26/doc-initckcc7174657.shtml)
-9. [据相关陪审团裁定：Meta Platforms(META.O)在剑桥分析（Cambridge Analytica）丑闻相关诉讼中误导了新墨西哥州消费者。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initanxr4222168.shtml)
-10. [美方在介绍此次访问成果时，使用“超级智能”代替“人工智能”，外交部回应](https://finance.sina.com.cn/roll/2026-09-26/doc-initcyzh0932149.shtml)
-11. [美国总统特朗普最早可能会在周五宣布柴油相关政策。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfp4128460.shtml)
-12. [中行万事达卡疑似遭大规模盗刷：Apple Pay用户紧急锁卡，原因待查](https://finance.sina.com.cn/jryx/2026-09-26/doc-initcyza0450311.shtml)
-13. [“我们不是冤种！” 特斯拉“一个月降价两次”惹怒新车主，要求补偿遭拒，等等党躺赢？](https://finance.sina.com.cn/roll/2026-09-26/doc-initcyyv6976747.shtml)
-14. [甄嬛传编曲称刘欢离世前坚持结款](https://finance.sina.com.cn/roll/2026-09-26/doc-initcyze4124450.shtml)
-15. [比尔·盖茨：AI已强大到足以造成“10亿人死亡”](https://finance.sina.com.cn/roll/2026-09-26/doc-initahrr7554172.shtml)
-16. [比尔·盖茨称人工智能“足够强大可能导致十亿人死亡”，呼吁立法监管](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initcqmc3879721.shtml)
-17. [9月26日外盘头条：霍尔木兹海峡有望重开 白宫试图降低柴油价格 Anthropic投入至少400亿美元租赁算力](https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4055069.shtml)
-18. [网新恒天推出AI债券智能交易助手](https://finance.sina.com.cn/7x24/2026-09-26/doc-initckcc7146381.shtml)
-19. [俄军在黑海击中一艘为乌军运送物资的干货船](https://finance.sina.com.cn/7x24/2026-09-26/doc-initcqkz7150493.shtml)
-20. [美参议员：白宫释放信号 不会禁止柴油出口](https://finance.sina.com.cn/world/2026-09-26/doc-initckcf3940901.shtml)
+> 更新时间：2026-09-27 02:29:17
 
 ## 7x24
 
