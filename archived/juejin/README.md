@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-27 01:17:51
+> 更新时间：2026-09-27 02:24:52
 
 ## 热门文章
 
@@ -18,17 +18,17 @@
 12. [Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级](https://juejin.cn/post/7688528701483827241)
 13. [安卓代码加固（1）：加密DEX](https://juejin.cn/post/7688669403517681674)
 14. [多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案](https://juejin.cn/post/7688585710283014184)
-15. [Flutter 获取 iPhone Duo 预留区位置](https://juejin.cn/post/7688917667420717091)
-16. [管理后台数据国际化：不建翻译表、一列 JSON、后端零改动](https://juejin.cn/post/7688579804614361138)
-17. [我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议](https://juejin.cn/post/7689029662157668390)
+15. [我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议](https://juejin.cn/post/7689029662157668390)
+16. [Flutter 获取 iPhone Duo 预留区位置](https://juejin.cn/post/7688917667420717091)
+17. [管理后台数据国际化：不建翻译表、一列 JSON、后端零改动](https://juejin.cn/post/7688579804614361138)
 18. [我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景](https://juejin.cn/post/7688569614586953754)
-19. [同一个审批流引擎，我写了两次：一次 11226 行，一次 7036 行](https://juejin.cn/post/7689030470209896498)
-20. [耗时两周从零搭建私有化企业 RAG 知识库，完整架构与踩坑总结](https://juejin.cn/post/7689030315844419630)
-21. [突发：Claude自主发现未知生物系统，或能编辑基因](https://juejin.cn/post/7689029662157717542)
-22. [UniApp 内嵌 H5 通信全攻略](https://juejin.cn/post/7689029662157602854)
-23. [Redis 常见的数据类型及底层结构](https://juejin.cn/post/7688910933353054244)
-24. [Android HWC退化与防治方法](https://juejin.cn/post/7688689006075756580)
-25. [Trae 每天自动签到：Serverless 定时任务完整复盘](https://juejin.cn/post/7688669403517960202)
+19. [UniApp 内嵌 H5 通信全攻略](https://juejin.cn/post/7689029662157602854)
+20. [Trae 每天自动签到：Serverless 定时任务完整复盘](https://juejin.cn/post/7688669403517960202)
+21. [同一个审批流引擎，我写了两次：一次 11226 行，一次 7036 行](https://juejin.cn/post/7689030470209896498)
+22. [耗时两周从零搭建私有化企业 RAG 知识库，完整架构与踩坑总结](https://juejin.cn/post/7689030315844419630)
+23. [突发：Claude自主发现未知生物系统，或能编辑基因](https://juejin.cn/post/7689029662157717542)
+24. [Redis 常见的数据类型及底层结构](https://juejin.cn/post/7688910933353054244)
+25. [Android HWC退化与防治方法](https://juejin.cn/post/7688689006075756580)
 26. [Wails v2 实战：用 Go + Vue3 做一个真正能用的 AI 桌面应用](https://juejin.cn/post/7688538708639662114)
 27. [Java 27 悄悄改了 3 个默认值，我在 1 核小机器上逐个验证了一遍](https://juejin.cn/post/7688528701484302377)
 28. [别把 Claude Code 当聊天框：一套「确定性工程」落地手册](https://juejin.cn/post/7688401878564077602)
@@ -51,6 +51,6 @@
 45. [我做了个 Skill，一句话生成小程序原型，需求文档都帮你写好了](https://juejin.cn/post/7688657982649516066)
 46. [深入理解 Java 的四种引用：强引用、软引用、弱引用、虚引用](https://juejin.cn/post/7688642282799218739)
 47. [Android GIS系列  串口、蓝牙、USB、网络：一套统一抽象怎么扛住四种通道](https://juejin.cn/post/7688632039941357622)
-48. [OpenAI智能体自己跑了，澳洲政府网站成了试验场](https://juejin.cn/post/7688603862198829098)
-49. [《从屎山到秩序：Vibe Coding 95 驾驭术全公开》](https://juejin.cn/post/7688585710282948648)
-50. [MCP 到底接在了哪一层？从“Agent 调工具”说起](https://juejin.cn/post/7688528701484253225)
+48. [LLM降本提速三档对比：无缓存、普通缓存、语义缓存（LangChain生产落地）](https://juejin.cn/post/7688627788022939648)
+49. [OpenAI智能体自己跑了，澳洲政府网站成了试验场](https://juejin.cn/post/7688603862198829098)
+50. [《从屎山到秩序：Vibe Coding 95 驾驭术全公开》](https://juejin.cn/post/7688585710282948648)

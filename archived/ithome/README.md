@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-27 01:19:20
+> 更新时间：2026-09-27 02:25:44
 
 ## 日榜
 
@@ -11,8 +11,8 @@
 5. [高端用户的终极之车：华为余承东透露鸿蒙智行尊界 SUV 非常非常高端，价格上也非常有诚意](https://www.ithome.com/1/007/343.htm)
 6. [华为何刚分享自己转做手机业务趣闻：被余承东一个电话“拽”了过来，原本负责无线全球销售](https://www.ithome.com/1/007/313.htm)
 7. [Xiaomi 口袋吉他配件发售：适配小米 18 Pro 及苹果 iPhone，599 元](https://www.ithome.com/1/007/276.htm)
-8. [微信鸿蒙版 App 安装量正式突破 8000 万](https://www.ithome.com/1/007/305.htm)
-9. [华为 Mate 60、Pura 70 等机型推送 HarmonyOS 7.0.0.109 SP6 版本，新增智能识别信息内容等功能](https://www.ithome.com/1/007/422.htm)
+8. [华为 Mate 60、Pura 70 等机型推送 HarmonyOS 7.0.0.109 SP6 版本，新增智能识别信息内容等功能](https://www.ithome.com/1/007/422.htm)
+9. [微信鸿蒙版 App 安装量正式突破 8000 万](https://www.ithome.com/1/007/305.htm)
 10. [已收录 96 款设备：苹果公开 iPhone 18 Pro、AirPods 5 等尺寸图纸](https://www.ithome.com/1/007/281.htm)
 11. [罗巍晒荣耀 Magic9 Pro Max 手机增距镜中秋圆月拍摄样张，喊话“还有谁”](https://www.ithome.com/1/007/315.htm)
 12. [李小龙：华为大疆联名款 Osmo Pocket 4 云台相机有更多协同功能](https://www.ithome.com/1/007/424.htm)
