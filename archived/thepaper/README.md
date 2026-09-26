@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-26 13:20:54
+> 更新时间：2026-09-26 14:34:07
 
 ## 热新闻
 
@@ -16,11 +16,11 @@
 10. [球迷“输球思振东”，媒体：不能用“年轻”二字把所有问题轻轻带过](https://www.thepaper.cn/newsDetail_forward_34149789)
 11. [中国女篮半决赛不敌韩国，本届亚运会中国篮球各项均无缘决赛](https://www.thepaper.cn/newsDetail_forward_34149676)
 12. [以色列要做什么？内塔尼亚胡演讲多国代表离席，以色列专人巡视记录](https://www.thepaper.cn/newsDetail_forward_34150400)
-13. [以色列在联大拿出星链挑衅，遭伊朗代表团人员无视](https://www.thepaper.cn/newsDetail_forward_34149928)
-14. [七嘴八舌｜文化出海需要更多“周深式开口”](https://www.thepaper.cn/newsDetail_forward_34116351)
-15. [白宫欢迎国宴，哪些企业家坐主桌？](https://www.thepaper.cn/newsDetail_forward_34148989)
-16. [宫鲁鸣回应三分球颗粒无收：时间长了什么情况都可能遇到](https://www.thepaper.cn/newsDetail_forward_34149921)
-17. [一张赛车票，打开不一样的上海中秋假期](https://www.thepaper.cn/newsDetail_forward_34150652)
-18. [观察｜以战略稳定应对外部不确定性，中美关系“重中之重”的背后](https://www.thepaper.cn/newsDetail_forward_34143275)
-19. [详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙](https://www.thepaper.cn/newsDetail_forward_34151574)
-20. [习近平圆满结束对美国的国事访问](https://www.thepaper.cn/newsDetail_forward_34151580)
+13. [直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽](https://www.thepaper.cn/newsDetail_forward_34154261)
+14. [纪念｜刘欢走了，“我和你”都会记得](https://www.thepaper.cn/newsDetail_forward_34154729)
+15. [以色列在联大拿出星链挑衅，遭伊朗代表团人员无视](https://www.thepaper.cn/newsDetail_forward_34149928)
+16. [七嘴八舌｜文化出海需要更多“周深式开口”](https://www.thepaper.cn/newsDetail_forward_34116351)
+17. [宫鲁鸣回应三分球颗粒无收：时间长了什么情况都可能遇到](https://www.thepaper.cn/newsDetail_forward_34149921)
+18. [一张赛车票，打开不一样的上海中秋假期](https://www.thepaper.cn/newsDetail_forward_34150652)
+19. [观察｜以战略稳定应对外部不确定性，中美关系“重中之重”的背后](https://www.thepaper.cn/newsDetail_forward_34143275)
+20. [详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙](https://www.thepaper.cn/newsDetail_forward_34151574)
