@@ -1,12 +1,12 @@
 # 博客园热榜
 
-> 更新时间：2026-09-26 12:24:09
+> 更新时间：2026-09-26 13:20:40
 
 ## 最新帖子
 
-1. [【.NET】Logging 库探索（一）：基础接口](https://www.cnblogs.com/tcjiaan/p/23068018)
-2. [JAVA日志的前世今生](https://www.cnblogs.com/xiexj/p/23126648)
-3. [基于uniapp+vue3+uni-ui跨三端(小程序+h5+app端)酒店预约模板](https://www.cnblogs.com/yxybox/p/23126623)
+1. [从 TensorSharp 视角解读 Ternary Bonsai 2 27B：当 1.72 比特的权重遇上 Hadamard 变换](https://www.cnblogs.com/shanyou/p/23126888)
+2. [【.NET】Logging 库探索（一）：基础接口](https://www.cnblogs.com/tcjiaan/p/23068018)
+3. [JAVA日志的前世今生](https://www.cnblogs.com/xiexj/p/23126648)
 4. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
 5. [【FHE】（十）：密文里的 attention——没有 max，softmax 怎么办](https://www.cnblogs.com/haliuhome/p/23125666)
 6. [面包板接线为什么这样接：从模块需求到芯片资源分配](https://www.cnblogs.com/zw-awa/p/23112397)

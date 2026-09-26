@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-26 12:25:07
+> 更新时间：2026-09-26 13:21:45
 
 ## Hottest
 
@@ -11,14 +11,14 @@
 5. [Amiga screens: a primer](https://www.datagubbe.se/amscr/)
 6. [This Month in Redox - August 2026](https://www.redox-os.org/news/this-month-260831/)
 7. [Who Is Open Source About?](https://blog.glyph.im/2026/09/who-is-open-source-about.html)
-8. [NetBSD Playing with disklabels](https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html)
-9. [We’re gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+8. [We’re gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+9. [NetBSD Playing with disklabels](https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html)
 10. [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 11. [Every package is already installed](https://fzakaria.com/2026/09/24/every-package-is-already-installed)
 12. [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
 13. [A Type Stronger than the Sum of its Components](https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/)
-14. [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
-15. [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
+14. [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
+15. [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
 16. [File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS](https://inoti.fyi/)
 17. [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
 18. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)

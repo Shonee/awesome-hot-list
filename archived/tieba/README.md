@@ -1,18 +1,18 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-26 12:25:02
+> 更新时间：2026-09-26 13:21:38
 
 ## 最有料热点
 
 1. [一代歌王刘欢病逝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365818&topic_name=%E4%B8%80%E4%BB%A3%E6%AD%8C%E7%8E%8B%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
 2. [面王争霸赛,谁能挺进十六强](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365825&topic_name=%E9%9D%A2%E7%8E%8B%E4%BA%89%E9%9C%B8%E8%B5%9B%2C%E8%B0%81%E8%83%BD%E6%8C%BA%E8%BF%9B%E5%8D%81%E5%85%AD%E5%BC%BA)
 3. [三角洲行动二洲年开启](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365817&topic_name=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E4%BA%8C%E6%B4%B2%E5%B9%B4%E5%BC%80%E5%90%AF)
-4. [亚运会中国金牌数断层领先](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365725&topic_name=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%95%B0%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88)
-5. [三星冰箱更新后变砖,食材报废](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365823&topic_name=%E4%B8%89%E6%98%9F%E5%86%B0%E7%AE%B1%E6%9B%B4%E6%96%B0%E5%90%8E%E5%8F%98%E7%A0%96%2C%E9%A3%9F%E6%9D%90%E6%8A%A5%E5%BA%9F)
-6. [新启程太穷,玩家差评刷屏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365826&topic_name=%E6%96%B0%E5%90%AF%E7%A8%8B%E5%A4%AA%E7%A9%B7%2C%E7%8E%A9%E5%AE%B6%E5%B7%AE%E8%AF%84%E5%88%B7%E5%B1%8F)
-7. [布森三枪破10刷新亚运纪录](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365797&topic_name=%E5%B8%83%E6%A3%AE%E4%B8%89%E6%9E%AA%E7%A0%B410%E5%88%B7%E6%96%B0%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95)
-8. [完美世界停更,帝关战留到年底](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365794&topic_name=%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%E5%81%9C%E6%9B%B4%2C%E5%B8%9D%E5%85%B3%E6%88%98%E7%95%99%E5%88%B0%E5%B9%B4%E5%BA%95)
-9. [第一批已到账!签到5天白嫖50](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365575&topic_name=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%B7%B2%E5%88%B0%E8%B4%A6%21%E7%AD%BE%E5%88%B05%E5%A4%A9%E7%99%BD%E5%AB%9650)
+4. [工人违规失双臂,惨变地狱梗](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365827&topic_name=%E5%B7%A5%E4%BA%BA%E8%BF%9D%E8%A7%84%E5%A4%B1%E5%8F%8C%E8%87%82%2C%E6%83%A8%E5%8F%98%E5%9C%B0%E7%8B%B1%E6%A2%97)
+5. [亚运会中国金牌数断层领先](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365725&topic_name=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%95%B0%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88)
+6. [三星冰箱更新后变砖,食材报废](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365823&topic_name=%E4%B8%89%E6%98%9F%E5%86%B0%E7%AE%B1%E6%9B%B4%E6%96%B0%E5%90%8E%E5%8F%98%E7%A0%96%2C%E9%A3%9F%E6%9D%90%E6%8A%A5%E5%BA%9F)
+7. [新启程太穷,玩家差评刷屏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365826&topic_name=%E6%96%B0%E5%90%AF%E7%A8%8B%E5%A4%AA%E7%A9%B7%2C%E7%8E%A9%E5%AE%B6%E5%B7%AE%E8%AF%84%E5%88%B7%E5%B1%8F)
+8. [布森三枪破10刷新亚运纪录](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365797&topic_name=%E5%B8%83%E6%A3%AE%E4%B8%89%E6%9E%AA%E7%A0%B410%E5%88%B7%E6%96%B0%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95)
+9. [完美世界停更,帝关战留到年底](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365794&topic_name=%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%E5%81%9C%E6%9B%B4%2C%E5%B8%9D%E5%85%B3%E6%88%98%E7%95%99%E5%88%B0%E5%B9%B4%E5%BA%95)
 10. [CN瓦一号种子天禄遭G2零封](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365726&topic_name=CN%E7%93%A6%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%E5%A4%A9%E7%A6%84%E9%81%ADG2%E9%9B%B6%E5%B0%81)
 11. [各省宝藏泡面,泡面也有限定款](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365745&topic_name=%E5%90%84%E7%9C%81%E5%AE%9D%E8%97%8F%E6%B3%A1%E9%9D%A2%2C%E6%B3%A1%E9%9D%A2%E4%B9%9F%E6%9C%89%E9%99%90%E5%AE%9A%E6%AC%BE)
 12. [吧友手搓AI娘网站,梗图全收录](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365534&topic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95)
@@ -33,3 +33,4 @@
 27. [日网友阴阳国人吃太多得病](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365442&topic_name=%E6%97%A5%E7%BD%91%E5%8F%8B%E9%98%B4%E9%98%B3%E5%9B%BD%E4%BA%BA%E5%90%83%E5%A4%AA%E5%A4%9A%E5%BE%97%E7%97%85)
 28. [西瓜比南京贵,韩女回应翻车](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365358&topic_name=%E8%A5%BF%E7%93%9C%E6%AF%94%E5%8D%97%E4%BA%AC%E8%B4%B5%2C%E9%9F%A9%E5%A5%B3%E5%9B%9E%E5%BA%94%E7%BF%BB%E8%BD%A6)
 29. [大整治,浙江商K大面积关门](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365359&topic_name=%E5%A4%A7%E6%95%B4%E6%B2%BB%2C%E6%B5%99%E6%B1%9F%E5%95%86K%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E9%97%A8)
+30. [第一批已到账!签到5天白嫖50](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365575&topic_name=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%B7%B2%E5%88%B0%E8%B4%A6%21%E7%AD%BE%E5%88%B05%E5%A4%A9%E7%99%BD%E5%AB%9650)
