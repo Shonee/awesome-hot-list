@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 10:52:11
+> 更新时间：2026-09-26 11:11:18
 
 ## 7x24
 
@@ -14,4 +14,4 @@
 8. [伯克希尔·哈撒韦于9月23日至25日期间，累计收购约170万股莱纳公司A类普通股、20675股B类普通。](https://wallstreetcn.com/livenews/3170946)
 9. [苹果因侵犯触觉专利被判赔57亿美元](https://wallstreetcn.com/livenews/3170945)
 10. [OpenAI的模型访问了美国人口普查局和SEC的公开数据](https://wallstreetcn.com/livenews/3170944)
-11. [报道：特朗普拒绝伊朗7天停火提议](https://wallstreetcn.com/livenews/3170943)
+11. [美媒：特朗普拒绝伊朗七日内重开霍尔木兹海峡提议](https://wallstreetcn.com/livenews/3170943)
