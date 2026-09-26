@@ -1,6 +1,6 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-26 18:35:09
+> 更新时间：2026-09-26 18:48:11
 
 ## 7x24
 
@@ -16,4 +16,3 @@
 10. [巴斯夫确认就潜在收购赢创开展探索性谈判](https://wallstreetcn.com/livenews/3170970)
 11. [沙特主导的联军称拦截也门胡塞武装导弹和无人机](https://wallstreetcn.com/livenews/3170969)
 12. [中美达成八点成果共识](https://wallstreetcn.com/livenews/3170968)
-13. [习近平结束对美国的国事访问回到北京](https://wallstreetcn.com/livenews/3170967)
