@@ -1,10 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-09-26 09:29:43
+> 更新时间：2026-09-26 10:29:04
 
 ## 最新帖子
 
-1. [一文看懂 RAGFlow 四层存储：元数据、对象、检索、缓存如何协作](https://www.cnblogs.com/aifrontiers/p/23125877)
+1. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
 2. [【FHE】（十）：密文里的 attention——没有 max，softmax 怎么办](https://www.cnblogs.com/haliuhome/p/23125666)
 3. [面包板接线为什么这样接：从模块需求到芯片资源分配](https://www.cnblogs.com/zw-awa/p/23112397)
 4. [JAVA数据处理的常用技术](https://www.cnblogs.com/xiexj/p/23122919)
