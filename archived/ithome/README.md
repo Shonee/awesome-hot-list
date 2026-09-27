@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-28 01:19:14
+> 更新时间：2026-09-28 02:26:49
 
 ## 日榜
 
@@ -11,8 +11,8 @@
 5. [张雪机车团队多人在意大利被盗，团队已报警处理](https://www.ithome.com/1/007/527.htm)
 6. [消息称华为或于今年 11 月推出星耀子品牌，客服回应目前暂无具体信息](https://www.ithome.com/1/007/517.htm)
 7. [赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级](https://www.ithome.com/1/007/448.htm)
-8. [四卡双待：荣耀 Magic9 Pro Max 手机将支持双实体卡 + 双 eSIM](https://www.ithome.com/1/007/496.htm)
-9. [消息称华为新一代 MatePad Mini 小平板配备 5G+ 双层 OLED，续航有提升](https://www.ithome.com/1/007/559.htm)
+8. [消息称华为新一代 MatePad Mini 小平板配备 5G+ 双层 OLED，续航有提升](https://www.ithome.com/1/007/559.htm)
+9. [四卡双待：荣耀 Magic9 Pro Max 手机将支持双实体卡 + 双 eSIM](https://www.ithome.com/1/007/496.htm)
 10. [iPhone 17 Pro 银色 7459 元京东部分地区补货，iPhone 18 Pro 系列换新补贴 800 元](https://www.ithome.com/1/007/510.htm)
 11. [华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”](https://www.ithome.com/1/007/511.htm)
 12. [小米 18 Pro 系列手机「传奇一瞬」功能详解，原片数据可在相册上传云端无损处理](https://www.ithome.com/1/007/474.htm)
