@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-28 06:20:16
+> 更新时间：2026-09-28 07:20:03
 
 ## 日榜
 
@@ -10,9 +10,9 @@
 4. [小米 18 标准版手机入网，有望 12 月单独发布](https://www.ithome.com/1/007/556.htm)
 5. [张雪机车团队多人在意大利被盗，团队已报警处理](https://www.ithome.com/1/007/527.htm)
 6. [消息称华为或于今年 11 月推出星耀子品牌，客服回应目前暂无具体信息](https://www.ithome.com/1/007/517.htm)
-7. [赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级](https://www.ithome.com/1/007/448.htm)
-8. [消息称华为新一代 MatePad Mini 小平板配备 5G+ 双层 OLED，续航有提升](https://www.ithome.com/1/007/559.htm)
-9. [四卡双待：荣耀 Magic9 Pro Max 手机将支持双实体卡 + 双 eSIM](https://www.ithome.com/1/007/496.htm)
+7. [消息称华为新一代 MatePad Mini 小平板配备 5G+ 双层 OLED，续航有提升](https://www.ithome.com/1/007/559.htm)
+8. [四卡双待：荣耀 Magic9 Pro Max 手机将支持双实体卡 + 双 eSIM](https://www.ithome.com/1/007/496.htm)
+9. [爱奇艺回应网传“请勿眨眼”广告：大过节的，别恶搞造谣了](https://www.ithome.com/1/007/608.htm)
 10. [iPhone 17 Pro 银色 7459 元京东部分地区补货，iPhone 18 Pro 系列换新补贴 800 元](https://www.ithome.com/1/007/510.htm)
 11. [华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”](https://www.ithome.com/1/007/511.htm)
-12. [小米 18 Pro 系列手机「传奇一瞬」功能详解，原片数据可在相册上传云端无损处理](https://www.ithome.com/1/007/474.htm)
+12. [“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整](https://www.ithome.com/1/007/607.htm)

@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-28 06:20:02
+> 更新时间：2026-09-28 07:19:25
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [陈妤颉：100米金牌是成年礼，200米银牌是教训](https://www.thepaper.cn/newsDetail_forward_34161277)
 14. [多名学生反映吃华科大定制月饼拉肚子，“皇冠幸福里”承认制作，校医院回应暂未接诊病例](https://www.thepaper.cn/newsDetail_forward_34157014)
 15. [陈冲：母亲离世是人生的转折，感谢金宇澄鼓励我写作](https://www.thepaper.cn/newsDetail_forward_34159923)
-16. [景区负责人回应“花3000万寻找NPC”：已有7000人报名，拿天价招NPC “这是最笨的办法”](https://www.thepaper.cn/newsDetail_forward_34149474)
-17. [言短意长丨“48小时”不能成为放弃抢救的倒计时](https://www.thepaper.cn/newsDetail_forward_34161020)
+16. [言短意长丨“48小时”不能成为放弃抢救的倒计时](https://www.thepaper.cn/newsDetail_forward_34161020)
+17. [景区负责人回应“花3000万寻找NPC”：已有7000人报名，拿天价招NPC “这是最笨的办法”](https://www.thepaper.cn/newsDetail_forward_34149474)
 18. [直播丨第48届世界技能大赛闭幕式](https://www.thepaper.cn/newsDetail_forward_34155702)
 19. [云南一男子多次讨薪未果潜入雇主家盗走六千元“抵工资”，涉嫌盗窃被刑拘](https://www.thepaper.cn/newsDetail_forward_34157490)
-20. [菲防长发表涉华消极言论，中使馆：罔顾事实、颠倒黑白](https://www.thepaper.cn/newsDetail_forward_34161486)
+20. [新款豆包手机玩王者荣耀遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整](https://www.thepaper.cn/newsDetail_forward_34161385)
