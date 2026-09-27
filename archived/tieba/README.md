@@ -1,0 +1,36 @@
+# 百度贴吧热榜
+
+> 更新时间：2026-09-28 01:19:21
+
+## 最有料热点
+
+1. [回忆杀!吧友寻回跑操神曲出处](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365944&topic_name=%E5%9B%9E%E5%BF%86%E6%9D%80%21%E5%90%A7%E5%8F%8B%E5%AF%BB%E5%9B%9E%E8%B7%91%E6%93%8D%E7%A5%9E%E6%9B%B2%E5%87%BA%E5%A4%84)
+2. [DS形象之争:鲸鱼娘还是高智男?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365955&topic_name=DS%E5%BD%A2%E8%B1%A1%E4%B9%8B%E4%BA%89%3A%E9%B2%B8%E9%B1%BC%E5%A8%98%E8%BF%98%E6%98%AF%E9%AB%98%E6%99%BA%E7%94%B7%3F)
+3. [决战16强!谁的泡面实力更胜一筹](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365918&topic_name=%E5%86%B3%E6%88%9816%E5%BC%BA%21%E8%B0%81%E7%9A%84%E6%B3%A1%E9%9D%A2%E5%AE%9E%E5%8A%9B%E6%9B%B4%E8%83%9C%E4%B8%80%E7%AD%B9)
+4. [国乒男双力克日本,斩获四连冠](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365968&topic_name=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E5%8A%9B%E5%85%8B%E6%97%A5%E6%9C%AC%2C%E6%96%A9%E8%8E%B7%E5%9B%9B%E8%BF%9E%E5%86%A0)
+5. [JDG遭FUT零封,CN瓦全军覆没](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365965&topic_name=JDG%E9%81%ADFUT%E9%9B%B6%E5%B0%81%2CCN%E7%93%A6%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
+6. [日本男子被300公斤猪压死](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365967&topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%A2%AB300%E5%85%AC%E6%96%A4%E7%8C%AA%E5%8E%8B%E6%AD%BB)
+7. [抗吧锐评瓦区:饭圈赛区闹麻](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365920&topic_name=%E6%8A%97%E5%90%A7%E9%94%90%E8%AF%84%E7%93%A6%E5%8C%BA%3A%E9%A5%AD%E5%9C%88%E8%B5%9B%E5%8C%BA%E9%97%B9%E9%BA%BB)
+8. [恭喜!管泽元余霜喜得千金](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365929&topic_name=%E6%81%AD%E5%96%9C%21%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BD%99%E9%9C%9C%E5%96%9C%E5%BE%97%E5%8D%83%E9%87%91)
+9. [瓶子君评无职:鲁迪至死是巨婴](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365919&topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E8%AF%84%E6%97%A0%E8%81%8C%3A%E9%B2%81%E8%BF%AA%E8%87%B3%E6%AD%BB%E6%98%AF%E5%B7%A8%E5%A9%B4)
+10. [EDG惨败LOUD,藏战术成笑话](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365910&topic_name=EDG%E6%83%A8%E8%B4%A5LOUD%2C%E8%97%8F%E6%88%98%E6%9C%AF%E6%88%90%E7%AC%91%E8%AF%9D)
+11. [三角洲固定队贴吧展台接头成功](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365501&topic_name=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9B%BA%E5%AE%9A%E9%98%9F%E8%B4%B4%E5%90%A7%E5%B1%95%E5%8F%B0%E6%8E%A5%E5%A4%B4%E6%88%90%E5%8A%9F)
+12. [一代歌王刘欢病逝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365818&topic_name=%E4%B8%80%E4%BB%A3%E6%AD%8C%E7%8E%8B%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
+13. [U23国足28年后重返亚运四强](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365878&topic_name=U23%E5%9B%BD%E8%B6%B328%E5%B9%B4%E5%90%8E%E9%87%8D%E8%BF%94%E4%BA%9A%E8%BF%90%E5%9B%9B%E5%BC%BA)
+14. [三角洲行动二洲年开启](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365817&topic_name=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E4%BA%8C%E6%B4%B2%E5%B9%B4%E5%BC%80%E5%90%AF)
+15. [369爆料:呼吸哥去AL没要钱](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365845&topic_name=369%E7%88%86%E6%96%99%3A%E5%91%BC%E5%90%B8%E5%93%A5%E5%8E%BBAL%E6%B2%A1%E8%A6%81%E9%92%B1)
+16. [国产新游1:1复刻塞尔达](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365928&topic_name=%E5%9B%BD%E4%BA%A7%E6%96%B0%E6%B8%B81%3A1%E5%A4%8D%E5%88%BB%E5%A1%9E%E5%B0%94%E8%BE%BE)
+17. [工人违规失双臂,惨变地狱梗](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365827&topic_name=%E5%B7%A5%E4%BA%BA%E8%BF%9D%E8%A7%84%E5%A4%B1%E5%8F%8C%E8%87%82%2C%E6%83%A8%E5%8F%98%E5%9C%B0%E7%8B%B1%E6%A2%97)
+18. [亚运会中国金牌数断层领先](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365725&topic_name=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%95%B0%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88)
+19. [三星冰箱更新后变砖,食材报废](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365823&topic_name=%E4%B8%89%E6%98%9F%E5%86%B0%E7%AE%B1%E6%9B%B4%E6%96%B0%E5%90%8E%E5%8F%98%E7%A0%96%2C%E9%A3%9F%E6%9D%90%E6%8A%A5%E5%BA%9F)
+20. [新启程太穷,玩家差评刷屏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365826&topic_name=%E6%96%B0%E5%90%AF%E7%A8%8B%E5%A4%AA%E7%A9%B7%2C%E7%8E%A9%E5%AE%B6%E5%B7%AE%E8%AF%84%E5%88%B7%E5%B1%8F)
+21. [完美世界停更,帝关战留到年底](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365794&topic_name=%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%E5%81%9C%E6%9B%B4%2C%E5%B8%9D%E5%85%B3%E6%88%98%E7%95%99%E5%88%B0%E5%B9%B4%E5%BA%95)
+22. [CN瓦一号种子天禄遭G2零封](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365726&topic_name=CN%E7%93%A6%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%E5%A4%A9%E7%A6%84%E9%81%ADG2%E9%9B%B6%E5%B0%81)
+23. [各省宝藏泡面,泡面也有限定款](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365745&topic_name=%E5%90%84%E7%9C%81%E5%AE%9D%E8%97%8F%E6%B3%A1%E9%9D%A2%2C%E6%B3%A1%E9%9D%A2%E4%B9%9F%E6%9C%89%E9%99%90%E5%AE%9A%E6%AC%BE)
+24. [吧友手搓AI娘网站,梗图全收录](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365534&topic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95)
+25. [配送50骑手赚2.7,平台抽太狠](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365574&topic_name=%E9%85%8D%E9%80%8150%E9%AA%91%E6%89%8B%E8%B5%9A2.7%2C%E5%B9%B3%E5%8F%B0%E6%8A%BD%E5%A4%AA%E7%8B%A0)
+26. [DeepSeek将参加联合国会议](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE)
+27. [管泽元48分更新电台后秒删](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365492&topic_name=%E7%AE%A1%E6%B3%BD%E5%85%8348%E5%88%86%E6%9B%B4%E6%96%B0%E7%94%B5%E5%8F%B0%E5%90%8E%E7%A7%92%E5%88%A0)
+28. [东京医大改分阻拦女生入学](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6)
+29. [微软申请游戏内插播广告专利](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365502&topic_name=%E5%BE%AE%E8%BD%AF%E7%94%B3%E8%AF%B7%E6%B8%B8%E6%88%8F%E5%86%85%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E4%B8%93%E5%88%A9)
+30. [博主怒斥开屏广告被封禁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365432&topic_name=%E5%8D%9A%E4%B8%BB%E6%80%92%E6%96%A5%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E8%A2%AB%E5%B0%81%E7%A6%81)
