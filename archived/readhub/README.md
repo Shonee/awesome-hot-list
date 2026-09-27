@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-28 04:21:18
+> 更新时间：2026-09-28 05:19:47
 
 ## 24 小时热榜
 
@@ -8,7 +8,7 @@
 2. [AI 门萨智商测试获满分 151 分 超过绝大多数人类](https://readhub.cn/topic/8wki7Ppzr2W?tab=daily)
 3. [OpenAI 承认 AI 智能体未经用户知情将 53 张图片传至公网](https://readhub.cn/topic/8wj8E6gZ5nD?tab=daily)
 4. [Anthropic 推出 Claude Code 收尾额度 额度用完不再中途切断代码](https://readhub.cn/topic/8wjXEIuWErS?tab=daily)
-5. [OpenAI 因 Agent 多次越权逃逸事件暂停相关训练 正全面排查](https://readhub.cn/topic/8wkpz4wDppV?tab=daily)
+5. [OpenAI 因 Agent 多次越权逃逸事件暂停相关训练](https://readhub.cn/topic/8wkpz4wDppV?tab=daily)
 6. [国内首部 AI 超写实院线电影《三星堆：未来往事》定档 2026 年 10 月 23 日](https://readhub.cn/topic/8wkyZBVECci?tab=daily)
 7. [宇树王兴兴回应为何造 390 万元起载人变形机甲：大型机器人是行业趋势](https://readhub.cn/topic/8wk9ozs0Y9l?tab=daily)
 8. [问界新 M8 将于 9 月 30 日开启预售 标配 L3 级自动驾驶架构](https://readhub.cn/topic/8wlH8wenLtd?tab=daily)
@@ -30,8 +30,8 @@
 24. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
 25. [通鼎互联：拟 1 亿元收购南京和本机电 14.2984% 股权](https://readhub.cn/topic/8wlLQYIFkUC?tab=daily)
 26. [竞业达：实控人、董事长钱瑞解除留置](https://readhub.cn/topic/8wlKMdEbnPs?tab=daily)
-27. [到 2030 年规模突破 3000 亿元 浙江全链条打造海洋清洁能源产业集群](https://readhub.cn/topic/8wl6PrX8pNx?tab=daily)
-28. [中科飞测：实控人的一致行动人拟减持不超 0.28% 股份](https://readhub.cn/topic/8wlKMbxhJFv?tab=daily)
+27. [中科飞测：实控人的一致行动人拟减持不超 0.28% 股份](https://readhub.cn/topic/8wlKMbxhJFv?tab=daily)
+28. [到 2030 年规模突破 3000 亿元 浙江全链条打造海洋清洁能源产业集群](https://readhub.cn/topic/8wl6PrX8pNx?tab=daily)
 29. [粤芯半导体：创业板 IPO 网上发行中签率 0.0424%](https://readhub.cn/topic/8wlfngvmvbK?tab=daily)
 30. [波音指出 737 MAX 存在影响着陆导航功能的软件故障](https://readhub.cn/topic/8wkQyLiXcQO?tab=daily)
 
@@ -56,4 +56,4 @@
 7. [答案正确，推理就可靠吗？V-Rubrics 用 35 万条细粒度准则细化多模态强化学习奖励](https://news.qq.com/rain/a/20260927A0BNXZ00)
 8. [黑客盯上 AI「金矿」：盗账号、劫云算力，AI 资源正成为网络犯罪新生意](https://wallstreetcn.com/articles/3782604)
 9. [网红芯片分析师 P Equity 访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及「10 年需求能见度的弥天大谎」](https://wallstreetcn.com/articles/3782602)
-10. [AI 客服比人还会踢皮球，是什么技术原理](https://news.mydrivers.com/1/1154/1154180.htm)
+10. [报道：Anthropic CEO 将与特朗普共进晚餐](https://wallstreetcn.com/livenews/3171083)
