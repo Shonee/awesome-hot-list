@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-09-28 03:17:25
+> 更新时间：2026-09-28 04:21:13
 
 ## 人气热门
 
@@ -57,13 +57,13 @@
 
 ## 精华采撷
 
-1. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
-2. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
-3. [某企业加固dex vmp简单分析](https://www.52pojie.cn/thread-2111432-1-1.html)
-4. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-5. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
-6. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-7. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+1. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+2. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
+3. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
+4. [某企业加固dex vmp简单分析](https://www.52pojie.cn/thread-2111432-1-1.html)
+5. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
+6. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+7. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 8. [cctv视频解密，wasm vmp分析](https://www.52pojie.cn/thread-2094716-1-1.html)
 9. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
 10. [某音 JSVMP bogus纯算](https://www.52pojie.cn/thread-2120914-1-1.html)
