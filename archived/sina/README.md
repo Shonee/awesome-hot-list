@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-28 06:20:12
-
-## 新闻热榜
-
-1. [刘欢离世前曾隐瞒病情，多年前确诊！专家：这个病早期没症状，出现3个信号要警惕](https://news.sina.com.cn/c/2026-09-27/doc-initfxsk0284110.shtml)
-2. [独家解读！中方为何此时发起联合演训？](https://news.sina.com.cn/o/2026-09-27/doc-inithqpy3290687.shtml)
-3. [塞尔维亚总统武契奇发表辞职讲话。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3179889.shtml)
-4. [孙颖莎：下一届亚运会好像在五年后，可能我等不到了](https://news.sina.com.cn/o/2026-09-27/doc-inithqqc4488158.shtml)
-5. [俄罗斯明确反对日本“入常”， 批评日本“正在走军国主义道路” 日右翼破防](https://news.sina.com.cn/w/2026-09-27/doc-inithcxz9483039.shtml)
-6. [无视美国制裁，尼加拉瓜正大量向中企出售黄金矿权](https://news.sina.com.cn/o/2026-09-27/doc-inithkhf4579573.shtml)
-7. [世赛赛场内外 世界目光为何聚焦中国](https://news.sina.com.cn/o/2026-09-27/doc-inithcyi4645134.shtml)
-8. [菲防长发表涉华消极言论，中使馆：罔顾事实、颠倒黑白](https://news.sina.com.cn/o/2026-09-27/doc-inithqqc4469061.shtml)
-9. [特朗普为何安排超高规格礼遇？](https://finance.sina.com.cn/cj/2026-09-27/doc-initfhum9859805.shtml)
-10. [“广州第一芯”  ，中签率公布](https://finance.sina.com.cn/roll/2026-09-27/doc-inithqqc4473591.shtml)
-11. [暗盘白银突破58美元/盎司，日内涨幅0.2%。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3151294.shtml)
-12. [一枪下班！18岁严子怡第一掷70米46打破亚运纪录，夺女子标枪金牌](https://news.sina.com.cn/c/2026-09-27/doc-inithqpy3310584.shtml)
-13. [英国警方：我们认为费尔福德基地爆炸物事件已得到控制。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3170471.shtml)
-14. [白宫前新闻秘书爆料：特朗普曾跑到英国“教训”斯塔默，后者只是坐在那里](https://news.sina.com.cn/w/2026-09-27/doc-inithkha3369332.shtml)
-15. [陈妤颉：100米金牌是成年礼，200米银牌是教训](https://news.sina.com.cn/o/2026-09-27/doc-inithkhf4581298.shtml)
-16. [塞尔维亚总统武契奇宣布辞职](https://news.sina.com.cn/w/2026-09-28/doc-inithzcr9132982.shtml)
-17. [视频画报｜习近平主席的华盛顿时间：继往开来万里行](https://news.sina.com.cn/c/xl/2026-09-27/doc-inithqpv9307646.shtml)
-18. [德国外长表示，与拉夫罗夫的会晤是出于俄罗斯安全担忧的驱动。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3167380.shtml)
-19. [在多年大举买入之后，美股散户交易者似乎正转向观望](https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-inithuvy0010360.shtml)
-20. [泽连斯基称俄罗斯袭击乌克兰数据中心](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcv9915484.shtml)
-
-## 财经热榜
-
-1. [塞尔维亚总统武契奇发表辞职讲话。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3179889.shtml)
-2. [暗盘白银突破58美元/盎司，日内涨幅0.2%。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3151294.shtml)
-3. [途家：中秋国庆宝藏小城民宿预订量同比增长超三成](https://finance.sina.com.cn/7x24/2026-09-27/doc-initftkk3565912.shtml)
-4. [努比亚NaviX Ultra玩王者荣耀被强制踢下线，豆包手机助手致歉](https://finance.sina.com.cn/7x24/2026-09-27/doc-initftkn0371346.shtml)
-5. [黄仁勋在纽约时报的访谈，推荐每个人看一遍](https://finance.sina.com.cn/stock/2026-09-27/doc-initfxsm4756941.shtml)
-6. [欧洲内政部长讨论加强边境管控](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithqpy3283186.shtml)
-7. [中科飞测：实控人的一致行动人拟减持不超0.28%股份](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithcye3419474.shtml)
-8. [英国警方：我们认为费尔福德基地爆炸物事件已得到控制。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3170471.shtml)
-9. [安徽建工：副董事长龚健勇代行董事长职责](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithkha3364925.shtml)
-10. [特朗普：英国的逮捕行动太棒了。](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithuvw3232933.shtml)
-11. [普华永道不认错却掏10亿，证监会：这钱不还恒大债](https://finance.sina.com.cn/stock/companyt/2026-09-27/doc-initfhut5005755.shtml)
-12. [西安一金店摆放2米多长金箍棒，一口价428.8万元](https://finance.sina.com.cn/roll/2026-09-27/doc-inithcxz9489147.shtml)
-13. [伊朗捕获第2艘美军无人潜航器](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithkhe0165113.shtml)
-14. [问界汽车：问界新M8将于9月30日开启预售。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initfxsh3519692.shtml)
-15. [（爱知·名古屋亚运会）综合消息：中国代表团破“百金”  中国男足时隔28年再进亚运四强](https://finance.sina.com.cn/roll/2026-09-27/doc-initerwy0716544.shtml)
-16. [伊朗外长: 霍尔木兹海峡开放取决于伊方条件是否满足](https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfanp9970318.shtml)
-17. [英国警方就费尔福德空军基地事件发表声明：已在英国皇家空军费尔福德基地附近逮捕5名男子。](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithqpy3307964.shtml)
-18. [前8月霍尔果斯口岸进出口货运量3122.9万吨](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithkha3389268.shtml)
-19. [视频丨九天揽月、向海筑能！本周我国多项硬核工程接连突破](https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfhut5004387.shtml)
-20. [护士在岗突发脑出血，抢救10天去世，人社部门：抢救超48小时，不认定工伤](https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfpan3637513.shtml)
+> 更新时间：2026-09-28 06:24:35
 
 ## 7x24
 
@@ -89,4 +43,3 @@
 37. [伊朗代表团消息人士称，伊朗驻纽约代表团并无与美国举行新一轮谈判的计划，目前正等待美方对上周二经由卡塔尔传递的方案作出回应；伊朗外长阿拉格齐完成既定行程后将于周二离开纽约。](https://wap.cj.sina.cn/pc/7x24/5115006)
 38. [【法国极右翼政党国民联盟称首次达到在参议院组建党团门槛】当地时间9月27日，法国举行参议院部分改选，参议院348个席位中共有178席进行换届，1686名候选人参选。这是法国2027年总统选举前举行的最后一次全国性选举。截至27日晚公布的首批结果，法国国民联盟主席巴尔代拉表示，该党预计将可以和共和国右翼联盟一起获得至少10个参议员席位，从而首次达到在参议院组建党团所需的门槛。最终席位分布仍有待全部计票结果确认。（央视新闻）](https://finance.sina.cn/7x24/2026-09-28/detail-initifms3086970.d.html)
 39. [悉尼早盘交易中，美元兑G10主要货币汇率保持稳定。](https://finance.sina.cn/7x24/2026-09-28/detail-initifmt9858191.d.html)
-40. [市场资讯：多家大型国际银行已向瑞银集团发出信号，表示对潜在合并有兴趣。](https://finance.sina.cn/7x24/2026-09-28/detail-initifmt9856528.d.html)
