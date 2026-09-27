@@ -1,14 +1,14 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-28 02:25:37
+> 更新时间：2026-09-28 03:17:35
 
 ## 热新闻
 
 1. [山西一景区3000万元招NPC，是话题营销还是突围之计？澎湃记者实地调查](https://www.thepaper.cn/newsDetail_forward_34149469)
 2. [世赛完赛时刻：一群二十出头青年的笑和泪](https://www.thepaper.cn/newsDetail_forward_34157509)
 3. [王曼昱夺得亚运乒乓球女单金牌，孙颖莎银牌](https://www.thepaper.cn/newsDetail_forward_34161501)
-4. [雷佳悼念刘欢：对一位音乐人最好的怀念，就是他的歌还会被一代代人唱起](https://www.thepaper.cn/newsDetail_forward_34159489)
-5. [吴艳妮：三年前没有成绩，三年后站上领奖台，你就是最棒的](https://www.thepaper.cn/newsDetail_forward_34161493)
+4. [吴艳妮：三年前没有成绩，三年后站上领奖台，你就是最棒的](https://www.thepaper.cn/newsDetail_forward_34161493)
+5. [雷佳悼念刘欢：对一位音乐人最好的怀念，就是他的歌还会被一代代人唱起](https://www.thepaper.cn/newsDetail_forward_34159489)
 6. [马上评丨4岁男童坠楼致残，临时照看的朋友该担何责](https://www.thepaper.cn/newsDetail_forward_34159796)
 7. [大熊猫“平平”“福双”已启程赴美](https://www.thepaper.cn/newsDetail_forward_34158849)
 8. [言短意长｜隧道通车承诺两次落空，“徙木立信”值得重提](https://www.thepaper.cn/newsDetail_forward_34160576)
@@ -22,5 +22,5 @@
 16. [言短意长丨“48小时”不能成为放弃抢救的倒计时](https://www.thepaper.cn/newsDetail_forward_34161020)
 17. [直播丨第48届世界技能大赛闭幕式](https://www.thepaper.cn/newsDetail_forward_34155702)
 18. [大熊猫“平平”“福双”抵达美国](https://www.thepaper.cn/newsDetail_forward_34161119)
-19. [视频丨中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训](https://www.thepaper.cn/newsDetail_forward_34160296)
-20. [考虑重新采购F-16战机，美空军为何想吃“回头草”？](https://www.thepaper.cn/newsDetail_forward_34126108)
+19. [菲防长发表涉华消极言论，中使馆：罔顾事实、颠倒黑白](https://www.thepaper.cn/newsDetail_forward_34161486)
+20. [视频丨中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训](https://www.thepaper.cn/newsDetail_forward_34160296)

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-28 02:25:36
+> 更新时间：2026-09-28 03:17:32
 
 ## 24 小时热榜
 
@@ -18,21 +18,21 @@
 12. [世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量交付](https://readhub.cn/topic/8wlkRC30uRv?tab=daily)
 13. [开发者打造第三方工具让 AMD 显卡运行 DLSS 5，一日两更性能暴涨 74%](https://readhub.cn/topic/8wklhKIQSOj?tab=daily)
 14. [OpenAI 通知数十家机构 其网站或受 AI 模型评估干扰](https://readhub.cn/topic/8wiwn0V6sBl?tab=daily)
-15. [特朗普称人工智能更应被称为「超级智能」](https://readhub.cn/topic/8wk9ot3LpTe?tab=daily)
-16. [奇瑞 QQ 系列未断代 探讨从爆款向经典升级路径](https://readhub.cn/topic/8wjqtu7LcfC?tab=daily)
+15. [奇瑞 QQ 系列未断代 探讨从爆款向经典升级路径](https://readhub.cn/topic/8wjqtu7LcfC?tab=daily)
+16. [特朗普称人工智能更应被称为「超级智能」](https://readhub.cn/topic/8wk9ot3LpTe?tab=daily)
 17. [蔚来李斌：全国 4125 座换电站已组成 8GWh 储能网](https://readhub.cn/topic/8wlbrIbWu9v?tab=daily)
 18. [高盛：六大科技巨头需创收 1.42 万亿美元以达 AI 算力 15% 年化 ROIC](https://readhub.cn/topic/8wjPMun6TV5?tab=daily)
 19. [诺和诺德与 Anthropic 合作 巨头加码 AI 制药领域](https://readhub.cn/topic/8wki7UOiKao?tab=daily)
 20. [伦敦希思罗机场第三条跑道建成时间将推迟至 2039 年](https://readhub.cn/topic/8wjuoFvu0nl?tab=daily)
 21. [Vitalik 发布 2030 愿景：重塑以太坊成为通用计算层](https://readhub.cn/topic/8wlZ0E35Tdl?tab=daily)
-22. [我国启动研制商业航天育种专用卫星](https://readhub.cn/topic/8wl4e0ubQPR?tab=daily)
-23. [新能源摩托车加速出海，两轮制造升级为智能终端](https://readhub.cn/topic/8wjJekWyIGs?tab=daily)
-24. [涉 5 起事故含 3 死，Comma.ai 遭美国国家公路交通安全管理局调查](https://readhub.cn/topic/8wkpz2WLd9P?tab=daily)
+22. [新能源摩托车加速出海，两轮制造升级为智能终端](https://readhub.cn/topic/8wjJekWyIGs?tab=daily)
+23. [涉 5 起事故含 3 死，Comma.ai 遭美国国家公路交通安全管理局调查](https://readhub.cn/topic/8wkpz2WLd9P?tab=daily)
+24. [我国启动研制商业航天育种专用卫星](https://readhub.cn/topic/8wl4e0ubQPR?tab=daily)
 25. [海思科：创新药 HSK42360-Na 片纳入突破性治疗药物程序](https://readhub.cn/topic/8wlLnWGPkmo?tab=daily)
 26. [恩捷股份：拟 11.5 亿元收购湖北恩捷 45% 股权](https://readhub.cn/topic/8wlOenJm6gA?tab=daily)
-27. [二手船比新船贵 1500 万美元 买家争抢现货运力](https://readhub.cn/topic/8wlcwO0KdVi?tab=daily)
-28. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
-29. [长安汽车成立 AD 协同发展部 阿维塔与深蓝开启实质整合](https://readhub.cn/topic/8wlgrTvqrk6?tab=daily)
+27. [长安汽车成立 AD 协同发展部 阿维塔与深蓝开启实质整合](https://readhub.cn/topic/8wlgrTvqrk6?tab=daily)
+28. [二手船比新船贵 1500 万美元 买家争抢现货运力](https://readhub.cn/topic/8wlcwO0KdVi?tab=daily)
+29. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
 30. [通鼎互联：拟 1 亿元收购南京和本机电 14.2984% 股权](https://readhub.cn/topic/8wlLQYIFkUC?tab=daily)
 
 ## 每日早报
