@@ -1,51 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-28 02:25:44
-
-## 新闻热榜
-
-1. [美联储哈玛克：美联储会留意金融状况，但货币政策的决定权在美联储。](https://finance.sina.com.cn/7x24/2026-09-26/doc-initatfm7350076.shtml)
-2. [刘欢离世前曾隐瞒病情，多年前确诊！专家：这个病早期没症状，出现3个信号要警惕](https://news.sina.com.cn/c/2026-09-27/doc-initfxsk0284110.shtml)
-3. [暗盘白银突破58美元/盎司，日内涨幅0.2%。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3151294.shtml)
-4. [独家解读！中方为何此时发起联合演训？](https://news.sina.com.cn/o/2026-09-27/doc-inithqpy3290687.shtml)
-5. [孙颖莎：下一届亚运会好像在五年后，可能我等不到了](https://news.sina.com.cn/o/2026-09-27/doc-inithqqc4488158.shtml)
-6. [无视美国制裁，尼加拉瓜正大量向中企出售黄金矿权](https://news.sina.com.cn/o/2026-09-27/doc-inithkhf4579573.shtml)
-7. [俄罗斯明确反对日本“入常”， 批评日本“正在走军国主义道路” 日右翼破防](https://news.sina.com.cn/w/2026-09-27/doc-inithcxz9483039.shtml)
-8. [世赛赛场内外 世界目光为何聚焦中国](https://news.sina.com.cn/o/2026-09-27/doc-inithcyi4645134.shtml)
-9. [菲防长发表涉华消极言论，中使馆：罔顾事实、颠倒黑白](https://news.sina.com.cn/o/2026-09-27/doc-inithqqc4469061.shtml)
-10. [“广州第一芯”  ，中签率公布](https://finance.sina.com.cn/roll/2026-09-27/doc-inithqqc4473591.shtml)
-11. [特朗普为何安排超高规格礼遇？](https://finance.sina.com.cn/cj/2026-09-27/doc-initfhum9859805.shtml)
-12. [陈妤颉：100米金牌是成年礼，200米银牌是教训](https://news.sina.com.cn/o/2026-09-27/doc-inithkhf4581298.shtml)
-13. [一枪下班！18岁严子怡第一掷70米46打破亚运纪录，夺女子标枪金牌](https://news.sina.com.cn/c/2026-09-27/doc-inithqpy3310584.shtml)
-14. [双色球头奖6注721万分落6地 奖池余额9.72亿元](https://sports.sina.com.cn/l/2026-09-27/doc-inithuvz4365636.shtml)
-15. [白宫前新闻秘书爆料：特朗普曾跑到英国“教训”斯塔默，后者只是坐在那里](https://news.sina.com.cn/w/2026-09-27/doc-inithkha3369332.shtml)
-16. [视频画报｜习近平主席的华盛顿时间：继往开来万里行](https://news.sina.com.cn/c/xl/2026-09-27/doc-inithqpv9307646.shtml)
-17. [泽连斯基称俄罗斯袭击乌克兰数据中心](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcv9915484.shtml)
-18. [河南一技校101名毕业生入职北大](https://finance.sina.com.cn/wm/2026-09-27/doc-inithqpv9310442.shtml)
-19. [中国环境与发展国际合作委员会2026年年会在京开幕](https://finance.sina.com.cn/wm/2026-09-28/doc-inithzcx4272721.shtml)
-
-## 财经热榜
-
-1. [那英演唱会上临时加唱《弯弯的月亮》致敬刘欢](https://finance.sina.com.cn/roll/2026-09-27/doc-initfhum9858419.shtml)
-2. [英超、德甲、西甲、意甲联赛发表联合声明](https://finance.sina.com.cn/wm/2026-09-27/doc-initftkn0310163.shtml)
-3. [特朗普称已拒绝伊朗提出的霍尔木兹海峡协议 胡塞武装袭击利雅得](https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initerww3927998.shtml)
-4. [301122，筹划重要收购！近期股价飙升](https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfpai9747525.shtml)
-5. [河南女子结婚9年后在喜褥里发现一对缠红线的棉花小人：婆婆说是美好祝福，现在儿女双全，会好好保存](https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfxsc9589464.shtml)
-6. [习近平主席访美难忘瞬间意义深远](https://finance.sina.com.cn/stock/marketresearch/2026-09-27/doc-inithcye3459938.shtml)
-7. [伊拉克政府：伊拉克与美国达成共识，将继续运送现金美元。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerww3933495.shtml)
-8. [英超“世纪财务案”迎关键裁定：曼城据报几乎全线败诉 处罚悬念待解](https://finance.sina.com.cn/roll/2026-09-27/doc-initfanv5111441.shtml)
-9. [前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中](https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml)
-10. [俄外长：西方为遏制俄罗斯而摧毁欧洲安全体系](https://finance.sina.com.cn/7x24/2026-09-27/doc-initeweu3829885.shtml)
-11. [鸿蒙智行：问界仍然是成员之一](https://finance.sina.com.cn/roll/2026-09-27/doc-inithcyh0229686.shtml)
-12. [嘉陵江特大桥顺利合龙 阆中至营山通勤将缩至40分钟](https://finance.sina.com.cn/7x24/2026-09-27/doc-initftkn0301319.shtml)
-13. [黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量](https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-inithcye3418857.shtml)
-14. [伯纳姆回应痴呆症税相关提问时表示，不排除任何选项。](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithcye3439579.shtml)
-15. [中国移动、中国电信、中国联通，集中叫停！](https://finance.sina.com.cn/roll/2026-09-27/doc-initfhuq3691183.shtml)
-16. [加码“追光”！001267，子公司拟扩充光模块产能](https://finance.sina.com.cn/stock/marketresearch/2026-09-27/doc-inithqpy3298356.shtml)
-17. [滹沱河供水工程正式向太原市供水 年引水能力可达3000万立方米](https://finance.sina.com.cn/7x24/2026-09-27/doc-initfpan3639098.shtml)
-18. [伊朗革命卫队海军称在霍尔木兹海峡捕获一艘美国自主水下航行器。](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithkha3378353.shtml)
-19. [欧晶科技：子公司以9715.12万元竞得银川厂房资产](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithqpy3280351.shtml)
-20. [主播说联播丨不止摘金夺银！他们的锐气、坚持和微笑，令人动容](https://finance.sina.com.cn/jjxw/2026-09-26/doc-initerwu0157850.shtml)
+> 更新时间：2026-09-28 02:30:43
 
 ## 7x24
 
@@ -87,8 +42,3 @@
 36. [比尔·盖茨谈及爱泼斯坦时表示：我在与爱泼斯坦会面后，他告诉我，他可以帮助为全球健康事业筹集数十亿美元。他不收取任何报酬，也不会担任任何职务。 事实证明这完全是条死胡同。我和许多人一样，与他交往反而在某种程度上帮他提升了声誉。对此我感到非常遗憾。](https://finance.sina.cn/7x24/2026-09-27/detail-inithuvw3252975.d.html)
 37. [特朗普出席在芝加哥梅迪纳乡村俱乐部举行的总统杯高尔夫球赛。](https://finance.sina.cn/7x24/2026-09-27/detail-inithuvy0024348.d.html)
 38. [美国警方称，密歇根州底特律市西侧发生枪击事件，已造成至少3人死亡、4人受伤。](https://finance.sina.cn/7x24/2026-09-27/detail-inithuvy0024183.d.html)
-39. [特朗普将宴请Anthropic首席执行官阿莫迪共进私人晚宴。](https://finance.sina.cn/7x24/2026-09-27/detail-inithuvw3249293.d.html)
-40. [美国驻联合国大使迈克·沃尔茨谈及伊朗时表示：他们为什么要袭击国际航运？有146个国家加入了我们对伊朗袭击民用船只行为的谴责，这创下了联合国的纪录。你不能因为自己是冲突的一方，就向民用船只开火，就像你不能击落民用客机一样。伊朗正遭到全世界的谴责，而且他们全面违反了国际法。](https://finance.sina.cn/7x24/2026-09-27/detail-inithuvy0021610.d.html)
-41. [特朗普：伊朗人想达成协议，但那不是我想要的协议，而且我们大概一年前就会同意那个协议了。](https://finance.sina.cn/7x24/2026-09-27/detail-inithuvw3248959.d.html)
-42. [美国财长贝森特谈及伊朗：伊朗方面表示，如果达成协议，他们将开放海峡。现在海峡已经开放了。](https://finance.sina.cn/7x24/2026-09-27/detail-inithuvw3248344.d.html)
-43. [特朗普：自战争爆发以来，上周末通过霍尔木兹海峡的石油量达到最大规模。](https://finance.sina.cn/7x24/2026-09-27/detail-inithuvy0020802.d.html)
