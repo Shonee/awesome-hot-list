@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-09-28 00:31:33
+> 更新时间：2026-09-28 04:30:06
 
 ## 热门主题
 
@@ -9,5 +9,5 @@
 3. [重置已收到，但是 X 上看了评论。。。](https://www.v2ex.com/t/1244965)
 4. [各位大佬，请问怎么才能用上 Claude？](https://www.v2ex.com/t/1244970)
 5. [muse 注册非常丝滑，正常注册就行！](https://www.v2ex.com/t/1245031)
-6. [Claude 这波操作给我整不会了](https://www.v2ex.com/t/1244968)
-7. [屌爆了，一句话使用 Opus5.5 制作了一个开源项目 StrokeMouse 宣传片，附提示词](https://www.v2ex.com/t/1244972)
+6. [新款 Apple Watch 的设计太离谱了吧](https://www.v2ex.com/t/1245062)
+7. [Claude 这波操作给我整不会了](https://www.v2ex.com/t/1244968)
