@@ -1,51 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-28 04:21:26
-
-## 新闻热榜
-
-1. [刘欢离世前曾隐瞒病情，多年前确诊！专家：这个病早期没症状，出现3个信号要警惕](https://news.sina.com.cn/c/2026-09-27/doc-initfxsk0284110.shtml)
-2. [塞尔维亚总统武契奇发表辞职讲话。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3179889.shtml)
-3. [孙颖莎：下一届亚运会好像在五年后，可能我等不到了](https://news.sina.com.cn/o/2026-09-27/doc-inithqqc4488158.shtml)
-4. [独家解读！中方为何此时发起联合演训？](https://news.sina.com.cn/o/2026-09-27/doc-inithqpy3290687.shtml)
-5. [暗盘白银突破58美元/盎司，日内涨幅0.2%。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3151294.shtml)
-6. [俄罗斯明确反对日本“入常”， 批评日本“正在走军国主义道路” 日右翼破防](https://news.sina.com.cn/w/2026-09-27/doc-inithcxz9483039.shtml)
-7. [无视美国制裁，尼加拉瓜正大量向中企出售黄金矿权](https://news.sina.com.cn/o/2026-09-27/doc-inithkhf4579573.shtml)
-8. [英国警方：我们认为费尔福德基地爆炸物事件已得到控制。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3170471.shtml)
-9. [世赛赛场内外 世界目光为何聚焦中国](https://news.sina.com.cn/o/2026-09-27/doc-inithcyi4645134.shtml)
-10. [菲防长发表涉华消极言论，中使馆：罔顾事实、颠倒黑白](https://news.sina.com.cn/o/2026-09-27/doc-inithqqc4469061.shtml)
-11. [“广州第一芯”  ，中签率公布](https://finance.sina.com.cn/roll/2026-09-27/doc-inithqqc4473591.shtml)
-12. [特朗普为何安排超高规格礼遇？](https://finance.sina.com.cn/cj/2026-09-27/doc-initfhum9859805.shtml)
-13. [德国外长表示，与拉夫罗夫的会晤是出于俄罗斯安全担忧的驱动。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3167380.shtml)
-14. [一枪下班！18岁严子怡第一掷70米46打破亚运纪录，夺女子标枪金牌](https://news.sina.com.cn/c/2026-09-27/doc-inithqpy3310584.shtml)
-15. [陈妤颉：100米金牌是成年礼，200米银牌是教训](https://news.sina.com.cn/o/2026-09-27/doc-inithkhf4581298.shtml)
-16. [白宫前新闻秘书爆料：特朗普曾跑到英国“教训”斯塔默，后者只是坐在那里](https://news.sina.com.cn/w/2026-09-27/doc-inithkha3369332.shtml)
-17. [视频画报｜习近平主席的华盛顿时间：继往开来万里行](https://news.sina.com.cn/c/xl/2026-09-27/doc-inithqpv9307646.shtml)
-18. [泽连斯基称俄罗斯袭击乌克兰数据中心](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcv9915484.shtml)
-19. [双色球头奖6注721万分落6地 奖池余额9.72亿元](https://sports.sina.com.cn/l/2026-09-27/doc-inithuvz4365636.shtml)
-
-## 财经热榜
-
-1. [塞尔维亚总统武契奇发表辞职讲话。](https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcu3179889.shtml)
-2. [利好来了！多家A股公司，披露算力大单](https://finance.sina.com.cn/roll/2026-09-27/doc-initftkk3524180.shtml)
-3. [埃及：埃及正努力推动小麦进口来源多元化。](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithkha3340176.shtml)
-4. [利比亚主要输油管道恢复输送原油](https://finance.sina.com.cn/7x24/2026-09-27/doc-initfpan3644845.shtml)
-5. [美国能源部长表示：美军正协助石油、天然气和化肥通过霍尔木兹海峡。每天有将近1300万桶石油经由霍尔木兹海峡运输。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initfxsk0268988.shtml)
-6. [金浦钛业：累计被冻结资金1153.10万元 较前次减少65.66万元](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithcye3419440.shtml)
-7. [淄博市具身智能机器人训练场投用](https://finance.sina.com.cn/7x24/2026-09-27/doc-initftkn0370453.shtml)
-8. [北方国际：与北方矿业存在业务协同，但不存在同业竞争关系](https://finance.sina.com.cn/7x24/2026-09-27/doc-initftkk3535707.shtml)
-9. [特朗普拟废除拜登时代的汽车燃油经济性标准](https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfanu0546574.shtml)
-10. [俄罗斯外交部长拉夫罗夫：安理会约一年前批准了加沙地带和平计划，但和平尚未实现。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerwy0688424.shtml)
-11. [阿玛尼将与路威酩轩（LVMH）、欧莱雅（L'Oréal）开启股权出售谈判。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initftkk3569987.shtml)
-12. [中秋假期最后一天 多地迎来返程客流高峰](https://finance.sina.com.cn/7x24/2026-09-27/doc-initfxsh3502881.shtml)
-13. [俄罗斯外交部长拉夫罗夫：美国摧毁了欧洲安全体系，并在乌克兰建立了一个反俄政权。](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerwy0690519.shtml)
-14. [多家基金秋季策略会，对四季度市场保持乐观](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithcyh0199041.shtml)
-15. [拉夫罗夫联大提议波斯湾集体安全框架，主张推动巴勒斯坦建国](https://finance.sina.com.cn/7x24/2026-09-27/doc-initerwy0706865.shtml)
-16. [2连板康强电子：原材料成本对公司营业收入影响较大](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithcye3468456.shtml)
-17. [泽连斯基：许多情报机构掌握的信息显示，俄罗斯想要扩大冲突，将波及更多国家。也许是其他地区。这就是为什么我们需要共同防御，预防性地](https://finance.sina.com.cn/7x24/2026-09-27/doc-initewew0598689.shtml)
-18. [下周影响市场重要资讯前瞻：9月PMI数据即将公布，四家公司解禁市值均超百亿元，下周A股仅3个交易日！](https://finance.sina.com.cn/stock/marketresearch/2026-09-27/doc-inithcxz9489029.shtml)
-19. [许昱华当选国际棋联副主席](https://finance.sina.com.cn/7x24/2026-09-27/doc-inithkhe0169823.shtml)
-20. [俄外长说必须解决巴勒斯坦建国问题](https://finance.sina.com.cn/7x24/2026-09-27/doc-initftkk3571218.shtml)
+> 更新时间：2026-09-28 04:24:58
 
 ## 7x24
 
