@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-29 00:30:15
-
-## 新闻热榜
-
-1. [高铁集中上新！四条新线今日开通](https://news.sina.com.cn/c/2026-09-28/doc-initimtq3031452.shtml)
-2. [被俄外长在联合国大会点名，日本心虚](https://news.sina.com.cn/w/2026-09-28/doc-initirzr3968412.shtml)
-3. [教育部原党组成员、副部长鲁昕被查](https://news.sina.com.cn/zx/2026-09-28/doc-initiwik2953468.shtml)
-4. [演员佘诗曼食物中毒，体重跌破90斤](https://news.sina.com.cn/s/2026-09-28/doc-initirzn2968805.shtml)
-5. [武契奇辞去塞尔维亚总统职务 准备竞选下届政府总理](https://news.sina.com.cn/w/2026-09-28/doc-initimtr9809822.shtml)
-6. [北京汽车集团有限公司原党委书记、董事长徐和谊受贿、洗钱案一审宣判](https://news.sina.com.cn/o/2026-09-28/doc-initiwip3938867.shtml)
-7. [中美八点成果共识传递重大信号](https://finance.sina.com.cn/roll/2026-09-28/doc-initimtt4095328.shtml)
-8. [塞尔维亚总统武契奇宣布辞职](https://news.sina.com.cn/w/2026-09-28/doc-inithzcr9132982.shtml)
-9. [军费远超法国、印度的沙特，为何被胡塞逼到如此境地？](https://news.sina.com.cn/w/2026-09-28/doc-initirzr3997421.shtml)
-10. [突发！苹果崩了](https://news.sina.com.cn/zx/2026-09-28/doc-initkarh2962327.shtml)
-11. [[新浪彩票]足彩第26134期任九：罗马尼亚坐和望赢](https://sports.sina.com.cn/l/2026-09-28/doc-initiwif8744923.shtml)
-12. [商务部美大司负责人解读第八轮中美经贸磋商成果](https://news.sina.com.cn/c/2026-09-28/doc-initirzn2987018.shtml)
-13. [国乒提前锁定男单冠亚军 林诗栋王楚钦会师决赛](https://news.sina.com.cn/2026-09-28/doc-initkhxe2904658.shtml)
-14. [大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实](https://news.sina.com.cn/gov/xlxw/2026-09-28/doc-initiwik2907510.shtml)
-15. [[新浪彩票]足彩第26134期大势：瑞典主场不败](https://sports.sina.com.cn/l/2026-09-28/doc-initiwif8740950.shtml)
-16. [辞职当天，武契奇两度谈中国：铁杆友谊超越任期](https://news.sina.com.cn/c/2026-09-28/doc-initkari9688603.shtml)
-17. [操盘必读：影响股市利好或利空消息_2026年9月28日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-28/doc-initirzi8817303.shtml)
-18. [太紧急了，沙特向多国求援！后果会怎样？](https://news.sina.com.cn/w/2026-09-28/doc-initirzn2997026.shtml)
-19. [教育“虎”被查，任学会会长多年](https://news.sina.com.cn/c/2026-09-28/doc-initkpex8566663.shtml)
-20. [以色列激烈回应荷兰进口禁令：7天内将会撤销荷兰在约旦河西岸的外交官认证](https://news.sina.com.cn/w/2026-09-28/doc-initkhxf9733399.shtml)
-
-## 财经热榜
-
-1. [中美八点成果共识传递重大信号](https://finance.sina.com.cn/roll/2026-09-28/doc-initimtt4095328.shtml)
-2. [操盘必读：影响股市利好或利空消息_2026年9月28日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-28/doc-initirzi8817303.shtml)
-3. [段永平发帖称再度买入贵州茅台 今年以来茅台股价已跌超7%](https://finance.sina.com.cn/stock/observe/2026-09-28/doc-initkhwz8590112.shtml)
-4. [中美经贸关系走向如何？看经济第一大省的实践答案](https://finance.sina.com.cn/roll/2026-09-28/doc-initimtt4093717.shtml)
-5. [连续三天，人民日报“金轩”发文 主题涉及北斗、生物制造、智能经济](https://finance.sina.com.cn/roll/2026-09-28/doc-initiwim9651514.shtml)
-6. [“持股过节”成机构主流建议 科技仍是市场中期主线](https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-09-28/doc-initirzi8807329.shtml)
-7. [突破百万台在即，机器人细分赛道，高歌猛进！12股获融资客加仓](https://finance.sina.com.cn/stock/roll/2026-09-28/doc-initirzi8820824.shtml)
-8. [国际油价拉升，布油涨破98美元，黄金白银齐跌，加密货币近7万人爆仓，伊朗称已为与美战事重开做好准备](https://finance.sina.com.cn/stock/roll/2026-09-28/doc-initirzp9691912.shtml)
-9. [金价回落叠加节日促销 黄金零售市场迎来消费旺季](https://finance.sina.com.cn/money/nmetal/gjshz/2026-09-28/doc-initimtq3039791.shtml)
-10. [一男子拾荒21年，被救助时账户竟有42万元养老金：当过国企工人，下岗后一直未缴以为领不到](https://finance.sina.com.cn/roll/2026-09-28/doc-initirzr4006648.shtml)
-11. [A股突变！全天跳水大跌 背后四大原因曝光](https://finance.sina.com.cn/stock/marketresearch/2026-09-28/doc-initkpex8523995.shtml)
-12. [人民日报：资本越有耐心，产业越有耐力](https://finance.sina.com.cn/china/2026-09-28/doc-initkhwz8630772.shtml)
-13. [AI浪潮下“烧钱”堆算力 中美科技巨头资本逻辑迥异](https://finance.sina.com.cn/jjxw/2026-09-28/doc-initifmv4171620.shtml)
-14. [财经早报丨央行例会措辞变化释放什么信号 OpenAI暂停最新一代模型训练丨2026年9月28日](https://finance.sina.com.cn/stock/y/2026-09-28/doc-initirzr3985079.shtml)
-15. [安徽建工董事长杨善斌辞任公司全部职务，此前已被查](https://finance.sina.com.cn/jjxw/2026-09-28/doc-initirzn2927841.shtml)
-16. [习近平主席访美，细节都在这篇纪实里](https://finance.sina.com.cn/roll/2026-09-28/doc-initkarm3864306.shtml)
-17. [欧洲人发现，中国车真香](https://finance.sina.com.cn/jjxw/2026-09-28/doc-initiwik3011991.shtml)
-18. [中美“二战盟友”共识重挫“台独”](https://finance.sina.com.cn/roll/2026-09-28/doc-initirzp9690901.shtml)
-19. [今日视点：三方面协同发力 将账户实名制落到实处](https://finance.sina.com.cn/jjxw/2026-09-28/doc-initimtq3037598.shtml)
-20. [股海导航_2026年9月28日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-09-28/doc-initirzn2922206.shtml)
+> 更新时间：2026-09-29 00:32:13
 
 ## 7x24
 
