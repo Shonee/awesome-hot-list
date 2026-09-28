@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-29 02:29:19
+> 更新时间：2026-09-29 03:19:28
 
 ## 热新闻
 
@@ -18,9 +18,9 @@
 12. [体育总局局长高志丹：亚运会部分传统优势项目成绩不及预期，暴露出在人才厚度等方面的短板](https://www.thepaper.cn/newsDetail_forward_34163349)
 13. [美国公司史上最大回购！英伟达新增1500亿美元股票回购授权，总额达2350亿美元](https://www.thepaper.cn/newsDetail_forward_34166466)
 14. [经纬度：从世赛青年身上，何以看见中国未来？](https://www.thepaper.cn/newsDetail_forward_34163209)
-15. [商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况](https://www.thepaper.cn/newsDetail_forward_34163782)
-16. [武契奇宣布辞职，“没有那把交椅，我们也能赢”](https://www.thepaper.cn/newsDetail_forward_34162969)
+15. [武契奇宣布辞职，“没有那把交椅，我们也能赢”](https://www.thepaper.cn/newsDetail_forward_34162969)
+16. [商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况](https://www.thepaper.cn/newsDetail_forward_34163782)
 17. [涉对等降税、中美直航等，商务部解读第八轮中美经贸磋商成果](https://www.thepaper.cn/newsDetail_forward_34163088)
-18. [【社论】密集上新，中国高铁加速“织线成网”](https://www.thepaper.cn/newsDetail_forward_34164076)
-19. [全球前瞻｜美国对加拿大产品新进口禁令本周生效，日本前外相率团访华](https://www.thepaper.cn/newsDetail_forward_34163502)
-20. [总结男团丢金，王楚钦：国乒永远抱着必胜的心态去比赛](https://www.thepaper.cn/newsDetail_forward_34166736)
+18. [总结男团丢金，王楚钦：国乒永远抱着必胜的心态去比赛](https://www.thepaper.cn/newsDetail_forward_34166736)
+19. [鲁昕被查，教育部党组：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34166724)
+20. [【社论】密集上新，中国高铁加速“织线成网”](https://www.thepaper.cn/newsDetail_forward_34164076)
