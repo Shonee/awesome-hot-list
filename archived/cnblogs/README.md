@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-28 07:19:12
+> 更新时间：2026-09-28 09:03:36
 
 ## 最新帖子
 
-1. [Java中不容拒绝的一种优雅的写法](https://www.cnblogs.com/xiexj/p/23137129)
-2. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
-3. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
-4. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
-5. [并发编程（五）：Atomic——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23115900)
-6. [先让程序开口说话：为什么把人机交互放在最前面](https://www.cnblogs.com/zw-awa/p/23133434)
-7. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
-8. [在笔记本上自制多模态小语言模型指南](https://www.cnblogs.com/duoia/p/23134279)
-9. [B站首页，点击视频卡片之后首页自动刷新的问题](https://www.cnblogs.com/Reisentyan/p/23132967)
-10. [AGENTS.md：Agent 的上下文策略层](https://www.cnblogs.com/chenmijiang/p/23132313)
-11. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
-12. [当 AI Agent 遇到 Nacos：OpenClaw.NET 集成入门](https://www.cnblogs.com/shanyou/p/23130581)
-13. [【FHE】（十一）：密文链协议——两条不变式，和 112 与 2100 的分工](https://www.cnblogs.com/haliuhome/p/23130579)
-14. [检测数据异常值的五种统计技术](https://www.cnblogs.com/wang_yb/p/23128921)
-15. [OctaFuse Gateway 2.12.0：供应商账号管理、路由工作区与多模态入口发现](https://www.cnblogs.com/didispace/p/23128897)
-16. [把按键和 LED 状态显示出来：第一次看见程序到底在干什么](https://www.cnblogs.com/zw-awa/p/23128263)
-17. [PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查](https://www.cnblogs.com/ayic/p/23121980)
-18. [Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？](https://www.cnblogs.com/xiaobaiysf/p/23127340)
-19. [从 TensorSharp 视角解读 Ternary Bonsai 2 27B：当 1.72 比特的权重遇上 Hadamard 变换](https://www.cnblogs.com/shanyou/p/23126888)
-20. [【.NET】Logging 库探索（一）：基础接口](https://www.cnblogs.com/tcjiaan/p/23068018)
+1. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
+2. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
+3. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
+4. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
+5. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
+6. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
+7. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
+8. [并发编程（五）：Atomic——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23115900)
+9. [先让程序开口说话：为什么把人机交互放在最前面](https://www.cnblogs.com/zw-awa/p/23133434)
+10. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
+11. [在笔记本上自制多模态小语言模型指南](https://www.cnblogs.com/duoia/p/23134279)
+12. [B站首页，点击视频卡片之后首页自动刷新的问题](https://www.cnblogs.com/Reisentyan/p/23132967)
+13. [AGENTS.md：Agent 的上下文策略层](https://www.cnblogs.com/chenmijiang/p/23132313)
+14. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
+15. [当 AI Agent 遇到 Nacos：OpenClaw.NET 集成入门](https://www.cnblogs.com/shanyou/p/23130581)
+16. [【FHE】（十一）：密文链协议——两条不变式，和 112 与 2100 的分工](https://www.cnblogs.com/haliuhome/p/23130579)
+17. [检测数据异常值的五种统计技术](https://www.cnblogs.com/wang_yb/p/23128921)
+18. [OctaFuse Gateway 2.12.0：供应商账号管理、路由工作区与多模态入口发现](https://www.cnblogs.com/didispace/p/23128897)
+19. [把按键和 LED 状态显示出来：第一次看见程序到底在干什么](https://www.cnblogs.com/zw-awa/p/23128263)
+20. [PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查](https://www.cnblogs.com/ayic/p/23121980)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
-2. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
-3. [Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？](https://www.cnblogs.com/xiaobaiysf/p/23127340)
+1. [Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？](https://www.cnblogs.com/xiaobaiysf/p/23127340)
+2. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
+3. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
 4. [【.NET】Logging 库探索（一）：基础接口](https://www.cnblogs.com/tcjiaan/p/23068018)
 5. [从 TensorSharp 视角解读 Ternary Bonsai 2 27B：当 1.72 比特的权重遇上 Hadamard 变换](https://www.cnblogs.com/shanyou/p/23126888)
 6. [PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查](https://www.cnblogs.com/ayic/p/23121980)

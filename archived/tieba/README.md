@@ -1,12 +1,12 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-28 07:20:08
+> 更新时间：2026-09-28 09:04:51
 
 ## 最有料热点
 
 1. [回忆杀!吧友寻回跑操神曲出处](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365944&topic_name=%E5%9B%9E%E5%BF%86%E6%9D%80%21%E5%90%A7%E5%8F%8B%E5%AF%BB%E5%9B%9E%E8%B7%91%E6%93%8D%E7%A5%9E%E6%9B%B2%E5%87%BA%E5%A4%84)
 2. [DS形象之争:鲸鱼娘还是高智男?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365955&topic_name=DS%E5%BD%A2%E8%B1%A1%E4%B9%8B%E4%BA%89%3A%E9%B2%B8%E9%B1%BC%E5%A8%98%E8%BF%98%E6%98%AF%E9%AB%98%E6%99%BA%E7%94%B7%3F)
-3. [决战16强!谁的泡面实力更胜一筹](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365918&topic_name=%E5%86%B3%E6%88%9816%E5%BC%BA%21%E8%B0%81%E7%9A%84%E6%B3%A1%E9%9D%A2%E5%AE%9E%E5%8A%9B%E6%9B%B4%E8%83%9C%E4%B8%80%E7%AD%B9)
+3. [16强次日赛开启,面王称号花落谁家](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365972&topic_name=16%E5%BC%BA%E6%AC%A1%E6%97%A5%E8%B5%9B%E5%BC%80%E5%90%AF%2C%E9%9D%A2%E7%8E%8B%E7%A7%B0%E5%8F%B7%E8%8A%B1%E8%90%BD%E8%B0%81%E5%AE%B6)
 4. [国乒男双力克日本,斩获四连冠](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365968&topic_name=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E5%8A%9B%E5%85%8B%E6%97%A5%E6%9C%AC%2C%E6%96%A9%E8%8E%B7%E5%9B%9B%E8%BF%9E%E5%86%A0)
 5. [JDG遭FUT零封,CN瓦全军覆没](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365965&topic_name=JDG%E9%81%ADFUT%E9%9B%B6%E5%B0%81%2CCN%E7%93%A6%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
 6. [日本男子被300公斤猪压死](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365967&topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%A2%AB300%E5%85%AC%E6%96%A4%E7%8C%AA%E5%8E%8B%E6%AD%BB)
@@ -33,4 +33,3 @@
 27. [管泽元48分更新电台后秒删](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365492&topic_name=%E7%AE%A1%E6%B3%BD%E5%85%8348%E5%88%86%E6%9B%B4%E6%96%B0%E7%94%B5%E5%8F%B0%E5%90%8E%E7%A7%92%E5%88%A0)
 28. [东京医大改分阻拦女生入学](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365518&topic_name=%E4%B8%9C%E4%BA%AC%E5%8C%BB%E5%A4%A7%E6%94%B9%E5%88%86%E9%98%BB%E6%8B%A6%E5%A5%B3%E7%94%9F%E5%85%A5%E5%AD%A6)
 29. [微软申请游戏内插播广告专利](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365502&topic_name=%E5%BE%AE%E8%BD%AF%E7%94%B3%E8%AF%B7%E6%B8%B8%E6%88%8F%E5%86%85%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E4%B8%93%E5%88%A9)
-30. [博主怒斥开屏广告被封禁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365432&topic_name=%E5%8D%9A%E4%B8%BB%E6%80%92%E6%96%A5%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E8%A2%AB%E5%B0%81%E7%A6%81)
