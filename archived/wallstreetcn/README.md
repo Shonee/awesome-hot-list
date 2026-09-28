@@ -1,23 +1,30 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-29 01:09:30
+> 更新时间：2026-09-29 01:25:35
 
 ## 7x24
 
-1. [新兴市场债券面临伊朗战争以来最差单月表现，美债收益率攀升](https://wallstreetcn.com/livenews/3171681)
-2. [高收益债汹涌来袭，高盛称市场消化能力承压](https://wallstreetcn.com/livenews/3171680)
-3. [道达尔能源将诺曼底炼油厂检修推迟至2027年](https://wallstreetcn.com/livenews/3171679)
-4. [也门胡塞武装：在过去24小时内，沙特战机从海米斯穆谢特和塔伊夫空军基地起飞，出动F-15和台风战斗机实施了38次空袭和导弹打击。
+1. [普京签署总统令，俄军再次扩编](https://wallstreetcn.com/livenews/3171687)
+2. [据沙特媒体哈达斯（Alhadath）报道，伊朗已同意停止铀浓缩，以换取美国放松制裁。
+
+WTI原油5分钟内下跌1.81美元/桶，报91.33美元/桶；布伦特原油5分钟内下跌1.58美元/桶，报96.48美元/桶。](https://wallstreetcn.com/livenews/3171685)
+3. [周一（9月28日），美联储隔夜逆回购协议（RRP）使用规模为8.51亿美元（交易对手3家），上个交易日报5.76亿美元。](https://wallstreetcn.com/livenews/3171684)
+4. [据知情人士透露，英国石油公司BP考虑出售旗下巴西生物燃油业务。（彭博）](https://wallstreetcn.com/livenews/3171683)
+5. [阿波罗：金融体系面临“智能体银行挤兑”风险](https://wallstreetcn.com/livenews/3171682)
+6. [新兴市场债券面临伊朗战争以来最差单月表现，美债收益率攀升](https://wallstreetcn.com/livenews/3171681)
+7. [高收益债汹涌来袭，高盛称市场消化能力承压](https://wallstreetcn.com/livenews/3171680)
+8. [道达尔能源将诺曼底炼油厂检修推迟至2027年](https://wallstreetcn.com/livenews/3171679)
+9. [也门胡塞武装：在过去24小时内，沙特战机从海米斯穆谢特和塔伊夫空军基地起飞，出动F-15和台风战斗机实施了38次空袭和导弹打击。
 
 同时，从纳季兰和吉赞发起的导弹袭击，针对了塔伊兹、萨达和荷台达等敌方省份，导致包括妇女和儿童在内的平民...](https://wallstreetcn.com/livenews/3171678)
-5. [美元兑伊朗里亚尔汇率突破245万](https://wallstreetcn.com/livenews/3171676)
-6. [国际铜夜盘收跌0.28%，沪铜收跌0.16%，沪铝收跌0.33%，沪锌收涨0.09%，沪铅收涨0.19%，沪镍收跌0.48%，沪锡收涨0.12%。
+10. [美元兑伊朗里亚尔汇率突破245万](https://wallstreetcn.com/livenews/3171676)
+11. [国际铜夜盘收跌0.28%，沪铜收跌0.16%，沪铝收跌0.33%，沪锌收涨0.09%，沪铅收涨0.19%，沪镍收跌0.48%，沪锡收涨0.12%。
 
 氧化铝夜盘收跌2.07%，铝合金收涨0.15%。
 
 不锈钢夜盘收跌0.22%。](https://wallstreetcn.com/livenews/3171675)
-7. [普京下令对德国麦德龙俄罗斯业务实施临时管理](https://wallstreetcn.com/livenews/3171674)
-8. [LME期铜收跌210美元，报14413美元/吨。
+12. [普京下令对德国麦德龙俄罗斯业务实施临时管理](https://wallstreetcn.com/livenews/3171674)
+13. [LME期铜收跌210美元，报14413美元/吨。
 
 LME期铝收跌16美元，报3252美元/吨。
 
@@ -26,115 +33,103 @@ LME期锌收跌47美元，报3852美元/吨。
 LME期铅收跌27美元，报1902美元/吨。
 
 LME期镍收跌150美元，报16179...](https://wallstreetcn.com/livenews/3171672)
-9. [以军称打击黎南部真主党基础设施](https://wallstreetcn.com/livenews/3171670)
-10. [据媒体报道：美国正考虑豁免制裁，以允许伊朗与伊拉克圣城纳杰夫（Najaf）之间恢复航班。](https://wallstreetcn.com/livenews/3171669)
-11. [白宫顾问哈塞特：美国三个月年化核心通胀率接近美联储目标（2%）。](https://wallstreetcn.com/livenews/3171668)
-12. [“太空之弦”计算星座正式发布](https://wallstreetcn.com/livenews/3171667)
-13. [白宫顾问哈塞特被问及美债收益率，“建议询问美国财长贝森特”。
+14. [以军称打击黎南部真主党基础设施](https://wallstreetcn.com/livenews/3171670)
+15. [据媒体报道：美国正考虑豁免制裁，以允许伊朗与伊拉克圣城纳杰夫（Najaf）之间恢复航班。](https://wallstreetcn.com/livenews/3171669)
+16. [白宫顾问哈塞特：美国三个月年化核心通胀率接近美联储目标（2%）。](https://wallstreetcn.com/livenews/3171668)
+17. [“太空之弦”计算星座正式发布](https://wallstreetcn.com/livenews/3171667)
+18. [白宫顾问哈塞特被问及美债收益率，“建议询问美国财长贝森特”。
 
 哈塞特称：30年期美国通胀保值国债（TIPS）收益率表明当前的资本回报率更高。](https://wallstreetcn.com/livenews/3171666)
-14. [白宫顾问哈塞特：美国的外债可能在15万亿美元左右。
+19. [白宫顾问哈塞特：美国的外债可能在15万亿美元左右。
 
 美国背负的很多债务是自己欠自己的。](https://wallstreetcn.com/livenews/3171665)
-15. [津巴布韦降息至27.5%，之前的关键利率为30%。](https://wallstreetcn.com/livenews/3171664)
-16. [伊朗官员们对中期选举之前与美国达成协议持悲观态度。](https://wallstreetcn.com/livenews/3171663)
-17. [乌克兰预计未来数月黑海不会出现停火](https://wallstreetcn.com/livenews/3171662)
-18. [报道：特朗普对就核问题放宽对伊朗制裁持开放态度](https://wallstreetcn.com/livenews/3171661)
-19. [白宫顾问哈塞特：目前预计美国生产率增幅大约为2.5%。
+20. [津巴布韦降息至27.5%，之前的关键利率为30%。](https://wallstreetcn.com/livenews/3171664)
+21. [伊朗官员们对中期选举之前与美国达成协议持悲观态度。](https://wallstreetcn.com/livenews/3171663)
+22. [乌克兰预计未来数月黑海不会出现停火](https://wallstreetcn.com/livenews/3171662)
+23. [报道：特朗普对就核问题放宽对伊朗制裁持开放态度](https://wallstreetcn.com/livenews/3171661)
+24. [白宫顾问哈塞特：目前预计美国生产率增幅大约为2.5%。
 
 对GDP增速的基本假设应该在4%左右。
 
 实现3%的赤字目标将取决于“不可抗力”因素。](https://wallstreetcn.com/livenews/3171660)
-20. [WTI原油5分钟内下跌0.66美元/桶，报93.35美元/桶；布伦特原油5分钟内下跌0.56美元/桶，报98.12美元/桶。
+25. [WTI原油5分钟内下跌0.66美元/桶，报93.35美元/桶；布伦特原油5分钟内下跌0.56美元/桶，报98.12美元/桶。
 
 标普500指数跌幅收窄至0.5%，此前一度跌1%。](https://wallstreetcn.com/livenews/3171659)
-21. [德银：供应短缺或令铜价半年内上涨超过50%](https://wallstreetcn.com/livenews/3171658)
-22. [美国官员表示，美国继续通过中间人渠道与伊朗进行积极讨论。
+26. [德银：供应短缺或令铜价半年内上涨超过50%](https://wallstreetcn.com/livenews/3171658)
+27. [美国官员表示，美国继续通过中间人渠道与伊朗进行积极讨论。
 
 如果不解决核问题，将不会达成协议。
 
 总统特朗普已准备好放宽对伊朗的制裁，并解冻其被冻结资产，以换取伊核问题取得进展。（半岛电视台）](https://wallstreetcn.com/livenews/3171657)
-23. [Anthropic的CEO Amodei将列席美国总统特朗普与众议长约翰逊周二的午餐会。（Semafor）](https://wallstreetcn.com/livenews/3171656)
-24. [10年期德债收益率创2009年以来新高，法意希政府融资成本涨约8个基点](https://wallstreetcn.com/livenews/3171655)
-25. [俄罗斯计划在2027年将国防支出增至17.1万亿卢布，而最初计划为13.5万亿卢布。
+28. [Anthropic的CEO Amodei将列席美国总统特朗普与众议长约翰逊周二的午餐会。（Semafor）](https://wallstreetcn.com/livenews/3171656)
+29. [10年期德债收益率创2009年以来新高，法意希政府融资成本涨约8个基点](https://wallstreetcn.com/livenews/3171655)
+30. [俄罗斯计划在2027年将国防支出增至17.1万亿卢布，而最初计划为13.5万亿卢布。
 
 2026年预算支出将增长13.2%，达到48.6万亿卢布，占GDP的20.9%。
 
 将2026年预算赤字预估上调至相当于国内生产总值(GDP)的3...](https://wallstreetcn.com/livenews/3171654)
-26. [英国两年期国债收益率涨约9个基点，10年期英债收益率创2007年以来新高](https://wallstreetcn.com/livenews/3171652)
-27. [力拓集团：将独家销售RevoCast在不列颠哥伦比亚省兰利新投产的铸造厂生产的钢坯。](https://wallstreetcn.com/livenews/3171651)
-28. [SpaceX：星舰在海洋溅落。](https://wallstreetcn.com/livenews/3171650)
-29. [黎巴嫩总理：期待与华盛顿建立与时俱进的伙伴关系，助力国家重建并强化合法机构。
+31. [英国两年期国债收益率涨约9个基点，10年期英债收益率创2007年以来新高](https://wallstreetcn.com/livenews/3171652)
+32. [力拓集团：将独家销售RevoCast在不列颠哥伦比亚省兰利新投产的铸造厂生产的钢坯。](https://wallstreetcn.com/livenews/3171651)
+33. [SpaceX：星舰在海洋溅落。](https://wallstreetcn.com/livenews/3171650)
+34. [黎巴嫩总理：期待与华盛顿建立与时俱进的伙伴关系，助力国家重建并强化合法机构。
 
 我们强调必须切实落实三方框架，以实现黎巴嫩的主权恢复及以色列撤军。
 
 三方框架不仅限于安全安排，还包括支持政府的重建工作。
 
 我们强调美国对黎巴嫩军队的支...](https://wallstreetcn.com/livenews/3171649)
-30. [交易员逃离全球最大新兴市场债券ETF，因美债收益率飙升](https://wallstreetcn.com/livenews/3171648)
-31. [快手可灵发布新一代视频生成模型，快手可灵4.0将于10月正式上线](https://wallstreetcn.com/livenews/3171646)
-32. [欧盟官员称欧盟考虑为乌克兰等四国制定“入盟路线图”](https://wallstreetcn.com/livenews/3171645)
-33. [周一（9月28日）欧市尾盘，ICE英国天然气期货涨2.04%，TTF基准荷兰天然气期货涨4.06%，ICE欧盟碳排放交易许可（期货价格）跌0.68%。](https://wallstreetcn.com/livenews/3171644)
-34. [白宫官员：美国总统特朗普昨晚会见Anthropic PBC的CEO Amodei。（彭博）](https://wallstreetcn.com/livenews/3171643)
-35. [王毅会见日本国际贸易促进协会会长岩屋毅](https://wallstreetcn.com/livenews/3171642)
-36. [英伟达、OpenAI受邀列席美国总统特朗普与众议长约翰逊的会议。（Semafor）](https://wallstreetcn.com/livenews/3171641)
-37. [美国能源信息署（EIA）：美国战略石油储备原油库存上周降至2.838亿桶，为1982年以来最低水平。](https://wallstreetcn.com/livenews/3171640)
-38. [明晟公司MSCI北欧国家指数跌0.5%，报389.81点，创7月23日以来收盘新低。
+35. [交易员逃离全球最大新兴市场债券ETF，因美债收益率飙升](https://wallstreetcn.com/livenews/3171648)
+36. [快手可灵发布新一代视频生成模型，快手可灵4.0将于10月正式上线](https://wallstreetcn.com/livenews/3171646)
+37. [欧盟官员称欧盟考虑为乌克兰等四国制定“入盟路线图”](https://wallstreetcn.com/livenews/3171645)
+38. [周一（9月28日）欧市尾盘，ICE英国天然气期货涨2.04%，TTF基准荷兰天然气期货涨4.06%，ICE欧盟碳排放交易许可（期货价格）跌0.68%。](https://wallstreetcn.com/livenews/3171644)
+39. [白宫官员：美国总统特朗普昨晚会见Anthropic PBC的CEO Amodei。（彭博）](https://wallstreetcn.com/livenews/3171643)
+40. [王毅会见日本国际贸易促进协会会长岩屋毅](https://wallstreetcn.com/livenews/3171642)
+41. [英伟达、OpenAI受邀列席美国总统特朗普与众议长约翰逊的会议。（Semafor）](https://wallstreetcn.com/livenews/3171641)
+42. [美国能源信息署（EIA）：美国战略石油储备原油库存上周降至2.838亿桶，为1982年以来最低水平。](https://wallstreetcn.com/livenews/3171640)
+43. [明晟公司MSCI北欧国家指数跌0.5%，报389.81点，创7月23日以来收盘新低。
 
 在十个板块中，北欧工业板块跌幅最大。
 
 诺基亚跌3.3%，在一众北欧个股里表现最差。](https://wallstreetcn.com/livenews/3171639)
-39. [道达尔能源CEO：关于我们是否应当对液化天然气（LNG）宣布不可抗力，曾存在很大争议。](https://wallstreetcn.com/livenews/3171638)
-40. [美国财政部拍卖三个月期国债，得标利率4.110%，投标倍数2.99。
+44. [道达尔能源CEO：关于我们是否应当对液化天然气（LNG）宣布不可抗力，曾存在很大争议。](https://wallstreetcn.com/livenews/3171638)
+45. [美国财政部拍卖三个月期国债，得标利率4.110%，投标倍数2.99。
 
 拍卖六个月期国债，得标利率4.285%，投标倍数2.64。](https://wallstreetcn.com/livenews/3171637)
-41. [欧盟就如何供乌爱国者导弹存分歧](https://wallstreetcn.com/livenews/3171636)
-42. [德国DAX 30指数初步收涨0.05%，报25421.12点。
+46. [欧盟就如何供乌爱国者导弹存分歧](https://wallstreetcn.com/livenews/3171636)
+47. [德国DAX 30指数初步收涨0.05%，报25421.12点。
 
 法国股指初步收涨0.19%，意大利股指初步收涨0.01%、银行指数大致持平，英国股指初步收涨0.14%。](https://wallstreetcn.com/livenews/3171635)
-43. [欧洲STOXX 600指数收涨不到0.01%，报638.68点。
+48. [欧洲STOXX 600指数收涨不到0.01%，报638.68点。
 
 欧元区STOXX 50指数收跌0.02%，报6301.28点，整体呈现出M形走势。
 
 富时泛欧绩优300指数收跌0.04%，报2550.46点。](https://wallstreetcn.com/livenews/3171634)
-44. [美国证券交易委员会（SEC）：针对“难以估值”的那些私人资产发送“关键”警示。
+49. [美国证券交易委员会（SEC）：针对“难以估值”的那些私人资产发送“关键”警示。
 
 需要对私人信用估值“特别谨慎”。](https://wallstreetcn.com/livenews/3171633)
-45. [Adobe分析部门预计：11月1日‑12月31日（假日销售季，含感恩节+圣诞节）美国线上销售额将达2751亿美元。
+50. [Adobe分析部门预计：11月1日‑12月31日（假日销售季，含感恩节+圣诞节）美国线上销售额将达2751亿美元。
 
 预计今年假日季线上购物规模将创历史纪录。](https://wallstreetcn.com/livenews/3171632)
-46. [王文涛部长与德国联邦经济和能源部部长赖歇举行视频通话](https://wallstreetcn.com/livenews/3171631)
-47. [英国10年期国债收益率涨至5.441%，创2007年7月份以来新高。](https://wallstreetcn.com/livenews/3171629)
-48. [水贝金饰爆单断货，金饰降价卖爆了](https://wallstreetcn.com/livenews/3171627)
-49. [内盘期货夜市多数收跌，20号胶跌约3.6%，甲醇则涨3.9%](https://wallstreetcn.com/livenews/3171626)
-50. [100台智元灵犀X2上岗爱仕达100家门店，跑通全链路零售任务](https://wallstreetcn.com/livenews/3171625)
-51. [2026世界智能网联汽车大会将于10月在京举行](https://wallstreetcn.com/livenews/3171624)
-52. [2050年到期美国国债价格创历史新低，国际金价跌4%](https://wallstreetcn.com/livenews/3171623)
-53. [纽约金日内跌幅达4.0%，报4147.37美元/盎司；现货白银日内跌幅达5.5%，报60.76美元/盎司。](https://wallstreetcn.com/livenews/3171622)
-54. [美国五/七年期国债收益率涨幅扩大至10个基点。
+51. [王文涛部长与德国联邦经济和能源部部长赖歇举行视频通话](https://wallstreetcn.com/livenews/3171631)
+52. [英国10年期国债收益率涨至5.441%，创2007年7月份以来新高。](https://wallstreetcn.com/livenews/3171629)
+53. [水贝金饰爆单断货，金饰降价卖爆了](https://wallstreetcn.com/livenews/3171627)
+54. [内盘期货夜市多数收跌，20号胶跌约3.6%，甲醇则涨3.9%](https://wallstreetcn.com/livenews/3171626)
+55. [100台智元灵犀X2上岗爱仕达100家门店，跑通全链路零售任务](https://wallstreetcn.com/livenews/3171625)
+56. [2026世界智能网联汽车大会将于10月在京举行](https://wallstreetcn.com/livenews/3171624)
+57. [2050年到期美国国债价格创历史新低，国际金价跌4%](https://wallstreetcn.com/livenews/3171623)
+58. [纽约金日内跌幅达4.0%，报4147.37美元/盎司；现货白银日内跌幅达5.5%，报60.76美元/盎司。](https://wallstreetcn.com/livenews/3171622)
+59. [美国五/七年期国债收益率涨幅扩大至10个基点。
 
 英国国债价格跌幅扩大，10年期英债收益率涨6个基点，刷新日高至5.42%。](https://wallstreetcn.com/livenews/3171621)
-55. [道达尔CEO：欧洲必须就美国柴油禁令发布战略规划。](https://wallstreetcn.com/livenews/3171620)
-56. [美股费城半导体指数日内跌3%，高通跌7.25%，英特尔跌6.11%，AMD跌5.08%，美光跌4.57%，博通跌1.48%，阿斯麦ADR跌0.39%；英伟达涨1.68%。
+60. [道达尔CEO：欧洲必须就美国柴油禁令发布战略规划。](https://wallstreetcn.com/livenews/3171620)
+61. [美股费城半导体指数日内跌3%，高通跌7.25%，英特尔跌6.11%，AMD跌5.08%，美光跌4.57%，博通跌1.48%，阿斯麦ADR跌0.39%；英伟达涨1.68%。
 
 纳斯达克100指数跌幅扩大至1.6%。](https://wallstreetcn.com/livenews/3171619)
-57. [国家数据局局长刘烈宏赴江苏省调研数据要素市场化配置改革工作推进情况](https://wallstreetcn.com/livenews/3171618)
-58. [瑞典新一届议会举行首次会议 诺伦连任议长](https://wallstreetcn.com/livenews/3171617)
-59. [惠与（HPE）将英伟达Confidential Computing整合到AI Factory。](https://wallstreetcn.com/livenews/3171616)
-60. [现货黄金日内跌幅达3.5%，报4135.14美元/盎司。
+62. [国家数据局局长刘烈宏赴江苏省调研数据要素市场化配置改革工作推进情况](https://wallstreetcn.com/livenews/3171618)
+63. [瑞典新一届议会举行首次会议 诺伦连任议长](https://wallstreetcn.com/livenews/3171617)
+64. [惠与（HPE）将英伟达Confidential Computing整合到AI Factory。](https://wallstreetcn.com/livenews/3171616)
+65. [现货黄金日内跌幅达3.5%，报4135.14美元/盎司。
 
 黄金技术面全面承压，跌破200日均线并逼近50日均线，4000美元整数位心理关口成为关键支撑。](https://wallstreetcn.com/livenews/3171615)
-61. [交易员下调欧洲央行加息押注，预计10月加息概率不足40%](https://wallstreetcn.com/livenews/3171614)
-62. [美国9月达拉斯联储商业活动指数 9.8，预期 7.8，前值 11.6。](https://wallstreetcn.com/livenews/3171613)
-63. [中国海军第48批护航编队结束对缅甸友好访问](https://wallstreetcn.com/livenews/3171612)
-64. [伊朗最高领袖：伊朗现已变得独立、强大](https://wallstreetcn.com/livenews/3171611)
-65. [英国首相伯纳姆：希思罗机场不仅仅是伦敦的问题。](https://wallstreetcn.com/livenews/3171610)
-66. [英国警方在美军所用基地附近逮捕五人](https://wallstreetcn.com/livenews/3171609)
-67. [英国首相伯纳姆：明日将公布社会保障资金的细节。](https://wallstreetcn.com/livenews/3171607)
-68. [Evonik Industrie AG拒绝巴斯夫价值103亿欧元（折合117亿美元）的收购要约。
-
-Evonik认为，巴斯夫报价太低，不足以保证（启动）正式的谈判，也不足以其竞争者实施尽职调查。（英国金融时报）](https://wallstreetcn.com/livenews/3171606)
-69. [数据：逾四分之一德国从业人员有移民背景](https://wallstreetcn.com/livenews/3171604)
-70. [纳斯达克100指数跌幅扩大至1.1%，成分股中，Arm控股跌9.3%，高通跌7.1%，闪迪跌4.7%，英特尔、西部数据、Lumentum、美满电子至少跌超3.7%，Nebius Group则涨0.9%，英伟达涨2.5%。
-
-费城半导体...](https://wallstreetcn.com/livenews/3171603)
+66. [交易员下调欧洲央行加息押注，预计10月加息概率不足40%](https://wallstreetcn.com/livenews/3171614)
+67. [美国9月达拉斯联储商业活动指数 9.8，预期 7.8，前值 11.6。](https://wallstreetcn.com/livenews/3171613)
