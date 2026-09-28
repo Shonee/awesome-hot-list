@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-28 23:25:24
+> 更新时间：2026-09-29 00:30:20
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [显示器涨价潮来了！电竞屏均价上涨 装机党直呼扛不住](https://www.gamersky.com/hardware/202609/2217616.shtml)
 11. [《赛博朋克2》创意总监：续作将回应现实主题 更具深度](https://www.gamersky.com/news/202609/2217751.shtml)
 12. [中国战队家门口惨遭剃光头！《无畏契约》4支队伍一分没赢 全0-2](https://www.gamersky.com/news/202609/2217850.shtml)
-13. [明星赛何润东成全场唯一手柄玩家 一旁陈赫都看呆了](https://www.gamersky.com/news/202609/2217378.shtml)
-14. [《战神：劳菲》预购信息公开！超帅新图来了](https://www.gamersky.com/news/202609/2218806.shtml)
+13. [《战神：劳菲》预购信息公开！超帅新图来了](https://www.gamersky.com/news/202609/2218806.shtml)
+14. [明星赛何润东成全场唯一手柄玩家 一旁陈赫都看呆了](https://www.gamersky.com/news/202609/2217378.shtml)
 15. [Faker回应中国队缺席亚运会：不会轻敌 准备夺冠](https://www.gamersky.com/news/202609/2217640.shtml)

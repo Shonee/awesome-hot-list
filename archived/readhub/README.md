@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-28 23:24:51
+> 更新时间：2026-09-29 00:30:01
 
 ## 24 小时热榜
 
@@ -23,17 +23,17 @@
 17. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
 18. [腾讯 QQ 宠物登陆鸿蒙系统：会卖萌还会串门交朋友](https://readhub.cn/topic/8wmlJqkgNT7?tab=daily)
 19. [千问与夸克网盘打通，网盘成为 AI 可调用的个人知识库](https://readhub.cn/topic/8wmxTPIYMe9?tab=daily)
-20. [苹果 A20 Pro 模拟运行《GTA5》性能接近 GTX1650 能效高约 12 倍](https://readhub.cn/topic/8wmPt88MRzA?tab=daily)
-21. [DeepSeek 与 Kimi 同步发布大规模 AI 人才招募计划](https://readhub.cn/topic/8wmwmkH9Z8f?tab=daily)
+20. [DeepSeek 与 Kimi 同步发布大规模 AI 人才招募计划](https://readhub.cn/topic/8wmwmkH9Z8f?tab=daily)
+21. [苹果 A20 Pro 模拟运行《GTA5》性能接近 GTX1650 能效高约 12 倍](https://readhub.cn/topic/8wmPt88MRzA?tab=daily)
 22. [郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣](https://readhub.cn/topic/8wmPtOiTZ6w?tab=daily)
 23. [余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响](https://readhub.cn/topic/8wmw36INvoN?tab=daily)
 24. [年内外资调研 A 股公司近 6000 次](https://readhub.cn/topic/8wmOSB6BTnX?tab=daily)
 25. [OpenAI 据称将紧急推出个人 AI 助手 以正面迎战 Meta Muse](https://readhub.cn/topic/8wmVcPzuHk7?tab=daily)
 26. [繁花剧场 App 被曝设 6 元套路诱导老人不知情被扣费数千元](https://readhub.cn/topic/8wmrkypaBBt?tab=daily)
 27. [网易有道开源子曰 Live 系列两款实时交互模型 R2T2 和 T3PO](https://readhub.cn/topic/8wmfc6dLkus?tab=daily)
-28. [澜起科技成功量产 DDR5 第五子代 RCD 芯片](https://readhub.cn/topic/8wmUtStzHo2?tab=daily)
+28. [粤芯半导体中签号出炉：中签号码共 358848 个](https://readhub.cn/topic/8wnKiUCyXyR?tab=daily)
 29. [中行万事达卡疑似遭批量盗刷 客服证实收到多起反馈](https://readhub.cn/topic/8wmgKqW4PSx?tab=daily)
-30. [粤芯半导体中签号出炉：中签号码共 358848 个](https://readhub.cn/topic/8wnKiUCyXyR?tab=daily)
+30. [澜起科技成功量产 DDR5 第五子代 RCD 芯片](https://readhub.cn/topic/8wmUtStzHo2?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [当 AI 失控，谁来担责？](https://www.mittrchina.com/news/detail/17025)
-2. [阿里 Qwen-Audio-3.1-TTS 拿下权威语音榜全球冠军](https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html)
-3. [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
-4. [中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场](https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html)
-5. [蚂蚁灵波与阿拉伯数字经济联盟签署合作备忘录，中国具身智能大脑获国际认可](https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html)
-6. [顶尖 AI 研究人员呼吁对具备自我改进能力的 AI 实施监管](https://www.gelonghui.com/live/2692399)
-7. [英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别](https://www.aibase.com/zh/news/31382)
-8. [暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击](https://www.aibase.com/zh/news/31384)
-9. [英伟达披露：AI 需求持续扩张，供应承诺额暴增 135%，Anthropic 已签约超 1800 亿美元](https://wallstreetcn.com/articles/3782667)
-10. [17.5 亿 三生制药达成一项 AI 制药合作](https://bydrug.pharmcube.com/news/detail/4209f668108e053cc4e642b218af8544)
+1. [当 AI 失控，谁来担责？ 最重要的问题是：当企业失去对 AI Agents 的控制时，我们该如何追究其责任。加州《第 53 号参议院法案》（SB 53）、纽约州《负责任人工智能安全与教育法》（RAISE Act）以及伊利诺伊州《第 315 号参议院法案》（SB 315）等州级人工智能透明度法律，都要求人工智能开发者报告「重大安全事件」。在国会，《人工智能事件报告法案》（AI Incident Reporting Act）将要求人工智能企业在模型逃脱人工监督或突破系统时向商务部报告，即使相关事件没有造成任何损害。 麻省理工科技评论 7 小时前](https://www.mittrchina.com/news/detail/17025)
+2. [阿里 Qwen-Audio-3.1-TTS 拿下权威语音榜全球冠军 在全球权威 AI 评测平台 Artificial Analysis 的语音排行榜（Controlled Voice Arena）上，阿里巴巴最近发布的语音大模型 Qwen-Audio-3.1-TTS 以 1177 的 Elo 评分位列全球第一。Qwen-Audio-3.1-TTS 是阿里新一代语音合成大模型，支持多语种及方言合成。此次登顶的是阿里在 2026 云栖大会发布的 Qwen-Audio-3.1 系列中的 TTS 模型，该系列还包括语音转写（ASR）和实时语音交互（Realtime）两类模型，三大模型的 API 服务均已上架千问 AI 平台。 雷锋网 5 小时前](https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html)
+3. [Holo4: powering generalist computer-use agents Most agentic models are trained for one interface only: GUI-focused models are blind without a screen, while models that prefer tool calling are stuck in front of an application that has no API. Holo4 trails only the strongest closed models on long workflows: on OSWorld 2.0, Holo4 27B scores 61.7% against 81.8% for Opus 5.5, and Holo4 35B-A3B reaches 30.9%. The same recipe turns Nemotron 3 Nano Omni into Holotron4 Nano, a generalist agentic model that significantly improves over the base model on GUI workflows and in environments exposing MCP, APIs or coding sandboxes. Hugging Face Blog 6 小时前](https://huggingface.co/blog/Hcompany/holo4)
+4. [中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场 国内，AI 参与 AI 研发的实践也在密集出现，而且切入的环节各不相同：面壁用 AI 编写预训练框架，智谱让 AI 搭建国产芯片上的推理基础设施…… 稀疏注意力训练，3T tokens：切换到稀疏注意力，进行大规模继续预训练（也就是中训练），让模型适应新的信息读取方式，同时重点强化编程和 AI 研发能力…… 全球领先的人工智能公司依靠庞大的专家团队分工协作，支撑这套体系的运转，覆盖模型架构、基础设施、训练、推理、部署与评测等环节，每个前沿模型背后都是持续不断的实验、迭代与优化循环。 雷锋网 3 小时前](https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html)
+5. [蚂蚁灵波与阿拉伯数字经济联盟签署合作备忘录，中国具身智能大脑获国际认可 在第五届全球数字贸易博览会配套活动「中阿数字经济产业对接会」上，阿拉伯数字经济联盟（AFDE）与蚂蚁集团旗下具身智能公司蚂蚁灵波科技正式签署框架合作备忘录。蚂蚁灵波科技致力于打造机器人的原生通用大脑，建立了从空间智能、灵巧操作到动态环境交互的全栈技术。此次合作标志着中国自研具身智能「大脑」在国际市场获得认可，双方合作从「硬件合作」进阶为以核心技术模型、工程工具链、本地化场景适配与产业生态深度融合的高质量合作，为「一脑多机」构想在全球物理世界的规模化落地开启新篇章。 雷锋网 4 小时前](https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html)
+6. [顶尖 AI 研究人员呼吁对具备自我改进能力的 AI 实施监管 OpenAI、Anthropic、Meta Platforms 和微软的研究负责人正呼吁政策制定者审查各自公司在人工智能研究自动化方面的进展程度，响应了全行业对于加强监管 AI 技术的呼声。在周一发布的一篇论文中，包括 OpenAI 首席科学家 Jakub Pachocki、Anthropic 联合创始人 Jack Clark、微软首席科学官 Eric Horvitz 以及 Meta 人工智能研究副总裁 Dawn Song 在内的研究人员写道，AI 研究的自动化可能会引发「智能爆炸」，这种发展态势可能将原本需要数年才能取得的进展压缩至数月甚至更短时间内，从而导致技术演进速度超出人类的理解能力。论文作者以个人名义撰文指出，政策制定者应紧急要求提高透明度，以了解各公司在模型开发自动化方面已达到何种程度。 格隆汇 2 小时前](https://www.gelonghui.com/live/2692399)
+7. [英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别 该模型专注于语音分割聚类（Diarization）任务，开放了权重数据，能够精准识别对话中任意时刻的说话者，支持最多 8 人同时发声的实时及录音音频处理。此次英伟达推出轻量级且免费的高精度语音分割模型，大幅降低了复杂语音分析的技术门槛。这一动作不仅为实时会议记录、智能客服与多角色语音交互等应用提供了极具性价比的底层支撑，也预示着多说话人识别技术在端侧与实时商业场景下的落地将进一步提速。 AIBase 10 小时前](https://www.aibase.com/zh/news/31382)
+8. [暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击 对 AI 模型和算力的非法攫取，正快速爬上网络犯罪地下市场的「最抢手商品」榜首。谷歌威胁情报集团首席分析师 John Hultquist 透露，今年他们盯到一类叫「LLM 劫持」的攻击明显变多：有人倒卖公共 AI 工具被盗的登录凭据，也有团伙直接偷走算力、白嫖着跑自己的模型。更微妙的是时机：企业还在摸索到底要用多少 AI，算力用量猛涨反而显得正常，「这正好给了某些人藏在噪声里的机会」。 AIBase 8 小时前](https://www.aibase.com/zh/news/31384)
+9. [英伟达披露：AI 需求持续扩张，供应承诺额暴增 135%，Anthropic 已签约超 1800 亿美元 英伟达最新披露的数据显示，AI 基础设施需求持续扩张，多项关键指标较上季度大幅跳升，为市场提供了迄今最新的需求能见度参考。英伟达披露，AI 初创公司 Anthropic 迄今已签约 2.6 吉瓦的 AI 基础设施算力，交付期延伸至 2028 年，其跨多家云服务商（CSP）及新兴云平台（Neocloud）的合同总价值已超过 1800 亿美元。英伟达整体供应承诺额从上季度的 1190 亿美元升至 2790 亿美元，单季增幅达 1600 亿美元，英伟达指出，本次承诺额增长主要与内存采购相关。 华尔街见闻 2 小时前](https://wallstreetcn.com/articles/3782667)
+10. [17.5 亿 三生制药达成一项 AI 制药合作 德睿智药宣布与三生制药旗下子公司三生蔓迪及万晟医药就其自主研发的 AI 设计口服小分子 GLP-1 受体激动剂 MDR-001，达成覆盖中国内地、香港及澳门的独家商业化合作，潜在总交易金额最高可达人民币 17.5 亿元。MDR-001 目前正在中国开展针对成人肥胖或超重人群的 Ⅲ 期关键临床研究。在已完成的 24 周 Ⅱb 期临床研究中，各剂量组受试者平均体重较基线下降 8.2%-10.3%，安慰剂组下降 2.5%。 医药魔方 2 小时前](https://bydrug.pharmcube.com/news/detail/4209f668108e053cc4e642b218af8544)

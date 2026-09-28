@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-28 23:25:35
+> 更新时间：2026-09-29 00:30:32
 
 ## 最有料热点
 
@@ -26,7 +26,7 @@
 20. [一代歌王刘欢病逝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365818&topic_name=%E4%B8%80%E4%BB%A3%E6%AD%8C%E7%8E%8B%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
 21. [U23国足28年后重返亚运四强](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365878&topic_name=U23%E5%9B%BD%E8%B6%B328%E5%B9%B4%E5%90%8E%E9%87%8D%E8%BF%94%E4%BA%9A%E8%BF%90%E5%9B%9B%E5%BC%BA)
 22. [369爆料:呼吸哥去AL没要钱](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365845&topic_name=369%E7%88%86%E6%96%99%3A%E5%91%BC%E5%90%B8%E5%93%A5%E5%8E%BBAL%E6%B2%A1%E8%A6%81%E9%92%B1)
-23. [国产新游1:1复刻塞尔达](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365928&topic_name=%E5%9B%BD%E4%BA%A7%E6%96%B0%E6%B8%B81%3A1%E5%A4%8D%E5%88%BB%E5%A1%9E%E5%B0%94%E8%BE%BE)
+23. [星舰第14飞成功入轨](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366022&topic_name=%E6%98%9F%E8%88%B0%E7%AC%AC14%E9%A3%9E%E6%88%90%E5%8A%9F%E5%85%A5%E8%BD%A8)
 24. [工人违规失双臂,惨变地狱梗](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365827&topic_name=%E5%B7%A5%E4%BA%BA%E8%BF%9D%E8%A7%84%E5%A4%B1%E5%8F%8C%E8%87%82%2C%E6%83%A8%E5%8F%98%E5%9C%B0%E7%8B%B1%E6%A2%97)
 25. [三星冰箱更新后变砖,食材报废](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365823&topic_name=%E4%B8%89%E6%98%9F%E5%86%B0%E7%AE%B1%E6%9B%B4%E6%96%B0%E5%90%8E%E5%8F%98%E7%A0%96%2C%E9%A3%9F%E6%9D%90%E6%8A%A5%E5%BA%9F)
 26. [各省宝藏泡面,泡面也有限定款](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365745&topic_name=%E5%90%84%E7%9C%81%E5%AE%9D%E8%97%8F%E6%B3%A1%E9%9D%A2%2C%E6%B3%A1%E9%9D%A2%E4%B9%9F%E6%9C%89%E9%99%90%E5%AE%9A%E6%AC%BE)
