@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-28 11:32:04
+> 更新时间：2026-09-28 12:30:19
 
 ## 24 小时热榜
 
@@ -16,24 +16,24 @@
 10. [奇瑞 QQ 系列未断代 探讨从爆款向经典升级路径](https://readhub.cn/topic/8wjqtu7LcfC?tab=daily)
 11. [新能源摩托车加速出海，两轮制造升级为智能终端](https://readhub.cn/topic/8wjJekWyIGs?tab=daily)
 12. [长安汽车成立 AD 协同发展部 阿维塔与深蓝开启实质整合](https://readhub.cn/topic/8wlgrTvqrk6?tab=daily)
-13. [我国启动研制商业航天育种专用卫星](https://readhub.cn/topic/8wl4e0ubQPR?tab=daily)
-14. [海思科：创新药 HSK42360-Na 片纳入突破性治疗药物程序](https://readhub.cn/topic/8wlLnWGPkmo?tab=daily)
-15. [AI 初创公司 TypeSafe AI 洽谈融资，估值或超百亿美元](https://readhub.cn/topic/8wjuoogd3Bb?tab=daily)
-16. [美国 OpenAI 暂停最新一代人工智能模型训练](https://readhub.cn/topic/8wlU0SKvCod?tab=daily)
-17. [DeepSeek Harness 官方桌面客户端曝光，大幅降低使用门槛](https://readhub.cn/topic/8wmZCTMQgrq?tab=daily)
+13. [DeepSeek Harness 官方桌面客户端曝光，大幅降低使用门槛](https://readhub.cn/topic/8wmZCTMQgrq?tab=daily)
+14. [我国启动研制商业航天育种专用卫星](https://readhub.cn/topic/8wl4e0ubQPR?tab=daily)
+15. [海思科：创新药 HSK42360-Na 片纳入突破性治疗药物程序](https://readhub.cn/topic/8wlLnWGPkmo?tab=daily)
+16. [AI 初创公司 TypeSafe AI 洽谈融资，估值或超百亿美元](https://readhub.cn/topic/8wjuoogd3Bb?tab=daily)
+17. [美国 OpenAI 暂停最新一代人工智能模型训练](https://readhub.cn/topic/8wlU0SKvCod?tab=daily)
 18. [恩捷股份：拟 11.5 亿元收购湖北恩捷 45% 股权](https://readhub.cn/topic/8wlOenJm6gA?tab=daily)
-19. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
-20. [波音指出 737 MAX 存在影响着陆导航功能的软件故障](https://readhub.cn/topic/8wkQyLiXcQO?tab=daily)
+19. [波音指出 737 MAX 存在影响着陆导航功能的软件故障](https://readhub.cn/topic/8wkQyLiXcQO?tab=daily)
+20. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
 21. [通鼎互联：拟 1 亿元收购南京和本机电 14.2984% 股权](https://readhub.cn/topic/8wlLQYIFkUC?tab=daily)
 22. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
-23. [竞业达：实控人、董事长钱瑞解除留置](https://readhub.cn/topic/8wlKMdEbnPs?tab=daily)
-24. [粤芯半导体：创业板 IPO 网上发行中签率 0.0424%](https://readhub.cn/topic/8wlfngvmvbK?tab=daily)
+23. [粤芯半导体：创业板 IPO 网上发行中签率 0.0424%](https://readhub.cn/topic/8wlfngvmvbK?tab=daily)
+24. [竞业达：实控人、董事长钱瑞解除留置](https://readhub.cn/topic/8wlKMdEbnPs?tab=daily)
 25. [中科飞测：实控人的一致行动人拟减持不超 0.28% 股份](https://readhub.cn/topic/8wlKMbxhJFv?tab=daily)
-26. [到 2030 年规模突破 3000 亿元 浙江全链条打造海洋清洁能源产业集群](https://readhub.cn/topic/8wl6PrX8pNx?tab=daily)
-27. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
+26. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
+27. [到 2030 年规模突破 3000 亿元 浙江全链条打造海洋清洁能源产业集群](https://readhub.cn/topic/8wl6PrX8pNx?tab=daily)
 28. [黑客暗网兜售 AI 模型访问权限，最低价仅正版 3%](https://readhub.cn/topic/8wmPAn2zHvC?tab=daily)
 29. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
-30. [年内外资调研 A 股公司近 6000 次](https://readhub.cn/topic/8wmOSB6BTnX?tab=daily)
+30. [8.08 万-9.98 万元，一汽-大众捷达首款新能源 M6 纯电家轿开启预售](https://readhub.cn/topic/8wmaccrt3wB?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [AI 测谎仪真的有用吗？ 该项目名为「测谎仪 +」（Polygraph+），又称「下一代测谎仪」（Polygraph Next），包括利用人工智能和机器学习的评分算法，以及一种名为「非接触式感测」的技术。英国诺森比亚大学法律学者基里・科措格鲁（Kyri Kotsoglou）在研究司法系统中测谎仪使用情况后担心，新的测谎形式会像传统测谎仪一样，更多地充当心理威慑工具，而非科学工具。 麻省理工科技评论 1 小时前](https://www.mittrchina.com/news/detail/17022)
-2. [自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论 一项涉及 3132 名参与者的五项实验研究表明，引入 AI 大语言模型（如 GPT-5.5、Claude4.6Sonnet 及 Gemini3.5Flash 等）正显著削弱人类悬置判断的能力，使人们几乎完全丧失承认「我不知道」的意愿。研究团队专门挑选了极易引发模型幻觉的精细冷门问题进行测试，结果显示，在无 AI 辅助的对照组中，参与者对 36% 至 44% 的问题选择放弃作答。更为矛盾的是，在 AI 辅助下，参与者的答题自信心从 29.6 分（满分 100 分）暴涨至 75.9 分，但实际答对率却从 27.5% 大幅跌至 9.2%，表明即便面对 Step3.5Flash 等模型给出的错误建议，人类依然倾向于盲目采纳并产生过度自信。 AIBase 1 小时前](https://www.aibase.com/zh/news/31373)
-3. [OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型 OpenAI 应用研究主管 Boris Power 在 Fellows Forum 2026 上透露，公司已有 80% 至 90% 的研发资源全面投向 GPT-7、GPT-8 及后续代际模型，因其构成了技术价值的核心来源。Power 指出，同代模型内的渐进式微调（如 GPT-5.1 至 5.2 的升级）虽依赖特定训练数据并能帮助团队实现快速迭代，但在内部被视作短期投资。交互范式正在经历根本性重塑：GPT-4 高度依赖用户精心构造的提示词，GPT-5 虽降低了门槛但仍需要密集的人工反馈，而规划中的 GPT-6 将更接近高水准的协作伙伴，用户只需下达目标即可自主推进。 AIBase 1 小时前](https://www.aibase.com/zh/news/31366)
-4. [前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿 前苹果 Siri 和 Apple Intelligence 工程师 Nikhil Gupta 宣布推出一款名为 szn 的 AI 智能体，可直接运行在 iMessage 对话中，帮用户浏览网页、购买商品并代表用户与商家沟通。Gupta 表示，每名用户会获得一个独立的 AI 模型，每个 szn 智能体都有独立姓名、电子邮件地址和电话号码，因此理论上能像一个独立联系人那样与外部服务沟通 —— 例如代为联系商家、处理订单或预约。今年 6 月，Poke 成为苹果批准的首个接入 Messages for Business 平台的 AI 智能体，拥有官方消息渠道，但尚不清楚 szn 是否采用类似方式。 AIBase 2 小时前](https://www.aibase.com/zh/news/31363)
-5. [谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线 谷歌在印度市场启动早期测试，允许部分用户通过 Gemini 及 AI 模式直接购买沃尔玛旗下电商平台 Flipkart 的商品。在当前的测试体验中，用户在搜索智能手机、电子产品及手机配件等选定商品时，其 AI 界面内的 Flipkart 产品列表会出现「购买」按钮，点击即可直接进入 Flipkart 品牌的结账流程，无需跳转离开当前 AI 界面。该功能的底层技术脉络可追溯至谷歌今年早些时候推出的通用商务协议（UCP），这一开放标准旨在促成 AI 代理与零售商在整个购物生命周期乃至结账环节中的无缝交互。 AIBase 2 小时前](https://www.aibase.com/zh/news/31361)
-6. [视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测 在 Meta Connect 2026 开发者大会上，Meta 正式发布旗下个人 AI 智能体应用 Muse 的多项重磅功能升级，并于 9 月 25 日向公众开放抢先体验计划，加速推进多模态与端侧智能体布局。硬件整合上，Muse 全面接入 Meta AI 智能眼镜产品线，支持通过唤醒词与语音指令进行即时交互。随着各大科技巨头在智能体（AI Agent）赛道展开全方位角逐，Meta 此次通过打通桌面底层操作权限与智能穿戴设备，显现出其将 AI 智能体由单一对话框向跨终端、跨系统全天候助理演进的战略意图。 AIBase 2 小时前](https://www.aibase.com/zh/news/31360)
-7. [OpenAI 智能体为获取联合国数据，数月内密集扫描网站超 1.6 万次 安全研究人员罗文・霍华德-琼斯披露的调查报告显示，今年 4 月至 6 月期间，OpenAI 的人工智能智能体（Agent）对联合国贸易和发展会议（UNCTAD）的统计网站发起了超过 1.6 万次密集扫描。当时该智能体被指派获取 UNCTADstat 上的生产能力指数公开数据。虽然破坏程度未达此前 Hugging Face 遭黑客攻击或近期部分政府网站遇袭的严重级别，但暴露出一个行业隐患：当 AI 智能体被赋予自主任务后，为达成目标往往会擅自突破常规的行为红线与安全边界。 AIBase 1 小时前](https://www.aibase.com/zh/news/31371)
-8. [首款端侧 Agent 旗舰刚落地就触碰安全红线？豆包 AI 否认涉足游戏外挂 搭载字节跳动「豆包手机助手」的中兴旗下努比亚 NaviX Ultra 在运行《王者荣耀》时，出现提示「设备环境异常」并被系统强制踢下线的情况，引发 AI 端侧系统权限与游戏反作弊机制冲突的广泛关注。豆包手机助手在官方社区发布致歉回应，强调系统全程未对腾讯游戏进行任何干预，AI 不存在违规点击、外挂或模拟操作等违规行为，目前正持续与腾讯沟通接洽，并建议受影响用户暂停尝试登录或通过官方渠道进行账号申诉。作为中兴通讯与字节跳动联合研发的全球首款 AI 智能体量产旗舰，努比亚 NaviX Ultra 主打依托端侧大模型实现跨应用自主操作。 AIBase 2 小时前](https://www.aibase.com/zh/news/31362)
-9. [比尔・盖茨：再熬约 20 年调整期，AI 将把人类带进「富足时代」 微软联合创始人比尔・盖茨认为，只要人类能再熬过约 20 年的调整期，AI 最终会带来一个更乐观的未来。盖茨表示，人类目前开始进入第一阶段：AI 虽具备解决生活成本高企、医疗费用昂贵等问题的潜力，但还无力真正解决这些难题。盖茨坦言，届时人类仍有新问题要面对 —— 如何找到生活意义、如何安排突然增加的闲暇时间，但大规模物资短缺将不再困扰人类。 AIBase 51 分钟前](https://www.aibase.com/zh/news/31374)
-10. [开源大模型格局重塑 小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队 小米旗下的全新全模态旗舰大模型 MiMo-V2.6-Pro 在 Code Arena: WebDev（网页开发测试场）中表现亮眼，首次亮相便成功重返总榜前十，并在采用 MIT 许可证的开源权重模型中高居前三。在具体的评分表现方面，MiMo-V2.6-Pro 在早期自动评估（AutoEval）中斩获了 1628 分的高分。此次 MiMo-V2.6-Pro 的强势登场，再次印证了小米在强化学习与全模态大模型研发领域的持续深耕与技术突破。 AIBase 1 小时前](https://www.aibase.com/zh/news/31370)
+1. [AI 测谎仪真的有用吗？](https://www.mittrchina.com/news/detail/17022)
+2. [自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论](https://www.aibase.com/zh/news/31373)
+3. [OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型](https://www.aibase.com/zh/news/31366)
+4. [前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿](https://www.aibase.com/zh/news/31363)
+5. [谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线](https://www.aibase.com/zh/news/31361)
+6. [视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测](https://www.aibase.com/zh/news/31360)
+7. [OpenAI 智能体为获取联合国数据，数月内密集扫描网站超 1.6 万次](https://www.aibase.com/zh/news/31371)
+8. [Imagination E 系列性能首秀：用 AI 把分辨率翻倍仅需 2.3 毫秒，Prefill 性能提升 4.7 倍](https://www.leiphone.com/category/chips/GZHLOpS28auhtU2f.html)
+9. [首款端侧 Agent 旗舰刚落地就触碰安全红线？豆包 AI 否认涉足游戏外挂](https://www.aibase.com/zh/news/31362)
+10. [比尔・盖茨：再熬约 20 年调整期，AI 将把人类带进「富足时代」](https://www.aibase.com/zh/news/31374)

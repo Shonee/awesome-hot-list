@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-28 11:31:51
+> 更新时间：2026-09-28 12:30:08
 
 ## 最新帖子
 
-1. [Jenkins构建完成后发送飞书通知消息](https://www.cnblogs.com/xiaoyu01/p/23139277)
-2. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
-3. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
-4. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
-5. [Java异常处理总结](https://www.cnblogs.com/xiexj/p/23138657)
-6. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
-7. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
-8. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
-9. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
-10. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
-11. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
-12. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
-13. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
-14. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
-15. [并发编程（五）：Atomic——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23115900)
-16. [先让程序开口说话：为什么把人机交互放在最前面](https://www.cnblogs.com/zw-awa/p/23133434)
-17. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
-18. [在笔记本上自制多模态小语言模型指南](https://www.cnblogs.com/duoia/p/23134279)
-19. [B站首页，点击视频卡片之后首页自动刷新的问题](https://www.cnblogs.com/Reisentyan/p/23132967)
-20. [AGENTS.md：Agent 的上下文策略层](https://www.cnblogs.com/chenmijiang/p/23132313)
+1. [最新版vite8.3+vue3+deepseek-v4.1-flash网页版webai模板](https://www.cnblogs.com/yxybox/p/23141304)
+2. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
+3. [Jenkins构建完成后发送飞书通知消息](https://www.cnblogs.com/xiaoyu01/p/23139277)
+4. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
+5. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
+6. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
+7. [Java异常处理总结](https://www.cnblogs.com/xiexj/p/23138657)
+8. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
+9. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
+10. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
+11. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
+12. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
+13. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
+14. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
+15. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
+16. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
+17. [并发编程（五）：Atomic——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23115900)
+18. [先让程序开口说话：为什么把人机交互放在最前面](https://www.cnblogs.com/zw-awa/p/23133434)
+19. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
+20. [在笔记本上自制多模态小语言模型指南](https://www.cnblogs.com/duoia/p/23134279)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？](https://www.cnblogs.com/xiaobaiysf/p/23127340)
-2. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://www.cnblogs.com/uniqueDong/p/23126169)
-3. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
-4. [【.NET】Logging 库探索（一）：基础接口](https://www.cnblogs.com/tcjiaan/p/23068018)
-5. [从 TensorSharp 视角解读 Ternary Bonsai 2 27B：当 1.72 比特的权重遇上 Hadamard 变换](https://www.cnblogs.com/shanyou/p/23126888)
-6. [PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查](https://www.cnblogs.com/ayic/p/23121980)
+2. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
+3. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
+4. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
+5. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
+6. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)

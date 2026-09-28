@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-28 11:33:09
+> 更新时间：2026-09-28 12:30:51
 
 ## 日榜
 
@@ -13,6 +13,6 @@
 7. [消息称华为或于今年 11 月推出星耀子品牌，客服回应目前暂无具体信息](https://www.ithome.com/1/007/517.htm)
 8. [消息称华为新一代 MatePad Mini 小平板配备 5G+ 双层 OLED，续航有提升](https://www.ithome.com/1/007/559.htm)
 9. [“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整](https://www.ithome.com/1/007/607.htm)
-10. [四卡双待：荣耀 Magic9 Pro Max 手机将支持双实体卡 + 双 eSIM](https://www.ithome.com/1/007/496.htm)
-11. [华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”](https://www.ithome.com/1/007/511.htm)
-12. [iPhone 17 Pro 银色 7459 元京东部分地区补货，iPhone 18 Pro 系列换新补贴 800 元](https://www.ithome.com/1/007/510.htm)
+10. [华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”](https://www.ithome.com/1/007/511.htm)
+11. [iPhone 17 Pro 银色 7459 元京东部分地区补货，iPhone 18 Pro 系列换新补贴 800 元](https://www.ithome.com/1/007/510.htm)
+12. [深蓝汽车邓承浩：有数据显示车上冰箱实际使用率仅 5%，后排娱乐屏、车载 KTV 用户全年使用不超过十次](https://www.ithome.com/1/007/561.htm)
