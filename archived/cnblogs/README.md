@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-28 21:26:48
+> 更新时间：2026-09-28 22:26:58
 
 ## 最新帖子
 
-1. [Java异步的2种方式分析](https://www.cnblogs.com/xiexj/p/23148205)
-2. [ROS2学习CH5 简单的Ros2与Gazebo建图与导航](https://www.cnblogs.com/CrescentWind/p/23148142)
-3. [Claude Code 装了一堆 Skill，用了三个月，我删掉了 80%](https://www.cnblogs.com/uniqueDong/p/23147995)
-4. [定时器到底在数什么：STM32 的时间基准从哪里来](https://www.cnblogs.com/zw-awa/p/23147762)
-5. [日志系统选型笔记：Loki / ELK / Doris 三方的取舍点](https://www.cnblogs.com/SelectDB/p/23082460)
-6. [从 epoll 到 Reactor：Redis 单线程与多线程的性能与简洁之衡](https://www.cnblogs.com/yhup/p/23145879)
-7. [手把手带你走一遍：机器学习模型如何用FastAPI和Docker部署](https://www.cnblogs.com/wang_yb/p/23144370)
-8. [题解：AT_abc477_d [ABC477D] Masking Tape](https://www.cnblogs.com/qz5zwangzihan1/p/23141781)
-9. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
-10. [什么样的编码智能体值得信任？——SolonCode 的设计取舍](https://www.cnblogs.com/noear/p/23141197)
-11. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
-12. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
-13. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
-14. [100亿订单号如何去重](https://www.cnblogs.com/zrui-xyu/p/23138991)
-15. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
-16. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
-17. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
-18. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
-19. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
-20. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
+1. [C# .NET 周刊 ｜2026 年 9 月 1 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_1)
+2. [Java异步的2种方式分析](https://www.cnblogs.com/xiexj/p/23148205)
+3. [ROS2学习CH5 简单的Ros2与Gazebo建图与导航](https://www.cnblogs.com/CrescentWind/p/23148142)
+4. [Claude Code 装了一堆 Skill，用了三个月，我删掉了 80%](https://www.cnblogs.com/uniqueDong/p/23147995)
+5. [定时器到底在数什么：STM32 的时间基准从哪里来](https://www.cnblogs.com/zw-awa/p/23147762)
+6. [日志系统选型笔记：Loki / ELK / Doris 三方的取舍点](https://www.cnblogs.com/SelectDB/p/23082460)
+7. [从 epoll 到 Reactor：Redis 单线程与多线程的性能与简洁之衡](https://www.cnblogs.com/yhup/p/23145879)
+8. [手把手带你走一遍：机器学习模型如何用FastAPI和Docker部署](https://www.cnblogs.com/wang_yb/p/23144370)
+9. [题解：AT_abc477_d [ABC477D] Masking Tape](https://www.cnblogs.com/qz5zwangzihan1/p/23141781)
+10. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
+11. [什么样的编码智能体值得信任？——SolonCode 的设计取舍](https://www.cnblogs.com/noear/p/23141197)
+12. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
+13. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
+14. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
+15. [100亿订单号如何去重](https://www.cnblogs.com/zrui-xyu/p/23138991)
+16. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
+17. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
+18. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
+19. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
+20. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
 
 ## 精华帖子
 
