@@ -1,14 +1,14 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-28 20:38:23
+> 更新时间：2026-09-28 21:28:55
 
 ## 最有料热点
 
-1. [哈工程学生翻墙被处分](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365994&topic_name=%E5%93%88%E5%B7%A5%E7%A8%8B%E5%AD%A6%E7%94%9F%E7%BF%BB%E5%A2%99%E8%A2%AB%E5%A4%84%E5%88%86)
-2. [闹剧结束,鲸鱼娘统一DS](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366006&topic_name=%E9%97%B9%E5%89%A7%E7%BB%93%E6%9D%9F%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E7%BB%9F%E4%B8%80DS)
-3. [CN之光,KPL亚运两连冠](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365998&topic_name=CN%E4%B9%8B%E5%85%89%2CKPL%E4%BA%9A%E8%BF%90%E4%B8%A4%E8%BF%9E%E5%86%A0)
-4. [回忆杀!吧友寻回跑操神曲出处](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365944&topic_name=%E5%9B%9E%E5%BF%86%E6%9D%80%21%E5%90%A7%E5%8F%8B%E5%AF%BB%E5%9B%9E%E8%B7%91%E6%93%8D%E7%A5%9E%E6%9B%B2%E5%87%BA%E5%A4%84)
-5. [4比0!林诗栋横扫王楚钦夺金](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366015&topic_name=4%E6%AF%940%21%E6%9E%97%E8%AF%97%E6%A0%8B%E6%A8%AA%E6%89%AB%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E9%87%91)
+1. [4比0!林诗栋横扫王楚钦夺金](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366015&topic_name=4%E6%AF%940%21%E6%9E%97%E8%AF%97%E6%A0%8B%E6%A8%AA%E6%89%AB%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E9%87%91)
+2. [哈工程学生翻墙被处分](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365994&topic_name=%E5%93%88%E5%B7%A5%E7%A8%8B%E5%AD%A6%E7%94%9F%E7%BF%BB%E5%A2%99%E8%A2%AB%E5%A4%84%E5%88%86)
+3. [闹剧结束,鲸鱼娘统一DS](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366006&topic_name=%E9%97%B9%E5%89%A7%E7%BB%93%E6%9D%9F%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E7%BB%9F%E4%B8%80DS)
+4. [CN之光,KPL亚运两连冠](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365998&topic_name=CN%E4%B9%8B%E5%85%89%2CKPL%E4%BA%9A%E8%BF%90%E4%B8%A4%E8%BF%9E%E5%86%A0)
+5. [回忆杀!吧友寻回跑操神曲出处](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365944&topic_name=%E5%9B%9E%E5%BF%86%E6%9D%80%21%E5%90%A7%E5%8F%8B%E5%AF%BB%E5%9B%9E%E8%B7%91%E6%93%8D%E7%A5%9E%E6%9B%B2%E5%87%BA%E5%A4%84)
 6. [男子讨薪偷老板6千元被抓](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366000&topic_name=%E7%94%B7%E5%AD%90%E8%AE%A8%E8%96%AA%E5%81%B7%E8%80%81%E6%9D%BF6%E5%8D%83%E5%85%83%E8%A2%AB%E6%8A%93)
 7. [Xun怒喊48,Bin哥躺枪](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365997&topic_name=Xun%E6%80%92%E5%96%8A48%2CBin%E5%93%A5%E8%BA%BA%E6%9E%AA)
 8. [自立门户,电竞项目退出亚运](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365977&topic_name=%E8%87%AA%E7%AB%8B%E9%97%A8%E6%88%B7%2C%E7%94%B5%E7%AB%9E%E9%A1%B9%E7%9B%AE%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90)
