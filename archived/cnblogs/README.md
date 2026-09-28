@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-28 09:03:36
+> 更新时间：2026-09-28 09:42:09
 
 ## 最新帖子
 
-1. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
-2. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
-3. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
-4. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
-5. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
-6. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
-7. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
-8. [并发编程（五）：Atomic——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23115900)
-9. [先让程序开口说话：为什么把人机交互放在最前面](https://www.cnblogs.com/zw-awa/p/23133434)
-10. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
-11. [在笔记本上自制多模态小语言模型指南](https://www.cnblogs.com/duoia/p/23134279)
-12. [B站首页，点击视频卡片之后首页自动刷新的问题](https://www.cnblogs.com/Reisentyan/p/23132967)
-13. [AGENTS.md：Agent 的上下文策略层](https://www.cnblogs.com/chenmijiang/p/23132313)
-14. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
-15. [当 AI Agent 遇到 Nacos：OpenClaw.NET 集成入门](https://www.cnblogs.com/shanyou/p/23130581)
-16. [【FHE】（十一）：密文链协议——两条不变式，和 112 与 2100 的分工](https://www.cnblogs.com/haliuhome/p/23130579)
-17. [检测数据异常值的五种统计技术](https://www.cnblogs.com/wang_yb/p/23128921)
-18. [OctaFuse Gateway 2.12.0：供应商账号管理、路由工作区与多模态入口发现](https://www.cnblogs.com/didispace/p/23128897)
-19. [把按键和 LED 状态显示出来：第一次看见程序到底在干什么](https://www.cnblogs.com/zw-awa/p/23128263)
-20. [PostgreSQL 的锁：为什么你的 ALTER TABLE 会卡住，以及怎么查](https://www.cnblogs.com/ayic/p/23121980)
+1. [Java异常处理总结](https://www.cnblogs.com/xiexj/p/23138657)
+2. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
+3. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
+4. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
+5. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
+6. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
+7. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
+8. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
+9. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
+10. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
+11. [并发编程（五）：Atomic——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23115900)
+12. [先让程序开口说话：为什么把人机交互放在最前面](https://www.cnblogs.com/zw-awa/p/23133434)
+13. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
+14. [在笔记本上自制多模态小语言模型指南](https://www.cnblogs.com/duoia/p/23134279)
+15. [B站首页，点击视频卡片之后首页自动刷新的问题](https://www.cnblogs.com/Reisentyan/p/23132967)
+16. [AGENTS.md：Agent 的上下文策略层](https://www.cnblogs.com/chenmijiang/p/23132313)
+17. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
+18. [当 AI Agent 遇到 Nacos：OpenClaw.NET 集成入门](https://www.cnblogs.com/shanyou/p/23130581)
+19. [【FHE】（十一）：密文链协议——两条不变式，和 112 与 2100 的分工](https://www.cnblogs.com/haliuhome/p/23130579)
+20. [检测数据异常值的五种统计技术](https://www.cnblogs.com/wang_yb/p/23128921)
 
 ## 精华帖子
 

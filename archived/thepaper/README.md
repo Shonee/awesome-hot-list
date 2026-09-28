@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-28 09:03:55
+> 更新时间：2026-09-28 09:42:26
 
 ## 热新闻
 
@@ -13,13 +13,13 @@
 7. [马上评丨4岁男童坠楼致残，临时照看的朋友该担何责](https://www.thepaper.cn/newsDetail_forward_34159796)
 8. [雷佳悼念刘欢：对一位音乐人最好的怀念，就是他的歌还会被一代代人唱起](https://www.thepaper.cn/newsDetail_forward_34159489)
 9. [言短意长｜隧道通车承诺两次落空，“徙木立信”值得重提](https://www.thepaper.cn/newsDetail_forward_34160576)
-10. [媒体评“3分钟内申请退票被扣费75%”：按“规定”，也要看是否公平](https://www.thepaper.cn/newsDetail_forward_34160078)
-11. [小将当家！林诗栋/黄友政为中国队夺得亚运男双金牌](https://www.thepaper.cn/newsDetail_forward_34161008)
-12. [长沙上亿元生态整治工程招标引质疑：中标单位为信用惩戒企业，投标期已两度延长](https://www.thepaper.cn/newsDetail_forward_34157022)
-13. [曾因虐猫被拘留的博主“杰克辣条”在家门口遭持刀伤害？物业称有个人恩怨，警方表示如有需要会发布案情](https://www.thepaper.cn/newsDetail_forward_34143765)
+10. [中国移动、中国电信、中国联通，集中叫停“0元购机”](https://www.thepaper.cn/newsDetail_forward_34159244)
+11. [媒体评“3分钟内申请退票被扣费75%”：按“规定”，也要看是否公平](https://www.thepaper.cn/newsDetail_forward_34160078)
+12. [小将当家！林诗栋/黄友政为中国队夺得亚运男双金牌](https://www.thepaper.cn/newsDetail_forward_34161008)
+13. [长沙上亿元生态整治工程招标引质疑：中标单位为信用惩戒企业，投标期已两度延长](https://www.thepaper.cn/newsDetail_forward_34157022)
 14. [陈妤颉：100米金牌是成年礼，200米银牌是教训](https://www.thepaper.cn/newsDetail_forward_34161277)
 15. [陈冲：母亲离世是人生的转折，感谢金宇澄鼓励我写作](https://www.thepaper.cn/newsDetail_forward_34159923)
-16. [多名学生反映吃华科大定制月饼拉肚子，“皇冠幸福里”承认制作，校医院回应暂未接诊病例](https://www.thepaper.cn/newsDetail_forward_34157014)
+16. [小学教师反映成绩排名靠后被“强制”培训，广西南丹通报调查处理情况](https://www.thepaper.cn/newsDetail_forward_34162447)
 17. [言短意长丨“48小时”不能成为放弃抢救的倒计时](https://www.thepaper.cn/newsDetail_forward_34161020)
 18. [景区负责人回应“花3000万寻找NPC”：已有7000人报名，拿天价招NPC “这是最笨的办法”](https://www.thepaper.cn/newsDetail_forward_34149474)
 19. [国足0比3不敌新西兰，邵佳一：这是真实的差距](https://www.thepaper.cn/newsDetail_forward_34161934)
