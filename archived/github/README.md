@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-28 07:27:45
+> 更新时间：2026-09-28 13:34:47
 
 ## 每日趋势
 
@@ -66,14 +66,15 @@
 6. [Chat2DB](https://github.com/OtterMind/Chat2DB)
 7. [Geyser](https://github.com/GeyserMC/Geyser)
 8. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-9. [dataease](https://github.com/dataease/dataease)
-10. [jadx](https://github.com/skylot/jadx)
-11. [kafka](https://github.com/apache/kafka)
-12. [voxy](https://github.com/MCRcortex/voxy)
-13. [dbeaver](https://github.com/dbeaver/dbeaver)
-14. [FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
-15. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
-16. [Shizuku-API](https://github.com/RikkaApps/Shizuku-API)
+9. [TV](https://github.com/FongMi/TV)
+10. [dataease](https://github.com/dataease/dataease)
+11. [jadx](https://github.com/skylot/jadx)
+12. [kafka](https://github.com/apache/kafka)
+13. [voxy](https://github.com/MCRcortex/voxy)
+14. [dbeaver](https://github.com/dbeaver/dbeaver)
+15. [FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
+16. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
+17. [Shizuku-API](https://github.com/RikkaApps/Shizuku-API)
 
 ## Python
 
