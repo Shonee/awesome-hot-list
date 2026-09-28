@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-29 00:30:05
+> 更新时间：2026-09-29 01:21:56
 
 ## 热新闻
 
@@ -8,19 +8,19 @@
 2. [高铁集中上新！四条新线9月28日开通](https://www.thepaper.cn/newsDetail_forward_34162822)
 3. [云南文山一供销社职工拐卖外籍妇女案二审维持原判，判刑五年九个月](https://www.thepaper.cn/newsDetail_forward_34157019)
 4. [“把城市C位献给国之栋梁”，十位科学家群像亮相上海地铁站](https://www.thepaper.cn/newsDetail_forward_34165294)
-5. [澎湃回声｜小学教师反映成绩排名靠后被“强制”培训，广西南丹通报调查处理情况](https://www.thepaper.cn/newsDetail_forward_34162447)
-6. [核心任务抢占科技制高点，《中国科学院“十五五”发展规划》发布](https://www.thepaper.cn/newsDetail_forward_34162949)
+5. [解读丨上海发布商品房销售新政，业内专家怎么看？](https://www.thepaper.cn/newsDetail_forward_34166473)
+6. [澎湃回声｜小学教师反映成绩排名靠后被“强制”培训，广西南丹通报调查处理情况](https://www.thepaper.cn/newsDetail_forward_34162447)
 7. [林诗栋夺得男单金牌，本届亚运三金一银](https://www.thepaper.cn/newsDetail_forward_34166137)
-8. [马上评｜郑刚罗永浩与其隔空斗法，不如诉之于法](https://www.thepaper.cn/newsDetail_forward_34164630)
-9. [解读丨上海发布商品房销售新政，业内专家怎么看？](https://www.thepaper.cn/newsDetail_forward_34166473)
+8. [核心任务抢占科技制高点，《中国科学院“十五五”发展规划》发布](https://www.thepaper.cn/newsDetail_forward_34162949)
+9. [马上评｜郑刚罗永浩与其隔空斗法，不如诉之于法](https://www.thepaper.cn/newsDetail_forward_34164630)
 10. [言短意长｜演唱会迟到两小时不可怕，李克勤以真诚赢得谅解](https://www.thepaper.cn/newsDetail_forward_34161975)
-11. [中国女选手何晓嫚获得世界技能大赛“王中王”，中国第3次拿下阿尔伯特·维达大奖](https://www.thepaper.cn/newsDetail_forward_34162252)
-12. [博士团解读宁波①｜从“宁波帮”到“宁波创”：新时代宁波的高质量发展机遇](https://www.thepaper.cn/newsDetail_forward_34134718)
-13. [体育总局局长高志丹：亚运会部分传统优势项目成绩不及预期，暴露出在人才厚度等方面的短板](https://www.thepaper.cn/newsDetail_forward_34163349)
-14. [商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况](https://www.thepaper.cn/newsDetail_forward_34163782)
-15. [武契奇宣布辞职，“没有那把交椅，我们也能赢”](https://www.thepaper.cn/newsDetail_forward_34162969)
-16. [涉对等降税、中美直航等，商务部解读第八轮中美经贸磋商成果](https://www.thepaper.cn/newsDetail_forward_34163088)
-17. [经纬度：从世赛青年身上，何以看见中国未来？](https://www.thepaper.cn/newsDetail_forward_34163209)
+11. [博士团解读宁波①｜从“宁波帮”到“宁波创”：新时代宁波的高质量发展机遇](https://www.thepaper.cn/newsDetail_forward_34134718)
+12. [体育总局局长高志丹：亚运会部分传统优势项目成绩不及预期，暴露出在人才厚度等方面的短板](https://www.thepaper.cn/newsDetail_forward_34163349)
+13. [商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况](https://www.thepaper.cn/newsDetail_forward_34163782)
+14. [武契奇宣布辞职，“没有那把交椅，我们也能赢”](https://www.thepaper.cn/newsDetail_forward_34162969)
+15. [经纬度：从世赛青年身上，何以看见中国未来？](https://www.thepaper.cn/newsDetail_forward_34163209)
+16. [美国公司史上最大回购！英伟达新增1500亿美元股票回购授权，总额达2350亿美元](https://www.thepaper.cn/newsDetail_forward_34166466)
+17. [涉对等降税、中美直航等，商务部解读第八轮中美经贸磋商成果](https://www.thepaper.cn/newsDetail_forward_34163088)
 18. [【社论】密集上新，中国高铁加速“织线成网”](https://www.thepaper.cn/newsDetail_forward_34164076)
-19. [美国公司史上最大回购！英伟达新增1500亿美元股票回购授权，总额达2350亿美元](https://www.thepaper.cn/newsDetail_forward_34166466)
-20. [全球前瞻｜美国对加拿大产品新进口禁令本周生效，日本前外相率团访华](https://www.thepaper.cn/newsDetail_forward_34163502)
+19. [全球前瞻｜美国对加拿大产品新进口禁令本周生效，日本前外相率团访华](https://www.thepaper.cn/newsDetail_forward_34163502)
+20. [十大券商看后市｜犹豫期应保持乐观，“十一”前减仓必要性不强](https://www.thepaper.cn/newsDetail_forward_34162791)
