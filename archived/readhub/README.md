@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-28 22:27:10
+> 更新时间：2026-09-28 23:24:51
 
 ## 24 小时热榜
 
@@ -19,20 +19,20 @@
 13. [黑客暗网兜售 AI 模型访问权限，最低价仅正版 3%](https://readhub.cn/topic/8wmPAn2zHvC?tab=daily)
 14. [8.08 万-9.98 万元，一汽-大众捷达首款新能源 M6 纯电家轿开启预售](https://readhub.cn/topic/8wmaccrt3wB?tab=daily)
 15. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
-16. [腾讯 QQ 宠物登陆鸿蒙系统：会卖萌还会串门交朋友](https://readhub.cn/topic/8wmlJqkgNT7?tab=daily)
-17. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
-18. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
+16. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
+17. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
+18. [腾讯 QQ 宠物登陆鸿蒙系统：会卖萌还会串门交朋友](https://readhub.cn/topic/8wmlJqkgNT7?tab=daily)
 19. [千问与夸克网盘打通，网盘成为 AI 可调用的个人知识库](https://readhub.cn/topic/8wmxTPIYMe9?tab=daily)
 20. [苹果 A20 Pro 模拟运行《GTA5》性能接近 GTX1650 能效高约 12 倍](https://readhub.cn/topic/8wmPt88MRzA?tab=daily)
-21. [郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣](https://readhub.cn/topic/8wmPtOiTZ6w?tab=daily)
-22. [DeepSeek 与 Kimi 同步发布大规模 AI 人才招募计划](https://readhub.cn/topic/8wmwmkH9Z8f?tab=daily)
+21. [DeepSeek 与 Kimi 同步发布大规模 AI 人才招募计划](https://readhub.cn/topic/8wmwmkH9Z8f?tab=daily)
+22. [郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣](https://readhub.cn/topic/8wmPtOiTZ6w?tab=daily)
 23. [余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响](https://readhub.cn/topic/8wmw36INvoN?tab=daily)
 24. [年内外资调研 A 股公司近 6000 次](https://readhub.cn/topic/8wmOSB6BTnX?tab=daily)
 25. [OpenAI 据称将紧急推出个人 AI 助手 以正面迎战 Meta Muse](https://readhub.cn/topic/8wmVcPzuHk7?tab=daily)
 26. [繁花剧场 App 被曝设 6 元套路诱导老人不知情被扣费数千元](https://readhub.cn/topic/8wmrkypaBBt?tab=daily)
-27. [澜起科技成功量产 DDR5 第五子代 RCD 芯片](https://readhub.cn/topic/8wmUtStzHo2?tab=daily)
-28. [中行万事达卡疑似遭批量盗刷 客服证实收到多起反馈](https://readhub.cn/topic/8wmgKqW4PSx?tab=daily)
-29. [网易有道开源子曰 Live 系列两款实时交互模型 R2T2 和 T3PO](https://readhub.cn/topic/8wmfc6dLkus?tab=daily)
+27. [网易有道开源子曰 Live 系列两款实时交互模型 R2T2 和 T3PO](https://readhub.cn/topic/8wmfc6dLkus?tab=daily)
+28. [澜起科技成功量产 DDR5 第五子代 RCD 芯片](https://readhub.cn/topic/8wmUtStzHo2?tab=daily)
+29. [中行万事达卡疑似遭批量盗刷 客服证实收到多起反馈](https://readhub.cn/topic/8wmgKqW4PSx?tab=daily)
 30. [粤芯半导体中签号出炉：中签号码共 358848 个](https://readhub.cn/topic/8wnKiUCyXyR?tab=daily)
 
 ## 每日早报
@@ -50,10 +50,10 @@
 1. [当 AI 失控，谁来担责？](https://www.mittrchina.com/news/detail/17025)
 2. [阿里 Qwen-Audio-3.1-TTS 拿下权威语音榜全球冠军](https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html)
 3. [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
-4. [蚂蚁灵波与阿拉伯数字经济联盟签署合作备忘录，中国具身智能大脑获国际认可](https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html)
-5. [顶尖 AI 研究人员呼吁对具备自我改进能力的 AI 实施监管](https://www.gelonghui.com/live/2692399)
-6. [英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别](https://www.aibase.com/zh/news/31382)
-7. [暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击](https://www.aibase.com/zh/news/31384)
-8. [英伟达披露：AI 需求持续扩张，供应承诺额暴增 135%，Anthropic 已签约超 1800 亿美元](https://wallstreetcn.com/articles/3782667)
-9. [OpenAI 发布最强推理模型 o1，它真的会思考，但 API 比 4o 贵好几倍](http://www.geekpark.net/news/371349)
-10. [Kimi 发布新模型，数学能力超 o1，产品重点提升留存率](http://www.geekpark.net/news/371333)
+4. [中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场](https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html)
+5. [蚂蚁灵波与阿拉伯数字经济联盟签署合作备忘录，中国具身智能大脑获国际认可](https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html)
+6. [顶尖 AI 研究人员呼吁对具备自我改进能力的 AI 实施监管](https://www.gelonghui.com/live/2692399)
+7. [英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别](https://www.aibase.com/zh/news/31382)
+8. [暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击](https://www.aibase.com/zh/news/31384)
+9. [英伟达披露：AI 需求持续扩张，供应承诺额暴增 135%，Anthropic 已签约超 1800 亿美元](https://wallstreetcn.com/articles/3782667)
+10. [17.5 亿 三生制药达成一项 AI 制药合作](https://bydrug.pharmcube.com/news/detail/4209f668108e053cc4e642b218af8544)
