@@ -1,52 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-29 05:21:24
-
-## 新闻热榜
-
-1. [文旅局回应那英临时加唱弯弯的月亮：在调查核实中](https://news.sina.com.cn/c/2026-09-28/doc-initkxux9609791.shtml)
-2. [体育总局局长：部分传统优势项目成绩不及预期 暴露短板 存在问题](https://sports.sina.com.cn/basketball/nba/2026-09-28/doc-initirzr3991417.shtml)
-3. [欧盟委员会发布巴西家禽审计报告，审计发现巴西家禽符合抗生素使用规定。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9518356.shtml)
-4. [美国官员：我们的立场日益坚定，特朗普总统表现出耐心，并致力于阻止伊朗获得核武器。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9619522.shtml)
-5. [WTI原油日内跌1%，现报91.48美元/桶。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeau2867150.shtml)
-6. [教育“虎”被查，任学会会长多年](https://news.sina.com.cn/c/2026-09-28/doc-initkpex8566663.shtml)
-7. [加强预售管理、有序实施现房销售，上海出台商品住房销售制度改革地方实施意见](https://news.sina.com.cn/c/2026-09-28/doc-initktnz9666804.shtml)
-8. [美国国债跌幅收窄。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9619827.shtml)
-9. [瑞士公投压倒性否决“强化中立入宪”动议，11月还将表决放宽武器出口](https://news.sina.com.cn/w/2026-09-28/doc-initkarc8710301.shtml)
-10. [王楚钦称“现在的打球环境没那么纯粹了”：会受到一些影响，可能像慢性毒药一样消耗自己的能量，自己现在感觉确实是很累](https://news.sina.com.cn/c/2026-09-28/doc-initkxuw2920936.shtml)
-11. [美国正考虑通过减免红色柴油（染色柴油 / 非道路柴油）税来降低油价。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2753385.shtml)
-12. [特朗普：美国钢铁产量已超过日本。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9541806.shtml)
-13. [白宫顾问哈塞特：30年期通胀保值债券（TIPS）收益率表明，当前资本回报率更高。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9625804.shtml)
-14. [俄雅罗斯拉夫尔州一企业发生火灾致13人死亡](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9518221.shtml)
-15. [伊拉克各航空公司已恢复经由纳杰夫机场飞往伊朗的航班。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9523307.shtml)
-16. [特朗普：如果卢旺达、刚果民主共和国协议遭到违反，我们将予以制止。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2780528.shtml)
-17. [俄罗斯总统普京已将俄罗斯军队的法定编制人数定为2,441,630人，其中包括1,550,500名现役军人。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9630654.shtml)
-18. [俄罗斯总统普京：近期的选举证实了俄罗斯所有政府部门的合法性。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9614173.shtml)
-19. [特朗普：如果我们不自己生产钢铁，就无法保卫自己。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2778409.shtml)
-20. [美国将批准伊朗与伊拉克纳杰夫之间航班的豁免许可，允许伊拉克航空执飞伊朗航线，为期一个月。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2757853.shtml)
-
-## 财经热榜
-
-1. [欧盟委员会发布巴西家禽审计报告，审计发现巴西家禽符合抗生素使用规定。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9518356.shtml)
-2. [美国官员：我们的立场日益坚定，特朗普总统表现出耐心，并致力于阻止伊朗获得核武器。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9619522.shtml)
-3. [WTI原油日内跌1%，现报91.48美元/桶。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeau2867150.shtml)
-4. [美国国债跌幅收窄。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9619827.shtml)
-5. [美国正考虑通过减免红色柴油（染色柴油 / 非道路柴油）税来降低油价。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2753385.shtml)
-6. [特朗普：美国钢铁产量已超过日本。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9541806.shtml)
-7. [德银：严重短缺料使铜价触及22,050美元 市场进入“历史性金属争夺战”](https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkxuw2840472.shtml)
-8. [白宫顾问哈塞特：30年期通胀保值债券（TIPS）收益率表明，当前资本回报率更高。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9625804.shtml)
-9. [俄雅罗斯拉夫尔州一企业发生火灾致13人死亡](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9518221.shtml)
-10. [伊拉克各航空公司已恢复经由纳杰夫机场飞往伊朗的航班。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9523307.shtml)
-11. [特朗普：如果卢旺达、刚果民主共和国协议遭到违反，我们将予以制止。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2780528.shtml)
-12. [俄罗斯总统普京：近期的选举证实了俄罗斯所有政府部门的合法性。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9614173.shtml)
-13. [俄罗斯总统普京已将俄罗斯军队的法定编制人数定为2,441,630人，其中包括1,550,500名现役军人。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmeav9630654.shtml)
-14. [美国将批准伊朗与伊拉克纳杰夫之间航班的豁免许可，允许伊拉克航空执飞伊朗航线，为期一个月。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2757853.shtml)
-15. [特朗普：如果我们不自己生产钢铁，就无法保卫自己。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2778409.shtml)
-16. [特斯拉：Roadster 活动改期，新日期为 10 月 15 日。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9553703.shtml)
-17. [恒指期货夜盘收跌0.10%，报24658.50点，高水15.99点。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkks2780759.shtml)
-18. [上期所原油期货夜盘收跌3.06%，报711.60元人民币/桶。沪金夜盘收跌1.57%，沪银收跌1.63%。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9541812.shtml)
-19. [特朗普在被问及爱荷华州的民调时，声称这些民调是虚假的。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9551943.shtml)
-20. [特朗普：很快就会赢得伊朗战争，战争就会结束。](https://finance.sina.com.cn/7x24/2026-09-29/doc-initmkkt9550642.shtml)
+> 更新时间：2026-09-29 05:24:26
 
 ## 7x24
 
