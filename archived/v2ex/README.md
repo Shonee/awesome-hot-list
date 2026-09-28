@@ -1,13 +1,14 @@
 # V2EX热榜
 
-> 更新时间：2026-09-28 09:12:26
+> 更新时间：2026-09-28 12:39:47
 
 ## 热门主题
 
-1. [女朋友说“在你这里很没有气氛”，性格沉闷的我该怎么补救？](https://www.v2ex.com/t/1244983)
-2. [muse 注册非常丝滑，正常注册就行！](https://www.v2ex.com/t/1245031)
-3. [看了影视飓风 Tim 的创业视频，聊聊我的看法](https://www.v2ex.com/t/1245104)
-4. [新款 Apple Watch 的设计太离谱了吧](https://www.v2ex.com/t/1245062)
-5. [离职半年了， AI 对工作流程的影响有多大？想回去上班](https://www.v2ex.com/t/1245020)
-6. [求家庭组网方案建议](https://www.v2ex.com/t/1245037)
-7. [主账号都用的国区还是用外区 apple id??](https://www.v2ex.com/t/1245059)
+1. [我实在是无法理解认为重置周期时间会亏这种想法](https://www.v2ex.com/t/1245140)
+2. [看了影视飓风 Tim 的创业视频，聊聊我的看法](https://www.v2ex.com/t/1245104)
+3. [muse 注册非常丝滑，正常注册就行！](https://www.v2ex.com/t/1245031)
+4. [银河 ETF 免 5 即将停止，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。](https://www.v2ex.com/t/1245115)
+5. [有多少人和我一样今天连休！中秋到国庆之间这三天！](https://www.v2ex.com/t/1245124)
+6. [VVAE：一个 V2EX 原生 iOS 客户端 - 送 Premium 兑换码](https://www.v2ex.com/t/1245121)
+7. [新款 Apple Watch 的设计太离谱了吧](https://www.v2ex.com/t/1245062)
+8. [第一次去港澳，想问问有什么值得特地去买的东西吗](https://www.v2ex.com/t/1245130)
