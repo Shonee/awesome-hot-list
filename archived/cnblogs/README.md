@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-28 16:37:58
+> 更新时间：2026-09-28 17:35:14
 
 ## 最新帖子
 
-1. [手把手带你走一遍：机器学习模型如何用FastAPI和Docker部署](https://www.cnblogs.com/wang_yb/p/23144370)
-2. [题解：AT_abc477_d [ABC477D] Masking Tape](https://www.cnblogs.com/qz5zwangzihan1/p/23141781)
-3. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
-4. [什么样的编码智能体值得信任？——SolonCode 的设计取舍](https://www.cnblogs.com/noear/p/23141197)
-5. [Jenkins构建完成后发送飞书通知消息](https://www.cnblogs.com/xiaoyu01/p/23139277)
-6. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
-7. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
-8. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
-9. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
-10. [100亿订单号如何去重](https://www.cnblogs.com/zrui-xyu/p/23138991)
-11. [Java异常处理总结](https://www.cnblogs.com/xiexj/p/23138657)
-12. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
-13. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
-14. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
-15. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
-16. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
-17. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
-18. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
-19. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
-20. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
+1. [日志系统选型笔记：Loki / ELK / Doris 三方的取舍点](https://www.cnblogs.com/SelectDB/p/23082460)
+2. [从 epoll 到 Reactor：Redis 单线程与多线程的性能与简洁之衡](https://www.cnblogs.com/yhup/p/23145879)
+3. [手把手带你走一遍：机器学习模型如何用FastAPI和Docker部署](https://www.cnblogs.com/wang_yb/p/23144370)
+4. [题解：AT_abc477_d [ABC477D] Masking Tape](https://www.cnblogs.com/qz5zwangzihan1/p/23141781)
+5. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
+6. [什么样的编码智能体值得信任？——SolonCode 的设计取舍](https://www.cnblogs.com/noear/p/23141197)
+7. [Jenkins构建完成后发送飞书通知消息](https://www.cnblogs.com/xiaoyu01/p/23139277)
+8. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
+9. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
+10. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
+11. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
+12. [100亿订单号如何去重](https://www.cnblogs.com/zrui-xyu/p/23138991)
+13. [Java异常处理总结](https://www.cnblogs.com/xiexj/p/23138657)
+14. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
+15. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
+16. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
+17. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
+18. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
+19. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
+20. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
 
 ## 精华帖子
 
