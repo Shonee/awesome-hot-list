@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-29 03:19:13
+> 更新时间：2026-09-29 04:21:52
 
 ## 热门文章
 
@@ -19,10 +19,10 @@
 13. [第 26 章 案例二 企业知识库问答 Agent](https://juejin.cn/post/7689219046840074278)
 14. [官方说一个破折号拖慢整段高亮，我在 Node 里验证了一遍：机制是真的，2.8 倍没跑出来](https://juejin.cn/post/7688978039406346259)
 15. [画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词](https://juejin.cn/post/7690197651807633462)
-16. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
-17. [同样用 Element Plus，为什么你的后台总有一股“模板味”？](https://juejin.cn/post/7690405198255325234)
-18. [DeepSeek Harness 出了桌面端？我把它扒了一遍](https://juejin.cn/post/7690197651808616502)
-19. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
+16. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
+17. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
+18. [同样用 Element Plus，为什么你的后台总有一股“模板味”？](https://juejin.cn/post/7690405198255325234)
+19. [DeepSeek Harness 出了桌面端？我把它扒了一遍](https://juejin.cn/post/7690197651808616502)
 20. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
 21. [从零实现一个带虚拟滚动的 Select](https://juejin.cn/post/7689656350306959406)
 22. [Hooks 原理：把"每次重跑的函数"变成"有记忆的组件"](https://juejin.cn/post/7689299210249240627)
@@ -37,10 +37,10 @@
 31. [Hutool之RandomUtil：随机数生成的终极利器](https://juejin.cn/post/7689654965350137899)
 32. [Electron 自动化发布指南：GitHub Actions 跨平台打包全纪录](https://juejin.cn/post/7689431365684281384)
 33. [引擎里没有 setStatus：状态迁移收口，不用状态机框架](https://juejin.cn/post/7689314158994571310)
-34. [Nginx 学习笔记：Server 块配置详解，域名路由与多站点部署实战](https://juejin.cn/post/7689065487934275630)
-35. [聚合边界：为什么 ProcessTask 没有自己的 Repository](https://juejin.cn/post/7689030783366103066)
-36. [React 渲染与 Fiber：从同步递归到可中断的并发渲染](https://juejin.cn/post/7689030783365791770)
-37. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://juejin.cn/post/7689096640691175439)
+34. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://juejin.cn/post/7689096640691175439)
+35. [Nginx 学习笔记：Server 块配置详解，域名路由与多站点部署实战](https://juejin.cn/post/7689065487934275630)
+36. [聚合边界：为什么 ProcessTask 没有自己的 Repository](https://juejin.cn/post/7689030783366103066)
+37. [React 渲染与 Fiber：从同步递归到可中断的并发渲染](https://juejin.cn/post/7689030783365791770)
 38. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
 39. [Flutter 原生插件开发实战指南](https://juejin.cn/post/7690010257951948842)
 40. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
