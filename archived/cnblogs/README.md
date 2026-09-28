@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-28 14:50:55
+> 更新时间：2026-09-28 15:40:26
 
 ## 最新帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [Jev 发布三天就被开源了：33 毫秒做一次判断的 Laya，值不值得进生产？](https://www.cnblogs.com/xiaobaiysf/p/23127340)
-2. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
-3. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
-4. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
-5. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
+2. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
+3. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
+4. [用 Jev 做了一个电商客服质检 Demo：意图识别、情绪监控与危险话术拦截](https://www.cnblogs.com/kiler/p/23131595)
+5. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
 6. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-28 14:51:40
+> 更新时间：2026-09-28 15:40:37
 
 ## 24 小时热榜
 
@@ -10,30 +10,30 @@
 4. [《自然》揭秘：大模型时代新型学术骗局，假机构兜售院士头衔牟利](https://readhub.cn/topic/8wm1aFpBEKh?tab=daily)
 5. [Anthropic 推出新版 Playground 无代码也可运行 Claude API](https://readhub.cn/topic/8wlt0bPrvFs?tab=daily)
 6. [问界新 M8 将于 9 月 30 日开启预售 标配 L3 级自动驾驶架构](https://readhub.cn/topic/8wlH8wenLtd?tab=daily)
-7. [世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量交付](https://readhub.cn/topic/8wlkRC30uRv?tab=daily)
-8. [OpenAI 与 Anthropic 首席执行官被传唤出席澳大利亚 AI 调查听证会](https://readhub.cn/topic/8wlC8bSCckp?tab=daily)
-9. [蔚来李斌：全国 4125 座换电站已组成 8GWh 储能网](https://readhub.cn/topic/8wlbrIbWu9v?tab=daily)
-10. [奇瑞 QQ 系列未断代 探讨从爆款向经典升级路径](https://readhub.cn/topic/8wjqtu7LcfC?tab=daily)
-11. [智谱 ZCode 删除涉事云端数据 向用户赠送重置卡及 1 亿 Token 额度](https://readhub.cn/topic/8wmiSkgHibg?tab=daily)
-12. [DeepSeek Harness 官方桌面客户端曝光，大幅降低使用门槛](https://readhub.cn/topic/8wmZCTMQgrq?tab=daily)
-13. [新能源摩托车加速出海，两轮制造升级为智能终端](https://readhub.cn/topic/8wjJekWyIGs?tab=daily)
-14. [长安汽车成立 AD 协同发展部 阿维塔与深蓝开启实质整合](https://readhub.cn/topic/8wlgrTvqrk6?tab=daily)
+7. [携程推「无理由事假」新规：员工请假 1 天，团队可分 600 元](https://readhub.cn/topic/8wmotSkKjGr?tab=daily)
+8. [世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量交付](https://readhub.cn/topic/8wlkRC30uRv?tab=daily)
+9. [OpenAI 与 Anthropic 首席执行官被传唤出席澳大利亚 AI 调查听证会](https://readhub.cn/topic/8wlC8bSCckp?tab=daily)
+10. [智谱 ZCode 删除涉事云端数据 向用户赠送重置卡及 1 亿 Token 额度](https://readhub.cn/topic/8wmiSkgHibg?tab=daily)
+11. [奇瑞 QQ 系列未断代 探讨从爆款向经典升级路径](https://readhub.cn/topic/8wjqtu7LcfC?tab=daily)
+12. [蔚来李斌：全国 4125 座换电站已组成 8GWh 储能网](https://readhub.cn/topic/8wlbrIbWu9v?tab=daily)
+13. [DeepSeek Harness 官方桌面客户端曝光，大幅降低使用门槛](https://readhub.cn/topic/8wmZCTMQgrq?tab=daily)
+14. [新能源摩托车加速出海，两轮制造升级为智能终端](https://readhub.cn/topic/8wjJekWyIGs?tab=daily)
 15. [美国 OpenAI 暂停最新一代人工智能模型训练](https://readhub.cn/topic/8wlU0SKvCod?tab=daily)
-16. [AI 初创公司 TypeSafe AI 洽谈融资，估值或超百亿美元](https://readhub.cn/topic/8wjuoogd3Bb?tab=daily)
-17. [海思科：创新药 HSK42360-Na 片纳入突破性治疗药物程序](https://readhub.cn/topic/8wlLnWGPkmo?tab=daily)
-18. [黑客暗网兜售 AI 模型访问权限，最低价仅正版 3%](https://readhub.cn/topic/8wmPAn2zHvC?tab=daily)
-19. [波音指出 737 MAX 存在影响着陆导航功能的软件故障](https://readhub.cn/topic/8wkQyLiXcQO?tab=daily)
-20. [恩捷股份：拟 11.5 亿元收购湖北恩捷 45% 股权](https://readhub.cn/topic/8wlOenJm6gA?tab=daily)
-21. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
-22. [Jev 创造者、前 OpenAI 成员称 ChatGPT 将被视为行业弯路](https://readhub.cn/topic/8wlFhr465bf?tab=daily)
-23. [通鼎互联：拟 1 亿元收购南京和本机电 14.2984% 股权](https://readhub.cn/topic/8wlLQYIFkUC?tab=daily)
-24. [8.08 万-9.98 万元，一汽-大众捷达首款新能源 M6 纯电家轿开启预售](https://readhub.cn/topic/8wmaccrt3wB?tab=daily)
-25. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
-26. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
-27. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
-28. [粤芯半导体：创业板 IPO 网上发行中签率 0.0424%](https://readhub.cn/topic/8wlfngvmvbK?tab=daily)
-29. [竞业达：实控人、董事长钱瑞解除留置](https://readhub.cn/topic/8wlKMdEbnPs?tab=daily)
-30. [中科飞测：实控人的一致行动人拟减持不超 0.28% 股份](https://readhub.cn/topic/8wlKMbxhJFv?tab=daily)
+16. [长安汽车成立 AD 协同发展部 阿维塔与深蓝开启实质整合](https://readhub.cn/topic/8wlgrTvqrk6?tab=daily)
+17. [段永平发帖：买入 3 万股贵州茅台](https://readhub.cn/topic/8wmqJyiNASp?tab=daily)
+18. [AI 初创公司 TypeSafe AI 洽谈融资，估值或超百亿美元](https://readhub.cn/topic/8wjuoogd3Bb?tab=daily)
+19. [Jev 创造者、前 OpenAI 成员称 ChatGPT 将被视为行业弯路](https://readhub.cn/topic/8wlFhr465bf?tab=daily)
+20. [海思科：创新药 HSK42360-Na 片纳入突破性治疗药物程序](https://readhub.cn/topic/8wlLnWGPkmo?tab=daily)
+21. [黑客暗网兜售 AI 模型访问权限，最低价仅正版 3%](https://readhub.cn/topic/8wmPAn2zHvC?tab=daily)
+22. [8.08 万-9.98 万元，一汽-大众捷达首款新能源 M6 纯电家轿开启预售](https://readhub.cn/topic/8wmaccrt3wB?tab=daily)
+23. [波音指出 737 MAX 存在影响着陆导航功能的软件故障](https://readhub.cn/topic/8wkQyLiXcQO?tab=daily)
+24. [恩捷股份：拟 11.5 亿元收购湖北恩捷 45% 股权](https://readhub.cn/topic/8wlOenJm6gA?tab=daily)
+25. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
+26. [通鼎互联：拟 1 亿元收购南京和本机电 14.2984% 股权](https://readhub.cn/topic/8wlLQYIFkUC?tab=daily)
+27. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
+28. [腾讯 QQ 宠物登陆鸿蒙系统：会卖萌还会串门交朋友](https://readhub.cn/topic/8wmlJqkgNT7?tab=daily)
+29. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
+30. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
 
 ## 每日早报
 
