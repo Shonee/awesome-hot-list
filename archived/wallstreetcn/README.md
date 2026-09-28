@@ -1,10 +1,10 @@
 # 华尔街见闻热榜
 
-> 更新时间：2026-09-28 23:45:05
+> 更新时间：2026-09-28 23:54:41
 
 ## 7x24
 
-1. [快手可灵4.0将于10月正式上线](https://wallstreetcn.com/livenews/3171646)
+1. [快手可灵发布新一代视频生成模型，快手可灵4.0将于10月正式上线](https://wallstreetcn.com/livenews/3171646)
 2. [欧盟官员称欧盟考虑为乌克兰等四国制定“入盟路线图”](https://wallstreetcn.com/livenews/3171645)
 3. [周一（9月28日）欧市尾盘，ICE英国天然气期货涨2.04%，TTF基准荷兰天然气期货涨4.06%，ICE欧盟碳排放交易许可（期货价格）跌0.68%。](https://wallstreetcn.com/livenews/3171644)
 4. [白宫官员：美国总统特朗普昨晚会见Anthropic PBC的CEO Amodei。（彭博）](https://wallstreetcn.com/livenews/3171643)
@@ -135,7 +135,3 @@ Salesforce和Datadog下跌4.7%，ServiceNow下跌5.3%。](https://wallstreetcn.c
 79. [周一美股盘前你需要了解的全球要闻](https://wallstreetcn.com/livenews/3171558)
 80. [夜盘期货开盘，20号胶、豆二、沪金、沪银、菜粕、橡胶跌超1%，原油、豆粕、棕榈油跌近1%；丙烯、燃料油、焦炭涨近1%。](https://wallstreetcn.com/livenews/3171588)
 81. [广汽集团：拟购买一汽丰田50%股权，股票复牌](https://wallstreetcn.com/livenews/3171555)
-82. [星舰第14次试飞首次尝试入轨](https://wallstreetcn.com/livenews/3171554)
-83. [沙特东西输油管道石油输送量约达350万桶/日。](https://wallstreetcn.com/livenews/3171553)
-84. [我驻菲律宾使馆提醒来菲中国公民防范被诱骗绑架勒索](https://wallstreetcn.com/livenews/3171552)
-85. [美国敲定新的较低燃油经济性标准](https://wallstreetcn.com/livenews/3171551)
