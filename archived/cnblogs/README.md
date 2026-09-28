@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-28 13:26:19
+> 更新时间：2026-09-28 14:50:55
 
 ## 最新帖子
 
 1. [题解：AT_abc477_d [ABC477D] Masking Tape](https://www.cnblogs.com/qz5zwangzihan1/p/23141781)
-2. [最新版vite8.3+vue3+deepseek-v4.1-flash网页版webai模板](https://www.cnblogs.com/yxybox/p/23141304)
-3. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
-4. [Jenkins构建完成后发送飞书通知消息](https://www.cnblogs.com/xiaoyu01/p/23139277)
-5. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
-6. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
-7. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
-8. [Java异常处理总结](https://www.cnblogs.com/xiexj/p/23138657)
-9. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
-10. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
-11. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
-12. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
-13. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
-14. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
-15. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
-16. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
-17. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
-18. [并发编程（五）：Atomic——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23115900)
-19. [先让程序开口说话：为什么把人机交互放在最前面](https://www.cnblogs.com/zw-awa/p/23133434)
-20. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
+2. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
+3. [Jenkins构建完成后发送飞书通知消息](https://www.cnblogs.com/xiaoyu01/p/23139277)
+4. [突发！字节内部大调整，QA直接转研发了？](https://www.cnblogs.com/jinjiangongzuoshi/p/23139251)
+5. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
+6. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
+7. [Java异常处理总结](https://www.cnblogs.com/xiexj/p/23138657)
+8. [Elastic Stack - Elasticsearch · 倒排索引 · 字段数据类型 · 增删改查 · 父子关系 · SQL语句](https://www.cnblogs.com/Sol-wang/p/23016526)
+9. [【FHE】（十二）：为什么我们把 OpenMP 换成了自研线程池](https://www.cnblogs.com/haliuhome/p/23138413)
+10. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
+11. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
+12. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
+13. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
+14. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
+15. [架构师必备：绕不开的国际化和本地化支持](https://www.cnblogs.com/toplist/p/22951802)
+16. [OpenSandbox 1.1.0：阿里开源的 AI 沙箱平台，这次把版本号也管明白了](https://www.cnblogs.com/shanyou/p/23130792)
+17. [并发编程（五）：Atomic——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23115900)
+18. [先让程序开口说话：为什么把人机交互放在最前面](https://www.cnblogs.com/zw-awa/p/23133434)
+19. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
+20. [在笔记本上自制多模态小语言模型指南](https://www.cnblogs.com/duoia/p/23134279)
 
 ## 精华帖子
 

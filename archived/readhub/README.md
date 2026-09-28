@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-28 13:26:30
+> 更新时间：2026-09-28 14:51:40
 
 ## 24 小时热榜
 
@@ -14,26 +14,26 @@
 8. [OpenAI 与 Anthropic 首席执行官被传唤出席澳大利亚 AI 调查听证会](https://readhub.cn/topic/8wlC8bSCckp?tab=daily)
 9. [蔚来李斌：全国 4125 座换电站已组成 8GWh 储能网](https://readhub.cn/topic/8wlbrIbWu9v?tab=daily)
 10. [奇瑞 QQ 系列未断代 探讨从爆款向经典升级路径](https://readhub.cn/topic/8wjqtu7LcfC?tab=daily)
-11. [DeepSeek Harness 官方桌面客户端曝光，大幅降低使用门槛](https://readhub.cn/topic/8wmZCTMQgrq?tab=daily)
-12. [新能源摩托车加速出海，两轮制造升级为智能终端](https://readhub.cn/topic/8wjJekWyIGs?tab=daily)
-13. [长安汽车成立 AD 协同发展部 阿维塔与深蓝开启实质整合](https://readhub.cn/topic/8wlgrTvqrk6?tab=daily)
-14. [美国 OpenAI 暂停最新一代人工智能模型训练](https://readhub.cn/topic/8wlU0SKvCod?tab=daily)
-15. [AI 初创公司 TypeSafe AI 洽谈融资，估值或超百亿美元](https://readhub.cn/topic/8wjuoogd3Bb?tab=daily)
-16. [海思科：创新药 HSK42360-Na 片纳入突破性治疗药物程序](https://readhub.cn/topic/8wlLnWGPkmo?tab=daily)
-17. [恩捷股份：拟 11.5 亿元收购湖北恩捷 45% 股权](https://readhub.cn/topic/8wlOenJm6gA?tab=daily)
-18. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
+11. [智谱 ZCode 删除涉事云端数据 向用户赠送重置卡及 1 亿 Token 额度](https://readhub.cn/topic/8wmiSkgHibg?tab=daily)
+12. [DeepSeek Harness 官方桌面客户端曝光，大幅降低使用门槛](https://readhub.cn/topic/8wmZCTMQgrq?tab=daily)
+13. [新能源摩托车加速出海，两轮制造升级为智能终端](https://readhub.cn/topic/8wjJekWyIGs?tab=daily)
+14. [长安汽车成立 AD 协同发展部 阿维塔与深蓝开启实质整合](https://readhub.cn/topic/8wlgrTvqrk6?tab=daily)
+15. [美国 OpenAI 暂停最新一代人工智能模型训练](https://readhub.cn/topic/8wlU0SKvCod?tab=daily)
+16. [AI 初创公司 TypeSafe AI 洽谈融资，估值或超百亿美元](https://readhub.cn/topic/8wjuoogd3Bb?tab=daily)
+17. [海思科：创新药 HSK42360-Na 片纳入突破性治疗药物程序](https://readhub.cn/topic/8wlLnWGPkmo?tab=daily)
+18. [黑客暗网兜售 AI 模型访问权限，最低价仅正版 3%](https://readhub.cn/topic/8wmPAn2zHvC?tab=daily)
 19. [波音指出 737 MAX 存在影响着陆导航功能的软件故障](https://readhub.cn/topic/8wkQyLiXcQO?tab=daily)
-20. [通鼎互联：拟 1 亿元收购南京和本机电 14.2984% 股权](https://readhub.cn/topic/8wlLQYIFkUC?tab=daily)
-21. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
-22. [智谱 ZCode 删除涉事云端数据 向用户赠送重置卡及 1 亿 Token 额度](https://readhub.cn/topic/8wmiSkgHibg?tab=daily)
-23. [黑客暗网兜售 AI 模型访问权限，最低价仅正版 3%](https://readhub.cn/topic/8wmPAn2zHvC?tab=daily)
+20. [恩捷股份：拟 11.5 亿元收购湖北恩捷 45% 股权](https://readhub.cn/topic/8wlOenJm6gA?tab=daily)
+21. [汇绿生态：拟 3.09 亿元投建钧恒科技研发生产基地 新增 200 万支高速率光模块产线](https://readhub.cn/topic/8wlPiX7QQtu?tab=daily)
+22. [Jev 创造者、前 OpenAI 成员称 ChatGPT 将被视为行业弯路](https://readhub.cn/topic/8wlFhr465bf?tab=daily)
+23. [通鼎互联：拟 1 亿元收购南京和本机电 14.2984% 股权](https://readhub.cn/topic/8wlLQYIFkUC?tab=daily)
 24. [8.08 万-9.98 万元，一汽-大众捷达首款新能源 M6 纯电家轿开启预售](https://readhub.cn/topic/8wmaccrt3wB?tab=daily)
-25. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
-26. [粤芯半导体：创业板 IPO 网上发行中签率 0.0424%](https://readhub.cn/topic/8wlfngvmvbK?tab=daily)
-27. [竞业达：实控人、董事长钱瑞解除留置](https://readhub.cn/topic/8wlKMdEbnPs?tab=daily)
-28. [中科飞测：实控人的一致行动人拟减持不超 0.28% 股份](https://readhub.cn/topic/8wlKMbxhJFv?tab=daily)
-29. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
-30. [年内外资调研 A 股公司近 6000 次](https://readhub.cn/topic/8wmOSB6BTnX?tab=daily)
+25. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
+26. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
+27. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
+28. [粤芯半导体：创业板 IPO 网上发行中签率 0.0424%](https://readhub.cn/topic/8wlfngvmvbK?tab=daily)
+29. [竞业达：实控人、董事长钱瑞解除留置](https://readhub.cn/topic/8wlKMdEbnPs?tab=daily)
+30. [中科飞测：实控人的一致行动人拟减持不超 0.28% 股份](https://readhub.cn/topic/8wlKMbxhJFv?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [AI 测谎仪真的有用吗？](https://www.mittrchina.com/news/detail/17022)
-2. [自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论](https://www.aibase.com/zh/news/31373)
-3. [OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型](https://www.aibase.com/zh/news/31366)
-4. [前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿](https://www.aibase.com/zh/news/31363)
-5. [谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线](https://www.aibase.com/zh/news/31361)
-6. [视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测](https://www.aibase.com/zh/news/31360)
-7. [OpenAI 智能体为获取联合国数据，数月内密集扫描网站超 1.6 万次](https://www.aibase.com/zh/news/31371)
-8. [Imagination E 系列性能首秀：用 AI 把分辨率翻倍仅需 2.3 毫秒，Prefill 性能提升 4.7 倍](https://www.leiphone.com/category/chips/GZHLOpS28auhtU2f.html)
-9. [首款端侧 Agent 旗舰刚落地就触碰安全红线？豆包 AI 否认涉足游戏外挂](https://www.aibase.com/zh/news/31362)
-10. [比尔・盖茨：再熬约 20 年调整期，AI 将把人类带进「富足时代」](https://www.aibase.com/zh/news/31374)
+1. [英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别](https://www.aibase.com/zh/news/31382)
+2. [AI 测谎仪真的有用吗？](https://www.mittrchina.com/news/detail/17022)
+3. [自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论](https://www.aibase.com/zh/news/31373)
+4. [OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型](https://www.aibase.com/zh/news/31366)
+5. [前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿](https://www.aibase.com/zh/news/31363)
+6. [OpenAI 重排 Pro 档位：5x 和 20x 用量承诺下线](https://www.aibase.com/zh/news/31379)
+7. [谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线](https://www.aibase.com/zh/news/31361)
+8. [视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测](https://www.aibase.com/zh/news/31360)
+9. [智谱 ZCode 落地新轮补偿：赠付费用户 8 张重置卡，已彻底移除代码快照上传链路](https://www.aibase.com/zh/news/31377)
+10. [OpenAI 智能体为获取联合国数据，数月内密集扫描网站超 1.6 万次](https://www.aibase.com/zh/news/31371)
