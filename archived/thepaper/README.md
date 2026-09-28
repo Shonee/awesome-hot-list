@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-28 17:35:26
+> 更新时间：2026-09-28 18:27:22
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [国足0比3不敌新西兰，邵佳一：这是真实的差距](https://www.thepaper.cn/newsDetail_forward_34161934)
 14. [言短意长丨“48小时”不能成为放弃抢救的倒计时](https://www.thepaper.cn/newsDetail_forward_34161020)
 15. [速度之外，上海8小时耐力赛的安全底色与消费脉搏](https://www.thepaper.cn/newsDetail_forward_34160439)
-16. [上半场连失两球，国足热身赛0比3不敌新西兰](https://www.thepaper.cn/newsDetail_forward_34161581)
-17. [马上评｜郑刚罗永浩与其隔空斗法，不如诉之于法](https://www.thepaper.cn/newsDetail_forward_34164630)
+16. [马上评｜郑刚罗永浩与其隔空斗法，不如诉之于法](https://www.thepaper.cn/newsDetail_forward_34164630)
+17. [上半场连失两球，国足热身赛0比3不敌新西兰](https://www.thepaper.cn/newsDetail_forward_34161581)
 18. [言短意长｜演唱会迟到两小时不可怕，李克勤以真诚赢得谅解](https://www.thepaper.cn/newsDetail_forward_34161975)
 19. [中国女选手何晓嫚获得世界技能大赛“王中王”，中国第3次拿下阿尔伯特·维达大奖](https://www.thepaper.cn/newsDetail_forward_34162252)
 20. [新款豆包手机玩王者荣耀遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整](https://www.thepaper.cn/newsDetail_forward_34161385)

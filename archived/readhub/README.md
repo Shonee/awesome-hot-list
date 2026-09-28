@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-28 17:35:25
+> 更新时间：2026-09-28 18:27:21
 
 ## 24 小时热榜
 
@@ -19,20 +19,20 @@
 13. [长安汽车成立 AD 协同发展部 阿维塔与深蓝开启实质整合](https://readhub.cn/topic/8wlgrTvqrk6?tab=daily)
 14. [AI 初创公司 TypeSafe AI 洽谈融资，估值或超百亿美元](https://readhub.cn/topic/8wjuoogd3Bb?tab=daily)
 15. [Jev 创造者、前 OpenAI 成员称 ChatGPT 将被视为行业弯路](https://readhub.cn/topic/8wlFhr465bf?tab=daily)
-16. [黑客暗网兜售 AI 模型访问权限，最低价仅正版 3%](https://readhub.cn/topic/8wmPAn2zHvC?tab=daily)
-17. [8.08 万-9.98 万元，一汽-大众捷达首款新能源 M6 纯电家轿开启预售](https://readhub.cn/topic/8wmaccrt3wB?tab=daily)
+16. [8.08 万-9.98 万元，一汽-大众捷达首款新能源 M6 纯电家轿开启预售](https://readhub.cn/topic/8wmaccrt3wB?tab=daily)
+17. [黑客暗网兜售 AI 模型访问权限，最低价仅正版 3%](https://readhub.cn/topic/8wmPAn2zHvC?tab=daily)
 18. [波音指出 737 MAX 存在影响着陆导航功能的软件故障](https://readhub.cn/topic/8wkQyLiXcQO?tab=daily)
-19. [恩捷股份：拟 11.5 亿元收购湖北恩捷 45% 股权](https://readhub.cn/topic/8wlOenJm6gA?tab=daily)
+19. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
 20. [腾讯 QQ 宠物登陆鸿蒙系统：会卖萌还会串门交朋友](https://readhub.cn/topic/8wmlJqkgNT7?tab=daily)
-21. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
-22. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
-23. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
-24. [粤芯半导体：创业板 IPO 网上发行中签率 0.0424%](https://readhub.cn/topic/8wlfngvmvbK?tab=daily)
-25. [苹果 A20 Pro 模拟运行《GTA5》性能接近 GTX1650 能效高约 12 倍](https://readhub.cn/topic/8wmPt88MRzA?tab=daily)
-26. [郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣](https://readhub.cn/topic/8wmPtOiTZ6w?tab=daily)
-27. [年内外资调研 A 股公司近 6000 次](https://readhub.cn/topic/8wmOSB6BTnX?tab=daily)
-28. [千问与夸克网盘打通，网盘成为 AI 可调用的个人知识库](https://readhub.cn/topic/8wmxTPIYMe9?tab=daily)
-29. [余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响](https://readhub.cn/topic/8wmw36INvoN?tab=daily)
+21. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
+22. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
+23. [粤芯半导体：创业板 IPO 网上发行中签率 0.0424%](https://readhub.cn/topic/8wlfngvmvbK?tab=daily)
+24. [苹果 A20 Pro 模拟运行《GTA5》性能接近 GTX1650 能效高约 12 倍](https://readhub.cn/topic/8wmPt88MRzA?tab=daily)
+25. [郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣](https://readhub.cn/topic/8wmPtOiTZ6w?tab=daily)
+26. [年内外资调研 A 股公司近 6000 次](https://readhub.cn/topic/8wmOSB6BTnX?tab=daily)
+27. [千问与夸克网盘打通，网盘成为 AI 可调用的个人知识库](https://readhub.cn/topic/8wmxTPIYMe9?tab=daily)
+28. [余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响](https://readhub.cn/topic/8wmw36INvoN?tab=daily)
+29. [DeepSeek 与 Kimi 同步发布大规模 AI 人才招募计划](https://readhub.cn/topic/8wmwmkH9Z8f?tab=daily)
 30. [OpenAI 据称将紧急推出个人 AI 助手 以正面迎战 Meta Muse](https://readhub.cn/topic/8wmVcPzuHk7?tab=daily)
 
 ## 每日早报
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [当 AI 失控，谁来担责？](https://www.mittrchina.com/news/detail/17025)
-2. [英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别](https://www.aibase.com/zh/news/31382)
-3. [暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击](https://www.aibase.com/zh/news/31384)
-4. [AI 测谎仪真的有用吗？](https://www.mittrchina.com/news/detail/17022)
-5. [千问 App 接入夸克网盘，AI 可直接读取并处理网盘文件](https://www.aibase.com/zh/news/31386)
-6. [从「算得快」到「干得了活」：AI 推理时代，CPU 如何重塑算力版图](https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html)
-7. [自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论](https://www.aibase.com/zh/news/31373)
-8. [OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型](https://www.aibase.com/zh/news/31366)
-9. [英伟达推出 AI 智能体安全平台，可实时隔离异常智能体](https://www.jiemian.com/article/15146106.html)
-10. [前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿](https://www.aibase.com/zh/news/31363)
+2. [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
+3. [英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别](https://www.aibase.com/zh/news/31382)
+4. [暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击](https://www.aibase.com/zh/news/31384)
+5. [AI 测谎仪真的有用吗？](https://www.mittrchina.com/news/detail/17022)
+6. [千问 App 接入夸克网盘，AI 可直接读取并处理网盘文件](https://www.aibase.com/zh/news/31386)
+7. [AIGCPanel v2.5.0 接入云端双引擎，数字人与直播音色分库管理](https://www.aibase.com/zh/news/31388)
+8. [从「算得快」到「干得了活」：AI 推理时代，CPU 如何重塑算力版图](https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html)
+9. [本田重申 Momenta 合作，中国智驾全球布局提速](https://www.leiphone.com/category/industrynews/uBfs2Eq8httYmMN0.html)
+10. [曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一](https://www.aibase.com/zh/news/31389)

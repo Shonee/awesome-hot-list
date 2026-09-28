@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-28 17:35:09
+> 更新时间：2026-09-28 18:26:34
 
 ## 热门文章
 
@@ -13,8 +13,8 @@
 7. [开发自己的第一个MCP--用 AI 智能重构 Excel 处理工作流](https://juejin.cn/post/7688929298951864335)
 8. [栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...](https://juejin.cn/post/7689866047096602666)
 9. [第一次当面试官有感](https://juejin.cn/post/7689408456148074523)
-10. [官方说一个破折号拖慢整段高亮，我在 Node 里验证了一遍：机制是真的，2.8 倍没跑出来](https://juejin.cn/post/7688978039406346259)
-11. [vtable-guild 被收录进 vuejs/awesome-vue 了 🎉](https://juejin.cn/post/7689299285138374692)
+10. [vtable-guild 被收录进 vuejs/awesome-vue 了 🎉](https://juejin.cn/post/7689299285138374692)
+11. [官方说一个破折号拖慢整段高亮，我在 Node 里验证了一遍：机制是真的，2.8 倍没跑出来](https://juejin.cn/post/7688978039406346259)
 12. [别跟风 AI 副业，工程师最该学的是 AI Coding](https://juejin.cn/post/7689830772006846498)
 13. [第 26 章 案例二 企业知识库问答 Agent](https://juejin.cn/post/7689219046840074278)
 14. [2026年，你终于可以在 `<textarea>` 里定位任意字符了](https://juejin.cn/post/7690190550998007827)
