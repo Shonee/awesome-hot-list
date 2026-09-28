@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-29 06:22:58
+> 更新时间：2026-09-29 07:21:29
 
 ## Hottest
 
@@ -18,11 +18,11 @@
 12. [What are you doing this week?](https://lobste.rs/s/hgmgp2)
 13. [postmarketOS rebrands as Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
 14. [Fool's Expertise](https://bcantrill.dtrace.org/2026/09/27/fools-expertise/)
-15. [the normalization of inexplicable failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
-16. [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
-17. [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
-18. [Output-to-seed mappings for CPython's PRNG](https://github.com/frazerpearce/TimeLord)
-19. [State of the (Tagged) Union Address by Andrew Kelley](https://www.youtube.com/watch?v=zwi5b5xSsKA)
+15. [State of the (Tagged) Union Address by Andrew Kelley](https://www.youtube.com/watch?v=zwi5b5xSsKA)
+16. [the normalization of inexplicable failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
+17. [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
+18. [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
+19. [Output-to-seed mappings for CPython's PRNG](https://github.com/frazerpearce/TimeLord)
 20. [It’s Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
 21. [Ten Lines Of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
 22. [Packing Binary Is Fun, Actually](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/)

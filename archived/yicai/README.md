@@ -1,13 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-29 07:09:14
+> 更新时间：2026-09-29 07:21:19
 
-## 7x24
+## 首页头条
 
-1. [我国已是世界上刑事犯罪率最低、命案发案率最低的国家之一](https://m.yicai.com/brief/103380491.html)
-2. [固态电池产业化迎利好，温等静压等专用设备成关键抓手](https://m.yicai.com/brief/103380483.html)
-3. [首批“固收+”纳入个人养老金产品名录，26只基金增设Y类份额](https://m.yicai.com/brief/103380481.html)
-4. [9月电子产业获机构密集调研 PCB和半导体细分龙头受青睐](https://m.yicai.com/brief/103380479.html)
-5. [巴拿马运河将增加每日通航预约名额](https://m.yicai.com/brief/103380477.html)
-6. [两年期美债收益率涨向5%关口，10年期美债收益率创2007年以来新高](https://m.yicai.com/brief/103380475.html)
-7. [第81届联大一般性辩论闭幕](https://m.yicai.com/brief/103380473.html)
+1. [央企“十五五”重头戏详解：带头AI+，发力六张网](https://www.yicai.com/news/103380399.html)
+2. [人民币走出独立行情，冲高之后四季度如何演绎？](https://www.yicai.com/news/103379909.html)
+3. [独家｜中资券商启动清理内地业务，国泰君安国际已限制账户入金和买入](https://www.yicai.com/news/103380079.html)
+4. [中考能上重点高中却选职校，技能“硬通货”如何炼成](https://www.yicai.com/news/103379872.html)
+5. [世赛“炼金术”照亮青年前路：冠军教练谈热门产业赛道](https://www.yicai.com/news/103380383.html)
