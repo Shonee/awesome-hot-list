@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-09-29 04:21:50
+> 更新时间：2026-09-29 05:20:56
 
 ## 日榜
 
@@ -32,28 +32,28 @@
 26. [拒绝爆肝！这款修仙游戏7天就能直接化神？](https://www.acfun.cn/v/ac48878805)
 27. [选更快还是更稳？这是个问题 | 米泊追光一号和富图宝空气四号大对比！【战术陈皮】](https://www.acfun.cn/v/ac48878515)
 28. [【AI】你的专属小护士](https://www.acfun.cn/v/ac48879051)
-29. [28.告别深渊，踏足荒野：四足动物跨越四亿年的演化狂想曲](https://www.acfun.cn/v/ac48869188)
-30. [策划在做PVP了！老皮肤返场+4款新皮肤！](https://www.acfun.cn/v/ac48878710)
-31. [生蚝：浑身黑科技，还能杀台风？根本就像前文明的黑科技……我们如今正在靠它拯救地球……|自说自话的总裁](https://www.acfun.cn/v/ac48875716)
-32. [那天打本实在是太困了](https://www.acfun.cn/v/ac48878480)
-33. [【APEX】什么！世界冠军来我直播间了](https://www.acfun.cn/v/ac48879351)
-34. [如今也太卷了](https://www.acfun.cn/v/ac48878330)
-35. [十大概念神](https://www.acfun.cn/v/ac48877809)
-36. [【奥兹国安魂曲】克劳德](https://www.acfun.cn/v/ac48878742)
-37. [1593期：骑车并道失败，酿成大事故，这怪谁](https://www.acfun.cn/v/ac48878843)
-38. [【科普】15秒的减肥小知识](https://www.acfun.cn/v/ac48878525)
-39. [AC娘换洗服cos|2026.08cpg存档](https://www.acfun.cn/v/ac48879529)
+29. [AC娘换洗服cos|2026.08cpg存档](https://www.acfun.cn/v/ac48879529)
+30. [28.告别深渊，踏足荒野：四足动物跨越四亿年的演化狂想曲](https://www.acfun.cn/v/ac48869188)
+31. [策划在做PVP了！老皮肤返场+4款新皮肤！](https://www.acfun.cn/v/ac48878710)
+32. [生蚝：浑身黑科技，还能杀台风？根本就像前文明的黑科技……我们如今正在靠它拯救地球……|自说自话的总裁](https://www.acfun.cn/v/ac48875716)
+33. [那天打本实在是太困了](https://www.acfun.cn/v/ac48878480)
+34. [【APEX】什么！世界冠军来我直播间了](https://www.acfun.cn/v/ac48879351)
+35. [【奥兹国安魂曲】克劳德](https://www.acfun.cn/v/ac48878742)
+36. [如今也太卷了](https://www.acfun.cn/v/ac48878330)
+37. [十大概念神](https://www.acfun.cn/v/ac48877809)
+38. [1593期：骑车并道失败，酿成大事故，这怪谁](https://www.acfun.cn/v/ac48878843)
+39. [【科普】15秒的减肥小知识](https://www.acfun.cn/v/ac48878525)
 40. [茄子回应，欠款290万成老赖？负债累累房车全无|金亨泰回应：剑星伊芙的身体最能体现他的审美！](https://www.acfun.cn/v/ac48878660)
 41. [逍遥游MV](https://www.acfun.cn/v/ac48878608)
 42. [当我想起来，我才是老板](https://www.acfun.cn/v/ac48877985)
 43. [近期国外离谱新闻9.14-9.27](https://www.acfun.cn/v/ac48876459)
-44. [咩咩-20260927](https://www.acfun.cn/v/ac48878320)
+44. [2026年9月第四周日本广告合集](https://www.acfun.cn/v/ac48875690)
 45. [听说主播会看自己粉丝的主页？](https://www.acfun.cn/v/ac48879047)
-46. [【宅家尬舞】Water-如水的歌](https://www.acfun.cn/v/ac48879061)
-47. [【逛吃大同】白酱意面就着坛子肉吃，八拼披萨才30多，太神奇了](https://www.acfun.cn/v/ac48877626)
-48. [绝顶性感黑丝修女提线木偶舞蹈翻跳](https://www.acfun.cn/v/ac48879531)
-49. [座山雕-20260927 猫步轻俏 恋爱的条件 nice body 火车摇](https://www.acfun.cn/v/ac48878325)
-50. [【黒碳】18岁生日回 2026-09-24录播【生日歌回】](https://www.acfun.cn/v/ac48877332)
+46. [咩咩-20260927](https://www.acfun.cn/v/ac48878320)
+47. [【宅家尬舞】Water-如水的歌](https://www.acfun.cn/v/ac48879061)
+48. [【逛吃大同】白酱意面就着坛子肉吃，八拼披萨才30多，太神奇了](https://www.acfun.cn/v/ac48877626)
+49. [绝顶性感黑丝修女提线木偶舞蹈翻跳](https://www.acfun.cn/v/ac48879531)
+50. [座山雕-20260927 猫步轻俏 恋爱的条件 nice body 火车摇](https://www.acfun.cn/v/ac48878325)
 
 ## 三日榜
 
@@ -80,8 +80,8 @@
 21. [不近女色【今天有什么好笑的 #251】](https://www.acfun.cn/v/ac48874464)
 22. [蹦蹦跳跳系银月](https://www.acfun.cn/v/ac48875255)
 23. [侦探 feat.绿茶](https://www.acfun.cn/v/ac48875330)
-24. [那就祝大家假期快乐吧～～](https://www.acfun.cn/v/ac48876707)
-25. [喜欢上一颗星 | 原创手绘MV “我们会再见面吗，当宇宙坍缩成一个点”](https://www.acfun.cn/v/ac48878945)
+24. [喜欢上一颗星 | 原创手绘MV “我们会再见面吗，当宇宙坍缩成一个点”](https://www.acfun.cn/v/ac48878945)
+25. [那就祝大家假期快乐吧～～](https://www.acfun.cn/v/ac48876707)
 26. [雅俗共赏【今天有什么好笑的 #2519】](https://www.acfun.cn/v/ac48876212)
 27. [【1080P.惊悚恐怖】生化危机：爆发夜](https://www.acfun.cn/v/ac48874956)
 28. [祝你想要的都得到](https://www.acfun.cn/v/ac48877039)
@@ -106,7 +106,7 @@
 47. [原地踏步还是进步神速？漫步者S1000三代对比二代桌面音箱：低频收敛人声更稳！](https://www.acfun.cn/v/ac48879226)
 48. [交通事故：秒出警 真人GTA 2026（四）](https://www.acfun.cn/v/ac48877923)
 49. [我朋友们说这个试衣帅帅的](https://www.acfun.cn/v/ac48875982)
-50. [【cos】下课后的大小姐](https://www.acfun.cn/v/ac48874936)
+50. [难道我真的要等到了](https://www.acfun.cn/v/ac48878289)
 
 ## 周榜
 

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-29 04:22:02
+> 更新时间：2026-09-29 05:21:12
 
 ## 24 小时热榜
 
@@ -16,23 +16,23 @@
 10. [小米 18 标准版手机入网，有望 12 月单独发布](https://readhub.cn/topic/8wlSwcJW0p7?tab=daily)
 11. [蔚来与吉利控股就换电及充电业务战略交易达成正式协议](https://readhub.cn/topic/8wmS22g4OMy?tab=daily)
 12. [千问与夸克网盘打通，网盘成为 AI 可调用的个人知识库](https://readhub.cn/topic/8wmxTPIYMe9?tab=daily)
-13. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
-14. [DeepSeek 与 Kimi 同步发布大规模 AI 人才招募计划](https://readhub.cn/topic/8wmwmkH9Z8f?tab=daily)
+13. [DeepSeek 与 Kimi 同步发布大规模 AI 人才招募计划](https://readhub.cn/topic/8wmwmkH9Z8f?tab=daily)
+14. [特朗普：正在「非常认真地」考虑禁止柴油出口](https://readhub.cn/topic/8wmFWlQ3Mge?tab=daily)
 15. [苹果 A20 Pro 模拟运行《GTA5》性能接近 GTX1650 能效高约 12 倍](https://readhub.cn/topic/8wmPt88MRzA?tab=daily)
 16. [郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣](https://readhub.cn/topic/8wmPtOiTZ6w?tab=daily)
-17. [年内外资调研 A 股公司近 6000 次](https://readhub.cn/topic/8wmOSB6BTnX?tab=daily)
-18. [余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响](https://readhub.cn/topic/8wmw36INvoN?tab=daily)
+17. [余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响](https://readhub.cn/topic/8wmw36INvoN?tab=daily)
+18. [年内外资调研 A 股公司近 6000 次](https://readhub.cn/topic/8wmOSB6BTnX?tab=daily)
 19. [OpenAI 据称将紧急推出个人 AI 助手 以正面迎战 Meta Muse](https://readhub.cn/topic/8wmVcPzuHk7?tab=daily)
-20. [粤芯半导体中签号出炉：中签号码共 358848 个](https://readhub.cn/topic/8wnKiUCyXyR?tab=daily)
-21. [繁花剧场 App 被曝设 6 元套路诱导老人不知情被扣费数千元](https://readhub.cn/topic/8wmrkypaBBt?tab=daily)
-22. [网易有道开源子曰 Live 系列两款实时交互模型 R2T2 和 T3PO](https://readhub.cn/topic/8wmfc6dLkus?tab=daily)
-23. [澜起科技成功量产 DDR5 第五子代 RCD 芯片](https://readhub.cn/topic/8wmUtStzHo2?tab=daily)
+20. [繁花剧场 App 被曝设 6 元套路诱导老人不知情被扣费数千元](https://readhub.cn/topic/8wmrkypaBBt?tab=daily)
+21. [网易有道开源子曰 Live 系列两款实时交互模型 R2T2 和 T3PO](https://readhub.cn/topic/8wmfc6dLkus?tab=daily)
+22. [澜起科技成功量产 DDR5 第五子代 RCD 芯片](https://readhub.cn/topic/8wmUtStzHo2?tab=daily)
+23. [粤芯半导体中签号出炉：中签号码共 358848 个](https://readhub.cn/topic/8wnKiUCyXyR?tab=daily)
 24. [中行万事达卡疑似遭批量盗刷 客服证实收到多起反馈](https://readhub.cn/topic/8wmgKqW4PSx?tab=daily)
 25. [Anthropic 官宣 Claude 攻克杨-米尔斯理论九圈散射振幅难题](https://readhub.cn/topic/8wmbLI0Fgaq?tab=daily)
 26. [MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测](https://readhub.cn/topic/8wmjBmQJZZ3?tab=daily)
 27. [国务院国资委：中央企业「十五五」规划已正式印发](https://readhub.cn/topic/8wn0LG6WJIU?tab=daily)
-28. [前苹果 Siri 工程师推出 AI 智能体 szn，可在 iMessage 中互动](https://readhub.cn/topic/8wmTStGIYHy?tab=daily)
-29. [爆料称 OpenAI 准备扩大 Ultrafast API 开放范围](https://readhub.cn/topic/8wl3Yu65drh?tab=daily)
+28. [爆料称 OpenAI 准备扩大 Ultrafast API 开放范围](https://readhub.cn/topic/8wl3Yu65drh?tab=daily)
+29. [前苹果 Siri 工程师推出 AI 智能体 szn，可在 iMessage 中互动](https://readhub.cn/topic/8wmTStGIYHy?tab=daily)
 30. [智元与爱仕达合作 灵犀 X2 机器人入驻门店上岗](https://readhub.cn/topic/8wmfci28wU6?tab=daily)
 
 ## 每日早报
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [The Lenfest Institute grows landmark program with expanded OpenAI support](https://openai.com/index/lenfest-ai-collaborative-expansion)
-2. [当 AI 失控，谁来担责？](https://www.mittrchina.com/news/detail/17025)
-3. [阿里 Qwen-Audio-3.1-TTS 拿下权威语音榜全球冠军](https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html)
-4. [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)
-5. [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
-6. [Manus 2.0 正式发布：全新架构、Studio 专业工具与个人 Agent 应用 Cue 同步上线](https://www.theblockbeats.info/flash/369422)
-7. [中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场](https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html)
-8. [AMD 同意以 82 亿美元收购李飞飞旗下 AI 初创公司 World Labs，推进未来 AI 计算；李飞飞将加入 AMD 任执行副总裁兼首席科学家](https://wallstreetcn.com/livenews/3171741)
-9. [蚂蚁灵波与阿拉伯数字经济联盟签署合作备忘录，中国具身智能大脑获国际认可](https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html)
-10. [顶尖 AI 研究人员呼吁对具备自我改进能力的 AI 实施监管](https://www.gelonghui.com/live/2692399)
+2. [Hinton、Bengio 等 20 余位 AI 研究者警告：智能爆炸可能迫在眉睫](https://daily.dev/posts/hinton-bengio-and-ai-lab-scientists-warn-of-an-intelligence-explosion-tdfvju6dz)
+3. [当 AI 失控，谁来担责？](https://www.mittrchina.com/news/detail/17025)
+4. [AMD acquires Fei-Fei Li's World Labs for $8.2B in stock](https://daily.dev/posts/great-news-for-world-models-and-spatial-intelligence-amd-agreed-to-buy-dr-fei-fei-li-s-world-labs-8vmq1gu4b)
+5. [阿里 Qwen-Audio-3.1-TTS 拿下权威语音榜全球冠军](https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html)
+6. [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)
+7. [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
+8. [Manus 2.0 正式发布：全新架构、Studio 专业工具与个人 Agent 应用 Cue 同步上线](https://www.theblockbeats.info/flash/369422)
+9. [大空头伯里：AI 泡沫可能比最初认为的更早破裂](https://wallstreetcn.com/livenews/3171763)
+10. [中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场](https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html)
