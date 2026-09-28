@@ -1,13 +1,9 @@
 # 第一财经热榜
 
-> 更新时间：2026-09-29 01:49:30
+> 更新时间：2026-09-29 02:13:20
 
 ## 7x24
 
 1. [欧洲三大股指收盘小幅上涨](https://m.yicai.com/brief/103380455.html)
 2. [王毅会见日本国际贸易促进协会会长岩屋毅](https://m.yicai.com/brief/103380453.html)
 3. [【个股解码】大手笔采购服务器、签下5年长单，这家公司近两月锁定173亿元算力合同](https://m.yicai.com/vip/brief/103380452.html)
-4. [国内商品期货夜盘收盘](https://m.yicai.com/brief/103380448.html)
-5. [现货黄金跌幅扩大至4%](https://m.yicai.com/brief/103380446.html)
-6. [美国30年期国债收益率上涨8个基点](https://m.yicai.com/brief/103380444.html)
-7. [费城半导体指数跌幅扩大至3%](https://m.yicai.com/brief/103380442.html)
