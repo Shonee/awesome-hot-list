@@ -1,14 +1,14 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-28 09:42:55
+> 更新时间：2026-09-28 10:39:18
 
 ## Hottest
 
 1. [“They had no concept of a duty of care to their users.”](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
 2. [postmarketOS rebrands as Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
 3. [Ten Lines Of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
-4. [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-5. [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
+4. [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
+5. [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 6. [LuaRocks Security Incident September 2026](https://luarocks.org/security-incident-september-2026)
 7. [Reverse Engineering the iPod Classic's Undocumented Mikey Chip](https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/)
 8. [Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming](https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave)
