@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-28 20:47:39
+> 更新时间：2026-09-29 03:29:00
 
 ## 每日趋势
 
@@ -65,18 +65,17 @@
 5. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 6. [termux-app](https://github.com/termux/termux-app)
 7. [Geyser](https://github.com/GeyserMC/Geyser)
-8. [TV](https://github.com/FongMi/TV)
-9. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-10. [dbeaver](https://github.com/dbeaver/dbeaver)
-11. [voxy](https://github.com/MCRcortex/voxy)
-12. [kafka](https://github.com/apache/kafka)
-13. [android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio)
-14. [antlr4](https://github.com/antlr/antlr4)
-15. [jadx](https://github.com/skylot/jadx)
-16. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
-17. [dataease](https://github.com/dataease/dataease)
-18. [fluss](https://github.com/apache/fluss)
-19. [AAAD](https://github.com/shmykelsa/AAAD)
+8. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+9. [dbeaver](https://github.com/dbeaver/dbeaver)
+10. [voxy](https://github.com/MCRcortex/voxy)
+11. [kafka](https://github.com/apache/kafka)
+12. [android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio)
+13. [antlr4](https://github.com/antlr/antlr4)
+14. [jadx](https://github.com/skylot/jadx)
+15. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
+16. [dataease](https://github.com/dataease/dataease)
+17. [fluss](https://github.com/apache/fluss)
+18. [AAAD](https://github.com/shmykelsa/AAAD)
 
 ## Python
 
