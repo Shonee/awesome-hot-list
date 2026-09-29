@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-29 18:14:00
+> 更新时间：2026-09-29 19:12:28
 
 ## 热门文章
 
@@ -17,8 +17,8 @@
 11. [同样用 Element Plus，为什么你的后台总有一股“模板味”？](https://juejin.cn/post/7690405198255325234)
 12. [画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词](https://juejin.cn/post/7690197651807633462)
 13. [栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...](https://juejin.cn/post/7689866047096602666)
-14. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
-15. [用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录](https://juejin.cn/post/7690497704220196883)
+14. [用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录](https://juejin.cn/post/7690497704220196883)
+15. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
 16. [ZCode 可以自己看微信小程序了](https://juejin.cn/post/7690010257952178218)
 17. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
 18. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
