@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-30 03:38:32
+> 更新时间：2026-09-30 04:39:59
 
 ## 24 小时热榜
 
@@ -51,9 +51,9 @@
 2. [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular)
 3. [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)
 4. [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)
-5. [OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，AI 加速走向工作场景](https://www.ithome.com/1/008/532.htm)
-6. [OpenAI 推出 Decisions API：150 毫秒极速响应，让 AI 从「聊天」走向「实时决策」](https://www.ithome.com/1/008/531.htm)
-7. [Language Models for Text Classification: From Bag-of-Words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)
-8. [OpenAI ChatGPT 账号变身「万能钥匙」：可一键登录网站，Notion / GitLab 率先接入](https://www.ithome.com/1/008/529.htm)
-9. [报道：OpenAI 考虑按 1.4 万亿美元估值融资 300 亿美元，作为替代 IPO 的过桥轮融资](https://wallstreetcn.com/livenews/3172389)
+5. [OpenAI 获 300 亿美元注资，估值达 1.4 万亿美元](https://www.techflowpost.com/zh-CN/newsletter/138305)
+6. [OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，AI 加速走向工作场景](https://www.ithome.com/1/008/532.htm)
+7. [OpenAI 推出 Decisions API：150 毫秒极速响应，让 AI 从「聊天」走向「实时决策」](https://www.ithome.com/1/008/531.htm)
+8. [Language Models for Text Classification: From Bag-of-Words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)
+9. [OpenAI ChatGPT 账号变身「万能钥匙」：可一键登录网站，Notion / GitLab 率先接入](https://www.ithome.com/1/008/529.htm)
 10. [OpenAI 推出全天候自主智能体 Dots](https://www.techflowpost.com/zh-CN/newsletter/138292)
