@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-29 09:37:17
+> 更新时间：2026-09-29 10:31:32
 
 ## 最新帖子
 
-1. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
-2. [【FHE】（十三）：位级可复现性——4 线程与 8 线程为什么算出不同的结果](https://www.cnblogs.com/haliuhome/p/23151456)
-3. [用 Jev 与 Laravel AI SDK 检测垃圾邮件和自动回复](https://www.cnblogs.com/catchadmin/p/23151291)
-4. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
-5. [公司发展到一定阶段，到底要不要封装中间件？](https://www.cnblogs.com/zhangs1986/p/23056721)
-6. [已提交过的文件夹，如何从 GitHub 中删除](https://www.cnblogs.com/jyzhao/p/23150769)
-7. [C# .NET 周刊 ｜2026 年 9 月 1 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_1)
-8. [[Agent Memory / 强化学习] MemPO源码学习笔记 ---(5)--- GRPO](https://www.cnblogs.com/rossiXYZ/p/22864307)
-9. [ROS2学习CH5 简单的Ros2与Gazebo建图与导航](https://www.cnblogs.com/CrescentWind/p/23148142)
-10. [Claude Code 装了一堆 Skill，用了三个月，我删掉了 80%](https://www.cnblogs.com/uniqueDong/p/23147995)
-11. [定时器到底在数什么：STM32 的时间基准从哪里来](https://www.cnblogs.com/zw-awa/p/23147762)
-12. [日志系统选型笔记：Loki / ELK / Doris 三方的取舍点](https://www.cnblogs.com/SelectDB/p/23082460)
-13. [从 epoll 到 Reactor：Redis 单线程与多线程的性能与简洁之衡](https://www.cnblogs.com/yhup/p/23145879)
-14. [手把手带你走一遍：机器学习模型如何用FastAPI和Docker部署](https://www.cnblogs.com/wang_yb/p/23144370)
-15. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
-16. [什么样的编码智能体值得信任？——SolonCode 的设计取舍](https://www.cnblogs.com/noear/p/23141197)
-17. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
-18. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
-19. [执行机监控，就该这么轻：5MB 探针 + 零依赖 Server 的 Pulse 方案](https://www.cnblogs.com/exioran/p/23139107)
-20. [100亿订单号如何去重](https://www.cnblogs.com/zrui-xyu/p/23138991)
+1. [如何将飞书 SDK改造为支持AOT编译](https://www.cnblogs.com/mudtools/p/23152901)
+2. [Elasticsearch从0-1部署成功实战](https://www.cnblogs.com/zrui-xyu/p/23152708)
+3. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
+4. [C#.NET源生成器命名规则](https://www.cnblogs.com/xiangji/p/23151568)
+5. [【FHE】（十三）：位级可复现性——4 线程与 8 线程为什么算出不同的结果](https://www.cnblogs.com/haliuhome/p/23151456)
+6. [用 Jev 与 Laravel AI SDK 检测垃圾邮件和自动回复](https://www.cnblogs.com/catchadmin/p/23151291)
+7. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
+8. [公司发展到一定阶段，到底要不要封装中间件？](https://www.cnblogs.com/zhangs1986/p/23056721)
+9. [已提交过的文件夹，如何从 GitHub 中删除](https://www.cnblogs.com/jyzhao/p/23150769)
+10. [C# .NET 周刊 ｜2026 年 9 月 1 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_1)
+11. [[Agent Memory / 强化学习] MemPO源码学习笔记 ---(5)--- GRPO](https://www.cnblogs.com/rossiXYZ/p/22864307)
+12. [ROS2学习CH5 简单的Ros2与Gazebo建图与导航](https://www.cnblogs.com/CrescentWind/p/23148142)
+13. [Claude Code 装了一堆 Skill，用了三个月，我删掉了 80%](https://www.cnblogs.com/uniqueDong/p/23147995)
+14. [定时器到底在数什么：STM32 的时间基准从哪里来](https://www.cnblogs.com/zw-awa/p/23147762)
+15. [日志系统选型笔记：Loki / ELK / Doris 三方的取舍点](https://www.cnblogs.com/SelectDB/p/23082460)
+16. [从 epoll 到 Reactor：Redis 单线程与多线程的性能与简洁之衡](https://www.cnblogs.com/yhup/p/23145879)
+17. [手把手带你走一遍：机器学习模型如何用FastAPI和Docker部署](https://www.cnblogs.com/wang_yb/p/23144370)
+18. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
+19. [什么样的编码智能体值得信任？——SolonCode 的设计取舍](https://www.cnblogs.com/noear/p/23141197)
+20. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
 
 ## 精华帖子
 

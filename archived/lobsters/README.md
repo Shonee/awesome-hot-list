@@ -1,11 +1,11 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-29 09:38:09
+> 更新时间：2026-09-29 10:32:09
 
 ## Hottest
 
-1. [Yes, no AI is now a feature](https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/)
-2. [Bill Gates tries to install Movie Maker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
+1. [Bill Gates tries to install Movie Maker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
+2. [Yes, no AI is now a feature](https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/)
 3. [What Would A Serious AI Product Look Like?](https://blog.glyph.im/2026/09/serious-ai-product.html)
 4. [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
 5. [Leaving them behind](https://dbushell.com/2026/09/28/leaving-them-behind/)
@@ -26,6 +26,6 @@
 20. [It’s Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
 21. [Thoughts on Flash (2010)](https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/)
 22. [Ten Lines Of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
-23. [Packing Binary Is Fun, Actually](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/)
-24. [Intuitive equals familiar](https://dl.acm.org/doi/10.1145/182987.584629)
+23. [Intuitive equals familiar](https://dl.acm.org/doi/10.1145/182987.584629)
+24. [Packing Binary Is Fun, Actually](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/)
 25. [Expert asterisks](https://nedbatchelder.com/blog/202609/expert_asterisks)
