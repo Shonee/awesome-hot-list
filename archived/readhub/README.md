@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-29 19:12:46
+> 更新时间：2026-09-29 20:20:30
 
 ## 24 小时热榜
 
@@ -13,14 +13,14 @@
 7. [苹果客服回应 iPhone 18 Pro 自动重启问题：系统原因，将推送更新修复](https://readhub.cn/topic/8wmhlcLwXUs?tab=daily)
 8. [部分 Anthropic 资深员工考虑在偏远地区购置土地以防 AI 失控](https://readhub.cn/topic/8wlkRDvxe2W?tab=daily)
 9. [华为新款降噪耳机正式开售](https://readhub.cn/topic/8woE79WnGCB?tab=daily)
-10. [Manus 独立后首次大更新，发布 2.0 版本，推出 Personal Agent 应用 Cue](https://readhub.cn/topic/8wnbV3xNU8s?tab=daily)
-11. [千问与夸克网盘打通，网友分享各类实用新玩法](https://readhub.cn/topic/8woeXfW2Fdj?tab=daily)
+10. [千问与夸克网盘打通，网友分享各类实用新玩法](https://readhub.cn/topic/8woeXfW2Fdj?tab=daily)
+11. [Manus 独立后首次大更新，发布 2.0 版本，推出 Personal Agent 应用 Cue](https://readhub.cn/topic/8wnbV3xNU8s?tab=daily)
 12. [粤芯半导体中签号出炉：中签号码共 358848 个](https://readhub.cn/topic/8wnKiUCyXyR?tab=daily)
 13. [快手可灵 4.0 将于 10 月正式上线](https://readhub.cn/topic/8wnWU3t7DxR?tab=daily)
 14. [Anthropic 发布 Claude Sonnet 5.5 大模型](https://readhub.cn/topic/8wnnzlIHlHr?tab=daily)
-15. [星舰第 14 次试飞首次尝试进入地球轨道](https://readhub.cn/topic/8wnNCzsUCAD?tab=daily)
-16. [腾讯内测 AI 数字人陪伴产品「鹅次元」主打游戏情绪陪伴](https://readhub.cn/topic/8woDlXmxIy7?tab=daily)
-17. [三部门：2026 年 10 月 1 日起实施居民房贷贴息政策](https://readhub.cn/topic/8wood3F3XS2?tab=daily)
+15. [三部门：2026 年 10 月 1 日起实施居民房贷贴息政策](https://readhub.cn/topic/8wood3F3XS2?tab=daily)
+16. [星舰第 14 次试飞首次尝试进入地球轨道](https://readhub.cn/topic/8wnNCzsUCAD?tab=daily)
+17. [腾讯内测 AI 数字人陪伴产品「鹅次元」主打游戏情绪陪伴](https://readhub.cn/topic/8woDlXmxIy7?tab=daily)
 18. [OpenAI 明日重启 200 美元 Pro 订阅：API 配额减半，取消 5 小时限制](https://readhub.cn/topic/8woayswu1vl?tab=daily)
 19. [传闻称苹果 Vision Pro 销量不佳，部分门店月售仅 1 台](https://readhub.cn/topic/8wmPsxjADKQ?tab=daily)
 20. [华为 Mate 90 系列现已开启预订，可支付 200 元锁单](https://readhub.cn/topic/8wnCTTm5W0B?tab=daily)
@@ -28,10 +28,10 @@
 22. [Claude Sonnet5.5 发布：编程能力反超旗舰，API 价格腰斩](https://readhub.cn/topic/8woEoDaaI51?tab=daily)
 23. [Anthropic 披露 IPO 招股书，2025 财年营收同比增 1088%](https://readhub.cn/topic/8wo5VOWriot?tab=daily)
 24. [月之暗面 Kimi K3.1 模型前端标识泄露，预计将在近期发布](https://readhub.cn/topic/8wnQ3XYa7fp?tab=daily)
-25. [AI 写作特征减少：Claude Opus 5.5 破折号使用量下降约 95%](https://readhub.cn/topic/8woK9hG3moU?tab=daily)
-26. [Manus 2.0 海外发布，推出面向个人场景的智能助理 Cue](https://readhub.cn/topic/8woE72WmaJV?tab=daily)
-27. [自然资源部：盘活闲置房屋老旧楼宇 拓展服务业新空间](https://readhub.cn/topic/8woK9dHfxuT?tab=daily)
-28. [小鹏碳积分交易累计收入预估超 10 亿元](https://readhub.cn/topic/8woRCwSh1rm?tab=daily)
+25. [Manus 2.0 海外发布，推出面向个人场景的智能助理 Cue](https://readhub.cn/topic/8woE72WmaJV?tab=daily)
+26. [AI 写作特征减少：Claude Opus 5.5 破折号使用量下降约 95%](https://readhub.cn/topic/8woK9hG3moU?tab=daily)
+27. [小鹏碳积分交易累计收入预估超 10 亿元](https://readhub.cn/topic/8woRCwSh1rm?tab=daily)
+28. [自然资源部：盘活闲置房屋老旧楼宇 拓展服务业新空间](https://readhub.cn/topic/8woK9dHfxuT?tab=daily)
 29. [清溢光电：55nm PSM 产品已进入客户上线认证阶段](https://readhub.cn/topic/8wnQmDkngVP?tab=daily)
 30. [爱奇艺辟谣网传「请勿眨眼」相关截图系恶搞造谣](https://readhub.cn/topic/8wlo0ndOxeT?tab=daily)
 

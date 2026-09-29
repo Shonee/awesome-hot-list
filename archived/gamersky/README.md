@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-29 19:12:56
+> 更新时间：2026-09-29 20:21:23
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [中国战队家门口惨遭剃光头！《无畏契约》4支队伍一分没赢 全0-2](https://www.gamersky.com/news/202609/2217850.shtml)
 12. [《战神：劳菲》预购正式开启！标准版388港币](https://www.gamersky.com/news/202609/2218891.shtml)
 13. [《巫师3RE》狮鹫Boss战实机公开！画面彻底焕新 超帅](https://www.gamersky.com/news/202609/2218812.shtml)
-14. [B站百大游戏UP主突然复出 网友态度严重分裂](https://www.gamersky.com/news/202609/2217588.shtml)
-15. [国产《三角洲》海啸震撼老外：战地做不到的它做到了](https://www.gamersky.com/news/202609/2218464.shtml)
+14. [国产《三角洲》海啸震撼老外：战地做不到的它做到了](https://www.gamersky.com/news/202609/2218464.shtml)
+15. [B站百大游戏UP主突然复出 网友态度严重分裂](https://www.gamersky.com/news/202609/2217588.shtml)
