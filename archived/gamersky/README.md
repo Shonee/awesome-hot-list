@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-30 06:13:14
+> 更新时间：2026-09-30 07:12:20
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [《巫师3重制版》战斗实机：大进步 肾上腺素飙升](https://www.gamersky.com/news/202609/2217630.shtml)
 12. [中国战队家门口惨遭剃光头！《无畏契约》4支队伍一分没赢 全0-2](https://www.gamersky.com/news/202609/2217850.shtml)
 13. [尼尔终于爆猛料！《美末》两大新项目|光头新作明年见](https://www.gamersky.com/news/202609/2218858.shtml)
-14. [《巫师3re》正式发售:免费升级 5080才能挑战4K光追](https://www.gamersky.com/news/202609/2218863.shtml)
-15. [《巫师3RE》狮鹫Boss战实机公开！画面彻底焕新 超帅](https://www.gamersky.com/news/202609/2218812.shtml)
+14. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+15. [《巫师3re》正式发售:免费升级 5080才能挑战4K光追](https://www.gamersky.com/news/202609/2218863.shtml)

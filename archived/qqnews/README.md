@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-30 06:13:03
+> 更新时间：2026-09-30 07:11:53
 
 ## 热点榜
 
@@ -18,9 +18,9 @@
 12. [俄罗斯接管麦德龙在俄资产](https://view.inews.qq.com/a/20260929A09F8C00)
 13. [0.09秒绝杀！中国队4x100混接夺金 陈妤颉最后一棒“生吃”泰国队](https://view.inews.qq.com/a/20260929A0CDLH00)
 14. [中方严正回应：中国不接受、不承认](https://view.inews.qq.com/a/20260929A09UK600)
-15. [“北大禁止赴风景名胜区开会”冲上热搜：明确禁去21个景区开会，能线上开的会不线下聚](https://view.inews.qq.com/a/20260929A03UNF00)
-16. [存储成本连续大涨，老款旗舰手机进入“反向涨价”周期？](https://view.inews.qq.com/a/20260929A0DFJG00)
-17. [中美俄元首将于深圳APEC期间会晤？外交部回应](https://view.inews.qq.com/a/20260929A08KCB00)
-18. [部长张柱带来一个好消息](https://view.inews.qq.com/a/20260929A08CEY00)
-19. [口腔种植体集采接续采购启动 种植牙迈入集采2.0时代](https://view.inews.qq.com/a/20260929A02G2N00)
-20. [中方：《联合国宪章》“敌国条款”不容删改](https://view.inews.qq.com/a/20260929A05FW700)
+15. [部长张柱带来一个好消息](https://view.inews.qq.com/a/20260929A08CEY00)
+16. [中美俄元首将于深圳APEC期间会晤？外交部回应](https://view.inews.qq.com/a/20260929A08KCB00)
+17. [高考444分被殡葬专业录取男生入学后迎来首次实习：系自己提前联系的，第一次为逝者穿衣，坦言没那么害怕，更加确定未来想从事这一行业](https://view.inews.qq.com/a/20260928A0BZ7400)
+18. [7000天技术演进！iPhone 18 Pro拆出2nm真身](https://view.inews.qq.com/a/20260929A0BYH700)
+19. [存储成本连续大涨，老款旗舰手机进入“反向涨价”周期？](https://view.inews.qq.com/a/20260929A0DFJG00)
+20. [2026年名古屋亚运会](https://view.inews.qq.com/a/UTR2026090406706200)
