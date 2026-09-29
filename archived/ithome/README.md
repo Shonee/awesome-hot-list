@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-30 00:15:24
+> 更新时间：2026-09-30 01:12:29
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [iQOO 16 手机发布：首批搭载高通第六代骁龙 8 超级至尊版、2K 三星珠峰屏，5999 元起](https://www.ithome.com/1/008/471.htm)
 9. [华为 HarmonyOS 7 超空间存储支持设备名单更新：覆盖 Mate、Pura、nova、畅享等系列，1TB 机型最多节省 109GB 空间](https://www.ithome.com/1/008/435.htm)
 10. [苹果首款折叠 iPhone Duo 待机模式前瞻：史努比等 5 种界面、配新表盘编辑器](https://www.ithome.com/1/008/089.htm)
-11. [荣耀 WIN 2 系列新机曝光：工程机电池 12000mAh±，WIN Pad 小平板刷新率干到 240Hz](https://www.ithome.com/1/008/374.htm)
-12. [苹果回应 iPhone 18 Pro / Max 短暂运行缓慢：首次“聚焦”索引耗时取决于数据量](https://www.ithome.com/1/008/083.htm)
+11. [首销 5999 元起：iQOO Pad Ultra 小平板发布，第六代骁龙 8 超级至尊版芯片、五重风冷散热](https://www.ithome.com/1/008/472.htm)
+12. [荣耀 WIN 2 系列新机曝光：工程机电池 12000mAh±，WIN Pad 小平板刷新率干到 240Hz](https://www.ithome.com/1/008/374.htm)
