@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-09-29 20:22:10
+> 更新时间：2026-09-29 21:16:40
 
 ## Hottest
 
@@ -12,12 +12,12 @@
 6. [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
 7. [Leaving them behind](https://dbushell.com/2026/09/28/leaving-them-behind/)
 8. [State of the (Tagged) Union Address by Andrew Kelley](https://www.youtube.com/watch?v=zwi5b5xSsKA)
-9. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-10. [Switching To Emacs as a Neovim User](https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/)
+9. [Switching To Emacs as a Neovim User](https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/)
+10. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
 11. [What makes Lisp difficult to read?](https://paultm.nl/paren-thesis)
-12. [MotifCentral - All Things Motif/Xt/Xlib](https://motif-central.org/)
-13. [HardenedBSD August / September 2026 Status Report](https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report)
-14. [AI Didn’t Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+12. [AI Didn’t Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+13. [MotifCentral - All Things Motif/Xt/Xlib](https://motif-central.org/)
+14. [HardenedBSD August / September 2026 Status Report](https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report)
 15. [Rickrolling with a Pharmacy cross](https://hugoarnal.com/blog/rickroll-pharmacy-cross/)
 16. [It’s Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
 17. [“They had no concept of a duty of care to their users.”](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
