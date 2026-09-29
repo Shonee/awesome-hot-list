@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-09-29 20:53:21
+> 更新时间：2026-09-29 21:43:57
 
 ## 股票人气榜
 
@@ -15,12 +15,12 @@
 9. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 10. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
 11. [澳弘电子 (605058)](https://quote.eastmoney.com/sh605058.html)
-12. [吉鑫科技 (601218)](https://quote.eastmoney.com/sh601218.html)
-13. [跨境通 (002640)](https://quote.eastmoney.com/sz002640.html)
-14. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
-15. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
-16. [中新赛克 (002912)](https://quote.eastmoney.com/sz002912.html)
+12. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
+13. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
+14. [吉鑫科技 (601218)](https://quote.eastmoney.com/sh601218.html)
+15. [中新赛克 (002912)](https://quote.eastmoney.com/sz002912.html)
+16. [掌阅科技 (603533)](https://quote.eastmoney.com/sh603533.html)
 17. [津药药业 (600488)](https://quote.eastmoney.com/sh600488.html)
-18. [掌阅科技 (603533)](https://quote.eastmoney.com/sh603533.html)
+18. [跨境通 (002640)](https://quote.eastmoney.com/sz002640.html)
 19. [浙江新能 (600032)](https://quote.eastmoney.com/sh600032.html)
-20. [我爱我家 (000560)](https://quote.eastmoney.com/sz000560.html)
+20. [滨江集团 (002244)](https://quote.eastmoney.com/sz002244.html)
