@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-29 13:24:51
+> 更新时间：2026-09-29 14:40:09
 
 ## 热点资讯排行
 
@@ -18,4 +18,4 @@
 12. [B站百大游戏UP主突然复出 网友态度严重分裂](https://www.gamersky.com/news/202609/2217588.shtml)
 13. [《巫师3RE》狮鹫Boss战实机公开！画面彻底焕新 超帅](https://www.gamersky.com/news/202609/2218812.shtml)
 14. [《战神：劳菲》全新实机 多功能蛇弓 超强装备自定义](https://www.gamersky.com/news/202609/2218811.shtml)
-15. [显示器涨价潮来了！电竞屏均价上涨 装机党直呼扛不住](https://www.gamersky.com/hardware/202609/2217616.shtml)
+15. [国产《三角洲》海啸震撼老外：战地做不到的它做到了](https://www.gamersky.com/news/202609/2218464.shtml)

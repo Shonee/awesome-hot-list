@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-29 13:24:17
+> 更新时间：2026-09-29 14:38:58
 
 ## 热门文章
 
@@ -24,8 +24,8 @@
 18. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
 19. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
 20. [ZCode 可以自己看微信小程序了](https://juejin.cn/post/7690010257952178218)
-21. [Electron 自动化发布指南：GitHub Actions 跨平台打包全纪录](https://juejin.cn/post/7689431365684281384)
-22. [用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录](https://juejin.cn/post/7690497704220196883)
+21. [用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录](https://juejin.cn/post/7690497704220196883)
+22. [Electron 自动化发布指南：GitHub Actions 跨平台打包全纪录](https://juejin.cn/post/7689431365684281384)
 23. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
 24. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
 25. [思考|谈谈AI时代的后端开发+QECon演讲PPT](https://juejin.cn/post/7690031273628745779)
