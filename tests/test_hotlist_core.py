@@ -12,6 +12,7 @@ from src.hotlist.registry import (
     CHANNEL_ORDER,
     ChannelDefinition,
     _reject_unknown_channel_ids,
+    get_channel,
     resolve_channels,
 )
 from src.hotlist.runner import collect_channels, merge_latest_snapshot
@@ -117,7 +118,8 @@ class RegistryTests(unittest.TestCase):
 
     def test_resolve_channels_accepts_all_or_comma_separated_ids(self):
         self.assertEqual(resolve_channels("bilibili,douyin"), ["bilibili", "douyin"])
-        self.assertEqual(resolve_channels("all"), list(CHANNEL_ORDER))
+        self.assertEqual(resolve_channels("bing,cctv"), ["bing", "cctv"])
+        self.assertEqual(resolve_channels("all"), [channel_id for channel_id in CHANNEL_ORDER if get_channel(channel_id).enabled_by_default])
         with self.assertRaises(ValueError):
             resolve_channels("unknown")
 

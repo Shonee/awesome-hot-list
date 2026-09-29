@@ -80,9 +80,9 @@ class ZhihuFallbackTests(unittest.TestCase):
 
         result = zhihu.collect()
 
-        self.assertEqual([ranking.ranking_id for ranking in result.rankings], ["search", "hot"])
-        self.assertEqual(result.rankings[1].provider_name, "今日热榜")
-        self.assertEqual(result.rankings[1].source_url, zhihu.HOT_PAGE_URL)
+        self.assertEqual([ranking.ranking_id for ranking in result.rankings], ["hot", "search"])
+        self.assertEqual(result.rankings[0].provider_name, "今日热榜")
+        self.assertEqual(result.rankings[0].source_url, zhihu.HOT_PAGE_URL)
         fallback.assert_called_once()
         request.assert_called_once_with(zhihu.SEARCH_URL, headers=zhihu._headers())
 
@@ -97,8 +97,8 @@ class ZhihuFallbackTests(unittest.TestCase):
 
         result = zhihu.collect()
 
-        self.assertEqual(result.rankings[1].items[0].title, "官方热榜")
-        self.assertEqual(result.rankings[1].provider_name, "知乎官方")
+        self.assertEqual(result.rankings[0].items[0].title, "官方热榜")
+        self.assertEqual(result.rankings[0].provider_name, "知乎官方")
         fallback.assert_not_called()
 
     @patch.dict(os.environ, {"ZHIHU_COOKIE": "expired"}, clear=True)
@@ -110,7 +110,7 @@ class ZhihuFallbackTests(unittest.TestCase):
 
         result = zhihu.collect()
 
-        self.assertEqual(result.rankings[1].provider_name, "今日热榜")
+        self.assertEqual(result.rankings[0].provider_name, "今日热榜")
         fallback.assert_called_once()
 
     @patch.dict(os.environ, {}, clear=True)

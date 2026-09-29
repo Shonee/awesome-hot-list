@@ -1,8 +1,7 @@
 name: Collect live news
 
 on:
-  schedule:
-    - cron: "*/15 * * * *"
+  # All live surfaces are disabled by default; keep manual dispatch for future use.
   workflow_dispatch:
 
 concurrency:
@@ -19,7 +18,7 @@ jobs:
     env:
       TZ: Asia/Shanghai
       HOTLIST_DOMAIN_MIN_INTERVAL_SECONDS: ${{ vars.HOTLIST_DOMAIN_MIN_INTERVAL_SECONDS || '1' }}
-      # 15 分钟一次的快讯任务，必须在上限内收尾，否则整个 surface 空转一轮。
+      # Keep a bounded budget if live collection is enabled again.
       HOTLIST_COLLECT_BUDGET_SECONDS: '400'
 
     steps:

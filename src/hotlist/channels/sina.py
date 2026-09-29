@@ -1,7 +1,6 @@
 """Sina News and Finance official ranking adapter."""
 
 import json
-import logging
 
 from src.utils.http_utils import get
 from src.utils.time_utils import project_now
@@ -19,7 +18,6 @@ CATEGORIES = (
     ("news", "新闻热榜", "www_www_all_suda_suda", SOURCE_URL, NEWS_API_URL),
     ("finance", "财经热榜", "finance_0_suda", "https://finance.sina.com.cn/", FINANCE_API_URL),
 )
-logger = logging.getLogger(__name__)
 
 
 def _number(value):
@@ -98,18 +96,8 @@ def collect_live() -> "ChannelSnapshot":
 
 def collect() -> "ChannelSnapshot":
     rankings = []
-    warnings = []
     for ranking_id, name, category, source_url, api_url in CATEGORIES:
         request_url = _ranking_url(api_url, category)
         items = parse_top_data(get(request_url, timeout=20, retries=2))
         rankings.append(Ranking(ranking_id, name, items, source_url, "新浪官方", request_url))
-    try:
-        live_ranking = collect_live().rankings[0]
-    except Exception as exc:  # noqa: BLE001 - one live ranking must not hide the hot rankings
-        logger.warning("新浪 7x24 请求失败: %s", exc)
-        live_ranking = Ranking("live", "7x24", [], LIVE_SOURCE_URL, "新浪官方", LIVE_API_URL, "live")
-        warnings.append("7x24")
-    rankings.append(live_ranking)
-    result = snapshot("sina", rankings)
-    result.warnings = warnings
-    return result
+    return snapshot("sina", rankings)

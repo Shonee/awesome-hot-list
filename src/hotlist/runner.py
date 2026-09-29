@@ -67,6 +67,10 @@ def collect_channels(
     snapshots = []
     for channel_id in channel_ids:
         definition = definitions[channel_id]
+        if surface in definition.disabled_surfaces or (
+            not surface and set(definition.surfaces).issubset(definition.disabled_surfaces)
+        ):
+            continue
         try:
             started = time.monotonic()
             if deadline is not None and started >= deadline:

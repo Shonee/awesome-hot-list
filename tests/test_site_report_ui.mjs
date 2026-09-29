@@ -17,6 +17,8 @@ loadFunctions('openTopic', 'bindTopicButtons');
 loadFunctions('safeUrl', 'rankMovementValue');
 loadFunctions('snapshotTimeMs', 'applyLatest');
 loadFunctions('applyLatest', 'populateHistoryDates');
+loadFunctions('channelCard', 'htmlNodeCount');
+new vm.Script(source.replace('__HOTLIST_CHANNEL_CONFIG__', '[]'));
 
 test('stale snapshots expire against project timestamps after the configured window', () => {
   const { snapshotIsExpired } = context;
@@ -73,6 +75,55 @@ test('applying a legacy international Bing snapshot never exposes its ranking', 
   assert.equal(context.CHANNELS.bing.status, 'unavailable');
   assert.match(context.CHANNELS.bing.statusMessage, /国际版快照已停用/);
   assert.equal(context.CHANNEL_RANKINGS.bing['暂无数据'].length, 0);
+});
+
+test('disabled live snapshots cannot display rankings or overwrite ordinary channel health', () => {
+  for (const key of ['sina', 'cls', 'yicai', 'wallstreetcn']) {
+    context.CHANNELS = { [key]: {
+      name: key, sourceUrl: '', disabledSurfaces: ['live'],
+      surfaces: key === 'wallstreetcn' ? ['live'] : ['hotlist', 'live'],
+    } };
+    context.CHANNEL_RANKINGS = { [key]: {} };
+    context.CHANNEL_RANKING_URLS = { [key]: {} };
+    context.CHANNEL_RANKING_PROVIDERS = { [key]: {} };
+    context.CHANNEL_RANKING_SURFACES = { [key]: {} };
+    context.applyLatest({ channels: [{
+      channelId: key, status: 'ok', rankings: [
+        { id: 'hot', name: '热门文章', items: [{ title: '普通热榜', url: 'https://example.com/hot' }] },
+        { id: 'live', name: '7x24', surface: 'live', items: [{ title: '旧快讯' }] },
+        { id: 'ranking-2', name: '电报', items: [{ title: '旧电报' }] },
+      ],
+    }] });
+    assert.equal(context.CHANNEL_RANKINGS[key]['7x24'], undefined);
+    assert.equal(context.CHANNEL_RANKINGS[key]['电报'], undefined);
+    assert.equal(context.channelHasEnabledSurface(key), key !== 'wallstreetcn');
+    if (key === 'wallstreetcn') {
+      assert.equal(context.CHANNEL_RANKINGS[key]['热门文章'], undefined);
+      continue;
+    }
+    assert.equal(context.CHANNEL_RANKINGS[key]['热门文章'][0].title, '普通热榜');
+    context.mergeSnapshotPayload({ surface: 'live', channels: [{ channelId: key, status: 'error', rankings: [] }] });
+    assert.equal(context.CHANNELS[key].status, 'ok');
+    assert.equal(context.CHANNEL_RANKINGS[key]['热门文章'].length, 1);
+  }
+});
+
+test('Zhihu hot list leads legacy search-first snapshots and is active by default', () => {
+  context.CHANNELS = { zhihu: { name: '知乎', sourceUrl: '', status: 'ok', statusMessage: '', updated: '', short: 'ZH' } };
+  context.CHANNEL_RANKINGS = { zhihu: { 知乎热搜: [], 知乎热榜: [] } };
+  context.CHANNEL_RANKING_URLS = { zhihu: {} };
+  context.CHANNEL_RANKING_PROVIDERS = { zhihu: {} };
+  context.CHANNEL_RANKING_SURFACES = { zhihu: {} };
+  context.prefs = { activeRankings: {}, topCount: 20 };
+  context.isMobileViewport = () => false;
+  context.escapeHtml = value => String(value);
+  context.channelStatusLabel = value => value;
+  context.MOBILE_TOP_COUNT = 10;
+  const card = context.channelCard('zhihu');
+  assert.ok(card.indexOf('data-ranking-name="知乎热榜"') < card.indexOf('data-ranking-name="知乎热搜"'));
+  assert.match(card, /class="ranking-tab active"[^>]+data-ranking-name="知乎热榜"/);
+  context.prefs.activeRankings.zhihu = '知乎热搜';
+  assert.match(context.channelCard('zhihu'), /class="ranking-tab active"[^>]+data-ranking-name="知乎热搜"/);
 });
 
 test('unranked samples use a dashed baseline and transitions without invented rank points', () => {

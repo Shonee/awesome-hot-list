@@ -162,7 +162,7 @@ class DataRootTests(unittest.TestCase):
         self.assertIn("channel.visibleByDefault !== false", template)
         self.assertIn("CHANNEL_RANKING_PROVIDERS", template)
         self.assertIn("CHANNEL_RANKING_SURFACES", template)
-        self.assertIn("rankingSurfaces[ranking.name] = ranking.surface || 'hotlist';", template)
+        self.assertIn("rankingSurfaces[ranking.name] = rankingSurface(ranking);", template)
         self.assertIn("providerName", template)
 
     def test_latest_snapshot_uses_default_cache_and_only_manual_retry_forces_reload(self):
@@ -249,10 +249,12 @@ class WorkflowContractTests(unittest.TestCase):
                 self.assertIn("continue-on-error: true", content)
                 self.assertIn("Enforce collection health", content)
 
-    def test_live_workflow_runs_every_fifteen_minutes_without_rebuilding_reports(self):
+    def test_live_workflow_is_manual_only_without_rebuilding_reports(self):
         content = Path(".github/workflows/collect-live.yml").read_text(encoding="utf-8")
 
-        self.assertIn('cron: "*/15 * * * *"', content)
+        self.assertNotIn("schedule:", content)
+        self.assertNotIn("cron:", content)
+        self.assertIn("workflow_dispatch:", content)
         self.assertIn("collect.py\" live --surface live", content)
         self.assertNotIn("--skip-report", content)
         self.assertIn("git -C runtime add archived/ site/data/live.json", content)

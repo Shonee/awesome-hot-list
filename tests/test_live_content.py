@@ -56,19 +56,31 @@ class RankingSurfaceTests(unittest.TestCase):
 
         self.assertEqual([item["id"] for item in payload["channels"][0]["rankings"]], ["news", "live"])
 
-    def test_live_collection_uses_surface_specific_collector(self):
-        snapshot = ChannelSnapshot(
-            "sina",
-            "新浪",
-            "https://news.sina.com.cn/",
-            "2026-09-17 13:00:00",
-            [Ranking("live", "7x24", [HotItem(1, "快讯", "https://example.com/live")], surface="live")],
-        )
-        with patch("src.hotlist.channels.collect_channel", return_value=snapshot) as collect:
-            result = collect_channels(["sina"], surface="live")
+    def test_disabled_live_collection_never_invokes_collector(self):
+        with patch("src.hotlist.channels.collect_channel") as collect:
+            result = collect_channels(["sina", "cls", "yicai", "wallstreetcn"], surface="live")
 
-        collect.assert_called_once_with("sina", surface="live")
-        self.assertIs(result[0], snapshot)
+        collect.assert_not_called()
+        self.assertEqual(result, [])
+
+    def test_wallstreetcn_default_collection_never_invokes_collector(self):
+        with patch("src.hotlist.channels.collect_channel") as collect:
+            self.assertEqual(collect_channels(["wallstreetcn"]), [])
+        collect.assert_not_called()
+
+    def test_regular_collection_does_not_request_live_endpoints(self):
+        for module in (sina, cls):
+            with self.subTest(channel=module.__name__):
+                parser = "parse_top_data" if module is sina else "parse_hot_articles"
+                with (
+                    patch.object(module, "get", return_value="") as request,
+                    patch.object(module, parser, return_value=[HotItem(1, "热榜", "https://example.com/hot")]),
+                    patch.object(module, "collect_live") as live_collect,
+                ):
+                    result = module.collect()
+                    live_collect.assert_not_called()
+                    self.assertEqual(request.call_count, 2 if module is sina else 1)
+                    self.assertTrue(all(ranking.surface == "hotlist" for ranking in result.rankings))
 
 
 class LiveWindowTests(unittest.TestCase):

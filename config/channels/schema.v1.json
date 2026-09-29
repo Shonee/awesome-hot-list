@@ -63,7 +63,12 @@
             "properties": {
               "enabled": { "type": "boolean" },
               "visible": { "type": "boolean" },
-              "includeInReport": { "type": "boolean" }
+              "includeInReport": { "type": "boolean" },
+              "disabledSurfaces": {
+                "type": "array",
+                "uniqueItems": true,
+                "items": { "enum": ["hotlist", "live", "digest", "authority"] }
+              }
             }
           },
           "requirements": {

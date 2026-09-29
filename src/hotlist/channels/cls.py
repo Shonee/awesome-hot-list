@@ -1,7 +1,6 @@
 """Cailian Press hot-news adapter using the homepage SSR payload."""
 
 import json
-import logging
 from urllib.parse import urlencode
 
 from bs4 import BeautifulSoup
@@ -16,7 +15,6 @@ from .common import clean_html, select_live_items, snapshot
 SOURCE_URL = "https://www.cls.cn/telegraph"
 DETAIL_URL = "https://www.cls.cn/detail/{}"
 LIVE_API_URL = "https://www.cls.cn/api/cache"
-logger = logging.getLogger(__name__)
 
 
 def _published_at(timestamp) -> str:
@@ -102,14 +100,4 @@ def collect_live() -> "ChannelSnapshot":
 def collect() -> "ChannelSnapshot":
     html = get("https://www.cls.cn/")
     rankings = [Ranking("hot", "热门文章", parse_hot_articles(html), "https://www.cls.cn/")]
-    warnings = []
-    try:
-        live_ranking = collect_live().rankings[0]
-    except Exception as exc:  # noqa: BLE001 - keep the homepage ranking on live-source failure
-        logger.warning("财联社电报请求失败: %s", exc)
-        live_ranking = Ranking("live", "电报", [], SOURCE_URL, "财联社官方", LIVE_API_URL, "live")
-        warnings.append("电报")
-    rankings.append(live_ranking)
-    result = snapshot("cls", rankings)
-    result.warnings = warnings
-    return result
+    return snapshot("cls", rankings)

@@ -43,6 +43,8 @@ def _channel_config() -> list[dict]:
             "visibleByDefault": getattr(channel, "visible_by_default", True),
             "includeInReport": getattr(channel, "include_in_report", True),
             "staleAfterHours": getattr(channel, "stale_after_hours", None),
+            "surfaces": list(channel.surfaces),
+            "disabledSurfaces": list(channel.disabled_surfaces),
         }
         for channel in iter_channels()
     ]

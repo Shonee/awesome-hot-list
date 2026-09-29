@@ -1,0 +1,281 @@
+{
+    "schemaVersion": 1,
+    "changeId": "20260929-disable-live-surfaces",
+    "fromVersion": "1.1.2",
+    "toVersion": "1.1.3",
+    "targetMetadata": {
+        "$schema": "schema.v1.json",
+        "schemaVersion": 1,
+        "catalogVersion": "1.1.3",
+        "updatedAt": "2026-09-29",
+        "updatePolicy": {
+            "schema": "config/channels/schema.v1.json",
+            "baseline": "config/channels/base.v1.json",
+            "current": "config/channels/current.json",
+            "changes": "config/channels/changes/*.json",
+            "strategy": "full-snapshot-plus-append-only-deltas"
+        }
+    },
+    "operations": [
+        {
+            "op": "replace",
+            "channelId": "sina",
+            "value": {
+                "channelId": "sina",
+                "name": "新浪",
+                "shortName": "新",
+                "order": 23,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist",
+                    "live"
+                ],
+                "homepage": "https://news.sina.com.cn/",
+                "collector": {
+                    "module": "src/hotlist/channels/sina.py",
+                    "entryPoints": [
+                        "collect",
+                        "collect_live"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "finance_api_url",
+                            "kind": "api",
+                            "url": "https://top.finance.sina.com.cn/ws/GetTopDataList.php"
+                        },
+                        {
+                            "name": "live_api_url",
+                            "kind": "api",
+                            "url": "https://app.cj.sina.com.cn/api/news/pc?page=1&size=200&tag=0"
+                        },
+                        {
+                            "name": "live_source_url",
+                            "kind": "page",
+                            "url": "https://finance.sina.com.cn/7x24/"
+                        },
+                        {
+                            "name": "news_api_url",
+                            "kind": "api",
+                            "url": "https://top.news.sina.com.cn/ws/GetTopDataList.php"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://news.sina.com.cn/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 60
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true,
+                    "disabledSurfaces": [
+                        "live"
+                    ]
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "热榜每小时采集，7x24 默认停止采集且不展示"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "cls",
+            "value": {
+                "channelId": "cls",
+                "name": "财联社",
+                "shortName": "财",
+                "order": 24,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "hotlist",
+                    "live"
+                ],
+                "homepage": "https://www.cls.cn/telegraph",
+                "collector": {
+                    "module": "src/hotlist/channels/cls.py",
+                    "entryPoints": [
+                        "collect",
+                        "collect_live"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "detail_url",
+                            "kind": "page",
+                            "url": "https://www.cls.cn/detail/{}"
+                        },
+                        {
+                            "name": "live_api_url",
+                            "kind": "api",
+                            "url": "https://www.cls.cn/api/cache"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.cls.cn/telegraph"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 60
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true,
+                    "disabledSurfaces": [
+                        "live"
+                    ]
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "热门文章每小时采集，电报默认停止采集且不展示"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "yicai",
+            "value": {
+                "channelId": "yicai",
+                "name": "第一财经",
+                "shortName": "一",
+                "order": 28,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "hotlist",
+                    "live"
+                ],
+                "homepage": "https://www.yicai.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/yicai.py",
+                    "entryPoints": [
+                        "collect",
+                        "collect_live"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "live_api_url",
+                            "kind": "api",
+                            "url": "https://www.yicai.com/api/ajax/getbrieflist?page=1&pagesize=20&type=0&id=all&action=mix"
+                        },
+                        {
+                            "name": "live_source_url",
+                            "kind": "page",
+                            "url": "https://www.yicai.com/brief/"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.yicai.com/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 60
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true,
+                    "disabledSurfaces": [
+                        "live"
+                    ]
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "首页头条每小时采集，7x24 快讯默认停止采集且不展示"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "wallstreetcn",
+            "value": {
+                "channelId": "wallstreetcn",
+                "name": "华尔街见闻",
+                "shortName": "见",
+                "order": 29,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "live"
+                ],
+                "homepage": "https://wallstreetcn.com/live/global",
+                "collector": {
+                    "module": "src/hotlist/channels/wallstreetcn.py",
+                    "entryPoints": [
+                        "collect",
+                        "collect_live"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://api-one.wallstcn.com/apiv1/content/lives?channel=global-channel&client=pc&limit=200"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://wallstreetcn.com/live/global"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 15
+                },
+                "defaults": {
+                    "enabled": false,
+                    "visible": false,
+                    "includeInReport": false,
+                    "disabledSurfaces": [
+                        "live"
+                    ]
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "仅提供 7x24，默认停止采集且不展示卡片"
+                    ]
+                }
+            }
+        }
+    ]
+}

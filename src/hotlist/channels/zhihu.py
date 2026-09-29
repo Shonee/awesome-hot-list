@@ -110,7 +110,8 @@ def collect() -> "ChannelSnapshot":
         provider_name = "今日热榜"
         provider_url = TOPHUB_HOT_URL
 
-    rankings.append(
+    rankings.insert(
+        0,
         Ranking(
             "hot",
             "知乎热榜",

@@ -106,7 +106,7 @@ def build_parser() -> argparse.ArgumentParser:
         "channels",
         nargs="?",
         default="all",
-        help="渠道 ID、逗号分隔的多个 ID，或 all",
+        help="渠道 ID、逗号分隔的多个 ID，或 all（仅默认启用的渠道）",
     )
     parser.add_argument(
         "--surface",

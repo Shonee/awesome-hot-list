@@ -9,8 +9,8 @@ from .registry import CHANNEL_ORDER, get_channel
 
 
 CATALOG_SCHEMA_VERSION = 1
-CATALOG_VERSION = "1.1.2"
-CATALOG_UPDATED_AT = "2026-09-22"
+CATALOG_VERSION = "1.1.3"
+CATALOG_UPDATED_AT = "2026-09-29"
 
 CATEGORY_LABELS = {
     "ai": "AI 平台",
@@ -51,13 +51,13 @@ SPECIAL_REQUIREMENTS = {
     "zhihu": ["ZHIHU_COOKIE 可选；官方接口失败时使用受控降级源"],
     "wechat": ["使用受控聚合源，保留微信原文链接"],
     "maimai": ["需要 MAIMAI_COOKIE，默认不启用且不在页面展示"],
-    "sina": ["热榜每小时采集，7x24 内容面每 15 分钟采集"],
-    "cls": ["热门文章每小时采集，电报内容面每 15 分钟采集"],
-    "wallstreetcn": ["只采集 7x24 内容面，每 15 分钟运行"],
+    "sina": ["热榜每小时采集，7x24 默认停止采集且不展示"],
+    "cls": ["热门文章每小时采集，电报默认停止采集且不展示"],
+    "wallstreetcn": ["仅提供 7x24，默认停止采集且不展示卡片"],
     "readhub": ["热点、每日早报和 AI 资讯归为 digest，不进入综合报告"],
     "cctv": ["作为 authority 内容保存，不进入综合报告"],
     "mfa": ["作为 authority 内容保存，不进入综合报告"],
-    "yicai": ["首页头条每小时采集，7x24 快讯每 15 分钟采集"],
+    "yicai": ["首页头条每小时采集，7x24 快讯默认停止采集且不展示"],
     "fuliba": ["默认隐藏且不进入综合报告"],
 }
 
@@ -126,6 +126,7 @@ def build_catalog(catalog_version: str = CATALOG_VERSION, updated_at: str = CATA
                 "enabled": definition.enabled_by_default,
                 "visible": definition.visible_by_default,
                 "includeInReport": definition.include_in_report,
+                **({"disabledSurfaces": list(definition.disabled_surfaces)} if definition.disabled_surfaces else {}),
             },
             "freshness": {"staleAfterHours": definition.stale_after_hours},
             "requirements": {

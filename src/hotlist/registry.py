@@ -25,6 +25,7 @@ class ChannelDefinition:
     include_in_report: bool = True
     stale_after_hours: Optional[int] = None
     surfaces: Tuple[str, ...] = ("hotlist",)
+    disabled_surfaces: Tuple[str, ...] = ()
 
 
 CHANNEL_ORDER = (
@@ -76,7 +77,12 @@ CHANNEL_ORDER = (
 
 RETIRED_CHANNEL_IDS = ("linuxdo", "rss")
 RETIRED_RANKING_IDS = {"bing": ("trending-news",)}
-LIVE_CHANNELS = ("sina", "cls", "yicai", "wallstreetcn")
+_DISABLED_SURFACES = {
+    "sina": ("live",),
+    "cls": ("live",),
+    "yicai": ("live",),
+    "wallstreetcn": ("live",),
+}
 
 # GitHub Actions checks special channels hourly, but the collector only runs a
 # channel when this interval has elapsed since its last snapshot. This keeps
@@ -138,7 +144,7 @@ _METADATA = {
     "readhub": ("Readhub", "R", "#1677ff", "https://readhub.cn/", True, ()),
     "cctv": ("央视新闻", "视", "#c8171e", "https://news.cctv.com/", False, ()),
     "mfa": ("外交部", "外", "#1d4f91", "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/", False, ()),
-    "wallstreetcn": ("华尔街见闻", "见", "#d8a23f", "https://wallstreetcn.com/live/global", True, ()),
+    "wallstreetcn": ("华尔街见闻", "见", "#d8a23f", "https://wallstreetcn.com/live/global", False, ()),
     "autohome": ("汽车之家", "汽", "#e64036", "https://www.autohome.com.cn/cars/hotrank/1", True, ()),
     "gamersky": ("游民星空", "游", "#bb2925", "https://www.gamersky.com/news/", True, ()),
     "ithome": ("IT之家", "IT", "#d3342f", "https://www.ithome.com/", True, ()),
@@ -154,7 +160,7 @@ _METADATA = {
 }
 
 
-_HIDDEN_BY_DEFAULT = {"maimai", "fuliba", "bing", "googletrends", "cctv", "mfa"}
+_HIDDEN_BY_DEFAULT = {"maimai", "fuliba", "bing", "googletrends", "cctv", "mfa", "wallstreetcn"}
 _EXCLUDED_FROM_REPORT = {"maimai", "fuliba", "bing", "readhub", "cctv", "mfa", "wallstreetcn", "googletrends"}
 _STALE_AFTER_HOURS = {"bing": 24}
 _HOTLIST_SURFACE_CHANNELS = (
@@ -190,13 +196,14 @@ CHANNELS: Dict[str, ChannelDefinition] = {
         color=values[2],
         collector=_lazy(channel_id),
         homepage=values[3],
-        enabled_by_default=values[4],
+        enabled_by_default=values[4] and (channel_id not in _HIDDEN_BY_DEFAULT or channel_id == "fuliba"),
         requires_env=values[5],
         frequency_minutes=CHANNEL_FREQUENCIES.get(channel_id, 60),
         visible_by_default=channel_id not in _HIDDEN_BY_DEFAULT,
         include_in_report=channel_id not in _EXCLUDED_FROM_REPORT,
         stale_after_hours=_STALE_AFTER_HOURS.get(channel_id),
         surfaces=CHANNEL_SURFACES[channel_id],
+        disabled_surfaces=_DISABLED_SURFACES.get(channel_id, ()),
     )
     for index, channel_id in enumerate(CHANNEL_ORDER, 1)
     for values in (_METADATA[channel_id],)
@@ -220,12 +227,19 @@ for _table_name, _table in (
     ("_HIDDEN_BY_DEFAULT", _HIDDEN_BY_DEFAULT),
     ("_EXCLUDED_FROM_REPORT", _EXCLUDED_FROM_REPORT),
     ("_STALE_AFTER_HOURS", _STALE_AFTER_HOURS),
-    ("LIVE_CHANNELS", LIVE_CHANNELS),
+    ("_DISABLED_SURFACES", _DISABLED_SURFACES),
 ):
     _reject_unknown_channel_ids(_table_name, _table)
 del _table_name, _table
 
 
+LIVE_CHANNELS = tuple(
+    channel_id
+    for channel_id in CHANNEL_ORDER
+    if CHANNELS[channel_id].enabled_by_default
+    and "live" in CHANNELS[channel_id].surfaces
+    and "live" not in CHANNELS[channel_id].disabled_surfaces
+)
 SPECIAL_CHANNELS = tuple(
     channel_id
     for channel_id in CHANNEL_ORDER
@@ -261,7 +275,7 @@ def resolve_channels(value) -> list:
             return list(SPECIAL_CHANNELS)
         return list(LIVE_CHANNELS)
     if value is None or value == "all" or value == ["all"]:
-        return list(CHANNEL_ORDER)
+        return [channel.channel_id for channel in iter_channels(enabled_only=True)]
     if isinstance(value, str):
         values = [part.strip() for part in value.split(",") if part.strip()]
     else:

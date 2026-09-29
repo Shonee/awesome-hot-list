@@ -1015,6 +1015,7 @@
       const channel = CHANNELS[key];
       const rankings = CHANNEL_RANKINGS[key] || { '榜单': [] };
       const rankingNames = Object.keys(rankings);
+      if (key === 'zhihu') rankingNames.sort((left, right) => Number(right === '知乎热榜') - Number(left === '知乎热榜'));
       const activeRanking = rankingNames.includes(prefs.activeRankings[key]) ? prefs.activeRankings[key] : rankingNames[0];
       const allRows = rankings[activeRanking] || [];
       const isLive = CHANNEL_RANKING_SURFACES[key]?.[activeRanking] === 'live';
@@ -1154,7 +1155,7 @@
     }
 
     function renderChannels() {
-      const visibleKeys = prefs.order.filter(key => prefs.visible[key]);
+      const visibleKeys = prefs.order.filter(key => prefs.visible[key] && channelHasEnabledSurface(key));
       const switcher = document.getElementById('channelSwitcher');
       const grid = document.getElementById('channelGrid');
       grid.className = `channel-grid layout-${prefs.layout}`;
@@ -1196,12 +1197,12 @@
     }
 
     function renderSettings() {
-      document.getElementById('channelSettings').innerHTML = prefs.order.map((key, index) => `<div class="channel-toggle" data-sort-channel="${key}">
+      document.getElementById('channelSettings').innerHTML = prefs.order.map((key, index) => channelHasEnabledSurface(key) ? `<div class="channel-toggle" data-sort-channel="${key}">
         <button class="sort-handle" draggable="true" data-drag-handle="${key}" aria-label="拖动${escapeHtml(CHANNELS[key].name)}排序" title="拖动排序">⋮⋮</button>
         <label for="toggle-${key}">${escapeHtml(CHANNELS[key].name)}</label>
         <span class="sort-actions"><button class="sort-btn" data-move-channel="${key}" data-move="-1" aria-label="上移${escapeHtml(CHANNELS[key].name)}" title="上移" ${index === 0 ? 'disabled' : ''}>↑</button><button class="sort-btn" data-move-channel="${key}" data-move="1" aria-label="下移${escapeHtml(CHANNELS[key].name)}" title="下移" ${index === prefs.order.length - 1 ? 'disabled' : ''}>↓</button></span>
         <input id="toggle-${key}" type="checkbox" data-channel-toggle="${key}" ${prefs.visible[key] ? 'checked' : ''}>
-      </div>`).join('');
+      </div>` : '').join('');
       document.querySelectorAll('[data-channel-toggle]').forEach(input => input.addEventListener('change', () => {
         prefs.visible[input.dataset.channelToggle] = input.checked;
         savePrefs();
@@ -1423,6 +1424,15 @@
         && nowMs - fetchedAt > staleAfterHours * 60 * 60 * 1000;
     }
 
+    function channelHasEnabledSurface(key) {
+      const channel = CHANNELS[key];
+      return (channel.surfaces || ['hotlist']).some(surface => !(channel.disabledSurfaces || []).includes(surface));
+    }
+
+    function rankingSurface(ranking) {
+      return ranking.surface || (ranking.id === 'live' || ['7x24', '电报'].includes(ranking.name) ? 'live' : 'hotlist');
+    }
+
     function resetLatestState() {
       Object.keys(CHANNEL_RANKINGS).forEach(key => {
         CHANNEL_RANKINGS[key] = { '等待采集': [] };
@@ -1463,8 +1473,12 @@
       const effectiveStatuses = [];
       for (const snapshot of payload.channels || []) {
         const key = snapshot.channelId;
-        if (!CHANNELS[key]) continue;
-        const snapshotRankings = Array.isArray(snapshot.rankings) ? snapshot.rankings : [];
+        if (!CHANNELS[key] || !channelHasEnabledSurface(key)) continue;
+        const disabledSurfaces = CHANNELS[key].disabledSurfaces || [];
+        if (disabledSurfaces.includes(payload.surface)) continue;
+        const allRankings = Array.isArray(snapshot.rankings) ? snapshot.rankings : [];
+        const snapshotRankings = allRankings.filter(ranking => !disabledSurfaces.includes(rankingSurface(ranking)));
+        if (allRankings.length && !snapshotRankings.length) continue;
         const containsHotlist = snapshotRankings.some(ranking => (ranking.surface || 'hotlist') === 'hotlist');
         if (key === 'bing' && containsHotlist && !snapshotRankings.some(ranking => ranking.id === 'domestic-trending')) {
           CHANNELS[key].status = 'unavailable';
@@ -1516,7 +1530,7 @@
             name: ranking.providerName || '',
             url: ranking.providerUrl || ''
           };
-          rankingSurfaces[ranking.name] = ranking.surface || 'hotlist';
+          rankingSurfaces[ranking.name] = rankingSurface(ranking);
         }
         CHANNEL_RANKINGS[key] = Object.keys(rankings).length ? rankings : { '暂无数据': [] };
         CHANNEL_RANKING_URLS[key] = rankingUrls;
@@ -1601,7 +1615,9 @@
     let latestLoadGeneration = 0;
 
     async function loadSupplementarySurfaces(forceRefresh, generation) {
-      const entries = Object.entries(SURFACE_DATA_FILES);
+      const entries = Object.entries(SURFACE_DATA_FILES).filter(([surface]) =>
+        CHANNEL_CONFIG.some(channel => (channel.surfaces || ['hotlist']).includes(surface) && !(channel.disabledSurfaces || []).includes(surface))
+      );
       const results = await Promise.allSettled(
         entries.map(([, path]) => fetchJson(path, forceRefresh))
       );
