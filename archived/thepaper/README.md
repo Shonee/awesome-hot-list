@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-30 03:12:14
+> 更新时间：2026-09-30 04:14:20
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [言短意长｜不要轻易用“职称”定义一位老师](https://www.thepaper.cn/newsDetail_forward_34170330)
 14. [贵州警方通报：19岁男子凌晨酒驾超载追尾半挂车致7人死亡](https://www.thepaper.cn/newsDetail_forward_34170052)
 15. [那英演唱会临时加唱《弯弯的月亮》，当地文旅局：调查核实中](https://www.thepaper.cn/newsDetail_forward_34169865)
-16. [台湾花莲县海域发生4.7级地震，震源深度23千米](https://www.thepaper.cn/newsDetail_forward_34167834)
-17. [非法收受2.63亿余元，彭晓春一审被判死缓](https://www.thepaper.cn/newsDetail_forward_34172641)
-18. [在重庆可以听到泰语报站了：东南亚游客来渝较多，轨交推出泰语广播](https://www.thepaper.cn/newsDetail_forward_34172271)
-19. [澎湃新闻即将推出2026国庆特别策划《奔赴“县”场》](https://www.thepaper.cn/newsDetail_forward_34171082)
-20. [解读｜购房贷款贴息政策精准为刚需家庭降月供，对楼市拉动效果如何？](https://www.thepaper.cn/newsDetail_forward_34173306)
+16. [非法收受2.63亿余元，彭晓春一审被判死缓](https://www.thepaper.cn/newsDetail_forward_34172641)
+17. [在重庆可以听到泰语报站了：东南亚游客来渝较多，轨交推出泰语广播](https://www.thepaper.cn/newsDetail_forward_34172271)
+18. [澎湃新闻即将推出2026国庆特别策划《奔赴“县”场》](https://www.thepaper.cn/newsDetail_forward_34171082)
+19. [解读｜购房贷款贴息政策精准为刚需家庭降月供，对楼市拉动效果如何？](https://www.thepaper.cn/newsDetail_forward_34173306)
+20. [黄仁勋、苏姿丰等担任清华大学经管学院顾问委员会委员](https://www.thepaper.cn/newsDetail_forward_34173177)
