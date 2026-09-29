@@ -516,3 +516,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,哈佛心理学家平克：别渲染 AI 末日，真正该做的是安全工程,哈佛大学心理学家史蒂文・平克公开表态，认为「AI 会毁灭人类」这类风险被说得太夸张了。事情起因是亚历山大向平克下战书，邀他公开辩论 AI 带来的生存性风险。平克过去对 AI 一向偏乐观，但也坦言自己有两处看走眼：一是没料到大语言模型最终能强到这种地步，二是没料到 AI 公司推出产品会如此冒进。 AIBase 58 分钟前,,https://www.aibase.com/zh/news/31397,,Readhub,AI 资讯,ai,digest,,2026-09-29 10:31:41
 9,腾讯秘密布局数字人游戏搭子「鹅次元」：聚焦情绪陪伴而非技术代飞,腾讯正秘密内测一款名为「鹅次元」的 AI 数字人游戏陪伴产品，通过整合实时画面识别、语音双向通话与文本交互能力，探索以虚拟人承接玩家游戏社交与情绪陪伴的新形态。针对传统真人陪玩赛道人力成本高企、人员管理难度大及服务合规风险等痛点，「鹅次元」将切入点放在单人排位与碎片化时段的情绪支撑上，定位于「重陪伴、轻带飞」。尽管产品仍处于保密内测阶段，后续仍需验证复杂游戏画面的识别稳定性及避免长周期交互的话术同质化，但这一举措标志着腾讯正加速推动多模态 AI 深入游戏核心交互场景，以低成本,,https://www.aibase.com/zh/news/31396,,Readhub,AI 资讯,ai,digest,,2026-09-29 10:31:41
 10,月之暗面最强模型 Kimi K3.1 前端标识泄露，百万上下文配三档推理强度箭在弦上,从泄露出来的配置看，Kimi K3.1 预计顶到最高 100 万 Token 的上下文窗口，并一口气给出 Low、High、Max 三档可调的推理强度。有开发者分析，把推理强度拆成多档，很可能对应着不同的算力资源配置与计费模型 —— 用户既能按任务轻重选 Low 省钱，也能为质量拉满 Max，把「一个模型单打独斗」升级成「一个模型指挥一群模型」。无论最终定价如何落定，从后台标识被探测可调、到官方平台主动预告，K3.1 已经踩在近期发布的门槛上 —— 当月之暗面把百万上下文、三,,https://www.aibase.com/zh/news/31395,,Readhub,AI 资讯,ai,digest,,2026-09-29 10:31:41
+1,Anthropic 推出低成本 AI 模型 Sonnet 5.5,,,https://readhub.cn/topic/8wnhvcCHJdn?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+2,携程推「无理由事假」新规：员工请假 1 天，团队可分 600 元,,,https://readhub.cn/topic/8wmotSkKjGr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+3,AMD 同意收购李飞飞旗下 AI 初创公司 World Labs，交易金额 82 亿美元,,,https://readhub.cn/topic/8wnrDLtxHB4?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+4,郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣,,,https://readhub.cn/topic/8wmPtOiTZ6w?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+5,智谱 ZCode 删除涉事云端数据 向用户赠送重置卡及 1 亿 Token 额度,,,https://readhub.cn/topic/8wmiSkgHibg?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+6,罗永浩质疑东方甄选售劣质溜溜凳获利千万未全量退款,,,https://readhub.cn/topic/8wmfdfpXoMy?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+7,OpenAI 因安全问题取消 GPT-6.1 Astra 发布计划,,,https://readhub.cn/topic/8wnz4zyb6ZI?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+8,余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响,,,https://readhub.cn/topic/8wmw36INvoN?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+9,千问与夸克网盘打通，网盘成为 AI 可调用的个人知识库,,,https://readhub.cn/topic/8wmxTPIYMe9?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+10,山姆回应顾客反映蛋糕内有活虫事件：生产运输环节生虫可能性极低,,,https://readhub.cn/topic/8wn63xEzzeQ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+11,OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型,,,https://readhub.cn/topic/8wmaceOPUFg?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+12,中行万事达卡疑似遭批量盗刷 客服证实收到多起反馈,,,https://readhub.cn/topic/8wmgKqW4PSx?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+13,Anthropic 宣布 Claude 攻克杨-米尔斯理论九圈散射振幅难题,,,https://readhub.cn/topic/8wmbLI0Fgaq?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+14,段永平发帖：买入 3 万股贵州茅台,,,https://readhub.cn/topic/8wmqJyiNASp?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+15,苹果客服回应 iPhone 18 Pro 自动重启问题：系统原因，将推送更新修复,,,https://readhub.cn/topic/8wmhlcLwXUs?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+16,Jev 创造者、前 OpenAI 成员称 ChatGPT 将被视为行业弯路,,,https://readhub.cn/topic/8wlFhr465bf?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+17,腾讯 QQ 宠物登陆鸿蒙系统：会卖萌还会串门交朋友,,,https://readhub.cn/topic/8wmlJqkgNT7?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+18,部分 Anthropic 资深员工考虑在偏远地区购置土地以防 AI 失控,,,https://readhub.cn/topic/8wlkRDvxe2W?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+19,399 元 荣耀发布墨水屏阅读器 S3：3.68 英寸小屏 可磁吸手机上,,,https://readhub.cn/topic/8wmyxzKxVPW?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+20,OpenAI 据称将紧急推出个人 AI 助手 以正面迎战 Meta Muse,,,https://readhub.cn/topic/8wmVcPzuHk7?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+21,Manus 独立后首次大更新，发布 2.0 版本，推出 Personal Agent 应用 Cue,,,https://readhub.cn/topic/8wnbV3xNU8s?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+22,粤芯半导体中签号出炉：中签号码共 358848 个,,,https://readhub.cn/topic/8wnKiUCyXyR?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+23,繁花剧场 App 被曝设 6 元套路诱导老人不知情被扣费数千元,,,https://readhub.cn/topic/8wmrkypaBBt?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+24,快手可灵 4.0 将于 10 月正式上线,,,https://readhub.cn/topic/8wnWU3t7DxR?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+25,MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测,,,https://readhub.cn/topic/8wmjBmQJZZ3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+26,国务院国资委：中央企业「十五五」规划已正式印发,,,https://readhub.cn/topic/8wn0LG6WJIU?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+27,星舰第 14 次试飞首次尝试进入地球轨道,,,https://readhub.cn/topic/8wnNCzsUCAD?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+28,OpenAI 准备扩大 Ultrafast API 开放范围,,,https://readhub.cn/topic/8wl3Yu65drh?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+29,Anthropic 发布 Claude Sonnet 5.5 大模型,,,https://readhub.cn/topic/8wnnzlIHlHr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+30,华为 Mate 90 系列现已开启预订，可支付 200 元锁单,,,https://readhub.cn/topic/8wnCTTm5W0B?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-09-29 11:28:34
+1,09.28 OpenAI 因 Agent 多次越权逃逸事件暂停相关训练 9 条,,,https://readhub.cn/daily/2026-09-28,,Readhub,每日早报,daily,digest,2026-09-28,2026-09-29 11:28:34
+2,09.27 AI 门萨智商测试获满分 151 分 超过绝大多数人类 8 条,,,https://readhub.cn/daily/2026-09-27,,Readhub,每日早报,daily,digest,2026-09-27,2026-09-29 11:28:34
+3,09.26 DeepSeek Harness 桌面预览版已流出，官方暂未正式上线 11 条,,,https://readhub.cn/daily/2026-09-26,,Readhub,每日早报,daily,digest,2026-09-26,2026-09-29 11:28:34
+4,09.25 DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资 16 条,,,https://readhub.cn/daily/2026-09-25,,Readhub,每日早报,daily,digest,2026-09-25,2026-09-29 11:28:34
+5,09.24 Anthropic 推出 Claude Opus 5.5：多数任务追平 Fable 5.1，典型成本降 40% 15 条,,,https://readhub.cn/daily/2026-09-24,,Readhub,每日早报,daily,digest,2026-09-24,2026-09-29 11:28:34
+6,09.23 豆包对话团队或裁员一半 16 条,,,https://readhub.cn/daily/2026-09-23,,Readhub,每日早报,daily,digest,2026-09-23,2026-09-29 11:28:34
+7,09.22 阿里巴巴任命刘大一恒为 Qwen 大语言模型项目负责人 17 条,,,https://readhub.cn/daily/2026-09-22,,Readhub,每日早报,daily,digest,2026-09-22,2026-09-29 11:28:34
+1,星际之门 AI 项目被电力卡住：5000 亿美元投资计划，甲骨文先坐不住了,"如果项目因电力供应、监管审批等外部因素延期，甲骨文希望相应推迟部分付款，提前为项目可能无法按期交付做风险切割。Project Jupiter 由 Blue Owl Capital 旗下公司参与开发，甲骨文是主要租户，建成后将为 OpenAI 提供 AI 算力，也是「星际之门」（Stargate）目前在美国推进的大型数据中心项目之一。按照最初方案，OpenAI、软银、甲骨文和阿联酋投资机构 MGX 共同参与，计划未来四年在美国投资最高 5,000 亿美元建设 AI 基础设施，首",,https://www.mittrchina.com/news/detail/17026,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+2,AMD 收购 World Labs，李飞飞将出任 AMD 首位首席科学家,双方于 9 月 26 日签署合并协议，AMD 将取得 World Labs 全部股权，交易尚需监管审批，预计 2026 年底前完成。交割后，李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向董事会主席兼首席执行官苏姿丰（Lisa Su）汇报。值得注意的是，收购后，贾斯汀和本将继续带领原团队，交割前 World Labs 与 AMD 芯片业务分开运营，交割后团队仍以模型研究为主业。 麻省理工科技评论 1 小时前,,https://www.mittrchina.com/news/detail/17028,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+3,How we will do better for Australia,OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australias cyber defences. OpenAI 2 小时前,,https://openai.com/index/how-we-will-do-better-for-australia,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+4,OpenAI 模型入侵澳大利亚政府 Medicare 门户，阿尔巴尼斯要求调查并追责,澳大利亚总理安东尼・阿尔巴尼斯周三披露，一个 OpenAI 模型在内部评估期间入侵了澳大利亚政府网站，这是首例公开报道的 AI 模型入侵政府系统的案例。阿尔巴尼斯表示，此次入侵「显然会带来法律后果」，OpenAI 正面临政府调查，以查明其未发布模型如何获取大量批量健康数据。阿尔巴尼斯告诉记者，该模型「不接受「不」作为答案」，在 Medicare 门户遇到反复封锁后找到了绕过方法。 AIBase 47 分钟前,,https://www.aibase.com/zh/news/31404,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+5,Anthropic 抢在 OpenAI 开发者大会前发布 Claude Sonnet 5.5：一半价格逼近 Opus，还通关了宝可梦,Anthropic 卡着 OpenAI 年度开发者大会的节点，抢先发布 Claude Sonnet 5.5。它是首个仅靠看截图就能通关《宝可梦 红》的 Sonnet 模型 —— 不靠内存修改、不靠内置攻略，只凭一帧帧画面去理解世界、做决策、推进剧情，把视觉理解与长程规划揉进同一个模型。Anthropic 用一半的价格、追平的性能，外加通关宝可梦的实景演示，在对手大会前夜按下发布键，这一发瞄准的显然不只是开发者钱包，更是整个中端市场的定价权。 AIBase 50 分钟前,,https://www.aibase.com/zh/news/31403,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+6,蝴蝶效应发布 Manus2.0：成本降三成，Agent 还能组队打工,与当前主流 AI 产品聚焦对话能力不同，Manus2.0 将核心定位放在「任务执行」上，试图让 AI 真正成为用户的数字助理。新框架使相同任务的执行耗时降低近 30%，运行成本也同步削减约三分之一。多个 AI Agent 可在 Cue 中组建「工作群」，每个 Agent 拥有独立的邮箱和钱包，能够互相发送消息、协同完成任务，甚至替用户接听电话或扫码点餐。 AIBase 1 小时前,,https://www.aibase.com/zh/news/31399,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+7,一年烧钱 5180 亿美元、去年亏 420 亿，Anthropic 招股书揭开 AI 独角兽最贵账单,文件显示，公司在 2025 年录得 420 亿美元的净亏损，并计划在未来一年里，往云服务、算力和基础设施业务砸下 5180 亿美元。2025 年 Anthropic 营收翻了 12 倍，冲到接近 46 亿美元，但扣除主要与早前融资相关的负债减值的拖累后，公司营业层面仍亏掉超过 80 亿美元。去年 Anthropic 在计算和基础设施上的支出达到 73.3 亿美元，比 2024 年猛增三倍，吃掉了其 126.5 亿美元总运营支出的一半以上。 AIBase 2 小时前,,https://www.aibase.com/zh/news/31394,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+8,微软报告：全球打工人里每五人就有一个用 AI，南北差距还在拉大,到今年第二季度，全世界劳动年龄人口中已有 18.8% 用上了人工智能，比上一季度多出约 1 个百分点，且几乎每个经济体的使用率都在往上走。把镜头拉到地区层面，最舍得用 AI 的还是阿联酋（70.1%）和新加坡（64.3%），爱尔兰、法国、挪威也都逼近一半。这份报告也亮出一道刺眼的裂痕：全球北方劳动年龄人口的 AI 采用率平均有 28.8%，南方却只有 16.2%，世界层面的南北落差进一步拉大。 AIBase 22 分钟前,,https://www.aibase.com/zh/news/31408,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+9,Claude Sonnet 5.5 发布：速度提升 30%+，成本更低，成为 claude.ai 免费层模型,"Claude Sonnet 5.5 据称运行速度提升 30% 以上，大多数工作成本降低最多 30%。定价与 Sonnet 5 相同，但在各项基准测试中均优于 Sonnet 5，且运行成本更低。Sonnet 5.5 存在与 Opus 5.5 相同的 bug：在「max」思考努力下，pelican 思考了 128,000 个 token（花费 1.28 美元）后耗尽 token，未能生成 SVG。最有趣的是，Sonnet 5.5 现已成为 claude.ai 免费层所使用的模型。",,https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
+10,影石杀入智能眼镜赛道：电池挂身上、镜框随便换，专攻拍摄体验,运动相机巨头影石（Insta360）正在研发一款主打拍摄体验的智能眼镜，试图以差异化的硬件设计和 AI 能力，在 Meta 一家独大的市场中撕开一道口子。这款眼镜最特别的设计在于供电方案 —— 电池与眼镜主体分离，挂在用户身上供电，核心功能模块则集成在镜腿上。影石能否靠「拍摄体验」这张牌在智能眼镜市场站稳脚跟，还有待产品正式发布后见分晓。 AIBase 34 分钟前,,https://www.aibase.com/zh/news/31407,,Readhub,AI 资讯,ai,digest,,2026-09-29 11:28:34
