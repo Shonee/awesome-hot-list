@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-29 22:41:38
+> 更新时间：2026-09-30 05:12:43
 
 ## 每日趋势
 
@@ -113,16 +113,17 @@
 6. [kubernetes](https://github.com/kubernetes/kubernetes)
 7. [go](https://github.com/golang/go)
 8. [cli](https://github.com/urfave/cli)
-9. [engram](https://github.com/Gentleman-Programming/engram)
-10. [go-music-dl](https://github.com/guohuiyuan/go-music-dl)
-11. [bifrost](https://github.com/maximhq/bifrost)
-12. [flexprice](https://github.com/flexprice/flexprice)
-13. [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
-14. [cockroach](https://github.com/cockroachdb/cockroach)
-15. [terraform](https://github.com/hashicorp/terraform)
-16. [nuclei](https://github.com/projectdiscovery/nuclei)
-17. [compose](https://github.com/docker/compose)
-18. [distribution](https://github.com/distribution/distribution)
+9. [agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+10. [engram](https://github.com/Gentleman-Programming/engram)
+11. [go-music-dl](https://github.com/guohuiyuan/go-music-dl)
+12. [bifrost](https://github.com/maximhq/bifrost)
+13. [flexprice](https://github.com/flexprice/flexprice)
+14. [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+15. [cockroach](https://github.com/cockroachdb/cockroach)
+16. [terraform](https://github.com/hashicorp/terraform)
+17. [nuclei](https://github.com/projectdiscovery/nuclei)
+18. [compose](https://github.com/docker/compose)
+19. [distribution](https://github.com/distribution/distribution)
 
 ## HTML
 

@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-30 04:14:09
+> 更新时间：2026-09-30 05:12:45
 
 ## 热门文章
 
@@ -36,10 +36,10 @@
 30. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
 31. [Hooks 原理：把"每次重跑的函数"变成"有记忆的组件"](https://juejin.cn/post/7689299210249240627)
 32. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://juejin.cn/post/7689096640691175439)
-33. [再见了 WebUI，DeepSeek 桌面版真不错。](https://juejin.cn/post/7690490511467544602)
-34. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
-35. [思考|谈谈AI时代的后端开发+QECon演讲PPT](https://juejin.cn/post/7690031273628745779)
-36. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
+33. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
+34. [再见了 WebUI，DeepSeek 桌面版真不错。](https://juejin.cn/post/7690490511467544602)
+35. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
+36. [思考|谈谈AI时代的后端开发+QECon演讲PPT](https://juejin.cn/post/7690031273628745779)
 37. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
 38. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
 39. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
