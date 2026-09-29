@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-29 20:20:14
+> 更新时间：2026-09-29 20:52:43
 
 ## 热门文章
 
@@ -18,16 +18,16 @@
 12. [同样用 Element Plus，为什么你的后台总有一股“模板味”？](https://juejin.cn/post/7690405198255325234)
 13. [栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...](https://juejin.cn/post/7689866047096602666)
 14. [用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录](https://juejin.cn/post/7690497704220196883)
-15. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
-16. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
+15. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
+16. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
 17. [ZCode 可以自己看微信小程序了](https://juejin.cn/post/7690010257952178218)
 18. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
 19. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
 20. [第 26 章 案例二 企业知识库问答 Agent](https://juejin.cn/post/7689219046840074278)
 21. [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898)
 22. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
-23. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
-24. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
+23. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
+24. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
 25. [WEB 项目如何禁用 F12 等功能](https://juejin.cn/post/7689431365684772904)
 26. [Electron 自动化发布指南：GitHub Actions 跨平台打包全纪录](https://juejin.cn/post/7689431365684281384)
 27. [Agent 如何拥有长期记忆：六个主流项目的设计思路对比](https://juejin.cn/post/7690197651807535158)
@@ -41,10 +41,10 @@
 35. [再见了 WebUI，DeepSeek 桌面版真不错。](https://juejin.cn/post/7690490511467544602)
 36. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
 37. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
-38. [数据平台到底是什么？一篇文章搞懂数据平台开发](https://juejin.cn/post/7689299210249044019)
-39. [RAG 检索效果量化测评落地：完整流程、指标实现与踩坑总结](https://juejin.cn/post/7689219046839484454)
-40. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
-41. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
+38. [RAG 检索效果量化测评落地：完整流程、指标实现与踩坑总结](https://juejin.cn/post/7689219046839484454)
+39. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
+40. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
+41. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
 42. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
 43. [我把 Agent 的 while 循环拆掉了：一种你可能没想到的 Agent 架构](https://juejin.cn/post/7690413193492217856)
 44. [被要求猛出小程序，做了这个多平台多环境的部署替我承受压力](https://juejin.cn/post/7690218295266099209)

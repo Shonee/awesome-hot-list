@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-29 20:20:18
+> 更新时间：2026-09-29 20:52:47
 
 ## 最新帖子
 
-1. [Delay_us 与 Delay_ms：用 SysTick 做一把可靠的时间尺](https://www.cnblogs.com/zw-awa/p/23161857)
-2. [Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS>0 消息后客户端主动断连问题排查复盘](https://www.cnblogs.com/SheepDog/p/23160844)
-3. [并发编程（六）：Atomic 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23160403)
-4. [关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉](https://www.cnblogs.com/ahfuzhang/p/23160145)
-5. [VS2019 for mac里用c#开发Mac OS应用 重要过程](https://www.cnblogs.com/canbloom/p/23158971)
-6. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
-7. [dsh插件开发踩坑实录(写给正在build dsh插件的ai agent)](https://www.cnblogs.com/borui-coding-diary/p/23157248/dsh-plugin-dev-experience)
-8. [用Pandas+Pydantic搭建数据清洗与验证管道](https://www.cnblogs.com/wang_yb/p/23155666)
-9. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
-10. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
-11. [Java无垃圾稳态设计](https://www.cnblogs.com/xiexj/p/23154843)
-12. [JuiceFS 企业版 5.4：从千亿文件到百万客户端](https://www.cnblogs.com/JuiceData/p/23154107)
-13. [如何将飞书 SDK改造为支持AOT编译](https://www.cnblogs.com/mudtools/p/23152901)
-14. [Elasticsearch从0-1部署成功实战](https://www.cnblogs.com/zrui-xyu/p/23152708)
-15. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
-16. [C#.NET源生成器命名规则](https://www.cnblogs.com/xiangji/p/23151568)
-17. [【FHE】（十三）：位级可复现性——4 线程与 8 线程为什么算出不同的结果](https://www.cnblogs.com/haliuhome/p/23151456)
-18. [用 Jev 与 Laravel AI SDK 检测垃圾邮件和自动回复](https://www.cnblogs.com/catchadmin/p/23151291)
-19. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
-20. [公司发展到一定阶段，到底要不要封装中间件？](https://www.cnblogs.com/zhangs1986/p/23056721)
+1. [当Ai制作的小工具越来越多，我为什么开始需要一个桌面应用工作台](https://www.cnblogs.com/duanyuhang/p/23162207)
+2. [Delay_us 与 Delay_ms：用 SysTick 做一把可靠的时间尺](https://www.cnblogs.com/zw-awa/p/23161857)
+3. [Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS>0 消息后客户端主动断连问题排查复盘](https://www.cnblogs.com/SheepDog/p/23160844)
+4. [并发编程（六）：Atomic 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23160403)
+5. [关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉](https://www.cnblogs.com/ahfuzhang/p/23160145)
+6. [VS2019 for mac里用c#开发Mac OS应用 重要过程](https://www.cnblogs.com/canbloom/p/23158971)
+7. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
+8. [dsh插件开发踩坑实录(写给正在build dsh插件的ai agent)](https://www.cnblogs.com/borui-coding-diary/p/23157248/dsh-plugin-dev-experience)
+9. [用Pandas+Pydantic搭建数据清洗与验证管道](https://www.cnblogs.com/wang_yb/p/23155666)
+10. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
+11. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
+12. [Java无垃圾稳态设计](https://www.cnblogs.com/xiexj/p/23154843)
+13. [JuiceFS 企业版 5.4：从千亿文件到百万客户端](https://www.cnblogs.com/JuiceData/p/23154107)
+14. [如何将飞书 SDK改造为支持AOT编译](https://www.cnblogs.com/mudtools/p/23152901)
+15. [Elasticsearch从0-1部署成功实战](https://www.cnblogs.com/zrui-xyu/p/23152708)
+16. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
+17. [C#.NET源生成器命名规则](https://www.cnblogs.com/xiangji/p/23151568)
+18. [【FHE】（十三）：位级可复现性——4 线程与 8 线程为什么算出不同的结果](https://www.cnblogs.com/haliuhome/p/23151456)
+19. [用 Jev 与 Laravel AI SDK 检测垃圾邮件和自动回复](https://www.cnblogs.com/catchadmin/p/23151291)
+20. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
 
 ## 精华帖子
 
