@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-30 02:17:25
+> 更新时间：2026-09-30 03:12:02
 
 ## 热门文章
 
@@ -38,19 +38,19 @@
 32. [再见了 WebUI，DeepSeek 桌面版真不错。](https://juejin.cn/post/7690490511467544602)
 33. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
 34. [思考|谈谈AI时代的后端开发+QECon演讲PPT](https://juejin.cn/post/7690031273628745779)
-35. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://juejin.cn/post/7689096640691175439)
-36. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
+35. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
+36. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://juejin.cn/post/7689096640691175439)
 37. [我把 Agent 的 while 循环拆掉了：一种你可能没想到的 Agent 架构](https://juejin.cn/post/7690413193492217856)
 38. [RAG 检索效果量化测评落地：完整流程、指标实现与踩坑总结](https://juejin.cn/post/7689219046839484454)
-39. [深入理解 Java/Kotlin 协变与逆变](https://juejin.cn/post/7689077368330682419)
-40. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
-41. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
-42. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
-43. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
-44. [干了 6 年前端，我是怎么一步步转型到 AI 的？](https://juejin.cn/post/7690468159976701998)
-45. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
-46. [我实测了前端日期的 5 个坑：差 8 小时只是开始](https://juejin.cn/post/7690463587244458035)
-47. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
+39. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
+40. [深入理解 Java/Kotlin 协变与逆变](https://juejin.cn/post/7689077368330682419)
+41. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
+42. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
+43. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
+44. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
+45. [干了 6 年前端，我是怎么一步步转型到 AI 的？](https://juejin.cn/post/7690468159976701998)
+46. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+47. [我实测了前端日期的 5 个坑：差 8 小时只是开始](https://juejin.cn/post/7690463587244458035)
 48. [被要求猛出小程序，做了这个多平台多环境的部署替我承受压力](https://juejin.cn/post/7690218295266099209)
 49. [小程序点餐页吸顶滚动之分类按需加载，上划切换](https://juejin.cn/post/7690205250242052130)
 50. [Flutter 原生插件开发实战指南](https://juejin.cn/post/7690010257951948842)
