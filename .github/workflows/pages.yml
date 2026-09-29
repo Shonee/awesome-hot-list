@@ -5,8 +5,8 @@ on:
   workflow_run:
     workflows:
       - Bootstrap data-pages
-      - Collect hourly hotlists
-      - Collect special hotlists
+      - Collect hotlists every 30 minutes
+      - Collect special hotlists (manual)
       - Collect live news
       - Render Daily Dashboard
       - Archive weekly hot-list data

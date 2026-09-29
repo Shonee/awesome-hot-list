@@ -245,7 +245,7 @@ def _sampling_coverage(date: str, records: List[tuple], enabled_channels: List[o
     expected_total = 0
     actual_total = 0
     for channel in enabled_channels:
-        interval = max(1, int(getattr(channel, "frequency_minutes", 60)))
+        interval = max(1, int(getattr(channel, "frequency_minutes", 30)))
         expected = ceil(elapsed_minutes / interval) if elapsed_minutes else 0
         expected_total += expected
         actual_total += min(expected, len(actual_times[channel.channel_id]))

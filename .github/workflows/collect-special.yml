@@ -1,9 +1,7 @@
-name: Collect special hotlists
+name: Collect special hotlists (manual)
 
 on:
-  schedule:
-    # Trigger hourly; collect.py applies each channel's configured interval.
-    - cron: "23 * * * *"
+  # Scheduled collection is handled by Collect hotlists every 30 minutes.
   workflow_dispatch:
     inputs:
       force:
@@ -55,9 +53,9 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r app/src/requirements.txt
 
-      - name: Collect due special channels
+      - name: Collect due special channels (manual)
         id: collect_due
-        if: github.event_name == 'schedule' || inputs.force != true
+        if: inputs.force != true
         continue-on-error: true
         run: >-
           python "$GITHUB_WORKSPACE/app/src/script/collect.py" special --due

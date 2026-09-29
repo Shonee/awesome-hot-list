@@ -1,15 +1,15 @@
-name: Collect hourly hotlists
+name: Collect hotlists every 30 minutes
 
 on:
   schedule:
-    # GitHub cron uses UTC; this runs at 07 minutes past every hour.
-    - cron: "7 * * * *"
+    # GitHub cron uses UTC; the single scheduled collector runs twice per hour.
+    - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
       channels:
-        description: "hourly, all, or comma-separated channel IDs"
+        description: "all or comma-separated channel IDs"
         required: true
-        default: "hourly"
+        default: "all"
         type: string
 
 concurrency:
@@ -25,7 +25,7 @@ jobs:
     timeout-minutes: 15
     env:
       TZ: Asia/Shanghai
-      CHANNELS: ${{ inputs.channels || 'hourly' }}
+      CHANNELS: ${{ inputs.channels || 'all' }}
       HOTLIST_TOPHUB_MIN_INTERVAL_SECONDS: ${{ vars.HOTLIST_TOPHUB_MIN_INTERVAL_SECONDS || '3' }}
       HOTLIST_DAILYHOT_MIN_INTERVAL_SECONDS: ${{ vars.HOTLIST_DAILYHOT_MIN_INTERVAL_SECONDS || '5' }}
       HOTLIST_DOMAIN_MIN_INTERVAL_SECONDS: ${{ vars.HOTLIST_DOMAIN_MIN_INTERVAL_SECONDS || '1' }}
@@ -57,12 +57,16 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r app/src/requirements.txt
 
-      - name: Collect hourly channels
+      - name: Collect due hotlists
         id: collect
         continue-on-error: true
-        run: >-
-          python "$GITHUB_WORKSPACE/app/src/script/collect.py" "$CHANNELS"
-          --data-root "$GITHUB_WORKSPACE/runtime"
+        run: |
+          args=("$CHANNELS")
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
+            args+=(--due)
+          fi
+          python "$GITHUB_WORKSPACE/app/src/script/collect.py" "${args[@]}" \
+            --data-root "$GITHUB_WORKSPACE/runtime"
 
       - name: Commit snapshots to data-pages
         if: always()
@@ -74,7 +78,7 @@ jobs:
             echo "no channel data changed"
             exit 0
           fi
-          git -C runtime commit -m "chore: update hourly hotlists"
+          git -C runtime commit -m "chore: update hotlists"
           git -C runtime pull --rebase origin data-pages
           git -C runtime push origin HEAD:data-pages
 
@@ -82,6 +86,6 @@ jobs:
         if: always()
         run: |
           if [ "${{ steps.collect.outcome }}" != "success" ]; then
-            echo "all attempted hourly channels failed; generated failure state was persisted"
+            echo "all attempted hotlist channels failed; generated failure state was persisted"
             exit 1
           fi

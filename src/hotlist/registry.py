@@ -20,7 +20,7 @@ class ChannelDefinition:
     homepage: str = ""
     enabled_by_default: bool = True
     requires_env: Tuple[str, ...] = ()
-    frequency_minutes: int = 60
+    frequency_minutes: int = 30
     visible_by_default: bool = True
     include_in_report: bool = True
     stale_after_hours: Optional[int] = None
@@ -84,21 +84,19 @@ _DISABLED_SURFACES = {
     "wallstreetcn": ("live",),
 }
 
-# GitHub Actions checks special channels hourly, but the collector only runs a
-# channel when this interval has elapsed since its last snapshot. This keeps
-# one scheduling model while allowing less stable or slower sources to opt out
-# of a full hourly request.
+# GitHub Actions collects default hotlist channels every 30 minutes. A small
+# number of trend/digest channels keep a longer interval because their source
+# data is not expected to change at half-hour cadence.
+DEFAULT_FREQUENCY_MINUTES = 30
 CHANNEL_FREQUENCIES = {
     "github": 360,
     "googletrends": 360,
     "bing": 180,
     "huggingface": 360,
-    "kuaishou": 180,
-    "eastmoney": 180,
-    "hackernews": 120,
-    "xueqiu": 360,
+    "readhub": 60,
+    "cctv": 60,
+    "mfa": 60,
     "maimai": 360,
-    "v2ex": 180,
     "wallstreetcn": 15,
 }
 
@@ -198,7 +196,7 @@ CHANNELS: Dict[str, ChannelDefinition] = {
         homepage=values[3],
         enabled_by_default=values[4] and (channel_id not in _HIDDEN_BY_DEFAULT or channel_id == "fuliba"),
         requires_env=values[5],
-        frequency_minutes=CHANNEL_FREQUENCIES.get(channel_id, 60),
+        frequency_minutes=CHANNEL_FREQUENCIES.get(channel_id, DEFAULT_FREQUENCY_MINUTES),
         visible_by_default=channel_id not in _HIDDEN_BY_DEFAULT,
         include_in_report=channel_id not in _EXCLUDED_FROM_REPORT,
         stale_after_hours=_STALE_AFTER_HOURS.get(channel_id),
@@ -243,7 +241,8 @@ LIVE_CHANNELS = tuple(
 SPECIAL_CHANNELS = tuple(
     channel_id
     for channel_id in CHANNEL_ORDER
-    if CHANNELS[channel_id].frequency_minutes != 60
+    if CHANNELS[channel_id].frequency_minutes > DEFAULT_FREQUENCY_MINUTES
+    and "hotlist" in CHANNELS[channel_id].surfaces
     and CHANNELS[channel_id].enabled_by_default
 )
 HOURLY_CHANNELS = tuple(

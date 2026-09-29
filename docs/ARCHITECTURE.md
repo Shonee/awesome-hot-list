@@ -4,7 +4,7 @@
 
 项目继续使用 GitHub Actions、CSV、静态 JSON、GitHub Releases 和静态页面，不引入常驻 API、数据库、任务服务或浏览器池。
 
-源码与高频运行数据分开维护：`master` 是稳定源码分支，`data-pages` 是机器维护的七日滚动快照。这样既保留个人项目的轻量性，也避免每小时采集提交淹没源码历史。
+源码与高频运行数据分开维护：`master` 是稳定源码分支，`data-pages` 是机器维护的七日滚动快照。这样既保留个人项目的轻量性，也避免高频采集提交淹没源码历史。
 
 ## 分支与存储职责
 
@@ -56,9 +56,9 @@ Actions 将 `master` 检出到 `app/`，将 `data-pages` 检出到 `runtime/`。
 
 ## 调度
 
-- `collect-hourly.yml` 每小时采集默认渠道，只提交 `runtime/archived` 和 `runtime/site/data` 到 `data-pages`。
-- `collect-live.yml` 每 15 分钟只采集 `live` 内容面，局部合并新浪、财联社和华尔街见闻卡片，且不重建报告。
-- `collect-special.yml` 每小时触发，由 `runner.due_channel_ids()` 根据上次成功时间和渠道频率决定是否请求。显式失败且没有有效榜单的快照会立即重试，不会被失败时的 `fetchedAt` 阻塞整个低频周期。
+- `collect-hourly.yml` 每 30 分钟运行，是唯一的自动热榜采集任务。定时触发执行 `collect.py all --due`，默认热榜渠道按 30 分钟采集；GitHub、Hugging Face 和 Readhub 按注册表中的较长频率运行。只提交 `runtime/archived` 和 `runtime/site/data` 到 `data-pages`。手动指定渠道时会跳过到期判断，便于立即重试。
+- `collect-live.yml` 已暂停定时触发，只保留手动入口；它只采集 `live` 内容面，且不重建报告。当前默认关闭的 live 内容面不会因为手动运行而请求接口。
+- `collect-special.yml` 已暂停定时触发，只保留手动入口。特殊热榜的自动采集已经并入半小时任务；显式失败且没有有效榜单的快照会立即重试，不会被失败时的 `fetchedAt` 阻塞后续周期。
 - 采集工作流只写归档和内容面快照，不调用报告构建。
 - `render-daily.yml` 每小时第 40 分钟生成今日与昨日报告；页面模板或报告代码在 `master` 更新时也会重新渲染。渲染后校验四个内容面文件不串面，并限制 `latest.json` gzip 体积不超过 300 KiB。
 - 所有数据写入工作流共用 `hotlist-repository-writer` 并发组，避免同时修改 `data-pages`。

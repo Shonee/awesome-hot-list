@@ -24,7 +24,7 @@
 
 ## 4. 调度与展示
 
-默认小时渠道为百度、网易、新浪、澎湃、Lobsters。东方财富与 Hacker News 使用较低频率；Hugging Face、Google Trends、快手按 Actions 结果进入特殊调度。所有通过验证并启用的新增渠道默认显示、进入综合报告；实验性或未验证渠道不注册为默认卡片。
+默认热榜渠道按 30 分钟采集。GitHub 与 Hugging Face 的趋势榜保留 6 小时，Readhub digest 保留 60 分钟；Google Trends、Bing 等未启用渠道不进入自动调度。所有通过验证并启用的新增渠道默认显示、进入综合报告；实验性或未验证渠道不注册为默认卡片。
 
 ## 5. 稳定性约束
 

@@ -241,18 +241,19 @@ class FallbackRegistryTests(unittest.TestCase):
 
         self.assertTrue(definition.enabled_by_default)
         self.assertEqual(definition.requires_env, ())
-        self.assertEqual(definition.frequency_minutes, 60)
+        self.assertEqual(definition.frequency_minutes, 30)
         self.assertIn("zhihu", HOURLY_CHANNELS)
 
     def test_wechat_is_registered_and_rss_is_retired(self):
         self.assertIn("wechat", HOURLY_CHANNELS)
         self.assertNotIn("rss", CHANNEL_ORDER)
 
-    def test_xueqiu_fallback_channel_is_scheduled(self):
+    def test_xueqiu_fallback_channel_uses_half_hour_schedule(self):
         definition = get_channel("xueqiu")
 
         self.assertTrue(definition.enabled_by_default)
-        self.assertIn("xueqiu", SPECIAL_CHANNELS)
+        self.assertEqual(definition.frequency_minutes, 30)
+        self.assertNotIn("xueqiu", SPECIAL_CHANNELS)
 
 
 class RankingProviderMetadataTests(unittest.TestCase):

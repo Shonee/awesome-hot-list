@@ -1,0 +1,1996 @@
+{
+    "schemaVersion": 1,
+    "changeId": "20260929-set-hotlist-frequency-30m",
+    "fromVersion": "1.1.3",
+    "toVersion": "1.1.4",
+    "targetMetadata": {
+        "$schema": "schema.v1.json",
+        "schemaVersion": 1,
+        "catalogVersion": "1.1.4",
+        "updatedAt": "2026-09-29",
+        "updatePolicy": {
+            "schema": "config/channels/schema.v1.json",
+            "baseline": "config/channels/base.v1.json",
+            "current": "config/channels/current.json",
+            "changes": "config/channels/changes/*.json",
+            "strategy": "full-snapshot-plus-append-only-deltas"
+        }
+    },
+    "operations": [
+        {
+            "op": "replace",
+            "channelId": "weibo",
+            "value": {
+                "channelId": "weibo",
+                "name": "微博",
+                "shortName": "WB",
+                "order": 1,
+                "category": {
+                    "id": "social",
+                    "label": "社交平台"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://s.weibo.com/top/summary",
+                "collector": {
+                    "module": "src/hotlist/channels/weibo.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://weibo.com/ajax/side/hotSearch"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://s.weibo.com/top/summary"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "zhihu",
+            "value": {
+                "channelId": "zhihu",
+                "name": "知乎",
+                "shortName": "ZH",
+                "order": 2,
+                "category": {
+                    "id": "community",
+                    "label": "综合社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.zhihu.com/hot",
+                "collector": {
+                    "module": "src/hotlist/channels/zhihu.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "hot_page_url",
+                            "kind": "page",
+                            "url": "https://www.zhihu.com/hot"
+                        },
+                        {
+                            "name": "search_url",
+                            "kind": "page",
+                            "url": "https://www.zhihu.com/topsearch"
+                        },
+                        {
+                            "name": "tophub_hot_url",
+                            "kind": "page",
+                            "url": "https://tophub.today/n/mproPpoq6O"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "ZHIHU_COOKIE 可选；官方接口失败时使用受控降级源"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "douyin",
+            "value": {
+                "channelId": "douyin",
+                "name": "抖音",
+                "shortName": "DY",
+                "order": 3,
+                "category": {
+                    "id": "video",
+                    "label": "视频平台"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.douyin.com/hot",
+                "collector": {
+                    "module": "src/hotlist/channels/douyin.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "homepage",
+                            "kind": "page",
+                            "url": "https://www.douyin.com/hot"
+                        },
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://aweme-lq.snssdk.com/aweme/v1/hot/search/list/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "kuaishou",
+            "value": {
+                "channelId": "kuaishou",
+                "name": "快手",
+                "shortName": "KS",
+                "order": 4,
+                "category": {
+                    "id": "video",
+                    "label": "视频平台"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.kuaishou.com/?isHome=1&cc=CN",
+                "collector": {
+                    "module": "src/hotlist/channels/kuaishou.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "dailyhot_url",
+                            "kind": "page",
+                            "url": "https://api-hot.imsyy.top/kuaishou"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.kuaishou.com/?isHome=1&cc=CN"
+                        },
+                        {
+                            "name": "tophub_url",
+                            "kind": "page",
+                            "url": "https://tophub.today/n/MZd7PrPerO"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "bilibili",
+            "value": {
+                "channelId": "bilibili",
+                "name": "哔哩哔哩",
+                "shortName": "BILI",
+                "order": 5,
+                "category": {
+                    "id": "video",
+                    "label": "视频平台"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.bilibili.com/v/popular/all",
+                "collector": {
+                    "module": "src/hotlist/channels/bilibili.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "homepage",
+                            "kind": "page",
+                            "url": "https://www.bilibili.com/v/popular/all"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "acfun",
+            "value": {
+                "channelId": "acfun",
+                "name": "AcFun",
+                "shortName": "AC",
+                "order": 6,
+                "category": {
+                    "id": "video",
+                    "label": "视频平台"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.acfun.cn/rank/list/",
+                "collector": {
+                    "module": "src/hotlist/channels/acfun.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "base_url",
+                            "kind": "page",
+                            "url": "https://www.acfun.cn/rest/pc-direct/rank/channel"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.acfun.cn/rank/list/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "toutiao",
+            "value": {
+                "channelId": "toutiao",
+                "name": "今日头条",
+                "shortName": "TT",
+                "order": 7,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.toutiao.com/hot-event/hot-board/",
+                "collector": {
+                    "module": "src/hotlist/channels/toutiao.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.toutiao.com/hot-event/hot-board/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "juejin",
+            "value": {
+                "channelId": "juejin",
+                "name": "掘金",
+                "shortName": "掘",
+                "order": 9,
+                "category": {
+                    "id": "developer",
+                    "label": "开发者社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://juejin.cn/hot/articles",
+                "collector": {
+                    "module": "src/hotlist/channels/juejin.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://api.juejin.cn/content_api/v1/content/article_rank"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://juejin.cn/hot/articles"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "cnblogs",
+            "value": {
+                "channelId": "cnblogs",
+                "name": "博客园",
+                "shortName": "园",
+                "order": 10,
+                "category": {
+                    "id": "developer",
+                    "label": "开发者社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.cnblogs.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/cnblogs.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "picks_url",
+                            "kind": "page",
+                            "url": "https://www.cnblogs.com/pick/"
+                        },
+                        {
+                            "name": "reading_url",
+                            "kind": "page",
+                            "url": "https://www.cnblogs.com/aggsite/SideRight"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.cnblogs.com/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "pojie52",
+            "value": {
+                "channelId": "pojie52",
+                "name": "吾爱破解",
+                "shortName": "吾",
+                "order": 11,
+                "category": {
+                    "id": "community",
+                    "label": "综合社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.52pojie.cn/forum.php?mod=guide&view=hot",
+                "collector": {
+                    "module": "src/hotlist/channels/pojie52.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "digest_url",
+                            "kind": "page",
+                            "url": "https://www.52pojie.cn/forum.php?mod=guide&view=digest"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.52pojie.cn/forum.php?mod=guide&view=hot"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "baidu",
+            "value": {
+                "channelId": "baidu",
+                "name": "百度热搜",
+                "shortName": "百",
+                "order": 14,
+                "category": {
+                    "id": "search",
+                    "label": "搜索趋势"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://top.baidu.com/board?tab=realtime",
+                "collector": {
+                    "module": "src/hotlist/channels/baidu.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://top.baidu.com/board?tab=realtime"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "wechat",
+            "value": {
+                "channelId": "wechat",
+                "name": "微信文章",
+                "shortName": "微",
+                "order": 15,
+                "category": {
+                    "id": "media",
+                    "label": "内容媒体"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://tophub.today/n/WnBe01o371",
+                "collector": {
+                    "module": "src/hotlist/channels/wechat.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "tophub_wechat_url",
+                            "kind": "page",
+                            "url": "https://tophub.today/n/WnBe01o371"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "使用受控聚合源，保留微信原文链接"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "36kr",
+            "value": {
+                "channelId": "36kr",
+                "name": "36氪",
+                "shortName": "36",
+                "order": 16,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.36kr.com/hot-list/catalog",
+                "collector": {
+                    "module": "src/hotlist/channels/kr36.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.36kr.com/hot-list/catalog"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "thepaper",
+            "value": {
+                "channelId": "thepaper",
+                "name": "澎湃新闻",
+                "shortName": "澎",
+                "order": 18,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.thepaper.cn/",
+                "collector": {
+                    "module": "src/hotlist/channels/thepaper.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.thepaper.cn/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "cctv",
+            "value": {
+                "channelId": "cctv",
+                "name": "央视新闻",
+                "shortName": "视",
+                "order": 19,
+                "category": {
+                    "id": "authority",
+                    "label": "权威发布"
+                },
+                "surfaces": [
+                    "authority"
+                ],
+                "homepage": "https://news.cctv.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/cctv.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://news.cctv.com/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 60
+                },
+                "defaults": {
+                    "enabled": false,
+                    "visible": false,
+                    "includeInReport": false
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "作为 authority 内容保存，不进入综合报告"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "mfa",
+            "value": {
+                "channelId": "mfa",
+                "name": "外交部",
+                "shortName": "外",
+                "order": 20,
+                "category": {
+                    "id": "authority",
+                    "label": "权威发布"
+                },
+                "surfaces": [
+                    "authority"
+                ],
+                "homepage": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/",
+                "collector": {
+                    "module": "src/hotlist/channels/mfa.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 60
+                },
+                "defaults": {
+                    "enabled": false,
+                    "visible": false,
+                    "includeInReport": false
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "作为 authority 内容保存，不进入综合报告"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "qqnews",
+            "value": {
+                "channelId": "qqnews",
+                "name": "腾讯新闻",
+                "shortName": "腾",
+                "order": 21,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://news.qq.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/qqnews.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://r.inews.qq.com/gw/event/pc_hot_ranking_list?page_size=20"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://news.qq.com/"
+                        },
+                        {
+                            "name": "tophub_url",
+                            "kind": "page",
+                            "url": "https://tophub.today/n/12owgX0oNV"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "netease",
+            "value": {
+                "channelId": "netease",
+                "name": "网易新闻",
+                "shortName": "网",
+                "order": 22,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://news.163.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/netease.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://m.163.com/fe/api/hot/news/flow"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://news.163.com/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "sina",
+            "value": {
+                "channelId": "sina",
+                "name": "新浪",
+                "shortName": "新",
+                "order": 23,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist",
+                    "live"
+                ],
+                "homepage": "https://news.sina.com.cn/",
+                "collector": {
+                    "module": "src/hotlist/channels/sina.py",
+                    "entryPoints": [
+                        "collect",
+                        "collect_live"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "finance_api_url",
+                            "kind": "api",
+                            "url": "https://top.finance.sina.com.cn/ws/GetTopDataList.php"
+                        },
+                        {
+                            "name": "live_api_url",
+                            "kind": "api",
+                            "url": "https://app.cj.sina.com.cn/api/news/pc?page=1&size=200&tag=0"
+                        },
+                        {
+                            "name": "live_source_url",
+                            "kind": "page",
+                            "url": "https://finance.sina.com.cn/7x24/"
+                        },
+                        {
+                            "name": "news_api_url",
+                            "kind": "api",
+                            "url": "https://top.news.sina.com.cn/ws/GetTopDataList.php"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://news.sina.com.cn/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true,
+                    "disabledSurfaces": [
+                        "live"
+                    ]
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "热榜每 30 分钟采集，7x24 默认停止采集且不展示"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "cls",
+            "value": {
+                "channelId": "cls",
+                "name": "财联社",
+                "shortName": "财",
+                "order": 24,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "hotlist",
+                    "live"
+                ],
+                "homepage": "https://www.cls.cn/telegraph",
+                "collector": {
+                    "module": "src/hotlist/channels/cls.py",
+                    "entryPoints": [
+                        "collect",
+                        "collect_live"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "detail_url",
+                            "kind": "page",
+                            "url": "https://www.cls.cn/detail/{}"
+                        },
+                        {
+                            "name": "live_api_url",
+                            "kind": "api",
+                            "url": "https://www.cls.cn/api/cache"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.cls.cn/telegraph"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true,
+                    "disabledSurfaces": [
+                        "live"
+                    ]
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "热门文章每 30 分钟采集，电报默认停止采集且不展示"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "autohome",
+            "value": {
+                "channelId": "autohome",
+                "name": "汽车之家",
+                "shortName": "汽",
+                "order": 25,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.autohome.com.cn/cars/hotrank/1",
+                "collector": {
+                    "module": "src/hotlist/channels/autohome.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "rank_api_url",
+                            "kind": "api",
+                            "url": "https://www.autohome.com.cn/web-main/car/web/hotRank/getList?type=1"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.autohome.com.cn/cars/hotrank/1"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "gamersky",
+            "value": {
+                "channelId": "gamersky",
+                "name": "游民星空",
+                "shortName": "游",
+                "order": 26,
+                "category": {
+                    "id": "entertainment",
+                    "label": "影视文化"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.gamersky.com/news/",
+                "collector": {
+                    "module": "src/hotlist/channels/gamersky.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.gamersky.com/news/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "ithome",
+            "value": {
+                "channelId": "ithome",
+                "name": "IT之家",
+                "shortName": "IT",
+                "order": 27,
+                "category": {
+                    "id": "news",
+                    "label": "新闻资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.ithome.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/ithome.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.ithome.com/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "yicai",
+            "value": {
+                "channelId": "yicai",
+                "name": "第一财经",
+                "shortName": "一",
+                "order": 28,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "hotlist",
+                    "live"
+                ],
+                "homepage": "https://www.yicai.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/yicai.py",
+                    "entryPoints": [
+                        "collect",
+                        "collect_live"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "live_api_url",
+                            "kind": "api",
+                            "url": "https://www.yicai.com/api/ajax/getbrieflist?page=1&pagesize=20&type=0&id=all&action=mix"
+                        },
+                        {
+                            "name": "live_source_url",
+                            "kind": "page",
+                            "url": "https://www.yicai.com/brief/"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.yicai.com/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true,
+                    "disabledSurfaces": [
+                        "live"
+                    ]
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "首页头条每 30 分钟采集，7x24 快讯默认停止采集且不展示"
+                    ]
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "xueqiu",
+            "value": {
+                "channelId": "xueqiu",
+                "name": "雪球",
+                "shortName": "XQ",
+                "order": 30,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://xueqiu.com/today",
+                "collector": {
+                    "module": "src/hotlist/channels/xueqiu.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://xueqiu.com/hot_event/list.json?count=10"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://xueqiu.com/today"
+                        },
+                        {
+                            "name": "tophub_url",
+                            "kind": "page",
+                            "url": "https://tophub.today/n/X12owXzvNV"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "eastmoney",
+            "value": {
+                "channelId": "eastmoney",
+                "name": "东方财富",
+                "shortName": "东",
+                "order": 31,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://guba.eastmoney.com/rank/",
+                "collector": {
+                    "module": "src/hotlist/channels/eastmoney.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://guba.eastmoney.com/rank/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "tonghuashun",
+            "value": {
+                "channelId": "tonghuashun",
+                "name": "同花顺",
+                "shortName": "THS",
+                "order": 32,
+                "category": {
+                    "id": "finance",
+                    "label": "财经资讯"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://t.10jqka.com.cn/",
+                "collector": {
+                    "module": "src/hotlist/channels/tonghuashun.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "homepage",
+                            "kind": "page",
+                            "url": "https://t.10jqka.com.cn/"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://news.10jqka.com.cn/today_list/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "tieba",
+            "value": {
+                "channelId": "tieba",
+                "name": "百度贴吧",
+                "shortName": "贴",
+                "order": 33,
+                "category": {
+                    "id": "community",
+                    "label": "综合社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://tieba.baidu.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/tieba.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://tieba.baidu.com/hottopic/browse/topicList"
+                        },
+                        {
+                            "name": "homepage_url",
+                            "kind": "page",
+                            "url": "https://tieba.baidu.com/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "douban",
+            "value": {
+                "channelId": "douban",
+                "name": "豆瓣",
+                "shortName": "DB",
+                "order": 34,
+                "category": {
+                    "id": "entertainment",
+                    "label": "影视文化"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://movie.douban.com/chart",
+                "collector": {
+                    "module": "src/hotlist/channels/douban.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "homepage",
+                            "kind": "page",
+                            "url": "https://movie.douban.com/chart"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.douban.com/group/explore"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "hupu",
+            "value": {
+                "channelId": "hupu",
+                "name": "虎扑",
+                "shortName": "HP",
+                "order": 35,
+                "category": {
+                    "id": "sports",
+                    "label": "体育社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://m.hupu.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/hupu.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "home_url",
+                            "kind": "page",
+                            "url": "https://m.hupu.com/"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://m.hupu.com/hot"
+                        },
+                        {
+                            "name": "walk_street_url",
+                            "kind": "page",
+                            "url": "https://bbs.hupu.com/all-gambia"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "jandan",
+            "value": {
+                "channelId": "jandan",
+                "name": "煎蛋网",
+                "shortName": "蛋",
+                "order": 36,
+                "category": {
+                    "id": "community",
+                    "label": "综合社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://jandan.net/top",
+                "collector": {
+                    "module": "src/hotlist/channels/jandan.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "homepage",
+                            "kind": "page",
+                            "url": "https://jandan.net/top"
+                        },
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://jandan.net/api/top/4hr"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://jandan.net/top#tab=4hr"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "nodeseek",
+            "value": {
+                "channelId": "nodeseek",
+                "name": "NodeSeek",
+                "shortName": "N",
+                "order": 38,
+                "category": {
+                    "id": "community",
+                    "label": "综合社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.nodeseek.com/?tab=hot",
+                "collector": {
+                    "module": "src/hotlist/channels/nodeseek.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.nodeseek.com/?tab=hot"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "v2ex",
+            "value": {
+                "channelId": "v2ex",
+                "name": "V2EX",
+                "shortName": "V2",
+                "order": 39,
+                "category": {
+                    "id": "developer",
+                    "label": "开发者社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://www.v2ex.com/?tab=hot",
+                "collector": {
+                    "module": "src/hotlist/channels/v2ex.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_urls",
+                            "kind": "api",
+                            "url": "https://www.v2ex.com/api/topics/hot.json"
+                        },
+                        {
+                            "name": "api_urls",
+                            "kind": "api",
+                            "url": "https://v2ex.com/api/topics/hot.json"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://www.v2ex.com/?tab=hot"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "hackernews",
+            "value": {
+                "channelId": "hackernews",
+                "name": "Hacker News",
+                "shortName": "HN",
+                "order": 41,
+                "category": {
+                    "id": "developer",
+                    "label": "开发者社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://news.ycombinator.com/",
+                "collector": {
+                    "module": "src/hotlist/channels/hackernews.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "item_url",
+                            "kind": "page",
+                            "url": "https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://news.ycombinator.com/"
+                        },
+                        {
+                            "name": "top_stories_url",
+                            "kind": "page",
+                            "url": "https://hacker-news.firebaseio.com/v0/topstories.json"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "stackoverflow",
+            "value": {
+                "channelId": "stackoverflow",
+                "name": "Stack Overflow",
+                "shortName": "SO",
+                "order": 42,
+                "category": {
+                    "id": "developer",
+                    "label": "开发者社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://stackoverflow.com/questions?tab=hot",
+                "collector": {
+                    "module": "src/hotlist/channels/stackoverflow.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://api.stackexchange.com/2.3/questions"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://stackoverflow.com/questions?tab=hot"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "lobsters",
+            "value": {
+                "channelId": "lobsters",
+                "name": "Lobsters",
+                "shortName": "L",
+                "order": 43,
+                "category": {
+                    "id": "developer",
+                    "label": "开发者社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://lobste.rs/",
+                "collector": {
+                    "module": "src/hotlist/channels/lobsters.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "api_url",
+                            "kind": "api",
+                            "url": "https://lobste.rs/hottest.json"
+                        },
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://lobste.rs/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": true,
+                    "includeInReport": true
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": []
+                }
+            }
+        },
+        {
+            "op": "replace",
+            "channelId": "fuliba",
+            "value": {
+                "channelId": "fuliba",
+                "name": "福利吧",
+                "shortName": "福",
+                "order": 44,
+                "category": {
+                    "id": "community",
+                    "label": "综合社区"
+                },
+                "surfaces": [
+                    "hotlist"
+                ],
+                "homepage": "https://fuliba2023.net/",
+                "collector": {
+                    "module": "src/hotlist/channels/fuliba.py",
+                    "entryPoints": [
+                        "collect"
+                    ],
+                    "endpoints": [
+                        {
+                            "name": "source_url",
+                            "kind": "page",
+                            "url": "https://fuliba2023.net/"
+                        }
+                    ]
+                },
+                "schedule": {
+                    "frequencyMinutes": 30
+                },
+                "defaults": {
+                    "enabled": true,
+                    "visible": false,
+                    "includeInReport": false
+                },
+                "freshness": {
+                    "staleAfterHours": null
+                },
+                "requirements": {
+                    "authentication": "none",
+                    "environment": [],
+                    "notes": [
+                        "默认隐藏且不进入综合报告"
+                    ]
+                }
+            }
+        }
+    ]
+}

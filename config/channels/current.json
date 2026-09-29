@@ -1,7 +1,7 @@
 {
     "$schema": "schema.v1.json",
     "schemaVersion": 1,
-    "catalogVersion": "1.1.3",
+    "catalogVersion": "1.1.4",
     "updatedAt": "2026-09-29",
     "updatePolicy": {
         "schema": "config/channels/schema.v1.json",
@@ -43,7 +43,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -96,7 +96,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -146,7 +146,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -199,7 +199,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 180
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -242,7 +242,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -290,7 +290,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -338,7 +338,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -434,7 +434,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -487,7 +487,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -535,7 +535,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -666,7 +666,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -709,7 +709,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -759,7 +759,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -862,7 +862,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1005,7 +1005,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1053,7 +1053,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1118,7 +1118,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1135,7 +1135,7 @@
                 "authentication": "none",
                 "environment": [],
                 "notes": [
-                    "热榜每小时采集，7x24 默认停止采集且不展示"
+                    "热榜每 30 分钟采集，7x24 默认停止采集且不展示"
                 ]
             }
         },
@@ -1178,7 +1178,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1195,7 +1195,7 @@
                 "authentication": "none",
                 "environment": [],
                 "notes": [
-                    "热门文章每小时采集，电报默认停止采集且不展示"
+                    "热门文章每 30 分钟采集，电报默认停止采集且不展示"
                 ]
             }
         },
@@ -1231,7 +1231,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1274,7 +1274,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1317,7 +1317,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1372,7 +1372,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1389,7 +1389,7 @@
                 "authentication": "none",
                 "environment": [],
                 "notes": [
-                    "首页头条每小时采集，7x24 快讯默认停止采集且不展示"
+                    "首页头条每 30 分钟采集，7x24 快讯默认停止采集且不展示"
                 ]
             }
         },
@@ -1484,7 +1484,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 360
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1527,7 +1527,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 180
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1575,7 +1575,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1623,7 +1623,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1671,7 +1671,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1724,7 +1724,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1777,7 +1777,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1872,7 +1872,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -1925,7 +1925,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 180
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -2026,7 +2026,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 120
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -2074,7 +2074,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -2122,7 +2122,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,
@@ -2165,7 +2165,7 @@
                 ]
             },
             "schedule": {
-                "frequencyMinutes": 60
+                "frequencyMinutes": 30
             },
             "defaults": {
                 "enabled": true,

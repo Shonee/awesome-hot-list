@@ -153,7 +153,8 @@ class CandidateSourceTests(unittest.TestCase):
                 self.assertTrue(definition.enabled_by_default)
                 self.assertTrue(definition.visible_by_default)
                 self.assertTrue(definition.include_in_report)
-                self.assertIn(channel_id, SPECIAL_CHANNELS)
+        self.assertNotIn("kuaishou", SPECIAL_CHANNELS)
+        self.assertIn("huggingface", SPECIAL_CHANNELS)
 
     def test_google_trends_reads_official_embedded_data(self):
         data = [None, [["任正非", None, "HK", [1789302600], None, None, 5000, None, 1000, ["任正非 最新消息"]]]]

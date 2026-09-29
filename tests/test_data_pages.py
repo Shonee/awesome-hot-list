@@ -274,6 +274,22 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertIn('cron: "40 * * * *"', render)
         self.assertIn("Collect live news", pages)
 
+    def test_hotlist_collection_is_one_half_hourly_due_schedule(self):
+        content = Path(".github/workflows/collect-hourly.yml").read_text(encoding="utf-8")
+
+        self.assertIn("name: Collect hotlists every 30 minutes", content)
+        self.assertIn('cron: "*/30 * * * *"', content)
+        self.assertIn("CHANNELS: ${{ inputs.channels || 'all' }}", content)
+        self.assertIn('args+=(--due)', content)
+        self.assertIn('[ "$GITHUB_EVENT_NAME" = "schedule" ]', content)
+
+    def test_special_collection_is_manual_only(self):
+        content = Path(".github/workflows/collect-special.yml").read_text(encoding="utf-8")
+
+        self.assertNotIn("schedule:", content)
+        self.assertNotIn("cron:", content)
+        self.assertIn("workflow_dispatch:", content)
+
     def test_collection_workflows_no_longer_configure_rss(self):
         workflow_root = Path(".github/workflows")
         for filename in ("collect-hourly.yml", "collect-special.yml", "collect-live.yml"):
