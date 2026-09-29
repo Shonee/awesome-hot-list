@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-09-29 22:42:08
+> 更新时间：2026-09-29 23:14:55
 
 ## 每日热点榜
 
@@ -20,10 +20,10 @@
 14. [余承东首次回应问界合作调整](https://chejiahao.autohome.com.cn/info/26559954#pvareaid=6834132)
 15. [北汽原董事长徐和谊一审被判死缓](https://chejiahao.autohome.com.cn/info/26557921#pvareaid=6834132)
 16. [新款雪佛兰创酷实车谍照](http://www.autohome.com.cn/news/202609/1317454.html)
-17. [比亚迪廉玉波：充电像加油一样快](http://www.autohome.com.cn/news/202609/1317421.html)
-18. [余承东首次回应：赛力斯主动提出自己主导](http://club.autohome.com.cn/bbs/thread/6286341e5f811bc8/116284071-1.html)
-19. [东风日产NX7内饰谍照曝光](http://www.autohome.com.cn/news/202609/1317449.html)
-20. [全新纯电Alpine A110预告](http://www.autohome.com.cn/news/202609/1317502.html)
+17. [余承东首次回应：赛力斯主动提出自己主导](http://club.autohome.com.cn/bbs/thread/6286341e5f811bc8/116284071-1.html)
+18. [比亚迪廉玉波：充电像加油一样快](http://www.autohome.com.cn/news/202609/1317421.html)
+19. [全新纯电Alpine A110预告](http://www.autohome.com.cn/news/202609/1317502.html)
+20. [东风日产NX7内饰谍照曝光](http://www.autohome.com.cn/news/202609/1317449.html)
 21. [多地开启新一轮汽车购车补贴](https://chejiahao.autohome.com.cn/info/26533041#pvareaid=6834132)
 22. [劳斯莱斯将在英国投资3亿英镑](https://chejiahao.autohome.com.cn/info/26565178#pvareaid=6834132)
 23. [零跑汽车发布10月购车权益](http://www.autohome.com.cn/news/202609/1317453.html)

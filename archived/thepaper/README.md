@@ -1,12 +1,12 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-29 22:41:53
+> 更新时间：2026-09-29 23:14:42
 
 ## 热新闻
 
-1. [解读丨事关稳楼市、促就业、提振内需等，国常会释放积极信号](https://www.thepaper.cn/newsDetail_forward_34166762)
-2. [马上评｜给舞台演出合理的宽容空间](https://www.thepaper.cn/newsDetail_forward_34171269)
-3. [北理工：教师裴某严重违反职业道德规范和行为准则，解除聘用关系](https://www.thepaper.cn/newsDetail_forward_34172944)
+1. [马上评｜给舞台演出合理的宽容空间](https://www.thepaper.cn/newsDetail_forward_34171269)
+2. [北理工：教师裴某严重违反职业道德规范和行为准则，解除聘用关系](https://www.thepaper.cn/newsDetail_forward_34172944)
+3. [中央财政帮你还房贷利息：最高可省近5万元，哪些人可享受？](https://www.thepaper.cn/newsDetail_forward_34172817)
 4. [成都文旅局通报那英即兴演唱《弯弯的月亮》：不属于变更节目重新报批情形](https://www.thepaper.cn/newsDetail_forward_34170993)
 5. [居民房贷贴息政策10月1日起实施](https://www.thepaper.cn/newsDetail_forward_34172659)
 6. [马上评｜大学需要提升对优秀教师的识别能力](https://www.thepaper.cn/newsDetail_forward_34170372)
@@ -21,6 +21,6 @@
 15. [台湾花莲县海域发生4.7级地震，震源深度23千米](https://www.thepaper.cn/newsDetail_forward_34167834)
 16. [美“星舰”实现首次地球轨道飞行，但提前结束任务](https://www.thepaper.cn/newsDetail_forward_34167665)
 17. [非法收受2.63亿余元，彭晓春一审被判死缓](https://www.thepaper.cn/newsDetail_forward_34172641)
-18. [普京签署总统令，俄军再次扩编](https://www.thepaper.cn/newsDetail_forward_34167693)
-19. [澎湃新闻即将推出2026国庆特别策划《奔赴“县”场》](https://www.thepaper.cn/newsDetail_forward_34171082)
-20. [湖北赤壁通报“连锁火锅串串店发现虫卵”：责令商家限期整改](https://www.thepaper.cn/newsDetail_forward_34166936)
+18. [澎湃新闻即将推出2026国庆特别策划《奔赴“县”场》](https://www.thepaper.cn/newsDetail_forward_34171082)
+19. [普京签署总统令，俄军再次扩编](https://www.thepaper.cn/newsDetail_forward_34167693)
+20. [​​​​​​​陈芋汐夺得亚运会跳水女子10米跳台金牌](https://www.thepaper.cn/newsDetail_forward_34171565)

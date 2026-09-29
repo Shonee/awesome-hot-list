@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-29 21:43:34
+> 更新时间：2026-09-29 23:14:41
 
 ## 24 小时热榜
 
@@ -12,28 +12,28 @@
 6. [399 元 荣耀发布墨水屏阅读器 S3：3.68 英寸小屏 可磁吸手机上](https://readhub.cn/topic/8wmyxzKxVPW?tab=daily)
 7. [苹果客服回应 iPhone 18 Pro 自动重启问题：系统原因，将推送更新修复](https://readhub.cn/topic/8wmhlcLwXUs?tab=daily)
 8. [部分 Anthropic 资深员工考虑在偏远地区购置土地以防 AI 失控](https://readhub.cn/topic/8wlkRDvxe2W?tab=daily)
-9. [华为新款降噪耳机正式开售](https://readhub.cn/topic/8woE79WnGCB?tab=daily)
-10. [千问与夸克网盘打通，网友分享各类实用新玩法](https://readhub.cn/topic/8woeXfW2Fdj?tab=daily)
-11. [Manus 独立后首次大更新，发布 2.0 版本，推出 Personal Agent 应用 Cue](https://readhub.cn/topic/8wnbV3xNU8s?tab=daily)
-12. [三部门：2026 年 10 月 1 日起实施居民房贷贴息政策](https://readhub.cn/topic/8wood3F3XS2?tab=daily)
-13. [快手可灵 4.0 将于 10 月正式上线](https://readhub.cn/topic/8wnWU3t7DxR?tab=daily)
-14. [DeepSeek Harness v0.2 预览版正式发布](https://readhub.cn/topic/8wozFFQs2Fc?tab=daily)
+9. [DeepSeek Harness v0.2 预览版正式发布](https://readhub.cn/topic/8wozFFQs2Fc?tab=daily)
+10. [华为新款降噪耳机正式开售](https://readhub.cn/topic/8woE79WnGCB?tab=daily)
+11. [千问与夸克网盘打通，网友分享各类实用新玩法](https://readhub.cn/topic/8woeXfW2Fdj?tab=daily)
+12. [Manus 独立后首次大更新，发布 2.0 版本，推出 Personal Agent 应用 Cue](https://readhub.cn/topic/8wnbV3xNU8s?tab=daily)
+13. [三部门：2026 年 10 月 1 日起实施居民房贷贴息政策](https://readhub.cn/topic/8wood3F3XS2?tab=daily)
+14. [快手可灵 4.0 将于 10 月正式上线](https://readhub.cn/topic/8wnWU3t7DxR?tab=daily)
 15. [Anthropic 发布 Claude Sonnet 5.5 大模型](https://readhub.cn/topic/8wnnzlIHlHr?tab=daily)
 16. [腾讯内测 AI 数字人陪伴产品「鹅次元」主打游戏情绪陪伴](https://readhub.cn/topic/8woDlXmxIy7?tab=daily)
 17. [OpenAI 明日重启 200 美元 Pro 订阅：API 配额减半，取消 5 小时限制](https://readhub.cn/topic/8woayswu1vl?tab=daily)
-18. [华为 Mate 90 系列现已开启预订，可支付 200 元锁单](https://readhub.cn/topic/8wnCTTm5W0B?tab=daily)
-19. [Anthropic 披露 IPO 招股书，2025 财年营收同比增 1088%](https://readhub.cn/topic/8wo5VOWriot?tab=daily)
-20. [传闻称苹果 Vision Pro 销量不佳，部分门店月售仅 1 台](https://readhub.cn/topic/8wmPsxjADKQ?tab=daily)
-21. [中兴 U15L 随身 WiFi 正式开售：内置多卡 免插卡切换](https://readhub.cn/topic/8wobfFvM4gi?tab=daily)
-22. [Claude Sonnet5.5 发布：编程能力反超旗舰，API 价格腰斩](https://readhub.cn/topic/8woEoDaaI51?tab=daily)
-23. [月之暗面 Kimi K3.1 模型前端标识泄露，预计将在近期发布](https://readhub.cn/topic/8wnQ3XYa7fp?tab=daily)
-24. [Manus 2.0 海外发布，推出面向个人场景的智能助理 Cue](https://readhub.cn/topic/8woE72WmaJV?tab=daily)
+18. [中兴 U15L 随身 WiFi 正式开售：内置多卡 免插卡切换](https://readhub.cn/topic/8wobfFvM4gi?tab=daily)
+19. [传闻称苹果 Vision Pro 销量不佳，部分门店月售仅 1 台](https://readhub.cn/topic/8wmPsxjADKQ?tab=daily)
+20. [华为 Mate 90 系列现已开启预订，可支付 200 元锁单](https://readhub.cn/topic/8wnCTTm5W0B?tab=daily)
+21. [Claude Sonnet5.5 发布：编程能力反超旗舰，API 价格腰斩](https://readhub.cn/topic/8woEoDaaI51?tab=daily)
+22. [Anthropic 披露 IPO 招股书，2025 财年营收同比增 1088%](https://readhub.cn/topic/8wo5VOWriot?tab=daily)
+23. [Manus 2.0 海外发布，推出面向个人场景的智能助理 Cue](https://readhub.cn/topic/8woE72WmaJV?tab=daily)
+24. [月之暗面 Kimi K3.1 模型前端标识泄露，预计将在近期发布](https://readhub.cn/topic/8wnQ3XYa7fp?tab=daily)
 25. [AI 写作特征减少：Claude Opus 5.5 破折号使用量下降约 95%](https://readhub.cn/topic/8woK9hG3moU?tab=daily)
-26. [自然资源部：盘活闲置房屋老旧楼宇 拓展服务业新空间](https://readhub.cn/topic/8woK9dHfxuT?tab=daily)
-27. [小鹏碳积分交易累计收入预估超 10 亿元](https://readhub.cn/topic/8woRCwSh1rm?tab=daily)
+26. [小鹏碳积分交易累计收入预估超 10 亿元](https://readhub.cn/topic/8woRCwSh1rm?tab=daily)
+27. [自然资源部：盘活闲置房屋老旧楼宇 拓展服务业新空间](https://readhub.cn/topic/8woK9dHfxuT?tab=daily)
 28. [爱奇艺辟谣网传「请勿眨眼」相关截图系恶搞造谣](https://readhub.cn/topic/8wlo0ndOxeT?tab=daily)
-29. [清溢光电：55nm PSM 产品已进入客户上线认证阶段](https://readhub.cn/topic/8wnQmDkngVP?tab=daily)
-30. [央视起底手机弹窗广告乱象：「快应用」被滥用 违法成本远低于收益](https://readhub.cn/topic/8wnVlqER20I?tab=daily)
+29. [央视起底手机弹窗广告乱象：「快应用」被滥用 违法成本远低于收益](https://readhub.cn/topic/8wnVlqER20I?tab=daily)
+30. [星舰第 14 次试飞首次入轨，提前返回仅绕地球不到两圈](https://readhub.cn/topic/8wo3iydF0d6?tab=daily)
 
 ## 每日早报
 
@@ -52,8 +52,8 @@
 3. [从 App 到服务，腾讯 Marvis 为什么认准「管家」](https://www.leiphone.com/category/industrynews/D0f2E1vxteSIbZVF.html)
 4. [星际之门 AI 项目被电力卡住：5000 亿美元投资计划，甲骨文先坐不住了](https://www.mittrchina.com/news/detail/17026)
 5. [中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%](https://www.aibase.com/zh/news/31411)
-6. [1000 台售罄后又被做成「韩立同款」，元点机器人如何把具身智能做进家庭？](https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html)
-7. [AMD 收购 World Labs，李飞飞将出任 AMD 首位首席科学家](https://www.mittrchina.com/news/detail/17028)
-8. [英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演](https://www.aibase.com/zh/news/31409)
-9. [三星：明年 HBM 将占 DRAM 产能近 30%，传统内存供应或进一步收紧](https://wallstreetcn.com/articles/3782751)
-10. [Towards safety cases for frontier AI training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)
+6. [调查｜C 端 Token 中转市场乱象：定价失序、计量「黑盒化」、供给鱼龙混杂，行业亟需第三方](https://www.nbd.com.cn/articles/2026-09-29/4594874.html)
+7. [Nature 子刊：利用 AI 加速发现热稳定性 mRNA-LNP 疫苗](https://bydrug.pharmcube.com/news/detail/167c0b525e0db84bd3cb2cbf851565ee)
+8. [石药集团通用现货型 mRNA 肿瘤疫苗 SYS6077 获批临床，布局晚期恶性肿瘤治疗](https://bydrug.pharmcube.com/news/detail/8e74e99932fac38261ba4f7fea4507c8)
+9. [1000 台售罄后又被做成「韩立同款」，元点机器人如何把具身智能做进家庭？](https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html)
+10. [AMD 收购 World Labs，李飞飞将出任 AMD 首位首席科学家](https://www.mittrchina.com/news/detail/17028)
