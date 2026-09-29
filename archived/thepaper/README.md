@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-29 14:39:53
+> 更新时间：2026-09-29 15:30:21
 
 ## 热新闻
 
@@ -14,13 +14,13 @@
 8. [张雪机车回应“团队在意大利被盗”：局部财务遗失，目前全员安全](https://www.thepaper.cn/newsDetail_forward_34166407)
 9. [王楚钦：说出来像在找客观原因，但现在打球没有享受的感觉](https://www.thepaper.cn/newsDetail_forward_34166416)
 10. [成都文旅局通报那英即兴演唱《弯弯的月亮》：不属于变更节目重新报批情形](https://www.thepaper.cn/newsDetail_forward_34170993)
-11. [美国公司史上最大回购！英伟达新增1500亿美元股票回购授权，总额达2350亿美元](https://www.thepaper.cn/newsDetail_forward_34166466)
-12. [鲁昕被查，教育部党组：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34166724)
-13. [王毅会见日本国际贸易促进协会会长岩屋毅](https://www.thepaper.cn/newsDetail_forward_34167342)
-14. [广汽集团：拟购买一汽丰田50%股权，推动“南北丰田”协同运营](https://www.thepaper.cn/newsDetail_forward_34166897)
-15. [全国政协办公厅、中共中央统战部、国务院侨办、国务院港澳办、国务院台办、中国侨联联合举行国庆招待会](https://www.thepaper.cn/newsDetail_forward_34166400)
-16. [台湾花莲县海域发生4.7级地震，震源深度23千米](https://www.thepaper.cn/newsDetail_forward_34167834)
-17. [美“星舰”实现首次地球轨道飞行，但提前结束任务](https://www.thepaper.cn/newsDetail_forward_34167665)
-18. [【社论】密集上新，中国高铁加速“织线成网”](https://www.thepaper.cn/newsDetail_forward_34164076)
-19. [普京签署总统令，俄军再次扩编](https://www.thepaper.cn/newsDetail_forward_34167693)
-20. [湖北赤壁通报“连锁火锅串串店发现虫卵”：责令商家限期整改](https://www.thepaper.cn/newsDetail_forward_34166936)
+11. [马上评｜大学需要提升对优秀教师的识别能力](https://www.thepaper.cn/newsDetail_forward_34170372)
+12. [马上评｜热议“副教授刘欢”是缅怀，更是对人才评价的多元思考](https://www.thepaper.cn/newsDetail_forward_34169351)
+13. [美国公司史上最大回购！英伟达新增1500亿美元股票回购授权，总额达2350亿美元](https://www.thepaper.cn/newsDetail_forward_34166466)
+14. [鲁昕被查，教育部党组：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34166724)
+15. [王毅会见日本国际贸易促进协会会长岩屋毅](https://www.thepaper.cn/newsDetail_forward_34167342)
+16. [广汽集团：拟购买一汽丰田50%股权，推动“南北丰田”协同运营](https://www.thepaper.cn/newsDetail_forward_34166897)
+17. [全国政协办公厅、中共中央统战部、国务院侨办、国务院港澳办、国务院台办、中国侨联联合举行国庆招待会](https://www.thepaper.cn/newsDetail_forward_34166400)
+18. [台湾花莲县海域发生4.7级地震，震源深度23千米](https://www.thepaper.cn/newsDetail_forward_34167834)
+19. [美“星舰”实现首次地球轨道飞行，但提前结束任务](https://www.thepaper.cn/newsDetail_forward_34167665)
+20. [【社论】密集上新，中国高铁加速“织线成网”](https://www.thepaper.cn/newsDetail_forward_34164076)
