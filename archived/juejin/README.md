@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-29 21:43:12
+> 更新时间：2026-09-29 22:41:40
 
 ## 热门文章
 
@@ -16,25 +16,25 @@
 10. [我排查了一下午，发现项目打包体积翻倍的元凶是它](https://juejin.cn/post/7690614916369252387)
 11. [画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词](https://juejin.cn/post/7690197651807633462)
 12. [同样用 Element Plus，为什么你的后台总有一股“模板味”？](https://juejin.cn/post/7690405198255325234)
-13. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
-14. [栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...](https://juejin.cn/post/7689866047096602666)
+13. [栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...](https://juejin.cn/post/7689866047096602666)
+14. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
 15. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
 16. [用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录](https://juejin.cn/post/7690497704220196883)
 17. [ZCode 可以自己看微信小程序了](https://juejin.cn/post/7690010257952178218)
 18. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
-19. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
-20. [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898)
-21. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
+19. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
+20. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
+21. [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898)
 22. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
 23. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
-24. [WEB 项目如何禁用 F12 等功能](https://juejin.cn/post/7689431365684772904)
-25. [Electron 自动化发布指南：GitHub Actions 跨平台打包全纪录](https://juejin.cn/post/7689431365684281384)
-26. [Agent 如何拥有长期记忆：六个主流项目的设计思路对比](https://juejin.cn/post/7690197651807535158)
-27. [如果你在做 RAG，可能会需要 pdf-inspector](https://juejin.cn/post/7689883764008386598)
-28. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
-29. [从零实现一个带虚拟滚动的 Select](https://juejin.cn/post/7689656350306959406)
-30. [Hooks 原理：把"每次重跑的函数"变成"有记忆的组件"](https://juejin.cn/post/7689299210249240627)
-31. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
+24. [Agent 如何拥有长期记忆：六个主流项目的设计思路对比](https://juejin.cn/post/7690197651807535158)
+25. [WEB 项目如何禁用 F12 等功能](https://juejin.cn/post/7689431365684772904)
+26. [Electron 自动化发布指南：GitHub Actions 跨平台打包全纪录](https://juejin.cn/post/7689431365684281384)
+27. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
+28. [如果你在做 RAG，可能会需要 pdf-inspector](https://juejin.cn/post/7689883764008386598)
+29. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
+30. [从零实现一个带虚拟滚动的 Select](https://juejin.cn/post/7689656350306959406)
+31. [Hooks 原理：把"每次重跑的函数"变成"有记忆的组件"](https://juejin.cn/post/7689299210249240627)
 32. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
 33. [思考|谈谈AI时代的后端开发+QECon演讲PPT](https://juejin.cn/post/7690031273628745779)
 34. [我写了 50 个 Claude Code Skill 才发现，前 30 个都白写了](https://juejin.cn/post/7689096640691175439)
