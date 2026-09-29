@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-09-29 09:45:16
+> 更新时间：2026-09-29 16:40:52
 
 ## 每日趋势
 
@@ -42,19 +42,20 @@
 4. [open-code-review](https://github.com/alibaba/open-code-review)
 5. [archify](https://github.com/tt-a1i/archify)
 6. [treg](https://github.com/superdesigndev/treg)
-7. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-8. [magnitude](https://github.com/magnitudedev/magnitude)
-9. [financial-services](https://github.com/anthropics/financial-services)
-10. [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-11. [agent-skills](https://github.com/tech-leads-club/agent-skills)
-12. [microduck_rl](https://github.com/pollen-robotics/microduck_rl)
-13. [WeKnora](https://github.com/Tencent/WeKnora)
-14. [i-have-adhd](https://github.com/ayghri/i-have-adhd)
-15. [plugins](https://github.com/cursor/plugins)
-16. [timesfm](https://github.com/google-research/timesfm)
-17. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
-18. [open-seo](https://github.com/every-app/open-seo)
-19. [ponytail](https://github.com/DietrichGebert/ponytail)
+7. [microduck](https://github.com/pollen-robotics/microduck)
+8. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+9. [magnitude](https://github.com/magnitudedev/magnitude)
+10. [financial-services](https://github.com/anthropics/financial-services)
+11. [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+12. [agent-skills](https://github.com/tech-leads-club/agent-skills)
+13. [microduck_rl](https://github.com/pollen-robotics/microduck_rl)
+14. [WeKnora](https://github.com/Tencent/WeKnora)
+15. [i-have-adhd](https://github.com/ayghri/i-have-adhd)
+16. [plugins](https://github.com/cursor/plugins)
+17. [timesfm](https://github.com/google-research/timesfm)
+18. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
+19. [open-seo](https://github.com/every-app/open-seo)
+20. [ponytail](https://github.com/DietrichGebert/ponytail)
 
 ## Java
 
