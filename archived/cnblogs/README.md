@@ -1,29 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-29 11:28:21
-
-## 最新帖子
-
-1. [Java无垃圾稳态设计](https://www.cnblogs.com/xiexj/p/23154843)
-2. [JuiceFS 企业版 5.4：从千亿文件到百万客户端](https://www.cnblogs.com/JuiceData/p/23154107)
-3. [如何将飞书 SDK改造为支持AOT编译](https://www.cnblogs.com/mudtools/p/23152901)
-4. [Elasticsearch从0-1部署成功实战](https://www.cnblogs.com/zrui-xyu/p/23152708)
-5. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
-6. [C#.NET源生成器命名规则](https://www.cnblogs.com/xiangji/p/23151568)
-7. [【FHE】（十三）：位级可复现性——4 线程与 8 线程为什么算出不同的结果](https://www.cnblogs.com/haliuhome/p/23151456)
-8. [用 Jev 与 Laravel AI SDK 检测垃圾邮件和自动回复](https://www.cnblogs.com/catchadmin/p/23151291)
-9. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
-10. [公司发展到一定阶段，到底要不要封装中间件？](https://www.cnblogs.com/zhangs1986/p/23056721)
-11. [已提交过的文件夹，如何从 GitHub 中删除](https://www.cnblogs.com/jyzhao/p/23150769)
-12. [C# .NET 周刊 ｜2026 年 9 月 1 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_1)
-13. [[Agent Memory / 强化学习] MemPO源码学习笔记 ---(5)--- GRPO](https://www.cnblogs.com/rossiXYZ/p/22864307)
-14. [ROS2学习CH5 简单的Ros2与Gazebo建图与导航](https://www.cnblogs.com/CrescentWind/p/23148142)
-15. [Claude Code 装了一堆 Skill，用了三个月，我删掉了 80%](https://www.cnblogs.com/uniqueDong/p/23147995)
-16. [定时器到底在数什么：STM32 的时间基准从哪里来](https://www.cnblogs.com/zw-awa/p/23147762)
-17. [日志系统选型笔记：Loki / ELK / Doris 三方的取舍点](https://www.cnblogs.com/SelectDB/p/23082460)
-18. [从 epoll 到 Reactor：Redis 单线程与多线程的性能与简洁之衡](https://www.cnblogs.com/yhup/p/23145879)
-19. [手把手带你走一遍：机器学习模型如何用FastAPI和Docker部署](https://www.cnblogs.com/wang_yb/p/23144370)
-20. [现代智能体系统的自主迭代能力研究综述](https://www.cnblogs.com/aifrontiers/p/23141231)
+> 更新时间：2026-09-29 12:28:14
 
 ## 精华帖子
 
@@ -53,6 +30,6 @@
 1. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
 2. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
 3. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
-4. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
-5. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)
-6. [企业的AI转型，真能找到出路吗？](https://www.cnblogs.com/cicada-smile/p/23137973)
+4. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
+5. [C# .NET 周刊 ｜2026 年 8 月 5 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_5)
+6. [AI Agent Harness：原理、架构与实现](https://www.cnblogs.com/smartloli/p/23135519)

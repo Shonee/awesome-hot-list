@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-29 11:29:12
+> 更新时间：2026-09-29 12:28:58
 
 ## 日榜
 
@@ -13,6 +13,6 @@
 7. [曝携程推新规鼓励“无理由事假”：员工请假 1 天，所在团队可获 600 元奖励](https://www.ithome.com/1/007/774.htm)
 8. [小米卢伟冰：今年很多旗舰产品会用 n-1 代旗舰处理器，相信 REDMI K100 系列一定是“最香的”](https://www.ithome.com/1/008/054.htm)
 9. [4999 元起：荣耀 Magic9 标准版手机发布，第五代骁龙 8 至尊版芯片、双 2 亿 ARRI 阿莱影像](https://www.ithome.com/1/007/858.htm)
-10. [智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token](https://www.ithome.com/1/007/727.htm)
-11. [鸿蒙智行“五界”logo 同台亮相，华为余承东重申问界车主所有权益不受影响](https://www.ithome.com/1/007/809.htm)
-12. [苹果 iOS / iPadOS 27.0.1 发布：修复部分 iPhone 18 Pro / Max 意外重启问题](https://www.ithome.com/1/008/066.htm)
+10. [鸿蒙智行“五界”logo 同台亮相，华为余承东重申问界车主所有权益不受影响](https://www.ithome.com/1/007/809.htm)
+11. [苹果 iOS / iPadOS 27.0.1 发布：修复部分 iPhone 18 Pro / Max 意外重启问题](https://www.ithome.com/1/008/066.htm)
+12. [小米客服称小米 14/14 Pro 手机电池升级服务预计 10 月 1 日上线：4610 → 4795mAh、4880 → 5140mAh](https://www.ithome.com/1/007/902.htm)
