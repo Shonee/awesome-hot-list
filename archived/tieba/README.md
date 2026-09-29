@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-29 16:32:40
+> 更新时间：2026-09-29 17:43:28
 
 ## 最有料热点
 
@@ -31,6 +31,5 @@
 25. [恭喜!管泽元余霜喜得千金](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365929&topic_name=%E6%81%AD%E5%96%9C%21%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BD%99%E9%9C%9C%E5%96%9C%E5%BE%97%E5%8D%83%E9%87%91)
 26. [瓶子君评无职:鲁迪至死是巨婴](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365919&topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E8%AF%84%E6%97%A0%E8%81%8C%3A%E9%B2%81%E8%BF%AA%E8%87%B3%E6%AD%BB%E6%98%AF%E5%B7%A8%E5%A9%B4)
 27. [兄弟隔58年认亲,身高差瞩目](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365961&topic_name=%E5%85%84%E5%BC%9F%E9%9A%9458%E5%B9%B4%E8%AE%A4%E4%BA%B2%2C%E8%BA%AB%E9%AB%98%E5%B7%AE%E7%9E%A9%E7%9B%AE)
-28. [EDG惨败LOUD,藏战术成笑话](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365910&topic_name=EDG%E6%83%A8%E8%B4%A5LOUD%2C%E8%97%8F%E6%88%98%E6%9C%AF%E6%88%90%E7%AC%91%E8%AF%9D)
-29. [一代歌王刘欢病逝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365818&topic_name=%E4%B8%80%E4%BB%A3%E6%AD%8C%E7%8E%8B%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
-30. [工人违规失双臂,惨变地狱梗](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365827&topic_name=%E5%B7%A5%E4%BA%BA%E8%BF%9D%E8%A7%84%E5%A4%B1%E5%8F%8C%E8%87%82%2C%E6%83%A8%E5%8F%98%E5%9C%B0%E7%8B%B1%E6%A2%97)
+28. [一代歌王刘欢病逝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365818&topic_name=%E4%B8%80%E4%BB%A3%E6%AD%8C%E7%8E%8B%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
+29. [EDG惨败LOUD,藏战术成笑话](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365910&topic_name=EDG%E6%83%A8%E8%B4%A5LOUD%2C%E8%97%8F%E6%88%98%E6%9C%AF%E6%88%90%E7%AC%91%E8%AF%9D)
