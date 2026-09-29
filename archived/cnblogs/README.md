@@ -1,6 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-29 12:28:14
+> 更新时间：2026-09-29 13:24:21
+
+## 最新帖子
+
+1. [用Pandas+Pydantic搭建数据清洗与验证管道](https://www.cnblogs.com/wang_yb/p/23155666)
+2. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
+3. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
+4. [Java无垃圾稳态设计](https://www.cnblogs.com/xiexj/p/23154843)
+5. [JuiceFS 企业版 5.4：从千亿文件到百万客户端](https://www.cnblogs.com/JuiceData/p/23154107)
+6. [如何将飞书 SDK改造为支持AOT编译](https://www.cnblogs.com/mudtools/p/23152901)
+7. [Elasticsearch从0-1部署成功实战](https://www.cnblogs.com/zrui-xyu/p/23152708)
+8. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
+9. [C#.NET源生成器命名规则](https://www.cnblogs.com/xiangji/p/23151568)
+10. [【FHE】（十三）：位级可复现性——4 线程与 8 线程为什么算出不同的结果](https://www.cnblogs.com/haliuhome/p/23151456)
+11. [用 Jev 与 Laravel AI SDK 检测垃圾邮件和自动回复](https://www.cnblogs.com/catchadmin/p/23151291)
+12. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
+13. [公司发展到一定阶段，到底要不要封装中间件？](https://www.cnblogs.com/zhangs1986/p/23056721)
+14. [已提交过的文件夹，如何从 GitHub 中删除](https://www.cnblogs.com/jyzhao/p/23150769)
+15. [C# .NET 周刊 ｜2026 年 9 月 1 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_1)
+16. [[Agent Memory / 强化学习] MemPO源码学习笔记 ---(5)--- GRPO](https://www.cnblogs.com/rossiXYZ/p/22864307)
+17. [ROS2学习CH5 简单的Ros2与Gazebo建图与导航](https://www.cnblogs.com/CrescentWind/p/23148142)
+18. [Claude Code 装了一堆 Skill，用了三个月，我删掉了 80%](https://www.cnblogs.com/uniqueDong/p/23147995)
+19. [定时器到底在数什么：STM32 的时间基准从哪里来](https://www.cnblogs.com/zw-awa/p/23147762)
+20. [日志系统选型笔记：Loki / ELK / Doris 三方的取舍点](https://www.cnblogs.com/SelectDB/p/23082460)
 
 ## 精华帖子
 
