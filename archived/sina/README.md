@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-29 23:14:49
+> 更新时间：2026-09-30 00:15:18
 
 ## 新闻热榜
 
@@ -16,9 +16,9 @@
 10. [内塔尼亚胡为何秘密前往阿联酋？](https://news.sina.com.cn/w/2026-09-29/doc-initnmwi2974762.shtml)
 11. [美股芯片、光通信概念深夜重挫，高通跌超7%，黄金白银大跌，加密货币超14万人被爆仓](https://news.sina.com.cn/zx/2026-09-29/doc-initmuyp9401432.shtml)
 12. [楼市风向标动了！京沪为“828新政”落地打了样](https://news.sina.com.cn/o/2026-09-29/doc-initmzhp3103584.shtml)
-13. [中美俄元首将于深圳APEC期间会晤？外交部回应](https://news.sina.com.cn/c/2026-09-29/doc-initnsef6073943.shtml)
-14. [首局0-11！张本美和/早田希娜赛后：感觉中国组合比我们强四五倍](https://news.sina.com.cn/s/2026-09-29/doc-initmkks2746314.shtml)
-15. [2名中国女游客赴韩旅游遭5人囚禁施暴：3名落网嫌犯为中国籍，另2人离境](https://news.sina.com.cn/c/2026-09-29/doc-initnmvz7765849.shtml)
+13. [2名中国女游客赴韩旅游遭5人囚禁施暴：3名落网嫌犯为中国籍，另2人离境](https://news.sina.com.cn/c/2026-09-29/doc-initnmvz7765849.shtml)
+14. [中美俄元首将于深圳APEC期间会晤？外交部回应](https://news.sina.com.cn/c/2026-09-29/doc-initnsef6073943.shtml)
+15. [首局0-11！张本美和/早田希娜赛后：感觉中国组合比我们强四五倍](https://news.sina.com.cn/s/2026-09-29/doc-initmkks2746314.shtml)
 16. [巴拿马运河将增加每日通航预约名额](https://news.sina.com.cn/w/2026-09-29/doc-initmqsr9463547.shtml)
 17. [习近平给四川大学全体师生回信](https://news.sina.com.cn/gov/xlxw/2026-09-29/doc-initnfqc7844035.shtml)
 18. [国常会重磅部署：推出一批增量政策 事关盘活地方债、稳楼市、促增收](https://finance.sina.com.cn/roll/2026-09-29/doc-initmuyp9398840.shtml)
@@ -40,10 +40,10 @@
 11. [昨晚，这些公司宣布大手笔回购！龙头纸企，再度涨价（附股）](https://finance.sina.com.cn/stock/roll/2026-09-29/doc-initmuyr3186595.shtml)
 12. [伊朗最高领袖罕见连发24条帖文：把敌人赶出阿拉伯海！特朗普一张海峡地图发两回，又要把霍尔木兹改成“特朗普海峡” | 国际早察](https://finance.sina.com.cn/roll/2026-09-29/doc-initmzhp3059354.shtml)
 13. [AMD拟收购李飞飞创办的AI初创公司 交易金额82亿美元](https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmuyi7995392.shtml)
-14. [A股又遇“假期综合征” 回调正是布局良机？机构这样看](https://finance.sina.com.cn/roll/2026-09-29/doc-initmuyn2642777.shtml)
-15. [事关你的钱袋子！重要新规，明起实施](https://finance.sina.com.cn/china/2026-09-29/doc-initnscx7710564.shtml)
-16. [中央企业发展“十五五”规划正式印发 央企“六张网”今年计划投资约2万亿元](https://finance.sina.com.cn/jjxw/2026-09-29/doc-initmuyr3186143.shtml)
-17. [上海楼市再度上演“千人摇”：多个新盘开盘即售罄，中端改善项目去化热度持续走高](https://finance.sina.com.cn/jjxw/2026-09-29/doc-initmzhk2545988.shtml)
+14. [事关你的钱袋子！重要新规，明起实施](https://finance.sina.com.cn/china/2026-09-29/doc-initnscx7710564.shtml)
+15. [A股又遇“假期综合征” 回调正是布局良机？机构这样看](https://finance.sina.com.cn/roll/2026-09-29/doc-initmuyn2642777.shtml)
+16. [上海楼市再度上演“千人摇”：多个新盘开盘即售罄，中端改善项目去化热度持续走高](https://finance.sina.com.cn/jjxw/2026-09-29/doc-initmzhk2545988.shtml)
+17. [中央企业发展“十五五”规划正式印发 央企“六张网”今年计划投资约2万亿元](https://finance.sina.com.cn/jjxw/2026-09-29/doc-initmuyr3186143.shtml)
 18. [广汽集团复牌一字涨停 拟发行股份收购一汽丰田50%股权](https://finance.sina.com.cn/stock/marketresearch/2026-09-29/doc-initmzhp3097158.shtml)
-19. [IPO链条上的监管者为何失守？湖北证监局原局长王广幼案揭开“上市权力”变现暗门](https://finance.sina.com.cn/roll/2026-09-29/doc-initmuyp9396328.shtml)
-20. [居民房贷贴息政策10月1日起实施](https://finance.sina.com.cn/china/2026-09-29/doc-initnwmv7681178.shtml)
+19. [居民房贷贴息政策10月1日起实施](https://finance.sina.com.cn/china/2026-09-29/doc-initnwmv7681178.shtml)
+20. [央行：下调抵押补充贷款（PSL）利率0.25个百分点](https://finance.sina.com.cn/china/2026-09-29/doc-initnwmv7677566.shtml)
