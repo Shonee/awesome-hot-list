@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-30 21:41:18
+> 更新时间：2026-09-30 22:42:26
 
 ## 24 小时热榜
 
@@ -15,15 +15,15 @@
 9. [消息人士称 OpenAI 年度经常性收入接近 700 亿美元](https://readhub.cn/topic/8wp6lKqQMCS?tab=daily)
 10. [苹果将在印度推出 Apple Pay](https://readhub.cn/topic/8wpR7aUbU0T?tab=daily)
 11. [豆包 APP 上线「出行」超级入口 聚合本地生活服务](https://readhub.cn/topic/8wog0DXOQsP?tab=daily)
-12. [Manus 恢复独立运营发布 2.0，Agent 赛道已挤满对手](https://readhub.cn/topic/8wp6OXrnFCa?tab=daily)
-13. [苏姿丰收购李飞飞旗下世界模型公司 李飞飞任首席科学家](https://readhub.cn/topic/8wo7eRxX4fZ?tab=daily)
+12. [苏姿丰收购李飞飞旗下世界模型公司 李飞飞任首席科学家](https://readhub.cn/topic/8wo7eRxX4fZ?tab=daily)
+13. [Manus 恢复独立运营发布 2.0，Agent 赛道已挤满对手](https://readhub.cn/topic/8wp6OXrnFCa?tab=daily)
 14. [字节豆包独立 App 定名小豆 正内测未公布确切上线时间](https://readhub.cn/topic/8wqN1CNHcYb?tab=daily)
 15. [DeepSeek 开源昇腾基础组件](https://readhub.cn/topic/8wpwYQQwhv7?tab=daily)
 16. [iQOO 15 手机销量突破 200 万台](https://readhub.cn/topic/8wouGVq3y3J?tab=daily)
 17. [Anthropic 招股书风险篇幅近业务两倍，大篇幅披露 AI 相关风险](https://readhub.cn/topic/8wooekJTeck?tab=daily)
 18. [OpenAI 推出 Codex 专用插件，可用自然语言 AI 制作 Game Boy 风格游戏](https://readhub.cn/topic/8wq2HPcek8P?tab=daily)
-19. [苹果公布 iPhone Duo 预购安排 10 月 12 日可提前备单](https://readhub.cn/topic/8wpTyVKzhu4?tab=daily)
-20. [特朗普称与人工智能领袖讨论数据中心布局](https://readhub.cn/topic/8wpQP5KTCem?tab=daily)
+19. [特朗普称与人工智能领袖讨论数据中心布局](https://readhub.cn/topic/8wpQP5KTCem?tab=daily)
+20. [苹果公布 iPhone Duo 预购安排 10 月 12 日可提前备单](https://readhub.cn/topic/8wpTyVKzhu4?tab=daily)
 21. [千里科技：子公司拟 3443.88 万元购买极氪智能驾驶相关资产](https://readhub.cn/topic/8wp6lFiE1O6?tab=daily)
 22. [Anthropic 计划未来一年投入 5180 亿美元用于云服务算力及相关履约支出](https://readhub.cn/topic/8wo4mjCrXpt?tab=daily)
 23. [比亚迪称方程豹方程 S 预订超预期 月销有望冲击 1.5 万辆](https://readhub.cn/topic/8wpnGUR7mJ6?tab=daily)
@@ -32,8 +32,8 @@
 26. [中国商务部：10 月 1 日起对巴西进口牛肉加征 55% 关税](https://readhub.cn/topic/8wpu4oBl0f8?tab=daily)
 27. [谷歌向免费用户开放 Gemini Skills 2026 年 11 月整合 Gems](https://readhub.cn/topic/8wpwZDqHjfY?tab=daily)
 28. [Muse 爆火，国内大厂加速布局对标个人 AI 智能体产品](https://readhub.cn/topic/8wqF9oSdnxZ?tab=daily)
-29. [花旗上调恒瑞医药 H 股目标价至 120 港元，将其列为重点推荐标的](https://readhub.cn/topic/8wq1g85ezON?tab=daily)
-30. [税务总局发布全国统一的税务行政处罚裁量基准](https://readhub.cn/topic/8wqFr5zoJdg?tab=daily)
+29. [税务总局发布全国统一的税务行政处罚裁量基准](https://readhub.cn/topic/8wqFr5zoJdg?tab=daily)
+30. [花旗上调恒瑞医药 H 股目标价至 120 港元，将其列为重点推荐标的](https://readhub.cn/topic/8wq1g85ezON?tab=daily)
 
 ## 每日早报
 
@@ -55,5 +55,5 @@
 6. [DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定](https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html)
 7. [OpenAI 与红帽等联合推进 OCE1.0 研发，打造面向 AI 代理的「企业级 Kubernetes」](https://www.aibase.com/zh/news/31439)
 8. [微软亮出生物学「世界模型」Project Quine：一个周末筛出抗癌候选物](https://www.aibase.com/zh/news/31437)
-9. [一张胸部 CT，可以看出脑健康状态？科学家发现骨密度与大脑衰老之间存在密切联系](https://www.mittrchina.com/news/detail/17033)
-10. [沃尔玛向门店 AI 海报下「禁令」：ChatGPT 生成的招牌一律不许挂](https://www.aibase.com/zh/news/31443)
+9. [AI 办公进入「上下文战争」，百度如何出牌？](https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html)
+10. [一张胸部 CT，可以看出脑健康状态？科学家发现骨密度与大脑衰老之间存在密切联系](https://www.mittrchina.com/news/detail/17033)
