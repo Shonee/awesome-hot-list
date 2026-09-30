@@ -1,25 +1,25 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-01 02:16:11
+> 更新时间：2026-10-01 03:12:15
 
 ## 人气热门
 
-1. [雷电模拟器14优化工具](https://www.52pojie.cn/thread-2130085-1-1.html)
-2. [【9.24更新】APK图标提取大更新！大幅优化！支持搜索！](https://www.52pojie.cn/thread-2129739-1-1.html)
+1. [稻壳阅读器DocBox 2.10.10 修复版](https://www.52pojie.cn/thread-2130420-1-1.html)
+2. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
 3. [人情礼簿 v1.2.0](https://www.52pojie.cn/thread-2129983-1-1.html)
-4. [【全网首发】进销存|ERP软件中小企业福音你值得拥有](https://www.52pojie.cn/thread-2129955-1-1.html)
-5. [小巧的卸载工具-UninstallView_1.52_x86/x64二合一](https://www.52pojie.cn/thread-2130092-1-1.html)
-6. [酷安第三方桌面版 coolapk-desktop v1.27.1](https://www.52pojie.cn/thread-2130014-1-1.html)
-7. [稻壳阅读器DocBox 2.10.10 修复版](https://www.52pojie.cn/thread-2130420-1-1.html)
-8. [局域网投屏V1.0](https://www.52pojie.cn/thread-2130259-1-1.html)
-9. [挖兔硬盘精灵 v1.0.0 | 硬盘健康检测 · 四色预警 · 免费开源](https://www.52pojie.cn/thread-2130160-1-1.html)
-10. [哔哩哔哩第三方安卓电视TVapp newBV v1.0.1.r144](https://www.52pojie.cn/thread-2129958-1-1.html)
-11. [电子合同盖章制作工具 V1.3](https://www.52pojie.cn/thread-2129030-1-1.html)
-12. [豆包输入法  V0.9.0](https://www.52pojie.cn/thread-2129058-1-1.html)
-13. [微信Windows版 v4.1.15.50多开&消息防撤回公测版绿色版x64位（9.24更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
-14. [文字转语音合成工具TTS-Vue-Next v0.1.0](https://www.52pojie.cn/thread-2129297-1-1.html)
-15. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
-16. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
+4. [酷安第三方桌面版 coolapk-desktop v1.27.1](https://www.52pojie.cn/thread-2130014-1-1.html)
+5. [雷电模拟器14优化工具](https://www.52pojie.cn/thread-2130085-1-1.html)
+6. [【9.24更新】APK图标提取大更新！大幅优化！支持搜索！](https://www.52pojie.cn/thread-2129739-1-1.html)
+7. [【全网首发】进销存|ERP软件中小企业福音你值得拥有](https://www.52pojie.cn/thread-2129955-1-1.html)
+8. [小巧的卸载工具-UninstallView_1.52_x86/x64二合一](https://www.52pojie.cn/thread-2130092-1-1.html)
+9. [局域网投屏V1.0](https://www.52pojie.cn/thread-2130259-1-1.html)
+10. [挖兔硬盘精灵 v1.0.0 | 硬盘健康检测 · 四色预警 · 免费开源](https://www.52pojie.cn/thread-2130160-1-1.html)
+11. [哔哩哔哩第三方安卓电视TVapp newBV v1.0.1.r144](https://www.52pojie.cn/thread-2129958-1-1.html)
+12. [电子合同盖章制作工具 V1.3](https://www.52pojie.cn/thread-2129030-1-1.html)
+13. [豆包输入法  V0.9.0](https://www.52pojie.cn/thread-2129058-1-1.html)
+14. [微信Windows版 v4.1.15.50多开&消息防撤回公测版绿色版x64位（9.24更新）](https://www.52pojie.cn/thread-2129439-1-1.html)
+15. [文字转语音合成工具TTS-Vue-Next v0.1.0](https://www.52pojie.cn/thread-2129297-1-1.html)
+16. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
 17. [小米互联服务 2.0.2.524](https://www.52pojie.cn/thread-2129306-1-1.html)
 18. [批量文件打印助手PrintAssist v1.0.9](https://www.52pojie.cn/thread-2130251-1-1.html)
 19. [想曰 v2.2.0.0 免费的文本加密工具](https://www.52pojie.cn/thread-2129164-1-1.html)

@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-01 02:16:15
+> 更新时间：2026-10-01 03:12:21
 
 ## 热新闻
 
@@ -21,6 +21,6 @@
 15. [释新闻｜劫机代码、战机出动、机长被刺，迪拜航空客机内发生了什么？](https://www.thepaper.cn/newsDetail_forward_34180763)
 16. [裁判为什么不看VAR？张玉宁：我们可以在亚洲与强队抗衡](https://www.thepaper.cn/newsDetail_forward_34180043)
 17. [特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”](https://www.thepaper.cn/newsDetail_forward_34177257)
-18. [朱忠明当选上海市市长](https://www.thepaper.cn/newsDetail_forward_34179848)
-19. [AI“融”图阴影下的画师们：如何证明AI偷了我的创意？](https://www.thepaper.cn/newsDetail_forward_34174592)
-20. [奔赴“县”场｜天南地北的孩子们，都回来了](https://www.thepaper.cn/newsDetail_forward_34178764)
+18. [商务部：延长对美国相关做法措施贸易壁垒调查期限](https://www.thepaper.cn/newsDetail_forward_34180554)
+19. [朱忠明当选上海市市长](https://www.thepaper.cn/newsDetail_forward_34179848)
+20. [100万张门票，为何填不满名古屋的亚运看台](https://www.thepaper.cn/newsDetail_forward_34180280)

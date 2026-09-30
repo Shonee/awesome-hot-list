@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-01 02:16:05
+> 更新时间：2026-10-01 03:12:04
 
 ## 热门文章
 
@@ -31,10 +31,10 @@
 25. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
 26. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
 27. [王者荣耀日志组件BqLog为什么这么快之1——高性能实时压缩日志](https://juejin.cn/post/7690401920711655467)
-28. [Agent 如何拥有长期记忆：六个主流项目的设计思路对比](https://juejin.cn/post/7690197651807535158)
-29. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
-30. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
-31. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+28. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+29. [Agent 如何拥有长期记忆：六个主流项目的设计思路对比](https://juejin.cn/post/7690197651807535158)
+30. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
+31. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
 32. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
 33. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
 34. [如果你在做 RAG，可能会需要 pdf-inspector](https://juejin.cn/post/7689883764008386598)

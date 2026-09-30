@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-01 02:16:08
+> 更新时间：2026-10-01 03:12:08
 
 ## 最新帖子
 
@@ -53,6 +53,6 @@
 1. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
 2. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
 3. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
-4. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
-5. [公司发展到一定阶段，到底要不要封装中间件](https://www.cnblogs.com/zhangs1986/p/23056721)
+4. [公司发展到一定阶段，到底要不要封装中间件](https://www.cnblogs.com/zhangs1986/p/23056721)
+5. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
 6. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
