@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-30 16:47:09
+> 更新时间：2026-09-30 17:43:04
 
 ## 新闻热榜
 
@@ -33,17 +33,17 @@
 4. [合肥飞往大连航班上，有空姐跪地道歉？东航客服回应：高度重视](https://finance.sina.com.cn/wm/2026-09-30/doc-initqeff7158506.shtml)
 5. [霍尔木兹海峡大消息，又有船只遇袭！伊朗：波斯湾已无美国军舰，其已撤至入口500公里开外](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initppiv6014760.shtml)
 6. [23年后，美军灰溜溜走了，伊拉克全国放假四天](https://finance.sina.com.cn/roll/2026-09-30/doc-initqeff7161476.shtml)
-7. [操盘必读：影响股市利好或利空消息_2026年9月30日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-30/doc-initqefr2556199.shtml)
+7. [东航“空姐跪地道歉事件”目击者发声：跪了两三次，男子要求去医院检查](https://finance.sina.com.cn/roll/2026-09-30/doc-initqvax6940759.shtml)
 8. [俄方警告：准备动用一切手段，包括核武器](https://finance.sina.com.cn/roll/2026-09-30/doc-initqqvi2171070.shtml)
-9. [停牌前涨停，002813，控股权或变更！明年涨价121%？供应吃紧，机构上调HBM价格展望（附股）](https://finance.sina.com.cn/stock/roll/2026-09-30/doc-initqefp5786175.shtml)
-10. [超强厄尔尼诺事件预计将于11月前后形成](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr5866308.shtml)
-11. [俄方：希望伊朗不要退出](https://finance.sina.com.cn/wm/2026-09-30/doc-initqefp2324513.shtml)
-12. [美国计划通过“互换”释放4000万桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxi7262640.shtml)
-13. [东航“空姐跪地道歉事件”目击者发声：跪了两三次，男子要求去医院检查](https://finance.sina.com.cn/roll/2026-09-30/doc-initqvax6940759.shtml)
-14. [A股十年国庆假期“日历效应”透视](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2305832.shtml)
+9. [操盘必读：影响股市利好或利空消息_2026年9月30日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-30/doc-initqefr2556199.shtml)
+10. [航班上餐车碰到男子手肘，空姐下跪道歉后还被要求踹一脚，目击者称空姐跪了两三次，东航客服回应](https://finance.sina.com.cn/roll/2026-09-30/doc-initqvcf5725244.shtml)
+11. [停牌前涨停，002813，控股权或变更！明年涨价121%？供应吃紧，机构上调HBM价格展望（附股）](https://finance.sina.com.cn/stock/roll/2026-09-30/doc-initqefp5786175.shtml)
+12. [超强厄尔尼诺事件预计将于11月前后形成](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr5866308.shtml)
+13. [俄方：希望伊朗不要退出](https://finance.sina.com.cn/wm/2026-09-30/doc-initqefp2324513.shtml)
+14. [美国计划通过“互换”释放4000万桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxi7262640.shtml)
 15. [SpaceX星舰溅落时发生剧烈爆炸画面曝光](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2321630.shtml)
-16. [豪掷246亿元！500亿龙头国轩高科联手大众扩产](https://finance.sina.com.cn/stock/auto/2026-09-30/doc-initqefr2569479.shtml)
+16. [A股十年国庆假期“日历效应”透视](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2305832.shtml)
 17. [“数额特别巨大”，易会满涉嫌受贿案被提起公诉（附简历）](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqkpm2257879.shtml)
-18. [全球镍产业龙头！中国最大的镍矿贸易商今日上市](https://finance.sina.com.cn/stock/relnews/cn/2026-09-30/doc-initqefr2536835.shtml)
-19. [特朗普会见多家科企负责人 签署人工智能相关文件](https://finance.sina.com.cn/roll/2026-09-30/doc-initpxxr2433470.shtml)
-20. [财经早报丨财政部、央行等首次给房贷贴息！100万最高省5万，伊朗股市一天涨了130000点丨2026年9月30日](https://finance.sina.com.cn/stock/y/2026-09-30/doc-initqeff7159199.shtml)
+18. [豪掷246亿元！500亿龙头国轩高科联手大众扩产](https://finance.sina.com.cn/stock/auto/2026-09-30/doc-initqefr2569479.shtml)
+19. [全球镍产业龙头！中国最大的镍矿贸易商今日上市](https://finance.sina.com.cn/stock/relnews/cn/2026-09-30/doc-initqefr2536835.shtml)
+20. [特朗普会见多家科企负责人 签署人工智能相关文件](https://finance.sina.com.cn/roll/2026-09-30/doc-initpxxr2433470.shtml)
