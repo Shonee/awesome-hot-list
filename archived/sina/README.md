@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-30 09:32:08
+> 更新时间：2026-09-30 10:24:07
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [卡塔尔内政部：卡塔尔将允许在指定区域使用无人机。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5940517.shtml)
-2. [美国众议院议长约翰逊：我们能够以安全方式保持竞争优势。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5951025.shtml)
-3. [加拿大总理卡尼：加拿大液化天然气项目二期扩建工程耗资 330 亿加元。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrv2699278.shtml)
-4. [美国众议院议长约翰逊：人工智能行业的承诺是自愿的。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5950770.shtml)
-5. [美联储穆萨莱姆：负面供给冲击可能会更加频繁。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initppix2818163.shtml)
+1. [操盘必读：影响股市利好或利空消息_2026年9月30日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-30/doc-initqefr2556199.shtml)
+2. [人民日报刊文：让房地产真正回到“住”上来](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr2424727.shtml)
+3. [超强厄尔尼诺事件预计将于11月前后形成](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr5866308.shtml)
+4. [美国计划通过“互换”释放4000万桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxi7262640.shtml)
+5. [A股利好！又一批增持回购来了](https://finance.sina.com.cn/roll/2026-09-30/doc-initqeff7175305.shtml)
 6. [9月30日收盘：三大指数收跌 国债收益率续创多年新高](https://finance.sina.com.cn/world/2026-09-30/doc-initpxxt2613336.shtml)
-7. [黄仁勋和马斯克将在白宫人工智能午餐会上分坐特朗普左右](https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initppiv2603438.shtml)
-8. [美国拟通过“互换”释放至多4000万桶石油储备](https://finance.sina.com.cn/7x24/2026-09-30/doc-initppix2811552.shtml)
-9. [特朗普谈及人工智能监管：重申美国拥有联邦调查局、中央情报局与司法部。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5952770.shtml)
-10. [市场消息：苹果公司将在印度推出Apple Pay。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5935779.shtml)
-11. [美联储古尔斯比：通胀连续五年半高于目标，这是在玩火。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initppix2811510.shtml)
-12. [白宫发布人工智能协议](https://finance.sina.com.cn/7x24/2026-09-30/doc-initpxxt2629615.shtml)
-13. [美联储威廉姆斯：我十分信奉数据驱动的决策原则。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5926472.shtml)
-14. [沙特否认有官员与以色列官员会谈](https://finance.sina.com.cn/7x24/2026-09-30/doc-initqefp5784828.shtml)
-15. [美联储理事巴尔：短期来看，AI 目前最大的影响是推高成本。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initppix2809075.shtml)
-16. [特朗普：我们正在考虑成立一个（人工智能）监督委员会。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrv2725265.shtml)
-17. [美国财政部：特朗普账户将自动为儿童注册，可能新增6000万个账户](https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initptrt2517487.shtml)
-18. [特朗普被问及住宅附近的数据中心时表示：希望它们建在合适的地方。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrv2732849.shtml)
-19. [特朗普会见多家科企负责人 签署人工智能相关文件](https://finance.sina.com.cn/7x24/2026-09-30/doc-initpxxr5875769.shtml)
-20. [美联储威廉姆斯：K 型经济是真实存在的。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrv2703114.shtml)
+7. [霍尔木兹海峡大消息，又有船只遇袭！伊朗：波斯湾已无美国军舰，其已撤至入口500公里开外](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initppiv6014760.shtml)
+8. [财经早报丨财政部、央行等首次给房贷贴息！100万最高省5万，伊朗股市一天涨了130000点丨2026年9月30日](https://finance.sina.com.cn/stock/y/2026-09-30/doc-initqeff7159199.shtml)
+9. [A股十年国庆假期“日历效应”透视](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2305832.shtml)
+10. [俄方：希望伊朗不要退出](https://finance.sina.com.cn/wm/2026-09-30/doc-initqefp2324513.shtml)
+11. [股海导航_2026年9月30日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-09-30/doc-initqeff7160211.shtml)
+12. [卡塔尔内政部：卡塔尔将允许在指定区域使用无人机。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5940517.shtml)
+13. [美国众议院议长约翰逊：我们能够以安全方式保持竞争优势。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5951025.shtml)
+14. [加拿大总理卡尼：加拿大液化天然气项目二期扩建工程耗资 330 亿加元。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrv2699278.shtml)
+15. [预告：国务院台湾事务办公室9月30日举行新闻发布会](https://finance.sina.com.cn/7x24/2026-09-30/doc-initqefp5829198.shtml)
+16. [23年后，美军灰溜溜走了，伊拉克全国放假四天](https://finance.sina.com.cn/roll/2026-09-30/doc-initqeff7161476.shtml)
+17. [美国众议院议长约翰逊：人工智能行业的承诺是自愿的。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5950770.shtml)
+18. [美联储穆萨莱姆：负面供给冲击可能会更加频繁。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initppix2818163.shtml)
+19. [9月30日美股成交额前20：美光涨超1%，将于周三盘后公布Q4财报](https://finance.sina.com.cn/world/2026-09-30/doc-initpxxi7264118.shtml)
+20. [黄仁勋和马斯克将在白宫人工智能午餐会上分坐特朗普左右](https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initppiv2603438.shtml)

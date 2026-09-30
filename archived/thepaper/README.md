@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-30 09:31:34
+> 更新时间：2026-09-30 10:23:58
 
 ## 热新闻
 
@@ -14,13 +14,13 @@
 8. [马上评｜给舞台演出合理的宽容空间](https://www.thepaper.cn/newsDetail_forward_34171269)
 9. [中央财政帮你还房贷利息：最高可省近5万元，哪些人可享受？](https://www.thepaper.cn/newsDetail_forward_34172817)
 10. [成都文旅局通报那英即兴演唱《弯弯的月亮》：不属于变更节目重新报批情形](https://www.thepaper.cn/newsDetail_forward_34170993)
-11. [居民房贷贴息政策10月1日起实施](https://www.thepaper.cn/newsDetail_forward_34172659)
-12. [马上评｜大学需要提升对优秀教师的识别能力](https://www.thepaper.cn/newsDetail_forward_34170372)
-13. [言短意长｜禁止赴风景名胜区开会的不仅仅是北大](https://www.thepaper.cn/newsDetail_forward_34170632)
-14. [国企员工醉驾碾压拖行女教师5.9公里致死，5人涉嫌故意杀人被诉](https://www.thepaper.cn/newsDetail_forward_34171216)
-15. [“女教师被拖行5.9公里致死”案将提级审理，死者妹妹发声](https://www.thepaper.cn/newsDetail_forward_34171579)
-16. [言短意长｜不要轻易用“职称”定义一位老师](https://www.thepaper.cn/newsDetail_forward_34170330)
-17. [贵州警方通报：19岁男子凌晨酒驾超载追尾半挂车致7人死亡](https://www.thepaper.cn/newsDetail_forward_34170052)
-18. [那英演唱会临时加唱《弯弯的月亮》，当地文旅局：调查核实中](https://www.thepaper.cn/newsDetail_forward_34169865)
-19. [澎湃漫评｜“一年举报1520次”就该及时叫停](https://www.thepaper.cn/newsDetail_forward_34171996)
-20. [一小学用“实名接龙”统计“自愿捐款”，广东遂溪：已督促家委会退款](https://www.thepaper.cn/newsDetail_forward_34173181)
+11. [李亚鹏称房东已下调房租，北京嫣然天使儿童医院：一直正常接诊、近期无搬家计划](https://www.thepaper.cn/newsDetail_forward_34171595)
+12. [居民房贷贴息政策10月1日起实施](https://www.thepaper.cn/newsDetail_forward_34172659)
+13. [马上评｜大学需要提升对优秀教师的识别能力](https://www.thepaper.cn/newsDetail_forward_34170372)
+14. [言短意长｜禁止赴风景名胜区开会的不仅仅是北大](https://www.thepaper.cn/newsDetail_forward_34170632)
+15. [多地“限高”份子钱，倡导农村人情随礼不超过100元](https://www.thepaper.cn/newsDetail_forward_34171887)
+16. [国企员工醉驾碾压拖行女教师5.9公里致死，5人涉嫌故意杀人被诉](https://www.thepaper.cn/newsDetail_forward_34171216)
+17. [“女教师被拖行5.9公里致死”案将提级审理，死者妹妹发声](https://www.thepaper.cn/newsDetail_forward_34171579)
+18. [言短意长｜不要轻易用“职称”定义一位老师](https://www.thepaper.cn/newsDetail_forward_34170330)
+19. [贵州警方通报：19岁男子凌晨酒驾超载追尾半挂车致7人死亡](https://www.thepaper.cn/newsDetail_forward_34170052)
+20. [那英演唱会临时加唱《弯弯的月亮》，当地文旅局：调查核实中](https://www.thepaper.cn/newsDetail_forward_34169865)
