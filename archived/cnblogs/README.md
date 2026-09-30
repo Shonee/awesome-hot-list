@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-30 16:18:08
+> 更新时间：2026-09-30 17:13:51
 
 ## 最新帖子
 
-1. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
-2. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
-3. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
-4. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
-5. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
-6. [CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏](https://www.cnblogs.com/jacklu/p/23167934)
-7. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
-8. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
-9. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
-10. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
-11. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
-12. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
-13. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
-14. [解决 brew install 慢：换用清华镜像源](https://www.cnblogs.com/jyzhao/p/23164615)
-15. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
-16. [FreeRADIUS + 华为AC/AP + 802.1X/WPA2-Enterprise 无线认证对接部署完整指南](https://www.cnblogs.com/Johny-zhao/p/23162864)
-17. [go语言中结构体匿名字段和嵌套结构体(继承)](https://www.cnblogs.com/ishoulgodo/p/23148807)
-18. [Windows 下 CLI 参数的引号陷阱：为什么 --resume 'uuid' 会失败](https://www.cnblogs.com/foxcharon/p/23162504)
-19. [Delay_us 与 Delay_ms：用 SysTick 做一把可靠的时间尺](https://www.cnblogs.com/zw-awa/p/23161857)
-20. [Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS>0 消息后客户端主动断连问题排查复盘](https://www.cnblogs.com/SheepDog/p/23160844)
+1. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
+2. [Java线程池总结](https://www.cnblogs.com/xiexj/p/23172454)
+3. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
+4. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
+5. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
+6. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
+7. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
+8. [CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏](https://www.cnblogs.com/jacklu/p/23167934)
+9. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
+10. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
+11. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
+12. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
+13. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
+14. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
+15. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
+16. [解决 brew install 慢：换用清华镜像源](https://www.cnblogs.com/jyzhao/p/23164615)
+17. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
+18. [FreeRADIUS + 华为AC/AP + 802.1X/WPA2-Enterprise 无线认证对接部署完整指南](https://www.cnblogs.com/Johny-zhao/p/23162864)
+19. [go语言中结构体匿名字段和嵌套结构体(继承)](https://www.cnblogs.com/ishoulgodo/p/23148807)
+20. [Windows 下 CLI 参数的引号陷阱：为什么 --resume 'uuid' 会失败](https://www.cnblogs.com/foxcharon/p/23162504)
 
 ## 精华帖子
 
