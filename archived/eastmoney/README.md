@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-01 00:16:10
+> 更新时间：2026-10-01 01:12:38
 
 ## 股票人气榜
 
@@ -19,8 +19,8 @@
 13. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
 14. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 15. [古越龙山 (600059)](https://quote.eastmoney.com/sh600059.html)
-16. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
+16. [金徽酒 (603919)](https://quote.eastmoney.com/sh603919.html)
 17. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
-18. [金徽酒 (603919)](https://quote.eastmoney.com/sh603919.html)
+18. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
 19. [南华生物 (000504)](https://quote.eastmoney.com/sz000504.html)
 20. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
