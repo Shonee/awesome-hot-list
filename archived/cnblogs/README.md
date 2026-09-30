@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-30 08:36:15
+> 更新时间：2026-09-30 09:31:16
 
 ## 最新帖子
 
-1. [解决 brew install 慢：换用清华镜像源](https://www.cnblogs.com/jyzhao/p/23164615)
-2. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
-3. [FreeRADIUS + 华为AC/AP + 802.1X/WPA2-Enterprise 无线认证对接部署完整指南](https://www.cnblogs.com/Johny-zhao/p/23162864)
-4. [go语言中结构体匿名字段和嵌套结构体(继承)](https://www.cnblogs.com/ishoulgodo/p/23148807)
-5. [Windows 下 CLI 参数的引号陷阱：为什么 --resume 'uuid' 会失败](https://www.cnblogs.com/foxcharon/p/23162504)
-6. [Delay_us 与 Delay_ms：用 SysTick 做一把可靠的时间尺](https://www.cnblogs.com/zw-awa/p/23161857)
-7. [Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS>0 消息后客户端主动断连问题排查复盘](https://www.cnblogs.com/SheepDog/p/23160844)
-8. [并发编程（六）：Atomic 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23160403)
-9. [关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉](https://www.cnblogs.com/ahfuzhang/p/23160145)
-10. [VS2019 for mac里用c#开发Mac OS应用 重要过程](https://www.cnblogs.com/canbloom/p/23158971)
-11. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
-12. [dsh插件开发踩坑实录(写给正在build dsh插件的ai agent)](https://www.cnblogs.com/borui-coding-diary/p/23157248/dsh-plugin-dev-experience)
-13. [用Pandas+Pydantic搭建数据清洗与验证管道](https://www.cnblogs.com/wang_yb/p/23155666)
-14. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
-15. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
-16. [Java无垃圾稳态设计](https://www.cnblogs.com/xiexj/p/23154843)
-17. [JuiceFS 企业版 5.4：从千亿文件到百万客户端](https://www.cnblogs.com/JuiceData/p/23154107)
-18. [如何将飞书 SDK改造为支持AOT编译](https://www.cnblogs.com/mudtools/p/23152901)
-19. [Elasticsearch从0-1部署成功实战](https://www.cnblogs.com/zrui-xyu/p/23152708)
-20. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
+1. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
+2. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
+3. [解决 brew install 慢：换用清华镜像源](https://www.cnblogs.com/jyzhao/p/23164615)
+4. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
+5. [FreeRADIUS + 华为AC/AP + 802.1X/WPA2-Enterprise 无线认证对接部署完整指南](https://www.cnblogs.com/Johny-zhao/p/23162864)
+6. [go语言中结构体匿名字段和嵌套结构体(继承)](https://www.cnblogs.com/ishoulgodo/p/23148807)
+7. [Windows 下 CLI 参数的引号陷阱：为什么 --resume 'uuid' 会失败](https://www.cnblogs.com/foxcharon/p/23162504)
+8. [Delay_us 与 Delay_ms：用 SysTick 做一把可靠的时间尺](https://www.cnblogs.com/zw-awa/p/23161857)
+9. [Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS>0 消息后客户端主动断连问题排查复盘](https://www.cnblogs.com/SheepDog/p/23160844)
+10. [并发编程（六）：Atomic 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23160403)
+11. [关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉](https://www.cnblogs.com/ahfuzhang/p/23160145)
+12. [VS2019 for mac里用c#开发Mac OS应用 重要过程](https://www.cnblogs.com/canbloom/p/23158971)
+13. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
+14. [dsh插件开发踩坑实录(写给正在build dsh插件的ai agent)](https://www.cnblogs.com/borui-coding-diary/p/23157248/dsh-plugin-dev-experience)
+15. [用Pandas+Pydantic搭建数据清洗与验证管道](https://www.cnblogs.com/wang_yb/p/23155666)
+16. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
+17. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
+18. [Java无垃圾稳态设计](https://www.cnblogs.com/xiexj/p/23154843)
+19. [JuiceFS 企业版 5.4：从千亿文件到百万客户端](https://www.cnblogs.com/JuiceData/p/23154107)
+20. [如何将飞书 SDK改造为支持AOT编译](https://www.cnblogs.com/mudtools/p/23152901)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [开源一个AI写的截图+离线OCR识别小工具-SnipasteOcr](https://www.cnblogs.com/GuZhenYin/p/23138108)
-2. [《HelloGitHub》第 126 期](https://www.cnblogs.com/xueweihan/p/23132261)
-3. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
-4. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
-5. [判断引擎落地 .NET 的四条路线、一个客户端与一份生产样本](https://www.cnblogs.com/shanyou/p/23138134)
-6. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
+1. [DeepSeek 还没官宣的桌面版，我抢先装上跑了一遍，结果有点炸](https://www.cnblogs.com/zh94/p/23139669)
+2. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
+3. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
+4. [C# .NET 周刊 ｜2026 年 9 月 1 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_1)
+5. [公司发展到一定阶段，到底要不要封装中间件](https://www.cnblogs.com/zhangs1986/p/23056721)
+6. [如何评价杨立昆认为大模型只是对海量文本的模式进行复杂拟合，根本不懂意义？](https://www.cnblogs.com/apachecn/p/23139235)
