@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-01 03:13:41
+> 更新时间：2026-10-01 04:15:10
 
 ## 股票人气榜
 
@@ -16,11 +16,11 @@
 10. [昭衍新药 (603127)](https://quote.eastmoney.com/sh603127.html)
 11. [我爱我家 (000560)](https://quote.eastmoney.com/sz000560.html)
 12. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-13. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
-14. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
-15. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
-16. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
-17. [古越龙山 (600059)](https://quote.eastmoney.com/sh600059.html)
-18. [南华生物 (000504)](https://quote.eastmoney.com/sz000504.html)
+13. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
+14. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
+15. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
+16. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
+17. [南华生物 (000504)](https://quote.eastmoney.com/sz000504.html)
+18. [古越龙山 (600059)](https://quote.eastmoney.com/sh600059.html)
 19. [中船科技 (600072)](https://quote.eastmoney.com/sh600072.html)
-20. [蔚蓝生物 (603739)](https://quote.eastmoney.com/sh603739.html)
+20. [兴业股份 (603928)](https://quote.eastmoney.com/sh603928.html)

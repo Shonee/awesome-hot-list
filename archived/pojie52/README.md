@@ -1,15 +1,15 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-01 03:12:15
+> 更新时间：2026-10-01 04:14:44
 
 ## 人气热门
 
 1. [稻壳阅读器DocBox 2.10.10 修复版](https://www.52pojie.cn/thread-2130420-1-1.html)
-2. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
-3. [人情礼簿 v1.2.0](https://www.52pojie.cn/thread-2129983-1-1.html)
-4. [酷安第三方桌面版 coolapk-desktop v1.27.1](https://www.52pojie.cn/thread-2130014-1-1.html)
-5. [雷电模拟器14优化工具](https://www.52pojie.cn/thread-2130085-1-1.html)
-6. [【9.24更新】APK图标提取大更新！大幅优化！支持搜索！](https://www.52pojie.cn/thread-2129739-1-1.html)
+2. [【9.24更新】APK图标提取大更新！大幅优化！支持搜索！](https://www.52pojie.cn/thread-2129739-1-1.html)
+3. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
+4. [人情礼簿 v1.2.0](https://www.52pojie.cn/thread-2129983-1-1.html)
+5. [酷安第三方桌面版 coolapk-desktop v1.27.1](https://www.52pojie.cn/thread-2130014-1-1.html)
+6. [雷电模拟器14优化工具](https://www.52pojie.cn/thread-2130085-1-1.html)
 7. [【全网首发】进销存|ERP软件中小企业福音你值得拥有](https://www.52pojie.cn/thread-2129955-1-1.html)
 8. [小巧的卸载工具-UninstallView_1.52_x86/x64二合一](https://www.52pojie.cn/thread-2130092-1-1.html)
 9. [局域网投屏V1.0](https://www.52pojie.cn/thread-2130259-1-1.html)
