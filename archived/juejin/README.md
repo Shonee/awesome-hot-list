@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-30 12:15:48
+> 更新时间：2026-09-30 13:13:59
 
 ## 热门文章
 
@@ -21,16 +21,16 @@
 15. [栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...](https://juejin.cn/post/7689866047096602666)
 16. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
 17. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
-18. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
-19. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
-20. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
+18. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
+19. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
+20. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
 21. [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898)
 22. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
 23. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
 24. [从零实现一个带虚拟滚动的 Select](https://juejin.cn/post/7689656350306959406)
 25. [WEB 项目如何禁用 F12 等功能](https://juejin.cn/post/7689431365684772904)
-26. [再见了 WebUI，DeepSeek 桌面版真不错。](https://juejin.cn/post/7690490511467544602)
-27. [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768)
+26. [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768)
+27. [再见了 WebUI，DeepSeek 桌面版真不错。](https://juejin.cn/post/7690490511467544602)
 28. [Agent 如何拥有长期记忆：六个主流项目的设计思路对比](https://juejin.cn/post/7690197651807535158)
 29. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
 30. [王者荣耀日志组件BqLog为什么这么快之1——高性能实时压缩日志](https://juejin.cn/post/7690401920711655467)
@@ -42,8 +42,8 @@
 36. [思考|谈谈AI时代的后端开发+QECon演讲PPT](https://juejin.cn/post/7690031273628745779)
 37. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
 38. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
-39. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
-40. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
+39. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
+40. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
 41. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
 42. [干了 6 年前端，我是怎么一步步转型到 AI 的？](https://juejin.cn/post/7690468159976701998)
 43. [我实测了前端日期的 5 个坑：差 8 小时只是开始](https://juejin.cn/post/7690463587244458035)
