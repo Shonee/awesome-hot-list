@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-30 13:40:41
+> 更新时间：2026-09-30 14:57:20
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [Meta 成立 Muse 企服版业务，200 亿市值 MongoDB CEO 跳槽加入](https://readhub.cn/topic/8wontVZ9YEb?tab=daily)
 10. [OpenAI 称 ChatGPT 周活跃用户已达 12 亿](https://readhub.cn/topic/8wpJG6EpELw?tab=daily)
 11. [消息人士称 OpenAI 年度经常性收入接近 700 亿美元](https://readhub.cn/topic/8wp6lKqQMCS?tab=daily)
-12. [苹果将在印度推出 Apple Pay](https://readhub.cn/topic/8wpR7aUbU0T?tab=daily)
-13. [苏姿丰收购李飞飞旗下世界模型公司 李飞飞任首席科学家](https://readhub.cn/topic/8wo7eRxX4fZ?tab=daily)
-14. [阿里华为近期先后发布相关 AI 办公产品推进落地](https://readhub.cn/topic/8woT6PE7JsC?tab=daily)
+12. [问界新 M8 开启预售 预售价格 38.98 万元起](https://readhub.cn/topic/8wpy09XIEle?tab=daily)
+13. [苹果将在印度推出 Apple Pay](https://readhub.cn/topic/8wpR7aUbU0T?tab=daily)
+14. [苏姿丰收购李飞飞旗下世界模型公司 李飞飞任首席科学家](https://readhub.cn/topic/8wo7eRxX4fZ?tab=daily)
 15. [北京九章云极科技递表港交所](https://readhub.cn/topic/8won5mxxLk9?tab=daily)
-16. [问界新 M8 开启预售 预售价格 38.98 万元起](https://readhub.cn/topic/8wpy09XIEle?tab=daily)
-17. [Anthropic 未公开 IPO 招股书，梳理七大核心细节](https://readhub.cn/topic/8woVEhR7u9I?tab=daily)
-18. [海南商业航天发射场二期主体工程完工 启动合练](https://readhub.cn/topic/8woVEHtECLD?tab=daily)
-19. [李想回应理想自研电池三方面原因 否认去宁德化](https://readhub.cn/topic/8wmw2vuK5fw?tab=daily)
-20. [我国将推进建设西南大型水电基地](https://readhub.cn/topic/8womVRHiwbA?tab=daily)
-21. [Anthropic 招股书风险篇幅近业务两倍，大篇幅披露 AI 相关风险](https://readhub.cn/topic/8wooekJTeck?tab=daily)
-22. [网宿科技：拟 3 亿元投资视频生成模型公司 Sand.ai](https://readhub.cn/topic/8wos7MKRJiZ?tab=daily)
-23. [Anthropic 计划未来一年投入 5180 亿美元用于云服务算力及相关履约支出](https://readhub.cn/topic/8wo4mjCrXpt?tab=daily)
-24. [特朗普称与人工智能领袖讨论数据中心布局](https://readhub.cn/topic/8wpQP5KTCem?tab=daily)
-25. [DeepSeek 开源昇腾基础组件](https://readhub.cn/topic/8wpwYQQwhv7?tab=daily)
-26. [苹果公布 iPhone Duo 预购安排 10 月 12 日可提前备单](https://readhub.cn/topic/8wpTyVKzhu4?tab=daily)
-27. [千里科技：子公司拟 3443.88 万元购买极氪智能驾驶相关资产](https://readhub.cn/topic/8wp6lFiE1O6?tab=daily)
-28. [iQOO 15 手机销量突破 200 万台](https://readhub.cn/topic/8wouGVq3y3J?tab=daily)
-29. [农业银行落实居民购房贷款贴息政策](https://readhub.cn/topic/8wpvqmsRcaa?tab=daily)
-30. [豆包 APP 上线「出行」超级入口 聚合本地生活服务](https://readhub.cn/topic/8wog0DXOQsP?tab=daily)
+16. [阿里华为近期先后发布相关 AI 办公产品推进落地](https://readhub.cn/topic/8woT6PE7JsC?tab=daily)
+17. [DeepSeek 开源昇腾基础组件](https://readhub.cn/topic/8wpwYQQwhv7?tab=daily)
+18. [李想回应理想自研电池三方面原因 否认去宁德化](https://readhub.cn/topic/8wmw2vuK5fw?tab=daily)
+19. [我国将推进建设西南大型水电基地](https://readhub.cn/topic/8womVRHiwbA?tab=daily)
+20. [Anthropic 未公开 IPO 招股书，梳理七大核心细节](https://readhub.cn/topic/8woVEhR7u9I?tab=daily)
+21. [Manus 恢复独立运营发布 2.0，Agent 赛道已挤满对手](https://readhub.cn/topic/8wp6OXrnFCa?tab=daily)
+22. [iQOO 15 手机销量突破 200 万台](https://readhub.cn/topic/8wouGVq3y3J?tab=daily)
+23. [Anthropic 招股书风险篇幅近业务两倍，大篇幅披露 AI 相关风险](https://readhub.cn/topic/8wooekJTeck?tab=daily)
+24. [网宿科技：拟 3 亿元投资视频生成模型公司 Sand.ai](https://readhub.cn/topic/8wos7MKRJiZ?tab=daily)
+25. [Anthropic 计划未来一年投入 5180 亿美元用于云服务算力及相关履约支出](https://readhub.cn/topic/8wo4mjCrXpt?tab=daily)
+26. [特朗普称与人工智能领袖讨论数据中心布局](https://readhub.cn/topic/8wpQP5KTCem?tab=daily)
+27. [苹果公布 iPhone Duo 预购安排 10 月 12 日可提前备单](https://readhub.cn/topic/8wpTyVKzhu4?tab=daily)
+28. [千里科技：子公司拟 3443.88 万元购买极氪智能驾驶相关资产](https://readhub.cn/topic/8wp6lFiE1O6?tab=daily)
+29. [豆包 APP 上线「出行」超级入口 聚合本地生活服务](https://readhub.cn/topic/8wog0DXOQsP?tab=daily)
+30. [比亚迪称方程豹方程 S 预订超预期 月销有望冲击 1.5 万辆](https://readhub.cn/topic/8wpnGUR7mJ6?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [一张胸部 CT，可以看出脑健康状态？科学家发现骨密度与大脑衰老之间存在密切联系](https://www.mittrchina.com/news/detail/17033)
-2. [Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议](https://www.aibase.com/zh/news/31430)
-3. [GPT-6「上身」宇树 G1：斯坦福将机器人控制链封装为专属 API](https://www.leiphone.com/category/ai/AVV9SvszqpZ3u8vU.html)
-4. [OpenAI 发布自主智能体「Dots」与企业应用市场，ChatGPT 全面向软件分发平台转型](https://www.aibase.com/zh/news/31421)
-5. [奥尔特曼回应 IPO 传闻：OpenAI 上市无明确时间表，安全承诺须走在资本之前](https://www.aibase.com/zh/news/31420)
-6. [麦当劳在美规模化部署 AI 动态定价引擎，同城门店最高价差达 21%](https://www.aibase.com/zh/news/31429)
-7. [深度拆解 Sonnet 5.5：半价 Opus 只是表象，Agent Runtime 才是变化核心](https://www.leiphone.com/category/ai/eFLQ0PfFrKc5kRSs.html)
-8. [豆包支持出行服务：一句话订机票、火车票，打车导航全覆盖](https://www.leiphone.com/category/industrynews/THHBFFfWaradAOlZ.html)
-9. [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/)
-10. [新加坡查处 45 家企业购买虚假评论，涉事服务商须公开致歉半年](https://www.amz123.com/kx/ChHnoKol)
+1. [微软研究院发布生物学「世界模型」Quine，药物筛选验证周期压缩至数天](https://www.aibase.com/zh/news/31434)
+2. [一张胸部 CT，可以看出脑健康状态？科学家发现骨密度与大脑衰老之间存在密切联系](https://www.mittrchina.com/news/detail/17033)
+3. [Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议](https://www.aibase.com/zh/news/31430)
+4. [GPT-6「上身」宇树 G1：斯坦福将机器人控制链封装为专属 API](https://www.leiphone.com/category/ai/AVV9SvszqpZ3u8vU.html)
+5. [源升智能杨思成：具身模型能力突破之前，灵巧手要先卷性能｜物理 AI 50 人](https://www.leiphone.com/category/robot/rhJu6CEW1OjHWAHH.html)
+6. [OpenAI 携手 ModRetro 发布 Codex 专用插件：动动嘴就能造出复古 Game Boy 游戏](https://www.aibase.com/zh/news/31431)
+7. [OpenAI 发布自主智能体「Dots」与企业应用市场，ChatGPT 全面向软件分发平台转型](https://www.aibase.com/zh/news/31421)
+8. [奥尔特曼回应 IPO 传闻：OpenAI 上市无明确时间表，安全承诺须走在资本之前](https://www.aibase.com/zh/news/31420)
+9. [麦当劳在美规模化部署 AI 动态定价引擎，同城门店最高价差达 21%](https://www.aibase.com/zh/news/31429)
+10. [深度拆解 Sonnet 5.5：半价 Opus 只是表象，Agent Runtime 才是变化核心](https://www.leiphone.com/category/ai/eFLQ0PfFrKc5kRSs.html)
