@@ -1,17 +1,17 @@
 # 掘金热榜
 
-> 更新时间：2026-10-01 01:11:59
+> 更新时间：2026-10-01 02:16:05
 
 ## 热门文章
 
 1. [突发！字节内部大调整，QA直接转研发了？](https://juejin.cn/post/7689818941397778478)
 2. [漫话大模型：7 家中国公司被点名「蒸馏」，他们到底偷走了什么？](https://juejin.cn/post/7690769804492341298)
 3. [用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录](https://juejin.cn/post/7690497704220196883)
-4. [读懂LangGraph 的分支执行逻辑](https://juejin.cn/post/7690468159975637038)
-5. [2026年，你终于可以在 `<textarea>` 里定位任意字符了](https://juejin.cn/post/7690190550998007827)
+4. [2026年，你终于可以在 `<textarea>` 里定位任意字符了](https://juejin.cn/post/7690190550998007827)
+5. [读懂LangGraph 的分支执行逻辑](https://juejin.cn/post/7690468159975637038)
 6. [Flutter 多窗口重要优化合并，多窗口性能和实用性大幅提升](https://juejin.cn/post/7690393223730642980)
-7. [DeepSeek Harness 出了桌面端？我把它扒了一遍](https://juejin.cn/post/7690197651808616502)
-8. [我重写了整个项目，但没人感谢我！](https://juejin.cn/post/7690869176362270729)
+7. [我重写了整个项目，但没人感谢我！](https://juejin.cn/post/7690869176362270729)
+8. [DeepSeek Harness 出了桌面端？我把它扒了一遍](https://juejin.cn/post/7690197651808616502)
 9. [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898)
 10. [同样用 Element Plus，为什么你的后台总有一股“模板味”？](https://juejin.cn/post/7690405198255325234)
 11. [我排查了一下午，发现项目打包体积翻倍的元凶是它](https://juejin.cn/post/7690614916369252387)
@@ -19,14 +19,14 @@
 13. [再见了 WebUI，DeepSeek 桌面版真不错。](https://juejin.cn/post/7690490511467544602)
 14. [画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词](https://juejin.cn/post/7690197651807633462)
 15. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
-16. [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768)
-17. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
+16. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
+17. [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768)
 18. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
 19. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
 20. [栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...](https://juejin.cn/post/7689866047096602666)
 21. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
-22. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
-23. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
+22. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
+23. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
 24. [Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？](https://juejin.cn/post/7691030977347207231)
 25. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
 26. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
@@ -34,8 +34,8 @@
 28. [Agent 如何拥有长期记忆：六个主流项目的设计思路对比](https://juejin.cn/post/7690197651807535158)
 29. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
 30. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
-31. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
-32. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+31. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+32. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
 33. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
 34. [如果你在做 RAG，可能会需要 pdf-inspector](https://juejin.cn/post/7689883764008386598)
 35. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)

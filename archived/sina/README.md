@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-01 01:12:22
+> 更新时间：2026-10-01 02:16:19
 
 ## 新闻热榜
 
-1. [宋佳获金鹰奖最佳女主角奖，于和伟获最佳男主角奖](https://news.sina.com.cn/c/2026-09-29/doc-initphzx6038355.shtml)
-2. [俄军一架图-95战略轰炸机坠毁，致6人死亡](https://news.sina.com.cn/w/2026-09-29/doc-initphzr7525875.shtml)
-3. [嫣然天使儿童医院停业？李亚鹏、院方最新回应](https://news.sina.com.cn/c/2026-09-29/doc-initnwnc2822722.shtml)
-4. [中美俄元首将于深圳APEC期间会晤？外交部回应](https://news.sina.com.cn/c/2026-09-29/doc-initnsef6073943.shtml)
-5. [日本富山市长鞠躬道歉](https://mil.news.sina.com.cn/2026-09-29/doc-initpatt7630659.shtml)
-6. [俄罗斯接管麦德龙在俄资产](https://news.sina.com.cn/w/2026-09-29/doc-initnwnc6103997.shtml)
-7. [黄仁勋、苏姿丰，担任清华大学经管学院顾问委员会委员](https://news.sina.com.cn/c/2026-09-29/doc-initnwnc2874992.shtml)
-8. [陈冰：中日关系有转圜可能，但目前还差三个条件](https://finance.sina.com.cn/wm/2026-09-29/doc-initphzx2691656.shtml)
-9. [10月1日起我国将对居民购房实施贷款贴息](https://news.sina.com.cn/c/2026-09-29/doc-initnwnc6112419.shtml)
-10. [泽连斯基：目前已有逾8000名朝鲜士兵进驻俄罗斯境内，且另有1万名朝军正准备前往增援](https://news.sina.com.cn/w/2026-09-29/doc-initnscx7764408.shtml)
-11. [南北丰田，不再各自为战](https://news.sina.com.cn/c/2026-09-29/doc-initnwnc2860132.shtml)
-12. [“女人成绩高无用，最后都要钓金龟”？香港中文大学副教授庄太量道歉：我十分尊重女性](https://news.sina.com.cn/c/2026-09-29/doc-initpauc2901097.shtml)
-13. [荷兰2岁幼儿安乐死案细节公布：曾有两名医生认定“不算持续无法忍受的痛苦”](https://news.sina.com.cn/w/2026-09-29/doc-initnsef2924348.shtml)
-14. [商务部新闻发言人就媒体报道欧盟相关成员国推动欧委会打造欧版“301”工具事答记者问](https://news.sina.com.cn/c/2026-09-29/doc-initphzx6095510.shtml)
-15. [卡塔尔内政部：卡塔尔将允许在指定区域使用无人机。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5940517.shtml)
-16. [今日11金10银6铜！亚运会奖牌榜：中国队143金62银49铜继续领跑](https://news.sina.com.cn/c/2026-09-29/doc-initphzx6040986.shtml)
-17. [美国众议院议长约翰逊：我们能够以安全方式保持竞争优势。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5951025.shtml)
-18. [多所在京高校领导班子调整](https://news.sina.com.cn/c/2026-09-29/doc-initphzx2704705.shtml)
-19. [加拿大总理卡尼：加拿大液化天然气项目二期扩建工程耗资 330 亿加元。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrv2699278.shtml)
-20. [第一观察｜中美关系新定位内涵进一步拓展](https://news.sina.com.cn/c/xl/2026-09-29/doc-initpatt7612498.shtml)
+1. [中美俄元首将于深圳APEC期间会晤？外交部回应](https://news.sina.com.cn/c/2026-09-29/doc-initnsef6073943.shtml)
+2. [欧洲央行行长拉加德：如果我提前卸任欧洲央行行长一职，也只会提前几个月而已。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initrshv5673460.shtml)
+3. [谷歌将在Gemini和Workspace中以“技能（Skills）”取代“Gems”功能。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshx2456629.shtml)
+4. [伊朗革命卫队：随着伊朗维持对霍尔木兹海峡的控制，美国正在丧失应对能力。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initrshx2445694.shtml)
+5. [对冲基金亿万富豪比尔·阿克曼：Anthropic 是我见过的最伟大的商业传奇。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshv5683700.shtml)
+6. [俄罗斯就丹麦空军一架直升机“不专业且具挑衅性的行为”提出抗议。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshv5691618.shtml)
+7. [高盛将美联储加息预期从10月上调至12月。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshx2473067.shtml)
+8. [以色列总理内塔尼亚胡会见了迪拜航空航班上的以色列乘客。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshv5700441.shtml)
+9. [沙特阿拉伯财政部预计，该国2027年实际国内生产总值（GDP）将增长12.8%。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshv5694604.shtml)
+10. [伊朗最高国家安全委员会秘书雷扎伊警告阿联酋不要接待以色列总理内塔尼亚胡，声称此举将带来后果。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshv5680484.shtml)
+11. [美国农业部数据显示美国玉米供应量超预期，玉米期货价格下跌2.9%。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshv5678337.shtml)
+12. [东航通报“空姐下跪道歉事件”](https://news.sina.com.cn/zx/2026-09-30/doc-initqzmc2024193.shtml)
+13. [美国10年期国债收益率升至5.29%，创2007年以来新高。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshx2468332.shtml)
+14. [赞比亚宣布暴发新一轮霍乱疫情](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshv5697066.shtml)
+15. [美国为何给人工智能改名？](https://news.sina.com.cn/o/2026-09-30/doc-initrmyr6775851.shtml)
+16. [以色列消息人士：目前阶段的评估认为，迪拜航空客机事件的涉事飞行员是“独狼”，系单独作案。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshx2471885.shtml)
+17. [摩根大通另类投资业务负责人：私募信贷正在以健康的方式走向成熟。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrshx2475302.shtml)
+18. [芝加哥联储行长：美联储可能需要对持续的供应冲击做出回应](https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initptrm7351177.shtml)
+19. [中方：拥有核武器不是日方想不想讨论的问题](https://news.sina.com.cn/c/2026-09-30/doc-initqvcf5802074.shtml)
+20. [演员惠英红称“团队在巴黎被抢劫”：高速堵车时车窗被砸、包被抢，提醒大家尽量不要背太昂贵的包出门](https://news.sina.com.cn/zx/2026-09-30/doc-initqvci2607627.shtml)
 
 ## 财经热榜
 
