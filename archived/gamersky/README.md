@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-09-30 22:15:21
+> 更新时间：2026-09-30 23:15:12
 
 ## 热点资讯排行
 
@@ -14,8 +14,8 @@
 8. [尼尔终于爆猛料！《美末》两大新项目|光头新作明年见](https://www.gamersky.com/news/202609/2218858.shtml)
 9. [杰洛特变黑人！《巫师3重制版》大量玩家画面翻车](https://www.gamersky.com/news/202609/2219696.shtml)
 10. [《神鬼寓言4》试玩口碑超棒：画面效果很顶 性能稳定](https://www.gamersky.com/news/202609/2217601.shtml)
-11. [《巫师3重制版》开场30分钟实机演示 惊艳画质 系统革新](https://www.gamersky.com/news/202609/2218850.shtml)
-12. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+11. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+12. [《巫师3重制版》开场30分钟实机演示 惊艳画质 系统革新](https://www.gamersky.com/news/202609/2218850.shtml)
 13. [《巫师3重制版》战斗实机：大进步 肾上腺素飙升](https://www.gamersky.com/news/202609/2217630.shtml)
 14. [《真三国无双2》复刻花式迫害貂蝉 狂虐美人香消玉殒](https://www.gamersky.com/news/202609/2217394.shtml)
 15. [中国战队家门口惨遭剃光头！《无畏契约》4支队伍一分没赢 全0-2](https://www.gamersky.com/news/202609/2217850.shtml)

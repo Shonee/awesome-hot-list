@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-30 22:15:24
+> 更新时间：2026-09-30 23:15:13
 
 ## 日榜
 
@@ -8,11 +8,11 @@
 2. [微信朋友圈贷款广告突然消失、花呗白条等必须和支付工具分开展示，金融产品网络营销新规今起实施](https://www.ithome.com/1/008/586.htm)
 3. [苹果 iPhone 18 Pro 售价大涨，越来越多日本人开始考虑二手手机](https://www.ithome.com/1/008/515.htm)
 4. [宝马第八代燃油版 3 系发布：老平台 + 新外观 + 新内饰，最高可输出 437 马力](https://www.ithome.com/1/008/560.htm)
-5. [鸿蒙智行问界新 M8 开启预售：华为乾崑智驾 ADS 5、面向未来的 L3 架构设计，38.98 万元起](https://www.ithome.com/1/008/605.htm)
-6. [徐直军 10 月 1 日起当值华为轮值董事长](https://www.ithome.com/1/008/701.htm)
-7. [WPS、微信、QQ 登陆深开鸿 KaihongOS 桌面版（x86）：非容器自研技术方案，运行性能无限接近原生](https://www.ithome.com/1/008/611.htm)
-8. [古尔曼：苹果新任 CEO 特努斯着手全面改革，加快产品开发、精简管理层](https://www.ithome.com/1/008/516.htm)
+5. [余承东预热华为 Mate 90 系列旗舰新机：大家一次次选择我们，我们就得一次次拿出进步](https://www.ithome.com/1/008/903.htm)
+6. [鸿蒙智行问界新 M8 开启预售：华为乾崑智驾 ADS 5、面向未来的 L3 架构设计，38.98 万元起](https://www.ithome.com/1/008/605.htm)
+7. [徐直军 10 月 1 日起当值华为轮值董事长](https://www.ithome.com/1/008/701.htm)
+8. [WPS、微信、QQ 登陆深开鸿 KaihongOS 桌面版（x86）：非容器自研技术方案，运行性能无限接近原生](https://www.ithome.com/1/008/611.htm)
 9. [特朗普签署行政令把 AI 改叫 SI，推出美国政府对话式问答网站](https://www.ithome.com/1/008/693.htm)
-10. [余承东预热华为 Mate 90 系列旗舰新机：大家一次次选择我们，我们就得一次次拿出进步](https://www.ithome.com/1/008/903.htm)
+10. [古尔曼：苹果新任 CEO 特努斯着手全面改革，加快产品开发、精简管理层](https://www.ithome.com/1/008/516.htm)
 11. [首款鸿蒙 7+ 麒麟 9 系旗舰芯片电视：华为智慧屏 Mate TV 2 系列今日开售](https://www.ithome.com/1/008/612.htm)
 12. [同性能下最高性价比 AI 模型：OpenAI 发布 GPT-6.1 Sol，性能媲美 Astra、费用仅为 1/5](https://www.ithome.com/1/008/527.htm)
