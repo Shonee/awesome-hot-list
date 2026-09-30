@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-09-30 19:11:48
+> 更新时间：2026-09-30 20:23:17
 
 ## 24 小时热榜
 
@@ -21,19 +21,19 @@
 15. [北京九章云极科技递表港交所](https://readhub.cn/topic/8won5mxxLk9?tab=daily)
 16. [李想回应理想自研电池三方面原因 否认去宁德化](https://readhub.cn/topic/8wmw2vuK5fw?tab=daily)
 17. [字节豆包独立 App 定名小豆 正内测未公布确切上线时间](https://readhub.cn/topic/8wqN1CNHcYb?tab=daily)
-18. [我国将推进建设西南大型水电基地](https://readhub.cn/topic/8womVRHiwbA?tab=daily)
-19. [DeepSeek 开源昇腾基础组件](https://readhub.cn/topic/8wpwYQQwhv7?tab=daily)
-20. [iQOO 15 手机销量突破 200 万台](https://readhub.cn/topic/8wouGVq3y3J?tab=daily)
-21. [网宿科技：拟 3 亿元投资视频生成模型公司 Sand.ai](https://readhub.cn/topic/8wos7MKRJiZ?tab=daily)
-22. [Anthropic 招股书风险篇幅近业务两倍，大篇幅披露 AI 相关风险](https://readhub.cn/topic/8wooekJTeck?tab=daily)
+18. [DeepSeek 开源昇腾基础组件](https://readhub.cn/topic/8wpwYQQwhv7?tab=daily)
+19. [iQOO 15 手机销量突破 200 万台](https://readhub.cn/topic/8wouGVq3y3J?tab=daily)
+20. [Anthropic 招股书风险篇幅近业务两倍，大篇幅披露 AI 相关风险](https://readhub.cn/topic/8wooekJTeck?tab=daily)
+21. [OpenAI 推出 Codex 专用插件，可用自然语言 AI 制作 Game Boy 风格游戏](https://readhub.cn/topic/8wq2HPcek8P?tab=daily)
+22. [特朗普称与人工智能领袖讨论数据中心布局](https://readhub.cn/topic/8wpQP5KTCem?tab=daily)
 23. [苹果公布 iPhone Duo 预购安排 10 月 12 日可提前备单](https://readhub.cn/topic/8wpTyVKzhu4?tab=daily)
-24. [特朗普称与人工智能领袖讨论数据中心布局](https://readhub.cn/topic/8wpQP5KTCem?tab=daily)
-25. [OpenAI 推出 Codex 专用插件，可用自然语言 AI 制作 Game Boy 风格游戏](https://readhub.cn/topic/8wq2HPcek8P?tab=daily)
-26. [Anthropic 计划未来一年投入 5180 亿美元用于云服务算力及相关履约支出](https://readhub.cn/topic/8wo4mjCrXpt?tab=daily)
-27. [千里科技：子公司拟 3443.88 万元购买极氪智能驾驶相关资产](https://readhub.cn/topic/8wp6lFiE1O6?tab=daily)
-28. [比亚迪称方程豹方程 S 预订超预期 月销有望冲击 1.5 万辆](https://readhub.cn/topic/8wpnGUR7mJ6?tab=daily)
-29. [农业银行落实居民购房贷款贴息政策](https://readhub.cn/topic/8wpvqmsRcaa?tab=daily)
-30. [中国商务部：10 月 1 日起对巴西进口牛肉加征 55% 关税](https://readhub.cn/topic/8wpu4oBl0f8?tab=daily)
+24. [Anthropic 计划未来一年投入 5180 亿美元用于云服务算力及相关履约支出](https://readhub.cn/topic/8wo4mjCrXpt?tab=daily)
+25. [千里科技：子公司拟 3443.88 万元购买极氪智能驾驶相关资产](https://readhub.cn/topic/8wp6lFiE1O6?tab=daily)
+26. [比亚迪称方程豹方程 S 预订超预期 月销有望冲击 1.5 万辆](https://readhub.cn/topic/8wpnGUR7mJ6?tab=daily)
+27. [农业银行落实居民购房贷款贴息政策](https://readhub.cn/topic/8wpvqmsRcaa?tab=daily)
+28. [中国商务部：10 月 1 日起对巴西进口牛肉加征 55% 关税](https://readhub.cn/topic/8wpu4oBl0f8?tab=daily)
+29. [Kimi K3 接入 OpenAI Codex 企业通道 中国开源模型首次进入其付费结算体系](https://readhub.cn/topic/8wqS1frMi4d?tab=daily)
+30. [谷歌向免费用户开放 Gemini Skills 2026 年 11 月整合 Gems](https://readhub.cn/topic/8wpwZDqHjfY?tab=daily)
 
 ## 每日早报
 
