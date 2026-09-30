@@ -1,12 +1,12 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-30 11:17:41
+> 更新时间：2026-09-30 12:16:35
 
 ## 最有料热点
 
 1. [国庆回血计划](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366173&topic_name=%E5%9B%BD%E5%BA%86%E5%9B%9E%E8%A1%80%E8%AE%A1%E5%88%92)
-2. [男版D老师作者怒斥极端粉丝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366098&topic_name=%E7%94%B7%E7%89%88D%E8%80%81%E5%B8%88%E4%BD%9C%E8%80%85%E6%80%92%E6%96%A5%E6%9E%81%E7%AB%AF%E7%B2%89%E4%B8%9D)
-3. [8强开战!方便面巅峰对决来袭](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366034&topic_name=8%E5%BC%BA%E5%BC%80%E6%88%98%21%E6%96%B9%E4%BE%BF%E9%9D%A2%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%E6%9D%A5%E8%A2%AD)
+2. [决战4强!面王即将诞生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366183&topic_name=%E5%86%B3%E6%88%984%E5%BC%BA%21%E9%9D%A2%E7%8E%8B%E5%8D%B3%E5%B0%86%E8%AF%9E%E7%94%9F)
+3. [男版D老师作者怒斥极端粉丝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366098&topic_name=%E7%94%B7%E7%89%88D%E8%80%81%E5%B8%88%E4%BD%9C%E8%80%85%E6%80%92%E6%96%A5%E6%9E%81%E7%AB%AF%E7%B2%89%E4%B8%9D)
 4. [标枪新王诞生,吧友盛赞统治力](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366159&topic_name=%E6%A0%87%E6%9E%AA%E6%96%B0%E7%8E%8B%E8%AF%9E%E7%94%9F%2C%E5%90%A7%E5%8F%8B%E7%9B%9B%E8%B5%9E%E7%BB%9F%E6%B2%BB%E5%8A%9B)
 5. [回国捞金,华人明星疑财务爆雷](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366166&topic_name=%E5%9B%9E%E5%9B%BD%E6%8D%9E%E9%87%91%2C%E5%8D%8E%E4%BA%BA%E6%98%8E%E6%98%9F%E7%96%91%E8%B4%A2%E5%8A%A1%E7%88%86%E9%9B%B7)
 6. [闹剧结束,鲸鱼娘统一DS](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366006&topic_name=%E9%97%B9%E5%89%A7%E7%BB%93%E6%9D%9F%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E7%BB%9F%E4%B8%80DS)
@@ -33,4 +33,3 @@
 27. [抗吧锐评瓦区:饭圈赛区闹麻](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365920&topic_name=%E6%8A%97%E5%90%A7%E9%94%90%E8%AF%84%E7%93%A6%E5%8C%BA%3A%E9%A5%AD%E5%9C%88%E8%B5%9B%E5%8C%BA%E9%97%B9%E9%BA%BB)
 28. [恭喜!管泽元余霜喜得千金](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365929&topic_name=%E6%81%AD%E5%96%9C%21%E7%AE%A1%E6%B3%BD%E5%85%83%E4%BD%99%E9%9C%9C%E5%96%9C%E5%BE%97%E5%8D%83%E9%87%91)
 29. [瓶子君评无职:鲁迪至死是巨婴](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365919&topic_name=%E7%93%B6%E5%AD%90%E5%90%9B%E8%AF%84%E6%97%A0%E8%81%8C%3A%E9%B2%81%E8%BF%AA%E8%87%B3%E6%AD%BB%E6%98%AF%E5%B7%A8%E5%A9%B4)
-30. [兄弟隔58年认亲,身高差瞩目](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365961&topic_name=%E5%85%84%E5%BC%9F%E9%9A%9458%E5%B9%B4%E8%AE%A4%E4%BA%B2%2C%E8%BA%AB%E9%AB%98%E5%B7%AE%E7%9E%A9%E7%9B%AE)
