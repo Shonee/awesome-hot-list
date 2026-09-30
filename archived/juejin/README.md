@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-01 05:12:25
+> 更新时间：2026-10-01 06:12:34
 
 ## 热门文章
 
@@ -43,11 +43,11 @@
 37. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
 38. [AI Native 团队完整开发落地手册](https://juejin.cn/post/7690779187615563776)
 39. [Firebase iOS SDK 重大事故：一个 nil key 如何让全球 App 集体崩溃](https://juejin.cn/post/7690596943454699571)
-40. [为什么 Spring Boot 自动配置了 Redis，还要自己写 RedisTemplate？](https://juejin.cn/post/7690497906533138482)
-41. [我实测了前端日期的 5 个坑：差 8 小时只是开始](https://juejin.cn/post/7690463587244458035)
-42. [我把 Agent 的 while 循环拆掉了：一种你可能没想到的 Agent 架构](https://juejin.cn/post/7690413193492217856)
-43. [思考|谈谈AI时代的后端开发+QECon演讲PPT](https://juejin.cn/post/7690031273628745779)
-44. [前端已死？别急，这可能只是所有行业的开始](https://juejin.cn/post/7690545232068870153)
+40. [前端已死？别急，这可能只是所有行业的开始](https://juejin.cn/post/7690545232068870153)
+41. [为什么 Spring Boot 自动配置了 Redis，还要自己写 RedisTemplate？](https://juejin.cn/post/7690497906533138482)
+42. [我实测了前端日期的 5 个坑：差 8 小时只是开始](https://juejin.cn/post/7690463587244458035)
+43. [我把 Agent 的 while 循环拆掉了：一种你可能没想到的 Agent 架构](https://juejin.cn/post/7690413193492217856)
+44. [思考|谈谈AI时代的后端开发+QECon演讲PPT](https://juejin.cn/post/7690031273628745779)
 45. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://juejin.cn/post/7690869043603292206)
 46. [Android APK安全防护](https://juejin.cn/post/7690744409042206760)
 47. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)

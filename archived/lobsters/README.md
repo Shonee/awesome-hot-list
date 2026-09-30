@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-01 05:13:23
+> 更新时间：2026-10-01 06:13:42
 
 ## Hottest
 
@@ -16,16 +16,16 @@
 10. [Coding is not solved](https://blog.alexewerlof.com/p/coding-is-not-solved)
 11. [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
 12. [CoW — a stacking window manager for Wayland](https://cow-wm.codeberg.page/cow/)
-13. [Branch Target Reuse: Spectre-v2 Attacks in JIT Engines](https://www.vusec.net/projects/btr/)
-14. [Two Kinds of SQL Query Builders](https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders)
-15. [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
-16. [Dirty Optimization Secrets (C for Playdate)](https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011)
-17. [A no-cost audio upgrade for my workstation](https://mit.teil.space/rane-sl3.html)
-18. [The Only Intuitive Interface Is The Nipple](https://www.greenend.org.uk/rjk/misc/nipple.html)
-19. [Qt 6.12 LTS Released](https://www.qt.io/blog/qt-6.12-released)
-20. [Hardly Promethean](https://jardo.dev/hardly-promethean)
-21. [attezt: device attestation, PKCS11 and ACME](https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30)
-22. [Nura (postmarketOS): The road to daily-drivable mainline phones](https://postmarketos.org/blog/2026/09/29/road-to-main-category/)
-23. [Aho-Corasick Algorithm](https://compiler.club/aho-corasick/)
-24. [Back to Backups: A Year in Review](https://signal.org/blog/backup-improvements/)
-25. [Join Ordering, Part 1: The Shape of the Search Space](https://deferworks.org/posts/join-ordering/)
+13. [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
+14. [Branch Target Reuse: Spectre-v2 Attacks in JIT Engines](https://www.vusec.net/projects/btr/)
+15. [Two Kinds of SQL Query Builders](https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders)
+16. [We used a database as a message queue. Now we use Kafka](https://www.tigrisdata.com/blog/quick-fdb-kafka/)
+17. [Dirty Optimization Secrets (C for Playdate)](https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011)
+18. [A no-cost audio upgrade for my workstation](https://mit.teil.space/rane-sl3.html)
+19. [The Only Intuitive Interface Is The Nipple](https://www.greenend.org.uk/rjk/misc/nipple.html)
+20. [Qt 6.12 LTS Released](https://www.qt.io/blog/qt-6.12-released)
+21. [Hardly Promethean](https://jardo.dev/hardly-promethean)
+22. [attezt: device attestation, PKCS11 and ACME](https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30)
+23. [Nura (postmarketOS): The road to daily-drivable mainline phones](https://postmarketos.org/blog/2026/09/29/road-to-main-category/)
+24. [Aho-Corasick Algorithm](https://compiler.club/aho-corasick/)
+25. [Back to Backups: A Year in Review](https://signal.org/blog/backup-improvements/)
