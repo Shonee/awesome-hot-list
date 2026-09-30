@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-09-30 17:43:08
+> 更新时间：2026-09-30 18:14:38
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [苹果 iPhone 18 Pro 售价大涨，越来越多日本人开始考虑二手手机](https://www.ithome.com/1/008/515.htm)
 9. [宝马第八代燃油版 3 系发布：老平台 + 新外观 + 新内饰，最高可输出 437 马力](https://www.ithome.com/1/008/560.htm)
 10. [DeepSeek Harness 桌面端预览版 v0.2 发布，支持插件安装与自动化任务](https://www.ithome.com/1/008/469.htm)
-11. [古尔曼：苹果新任 CEO 特努斯着手全面改革，加快产品开发、精简管理层](https://www.ithome.com/1/008/516.htm)
-12. [WPS、微信、QQ 登陆深开鸿 KaihongOS 桌面版（x86）：非容器自研技术方案，运行性能无限接近原生](https://www.ithome.com/1/008/611.htm)
+11. [WPS、微信、QQ 登陆深开鸿 KaihongOS 桌面版（x86）：非容器自研技术方案，运行性能无限接近原生](https://www.ithome.com/1/008/611.htm)
+12. [鸿蒙智行问界新 M8 开启预售：华为乾崑智驾 ADS 5、面向未来的 L3 架构设计，38.98 万元起](https://www.ithome.com/1/008/605.htm)

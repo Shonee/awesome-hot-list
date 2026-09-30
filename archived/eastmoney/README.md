@@ -1,13 +1,13 @@
 # 东方财富热榜
 
-> 更新时间：2026-09-30 17:43:16
+> 更新时间：2026-09-30 18:15:07
 
 ## 股票人气榜
 
 1. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
 2. [N力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
-3. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
-4. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
+3. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
+4. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
 5. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 6. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 7. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)

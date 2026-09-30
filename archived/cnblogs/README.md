@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-30 17:13:51
+> 更新时间：2026-09-30 18:13:51
 
 ## 最新帖子
 
-1. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
-2. [Java线程池总结](https://www.cnblogs.com/xiexj/p/23172454)
-3. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
-4. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
-5. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
-6. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
-7. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
-8. [CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏](https://www.cnblogs.com/jacklu/p/23167934)
-9. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
-10. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
-11. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
-12. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
-13. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
-14. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
-15. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
-16. [解决 brew install 慢：换用清华镜像源](https://www.cnblogs.com/jyzhao/p/23164615)
-17. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
-18. [FreeRADIUS + 华为AC/AP + 802.1X/WPA2-Enterprise 无线认证对接部署完整指南](https://www.cnblogs.com/Johny-zhao/p/23162864)
-19. [go语言中结构体匿名字段和嵌套结构体(继承)](https://www.cnblogs.com/ishoulgodo/p/23148807)
-20. [Windows 下 CLI 参数的引号陷阱：为什么 --resume 'uuid' 会失败](https://www.cnblogs.com/foxcharon/p/23162504)
+1. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
+2. [Linux服务器网络流量控制（内核流控模块Traffic Control）](https://www.cnblogs.com/nanxi-xz/p/23173815)
+3. [Hello-Agents——第一章 初识智能体](https://www.cnblogs.com/shizhe99/p/23145666)
+4. [Java转go，我用了12小时，10小时在解决环境问题](https://www.cnblogs.com/xiexj/p/23173554)
+5. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
+6. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
+7. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
+8. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
+9. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
+10. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
+11. [CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏](https://www.cnblogs.com/jacklu/p/23167934)
+12. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
+13. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
+14. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
+15. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
+16. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
+17. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
+18. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
+19. [解决 brew install 慢：换用清华镜像源](https://www.cnblogs.com/jyzhao/p/23164615)
+20. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
 2. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
 3. [C# .NET 周刊 ｜2026 年 9 月 1 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_1)
-4. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
-5. [公司发展到一定阶段，到底要不要封装中间件](https://www.cnblogs.com/zhangs1986/p/23056721)
-6. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
+4. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
+5. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
+6. [公司发展到一定阶段，到底要不要封装中间件](https://www.cnblogs.com/zhangs1986/p/23056721)
