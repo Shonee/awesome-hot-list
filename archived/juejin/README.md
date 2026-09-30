@@ -1,21 +1,21 @@
 # 掘金热榜
 
-> 更新时间：2026-09-30 20:22:59
+> 更新时间：2026-09-30 20:54:45
 
 ## 热门文章
 
 1. [突发！字节内部大调整，QA直接转研发了？](https://juejin.cn/post/7689818941397778478)
 2. [漫话大模型：7 家中国公司被点名「蒸馏」，他们到底偷走了什么？](https://juejin.cn/post/7690769804492341298)
 3. [用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录](https://juejin.cn/post/7690497704220196883)
-4. [2026年，你终于可以在 `<textarea>` 里定位任意字符了](https://juejin.cn/post/7690190550998007827)
-5. [读懂LangGraph 的分支执行逻辑](https://juejin.cn/post/7690468159975637038)
+4. [读懂LangGraph 的分支执行逻辑](https://juejin.cn/post/7690468159975637038)
+5. [2026年，你终于可以在 `<textarea>` 里定位任意字符了](https://juejin.cn/post/7690190550998007827)
 6. [Flutter 多窗口重要优化合并，多窗口性能和实用性大幅提升](https://juejin.cn/post/7690393223730642980)
 7. [DeepSeek Harness 出了桌面端？我把它扒了一遍](https://juejin.cn/post/7690197651808616502)
 8. [我重写了整个项目，但没人感谢我！](https://juejin.cn/post/7690869176362270729)
 9. [同样用 Element Plus，为什么你的后台总有一股“模板味”？](https://juejin.cn/post/7690405198255325234)
 10. [我排查了一下午，发现项目打包体积翻倍的元凶是它](https://juejin.cn/post/7690614916369252387)
-11. [画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词](https://juejin.cn/post/7690197651807633462)
-12. [ZCode 可以自己看微信小程序了](https://juejin.cn/post/7690010257952178218)
+11. [ZCode 可以自己看微信小程序了](https://juejin.cn/post/7690010257952178218)
+12. [画 AI 漫画，别只会写“日漫风”：10 种画风、适用故事和可复制提示词](https://juejin.cn/post/7690197651807633462)
 13. [《HelloGitHub》第 126 期](https://juejin.cn/post/7689599510956507136)
 14. [再见了 WebUI，DeepSeek 桌面版真不错。](https://juejin.cn/post/7690490511467544602)
 15. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
@@ -37,10 +37,10 @@
 31. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
 32. [如果你在做 RAG，可能会需要 pdf-inspector](https://juejin.cn/post/7689883764008386598)
 33. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
-34. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
-35. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
-36. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
-37. [Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？](https://juejin.cn/post/7691030977347207231)
+34. [Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？](https://juejin.cn/post/7691030977347207231)
+35. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
+36. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
+37. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
 38. [AI Native 团队完整开发落地手册](https://juejin.cn/post/7690779187615563776)
 39. [Firebase iOS SDK 重大事故：一个 nil key 如何让全球 App 集体崩溃](https://juejin.cn/post/7690596943454699571)
 40. [干了 6 年前端，我是怎么一步步转型到 AI 的？](https://juejin.cn/post/7690468159976701998)

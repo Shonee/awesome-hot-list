@@ -1,13 +1,13 @@
 # 汽车之家热榜
 
-> 更新时间：2026-09-30 20:23:29
+> 更新时间：2026-09-30 20:55:18
 
 ## 每日热点榜
 
 1. [全新宝马3系燃油版官图](http://www.autohome.com.cn/news/202609/1317507.html)
 2. [新款问界M8开启预售](http://www.autohome.com.cn/news/202609/1317508.html)
 3. [现代艾尼氪V上市9.99万起](http://www.autohome.com.cn/news/202609/1317501.html)
-4. [大众全球召回近400万辆汽车](http://www.autohome.com.cn/news/202609/1317496.html)
+4. [纯电路虎揽胜运动版正式亮相](https://chejiahao.autohome.com.cn/info/26576298#pvareaid=6834132)
 5. [鸿蒙智行2027新车规划曝光](http://www.autohome.com.cn/news/202609/1317465.html)
 6. [iCAR V27长续航版上市](http://www.autohome.com.cn/news/202609/1317516.html)
 7. [全新宝马i3 40 xDrive推出](http://www.autohome.com.cn/news/202609/1317509.html)
@@ -20,11 +20,9 @@
 14. [捷达M6开启预售](http://www.autohome.com.cn/news/202609/1317458.html)
 15. [大众将停产ID.4和ID.5](https://chejiahao.autohome.com.cn/info/26565308#pvareaid=6834132)
 16. [北汽原董事长徐和谊一审被判死缓](https://chejiahao.autohome.com.cn/info/26557921#pvareaid=6834132)
-17. [问界充电权益接入逸安启超充网络](https://chejiahao.autohome.com.cn/info/26575646#pvareaid=6834132)
-18. [神龙科技与Momenta达成全球战略合作](http://www.autohome.com.cn/news/202609/1317460.html)
+17. [神龙科技与Momenta达成全球战略合作](http://www.autohome.com.cn/news/202609/1317460.html)
+18. [问界充电权益接入逸安启超充网络](https://chejiahao.autohome.com.cn/info/26575646#pvareaid=6834132)
 19. [2027款纵横G700上市30.49万起](http://www.autohome.com.cn/news/202609/1317505.html)
-20. [问界M9交付突破4万台](https://chejiahao.autohome.com.cn/info/26580975#pvareaid=6834132)
-21. [新款宝马5系入门版跌破30万](https://chejiahao.autohome.com.cn/info/26556990#pvareaid=6834132)
-22. [鸿蒙智行智界V9国庆OTA上线](https://chejiahao.autohome.com.cn/info/26571040#pvareaid=6834132)
-23. [9月汽车经销商库存预警指数偏高](https://chejiahao.autohome.com.cn/info/26576691#pvareaid=6834132)
-24. [千里科技收购极氪智驾资产](https://chejiahao.autohome.com.cn/info/26577152#pvareaid=6834132)
+20. [新款宝马5系入门版跌破30万](https://chejiahao.autohome.com.cn/info/26556990#pvareaid=6834132)
+21. [鸿蒙智行智界V9国庆OTA上线](https://chejiahao.autohome.com.cn/info/26571040#pvareaid=6834132)
+22. [千里科技收购极氪智驾资产](https://chejiahao.autohome.com.cn/info/26577152#pvareaid=6834132)

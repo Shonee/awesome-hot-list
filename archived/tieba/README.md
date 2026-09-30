@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-09-30 20:23:45
+> 更新时间：2026-09-30 20:55:33
 
 ## 最有料热点
 
@@ -31,6 +31,5 @@
 25. [星舰第14飞成功入轨](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366022&topic_name=%E6%98%9F%E8%88%B0%E7%AC%AC14%E9%A3%9E%E6%88%90%E5%8A%9F%E5%85%A5%E8%BD%A8)
 26. [Xun怒喊48,Bin哥躺枪](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365997&topic_name=Xun%E6%80%92%E5%96%8A48%2CBin%E5%93%A5%E8%BA%BA%E6%9E%AA)
 27. [自立门户,电竞项目退出亚运](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365977&topic_name=%E8%87%AA%E7%AB%8B%E9%97%A8%E6%88%B7%2C%E7%94%B5%E7%AB%9E%E9%A1%B9%E7%9B%AE%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90)
-28. [DS形象之争:鲸鱼娘还是高智男?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365955&topic_name=DS%E5%BD%A2%E8%B1%A1%E4%B9%8B%E4%BA%89%3A%E9%B2%B8%E9%B1%BC%E5%A8%98%E8%BF%98%E6%98%AF%E9%AB%98%E6%99%BA%E7%94%B7%3F)
-29. [JDG遭FUT零封,CN瓦全军覆没](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365965&topic_name=JDG%E9%81%ADFUT%E9%9B%B6%E5%B0%81%2CCN%E7%93%A6%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
-30. [16强次日赛开启,面王称号花落谁家](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365972&topic_name=16%E5%BC%BA%E6%AC%A1%E6%97%A5%E8%B5%9B%E5%BC%80%E5%90%AF%2C%E9%9D%A2%E7%8E%8B%E7%A7%B0%E5%8F%B7%E8%8A%B1%E8%90%BD%E8%B0%81%E5%AE%B6)
+28. [JDG遭FUT零封,CN瓦全军覆没](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365965&topic_name=JDG%E9%81%ADFUT%E9%9B%B6%E5%B0%81%2CCN%E7%93%A6%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
+29. [DS形象之争:鲸鱼娘还是高智男?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365955&topic_name=DS%E5%BD%A2%E8%B1%A1%E4%B9%8B%E4%BA%89%3A%E9%B2%B8%E9%B1%BC%E5%A8%98%E8%BF%98%E6%98%AF%E9%AB%98%E6%99%BA%E7%94%B7%3F)
