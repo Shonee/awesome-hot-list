@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-09-30 10:23:58
+> 更新时间：2026-09-30 11:17:20
 
 ## 热新闻
 
@@ -21,6 +21,6 @@
 15. [多地“限高”份子钱，倡导农村人情随礼不超过100元](https://www.thepaper.cn/newsDetail_forward_34171887)
 16. [国企员工醉驾碾压拖行女教师5.9公里致死，5人涉嫌故意杀人被诉](https://www.thepaper.cn/newsDetail_forward_34171216)
 17. [“女教师被拖行5.9公里致死”案将提级审理，死者妹妹发声](https://www.thepaper.cn/newsDetail_forward_34171579)
-18. [言短意长｜不要轻易用“职称”定义一位老师](https://www.thepaper.cn/newsDetail_forward_34170330)
-19. [贵州警方通报：19岁男子凌晨酒驾超载追尾半挂车致7人死亡](https://www.thepaper.cn/newsDetail_forward_34170052)
-20. [那英演唱会临时加唱《弯弯的月亮》，当地文旅局：调查核实中](https://www.thepaper.cn/newsDetail_forward_34169865)
+18. [中国女足不敌朝鲜，无缘亚运决赛](https://www.thepaper.cn/newsDetail_forward_34170988)
+19. [言短意长｜不要轻易用“职称”定义一位老师](https://www.thepaper.cn/newsDetail_forward_34170330)
+20. [澎湃漫评｜“一年举报1520次”就该及时叫停](https://www.thepaper.cn/newsDetail_forward_34171996)

@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-30 10:24:07
+> 更新时间：2026-09-30 11:17:26
 
 ## 新闻热榜
 
@@ -28,22 +28,22 @@
 ## 财经热榜
 
 1. [操盘必读：影响股市利好或利空消息_2026年9月30日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-30/doc-initqefr2556199.shtml)
-2. [人民日报刊文：让房地产真正回到“住”上来](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr2424727.shtml)
-3. [超强厄尔尼诺事件预计将于11月前后形成](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr5866308.shtml)
-4. [美国计划通过“互换”释放4000万桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxi7262640.shtml)
-5. [A股利好！又一批增持回购来了](https://finance.sina.com.cn/roll/2026-09-30/doc-initqeff7175305.shtml)
-6. [9月30日收盘：三大指数收跌 国债收益率续创多年新高](https://finance.sina.com.cn/world/2026-09-30/doc-initpxxt2613336.shtml)
-7. [霍尔木兹海峡大消息，又有船只遇袭！伊朗：波斯湾已无美国军舰，其已撤至入口500公里开外](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initppiv6014760.shtml)
-8. [财经早报丨财政部、央行等首次给房贷贴息！100万最高省5万，伊朗股市一天涨了130000点丨2026年9月30日](https://finance.sina.com.cn/stock/y/2026-09-30/doc-initqeff7159199.shtml)
-9. [A股十年国庆假期“日历效应”透视](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2305832.shtml)
+2. [A股利好！又一批增持回购来了](https://finance.sina.com.cn/roll/2026-09-30/doc-initqeff7175305.shtml)
+3. [人民日报刊文：让房地产真正回到“住”上来](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr2424727.shtml)
+4. [霍尔木兹海峡大消息，又有船只遇袭！伊朗：波斯湾已无美国军舰，其已撤至入口500公里开外](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initppiv6014760.shtml)
+5. [超强厄尔尼诺事件预计将于11月前后形成](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr5866308.shtml)
+6. [美国计划通过“互换”释放4000万桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxi7262640.shtml)
+7. [23年后，美军灰溜溜走了，伊拉克全国放假四天](https://finance.sina.com.cn/roll/2026-09-30/doc-initqeff7161476.shtml)
+8. [A股十年国庆假期“日历效应”透视](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2305832.shtml)
+9. [停牌前涨停，002813，控股权或变更！明年涨价121%？供应吃紧，机构上调HBM价格展望（附股）](https://finance.sina.com.cn/stock/roll/2026-09-30/doc-initqefp5786175.shtml)
 10. [俄方：希望伊朗不要退出](https://finance.sina.com.cn/wm/2026-09-30/doc-initqefp2324513.shtml)
-11. [股海导航_2026年9月30日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-09-30/doc-initqeff7160211.shtml)
-12. [卡塔尔内政部：卡塔尔将允许在指定区域使用无人机。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5940517.shtml)
-13. [美国众议院议长约翰逊：我们能够以安全方式保持竞争优势。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5951025.shtml)
-14. [加拿大总理卡尼：加拿大液化天然气项目二期扩建工程耗资 330 亿加元。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrv2699278.shtml)
-15. [预告：国务院台湾事务办公室9月30日举行新闻发布会](https://finance.sina.com.cn/7x24/2026-09-30/doc-initqefp5829198.shtml)
-16. [23年后，美军灰溜溜走了，伊拉克全国放假四天](https://finance.sina.com.cn/roll/2026-09-30/doc-initqeff7161476.shtml)
-17. [美国众议院议长约翰逊：人工智能行业的承诺是自愿的。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initptrt5950770.shtml)
-18. [美联储穆萨莱姆：负面供给冲击可能会更加频繁。](https://finance.sina.com.cn/7x24/2026-09-30/doc-initppix2818163.shtml)
-19. [9月30日美股成交额前20：美光涨超1%，将于周三盘后公布Q4财报](https://finance.sina.com.cn/world/2026-09-30/doc-initpxxi7264118.shtml)
-20. [黄仁勋和马斯克将在白宫人工智能午餐会上分坐特朗普左右](https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initppiv2603438.shtml)
+11. [财经早报丨财政部、央行等首次给房贷贴息！100万最高省5万，伊朗股市一天涨了130000点丨2026年9月30日](https://finance.sina.com.cn/stock/y/2026-09-30/doc-initqeff7159199.shtml)
+12. [9月30日收盘：三大指数收跌 国债收益率续创多年新高](https://finance.sina.com.cn/world/2026-09-30/doc-initpxxt2613336.shtml)
+13. [股海导航_2026年9月30日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-09-30/doc-initqeff7160211.shtml)
+14. [合肥飞往大连航班上，有空姐跪地道歉？东航客服回应：高度重视](https://finance.sina.com.cn/wm/2026-09-30/doc-initqeff7158506.shtml)
+15. [特朗普会见多家科企负责人 签署人工智能相关文件](https://finance.sina.com.cn/roll/2026-09-30/doc-initpxxr2433470.shtml)
+16. [四大证券报头版头条内容精华摘要_2026年9月30日_财经新闻](https://finance.sina.com.cn/stock/y/2026-09-30/doc-initqefr2551137.shtml)
+17. [SpaceX星舰溅落时发生剧烈爆炸画面曝光](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2321630.shtml)
+18. [豪掷246亿元！500亿龙头国轩高科联手大众扩产](https://finance.sina.com.cn/stock/auto/2026-09-30/doc-initqefr2569479.shtml)
+19. [10月1日起符合条件的居民房贷可享贴息](https://finance.sina.com.cn/stock/estate/2026-09-30/doc-initpxxi7265250.shtml)
+20. [每分钟就有1人因这种病死亡，出现这些症状，千万别拖](https://finance.sina.com.cn/roll/2026-09-30/doc-initqefp5803923.shtml)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-09-30 10:23:49
+> 更新时间：2026-09-30 11:17:14
 
 ## 最新帖子
 
-1. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
-2. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
-3. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
-4. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
-5. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
-6. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
-7. [解决 brew install 慢：换用清华镜像源](https://www.cnblogs.com/jyzhao/p/23164615)
-8. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
-9. [FreeRADIUS + 华为AC/AP + 802.1X/WPA2-Enterprise 无线认证对接部署完整指南](https://www.cnblogs.com/Johny-zhao/p/23162864)
-10. [go语言中结构体匿名字段和嵌套结构体(继承)](https://www.cnblogs.com/ishoulgodo/p/23148807)
-11. [Windows 下 CLI 参数的引号陷阱：为什么 --resume 'uuid' 会失败](https://www.cnblogs.com/foxcharon/p/23162504)
-12. [Delay_us 与 Delay_ms：用 SysTick 做一把可靠的时间尺](https://www.cnblogs.com/zw-awa/p/23161857)
-13. [Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS>0 消息后客户端主动断连问题排查复盘](https://www.cnblogs.com/SheepDog/p/23160844)
-14. [并发编程（六）：Atomic 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23160403)
-15. [关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉](https://www.cnblogs.com/ahfuzhang/p/23160145)
-16. [VS2019 for mac里用c#开发Mac OS应用 重要过程](https://www.cnblogs.com/canbloom/p/23158971)
-17. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
-18. [dsh插件开发踩坑实录(写给正在build dsh插件的ai agent)](https://www.cnblogs.com/borui-coding-diary/p/23157248/dsh-plugin-dev-experience)
-19. [用Pandas+Pydantic搭建数据清洗与验证管道](https://www.cnblogs.com/wang_yb/p/23155666)
-20. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
+1. [Java的强引用、软引用、弱引用、虚引用](https://www.cnblogs.com/xiexj/p/23167911)
+2. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
+3. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
+4. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
+5. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
+6. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
+7. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
+8. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
+9. [解决 brew install 慢：换用清华镜像源](https://www.cnblogs.com/jyzhao/p/23164615)
+10. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
+11. [FreeRADIUS + 华为AC/AP + 802.1X/WPA2-Enterprise 无线认证对接部署完整指南](https://www.cnblogs.com/Johny-zhao/p/23162864)
+12. [go语言中结构体匿名字段和嵌套结构体(继承)](https://www.cnblogs.com/ishoulgodo/p/23148807)
+13. [Windows 下 CLI 参数的引号陷阱：为什么 --resume 'uuid' 会失败](https://www.cnblogs.com/foxcharon/p/23162504)
+14. [Delay_us 与 Delay_ms：用 SysTick 做一把可靠的时间尺](https://www.cnblogs.com/zw-awa/p/23161857)
+15. [Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS>0 消息后客户端主动断连问题排查复盘](https://www.cnblogs.com/SheepDog/p/23160844)
+16. [并发编程（六）：Atomic 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23160403)
+17. [关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉](https://www.cnblogs.com/ahfuzhang/p/23160145)
+18. [VS2019 for mac里用c#开发Mac OS应用 重要过程](https://www.cnblogs.com/canbloom/p/23158971)
+19. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
+20. [dsh插件开发踩坑实录(写给正在build dsh插件的ai agent)](https://www.cnblogs.com/borui-coding-diary/p/23157248/dsh-plugin-dev-experience)
 
 ## 精华帖子
 
