@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-09-30 13:14:17
+> 更新时间：2026-09-30 14:23:09
 
 ## 热点榜
 
@@ -16,11 +16,11 @@
 10. [从“陪你聊天”到“帮你干活”，AI发展还会带来哪些新变化？](https://view.inews.qq.com/a/20260930A04J1G00)
 11. [北京辟谣 │弹力袜是静脉曲张的“治疗神器”?2026年9月“科学”流言榜发布](https://mp.weixin.qq.com/s/YJ60kcTbLidJPrjG_BEtJg)
 12. [中央批准，王云鹏履新职](https://view.inews.qq.com/a/20260930A041XH00)
-13. [金与正回应地雷爆炸事件](https://view.inews.qq.com/a/20260930A021SX00)
-14. [17岁少年在大兴安岭采松塔时迷路，徒步8天8夜靠喝山泉水撑下来，体重暴降20斤；身上没有任何补给和通信工具](https://view.inews.qq.com/a/20260930A02IPA00)
-15. [一图世界｜11月前后或形成，“最强的超强厄尔尼诺”意味着什么？](https://view.inews.qq.com/a/20260930A01WVQ00)
-16. [8年赚16亿！奥斯卡：海港给我世界第一高薪 还有很多钱在中国没取](https://view.inews.qq.com/a/20260930A01NTU00)
-17. [10月起，这些新规将影响你我生活](https://view.inews.qq.com/a/20260930A01RXV00)
-18. [56岁武契奇：辞职不退场](https://view.inews.qq.com/a/20260930A025F700)
-19. [俄罗斯接管麦德龙在俄资产](https://view.inews.qq.com/a/20260929A09F8C00)
-20. [7000天技术演进！iPhone 18 Pro拆出2nm真身](https://view.inews.qq.com/a/20260929A0BYH700)
+13. [17岁少年在大兴安岭采松塔时迷路，徒步8天8夜靠喝山泉水撑下来，体重暴降20斤；身上没有任何补给和通信工具](https://view.inews.qq.com/a/20260930A02IPA00)
+14. [金与正回应地雷爆炸事件](https://view.inews.qq.com/a/20260930A021SX00)
+15. [8年赚16亿！奥斯卡：海港给我世界第一高薪 还有很多钱在中国没取](https://view.inews.qq.com/a/20260930A01NTU00)
+16. [56岁武契奇：辞职不退场](https://view.inews.qq.com/a/20260930A025F700)
+17. [“你不喂母乳容易得乳腺癌”，浙江一宝妈月薪万元请育儿嫂照顾孩子，遭对方言语贬低半年情绪多次崩溃：就想要一个道歉](https://view.inews.qq.com/a/20260930A05Y5Q00)
+18. [部长张柱带来一个好消息](https://view.inews.qq.com/a/20260929A08CEY00)
+19. [10月起，这些新规将影响你我生活](https://view.inews.qq.com/a/20260930A01RXV00)
+20. [俄罗斯接管麦德龙在俄资产](https://view.inews.qq.com/a/20260929A09F8C00)
