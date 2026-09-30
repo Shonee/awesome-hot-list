@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-09-30 20:54:50
+> 更新时间：2026-09-30 21:41:00
 
 ## 最新帖子
 
@@ -54,5 +54,5 @@
 2. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
 3. [C# .NET 周刊 ｜2026 年 9 月 1 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_1)
 4. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
-5. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
-6. [公司发展到一定阶段，到底要不要封装中间件](https://www.cnblogs.com/zhangs1986/p/23056721)
+5. [公司发展到一定阶段，到底要不要封装中间件](https://www.cnblogs.com/zhangs1986/p/23056721)
+6. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)

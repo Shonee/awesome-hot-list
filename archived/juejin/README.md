@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-09-30 20:54:45
+> 更新时间：2026-09-30 21:40:55
 
 ## 热门文章
 
@@ -24,8 +24,8 @@
 18. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
 19. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
 20. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
-21. [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898)
-22. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
+21. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
+22. [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898)
 23. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
 24. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
 25. [从零实现一个带虚拟滚动的 Select](https://juejin.cn/post/7689656350306959406)
@@ -33,11 +33,11 @@
 27. [王者荣耀日志组件BqLog为什么这么快之1——高性能实时压缩日志](https://juejin.cn/post/7690401920711655467)
 28. [Agent 如何拥有长期记忆：六个主流项目的设计思路对比](https://juejin.cn/post/7690197651807535158)
 29. [把 WorkBuddy 每日签到搬上云端](https://juejin.cn/post/7690056198372376627)
-30. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
-31. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
-32. [如果你在做 RAG，可能会需要 pdf-inspector](https://juejin.cn/post/7689883764008386598)
-33. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
-34. [Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？](https://juejin.cn/post/7691030977347207231)
+30. [Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？](https://juejin.cn/post/7691030977347207231)
+31. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+32. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
+33. [如果你在做 RAG，可能会需要 pdf-inspector](https://juejin.cn/post/7689883764008386598)
+34. [以餐厅后厨为例讲清楚AI十大技术概念](https://juejin.cn/post/7689740291688562703)
 35. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
 36. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
 37. [自定义View在复杂业务场景中的实战](https://juejin.cn/post/7689742195037143091)
