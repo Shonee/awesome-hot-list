@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-01 06:12:34
+> 更新时间：2026-10-01 07:12:43
 
 ## 热门文章
 
@@ -24,10 +24,10 @@
 18. [AI时代最大的红利：个人做量化，也能开发出一套适合你的策略](https://juejin.cn/post/7690110881577304079)
 19. [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547)
 20. [栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...](https://juejin.cn/post/7689866047096602666)
-21. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
-22. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
-23. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
-24. [Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？](https://juejin.cn/post/7691030977347207231)
+21. [Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？](https://juejin.cn/post/7691030977347207231)
+22. [Next.js+LangGraph.js+ 简历工具AI Agent完整落地](https://juejin.cn/post/7690205250238103567)
+23. [王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线](https://juejin.cn/post/7690159620451811337)
+24. [IT风云录 03 | 大公司里老技术部之困境](https://juejin.cn/post/7689883764008239142)
 25. [Android 架构指南：suspend 如何响应取消？别再给 Repository 加 `cancel()`](https://juejin.cn/post/7690463587244687411)
 26. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
 27. [王者荣耀日志组件BqLog为什么这么快之1——高性能实时压缩日志](https://juejin.cn/post/7690401920711655467)
