@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-09-30 23:15:09
+> 更新时间：2026-10-01 00:15:56
 
 ## 新闻热榜
 
@@ -37,13 +37,13 @@
 8. [俄方警告：准备动用一切手段，包括核武器](https://finance.sina.com.cn/roll/2026-09-30/doc-initqqvi2171070.shtml)
 9. [航班上餐车碰到男子手肘，空姐下跪道歉后还被要求踹一脚，目击者称空姐跪了两三次，东航客服回应](https://finance.sina.com.cn/roll/2026-09-30/doc-initqvcf5725244.shtml)
 10. [停牌前涨停，002813，控股权或变更！明年涨价121%？供应吃紧，机构上调HBM价格展望（附股）](https://finance.sina.com.cn/stock/roll/2026-09-30/doc-initqefp5786175.shtml)
-11. [操盘必读：影响股市利好或利空消息_2026年9月30日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-30/doc-initqefr2556199.shtml)
-12. [“数额特别巨大”，易会满涉嫌受贿案被提起公诉（附简历）](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqkpm2257879.shtml)
+11. [“数额特别巨大”，易会满涉嫌受贿案被提起公诉（附简历）](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqkpm2257879.shtml)
+12. [操盘必读：影响股市利好或利空消息_2026年9月30日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-09-30/doc-initqefr2556199.shtml)
 13. [俄方：希望伊朗不要退出](https://finance.sina.com.cn/wm/2026-09-30/doc-initqefp2324513.shtml)
-14. [超强厄尔尼诺事件预计将于11月前后形成](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr5866308.shtml)
-15. [SpaceX星舰溅落时发生剧烈爆炸画面曝光](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2321630.shtml)
+14. [SpaceX星舰溅落时发生剧烈爆炸画面曝光](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2321630.shtml)
+15. [超强厄尔尼诺事件预计将于11月前后形成](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxr5866308.shtml)
 16. [美国计划通过“互换”释放4000万桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initpxxi7262640.shtml)
 17. [豪掷246亿元！500亿龙头国轩高科联手大众扩产](https://finance.sina.com.cn/stock/auto/2026-09-30/doc-initqefr2569479.shtml)
 18. [A股十年国庆假期“日历效应”透视](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqefp2305832.shtml)
 19. [全球镍产业龙头！中国最大的镍矿贸易商今日上市](https://finance.sina.com.cn/stock/relnews/cn/2026-09-30/doc-initqefr2536835.shtml)
-20. [AMD收购李飞飞公司背后：AI芯片巨头“抢”AI定义权？](https://finance.sina.com.cn/roll/2026-09-30/doc-initqefp2309269.shtml)
+20. [还原迪拜航空发劫机代码事件 副机长刀刺机长欲撞毁飞机](https://finance.sina.com.cn/jjxw/2026-09-30/doc-initrfsz1977059.shtml)
