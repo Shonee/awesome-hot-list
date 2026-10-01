@@ -3,7 +3,7 @@
 from src.utils.http_utils import get
 
 from ..models import HotItem, Ranking
-from .common import clean_html, snapshot
+from .common import clean_html, snapshot, unavailable
 
 
 API_URL = "https://jandan.net/api/top/4hr"
@@ -51,7 +51,10 @@ def parse_rank(payload: dict) -> list[HotItem]:
 
 
 def collect() -> "ChannelSnapshot":
+    items = parse_rank(get(API_URL, res_type="json"))
+    if not items:
+        return unavailable("jandan", "煎蛋 4 小时热门未返回有效数据")
     return snapshot(
         "jandan",
-        [Ranking("4hr", "4小时热门", parse_rank(get(API_URL, res_type="json")), SOURCE_URL, "煎蛋官方", SOURCE_URL)],
+        [Ranking("4hr", "4小时热门", items, SOURCE_URL, "煎蛋官方", SOURCE_URL)],
     )
