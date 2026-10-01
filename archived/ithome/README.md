@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-01 14:59:12
+> 更新时间：2026-10-01 15:49:23
 
 ## 日榜
 
@@ -13,6 +13,6 @@
 7. [华为 Mate 90 Pro 手机首发麒麟 9035 旗舰 τ 芯片，对比麒麟 9030 处理器 NPU 提升 51%](https://www.ithome.com/1/009/001.htm)
 8. [华为新品 12:08 正式开抢：Mate 90 / Pro / Pro Max / RS 12 期免息](https://www.ithome.com/1/009/026.htm)
 9. [华为余承东：Mate 90 系列是中国半导体行业的时代答卷，也是中国操作系统产业的创新答卷](https://www.ithome.com/1/009/035.htm)
-10. [华为 Mate 90 标准版手机官宣搭载麒麟 9030 旗舰 τ 芯片](https://www.ithome.com/1/008/999.htm)
-11. [vivo X500 手机新增 16GB+512GB 版本，6499 元](https://www.ithome.com/1/008/761.htm)
-12. [微软 Win11 27H2 前瞻：预计将基于全新 Strontium 平台，Win12 仍难现身](https://www.ithome.com/1/008/943.htm)
+10. [2026 年 9 月汽车销量 / 交付汇总（持续更新）：鸿蒙智行 37,490 辆](https://www.ithome.com/1/008/990.htm)
+11. [华为 Mate 90 标准版手机官宣搭载麒麟 9030 旗舰 τ 芯片](https://www.ithome.com/1/008/999.htm)
+12. [eSIM + 实体卡：华为 Mate 90 Pro Max 旗舰手机官宣业界首发四卡三待功能](https://www.ithome.com/1/009/005.htm)
