@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-01 20:20:55
+> 更新时间：2026-10-01 20:51:36
 
 ## 热门文章
 
@@ -30,9 +30,9 @@
 24. [为什么 Spring Boot 自动配置了 Redis，还要自己写 RedisTemplate？](https://juejin.cn/post/7690497906533138482)
 25. [花了 100 亿 Token 后，我发现 Code is cheap 是最大的谎言](https://juejin.cn/post/7690490009980403712)
 26. [Skill 体检：30 个 Skill 全凭感觉？体检器先自曝了 8 个“假 0 分](https://juejin.cn/post/7690797132370427919)
-27. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
-28. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
-29. [Android APK安全防护](https://juejin.cn/post/7690744409042206760)
+27. [Android APK安全防护](https://juejin.cn/post/7690744409042206760)
+28. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
+29. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
 30. [告别选型困难！集 VueUse、ahooks、Mantine 于一身：286 个 Hook 的 ReaUse 来了](https://juejin.cn/post/7690762523469742121)
 31. [Agent Memory架构设计与实现](https://juejin.cn/post/7690512501442609186)
 32. [游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！](https://juejin.cn/post/7690869176362172425)
