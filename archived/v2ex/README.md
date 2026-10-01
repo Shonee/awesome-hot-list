@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-02 04:15:48
+> 更新时间：2026-10-02 05:12:56
 
 ## 热门主题
 
@@ -11,6 +11,6 @@
 5. [号被封了……](https://www.v2ex.com/t/1245975)
 6. [主力邮箱还是得选国内邮箱](https://www.v2ex.com/t/1246060)
 7. [最近迁移到 Catsxp 浏览器](https://www.v2ex.com/t/1245944)
-8. [Gemini 4 出来了，吊打其他的公司啊](https://www.v2ex.com/t/1245940)
-9. [通过 firefox 注册 muse](https://www.v2ex.com/t/1245987)
-10. [Gemini 4 Argon 已宣布](https://www.v2ex.com/t/1245947)
+8. [通过 firefox 注册 muse](https://www.v2ex.com/t/1245987)
+9. [Gemini 4 Argon 已宣布](https://www.v2ex.com/t/1245947)
+10. [[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘](https://www.v2ex.com/t/1245993)
