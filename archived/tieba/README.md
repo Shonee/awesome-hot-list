@@ -1,18 +1,18 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-01 09:40:55
+> 更新时间：2026-10-01 10:29:36
 
 ## 最有料热点
 
 1. [国庆回血计划](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366173&topic_name=%E5%9B%BD%E5%BA%86%E5%9B%9E%E8%A1%80%E8%AE%A1%E5%88%92)
-2. [这游戏俺不中嘞](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366192&topic_name=%E8%BF%99%E6%B8%B8%E6%88%8F%E4%BF%BA%E4%B8%8D%E4%B8%AD%E5%98%9E)
-3. [超大杯演出!鸣潮玄方终章大的来了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366206&topic_name=%E8%B6%85%E5%A4%A7%E6%9D%AF%E6%BC%94%E5%87%BA%21%E9%B8%A3%E6%BD%AE%E7%8E%84%E6%96%B9%E7%BB%88%E7%AB%A0%E5%A4%A7%E7%9A%84%E6%9D%A5%E4%BA%86)
-4. [国庆人从众,错峰也难逃](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366207&topic_name=%E5%9B%BD%E5%BA%86%E4%BA%BA%E4%BB%8E%E4%BC%97%2C%E9%94%99%E5%B3%B0%E4%B9%9F%E9%9A%BE%E9%80%83)
-5. [攒钱!先存一个小目标](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366201&topic_name=%E6%94%92%E9%92%B1%21%E5%85%88%E5%AD%98%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9B%AE%E6%A0%87)
-6. [晒抽卡,非到极致就是欧](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366203&topic_name=%E6%99%92%E6%8A%BD%E5%8D%A1%2C%E9%9D%9E%E5%88%B0%E6%9E%81%E8%87%B4%E5%B0%B1%E6%98%AF%E6%AC%A7)
-7. [决战4强!面王即将诞生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366183&topic_name=%E5%86%B3%E6%88%984%E5%BC%BA%21%E9%9D%A2%E7%8E%8B%E5%8D%B3%E5%B0%86%E8%AF%9E%E7%94%9F)
-8. [男版D老师作者怒斥极端粉丝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366098&topic_name=%E7%94%B7%E7%89%88D%E8%80%81%E5%B8%88%E4%BD%9C%E8%80%85%E6%80%92%E6%96%A5%E6%9E%81%E7%AB%AF%E7%B2%89%E4%B8%9D)
-9. [标枪新王诞生,吧友盛赞统治力](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366159&topic_name=%E6%A0%87%E6%9E%AA%E6%96%B0%E7%8E%8B%E8%AF%9E%E7%94%9F%2C%E5%90%A7%E5%8F%8B%E7%9B%9B%E8%B5%9E%E7%BB%9F%E6%B2%BB%E5%8A%9B)
+2. [争冠时刻!面王即将诞生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366234&topic_name=%E4%BA%89%E5%86%A0%E6%97%B6%E5%88%BB%21%E9%9D%A2%E7%8E%8B%E5%8D%B3%E5%B0%86%E8%AF%9E%E7%94%9F)
+3. [这游戏俺不中嘞](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366192&topic_name=%E8%BF%99%E6%B8%B8%E6%88%8F%E4%BF%BA%E4%B8%8D%E4%B8%AD%E5%98%9E)
+4. [超大杯演出!鸣潮玄方终章大的来了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366206&topic_name=%E8%B6%85%E5%A4%A7%E6%9D%AF%E6%BC%94%E5%87%BA%21%E9%B8%A3%E6%BD%AE%E7%8E%84%E6%96%B9%E7%BB%88%E7%AB%A0%E5%A4%A7%E7%9A%84%E6%9D%A5%E4%BA%86)
+5. [国庆人从众,错峰也难逃](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366207&topic_name=%E5%9B%BD%E5%BA%86%E4%BA%BA%E4%BB%8E%E4%BC%97%2C%E9%94%99%E5%B3%B0%E4%B9%9F%E9%9A%BE%E9%80%83)
+6. [攒钱!先存一个小目标](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366201&topic_name=%E6%94%92%E9%92%B1%21%E5%85%88%E5%AD%98%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9B%AE%E6%A0%87)
+7. [晒抽卡,非到极致就是欧](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366203&topic_name=%E6%99%92%E6%8A%BD%E5%8D%A1%2C%E9%9D%9E%E5%88%B0%E6%9E%81%E8%87%B4%E5%B0%B1%E6%98%AF%E6%AC%A7)
+8. [标枪新王诞生,吧友盛赞统治力](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366159&topic_name=%E6%A0%87%E6%9E%AA%E6%96%B0%E7%8E%8B%E8%AF%9E%E7%94%9F%2C%E5%90%A7%E5%8F%8B%E7%9B%9B%E8%B5%9E%E7%BB%9F%E6%B2%BB%E5%8A%9B)
+9. [男版D老师作者怒斥极端粉丝](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366098&topic_name=%E7%94%B7%E7%89%88D%E8%80%81%E5%B8%88%E4%BD%9C%E8%80%85%E6%80%92%E6%96%A5%E6%9E%81%E7%AB%AF%E7%B2%89%E4%B8%9D)
 10. [回国捞金,华人明星疑财务爆雷](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366166&topic_name=%E5%9B%9E%E5%9B%BD%E6%8D%9E%E9%87%91%2C%E5%8D%8E%E4%BA%BA%E6%98%8E%E6%98%9F%E7%96%91%E8%B4%A2%E5%8A%A1%E7%88%86%E9%9B%B7)
 11. [闹剧结束,鲸鱼娘统一DS](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366006&topic_name=%E9%97%B9%E5%89%A7%E7%BB%93%E6%9D%9F%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E7%BB%9F%E4%B8%80DS)
 12. [大熊猫平平福双乘专机抵美](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366028&topic_name=%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B9%B3%E5%B9%B3%E7%A6%8F%E5%8F%8C%E4%B9%98%E4%B8%93%E6%9C%BA%E6%8A%B5%E7%BE%8E)
