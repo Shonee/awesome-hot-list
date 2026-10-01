@@ -1,14 +1,14 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-02 06:13:20
+> 更新时间：2026-10-02 07:11:38
 
 ## 股票人气榜
 
 1. [601127 (601127)](https://quote.eastmoney.com/sh601127.html)
 2. [600418 (600418)](https://quote.eastmoney.com/sh600418.html)
-3. [001246 (001246)](https://quote.eastmoney.com/sz001246.html)
-4. [600663 (600663)](https://quote.eastmoney.com/sh600663.html)
-5. [002487 (002487)](https://quote.eastmoney.com/sz002487.html)
+3. [002487 (002487)](https://quote.eastmoney.com/sz002487.html)
+4. [001246 (001246)](https://quote.eastmoney.com/sz001246.html)
+5. [600663 (600663)](https://quote.eastmoney.com/sh600663.html)
 6. [600519 (600519)](https://quote.eastmoney.com/sh600519.html)
 7. [000002 (000002)](https://quote.eastmoney.com/sz000002.html)
 8. [000678 (000678)](https://quote.eastmoney.com/sz000678.html)
@@ -22,5 +22,5 @@
 16. [002074 (002074)](https://quote.eastmoney.com/sz002074.html)
 17. [603538 (603538)](https://quote.eastmoney.com/sh603538.html)
 18. [603906 (603906)](https://quote.eastmoney.com/sh603906.html)
-19. [600072 (600072)](https://quote.eastmoney.com/sh600072.html)
-20. [002962 (002962)](https://quote.eastmoney.com/sz002962.html)
+19. [002962 (002962)](https://quote.eastmoney.com/sz002962.html)
+20. [600072 (600072)](https://quote.eastmoney.com/sh600072.html)

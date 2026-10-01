@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-02 06:12:26
+> 更新时间：2026-10-02 07:11:02
 
 ## 热门文章
 
@@ -15,9 +15,9 @@
 9. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
 10. [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768)
 11. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
-12. [前端已死？别急，这可能只是所有行业的开始](https://juejin.cn/post/7690545232068870153)
-13. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
-14. [AI Native 团队完整开发落地手册](https://juejin.cn/post/7690779187615563776)
+12. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+13. [AI Native 团队完整开发落地手册](https://juejin.cn/post/7690779187615563776)
+14. [前端已死？别急，这可能只是所有行业的开始](https://juejin.cn/post/7690545232068870153)
 15. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
 16. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
 17. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
@@ -50,7 +50,7 @@
 44. [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050)
 45. [GitHub 日榜趋势速报 | 2026-09-30](https://juejin.cn/post/7690839722769563657)
 46. [chrome-devtools-mcp：让 AI 编码助手真正"看见"浏览器](https://juejin.cn/post/7690490009980518400)
-47. [从 Demo 搭建的Flutter 演示项目 —— Forge](https://juejin.cn/post/7690467043258400810)
-48. [甲骨文裁3万、DeepSeek却招150人：后端程序员往哪走，我把这批JD拆了一遍](https://juejin.cn/post/7690440622159560739)
-49. [在职前端 Skill 和 MCP 分享](https://juejin.cn/post/7691142360248614947)
-50. [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538)
+47. [WebMCP正式进入Origin Trial：AI Agent不再“装人”，前端交互范式正在被重写](https://juejin.cn/post/7690467043259383850)
+48. [从 Demo 搭建的Flutter 演示项目 —— Forge](https://juejin.cn/post/7690467043258400810)
+49. [甲骨文裁3万、DeepSeek却招150人：后端程序员往哪走，我把这批JD拆了一遍](https://juejin.cn/post/7690440622159560739)
+50. [在职前端 Skill 和 MCP 分享](https://juejin.cn/post/7691142360248614947)
