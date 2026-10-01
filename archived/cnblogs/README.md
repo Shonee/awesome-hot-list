@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-01 14:58:21
+> 更新时间：2026-10-01 15:30:09
 
 ## 最新帖子
 
@@ -55,4 +55,4 @@
 3. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
 4. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
 5. [关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉](https://www.cnblogs.com/ahfuzhang/p/23160145)
-6. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
+6. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
