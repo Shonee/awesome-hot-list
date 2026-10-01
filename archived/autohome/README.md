@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-01 21:15:48
+> 更新时间：2026-10-01 22:14:46
 
 ## 每日热点榜
 
@@ -13,15 +13,15 @@
 7. [小鹏9月份交付新车41256台](http://www.autohome.com.cn/news/202610/1317539.html)
 8. [理想汽车9月交付31817辆](http://www.autohome.com.cn/news/202610/1317536.html)
 9. [比亚迪9月份销售超46万辆](http://www.autohome.com.cn/news/202610/1317547.html)
-10. [广汽集团：拟购买一汽丰田50%股权](http://www.autohome.com.cn/news/202609/1317482.html)
-11. [路虎揽胜运动纯电版官图](http://www.autohome.com.cn/news/202609/1317513.html)
-12. [吉利汽车9月份销量292168辆](http://www.autohome.com.cn/news/202610/1317549.html)
-13. [深蓝汽车年销量破25万辆](https://chejiahao.autohome.com.cn/info/26563045#pvareaid=6834132)
+10. [吉利汽车9月份销量292168辆](http://www.autohome.com.cn/news/202610/1317549.html)
+11. [广汽集团：拟购买一汽丰田50%股权](http://www.autohome.com.cn/news/202609/1317482.html)
+12. [猛士X700正式开启预售](https://chejiahao.autohome.com.cn/info/26562683#pvareaid=6834132)
+13. [路虎揽胜运动纯电版官图](http://www.autohome.com.cn/news/202609/1317513.html)
 14. [2027款吉利博越正式亮相](http://www.autohome.com.cn/news/202609/1317489.html)
 15. [smart精灵#2内饰谍照曝光](http://www.autohome.com.cn/news/202609/1317485.html)
 16. [全新宝马i3 40 xDrive推出](http://www.autohome.com.cn/news/202609/1317509.html)
 17. [王传福被选为比亚迪董事会董事长](https://chejiahao.autohome.com.cn/info/26578270#pvareaid=6834132)
 18. [多次求张雪救命？凯越机车回应](https://chejiahao.autohome.com.cn/info/26580142#pvareaid=6834132)
-19. [通用雪佛兰Bolt将于明年停产](https://chejiahao.autohome.com.cn/info/26588259#pvareaid=6834132)
-20. [汽车行业数字化与AI发展](http://www.autohome.com.cn/news/202609/1317518.html)
-21. [奔驰庄睦德谈汽车业新阶段](http://www.autohome.com.cn/news/202610/1317466.html)
+19. [神龙科技与Momenta达成全球战略合作](http://www.autohome.com.cn/news/202609/1317460.html)
+20. [奔驰庄睦德谈汽车业新阶段](http://www.autohome.com.cn/news/202610/1317466.html)
+21. [汽车行业数字化与AI发展](http://www.autohome.com.cn/news/202609/1317518.html)
