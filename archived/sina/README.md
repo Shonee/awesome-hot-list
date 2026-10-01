@@ -1,35 +1,35 @@
 # 新浪热榜
 
-> 更新时间：2026-10-01 13:14:43
+> 更新时间：2026-10-01 14:23:41
 
 ## 新闻热榜
 
 1. [10月起，这些新规将施行](https://news.sina.com.cn/c/2026-10-01/doc-initspnm1425836.shtml)
 2. [赌王长女何超琼称遭骚扰恐吓，获批禁制令](https://news.sina.com.cn/c/2026-10-01/doc-initspnc6268118.shtml)
-3. [烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席](https://news.sina.com.cn/c/xl/2026-09-30/doc-initrftc2587976.shtml)
-4. [美国国债遭遇四年来最惨一个月，华尔街警告“恶性循环”](https://news.sina.com.cn/w/2026-10-01/doc-initsier2219877.shtml)
+3. [美国国债遭遇四年来最惨一个月，华尔街警告“恶性循环”](https://news.sina.com.cn/w/2026-10-01/doc-initsier2219877.shtml)
+4. [烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席](https://news.sina.com.cn/c/xl/2026-09-30/doc-initrftc2587976.shtml)
 5. [英首相：有强烈迹象表明伊朗参与费尔福德基地事件](https://news.sina.com.cn/w/2026-10-01/doc-initspnp2174897.shtml)
-6. [庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话](https://news.sina.com.cn/c/xl/2026-09-30/doc-initrftc2588471.shtml)
-7. [东航通报“空姐下跪道歉事件”](https://news.sina.com.cn/zx/2026-09-30/doc-initqzmc2024193.shtml)
-8. [楼市新动向！北上广三地政策有何不同？](https://news.sina.com.cn/c/2026-10-01/doc-initsawt2268511.shtml)
-9. [这就是中国排面！国旗护卫队步步铿锵](https://news.sina.com.cn/c/2026-10-01/doc-initsief6374749.shtml)
-10. [特朗普：最后一批美军正在撤离伊拉克](https://news.sina.com.cn/w/2026-10-01/doc-initrwqt1732068.shtml)
-11. [突发讣告！年仅25岁的她患癌去世，曾自曝生活作息不良……提醒所有人：这些习惯千万别不当回事](https://news.sina.com.cn/s/2026-09-30/doc-initqzmc2049393.shtml)
-12. [美国为何给人工智能改名？](https://news.sina.com.cn/o/2026-09-30/doc-initrmyr6775851.shtml)
+6. [普京“大胜”](https://news.sina.com.cn/w/2026-10-01/doc-initsief6384630.shtml)
+7. [俄乌飞行员联手救人？这8个细节很不简单](https://news.sina.com.cn/w/2026-10-01/doc-initspnp2170729.shtml)
+8. [这就是中国排面！国旗护卫队步步铿锵](https://news.sina.com.cn/c/2026-10-01/doc-initsief6374749.shtml)
+9. [庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话](https://news.sina.com.cn/c/xl/2026-09-30/doc-initrftc2588471.shtml)
+10. [东航通报“空姐下跪道歉事件”](https://news.sina.com.cn/zx/2026-09-30/doc-initqzmc2024193.shtml)
+11. [楼市新动向！北上广三地政策有何不同？](https://news.sina.com.cn/c/2026-10-01/doc-initsawt2268511.shtml)
+12. [特朗普：最后一批美军正在撤离伊拉克](https://news.sina.com.cn/w/2026-10-01/doc-initrwqt1732068.shtml)
 13. [特朗普称美国发动伊拉克战争的决策“非常糟糕”](https://news.sina.com.cn/w/2026-10-01/doc-initsief6393665.shtml)
-14. [俄乌飞行员联手救人？这8个细节很不简单](https://news.sina.com.cn/w/2026-10-01/doc-initspnp2170729.shtml)
-15. [普京“大胜”](https://news.sina.com.cn/w/2026-10-01/doc-initsief6384630.shtml)
+14. [突发讣告！年仅25岁的她患癌去世，曾自曝生活作息不良……提醒所有人：这些习惯千万别不当回事](https://news.sina.com.cn/s/2026-09-30/doc-initqzmc2049393.shtml)
+15. [美国为何给人工智能改名？](https://news.sina.com.cn/o/2026-09-30/doc-initrmyr6775851.shtml)
 16. [拉夫罗夫当面质问德国外长：你们三天就查清楚了？](https://news.sina.com.cn/w/2026-09-30/doc-initqvax6963420.shtml)
-17. [王楚钦林诗栋因伤退出WTT中国大满贯](https://news.sina.com.cn/zx/2026-09-30/doc-initrmyr6768999.shtml)
-18. [媒体评：让空姐下跪道歉是拿闹当筹码](https://news.sina.com.cn/s/2026-09-30/doc-initrfsz2002445.shtml)
-19. [大乐透开6注804万无追加 前区和值41今年最低](https://sports.sina.com.cn/l/2026-09-30/doc-initrmyz2534591.shtml)
-20. [民进党当局的恐吓阻挠，为何拦不住台湾青年的脚步？](https://news.sina.com.cn/c/2026-09-30/doc-initrmyx1921536.shtml)
+17. [原央视主持人阿丘（邱孟煌），被通报](https://news.sina.com.cn/c/2026-10-01/doc-initsttz6198518.shtml)
+18. [王楚钦林诗栋因伤退出WTT中国大满贯](https://news.sina.com.cn/zx/2026-09-30/doc-initrmyr6768999.shtml)
+19. [媒体评：让空姐下跪道歉是拿闹当筹码](https://news.sina.com.cn/s/2026-09-30/doc-initrfsz2002445.shtml)
+20. [大乐透开6注804万无追加 前区和值41今年最低](https://sports.sina.com.cn/l/2026-09-30/doc-initrmyz2534591.shtml)
 
 ## 财经热榜
 
 1. [10月1日美股收盘：9月收官日美股三大股指涨跌不一 道指跌440点](https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6476390.shtml)
-2. [美国国防部长赫格塞思：削减高级军官职位这件事早该推进。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrwqt5621772.shtml)
-3. [特朗普称鲍威尔应该辞任美联储理事](https://finance.sina.com.cn/roll/2026-10-01/doc-initsier2236198.shtml)
+2. [特朗普称鲍威尔应该辞任美联储理事](https://finance.sina.com.cn/roll/2026-10-01/doc-initsier2236198.shtml)
+3. [美国国防部长赫格塞思：削减高级军官职位这件事早该推进。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrwqt5621772.shtml)
 4. [特朗普评价鲁比奥：无论他与谁打交道，不管是世界上哪里的任何人，他都是大师。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrwqv2379742.shtml)
 5. [以色列总理内塔尼亚胡与特朗普将讨论针对迪拜航空的袭击事件。](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrwqv2348952.shtml)
 6. [扎哈罗娃：愿深化俄中立法机构间合作](https://finance.sina.com.cn/7x24/2026-10-01/doc-initrwqt5594036.shtml)

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-01 13:14:34
+> 更新时间：2026-10-01 14:23:30
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [Anthropic 面向政府机构的 Claude 现已全面开放](https://readhub.cn/topic/8wqzxai26CQ?tab=daily)
 10. [Kimi K3 接入 OpenAI Codex 企业通道 中国开源模型首次进入其付费结算体系](https://readhub.cn/topic/8wqS1frMi4d?tab=daily)
 11. [OpenAI 推出 Codex 专用插件，可用自然语言 AI 制作 Game Boy 风格游戏](https://readhub.cn/topic/8wq2HPcek8P?tab=daily)
-12. [谷歌向免费用户开放 Gemini Skills 2026 年 11 月整合 Gems](https://readhub.cn/topic/8wpwZDqHjfY?tab=daily)
-13. [税务总局发布全国统一的税务行政处罚裁量基准](https://readhub.cn/topic/8wqFr5zoJdg?tab=daily)
-14. [字节、美团投资的盈合机器人破产 累计烧光超 6 亿融资](https://readhub.cn/topic/8wqJn4nsE5J?tab=daily)
-15. [花旗上调恒瑞医药 H 股目标价至 120 港元，将其列为重点推荐标的](https://readhub.cn/topic/8wq1g85ezON?tab=daily)
-16. [快手高管调整：程一笑兼任社科线负责人 于越转任可灵 CEO](https://readhub.cn/topic/8wqUsHF67oU?tab=daily)
-17. [Muse 爆火，国内大厂加速布局对标个人 AI 智能体产品](https://readhub.cn/topic/8wqF9oSdnxZ?tab=daily)
-18. [华为 Mate90 全系搭载旗舰 τ 芯片](https://readhub.cn/topic/8wrcCR6Hhvv?tab=daily)
-19. [9 月 30 日 58 家 IPO 审核状态变更为中止 系财报更新所致](https://readhub.cn/topic/8wqZ9BHzf16?tab=daily)
-20. [抖音终止收购联动优势，标的支付牌照此前已被中止续展](https://readhub.cn/topic/8wq6aTDoygL?tab=daily)
-21. [极氪回应换电车型传闻：无开发规划 聚焦超快充与电混](https://readhub.cn/topic/8wqBZkBdDxD?tab=daily)
-22. [个人 AI 公司 Instinct 完成融资 估值达百亿美元](https://readhub.cn/topic/8wqaZg16nyf?tab=daily)
-23. [朋友圈贷款广告消失 金融产品网络营销新规明日施行](https://readhub.cn/topic/8wp00O0qSRc?tab=daily)
-24. [人造太阳建设新进展：紧凑型聚变能实验装置园区交付使用](https://readhub.cn/topic/8wrL1lzvrJk?tab=daily)
-25. [宝马计划借助 AI 裁减 20% 管理职位 推动成本削减](https://readhub.cn/topic/8wqggAd5nv8?tab=daily)
+12. [税务总局发布全国统一的税务行政处罚裁量基准](https://readhub.cn/topic/8wqFr5zoJdg?tab=daily)
+13. [华为 Mate90 全系搭载旗舰 τ 芯片](https://readhub.cn/topic/8wrcCR6Hhvv?tab=daily)
+14. [快手高管调整：程一笑兼任社科线负责人 于越转任可灵 CEO](https://readhub.cn/topic/8wqUsHF67oU?tab=daily)
+15. [Muse 爆火，国内大厂加速布局对标个人 AI 智能体产品](https://readhub.cn/topic/8wqF9oSdnxZ?tab=daily)
+16. [字节、美团投资的盈合机器人破产 累计烧光超 6 亿融资](https://readhub.cn/topic/8wqJn4nsE5J?tab=daily)
+17. [花旗上调恒瑞医药 H 股目标价至 120 港元，将其列为重点推荐标的](https://readhub.cn/topic/8wq1g85ezON?tab=daily)
+18. [9 月 30 日 58 家 IPO 审核状态变更为中止 系财报更新所致](https://readhub.cn/topic/8wqZ9BHzf16?tab=daily)
+19. [极氪回应换电车型传闻：无开发规划 聚焦超快充与电混](https://readhub.cn/topic/8wqBZkBdDxD?tab=daily)
+20. [朋友圈贷款广告消失 金融产品网络营销新规明日施行](https://readhub.cn/topic/8wp00O0qSRc?tab=daily)
+21. [个人 AI 公司 Instinct 完成融资 估值达百亿美元](https://readhub.cn/topic/8wqaZg16nyf?tab=daily)
+22. [人造太阳建设新进展：紧凑型聚变能实验装置园区交付使用](https://readhub.cn/topic/8wrL1lzvrJk?tab=daily)
+23. [一嗨租车被曝出租轮胎报废车辆 消费者自驾遇险](https://readhub.cn/topic/8wqHJNRcaHl?tab=daily)
+24. [宝马计划借助 AI 裁减 20% 管理职位 推动成本削减](https://readhub.cn/topic/8wqggAd5nv8?tab=daily)
+25. [应对 AI 爬虫：Reddit 将关停 RSS 订阅、终止公共 API 访问](https://readhub.cn/topic/8wr1jXLq1DX?tab=daily)
 26. [江淮汽车：与华为、Stellantis 三方确有合作意向沟洽 合作细节未确定](https://readhub.cn/topic/8wqiqKej3f0?tab=daily)
-27. [英伟达、Meta 等 AI 巨头质疑 Anthropic「过度警告」](https://readhub.cn/topic/8wrJEaeApvH?tab=daily)
-28. [报道：淡水河谷考虑首次发行熊猫债，融资不超 35 亿元人民币](https://readhub.cn/topic/8wq94LKHAl3?tab=daily)
-29. [一嗨租车被曝出租轮胎报废车辆 消费者自驾遇险](https://readhub.cn/topic/8wqHJNRcaHl?tab=daily)
-30. [慢雾披露 Bitget 热钱包被盗调查进展 攻击涉及第三方安全产品漏洞](https://readhub.cn/topic/8wq5u4H1or7?tab=daily)
+27. [报道：淡水河谷考虑首次发行熊猫债，融资不超 35 亿元人民币](https://readhub.cn/topic/8wq94LKHAl3?tab=daily)
+28. [英伟达、Meta 等 AI 巨头质疑 Anthropic「过度警告」](https://readhub.cn/topic/8wrJEaeApvH?tab=daily)
+29. [精神心理数字医疗服务企业好心情完成近 3 亿元新一轮融资](https://readhub.cn/topic/8wpmYWuk0iu?tab=daily)
+30. [iFixit 拆解苹果 AirPods 5：十年来 AirPods 可维修性首破 0 分](https://readhub.cn/topic/8wpZh86OSwa?tab=daily)
 
 ## 每日早报
 

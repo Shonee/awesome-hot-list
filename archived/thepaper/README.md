@@ -1,10 +1,10 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-01 13:14:34
+> 更新时间：2026-10-01 14:23:32
 
 ## 热新闻
 
-1. [马上评｜“空姐下跪”热搜高挂，真相不该再迟到](https://www.thepaper.cn/newsDetail_forward_34178371)
+1. [读报丨央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年](https://www.thepaper.cn/newsDetail_forward_34184563)
 2. [邓亚萍点评国乒输球被网暴，媒体：我们究竟能不能好好谈论失利](https://www.thepaper.cn/newsDetail_forward_34180453)
 3. [成都大学通报一学院党委书记15万字著作涉嫌抄袭：构成学术不端，已免职](https://www.thepaper.cn/newsDetail_forward_34180405)
 4. [人民日报社论：在新的伟大征程上接续奋斗再创辉煌——热烈庆祝中华人民共和国成立七十七周年](https://www.thepaper.cn/newsDetail_forward_34181002)
@@ -13,14 +13,14 @@
 7. [深圳大鹏新区出台政策允许对违法登山者进行救援追偿，10月12日起施行](https://www.thepaper.cn/newsDetail_forward_34180993)
 8. [亚运会状况百出，日本名古屋市长向运动员和相关人员公开致歉](https://www.thepaper.cn/newsDetail_forward_34180780)
 9. [奔赴“县”场｜天南地北的孩子们，都回来了](https://www.thepaper.cn/newsDetail_forward_34178764)
-10. [众声丨组织“自愿捐款”却实名接龙，家委会权责边界需厘清](https://www.thepaper.cn/newsDetail_forward_34178532)
-11. [京沪穗落地住房销售改革细则：三地有哪些不同，对楼市有何影响？](https://www.thepaper.cn/newsDetail_forward_34180765)
+10. [京沪穗落地住房销售改革细则：三地有哪些不同，对楼市有何影响？](https://www.thepaper.cn/newsDetail_forward_34180765)
+11. [众声丨组织“自愿捐款”却实名接龙，家委会权责边界需厘清](https://www.thepaper.cn/newsDetail_forward_34178532)
 12. [告别无休止滑屏约会：新加坡试点官方算法配对，婚介机构在日本重获青睐](https://www.thepaper.cn/newsDetail_forward_34178172)
 13. [奔赴“县”场｜安徽黟县：如何从“到此一游”到“留此成邻”](https://www.thepaper.cn/newsDetail_forward_34179255)
 14. [40年首球！中国U23男足不敌韩国，无缘决赛](https://www.thepaper.cn/newsDetail_forward_34178998)
 15. [释新闻｜劫机代码、战机出动、机长被刺，迪拜航空客机内发生了什么？](https://www.thepaper.cn/newsDetail_forward_34180763)
 16. [马上评｜用心做好服务和维护员工尊严并不矛盾](https://www.thepaper.cn/newsDetail_forward_34179882)
 17. [东方甄选：直播间购买“溜溜凳”的用户，全面退款不退货，退款金额为货价二倍](https://www.thepaper.cn/newsDetail_forward_34178550)
-18. [裁判为什么不看VAR？张玉宁：我们可以在亚洲与强队抗衡](https://www.thepaper.cn/newsDetail_forward_34180043)
-19. [109岁老红军、广东省原副省长范希贤逝世](https://www.thepaper.cn/newsDetail_forward_34181386)
-20. [空姐跪地道歉？东航客服内部核实沟通后回应：请大家耐心等待](https://www.thepaper.cn/newsDetail_forward_34178358)
+18. [沪昆高速怀化段发生交通事故6死4伤，半挂车司机涉疲劳驾驶被控制](https://www.thepaper.cn/newsDetail_forward_34185639)
+19. [裁判为什么不看VAR？张玉宁：我们可以在亚洲与强队抗衡](https://www.thepaper.cn/newsDetail_forward_34180043)
+20. [109岁老红军、广东省原副省长范希贤逝世](https://www.thepaper.cn/newsDetail_forward_34181386)
