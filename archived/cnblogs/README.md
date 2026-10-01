@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-01 14:23:18
+> 更新时间：2026-10-01 14:58:21
 
 ## 最新帖子
 
-1. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
-2. [【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析）](https://www.cnblogs.com/haliuhome/p/23178401)
-3. [volatile 与寄存器：SysTick->VAL 到底在读什么](https://www.cnblogs.com/zw-awa/p/23178327)
-4. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
-5. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
-6. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
-7. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
-8. [Go语言中结构体与JSON之间互相转换](https://www.cnblogs.com/ishoulgodo/p/23174494)
-9. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
-10. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
-11. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
-12. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
-13. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
-14. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
-15. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
-16. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
-17. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
-18. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
-19. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
-20. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
+1. [第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23179607)
+2. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
+3. [【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析）](https://www.cnblogs.com/haliuhome/p/23178401)
+4. [volatile 与寄存器：SysTick->VAL 到底在读什么](https://www.cnblogs.com/zw-awa/p/23178327)
+5. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
+6. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
+7. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
+8. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
+9. [Go语言中结构体与JSON之间互相转换](https://www.cnblogs.com/ishoulgodo/p/23174494)
+10. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
+11. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
+12. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
+13. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
+14. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
+15. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
+16. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
+17. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
+18. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
+19. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
+20. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
 
 ## 精华帖子
 
