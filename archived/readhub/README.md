@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-02 02:17:33
+> 更新时间：2026-10-02 03:37:57
 
 ## 24 小时热榜
 
@@ -51,9 +51,9 @@
 2. [尘封 217 年的拿破仑密信，被 GPT-6 Astra 用 6 小时解开](https://www.mittrchina.com/news/detail/17040)
 3. [DeepMind 开始给 AI 设计的蛋白质加「水印」，可追溯来源，还不影响蛋白功能](https://www.mittrchina.com/news/detail/17038)
 4. [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3)
-5. [存储又要涨价了 AI 疯狂吞噬产能：Q4 DRAM 和 NAND 最高涨 20%](https://news.mydrivers.com/1/1155/1155103.htm)
-6. [Linux 7.4 新优化：AMD 核显跑 AI 快 23%，入门 APU 成大赢家](https://news.mydrivers.com/1/1155/1155098.htm)
-7. [Guided Vision in Gemini Live: built for accessibility](https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/)
-8. [Gemini 4 终于来了 先给防御方用，然后再给普通用户](https://www.mittrchina.com/news/detail/17037)
-9. [Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS](https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/)
-10. [凯雷警告：私募信贷追逐 AI 融资面临集中度风险](https://wallstreetcn.com/livenews/3173431)
+5. [微软上新三款语音 AI 模型：实时转文字准确率登测评榜首，MAI-Voice 2.1 覆盖 23 种语言](https://wallstreetcn.com/articles/3782897)
+6. [存储又要涨价了 AI 疯狂吞噬产能：Q4 DRAM 和 NAND 最高涨 20%](https://news.mydrivers.com/1/1155/1155103.htm)
+7. [Linux 7.4 新优化：AMD 核显跑 AI 快 23%，入门 APU 成大赢家](https://news.mydrivers.com/1/1155/1155098.htm)
+8. [Guided Vision in Gemini Live: built for accessibility](https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/)
+9. [OpenAI fires three safety researchers for leaking to outside AI safety group](https://daily.dev/posts/openai-fires-three-safety-researchers-over-alleged-leaks-to-an-outside-ai-safety-group-svos5u2ix)
+10. [Gemini 4 终于来了 先给防御方用，然后再给普通用户](https://www.mittrchina.com/news/detail/17037)
