@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-01 19:13:00
+> 更新时间：2026-10-01 20:22:20
 
 ## 最有料热点
 
@@ -8,8 +8,8 @@
 2. [吧友自制夏梦,纯爱后宫双女主](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366253&topic_name=%E5%90%A7%E5%8F%8B%E8%87%AA%E5%88%B6%E5%A4%8F%E6%A2%A6%2C%E7%BA%AF%E7%88%B1%E5%90%8E%E5%AE%AB%E5%8F%8C%E5%A5%B3%E4%B8%BB)
 3. [公司拒批婚假,抗吧老哥硬刚](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366252&topic_name=%E5%85%AC%E5%8F%B8%E6%8B%92%E6%89%B9%E5%A9%9A%E5%81%87%2C%E6%8A%97%E5%90%A7%E8%80%81%E5%93%A5%E7%A1%AC%E5%88%9A)
 4. [国庆硬核挑战,“痴呆吧友”打血无](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366255&topic_name=%E5%9B%BD%E5%BA%86%E7%A1%AC%E6%A0%B8%E6%8C%91%E6%88%98%2C%E2%80%9C%E7%97%B4%E5%91%86%E5%90%A7%E5%8F%8B%E2%80%9D%E6%89%93%E8%A1%80%E6%97%A0)
-5. [争冠时刻!面王即将诞生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366234&topic_name=%E4%BA%89%E5%86%A0%E6%97%B6%E5%88%BB%21%E9%9D%A2%E7%8E%8B%E5%8D%B3%E5%B0%86%E8%AF%9E%E7%94%9F)
-6. [国庆在岗打工人抱团取暖](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366249&topic_name=%E5%9B%BD%E5%BA%86%E5%9C%A8%E5%B2%97%E6%89%93%E5%B7%A5%E4%BA%BA%E6%8A%B1%E5%9B%A2%E5%8F%96%E6%9A%96)
+5. [国庆在岗打工人抱团取暖](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366249&topic_name=%E5%9B%BD%E5%BA%86%E5%9C%A8%E5%B2%97%E6%89%93%E5%B7%A5%E4%BA%BA%E6%8A%B1%E5%9B%A2%E5%8F%96%E6%9A%96)
+6. [争冠时刻!面王即将诞生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366234&topic_name=%E4%BA%89%E5%86%A0%E6%97%B6%E5%88%BB%21%E9%9D%A2%E7%8E%8B%E5%8D%B3%E5%B0%86%E8%AF%9E%E7%94%9F)
 7. [全程直播!吧友国庆游新疆](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366238&topic_name=%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%92%AD%21%E5%90%A7%E5%8F%8B%E5%9B%BD%E5%BA%86%E6%B8%B8%E6%96%B0%E7%96%86)
 8. [这游戏俺不中嘞](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366192&topic_name=%E8%BF%99%E6%B8%B8%E6%88%8F%E4%BF%BA%E4%B8%8D%E4%B8%AD%E5%98%9E)
 9. [超大杯演出!鸣潮玄方终章大的来了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366206&topic_name=%E8%B6%85%E5%A4%A7%E6%9D%AF%E6%BC%94%E5%87%BA%21%E9%B8%A3%E6%BD%AE%E7%8E%84%E6%96%B9%E7%BB%88%E7%AB%A0%E5%A4%A7%E7%9A%84%E6%9D%A5%E4%BA%86)
