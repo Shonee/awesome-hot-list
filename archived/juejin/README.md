@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-01 22:14:22
+> 更新时间：2026-10-01 23:13:31
 
 ## 热门文章
 
@@ -48,8 +48,9 @@
 42. [用 Canvas + AI 实现登录页的 Logo 粒子动画](https://juejin.cn/post/7690494760706441231)
 43. [从 Demo 搭建的Flutter 演示项目 —— Forge](https://juejin.cn/post/7690467043258400810)
 44. [甲骨文裁3万、DeepSeek却招150人：后端程序员往哪走，我把这批JD拆了一遍](https://juejin.cn/post/7690440622159560739)
-45. [构建稳定的 AI Agent：Harness 工程的核心机制与实践思考](https://juejin.cn/post/7690982503821246506)
-46. [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050)
-47. [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538)
-48. [Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？](https://juejin.cn/post/7690832227404300351)
-49. [prisma 如何处理数据库竞态](https://juejin.cn/post/7690797132370657295)
+45. [Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？](https://juejin.cn/post/7690832227404300351)
+46. [构建稳定的 AI Agent：Harness 工程的核心机制与实践思考](https://juejin.cn/post/7690982503821246506)
+47. [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050)
+48. [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538)
+49. [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338)
+50. [prisma 如何处理数据库竞态](https://juejin.cn/post/7690797132370657295)
