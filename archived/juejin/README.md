@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-01 23:13:31
+> 更新时间：2026-10-02 00:14:02
 
 ## 热门文章
 
@@ -15,12 +15,12 @@
 9. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
 10. [Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？](https://juejin.cn/post/7691030977347207231)
 11. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
-12. [AI Native 团队完整开发落地手册](https://juejin.cn/post/7690779187615563776)
-13. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+12. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+13. [AI Native 团队完整开发落地手册](https://juejin.cn/post/7690779187615563776)
 14. [前端已死？别急，这可能只是所有行业的开始](https://juejin.cn/post/7690545232068870153)
 15. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
-16. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
-17. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
+16. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
+17. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
 18. [干了 6 年前端，我是怎么一步步转型到 AI 的？](https://juejin.cn/post/7690468159976701998)
 19. [Firebase iOS SDK 重大事故：一个 nil key 如何让全球 App 集体崩溃](https://juejin.cn/post/7690596943454699571)
 20. [为什么 Spring Boot 自动配置了 Redis，还要自己写 RedisTemplate？](https://juejin.cn/post/7690497906533138482)
@@ -44,13 +44,13 @@
 38. [Android UI 复用体系：泛型基类、骨架与插槽](https://juejin.cn/post/7690440622159822883)
 39. [GitHub 日榜趋势速报 | 2026-09-29](https://juejin.cn/post/7690415131084406822)
 40. [GitHub 日榜趋势速报 | 2026-09-30](https://juejin.cn/post/7690839722769563657)
-41. [Windows 下 Claude Code 落地全指南：从安装配置到避坑优化](https://juejin.cn/post/7690784318688804914)
-42. [用 Canvas + AI 实现登录页的 Logo 粒子动画](https://juejin.cn/post/7690494760706441231)
-43. [从 Demo 搭建的Flutter 演示项目 —— Forge](https://juejin.cn/post/7690467043258400810)
-44. [甲骨文裁3万、DeepSeek却招150人：后端程序员往哪走，我把这批JD拆了一遍](https://juejin.cn/post/7690440622159560739)
-45. [Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？](https://juejin.cn/post/7690832227404300351)
-46. [构建稳定的 AI Agent：Harness 工程的核心机制与实践思考](https://juejin.cn/post/7690982503821246506)
-47. [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050)
-48. [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538)
-49. [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338)
-50. [prisma 如何处理数据库竞态](https://juejin.cn/post/7690797132370657295)
+41. [Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？](https://juejin.cn/post/7690832227404300351)
+42. [Windows 下 Claude Code 落地全指南：从安装配置到避坑优化](https://juejin.cn/post/7690784318688804914)
+43. [用 Canvas + AI 实现登录页的 Logo 粒子动画](https://juejin.cn/post/7690494760706441231)
+44. [从 Demo 搭建的Flutter 演示项目 —— Forge](https://juejin.cn/post/7690467043258400810)
+45. [甲骨文裁3万、DeepSeek却招150人：后端程序员往哪走，我把这批JD拆了一遍](https://juejin.cn/post/7690440622159560739)
+46. [Shopify 回应为什么从 RN 回到原生，为什么不用 KMP ？](https://juejin.cn/post/7691207444283113506)
+47. [构建稳定的 AI Agent：Harness 工程的核心机制与实践思考](https://juejin.cn/post/7690982503821246506)
+48. [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050)
+49. [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538)
+50. [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338)

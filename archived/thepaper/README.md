@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-01 23:13:44
+> 更新时间：2026-10-02 00:14:15
 
 ## 热新闻
 
@@ -10,8 +10,8 @@
 4. [当水管工拉起操纵杆：中东上空的“空中浩劫”是怎样被扭转的](https://www.thepaper.cn/newsDetail_forward_34185841)
 5. [华为Mate 90系列发布：全系搭载韬芯片，麒麟9050 Pro亮相](https://www.thepaper.cn/newsDetail_forward_34186076)
 6. [现场｜亚运国足：进一寸，有进一寸的欢喜](https://www.thepaper.cn/newsDetail_forward_34184787)
-7. [百金落定，一支从未让亚运金牌旁落的队伍，是什么样？](https://www.thepaper.cn/newsDetail_forward_34185317)
-8. [中东密集外交互动谈了什么？释放哪些信号？](https://www.thepaper.cn/newsDetail_forward_34187134)
+7. [中东密集外交互动谈了什么？释放哪些信号？](https://www.thepaper.cn/newsDetail_forward_34187134)
+8. [百金落定，一支从未让亚运金牌旁落的队伍，是什么样？](https://www.thepaper.cn/newsDetail_forward_34185317)
 9. [迪拜航空客机上唯一医护乘客披露救治细节：印度籍机长“手部几乎被切断”](https://www.thepaper.cn/newsDetail_forward_34186075)
 10. [美媒：鲁比奥要求伊朗代表团立即离美](https://www.thepaper.cn/newsDetail_forward_34185339)
 11. [乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”](https://www.thepaper.cn/newsDetail_forward_34185315)
