@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-02 02:17:21
+> 更新时间：2026-10-02 03:12:17
 
 ## 热门文章
 
@@ -23,11 +23,11 @@
 17. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
 18. [干了 6 年前端，我是怎么一步步转型到 AI 的？](https://juejin.cn/post/7690468159976701998)
 19. [idea 插件-把数据库的表画出来](https://juejin.cn/post/7690942973639475200)
-20. [Firebase iOS SDK 重大事故：一个 nil key 如何让全球 App 集体崩溃](https://juejin.cn/post/7690596943454699571)
-21. [为什么 Spring Boot 自动配置了 Redis，还要自己写 RedisTemplate？](https://juejin.cn/post/7690497906533138482)
-22. [Android APK安全防护](https://juejin.cn/post/7690744409042206760)
-23. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://juejin.cn/post/7690869043603292206)
-24. [个人开发者、OPC 个体狂喜的免费资源网站合集，额度不是免费试用：1300个开发者资源](https://juejin.cn/post/7690797132371738639)
+20. [个人开发者、OPC 个体狂喜的免费资源网站合集，额度不是免费试用：1300个开发者资源](https://juejin.cn/post/7690797132371738639)
+21. [Android APK安全防护](https://juejin.cn/post/7690744409042206760)
+22. [Firebase iOS SDK 重大事故：一个 nil key 如何让全球 App 集体崩溃](https://juejin.cn/post/7690596943454699571)
+23. [为什么 Spring Boot 自动配置了 Redis，还要自己写 RedisTemplate？](https://juejin.cn/post/7690497906533138482)
+24. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://juejin.cn/post/7690869043603292206)
 25. [Skill 体检：30 个 Skill 全凭感觉？体检器先自曝了 8 个“假 0 分](https://juejin.cn/post/7690797132370427919)
 26. [Agent Memory架构设计与实现](https://juejin.cn/post/7690512501442609186)
 27. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)

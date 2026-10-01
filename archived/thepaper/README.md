@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-02 02:17:35
+> 更新时间：2026-10-02 03:12:29
 
 ## 热新闻
 
@@ -20,7 +20,7 @@
 14. [世界超级摩托车锦标赛首次落户中国，张雪机车明年驰骋上赛场](https://www.thepaper.cn/newsDetail_forward_34186255)
 15. [国庆假期上海推出2800余项文旅活动，景区商圈迎来大客流](https://www.thepaper.cn/newsDetail_forward_34187043)
 16. [银基动物王国回应“热门项目预约难”等：持续优化预约与管理](https://www.thepaper.cn/newsDetail_forward_34187185)
-17. [银基动物王国实测：热门项目预约难，付费通道分流引争议](https://www.thepaper.cn/newsDetail_forward_34181584)
-18. [于和伟谈《伟大的长征》：我扮演了特别崇敬的人物](https://www.thepaper.cn/newsDetail_forward_34186258)
+17. [华为与赛力斯达成新五年合作，联合组建问界业务专属团队](https://www.thepaper.cn/newsDetail_forward_34187045)
+18. [银基动物王国实测：热门项目预约难，付费通道分流引争议](https://www.thepaper.cn/newsDetail_forward_34181584)
 19. [前三季度人民币对美元即期汇率升值超4%，后续如何走](https://www.thepaper.cn/newsDetail_forward_34186345)
-20. [《中国梦·家国情——2026国庆特别节目》节目单发布](https://www.thepaper.cn/newsDetail_forward_34185714)
+20. [于和伟谈《伟大的长征》：我扮演了特别崇敬的人物](https://www.thepaper.cn/newsDetail_forward_34186258)

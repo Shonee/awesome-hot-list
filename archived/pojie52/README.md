@@ -1,25 +1,25 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-02 02:17:28
+> 更新时间：2026-10-02 03:12:24
 
 ## 人气热门
 
 1. [挖兔硬盘精灵 v1.1.2 | (升级版) | 硬盘健康检测 · 四色预警 · 免费开源](https://www.52pojie.cn/thread-2130160-1-1.html)
-2. [酷安第三方桌面版 coolapk-desktop v1.27.1](https://www.52pojie.cn/thread-2130014-1-1.html)
-3. [百分浏览器 Cent Browser 测试版v5.3.1184.2 2026-9-28](https://www.52pojie.cn/thread-2130237-1-1.html)
-4. [阅读app背景音乐版](https://www.52pojie.cn/thread-2129405-1-1.html)
+2. [百分浏览器 Cent Browser 测试版v5.3.1184.2 2026-9-28](https://www.52pojie.cn/thread-2130237-1-1.html)
+3. [局域网投屏V1.0](https://www.52pojie.cn/thread-2130259-1-1.html)
+4. [剪映国际版 CapCut v9.5.0.4050](https://www.52pojie.cn/thread-2129472-1-1.html)
 5. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
-6. [软件崩溃自动重启软件(无人值守，长时间挂机用，电脑死机蓝屏)](https://www.52pojie.cn/thread-2130199-1-1.html)
-7. [局域网投屏V1.0](https://www.52pojie.cn/thread-2130259-1-1.html)
-8. [哔哩哔哩第三方安卓电视TVapp newBV v1.0.1.r144](https://www.52pojie.cn/thread-2129958-1-1.html)
-9. [硬盘终结者 v1.1 硬盘读写测试工具 ai写的测试工具](https://www.52pojie.cn/thread-2129598-1-1.html)
-10. [批量文件打印助手PrintAssist v1.0.9](https://www.52pojie.cn/thread-2130251-1-1.html)
-11. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
-12. [稻壳阅读器DocBox 2.10.10 修复版](https://www.52pojie.cn/thread-2130420-1-1.html)
-13. [剪映国际版 CapCut v9.5.0.4050](https://www.52pojie.cn/thread-2129472-1-1.html)
-14. [雷电模拟器14优化工具](https://www.52pojie.cn/thread-2130085-1-1.html)
-15. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
-16. [图片批量重命名工具V26.09.29](https://www.52pojie.cn/thread-2130293-1-1.html)
+6. [图片批量重命名工具V26.09.29](https://www.52pojie.cn/thread-2130293-1-1.html)
+7. [酷安第三方桌面版 coolapk-desktop v1.27.1](https://www.52pojie.cn/thread-2130014-1-1.html)
+8. [阅读app背景音乐版](https://www.52pojie.cn/thread-2129405-1-1.html)
+9. [软件崩溃自动重启软件(无人值守，长时间挂机用，电脑死机蓝屏)](https://www.52pojie.cn/thread-2130199-1-1.html)
+10. [哔哩哔哩第三方安卓电视TVapp newBV v1.0.1.r144](https://www.52pojie.cn/thread-2129958-1-1.html)
+11. [硬盘终结者 v1.1 硬盘读写测试工具 ai写的测试工具](https://www.52pojie.cn/thread-2129598-1-1.html)
+12. [批量文件打印助手PrintAssist v1.0.9](https://www.52pojie.cn/thread-2130251-1-1.html)
+13. [抖音.B站视频无水印高清画质下载器 v1.3.0](https://www.52pojie.cn/thread-2129531-1-1.html)
+14. [稻壳阅读器DocBox 2.10.10 修复版](https://www.52pojie.cn/thread-2130420-1-1.html)
+15. [雷电模拟器14优化工具](https://www.52pojie.cn/thread-2130085-1-1.html)
+16. [PDF去水印工具，无广告，不联网，全免费](https://www.52pojie.cn/thread-2129197-1-1.html)
 17. [内网打印服务](https://www.52pojie.cn/thread-2128747-1-1.html)
 18. [【全网首发】YUAN-ERP进销存|ERP软件中小企业福音你值得拥有](https://www.52pojie.cn/thread-2129955-1-1.html)
 19. [sonovel 安卓端 v1.0，聚合书源小说下载器](https://www.52pojie.cn/thread-2129694-1-1.html)
