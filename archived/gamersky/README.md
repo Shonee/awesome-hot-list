@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-01 12:16:12
+> 更新时间：2026-10-01 13:14:47
 
 ## 热点资讯排行
 
@@ -13,9 +13,9 @@
 7. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 8. [曝小岛秀夫新作预算4亿美元 直接吓跑索尼](https://www.gamersky.com/news/202609/2217575.shtml)
 9. [尼尔终于爆猛料！《美末》两大新项目|光头新作明年见](https://www.gamersky.com/news/202609/2218858.shtml)
-10. [杰洛特变黑人！《巫师3重制版》大量玩家画面翻车](https://www.gamersky.com/news/202609/2219696.shtml)
-11. [《007 初露锋芒》新DLC官宣！国庆节免费送](https://www.gamersky.com/news/202609/2219728.shtml)
-12. [《神鬼寓言4》试玩口碑超棒：画面效果很顶 性能稳定](https://www.gamersky.com/news/202609/2217601.shtml)
-13. [育碧官宣10.2大动作!发神秘预告 网友全在喊《圣歌》](https://www.gamersky.com/news/202609/2219761.shtml)
+10. [《007 初露锋芒》新DLC官宣！国庆节免费送](https://www.gamersky.com/news/202609/2219728.shtml)
+11. [杰洛特变黑人！《巫师3重制版》大量玩家画面翻车](https://www.gamersky.com/news/202609/2219696.shtml)
+12. [育碧官宣10.2大动作!发神秘预告 网友全在喊《圣歌》](https://www.gamersky.com/news/202609/2219761.shtml)
+13. [《神鬼寓言4》试玩口碑超棒：画面效果很顶 性能稳定](https://www.gamersky.com/news/202609/2217601.shtml)
 14. [《巫师3重制版》开场30分钟实机演示 惊艳画质 系统革新](https://www.gamersky.com/news/202609/2218850.shtml)
 15. [《巫师3重制版》战斗实机：大进步 肾上腺素飙升](https://www.gamersky.com/news/202609/2217630.shtml)

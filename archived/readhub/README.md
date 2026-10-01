@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-01 11:50:52
+> 更新时间：2026-10-01 13:14:34
 
 ## 24 小时热榜
 
@@ -12,28 +12,28 @@
 6. [Anthropic 评测 GLM-5.3 漏洞利用能力，智谱股价盘中涨超 2%](https://readhub.cn/topic/8wq5qJmhUcm?tab=daily)
 7. [OpenAI 重启 200 美元 Pro 套餐 额度减半引发开发者不满](https://readhub.cn/topic/8wqERkdxaWY?tab=daily)
 8. [收购失败后 Manus 与 Meta 先后推出 Agent 产品成对手](https://readhub.cn/topic/8wovhMYEtcg?tab=daily)
-9. [Kimi K3 接入 OpenAI Codex 企业通道 中国开源模型首次进入其付费结算体系](https://readhub.cn/topic/8wqS1frMi4d?tab=daily)
-10. [Anthropic 面向政府机构的 Claude 现已全面开放](https://readhub.cn/topic/8wqzxai26CQ?tab=daily)
+9. [Anthropic 面向政府机构的 Claude 现已全面开放](https://readhub.cn/topic/8wqzxai26CQ?tab=daily)
+10. [Kimi K3 接入 OpenAI Codex 企业通道 中国开源模型首次进入其付费结算体系](https://readhub.cn/topic/8wqS1frMi4d?tab=daily)
 11. [OpenAI 推出 Codex 专用插件，可用自然语言 AI 制作 Game Boy 风格游戏](https://readhub.cn/topic/8wq2HPcek8P?tab=daily)
 12. [谷歌向免费用户开放 Gemini Skills 2026 年 11 月整合 Gems](https://readhub.cn/topic/8wpwZDqHjfY?tab=daily)
-13. [花旗上调恒瑞医药 H 股目标价至 120 港元，将其列为重点推荐标的](https://readhub.cn/topic/8wq1g85ezON?tab=daily)
-14. [税务总局发布全国统一的税务行政处罚裁量基准](https://readhub.cn/topic/8wqFr5zoJdg?tab=daily)
-15. [Muse 爆火，国内大厂加速布局对标个人 AI 智能体产品](https://readhub.cn/topic/8wqF9oSdnxZ?tab=daily)
-16. [字节、美团投资的盈合机器人破产 累计烧光超 6 亿融资](https://readhub.cn/topic/8wqJn4nsE5J?tab=daily)
-17. [快手高管调整：程一笑兼任社科线负责人 于越转任可灵 CEO](https://readhub.cn/topic/8wqUsHF67oU?tab=daily)
-18. [《电子病历版式文档技术要求》国家标准正式发布](https://readhub.cn/topic/8wq0ADwM4mf?tab=daily)
+13. [税务总局发布全国统一的税务行政处罚裁量基准](https://readhub.cn/topic/8wqFr5zoJdg?tab=daily)
+14. [字节、美团投资的盈合机器人破产 累计烧光超 6 亿融资](https://readhub.cn/topic/8wqJn4nsE5J?tab=daily)
+15. [花旗上调恒瑞医药 H 股目标价至 120 港元，将其列为重点推荐标的](https://readhub.cn/topic/8wq1g85ezON?tab=daily)
+16. [快手高管调整：程一笑兼任社科线负责人 于越转任可灵 CEO](https://readhub.cn/topic/8wqUsHF67oU?tab=daily)
+17. [Muse 爆火，国内大厂加速布局对标个人 AI 智能体产品](https://readhub.cn/topic/8wqF9oSdnxZ?tab=daily)
+18. [华为 Mate90 全系搭载旗舰 τ 芯片](https://readhub.cn/topic/8wrcCR6Hhvv?tab=daily)
 19. [9 月 30 日 58 家 IPO 审核状态变更为中止 系财报更新所致](https://readhub.cn/topic/8wqZ9BHzf16?tab=daily)
 20. [抖音终止收购联动优势，标的支付牌照此前已被中止续展](https://readhub.cn/topic/8wq6aTDoygL?tab=daily)
-21. [卫星图像显示沙特东西输油管道或部分恢复运行](https://readhub.cn/topic/8wq1vaLkWQA?tab=daily)
+21. [极氪回应换电车型传闻：无开发规划 聚焦超快充与电混](https://readhub.cn/topic/8wqBZkBdDxD?tab=daily)
 22. [个人 AI 公司 Instinct 完成融资 估值达百亿美元](https://readhub.cn/topic/8wqaZg16nyf?tab=daily)
-23. [极氪回应换电车型传闻：无开发规划 聚焦超快充与电混](https://readhub.cn/topic/8wqBZkBdDxD?tab=daily)
-24. [美国散户大本营 Robinhood 推出 AI 智能体工具，可自动替用户盯盘交易](https://readhub.cn/topic/8wq1vnHdKsS?tab=daily)
-25. [人造太阳建设新进展：紧凑型聚变能实验装置园区交付使用](https://readhub.cn/topic/8wrL1lzvrJk?tab=daily)
-26. [宝马计划借助 AI 裁减 20% 管理职位 推动成本削减](https://readhub.cn/topic/8wqggAd5nv8?tab=daily)
-27. [江淮汽车：与华为、Stellantis 三方确有合作意向沟洽 合作细节未确定](https://readhub.cn/topic/8wqiqKej3f0?tab=daily)
-28. [朋友圈贷款广告消失 金融产品网络营销新规明日施行](https://readhub.cn/topic/8wp00O0qSRc?tab=daily)
-29. [Jacobs 获英伟达研发设施三年期 SaaS 合同](https://readhub.cn/topic/8wqfz9p7ZW9?tab=daily)
-30. [AI 行情退潮 韩国股市三季度成全球主要市场表现最差股市](https://readhub.cn/topic/8wqD08mNsbk?tab=daily)
+23. [朋友圈贷款广告消失 金融产品网络营销新规明日施行](https://readhub.cn/topic/8wp00O0qSRc?tab=daily)
+24. [人造太阳建设新进展：紧凑型聚变能实验装置园区交付使用](https://readhub.cn/topic/8wrL1lzvrJk?tab=daily)
+25. [宝马计划借助 AI 裁减 20% 管理职位 推动成本削减](https://readhub.cn/topic/8wqggAd5nv8?tab=daily)
+26. [江淮汽车：与华为、Stellantis 三方确有合作意向沟洽 合作细节未确定](https://readhub.cn/topic/8wqiqKej3f0?tab=daily)
+27. [英伟达、Meta 等 AI 巨头质疑 Anthropic「过度警告」](https://readhub.cn/topic/8wrJEaeApvH?tab=daily)
+28. [报道：淡水河谷考虑首次发行熊猫债，融资不超 35 亿元人民币](https://readhub.cn/topic/8wq94LKHAl3?tab=daily)
+29. [一嗨租车被曝出租轮胎报废车辆 消费者自驾遇险](https://readhub.cn/topic/8wqHJNRcaHl?tab=daily)
+30. [慢雾披露 Bitget 热钱包被盗调查进展 攻击涉及第三方安全产品漏洞](https://readhub.cn/topic/8wq5u4H1or7?tab=daily)
 
 ## 每日早报
 
@@ -49,11 +49,11 @@
 
 1. [Gemini 4 终于来了 先给防御方用，然后再给普通用户](https://www.mittrchina.com/news/detail/17037)
 2. [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/)
-3. [OpenAI 挫败协同模型蒸馏行动](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)
-4. [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work)
-5. [余承东详解麒麟多款芯片参数 端侧 30B MoE 大模型落地](https://phone.cnmo.com/news/819669.html)
-6. [AI 助力破解 RNA 疫苗储存难题](https://www.mittrchina.com/news/detail/17036)
-7. [NeurIPS'26 | 港科大：从 CPU 到 GPU，AI 能否真正加速全流程？](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731150&idx=3&sn=67a9b831fd2ad980bd0f4db335c99b96)
-8. [谷歌发布 Gemini 4 Argon：单次输出上限达 100 万 Token](https://www.36kr.com/p/4006503753830529)
-9. [From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI](https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/)
-10. [8200 个项目在排队，AI 基建卡在了最后一道关口](https://www.tmtpost.com/8157619.html)
+3. [Tencent leases 100,000 advanced AI chips from Oracle in $7B deal via Southeast Asia loophole](https://daily.dev/posts/ft-tencent-has-leased-about-100-000-advanced-ai-chips-from-oracle-for-5-years-worth-about-7b-n-cy6bsbfbo)
+4. [699 元 华为 FreeBuds Neo 发布：自研第三代音频 AI 芯片、30dB 降噪](https://news.mydrivers.com/1/1155/1155019.htm)
+5. [OpenAI 挫败协同模型蒸馏行动](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)
+6. [Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work)
+7. [余承东详解麒麟多款芯片参数 端侧 30B MoE 大模型落地](https://phone.cnmo.com/news/819669.html)
+8. [AI 助力破解 RNA 疫苗储存难题](https://www.mittrchina.com/news/detail/17036)
+9. [NeurIPS'26 | 港科大：从 CPU 到 GPU，AI 能否真正加速全流程？](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731150&idx=3&sn=67a9b831fd2ad980bd0f4db335c99b96)
+10. [谷歌发布 Gemini 4 Argon：单次输出上限达 100 万 Token](https://www.36kr.com/p/4006503753830529)
