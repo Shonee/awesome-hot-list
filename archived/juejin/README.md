@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-02 05:11:48
+> 更新时间：2026-10-02 06:12:26
 
 ## 热门文章
 
@@ -15,24 +15,24 @@
 9. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://juejin.cn/post/7690414588748464138)
 10. [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768)
 11. [基于Jev的浏览器Agent插件狂揽 21k star，3分钟教你解放双手](https://juejin.cn/post/7690762523469479977)
-12. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
-13. [前端已死？别急，这可能只是所有行业的开始](https://juejin.cn/post/7690545232068870153)
-14. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
-15. [AI Native 团队完整开发落地手册](https://juejin.cn/post/7690779187615563776)
+12. [前端已死？别急，这可能只是所有行业的开始](https://juejin.cn/post/7690545232068870153)
+13. [自从有了 AI，我就再也不想拼 UI 了……](https://juejin.cn/post/7690468159975768110)
+14. [AI Native 团队完整开发落地手册](https://juejin.cn/post/7690779187615563776)
+15. [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931)
 16. [面试官问"你怎么证明它有效"，200个转AI的后端没几个答得上来](https://juejin.cn/post/7690490009979928576)
 17. [iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155](https://juejin.cn/post/7690456283196637184)
 18. [干了 6 年前端，我是怎么一步步转型到 AI 的？](https://juejin.cn/post/7690468159976701998)
-19. [Agent Memory架构设计与实现](https://juejin.cn/post/7690512501442609186)
+19. [idea 插件-把数据库的表画出来](https://juejin.cn/post/7690942973639475200)
 20. [个人开发者、OPC 个体狂喜的免费资源网站合集，额度不是免费试用：1300个开发者资源](https://juejin.cn/post/7690797132371738639)
 21. [Android APK安全防护](https://juejin.cn/post/7690744409042206760)
 22. [Firebase iOS SDK 重大事故：一个 nil key 如何让全球 App 集体崩溃](https://juejin.cn/post/7690596943454699571)
-23. [为什么 Spring Boot 自动配置了 Redis，还要自己写 RedisTemplate？](https://juejin.cn/post/7690497906533138482)
-24. [idea 插件-把数据库的表画出来](https://juejin.cn/post/7690942973639475200)
-25. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
-26. [Shopify 回应为什么从 RN 回到原生，为什么不用 KMP ？](https://juejin.cn/post/7691207444283113506)
-27. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://juejin.cn/post/7690869043603292206)
-28. [Skill 体检：30 个 Skill 全凭感觉？体检器先自曝了 8 个“假 0 分](https://juejin.cn/post/7690797132370427919)
-29. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
+23. [Agent Memory架构设计与实现](https://juejin.cn/post/7690512501442609186)
+24. [为什么 Spring Boot 自动配置了 Redis，还要自己写 RedisTemplate？](https://juejin.cn/post/7690497906533138482)
+25. [Shopify 回应为什么从 RN 回到原生，为什么不用 KMP ？](https://juejin.cn/post/7691207444283113506)
+26. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://juejin.cn/post/7690869043603292206)
+27. [Skill 体检：30 个 Skill 全凭感觉？体检器先自曝了 8 个“假 0 分](https://juejin.cn/post/7690797132370427919)
+28. [Flutter GetX 三件套开发规范（Skill）](https://juejin.cn/post/7690512501442428962)
+29. [一张图三句需求，我用 Trae Work 做了一块能看日出日落和月相的天文机械表](https://juejin.cn/post/7690504159464505386)
 30. [花了 100 亿 Token 后，我发现 Code is cheap 是最大的谎言](https://juejin.cn/post/7690490009980403712)
 31. [Pro 200 额度砍半，OpenAI 给的理由是模型变聪明了](https://juejin.cn/post/7690867753125199907)
 32. [千问偷偷进村修改 token plan 重置周期这个事大家都知道了吧？](https://juejin.cn/post/7691284233897656383)

@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-02 05:12:46
+> 更新时间：2026-10-02 06:13:20
 
 ## 股票人气榜
 
@@ -16,9 +16,9 @@
 10. [300059 (300059)](https://quote.eastmoney.com/sz300059.html)
 11. [002242 (002242)](https://quote.eastmoney.com/sz002242.html)
 12. [603127 (603127)](https://quote.eastmoney.com/sh603127.html)
-13. [603200 (603200)](https://quote.eastmoney.com/sh603200.html)
+13. [600825 (600825)](https://quote.eastmoney.com/sh600825.html)
 14. [002866 (002866)](https://quote.eastmoney.com/sz002866.html)
-15. [600825 (600825)](https://quote.eastmoney.com/sh600825.html)
+15. [603200 (603200)](https://quote.eastmoney.com/sh603200.html)
 16. [002074 (002074)](https://quote.eastmoney.com/sz002074.html)
 17. [603538 (603538)](https://quote.eastmoney.com/sh603538.html)
 18. [603906 (603906)](https://quote.eastmoney.com/sh603906.html)

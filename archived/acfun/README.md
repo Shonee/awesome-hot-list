@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-02 05:11:46
+> 更新时间：2026-10-02 06:12:24
 
 ## 日榜
 
@@ -23,14 +23,14 @@
 17. [《有趣》(cover单依纯) 这就是全开麦的实力](https://www.acfun.cn/v/ac48885073)
 18. [【Dina小崽】云南之旅·曲靖](https://www.acfun.cn/v/ac48883439)
 19. [来这儿头发就没顺溜过](https://www.acfun.cn/v/ac48875146)
-20. [祝福祖国77周年华诞！2026年北京天安门广场国庆升旗仪式](https://www.acfun.cn/v/ac48884718)
-21. [御者，敢坐心月狐的副驾吗](https://www.acfun.cn/v/ac48884239)
+20. [御者，敢坐心月狐的副驾吗](https://www.acfun.cn/v/ac48884239)
+21. [祝福祖国77周年华诞！2026年北京天安门广场国庆升旗仪式](https://www.acfun.cn/v/ac48884718)
 22. [放假是让你旅游的吗？？](https://www.acfun.cn/v/ac48884474)
 23. [三线作战大获全胜，打赢了就不算反派！【绝地潜兵1剧情解析】](https://www.acfun.cn/v/ac48883937)
-24. [「JOJO的奇妙冒险 飙马野郎」第2话【桜都字幕组】](https://www.acfun.cn/v/ac48884924)
+24. [乐高和龙珠，有没有搞头？](https://www.acfun.cn/v/ac48885529)
 25. [31.冥河畔的幽灵，深渊中的远古异形，四足动物的另类先驱：壳椎亚纲](https://www.acfun.cn/v/ac48881834)
-26. [【旅行日记】看这一只小傻咪](https://www.acfun.cn/v/ac48884848)
-27. [乐高和龙珠，有没有搞头？](https://www.acfun.cn/v/ac48885529)
+26. [「JOJO的奇妙冒险 飙马野郎」第2话【桜都字幕组】](https://www.acfun.cn/v/ac48884924)
+27. [【旅行日记】看这一只小傻咪](https://www.acfun.cn/v/ac48884848)
 28. [【绝望女神/翻唱】【黑礁 OP 赤色碎片 RED FRACTION】](https://www.acfun.cn/v/ac48885464)
 29. [从一级团就开始疯狂操作的韩服王者局！快速看完一局韩服王者斗殴局#844 Keria, Zeka,景德](https://www.acfun.cn/v/ac48878541)
 30. [VID_20261001棕色lolita](https://www.acfun.cn/v/ac48885044)
@@ -52,8 +52,8 @@
 46. [佐天泪子 时尚变装秀 城市/海滩【AI动画/超清】](https://www.acfun.cn/v/ac48884375)
 47. [【东方手书剧场】夜雀食堂～月之使者与地上少年的肉丸～【内嵌汉化】](https://www.acfun.cn/v/ac48884252)
 48. [新英雄被遗忘者圣骑士的新战术来了 魔兽争霸xiaoy解说moon 120](https://www.acfun.cn/v/ac48884600)
-49. [以后永远以和为贵](https://www.acfun.cn/v/ac48885023)
-50. [万字精讲丨1990悬疑侦破罪案：沙漠惊现国民党军机，国宝失窃引出连环谜案《天王盖地虎》](https://www.acfun.cn/v/ac48885568)
+49. [Catch catch哒哒哒哒](https://www.acfun.cn/v/ac48885533)
+50. [以后永远以和为贵](https://www.acfun.cn/v/ac48885023)
 
 ## 三日榜
 
@@ -87,13 +87,13 @@
 28. [【柯基】《鞋儿破帽儿破》｜电视剧《济公》主题曲](https://www.acfun.cn/v/ac48880114)
 29. [网络上常见的热门短视频集锦   第三千四百六十二期](https://www.acfun.cn/v/ac48884854)
 30. [不说了，晚上就去摆摊算命！欢乐八点档-1789](https://www.acfun.cn/v/ac48885139)
-31. [交通事故20260930：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48882726)
-32. [天价？这是我目前为止，吃过最贵的菜饭！](https://www.acfun.cn/v/ac48884716)
+31. [天价？这是我目前为止，吃过最贵的菜饭！](https://www.acfun.cn/v/ac48884716)
+32. [交通事故20260930：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48882726)
 33. [安柏：草原之斥候，白桦林之隐匿者](https://www.acfun.cn/v/ac48883969)
 34. [只看不赞  是小坏蛋](https://www.acfun.cn/v/ac48883867)
 35. [原创编舞《散落飘零》舞台，请多多支持编舞师礼礼](https://www.acfun.cn/v/ac48881350)
-36. [我说再喝一碗我熬的茶汤](https://www.acfun.cn/v/ac48882778)
-37. [得加钱【今天有什么好笑的 #2523】](https://www.acfun.cn/v/ac48885135)
+36. [得加钱【今天有什么好笑的 #2523】](https://www.acfun.cn/v/ac48885135)
+37. [我说再喝一碗我熬的茶汤](https://www.acfun.cn/v/ac48882778)
 38. [实验室制取烟花的办法](https://www.acfun.cn/v/ac48884362)
 39. [短裙跳舞真不容易](https://www.acfun.cn/v/ac48885211)
 40. [哇塞哇塞！圆脸师姐！](https://www.acfun.cn/v/ac48880589)
