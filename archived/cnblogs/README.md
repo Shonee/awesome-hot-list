@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-01 08:40:51
+> 更新时间：2026-10-01 09:39:34
 
 ## 最新帖子
 
-1. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
-2. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
-3. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
-4. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
-5. [Go语言中结构体与JSON之间互相转换](https://www.cnblogs.com/ishoulgodo/p/23174494)
-6. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
-7. [Java转go，我用了12小时，10小时在解决环境问题](https://www.cnblogs.com/xiexj/p/23173554)
-8. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
-9. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
-10. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
-11. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
-12. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
-13. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
-14. [CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏](https://www.cnblogs.com/jacklu/p/23167934)
-15. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
-16. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
-17. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
-18. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
-19. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
-20. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
+1. [【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析）](https://www.cnblogs.com/haliuhome/p/23178401)
+2. [volatile 与寄存器：SysTick->VAL 到底在读什么](https://www.cnblogs.com/zw-awa/p/23178327)
+3. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
+4. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
+5. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
+6. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
+7. [Go语言中结构体与JSON之间互相转换](https://www.cnblogs.com/ishoulgodo/p/23174494)
+8. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
+9. [Java转go，我用了12小时，10小时在解决环境问题](https://www.cnblogs.com/xiexj/p/23173554)
+10. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
+11. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
+12. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
+13. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
+14. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
+15. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
+16. [CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏](https://www.cnblogs.com/jacklu/p/23167934)
+17. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
+18. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
+19. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
+20. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [你把时间放在哪里，哪里就会生长 | 一个互联网人的时间配置法](https://www.cnblogs.com/yuyisi/p/23139319)
-2. [AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23151570)
-3. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
-4. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
-5. [公司发展到一定阶段，到底要不要封装中间件](https://www.cnblogs.com/zhangs1986/p/23056721)
-6. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
+1. [【旧文】如何成为一名靠谱的程序员](https://www.cnblogs.com/cswuyg/p/23154823)
+2. [《项目管理指导手册》2026版-心得（一）](https://www.cnblogs.com/demon28/p/23154889)
+3. [开源跨端PixUI开始支持WebGPU啦!](https://www.cnblogs.com/BaiCai/p/23157942)
+4. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
+5. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
+6. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)

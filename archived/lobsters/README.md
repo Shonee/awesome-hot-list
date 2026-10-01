@@ -1,17 +1,17 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-01 08:42:37
+> 更新时间：2026-10-01 09:41:23
 
 ## Hottest
 
-1. [The Cuckoo's Egg](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book))
+1. [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
 2. [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
-3. [Tcl/Tk 9.1](https://www.tcl-lang.org/software/tcltk/9.1.html)
-4. [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
+3. [The Cuckoo's Egg](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book))
+4. [Tcl/Tk 9.1](https://www.tcl-lang.org/software/tcltk/9.1.html)
 5. [Differences between `foldl` and `foldr`](https://blog.haskell.org/foldl-and-foldr/)
-6. [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
-7. [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
-8. [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
+6. [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
+7. [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
+8. [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
 9. [Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/)
 10. [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
 11. [We used a database as a message queue. Now we use Kafka](https://www.tigrisdata.com/blog/quick-fdb-kafka/)
