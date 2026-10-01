@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-01 10:28:27
+> 更新时间：2026-10-01 11:28:41
 
 ## 热新闻
 
@@ -17,8 +17,8 @@
 11. [烈士遗骸上的弹孔，让考古专家感慨“铮铮铁骨是真实写照”](https://www.thepaper.cn/newsDetail_forward_34160597)
 12. [众声丨组织“自愿捐款”却实名接龙，家委会权责边界需厘清](https://www.thepaper.cn/newsDetail_forward_34178532)
 13. [告别无休止滑屏约会：新加坡试点官方算法配对，婚介机构在日本重获青睐](https://www.thepaper.cn/newsDetail_forward_34178172)
-14. [40年首球！中国U23男足不敌韩国，无缘决赛](https://www.thepaper.cn/newsDetail_forward_34178998)
-15. [奔赴“县”场｜安徽黟县：如何从“到此一游”到“留此成邻”](https://www.thepaper.cn/newsDetail_forward_34179255)
+14. [奔赴“县”场｜安徽黟县：如何从“到此一游”到“留此成邻”](https://www.thepaper.cn/newsDetail_forward_34179255)
+15. [40年首球！中国U23男足不敌韩国，无缘决赛](https://www.thepaper.cn/newsDetail_forward_34178998)
 16. [空姐推餐车磕碰乘客后下跪？涉事航空公司员工：已上报此事](https://www.thepaper.cn/newsDetail_forward_34177847)
 17. [释新闻｜劫机代码、战机出动、机长被刺，迪拜航空客机内发生了什么？](https://www.thepaper.cn/newsDetail_forward_34180763)
 18. [马上评｜用心做好服务和维护员工尊严并不矛盾](https://www.thepaper.cn/newsDetail_forward_34179882)
