@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-01 07:13:01
+> 更新时间：2026-10-01 08:41:04
 
 ## 热点榜
 
 1. [庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话](https://view.inews.qq.com/a/20260930A09WJ900)
 2. [完整版！天安门广场国庆升旗仪式：护旗方队步伐铿锵 雄壮国歌响彻全场](https://view.inews.qq.com/a/20261001V03JDA00)
-3. [校园童声嘹亮 孩子们用歌声为祖国庆生](https://view.inews.qq.com/a/20260930A0ABA400)
+3. [万羽白鸽掠过天安门！全场大合唱《歌唱祖国》](https://view.inews.qq.com/a/20261001V03WW600)
 4. [画集里的长征史诗](https://view.inews.qq.com/a/20260930A09C2X00)
-5. [秀我中国｜天安门大花篮是怎么搭的？](https://view.inews.qq.com/a/20260930A06CM900)
-6. [建交纪念日临近，外交部：中俄关系走过了77年风雨历程](https://view.inews.qq.com/a/20260930A07GQC00)
-7. [视频丨“微笑”卫星完成“试用期” 发布首批太空观测图像和数据](https://view.inews.qq.com/a/20260930A0ACYN00)
-8. [事关中国，李在明晒图](https://view.inews.qq.com/a/20260930A0A1BW00)
-9. [工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行，集体公告！](https://view.inews.qq.com/a/20260930A06AE300)
-10. [中秋节当天，男子账户突然“回来了”1598580元，转账备注竟是“公安局”](https://view.inews.qq.com/a/20260930V02UFM00)
-11. [小龙虾的谣言别再信了！](https://mp.weixin.qq.com/s/mhgSyLkxT3VhbHqoDltY3g)
-12. [五星红旗映亮万里山河 今天自豪喊出“我爱你中国”](https://view.inews.qq.com/a/20261001V03B0O00)
-13. [骤降数千米舱内曝光！迪拜航空副机长刀刺机长，欲撞毁飞机](https://view.inews.qq.com/a/20260930V09KRG00)
+5. [视频丨国博假期首展实证中华文明“多元一体”](https://view.inews.qq.com/a/20261001A00GRH00)
+6. [五星红旗映亮万里山河 今天自豪喊出“我爱你中国”](https://view.inews.qq.com/a/20261001V03B0O00)
+7. [2026年名古屋亚运会](https://view.inews.qq.com/a/UTR2026090406706200)
+8. [“人造太阳”建设新进展！紧凑型聚变能实验装置园区交付使用](https://view.inews.qq.com/a/20261001A03B0H00)
+9. [视频丨预计21.3亿人次！国庆出行热度拉满](https://view.inews.qq.com/a/20261001A0186400)
+10. [中国代表团已获151枚金牌，跳水队达成亚运“百金”](https://view.inews.qq.com/a/20261001A03XIU00)
+11. [北京辟谣 │饮用无醇啤酒后开车不会构成酒驾？小心！无醇≠零醇](https://mp.weixin.qq.com/s/qySy3u_wAqmy6cR-cPf_wg?color_scheme=light)
+12. [从“托市场”到“托家庭”，房贷贴息精准滴灌刚需](https://view.inews.qq.com/a/20261001A03O4I00)
+13. [中秋节当天，男子账户突然“回来了”1598580元，转账备注竟是“公安局”](https://view.inews.qq.com/a/20260930V02UFM00)
 14. [两年至少10次点名“涨工资”，多地密集推进：上调最低工资、发布工资指导线](https://view.inews.qq.com/a/20260930A08S5100)
-15. [视频丨鲜亮“中国红”与古建筑同框 感受各地浓厚国庆氛围](https://view.inews.qq.com/a/20260930A06XEZ00)
-16. [外交部：“拥有核武器”不是日方想不想讨论的问题](https://view.inews.qq.com/a/20260930A07LTB00)
-17. [“你不喂母乳容易得乳腺癌”，浙江一宝妈月薪万元请育儿嫂照顾孩子，遭对方言语贬低半年情绪多次崩溃：就想要一个道歉](https://view.inews.qq.com/a/20260930A05Y5Q00)
-18. [张超舍命保住的歼-15，首次公开展示](https://view.inews.qq.com/a/20260930A06DDU00)
-19. [长沙某高校副教授和前妻欠数百万元，十余年不还被“限高” 当事人：账户已冻结 无还款能力](https://view.inews.qq.com/a/20260930A06NUT00)
-20. [“清澈的爱，只为中国！”](https://view.inews.qq.com/a/20260930A07PN500)
+15. [足坛一夜动态：C罗官宣退出集训！葡媒曝或从国家队退役 内马尔点赞](https://view.inews.qq.com/a/20261001A03PE500)
+16. [视频丨鲜亮“中国红”与古建筑同框 感受各地浓厚国庆氛围](https://view.inews.qq.com/a/20260930A06XEZ00)
+17. [骤降数千米舱内曝光！迪拜航空副机长刀刺机长，欲撞毁飞机](https://view.inews.qq.com/a/20260930V09KRG00)
+18. [11万“体雕”竟是抽脂！女子醒来喉咙残留插管的撕裂感：以为要走了](https://view.inews.qq.com/a/20260930V08OIV00)
+19. [美防长宣布组建“自主作战司令部”](https://view.inews.qq.com/a/20261001A03ORF00)
+20. [称“举报文物失踪后频遭检查致停业”的山东烧烤店重新开业，店主：完成大部分整改要求](https://view.inews.qq.com/a/20260930A09CDI00)

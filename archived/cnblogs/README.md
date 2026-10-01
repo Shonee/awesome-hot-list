@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-01 07:12:46
+> 更新时间：2026-10-01 08:40:51
 
 ## 最新帖子
 
-1. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
-2. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
-3. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
-4. [Go语言中结构体与JSON之间互相转换](https://www.cnblogs.com/ishoulgodo/p/23174494)
-5. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
-6. [Java转go，我用了12小时，10小时在解决环境问题](https://www.cnblogs.com/xiexj/p/23173554)
-7. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
-8. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
-9. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
-10. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
-11. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
-12. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
-13. [CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏](https://www.cnblogs.com/jacklu/p/23167934)
-14. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
-15. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
-16. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
-17. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
-18. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
-19. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
-20. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
+1. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
+2. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
+3. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
+4. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
+5. [Go语言中结构体与JSON之间互相转换](https://www.cnblogs.com/ishoulgodo/p/23174494)
+6. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
+7. [Java转go，我用了12小时，10小时在解决环境问题](https://www.cnblogs.com/xiexj/p/23173554)
+8. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
+9. [aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地](https://www.cnblogs.com/keymotek/p/23171040)
+10. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
+11. [【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？](https://www.cnblogs.com/lulight/p/23169725)
+12. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)
+13. [《从统计方法到大语言模型：NLP 的问题与方法演进》](https://www.cnblogs.com/GlenTt/p/23168478)
+14. [CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏](https://www.cnblogs.com/jacklu/p/23167934)
+15. [用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表](https://www.cnblogs.com/sset-sz/p/23167852)
+16. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
+17. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
+18. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
+19. [Python 批量导入多个 CSV 至单个 Excel 文件](https://www.cnblogs.com/jazz-z/p/23166043)
+20. [【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖）](https://www.cnblogs.com/haliuhome/p/23165445)
 
 ## 精华帖子
 
