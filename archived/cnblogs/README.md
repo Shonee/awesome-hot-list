@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-02 03:12:21
+> 更新时间：2026-10-02 04:14:23
 
 ## 最新帖子
 
@@ -52,7 +52,7 @@
 
 1. [RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了](https://www.cnblogs.com/zrui-xyu/p/23166084)
 2. [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://www.cnblogs.com/jinjiangongzuoshi/p/23165431)
-3. [2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么](https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026)
-4. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
-5. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
-6. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
+3. [提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering)
+4. [Jev 爆火之后，给企业应用配一个 AI 决策模型](https://www.cnblogs.com/powertoolsteam/p/23166078)
+5. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
+6. [从零开始，带你彻底搞懂"非阻塞延迟"这个利器](https://www.cnblogs.com/sun-10387834/p/23169299)

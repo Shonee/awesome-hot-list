@@ -1,16 +1,16 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-02 03:12:24
+> 更新时间：2026-10-02 04:14:27
 
 ## 人气热门
 
-1. [挖兔硬盘精灵 v1.1.2 | (升级版) | 硬盘健康检测 · 四色预警 · 免费开源](https://www.52pojie.cn/thread-2130160-1-1.html)
-2. [百分浏览器 Cent Browser 测试版v5.3.1184.2 2026-9-28](https://www.52pojie.cn/thread-2130237-1-1.html)
-3. [局域网投屏V1.0](https://www.52pojie.cn/thread-2130259-1-1.html)
-4. [剪映国际版 CapCut v9.5.0.4050](https://www.52pojie.cn/thread-2129472-1-1.html)
-5. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
-6. [图片批量重命名工具V26.09.29](https://www.52pojie.cn/thread-2130293-1-1.html)
-7. [酷安第三方桌面版 coolapk-desktop v1.27.1](https://www.52pojie.cn/thread-2130014-1-1.html)
+1. [酷安第三方桌面版 coolapk-desktop v1.27.1](https://www.52pojie.cn/thread-2130014-1-1.html)
+2. [挖兔硬盘精灵 v1.1.2 | (升级版) | 硬盘健康检测 · 四色预警 · 免费开源](https://www.52pojie.cn/thread-2130160-1-1.html)
+3. [百分浏览器 Cent Browser 测试版v5.3.1184.2 2026-9-28](https://www.52pojie.cn/thread-2130237-1-1.html)
+4. [局域网投屏V1.0](https://www.52pojie.cn/thread-2130259-1-1.html)
+5. [剪映国际版 CapCut v9.5.0.4050](https://www.52pojie.cn/thread-2129472-1-1.html)
+6. [千千静听社区复刻版 TTPlayerRebuild v2026.09.20](https://www.52pojie.cn/thread-2129165-1-1.html)
+7. [图片批量重命名工具V26.09.29](https://www.52pojie.cn/thread-2130293-1-1.html)
 8. [阅读app背景音乐版](https://www.52pojie.cn/thread-2129405-1-1.html)
 9. [软件崩溃自动重启软件(无人值守，长时间挂机用，电脑死机蓝屏)](https://www.52pojie.cn/thread-2130199-1-1.html)
 10. [哔哩哔哩第三方安卓电视TVapp newBV v1.0.1.r144](https://www.52pojie.cn/thread-2129958-1-1.html)
