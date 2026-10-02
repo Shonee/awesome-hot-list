@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-02 12:16:39
+> 更新时间：2026-10-02 13:15:12
 
 ## Hottest
 
@@ -15,16 +15,16 @@
 9. [The death of web development education](https://molily.de/web-dev-education/)
 10. [WSL containers are now generally available](https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/)
 11. [Typeclasses vs Modules](https://sm2n.ca/articles/typeclasses-vs-modules/)
-12. [Reviving Valve's 15-year-old e-book](https://nikolan.net/posts/portal2/)
-13. [The AI Pascal’s Wager](https://ploum.net/2026-10-01-pascal_wager.html)
-14. [The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary](https://verdagon.dev/blog/boundary-memory-safety)
-15. [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
+12. [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
+13. [Reviving Valve's 15-year-old e-book](https://nikolan.net/posts/portal2/)
+14. [The AI Pascal’s Wager](https://ploum.net/2026-10-01-pascal_wager.html)
+15. [The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary](https://verdagon.dev/blog/boundary-memory-safety)
 16. [Major rsync upgrade in Debian because of 33 CVEs](https://lobste.rs/s/sqyhgt)
 17. [Lists that keep track of their reversal](https://grim.cargocut.org/a/rev-list.html)
 18. [How to make a text box: A crash course in Unicode and OpenType](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
 19. [We Should be Able to Change our Languages](https://jimmyhmiller.com/change-our-languages)
-20. [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
-21. [EU KIDS Act](https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en)
+20. [EU KIDS Act](https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en)
+21. [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
 22. [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
 23. [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html)
 24. [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)

@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-02 12:15:20
+> 更新时间：2026-10-02 13:14:08
 
 ## 人气热门
 
@@ -57,13 +57,13 @@
 
 ## 精华采撷
 
-1. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
-2. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
-3. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
-4. [Allsafe靶场全解](https://www.52pojie.cn/thread-2122890-1-1.html)
-5. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-6. [【整活儿向】分析一款RPG游戏让足球赛小游戏敌方进球给我方白送分并制作修改器](https://www.52pojie.cn/thread-2112391-1-1.html)
-7. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+1. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+2. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
+3. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
+4. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
+5. [Allsafe靶场全解](https://www.52pojie.cn/thread-2122890-1-1.html)
+6. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+7. [【整活儿向】分析一款RPG游戏让足球赛小游戏敌方进球给我方白送分并制作修改器](https://www.52pojie.cn/thread-2112391-1-1.html)
 8. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
 9. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
 10. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
