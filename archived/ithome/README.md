@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-02 13:14:29
+> 更新时间：2026-10-02 14:24:05
 
 ## 日榜
 
@@ -10,9 +10,9 @@
 4. [iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU](https://www.ithome.com/1/009/075.htm)
 5. [华为 Mate 90 系列发布会再奏《Dream It Possible》，麒麟 9000 5G 处理器时隔多年再次登台](https://www.ithome.com/1/009/067.htm)
 6. [余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布](https://www.ithome.com/1/009/163.htm)
-7. [消息称赛力斯、华为合作模式再调整：有望基于问界“专属专营”新模式进一步升级](https://www.ithome.com/1/009/051.htm)
+7. [用户反馈升级微软 Win11 26H2 后内存用量减少约 1.5~2GB](https://www.ithome.com/1/009/150.htm)
 8. [华为 Mate 90 Pro Max 首发四卡三待功能，Mate XT 2 预计 10 月中下旬 OTA 支持](https://www.ithome.com/1/009/128.htm)
-9. [用户反馈升级微软 Win11 26H2 后内存用量减少约 1.5~2GB](https://www.ithome.com/1/009/150.htm)
-10. [华为、东航达成首个系统级机上联网合作：鸿蒙 7.0 手机支持空中 Wi-Fi 一键联网，Mate 90 系列及 XT2 非凡大师可享一年高级权益](https://www.ithome.com/1/009/104.htm)
+9. [华为、东航达成首个系统级机上联网合作：鸿蒙 7.0 手机支持空中 Wi-Fi 一键联网，Mate 90 系列及 XT2 非凡大师可享一年高级权益](https://www.ithome.com/1/009/104.htm)
+10. [消息称苹果 iPhone 18 Pro 系列手机开售不到 14 天，国内销量突破 200 万](https://www.ithome.com/1/009/232.htm)
 11. [微软发布 Win11 26H2 ISO 下载镜像，支持全新安装与升级](https://www.ithome.com/1/009/113.htm)
-12. [华为鸿蒙星河互联 App 升级 2.0.0 版本：液态玻璃上线、新增双机互联，Mate 90 系列首发支持](https://www.ithome.com/1/009/052.htm)
+12. [华为 Pura 70 Pro / Pro+ / Ultra 获 HarmonyOS 7.0.0.109SP8 升级，文本通话支持声音修复等功能](https://www.ithome.com/1/009/166.htm)
