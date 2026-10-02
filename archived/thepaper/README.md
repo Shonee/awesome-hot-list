@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-02 10:31:38
+> 更新时间：2026-10-02 11:16:44
 
 ## 热新闻
 
@@ -14,8 +14,8 @@
 8. [中东密集外交互动谈了什么？释放哪些信号？](https://www.thepaper.cn/newsDetail_forward_34187134)
 9. [百金落定，一支从未让亚运金牌旁落的队伍，是什么样？](https://www.thepaper.cn/newsDetail_forward_34185317)
 10. [迪拜航空客机上唯一医护乘客披露救治细节：印度籍机长“手部几乎被切断”](https://www.thepaper.cn/newsDetail_forward_34186075)
-11. [美媒：鲁比奥要求伊朗代表团立即离美](https://www.thepaper.cn/newsDetail_forward_34185339)
-12. [乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”](https://www.thepaper.cn/newsDetail_forward_34185315)
+11. [乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”](https://www.thepaper.cn/newsDetail_forward_34185315)
+12. [男子在柳州站擅自爬上动车车顶遭电击坠落，经抢救暂无生命危险](https://www.thepaper.cn/newsDetail_forward_34186897)
 13. [反转又反转！美国女死囚被注射两剂致死药物后仍活着还打鼾，紧急送医治疗](https://www.thepaper.cn/newsDetail_forward_34186218)
 14. [世界超级摩托车锦标赛首次落户中国，张雪机车明年驰骋上赛场](https://www.thepaper.cn/newsDetail_forward_34186255)
 15. [旁白｜游乐园的双重体验：门票之外，速通服务该如何拿捏分寸](https://www.thepaper.cn/newsDetail_forward_34186243)
