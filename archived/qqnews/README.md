@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-02 09:29:22
+> 更新时间：2026-10-02 10:31:40
 
 ## 热点榜
 
-1. [一见·迈步新征程，我们自信而笃行](https://view.inews.qq.com/a/20261001A0906400)
+1. [习语丨爱国是心之所系、情之所归](https://view.inews.qq.com/a/20261001V05ZS400)
 2. [国庆旅游消费再分流：县域游走热，长线出境需求加速释放](https://view.inews.qq.com/a/20261001A0BPLM00)
 3. [10月起，这些新规将施行](https://view.inews.qq.com/a/20261001A04BU000)
-4. [从“看”到“玩”多元融合 激发假日经济新活力](https://view.inews.qq.com/a/20261001A08W9Y00)
-5. [中方代表俄罗斯、古巴、朝鲜、委内瑞拉等28个国家作共同发言：反对！](https://view.inews.qq.com/a/20261002A02RBC00)
+4. [新华鲜报｜一抹中国红，见证跨越时代的奔赴](https://view.inews.qq.com/a/20261001A0C6JM00)
+5. [“闪身步”“狗熊哆嗦毛”出圈，参与录制的北舞教授：系北舞本科必修课教材，源自民间舞](https://view.inews.qq.com/a/20261002A02U9Z00)
 6. [视频丨网友：专家手握“191”？足够先进，可以展示](https://view.inews.qq.com/a/20261001A0A2XK00)
 7. [2026年名古屋亚运会](https://view.inews.qq.com/a/UTR2026090406706200)
 8. [多地密集“发补贴”稳增长](https://view.inews.qq.com/a/20260930A0ARRD00)
 9. [中国公民尽快撤离或转移！我使馆重要提醒](https://view.inews.qq.com/a/20261002A00J3H00)
 10. [积存金跌破900元，国庆假期购金策略来了](https://view.inews.qq.com/a/20261001A078UV00)
 11. [按摩淋巴可以“排毒”？](https://view.inews.qq.com/a/20261001A0AFGH00)
-12. [体育总局：中国篮球正爬坡过坎，与群众期待还有明显差距](https://view.inews.qq.com/a/20261002A02QNB00)
-13. [赴以航班机长被救援画面曝光：胸腹缠绷带躺在担架上 凶手双手被绑跪在登机口](https://view.inews.qq.com/a/20261002V02O0N00)
-14. [半个月剧情反转！华为赛力斯再签约，联合组建问界专属团队](https://view.inews.qq.com/a/20261001A0AMOZ00)
-15. [伊朗：强烈抗议英国政府](https://view.inews.qq.com/a/20261002A02NXN00)
-16. [男子约190万元拍下一栋别墅，成交后发现门被拆走窗也被铁皮封住，当地回应](https://view.inews.qq.com/a/20261001V08L8E00)
-17. [真相来了丨“低价票、内部票”是真是假？这些诈骗套路要当心](https://view.inews.qq.com/a/20261002A02Q4P00)
-18. [拒绝向C罗道歉！葡萄牙主帅：有些人地位特殊，但是规则对所有人一样](https://view.inews.qq.com/a/20261002A02EB700)
-19. [女子辛苦剁了好久肉馅，好不容易剁到满意状态，低头一看崩溃：直接白干](https://view.inews.qq.com/a/20261001V087E100)
-20. [河南一家庭迎来“双胞胎国庆宝宝”，四千多名网友在线帮忙取名，父亲：中间字准备用“国”，第三个字还没想好，会借鉴网友智慧](https://view.inews.qq.com/a/20261001A06VJ500)
+12. [75岁万科创始人王石，再战房地产](https://view.inews.qq.com/a/20261001A0CJEI00)
+13. [中方代表俄罗斯、古巴、朝鲜、委内瑞拉等28个国家作共同发言：反对！](https://view.inews.qq.com/a/20261002A02RBC00)
+14. [普京称若领土遭袭考虑动用其武器库全部武器](https://view.inews.qq.com/a/20261002A02R6600)
+15. [体育总局：中国篮球正爬坡过坎，与群众期待还有明显差距](https://view.inews.qq.com/a/20261002A02QNB00)
+16. [赴以航班机长被救援画面曝光：胸腹缠绷带躺在担架上 凶手双手被绑跪在登机口](https://view.inews.qq.com/a/20261002V02O0N00)
+17. [从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重](https://view.inews.qq.com/a/20261002A02ION00)
+18. [绑架马杜罗前，特朗普特地问了AI数小时](https://view.inews.qq.com/a/20261002A0315X00)
+19. [落地西北，“旅游搭子”不见了](https://view.inews.qq.com/a/20261002A034IS00)
+20. [越查事越大，OpenAI：已向100多家机构发出失控智能体警报](https://view.inews.qq.com/a/20261002A02UUG00)
