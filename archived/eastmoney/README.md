@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-02 15:46:10
+> 更新时间：2026-10-02 16:18:04
 
 ## 股票人气榜
 
@@ -11,8 +11,8 @@
 5. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
 6. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
 7. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
-8. [陆家嘴 (600663)](https://quote.eastmoney.com/sh600663.html)
-9. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
+8. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
+9. [陆家嘴 (600663)](https://quote.eastmoney.com/sh600663.html)
 10. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
 11. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
 12. [剑桥科技 (603083)](https://quote.eastmoney.com/sh603083.html)

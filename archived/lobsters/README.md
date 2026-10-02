@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-02 15:46:47
+> 更新时间：2026-10-02 16:18:33
 
 ## Hottest
 
@@ -23,9 +23,9 @@
 17. [Major rsync upgrade in Debian because of 33 CVEs](https://lobste.rs/s/sqyhgt)
 18. [How to make a text box: A crash course in Unicode and OpenType](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
 19. [Lists that keep track of their reversal](https://grim.cargocut.org/a/rev-list.html)
-20. [EU KIDS Act](https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en)
-21. [We Should be Able to Change our Languages](https://jimmyhmiller.com/change-our-languages)
-22. [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
-23. [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
-24. [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html)
-25. [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
+20. [Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)](https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect)
+21. [sixteenth RacketCon this weekend](https://con.racket-lang.org/)
+22. [EU KIDS Act](https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en)
+23. [We Should be Able to Change our Languages](https://jimmyhmiller.com/change-our-languages)
+24. [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
+25. [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
