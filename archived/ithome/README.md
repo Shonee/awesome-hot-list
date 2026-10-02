@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-02 19:13:05
+> 更新时间：2026-10-02 20:20:56
 
 ## 日榜
 
@@ -10,9 +10,9 @@
 4. [华为 Pura 70 Pro / Pro+ / Ultra 获 HarmonyOS 7.0.0.109SP8 升级，文本通话支持声音修复等功能](https://www.ithome.com/1/009/166.htm)
 5. [2026 年 9 月汽车销量 / 交付榜出炉：比亚迪 46.36 万辆稳坐头把交椅，小米澎程上市首月交付破万](https://www.ithome.com/1/009/168.htm)
 6. [华为余承东：享界 V8 开启预订 72 小时，订单突破 8200 台](https://www.ithome.com/1/009/156.htm)
-7. [消息称苹果智能家居产品宣传物料已送往全球各大 Apple Store，预计 10 月 8 日解禁？](https://www.ithome.com/1/009/148.htm)
-8. [缓解折痕加深：苹果首款折叠 iPhone Duo 支持更换保护膜](https://www.ithome.com/1/009/202.htm)
+7. [缓解折痕加深：苹果首款折叠 iPhone Duo 支持更换保护膜](https://www.ithome.com/1/009/202.htm)
+8. [消息称苹果智能家居产品宣传物料已送往全球各大 Apple Store，预计 10 月 8 日解禁？](https://www.ithome.com/1/009/148.htm)
 9. [苹果发布 iPhone Duo 官方样张：专业摄影师掌镜，展现卓越影像实力](https://www.ithome.com/1/009/224.htm)
-10. [奇安信盘古石取证宣布适配 Android 17：支持微信已删除多媒体碎片重组](https://www.ithome.com/1/009/165.htm)
-11. [古尔曼：苹果最快本月发布触控 OLED 屏 MacBook Pro，配 M5 Pro / Max 芯片](https://www.ithome.com/1/009/178.htm)
+10. [古尔曼：苹果最快本月发布触控 OLED 屏 MacBook Pro，配 M5 Pro / Max 芯片](https://www.ithome.com/1/009/178.htm)
+11. [奇安信盘古石取证宣布适配 Android 17：支持微信已删除多媒体碎片重组](https://www.ithome.com/1/009/165.htm)
 12. [AI 伦理研究：DeepSeek 对男女一视同仁，美系模型却“区别对待”](https://www.ithome.com/1/009/243.htm)
