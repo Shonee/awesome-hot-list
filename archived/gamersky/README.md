@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-02 21:13:54
+> 更新时间：2026-10-02 22:15:50
 
 ## 热点资讯排行
 
@@ -10,8 +10,8 @@
 4. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 5. [大的来了？多位UP齐暗示港服要变低价区:今晚见分晓](https://www.gamersky.com/news/202609/2218399.shtml)
 6. [《战神：劳菲》预购信息公开！超帅新图来了](https://www.gamersky.com/news/202609/2218806.shtml)
-7. [《战神：劳菲》预购正式开启！标准版388港币](https://www.gamersky.com/news/202609/2218891.shtml)
-8. [《007 初露锋芒》新DLC官宣！国庆节免费送](https://www.gamersky.com/news/202609/2219728.shtml)
+7. [《007 初露锋芒》新DLC官宣！国庆节免费送](https://www.gamersky.com/news/202609/2219728.shtml)
+8. [《战神：劳菲》预购正式开启！标准版388港币](https://www.gamersky.com/news/202609/2218891.shtml)
 9. [育碧官宣10.2大动作!发神秘预告 网友全在喊《圣歌》](https://www.gamersky.com/news/202609/2219761.shtml)
 10. [尼尔终于爆猛料！《美末》两大新项目|光头新作明年见](https://www.gamersky.com/news/202609/2218858.shtml)
 11. [曝小岛秀夫新作预算4亿美元 直接吓跑索尼](https://www.gamersky.com/news/202609/2217575.shtml)
