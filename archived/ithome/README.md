@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-03 04:13:18
+> 更新时间：2026-10-03 05:12:35
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [首付 6.98 万元起，鸿蒙智行问界 M6 推出限时 3 年 0 息购车金融政策](https://www.ithome.com/1/009/248.htm)
 7. [AI 伦理研究：DeepSeek 对男女一视同仁，美系模型却“区别对待”](https://www.ithome.com/1/009/243.htm)
 8. [三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起](https://www.ithome.com/1/009/242.htm)
-9. [中国电信 App 上线 eSIM 手机绑定号码数量查询功能](https://www.ithome.com/1/009/323.htm)
-10. [B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕](https://www.ithome.com/1/009/362.htm)
+9. [B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕](https://www.ithome.com/1/009/362.htm)
+10. [中国电信 App 上线 eSIM 手机绑定号码数量查询功能](https://www.ithome.com/1/009/323.htm)
 11. [腾讯 WorkBuddy 内置模型独家支持 Space Bunny](https://www.ithome.com/1/009/335.htm)
 12. [周星驰导演电影《功夫女足》网播定档 10 月 3 日，已收获 23.45 亿元票房](https://www.ithome.com/1/009/324.htm)

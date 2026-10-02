@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-03 04:12:51
+> 更新时间：2026-10-03 05:12:10
 
 ## 日榜
 
@@ -8,10 +8,10 @@
 2. [《闪身步》](https://www.acfun.cn/v/ac48886441)
 3. [军训一定要参加啊！！！欢乐八点档-1790](https://www.acfun.cn/v/ac48885673)
 4. [情匪得已（87）](https://www.acfun.cn/v/ac48883844)
-5. [人间琴悠扬，姑娘把谁记心上](https://www.acfun.cn/v/ac48885884)
-6. [【投稿六周年纪念】人間だった | 曾生为人 [翻唱]](https://www.acfun.cn/v/ac48885194)
-7. [网络上常见的热门短视频集锦   第三千四百六十三期](https://www.acfun.cn/v/ac48885665)
-8. [天下英雄如过江之鲫【今天有什么好笑的 #2524】](https://www.acfun.cn/v/ac48886725)
+5. [【投稿六周年纪念】人間だった | 曾生为人 [翻唱]](https://www.acfun.cn/v/ac48885194)
+6. [人间琴悠扬，姑娘把谁记心上](https://www.acfun.cn/v/ac48885884)
+7. [天下英雄如过江之鲫【今天有什么好笑的 #2524】](https://www.acfun.cn/v/ac48886725)
+8. [网络上常见的热门短视频集锦   第三千四百六十三期](https://www.acfun.cn/v/ac48885665)
 9. [网络上常见的热门短视频集锦   第三千四百六十四期](https://www.acfun.cn/v/ac48885670)
 10. [「JOJO的奇妙冒险 飙马野郎」第3话【简中】](https://www.acfun.cn/v/ac48886765)
 11. [交通事故20261002：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48886914)
@@ -32,10 +32,10 @@
 26. [干净鲜美！清润滋补！好喝的鸡汤竟如此简单：](https://www.acfun.cn/v/ac48886493)
 27. [白井黑子 个人别墅慢摇【AI合成动画/超清】](https://www.acfun.cn/v/ac48884379)
 28. [32.比恐龙更古老的两栖霸主，跨越三亿年的生命史诗：离片椎目](https://www.acfun.cn/v/ac48881835)
-29. [当过节回家亲戚让你说两句日语展示一下](https://www.acfun.cn/v/ac48886866)
-30. [绝顶性感黑丝chacha舞蹈翻跳竖屏](https://www.acfun.cn/v/ac48886287)
-31. [新英雄的消耗能力是真强 魔兽争霸xiaoy解说120 sok](https://www.acfun.cn/v/ac48886187)
-32. [“这‘妮可’简直就…夯爆了”~如此Q弹？~](https://www.acfun.cn/v/ac48886906)
+29. [新英雄的消耗能力是真强 魔兽争霸xiaoy解说120 sok](https://www.acfun.cn/v/ac48886187)
+30. [“这‘妮可’简直就…夯爆了”~如此Q弹？~](https://www.acfun.cn/v/ac48886906)
+31. [当过节回家亲戚让你说两句日语展示一下](https://www.acfun.cn/v/ac48886866)
+32. [绝顶性感黑丝chacha舞蹈翻跳竖屏](https://www.acfun.cn/v/ac48886287)
 33. [【我的世界】完成心愿！把这座山改造成了异世界的家  | 异界生活幻想 6](https://www.acfun.cn/v/ac48872390)
 34. [人，开门](https://www.acfun.cn/v/ac48886461)
 35. [12600kf和14490f该怎么选呢](https://www.acfun.cn/v/ac48886390)
@@ -44,16 +44,16 @@
 38. [用父母的话伤害德国人，伤害性未知，破防性极强。](https://www.acfun.cn/v/ac48885477)
 39. [【认真做鱼系列高清重置版03】炒青蟹](https://www.acfun.cn/v/ac48886439)
 40. [喵喵-20260928 成人礼 vibrato gentleman](https://www.acfun.cn/v/ac48885374)
-41. [【原创曲】《落满灰的时针 塵の時計》](https://www.acfun.cn/v/ac48885968)
-42. [这对吗？我转圈圈艾琳呢](https://www.acfun.cn/v/ac48887355)
+41. [这对吗？我转圈圈艾琳呢](https://www.acfun.cn/v/ac48887355)
+42. [【原创曲】《落满灰的时针 塵の時計》](https://www.acfun.cn/v/ac48885968)
 43. [【中文字幕】敌人 /えねみぃ feat. 初音ミク・重音テト【ピノキオピー】](https://www.acfun.cn/v/ac48886980)
-44. [【逛吃哈尔滨】道外到底藏了多少好吃的！草帽油饼大骨棒香飞了呀](https://www.acfun.cn/v/ac48887204)
+44. [少女 艾莉丝 才是极品！！！](https://www.acfun.cn/v/ac48885442)
 45. [【东方手书剧场】夜雀食堂～潦草幸福舞者的裹海苔炸～【内嵌汉化】](https://www.acfun.cn/v/ac48885672)
-46. [少女 艾莉丝 才是极品！！！](https://www.acfun.cn/v/ac48885442)
+46. [【逛吃哈尔滨】道外到底藏了多少好吃的！草帽油饼大骨棒香飞了呀](https://www.acfun.cn/v/ac48887204)
 47. [【中国音乐地图之听见内蒙古 蒙古长调】黑骏马](https://www.acfun.cn/v/ac48856370)
 48. [四季映姬x小野塚小町『宵々古今』](https://www.acfun.cn/v/ac48882878)
 49. [TNA iMPACT #133 2026.10.01](https://www.acfun.cn/v/ac48886399)
-50. [玛萨咪-20260930 每夜 babe](https://www.acfun.cn/v/ac48885371)
+50. [纱姬舞团随意吧舞出精彩优尚舞姿k8舞团king舞团魔丽舞社](https://www.acfun.cn/v/ac48886895)
 
 ## 三日榜
 
@@ -73,8 +73,8 @@
 14. [他是战士们的精神图腾，绿皮最严厉的父亲，他已从死亡中归来【达奇】战锤40K故事内容](https://www.acfun.cn/v/ac48882966)
 15. [网络上常见的热门短视频集锦   第三千四百六十一期](https://www.acfun.cn/v/ac48884139)
 16. [学功夫 看鬼畜 师父教我闪身步！](https://www.acfun.cn/v/ac48885537)
-17. [假如我有一项超能力](https://www.acfun.cn/v/ac48881595)
-18. [《闪身步》](https://www.acfun.cn/v/ac48886441)
+17. [《闪身步》](https://www.acfun.cn/v/ac48886441)
+18. [假如我有一项超能力](https://www.acfun.cn/v/ac48881595)
 19. [最怕这招了！！！欢乐八点档-1788](https://www.acfun.cn/v/ac48883377)
 20. [夜神月 新世界巡回](https://www.acfun.cn/v/ac48883838)
 21. [网络上常见的热门短视频集锦   第三千四百五十九期](https://www.acfun.cn/v/ac48881445)
@@ -84,9 +84,9 @@
 25. [咏春](https://www.acfun.cn/v/ac48884231)
 26. [情匪得已（87）](https://www.acfun.cn/v/ac48883844)
 27. [网络上常见的热门短视频集锦   第三千四百六十二期](https://www.acfun.cn/v/ac48884854)
-28. [得加钱【今天有什么好笑的 #2523】](https://www.acfun.cn/v/ac48885135)
+28. [【投稿六周年纪念】人間だった | 曾生为人 [翻唱]](https://www.acfun.cn/v/ac48885194)
 29. [人间琴悠扬，姑娘把谁记心上](https://www.acfun.cn/v/ac48885884)
-30. [【投稿六周年纪念】人間だった | 曾生为人 [翻唱]](https://www.acfun.cn/v/ac48885194)
+30. [得加钱【今天有什么好笑的 #2523】](https://www.acfun.cn/v/ac48885135)
 31. [网络上常见的热门短视频集锦   第三千四百六十三期](https://www.acfun.cn/v/ac48885665)
 32. [安柏：草原之斥候，白桦林之隐匿者](https://www.acfun.cn/v/ac48883969)
 33. [【歌回录像】9月歌回](https://www.acfun.cn/v/ac48885202)
@@ -106,7 +106,7 @@
 47. [「JOJO的奇妙冒险 飙马野郎」第3话【简中】](https://www.acfun.cn/v/ac48886765)
 48. [【汪苏泷×宋雨琦】是非主流内味了！粤语版《雨终曲》“独自寂寞怀念大概，现实谁愿认领......”](https://www.acfun.cn/v/ac48883513)
 49. [【奥兹国安魂曲】凯泽](https://www.acfun.cn/v/ac48884354)
-50. [AEW Dynamite #365 - A Tribute To PAC 2026.09.30](https://www.acfun.cn/v/ac48884781)
+50. [交通事故20261002：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48886914)
 
 ## 周榜
 
