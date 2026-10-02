@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-02 20:20:22
+> 更新时间：2026-10-02 21:41:20
 
 ## 24 小时热榜
 
@@ -14,25 +14,25 @@
 8. [Anthropic 拟最早 11 月中上市 时间表仍可能调整](https://readhub.cn/topic/8wseqwN5OT8?tab=daily)
 9. [华为余承东：享界 V8 开启预订 72 小时，订单突破 8200 台](https://readhub.cn/topic/8wsKTr5KaJn?tab=daily)
 10. [OpenAI 推出 ChatGPT 虚拟试穿与收藏夹功能](https://readhub.cn/topic/8wt4DCkkgm5?tab=daily)
-11. [AI 语音初创公司 ElevenLabs 估值翻倍至 220 亿美元](https://readhub.cn/topic/8wqrOJm2Cy9?tab=daily)
-12. [微软推出 mAI-transcribe-2-streaming](https://readhub.cn/topic/8wsZ8nfSpUL?tab=daily)
-13. [赛力斯港股涨超 7% 华为与赛力斯升级问界业务战略合作](https://readhub.cn/topic/8wtEDxAal22?tab=daily)
-14. [我国研发新型锂电正极材料，可提升快充效率与耐用性](https://readhub.cn/topic/8wtB0ypvoX7?tab=daily)
-15. [Meta：未来几个月将把 AI 代理 Muse 接入 AI 眼镜](https://readhub.cn/topic/8wsRHiEASoi?tab=daily)
-16. [DeepMind 研究员称 Gemini 4 实现 RSI 跑分追平 GPT-6](https://readhub.cn/topic/8wsDKndk5I9?tab=daily)
-17. [纳睿雷达拟 1.62 亿元收购芯泰通信 两名保育员合计或将变现 1940 万](https://readhub.cn/topic/8wsCciXIaJU?tab=daily)
-18. [迪拜飞特拉维夫航班突发事故备降沙特 所有乘客安全](https://readhub.cn/topic/8wqWe2twLnm?tab=daily)
+11. [赛力斯港股涨超 7% 华为与赛力斯升级问界业务战略合作](https://readhub.cn/topic/8wtEDxAal22?tab=daily)
+12. [我国研发新型锂电正极材料，可提升快充效率与耐用性](https://readhub.cn/topic/8wtB0ypvoX7?tab=daily)
+13. [AI 语音初创公司 ElevenLabs 估值翻倍至 220 亿美元](https://readhub.cn/topic/8wqrOJm2Cy9?tab=daily)
+14. [微软推出 mAI-transcribe-2-streaming](https://readhub.cn/topic/8wsZ8nfSpUL?tab=daily)
+15. [DeepMind 研究员称 Gemini 4 实现 RSI 跑分追平 GPT-6](https://readhub.cn/topic/8wsDKndk5I9?tab=daily)
+16. [Meta：未来几个月将把 AI 代理 Muse 接入 AI 眼镜](https://readhub.cn/topic/8wsRHiEASoi?tab=daily)
+17. [迪拜飞特拉维夫航班突发事故备降沙特 所有乘客安全](https://readhub.cn/topic/8wqWe2twLnm?tab=daily)
+18. [SK 集团会长崔泰源将出售 SK 公司 2.26% 的股份](https://readhub.cn/topic/8wtb6EkWi5L?tab=daily)
 19. [马斯克：将特斯拉 AI5 芯片的 RAM 减少了一半](https://readhub.cn/topic/8wspClVKkg6?tab=daily)
 20. [美联储鲍曼：今年无需再调整利率](https://readhub.cn/topic/8wspChjRHUv?tab=daily)
-21. [SK 集团会长崔泰源将出售 SK 公司 2.26% 的股份](https://readhub.cn/topic/8wtb6EkWi5L?tab=daily)
-22. [台积电拟考虑在得州新建园区 相关投资计划仍处早期阶段](https://readhub.cn/topic/8wsArHnwntB?tab=daily)
-23. [DeepMind 为 AI 设计蛋白质加不影响功能的可追溯水印](https://readhub.cn/topic/8wrwY02y9qI?tab=daily)
-24. [小鹏 MONA L03 九月交付超 14000 台 年轻用户占比过半](https://readhub.cn/topic/8wtcW5TKuRu?tab=daily)
-25. [Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef](https://readhub.cn/topic/8wtR5LhuN31?tab=daily)
-26. [10 月 1 日高德日活跃用户数近 3.7 亿 多项数据创历史新高](https://readhub.cn/topic/8wtRnAUz5Zi?tab=daily)
-27. [瑞银：iPhone18 Pro 系列等待期表现平平 予苹果中性评级](https://readhub.cn/topic/8wsRzdHGq9o?tab=daily)
-28. [我国力争 2030 年饲草总产量达 1.3 亿吨](https://readhub.cn/topic/8wtNWMAKwjs?tab=daily)
-29. [我国首个百兆瓦级压缩二氧化碳储能项目成功并网](https://readhub.cn/topic/8wtJvpjutfP?tab=daily)
+21. [小鹏 MONA L03 九月交付超 14000 台 年轻用户占比过半](https://readhub.cn/topic/8wtcW5TKuRu?tab=daily)
+22. [Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef](https://readhub.cn/topic/8wtR5LhuN31?tab=daily)
+23. [10 月 1 日高德日活跃用户数近 3.7 亿 多项数据创历史新高](https://readhub.cn/topic/8wtRnAUz5Zi?tab=daily)
+24. [DeepMind 为 AI 设计蛋白质加不影响功能的可追溯水印](https://readhub.cn/topic/8wrwY02y9qI?tab=daily)
+25. [瑞银：iPhone18 Pro 系列等待期表现平平 予苹果中性评级](https://readhub.cn/topic/8wsRzdHGq9o?tab=daily)
+26. [我国首个百兆瓦级压缩二氧化碳储能项目成功并网](https://readhub.cn/topic/8wtJvpjutfP?tab=daily)
+27. [我国力争 2030 年饲草总产量达 1.3 亿吨](https://readhub.cn/topic/8wtNWMAKwjs?tab=daily)
+28. [马斯克称推进 Optimus 量产，特斯拉拟削减 AI5、AI6 芯片内存](https://readhub.cn/topic/8wt3V6CtXp9?tab=daily)
+29. [蔚来换电单日总量创历史新高](https://readhub.cn/topic/8wtKemJlDtn?tab=daily)
 30. [东芝拟将数据中心 HDD 产能翻倍](https://readhub.cn/topic/8wtMnItV4LF?tab=daily)
 
 ## 每日早报
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [哈佛物理教授用 Claude 三个月横扫 18 个领域 36 个难题后，他总结出了一套可复现的 AI 科研框架 施瓦茨在文中透露，过去三个月里，他和 19 位合作者一起，带着 Claude 和这套工具从大约 400 个候选问题中筛选推进，最终完成了 36 篇学术手稿，涉及粒子物理、宇宙学、生态学、群体遗传学、经济学、语言学等 18 个领域。他把这类问题称为「Claude 形状的问题」：许多学科目前卡壳的难题，其实在数学、物理或计算机领域早就有了成熟的解法，只是该领域的学者并不知情。施瓦茨将它定位为一个运行框架（harness），作用类似于 Claude Code 之于 Claude、Codex 之于 GPT。 麻省理工科技评论 1 小时前](https://www.mittrchina.com/news/detail/17041)
-2. [阿里 CEO 吴泳铭：当「顶级思考」可以规模化供给，罕见病研发将被重新定义 吴泳铭认为，随着 AI 在长程任务、自主行动等方面持续突破，人类正在进入新的「机器智能时代」：机器不再只是辅助人类完成部分脑力劳动，而将逐渐成为思考的主力，智能本身也将像工业时代的动力一样，成为一种可以大规模生产和供给的商品。他表示，AI 模型、AI 芯片和 AI 云将成为机器智能时代的三大基础设施，阿里将长期投入这三个方向，这也是机器智能实现规模化供给的前提。 麻省理工科技评论 1 小时前](https://www.mittrchina.com/news/detail/17042)
-3. [AutoSynthData: Generating Training Data for Enterprise Agents The work they ask these agents to do is shaped by the systems they use, the rules they follow, and the state of their data. Given an environment and a target model, AutoSynthData generates training tasks consisting of a system specification, user prompt, and verifier. AutoSynthData treats synthetic data generation as a search for tasks near the target model's capability boundary: difficult enough to expose weaknesses, but solvable enough for the teacher to provide reliable demonstrations. Hugging Face Blog 8 小时前](https://huggingface.co/blog/ServiceNow-AI/autosynthdata)
-4. [三星最强自研 2nm 芯片 Exynos 2700 处理器已开始量产：Galaxy S27 系列首发 该处理器将由 Galaxy S27 系列首发搭载，采用三星第二代 2 纳米工艺节点 SF2P，相比上一代性能提升 12%，功耗降低 25%。封装上首发 FOWLP-SbS（扇出型晶圆级并排封装）技术，在应用处理器和内存上方覆盖铜基「热路块」（Heat Path Block），实现 AP 与 DRAM 的一体化热传导，相比 Exynos 2600 的直接接触散热片方案效率更高。三星已计划将 Exynos 在 Galaxy S27 系列中的搭载比例从 25% 提升至 50%，部分市场的 S27+、S27 Pro 甚至 S27 Ultra 都可能采用 Exynos 2700，具体搭载情况将视高通骁龙 8 Elite Gen6 Pro 的供货情况而定。 快科技 59 分钟前](https://news.mydrivers.com/1/1155/1155179.htm)
-5. [博通联手黑石筹资 600 亿美元，为 Anthropic 等 AI 公司铺路算力 博通正牵头筹组一笔规模达 600 亿美元的债务融资，旨在为 Anthropic 等人工智能企业购买芯片及建设数据中心提供资金支持，规模跻身 AI 芯片领域最大债务融资交易之列。其中，420 亿美元 A 类优先有担保债券将在博通组织的华尔街银团中进行分销，180 亿美元 B 类次级债务则由黑石主导，并以旗下基金 90 亿美元自有资金作为锚定投资，其余部分再向外部银团投资者募集。这笔融资将帮助 Anthropic 等 AI 企业获得芯片及其他关键基础设施资源，也是近期 AI 基础设施债务融资热潮的最新案例。 华尔街见闻 2 小时前](https://wallstreetcn.com/articles/3782929)
-6. [太空数据中心迈出第一步：谷歌 AI 芯片上天了 搭载谷歌 TPU 张量处理单元的原型冰箱大小卫星由 Planet Labs 建造，于发射后 1 小时 1 分 25 秒完成部署，内部搭载 4 颗谷歌 TPU 芯片。后续几周谷歌将收集 TPU 在太空环境中的实测数据，包括发射振动、太空辐射和散热方式等方面的表现。SpaceX 自身也计划 2027 年部署太空超算，与特斯拉合作生产配备 GPU 和太阳能电池组的卫星，但业内指出仍面临发射成本、抗辐射和太空碎片等多重挑战。 快科技 2 小时前](https://news.mydrivers.com/1/1155/1155166.htm)
-7. [西湖惊现体长 1 米 4「大青鱼」：实为警用仿生机器鱼，能帮找手机、识别非法野泳野钓 它并非野生大鱼，而是西湖景区公安联合中科院自动化研究所研发的新一代警用仿生机器鱼，鱼鳍位置印有警徽标识，专门负责水下巡护，还能帮游客搜寻落水手机等贵重物品。当游客手机不慎掉入西湖深处，岸边打捞杆难以抵达时，可出动机器鱼潜入水下搜寻，通过高清视频锁定落水物品位置、传回坐标，再交由西湖「捞哥」使用智能打捞杆完成打捞作业。除搜寻落水财物外，它还有多项警务功能，如在水下自主巡逻时识别野泳、非法野钓等违规行为，实时向民警后台预警，同时同步采集水体数据，开展水质监测。 快科技 1 小时前](https://news.mydrivers.com/1/1155/1155172.htm)
-8. [生图模型 FLUX 3 Image 发布：支持 4K 生成，可精准排布 AI 元素 德国 AI 公司 Black Forest Labs 今天（10 月 2 日）发布公告，宣布推出图像生成 AI 模型 FLUX 3 Image，支持生成最高 4K 分辨率图片，输出画面在放大后仍保持丰富细节。该模型基于 FLUX 3 基座开发，以高可控性与精细编辑能力为核心卖点。用户可在归一化的 0–1000 坐标网格上，为每个元素指定 ID、描述文本及精确边界框（格式为 [ymin, xmin, ymax, xmax]），在画面中精准排布。 IT 之家 4 小时前](https://www.ithome.com/1/009/315.htm)
-9. [亚马逊首次向外部 AI 助手 Claude 开放卖家后台 卖家无需登录后台，即可通过 Claude 调取商品、销售、库存及运营数据，借助 AI 进行动销分析、识别周转下滑商品并获取优化建议。该插件目前仅在美国分阶段推进，外部 AI 尚未获得 Seller Central 的全部操作权限，改价、调整广告出价等敏感操作仍需人工审核把关。 AMZ123 1 小时前](https://www.amz123.com/kx/nZy1eKSv)
-10. [日本法院首次确认声音受法律保护，「AI 声优」涉及侵犯形象权 东京一家法院在日本知名声优津田健次郎起诉 TikTok 的案件中认可了他的主张，认定 AI 未经许可模仿其「浑厚」的男中音声线涉及权利侵害，并首次在日本司法实践中确认人的声音受到法律保护。法院在判决中指出，未经演员本人许可使用其声音，应视为侵犯形象权。日本政府在国家战略层面积极推动 AI 发展，但动画声优越来越担心，创作者仍缺乏足够保护，因为自身的作品或个人形象经常被用来训练 AI。 IT 之家 4 小时前](https://www.ithome.com/1/009/309.htm)
+1. [哈佛物理教授用 Claude 三个月横扫 18 个领域 36 个难题后，他总结出了一套可复现的 AI 科研框架](https://www.mittrchina.com/news/detail/17041)
+2. [阿里 CEO 吴泳铭：当「顶级思考」可以规模化供给，罕见病研发将被重新定义](https://www.mittrchina.com/news/detail/17042)
+3. [NVIDIA DGX Spark 64GB 为开发者提供更多本地 AI 构建与扩展方式](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/)
+4. [Epic pauses six weeks of product development to fix security flaws exposing 320M patient records](https://daily.dev/posts/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data-99jitbhc4)
+5. [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata)
+6. [三星最强自研 2nm 芯片 Exynos 2700 处理器已开始量产：Galaxy S27 系列首发](https://news.mydrivers.com/1/1155/1155179.htm)
+7. [博通联手黑石筹资 600 亿美元，为 Anthropic 等 AI 公司铺路算力](https://wallstreetcn.com/articles/3782929)
+8. [太空数据中心迈出第一步：谷歌 AI 芯片上天了](https://news.mydrivers.com/1/1155/1155166.htm)
+9. [西湖惊现体长 1 米 4「大青鱼」：实为警用仿生机器鱼，能帮找手机、识别非法野泳野钓](https://news.mydrivers.com/1/1155/1155172.htm)
+10. [生图模型 FLUX 3 Image 发布：支持 4K 生成，可精准排布 AI 元素](https://www.ithome.com/1/009/315.htm)
