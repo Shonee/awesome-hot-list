@@ -1,6 +1,6 @@
 # Hacker News热榜
 
-> 更新时间：2026-10-02 20:21:32
+> 更新时间：2026-10-02 21:14:38
 
 ## Top Stories
 
@@ -12,15 +12,15 @@
 6. [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here)
 7. [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
 8. [Pi Durable](https://earendil.com/posts/pi-durable/)
-9. [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569)
-10. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+9. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+10. [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569)
 11. [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html)
 12. [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
-13. [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
-14. [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
-15. [Why media fans want to escape algorithms with CDs, DVDs and vinyl](https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl)
-16. [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness)
-17. [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
-18. [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
-19. [Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/)
-20. [Vote on which of Hacker News' challenges for AI have been met](https://stoppels.ch/goalposts/)
+13. [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
+14. [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
+15. [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness)
+16. [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
+17. [Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/)
+18. [Vote on which of Hacker News' challenges for AI have been met](https://stoppels.ch/goalposts/)
+19. [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+20. [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
