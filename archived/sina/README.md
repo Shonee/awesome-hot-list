@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-02 23:13:27
+> 更新时间：2026-10-03 00:15:04
 
 ## 新闻热榜
 
@@ -17,8 +17,8 @@
 11. [牛弹琴：这件事，普京一直想不通](https://finance.sina.com.cn/2026-10-02/doc-inituwti4698206.shtml)
 12. [中国投下反对票！中方：中国在动用否决权问题上一贯极为慎重，但作为安理会常任理事国，绝不会放弃原则](https://news.sina.com.cn/c/2026-10-02/doc-initusmr6056732.shtml)
 13. [特朗普对田纳西州死刑犯处决失败感到费解：耐人寻味，这不应该很难啊……](https://news.sina.com.cn/w/2026-10-02/doc-initviif1432917.shtml)
-14. [上海一音乐教师在泰国失联，中国驻泰国大使馆回应](https://news.sina.com.cn/s/2026-10-02/doc-initvpqz4554279.shtml)
-15. [人民锐评：乘务员下跪道歉，这合适吗？](https://news.sina.com.cn/s/2026-10-02/doc-initviii5817764.shtml)
+14. [人民锐评：乘务员下跪道歉，这合适吗？](https://news.sina.com.cn/s/2026-10-02/doc-initviii5817764.shtml)
+15. [上海一音乐教师在泰国失联，中国驻泰国大使馆回应](https://news.sina.com.cn/s/2026-10-02/doc-initvpqz4554279.shtml)
 16. [桂林市文促会深夜发布致歉信：工作严重疏漏，向阿丘诚恳致歉](https://news.sina.com.cn/s/2026-10-02/doc-inittzpv1765056.shtml)
 17. [香港名媛蔡天凤碎尸案更多细节曝光：控方称凶手事先把作案后要更换的衣物放车上、提前购买大型搅拌机、切肉机，为杀人计划做足准备](https://news.sina.com.cn/c/2026-10-02/doc-initviif1424885.shtml)
 18. [伊朗召见英国大使：强烈抗议，必须解释！](https://news.sina.com.cn/w/2026-10-02/doc-initusmm4784772.shtml)
@@ -36,14 +36,14 @@
 7. [倘若股市崩盘将至，巴菲特建议你现在就做好这一件事](https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-inittzpt5006387.shtml)
 8. [赛力斯港股大涨，华为赛力斯续签五年，问界转向“赛力斯主导”](https://finance.sina.com.cn/stock/hkstock/2026-10-02/doc-inituwtm1507636.shtml)
 9. [10月2日收盘：三大指数小幅收涨 美国国债收益率从多年高位回落](https://finance.sina.com.cn/world/2026-10-02/doc-initunct6141777.shtml)
-10. [PALEBLUEDOT AI：完成由COMPUTECORE领投的2亿美元C轮融资，估值达32亿美元。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncr1606177.shtml)
-11. [韩国公诉厅和重大犯罪调查厅正式成立](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituwti4690888.shtml)
-12. [俄国防部称打击乌军物流能源基建和船只](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4592996.shtml)
-13. [港股午评：恒指跌2.64%失守24000点 科指跌2.45% 科网股普跌 赛力斯涨超8%](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-02/doc-initvazi1442830.shtml)
-14. [欧元区9月通胀率升至3年来最高水平](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwz1339078.shtml)
-15. [知情人士：亚马逊计划向投资者出售价值80亿美元的英伟达芯片](https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initvazi1445462.shtml)
-16. [俄罗斯总统普京表示，俄罗斯主张共同使用国际运输走廊。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initusmp1550489.shtml)
-17. [耐克盘前股价跌幅收窄，目前下跌7.6%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwx4565981.shtml)
-18. [恒指失守24000点创三月来最大跌幅，恒科指下挫超2%创2年新低，权重科网股集体下跌、腾讯阿里均跌2%](https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-10-02/doc-initvpri7308176.shtml)
-19. [宁德时代：将于10月20日召开董事会审议三季度业绩](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvprc1366238.shtml)
-20. [重大突破！国产万米钻机第二口超深井完钻](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvyex1218260.shtml)
+10. [知情人士：亚马逊计划向投资者出售价值80亿美元的英伟达芯片](https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initvazi1445462.shtml)
+11. [PALEBLUEDOT AI：完成由COMPUTECORE领投的2亿美元C轮融资，估值达32亿美元。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncr1606177.shtml)
+12. [韩国公诉厅和重大犯罪调查厅正式成立](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituwti4690888.shtml)
+13. [俄国防部称打击乌军物流能源基建和船只](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4592996.shtml)
+14. [港股午评：恒指跌2.64%失守24000点 科指跌2.45% 科网股普跌 赛力斯涨超8%](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-02/doc-initvazi1442830.shtml)
+15. [美国9月非农就业大幅低于预期，美债收益率下行，美股期货上涨](https://finance.sina.com.cn/money/forex/forexroll/2026-10-02/doc-initvyfc7145688.shtml)
+16. [欧元区9月通胀率升至3年来最高水平](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwz1339078.shtml)
+17. [俄罗斯总统普京表示，俄罗斯主张共同使用国际运输走廊。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initusmp1550489.shtml)
+18. [耐克盘前股价跌幅收窄，目前下跌7.6%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwx4565981.shtml)
+19. [恒指失守24000点创三月来最大跌幅，恒科指下挫超2%创2年新低，权重科网股集体下跌、腾讯阿里均跌2%](https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-10-02/doc-initvpri7308176.shtml)
+20. [宁德时代：将于10月20日召开董事会审议三季度业绩](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvprc1366238.shtml)

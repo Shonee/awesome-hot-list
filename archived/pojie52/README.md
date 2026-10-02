@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-02 23:13:08
+> 更新时间：2026-10-03 00:14:49
 
 ## 人气热门
 
@@ -57,27 +57,27 @@
 
 ## 精华采撷
 
-1. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-2. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
-3. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
-4. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
-5. [Allsafe靶场全解](https://www.52pojie.cn/thread-2122890-1-1.html)
-6. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-7. [【整活儿向】分析一款RPG游戏让足球赛小游戏敌方进球给我方白送分并制作修改器](https://www.52pojie.cn/thread-2112391-1-1.html)
-8. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
-9. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-10. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
-11. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-12. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
-13. [iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解](https://www.52pojie.cn/thread-2115245-1-1.html)
-14. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-15. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
-16. [某企业加固dex vmp简单分析](https://www.52pojie.cn/thread-2111432-1-1.html)
-17. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-18. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-19. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
-20. [某音 JSVMP bogus纯算](https://www.52pojie.cn/thread-2120914-1-1.html)
-21. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
+1. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
+2. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+3. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
+4. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
+5. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
+6. [Allsafe靶场全解](https://www.52pojie.cn/thread-2122890-1-1.html)
+7. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+8. [【整活儿向】分析一款RPG游戏让足球赛小游戏敌方进球给我方白送分并制作修改器](https://www.52pojie.cn/thread-2112391-1-1.html)
+9. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+10. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+11. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+12. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
+13. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
+14. [iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解](https://www.52pojie.cn/thread-2115245-1-1.html)
+15. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+16. [一个 Android 远控APP的逆向分析-从 AB 包隐藏、动态加载到无障碍远程控制支付流程](https://www.52pojie.cn/thread-2121592-1-1.html)
+17. [某企业加固dex vmp简单分析](https://www.52pojie.cn/thread-2111432-1-1.html)
+18. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+19. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+20. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
+21. [某音 JSVMP bogus纯算](https://www.52pojie.cn/thread-2120914-1-1.html)
 22. [cctv视频解密，wasm vmp分析](https://www.52pojie.cn/thread-2094716-1-1.html)
 23. [新手小白之IDA Pro逆向+AI分析，完整还原FastStone Capture的注册验证算法](https://www.52pojie.cn/thread-2101684-1-1.html)
 24. [web逆向基础知识--- js 事件 事件循环 和异步](https://www.52pojie.cn/thread-2111598-1-1.html)
