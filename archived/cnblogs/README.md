@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-02 14:56:08
+> 更新时间：2026-10-02 15:45:34
 
 ## 最新帖子
 
@@ -47,12 +47,3 @@
 18. [为什么说 IO 操作异步才有意义](https://www.cnblogs.com/kklldog/p/19449864)
 19. [2025 年终总结｜30岁](https://www.cnblogs.com/liyq666/p/19427476)
 20. [Keepalived详解：原理、编译安装与高可用集群配置](https://www.cnblogs.com/ydswin/p/19326078)
-
-## 48 小时阅读排行
-
-1. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
-2. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
-3. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
-4. [Koog(1) —— JVM 下的 Agent 框架](https://www.cnblogs.com/joy99/p/23170548)
-5. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
-6. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
