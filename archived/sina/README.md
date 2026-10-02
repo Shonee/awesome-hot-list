@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-03 03:11:15
+> 更新时间：2026-10-03 04:13:14
 
 ## 新闻热榜
 
@@ -29,20 +29,21 @@
 
 1. [市场消息： 沙特正考虑发起沿海攻势，以确保红海航线安全。  沙特正考虑在多条战线同时发起攻势。预计沙特军事行动将在未来数周内启动。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1197278.shtml)
 2. [卡尼将成为首位对土耳其进行正式双边访问的加拿大领导人。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1193577.shtml)
-3. [据消息人士透露，意大利将2028年债务与国内生产总值之比目标设定为137.9%。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4316363.shtml)
-4. [法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430453.shtml)
-5. [阿根廷国家风险利差升至650基点，创10个月新高。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1200052.shtml)
-6. [市场消息：沙特阿拉伯外交大臣与伊朗外交部长通电话。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1091780.shtml)
-7. [布伦特原油抹去跌幅，交易价格突破每桶102美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430922.shtml)
-8. [意大利经济财政部长：意大利2026年的财政赤字将控制在3%以下](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1076512.shtml)
-9. [俄称打击乌基础设施 乌称袭击俄炼油厂](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1190275.shtml)
-10. [巴西总统卢拉在X平台发文称：巴西人有权自主决定持有信用卡的数量。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4310214.shtml)
-11. [洲际交易所欧洲期货分部：截至9月29日，可可投机者净空头头寸增加593手，至7036手。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4324435.shtml)
-12. [Anthropic斥资1亿美元培养一万名工程师，充实企业人工智能人才储备。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4308274.shtml)
-13. [派拉蒙CEO大卫·埃里森表示，合并后公司将命名为“Skydance”。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvyex1240252.shtml)
-14. [瑞银预计，德国10年期国债与意大利10年期国债收益率利差将扩大至150个基点。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwz1330410.shtml)
-15. [部分美国数据存储公司股价盘前下跌。希捷科技股价下跌11.4%，西部数据股价下滑7.1%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwz1327642.shtml)
-16. [AI 研究实验室 Inworld 收购语音智能体平台 Ultravox。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncr1616276.shtml)
-17. [凯萨银行成立全新人工智能与数据部门，以推进其基于数据与人工智能的转型进程。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4616425.shtml)
-18. [凯傲集团股价抹去涨幅，迅速下跌至2.9%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvprc1377567.shtml)
-19. [热身赛中国U17男足0:1不敌坦桑尼亚队](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituwtm1457954.shtml)
+3. [惠誉确认丰田汽车信贷公司及关联公司评级为“A+”/“F1”，展望稳定。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4338097.shtml)
+4. [据消息人士透露，意大利将2028年债务与国内生产总值之比目标设定为137.9%。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4316363.shtml)
+5. [尼日利亚东北遇袭15人死亡 袭击疑为极端组织发动](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4348187.shtml)
+6. [国际货币基金组织称，墨西哥需加大努力将债务推向下降轨道。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1109205.shtml)
+7. [美国联邦航空管理局一名官员表示：该局将向航空公司发布特别适航公告，确保各家航空公司知晓波音针对737 MAX软件问题发布的公告。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1122272.shtml)
+8. [巴西石油公司首席执行官：将于10月底完成亚马逊河口区块第一口井的钻探作业。巴西国家石油公司将部署钻井船，于2027年第一季度启动额外三](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1118977.shtml)
+9. [法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430453.shtml)
+10. [阿根廷国家风险利差升至650基点，创10个月新高。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1200052.shtml)
+11. [野村证券因对AI云业务充满信心，上调阿里巴巴盈利预期。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4327997.shtml)
+12. [市场消息：沙特阿拉伯外交大臣与伊朗外交部长通电话。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1091780.shtml)
+13. [布伦特原油抹去跌幅，交易价格突破每桶102美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430922.shtml)
+14. [意大利经济财政部长：意大利2026年的财政赤字将控制在3%以下](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1076512.shtml)
+15. [俄称打击乌基础设施 乌称袭击俄炼油厂](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1190275.shtml)
+16. [巴西总统卢拉在X平台发文称：巴西人有权自主决定持有信用卡的数量。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4310214.shtml)
+17. [纽约商品交易所（NYMEX）11月交割的西德克萨斯中质原油（WTI）期货结算价为每桶91.11美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4343750.shtml)
+18. [洲际交易所欧洲期货分部：截至9月29日，可可投机者净空头头寸增加593手，至7036手。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4324435.shtml)
+19. [Anthropic斥资1亿美元培养一万名工程师，充实企业人工智能人才储备。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4308274.shtml)
+20. [委内瑞拉经济副总统奥尔特：我们欢迎泛美开发银行集团重返委内瑞拉。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1117093.shtml)
