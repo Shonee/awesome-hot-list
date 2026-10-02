@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-03 00:15:28
+> 更新时间：2026-10-03 01:13:53
 
 ## 日榜
 
@@ -15,4 +15,4 @@
 9. [中国电信 App 上线 eSIM 手机绑定号码数量查询功能](https://www.ithome.com/1/009/323.htm)
 10. [腾讯 WorkBuddy 内置模型独家支持 Space Bunny](https://www.ithome.com/1/009/335.htm)
 11. [周星驰导演电影《功夫女足》网播定档 10 月 3 日，已收获 23.45 亿元票房](https://www.ithome.com/1/009/324.htm)
-12. [荣耀林林：Magic9 系列不会推出 RSR 保时捷设计版本](https://www.ithome.com/1/009/329.htm)
+12. [B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕](https://www.ithome.com/1/009/362.htm)

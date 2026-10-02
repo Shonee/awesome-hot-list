@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-03 00:15:34
+> 更新时间：2026-10-03 01:14:02
 
 ## 股票人气榜
 
@@ -9,8 +9,8 @@
 3. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
 4. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
 5. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
-6. [N力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
-7. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
+6. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
+7. [N力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
 8. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
 9. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 10. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
@@ -23,4 +23,4 @@
 17. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
 18. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
 19. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
-20. [陆家嘴 (600663)](https://quote.eastmoney.com/sh600663.html)
+20. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
