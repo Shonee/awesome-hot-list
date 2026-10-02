@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-02 08:36:23
+> 更新时间：2026-10-02 09:29:41
 
 ## 股票人气榜
 
@@ -21,6 +21,6 @@
 15. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
 16. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
 17. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
-18. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
-19. [五方光电 (002962)](https://quote.eastmoney.com/sz002962.html)
-20. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
+18. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
+19. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
+20. [五方光电 (002962)](https://quote.eastmoney.com/sz002962.html)
