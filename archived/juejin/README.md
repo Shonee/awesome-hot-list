@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-03 02:17:59
+> 更新时间：2026-10-03 03:10:58
 
 ## 热门文章
 
@@ -16,8 +16,8 @@
 10. [2026年金九银十，我面了22个前端](https://juejin.cn/post/7691154454523576354)
 11. [31岁罗福莉，晋升小米最高职级22级](https://juejin.cn/post/7691227873460125734)
 12. [Pro 200 额度砍半，OpenAI 给的理由是模型变聪明了](https://juejin.cn/post/7690867753125199907)
-13. [Windows 下 Claude Code 落地全指南：从安装配置到避坑优化](https://juejin.cn/post/7690784318688804914)
-14. [一个人+AI做情侣食谱小程序，30天纯赚](https://juejin.cn/post/7691030977348108351)
+13. [一个人+AI做情侣食谱小程序，30天纯赚](https://juejin.cn/post/7691030977348108351)
+14. [Windows 下 Claude Code 落地全指南：从安装配置到避坑优化](https://juejin.cn/post/7690784318688804914)
 15. [游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！](https://juejin.cn/post/7690869176362172425)
 16. [GitHub 日榜趋势速报 | 2026-09-30](https://juejin.cn/post/7690839722769563657)
 17. [在职前端 Skill 和 MCP 分享](https://juejin.cn/post/7691142360248614947)
@@ -28,14 +28,14 @@
 22. [GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器](https://juejin.cn/post/7691151105850310694)
 23. [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338)
 24. [MCP 技术分享：从协议握手到 LangGraph 多 Server 调用](https://juejin.cn/post/7691835382220111872)
-25. [Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好](https://juejin.cn/post/7691345821564174363)
-26. [给页面加一个 JSON 编辑器：jsoneditor 的功能、配置和接入注意事项](https://juejin.cn/post/7691155417934594074)
-27. [OpenAI 给 AI 发了台电脑，可惜你还没学会派活](https://juejin.cn/post/7691151105850654758)
-28. [Claude Code 三大配置体系详解：settings.json / CLAUDE.md / memory](https://juejin.cn/post/7690888878326087721)
-29. [Claude Opus 5.5 中转站验真：1x Kiro 反代真的在跑 Opus 5.5 吗？](https://juejin.cn/post/7690861778460229651)
-30. [实战 Jev-Style-Qwen3.5-2B：从 CPU 3 秒到 GPU 100ms](https://juejin.cn/post/7690781115092992027)
-31. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
-32. [ai agent --- redis 缓存](https://juejin.cn/post/7691450666426286134)
+25. [ai agent --- redis 缓存](https://juejin.cn/post/7691450666426286134)
+26. [Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好](https://juejin.cn/post/7691345821564174363)
+27. [给页面加一个 JSON 编辑器：jsoneditor 的功能、配置和接入注意事项](https://juejin.cn/post/7691155417934594074)
+28. [OpenAI 给 AI 发了台电脑，可惜你还没学会派活](https://juejin.cn/post/7691151105850654758)
+29. [Claude Code 三大配置体系详解：settings.json / CLAUDE.md / memory](https://juejin.cn/post/7690888878326087721)
+30. [Claude Opus 5.5 中转站验真：1x Kiro 反代真的在跑 Opus 5.5 吗？](https://juejin.cn/post/7690861778460229651)
+31. [实战 Jev-Style-Qwen3.5-2B：从 CPU 3 秒到 GPU 100ms](https://juejin.cn/post/7690781115092992027)
+32. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
 33. [ai agent --- postgreSQL 关系型数据库](https://juejin.cn/post/7691284233897951295)
 34. [Node.js 50个优势场景盘点：一个人单干，为啥我多数时候只用它](https://juejin.cn/post/7691227873459028006)
 35. [为了脱离前端鄙视链，于是自己写个框架 - React 党看完沉默了](https://juejin.cn/post/7691201978224787498)

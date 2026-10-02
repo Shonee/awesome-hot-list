@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-03 02:18:02
+> 更新时间：2026-10-03 03:11:01
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
-2. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
+1. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
+2. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
 3. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
 4. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
-5. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
-6. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
+5. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
+6. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)

@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-03 02:18:24
+> 更新时间：2026-10-03 03:11:15
 
 ## 新闻热榜
 
@@ -29,21 +29,20 @@
 
 1. [市场消息： 沙特正考虑发起沿海攻势，以确保红海航线安全。  沙特正考虑在多条战线同时发起攻势。预计沙特军事行动将在未来数周内启动。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1197278.shtml)
 2. [卡尼将成为首位对土耳其进行正式双边访问的加拿大领导人。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1193577.shtml)
-3. [法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430453.shtml)
-4. [阿根廷国家风险利差升至650基点，创10个月新高。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1200052.shtml)
-5. [布伦特原油抹去跌幅，交易价格突破每桶102美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430922.shtml)
-6. [恒指、科指均跌超3%，机构：红利仍是底仓](https://finance.sina.com.cn/stock/hkstock/2026-10-02/doc-inituwtp5971270.shtml)
-7. [港股收评：恒指跌2.6% 科指跌2.26% 科网股、内房股普跌 光通信板块逆市活跃](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-02/doc-initvpri7307809.shtml)
-8. [福特：预计财务影响可在全年业绩指引范围内消化。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvyex1244576.shtml)
-9. [纳斯达克100指数转涨。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1790356.shtml)
-10. [谷歌：在安卓端 Gemini Live 中推出引导视觉功能，面向盲人和低视力用户。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1772697.shtml)
-11. [俄罗斯总统普京：我们没有威胁任何人，也不打算攻击任何欧洲国家，无论是 2030 年，还是 2050 年。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1766243.shtml)
-12. [俄称打击乌基础设施 乌称袭击俄炼油厂](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1190275.shtml)
-13. [美国贸易代表格里尔：法国、德国和意大利目前握有柴油储备，推动更多柴油进入市场是合作方案的一部分内容。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initufvr4938869.shtml)
-14. [10月2日《新闻联播》主要内容](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwx4556722.shtml)
-15. [美联储副主席杰斐逊：长期通胀预期表明，美联储在压低通胀方面具备公信力。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpt5032791.shtml)
-16. [2026年前七个月，伊朗与土耳其的双边贸易额达到37.93亿美元，较去年同期的30.87亿美元增长23%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4621767.shtml)
-17. [雪佛龙表示，其位于加利福尼亚州埃尔塞贡多的炼油厂发生的非计划放空燃烧不会对周边社区，也不会对该厂在岗员工构成安全风险。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncp4863627.shtml)
-18. [忠利保险将投资1.5亿欧元，收购BCC约9.9%的股份。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4549251.shtml)
-19. [巴西石油生产管理局（PPSA）声明：埃克森美孚、道达尔能源中标现货石油拍卖。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initufvr4942355.shtml)
-20. [白宫经济委员会主任哈塞特：海军已打开霍尔木兹海峡通道，原油正从那里流过。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvyev4479667.shtml)
+3. [据消息人士透露，意大利将2028年债务与国内生产总值之比目标设定为137.9%。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4316363.shtml)
+4. [法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430453.shtml)
+5. [阿根廷国家风险利差升至650基点，创10个月新高。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1200052.shtml)
+6. [市场消息：沙特阿拉伯外交大臣与伊朗外交部长通电话。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1091780.shtml)
+7. [布伦特原油抹去跌幅，交易价格突破每桶102美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430922.shtml)
+8. [意大利经济财政部长：意大利2026年的财政赤字将控制在3%以下](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1076512.shtml)
+9. [俄称打击乌基础设施 乌称袭击俄炼油厂](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1190275.shtml)
+10. [巴西总统卢拉在X平台发文称：巴西人有权自主决定持有信用卡的数量。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4310214.shtml)
+11. [洲际交易所欧洲期货分部：截至9月29日，可可投机者净空头头寸增加593手，至7036手。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4324435.shtml)
+12. [Anthropic斥资1亿美元培养一万名工程师，充实企业人工智能人才储备。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4308274.shtml)
+13. [派拉蒙CEO大卫·埃里森表示，合并后公司将命名为“Skydance”。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvyex1240252.shtml)
+14. [瑞银预计，德国10年期国债与意大利10年期国债收益率利差将扩大至150个基点。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwz1330410.shtml)
+15. [部分美国数据存储公司股价盘前下跌。希捷科技股价下跌11.4%，西部数据股价下滑7.1%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwz1327642.shtml)
+16. [AI 研究实验室 Inworld 收购语音智能体平台 Ultravox。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncr1616276.shtml)
+17. [凯萨银行成立全新人工智能与数据部门，以推进其基于数据与人工智能的转型进程。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4616425.shtml)
+18. [凯傲集团股价抹去涨幅，迅速下跌至2.9%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvprc1377567.shtml)
+19. [热身赛中国U17男足0:1不敌坦桑尼亚队](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituwtm1457954.shtml)
