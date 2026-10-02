@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-03 01:12:50
+> 更新时间：2026-10-03 02:18:24
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [牛弹琴：这件事，普京一直想不通](https://finance.sina.com.cn/2026-10-02/doc-inituwti4698206.shtml)
-2. [“充电排大队全怪增程车多？” 高速服务区上演抢桩大战：有车主排队上百号，闪充都变“慢充”了](https://finance.sina.com.cn/china/gncj/2026-10-02/doc-initvpri7324550.shtml)
-3. [港股国庆后首日交易遇冷 三大指数集体重挫 金融股成拖累指数核心力量](https://finance.sina.com.cn/roll/2026-10-02/doc-initvtxf7219250.shtml)
-4. [年内“翻倍基”，仅剩2只](https://finance.sina.com.cn/roll/2026-10-02/doc-inituwti4680465.shtml)
-5. [美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待](https://finance.sina.com.cn/money/forex/forexroll/2026-10-02/doc-initvazm5901490.shtml)
-6. [事关加息，美联储副主席发声](https://finance.sina.com.cn/jjxw/2026-10-02/doc-initusmm4789287.shtml)
-7. [倘若股市崩盘将至，巴菲特建议你现在就做好这一件事](https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-inittzpt5006387.shtml)
-8. [赛力斯港股大涨，华为赛力斯续签五年，问界转向“赛力斯主导”](https://finance.sina.com.cn/stock/hkstock/2026-10-02/doc-inituwtm1507636.shtml)
-9. [10月2日收盘：三大指数小幅收涨 美国国债收益率从多年高位回落](https://finance.sina.com.cn/world/2026-10-02/doc-initunct6141777.shtml)
-10. [知情人士：亚马逊计划向投资者出售价值80亿美元的英伟达芯片](https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initvazi1445462.shtml)
-11. [PALEBLUEDOT AI：完成由COMPUTECORE领投的2亿美元C轮融资，估值达32亿美元。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncr1606177.shtml)
-12. [韩国公诉厅和重大犯罪调查厅正式成立](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituwti4690888.shtml)
-13. [俄国防部称打击乌军物流能源基建和船只](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4592996.shtml)
-14. [港股午评：恒指跌2.64%失守24000点 科指跌2.45% 科网股普跌 赛力斯涨超8%](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-02/doc-initvazi1442830.shtml)
-15. [美国9月非农就业大幅低于预期，美债收益率下行，美股期货上涨](https://finance.sina.com.cn/money/forex/forexroll/2026-10-02/doc-initvyfc7145688.shtml)
-16. [欧元区9月通胀率升至3年来最高水平](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwz1339078.shtml)
-17. [俄罗斯总统普京表示，俄罗斯主张共同使用国际运输走廊。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initusmp1550489.shtml)
-18. [耐克盘前股价跌幅收窄，目前下跌7.6%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwx4565981.shtml)
-19. [恒指失守24000点创三月来最大跌幅，恒科指下挫超2%创2年新低，权重科网股集体下跌、腾讯阿里均跌2%](https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-10-02/doc-initvpri7308176.shtml)
-20. [宁德时代：将于10月20日召开董事会审议三季度业绩](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvprc1366238.shtml)
+1. [市场消息： 沙特正考虑发起沿海攻势，以确保红海航线安全。  沙特正考虑在多条战线同时发起攻势。预计沙特军事行动将在未来数周内启动。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1197278.shtml)
+2. [卡尼将成为首位对土耳其进行正式双边访问的加拿大领导人。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1193577.shtml)
+3. [法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430453.shtml)
+4. [阿根廷国家风险利差升至650基点，创10个月新高。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1200052.shtml)
+5. [布伦特原油抹去跌幅，交易价格突破每桶102美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430922.shtml)
+6. [恒指、科指均跌超3%，机构：红利仍是底仓](https://finance.sina.com.cn/stock/hkstock/2026-10-02/doc-inituwtp5971270.shtml)
+7. [港股收评：恒指跌2.6% 科指跌2.26% 科网股、内房股普跌 光通信板块逆市活跃](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-02/doc-initvpri7307809.shtml)
+8. [福特：预计财务影响可在全年业绩指引范围内消化。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvyex1244576.shtml)
+9. [纳斯达克100指数转涨。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1790356.shtml)
+10. [谷歌：在安卓端 Gemini Live 中推出引导视觉功能，面向盲人和低视力用户。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1772697.shtml)
+11. [俄罗斯总统普京：我们没有威胁任何人，也不打算攻击任何欧洲国家，无论是 2030 年，还是 2050 年。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1766243.shtml)
+12. [俄称打击乌基础设施 乌称袭击俄炼油厂](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1190275.shtml)
+13. [美国贸易代表格里尔：法国、德国和意大利目前握有柴油储备，推动更多柴油进入市场是合作方案的一部分内容。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initufvr4938869.shtml)
+14. [10月2日《新闻联播》主要内容](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvtwx4556722.shtml)
+15. [美联储副主席杰斐逊：长期通胀预期表明，美联储在压低通胀方面具备公信力。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpt5032791.shtml)
+16. [2026年前七个月，伊朗与土耳其的双边贸易额达到37.93亿美元，较去年同期的30.87亿美元增长23%。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4621767.shtml)
+17. [雪佛龙表示，其位于加利福尼亚州埃尔塞贡多的炼油厂发生的非计划放空燃烧不会对周边社区，也不会对该厂在岗员工构成安全风险。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncp4863627.shtml)
+18. [忠利保险将投资1.5亿欧元，收购BCC约9.9%的股份。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvpqz4549251.shtml)
+19. [巴西石油生产管理局（PPSA）声明：埃克森美孚、道达尔能源中标现货石油拍卖。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initufvr4942355.shtml)
+20. [白宫经济委员会主任哈塞特：海军已打开霍尔木兹海峡通道，原油正从那里流过。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initvyev4479667.shtml)
