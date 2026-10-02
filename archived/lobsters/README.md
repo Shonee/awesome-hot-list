@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-02 11:17:34
+> 更新时间：2026-10-02 12:16:39
 
 ## Hottest
 
@@ -19,13 +19,13 @@
 13. [The AI Pascal’s Wager](https://ploum.net/2026-10-01-pascal_wager.html)
 14. [The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary](https://verdagon.dev/blog/boundary-memory-safety)
 15. [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
-16. [Lists that keep track of their reversal](https://grim.cargocut.org/a/rev-list.html)
-17. [How to make a text box: A crash course in Unicode and OpenType](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
-18. [Major rsync upgrade in Debian because of 33 CVEs](https://lobste.rs/s/sqyhgt)
+16. [Major rsync upgrade in Debian because of 33 CVEs](https://lobste.rs/s/sqyhgt)
+17. [Lists that keep track of their reversal](https://grim.cargocut.org/a/rev-list.html)
+18. [How to make a text box: A crash course in Unicode and OpenType](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
 19. [We Should be Able to Change our Languages](https://jimmyhmiller.com/change-our-languages)
 20. [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
 21. [EU KIDS Act](https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en)
 22. [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
-23. [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
-24. [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html)
-25. [Tcl/Tk 9.1](https://www.tcl-lang.org/software/tcltk/9.1.html)
+23. [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html)
+24. [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
+25. [Schedules Are Solvable Symbols: Tuning-Free Compilation of Tile Programs on Dataflow Architectures](https://arxiv.org/abs/2609.29219)
