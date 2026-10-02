@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-02 21:13:11
+> 更新时间：2026-10-03 03:38:47
 
 ## 每日趋势
 
@@ -134,13 +134,12 @@
 ## HTML
 
 1. [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-2. [visual-explainer](https://github.com/nicobailon/visual-explainer)
-3. [reclip](https://github.com/averygan/reclip)
-4. [Skills](https://github.com/MengTo/Skills)
-5. [wpt](https://github.com/web-platform-tests/wpt)
-6. [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
-7. [computer-science](https://github.com/ossu/computer-science)
-8. [awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy)
+2. [reclip](https://github.com/averygan/reclip)
+3. [Skills](https://github.com/MengTo/Skills)
+4. [wpt](https://github.com/web-platform-tests/wpt)
+5. [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
+6. [computer-science](https://github.com/ossu/computer-science)
+7. [awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy)
 
 ## JavaScript
 
@@ -150,11 +149,12 @@
 4. [starnet](https://github.com/androoAGI/starnet)
 5. [Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
 6. [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
-7. [agent-skills](https://github.com/vercel-labs/agent-skills)
-8. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-9. [youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent)
-10. [three.js](https://github.com/mrdoob/three.js)
-11. [tvbox](https://github.com/qist/tvbox)
-12. [node](https://github.com/nodejs/node)
-13. [lx-music-source](https://github.com/pdone/lx-music-source)
-14. [openGym](https://github.com/DuarteSantos8/openGym)
+7. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
+8. [agent-skills](https://github.com/vercel-labs/agent-skills)
+9. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+10. [youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent)
+11. [three.js](https://github.com/mrdoob/three.js)
+12. [tvbox](https://github.com/qist/tvbox)
+13. [node](https://github.com/nodejs/node)
+14. [lx-music-source](https://github.com/pdone/lx-music-source)
+15. [openGym](https://github.com/DuarteSantos8/openGym)
