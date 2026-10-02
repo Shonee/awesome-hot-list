@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-02 14:23:20
+> 更新时间：2026-10-02 14:56:22
 
 ## 新闻热榜
 
@@ -9,15 +9,15 @@
 3. [普京称若领土遭袭考虑动用全武库](https://news.sina.com.cn/w/2026-10-02/doc-initusmr6061635.shtml)
 4. [中方代表28国发言：立即无条件彻底取消](https://news.sina.com.cn/c/2026-10-02/doc-initusmt7644909.shtml)
 5. [从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重](https://news.sina.com.cn/w/2026-10-02/doc-initusmp1516785.shtml)
-6. [桂林市文促会深夜发布致歉信：工作严重疏漏，向阿丘诚恳致歉](https://news.sina.com.cn/s/2026-10-02/doc-inittzpv1765056.shtml)
-7. [“像食堂打饭一样排队”，有车只剩1%电量“趴窝”，有车主排队等5个多小时](https://news.sina.com.cn/c/2026-10-02/doc-initusmt7645824.shtml)
-8. [大假首日156.8万外地游客到成都耍！外交部发言人林剑向世界分享成都国庆氛围](https://news.sina.com.cn/c/2026-10-02/doc-inittzpz7934822.shtml)
-9. [五问东航“空姐跪地道歉”事件](https://news.sina.com.cn/zx/2026-10-01/doc-inittksc1956944.shtml)
-10. [伊朗召见英国大使：强烈抗议，必须解释！](https://news.sina.com.cn/w/2026-10-02/doc-initusmm4784772.shtml)
-11. [网友：专家手握“191”？足够先进，可以展示](https://news.sina.com.cn/c/2026-10-01/doc-inittksf6616208.shtml)
-12. [牛弹琴：这件事，普京一直想不通](https://finance.sina.com.cn/2026-10-02/doc-inituwti4698206.shtml)
-13. [86岁麻生太郎，被曝8000万政治资金流向“情人公司”](https://news.sina.com.cn/w/2026-10-02/doc-initusmm4778468.shtml)
-14. [中国投下反对票！中方：中国在动用否决权问题上一贯极为慎重，但作为安理会常任理事国，绝不会放弃原则](https://news.sina.com.cn/c/2026-10-02/doc-initusmr6056732.shtml)
+6. [“像食堂打饭一样排队”，有车只剩1%电量“趴窝”，有车主排队等5个多小时](https://news.sina.com.cn/c/2026-10-02/doc-initusmt7645824.shtml)
+7. [桂林市文促会深夜发布致歉信：工作严重疏漏，向阿丘诚恳致歉](https://news.sina.com.cn/s/2026-10-02/doc-inittzpv1765056.shtml)
+8. [牛弹琴：这件事，普京一直想不通](https://finance.sina.com.cn/2026-10-02/doc-inituwti4698206.shtml)
+9. [伊朗召见英国大使：强烈抗议，必须解释！](https://news.sina.com.cn/w/2026-10-02/doc-initusmm4784772.shtml)
+10. [大假首日156.8万外地游客到成都耍！外交部发言人林剑向世界分享成都国庆氛围](https://news.sina.com.cn/c/2026-10-02/doc-inittzpz7934822.shtml)
+11. [五问东航“空姐跪地道歉”事件](https://news.sina.com.cn/zx/2026-10-01/doc-inittksc1956944.shtml)
+12. [中国投下反对票！中方：中国在动用否决权问题上一贯极为慎重，但作为安理会常任理事国，绝不会放弃原则](https://news.sina.com.cn/c/2026-10-02/doc-initusmr6056732.shtml)
+13. [网友：专家手握“191”？足够先进，可以展示](https://news.sina.com.cn/c/2026-10-01/doc-inittksf6616208.shtml)
+14. [86岁麻生太郎，被曝8000万政治资金流向“情人公司”](https://news.sina.com.cn/w/2026-10-02/doc-initusmm4778468.shtml)
 15. [细心的网友发现，今年鲁比奥的国庆祝福换了一个单词](https://news.sina.com.cn/zx/2026-10-01/doc-inittekc5240047.shtml)
 16. [绑架马杜罗前，特朗普特地问了AI数小时](https://news.sina.com.cn/w/2026-10-02/doc-initusmt7672763.shtml)
 17. [演员郭晓东，紧急道歉！](https://news.sina.com.cn/s/2026-10-01/doc-initteki6688671.shtml)
@@ -28,13 +28,13 @@
 ## 财经热榜
 
 1. [牛弹琴：这件事，普京一直想不通](https://finance.sina.com.cn/2026-10-02/doc-inituwti4698206.shtml)
-2. [倘若股市崩盘将至，巴菲特建议你现在就做好这一件事](https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-inittzpt5006387.shtml)
-3. [年内“翻倍基”，仅剩2只](https://finance.sina.com.cn/roll/2026-10-02/doc-inituwti4680465.shtml)
-4. [10月2日收盘：三大指数小幅收涨 美国国债收益率从多年高位回落](https://finance.sina.com.cn/world/2026-10-02/doc-initunct6141777.shtml)
-5. [PALEBLUEDOT AI：完成由COMPUTECORE领投的2亿美元C轮融资，估值达32亿美元。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncr1606177.shtml)
-6. [韩国公诉厅和重大犯罪调查厅正式成立](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituwti4690888.shtml)
-7. [俄罗斯总统普京表示，俄罗斯主张共同使用国际运输走廊。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initusmp1550489.shtml)
-8. [事关加息，美联储副主席发声](https://finance.sina.com.cn/jjxw/2026-10-02/doc-initusmm4789287.shtml)
+2. [年内“翻倍基”，仅剩2只](https://finance.sina.com.cn/roll/2026-10-02/doc-inituwti4680465.shtml)
+3. [倘若股市崩盘将至，巴菲特建议你现在就做好这一件事](https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-inittzpt5006387.shtml)
+4. [事关加息，美联储副主席发声](https://finance.sina.com.cn/jjxw/2026-10-02/doc-initusmm4789287.shtml)
+5. [10月2日收盘：三大指数小幅收涨 美国国债收益率从多年高位回落](https://finance.sina.com.cn/world/2026-10-02/doc-initunct6141777.shtml)
+6. [PALEBLUEDOT AI：完成由COMPUTECORE领投的2亿美元C轮融资，估值达32亿美元。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncr1606177.shtml)
+7. [韩国公诉厅和重大犯罪调查厅正式成立](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituwti4690888.shtml)
+8. [俄罗斯总统普京表示，俄罗斯主张共同使用国际运输走廊。](https://finance.sina.com.cn/7x24/2026-10-02/doc-initusmp1550489.shtml)
 9. [纳斯达克100指数转涨。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1790356.shtml)
 10. [谷歌：在安卓端 Gemini Live 中推出引导视觉功能，面向盲人和低视力用户。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1772697.shtml)
 11. [俄罗斯总统普京：我们没有威胁任何人，也不打算攻击任何欧洲国家，无论是 2030 年，还是 2050 年。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inittzpv1766243.shtml)
