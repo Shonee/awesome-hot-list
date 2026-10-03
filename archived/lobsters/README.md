@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-03 10:19:53
+> 更新时间：2026-10-03 10:54:19
 
 ## Hottest
 
@@ -17,15 +17,15 @@
 11. [What are you doing this weekend?](https://lobste.rs/s/hfmcxi)
 12. [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
 13. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
-14. [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/)
-15. [IANA's email about why example.com changed](https://www.oliverdunk.com/2026/09/30/iana-reply)
-16. [Reducing the cognitive load of AI changes](https://amoffat.github.io/blog/cognitive-load.html)
-17. [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/)
-18. [Driving the GDEH0154D67 e-paper display with Rust](https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/)
+14. [Driving the GDEH0154D67 e-paper display with Rust](https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/)
+15. [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/)
+16. [IANA's email about why example.com changed](https://www.oliverdunk.com/2026/09/30/iana-reply)
+17. [Reducing the cognitive load of AI changes](https://amoffat.github.io/blog/cognitive-load.html)
+18. [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/)
 19. [Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)](https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect)
 20. [Klassik Revives the KDE 3 Desktop on Modern Plasma 6](https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/)
 21. [GitHub repository landing pages now show an accessibility tab, if provided](https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/)
 22. [The death of web development education](https://molily.de/web-dev-education/)
 23. [Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx](https://rahuljuliato.com/posts/emacs-rx-in-typescript)
-24. [JetBrains Air: Building a System of Products for Agentic Software Development](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/)
-25. [Upstream Rust maintenance report](https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html)
+24. [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/)
+25. [JetBrains Air: Building a System of Products for Agentic Software Development](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/)

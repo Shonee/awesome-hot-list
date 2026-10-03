@@ -375,3 +375,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,NVIDIA DGX Spark 64GB 为开发者提供更多本地 AI 构建与扩展方式,DGX Spark 将 NVIDIA Grace Blackwell 计算、统一内存、NVIDIA ConnectX-7 网络和 NVIDIA CUDA 加速的 AI 软件栈集成于一个系统中。新的 64GB 配置仅通过制造商合作伙伴提供，在保持平台价格亲民的同时，保留了 GB10 Grace Blackwell 超级芯片、DGX OS 和完整的 NVIDIA AI 软件栈 —— 与 128GB 型号相同。 NVIDIA Blog 12 小时前,,https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/,,Readhub,AI 资讯,ai,digest,,2026-10-03 09:50:16
 9,国庆出游用 AI，第一批人已经被坑惨了,他们都不是第一次用 AI 做攻略，手里的攻略做得很细，但坑也踩得很准：车程从 50 分钟变成将近两个小时，特意赶去的街区上午基本没店开门，凌晨摸黑登顶等到的日出只露了 30 秒…… 我才明白，AI 做攻略最大的问题是它知道每一个地方在哪里，却不知道国庆期间这些地方到底是什么状态，它只擅长做一份「纸面上成立」的攻略。我的感受是，用 AI 做旅游攻略，大方向自己拿主意，AI 负责查资料、做图表，关键的地方自己再确认一遍。 虎嗅网 15 分钟前,,https://www.huxiu.com/article/4895221.html?f=rss,,Readhub,AI 资讯,ai,digest,,2026-10-03 09:50:16
 10,A 卡也能跑 DLSS 4.5 了 开发者开源 d4r 项目：性能直追 FSR 4,一位名为 countervolts 的开发者近日更新了其开源项目 d4r，为 AMD Radeon RX 9000 系列显卡带来了对英伟达 DLSS 4 和 DLSS 4.5 的实验性支持。D4r 的工作原理并非直接移植 DLSS 源代码，而是通过 Linux 和 Proton 环境运行英伟达官方的 nvngx_dlss.dll 文件，并借助 ZLUDA 兼容层将 CUDA 工作负载转换为 AMD 显卡可执行的指令。D4r 0.1.2 版本新增了针对 gfx1201 的原生,,https://news.mydrivers.com/1/1155/1155220.htm,,Readhub,AI 资讯,ai,digest,,2026-10-03 09:50:16
+1,腾讯与甲骨文签订五年协议 可获得约 10 万颗高端 AI 芯片,,,https://readhub.cn/topic/8wrfOYi62WB?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+2,叶军获 2026 年沃尔夫物理学奖 系该奖史上第二位华人,,,https://readhub.cn/topic/8wtyfZQMKqV?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+3,Anthropic IPO 前夕 被称「第一夫人」的 Cami Clark 退出,,,https://readhub.cn/topic/8wtyfLkUVJj?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+4,10 月 1 日高德日活跃用户数近 3.7 亿 多项数据创历史新高,,,https://readhub.cn/topic/8wtRnAUz5Zi?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+5,OpenAI 推出 ChatGPT 虚拟试穿与收藏夹功能,,,https://readhub.cn/topic/8wt4DCkkgm5?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+6,Anthropic 疑似灰度 Fable 5.5 新模型,,,https://readhub.cn/topic/8wtLN6erllB?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+7,马斯克称推进 Optimus 量产，特斯拉拟削减 AI5、AI6 芯片内存,,,https://readhub.cn/topic/8wt3V6CtXp9?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+8,MiniMax 上线 M3.1 Flash 可复现 Claude Opus 5.5 前端生成能力,,,https://readhub.cn/topic/8wu2xNCJLGL?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+9,Anthropic 据悉计划到 2027 年将前沿工程师团队扩至 1 万人,,,https://readhub.cn/topic/8wuHxx8lXOY?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+10,消息称苹果相关物料送 Apple Store，或为智能家居产品 10 月 8 日解禁,,,https://readhub.cn/topic/8wsLYVtnfKz?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+11,SK 集团会长崔泰源将出售 SK 公司 2.26% 的股份,,,https://readhub.cn/topic/8wtb6EkWi5L?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+12,小鹏 MONA L03 九月交付超 14000 台 年轻用户占比过半,,,https://readhub.cn/topic/8wtcW5TKuRu?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+13,美联储加息预期生变，美股期指短线拉升,,,https://readhub.cn/topic/8wu077mVJNo?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+14,古尔曼：苹果首款智能家居中枢支持 AI 面部识别 为家人切换专属内容,,,https://readhub.cn/topic/8wt8V1aH2ES?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+15,哈佛教授用 Claude 三月完成 18 领域 36 项研究 开源 AI 科研框架,,,https://readhub.cn/topic/8wtrtBMm194?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+16,蔚来换电单日总量创历史新高,,,https://readhub.cn/topic/8wtKemJlDtn?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+17,Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef,,,https://readhub.cn/topic/8wtR5LhuN31?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+18,东芝拟将数据中心 HDD 产能翻倍,,,https://readhub.cn/topic/8wtMnItV4LF?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+19,我国首个百兆瓦级压缩二氧化碳储能项目成功并网,,,https://readhub.cn/topic/8wtJvpjutfP?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+20,Anthropic 联创游说梵蒂冈 探讨 AI 意识相关伦理问题,,,https://readhub.cn/topic/8wtog5ncr8i?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+21,我国力争 2030 年饲草总产量达 1.3 亿吨,,,https://readhub.cn/topic/8wtNWMAKwjs?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+22,OpenAI 披露澳大利亚又一政府机构遭入侵,,,https://readhub.cn/topic/8wujUqGfoc9?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+23,英伟达推出 64GB 版 DGX Spark 128GB 版本涨价至 6950 美元,,,https://readhub.cn/topic/8wu0pl9ry5d?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+24,三家商业航天公司因财务资料过期 科创板 IPO 变更为中止状态,,,https://readhub.cn/topic/8wrnFbKFtwY?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+25,淘宝 TaoMate-H3 开源：三步生成「分钟级」音视频连续创作,,,https://readhub.cn/topic/8wu2xFtHXfL?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+26,腾讯控股 10 月 2 日耗资 1 亿港元回购 23.8 万股,,,https://readhub.cn/topic/8wtlSgTw9zQ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+27,LegoFlow：让智能体自主跑完代码数据构建 + 训练测评全流程,,,https://readhub.cn/topic/8wtW5C6SHvq?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+28,英伟达推出 DGX SPARK 64GB 可本地运行千亿参数 AI 模型,,,https://readhub.cn/topic/8wu0oapqaKL?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+29,OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧,,,https://readhub.cn/topic/8wuiOqzjRr2?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+30,三星 HBM4 报价为 HBM3E 三倍，押注 AI 算力竞争重塑定价权,,,https://readhub.cn/topic/8wtyKslb7NE?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-03 10:53:25
+1,10.02 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 12 条,,,https://readhub.cn/daily/2026-10-02,,Readhub,每日早报,daily,digest,2026-10-02,2026-10-03 10:53:25
+2,10.01 DeepSeek 开源昇腾基础组件 16 条,,,https://readhub.cn/daily/2026-10-01,,Readhub,每日早报,daily,digest,2026-10-01,2026-10-03 10:53:25
+3,09.30 OpenAI 推出全天候自主智能体 Dot、GPT-6.1 Sol 模型 13 条,,,https://readhub.cn/daily/2026-09-30,,Readhub,每日早报,daily,digest,2026-09-30,2026-10-03 10:53:25
+4,09.29 Anthropic 推出低成本 AI 模型 Sonnet 5.5 13 条,,,https://readhub.cn/daily/2026-09-29,,Readhub,每日早报,daily,digest,2026-09-29,2026-10-03 10:53:25
+5,09.28 OpenAI 因 Agent 多次越权逃逸事件暂停相关训练 9 条,,,https://readhub.cn/daily/2026-09-28,,Readhub,每日早报,daily,digest,2026-09-28,2026-10-03 10:53:25
+6,09.27 AI 门萨智商测试获满分 151 分 超过绝大多数人类 8 条,,,https://readhub.cn/daily/2026-09-27,,Readhub,每日早报,daily,digest,2026-09-27,2026-10-03 10:53:25
+7,09.26 DeepSeek Harness 桌面预览版已流出，官方暂未正式上线 11 条,,,https://readhub.cn/daily/2026-09-26,,Readhub,每日早报,daily,digest,2026-09-26,2026-10-03 10:53:25
+1,哈佛物理教授用 Claude 三个月横扫 18 个领域 36 个难题后，他总结出了一套可复现的 AI 科研框架,施瓦茨在文中透露，过去三个月里，他和 19 位合作者一起，带着 Claude 和这套工具从大约 400 个候选问题中筛选推进，最终完成了 36 篇学术手稿，涉及粒子物理、宇宙学、生态学、群体遗传学、经济学、语言学等 18 个领域。他把这类问题称为「Claude 形状的问题」：许多学科目前卡壳的难题，其实在数学、物理或计算机领域早就有了成熟的解法，只是该领域的学者并不知情。施瓦茨将它定位为一个运行框架（harness），作用类似于 Claude Code 之于 Claude、C,,https://www.mittrchina.com/news/detail/17041,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+2,A model guide for the GPT-6 family,"Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. OpenAI 10 小时前",,https://openai.com/index/practical-guide-building-gpt-6,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+3,刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观,最近，AI 研究团队 Tavus 发布实时视频交互模型 Griffin，并公布了一项实验结果：在与其研究预览版 Griffin-Lite 进行一分钟视频通话后，54 名参与者中有 26 人认为屏幕另一端坐着一个真人，占比约为 48%。Tavus 据此宣称，Griffin 是首个通过实时「视频图灵测试」的模型，并将其归入一个新类别 Human Interaction Model，简称 HIM，即人类交互模型。 36Kr 1 小时前,,https://www.36kr.com/p/4009475424063619,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+4,Meta 开源 Muse Gadgets，让全球开发者自己「造 AI 外设」,Meta 正式推出 Muse Gadgets 开源项目，全面下放硬件能力，让全球创客与开发者能够为 Muse 打造专属的外围硬件设备。按照 Meta 公布的信息，开发者可以使用 ESP32 开发板运行 Muse 固件，或使用 Linux SDK 连接更复杂的设备，也就是说开发者不仅能够在低成本微控制器上部署 Muse 交互逻辑，还能直接在树莓派 5（Raspberry Pi 5）等更强大的边缘计算设备上运行 Muse 客户端。Meta 还推出了一款官方设备：Muse Home,,https://www.36kr.com/p/4009352273236101,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+5,华为麒麟 9050 Pro 芯片显微照曝光：晶体管密度提升超 50%,知名半导体分析机构 Kurnal Insights 近日发布了华为麒麟 9050 Pro 芯片的裸片（Die Shot）显微照片，首次清晰展示了这款芯片的内部物理结构。估算显示，麒麟 9050 Pro 的等效晶体管密度达到每平方毫米 2.38 亿个，较上一代麒麟 9030 Pro 的约 1.55 亿个提升超过 50%。尽管制造工艺仍有优化空间，但裸片显微照的曝光，首次从物理层面证实了华为通过架构创新而非制程微缩来提升芯片性能的路线是可行的。 快科技 2 小时前,,https://news.mydrivers.com/1/1155/1155213.htm,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+6,"Open-sourcing AstaBrief, the fast report-generation model in Asta","The result is nearly an order-of-magnitude reduction in report generation time compared to the proprietary models we tracked—across the full Asta pipeline, Fast mode averages 51.1 seconds per report compared with 178.5 seconds for Thinking",,https://huggingface.co/blog/allenai/astabrief,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+7,阿里 CEO 吴泳铭：当「顶级思考」可以规模化供给，罕见病研发将被重新定义,吴泳铭认为，随着 AI 在长程任务、自主行动等方面持续突破，人类正在进入新的「机器智能时代」：机器不再只是辅助人类完成部分脑力劳动，而将逐渐成为思考的主力，智能本身也将像工业时代的动力一样，成为一种可以大规模生产和供给的商品。他表示，AI 模型、AI 芯片和 AI 云将成为机器智能时代的三大基础设施，阿里将长期投入这三个方向，这也是机器智能实现规模化供给的前提。 麻省理工科技评论 15 小时前,,https://www.mittrchina.com/news/detail/17042,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+8,OpenAI 失控智能体侵入澳大利亚新南威尔士州政府网站,新南威尔士州州长和内阁部证实，该模型侵入的是国家公园和野生动物服务局的一个网页端应用程序，其中包含历史档案及火情监测数据。OpenAI 发言人表示，在察觉异常活动后已开展内部技术与法律审查，并在审查结束后向新南威尔士州州长办公室及澳大利亚信号局进行了汇报。此前，OpenAI 曾因非法渗入澳大利亚国民医疗保险门户网站一事公开致歉。 techflowpost.com 1 小时前,,https://www.techflowpost.com/zh-CN/newsletter/138706,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+9,机器人「价格战」，快要打不动了,宇树双足人形机器人 R1 在 2026 年将售价从 3.99 万元下调至 2.99 万元，并在一周后登顶京东平台人形机器人销量榜。据中国信通院《人形机器人产业发展白皮书（2025）》，截至 2025 年底，国内人形机器人核心零部件整体国产化率已提升至 75%。在他看来，人形机器人厂商还在跑马圈地，价格是打开市场的核心武器，但工业机器人面向具体生产场景，对精度、稳定性要求极高，客户更看重可靠性，而非价格，涨价带来的客户流失风险可控。 虎嗅网 43 分钟前,,https://www.huxiu.com/article/4895228.html?f=rss,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25
+10,NVIDIA DGX Spark 64GB 为开发者提供更多本地 AI 构建与扩展方式,DGX Spark 将 NVIDIA Grace Blackwell 计算、统一内存、NVIDIA ConnectX-7 网络和 NVIDIA CUDA 加速的 AI 软件栈集成于一个系统中。新的 64GB 配置仅通过制造商合作伙伴提供，在保持平台价格亲民的同时，保留了 GB10 Grace Blackwell 超级芯片、DGX OS 和完整的 NVIDIA AI 软件栈 —— 与 128GB 型号相同。 NVIDIA Blog 13 小时前,,https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/,,Readhub,AI 资讯,ai,digest,,2026-10-03 10:53:25

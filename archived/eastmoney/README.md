@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-03 10:19:25
+> 更新时间：2026-10-03 10:53:46
 
 ## 股票人气榜
 
@@ -16,11 +16,11 @@
 10. [片仔癀 (600436)](https://quote.eastmoney.com/sh600436.html)
 11. [宇通客车 (600066)](https://quote.eastmoney.com/sh600066.html)
 12. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-13. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
-14. [昭衍新药 (603127)](https://quote.eastmoney.com/sh603127.html)
-15. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
-16. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
-17. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
-18. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-19. [正丹股份 (300641)](https://quote.eastmoney.com/sz300641.html)
-20. [苏 泊 尔 (002032)](https://quote.eastmoney.com/sz002032.html)
+13. [昭衍新药 (603127)](https://quote.eastmoney.com/sh603127.html)
+14. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
+15. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+16. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+17. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
+18. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
+19. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
+20. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
