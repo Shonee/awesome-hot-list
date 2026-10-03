@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-03 18:46:28
+> 更新时间：2026-10-03 19:25:49
 
 ## 热门问题
 
@@ -25,8 +25,8 @@
 19. [VSCode, CMake, MinGW, gcov: no coverage](https://stackoverflow.com/questions/80007584/vscode-cmake-mingw-gcov-no-coverage)
 20. [Does emeditor support dual-column layout?](https://stackoverflow.com/questions/80007594/does-emeditor-support-dual-column-layout)
 21. [Play two songs back to back in autoplay](https://stackoverflow.com/questions/80007590/play-two-songs-back-to-back-in-autoplay)
-22. [How to get plural string resource outside of Composable?](https://stackoverflow.com/questions/80007554/how-to-get-plural-string-resource-outside-of-composable)
-23. [Does an item expired in a MemoryCache become available for garbage collection?](https://stackoverflow.com/questions/80007502/does-an-item-expired-in-a-memorycache-become-available-for-garbage-collection)
+22. [Does an item expired in a MemoryCache become available for garbage collection?](https://stackoverflow.com/questions/80007502/does-an-item-expired-in-a-memorycache-become-available-for-garbage-collection)
+23. [How to get plural string resource outside of Composable?](https://stackoverflow.com/questions/80007554/how-to-get-plural-string-resource-outside-of-composable)
 24. [VSCode Retain a multi-agent setup with both .claude and .github folders now that setting for chat.instructionsFilesLocations is deprecated](https://stackoverflow.com/questions/80007564/vscode-retain-a-multi-agent-setup-with-both-claude-and-github-folders-now-that)
 25. [Finding value within nested dictionary with arrays](https://stackoverflow.com/questions/80007452/finding-value-within-nested-dictionary-with-arrays)
 26. [How to make two attr.s instances equal each other in this code](https://stackoverflow.com/questions/80007474/how-to-make-two-attr-s-instances-equal-each-other-in-this-code)
@@ -41,15 +41,15 @@
 35. [Hibernate 7 join ManyToOne including null values and multiple keys](https://stackoverflow.com/questions/80007550/hibernate-7-join-manytoone-including-null-values-and-multiple-keys)
 36. [Blazor not reading connection strings from appsettings.json but reads from app.config](https://stackoverflow.com/questions/80007475/blazor-not-reading-connection-strings-from-appsettings-json-but-reads-from-app-c)
 37. [Why do characters repeat in the terminal when drawing a matrix of cells in C?](https://stackoverflow.com/questions/80007468/why-do-characters-repeat-in-the-terminal-when-drawing-a-matrix-of-cells-in-c)
-38. [Manage searches on two or more words separately](https://stackoverflow.com/questions/80007266/manage-searches-on-two-or-more-words-separately)
-39. [Why is my AAB file 85 MB while my APK is only 25 MB in React Native?](https://stackoverflow.com/questions/80007455/why-is-my-aab-file-85-mb-while-my-apk-is-only-25-mb-in-react-native)
+38. [Why is my AAB file 85 MB while my APK is only 25 MB in React Native?](https://stackoverflow.com/questions/80007455/why-is-my-aab-file-85-mb-while-my-apk-is-only-25-mb-in-react-native)
+39. [Manage searches on two or more words separately](https://stackoverflow.com/questions/80007266/manage-searches-on-two-or-more-words-separately)
 40. [PowerShell version 7.6.3 (on Windows 11 Pro) Error 'Argument types do not match'](https://stackoverflow.com/questions/80007357/powershell-version-7-6-3-on-windows-11-pro-error-argument-types-do-not-match)
-41. [All of the extension's IndexedDB data has been lost](https://stackoverflow.com/questions/80007513/all-of-the-extensions-indexeddb-data-has-been-lost)
-42. [Why and how does Python treat __new__ differently when called from an instance?](https://stackoverflow.com/questions/80007399/why-and-how-does-python-treat-new-differently-when-called-from-an-instance)
-43. [Pod OOMKilled at 2Gi limit when loading ~1GB sentence-transformers ONNX model (Python 3.11)](https://stackoverflow.com/questions/80007506/pod-oomkilled-at-2gi-limit-when-loading-1gb-sentence-transformers-onnx-model-p)
-44. [How can I make chrono::year work with simdjson deserialization?](https://stackoverflow.com/questions/80007453/how-can-i-make-chronoyear-work-with-simdjson-deserialization)
-45. [Inline Script-In-Head With notFound Explicit Calling Issue At NextJS](https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs)
-46. [How can I reproduce C# MultipartFormDataContent with Java BodyPublishers?](https://stackoverflow.com/questions/80007315/how-can-i-reproduce-c-multipartformdatacontent-with-java-bodypublishers)
+41. [Why and how does Python treat __new__ differently when called from an instance?](https://stackoverflow.com/questions/80007399/why-and-how-does-python-treat-new-differently-when-called-from-an-instance)
+42. [All of the extension's IndexedDB data has been lost](https://stackoverflow.com/questions/80007513/all-of-the-extensions-indexeddb-data-has-been-lost)
+43. [How can I make chrono::year work with simdjson deserialization?](https://stackoverflow.com/questions/80007453/how-can-i-make-chronoyear-work-with-simdjson-deserialization)
+44. [How can I reproduce C# MultipartFormDataContent with Java BodyPublishers?](https://stackoverflow.com/questions/80007315/how-can-i-reproduce-c-multipartformdatacontent-with-java-bodypublishers)
+45. [Pod OOMKilled at 2Gi limit when loading ~1GB sentence-transformers ONNX model (Python 3.11)](https://stackoverflow.com/questions/80007506/pod-oomkilled-at-2gi-limit-when-loading-1gb-sentence-transformers-onnx-model-p)
+46. [Inline Script-In-Head With notFound Explicit Calling Issue At NextJS](https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs)
 47. [Why does Oracle return rows with EXISTS AND NOT EXISTS contradiction](https://stackoverflow.com/questions/80007355/why-does-oracle-return-rows-with-exists-and-not-exists-contradiction)
 48. [How can I extract the track ID from a Spotify URL using JavaScript?](https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript)
 49. [How to get proper syntax highlighting for common lisp files in Emacs/SLIME](https://stackoverflow.com/questions/80007295/how-to-get-proper-syntax-highlighting-for-common-lisp-files-in-emacs-slime)
