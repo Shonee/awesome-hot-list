@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-03 13:46:18
+> 更新时间：2026-10-03 14:23:56
 
 ## Hottest
 
@@ -21,9 +21,9 @@
 15. [Driving the GDEH0154D67 e-paper display with Rust](https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/)
 16. [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/)
 17. [IANA's email about why example.com changed](https://www.oliverdunk.com/2026/09/30/iana-reply)
-18. [Reducing the cognitive load of AI changes](https://amoffat.github.io/blog/cognitive-load.html)
-19. [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/)
-20. [Klassik Revives the KDE 3 Desktop on Modern Plasma 6](https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/)
+18. [Klassik Revives the KDE 3 Desktop on Modern Plasma 6](https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/)
+19. [Reducing the cognitive load of AI changes](https://amoffat.github.io/blog/cognitive-load.html)
+20. [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/)
 21. [Upstream Rust maintenance report](https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html)
 22. [Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)](https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect)
 23. [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html)
