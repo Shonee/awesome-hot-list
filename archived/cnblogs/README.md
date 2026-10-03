@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-03 07:10:53
+> 更新时间：2026-10-03 08:32:41
 
 ## 最新帖子
 
-1. [电机家族：有的电机听“目标”，有的电机听“力气”](https://www.cnblogs.com/zw-awa/p/23187442)
-2. [使用 SciPy 库进行时间序列分析](https://www.cnblogs.com/wang_yb/p/23187441)
-3. [AG-UI 有了官方 .NET SDK，Blazor AI 组件同步登场：.NET 的 Agent 应用栈补齐了](https://www.cnblogs.com/shanyou/p/23187356)
-4. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
-5. [【FHE 同态加密】我们如何实现同态加密推理（十六）：未完成清单与已知边界（同态加密推理的精度、性能与安全）](https://www.cnblogs.com/haliuhome/p/23184101)
-6. [Oracle 数据库启停脚本：适用于开发测试环境](https://www.cnblogs.com/jyzhao/p/23183893)
-7. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
-8. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
-9. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
-10. [第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23179607)
-11. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
-12. [【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析）](https://www.cnblogs.com/haliuhome/p/23178401)
-13. [volatile 与寄存器：SysTick->VAL 到底在读什么](https://www.cnblogs.com/zw-awa/p/23178327)
-14. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
-15. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
-16. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
-17. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
-18. [Go语言中结构体与JSON之间互相转换](https://www.cnblogs.com/ishoulgodo/p/23174494)
-19. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
-20. [Skill和MCP推荐清单大全](https://www.cnblogs.com/ywbmaster/p/23172720)
+1. [客户总改测试数据？用脚本一键重生成 SQL](https://www.cnblogs.com/jyzhao/p/23189291)
+2. [电机家族：有的电机听“目标”，有的电机听“力气”](https://www.cnblogs.com/zw-awa/p/23187442)
+3. [使用 SciPy 库进行时间序列分析](https://www.cnblogs.com/wang_yb/p/23187441)
+4. [AG-UI 有了官方 .NET SDK，Blazor AI 组件同步登场：.NET 的 Agent 应用栈补齐了](https://www.cnblogs.com/shanyou/p/23187356)
+5. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
+6. [【FHE 同态加密】我们如何实现同态加密推理（十六）：未完成清单与已知边界（同态加密推理的精度、性能与安全）](https://www.cnblogs.com/haliuhome/p/23184101)
+7. [Oracle 数据库启停脚本：适用于开发测试环境](https://www.cnblogs.com/jyzhao/p/23183893)
+8. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
+9. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
+10. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
+11. [第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23179607)
+12. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
+13. [【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析）](https://www.cnblogs.com/haliuhome/p/23178401)
+14. [volatile 与寄存器：SysTick->VAL 到底在读什么](https://www.cnblogs.com/zw-awa/p/23178327)
+15. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
+16. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
+17. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
+18. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
+19. [Go语言中结构体与JSON之间互相转换](https://www.cnblogs.com/ishoulgodo/p/23174494)
+20. [如何比较你不同学科成绩的好坏？](https://www.cnblogs.com/wang_yb/p/23173873)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
 2. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
 3. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
-4. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
+4. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
 5. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
-6. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
+6. [Oracle 数据库启停脚本：适用于开发测试环境](https://www.cnblogs.com/jyzhao/p/23183893)
