@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-03 10:53:34
+> 更新时间：2026-10-03 11:56:58
 
 ## 新闻热榜
 
@@ -33,16 +33,16 @@
 4. [恒指期货夜盘收跌0.14%，报23846.28点，低水126.01点。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4355293.shtml)
 5. [据消息人士透露，意大利将2028年债务与国内生产总值之比目标设定为137.9%。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4316363.shtml)
 6. [美国社区银行机构起诉货币监理署，抗议其向加密货币企业发放信托牌照。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrar1002803.shtml)
-7. [尼日利亚东北遇袭15人死亡 袭击疑为极端组织发动](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4348187.shtml)
-8. [国际货币基金组织称，墨西哥需加大努力将债务推向下降轨道。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1109205.shtml)
-9. [美国联邦航空管理局一名官员表示：该局将向航空公司发布特别适航公告，确保各家航空公司知晓波音针对737 MAX软件问题发布的公告。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1122272.shtml)
-10. [美国司法部长称不会重启对前美联储主席鲍威尔的刑事调查](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrap4230506.shtml)
-11. [巴西石油公司首席执行官：将于10月底完成亚马逊河口区块第一口井的钻探作业。巴西国家石油公司将部署钻井船，于2027年第一季度启动额外三](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1118977.shtml)
-12. [法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430453.shtml)
-13. [阿根廷国家风险利差升至650基点，创10个月新高。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1200052.shtml)
-14. [野村证券因对AI云业务充满信心，上调阿里巴巴盈利预期。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4327997.shtml)
-15. [市场消息：沙特阿拉伯外交大臣与伊朗外交部长通电话。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1091780.shtml)
-16. [布伦特原油抹去跌幅，交易价格突破每桶102美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430922.shtml)
-17. [意大利经济财政部长：意大利2026年的财政赤字将控制在3%以下](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1076512.shtml)
-18. [10月3日收盘：美股周五收涨 就业数据走弱提振市场](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml)
-19. [美股本轮牛市迎来四周年](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml)
+7. [10月3日收盘：美股周五收涨 就业数据走弱提振市场](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml)
+8. [尼日利亚东北遇袭15人死亡 袭击疑为极端组织发动](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4348187.shtml)
+9. [国际货币基金组织称，墨西哥需加大努力将债务推向下降轨道。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1109205.shtml)
+10. [美国联邦航空管理局一名官员表示：该局将向航空公司发布特别适航公告，确保各家航空公司知晓波音针对737 MAX软件问题发布的公告。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1122272.shtml)
+11. [美国司法部长称不会重启对前美联储主席鲍威尔的刑事调查](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrap4230506.shtml)
+12. [美股本轮牛市迎来四周年](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml)
+13. [巴西石油公司首席执行官：将于10月底完成亚马逊河口区块第一口井的钻探作业。巴西国家石油公司将部署钻井船，于2027年第一季度启动额外三](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1118977.shtml)
+14. [法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430453.shtml)
+15. [阿根廷国家风险利差升至650基点，创10个月新高。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1200052.shtml)
+16. [澳大利亚汽车冲撞人群事件已致9人受伤 肇事司机被捕](https://finance.sina.com.cn/7x24/2026-10-03/doc-initxfyf4010039.shtml)
+17. [10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6749330.shtml)
+18. [野村证券因对AI云业务充满信心，上调阿里巴巴盈利预期。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4327997.shtml)
+19. [报道：沙特计划对也门胡塞武装发动攻势](https://finance.sina.com.cn/world/2026-10-03/doc-initwkux6941476.shtml)

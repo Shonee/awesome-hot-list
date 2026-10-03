@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-03 10:53:27
+> 更新时间：2026-10-03 11:56:52
 
 ## 热新闻
 
@@ -22,5 +22,5 @@
 16. [回望《伟大的长征》创作历程，总编剧陈晋称是两次学习](https://www.thepaper.cn/newsDetail_forward_34191965)
 17. [加拿大计划采购瑞典预警机，为何没看上美国的竞标方案？](https://www.thepaper.cn/newsDetail_forward_34180094)
 18. [美国暂停驻巴西大使馆和领事馆服务](https://www.thepaper.cn/newsDetail_forward_34192666)
-19. [上海修订征地房屋补偿规定：补偿标准应至少每三年调整或者重新公布一次](https://www.thepaper.cn/newsDetail_forward_34187235)
-20. [魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元](https://www.thepaper.cn/newsDetail_forward_34186242)
+19. [魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元](https://www.thepaper.cn/newsDetail_forward_34186242)
+20. [国庆假期第二天多地景区再发限流公告，节中机票“真香价”催生“说走就走”的旅行](https://www.thepaper.cn/newsDetail_forward_34191622)

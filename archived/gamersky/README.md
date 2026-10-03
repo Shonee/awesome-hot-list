@@ -1,12 +1,12 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-03 10:53:38
+> 更新时间：2026-10-03 11:57:01
 
 ## 热点资讯排行
 
 1. [曝电子竞技项目宣布将退出亚运会！官方辟谣](https://www.gamersky.com/news/202609/2217860.shtml)
-2. [DLSS5玩《如龙8》：画质直逼现实 像换了个游戏](https://www.gamersky.com/news/202609/2217910.shtml)
-3. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+2. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+3. [DLSS5玩《如龙8》：画质直逼现实 像换了个游戏](https://www.gamersky.com/news/202609/2217910.shtml)
 4. [何润东成全场唯一手柄玩家：陈赫等众多明星看傻了](https://www.gamersky.com/news/202609/2217522.shtml)
 5. [大的来了？多位UP齐暗示港服要变低价区:今晚见分晓](https://www.gamersky.com/news/202609/2218399.shtml)
 6. [《战神：劳菲》预购信息公开！超帅新图来了](https://www.gamersky.com/news/202609/2218806.shtml)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-03 11:24:32
+> 更新时间：2026-10-03 11:56:39
 
 ## 最新帖子
 
-1. [世界历史时间线(可在线动态体验)](https://www.cnblogs.com/LeoLeeTech/p/23190372)
-2. [费马小定理](https://www.cnblogs.com/yhy2013/p/23190131)
-3. [客户总改测试数据？用脚本一键重生成 SQL](https://www.cnblogs.com/jyzhao/p/23189291)
-4. [电机家族：有的电机听“目标”，有的电机听“力气”](https://www.cnblogs.com/zw-awa/p/23187442)
-5. [使用 SciPy 库进行时间序列分析](https://www.cnblogs.com/wang_yb/p/23187441)
-6. [AG-UI 有了官方 .NET SDK，Blazor AI 组件同步登场：.NET 的 Agent 应用栈补齐了](https://www.cnblogs.com/shanyou/p/23187356)
-7. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
-8. [【FHE 同态加密】我们如何实现同态加密推理（十六）：未完成清单与已知边界（同态加密推理的精度、性能与安全）](https://www.cnblogs.com/haliuhome/p/23184101)
-9. [Oracle 数据库启停脚本：适用于开发测试环境](https://www.cnblogs.com/jyzhao/p/23183893)
-10. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
-11. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
-12. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
-13. [第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23179607)
-14. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
-15. [【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析）](https://www.cnblogs.com/haliuhome/p/23178401)
-16. [volatile 与寄存器：SysTick->VAL 到底在读什么](https://www.cnblogs.com/zw-awa/p/23178327)
-17. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
-18. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
-19. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
-20. [.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘](https://www.cnblogs.com/axing/p/23174723)
+1. [nav2官方的bringup文件阅读笔记-命名空间，composition](https://www.cnblogs.com/CrescentWind/p/23190474)
+2. [世界历史时间线(可在线动态体验)](https://www.cnblogs.com/LeoLeeTech/p/23190372)
+3. [费马小定理](https://www.cnblogs.com/yhy2013/p/23190131)
+4. [客户总改测试数据？用脚本一键重生成 SQL](https://www.cnblogs.com/jyzhao/p/23189291)
+5. [电机家族：有的电机听“目标”，有的电机听“力气”](https://www.cnblogs.com/zw-awa/p/23187442)
+6. [使用 SciPy 库进行时间序列分析](https://www.cnblogs.com/wang_yb/p/23187441)
+7. [AG-UI 有了官方 .NET SDK，Blazor AI 组件同步登场：.NET 的 Agent 应用栈补齐了](https://www.cnblogs.com/shanyou/p/23187356)
+8. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
+9. [【FHE 同态加密】我们如何实现同态加密推理（十六）：未完成清单与已知边界（同态加密推理的精度、性能与安全）](https://www.cnblogs.com/haliuhome/p/23184101)
+10. [Oracle 数据库启停脚本：适用于开发测试环境](https://www.cnblogs.com/jyzhao/p/23183893)
+11. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
+12. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
+13. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
+14. [第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23179607)
+15. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
+16. [【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析）](https://www.cnblogs.com/haliuhome/p/23178401)
+17. [volatile 与寄存器：SysTick->VAL 到底在读什么](https://www.cnblogs.com/zw-awa/p/23178327)
+18. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
+19. [百万订单踩坑记-迷信框架](https://www.cnblogs.com/liuzhang/p/23175661)
+20. [PWM 为什么能调速：从 LED 亮度变化到直流电机转起来](https://www.cnblogs.com/zw-awa/p/23174811)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
 2. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
-3. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
-4. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
-5. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
+3. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
+4. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
+5. [AG-UI 有了官方 .NET SDK，Blazor AI 组件同步登场：.NET 的 Agent 应用栈补齐了](https://www.cnblogs.com/shanyou/p/23187356)
 6. [Oracle 数据库启停脚本：适用于开发测试环境](https://www.cnblogs.com/jyzhao/p/23183893)
