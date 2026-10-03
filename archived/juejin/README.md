@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-04 03:53:52
+> 更新时间：2026-10-04 05:02:22
 
 ## 热门文章
 
@@ -21,13 +21,13 @@
 15. [GitHub 日榜趋势速报 | 2026-10-01](https://juejin.cn/post/7691156905345679398)
 16. [Go 写业务，Rust 扛底盘：一套可落地的混合架构](https://juejin.cn/post/7691152001448820746)
 17. [从乱码到高精度检索：探矿业务中 TXT、Word、PDF 与网页的 RAG 清洗之道](https://juejin.cn/post/7691512357834768430)
-18. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
-19. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
-20. [Gemini 4 Argon 对比 GPT-6 Astra：百万 Token 输出很诱人，但我劝你先别迁编程工作流](https://juejin.cn/post/7691219326316380175)
-21. [仓颉版 Tauri：基于轻量化线程与纯血鸿蒙架构的下一代 Web 混合开发利器](https://juejin.cn/post/7691155417935855642)
-22. [前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了](https://juejin.cn/post/7691835382221389824)
-23. [对于LangGraph的时间旅行底层机制的理解](https://juejin.cn/post/7691533849411829779)
-24. [pnpm 12 升级实测](https://juejin.cn/post/7691498553261342760)
+18. [pnpm 12 升级实测](https://juejin.cn/post/7691498553261342760)
+19. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
+20. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
+21. [Gemini 4 Argon 对比 GPT-6 Astra：百万 Token 输出很诱人，但我劝你先别迁编程工作流](https://juejin.cn/post/7691219326316380175)
+22. [仓颉版 Tauri：基于轻量化线程与纯血鸿蒙架构的下一代 Web 混合开发利器](https://juejin.cn/post/7691155417935855642)
+23. [前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了](https://juejin.cn/post/7691835382221389824)
+24. [对于LangGraph的时间旅行底层机制的理解](https://juejin.cn/post/7691533849411829779)
 25. [微信上线AI帮写，朋友圈文案不用自己憋了](https://juejin.cn/post/7691450666418421823)
 26. [GitHub 日榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691231869480288302)
 27. [OmniGame 技术白皮书：从零依赖到 WebRTC P2P，重新定义网页小游戏的工程上限](https://juejin.cn/post/7691229375665143846)

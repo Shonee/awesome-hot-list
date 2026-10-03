@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-04 03:54:25
+> 更新时间：2026-10-04 05:03:15
 
 ## 股票人气榜
 
@@ -11,8 +11,8 @@
 5. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 6. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
 7. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
-8. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
-9. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
+8. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
+9. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
 10. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
 11. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
 12. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
