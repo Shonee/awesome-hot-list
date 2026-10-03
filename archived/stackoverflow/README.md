@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-03 13:11:55
+> 更新时间：2026-10-03 13:46:18
 
 ## 热门问题
 
@@ -8,9 +8,9 @@
 2. [How to disable Y-axis panning and make Y-axis use calculated min and max value from highest and lowest price of the current candles on chart](https://stackoverflow.com/questions/80007600/how-to-disable-y-axis-panning-and-make-y-axis-use-calculated-min-and-max-value-f)
 3. [Use JavascriptMessageListener with remote container](https://stackoverflow.com/questions/80007608/use-javascriptmessagelistener-with-remote-container)
 4. [С++ operator class](https://stackoverflow.com/questions/80007542/%d0%a1-operator-class)
-5. [Does emeditor support dual-column layout?](https://stackoverflow.com/questions/80007594/does-emeditor-support-dual-column-layout)
-6. [Calculate Pi in hadoop](https://stackoverflow.com/questions/80007602/calculate-pi-in-hadoop)
-7. [ASAN error on std::tuple pointer element assignment](https://stackoverflow.com/questions/80007599/asan-error-on-stdtuple-pointer-element-assignment)
+5. [ASAN error on std::tuple pointer element assignment](https://stackoverflow.com/questions/80007599/asan-error-on-stdtuple-pointer-element-assignment)
+6. [Does emeditor support dual-column layout?](https://stackoverflow.com/questions/80007594/does-emeditor-support-dual-column-layout)
+7. [Calculate Pi in hadoop](https://stackoverflow.com/questions/80007602/calculate-pi-in-hadoop)
 8. [Input validation by data type best practices in C](https://stackoverflow.com/questions/80007403/input-validation-by-data-type-best-practices-in-c)
 9. [VSCode, CMake, MinGW, gcov: no coverage](https://stackoverflow.com/questions/80007584/vscode-cmake-mingw-gcov-no-coverage)
 10. [Play two songs back to back in autoplay](https://stackoverflow.com/questions/80007590/play-two-songs-back-to-back-in-autoplay)
@@ -39,10 +39,10 @@
 33. [Pod OOMKilled at 2Gi limit when loading ~1GB sentence-transformers ONNX model (Python 3.11)](https://stackoverflow.com/questions/80007506/pod-oomkilled-at-2gi-limit-when-loading-1gb-sentence-transformers-onnx-model-p)
 34. [How can I make chrono::year work with simdjson deserialization?](https://stackoverflow.com/questions/80007453/how-can-i-make-chronoyear-work-with-simdjson-deserialization)
 35. [Why and how does Python treat __new__ differently when called from an instance?](https://stackoverflow.com/questions/80007399/why-and-how-does-python-treat-new-differently-when-called-from-an-instance)
-36. [How can I extract the track ID from a Spotify URL using JavaScript?](https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript)
-37. [How to delete specific string from bash history and make it permanent on logout](https://stackoverflow.com/questions/80007487/how-to-delete-specific-string-from-bash-history-and-make-it-permanent-on-logout)
-38. [Inline Script-In-Head With notFound Explicit Calling Issue At NextJS](https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs)
-39. [AI_CLASSIFY leveraging system-one backend like jev](https://stackoverflow.com/questions/80007509/ai-classify-leveraging-system-one-backend-like-jev)
+36. [How to delete specific string from bash history and make it permanent on logout](https://stackoverflow.com/questions/80007487/how-to-delete-specific-string-from-bash-history-and-make-it-permanent-on-logout)
+37. [Inline Script-In-Head With notFound Explicit Calling Issue At NextJS](https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs)
+38. [AI_CLASSIFY leveraging system-one backend like jev](https://stackoverflow.com/questions/80007509/ai-classify-leveraging-system-one-backend-like-jev)
+39. [How can I extract the track ID from a Spotify URL using JavaScript?](https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript)
 40. [How can I reproduce C# MultipartFormDataContent with Java BodyPublishers?](https://stackoverflow.com/questions/80007315/how-can-i-reproduce-c-multipartformdatacontent-with-java-bodypublishers)
 41. [PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing](https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n)
 42. [How to get proper syntax highlighting for common lisp files in Emacs/SLIME](https://stackoverflow.com/questions/80007295/how-to-get-proper-syntax-highlighting-for-common-lisp-files-in-emacs-slime)

@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-03 12:44:03
+> 更新时间：2026-10-03 13:45:37
 
 ## 日榜
 
@@ -11,8 +11,8 @@
 5. [中国电信 App 上线 eSIM 手机绑定号码数量查询功能](https://www.ithome.com/1/009/323.htm)
 6. [小米米家体脂秤 4 Pro 开启预售：采用 USB-C 充电、支持身体数据趋势显示，149 元](https://www.ithome.com/1/009/345.htm)
 7. [荣耀林林：Magic9 系列不会推出 RSR 保时捷设计版本](https://www.ithome.com/1/009/329.htm)
-8. [荣耀 WIN 小平板正面照疑曝光，有望支持 240Hz 刷新率](https://www.ithome.com/1/009/296.htm)
-9. [韩国全胜卫冕亚运会《英雄联盟》项目冠军，中国台北收获第二](https://www.ithome.com/1/009/370.htm)
+8. [韩国全胜卫冕亚运会《英雄联盟》项目冠军，中国台北收获第二](https://www.ithome.com/1/009/370.htm)
+9. [荣耀 WIN 小平板正面照疑曝光，有望支持 240Hz 刷新率](https://www.ithome.com/1/009/296.htm)
 10. [继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付](https://www.ithome.com/1/009/373.htm)
-11. [焕新极氪 001 配色上新：推出哑光岩灰车色、冰川灰内饰](https://www.ithome.com/1/009/371.htm)
-12. [桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元](https://www.ithome.com/1/009/359.htm)
+11. [烤串店未开业就被差评，车评人韩路质疑点评平台可随意造假评论](https://www.ithome.com/1/009/399.htm)
+12. [焕新极氪 001 配色上新：推出哑光岩灰车色、冰川灰内饰](https://www.ithome.com/1/009/371.htm)
