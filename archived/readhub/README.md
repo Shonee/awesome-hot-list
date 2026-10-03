@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-03 21:08:30
+> 更新时间：2026-10-03 22:44:32
 
 ## 24 小时热榜
 
@@ -9,31 +9,31 @@
 3. [Anthropic IPO 前夕 被称「第一夫人」的 Cami Clark 退出](https://readhub.cn/topic/8wtyfLkUVJj?tab=daily)
 4. [Anthropic 据悉计划到 2027 年将前沿工程师团队扩至 1 万人](https://readhub.cn/topic/8wuHxx8lXOY?tab=daily)
 5. [消息称苹果相关物料送 Apple Store，或为智能家居产品 10 月 8 日解禁](https://readhub.cn/topic/8wsLYVtnfKz?tab=daily)
-6. [MiniMax 上线 M3.1 Flash 可复现 Claude Opus 5.5 前端生成能力](https://readhub.cn/topic/8wu2xNCJLGL?tab=daily)
-7. [古尔曼：苹果首款智能家居中枢支持 AI 面部识别 为家人切换专属内容](https://readhub.cn/topic/8wt8V1aH2ES?tab=daily)
-8. [美联储加息预期生变，美股期指短线拉升](https://readhub.cn/topic/8wu077mVJNo?tab=daily)
-9. [哈佛教授用 Claude 三月完成 18 领域 36 项研究 开源 AI 科研框架](https://readhub.cn/topic/8wtrtBMm194?tab=daily)
-10. [英伟达推出 64GB 版 DGX Spark 128GB 版本涨价至 6950 美元](https://readhub.cn/topic/8wu0pl9ry5d?tab=daily)
-11. [OpenAI 披露澳大利亚又一政府机构遭入侵](https://readhub.cn/topic/8wujUqGfoc9?tab=daily)
+6. [古尔曼：苹果首款智能家居中枢支持 AI 面部识别 为家人切换专属内容](https://readhub.cn/topic/8wt8V1aH2ES?tab=daily)
+7. [美联储加息预期生变，美股期指短线拉升](https://readhub.cn/topic/8wu077mVJNo?tab=daily)
+8. [OpenAI 披露澳大利亚又一政府机构遭入侵](https://readhub.cn/topic/8wujUqGfoc9?tab=daily)
+9. [英伟达推出 64GB 版 DGX Spark 128GB 版本涨价至 6950 美元](https://readhub.cn/topic/8wu0pl9ry5d?tab=daily)
+10. [小米 Vision GT 10 月即将正式入驻 Gran Turismo 7](https://readhub.cn/topic/8wvQi1j8KkM?tab=daily)
+11. [特斯拉在美上线充电紧急驶离功能 启用或致充电桩最高 2.5 万美元损失](https://readhub.cn/topic/8wuzYcAXTla?tab=daily)
 12. [微软官方 X 账号被劫持约 30 分钟，攻击者借相关炒作加密代币](https://readhub.cn/topic/8wunmL0572w?tab=daily)
-13. [淘宝 TaoMate-H3 开源：三步生成「分钟级」音视频连续创作](https://readhub.cn/topic/8wu2xFtHXfL?tab=daily)
-14. [特斯拉在美上线充电紧急驶离功能 启用或致充电桩最高 2.5 万美元损失](https://readhub.cn/topic/8wuzYcAXTla?tab=daily)
-15. [AI 灌水稿激增：预印本平台 arXiv 出台新规 每人每月限投 2 篇](https://readhub.cn/topic/8wtPJ7FLdmG?tab=daily)
-16. [英伟达推出 DGX SPARK 64GB 可本地运行千亿参数 AI 模型](https://readhub.cn/topic/8wu0oapqaKL?tab=daily)
-17. [OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧](https://readhub.cn/topic/8wuiOqzjRr2?tab=daily)
-18. [AT & T 称 iOS 26.0.1 可修复 iPhone 18 Pro Max 蜂窝问题 用户不认可](https://readhub.cn/topic/8wtyKqh0pRz?tab=daily)
-19. [蔚来充电服务突破 1 亿次 超八成电量服务非蔚来品牌用户](https://readhub.cn/topic/8wv5zVAiC8N?tab=daily)
-20. [LegoFlow：让智能体自主跑完代码数据构建 + 训练测评全流程](https://readhub.cn/topic/8wtW5C6SHvq?tab=daily)
-21. [三星 HBM4 报价为 HBM3E 三倍，押注 AI 算力竞争重塑定价权](https://readhub.cn/topic/8wtyKslb7NE?tab=daily)
-22. [Blast 因运营成本过高宣布关停](https://readhub.cn/topic/8wu8g8ZvB7A?tab=daily)
-23. [小米 Vision GT 10 月即将正式入驻 Gran Turismo 7](https://readhub.cn/topic/8wvQi1j8KkM?tab=daily)
-24. [arXiv 实施限流新规：每人每月限发 2 篇论文](https://readhub.cn/topic/8wv5GnJjqDg?tab=daily)
-25. [华为李小龙回应睿影 Z10 不支持 62mm 滤镜：为避免遮挡红枫摄像头偏色](https://readhub.cn/topic/8wvFeCMkHJk?tab=daily)
-26. [NEAR Intents：被盗资金已全额归还，团队将停止相关调查](https://readhub.cn/topic/8wtH4dOvNk3?tab=daily)
-27. [韩国五大商业银行遭黑客攻击 三家出现客户信息泄露](https://readhub.cn/topic/8wv0zJiRSum?tab=daily)
-28. [美乌重建投资基金敲定首个关键矿产项目](https://readhub.cn/topic/8wuMxgz7T8C?tab=daily)
-29. [6M 参数 DepthART 轻量深度估计模型可部署至 Jetson 等端侧设备](https://readhub.cn/topic/8wvDqKI4a5B?tab=daily)
-30. [Meta 开源 Muse Gadgets 支持开发者打造专属 AI 外设](https://readhub.cn/topic/8wurhvfOAaQ?tab=daily)
+13. [AI 灌水稿激增：预印本平台 arXiv 出台新规 每人每月限投 2 篇](https://readhub.cn/topic/8wtPJ7FLdmG?tab=daily)
+14. [OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧](https://readhub.cn/topic/8wuiOqzjRr2?tab=daily)
+15. [蔚来充电服务突破 1 亿次 超八成电量服务非蔚来品牌用户](https://readhub.cn/topic/8wv5zVAiC8N?tab=daily)
+16. [AT & T 称 iOS 26.0.1 可修复 iPhone 18 Pro Max 蜂窝问题 用户不认可](https://readhub.cn/topic/8wtyKqh0pRz?tab=daily)
+17. [Blast 因运营成本过高宣布关停](https://readhub.cn/topic/8wu8g8ZvB7A?tab=daily)
+18. [华为李小龙回应睿影 Z10 不支持 62mm 滤镜：为避免遮挡红枫摄像头偏色](https://readhub.cn/topic/8wvFeCMkHJk?tab=daily)
+19. [arXiv 实施限流新规：每人每月限发 2 篇论文](https://readhub.cn/topic/8wv5GnJjqDg?tab=daily)
+20. [NEAR Intents：被盗资金已全额归还，团队将停止相关调查](https://readhub.cn/topic/8wtH4dOvNk3?tab=daily)
+21. [韩国五大商业银行遭黑客攻击 三家出现客户信息泄露](https://readhub.cn/topic/8wv0zJiRSum?tab=daily)
+22. [美乌重建投资基金敲定首个关键矿产项目](https://readhub.cn/topic/8wuMxgz7T8C?tab=daily)
+23. [马斯克回应台积电或参与 Terafab 项目](https://readhub.cn/topic/8wuyU86YY9q?tab=daily)
+24. [消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片](https://readhub.cn/topic/8wuwh9SUOiM?tab=daily)
+25. [6M 参数 DepthART 轻量深度估计模型可部署至 Jetson 等端侧设备](https://readhub.cn/topic/8wvDqKI4a5B?tab=daily)
+26. [老年旅客淡季火车票将享「折上折」相关优惠车票明起陆续发售](https://readhub.cn/topic/8wuvGZJ0acV?tab=daily)
+27. [Meta 开源 Muse Gadgets 支持开发者打造专属 AI 外设](https://readhub.cn/topic/8wurhvfOAaQ?tab=daily)
+28. [StartLux 开源决策模型公开评测成绩超 Jev 登顶榜首](https://readhub.cn/topic/8wuvzpnKPXg?tab=daily)
+29. [研究发现大模型后训练极端稀疏监督可提升推理性能](https://readhub.cn/topic/8wuw0YYYaGo?tab=daily)
+30. [华为乾崑智驾累计辅助驾驶里程突破 160 亿公里](https://readhub.cn/topic/8wut7UGzdFh?tab=daily)
 
 ## 每日早报
 
@@ -47,3 +47,13 @@
 
 ## AI 资讯
 
+1. [普林团队实现毫秒级原子补充，同时保持量子比特相干性](https://www.mittrchina.com/news/detail/17046)
+2. [DeepSeek V4 适配昇腾：黄仁勋最担心的「去英伟达化」走到哪一步？](https://www.mittrchina.com/news/detail/17045)
+3. [对谈 OpenAI 首席研究官：不会因为黑客事件而自废武功](https://www.mittrchina.com/news/detail/17047)
+4. [别被表象骗了：大语言模型并不会推理](https://www.mittrchina.com/news/detail/17048)
+5. [2 万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停](https://www.huxiu.com/article/4895291.html?f=rss)
+6. [华为称昇腾 AI 芯片中国市场份额达 50%](https://www.gelonghui.com/live/2697612)
+7. [OpenAI 安全部门员工辞职，呼吁采取核电级别的防护措施](https://wallstreetcn.com/livenews/3173900)
+8. [中科曙光 8000 助力攻克火箭回收技术难题：国产异构计算平台再创纪录](https://news.mydrivers.com/1/1155/1155287.htm)
+9. [和宇树并列「六小龙」，云深处再度亏损：人形能否复制四足打法？](https://www.huxiu.com/article/4895296.html?f=rss)
+10. [Arbitrum 安全委员会因 AI 攻击风险暂停 Stylus 新合约激活](https://www.techflowpost.com/zh-CN/newsletter/138748)

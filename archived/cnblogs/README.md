@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-03 21:07:46
+> 更新时间：2026-10-03 22:44:17
 
 ## 最新帖子
 
-1. [把 OpenClaw.NET 的 83 篇 Markdown 变成一个网站：完整复盘](https://www.cnblogs.com/shanyou/p/23192862)
-2. [势能分析（摊还分析）](https://www.cnblogs.com/lvwangshuOI/p/23191542)
-3. [博客配置 - 新皮肤](https://www.cnblogs.com/Zhouyongh/p/23190905)
-4. [如何理解简单随机游走的事件域不能是样本空间的幂集](https://www.cnblogs.com/ChillmanLee/p/23190913)
-5. [nav2官方的bringup文件阅读笔记-命名空间，composition](https://www.cnblogs.com/CrescentWind/p/23190474)
-6. [客户总改测试数据？用脚本一键重生成 SQL](https://www.cnblogs.com/jyzhao/p/23189291)
-7. [电机家族：有的电机听“目标”，有的电机听“力气”](https://www.cnblogs.com/zw-awa/p/23187442)
-8. [使用 SciPy 库进行时间序列分析](https://www.cnblogs.com/wang_yb/p/23187441)
-9. [AG-UI 有了官方 .NET SDK，Blazor AI 组件同步登场：.NET 的 Agent 应用栈补齐了](https://www.cnblogs.com/shanyou/p/23187356)
-10. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
-11. [【FHE 同态加密】我们如何实现同态加密推理（十六）：未完成清单与已知边界（同态加密推理的精度、性能与安全）](https://www.cnblogs.com/haliuhome/p/23184101)
-12. [Oracle 数据库启停脚本：适用于开发测试环境](https://www.cnblogs.com/jyzhao/p/23183893)
-13. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
-14. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
-15. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
-16. [第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23179607)
-17. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
-18. [【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析）](https://www.cnblogs.com/haliuhome/p/23178401)
-19. [volatile 与寄存器：SysTick->VAL 到底在读什么](https://www.cnblogs.com/zw-awa/p/23178327)
-20. [用 Docker 简化部署与版本升级：一份可复用的实践](https://www.cnblogs.com/jyzhao/p/23178110)
+1. [洛谷-P8162 让我们赢得选举 题解](https://www.cnblogs.com/xiaoniu142857/p/23193101)
+2. [JT/T 808 部标车辆监控平台实战（第 1 篇 · 业务与架构）](https://www.cnblogs.com/xcj26/p/23192965)
+3. [并发编程（七）：volatile——从语言规则到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23192943)
+4. [把 OpenClaw.NET 的 83 篇 Markdown 变成一个网站：完整复盘](https://www.cnblogs.com/shanyou/p/23192862)
+5. [势能分析（摊还分析）](https://www.cnblogs.com/lvwangshuOI/p/23191542)
+6. [博客配置 - 新皮肤](https://www.cnblogs.com/Zhouyongh/p/23190905)
+7. [如何理解简单随机游走的事件域不能是样本空间的幂集](https://www.cnblogs.com/ChillmanLee/p/23190913)
+8. [nav2官方的bringup文件阅读笔记-命名空间，composition](https://www.cnblogs.com/CrescentWind/p/23190474)
+9. [客户总改测试数据？用脚本一键重生成 SQL](https://www.cnblogs.com/jyzhao/p/23189291)
+10. [电机家族：有的电机听“目标”，有的电机听“力气”](https://www.cnblogs.com/zw-awa/p/23187442)
+11. [使用 SciPy 库进行时间序列分析](https://www.cnblogs.com/wang_yb/p/23187441)
+12. [AG-UI 有了官方 .NET SDK，Blazor AI 组件同步登场：.NET 的 Agent 应用栈补齐了](https://www.cnblogs.com/shanyou/p/23187356)
+13. [[python] Polars数据处理指北](https://www.cnblogs.com/luohenyueji/p/23184458)
+14. [【FHE 同态加密】我们如何实现同态加密推理（十六）：未完成清单与已知边界（同态加密推理的精度、性能与安全）](https://www.cnblogs.com/haliuhome/p/23184101)
+15. [Oracle 数据库启停脚本：适用于开发测试环境](https://www.cnblogs.com/jyzhao/p/23183893)
+16. [Claude Code + MCP，让一个空文件夹变成了能玩的 Unity 游戏](https://www.cnblogs.com/shanyou/p/23181231)
+17. [AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好](https://www.cnblogs.com/xiaobaiysf/p/23181208)
+18. [【.NET】Logging 库探索（二）：日志过滤](https://www.cnblogs.com/tcjiaan/p/23173509)
+19. [第二章：Details 重点数据细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23179607)
+20. [一行命令，解锁 Claude Code 全部权限-ClawGod](https://www.cnblogs.com/apachecn/p/23178662)
 
 ## 精华帖子
 
