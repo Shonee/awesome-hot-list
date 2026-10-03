@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-03 14:23:23
+> 更新时间：2026-10-03 15:02:30
 
 ## 股票人气榜
 
@@ -18,9 +18,9 @@
 12. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 13. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
 14. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
-15. [片仔癀 (600436)](https://quote.eastmoney.com/sh600436.html)
-16. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
-17. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+15. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
+16. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+17. [片仔癀 (600436)](https://quote.eastmoney.com/sh600436.html)
 18. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
 19. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
-20. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
+20. [中船科技 (600072)](https://quote.eastmoney.com/sh600072.html)
