@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-03 17:13:24
+> 更新时间：2026-10-03 18:11:57
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [曝小岛秀夫新作预算4亿美元 直接吓跑索尼](https://www.gamersky.com/news/202609/2217575.shtml)
 12. [杰洛特变黑人！《巫师3重制版》大量玩家画面翻车](https://www.gamersky.com/news/202609/2219696.shtml)
 13. [《神鬼寓言4》试玩口碑超棒：画面效果很顶 性能稳定](https://www.gamersky.com/news/202609/2217601.shtml)
-14. [《巫师3重制版》开场30分钟实机演示 惊艳画质 系统革新](https://www.gamersky.com/news/202609/2218850.shtml)
-15. [女角色衣服加载不出来！EA大作《FC 27》翻车 官方回应马上修](https://www.gamersky.com/news/202610/2220908.shtml)
+14. [女角色衣服加载不出来！EA大作《FC 27》翻车 官方回应马上修](https://www.gamersky.com/news/202610/2220908.shtml)
+15. [《巫师3重制版》开场30分钟实机演示 惊艳画质 系统革新](https://www.gamersky.com/news/202609/2218850.shtml)

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-03 16:45:06
+> 更新时间：2026-10-03 18:11:25
 
 ## 24 小时热榜
 
@@ -12,28 +12,28 @@
 6. [消息称苹果相关物料送 Apple Store，或为智能家居产品 10 月 8 日解禁](https://readhub.cn/topic/8wsLYVtnfKz?tab=daily)
 7. [MiniMax 上线 M3.1 Flash 可复现 Claude Opus 5.5 前端生成能力](https://readhub.cn/topic/8wu2xNCJLGL?tab=daily)
 8. [古尔曼：苹果首款智能家居中枢支持 AI 面部识别 为家人切换专属内容](https://readhub.cn/topic/8wt8V1aH2ES?tab=daily)
-9. [小鹏 MONA L03 九月交付超 14000 台 年轻用户占比过半](https://readhub.cn/topic/8wtcW5TKuRu?tab=daily)
-10. [美联储加息预期生变，美股期指短线拉升](https://readhub.cn/topic/8wu077mVJNo?tab=daily)
-11. [哈佛教授用 Claude 三月完成 18 领域 36 项研究 开源 AI 科研框架](https://readhub.cn/topic/8wtrtBMm194?tab=daily)
-12. [OpenAI 披露澳大利亚又一政府机构遭入侵](https://readhub.cn/topic/8wujUqGfoc9?tab=daily)
-13. [Anthropic 联创游说梵蒂冈 探讨 AI 意识相关伦理问题](https://readhub.cn/topic/8wtog5ncr8i?tab=daily)
-14. [微软官方 X 账号被劫持约 30 分钟，攻击者借相关炒作加密代币](https://readhub.cn/topic/8wunmL0572w?tab=daily)
-15. [英伟达推出 64GB 版 DGX Spark 128GB 版本涨价至 6950 美元](https://readhub.cn/topic/8wu0pl9ry5d?tab=daily)
-16. [淘宝 TaoMate-H3 开源：三步生成「分钟级」音视频连续创作](https://readhub.cn/topic/8wu2xFtHXfL?tab=daily)
-17. [OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧](https://readhub.cn/topic/8wuiOqzjRr2?tab=daily)
-18. [英伟达推出 DGX SPARK 64GB 可本地运行千亿参数 AI 模型](https://readhub.cn/topic/8wu0oapqaKL?tab=daily)
+9. [美联储加息预期生变，美股期指短线拉升](https://readhub.cn/topic/8wu077mVJNo?tab=daily)
+10. [哈佛教授用 Claude 三月完成 18 领域 36 项研究 开源 AI 科研框架](https://readhub.cn/topic/8wtrtBMm194?tab=daily)
+11. [OpenAI 披露澳大利亚又一政府机构遭入侵](https://readhub.cn/topic/8wujUqGfoc9?tab=daily)
+12. [Anthropic 联创游说梵蒂冈 探讨 AI 意识相关伦理问题](https://readhub.cn/topic/8wtog5ncr8i?tab=daily)
+13. [微软官方 X 账号被劫持约 30 分钟，攻击者借相关炒作加密代币](https://readhub.cn/topic/8wunmL0572w?tab=daily)
+14. [英伟达推出 64GB 版 DGX Spark 128GB 版本涨价至 6950 美元](https://readhub.cn/topic/8wu0pl9ry5d?tab=daily)
+15. [淘宝 TaoMate-H3 开源：三步生成「分钟级」音视频连续创作](https://readhub.cn/topic/8wu2xFtHXfL?tab=daily)
+16. [OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧](https://readhub.cn/topic/8wuiOqzjRr2?tab=daily)
+17. [英伟达推出 DGX SPARK 64GB 可本地运行千亿参数 AI 模型](https://readhub.cn/topic/8wu0oapqaKL?tab=daily)
+18. [腾讯控股 10 月 2 日耗资 1 亿港元回购 23.8 万股](https://readhub.cn/topic/8wtlSgTw9zQ?tab=daily)
 19. [LegoFlow：让智能体自主跑完代码数据构建 + 训练测评全流程](https://readhub.cn/topic/8wtW5C6SHvq?tab=daily)
-20. [腾讯控股 10 月 2 日耗资 1 亿港元回购 23.8 万股](https://readhub.cn/topic/8wtlSgTw9zQ?tab=daily)
-21. [三星 HBM4 报价为 HBM3E 三倍，押注 AI 算力竞争重塑定价权](https://readhub.cn/topic/8wtyKslb7NE?tab=daily)
-22. [AT & T 称 iOS 26.0.1 可修复 iPhone 18 Pro Max 蜂窝问题 用户不认可](https://readhub.cn/topic/8wtyKqh0pRz?tab=daily)
+20. [三星 HBM4 报价为 HBM3E 三倍，押注 AI 算力竞争重塑定价权](https://readhub.cn/topic/8wtyKslb7NE?tab=daily)
+21. [AT & T 称 iOS 26.0.1 可修复 iPhone 18 Pro Max 蜂窝问题 用户不认可](https://readhub.cn/topic/8wtyKqh0pRz?tab=daily)
+22. [蔚来充电服务突破 1 亿次 超八成电量服务非蔚来品牌用户](https://readhub.cn/topic/8wv5zVAiC8N?tab=daily)
 23. [Blast 因运营成本过高宣布关停](https://readhub.cn/topic/8wu8g8ZvB7A?tab=daily)
-24. [蔚来充电服务突破 1 亿次 超八成电量服务非蔚来品牌用户](https://readhub.cn/topic/8wv5zVAiC8N?tab=daily)
-25. [艾博生物与诺华达成 77.75 亿美元 mRNA 领域重磅 BD 交易](https://readhub.cn/topic/8wtnEq7ssQJ?tab=daily)
-26. [OpenAI 洽商 300 亿美元融资](https://readhub.cn/topic/8wtyfVGKxbp?tab=daily)
-27. [NEAR Intents：被盗资金已全额归还，团队将停止相关调查](https://readhub.cn/topic/8wtH4dOvNk3?tab=daily)
-28. [美乌重建投资基金敲定首个关键矿产项目](https://readhub.cn/topic/8wuMxgz7T8C?tab=daily)
-29. [嘉能可：澳交所二次上市 2026 年 10 月 14 日启动交易](https://readhub.cn/topic/8wthB7yuzUY?tab=daily)
-30. [arXiv 实施限流新规：每人每月限发 2 篇论文](https://readhub.cn/topic/8wv5GnJjqDg?tab=daily)
+24. [艾博生物与诺华达成 77.75 亿美元 mRNA 领域重磅 BD 交易](https://readhub.cn/topic/8wtnEq7ssQJ?tab=daily)
+25. [OpenAI 洽商 300 亿美元融资](https://readhub.cn/topic/8wtyfVGKxbp?tab=daily)
+26. [特斯拉在美上线充电紧急驶离功能 启用或致充电桩最高 2.5 万美元损失](https://readhub.cn/topic/8wuzYcAXTla?tab=daily)
+27. [arXiv 实施限流新规：每人每月限发 2 篇论文](https://readhub.cn/topic/8wv5GnJjqDg?tab=daily)
+28. [NEAR Intents：被盗资金已全额归还，团队将停止相关调查](https://readhub.cn/topic/8wtH4dOvNk3?tab=daily)
+29. [美乌重建投资基金敲定首个关键矿产项目](https://readhub.cn/topic/8wuMxgz7T8C?tab=daily)
+30. [华为李小龙回应睿影 Z10 不支持 62mm 滤镜：为避免遮挡红枫摄像头偏色](https://readhub.cn/topic/8wvFeCMkHJk?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [普林斯顿大学团队实现毫秒级原子补充，同时保持量子比特相干性](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649806423&idx=2&sn=7879e2f3686dadc697201d5038bf22f5)
-2. [DeepSeek V4 适配昇腾：黄仁勋最担心的「去英伟达化」走到哪一步？](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649806423&idx=1&sn=cc0ed94347c57c13f04402bd1131a32a)
+1. [普林团队实现毫秒级原子补充，同时保持量子比特相干性](https://www.mittrchina.com/news/detail/17046)
+2. [DeepSeek V4 适配昇腾：黄仁勋最担心的「去英伟达化」走到哪一步？](https://www.mittrchina.com/news/detail/17045)
 3. [将语音与音乐作为单一连贯音轨共同生成，AI 音乐制作平台 Suno 推出 Speech 语音功能](https://www.ithome.com/1/009/440.htm)
 4. [路透社：AI 正竞相在资金耗尽之前改变世界](https://www.ithome.com/1/009/439.htm)
-5. [谷歌 AI 芯片随卫星升空，开启太空测试](https://www.gelonghui.com/p/6871251)
-6. [哈佛物理教授用 Claude 三个月横扫 18 个领域 36 个难题后，他总结出了一套可复现的 AI 科研框架](https://www.mittrchina.com/news/detail/17041)
-7. [韩国五大商业银行首次遭遇疑似 AI 驱动的黑客攻击，3 家发生客户信息泄露](https://www.techflowpost.com/zh-CN/newsletter/138727)
-8. [华为：昇腾 AI 芯片中国份额已超过英伟达](https://news.mydrivers.com/1/1155/1155265.htm)
-9. [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
-10. [Jev 被请下王座，StartLux 中国开源决策模型冲上第一](https://news.pedaily.cn/202610/569841.shtml)
+5. [AMD 出样 Versal AI Core XQRVC1902 自适应 SoC，满足 15 年太空任务要求](https://www.ithome.com/1/009/521.htm)
+6. [谷歌 AI 芯片随卫星升空，开启太空测试](https://www.gelonghui.com/p/6871251)
+7. [AI 正在造 AI](https://www.tmtpost.com/8158706.html)
+8. [AI 大神 Karpathy 最新洞察：未来我们更该「理解」大模型输出，而不是被它淹没](https://wallstreetcn.com/articles/3782967)
+9. [单月投稿破 4 万篇创纪录：arXiv 启动史上最严限流，每人每月最多投 2 篇](https://www.mittrchina.com/news/detail/17043)
+10. [哈佛物理教授用 Claude 三个月横扫 18 个领域 36 个难题后，他总结出了一套可复现的 AI 科研框架](https://www.mittrchina.com/news/detail/17041)
