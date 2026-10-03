@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-03 22:44:41
+> 更新时间：2026-10-04 00:24:53
 
 ## 新闻热榜
 
@@ -29,21 +29,21 @@
 
 1. [鸣沙山游客坐满整座山宛如拼豆，游客称“感觉有一亿人在”](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxfym4968666.shtml)
 2. [刺伤迪拜航空机长的副驾驶，身份披露：阿曼公民，曾因极端主义观点被另一家航司解职，“似乎存在自杀意图”](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxfyp6567489.shtml)
-3. [10月3日收盘：美股周五收涨 就业数据走弱提振市场](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml)
+3. [上海音乐教师赴泰后失联，手机IP曾显示在缅甸，事件时间线梳理](https://finance.sina.com.cn/wm/2026-10-03/doc-initwzsi4123911.shtml)
 4. [G7打响“油价降温战”!一亿桶石油储备释放叠加特朗普放弃禁运，全球通胀迎来关键减压阀](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-03/doc-initwzsp5057993.shtml)
-5. [上海音乐教师赴泰后失联，手机IP曾显示在缅甸，事件时间线梳理](https://finance.sina.com.cn/wm/2026-10-03/doc-initwzsi4123911.shtml)
-6. [从70%降到27%！美联储加息预期退潮，黄金还卡在4200下方](https://finance.sina.com.cn/stock/bxjj/2026-10-03/doc-initwzsi4065044.shtml)
-7. [特朗普称对伊朗下一步行动“进展顺利”](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxnhf0797400.shtml)
+5. [10月3日收盘：美股周五收涨 就业数据走弱提振市场](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml)
+6. [特朗普称对伊朗下一步行动“进展顺利”](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxnhf0797400.shtml)
+7. [从70%降到27%！美联储加息预期退潮，黄金还卡在4200下方](https://finance.sina.com.cn/stock/bxjj/2026-10-03/doc-initwzsi4065044.shtml)
 8. [10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6749330.shtml)
 9. [10月3日隔夜要闻：美股收涨 燃料价格大跌 金价走低 美国就业增长逊于预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5147785.shtml)
-10. [迪拜航空客机急坠、机长重伤仍坚持开门，阿联酋定性事件为恐袭](https://finance.sina.com.cn/wm/2026-10-03/doc-initwzsm0896309.shtml)
-11. [报道：沙特计划对也门胡塞武装发动攻势](https://finance.sina.com.cn/world/2026-10-03/doc-initwkux6941476.shtml)
+10. [报道：沙特计划对也门胡塞武装发动攻势](https://finance.sina.com.cn/world/2026-10-03/doc-initwkux6941476.shtml)
+11. [迪拜航空客机急坠、机长重伤仍坚持开门，阿联酋定性事件为恐袭](https://finance.sina.com.cn/wm/2026-10-03/doc-initwzsm0896309.shtml)
 12. [市场消息： 沙特正考虑发起沿海攻势，以确保红海航线安全。  沙特正考虑在多条战线同时发起攻势。预计沙特军事行动将在未来数周内启动。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1197278.shtml)
 13. [卡尼将成为首位对土耳其进行正式双边访问的加拿大领导人。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1193577.shtml)
 14. [惠誉确认丰田汽车信贷公司及关联公司评级为“A+”/“F1”，展望稳定。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4338097.shtml)
 15. [美股本轮牛市迎来四周年](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml)
-16. [新华社评“中国男足0:5惨败”：令人震惊！战意不浓、作风松懈，是对球迷的辜负，更是对国脚身份的亵渎](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxsqf4775754.shtml)
-17. [恒指期货夜盘收跌0.14%，报23846.28点，低水126.01点。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4355293.shtml)
-18. [中金保荐！欢创科技首日暴涨266%隔日暴跌48%，物理AI大牛股成割韭菜利器，股民：报警](https://finance.sina.com.cn/stock/companyt/2026-10-03/doc-initwzsi4077265.shtml)
+16. [中金保荐！欢创科技首日暴涨266%隔日暴跌48%，物理AI大牛股成割韭菜利器，股民：报警](https://finance.sina.com.cn/stock/companyt/2026-10-03/doc-initwzsi4077265.shtml)
+17. [新华社评“中国男足0:5惨败”：令人震惊！战意不浓、作风松懈，是对球迷的辜负，更是对国脚身份的亵渎](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxsqf4775754.shtml)
+18. [恒指期货夜盘收跌0.14%，报23846.28点，低水126.01点。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4355293.shtml)
 19. [据消息人士透露，意大利将2028年债务与国内生产总值之比目标设定为137.9%。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4316363.shtml)
-20. [人民日报刊发金轩文章：支持民营企业在高质量发展中大显身手](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initwzsm0841298.shtml)
+20. [日本最大自动售货机制造商富士电机将制冷技术转用于数据中心冷却](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxsqi6399001.shtml)
