@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-04 00:26:39
+> 更新时间：2026-10-04 01:48:22
 
 ## 热门问题
 
@@ -15,8 +15,8 @@
 9. [CARLA 0.9.15 hangs in Vulkan WaitUntilIdle on H800 with NVIDIA 535.54.03](https://stackoverflow.com/questions/80007661/carla-0-9-15-hangs-in-vulkan-waituntilidle-on-h800-with-nvidia-535-54-03)
 10. [SDL3's KMS/DRM for Intel graphics using buildroot](https://stackoverflow.com/questions/80007650/sdl3s-kms-drm-for-intel-graphics-using-buildroot)
 11. [How to run JSNice?](https://stackoverflow.com/questions/80007642/how-to-run-jsnice)
-12. [Custom image to lightbox on ajax request with getuikit.com](https://stackoverflow.com/questions/80007667/custom-image-to-lightbox-on-ajax-request-with-getuikit-com)
-13. [How to remove row of empty line on terminal caused by "\x1b[2J" in C?](https://stackoverflow.com/questions/80007635/how-to-remove-row-of-empty-line-on-terminal-caused-by-x1b2j-in-c)
+12. [How to remove row of empty line on terminal caused by "\x1b[2J" in C?](https://stackoverflow.com/questions/80007635/how-to-remove-row-of-empty-line-on-terminal-caused-by-x1b2j-in-c)
+13. [Custom image to lightbox on ajax request with getuikit.com](https://stackoverflow.com/questions/80007667/custom-image-to-lightbox-on-ajax-request-with-getuikit-com)
 14. [Use JavascriptMessageListener with remote container](https://stackoverflow.com/questions/80007608/use-javascriptmessagelistener-with-remote-container)
 15. [ASP.NET Core Facebook OAuth intercepted by Facebook App Intent Filters - and nothing shows up](https://stackoverflow.com/questions/80007617/asp-net-core-facebook-oauth-intercepted-by-facebook-app-intent-filters-and-not)
 16. [MySQL2 vs Sequelize for a large-scale Node.js application](https://stackoverflow.com/questions/80007633/mysql2-vs-sequelize-for-a-large-scale-node-js-application)
@@ -45,11 +45,11 @@
 39. [Symfony Mercure EventSource.onmessage is not triggered](https://stackoverflow.com/questions/80007557/symfony-mercure-eventsource-onmessage-is-not-triggered)
 40. [Why is my AAB file 85 MB while my APK is only 25 MB in React Native?](https://stackoverflow.com/questions/80007455/why-is-my-aab-file-85-mb-while-my-apk-is-only-25-mb-in-react-native)
 41. [Why and how does Python treat __new__ differently when called from an instance?](https://stackoverflow.com/questions/80007399/why-and-how-does-python-treat-new-differently-when-called-from-an-instance)
-42. [Blazor not reading connection strings from appsettings.json but reads from app.config](https://stackoverflow.com/questions/80007475/blazor-not-reading-connection-strings-from-appsettings-json-but-reads-from-app-c)
-43. [Why do characters repeat in the terminal when drawing a matrix of cells in C?](https://stackoverflow.com/questions/80007468/why-do-characters-repeat-in-the-terminal-when-drawing-a-matrix-of-cells-in-c)
-44. [ReportViewer control added to toolbox does nothing](https://stackoverflow.com/questions/80007551/reportviewer-control-added-to-toolbox-does-nothing)
+42. [Why do characters repeat in the terminal when drawing a matrix of cells in C?](https://stackoverflow.com/questions/80007468/why-do-characters-repeat-in-the-terminal-when-drawing-a-matrix-of-cells-in-c)
+43. [Blazor not reading connection strings from appsettings.json but reads from app.config](https://stackoverflow.com/questions/80007475/blazor-not-reading-connection-strings-from-appsettings-json-but-reads-from-app-c)
+44. [PowerShell version 7.6.3 (on Windows 11 Pro) Error 'Argument types do not match'](https://stackoverflow.com/questions/80007357/powershell-version-7-6-3-on-windows-11-pro-error-argument-types-do-not-match)
 45. [Manage searches on two or more words separately](https://stackoverflow.com/questions/80007266/manage-searches-on-two-or-more-words-separately)
-46. [PowerShell version 7.6.3 (on Windows 11 Pro) Error 'Argument types do not match'](https://stackoverflow.com/questions/80007357/powershell-version-7-6-3-on-windows-11-pro-error-argument-types-do-not-match)
+46. [ReportViewer control added to toolbox does nothing](https://stackoverflow.com/questions/80007551/reportviewer-control-added-to-toolbox-does-nothing)
 47. [How can I reproduce C# MultipartFormDataContent with Java BodyPublishers?](https://stackoverflow.com/questions/80007315/how-can-i-reproduce-c-multipartformdatacontent-with-java-bodypublishers)
 48. [Why does Oracle return rows with EXISTS AND NOT EXISTS contradiction](https://stackoverflow.com/questions/80007355/why-does-oracle-return-rows-with-exists-and-not-exists-contradiction)
 49. [All of the extension's IndexedDB data has been lost](https://stackoverflow.com/questions/80007513/all-of-the-extensions-indexeddb-data-has-been-lost)

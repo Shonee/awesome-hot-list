@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-04 00:24:38
+> 更新时间：2026-10-04 01:47:33
 
 ## 24 小时热榜
 
@@ -11,29 +11,29 @@
 5. [古尔曼：苹果首款智能家居中枢支持 AI 面部识别 为家人切换专属内容](https://readhub.cn/topic/8wt8V1aH2ES?tab=daily)
 6. [小米 Vision GT 10 月即将正式入驻 Gran Turismo 7](https://readhub.cn/topic/8wvQi1j8KkM?tab=daily)
 7. [特斯拉在美上线充电紧急驶离功能 启用或致充电桩最高 2.5 万美元损失](https://readhub.cn/topic/8wuzYcAXTla?tab=daily)
-8. [OpenAI 披露澳大利亚又一政府机构遭入侵](https://readhub.cn/topic/8wujUqGfoc9?tab=daily)
-9. [AI 灌水稿激增：预印本平台 arXiv 出台新规 每人每月限投 2 篇](https://readhub.cn/topic/8wtPJ7FLdmG?tab=daily)
+8. [AI 灌水稿激增：预印本平台 arXiv 出台新规 每人每月限投 2 篇](https://readhub.cn/topic/8wtPJ7FLdmG?tab=daily)
+9. [OpenAI 披露澳大利亚又一政府机构遭入侵](https://readhub.cn/topic/8wujUqGfoc9?tab=daily)
 10. [微软官方 X 账号被劫持约 30 分钟，攻击者借相关炒作加密代币](https://readhub.cn/topic/8wunmL0572w?tab=daily)
-11. [OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧](https://readhub.cn/topic/8wuiOqzjRr2?tab=daily)
-12. [蔚来充电服务突破 1 亿次 超八成电量服务非蔚来品牌用户](https://readhub.cn/topic/8wv5zVAiC8N?tab=daily)
-13. [AT & T 称 iOS 26.0.1 可修复 iPhone 18 Pro Max 蜂窝问题 用户不认可](https://readhub.cn/topic/8wtyKqh0pRz?tab=daily)
-14. [马斯克回应台积电或参与 Terafab 项目](https://readhub.cn/topic/8wuyU86YY9q?tab=daily)
+11. [蔚来充电服务突破 1 亿次 超八成电量服务非蔚来品牌用户](https://readhub.cn/topic/8wv5zVAiC8N?tab=daily)
+12. [OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧](https://readhub.cn/topic/8wuiOqzjRr2?tab=daily)
+13. [马斯克回应台积电或参与 Terafab 项目](https://readhub.cn/topic/8wuyU86YY9q?tab=daily)
+14. [AT & T 称 iOS 26.0.1 可修复 iPhone 18 Pro Max 蜂窝问题 用户不认可](https://readhub.cn/topic/8wtyKqh0pRz?tab=daily)
 15. [华为李小龙回应睿影 Z10 不支持 62mm 滤镜：为避免遮挡红枫摄像头偏色](https://readhub.cn/topic/8wvFeCMkHJk?tab=daily)
-16. [Blast 因运营成本过高宣布关停](https://readhub.cn/topic/8wu8g8ZvB7A?tab=daily)
-17. [arXiv 实施限流新规：每人每月限发 2 篇论文](https://readhub.cn/topic/8wv5GnJjqDg?tab=daily)
+16. [arXiv 实施限流新规：每人每月限发 2 篇论文](https://readhub.cn/topic/8wv5GnJjqDg?tab=daily)
+17. [韩国五大商业银行遭黑客攻击 三家出现客户信息泄露](https://readhub.cn/topic/8wv0zJiRSum?tab=daily)
 18. [NEAR Intents：被盗资金已全额归还，团队将停止相关调查](https://readhub.cn/topic/8wtH4dOvNk3?tab=daily)
-19. [韩国五大商业银行遭黑客攻击 三家出现客户信息泄露](https://readhub.cn/topic/8wv0zJiRSum?tab=daily)
-20. [美乌重建投资基金敲定首个关键矿产项目](https://readhub.cn/topic/8wuMxgz7T8C?tab=daily)
-21. [消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片](https://readhub.cn/topic/8wuwh9SUOiM?tab=daily)
+19. [美乌重建投资基金敲定首个关键矿产项目](https://readhub.cn/topic/8wuMxgz7T8C?tab=daily)
+20. [消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片](https://readhub.cn/topic/8wuwh9SUOiM?tab=daily)
+21. [Meta 开源 Muse Gadgets 支持开发者打造专属 AI 外设](https://readhub.cn/topic/8wurhvfOAaQ?tab=daily)
 22. [6M 参数 DepthART 轻量深度估计模型可部署至 Jetson 等端侧设备](https://readhub.cn/topic/8wvDqKI4a5B?tab=daily)
-23. [Meta 开源 Muse Gadgets 支持开发者打造专属 AI 外设](https://readhub.cn/topic/8wurhvfOAaQ?tab=daily)
-24. [老年旅客淡季火车票将享「折上折」相关优惠车票明起陆续发售](https://readhub.cn/topic/8wuvGZJ0acV?tab=daily)
-25. [StartLux 开源决策模型公开评测成绩超 Jev 登顶榜首](https://readhub.cn/topic/8wuvzpnKPXg?tab=daily)
-26. [研究发现大模型后训练极端稀疏监督可提升推理性能](https://readhub.cn/topic/8wuw0YYYaGo?tab=daily)
-27. [华为乾崑智驾累计辅助驾驶里程突破 160 亿公里](https://readhub.cn/topic/8wut7UGzdFh?tab=daily)
-28. [国际能源署：已释放约 3.25 亿桶战略石油储备](https://readhub.cn/topic/8wvkMV6M7oM?tab=daily)
-29. [雷诺预计 2026 年法国本土产量将因电动汽车增长超 25%](https://readhub.cn/topic/8wvXVIxQew5?tab=daily)
-30. [截至 8 月末我国 5G 基站总数超 519 万个](https://readhub.cn/topic/8wvJvYEKYXN?tab=daily)
+23. [老年旅客淡季火车票将享「折上折」相关优惠车票明起陆续发售](https://readhub.cn/topic/8wuvGZJ0acV?tab=daily)
+24. [国际能源署：已释放约 3.25 亿桶战略石油储备](https://readhub.cn/topic/8wvkMV6M7oM?tab=daily)
+25. [研究发现大模型后训练极端稀疏监督可提升推理性能](https://readhub.cn/topic/8wuw0YYYaGo?tab=daily)
+26. [StartLux 开源决策模型公开评测成绩超 Jev 登顶榜首](https://readhub.cn/topic/8wuvzpnKPXg?tab=daily)
+27. [雷诺预计 2026 年法国本土产量将因电动汽车增长超 25%](https://readhub.cn/topic/8wvXVIxQew5?tab=daily)
+28. [华为乾崑智驾累计辅助驾驶里程突破 160 亿公里](https://readhub.cn/topic/8wut7UGzdFh?tab=daily)
+29. [截至 8 月末我国 5G 基站总数超 519 万个](https://readhub.cn/topic/8wvJvYEKYXN?tab=daily)
+30. [中国信保前 8 个月承保金额同比增长 12.6%](https://readhub.cn/topic/8wv4YR6Fl1q?tab=daily)
 
 ## 每日早报
 
