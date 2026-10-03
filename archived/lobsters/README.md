@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-03 11:57:41
+> 更新时间：2026-10-03 12:44:45
 
 ## Hottest
 
@@ -8,8 +8,8 @@
 2. [Actual RFC1149 packet being auctioned](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
 3. [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/)
 4. [Lobsters Interview with Sjamaan](https://alexalejandre.com/interviews/peter-bex/)
-5. [The forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
-6. [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
+5. [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
+6. [The forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 7. [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
 8. [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
 9. [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/)
