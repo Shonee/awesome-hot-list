@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-03 18:12:39
+> 更新时间：2026-10-03 18:46:29
 
 ## Hottest
 
@@ -15,8 +15,8 @@
 9. [Keeping Futhark off the GPU](https://futhark-lang.org/blog/2026-10-02-cpu_function.html)
 10. [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
 11. [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
-12. [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/)
-13. [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html)
+12. [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html)
+13. [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/)
 14. [What are you doing this weekend?](https://lobste.rs/s/hfmcxi)
 15. [Klassik Revives the KDE 3 Desktop on Modern Plasma 6](https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/)
 16. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
