@@ -2,7 +2,7 @@ import unittest
 from subprocess import CompletedProcess
 from unittest.mock import patch
 
-from src.hotlist.channels import bing, cnblogs, hupu, pojie52
+from src.hotlist.channels import bing, cnblogs, hupu, jandan, pojie52
 
 
 class RequestedCollectorTests(unittest.TestCase):
@@ -51,6 +51,14 @@ class RequestedCollectorTests(unittest.TestCase):
 
         self.assertEqual([rank.name for rank in result.rankings], ["最新帖子"])
         self.assertEqual(result.warnings, ["精华帖子", "48 小时阅读排行"])
+
+    def test_jandan_returns_disabled_when_api_has_no_usable_items(self):
+        with patch.object(jandan, "get", return_value={"code": 0, "data": []}):
+            result = jandan.collect()
+
+        self.assertEqual(result.status, "disabled")
+        self.assertEqual(result.rankings, [])
+        self.assertEqual(result.error, "煎蛋 4 小时热门未返回有效数据")
 
     def test_pojie_digest_failure_keeps_popular_posts(self):
         with patch.object(pojie52, "get", side_effect=[
