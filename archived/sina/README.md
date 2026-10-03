@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-03 08:33:00
+> 更新时间：2026-10-03 09:25:27
 
 ## 新闻热榜
 
@@ -45,4 +45,4 @@
 16. [布伦特原油抹去跌幅，交易价格突破每桶102美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430922.shtml)
 17. [意大利经济财政部长：意大利2026年的财政赤字将控制在3%以下](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1076512.shtml)
 18. [沙土巴三国将会商与胡塞武装政治接触](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrar1014783.shtml)
-19. [美国独立社区银行家协会称，向这类企业发放牌照超出监管权限。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrap4230308.shtml)
+19. [美股本轮牛市迎来四周年](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml)

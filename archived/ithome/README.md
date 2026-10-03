@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-03 08:33:06
+> 更新时间：2026-10-03 09:25:32
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [AI 伦理研究：DeepSeek 对男女一视同仁，美系模型却“区别对待”](https://www.ithome.com/1/009/243.htm)
 7. [腾讯 WorkBuddy 内置模型独家支持 Space Bunny](https://www.ithome.com/1/009/335.htm)
 8. [中国电信 App 上线 eSIM 手机绑定号码数量查询功能](https://www.ithome.com/1/009/323.htm)
-9. [三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起](https://www.ithome.com/1/009/242.htm)
-10. [周星驰导演电影《功夫女足》网播定档 10 月 3 日，已收获 23.45 亿元票房](https://www.ithome.com/1/009/324.htm)
+9. [周星驰导演电影《功夫女足》网播定档 10 月 3 日，已收获 23.45 亿元票房](https://www.ithome.com/1/009/324.htm)
+10. [三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起](https://www.ithome.com/1/009/242.htm)
 11. [荣耀林林：Magic9 系列不会推出 RSR 保时捷设计版本](https://www.ithome.com/1/009/329.htm)
 12. [小米米家体脂秤 4 Pro 开启预售：采用 USB-C 充电、支持身体数据趋势显示，149 元](https://www.ithome.com/1/009/345.htm)
