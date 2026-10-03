@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-03 15:02:13
+> 更新时间：2026-10-03 15:44:29
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [10月3日收盘：美股周五收涨 就业数据走弱提振市场](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml)
-2. [鸣沙山游客坐满整座山宛如拼豆，游客称“感觉有一亿人在”](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxfym4968666.shtml)
+1. [鸣沙山游客坐满整座山宛如拼豆，游客称“感觉有一亿人在”](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxfym4968666.shtml)
+2. [10月3日收盘：美股周五收涨 就业数据走弱提振市场](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml)
 3. [市场消息： 沙特正考虑发起沿海攻势，以确保红海航线安全。  沙特正考虑在多条战线同时发起攻势。预计沙特军事行动将在未来数周内启动。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1197278.shtml)
 4. [卡尼将成为首位对土耳其进行正式双边访问的加拿大领导人。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwenv1193577.shtml)
 5. [惠誉确认丰田汽车信贷公司及关联公司评级为“A+”/“F1”，展望稳定。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4338097.shtml)
-6. [恒指期货夜盘收跌0.14%，报23846.28点，低水126.01点。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4355293.shtml)
-7. [据消息人士透露，意大利将2028年债务与国内生产总值之比目标设定为137.9%。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4316363.shtml)
-8. [美国社区银行机构起诉货币监理署，抗议其向加密货币企业发放信托牌照。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrar1002803.shtml)
-9. [10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6749330.shtml)
-10. [G7打响“油价降温战”!一亿桶石油储备释放叠加特朗普放弃禁运，全球通胀迎来关键减压阀](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-03/doc-initwzsp5057993.shtml)
-11. [尼日利亚东北遇袭15人死亡 袭击疑为极端组织发动](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4348187.shtml)
-12. [国际货币基金组织称，墨西哥需加大努力将债务推向下降轨道。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1109205.shtml)
-13. [美股本轮牛市迎来四周年](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml)
-14. [美国联邦航空管理局一名官员表示：该局将向航空公司发布特别适航公告，确保各家航空公司知晓波音针对737 MAX软件问题发布的公告。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1122272.shtml)
-15. [美国司法部长称不会重启对前美联储主席鲍威尔的刑事调查](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrap4230506.shtml)
-16. [从70%降到27%！美联储加息预期退潮，黄金还卡在4200下方](https://finance.sina.com.cn/stock/bxjj/2026-10-03/doc-initwzsi4065044.shtml)
-17. [报道：沙特计划对也门胡塞武装发动攻势](https://finance.sina.com.cn/world/2026-10-03/doc-initwkux6941476.shtml)
-18. [10月3日隔夜要闻：美股收涨 燃料价格大跌 金价走低 美国就业增长逊于预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5147785.shtml)
+6. [G7打响“油价降温战”!一亿桶石油储备释放叠加特朗普放弃禁运，全球通胀迎来关键减压阀](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-03/doc-initwzsp5057993.shtml)
+7. [恒指期货夜盘收跌0.14%，报23846.28点，低水126.01点。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4355293.shtml)
+8. [据消息人士透露，意大利将2028年债务与国内生产总值之比目标设定为137.9%。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4316363.shtml)
+9. [从70%降到27%！美联储加息预期退潮，黄金还卡在4200下方](https://finance.sina.com.cn/stock/bxjj/2026-10-03/doc-initwzsi4065044.shtml)
+10. [10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6749330.shtml)
+11. [美股本轮牛市迎来四周年](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml)
+12. [迪拜航空客机急坠、机长重伤仍坚持开门，阿联酋定性事件为恐袭](https://finance.sina.com.cn/wm/2026-10-03/doc-initwzsm0896309.shtml)
+13. [美国社区银行机构起诉货币监理署，抗议其向加密货币企业发放信托牌照。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrar1002803.shtml)
+14. [尼日利亚东北遇袭15人死亡 袭击疑为极端组织发动](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkur4348187.shtml)
+15. [国际货币基金组织称，墨西哥需加大努力将债务推向下降轨道。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1109205.shtml)
+16. [美国联邦航空管理局一名官员表示：该局将向航空公司发布特别适航公告，确保各家航空公司知晓波音针对737 MAX软件问题发布的公告。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1122272.shtml)
+17. [美国司法部长称不会重启对前美联储主席鲍威尔的刑事调查](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrap4230506.shtml)
+18. [报道：沙特计划对也门胡塞武装发动攻势](https://finance.sina.com.cn/world/2026-10-03/doc-initwkux6941476.shtml)
 19. [人民日报刊发金轩文章：支持民营企业在高质量发展中大显身手](https://finance.sina.com.cn/jjxw/2026-10-03/doc-initwzsm0841298.shtml)
-20. [巴西石油公司首席执行官：将于10月底完成亚马逊河口区块第一口井的钻探作业。巴西国家石油公司将部署钻井船，于2027年第一季度启动额外三](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1118977.shtml)
+20. [10月3日隔夜要闻：美股收涨 燃料价格大跌 金价走低 美国就业增长逊于预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5147785.shtml)

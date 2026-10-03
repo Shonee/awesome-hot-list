@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-03 15:02:30
+> 更新时间：2026-10-03 15:45:05
 
 ## 股票人气榜
 
@@ -11,8 +11,8 @@
 5. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
 6. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
 7. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
-8. [芭田股份 (002170)](https://quote.eastmoney.com/sz002170.html)
-9. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
+8. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
+9. [芭田股份 (002170)](https://quote.eastmoney.com/sz002170.html)
 10. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 11. [昭衍新药 (603127)](https://quote.eastmoney.com/sh603127.html)
 12. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
@@ -20,7 +20,7 @@
 14. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
 15. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
 16. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
-17. [片仔癀 (600436)](https://quote.eastmoney.com/sh600436.html)
-18. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
+17. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
+18. [中船科技 (600072)](https://quote.eastmoney.com/sh600072.html)
 19. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
-20. [中船科技 (600072)](https://quote.eastmoney.com/sh600072.html)
+20. [五方光电 (002962)](https://quote.eastmoney.com/sz002962.html)

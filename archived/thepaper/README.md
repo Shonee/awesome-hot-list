@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-03 15:02:05
+> 更新时间：2026-10-03 15:44:20
 
 ## 热新闻
 
@@ -16,11 +16,11 @@
 10. [澎湃回声｜宁波鲸途海洋乐园：停止“挑逗”鳄鱼行为，改为其他互动形式](https://www.thepaper.cn/newsDetail_forward_34191709)
 11. [60年首败！国足热身赛0比5不敌巴勒斯坦](https://www.thepaper.cn/newsDetail_forward_34192540)
 12. [华人物理学家叶军获“诺奖风向标”沃尔夫物理学奖，系该奖项史上第二位华人得主](https://www.thepaper.cn/newsDetail_forward_34191992)
-13. [奔赴“县”场｜这座高速服务区，凭什么一天吸引近8万人](https://www.thepaper.cn/newsDetail_forward_34191472)
-14. [“闪身步”、“狗熊哆嗦毛” 意外走红，北舞教授讲述教材录制往事](https://www.thepaper.cn/newsDetail_forward_34191454)
-15. [人民日报评“空姐下跪道歉”：一味息事宁人，只会纵容无理者得寸进尺](https://www.thepaper.cn/newsDetail_forward_34193872)
-16. [上海图书馆举办《良友》画报展](https://www.thepaper.cn/newsDetail_forward_34172463)
-17. [回望《伟大的长征》创作历程，总编剧陈晋称是两次学习](https://www.thepaper.cn/newsDetail_forward_34191965)
-18. [加拿大计划采购瑞典预警机，为何没看上美国的竞标方案？](https://www.thepaper.cn/newsDetail_forward_34180094)
-19. [美国暂停驻巴西大使馆和领事馆服务](https://www.thepaper.cn/newsDetail_forward_34192666)
-20. [国庆假期第二天多地景区再发限流公告，节中机票“真香价”催生“说走就走”的旅行](https://www.thepaper.cn/newsDetail_forward_34191622)
+13. [特朗普：与伊朗的战事将“很快结束”](https://www.thepaper.cn/newsDetail_forward_34194095)
+14. [奔赴“县”场｜这座高速服务区，凭什么一天吸引近8万人](https://www.thepaper.cn/newsDetail_forward_34191472)
+15. [“闪身步”、“狗熊哆嗦毛” 意外走红，北舞教授讲述教材录制往事](https://www.thepaper.cn/newsDetail_forward_34191454)
+16. [人民日报评“空姐下跪道歉”：一味息事宁人，只会纵容无理者得寸进尺](https://www.thepaper.cn/newsDetail_forward_34193872)
+17. [上海图书馆举办《良友》画报展](https://www.thepaper.cn/newsDetail_forward_34172463)
+18. [回望《伟大的长征》创作历程，总编剧陈晋称是两次学习](https://www.thepaper.cn/newsDetail_forward_34191965)
+19. [加拿大计划采购瑞典预警机，为何没看上美国的竞标方案？](https://www.thepaper.cn/newsDetail_forward_34180094)
+20. [美国暂停驻巴西大使馆和领事馆服务](https://www.thepaper.cn/newsDetail_forward_34192666)
