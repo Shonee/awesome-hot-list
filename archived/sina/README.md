@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-03 09:25:27
+> 更新时间：2026-10-03 10:18:56
 
 ## 新闻热榜
 
@@ -44,5 +44,5 @@
 15. [市场消息：沙特阿拉伯外交大臣与伊朗外交部长通电话。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1091780.shtml)
 16. [布伦特原油抹去跌幅，交易价格突破每桶102美元。](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwent4430922.shtml)
 17. [意大利经济财政部长：意大利2026年的财政赤字将控制在3%以下](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwkut1076512.shtml)
-18. [沙土巴三国将会商与胡塞武装政治接触](https://finance.sina.com.cn/7x24/2026-10-03/doc-initwrar1014783.shtml)
+18. [10月3日收盘：美股周五收涨 就业数据走弱提振市场](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml)
 19. [美股本轮牛市迎来四周年](https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml)

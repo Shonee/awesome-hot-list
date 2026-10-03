@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-03 09:25:07
+> 更新时间：2026-10-03 10:18:13
 
 ## 热门文章
 
@@ -20,8 +20,8 @@
 14. [在职前端 Skill 和 MCP 分享](https://juejin.cn/post/7691142360248614947)
 15. [游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！](https://juejin.cn/post/7690869176362172425)
 16. [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538)
-17. [构建稳定的 AI Agent：Harness 工程的核心机制与实践思考](https://juejin.cn/post/7690982503821246506)
-18. [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050)
+17. [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050)
+18. [构建稳定的 AI Agent：Harness 工程的核心机制与实践思考](https://juejin.cn/post/7690982503821246506)
 19. [GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器](https://juejin.cn/post/7691151105850310694)
 20. [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338)
 21. [Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好](https://juejin.cn/post/7691345821564174363)
@@ -30,12 +30,12 @@
 24. [Claude Opus 5.5 中转站验真：1x Kiro 反代真的在跑 Opus 5.5 吗？](https://juejin.cn/post/7690861778460229651)
 25. [实战 Jev-Style-Qwen3.5-2B：从 CPU 3 秒到 GPU 100ms](https://juejin.cn/post/7690781115092992027)
 26. [MCP 技术分享：从协议握手到 LangGraph 多 Server 调用](https://juejin.cn/post/7691835382220111872)
-27. [2026年9月面18个后端](https://juejin.cn/post/7691154454523559970)
-28. [Claude Code 三大配置体系详解：settings.json / CLAUDE.md / memory](https://juejin.cn/post/7690888878326087721)
+27. [Claude Code 三大配置体系详解：settings.json / CLAUDE.md / memory](https://juejin.cn/post/7690888878326087721)
+28. [2026年9月面18个后端](https://juejin.cn/post/7691154454523559970)
 29. [2026 年的 Spring Boot 长什么样：JDK 21 虚拟线程 + 模块化单体重建业务后端](https://juejin.cn/post/7690869043603554350)
 30. [Node.js 50个优势场景盘点：一个人单干，为啥我多数时候只用它](https://juejin.cn/post/7691227873459028006)
-31. [ai agent --- postgreSQL 关系型数据库](https://juejin.cn/post/7691284233897951295)
-32. [「vConsole MCP🛠️」我让 AI 直接看见任何 H5 的日志和请求帮你 debug](https://juejin.cn/post/7691270105432784931)
+31. [「vConsole MCP🛠️」我让 AI 直接看见任何 H5 的日志和请求帮你 debug](https://juejin.cn/post/7691270105432784931)
+32. [ai agent --- postgreSQL 关系型数据库](https://juejin.cn/post/7691284233897951295)
 33. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
 34. [为了脱离前端鄙视链，于是自己写个框架 - React 党看完沉默了](https://juejin.cn/post/7691201978224787498)
 35. [GitHub 日榜趋势速报 | 2026-10-01](https://juejin.cn/post/7691156905345679398)
@@ -46,11 +46,11 @@
 40. [贴心使用的语音生活小助手](https://juejin.cn/post/7690872907538710564)
 41. [SSE、WebSocket 连接丢 Redis 里？那可踩大坑了！](https://juejin.cn/post/7690869043603603502)
 42. [给项目接上动态线程池](https://juejin.cn/post/7690839722768891913)
-43. [构建你的第一个 DevOps AI Agent：自动化捕获、分析并修复 CI 故障](https://juejin.cn/post/7690938219306729498)
-44. [Redis键过期失效？这个坑我踩得明明白白](https://juejin.cn/post/7691297274821214208)
-45. [QML Flipable：卡片翻转与登录设置](https://juejin.cn/post/7691142360248598563)
-46. [Android 系统启动机制（九）：system_server 已经运行，为什么还不能说 Android 启动完成？](https://juejin.cn/post/7691126299994472488)
-47. [浏览器端 3D 看车重磅升级：从三款展车到可试驾的八车展厅](https://juejin.cn/post/7691003489858994211)
-48. [OpenAI DevDay 一口气发了 20 多项更新，但真正值得看的只有这一条](https://juejin.cn/post/7690990095802089491)
-49. [2026 年 AI Agent 面试到底考什么？这套题库覆盖了 90% 的高频考点](https://juejin.cn/post/7691231137718353920)
-50. [前端工程师的 Java 后端 30 天快速入门（1）](https://juejin.cn/post/7690807431082967074)
+43. [OpenAI DevDay 一口气发了 20 多项更新，但真正值得看的只有这一条](https://juejin.cn/post/7690990095802089491)
+44. [Android 系统启动机制（九）：system_server 已经运行，为什么还不能说 Android 启动完成？](https://juejin.cn/post/7691126299994472488)
+45. [GitHub 日榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691231869480288302)
+46. [DeepSeek Harness 插件开发新手教程](https://juejin.cn/post/7691149921396834354)
+47. [QML Flipable：卡片翻转与登录设置](https://juejin.cn/post/7691142360248598563)
+48. [2026 年 AI Agent 面试到底考什么？这套题库覆盖了 90% 的高频考点](https://juejin.cn/post/7691231137718353920)
+49. [浏览器端 3D 看车重磅升级：从三款展车到可试驾的八车展厅](https://juejin.cn/post/7691003489858994211)
+50. [Redis键过期失效？这个坑我踩得明明白白](https://juejin.cn/post/7691297274821214208)
