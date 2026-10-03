@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-04 05:02:22
+> 更新时间：2026-10-04 06:22:29
 
 ## 热门文章
 
@@ -8,9 +8,9 @@
 2. [31岁罗福莉，晋升小米最高职级22级](https://juejin.cn/post/7691227873460125734)
 3. [千问偷偷进村修改 token plan 重置周期这个事大家都知道了吧？](https://juejin.cn/post/7691284233897656383)
 4. [Node.js 50个优势场景盘点：一个人单干，为啥我多数时候只用它](https://juejin.cn/post/7691227873459028006)
-5. [Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好](https://juejin.cn/post/7691345821564174363)
-6. [给页面加一个 JSON 编辑器：jsoneditor 的功能、配置和接入注意事项](https://juejin.cn/post/7691155417934594074)
-7. [KMP 又改了编译流程， Separate Compilation 禁止了 `commonMain` 的依赖穿透](https://juejin.cn/post/7691872111024586752)
+5. [KMP 又改了编译流程， Separate Compilation 禁止了 `commonMain` 的依赖穿透](https://juejin.cn/post/7691872111024586752)
+6. [Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好](https://juejin.cn/post/7691345821564174363)
+7. [给页面加一个 JSON 编辑器：jsoneditor 的功能、配置和接入注意事项](https://juejin.cn/post/7691155417934594074)
 8. [ai agent --- redis 缓存](https://juejin.cn/post/7691450666426286134)
 9. [MCP 技术分享：从协议握手到 LangGraph 多 Server 调用](https://juejin.cn/post/7691835382220111872)
 10. [LLM 面试必问的 8 个问题，答不上来直接淘汰](https://juejin.cn/post/7691530846752538639)
@@ -28,17 +28,17 @@
 22. [仓颉版 Tauri：基于轻量化线程与纯血鸿蒙架构的下一代 Web 混合开发利器](https://juejin.cn/post/7691155417935855642)
 23. [前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了](https://juejin.cn/post/7691835382221389824)
 24. [对于LangGraph的时间旅行底层机制的理解](https://juejin.cn/post/7691533849411829779)
-25. [微信上线AI帮写，朋友圈文案不用自己憋了](https://juejin.cn/post/7691450666418421823)
-26. [GitHub 日榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691231869480288302)
-27. [OmniGame 技术白皮书：从零依赖到 WebRTC P2P，重新定义网页小游戏的工程上限](https://juejin.cn/post/7691229375665143846)
-28. [半年翻倍！OpenAI再融300亿，估值冲到1.4万亿](https://juejin.cn/post/7691223664160112703)
-29. [Flutter Riverpod 3：统一打印 Provider 错误与自动重试日志](https://juejin.cn/post/7691219611107917875)
-30. [DeepSeek Harness 插件开发新手教程](https://juejin.cn/post/7691149921396834354)
-31. [Android 系统启动机制（九）：system_server 已经运行，为什么还不能说 Android 启动完成？](https://juejin.cn/post/7691126299994472488)
-32. [云端部署阿里 Qwen-Image-2.1 保姆级教程](https://juejin.cn/post/7691823753387376649)
-33. [我花3小时debug，就因为JavaScript这个隐式转换坑](https://juejin.cn/post/7691631700166770688)
-34. [Personal Agent爆火 - 它到底是个什么](https://juejin.cn/post/7691537889868021795)
-35. [DuckDB：一个正在改变数据分析方式的数据库](https://juejin.cn/post/7691498553260851240)
+25. [DuckDB：一个正在改变数据分析方式的数据库](https://juejin.cn/post/7691498553260851240)
+26. [微信上线AI帮写，朋友圈文案不用自己憋了](https://juejin.cn/post/7691450666418421823)
+27. [GitHub 日榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691231869480288302)
+28. [OmniGame 技术白皮书：从零依赖到 WebRTC P2P，重新定义网页小游戏的工程上限](https://juejin.cn/post/7691229375665143846)
+29. [半年翻倍！OpenAI再融300亿，估值冲到1.4万亿](https://juejin.cn/post/7691223664160112703)
+30. [Flutter Riverpod 3：统一打印 Provider 错误与自动重试日志](https://juejin.cn/post/7691219611107917875)
+31. [DeepSeek Harness 插件开发新手教程](https://juejin.cn/post/7691149921396834354)
+32. [Android 系统启动机制（九）：system_server 已经运行，为什么还不能说 Android 启动完成？](https://juejin.cn/post/7691126299994472488)
+33. [云端部署阿里 Qwen-Image-2.1 保姆级教程](https://juejin.cn/post/7691823753387376649)
+34. [我花3小时debug，就因为JavaScript这个隐式转换坑](https://juejin.cn/post/7691631700166770688)
+35. [Personal Agent爆火 - 它到底是个什么](https://juejin.cn/post/7691537889868021795)
 36. [containerd如何拉取镜像](https://juejin.cn/post/7691450666419142719)
 37. [Redis键过期失效？这个坑我踩得明明白白](https://juejin.cn/post/7691297274821214208)
 38. [只会 Vibe Coding 的程序员，为什么可能会被淘汰？](https://juejin.cn/post/7691234322111660067)

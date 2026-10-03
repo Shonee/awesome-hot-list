@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-04 05:02:38
+> 更新时间：2026-10-04 06:22:40
 
 ## 24 小时热榜
 
@@ -22,28 +22,28 @@
 16. [韩国五大商业银行遭黑客攻击 三家出现客户信息泄露](https://readhub.cn/topic/8wv0zJiRSum?tab=daily)
 17. [NEAR Intents：被盗资金已全额归还，团队将停止相关调查](https://readhub.cn/topic/8wtH4dOvNk3?tab=daily)
 18. [美乌重建投资基金敲定首个关键矿产项目](https://readhub.cn/topic/8wuMxgz7T8C?tab=daily)
-19. [消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片](https://readhub.cn/topic/8wuwh9SUOiM?tab=daily)
-20. [国际能源署：已释放约 3.25 亿桶战略石油储备](https://readhub.cn/topic/8wvkMV6M7oM?tab=daily)
+19. [国际能源署：已释放约 3.25 亿桶战略石油储备](https://readhub.cn/topic/8wvkMV6M7oM?tab=daily)
+20. [消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片](https://readhub.cn/topic/8wuwh9SUOiM?tab=daily)
 21. [6M 参数 DepthART 轻量深度估计模型可部署至 Jetson 等端侧设备](https://readhub.cn/topic/8wvDqKI4a5B?tab=daily)
-22. [Meta 开源 Muse Gadgets 支持开发者打造专属 AI 外设](https://readhub.cn/topic/8wurhvfOAaQ?tab=daily)
-23. [老年旅客淡季火车票将享「折上折」相关优惠车票明起陆续发售](https://readhub.cn/topic/8wuvGZJ0acV?tab=daily)
-24. [研究发现大模型后训练极端稀疏监督可提升推理性能](https://readhub.cn/topic/8wuw0YYYaGo?tab=daily)
+22. [研究发现大模型后训练极端稀疏监督可提升推理性能](https://readhub.cn/topic/8wuw0YYYaGo?tab=daily)
+23. [Meta 开源 Muse Gadgets 支持开发者打造专属 AI 外设](https://readhub.cn/topic/8wurhvfOAaQ?tab=daily)
+24. [老年旅客淡季火车票将享「折上折」相关优惠车票明起陆续发售](https://readhub.cn/topic/8wuvGZJ0acV?tab=daily)
 25. [雷诺预计 2026 年法国本土产量将因电动汽车增长超 25%](https://readhub.cn/topic/8wvXVIxQew5?tab=daily)
-26. [StartLux 开源决策模型公开评测成绩超 Jev 登顶榜首](https://readhub.cn/topic/8wuvzpnKPXg?tab=daily)
-27. [华为乾崑智驾累计辅助驾驶里程突破 160 亿公里](https://readhub.cn/topic/8wut7UGzdFh?tab=daily)
+26. [华为乾崑智驾累计辅助驾驶里程突破 160 亿公里](https://readhub.cn/topic/8wut7UGzdFh?tab=daily)
+27. [StartLux 开源决策模型公开评测成绩超 Jev 登顶榜首](https://readhub.cn/topic/8wuvzpnKPXg?tab=daily)
 28. [截至 8 月末我国 5G 基站总数超 519 万个](https://readhub.cn/topic/8wvJvYEKYXN?tab=daily)
 29. [普林斯顿大学团队实现毫秒级原子补充，同时保持量子比特相干性](https://readhub.cn/topic/8wvDqRTRDAR?tab=daily)
 30. [Tavus 发布实时视频交互模型，宣称其通过视频图灵测试](https://readhub.cn/topic/8wusPJUZWz9?tab=daily)
 
 ## 每日早报
 
-1. [10.02 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 12 条](https://readhub.cn/daily/2026-10-02)
-2. [10.01 DeepSeek 开源昇腾基础组件 16 条](https://readhub.cn/daily/2026-10-01)
-3. [09.30 OpenAI 推出全天候自主智能体 Dot、GPT-6.1 Sol 模型 13 条](https://readhub.cn/daily/2026-09-30)
-4. [09.29 Anthropic 推出低成本 AI 模型 Sonnet 5.5 13 条](https://readhub.cn/daily/2026-09-29)
-5. [09.28 OpenAI 因 Agent 多次越权逃逸事件暂停相关训练 9 条](https://readhub.cn/daily/2026-09-28)
-6. [09.27 AI 门萨智商测试获满分 151 分 超过绝大多数人类 8 条](https://readhub.cn/daily/2026-09-27)
-7. [09.26 DeepSeek Harness 桌面预览版已流出，官方暂未正式上线 11 条](https://readhub.cn/daily/2026-09-26)
+1. [10.03 腾讯与甲骨文签订五年协议 可获得约 10 万颗高端 AI 芯片 11 条](https://readhub.cn/daily/2026-10-03)
+2. [10.02 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 12 条](https://readhub.cn/daily/2026-10-02)
+3. [10.01 DeepSeek 开源昇腾基础组件 16 条](https://readhub.cn/daily/2026-10-01)
+4. [09.30 OpenAI 推出全天候自主智能体 Dot、GPT-6.1 Sol 模型 13 条](https://readhub.cn/daily/2026-09-30)
+5. [09.29 Anthropic 推出低成本 AI 模型 Sonnet 5.5 13 条](https://readhub.cn/daily/2026-09-29)
+6. [09.28 OpenAI 因 Agent 多次越权逃逸事件暂停相关训练 9 条](https://readhub.cn/daily/2026-09-28)
+7. [09.27 AI 门萨智商测试获满分 151 分 超过绝大多数人类 8 条](https://readhub.cn/daily/2026-09-27)
 
 ## AI 资讯
 
@@ -52,8 +52,8 @@
 3. [对谈 OpenAI 首席研究官：不会因为黑客事件而自废武功](https://www.mittrchina.com/news/detail/17047)
 4. [别被表象骗了：大语言模型并不会推理](https://www.mittrchina.com/news/detail/17048)
 5. [随着 AI 智能体推高 Mac 隐私风险，Apple 收紧 macOS 完全磁盘访问控制](https://aibars.net/zh/news/894364376944087040)
-6. [2 万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停](https://www.huxiu.com/article/4895291.html?f=rss)
-7. [华为称昇腾 AI 芯片中国市场份额达 50%](https://www.gelonghui.com/live/2697612)
-8. [OpenAI 安全部门员工辞职，呼吁采取核电级别的防护措施](https://wallstreetcn.com/livenews/3173900)
-9. [中科曙光 8000 助力攻克火箭回收技术难题：国产异构计算平台再创纪录](https://news.mydrivers.com/1/1155/1155287.htm)
-10. [和宇树并列「六小龙」，云深处再度亏损：人形能否复制四足打法？](https://www.huxiu.com/article/4895296.html?f=rss)
+6. [ARC Prize 联合创始人 François Chollet：OpenAI 基本上将 AGI 的进展倒退了五到十年](https://www.techradar.com/pro/quote-of-the-day-by-arc-prize-co-founder-francois-chollet-openai-basically-set-back-progress-to-agi-by-five-to-10-years-critiquing-the-industrys-overindulgence-in-large-language-models)
+7. [Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think](https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/)
+8. [2 万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停](https://www.huxiu.com/article/4895291.html?f=rss)
+9. [华为称昇腾 AI 芯片中国市场份额达 50%](https://www.gelonghui.com/live/2697612)
+10. [OpenAI 安全部门员工辞职，呼吁采取核电级别的防护措施](https://wallstreetcn.com/livenews/3173900)
