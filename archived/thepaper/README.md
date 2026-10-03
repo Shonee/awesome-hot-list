@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-04 02:43:26
+> 更新时间：2026-10-04 03:54:07
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [169金89银83铜收官！中国队创境外参加亚运会最佳战绩](https://www.thepaper.cn/newsDetail_forward_34195973)
 14. [外交部：中方欢迎普京总统出席APEC深圳峰会](https://www.thepaper.cn/newsDetail_forward_34195890)
 15. [10月3日全国多处景区发布限流公告](https://www.thepaper.cn/newsDetail_forward_34195515)
-16. [从工业遗存到二次元“痛岛”，这片江心之地如何更年轻？](https://www.thepaper.cn/newsDetail_forward_34194432)
-17. [兵韬志略｜俄军扩编至244万余人，“数量优势”能否转化为战场优势](https://www.thepaper.cn/newsDetail_forward_34195404)
-18. [楼市“金九”兑现：核心城市二手房成交持续放量，新房重现“日光”](https://www.thepaper.cn/newsDetail_forward_34194913)
-19. [商务部就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问](https://www.thepaper.cn/newsDetail_forward_34194277)
-20. [解读｜选前暂停领事服务，特朗普政府能否影响巴西大选？](https://www.thepaper.cn/newsDetail_forward_34194388)
+16. [兵韬志略｜俄军扩编至244万余人，“数量优势”能否转化为战场优势](https://www.thepaper.cn/newsDetail_forward_34195404)
+17. [湖南衡阳通报“女子驾驶摩托别车遭脚踹”，涉事双方均被依法处理](https://www.thepaper.cn/newsDetail_forward_34195825)
+18. [从工业遗存到二次元“痛岛”，这片江心之地如何更年轻？](https://www.thepaper.cn/newsDetail_forward_34194432)
+19. [来论｜2026年诺贝尔物理学奖，我为何看好“学习、记忆和计算的统计物理”](https://www.thepaper.cn/newsDetail_forward_34195914)
+20. [楼市“金九”兑现：核心城市二手房成交持续放量，新房重现“日光”](https://www.thepaper.cn/newsDetail_forward_34194913)
