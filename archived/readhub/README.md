@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-05 06:11:47
+> 更新时间：2026-10-05 07:38:01
 
 ## 24 小时热榜
 
@@ -20,8 +20,8 @@
 14. [中国银行成功协助韩国产业银行发行 30 亿元点心债](https://readhub.cn/topic/8wwfAWKecxY?tab=daily)
 15. [国庆假期前三天 海南离岛免税购物金额超 3.5 亿元](https://readhub.cn/topic/8wwbFPoW8wP?tab=daily)
 16. [厄瓜多尔一国有输油管道系统因泵站火灾暂停运营](https://readhub.cn/topic/8wwgc4A9jXX?tab=daily)
-17. [马斯克称 Robotaxi 运营延长至 23 点：正攻克夜间宠物识别难题](https://readhub.cn/topic/8wweSmRIhbu?tab=daily)
-18. [Jev 火了，NeurIPS 2025 的 ConfTuner 早已探索相似思路](https://readhub.cn/topic/8wxVKtsM3u9?tab=daily)
+17. [Jev 火了，NeurIPS 2025 的 ConfTuner 早已探索相似思路](https://readhub.cn/topic/8wxVKtsM3u9?tab=daily)
+18. [马斯克称 Robotaxi 运营延长至 23 点：正攻克夜间宠物识别难题](https://readhub.cn/topic/8wweSmRIhbu?tab=daily)
 19. [港交所行政总裁称将研究推出人民币计价黄金期货](https://readhub.cn/topic/8wwbFKetoTk?tab=daily)
 20. [我国首个海上注碳增气平台主体建造完工](https://readhub.cn/topic/8wwYjirwXxZ?tab=daily)
 
@@ -40,10 +40,10 @@
 1. [诺奖得主 Eric Betzig：用 AlphaFold 开发新药会失败，生物学教科书是幻觉](https://www.mittrchina.com/news/detail/17053)
 2. [OpenAI 基金会要花 250 亿美元做科研，首批资助面向癌症疫苗和阿尔茨海默症](https://www.mittrchina.com/news/detail/17052)
 3. [AI 一年进展或压缩到五周，辛顿、Bengio 等 22 位顶尖学者联名警告：「智能爆炸」比想象中更近](https://www.mittrchina.com/news/detail/17050)
-4. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://www.gelonghui.com/live/2697935)
-5. [技嘉发布 AI Top 100 B850 桌面 AI 工作站 支持 2350 亿参数模型](https://notebook.cnmo.com/news/819721.html)
-6. [AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse](https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months)
-7. [Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型](https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models)
-8. [具身大脑榜单出炉：GPT 全球第一，阿里与中兴并列国内第一](https://news.mydrivers.com/1/1155/1155380.htm)
-9. [20% 的美国打工人把活儿甩给 AI 被替代的是任务，不是岗位](https://www.pconline.com.cn/focus/2180/21804751.html)
-10. [特斯拉 Robotaxi 延长至 23 时 夜间识别仍受限](https://smartcar.cnmo.com/news/819720.html)
+4. [华为首款「韬定律逻辑折叠」芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代](https://www.ithome.com/1/009/739.htm)
+5. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://www.gelonghui.com/live/2697935)
+6. [技嘉发布 AI Top 100 B850 桌面 AI 工作站 支持 2350 亿参数模型](https://notebook.cnmo.com/news/819721.html)
+7. [AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse](https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months)
+8. [Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型](https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models)
+9. [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)
+10. [具身大脑榜单出炉：GPT 全球第一，阿里与中兴并列国内第一](https://news.mydrivers.com/1/1155/1155380.htm)
