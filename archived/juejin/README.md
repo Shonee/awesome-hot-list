@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-04 07:23:04
+> 更新时间：2026-10-04 08:17:14
 
 ## 热门文章
 
@@ -13,21 +13,21 @@
 7. [给页面加一个 JSON 编辑器：jsoneditor 的功能、配置和接入注意事项](https://juejin.cn/post/7691155417934594074)
 8. [ai agent --- redis 缓存](https://juejin.cn/post/7691450666426286134)
 9. [MCP 技术分享：从协议握手到 LangGraph 多 Server 调用](https://juejin.cn/post/7691835382220111872)
-10. [LLM 面试必问的 8 个问题，答不上来直接淘汰](https://juejin.cn/post/7691530846752538639)
-11. [2026 年 AI Agent 面试到底考什么？这套题库覆盖了 90% 的高频考点](https://juejin.cn/post/7691231137718353920)
-12. [Go 写业务，Rust 扛底盘：一套可落地的混合架构](https://juejin.cn/post/7691152001448820746)
+10. [Go 写业务，Rust 扛底盘：一套可落地的混合架构](https://juejin.cn/post/7691152001448820746)
+11. [LLM 面试必问的 8 个问题，答不上来直接淘汰](https://juejin.cn/post/7691530846752538639)
+12. [2026 年 AI Agent 面试到底考什么？这套题库覆盖了 90% 的高频考点](https://juejin.cn/post/7691231137718353920)
 13. [Personal Agent 火了，新酿还是旧酒？](https://juejin.cn/post/7691717198448148518)
 14. [「vConsole MCP🛠️」我让 AI 直接看见任何 H5 的日志和请求帮你 debug](https://juejin.cn/post/7691270105432784931)
 15. [为了脱离前端鄙视链，于是自己写个框架 - React 党看完沉默了](https://juejin.cn/post/7691201978224787498)
 16. [GitHub 日榜趋势速报 | 2026-10-01](https://juejin.cn/post/7691156905345679398)
-17. [从乱码到高精度检索：探矿业务中 TXT、Word、PDF 与网页的 RAG 清洗之道](https://juejin.cn/post/7691512357834768430)
-18. [pnpm 12 升级实测](https://juejin.cn/post/7691498553261342760)
-19. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
-20. [微信上线AI帮写，朋友圈文案不用自己憋了](https://juejin.cn/post/7691450666418421823)
-21. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
-22. [Gemini 4 Argon 对比 GPT-6 Astra：百万 Token 输出很诱人，但我劝你先别迁编程工作流](https://juejin.cn/post/7691219326316380175)
-23. [仓颉版 Tauri：基于轻量化线程与纯血鸿蒙架构的下一代 Web 混合开发利器](https://juejin.cn/post/7691155417935855642)
-24. [前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了](https://juejin.cn/post/7691835382221389824)
+17. [前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了](https://juejin.cn/post/7691835382221389824)
+18. [从乱码到高精度检索：探矿业务中 TXT、Word、PDF 与网页的 RAG 清洗之道](https://juejin.cn/post/7691512357834768430)
+19. [pnpm 12 升级实测](https://juejin.cn/post/7691498553261342760)
+20. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
+21. [微信上线AI帮写，朋友圈文案不用自己憋了](https://juejin.cn/post/7691450666418421823)
+22. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
+23. [Gemini 4 Argon 对比 GPT-6 Astra：百万 Token 输出很诱人，但我劝你先别迁编程工作流](https://juejin.cn/post/7691219326316380175)
+24. [仓颉版 Tauri：基于轻量化线程与纯血鸿蒙架构的下一代 Web 混合开发利器](https://juejin.cn/post/7691155417935855642)
 25. [对于LangGraph的时间旅行底层机制的理解](https://juejin.cn/post/7691533849411829779)
 26. [DuckDB：一个正在改变数据分析方式的数据库](https://juejin.cn/post/7691498553260851240)
 27. [GitHub 日榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691231869480288302)
@@ -51,6 +51,6 @@
 45. [RushWind Admin — 用 Rust 写的企业级中后台，开源了](https://juejin.cn/post/7691203140998283314)
 46. [从 0 做 Agent 我踩过的坑：14 个设计决策，与一个通用内核的四种复利](https://juejin.cn/post/7691165634236153894)
 47. [我开源了 inspect-devtools —— 让 AI 终于能"看见"你屏幕上的组件](https://juejin.cn/post/7691160156301934592)
-48. [Claude Code 103 秒删掉 4.8 万个文件之后，我把自己的仓库"删"了一遍：git 能救的比你想的少](https://juejin.cn/post/7691151105850998822)
-49. [Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透](https://juejin.cn/post/7691898006993010698)
-50. [Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题](https://juejin.cn/post/7691876916195016719)
+48. [Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透](https://juejin.cn/post/7691898006993010698)
+49. [Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题](https://juejin.cn/post/7691876916195016719)
+50. [Vue的v-if和v-for混用居然是个天坑](https://juejin.cn/post/7691835382221111296)
