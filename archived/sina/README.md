@@ -1,28 +1,28 @@
 # 新浪热榜
 
-> 更新时间：2026-10-05 02:10:07
+> 更新时间：2026-10-05 03:39:34
 
 ## 新闻热榜
 
-1. [日本将召集第222届临时国会](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuassz6932105.shtml)
-2. [这个反华议员，被特朗普“开盒”了](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3596109.shtml)
-3. [花旗：欧元兑美元存在跌向1.0850的风险。](https://finance.sina.com.cn/7x24/2026-10-02/doc-inituncp4852446.shtml)
-4. [白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuawyx6813036.shtml)
-5. [民进党当局危险驱离大陆渔船，挑衅必须付出应有代价](https://mil.news.sina.com.cn/2026-10-04/doc-iniuahcc5298773.shtml)
-6. [以色列总理内塔尼亚胡：我们的敌人企图威胁我国在地中海的港口与海域，我们绝不会允许这种情况发生。](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuassz6936993.shtml)
-7. [默茨会见泽连斯基，现场响起警报声和爆炸声，俄已连续四日轰炸基辅大桥，为冲突以来首次，泽连斯基称将不顾特朗普劝阻，加大打击俄炼油厂](https://news.sina.com.cn/w/2026-10-04/doc-iniuanma0228593.shtml)
+1. [这个反华议员，被特朗普“开盒”了](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3596109.shtml)
+2. [市场消息：以色列总理内塔尼亚胡下令国家安全委员会，针对迪拜航空劫机未遂事件，评估外国民航安全状况。](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuawyw0043040.shtml)
+3. [民进党当局危险驱离大陆渔船，挑衅必须付出应有代价](https://mil.news.sina.com.cn/2026-10-04/doc-iniuahcc5298773.shtml)
+4. [日本将召集第222届临时国会](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuassz6932105.shtml)
+5. [白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuawyx6813036.shtml)
+6. [默茨会见泽连斯基，现场响起警报声和爆炸声，俄已连续四日轰炸基辅大桥，为冲突以来首次，泽连斯基称将不顾特朗普劝阻，加大打击俄炼油厂](https://news.sina.com.cn/w/2026-10-04/doc-iniuanma0228593.shtml)
+7. [以色列总理内塔尼亚胡：我们的敌人企图威胁我国在地中海的港口与海域，我们绝不会允许这种情况发生。](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuassz6936993.shtml)
 8. [美财长贝森特甩锅：美国“黄金时代”没到，全怪伊朗](https://news.sina.com.cn/w/2026-10-04/doc-iniuanmc7002000.shtml)
 9. [“成都天价回锅肉3片卖105”登上热搜，商家回应：猪肉来自连山地区以粮食喂养的生猪，一头体重四五百斤的猪仅能产出几片此种肉片](https://news.sina.com.cn/s/2026-10-04/doc-initzzvc3787067.shtml)
 10. [央视主播上新](https://news.sina.com.cn/c/2026-10-04/doc-iniuanmc6969977.shtml)
-11. [日本代表队领队：日本拿到了更多的银铜牌，但中国在金牌上碾压我们](https://news.sina.com.cn/zx/2026-10-04/doc-iniuanmc6966223.shtml)
-12. [订单排到2027年！全球新“风口”，来了](https://news.sina.com.cn/c/2026-10-04/doc-initzerp4152846.shtml)
-13. [亚运国足主帅：这一代中国球员有很大机会打进世界杯](https://news.sina.com.cn/c/2026-10-04/doc-iniuankz5220184.shtml)
-14. [驻冲绳美国士兵抢劫杀害一名女子，高市早苗：令人深感遗憾，小泉进次郎发声](https://news.sina.com.cn/w/2026-10-04/doc-initzvpf3893308.shtml)
-15. [环球一周展望：美欧央行纪要料凸显通胀忧虑 惟加息紧迫性已降温](https://finance.sina.com.cn/world/2026-10-04/doc-iniuassv3513119.shtml)
+11. [订单排到2027年！全球新“风口”，来了](https://news.sina.com.cn/c/2026-10-04/doc-initzerp4152846.shtml)
+12. [亚运国足主帅：这一代中国球员有很大机会打进世界杯](https://news.sina.com.cn/c/2026-10-04/doc-iniuankz5220184.shtml)
+13. [驻冲绳美国士兵抢劫杀害一名女子，高市早苗：令人深感遗憾，小泉进次郎发声](https://news.sina.com.cn/w/2026-10-04/doc-initzvpf3893308.shtml)
+14. [香港名媛碎尸案核心导火索曝光](https://news.sina.com.cn/c/2026-10-04/doc-initzkxm4055351.shtml)
+15. [网红“慧慧饱饱”被封号：一年内多次翻车，这次平台直接清空了她的主页，巅峰期年收入近千万，单条广告报价10万元](https://news.sina.com.cn/s/2026-10-04/doc-initzzvc3773738.shtml)
 16. [惨剧！年轻中国夫妻在澳洲当场身亡！8天前刚过完结婚纪念日……警方呼吁提供线索](https://news.sina.com.cn/s/2026-10-04/doc-initzzvf5392477.shtml)
-17. [知名地标霍莱海蚀拱门，确认坍塌，“已沉入太平洋”](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3586224.shtml)
-18. [网红“慧慧饱饱”被封号：一年内多次翻车，这次平台直接清空了她的主页，巅峰期年收入近千万，单条广告报价10万元](https://news.sina.com.cn/s/2026-10-04/doc-initzzvc3773738.shtml)
-19. [香港名媛碎尸案核心导火索曝光](https://news.sina.com.cn/c/2026-10-04/doc-initzkxm4055351.shtml)
+17. [日本代表队领队：日本拿到了更多的银铜牌，但中国在金牌上碾压我们](https://news.sina.com.cn/zx/2026-10-04/doc-iniuanmc6966223.shtml)
+18. [知名地标霍莱海蚀拱门，确认坍塌，“已沉入太平洋”](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3586224.shtml)
+19. [环球一周展望：美欧央行纪要料凸显通胀忧虑 惟加息紧迫性已降温](https://finance.sina.com.cn/world/2026-10-04/doc-iniuassv3513119.shtml)
 
 ## 财经热榜
 

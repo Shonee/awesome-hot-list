@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-05 02:09:56
+> 更新时间：2026-10-05 03:39:20
 
 ## 24 小时热榜
 
@@ -18,12 +18,12 @@
 12. [何恺明团队新系统让 Claude 在 AGI 测试拿满分 GPT 获 99 分](https://readhub.cn/topic/8wxFytcYhDo?tab=daily)
 13. [韩国金融业接连遭网络攻击，监管机构要求全面排查](https://readhub.cn/topic/8wwqygiJJmB?tab=daily)
 14. [厄瓜多尔一国有输油管道系统因泵站火灾暂停运营](https://readhub.cn/topic/8wwgc4A9jXX?tab=daily)
-15. [国庆假期前三天 海南离岛免税购物金额超 3.5 亿元](https://readhub.cn/topic/8wwbFPoW8wP?tab=daily)
-16. [中国银行成功协助韩国产业银行发行 30 亿元点心债](https://readhub.cn/topic/8wwfAWKecxY?tab=daily)
+15. [中国银行成功协助韩国产业银行发行 30 亿元点心债](https://readhub.cn/topic/8wwfAWKecxY?tab=daily)
+16. [国庆假期前三天 海南离岛免税购物金额超 3.5 亿元](https://readhub.cn/topic/8wwbFPoW8wP?tab=daily)
 17. [马斯克称 Robotaxi 运营延长至 23 点：正攻克夜间宠物识别难题](https://readhub.cn/topic/8wweSmRIhbu?tab=daily)
 18. [港交所行政总裁称将研究推出人民币计价黄金期货](https://readhub.cn/topic/8wwbFKetoTk?tab=daily)
-19. [我国首个海上注碳增气平台主体建造完工](https://readhub.cn/topic/8wwYjirwXxZ?tab=daily)
-20. [Jev 火了，NeurIPS 2025 的 ConfTuner 早已探索相似思路](https://readhub.cn/topic/8wxVKtsM3u9?tab=daily)
+19. [Jev 火了，NeurIPS 2025 的 ConfTuner 早已探索相似思路](https://readhub.cn/topic/8wxVKtsM3u9?tab=daily)
+20. [我国首个海上注碳增气平台主体建造完工](https://readhub.cn/topic/8wwYjirwXxZ?tab=daily)
 
 ## 每日早报
 
@@ -37,13 +37,13 @@
 
 ## AI 资讯
 
-1. [诺奖得主 Eric Betzig：用 AlphaFold 开发新药会失败，生物学教科书是幻觉](https://www.mittrchina.com/news/detail/17053)
-2. [OpenAI 基金会要花 250 亿美元做科研，首批资助面向癌症疫苗和阿尔茨海默症](https://www.mittrchina.com/news/detail/17052)
-3. [AI 一年进展或压缩到五周，辛顿、Bengio 等 22 位顶尖学者联名警告：「智能爆炸」比想象中更近](https://www.mittrchina.com/news/detail/17050)
-4. [技嘉发布 AI Top 100 B850 桌面 AI 工作站 支持 2350 亿参数模型](https://notebook.cnmo.com/news/819721.html)
-5. [Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型](https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models)
-6. [具身大脑榜单出炉：GPT 全球第一，阿里与中兴并列国内第一](https://news.mydrivers.com/1/1155/1155380.htm)
-7. [20% 的美国打工人把活儿甩给 AI 被替代的是任务，不是岗位](https://www.pconline.com.cn/focus/2180/21804751.html)
-8. [特斯拉 Robotaxi 延长至 23 时 夜间识别仍受限](https://smartcar.cnmo.com/news/819720.html)
-9. [System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码](https://www.ithome.com/1/009/669.htm)
-10. [DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心](https://www.ithome.com/1/009/701.htm)
+1. [诺奖得主 Eric Betzig：用 AlphaFold 开发新药会失败，生物学教科书是幻觉 诺奖得主 Eric Betzig 判断，用 AlphaFold 开发新药一定会失败，称这些药企「正在无谓地烧钱」。他指出，美国加州湾区有一批公司正试图根据 AlphaFold 测出的蛋白质结构做药物研发，并预言使用该工具的药企会在五年内倒闭。他引用曾任默克研究负责人的 Roger Perlmutter 的话说，假如能找到一款有效的药其实那是奇迹，因为人类根本不知道自己在做什么，使用现有工具无法真正理解细胞这个复杂动态系统，因此药物是否能够成功带有很大的运气成分。 麻省理工科技评论 5 小时前](https://www.mittrchina.com/news/detail/17053)
+2. [OpenAI 基金会要花 250 亿美元做科研，首批资助面向癌症疫苗和阿尔茨海默症 OpenAI 的非营利母体 OpenAI 基金会宣布了一批总额超过 1.25 亿美元的资助，用于建设公开的健康与生命科学数据。重组完成时，基金会持有的 OpenAI 集团股权估值约 1,300 亿美元，250 亿美元将作为首期承诺发放，重点投向两个领域：健康与攻克疾病，以及 AI 韧性（降低先进 AI 风险的技术方案）。要评价这家基金会在历史长河中的真正作用，还须观察这些开放数据能否产出可验证的科研成果、是否可被 OpenAI 以外的团队广泛使用，以及基金会与 OpenAI 集团之间的边界能否通过更透明的治理披露接受外部检验。 麻省理工科技评论 5 小时前](https://www.mittrchina.com/news/detail/17052)
+3. [AI 一年进展或压缩到五周，辛顿、Bengio 等 22 位顶尖学者联名警告：「智能爆炸」比想象中更近 剑桥大学人工智能科学与政策项目（CASP）发布了一篇由 22 位 AI 领域前沿专家联合撰写的论文《如果自动化 AI 研发触发「智能爆炸」会怎样》。在论文中，他们讨论了一个核心问题：如果 AI 逐渐接管 AI 研发流程，更强的模型帮助开发下一代模型，下一代模型又进一步提高研发效率，这种循环是否可能让 AI 进步突然加速，把原本需要数年完成的技术进展压缩到几个月，甚至更短。后来，这类讨论逐渐发展出递归自我改进（Recursive Self-Improvement，RSI）的概念：AI 能力提高后，进一步增强自身参与 AI 研发的能力，从而推动下一轮改进。 麻省理工科技评论 10 小时前](https://www.mittrchina.com/news/detail/17050)
+4. [技嘉发布 AI Top 100 B850 桌面 AI 工作站 支持 2350 亿参数模型 技嘉正式发布 AI Top 100 B850 高性能桌面系统，将工作站级人工智能算力带入传统桌面平台。第一种配置为单张 NVIDIA GeForce RTX 5090，可利用 CUDA 生态支持本地大语言模型、生成式 AI 以及代理式 AI 应用，在运行 320 亿参数模型时，生成速度最高可达每秒 64.9 个 Token。两张显卡可提供总计 64GB 显存容量，将 RTX 5090 的 32GB 显存容量提升一倍，并能够支持高达 2350 亿参数模型的本地推理，以及最高 1100 亿参数模型的微调任务。 手机中国 6 小时前](https://notebook.cnmo.com/news/819721.html)
+5. [AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse To sustain current investment, the AI industry would need roughly $6 trillion in annual revenue, assuming infrastructure consumes about 25% of sales each year. The largest portion, about $4.2 trillion, would come from new products in search, advertising, autonomous systems and physical AI, many of which barely exist today. Enterprise productivity ranks second, adding $1 trillion to $1.4 trillion as companies rely on AI for software development, sales, marketing, customer support and IT operations. techradar.com 1 小时前](https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months)
+6. [Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型 Bitdefender 发布了 AI Guardian 的公测版，这是一款 macOS 安全工具，可在自主软件代理执行操作前对其行为进行检查。AI Guardian 在公测期间免费，首个版本仅面向英语和 macOS 用户。该公司表示，AI Guardian 最终将推广到其他操作系统，其代理安全产品线已包含另外两款产品。 techradar.com 4 小时前](https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models)
+7. [具身大脑榜单出炉：GPT 全球第一，阿里与中兴并列国内第一 SuperCLUE 最新具身大脑评测榜单正式公布，用于衡量各大 AI 模型作为机器人「大脑」的实际水平。OpenAI 的 GPT-6 Astra 拿下综合全球第一，国内阿里、中兴并列国内榜单第一。榜单也显示，国内头部选手与 GPT 在总分上仍有差距。 快科技 5 小时前](https://news.mydrivers.com/1/1155/1155380.htm)
+8. [20% 的美国打工人把活儿甩给 AI 被替代的是任务，不是岗位 五分之一的美国就业者说，AI 现在已经基本或完全接手了至少一项，过去他们会把这些活儿交给同事或承包商。AI 铺得非常广，几乎每类知识工作里都有它，却扎得很浅，很少有一项活儿是它能包圆的。20% 呈现的只是这 10 项任务的一个切面：一份工作该由谁做，正在员工、同事、承包商和 AI 之间重组。 太平洋电脑网 6 小时前](https://www.pconline.com.cn/focus/2180/21804751.html)
+9. [特斯拉 Robotaxi 延长至 23 时 夜间识别仍受限 特斯拉宣布，美国得克萨斯州奥斯汀 Robotaxi 服务时间延长 1 小时，结束运营时间由 22 时调整至 23 时。马斯克表示，限制车辆进一步延长夜间运营的主要问题，是确保系统能够识别黑暗环境中难以看清的宠物，例如灰色路面上的灰色幼猫。背景方面，特斯拉 Robotaxi 于 2025 年 6 月在奥斯汀上线时，应用可在 6 时至次日 0 时接受订单。 手机中国 6 小时前](https://smartcar.cnmo.com/news/819720.html)
+10. [System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码 贡献者必须确认提交内容中不存在任何 AI 生成的代码、注释以及描述，否则无法按要求提交贡献。其维护者发现，大量缺乏经验的开发者借助 AI 提交代码后，项目维护团队需要投入大量时间审查难以维护的 AI 生成代码，代码审查成本最终超过了项目能够承受的范围。对于 System76 和 Ladybird 而言，问题并不在于「AI 生成的代码不能用」，而是 AI 生成代码进入大型开源项目后，仍需要由人类维护者长期承担理解、审查、测试、维护成本。 IT 之家 11 小时前](https://www.ithome.com/1/009/669.htm)
