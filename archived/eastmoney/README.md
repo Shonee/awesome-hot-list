@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-05 03:39:47
+> 更新时间：2026-10-05 04:51:25
 
 ## 股票人气榜
 
@@ -23,4 +23,4 @@
 17. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
 18. [中船科技 (600072)](https://quote.eastmoney.com/sh600072.html)
 19. [南华生物 (000504)](https://quote.eastmoney.com/sz000504.html)
-20. [五方光电 (002962)](https://quote.eastmoney.com/sz002962.html)
+20. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
