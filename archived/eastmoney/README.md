@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-05 05:24:36
+> 更新时间：2026-10-05 06:13:08
 
 ## 股票人气榜
 
@@ -22,5 +22,5 @@
 16. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
 17. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
 18. [中船科技 (600072)](https://quote.eastmoney.com/sh600072.html)
-19. [南华生物 (000504)](https://quote.eastmoney.com/sz000504.html)
-20. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+19. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+20. [南华生物 (000504)](https://quote.eastmoney.com/sz000504.html)

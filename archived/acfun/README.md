@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-05 05:23:57
+> 更新时间：2026-10-05 06:11:35
 
 ## 日榜
 
@@ -40,19 +40,19 @@
 34. [本·惠特克 vs 康纳·华莱士](https://www.acfun.cn/v/ac48890144)
 35. [雾奈哟](https://www.acfun.cn/v/ac48890060)
 36. [小雨被敌人偷袭啦Ryona](https://www.acfun.cn/v/ac48890733)
-37. [【东方】Selfish Girl【ガネメ feat.薛南】](https://www.acfun.cn/v/ac48886663)
-38. [chachacha](https://www.acfun.cn/v/ac48889489)
-39. [兔牙](https://www.acfun.cn/v/ac48889958)
-40. [AEW Collision #164 2026.10.03](https://www.acfun.cn/v/ac48889736)
-41. [名侦探光之美少女S01E36](https://www.acfun.cn/v/ac48890105)
-42. [曼尼·帕奎奥 vs 埃里克·莫拉莱斯 I（HBO全场视频）](https://www.acfun.cn/v/ac48891102)
-43. [绝顶性感牛仔短裤地下车库女团禁舞/ Wiggle Wiggle舞蹈翻跳](https://www.acfun.cn/v/ac48891175)
-44. [作死小能手](https://www.acfun.cn/v/ac48889403)
-45. [去孔子学院当志愿者啦！](https://www.acfun.cn/v/ac48884372)
-46. [【口袋音乐键盘】世界人民大团结《国际歌》](https://www.acfun.cn/v/ac48889398)
-47. [️ 带着全新粉色三居室帐篷拖车，在雨中露营](https://www.acfun.cn/v/ac48889976)
-48. [我们很少用冰冻三尺形容一个视频](https://www.acfun.cn/v/ac48889565)
-49. [冒牌行星_不要关注！都不要关注！越关注它越大！ 羊在左兔在右，小熊匆匆齐来到_全片使用@小云雀ai](https://www.acfun.cn/v/ac48890813)
+37. [绝顶性感牛仔短裤地下车库女团禁舞/ Wiggle Wiggle舞蹈翻跳](https://www.acfun.cn/v/ac48891175)
+38. [【东方】Selfish Girl【ガネメ feat.薛南】](https://www.acfun.cn/v/ac48886663)
+39. [去孔子学院当志愿者啦！](https://www.acfun.cn/v/ac48884372)
+40. [chachacha](https://www.acfun.cn/v/ac48889489)
+41. [兔牙](https://www.acfun.cn/v/ac48889958)
+42. [名侦探光之美少女S01E36](https://www.acfun.cn/v/ac48890105)
+43. [AEW Collision #164 2026.10.03](https://www.acfun.cn/v/ac48889736)
+44. [曼尼·帕奎奥 vs 埃里克·莫拉莱斯 I（HBO全场视频）](https://www.acfun.cn/v/ac48891102)
+45. [作死小能手](https://www.acfun.cn/v/ac48889403)
+46. [绝顶性感黑丝Hush舞蹈翻跳](https://www.acfun.cn/v/ac48891179)
+47. [【口袋音乐键盘】世界人民大团结《国际歌》](https://www.acfun.cn/v/ac48889398)
+48. [️ 带着全新粉色三居室帐篷拖车，在雨中露营](https://www.acfun.cn/v/ac48889976)
+49. [我们很少用冰冻三尺形容一个视频](https://www.acfun.cn/v/ac48889565)
 50. [3分钟唱完新三国70个名场面](https://www.acfun.cn/v/ac48889800)
 
 ## 三日榜
@@ -69,11 +69,11 @@
 10. [让你永远都牵着我走 你愿意吗](https://www.acfun.cn/v/ac48888496)
 11. [【颜音】『白色声音』靡言 主题曲](https://www.acfun.cn/v/ac48888095)
 12. [【投稿六周年纪念】人間だった | 曾生为人 [翻唱]](https://www.acfun.cn/v/ac48885194)
-13. [完全疯了！！！](https://www.acfun.cn/v/ac48889106)
-14. [人间琴悠扬，姑娘把谁记心上](https://www.acfun.cn/v/ac48885884)
-15. [黑暗与死亡的化身，玩弄生命的大师，他就是不死之王纳迦什-《全战：战锤3》新DLC-终焉之主简介](https://www.acfun.cn/v/ac48887804)
-16. [【东方】推特东方小视频选集 第274期](https://www.acfun.cn/v/ac48887727)
-17. [“我嚟同你玩！”](https://www.acfun.cn/v/ac48888192)
+13. [黑暗与死亡的化身，玩弄生命的大师，他就是不死之王纳迦什-《全战：战锤3》新DLC-终焉之主简介](https://www.acfun.cn/v/ac48887804)
+14. [完全疯了！！！](https://www.acfun.cn/v/ac48889106)
+15. [人间琴悠扬，姑娘把谁记心上](https://www.acfun.cn/v/ac48885884)
+16. [“我嚟同你玩！”](https://www.acfun.cn/v/ac48888192)
+17. [【东方】推特东方小视频选集 第274期](https://www.acfun.cn/v/ac48887727)
 18. [好天气假象](https://www.acfun.cn/v/ac48879604)
 19. [情匪得已（87）](https://www.acfun.cn/v/ac48883844)
 20. [网络上常见的热门短视频集锦   第三千四百六十四期](https://www.acfun.cn/v/ac48885670)
@@ -153,8 +153,8 @@
 41. [《花月成双》竖屏](https://www.acfun.cn/v/ac48881839)
 42. [【投稿六周年纪念】人間だった | 曾生为人 [翻唱]](https://www.acfun.cn/v/ac48885194)
 43. [假如我有一项超能力](https://www.acfun.cn/v/ac48881595)
-44. [完全疯了！！！](https://www.acfun.cn/v/ac48889106)
-45. [黑暗与死亡的化身，玩弄生命的大师，他就是不死之王纳迦什-《全战：战锤3》新DLC-终焉之主简介](https://www.acfun.cn/v/ac48887804)
+44. [黑暗与死亡的化身，玩弄生命的大师，他就是不死之王纳迦什-《全战：战锤3》新DLC-终焉之主简介](https://www.acfun.cn/v/ac48887804)
+45. [完全疯了！！！](https://www.acfun.cn/v/ac48889106)
 46. [人间琴悠扬，姑娘把谁记心上](https://www.acfun.cn/v/ac48885884)
 47. [“我嚟同你玩！”](https://www.acfun.cn/v/ac48888192)
 48. [最怕这招了！！！欢乐八点档-1788](https://www.acfun.cn/v/ac48883377)
