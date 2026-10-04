@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-05 06:11:37
+> 更新时间：2026-10-05 07:11:17
 
 ## 热门文章
 
@@ -18,11 +18,11 @@
 12. [LangSmith：从链路追踪到 RAG 自动化评估](https://juejin.cn/post/7691774360802246671)
 13. [从乱码到高精度检索：探矿业务中 TXT、Word、PDF 与网页的 RAG 清洗之道](https://juejin.cn/post/7691512357834768430)
 14. [「vConsole MCP🛠️」我让 AI 直接看见任何 H5 的日志和请求帮你 debug](https://juejin.cn/post/7691270105432784931)
-15. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
-16. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
-17. [Nuxt 中使用 useHead 优化 SEO 与 GEO](https://juejin.cn/post/7692387846459654178)
-18. [Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透](https://juejin.cn/post/7691898006993010698)
-19. [Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题](https://juejin.cn/post/7691876916195016719)
+15. [Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题](https://juejin.cn/post/7691876916195016719)
+16. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
+17. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
+18. [Nuxt 中使用 useHead 优化 SEO 与 GEO](https://juejin.cn/post/7692387846459654178)
+19. [Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透](https://juejin.cn/post/7691898006993010698)
 20. [对于LangGraph的时间旅行底层机制的理解](https://juejin.cn/post/7691533849411829779)
 21. [Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新](https://juejin.cn/post/7691498553261391912)
 22. [GitHub 日榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691231869480288302)
