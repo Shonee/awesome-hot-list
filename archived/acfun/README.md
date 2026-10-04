@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-05 04:49:53
+> 更新时间：2026-10-05 05:23:57
 
 ## 日榜
 
@@ -21,12 +21,12 @@
 15. [【异世界转生部实习生】死了还要强制入职？【原创动画】](https://www.acfun.cn/v/ac48891112)
 16. [什么活动还要真珠总监亲自营业！？](https://www.acfun.cn/v/ac48891063)
 17. [国庆都在干嘛呢！](https://www.acfun.cn/v/ac48891101)
-18. [【绝望女神/翻唱】【全金属狂潮 OP tomorrow】](https://www.acfun.cn/v/ac48890948)
-19. [假期过得还愉快吗？](https://www.acfun.cn/v/ac48890430)
-20. [不是会变色吗，快变啊](https://www.acfun.cn/v/ac48891072)
-21. [怎么有人在台上会笑的这么开心！](https://www.acfun.cn/v/ac48891146)
-22. [现在的显卡涨价，和矿潮有什么区别](https://www.acfun.cn/v/ac48888618)
-23. [收容失效怪物入侵，普通人变为恐怖实体，姐弟如何联手力挽狂澜？【《控制：共振》剧情解说】](https://www.acfun.cn/v/ac48889773)
+18. [收容失效怪物入侵，普通人变为恐怖实体，姐弟如何联手力挽狂澜？【《控制：共振》剧情解说】](https://www.acfun.cn/v/ac48889773)
+19. [【绝望女神/翻唱】【全金属狂潮 OP tomorrow】](https://www.acfun.cn/v/ac48890948)
+20. [假期过得还愉快吗？](https://www.acfun.cn/v/ac48890430)
+21. [不是会变色吗，快变啊](https://www.acfun.cn/v/ac48891072)
+22. [怎么有人在台上会笑的这么开心！](https://www.acfun.cn/v/ac48891146)
+23. [现在的显卡涨价，和矿潮有什么区别](https://www.acfun.cn/v/ac48888618)
 24. [中单雪人登场，召唤师技能像是要送！快速看完一局韩服王者斗殴局#847 Odysseus, Crack](https://www.acfun.cn/v/ac48885190)
 25. [粉丝：这健身方式很刑啊](https://www.acfun.cn/v/ac48890804)
 26. [1595期：前车急刹 ，摩托避让不及，瞬间腾空追尾](https://www.acfun.cn/v/ac48890187)
@@ -48,12 +48,12 @@
 42. [曼尼·帕奎奥 vs 埃里克·莫拉莱斯 I（HBO全场视频）](https://www.acfun.cn/v/ac48891102)
 43. [绝顶性感牛仔短裤地下车库女团禁舞/ Wiggle Wiggle舞蹈翻跳](https://www.acfun.cn/v/ac48891175)
 44. [作死小能手](https://www.acfun.cn/v/ac48889403)
-45. [️ 带着全新粉色三居室帐篷拖车，在雨中露营](https://www.acfun.cn/v/ac48889976)
+45. [去孔子学院当志愿者啦！](https://www.acfun.cn/v/ac48884372)
 46. [【口袋音乐键盘】世界人民大团结《国际歌》](https://www.acfun.cn/v/ac48889398)
-47. [我们很少用冰冻三尺形容一个视频](https://www.acfun.cn/v/ac48889565)
-48. [冒牌行星_不要关注！都不要关注！越关注它越大！ 羊在左兔在右，小熊匆匆齐来到_全片使用@小云雀ai](https://www.acfun.cn/v/ac48890813)
-49. [3分钟唱完新三国70个名场面](https://www.acfun.cn/v/ac48889800)
-50. [绝顶性感黑丝Hush舞蹈翻跳](https://www.acfun.cn/v/ac48891179)
+47. [️ 带着全新粉色三居室帐篷拖车，在雨中露营](https://www.acfun.cn/v/ac48889976)
+48. [我们很少用冰冻三尺形容一个视频](https://www.acfun.cn/v/ac48889565)
+49. [冒牌行星_不要关注！都不要关注！越关注它越大！ 羊在左兔在右，小熊匆匆齐来到_全片使用@小云雀ai](https://www.acfun.cn/v/ac48890813)
+50. [3分钟唱完新三国70个名场面](https://www.acfun.cn/v/ac48889800)
 
 ## 三日榜
 
@@ -98,8 +98,8 @@
 39. [心月狐可爱捏](https://www.acfun.cn/v/ac48889304)
 40. [【东方】キスキツネ【美铃&咲夜 Ver. MMD】](https://www.acfun.cn/v/ac48886510)
 41. [交通事故20261002：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48886914)
-42. [【vlgo】国庆第一天来活啦！](https://www.acfun.cn/v/ac48888861)
-43. [无解的眼神 心像海底针～](https://www.acfun.cn/v/ac48891301)
+42. [无解的眼神 心像海底针～](https://www.acfun.cn/v/ac48891301)
+43. [【vlgo】国庆第一天来活啦！](https://www.acfun.cn/v/ac48888861)
 44. [【短视频】用古典吉他祝福祖国生日快乐～](https://www.acfun.cn/v/ac48886734)
 45. [你玩吧，我回家了【今天有什么好笑的 #2526】](https://www.acfun.cn/v/ac48890242)
 46. [心月狐的闪身boom？](https://www.acfun.cn/v/ac48887520)
@@ -143,10 +143,10 @@
 31. [想我就打给我！！！★手机竖屏2017★](https://www.acfun.cn/v/ac48876934)
 32. [优雅永不过时！！！欢乐八点档-1786](https://www.acfun.cn/v/ac48878336)
 33. [让你永远都牵着我走 你愿意吗](https://www.acfun.cn/v/ac48888496)
-34. [琵琶曲](https://www.acfun.cn/v/ac48877293)
-35. [哈喽，开始更新！](https://www.acfun.cn/v/ac48879608)
-36. [他是战士们的精神图腾，绿皮最严厉的父亲，他已从死亡中归来【达奇】战锤40K故事内容](https://www.acfun.cn/v/ac48882966)
-37. [【颜音】『白色声音』靡言 主题曲](https://www.acfun.cn/v/ac48888095)
+34. [【颜音】『白色声音』靡言 主题曲](https://www.acfun.cn/v/ac48888095)
+35. [琵琶曲](https://www.acfun.cn/v/ac48877293)
+36. [哈喽，开始更新！](https://www.acfun.cn/v/ac48879608)
+37. [他是战士们的精神图腾，绿皮最严厉的父亲，他已从死亡中归来【达奇】战锤40K故事内容](https://www.acfun.cn/v/ac48882966)
 38. [网络上常见的热门短视频集锦   第三千四百六十一期](https://www.acfun.cn/v/ac48884139)
 39. [喜欢上一颗星 | 原创手绘MV “我们会再见面吗，当宇宙坍缩成一个点”](https://www.acfun.cn/v/ac48878945)
 40. [网络上常见的热门短视频集锦   第三千四百五十八期](https://www.acfun.cn/v/ac48880230)
@@ -156,7 +156,7 @@
 44. [完全疯了！！！](https://www.acfun.cn/v/ac48889106)
 45. [黑暗与死亡的化身，玩弄生命的大师，他就是不死之王纳迦什-《全战：战锤3》新DLC-终焉之主简介](https://www.acfun.cn/v/ac48887804)
 46. [人间琴悠扬，姑娘把谁记心上](https://www.acfun.cn/v/ac48885884)
-47. [最怕这招了！！！欢乐八点档-1788](https://www.acfun.cn/v/ac48883377)
-48. [好天气假象](https://www.acfun.cn/v/ac48879604)
-49. [“我嚟同你玩！”](https://www.acfun.cn/v/ac48888192)
+47. [“我嚟同你玩！”](https://www.acfun.cn/v/ac48888192)
+48. [最怕这招了！！！欢乐八点档-1788](https://www.acfun.cn/v/ac48883377)
+49. [好天气假象](https://www.acfun.cn/v/ac48879604)
 50. [【东方】推特东方小视频选集 第274期](https://www.acfun.cn/v/ac48887727)

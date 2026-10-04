@@ -1,13 +1,13 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-05 04:50:11
+> 更新时间：2026-10-05 05:24:12
 
 ## 人气热门
 
-1. [《血战上海滩》九项属性修改器 源代码分享](https://www.52pojie.cn/thread-2130653-1-1.html)
-2. [迅雷17【25.1.22.1660】绿色精简版](https://www.52pojie.cn/thread-2130844-1-1.html)
-3. [电子手撕老黄历，不再需要每年买新的了！](https://www.52pojie.cn/thread-2130925-1-1.html)
-4. [随身听书 安卓端 v1.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
+1. [随身听书 安卓端 v1.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
+2. [《血战上海滩》九项属性修改器 源代码分享](https://www.52pojie.cn/thread-2130653-1-1.html)
+3. [迅雷17【25.1.22.1660】绿色精简版](https://www.52pojie.cn/thread-2130844-1-1.html)
+4. [电子手撕老黄历，不再需要每年买新的了！](https://www.52pojie.cn/thread-2130925-1-1.html)
 5. [zh-cn_windows_11_business_editions_version_26h2_x64_dvd_74d48a06.iso](https://www.52pojie.cn/thread-2130526-1-1.html)
 6. [稻壳阅读器DocBox 2.10.10 修复版](https://www.52pojie.cn/thread-2130420-1-1.html)
 7. [PDF、图片转EXL、WORD工具V26.10.1](https://www.52pojie.cn/thread-2130644-1-1.html)
