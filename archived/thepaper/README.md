@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-04 08:17:29
+> 更新时间：2026-10-04 09:40:56
 
 ## 热新闻
 
@@ -22,5 +22,5 @@
 16. [从工业遗存到二次元“痛岛”，这片江心之地如何更年轻？](https://www.thepaper.cn/newsDetail_forward_34194432)
 17. [楼市“金九”兑现：核心城市二手房成交持续放量，新房重现“日光”](https://www.thepaper.cn/newsDetail_forward_34194913)
 18. [商务部就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问](https://www.thepaper.cn/newsDetail_forward_34194277)
-19. [解读｜选前暂停领事服务，特朗普政府能否影响巴西大选？](https://www.thepaper.cn/newsDetail_forward_34194388)
-20. [国庆假期第三天：“拼假”提前出行游客陆续返程，省内游成假期中后段出游主力](https://www.thepaper.cn/newsDetail_forward_34195089)
+19. [国庆假期第三天：“拼假”提前出行游客陆续返程，省内游成假期中后段出游主力](https://www.thepaper.cn/newsDetail_forward_34195089)
+20. [解读｜选前暂停领事服务，特朗普政府能否影响巴西大选？](https://www.thepaper.cn/newsDetail_forward_34194388)
