@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-05 16:26:50
+> 更新时间：2026-10-05 16:58:35
 
 ## 新闻热榜
 
@@ -15,15 +15,15 @@
 9. [[新浪彩票]足彩第26135期任九：西班牙力克格子军](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp4706009.shtml)
 10. [中国足球彩票胜负彩26135期澳盘最新赔率(14:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582290.shtml)
 11. [央视主播上新](https://news.sina.com.cn/c/2026-10-04/doc-iniuanmc6969977.shtml)
-12. [胜负彩26135期欧洲四大机构最新数据(14:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582522.shtml)
-13. [[新浪彩票]足彩第26135期大势：国足谨慎防平](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101056.shtml)
-14. [美国撤回驻英空军基地全部12架B-1轰炸机，释放什么信号？](https://news.sina.com.cn/w/2026-10-05/doc-iniucyni9673170.shtml)
+12. [美国撤回驻英空军基地全部12架B-1轰炸机，释放什么信号？](https://news.sina.com.cn/w/2026-10-05/doc-iniucyni9673170.shtml)
+13. [胜负彩26135期欧洲四大机构最新数据(14:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582522.shtml)
+14. [[新浪彩票]足彩第26135期大势：国足谨慎防平](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101056.shtml)
 15. [运-20B、运油-20接续升空！最新演练画面公布](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9795394.shtml)
-16. [美海岸警卫队继续搜寻失事飞机机上人员](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht9993152.shtml)
-17. [德总理会见泽连斯基，现场响起爆炸声](https://news.sina.com.cn/w/2026-10-05/doc-iniucuep6501227.shtml)
-18. [全球开盘，反常的一幕出现了](https://finance.sina.com.cn/stock/bxjj/2026-10-05/doc-iniucpwp9791703.shtml)
-19. [默茨会见泽连斯基，现场响起警报声和爆炸声，俄已连续四日轰炸基辅大桥，为冲突以来首次，泽连斯基称将不顾特朗普劝阻，加大打击俄炼油厂](https://news.sina.com.cn/w/2026-10-04/doc-iniuanma0228593.shtml)
-20. [[新浪彩票]足彩26135期冷热指数：意大利坐和望赢](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6581610.shtml)
+16. [全球开盘，反常的一幕出现了](https://finance.sina.com.cn/stock/bxjj/2026-10-05/doc-iniucpwp9791703.shtml)
+17. [[新浪彩票]足彩26135期冷热指数：意大利坐和望赢](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6581610.shtml)
+18. [美海岸警卫队继续搜寻失事飞机机上人员](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht9993152.shtml)
+19. [[新浪彩票]足彩26135期盈亏指数：法国保平争胜](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101085.shtml)
+20. [德总理会见泽连斯基，现场响起爆炸声](https://news.sina.com.cn/w/2026-10-05/doc-iniucuep6501227.shtml)
 
 ## 财经热榜
 

@@ -1,6 +1,6 @@
 # 财联社热榜
 
-> 更新时间：2026-10-05 16:26:51
+> 更新时间：2026-10-05 16:58:36
 
 ## 热门文章
 
@@ -12,8 +12,8 @@
 6. [黄金、白银、美股期指、油价、比特币，全线上涨](https://www.cls.cn/detail/2497787)
 7. [中东局势升级！胡塞武装称袭击沙特石油设施 原油供应前景又生变？](https://www.cls.cn/detail/2497608)
 8. [AI数据中心建设加速之际 地方阻力从美国蔓延至欧洲和亚洲](https://www.cls.cn/detail/2497590)
-9. [美国中期选举追踪：高油价影响蔓延 共和党选情吃紧](https://www.cls.cn/detail/2497690)
-10. [中国人民大学一校友，捐5.03亿](https://www.cls.cn/detail/2497677)
+9. [中国人民大学一校友，捐5.03亿](https://www.cls.cn/detail/2497677)
+10. [美国中期选举追踪：高油价影响蔓延 共和党选情吃紧](https://www.cls.cn/detail/2497690)
 11. [“大国重器”BEST、FAST，公布最新消息](https://www.cls.cn/detail/2497829)
-12. [东航报案](https://www.cls.cn/detail/2497551)
-13. [都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？](https://www.cls.cn/detail/2497673)
+12. [都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？](https://www.cls.cn/detail/2497673)
+13. [四川舰实现连续弹射起飞固定翼无人机 对中国海军意味着什么](https://www.cls.cn/detail/2497700)
