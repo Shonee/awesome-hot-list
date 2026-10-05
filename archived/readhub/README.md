@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-05 23:41:27
+> 更新时间：2026-10-06 00:42:38
 
 ## 24 小时热榜
 
@@ -19,20 +19,20 @@
 13. [Tibo 承诺连续 28 天发布或重置，OpenAI 遭遇用户信任危机](https://readhub.cn/topic/8wyUngiooAv?tab=daily)
 14. [施耐德电气接近以 200 亿美元收购工业软件集团 PTC](https://readhub.cn/topic/8wxm8gOMBMi?tab=daily)
 15. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
-16. [腾讯控股回购 23.8 万股股份](https://readhub.cn/topic/8wylF0WWQSS?tab=daily)
-17. [天赐材料香港上市料筹资不超过 5 亿美元](https://readhub.cn/topic/8wy7vZCVZt4?tab=daily)
+16. [艾博生物与诺华达成合作 潜在总金额最高约 78 亿美元](https://readhub.cn/topic/8wyBVHXZxxM?tab=daily)
+17. [腾讯控股回购 23.8 万股股份](https://readhub.cn/topic/8wylF0WWQSS?tab=daily)
 18. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://readhub.cn/topic/8wxsv3pceSA?tab=daily)
 19. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
-20. [OKX 向美 SEC 提交申请，拟推出代币化美股交易平台](https://readhub.cn/topic/8wyEMFJLryz?tab=daily)
-21. [艾博生物与诺华达成合作 潜在总金额最高约 78 亿美元](https://readhub.cn/topic/8wyBVHXZxxM?tab=daily)
+20. [天赐材料香港上市料筹资不超过 5 亿美元](https://readhub.cn/topic/8wy7vZCVZt4?tab=daily)
+21. [OKX 向美 SEC 提交申请，拟推出代币化美股交易平台](https://readhub.cn/topic/8wyEMFJLryz?tab=daily)
 22. [我国牵头的 7 项天然气国际标准获国际标准化组织批准立项](https://readhub.cn/topic/8wyGVdgvf2e?tab=daily)
 23. [9 月中国大宗商品价格指数环比上涨 4.1%](https://readhub.cn/topic/8wyCvU0PD2f?tab=daily)
 24. [印尼拟允许商品交易所用美元交易](https://readhub.cn/topic/8wyhem73wDc?tab=daily)
 25. [沙特阿美 CEO 称当前原油商业库存已降至不到 60 亿桶且大多无法动用](https://readhub.cn/topic/8wyeS8X6gLa?tab=daily)
-26. [鸿海第三季度营收同比增长 47.1%](https://readhub.cn/topic/8wycJ9UN36V?tab=daily)
-27. [哈啰集团华东区域中心签约南京：总投资约 10 亿元 将布局智能换电柜点位](https://readhub.cn/topic/8wwqy5YqTET?tab=daily)
-28. [看懂不等于做对：VA-Bench 测出大模型空间智能的执行断层](https://readhub.cn/topic/8wyOMYMt4fX?tab=daily)
-29. [因无效 AI 报告激增，Google 暂停开源漏洞赏金计划](https://readhub.cn/topic/8wyDeMnDfZa?tab=daily)
+26. [哈啰集团华东区域中心签约南京：总投资约 10 亿元 将布局智能换电柜点位](https://readhub.cn/topic/8wwqy5YqTET?tab=daily)
+27. [鸿海第三季度营收同比增长 47.1%](https://readhub.cn/topic/8wycJ9UN36V?tab=daily)
+28. [因无效 AI 报告激增，Google 暂停开源漏洞赏金计划](https://readhub.cn/topic/8wyDeMnDfZa?tab=daily)
+29. [看懂不等于做对：VA-Bench 测出大模型空间智能的执行断层](https://readhub.cn/topic/8wyOMYMt4fX?tab=daily)
 30. [消息人士：沙特东西向石油管道正常运转](https://readhub.cn/topic/8wyfskTZeHr?tab=daily)
 
 ## 每日早报
