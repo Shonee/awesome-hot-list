@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-05 20:54:55
+> 更新时间：2026-10-05 21:46:27
 
 ## 新闻热榜
 
 1. [被执行死刑的巫鸿明、白应苍出镜](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp4717812.shtml)
 2. [中国足球彩票胜负彩26135期澳盘最新赔率(17:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582290.shtml)
-3. [这个反华议员，被特朗普“开盒”了](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3596109.shtml)
-4. [胜负彩26135期欧洲四大机构最新数据(17:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582522.shtml)
-5. [胜负彩26135期国内部分专业媒体复式推荐总汇](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp9814270.shtml)
-6. [莫迪带领印度崛起，没有韬光养晦，反而提前开香槟？](https://news.sina.com.cn/w/2026-10-05/doc-iniucpwm3101130.shtml)
-7. [台湾时评员称蔡康永是典型的两面人](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9820728.shtml)
-8. [[新浪彩票]足彩第26135期任九：西班牙力克格子军](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp4706009.shtml)
-9. [吴宜泽问鼎深圳公开赛，中国球员包揽斯诺克世界前二](https://news.sina.com.cn/c/2026-10-05/doc-iniuawyv4998176.shtml)
-10. [零跑汽车发声明：已下线与蔡康永相关的全部内容，并保留追究法律责任的权利](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwr6556360.shtml)
-11. [[新浪彩票]足彩第26135期大势：国足谨慎防平](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101056.shtml)
-12. [消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼](https://news.sina.com.cn/w/2026-10-05/doc-iniucchr3304960.shtml)
-13. [高市早苗：中国是“重要邻国” 要构建稳定关系](https://news.sina.com.cn/c/2026-10-05/doc-iniueeuc2850812.shtml)
+3. [胜负彩26135期欧洲四大机构最新数据(17:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582522.shtml)
+4. [胜负彩26135期国内部分专业媒体复式推荐总汇](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp9814270.shtml)
+5. [莫迪带领印度崛起，没有韬光养晦，反而提前开香槟？](https://news.sina.com.cn/w/2026-10-05/doc-iniucpwm3101130.shtml)
+6. [台湾时评员称蔡康永是典型的两面人](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9820728.shtml)
+7. [[新浪彩票]足彩第26135期任九：西班牙力克格子军](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp4706009.shtml)
+8. [吴宜泽问鼎深圳公开赛，中国球员包揽斯诺克世界前二](https://news.sina.com.cn/c/2026-10-05/doc-iniuawyv4998176.shtml)
+9. [零跑汽车发声明：已下线与蔡康永相关的全部内容，并保留追究法律责任的权利](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwr6556360.shtml)
+10. [[新浪彩票]足彩第26135期大势：国足谨慎防平](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101056.shtml)
+11. [消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼](https://news.sina.com.cn/w/2026-10-05/doc-iniucchr3304960.shtml)
+12. [高市早苗：中国是“重要邻国” 要构建稳定关系](https://news.sina.com.cn/c/2026-10-05/doc-iniueeuc2850812.shtml)
+13. [[新浪彩票]足彩26135期冷热指数：意大利坐和望赢](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6581610.shtml)
 14. [美国撤回驻英空军基地全部12架B-1轰炸机，释放什么信号？](https://news.sina.com.cn/w/2026-10-05/doc-iniucyni9673170.shtml)
-15. [[新浪彩票]足彩26135期冷热指数：意大利坐和望赢](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6581610.shtml)
-16. [[新浪彩票]足彩26135期盈亏指数：法国保平争胜](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101085.shtml)
+15. [[新浪彩票]足彩26135期盈亏指数：法国保平争胜](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101085.shtml)
+16. [迪拜航空驾驶舱袭击嫌疑人背景曝光，此前发布的两段视频引关注](https://news.sina.com.cn/w/2026-10-05/doc-iniueeui6425127.shtml)
 17. [[新浪彩票]足彩26135期投注策略：英格兰稳胆](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp4705984.shtml)
-18. [运-20B、运油-20接续升空！最新演练画面公布](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9795394.shtml)
-19. [缅北明家，给中国人起了个蔑称](https://news.sina.com.cn/c/2026-10-05/doc-iniueeui6388296.shtml)
-20. [迪拜航空驾驶舱袭击嫌疑人背景曝光，此前发布的两段视频引关注](https://news.sina.com.cn/w/2026-10-05/doc-iniueeui6425127.shtml)
+18. [缅北明家，给中国人起了个蔑称](https://news.sina.com.cn/c/2026-10-05/doc-iniueeui6388296.shtml)
+19. [视频丨缅北电诈头目钱太多 被偷一千万没发现](https://news.sina.com.cn/s/2026-10-05/doc-iniueeuf9620764.shtml)
+20. [运-20B、运油-20接续升空！最新演练画面公布](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9795394.shtml)
 
 ## 财经热榜
 

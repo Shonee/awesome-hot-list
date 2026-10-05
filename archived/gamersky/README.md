@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-05 20:54:58
+> 更新时间：2026-10-05 21:47:11
 
 ## 热点资讯排行
 
@@ -11,11 +11,11 @@
 5. [《剑星》新版本难度太高劝退玩家 但忍一忍就过去了](https://www.gamersky.com/news/202610/2221138.shtml)
 6. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
 7. [不用模拟器！PS5独占《战神：斯巴达之子》PC 60帧直接跑](https://www.gamersky.com/news/202610/2221617.shtml)
-8. [小岛亲自宣传 《死亡搁浅2：冥滩之上》逼真人偶](https://www.gamersky.com/news/202610/2221532.shtml)
-9. [知名大主播楚河十万顶配PC翻车！5090惨被烧 后续来了](https://www.gamersky.com/news/202610/2221231.shtml)
-10. [小米发布概念车《GT7》实机首曝！首款中国GT](https://www.gamersky.com/news/202610/2221310.shtml)
-11. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
-12. [《最终幻想7：启示》福利少不了！超多温泉 男女共浴](https://www.gamersky.com/news/202610/2221327.shtml)
-13. [亚运首位女子电竞金牌得主！桃晚安发文：不敢想象](https://www.gamersky.com/news/202610/2220792.shtml)
+8. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
+9. [小岛亲自宣传 《死亡搁浅2：冥滩之上》逼真人偶](https://www.gamersky.com/news/202610/2221532.shtml)
+10. [穿上裤子不认人 《巫师3》新手又给凯拉整死了](https://www.gamersky.com/news/202610/2222038.shtml)
+11. [知名大主播楚河十万顶配PC翻车！5090惨被烧 后续来了](https://www.gamersky.com/news/202610/2221231.shtml)
+12. [小米发布概念车《GT7》实机首曝！首款中国GT](https://www.gamersky.com/news/202610/2221310.shtml)
+13. [《最终幻想7：启示》福利少不了！超多温泉 男女共浴](https://www.gamersky.com/news/202610/2221327.shtml)
 14. [《刺客信条：Hexe》大量剧情和角色泄露！摒弃RPG 回归传统线性](https://www.gamersky.com/news/202610/2221672.shtml)
-15. [央视:《黑神话》销量超3000万份 中国文化出海典范](https://www.gamersky.com/news/202610/2221339.shtml)
+15. [亚运首位女子电竞金牌得主！桃晚安发文：不敢想象](https://www.gamersky.com/news/202610/2220792.shtml)
