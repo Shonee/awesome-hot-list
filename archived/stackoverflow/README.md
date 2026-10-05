@@ -1,21 +1,21 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-05 07:13:09
+> 更新时间：2026-10-05 08:39:32
 
 ## 热门问题
 
-1. [How does one implement nested LEFT JOIN in "old style joins" on SQL Server 4.2](https://stackoverflow.com/questions/80007870/how-does-one-implement-nested-left-join-in-old-style-joins-on-sql-server-4-2)
+1. [Drag and Drop list, populated from database, and save the new list in a table](https://stackoverflow.com/questions/80007885/drag-and-drop-list-populated-from-database-and-save-the-new-list-in-a-table)
 2. [Day by day tickets and sales per POS](https://stackoverflow.com/questions/80007878/day-by-day-tickets-and-sales-per-pos)
-3. [Is there any useful pattern when coding with erlang?](https://stackoverflow.com/questions/80007876/is-there-any-useful-pattern-when-coding-with-erlang)
+3. [How does one implement nested LEFT JOIN in "old style joins" on SQL Server 4.2](https://stackoverflow.com/questions/80007870/how-does-one-implement-nested-left-join-in-old-style-joins-on-sql-server-4-2)
 4. [NVCC 9 + GCC 6.5.0 having trouble with __int128 and __s128 - can I circumvent this?](https://stackoverflow.com/questions/80007868/nvcc-9-gcc-6-5-0-having-trouble-with-int128-and-s128-can-i-circumvent-th)
-5. [Need to integrate ChatGPT business account as an app in my Google for Non Profit account](https://stackoverflow.com/questions/80007858/need-to-integrate-chatgpt-business-account-as-an-app-in-my-google-for-non-profit)
-6. [Match the beginning and end of a word that has "-"](https://stackoverflow.com/questions/80007833/match-the-beginning-and-end-of-a-word-that-has)
-7. [How does an MCP client discover tools from an MCP server?](https://stackoverflow.com/questions/80007857/how-does-an-mcp-client-discover-tools-from-an-mcp-server)
+5. [Is there any useful pattern when coding with erlang?](https://stackoverflow.com/questions/80007876/is-there-any-useful-pattern-when-coding-with-erlang)
+6. [Need to integrate ChatGPT business account as an app in my Google for Non Profit account](https://stackoverflow.com/questions/80007858/need-to-integrate-chatgpt-business-account-as-an-app-in-my-google-for-non-profit)
+7. [Match the beginning and end of a word that has "-"](https://stackoverflow.com/questions/80007833/match-the-beginning-and-end-of-a-word-that-has)
 8. [Why do the pointer-to-member operators have lower precedence than their counterpart?](https://stackoverflow.com/questions/80007784/why-do-the-pointer-to-member-operators-have-lower-precedence-than-their-counterp)
-9. [Why do RMWs require flushing of write buffer in TSO?](https://stackoverflow.com/questions/80007850/why-do-rmws-require-flushing-of-write-buffer-in-tso)
-10. [Avoiding memory aliasing errors in R](https://stackoverflow.com/questions/80007854/avoiding-memory-aliasing-errors-in-r)
-11. [I'm trying to get started with Flutter, but I keep running into errors](https://stackoverflow.com/questions/80007843/im-trying-to-get-started-with-flutter-but-i-keep-running-into-errors)
-12. [plase giftme this VERY ELEMENTAL code for create basic template using BOOTSTRAP 5](https://stackoverflow.com/questions/80007847/plase-giftme-this-very-elemental-code-for-create-basic-template-using-bootstrap)
+9. [How does an MCP client discover tools from an MCP server?](https://stackoverflow.com/questions/80007857/how-does-an-mcp-client-discover-tools-from-an-mcp-server)
+10. [Why do RMWs require flushing of write buffer in TSO?](https://stackoverflow.com/questions/80007850/why-do-rmws-require-flushing-of-write-buffer-in-tso)
+11. [Avoiding memory aliasing errors in R](https://stackoverflow.com/questions/80007854/avoiding-memory-aliasing-errors-in-r)
+12. [I'm trying to get started with Flutter, but I keep running into errors](https://stackoverflow.com/questions/80007843/im-trying-to-get-started-with-flutter-but-i-keep-running-into-errors)
 13. [SwiftUI zoom swipe-back briefly hides the large title and leaves the destination toolbar visible](https://stackoverflow.com/questions/80007851/swiftui-zoom-swipe-back-briefly-hides-the-large-title-and-leaves-the-destination)
 14. [Searching for PDFs with fixed page range on the internet](https://stackoverflow.com/questions/80007848/searching-for-pdfs-with-fixed-page-range-on-the-internet)
 15. [How to name a string variable inside a \foreach loop using the loop variable](https://stackoverflow.com/questions/80007839/how-to-name-a-string-variable-inside-a-foreach-loop-using-the-loop-variable)
@@ -38,8 +38,8 @@
 32. [How to make a Clutter Actor draggable with mouse in a Gnome Shell Extension](https://stackoverflow.com/questions/80007728/how-to-make-a-clutter-actor-draggable-with-mouse-in-a-gnome-shell-extension)
 33. [How can I change the theme of a Richeditbox Scrollbar via code in WinUi 3?](https://stackoverflow.com/questions/80007777/how-can-i-change-the-theme-of-a-richeditbox-scrollbar-via-code-in-winui-3)
 34. [Best way to fix wrong cursor on RichEditBox ScrollBar in WinUi 3?](https://stackoverflow.com/questions/80007760/best-way-to-fix-wrong-cursor-on-richeditbox-scrollbar-in-winui-3)
-35. [How to move the responsibility of executing some logic to the SQL Server instead of executing that logic inside the application?](https://stackoverflow.com/questions/80007698/how-to-move-the-responsibility-of-executing-some-logic-to-the-sql-server-instead)
-36. [Possible to use reCharts with TypeScript strict?](https://stackoverflow.com/questions/80007766/possible-to-use-recharts-with-typescript-strict)
+35. [Possible to use reCharts with TypeScript strict?](https://stackoverflow.com/questions/80007766/possible-to-use-recharts-with-typescript-strict)
+36. [How to move the responsibility of executing some logic to the SQL Server instead of executing that logic inside the application?](https://stackoverflow.com/questions/80007698/how-to-move-the-responsibility-of-executing-some-logic-to-the-sql-server-instead)
 37. [What should I do when a REST request times out but the operation may still be running?](https://stackoverflow.com/questions/80007732/what-should-i-do-when-a-rest-request-times-out-but-the-operation-may-still-be-ru)
 38. [pip fails with ModuleNotFoundError: No module named '_posixsubprocess'](https://stackoverflow.com/questions/80007719/pip-fails-with-modulenotfounderror-no-module-named-posixsubprocess)
 39. [WhatsApp Embedded Signup "network error" and Instagram Login "Cannot access app due to app restrictions"](https://stackoverflow.com/questions/80007753/whatsapp-embedded-signup-network-error-and-instagram-login-cannot-access-app)
@@ -50,7 +50,7 @@
 44. [Design DB for a model with multiple data sources](https://stackoverflow.com/questions/80007706/design-db-for-a-model-with-multiple-data-sources)
 45. [How to get result(text) from NamedOnnxValue?](https://stackoverflow.com/questions/80007632/how-to-get-resulttext-from-namedonnxvalue)
 46. [How to remove row of empty line on terminal caused by "\x1b[2J" in C?](https://stackoverflow.com/questions/80007635/how-to-remove-row-of-empty-line-on-terminal-caused-by-x1b2j-in-c)
-47. [How to solve `Error CS0246: The type or namespace name 'Sylvan' could not be found`](https://stackoverflow.com/questions/80007679/how-to-solve-error-cs0246-the-type-or-namespace-name-sylvan-could-not-be-fou)
-48. [Vector of std::string_view from std::filesystem::path is not correctly passed as a parameter](https://stackoverflow.com/questions/80007494/vector-of-stdstring-view-from-stdfilesystempath-is-not-correctly-passed-as)
+47. [Vector of std::string_view from std::filesystem::path is not correctly passed as a parameter](https://stackoverflow.com/questions/80007494/vector-of-stdstring-view-from-stdfilesystempath-is-not-correctly-passed-as)
+48. [How to solve `Error CS0246: The type or namespace name 'Sylvan' could not be found`](https://stackoverflow.com/questions/80007679/how-to-solve-error-cs0246-the-type-or-namespace-name-sylvan-could-not-be-fou)
 49. [Which approach do you prefer to persist multiple pieces of data to the database in parallel?](https://stackoverflow.com/questions/80007479/which-approach-do-you-prefer-to-persist-multiple-pieces-of-data-to-the-database)
 50. [PDF viewer auto refresh on Android](https://stackoverflow.com/questions/80007721/pdf-viewer-auto-refresh-on-android)
