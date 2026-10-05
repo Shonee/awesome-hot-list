@@ -1,6 +1,6 @@
 # 财联社热榜
 
-> 更新时间：2026-10-05 22:44:32
+> 更新时间：2026-10-05 23:41:58
 
 ## 热门文章
 
@@ -13,7 +13,7 @@
 7. [油市利空又传来：中东原油出口量已超战前水平](https://www.cls.cn/detail/2497865)
 8. [中国人民大学一校友，捐5.03亿](https://www.cls.cn/detail/2497677)
 9. [“大国重器”BEST、FAST，公布最新消息](https://www.cls.cn/detail/2497829)
-10. [美国中期选举追踪：高油价影响蔓延 共和党选情吃紧](https://www.cls.cn/detail/2497690)
-11. [都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？](https://www.cls.cn/detail/2497673)
+10. [都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？](https://www.cls.cn/detail/2497673)
+11. [美国中期选举追踪：高油价影响蔓延 共和党选情吃紧](https://www.cls.cn/detail/2497690)
 12. [四川舰实现连续弹射起飞固定翼无人机 对中国海军意味着什么](https://www.cls.cn/detail/2497700)
 13. [一汽丰田发布声明：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论](https://www.cls.cn/detail/2497823)

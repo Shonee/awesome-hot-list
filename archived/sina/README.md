@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-05 22:44:29
+> 更新时间：2026-10-05 23:41:56
 
 ## 新闻热榜
 
@@ -17,13 +17,13 @@
 11. [高市早苗：中国是“重要邻国” 要构建稳定关系](https://news.sina.com.cn/c/2026-10-05/doc-iniueeuc2850812.shtml)
 12. [[新浪彩票]足彩26135期冷热指数：意大利坐和望赢](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6581610.shtml)
 13. [消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼](https://news.sina.com.cn/w/2026-10-05/doc-iniucchr3304960.shtml)
-14. [[新浪彩票]足彩26135期盈亏指数：法国保平争胜](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101085.shtml)
-15. [美国撤回驻英空军基地全部12架B-1轰炸机，释放什么信号？](https://news.sina.com.cn/w/2026-10-05/doc-iniucyni9673170.shtml)
-16. [迪拜航空驾驶舱袭击嫌疑人背景曝光，此前发布的两段视频引关注](https://news.sina.com.cn/w/2026-10-05/doc-iniueeui6425127.shtml)
-17. [缅北明家，给中国人起了个蔑称](https://news.sina.com.cn/c/2026-10-05/doc-iniueeui6388296.shtml)
+14. [缅北明家，给中国人起了个蔑称](https://news.sina.com.cn/c/2026-10-05/doc-iniueeui6388296.shtml)
+15. [[新浪彩票]足彩26135期盈亏指数：法国保平争胜](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101085.shtml)
+16. [美国撤回驻英空军基地全部12架B-1轰炸机，释放什么信号？](https://news.sina.com.cn/w/2026-10-05/doc-iniucyni9673170.shtml)
+17. [迪拜航空驾驶舱袭击嫌疑人背景曝光，此前发布的两段视频引关注](https://news.sina.com.cn/w/2026-10-05/doc-iniueeui6425127.shtml)
 18. [[新浪彩票]足彩26135期投注策略：英格兰稳胆](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp4705984.shtml)
 19. [视频丨缅北电诈头目钱太多 被偷一千万没发现](https://news.sina.com.cn/s/2026-10-05/doc-iniueeuf9620764.shtml)
-20. [运-20B、运油-20接续升空！最新演练画面公布](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9795394.shtml)
+20. [南部战区正告菲方：立即停止侵权挑衅](https://news.sina.com.cn/c/2026-10-05/doc-iniuemac4360731.shtml)
 
 ## 财经热榜
 

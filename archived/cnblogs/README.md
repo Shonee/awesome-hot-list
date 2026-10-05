@@ -1,10 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-10-05 22:44:04
+> 更新时间：2026-10-05 23:41:13
 
 ## 最新帖子
 
-1. [多重背包的贪心近似](https://www.cnblogs.com/xiaoniu142857/p/23204449)
+1. [反馈：让系统知道自己做得对不对](https://www.cnblogs.com/zw-awa/p/23204653)
 2. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
 3. [进程和线程以及go语言中的协程](https://www.cnblogs.com/ishoulgodo/p/23203446)
 4. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
@@ -53,6 +53,6 @@
 1. [半夜校园网断网，为什么流量也用不了？](https://www.cnblogs.com/Reisentyan/p/23193616)
 2. [Qwen-Image2.1-本地AI漫画工作室](https://www.cnblogs.com/wyang/p/23198892)
 3. [开源：一稿多投工具（仅4M，支持9大平台）](https://www.cnblogs.com/liulun/p/23197056)
-4. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
-5. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
+4. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
+5. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
 6. [语言选型的新坐标：反馈确定性](https://www.cnblogs.com/shanyou/p/23198672)
