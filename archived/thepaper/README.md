@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-05 11:33:12
+> 更新时间：2026-10-05 12:21:32
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [奔赴“县”场｜山西安泽：县域发展不在高楼，变化藏于山乡日常](https://www.thepaper.cn/newsDetail_forward_34194118)
 8. [视频 | 李昊谈点球大战：水瓶被扔无所谓，判断点球靠感觉](https://www.thepaper.cn/newsDetail_forward_34198117)
 9. [奔赴“县”场｜湖南南县：那一抹藏不住的屋顶红](https://www.thepaper.cn/newsDetail_forward_34198212)
-10. [奔赴“县”场｜徽州古城非遗热：网红鱼灯“游”出文旅新路](https://www.thepaper.cn/newsDetail_forward_34197816)
+10. [DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新](https://www.thepaper.cn/newsDetail_forward_34200055)
 11. [从“最孤独的江心岛”到“全球创客岛”，复兴岛正为未来留出接口](https://www.thepaper.cn/newsDetail_forward_34199225)
-12. [德国总理默茨“无预告”突访基辅，德将再向乌提供13.5亿欧元援助](https://www.thepaper.cn/newsDetail_forward_34198742)
-13. [轰6K飞行员讲述应对外机抵近跟监：在沿海上空我就是界碑](https://www.thepaper.cn/newsDetail_forward_34199140)
-14. [连续4天单日破亿！2026国庆档电影票房已超7亿](https://www.thepaper.cn/newsDetail_forward_34199238)
-15. [特朗普宣布成立“超级智能特别工作组”](https://www.thepaper.cn/newsDetail_forward_34199525)
-16. [商务部就二十国集团贸易部长会议及相关情况答记者问](https://www.thepaper.cn/newsDetail_forward_34198011)
-17. [年龄身高限制未落实？襄阳奇趣童年乐园限5岁以上项目，多名低龄幼儿乘车游玩](https://www.thepaper.cn/newsDetail_forward_34196487)
-18. [观察｜亚运会这场“中考”，中国代表团考出惊喜，也考出忧虑](https://www.thepaper.cn/newsDetail_forward_34197195)
-19. [中国团队拿下最佳故事奖，从阿斯塔纳这个电影节看AI的惊艳与短板](https://www.thepaper.cn/newsDetail_forward_34198273)
-20. [经纬度：青年发展型城市建设，何以成为城市发展新战略](https://www.thepaper.cn/newsDetail_forward_34196391)
+12. [奔赴“县”场｜徽州古城非遗热：网红鱼灯“游”出文旅新路](https://www.thepaper.cn/newsDetail_forward_34197816)
+13. [德国总理默茨“无预告”突访基辅，德将再向乌提供13.5亿欧元援助](https://www.thepaper.cn/newsDetail_forward_34198742)
+14. [轰6K飞行员讲述应对外机抵近跟监：在沿海上空我就是界碑](https://www.thepaper.cn/newsDetail_forward_34199140)
+15. [连续4天单日破亿！2026国庆档电影票房已超7亿](https://www.thepaper.cn/newsDetail_forward_34199238)
+16. [特朗普宣布成立“超级智能特别工作组”](https://www.thepaper.cn/newsDetail_forward_34199525)
+17. [观察｜亚运会这场“中考”，中国代表团考出惊喜，也考出忧虑](https://www.thepaper.cn/newsDetail_forward_34197195)
+18. [中国团队拿下最佳故事奖，从阿斯塔纳这个电影节看AI的惊艳与短板](https://www.thepaper.cn/newsDetail_forward_34198273)
+19. [经纬度：青年发展型城市建设，何以成为城市发展新战略](https://www.thepaper.cn/newsDetail_forward_34196391)
+20. [具有风向标意义的巴西大选，也将是金砖格局和中巴关系的风向标](https://www.thepaper.cn/newsDetail_forward_34196260)

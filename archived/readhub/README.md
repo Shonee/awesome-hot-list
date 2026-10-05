@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-05 10:59:27
+> 更新时间：2026-10-05 12:21:29
 
 ## 24 小时热榜
 
@@ -13,23 +13,23 @@
 7. [马斯克称「SpaceXAI」将更名为「SpaceXSI」](https://readhub.cn/topic/8wx6K8EERkh?tab=daily)
 8. [中国人民大学一校友捐资 5.03 亿元 建设通州校区体育中心](https://readhub.cn/topic/8wwx37yMUQs?tab=daily)
 9. [特朗普宣布成立超级智能工作组](https://readhub.cn/topic/8wxHm1CQFAf?tab=daily)
-10. [离职员工爆料 OpenAI 风险意识不足](https://readhub.cn/topic/8wwsOeTgaC9?tab=daily)
-11. [马斯克称 Robotaxi 运营延长至 23 点：正攻克夜间宠物识别难题](https://readhub.cn/topic/8wweSmRIhbu?tab=daily)
-12. [ChatGPT  10 月 14 日起全套餐下线 GPT-5.5](https://readhub.cn/topic/8wxR33BaZeU?tab=daily)
-13. [何恺明团队新系统让 Claude 在 AGI 测试拿满分 GPT 获 99 分](https://readhub.cn/topic/8wxFytcYhDo?tab=daily)
-14. [国庆假期广州南站最短发车间隔 40 秒](https://readhub.cn/topic/8wws2W20Hjk?tab=daily)
+10. [ChatGPT  10 月 14 日起全套餐下线 GPT-5.5](https://readhub.cn/topic/8wxR33BaZeU?tab=daily)
+11. [离职员工爆料 OpenAI 风险意识不足](https://readhub.cn/topic/8wwsOeTgaC9?tab=daily)
+12. [国庆假期广州南站最短发车间隔 40 秒](https://readhub.cn/topic/8wws2W20Hjk?tab=daily)
+13. [马斯克称 Robotaxi 运营延长至 23 点：正攻克夜间宠物识别难题](https://readhub.cn/topic/8wweSmRIhbu?tab=daily)
+14. [何恺明团队新系统让 Claude 在 AGI 测试拿满分 GPT 获 99 分](https://readhub.cn/topic/8wxFytcYhDo?tab=daily)
 15. [小马智行回应乘客被夹手事件：属意外非交通事故 已配合交警调查](https://readhub.cn/topic/8wwuXm8dIDo?tab=daily)
 16. [消息称苹果 iPhone 18 Pro 系列 W39 周国内销量预计 176 万台](https://readhub.cn/topic/8wwtSuLj0Zk?tab=daily)
 17. [韩国金融业接连遭网络攻击，监管机构要求全面排查](https://readhub.cn/topic/8wwqygiJJmB?tab=daily)
-18. [港交所行政总裁称将研究推出人民币计价黄金期货](https://readhub.cn/topic/8wwbFKetoTk?tab=daily)
-19. [中国银行成功协助韩国产业银行发行 30 亿元点心债](https://readhub.cn/topic/8wwfAWKecxY?tab=daily)
-20. [施耐德电气接近以 200 亿美元收购工业软件集团 PTC](https://readhub.cn/topic/8wxm8gOMBMi?tab=daily)
-21. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
+18. [施耐德电气接近以 200 亿美元收购工业软件集团 PTC](https://readhub.cn/topic/8wxm8gOMBMi?tab=daily)
+19. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
+20. [艾博生物与诺华达成合作 潜在总金额最高约 78 亿美元](https://readhub.cn/topic/8wyBVHXZxxM?tab=daily)
+21. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
 22. [哈啰集团华东区域中心签约南京：总投资约 10 亿元 将布局智能换电柜点位](https://readhub.cn/topic/8wwqy5YqTET?tab=daily)
-23. [艾博生物与诺华达成合作 潜在总金额最高约 78 亿美元](https://readhub.cn/topic/8wyBVHXZxxM?tab=daily)
-24. [9 月中国大宗商品价格指数环比上涨 4.1%](https://readhub.cn/topic/8wyCvU0PD2f?tab=daily)
-25. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
-26. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://readhub.cn/topic/8wxsv3pceSA?tab=daily)
+23. [9 月中国大宗商品价格指数环比上涨 4.1%](https://readhub.cn/topic/8wyCvU0PD2f?tab=daily)
+24. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://readhub.cn/topic/8wxsv3pceSA?tab=daily)
+25. [OKX 向美 SEC 提交申请，拟推出代币化美股交易平台](https://readhub.cn/topic/8wyEMFJLryz?tab=daily)
+26. [天赐材料香港上市料筹资不超过 5 亿美元](https://readhub.cn/topic/8wy7vZCVZt4?tab=daily)
 
 ## 每日早报
 
@@ -43,13 +43,13 @@
 
 ## AI 资讯
 
-1. [诺奖得主 Eric Betzig：用 AlphaFold 开发新药会失败，生物学教科书是幻觉](https://www.mittrchina.com/news/detail/17053)
-2. [OpenAI 基金会要花 250 亿美元做科研，首批资助面向癌症疫苗和阿尔茨海默症](https://www.mittrchina.com/news/detail/17052)
-3. [AI 一年进展或压缩到五周，辛顿、Bengio 等 22 位顶尖学者联名警告：「智能爆炸」比想象中更近](https://www.mittrchina.com/news/detail/17050)
-4. [DeepSeek V4.1 Flash 发力，中美顶尖模型 LiveBench 跑分差距缩至 3%](https://www.ithome.com/1/009/751.htm)
-5. [英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元](https://finance.jrj.com.cn/2026/10/05075458615289.shtml)
-6. [Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案](https://www.ithome.com/1/009/755.htm)
-7. [华为首款「韬定律逻辑折叠」芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代](https://www.ithome.com/1/009/739.htm)
-8. [OpenAI 首席执行官：人工智能的益处值得承受风险](https://www.36kr.com/newsflashes/4012344172941441)
-9. [Anthropic 前研究员将出席纽约 AI 听证会作证，曾警告 AI 或毁灭人类](https://www.ithome.com/1/009/769.htm)
-10. [南亚科技布局晶圆级封测，将在屏东科学园区投资设厂](https://www.ithome.com/1/009/768.htm)
+1. [Shopify 推出 AI 建站工具 Canvas，深度自定义主题将不再获得官方更新](https://www.amz123.com/kx/ibStePw5)
+2. [诺奖得主 Eric Betzig：用 AlphaFold 开发新药会失败，生物学教科书是幻觉](https://www.mittrchina.com/news/detail/17053)
+3. [OpenAI 基金会要花 250 亿美元做科研，首批资助面向癌症疫苗和阿尔茨海默症](https://www.mittrchina.com/news/detail/17052)
+4. [Meta 推出 AI 购物代理 Muse 可代客下单，亚马逊已将其拦截](https://www.amz123.com/kx/mpGHpXNX)
+5. [AI 一年进展或压缩到五周，辛顿、Bengio 等 22 位顶尖学者联名警告：「智能爆炸」比想象中更近](https://www.mittrchina.com/news/detail/17050)
+6. [DeepSeek V4.1 Flash 发力，中美顶尖模型 LiveBench 跑分差距缩至 3%](https://www.ithome.com/1/009/751.htm)
+7. [英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元](https://finance.jrj.com.cn/2026/10/05075458615289.shtml)
+8. [Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案](https://www.ithome.com/1/009/755.htm)
+9. [华为首款「韬定律逻辑折叠」芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代](https://www.ithome.com/1/009/739.htm)
+10. [OpenAI 首席执行官：人工智能的益处值得承受风险](https://www.36kr.com/newsflashes/4012344172941441)
