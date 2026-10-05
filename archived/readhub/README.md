@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-05 18:17:17
+> 更新时间：2026-10-05 19:40:07
 
 ## 24 小时热榜
 
@@ -20,20 +20,20 @@
 14. [消息称苹果 iPhone 18 Pro 系列 W39 周国内销量预计 176 万台](https://readhub.cn/topic/8wwtSuLj0Zk?tab=daily)
 15. [Tibo 承诺连续 28 天发布或重置，OpenAI 遭遇用户信任危机](https://readhub.cn/topic/8wyUngiooAv?tab=daily)
 16. [施耐德电气接近以 200 亿美元收购工业软件集团 PTC](https://readhub.cn/topic/8wxm8gOMBMi?tab=daily)
-17. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
-18. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
+17. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
+18. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
 19. [天赐材料香港上市料筹资不超过 5 亿美元](https://readhub.cn/topic/8wy7vZCVZt4?tab=daily)
 20. [OKX 向美 SEC 提交申请，拟推出代币化美股交易平台](https://readhub.cn/topic/8wyEMFJLryz?tab=daily)
 21. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://readhub.cn/topic/8wxsv3pceSA?tab=daily)
 22. [艾博生物与诺华达成合作 潜在总金额最高约 78 亿美元](https://readhub.cn/topic/8wyBVHXZxxM?tab=daily)
-23. [我国牵头的 7 项天然气国际标准获国际标准化组织批准立项](https://readhub.cn/topic/8wyGVdgvf2e?tab=daily)
-24. [9 月中国大宗商品价格指数环比上涨 4.1%](https://readhub.cn/topic/8wyCvU0PD2f?tab=daily)
-25. [哈啰集团华东区域中心签约南京：总投资约 10 亿元 将布局智能换电柜点位](https://readhub.cn/topic/8wwqy5YqTET?tab=daily)
+23. [9 月中国大宗商品价格指数环比上涨 4.1%](https://readhub.cn/topic/8wyCvU0PD2f?tab=daily)
+24. [我国牵头的 7 项天然气国际标准获国际标准化组织批准立项](https://readhub.cn/topic/8wyGVdgvf2e?tab=daily)
+25. [印尼拟允许商品交易所用美元交易](https://readhub.cn/topic/8wyhem73wDc?tab=daily)
 26. [鸿海第三季度营收同比增长 47.1%](https://readhub.cn/topic/8wycJ9UN36V?tab=daily)
-27. [沙特阿美 CEO 称当前原油商业库存已降至不到 60 亿桶且大多无法动用](https://readhub.cn/topic/8wyeS8X6gLa?tab=daily)
-28. [看懂不等于做对：VA-Bench 测出大模型空间智能的执行断层](https://readhub.cn/topic/8wyOMYMt4fX?tab=daily)
-29. [印尼拟允许商品交易所用美元交易](https://readhub.cn/topic/8wyhem73wDc?tab=daily)
-30. [SocioVerse2：长程推演的社会模拟实验基地，让研究者和智能体携手进化](https://readhub.cn/topic/8wybwIPgwh8?tab=daily)
+27. [哈啰集团华东区域中心签约南京：总投资约 10 亿元 将布局智能换电柜点位](https://readhub.cn/topic/8wwqy5YqTET?tab=daily)
+28. [沙特阿美 CEO 称当前原油商业库存已降至不到 60 亿桶且大多无法动用](https://readhub.cn/topic/8wyeS8X6gLa?tab=daily)
+29. [腾讯控股回购 23.8 万股股份](https://readhub.cn/topic/8wylF0WWQSS?tab=daily)
+30. [看懂不等于做对：VA-Bench 测出大模型空间智能的执行断层](https://readhub.cn/topic/8wyOMYMt4fX?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [何恺明团队新作：给大模型加上「视觉记忆」，AGI 基准测试从 40 分升到 100 分](https://www.mittrchina.com/news/detail/17055)
-2. [创业一年即被收购，他想让高效 Token 成为 AI 时代的基础资源｜对话 Nebius 王瀚锐](https://www.mittrchina.com/news/detail/17054)
-3. [AI「读心术」更进一步：仅凭脑扫描，就能重建你正在看的画面](https://www.mittrchina.com/news/detail/17056)
-4. [华为与高通宣布达成广泛专利许可协议](https://api3.cls.cn/share/article/2497853?os=web&sv=8.4.6&app=CailianpressWeb)
-5. [彭博：中美顶级 AI 模型性能差距缩小至 3%，创历史新低](https://www.theblockbeats.info/flash/370280)
-6. [Cathie Wood：投资者应关注 AI Agent 资金流向，机器支付或成为下一轮 AI 采用指标](https://www.techflowpost.com/zh-CN/newsletter/138862)
-7. [高通与华为达成逻辑折叠芯片技术专利授权协议，加速出海](https://www.ithome.com/1/009/852.htm)
-8. [快手的视频 Agent，会不会来晚了？](https://www.tmtpost.com/8159522.html)
-9. [德国电信：预计到 2030 年，AI 和自动化将节省 25 亿欧元间接成本](https://www.36kr.com/newsflashes/4012625330917504)
-10. [阿里千问 AI 耳夹式耳机上架预约：Bose 调音，支持 89 种语言翻译](https://www.ithome.com/1/009/846.htm)
+1. [OpenAI 在 ChatGPT 中推出全新视觉广告形式](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
+2. [何恺明团队新作：给大模型加上「视觉记忆」，AGI 基准测试从 40 分升到 100 分](https://www.mittrchina.com/news/detail/17055)
+3. [创业一年即被收购，他想让高效 Token 成为 AI 时代的基础资源｜对话 Nebius 王瀚锐](https://www.mittrchina.com/news/detail/17054)
+4. [AI「读心术」更进一步：仅凭脑扫描，就能重建你正在看的画面](https://www.mittrchina.com/news/detail/17056)
+5. [存储价格还得涨 英伟达豪掷 1.87 万亿元锁定 HBM 产能：独占全球 37%](https://news.mydrivers.com/1/1155/1155449.htm)
+6. [华为与高通宣布达成广泛专利许可协议](https://api3.cls.cn/share/article/2497853?os=web&sv=8.4.6&app=CailianpressWeb)
+7. [英伟达重金力捧「美版 DeepSeek」将发布开源模型](https://bydrug.pharmcube.com/news/detail/16aeb18ef2da391119b80cb932492591)
+8. [彭博：中美顶级 AI 模型性能差距缩小至 3%，创历史新低](https://www.theblockbeats.info/flash/370280)
+9. [Cathie Wood：投资者应关注 AI Agent 资金流向，机器支付或成为下一轮 AI 采用指标](https://www.techflowpost.com/zh-CN/newsletter/138862)
+10. [高通与华为达成逻辑折叠芯片技术专利授权协议，加速出海](https://www.ithome.com/1/009/852.htm)
