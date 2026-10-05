@@ -1,17 +1,17 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-05 13:53:10
+> 更新时间：2026-10-05 14:34:40
 
 ## 股票人气榜
 
-1. [富祥股份 (300497)](https://quote.eastmoney.com/sz300497.html)
-2. [N力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
-3. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-4. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
-5. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
-6. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
-7. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
-8. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
+1. [N力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
+2. [富祥股份 (300497)](https://quote.eastmoney.com/sz300497.html)
+3. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
+4. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
+5. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
+6. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
+7. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
+8. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
 9. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 10. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
 11. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
@@ -22,5 +22,5 @@
 16. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
 17. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 18. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
-19. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
-20. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
+19. [剑桥科技 (603083)](https://quote.eastmoney.com/sh603083.html)
+20. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)

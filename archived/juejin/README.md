@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-05 13:52:13
+> 更新时间：2026-10-05 14:33:44
 
 ## 热门文章
 
@@ -14,20 +14,20 @@
 8. [Personal Agent 火了，新酿还是旧酒？](https://juejin.cn/post/7691717198448148518)
 9. [Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题](https://juejin.cn/post/7691876916195016719)
 10. [LangSmith：从链路追踪到 RAG 自动化评估](https://juejin.cn/post/7691774360802246671)
-11. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
-12. [多环境配置治理：开发、测试、生产连接信息如何隔离](https://juejin.cn/post/7691326130512265254)
+11. [多环境配置治理：开发、测试、生产连接信息如何隔离](https://juejin.cn/post/7691326130512265254)
+12. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
 13. [「vConsole MCP🛠️」我让 AI 直接看见任何 H5 的日志和请求帮你 debug](https://juejin.cn/post/7691270105432784931)
 14. [让 AI 替我看图：蓝耘 MaaS 视觉模型实测，全对背后有个必须学会的探测器](https://juejin.cn/post/7692676879360720923)
 15. [Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段](https://juejin.cn/post/7692296625806508072)
 16. [对于LangGraph的时间旅行底层机制的理解](https://juejin.cn/post/7691533849411829779)
 17. [ai agent --- mem0 外挂记忆系统](https://juejin.cn/post/7691517675236556854)
 18. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
-19. [Nuxt 中使用 useHead 优化 SEO 与 GEO](https://juejin.cn/post/7692387846459654178)
-20. [组合式 API（Composition API）](https://juejin.cn/post/7692042894160511011)
-21. [Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透](https://juejin.cn/post/7691898006993010698)
-22. [百万级数据导出OOM：POI的坑与EasyExcel的流式写入实战（附内存对比）](https://juejin.cn/post/7691585964053512238)
-23. [Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新](https://juejin.cn/post/7691498553261391912)
-24. [Claude Code Mods 是什么：给 Claude 加工具、在终端画界面](https://juejin.cn/post/7691498553260884008)
+19. [Claude Code Mods 是什么：给 Claude 加工具、在终端画界面](https://juejin.cn/post/7691498553260884008)
+20. [Nuxt 中使用 useHead 优化 SEO 与 GEO](https://juejin.cn/post/7692387846459654178)
+21. [组合式 API（Composition API）](https://juejin.cn/post/7692042894160511011)
+22. [Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透](https://juejin.cn/post/7691898006993010698)
+23. [百万级数据导出OOM：POI的坑与EasyExcel的流式写入实战（附内存对比）](https://juejin.cn/post/7691585964053512238)
+24. [Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新](https://juejin.cn/post/7691498553261391912)
 25. [什么是零拷贝？别被“零”字骗了：一次讲透完整链路](https://juejin.cn/post/7691917465479315519)
 26. [Personal Agent爆火 - 它到底是个什么](https://juejin.cn/post/7691537889868021795)
 27. [【硬核实战】React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It (2026-10-03)](https://juejin.cn/post/7692087017225322530)
@@ -49,8 +49,8 @@
 43. [别急着 JOIN，子查询有些场景更顺手](https://juejin.cn/post/7691585964054036526)
 44. [DicomViewer24 修复编译bug(window test 失败)](https://juejin.cn/post/7691585964052938798)
 45. [Agent 的决策与规划：ReAct、Plan-and-Execute、Reflexion 与 Tree of Thoughts](https://juejin.cn/post/7691510191482126387)
-46. [使用 Cloudflare Tunnel（本地管理隧道）搭配 DigitalPlat 免费域名实现内网穿透](https://juejin.cn/post/7691510191481274419)
-47. [开源的健身教练Skill，让Agent当上了私教](https://juejin.cn/post/7691399863524180006)
-48. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
-49. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
-50. [Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机](https://juejin.cn/post/7692379120273899560)
+46. [开源的健身教练Skill，让Agent当上了私教](https://juejin.cn/post/7691399863524180006)
+47. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
+48. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
+49. [Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机](https://juejin.cn/post/7692379120273899560)
+50. [Loop Engineering 保姆级教程 + 项目实战](https://juejin.cn/post/7692336657548279842)

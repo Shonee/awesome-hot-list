@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-05 13:52:31
+> 更新时间：2026-10-05 14:33:59
 
 ## 热新闻
 
@@ -18,8 +18,8 @@
 12. [轰6K飞行员讲述应对外机抵近跟监：在沿海上空我就是界碑](https://www.thepaper.cn/newsDetail_forward_34199140)
 13. [连续4天单日破亿！2026国庆档电影票房已超7亿](https://www.thepaper.cn/newsDetail_forward_34199238)
 14. [特朗普宣布成立“超级智能特别工作组”](https://www.thepaper.cn/newsDetail_forward_34199525)
-15. [观察｜亚运会这场“中考”，中国代表团考出惊喜，也考出忧虑](https://www.thepaper.cn/newsDetail_forward_34197195)
-16. [经纬度：青年发展型城市建设，何以成为城市发展新战略](https://www.thepaper.cn/newsDetail_forward_34196391)
+15. [经纬度：青年发展型城市建设，何以成为城市发展新战略](https://www.thepaper.cn/newsDetail_forward_34196391)
+16. [观察｜亚运会这场“中考”，中国代表团考出惊喜，也考出忧虑](https://www.thepaper.cn/newsDetail_forward_34197195)
 17. [中国团队拿下最佳故事奖，从阿斯塔纳这个电影节看AI的惊艳与短板](https://www.thepaper.cn/newsDetail_forward_34198273)
 18. [当刑侦片不再靠反转取胜，陈思诚这次把“唐探”商标撕了](https://www.thepaper.cn/newsDetail_forward_34197401)
 19. [具有风向标意义的巴西大选，也将是金砖格局和中巴关系的风向标](https://www.thepaper.cn/newsDetail_forward_34196260)

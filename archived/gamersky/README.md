@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-05 13:53:00
+> 更新时间：2026-10-05 14:34:31
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [亚运首位女子电竞金牌得主！桃晚安发文：不敢想象](https://www.gamersky.com/news/202610/2220792.shtml)
 12. [央视:《黑神话》销量超3000万份 中国文化出海典范](https://www.gamersky.com/news/202610/2221339.shtml)
 13. [曝《生化10》克莱尔回归当主角 2029年有望发售](https://www.gamersky.com/news/202610/2221067.shtml)
-14. [曝《生化危机10》同时登PS6和PS5 升级版RE引擎开发](https://www.gamersky.com/news/202610/2221318.shtml)
-15. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
+14. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
+15. [曝《生化危机10》同时登PS6和PS5 升级版RE引擎开发](https://www.gamersky.com/news/202610/2221318.shtml)
