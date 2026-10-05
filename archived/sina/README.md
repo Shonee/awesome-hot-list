@@ -1,11 +1,11 @@
 # 新浪热榜
 
-> 更新时间：2026-10-05 13:07:17
+> 更新时间：2026-10-05 13:52:36
 
 ## 新闻热榜
 
-1. [这个反华议员，被特朗普“开盒”了](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3596109.shtml)
-2. [被执行死刑的巫鸿明、白应苍出镜](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp4717812.shtml)
+1. [被执行死刑的巫鸿明、白应苍出镜](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp4717812.shtml)
+2. [这个反华议员，被特朗普“开盒”了](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3596109.shtml)
 3. [莫迪带领印度崛起，没有韬光养晦，反而提前开香槟？](https://news.sina.com.cn/w/2026-10-05/doc-iniucpwm3101130.shtml)
 4. [吴宜泽问鼎深圳公开赛，中国球员包揽斯诺克世界前二](https://news.sina.com.cn/c/2026-10-05/doc-iniuawyv4998176.shtml)
 5. [台湾时评员称蔡康永是典型的两面人](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9820728.shtml)
@@ -13,17 +13,17 @@
 7. [央视主播上新](https://news.sina.com.cn/c/2026-10-04/doc-iniuanmc6969977.shtml)
 8. [胜负彩26135期国内部分专业媒体复式推荐总汇](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp9814270.shtml)
 9. [消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼](https://news.sina.com.cn/w/2026-10-05/doc-iniucchr3304960.shtml)
-10. [美海岸警卫队继续搜寻失事飞机机上人员](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht9993152.shtml)
-11. [默茨会见泽连斯基，现场响起警报声和爆炸声，俄已连续四日轰炸基辅大桥，为冲突以来首次，泽连斯基称将不顾特朗普劝阻，加大打击俄炼油厂](https://news.sina.com.cn/w/2026-10-04/doc-iniuanma0228593.shtml)
-12. [[新浪彩票]足彩第26135期任九：西班牙力克格子军](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp4706009.shtml)
-13. [运-20B、运油-20接续升空！最新演练画面公布](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9795394.shtml)
-14. [中国足球彩票胜负彩26135期澳盘最新赔率(09:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582290.shtml)
-15. [亚运国足主帅：这一代中国球员有很大机会打进世界杯](https://news.sina.com.cn/c/2026-10-04/doc-iniuankz5220184.shtml)
-16. [美国撤回部署在英国的B-1轰炸机](https://news.sina.com.cn/w/2026-10-05/doc-iniucchv6761061.shtml)
-17. [[新浪彩票]足彩第26135期大势：国足谨慎防平](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101056.shtml)
-18. [民进党当局危险驱离大陆渔船，挑衅必须付出应有代价](https://mil.news.sina.com.cn/2026-10-04/doc-iniuahcc5298773.shtml)
-19. [波黑公布主席团成员选举初步结果](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht4917504.shtml)
-20. [惨剧！年轻中国夫妻在澳洲当场身亡！8天前刚过完结婚纪念日……警方呼吁提供线索](https://news.sina.com.cn/s/2026-10-04/doc-initzzvf5392477.shtml)
+10. [[新浪彩票]足彩第26135期任九：西班牙力克格子军](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp4706009.shtml)
+11. [美海岸警卫队继续搜寻失事飞机机上人员](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht9993152.shtml)
+12. [中国足球彩票胜负彩26135期澳盘最新赔率(09:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582290.shtml)
+13. [默茨会见泽连斯基，现场响起警报声和爆炸声，俄已连续四日轰炸基辅大桥，为冲突以来首次，泽连斯基称将不顾特朗普劝阻，加大打击俄炼油厂](https://news.sina.com.cn/w/2026-10-04/doc-iniuanma0228593.shtml)
+14. [运-20B、运油-20接续升空！最新演练画面公布](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9795394.shtml)
+15. [[新浪彩票]足彩第26135期大势：国足谨慎防平](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwm3101056.shtml)
+16. [胜负彩26135期欧洲四大机构最新数据(09:00)](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwr6582522.shtml)
+17. [亚运国足主帅：这一代中国球员有很大机会打进世界杯](https://news.sina.com.cn/c/2026-10-04/doc-iniuankz5220184.shtml)
+18. [美国撤回部署在英国的B-1轰炸机](https://news.sina.com.cn/w/2026-10-05/doc-iniucchv6761061.shtml)
+19. [巴西总统选举首轮投票无人胜出 将进行第二轮角逐](https://news.sina.com.cn/w/2026-10-05/doc-iniucpwp4695424.shtml)
+20. [德总理会见泽连斯基，现场响起爆炸声](https://news.sina.com.cn/w/2026-10-05/doc-iniucuep6501227.shtml)
 
 ## 财经热榜
 

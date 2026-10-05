@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-05 07:11:16
+> 更新时间：2026-10-05 13:52:11
 
 ## 每日趋势
 
@@ -14,11 +14,12 @@
 8. [OpenMontage](https://github.com/calesthio/OpenMontage)
 9. [t3code](https://github.com/pingdotgg/t3code)
 10. [caddy](https://github.com/caddyserver/caddy)
-11. [agent-skills](https://github.com/addyosmani/agent-skills)
-12. [claude-mem](https://github.com/thedotmack/claude-mem)
-13. [gstack](https://github.com/garrytan/gstack)
-14. [OpenCut](https://github.com/OpenCut-app/OpenCut)
-15. [ds4](https://github.com/antirez/ds4)
+11. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
+12. [agent-skills](https://github.com/addyosmani/agent-skills)
+13. [claude-mem](https://github.com/thedotmack/claude-mem)
+14. [gstack](https://github.com/garrytan/gstack)
+15. [OpenCut](https://github.com/OpenCut-app/OpenCut)
+16. [ds4](https://github.com/antirez/ds4)
 
 ## 每周趋势
 
@@ -145,10 +146,11 @@
 2. [next.js](https://github.com/vercel/next.js)
 3. [up](https://github.com/byoungd/up)
 4. [starnet](https://github.com/androoAGI/starnet)
-5. [Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
-6. [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
-7. [agent-skills](https://github.com/vercel-labs/agent-skills)
-8. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-9. [ponytail](https://github.com/DietrichGebert/ponytail)
-10. [tvbox](https://github.com/qist/tvbox)
-11. [openGym](https://github.com/DuarteSantos8/openGym)
+5. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
+6. [Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
+7. [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
+8. [agent-skills](https://github.com/vercel-labs/agent-skills)
+9. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+10. [ponytail](https://github.com/DietrichGebert/ponytail)
+11. [tvbox](https://github.com/qist/tvbox)
+12. [openGym](https://github.com/DuarteSantos8/openGym)

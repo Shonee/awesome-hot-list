@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-05 13:07:59
+> 更新时间：2026-10-05 13:53:41
 
 ## Hottest
 
@@ -13,9 +13,9 @@
 7. [grubby: static site generator for git repos written in Ruby](https://git.btxx.org/grubby)
 8. [The complement of true is true, except when it's false](https://dryperspective.github.io/posts/complement-of-true/)
 9. [Self-hosted HTTP tunnels with SSH and nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-10. [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
-11. [Hacking the Go compiler to efficiently map IPv4 to IPv6](https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6)
-12. [Claude Says](https://ohhfishal.net/Posts/claude)
+10. [Claude Says](https://ohhfishal.net/Posts/claude)
+11. [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+12. [Hacking the Go compiler to efficiently map IPv4 to IPv6](https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6)
 13. [Flatpak from the CLI sucks](https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/)
 14. [Broadcasting conglomerates are attempting a takeover of over-the-air television. We must defend it](https://place.reeseric.ci/writings/2026-10-04/)
 15. [Protocol-aware recovery for consensus-based storage (2018)](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
@@ -27,5 +27,5 @@
 21. [Building a RAG Pipeline for Semantic Code Search](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
 22. [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/)
 23. [The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)
-24. [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
-25. [Improving and Stabilizing the racoon2 IKE Daemon in NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2)
+24. [Improving and Stabilizing the racoon2 IKE Daemon in NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2)
+25. [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
