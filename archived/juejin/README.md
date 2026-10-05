@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-05 09:36:20
+> 更新时间：2026-10-05 10:29:10
 
 ## 热门文章
 
@@ -21,19 +21,19 @@
 15. [iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突](https://juejin.cn/post/7691450666427547702)
 16. [GitHub 周榜趋势速报 | 2026-10-02](https://juejin.cn/post/7691399863522918438)
 17. [Nuxt 中使用 useHead 优化 SEO 与 GEO](https://juejin.cn/post/7692387846459654178)
-18. [Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透](https://juejin.cn/post/7691898006993010698)
-19. [对于LangGraph的时间旅行底层机制的理解](https://juejin.cn/post/7691533849411829779)
-20. [ai agent --- mem0 外挂记忆系统](https://juejin.cn/post/7691517675236556854)
-21. [Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新](https://juejin.cn/post/7691498553261391912)
-22. [GitHub 今日推荐｜archify：AI 代理自动生成可交互架构图的技能模块](https://juejin.cn/post/7691231869480566830)
-23. [组合式 API（Composition API）](https://juejin.cn/post/7692042894160511011)
+18. [组合式 API（Composition API）](https://juejin.cn/post/7692042894160511011)
+19. [Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透](https://juejin.cn/post/7691898006993010698)
+20. [对于LangGraph的时间旅行底层机制的理解](https://juejin.cn/post/7691533849411829779)
+21. [ai agent --- mem0 外挂记忆系统](https://juejin.cn/post/7691517675236556854)
+22. [Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新](https://juejin.cn/post/7691498553261391912)
+23. [Claude Code Mods 是什么：给 Claude 加工具、在终端画界面](https://juejin.cn/post/7691498553260884008)
 24. [什么是零拷贝？别被“零”字骗了：一次讲透完整链路](https://juejin.cn/post/7691917465479315519)
-25. [Personal Agent爆火 - 它到底是个什么](https://juejin.cn/post/7691537889868021795)
-26. [Claude Code Mods 是什么：给 Claude 加工具、在终端画界面](https://juejin.cn/post/7691498553260884008)
+25. [百万级数据导出OOM：POI的坑与EasyExcel的流式写入实战（附内存对比）](https://juejin.cn/post/7691585964053512238)
+26. [Personal Agent爆火 - 它到底是个什么](https://juejin.cn/post/7691537889868021795)
 27. [我让AI教学生写前端，三天后课堂变了——Web教育者的集体反思](https://juejin.cn/post/7691246755552116755)
-28. [百万级数据导出OOM：POI的坑与EasyExcel的流式写入实战（附内存对比）](https://juejin.cn/post/7691585964053512238)
+28. [Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段](https://juejin.cn/post/7692296625806508072)
 29. [【硬核实战】React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It (2026-10-03)](https://juejin.cn/post/7692087017225322530)
-30. [Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段](https://juejin.cn/post/7692296625806508072)
+30. [LangChain4j 新手入门实战教程（Java版）](https://juejin.cn/post/7692127219867123750)
 31. [GitHub 今日推荐｜lipflow：无麦克风唇读文字输入工具](https://juejin.cn/post/7692059206256738313)
 32. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
 33. [Prompt Engineering 面试怎么考？这 5 个范式你必须会](https://juejin.cn/post/7692042894160773155)
@@ -50,7 +50,7 @@
 44. [使用 Cloudflare Tunnel（本地管理隧道）搭配 DigitalPlat 免费域名实现内网穿透](https://juejin.cn/post/7691510191481274419)
 45. [GitHub 日榜趋势速报 | 2026-10-03](https://juejin.cn/post/7691479433083142171)
 46. [开源的健身教练Skill，让Agent当上了私教](https://juejin.cn/post/7691399863524180006)
-47. [Android 16系统 如何修改 eth0 IP ？](https://juejin.cn/post/7692229946185498674)
-48. [2026-09-27-Qwen-Image-2.1-1660Ti本地部署实战](https://juejin.cn/post/7692143474695569458)
-49. [LangChain4j 新手入门实战教程（Java版）](https://juejin.cn/post/7692127219867123750)
-50. [我给 DeepSeek 的编程智能体写了三个插件:余额胶囊、任务面板、番茄钟](https://juejin.cn/post/7692059206256394249)
+47. [CUDA 与 N 卡驱动安装](https://juejin.cn/post/7691259040727220262)
+48. [LangChain 之二：组合原语深拆](https://juejin.cn/post/7691717198449082406)
+49. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
+50. [Android 16系统 如何修改 eth0 IP ？](https://juejin.cn/post/7692229946185498674)
