@@ -1,14 +1,14 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-05 08:39:32
+> 更新时间：2026-10-05 09:38:13
 
 ## Hottest
 
 1. [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
 2. [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)
 3. [Why don’t more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-4. [grubby: static site generator for git repos written in Ruby](https://git.btxx.org/grubby)
-5. [We’re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+4. [We’re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+5. [grubby: static site generator for git repos written in Ruby](https://git.btxx.org/grubby)
 6. [The complement of true is true, except when it's false](https://dryperspective.github.io/posts/complement-of-true/)
 7. [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
 8. [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
@@ -24,8 +24,8 @@
 18. [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
 19. [Improving and Stabilizing the racoon2 IKE Daemon in NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2)
 20. [Rust, In Sickness & In Health](https://www.youtube.com/watch?v=3kbPyuAtk7g)
-21. [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
-22. [How to Hack Time, With C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html)
+21. [How to Hack Time, With C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html)
+22. [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
 23. [Why I recommend Renovate over any other dependency update tools (2024)](https://www.jvt.me/posts/2024/04/12/use-renovate/)
 24. [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html)
 25. [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/)
