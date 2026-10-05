@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 03:13:50
+> 更新时间：2026-10-06 03:46:15
 
 ## 新闻热榜
 
@@ -29,21 +29,21 @@
 
 1. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
 2. [阿斯利康在马萨诸塞州剑桥市肯德尔广场开设全新全球战略研发中心，阿斯利康投资 10 亿美元，将马萨诸塞州员工数量增幅扩大 50% 以上。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9380490.shtml)
-3. [公布在即！美联储，加息大消息！](https://finance.sina.com.cn/stock/2026-10-04/doc-initzvpk0416710.shtml)
-4. [拉脱维亚总理库尔贝格斯：出口民调显示我方支持率高于预期，这是民众给出的强烈回应。](https://finance.sina.com.cn/7x24/2026-10-04/doc-inityptt0490472.shtml)
-5. [梅德韦杰夫警告称，若乌克兰要求“封锁”俄罗斯“黎明”卫星星座等同于摧毁行为，将引发全面太空战并威胁星链低轨卫星](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0448064.shtml)
-6. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
-7. [法国汽车制造商雷诺利用大规模制造经验进军无人机领域](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0326172.shtml)
-8. [超强厄尔尼诺刺激 这品种价格创9年新高！](https://finance.sina.com.cn/stock/relnews/cn/2026-10-04/doc-initzvpm7152103.shtml)
-9. [马斯克突爆大消息！SpaceXAI更名为SpaceXSI](https://finance.sina.com.cn/stock/2026-10-04/doc-iniuahcc5313208.shtml)
-10. [五粮液普五八代大涨重上800元 茅台1935再创月新高 洋河梦之蓝M6+、青花郎重跌](https://finance.sina.com.cn/chanjing/jync/2026-10-04/doc-initzkxm4038889.shtml)
-11. [伊拉克：此举旨在让国家石油销售机构 SOMO 在原油销售方面拥有更大灵活性。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzp3625134.shtml)
-12. [太危险！男子高速上开智驾后睡着](https://finance.sina.com.cn/jjxw/2026-10-04/doc-iniuanma0231110.shtml)
-13. [沙特对也门多地发动猛烈袭击，穆哈港遭轰炸](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuahcf7083745.shtml)
-14. [美联储最新会议纪要暗藏玄机，欧洲债市下一个引爆点是法国？](https://finance.sina.com.cn/roll/2026-10-04/doc-initzerr5763730.shtml)
-15. [“全世界都知道中国人放假了”！黄金周长假推动出入境游双向升温](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvh0332342.shtml)
-16. [沙特阿美石油公司遭袭](https://finance.sina.com.cn/wm/2026-10-04/doc-initzkxm4040338.shtml)
-17. [哈啰集团落子南京](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7149677.shtml)
-18. [国际能源署：已释放约3.25亿桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initytzv5936834.shtml)
-19. [伊朗革命卫队近日对7艘“违规”油轮采取行动](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzerp4134450.shtml)
-20. [视频丨张雪谈国足0-5惨败巴勒斯坦：提议把比赛权限给国内商业队，赛前通过打淘汰赛来决定让谁去踢](https://finance.sina.com.cn/stock/companyt/2026-10-04/doc-initzerr5752216.shtml)
+3. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
+4. [沙特阿美石油公司遭袭](https://finance.sina.com.cn/wm/2026-10-04/doc-initzkxm4040338.shtml)
+5. [哈啰集团落子南京](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7149677.shtml)
+6. [国际能源署：已释放约3.25亿桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initytzv5936834.shtml)
+7. [伊朗革命卫队近日对7艘“违规”油轮采取行动](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzerp4134450.shtml)
+8. [视频丨张雪谈国足0-5惨败巴勒斯坦：提议把比赛权限给国内商业队，赛前通过打淘汰赛来决定让谁去踢](https://finance.sina.com.cn/stock/companyt/2026-10-04/doc-initzerr5752216.shtml)
+9. [贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-04/doc-initzrfn0452363.shtml)
+10. [票房第一，这部影片火了！背后公司有它们](https://finance.sina.com.cn/roll/2026-10-04/doc-initzerr5744704.shtml)
+11. [默茨访乌带来13.5亿欧元援助，德乌拟敲定无人机和远程武器联合生产协议](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5484485.shtml)
+12. [报道：白宫新设人工智能专项工作组评估技术风险](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzerm0215400.shtml)
+13. [美国地质调查局：日本火山列岛地区发生5.5级地震。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuahce0315465.shtml)
+14. [美国国务院：“强烈敦促” 埃塞俄比亚与厄立特里亚尊重邻国主权与领土完整。](https://finance.sina.com.cn/7x24/2026-10-04/doc-inityyim3546023.shtml)
+15. [黑神话销量超3000万份](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7098888.shtml)
+16. [特朗普提名约翰·科尔为美总统人质事务特使](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanmc7002041.shtml)
+17. [美国联邦贸易委员会主席弗格森向全美 24 家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9387018.shtml)
+18. [伊朗外长：任何侵略行径将迎来更沉重的回击](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0445520.shtml)
+19. [以色列将把汽油消费税每升下调半个谢克尔。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanma0243810.shtml)
+20. [白宫国家经济委员会主任哈塞特：抵押贷款利率必须下降，“绝对属实”。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanma0224522.shtml)

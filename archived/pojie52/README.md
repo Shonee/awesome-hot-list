@@ -1,19 +1,19 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-06 03:13:40
+> 更新时间：2026-10-06 03:46:00
 
 ## 人气热门
 
-1. [电子手撕老黄历，不再需要每年买新的了！](https://www.52pojie.cn/thread-2130925-1-1.html)
-2. [系统维护与优化工具 Dism++10.1.1002.1B 新增日夜模式 qqycra 修改版](https://www.52pojie.cn/thread-2130870-1-1.html)
-3. [文件工作台 办公工具箱 v1.3.3](https://www.52pojie.cn/thread-2130753-1-1.html)
-4. [拖把更名器 20260928 弹窗修复版](https://www.52pojie.cn/thread-2130217-1-1.html)
-5. [zh-cn_windows_11_business_editions_version_26h2_x64_dvd_74d48a06.iso](https://www.52pojie.cn/thread-2130526-1-1.html)
-6. [随身听书 安卓端 v1.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
-7. [迅雷17【25.1.22.1660】绿色精简版](https://www.52pojie.cn/thread-2130844-1-1.html)
-8. [素言输入法  v5.2.2](https://www.52pojie.cn/thread-2130302-1-1.html)
-9. [特殊字符输入器  v1.0](https://www.52pojie.cn/thread-2130471-1-1.html)
-10. [《血战上海滩》九项属性修改器 源代码分享](https://www.52pojie.cn/thread-2130653-1-1.html)
+1. [《血战上海滩》九项属性修改器 源代码分享](https://www.52pojie.cn/thread-2130653-1-1.html)
+2. [迅雷17【25.1.22.1660】绿色精简版](https://www.52pojie.cn/thread-2130844-1-1.html)
+3. [电子手撕老黄历，不再需要每年买新的了！](https://www.52pojie.cn/thread-2130925-1-1.html)
+4. [系统维护与优化工具 Dism++10.1.1002.1B 新增日夜模式 qqycra 修改版](https://www.52pojie.cn/thread-2130870-1-1.html)
+5. [文件工作台 办公工具箱 v1.3.3](https://www.52pojie.cn/thread-2130753-1-1.html)
+6. [拖把更名器 20260928 弹窗修复版](https://www.52pojie.cn/thread-2130217-1-1.html)
+7. [zh-cn_windows_11_business_editions_version_26h2_x64_dvd_74d48a06.iso](https://www.52pojie.cn/thread-2130526-1-1.html)
+8. [随身听书 安卓端 v1.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
+9. [素言输入法  v5.2.2](https://www.52pojie.cn/thread-2130302-1-1.html)
+10. [特殊字符输入器  v1.0](https://www.52pojie.cn/thread-2130471-1-1.html)
 11. [PDF、图片转EXL、WORD工具V26.10.1](https://www.52pojie.cn/thread-2130644-1-1.html)
 12. [随身听书 v1.0, 一款聚合听书工具](https://www.52pojie.cn/thread-2130784-1-1.html)
 13. [桌面图标美化工具v1.1.0](https://www.52pojie.cn/thread-2130523-1-1.html)
