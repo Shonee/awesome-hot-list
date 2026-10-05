@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-06 05:18:27
+> 更新时间：2026-10-06 06:37:48
 
 ## 24 小时热榜
 
@@ -11,8 +11,8 @@
 5. [DeepSeek Harness 更新 新增实验性 Claude Code Mods 兼容层](https://readhub.cn/topic/8wx5cDnAJqX?tab=daily)
 6. [中国人民大学一校友捐资 5.03 亿元 建设通州校区体育中心](https://readhub.cn/topic/8wwx37yMUQs?tab=daily)
 7. [ChatGPT  10 月 14 日起全套餐下线 GPT-5.5](https://readhub.cn/topic/8wxR33BaZeU?tab=daily)
-8. [国庆假期广州南站最短发车间隔 40 秒](https://readhub.cn/topic/8wws2W20Hjk?tab=daily)
-9. [特朗普宣布成立超级智能工作组](https://readhub.cn/topic/8wxHm1CQFAf?tab=daily)
+8. [特朗普宣布成立超级智能工作组](https://readhub.cn/topic/8wxHm1CQFAf?tab=daily)
+9. [国庆假期广州南站最短发车间隔 40 秒](https://readhub.cn/topic/8wws2W20Hjk?tab=daily)
 10. [离职员工爆料 OpenAI 风险意识不足](https://readhub.cn/topic/8wwsOeTgaC9?tab=daily)
 11. [小马智行回应乘客被夹手事件：属意外非交通事故 已配合交警调查](https://readhub.cn/topic/8wwuXm8dIDo?tab=daily)
 12. [消息称苹果 iPhone 18 Pro 系列 W39 周国内销量预计 176 万台](https://readhub.cn/topic/8wwtSuLj0Zk?tab=daily)
@@ -37,13 +37,13 @@
 
 ## 每日早报
 
-1. [10.04 苹果回应 iPhone 18 Pro Max 故障 部分机型需换机 13 条](https://readhub.cn/daily/2026-10-04)
-2. [10.03 腾讯与甲骨文签订五年协议 可获得约 10 万颗高端 AI 芯片 11 条](https://readhub.cn/daily/2026-10-03)
-3. [10.02 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 12 条](https://readhub.cn/daily/2026-10-02)
-4. [10.01 DeepSeek 开源昇腾基础组件 16 条](https://readhub.cn/daily/2026-10-01)
-5. [09.30 OpenAI 推出全天候自主智能体 Dot、GPT-6.1 Sol 模型 13 条](https://readhub.cn/daily/2026-09-30)
-6. [09.29 Anthropic 推出低成本 AI 模型 Sonnet 5.5 13 条](https://readhub.cn/daily/2026-09-29)
-7. [09.28 OpenAI 因 Agent 多次越权逃逸事件暂停相关训练 9 条](https://readhub.cn/daily/2026-09-28)
+1. [10.05 Anthropic 借 OpenEvidence 把医疗 AI 铺向 100 国 16 条](https://readhub.cn/daily/2026-10-05)
+2. [10.04 苹果回应 iPhone 18 Pro Max 故障 部分机型需换机 13 条](https://readhub.cn/daily/2026-10-04)
+3. [10.03 腾讯与甲骨文签订五年协议 可获得约 10 万颗高端 AI 芯片 11 条](https://readhub.cn/daily/2026-10-03)
+4. [10.02 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 12 条](https://readhub.cn/daily/2026-10-02)
+5. [10.01 DeepSeek 开源昇腾基础组件 16 条](https://readhub.cn/daily/2026-10-01)
+6. [09.30 OpenAI 推出全天候自主智能体 Dot、GPT-6.1 Sol 模型 13 条](https://readhub.cn/daily/2026-09-30)
+7. [09.29 Anthropic 推出低成本 AI 模型 Sonnet 5.5 13 条](https://readhub.cn/daily/2026-09-29)
 
 ## AI 资讯
 
@@ -51,9 +51,9 @@
 2. [OpenAI 在 ChatGPT 中推出全新视觉广告形式](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
 3. [何恺明团队新作：给大模型加上「视觉记忆」，AGI 基准测试从 40 分升到 100 分](https://www.mittrchina.com/news/detail/17055)
 4. [From Scan to Treatment Plan, AI Helps Close Breast Cancer's Deadliest Gaps](https://blogs.nvidia.com/blog/ai-breast-cancer-startups/)
-5. [创业一年即被收购，他想让高效 Token 成为 AI 时代的基础资源｜对话 Nebius 王瀚锐](https://www.mittrchina.com/news/detail/17054)
-6. [Meta、微软设法减少员工对 Claude 依赖：Meta 内部使用人数减半，微软预算砍掉三分之一](https://wallstreetcn.com/articles/3783031)
-7. [Karl Deisseroth, Peter Hegemann and Georg Nagel win 2026 Nobel Prize in Medicine for optogenetics](https://daily.dev/posts/2026-nobel-prize-in-medicine-goes-to-optogenetics-pioneers-and-the-committee-warns-against-ai-brain-q09nze4ta)
-8. [报道：OpenAI 正与阿联酋基金、贝莱德洽谈 300 亿美元融资轮](https://wallstreetcn.com/articles/3783035)
-9. [维基基金会称发现 OpenAI「失控」AI 代理活动](https://www.gelonghui.com/live/2698569)
-10. [AI「读心术」更进一步：仅凭脑扫描，就能重建你正在看的画面](https://www.mittrchina.com/news/detail/17056)
+5. [华尔街银团启动创纪录的 600 亿美元 AI 融资交易](https://www.gelonghui.com/live/2698646)
+6. [创业一年即被收购，他想让高效 Token 成为 AI 时代的基础资源｜对话 Nebius 王瀚锐](https://www.mittrchina.com/news/detail/17054)
+7. [Meta、微软设法减少员工对 Claude 依赖：Meta 内部使用人数减半，微软预算砍掉三分之一](https://wallstreetcn.com/articles/3783031)
+8. [Dell, Apollo and Jera launch $140 billion plan to build up to 4GW of AI data centers across Japan and Asia](https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia)
+9. [Karl Deisseroth, Peter Hegemann and Georg Nagel win 2026 Nobel Prize in Medicine for optogenetics](https://daily.dev/posts/2026-nobel-prize-in-medicine-goes-to-optogenetics-pioneers-and-the-committee-warns-against-ai-brain-q09nze4ta)
+10. [报道：OpenAI 正与阿联酋基金、贝莱德洽谈 300 亿美元融资轮](https://wallstreetcn.com/articles/3783035)
