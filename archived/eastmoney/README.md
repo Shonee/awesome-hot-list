@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-05 20:21:24
+> 更新时间：2026-10-05 20:55:07
 
 ## 股票人气榜
 
@@ -8,8 +8,8 @@
 2. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
 3. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
 4. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-5. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
-6. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
+5. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
+6. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
 7. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
 8. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 9. [富祥股份 (300497)](https://quote.eastmoney.com/sz300497.html)
@@ -18,9 +18,9 @@
 12. [昭衍新药 (603127)](https://quote.eastmoney.com/sh603127.html)
 13. [剑桥科技 (603083)](https://quote.eastmoney.com/sh603083.html)
 14. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
-15. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
-16. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
-17. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-18. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
-19. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+15. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+16. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+17. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
+18. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
+19. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
 20. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)

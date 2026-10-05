@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-05 20:20:56
+> 更新时间：2026-10-05 20:54:35
 
 ## 最新帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [半夜校园网断网，为什么流量也用不了？](https://www.cnblogs.com/Reisentyan/p/23193616)
-2. [把 OpenClaw.NET 的 83 篇 Markdown 变成一个网站：完整复盘](https://www.cnblogs.com/shanyou/p/23192862)
+2. [Qwen-Image2.1-本地AI漫画工作室](https://www.cnblogs.com/wyang/p/23198892)
 3. [开源：一稿多投工具（仅4M，支持9大平台）](https://www.cnblogs.com/liulun/p/23197056)
-4. [Qwen-Image2.1-本地AI漫画工作室](https://www.cnblogs.com/wyang/p/23198892)
-5. [语言选型的新坐标：反馈确定性](https://www.cnblogs.com/shanyou/p/23198672)
-6. [JT/T 808 部标车辆监控平台实战（第 1 篇 · 业务与架构）](https://www.cnblogs.com/xcj26/p/23192965)
+4. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
+5. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
+6. [语言选型的新坐标：反馈确定性](https://www.cnblogs.com/shanyou/p/23198672)

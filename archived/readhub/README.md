@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-05 19:40:07
+> 更新时间：2026-10-05 20:54:45
 
 ## 24 小时热榜
 
@@ -20,8 +20,8 @@
 14. [消息称苹果 iPhone 18 Pro 系列 W39 周国内销量预计 176 万台](https://readhub.cn/topic/8wwtSuLj0Zk?tab=daily)
 15. [Tibo 承诺连续 28 天发布或重置，OpenAI 遭遇用户信任危机](https://readhub.cn/topic/8wyUngiooAv?tab=daily)
 16. [施耐德电气接近以 200 亿美元收购工业软件集团 PTC](https://readhub.cn/topic/8wxm8gOMBMi?tab=daily)
-17. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
-18. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
+17. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
+18. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
 19. [天赐材料香港上市料筹资不超过 5 亿美元](https://readhub.cn/topic/8wy7vZCVZt4?tab=daily)
 20. [OKX 向美 SEC 提交申请，拟推出代币化美股交易平台](https://readhub.cn/topic/8wyEMFJLryz?tab=daily)
 21. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://readhub.cn/topic/8wxsv3pceSA?tab=daily)
@@ -51,9 +51,9 @@
 2. [何恺明团队新作：给大模型加上「视觉记忆」，AGI 基准测试从 40 分升到 100 分](https://www.mittrchina.com/news/detail/17055)
 3. [创业一年即被收购，他想让高效 Token 成为 AI 时代的基础资源｜对话 Nebius 王瀚锐](https://www.mittrchina.com/news/detail/17054)
 4. [AI「读心术」更进一步：仅凭脑扫描，就能重建你正在看的画面](https://www.mittrchina.com/news/detail/17056)
-5. [存储价格还得涨 英伟达豪掷 1.87 万亿元锁定 HBM 产能：独占全球 37%](https://news.mydrivers.com/1/1155/1155449.htm)
-6. [华为与高通宣布达成广泛专利许可协议](https://api3.cls.cn/share/article/2497853?os=web&sv=8.4.6&app=CailianpressWeb)
-7. [英伟达重金力捧「美版 DeepSeek」将发布开源模型](https://bydrug.pharmcube.com/news/detail/16aeb18ef2da391119b80cb932492591)
-8. [彭博：中美顶级 AI 模型性能差距缩小至 3%，创历史新低](https://www.theblockbeats.info/flash/370280)
-9. [Cathie Wood：投资者应关注 AI Agent 资金流向，机器支付或成为下一轮 AI 采用指标](https://www.techflowpost.com/zh-CN/newsletter/138862)
-10. [高通与华为达成逻辑折叠芯片技术专利授权协议，加速出海](https://www.ithome.com/1/009/852.htm)
+5. [英伟达苹果微软集体上门 英特尔 14A 工艺被曝接受评估：正面硬刚台积电](https://news.mydrivers.com/1/1155/1155453.htm)
+6. [OpenAI claims Navier-Stokes Millennium Prize solution as mathematicians push back](https://daily.dev/posts/ai-in-mathematics-challenges-academic-norms-wgozf6vj3)
+7. [存储价格还得涨 英伟达豪掷 1.87 万亿元锁定 HBM 产能：独占全球 37%](https://news.mydrivers.com/1/1155/1155449.htm)
+8. [华为与高通宣布达成广泛专利许可协议](https://api3.cls.cn/share/article/2497853?os=web&sv=8.4.6&app=CailianpressWeb)
+9. [英伟达重金力捧「美版 DeepSeek」将发布开源模型](https://bydrug.pharmcube.com/news/detail/16aeb18ef2da391119b80cb932492591)
+10. [彭博：中美顶级 AI 模型性能差距缩小至 3%，创历史新低](https://www.theblockbeats.info/flash/370280)
