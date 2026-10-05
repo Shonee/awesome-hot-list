@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 06:12:54
+> 更新时间：2026-10-06 07:12:14
 
 ## 新闻热榜
 
@@ -29,21 +29,21 @@
 
 1. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
 2. [阿斯利康在马萨诸塞州剑桥市肯德尔广场开设全新全球战略研发中心，阿斯利康投资 10 亿美元，将马萨诸塞州员工数量增幅扩大 50% 以上。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9380490.shtml)
-3. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
-4. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
+3. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
+4. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
 5. [谷歌、亚马逊、微软为何离不开中国数据中心供应商](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9381497.shtml)
-6. [美国联邦贸易委员会主席弗格森向全美 24 家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9387018.shtml)
-7. [伊朗外长：任何侵略行径将迎来更沉重的回击](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0445520.shtml)
-8. [以色列将把汽油消费税每升下调半个谢克尔。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanma0243810.shtml)
-9. [白宫国家经济委员会主任哈塞特：抵押贷款利率必须下降，“绝对属实”。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanma0224522.shtml)
-10. [不眠夜！美股，通宵交易，要来了！](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpi5478402.shtml)
-11. [这三张图表，有望重新点燃投资者对股市的信心](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv4087870.shtml)
-12. [也门总统领导委员会主席称，已开始展开军事行动，从胡塞武装手中收复剩余领土。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanmc6967126.shtml)
-13. [加密货币Basic Attention Token日内上涨7.2%。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7095599.shtml)
-14. [欧洲股市受大宗商品股提振 英国对中国电动车关税报道推升汽车股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6171320.shtml)
-15. [通胀冲击历史性升温，日本民众餐桌承压](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzeri3473931.shtml)
-16. [美国9月非农意外“爆冷”，节后A股会迎来“开门红”吗？](https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzkxi0172210.shtml)
-17. [伊朗央行投放20亿美元仍未止跌，里亚尔再创历史新低](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5488648.shtml)
-18. [欧盟委员会否决向波兰曼恩卡车工厂提供 2600 万欧元补贴。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9379287.shtml)
-19. [华尔街IPO热潮降温 需求疲软与估值担忧导致多宗上市暂停](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0323551.shtml)
-20. [“余总转发文案”，余承东微博文案“翻车”，误将工作人员提醒一并发出](https://finance.sina.com.cn/tech/shenji/2026-10-04/doc-initzrfp7272344.shtml)
+6. [这三张图表，有望重新点燃投资者对股市的信心](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv4087870.shtml)
+7. [欧洲股市受大宗商品股提振 英国对中国电动车关税报道推升汽车股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6171320.shtml)
+8. [美国联邦贸易委员会主席弗格森向全美 24 家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9387018.shtml)
+9. [欧盟委员会否决向波兰曼恩卡车工厂提供 2600 万欧元补贴。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9379287.shtml)
+10. [法国央行行长就利率发出警告](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6178713.shtml)
+11. [伊朗外交部发言人表示，未讨论国际原子能机构核查人员返回一事。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvh0335979.shtml)
+12. [花旗建议加码巴西风险资产 此前博索纳罗在首轮投票中表现强于预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9404195.shtml)
+13. [花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml)
+14. [乌克兰总统泽连斯基：俄罗斯对乌克兰城市发动打击，是因为莫斯科在战场上无法实现其目标。](https://finance.sina.com.cn/7x24/2026-10-04/doc-inityptt0453793.shtml)
+15. [9月机构调研股票数量超600只 朱少醒、邓晓峰等明星基金经理盯上这些股](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzeri3489023.shtml)
+16. [伊朗外交部发言人巴加埃：伊朗通过卡塔尔多哈的调解人向美方提议发出的明确而有力的回应，暴露了华盛顿企图将对话引向核议题的图谋未能得](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7110348.shtml)
+17. [9月公募调研“十大热门股”出炉，电子行业占据七席](https://finance.sina.com.cn/roll/2026-10-04/doc-iniuahce0287630.shtml)
+18. [俄国防部称对乌打击升级系回应泽连斯基行动，要求其承担个人责任](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuahcf7041965.shtml)
+19. [伊朗股市下跌2.4万点，收至778.3万点](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7159401.shtml)
+20. [默茨未事先宣布的基辅之行在德国引发不满： 对乌克兰的“进贡”连节假日都不停止](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvh0370788.shtml)
