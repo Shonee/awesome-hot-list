@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 01:11:47
+> 更新时间：2026-10-06 02:17:12
 
 ## 新闻热榜
 
@@ -27,23 +27,22 @@
 
 ## 财经热榜
 
-1. [英伟达重返世界之巅，市值逼6万亿美元！但斌激动万分，大摩：再涨30%](https://finance.sina.com.cn/stock/companyt/2026-10-04/doc-initzeri3468926.shtml)
-2. [牛弹琴：我们这两个邻国，又开枪了](https://finance.sina.com.cn/2026-10-04/doc-initzerr5759179.shtml)
-3. [首日高开488%！中科院85后博士，8年干出今年最贵新股](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzerp4136388.shtml)
-4. [加仓！巴菲特，逆势买入！什么信号？](https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzzvi7142176.shtml)
-5. [报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告](https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4434728.shtml)
-6. [台积电探讨与马斯克 Terafab 项目开展合作](https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4427769.shtml)
-7. [伊朗里亚尔续创新低，据称央行已出手干预汇市](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzp3609466.shtml)
-8. [OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施](https://finance.sina.com.cn/world/2026-10-04/doc-inityptx6040261.shtml)
-9. [62家百亿私募集体调研！电子行业成“香饽饽”](https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzeri3469124.shtml)
-10. [管涛：浅谈“贸易顺差、资本外流”的经济与政策涵义](https://finance.sina.com.cn/roll/2026-10-04/doc-initzkxm4055623.shtml)
-11. [伊拉克：已通过超大型油轮运送 200 万桶原油，运抵霍尔木兹海峡以外海域。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzp3623842.shtml)
-12. [贝森特批评AI风险警告是危言耸听](https://finance.sina.com.cn/world/2026-10-04/doc-initytzr0408702.shtml)
-13. [工资涨不过物价 美国人想尽各种办法维持消费](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initytzv5949378.shtml)
-14. [OpenAI安全负责人辞职：企业文化“已崩溃”，AI竞赛该减速了吗？](https://finance.sina.com.cn/stock/t/2026-10-04/doc-initzkxf3418581.shtml)
-15. [保护伞没打掉，妙瓦底电诈死灰复燃，中国下一步怎么做](https://finance.sina.com.cn/roll/2026-10-04/doc-inityptt0459408.shtml)
-16. [贝森特称国债收益率上升符合全球趋势 不必感到惊恐](https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4425599.shtml)
-17. [“要让肇事者付出代价！”东航就“空姐下跪事件”报案，六成网友支持“应加大惩戒辱骂者”](https://finance.sina.com.cn/tob/2026-10-04/doc-initzzvh0368596.shtml)
-18. [市场消息：基辅拉响防空警报，警告可能有潜在的无人机袭击。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpm7213789.shtml)
-19. [外资巨头，盯上这些A股](https://finance.sina.com.cn/stock/2026-10-04/doc-initzzvi7119981.shtml)
-20. [木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3899087.shtml)
+1. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
+2. [保护伞没打掉，妙瓦底电诈死灰复燃，中国下一步怎么做](https://finance.sina.com.cn/roll/2026-10-04/doc-inityptt0459408.shtml)
+3. [贝森特称国债收益率上升符合全球趋势 不必感到惊恐](https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4425599.shtml)
+4. [“要让肇事者付出代价！”东航就“空姐下跪事件”报案，六成网友支持“应加大惩戒辱骂者”](https://finance.sina.com.cn/tob/2026-10-04/doc-initzzvh0368596.shtml)
+5. [市场消息：基辅拉响防空警报，警告可能有潜在的无人机袭击。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpm7213789.shtml)
+6. [外资巨头，盯上这些A股](https://finance.sina.com.cn/stock/2026-10-04/doc-initzzvi7119981.shtml)
+7. [木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3899087.shtml)
+8. [苹果将加强Mac隐私控制 警告AI智能体带来的风险上升](https://finance.sina.com.cn/world/2026-10-04/doc-inityptr3684201.shtml)
+9. [胡塞武装称对沙特阿美石油公司目标实施打击](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzr0400629.shtml)
+10. [这部影片火了！背后上市公司浮现](https://finance.sina.com.cn/stock/relnews/hk/2026-10-04/doc-initzerr5766045.shtml)
+11. [外媒：德国总理默茨突访基辅，“事先未公开宣布”](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0410971.shtml)
+12. [美国国防部长赫格塞思：伊朗想在霍尔木兹海峡这类地方耍手段，但海峡不在他们掌控之中，掌控者是我们。他们实际上一无所获。我们的封锁坚](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzr0395812.shtml)
+13. [美国加密货币行业9月招聘职位激增 申请量反而下降](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7099043.shtml)
+14. [英国国家医疗服务体系20余家信托机构停用Palantir候诊工具](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0328464.shtml)
+15. [市场消息：爱彼迎首席执行官称，公司不太可能允许 Muse 这类人工智能代理直接完成预订。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzp3614422.shtml)
+16. [日本外相：就10月3日驻日美军涉嫌杀人案一事，日本外务省召见美国驻日大使乔治·格拉斯并提出抗议。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7106636.shtml)
+17. [哈啰集团华东区域中心签约南京](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpm7162648.shtml)
+18. [拉脱维亚总理所在政党联盟在议会选举初步结果中领先](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0393011.shtml)
+19. [俄罗斯国防部表示，过去24小时俄罗斯防空系统击落了1222架乌克兰武装部队的固定翼无人机。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuahce0298824.shtml)

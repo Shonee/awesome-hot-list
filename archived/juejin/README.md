@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-06 01:11:29
+> 更新时间：2026-10-06 02:16:48
 
 ## 热门文章
 
@@ -33,9 +33,9 @@
 27. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
 28. [Prompt Engineering 面试怎么考？这 5 个范式你必须会](https://juejin.cn/post/7692042894160773155)
 29. [Army 的可插拔架构：army-jdbc 与方言模块](https://juejin.cn/post/7691823753388163081)
-30. [uptime-kuma 从 docker run 迁移到 compose：数据卷的坑](https://juejin.cn/post/7691613455456665642)
-31. [GitHub 日榜趋势速报 | 2026-10-03](https://juejin.cn/post/7691479433083142171)
-32. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
+30. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
+31. [uptime-kuma 从 docker run 迁移到 compose：数据卷的坑](https://juejin.cn/post/7691613455456665642)
+32. [GitHub 日榜趋势速报 | 2026-10-03](https://juejin.cn/post/7691479433083142171)
 33. [GitHub 日榜趋势速报 | 2026-10-05](https://juejin.cn/post/7692741078310977563)
 34. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
 35. [Loop Engineering 保姆级教程 + 项目实战](https://juejin.cn/post/7692336657548279842)
@@ -43,14 +43,14 @@
 37. [ai agent --- 文件存储](https://juejin.cn/post/7692274273326579748)
 38. [Android 16系统 如何修改 eth0 IP ？](https://juejin.cn/post/7692229946185498674)
 39. [用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍](https://juejin.cn/post/7692084224499367971)
-40. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
-41. [简历写「QPS 提升 3 倍」，面试官问「怎么压测的」，我卡在并发数怎么定](https://juejin.cn/post/7692042894161723427)
-42. [【DevOps 开发流程】什么是CI/CD？不同的阶段应当配置哪些CI/CD自动化流程？](https://juejin.cn/post/7692042894160920611)
-43. [QML 分隔线：Rectangle、菜单与工具栏分隔线用法](https://juejin.cn/post/7691876916195278863)
-44. [Java 加解密组件再设计](https://juejin.cn/post/7691876829275357193)
-45. [保险Agent开发记录](https://juejin.cn/post/7691859218202705961)
-46. [Python接入Gemini 3.8 Flash实现票据视觉抽取与规则校验](https://juejin.cn/post/7691823753388195849)
-47. [LangChain 之二：组合原语深拆](https://juejin.cn/post/7691717198449082406)
-48. [别急着 JOIN，子查询有些场景更顺手](https://juejin.cn/post/7691585964054036526)
-49. [Redis集群切换主节点时，服务竟然全员掉线](https://juejin.cn/post/7691537931250581544)
-50. [开源的健身教练Skill，让Agent当上了私教](https://juejin.cn/post/7691399863524180006)
+40. [我给 DeepSeek 的编程智能体写了三个插件:余额胶囊、任务面板、番茄钟](https://juejin.cn/post/7692059206256394249)
+41. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
+42. [用 Codex 加速 Java 开发：从代码生成到测试覆盖的完整实战](https://juejin.cn/post/7692058641252237322)
+43. [简历写「QPS 提升 3 倍」，面试官问「怎么压测的」，我卡在并发数怎么定](https://juejin.cn/post/7692042894161723427)
+44. [【DevOps 开发流程】什么是CI/CD？不同的阶段应当配置哪些CI/CD自动化流程？](https://juejin.cn/post/7692042894160920611)
+45. [QML 分隔线：Rectangle、菜单与工具栏分隔线用法](https://juejin.cn/post/7691876916195278863)
+46. [Java 加解密组件再设计](https://juejin.cn/post/7691876829275357193)
+47. [保险Agent开发记录](https://juejin.cn/post/7691859218202705961)
+48. [Python接入Gemini 3.8 Flash实现票据视觉抽取与规则校验](https://juejin.cn/post/7691823753388195849)
+49. [LangChain 之二：组合原语深拆](https://juejin.cn/post/7691717198449082406)
+50. [别急着 JOIN，子查询有些场景更顺手](https://juejin.cn/post/7691585964054036526)

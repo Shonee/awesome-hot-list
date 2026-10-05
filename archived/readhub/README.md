@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-06 00:42:38
+> 更新时间：2026-10-06 02:17:03
 
 ## 24 小时热榜
 
@@ -18,19 +18,19 @@
 12. [消息称苹果 iPhone 18 Pro 系列 W39 周国内销量预计 176 万台](https://readhub.cn/topic/8wwtSuLj0Zk?tab=daily)
 13. [Tibo 承诺连续 28 天发布或重置，OpenAI 遭遇用户信任危机](https://readhub.cn/topic/8wyUngiooAv?tab=daily)
 14. [施耐德电气接近以 200 亿美元收购工业软件集团 PTC](https://readhub.cn/topic/8wxm8gOMBMi?tab=daily)
-15. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
-16. [艾博生物与诺华达成合作 潜在总金额最高约 78 亿美元](https://readhub.cn/topic/8wyBVHXZxxM?tab=daily)
-17. [腾讯控股回购 23.8 万股股份](https://readhub.cn/topic/8wylF0WWQSS?tab=daily)
-18. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://readhub.cn/topic/8wxsv3pceSA?tab=daily)
-19. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
-20. [天赐材料香港上市料筹资不超过 5 亿美元](https://readhub.cn/topic/8wy7vZCVZt4?tab=daily)
-21. [OKX 向美 SEC 提交申请，拟推出代币化美股交易平台](https://readhub.cn/topic/8wyEMFJLryz?tab=daily)
+15. [警告 AI 失控的前 Anthropic 研究员将出席纽约听证会](https://readhub.cn/topic/8wxsv3pceSA?tab=daily)
+16. [我国最大沙漠油田哈得-富满油田超深油气产量突破 2600 万吨](https://readhub.cn/topic/8wyEMSMcFp0?tab=daily)
+17. [艾博生物与诺华达成合作 潜在总金额最高约 78 亿美元](https://readhub.cn/topic/8wyBVHXZxxM?tab=daily)
+18. [腾讯控股回购 23.8 万股股份](https://readhub.cn/topic/8wylF0WWQSS?tab=daily)
+19. [天赐材料香港上市料筹资不超过 5 亿美元](https://readhub.cn/topic/8wy7vZCVZt4?tab=daily)
+20. [OKX 向美 SEC 提交申请，拟推出代币化美股交易平台](https://readhub.cn/topic/8wyEMFJLryz?tab=daily)
+21. [OpenAI 阿尔特曼与 Anthropic 在 AI 风险问题上立场分歧](https://readhub.cn/topic/8wxtHOYJWdQ?tab=daily)
 22. [我国牵头的 7 项天然气国际标准获国际标准化组织批准立项](https://readhub.cn/topic/8wyGVdgvf2e?tab=daily)
-23. [9 月中国大宗商品价格指数环比上涨 4.1%](https://readhub.cn/topic/8wyCvU0PD2f?tab=daily)
-24. [印尼拟允许商品交易所用美元交易](https://readhub.cn/topic/8wyhem73wDc?tab=daily)
-25. [沙特阿美 CEO 称当前原油商业库存已降至不到 60 亿桶且大多无法动用](https://readhub.cn/topic/8wyeS8X6gLa?tab=daily)
+23. [印尼拟允许商品交易所用美元交易](https://readhub.cn/topic/8wyhem73wDc?tab=daily)
+24. [9 月中国大宗商品价格指数环比上涨 4.1%](https://readhub.cn/topic/8wyCvU0PD2f?tab=daily)
+25. [鸿海第三季度营收同比增长 47.1%](https://readhub.cn/topic/8wycJ9UN36V?tab=daily)
 26. [哈啰集团华东区域中心签约南京：总投资约 10 亿元 将布局智能换电柜点位](https://readhub.cn/topic/8wwqy5YqTET?tab=daily)
-27. [鸿海第三季度营收同比增长 47.1%](https://readhub.cn/topic/8wycJ9UN36V?tab=daily)
+27. [沙特阿美 CEO 称当前原油商业库存已降至不到 60 亿桶且大多无法动用](https://readhub.cn/topic/8wyeS8X6gLa?tab=daily)
 28. [因无效 AI 报告激增，Google 暂停开源漏洞赏金计划](https://readhub.cn/topic/8wyDeMnDfZa?tab=daily)
 29. [看懂不等于做对：VA-Bench 测出大模型空间智能的执行断层](https://readhub.cn/topic/8wyOMYMt4fX?tab=daily)
 30. [消息人士：沙特东西向石油管道正常运转](https://readhub.cn/topic/8wyfskTZeHr?tab=daily)
@@ -52,8 +52,8 @@
 3. [何恺明团队新作：给大模型加上「视觉记忆」，AGI 基准测试从 40 分升到 100 分](https://www.mittrchina.com/news/detail/17055)
 4. [From Scan to Treatment Plan, AI Helps Close Breast Cancer's Deadliest Gaps](https://blogs.nvidia.com/blog/ai-breast-cancer-startups/)
 5. [创业一年即被收购，他想让高效 Token 成为 AI 时代的基础资源｜对话 Nebius 王瀚锐](https://www.mittrchina.com/news/detail/17054)
-6. [AI「读心术」更进一步：仅凭脑扫描，就能重建你正在看的画面](https://www.mittrchina.com/news/detail/17056)
-7. [英伟达苹果微软集体上门 英特尔 14A 工艺被曝接受评估：正面硬刚台积电](https://news.mydrivers.com/1/1155/1155453.htm)
-8. [银行撤退、债券折价，AI 建设潮的钱不好借了](https://wallstreetcn.com/articles/3783018)
-9. [OpenAI claims Navier-Stokes Millennium Prize solution as mathematicians push back](https://daily.dev/posts/ai-in-mathematics-challenges-academic-norms-wgozf6vj3)
-10. [存储价格还得涨 英伟达豪掷 1.87 万亿元锁定 HBM 产能：独占全球 37%](https://news.mydrivers.com/1/1155/1155449.htm)
+6. [Karl Deisseroth, Peter Hegemann and Georg Nagel win 2026 Nobel Prize in Medicine for optogenetics](https://daily.dev/posts/2026-nobel-prize-in-medicine-goes-to-optogenetics-pioneers-and-the-committee-warns-against-ai-brain-q09nze4ta)
+7. [AI「读心术」更进一步：仅凭脑扫描，就能重建你正在看的画面](https://www.mittrchina.com/news/detail/17056)
+8. [Surprise surprise, AI data centers are still incredibly unpopular across the US — and nearly two-thirds of Americans say they oppose new facilities](https://www.techradar.com/pro/surprise-surprise-ai-data-centers-are-still-incredibly-unpopular-across-the-us-and-nearly-two-thirds-of-americans-say-they-oppose-new-facilities)
+9. [英伟达苹果微软集体上门 英特尔 14A 工艺被曝接受评估：正面硬刚台积电](https://news.mydrivers.com/1/1155/1155453.htm)
+10. [银行撤退、债券折价，AI 建设潮的钱不好借了](https://wallstreetcn.com/articles/3783018)
