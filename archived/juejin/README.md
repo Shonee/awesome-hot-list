@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-06 05:18:05
+> 更新时间：2026-10-06 06:12:34
 
 ## 热门文章
 
@@ -32,17 +32,17 @@
 26. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
 27. [历史总是在重演，AI 时代的我们应该做些什么](https://juejin.cn/post/7691713454688026651)
 28. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
-29. [Prompt Engineering 面试怎么考？这 5 个范式你必须会](https://juejin.cn/post/7692042894160773155)
-30. [Army 的可插拔架构：army-jdbc 与方言模块](https://juejin.cn/post/7691823753388163081)
-31. [uptime-kuma 从 docker run 迁移到 compose：数据卷的坑](https://juejin.cn/post/7691613455456665642)
-32. [别急着 JOIN，子查询有些场景更顺手](https://juejin.cn/post/7691585964054036526)
-33. [GitHub 日榜趋势速报 | 2026-10-03](https://juejin.cn/post/7691479433083142171)
-34. [GitHub 日榜趋势速报 | 2026-10-05](https://juejin.cn/post/7692741078310977563)
-35. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
-36. [🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些"插槽"(前置介绍)](https://juejin.cn/post/7692500213994586153)
-37. [Harness：Agent 运行时架构](https://juejin.cn/post/7692379120273080360)
-38. [Loop Engineering 保姆级教程 + 项目实战](https://juejin.cn/post/7692336657548279842)
-39. [diff 算法（虚拟 DOM Reconciliation）](https://juejin.cn/post/7692296625806229544)
+29. [diff 算法（虚拟 DOM Reconciliation）](https://juejin.cn/post/7692296625806229544)
+30. [Prompt Engineering 面试怎么考？这 5 个范式你必须会](https://juejin.cn/post/7692042894160773155)
+31. [Army 的可插拔架构：army-jdbc 与方言模块](https://juejin.cn/post/7691823753388163081)
+32. [uptime-kuma 从 docker run 迁移到 compose：数据卷的坑](https://juejin.cn/post/7691613455456665642)
+33. [别急着 JOIN，子查询有些场景更顺手](https://juejin.cn/post/7691585964054036526)
+34. [GitHub 日榜趋势速报 | 2026-10-03](https://juejin.cn/post/7691479433083142171)
+35. [GitHub 日榜趋势速报 | 2026-10-05](https://juejin.cn/post/7692741078310977563)
+36. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
+37. [🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些"插槽"(前置介绍)](https://juejin.cn/post/7692500213994586153)
+38. [Harness：Agent 运行时架构](https://juejin.cn/post/7692379120273080360)
+39. [Loop Engineering 保姆级教程 + 项目实战](https://juejin.cn/post/7692336657548279842)
 40. [ai agent --- 文件存储](https://juejin.cn/post/7692274273326579748)
 41. [Android 16系统 如何修改 eth0 IP ？](https://juejin.cn/post/7692229946185498674)
 42. [用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍](https://juejin.cn/post/7692084224499367971)

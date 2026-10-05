@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 05:18:35
+> 更新时间：2026-10-06 06:12:54
 
 ## 新闻热榜
 
@@ -30,20 +30,20 @@
 1. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
 2. [阿斯利康在马萨诸塞州剑桥市肯德尔广场开设全新全球战略研发中心，阿斯利康投资 10 亿美元，将马萨诸塞州员工数量增幅扩大 50% 以上。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9380490.shtml)
 3. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
-4. [视频丨张雪谈国足0-5惨败巴勒斯坦：提议把比赛权限给国内商业队，赛前通过打淘汰赛来决定让谁去踢](https://finance.sina.com.cn/stock/companyt/2026-10-04/doc-initzerr5752216.shtml)
-5. [贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-04/doc-initzrfn0452363.shtml)
-6. [票房第一，这部影片火了！背后公司有它们](https://finance.sina.com.cn/roll/2026-10-04/doc-initzerr5744704.shtml)
-7. [默茨访乌带来13.5亿欧元援助，德乌拟敲定无人机和远程武器联合生产协议](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5484485.shtml)
-8. [报道：白宫新设人工智能专项工作组评估技术风险](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzerm0215400.shtml)
-9. [美国地质调查局：日本火山列岛地区发生5.5级地震。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuahce0315465.shtml)
-10. [美国国务院：“强烈敦促” 埃塞俄比亚与厄立特里亚尊重邻国主权与领土完整。](https://finance.sina.com.cn/7x24/2026-10-04/doc-inityyim3546023.shtml)
-11. [黑神话销量超3000万份](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7098888.shtml)
-12. [特朗普提名约翰·科尔为美总统人质事务特使](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanmc7002041.shtml)
-13. [美国联邦贸易委员会主席弗格森向全美 24 家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9387018.shtml)
-14. [伊朗外长：任何侵略行径将迎来更沉重的回击](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0445520.shtml)
-15. [以色列将把汽油消费税每升下调半个谢克尔。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanma0243810.shtml)
-16. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
-17. [白宫国家经济委员会主任哈塞特：抵押贷款利率必须下降，“绝对属实”。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanma0224522.shtml)
-18. [不眠夜！美股，通宵交易，要来了！](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpi5478402.shtml)
-19. [也门总统领导委员会主席称，已开始展开军事行动，从胡塞武装手中收复剩余领土。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanmc6967126.shtml)
-20. [加密货币Basic Attention Token日内上涨7.2%。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7095599.shtml)
+4. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
+5. [谷歌、亚马逊、微软为何离不开中国数据中心供应商](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9381497.shtml)
+6. [美国联邦贸易委员会主席弗格森向全美 24 家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9387018.shtml)
+7. [伊朗外长：任何侵略行径将迎来更沉重的回击](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0445520.shtml)
+8. [以色列将把汽油消费税每升下调半个谢克尔。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanma0243810.shtml)
+9. [白宫国家经济委员会主任哈塞特：抵押贷款利率必须下降，“绝对属实”。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanma0224522.shtml)
+10. [不眠夜！美股，通宵交易，要来了！](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpi5478402.shtml)
+11. [这三张图表，有望重新点燃投资者对股市的信心](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv4087870.shtml)
+12. [也门总统领导委员会主席称，已开始展开军事行动，从胡塞武装手中收复剩余领土。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuanmc6967126.shtml)
+13. [加密货币Basic Attention Token日内上涨7.2%。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7095599.shtml)
+14. [欧洲股市受大宗商品股提振 英国对中国电动车关税报道推升汽车股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6171320.shtml)
+15. [通胀冲击历史性升温，日本民众餐桌承压](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzeri3473931.shtml)
+16. [美国9月非农意外“爆冷”，节后A股会迎来“开门红”吗？](https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzkxi0172210.shtml)
+17. [伊朗央行投放20亿美元仍未止跌，里亚尔再创历史新低](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5488648.shtml)
+18. [欧盟委员会否决向波兰曼恩卡车工厂提供 2600 万欧元补贴。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9379287.shtml)
+19. [华尔街IPO热潮降温 需求疲软与估值担忧导致多宗上市暂停](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0323551.shtml)
+20. [“余总转发文案”，余承东微博文案“翻车”，误将工作人员提醒一并发出](https://finance.sina.com.cn/tech/shenji/2026-10-04/doc-initzrfp7272344.shtml)
