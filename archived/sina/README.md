@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 02:17:12
+> 更新时间：2026-10-06 03:13:50
 
 ## 新闻热榜
 
@@ -28,21 +28,22 @@
 ## 财经热榜
 
 1. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
-2. [保护伞没打掉，妙瓦底电诈死灰复燃，中国下一步怎么做](https://finance.sina.com.cn/roll/2026-10-04/doc-inityptt0459408.shtml)
-3. [贝森特称国债收益率上升符合全球趋势 不必感到惊恐](https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4425599.shtml)
-4. [“要让肇事者付出代价！”东航就“空姐下跪事件”报案，六成网友支持“应加大惩戒辱骂者”](https://finance.sina.com.cn/tob/2026-10-04/doc-initzzvh0368596.shtml)
-5. [市场消息：基辅拉响防空警报，警告可能有潜在的无人机袭击。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpm7213789.shtml)
-6. [外资巨头，盯上这些A股](https://finance.sina.com.cn/stock/2026-10-04/doc-initzzvi7119981.shtml)
-7. [木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3899087.shtml)
-8. [苹果将加强Mac隐私控制 警告AI智能体带来的风险上升](https://finance.sina.com.cn/world/2026-10-04/doc-inityptr3684201.shtml)
-9. [胡塞武装称对沙特阿美石油公司目标实施打击](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzr0400629.shtml)
-10. [这部影片火了！背后上市公司浮现](https://finance.sina.com.cn/stock/relnews/hk/2026-10-04/doc-initzerr5766045.shtml)
-11. [外媒：德国总理默茨突访基辅，“事先未公开宣布”](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0410971.shtml)
-12. [美国国防部长赫格塞思：伊朗想在霍尔木兹海峡这类地方耍手段，但海峡不在他们掌控之中，掌控者是我们。他们实际上一无所获。我们的封锁坚](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzr0395812.shtml)
-13. [美国加密货币行业9月招聘职位激增 申请量反而下降](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7099043.shtml)
-14. [英国国家医疗服务体系20余家信托机构停用Palantir候诊工具](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0328464.shtml)
-15. [市场消息：爱彼迎首席执行官称，公司不太可能允许 Muse 这类人工智能代理直接完成预订。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzp3614422.shtml)
-16. [日本外相：就10月3日驻日美军涉嫌杀人案一事，日本外务省召见美国驻日大使乔治·格拉斯并提出抗议。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7106636.shtml)
-17. [哈啰集团华东区域中心签约南京](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpm7162648.shtml)
-18. [拉脱维亚总理所在政党联盟在议会选举初步结果中领先](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0393011.shtml)
-19. [俄罗斯国防部表示，过去24小时俄罗斯防空系统击落了1222架乌克兰武装部队的固定翼无人机。](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuahce0298824.shtml)
+2. [阿斯利康在马萨诸塞州剑桥市肯德尔广场开设全新全球战略研发中心，阿斯利康投资 10 亿美元，将马萨诸塞州员工数量增幅扩大 50% 以上。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9380490.shtml)
+3. [公布在即！美联储，加息大消息！](https://finance.sina.com.cn/stock/2026-10-04/doc-initzvpk0416710.shtml)
+4. [拉脱维亚总理库尔贝格斯：出口民调显示我方支持率高于预期，这是民众给出的强烈回应。](https://finance.sina.com.cn/7x24/2026-10-04/doc-inityptt0490472.shtml)
+5. [梅德韦杰夫警告称，若乌克兰要求“封锁”俄罗斯“黎明”卫星星座等同于摧毁行为，将引发全面太空战并威胁星链低轨卫星](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzvpk0448064.shtml)
+6. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
+7. [法国汽车制造商雷诺利用大规模制造经验进军无人机领域](https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0326172.shtml)
+8. [超强厄尔尼诺刺激 这品种价格创9年新高！](https://finance.sina.com.cn/stock/relnews/cn/2026-10-04/doc-initzvpm7152103.shtml)
+9. [马斯克突爆大消息！SpaceXAI更名为SpaceXSI](https://finance.sina.com.cn/stock/2026-10-04/doc-iniuahcc5313208.shtml)
+10. [五粮液普五八代大涨重上800元 茅台1935再创月新高 洋河梦之蓝M6+、青花郎重跌](https://finance.sina.com.cn/chanjing/jync/2026-10-04/doc-initzkxm4038889.shtml)
+11. [伊拉克：此举旨在让国家石油销售机构 SOMO 在原油销售方面拥有更大灵活性。](https://finance.sina.com.cn/7x24/2026-10-04/doc-initytzp3625134.shtml)
+12. [太危险！男子高速上开智驾后睡着](https://finance.sina.com.cn/jjxw/2026-10-04/doc-iniuanma0231110.shtml)
+13. [沙特对也门多地发动猛烈袭击，穆哈港遭轰炸](https://finance.sina.com.cn/7x24/2026-10-04/doc-iniuahcf7083745.shtml)
+14. [美联储最新会议纪要暗藏玄机，欧洲债市下一个引爆点是法国？](https://finance.sina.com.cn/roll/2026-10-04/doc-initzerr5763730.shtml)
+15. [“全世界都知道中国人放假了”！黄金周长假推动出入境游双向升温](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvh0332342.shtml)
+16. [沙特阿美石油公司遭袭](https://finance.sina.com.cn/wm/2026-10-04/doc-initzkxm4040338.shtml)
+17. [哈啰集团落子南京](https://finance.sina.com.cn/7x24/2026-10-04/doc-initzzvi7149677.shtml)
+18. [国际能源署：已释放约3.25亿桶战略石油储备](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initytzv5936834.shtml)
+19. [伊朗革命卫队近日对7艘“违规”油轮采取行动](https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzerp4134450.shtml)
+20. [视频丨张雪谈国足0-5惨败巴勒斯坦：提议把比赛权限给国内商业队，赛前通过打淘汰赛来决定让谁去踢](https://finance.sina.com.cn/stock/companyt/2026-10-04/doc-initzerr5752216.shtml)

@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-06 02:17:43
+> 更新时间：2026-10-06 03:14:19
 
 ## 股票人气榜
 
@@ -13,14 +13,14 @@
 7. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
 8. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 9. [昭衍新药 (603127)](https://quote.eastmoney.com/sh603127.html)
-10. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
-11. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
-12. [长江电力 (600900)](https://quote.eastmoney.com/sh600900.html)
+10. [长江电力 (600900)](https://quote.eastmoney.com/sh600900.html)
+11. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
+12. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
 13. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 14. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
 15. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
 16. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
 17. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
-18. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
-19. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
-20. [海特生物 (300683)](https://quote.eastmoney.com/sz300683.html)
+18. [海特生物 (300683)](https://quote.eastmoney.com/sz300683.html)
+19. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
+20. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
