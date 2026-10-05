@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-05 10:29:31
+> 更新时间：2026-10-05 11:33:20
 
 ## 新闻热榜
 
 1. [这个反华议员，被特朗普“开盒”了](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3596109.shtml)
-2. [默茨会见泽连斯基，现场响起警报声和爆炸声，俄已连续四日轰炸基辅大桥，为冲突以来首次，泽连斯基称将不顾特朗普劝阻，加大打击俄炼油厂](https://news.sina.com.cn/w/2026-10-04/doc-iniuanma0228593.shtml)
-3. [央视主播上新](https://news.sina.com.cn/c/2026-10-04/doc-iniuanmc6969977.shtml)
-4. [美海岸警卫队继续搜寻失事飞机机上人员](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht9993152.shtml)
-5. [民进党当局危险驱离大陆渔船，挑衅必须付出应有代价](https://mil.news.sina.com.cn/2026-10-04/doc-iniuahcc5298773.shtml)
-6. [美财长贝森特甩锅：美国“黄金时代”没到，全怪伊朗](https://news.sina.com.cn/w/2026-10-04/doc-iniuanmc7002000.shtml)
-7. [美国撤回部署在英国的B-1轰炸机](https://news.sina.com.cn/w/2026-10-05/doc-iniucchv6761061.shtml)
-8. [香港名媛碎尸案核心导火索曝光](https://news.sina.com.cn/c/2026-10-04/doc-initzkxm4055351.shtml)
-9. [波黑公布主席团成员选举初步结果](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht4917504.shtml)
-10. [亚运国足主帅：这一代中国球员有很大机会打进世界杯](https://news.sina.com.cn/c/2026-10-04/doc-iniuankz5220184.shtml)
-11. [吴宜泽问鼎深圳公开赛，中国球员包揽斯诺克世界前二](https://news.sina.com.cn/c/2026-10-05/doc-iniuawyv4998176.shtml)
+2. [央视主播上新](https://news.sina.com.cn/c/2026-10-04/doc-iniuanmc6969977.shtml)
+3. [美海岸警卫队继续搜寻失事飞机机上人员](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht9993152.shtml)
+4. [默茨会见泽连斯基，现场响起警报声和爆炸声，俄已连续四日轰炸基辅大桥，为冲突以来首次，泽连斯基称将不顾特朗普劝阻，加大打击俄炼油厂](https://news.sina.com.cn/w/2026-10-04/doc-iniuanma0228593.shtml)
+5. [吴宜泽问鼎深圳公开赛，中国球员包揽斯诺克世界前二](https://news.sina.com.cn/c/2026-10-05/doc-iniuawyv4998176.shtml)
+6. [莫迪带领印度崛起，没有韬光养晦，反而提前开香槟？](https://news.sina.com.cn/w/2026-10-05/doc-iniucpwm3101130.shtml)
+7. [被执行死刑的巫鸿明、白应苍出镜](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp4717812.shtml)
+8. [美国撤回部署在英国的B-1轰炸机](https://news.sina.com.cn/w/2026-10-05/doc-iniucchv6761061.shtml)
+9. [民进党当局危险驱离大陆渔船，挑衅必须付出应有代价](https://mil.news.sina.com.cn/2026-10-04/doc-iniuahcc5298773.shtml)
+10. [波黑公布主席团成员选举初步结果](https://news.sina.com.cn/w/2026-10-05/doc-iniuccht4917504.shtml)
+11. [美财长贝森特甩锅：美国“黄金时代”没到，全怪伊朗](https://news.sina.com.cn/w/2026-10-04/doc-iniuanmc7002000.shtml)
 12. [惨剧！年轻中国夫妻在澳洲当场身亡！8天前刚过完结婚纪念日……警方呼吁提供线索](https://news.sina.com.cn/s/2026-10-04/doc-initzzvf5392477.shtml)
-13. [知名地标霍莱海蚀拱门，确认坍塌，“已沉入太平洋”](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3586224.shtml)
-14. [市场消息：以色列总理内塔尼亚胡下令国家安全委员会，针对迪拜航空劫机未遂事件，评估外国民航安全状况。](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuawyw0043040.shtml)
-15. [美国参议院少数党领袖舒默要求安防科技公司Flock Safety 在 10 月 16 日前答复有关数据使用的问题。](https://finance.sina.com.cn/7x24/2026-10-05/doc-iniuawyw0067040.shtml)
-16. [日本代表队领队：日本拿到了更多的银铜牌，但中国在金牌上碾压我们](https://news.sina.com.cn/zx/2026-10-04/doc-iniuanmc6966223.shtml)
-17. [中国人民大学一校友，捐5.03亿](https://news.sina.com.cn/s/2026-10-04/doc-initzzvi7107694.shtml)
-18. [马斯克突爆大消息！SpaceXAI更名为SpaceXSI](https://finance.sina.com.cn/stock/2026-10-04/doc-iniuahcc5313208.shtml)
-19. [沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击](https://news.sina.com.cn/w/2026-10-05/doc-iniuciqr4793873.shtml)
-20. [驻冲绳美国士兵抢劫杀害一名女子，高市早苗：令人深感遗憾，小泉进次郎发声](https://news.sina.com.cn/w/2026-10-04/doc-initzvpf3893308.shtml)
+13. [亚运国足主帅：这一代中国球员有很大机会打进世界杯](https://news.sina.com.cn/c/2026-10-04/doc-iniuankz5220184.shtml)
+14. [台湾时评员称蔡康永是典型的两面人](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9820728.shtml)
+15. [运-20B、运油-20接续升空！最新演练画面公布](https://news.sina.com.cn/c/2026-10-05/doc-iniucpwp9795394.shtml)
+16. [知名地标霍莱海蚀拱门，确认坍塌，“已沉入太平洋”](https://news.sina.com.cn/w/2026-10-04/doc-iniuankx3586224.shtml)
+17. [巴西总统选举首轮投票无人胜出 将进行第二轮角逐](https://news.sina.com.cn/w/2026-10-05/doc-iniucpwp4695424.shtml)
+18. [胜负彩26135期国内部分专业媒体复式推荐总汇](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp9814270.shtml)
+19. [[新浪彩票]足彩第26135期任九：西班牙力克格子军](https://sports.sina.com.cn/l/2026-10-05/doc-iniucpwp4706009.shtml)
+20. [中国人民大学一校友，捐5.03亿](https://news.sina.com.cn/s/2026-10-04/doc-initzzvi7107694.shtml)
 
 ## 财经热榜
 

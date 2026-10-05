@@ -1,21 +1,21 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-05 10:30:20
+> 更新时间：2026-10-05 11:35:27
 
 ## Hottest
 
 1. [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
 2. [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)
 3. [Why don’t more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-4. [We’re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
-5. [grubby: static site generator for git repos written in Ruby](https://git.btxx.org/grubby)
+4. [grubby: static site generator for git repos written in Ruby](https://git.btxx.org/grubby)
+5. [We’re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
 6. [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
 7. [The complement of true is true, except when it's false](https://dryperspective.github.io/posts/complement-of-true/)
-8. [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+8. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
 9. [Self-hosted HTTP tunnels with SSH and nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-10. [Hacking the Go compiler to efficiently map IPv4 to IPv6](https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6)
-11. [Flatpak from the CLI sucks](https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/)
-12. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
+10. [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+11. [Hacking the Go compiler to efficiently map IPv4 to IPv6](https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6)
+12. [Flatpak from the CLI sucks](https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/)
 13. [Protocol-aware recovery for consensus-based storage (2018)](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
 14. [Our RISC-V emulator PasRISCV](https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/)
 15. [Thoreau BASIC](https://thoreaubasic.com/)
