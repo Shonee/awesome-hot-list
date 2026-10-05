@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-05 19:12:46
+> 更新时间：2026-10-05 20:20:53
 
 ## 热门文章
 
@@ -35,18 +35,18 @@
 29. [uptime-kuma 从 docker run 迁移到 compose：数据卷的坑](https://juejin.cn/post/7691613455456665642)
 30. [Agent 的决策与规划：ReAct、Plan-and-Execute、Reflexion 与 Tree of Thoughts](https://juejin.cn/post/7691510191482126387)
 31. [GitHub 日榜趋势速报 | 2026-10-03](https://juejin.cn/post/7691479433083142171)
-32. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
-33. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
-34. [DeepSeek Harness 的 Cordis 插件架构](https://juejin.cn/post/7691962796808732723)
-35. [QML 分隔线：Rectangle、菜单与工具栏分隔线用法](https://juejin.cn/post/7691876916195278863)
-36. [Python接入Gemini 3.8 Flash实现票据视觉抽取与规则校验](https://juejin.cn/post/7691823753388195849)
-37. [Army 的可插拔架构：army-jdbc 与方言模块](https://juejin.cn/post/7691823753388163081)
-38. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
-39. [LangChain 之二：组合原语深拆](https://juejin.cn/post/7691717198449082406)
-40. [别急着 JOIN，子查询有些场景更顺手](https://juejin.cn/post/7691585964054036526)
-41. [Redis集群切换主节点时，服务竟然全员掉线](https://juejin.cn/post/7691537931250581544)
-42. [开源的健身教练Skill，让Agent当上了私教](https://juejin.cn/post/7691399863524180006)
-43. [我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录](https://juejin.cn/post/7692743066844135433)
+32. [我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录](https://juejin.cn/post/7692743066844135433)
+33. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
+34. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
+35. [DeepSeek Harness 的 Cordis 插件架构](https://juejin.cn/post/7691962796808732723)
+36. [QML 分隔线：Rectangle、菜单与工具栏分隔线用法](https://juejin.cn/post/7691876916195278863)
+37. [Python接入Gemini 3.8 Flash实现票据视觉抽取与规则校验](https://juejin.cn/post/7691823753388195849)
+38. [Army 的可插拔架构：army-jdbc 与方言模块](https://juejin.cn/post/7691823753388163081)
+39. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
+40. [LangChain 之二：组合原语深拆](https://juejin.cn/post/7691717198449082406)
+41. [别急着 JOIN，子查询有些场景更顺手](https://juejin.cn/post/7691585964054036526)
+42. [Redis集群切换主节点时，服务竟然全员掉线](https://juejin.cn/post/7691537931250581544)
+43. [开源的健身教练Skill，让Agent当上了私教](https://juejin.cn/post/7691399863524180006)
 44. [免费截图工具，长截图、OCR 、录屏、水印、聚光灯、马赛克全都有！](https://juejin.cn/post/7692741078311157787)
 45. [GitHub 日榜趋势速报 | 2026-10-05](https://juejin.cn/post/7692741078310977563)
 46. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
