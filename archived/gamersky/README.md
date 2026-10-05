@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-05 14:34:31
+> 更新时间：2026-10-05 15:35:52
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [小米发布概念车《GT7》实机首曝！首款中国GT](https://www.gamersky.com/news/202610/2221310.shtml)
 10. [《最终幻想7：启示》福利少不了！超多温泉 男女共浴](https://www.gamersky.com/news/202610/2221327.shtml)
 11. [亚运首位女子电竞金牌得主！桃晚安发文：不敢想象](https://www.gamersky.com/news/202610/2220792.shtml)
-12. [央视:《黑神话》销量超3000万份 中国文化出海典范](https://www.gamersky.com/news/202610/2221339.shtml)
-13. [曝《生化10》克莱尔回归当主角 2029年有望发售](https://www.gamersky.com/news/202610/2221067.shtml)
-14. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
+12. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
+13. [央视:《黑神话》销量超3000万份 中国文化出海典范](https://www.gamersky.com/news/202610/2221339.shtml)
+14. [曝《生化10》克莱尔回归当主角 2029年有望发售](https://www.gamersky.com/news/202610/2221067.shtml)
 15. [曝《生化危机10》同时登PS6和PS5 升级版RE引擎开发](https://www.gamersky.com/news/202610/2221318.shtml)

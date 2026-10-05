@@ -1,6 +1,6 @@
 # 财联社热榜
 
-> 更新时间：2026-10-05 14:34:09
+> 更新时间：2026-10-05 15:35:49
 
 ## 热门文章
 
@@ -14,6 +14,6 @@
 8. [中东局势升级！胡塞武装称袭击沙特石油设施 原油供应前景又生变？](https://www.cls.cn/detail/2497608)
 9. [AI数据中心建设加速之际 地方阻力从美国蔓延至欧洲和亚洲](https://www.cls.cn/detail/2497590)
 10. [美国中期选举追踪：高油价影响蔓延 共和党选情吃紧](https://www.cls.cn/detail/2497690)
-11. [中国人民大学一校友，捐5.03亿](https://www.cls.cn/detail/2497677)
-12. [东航报案](https://www.cls.cn/detail/2497551)
-13. [都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？](https://www.cls.cn/detail/2497673)
+11. [“大国重器”BEST、FAST，公布最新消息](https://www.cls.cn/detail/2497829)
+12. [中国人民大学一校友，捐5.03亿](https://www.cls.cn/detail/2497677)
+13. [东航报案](https://www.cls.cn/detail/2497551)
