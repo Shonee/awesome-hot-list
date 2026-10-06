@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-07 06:13:39
+> 更新时间：2026-10-07 07:11:56
 
 ## 热门文章
 
@@ -15,11 +15,11 @@
 9. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
 10. [用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍](https://juejin.cn/post/7692084224499367971)
 11. [用 Codex 加速 Java 开发：从代码生成到测试覆盖的完整实战](https://juejin.cn/post/7692058641252237322)
-12. [Loop Engineering 保姆级教程 + 项目实战](https://juejin.cn/post/7692336657548279842)
-13. [diff 算法（虚拟 DOM Reconciliation）](https://juejin.cn/post/7692296625806229544)
-14. [ai agent --- 文件存储](https://juejin.cn/post/7692274273326579748)
-15. [canvas最大能开多大：先看面积，再看导出格式](https://juejin.cn/post/7691876829276602377)
-16. [AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了](https://juejin.cn/post/7693358476032049162)
+12. [AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了](https://juejin.cn/post/7693358476032049162)
+13. [Loop Engineering 保姆级教程 + 项目实战](https://juejin.cn/post/7692336657548279842)
+14. [diff 算法（虚拟 DOM Reconciliation）](https://juejin.cn/post/7692296625806229544)
+15. [ai agent --- 文件存储](https://juejin.cn/post/7692274273326579748)
+16. [canvas最大能开多大：先看面积，再看导出格式](https://juejin.cn/post/7691876829276602377)
 17. [从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析](https://juejin.cn/post/7692742889198387200)
 18. [🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些"插槽"(前置介绍)](https://juejin.cn/post/7692500213994586153)
 19. [Harness：Agent 运行时架构](https://juejin.cn/post/7692379120273080360)
