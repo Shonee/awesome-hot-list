@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-06 22:14:43
+> 更新时间：2026-10-06 23:14:53
 
 ## 每日热点榜
 
@@ -25,7 +25,6 @@
 19. [长安逸动蓝鲸超擎7.99万起如何选](https://chejiahao.autohome.com.cn/info/26594935#pvareaid=6834132)
 20. [2027款风云A9L有何升级](https://chejiahao.autohome.com.cn/info/26596243#pvareaid=6834132)
 21. [风云T7低中高配如何选](https://chejiahao.autohome.com.cn/info/26594973#pvareaid=6834132)
-22. [本田研发无线供电道路系统](https://chejiahao.autohome.com.cn/info/26606901#pvareaid=6834132)
-23. [宝马iX3/极氪007GT同获五星](http://www.autohome.com.cn/tech/202610/1317576.html)
-24. [美国皮卡新势力拒绝新能源](https://chejiahao.autohome.com.cn/info/26583743#pvareaid=6834132)
-25. [AION N60限时10.08万起](http://www.autohome.com.cn/news/202610/1317580.html)
+22. [宝马iX3/极氪007GT同获五星](http://www.autohome.com.cn/tech/202610/1317576.html)
+23. [美国皮卡新势力拒绝新能源](https://chejiahao.autohome.com.cn/info/26583743#pvareaid=6834132)
+24. [AION N60限时10.08万起](http://www.autohome.com.cn/news/202610/1317580.html)
