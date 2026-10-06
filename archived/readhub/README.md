@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-07 03:38:31
+> 更新时间：2026-10-07 04:40:58
 
 ## 24 小时热榜
 
@@ -13,8 +13,8 @@
 7. [90 后成主力 多位 90 后负责人主导国产大模型相关核心业务](https://readhub.cn/topic/8wzsudfYRm4?tab=daily)
 8. [OpenAI 正与阿联酋基金、贝莱德洽谈 300 亿美元融资轮](https://readhub.cn/topic/8wzWOcMgrNw?tab=daily)
 9. [华为徐直军称昇腾中国市场份额超英伟达，芯片自主化是必由之路](https://readhub.cn/topic/8x0L8aT7qh7?tab=daily)
-10. [麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格](https://readhub.cn/topic/8wzkLEsStJv?tab=daily)
-11. [施耐德电气宣布 226 亿美元收购 PTC 推进 AI 布局](https://readhub.cn/topic/8wzbkrDYKZo?tab=daily)
+10. [施耐德电气宣布 226 亿美元收购 PTC 推进 AI 布局](https://readhub.cn/topic/8wzbkrDYKZo?tab=daily)
+11. [麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格](https://readhub.cn/topic/8wzkLEsStJv?tab=daily)
 12. [OpenAI Codex 负责人发帖征集产品需求 评论区用户呼吁 Claude 相关功能](https://readhub.cn/topic/8wyK4fkKrll?tab=daily)
 13. [OpenAI 公布 28 天计划：每日更新 Codex 与 ChatGPT Work 相关功能或重置](https://readhub.cn/topic/8wyDf1vv8PW?tab=daily)
 14. [发改委：将多方面发力支持民企参与「六张网」项目建设](https://readhub.cn/topic/8x0FndEkMZM?tab=daily)
@@ -33,7 +33,7 @@
 27. [华为与高通达成多年期专利交叉许可协议](https://readhub.cn/topic/8wzC3ZPqveu?tab=daily)
 28. [我国海水淡化日处理能力突破 300 万吨](https://readhub.cn/topic/8wzlP2IvWYi?tab=daily)
 29. [英伟达投资的 Reflection AI 发布首款开放权重模型 Beam](https://readhub.cn/topic/8wznYEDZaQn?tab=daily)
-30. [AMD 苏姿丰称存储芯片供应紧张 预计未来几年需求强劲](https://readhub.cn/topic/8x054Sq5wCq?tab=daily)
+30. [香港金管局总裁余伟文：港元汇价偏软主要受两大因素影响](https://readhub.cn/topic/8x0L8TVfYz0?tab=daily)
 
 ## 每日早报
 
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership)
-2. [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
-3. [嘴上讨厌 AI，身体却很诚实](https://www.mittrchina.com/news/detail/17060)
-4. [Why Telecom Operators Are Building Their AI Strategy on Open Models](https://blogs.nvidia.com/blog/telecom-operators-open-models/)
-5. [共和党斥 AI 危险论，民主党质疑「大厂」影响特朗普政府 AI 政策，要求披露监管框架修改过程](https://wallstreetcn.com/articles/3783082)
-6. [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati)
-7. [Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重](https://www.ithome.com/1/010/108.htm)
-8. [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
-9. [Producers can now vibe code their own music production tools using Google Flow Music.](https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/)
-10. [Langflow RCE 漏洞 CVE-2026-0768 正被活跃利用，已记录超 1.5 万次成功利用](https://daily.dev/posts/the-ai-app-builder-your-team-trusts-has-a-root-level-backdoor-tzeyqwasx)
+2. [Introducing Mistral Large 4: Le chonk](https://simonwillison.net/2026/Oct/6/le-chonk/)
+3. [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
+4. [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
+5. [嘴上讨厌 AI，身体却很诚实](https://www.mittrchina.com/news/detail/17060)
+6. [Why Telecom Operators Are Building Their AI Strategy on Open Models](https://blogs.nvidia.com/blog/telecom-operators-open-models/)
+7. [Anthropic 扩大网络安全公司获取最新 AI 模型的渠道](https://www.gelonghui.com/live/2699489)
+8. [共和党斥 AI 危险论，民主党质疑「大厂」影响特朗普政府 AI 政策，要求披露监管框架修改过程](https://wallstreetcn.com/articles/3783082)
+9. [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati)
+10. [Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?](https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/)
