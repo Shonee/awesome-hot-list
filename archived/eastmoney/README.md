@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-06 23:15:03
+> 更新时间：2026-10-07 00:16:09
 
 ## 股票人气榜
 
@@ -13,12 +13,12 @@
 7. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
 8. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 9. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
-10. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
-11. [康希诺 (688185)](https://quote.eastmoney.com/sh688185.html)
+10. [康希诺 (688185)](https://quote.eastmoney.com/sh688185.html)
+11. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
 12. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
-13. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
-14. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
-15. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
+13. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
+14. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+15. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
 16. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
 17. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
 18. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
