@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-06 20:19:33
+> 更新时间：2026-10-06 21:14:33
 
 ## 日榜
 
@@ -11,8 +11,8 @@
 5. [余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%](https://www.ithome.com/1/009/976.htm)
 6. [海外消费者网购下单两次 AMD 锐龙 7 9850X3D 处理器，均被调包成十年前的酷睿 i3-3000 系列产品](https://www.ithome.com/1/009/898.htm)
 7. [英伟达黄仁勋“世界巡演”AI 视频海内外爆火，马斯克调侃“内存涨价的原因找到了”](https://www.ithome.com/1/009/953.htm)
-8. [碰撞前 10 米辅助驾驶消失，网传高速追尾事故引发热议](https://www.ithome.com/1/009/981.htm)
-9. [2026 年诺贝尔物理学奖揭晓！34 年来首次单人获奖，Francis Halzen 在南极造一立方公里冰疙瘩](https://www.ithome.com/1/010/028.htm)
+8. [2026 年诺贝尔物理学奖揭晓！34 年来首次单人获奖，Francis Halzen 在南极造一立方公里冰疙瘩](https://www.ithome.com/1/010/028.htm)
+9. [碰撞前 10 米辅助驾驶消失，网传高速追尾事故引发热议](https://www.ithome.com/1/009/981.htm)
 10. [消息称苹果 10 月推 2 波新品上市：M6 iMac、首款触控 MacBook 等](https://www.ithome.com/1/009/965.htm)
 11. [乔布斯逝世 15 周年，苹果两任 CEO 特努斯、库克发文缅怀](https://www.ithome.com/1/009/879.htm)
 12. [苹果开放 iPhone Duo 适配应用提交，明年 4 月起上架需提供折叠设备截图](https://www.ithome.com/1/009/942.htm)

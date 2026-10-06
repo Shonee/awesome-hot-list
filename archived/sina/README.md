@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 20:19:28
+> 更新时间：2026-10-06 21:14:29
 
 ## 新闻热榜
 
@@ -28,22 +28,22 @@
 ## 财经热榜
 
 1. [细节披露：果敢、“佤邦”等方向执迷不悟，中方放弃谈判，直接抓了“佤邦联合军”副总司令鲍军峰](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniuhcmi9010771.shtml)
-2. [美媒：伊朗无人机袭击受伤美军官兵称“对美军医疗系统感到失望”“感觉像被抛在一边”](https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhcmn7168877.shtml)
-3. [美国纽约州宣布针对麻疹疫情进入灾难紧急状态](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufnpp2271676.shtml)
+2. [死者头骨有7个弹孔，缅北电诈主犯随机杀人“祭天”，案件细节曝光](https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhcmm5793424.shtml)
+3. [美媒：伊朗无人机袭击受伤美军官兵称“对美军医疗系统感到失望”“感觉像被抛在一边”](https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhcmn7168877.shtml)
 4. [英航一赴美客机7分钟急坠8230米](https://finance.sina.com.cn/world/gjcj/2026-10-06/doc-iniufxcm9028736.shtml)
-5. [死者头骨有7个弹孔，缅北电诈主犯随机杀人“祭天”，案件细节曝光](https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhcmm5793424.shtml)
-6. [七部门定调2030年！固态电池“抢跑”背后的资本与产能暗战](https://finance.sina.com.cn/wm/2026-10-06/doc-iniuhcmm5750951.shtml)
+5. [七部门定调2030年！固态电池“抢跑”背后的资本与产能暗战](https://finance.sina.com.cn/wm/2026-10-06/doc-iniuhcmm5750951.shtml)
+6. [美国纽约州宣布针对麻疹疫情进入灾难紧急状态](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufnpp2271676.shtml)
 7. [视频丨战火升级 也门政府宣布夺回战略要地 沙土巴紧急启动集体防御](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufsvm2160959.shtml)
-8. [中国警察在缅北战火中查电诈](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufxcq7251979.shtml)
-9. [达利欧警告美债市场风险](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhcmi9019523.shtml)
+8. [达利欧警告美债市场风险](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhcmi9019523.shtml)
+9. [中国警察在缅北战火中查电诈](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufxcq7251979.shtml)
 10. [喜报集结！国庆假期，一批大国重器与重点工程迎来新突破](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufsvp9115642.shtml)
-11. [30年期收益率本月将破6%？经济韧性与通胀压力推高利率 美债抛售潮进一步加剧](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-06/doc-iniufsvp9128264.shtml)
-12. [A股这一赛道火了！“20cm”涨停后，688185紧急公告！](https://finance.sina.com.cn/stock/roll/2026-10-06/doc-iniuezxv4078567.shtml)
-13. [最新筹码大幅变动股名单出炉](https://finance.sina.com.cn/stock/relnews/cn/2026-10-06/doc-iniufsvp3788189.shtml)
-14. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
-15. [9月A股回购图谱：中际旭创近50亿元回购火速完成，PCB概念股满坤科技单月股价上涨近70%！](https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhitp5767437.shtml)
+11. [A股这一赛道火了！“20cm”涨停后，688185紧急公告！](https://finance.sina.com.cn/stock/roll/2026-10-06/doc-iniuezxv4078567.shtml)
+12. [最新筹码大幅变动股名单出炉](https://finance.sina.com.cn/stock/relnews/cn/2026-10-06/doc-iniufsvp3788189.shtml)
+13. [30年期收益率本月将破6%？经济韧性与通胀压力推高利率 美债抛售潮进一步加剧](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-06/doc-iniufsvp9128264.shtml)
+14. [9月A股回购图谱：中际旭创近50亿元回购火速完成，PCB概念股满坤科技单月股价上涨近70%！](https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhitp5767437.shtml)
+15. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
 16. [开局之年看中国·潮涌荆楚｜神农架金丝猴复壮，贡献全球濒危保护样本](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufxcm9069351.shtml)
-17. [“香港名媛蔡天凤碎尸案”最新披露：萝卜汤中发现身体组织，5000万豪宅成导火索](https://finance.sina.com.cn/roll/2026-10-06/doc-iniufxcq7256732.shtml)
-18. [“世界第一跨”，传来好消息！](https://finance.sina.com.cn/china/gncj/2026-10-06/doc-iniufsvp3774667.shtml)
-19. [特朗普：因“具体威胁” 美军轰炸机撤离英国基地](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufnpr3862979.shtml)
-20. [达利欧再敲警钟：中日资金可能不再接盘美债，未来三年美国或陷债务危机](https://finance.sina.com.cn/money/smjj/smgd/2026-10-06/doc-iniuhcmn7169530.shtml)
+17. [达利欧再敲警钟：中日资金可能不再接盘美债，未来三年美国或陷债务危机](https://finance.sina.com.cn/money/smjj/smgd/2026-10-06/doc-iniuhcmn7169530.shtml)
+18. [特朗普：因“具体威胁” 美军轰炸机撤离英国基地](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufnpr3862979.shtml)
+19. [“香港名媛蔡天凤碎尸案”最新披露：萝卜汤中发现身体组织，5000万豪宅成导火索](https://finance.sina.com.cn/roll/2026-10-06/doc-iniufxcq7256732.shtml)
+20. [美军红海突发！沙特、巴基斯坦、土耳其，联合发布](https://finance.sina.com.cn/world/gjcj/2026-10-06/doc-iniuhitf8954457.shtml)

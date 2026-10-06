@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-06 20:19:00
+> 更新时间：2026-10-06 21:14:07
 
 ## 热门文章
 
@@ -9,15 +9,15 @@
 3. [LangSmith：从链路追踪到 RAG 自动化评估](https://juejin.cn/post/7691774360802246671)
 4. [Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段](https://juejin.cn/post/7692296625806508072)
 5. [Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机](https://juejin.cn/post/7692379120273899560)
-6. [2026年后端开发进化：告别CRUD内卷，拥抱AI原生架构与服务编排新时代](https://juejin.cn/post/7691917465479446591)
-7. [2026-09-27-Qwen-Image-2.1-1660Ti本地部署实战](https://juejin.cn/post/7692143474695569458)
-8. [我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录](https://juejin.cn/post/7692743066844135433)
-9. [LangChain4j 新手入门实战教程（Java版）](https://juejin.cn/post/7692127219867123750)
+6. [2026-09-27-Qwen-Image-2.1-1660Ti本地部署实战](https://juejin.cn/post/7692143474695569458)
+7. [2026年后端开发进化：告别CRUD内卷，拥抱AI原生架构与服务编排新时代](https://juejin.cn/post/7691917465479446591)
+8. [LangChain4j 新手入门实战教程（Java版）](https://juejin.cn/post/7692127219867123750)
+9. [我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录](https://juejin.cn/post/7692743066844135433)
 10. [组合式 API（Composition API）](https://juejin.cn/post/7692042894160511011)
-11. [用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍](https://juejin.cn/post/7692084224499367971)
-12. [用 Codex 加速 Java 开发：从代码生成到测试覆盖的完整实战](https://juejin.cn/post/7692058641252237322)
-13. [canvas最大能开多大：先看面积，再看导出格式](https://juejin.cn/post/7691876829276602377)
-14. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
+11. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
+12. [用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍](https://juejin.cn/post/7692084224499367971)
+13. [用 Codex 加速 Java 开发：从代码生成到测试覆盖的完整实战](https://juejin.cn/post/7692058641252237322)
+14. [canvas最大能开多大：先看面积，再看导出格式](https://juejin.cn/post/7691876829276602377)
 15. [🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些"插槽"(前置介绍)](https://juejin.cn/post/7692500213994586153)
 16. [Harness：Agent 运行时架构](https://juejin.cn/post/7692379120273080360)
 17. [Loop Engineering 保姆级教程 + 项目实战](https://juejin.cn/post/7692336657548279842)
@@ -29,9 +29,9 @@
 23. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
 24. [ai agent --- 文件存储](https://juejin.cn/post/7692274273326579748)
 25. [我用 Rust 重写了 Pi，启动快了 10 倍](https://juejin.cn/post/7691917465479020607)
-26. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
-27. [【硬核实战】React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It (2026-10-03)](https://juejin.cn/post/7692087017225322530)
-28. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
+26. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
+27. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
+28. [【硬核实战】React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It (2026-10-03)](https://juejin.cn/post/7692087017225322530)
 29. [独立开发者的"富矿地带"：哪些垂直领域值得你押注一辈子？](https://juejin.cn/post/7692743968833224713)
 30. [一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏](https://juejin.cn/post/7692498648035819563)
 31. [Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析](https://juejin.cn/post/7692440533922791443)
@@ -53,4 +53,4 @@
 47. [保险Agent开发记录](https://juejin.cn/post/7691859218202705961)
 48. [100 个 AI 组队做数学，27 分钟集体沦陷：DeepMind 记录了一场教科书级多智能体事故](https://juejin.cn/post/7691713454688927771)
 49. [中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单](https://juejin.cn/post/7692973488219537423)
-50. [应用账号最小权限实践：读写账号、报表账号、运维账号分层](https://juejin.cn/post/7692743968833732617)
+50. [写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张"新桌子"](https://juejin.cn/post/7692534495237275682)
