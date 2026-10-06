@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-06 07:13:15
+> 更新时间：2026-10-06 08:36:25
 
 ## 热门主题
 
@@ -11,5 +11,4 @@
 5. [准备注册美国公司来使用 claude](https://www.v2ex.com/t/1246523)
 6. [codex 的梯子流量消耗很大，怎么治？](https://www.v2ex.com/t/1246473)
 7. [感觉到了一些不好的苗头](https://www.v2ex.com/t/1246516)
-8. [ai 时代怎么感觉招 js/ts 全栈还是那么少？](https://www.v2ex.com/t/1246444)
-9. [Muse 互助帖](https://www.v2ex.com/t/1246462)
+8. [loon 有没有好用的去 YouTube 广告的插件](https://www.v2ex.com/t/1246475)

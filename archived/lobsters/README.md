@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-06 07:13:36
+> 更新时间：2026-10-06 08:36:47
 
 ## Hottest
 
@@ -14,18 +14,18 @@
 8. [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/)
 9. [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
 10. [What are you doing this week?](https://lobste.rs/s/nvkrb9)
-11. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
-12. [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
-13. [Reverse Engineering Comanche Terrain Maps](https://pikuma.com/blog/comanche-maps-reverse-engineering)
-14. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
-15. [You don't need an effect system](https://burningwitness.github.io/blog/posts/against-effect-systems/)
+11. [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
+12. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
+13. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+14. [You don't need an effect system](https://burningwitness.github.io/blog/posts/against-effect-systems/)
+15. [Reverse Engineering Comanche Terrain Maps](https://pikuma.com/blog/comanche-maps-reverse-engineering)
 16. [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
-17. [spoonful: static site generator written in Nix](https://tangled.org/poacher.dev/spoonful)
-18. [A new, bespoke static site generator to replace Jekyll](https://nullprogram.com/blog/2026/10/04/)
-19. [Tufte's Razor: an interactive guide to the data-ink ratio](https://tuftesrazor.scienceux.org/)
-20. [Nix on the Steam Frame](https://johns.codes/blog/nix-on-steam-frame)
-21. [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
-22. [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://nivdayan.github.io/dostoevsky.pdf)
-23. [Claude Says](https://ohhfishal.net/Posts/claude)
-24. [Self-hosted HTTP tunnels with SSH and nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-25. [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)
+17. [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/)
+18. [spoonful: static site generator written in Nix](https://tangled.org/poacher.dev/spoonful)
+19. [A new, bespoke static site generator to replace Jekyll](https://nullprogram.com/blog/2026/10/04/)
+20. [Tufte's Razor: an interactive guide to the data-ink ratio](https://tuftesrazor.scienceux.org/)
+21. [Nix on the Steam Frame](https://johns.codes/blog/nix-on-steam-frame)
+22. [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
+23. [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://nivdayan.github.io/dostoevsky.pdf)
+24. [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://blog.cloudflare.com/containers-cross-tenant-vulnerability/)
+25. [Claude Says](https://ohhfishal.net/Posts/claude)
