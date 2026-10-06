@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-06 14:23:35
+> 更新时间：2026-10-06 14:56:59
 
 ## 最新帖子
 
-1. [BS-2247 选钻石 题解](https://www.cnblogs.com/xiaoniu142857/p/23208501)
-2. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
-3. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
-4. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
-5. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
-6. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
-7. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
-8. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
-9. [CF813D Two Melodies 题解](https://www.cnblogs.com/lvwangshuOI/p/23206388)
-10. [反馈：让系统知道自己做得对不对](https://www.cnblogs.com/zw-awa/p/23204653)
-11. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
-12. [进程和线程以及go语言中的协程](https://www.cnblogs.com/ishoulgodo/p/23203446)
-13. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
-14. [面向数据工程师的正则表达式：从日志清洗到字段提取](https://www.cnblogs.com/wang_yb/p/23203584)
-15. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
-16. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
-17. [JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术）](https://www.cnblogs.com/xcj26/p/23200517)
-18. [编码器读到的到底是什么：从脉冲到速度](https://www.cnblogs.com/zw-awa/p/23198962)
-19. [Qwen-Image2.1-本地AI漫画工作室](https://www.cnblogs.com/wyang/p/23198892)
-20. [语言选型的新坐标：反馈确定性](https://www.cnblogs.com/shanyou/p/23198672)
+1. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
+2. [用餐厅和盘子理解栈和堆](https://www.cnblogs.com/leikooo/p/23208624)
+3. [BS-2247 选钻石 题解](https://www.cnblogs.com/xiaoniu142857/p/23208501)
+4. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
+5. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
+6. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
+7. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
+8. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
+9. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
+10. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
+11. [CF813D Two Melodies 题解](https://www.cnblogs.com/lvwangshuOI/p/23206388)
+12. [反馈：让系统知道自己做得对不对](https://www.cnblogs.com/zw-awa/p/23204653)
+13. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
+14. [进程和线程以及go语言中的协程](https://www.cnblogs.com/ishoulgodo/p/23203446)
+15. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
+16. [面向数据工程师的正则表达式：从日志清洗到字段提取](https://www.cnblogs.com/wang_yb/p/23203584)
+17. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
+18. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
+19. [JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术）](https://www.cnblogs.com/xcj26/p/23200517)
+20. [编码器读到的到底是什么：从脉冲到速度](https://www.cnblogs.com/zw-awa/p/23198962)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [Qwen-Image2.1-本地AI漫画工作室](https://www.cnblogs.com/wyang/p/23198892)
-2. [开源：一稿多投工具（仅4M，支持9大平台）](https://www.cnblogs.com/liulun/p/23197056)
-3. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
-4. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
-5. [语言选型的新坐标：反馈确定性](https://www.cnblogs.com/shanyou/p/23198672)
+2. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
+3. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
+4. [语言选型的新坐标：反馈确定性](https://www.cnblogs.com/shanyou/p/23198672)
+5. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
 6. [数论小结](https://www.cnblogs.com/MadeByEmu/p/23189934)

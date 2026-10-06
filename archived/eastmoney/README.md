@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-06 14:24:12
+> 更新时间：2026-10-06 14:57:39
 
 ## 股票人气榜
 
@@ -19,8 +19,8 @@
 13. [康希诺 (688185)](https://quote.eastmoney.com/sh688185.html)
 14. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
 15. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-16. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
-17. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
-18. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
-19. [海特生物 (300683)](https://quote.eastmoney.com/sz300683.html)
-20. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
+16. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
+17. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
+18. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
+19. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
+20. [海特生物 (300683)](https://quote.eastmoney.com/sz300683.html)

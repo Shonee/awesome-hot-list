@@ -1,19 +1,19 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-06 14:24:45
+> 更新时间：2026-10-06 14:58:19
 
 ## 热门问题
 
 1. [Open ports in VS Code dev containers](https://stackoverflow.com/questions/80008134/open-ports-in-vs-code-dev-containers)
-2. [Graph Analysis - How do I handle negative edge weights in betweenness centrality and modularity](https://stackoverflow.com/questions/80008116/graph-analysis-how-do-i-handle-negative-edge-weights-in-betweenness-centrality)
-3. [Google Drive Picker upload succeeds, but files are invisible to Drive API until "Open with" — large batches](https://stackoverflow.com/questions/80008123/google-drive-picker-upload-succeeds-but-files-are-invisible-to-drive-api-until)
+2. [Google Drive Picker upload succeeds, but files are invisible to Drive API until "Open with" — large batches](https://stackoverflow.com/questions/80008123/google-drive-picker-upload-succeeds-but-files-are-invisible-to-drive-api-until)
+3. [Graph Analysis - How do I handle negative edge weights in betweenness centrality and modularity](https://stackoverflow.com/questions/80008116/graph-analysis-how-do-i-handle-negative-edge-weights-in-betweenness-centrality)
 4. [How can I edit this Google Apps Script to remove the "search for unchecked checkboxes" element?](https://stackoverflow.com/questions/80008105/how-can-i-edit-this-google-apps-script-to-remove-the-search-for-unchecked-check)
 5. [Can CSS anchor positioning be scoped per component without generating unique anchor names?](https://stackoverflow.com/questions/80008104/can-css-anchor-positioning-be-scoped-per-component-without-generating-unique-anc)
 6. [How to detect the number of calls from the same printf() to avoid overbuffering](https://stackoverflow.com/questions/80008011/how-to-detect-the-number-of-calls-from-the-same-printf-to-avoid-overbuffering)
 7. [How do I constrain a generic type to allow struct types that embed a given type?](https://stackoverflow.com/questions/80008099/how-do-i-constrain-a-generic-type-to-allow-struct-types-that-embed-a-given-type)
-8. [SQL Cannot ORDER BY literal value](https://stackoverflow.com/questions/80008091/sql-cannot-order-by-literal-value)
-9. [Reading and writing data into a list containing a data class](https://stackoverflow.com/questions/80008089/reading-and-writing-data-into-a-list-containing-a-data-class)
-10. [Why I am unable to set Groups despite user having an Id?](https://stackoverflow.com/questions/80008079/why-i-am-unable-to-set-groups-despite-user-having-an-id)
+8. [Why I am unable to set Groups despite user having an Id?](https://stackoverflow.com/questions/80008079/why-i-am-unable-to-set-groups-despite-user-having-an-id)
+9. [SQL Cannot ORDER BY literal value](https://stackoverflow.com/questions/80008091/sql-cannot-order-by-literal-value)
+10. [Reading and writing data into a list containing a data class](https://stackoverflow.com/questions/80008089/reading-and-writing-data-into-a-list-containing-a-data-class)
 11. [Is there a standard way to deal with columns whose value is rarely different from the default?](https://stackoverflow.com/questions/80008049/is-there-a-standard-way-to-deal-with-columns-whose-value-is-rarely-different-fro)
 12. [Assign literal value to a dynamic property of given type of a generic object](https://stackoverflow.com/questions/80008078/assign-literal-value-to-a-dynamic-property-of-given-type-of-a-generic-object)
 13. [focusableInTouchMode has odd side-effects](https://stackoverflow.com/questions/80008085/focusableintouchmode-has-odd-side-effects)
@@ -43,14 +43,14 @@
 37. [How does one implement nested LEFT JOIN in "old style joins" on SQL Server 4.2](https://stackoverflow.com/questions/80007870/how-does-one-implement-nested-left-join-in-old-style-joins-on-sql-server-4-2)
 38. [Existing JAXBElement leads to ClassNotFound/DefNotFound on Java 11](https://stackoverflow.com/questions/80007925/existing-jaxbelement-leads-to-classnotfound-defnotfound-on-java-11)
 39. [Why does the DICOM standard sometimes define mandatory (M) modules which only have optional (Type 3) attributes?](https://stackoverflow.com/questions/80007987/why-does-the-dicom-standard-sometimes-define-mandatory-m-modules-which-only-ha)
-40. [AWS SQS Dead letter Queues](https://stackoverflow.com/questions/80007992/aws-sqs-dead-letter-queues)
-41. [How to pass dependencies using interfaces while retaining functionality?](https://stackoverflow.com/questions/80007896/how-to-pass-dependencies-using-interfaces-while-retaining-functionality)
+40. [How to pass dependencies using interfaces while retaining functionality?](https://stackoverflow.com/questions/80007896/how-to-pass-dependencies-using-interfaces-while-retaining-functionality)
+41. [AWS SQS Dead letter Queues](https://stackoverflow.com/questions/80007992/aws-sqs-dead-letter-queues)
 42. [Why does pointer-to-member dereference operator have lower precedence than regular member access?](https://stackoverflow.com/questions/80007784/why-does-pointer-to-member-dereference-operator-have-lower-precedence-than-regul)
 43. [GRPC server-side assets with state/persistent data](https://stackoverflow.com/questions/80007977/grpc-server-side-assets-with-state-persistent-data)
 44. [Eclipse Link with Java 25](https://stackoverflow.com/questions/80007908/eclipse-link-with-java-25)
 45. [Match the beginning and end of a word that begins with "-"](https://stackoverflow.com/questions/80007833/match-the-beginning-and-end-of-a-word-that-begins-with)
 46. [GitHub Copilot Agent in VS Code Insiders executes commands without asking for permission (Allow/Deny)](https://stackoverflow.com/questions/80007892/github-copilot-agent-in-vs-code-insiders-executes-commands-without-asking-for-pe)
 47. [Find type of a value in Rhombus](https://stackoverflow.com/questions/80007919/find-type-of-a-value-in-rhombus)
-48. [Day by day tickets and sales per POS](https://stackoverflow.com/questions/80007878/day-by-day-tickets-and-sales-per-pos)
-49. [Why do RMWs require flushing of write buffer in TSO?](https://stackoverflow.com/questions/80007850/why-do-rmws-require-flushing-of-write-buffer-in-tso)
+48. [Why do RMWs require flushing of write buffer in TSO?](https://stackoverflow.com/questions/80007850/why-do-rmws-require-flushing-of-write-buffer-in-tso)
+49. [Day by day tickets and sales per POS](https://stackoverflow.com/questions/80007878/day-by-day-tickets-and-sales-per-pos)
 50. [NVCC 9 + GCC 6.5.0/8.5.0 having trouble with __int128 and __s128 - can I circumvent this?](https://stackoverflow.com/questions/80007868/nvcc-9-gcc-6-5-0-8-5-0-having-trouble-with-int128-and-s128-can-i-circumv)

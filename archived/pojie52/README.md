@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-06 14:23:40
+> 更新时间：2026-10-06 14:57:08
 
 ## 人气热门
 
@@ -58,8 +58,8 @@
 ## 精华采撷
 
 1. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-2. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
-3. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
+2. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
+3. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 4. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
 5. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
 6. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)

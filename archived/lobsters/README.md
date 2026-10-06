@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-06 14:24:45
+> 更新时间：2026-10-06 14:58:19
 
 ## Hottest
 
@@ -15,8 +15,8 @@
 9. [Using docker-compose with Podman rootless](https://elou.world/en/tutorial/podman-docker-compose)
 10. [What are you doing this week?](https://lobste.rs/s/nvkrb9)
 11. [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
-12. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
-13. [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
+12. [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
+13. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
 14. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
 15. [hutch: local code reviews in emacs for the mildly disenfranchised](https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/)
 16. [You don't need an effect system](https://burningwitness.github.io/blog/posts/against-effect-systems/)
