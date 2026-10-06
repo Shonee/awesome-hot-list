@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-06 09:31:10
+> 更新时间：2026-10-06 10:29:09
 
 ## Hottest
 
@@ -12,20 +12,20 @@
 6. [Mold 3.0.0 Released](https://github.com/rui314/mold/releases/tag/v3.0.0)
 7. [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/)
 8. [Using docker-compose with Podman rootless](https://elou.world/en/tutorial/podman-docker-compose)
-9. [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
-10. [What are you doing this week?](https://lobste.rs/s/nvkrb9)
-11. [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
-12. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
-13. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
-14. [You don't need an effect system](https://burningwitness.github.io/blog/posts/against-effect-systems/)
-15. [Reverse Engineering Comanche Terrain Maps](https://pikuma.com/blog/comanche-maps-reverse-engineering)
-16. [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/)
+9. [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/)
+10. [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
+11. [What are you doing this week?](https://lobste.rs/s/nvkrb9)
+12. [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
+13. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
+14. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+15. [You don't need an effect system](https://burningwitness.github.io/blog/posts/against-effect-systems/)
+16. [Reverse Engineering Comanche Terrain Maps](https://pikuma.com/blog/comanche-maps-reverse-engineering)
 17. [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
 18. [spoonful: static site generator written in Nix](https://tangled.org/poacher.dev/spoonful)
 19. [A new, bespoke static site generator to replace Jekyll](https://nullprogram.com/blog/2026/10/04/)
 20. [Nix on the Steam Frame](https://johns.codes/blog/nix-on-steam-frame)
-21. [Tufte's Razor: an interactive guide to the data-ink ratio](https://tuftesrazor.scienceux.org/)
-22. [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
-23. [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://nivdayan.github.io/dostoevsky.pdf)
+21. [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://nivdayan.github.io/dostoevsky.pdf)
+22. [Tufte's Razor: an interactive guide to the data-ink ratio](https://tuftesrazor.scienceux.org/)
+23. [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
 24. [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://blog.cloudflare.com/containers-cross-tenant-vulnerability/)
 25. [Claude Says](https://ohhfishal.net/Posts/claude)

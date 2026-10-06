@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 09:29:42
+> 更新时间：2026-10-06 10:28:23
 
 ## 新闻热榜
 
@@ -28,22 +28,22 @@
 ## 财经热榜
 
 1. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
-2. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
-3. [谷歌、亚马逊、微软为何离不开中国数据中心供应商](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9381497.shtml)
+2. [菲律宾股市申报网站出现宕机](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5812885.shtml)
+3. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
 4. [欧洲股市受大宗商品股提振 英国对中国电动车关税报道推升汽车股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6171320.shtml)
-5. [这三张图表，有望重新点燃投资者对股市的信心](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv4087870.shtml)
-6. [阿斯利康在马萨诸塞州剑桥市肯德尔广场开设全新全球战略研发中心，阿斯利康投资 10 亿美元，将马萨诸塞州员工数量增幅扩大 50% 以上。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9380490.shtml)
-7. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
-8. [法国央行行长就利率发出警告](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6178713.shtml)
-9. [花旗建议加码巴西风险资产 此前博索纳罗在首轮投票中表现强于预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9404195.shtml)
-10. [卢拉考虑若连任就由副总统为下一任财长](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2479624.shtml)
-11. [10月6日收盘：美股收涨，纳指、英伟达均创历史新高 市场关注财报季](https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpp2268655.shtml)
-12. [花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml)
-13. [美国联邦贸易委员会主席弗格森向全美 24 家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9387018.shtml)
+5. [谷歌、亚马逊、微软为何离不开中国数据中心供应商](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9381497.shtml)
+6. [南亚科9月销售额450.9亿元台币，增长576.6％。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufsvp9155153.shtml)
+7. [这三张图表，有望重新点燃投资者对股市的信心](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv4087870.shtml)
+8. [10月6日收盘：美股收涨，纳指、英伟达均创历史新高 市场关注财报季](https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpp2268655.shtml)
+9. [阿斯利康在马萨诸塞州剑桥市肯德尔广场开设全新全球战略研发中心，阿斯利康投资 10 亿美元，将马萨诸塞州员工数量增幅扩大 50% 以上。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9380490.shtml)
+10. [加拿大将调查医疗飞机失事 机上6人恐全部遇难](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufsvp9145240.shtml)
+11. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
+12. [法国央行行长就利率发出警告](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6178713.shtml)
+13. [花旗建议加码巴西风险资产 此前博索纳罗在首轮投票中表现强于预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9404195.shtml)
 14. [Meta和微软设法减少员工对Claude的使用](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhfv6077194.shtml)
-15. [美债新的风险隐匿在国债期货合约细则中 “CTD切换”或加剧抛售](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6165035.shtml)
-16. [欧盟委员会否决向波兰曼恩卡车工厂提供 2600 万欧元补贴。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9379287.shtml)
-17. [美国将轰炸机全部撤离险遭恐怖袭击的英国基地](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhft9310983.shtml)
-18. [10月6日外盘头条：特朗普承认恐袭威胁迫使B-1轰炸机撤出英国 SpaceX涨超7% 花旗建议加码巴西风险资产](https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpt6008052.shtml)
-19. [OpenAI：为符合欧盟监管规定，公司将拓展内容溯源方案，对输出文本增加溯源能力。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufhft9287030.shtml)
-20. [城堡证券：美债收益率上升源于经济走强 并非通胀担忧加剧所致](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6152293.shtml)
+15. [卢拉考虑若连任就由副总统为下一任财长](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2479624.shtml)
+16. [美国将轰炸机全部撤离险遭恐怖袭击的英国基地](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhft9310983.shtml)
+17. [10月6日隔夜要闻：美股三大收涨 纳指、英伟达创历史新高 30年期美债收益率重返24年高点](https://finance.sina.com.cn/world/2026-10-06/doc-iniufsvp9125548.shtml)
+18. [市场消息：埃森哲一承包商因一起造成严重损害的数据泄露事件被联邦调查局解雇。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcm9044157.shtml)
+19. [花旗下调欧元目标位 鹰派美联储及伊朗紧张局势构成压力](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9382952.shtml)
+20. [美国联邦贸易委员会主席弗格森向全美 24 家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9387018.shtml)
