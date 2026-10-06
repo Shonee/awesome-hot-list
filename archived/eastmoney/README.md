@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-06 08:36:14
+> 更新时间：2026-10-06 09:30:36
 
 ## 股票人气榜
 
@@ -17,10 +17,10 @@
 11. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 12. [海特生物 (300683)](https://quote.eastmoney.com/sz300683.html)
 13. [中国平安 (601318)](https://quote.eastmoney.com/sh601318.html)
-14. [美的集团 (000333)](https://quote.eastmoney.com/sz000333.html)
-15. [工商银行 (601398)](https://quote.eastmoney.com/sh601398.html)
-16. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
-17. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
+14. [工商银行 (601398)](https://quote.eastmoney.com/sh601398.html)
+15. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
+16. [美的集团 (000333)](https://quote.eastmoney.com/sz000333.html)
+17. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 18. [XD中国移 (600941)](https://quote.eastmoney.com/sh600941.html)
-19. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+19. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
 20. [招商银行 (600036)](https://quote.eastmoney.com/sh600036.html)

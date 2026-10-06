@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-06 08:35:57
+> 更新时间：2026-10-06 09:29:36
 
 ## 热新闻
 
@@ -9,9 +9,9 @@
 3. [中国航协发文回应“东航空姐跪地道歉”事件](https://www.thepaper.cn/newsDetail_forward_34202419)
 4. [为绘制大脑图谱提供梦想机会！诺贝尔委员会详解为何今年拿奖的是光遗传学](https://www.thepaper.cn/newsDetail_forward_34202192)
 5. [奔赴“县”场｜在昆曲之乡，和年轻人们一起“入戏”](https://www.thepaper.cn/newsDetail_forward_34202561)
-6. [从“最孤独的江心岛”到“全球创客岛”，复兴岛正为未来留出接口](https://www.thepaper.cn/newsDetail_forward_34199225)
-7. [重庆酉阳发生盗矿案：警方抓获21人，在矿洞发现7名死者](https://www.thepaper.cn/newsDetail_forward_34202952)
-8. [15元两荤两素，湖北赤壁政府机关食堂国庆对外“迎客”，还免费开放停车场](https://www.thepaper.cn/newsDetail_forward_34201181)
+6. [重庆酉阳发生盗矿案：警方抓获21人，在矿洞发现7名死者](https://www.thepaper.cn/newsDetail_forward_34202952)
+7. [15元两荤两素，湖北赤壁政府机关食堂国庆对外“迎客”，还免费开放停车场](https://www.thepaper.cn/newsDetail_forward_34201181)
+8. [福建福清一动物园活体投喂引争议：60元卖活鸡让猛兽撕咬，有未成年人围观](https://www.thepaper.cn/newsDetail_forward_34202304)
 9. [一家突然歇业的钟表店，藏着多少人的一辈子](https://www.thepaper.cn/newsDetail_forward_34187721)
 10. [港股前三季度IPO募资额达3855亿港元，“A+H”股占近七成](https://www.thepaper.cn/newsDetail_forward_34196697)
 11. [华为5G、AI专利授权取得突破，高通付费获得逻辑折叠等专利](https://www.thepaper.cn/newsDetail_forward_34201847)

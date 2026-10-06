@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-06 08:35:58
+> 更新时间：2026-10-06 09:29:38
 
 ## 热点榜
 
@@ -14,13 +14,13 @@
 8. [视频丨年轻人爱上房车旅行！国庆假期房车消费迎来新变化](https://view.inews.qq.com/a/20261006A01VD900)
 9. [3年期年化2%利率再现江湖！中小银行利率续刷新高](https://view.inews.qq.com/a/20261005A0615400)
 10. [网传高铁座椅或为HPV感染重灾区 医生表示：无需过分恐慌](https://view.inews.qq.com/a/20261005V060G700)
-11. [老年斑是老年人才会长的斑？](https://view.inews.qq.com/a/20261004A08MK000)
-12. [明珍珍临死前接受采访](https://view.inews.qq.com/a/20261005A06OZ700)
-13. [“大聪明又失算了”！第一批返程车辆已堵在高速上](https://view.inews.qq.com/a/20261005A08DKC00)
-14. [郑学勤同志逝世](https://view.inews.qq.com/a/20261006A001JA00)
-15. [巨型“充电宝”驶进多地服务区！一辆卡车可同时为8辆车充电，费用参照充电桩价格](https://view.inews.qq.com/a/20261005A07VVE00)
-16. [高市早苗对美方表示“强烈抗议”](https://view.inews.qq.com/a/20261005A04VFL00)
-17. [俄外交部：将对日本新的反俄措施采取对等反制](https://view.inews.qq.com/a/20261006A0121A00)
-18. [韩国公布非军事区地雷爆炸事件最终调查结果](https://view.inews.qq.com/a/20261005A07QT400)
-19. [公交国有化改革，谁来托底](https://view.inews.qq.com/a/20261005A06YHW00)
-20. [国庆节中国人海外存在感“拉满”：一句“China”一呼百应 有人在异国旅游偶遇多年未见老同学](https://view.inews.qq.com/a/20261005A05Q4500)
+11. [柿子不能和鱼、虾、蟹、牛奶、醋、红薯等同食？会得胃结石？](https://view.inews.qq.com/a/20261005A07QHH00)
+12. [英航一客机7分钟急坠8230米，并发出7700通用紧急代码](https://view.inews.qq.com/a/20261006A03C7300)
+13. [中国代表点名警告英澳日等国](https://view.inews.qq.com/a/20261006A03HYG00)
+14. [这届年轻人出行，连住酒店都开始和陌生人AA了](https://view.inews.qq.com/a/20261005A09C4M00)
+15. [制药界的下一个爆点产生了](https://view.inews.qq.com/a/20261005A08ZDM00)
+16. [江苏著名画家王飞飞在宁逝世](https://view.inews.qq.com/a/20261005A0922N00)
+17. [“大聪明又失算了”！第一批返程车辆已堵在高速上](https://view.inews.qq.com/a/20261005A08DKC00)
+18. [明珍珍临死前接受采访](https://view.inews.qq.com/a/20261005A06OZ700)
+19. [中国两岁女童在新加坡景区被蟒蛇咬伤，家长：孩子被咬后伤口瞬间红肿，已紧急送医处理，咬人的是网纹蟒，所幸无毒](https://view.inews.qq.com/a/20261005A094R500)
+20. [郑学勤同志逝世](https://view.inews.qq.com/a/20261006A001JA00)

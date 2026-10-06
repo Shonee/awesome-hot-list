@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-06 08:36:07
+> 更新时间：2026-10-06 09:30:26
 
 ## 热点资讯排行
 
@@ -12,8 +12,8 @@
 6. [《剑星》新版本难度太高劝退玩家 但忍一忍就过去了](https://www.gamersky.com/news/202610/2221138.shtml)
 7. [《艾希》制作人直播下跪！再也不众筹 请别造神](https://www.gamersky.com/news/202610/2221313.shtml)
 8. [《巫师3：狂猎重制版》各大平台全遭殃 遭批画面太过真实没生气](https://www.gamersky.com/news/202610/2221484.shtml)
-9. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
-10. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
+9. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
+10. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
 11. [装机猿直播给峰哥装机 价值仅1万2 徐静雨的1/10](https://www.gamersky.com/hardware/202610/2222121.shtml)
 12. [PS Plus买一送一来了！有人免费拿一年](https://www.gamersky.com/news/202610/2221691.shtml)
 13. [不用模拟器！PS5独占《战神：斯巴达之子》PC 60帧直接跑](https://www.gamersky.com/news/202610/2221617.shtml)
