@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-07 01:11:20
+> 更新时间：2026-10-07 02:16:52
 
 ## 热门文章
 
@@ -11,8 +11,8 @@
 5. [Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机](https://juejin.cn/post/7692379120273899560)
 6. [2026年后端开发进化：告别CRUD内卷，拥抱AI原生架构与服务编排新时代](https://juejin.cn/post/7691917465479446591)
 7. [LangChain4j 新手入门实战教程（Java版）](https://juejin.cn/post/7692127219867123750)
-8. [我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录](https://juejin.cn/post/7692743066844135433)
-9. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
+8. [前端转 NestJS 全栈实践：从表单页面到微信业务系统](https://juejin.cn/post/7691774360802164751)
+9. [我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录](https://juejin.cn/post/7692743066844135433)
 10. [用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍](https://juejin.cn/post/7692084224499367971)
 11. [用 Codex 加速 Java 开发：从代码生成到测试覆盖的完整实战](https://juejin.cn/post/7692058641252237322)
 12. [diff 算法（虚拟 DOM Reconciliation）](https://juejin.cn/post/7692296625806229544)
@@ -27,12 +27,12 @@
 21. [我用 Rust 重写了 Pi，启动快了 10 倍](https://juejin.cn/post/7691917465479020607)
 22. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
 23. [给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频](https://juejin.cn/post/7692127219867877414)
-24. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
-25. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
-26. [独立开发者的"富矿地带"：哪些垂直领域值得你押注一辈子？](https://juejin.cn/post/7692743968833224713)
-27. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
-28. [Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析](https://juejin.cn/post/7692440533922791443)
-29. [【硬核实战】React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It (2026-10-03)](https://juejin.cn/post/7692087017225322530)
+24. [【硬核实战】React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It (2026-10-03)](https://juejin.cn/post/7692087017225322530)
+25. [AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析](https://juejin.cn/post/7692059206255951881)
+26. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
+27. [独立开发者的"富矿地带"：哪些垂直领域值得你押注一辈子？](https://juejin.cn/post/7692743968833224713)
+28. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
+29. [Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析](https://juejin.cn/post/7692440533922791443)
 30. [我给 DeepSeek 的编程智能体写了三个插件:余额胶囊、任务面板、番茄钟](https://juejin.cn/post/7692059206256394249)
 31. [AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了](https://juejin.cn/post/7693358476032049162)
 32. [写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张"新桌子"](https://juejin.cn/post/7692534495237275682)
@@ -46,11 +46,11 @@
 40. [WinSW在Win7上失败真相-实测与修复](https://juejin.cn/post/7692881705649586217)
 41. [悬停旋转放大和位移效果如何写](https://juejin.cn/post/7692743745478492206)
 42. [缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界](https://juejin.cn/post/7692739051066064905)
-43. [命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统](https://juejin.cn/post/7692498648035311659)
-44. [Redis哨兵模式](https://juejin.cn/post/7692485970525339682)
-45. [网页文字滚动效果如何做](https://juejin.cn/post/7692229946185957426)
-46. [一次真实失败：AI 代码看起来没问题，为什么还是翻车了？](https://juejin.cn/post/7692127219867959334)
-47. [深入理解OpenSceneGraph（五）：插件生态与最佳实践](https://juejin.cn/post/7692065346283175976)
-48. [51个指标 × 5000只股票：全市场技术扫描的工程实践](https://juejin.cn/post/7692058641252057098)
-49. [简历写「QPS 提升 3 倍」，面试官问「怎么压测的」，我卡在并发数怎么定](https://juejin.cn/post/7692042894161723427)
-50. [SpringBoot自动配置把我坑惨了：这些隐式规则要小心](https://juejin.cn/post/7692042894161412131)
+43. [workbuddy-to-dsh使用教程](https://juejin.cn/post/7692614083904274486)
+44. [命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统](https://juejin.cn/post/7692498648035311659)
+45. [Redis哨兵模式](https://juejin.cn/post/7692485970525339682)
+46. [网页文字滚动效果如何做](https://juejin.cn/post/7692229946185957426)
+47. [从零封装一个地图组件库：OpenLayers + Vue 的工程化实践](https://juejin.cn/post/7692227011060334611)
+48. [一次真实失败：AI 代码看起来没问题，为什么还是翻车了？](https://juejin.cn/post/7692127219867959334)
+49. [深入理解OpenSceneGraph（五）：插件生态与最佳实践](https://juejin.cn/post/7692065346283175976)
+50. [51个指标 × 5000只股票：全市场技术扫描的工程实践](https://juejin.cn/post/7692058641252057098)
