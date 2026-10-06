@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 11:16:03
+> 更新时间：2026-10-06 12:15:45
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
-2. [菲律宾股市申报网站出现宕机](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5812885.shtml)
-3. [美国纽约州宣布针对麻疹疫情进入灾难紧急状态](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufnpp2271676.shtml)
-4. [特斯拉连续八个月蝉联韩国进口车销量冠军](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5828283.shtml)
-5. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
-6. [30年期收益率本月将破6%？经济韧性与通胀压力推高利率 美债抛售潮进一步加剧](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-06/doc-iniufsvp9128264.shtml)
-7. [10月6日收盘：美股收涨，纳指、英伟达均创历史新高 市场关注财报季](https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpp2268655.shtml)
-8. [欧洲股市受大宗商品股提振 英国对中国电动车关税报道推升汽车股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6171320.shtml)
-9. [喜报集结！国庆假期，一批大国重器与重点工程迎来新突破](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufsvp9115642.shtml)
-10. [谷歌、亚马逊、微软为何离不开中国数据中心供应商](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9381497.shtml)
-11. [赵长鹏称福布斯估值虚高](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcm9071062.shtml)
-12. [南亚科9月销售额450.9亿元台币，增长576.6％。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufsvp9155153.shtml)
-13. [这三张图表，有望重新点燃投资者对股市的信心](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv4087870.shtml)
-14. [阿斯利康在马萨诸塞州剑桥市肯德尔广场开设全新全球战略研发中心，阿斯利康投资 10 亿美元，将马萨诸塞州员工数量增幅扩大 50% 以上。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9380490.shtml)
-15. [加拿大将调查医疗飞机失事 机上6人恐全部遇难](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufsvp9145240.shtml)
-16. [Meta和微软设法减少员工对Claude的使用](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhfv6077194.shtml)
-17. [国际货币基金组织预测，索马里 2027 年整体财政赤字占国内生产总值比重为 0.5%。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxx6171861.shtml)
-18. [10月6日隔夜要闻：美股三大收涨 纳指、英伟达创历史新高 30年期美债收益率重返24年高点](https://finance.sina.com.cn/world/2026-10-06/doc-iniufsvp9125548.shtml)
-19. [法国央行行长就利率发出警告](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6178713.shtml)
-20. [美国将轰炸机全部撤离险遭恐怖袭击的英国基地](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhft9310983.shtml)
+1. [美国纽约州宣布针对麻疹疫情进入灾难紧急状态](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufnpp2271676.shtml)
+2. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
+3. [30年期收益率本月将破6%？经济韧性与通胀压力推高利率 美债抛售潮进一步加剧](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-06/doc-iniufsvp9128264.shtml)
+4. [喜报集结！国庆假期，一批大国重器与重点工程迎来新突破](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufsvp9115642.shtml)
+5. [菲律宾股市申报网站出现宕机](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5812885.shtml)
+6. [特斯拉连续八个月蝉联韩国进口车销量冠军](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5828283.shtml)
+7. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
+8. [“世界第一跨”，传来好消息！](https://finance.sina.com.cn/china/gncj/2026-10-06/doc-iniufsvp3774667.shtml)
+9. [10月6日收盘：美股收涨，纳指、英伟达均创历史新高 市场关注财报季](https://finance.sina.com.cn/world/2026-10-06/doc-iniufnpp2268655.shtml)
+10. [欧洲股市受大宗商品股提振 英国对中国电动车关税报道推升汽车股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxx6171320.shtml)
+11. [MrMax控股：多达173万条客户数据可能已遭泄露，包括姓名和电邮地址。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5852497.shtml)
+12. [美股ETF追踪 | 巴西资产集体爆发 3倍做多巴西ETN大涨37%](https://finance.sina.com.cn/world/gjcj/2026-10-06/doc-iniufsvr5884270.shtml)
+13. [长三角铁路迎来节中返程客流高峰 6日预计发送旅客390万人次](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcm9075496.shtml)
+14. [谷歌、亚马逊、微软为何离不开中国数据中心供应商](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv9381497.shtml)
+15. [Meta和微软设法减少员工对Claude的使用](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhfv6077194.shtml)
+16. [赵长鹏称福布斯估值虚高](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcm9071062.shtml)
+17. [10月6日隔夜要闻：美股三大收涨 纳指、英伟达创历史新高 30年期美债收益率重返24年高点](https://finance.sina.com.cn/world/2026-10-06/doc-iniufsvp9125548.shtml)
+18. [南亚科9月销售额450.9亿元台币，增长576.6％。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufsvp9155153.shtml)
+19. [这三张图表，有望重新点燃投资者对股市的信心](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxv4087870.shtml)
+20. [阿斯利康在马萨诸塞州剑桥市肯德尔广场开设全新全球战略研发中心，阿斯利康投资 10 亿美元，将马萨诸塞州员工数量增幅扩大 50% 以上。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9380490.shtml)
