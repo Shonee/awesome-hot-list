@@ -1,22 +1,22 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-07 00:16:54
+> 更新时间：2026-10-07 01:12:54
 
 ## Hottest
 
 1. [Email Self Hosters - what are you using?](https://lobste.rs/s/rwloew)
-2. [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/)
-3. [Montray - a tray icon for systemd service health](https://github.com/dimonomid/montray/)
+2. [Montray - a tray icon for systemd service health](https://github.com/dimonomid/montray/)
+3. [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/)
 4. [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
 5. [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/)
-6. [Bidirectional Type Slicing](https://arxiv.org/pdf/2607.12197)
-7. [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)
+6. [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)
+7. [Bidirectional Type Slicing](https://arxiv.org/pdf/2607.12197)
 8. [Extend Lua with Zig 1: Hello World](https://www.robbielyman.com/blog/extend-lua-with-zig-1/)
-9. [kahawai - an open source, modular media system](https://github.com/iksteen/kahawai)
-10. [Flirt is now Open-Source](https://blog.buenzli.dev/flirt-is-open-source/)
-11. [Another step towards elm v1](https://elm-lang.org/news/another-step-towards-elm-v1)
+9. [Flirt is now Open-Source](https://blog.buenzli.dev/flirt-is-open-source/)
+10. [Another step towards elm v1](https://elm-lang.org/news/another-step-towards-elm-v1)
+11. [Two arm64-specific miscompiles induce vulnerabilities in curl](https://mastodon.social/@bagder/117392573268225646)
 12. [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
-13. [Two arm64-specific miscompiles induce vulnerabilities in curl](https://mastodon.social/@bagder/117392573268225646)
+13. [kahawai - an open source, modular media system](https://github.com/iksteen/kahawai)
 14. [Mold 3.0.0 Released](https://github.com/rui314/mold/releases/tag/v3.0.0)
 15. [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
 16. [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/)
