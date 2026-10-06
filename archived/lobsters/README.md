@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-06 16:47:21
+> 更新时间：2026-10-06 17:43:38
 
 ## Hottest
 
@@ -15,17 +15,17 @@
 9. [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/)
 10. [Using docker-compose with Podman rootless](https://elou.world/en/tutorial/podman-docker-compose)
 11. [What are you doing this week?](https://lobste.rs/s/nvkrb9)
-12. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
-13. [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
-14. [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
-15. [hutch: local code reviews in emacs for the mildly disenfranchised](https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/)
-16. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
-17. [Two arm64-specific miscompiles induce vulnerabilities in curl](https://mastodon.social/@bagder/117392573268225646)
+12. [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
+13. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+14. [Montray - a tray icon for systemd service health](https://github.com/dimonomid/montray/)
+15. [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
+16. [hutch: local code reviews in emacs for the mildly disenfranchised](https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/)
+17. [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
 18. [You don't need an effect system](https://burningwitness.github.io/blog/posts/against-effect-systems/)
-19. [spoonful: static site generator written in Nix](https://tangled.org/poacher.dev/spoonful)
-20. [Reverse Engineering Comanche Terrain Maps](https://pikuma.com/blog/comanche-maps-reverse-engineering)
-21. [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://blog.cloudflare.com/containers-cross-tenant-vulnerability/)
-22. [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
-23. [Why Common Lisp Is Now the Best Programming Language](https://www.vivienhenz.com/common-lisp)
-24. [Nix on the Steam Frame](https://johns.codes/blog/nix-on-steam-frame)
-25. [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://nivdayan.github.io/dostoevsky.pdf)
+19. [Two arm64-specific miscompiles induce vulnerabilities in curl](https://mastodon.social/@bagder/117392573268225646)
+20. [spoonful: static site generator written in Nix](https://tangled.org/poacher.dev/spoonful)
+21. [Why Common Lisp Is Now the Best Programming Language](https://www.vivienhenz.com/common-lisp)
+22. [Reverse Engineering Comanche Terrain Maps](https://pikuma.com/blog/comanche-maps-reverse-engineering)
+23. [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://blog.cloudflare.com/containers-cross-tenant-vulnerability/)
+24. [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
+25. [Nix on the Steam Frame](https://johns.codes/blog/nix-on-steam-frame)
