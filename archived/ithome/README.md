@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-07 03:11:42
+> 更新时间：2026-10-07 04:14:42
 
 ## 日榜
 
@@ -15,4 +15,4 @@
 9. [消息称苹果 10 月推 2 波新品上市：M6 iMac、首款触控 MacBook 等](https://www.ithome.com/1/009/965.htm)
 10. [苹果开放 iPhone Duo 适配应用提交，明年 4 月起上架需提供折叠设备截图](https://www.ithome.com/1/009/942.htm)
 11. [时隔 3 年多，苹果向 2 米 MagSafe 3 连接线推送 3.2.0 新固件](https://www.ithome.com/1/009/929.htm)
-12. [苹果 iOS / iPadOS 27.2 开发者预览版 Beta 3 发布](https://www.ithome.com/1/009/905.htm)
+12. [消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与](https://www.ithome.com/1/009/990.htm)
