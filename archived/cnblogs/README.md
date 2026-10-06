@@ -1,14 +1,14 @@
 # 博客园热榜
 
-> 更新时间：2026-10-06 13:13:16
+> 更新时间：2026-10-06 14:23:35
 
 ## 最新帖子
 
-1. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
-2. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
-3. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
-4. [洛谷 P4822 题解（分层图）](https://www.cnblogs.com/Elaina-blog/p/23207600)
-5. [你的记忆系统可能在删「从未被检索过的金子」：因果干预让记忆效用可识别](https://www.cnblogs.com/buddyme/p/23207592)
+1. [BS-2247 选钻石 题解](https://www.cnblogs.com/xiaoniu142857/p/23208501)
+2. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
+3. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
+4. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
+5. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
 6. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
 7. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
 8. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
