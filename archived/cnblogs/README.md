@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-06 21:14:10
+> 更新时间：2026-10-06 22:14:15
 
 ## 最新帖子
 
-1. [多重背包的贪心近似定理](https://www.cnblogs.com/xiaoniu142857/p/23209884)
-2. [行为树与Nav2中的行为树](https://www.cnblogs.com/CrescentWind/p/23209541)
-3. [OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级](https://www.cnblogs.com/didispace/p/23209517)
-4. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
-5. [用餐厅和盘子理解栈和堆](https://www.cnblogs.com/leikooo/p/23208624)
-6. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
-7. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
-8. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
-9. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
-10. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
-11. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
-12. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
-13. [CF813D Two Melodies 题解](https://www.cnblogs.com/lvwangshuOI/p/23206388)
-14. [反馈：让系统知道自己做得对不对](https://www.cnblogs.com/zw-awa/p/23204653)
-15. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
-16. [进程和线程以及go语言中的协程](https://www.cnblogs.com/ishoulgodo/p/23203446)
-17. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
-18. [面向数据工程师的正则表达式：从日志清洗到字段提取](https://www.cnblogs.com/wang_yb/p/23203584)
-19. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
-20. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
+1. [P14686 [ICPC 2025 Yokohama R] Charity Raffle 喂饭式详解](https://www.cnblogs.com/MrTourist/p/23210516)
+2. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
+3. [多重背包的贪心近似定理](https://www.cnblogs.com/xiaoniu142857/p/23209884)
+4. [行为树与Nav2中的行为树](https://www.cnblogs.com/CrescentWind/p/23209541)
+5. [OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级](https://www.cnblogs.com/didispace/p/23209517)
+6. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
+7. [用餐厅和盘子理解栈和堆](https://www.cnblogs.com/leikooo/p/23208624)
+8. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
+9. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
+10. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
+11. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
+12. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
+13. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
+14. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
+15. [CF813D Two Melodies 题解](https://www.cnblogs.com/lvwangshuOI/p/23206388)
+16. [反馈：让系统知道自己做得对不对](https://www.cnblogs.com/zw-awa/p/23204653)
+17. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
+18. [进程和线程以及go语言中的协程](https://www.cnblogs.com/ishoulgodo/p/23203446)
+19. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
+20. [面向数据工程师的正则表达式：从日志清洗到字段提取](https://www.cnblogs.com/wang_yb/p/23203584)
 
 ## 精华帖子
 
