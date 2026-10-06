@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-06 12:15:26
+> 更新时间：2026-10-06 13:13:16
 
 ## 最新帖子
 
-1. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
-2. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
-3. [洛谷 P4822 题解（分层图）](https://www.cnblogs.com/Elaina-blog/p/23207600)
-4. [你的记忆系统可能在删「从未被检索过的金子」：因果干预让记忆效用可识别](https://www.cnblogs.com/buddyme/p/23207592)
-5. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
-6. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
-7. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
-8. [CF813D Two Melodies 题解](https://www.cnblogs.com/lvwangshuOI/p/23206388)
-9. [反馈：让系统知道自己做得对不对](https://www.cnblogs.com/zw-awa/p/23204653)
-10. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
-11. [进程和线程以及go语言中的协程](https://www.cnblogs.com/ishoulgodo/p/23203446)
-12. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
-13. [面向数据工程师的正则表达式：从日志清洗到字段提取](https://www.cnblogs.com/wang_yb/p/23203584)
-14. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
-15. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
-16. [JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术）](https://www.cnblogs.com/xcj26/p/23200517)
-17. [编码器读到的到底是什么：从脉冲到速度](https://www.cnblogs.com/zw-awa/p/23198962)
-18. [Qwen-Image2.1-本地AI漫画工作室](https://www.cnblogs.com/wyang/p/23198892)
-19. [语言选型的新坐标：反馈确定性](https://www.cnblogs.com/shanyou/p/23198672)
-20. [登录日志 题解](https://www.cnblogs.com/lvwangshuOI/p/23198663)
+1. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
+2. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
+3. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
+4. [洛谷 P4822 题解（分层图）](https://www.cnblogs.com/Elaina-blog/p/23207600)
+5. [你的记忆系统可能在删「从未被检索过的金子」：因果干预让记忆效用可识别](https://www.cnblogs.com/buddyme/p/23207592)
+6. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
+7. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
+8. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
+9. [CF813D Two Melodies 题解](https://www.cnblogs.com/lvwangshuOI/p/23206388)
+10. [反馈：让系统知道自己做得对不对](https://www.cnblogs.com/zw-awa/p/23204653)
+11. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
+12. [进程和线程以及go语言中的协程](https://www.cnblogs.com/ishoulgodo/p/23203446)
+13. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
+14. [面向数据工程师的正则表达式：从日志清洗到字段提取](https://www.cnblogs.com/wang_yb/p/23203584)
+15. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
+16. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
+17. [JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术）](https://www.cnblogs.com/xcj26/p/23200517)
+18. [编码器读到的到底是什么：从脉冲到速度](https://www.cnblogs.com/zw-awa/p/23198962)
+19. [Qwen-Image2.1-本地AI漫画工作室](https://www.cnblogs.com/wyang/p/23198892)
+20. [语言选型的新坐标：反馈确定性](https://www.cnblogs.com/shanyou/p/23198672)
 
 ## 精华帖子
 

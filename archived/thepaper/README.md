@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-06 12:15:36
+> 更新时间：2026-10-06 13:13:21
 
 ## 热新闻
 
@@ -13,7 +13,7 @@
 7. [福建福清一动物园活体投喂引争议：60元卖活鸡让猛兽撕咬，有未成年人围观](https://www.thepaper.cn/newsDetail_forward_34202304)
 8. [重庆酉阳发生盗矿案：警方抓获21人，在矿洞发现7名死者](https://www.thepaper.cn/newsDetail_forward_34202952)
 9. [奔赴“县”场｜一篇未能抵达现场的报道：长海县与网红海豹“娜娜”](https://www.thepaper.cn/newsDetail_forward_34201346)
-10. [15元两荤两素，湖北赤壁政府机关食堂国庆对外“迎客”，还免费开放停车场](https://www.thepaper.cn/newsDetail_forward_34201181)
+10. [央广网：东航应赋予空姐不下跪的底气](https://www.thepaper.cn/newsDetail_forward_34201713)
 11. [一家突然歇业的钟表店，藏着多少人的一辈子](https://www.thepaper.cn/newsDetail_forward_34187721)
 12. [港股前三季度IPO募资额达3855亿港元，“A+H”股占近七成](https://www.thepaper.cn/newsDetail_forward_34196697)
 13. [华为5G、AI专利授权取得突破，高通付费获得百余项专利](https://www.thepaper.cn/newsDetail_forward_34201847)
@@ -23,4 +23,4 @@
 17. [马上评｜乐见校友以定向捐赠支持新校区建设回馈母校](https://www.thepaper.cn/newsDetail_forward_34201538)
 18. [奔赴“县”场｜亲子陪伴不必远游，在书香中读懂上虞](https://www.thepaper.cn/newsDetail_forward_34201509)
 19. [激战三盘击败布兹科娃，郑钦文晋级中网女单16强](https://www.thepaper.cn/newsDetail_forward_34201504)
-20. [针对摩托车商拍“落地签”等安全隐患，重庆启动专项整治](https://www.thepaper.cn/newsDetail_forward_34201254)
+20. [巴西总统选举首轮投票无人胜出，卢拉：出乎意料](https://www.thepaper.cn/newsDetail_forward_34201845)
