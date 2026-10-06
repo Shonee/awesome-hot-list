@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-06 14:57:29
+> 更新时间：2026-10-06 15:47:52
 
 ## 热点资讯排行
 
@@ -18,4 +18,4 @@
 12. [PS Plus买一送一来了！有人免费拿一年](https://www.gamersky.com/news/202610/2221691.shtml)
 13. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 14. [朋友狂买200款游戏污染游戏库！求隐藏方法遭群嘲](https://www.gamersky.com/news/202610/2221733.shtml)
-15. [不用模拟器！PS5独占《战神：斯巴达之子》PC 60帧直接跑](https://www.gamersky.com/news/202610/2221617.shtml)
+15. [兔娘又回归老本行！和男搭档参加电竞双人赛](https://www.gamersky.com/news/202610/2222156.shtml)
