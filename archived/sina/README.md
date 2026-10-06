@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-06 15:47:50
+> 更新时间：2026-10-06 16:46:14
 
 ## 新闻热榜
 
@@ -29,21 +29,21 @@
 
 1. [细节披露：果敢、“佤邦”等方向执迷不悟，中方放弃谈判，直接抓了“佤邦联合军”副总司令鲍军峰](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniuhcmi9010771.shtml)
 2. [美国纽约州宣布针对麻疹疫情进入灾难紧急状态](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufnpp2271676.shtml)
-3. [喜报集结！国庆假期，一批大国重器与重点工程迎来新突破](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufsvp9115642.shtml)
-4. [30年期收益率本月将破6%？经济韧性与通胀压力推高利率 美债抛售潮进一步加剧](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-06/doc-iniufsvp9128264.shtml)
+3. [中国警察在缅北战火中查电诈](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufxcq7251979.shtml)
+4. [喜报集结！国庆假期，一批大国重器与重点工程迎来新突破](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufsvp9115642.shtml)
 5. [英航一赴美客机7分钟急坠8230米](https://finance.sina.com.cn/world/gjcj/2026-10-06/doc-iniufxcm9028736.shtml)
-6. [中国警察在缅北战火中查电诈](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufxcq7251979.shtml)
-7. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
-8. [七部门定调2030年！固态电池“抢跑”背后的资本与产能暗战](https://finance.sina.com.cn/wm/2026-10-06/doc-iniuhcmm5750951.shtml)
-9. [美媒：伊朗无人机袭击受伤美军官兵称“对美军医疗系统感到失望”“感觉像被抛在一边”](https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhcmn7168877.shtml)
-10. [“世界第一跨”，传来好消息！](https://finance.sina.com.cn/china/gncj/2026-10-06/doc-iniufsvp3774667.shtml)
-11. [开局之年看中国·潮涌荆楚｜神农架金丝猴复壮，贡献全球濒危保护样本](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufxcm9069351.shtml)
-12. [菲律宾股市申报网站出现宕机](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5812885.shtml)
-13. [Meta和微软设法减少员工对Claude的使用](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhfv6077194.shtml)
-14. [美股ETF追踪 | 巴西资产集体爆发 3倍做多巴西ETN大涨37%](https://finance.sina.com.cn/world/gjcj/2026-10-06/doc-iniufsvr5884270.shtml)
-15. [视频丨战火升级 也门政府宣布夺回战略要地 沙土巴紧急启动集体防御](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufsvm2160959.shtml)
-16. [达利欧警告美债市场风险](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhcmi9019523.shtml)
+6. [美媒：伊朗无人机袭击受伤美军官兵称“对美军医疗系统感到失望”“感觉像被抛在一边”](https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhcmn7168877.shtml)
+7. [七部门定调2030年！固态电池“抢跑”背后的资本与产能暗战](https://finance.sina.com.cn/wm/2026-10-06/doc-iniuhcmm5750951.shtml)
+8. [30年期收益率本月将破6%？经济韧性与通胀压力推高利率 美债抛售潮进一步加剧](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-06/doc-iniufsvp9128264.shtml)
+9. [视频丨战火升级 也门政府宣布夺回战略要地 沙土巴紧急启动集体防御](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufsvm2160959.shtml)
+10. [达利欧警告美债市场风险](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhcmi9019523.shtml)
+11. [特朗普：炼油厂是汽油价格高企的原因。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuezxv9393288.shtml)
+12. [开局之年看中国·潮涌荆楚｜神农架金丝猴复壮，贡献全球濒危保护样本](https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniufxcm9069351.shtml)
+13. [“世界第一跨”，传来好消息！](https://finance.sina.com.cn/china/gncj/2026-10-06/doc-iniufsvp3774667.shtml)
+14. [菲律宾股市申报网站出现宕机](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5812885.shtml)
+15. [Meta和微软设法减少员工对Claude的使用](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniufhfv6077194.shtml)
+16. [美股ETF追踪 | 巴西资产集体爆发 3倍做多巴西ETN大涨37%](https://finance.sina.com.cn/world/gjcj/2026-10-06/doc-iniufsvr5884270.shtml)
 17. [特斯拉连续八个月蝉联韩国进口车销量冠军](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniufxcp5828283.shtml)
 18. [中期选举：国会分裂环境下有望受益的8只科技股](https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuezxt2481093.shtml)
 19. [桥水达利欧：美国偿债支出正在挤占其他支出。](https://finance.sina.com.cn/7x24/2026-10-06/doc-iniuhcmi8981030.shtml)
-20. [高市早苗上任头一刀砍向俄罗斯，砍不到要害，却砍断了自己的退路](https://finance.sina.com.cn/wm/2026-10-06/doc-iniuezxt2473001.shtml)
+20. [“香港名媛蔡天凤碎尸案”最新披露：萝卜汤中发现身体组织，5000万豪宅成导火索](https://finance.sina.com.cn/roll/2026-10-06/doc-iniufxcq7256732.shtml)
