@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-07 12:17:46
+> 更新时间：2026-10-07 13:15:57
 
 ## Hottest
 
@@ -9,15 +9,15 @@
 3. [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/)
 4. [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/)
 5. [Email Self Hosters - what are you using?](https://lobste.rs/s/rwloew)
-6. [Montray - a tray icon for systemd service health](https://github.com/dimonomid/montray/)
-7. [Last rites for Gentoo's Chromium package](https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/)
-8. [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
-9. [Pared - remove unwanted Apple Intelligence models without disabling SIP](https://github.com/4evy/pared)
-10. [Is COSMIC DE mogging KDE Plasma?](https://thelibre.news/is-cosmic-de-mogging-kde-plasma/)
+6. [Last rites for Gentoo's Chromium package](https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/)
+7. [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
+8. [Montray - a tray icon for systemd service health](https://github.com/dimonomid/montray/)
+9. [Is COSMIC DE mogging KDE Plasma?](https://thelibre.news/is-cosmic-de-mogging-kde-plasma/)
+10. [Pared - remove unwanted Apple Intelligence models without disabling SIP](https://github.com/4evy/pared)
 11. [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/)
-12. [Bidirectional Type Slicing](https://arxiv.org/pdf/2607.12197)
-13. [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
-14. [When random is not actually random enough](https://ersc.io/blog/when-random-isnt-random-enough)
+12. [When random is not actually random enough](https://ersc.io/blog/when-random-isnt-random-enough)
+13. [Bidirectional Type Slicing](https://arxiv.org/pdf/2607.12197)
+14. [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
 15. [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)
 16. [Why We Should Inject Dependencies](https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347)
 17. [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)

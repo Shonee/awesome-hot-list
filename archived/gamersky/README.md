@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-07 12:17:11
+> 更新时间：2026-10-07 13:15:17
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [官方上架6000元PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
 11. [《艾希》制作人直播下跪！再也不众筹 请别造神](https://www.gamersky.com/news/202610/2221313.shtml)
 12. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
-13. [《巫师3：狂猎重制版》各大平台全遭殃 遭批画面太过真实没生气](https://www.gamersky.com/news/202610/2221484.shtml)
-14. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)
+13. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)
+14. [《巫师3：狂猎重制版》各大平台全遭殃 遭批画面太过真实没生气](https://www.gamersky.com/news/202610/2221484.shtml)
 15. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
