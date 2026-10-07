@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-07 22:15:12
+> 更新时间：2026-10-07 23:23:58
 
 ## 热门主题
 
@@ -11,4 +11,4 @@
 5. [codex 重置了？](https://www.v2ex.com/t/1246743)
 6. [AirPods 5 收集反馈](https://www.v2ex.com/t/1246778)
 7. [北上广深哪里有好的皮肤病科室吗，湿疹感觉严重了](https://www.v2ex.com/t/1246762)
-8. [youtube 上有没有颜值比较高的旅游博主推荐？](https://www.v2ex.com/t/1246722)
+8. [Safari 用户苦沉浸式翻译久矣，所以我开发了一个代替它的软件，支持 iOS 和 macOS，正在 TestFlight 中，欢迎使用](https://www.v2ex.com/t/1246740)
