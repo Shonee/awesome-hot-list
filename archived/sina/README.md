@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-07 20:20:49
+> 更新时间：2026-10-07 20:53:55
 
 ## 新闻热榜
 
@@ -33,17 +33,17 @@
 4. [经济日报：AI进车间还需过三关](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuivus6384062.shtml)
 5. [常春藤爆出惊天丑闻，七人轮奸案震惊全美，名校光环之下藏着什么](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuiewv8707170.shtml)
 6. [节后股市怎么走？近5年数据这么说](https://finance.sina.com.cn/wm/2026-10-07/doc-iniuknsp4829489.shtml)
-7. [央行购金成长期主线，多国储备管理者解读黄金战略价值](https://finance.sina.com.cn/money/forex/hbfx/2026-10-07/doc-iniukaat4996391.shtml)
-8. [经济日报：斩断财经领域黑灰产业链](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaat5014709.shtml)
-9. [利好！节后，增量资金来袭！](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4751884.shtml)
+7. [经济日报：斩断财经领域黑灰产业链](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaat5014709.shtml)
+8. [利好！节后，增量资金来袭！](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4751884.shtml)
+9. [央行购金成长期主线，多国储备管理者解读黄金战略价值](https://finance.sina.com.cn/money/forex/hbfx/2026-10-07/doc-iniukaat4996391.shtml)
 10. [中国男足队史首次输给塔吉克斯坦队，邵佳一道歉](https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhki8267796.shtml)
 11. [10月7日收盘：标普首次收盘站上7800点 纳指创新高 受科技股上涨和收益率走低提振](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnu6494941.shtml)
-12. [美股芯片股走强，纳指、标普500再创收盘新高](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaaq6287738.shtml)
-13. [英国前国会议员：中国是最成功的案例](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukhkn6183038.shtml)
+12. [26岁白俄罗斯女模特被高薪工作骗到电诈园区杀害，缅甸警方最新回应：5名涉案人员被判刑21年！受害者家属曾遭勒索50万美元](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksym4766000.shtml)
+13. [美股芯片股走强，纳指、标普500再创收盘新高](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaaq6287738.shtml)
 14. [视频丨国庆档票房破10亿元！特效影厅成票房“新引擎”](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuimez5328322.shtml)
-15. [快讯：恒指低开0.45% 科指跌0.33% 科网股承压 黄金股活跃](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniukaap5160631.shtml)
-16. [伊斯兰国伊拉克分支宣称对基尔库克袭击事件负责，该袭击造成一名警察身亡、多人受伤。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnr8512835.shtml)
-17. [600673再提大额增持计划！10月解禁规模超2900亿元，11股解禁比例超50%（附股）](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaap5102495.shtml)
-18. [特朗普：已安排很快与普京就鼠疫病例通话](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuivuv5103901.shtml)
-19. [也门武装部队发言人：沙特雇佣军未能攻占曼德海峡。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimev5359499.shtml)
-20. [南极寒冰改造成巨型望远镜，这位诺奖物理学家抓住宇宙“隐身人”](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuivur5218701.shtml)
+15. [英国前国会议员：中国是最成功的案例](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukhkn6183038.shtml)
+16. [快讯：恒指低开0.45% 科指跌0.33% 科网股承压 黄金股活跃](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniukaap5160631.shtml)
+17. [恒生科技指数诞生6年编纂规则首次大规模调整：取消行业要求 成分股数量由30只扩至50只](https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-07/doc-iniukxhc4875374.shtml)
+18. [特朗普：对伊朗的军事行动 “必须收尾了”](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksyc8210520.shtml)
+19. [伊斯兰国伊拉克分支宣称对基尔库克袭击事件负责，该袭击造成一名警察身亡、多人受伤。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnr8512835.shtml)
+20. [600673再提大额增持计划！10月解禁规模超2900亿元，11股解禁比例超50%（附股）](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaap5102495.shtml)
