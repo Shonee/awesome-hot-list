@@ -1,21 +1,21 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-07 21:41:57
+> 更新时间：2026-10-07 22:14:48
 
 ## 每日热点榜
 
-1. [雪铁龙2CV将以纯电形式“复活”](http://www.autohome.com.cn/news/202610/1317592.html)
-2. [保时捷公布全新战略规划](http://www.autohome.com.cn/news/202610/1317618.html)
-3. [MINI COUNTRYMAN特别版车型](http://www.autohome.com.cn/news/202610/1317613.html)
-4. [享界G9高速行驶中车顶帐篷开启](https://chejiahao.autohome.com.cn/info/26607303#pvareaid=6834132)
-5. [奇瑞发布最新公告](http://www.autohome.com.cn/news/202610/1317616.html)
-6. [Alpine PS1预告图来袭](http://www.autohome.com.cn/news/202610/1317606.html)
-7. [全新起亚狮铂拓界谍照曝光](http://www.autohome.com.cn/news/202610/1317601.html)
+1. [保时捷公布全新战略规划](http://www.autohome.com.cn/news/202610/1317618.html)
+2. [MINI COUNTRYMAN特别版车型](http://www.autohome.com.cn/news/202610/1317613.html)
+3. [奇瑞发布最新公告](http://www.autohome.com.cn/news/202610/1317616.html)
+4. [雪铁龙2CV将以纯电形式“复活”](http://www.autohome.com.cn/news/202610/1317592.html)
+5. [享界G9高速行驶中车顶帐篷突然开启](https://chejiahao.autohome.com.cn/info/26607303#pvareaid=6834132)
+6. [全新起亚狮铂拓界谍照曝光](http://www.autohome.com.cn/news/202610/1317601.html)
+7. [Alpine PS1预告图来袭](http://www.autohome.com.cn/news/202610/1317606.html)
 8. [蔚来充换电网络达9545座](http://www.autohome.com.cn/news/202610/1317617.html)
-9. [特斯拉将携Cybercab亮相巴黎车展](http://www.autohome.com.cn/news/202610/1317610.html)
-10. [全球纯燃油车新车销量占比跌破50%](https://chejiahao.autohome.com.cn/info/26606912#pvareaid=6834132)
+9. [全球纯燃油车新车销量占比跌破50%](https://chejiahao.autohome.com.cn/info/26606912#pvareaid=6834132)
+10. [新款宝马X3 M50 xDrive官图](http://www.autohome.com.cn/news/202610/1317586.html)
 11. [疑似新款领克900谍照曝光](http://www.autohome.com.cn/news/202610/1317587.html)
-12. [新款宝马X3 M50 xDrive官图](http://www.autohome.com.cn/news/202610/1317586.html)
+12. [特斯拉将携Cybercab亮相巴黎车展](http://www.autohome.com.cn/news/202610/1317610.html)
 13. [启境GT7推10月限时权益](http://www.autohome.com.cn/news/202610/1317596.html)
 14. [纯电宝马M3官方谍照曝光](https://chejiahao.autohome.com.cn/info/26606633#pvareaid=6834132)
 15. [比亚迪9月份销售超46万辆](http://www.autohome.com.cn/news/202610/1317547.html)
