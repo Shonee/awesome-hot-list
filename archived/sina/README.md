@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-07 23:23:12
+> 更新时间：2026-10-08 00:15:05
 
 ## 新闻热榜
 
@@ -32,18 +32,18 @@
 3. [节后，A股准备开启新一轮行情！](https://finance.sina.com.cn/stock/bxjj/2026-10-07/doc-iniukaat5004809.shtml)
 4. [节后股市怎么走？近5年数据这么说](https://finance.sina.com.cn/wm/2026-10-07/doc-iniuknsp4829489.shtml)
 5. [经济日报：斩断财经领域黑灰产业链](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaat5014709.shtml)
-6. [经济日报：AI进车间还需过三关](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuivus6384062.shtml)
-7. [常春藤爆出惊天丑闻，七人轮奸案震惊全美，名校光环之下藏着什么](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuiewv8707170.shtml)
-8. [利好！节后，增量资金来袭！](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4751884.shtml)
-9. [26岁白俄罗斯女模特被高薪工作骗到电诈园区杀害，缅甸警方最新回应：5名涉案人员被判刑21年！受害者家属曾遭勒索50万美元](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksym4766000.shtml)
-10. [中国男足队史首次输给塔吉克斯坦队，邵佳一道歉](https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhki8267796.shtml)
-11. [特朗普：对伊朗的军事行动 “必须收尾了”](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksyc8210520.shtml)
-12. [央行购金成长期主线，多国储备管理者解读黄金战略价值](https://finance.sina.com.cn/money/forex/hbfx/2026-10-07/doc-iniukaat4996391.shtml)
-13. [明天A股开盘，节后怎么走？多家券商最新研判出炉](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4739170.shtml)
-14. [美股芯片股走强，纳指、标普500再创收盘新高](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaaq6287738.shtml)
-15. [10月7日收盘：标普首次收盘站上7800点 纳指创新高 受科技股上涨和收益率走低提振](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnu6494941.shtml)
-16. [A股能否开门红？机构观点来了](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniumcqa5832810.shtml)
-17. [恒生科技指数诞生6年编纂规则首次大规模调整：取消行业要求 成分股数量由30只扩至50只](https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-07/doc-iniukxhc4875374.shtml)
+6. [常春藤爆出惊天丑闻，七人轮奸案震惊全美，名校光环之下藏着什么](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuiewv8707170.shtml)
+7. [经济日报：AI进车间还需过三关](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuivus6384062.shtml)
+8. [26岁白俄罗斯女模特被高薪工作骗到电诈园区杀害，缅甸警方最新回应：5名涉案人员被判刑21年！受害者家属曾遭勒索50万美元](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksym4766000.shtml)
+9. [特朗普：对伊朗的军事行动 “必须收尾了”](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksyc8210520.shtml)
+10. [利好！节后，增量资金来袭！](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4751884.shtml)
+11. [中国男足队史首次输给塔吉克斯坦队，邵佳一道歉](https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhki8267796.shtml)
+12. [明天A股开盘，节后怎么走？多家券商最新研判出炉](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4739170.shtml)
+13. [A股能否开门红？机构观点来了](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniumcqa5832810.shtml)
+14. [央行购金成长期主线，多国储备管理者解读黄金战略价值](https://finance.sina.com.cn/money/forex/hbfx/2026-10-07/doc-iniukaat4996391.shtml)
+15. [美股芯片股走强，纳指、标普500再创收盘新高](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaaq6287738.shtml)
+16. [10月7日收盘：标普首次收盘站上7800点 纳指创新高 受科技股上涨和收益率走低提振](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnu6494941.shtml)
+17. [假期利好涌现！](https://finance.sina.com.cn/stock/marketresearch/2026-10-07/doc-iniukxhc4931444.shtml)
 18. [视频丨国庆档票房破10亿元！特效影厅成票房“新引擎”](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuimez5328322.shtml)
-19. [假期利好涌现！](https://finance.sina.com.cn/stock/marketresearch/2026-10-07/doc-iniukxhc4931444.shtml)
+19. [恒生科技指数诞生6年编纂规则首次大规模调整：取消行业要求 成分股数量由30只扩至50只](https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-07/doc-iniukxhc4875374.shtml)
 20. [港股反弹！基金经理：估值洼地已在眼前](https://finance.sina.com.cn/stock/relnews/cn/2026-10-07/doc-iniukaap5107317.shtml)
