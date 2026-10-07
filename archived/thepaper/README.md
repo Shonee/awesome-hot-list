@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-07 08:36:47
+> 更新时间：2026-10-07 09:33:17
 
 ## 热新闻
 
@@ -17,10 +17,10 @@
 11. [交通运输部：预计10月7日全国高速公路有37个路段易发拥堵、58个服务区充电特别繁忙](https://www.thepaper.cn/newsDetail_forward_34205616)
 12. [邵佳一向球迷道歉：必须在接下来的工作中更加努力](https://www.thepaper.cn/newsDetail_forward_34206260)
 13. [对话徐东莲，谈新科物理学诺奖得主哈尔岑：他永远把科学放在第一位，支持中国深海中微子望远镜](https://www.thepaper.cn/newsDetail_forward_34205985)
-14. [视频丨中国人在缅北被杀害，专案组：获取证据办成铁案，血债血还！](https://www.thepaper.cn/newsDetail_forward_34204537)
-15. [外交部：美方应慎重处理台湾问题](https://www.thepaper.cn/newsDetail_forward_34205627)
-16. [法德要求欧盟强化贸易防御等保护主义工具，商务部回应](https://www.thepaper.cn/newsDetail_forward_34205805)
-17. [时隔11年再夺中网冠军！39岁德约留下中网34连胜传奇](https://www.thepaper.cn/newsDetail_forward_34204198)
-18. [法国试射一枚未装载核弹头的潜射洲际导弹](https://www.thepaper.cn/newsDetail_forward_34205812)
-19. [GLP-1错失诺奖，独家对话主要发现者霍尔斯特：中国科学突破只是时间问题](https://www.thepaper.cn/newsDetail_forward_34204786)
-20. [美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%](https://www.thepaper.cn/newsDetail_forward_34204191)
+14. [深陷信任危机的邵佳一：只发现问题还不够，解决问题是关键](https://www.thepaper.cn/newsDetail_forward_34206356)
+15. [马上评｜让游客住学生宿舍，情理法如何平衡](https://www.thepaper.cn/newsDetail_forward_34207074)
+16. [视频丨中国人在缅北被杀害，专案组：获取证据办成铁案，血债血还！](https://www.thepaper.cn/newsDetail_forward_34204537)
+17. [外交部：美方应慎重处理台湾问题](https://www.thepaper.cn/newsDetail_forward_34205627)
+18. [法德要求欧盟强化贸易防御等保护主义工具，商务部回应](https://www.thepaper.cn/newsDetail_forward_34205805)
+19. [时隔11年再夺中网冠军！39岁德约留下中网34连胜传奇](https://www.thepaper.cn/newsDetail_forward_34204198)
+20. [法国试射一枚未装载核弹头的潜射洲际导弹](https://www.thepaper.cn/newsDetail_forward_34205812)

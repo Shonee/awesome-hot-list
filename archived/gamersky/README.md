@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-07 08:37:15
+> 更新时间：2026-10-07 09:33:45
 
 ## 热点资讯排行
 
@@ -18,4 +18,4 @@
 12. [《巫师3：狂猎重制版》各大平台全遭殃 遭批画面太过真实没生气](https://www.gamersky.com/news/202610/2221484.shtml)
 13. [官方上架6000元2TB PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
 14. [PS Plus买一送一来了！有人免费拿一年](https://www.gamersky.com/news/202610/2221691.shtml)
-15. [兔娘又回归老本行！和男搭档参加电竞双人赛](https://www.gamersky.com/news/202610/2222156.shtml)
+15. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)
