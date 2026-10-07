@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-07 19:11:50
+> 更新时间：2026-10-07 20:20:28
 
 ## 最新帖子
 
-1. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
-2. [计算机视觉：让板子从“看见”到“看懂”](https://www.cnblogs.com/zw-awa/p/23216090)
-3. [学习NOTE番外 1——浅谈逆元](https://www.cnblogs.com/T-M-T/p/23215740)
-4. [单模型执行器 与 OpenCode v2配置迁移 笔记](https://www.cnblogs.com/znlgis/p/23215173)
-5. [瞬维AI落地经验：AI Agent工具调用准确率怎么提](https://www.cnblogs.com/lusihui/p/23214754)
-6. [go语言中的只读/只写管道,多路复用select,捕获协程异常](https://www.cnblogs.com/ishoulgodo/p/23214734)
-7. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
-8. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
-9. [从 "调模型" 到 "搭系统"：Harness Engineering 凭什么成为 2026 年 AI 圈最热的新词](https://www.cnblogs.com/codigger/p/23213917)
-10. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
-11. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
-12. [多重背包的贪心近似定理](https://www.cnblogs.com/xiaoniu142857/p/23209884)
-13. [行为树与Nav2中的行为树](https://www.cnblogs.com/CrescentWind/p/23209541)
-14. [OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级](https://www.cnblogs.com/didispace/p/23209517)
-15. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
-16. [用餐厅和盘子理解栈和堆](https://www.cnblogs.com/leikooo/p/23208624)
-17. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
-18. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
-19. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
-20. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
+1. [并发编程（八）：读写锁——从语言规则到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23216594)
+2. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
+3. [计算机视觉：让板子从“看见”到“看懂”](https://www.cnblogs.com/zw-awa/p/23216090)
+4. [学习NOTE番外 1——浅谈逆元](https://www.cnblogs.com/T-M-T/p/23215740)
+5. [单模型执行器 与 OpenCode v2配置迁移 笔记](https://www.cnblogs.com/znlgis/p/23215173)
+6. [瞬维AI落地经验：AI Agent工具调用准确率怎么提](https://www.cnblogs.com/lusihui/p/23214754)
+7. [go语言中的只读/只写管道,多路复用select,捕获协程异常](https://www.cnblogs.com/ishoulgodo/p/23214734)
+8. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
+9. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
+10. [从 "调模型" 到 "搭系统"：Harness Engineering 凭什么成为 2026 年 AI 圈最热的新词](https://www.cnblogs.com/codigger/p/23213917)
+11. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
+12. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
+13. [多重背包的贪心近似定理](https://www.cnblogs.com/xiaoniu142857/p/23209884)
+14. [行为树与Nav2中的行为树](https://www.cnblogs.com/CrescentWind/p/23209541)
+15. [OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级](https://www.cnblogs.com/didispace/p/23209517)
+16. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
+17. [用餐厅和盘子理解栈和堆](https://www.cnblogs.com/leikooo/p/23208624)
+18. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
+19. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
+20. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
 
 ## 精华帖子
 
