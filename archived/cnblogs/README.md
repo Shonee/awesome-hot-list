@@ -1,12 +1,12 @@
 # 博客园热榜
 
-> 更新时间：2026-10-07 13:14:06
+> 更新时间：2026-10-07 14:22:20
 
 ## 最新帖子
 
-1. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
-2. [从 "调模型" 到 "搭系统"：Harness Engineering 凭什么成为 2026 年 AI 圈最热的新词](https://www.cnblogs.com/codigger/p/23213917)
-3. [AI智能客服实战（个人版）](https://www.cnblogs.com/lookfeel/p/23213877)
+1. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
+2. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
+3. [从 "调模型" 到 "搭系统"：Harness Engineering 凭什么成为 2026 年 AI 圈最热的新词](https://www.cnblogs.com/codigger/p/23213917)
 4. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
 5. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
 6. [多重背包的贪心近似定理](https://www.cnblogs.com/xiaoniu142857/p/23209884)

@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-07 13:41:33
+> 更新时间：2026-10-07 14:22:25
 
 ## 人气热门
 
@@ -57,23 +57,23 @@
 
 ## 精华采撷
 
-1. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-2. [从0到1构建一个注入工具之注入器篇（二）](https://www.52pojie.cn/thread-2097864-1-1.html)
-3. [【多栈实战】某黑产软件全链路逆向实录 (中)](https://www.52pojie.cn/thread-2111428-1-1.html)
-4. [【多栈实战】某黑产软件全链路逆向实录 (下)](https://www.52pojie.cn/thread-2113640-1-1.html)
-5. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-6. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-7. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-8. [Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...](https://www.52pojie.cn/thread-2107426-1-1.html)
-9. [从时间片轮转到调用级并发：unidbg 单后端多线程架构重构](https://www.52pojie.cn/thread-2117230-1-1.html)
-10. [iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈](https://www.52pojie.cn/thread-2114213-1-1.html)
-11. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-12. [x64dbg插件无驱动过vmp3.9.4反调试](https://www.52pojie.cn/thread-2101175-1-1.html)
-13. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
-14. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
-15. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
-16. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
-17. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+1. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+2. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+3. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+4. [从0到1构建一个注入工具之注入器篇（二）](https://www.52pojie.cn/thread-2097864-1-1.html)
+5. [【多栈实战】某黑产软件全链路逆向实录 (中)](https://www.52pojie.cn/thread-2111428-1-1.html)
+6. [【多栈实战】某黑产软件全链路逆向实录 (下)](https://www.52pojie.cn/thread-2113640-1-1.html)
+7. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+8. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+9. [Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...](https://www.52pojie.cn/thread-2107426-1-1.html)
+10. [从时间片轮转到调用级并发：unidbg 单后端多线程架构重构](https://www.52pojie.cn/thread-2117230-1-1.html)
+11. [iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈](https://www.52pojie.cn/thread-2114213-1-1.html)
+12. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
+13. [x64dbg插件无驱动过vmp3.9.4反调试](https://www.52pojie.cn/thread-2101175-1-1.html)
+14. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
+15. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
+16. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+17. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
 18. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
 19. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
 20. [某红书-4.3.2-绕过ob直面JSVMP-mns0301-详细分析](https://www.52pojie.cn/thread-2098573-1-1.html)
