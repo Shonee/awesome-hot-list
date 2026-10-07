@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-07 14:23:12
+> 更新时间：2026-10-07 14:59:00
 
 ## 股票人气榜
 
@@ -22,5 +22,5 @@
 16. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
 17. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
 18. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
-19. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
-20. [澜起科技 (688008)](https://quote.eastmoney.com/sh688008.html)
+19. [澜起科技 (688008)](https://quote.eastmoney.com/sh688008.html)
+20. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)

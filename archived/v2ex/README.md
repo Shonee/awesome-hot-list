@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-07 14:23:29
+> 更新时间：2026-10-07 14:59:09
 
 ## 热门主题
 
@@ -8,8 +8,7 @@
 2. [从转行到失败： 32 岁程序员跨界做女鞋的经历](https://www.v2ex.com/t/1246711)
 3. [Claude 一条龙服务？](https://www.v2ex.com/t/1246664)
 4. [我要和女朋友结婚了，关于婚纱照，求各位大佬给我点意见！](https://www.v2ex.com/t/1246705)
-5. [公安局或者派出所可以监听微信语音通话吗？或者通过腾讯获取通话内容？](https://www.v2ex.com/t/1246735)
-6. [6W 以内的二手车有什么推荐吗？](https://www.v2ex.com/t/1246674)
-7. [大家还搞 Python 吗 , 感觉现在用的不多了啊](https://www.v2ex.com/t/1246645)
-8. [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636)
-9. [codex 重置了？](https://www.v2ex.com/t/1246743)
+5. [6W 以内的二手车有什么推荐吗？](https://www.v2ex.com/t/1246674)
+6. [大家还搞 Python 吗 , 感觉现在用的不多了啊](https://www.v2ex.com/t/1246645)
+7. [codex 重置了？](https://www.v2ex.com/t/1246743)
+8. [iOS 上，银行内和政务类 app，是如何实现检测到网络环境异常的](https://www.v2ex.com/t/1246719)

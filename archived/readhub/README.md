@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-07 13:41:36
+> 更新时间：2026-10-07 14:57:43
 
 ## 24 小时热榜
 
@@ -15,24 +15,24 @@
 9. [月之暗面被传完成 IPO 前融资 最新估值约 500 亿美元](https://readhub.cn/topic/8wzv3g7TdX8?tab=daily)
 10. [麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格](https://readhub.cn/topic/8wzkLEsStJv?tab=daily)
 11. [据悉苹果将联手 LG 加码智能家居 拟推门锁、摄像头等产品](https://readhub.cn/topic/8x1Cj82MKQV?tab=daily)
-12. [发改委：将多方面发力支持民企参与「六张网」项目建设](https://readhub.cn/topic/8x0FndEkMZM?tab=daily)
-13. [英伟达锁定 2027 年约 37.3% 全球 HBM 供应](https://readhub.cn/topic/8wyonrv7SMc?tab=daily)
+12. [英伟达锁定 2027 年约 37.3% 全球 HBM 供应](https://readhub.cn/topic/8wyonrv7SMc?tab=daily)
+13. [发改委：将多方面发力支持民企参与「六张网」项目建设](https://readhub.cn/topic/8x0FndEkMZM?tab=daily)
 14. [ASOS 确认遭遇网络安全事件](https://readhub.cn/topic/8x0QsGKcyGi?tab=daily)
 15. [国内航线燃油附加费将上涨](https://readhub.cn/topic/8x0XI9hrGTx?tab=daily)
-16. [传音控股拟通过香港 IPO 募资逾 33 亿港元](https://readhub.cn/topic/8x1HjBRcExg?tab=daily)
-17. [华为与高通达成多年期专利交叉许可协议](https://readhub.cn/topic/8wzC3ZPqveu?tab=daily)
+16. [华为与高通达成多年期专利交叉许可协议](https://readhub.cn/topic/8wzC3ZPqveu?tab=daily)
+17. [传音控股拟通过香港 IPO 募资逾 33 亿港元](https://readhub.cn/topic/8x1HjBRcExg?tab=daily)
 18. [OpenAI 就澳大利亚政府网站遭入侵致歉，承诺加快披露](https://readhub.cn/topic/8wylyPaDKs6?tab=daily)
-19. [AMD 苏姿丰密会台积电 证实将加码在台百亿美元投资](https://readhub.cn/topic/8x0BqCrfiX5?tab=daily)
-20. [谷歌 DeepMind 推出新一代前沿大模型 Gemini 4 Argon](https://readhub.cn/topic/8x0oRChUBCM?tab=daily)
-21. [蚂蚁百灵团队推出新一代大模型 Ling-3.1-flash](https://readhub.cn/topic/8x0oRMQfmbW?tab=daily)
-22. [清华团队开源可验证推理模型 VeriLoop E2](https://readhub.cn/topic/8x0tR5pD1bc?tab=daily)
-23. [丹麦中央人口数据库遭未授权访问 约 880 万人信息被泄露](https://readhub.cn/topic/8wyhgzRE6lM?tab=daily)
-24. [OpenAI 发布前沿大模型全新数学能力相关测试成果](https://readhub.cn/topic/8x1Hjextlfk?tab=daily)
-25. [香港金管局总裁余伟文：港元汇价偏软主要受两大因素影响](https://readhub.cn/topic/8x0L8TVfYz0?tab=daily)
+19. [谷歌 DeepMind 推出新一代前沿大模型 Gemini 4 Argon](https://readhub.cn/topic/8x0oRChUBCM?tab=daily)
+20. [蚂蚁百灵团队推出新一代大模型 Ling-3.1-flash](https://readhub.cn/topic/8x0oRMQfmbW?tab=daily)
+21. [丹麦中央人口数据库遭未授权访问 约 880 万人信息被泄露](https://readhub.cn/topic/8wyhgzRE6lM?tab=daily)
+22. [OpenAI 发布前沿大模型全新数学能力相关测试成果](https://readhub.cn/topic/8x1Hjextlfk?tab=daily)
+23. [清华团队开源可验证推理模型 VeriLoop E2](https://readhub.cn/topic/8x0tR5pD1bc?tab=daily)
+24. [谷歌推出 Google Cloud 现代化改造组合 含 AI 驱动迁移工具](https://readhub.cn/topic/8x0aVHkHojV?tab=daily)
+25. [华为余承东称正考虑未来逐步将 HarmonyOS 推向全球市场](https://readhub.cn/topic/8x03eTN7tOy?tab=daily)
 26. [OpenAI 宣布 GPT-6 提速约 50%，第三方实测其订阅额度远低于 Claude](https://readhub.cn/topic/8wzmpTwj1px?tab=daily)
-27. [谷歌推出 Google Cloud 现代化改造组合 含 AI 驱动迁移工具](https://readhub.cn/topic/8x0aVHkHojV?tab=daily)
-28. [华为余承东称正考虑未来逐步将 HarmonyOS 推向全球市场](https://readhub.cn/topic/8x03eTN7tOy?tab=daily)
-29. [开发者发现 iOS 27 为 iPhone Duo 适配专属专注模式功能](https://readhub.cn/topic/8wyqFpbFnL5?tab=daily)
+27. [香港金管局总裁余伟文：港元汇价偏软主要受两大因素影响](https://readhub.cn/topic/8x0L8TVfYz0?tab=daily)
+28. [开发者发现 iOS 27 为 iPhone Duo 适配专属专注模式功能](https://readhub.cn/topic/8wyqFpbFnL5?tab=daily)
+29. [前 8 个月医保统筹基金收入约 2.07 万亿元](https://readhub.cn/topic/8x1ZcRgWtga?tab=daily)
 30. [高通起诉 Arm，诉求最长 5 年免授权费并要求开放 V10 授权](https://readhub.cn/topic/8x0K4M1Mfku?tab=daily)
 
 ## 每日早报
@@ -49,11 +49,11 @@
 
 1. [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership)
 2. [OpenAI「rogue」agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/)
-3. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)
-4. [Introducing Mistral Large 4: Le chonk](https://simonwillison.net/2026/Oct/6/le-chonk/)
-5. [深度｜一家在招股书里写「产品可能会灭亡人类」的公司，正在推进史上最大规模的 IPO](https://www.huxiu.com/article/4895609.html?f=rss)
-6. [谷歌 AI 基建主管谈：Agent 重塑基建、光网络突破、终极物理瓶颈和未来 10 年的算力形态](https://wallstreetcn.com/articles/3783104)
-7. [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
-8. [AI 教父辛顿提议 AI 行业建立 FDA 式审批机制：模型推出前需通过安全审核](https://www.ithome.com/1/010/187.htm)
-9. [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
-10. [OpenAI 一次放出 722 篇数学成果，准黎曼猜想、4D 挂谷都在列](https://news.qq.com/rain/a/20261007A03GPM00)
+3. [蚂蚁阿福「科学减重 1 亿斤」假期遇「退展」：中秋国庆期间 60 万网友累计增重超 100 万斤](https://www.leiphone.com/category/industrynews/7kLgFJjmaGU8YuBW.html)
+4. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)
+5. [Introducing Mistral Large 4: Le chonk](https://simonwillison.net/2026/Oct/6/le-chonk/)
+6. [深度｜一家在招股书里写「产品可能会灭亡人类」的公司，正在推进史上最大规模的 IPO](https://www.huxiu.com/article/4895609.html?f=rss)
+7. [谷歌 AI 基建主管谈：Agent 重塑基建、光网络突破、终极物理瓶颈和未来 10 年的算力形态](https://wallstreetcn.com/articles/3783104)
+8. [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
+9. [AI 教父辛顿提议 AI 行业建立 FDA 式审批机制：模型推出前需通过安全审核](https://www.ithome.com/1/010/187.htm)
+10. [为什么 ChatGPT 总爱在标题里塞色情赌博小广告？](https://www.36kr.com/p/4015290777981060)

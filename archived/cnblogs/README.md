@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-07 14:22:20
+> 更新时间：2026-10-07 14:57:35
 
 ## 最新帖子
 
-1. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
-2. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
-3. [从 "调模型" 到 "搭系统"：Harness Engineering 凭什么成为 2026 年 AI 圈最热的新词](https://www.cnblogs.com/codigger/p/23213917)
-4. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
-5. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
-6. [多重背包的贪心近似定理](https://www.cnblogs.com/xiaoniu142857/p/23209884)
-7. [行为树与Nav2中的行为树](https://www.cnblogs.com/CrescentWind/p/23209541)
-8. [OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级](https://www.cnblogs.com/didispace/p/23209517)
-9. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
-10. [用餐厅和盘子理解栈和堆](https://www.cnblogs.com/leikooo/p/23208624)
-11. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
-12. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
-13. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
-14. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
-15. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
-16. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
-17. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
-18. [CF813D Two Melodies 题解](https://www.cnblogs.com/lvwangshuOI/p/23206388)
-19. [反馈：让系统知道自己做得对不对](https://www.cnblogs.com/zw-awa/p/23204653)
-20. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
+1. [瞬维AI落地经验：AI Agent工具调用准确率怎么提](https://www.cnblogs.com/lusihui/p/23214754)
+2. [go语言中的只读/只写管道,多路复用select,捕获协程异常](https://www.cnblogs.com/ishoulgodo/p/23214734)
+3. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
+4. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
+5. [从 "调模型" 到 "搭系统"：Harness Engineering 凭什么成为 2026 年 AI 圈最热的新词](https://www.cnblogs.com/codigger/p/23213917)
+6. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
+7. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
+8. [多重背包的贪心近似定理](https://www.cnblogs.com/xiaoniu142857/p/23209884)
+9. [行为树与Nav2中的行为树](https://www.cnblogs.com/CrescentWind/p/23209541)
+10. [OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级](https://www.cnblogs.com/didispace/p/23209517)
+11. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
+12. [用餐厅和盘子理解栈和堆](https://www.cnblogs.com/leikooo/p/23208624)
+13. [Codex解决新模型无法使用/model选择的问题](https://www.cnblogs.com/xuhe2/p/23207730)
+14. [数学笔记：泊松求和公式](https://www.cnblogs.com/GeophysicsWorker/p/23207887)
+15. [VeriHarness 拆解：多数投票为何会掩盖错误](https://www.cnblogs.com/frankzch/p/23207862)
+16. [go语言中管道 channel的使用](https://www.cnblogs.com/ishoulgodo/p/23207820)
+17. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
+18. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
+19. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
+20. [CF813D Two Melodies 题解](https://www.cnblogs.com/lvwangshuOI/p/23206388)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
-2. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
-3. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
-4. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
-5. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
+1. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
+2. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
+3. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
+4. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
+5. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
 6. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
