@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 06:12:07
+> 更新时间：2026-10-08 07:12:58
 
 ## 新闻热榜
 
@@ -28,22 +28,22 @@
 ## 财经热榜
 
 1. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
-2. [特朗普谈及频繁赴得州的原因：要确保帕克斯顿胜选。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4623275.shtml)
-3. [特朗普夸赞昨日股市表现。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4721670.shtml)
-4. [特朗普重申战后油价将会下降。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7831395.shtml)
-5. [市场消息：特朗普将于周六前往田纳西州克拉克斯维尔举行集会。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7951287.shtml)
-6. [伊朗航空已恢复从德黑兰和马什哈德飞往卡拉奇的航班。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpz4857492.shtml)
+2. [秘鲁总统藤森庆子：秘鲁将迅速驱逐违法外国人。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7778826.shtml)
+3. [特朗普谈及频繁赴得州的原因：要确保帕克斯顿胜选。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4623275.shtml)
+4. [特朗普夸赞昨日股市表现。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4721670.shtml)
+5. [特朗普重申战后油价将会下降。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7831395.shtml)
+6. [市场消息：特朗普将于周六前往田纳西州克拉克斯维尔举行集会。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7951287.shtml)
 7. [美国财政部：在最新双周报告期内，投资基金买入323.12亿美元2033年9月30日到期的7年期国债，上月买入规模为305.69亿美元。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4631149.shtml)
-8. [Wittington Investments 将以 89 亿美元（含债务）收购 Boots。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivv7986037.shtml)
-9. [伊朗总统称达成协议的主要障碍是美国的“极限施压”。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpx8077727.shtml)
-10. [美联储会议纪要：纽约联储代表财政部干预了外汇市场。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7838733.shtml)
-11. [纳斯达克100指数期货跌幅扩大至0.5%。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpx8038948.shtml)
-12. [特朗普谈与普京的通话：我已经安排好通话了。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4602075.shtml)
-13. [塞舌尔9月份消费者价格同比上涨1.2%。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivx4792998.shtml)
-14. [美“龙”飞船载4名宇航员脱离空间站 启程返回地球](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4620016.shtml)
-15. [605289，再签算力大单！](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukxhc4904894.shtml)
-16. [贝森特执掌下的美国财政部：内部紧张、人事动荡及未达成的经济目标](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaam8384592.shtml)
-17. [美联储施密德：劳动力市场状况依然良好。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimev5373831.shtml)
-18. [集体下挫！港股医药股，大跌](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukhkm5076632.shtml)
-19. [巴西谷物出口商协会（ANEC）：预计巴西 10 月豆粕出口量为 209 万吨，去年同期为 173 万吨。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnr8512587.shtml)
-20. [花旗聘请摩根士丹利的迈克尔·泽扎斯（Michael Zezas）担任研究主管。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimev5396408.shtml)
+8. [美联储会议纪要：纽约联储代表财政部干预了外汇市场。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7838733.shtml)
+9. [特朗普谈与普京的通话：我已经安排好通话了。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4602075.shtml)
+10. [美“龙”飞船载4名宇航员脱离空间站 启程返回地球](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4620016.shtml)
+11. [SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7936223.shtml)
+12. [标普道琼斯指数：2026年9月对IBOX固定收益指数的国家分类审核结果为无调整。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7770352.shtml)
+13. [英伟达和美光即将主宰本轮财报季](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7944745.shtml)
+14. [两名欧盟外交官表示，国际能源署理事会将于当地时间今日13时召开非正式会议，讨论石油与柴油储备释放提案。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4955355.shtml)
+15. [突尼斯央行表示，维持关键利率在 7% 不变。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4624414.shtml)
+16. [空客：订单包含 4 架 A350-900 宽体飞机以及 6 架 A321neo 单通道飞机。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4709880.shtml)
+17. [美国 10 年期国债拍卖后收益率涨幅收窄，最新上涨 1.91 个基点，报 5.29%。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4720208.shtml)
+18. [FOMC会议纪要显示 官员们敦促为市场压力制定预案](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4622627.shtml)
+19. [美联储调查：一年期通胀预期升至 2023 年 5 月以来最高水平](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7947544.shtml)
+20. [特朗普：加拿大有意达成协议，但我方并不满意。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4605687.shtml)
