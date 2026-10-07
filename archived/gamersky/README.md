@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-07 15:49:45
+> 更新时间：2026-10-07 16:50:04
 
 ## 热点资讯排行
 
@@ -14,8 +14,8 @@
 8. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 9. [装机猿直播给峰哥装机 价值仅1万2 徐静雨的1/10](https://www.gamersky.com/hardware/202610/2222121.shtml)
 10. [官方上架6000元PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
-11. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)
-12. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
-13. [《艾希》制作人直播下跪！再也不众筹 请别造神](https://www.gamersky.com/news/202610/2221313.shtml)
-14. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
-15. [《巫师3：狂猎重制版》各大平台全遭殃 遭批画面太过真实没生气](https://www.gamersky.com/news/202610/2221484.shtml)
+11. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
+12. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)
+13. [《永恒之塔2》捏脸遭萝莉控吐槽:最小都是C罩杯 太大](https://www.gamersky.com/news/202610/2222563.shtml)
+14. [《艾希》制作人直播下跪！再也不众筹 请别造神](https://www.gamersky.com/news/202610/2221313.shtml)
+15. [PS5惨遭破解 社区推出自制商店：大部分游戏免费下载](https://www.gamersky.com/news/202610/2221689.shtml)
