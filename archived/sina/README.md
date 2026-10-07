@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 03:11:59
+> 更新时间：2026-10-08 04:14:39
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [美国财政部拍卖580亿美元三年期国债，得标利率4.932%，投标倍数2.62。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimet8594154.shtml)
-2. [特朗普声称“不知道谁在治理伊朗”，伊朗：他非常清楚美方在伊朗的对话方](https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6199389.shtml)
-3. [2026年诺贝尔化学奖揭晓](https://finance.sina.com.cn/roll/2026-10-07/doc-iniukxfz8150434.shtml)
-4. [美国汽车工人联合会（UAW）呼吁禁止国防承包商进行股票回购及派发股息。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimet8581375.shtml)
-5. [单价2599元婚宴14道主菜上错7道新郎父亲称14道菜上错一半应打五折](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukhkm5050372.shtml)
-6. [中东财团，巨资布局AI赛道！](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksyh6026793.shtml)
-7. [新规实施后基金公司密集公示第三方互联网营销平台 大V合作已全面叫停](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuknsk6104319.shtml)
-8. [C罗发布长文公开离开国家队真相](https://finance.sina.com.cn/roll/2026-10-07/doc-iniukhkn6201118.shtml)
-9. [新西兰将于10月8日发布2025-26年度政府财务报表。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukaap5161908.shtml)
-10. [在线旅游平台eDreams与亚马逊Alexa达成合作，将人工智能旅游搜索引入Alexa+。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4960850.shtml)
-11. [年入3.78亿，三位复旦博士要IPO了](https://finance.sina.com.cn/stock/bxjj/2026-10-07/doc-iniukaam8336949.shtml)
-12. [全国铁路今天预计发送旅客2415万人次](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukaap5153188.shtml)
-13. [绿通科技：两名董事及高管拟合计减持不超30.85万股](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4973858.shtml)
-14. [荷兰银行首席执行官：专注于使近期收购取得成功。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuknsf8271234.shtml)
-15. [法德10年期国债收益率差扩大13个基点，至140个基点以上。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpx8056517.shtml)
-16. [奕斯伟计算（ESWIN COMPUTING）通过香港 IPO 募集 25 亿港元。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivx4751702.shtml)
-17. [黄仁勋家族势力浮现：女儿女婿或为英伟达未来接班人选](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcqa5834257.shtml)
-18. [段永平出手，布局腾讯](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivv7991752.shtml)
-19. [2026年诺贝尔化学奖授予两位同手性化学谜题破解者](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhe5939174.shtml)
-20. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
+1. [绿通科技：两名董事及高管拟合计减持不超30.85万股](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4973858.shtml)
+2. [荷兰银行首席执行官：专注于使近期收购取得成功。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuknsf8271234.shtml)
+3. [法德10年期国债收益率差扩大13个基点，至140个基点以上。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpx8056517.shtml)
+4. [奕斯伟计算（ESWIN COMPUTING）通过香港 IPO 募集 25 亿港元。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivx4751702.shtml)
+5. [黄仁勋家族势力浮现：女儿女婿或为英伟达未来接班人选](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcqa5834257.shtml)
+6. [段永平出手，布局腾讯](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivv7991752.shtml)
+7. [2026年诺贝尔化学奖授予两位同手性化学谜题破解者](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhe5939174.shtml)
+8. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
+9. [大金重工午前涨近5% 造船板块正式进入主流船舶建造市场](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuknsk6091544.shtml)
+10. [花旗：预计2026年底墨西哥比索兑美元汇率为18比索/美元，此前预期为17.5比索/美元。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimev5394168.shtml)
+11. [特朗普被问及是否需要暂停联邦汽油税：正在考虑此事。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnt5283644.shtml)
+12. [特朗普：就在过去几天，已有数百万桶石油大量交付。我们目前的输送量已与战前持平，有时甚至超过战前水平。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnt5283273.shtml)
+13. [乌克兰基辅市长：已启动防空系统，市民请留在避难所。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnt5272470.shtml)
+14. [市场资讯：埃克森美孚将目光投向特立尼达和多巴哥的海上项目，寻求下一个增长点。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimet8605833.shtml)
+15. [澳洲联储：AI 板块股票回调可能冲击居民消费。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnr8523944.shtml)
+16. [网传“高铁座椅成HPV感染重灾区”，是真的吗？](https://finance.sina.com.cn/roll/2026-10-07/doc-iniukaap5095976.shtml)
+17. [Anthropic推出全新谷歌文档、表格与幻灯片连接器（测试版），Claude可通过该连接器直接在克劳德平台上创建和编辑谷歌文件。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimet8616915.shtml)
+18. [加拿大皇家银行将Marvell Technology的目标价从360美元上调至425美元。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukhki8311301.shtml)
+19. [央行官员谈黄金投资 理由从分散风险到数字资产策略不一而足](https://finance.sina.com.cn/world/2026-10-07/doc-iniuimev5374085.shtml)
+20. [热门航线机票价格已回落 有长线机票价格较节前下降逾七成](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukaam8345357.shtml)
