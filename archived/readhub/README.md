@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-08 00:42:54
+> 更新时间：2026-10-08 02:16:54
 
 ## 24 小时热榜
 
@@ -14,26 +14,26 @@
 8. [据悉苹果将联手 LG 加码智能家居 拟推门锁、摄像头等产品](https://readhub.cn/topic/8x1Cj82MKQV?tab=daily)
 9. [传音控股拟通过香港 IPO 募资逾 33 亿港元](https://readhub.cn/topic/8x1HjBRcExg?tab=daily)
 10. [Claude 新增简体繁体中文界面，官方尚未正式宣布](https://readhub.cn/topic/8x0kA1KCui5?tab=daily)
-11. [华为余承东称正考虑未来逐步将 HarmonyOS 推向全球市场](https://readhub.cn/topic/8x03eTN7tOy?tab=daily)
-12. [清华团队开源可验证推理模型 VeriLoop E2](https://readhub.cn/topic/8x0tR5pD1bc?tab=daily)
-13. [OpenAI 宣布 GPT-6 提速约 50%，第三方实测其订阅额度远低于 Claude](https://readhub.cn/topic/8wzmpTwj1px?tab=daily)
-14. [OpenAI 发布前沿大模型全新数学能力相关测试成果](https://readhub.cn/topic/8x1Hjextlfk?tab=daily)
+11. [中美定期客运航权额度首次「用满」](https://readhub.cn/topic/8x2FlTEF7mb?tab=daily)
+12. [华为余承东称正考虑未来逐步将 HarmonyOS 推向全球市场](https://readhub.cn/topic/8x03eTN7tOy?tab=daily)
+13. [OpenAI 发布前沿大模型全新数学能力相关测试成果](https://readhub.cn/topic/8x1Hjextlfk?tab=daily)
+14. [OpenAI 宣布 GPT-6 提速约 50%，第三方实测其订阅额度远低于 Claude](https://readhub.cn/topic/8wzmpTwj1px?tab=daily)
 15. [开发者发现 iOS 27 为 iPhone Duo 适配专属专注模式功能](https://readhub.cn/topic/8wyqFpbFnL5?tab=daily)
 16. [高通起诉 Arm，诉求最长 5 年免授权费并要求开放 V10 授权](https://readhub.cn/topic/8x0K4M1Mfku?tab=daily)
 17. [仅 4.5% 美国消费者为 AI 付费 GPU 涨价 a16z 报告揭 AI 真实落差](https://readhub.cn/topic/8x24KC9VBfi?tab=daily)
 18. [Claude 证明概率论「圣杯」渗流猜想，AI 跨菲尔兹奖级难题终点线](https://readhub.cn/topic/8x1sBc3chzm?tab=daily)
 19. [前 8 个月医保统筹基金收入约 2.07 万亿元](https://readhub.cn/topic/8x1ZcRgWtga?tab=daily)
-20. [中美定期客运航权额度首次「用满」](https://readhub.cn/topic/8x2FlTEF7mb?tab=daily)
-21. [谷歌推出 macOS 端 AI Edge Foresight 应用 支持离线整理会议纪要](https://readhub.cn/topic/8x0x17GVuKh?tab=daily)
-22. [英特尔称将继续参与马斯克旗下 Terafab 芯片制造项目](https://readhub.cn/topic/8x1h6nS8XJA?tab=daily)
-23. [巴彦油田日产原油首次突破 5000 吨，创历史新高](https://readhub.cn/topic/8x1JsT9cTUs?tab=daily)
-24. [iFixit 拆解两款新 Apple Watch，给出 4 / 10 可维修得分](https://readhub.cn/topic/8x1H1Jjj2a3?tab=daily)
-25. [涉嫌价格垄断 日本四大啤酒企业接受调查](https://readhub.cn/topic/8x25mmbaNF1?tab=daily)
-26. [Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50 为榜单唯一 AI 3D 公司](https://readhub.cn/topic/8x1XpE8EoiX?tab=daily)
-27. [落实特朗普行政令，美国司法部要求员工改称 AI 为「超级智能」](https://readhub.cn/topic/8x0zrbZh4KA?tab=daily)
-28. [谷歌与 Unity 合作推出 AI 游戏平台 支持自然语言创建游戏](https://readhub.cn/topic/8x2F2ZOzij2?tab=daily)
-29. [腾讯斥资 1 亿港元回购 23.8 万股](https://readhub.cn/topic/8wzocpb9VtZ?tab=daily)
-30. [购票「加速包」或变减速器 12306 提醒旅客不要中招](https://readhub.cn/topic/8x1wqXfist9?tab=daily)
+20. [谷歌推出 macOS 端 AI Edge Foresight 应用 支持离线整理会议纪要](https://readhub.cn/topic/8x0x17GVuKh?tab=daily)
+21. [英特尔称将继续参与马斯克旗下 Terafab 芯片制造项目](https://readhub.cn/topic/8x1h6nS8XJA?tab=daily)
+22. [iFixit 拆解两款新 Apple Watch，给出 4 / 10 可维修得分](https://readhub.cn/topic/8x1H1Jjj2a3?tab=daily)
+23. [涉嫌价格垄断 日本四大啤酒企业接受调查](https://readhub.cn/topic/8x25mmbaNF1?tab=daily)
+24. [Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50 为榜单唯一 AI 3D 公司](https://readhub.cn/topic/8x1XpE8EoiX?tab=daily)
+25. [落实特朗普行政令，美国司法部要求员工改称 AI 为「超级智能」](https://readhub.cn/topic/8x0zrbZh4KA?tab=daily)
+26. [谷歌与 Unity 合作推出 AI 游戏平台 支持自然语言创建游戏](https://readhub.cn/topic/8x2F2ZOzij2?tab=daily)
+27. [腾讯斥资 1 亿港元回购 23.8 万股](https://readhub.cn/topic/8wzocpb9VtZ?tab=daily)
+28. [购票「加速包」或变减速器 12306 提醒旅客不要中招](https://readhub.cn/topic/8x1wqXfist9?tab=daily)
+29. [中秋国庆消费升温，支付宝「碰一下」消费笔数同比增近 40%](https://readhub.cn/topic/8x1dtzzLJbZ?tab=daily)
+30. [谷歌 AI 图像模型 Nano Banana 2.1 发布](https://readhub.cn/topic/8x1TsUZTDzZ?tab=daily)
 
 ## 每日早报
 
@@ -49,11 +49,11 @@
 
 1. [Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan)
 2. [OpenAI 公布 722 篇数学手稿，其中一部分可被计算机逐行验证](https://www.mittrchina.com/news/detail/17062)
-3. [Introducing Falcon ASR](https://huggingface.co/blog/tiiuae/falcon-asr)
-4. [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026)
-5. [谷歌 SynthID 面向全球用户开放，可检测 AI 生成内容](https://www.ithome.com/1/010/293.htm)
-6. [谷歌联手 Unity 打造新一代游戏平台：不用编程，动动嘴就能做游戏](https://finance.jrj.com.cn/2026/10/07212558628805.shtml)
-7. [IBM spinoff Anderon secures $1bn CHIPS Act award to build quantum chip foundry](https://daily.dev/posts/ibm-anderon-quantum-foundry-automates-qubit-fabs-0xmpy2j6d)
-8. [We're making it easier to identify AI-generated content globally.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/)
-9. [Nat Aging | 韩敬东团队利用 AURORA 数字孪生平台发现抗衰老口腔共生菌 Neisseria flavescens](https://bydrug.pharmcube.com/news/detail/8631c935e75696ba678d918ad59a915a)
-10. [美国反对浪潮加剧，甲骨文又一巨型数据中心或因「通不了电」搁浅](https://www.huxiu.com/article/4895652.html?f=rss)
+3. [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1)
+4. [Radisson Hotel Group brings hotel discovery into ChatGPT](https://openai.com/index/radisson)
+5. [Introducing Falcon ASR](https://huggingface.co/blog/tiiuae/falcon-asr)
+6. [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026)
+7. [英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存](https://www.ithome.com/1/010/313.htm)
+8. [MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数](https://www.ithome.com/1/010/308.htm)
+9. [谷歌 SynthID 面向全球用户开放，可检测 AI 生成内容](https://www.ithome.com/1/010/293.htm)
+10. [谷歌联手 Unity 打造新一代游戏平台：不用编程，动动嘴就能做游戏](https://finance.jrj.com.cn/2026/10/07212558628805.shtml)
