@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-07 04:40:55
+> 更新时间：2026-10-07 10:54:33
 
 ## 每日趋势
 
@@ -141,6 +141,7 @@
 11. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 12. [tvbox](https://github.com/qist/tvbox)
 13. [tabler-icons](https://github.com/tabler/tabler-icons)
-14. [kokoro](https://github.com/hexgrad/kokoro)
-15. [awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
-16. [UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)
+14. [photosuite](https://github.com/eolix/photosuite)
+15. [kokoro](https://github.com/hexgrad/kokoro)
+16. [awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
+17. [UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)
