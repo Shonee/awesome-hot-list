@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-08 02:16:44
+> 更新时间：2026-10-08 03:11:36
 
 ## 热门文章
 
@@ -16,13 +16,13 @@
 10. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
 11. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
 12. [独立开发者的"富矿地带"：哪些垂直领域值得你押注一辈子？](https://juejin.cn/post/7692743968833224713)
-13. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
-14. [🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些"插槽"(前置介绍)](https://juejin.cn/post/7692500213994586153)
-15. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
-16. [GitHub 日榜趋势速报 | 2026-10-07](https://juejin.cn/post/7693049513120661550)
-17. [Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪](https://juejin.cn/post/7692739051067342857)
-18. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
-19. [workbuddy-to-dsh使用教程](https://juejin.cn/post/7692614083904274486)
+13. [workbuddy-to-dsh使用教程](https://juejin.cn/post/7692614083904274486)
+14. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
+15. [🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些"插槽"(前置介绍)](https://juejin.cn/post/7692500213994586153)
+16. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
+17. [GitHub 日榜趋势速报 | 2026-10-07](https://juejin.cn/post/7693049513120661550)
+18. [Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪](https://juejin.cn/post/7692739051067342857)
+19. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
 20. [Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通](https://juejin.cn/post/7693225151680774154)
 21. [Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？](https://juejin.cn/post/7693160537133629455)
 22. [线程本地存储 ThreadLocal](https://juejin.cn/post/7692977150127603775)

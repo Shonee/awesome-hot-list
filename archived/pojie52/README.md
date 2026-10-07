@@ -1,21 +1,21 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-08 02:16:49
+> 更新时间：2026-10-08 03:11:45
 
 ## 人气热门
 
-1. [电子手撕老黄历，不再需要每年买新的了！](https://www.52pojie.cn/thread-2130925-1-1.html)
-2. [随身听书 安卓端 更新v2.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
-3. [Pulse 1.0.52 Windows 打造的现代文件管理器](https://www.52pojie.cn/thread-2131034-1-1.html)
-4. [文件工作台 办公工具箱 v1.3.3](https://www.52pojie.cn/thread-2130753-1-1.html)
-5. [罗技键盘鼠标电量托盘显示工具](https://www.52pojie.cn/thread-2131202-1-1.html)
-6. [PDF工具箱 PDF24 Creator 11.31.0](https://www.52pojie.cn/thread-2131086-1-1.html)
-7. [随身听书 更新 v2.0, 一款聚合听书工具](https://www.52pojie.cn/thread-2130784-1-1.html)
-8. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-9. [迅雷17【25.1.22.1660】绿色精简版](https://www.52pojie.cn/thread-2130844-1-1.html)
-10. [视频剪辑工具 ShotCut v26.9.27](https://www.52pojie.cn/thread-2130132-1-1.html)
-11. [特殊字符输入器  v1.0](https://www.52pojie.cn/thread-2130471-1-1.html)
-12. [系统维护与优化工具 Dism++10.1.1002.1B 修改版](https://www.52pojie.cn/thread-2130870-1-1.html)
+1. [迅雷17【25.1.22.1660】绿色精简版](https://www.52pojie.cn/thread-2130844-1-1.html)
+2. [罗技键盘鼠标电量托盘显示工具](https://www.52pojie.cn/thread-2131202-1-1.html)
+3. [系统维护与优化工具 Dism++10.1.1002.1B 修改版](https://www.52pojie.cn/thread-2130870-1-1.html)
+4. [电子手撕老黄历，不再需要每年买新的了！](https://www.52pojie.cn/thread-2130925-1-1.html)
+5. [随身听书 安卓端 更新v2.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
+6. [Pulse 1.0.52 Windows 打造的现代文件管理器](https://www.52pojie.cn/thread-2131034-1-1.html)
+7. [文件工作台 办公工具箱 v1.3.3](https://www.52pojie.cn/thread-2130753-1-1.html)
+8. [PDF工具箱 PDF24 Creator 11.31.0](https://www.52pojie.cn/thread-2131086-1-1.html)
+9. [随身听书 更新 v2.0, 一款聚合听书工具](https://www.52pojie.cn/thread-2130784-1-1.html)
+10. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+11. [视频剪辑工具 ShotCut v26.9.27](https://www.52pojie.cn/thread-2130132-1-1.html)
+12. [特殊字符输入器  v1.0](https://www.52pojie.cn/thread-2130471-1-1.html)
 13. [百度地图电脑版 V1.4（已更新）](https://www.52pojie.cn/thread-2130647-1-1.html)
 14. [pDLNA服务器 v20261005 Win7可用绿色版](https://www.52pojie.cn/thread-2130873-1-1.html)
 15. [MuMu12去广告、去远控；MuMu15变VIP; *.vdi的修改方法](https://www.52pojie.cn/thread-2130582-1-1.html)

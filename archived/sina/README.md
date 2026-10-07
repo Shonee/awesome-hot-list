@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 02:16:59
+> 更新时间：2026-10-08 03:11:59
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [恒生科技指数诞生6年编纂规则首次大规模调整：取消行业要求 成分股数量由30只扩至50只](https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-07/doc-iniukxhc4875374.shtml)
-2. [港股反弹！基金经理：估值洼地已在眼前](https://finance.sina.com.cn/stock/relnews/cn/2026-10-07/doc-iniukaap5107317.shtml)
-3. [传音控股今起招股，获GIC、易方达、比亚迪等基石认购超12.45亿港元，预计10月15日挂牌上市](https://finance.sina.com.cn/stock/hkstock/hkzmt/2026-10-07/doc-iniukaap5122799.shtml)
-4. [港股收评：恒指跌0.62% 科指跌0.68% 科网股低迷 存储概念股走弱](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuksyf4997287.shtml)
-5. [英国前国会议员：中国是最成功的案例](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukhkn6183038.shtml)
-6. [深度解读 | 刚刚，诺贝尔化学奖揭晓！破解世纪之谜，他们的成果改变了药物发现](https://finance.sina.com.cn/roll/2026-10-07/doc-iniumcqf4558696.shtml)
-7. [【环球财经】日本电动汽车销量创新高](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukhkm5043767.shtml)
-8. [快讯：恒指低开0.45% 科指跌0.33% 科网股承压 黄金股活跃](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniukaap5160631.shtml)
-9. [特朗普宣布投资66亿美元建厂造潜艇](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuknsf8220462.shtml)
-10. [DeepSeek新一轮融资逼近1000亿](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniumcqf4569404.shtml)
-11. [伊斯兰国伊拉克分支宣称对基尔库克袭击事件负责，该袭击造成一名警察身亡、多人受伤。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnr8512835.shtml)
-12. [600673再提大额增持计划！10月解禁规模超2900亿元，11股解禁比例超50%（附股）](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaap5102495.shtml)
-13. [特朗普：已安排很快与普京就鼠疫病例通话](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuivuv5103901.shtml)
-14. [也门武装部队发言人：沙特雇佣军未能攻占曼德海峡。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimev5359499.shtml)
-15. [南极寒冰改造成巨型望远镜，这位诺奖物理学家抓住宇宙“隐身人”](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuivur5218701.shtml)
-16. [身上有这个特征，死亡风险悄悄增加！比肥胖更危险](https://finance.sina.com.cn/roll/2026-10-07/doc-iniuknsf8230742.shtml)
-17. [002388，重大资产重组！明起停牌！](https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniumcqa5828991.shtml)
-18. [中东冲突，传来新消息](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaap5113143.shtml)
-19. [聚焦四大行业，券商10月“金股”来了](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuknsf8234312.shtml)
-20. [错峰错涨价，节后机票价格跳水，多航线机票价格比高铁还便宜，出境机票低至 286 元](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksyf4990739.shtml)
+1. [美国财政部拍卖580亿美元三年期国债，得标利率4.932%，投标倍数2.62。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimet8594154.shtml)
+2. [特朗普声称“不知道谁在治理伊朗”，伊朗：他非常清楚美方在伊朗的对话方](https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkn6199389.shtml)
+3. [2026年诺贝尔化学奖揭晓](https://finance.sina.com.cn/roll/2026-10-07/doc-iniukxfz8150434.shtml)
+4. [美国汽车工人联合会（UAW）呼吁禁止国防承包商进行股票回购及派发股息。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimet8581375.shtml)
+5. [单价2599元婚宴14道主菜上错7道新郎父亲称14道菜上错一半应打五折](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukhkm5050372.shtml)
+6. [中东财团，巨资布局AI赛道！](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksyh6026793.shtml)
+7. [新规实施后基金公司密集公示第三方互联网营销平台 大V合作已全面叫停](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuknsk6104319.shtml)
+8. [C罗发布长文公开离开国家队真相](https://finance.sina.com.cn/roll/2026-10-07/doc-iniukhkn6201118.shtml)
+9. [新西兰将于10月8日发布2025-26年度政府财务报表。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukaap5161908.shtml)
+10. [在线旅游平台eDreams与亚马逊Alexa达成合作，将人工智能旅游搜索引入Alexa+。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4960850.shtml)
+11. [年入3.78亿，三位复旦博士要IPO了](https://finance.sina.com.cn/stock/bxjj/2026-10-07/doc-iniukaam8336949.shtml)
+12. [全国铁路今天预计发送旅客2415万人次](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukaap5153188.shtml)
+13. [绿通科技：两名董事及高管拟合计减持不超30.85万股](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4973858.shtml)
+14. [荷兰银行首席执行官：专注于使近期收购取得成功。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuknsf8271234.shtml)
+15. [法德10年期国债收益率差扩大13个基点，至140个基点以上。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpx8056517.shtml)
+16. [奕斯伟计算（ESWIN COMPUTING）通过香港 IPO 募集 25 亿港元。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivx4751702.shtml)
+17. [黄仁勋家族势力浮现：女儿女婿或为英伟达未来接班人选](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcqa5834257.shtml)
+18. [段永平出手，布局腾讯](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivv7991752.shtml)
+19. [2026年诺贝尔化学奖授予两位同手性化学谜题破解者](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhe5939174.shtml)
+20. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)

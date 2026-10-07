@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-08 02:16:47
+> 更新时间：2026-10-08 03:11:39
 
 ## 最新帖子
 
@@ -55,4 +55,4 @@
 3. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
 4. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
 5. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
-6. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
+6. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)

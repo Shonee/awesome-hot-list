@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-08 02:16:42
+> 更新时间：2026-10-08 03:11:33
 
 ## 日榜
 
@@ -17,9 +17,9 @@
 11. [不是女仆，是野猫。待后续……](https://www.acfun.cn/v/ac48895946)
 12. [嵛山岛两天 异地就医 人生起起落落过山车 娄老师 不看不是人 vlog 传奇萧山话](https://www.acfun.cn/v/ac48897231)
 13. [《something》这支舞真的很感性！](https://www.acfun.cn/v/ac48895436)
-14. [把一只白蚁蚁后，放进蚂蚁巢穴里会怎样？](https://www.acfun.cn/v/ac48896419)
-15. [【千璃Senri】《17》cover：椎名林檎](https://www.acfun.cn/v/ac48889523)
-16. [皮皮虾  我们走！](https://www.acfun.cn/v/ac48896758)
+14. [皮皮虾  我们走！](https://www.acfun.cn/v/ac48896758)
+15. [把一只白蚁蚁后，放进蚂蚁巢穴里会怎样？](https://www.acfun.cn/v/ac48896419)
+16. [【千璃Senri】《17》cover：椎名林檎](https://www.acfun.cn/v/ac48889523)
 17. [【付小远】来水一个可爱颂手势舞～](https://www.acfun.cn/v/ac48883418)
 18. [感觉至上～](https://www.acfun.cn/v/ac48895280)
 19. [13年前的歌这么能打？《恋爱的条件》翻跳](https://www.acfun.cn/v/ac48896612)
@@ -36,8 +36,8 @@
 30. [中国人为何这么爱谐音梗](https://www.acfun.cn/v/ac48896762)
 31. [AEW Dynamite #366 - Grand Slam Paris 2026.10.06](https://www.acfun.cn/v/ac48896108)
 32. [【绝望女神/翻唱】【全金属狂潮 OP4 Even..if】](https://www.acfun.cn/v/ac48896970)
-33. [白井黑子 灯笼街巷夜景慢摇【AI动画/超清】](https://www.acfun.cn/v/ac48884401)
-34. [2024全国十佳最美自驾路-重庆北碚1314环线](https://www.acfun.cn/v/ac48896669)
+33. [2024全国十佳最美自驾路-重庆北碚1314环线](https://www.acfun.cn/v/ac48896669)
+34. [白井黑子 灯笼街巷夜景慢摇【AI动画/超清】](https://www.acfun.cn/v/ac48884401)
 35. [桢-20261005 猫步轻俏 stickysticky bingbing](https://www.acfun.cn/v/ac48894735)
 36. [Day131HD-雨墨1](https://www.acfun.cn/v/ac48895902)
 37. [13400TEF到底能买不？](https://www.acfun.cn/v/ac48894807)
@@ -51,14 +51,14 @@
 45. [[4K] 2026广州台球展上的美丽中国模特260902](https://www.acfun.cn/v/ac48896182)
 46. [Day130HD-女帝3灵魂武者](https://www.acfun.cn/v/ac48895687)
 47. [【纪录片】阿波罗计划 回到月球 下 终极任务【1080p】【双语特效字幕】【纪录片之家科技控】](https://www.acfun.cn/v/ac48887492)
-48. [,,ᗜ ֊ ᗜ,,](https://www.acfun.cn/v/ac48895519)
-49. [短裙-韩流520](https://www.acfun.cn/v/ac48895989)
+48. [短裙-韩流520](https://www.acfun.cn/v/ac48895989)
+49. [蒸一条鱼](https://www.acfun.cn/v/ac48897005)
 50. [2026年10月第一周日本广告合集](https://www.acfun.cn/v/ac48894613)
 
 ## 三日榜
 
-1. [《控制：共振》迎合所有受众 就是没有受众](https://www.acfun.cn/v/ac48891585)
-2. [在我的婚礼上跳了勾指起誓～【可心喵】](https://www.acfun.cn/v/ac48895678)
+1. [在我的婚礼上跳了勾指起誓～【可心喵】](https://www.acfun.cn/v/ac48895678)
+2. [《控制：共振》迎合所有受众 就是没有受众](https://www.acfun.cn/v/ac48891585)
 3. [你那爱熬夜的兄弟belike](https://www.acfun.cn/v/ac48894078)
 4. [漂亮的御姐有杀气！欢乐八点档-1793](https://www.acfun.cn/v/ac48892565)
 5. [看着我就好了！！！★手机竖屏2024★](https://www.acfun.cn/v/ac48891258)
@@ -87,26 +87,26 @@
 28. [喵喵喵！](https://www.acfun.cn/v/ac48892461)
 29. [网络上常见的热门短视频集锦   第三千四百七十四期](https://www.acfun.cn/v/ac48896136)
 30. [你国庆干甚去了【今天有什么好笑的 #2527】](https://www.acfun.cn/v/ac48892479)
-31. [我热爱我的工作【今天有什么好笑的 #2528】](https://www.acfun.cn/v/ac48894390)
-32. [我怎么就遇不到这种好事呢？](https://www.acfun.cn/v/ac48881610)
-33. [今夜的风悄悄月悄悄](https://www.acfun.cn/v/ac48897289)
+31. [今夜的风悄悄月悄悄](https://www.acfun.cn/v/ac48897289)
+32. [我热爱我的工作【今天有什么好笑的 #2528】](https://www.acfun.cn/v/ac48894390)
+33. [我怎么就遇不到这种好事呢？](https://www.acfun.cn/v/ac48881610)
 34. [机会都是留给有准备的人（86）](https://www.acfun.cn/v/ac48888626)
-35. [每个coser都会遇到的困难..](https://www.acfun.cn/v/ac48892134)
-36. [郊区都这么多了【今天有什么好笑的 #2529】](https://www.acfun.cn/v/ac48896493)
-37. [有些人天生就是主角！欢乐八点档-1795](https://www.acfun.cn/v/ac48896569)
+35. [郊区都这么多了【今天有什么好笑的 #2529】](https://www.acfun.cn/v/ac48896493)
+36. [有些人天生就是主角！欢乐八点档-1795](https://www.acfun.cn/v/ac48896569)
+37. [每个coser都会遇到的困难..](https://www.acfun.cn/v/ac48892134)
 38. [【莉莉子】Dal★shabet Hit U【生日作】](https://www.acfun.cn/v/ac48890425)
-39. [真珠总监](https://www.acfun.cn/v/ac48894287)
-40. [抽6+5嘉蒂丝要多少灵玉？实测结果让人红温！](https://www.acfun.cn/v/ac48895206)
+39. [抽6+5嘉蒂丝要多少灵玉？实测结果让人红温！](https://www.acfun.cn/v/ac48895206)
+40. [真珠总监](https://www.acfun.cn/v/ac48894287)
 41. [交通事故20261006：交通车祸实例，提高安全意识](https://www.acfun.cn/v/ac48894533)
 42. [【颜音】サクラ・インカーネーション（Sakura Incarnation）](https://www.acfun.cn/v/ac48897141)
 43. [还有一个刘海没有湿透的版本！！！](https://www.acfun.cn/v/ac48895211)
-44. [去连云港吃席！早市，真的很便宜吗？](https://www.acfun.cn/v/ac48894709)
-45. [你敢信！这游戏连走路都能撞死敌人？](https://www.acfun.cn/v/ac48892770)
-46. [不是女仆，是野猫。待后续……](https://www.acfun.cn/v/ac48895946)
+44. [不是女仆，是野猫。待后续……](https://www.acfun.cn/v/ac48895946)
+45. [去连云港吃席！早市，真的很便宜吗？](https://www.acfun.cn/v/ac48894709)
+46. [你敢信！这游戏连走路都能撞死敌人？](https://www.acfun.cn/v/ac48892770)
 47. [35.勇敢的陆生先锋，脱离水体的史前史诗：孔螈科与扎特拉契螈科](https://www.acfun.cn/v/ac48881840)
-48. [香蕉：隐藏着伊甸园的真相？这才是真正的上帝禁果？苹果只是误传？而香蕉背后，才是真正的人类密码？](https://www.acfun.cn/v/ac48889730)
-49. [给大家展示一秒变脸](https://www.acfun.cn/v/ac48892414)
-50. [绝活哥对弈，疯狂操作！快速看完一局韩服王者斗殴局#489 jjking, Feifan, Elite](https://www.acfun.cn/v/ac48888472)
+48. [嵛山岛两天 异地就医 人生起起落落过山车 娄老师 不看不是人 vlog 传奇萧山话](https://www.acfun.cn/v/ac48897231)
+49. [香蕉：隐藏着伊甸园的真相？这才是真正的上帝禁果？苹果只是误传？而香蕉背后，才是真正的人类密码？](https://www.acfun.cn/v/ac48889730)
+50. [给大家展示一秒变脸](https://www.acfun.cn/v/ac48892414)
 
 ## 周榜
 
