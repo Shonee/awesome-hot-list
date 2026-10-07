@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-08 03:38:42
+> 更新时间：2026-10-08 04:39:52
 
 ## 24 小时热榜
 
@@ -22,18 +22,18 @@
 16. [高通起诉 Arm，诉求最长 5 年免授权费并要求开放 V10 授权](https://readhub.cn/topic/8x0K4M1Mfku?tab=daily)
 17. [仅 4.5% 美国消费者为 AI 付费 GPU 涨价 a16z 报告揭 AI 真实落差](https://readhub.cn/topic/8x24KC9VBfi?tab=daily)
 18. [Claude 证明概率论「圣杯」渗流猜想，AI 跨菲尔兹奖级难题终点线](https://readhub.cn/topic/8x1sBc3chzm?tab=daily)
-19. [前 8 个月医保统筹基金收入约 2.07 万亿元](https://readhub.cn/topic/8x1ZcRgWtga?tab=daily)
-20. [谷歌推出 macOS 端 AI Edge Foresight 应用 支持离线整理会议纪要](https://readhub.cn/topic/8x0x17GVuKh?tab=daily)
-21. [iFixit 拆解两款新 Apple Watch，给出 4 / 10 可维修得分](https://readhub.cn/topic/8x1H1Jjj2a3?tab=daily)
+19. [iFixit 拆解两款新 Apple Watch，给出 4 / 10 可维修得分](https://readhub.cn/topic/8x1H1Jjj2a3?tab=daily)
+20. [前 8 个月医保统筹基金收入约 2.07 万亿元](https://readhub.cn/topic/8x1ZcRgWtga?tab=daily)
+21. [谷歌推出 macOS 端 AI Edge Foresight 应用 支持离线整理会议纪要](https://readhub.cn/topic/8x0x17GVuKh?tab=daily)
 22. [英特尔称将继续参与马斯克旗下 Terafab 芯片制造项目](https://readhub.cn/topic/8x1h6nS8XJA?tab=daily)
 23. [涉嫌价格垄断 日本四大啤酒企业接受调查](https://readhub.cn/topic/8x25mmbaNF1?tab=daily)
 24. [Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50 为榜单唯一 AI 3D 公司](https://readhub.cn/topic/8x1XpE8EoiX?tab=daily)
 25. [落实特朗普行政令，美国司法部要求员工改称 AI 为「超级智能」](https://readhub.cn/topic/8x0zrbZh4KA?tab=daily)
 26. [谷歌与 Unity 合作推出 AI 游戏平台 支持自然语言创建游戏](https://readhub.cn/topic/8x2F2ZOzij2?tab=daily)
 27. [腾讯斥资 1 亿港元回购 23.8 万股](https://readhub.cn/topic/8wzocpb9VtZ?tab=daily)
-28. [购票「加速包」或变减速器 12306 提醒旅客不要中招](https://readhub.cn/topic/8x1wqXfist9?tab=daily)
-29. [中秋国庆消费升温，支付宝「碰一下」消费笔数同比增近 40%](https://readhub.cn/topic/8x1dtzzLJbZ?tab=daily)
-30. [安踏完成收购彪马 29.06% 股权，成为其最大股东](https://readhub.cn/topic/8x2Al9kwlmo?tab=daily)
+28. [中秋国庆消费升温，支付宝「碰一下」消费笔数同比增近 40%](https://readhub.cn/topic/8x1dtzzLJbZ?tab=daily)
+29. [安踏完成收购彪马 29.06% 股权，成为其最大股东](https://readhub.cn/topic/8x2Al9kwlmo?tab=daily)
+30. [购票「加速包」或变减速器 12306 提醒旅客不要中招](https://readhub.cn/topic/8x1wqXfist9?tab=daily)
 
 ## 每日早报
 
@@ -54,6 +54,6 @@
 5. [Introducing Falcon ASR](https://huggingface.co/blog/tiiuae/falcon-asr)
 6. [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026)
 7. [英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存](https://www.ithome.com/1/010/313.htm)
-8. [特朗普将出席 AI 科学会议，宣布逾 10 亿美元投资承诺](https://www.gelonghui.com/live/2700400)
-9. [MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数](https://www.ithome.com/1/010/308.htm)
-10. [GPT-6 面向所有人推出，带来智能 UI](https://openai.com/index/gpt-6-for-everyone)
+8. [OpenAI 宣布推出 GPT-6 模型并面向免费版开放](https://www.techflowpost.com/zh-CN/newsletter/139122)
+9. [特朗普将出席 AI 科学会议，宣布逾 10 亿美元投资承诺](https://www.gelonghui.com/live/2700400)
+10. [MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数](https://www.ithome.com/1/010/308.htm)
