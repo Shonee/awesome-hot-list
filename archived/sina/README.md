@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 04:14:39
+> 更新时间：2026-10-08 05:12:53
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [绿通科技：两名董事及高管拟合计减持不超30.85万股](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4973858.shtml)
-2. [荷兰银行首席执行官：专注于使近期收购取得成功。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuknsf8271234.shtml)
-3. [法德10年期国债收益率差扩大13个基点，至140个基点以上。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpx8056517.shtml)
-4. [奕斯伟计算（ESWIN COMPUTING）通过香港 IPO 募集 25 亿港元。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivx4751702.shtml)
-5. [黄仁勋家族势力浮现：女儿女婿或为英伟达未来接班人选](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniumcqa5834257.shtml)
-6. [段永平出手，布局腾讯](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivv7991752.shtml)
-7. [2026年诺贝尔化学奖授予两位同手性化学谜题破解者](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhe5939174.shtml)
-8. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
-9. [大金重工午前涨近5% 造船板块正式进入主流船舶建造市场](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuknsk6091544.shtml)
-10. [花旗：预计2026年底墨西哥比索兑美元汇率为18比索/美元，此前预期为17.5比索/美元。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimev5394168.shtml)
-11. [特朗普被问及是否需要暂停联邦汽油税：正在考虑此事。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnt5283644.shtml)
-12. [特朗普：就在过去几天，已有数百万桶石油大量交付。我们目前的输送量已与战前持平，有时甚至超过战前水平。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnt5283273.shtml)
-13. [乌克兰基辅市长：已启动防空系统，市民请留在避难所。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnt5272470.shtml)
-14. [市场资讯：埃克森美孚将目光投向特立尼达和多巴哥的海上项目，寻求下一个增长点。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimet8605833.shtml)
-15. [澳洲联储：AI 板块股票回调可能冲击居民消费。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnr8523944.shtml)
-16. [网传“高铁座椅成HPV感染重灾区”，是真的吗？](https://finance.sina.com.cn/roll/2026-10-07/doc-iniukaap5095976.shtml)
-17. [Anthropic推出全新谷歌文档、表格与幻灯片连接器（测试版），Claude可通过该连接器直接在克劳德平台上创建和编辑谷歌文件。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimet8616915.shtml)
-18. [加拿大皇家银行将Marvell Technology的目标价从360美元上调至425美元。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukhki8311301.shtml)
-19. [央行官员谈黄金投资 理由从分散风险到数字资产策略不一而足](https://finance.sina.com.cn/world/2026-10-07/doc-iniuimev5374085.shtml)
-20. [热门航线机票价格已回落 有长线机票价格较节前下降逾七成](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukaam8345357.shtml)
+1. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
+2. [热门航线机票价格已回落 有长线机票价格较节前下降逾七成](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukaam8345357.shtml)
+3. [2030年我国新型电池产业规模将实现稳步增长](https://finance.sina.com.cn/roll/2026-10-07/doc-iniukhkr4904548.shtml)
+4. [密集补充资本！一个月内，多家险企宣布增资](https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkm5048920.shtml)
+5. [净利预降近60%！200亿液冷龙头紧急公告](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniumcpz4842396.shtml)
+6. [10月7日美股成交额前20：迈威尔科技涨超5% 发布长期营收展望](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnr8533971.shtml)
+7. [欧洲央行管委穆兰：法国目前还没有到了需要寻求欧洲央行协助解决问题的地步。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyc8157561.shtml)
+8. [印度央行总裁马鲁蒂·马尔霍特拉就卢比持续贬值表示：市场短期内可能相当不理性。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4953467.shtml)
+9. [崔东树：2026年世界新能源车渗透率24.7%，渗透率总体呈现快速提升趋势](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukxfz8132670.shtml)
+10. [分析师米尔克：预计2027年鹿特丹棕榈仁油价格将涨至每吨2200美元或更高。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4988057.shtml)
+11. [港股世茂集团尾盘涨超30%](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4982963.shtml)
+12. [特朗普谈及频繁赴得州的原因：要确保帕克斯顿胜选。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4623275.shtml)
+13. [英格兰银行：首次调整将于2031年7月1日进行，此后每五年进行一次后续调整。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukxfz8116793.shtml)
+14. [特朗普夸赞昨日股市表现。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4721670.shtml)
+15. [波士顿动力任命亚马逊前高管为CEO](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuknsi5010133.shtml)
+16. [保时捷首席执行官：欧洲业务的核心是动力系统多元化。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukxhc4884200.shtml)
+17. [伊朗高级官员表示：万斯关于伊朗核计划的言论是美方的“看法与要求”。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpz4836903.shtml)
+18. [特斯拉Optimus前AI负责人创办企业研发非人形机器人](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivx4782744.shtml)
+19. [欧盟卫生安全委员会就疑似俄罗斯鼠疫召开会议。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukxhc4937212.shtml)
+20. [特朗普重申战后油价将会下降。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7831395.shtml)
