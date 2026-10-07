@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-08 01:20:24
+> 更新时间：2026-10-08 07:38:52
 
 ## Trending Models
 
@@ -13,12 +13,12 @@
 7. [Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)
 8. [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash)
 9. [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)
-10. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
-11. [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)
+10. [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)
+11. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
 12. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-13. [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF)
-14. [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)
-15. [canberkkkkkk/ema-lightning](https://huggingface.co/canberkkkkkk/ema-lightning)
+13. [canberkkkkkk/ema-lightning](https://huggingface.co/canberkkkkkk/ema-lightning)
+14. [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF)
+15. [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)
 16. [Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw](https://huggingface.co/Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw)
 17. [TaichuAI/ZDTaichu5.0-9B](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B)
 18. [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)
