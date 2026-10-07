@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-08 00:14:50
+> 更新时间：2026-10-08 01:19:23
 
 ## 热门文章
 
@@ -12,12 +12,12 @@
 6. [给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频](https://juejin.cn/post/7692127219867877414)
 7. [从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析](https://juejin.cn/post/7692742889198387200)
 8. [后端零改动，给若依换一套现代化前端](https://juejin.cn/post/7692369572608786467)
-9. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
-10. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
-11. [🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些"插槽"(前置介绍)](https://juejin.cn/post/7692500213994586153)
-12. [Harness：Agent 运行时架构](https://juejin.cn/post/7692379120273080360)
-13. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
-14. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
+9. [Harness：Agent 运行时架构](https://juejin.cn/post/7692379120273080360)
+10. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
+11. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
+12. [Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁](https://juejin.cn/post/7692612898275967002)
+13. [🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些"插槽"(前置介绍)](https://juejin.cn/post/7692500213994586153)
+14. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
 15. [独立开发者的"富矿地带"：哪些垂直领域值得你押注一辈子？](https://juejin.cn/post/7692743968833224713)
 16. [Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪](https://juejin.cn/post/7692739051067342857)
 17. [workbuddy-to-dsh使用教程](https://juejin.cn/post/7692614083904274486)
@@ -28,13 +28,13 @@
 22. [WinSW在Win7上失败真相-实测与修复](https://juejin.cn/post/7692881705649586217)
 23. [悬停旋转放大和位移效果如何写](https://juejin.cn/post/7692743745478492206)
 24. [这几天，我都是拿手机让dot帮我干活](https://juejin.cn/post/7692676879360524315)
-25. [一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏](https://juejin.cn/post/7692498648035819563)
-26. [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586)
-27. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
-28. [9、古代没有程序员，但蒲松龄们早就被"裁员"过了](https://juejin.cn/post/7693144953569493043)
-29. [Dart 3 Record：解决 Future.wait 异构返回值的类型问题](https://juejin.cn/post/7692876916257603594)
-30. [写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张"新桌子"](https://juejin.cn/post/7692534495237275682)
-31. [Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析](https://juejin.cn/post/7692440533922791443)
+25. [写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张"新桌子"](https://juejin.cn/post/7692534495237275682)
+26. [一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏](https://juejin.cn/post/7692498648035819563)
+27. [Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析](https://juejin.cn/post/7692440533922791443)
+28. [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586)
+29. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
+30. [9、古代没有程序员，但蒲松龄们早就被"裁员"过了](https://juejin.cn/post/7693144953569493043)
+31. [Dart 3 Record：解决 Future.wait 异构返回值的类型问题](https://juejin.cn/post/7692876916257603594)
 32. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
 33. [LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比](https://juejin.cn/post/7693225151681757194)
 34. [复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent](https://juejin.cn/post/7693160537133481999)
@@ -52,5 +52,5 @@
 46. [命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统](https://juejin.cn/post/7692498648035311659)
 47. [我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App](https://juejin.cn/post/7692408208114024502)
 48. [从零封装一个地图组件库：OpenLayers + Vue 的工程化实践](https://juejin.cn/post/7692227011060334611)
-49. [你写的"并发"，可能一直在排队](https://juejin.cn/post/7693391067571978286)
-50. [EmbeddingGemma 2：740M 参数的多模态嵌入模型，支持本地推理](https://juejin.cn/post/7693383473919508531)
+49. [从 Markdown 到生成式 UI：AI 应用中的流式渲染实践](https://juejin.cn/post/7692649064883273769)
+50. [你写的"并发"，可能一直在排队](https://juejin.cn/post/7693391067571978286)
