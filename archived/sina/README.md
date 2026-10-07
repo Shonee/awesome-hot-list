@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 05:12:53
+> 更新时间：2026-10-08 06:12:07
 
 ## 新闻热榜
 
@@ -28,22 +28,22 @@
 ## 财经热榜
 
 1. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
-2. [热门航线机票价格已回落 有长线机票价格较节前下降逾七成](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukaam8345357.shtml)
-3. [2030年我国新型电池产业规模将实现稳步增长](https://finance.sina.com.cn/roll/2026-10-07/doc-iniukhkr4904548.shtml)
-4. [密集补充资本！一个月内，多家险企宣布增资](https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhkm5048920.shtml)
-5. [净利预降近60%！200亿液冷龙头紧急公告](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniumcpz4842396.shtml)
-6. [10月7日美股成交额前20：迈威尔科技涨超5% 发布长期营收展望](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnr8533971.shtml)
-7. [欧洲央行管委穆兰：法国目前还没有到了需要寻求欧洲央行协助解决问题的地步。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyc8157561.shtml)
-8. [印度央行总裁马鲁蒂·马尔霍特拉就卢比持续贬值表示：市场短期内可能相当不理性。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4953467.shtml)
-9. [崔东树：2026年世界新能源车渗透率24.7%，渗透率总体呈现快速提升趋势](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukxfz8132670.shtml)
-10. [分析师米尔克：预计2027年鹿特丹棕榈仁油价格将涨至每吨2200美元或更高。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4988057.shtml)
-11. [港股世茂集团尾盘涨超30%](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4982963.shtml)
-12. [特朗普谈及频繁赴得州的原因：要确保帕克斯顿胜选。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4623275.shtml)
-13. [英格兰银行：首次调整将于2031年7月1日进行，此后每五年进行一次后续调整。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukxfz8116793.shtml)
-14. [特朗普夸赞昨日股市表现。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4721670.shtml)
-15. [波士顿动力任命亚马逊前高管为CEO](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuknsi5010133.shtml)
-16. [保时捷首席执行官：欧洲业务的核心是动力系统多元化。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukxhc4884200.shtml)
-17. [伊朗高级官员表示：万斯关于伊朗核计划的言论是美方的“看法与要求”。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpz4836903.shtml)
-18. [特斯拉Optimus前AI负责人创办企业研发非人形机器人](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivx4782744.shtml)
-19. [欧盟卫生安全委员会就疑似俄罗斯鼠疫召开会议。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniukxhc4937212.shtml)
-20. [特朗普重申战后油价将会下降。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7831395.shtml)
+2. [特朗普谈及频繁赴得州的原因：要确保帕克斯顿胜选。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4623275.shtml)
+3. [特朗普夸赞昨日股市表现。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4721670.shtml)
+4. [特朗普重申战后油价将会下降。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7831395.shtml)
+5. [市场消息：特朗普将于周六前往田纳西州克拉克斯维尔举行集会。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7951287.shtml)
+6. [伊朗航空已恢复从德黑兰和马什哈德飞往卡拉奇的航班。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpz4857492.shtml)
+7. [美国财政部：在最新双周报告期内，投资基金买入323.12亿美元2033年9月30日到期的7年期国债，上月买入规模为305.69亿美元。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4631149.shtml)
+8. [Wittington Investments 将以 89 亿美元（含债务）收购 Boots。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivv7986037.shtml)
+9. [伊朗总统称达成协议的主要障碍是美国的“极限施压”。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpx8077727.shtml)
+10. [美联储会议纪要：纽约联储代表财政部干预了外汇市场。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7838733.shtml)
+11. [纳斯达克100指数期货跌幅扩大至0.5%。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumcpx8038948.shtml)
+12. [特朗普谈与普京的通话：我已经安排好通话了。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4602075.shtml)
+13. [塞舌尔9月份消费者价格同比上涨1.2%。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniumivx4792998.shtml)
+14. [美“龙”飞船载4名宇航员脱离空间站 启程返回地球](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4620016.shtml)
+15. [605289，再签算力大单！](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukxhc4904894.shtml)
+16. [贝森特执掌下的美国财政部：内部紧张、人事动荡及未达成的经济目标](https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaam8384592.shtml)
+17. [美联储施密德：劳动力市场状况依然良好。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimev5373831.shtml)
+18. [集体下挫！港股医药股，大跌](https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniukhkm5076632.shtml)
+19. [巴西谷物出口商协会（ANEC）：预计巴西 10 月豆粕出口量为 209 万吨，去年同期为 173 万吨。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuirnr8512587.shtml)
+20. [花旗聘请摩根士丹利的迈克尔·泽扎斯（Michael Zezas）担任研究主管。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuimev5396408.shtml)
