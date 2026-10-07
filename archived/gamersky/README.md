@@ -1,11 +1,11 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-07 07:12:55
+> 更新时间：2026-10-07 08:37:15
 
 ## 热点资讯排行
 
-1. [小岛秀夫绝版独占神作PC版终于要来了！60帧以上](https://www.gamersky.com/news/202610/2221311.shtml)
-2. [穿上裤子不认人 《巫师3》新手又给凯拉整死了](https://www.gamersky.com/news/202610/2222038.shtml)
+1. [穿上裤子不认人 《巫师3》新手又给凯拉整死了](https://www.gamersky.com/news/202610/2222038.shtml)
+2. [小岛秀夫绝版独占神作PC版终于要来了！60帧以上](https://www.gamersky.com/news/202610/2221311.shtml)
 3. [《刺客信条：Hexe》大量剧情和角色泄露！摒弃RPG 回归传统线性](https://www.gamersky.com/news/202610/2221672.shtml)
 4. [曝《生化危机9》DLC重返洋馆！被删内容可能复活](https://www.gamersky.com/news/202610/2221324.shtml)
 5. [徐静雨新电脑12万元！百大up装机猿送货上门](https://www.gamersky.com/news/202610/2222103.shtml)

@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-07 07:12:55
+> 更新时间：2026-10-07 08:37:16
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [碰撞前 10 米辅助驾驶消失，网传高速追尾事故引发热议](https://www.ithome.com/1/009/981.htm)
 9. [消息称苹果 10 月推 2 波新品上市：M6 iMac、首款触控 MacBook 等](https://www.ithome.com/1/009/965.htm)
 10. [苹果开放 iPhone Duo 适配应用提交，明年 4 月起上架需提供折叠设备截图](https://www.ithome.com/1/009/942.htm)
-11. [时隔 3 年多，苹果向 2 米 MagSafe 3 连接线推送 3.2.0 新固件](https://www.ithome.com/1/009/929.htm)
-12. [消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与](https://www.ithome.com/1/009/990.htm)
+11. [消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与](https://www.ithome.com/1/009/990.htm)
+12. [2026 诺贝尔文学奖揭晓在即，中国作家残雪成最热门人选](https://www.ithome.com/1/009/993.htm)

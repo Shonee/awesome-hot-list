@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-07 07:11:59
+> 更新时间：2026-10-07 08:36:42
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [.NET 面试必问的 8 道 GC 题，建议收藏](https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions)
-2. [别再 rm 日志了：Linux 下安全清空日志文件的正确姿势](https://www.cnblogs.com/jyzhao/p/23200588)
-3. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
-4. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
-5. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
-6. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
+1. [Rust 1.99 更新了什么？一个新手视角的升级前后对比](https://www.cnblogs.com/OceanHeaven/p/23204262)
+2. [Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的](https://www.cnblogs.com/Tomorrowland/p/23203861)
+3. [万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试）](https://www.cnblogs.com/xcj26/p/23206402)
+4. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
+5. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
+6. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
