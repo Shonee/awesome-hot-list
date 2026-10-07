@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-07 14:57:38
+> 更新时间：2026-10-07 15:48:48
 
 ## 人气热门
 
@@ -57,9 +57,9 @@
 
 ## 精华采撷
 
-1. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-2. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-3. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+1. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+2. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+3. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
 4. [从0到1构建一个注入工具之注入器篇（二）](https://www.52pojie.cn/thread-2097864-1-1.html)
 5. [【多栈实战】某黑产软件全链路逆向实录 (中)](https://www.52pojie.cn/thread-2111428-1-1.html)
 6. [【多栈实战】某黑产软件全链路逆向实录 (下)](https://www.52pojie.cn/thread-2113640-1-1.html)
