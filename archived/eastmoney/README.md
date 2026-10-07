@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-07 10:26:38
+> 更新时间：2026-10-07 11:19:06
 
 ## 股票人气榜
 
@@ -8,19 +8,19 @@
 2. [N力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
 3. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
 4. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
-5. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
-6. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
-7. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-8. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
+5. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
+6. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
+7. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
+8. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 9. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
-10. [长江电力 (600900)](https://quote.eastmoney.com/sh600900.html)
-11. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
+10. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
+11. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
 12. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
-13. [恒瑞医药 (600276)](https://quote.eastmoney.com/sh600276.html)
-14. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
-15. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
-16. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-17. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
-18. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
-19. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
-20. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
+13. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
+14. [长江电力 (600900)](https://quote.eastmoney.com/sh600900.html)
+15. [赛力斯 (601127)](https://quote.eastmoney.com/sh601127.html)
+16. [兆易创新 (603986)](https://quote.eastmoney.com/sh603986.html)
+17. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
+18. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+19. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
+20. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
