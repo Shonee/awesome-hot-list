@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-09 02:16:48
+> 更新时间：2026-10-09 03:11:46
 
 ## 新闻热榜
 
-1. [根据与投资者共享的财务文件，OpenAI的年化收入较此前所暗示的水平低约200亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432234.shtml)
-2. [欧洲头部金融科技独角兽Revolut CEO：计划在美国进行主要上市。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7423503.shtml)
-3. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
-4. [外媒称日方希望中方对高市早苗给予适当的尊重，外交部回应](https://news.sina.com.cn/c/2026-10-08/doc-iniupafi7703481.shtml)
-5. [2026诺贝尔文学奖揭晓！为什么是她？](https://news.sina.com.cn/w/2026-10-08/doc-iniupnvc3589788.shtml)
-6. [OpenAI近期告知投资者，截至9月底，该公司年化营收已接近500亿美元，远低于此前暗示的700亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432825.shtml)
-7. [欧盟天然气协调小组：欧盟基础设施有能力承载更多液化天然气（LNG）进口，可抵消库存水平偏低带来的缺口。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4189796.shtml)
-8. [特朗普就伊朗问题发表言论后，美国国债收益率随油价下跌。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7420460.shtml)
-9. [费城半导体指数日内跌3%](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4207983.shtml)
-10. [SpaceXAI因利用用户上传照片进行人脸测绘而被起诉。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7435334.shtml)
-11. [大英博物馆回应两件中国瓷器受损：瓷碗从展架掉落砸到瓷盒 已交修复团队](https://news.sina.com.cn/w/2026-10-08/doc-iniuphpf7663639.shtml)
-12. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
-13. [2名驴友国庆期间违规穿越哈巴雪山遇险，救援人员历经25小时将其救下后，2人被罚8千元，并自行承担9万余元救援费](https://news.sina.com.cn/c/2026-10-08/doc-iniupnux4307117.shtml)
-14. [张硕辅被查，广东省人大常委会党组：坚决拥护党中央决定](https://news.sina.com.cn/c/2026-10-08/doc-iniuphnx7603203.shtml)
-15. [双色球15注603万分落9地 上海或爆3618万大奖](https://sports.sina.com.cn/l/2026-10-08/doc-iniuptaz3516309.shtml)
-16. [特朗普称美国不会在11月3日中期选举前攻击伊朗](https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniupxkt4199251.shtml)
-17. [节后第一天就冲高回落、午后跳水，A股发生了什么？](https://finance.sina.com.cn/roll/2026-10-08/doc-iniupaez7562522.shtml)
-18. [美国暂停微软等科技公司参与PERM项目 称其滥用签证制度](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniuptav4310934.shtml)
-19. [央行发布人民币汇率的政策立场（全文）](https://finance.sina.com.cn/china/2026-10-08/doc-iniuphnx7564423.shtml)
-20. [一辆百万豪车的刹车踏板，多大力才算“踩过头”？](https://news.sina.com.cn/c/2026-10-08/doc-iniuptaz3536045.shtml)
+1. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
+2. [外媒称日方希望中方对高市早苗给予适当的尊重，外交部回应](https://news.sina.com.cn/c/2026-10-08/doc-iniupafi7703481.shtml)
+3. [2026诺贝尔文学奖揭晓！为什么是她？](https://news.sina.com.cn/w/2026-10-08/doc-iniupnvc3589788.shtml)
+4. [根据与投资者共享的财务文件，OpenAI的年化收入较此前所暗示的水平低约200亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432234.shtml)
+5. [费城半导体指数日内跌3%](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4207983.shtml)
+6. [加拿大宣布对放射性药物领域进行新投资。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7444839.shtml)
+7. [欧洲头部金融科技独角兽Revolut CEO：计划在美国进行主要上市。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7423503.shtml)
+8. [SpaceXAI因利用用户上传照片进行人脸测绘而被起诉。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7435334.shtml)
+9. [美国财政部将22艘船只列入与伊朗相关的制裁名单。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7437306.shtml)
+10. [微软股价跌幅扩大至1.2%。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4211812.shtml)
+11. [据三名知情人士透露，沙特国有航司沙特航空的一架飞机在利雅得机场遭火灾严重损毁。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7454579.shtml)
+12. [大英博物馆回应两件中国瓷器受损：瓷碗从展架掉落砸到瓷盒 已交修复团队](https://news.sina.com.cn/w/2026-10-08/doc-iniuphpf7663639.shtml)
+13. [OpenAI近期告知投资者，截至9月底，该公司年化营收已接近500亿美元，远低于此前暗示的700亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432825.shtml)
+14. [美联储官员穆萨莱姆：当前经济走势相当强劲，美联储能做的最优举措就是压低通胀。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4229730.shtml)
+15. [特朗普就伊朗问题发表言论后，美国国债收益率随油价下跌。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7420460.shtml)
+16. [欧盟天然气协调小组：欧盟基础设施有能力承载更多液化天然气（LNG）进口，可抵消库存水平偏低带来的缺口。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4189796.shtml)
+17. [美国财长贝森特：财政部正在切断德黑兰用于战争的资金来源。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4211474.shtml)
+18. [美联储穆萨莱姆：尚未预先判定美联储10月28日会议的决议结果。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7456971.shtml)
+19. [Southlight Services宣布与谷歌达成战略合作，将在北美地区提供Google Voice Carrier Link服务。Southlight Services现已成为Google Voic](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7449055.shtml)
+20. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
 
 ## 财经热榜
 
