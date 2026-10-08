@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-08 12:18:45
+> 更新时间：2026-10-08 13:15:46
 
 ## Hottest
 
@@ -15,14 +15,14 @@
 9. [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/)
 10. [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
 11. [Zeroization, part 1: Wiping can make things worse](https://00f.net/2026/10/06/zeroization-1/)
-12. [When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection](https://resilience.ocf.tw/web/report/en.html)
-13. [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
-14. [That Time I Worked With a Laptop Thief (2025)](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/)
-15. [On Git Refs](https://matklad.github.io/2026/10/07/git-ref.html)
-16. [The Mathocalypse](https://scottaaronson.blog/?p=10169)
-17. [Is COSMIC DE mogging KDE Plasma?](https://thelibre.news/is-cosmic-de-mogging-kde-plasma/)
-18. [Reasons to dislike AI coding](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
-19. [On using AI as a writing assistant](https://ninashamsi.com/writing/i-am-a-bad-writer.html)
+12. [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
+13. [On using AI as a writing assistant](https://ninashamsi.com/writing/i-am-a-bad-writer.html)
+14. [When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection](https://resilience.ocf.tw/web/report/en.html)
+15. [The Mathocalypse](https://scottaaronson.blog/?p=10169)
+16. [That Time I Worked With a Laptop Thief (2025)](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/)
+17. [On Git Refs](https://matklad.github.io/2026/10/07/git-ref.html)
+18. [Is COSMIC DE mogging KDE Plasma?](https://thelibre.news/is-cosmic-de-mogging-kde-plasma/)
+19. [Reasons to dislike AI coding](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
 20. [Explaining the Magelight XP glitch in Skyrim](https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim)
 21. [Brut, the Brutal Router for Unix Tools](https://brut.sh)
 22. [Last rites for Gentoo's Chromium package](https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/)

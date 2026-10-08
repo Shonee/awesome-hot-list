@@ -1,12 +1,12 @@
 # 博客园热榜
 
-> 更新时间：2026-10-08 12:16:13
+> 更新时间：2026-10-08 13:14:40
 
 ## 最新帖子
 
-1. [从 Agent Loop 到沙盒边界：一次讲清楚 Codex 的八大功能](https://www.cnblogs.com/codigger/p/23221912)
-2. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
-3. [智慧档案室一体化环境管控：环境监测、设备联动、审计溯源一体化方案](https://www.cnblogs.com/huaweirongyao/p/23221426)
+1. [什么是范数？用 NumPy 动手算一遍就明白了](https://www.cnblogs.com/wang_yb/p/23222493)
+2. [Linux桌面端应用向鸿蒙PC迁移适配纪实](https://www.cnblogs.com/KBin/p/23219928)
+3. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
 4. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
 5. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
 6. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
