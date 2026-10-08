@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-09 03:11:30
+> 更新时间：2026-10-09 04:14:08
 
 ## 热门文章
 
@@ -17,10 +17,10 @@
 11. [Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了](https://juejin.cn/post/7693909029785042959)
 12. [DeepSeek Harness 桌面端来啦！更便捷更安全的选择](https://juejin.cn/post/7693712140221792271)
 13. [Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏](https://juejin.cn/post/7693351700208140288)
-14. [A 社为什么反超了](https://juejin.cn/post/7693481478181584932)
-15. [AI 帮我投资 85 天，最多赚到 3733 元](https://juejin.cn/post/7693414422438723626)
-16. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
-17. [国庆七天，AI圈没一天消停](https://juejin.cn/post/7694124645507940379)
+14. [国庆七天，AI圈没一天消停](https://juejin.cn/post/7694124645507940379)
+15. [A 社为什么反超了](https://juejin.cn/post/7693481478181584932)
+16. [AI 帮我投资 85 天，最多赚到 3733 元](https://juejin.cn/post/7693414422438723626)
+17. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
 18. [当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？](https://juejin.cn/post/7693451894564765696)
 19. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
 20. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
@@ -28,9 +28,9 @@
 22. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
 23. [Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通](https://juejin.cn/post/7693225151680774154)
 24. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
-25. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
-26. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
-27. [研究 Vue 3 源码的收获](https://juejin.cn/post/7693406376094892066)
+25. [研究 Vue 3 源码的收获](https://juejin.cn/post/7693406376094892066)
+26. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
+27. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
 28. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
 29. [Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪](https://juejin.cn/post/7692739051067342857)
 30. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
@@ -39,13 +39,13 @@
 33. [太吊了！这 2 款网盘工具，让我省 4000 大洋！](https://juejin.cn/post/7693748651005362202)
 34. [开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用](https://juejin.cn/post/7693549784162631718)
 35. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
-36. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
-37. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
-38. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
-39. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
-40. [别只让AI解释，让它做个你能看懂的东西](https://juejin.cn/post/7693358476032524298)
-41. [只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏](https://juejin.cn/post/7693165008605396992)
-42. [同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具](https://juejin.cn/post/7693079499384356879)
+36. [同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具](https://juejin.cn/post/7693079499384356879)
+37. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
+38. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
+39. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
+40. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
+41. [别只让AI解释，让它做个你能看懂的东西](https://juejin.cn/post/7693358476032524298)
+42. [只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏](https://juejin.cn/post/7693165008605396992)
 43. [零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏](https://juejin.cn/post/7692992192592642083)
 44. [实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手](https://juejin.cn/post/7693414422438248490)
 45. [一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像](https://juejin.cn/post/7693049513119858734)

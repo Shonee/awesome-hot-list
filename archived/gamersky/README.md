@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-09 03:11:50
+> 更新时间：2026-10-09 04:15:14
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [曝《生化危机9》DLC重返洋馆！被删内容可能复活](https://www.gamersky.com/news/202610/2221324.shtml)
 10. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
 11. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
-12. [《剑星》新版本难度太高劝退玩家 但忍一忍就过去了](https://www.gamersky.com/news/202610/2221138.shtml)
-13. [官方上架6000元PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
-14. [显卡价格彻底失控!5090价格从2万涨到5万 涨幅132%](https://www.gamersky.com/hardware/202610/2222868.shtml)
+12. [显卡价格彻底失控!5090价格从2万涨到5万 涨幅132%](https://www.gamersky.com/hardware/202610/2222868.shtml)
+13. [《剑星》新版本难度太高劝退玩家 但忍一忍就过去了](https://www.gamersky.com/news/202610/2221138.shtml)
+14. [官方上架6000元PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
 15. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)

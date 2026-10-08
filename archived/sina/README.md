@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-09 03:11:46
+> 更新时间：2026-10-09 04:14:31
 
 ## 新闻热榜
 
@@ -9,21 +9,21 @@
 3. [2026诺贝尔文学奖揭晓！为什么是她？](https://news.sina.com.cn/w/2026-10-08/doc-iniupnvc3589788.shtml)
 4. [根据与投资者共享的财务文件，OpenAI的年化收入较此前所暗示的水平低约200亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432234.shtml)
 5. [费城半导体指数日内跌3%](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4207983.shtml)
-6. [加拿大宣布对放射性药物领域进行新投资。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7444839.shtml)
-7. [欧洲头部金融科技独角兽Revolut CEO：计划在美国进行主要上市。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7423503.shtml)
-8. [SpaceXAI因利用用户上传照片进行人脸测绘而被起诉。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7435334.shtml)
-9. [美国财政部将22艘船只列入与伊朗相关的制裁名单。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7437306.shtml)
-10. [微软股价跌幅扩大至1.2%。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4211812.shtml)
-11. [据三名知情人士透露，沙特国有航司沙特航空的一架飞机在利雅得机场遭火灾严重损毁。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7454579.shtml)
-12. [大英博物馆回应两件中国瓷器受损：瓷碗从展架掉落砸到瓷盒 已交修复团队](https://news.sina.com.cn/w/2026-10-08/doc-iniuphpf7663639.shtml)
-13. [OpenAI近期告知投资者，截至9月底，该公司年化营收已接近500亿美元，远低于此前暗示的700亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432825.shtml)
-14. [美联储官员穆萨莱姆：当前经济走势相当强劲，美联储能做的最优举措就是压低通胀。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4229730.shtml)
-15. [特朗普就伊朗问题发表言论后，美国国债收益率随油价下跌。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7420460.shtml)
-16. [欧盟天然气协调小组：欧盟基础设施有能力承载更多液化天然气（LNG）进口，可抵消库存水平偏低带来的缺口。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4189796.shtml)
-17. [美国财长贝森特：财政部正在切断德黑兰用于战争的资金来源。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4211474.shtml)
-18. [美联储穆萨莱姆：尚未预先判定美联储10月28日会议的决议结果。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7456971.shtml)
-19. [Southlight Services宣布与谷歌达成战略合作，将在北美地区提供Google Voice Carrier Link服务。Southlight Services现已成为Google Voic](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7449055.shtml)
-20. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
+6. [沙特一飞机据报在机场遭袭起火](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4124922.shtml)
+7. [美联储穆萨莱姆：金融状况已适度且有序收紧。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7462230.shtml)
+8. [美联储官员穆萨莱姆：名义收益率上行，部分原因是实际收益率受利率预期推动走高.](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4231548.shtml)
+9. [加拿大宣布对放射性药物领域进行新投资。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7444839.shtml)
+10. [欧洲头部金融科技独角兽Revolut CEO：计划在美国进行主要上市。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7423503.shtml)
+11. [委内瑞拉代理总统罗德里格斯表示，预计2026年第三季度经济将增长6.5%。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7461948.shtml)
+12. [SpaceXAI因利用用户上传照片进行人脸测绘而被起诉。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7435334.shtml)
+13. [委内瑞拉代总统罗德里格斯表示，委内瑞拉预计未来两年将获得来自公共和私人领域合计120亿美元的融资。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7465549.shtml)
+14. [大英博物馆回应两件中国瓷器受损：瓷碗从展架掉落砸到瓷盒 已交修复团队](https://news.sina.com.cn/w/2026-10-08/doc-iniuphpf7663639.shtml)
+15. [乌克兰总统泽连斯基：乌克兰团队将于周五在美国会见威特科夫和库什纳。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4231044.shtml)
+16. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
+17. [美联储官员穆萨莱姆：强劲的资本需求可能会使利率长期高于过往水平。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7460621.shtml)
+18. [美国财政部将22艘船只列入与伊朗相关的制裁名单。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7437306.shtml)
+19. [微软股价跌幅扩大至1.2%。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4211812.shtml)
+20. [据三名知情人士透露，沙特国有航司沙特航空的一架飞机在利雅得机场遭火灾严重损毁。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7454579.shtml)
 
 ## 财经热榜
 
