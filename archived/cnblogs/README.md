@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-08 11:18:28
+> 更新时间：2026-10-08 12:16:13
 
 ## 最新帖子
 
-1. [智慧档案室一体化环境管控：环境监测、设备联动、审计溯源一体化方案](https://www.cnblogs.com/huaweirongyao/p/23221426)
-2. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
-3. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
-4. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
-5. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
-6. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
-7. [vllm企业私有化大模型部署实战指南](https://www.cnblogs.com/aifrontiers/p/23167708)
-8. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
-9. [ThingsBoard 集群的核心逻辑源码分析](https://www.cnblogs.com/dddy/p/22405537)
-10. [【笔记】生成式模型的注意力计算-矩阵视角](https://www.cnblogs.com/cswuyg/p/23217280)
-11. [从手动检查到自动监控：一个数据质量工作流的实现](https://www.cnblogs.com/wang_yb/p/23216940)
-12. [并发编程（八）：读写锁——从语言规则到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23216594)
-13. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
-14. [计算机视觉：让板子从“看见”到“看懂”](https://www.cnblogs.com/zw-awa/p/23216090)
-15. [学习NOTE番外 1——浅谈逆元](https://www.cnblogs.com/T-M-T/p/23215740)
-16. [单模型执行器 与 OpenCode v2配置迁移 笔记](https://www.cnblogs.com/znlgis/p/23215173)
-17. [瞬维AI落地经验：AI Agent工具调用准确率怎么提](https://www.cnblogs.com/lusihui/p/23214754)
-18. [go语言中的只读/只写管道,多路复用select,捕获协程异常](https://www.cnblogs.com/ishoulgodo/p/23214734)
-19. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
-20. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
+1. [从 Agent Loop 到沙盒边界：一次讲清楚 Codex 的八大功能](https://www.cnblogs.com/codigger/p/23221912)
+2. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
+3. [智慧档案室一体化环境管控：环境监测、设备联动、审计溯源一体化方案](https://www.cnblogs.com/huaweirongyao/p/23221426)
+4. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
+5. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
+6. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
+7. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
+8. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
+9. [vllm企业私有化大模型部署实战指南](https://www.cnblogs.com/aifrontiers/p/23167708)
+10. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
+11. [ThingsBoard 集群的核心逻辑源码分析](https://www.cnblogs.com/dddy/p/22405537)
+12. [【笔记】生成式模型的注意力计算-矩阵视角](https://www.cnblogs.com/cswuyg/p/23217280)
+13. [从手动检查到自动监控：一个数据质量工作流的实现](https://www.cnblogs.com/wang_yb/p/23216940)
+14. [并发编程（八）：读写锁——从语言规则到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23216594)
+15. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
+16. [计算机视觉：让板子从“看见”到“看懂”](https://www.cnblogs.com/zw-awa/p/23216090)
+17. [学习NOTE番外 1——浅谈逆元](https://www.cnblogs.com/T-M-T/p/23215740)
+18. [单模型执行器 与 OpenCode v2配置迁移 笔记](https://www.cnblogs.com/znlgis/p/23215173)
+19. [瞬维AI落地经验：AI Agent工具调用准确率怎么提](https://www.cnblogs.com/lusihui/p/23214754)
+20. [go语言中的只读/只写管道,多路复用select,捕获协程异常](https://www.cnblogs.com/ishoulgodo/p/23214734)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
 2. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
-3. [把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路](https://www.cnblogs.com/codigger/p/23206844)
-4. [AI 啃 DWG图纸：从二维到三维](https://www.cnblogs.com/znlgis/p/23207092)
-5. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
-6. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
+3. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
+4. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
+5. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
+6. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
