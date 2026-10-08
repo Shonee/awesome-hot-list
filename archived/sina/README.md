@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 07:12:58
+> 更新时间：2026-10-08 08:35:34
 
 ## 新闻热榜
 
@@ -37,13 +37,13 @@
 8. [美联储会议纪要：纽约联储代表财政部干预了外汇市场。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7838733.shtml)
 9. [特朗普谈与普京的通话：我已经安排好通话了。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4602075.shtml)
 10. [美“龙”飞船载4名宇航员脱离空间站 启程返回地球](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4620016.shtml)
-11. [SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7936223.shtml)
-12. [标普道琼斯指数：2026年9月对IBOX固定收益指数的国家分类审核结果为无调整。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7770352.shtml)
-13. [英伟达和美光即将主宰本轮财报季](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7944745.shtml)
-14. [两名欧盟外交官表示，国际能源署理事会将于当地时间今日13时召开非正式会议，讨论石油与柴油储备释放提案。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4955355.shtml)
-15. [突尼斯央行表示，维持关键利率在 7% 不变。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4624414.shtml)
-16. [空客：订单包含 4 架 A350-900 宽体飞机以及 6 架 A321neo 单通道飞机。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4709880.shtml)
-17. [美国 10 年期国债拍卖后收益率涨幅收窄，最新上涨 1.91 个基点，报 5.29%。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4720208.shtml)
-18. [FOMC会议纪要显示 官员们敦促为市场压力制定预案](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4622627.shtml)
-19. [美联储调查：一年期通胀预期升至 2023 年 5 月以来最高水平](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7947544.shtml)
-20. [特朗普：加拿大有意达成协议，但我方并不满意。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4605687.shtml)
+11. [亚马逊创始人杰夫·贝索斯：蓝色起源未来将进行IPO。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunezm7657543.shtml)
+12. [节后首日20只产品亮相，10月新基发行迎小高峰](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunezm7668120.shtml)
+13. [SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7936223.shtml)
+14. [英伟达和美光即将主宰本轮财报季](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7944745.shtml)
+15. [标普道琼斯指数：2026年9月对IBOX固定收益指数的国家分类审核结果为无调整。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7770352.shtml)
+16. [美联储调查：一年期通胀预期升至 2023 年 5 月以来最高水平](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7947544.shtml)
+17. [两名欧盟外交官表示，国际能源署理事会将于当地时间今日13时召开非正式会议，讨论石油与柴油储备释放提案。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4955355.shtml)
+18. [突尼斯央行表示，维持关键利率在 7% 不变。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4624414.shtml)
+19. [空客：订单包含 4 架 A350-900 宽体飞机以及 6 架 A321neo 单通道飞机。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4709880.shtml)
+20. [美国 10 年期国债拍卖后收益率涨幅收窄，最新上涨 1.91 个基点，报 5.29%。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4720208.shtml)
