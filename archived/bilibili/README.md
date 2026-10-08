@@ -1,6 +1,6 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-10-08 15:31:56
+> 更新时间：2026-10-08 16:19:44
 
 ## 热门搜索
 
@@ -8,22 +8,22 @@
 2. [驻日美军涉嫌抢劫杀人案细节曝光](https://search.bilibili.com/all?keyword=%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E6%B6%89%E5%AB%8C%E6%8A%A2%E5%8A%AB%E6%9D%80%E4%BA%BA%E6%A1%88%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89)
 3. [杨瀚森二年级首秀得6分](https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E4%BA%8C%E5%B9%B4%E7%BA%A7%E9%A6%96%E7%A7%80%E5%BE%976%E5%88%86)
 4. [周启豪3-0张本智和](https://search.bilibili.com/all?keyword=%E5%91%A8%E5%90%AF%E8%B1%AA3-0%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
-5. [F1史上首场新加坡雨战回顾](https://search.bilibili.com/all?keyword=F1%E5%8F%B2%E4%B8%8A%E9%A6%96%E5%9C%BA%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%9B%A8%E6%88%98%E5%9B%9E%E9%A1%BE)
-6. [宋雨琦主打曲MV](https://search.bilibili.com/all?keyword=%E5%AE%8B%E9%9B%A8%E7%90%A6%E4%B8%BB%E6%89%93%E6%9B%B2MV)
+5. [宋雨琦主打曲MV](https://search.bilibili.com/all?keyword=%E5%AE%8B%E9%9B%A8%E7%90%A6%E4%B8%BB%E6%89%93%E6%9B%B2MV)
+6. [本科与硕士对工作感受有何不同](https://search.bilibili.com/all?keyword=%E6%9C%AC%E7%A7%91%E4%B8%8E%E7%A1%95%E5%A3%AB%E5%AF%B9%E5%B7%A5%E4%BD%9C%E6%84%9F%E5%8F%97%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C)
 7. [Haiku5.5能力基准测评](https://search.bilibili.com/all?keyword=Haiku5.5%E8%83%BD%E5%8A%9B%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%84)
-8. [分子为什么分左右手](https://search.bilibili.com/all?keyword=%E5%88%86%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E5%B7%A6%E5%8F%B3%E6%89%8B)
-9. [真实解说阿根廷3-0贝宁](https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%A7%A3%E8%AF%B4%E9%98%BF%E6%A0%B9%E5%BB%B73-0%E8%B4%9D%E5%AE%81)
+8. [国庆情未了](https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%83%85%E6%9C%AA%E4%BA%86)
+9. [无量环境下警惕新股泡沫](https://search.bilibili.com/all?keyword=%E6%97%A0%E9%87%8F%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%AD%A6%E6%83%95%E6%96%B0%E8%82%A1%E6%B3%A1%E6%B2%AB)
 10. [高启强世界巡演](https://search.bilibili.com/all?keyword=%E9%AB%98%E5%90%AF%E5%BC%BA%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94)
 11. [原神过场动画生与死的流速](https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%E7%94%9F%E4%B8%8E%E6%AD%BB%E7%9A%84%E6%B5%81%E9%80%9F)
-12. [我国科学家研制成功核光钟](https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%88%B6%E6%88%90%E5%8A%9F%E6%A0%B8%E5%85%89%E9%92%9F)
-13. [OpenAI的722篇论文含金量如何](https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95)
-14. [非洲二手市场找到中国高中校服](https://search.bilibili.com/all?keyword=%E9%9D%9E%E6%B4%B2%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E6%89%BE%E5%88%B0%E4%B8%AD%E5%9B%BD%E9%AB%98%E4%B8%AD%E6%A0%A1%E6%9C%8D)
-15. [CS2教练登场EPL表演赛](https://search.bilibili.com/all?keyword=CS2%E6%95%99%E7%BB%83%E7%99%BB%E5%9C%BAEPL%E8%A1%A8%E6%BC%94%E8%B5%9B)
-16. [以醉之名](https://search.bilibili.com/all?keyword=%E4%BB%A5%E9%86%89%E4%B9%8B%E5%90%8D)
-17. [终末地汤汤EP一诺为家](https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%B1%A4%E6%B1%A4EP%E4%B8%80%E8%AF%BA%E4%B8%BA%E5%AE%B6)
-18. [降息加息为何都救不了日元](https://search.bilibili.com/all?keyword=%E9%99%8D%E6%81%AF%E5%8A%A0%E6%81%AF%E4%B8%BA%E4%BD%95%E9%83%BD%E6%95%91%E4%B8%8D%E4%BA%86%E6%97%A5%E5%85%83)
-19. [国庆出国玩的你belike](https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E5%87%BA%E5%9B%BD%E7%8E%A9%E7%9A%84%E4%BD%A0belike)
-20. [Claude Haiku5.5发布](https://search.bilibili.com/all?keyword=Claude%20Haiku5.5%E5%8F%91%E5%B8%83)
+12. [蒯曼爆冷止步16强](https://search.bilibili.com/all?keyword=%E8%92%AF%E6%9B%BC%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A516%E5%BC%BA)
+13. [乒协抵制极端球迷越界行为声明](https://search.bilibili.com/all?keyword=%E4%B9%92%E5%8D%8F%E6%8A%B5%E5%88%B6%E6%9E%81%E7%AB%AF%E7%90%83%E8%BF%B7%E8%B6%8A%E7%95%8C%E8%A1%8C%E4%B8%BA%E5%A3%B0%E6%98%8E)
+14. [如来三界巡演](https://search.bilibili.com/all?keyword=%E5%A6%82%E6%9D%A5%E4%B8%89%E7%95%8C%E5%B7%A1%E6%BC%94)
+15. [UP主带邓超当一天剑客](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E9%82%93%E8%B6%85%E5%BD%93%E4%B8%80%E5%A4%A9%E5%89%91%E5%AE%A2)
+16. [不烧心的国庆作业我不写](https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%83%A7%E5%BF%83%E7%9A%84%E5%9B%BD%E5%BA%86%E4%BD%9C%E4%B8%9A%E6%88%91%E4%B8%8D%E5%86%99)
+17. [Claude Haiku5.5发布](https://search.bilibili.com/all?keyword=Claude%20Haiku5.5%E5%8F%91%E5%B8%83)
+18. [国庆热梗大盘点](https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E7%83%AD%E6%A2%97%E5%A4%A7%E7%9B%98%E7%82%B9)
+19. [UP主写出了能拉丝的字](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%86%99%E5%87%BA%E4%BA%86%E8%83%BD%E6%8B%89%E4%B8%9D%E7%9A%84%E5%AD%97)
+20. [阿森纳与阿尔特塔完成续约](https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B3%E4%B8%8E%E9%98%BF%E5%B0%94%E7%89%B9%E5%A1%94%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6)
 
 ## 全站热门视频
 
@@ -69,14 +69,14 @@
 40. [经典再续！盘点《植物大战僵尸2》170 个彩蛋和细节！](https://b23.tv/BV138pM6NE8g)
 41. [【完整版】纪录片《缅北电诈覆灭纪实》第一集《利剑出鞘》](https://b23.tv/BV1hQHW63EMc)
 42. [如果开心麻花拍《火影忍者》【AI全民制作人】](https://b23.tv/BV17SHC65EUc)
-43. [【漫士】为了抓住幽灵，人类在南极挖了1立方公里的冰](https://b23.tv/BV1ANpM6HEHU)
-44. [烧 心 大 赛 ！【AI全民制作人】](https://b23.tv/BV1xNH46gEkv)
-45. [对蒲公英使出头槌](https://b23.tv/BV1sVpA66EH1)
-46. [铸剑大师！！！四千多个亿，这辈子能都花不完](https://b23.tv/BV19gpw6XE95)
-47. [一部还可以的烂片！《生化危机：爆发夜》！](https://b23.tv/BV1mXHk6pEK5)
-48. [老师太显小](https://b23.tv/BV1xaHC6dE98)
-49. [癫狂三角龙 VS 世界最强昆虫](https://b23.tv/BV1t5pu6PEov)
-50. [冰甲+雾行联动技巧让张飞直接起飞！！！](https://b23.tv/BV1DYHL6HEzU)
+43. [烧 心 大 赛 ！【AI全民制作人】](https://b23.tv/BV1xNH46gEkv)
+44. [对蒲公英使出头槌](https://b23.tv/BV1sVpA66EH1)
+45. [铸剑大师！！！四千多个亿，这辈子能都花不完](https://b23.tv/BV19gpw6XE95)
+46. [一部还可以的烂片！《生化危机：爆发夜》！](https://b23.tv/BV1mXHk6pEK5)
+47. [老师太显小](https://b23.tv/BV1xaHC6dE98)
+48. [癫狂三角龙 VS 世界最强昆虫](https://b23.tv/BV1t5pu6PEov)
+49. [冰甲+雾行联动技巧让张飞直接起飞！！！](https://b23.tv/BV1DYHL6HEzU)
+50. [假装找算命先生借寿，看看是什么反应](https://b23.tv/BV1rBpw6eERq)
 
 ## 视频排行榜
 
