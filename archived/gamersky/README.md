@@ -1,11 +1,11 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-08 13:14:57
+> 更新时间：2026-10-08 14:24:20
 
 ## 热点资讯排行
 
-1. [穿上裤子不认人 《巫师3》新手又给凯拉整死了](https://www.gamersky.com/news/202610/2222038.shtml)
-2. [《永恒之塔2》捏脸遭萝莉控吐槽:最小都是C罩杯 太大](https://www.gamersky.com/news/202610/2222563.shtml)
+1. [《永恒之塔2》捏脸遭萝莉控吐槽:最小都是C罩杯 太大](https://www.gamersky.com/news/202610/2222563.shtml)
+2. [穿上裤子不认人 《巫师3》新手又给凯拉整死了](https://www.gamersky.com/news/202610/2222038.shtml)
 3. [小岛秀夫绝版独占神作PC版终于要来了！60帧以上](https://www.gamersky.com/news/202610/2221311.shtml)
 4. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 5. [《刺客信条：Hexe》大量剧情和角色泄露！摒弃RPG 回归传统线性](https://www.gamersky.com/news/202610/2221672.shtml)
@@ -16,6 +16,6 @@
 10. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
 11. [官方上架6000元PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
 12. [装机猿直播给峰哥装机 价值仅1万2 徐静雨的1/10](https://www.gamersky.com/hardware/202610/2222121.shtml)
-13. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)
-14. [15000块！新掌机性能和价格都离谱 玩黑猴可百帧](https://www.gamersky.com/news/202610/2222781.shtml)
+13. [15000块！新掌机性能和价格都离谱 玩黑猴可百帧](https://www.gamersky.com/news/202610/2222781.shtml)
+14. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)
 15. [PS6基本完蛋了！知名舅舅党感到绝望：索尼毁了一切](https://www.gamersky.com/news/202610/2222674.shtml)
