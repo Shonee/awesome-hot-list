@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-09 04:14:23
+> 更新时间：2026-10-09 05:40:07
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [尊界汽车：将优化部件设计 为已交付用户提供免费升级选择](https://readhub.cn/topic/8x3yGQcLswF?tab=daily)
 10. [小鹏 Robotaxi 正式定名「小鹏悠游」](https://readhub.cn/topic/8x3D4nHUlXb?tab=daily)
 11. [Claude 上线简繁体中文界面 产品菜单中文化官方尚未官宣](https://readhub.cn/topic/8x3COTbhVYe?tab=daily)
-12. [江淮汽车盘中跌停](https://readhub.cn/topic/8x3EVFEsanc?tab=daily)
-13. [徐直军回应美国同行呼吁放缓 AI 开发：中国需加快 AI 模型发展](https://readhub.cn/topic/8x1q2Vgisdy?tab=daily)
-14. [博通为与 OpenAI 共研定制 AI 芯片寻求超 500 亿美元融资](https://readhub.cn/topic/8x2qvF8SmDO?tab=daily)
-15. [谷歌调整 Gemini 订阅策略：10 月 9 日起免费版仅留 Flash-Lite，付费阶梯进一步拉开](https://readhub.cn/topic/8x384ik7vnP?tab=daily)
-16. [消息称三星手机 2026 年 Q4 最高减产 30% 卖出去也不赚钱](https://readhub.cn/topic/8x3OWGkcqaV?tab=daily)
-17. [德国搜索引擎 Ecosia 押注中国开源 AI 模型](https://readhub.cn/topic/8x3YWVRMjUz?tab=daily)
-18. [华为 Pura 90 Pro 系列主摄及外挂式长焦系统由欧菲光供货](https://readhub.cn/topic/8x3RjJ2FcLa?tab=daily)
-19. [欧莱雅陷滑石粉相关诉讼，中国区回应在售产品符合国标](https://readhub.cn/topic/8x3xu71UKkC?tab=daily)
-20. [小米澎程首销月锁单进展公布：上市 30 天锁单超 7 万台](https://readhub.cn/topic/8x3h5NU3YN1?tab=daily)
+12. [徐直军回应美国同行呼吁放缓 AI 开发：中国需加快 AI 模型发展](https://readhub.cn/topic/8x1q2Vgisdy?tab=daily)
+13. [江淮汽车盘中跌停](https://readhub.cn/topic/8x3EVFEsanc?tab=daily)
+14. [谷歌调整 Gemini 订阅策略：10 月 9 日起免费版仅留 Flash-Lite，付费阶梯进一步拉开](https://readhub.cn/topic/8x384ik7vnP?tab=daily)
+15. [消息称三星手机 2026 年 Q4 最高减产 30% 卖出去也不赚钱](https://readhub.cn/topic/8x3OWGkcqaV?tab=daily)
+16. [德国搜索引擎 Ecosia 押注中国开源 AI 模型](https://readhub.cn/topic/8x3YWVRMjUz?tab=daily)
+17. [华为 Pura 90 Pro 系列主摄及外挂式长焦系统由欧菲光供货](https://readhub.cn/topic/8x3RjJ2FcLa?tab=daily)
+18. [欧莱雅陷滑石粉相关诉讼，中国区回应在售产品符合国标](https://readhub.cn/topic/8x3xu71UKkC?tab=daily)
+19. [小米澎程首销月锁单进展公布：上市 30 天锁单超 7 万台](https://readhub.cn/topic/8x3h5NU3YN1?tab=daily)
+20. [新就业形态劳动者权益保障办法公开征求意见](https://readhub.cn/topic/8x3bjniUMcb?tab=daily)
 21. [谷歌开源多模态嵌入模型 EmbeddingGemma 2 可离线多模态检索](https://readhub.cn/topic/8x3D8fzuGWE?tab=daily)
-22. [新就业形态劳动者权益保障办法公开征求意见](https://readhub.cn/topic/8x3bjniUMcb?tab=daily)
-23. [懂车帝称网传暴力测试是谣言](https://readhub.cn/topic/8x42YRGUv9F?tab=daily)
-24. [谷歌云推出 Gemini Agent，谷歌美股盘前涨超 1%](https://readhub.cn/topic/8x3uJfgiEIC?tab=daily)
+22. [懂车帝称网传暴力测试是谣言](https://readhub.cn/topic/8x42YRGUv9F?tab=daily)
+23. [谷歌云推出 Gemini Agent，谷歌美股盘前涨超 1%](https://readhub.cn/topic/8x3uJfgiEIC?tab=daily)
+24. [网传尊界刹车踏板安全疑虑引发关注 鸿蒙智行门店回应将联合测评公开数据](https://readhub.cn/topic/8x3rorJ5zlY?tab=daily)
 25. [多家在港中资券商调整 内地 IP 仅可卖出、出金](https://readhub.cn/topic/8x39YrquVTS?tab=daily)
 26. [马斯克：Grok Bot 将按任务择优调用 Claude 等第三方模型](https://readhub.cn/topic/8x33mkzwaJu?tab=daily)
 27. [红杉中国完成对佩尔科技控股收购](https://readhub.cn/topic/8x33mqpHwu4?tab=daily)
 28. [苹果要求开发者明年 4 月起新 App 及更新需适配折叠屏 iPhone](https://readhub.cn/topic/8x3yFFfj3U8?tab=daily)
-29. [网传尊界刹车踏板安全疑虑引发关注 鸿蒙智行门店回应将联合测评公开数据](https://readhub.cn/topic/8x3rorJ5zlY?tab=daily)
-30. [叮咚买菜旗下「有豆志」完善全产业链布局 累计销售额破 15 亿](https://readhub.cn/topic/8x3I5wmmIsM?tab=daily)
+29. [叮咚买菜旗下「有豆志」完善全产业链布局 累计销售额破 15 亿](https://readhub.cn/topic/8x3I5wmmIsM?tab=daily)
+30. [海外开源模型重新提速：Mistral、「美版 DeepSeek」同时亮牌](https://readhub.cn/topic/8x3GfhK1nYx?tab=daily)
 
 ## 每日早报
 
