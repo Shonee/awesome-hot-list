@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-08 10:25:43
+> 更新时间：2026-10-08 11:18:57
 
 ## 最有料热点
 
@@ -31,6 +31,5 @@
 25. [面基翻车现场,吧友亲身踩雷](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366335&topic_name=%E9%9D%A2%E5%9F%BA%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%2C%E5%90%A7%E5%8F%8B%E4%BA%B2%E8%BA%AB%E8%B8%A9%E9%9B%B7)
 26. [真实经历,日结打工人的日常](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366306&topic_name=%E7%9C%9F%E5%AE%9E%E7%BB%8F%E5%8E%86%2C%E6%97%A5%E7%BB%93%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E6%97%A5%E5%B8%B8)
 27. [转转神秘眼镜女称被造黄谣](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366302&topic_name=%E8%BD%AC%E8%BD%AC%E7%A5%9E%E7%A7%98%E7%9C%BC%E9%95%9C%E5%A5%B3%E7%A7%B0%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3)
-28. [硬核!吧友手搓迷你防空车模型](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366315&topic_name=%E7%A1%AC%E6%A0%B8%21%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93%E8%BF%B7%E4%BD%A0%E9%98%B2%E7%A9%BA%E8%BD%A6%E6%A8%A1%E5%9E%8B)
-29. [十一在路上!各地吧友晒实况](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366277&topic_name=%E5%8D%81%E4%B8%80%E5%9C%A8%E8%B7%AF%E4%B8%8A%21%E5%90%84%E5%9C%B0%E5%90%A7%E5%8F%8B%E6%99%92%E5%AE%9E%E5%86%B5)
-30. [撒糖!吧友国庆奔现日记](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366281&topic_name=%E6%92%92%E7%B3%96%21%E5%90%A7%E5%8F%8B%E5%9B%BD%E5%BA%86%E5%A5%94%E7%8E%B0%E6%97%A5%E8%AE%B0)
+28. [十一在路上!各地吧友晒实况](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366277&topic_name=%E5%8D%81%E4%B8%80%E5%9C%A8%E8%B7%AF%E4%B8%8A%21%E5%90%84%E5%9C%B0%E5%90%A7%E5%8F%8B%E6%99%92%E5%AE%9E%E5%86%B5)
+29. [硬核!吧友手搓迷你防空车模型](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366315&topic_name=%E7%A1%AC%E6%A0%B8%21%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93%E8%BF%B7%E4%BD%A0%E9%98%B2%E7%A9%BA%E8%BD%A6%E6%A8%A1%E5%9E%8B)

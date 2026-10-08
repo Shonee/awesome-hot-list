@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-08 10:26:11
+> 更新时间：2026-10-08 11:19:22
 
 ## 热门问题
 
@@ -25,8 +25,8 @@
 19. [Parse XML file with namespaces using SimpleXML](https://stackoverflow.com/questions/80008519/parse-xml-file-with-namespaces-using-simplexml)
 20. [Creating a IntegrityError for testing purposes](https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes)
 21. [How can I isolate multiple license-validation strategies behind one interface in a C++ application?](https://stackoverflow.com/questions/80008467/how-can-i-isolate-multiple-license-validation-strategies-behind-one-interface-in)
-22. [How can a wxWidgets application detect that the system clock was moved backwards between runs?](https://stackoverflow.com/questions/80008492/how-can-a-wxwidgets-application-detect-that-the-system-clock-was-moved-backwards)
-23. [How to code temporal auto-correlation for irregular-spaced observational data in glmmTMB?](https://stackoverflow.com/questions/80008500/how-to-code-temporal-auto-correlation-for-irregular-spaced-observational-data-in)
+22. [How to code temporal auto-correlation for irregular-spaced observational data in glmmTMB?](https://stackoverflow.com/questions/80008500/how-to-code-temporal-auto-correlation-for-irregular-spaced-observational-data-in)
+23. [How can a wxWidgets application detect that the system clock was moved backwards between runs?](https://stackoverflow.com/questions/80008492/how-can-a-wxwidgets-application-detect-that-the-system-clock-was-moved-backwards)
 24. [Flask Can't Call Python Function From HTML Button Using 'onclick'](https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick)
 25. [ASP.NET Core API authentication: Should I reuse the Microsoft Entra ID access token or use my own custom JWT?](https://stackoverflow.com/questions/80008461/asp-net-core-api-authentication-should-i-reuse-the-microsoft-entra-id-access-to)
 26. [Webflow still loads Google Fonts even after switching to a custom uploaded font](https://stackoverflow.com/questions/80008506/webflow-still-loads-google-fonts-even-after-switching-to-a-custom-uploaded-font)
@@ -46,11 +46,11 @@
 40. [Required workflow not triggered by on: pull_request: types: edited](https://stackoverflow.com/questions/80008422/required-workflow-not-triggered-by-on-pull-request-types-edited)
 41. [SourceTree. fatal: protocol error: bad line length character: | Pa](https://stackoverflow.com/questions/80008423/sourcetree-fatal-protocol-error-bad-line-length-character-pa)
 42. [concept about AJAX](https://stackoverflow.com/questions/80008426/concept-about-ajax)
-43. [@uiw/react-codemirror widget text selection not working correctly](https://stackoverflow.com/questions/80008409/uiw-react-codemirror-widget-text-selection-not-working-correctly)
-44. [C++ has pointers, smart pointers and references for indirect access, so what is std::indirect?](https://stackoverflow.com/questions/80008249/c-has-pointers-smart-pointers-and-references-for-indirect-access-so-what-is)
+43. [C++ has pointers, smart pointers and references for indirect access, so what is std::indirect?](https://stackoverflow.com/questions/80008249/c-has-pointers-smart-pointers-and-references-for-indirect-access-so-what-is)
+44. [@uiw/react-codemirror widget text selection not working correctly](https://stackoverflow.com/questions/80008409/uiw-react-codemirror-widget-text-selection-not-working-correctly)
 45. [Do PidLidAppointmentSequence and PidLidOwnerCriticalChange change when an attendee edits their copy of an Outlook meeting?](https://stackoverflow.com/questions/80008465/do-pidlidappointmentsequence-and-pidlidownercriticalchange-change-when-an-attend)
 46. [Why is the content of a <style> element emptied (WebI)?](https://stackoverflow.com/questions/80008413/why-is-the-content-of-a-style-element-emptied-webi)
 47. [How to read the .i file](https://stackoverflow.com/questions/80008400/how-to-read-the-i-file)
-48. [Generating a TZSP stream on an Android device](https://stackoverflow.com/questions/80008415/generating-a-tzsp-stream-on-an-android-device)
-49. [VBA macro ms word - change photo caption based on reference within file name](https://stackoverflow.com/questions/80008361/vba-macro-ms-word-change-photo-caption-based-on-reference-within-file-name)
+48. [VBA macro ms word - change photo caption based on reference within file name](https://stackoverflow.com/questions/80008361/vba-macro-ms-word-change-photo-caption-based-on-reference-within-file-name)
+49. [Generating a TZSP stream on an Android device](https://stackoverflow.com/questions/80008415/generating-a-tzsp-stream-on-an-android-device)
 50. ["ng add @angular/material" command fails with "Error: ERR_PNPM_ADDING_TO_ROOT"](https://stackoverflow.com/questions/80008328/ng-add-angular-material-command-fails-with-error-err-pnpm-adding-to-root)
