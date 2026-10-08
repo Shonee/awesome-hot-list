@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 09:33:21
+> 更新时间：2026-10-08 10:25:23
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
-2. [秘鲁总统藤森庆子：秘鲁将迅速驱逐违法外国人。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7778826.shtml)
-3. [10月8日收盘：三大指数收跌 10年期美债收益率创20年新高 银行与科技股承压](https://finance.sina.com.cn/world/2026-10-08/doc-iniumytv4173772.shtml)
-4. [特朗普谈及频繁赴得州的原因：要确保帕克斯顿胜选。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4623275.shtml)
-5. [特朗普夸赞昨日股市表现。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4721670.shtml)
-6. [美军称伊朗对霍尔木兹海峡拥有“完全控制权”的说法不实](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7659070.shtml)
-7. [特朗普重申战后油价将会下降。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7831395.shtml)
-8. [市场消息：特朗普将于周六前往田纳西州克拉克斯维尔举行集会。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7951287.shtml)
-9. [美国财政部：在最新双周报告期内，投资基金买入323.12亿美元2033年9月30日到期的7年期国债，上月买入规模为305.69亿美元。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4631149.shtml)
-10. [美联储会议纪要：纽约联储代表财政部干预了外汇市场。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7838733.shtml)
-11. [特朗普谈与普京的通话：我已经安排好通话了。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4602075.shtml)
-12. [美“龙”飞船载4名宇航员脱离空间站 启程返回地球](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4620016.shtml)
-13. [亚马逊创始人杰夫·贝索斯：蓝色起源未来将进行IPO。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunezm7657543.shtml)
-14. [节后首日20只产品亮相，10月新基发行迎小高峰](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunezm7668120.shtml)
-15. [SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7936223.shtml)
-16. [英伟达和美光即将主宰本轮财报季](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7944745.shtml)
-17. [美联储纪要显示9月升息获一致支持 多数与会者倾向年内再加一次](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumumr7850540.shtml)
-18. [标普道琼斯指数：2026年9月对IBOX固定收益指数的国家分类审核结果为无调整。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7770352.shtml)
-19. [美联储调查：一年期通胀预期升至 2023 年 5 月以来最高水平](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7947544.shtml)
-20. [微软称新旗舰笔记本搭载英伟达芯片 部分AI任务表现优于苹果MacBook](https://finance.sina.com.cn/world/2026-10-08/doc-iniumumr7867136.shtml)
+1. [操盘必读：影响股市利好或利空消息_2026年10月8日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-08/doc-iniunezp4460356.shtml)
+2. [美军称伊朗对霍尔木兹海峡拥有“完全控制权”的说法不实](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7659070.shtml)
+3. [又“热”起来了！探访国庆假期北京楼市：售楼处、样板间，都要排号](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezq5356489.shtml)
+4. [人民日报：中国市场的稀缺性从何来](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezt4058219.shtml)
+5. [假期后A股有望“量价齐升” 机构：科技主线或重新占优](https://finance.sina.com.cn/roll/2026-10-08/doc-iniumytr4530975.shtml)
+6. [美国拟就国际学生留美工作征收高额费用](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumytr4549949.shtml)
+7. [10月8日收盘：三大指数收跌 10年期美债收益率创20年新高 银行与科技股承压](https://finance.sina.com.cn/world/2026-10-08/doc-iniumytv4173772.shtml)
+8. [股海导航_2026年10月8日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-08/doc-iniunezq5351468.shtml)
+9. [美联储会议纪要：加息理由存在分歧，年内或将再上调利率一次](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7683061.shtml)
+10. [清晨，集体跳水！美联储，释放重磅信号！](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezp4468562.shtml)
+11. [美国CIA前官员电诈近两亿美元，家中搜出金条美钞装满11个箱子](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumx4262821.shtml)
+12. [霍尔木兹海峡，大消息！沙特24小时发动156次袭击！事关美联储加息，重磅公布！乌克兰正研究停火机制](https://finance.sina.com.cn/money/future/fmnews/2026-10-08/doc-iniunezp4462044.shtml)
+13. [最高股息率近14%！节后A股“红包雨”来了](https://finance.sina.com.cn/stock/bxjj/2026-10-08/doc-iniunezm7666207.shtml)
+14. [财经早报丨特朗普：对伊朗的军事行动“必须收尾了”，央行连续23个月增持黄金丨2026年10月8日](https://finance.sina.com.cn/stock/y/2026-10-08/doc-iniunezp4467989.shtml)
+15. [四大证券报头版头条内容精华摘要_2026年10月8日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-08/doc-iniunezm7683059.shtml)
+16. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
+17. [秘鲁总统藤森庆子：秘鲁将迅速驱逐违法外国人。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7778826.shtml)
+18. [筹划重大资产重组，切入半导体领域！今起停牌](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7690404.shtml)
+19. [特朗普将于周四向马斯克颁发科学成就奖](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7862596.shtml)
+20. [伊朗高级官员：伊朗绝不会放弃铀浓缩权利](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumqcv4723166.shtml)

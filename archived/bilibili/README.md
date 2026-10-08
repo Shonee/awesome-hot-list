@@ -1,29 +1,29 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-10-08 09:32:48
+> 更新时间：2026-10-08 10:24:48
 
 ## 热门搜索
 
-1. [国庆出国玩的你belike](https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E5%87%BA%E5%9B%BD%E7%8E%A9%E7%9A%84%E4%BD%A0belike)
-2. [CS2教练登场EPL表演赛](https://search.bilibili.com/all?keyword=CS2%E6%95%99%E7%BB%83%E7%99%BB%E5%9C%BAEPL%E8%A1%A8%E6%BC%94%E8%B5%9B)
+1. [CS2教练登场EPL表演赛](https://search.bilibili.com/all?keyword=CS2%E6%95%99%E7%BB%83%E7%99%BB%E5%9C%BAEPL%E8%A1%A8%E6%BC%94%E8%B5%9B)
+2. [俄罗斯鼠疫事件有哪些疑点](https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E9%BC%A0%E7%96%AB%E4%BA%8B%E4%BB%B6%E6%9C%89%E5%93%AA%E4%BA%9B%E7%96%91%E7%82%B9)
 3. [世卫组织称俄疑似肺鼠疫风险较低](https://search.bilibili.com/all?keyword=%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E7%A7%B0%E4%BF%84%E7%96%91%E4%BC%BC%E8%82%BA%E9%BC%A0%E7%96%AB%E9%A3%8E%E9%99%A9%E8%BE%83%E4%BD%8E)
-4. [分子为什么分左右手](https://search.bilibili.com/all?keyword=%E5%88%86%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E5%B7%A6%E5%8F%B3%E6%89%8B)
-5. [Spirit战胜M80晋级淘汰赛](https://search.bilibili.com/all?keyword=Spirit%E6%88%98%E8%83%9CM80%E6%99%8B%E7%BA%A7%E6%B7%98%E6%B1%B0%E8%B5%9B)
-6. [韩国计划缩减或废除免兵役](https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%AE%A1%E5%88%92%E7%BC%A9%E5%87%8F%E6%88%96%E5%BA%9F%E9%99%A4%E5%85%8D%E5%85%B5%E5%BD%B9)
-7. [盗版发展史](https://search.bilibili.com/all?keyword=%E7%9B%97%E7%89%88%E5%8F%91%E5%B1%95%E5%8F%B2)
-8. [缅北电诈覆灭纪实之共筑天网](https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A6%86%E7%81%AD%E7%BA%AA%E5%AE%9E%E4%B9%8B%E5%85%B1%E7%AD%91%E5%A4%A9%E7%BD%91)
-9. [全国性大回暖来了](https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E6%80%A7%E5%A4%A7%E5%9B%9E%E6%9A%96%E6%9D%A5%E4%BA%86)
+4. [Spirit战胜M80晋级淘汰赛](https://search.bilibili.com/all?keyword=Spirit%E6%88%98%E8%83%9CM80%E6%99%8B%E7%BA%A7%E6%B7%98%E6%B1%B0%E8%B5%9B)
+5. [分子为什么分左右手](https://search.bilibili.com/all?keyword=%E5%88%86%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E5%B7%A6%E5%8F%B3%E6%89%8B)
+6. [缅北电诈覆灭纪实之共筑天网](https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A6%86%E7%81%AD%E7%BA%AA%E5%AE%9E%E4%B9%8B%E5%85%B1%E7%AD%91%E5%A4%A9%E7%BD%91)
+7. [潜伏吴站长世界巡演](https://search.bilibili.com/all?keyword=%E6%BD%9C%E4%BC%8F%E5%90%B4%E7%AB%99%E9%95%BF%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94)
+8. [如何在冰里探测幽灵粒子](https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%9C%A8%E5%86%B0%E9%87%8C%E6%8E%A2%E6%B5%8B%E5%B9%BD%E7%81%B5%E7%B2%92%E5%AD%90)
+9. [解析生化危机爆发夜中的新病毒](https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E4%B8%AD%E7%9A%84%E6%96%B0%E7%97%85%E6%AF%92)
 10. [南亚科技继续上调DRAM合同价](https://search.bilibili.com/all?keyword=%E5%8D%97%E4%BA%9A%E7%A7%91%E6%8A%80%E7%BB%A7%E7%BB%AD%E4%B8%8A%E8%B0%83DRAM%E5%90%88%E5%90%8C%E4%BB%B7)
-11. [Zuian美签未过能补救吗](https://search.bilibili.com/all?keyword=Zuian%E7%BE%8E%E7%AD%BE%E6%9C%AA%E8%BF%87%E8%83%BD%E8%A1%A5%E6%95%91%E5%90%97)
-12. [潜伏吴站长世界巡演](https://search.bilibili.com/all?keyword=%E6%BD%9C%E4%BC%8F%E5%90%B4%E7%AB%99%E9%95%BF%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94)
-13. [GAM FLY](https://search.bilibili.com/all?keyword=GAM%20FLY)
-14. [阿伟 你又在玩电动噢](https://search.bilibili.com/all?keyword=%E9%98%BF%E4%BC%9F%20%E4%BD%A0%E5%8F%88%E5%9C%A8%E7%8E%A9%E7%94%B5%E5%8A%A8%E5%99%A2)
-15. [盘点科学史上的光遗传整活实验](https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E7%A7%91%E5%AD%A6%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%85%89%E9%81%97%E4%BC%A0%E6%95%B4%E6%B4%BB%E5%AE%9E%E9%AA%8C)
-16. [不烧心的国庆作业我不写](https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%83%A7%E5%BF%83%E7%9A%84%E5%9B%BD%E5%BA%86%E4%BD%9C%E4%B8%9A%E6%88%91%E4%B8%8D%E5%86%99)
-17. [死锁会是MOBA游戏的新未来吗](https://search.bilibili.com/all?keyword=%E6%AD%BB%E9%94%81%E4%BC%9A%E6%98%AFMOBA%E6%B8%B8%E6%88%8F%E7%9A%84%E6%96%B0%E6%9C%AA%E6%9D%A5%E5%90%97)
-18. [UP主带邓超当一天剑客](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E9%82%93%E8%B6%85%E5%BD%93%E4%B8%80%E5%A4%A9%E5%89%91%E5%AE%A2)
-19. [缅北电诈覆灭纪实之犁庭扫穴](https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A6%86%E7%81%AD%E7%BA%AA%E5%AE%9E%E4%B9%8B%E7%8A%81%E5%BA%AD%E6%89%AB%E7%A9%B4)
-20. [王星被骗妙瓦底案细节完整披露](https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%98%9F%E8%A2%AB%E9%AA%97%E5%A6%99%E7%93%A6%E5%BA%95%E6%A1%88%E7%BB%86%E8%8A%82%E5%AE%8C%E6%95%B4%E6%8A%AB%E9%9C%B2)
+11. [国庆出国玩的你belike](https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E5%87%BA%E5%9B%BD%E7%8E%A9%E7%9A%84%E4%BD%A0belike)
+12. [盘点科学史上的光遗传整活实验](https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E7%A7%91%E5%AD%A6%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%85%89%E9%81%97%E4%BC%A0%E6%95%B4%E6%B4%BB%E5%AE%9E%E9%AA%8C)
+13. [缅北电诈覆灭纪实之犁庭扫穴](https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A6%86%E7%81%AD%E7%BA%AA%E5%AE%9E%E4%B9%8B%E7%8A%81%E5%BA%AD%E6%89%AB%E7%A9%B4)
+14. [阿森纳与阿尔特塔完成续约](https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B3%E4%B8%8E%E9%98%BF%E5%B0%94%E7%89%B9%E5%A1%94%E5%AE%8C%E6%88%90%E7%BB%AD%E7%BA%A6)
+15. [非洲二手市场找到中国高中校服](https://search.bilibili.com/all?keyword=%E9%9D%9E%E6%B4%B2%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E6%89%BE%E5%88%B0%E4%B8%AD%E5%9B%BD%E9%AB%98%E4%B8%AD%E6%A0%A1%E6%9C%8D)
+16. [韩国计划缩减或废除免兵役](https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%AE%A1%E5%88%92%E7%BC%A9%E5%87%8F%E6%88%96%E5%BA%9F%E9%99%A4%E5%85%8D%E5%85%B5%E5%BD%B9)
+17. [王星被骗妙瓦底案细节完整披露](https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%98%9F%E8%A2%AB%E9%AA%97%E5%A6%99%E7%93%A6%E5%BA%95%E6%A1%88%E7%BB%86%E8%8A%82%E5%AE%8C%E6%95%B4%E6%8A%AB%E9%9C%B2)
+18. [烧心大赛](https://search.bilibili.com/all?keyword=%E7%83%A7%E5%BF%83%E5%A4%A7%E8%B5%9B)
+19. [降息加息为何都救不了日元](https://search.bilibili.com/all?keyword=%E9%99%8D%E6%81%AF%E5%8A%A0%E6%81%AF%E4%B8%BA%E4%BD%95%E9%83%BD%E6%95%91%E4%B8%8D%E4%BA%86%E6%97%A5%E5%85%83)
+20. [阿伟 你又在玩电动噢](https://search.bilibili.com/all?keyword=%E9%98%BF%E4%BC%9F%20%E4%BD%A0%E5%8F%88%E5%9C%A8%E7%8E%A9%E7%94%B5%E5%8A%A8%E5%99%A2)
 
 ## 全站热门视频
 
@@ -33,12 +33,12 @@
 4. [【完整版】纪录片《缅北电诈覆灭纪实》第三集《共筑天网》](https://b23.tv/BV1EDHC6CEDJ)
 5. [吃了不烧心是什么梗【梗指南】](https://b23.tv/BV1N2pc6gErK)
 6. [⚡️如来 三界巡演⚡️【AI MV大赛】](https://b23.tv/BV1v2Ht6cERH)
-7. [完美谢幕！39岁梅西👑 1球2助结束21年蓝白生涯 阿根廷3比0贝宁](https://b23.tv/BV1aupu6qEXc)
-8. [反向旅游 陕西铜川！这次我要把铜川拍透…](https://b23.tv/BV1QuHx6mE4e)
-9. [【科学史】那些年，科学家用光遗传做的鬼畜实验……](https://b23.tv/BV1aMpu6MEdc)
-10. [对面牢玩家一整局都在偷塔，怎么把我的活干了](https://b23.tv/BV1aSHZ66ErJ)
-11. [泰森已经打不过他了 叫泰罗来吧](https://b23.tv/BV1nVao6kEas)
-12. [【春物语】我的婚后生活果然有问题 第2话：兼任讲师的“青春论”，果然没人当真。](https://b23.tv/BV1W3pc6PEht)
+7. [反向旅游 陕西铜川！这次我要把铜川拍透…](https://b23.tv/BV1QuHx6mE4e)
+8. [【科学史】那些年，科学家用光遗传做的鬼畜实验……](https://b23.tv/BV1aMpu6MEdc)
+9. [对面牢玩家一整局都在偷塔，怎么把我的活干了](https://b23.tv/BV1aSHZ66ErJ)
+10. [泰森已经打不过他了 叫泰罗来吧](https://b23.tv/BV1nVao6kEas)
+11. [【春物语】我的婚后生活果然有问题 第2话：兼任讲师的“青春论”，果然没人当真。](https://b23.tv/BV1W3pc6PEht)
+12. [完美谢幕！39岁梅西👑 1球2助结束21年蓝白生涯 阿根廷3比0贝宁](https://b23.tv/BV1aupu6qEXc)
 13. [带三个姑娘相亲，现场真炸裂，这就是乡村爱情故事吗？](https://b23.tv/BV1ZfHs6sEHf)
 14. [降息没用加息失败，日本彻底“货币战败”，是咋回事？](https://b23.tv/BV1uYpM6AEa1)
 15. [“幸好你玩游戏，明白这个视频的意义。”](https://b23.tv/BV1S1HJ6fE1G)
@@ -75,7 +75,7 @@
 46. [《人民的民亿》我总不至于连这点存款都没有吧！](https://b23.tv/BV1UPaS6vEBK)
 47. [【漫士】为了抓住幽灵，人类在南极挖了1立方公里的冰](https://b23.tv/BV1ANpM6HEHU)
 48. [铸剑大师！！！四千多个亿，这辈子能都花不完](https://b23.tv/BV19gpw6XE95)
-49. [《坠落男孩12》：偷卖老妈三金，只为出人头地成为赵高成为人上人！](https://b23.tv/BV1YtH46sEXz)
+49. [如果开心麻花拍《火影忍者》【AI全民制作人】](https://b23.tv/BV17SHC65EUc)
 50. [不烧心的作业我不写！！！](https://b23.tv/BV15Gpw6pEzh)
 
 ## 视频排行榜

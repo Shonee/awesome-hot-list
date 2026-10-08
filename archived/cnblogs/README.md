@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-08 09:33:02
+> 更新时间：2026-10-08 10:25:01
 
 ## 最新帖子
 
-1. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
-2. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
-3. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
-4. [vllm企业私有化大模型部署实战指南](https://www.cnblogs.com/aifrontiers/p/23167708)
-5. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
-6. [ThingsBoard 集群的核心逻辑源码分析](https://www.cnblogs.com/dddy/p/22405537)
-7. [【笔记】生成式模型的注意力计算-矩阵视角](https://www.cnblogs.com/cswuyg/p/23217280)
-8. [从手动检查到自动监控：一个数据质量工作流的实现](https://www.cnblogs.com/wang_yb/p/23216940)
-9. [并发编程（八）：读写锁——从语言规则到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23216594)
-10. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
-11. [计算机视觉：让板子从“看见”到“看懂”](https://www.cnblogs.com/zw-awa/p/23216090)
-12. [学习NOTE番外 1——浅谈逆元](https://www.cnblogs.com/T-M-T/p/23215740)
-13. [单模型执行器 与 OpenCode v2配置迁移 笔记](https://www.cnblogs.com/znlgis/p/23215173)
-14. [瞬维AI落地经验：AI Agent工具调用准确率怎么提](https://www.cnblogs.com/lusihui/p/23214754)
-15. [go语言中的只读/只写管道,多路复用select,捕获协程异常](https://www.cnblogs.com/ishoulgodo/p/23214734)
-16. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
-17. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
-18. [从 "调模型" 到 "搭系统"：Harness Engineering 凭什么成为 2026 年 AI 圈最热的新词](https://www.cnblogs.com/codigger/p/23213917)
-19. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
-20. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
+1. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
+2. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
+3. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
+4. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
+5. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
+6. [vllm企业私有化大模型部署实战指南](https://www.cnblogs.com/aifrontiers/p/23167708)
+7. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
+8. [ThingsBoard 集群的核心逻辑源码分析](https://www.cnblogs.com/dddy/p/22405537)
+9. [【笔记】生成式模型的注意力计算-矩阵视角](https://www.cnblogs.com/cswuyg/p/23217280)
+10. [从手动检查到自动监控：一个数据质量工作流的实现](https://www.cnblogs.com/wang_yb/p/23216940)
+11. [并发编程（八）：读写锁——从语言规则到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23216594)
+12. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
+13. [计算机视觉：让板子从“看见”到“看懂”](https://www.cnblogs.com/zw-awa/p/23216090)
+14. [学习NOTE番外 1——浅谈逆元](https://www.cnblogs.com/T-M-T/p/23215740)
+15. [单模型执行器 与 OpenCode v2配置迁移 笔记](https://www.cnblogs.com/znlgis/p/23215173)
+16. [瞬维AI落地经验：AI Agent工具调用准确率怎么提](https://www.cnblogs.com/lusihui/p/23214754)
+17. [go语言中的只读/只写管道,多路复用select,捕获协程异常](https://www.cnblogs.com/ishoulgodo/p/23214734)
+18. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
+19. [AI制作配图](https://www.cnblogs.com/Zhouyongh/p/23213758)
+20. [从 "调模型" 到 "搭系统"：Harness Engineering 凭什么成为 2026 年 AI 圈最热的新词](https://www.cnblogs.com/codigger/p/23213917)
 
 ## 精华帖子
 
