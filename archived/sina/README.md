@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 08:35:34
+> 更新时间：2026-10-08 09:33:21
 
 ## 新闻热榜
 
@@ -29,21 +29,21 @@
 
 1. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
 2. [秘鲁总统藤森庆子：秘鲁将迅速驱逐违法外国人。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7778826.shtml)
-3. [特朗普谈及频繁赴得州的原因：要确保帕克斯顿胜选。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4623275.shtml)
-4. [特朗普夸赞昨日股市表现。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4721670.shtml)
-5. [特朗普重申战后油价将会下降。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7831395.shtml)
-6. [市场消息：特朗普将于周六前往田纳西州克拉克斯维尔举行集会。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7951287.shtml)
-7. [美国财政部：在最新双周报告期内，投资基金买入323.12亿美元2033年9月30日到期的7年期国债，上月买入规模为305.69亿美元。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4631149.shtml)
-8. [美联储会议纪要：纽约联储代表财政部干预了外汇市场。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7838733.shtml)
-9. [特朗普谈与普京的通话：我已经安排好通话了。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4602075.shtml)
-10. [美“龙”飞船载4名宇航员脱离空间站 启程返回地球](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4620016.shtml)
-11. [亚马逊创始人杰夫·贝索斯：蓝色起源未来将进行IPO。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunezm7657543.shtml)
-12. [节后首日20只产品亮相，10月新基发行迎小高峰](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunezm7668120.shtml)
-13. [SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7936223.shtml)
-14. [英伟达和美光即将主宰本轮财报季](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7944745.shtml)
-15. [标普道琼斯指数：2026年9月对IBOX固定收益指数的国家分类审核结果为无调整。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7770352.shtml)
-16. [美联储调查：一年期通胀预期升至 2023 年 5 月以来最高水平](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7947544.shtml)
-17. [两名欧盟外交官表示，国际能源署理事会将于当地时间今日13时召开非正式会议，讨论石油与柴油储备释放提案。](https://finance.sina.com.cn/7x24/2026-10-07/doc-iniuksyf4955355.shtml)
-18. [突尼斯央行表示，维持关键利率在 7% 不变。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4624414.shtml)
-19. [空客：订单包含 4 架 A350-900 宽体飞机以及 6 架 A321neo 单通道飞机。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4709880.shtml)
-20. [美国 10 年期国债拍卖后收益率涨幅收窄，最新上涨 1.91 个基点，报 5.29%。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4720208.shtml)
+3. [10月8日收盘：三大指数收跌 10年期美债收益率创20年新高 银行与科技股承压](https://finance.sina.com.cn/world/2026-10-08/doc-iniumytv4173772.shtml)
+4. [特朗普谈及频繁赴得州的原因：要确保帕克斯顿胜选。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4623275.shtml)
+5. [特朗普夸赞昨日股市表现。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqcv4721670.shtml)
+6. [美军称伊朗对霍尔木兹海峡拥有“完全控制权”的说法不实](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7659070.shtml)
+7. [特朗普重申战后油价将会下降。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7831395.shtml)
+8. [市场消息：特朗普将于周六前往田纳西州克拉克斯维尔举行集会。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7951287.shtml)
+9. [美国财政部：在最新双周报告期内，投资基金买入323.12亿美元2033年9月30日到期的7年期国债，上月买入规模为305.69亿美元。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4631149.shtml)
+10. [美联储会议纪要：纽约联储代表财政部干预了外汇市场。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7838733.shtml)
+11. [特朗普谈与普京的通话：我已经安排好通话了。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4602075.shtml)
+12. [美“龙”飞船载4名宇航员脱离空间站 启程返回地球](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumt4620016.shtml)
+13. [亚马逊创始人杰夫·贝索斯：蓝色起源未来将进行IPO。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunezm7657543.shtml)
+14. [节后首日20只产品亮相，10月新基发行迎小高峰](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunezm7668120.shtml)
+15. [SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7936223.shtml)
+16. [英伟达和美光即将主宰本轮财报季](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7944745.shtml)
+17. [美联储纪要显示9月升息获一致支持 多数与会者倾向年内再加一次](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumumr7850540.shtml)
+18. [标普道琼斯指数：2026年9月对IBOX固定收益指数的国家分类审核结果为无调整。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7770352.shtml)
+19. [美联储调查：一年期通胀预期升至 2023 年 5 月以来最高水平](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7947544.shtml)
+20. [微软称新旗舰笔记本搭载英伟达芯片 部分AI任务表现优于苹果MacBook](https://finance.sina.com.cn/world/2026-10-08/doc-iniumumr7867136.shtml)

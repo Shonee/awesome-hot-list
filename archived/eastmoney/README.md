@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-08 08:36:05
+> 更新时间：2026-10-08 09:33:34
 
 ## 股票人气榜
 
@@ -8,19 +8,19 @@
 2. [昭衍新药 (603127)](https://quote.eastmoney.com/sh603127.html)
 3. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
 4. [华海药业 (600521)](https://quote.eastmoney.com/sh600521.html)
-5. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
+5. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 6. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-7. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
-8. [N力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
+7. [大金重工 (002487)](https://quote.eastmoney.com/sz002487.html)
+8. [C力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
 9. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
 10. [美诺华 (603538)](https://quote.eastmoney.com/sh603538.html)
-11. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
-12. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
-13. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
-14. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-15. [贝瑞基因 (000710)](https://quote.eastmoney.com/sz000710.html)
+11. [贝瑞基因 (000710)](https://quote.eastmoney.com/sz000710.html)
+12. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+13. [深物业A (000011)](https://quote.eastmoney.com/sz000011.html)
+14. [龙蟠科技 (603906)](https://quote.eastmoney.com/sh603906.html)
+15. [万  科Ａ (000002)](https://quote.eastmoney.com/sz000002.html)
 16. [时代万恒 (600241)](https://quote.eastmoney.com/sh600241.html)
-17. [五方光电 (002962)](https://quote.eastmoney.com/sz002962.html)
-18. [蔚蓝生物 (603739)](https://quote.eastmoney.com/sh603739.html)
-19. [南华生物 (000504)](https://quote.eastmoney.com/sz000504.html)
+17. [蔚蓝生物 (603739)](https://quote.eastmoney.com/sh603739.html)
+18. [南华生物 (000504)](https://quote.eastmoney.com/sz000504.html)
+19. [五方光电 (002962)](https://quote.eastmoney.com/sz002962.html)
 20. [紫竹高科 (002058)](https://quote.eastmoney.com/sz002058.html)
