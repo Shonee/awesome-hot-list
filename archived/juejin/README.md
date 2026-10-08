@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-09 04:14:08
+> 更新时间：2026-10-09 05:12:11
 
 ## 热门文章
 
@@ -8,8 +8,8 @@
 2. [AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了](https://juejin.cn/post/7693358476032049162)
 3. [🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了](https://juejin.cn/post/7693757919828901923)
 4. [9、古代没有程序员，但蒲松龄们早就被"裁员"过了](https://juejin.cn/post/7693144953569493043)
-5. [Android 以后可能不会再有横竖屏适配了](https://juejin.cn/post/7694064588329320490)
-6. [别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？](https://juejin.cn/post/7693579496969486382)
+5. [别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？](https://juejin.cn/post/7693579496969486382)
+6. [Android 以后可能不会再有横竖屏适配了](https://juejin.cn/post/7694064588329320490)
 7. [一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行](https://juejin.cn/post/7693805723602157578)
 8. [Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？](https://juejin.cn/post/7693160537133629455)
 9. [做全栈是前端骗局还是出路？](https://juejin.cn/post/7694107051320311827)
@@ -23,12 +23,12 @@
 17. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
 18. [当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？](https://juejin.cn/post/7693451894564765696)
 19. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
-20. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
-21. [RAG 面试 6 连问，从原理到优化全部覆盖](https://juejin.cn/post/7693689217004732459)
-22. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
-23. [Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通](https://juejin.cn/post/7693225151680774154)
-24. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
-25. [研究 Vue 3 源码的收获](https://juejin.cn/post/7693406376094892066)
+20. [Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通](https://juejin.cn/post/7693225151680774154)
+21. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
+22. [RAG 面试 6 连问，从原理到优化全部覆盖](https://juejin.cn/post/7693689217004732459)
+23. [研究 Vue 3 源码的收获](https://juejin.cn/post/7693406376094892066)
+24. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
+25. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
 26. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
 27. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
 28. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
@@ -36,13 +36,13 @@
 30. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
 31. [线程本地存储 ThreadLocal](https://juejin.cn/post/7692977150127603775)
 32. [GitHub 日榜趋势速报 | 2026-10-06](https://juejin.cn/post/7692863129294716966)
-33. [太吊了！这 2 款网盘工具，让我省 4000 大洋！](https://juejin.cn/post/7693748651005362202)
-34. [开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用](https://juejin.cn/post/7693549784162631718)
-35. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
-36. [同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具](https://juejin.cn/post/7693079499384356879)
-37. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
-38. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
-39. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
+33. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
+34. [太吊了！这 2 款网盘工具，让我省 4000 大洋！](https://juejin.cn/post/7693748651005362202)
+35. [开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用](https://juejin.cn/post/7693549784162631718)
+36. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
+37. [同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具](https://juejin.cn/post/7693079499384356879)
+38. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
+39. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
 40. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
 41. [别只让AI解释，让它做个你能看懂的东西](https://juejin.cn/post/7693358476032524298)
 42. [只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏](https://juejin.cn/post/7693165008605396992)
