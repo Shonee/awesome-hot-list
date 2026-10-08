@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-09 05:40:07
+> 更新时间：2026-10-09 06:40:28
 
 ## 24 小时热榜
 
@@ -18,32 +18,32 @@
 12. [徐直军回应美国同行呼吁放缓 AI 开发：中国需加快 AI 模型发展](https://readhub.cn/topic/8x1q2Vgisdy?tab=daily)
 13. [江淮汽车盘中跌停](https://readhub.cn/topic/8x3EVFEsanc?tab=daily)
 14. [谷歌调整 Gemini 订阅策略：10 月 9 日起免费版仅留 Flash-Lite，付费阶梯进一步拉开](https://readhub.cn/topic/8x384ik7vnP?tab=daily)
-15. [消息称三星手机 2026 年 Q4 最高减产 30% 卖出去也不赚钱](https://readhub.cn/topic/8x3OWGkcqaV?tab=daily)
-16. [德国搜索引擎 Ecosia 押注中国开源 AI 模型](https://readhub.cn/topic/8x3YWVRMjUz?tab=daily)
-17. [华为 Pura 90 Pro 系列主摄及外挂式长焦系统由欧菲光供货](https://readhub.cn/topic/8x3RjJ2FcLa?tab=daily)
+15. [德国搜索引擎 Ecosia 押注中国开源 AI 模型](https://readhub.cn/topic/8x3YWVRMjUz?tab=daily)
+16. [华为 Pura 90 Pro 系列主摄及外挂式长焦系统由欧菲光供货](https://readhub.cn/topic/8x3RjJ2FcLa?tab=daily)
+17. [消息称三星手机 2026 年 Q4 最高减产 30% 卖出去也不赚钱](https://readhub.cn/topic/8x3OWGkcqaV?tab=daily)
 18. [欧莱雅陷滑石粉相关诉讼，中国区回应在售产品符合国标](https://readhub.cn/topic/8x3xu71UKkC?tab=daily)
 19. [小米澎程首销月锁单进展公布：上市 30 天锁单超 7 万台](https://readhub.cn/topic/8x3h5NU3YN1?tab=daily)
 20. [新就业形态劳动者权益保障办法公开征求意见](https://readhub.cn/topic/8x3bjniUMcb?tab=daily)
 21. [谷歌开源多模态嵌入模型 EmbeddingGemma 2 可离线多模态检索](https://readhub.cn/topic/8x3D8fzuGWE?tab=daily)
 22. [懂车帝称网传暴力测试是谣言](https://readhub.cn/topic/8x42YRGUv9F?tab=daily)
 23. [谷歌云推出 Gemini Agent，谷歌美股盘前涨超 1%](https://readhub.cn/topic/8x3uJfgiEIC?tab=daily)
-24. [网传尊界刹车踏板安全疑虑引发关注 鸿蒙智行门店回应将联合测评公开数据](https://readhub.cn/topic/8x3rorJ5zlY?tab=daily)
-25. [多家在港中资券商调整 内地 IP 仅可卖出、出金](https://readhub.cn/topic/8x39YrquVTS?tab=daily)
-26. [马斯克：Grok Bot 将按任务择优调用 Claude 等第三方模型](https://readhub.cn/topic/8x33mkzwaJu?tab=daily)
-27. [红杉中国完成对佩尔科技控股收购](https://readhub.cn/topic/8x33mqpHwu4?tab=daily)
-28. [苹果要求开发者明年 4 月起新 App 及更新需适配折叠屏 iPhone](https://readhub.cn/topic/8x3yFFfj3U8?tab=daily)
+24. [苹果要求开发者明年 4 月起新 App 及更新需适配折叠屏 iPhone](https://readhub.cn/topic/8x3yFFfj3U8?tab=daily)
+25. [网传尊界刹车踏板安全疑虑引发关注 鸿蒙智行门店回应将联合测评公开数据](https://readhub.cn/topic/8x3rorJ5zlY?tab=daily)
+26. [多家在港中资券商调整 内地 IP 仅可卖出、出金](https://readhub.cn/topic/8x39YrquVTS?tab=daily)
+27. [马斯克：Grok Bot 将按任务择优调用 Claude 等第三方模型](https://readhub.cn/topic/8x33mkzwaJu?tab=daily)
+28. [红杉中国完成对佩尔科技控股收购](https://readhub.cn/topic/8x33mqpHwu4?tab=daily)
 29. [叮咚买菜旗下「有豆志」完善全产业链布局 累计销售额破 15 亿](https://readhub.cn/topic/8x3I5wmmIsM?tab=daily)
 30. [海外开源模型重新提速：Mistral、「美版 DeepSeek」同时亮牌](https://readhub.cn/topic/8x3GfhK1nYx?tab=daily)
 
 ## 每日早报
 
-1. [10.07 DeepSeek 接近完成 800 亿元融资，腾讯宁德时代或参投 12 条](https://readhub.cn/daily/2026-10-07)
-2. [10.06 三人因光遗传学获 2026 年诺贝尔生理学或医学奖 10 条](https://readhub.cn/daily/2026-10-06)
-3. [10.05 Anthropic 借 OpenEvidence 把医疗 AI 铺向 100 国 16 条](https://readhub.cn/daily/2026-10-05)
-4. [10.04 苹果回应 iPhone 18 Pro Max 故障 部分机型需换机 13 条](https://readhub.cn/daily/2026-10-04)
-5. [10.03 腾讯与甲骨文签订五年协议 可获得约 10 万颗高端 AI 芯片 11 条](https://readhub.cn/daily/2026-10-03)
-6. [10.02 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 12 条](https://readhub.cn/daily/2026-10-02)
-7. [10.01 DeepSeek 开源昇腾基础组件 16 条](https://readhub.cn/daily/2026-10-01)
+1. [10.08 OpenAI 公布 722 篇数学手稿：准黎曼猜想、4D 挂谷猜想均在列 12 条](https://readhub.cn/daily/2026-10-08)
+2. [10.07 DeepSeek 接近完成 800 亿元融资，腾讯宁德时代或参投 12 条](https://readhub.cn/daily/2026-10-07)
+3. [10.06 三人因光遗传学获 2026 年诺贝尔生理学或医学奖 10 条](https://readhub.cn/daily/2026-10-06)
+4. [10.05 Anthropic 借 OpenEvidence 把医疗 AI 铺向 100 国 16 条](https://readhub.cn/daily/2026-10-05)
+5. [10.04 苹果回应 iPhone 18 Pro Max 故障 部分机型需换机 13 条](https://readhub.cn/daily/2026-10-04)
+6. [10.03 腾讯与甲骨文签订五年协议 可获得约 10 万颗高端 AI 芯片 11 条](https://readhub.cn/daily/2026-10-03)
+7. [10.02 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 12 条](https://readhub.cn/daily/2026-10-02)
 
 ## AI 资讯
 
@@ -56,4 +56,4 @@
 7. [鄂维南院士：AI for Science 的下半场，是重构整个科研体系｜PAIR 2026](https://www.mittrchina.com/news/detail/17065)
 8. [谷歌把 AI 搜索塞进手机：EmbeddingGemma2 开源，不到 600MB 断网照样搜图文音视频](https://www.aibase.com/zh/news/31476)
 9. [美国联邦贸易委员会指控 Cleo AI 误导消费者，将返还 1580 万美元](https://www.gelonghui.com/live/2701941)
-10. [OpenAI 封禁利用 AI 进行隐蔽影响行动的俄罗斯与伊朗账户集群](https://www.techflowpost.com/zh-CN/newsletter/139245)
+10. [周五你需要知道的隔夜全球要闻：OpenAI 年化营收较之前报道少 200 亿美元；特朗普称不会在中期选举之前攻击伊朗；纳指收跌超 1%，存储、半导体板块下挫](https://api3.cls.cn/share/article/2499982?os=web&sv=8.4.6&app=CailianpressWeb)

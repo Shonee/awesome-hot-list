@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-09 00:16:01
+> 更新时间：2026-10-09 06:40:26
 
 ## 每日趋势
 
@@ -85,12 +85,13 @@
 4. [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 5. [iFixAi](https://github.com/ifixai-ai/iFixAi)
 6. [opensre](https://github.com/Tracer-Cloud/opensre)
-7. [heretic](https://github.com/p-e-w/heretic)
-8. [OpenMontage](https://github.com/calesthio/OpenMontage)
-9. [tilelang](https://github.com/tile-ai/tilelang)
-10. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-11. [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
-12. [octabam](https://github.com/sambanks/octabam)
+7. [open-dots](https://github.com/Anil-matcha/open-dots)
+8. [heretic](https://github.com/p-e-w/heretic)
+9. [OpenMontage](https://github.com/calesthio/OpenMontage)
+10. [tilelang](https://github.com/tile-ai/tilelang)
+11. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+12. [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+13. [octabam](https://github.com/sambanks/octabam)
 
 ## Go
 
