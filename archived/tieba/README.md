@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-08 23:42:25
+> 更新时间：2026-10-09 00:17:50
 
 ## 最有料热点
 
@@ -30,7 +30,7 @@
 24. [男麻吧友原创Gal翻车,惨遭割席](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366363&topic_name=%E7%94%B7%E9%BA%BB%E5%90%A7%E5%8F%8B%E5%8E%9F%E5%88%9BGal%E7%BF%BB%E8%BD%A6%2C%E6%83%A8%E9%81%AD%E5%89%B2%E5%B8%AD)
 25. [相亲全记录:母单遇上魅魔](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366312&topic_name=%E7%9B%B8%E4%BA%B2%E5%85%A8%E8%AE%B0%E5%BD%95%3A%E6%AF%8D%E5%8D%95%E9%81%87%E4%B8%8A%E9%AD%85%E9%AD%94)
 26. [爷青回,吧友聊魔圆回天观后感](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366341&topic_name=%E7%88%B7%E9%9D%92%E5%9B%9E%2C%E5%90%A7%E5%8F%8B%E8%81%8A%E9%AD%94%E5%9C%86%E5%9B%9E%E5%A4%A9%E8%A7%82%E5%90%8E%E6%84%9F)
-27. [后宫文排雷,吧友嘴下不留情](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366334&topic_name=%E5%90%8E%E5%AE%AB%E6%96%87%E6%8E%92%E9%9B%B7%2C%E5%90%A7%E5%8F%8B%E5%98%B4%E4%B8%8B%E4%B8%8D%E7%95%99%E6%83%85)
+27. [30万养coser女友,博主遭NTR](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366601&topic_name=30%E4%B8%87%E5%85%BBcoser%E5%A5%B3%E5%8F%8B%2C%E5%8D%9A%E4%B8%BB%E9%81%ADNTR)
 28. [马尔福性转爆火,吧友集体真香](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366308&topic_name=%E9%A9%AC%E5%B0%94%E7%A6%8F%E6%80%A7%E8%BD%AC%E7%88%86%E7%81%AB%2C%E5%90%A7%E5%8F%8B%E9%9B%86%E4%BD%93%E7%9C%9F%E9%A6%99)
 29. [加班换高薪,这工作你干不?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366338&topic_name=%E5%8A%A0%E7%8F%AD%E6%8D%A2%E9%AB%98%E8%96%AA%2C%E8%BF%99%E5%B7%A5%E4%BD%9C%E4%BD%A0%E5%B9%B2%E4%B8%8D%3F)
 30. [面基翻车现场,吧友亲身踩雷](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366335&topic_name=%E9%9D%A2%E5%9F%BA%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%2C%E5%90%A7%E5%8F%8B%E4%BA%B2%E8%BA%AB%E8%B8%A9%E9%9B%B7)

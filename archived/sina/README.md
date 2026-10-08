@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 23:12:50
+> 更新时间：2026-10-09 00:16:28
 
 ## 新闻热榜
 
@@ -36,14 +36,14 @@
 7. [美联储会议纪要：加息理由存在分歧，年内或将再上调利率一次](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7683061.shtml)
 8. [尊界V800被曝测试中三台新车刹车踏板支架全部断裂 江淮汽车股价跌停](https://finance.sina.com.cn/search/2026-10-08/doc-iniunrri4440138.shtml)
 9. [美军奉命准备重启对伊朗重大行动：特朗普权衡时机，行动或赶在美以选举前](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunmir3995242.shtml)
-10. [美军称伊朗对霍尔木兹海峡拥有“完全控制权”的说法不实](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7659070.shtml)
+10. [别忘了打新！就在明天，节后新股申购](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezq5355806.shtml)
 11. [机构：科技主线或重新占优](https://finance.sina.com.cn/roll/2026-10-08/doc-iniumytr4530975.shtml)
-12. [别忘了打新！就在明天，节后新股申购](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezq5355806.shtml)
+12. [美军称伊朗对霍尔木兹海峡拥有“完全控制权”的说法不实](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7659070.shtml)
 13. [“高中签率”新股 46.9万股遭弃购](https://finance.sina.com.cn/stock/roll/2026-10-08/doc-iniunezm7651165.shtml)
 14. [今天，“存储”的悲喜并不相通：长鑫科技大跌，三星电子赚翻](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunrrf7692156.shtml)
-15. [黄金储备“23连增” 背后的深意](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezp4426335.shtml)
-16. [节后第一天就冲高回落、午后跳水，A股发生了什么？](https://finance.sina.com.cn/roll/2026-10-08/doc-iniupaez7562522.shtml)
-17. [特朗普说不再想要伊朗协议，美国准备“大规模轰炸”？](https://finance.sina.com.cn/money/forex/hbfx/2026-10-08/doc-iniunrrf7663054.shtml)
-18. [恒生科技指数大调整 成份股将增至50只](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7700939.shtml)
+15. [节后第一天就冲高回落、午后跳水，A股发生了什么？](https://finance.sina.com.cn/roll/2026-10-08/doc-iniupaez7562522.shtml)
+16. [黄金储备“23连增” 背后的深意](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezp4426335.shtml)
+17. [恒生科技指数大调整 成份股将增至50只](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7700939.shtml)
+18. [特朗普说不再想要伊朗协议，美国准备“大规模轰炸”？](https://finance.sina.com.cn/money/forex/hbfx/2026-10-08/doc-iniunrrf7663054.shtml)
 19. [董事长被指系“东航空姐下跪事件”当事人，广东一上市公司回应](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezt4068210.shtml)
 20. [日方称中国外交部经常直接称呼高市早苗的名字、要求给予适当尊重，中方回应](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7619369.shtml)
