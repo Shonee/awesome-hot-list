@@ -1,13 +1,13 @@
 # 掘金热榜
 
-> 更新时间：2026-10-09 00:16:03
+> 更新时间：2026-10-09 01:12:03
 
 ## 热门文章
 
 1. [Spring AI Alibaba已停更了，Java还有希望吗？](https://juejin.cn/post/7693821701955567670)
 2. [AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了](https://juejin.cn/post/7693358476032049162)
-3. [9、古代没有程序员，但蒲松龄们早就被"裁员"过了](https://juejin.cn/post/7693144953569493043)
-4. [🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了](https://juejin.cn/post/7693757919828901923)
+3. [🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了](https://juejin.cn/post/7693757919828901923)
+4. [9、古代没有程序员，但蒲松龄们早就被"裁员"过了](https://juejin.cn/post/7693144953569493043)
 5. [Android 以后可能不会再有横竖屏适配了](https://juejin.cn/post/7694064588329320490)
 6. [别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？](https://juejin.cn/post/7693579496969486382)
 7. [一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行](https://juejin.cn/post/7693805723602157578)
@@ -29,16 +29,16 @@
 23. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
 24. [研究 Vue 3 源码的收获](https://juejin.cn/post/7693406376094892066)
 25. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
-26. [Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪](https://juejin.cn/post/7692739051067342857)
-27. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
+26. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
+27. [Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪](https://juejin.cn/post/7692739051067342857)
 28. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
 29. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
 30. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
-31. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
+31. [太吊了！这 2 款网盘工具，让我省 4000 大洋！](https://juejin.cn/post/7693748651005362202)
 32. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
-33. [太吊了！这 2 款网盘工具，让我省 4000 大洋！](https://juejin.cn/post/7693748651005362202)
-34. [GitHub 日榜趋势速报 | 2026-10-06](https://juejin.cn/post/7692863129294716966)
-35. [线程本地存储 ThreadLocal](https://juejin.cn/post/7692977150127603775)
+33. [线程本地存储 ThreadLocal](https://juejin.cn/post/7692977150127603775)
+34. [单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全](https://juejin.cn/post/7692881705649193001)
+35. [GitHub 日榜趋势速报 | 2026-10-06](https://juejin.cn/post/7692863129294716966)
 36. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
 37. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
 38. [开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用](https://juejin.cn/post/7693549784162631718)
@@ -49,8 +49,8 @@
 43. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
 44. [一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像](https://juejin.cn/post/7693049513119858734)
 45. [WinSW在Win7上失败真相-实测与修复](https://juejin.cn/post/7692881705649586217)
-46. [哪些任务该交给 AI，哪些必须由开发者负责？](https://juejin.cn/post/7693357497911803954)
-47. [实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手](https://juejin.cn/post/7693414422438248490)
-48. [本地AI绘图全家桶](https://juejin.cn/post/7693414422439034922)
+46. [实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手](https://juejin.cn/post/7693414422438248490)
+47. [本地AI绘图全家桶](https://juejin.cn/post/7693414422439034922)
+48. [哪些任务该交给 AI，哪些必须由开发者负责？](https://juejin.cn/post/7693357497911803954)
 49. [LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比](https://juejin.cn/post/7693225151681757194)
-50. [Dart 3 Record：解决 Future.wait 异构返回值的类型问题](https://juejin.cn/post/7692876916257603594)
+50. [大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记](https://juejin.cn/post/7693186612616298530)
