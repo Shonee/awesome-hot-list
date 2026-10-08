@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-09 06:12:29
+> 更新时间：2026-10-09 07:11:54
 
 ## 最新帖子
 
-1. [XXL-AI v1.1.1 发布｜Desk 桌面客户端正式上线，云本结合再进一步](https://www.cnblogs.com/xuxueli/p/23230714)
-2. [MiniMax Code 接入 PowerContext：构建跨会话与跨 Agent 的项目上下文底座](https://www.cnblogs.com/knqiufan/p/23230707)
-3. [从陶哲轩的访谈看：AI 数学研究方法论 & 给其它行业的启示](https://www.cnblogs.com/rossiXYZ/p/23215799)
-4. [八路循迹模块的 DO：先让小车沿着线跑起来](https://www.cnblogs.com/zw-awa/p/23228970)
-5. [具身智能感知简述(Manipulation) —— 经典VLA](https://www.cnblogs.com/x1ao0/p/23224736)
-6. [强化学习中的on/off-policy与online/offline是一回事吗？](https://www.cnblogs.com/xiaoxi666/p/23224669)
-7. [《项目管理指导手册》2026版-心得（二）](https://www.cnblogs.com/demon28/p/23221508)
-8. [一文搞懂 Function Calling：大模型究竟是如何调用工具的？](https://www.cnblogs.com/Tomorrowland/p/23223896)
-9. [（一）独热编码、标签编码、目标编码、序数编码详解](https://www.cnblogs.com/liyunlin532150549/p/21284646)
-10. [什么是范数？用 NumPy 动手算一遍就明白了](https://www.cnblogs.com/wang_yb/p/23222493)
-11. [Linux桌面端应用向鸿蒙PC迁移适配纪实](https://www.cnblogs.com/KBin/p/23219928)
-12. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
-13. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
-14. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
-15. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
-16. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
-17. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
-18. [vllm企业私有化大模型部署实战指南](https://www.cnblogs.com/aifrontiers/p/23167708)
-19. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
-20. [ThingsBoard 集群的核心逻辑源码分析](https://www.cnblogs.com/dddy/p/22405537)
+1. [堡垒机里 `su - oracle` 被拦截，怎么绕过限制切换用户](https://www.cnblogs.com/jyzhao/p/23232127)
+2. [XXL-AI v1.1.1 发布｜Desk 桌面客户端正式上线，云本结合再进一步](https://www.cnblogs.com/xuxueli/p/23230714)
+3. [MiniMax Code 接入 PowerContext：构建跨会话与跨 Agent 的项目上下文底座](https://www.cnblogs.com/knqiufan/p/23230707)
+4. [从陶哲轩的访谈看：AI 数学研究方法论 & 给其它行业的启示](https://www.cnblogs.com/rossiXYZ/p/23215799)
+5. [八路循迹模块的 DO：先让小车沿着线跑起来](https://www.cnblogs.com/zw-awa/p/23228970)
+6. [具身智能感知简述(Manipulation) —— 经典VLA](https://www.cnblogs.com/x1ao0/p/23224736)
+7. [强化学习中的on/off-policy与online/offline是一回事吗？](https://www.cnblogs.com/xiaoxi666/p/23224669)
+8. [《项目管理指导手册》2026版-心得（二）](https://www.cnblogs.com/demon28/p/23221508)
+9. [一文搞懂 Function Calling：大模型究竟是如何调用工具的？](https://www.cnblogs.com/Tomorrowland/p/23223896)
+10. [（一）独热编码、标签编码、目标编码、序数编码详解](https://www.cnblogs.com/liyunlin532150549/p/21284646)
+11. [什么是范数？用 NumPy 动手算一遍就明白了](https://www.cnblogs.com/wang_yb/p/23222493)
+12. [Linux桌面端应用向鸿蒙PC迁移适配纪实](https://www.cnblogs.com/KBin/p/23219928)
+13. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
+14. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
+15. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
+16. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
+17. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
+18. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
+19. [vllm企业私有化大模型部署实战指南](https://www.cnblogs.com/aifrontiers/p/23167708)
+20. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
 
 ## 精华帖子
 
