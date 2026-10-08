@@ -328,3 +328,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,OpenAI 公布 722 篇数学手稿，其中一部分可被计算机逐行验证 这批结果被整理成了一个 GitHub 仓库，其中包含 722 篇手稿，归入 372 个结果家族，覆盖了从数论到量子场论的多个数学分支。这件事的意义有两层：一层是数学本身，722 篇手稿，372 个结果家族，其中一部分已经被机器验证，这在几年前还很难想象；另一层是数学研究的组织方式，AI 开始进入开放问题的求解环节，数学家需要面对一个新问题，就是如何把 AI 产出的结果纳入人类理解，如何保证数学研究的方向不完全由 AI 系统的能力展示来决定。 麻省理工科技评论 14 小时前,,,https://www.mittrchina.com/news/detail/17062,,Readhub,AI 资讯,ai,digest,,2026-10-08 09:33:14
 9,"Multimodal open d1 decision models for the edge Best decision model under 10B on the Decision Index 0.2.1: d1-3B scores 48.57, ahead of every 4B and 9B model and of Decider 35B-A3B (47.11). We do not report any vision or audio benchmarks, as the Decision Index v0.3 includes only a private vision split and audio decision benchmarks are currently an open problem. In collaboration with NVIDIA, we evaluated d1-3B on the NVIDIA stack across NVIDIA GeForce RTX 4090, NVIDIA Jetson AGX Thor, Jetson AGX Orin 64 GB, and Jetson Orin Nano. Hugging Face Blog 8 小时前",,,https://huggingface.co/blog/LiquidAI/open-d1,,Readhub,AI 资讯,ai,digest,,2026-10-08 09:33:14
 10,Vitalik：AI 或加速密码学破解，建议优先采用哈希基础加密方案 以太坊联合创始人 Vitalik Buterin 发文警告，AI 加速数学研究可能在未来两年内对现有密码学体系构成严重威胁，尤其是格密码（Lattices）、ML-DSA、FHE 等方案，ECDSA 亦存在比预期更快被攻破的风险。Vitalik 指出，AI 或将复现「朴素因式分解→数域筛法」级别的突破，大幅削弱格密码的安全性，届时哈希基础方案将在效率上全面超越格密码。以太坊 Lean Roadmap 已朝「纯哈希」方向推进，签名方案采用 WOTS 或 SPHINCS+，不引入任何格密码组件。 techflowpost.com 1 小时前,,,https://www.techflowpost.com/zh-CN/newsletter/139130,,Readhub,AI 资讯,ai,digest,,2026-10-08 09:33:14
+1,Claude 证明概率论「圣杯」渗流猜想，AI 跨菲尔兹奖级难题终点线,,,https://readhub.cn/topic/8x1sBc3chzm?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+2,谷歌发布 Nano Banana 2.1 低价小模型性能超自家 Pro,,,https://readhub.cn/topic/8x1ql5jj9mp?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+3,Claude 新增简体繁体中文界面，官方尚未正式宣布,,,https://readhub.cn/topic/8x0kA1KCui5?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+4,AMD CEO 苏姿丰将与三星半导体负责人会面 应对内存短缺,,,https://readhub.cn/topic/8x1dBC2HGQk?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+5,华为徐直军：昇腾 950 超节点国内需求未满足 无全面出海计划,,,https://readhub.cn/topic/8x1pJrPRFJQ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+6,英特尔称将继续参与马斯克旗下 Terafab 芯片制造项目,,,https://readhub.cn/topic/8x1h6nS8XJA?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+7,中美定期客运航权额度首次「用满」,,,https://readhub.cn/topic/8x2FlTEF7mb?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+8,美团旗下 Keeta 将在巴西新拓展 21 个城市业务,,,https://readhub.cn/topic/8x1XooCUnyz?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+9,仅 4.5% 美国消费者为 AI 付费 GPU 涨价 a16z 报告揭 AI 真实落差,,,https://readhub.cn/topic/8x24KC9VBfi?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+10,黄仁勋：英伟达当初正是因 Windows 而诞生,,,https://readhub.cn/topic/8x2fUFh7hDR?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+11,iFixit 拆解两款新 Apple Watch，给出 4 / 10 可维修得分,,,https://readhub.cn/topic/8x1H1Jjj2a3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+12,谷歌推出 macOS 端 AI Edge Foresight 应用 支持离线整理会议纪要,,,https://readhub.cn/topic/8x0x17GVuKh?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+13,涉嫌价格垄断 日本四大啤酒企业接受调查,,,https://readhub.cn/topic/8x25mmbaNF1?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+14,前 8 个月医保统筹基金收入约 2.07 万亿元,,,https://readhub.cn/topic/8x1ZcRgWtga?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+15,谷歌与 Unity 合作推出 AI 游戏平台 支持自然语言创建游戏,,,https://readhub.cn/topic/8x2F2ZOzij2?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+16,腾讯斥资 1 亿港元回购 23.8 万股,,,https://readhub.cn/topic/8wzocpb9VtZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+17,Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50 为榜单唯一 AI 3D 公司,,,https://readhub.cn/topic/8x1XpE8EoiX?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+18,谷歌 AI 图像模型 Nano Banana 2.1 发布,,,https://readhub.cn/topic/8x1TsUZTDzZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+19,购票「加速包」或变减速器 12306 提醒旅客不要中招,,,https://readhub.cn/topic/8x1wqXfist9?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+20,OpenAI 为 ChatGPT 新增自动年龄检测，未满 18 岁用户自动开启青少年模式,,,https://readhub.cn/topic/8x1sB9J1n8W?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+21,中秋国庆消费升温，支付宝「碰一下」消费笔数同比增近 40%,,,https://readhub.cn/topic/8x1dtzzLJbZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+22,安踏完成收购彪马 29.06% 股权，成为其最大股东,,,https://readhub.cn/topic/8x2Al9kwlmo?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+23,Anthropic 发布最新 AI 模型 Claude Haiku 5.5 用于成本敏感任务,,,https://readhub.cn/topic/8x2emBmlVBm?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+24,量子精密测量实现新突破，我国科研团队研制出「核光钟」,,,https://readhub.cn/topic/8x2RDpnXd9x?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+25,谷歌推出 SynthID 检测器，可识别 AI 生成内容,,,https://readhub.cn/topic/8x2NcGcajjX?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+26,崔东树：2026 年 1-8 月中国新能源乘用车世界份额达 62%,,,https://readhub.cn/topic/8x24LHks8Ka?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+27,博通为与 OpenAI 共研定制 AI 芯片寻求超 500 亿美元融资,,,https://readhub.cn/topic/8x2qvF8SmDO?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+28,高通确认收购华为部分非蜂窝通信美国专利 否认净支付方及芯片授权说法,,,https://readhub.cn/topic/8x0BqXD76Zs?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+29,我国科学家研发出新型高效碳捕集膜,,,https://readhub.cn/topic/8x2OKx5qE6L?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+30,诺华 Rhapsido® 获 FDA 批准 成为首款症状性皮肤划痕症治疗药物,,,https://readhub.cn/topic/8x2VTgeepDK?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-08 10:52:01
+1,10.07 DeepSeek 接近完成 800 亿元融资，腾讯宁德时代或参投 12 条,,,https://readhub.cn/daily/2026-10-07,,Readhub,每日早报,daily,digest,2026-10-07,2026-10-08 10:52:01
+2,10.06 三人因光遗传学获 2026 年诺贝尔生理学或医学奖 10 条,,,https://readhub.cn/daily/2026-10-06,,Readhub,每日早报,daily,digest,2026-10-06,2026-10-08 10:52:01
+3,10.05 Anthropic 借 OpenEvidence 把医疗 AI 铺向 100 国 16 条,,,https://readhub.cn/daily/2026-10-05,,Readhub,每日早报,daily,digest,2026-10-05,2026-10-08 10:52:01
+4,10.04 苹果回应 iPhone 18 Pro Max 故障 部分机型需换机 13 条,,,https://readhub.cn/daily/2026-10-04,,Readhub,每日早报,daily,digest,2026-10-04,2026-10-08 10:52:01
+5,10.03 腾讯与甲骨文签订五年协议 可获得约 10 万颗高端 AI 芯片 11 条,,,https://readhub.cn/daily/2026-10-03,,Readhub,每日早报,daily,digest,2026-10-03,2026-10-08 10:52:01
+6,10.02 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 12 条,,,https://readhub.cn/daily/2026-10-02,,Readhub,每日早报,daily,digest,2026-10-02,2026-10-08 10:52:01
+7,10.01 DeepSeek 开源昇腾基础组件 16 条,,,https://readhub.cn/daily/2026-10-01,,Readhub,每日早报,daily,digest,2026-10-01,2026-10-08 10:52:01
+1,NVIDIA and Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents,"At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. Turning Windows into a secure platform for ag",,https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+2,Anthropic 发布 Claude Haiku 5.5：成本降低约 75%，支持可调节推理强度,Haiku 5.5 的平均运行成本相比上一代 Haiku 4.5 降低约 75%，对于 10 万词元以内的请求，输入和输出分别只需每百万词元 0.1 美元和 0.5 美元，大幅降低了轻量任务的成本。此外，Haiku 系列首次引入可调节的推理强度，用户可按任务轻重调整思考深度，让低成本小模型在需要时也能进行更深入的推理。 AIBase 1 小时前,,https://www.aibase.com/zh/news/31452,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+3,博通为 OpenAI 定制芯片项目筹超 500 亿美元，阿波罗黑石入局，甲骨文也找钱买芯片,博通正为其与 OpenAI 合作开发的定制人工智能芯片项目安排超过 500 亿美元的融资，阿波罗全球管理和黑石集团是洽谈参与这笔巨额借款的出借方之一。甲骨文也在与阿波罗和高盛商谈，为购买芯片筹措资金。一边是博通为造芯片找钱，一边是甲骨文为买芯片找钱，同一拨金融机构在 AI 算力的供需两端同时下注。当定制 AI 芯片从实验室里的合作意向，变成需要数百亿美元债务撑起来的实体项目，博通与 OpenAI 的绑定显然已越过纸面、直插产能。 AIBase 1 小时前,,https://www.aibase.com/zh/news/31450,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+4,对话如祺出行 COO 韩锋：世界模型越强，真实数据才是真壁垒,由于真实数据采集成本高昂且周期漫长，越来越多智驾和具身智能公司借助世界模型和仿真平台生成合成数据，补充真实数据不足，以提升模型训练效率。如祺出行试图依靠投入常态化出行服务的数据采集车、Robotaxi 和线下运维网络，以较低成本持续获得真实、连续且规模化的数据，再通过已经搭建的数据闭环，将其转化为自动驾驶、世界模型和具身智能公司可以直接使用的训练材料。如祺相关数据资产已经覆盖感知数据、行为数据、合成数据和多模态训练数据集四大类。 雷锋网 25 分钟前,,https://www.leiphone.com/category/transportation/ESCXNijR4DVx6uDl.html,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+5,OpenAI 首份青少年报告出炉：日均使用不足 15 分钟，家长提醒机制遭质疑,OpenAI 近日发布了首份针对青少年用户的 ChatGPT 使用报告，数据显示青少年用户平均每日使用时间不足 15 分钟，其中连续使用超过 3 小时的用户占比不到 2%，且半数用户会在收到休息提醒后 5 分钟内暂停或结束对话。第三方机构 Common Sense Media 发表报告指出，ChatGPT 青少年模式在涉及自杀、自伤等敏感话题时存在通知延迟或未通知的情况。 AIBase 1 小时前,,https://www.aibase.com/zh/news/31454,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+6,无驾驶舱重卡上路，卡尔动力押注无人货运规模化,卡尔动力在棋盘井镇宣布启动规模化 AI 运输网络，将有人驾驶、保留驾驶舱的无人卡车以及无驾驶舱的运输机器人纳入同一运输系统。卡尔动力敢把目标设定为建设规模化 AI 运输网络，前提是这门生意已经开始算得过账。随着无驾驶舱的运输机器人投入运营，卡尔动力宣布单车经济效益有望从 20% 提升至 30% 以上。 雷锋网 38 分钟前,,https://www.leiphone.com/category/transportation/YNHH7HgbCnGN56XQ.html,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+7,WordPress 7.1.3 紧急修补 7 个安全漏洞：Anthropic 贡献其中 3 个,WordPress 在 10 月 6 日推出 7.1.3 版本，一次性修补了平台核心里的 7 个安全漏洞，并解决了 4 个程序 Bug。有意思的是，这批漏洞的报告方里混进了一个不太一样的名字 —— 主业是造大模型的 Anthropic，一口气贡献了其中 3 个，等于一家做前沿 AI 的公司，反过来给全球最流行的建站系统当起了保安。7 个安全漏洞里，Anthropic 报了 3 个，安全机构 Trail of Bits 和 Patchstack 各报 1 个，另有 1 个由三名,,https://www.aibase.com/zh/news/31460,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+8,"Helping teens learn, plan, and shape the future of AI","College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council. OpenAI 14 小时前",,https://openai.com/index/teens-learn-and-plan,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+9,谷歌 Gmail 暗藏 Gemini 智能体：APK 拆解泄露，未来让 AI 替你回邮件,谷歌似乎正准备把 Gemini 塞进 Gmail 的收件箱里，让 AI 替用户把回邮件这件琐事接过去。线索来自最新版 Gmail 应用（版本号 v2026.09.28）的 APK 拆解 —— 开发者从安装包里翻出了多段与之相关的代码，显示这款邮件客户端可能正在孕育一个由 Gemini 驱动的智能体，能够自动处理邮件回复。从藏在代码里的注释看，功能一旦上线，Gmail 的 AI 收件箱会在待办事项一旁亮出一个「使用 Gemini」的按钮。 AIBase 54 分钟前,,https://www.aibase.com/zh/news/31456,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
+10,马斯克打破门户之见 Grok Bot 将接入 Claude 等最佳 AI 模型,埃隆・马斯克在 X 平台宣布了一项重大调整，旗下的 Grok Bot 不再仅仅依赖自家开发的 Grok 系列模型。未来系统将以获取最佳输出结果为唯一标准，自动为用户选择并调用最合适的后端模型。这意味着 Grok Bot 将向「任务导向的多模型混合架构」转变，不再局限于自研或自有技术。 AIBase 1 小时前,,https://www.aibase.com/zh/news/31453,,Readhub,AI 资讯,ai,digest,,2026-10-08 10:52:01
