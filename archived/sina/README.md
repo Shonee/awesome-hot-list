@@ -1,28 +1,28 @@
 # 新浪热榜
 
-> 更新时间：2026-10-09 05:12:35
+> 更新时间：2026-10-09 06:12:46
 
 ## 新闻热榜
 
-1. [消息人士称，维特科夫、库什纳将于周五在迈阿密与乌克兰代表举行工作会晤。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4133029.shtml)
-2. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
+1. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
+2. [消息人士称，维特科夫、库什纳将于周五在迈阿密与乌克兰代表举行工作会晤。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4133029.shtml)
 3. [外媒称日方希望中方对高市早苗给予适当的尊重，外交部回应](https://news.sina.com.cn/c/2026-10-08/doc-iniupafi7703481.shtml)
 4. [沙特一飞机据报在机场遭袭起火](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4124922.shtml)
 5. [2026诺贝尔文学奖揭晓！为什么是她？](https://news.sina.com.cn/w/2026-10-08/doc-iniupnvc3589788.shtml)
-6. [根据与投资者共享的财务文件，OpenAI的年化收入较此前所暗示的水平低约200亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432234.shtml)
-7. [费城半导体指数日内跌3%](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4207983.shtml)
-8. [美联储穆萨莱姆：金融状况已适度且有序收紧。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7462230.shtml)
-9. [美联储官员穆萨莱姆：名义收益率上行，部分原因是实际收益率受利率预期推动走高.](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4231548.shtml)
-10. [芝商所将于10月12日推出全球首个棒球期货。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4142358.shtml)
-11. [加拿大宣布对放射性药物领域进行新投资。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7444839.shtml)
-12. [欧洲头部金融科技独角兽Revolut CEO：计划在美国进行主要上市。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7423503.shtml)
-13. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
-14. [克里姆林宫发言人佩斯科夫表示，俄罗斯同意美国国务卿鲁比奥的看法，即乌克兰冲突已陷入僵局。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsp7368184.shtml)
-15. [沃尔玛：在斯托克顿开设下一代配送中心，创造超过1000个就业岗位。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4125001.shtml)
-16. [委内瑞拉代理总统罗德里格斯表示，预计2026年第三季度经济将增长6.5%。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7461948.shtml)
-17. [SpaceXAI因利用用户上传照片进行人脸测绘而被起诉。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7435334.shtml)
-18. [大英博物馆回应两件中国瓷器受损：瓷碗从展架掉落砸到瓷盒 已交修复团队](https://news.sina.com.cn/w/2026-10-08/doc-iniuphpf7663639.shtml)
-19. [委内瑞拉代总统罗德里格斯表示，委内瑞拉预计未来两年将获得来自公共和私人领域合计120亿美元的融资。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7465549.shtml)
+6. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
+7. [根据与投资者共享的财务文件，OpenAI的年化收入较此前所暗示的水平低约200亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432234.shtml)
+8. [费城半导体指数日内跌3%](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4207983.shtml)
+9. [美联储穆萨莱姆：金融状况已适度且有序收紧。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7462230.shtml)
+10. [美联储官员穆萨莱姆：名义收益率上行，部分原因是实际收益率受利率预期推动走高.](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4231548.shtml)
+11. [芝商所将于10月12日推出全球首个棒球期货。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4142358.shtml)
+12. [加拿大宣布对放射性药物领域进行新投资。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7444839.shtml)
+13. [欧洲头部金融科技独角兽Revolut CEO：计划在美国进行主要上市。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7423503.shtml)
+14. [可口可乐拟出售咖世家咖啡。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4147074.shtml)
+15. [SpaceX将收购低频段频谱 用于移动通信服务](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqiyp4037589.shtml)
+16. [SpaceX同意收购全国性800 MHz低频段频谱牌照组合。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4154996.shtml)
+17. [克里姆林宫发言人佩斯科夫表示，俄罗斯同意美国国务卿鲁比奥的看法，即乌克兰冲突已陷入僵局。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsp7368184.shtml)
+18. [沃尔玛：在斯托克顿开设下一代配送中心，创造超过1000个就业岗位。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4125001.shtml)
+19. [SpaceXAI因利用用户上传照片进行人脸测绘而被起诉。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7435334.shtml)
 
 ## 财经热榜
 

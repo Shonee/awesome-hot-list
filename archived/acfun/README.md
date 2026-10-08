@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-09 05:12:09
+> 更新时间：2026-10-09 06:12:24
 
 ## 日榜
 
@@ -12,8 +12,8 @@
 6. [口死那个石家庄人 Live 片段](https://www.acfun.cn/v/ac48898305)
 7. [hide and seek~](https://www.acfun.cn/v/ac48897589)
 8. [网络上常见的热门短视频集锦   第三千四百七十六期](https://www.acfun.cn/v/ac48898199)
-9. [去南通吃早面，享受碳水配碳水的快乐！](https://www.acfun.cn/v/ac48899122)
-10. [恨海情天【今天有什么好笑的 #2530】](https://www.acfun.cn/v/ac48898741)
+9. [恨海情天【今天有什么好笑的 #2530】](https://www.acfun.cn/v/ac48898741)
+10. [去南通吃早面，享受碳水配碳水的快乐！](https://www.acfun.cn/v/ac48899122)
 11. [网络上常见的热门短视频集锦   第三千四百七十五期](https://www.acfun.cn/v/ac48897194)
 12. [闪身步！️](https://www.acfun.cn/v/ac48897383)
 13. [哥哥，出来钓鱼吗？欢乐八点档-1796](https://www.acfun.cn/v/ac48898860)
@@ -24,8 +24,8 @@
 18. [校长在渡劫](https://www.acfun.cn/v/ac48897629)
 19. [肉鸽+搜打撤+MOBA？魔兽RPG这么多年了还在发力？](https://www.acfun.cn/v/ac48899325)
 20. [一个第三视角花絮，有没有人想看正](https://www.acfun.cn/v/ac48899704)
-21. [38.隐藏在恐龙脚下的隐秘刺客，失落的两栖第四大家族：异螈目](https://www.acfun.cn/v/ac48899504)
-22. [打辅拳西即将上线！成型打系该不该超越技系？](https://www.acfun.cn/v/ac48899691)
+21. [打辅拳西即将上线！成型打系该不该超越技系？](https://www.acfun.cn/v/ac48899691)
+22. [38.隐藏在恐龙脚下的隐秘刺客，失落的两栖第四大家族：异螈目](https://www.acfun.cn/v/ac48899504)
 23. [wtf](https://www.acfun.cn/v/ac48899547)
 24. [小貉貉出道三周年纪念回！](https://www.acfun.cn/v/ac48897964)
 25. [激战100多人头！无限打团！快速看完一局韩服王者斗殴局#851  Feifan, Linfeng,](https://www.acfun.cn/v/ac48892361)
@@ -41,19 +41,19 @@
 35. [上班第一天，来看我们BABYMONSTER帅气郑雅譞](https://www.acfun.cn/v/ac48898559)
 36. [大龄剩女也看不上你](https://www.acfun.cn/v/ac48897909)
 37. [三角洲行动：M4A1万金油步枪，闭眼可选的武器](https://www.acfun.cn/v/ac48897643)
-38. [炸裂秋促！3A全崩盘？9块的1折神作！厂商跳楼清仓，错过再等一年？20款史低游戏查漏补缺，国庆必玩](https://www.acfun.cn/v/ac48898692)
-39. [G胖疯了？19.8拿下怪猎！史上最强秋促，1折多到爆！大批3A神作新史低白菜价！国庆必玩+捡漏指南](https://www.acfun.cn/v/ac48898674)
-40. [相信我，没事的](https://www.acfun.cn/v/ac48897630)
-41. [再哭就滚出去！德国人忍不了一点，在线怼！](https://www.acfun.cn/v/ac48896959)
-42. [20261003](https://www.acfun.cn/v/ac48898972)
-43. [从这里走向战场](https://www.acfun.cn/v/ac48899763)
+38. [从这里走向战场](https://www.acfun.cn/v/ac48899763)
+39. [炸裂秋促！3A全崩盘？9块的1折神作！厂商跳楼清仓，错过再等一年？20款史低游戏查漏补缺，国庆必玩](https://www.acfun.cn/v/ac48898692)
+40. [G胖疯了？19.8拿下怪猎！史上最强秋促，1折多到爆！大批3A神作新史低白菜价！国庆必玩+捡漏指南](https://www.acfun.cn/v/ac48898674)
+41. [相信我，没事的](https://www.acfun.cn/v/ac48897630)
+42. [再哭就滚出去！德国人忍不了一点，在线怼！](https://www.acfun.cn/v/ac48896959)
+43. [20261003](https://www.acfun.cn/v/ac48898972)
 44. [蕾米莉亚x芙兰朵露 『让其响彻/ヒビカセ』](https://www.acfun.cn/v/ac48882893)
 45. [【绝望女神】【独立恐怖游戏 哈鲁鱼】](https://www.acfun.cn/v/ac48899347)
-46. [【雀魂汪汪录】第404期 这是啥牌型啊？](https://www.acfun.cn/v/ac48881263)
-47. [二次元美少女一句话教会你五十音~](https://www.acfun.cn/v/ac48898703)
-48. [【卡拉彼丘MMD】傻傻的诺](https://www.acfun.cn/v/ac48898315)
-49. [EXID- DDD](https://www.acfun.cn/v/ac48899821)
-50. [狠辣过头！这女主争议拉满！带崩整部番！](https://www.acfun.cn/v/ac48899629)
+46. [EXID- DDD](https://www.acfun.cn/v/ac48899821)
+47. [【雀魂汪汪录】第404期 这是啥牌型啊？](https://www.acfun.cn/v/ac48881263)
+48. [二次元美少女一句话教会你五十音~](https://www.acfun.cn/v/ac48898703)
+49. [【卡拉彼丘MMD】傻傻的诺](https://www.acfun.cn/v/ac48898315)
+50. [【二合一录播】是谁又长大了](https://www.acfun.cn/v/ac48899907)
 
 ## 三日榜
 
@@ -67,8 +67,8 @@
 8. [别脱，要的就是面罩！★手机竖屏2025★](https://www.acfun.cn/v/ac48893157)
 9. [魔兽无限设计师嘴欠，一篇小作文社区吵翻【绅批】](https://www.acfun.cn/v/ac48894799)
 10. [《八字弱的人养不了》](https://www.acfun.cn/v/ac48894507)
-11. [让箭头再飞一会！★手机竖屏2026★](https://www.acfun.cn/v/ac48895295)
-12. [今天被英国的奶奶们夸了一路](https://www.acfun.cn/v/ac48887474)
+11. [今天被英国的奶奶们夸了一路](https://www.acfun.cn/v/ac48887474)
+12. [让箭头再飞一会！★手机竖屏2026★](https://www.acfun.cn/v/ac48895295)
 13. [这怎么把持得住啊！欢乐八点档-1794](https://www.acfun.cn/v/ac48893169)
 14. [这个也是真心喜欢！★手机竖屏2027★](https://www.acfun.cn/v/ac48897183)
 15. [厨师长一镜分享“万能炒蔬菜”的门门道道，收藏并学习起来](https://www.acfun.cn/v/ac48898434)
@@ -152,8 +152,8 @@
 40. [红昭愿](https://www.acfun.cn/v/ac48891473)
 41. [【东方】推特东方小视频选集 第274期](https://www.acfun.cn/v/ac48887727)
 42. [人间琴悠扬，姑娘把谁记心上](https://www.acfun.cn/v/ac48885884)
-43. [第一届灼热杯精彩集锦](https://www.acfun.cn/v/ac48891569)
-44. [厨师长一镜分享“万能炒蔬菜”的门门道道，收藏并学习起来](https://www.acfun.cn/v/ac48898434)
+43. [厨师长一镜分享“万能炒蔬菜”的门门道道，收藏并学习起来](https://www.acfun.cn/v/ac48898434)
+44. [第一届灼热杯精彩集锦](https://www.acfun.cn/v/ac48891569)
 45. [【颜音】サクラ・インカーネーション（Sakura Incarnation）](https://www.acfun.cn/v/ac48897141)
 46. [网络上常见的热门短视频集锦   第三千四百六十四期](https://www.acfun.cn/v/ac48885670)
 47. [网络上常见的热门短视频集锦   第三千四百六十七期](https://www.acfun.cn/v/ac48889004)
