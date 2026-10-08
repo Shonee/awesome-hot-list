@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-08 11:47:50
+> 更新时间：2026-10-08 18:14:03
 
 ## 每日趋势
 
@@ -109,14 +109,13 @@
 6. [trivy](https://github.com/aquasecurity/trivy)
 7. [3x-ui](https://github.com/MHSanaei/3x-ui)
 8. [gvisor](https://github.com/google/gvisor)
-9. [ARTEX](https://github.com/Autumn-27/ARTEX)
-10. [caveman](https://github.com/JuliusBrussee/caveman)
-11. [CodeAF](https://github.com/Agent-Field/CodeAF)
-12. [netdata](https://github.com/netdata/netdata)
-13. [superfile](https://github.com/yorukot/superfile)
-14. [prometheus](https://github.com/prometheus/prometheus)
-15. [k3s](https://github.com/k3s-io/k3s)
-16. [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+9. [caveman](https://github.com/JuliusBrussee/caveman)
+10. [CodeAF](https://github.com/Agent-Field/CodeAF)
+11. [netdata](https://github.com/netdata/netdata)
+12. [superfile](https://github.com/yorukot/superfile)
+13. [prometheus](https://github.com/prometheus/prometheus)
+14. [k3s](https://github.com/k3s-io/k3s)
+15. [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ## HTML
 
