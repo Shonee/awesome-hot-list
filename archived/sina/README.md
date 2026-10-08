@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-09 01:13:00
+> 更新时间：2026-10-09 02:16:48
 
 ## 新闻热榜
 
-1. [演员吴奇隆被曝因国庆期间手举国旗遭台湾取消活动，本人晒爬长城、游览北京天坛视频，坚持称“我们国家”“不赚钱也是这个立场”](https://news.sina.com.cn/c/2026-10-07/doc-iniukhkn6218486.shtml)
-2. [网传“高铁座椅成HPV感染重灾区”，是真的吗？](https://news.sina.com.cn/c/2026-10-07/doc-iniuirnu6478496.shtml)
-3. [中东，历史性一幕正在上演](https://news.sina.com.cn/w/2026-10-07/doc-iniuknsk6091669.shtml)
-4. [暴雨、大暴雨！紧急提醒→](https://news.sina.com.cn/c/2026-10-07/doc-iniuirnr8511285.shtml)
-5. [部分高速服务区推行充电“八分饱” 会成为常态吗？](https://news.sina.com.cn/c/2026-10-07/doc-iniuirnu6490474.shtml)
-6. [江面漂满白花花的馒头，有人一次买25个喂鱼，居民称“鱼都快吃吐了”，当地：会规劝此类行为](https://mil.news.sina.com.cn/2026-10-07/doc-iniukhkr4926780.shtml)
-7. [不敌当地竞争对手，7-11便利店退出印度](https://news.sina.com.cn/w/2026-10-06/doc-iniuiewx5464009.shtml)
-8. [重拳打击！缅北电诈团伙一度气焰嚣张 窝点距我口岸仅200米](https://news.sina.com.cn/c/2026-10-07/doc-iniukhki8285261.shtml)
-9. [解读2026年诺贝尔物理学奖：把南极冰变成“望远镜”](https://news.sina.com.cn/w/2026-10-06/doc-iniuiexc5408187.shtml)
-10. [美媒：两架飞机在洛杉矶国际机场滑行道上相撞](https://news.sina.com.cn/w/2026-10-07/doc-iniuknsi5009513.shtml)
-11. [外交部：美方应慎重处理台湾问题](https://news.sina.com.cn/c/2026-10-06/doc-iniuhyra6765768.shtml)
-12. [国足0:1不敌塔吉克斯坦队，韩乔生：这场比赛确实难看，但邵佳一目前还远没到下课的地步](https://news.sina.com.cn/c/2026-10-07/doc-iniuivuv5123445.shtml)
-13. [南京大屠杀幸存者郭秀兰去世 登记在册的在世幸存者仅剩20位](https://news.sina.com.cn/c/2026-10-07/doc-iniuknsk6093929.shtml)
-14. [“牛奶湖”全面排查整改 拆除清理临建设施](https://news.sina.com.cn/c/2026-10-07/doc-iniukhkn6219598.shtml)
-15. [被骗至妙瓦底4天被卖3次 演员王星案详细案情披露](https://news.sina.com.cn/c/2026-10-07/doc-iniuksyf4948147.shtml)
-16. [清晨！美联储，加息大消息！](https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaam8339922.shtml)
-17. [双色球头奖11注577万分落10地 奖池余额9.41亿元](https://sports.sina.com.cn/l/2026-10-06/doc-iniuiewx5435224.shtml)
-18. [16条人命，在公安部领导下，警方费尽千辛万苦，从缅北拿回来只有5具尸体跟1份骨灰](https://news.sina.com.cn/c/2026-10-07/doc-iniukaaq6269764.shtml)
-19. [视频丨迪拜航空副驾驶行凶当天发布的社交媒体视频曝光](https://news.sina.com.cn/w/2026-10-07/doc-iniuiewx5454833.shtml)
-20. [胡塞武装称挫败沙特多次进攻](https://news.sina.com.cn/w/2026-10-07/doc-iniuimew6603006.shtml)
+1. [根据与投资者共享的财务文件，OpenAI的年化收入较此前所暗示的水平低约200亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432234.shtml)
+2. [欧洲头部金融科技独角兽Revolut CEO：计划在美国进行主要上市。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7423503.shtml)
+3. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
+4. [外媒称日方希望中方对高市早苗给予适当的尊重，外交部回应](https://news.sina.com.cn/c/2026-10-08/doc-iniupafi7703481.shtml)
+5. [2026诺贝尔文学奖揭晓！为什么是她？](https://news.sina.com.cn/w/2026-10-08/doc-iniupnvc3589788.shtml)
+6. [OpenAI近期告知投资者，截至9月底，该公司年化营收已接近500亿美元，远低于此前暗示的700亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432825.shtml)
+7. [欧盟天然气协调小组：欧盟基础设施有能力承载更多液化天然气（LNG）进口，可抵消库存水平偏低带来的缺口。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4189796.shtml)
+8. [特朗普就伊朗问题发表言论后，美国国债收益率随油价下跌。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7420460.shtml)
+9. [费城半导体指数日内跌3%](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4207983.shtml)
+10. [SpaceXAI因利用用户上传照片进行人脸测绘而被起诉。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7435334.shtml)
+11. [大英博物馆回应两件中国瓷器受损：瓷碗从展架掉落砸到瓷盒 已交修复团队](https://news.sina.com.cn/w/2026-10-08/doc-iniuphpf7663639.shtml)
+12. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
+13. [2名驴友国庆期间违规穿越哈巴雪山遇险，救援人员历经25小时将其救下后，2人被罚8千元，并自行承担9万余元救援费](https://news.sina.com.cn/c/2026-10-08/doc-iniupnux4307117.shtml)
+14. [张硕辅被查，广东省人大常委会党组：坚决拥护党中央决定](https://news.sina.com.cn/c/2026-10-08/doc-iniuphnx7603203.shtml)
+15. [双色球15注603万分落9地 上海或爆3618万大奖](https://sports.sina.com.cn/l/2026-10-08/doc-iniuptaz3516309.shtml)
+16. [特朗普称美国不会在11月3日中期选举前攻击伊朗](https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniupxkt4199251.shtml)
+17. [节后第一天就冲高回落、午后跳水，A股发生了什么？](https://finance.sina.com.cn/roll/2026-10-08/doc-iniupaez7562522.shtml)
+18. [美国暂停微软等科技公司参与PERM项目 称其滥用签证制度](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniuptav4310934.shtml)
+19. [央行发布人民币汇率的政策立场（全文）](https://finance.sina.com.cn/china/2026-10-08/doc-iniuphnx7564423.shtml)
+20. [一辆百万豪车的刹车踏板，多大力才算“踩过头”？](https://news.sina.com.cn/c/2026-10-08/doc-iniuptaz3536045.shtml)
 
 ## 财经热榜
 
