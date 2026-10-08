@@ -1,10 +1,10 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-08 22:43:00
+> 更新时间：2026-10-08 23:42:25
 
 ## 最有料热点
 
-1. [尊界回应:制动系统高于国标](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366594&topic_name=%E5%B0%8A%E7%95%8C%E5%9B%9E%E5%BA%94%3A%E5%88%B6%E5%8A%A8%E7%B3%BB%E7%BB%9F%E9%AB%98%E4%BA%8E%E5%9B%BD%E6%A0%87)
+1. [免费升级!尊界回应刹车问题](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366594&topic_name=%E5%85%8D%E8%B4%B9%E5%8D%87%E7%BA%A7%21%E5%B0%8A%E7%95%8C%E5%9B%9E%E5%BA%94%E5%88%B9%E8%BD%A6%E9%97%AE%E9%A2%98)
 2. [尊界刹车断裂,这锅该谁背?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366503&topic_name=%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E6%96%AD%E8%A3%82%2C%E8%BF%99%E9%94%85%E8%AF%A5%E8%B0%81%E8%83%8C%3F)
 3. [俄罗斯鼠疫研究机构员工死亡](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366451&topic_name=%E4%BF%84%E7%BD%97%E6%96%AF%E9%BC%A0%E7%96%AB%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%AD%BB%E4%BA%A1)
 4. [尊界V800刹车断裂,股东哭晕](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366486&topic_name=%E5%B0%8A%E7%95%8CV800%E5%88%B9%E8%BD%A6%E6%96%AD%E8%A3%82%2C%E8%82%A1%E4%B8%9C%E5%93%AD%E6%99%95)
