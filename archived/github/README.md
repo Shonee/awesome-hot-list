@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-08 05:39:58
+> 更新时间：2026-10-08 11:47:50
 
 ## 每日趋势
 
@@ -89,14 +89,15 @@
 4. [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 5. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 6. [iFixAi](https://github.com/ifixai-ai/iFixAi)
-7. [PageIndex](https://github.com/VectifyAI/PageIndex)
-8. [text-to-cad](https://github.com/earthtojake/text-to-cad)
-9. [sentry](https://github.com/getsentry/sentry)
-10. [OpenMontage](https://github.com/calesthio/OpenMontage)
-11. [heretic](https://github.com/p-e-w/heretic)
-12. [Octop](https://github.com/TencentCloud/Octop)
-13. [TensorFold](https://github.com/ashhart/TensorFold)
-14. [hackingtool](https://github.com/Z4nzu/hackingtool)
+7. [octabam](https://github.com/sambanks/octabam)
+8. [PageIndex](https://github.com/VectifyAI/PageIndex)
+9. [text-to-cad](https://github.com/earthtojake/text-to-cad)
+10. [sentry](https://github.com/getsentry/sentry)
+11. [OpenMontage](https://github.com/calesthio/OpenMontage)
+12. [heretic](https://github.com/p-e-w/heretic)
+13. [Octop](https://github.com/TencentCloud/Octop)
+14. [TensorFold](https://github.com/ashhart/TensorFold)
+15. [hackingtool](https://github.com/Z4nzu/hackingtool)
 
 ## Go
 
@@ -125,8 +126,9 @@
 4. [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 5. [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 6. [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)
-7. [legado](https://github.com/aoaostar/legado)
-8. [axe-core](https://github.com/dequelabs/axe-core)
+7. [remctl](https://github.com/viticci/remctl)
+8. [legado](https://github.com/aoaostar/legado)
+9. [axe-core](https://github.com/dequelabs/axe-core)
 
 ## JavaScript
 
