@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 14:24:14
+> 更新时间：2026-10-08 14:59:49
 
 ## 新闻热榜
 
@@ -31,19 +31,19 @@
 2. [又“热”起来了！探访国庆假期北京楼市：售楼处、样板间，都要排号](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezq5356489.shtml)
 3. [操盘必读：影响股市利好或利空消息_2026年10月8日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-08/doc-iniunezp4460356.shtml)
 4. [美国拟就国际学生留美工作征收高额费用](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumytr4549949.shtml)
-5. [美军称伊朗对霍尔木兹海峡拥有“完全控制权”的说法不实](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7659070.shtml)
-6. [清晨，集体跳水！美联储，释放重磅信号！](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezp4468562.shtml)
+5. [清晨，集体跳水！美联储，释放重磅信号！](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezp4468562.shtml)
+6. [美军称伊朗对霍尔木兹海峡拥有“完全控制权”的说法不实](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7659070.shtml)
 7. [美军奉命准备重启对伊朗重大行动：特朗普权衡时机，行动或赶在美以选举前](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunmir3995242.shtml)
 8. [最高股息率近14%！节后A股“红包雨”来了](https://finance.sina.com.cn/stock/bxjj/2026-10-08/doc-iniunezm7666207.shtml)
 9. [美联储会议纪要：加息理由存在分歧，年内或将再上调利率一次](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7683061.shtml)
-10. [机构：科技主线或重新占优](https://finance.sina.com.cn/roll/2026-10-08/doc-iniumytr4530975.shtml)
+10. [假期后A股有望“量价齐升” 机构：科技主线或重新占优](https://finance.sina.com.cn/roll/2026-10-08/doc-iniumytr4530975.shtml)
 11. [别忘了打新！就在明天，节后新股申购](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezq5355806.shtml)
 12. [黄金储备“23连增” 背后的深意](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezp4426335.shtml)
-13. [股海导航_2026年10月8日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-08/doc-iniunezq5351468.shtml)
-14. [恒生科技指数大调整 成份股将增至50只](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7700939.shtml)
-15. [“高中签率”新股 46.9万股遭弃购](https://finance.sina.com.cn/stock/roll/2026-10-08/doc-iniunezm7651165.shtml)
-16. [美国CIA前官员电诈近两亿美元，家中搜出金条美钞装满11个箱子](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumx4262821.shtml)
-17. [伊朗高级官员：伊朗绝不会放弃铀浓缩权利](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumqcv4723166.shtml)
-18. [10月8日收盘：三大指数收跌 10年期美债收益率创20年新高 银行与科技股承压](https://finance.sina.com.cn/world/2026-10-08/doc-iniumytv4173772.shtml)
-19. [董事长被指系“东航空姐下跪事件”当事人，广东一上市公司回应](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezt4068210.shtml)
+13. [恒生科技指数大调整 成份股将增至50只](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7700939.shtml)
+14. [“高中签率”新股 46.9万股遭弃购](https://finance.sina.com.cn/stock/roll/2026-10-08/doc-iniunezm7651165.shtml)
+15. [股海导航_2026年10月8日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-08/doc-iniunezq5351468.shtml)
+16. [伊朗高级官员：伊朗绝不会放弃铀浓缩权利](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumqcv4723166.shtml)
+17. [董事长被指系“东航空姐下跪事件”当事人，广东一上市公司回应](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezt4068210.shtml)
+18. [美国CIA前官员电诈近两亿美元，家中搜出金条美钞装满11个箱子](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumx4262821.shtml)
+19. [10月8日收盘：三大指数收跌 10年期美债收益率创20年新高 银行与科技股承压](https://finance.sina.com.cn/world/2026-10-08/doc-iniumytv4173772.shtml)
 20. [财经早报丨特朗普：对伊朗的军事行动“必须收尾了”，央行连续23个月增持黄金丨2026年10月8日](https://finance.sina.com.cn/stock/y/2026-10-08/doc-iniunezp4467989.shtml)

@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-08 14:24:21
+> 更新时间：2026-10-08 15:00:34
 
 ## 日榜
 
@@ -11,8 +11,8 @@
 5. [微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元](https://www.ithome.com/1/010/320.htm)
 6. [2026 年诺贝尔化学奖公布：二人因解开不对称有机合成难题获奖，其中一位 96 岁高龄](https://www.ithome.com/1/010/245.htm)
 7. [挑战李飞飞：曾被字节辞退的实习生田柯宇进军世界模型，创业公司估值达 2 亿美元](https://www.ithome.com/1/010/356.htm)
-8. [华为徐直军回应“美国同行呼吁放缓 AI 开发”：中国模型更弱反而需要加快，不然怎么体会到风险](https://www.ithome.com/1/010/198.htm)
-9. [华为自研 Wi-Fi 7+ 芯片级协同技术支持设备上新，新增 Mate 90 系列手机](https://www.ithome.com/1/010/243.htm)
-10. [打通 AirDrop：小米 18 Pro Max 手机上线“与 Apple 设备互传”功能](https://www.ithome.com/1/010/209.htm)
-11. [余承东：从 2007 年到 2025 年底，华为累计研发投入超 1.8 万亿元人民币](https://www.ithome.com/1/010/283.htm)
+8. [华为自研 Wi-Fi 7+ 芯片级协同技术支持设备上新，新增 Mate 90 系列手机](https://www.ithome.com/1/010/243.htm)
+9. [打通 AirDrop：小米 18 Pro Max 手机上线“与 Apple 设备互传”功能](https://www.ithome.com/1/010/209.htm)
+10. [余承东：从 2007 年到 2025 年底，华为累计研发投入超 1.8 万亿元人民币](https://www.ithome.com/1/010/283.htm)
+11. [华为余承东亲自为霍英东集团总裁霍震寰交付尊界 V800，名人车主阵容再扩容](https://www.ithome.com/1/010/450.htm)
 12. [华为 5A 通信技术最新设备清单公开，新增 Mate 90 系列、Mate XT 2 等机型](https://www.ithome.com/1/010/296.htm)

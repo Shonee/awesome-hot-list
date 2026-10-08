@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-08 14:23:57
+> 更新时间：2026-10-08 14:59:25
 
 ## 最新帖子
 
-1. [Claude Code 实战 400 万 Tokens：接入 DeepSeek V4，从$26降到$2](https://www.cnblogs.com/uniqueDong/p/23222843)
-2. [（一）独热编码、标签编码、目标编码、序数编码详解](https://www.cnblogs.com/liyunlin532150549/p/21284646)
-3. [什么是范数？用 NumPy 动手算一遍就明白了](https://www.cnblogs.com/wang_yb/p/23222493)
-4. [Linux桌面端应用向鸿蒙PC迁移适配纪实](https://www.cnblogs.com/KBin/p/23219928)
-5. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
-6. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
-7. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
-8. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
-9. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
-10. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
-11. [vllm企业私有化大模型部署实战指南](https://www.cnblogs.com/aifrontiers/p/23167708)
-12. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
-13. [ThingsBoard 集群的核心逻辑源码分析](https://www.cnblogs.com/dddy/p/22405537)
-14. [【笔记】生成式模型的注意力计算-矩阵视角](https://www.cnblogs.com/cswuyg/p/23217280)
-15. [从手动检查到自动监控：一个数据质量工作流的实现](https://www.cnblogs.com/wang_yb/p/23216940)
-16. [并发编程（八）：读写锁——从语言规则到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23216594)
-17. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
-18. [计算机视觉：让板子从“看见”到“看懂”](https://www.cnblogs.com/zw-awa/p/23216090)
-19. [学习NOTE番外 1——浅谈逆元](https://www.cnblogs.com/T-M-T/p/23215740)
-20. [单模型执行器 与 OpenCode v2配置迁移 笔记](https://www.cnblogs.com/znlgis/p/23215173)
+1. [一文搞懂 Function Calling：大模型究竟是如何调用工具的？](https://www.cnblogs.com/Tomorrowland/p/23223896)
+2. [Claude Code 实战 400 万 Tokens：接入 DeepSeek V4，从$26降到$2](https://www.cnblogs.com/uniqueDong/p/23222843)
+3. [（一）独热编码、标签编码、目标编码、序数编码详解](https://www.cnblogs.com/liyunlin532150549/p/21284646)
+4. [什么是范数？用 NumPy 动手算一遍就明白了](https://www.cnblogs.com/wang_yb/p/23222493)
+5. [Linux桌面端应用向鸿蒙PC迁移适配纪实](https://www.cnblogs.com/KBin/p/23219928)
+6. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
+7. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
+8. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
+9. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
+10. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
+11. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
+12. [vllm企业私有化大模型部署实战指南](https://www.cnblogs.com/aifrontiers/p/23167708)
+13. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
+14. [ThingsBoard 集群的核心逻辑源码分析](https://www.cnblogs.com/dddy/p/22405537)
+15. [【笔记】生成式模型的注意力计算-矩阵视角](https://www.cnblogs.com/cswuyg/p/23217280)
+16. [从手动检查到自动监控：一个数据质量工作流的实现](https://www.cnblogs.com/wang_yb/p/23216940)
+17. [并发编程（八）：读写锁——从语言规则到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23216594)
+18. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
+19. [计算机视觉：让板子从“看见”到“看懂”](https://www.cnblogs.com/zw-awa/p/23216090)
+20. [学习NOTE番外 1——浅谈逆元](https://www.cnblogs.com/T-M-T/p/23215740)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [国庆假期我干了件事：让 Agent 平时睡大觉，数据一变就醒来干活](https://www.cnblogs.com/shanyou/p/23212659)
 2. [AI前端调试员上岗：用Chrome DevTools MCP让Agent自己看控制台和性能面板](https://www.cnblogs.com/Tanya6208/p/23208667)
 3. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
-4. [传感器是什么：让 STM32 知道车外发生了什么](https://www.cnblogs.com/zw-awa/p/23210458)
+4. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
 5. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
-6. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
+6. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
