@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-09 00:16:19
+> 更新时间：2026-10-09 01:40:07
 
 ## 24 小时热榜
 
@@ -23,17 +23,17 @@
 17. [消息称三星手机 2026 年 Q4 最高减产 30% 卖出去也不赚钱](https://readhub.cn/topic/8x3OWGkcqaV?tab=daily)
 18. [德国搜索引擎 Ecosia 押注中国开源 AI 模型](https://readhub.cn/topic/8x3YWVRMjUz?tab=daily)
 19. [华为 Pura 90 Pro 系列主摄及外挂式长焦系统由欧菲光供货](https://readhub.cn/topic/8x3RjJ2FcLa?tab=daily)
-20. [小米澎程首销月锁单进展公布：上市 30 天锁单超 7 万台](https://readhub.cn/topic/8x3h5NU3YN1?tab=daily)
-21. [欧莱雅陷滑石粉相关诉讼，中国区回应在售产品符合国标](https://readhub.cn/topic/8x3xu71UKkC?tab=daily)
-22. [谷歌开源多模态嵌入模型 EmbeddingGemma 2 可离线多模态检索](https://readhub.cn/topic/8x3D8fzuGWE?tab=daily)
-23. [谷歌云推出 Gemini Agent，谷歌美股盘前涨超 1%](https://readhub.cn/topic/8x3uJfgiEIC?tab=daily)
-24. [多家在港中资券商调整 内地 IP 仅可卖出、出金](https://readhub.cn/topic/8x39YrquVTS?tab=daily)
-25. [马斯克：Grok Bot 将按任务择优调用 Claude 等第三方模型](https://readhub.cn/topic/8x33mkzwaJu?tab=daily)
-26. [红杉中国完成对佩尔科技控股收购](https://readhub.cn/topic/8x33mqpHwu4?tab=daily)
-27. [网传尊界刹车踏板安全疑虑引发关注 鸿蒙智行门店回应将联合测评公开数据](https://readhub.cn/topic/8x3rorJ5zlY?tab=daily)
-28. [新就业形态劳动者权益保障办法公开征求意见](https://readhub.cn/topic/8x3bjniUMcb?tab=daily)
-29. [尊界汽车回应制动踏板相关问题 将优化部件设计并免费升级](https://readhub.cn/topic/8x3ybFpLnNm?tab=daily)
-30. [懂车帝称网传暴力测试是谣言](https://readhub.cn/topic/8x42YRGUv9F?tab=daily)
+20. [欧莱雅陷滑石粉相关诉讼，中国区回应在售产品符合国标](https://readhub.cn/topic/8x3xu71UKkC?tab=daily)
+21. [小米澎程首销月锁单进展公布：上市 30 天锁单超 7 万台](https://readhub.cn/topic/8x3h5NU3YN1?tab=daily)
+22. [新就业形态劳动者权益保障办法公开征求意见](https://readhub.cn/topic/8x3bjniUMcb?tab=daily)
+23. [谷歌开源多模态嵌入模型 EmbeddingGemma 2 可离线多模态检索](https://readhub.cn/topic/8x3D8fzuGWE?tab=daily)
+24. [懂车帝称网传暴力测试是谣言](https://readhub.cn/topic/8x42YRGUv9F?tab=daily)
+25. [谷歌云推出 Gemini Agent，谷歌美股盘前涨超 1%](https://readhub.cn/topic/8x3uJfgiEIC?tab=daily)
+26. [多家在港中资券商调整 内地 IP 仅可卖出、出金](https://readhub.cn/topic/8x39YrquVTS?tab=daily)
+27. [马斯克：Grok Bot 将按任务择优调用 Claude 等第三方模型](https://readhub.cn/topic/8x33mkzwaJu?tab=daily)
+28. [红杉中国完成对佩尔科技控股收购](https://readhub.cn/topic/8x33mqpHwu4?tab=daily)
+29. [网传尊界刹车踏板安全疑虑引发关注 鸿蒙智行门店回应将联合测评公开数据](https://readhub.cn/topic/8x3rorJ5zlY?tab=daily)
+30. [苹果要求开发者明年 4 月起新 App 及更新需适配折叠屏 iPhone](https://readhub.cn/topic/8x3yFFfj3U8?tab=daily)
 
 ## 每日早报
 
