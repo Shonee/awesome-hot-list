@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-08 20:53:44
+> 更新时间：2026-10-08 21:43:43
 
 ## 新闻热榜
 
@@ -44,6 +44,6 @@
 15. [黄金储备“23连增” 背后的深意](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezp4426335.shtml)
 16. [特朗普说不再想要伊朗协议，美国准备“大规模轰炸”？](https://finance.sina.com.cn/money/forex/hbfx/2026-10-08/doc-iniunrrf7663054.shtml)
 17. [恒生科技指数大调整 成份股将增至50只](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7700939.shtml)
-18. [董事长被指系“东航空姐下跪事件”当事人，广东一上市公司回应](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezt4068210.shtml)
+18. [节后第一天就冲高回落、午后跳水，A股发生了什么？](https://finance.sina.com.cn/roll/2026-10-08/doc-iniupaez7562522.shtml)
 19. [日方称中国外交部经常直接称呼高市早苗的名字、要求给予适当尊重，中方回应](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7619369.shtml)
-20. [节后第一天就冲高回落、午后跳水，A股发生了什么？](https://finance.sina.com.cn/roll/2026-10-08/doc-iniupaez7562522.shtml)
+20. [董事长被指系“东航空姐下跪事件”当事人，广东一上市公司回应](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezt4068210.shtml)
