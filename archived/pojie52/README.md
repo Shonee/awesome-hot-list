@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-09 17:44:07
+> 更新时间：2026-10-09 18:41:16
 
 ## 人气热门
 
@@ -57,12 +57,12 @@
 
 ## 精华采撷
 
-1. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-2. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
-3. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-4. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-5. [Binary Ninja 5.3.9434 Personal 授权逻辑分析](https://www.52pojie.cn/thread-2121326-1-1.html)
-6. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
+1. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
+2. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+3. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+4. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+5. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+6. [Binary Ninja 5.3.9434 Personal 授权逻辑分析](https://www.52pojie.cn/thread-2121326-1-1.html)
 7. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
 8. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 9. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
