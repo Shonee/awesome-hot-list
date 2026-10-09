@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-09 18:13:31
+> 更新时间：2026-10-09 19:38:51
 
 ## 24 小时热榜
 
@@ -13,26 +13,26 @@
 7. [懂车帝再发测试视频：多款车型六次制动未出现刹车踏板支架断裂](https://readhub.cn/topic/8x4ryk4aujh?tab=daily)
 8. [苹果要求开发者明年 4 月起新 App 及更新需适配折叠屏 iPhone](https://readhub.cn/topic/8x3yFFfj3U8?tab=daily)
 9. [华为小米手机同日涨价，最高涨 1000 元](https://readhub.cn/topic/8x5AYwBCcdA?tab=daily)
-10. [千问 App 上线健康档案：支持接入健康设备、提供个性化分析](https://readhub.cn/topic/8x3gSNF1Hsv?tab=daily)
-11. [消息称苹果正与 LG 联合开发多款智能家居配件产品](https://readhub.cn/topic/8x30Da5qlAD?tab=daily)
-12. [OpenAI 年化营收较此前报道预期少约 200 亿美元](https://readhub.cn/topic/8x4DxP9SX5r?tab=daily)
-13. [尊界车辆刹车踏板测试断裂 双方就测试工况存分歧](https://readhub.cn/topic/8x46om1jwrg?tab=daily)
-14. [没有 App、14 个人、免费用：Instinct 撑起百亿美元估值](https://readhub.cn/topic/8x3rAP2f6fH?tab=daily)
-15. [欧莱雅陷滑石粉相关诉讼，中国区回应在售产品符合国标](https://readhub.cn/topic/8x3xu71UKkC?tab=daily)
-16. [李想：2026 款理想 i6 将于 10 月 28 日发布 主要有六大升级](https://readhub.cn/topic/8x4x0hg4uBb?tab=daily)
-17. [iPhone 间谍软件 P7 DarkSword 曝光：每 15 秒通信外传用户数据](https://readhub.cn/topic/8x4f8UCXtKf?tab=daily)
-18. [伯特利董事长回应尊界刹车踏板断裂事件 质疑个别媒体博流量](https://readhub.cn/topic/8x46pzaA8Sc?tab=daily)
-19. [网传尊界刹车踏板安全疑虑引发关注 鸿蒙智行门店回应将联合测评公开数据](https://readhub.cn/topic/8x3rorJ5zlY?tab=daily)
-20. [3 名遭解雇 OpenAI 研究员发公开信，称公司做法或引发「寒蝉效应」](https://readhub.cn/topic/8x4hIVGOYNw?tab=daily)
+10. [消息称苹果正与 LG 联合开发多款智能家居配件产品](https://readhub.cn/topic/8x30Da5qlAD?tab=daily)
+11. [OpenAI 年化营收较此前报道预期少约 200 亿美元](https://readhub.cn/topic/8x4DxP9SX5r?tab=daily)
+12. [尊界车辆刹车踏板测试断裂 双方就测试工况存分歧](https://readhub.cn/topic/8x46om1jwrg?tab=daily)
+13. [没有 App、14 个人、免费用：Instinct 撑起百亿美元估值](https://readhub.cn/topic/8x3rAP2f6fH?tab=daily)
+14. [欧莱雅陷滑石粉相关诉讼，中国区回应在售产品符合国标](https://readhub.cn/topic/8x3xu71UKkC?tab=daily)
+15. [李想：2026 款理想 i6 将于 10 月 28 日发布 主要有六大升级](https://readhub.cn/topic/8x4x0hg4uBb?tab=daily)
+16. [iPhone 间谍软件 P7 DarkSword 曝光：每 15 秒通信外传用户数据](https://readhub.cn/topic/8x4f8UCXtKf?tab=daily)
+17. [伯特利董事长回应尊界刹车踏板断裂事件 质疑个别媒体博流量](https://readhub.cn/topic/8x46pzaA8Sc?tab=daily)
+18. [网传尊界刹车踏板安全疑虑引发关注 鸿蒙智行门店回应将联合测评公开数据](https://readhub.cn/topic/8x3rorJ5zlY?tab=daily)
+19. [3 名遭解雇 OpenAI 研究员发公开信，称公司做法或引发「寒蝉效应」](https://readhub.cn/topic/8x4hIVGOYNw?tab=daily)
+20. [豆包 App 上线生活缴费功能，加速布局高频生活办事场景](https://readhub.cn/topic/8x4oQD9O2Tq?tab=daily)
 21. [李飞飞团队发布 OpenWAM 框架 机器人任务成功率大幅提升](https://readhub.cn/topic/8x3vPFYGr9q?tab=daily)
 22. [谷歌云推出 Gemini Agent，谷歌美股盘前涨超 1%](https://readhub.cn/topic/8x3uJfgiEIC?tab=daily)
-23. [豆包 App 上线生活缴费功能，加速布局高频生活办事场景](https://readhub.cn/topic/8x4oQD9O2Tq?tab=daily)
-24. [智谱披露新一代大模型 参数量破万亿走双轨路径向 AGI 演进](https://readhub.cn/topic/8x4zqOyKXdv?tab=daily)
-25. [叮咚买菜旗下「有豆志」完善全产业链布局 累计销售额破 15 亿](https://readhub.cn/topic/8x3I5wmmIsM?tab=daily)
-26. [苹果宣布将于 10 月 13 日在纽约举行「欢迎回家」产品发布会](https://readhub.cn/topic/8x4AP33qad8?tab=daily)
-27. [余承东称华为基本摆脱对美国技术依赖](https://readhub.cn/topic/8x0JMEjEubV?tab=daily)
+23. [智谱披露新一代大模型 参数量破万亿走双轨路径向 AGI 演进](https://readhub.cn/topic/8x4zqOyKXdv?tab=daily)
+24. [苹果宣布将于 10 月 13 日在纽约举行「欢迎回家」产品发布会](https://readhub.cn/topic/8x4AP33qad8?tab=daily)
+25. [字节找到了 DeepSeek 时强时弱的原因](https://readhub.cn/topic/8x5E9KATwjr?tab=daily)
+26. [余承东称华为基本摆脱对美国技术依赖](https://readhub.cn/topic/8x0JMEjEubV?tab=daily)
+27. [山姆拟更新会员章程 频繁换绑亲友卡将被限制](https://readhub.cn/topic/8x5EsppUQim?tab=daily)
 28. [苹果首款折叠屏 iPhone Duo 下周预购 京东预约超 198 万](https://readhub.cn/topic/8x3gT6NEy94?tab=daily)
-29. [小米 17 Ultra、华为 nova 16 系列今日起涨价](https://readhub.cn/topic/8x4upjX6nWR?tab=daily)
+29. [苹果拟于 10 月底推出首款触屏 Mac 与全新 iPad mini](https://readhub.cn/topic/8x4RXnv8Mog?tab=daily)
 30. [国家气候中心：2026 年 9 月已形成超强厄尔尼诺事件](https://readhub.cn/topic/8x4vZKOI08c?tab=daily)
 
 ## 每日早报
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
-2. [Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图](https://www.aibase.com/zh/news/31506)
-3. [Anthropic 推出 OSS Scanner，用最强 AI 模型为全球开源软件免费扫漏洞](https://www.aibase.com/zh/news/31503)
-4. [JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍](https://www.aibase.com/zh/news/31502)
-5. [月费 5 美元看「AI 医生」：扫脸即可开药，犹他州开启独立 AI 处方试点](https://www.aibase.com/zh/news/31497)
-6. [TRAE 全面升级：双端融合，打造全链路开发平台](https://www.leiphone.com/category/industrynews/wmndjzo2jLJzOY0Z.html)
-7. [微软或允许 Microsoft 365 家庭成员共用 Copilot 额度](https://www.aibase.com/zh/news/31501)
-8. [美民调称 64% 民众指 AI 发展过快，近八成要求政府确保安全可控](https://www.aibase.com/zh/news/31500)
-9. [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle)
-10. [国产 GPU 又进一步 壁仞官宣新一代产品提前点亮：募资 40 亿冲刺量产](https://news.mydrivers.com/1/1156/1156269.htm)
+2. [蝙蝠侠大本创办电影 AI 公司，自采数据训模型，已被网飞收购](https://www.mittrchina.com/news/detail/17072)
+3. [音频大模型记不住谁在说话？墨大新基准 VoxMem 揭穿：32K 上下文下全员不及格](https://www.aibase.com/zh/news/31510)
+4. [Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图](https://www.aibase.com/zh/news/31506)
+5. [Anthropic 推出 OSS Scanner，用最强 AI 模型为全球开源软件免费扫漏洞](https://www.aibase.com/zh/news/31503)
+6. [JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍](https://www.aibase.com/zh/news/31502)
+7. [斯坦福让世界模型学习飞船对接，陌生对接口仿真成功率超基线两倍](https://www.36kr.com/p/4018481392914305)
+8. [为进欧洲 特斯拉连名字都不要了：用了十年的 FSD 改名为 TAD](https://news.mydrivers.com/1/1156/1156327.htm)
+9. [中共中央、国务院：全面实施「人工智能 +」行动 强化算力、算法、数据等高效供给](https://news.10jqka.com.cn/20261009/c680535595.shtml)
+10. [月费 5 美元看「AI 医生」：扫脸即可开药，犹他州开启独立 AI 处方试点](https://www.aibase.com/zh/news/31497)
