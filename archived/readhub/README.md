@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-10 06:12:49
+> 更新时间：2026-10-10 07:39:06
 
 ## 24 小时热榜
 
@@ -19,21 +19,21 @@
 13. [智谱披露新一代大模型 参数量破万亿走双轨路径向 AGI 演进](https://readhub.cn/topic/8x4zqOyKXdv?tab=daily)
 14. [豆包 App 上线生活缴费功能，加速布局高频生活办事场景](https://readhub.cn/topic/8x4oQD9O2Tq?tab=daily)
 15. [苹果宣布将于 10 月 13 日在纽约举行「欢迎回家」产品发布会](https://readhub.cn/topic/8x4AP33qad8?tab=daily)
-16. [苹果调整更新推送策略 iOS 27.0.1 升至推荐位力促用户升级](https://readhub.cn/topic/8x4kr40rNWh?tab=daily)
-17. [网传懂车帝被立案调查并内部整顿 懂车帝回应称纯属谣言将坚决维权](https://readhub.cn/topic/8x5NT9eojhd?tab=daily)
-18. [山姆拟更新会员章程 频繁换绑亲友卡将被限制](https://readhub.cn/topic/8x5EsppUQim?tab=daily)
-19. [苹果首款折叠屏 iPhone Duo 下周预购 京东预约超 198 万](https://readhub.cn/topic/8x3gT6NEy94?tab=daily)
-20. [苹果拟于 10 月底推出首款触屏 Mac 与全新 iPad mini](https://readhub.cn/topic/8x4RXnv8Mog?tab=daily)
+16. [网传懂车帝被立案调查并内部整顿 懂车帝回应称纯属谣言将坚决维权](https://readhub.cn/topic/8x5NT9eojhd?tab=daily)
+17. [山姆拟更新会员章程 频繁换绑亲友卡将被限制](https://readhub.cn/topic/8x5EsppUQim?tab=daily)
+18. [苹果调整更新推送策略 iOS 27.0.1 升至推荐位力促用户升级](https://readhub.cn/topic/8x4kr40rNWh?tab=daily)
+19. [苹果拟于 10 月底推出首款触屏 Mac 与全新 iPad mini](https://readhub.cn/topic/8x4RXnv8Mog?tab=daily)
+20. [苹果首款折叠屏 iPhone Duo 下周预购 京东预约超 198 万](https://readhub.cn/topic/8x3gT6NEy94?tab=daily)
 21. [小米 17 Ultra、华为 nova 16 系列今日起涨价](https://readhub.cn/topic/8x4upjX6nWR?tab=daily)
-22. [国家气候中心：2026 年 9 月已形成超强厄尔尼诺事件](https://readhub.cn/topic/8x4vZKOI08c?tab=daily)
-23. [人形机器人租赁热度回落：日租金从万元跌至不足千元](https://readhub.cn/topic/8x53PSFoFFD?tab=daily)
-24. [中共中央、国务院：全面实施「人工智能 +」行动 强化算力算法数据供给](https://readhub.cn/topic/8x5QHBuxktV?tab=daily)
-25. [谷歌马斯克接入 Claude 相关模型 联手制衡 OpenAI](https://readhub.cn/topic/8x50YGwOsSQ?tab=daily)
+22. [人形机器人租赁热度回落：日租金从万元跌至不足千元](https://readhub.cn/topic/8x53PSFoFFD?tab=daily)
+23. [国家气候中心：2026 年 9 月已形成超强厄尔尼诺事件](https://readhub.cn/topic/8x4vZKOI08c?tab=daily)
+24. [谷歌马斯克接入 Claude 相关模型 联手制衡 OpenAI](https://readhub.cn/topic/8x50YGwOsSQ?tab=daily)
+25. [中共中央、国务院：全面实施「人工智能 +」行动 强化算力算法数据供给](https://readhub.cn/topic/8x5QHBuxktV?tab=daily)
 26. [Meta 全面限制字节跳动在 7 个市场投放广告及付费营销](https://readhub.cn/topic/8x4wyQoUo64?tab=daily)
 27. [微软调整 M365 家庭版 / 高级版云存储空间：原最高 6TB 改为全员共享 2TB](https://readhub.cn/topic/8x4oPLoVB85?tab=daily)
-28. [JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍](https://readhub.cn/topic/8x54qbaPmoK?tab=daily)
-29. [苹果因需求下降削减 iPhone 18 Pro 系列零部件产量](https://readhub.cn/topic/8x5989GuM9w?tab=daily)
-30. [苹果库克称不会干预新任 CEO 特纳斯的决策](https://readhub.cn/topic/8x4j3MjVozH?tab=daily)
+28. [苹果因需求下降削减 iPhone 18 Pro 系列零部件产量](https://readhub.cn/topic/8x5989GuM9w?tab=daily)
+29. [JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍](https://readhub.cn/topic/8x54qbaPmoK?tab=daily)
+30. [中国混动汽车欧洲销售猛增，欧盟谋求「限制措施」](https://readhub.cn/topic/8x5LKh7R5xg?tab=daily)
 
 ## 每日早报
 
@@ -49,11 +49,11 @@
 
 1. [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling)
 2. [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
-3. [蝙蝠侠大本创办电影 AI 公司，自采数据训模型，已被网飞收购](https://www.mittrchina.com/news/detail/17072)
-4. [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent)
-5. [音频大模型记不住谁在说话？墨大新基准 VoxMem 揭穿：32K 上下文下全员不及格](https://www.aibase.com/zh/news/31510)
-6. [Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图](https://www.aibase.com/zh/news/31506)
-7. [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/)
-8. [StarkWare 在比特币主网上验证抗量子方案 QSB，无需软分叉但暂不具备通用可行性](https://www.techflowpost.com/zh-CN/newsletter/139407)
-9. [Anthropic 推出 OSS Scanner，用最强 AI 模型为全球开源软件免费扫漏洞](https://www.aibase.com/zh/news/31503)
-10. [当年「字节投毒实习生」田柯宇，估值 2 亿美元，要挑战李飞飞做世界模型](https://www.leiphone.com/category/yanxishe/BfzpShx7bKSPT4Ul.html)
+3. [10 秒拉起千个沙盒 英伟达 Vera 处理器实测：速度达 AMD Zen 5 八倍](https://news.mydrivers.com/1/1156/1156372.htm)
+4. [蝙蝠侠大本创办电影 AI 公司，自采数据训模型，已被网飞收购](https://www.mittrchina.com/news/detail/17072)
+5. [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent)
+6. [OpenAI dots 全面登陆手机，可用手机创建 Agent 指挥 Codex 干活](https://www.36kr.com/p/4019234701480070)
+7. [微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B](https://www.ithome.com/1/011/166.htm)
+8. [音频大模型记不住谁在说话？墨大新基准 VoxMem 揭穿：32K 上下文下全员不及格](https://www.aibase.com/zh/news/31510)
+9. [Anthropic 的 AI 系统向费城警方提交虚假凶杀线索](https://www.gelonghui.com/live/2704089)
+10. [Anthropic「欺诈性」使用政府系统，白宫出台 AI 安全事件强制通报令](https://www.gelonghui.com/live/2704082)
