@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-09 19:12:26
+> 更新时间：2026-10-10 01:39:21
 
 ## 每日趋势
 
@@ -85,13 +85,12 @@
 4. [heretic](https://github.com/p-e-w/heretic)
 5. [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 6. [opensre](https://github.com/Tracer-Cloud/opensre)
-7. [iFixAi](https://github.com/ifixai-ai/iFixAi)
-8. [lingbot-map](https://github.com/Robbyant/lingbot-map)
-9. [GhostTrack](https://github.com/HunxByts/GhostTrack)
-10. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-11. [sentry](https://github.com/getsentry/sentry)
-12. [LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
-13. [MiroFish](https://github.com/666ghj/MiroFish)
+7. [lingbot-map](https://github.com/Robbyant/lingbot-map)
+8. [GhostTrack](https://github.com/HunxByts/GhostTrack)
+9. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+10. [sentry](https://github.com/getsentry/sentry)
+11. [LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
+12. [MiroFish](https://github.com/666ghj/MiroFish)
 
 ## Go
 
