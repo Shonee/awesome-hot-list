@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-09 13:14:07
+> 更新时间：2026-10-09 14:22:43
 
 ## 热门文章
 
@@ -14,8 +14,8 @@
 8. [Android 以后可能不会再有横竖屏适配了](https://juejin.cn/post/7694064588329320490)
 9. [别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？](https://juejin.cn/post/7693579496969486382)
 10. [一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行](https://juejin.cn/post/7693805723602157578)
-11. [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586)
-12. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
+11. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
+12. [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586)
 13. [Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？](https://juejin.cn/post/7693160537133629455)
 14. [AI 帮我投资 85 天，最多赚到 3733 元](https://juejin.cn/post/7693414422438723626)
 15. [DeepSeek Harness 桌面端来啦！更便捷更安全的选择](https://juejin.cn/post/7693712140221792271)
@@ -23,9 +23,9 @@
 17. [Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏](https://juejin.cn/post/7693351700208140288)
 18. [🧐 为什么大厂 RAG 从不用纯向量检索？](https://juejin.cn/post/7694205589761441807)
 19. [A 社为什么反超了](https://juejin.cn/post/7693481478181584932)
-20. [当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？](https://juejin.cn/post/7693451894564765696)
-21. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
-22. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
+20. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
+21. [当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？](https://juejin.cn/post/7693451894564765696)
+22. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
 23. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
 24. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
 25. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
@@ -37,15 +37,15 @@
 31. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
 32. [研究 Vue 3 源码的收获](https://juejin.cn/post/7693406376094892066)
 33. [GraphQL 在国内为什么水土不服？](https://juejin.cn/post/7694187254181494820)
-34. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
-35. [太吊了！这 2 款网盘工具，让我省 4000 大洋！](https://juejin.cn/post/7693748651005362202)
+34. [太吊了！这 2 款网盘工具，让我省 4000 大洋！](https://juejin.cn/post/7693748651005362202)
+35. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
 36. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
 37. [线程本地存储 ThreadLocal](https://juejin.cn/post/7692977150127603775)
-38. [开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用](https://juejin.cn/post/7693549784162631718)
-39. [跑通了所有测试，却没跑过一句“界面太丑”](https://juejin.cn/post/7693469680510763017)
-40. [实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手](https://juejin.cn/post/7693414422438248490)
-41. [零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏](https://juejin.cn/post/7692992192592642083)
-42. [WorkBuddy悄悄干了件大事，下一代Office真来了！](https://juejin.cn/post/7694131662615117851)
+38. [WorkBuddy悄悄干了件大事，下一代Office真来了！](https://juejin.cn/post/7694131662615117851)
+39. [开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用](https://juejin.cn/post/7693549784162631718)
+40. [跑通了所有测试，却没跑过一句“界面太丑”](https://juejin.cn/post/7693469680510763017)
+41. [实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手](https://juejin.cn/post/7693414422438248490)
+42. [零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏](https://juejin.cn/post/7692992192592642083)
 43. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
 44. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
 45. [别只让AI解释，让它做个你能看懂的东西](https://juejin.cn/post/7693358476032524298)

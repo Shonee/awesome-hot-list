@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-09 13:14:22
+> 更新时间：2026-10-09 14:22:50
 
 ## 人气热门
 
@@ -57,19 +57,19 @@
 
 ## 精华采撷
 
-1. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+1. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
 2. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-3. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-4. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
-5. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-6. [Binary Ninja 5.3.9434 Personal 授权逻辑分析](https://www.52pojie.cn/thread-2121326-1-1.html)
-7. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-8. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
-9. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
-10. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-11. [解开 Windows 微信 4.0 版本的主数据库](https://www.52pojie.cn/thread-2105908-1-1.html)
-12. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-13. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+3. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+4. [Binary Ninja 5.3.9434 Personal 授权逻辑分析](https://www.52pojie.cn/thread-2121326-1-1.html)
+5. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+6. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+7. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+8. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+9. [小蓝鸟 x-client-transaction-id 追溯分析](https://www.52pojie.cn/thread-2122687-1-1.html)
+10. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
+11. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+12. [解开 Windows 微信 4.0 版本的主数据库](https://www.52pojie.cn/thread-2105908-1-1.html)
+13. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
 14. [从0到1构建一个注入工具之注入器篇（二）](https://www.52pojie.cn/thread-2097864-1-1.html)
 15. [【多栈实战】某黑产软件全链路逆向实录 (中)](https://www.52pojie.cn/thread-2111428-1-1.html)
 16. [【多栈实战】某黑产软件全链路逆向实录 (下)](https://www.52pojie.cn/thread-2113640-1-1.html)
