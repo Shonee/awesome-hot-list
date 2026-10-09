@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-09 12:17:39
+> 更新时间：2026-10-09 13:14:27
 
 ## 热新闻
 
@@ -12,15 +12,15 @@
 6. [王皓赛场外遭围堵辱骂后报警：观赛表达的法律边界在哪？“法不责众”能成为免责理由？律师解读](https://www.thepaper.cn/newsDetail_forward_34212328)
 7. [马上评｜天台上有孩子墓？“都市传说”为何能骗人](https://www.thepaper.cn/newsDetail_forward_34214379)
 8. [驴友违规穿越哈巴雪山遇险：被罚八千元，承担九万余元救援费](https://www.thepaper.cn/newsDetail_forward_34213131)
-9. [美媒：美军为再次大规模打击伊朗做准备](https://www.thepaper.cn/newsDetail_forward_34211503)
+9. [新疆维吾尔自治区党委原常委、自治区政府原副主席陈伟俊被提起公诉](https://www.thepaper.cn/newsDetail_forward_34216894)
 10. [澎湃“抗生素牛蛙”报道中一涉事企业被罚：冒用厂名厂址，未履行进货查验](https://www.thepaper.cn/newsDetail_forward_34211522)
-11. [韩运动员称免兵役重于金牌，韩国防部：考虑废除兵役豁免制度](https://www.thepaper.cn/newsDetail_forward_34212422)
-12. [马上评｜治理饭圈乱象，除了“禁入”还可以做什么](https://www.thepaper.cn/newsDetail_forward_34212434)
-13. [日本要求中方“对日本首相展现出一定的尊重”，外交部回应](https://www.thepaper.cn/newsDetail_forward_34212196)
-14. [住院部墙体和天花板遍布霉斑，广东医科大学附属医院：已跟进处理](https://www.thepaper.cn/newsDetail_forward_34212225)
-15. [公募网络营销进入“公示时代”：合规部门密集开会，实操尺度仍在磨合中](https://www.thepaper.cn/newsDetail_forward_34213107)
-16. [马上评丨安妮·卡森：古典文学的生命力在于始终能被重新讲述](https://www.thepaper.cn/newsDetail_forward_34214182)
-17. [成都警方通报“某小区楼顶发现可疑骨头”：均为非人类骨骼及牙齿](https://www.thepaper.cn/newsDetail_forward_34213923)
-18. [湖南临澧“6·16”烟花爆炸事故致9死26伤，多人被问责](https://www.thepaper.cn/newsDetail_forward_34213897)
-19. [俄方否认伊尔库茨克州出现第二例“不明原因肺炎”病例](https://www.thepaper.cn/newsDetail_forward_34213664)
-20. [21.42亿人次！国庆假期交通出行火热](https://www.thepaper.cn/newsDetail_forward_34211306)
+11. [美媒：美军为再次大规模打击伊朗做准备](https://www.thepaper.cn/newsDetail_forward_34211503)
+12. [韩运动员称免兵役重于金牌，韩国防部：考虑废除兵役豁免制度](https://www.thepaper.cn/newsDetail_forward_34212422)
+13. [马上评｜治理饭圈乱象，除了“禁入”还可以做什么](https://www.thepaper.cn/newsDetail_forward_34212434)
+14. [日本要求中方“对日本首相展现出一定的尊重”，外交部回应](https://www.thepaper.cn/newsDetail_forward_34212196)
+15. [住院部墙体和天花板遍布霉斑，广东医科大学附属医院：已跟进处理](https://www.thepaper.cn/newsDetail_forward_34212225)
+16. [18岁生日当天无证醉驾被查，小伙一听要拘留问“能不能让我爸去”](https://www.thepaper.cn/newsDetail_forward_34211321)
+17. [公募网络营销进入“公示时代”：合规部门密集开会，实操尺度仍在磨合中](https://www.thepaper.cn/newsDetail_forward_34213107)
+18. [马上评丨安妮·卡森：古典文学的生命力在于始终能被重新讲述](https://www.thepaper.cn/newsDetail_forward_34214182)
+19. [成都警方通报“某小区楼顶发现可疑骨头”：均为非人类骨骼及牙齿](https://www.thepaper.cn/newsDetail_forward_34213923)
+20. [湖南临澧“6·16”烟花爆炸事故致9死26伤，多人被问责](https://www.thepaper.cn/newsDetail_forward_34213897)
