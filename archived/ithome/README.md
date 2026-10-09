@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-09 17:18:07
+> 更新时间：2026-10-09 18:13:55
 
 ## 日榜
 
@@ -8,11 +8,11 @@
 2. [懂车帝回应尊界 V800 刹车踏板支架断裂争议：网传暴力测试并不存在，百公里刹车实验并非极端工况](https://www.ithome.com/1/010/721.htm)
 3. [尊界 V800 刹车踏板支架断裂引发关注，鸿蒙智行门店回应称华为将联合江淮重新测评并公开数据](https://www.ithome.com/1/010/694.htm)
 4. [7999 元起，小米 17 Ultra 手机全系涨价 1000 元](https://www.ithome.com/1/010/748.htm)
-5. [小米澎程首销月锁单进展公布：上市 30 天，锁单已超过 7 万台](https://www.ithome.com/1/010/628.htm)
-6. [尊界刹车踏板事件第二天，江淮汽车股价再度跌停](https://www.ithome.com/1/010/823.htm)
-7. [苹果官宣“欢迎回家”发布会定档 10 月 13 日，暗示首款智能家居中枢产品](https://www.ithome.com/1/010/743.htm)
-8. [卢放晒岚图汽车刹车踏板，采用多层高强度钢板主梁设计](https://www.ithome.com/1/010/692.htm)
-9. [小米集团盘中股价最高涨超 9%，澎程首月锁单超 7 万台](https://www.ithome.com/1/010/858.htm)
-10. [高刷真没戏了？爆料者坚称苹果 iPad mini 8 搭载 60Hz OLED 屏幕](https://www.ithome.com/1/010/675.htm)
-11. [字节 Seed 团队发现 DeepSeek“抽风”原因，长上下文可能性能漂移](https://www.ithome.com/1/010/780.htm)
-12. [消息称华为阔直板机型有多产品线布局动作，nova 中端线也在评估中](https://www.ithome.com/1/010/744.htm)
+5. [尊界刹车踏板事件第二天，江淮汽车股价再度跌停](https://www.ithome.com/1/010/823.htm)
+6. [苹果官宣“欢迎回家”发布会定档 10 月 13 日，暗示首款智能家居中枢产品](https://www.ithome.com/1/010/743.htm)
+7. [卢放晒岚图汽车刹车踏板，采用多层高强度钢板主梁设计](https://www.ithome.com/1/010/692.htm)
+8. [小米集团盘中股价最高涨超 9%，澎程首月锁单超 7 万台](https://www.ithome.com/1/010/858.htm)
+9. [高刷真没戏了？爆料者坚称苹果 iPad mini 8 搭载 60Hz OLED 屏幕](https://www.ithome.com/1/010/675.htm)
+10. [字节 Seed 团队发现 DeepSeek“抽风”原因，长上下文可能性能漂移](https://www.ithome.com/1/010/780.htm)
+11. [消息称华为阔直板机型有多产品线布局动作，nova 中端线也在评估中](https://www.ithome.com/1/010/744.htm)
+12. [赛力斯 9 月产销快报发布，新能源汽车销量 29,271 辆](https://www.ithome.com/1/010/658.htm)
