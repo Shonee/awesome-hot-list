@@ -1,17 +1,17 @@
 # Hacker News热榜
 
-> 更新时间：2026-10-09 14:23:55
+> 更新时间：2026-10-09 15:07:26
 
 ## Top Stories
 
-1. [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
-2. [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
-3. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-4. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
-5. [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
-6. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
-7. [Theranos.world](https://www.theranos.world/)
-8. [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
+1. [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+2. [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
+3. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+4. [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
+5. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
+6. [Theranos.world](https://www.theranos.world/)
+7. [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
+8. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 9. [Yes, and](https://htmx.org/essays/yes-and/)
 10. [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
 11. [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
