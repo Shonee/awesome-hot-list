@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-10 03:38:57
+> 更新时间：2026-10-10 04:41:29
 
 ## 24 小时热榜
 
@@ -16,24 +16,24 @@
 10. [实探线下门店：尊界 V800 相关升级方案未定，定车至少等 2 个多月](https://readhub.cn/topic/8x56ymHccdf?tab=daily)
 11. [字节找到了 DeepSeek 时强时弱的原因](https://readhub.cn/topic/8x5E9KATwjr?tab=daily)
 12. [3 名遭解雇 OpenAI 研究员发公开信，称公司做法或引发「寒蝉效应」](https://readhub.cn/topic/8x4hIVGOYNw?tab=daily)
-13. [豆包 App 上线生活缴费功能，加速布局高频生活办事场景](https://readhub.cn/topic/8x4oQD9O2Tq?tab=daily)
-14. [智谱披露新一代大模型 参数量破万亿走双轨路径向 AGI 演进](https://readhub.cn/topic/8x4zqOyKXdv?tab=daily)
+13. [智谱披露新一代大模型 参数量破万亿走双轨路径向 AGI 演进](https://readhub.cn/topic/8x4zqOyKXdv?tab=daily)
+14. [豆包 App 上线生活缴费功能，加速布局高频生活办事场景](https://readhub.cn/topic/8x4oQD9O2Tq?tab=daily)
 15. [苹果宣布将于 10 月 13 日在纽约举行「欢迎回家」产品发布会](https://readhub.cn/topic/8x4AP33qad8?tab=daily)
 16. [苹果调整更新推送策略 iOS 27.0.1 升至推荐位力促用户升级](https://readhub.cn/topic/8x4kr40rNWh?tab=daily)
 17. [网传懂车帝被立案调查并内部整顿 懂车帝回应称纯属谣言将坚决维权](https://readhub.cn/topic/8x5NT9eojhd?tab=daily)
-18. [苹果拟于 10 月底推出首款触屏 Mac 与全新 iPad mini](https://readhub.cn/topic/8x4RXnv8Mog?tab=daily)
+18. [山姆拟更新会员章程 频繁换绑亲友卡将被限制](https://readhub.cn/topic/8x5EsppUQim?tab=daily)
 19. [苹果首款折叠屏 iPhone Duo 下周预购 京东预约超 198 万](https://readhub.cn/topic/8x3gT6NEy94?tab=daily)
-20. [山姆拟更新会员章程 频繁换绑亲友卡将被限制](https://readhub.cn/topic/8x5EsppUQim?tab=daily)
+20. [苹果拟于 10 月底推出首款触屏 Mac 与全新 iPad mini](https://readhub.cn/topic/8x4RXnv8Mog?tab=daily)
 21. [小米 17 Ultra、华为 nova 16 系列今日起涨价](https://readhub.cn/topic/8x4upjX6nWR?tab=daily)
 22. [人形机器人租赁热度回落：日租金从万元跌至不足千元](https://readhub.cn/topic/8x53PSFoFFD?tab=daily)
 23. [国家气候中心：2026 年 9 月已形成超强厄尔尼诺事件](https://readhub.cn/topic/8x4vZKOI08c?tab=daily)
-24. [除了不能打电话，人形机器人越来越像手机了](https://readhub.cn/topic/8x5O9yuLPnr?tab=daily)
-25. [中共中央、国务院：全面实施「人工智能 +」行动 强化算力算法数据供给](https://readhub.cn/topic/8x5QHBuxktV?tab=daily)
-26. [谷歌马斯克接入 Claude 相关模型 联手制衡 OpenAI](https://readhub.cn/topic/8x50YGwOsSQ?tab=daily)
-27. [Meta 全面限制字节跳动在 7 个市场投放广告及付费营销](https://readhub.cn/topic/8x4wyQoUo64?tab=daily)
-28. [JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍](https://readhub.cn/topic/8x54qbaPmoK?tab=daily)
-29. [苹果因需求下降削减 iPhone 18 Pro 系列零部件产量](https://readhub.cn/topic/8x5989GuM9w?tab=daily)
-30. [微软调整 M365 家庭版 / 高级版云存储空间：原最高 6TB 改为全员共享 2TB](https://readhub.cn/topic/8x4oPLoVB85?tab=daily)
+24. [中共中央、国务院：全面实施「人工智能 +」行动 强化算力算法数据供给](https://readhub.cn/topic/8x5QHBuxktV?tab=daily)
+25. [谷歌马斯克接入 Claude 相关模型 联手制衡 OpenAI](https://readhub.cn/topic/8x50YGwOsSQ?tab=daily)
+26. [Meta 全面限制字节跳动在 7 个市场投放广告及付费营销](https://readhub.cn/topic/8x4wyQoUo64?tab=daily)
+27. [JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍](https://readhub.cn/topic/8x54qbaPmoK?tab=daily)
+28. [苹果因需求下降削减 iPhone 18 Pro 系列零部件产量](https://readhub.cn/topic/8x5989GuM9w?tab=daily)
+29. [微软调整 M365 家庭版 / 高级版云存储空间：原最高 6TB 改为全员共享 2TB](https://readhub.cn/topic/8x4oPLoVB85?tab=daily)
+30. [苹果库克称不会干预新任 CEO 特纳斯的决策](https://readhub.cn/topic/8x4j3MjVozH?tab=daily)
 
 ## 每日早报
 
