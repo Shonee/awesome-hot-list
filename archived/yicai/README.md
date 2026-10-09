@@ -1,11 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-10-09 19:13:11
+> 更新时间：2026-10-09 20:19:22
 
 ## 首页头条
 
-1. [一个刹车踏板，应该扛住多大的力？](https://www.yicai.com/news/103386641.html)
-2. [美债高收益率吸引机构投资者买入，欧债正酝酿下一轮债市动荡？](https://www.yicai.com/news/103387618.html)
-3. [7大鲜明观点！央行重磅发布人民币汇率政策立场](https://www.yicai.com/news/103386398.html)
-4. [阿里巴巴蔡崇信最新发声：AI将变成隐性基础设施](https://www.yicai.com/news/103386114.html)
-5. [避免激怒白宫，欧盟出招：拟通过对大型企业征税变相收科技税](https://www.yicai.com/news/103386713.html)
+1. [约1.8万字的中国财政政策半年报，有何看点？](https://www.yicai.com/news/103387928.html)
+2. [A股3800点争夺战，谁的股价创下历史新高](https://www.yicai.com/news/103387937.html)
+3. [深度｜蛋白热重塑乳业版图：乳企集体忙着“造蛋白”](https://www.yicai.com/news/103387873.html)
+4. [一个刹车踏板，应该扛住多大的力？](https://www.yicai.com/news/103386641.html)
+5. [美债高收益率吸引机构投资者买入，欧债正酝酿下一轮债市动荡？](https://www.yicai.com/news/103387618.html)

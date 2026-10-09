@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-09 19:12:27
+> 更新时间：2026-10-09 20:18:58
 
 ## 热门文章
 
@@ -37,11 +37,11 @@
 31. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
 32. [跑通了所有测试，却没跑过一句“界面太丑”](https://juejin.cn/post/7693469680510763017)
 33. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
-34. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
-35. [RAG 面试 6 连问，从原理到优化全部覆盖](https://juejin.cn/post/7693689217004732459)
-36. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
-37. [AI时代建议学点自己真正感兴趣的！](https://juejin.cn/post/7694299604674297891)
-38. [纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器](https://juejin.cn/post/7694262411306762259)
+34. [AI时代建议学点自己真正感兴趣的！](https://juejin.cn/post/7694299604674297891)
+35. [纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器](https://juejin.cn/post/7694262411306762259)
+36. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
+37. [RAG 面试 6 连问，从原理到优化全部覆盖](https://juejin.cn/post/7693689217004732459)
+38. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
 39. [苹果商店详情顶部头图已面向所有开发者开放！](https://juejin.cn/post/7694106627768401939)
 40. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
 41. [给中级开发者的 AI 能力升级路线图](https://juejin.cn/post/7693805723602567178)
