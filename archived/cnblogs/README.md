@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-09 23:12:52
+> 更新时间：2026-10-10 00:13:52
 
 ## 最新帖子
 
-1. [.NET 真的缺 Raft 组件吗？.NET 生态里长出来的一只「etcd 级」选手](https://www.cnblogs.com/shanyou/p/23243146)
-2. [Verdict Judge · 使用说明](https://www.cnblogs.com/Ptll/p/23243008)
-3. [【App Service】为应用服务添加Key Vault证书时遇见的RBAC问题之两个困扰人的坑](https://www.cnblogs.com/lulight/p/23241322)
-4. [Linux 性能优化实战：从方法论到 CPU / 内存 / I/O / 网络逐层调优](https://www.cnblogs.com/liuziyi1/p/23240850)
-5. [Acceldata ODP（Open Data Platform）3.3.6.4（RHEL9）保姆级完整安装过程](https://www.cnblogs.com/Robert.Yu/p/23238864)
-6. [2026 年 AI 工具选型实录：我把 200 多款工具试了一遍，最后留在工作流里的只有这 12 个](https://www.cnblogs.com/codigger/p/23234418)
-7. [EasyJob开源发布,让数据自动飞进飞书大屏(多种任务类型 : SQL任务,ETL 同步,监控通知,飞书表格同步,HTTP请求,自定义任务流)](https://www.cnblogs.com/yxdeng/p/23232924)
-8. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
-9. [go语言中的反射](https://www.cnblogs.com/ishoulgodo/p/23229511)
-10. [陀螺小车传奇之00011000](https://www.cnblogs.com/zw-awa/p/23232693)
-11. [SimdPaddleOCR 2.0：再快15倍！见证纯C#驱动的GPU性能核弹](https://www.cnblogs.com/sdcb/p/23230144/20261003-simdpaddleocr-2)
-12. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
-13. [鸿蒙(HarmonyOS)超级终端与生态](https://www.cnblogs.com/halfcode/p/23232277)
-14. [堡垒机里 `su - oracle` 被拦截，怎么绕过限制切换用户](https://www.cnblogs.com/jyzhao/p/23232127)
-15. [XXL-AI v1.1.1 发布｜Desk 桌面客户端正式上线，云本结合再进一步](https://www.cnblogs.com/xuxueli/p/23230714)
-16. [MiniMax Code 接入 PowerContext：构建跨会话与跨 Agent 的项目上下文底座](https://www.cnblogs.com/knqiufan/p/23230707)
-17. [从陶哲轩的访谈看：AI 数学研究方法论 & 给其它行业的启示](https://www.cnblogs.com/rossiXYZ/p/23215799)
-18. [八路循迹模块的 DO：先让小车沿着线跑起来](https://www.cnblogs.com/zw-awa/p/23228970)
-19. [具身智能感知简述(Manipulation) —— 经典VLA](https://www.cnblogs.com/x1ao0/p/23224736)
-20. [强化学习中的on/off-policy与online/offline是一回事吗？](https://www.cnblogs.com/xiaoxi666/p/23224669)
+1. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
+2. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
+3. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://www.cnblogs.com/xuxueli/p/23243218)
+4. [.NET 真的缺 Raft 组件吗？.NET 生态里长出来的一只「etcd 级」选手](https://www.cnblogs.com/shanyou/p/23243146)
+5. [Verdict Judge · 使用说明](https://www.cnblogs.com/Ptll/p/23243008)
+6. [【App Service】为应用服务添加Key Vault证书时遇见的RBAC问题之两个困扰人的坑](https://www.cnblogs.com/lulight/p/23241322)
+7. [Linux 性能优化实战：从方法论到 CPU / 内存 / I/O / 网络逐层调优](https://www.cnblogs.com/liuziyi1/p/23240850)
+8. [Acceldata ODP（Open Data Platform）3.3.6.4（RHEL9）保姆级完整安装过程](https://www.cnblogs.com/Robert.Yu/p/23238864)
+9. [2026 年 AI 工具选型实录：我把 200 多款工具试了一遍，最后留在工作流里的只有这 12 个](https://www.cnblogs.com/codigger/p/23234418)
+10. [EasyJob开源发布,让数据自动飞进飞书大屏(多种任务类型 : SQL任务,ETL 同步,监控通知,飞书表格同步,HTTP请求,自定义任务流)](https://www.cnblogs.com/yxdeng/p/23232924)
+11. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
+12. [go语言中的反射](https://www.cnblogs.com/ishoulgodo/p/23229511)
+13. [陀螺小车传奇之00011000](https://www.cnblogs.com/zw-awa/p/23232693)
+14. [SimdPaddleOCR 2.0：再快15倍！见证纯C#驱动的GPU性能核弹](https://www.cnblogs.com/sdcb/p/23230144/20261003-simdpaddleocr-2)
+15. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
+16. [鸿蒙(HarmonyOS)超级终端与生态](https://www.cnblogs.com/halfcode/p/23232277)
+17. [堡垒机里 `su - oracle` 被拦截，怎么绕过限制切换用户](https://www.cnblogs.com/jyzhao/p/23232127)
+18. [XXL-AI v1.1.1 发布｜Desk 桌面客户端正式上线，云本结合再进一步](https://www.cnblogs.com/xuxueli/p/23230714)
+19. [MiniMax Code 接入 PowerContext：构建跨会话与跨 Agent 的项目上下文底座](https://www.cnblogs.com/knqiufan/p/23230707)
+20. [从陶哲轩的访谈看：AI 数学研究方法论 & 给其它行业的启示](https://www.cnblogs.com/rossiXYZ/p/23215799)
 
 ## 精华帖子
 
@@ -55,4 +55,4 @@
 3. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
 4. [2026 年 AI 工具选型实录：我把 200 多款工具试了一遍，最后留在工作流里的只有这 12 个](https://www.cnblogs.com/codigger/p/23234418)
 5. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
-6. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
+6. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
