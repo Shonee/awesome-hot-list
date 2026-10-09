@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-09 16:49:28
+> 更新时间：2026-10-09 17:44:07
 
 ## 人气热门
 
@@ -57,13 +57,13 @@
 
 ## 精华采撷
 
-1. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
-2. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-3. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-4. [Binary Ninja 5.3.9434 Personal 授权逻辑分析](https://www.52pojie.cn/thread-2121326-1-1.html)
-5. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
-6. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-7. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+1. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+2. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+3. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+4. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+5. [Binary Ninja 5.3.9434 Personal 授权逻辑分析](https://www.52pojie.cn/thread-2121326-1-1.html)
+6. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
+7. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
 8. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 9. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
 10. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
@@ -100,10 +100,10 @@
 41. [CTF游戏逆向入门](https://www.52pojie.cn/thread-2098123-1-1.html)
 42. [逆向分析某排八字软件的过程](https://www.52pojie.cn/thread-2114056-1-1.html)
 43. [八猫付费小说逆向-hostnameVerify&sign](https://www.52pojie.cn/thread-2102001-1-1.html)
-44. [FlashSwirl 闪旋，对称加密算法库，支持流加密、AEAD加密、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2104834-1-1.html)
-45. [逆向PyInstaller打包的产物完整分析过程](https://www.52pojie.cn/thread-2123942-1-1.html)
-46. [企业微信聊天记录导出全解析](https://www.52pojie.cn/thread-2107745-1-1.html)
-47. [Typora v1.12.4 安全分析：反反调试与激活劫持](https://www.52pojie.cn/thread-2084047-1-1.html)
-48. [地表最强 Android so加载全景图](https://www.52pojie.cn/thread-2083097-1-1.html)
-49. [手把手教你给某讯滑块的JSVMP写反编译器 (如宝宝辅食一样易懂)](https://www.52pojie.cn/thread-2089027-1-1.html)
-50. [某音a_bogus jsvmp反编译](https://www.52pojie.cn/thread-2116186-1-1.html)
+44. [站内CrackMe WriteUp —— 32位无壳带反调试模拟真实校验精品CrackMe](https://www.52pojie.cn/thread-2124009-1-1.html)
+45. [FlashSwirl 闪旋，对称加密算法库，支持流加密、AEAD加密、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2104834-1-1.html)
+46. [逆向PyInstaller打包的产物完整分析过程](https://www.52pojie.cn/thread-2123942-1-1.html)
+47. [企业微信聊天记录导出全解析](https://www.52pojie.cn/thread-2107745-1-1.html)
+48. [Typora v1.12.4 安全分析：反反调试与激活劫持](https://www.52pojie.cn/thread-2084047-1-1.html)
+49. [地表最强 Android so加载全景图](https://www.52pojie.cn/thread-2083097-1-1.html)
+50. [手把手教你给某讯滑块的JSVMP写反编译器 (如宝宝辅食一样易懂)](https://www.52pojie.cn/thread-2089027-1-1.html)
