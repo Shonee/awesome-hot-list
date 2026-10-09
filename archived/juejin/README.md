@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-10 06:12:37
+> 更新时间：2026-10-10 07:11:45
 
 ## 热门文章
 
@@ -15,9 +15,9 @@
 9. [AI 帮我投资 85 天，最多赚到 3733 元](https://juejin.cn/post/7693414422438723626)
 10. [一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行](https://juejin.cn/post/7693805723602157578)
 11. [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586)
-12. [AI时代建议学点自己真正感兴趣的！](https://juejin.cn/post/7694299604674297891)
-13. [DeepSeek Harness 桌面端来啦！更便捷更安全的选择](https://juejin.cn/post/7693712140221792271)
-14. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+12. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+13. [AI时代建议学点自己真正感兴趣的！](https://juejin.cn/post/7694299604674297891)
+14. [DeepSeek Harness 桌面端来啦！更便捷更安全的选择](https://juejin.cn/post/7693712140221792271)
 15. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
 16. [Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？](https://juejin.cn/post/7693160537133629455)
 17. [Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏](https://juejin.cn/post/7693351700208140288)
