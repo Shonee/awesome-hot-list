@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-10 05:11:58
+> 更新时间：2026-10-10 06:12:58
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [超170亿元，半导体设备龙头大秀订单！年内这些公司也签下大单](https://finance.sina.com.cn/stock/bxjj/2026-10-08/doc-iniunezm7695639.shtml)
-2. [10月8日收盘：三大指数收跌 10年期美债收益率创20年新高 银行与科技股承压](https://finance.sina.com.cn/world/2026-10-08/doc-iniumytv4173772.shtml)
-3. [一份研报引发的暴跌](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniupafi7705556.shtml)
-4. [特朗普将于周四向马斯克颁发科学成就奖](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7862596.shtml)
-5. [谁会拿下2026诺贝尔经济学奖？拆解市场押注的9位大师](https://finance.sina.com.cn/stock/2026-10-08/doc-iniunrrp3934375.shtml)
-6. [新场景里看活力：国庆假期车流量增 日均充电特别繁忙服务区数量却降 一增一降里的新能源汽车充电新趋势](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezp4424711.shtml)
-7. [财经早报丨特朗普：对伊朗的军事行动“必须收尾了”，央行连续23个月增持黄金丨2026年10月8日](https://finance.sina.com.cn/stock/y/2026-10-08/doc-iniunezp4467989.shtml)
-8. [银行股走高 工行、中行股价齐创历史新高](https://finance.sina.com.cn/tob/2026-10-08/doc-iniunrrk5168356.shtml)
-9. [奔驰第三季度汽车销量下跌8%](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqcz4375800.shtml)
-10. [三星电子利润再创新高 AI热潮带来持续旺盛的芯片需求](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniunezq5356441.shtml)
-11. [四大证券报头版头条内容精华摘要_2026年10月8日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-08/doc-iniunezm7683059.shtml)
-12. [美公司指控中国个人和机构用AI工具攻击韩国金融机构，外交部回应](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7591302.shtml)
-13. [打新！节后，首只新股来了](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunmim4355694.shtml)
-14. [特朗普不满今年底可能再加息，炮轰美联储“盼着国家陷入困境”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7535263.shtml)
-15. [江淮汽车跌停葛卫东今日浮亏1.9亿，国金基金浮亏4052万，富国广发银华浮亏超1000万（名单）](https://finance.sina.com.cn/money/fund/2026-10-08/doc-iniupafi3768910.shtml)
-16. [霍尔木兹海峡，大消息！沙特24小时发动156次袭击！事关美联储加息，重磅公布！乌克兰正研究停火机制](https://finance.sina.com.cn/money/future/fmnews/2026-10-08/doc-iniunezp4462044.shtml)
-17. [存量政策提质增效、增量政策精准加码 经济增长动能有望持续积聚](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumx4265114.shtml)
-18. [设计缺陷？尊界V800被曝测试中刹车踏板支架断裂](https://finance.sina.com.cn/tob/2026-10-08/doc-iniunrrk5180364.shtml)
-19. [筹划重大资产重组，切入半导体领域！今起停牌](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7690404.shtml)
-20. [总台记者观察丨日本谋求核潜艇计划引发多方坚决反对](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunrri4412377.shtml)
+1. [四大证券报头版头条内容精华摘要_2026年10月8日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-08/doc-iniunezm7683059.shtml)
+2. [美公司指控中国个人和机构用AI工具攻击韩国金融机构，外交部回应](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7591302.shtml)
+3. [打新！节后，首只新股来了](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunmim4355694.shtml)
+4. [特朗普不满今年底可能再加息，炮轰美联储“盼着国家陷入困境”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7535263.shtml)
+5. [江淮汽车跌停葛卫东今日浮亏1.9亿，国金基金浮亏4052万，富国广发银华浮亏超1000万（名单）](https://finance.sina.com.cn/money/fund/2026-10-08/doc-iniupafi3768910.shtml)
+6. [霍尔木兹海峡，大消息！沙特24小时发动156次袭击！事关美联储加息，重磅公布！乌克兰正研究停火机制](https://finance.sina.com.cn/money/future/fmnews/2026-10-08/doc-iniunezp4462044.shtml)
+7. [存量政策提质增效、增量政策精准加码 经济增长动能有望持续积聚](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumx4265114.shtml)
+8. [设计缺陷？尊界V800被曝测试中刹车踏板支架断裂](https://finance.sina.com.cn/tob/2026-10-08/doc-iniunrrk5180364.shtml)
+9. [筹划重大资产重组，切入半导体领域！今起停牌](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezm7690404.shtml)
+10. [总台记者观察丨日本谋求核潜艇计划引发多方坚决反对](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunrri4412377.shtml)
+11. [特朗普：诺贝尔和平奖差不多该到我了，但希望渺茫，我调停了8场战争，奥巴马什么都没做不知道为什么得奖](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunrrf7639541.shtml)
+12. [“车子我肯定不要了” 尊界V800刹车踏板被踩断，车主急忙退订，专家直指严重缺陷 余承东曾赞“跨时代领先”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniuphnx7592772.shtml)
+13. [美联储会议纪要放“鹰”！多数官员支持年内再加息 美元延续涨势](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-08/doc-iniunezp4437202.shtml)
+14. [“开局一碗大面” ！尊界V800刹车测试引争议，600418被砸跌停，股民：早上没跑，现在也不用跑了](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxf4427743.shtml)
+15. [三星电子，最新业绩不及预期](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezp4477857.shtml)
+16. [耗资123亿元安踏正式成为彪马大股东 暂时浮亏45亿元](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxm7817812.shtml)
+17. [从刷卡到扫码，个人何以变身 “多商户” 非法套现？](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezt4084294.shtml)
+18. [也门胡塞武装称沙特24小时发动156次袭击](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumytv4185760.shtml)
+19. [手机号注销两年，突然发现被持续盗刷6500多元！赶紧自查微信、支付宝](https://finance.sina.com.cn/wm/2026-10-08/doc-iniunmir3965126.shtml)
+20. [胡适记述中的张謇：“一个很伟大的失败的英雄”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezt4087878.shtml)

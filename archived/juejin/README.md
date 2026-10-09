@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-10 05:11:33
+> 更新时间：2026-10-10 06:12:37
 
 ## 热门文章
 
@@ -17,8 +17,8 @@
 11. [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586)
 12. [AI时代建议学点自己真正感兴趣的！](https://juejin.cn/post/7694299604674297891)
 13. [DeepSeek Harness 桌面端来啦！更便捷更安全的选择](https://juejin.cn/post/7693712140221792271)
-14. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
-15. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+14. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+15. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
 16. [Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？](https://juejin.cn/post/7693160537133629455)
 17. [Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏](https://juejin.cn/post/7693351700208140288)
 18. [🧐 为什么大厂 RAG 从不用纯向量检索？](https://juejin.cn/post/7694205589761441807)
@@ -34,13 +34,13 @@
 28. [GraphQL 在国内为什么水土不服？](https://juejin.cn/post/7694187254181494820)
 29. [跑通了所有测试，却没跑过一句“界面太丑”](https://juejin.cn/post/7693469680510763017)
 30. [我写了一个“自动写周报”的脚本，结果被领导表扬了](https://juejin.cn/post/7693915625802907689)
-31. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
-32. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
+31. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
+32. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
 33. [纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器](https://juejin.cn/post/7694262411306762259)
 34. [只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏](https://juejin.cn/post/7693165008605396992)
 35. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
-36. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
-37. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
+36. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
+37. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
 38. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
 39. [用原生 JS 做了一个中国历史帝皇梳理的可视化站（7 朝 77 帝 + Leaflet 地图）](https://juejin.cn/post/7694263365225693230)
 40. [Codex + 可视化大屏工作流实践：15 个行业场景的设计产出合集](https://juejin.cn/post/7694150823396163625)

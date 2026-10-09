@@ -1,15 +1,15 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-10 05:11:41
+> 更新时间：2026-10-10 06:12:44
 
 ## 人气热门
 
-1. [Pulsar 0.2.0 中文便携版 （桌面硬件监控工具）](https://www.52pojie.cn/thread-2131273-1-1.html)
-2. [Win10-11版本一键转换_v3.06](https://www.52pojie.cn/thread-2131569-1-1.html)
-3. [pDLNA服务器 v20261005 Win7可用绿色版](https://www.52pojie.cn/thread-2130873-1-1.html)
-4. [MX播放器 mx player v3.3.0 v3 安卓离线播放器 无广告](https://www.52pojie.cn/thread-2131363-1-1.html)
-5. [重复文件查找软件 AllDup 4.5.72 便携版](https://www.52pojie.cn/thread-2131211-1-1.html)
-6. [【全网首发】YUAN-ERP进销存|ERP软件中小企业福音你值得拥有](https://www.52pojie.cn/thread-2129955-1-1.html)
+1. [【全网首发】YUAN-ERP进销存|ERP软件中小企业福音你值得拥有](https://www.52pojie.cn/thread-2129955-1-1.html)
+2. [重复文件查找软件 AllDup 4.5.72 便携版](https://www.52pojie.cn/thread-2131211-1-1.html)
+3. [MX播放器 mx player v3.3.0 v3 安卓离线播放器 无广告](https://www.52pojie.cn/thread-2131363-1-1.html)
+4. [Pulsar 0.2.0 中文便携版 （桌面硬件监控工具）](https://www.52pojie.cn/thread-2131273-1-1.html)
+5. [Win10-11版本一键转换_v3.06](https://www.52pojie.cn/thread-2131569-1-1.html)
+6. [pDLNA服务器 v20261005 Win7可用绿色版](https://www.52pojie.cn/thread-2130873-1-1.html)
 7. [罗技键盘鼠标电量托盘显示工具](https://www.52pojie.cn/thread-2131202-1-1.html)
 8. [迅雷17【25.1.22.1660】绿色精简版](https://www.52pojie.cn/thread-2130844-1-1.html)
 9. [局域网投屏V1.0](https://www.52pojie.cn/thread-2130259-1-1.html)
