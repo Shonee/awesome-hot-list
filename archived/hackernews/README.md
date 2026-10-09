@@ -1,6 +1,6 @@
 # Hacker News热榜
 
-> 更新时间：2026-10-09 20:20:01
+> 更新时间：2026-10-09 20:52:45
 
 ## Top Stories
 
@@ -16,11 +16,11 @@
 10. [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
 11. [Yes, and](https://htmx.org/essays/yes-and/)
 12. [Theranos.world](https://www.theranos.world/)
-13. [OpenAI fires three safety researchers for "mishandling research information"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
-14. [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
-15. [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
-16. [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
-17. [ETH-68: Ethernet Audio Interface for Linux](https://naturalsystems.io/eth68)
-18. [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
-19. [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
-20. [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
+13. [US proposes $100k charge for international students to do post-graduate work](https://www.nature.com/articles/d41586-026-02921-7)
+14. [OpenAI fires three safety researchers for "mishandling research information"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
+15. [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+16. [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
+17. [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
+18. [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
+19. [ETH-68: Ethernet Audio Interface for Linux](https://naturalsystems.io/eth68)
+20. [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)

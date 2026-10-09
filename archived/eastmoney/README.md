@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-09 20:19:27
+> 更新时间：2026-10-09 20:52:11
 
 ## 股票人气榜
 
@@ -21,6 +21,6 @@
 15. [绿盟科技 (300369)](https://quote.eastmoney.com/sz300369.html)
 16. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
 17. [C力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
-18. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
-19. [时代万恒 (600241)](https://quote.eastmoney.com/sh600241.html)
-20. [有研新材 (600206)](https://quote.eastmoney.com/sh600206.html)
+18. [时代万恒 (600241)](https://quote.eastmoney.com/sh600241.html)
+19. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
+20. [博纳影业 (001330)](https://quote.eastmoney.com/sz001330.html)

@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-09 20:19:19
+> 更新时间：2026-10-09 20:52:01
 
 ## 每日热点榜
 
@@ -15,23 +15,22 @@
 9. [体验捷达M6](https://v.autohome.com.cn/v-2260713.html)
 10. [国际油价深夜大涨](https://chejiahao.autohome.com.cn/info/26617185#pvareaid=6834132)
 11. [方程豹钛9陨石黑配色官图](http://www.autohome.com.cn/news/202610/1317625.html)
-12. [迈凯伦750S 2027年停产](http://www.autohome.com.cn/news/202610/1317651.html)
-13. [斯柯达明锐混动版官图](http://www.autohome.com.cn/news/202610/1317622.html)
+12. [斯柯达明锐混动版官图](http://www.autohome.com.cn/news/202610/1317622.html)
+13. [迈凯伦750S 2027年停产](http://www.autohome.com.cn/news/202610/1317651.html)
 14. [长安启源Q06新增宁德时代电池选装](http://www.autohome.com.cn/news/202610/1317654.html)
 15. [小米澎程首销月锁单超过70000台](http://www.autohome.com.cn/news/202610/1317636.html)
 16. [小鹏Robotaxi正式公布品牌名](http://www.autohome.com.cn/news/202610/1317620.html)
 17. [三菱Eclipse Sportback实拍图](http://www.autohome.com.cn/news/202610/1317628.html)
 18. [工信部出手给“自研”划红线](https://chejiahao.autohome.com.cn/info/26609788#pvareaid=6834132)
-19. [比亚迪大汉EV展车到店](https://chejiahao.autohome.com.cn/info/26614337#pvareaid=6834132)
-20. [吉利银河TT轿车30天交付破万](https://chejiahao.autohome.com.cn/info/26620497#pvareaid=6834132)
-21. [保时捷MissionS将于10月15日首发](https://chejiahao.autohome.com.cn/info/26619987#pvareaid=6834132)
+19. [乐道汽车交付量达20万辆](https://chejiahao.autohome.com.cn/info/26613207#pvareaid=6834132)
+20. [比亚迪大汉EV展车到店](https://chejiahao.autohome.com.cn/info/26614337#pvareaid=6834132)
+21. [保时捷战略大转型 明确回归燃油车](https://chejiahao.autohome.com.cn/info/26612718#pvareaid=6834132)
 22. [奇瑞发布最新公告](http://www.autohome.com.cn/news/202610/1317616.html)
-23. [乐道汽车交付量达20万辆](https://chejiahao.autohome.com.cn/info/26612155#pvareaid=6834132)
-24. [保时捷战略大转型 明确回归燃油车](https://chejiahao.autohome.com.cn/info/26612718#pvareaid=6834132)
+23. [吉利银河TT轿车30天交付破万](https://chejiahao.autohome.com.cn/info/26620497#pvareaid=6834132)
+24. [保时捷MissionS将于10月15日首发](https://chejiahao.autohome.com.cn/info/26619987#pvareaid=6834132)
 25. [岚图多款车型OTA升级](http://www.autohome.com.cn/news/202610/1317633.html)
-26. [汽油车市场份额跌破半数](http://club.autohome.com.cn/bbs/thread/f2ca0d7b7f6a7bf5/116357619-1.html)
-27. [福田携手卓驭共研商用车智驾](https://chejiahao.autohome.com.cn/info/26620341#pvareaid=6834132)
-28. [宝马M5改款现身纽博格林测试](https://chejiahao.autohome.com.cn/info/26615354#pvareaid=6834132)
-29. [纯电宝马M3官方谍照曝光](https://chejiahao.autohome.com.cn/info/26606633#pvareaid=6834132)
-30. [轮胎涨价函纷至沓来](https://chejiahao.autohome.com.cn/info/26619058#pvareaid=6834132)
-31. [出租汽车无障碍服务标准发布](https://chejiahao.autohome.com.cn/info/26618124#pvareaid=6834132)
+26. [福田汽车携手卓驭科技布局智驾](https://chejiahao.autohome.com.cn/info/26620341#pvareaid=6834132)
+27. [宝马M5改款现身纽博格林测试](https://chejiahao.autohome.com.cn/info/26615354#pvareaid=6834132)
+28. [纯电宝马M3官方谍照曝光](https://chejiahao.autohome.com.cn/info/26606633#pvareaid=6834132)
+29. [汽油车市场份额跌破五成](https://chejiahao.autohome.com.cn/info/26614374#pvareaid=6834132)
+30. [出租汽车无障碍服务标准发布](https://chejiahao.autohome.com.cn/info/26618124#pvareaid=6834132)
