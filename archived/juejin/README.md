@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-10 01:10:42
+> 更新时间：2026-10-10 02:15:38
 
 ## 热门文章
 
@@ -9,8 +9,8 @@
 3. [朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了](https://juejin.cn/post/7694185019602812968)
 4. [做全栈是前端骗局还是出路？](https://juejin.cn/post/7694107051320311827)
 5. [9、古代没有程序员，但蒲松龄们早就被"裁员"过了](https://juejin.cn/post/7693144953569493043)
-6. [Android 以后可能不会再有横竖屏适配了](https://juejin.cn/post/7694064588329320490)
-7. [别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？](https://juejin.cn/post/7693579496969486382)
+6. [别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？](https://juejin.cn/post/7693579496969486382)
+7. [Android 以后可能不会再有横竖屏适配了](https://juejin.cn/post/7694064588329320490)
 8. [🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了](https://juejin.cn/post/7693757919828901923)
 9. [AI 帮我投资 85 天，最多赚到 3733 元](https://juejin.cn/post/7693414422438723626)
 10. [一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行](https://juejin.cn/post/7693805723602157578)
@@ -24,13 +24,13 @@
 18. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
 19. [Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了](https://juejin.cn/post/7693909029785042959)
 20. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
-21. [WorkBuddy悄悄干了件大事，下一代Office真来了！](https://juejin.cn/post/7694131662615117851)
-22. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+21. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+22. [WorkBuddy悄悄干了件大事，下一代Office真来了！](https://juejin.cn/post/7694131662615117851)
 23. [A 社为什么反超了](https://juejin.cn/post/7693481478181584932)
 24. [裁员裁掉了那个干了14年的人：我这才看清职场的5条潜规则](https://juejin.cn/post/7694185019603337256)
 25. [当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？](https://juejin.cn/post/7693451894564765696)
-26. [GROUP BY 先别想当然，查汇总前把规则跑清楚](https://juejin.cn/post/7694121230733246499)
-27. [有了 Parallels Desktop，我终于不用问别人借Windows电脑用了](https://juejin.cn/post/7694490288811376680)
+26. [有了 Parallels Desktop，我终于不用问别人借Windows电脑用了](https://juejin.cn/post/7694490288811376680)
+27. [GROUP BY 先别想当然，查汇总前把规则跑清楚](https://juejin.cn/post/7694121230733246499)
 28. [GraphQL 在国内为什么水土不服？](https://juejin.cn/post/7694187254181494820)
 29. [我写了一个“自动写周报”的脚本，结果被领导表扬了](https://juejin.cn/post/7693915625802907689)
 30. [跑通了所有测试，却没跑过一句“界面太丑”](https://juejin.cn/post/7693469680510763017)
@@ -38,8 +38,8 @@
 32. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
 33. [只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏](https://juejin.cn/post/7693165008605396992)
 34. [纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器](https://juejin.cn/post/7694262411306762259)
-35. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
-36. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
+35. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
+36. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
 37. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
 38. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
 39. [Codex + 可视化大屏工作流实践：15 个行业场景的设计产出合集](https://juejin.cn/post/7694150823396163625)

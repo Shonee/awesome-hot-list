@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-10 01:10:54
+> 更新时间：2026-10-10 02:15:50
 
 ## 热新闻
 
@@ -11,8 +11,8 @@
 5. [国家气候中心：超强厄尔尼诺已经形成](https://www.thepaper.cn/newsDetail_forward_34217295)
 6. [马上评｜“圣黛CP”被下线？开脑洞也要守边界](https://www.thepaper.cn/newsDetail_forward_34217885)
 7. [澎湃“抗生素牛蛙”报道中一涉事企业被罚：冒用厂名厂址，未履行进货查验](https://www.thepaper.cn/newsDetail_forward_34211522)
-8. [陕西勉县一起强拆赔偿案获最高检抗诉，最高法提审](https://www.thepaper.cn/newsDetail_forward_34216884)
-9. [日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作](https://www.thepaper.cn/newsDetail_forward_34218258)
+8. [日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作](https://www.thepaper.cn/newsDetail_forward_34218258)
+9. [陕西勉县一起强拆赔偿案获最高检抗诉，最高法提审](https://www.thepaper.cn/newsDetail_forward_34216884)
 10. [湖南永州市商务局局长被举报婚内出轨多人，官方：成立联合调查组](https://www.thepaper.cn/newsDetail_forward_34219428)
 11. [有数｜国庆日均国内游人次增长6.3%，县域旅游成新热点](https://www.thepaper.cn/newsDetail_forward_34123204)
 12. [人民日报谈“圣黛CP”走红：技术打开想象力闸门，创作要守住法律伦理边界](https://www.thepaper.cn/newsDetail_forward_34216854)
