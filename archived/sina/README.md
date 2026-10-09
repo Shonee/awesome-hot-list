@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-10 02:15:55
+> 更新时间：2026-10-10 03:11:21
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [“高中签率”新股 46.9万股遭弃购](https://finance.sina.com.cn/stock/roll/2026-10-08/doc-iniunezm7651165.shtml)
-2. [今天，“存储”的悲喜并不相通：长鑫科技大跌，三星电子赚翻](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunrrf7692156.shtml)
-3. [节后第一天就冲高回落、午后跳水，A股发生了什么？](https://finance.sina.com.cn/roll/2026-10-08/doc-iniupaez7562522.shtml)
-4. [黄金储备“23连增” 背后的深意](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezp4426335.shtml)
-5. [恒生科技指数大调整 成份股将增至50只](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezm7700939.shtml)
-6. [特朗普说不再想要伊朗协议，美国准备“大规模轰炸”？](https://finance.sina.com.cn/money/forex/hbfx/2026-10-08/doc-iniunrrf7663054.shtml)
-7. [董事长被指系“东航空姐下跪事件”当事人，广东一上市公司回应](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezt4068210.shtml)
-8. [日方称中国外交部经常直接称呼高市早苗的名字、要求给予适当尊重，中方回应](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7619369.shtml)
-9. [000582，筹划重要收购！今起停牌](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunezt4086997.shtml)
-10. [节后A股或迎来修复行情](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezt4069247.shtml)
-11. [SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqct7936223.shtml)
-12. [央行发布人民币汇率的政策立场（全文）](https://finance.sina.com.cn/china/2026-10-08/doc-iniuphnx7564423.shtml)
-13. [内斗升级！任职两个多月，002723董事徐驰突遭罢免，本人回应：罢免理由属于诽谤和污蔑](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezp4479319.shtml)
-14. [日方要求中国给予高市早苗适当尊重，称中国外交部经常直接称呼其名字，没有增加任何的头衔，外交部回应](https://finance.sina.com.cn/wm/2026-10-08/doc-iniupaez7650802.shtml)
-15. [热搜爆了！尊界刹车踏板支架被踩断了3次！某车帝专栏报道！江淮汽车跌停！](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxm7799651.shtml)
-16. [一个网传小视频，砸崩了一个大车厂股价](https://finance.sina.com.cn/stock/2026-10-08/doc-iniunrri4452672.shtml)
-17. [伊朗高级官员：伊朗绝不会放弃铀浓缩权利](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumqcv4723166.shtml)
-18. [股海导航_2026年10月8日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-08/doc-iniunezq5351468.shtml)
-19. [美国CIA前官员电诈近两亿美元，家中搜出金条美钞装满11个箱子](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumx4262821.shtml)
-20. [千亿级计划曝光！马斯克，又有大动作→](https://finance.sina.com.cn/wm/2026-10-08/doc-iniumumx4289614.shtml)
+1. [热搜爆了！尊界刹车踏板支架被踩断了3次！某车帝专栏报道！江淮汽车跌停！](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxm7799651.shtml)
+2. [一个网传小视频，砸崩了一个大车厂股价](https://finance.sina.com.cn/stock/2026-10-08/doc-iniunrri4452672.shtml)
+3. [伊朗高级官员：伊朗绝不会放弃铀浓缩权利](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumqcv4723166.shtml)
+4. [股海导航_2026年10月8日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-08/doc-iniunezq5351468.shtml)
+5. [美国CIA前官员电诈近两亿美元，家中搜出金条美钞装满11个箱子](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumx4262821.shtml)
+6. [千亿级计划曝光！马斯克，又有大动作→](https://finance.sina.com.cn/wm/2026-10-08/doc-iniumumx4289614.shtml)
+7. [外交部：再次敦促日方严惩凶犯、以儆效尤](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupafi7702205.shtml)
+8. [券商10月“金股”折射布局思路 市场定价重心有望回归基本面](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniumytp7778167.shtml)
+9. [你的押金可能被“偷”了！假期出游归来速查这笔账→](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunmii7607903.shtml)
+10. [尊界V800刹车踏板支架断裂江淮汽车股价跌停 葛卫东等定增参与方半年遭腰斩](https://finance.sina.com.cn/search/2026-10-08/doc-iniupafi7720648.shtml)
+11. [超170亿元，半导体设备龙头大秀订单！年内这些公司也签下大单](https://finance.sina.com.cn/stock/bxjj/2026-10-08/doc-iniunezm7695639.shtml)
+12. [10月8日收盘：三大指数收跌 10年期美债收益率创20年新高 银行与科技股承压](https://finance.sina.com.cn/world/2026-10-08/doc-iniumytv4173772.shtml)
+13. [一份研报引发的暴跌](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniupafi7705556.shtml)
+14. [特朗普将于周四向马斯克颁发科学成就奖](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumumr7862596.shtml)
+15. [谁会拿下2026诺贝尔经济学奖？拆解市场押注的9位大师](https://finance.sina.com.cn/stock/2026-10-08/doc-iniunrrp3934375.shtml)
+16. [新场景里看活力：国庆假期车流量增 日均充电特别繁忙服务区数量却降 一增一降里的新能源汽车充电新趋势](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezp4424711.shtml)
+17. [财经早报丨特朗普：对伊朗的军事行动“必须收尾了”，央行连续23个月增持黄金丨2026年10月8日](https://finance.sina.com.cn/stock/y/2026-10-08/doc-iniunezp4467989.shtml)
+18. [银行股走高 工行、中行股价齐创历史新高](https://finance.sina.com.cn/tob/2026-10-08/doc-iniunrrk5168356.shtml)
+19. [奔驰第三季度汽车销量下跌8%](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniumqcz4375800.shtml)
+20. [三星电子利润再创新高 AI热潮带来持续旺盛的芯片需求](https://finance.sina.com.cn/stock/usstock/c/2026-10-08/doc-iniunezq5356441.shtml)
