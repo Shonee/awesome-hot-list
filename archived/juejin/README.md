@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-09 21:42:51
+> 更新时间：2026-10-09 22:14:34
 
 ## 热门文章
 
@@ -22,9 +22,9 @@
 16. [Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏](https://juejin.cn/post/7693351700208140288)
 17. [🧐 为什么大厂 RAG 从不用纯向量检索？](https://juejin.cn/post/7694205589761441807)
 18. [Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了](https://juejin.cn/post/7693909029785042959)
-19. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
-20. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
-21. [WorkBuddy悄悄干了件大事，下一代Office真来了！](https://juejin.cn/post/7694131662615117851)
+19. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
+20. [WorkBuddy悄悄干了件大事，下一代Office真来了！](https://juejin.cn/post/7694131662615117851)
+21. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
 22. [A 社为什么反超了](https://juejin.cn/post/7693481478181584932)
 23. [当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？](https://juejin.cn/post/7693451894564765696)
 24. [裁员裁掉了那个干了14年的人：我这才看清职场的5条潜规则](https://juejin.cn/post/7694185019603337256)
@@ -37,20 +37,20 @@
 31. [跑通了所有测试，却没跑过一句“界面太丑”](https://juejin.cn/post/7693469680510763017)
 32. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)
 33. [纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器](https://juejin.cn/post/7694262411306762259)
-34. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
+34. [GROUP BY 先别想当然，查汇总前把规则跑清楚](https://juejin.cn/post/7694121230733246499)
 35. [Gemini 4 Argon 发布：对 Android 开发者意味着什么？](https://juejin.cn/post/7694033497296781339)
-36. [GROUP BY 先别想当然，查汇总前把规则跑清楚](https://juejin.cn/post/7694121230733246499)
+36. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
 37. [RAG 面试 6 连问，从原理到优化全部覆盖](https://juejin.cn/post/7693689217004732459)
-38. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
-39. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
-40. [苹果商店详情顶部头图已面向所有开发者开放！](https://juejin.cn/post/7694106627768401939)
-41. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
-42. [有了 Parallels Desktop，我终于不用问别人借Windows电脑用了](https://juejin.cn/post/7694490288811376680)
+38. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
+39. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+40. [有了 Parallels Desktop，我终于不用问别人借Windows电脑用了](https://juejin.cn/post/7694490288811376680)
+41. [苹果商店详情顶部头图已面向所有开发者开放！](https://juejin.cn/post/7694106627768401939)
+42. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
 43. [给中级开发者的 AI 能力升级路线图](https://juejin.cn/post/7693805723602567178)
-44. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
+44. [Codex + 可视化大屏工作流实践：15 个行业场景的设计产出合集](https://juejin.cn/post/7694150823396163625)
 45. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
 46. [实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手](https://juejin.cn/post/7693414422438248490)
-47. [“如果你还在用Superpowers，那我不要和你说话”](https://juejin.cn/post/7694124645507809307)
-48. [Codex + 可视化大屏工作流实践：15 个行业场景的设计产出合集](https://juejin.cn/post/7694150823396163625)
+47. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
+48. [“如果你还在用Superpowers，那我不要和你说话”](https://juejin.cn/post/7694124645507809307)
 49. [一条 SQL 查了 8 秒，我加了个索引就变成 0.02 秒](https://juejin.cn/post/7694095385380094003)
 50. [基于 FlutterPatch 快速接入 Flutter 热更新](https://juejin.cn/post/7694122417649106979)
