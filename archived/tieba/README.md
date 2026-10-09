@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-09 22:15:09
+> 更新时间：2026-10-09 23:13:40
 
 ## 最有料热点
 
@@ -33,3 +33,4 @@
 27. [马尔福性转爆火,吧友集体真香](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366308&topic_name=%E9%A9%AC%E5%B0%94%E7%A6%8F%E6%80%A7%E8%BD%AC%E7%88%86%E7%81%AB%2C%E5%90%A7%E5%8F%8B%E9%9B%86%E4%BD%93%E7%9C%9F%E9%A6%99)
 28. [面基翻车现场,吧友亲身踩雷](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366335&topic_name=%E9%9D%A2%E5%9F%BA%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%2C%E5%90%A7%E5%8F%8B%E4%BA%B2%E8%BA%AB%E8%B8%A9%E9%9B%B7)
 29. [加班换高薪,这工作你干不?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366338&topic_name=%E5%8A%A0%E7%8F%AD%E6%8D%A2%E9%AB%98%E8%96%AA%2C%E8%BF%99%E5%B7%A5%E4%BD%9C%E4%BD%A0%E5%B9%B2%E4%B8%8D%3F)
+30. [鲸天魔盗团!黑客靠AI入侵韩国银行](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366789&topic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C)

@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-09 22:14:56
+> 更新时间：2026-10-09 23:13:26
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [The Gamer批评《永恒之塔2》角色自定义！被玩家狂喷600楼](https://www.gamersky.com/news/202610/2222985.shtml)
 11. [徐静雨新电脑12万元！百大up装机猿送货上门](https://www.gamersky.com/news/202610/2222103.shtml)
 12. [曝《生化危机9》DLC重返洋馆！被删内容可能复活](https://www.gamersky.com/news/202610/2221324.shtml)
-13. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
-14. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
-15. [《剑星》新版本难度太高劝退玩家 但忍一忍就过去了](https://www.gamersky.com/news/202610/2221138.shtml)
+13. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
+14. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
+15. [PS6基本完蛋了！知名舅舅党感到绝望：索尼毁了一切](https://www.gamersky.com/news/202610/2222674.shtml)
