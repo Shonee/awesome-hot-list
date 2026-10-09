@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-09 08:37:27
+> 更新时间：2026-10-09 09:34:49
 
 ## 最新帖子
 
-1. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
-2. [鸿蒙(HarmonyOS)超级终端与生态](https://www.cnblogs.com/halfcode/p/23232277)
-3. [堡垒机里 `su - oracle` 被拦截，怎么绕过限制切换用户](https://www.cnblogs.com/jyzhao/p/23232127)
-4. [XXL-AI v1.1.1 发布｜Desk 桌面客户端正式上线，云本结合再进一步](https://www.cnblogs.com/xuxueli/p/23230714)
-5. [MiniMax Code 接入 PowerContext：构建跨会话与跨 Agent 的项目上下文底座](https://www.cnblogs.com/knqiufan/p/23230707)
-6. [从陶哲轩的访谈看：AI 数学研究方法论 & 给其它行业的启示](https://www.cnblogs.com/rossiXYZ/p/23215799)
-7. [八路循迹模块的 DO：先让小车沿着线跑起来](https://www.cnblogs.com/zw-awa/p/23228970)
-8. [具身智能感知简述(Manipulation) —— 经典VLA](https://www.cnblogs.com/x1ao0/p/23224736)
-9. [强化学习中的on/off-policy与online/offline是一回事吗？](https://www.cnblogs.com/xiaoxi666/p/23224669)
-10. [《项目管理指导手册》2026版-心得（二）](https://www.cnblogs.com/demon28/p/23221508)
-11. [一文搞懂 Function Calling：大模型究竟是如何调用工具的？](https://www.cnblogs.com/Tomorrowland/p/23223896)
-12. [（一）独热编码、标签编码、目标编码、序数编码详解](https://www.cnblogs.com/liyunlin532150549/p/21284646)
-13. [什么是范数？用 NumPy 动手算一遍就明白了](https://www.cnblogs.com/wang_yb/p/23222493)
-14. [Linux桌面端应用向鸿蒙PC迁移适配纪实](https://www.cnblogs.com/KBin/p/23219928)
-15. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
-16. [我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距](https://www.cnblogs.com/zrui-xyu/p/23219962)
-17. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
-18. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
-19. [DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群](https://www.cnblogs.com/shanyou/p/23219306)
-20. [语音降噪模型GTCRN学习笔记（一）](https://www.cnblogs.com/talkaudiodev/p/23204088)
+1. [别再瞎装 RabbitMQ 了！从 0 到 1 部署到 Spring Boot 全链路实战，生产级坑全填平](https://www.cnblogs.com/zrui-xyu/p/23233045)
+2. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
+3. [go语言中的反射](https://www.cnblogs.com/ishoulgodo/p/23229511)
+4. [陀螺小车传奇之00011000](https://www.cnblogs.com/zw-awa/p/23232693)
+5. [SimdPaddleOCR 2.0：再快15倍！见证纯C#驱动的GPU性能核弹](https://www.cnblogs.com/sdcb/p/23230144/20261003-simdpaddleocr-2)
+6. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
+7. [鸿蒙(HarmonyOS)超级终端与生态](https://www.cnblogs.com/halfcode/p/23232277)
+8. [堡垒机里 `su - oracle` 被拦截，怎么绕过限制切换用户](https://www.cnblogs.com/jyzhao/p/23232127)
+9. [XXL-AI v1.1.1 发布｜Desk 桌面客户端正式上线，云本结合再进一步](https://www.cnblogs.com/xuxueli/p/23230714)
+10. [MiniMax Code 接入 PowerContext：构建跨会话与跨 Agent 的项目上下文底座](https://www.cnblogs.com/knqiufan/p/23230707)
+11. [从陶哲轩的访谈看：AI 数学研究方法论 & 给其它行业的启示](https://www.cnblogs.com/rossiXYZ/p/23215799)
+12. [八路循迹模块的 DO：先让小车沿着线跑起来](https://www.cnblogs.com/zw-awa/p/23228970)
+13. [具身智能感知简述(Manipulation) —— 经典VLA](https://www.cnblogs.com/x1ao0/p/23224736)
+14. [强化学习中的on/off-policy与online/offline是一回事吗？](https://www.cnblogs.com/xiaoxi666/p/23224669)
+15. [《项目管理指导手册》2026版-心得（二）](https://www.cnblogs.com/demon28/p/23221508)
+16. [一文搞懂 Function Calling：大模型究竟是如何调用工具的？](https://www.cnblogs.com/Tomorrowland/p/23223896)
+17. [（一）独热编码、标签编码、目标编码、序数编码详解](https://www.cnblogs.com/liyunlin532150549/p/21284646)
+18. [什么是范数？用 NumPy 动手算一遍就明白了](https://www.cnblogs.com/wang_yb/p/23222493)
+19. [Linux桌面端应用向鸿蒙PC迁移适配纪实](https://www.cnblogs.com/KBin/p/23219928)
+20. [Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本](https://www.cnblogs.com/liuziyi1/p/23221893)
 
 ## 精华帖子
 
