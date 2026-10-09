@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-09 15:00:15
+> 更新时间：2026-10-09 15:52:28
 
 ## 人气热门
 
@@ -57,8 +57,8 @@
 
 ## 精华采撷
 
-1. [Binary Ninja 5.3.9434 Personal 授权逻辑分析](https://www.52pojie.cn/thread-2121326-1-1.html)
-2. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+1. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+2. [Binary Ninja 5.3.9434 Personal 授权逻辑分析](https://www.52pojie.cn/thread-2121326-1-1.html)
 3. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
 4. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
 5. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)

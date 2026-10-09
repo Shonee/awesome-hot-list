@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-09 15:01:16
+> 更新时间：2026-10-09 15:52:44
 
 ## 新闻热榜
 
 1. [纪委介入女局长被举报婚内出轨多人](https://news.sina.com.cn/2026-10-09/doc-iniuqqhr7106271.shtml)
 2. [大英博物馆确认：两件康熙时期青花瓷遭到损坏](https://news.sina.com.cn/c/2026-10-09/doc-iniupxkx3440355.shtml)
-3. [财经观察：日本化工业陷困局，进口中国产品大增](https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqiyt7224009.shtml)
-4. [“素媛案”罪犯赵斗淳破坏家中电子监控设备，相关部门6天后才发现](https://news.sina.com.cn/w/2026-10-09/doc-iniuptat7538926.shtml)
-5. [全国最忙高铁站，不甘只做“宇宙第一”](https://news.sina.com.cn/c/2026-10-09/doc-iniuptat7531755.shtml)
-6. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
-7. [江淮汽车股价遭遇“刹停” 尊界称将进一步优化设计](https://finance.sina.com.cn/stock/relnews/cn/2026-10-09/doc-iniupxkt4215375.shtml)
-8. [美军将公开直播枪决，赫格塞思：让所有人看看](https://news.sina.com.cn/zx/2026-10-09/doc-iniuqqhr7123875.shtml)
-9. [欧洲44个行业协会联手，要求欧盟对华出手](https://news.sina.com.cn/zx/2026-10-09/doc-iniuquqp3105583.shtml)
-10. [中国海警局：正告菲方立即停止侵权挑衅和不实炒作](https://news.sina.com.cn/c/2026-10-08/doc-iniuptaz3538304.shtml)
+3. [欧洲44个行业协会联手，要求欧盟对华出手](https://news.sina.com.cn/zx/2026-10-09/doc-iniuquqp3105583.shtml)
+4. [财经观察：日本化工业陷困局，进口中国产品大增](https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqiyt7224009.shtml)
+5. [“素媛案”罪犯赵斗淳破坏家中电子监控设备，相关部门6天后才发现](https://news.sina.com.cn/w/2026-10-09/doc-iniuptat7538926.shtml)
+6. [全国最忙高铁站，不甘只做“宇宙第一”](https://news.sina.com.cn/c/2026-10-09/doc-iniuptat7531755.shtml)
+7. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
+8. [江淮汽车股价遭遇“刹停” 尊界称将进一步优化设计](https://finance.sina.com.cn/stock/relnews/cn/2026-10-09/doc-iniupxkt4215375.shtml)
+9. [美军将公开直播枪决，赫格塞思：让所有人看看](https://news.sina.com.cn/zx/2026-10-09/doc-iniuqqhr7123875.shtml)
+10. [高市早苗公开反对特朗普](https://news.sina.com.cn/w/2026-10-09/doc-iniuqywq1106704.shtml)
 11. [新郎婚礼当天离世家属发声](https://news.sina.com.cn/2026-10-09/doc-iniuquqp3091425.shtml)
-12. [1港元甩卖资产！周星驰退出内地线下影院生意](https://news.sina.com.cn/c/2026-10-08/doc-iniuptav4298033.shtml)
-13. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
-14. [安妮·卡森获诺贝尔文学奖，她用“混乱”震撼人心](https://news.sina.com.cn/w/2026-10-08/doc-iniuptaz3530709.shtml)
-15. [国庆楼市，谁在出手？](https://news.sina.com.cn/o/2026-10-08/doc-iniuptaz3527530.shtml)
-16. [突发！周星驰套现走人了](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupnux4361059.shtml)
-17. [“车子我肯定不要了” 尊界V800刹车踏板被踩断，车主急忙退订，专家直指严重缺陷 余承东曾赞“跨时代领先”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniuphnx7592772.shtml)
-18. [俄官方宣布伊尔库茨克市正解除防疫措施](https://news.sina.com.cn/w/2026-10-09/doc-iniuqcsv3349019.shtml)
-19. [美军，突发！“准备大规模作战”](https://finance.sina.com.cn/stock/zqgd/2026-10-08/doc-iniuphpf7657339.shtml)
-20. [双色球15注603万分落9地 上海或爆3618万大奖](https://sports.sina.com.cn/l/2026-10-08/doc-iniuptaz3516309.shtml)
+12. [中国海警局：正告菲方立即停止侵权挑衅和不实炒作](https://news.sina.com.cn/c/2026-10-08/doc-iniuptaz3538304.shtml)
+13. [1港元甩卖资产！周星驰退出内地线下影院生意](https://news.sina.com.cn/c/2026-10-08/doc-iniuptav4298033.shtml)
+14. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
+15. [安妮·卡森获诺贝尔文学奖，她用“混乱”震撼人心](https://news.sina.com.cn/w/2026-10-08/doc-iniuptaz3530709.shtml)
+16. [“新郎婚礼当天去医院看病后离世”冲上热搜，该院目前已被限制高消费，且存在失信被执行人记录](https://news.sina.com.cn/2026-10-09/doc-iniuqywm3003282.shtml)
+17. [国庆楼市，谁在出手？](https://news.sina.com.cn/o/2026-10-08/doc-iniuptaz3527530.shtml)
+18. [国际刑事法院院长赤根智子被判刑并通缉，俄方要求荷兰等将其移交，此前已被美国制裁](https://finance.sina.com.cn/wm/2026-10-09/doc-iniuquqf7265049.shtml)
+19. [突发！周星驰套现走人了](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupnux4361059.shtml)
+20. [“车子我肯定不要了” 尊界V800刹车踏板被踩断，车主急忙退订，专家直指严重缺陷 余承东曾赞“跨时代领先”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniuphnx7592772.shtml)
 
 ## 财经热榜
 
