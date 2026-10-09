@@ -1,11 +1,11 @@
 # 豆瓣热榜
 
-> 更新时间：2026-10-09 11:19:50
+> 更新时间：2026-10-09 12:18:24
 
 ## 小组精选
 
 1. [熬夜十年➕ 如何无痛早睡](https://www.douban.com/group/topic/501740687/?_spm_id=MjAwNTI3MDY5)
-2. [12天小兴安岭环线追秋成功](https://www.douban.com/group/topic/501836275/?_spm_id=NTEyNjg2MzU)
+2. [12天小兴安岭环线（哈尔滨-伊春-黑河-五大连池-齐齐哈尔）追秋成功](https://www.douban.com/group/topic/501836275/?_spm_id=NTEyNjg2MzU)
 3. [山中遇野果，就在路边，颜色漂亮到我们当场愣住](https://www.douban.com/group/topic/501753775/?_spm_id=MTYyNDcxMzU5)
 4. [这两年买到的最喜欢的大衣！](https://www.douban.com/group/topic/501937779/?_spm_id=MTcxMzcyNzEz)
 5. [为什么小时候看快乐星球总是有种淡淡的忧伤感。。。](https://www.douban.com/group/topic/501581961/?_spm_id=OTM2NTkyODc)

@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-09 11:19:10
+> 更新时间：2026-10-09 12:17:30
 
 ## 最新帖子
 
@@ -54,5 +54,5 @@
 2. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://www.cnblogs.com/jinjiangongzuoshi/p/23219908)
 3. [基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的](https://www.cnblogs.com/zhangs1986/p/23110473)
 4. [鸿蒙(HarmonyOS) 2012至2026年的发展历程](https://www.cnblogs.com/halfcode/p/23213514)
-5. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)
-6. [【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发](https://www.cnblogs.com/daen/p/23216195)
+5. [SimdPaddleOCR 2.0：再快15倍！见证纯C#驱动的GPU性能核弹](https://www.cnblogs.com/sdcb/p/23230144/20261003-simdpaddleocr-2)
+6. [.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇)](https://www.cnblogs.com/wackysoft/p/23190979)

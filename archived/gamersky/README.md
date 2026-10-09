@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-09 11:19:31
+> 更新时间：2026-10-09 12:18:08
 
 ## 热点资讯排行
 
@@ -14,8 +14,8 @@
 8. [15000块！新掌机性能和价格都离谱 玩黑猴可百帧](https://www.gamersky.com/news/202610/2222781.shtml)
 9. [徐静雨新电脑12万元！百大up装机猿送货上门](https://www.gamersky.com/news/202610/2222103.shtml)
 10. [曝《生化危机9》DLC重返洋馆！被删内容可能复活](https://www.gamersky.com/news/202610/2221324.shtml)
-11. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
-12. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
-13. [《剑星》新版本难度太高劝退玩家 但忍一忍就过去了](https://www.gamersky.com/news/202610/2221138.shtml)
-14. [官方上架6000元PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
-15. [PS6基本完蛋了！知名舅舅党感到绝望：索尼毁了一切](https://www.gamersky.com/news/202610/2222674.shtml)
+11. [知名游戏UP自曝COSER女友出轨 都是薄肌小哥哥](https://www.gamersky.com/news/202610/2223927.shtml)
+12. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
+13. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
+14. [《剑星》新版本难度太高劝退玩家 但忍一忍就过去了](https://www.gamersky.com/news/202610/2221138.shtml)
+15. [官方上架6000元PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
