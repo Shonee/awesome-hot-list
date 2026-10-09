@@ -1,28 +1,28 @@
 # 新浪热榜
 
-> 更新时间：2026-10-09 07:12:08
+> 更新时间：2026-10-09 08:37:40
 
 ## 新闻热榜
 
 1. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
-2. [外媒称日方希望中方对高市早苗给予适当的尊重，外交部回应](https://news.sina.com.cn/c/2026-10-08/doc-iniupafi7703481.shtml)
-3. [消息人士称，维特科夫、库什纳将于周五在迈阿密与乌克兰代表举行工作会晤。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4133029.shtml)
-4. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
-5. [2026诺贝尔文学奖揭晓！为什么是她？](https://news.sina.com.cn/w/2026-10-08/doc-iniupnvc3589788.shtml)
-6. [沙特一飞机据报在机场遭袭起火](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4124922.shtml)
-7. [根据与投资者共享的财务文件，OpenAI的年化收入较此前所暗示的水平低约200亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432234.shtml)
-8. [费城半导体指数日内跌3%](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4207983.shtml)
-9. [美联储穆萨莱姆：金融状况已适度且有序收紧。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7462230.shtml)
-10. [美联储官员穆萨莱姆：名义收益率上行，部分原因是实际收益率受利率预期推动走高.](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4231548.shtml)
-11. [芝商所将于10月12日推出全球首个棒球期货。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4142358.shtml)
-12. [加拿大宣布对放射性药物领域进行新投资。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7444839.shtml)
-13. [欧洲头部金融科技独角兽Revolut CEO：计划在美国进行主要上市。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7423503.shtml)
-14. [1港元甩卖资产！周星驰退出内地线下影院生意](https://news.sina.com.cn/c/2026-10-08/doc-iniuptav4298033.shtml)
-15. [可口可乐拟出售咖世家咖啡。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4147074.shtml)
-16. [SpaceX将收购低频段频谱 用于移动通信服务](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqiyp4037589.shtml)
-17. [SpaceX同意收购全国性800 MHz低频段频谱牌照组合。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4154996.shtml)
-18. [克里姆林宫发言人佩斯科夫表示，俄罗斯同意美国国务卿鲁比奥的看法，即乌克兰冲突已陷入僵局。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsp7368184.shtml)
-19. [“素媛案”罪犯赵斗淳破坏家中电子监控设备，相关部门6天后才发现](https://news.sina.com.cn/w/2026-10-09/doc-iniuptat7538926.shtml)
+2. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
+3. [外媒称日方希望中方对高市早苗给予适当的尊重，外交部回应](https://news.sina.com.cn/c/2026-10-08/doc-iniupafi7703481.shtml)
+4. [“素媛案”罪犯赵斗淳破坏家中电子监控设备，相关部门6天后才发现](https://news.sina.com.cn/w/2026-10-09/doc-iniuptat7538926.shtml)
+5. [消息人士称，维特科夫、库什纳将于周五在迈阿密与乌克兰代表举行工作会晤。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4133029.shtml)
+6. [安妮·卡森获诺贝尔文学奖，她用“混乱”震撼人心](https://news.sina.com.cn/w/2026-10-08/doc-iniuptaz3530709.shtml)
+7. [2026诺贝尔文学奖揭晓！为什么是她？](https://news.sina.com.cn/w/2026-10-08/doc-iniupnvc3589788.shtml)
+8. [1港元甩卖资产！周星驰退出内地线下影院生意](https://news.sina.com.cn/c/2026-10-08/doc-iniuptav4298033.shtml)
+9. [沙特一飞机据报在机场遭袭起火](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniuqcsr4124922.shtml)
+10. [国庆楼市，谁在出手？](https://news.sina.com.cn/o/2026-10-08/doc-iniuptaz3527530.shtml)
+11. [双色球15注603万分落9地 上海或爆3618万大奖](https://sports.sina.com.cn/l/2026-10-08/doc-iniuptaz3516309.shtml)
+12. [中国海警局：正告菲方立即停止侵权挑衅和不实炒作](https://news.sina.com.cn/c/2026-10-08/doc-iniuptaz3538304.shtml)
+13. [全国最忙高铁站，不甘只做“宇宙第一”](https://news.sina.com.cn/c/2026-10-09/doc-iniuptat7531755.shtml)
+14. [2名驴友国庆期间违规穿越哈巴雪山遇险，救援人员历经25小时将其救下后，2人被罚8千元，并自行承担9万余元救援费](https://news.sina.com.cn/c/2026-10-08/doc-iniupnux4307117.shtml)
+15. [郭晶晶，获颁香港岭南大学荣誉院士](https://news.sina.com.cn/c/2026-10-08/doc-iniuptaz3523136.shtml)
+16. [根据与投资者共享的财务文件，OpenAI的年化收入较此前所暗示的水平低约200亿美元。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7432234.shtml)
+17. [一辆百万豪车的刹车踏板，多大力才算“踩过头”？](https://news.sina.com.cn/c/2026-10-08/doc-iniuptaz3536045.shtml)
+18. [费城半导体指数日内跌3%](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkt4207983.shtml)
+19. [美联储穆萨莱姆：金融状况已适度且有序收紧。](https://finance.sina.com.cn/7x24/2026-10-09/doc-iniupxkr7462230.shtml)
 
 ## 财经热榜
 

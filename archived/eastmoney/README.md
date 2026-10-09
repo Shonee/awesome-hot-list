@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-09 07:12:22
+> 更新时间：2026-10-09 08:38:12
 
 ## 股票人气榜
 
@@ -9,18 +9,18 @@
 3. [雄韬股份 (002733)](https://quote.eastmoney.com/sz002733.html)
 4. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
 5. [传艺科技 (002866)](https://quote.eastmoney.com/sz002866.html)
-6. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-7. [丰元股份 (002805)](https://quote.eastmoney.com/sz002805.html)
-8. [圣阳股份 (002580)](https://quote.eastmoney.com/sz002580.html)
-9. [时代万恒 (600241)](https://quote.eastmoney.com/sh600241.html)
-10. [东岳硅材 (300821)](https://quote.eastmoney.com/sz300821.html)
-11. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-12. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
-13. [兴业股份 (603928)](https://quote.eastmoney.com/sh603928.html)
-14. [顺灏股份 (002565)](https://quote.eastmoney.com/sz002565.html)
+6. [丰元股份 (002805)](https://quote.eastmoney.com/sz002805.html)
+7. [时代万恒 (600241)](https://quote.eastmoney.com/sh600241.html)
+8. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+9. [东岳硅材 (300821)](https://quote.eastmoney.com/sz300821.html)
+10. [圣阳股份 (002580)](https://quote.eastmoney.com/sz002580.html)
+11. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
+12. [顺灏股份 (002565)](https://quote.eastmoney.com/sz002565.html)
+13. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
+14. [兴业股份 (603928)](https://quote.eastmoney.com/sh603928.html)
 15. [紫竹高科 (002058)](https://quote.eastmoney.com/sz002058.html)
 16. [金牛化工 (600722)](https://quote.eastmoney.com/sh600722.html)
 17. [山东墨龙 (002490)](https://quote.eastmoney.com/sz002490.html)
-18. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
-19. [野马电池 (605378)](https://quote.eastmoney.com/sh605378.html)
-20. [C力勤 (001246)](https://quote.eastmoney.com/sz001246.html)
+18. [先导智能 (300450)](https://quote.eastmoney.com/sz300450.html)
+19. [国轩高科 (002074)](https://quote.eastmoney.com/sz002074.html)
+20. [野马电池 (605378)](https://quote.eastmoney.com/sh605378.html)

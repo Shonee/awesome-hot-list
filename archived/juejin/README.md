@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-09 07:11:51
+> 更新时间：2026-10-09 08:37:24
 
 ## 热门文章
 
@@ -8,16 +8,16 @@
 2. [AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了](https://juejin.cn/post/7693358476032049162)
 3. [🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了](https://juejin.cn/post/7693757919828901923)
 4. [9、古代没有程序员，但蒲松龄们早就被"裁员"过了](https://juejin.cn/post/7693144953569493043)
-5. [别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？](https://juejin.cn/post/7693579496969486382)
-6. [Android 以后可能不会再有横竖屏适配了](https://juejin.cn/post/7694064588329320490)
+5. [Android 以后可能不会再有横竖屏适配了](https://juejin.cn/post/7694064588329320490)
+6. [别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？](https://juejin.cn/post/7693579496969486382)
 7. [一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行](https://juejin.cn/post/7693805723602157578)
 8. [Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？](https://juejin.cn/post/7693160537133629455)
-9. [做全栈是前端骗局还是出路？](https://juejin.cn/post/7694107051320311827)
-10. [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586)
-11. [Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了](https://juejin.cn/post/7693909029785042959)
-12. [DeepSeek Harness 桌面端来啦！更便捷更安全的选择](https://juejin.cn/post/7693712140221792271)
-13. [Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏](https://juejin.cn/post/7693351700208140288)
-14. [国庆七天，AI圈没一天消停](https://juejin.cn/post/7694124645507940379)
+9. [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586)
+10. [做全栈是前端骗局还是出路？](https://juejin.cn/post/7694107051320311827)
+11. [国庆七天，AI圈没一天消停](https://juejin.cn/post/7694124645507940379)
+12. [Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了](https://juejin.cn/post/7693909029785042959)
+13. [DeepSeek Harness 桌面端来啦！更便捷更安全的选择](https://juejin.cn/post/7693712140221792271)
+14. [Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏](https://juejin.cn/post/7693351700208140288)
 15. [A 社为什么反超了](https://juejin.cn/post/7693481478181584932)
 16. [AI 帮我投资 85 天，最多赚到 3733 元](https://juejin.cn/post/7693414422438723626)
 17. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
@@ -29,10 +29,10 @@
 23. [研究 Vue 3 源码的收获](https://juejin.cn/post/7693406376094892066)
 24. [万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品](https://juejin.cn/post/7693225151681396746)
 25. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
-26. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
-27. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
-28. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
-29. [Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪](https://juejin.cn/post/7692739051067342857)
+26. [Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪](https://juejin.cn/post/7692739051067342857)
+27. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
+28. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
+29. [Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍](https://juejin.cn/post/7693018382871691302)
 30. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
 31. [线程本地存储 ThreadLocal](https://juejin.cn/post/7692977150127603775)
 32. [GitHub 日榜趋势速报 | 2026-10-06](https://juejin.cn/post/7692863129294716966)
