@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-09 09:34:59
+> 更新时间：2026-10-09 10:27:01
 
 ## 热新闻
 
@@ -11,16 +11,16 @@
 5. [广东省人大常委会党组成员、副主任张硕辅被查](https://www.thepaper.cn/newsDetail_forward_34212338)
 6. [大连：加大对坊间已有绰号诨名干部的鉴别力度，坚决防止“带病提名”“带病提拔”](https://www.thepaper.cn/newsDetail_forward_34210672)
 7. [中国男足世界排名下降至第96名，创近十年来新低](https://www.thepaper.cn/newsDetail_forward_34210765)
-8. [聚焦解决拖欠企业账款问题！两部门发布10个典型案例](https://www.thepaper.cn/newsDetail_forward_34210641)
-9. [王皓赛场外遭围堵辱骂后报警：观赛表达的法律边界在哪？“法不责众”能成为免责理由？律师解读](https://www.thepaper.cn/newsDetail_forward_34212328)
-10. [驴友违规穿越哈巴雪山遇险：被罚八千元，承担九万余元救援费](https://www.thepaper.cn/newsDetail_forward_34213131)
-11. [美国女囚注射死刑失败后：围绕“该不该再杀她一次”的法律混战打响](https://www.thepaper.cn/newsDetail_forward_34210767)
-12. [韩运动员称免兵役重于金牌，韩国防部：考虑废除兵役豁免制度](https://www.thepaper.cn/newsDetail_forward_34212422)
-13. [马上评｜治理饭圈乱象，除了“禁入”还可以做什么](https://www.thepaper.cn/newsDetail_forward_34212434)
-14. [释新闻｜俄罗斯防鼠疫研究人员死亡引疫情担忧，目前有哪些未知信息？](https://www.thepaper.cn/newsDetail_forward_34210506)
-15. [游客称打车去惠州平潭机场两次遭遇司机加价，平台：由服务商对司机违规操作进行处理](https://www.thepaper.cn/newsDetail_forward_34210760)
-16. [风暴中的数采中心｜能否生产高质量真实数据？“如果有，就算开10倍价格也愿意买”](https://www.thepaper.cn/newsDetail_forward_34210451)
-17. [日本要求中方“对日本首相展现出一定的尊重”，外交部回应](https://www.thepaper.cn/newsDetail_forward_34212196)
-18. [公募网络营销进入“公示时代”：合规部门密集开会，实操尺度仍在磨合中](https://www.thepaper.cn/newsDetail_forward_34213107)
-19. [马上评丨安妮·卡森：古典文学的生命力在于始终能被重新讲述](https://www.thepaper.cn/newsDetail_forward_34214182)
-20. [成都警方通报“某小区楼顶发现可疑骨头”：均为非人类骨骼及牙齿](https://www.thepaper.cn/newsDetail_forward_34213923)
+8. [王皓赛场外遭围堵辱骂后报警：观赛表达的法律边界在哪？“法不责众”能成为免责理由？律师解读](https://www.thepaper.cn/newsDetail_forward_34212328)
+9. [驴友违规穿越哈巴雪山遇险：被罚八千元，承担九万余元救援费](https://www.thepaper.cn/newsDetail_forward_34213131)
+10. [美国女囚注射死刑失败后：围绕“该不该再杀她一次”的法律混战打响](https://www.thepaper.cn/newsDetail_forward_34210767)
+11. [韩运动员称免兵役重于金牌，韩国防部：考虑废除兵役豁免制度](https://www.thepaper.cn/newsDetail_forward_34212422)
+12. [马上评｜治理饭圈乱象，除了“禁入”还可以做什么](https://www.thepaper.cn/newsDetail_forward_34212434)
+13. [游客称打车去惠州平潭机场两次遭遇司机加价，平台：由服务商对司机违规操作进行处理](https://www.thepaper.cn/newsDetail_forward_34210760)
+14. [日本要求中方“对日本首相展现出一定的尊重”，外交部回应](https://www.thepaper.cn/newsDetail_forward_34212196)
+15. [公募网络营销进入“公示时代”：合规部门密集开会，实操尺度仍在磨合中](https://www.thepaper.cn/newsDetail_forward_34213107)
+16. [马上评丨安妮·卡森：古典文学的生命力在于始终能被重新讲述](https://www.thepaper.cn/newsDetail_forward_34214182)
+17. [成都警方通报“某小区楼顶发现可疑骨头”：均为非人类骨骼及牙齿](https://www.thepaper.cn/newsDetail_forward_34213923)
+18. [湖南临澧“6·16”烟花爆炸事故致9死26伤，多人被问责](https://www.thepaper.cn/newsDetail_forward_34213897)
+19. [俄方否认伊尔库茨克州出现第二例“不明原因肺炎”病例](https://www.thepaper.cn/newsDetail_forward_34213664)
+20. [21.42亿人次！国庆假期交通出行火热](https://www.thepaper.cn/newsDetail_forward_34211306)
