@@ -1,17 +1,17 @@
 # 新浪热榜
 
-> 更新时间：2026-10-09 18:41:25
+> 更新时间：2026-10-09 19:12:46
 
 ## 新闻热榜
 
 1. [纪委介入女局长被举报婚内出轨多人](https://news.sina.com.cn/2026-10-09/doc-iniuqqhr7106271.shtml)
 2. [大英博物馆确认：两件康熙时期青花瓷遭到损坏](https://news.sina.com.cn/c/2026-10-09/doc-iniupxkx3440355.shtml)
-3. [欧洲44个行业协会联手，要求欧盟对华出手](https://news.sina.com.cn/zx/2026-10-09/doc-iniuquqp3105583.shtml)
-4. [高市早苗公开反对特朗普](https://news.sina.com.cn/w/2026-10-09/doc-iniuqywq1106704.shtml)
-5. [财经观察：日本化工业陷困局，进口中国产品大增](https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqiyt7224009.shtml)
-6. [江淮汽车股价遭遇“刹停” 尊界称将进一步优化设计](https://finance.sina.com.cn/stock/relnews/cn/2026-10-09/doc-iniupxkt4215375.shtml)
-7. [“素媛案”罪犯赵斗淳破坏家中电子监控设备，相关部门6天后才发现](https://news.sina.com.cn/w/2026-10-09/doc-iniuptat7538926.shtml)
-8. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
+3. [高市早苗公开反对特朗普](https://news.sina.com.cn/w/2026-10-09/doc-iniuqywq1106704.shtml)
+4. [欧洲44个行业协会联手，要求欧盟对华出手](https://news.sina.com.cn/zx/2026-10-09/doc-iniuquqp3105583.shtml)
+5. [江淮汽车股价遭遇“刹停” 尊界称将进一步优化设计](https://finance.sina.com.cn/stock/relnews/cn/2026-10-09/doc-iniupxkt4215375.shtml)
+6. [财经观察：日本化工业陷困局，进口中国产品大增](https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqiyt7224009.shtml)
+7. [成都一小区楼顶发现7岁男童坟墓系谣言，警方通报](https://news.sina.com.cn/s/2026-10-08/doc-iniupnux4343258.shtml)
+8. [“素媛案”罪犯赵斗淳破坏家中电子监控设备，相关部门6天后才发现](https://news.sina.com.cn/w/2026-10-09/doc-iniuptat7538926.shtml)
 9. [全国最忙高铁站，不甘只做“宇宙第一”](https://news.sina.com.cn/c/2026-10-09/doc-iniuptat7531755.shtml)
 10. [美军将公开直播枪决，赫格塞思：让所有人看看](https://news.sina.com.cn/zx/2026-10-09/doc-iniuqqhr7123875.shtml)
 11. [新郎婚礼当天离世家属发声](https://news.sina.com.cn/2026-10-09/doc-iniuquqp3091425.shtml)
@@ -21,9 +21,9 @@
 15. [“新郎婚礼当天去医院看病后离世”冲上热搜，该院目前已被限制高消费，且存在失信被执行人记录](https://news.sina.com.cn/2026-10-09/doc-iniuqywm3003282.shtml)
 16. [1港元甩卖资产！周星驰退出内地线下影院生意](https://news.sina.com.cn/c/2026-10-08/doc-iniuptav4298033.shtml)
 17. [英国矿业巨头警告欧盟：不让卖给中企，我就关了](https://news.sina.com.cn/o/2026-10-08/doc-iniupnvc7541072.shtml)
-18. [“车子我肯定不要了” 尊界V800刹车踏板被踩断，车主急忙退订，专家直指严重缺陷 余承东曾赞“跨时代领先”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniuphnx7592772.shtml)
-19. [安妮·卡森获诺贝尔文学奖，她用“混乱”震撼人心](https://news.sina.com.cn/w/2026-10-08/doc-iniuptaz3530709.shtml)
-20. [国庆楼市，谁在出手？](https://news.sina.com.cn/o/2026-10-08/doc-iniuptaz3527530.shtml)
+18. [俄官方宣布伊尔库茨克市正解除防疫措施](https://news.sina.com.cn/w/2026-10-09/doc-iniuqcsv3349019.shtml)
+19. [[新浪彩票]足彩第26136期任九：南锡坐和望赢](https://sports.sina.com.cn/l/2026-10-09/doc-iniuqqhi7241253.shtml)
+20. [新郎进抢救室医院未主动通知家属](https://news.sina.com.cn/2026-10-09/doc-iniurfei2941783.shtml)
 
 ## 财经热榜
 
