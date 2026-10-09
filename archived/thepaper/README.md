@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-10 03:11:13
+> 更新时间：2026-10-10 04:13:16
 
 ## 热新闻
 
@@ -8,8 +8,8 @@
 2. [超强厄尔尼诺来袭，真正的考验为何在2027年？对话国家气候中心主任巢清尘](https://www.thepaper.cn/newsDetail_forward_34218590)
 3. [医院接诊多例“汞超标”患儿，涉事银鳕鱼产品已不再标注“儿童装”](https://www.thepaper.cn/newsDetail_forward_34214381)
 4. [新疆维吾尔自治区党委原常委、自治区政府原副主席陈伟俊被提起公诉](https://www.thepaper.cn/newsDetail_forward_34216894)
-5. [国家气候中心：超强厄尔尼诺已经形成](https://www.thepaper.cn/newsDetail_forward_34217295)
-6. [马上评｜“圣黛CP”被下线？开脑洞也要守边界](https://www.thepaper.cn/newsDetail_forward_34217885)
+5. [马上评｜“圣黛CP”被下线？开脑洞也要守边界](https://www.thepaper.cn/newsDetail_forward_34217885)
+6. [国家气候中心：超强厄尔尼诺已经形成](https://www.thepaper.cn/newsDetail_forward_34217295)
 7. [澎湃“抗生素牛蛙”报道中一涉事企业被罚：冒用厂名厂址，未履行进货查验](https://www.thepaper.cn/newsDetail_forward_34211522)
 8. [日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作](https://www.thepaper.cn/newsDetail_forward_34218258)
 9. [陕西勉县一起强拆赔偿案获最高检抗诉，最高法提审](https://www.thepaper.cn/newsDetail_forward_34216884)

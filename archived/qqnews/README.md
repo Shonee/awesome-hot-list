@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-10 03:11:14
+> 更新时间：2026-10-10 04:13:18
 
 ## 热点榜
 
@@ -18,9 +18,9 @@
 12. [陈伟俊，受贿数额特别巨大](https://view.inews.qq.com/a/20261009A0421C00)
 13. [女子开了家迷你“养老院”，只收6个人，白天送来晚上接回去](https://view.inews.qq.com/a/20261008V0BOCN00)
 14. [深圳市委、市政府决定，给予吴龙同志追记二等功](https://view.inews.qq.com/a/20261009A02PW800)
-15. [千笔楼｜人均三个行李箱来华爆买，“China Haul”火了！](https://view.inews.qq.com/a/20261009A033B400)
+15. [电梯开门后看到这些情况 千万别进](https://view.inews.qq.com/a/20261009A04SNB00)
 16. [8亿人熬夜刷短剧，“短剧一哥”却还在亏钱](https://view.inews.qq.com/a/20261009A094KO00)
-17. [电梯开门后看到这些情况 千万别进](https://view.inews.qq.com/a/20261009A04SNB00)
-18. [辽宁一工地里挖出10多吨钱，36种古钱堆成小山，网友：好家伙，按吨算也就咱了！](https://view.inews.qq.com/a/20261009V05DQU00)
-19. [国管住房公积金窗口正式落地雄安](https://view.inews.qq.com/a/20261009A049CU00)
+17. [IPO等了17年的广发银行业绩承压：罚单频收、营收三降](https://view.inews.qq.com/a/20261009A09EG700)
+18. [千笔楼｜人均三个行李箱来华爆买，“China Haul”火了！](https://view.inews.qq.com/a/20261009A033B400)
+19. [辽宁一工地里挖出10多吨钱，36种古钱堆成小山，网友：好家伙，按吨算也就咱了！](https://view.inews.qq.com/a/20261009V05DQU00)
 20. [花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观](https://view.inews.qq.com/a/20261009A07VAT00)

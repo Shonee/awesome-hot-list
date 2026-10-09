@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-10 03:10:58
+> 更新时间：2026-10-10 04:13:00
 
 ## 热门文章
 
@@ -20,15 +20,15 @@
 14. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
 15. [Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？](https://juejin.cn/post/7693160537133629455)
 16. [Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏](https://juejin.cn/post/7693351700208140288)
-17. [🧐 为什么大厂 RAG 从不用纯向量检索？](https://juejin.cn/post/7694205589761441807)
-18. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
-19. [Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了](https://juejin.cn/post/7693909029785042959)
-20. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
-21. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+17. [🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？](https://juejin.cn/post/7694480295002128410)
+18. [🧐 为什么大厂 RAG 从不用纯向量检索？](https://juejin.cn/post/7694205589761441807)
+19. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
+20. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
+21. [Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了](https://juejin.cn/post/7693909029785042959)
 22. [WorkBuddy悄悄干了件大事，下一代Office真来了！](https://juejin.cn/post/7694131662615117851)
-23. [GROUP BY 先别想当然，查汇总前把规则跑清楚](https://juejin.cn/post/7694121230733246499)
-24. [A 社为什么反超了](https://juejin.cn/post/7693481478181584932)
-25. [有了 Parallels Desktop，我终于不用问别人借Windows电脑用了](https://juejin.cn/post/7694490288811376680)
+23. [有了 Parallels Desktop，我终于不用问别人借Windows电脑用了](https://juejin.cn/post/7694490288811376680)
+24. [GROUP BY 先别想当然，查汇总前把规则跑清楚](https://juejin.cn/post/7694121230733246499)
+25. [A 社为什么反超了](https://juejin.cn/post/7693481478181584932)
 26. [裁员裁掉了那个干了14年的人：我这才看清职场的5条潜规则](https://juejin.cn/post/7694185019603337256)
 27. [当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？](https://juejin.cn/post/7693451894564765696)
 28. [GraphQL 在国内为什么水土不服？](https://juejin.cn/post/7694187254181494820)
@@ -36,8 +36,8 @@
 30. [跑通了所有测试，却没跑过一句“界面太丑”](https://juejin.cn/post/7693469680510763017)
 31. [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634)
 32. [SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？](https://juejin.cn/post/7693160537133203471)
-33. [只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏](https://juejin.cn/post/7693165008605396992)
-34. [纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器](https://juejin.cn/post/7694262411306762259)
+33. [纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器](https://juejin.cn/post/7694262411306762259)
+34. [只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏](https://juejin.cn/post/7693165008605396992)
 35. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
 36. [我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白](https://juejin.cn/post/7693049513120186414)
 37. [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647)

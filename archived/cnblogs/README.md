@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-10 03:11:01
+> 更新时间：2026-10-10 04:13:03
 
 ## 最新帖子
 
-1. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
-2. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
-3. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
-4. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://www.cnblogs.com/xuxueli/p/23243218)
-5. [.NET 真的缺 Raft 组件吗？.NET 生态里长出来的一只「etcd 级」选手](https://www.cnblogs.com/shanyou/p/23243146)
-6. [Verdict Judge · 使用说明](https://www.cnblogs.com/Ptll/p/23243008)
-7. [【App Service】为应用服务添加Key Vault证书时遇见的RBAC问题之两个困扰人的坑](https://www.cnblogs.com/lulight/p/23241322)
-8. [Linux 性能优化实战：从方法论到 CPU / 内存 / I/O / 网络逐层调优](https://www.cnblogs.com/liuziyi1/p/23240850)
-9. [Acceldata ODP（Open Data Platform）3.3.6.4（RHEL9）保姆级完整安装过程](https://www.cnblogs.com/Robert.Yu/p/23238864)
-10. [2026 年 AI 工具选型实录：我把 200 多款工具试了一遍，最后留在工作流里的只有这 12 个](https://www.cnblogs.com/codigger/p/23234418)
-11. [EasyJob开源发布,让数据自动飞进飞书大屏(多种任务类型 : SQL任务,ETL 同步,监控通知,飞书表格同步,HTTP请求,自定义任务流)](https://www.cnblogs.com/yxdeng/p/23232924)
-12. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
-13. [go语言中的反射](https://www.cnblogs.com/ishoulgodo/p/23229511)
-14. [陀螺小车传奇之00011000](https://www.cnblogs.com/zw-awa/p/23232693)
-15. [SimdPaddleOCR 2.0：再快15倍！见证纯C#驱动的GPU性能核弹](https://www.cnblogs.com/sdcb/p/23230144/20261003-simdpaddleocr-2)
-16. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
-17. [鸿蒙(HarmonyOS)超级终端与生态](https://www.cnblogs.com/halfcode/p/23232277)
-18. [堡垒机里 `su - oracle` 被拦截，怎么绕过限制切换用户](https://www.cnblogs.com/jyzhao/p/23232127)
-19. [XXL-AI v1.1.1 发布｜Desk 桌面客户端正式上线，云本结合再进一步](https://www.cnblogs.com/xuxueli/p/23230714)
-20. [MiniMax Code 接入 PowerContext：构建跨会话与跨 Agent 的项目上下文底座](https://www.cnblogs.com/knqiufan/p/23230707)
+1. [闭源软件的消亡，以及开源软件的最终胜利](https://www.cnblogs.com/apachecn/p/23244897)
+2. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
+3. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
+4. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
+5. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://www.cnblogs.com/xuxueli/p/23243218)
+6. [.NET 真的缺 Raft 组件吗？.NET 生态里长出来的一只「etcd 级」选手](https://www.cnblogs.com/shanyou/p/23243146)
+7. [Verdict Judge · 使用说明](https://www.cnblogs.com/Ptll/p/23243008)
+8. [【App Service】为应用服务添加Key Vault证书时遇见的RBAC问题之两个困扰人的坑](https://www.cnblogs.com/lulight/p/23241322)
+9. [Linux 性能优化实战：从方法论到 CPU / 内存 / I/O / 网络逐层调优](https://www.cnblogs.com/liuziyi1/p/23240850)
+10. [Acceldata ODP（Open Data Platform）3.3.6.4（RHEL9）保姆级完整安装过程](https://www.cnblogs.com/Robert.Yu/p/23238864)
+11. [2026 年 AI 工具选型实录：我把 200 多款工具试了一遍，最后留在工作流里的只有这 12 个](https://www.cnblogs.com/codigger/p/23234418)
+12. [EasyJob开源发布,让数据自动飞进飞书大屏(多种任务类型 : SQL任务,ETL 同步,监控通知,飞书表格同步,HTTP请求,自定义任务流)](https://www.cnblogs.com/yxdeng/p/23232924)
+13. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
+14. [go语言中的反射](https://www.cnblogs.com/ishoulgodo/p/23229511)
+15. [陀螺小车传奇之00011000](https://www.cnblogs.com/zw-awa/p/23232693)
+16. [SimdPaddleOCR 2.0：再快15倍！见证纯C#驱动的GPU性能核弹](https://www.cnblogs.com/sdcb/p/23230144/20261003-simdpaddleocr-2)
+17. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
+18. [鸿蒙(HarmonyOS)超级终端与生态](https://www.cnblogs.com/halfcode/p/23232277)
+19. [堡垒机里 `su - oracle` 被拦截，怎么绕过限制切换用户](https://www.cnblogs.com/jyzhao/p/23232127)
+20. [XXL-AI v1.1.1 发布｜Desk 桌面客户端正式上线，云本结合再进一步](https://www.cnblogs.com/xuxueli/p/23230714)
 
 ## 精华帖子
 
