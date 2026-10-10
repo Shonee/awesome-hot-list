@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-10 14:56:12
+> 更新时间：2026-10-10 15:43:03
 
 ## 热点资讯排行
 
@@ -10,8 +10,8 @@
 4. [小岛秀夫绝版独占神作PC版终于要来了！60帧以上](https://www.gamersky.com/news/202610/2221311.shtml)
 5. [显卡价格彻底失控!5090价格从2万涨到5万 涨幅132%](https://www.gamersky.com/hardware/202610/2222868.shtml)
 6. [知名游戏UP自曝COSER女友出轨 都是薄肌小哥哥](https://www.gamersky.com/news/202610/2223927.shtml)
-7. [《GTA6》严肃加入成人亲密内容！R星：认真打磨 包赞](https://www.gamersky.com/news/202610/2222825.shtml)
-8. [油管博主发布《克里夫·巴克猛鬼追魂：复苏》视频遭平台永封](https://www.gamersky.com/news/202610/2224785.shtml)
+7. [油管博主发布《克里夫·巴克猛鬼追魂：复苏》视频遭平台永封](https://www.gamersky.com/news/202610/2224785.shtml)
+8. [《GTA6》严肃加入成人亲密内容！R星：认真打磨 包赞](https://www.gamersky.com/news/202610/2222825.shtml)
 9. [知名UP自曝COSER女友出轨多人：PS官方火速到场！](https://www.gamersky.com/news/202610/2224648.shtml)
 10. [《刺客信条：Hexe》大量剧情和角色泄露！摒弃RPG 回归传统线性](https://www.gamersky.com/news/202610/2221672.shtml)
 11. [15000块！新掌机性能和价格都离谱 玩黑猴可百帧](https://www.gamersky.com/news/202610/2222781.shtml)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-10 14:54:36
+> 更新时间：2026-10-10 15:42:30
 
 ## 最新帖子
 
-1. [(CDH 7.3)Cloudera CDP Private Cloud Base 7.3.2 VS Acceldata ODP 3.3.6.4 对比](https://www.cnblogs.com/Robert.Yu/p/23251363)
-2. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
-3. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
-4. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
-5. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
-6. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
-7. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
-8. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
-9. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
-10. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
-11. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
-12. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
-13. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
-14. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
-15. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
-16. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
-17. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
-18. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
-19. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
-20. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
+1. [安卓apk加固+重签免费方案](https://www.cnblogs.com/ddandzzmm/p/23251914)
+2. [(CDH 7.3)Cloudera CDP Private Cloud Base 7.3.2 VS Acceldata ODP 3.3.6.4 对比](https://www.cnblogs.com/Robert.Yu/p/23251363)
+3. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
+4. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
+5. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
+6. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
+7. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
+8. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
+9. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
+10. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
+11. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
+12. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
+13. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
+14. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
+15. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
+16. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
+17. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
+18. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
+19. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
+20. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
 
 ## 精华帖子
 
