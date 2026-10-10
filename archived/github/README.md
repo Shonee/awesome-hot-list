@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-10 01:39:21
+> 更新时间：2026-10-10 08:36:37
 
 ## 每日趋势
 
@@ -134,8 +134,7 @@
 8. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 9. [up](https://github.com/byoungd/up)
 10. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-11. [iptv](https://github.com/akiralereal/iptv)
-12. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-13. [Nova-Proxy](https://github.com/IRNova/Nova-Proxy)
-14. [UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)
-15. [tabler-icons](https://github.com/tabler/tabler-icons)
+11. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+12. [Nova-Proxy](https://github.com/IRNova/Nova-Proxy)
+13. [UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)
+14. [tabler-icons](https://github.com/tabler/tabler-icons)

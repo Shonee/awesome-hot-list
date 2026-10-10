@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-10 07:12:03
+> 更新时间：2026-10-10 08:36:57
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [总台记者观察丨日本谋求核潜艇计划引发多方坚决反对](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunrri4412377.shtml)
-2. [特朗普：诺贝尔和平奖差不多该到我了，但希望渺茫，我调停了8场战争，奥巴马什么都没做不知道为什么得奖](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunrrf7639541.shtml)
-3. [“车子我肯定不要了” 尊界V800刹车踏板被踩断，车主急忙退订，专家直指严重缺陷 余承东曾赞“跨时代领先”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniuphnx7592772.shtml)
-4. [美联储会议纪要放“鹰”！多数官员支持年内再加息 美元延续涨势](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-08/doc-iniunezp4437202.shtml)
-5. [“开局一碗大面” ！尊界V800刹车测试引争议，600418被砸跌停，股民：早上没跑，现在也不用跑了](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxf4427743.shtml)
-6. [三星电子，最新业绩不及预期](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunezp4477857.shtml)
-7. [耗资123亿元安踏正式成为彪马大股东 暂时浮亏45亿元](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxm7817812.shtml)
-8. [从刷卡到扫码，个人何以变身 “多商户” 非法套现？](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezt4084294.shtml)
-9. [也门胡塞武装称沙特24小时发动156次袭击](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumytv4185760.shtml)
-10. [手机号注销两年，突然发现被持续盗刷6500多元！赶紧自查微信、支付宝](https://finance.sina.com.cn/wm/2026-10-08/doc-iniunmir3965126.shtml)
-11. [胡适记述中的张謇：“一个很伟大的失败的英雄”](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezt4087878.shtml)
-12. [特朗普要表彰科技巨头，给马斯克、黄仁勋、苏姿丰颁奖](https://finance.sina.com.cn/roll/2026-10-08/doc-iniunmii7687781.shtml)
-13. [中国轮胎企业缘何扎堆落子埃及？](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumr7849643.shtml)
-14. [国庆档票房破10亿 陈思诚联手马丽拔得头筹](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniunezt4065668.shtml)
-15. [尊界汽车回应制动踏板支架底座关切：用户实际使用未现断裂，已交付用户可免费升级](https://finance.sina.com.cn/chanjing/gsnews/2026-10-08/doc-iniupnvc7576764.shtml)
-16. [欧洲理事会主席科斯塔：下周将启动两个乌克兰入盟谈判集群。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniupnuv7594711.shtml)
-17. [中方对欧盟贸易委员访华有何期待？外交部回应](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupafi7702557.shtml)
-18. [欧盟委员会：对意大利的“国家豁免条款”（National Escape Clause）作出积极评估。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniuphnz4371360.shtml)
-19. [一汽、丰田与广汽签署战略联盟框架协议，开启合资合作新篇章。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniupaez7599819.shtml)
-20. [外资机构关注中国资产：积极调研A股公司 发声看好长期前景](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumu5553210.shtml)
+1. [外资机构关注中国资产：积极调研A股公司 发声看好长期前景](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumu5553210.shtml)
+2. [山东港口青岛港：外贸航线数量持续增加](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniupnux4367679.shtml)
+3. [特朗普最怕的数据来了：8月逆差破千亿，背后推手让白宫很难堪](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusaka0952798.shtml)
+4. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
+5. [秘鲁总统藤森庆子：秘鲁将迅速驱逐违法外国人。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7778826.shtml)
+6. [国家电网蝉联中央企业采购与供应链管理对标评估第一名](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaix2641708.shtml)
+7. [聚焦AI算力供电新命题，牵头推进固态变压器标准化落地](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaka0950065.shtml)
+8. [苹果“砍单”新机零部件 消息人士：涨价劝退消费者](https://finance.sina.com.cn/stock/t/2026-10-10/doc-iniusaix2644973.shtml)
+9. [外媒称德国总统计划访华，外交部：目前没有可以提供的信息](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniupaez7599254.shtml)
+10. [外盘原油没怎么涨，为啥国内能化板块却大涨？](https://finance.sina.com.cn/money/future/fmnews/2026-10-08/doc-iniunvxm3847987.shtml)
+11. [这一次尊界和懂车帝必须死一个？](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7645793.shtml)
+12. [艾力斯20厘米跌停单日蒸发市值超百亿  中欧医疗健康混合A浮亏近2000万元](https://finance.sina.com.cn/stock/observe/2026-10-08/doc-iniunvxf4386122.shtml)
+13. [10月8日美股成交额前20：美光涨超4%，闪迪涨约2%，存储芯片在前一交易日大幅下挫后回升](https://finance.sina.com.cn/world/2026-10-08/doc-iniunezp4440467.shtml)
+14. [海外政策猜想引发光通信大跌！最新解读：影响可控](https://finance.sina.com.cn/stock/bxjj/2026-10-08/doc-iniunrrf7691203.shtml)
+15. [10月8日财经早餐：美元美债双重施压，金价跌至两个月低点，油价承压于IEA加快释储](https://finance.sina.com.cn/money/forex/hbfx/2026-10-08/doc-iniunezt4079548.shtml)
+16. [422只A股，处于“破净”区间](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunmii7636692.shtml)
+17. [10月8日沪深两市涨停分析：新华传媒8连板](https://finance.sina.com.cn/tob/2026-10-08/doc-iniupafc4326035.shtml)
+18. [江淮汽车回应尊界V800刹车踏板断裂：正在调查和测试](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupafi7736971.shtml)
+19. [何立峰同英国财政大臣希利举行视频通话](https://finance.sina.com.cn/china/2026-10-08/doc-iniuphpf3698057.shtml)
+20. [西梅价格“腰斩”、芒果“蜜流而出”……这波秋日水果不冲就亏了！](https://finance.sina.com.cn/wm/2026-10-08/doc-iniunmin5238103.shtml)
