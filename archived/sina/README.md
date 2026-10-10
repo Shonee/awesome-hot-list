@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-10 09:32:18
+> 更新时间：2026-10-10 10:25:20
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [特朗普最怕的数据来了：8月逆差破千亿，背后推手让白宫很难堪](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusaka0952798.shtml)
-2. [苹果“砍单”新机零部件 消息人士：涨价劝退消费者](https://finance.sina.com.cn/stock/t/2026-10-10/doc-iniusaix2644973.shtml)
-3. [国家电网蝉联中央企业采购与供应链管理对标评估第一名](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaix2641708.shtml)
-4. [聚焦AI算力供电新命题，牵头推进固态变压器标准化落地](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaka0950065.shtml)
-5. [10月10日美股收盘：道指涨423点 三大股指本周均录得涨幅 科技股普涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7548886.shtml)
-6. [巴拿马发生70多年来最强地震 拉美部分地区或面临海啸](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0773294.shtml)
-7. [2026中国新媒体智库报告（“紫皮书”）正式发布](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniusakc7745174.shtml)
-8. [三台全新的尊界V800测试时刹车踏板支架全被踩断，把15万股东直接搞哭了](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxc7611397.shtml)
-9. [里昂：中国汽车业处过渡期，首选比亚迪、吉利及零跑](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunvxc7588670.shtml)
-10. [万斯就美国针对大型科技公司使用签证项目的行动发表评论。](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniushry0849287.shtml)
-11. [Kalshi调查可疑押注：小额投注精准预判扎卡里亚当选白宫新闻秘书](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniustfu0707204.shtml)
-12. [AI引发的“SaaS末日” 本应重创软件股，现实却截然相反](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaka0971678.shtml)
-13. [数贸会声音](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniushrv2552760.shtml)
-14. [受内存、存储芯片短缺推高价格，游戏硬件销量跌至13年新低](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2656160.shtml)
-15. [美国至10月9日当周石油钻井总数 462口，前值456口。美国至10月9日当周天然气钻井总数 132口，前值133口。](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniusakc7742682.shtml)
-16. [特朗普任命Zacharia为新任白宫新闻秘书 后者是“真实社交”高级顾问](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7559606.shtml)
-17. [一场全新的移动通信大战或将拉开帷幕](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2650125.shtml)
-18. [美国海洋能源管理局：已从墨西哥湾共129座生产平台撤离人员，占该海域371座有人驻守平台的34.77%。](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniusakc7734402.shtml)
-19. [陷入困境的人造肉类先驱，能否真正实现 “超越”？](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2652458.shtml)
-20. [巴拿马发生7.7级地震](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniushrv2538879.shtml)
+1. [巴拿马发生70多年来最强地震 拉美部分地区或面临海啸](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0773294.shtml)
+2. [油价，要降了？普京与特朗普通话：俄将向美及全球供应石油](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfu0740059.shtml)
+3. [特朗普最怕的数据来了：8月逆差破千亿，背后推手让白宫很难堪](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusaka0952798.shtml)
+4. [中共中央、国务院印发《关于发展新质生产力的意见》](https://finance.sina.com.cn/china/gncj/2026-10-10/doc-iniustfr2330843.shtml)
+5. [特朗普改称美国“可能会”在中期选举前攻击伊朗](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0802997.shtml)
+6. [10月10日美股收盘：道指涨423点 三大股指本周均录得涨幅 科技股普涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7548886.shtml)
+7. [泽连斯基：特朗普与普京达成的柴油协议“既不公正，也不坦诚”](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniustfu0732962.shtml)
+8. [石油，大消息！](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfr6304981.shtml)
+9. [苹果“砍单”新机零部件 消息人士：涨价劝退消费者](https://finance.sina.com.cn/stock/t/2026-10-10/doc-iniusaix2644973.shtml)
+10. [国家电网蝉联中央企业采购与供应链管理对标评估第一名](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaix2641708.shtml)
+11. [聚焦AI算力供电新命题，牵头推进固态变压器标准化落地](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaka0950065.shtml)
+12. [特朗普任命Zacharia为新任白宫新闻秘书 后者是“真实社交”高级顾问](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7559606.shtml)
+13. [深夜！美联储，突发大消息！](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfr6301176.shtml)
+14. [2026中国新媒体智库报告（“紫皮书”）正式发布](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniusakc7745174.shtml)
+15. [8个月蒸发812亿！尊界质量翻车，江淮连续7季度巨亏](https://finance.sina.com.cn/stock/auto/2026-10-10/doc-iniusakc7723352.shtml)
+16. [超强厄尔尼诺已经形成 如何防备和应对？](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniushrz7658054.shtml)
+17. [三台全新的尊界V800测试时刹车踏板支架全被踩断，把15万股东直接搞哭了](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxc7611397.shtml)
+18. [里昂：中国汽车业处过渡期，首选比亚迪、吉利及零跑](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunvxc7588670.shtml)
+19. [万斯就美国针对大型科技公司使用签证项目的行动发表评论。](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniushry0849287.shtml)
+20. [Kalshi调查可疑押注：小额投注精准预判扎卡里亚当选白宫新闻秘书](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniustfu0707204.shtml)
