@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-10 10:25:20
+> 更新时间：2026-10-10 11:18:27
 
 ## 新闻热榜
 
@@ -28,22 +28,22 @@
 ## 财经热榜
 
 1. [巴拿马发生70多年来最强地震 拉美部分地区或面临海啸](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0773294.shtml)
-2. [油价，要降了？普京与特朗普通话：俄将向美及全球供应石油](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfu0740059.shtml)
-3. [特朗普最怕的数据来了：8月逆差破千亿，背后推手让白宫很难堪](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusaka0952798.shtml)
+2. [石油，大消息！](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfr6304981.shtml)
+3. [油价，要降了？普京与特朗普通话：俄将向美及全球供应石油](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfu0740059.shtml)
 4. [中共中央、国务院印发《关于发展新质生产力的意见》](https://finance.sina.com.cn/china/gncj/2026-10-10/doc-iniustfr2330843.shtml)
-5. [特朗普改称美国“可能会”在中期选举前攻击伊朗](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0802997.shtml)
-6. [10月10日美股收盘：道指涨423点 三大股指本周均录得涨幅 科技股普涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7548886.shtml)
-7. [泽连斯基：特朗普与普京达成的柴油协议“既不公正，也不坦诚”](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniustfu0732962.shtml)
-8. [石油，大消息！](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfr6304981.shtml)
-9. [苹果“砍单”新机零部件 消息人士：涨价劝退消费者](https://finance.sina.com.cn/stock/t/2026-10-10/doc-iniusaix2644973.shtml)
-10. [国家电网蝉联中央企业采购与供应链管理对标评估第一名](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaix2641708.shtml)
-11. [聚焦AI算力供电新命题，牵头推进固态变压器标准化落地](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaka0950065.shtml)
-12. [特朗普任命Zacharia为新任白宫新闻秘书 后者是“真实社交”高级顾问](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7559606.shtml)
+5. [泽连斯基：特朗普与普京达成的柴油协议“既不公正，也不坦诚”](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniustfu0732962.shtml)
+6. [特朗普改称美国“可能会”在中期选举前攻击伊朗](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0802997.shtml)
+7. [8个月蒸发812亿！尊界质量翻车，江淮连续7季度巨亏](https://finance.sina.com.cn/stock/auto/2026-10-10/doc-iniusakc7723352.shtml)
+8. [美国官员：“泽连斯基误判了局势”](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusxpt7429862.shtml)
+9. [董事长被罚3000余万元、总罚款超1.2亿！双汇再次道歉：深感愧疚](https://finance.sina.com.cn/wm/2026-10-10/doc-iniusxpt7386949.shtml)
+10. [特朗普最怕的数据来了：8月逆差破千亿，背后推手让白宫很难堪](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusaka0952798.shtml)
+11. [10月10日美股收盘：道指涨423点 三大股指本周均录得涨幅 科技股普涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7548886.shtml)
+12. [财政部：有力有效实施更加积极的财政政策](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniustfu0700618.shtml)
 13. [深夜！美联储，突发大消息！](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfr6301176.shtml)
-14. [2026中国新媒体智库报告（“紫皮书”）正式发布](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniusakc7745174.shtml)
-15. [8个月蒸发812亿！尊界质量翻车，江淮连续7季度巨亏](https://finance.sina.com.cn/stock/auto/2026-10-10/doc-iniusakc7723352.shtml)
-16. [超强厄尔尼诺已经形成 如何防备和应对？](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniushrz7658054.shtml)
-17. [三台全新的尊界V800测试时刹车踏板支架全被踩断，把15万股东直接搞哭了](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxc7611397.shtml)
-18. [里昂：中国汽车业处过渡期，首选比亚迪、吉利及零跑](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunvxc7588670.shtml)
-19. [万斯就美国针对大型科技公司使用签证项目的行动发表评论。](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniushry0849287.shtml)
-20. [Kalshi调查可疑押注：小额投注精准预判扎卡里亚当选白宫新闻秘书](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniustfu0707204.shtml)
+14. [超30亿资金出逃长鑫科技](https://finance.sina.com.cn/stock/marketresearch/2026-10-10/doc-iniusxpp2233090.shtml)
+15. [特朗普任命Zacharia为新任白宫新闻秘书 后者是“真实社交”高级顾问](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7559606.shtml)
+16. [美以伊最新局势：俄罗斯、伊朗将加强合作，普京强调错不在伊朗](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfv7488257.shtml)
+17. [苹果“砍单”新机零部件 消息人士：涨价劝退消费者](https://finance.sina.com.cn/stock/t/2026-10-10/doc-iniusaix2644973.shtml)
+18. [国家电网蝉联中央企业采购与供应链管理对标评估第一名](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaix2641708.shtml)
+19. [聚焦AI算力供电新命题，牵头推进固态变压器标准化落地](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaka0950065.shtml)
+20. [超强厄尔尼诺已经形成 如何防备和应对？](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniushrz7658054.shtml)

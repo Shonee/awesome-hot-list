@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-10 10:26:03
+> 更新时间：2026-10-10 11:19:10
 
 ## Hottest
 
@@ -9,23 +9,23 @@
 3. [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
 4. [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
 5. [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
-6. [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
-7. [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
-8. [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma)
+6. [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma)
+7. [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
+8. [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
 9. [Deepthi Sigireddi from Supabase](https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html)
-10. ["Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
+10. [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 11. [What are you doing this weekend?](https://lobste.rs/s/t3xjln)
-12. [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
+12. ["Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
 13. [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 14. [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
 15. [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
-16. [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
-17. [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
-18. [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
-19. [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+16. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+17. [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
+18. [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
+19. [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
 20. [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
-21. [Equality Saturation: An “Incomplete” Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/)
-22. [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
-23. [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
-24. [Patches Updated To Begin Removing The Linux x32 ABI](https://www.phoronix.com/news/Patches-Removing-Linux-x32-ABI)
-25. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+21. [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+22. [Equality Saturation: An “Incomplete” Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/)
+23. [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
+24. [A Practical Guide to “Plug&Pwn” for Pentesters and Defenders](https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/)
+25. [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)

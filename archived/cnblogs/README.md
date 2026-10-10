@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-10 10:25:03
+> 更新时间：2026-10-10 11:18:08
 
 ## 最新帖子
 
-1. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
-2. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
-3. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
-4. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
-5. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
-6. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
-7. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
-8. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
-9. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
-10. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://www.cnblogs.com/xuxueli/p/23243218)
-11. [.NET 真的缺 Raft 组件吗？.NET 生态里长出来的一只「etcd 级」选手](https://www.cnblogs.com/shanyou/p/23243146)
-12. [Verdict Judge · 使用说明](https://www.cnblogs.com/Ptll/p/23243008)
-13. [【App Service】为应用服务添加Key Vault证书时遇见的RBAC问题之两个困扰人的坑](https://www.cnblogs.com/lulight/p/23241322)
-14. [Linux 性能优化实战：从方法论到 CPU / 内存 / I/O / 网络逐层调优](https://www.cnblogs.com/liuziyi1/p/23240850)
-15. [Acceldata ODP（Open Data Platform）3.3.6.4（RHEL9）保姆级完整安装过程](https://www.cnblogs.com/Robert.Yu/p/23238864)
-16. [2026 年 AI 工具选型实录：我把 200 多款工具试了一遍，最后留在工作流里的只有这 12 个](https://www.cnblogs.com/codigger/p/23234418)
-17. [EasyJob开源发布,让数据自动飞进飞书大屏(多种任务类型 : SQL任务,ETL 同步,监控通知,飞书表格同步,HTTP请求,自定义任务流)](https://www.cnblogs.com/yxdeng/p/23232924)
-18. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
-19. [go语言中的反射](https://www.cnblogs.com/ishoulgodo/p/23229511)
-20. [陀螺小车传奇之00011000](https://www.cnblogs.com/zw-awa/p/23232693)
+1. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
+2. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
+3. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
+4. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
+5. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
+6. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
+7. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
+8. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
+9. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
+10. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
+11. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
+12. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
+13. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://www.cnblogs.com/xuxueli/p/23243218)
+14. [.NET 真的缺 Raft 组件吗？.NET 生态里长出来的一只「etcd 级」选手](https://www.cnblogs.com/shanyou/p/23243146)
+15. [Verdict Judge · 使用说明](https://www.cnblogs.com/Ptll/p/23243008)
+16. [【App Service】为应用服务添加Key Vault证书时遇见的RBAC问题之两个困扰人的坑](https://www.cnblogs.com/lulight/p/23241322)
+17. [Linux 性能优化实战：从方法论到 CPU / 内存 / I/O / 网络逐层调优](https://www.cnblogs.com/liuziyi1/p/23240850)
+18. [Acceldata ODP（Open Data Platform）3.3.6.4（RHEL9）保姆级完整安装过程](https://www.cnblogs.com/Robert.Yu/p/23238864)
+19. [2026 年 AI 工具选型实录：我把 200 多款工具试了一遍，最后留在工作流里的只有这 12 个](https://www.cnblogs.com/codigger/p/23234418)
+20. [EasyJob开源发布,让数据自动飞进飞书大屏(多种任务类型 : SQL任务,ETL 同步,监控通知,飞书表格同步,HTTP请求,自定义任务流)](https://www.cnblogs.com/yxdeng/p/23232924)
 
 ## 精华帖子
 
