@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-11 04:14:37
+> 更新时间：2026-10-11 05:13:05
 
 ## Hottest
 
@@ -8,8 +8,8 @@
 2. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
 3. [There's little that's "inevitable" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
 4. [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
-5. [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
-6. [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
+5. [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
+6. [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
 7. [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 8. [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 9. [Mars Pathfinder Priority Inversion Bug: What Really Happened](https://nerdyelectronics.com/mars-pathfinder-what-really-happened/)
@@ -22,10 +22,10 @@
 16. [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma)
 17. [1-click MMI execution in Android](https://karansaini.com/mmi-android/)
 18. [Adding Go's defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
-19. [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
-20. [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
-21. [Voxlocal: a minimal voice agent written in Rust](https://samkhawase.com/blog/voxlocal-minimal-voice-agent/)
-22. [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
+19. [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
+20. [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
+21. [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
+22. [Voxlocal: a minimal voice agent written in Rust](https://samkhawase.com/blog/voxlocal-minimal-voice-agent/)
 23. ["Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
-24. [What are you doing this weekend?](https://lobste.rs/s/t3xjln)
-25. [Reporting vulnerabilities to Estonian companies](https://www.youtube.com/watch?v=4gcSlBORoTI)
+24. [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
+25. [What are you doing this weekend?](https://lobste.rs/s/t3xjln)

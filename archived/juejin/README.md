@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-11 04:12:52
+> 更新时间：2026-10-11 05:11:34
 
 ## 热门文章
 
@@ -40,12 +40,12 @@
 34. [苹果商店详情顶部头图已面向所有开发者开放！](https://juejin.cn/post/7694106627768401939)
 35. [一条 SQL 查了 8 秒，我加了个索引就变成 0.02 秒](https://juejin.cn/post/7694095385380094003)
 36. [给中级开发者的 AI 能力升级路线图](https://juejin.cn/post/7693805723602567178)
-37. [为什么越来越多人用 ZXing？](https://juejin.cn/post/7694595110121832491)
-38. [一只离线鼠鼠，干翻了一堆在线格式转换网站](https://juejin.cn/post/7694628974492270643)
+37. [一只离线鼠鼠，干翻了一堆在线格式转换网站](https://juejin.cn/post/7694628974492270643)
+38. [为什么越来越多人用 ZXing？](https://juejin.cn/post/7694595110121832491)
 39. [“如果你还在用Superpowers，那我不要和你说话”](https://juejin.cn/post/7694124645507809307)
 40. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
-41. [3个信号：AI基建正在转向Rust](https://juejin.cn/post/7693880505397772326)
-42. [腾讯又来一王炸，开源版 WorkBuddy 太夯了！](https://juejin.cn/post/7694844501786050596)
+41. [腾讯又来一王炸，开源版 WorkBuddy 太夯了！](https://juejin.cn/post/7694844501786050596)
+42. [3个信号：AI基建正在转向Rust](https://juejin.cn/post/7693880505397772326)
 43. [基于 FlutterPatch 快速接入 Flutter 热更新](https://juejin.cn/post/7694122417649106979)
 44. [实现一个「曲线滑块验证」功能](https://juejin.cn/post/7694115089584308233)
 45. [模块化Jetpack Compose架构](https://juejin.cn/post/7694131662615543835)
