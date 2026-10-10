@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-10 22:13:28
+> 更新时间：2026-10-10 23:13:26
 
 ## 热点资讯排行
 
@@ -18,4 +18,4 @@
 12. [15000块！新掌机性能和价格都离谱 玩黑猴可百帧](https://www.gamersky.com/news/202610/2222781.shtml)
 13. [徐静雨新电脑12万元！百大up装机猿送货上门](https://www.gamersky.com/news/202610/2222103.shtml)
 14. [曝《生化危机9》DLC重返洋馆！被删内容可能复活](https://www.gamersky.com/news/202610/2221324.shtml)
-15. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
+15. [《GTA6》最新泄露视频内容震惊玩家社区](https://www.gamersky.com/news/202610/2224616.shtml)
