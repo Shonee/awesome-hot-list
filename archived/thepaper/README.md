@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-10 13:13:15
+> 更新时间：2026-10-10 14:20:51
 
 ## 热新闻
 
@@ -11,15 +11,15 @@
 5. [超强厄尔尼诺来袭，真正的考验为何在2027年？对话国家气候中心主任巢清尘](https://www.thepaper.cn/newsDetail_forward_34218590)
 6. [时隔一年后，企查查撤回沪市主板上市申请](https://www.thepaper.cn/newsDetail_forward_34219670)
 7. [医院接诊多例“汞超标”患儿，涉事银鳕鱼产品已不再标注“儿童装”](https://www.thepaper.cn/newsDetail_forward_34214381)
-8. [马上评｜“圣黛CP”被下线？开脑洞也要守边界](https://www.thepaper.cn/newsDetail_forward_34217885)
-9. [独家专访国家海洋环境预报中心首席：海水倒灌，不再只是台风天的故事](https://www.thepaper.cn/newsDetail_forward_34218699)
+8. [独家专访国家海洋环境预报中心首席：海水倒灌，不再只是台风天的故事](https://www.thepaper.cn/newsDetail_forward_34218699)
+9. [北京警方通报“王皓被围堵辱骂”：3人被行拘，17人被批评教育](https://www.thepaper.cn/newsDetail_forward_34223969)
 10. [日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作](https://www.thepaper.cn/newsDetail_forward_34218258)
 11. [湖南永州市商务局局长被举报婚内出轨多人，官方：成立联合调查组](https://www.thepaper.cn/newsDetail_forward_34219428)
 12. [有数｜国庆日均国内游人次增长6.3%，县域旅游成新热点](https://www.thepaper.cn/newsDetail_forward_34123204)
-13. [北京警方通报“王皓被围堵辱骂”：3人被行拘，17人被批评教育](https://www.thepaper.cn/newsDetail_forward_34223969)
+13. [挖自家地下古墓葬也是犯罪！两部门发布6个惩治文物犯罪典型案例](https://www.thepaper.cn/newsDetail_forward_34223875)
 14. [马上评｜要求家长轮值晚自习？“家校合作”不是万能借口](https://www.thepaper.cn/newsDetail_forward_34218894)
-15. [挖自家地下古墓葬也是犯罪！两部门发布6个惩治文物犯罪典型案例](https://www.thepaper.cn/newsDetail_forward_34223875)
-16. [国学大家楼宇烈辞世，享年92岁](https://www.thepaper.cn/newsDetail_forward_34217914)
+15. [国学大家楼宇烈辞世，享年92岁](https://www.thepaper.cn/newsDetail_forward_34217914)
+16. [前三季度全国城镇新增就业1052万人](https://www.thepaper.cn/newsDetail_forward_34223922)
 17. [乌总统对美俄达成柴油协议感到失望：有一种“被背叛”的感觉](https://www.thepaper.cn/newsDetail_forward_34223695)
 18. [马上评丨夫妻一方出轨，向过错方要钱算敲诈勒索吗](https://www.thepaper.cn/newsDetail_forward_34219701)
 19. [视频专访｜叶童：保持热忱，做自己喜欢的事，生活就会活色生香](https://www.thepaper.cn/newsDetail_forward_34215034)
