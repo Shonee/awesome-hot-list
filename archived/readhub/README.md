@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-11 00:13:17
+> 更新时间：2026-10-11 01:37:16
 
 ## 24 小时热榜
 
@@ -17,23 +17,23 @@
 11. [古尔曼称 iPhone Duo 美区零售店购后开机可显示用户姓名](https://readhub.cn/topic/8x6MATCIxuo?tab=daily)
 12. [全国性涉外法律服务平台「法通」网正式上线](https://readhub.cn/topic/8x6U38KS46n?tab=daily)
 13. [2026 年 AI 递归自我改进技术从设想走向产业落地](https://readhub.cn/topic/8x6MsjOEvvk?tab=daily)
-14. [美国湾地区超七成石油及近六成天然气日常产量暂停](https://readhub.cn/topic/8x5rnLSY3gO?tab=daily)
-15. [字节旗下 TRAE 合并升级 支持 Agent 与 IDE 模式无缝切换](https://readhub.cn/topic/8x6OJNBfRYF?tab=daily)
-16. [中汽中心紧急向车企发出制动踏板总成材质调研问卷](https://readhub.cn/topic/8x5T8iYH4B8?tab=daily)
-17. [谷歌发布生图模型 Nano Banana 2.1，支持 4K 直出中文效果提升](https://readhub.cn/topic/8x6LTeR9MkG?tab=daily)
-18. [教育部：国家智慧教育平台教师发展中心升级 启动教师 AI 素养全覆盖培训](https://readhub.cn/topic/8x6vCy8er71?tab=daily)
-19. [梅赛德斯-奔驰美国公司召回 30064 辆汽车](https://readhub.cn/topic/8x6vDDsGBAr?tab=daily)
+14. [字节旗下 TRAE 合并升级 支持 Agent 与 IDE 模式无缝切换](https://readhub.cn/topic/8x6OJNBfRYF?tab=daily)
+15. [教育部：国家智慧教育平台教师发展中心升级 启动教师 AI 素养全覆盖培训](https://readhub.cn/topic/8x6vCy8er71?tab=daily)
+16. [谷歌发布生图模型 Nano Banana 2.1，支持 4K 直出中文效果提升](https://readhub.cn/topic/8x6LTeR9MkG?tab=daily)
+17. [中汽中心紧急向车企发出制动踏板总成材质调研问卷](https://readhub.cn/topic/8x5T8iYH4B8?tab=daily)
+18. [梅赛德斯-奔驰美国公司召回 30064 辆汽车](https://readhub.cn/topic/8x6vDDsGBAr?tab=daily)
+19. [马斯克等六人获美国国家科学奖章，黄仁勋苏姿丰在列](https://readhub.cn/topic/8x5bjBRLXXf?tab=daily)
 20. [宜家家居抖音官方旗舰店即将上线](https://readhub.cn/topic/8x6pUJDZ1jp?tab=daily)
 21. [OpenAI 公开 AI 生成数学研究文稿引发学界广泛讨论](https://readhub.cn/topic/8x6bAdCRxA6?tab=daily)
-22. [马斯克等六人获美国国家科学奖章，黄仁勋苏姿丰在列](https://readhub.cn/topic/8x5bjBRLXXf?tab=daily)
-23. [SpaceX 拟 80 亿美元收购频谱牌照，大举布局无线通信运营](https://readhub.cn/topic/8x4p9TcZSsm?tab=daily)
+22. [SpaceX 拟 80 亿美元收购频谱牌照，大举布局无线通信运营](https://readhub.cn/topic/8x4p9TcZSsm?tab=daily)
+23. [长鑫技术新突破：4F² 架构产品预计年底亮相](https://readhub.cn/topic/8x79SxzgXA4?tab=daily)
 24. [美国宇航局发布下一代商业空间站方案最终招标书](https://readhub.cn/topic/8x63aDUs8pc?tab=daily)
 25. [四部门就规范汽车虚拟操纵件替代物理按键公开征求意见](https://readhub.cn/topic/8x72i3Kw6D3?tab=daily)
 26. [深圳一 GEO 服务商涉虚假宣传被罚 5 万元](https://readhub.cn/topic/8x6uSrqGCHQ?tab=daily)
 27. [Odyssey 推出 Odyssey-3 系列基础世界模型 多项基准创纪录](https://readhub.cn/topic/8x5BzG49dZe?tab=daily)
-28. [长鑫技术新突破：4F² 架构产品预计年底亮相](https://readhub.cn/topic/8x79SxzgXA4?tab=daily)
-29. [AI 需求推动日本工业机床未交订单额超 1 万亿日元](https://readhub.cn/topic/8x6ifyGHICq?tab=daily)
-30. [Claude 推算生成首张完整紫外全天图 含 1.19 亿颗星](https://readhub.cn/topic/8x5XQUuW1R1?tab=daily)
+28. [AI 需求推动日本工业机床未交订单额超 1 万亿日元](https://readhub.cn/topic/8x6ifyGHICq?tab=daily)
+29. [Claude 推算生成首张完整紫外全天图 含 1.19 亿颗星](https://readhub.cn/topic/8x5XQUuW1R1?tab=daily)
+30. [OpenAI 研究负责人回应解雇三名员工争议并澄清解雇原因](https://readhub.cn/topic/8x6MsyuDVkT?tab=daily)
 
 ## 每日早报
 
