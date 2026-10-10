@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-10-10 16:16:38
+> 更新时间：2026-10-10 17:13:48
 
 ## 日榜
 
 1. [尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”](https://www.ithome.com/1/011/077.htm)
 2. [微博 CEO 王高飞再谈尊界 V800 刹车踏板事件，称暂停交付、查车厂台架实验记录比较合理](https://www.ithome.com/1/011/089.htm)
 3. [消息称中汽中心紧急向各大车企发出关于制动踏板总成材质调研问卷，着重关注非金属材质应用](https://www.ithome.com/1/011/091.htm)
-4. [消息称华为 Pura X View 阔直板手机销量已破 40 万台，网友反映该机仍处缺货溢价状态](https://www.ithome.com/1/011/123.htm)
-5. [懂车帝：网传内部整顿通知截图系 AI 生成，相关信息均为谣言](https://www.ithome.com/1/011/096.htm)
+4. [懂车帝：网传内部整顿通知截图系 AI 生成，相关信息均为谣言](https://www.ithome.com/1/011/096.htm)
+5. [消息称华为 Pura X View 阔直板手机销量已破 40 万台，网友反映该机仍处缺货溢价状态](https://www.ithome.com/1/011/123.htm)
 6. [全部金属：比亚迪郑羽公布仰望制动踏板材质，称踏板力执行 2500N 企业标准](https://www.ithome.com/1/011/087.htm)
 7. [懂车帝发内部通告整顿工作？知情人士：假的](https://www.ithome.com/1/011/073.htm)
 8. [小米 18 Fold 中折叠手机登顶安兔兔 9 月 Android 旗舰性能榜，搭玄戒 O3 芯片平均跑分超 462 万](https://www.ithome.com/1/011/128.htm)
-9. [华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接](https://www.ithome.com/1/011/155.htm)
-10. [打击倒卖副卡：山姆会员商店拟限制亲友卡绑定，新规预计 10 月 16 日生效](https://www.ithome.com/1/011/075.htm)
-11. [1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元](https://www.ithome.com/1/011/071.htm)
-12. [苹果首款智能家居中枢渲染图曝光：6 英寸方屏、8GB 内存，可桌放 / 壁挂](https://www.ithome.com/1/011/293.htm)
+9. [打击倒卖副卡：山姆会员商店拟限制亲友卡绑定，新规预计 10 月 16 日生效](https://www.ithome.com/1/011/075.htm)
+10. [华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接](https://www.ithome.com/1/011/155.htm)
+11. [苹果首款智能家居中枢渲染图曝光：6 英寸方屏、8GB 内存，可桌放 / 壁挂](https://www.ithome.com/1/011/293.htm)
+12. [古尔曼爆料苹果 iPhone Duo 折叠屏手机“独有彩蛋”：首次开机能显示自定义用户名](https://www.ithome.com/1/011/169.htm)
