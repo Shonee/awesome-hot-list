@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-10 17:13:25
+> 更新时间：2026-10-10 18:12:14
 
 ## 新闻热榜
 
@@ -29,8 +29,8 @@
 
 1. [石油，大消息！](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfr6304981.shtml)
 2. [巴拿马发生70多年来最强地震 拉美部分地区或面临海啸](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0773294.shtml)
-3. [中共中央、国务院印发《关于发展新质生产力的意见》](https://finance.sina.com.cn/china/gncj/2026-10-10/doc-iniustfr2330843.shtml)
-4. [美国官员：“泽连斯基误判了局势”](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusxpt7429862.shtml)
+3. [美国官员：“泽连斯基误判了局势”](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusxpt7429862.shtml)
+4. [中共中央、国务院印发《关于发展新质生产力的意见》](https://finance.sina.com.cn/china/gncj/2026-10-10/doc-iniustfr2330843.shtml)
 5. [双汇被罚超1.2亿！违规细节曝光！双汇致歉！](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusxpp2236155.shtml)
 6. [8个月蒸发812亿！尊界质量翻车，江淮连续7季度巨亏](https://finance.sina.com.cn/stock/auto/2026-10-10/doc-iniusakc7723352.shtml)
 7. [董事长被罚3000余万元、总罚款超1.2亿！双汇再次道歉：深感愧疚](https://finance.sina.com.cn/wm/2026-10-10/doc-iniusxpt7386949.shtml)
@@ -41,9 +41,9 @@
 12. [双汇猪肉超标37.5倍：一张1.29亿的罚单，落到头上了](https://finance.sina.com.cn/stock/marketresearch/2026-10-10/doc-iniusxpp2262968.shtml)
 13. [财政部：有力有效实施更加积极的财政政策](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniustfu0700618.shtml)
 14. [黄金拉升逼近4200美元，瑞银：今年12月将达到4600美元](https://finance.sina.com.cn/roll/2026-10-10/doc-iniustfv7510200.shtml)
-15. [特朗普改称美国“可能会”在中期选举前攻击伊朗](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0802997.shtml)
-16. [霍尔木兹海峡到底关没关？全球航运数据机构：仍然开放，但通航风险极高，日均至少10艘油轮和干散货船通过](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniusaix2647194.shtml)
+15. [女大学生校园内被改装外卖电动车撞亡，家属难以接受责任划分](https://finance.sina.com.cn/roll/2026-10-10/doc-iniutcvm6116382.shtml)
+16. [特朗普改称美国“可能会”在中期选举前攻击伊朗](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0802997.shtml)
 17. [特朗普政府反对所有联合国新一任秘书长候选人 要求推出新候选人](https://finance.sina.com.cn/world/2026-10-10/doc-iniusxpt7455094.shtml)
-18. [北京警方通报王皓被围堵辱骂：3人被行政拘留，17人被批评教育](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutcvr7400137.shtml)
-19. [女大学生校园内被改装外卖电动车撞亡，家属难以接受责任划分](https://finance.sina.com.cn/roll/2026-10-10/doc-iniutcvm6116382.shtml)
-20. [一大学生校园内被撞离世，多方回应](https://finance.sina.com.cn/wm/2026-10-10/doc-iniutcvr7450592.shtml)
+18. [霍尔木兹海峡到底关没关？全球航运数据机构：仍然开放，但通航风险极高，日均至少10艘油轮和干散货船通过](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniusaix2647194.shtml)
+19. [北京警方通报王皓被围堵辱骂：3人被行政拘留，17人被批评教育](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutcvr7400137.shtml)
+20. [超千亿资金将集结入场！下半年发起大额增持回购计划的低估值股出炉，仅13只](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusxpp6179875.shtml)

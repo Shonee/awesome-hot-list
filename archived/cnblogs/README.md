@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-10 17:13:09
+> 更新时间：2026-10-10 18:11:57
 
 ## 最新帖子
 
-1. [使用C#.net10 winform+antdui全新重构版本lol小助手四](https://www.cnblogs.com/sc-Free-Die/p/23253415)
-2. [安卓apk加固+重签免费方案](https://www.cnblogs.com/ddandzzmm/p/23251914)
-3. [(CDH 7.3)Cloudera CDP Private Cloud Base 7.3.2 VS Acceldata ODP 3.3.6.4 对比](https://www.cnblogs.com/Robert.Yu/p/23251363)
-4. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
-5. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
-6. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
-7. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
-8. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
-9. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
-10. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
-11. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
-12. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
-13. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
-14. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
-15. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
-16. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
-17. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
-18. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
-19. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
-20. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
+1. [SAM 3: Segment Anything with Concepts —— 技术精读报告](https://www.cnblogs.com/x1ao0/p/23254322)
+2. [使用C#.net10 winform+antdui全新重构版本lol小助手四](https://www.cnblogs.com/sc-Free-Die/p/23253415)
+3. [安卓apk加固+重签免费方案](https://www.cnblogs.com/ddandzzmm/p/23251914)
+4. [(CDH 7.3)Cloudera CDP Private Cloud Base 7.3.2 VS Acceldata ODP 3.3.6.4 对比](https://www.cnblogs.com/Robert.Yu/p/23251363)
+5. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
+6. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
+7. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
+8. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
+9. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
+10. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
+11. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
+12. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
+13. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
+14. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
+15. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
+16. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
+17. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
+18. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
+19. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
+20. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
 
 ## 精华帖子
 
@@ -55,4 +55,4 @@
 3. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
 4. [EasyJob开源发布,让数据自动飞进飞书大屏(多种任务类型 : SQL任务,ETL 同步,监控通知,飞书表格同步,HTTP请求,自定义任务流)](https://www.cnblogs.com/yxdeng/p/23232924)
 5. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
-6. [《项目管理指导手册》2026版-心得（二）](https://www.cnblogs.com/demon28/p/23221508)
+6. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)

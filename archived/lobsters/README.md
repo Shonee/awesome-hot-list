@@ -1,13 +1,13 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-10 17:14:32
+> 更新时间：2026-10-10 18:12:55
 
 ## Hottest
 
-1. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
-2. [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
-3. [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
-4. [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
+1. [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
+2. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+3. [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
+4. [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
 5. [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 6. [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
 7. [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
@@ -21,10 +21,10 @@
 15. [Voxlocal: a minimal voice agent written in Rust](https://samkhawase.com/blog/voxlocal-minimal-voice-agent/)
 16. [1-click MMI execution in Android](https://karansaini.com/mmi-android/)
 17. [What are you doing this weekend?](https://lobste.rs/s/t3xjln)
-18. [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
-19. [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
-20. [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
-21. [There's little that's "inevitable" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
+18. [There's little that's "inevitable" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
+19. [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
+20. [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
+21. [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
 22. [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 23. [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 24. [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
