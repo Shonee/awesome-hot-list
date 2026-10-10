@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-10 08:37:45
+> 更新时间：2026-10-10 09:33:07
 
 ## Hottest
 
@@ -16,16 +16,16 @@
 10. ["Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
 11. [What are you doing this weekend?](https://lobste.rs/s/t3xjln)
 12. [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
-13. [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
+13. [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 14. [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
-15. [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
+15. [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 16. [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
 17. [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
 18. [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
 19. [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
 20. [Equality Saturation: An “Incomplete” Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/)
-21. [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
-22. [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
-23. [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+21. [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+22. [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
+23. [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
 24. [Deeper dive: Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 25. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)

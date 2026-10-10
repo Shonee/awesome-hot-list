@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-10 08:36:57
+> 更新时间：2026-10-10 09:32:18
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [外资机构关注中国资产：积极调研A股公司 发声看好长期前景](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniumumu5553210.shtml)
-2. [山东港口青岛港：外贸航线数量持续增加](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniupnux4367679.shtml)
-3. [特朗普最怕的数据来了：8月逆差破千亿，背后推手让白宫很难堪](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusaka0952798.shtml)
-4. [法国信息电台报道：法国将从储备中投放 1000 万桶柴油。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumqct7940449.shtml)
-5. [秘鲁总统藤森庆子：秘鲁将迅速驱逐违法外国人。](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniumytp7778826.shtml)
-6. [国家电网蝉联中央企业采购与供应链管理对标评估第一名](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaix2641708.shtml)
-7. [聚焦AI算力供电新命题，牵头推进固态变压器标准化落地](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaka0950065.shtml)
-8. [苹果“砍单”新机零部件 消息人士：涨价劝退消费者](https://finance.sina.com.cn/stock/t/2026-10-10/doc-iniusaix2644973.shtml)
-9. [外媒称德国总统计划访华，外交部：目前没有可以提供的信息](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniupaez7599254.shtml)
-10. [外盘原油没怎么涨，为啥国内能化板块却大涨？](https://finance.sina.com.cn/money/future/fmnews/2026-10-08/doc-iniunvxm3847987.shtml)
-11. [这一次尊界和懂车帝必须死一个？](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupaez7645793.shtml)
-12. [艾力斯20厘米跌停单日蒸发市值超百亿  中欧医疗健康混合A浮亏近2000万元](https://finance.sina.com.cn/stock/observe/2026-10-08/doc-iniunvxf4386122.shtml)
-13. [10月8日美股成交额前20：美光涨超4%，闪迪涨约2%，存储芯片在前一交易日大幅下挫后回升](https://finance.sina.com.cn/world/2026-10-08/doc-iniunezp4440467.shtml)
-14. [海外政策猜想引发光通信大跌！最新解读：影响可控](https://finance.sina.com.cn/stock/bxjj/2026-10-08/doc-iniunrrf7691203.shtml)
-15. [10月8日财经早餐：美元美债双重施压，金价跌至两个月低点，油价承压于IEA加快释储](https://finance.sina.com.cn/money/forex/hbfx/2026-10-08/doc-iniunezt4079548.shtml)
-16. [422只A股，处于“破净”区间](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunmii7636692.shtml)
-17. [10月8日沪深两市涨停分析：新华传媒8连板](https://finance.sina.com.cn/tob/2026-10-08/doc-iniupafc4326035.shtml)
-18. [江淮汽车回应尊界V800刹车踏板断裂：正在调查和测试](https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupafi7736971.shtml)
-19. [何立峰同英国财政大臣希利举行视频通话](https://finance.sina.com.cn/china/2026-10-08/doc-iniuphpf3698057.shtml)
-20. [西梅价格“腰斩”、芒果“蜜流而出”……这波秋日水果不冲就亏了！](https://finance.sina.com.cn/wm/2026-10-08/doc-iniunmin5238103.shtml)
+1. [特朗普最怕的数据来了：8月逆差破千亿，背后推手让白宫很难堪](https://finance.sina.com.cn/roll/2026-10-10/doc-iniusaka0952798.shtml)
+2. [苹果“砍单”新机零部件 消息人士：涨价劝退消费者](https://finance.sina.com.cn/stock/t/2026-10-10/doc-iniusaix2644973.shtml)
+3. [国家电网蝉联中央企业采购与供应链管理对标评估第一名](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaix2641708.shtml)
+4. [聚焦AI算力供电新命题，牵头推进固态变压器标准化落地](https://finance.sina.com.cn/roll/2026-10-09/doc-iniusaka0950065.shtml)
+5. [10月10日美股收盘：道指涨423点 三大股指本周均录得涨幅 科技股普涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7548886.shtml)
+6. [巴拿马发生70多年来最强地震 拉美部分地区或面临海啸](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxw0773294.shtml)
+7. [2026中国新媒体智库报告（“紫皮书”）正式发布](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniusakc7745174.shtml)
+8. [三台全新的尊界V800测试时刹车踏板支架全被踩断，把15万股东直接搞哭了](https://finance.sina.com.cn/stock/marketresearch/2026-10-08/doc-iniunvxc7611397.shtml)
+9. [里昂：中国汽车业处过渡期，首选比亚迪、吉利及零跑](https://finance.sina.com.cn/7x24/2026-10-08/doc-iniunvxc7588670.shtml)
+10. [万斯就美国针对大型科技公司使用签证项目的行动发表评论。](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniushry0849287.shtml)
+11. [Kalshi调查可疑押注：小额投注精准预判扎卡里亚当选白宫新闻秘书](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniustfu0707204.shtml)
+12. [AI引发的“SaaS末日” 本应重创软件股，现实却截然相反](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaka0971678.shtml)
+13. [数贸会声音](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniushrv2552760.shtml)
+14. [受内存、存储芯片短缺推高价格，游戏硬件销量跌至13年新低](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2656160.shtml)
+15. [美国至10月9日当周石油钻井总数 462口，前值456口。美国至10月9日当周天然气钻井总数 132口，前值133口。](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniusakc7742682.shtml)
+16. [特朗普任命Zacharia为新任白宫新闻秘书 后者是“真实社交”高级顾问](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusnxx7559606.shtml)
+17. [一场全新的移动通信大战或将拉开帷幕](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2650125.shtml)
+18. [美国海洋能源管理局：已从墨西哥湾共129座生产平台撤离人员，占该海域371座有人驻守平台的34.77%。](https://finance.sina.com.cn/7x24/2026-10-10/doc-iniusakc7734402.shtml)
+19. [陷入困境的人造肉类先驱，能否真正实现 “超越”？](https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2652458.shtml)
+20. [巴拿马发生7.7级地震](https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniushrv2538879.shtml)
