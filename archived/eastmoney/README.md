@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-10 15:43:12
+> 更新时间：2026-10-10 16:16:44
 
 ## 股票人气榜
 
@@ -18,9 +18,9 @@
 12. [博纳影业 (001330)](https://quote.eastmoney.com/sz001330.html)
 13. [雄韬股份 (002733)](https://quote.eastmoney.com/sz002733.html)
 14. [丰元股份 (002805)](https://quote.eastmoney.com/sz002805.html)
-15. [中国巨石 (600176)](https://quote.eastmoney.com/sh600176.html)
-16. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
-17. [天融信 (002212)](https://quote.eastmoney.com/sz002212.html)
-18. [掌阅科技 (603533)](https://quote.eastmoney.com/sh603533.html)
+15. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
+16. [天融信 (002212)](https://quote.eastmoney.com/sz002212.html)
+17. [掌阅科技 (603533)](https://quote.eastmoney.com/sh603533.html)
+18. [中国巨石 (600176)](https://quote.eastmoney.com/sh600176.html)
 19. [海南橡胶 (601118)](https://quote.eastmoney.com/sh601118.html)
-20. [欢瑞世纪 (000892)](https://quote.eastmoney.com/sz000892.html)
+20. [绿盟科技 (300369)](https://quote.eastmoney.com/sz300369.html)

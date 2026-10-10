@@ -1,6 +1,6 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-10-10 15:42:14
+> 更新时间：2026-10-10 16:15:58
 
 ## 热门搜索
 
@@ -8,30 +8,30 @@
 2. [村民盗挖自家古墓葬获刑15年](https://search.bilibili.com/all?keyword=%E6%9D%91%E6%B0%91%E7%9B%97%E6%8C%96%E8%87%AA%E5%AE%B6%E5%8F%A4%E5%A2%93%E8%91%AC%E8%8E%B7%E5%88%9115%E5%B9%B4)
 3. [Kyxsan称NiKo此前评价并非全貌](https://search.bilibili.com/all?keyword=Kyxsan%E7%A7%B0NiKo%E6%AD%A4%E5%89%8D%E8%AF%84%E4%BB%B7%E5%B9%B6%E9%9D%9E%E5%85%A8%E8%B2%8C)
 4. [杜兰特中国赛砍15分](https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%B0%E7%89%B9%E4%B8%AD%E5%9B%BD%E8%B5%9B%E7%A0%8D15%E5%88%86)
-5. [西班牙首相提前大选原因几何](https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E6%8F%90%E5%89%8D%E5%A4%A7%E9%80%89%E5%8E%9F%E5%9B%A0%E5%87%A0%E4%BD%95)
+5. [开拓者新赛季做了哪些变化](https://search.bilibili.com/all?keyword=%E5%BC%80%E6%8B%93%E8%80%85%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96)
 6. [韩立](https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B)
-7. [联大一般性辩论有何看点](https://search.bilibili.com/all?keyword=%E8%81%94%E5%A4%A7%E4%B8%80%E8%88%AC%E6%80%A7%E8%BE%A9%E8%AE%BA%E6%9C%89%E4%BD%95%E7%9C%8B%E7%82%B9)
-8. [和朋友出去旅游的你belike](https://search.bilibili.com/all?keyword=%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%E4%BD%A0belike)
-9. [EDG为什么要玩双先锋](https://search.bilibili.com/all?keyword=EDG%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%8E%A9%E5%8F%8C%E5%85%88%E9%94%8B)
-10. [长假出行体系发生了什么变化](https://search.bilibili.com/all?keyword=%E9%95%BF%E5%81%87%E5%87%BA%E8%A1%8C%E4%BD%93%E7%B3%BB%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96)
+7. [国庆档观影总结](https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%BA%86%E6%A1%A3%E8%A7%82%E5%BD%B1%E6%80%BB%E7%BB%93)
+8. [西班牙首相提前大选原因几何](https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E6%8F%90%E5%89%8D%E5%A4%A7%E9%80%89%E5%8E%9F%E5%9B%A0%E5%87%A0%E4%BD%95)
+9. [和朋友出去旅游的你belike](https://search.bilibili.com/all?keyword=%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%E4%BD%A0belike)
+10. [原生家庭对心理健康的影响](https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9A%84%E5%BD%B1%E5%93%8D)
 11. [英雄联盟S16主题曲MV](https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E4%B8%BB%E9%A2%98%E6%9B%B2MV)
-12. [纽约全明星](https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%85%A8%E6%98%8E%E6%98%9F)
-13. [詹姆斯首秀恩比德8失误](https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%A6%96%E7%A7%80%E6%81%A9%E6%AF%94%E5%BE%B78%E5%A4%B1%E8%AF%AF)
-14. [中国合法造枪门槛有多高](https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%88%E6%B3%95%E9%80%A0%E6%9E%AA%E9%97%A8%E6%A7%9B%E6%9C%89%E5%A4%9A%E9%AB%98)
-15. [俄罗斯鼠疫新闻为何广泛流传](https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E9%BC%A0%E7%96%AB%E6%96%B0%E9%97%BB%E4%B8%BA%E4%BD%95%E5%B9%BF%E6%B3%9B%E6%B5%81%E4%BC%A0)
-16. [拆解港娱背后的8000亿赌局](https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%AF%E5%A8%B1%E8%83%8C%E5%90%8E%E7%9A%848000%E4%BA%BF%E8%B5%8C%E5%B1%80)
-17. [金秋尝蟹的白色固体能吃吗](https://search.bilibili.com/all?keyword=%E9%87%91%E7%A7%8B%E5%B0%9D%E8%9F%B9%E7%9A%84%E7%99%BD%E8%89%B2%E5%9B%BA%E4%BD%93%E8%83%BD%E5%90%83%E5%90%97)
-18. [当彼得带琴见钢铁侠](https://search.bilibili.com/all?keyword=%E5%BD%93%E5%BD%BC%E5%BE%97%E5%B8%A6%E7%90%B4%E8%A7%81%E9%92%A2%E9%93%81%E4%BE%A0)
-19. [UP主体验印度婆罗门生活](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BD%93%E9%AA%8C%E5%8D%B0%E5%BA%A6%E5%A9%86%E7%BD%97%E9%97%A8%E7%94%9F%E6%B4%BB)
-20. [史上最大现金收购案始末](https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%8E%B0%E9%87%91%E6%94%B6%E8%B4%AD%E6%A1%88%E5%A7%8B%E6%9C%AB)
+12. [拆解港娱背后的8000亿赌局](https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%AF%E5%A8%B1%E8%83%8C%E5%90%8E%E7%9A%848000%E4%BA%BF%E8%B5%8C%E5%B1%80)
+13. [当彼得带琴见钢铁侠](https://search.bilibili.com/all?keyword=%E5%BD%93%E5%BD%BC%E5%BE%97%E5%B8%A6%E7%90%B4%E8%A7%81%E9%92%A2%E9%93%81%E4%BE%A0)
+14. [在天山追羊啃是什么体验](https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%A4%A9%E5%B1%B1%E8%BF%BD%E7%BE%8A%E5%95%83%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
+15. [为什么要消灭清道夫](https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%B6%88%E7%81%AD%E6%B8%85%E9%81%93%E5%A4%AB)
+16. [中国合法造枪门槛有多高](https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%88%E6%B3%95%E9%80%A0%E6%9E%AA%E9%97%A8%E6%A7%9B%E6%9C%89%E5%A4%9A%E9%AB%98)
+17. [怎么看OpenAI数学论文撤稿](https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF)
+18. [纽约全明星](https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%85%A8%E6%98%8E%E6%98%9F)
+19. [F1新加坡冲刺排位赛战报](https://search.bilibili.com/all?keyword=F1%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%86%B2%E5%88%BA%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%98%E6%8A%A5)
+20. [农村真实相亲现场](https://search.bilibili.com/all?keyword=%E5%86%9C%E6%9D%91%E7%9C%9F%E5%AE%9E%E7%9B%B8%E4%BA%B2%E7%8E%B0%E5%9C%BA)
 
 ## 全站热门视频
 
 1. [【独家】《凡人修仙传之慕兰之战》第19集【总第195集】](https://b23.tv/BV1JLpY6DEWU)
 2. [超市里……未检测到人脸……](https://b23.tv/BV1iqpt6cEMU)
-3. [螃蟹蒸出来的白色固体是螃蟹血？原来这些动物的血都不是红色的！【主播说三农】](https://b23.tv/BV1Rcp86YE8k)
-4. [讨伐型人格大合集](https://b23.tv/BV1rSpM6nEtm)
-5. [极极极极，极限战场👉🏻首曝极首测，所见极所玩](https://b23.tv/BV1PTHS6MEC5)
+3. [讨伐型人格大合集](https://b23.tv/BV1rSpM6nEtm)
+4. [极极极极，极限战场👉🏻首曝极首测，所见极所玩](https://b23.tv/BV1PTHS6MEC5)
+5. [螃蟹蒸出来的白色固体是螃蟹血？原来这些动物的血都不是红色的！【主播说三农】](https://b23.tv/BV1Rcp86YE8k)
 6. [对话孙宇晨：年轻人如何抓住AI时代的机会？](https://b23.tv/BV1fcHD6cEw3)
 7. [中国女孩美国买特斯拉惨遭逮捕，神秘背景牵出跨国惊天大案！](https://b23.tv/BV16pH96kEqb)
 8. [【大鸣王潮1566】岁主帮岁共](https://b23.tv/BV1Jupb6uEXY)
