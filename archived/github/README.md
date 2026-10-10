@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-10 21:11:20
+> 更新时间：2026-10-11 03:36:42
 
 ## 每日趋势
 
@@ -101,22 +101,23 @@
 ## Go
 
 1. [caddy](https://github.com/caddyserver/caddy)
-2. [uniterm](https://github.com/ys-ll/uniterm)
-3. [tuios](https://github.com/Gaurav-Gosain/tuios)
-4. [3x-ui](https://github.com/MHSanaei/3x-ui)
-5. [ttt](https://github.com/eugenioenko/ttt)
-6. [trivy](https://github.com/aquasecurity/trivy)
-7. [docker-agent](https://github.com/docker/docker-agent)
-8. [bubbletea](https://github.com/charmbracelet/bubbletea)
-9. [gvisor](https://github.com/google/gvisor)
-10. [ollama](https://github.com/ollama/ollama)
-11. [caveman](https://github.com/JuliusBrussee/caveman)
-12. [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-13. [CodeAF](https://github.com/Agent-Field/CodeAF)
-14. [traefik](https://github.com/traefik/traefik)
-15. [gitea](https://github.com/go-gitea/gitea)
-16. [llm-d-router](https://github.com/llm-d/llm-d-router)
-17. [TypeScript](https://github.com/microsoft/TypeScript)
+2. [httpsms](https://github.com/NdoleStudio/httpsms)
+3. [uniterm](https://github.com/ys-ll/uniterm)
+4. [tuios](https://github.com/Gaurav-Gosain/tuios)
+5. [3x-ui](https://github.com/MHSanaei/3x-ui)
+6. [ttt](https://github.com/eugenioenko/ttt)
+7. [trivy](https://github.com/aquasecurity/trivy)
+8. [docker-agent](https://github.com/docker/docker-agent)
+9. [bubbletea](https://github.com/charmbracelet/bubbletea)
+10. [gvisor](https://github.com/google/gvisor)
+11. [ollama](https://github.com/ollama/ollama)
+12. [caveman](https://github.com/JuliusBrussee/caveman)
+13. [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+14. [CodeAF](https://github.com/Agent-Field/CodeAF)
+15. [traefik](https://github.com/traefik/traefik)
+16. [gitea](https://github.com/go-gitea/gitea)
+17. [llm-d-router](https://github.com/llm-d/llm-d-router)
+18. [TypeScript](https://github.com/microsoft/TypeScript)
 
 ## HTML
 
