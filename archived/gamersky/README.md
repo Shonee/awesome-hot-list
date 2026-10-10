@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-10 18:12:17
+> 更新时间：2026-10-10 19:12:48
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [知名UP自曝COSER女友出轨多人：PS官方火速到场！](https://www.gamersky.com/news/202610/2224648.shtml)
 10. [《刺客信条：Hexe》大量剧情和角色泄露！摒弃RPG 回归传统线性](https://www.gamersky.com/news/202610/2221672.shtml)
 11. [15000块！新掌机性能和价格都离谱 玩黑猴可百帧](https://www.gamersky.com/news/202610/2222781.shtml)
-12. [The Gamer批评《永恒之塔2》角色自定义！被玩家狂喷600楼](https://www.gamersky.com/news/202610/2222985.shtml)
-13. [索尼第一方高调宣传PC版！玩家请愿继续上PC 别管PS](https://www.gamersky.com/news/202610/2224257.shtml)
+12. [索尼第一方高调宣传PC版！玩家请愿继续上PC 别管PS](https://www.gamersky.com/news/202610/2224257.shtml)
+13. [The Gamer批评《永恒之塔2》角色自定义！被玩家狂喷600楼](https://www.gamersky.com/news/202610/2222985.shtml)
 14. [徐静雨新电脑12万元！百大up装机猿送货上门](https://www.gamersky.com/news/202610/2222103.shtml)
 15. [曝《生化危机9》DLC重返洋馆！被删内容可能复活](https://www.gamersky.com/news/202610/2221324.shtml)
