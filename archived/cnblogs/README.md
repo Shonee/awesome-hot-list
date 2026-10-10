@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-10 12:15:43
+> 更新时间：2026-10-10 13:13:07
 
 ## 最新帖子
 
-1. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
-2. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
-3. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
-4. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
-5. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
-6. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
-7. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
-8. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
-9. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
-10. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
-11. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
-12. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
-13. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
-14. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
-15. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
-16. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
-17. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
-18. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://www.cnblogs.com/xuxueli/p/23243218)
-19. [.NET 真的缺 Raft 组件吗？.NET 生态里长出来的一只「etcd 级」选手](https://www.cnblogs.com/shanyou/p/23243146)
-20. [Verdict Judge · 使用说明](https://www.cnblogs.com/Ptll/p/23243008)
+1. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
+2. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
+3. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
+4. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
+5. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
+6. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
+7. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
+8. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
+9. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
+10. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
+11. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
+12. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
+13. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
+14. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
+15. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
+16. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
+17. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
+18. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
+19. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
+20. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://www.cnblogs.com/xuxueli/p/23243218)
 
 ## 精华帖子
 

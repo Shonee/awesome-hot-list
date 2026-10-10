@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-10 12:16:45
+> 更新时间：2026-10-10 13:14:12
 
 ## Hottest
 
@@ -10,13 +10,13 @@
 4. [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 5. [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
 6. [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma)
-7. [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
-8. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+7. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+8. [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
 9. [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
 10. [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 11. [Deepthi Sigireddi from Supabase](https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html)
-12. [What are you doing this weekend?](https://lobste.rs/s/t3xjln)
-13. ["Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
+12. ["Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
+13. [What are you doing this weekend?](https://lobste.rs/s/t3xjln)
 14. [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 15. [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
 16. [Bevy 0.20](https://bevy.org/news/bevy-0-20/)

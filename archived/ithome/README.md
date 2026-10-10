@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-10 12:16:05
+> 更新时间：2026-10-10 13:13:29
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [全部金属：比亚迪郑羽公布仰望制动踏板材质，称踏板力执行 2500N 企业标准](https://www.ithome.com/1/011/087.htm)
 9. [懂车帝发内部通告整顿工作？知情人士：假的](https://www.ithome.com/1/011/073.htm)
 10. [小米 18 Fold 中折叠手机登顶安兔兔 9 月 Android 旗舰性能榜，搭玄戒 O3 芯片平均跑分超 462 万](https://www.ithome.com/1/011/128.htm)
-11. [消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm±](https://www.ithome.com/1/010/872.htm)
-12. [华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接](https://www.ithome.com/1/011/155.htm)
+11. [华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接](https://www.ithome.com/1/011/155.htm)
+12. [打击倒卖副卡：山姆会员商店拟限制亲友卡绑定，新规预计 10 月 16 日生效](https://www.ithome.com/1/011/075.htm)
