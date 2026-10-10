@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-10 23:13:25
+> 更新时间：2026-10-11 00:13:31
 
 ## 每日热点榜
 
@@ -22,19 +22,16 @@
 16. [特斯拉新专利曝光](http://www.autohome.com.cn/news/202610/1317660.html)
 17. [奇瑞Stockman皮卡参数曝光](http://www.autohome.com.cn/news/202610/1317659.html)
 18. [比亚迪海洋网MPV谍照](https://chejiahao.autohome.com.cn/info/26619303#pvareaid=6834132)
-19. [比亚迪第15万台新能源商用车下线](https://chejiahao.autohome.com.cn/info/26622581#pvareaid=6834132)
-20. [比亚迪人形机器人外观专利公布](http://www.autohome.com.cn/news/202610/1317666.html)
-21. [全新比亚迪海鸥正式开启盲订](http://www.autohome.com.cn/news/202610/1317644.html)
-22. [维斯塔潘F1新加坡站冲刺赛夺冠](https://chejiahao.autohome.com.cn/info/26626888#pvareaid=6834132)
-23. [超20个中国品牌扎堆巴黎车展](https://chejiahao.autohome.com.cn/info/26624453#pvareaid=6834132)
-24. [猛士X700首台量产车下线](http://www.autohome.com.cn/news/202610/1317665.html)
-25. [迈凯伦750S 2027年停产](http://www.autohome.com.cn/news/202610/1317651.html)
-26. [国际油价深夜大涨](https://chejiahao.autohome.com.cn/info/26617185#pvareaid=6834132)
-27. [小鹏P7+黑武士套装限时售6000元](http://www.autohome.com.cn/news/202610/1317641.html)
-28. [全新魏牌蓝山内饰谍照曝光](http://www.autohome.com.cn/news/202610/1317624.html)
-29. [上汽大众ID.ERA 5X内饰谍照](https://chejiahao.autohome.com.cn/info/26613782#pvareaid=6834132)
-30. [斯柯达明锐混动版官图](http://www.autohome.com.cn/news/202610/1317622.html)
-31. [后备箱装十箱矿泉水被罚？专家回应](https://chejiahao.autohome.com.cn/info/26611948#pvareaid=6834132)
-32. [特斯拉司机高架变道遭别车](https://chejiahao.autohome.com.cn/info/26624205#pvareaid=6834132)
-33. [传祺向往M8 PHEV宗师激光雷达版推OTA升级](http://www.autohome.com.cn/news/202610/1317676.html)
-34. [美国更新车辆照明安全标准](https://chejiahao.autohome.com.cn/info/26624757#pvareaid=6834132)
+19. [全新比亚迪海鸥正式开启盲订](http://www.autohome.com.cn/news/202610/1317644.html)
+20. [比亚迪第15万台新能源商用车下线](https://chejiahao.autohome.com.cn/info/26622581#pvareaid=6834132)
+21. [比亚迪人形机器人外观专利公布](http://www.autohome.com.cn/news/202610/1317666.html)
+22. [迈凯伦750S 2027年停产](http://www.autohome.com.cn/news/202610/1317651.html)
+23. [国际油价深夜大涨](https://chejiahao.autohome.com.cn/info/26617185#pvareaid=6834132)
+24. [小鹏P7+黑武士套装限时售6000元](http://www.autohome.com.cn/news/202610/1317641.html)
+25. [全新魏牌蓝山内饰谍照曝光](http://www.autohome.com.cn/news/202610/1317624.html)
+26. [上汽大众ID.ERA 5X内饰谍照](http://club.autohome.com.cn/bbs/thread/58826e5629a5bdcd/116369690-1.html)
+27. [红旗H9静态体验全解析](https://chejiahao.autohome.com.cn/info/26624958#pvareaid=6834132)
+28. [斯柯达明锐混动版官图](http://www.autohome.com.cn/news/202610/1317622.html)
+29. [后备箱装十箱矿泉水被罚？专家回应](https://chejiahao.autohome.com.cn/info/26611948#pvareaid=6834132)
+30. [四部门拟规范虚拟按键替代物理按键](https://chejiahao.autohome.com.cn/info/26626371#pvareaid=6834132)
+31. [传祺向往M8 PHEV宗师激光雷达版推OTA升级](http://www.autohome.com.cn/news/202610/1317676.html)
