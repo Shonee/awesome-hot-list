@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-11 01:37:16
+> 更新时间：2026-10-11 02:42:56
 
 ## 24 小时热榜
 
@@ -22,14 +22,14 @@
 16. [谷歌发布生图模型 Nano Banana 2.1，支持 4K 直出中文效果提升](https://readhub.cn/topic/8x6LTeR9MkG?tab=daily)
 17. [中汽中心紧急向车企发出制动踏板总成材质调研问卷](https://readhub.cn/topic/8x5T8iYH4B8?tab=daily)
 18. [梅赛德斯-奔驰美国公司召回 30064 辆汽车](https://readhub.cn/topic/8x6vDDsGBAr?tab=daily)
-19. [马斯克等六人获美国国家科学奖章，黄仁勋苏姿丰在列](https://readhub.cn/topic/8x5bjBRLXXf?tab=daily)
-20. [宜家家居抖音官方旗舰店即将上线](https://readhub.cn/topic/8x6pUJDZ1jp?tab=daily)
-21. [OpenAI 公开 AI 生成数学研究文稿引发学界广泛讨论](https://readhub.cn/topic/8x6bAdCRxA6?tab=daily)
-22. [SpaceX 拟 80 亿美元收购频谱牌照，大举布局无线通信运营](https://readhub.cn/topic/8x4p9TcZSsm?tab=daily)
-23. [长鑫技术新突破：4F² 架构产品预计年底亮相](https://readhub.cn/topic/8x79SxzgXA4?tab=daily)
-24. [美国宇航局发布下一代商业空间站方案最终招标书](https://readhub.cn/topic/8x63aDUs8pc?tab=daily)
-25. [四部门就规范汽车虚拟操纵件替代物理按键公开征求意见](https://readhub.cn/topic/8x72i3Kw6D3?tab=daily)
-26. [深圳一 GEO 服务商涉虚假宣传被罚 5 万元](https://readhub.cn/topic/8x6uSrqGCHQ?tab=daily)
+19. [长鑫技术新突破：4F² 架构产品预计年底亮相](https://readhub.cn/topic/8x79SxzgXA4?tab=daily)
+20. [OpenAI 公开 AI 生成数学研究文稿引发学界广泛讨论](https://readhub.cn/topic/8x6bAdCRxA6?tab=daily)
+21. [马斯克等六人获美国国家科学奖章，黄仁勋苏姿丰在列](https://readhub.cn/topic/8x5bjBRLXXf?tab=daily)
+22. [宜家家居抖音官方旗舰店即将上线](https://readhub.cn/topic/8x6pUJDZ1jp?tab=daily)
+23. [SpaceX 拟 80 亿美元收购频谱牌照，大举布局无线通信运营](https://readhub.cn/topic/8x4p9TcZSsm?tab=daily)
+24. [四部门就规范汽车虚拟操纵件替代物理按键公开征求意见](https://readhub.cn/topic/8x72i3Kw6D3?tab=daily)
+25. [深圳一 GEO 服务商涉虚假宣传被罚 5 万元](https://readhub.cn/topic/8x6uSrqGCHQ?tab=daily)
+26. [美国宇航局发布下一代商业空间站方案最终招标书](https://readhub.cn/topic/8x63aDUs8pc?tab=daily)
 27. [Odyssey 推出 Odyssey-3 系列基础世界模型 多项基准创纪录](https://readhub.cn/topic/8x5BzG49dZe?tab=daily)
 28. [AI 需求推动日本工业机床未交订单额超 1 万亿日元](https://readhub.cn/topic/8x6ifyGHICq?tab=daily)
 29. [Claude 推算生成首张完整紫外全天图 含 1.19 亿颗星](https://readhub.cn/topic/8x5XQUuW1R1?tab=daily)
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [AI 让知识变得廉价，大学何去何从？](https://www.mittrchina.com/news/detail/17075)
-2. [当我们与 AI 聊天时，我们会变成什么样的人？](https://www.mittrchina.com/news/detail/17076)
-3. [Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？](https://www.aibase.com/zh/news/31544)
-4. [腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%](https://www.aibase.com/zh/news/31539)
-5. [AI 制药越快，中国实验室越忙](https://www.mittrchina.com/news/detail/17073)
-6. [Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上](https://www.aibase.com/zh/news/31532)
-7. [让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026](https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html)
-8. [千问首款 AI 耳机亮相 NBA 中国赛，可在淘宝、京东官方店预约](https://www.aibase.com/zh/news/31543)
-9. [深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元](https://www.aibase.com/zh/news/31541)
-10. [网文实体书惊现「AI 回复内容」，出版社回应：将回收销毁并重新修订](https://www.aibase.com/zh/news/31540)
+1. [字节发现 DeepSeek 隐藏 Bug：加点空格，模型翻车](https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html)
+2. [AI 让知识变得廉价，大学何去何从？](https://www.mittrchina.com/news/detail/17075)
+3. [当我们与 AI 聊天时，我们会变成什么样的人？](https://www.mittrchina.com/news/detail/17076)
+4. [英伟达据悉洽谈收购美国 AI 初创公司 Reflection AI](https://www.gelonghui.com/live/2704899)
+5. [Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？](https://www.aibase.com/zh/news/31544)
+6. [腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%](https://www.aibase.com/zh/news/31539)
+7. [AI 制药越快，中国实验室越忙](https://www.mittrchina.com/news/detail/17073)
+8. [Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上](https://www.aibase.com/zh/news/31532)
+9. [让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026](https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html)
+10. [伯恩斯坦拆解 AI 基建成本：每吉瓦投资最高 395 亿美元](https://www.gelonghui.com/live/2704783)
