@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-11 02:15:10
+> 更新时间：2026-10-11 03:10:34
 
 ## 热门文章
 
@@ -40,8 +40,8 @@
 34. [苹果商店详情顶部头图已面向所有开发者开放！](https://juejin.cn/post/7694106627768401939)
 35. [一条 SQL 查了 8 秒，我加了个索引就变成 0.02 秒](https://juejin.cn/post/7694095385380094003)
 36. [给中级开发者的 AI 能力升级路线图](https://juejin.cn/post/7693805723602567178)
-37. [一只离线鼠鼠，干翻了一堆在线格式转换网站](https://juejin.cn/post/7694628974492270643)
-38. [为什么越来越多人用 ZXing？](https://juejin.cn/post/7694595110121832491)
+37. [为什么越来越多人用 ZXing？](https://juejin.cn/post/7694595110121832491)
+38. [一只离线鼠鼠，干翻了一堆在线格式转换网站](https://juejin.cn/post/7694628974492270643)
 39. [“如果你还在用Superpowers，那我不要和你说话”](https://juejin.cn/post/7694124645507809307)
 40. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
 41. [3个信号：AI基建正在转向Rust](https://juejin.cn/post/7693880505397772326)
@@ -53,4 +53,4 @@
 47. [Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了](https://juejin.cn/post/7694564397683867688)
 48. [AI Agent 长任务总跑偏？4 个方法做好上下文工程](https://juejin.cn/post/7694106511606235162)
 49. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
-50. [公司从 400 多人缩减到 100 多人，我开始重新思考程序员的未来](https://juejin.cn/post/7694835192107860009)
+50. [Agent 开发不是模型训练：一个前端的入门认知](https://juejin.cn/post/7694245062440976426)
