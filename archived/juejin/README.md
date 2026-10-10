@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-11 01:10:24
+> 更新时间：2026-10-11 02:15:10
 
 ## 热门文章
 
@@ -48,9 +48,9 @@
 42. [基于 FlutterPatch 快速接入 Flutter 热更新](https://juejin.cn/post/7694122417649106979)
 43. [实现一个「曲线滑块验证」功能](https://juejin.cn/post/7694115089584308233)
 44. [模块化Jetpack Compose架构](https://juejin.cn/post/7694131662615543835)
-45. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
-46. [Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了](https://juejin.cn/post/7694564397683867688)
-47. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
-48. [腾讯又来一王炸，开源版 WorkBuddy 太夯了！](https://juejin.cn/post/7694844501786050596)
-49. [AI Agent 长任务总跑偏？4 个方法做好上下文工程](https://juejin.cn/post/7694106511606235162)
-50. [为什么越来越多的大厂抛弃 MCP，转向 CLI？](https://juejin.cn/post/7693721621530460195)
+45. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
+46. [腾讯又来一王炸，开源版 WorkBuddy 太夯了！](https://juejin.cn/post/7694844501786050596)
+47. [Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了](https://juejin.cn/post/7694564397683867688)
+48. [AI Agent 长任务总跑偏？4 个方法做好上下文工程](https://juejin.cn/post/7694106511606235162)
+49. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
+50. [公司从 400 多人缩减到 100 多人，我开始重新思考程序员的未来](https://juejin.cn/post/7694835192107860009)
