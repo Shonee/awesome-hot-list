@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-10 19:13:33
+> 更新时间：2026-10-10 20:19:08
 
 ## Hottest
 
@@ -11,21 +11,21 @@
 5. [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 6. [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
 7. [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
-8. [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma)
-9. [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
-10. [Adding Go's defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
-11. [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
+8. [There's little that's "inevitable" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
+9. [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma)
+10. [1-click MMI execution in Android](https://karansaini.com/mmi-android/)
+11. [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 12. [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
-13. [1-click MMI execution in Android](https://karansaini.com/mmi-android/)
-14. [There's little that's "inevitable" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
+13. [Adding Go's defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
+14. [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
 15. ["Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
 16. [Deepthi Sigireddi from Supabase](https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html)
 17. [Voxlocal: a minimal voice agent written in Rust](https://samkhawase.com/blog/voxlocal-minimal-voice-agent/)
 18. [What are you doing this weekend?](https://lobste.rs/s/t3xjln)
 19. [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
-20. [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
-21. [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
-22. [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
-23. [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
-24. [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
+20. [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
+21. [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
+22. [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+23. [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
+24. [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 25. [Equality Saturation: An “Incomplete” Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-10 19:11:21
+> 更新时间：2026-10-10 20:17:55
 
 ## 最新帖子
 
-1. [大坐标、镜像与弦高：.NET CSG 库的工程笔记](https://www.cnblogs.com/znlgis/p/23256003)
-2. [SAM 3: Segment Anything with Concepts —— 技术精读报告](https://www.cnblogs.com/x1ao0/p/23254322)
-3. [使用C#.net10 winform+antdui全新重构版本lol小助手四](https://www.cnblogs.com/sc-Free-Die/p/23253415)
-4. [安卓apk加固+重签免费方案](https://www.cnblogs.com/ddandzzmm/p/23251914)
-5. [(CDH 7.3)Cloudera CDP Private Cloud Base 7.3.2 VS Acceldata ODP 3.3.6.4 对比](https://www.cnblogs.com/Robert.Yu/p/23251363)
-6. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
-7. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
-8. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
-9. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
-10. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
-11. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
-12. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
-13. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
-14. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
-15. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
-16. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
-17. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
-18. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
-19. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
-20. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
+1. [一些优化](https://www.cnblogs.com/yhy2013/p/23256511)
+2. [大坐标、镜像与弦高：.NET CSG 库的工程笔记](https://www.cnblogs.com/znlgis/p/23256003)
+3. [SAM 3: Segment Anything with Concepts —— 技术精读报告](https://www.cnblogs.com/x1ao0/p/23254322)
+4. [使用C#.net10 winform+antdui全新重构版本lol小助手四](https://www.cnblogs.com/sc-Free-Die/p/23253415)
+5. [安卓apk加固+重签免费方案](https://www.cnblogs.com/ddandzzmm/p/23251914)
+6. [(CDH 7.3)Cloudera CDP Private Cloud Base 7.3.2 VS Acceldata ODP 3.3.6.4 对比](https://www.cnblogs.com/Robert.Yu/p/23251363)
+7. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
+8. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
+9. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
+10. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
+11. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
+12. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
+13. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
+14. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
+15. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
+16. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
+17. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
+18. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
+19. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
+20. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
 
 ## 精华帖子
 
