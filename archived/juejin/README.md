@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-10 21:11:22
+> 更新时间：2026-10-10 22:12:12
 
 ## 热门文章
 
@@ -42,9 +42,9 @@
 36. [RAG 面试 6 连问，从原理到优化全部覆盖](https://juejin.cn/post/7693689217004732459)
 37. [82.4k 星！把十几万行代码变成知识图谱，新人终于不用硬啃了](https://juejin.cn/post/7694632392432009242)
 38. [给中级开发者的 AI 能力升级路线图](https://juejin.cn/post/7693805723602567178)
-39. [“如果你还在用Superpowers，那我不要和你说话”](https://juejin.cn/post/7694124645507809307)
-40. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
-41. [为什么越来越多人用 ZXing？](https://juejin.cn/post/7694595110121832491)
+39. [为什么越来越多人用 ZXing？](https://juejin.cn/post/7694595110121832491)
+40. [“如果你还在用Superpowers，那我不要和你说话”](https://juejin.cn/post/7694124645507809307)
+41. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
 42. [一只离线鼠鼠，干翻了一堆在线格式转换网站](https://juejin.cn/post/7694628974492270643)
 43. [3个信号：AI基建正在转向Rust](https://juejin.cn/post/7693880505397772326)
 44. [基于 FlutterPatch 快速接入 Flutter 热更新](https://juejin.cn/post/7694122417649106979)
