@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-11 02:42:56
+> 更新时间：2026-10-11 04:13:06
 
 ## 24 小时热榜
 
@@ -27,13 +27,13 @@
 21. [马斯克等六人获美国国家科学奖章，黄仁勋苏姿丰在列](https://readhub.cn/topic/8x5bjBRLXXf?tab=daily)
 22. [宜家家居抖音官方旗舰店即将上线](https://readhub.cn/topic/8x6pUJDZ1jp?tab=daily)
 23. [SpaceX 拟 80 亿美元收购频谱牌照，大举布局无线通信运营](https://readhub.cn/topic/8x4p9TcZSsm?tab=daily)
-24. [四部门就规范汽车虚拟操纵件替代物理按键公开征求意见](https://readhub.cn/topic/8x72i3Kw6D3?tab=daily)
-25. [深圳一 GEO 服务商涉虚假宣传被罚 5 万元](https://readhub.cn/topic/8x6uSrqGCHQ?tab=daily)
-26. [美国宇航局发布下一代商业空间站方案最终招标书](https://readhub.cn/topic/8x63aDUs8pc?tab=daily)
+24. [深圳一 GEO 服务商涉虚假宣传被罚 5 万元](https://readhub.cn/topic/8x6uSrqGCHQ?tab=daily)
+25. [美国宇航局发布下一代商业空间站方案最终招标书](https://readhub.cn/topic/8x63aDUs8pc?tab=daily)
+26. [四部门就规范汽车虚拟操纵件替代物理按键公开征求意见](https://readhub.cn/topic/8x72i3Kw6D3?tab=daily)
 27. [Odyssey 推出 Odyssey-3 系列基础世界模型 多项基准创纪录](https://readhub.cn/topic/8x5BzG49dZe?tab=daily)
 28. [AI 需求推动日本工业机床未交订单额超 1 万亿日元](https://readhub.cn/topic/8x6ifyGHICq?tab=daily)
-29. [Claude 推算生成首张完整紫外全天图 含 1.19 亿颗星](https://readhub.cn/topic/8x5XQUuW1R1?tab=daily)
-30. [OpenAI 研究负责人回应解雇三名员工争议并澄清解雇原因](https://readhub.cn/topic/8x6MsyuDVkT?tab=daily)
+29. [OpenAI 研究负责人回应解雇三名员工争议并澄清解雇原因](https://readhub.cn/topic/8x6MsyuDVkT?tab=daily)
+30. [Claude 推算生成首张完整紫外全天图 含 1.19 亿颗星](https://readhub.cn/topic/8x5XQUuW1R1?tab=daily)
 
 ## 每日早报
 
@@ -51,9 +51,9 @@
 2. [AI 让知识变得廉价，大学何去何从？](https://www.mittrchina.com/news/detail/17075)
 3. [当我们与 AI 聊天时，我们会变成什么样的人？](https://www.mittrchina.com/news/detail/17076)
 4. [英伟达据悉洽谈收购美国 AI 初创公司 Reflection AI](https://www.gelonghui.com/live/2704899)
-5. [Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？](https://www.aibase.com/zh/news/31544)
-6. [腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%](https://www.aibase.com/zh/news/31539)
-7. [AI 制药越快，中国实验室越忙](https://www.mittrchina.com/news/detail/17073)
-8. [Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上](https://www.aibase.com/zh/news/31532)
-9. [让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026](https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html)
-10. [伯恩斯坦拆解 AI 基建成本：每吉瓦投资最高 395 亿美元](https://www.gelonghui.com/live/2704783)
+5. [微软 CEO 呼吁为高级 AI 模型设置紧急刹车机制](https://www.gelonghui.com/live/2704905)
+6. [Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？](https://www.aibase.com/zh/news/31544)
+7. [腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%](https://www.aibase.com/zh/news/31539)
+8. [AI 制药越快，中国实验室越忙](https://www.mittrchina.com/news/detail/17073)
+9. [Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上](https://www.aibase.com/zh/news/31532)
+10. [让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026](https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html)

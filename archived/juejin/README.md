@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-11 03:10:34
+> 更新时间：2026-10-11 04:12:52
 
 ## 热门文章
 
@@ -19,8 +19,8 @@
 13. [WorkBuddy悄悄干了件大事，下一代Office真来了！](https://juejin.cn/post/7694131662615117851)
 14. [Agent 天天挂在嘴边的沙箱，到底是个啥？](https://juejin.cn/post/7693805723601764362)
 15. [程序员 Codex 提问急救卡：7 个常用模板＋组合写法](https://juejin.cn/post/7694106511605317658)
-16. [🧐 为什么大厂 RAG 从不用纯向量检索？](https://juejin.cn/post/7694205589761441807)
-17. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
+16. [后台管理框架存活率大调查（2026版）](https://juejin.cn/post/7694016286322556969)
+17. [🧐 为什么大厂 RAG 从不用纯向量检索？](https://juejin.cn/post/7694205589761441807)
 18. [我写了一个“自动写周报”的脚本，结果被领导表扬了](https://juejin.cn/post/7693915625802907689)
 19. [Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了](https://juejin.cn/post/7693909029785042959)
 20. [裁员裁掉了那个干了14年的人：我这才看清职场的5条潜规则](https://juejin.cn/post/7694185019603337256)
@@ -45,12 +45,12 @@
 39. [“如果你还在用Superpowers，那我不要和你说话”](https://juejin.cn/post/7694124645507809307)
 40. [4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start](https://juejin.cn/post/7694064588329025578)
 41. [3个信号：AI基建正在转向Rust](https://juejin.cn/post/7693880505397772326)
-42. [基于 FlutterPatch 快速接入 Flutter 热更新](https://juejin.cn/post/7694122417649106979)
-43. [实现一个「曲线滑块验证」功能](https://juejin.cn/post/7694115089584308233)
-44. [模块化Jetpack Compose架构](https://juejin.cn/post/7694131662615543835)
-45. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
-46. [腾讯又来一王炸，开源版 WorkBuddy 太夯了！](https://juejin.cn/post/7694844501786050596)
+42. [腾讯又来一王炸，开源版 WorkBuddy 太夯了！](https://juejin.cn/post/7694844501786050596)
+43. [基于 FlutterPatch 快速接入 Flutter 热更新](https://juejin.cn/post/7694122417649106979)
+44. [实现一个「曲线滑块验证」功能](https://juejin.cn/post/7694115089584308233)
+45. [模块化Jetpack Compose架构](https://juejin.cn/post/7694131662615543835)
+46. [Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156](https://juejin.cn/post/7693712140221579279)
 47. [Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了](https://juejin.cn/post/7694564397683867688)
-48. [AI Agent 长任务总跑偏？4 个方法做好上下文工程](https://juejin.cn/post/7694106511606235162)
-49. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)
-50. [Agent 开发不是模型训练：一个前端的入门认知](https://juejin.cn/post/7694245062440976426)
+48. [Agent 开发不是模型训练：一个前端的入门认知](https://juejin.cn/post/7694245062440976426)
+49. [AI Agent 长任务总跑偏？4 个方法做好上下文工程](https://juejin.cn/post/7694106511606235162)
+50. [React的Virtual DOM、Diff算法和Fiber](https://juejin.cn/post/7693420116899463231)

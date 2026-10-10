@@ -1,21 +1,21 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-11 03:11:20
+> 更新时间：2026-10-11 04:13:57
 
 ## 热点资讯排行
 
-1. [《永恒之塔2》捏脸遭萝莉控吐槽:最小都是C罩杯 太大](https://www.gamersky.com/news/202610/2222563.shtml)
-2. [穿上裤子不认人 《巫师3》新手又给凯拉整死了](https://www.gamersky.com/news/202610/2222038.shtml)
-3. [小岛秀夫绝版独占神作PC版终于要来了！60帧以上](https://www.gamersky.com/news/202610/2221311.shtml)
-4. [《GTA6》严肃加入成人亲密内容！R星：认真打磨 包赞](https://www.gamersky.com/news/202610/2222825.shtml)
-5. [《刺客信条：Hexe》大量剧情和角色泄露！摒弃RPG 回归传统线性](https://www.gamersky.com/news/202610/2221672.shtml)
-6. [15000块！新掌机性能和价格都离谱 玩黑猴可百帧](https://www.gamersky.com/news/202610/2222781.shtml)
-7. [徐静雨新电脑12万元！百大up装机猿送货上门](https://www.gamersky.com/news/202610/2222103.shtml)
-8. [曝《生化危机9》DLC重返洋馆！被删内容可能复活](https://www.gamersky.com/news/202610/2221324.shtml)
-9. [无毛版《黑神话：悟空》大圣太辣眼 竟还神似《黑袍》屠夫](https://www.gamersky.com/news/202610/2221690.shtml)
-10. [《黑神话：悟空》二郎神脸模结婚了！新郎新娘甜度拉满](https://www.gamersky.com/news/202610/2222474.shtml)
-11. [PS6基本完蛋了！知名舅舅党感到绝望：索尼毁了一切](https://www.gamersky.com/news/202610/2222674.shtml)
-12. [《剑星》新版本难度太高劝退玩家 但忍一忍就过去了](https://www.gamersky.com/news/202610/2221138.shtml)
-13. [官方上架6000元PS5 pro！玩家购买热情太高](https://www.gamersky.com/news/202610/2222387.shtml)
-14. [装机猿直播给峰哥装机 价值仅1万2 徐静雨的1/10](https://www.gamersky.com/hardware/202610/2222121.shtml)
-15. [《影之刃零》外媒试玩：横扫年度之作 鬼武者+老头环](https://www.gamersky.com/news/202610/2222595.shtml)
+1. [《最终幻想7：启示》福利少不了！超多温泉 男女共浴](https://www.gamersky.com/news/202610/2221327.shtml)
+2. [知名大主播楚河十万顶配PC翻车！5090惨被烧 后续来了](https://www.gamersky.com/news/202610/2221231.shtml)
+3. [韩国爆款新游在线峰值近40万！官方感谢送福利](https://www.gamersky.com/news/202610/2222456.shtml)
+4. ["游戏是给正常人玩的 别做丑女！"挑眉哥言论引争议](https://www.gamersky.com/news/202610/2221923.shtml)
+5. [PS5 Pro最狂野改装！裸机塞进纸箱 用了1年还没坏](https://www.gamersky.com/news/202610/2222122.shtml)
+6. [最高难度才是完全体！必玩](https://www.gamersky.com/news/202610/2222419.shtml)
+7. [《D1AL-ogue》续作开发日志更新 虎鲸娘仿生人奥尔卡新动画完成 团队确认已敲定发行商](https://www.gamersky.com/news/202610/2221388.shtml)
+8. [离谱倒挂！RX 9070 XT比RTX 5060 Ti还便宜](https://www.gamersky.com/news/202610/2222164.shtml)
+9. ["天使投资人"腾讯还在发力 只要游戏牛就愿意合作](https://www.gamersky.com/news/202610/2222214.shtml)
+10. [忍者理论裁员开始 XBOX计划将其彻底关闭或出售](https://www.gamersky.com/news/202610/2222175.shtml)
+11. [挑眉哥震惊 《永恒之塔2》玩家爆火:都被大雷吸引了?](https://www.gamersky.com/news/202610/2222436.shtml)
+12. [十年王座易主！32GB内存首登顶Steam:16GB彻底退位](https://www.gamersky.com/news/202610/2222185.shtml)
+13. [《战争机器：事变日》官宣将推出离线模式 强制联网是防破解](https://www.gamersky.com/news/202610/2221479.shtml)
+14. [《巫师3重制》翻车！问题不少：玩家吐槽不如不改?](https://www.gamersky.com/news/202610/2220983.shtml)
+15. [全球首款Wi-Fi8路由器TP-Link Archer8 Ultra海外开售 预售价约5952元](https://www.gamersky.com/hardware/202610/2221320.shtml)
