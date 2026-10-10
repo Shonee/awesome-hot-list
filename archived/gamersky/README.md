@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-10 14:22:04
+> 更新时间：2026-10-10 14:56:12
 
 ## 热点资讯排行
 
@@ -18,4 +18,4 @@
 12. [The Gamer批评《永恒之塔2》角色自定义！被玩家狂喷600楼](https://www.gamersky.com/news/202610/2222985.shtml)
 13. [徐静雨新电脑12万元！百大up装机猿送货上门](https://www.gamersky.com/news/202610/2222103.shtml)
 14. [曝《生化危机9》DLC重返洋馆！被删内容可能复活](https://www.gamersky.com/news/202610/2221324.shtml)
-15. [《永恒之塔2》Steam峰值破40万！](https://www.gamersky.com/news/202610/2222235.shtml)
+15. [索尼第一方高调宣传PC版！玩家请愿继续上PC 别管PS](https://www.gamersky.com/news/202610/2224257.shtml)

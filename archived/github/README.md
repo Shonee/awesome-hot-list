@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-10 08:36:37
+> 更新时间：2026-10-10 14:54:31
 
 ## 每日趋势
 
@@ -85,12 +85,13 @@
 4. [heretic](https://github.com/p-e-w/heretic)
 5. [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 6. [opensre](https://github.com/Tracer-Cloud/opensre)
-7. [lingbot-map](https://github.com/Robbyant/lingbot-map)
-8. [GhostTrack](https://github.com/HunxByts/GhostTrack)
-9. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-10. [sentry](https://github.com/getsentry/sentry)
-11. [LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
-12. [MiroFish](https://github.com/666ghj/MiroFish)
+7. [iFixAi](https://github.com/ifixai-ai/iFixAi)
+8. [lingbot-map](https://github.com/Robbyant/lingbot-map)
+9. [GhostTrack](https://github.com/HunxByts/GhostTrack)
+10. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+11. [sentry](https://github.com/getsentry/sentry)
+12. [LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
+13. [MiroFish](https://github.com/666ghj/MiroFish)
 
 ## Go
 
@@ -134,7 +135,8 @@
 8. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 9. [up](https://github.com/byoungd/up)
 10. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-11. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-12. [Nova-Proxy](https://github.com/IRNova/Nova-Proxy)
-13. [UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)
-14. [tabler-icons](https://github.com/tabler/tabler-icons)
+11. [iptv](https://github.com/akiralereal/iptv)
+12. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+13. [Nova-Proxy](https://github.com/IRNova/Nova-Proxy)
+14. [UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)
+15. [tabler-icons](https://github.com/tabler/tabler-icons)

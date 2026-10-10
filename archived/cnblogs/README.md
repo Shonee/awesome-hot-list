@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-10 14:20:43
+> 更新时间：2026-10-10 14:54:36
 
 ## 最新帖子
 
-1. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
-2. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
-3. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
-4. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
-5. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
-6. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
-7. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
-8. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
-9. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
-10. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
-11. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
-12. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
-13. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
-14. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
-15. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
-16. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
-17. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
-18. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
-19. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
-20. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://www.cnblogs.com/xuxueli/p/23243218)
+1. [(CDH 7.3)Cloudera CDP Private Cloud Base 7.3.2 VS Acceldata ODP 3.3.6.4 对比](https://www.cnblogs.com/Robert.Yu/p/23251363)
+2. [3. 鸿蒙开发须知，务必看到最后](https://www.cnblogs.com/halfcode/p/23250086)
+3. [LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题](https://www.cnblogs.com/moonout/p/23249520)
+4. [OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级](https://www.cnblogs.com/didispace/p/23249869)
+5. [一行代码在 .NET 项目里启用 Satori GC](https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line)
+6. [Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹](https://www.cnblogs.com/uniqueDong/p/23249646)
+7. [【UE】类GTA第三人称基础移动：Rotating | Strafing](https://www.cnblogs.com/eanojiang/p/22875816)
+8. [8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://www.cnblogs.com/zrui-xyu/p/23248798)
+9. [把 AO 接回来：黑线和白底之间到底差了多少](https://www.cnblogs.com/zw-awa/p/23248570)
+10. [linux命令： watch 监视命令（高逼格必备）](https://www.cnblogs.com/jilodream/p/23248541)
+11. [Scikit-Learn实战：5步搞定PCA降维](https://www.cnblogs.com/wang_yb/p/23248256)
+12. [Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题"](https://www.cnblogs.com/codigger/p/23247650)
+13. [MySQL 配置参数详解（全版本 · 按用途与作用分类）](https://www.cnblogs.com/liuziyi1/p/23246737)
+14. [开发邮箱客户端产品的技术选型（.Net）](https://www.cnblogs.com/liulun/p/23246090)
+15. [两个请求同时改库存，RowVersion 救了一命](https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue)
+16. [自动数据库索引压缩合并](https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server)
+17. [Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法](https://www.cnblogs.com/jyzhao/p/23245493)
+18. [[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB](https://www.cnblogs.com/johnnyzen/p/23242603)
+19. [把 3Blue1Brown 的 manim 引擎塞进浏览器](https://www.cnblogs.com/wyang/p/23243396)
+20. [Rust重写Pi编码助手，性能飙升10倍](https://www.cnblogs.com/OceanHeaven/p/23243373)
 
 ## 精华帖子
 
@@ -54,5 +54,5 @@
 2. [2026 年 AI 工具选型实录：我把 200 多款工具试了一遍，最后留在工作流里的只有这 12 个](https://www.cnblogs.com/codigger/p/23234418)
 3. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23232713)
 4. [EasyJob开源发布,让数据自动飞进飞书大屏(多种任务类型 : SQL任务,ETL 同步,监控通知,飞书表格同步,HTTP请求,自定义任务流)](https://www.cnblogs.com/yxdeng/p/23232924)
-5. [一文搞懂 Function Calling：大模型究竟是如何调用工具的？](https://www.cnblogs.com/Tomorrowland/p/23223896)
-6. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
+5. [Blazor 里 JWT 过期，用户正下单就被踢](https://www.cnblogs.com/shenchuanchao/p/23212943/blazor-jwt-expired-user-kicked-during-order)
+6. [《项目管理指导手册》2026版-心得（二）](https://www.cnblogs.com/demon28/p/23221508)
