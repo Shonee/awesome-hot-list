@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-12 05:11:51
+> 更新时间：2026-10-12 06:13:11
 
 ## 热门文章
 
@@ -28,19 +28,19 @@
 22. [不用反复 nvm use 了：nvm-windows 2.x 按项目自动切换 Node.js](https://juejin.cn/post/7694595399244349483)
 23. [Agent 开发不是模型训练：一个前端的入门认知](https://juejin.cn/post/7694245062440976426)
 24. [GitHub 日榜趋势速报 | 2026-10-09](https://juejin.cn/post/7694124254145724467)
-25. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://juejin.cn/post/7694199322347110427)
-26. [GitHub 今日推荐｜wordcraft：用 Rust 重写 Word 内核并开放给 AI 调用](https://juejin.cn/post/7694457332278280201)
+25. [GitHub 今日推荐｜wordcraft：用 Rust 重写 Word 内核并开放给 AI 调用](https://juejin.cn/post/7694457332278280201)
+26. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://juejin.cn/post/7694199322347110427)
 27. [2026，程序员的时代拐点到了](https://juejin.cn/post/7694882064269967375)
 28. [数据库写成功，MQ 消息却丢了？4 个故障窗口拆透 Transactional Outbox](https://juejin.cn/post/7694664695189798947)
-29. [写 Flutter 不用再套六层 Widget 了](https://juejin.cn/post/7694184962662481920)
-30. [🔥13年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://juejin.cn/post/7694614473172697107)
+29. [🔥13年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://juejin.cn/post/7694614473172697107)
+30. [写 Flutter 不用再套六层 Widget 了](https://juejin.cn/post/7694184962662481920)
 31. [告别 Deno 时代？运行时进入一年倒计时，Deno 团队并入 Cloudflare](https://juejin.cn/post/7694572028192276543)
 32. [Kotlin 新特性抢先看：伴生扩展与伴生块](https://juejin.cn/post/7694485613907001390)
 33. [Qwen3.8-27B 本地推理实测：从 14 tok/s 到 159 tok/s 的投机解码调优](https://juejin.cn/post/7694474763449516074)
 34. [多 Agent 系统面试怎么答？我总结了 4 种经典架构](https://juejin.cn/post/7694150823396245545)
-35. [三步改掉 AI 味，附可直接复制的去 AI 味提示词](https://juejin.cn/post/7694481800702558254)
-36. [自由职业和探索AI的这两年时间，分享我的真实经历和感受](https://juejin.cn/post/7694184962662400000)
-37. [AI 能翻好谐音梗吗](https://juejin.cn/post/7694572028192915519)
+35. [AI 能翻好谐音梗吗](https://juejin.cn/post/7694572028192915519)
+36. [三步改掉 AI 味，附可直接复制的去 AI 味提示词](https://juejin.cn/post/7694481800702558254)
+37. [自由职业和探索AI的这两年时间，分享我的真实经历和感受](https://juejin.cn/post/7694184962662400000)
 38. [轻量开源版 Muse 来了！CopilotKit 开源 OpenMuse，Personal Agent 的工程细节全摊开了](https://juejin.cn/post/7694205589761048591)
 39. [反向背调，豆包工作算是把它玩明白了！](https://juejin.cn/post/7694485613908557870)
 40. [从 0 到 1 搭建 pnpm + Workspaces + Turborepo Monorepo 保姆级指南](https://juejin.cn/post/7694481800677031962)
