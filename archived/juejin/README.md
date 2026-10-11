@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-12 04:13:36
+> 更新时间：2026-10-12 05:11:51
 
 ## 热门文章
 
@@ -29,9 +29,9 @@
 23. [Agent 开发不是模型训练：一个前端的入门认知](https://juejin.cn/post/7694245062440976426)
 24. [GitHub 日榜趋势速报 | 2026-10-09](https://juejin.cn/post/7694124254145724467)
 25. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://juejin.cn/post/7694199322347110427)
-26. [2026，程序员的时代拐点到了](https://juejin.cn/post/7694882064269967375)
-27. [数据库写成功，MQ 消息却丢了？4 个故障窗口拆透 Transactional Outbox](https://juejin.cn/post/7694664695189798947)
-28. [GitHub 今日推荐｜wordcraft：用 Rust 重写 Word 内核并开放给 AI 调用](https://juejin.cn/post/7694457332278280201)
+26. [GitHub 今日推荐｜wordcraft：用 Rust 重写 Word 内核并开放给 AI 调用](https://juejin.cn/post/7694457332278280201)
+27. [2026，程序员的时代拐点到了](https://juejin.cn/post/7694882064269967375)
+28. [数据库写成功，MQ 消息却丢了？4 个故障窗口拆透 Transactional Outbox](https://juejin.cn/post/7694664695189798947)
 29. [写 Flutter 不用再套六层 Widget 了](https://juejin.cn/post/7694184962662481920)
 30. [🔥13年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://juejin.cn/post/7694614473172697107)
 31. [告别 Deno 时代？运行时进入一年倒计时，Deno 团队并入 Cloudflare](https://juejin.cn/post/7694572028192276543)
