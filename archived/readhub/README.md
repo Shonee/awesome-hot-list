@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-12 01:38:14
+> 更新时间：2026-10-12 02:43:34
 
 ## 24 小时热榜
 
@@ -16,24 +16,24 @@
 10. [礼来公布依奇珠单抗与替尔泊肽合并用药临床研究最新数据](https://readhub.cn/topic/8x89HgnCFrL?tab=daily)
 11. [被字节开除的田柯宇创业做世界模型，获近 3000 万美元融资，估值达 2 亿美元](https://readhub.cn/topic/8x8JzpNE08K?tab=daily)
 12. [17 款顶尖 AI Agent 参与量子工程测试 多数表现不佳差距悬殊](https://readhub.cn/topic/8x7HM9Oi5B1?tab=daily)
-13. [京东方等联合发布第四代东方屏 将首发一加 16 旗舰手机](https://readhub.cn/topic/8x6WBsRGB3N?tab=daily)
-14. [字节跳动分拆 AI 制药公司 Anew Labs 获 2.9 亿美元天使轮融资](https://readhub.cn/topic/8x8OHMP7vrw?tab=daily)
-15. [马斯克旗下 SpaceXAI 账号更名为 SpaceXSI](https://readhub.cn/topic/8x8SD4ThxrG?tab=daily)
+13. [字节跳动分拆 AI 制药公司 Anew Labs 获 2.9 亿美元天使轮融资](https://readhub.cn/topic/8x8OHMP7vrw?tab=daily)
+14. [马斯克旗下 SpaceXAI 账号更名为 SpaceXSI](https://readhub.cn/topic/8x8SD4ThxrG?tab=daily)
+15. [Yandex 一处数据中心遭无人机袭击受损停运 无人员伤亡](https://readhub.cn/topic/8x8Rr6NX7Mi?tab=daily)
 16. [日本报纸订阅率首次跌破 50%](https://readhub.cn/topic/8x8o0jxmZ8Y?tab=daily)
-17. [Yandex 一处数据中心遭无人机袭击受损停运 无人员伤亡](https://readhub.cn/topic/8x8Rr6NX7Mi?tab=daily)
-18. [立讯精密：公司及立讯技术涉 337 调查，尚处立案初期](https://readhub.cn/topic/8x7fG5aozKA?tab=daily)
-19. [食品安全法修订草案公开征求意见 涉及 AI 监管、校园食品安全等](https://readhub.cn/topic/8x7d8XdZoAJ?tab=daily)
-20. [义新欧中欧班列今年进出口集装箱量突破 20 万标箱](https://readhub.cn/topic/8x84cySYP3H?tab=daily)
-21. [Qwen-Image-2.1Pro 和 Turbo API 上线千问 AI 平台](https://readhub.cn/topic/8x8a4dbVPvF?tab=daily)
+17. [立讯精密：公司及立讯技术涉 337 调查，尚处立案初期](https://readhub.cn/topic/8x7fG5aozKA?tab=daily)
+18. [食品安全法修订草案公开征求意见 涉及 AI 监管、校园食品安全等](https://readhub.cn/topic/8x7d8XdZoAJ?tab=daily)
+19. [义新欧中欧班列今年进出口集装箱量突破 20 万标箱](https://readhub.cn/topic/8x84cySYP3H?tab=daily)
+20. [Qwen-Image-2.1Pro 和 Turbo API 上线千问 AI 平台](https://readhub.cn/topic/8x8a4dbVPvF?tab=daily)
+21. [支付宝服务升级：失效银行卡可一键换绑解绑，内测亲情卡额度提现](https://readhub.cn/topic/8x8OHKcQN8l?tab=daily)
 22. [广东推进先进制造业 广州打造万亿智车之城](https://readhub.cn/topic/8x7fHJJSjba?tab=daily)
-23. [支付宝服务升级：失效银行卡可一键换绑解绑，内测亲情卡额度提现](https://readhub.cn/topic/8x8OHKcQN8l?tab=daily)
-24. [城市传媒：董事会换届议案遭独立董事反对](https://readhub.cn/topic/8x8oicQnB7B?tab=daily)
+23. [城市传媒：董事会换届议案遭独立董事反对](https://readhub.cn/topic/8x8oicQnB7B?tab=daily)
+24. [上交所向东百集团下发监管工作函](https://readhub.cn/topic/8x8lWJYzDh2?tab=daily)
 25. [华润双鹤：DC7001A 胶囊获美国 FDA 临床试验许可](https://readhub.cn/topic/8x8a4KIUyP3?tab=daily)
-26. [上交所向东百集团下发监管工作函](https://readhub.cn/topic/8x8lWJYzDh2?tab=daily)
-27. [牧原股份：9 月商品猪销售收入 85.2 亿元](https://readhub.cn/topic/8x8bsZiXJt4?tab=daily)
-28. [东百集团：拟收购快灵光电 52.6667% 股权](https://readhub.cn/topic/8x8eMgllpNc?tab=daily)
-29. [OpenAI 预计 2026 年底年化收入超 700 亿 美元，9 月底为 500 亿](https://readhub.cn/topic/8x6bskkkqjS?tab=daily)
-30. [粤芯半导体：将于 10 月 13 日在创业板上市](https://readhub.cn/topic/8x8uT4e3zNP?tab=daily)
+26. [牧原股份：9 月商品猪销售收入 85.2 亿元](https://readhub.cn/topic/8x8bsZiXJt4?tab=daily)
+27. [东百集团：拟收购快灵光电 52.6667% 股权](https://readhub.cn/topic/8x8eMgllpNc?tab=daily)
+28. [OpenAI 预计 2026 年底年化收入超 700 亿 美元，9 月底为 500 亿](https://readhub.cn/topic/8x6bskkkqjS?tab=daily)
+29. [粤芯半导体：将于 10 月 13 日在创业板上市](https://readhub.cn/topic/8x8uT4e3zNP?tab=daily)
+30. [田渊栋称与 GPT-5 合写论文后意识到自身工作 5 年内将被 AI 取代](https://readhub.cn/topic/8x78mF695c1?tab=daily)
 
 ## 每日早报
 
@@ -53,7 +53,7 @@
 4. [Cloudflare 收购 Deno，推动 Workers 平台支持自托管部署](https://www.techflowpost.com/zh-CN/newsletter/139552)
 5. [Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth](https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth)
 6. [麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？](https://www.36kr.com/p/4020977744449666)
-7. [高盛：AI 交易从硬件转向应用，市场迫切渴望「下一个 AI 故事」](https://www.gelonghui.com/live/2705281)
-8. [《第一性思考》14｜AI 干掉了实习生，十年后谁来当专家？](https://www.huxiu.com/article/4896611.html?f=rss)
-9. [微软耗时数月改了 Copilot Logo 还发长文揭秘：结果根本没人发现](https://news.mydrivers.com/1/1156/1156603.htm)
-10. [奇瑞捷途全新旅行者 7 预告搭载骁龙 8255 座舱芯片，10 月 14 日上市](https://www.ithome.com/1/011/691.htm)
+7. [微软「站台」了一篇文章，说 AI 十年只能拉动 1.5% 的 GDP](https://www.51cto.com/article/857842.html)
+8. [高盛：AI 交易从硬件转向应用，市场迫切渴望「下一个 AI 故事」](https://www.gelonghui.com/live/2705281)
+9. [《第一性思考》14｜AI 干掉了实习生，十年后谁来当专家？](https://www.huxiu.com/article/4896611.html?f=rss)
+10. [微软耗时数月改了 Copilot Logo 还发长文揭秘：结果根本没人发现](https://news.mydrivers.com/1/1156/1156603.htm)
