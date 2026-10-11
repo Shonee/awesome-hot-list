@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-12 03:11:12
+> 更新时间：2026-10-12 04:14:48
 
 ## 股票人气榜
 
@@ -10,10 +10,10 @@
 4. [雄韬股份 (002733)](https://quote.eastmoney.com/sz002733.html)
 5. [哈药股份 (600664)](https://quote.eastmoney.com/sh600664.html)
 6. [中文在线 (300364)](https://quote.eastmoney.com/sz300364.html)
-7. [天赐材料 (002709)](https://quote.eastmoney.com/sz002709.html)
-8. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-9. [芒果超媒 (300413)](https://quote.eastmoney.com/sz300413.html)
-10. [博纳影业 (001330)](https://quote.eastmoney.com/sz001330.html)
+7. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+8. [天赐材料 (002709)](https://quote.eastmoney.com/sz002709.html)
+9. [博纳影业 (001330)](https://quote.eastmoney.com/sz001330.html)
+10. [芒果超媒 (300413)](https://quote.eastmoney.com/sz300413.html)
 11. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 12. [金健米业 (600127)](https://quote.eastmoney.com/sh600127.html)
 13. [丰元股份 (002805)](https://quote.eastmoney.com/sz002805.html)

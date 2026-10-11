@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-12 03:10:20
+> 更新时间：2026-10-12 04:13:36
 
 ## 热门文章
 
@@ -15,8 +15,8 @@
 9. [用原生 JS 做了一个中国历史帝皇梳理的可视化站（7 朝 77 帝 + Leaflet 地图）](https://juejin.cn/post/7694263365225693230)
 10. [Flet 1.0 思路很好，可惜来晚了](https://juejin.cn/post/7694481800701542446)
 11. [GraphQL 在国内为什么水土不服？](https://juejin.cn/post/7694187254181494820)
-12. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
-13. [GitHub 热榜项目：日榜（2026-10-09）](https://juejin.cn/post/7694469284471390242)
+12. [GitHub 热榜项目：日榜（2026-10-09）](https://juejin.cn/post/7694469284471390242)
+13. [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503)
 14. [为什么越来越多人用 ZXing？](https://juejin.cn/post/7694595110121832491)
 15. [82.4k 星！把十几万行代码变成知识图谱，新人终于不用硬啃了](https://juejin.cn/post/7694632392432009242)
 16. [我免费开源的 Archify 约 8 万 Star，别人先做出了 $19/月的在线版](https://juejin.cn/post/7694182755944923199)
