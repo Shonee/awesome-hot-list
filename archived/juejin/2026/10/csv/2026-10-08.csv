@@ -1,0 +1,1301 @@
+index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datetime
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,630,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,252,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,171,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+4,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,171,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+5,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,153,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,117,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,117,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+8,后端零改动，给若依换一套现代化前端,,90,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+9,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+10,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+11,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,81,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+12,Harness：Agent 运行时架构,,81,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+13,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,72,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+14,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,72,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+15,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,72,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+16,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,72,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+17,workbuddy-to-dsh使用教程,,72,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+18,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,63,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+19,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,63,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+20,GitHub 日榜趋势速报 | 2026-10-07,,63,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+21,线程本地存储 ThreadLocal,,63,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+22,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+23,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+24,这几天，我都是拿手机让dot帮我干活,,63,https://juejin.cn/post/7692676879360524315,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+25,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,63,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+26,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+27,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,54,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+28,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+29,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,54,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+30,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,54,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+31,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,54,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+32,面试官让我手写一个 Tool Use，我用了 3 种方案,,45,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+33,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+34,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+35,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,45,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+36,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,45,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+37,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+38,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,45,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+39,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+40,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+41,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+42,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+43,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+44,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+45,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+46,命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统,,45,https://juejin.cn/post/7692498648035311659,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+47,我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App,,45,https://juejin.cn/post/7692408208114024502,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+48,从零封装一个地图组件库：OpenLayers + Vue 的工程化实践,,45,https://juejin.cn/post/7692227011060334611,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+49,"你写的""并发""，可能一直在排队",,36,https://juejin.cn/post/7693391067571978286,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+50,EmbeddingGemma 2：740M 参数的多模态嵌入模型，支持本地推理,,36,https://juejin.cn/post/7693383473919508531,,掘金,热门文章,hot,hotlist,,2026-10-08 00:14:50
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,639,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,288,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,171,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+4,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,171,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+5,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,162,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,126,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,117,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+8,后端零改动，给若依换一套现代化前端,,108,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+9,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+10,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+11,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+12,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+13,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,81,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+14,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,72,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+15,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,72,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+16,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,72,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+17,workbuddy-to-dsh使用教程,,72,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+18,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,63,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+19,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,63,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+20,GitHub 日榜趋势速报 | 2026-10-07,,63,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+21,线程本地存储 ThreadLocal,,63,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+22,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+23,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+24,这几天，我都是拿手机让dot帮我干活,,63,https://juejin.cn/post/7692676879360524315,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+25,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+26,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,63,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+27,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+28,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+29,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,54,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+30,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+31,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,54,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+32,面试官让我手写一个 Tool Use，我用了 3 种方案,,45,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+33,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+34,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+35,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,45,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+36,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,45,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+37,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+38,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,45,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+39,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+40,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+41,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+42,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+43,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+44,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+45,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+46,命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统,,45,https://juejin.cn/post/7692498648035311659,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+47,我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App,,45,https://juejin.cn/post/7692408208114024502,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+48,从零封装一个地图组件库：OpenLayers + Vue 的工程化实践,,45,https://juejin.cn/post/7692227011060334611,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+49,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,45,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+50,"你写的""并发""，可能一直在排队",,36,https://juejin.cn/post/7693391067571978286,,掘金,热门文章,hot,hotlist,,2026-10-08 01:19:23
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,648,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,306,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,171,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,171,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+5,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,171,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,135,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,117,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+8,后端零改动，给若依换一套现代化前端,,108,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+9,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+10,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+11,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+12,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,81,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+13,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+14,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,81,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+15,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,72,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+16,GitHub 日榜趋势速报 | 2026-10-07,,72,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+17,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,72,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+18,这几天，我都是拿手机让dot帮我干活,,72,https://juejin.cn/post/7692676879360524315,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+19,workbuddy-to-dsh使用教程,,72,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+20,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,63,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+21,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,63,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+22,线程本地存储 ThreadLocal,,63,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+23,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+24,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+25,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+26,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,63,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+27,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+28,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+29,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,54,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+30,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+31,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,54,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+32,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,54,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+33,面试官让我手写一个 Tool Use，我用了 3 种方案,,45,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+34,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+35,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+36,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,45,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+37,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+38,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,45,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+39,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+40,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+41,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+42,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+43,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+44,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,45,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+45,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+46,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+47,命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统,,45,https://juejin.cn/post/7692498648035311659,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+48,我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App,,45,https://juejin.cn/post/7692408208114024502,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+49,从零封装一个地图组件库：OpenLayers + Vue 的工程化实践,,45,https://juejin.cn/post/7692227011060334611,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+50,深入 opencode（上篇）：工程全景、双会话内核与事件溯源,,45,https://juejin.cn/post/7692042894161575971,,掘金,热门文章,hot,hotlist,,2026-10-08 02:16:44
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,648,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,315,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,171,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,171,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+5,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,171,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,135,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,117,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+8,后端零改动，给若依换一套现代化前端,,117,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+9,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+10,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+11,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+12,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,81,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+13,workbuddy-to-dsh使用教程,,81,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+14,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+15,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,81,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+16,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,72,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+17,GitHub 日榜趋势速报 | 2026-10-07,,72,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+18,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,72,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+19,这几天，我都是拿手机让dot帮我干活,,72,https://juejin.cn/post/7692676879360524315,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+20,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,63,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+21,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,63,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+22,线程本地存储 ThreadLocal,,63,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+23,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+24,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+25,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+26,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,63,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+27,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+28,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+29,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,54,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+30,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+31,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,54,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+32,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,54,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+33,面试官让我手写一个 Tool Use，我用了 3 种方案,,45,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+34,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+35,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+36,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,45,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+37,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+38,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,45,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+39,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+40,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+41,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+42,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+43,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+44,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,45,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+45,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+46,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+47,命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统,,45,https://juejin.cn/post/7692498648035311659,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+48,我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App,,45,https://juejin.cn/post/7692408208114024502,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+49,从零封装一个地图组件库：OpenLayers + Vue 的工程化实践,,45,https://juejin.cn/post/7692227011060334611,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+50,深入 opencode（上篇）：工程全景、双会话内核与事件溯源,,45,https://juejin.cn/post/7692042894161575971,,掘金,热门文章,hot,hotlist,,2026-10-08 03:11:36
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,648,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,315,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,171,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,171,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+5,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,171,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,135,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,117,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+8,后端零改动，给若依换一套现代化前端,,117,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+9,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+10,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+11,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+12,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,81,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+13,workbuddy-to-dsh使用教程,,81,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+14,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+15,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,81,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+16,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,72,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+17,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,72,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+18,GitHub 日榜趋势速报 | 2026-10-07,,72,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+19,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,72,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+20,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,63,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+21,线程本地存储 ThreadLocal,,63,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+22,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+23,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+24,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+25,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,63,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+26,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+27,面试官让我手写一个 Tool Use，我用了 3 种方案,,54,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+28,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+29,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,54,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+30,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+31,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,54,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+32,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,54,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+33,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,54,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+34,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,45,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+35,"你写的""并发""，可能一直在排队",,45,https://juejin.cn/post/7693391067571978286,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+36,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+37,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+38,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,45,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+39,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+40,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+41,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+42,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+43,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+44,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,45,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+45,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+46,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+47,命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统,,45,https://juejin.cn/post/7692498648035311659,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+48,我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App,,45,https://juejin.cn/post/7692408208114024502,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+49,从零封装一个地图组件库：OpenLayers + Vue 的工程化实践,,45,https://juejin.cn/post/7692227011060334611,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+50,深入 opencode（上篇）：工程全景、双会话内核与事件溯源,,45,https://juejin.cn/post/7692042894161575971,,掘金,热门文章,hot,hotlist,,2026-10-08 04:14:20
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,648,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,315,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,171,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,171,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+5,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,171,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,135,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,117,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+8,后端零改动，给若依换一套现代化前端,,117,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+9,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+10,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+11,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+12,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,81,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+13,workbuddy-to-dsh使用教程,,81,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+14,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+15,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,81,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+16,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,72,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+17,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,72,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+18,GitHub 日榜趋势速报 | 2026-10-07,,72,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+19,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,72,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+20,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,63,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+21,线程本地存储 ThreadLocal,,63,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+22,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+23,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+24,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+25,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,63,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+26,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+27,面试官让我手写一个 Tool Use，我用了 3 种方案,,54,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+28,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+29,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,54,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+30,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+31,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,54,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+32,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,54,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+33,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,54,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+34,"你写的""并发""，可能一直在排队",,45,https://juejin.cn/post/7693391067571978286,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+35,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+36,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,45,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+37,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+38,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+39,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,45,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+40,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+41,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+42,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+43,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+44,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+45,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,45,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+46,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+47,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+48,命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统,,45,https://juejin.cn/post/7692498648035311659,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+49,我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App,,45,https://juejin.cn/post/7692408208114024502,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+50,我怎么给手机 GUI Agent 做双通道感知：无障碍树为主，投屏像素兜底,,45,https://juejin.cn/post/7692336657548263458,,掘金,热门文章,hot,hotlist,,2026-10-08 05:12:30
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,657,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,324,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+3,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,180,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+4,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,171,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+5,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,171,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,135,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,117,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+8,后端零改动，给若依换一套现代化前端,,117,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+9,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+10,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+11,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+12,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,81,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+13,workbuddy-to-dsh使用教程,,81,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+14,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+15,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,81,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+16,GitHub 日榜趋势速报 | 2026-10-07,,81,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+17,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,72,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+18,线程本地存储 ThreadLocal,,72,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+19,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,72,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+20,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,72,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+21,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+22,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+23,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+24,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+25,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,63,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+26,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,63,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+27,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+28,面试官让我手写一个 Tool Use，我用了 3 种方案,,54,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+29,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,54,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+30,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+31,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,54,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+32,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,54,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+33,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,54,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+34,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,54,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+35,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+36,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,45,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+37,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+38,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+39,"你写的""并发""，可能一直在排队",,45,https://juejin.cn/post/7693391067571978286,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+40,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+41,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+42,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+43,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+44,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+45,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,45,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+46,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+47,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+48,命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统,,45,https://juejin.cn/post/7692498648035311659,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+49,我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App,,45,https://juejin.cn/post/7692408208114024502,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+50,我怎么给手机 GUI Agent 做双通道感知：无障碍树为主，投屏像素兜底,,45,https://juejin.cn/post/7692336657548263458,,掘金,热门文章,hot,hotlist,,2026-10-08 06:11:43
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,657,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,324,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+3,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,180,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+4,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,171,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+5,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,171,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,135,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,117,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+8,后端零改动，给若依换一套现代化前端,,117,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+9,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+10,GitHub 日榜趋势速报 | 2026-10-07,,81,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+11,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+12,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+13,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,81,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+14,workbuddy-to-dsh使用教程,,81,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+15,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+16,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,81,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+17,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,72,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+18,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,72,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+19,线程本地存储 ThreadLocal,,72,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+20,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,72,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+21,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,72,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+22,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,63,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+23,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+24,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+25,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+26,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+27,面试官让我手写一个 Tool Use，我用了 3 种方案,,54,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+28,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+29,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,54,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+30,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+31,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,54,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+32,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,54,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+33,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,54,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+34,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,54,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+35,"你写的""并发""，可能一直在排队",,45,https://juejin.cn/post/7693391067571978286,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+36,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+37,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,45,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+38,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+39,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+40,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+41,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+42,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+43,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+44,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+45,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,45,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+46,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+47,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+48,命令模式在 CAD 里怎么落地：读懂 LibreCAD 的 Action 系统,,45,https://juejin.cn/post/7692498648035311659,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+49,我用AI coding给旧手表（华米Amazfit GTR4）写了个番茄代办App,,45,https://juejin.cn/post/7692408208114024502,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+50,我怎么给手机 GUI Agent 做双通道感知：无障碍树为主，投屏像素兜底,,45,https://juejin.cn/post/7692336657548263458,,掘金,热门文章,hot,hotlist,,2026-10-08 07:12:36
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,675,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,414,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,180,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+4,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,180,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+5,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,171,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,153,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,126,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+8,后端零改动，给若依换一套现代化前端,,126,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+9,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+10,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,90,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+11,workbuddy-to-dsh使用教程,,81,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+12,GitHub 日榜趋势速报 | 2026-10-07,,81,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+13,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+14,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,81,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+15,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,81,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+16,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,81,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+17,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,81,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+18,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,81,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+19,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,81,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+20,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,72,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+21,线程本地存储 ThreadLocal,,72,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+22,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,72,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+23,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+24,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,63,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+25,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+26,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,63,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+27,面试官让我手写一个 Tool Use，我用了 3 种方案,,63,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+28,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+29,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+30,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+31,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+32,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,54,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+33,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,54,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+34,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,54,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+35,即时通讯系统的关键设计,,45,https://juejin.cn/post/7693406376094056482,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+36,"你写的""并发""，可能一直在排队",,45,https://juejin.cn/post/7693391067571978286,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+37,别只让AI解释，让它做个你能看懂的东西,,45,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+38,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,45,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+39,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,45,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+40,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+41,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,45,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+42,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,45,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+43,GitHub 日榜趋势速报 | 2026-10-06,,45,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+44,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+45,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+46,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+47,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+48,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,45,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+49,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+50,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 08:35:19
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,702,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,513,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,189,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+4,Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机,,180,https://juejin.cn/post/7692379120273899560,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+5,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,180,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+6,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,162,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,135,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+8,后端零改动，给若依换一套现代化前端,,126,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+9,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,90,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+10,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+11,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,90,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+12,Harness：Agent 运行时架构,,90,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+13,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,90,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+14,GitHub 日榜趋势速报 | 2026-10-07,,90,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+15,workbuddy-to-dsh使用教程,,90,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+16,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,81,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+17,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,81,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+18,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,81,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+19,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,81,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+20,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,72,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+21,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,72,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+22,线程本地存储 ThreadLocal,,72,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+23,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,72,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+24,面试官让我手写一个 Tool Use，我用了 3 种方案,,63,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+25,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+26,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,63,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+27,悬停旋转放大和位移效果如何写,,63,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+28,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+29,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+30,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,54,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+31,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,54,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+32,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,54,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+33,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,54,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+34,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,54,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+35,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,54,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+36,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,54,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+37,我怎么给手机 GUI Agent 做双通道感知：无障碍树为主，投屏像素兜底,,54,https://juejin.cn/post/7692336657548263458,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+38,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,54,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+39,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,54,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+40,GitHub 日榜趋势速报 | 2026-10-06,,54,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+41,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+42,01| 裸机部署 K8S：从零搭建生产可用集群,,45,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+43,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,45,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+44,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+45,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+46,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,45,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+47,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,45,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+48,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,45,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+49,别只让AI解释，让它做个你能看懂的东西,,45,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+50,即时通讯系统的关键设计,,45,https://juejin.cn/post/7693406376094056482,,掘金,热门文章,hot,hotlist,,2026-10-08 09:32:58
+1,副业搞起来，小说，漫画，漫剧的成本优化思路,,783,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+2,Spring AI Alibaba已停更了，Java还有希望吗？,,675,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,207,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,189,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+5,给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频,,171,https://juejin.cn/post/7692127219867877414,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+6,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,144,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+7,后端零改动，给若依换一套现代化前端,,144,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,117,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+9,workbuddy-to-dsh使用教程,,108,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+10,GitHub 日榜趋势速报 | 2026-10-07,,99,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+11,Harness：Agent 运行时架构,,99,https://juejin.cn/post/7692379120273080360,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+12,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,90,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+13,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+14,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,90,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+15,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,90,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+16,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,90,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+17,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,81,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+18,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,81,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+19,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,81,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+20,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,81,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+21,GitHub 日榜趋势速报 | 2026-10-06,,72,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+22,线程本地存储 ThreadLocal,,72,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+23,面试官让我手写一个 Tool Use，我用了 3 种方案,,72,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+24,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,72,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+25,悬停旋转放大和位移效果如何写,,72,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+26,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,72,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+27,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,72,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+28,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+29,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,63,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+30,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,63,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+31,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+32,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,63,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+33,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,63,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+34,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,54,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+35,别只让AI解释，让它做个你能看懂的东西,,54,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+36,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,54,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+37,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,54,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+38,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,54,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+39,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,54,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+40,我怎么给手机 GUI Agent 做双通道感知：无障碍树为主，投屏像素兜底,,54,https://juejin.cn/post/7692336657548263458,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+41,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,54,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+42,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,54,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+43,go的内存管理,,45,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+44,一部手机开发安卓 App：让写代码和看效果都舒服起来,,45,https://juejin.cn/post/7692440533922693139,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+45,bm2，Node.js 与 Bun 项目部署新选择,,45,https://juejin.cn/post/7693147156875821092,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+46,Spring Boot 日志最佳实践：接入、分级、异常记录与滚动拆分,,45,https://juejin.cn/post/7693144953569067059,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+47,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,45,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+48,QML PathView：吸附对齐与环形轮播,,45,https://juejin.cn/post/7692852483446374426,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+49,Flutter GetX 巢狀路由教學：用三層 Navigator 做桌面多欄佈局,,45,https://juejin.cn/post/7692827258088489002,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+50,EasyAdminBlazor 日志系统源码解析：为什么数据库日志需要有界队列？,,45,https://juejin.cn/post/7692814441562521600,,掘金,热门文章,hot,hotlist,,2026-10-08 10:24:58
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,891,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,864,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,243,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,207,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+5,后端零改动，给若依换一套现代化前端,,162,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+6,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,144,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+7,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,135,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+8,workbuddy-to-dsh使用教程,,117,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+9,GitHub 日榜趋势速报 | 2026-10-07,,117,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+10,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,99,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+11,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,99,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+12,Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁,,99,https://juejin.cn/post/7692612898275967002,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+13,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,99,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+14,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,90,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+15,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,90,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+16,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+17,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,90,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+18,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,81,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+19,Android 以后可能不会再有横竖屏适配了,,81,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+20,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,81,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+21,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,81,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+22,线程本地存储 ThreadLocal,,81,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+23,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,81,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+24,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,81,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+25,"写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张""新桌子""",,81,https://juejin.cn/post/7692534495237275682,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+26,面试官让我手写一个 Tool Use，我用了 3 种方案,,72,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+27,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,72,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+28,GitHub 日榜趋势速报 | 2026-10-06,,72,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+29,悬停旋转放大和位移效果如何写,,72,https://juejin.cn/post/7692743745478492206,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+30,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,72,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+31,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,63,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+32,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,63,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+33,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,63,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+34,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+35,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,63,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+36,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,63,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+37,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,54,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+38,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,54,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+39,缓存明明加了，为什么数据还是不一致？聊聊 4 个容易忽略的边界,,54,https://juejin.cn/post/7692739051066064905,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+40,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,54,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+41,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,54,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+42,RAG 面试 6 连问，从原理到优化全部覆盖,,54,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+43,别只让AI解释，让它做个你能看懂的东西,,54,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+44,A 社为什么反超了,,54,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+45,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,54,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+46,实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手,,54,https://juejin.cn/post/7693414422438248490,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+47,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,54,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+48,ChatGPT 账号用户可免费使用 Auto-review 双智能体审查功能,,54,https://juejin.cn/post/7693384474742685746,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+49,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,54,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+50,01| 裸机部署 K8S：从零搭建生产可用集群,,54,https://juejin.cn/post/7692500213994405929,,掘金,热门文章,hot,hotlist,,2026-10-08 11:18:25
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1080,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,972,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,261,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,234,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+5,后端零改动，给若依换一套现代化前端,,198,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+6,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,189,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+7,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,162,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,162,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+9,workbuddy-to-dsh使用教程,,153,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+10,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,144,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+11,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,135,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+12,GitHub 日榜趋势速报 | 2026-10-07,,126,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+13,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,126,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+14,Android 以后可能不会再有横竖屏适配了,,117,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+15,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,99,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+16,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,99,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+17,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,99,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+18,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,90,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+19,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+20,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,90,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+21,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,90,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+22,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,90,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+23,面试官让我手写一个 Tool Use，我用了 3 种方案,,81,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+24,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,81,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+25,线程本地存储 ThreadLocal,,81,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+26,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,81,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+27,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,81,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+28,研究 Vue 3 源码的收获,,81,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+29,GitHub 日榜趋势速报 | 2026-10-06,,81,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+30,A 社为什么反超了,,72,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+31,RAG 面试 6 连问，从原理到优化全部覆盖,,72,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+32,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,72,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+33,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,72,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+34,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,72,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+35,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,63,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+36,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,63,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+37,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+38,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,63,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+39,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,63,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+40,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,63,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+41,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,63,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+42,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,63,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+43,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,63,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+44,应用账号最小权限实践：读写账号、报表账号、运维账号分层,,54,https://juejin.cn/post/7692743968833732617,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+45,实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手,,54,https://juejin.cn/post/7693414422438248490,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+46,ChatGPT 账号用户可免费使用 Auto-review 双智能体审查功能,,54,https://juejin.cn/post/7693384474742685746,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+47,别只让AI解释，让它做个你能看懂的东西,,54,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+48,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,54,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+49,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,54,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+50,中小企业上 WMS 该先上哪几块：JeeWMS 开源 Java 仓库管理系统的分批上线清单,,54,https://juejin.cn/post/7692973488219537423,,掘金,热门文章,hot,hotlist,,2026-10-08 12:16:09
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1134,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,999,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,270,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,252,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+5,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,216,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+6,后端零改动，给若依换一套现代化前端,,198,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+7,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,171,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+8,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,162,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+9,workbuddy-to-dsh使用教程,,162,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+10,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,153,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+11,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,153,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+12,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,144,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+13,Android 以后可能不会再有横竖屏适配了,,135,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+14,GitHub 日榜趋势速报 | 2026-10-07,,135,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+15,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,108,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+16,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,99,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+17,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,99,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+18,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,99,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+19,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,99,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+20,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,99,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+21,面试官让我手写一个 Tool Use，我用了 3 种方案,,90,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+22,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,90,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+23,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,90,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+24,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,90,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+25,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+26,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,90,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+27,A 社为什么反超了,,90,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+28,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,90,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+29,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,81,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+30,RAG 面试 6 连问，从原理到优化全部覆盖,,81,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+31,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,81,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+32,研究 Vue 3 源码的收获,,81,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+33,线程本地存储 ThreadLocal,,81,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+34,GitHub 日榜趋势速报 | 2026-10-06,,81,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+35,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+36,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,72,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+37,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,63,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+38,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,63,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+39,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,63,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+40,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,63,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+41,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,63,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+42,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,63,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+43,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+44,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,63,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+45,别只让AI解释，让它做个你能看懂的东西,,63,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+46,实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手,,54,https://juejin.cn/post/7693414422438248490,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+47,即时通讯系统的关键设计,,54,https://juejin.cn/post/7693406376094056482,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+48,"你写的""并发""，可能一直在排队",,54,https://juejin.cn/post/7693391067571978286,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+49,ChatGPT 账号用户可免费使用 Auto-review 双智能体审查功能,,54,https://juejin.cn/post/7693384474742685746,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+50,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,54,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 13:14:37
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1188,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,1044,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,270,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,270,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+5,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,234,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+6,后端零改动，给若依换一套现代化前端,,207,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+7,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,171,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+8,workbuddy-to-dsh使用教程,,171,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+9,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,171,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+10,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,162,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+11,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,153,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+12,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,144,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+13,Android 以后可能不会再有横竖屏适配了,,144,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+14,GitHub 日榜趋势速报 | 2026-10-07,,135,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+15,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,126,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+16,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,117,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+17,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+18,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,99,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+19,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,99,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+20,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,99,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+21,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,99,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+22,面试官让我手写一个 Tool Use，我用了 3 种方案,,99,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+23,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,99,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+24,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,90,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+25,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,90,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+26,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,90,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+27,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+28,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,90,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+29,A 社为什么反超了,,90,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+30,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,81,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+31,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,81,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+32,研究 Vue 3 源码的收获,,81,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+33,线程本地存储 ThreadLocal,,81,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+34,GitHub 日榜趋势速报 | 2026-10-06,,81,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+35,RAG 面试 6 连问，从原理到优化全部覆盖,,81,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+36,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+37,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,72,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+38,从 Markdown 到生成式 UI：AI 应用中的流式渲染实践,,63,https://juejin.cn/post/7692649064883273769,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+39,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,63,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+40,别只让AI解释，让它做个你能看懂的东西,,63,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+41,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,63,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+42,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,63,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+43,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,63,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+44,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+45,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,63,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+46,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,63,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+47,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,63,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+48,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,63,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+49,go的内存管理,,54,https://juejin.cn/post/7692615195570044968,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+50,即时通讯系统的关键设计,,54,https://juejin.cn/post/7693406376094056482,,掘金,热门文章,hot,hotlist,,2026-10-08 14:23:53
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1332,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,1152,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,324,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+4,我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录,,288,https://juejin.cn/post/7692743066844135433,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+5,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,261,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+6,后端零改动，给若依换一套现代化前端,,225,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+7,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,225,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,180,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+9,workbuddy-to-dsh使用教程,,180,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+10,Android 以后可能不会再有横竖屏适配了,,171,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+11,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,171,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+12,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,162,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+13,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,162,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+14,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,153,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+15,GitHub 日榜趋势速报 | 2026-10-07,,144,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+16,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,117,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+17,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,108,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+18,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,108,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+19,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,108,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+20,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,108,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+21,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+22,A 社为什么反超了,,99,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+23,面试官让我手写一个 Tool Use，我用了 3 种方案,,99,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+24,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,99,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+25,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,99,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+26,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,99,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+27,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,99,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+28,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,99,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+29,RAG 面试 6 连问，从原理到优化全部覆盖,,90,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+30,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,90,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+31,研究 Vue 3 源码的收获,,90,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+32,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+33,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,90,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+34,线程本地存储 ThreadLocal,,81,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+35,GitHub 日榜趋势速报 | 2026-10-06,,81,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+36,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,81,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+37,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,72,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+38,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,72,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+39,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,72,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+40,React的Virtual DOM、Diff算法和Fiber,,72,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+41,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+42,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,72,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+43,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+44,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+45,开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用,,63,https://juejin.cn/post/7693549784162631718,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+46,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,63,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+47,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,63,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+48,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,63,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+49,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,63,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+50,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 14:59:21
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1350,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,1170,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,333,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+4,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,261,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+5,后端零改动，给若依换一套现代化前端,,225,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+6,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,225,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+7,workbuddy-to-dsh使用教程,,189,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,180,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+9,Android 以后可能不会再有横竖屏适配了,,180,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+10,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,171,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+11,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,162,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+12,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,162,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+13,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,162,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+14,GitHub 日榜趋势速报 | 2026-10-07,,144,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+15,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,126,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+16,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,117,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+17,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,108,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+18,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,108,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+19,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,108,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+20,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+21,A 社为什么反超了,,99,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+22,面试官让我手写一个 Tool Use，我用了 3 种方案,,99,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+23,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,99,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+24,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,99,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+25,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,99,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+26,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,99,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+27,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,99,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+28,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,99,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+29,RAG 面试 6 连问，从原理到优化全部覆盖,,90,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+30,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,90,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+31,研究 Vue 3 源码的收获,,90,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+32,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+33,线程本地存储 ThreadLocal,,81,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+34,GitHub 日榜趋势速报 | 2026-10-06,,81,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+35,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,81,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+36,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,72,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+37,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,72,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+38,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,72,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+39,React的Virtual DOM、Diff算法和Fiber,,72,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+40,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+41,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,72,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+42,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+43,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+44,开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用,,63,https://juejin.cn/post/7693549784162631718,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+45,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,63,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+46,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,63,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+47,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,63,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+48,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,63,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+49,WinSW在Win7上失败真相-实测与修复,,63,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+50,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,63,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 15:32:07
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1413,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,1233,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,342,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+4,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,297,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+5,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,261,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+6,后端零改动，给若依换一套现代化前端,,243,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+7,workbuddy-to-dsh使用教程,,198,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+8,Android 以后可能不会再有横竖屏适配了,,189,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+9,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,189,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+10,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,189,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+11,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,180,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+12,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,171,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+13,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,162,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+14,GitHub 日榜趋势速报 | 2026-10-07,,153,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+15,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,126,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+16,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,126,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+17,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,117,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+18,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,117,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+19,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,108,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+20,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+21,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,108,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+22,A 社为什么反超了,,108,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+23,面试官让我手写一个 Tool Use，我用了 3 种方案,,108,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+24,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,108,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+25,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,99,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+26,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,99,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+27,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,99,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+28,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,99,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+29,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,99,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+30,RAG 面试 6 连问，从原理到优化全部覆盖,,90,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+31,研究 Vue 3 源码的收获,,90,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+32,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+33,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,81,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+34,GitHub 日榜趋势速报 | 2026-10-06,,81,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+35,线程本地存储 ThreadLocal,,81,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+36,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,81,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+37,React的Virtual DOM、Diff算法和Fiber,,81,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+38,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,72,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+39,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,72,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+40,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+41,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+42,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,72,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+43,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,72,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+44,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+45,复杂架构的取舍：Agentic RAG、LLM Wiki 与 Multi-Agent,,63,https://juejin.cn/post/7693160537133481999,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+46,本地AI绘图全家桶,,63,https://juejin.cn/post/7693414422439034922,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+47,实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手,,63,https://juejin.cn/post/7693414422438248490,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+48,ChatGPT 账号用户可免费使用 Auto-review 双智能体审查功能,,63,https://juejin.cn/post/7693384474742685746,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+49,大模型多模态、Harness 与 MCP：一个 Agent 开发者的技术笔记,,63,https://juejin.cn/post/7693186612616298530,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+50,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,63,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 16:20:00
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1503,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,1296,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,360,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+4,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,306,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+5,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,297,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+6,后端零改动，给若依换一套现代化前端,,261,https://juejin.cn/post/7692369572608786467,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+7,Android 以后可能不会再有横竖屏适配了,,207,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+8,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,207,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+9,workbuddy-to-dsh使用教程,,207,https://juejin.cn/post/7692614083904274486,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+10,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,198,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+11,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,198,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+12,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,171,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+13,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,171,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+14,GitHub 日榜趋势速报 | 2026-10-07,,162,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+15,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,135,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+16,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,126,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+17,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,126,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+18,"🛴 从散件到整机：DeepAgents 与 Agent 身上预留的那些""插槽""(前置介绍)",,117,https://juejin.cn/post/7692500213994586153,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+19,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,117,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+20,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,117,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+21,A 社为什么反超了,,108,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+22,面试官让我手写一个 Tool Use，我用了 3 种方案,,108,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+23,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,108,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+24,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+25,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,108,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+26,RAG 面试 6 连问，从原理到优化全部覆盖,,99,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+27,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,99,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+28,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,99,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+29,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,99,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+30,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,99,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+31,研究 Vue 3 源码的收获,,99,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+32,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+33,线程本地存储 ThreadLocal,,81,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+34,React的Virtual DOM、Diff算法和Fiber,,81,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+35,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,81,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+36,GitHub 日榜趋势速报 | 2026-10-06,,81,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+37,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,81,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+38,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,81,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+39,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,81,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+40,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,72,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+41,"还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?",,72,https://juejin.cn/post/7694074227640729634,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+42,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,72,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+43,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+44,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+45,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,72,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+46,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+47,Agent 天天挂在嘴边的沙箱，到底是个啥？,,72,https://juejin.cn/post/7693805723601764362,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+48,AI 帮我投资 85 天，最多赚到 3733 元,,72,https://juejin.cn/post/7693414422438723626,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+49,本地AI绘图全家桶,,63,https://juejin.cn/post/7693414422439034922,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+50,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,63,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 17:17:07
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1638,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,1404,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,414,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+4,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,351,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+5,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,333,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+6,Android 以后可能不会再有横竖屏适配了,,261,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+7,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,243,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,225,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+9,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,216,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+10,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,189,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+11,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,180,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+12,GitHub 日榜趋势速报 | 2026-10-07,,171,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+13,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,162,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+14,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,135,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+15,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,135,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+16,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,135,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+17,A 社为什么反超了,,126,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+18,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,126,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+19,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,117,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+20,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,108,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+21,面试官让我手写一个 Tool Use，我用了 3 种方案,,108,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+22,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,108,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+23,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,108,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+24,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+25,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,108,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+26,RAG 面试 6 连问，从原理到优化全部覆盖,,108,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+27,AI 帮我投资 85 天，最多赚到 3733 元,,99,https://juejin.cn/post/7693414422438723626,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+28,研究 Vue 3 源码的收获,,99,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+29,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,99,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+30,做全栈是前端骗局还是出路？,,99,https://juejin.cn/post/7694107051320311827,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+31,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+32,线程本地存储 ThreadLocal,,90,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+33,"还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?",,90,https://juejin.cn/post/7694074227640729634,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+34,GitHub 日榜趋势速报 | 2026-10-06,,90,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+35,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,81,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+36,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,81,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+37,Agent 天天挂在嘴边的沙箱，到底是个啥？,,81,https://juejin.cn/post/7693805723601764362,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+38,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,81,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+39,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,81,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+40,React的Virtual DOM、Diff算法和Fiber,,81,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+41,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,81,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+42,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,81,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+43,Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析,,81,https://juejin.cn/post/7692440533922791443,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+44,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+45,后台管理框架存活率大调查（2026版）,,72,https://juejin.cn/post/7694016286322556969,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+46,只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏,,72,https://juejin.cn/post/7693165008605396992,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+47,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,72,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+48,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+49,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+50,实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手,,63,https://juejin.cn/post/7693414422438248490,,掘金,热门文章,hot,hotlist,,2026-10-08 18:14:04
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1692,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,1431,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,423,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+4,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,360,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+5,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,351,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+6,Android 以后可能不会再有横竖屏适配了,,270,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+7,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,252,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+8,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,225,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+9,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,225,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+10,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,189,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+11,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,180,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+12,GitHub 日榜趋势速报 | 2026-10-07,,180,https://juejin.cn/post/7693049513120661550,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+13,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,162,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+14,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,144,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+15,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,135,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+16,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,135,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+17,A 社为什么反超了,,135,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+18,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,135,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+19,做全栈是前端骗局还是出路？,,117,https://juejin.cn/post/7694107051320311827,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+20,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,117,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+21,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,117,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+22,RAG 面试 6 连问，从原理到优化全部覆盖,,117,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+23,面试官让我手写一个 Tool Use，我用了 3 种方案,,108,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+24,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,108,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+25,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,108,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+26,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+27,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,108,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+28,AI 帮我投资 85 天，最多赚到 3733 元,,108,https://juejin.cn/post/7693414422438723626,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+29,研究 Vue 3 源码的收获,,108,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+30,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,108,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+31,Agent 天天挂在嘴边的沙箱，到底是个啥？,,108,https://juejin.cn/post/7693805723601764362,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+32,"还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?",,99,https://juejin.cn/post/7694074227640729634,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+33,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,99,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+34,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,99,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+35,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,90,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+36,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+37,GitHub 日榜趋势速报 | 2026-10-06,,90,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+38,线程本地存储 ThreadLocal,,90,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+39,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,81,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+40,React的Virtual DOM、Diff算法和Fiber,,81,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+41,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,81,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+42,只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏,,81,https://juejin.cn/post/7693165008605396992,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+43,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,81,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+44,本地AI绘图全家桶,,72,https://juejin.cn/post/7693414422439034922,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+45,后台管理框架存活率大调查（2026版）,,72,https://juejin.cn/post/7694016286322556969,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+46,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+47,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+48,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,72,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+49,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+50,Gemini 4 Argon 发布：对 Android 开发者意味着什么？,,63,https://juejin.cn/post/7694033497296781339,,掘金,热门文章,hot,hotlist,,2026-10-08 19:12:29
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1719,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+2,副业搞起来，小说，漫画，漫剧的成本优化思路,,1458,https://juejin.cn/post/7692440533922971667,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+3,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,432,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+4,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,378,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+5,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,369,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+6,Android 以后可能不会再有横竖屏适配了,,279,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+7,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,261,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,234,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+9,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,234,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+10,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,189,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+11,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,180,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+12,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,162,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+13,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,153,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+14,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,144,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+15,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,144,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+16,A 社为什么反超了,,135,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+17,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,135,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+18,做全栈是前端骗局还是出路？,,135,https://juejin.cn/post/7694107051320311827,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+19,RAG 面试 6 连问，从原理到优化全部覆盖,,117,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+20,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,117,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+21,AI 帮我投资 85 天，最多赚到 3733 元,,117,https://juejin.cn/post/7693414422438723626,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+22,面试官让我手写一个 Tool Use，我用了 3 种方案,,117,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+23,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,117,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+24,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,117,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+25,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,117,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+26,Agent 天天挂在嘴边的沙箱，到底是个啥？,,108,https://juejin.cn/post/7693805723601764362,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+27,研究 Vue 3 源码的收获,,108,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+28,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+29,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,108,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+30,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,108,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+31,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,99,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+32,"还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?",,99,https://juejin.cn/post/7694074227640729634,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+33,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,99,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+34,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,99,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+35,React的Virtual DOM、Diff算法和Fiber,,90,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+36,只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏,,90,https://juejin.cn/post/7693165008605396992,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+37,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,90,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+38,线程本地存储 ThreadLocal,,90,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+39,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,90,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+40,GitHub 日榜趋势速报 | 2026-10-06,,90,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+41,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,81,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+42,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,81,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+43,后台管理框架存活率大调查（2026版）,,81,https://juejin.cn/post/7694016286322556969,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+44,开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用,,72,https://juejin.cn/post/7693549784162631718,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+45,本地AI绘图全家桶,,72,https://juejin.cn/post/7693414422439034922,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+46,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+47,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+48,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,72,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+49,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+50,【鸿蒙心迹】相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法,,72,https://juejin.cn/post/7692876916257521674,,掘金,热门文章,hot,hotlist,,2026-10-08 20:19:53
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1746,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+2,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,441,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+3,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,387,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+4,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,378,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+5,Android 以后可能不会再有横竖屏适配了,,288,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+6,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,270,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+7,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,243,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,234,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+9,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,198,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+10,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,180,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+11,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,171,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+12,做全栈是前端骗局还是出路？,,162,https://juejin.cn/post/7694107051320311827,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+13,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,153,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+14,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,153,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+15,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,144,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+16,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,144,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+17,A 社为什么反超了,,135,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+18,AI 帮我投资 85 天，最多赚到 3733 元,,126,https://juejin.cn/post/7693414422438723626,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+19,研究 Vue 3 源码的收获,,117,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+20,RAG 面试 6 连问，从原理到优化全部覆盖,,117,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+21,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,117,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+22,Agent 天天挂在嘴边的沙箱，到底是个啥？,,117,https://juejin.cn/post/7693805723601764362,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+23,面试官让我手写一个 Tool Use，我用了 3 种方案,,117,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+24,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,117,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+25,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,117,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+26,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,117,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+27,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,108,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+28,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+29,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,108,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+30,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,108,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+31,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,99,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+32,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,99,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+33,"还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?",,99,https://juejin.cn/post/7694074227640729634,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+34,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,99,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+35,GitHub 日榜趋势速报 | 2026-10-06,,99,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+36,React的Virtual DOM、Diff算法和Fiber,,90,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+37,只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏,,90,https://juejin.cn/post/7693165008605396992,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+38,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,90,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+39,线程本地存储 ThreadLocal,,90,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+40,后台管理框架存活率大调查（2026版）,,81,https://juejin.cn/post/7694016286322556969,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+41,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,81,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+42,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,81,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+43,Gemini 4 Argon 发布：对 Android 开发者意味着什么？,,81,https://juejin.cn/post/7694033497296781339,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+44,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,72,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+45,本地AI绘图全家桶,,72,https://juejin.cn/post/7693414422439034922,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+46,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+47,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+48,开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用,,72,https://juejin.cn/post/7693549784162631718,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+49,WinSW在Win7上失败真相-实测与修复,,72,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+50,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 20:53:14
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1764,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+2,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,450,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+3,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,387,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+4,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,378,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+5,Android 以后可能不会再有横竖屏适配了,,288,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+6,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,270,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+7,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,243,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,234,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+9,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,198,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+10,从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析,,180,https://juejin.cn/post/7692742889198387200,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+11,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,171,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+12,做全栈是前端骗局还是出路？,,162,https://juejin.cn/post/7694107051320311827,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+13,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,153,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+14,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,153,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+15,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,144,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+16,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,144,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+17,A 社为什么反超了,,144,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+18,AI 帮我投资 85 天，最多赚到 3733 元,,126,https://juejin.cn/post/7693414422438723626,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+19,Agent 天天挂在嘴边的沙箱，到底是个啥？,,117,https://juejin.cn/post/7693805723601764362,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+20,RAG 面试 6 连问，从原理到优化全部覆盖,,117,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+21,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,117,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+22,研究 Vue 3 源码的收获,,117,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+23,面试官让我手写一个 Tool Use，我用了 3 种方案,,117,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+24,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,117,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+25,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,117,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+26,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,117,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+27,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,108,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+28,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+29,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,108,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+30,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,108,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+31,"还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?",,99,https://juejin.cn/post/7694074227640729634,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+32,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,99,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+33,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,99,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+34,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,99,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+35,GitHub 日榜趋势速报 | 2026-10-06,,99,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+36,React的Virtual DOM、Diff算法和Fiber,,90,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+37,只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏,,90,https://juejin.cn/post/7693165008605396992,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+38,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,90,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+39,线程本地存储 ThreadLocal,,90,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+40,Gemini 4 Argon 发布：对 Android 开发者意味着什么？,,81,https://juejin.cn/post/7694033497296781339,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+41,后台管理框架存活率大调查（2026版）,,81,https://juejin.cn/post/7694016286322556969,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+42,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,81,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+43,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,81,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+44,国庆七天，AI圈没一天消停,,72,https://juejin.cn/post/7694124645507940379,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+45,开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用,,72,https://juejin.cn/post/7693549784162631718,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+46,本地AI绘图全家桶,,72,https://juejin.cn/post/7693414422439034922,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+47,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+48,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+49,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,72,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+50,WinSW在Win7上失败真相-实测与修复,,72,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 21:43:13
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1728,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+2,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,450,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+3,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,396,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+4,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,387,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+5,Android 以后可能不会再有横竖屏适配了,,288,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+6,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,270,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+7,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,252,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,243,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+9,"独立开发者的""富矿地带""：哪些垂直领域值得你押注一辈子？",,198,https://juejin.cn/post/7692743968833224713,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+10,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,198,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+11,做全栈是前端骗局还是出路？,,162,https://juejin.cn/post/7694107051320311827,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+12,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,153,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+13,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,153,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+14,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,144,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+15,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,144,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+16,A 社为什么反超了,,144,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+17,AI 帮我投资 85 天，最多赚到 3733 元,,126,https://juejin.cn/post/7693414422438723626,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+18,Agent 天天挂在嘴边的沙箱，到底是个啥？,,117,https://juejin.cn/post/7693805723601764362,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+19,RAG 面试 6 连问，从原理到优化全部覆盖,,117,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+20,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,117,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+21,研究 Vue 3 源码的收获,,117,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+22,面试官让我手写一个 Tool Use，我用了 3 种方案,,117,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+23,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,117,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+24,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,117,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+25,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,117,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+26,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,108,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+27,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+28,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,108,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+29,一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏,,108,https://juejin.cn/post/7692498648035819563,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+30,"还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?",,99,https://juejin.cn/post/7694074227640729634,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+31,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,99,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+32,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,99,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+33,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,99,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+34,GitHub 日榜趋势速报 | 2026-10-06,,99,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+35,React的Virtual DOM、Diff算法和Fiber,,90,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+36,只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏,,90,https://juejin.cn/post/7693165008605396992,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+37,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,90,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+38,线程本地存储 ThreadLocal,,90,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+39,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,90,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+40,Gemini 4 Argon 发布：对 Android 开发者意味着什么？,,81,https://juejin.cn/post/7694033497296781339,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+41,后台管理框架存活率大调查（2026版）,,81,https://juejin.cn/post/7694016286322556969,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+42,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,81,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+43,国庆七天，AI圈没一天消停,,81,https://juejin.cn/post/7694124645507940379,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+44,开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用,,72,https://juejin.cn/post/7693549784162631718,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+45,本地AI绘图全家桶,,72,https://juejin.cn/post/7693414422439034922,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+46,别只让AI解释，让它做个你能看懂的东西,,72,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+47,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+48,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,72,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+49,WinSW在Win7上失败真相-实测与修复,,72,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+50,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 22:14:32
+1,Spring AI Alibaba已停更了，Java还有希望吗？,,1746,https://juejin.cn/post/7693821701955567670,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+2,AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了,,459,https://juejin.cn/post/7693358476032049162,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+3,"9、古代没有程序员，但蒲松龄们早就被""裁员""过了",,405,https://juejin.cn/post/7693144953569493043,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+4,🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了,,396,https://juejin.cn/post/7693757919828901923,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+5,Android 以后可能不会再有横竖屏适配了,,315,https://juejin.cn/post/7694064588329320490,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+6,别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？,,279,https://juejin.cn/post/7693579496969486382,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+7,一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行,,261,https://juejin.cn/post/7693805723602157578,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+8,Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？,,243,https://juejin.cn/post/7693160537133629455,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+9,C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB,,216,https://juejin.cn/post/7693225151681560586,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+10,做全栈是前端骗局还是出路？,,189,https://juejin.cn/post/7694107051320311827,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+11,Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了,,171,https://juejin.cn/post/7693909029785042959,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+12,DeepSeek Harness 桌面端来啦！更便捷更安全的选择,,162,https://juejin.cn/post/7693712140221792271,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+13,Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏,,162,https://juejin.cn/post/7693351700208140288,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+14,SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？,,153,https://juejin.cn/post/7693160537133203471,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+15,A 社为什么反超了,,144,https://juejin.cn/post/7693481478181584932,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+16,AI 帮我投资 85 天，最多赚到 3733 元,,144,https://juejin.cn/post/7693414422438723626,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+17,RAG 面试 6 连问，从原理到优化全部覆盖,,126,https://juejin.cn/post/7693689217004732459,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+18,面试官让我手写一个 Tool Use，我用了 3 种方案,,126,https://juejin.cn/post/7693354909602627647,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+19,Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通,,126,https://juejin.cn/post/7693225151680774154,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+20,Agent 天天挂在嘴边的沙箱，到底是个啥？,,117,https://juejin.cn/post/7693805723601764362,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+21,当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？,,117,https://juejin.cn/post/7693451894564765696,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+22,研究 Vue 3 源码的收获,,117,https://juejin.cn/post/7693406376094892066,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+23,万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品,,117,https://juejin.cn/post/7693225151681396746,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+24,我的 QQ 机器人被腾讯反复踢下线，折腾了半个月才搞明白,,117,https://juejin.cn/post/7693049513120186414,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+25,Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪,,117,https://juejin.cn/post/7692739051067342857,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+26,程序员 Codex 提问急救卡：7 个常用模板＋组合写法,,108,https://juejin.cn/post/7694106511605317658,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+27,"还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?",,108,https://juejin.cn/post/7694074227640729634,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+28,Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍,,108,https://juejin.cn/post/7693018382871691302,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+29,单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全,,99,https://juejin.cn/post/7692881705649193001,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+30,4200万月活、85万行代码，Lovable用6个月把生产应用从Next.js迁到了TanStack Start,,99,https://juejin.cn/post/7694064588329025578,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+31,太吊了！这 2 款网盘工具，让我省 4000 大洋！,,99,https://juejin.cn/post/7693748651005362202,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+32,React的Virtual DOM、Diff算法和Fiber,,99,https://juejin.cn/post/7693420116899463231,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+33,国庆七天，AI圈没一天消停,,99,https://juejin.cn/post/7694124645507940379,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+34,GitHub 日榜趋势速报 | 2026-10-06,,99,https://juejin.cn/post/7692863129294716966,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+35,后台管理框架存活率大调查（2026版）,,90,https://juejin.cn/post/7694016286322556969,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+36,Swift Server，又多了一个 Google -- 肘子的 Swift 周报 #156,,90,https://juejin.cn/post/7693712140221579279,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+37,开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用,,90,https://juejin.cn/post/7693549784162631718,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+38,只用 three.js + OpenStreetMap，手搓一个「成都城市 3D」数据大屏,,90,https://juejin.cn/post/7693165008605396992,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+39,同一个 skill 存了三份：多 agent 环境下的 skill 管理与两款开源工具,,90,https://juejin.cn/post/7693079499384356879,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+40,线程本地存储 ThreadLocal,,90,https://juejin.cn/post/7692977150127603775,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+41,Gemini 4 Argon 发布：对 Android 开发者意味着什么？,,81,https://juejin.cn/post/7694033497296781339,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+42,别只让AI解释，让它做个你能看懂的东西,,81,https://juejin.cn/post/7693358476032524298,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+43,零素材、纯代码：用 Three.js 还原一所真实小学的三维校园大屏,,81,https://juejin.cn/post/7692992192592642083,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+44,WinSW在Win7上失败真相-实测与修复,,81,https://juejin.cn/post/7692881705649586217,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+45,一个网段里 10 个 IP，其实是同一个人：13 天蜜罐日志的攻击者画像,,81,https://juejin.cn/post/7693049513119858734,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+46,LLM 上下文满了别直接报错：Context Eviction 工程实践，5 种淘汰策略的生产对比,,72,https://juejin.cn/post/7693225151681757194,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+47,哪些任务该交给 AI，哪些必须由开发者负责？,,72,https://juejin.cn/post/7693357497911803954,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+48,实战｜用 DeepSeek + SQLite 从零搭建轻量 Text2SQL 查询助手,,72,https://juejin.cn/post/7693414422438248490,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+49,本地AI绘图全家桶,,72,https://juejin.cn/post/7693414422439034922,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
+50,Dart 3 Record：解决 Future.wait 异构返回值的类型问题,,72,https://juejin.cn/post/7692876916257603594,,掘金,热门文章,hot,hotlist,,2026-10-08 23:12:32
