@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-11 23:12:04
+> 更新时间：2026-10-12 05:39:31
 
 ## 每日趋势
 
@@ -82,10 +82,11 @@
 5. [OpenMontage](https://github.com/calesthio/OpenMontage)
 6. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 7. [heretic](https://github.com/p-e-w/heretic)
-8. [MiroFish](https://github.com/666ghj/MiroFish)
-9. [opensre](https://github.com/Tracer-Cloud/opensre)
-10. [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
-11. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+8. [mimic](https://github.com/littledivy/mimic)
+9. [MiroFish](https://github.com/666ghj/MiroFish)
+10. [opensre](https://github.com/Tracer-Cloud/opensre)
+11. [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+12. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 
 ## Go
 
