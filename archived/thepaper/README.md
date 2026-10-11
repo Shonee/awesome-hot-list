@@ -1,26 +1,26 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-12 01:11:13
+> 更新时间：2026-10-12 02:16:46
 
 ## 热新闻
 
 1. [专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减](https://www.thepaper.cn/newsDetail_forward_34231024)
 2. [马上评｜畸形饭圈是怎么操纵低龄粉丝以身试法的？](https://www.thepaper.cn/newsDetail_forward_34227784)
-3. [食品安全法大幅修订回应哪些关切？专家解读](https://www.thepaper.cn/newsDetail_forward_34229428)
-4. [人物｜白宫新任发言人：曾在中国生活三年，上周还不在候选名单上](https://www.thepaper.cn/newsDetail_forward_34227551)
-5. [卧龙大熊猫苑发布关于不文明行为情况的通报：多人终身禁入](https://www.thepaper.cn/newsDetail_forward_34228341)
-6. [言短意长｜又看午休又看晚自习，“家长教师化”并非好事](https://www.thepaper.cn/newsDetail_forward_34232271)
+3. [言短意长｜又看午休又看晚自习，“家长教师化”并非好事](https://www.thepaper.cn/newsDetail_forward_34232271)
+4. [食品安全法大幅修订回应哪些关切？专家解读](https://www.thepaper.cn/newsDetail_forward_34229428)
+5. [人物｜白宫新任发言人：曾在中国生活三年，上周还不在候选名单上](https://www.thepaper.cn/newsDetail_forward_34227551)
+6. [侧记｜民营企业家首次受邀参加上海市咨会，合作、出海成为高频词](https://www.thepaper.cn/newsDetail_forward_34232610)
 7. [英国一男子闯入动物园虎区，近距离手指老虎后被咬身亡](https://www.thepaper.cn/newsDetail_forward_34229838)
 8. [决赛击败佐藤瞳，王曼昱连续第二年夺得中国大满贯女单冠军](https://www.thepaper.cn/newsDetail_forward_34231779)
 9. [生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军](https://www.thepaper.cn/newsDetail_forward_34232410)
 10. [沙特利雅得机场遭袭造成12人死亡309人受伤](https://www.thepaper.cn/newsDetail_forward_34229431)
-11. [美总统：美国有可能加入沙特对胡塞武装的打击行动](https://www.thepaper.cn/newsDetail_forward_34228487)
-12. [电动车长假出行补能痛点仍待解，换电模式“压力测试”表现如何？](https://www.thepaper.cn/newsDetail_forward_34231614)
-13. [美乌吵起来了！泽连斯基怒斥“软弱”，特朗普称乌克兰该换总统](https://www.thepaper.cn/newsDetail_forward_34229698)
-14. [马上评｜堵住“仅退款”规则漏洞，别让维权变套利](https://www.thepaper.cn/newsDetail_forward_34230027)
-15. [美国罪犯被执行死刑失败后出院，对医疗团队的救治表示感谢](https://www.thepaper.cn/newsDetail_forward_34230701)
-16. [吃“儿童装”银鳕鱼检出汞中毒，这锅谁来背？](https://www.thepaper.cn/newsDetail_forward_34229664)
-17. [马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI](https://www.thepaper.cn/newsDetail_forward_34232624)
-18. [中国驻沙特大使馆：利雅得机场遭袭，尚无中国公民伤亡报告](https://www.thepaper.cn/newsDetail_forward_34229516)
-19. [暴雨夜里的废矿盗采者](https://www.thepaper.cn/newsDetail_forward_34223864)
-20. [冰岩崩灾害后：冰川科普不能只讲“冰川在退”，还要直面“冰川会崩”](https://www.thepaper.cn/newsDetail_forward_34211529)
+11. [电动车长假出行补能痛点仍待解，换电模式“压力测试”表现如何？](https://www.thepaper.cn/newsDetail_forward_34231614)
+12. [美乌吵起来了！泽连斯基怒斥“软弱”，特朗普称乌克兰该换总统](https://www.thepaper.cn/newsDetail_forward_34229698)
+13. [马上评｜堵住“仅退款”规则漏洞，别让维权变套利](https://www.thepaper.cn/newsDetail_forward_34230027)
+14. [美国罪犯被执行死刑失败后出院，对医疗团队的救治表示感谢](https://www.thepaper.cn/newsDetail_forward_34230701)
+15. [吃“儿童装”银鳕鱼检出汞中毒，这锅谁来背？](https://www.thepaper.cn/newsDetail_forward_34229664)
+16. [马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI](https://www.thepaper.cn/newsDetail_forward_34232624)
+17. [中国驻沙特大使馆：利雅得机场遭袭，尚无中国公民伤亡报告](https://www.thepaper.cn/newsDetail_forward_34229516)
+18. [暴雨夜里的废矿盗采者](https://www.thepaper.cn/newsDetail_forward_34223864)
+19. [冰岩崩灾害后：冰川科普不能只讲“冰川在退”，还要直面“冰川会崩”](https://www.thepaper.cn/newsDetail_forward_34211529)
+20. [日月谭天丨为何说在当前国际局势下，赖清德的“台独”呓语更显可笑？](https://www.thepaper.cn/newsDetail_forward_34232608)
