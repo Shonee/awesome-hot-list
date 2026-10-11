@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-12 06:13:11
+> 更新时间：2026-10-12 07:12:34
 
 ## 热门文章
 
@@ -28,19 +28,19 @@
 22. [不用反复 nvm use 了：nvm-windows 2.x 按项目自动切换 Node.js](https://juejin.cn/post/7694595399244349483)
 23. [Agent 开发不是模型训练：一个前端的入门认知](https://juejin.cn/post/7694245062440976426)
 24. [GitHub 日榜趋势速报 | 2026-10-09](https://juejin.cn/post/7694124254145724467)
-25. [GitHub 今日推荐｜wordcraft：用 Rust 重写 Word 内核并开放给 AI 调用](https://juejin.cn/post/7694457332278280201)
-26. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://juejin.cn/post/7694199322347110427)
-27. [2026，程序员的时代拐点到了](https://juejin.cn/post/7694882064269967375)
+25. [2026，程序员的时代拐点到了](https://juejin.cn/post/7694882064269967375)
+26. [GitHub 今日推荐｜wordcraft：用 Rust 重写 Word 内核并开放给 AI 调用](https://juejin.cn/post/7694457332278280201)
+27. [夯爆了，谷歌又一强大AI自动化开源神器，Appium慌了！](https://juejin.cn/post/7694199322347110427)
 28. [数据库写成功，MQ 消息却丢了？4 个故障窗口拆透 Transactional Outbox](https://juejin.cn/post/7694664695189798947)
 29. [🔥13年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://juejin.cn/post/7694614473172697107)
 30. [写 Flutter 不用再套六层 Widget 了](https://juejin.cn/post/7694184962662481920)
 31. [告别 Deno 时代？运行时进入一年倒计时，Deno 团队并入 Cloudflare](https://juejin.cn/post/7694572028192276543)
 32. [Kotlin 新特性抢先看：伴生扩展与伴生块](https://juejin.cn/post/7694485613907001390)
 33. [Qwen3.8-27B 本地推理实测：从 14 tok/s 到 159 tok/s 的投机解码调优](https://juejin.cn/post/7694474763449516074)
-34. [多 Agent 系统面试怎么答？我总结了 4 种经典架构](https://juejin.cn/post/7694150823396245545)
-35. [AI 能翻好谐音梗吗](https://juejin.cn/post/7694572028192915519)
-36. [三步改掉 AI 味，附可直接复制的去 AI 味提示词](https://juejin.cn/post/7694481800702558254)
-37. [自由职业和探索AI的这两年时间，分享我的真实经历和感受](https://juejin.cn/post/7694184962662400000)
+34. [自由职业和探索AI的这两年时间，分享我的真实经历和感受](https://juejin.cn/post/7694184962662400000)
+35. [多 Agent 系统面试怎么答？我总结了 4 种经典架构](https://juejin.cn/post/7694150823396245545)
+36. [AI 能翻好谐音梗吗](https://juejin.cn/post/7694572028192915519)
+37. [三步改掉 AI 味，附可直接复制的去 AI 味提示词](https://juejin.cn/post/7694481800702558254)
 38. [轻量开源版 Muse 来了！CopilotKit 开源 OpenMuse，Personal Agent 的工程细节全摊开了](https://juejin.cn/post/7694205589761048591)
 39. [反向背调，豆包工作算是把它玩明白了！](https://juejin.cn/post/7694485613908557870)
 40. [从 0 到 1 搭建 pnpm + Workspaces + Turborepo Monorepo 保姆级指南](https://juejin.cn/post/7694481800677031962)
@@ -48,9 +48,9 @@
 42. [AI工具选型误区：别再迷信海外模型，国产工具已完成场景反超](https://juejin.cn/post/7694239872252756022)
 43. [Spec Kit vs OpenSpec vs Superpowers：8 个 Skill 的落地实录与工程方法论](https://juejin.cn/post/7694184507926495267)
 44. [35个组件，把GPU特效直接跑在真实DOM上：Canvas UI正在重新定义Web视觉](https://juejin.cn/post/7694182514017943593)
-45. [GitHub 日榜趋势速报 | 2026-10-10](https://juejin.cn/post/7694627741413654578)
-46. [JavaScript 反引号（` backtick）和双引号的不完全等价 ≠ 场景](https://juejin.cn/post/7694543859641598006)
+45. [JavaScript 反引号（` backtick）和双引号的不完全等价 ≠ 场景](https://juejin.cn/post/7694543859641598006)
+46. [GitHub 日榜趋势速报 | 2026-10-10](https://juejin.cn/post/7694627741413654578)
 47. [把语音模型塞进手机：sherpa-onnx 在 Android 上的 ASR / TTS](https://juejin.cn/post/7694490288811540520)
 48. [跨电脑复制共享-WebRTC 打洞踩坑](https://juejin.cn/post/7694299604675772451)
-49. [Agent 的记忆系统怎么设计？面试官想听的是这个](https://juejin.cn/post/7694576718062026803)
-50. [前端转型 Agent 开发 06 之 Agent Memory 记忆系统（让 Agent 更智能，更懂你）](https://juejin.cn/post/7694534084638588966)
+49. [从 App 开发到 Unity 游戏开发：建立认知地图，结合 AI 开始实践](https://juejin.cn/post/7694595110122471467)
+50. [Agent 的记忆系统怎么设计？面试官想听的是这个](https://juejin.cn/post/7694576718062026803)
