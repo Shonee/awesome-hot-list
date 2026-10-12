@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-12 15:38:57
+> 更新时间：2026-10-12 16:32:24
 
 ## 热新闻
 
@@ -12,9 +12,9 @@
 6. [电动车长假出行补能痛点仍待解，换电模式“压力测试”表现如何？](https://www.thepaper.cn/newsDetail_forward_34231614)
 7. [生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军](https://www.thepaper.cn/newsDetail_forward_34232410)
 8. [决赛击败佐藤瞳，王曼昱连续第二年夺得中国大满贯女单冠军](https://www.thepaper.cn/newsDetail_forward_34231779)
-9. [媒体：自闭症男童电梯内被一脚踹飞，“息事宁人”不是出路](https://www.thepaper.cn/newsDetail_forward_34233365)
-10. [马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI](https://www.thepaper.cn/newsDetail_forward_34232624)
-11. [马上评｜AI真的会让下一代孩子变笨吗](https://www.thepaper.cn/newsDetail_forward_34235227)
+9. [马上评｜AI真的会让下一代孩子变笨吗](https://www.thepaper.cn/newsDetail_forward_34235227)
+10. [媒体：自闭症男童电梯内被一脚踹飞，“息事宁人”不是出路](https://www.thepaper.cn/newsDetail_forward_34233365)
+11. [马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI](https://www.thepaper.cn/newsDetail_forward_34232624)
 12. [西安通报“一烧烤店厨师在锅边漱口吐水”：情况属实，停业整改](https://www.thepaper.cn/newsDetail_forward_34232054)
 13. [周鸿祎攀岩坠落致左膝粉碎性骨折：未来两三个月所有外出活动取消](https://www.thepaper.cn/newsDetail_forward_34233292)
 14. [博士团解读宁波⑦｜“宁波帮”两百年的创业精神、家国情怀、产业创新和未来发展](https://www.thepaper.cn/newsDetail_forward_34142904)
@@ -23,4 +23,4 @@
 17. [“张雪机车”德比斯：锁定年度车手亚军意义非凡](https://www.thepaper.cn/newsDetail_forward_34233308)
 18. [明确汽车设计、可靠性验证试验管理，四部门划清汽车安全底线](https://www.thepaper.cn/newsDetail_forward_34231613)
 19. [泽连斯基回应特朗普：乌克兰领导人应由乌人民决定](https://www.thepaper.cn/newsDetail_forward_34233139)
-20. [沙特主导联军称利雅得机场航站楼遭袭](https://www.thepaper.cn/newsDetail_forward_34233078)
+20. [哈药股份总裁芦传有被立案留置：去年薪酬近300万元，公司强调生产经营正常](https://www.thepaper.cn/newsDetail_forward_34234248)
