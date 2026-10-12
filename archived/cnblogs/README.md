@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-12 09:43:33
+> 更新时间：2026-10-12 10:33:52
 
 ## 最新帖子
 
-1. [Influxdb时间乱序插入时处理机制理解](https://www.cnblogs.com/zjdxr-up/p/23267023)
-2. [【计算几何】libnest2d之选择器](https://www.cnblogs.com/he-zhidan/p/23266912)
-3. [AI加持的工业三维模型展示为什么我选择网页端而不是再装一套CAD](https://www.cnblogs.com/startechnology/p/23266555)
-4. [Koog(2) —— Koog Agent 的编程模型](https://www.cnblogs.com/joy99/p/23171167)
-5. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
-6. [2026年APP自动化测试工具大全,12款主流工具一次看懂](https://www.cnblogs.com/jinjiangongzuoshi/p/23266272)
-7. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)
-8. [理解帆软报表 SSO 的集成](https://www.cnblogs.com/jyzhao/p/23265936)
-9. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
-10. [技术思考问题7：AI应用越多，人均产出为何不涨？](https://www.cnblogs.com/snidget/p/23263956)
-11. [开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络](https://www.cnblogs.com/myvin/p/23263612)
-12. [ManimCE v0.22.0 发布：输出配置大一统与渲染流程重构](https://www.cnblogs.com/wang_yb/p/23263451)
-13. [来在网页上用threejs画个蛋白质吧](https://www.cnblogs.com/ZiLongZiLong/p/23263411)
-14. [并发编程（1.5）：操作系统层——Thread、Scheduler 与 Runtime 调度](https://www.cnblogs.com/ThinkerQAQ/p/23251859)
-15. [不用 Python 也能跑 YOLO？这个 .NET 库让我扔掉了 OpenCV](https://www.cnblogs.com/shanyou/p/23259541)
-16. [GitHub Actions 工作流 CI/CD 的“发布”](https://www.cnblogs.com/chenby/p/23262361)
-17. [4.	ArkTS凭什么是鸿蒙开发首选？对比 JS/TS 详解语言特性](https://www.cnblogs.com/halfcode/p/23262290)
-18. [[最优化技术] 3-6 修正牛顿法](https://www.cnblogs.com/h-elden/p/23260689)
-19. [嫌桌面 Agent 太重，我“自己”写了一个](https://www.cnblogs.com/donpangpang/p/23261629)
-20. [传感器模块都在交出什么：从模拟电压到数字协议](https://www.cnblogs.com/zw-awa/p/23261573)
+1. [把威联通 NAS 接进 Prometheus 监控](https://www.cnblogs.com/east4ming/p/23267714)
+2. [Java PDF导出，90%的人选错库！11个生产坑+选型+代码，一次讲透](https://www.cnblogs.com/zrui-xyu/p/23267286)
+3. [解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障](https://www.cnblogs.com/alchemystar/p/23263110)
+4. [以轻量 LoopAgent 替代 RAG 实现文档检索](https://www.cnblogs.com/WindrunnerMax/p/23267158)
+5. [【计算几何】libnest2d之选择器](https://www.cnblogs.com/he-zhidan/p/23266912)
+6. [AI加持的工业三维模型展示为什么我选择网页端而不是再装一套CAD](https://www.cnblogs.com/startechnology/p/23266555)
+7. [Koog(2) —— Koog Agent 的编程模型](https://www.cnblogs.com/joy99/p/23171167)
+8. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
+9. [2026年APP自动化测试工具大全,12款主流工具一次看懂](https://www.cnblogs.com/jinjiangongzuoshi/p/23266272)
+10. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)
+11. [理解帆软报表 SSO 的集成](https://www.cnblogs.com/jyzhao/p/23265936)
+12. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
+13. [技术思考问题7：AI应用越多，人均产出为何不涨？](https://www.cnblogs.com/snidget/p/23263956)
+14. [开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络](https://www.cnblogs.com/myvin/p/23263612)
+15. [ManimCE v0.22.0 发布：输出配置大一统与渲染流程重构](https://www.cnblogs.com/wang_yb/p/23263451)
+16. [来在网页上用threejs画个蛋白质吧](https://www.cnblogs.com/ZiLongZiLong/p/23263411)
+17. [并发编程（1.5）：操作系统层——Thread、Scheduler 与 Runtime 调度](https://www.cnblogs.com/ThinkerQAQ/p/23251859)
+18. [不用 Python 也能跑 YOLO？这个 .NET 库让我扔掉了 OpenCV](https://www.cnblogs.com/shanyou/p/23259541)
+19. [GitHub Actions 工作流 CI/CD 的“发布”](https://www.cnblogs.com/chenby/p/23262361)
+20. [4.	ArkTS凭什么是鸿蒙开发首选？对比 JS/TS 详解语言特性](https://www.cnblogs.com/halfcode/p/23262290)
 
 ## 精华帖子
 

@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-12 09:44:24
+> 更新时间：2026-10-12 10:34:30
 
 ## 热点资讯排行
 
@@ -10,8 +10,8 @@
 4. [《生化危机9：安魂曲》女主格蕾丝加盟原因:里昂太猛没恐怖味了](https://www.gamersky.com/news/202610/2225627.shtml)
 5. [《巫师3》玩家遇叶奈法独角兽场景后没穿衣服Bug 网友却求官方复现](https://www.gamersky.com/news/202610/2225652.shtml)
 6. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
-7. [玩家厌倦复杂开放世界 更想玩流程长又简单的线性游戏](https://www.gamersky.com/news/202610/2225434.shtml)
-8. [黑客Cyberleek宣称《GTA6》下一段泄露为露西亚4K视频 并挂出募捐目标](https://www.gamersky.com/news/202610/2225753.shtml)
+7. [黑客Cyberleek宣称《GTA6》下一段泄露为露西亚4K视频 并挂出募捐目标](https://www.gamersky.com/news/202610/2225753.shtml)
+8. [玩家厌倦复杂开放世界 更想玩流程长又简单的线性游戏](https://www.gamersky.com/news/202610/2225434.shtml)
 9. [《太吾异世劫》10月15日登陆Steam 38元首发折扣20%最低24元](https://www.gamersky.com/news/202610/2225555.shtml)
 10. [《血源》社区原生PC移植版再更新：支持4K与120帧 v1.6加入在线功能测试](https://www.gamersky.com/news/202610/2225755.shtml)
 11. [《光与影：33号远征队》强开DLSS5差异巨大 真实质感拉满](https://www.gamersky.com/news/202610/2225661.shtml)
