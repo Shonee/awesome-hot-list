@@ -1,12 +1,12 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-12 23:43:46
+> 更新时间：2026-10-13 00:41:39
 
 ## 每日热点榜
 
 1. [大众ID.ERA 8X限时20.68万起](https://mf.autohome.com.cn/v3/13733)
-2. [坦克500将于10月16日上新](http://www.autohome.com.cn/news/202610/1317694.html)
-3. [理想i6巴黎首秀中国智能车亮相](http://www.autohome.com.cn/news/202610/1317723.html)
+2. [比亚迪大汉今日上市](https://mf.autohome.com.cn/v3/13745)
+3. [坦克500将于10月16日上新](http://www.autohome.com.cn/news/202610/1317694.html)
 4. [江淮汽车市值一度跌破500亿](https://chejiahao.autohome.com.cn/info/26637164#pvareaid=6834132)
 5. [​9月销量：头部创纪录大盘跌三成](https://mf.autohome.com.cn/v3/13741)
 6. [奇瑞就马来西亚车辆问题致歉](http://www.autohome.com.cn/news/202610/1317696.html)
