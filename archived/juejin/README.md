@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-13 06:12:22
+> 更新时间：2026-10-13 07:12:42
 
 ## 热门文章
 
@@ -18,8 +18,8 @@
 12. [Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了](https://juejin.cn/post/7694564397683867688)
 13. [用了Pi基本就回不去了， 如果你也在用Pi， 强烈推荐安装pi-chrome](https://juejin.cn/post/7694504408210767882)
 14. [🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare](https://juejin.cn/post/7695030462259789874)
-15. [开源 Vue 3 组件库 Morya UI：把组件、文档、AI 工具链一起做进一个包](https://juejin.cn/post/7694638437243469864)
-16. [国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘](https://juejin.cn/post/7694614473173352467)
+15. [国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘](https://juejin.cn/post/7694614473173352467)
+16. [开源 Vue 3 组件库 Morya UI：把组件、文档、AI 工具链一起做进一个包](https://juejin.cn/post/7694638437243469864)
 17. [栗子前端技术周刊第 149 期 - Vite+ 1.0、Preact 11、Next.js 16.4...](https://juejin.cn/post/7695079160284446763)
 18. [Kuikly股票查看软件开发体验——SaiRen](https://juejin.cn/post/7694850619532689448)
 19. [数据库写成功，MQ 消息却丢了？4 个故障窗口拆透 Transactional Outbox](https://juejin.cn/post/7694664695189798947)

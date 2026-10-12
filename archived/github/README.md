@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-13 00:41:06
+> 更新时间：2026-10-13 07:12:41
 
 ## 每日趋势
 
@@ -115,7 +115,6 @@
 5. [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 6. [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations)
 7. [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)
-8. [kryo](https://github.com/EsotericSoftware/kryo)
 
 ## JavaScript
 
