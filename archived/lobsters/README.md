@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-12 14:35:27
+> 更新时间：2026-10-12 15:39:54
 
 ## Hottest
 
@@ -17,15 +17,15 @@
 11. [LineageOS 24.0 released](https://lineageos.org/Changelog-32/)
 12. [Refurb weekend II: Alpha Micro Eagle 300 and friends](https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html)
 13. [CSS for underlines](https://www.rubenerd.au/css-for-underlines/)
-14. [When LLM Decompilers Recompile More and Preserve Less](https://arxiv.org/abs/2609.05370)
-15. [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
+14. [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
+15. [When LLM Decompilers Recompile More and Preserve Less](https://arxiv.org/abs/2609.05370)
 16. [How shredding JSON is giving Logfire 1000x query speedups](https://pydantic.dev/articles/dynamic-shredding-2026-01-26)
-17. [Tello's GameSir T1d controller as a Linux Xbox controller](https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/)
-18. [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
+17. [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
+18. [Tello's GameSir T1d controller as a Linux Xbox controller](https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/)
 19. [Consistency is not a localized property](https://n-the-loop.com/blog/consistency-is-not-a-localized-property/)
 20. [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
-21. [What we ended up doing about alias propagation](https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html)
-22. [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
+21. [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
+22. [What we ended up doing about alias propagation](https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html)
 23. [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
 24. [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://blog.scientific-python.org/numpy/searchsorted/)
 25. [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
