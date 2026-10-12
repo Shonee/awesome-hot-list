@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-12 17:27:02
+> 更新时间：2026-10-12 17:59:03
 
 ## 最新帖子
 
-1. [ARTS 1011: 双堆动态对顶求中位数、IPC 注入与空密码串联接管账户与程序从不做决策](https://www.cnblogs.com/leikooo/p/23274507)
-2. [Jev 们不缺判断力，缺的是你的标准](https://www.cnblogs.com/xianxh/p/23274471)
-3. [从 Bun 到 Deno，AI 时代的开发工具正在经历什么？](https://www.cnblogs.com/Qiniu-developer/p/23274436)
-4. [DeepSeek Harness 插件生态解析](https://www.cnblogs.com/znlgis/p/23274216)
-5. [Rust 进程假死问题排查（dragonfly+tokio）](https://www.cnblogs.com/yennie/p/22276475)
-6. [NUIST2026新生&个人赛题解](https://www.cnblogs.com/lemon-dreamland/p/23271579)
-7. [逃逸分析、栈分配与 sync.Pool 对象池](https://www.cnblogs.com/FfHUCisI/p/23271428)
-8. [给 Agent 加了 Redis 还是跨会话失忆，我排查后发现少了一层](https://www.cnblogs.com/uniqueDong/p/23271279)
-9. [大模型到底是什么：一个不断"预测下一个词"的程序](https://www.cnblogs.com/wtang/p/23270762)
-10. [DO 和 AO 到底怎么选：比较器替你决定了什么](https://www.cnblogs.com/zw-awa/p/23270578)
-11. [从 VS Code 的 when 表达式理解解释器的基本原理](https://www.cnblogs.com/Doyoung/p/23270423)
-12. [时间戳与进制转换的那些坑：从 Unix 秒到本地时间的正确姿势](https://www.cnblogs.com/qiguiwl/p/23270321)
-13. [【HarmonyOS API 26 】数字盾服务2.0：硬件级安全的随身虚拟U盾](https://www.cnblogs.com/HarmonyOSSDK/p/23269466)
-14. [Java 26 深度解析：一次“性能兑现 + 契约收紧”的版本](https://www.cnblogs.com/codigger/p/23268976)
-15. [Windows 搭建 ComfyUI 环境 | 小白也能直接上手](https://www.cnblogs.com/roseAT/p/23268699)
-16. [把威联通 NAS 接进 Prometheus 监控](https://www.cnblogs.com/east4ming/p/23267714)
-17. [Java PDF导出，90%的人选错库！11个生产坑+选型+代码，一次讲透](https://www.cnblogs.com/zrui-xyu/p/23267286)
-18. [解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障](https://www.cnblogs.com/alchemystar/p/23263110)
-19. [以轻量 LoopAgent 替代 RAG 实现文档检索](https://www.cnblogs.com/WindrunnerMax/p/23267158)
-20. [AI加持的工业三维模型展示为什么我选择网页端而不是再装一套CAD](https://www.cnblogs.com/startechnology/p/23266555)
+1. [新项目选 Blazor 还是 Razor Pages？我交了学费](https://www.cnblogs.com/shenchuanchao/p/23212983/blazor-vs-razor-pages-new-project-lessons)
+2. [分享一个开源小工具CAdapt](https://www.cnblogs.com/KBin/p/23274863)
+3. [ARTS 1011: 双堆动态对顶求中位数、IPC 注入与空密码串联接管账户与程序从不做决策](https://www.cnblogs.com/leikooo/p/23274507)
+4. [Jev 们不缺判断力，缺的是你的标准](https://www.cnblogs.com/xianxh/p/23274471)
+5. [DeepSeek Harness 插件生态解析](https://www.cnblogs.com/znlgis/p/23274216)
+6. [开源一个 macOS 小工具：集中管理 ChatGPT 的网络启动配置](https://www.cnblogs.com/OliverQiu/p/23273528)
+7. [Rust 进程假死问题排查（dragonfly+tokio）](https://www.cnblogs.com/yennie/p/22276475)
+8. [NUIST2026新生&个人赛题解](https://www.cnblogs.com/lemon-dreamland/p/23271579)
+9. [逃逸分析、栈分配与 sync.Pool 对象池](https://www.cnblogs.com/FfHUCisI/p/23271428)
+10. [给 Agent 加了 Redis 还是跨会话失忆，我排查后发现少了一层](https://www.cnblogs.com/uniqueDong/p/23271279)
+11. [大模型到底是什么：一个不断"预测下一个词"的程序](https://www.cnblogs.com/wtang/p/23270762)
+12. [DO 和 AO 到底怎么选：比较器替你决定了什么](https://www.cnblogs.com/zw-awa/p/23270578)
+13. [从 VS Code 的 when 表达式理解解释器的基本原理](https://www.cnblogs.com/Doyoung/p/23270423)
+14. [时间戳与进制转换的那些坑：从 Unix 秒到本地时间的正确姿势](https://www.cnblogs.com/qiguiwl/p/23270321)
+15. [【HarmonyOS API 26 】数字盾服务2.0：硬件级安全的随身虚拟U盾](https://www.cnblogs.com/HarmonyOSSDK/p/23269466)
+16. [Java 26 深度解析：一次“性能兑现 + 契约收紧”的版本](https://www.cnblogs.com/codigger/p/23268976)
+17. [Windows 搭建 ComfyUI 环境 | 小白也能直接上手](https://www.cnblogs.com/roseAT/p/23268699)
+18. [把威联通 NAS 接进 Prometheus 监控](https://www.cnblogs.com/east4ming/p/23267714)
+19. [Java PDF导出，90%的人选错库！11个生产坑+选型+代码，一次讲透](https://www.cnblogs.com/zrui-xyu/p/23267286)
+20. [解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障](https://www.cnblogs.com/alchemystar/p/23263110)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [使用C#.net10 winform+antdui全新重构版本lol小助手四](https://www.cnblogs.com/sc-Free-Die/p/23253415)
-2. [一个 PHP 大佬，用 C# 手搓了一个分布式数据库](https://www.cnblogs.com/shanyou/p/23256822)
-3. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
-4. [不用 Python 也能跑 YOLO？这个 .NET 库让我扔掉了 OpenCV](https://www.cnblogs.com/shanyou/p/23259541)
-5. [10个 Github 贼火火的、又实用的工具.Net开源项目](https://www.cnblogs.com/chingho/p/23261099)
-6. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
+1. [不用 Python 也能跑 YOLO？这个 .NET 库让我扔掉了 OpenCV](https://www.cnblogs.com/shanyou/p/23259541)
+2. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
+3. [一个 PHP 大佬，用 C# 手搓了一个分布式数据库](https://www.cnblogs.com/shanyou/p/23256822)
+4. [10个 Github 贼火火的、又实用的工具.Net开源项目](https://www.cnblogs.com/chingho/p/23261099)
+5. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
+6. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)

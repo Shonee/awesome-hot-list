@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-12 17:27:24
+> 更新时间：2026-10-12 17:59:42
 
 ## 热点资讯排行
 
@@ -14,8 +14,8 @@
 8. [小孩又夺冠了！曾卓君再次证明自己 全胜登顶](https://www.gamersky.com/news/202610/2225840.shtml)
 9. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
 10. [《太吾异世劫》10月15日登陆Steam 38元首发折扣20%最低24元](https://www.gamersky.com/news/202610/2225555.shtml)
-11. [玩家厌倦复杂开放世界 更想玩流程长又简单的线性游戏](https://www.gamersky.com/news/202610/2225434.shtml)
-12. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+11. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+12. [玩家厌倦复杂开放世界 更想玩流程长又简单的线性游戏](https://www.gamersky.com/news/202610/2225434.shtml)
 13. [《血源》社区原生PC移植版再更新：支持4K与120帧 v1.6加入在线功能测试](https://www.gamersky.com/news/202610/2225755.shtml)
 14. [久仰大名 国外粉丝飞7000公里找中国师傅维修5090](https://www.gamersky.com/hardware/202610/2225590.shtml)
 15. [小米18 Pro Max玩《黑神话》实机 博主直呼震惊](https://www.gamersky.com/news/202610/2225605.shtml)
