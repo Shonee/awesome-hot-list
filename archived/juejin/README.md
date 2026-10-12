@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-12 20:26:58
+> 更新时间：2026-10-12 21:12:55
 
 ## 热门文章
 
@@ -13,15 +13,15 @@
 7. [为什么我劝应届生不要去创业公司写前端？](https://juejin.cn/post/7694972872189050934)
 8. [一只离线鼠鼠，干翻了一堆在线格式转换网站](https://juejin.cn/post/7694628974492270643)
 9. [乱序HTML流正式进入浏览器：前端流式渲染的“框架特权”被终结了](https://juejin.cn/post/7694614473172566035)
-10. [Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了](https://juejin.cn/post/7694564397683867688)
-11. [🔥13年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://juejin.cn/post/7694614473172697107)
+10. [🔥13年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）](https://juejin.cn/post/7694614473172697107)
+11. [Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了](https://juejin.cn/post/7694564397683867688)
 12. [不用反复 nvm use 了：nvm-windows 2.x 按项目自动切换 Node.js](https://juejin.cn/post/7694595399244349483)
 13. [用了Pi基本就回不去了， 如果你也在用Pi， 强烈推荐安装pi-chrome](https://juejin.cn/post/7694504408210767882)
 14. [Qwen3.8-27B 本地推理实测：从 14 tok/s 到 159 tok/s 的投机解码调优](https://juejin.cn/post/7694474763449516074)
 15. [数据库写成功，MQ 消息却丢了？4 个故障窗口拆透 Transactional Outbox](https://juejin.cn/post/7694664695189798947)
 16. [告别 Deno 时代？运行时进入一年倒计时，Deno 团队并入 Cloudflare](https://juejin.cn/post/7694572028192276543)
-17. [栗子前端技术周刊第 149 期 - Vite+ 1.0、Preact 11、Next.js 16.4...](https://juejin.cn/post/7695079160284446763)
-18. [🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare](https://juejin.cn/post/7695030462259789874)
+17. [🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare](https://juejin.cn/post/7695030462259789874)
+18. [栗子前端技术周刊第 149 期 - Vite+ 1.0、Preact 11、Next.js 16.4...](https://juejin.cn/post/7695079160284446763)
 19. [Kuikly股票查看软件开发体验——SaiRen](https://juejin.cn/post/7694850619532689448)
 20. [开源 Vue 3 组件库 Morya UI：把组件、文档、AI 工具链一起做进一个包](https://juejin.cn/post/7694638437243469864)
 21. [国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘](https://juejin.cn/post/7694614473173352467)
@@ -44,13 +44,13 @@
 38. [XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化](https://juejin.cn/post/7694528634821312550)
 39. [端侧推理排查实录：为什么我的手机跑 LLM 比别人慢 80 倍](https://juejin.cn/post/7694506513244241935)
 40. [做了几个 Agent 项目后，我发现：真正拉开 AI 产品经理差距的，不是技术](https://juejin.cn/post/7694504297989832755)
-41. [苏格拉底式提问法，也许是AI时代最稀缺的能力](https://juejin.cn/post/7695553701473943606)
-42. [Agent 工程化面试：从开发到部署的 5 个关键问题](https://juejin.cn/post/7694952423995703322)
-43. [Android Compose版本的AI组件库来了。](https://juejin.cn/post/7694909399427694630)
-44. [🏮 我把三坊七巷做成了能飞的 3D 地图（901 个真实建筑轮廓、20 处景点，在线直接玩）](https://juejin.cn/post/7694908808569192489)
-45. [AI 热点日报（2026-10-01~10-10）：GPT-6全量免费开放，AMD收购世界模型公司，AI更名超级智能](https://juejin.cn/post/7694834709335883817)
-46. [企业级Harness开源平台BizBuddy适配AgentScope-2.0.4并发布0.7.0版本](https://juejin.cn/post/7694598190922760246)
-47. [【别再到处找免费股票数据API了：官方204个接口，32篇一次讲透 #25】北交所财务技术指标难搞？12个接口，报表+MACD全拿](https://juejin.cn/post/7694585529149423654)
-48. [三天11万星的逆天开源REA，逆向分析一切，软件开发的门槛被打到了零，最该慌的为什么不是大厂？](https://juejin.cn/post/7695604296682930186)
+41. [三天11万星的逆天开源REA，逆向分析一切，软件开发的门槛被打到了零，最该慌的为什么不是大厂？](https://juejin.cn/post/7695604296682930186)
+42. [苏格拉底式提问法，也许是AI时代最稀缺的能力](https://juejin.cn/post/7695553701473943606)
+43. [Agent 工程化面试：从开发到部署的 5 个关键问题](https://juejin.cn/post/7694952423995703322)
+44. [Android Compose版本的AI组件库来了。](https://juejin.cn/post/7694909399427694630)
+45. [🏮 我把三坊七巷做成了能飞的 3D 地图（901 个真实建筑轮廓、20 处景点，在线直接玩）](https://juejin.cn/post/7694908808569192489)
+46. [AI 热点日报（2026-10-01~10-10）：GPT-6全量免费开放，AMD收购世界模型公司，AI更名超级智能](https://juejin.cn/post/7694834709335883817)
+47. [企业级Harness开源平台BizBuddy适配AgentScope-2.0.4并发布0.7.0版本](https://juejin.cn/post/7694598190922760246)
+48. [【别再到处找免费股票数据API了：官方204个接口，32篇一次讲透 #25】北交所财务技术指标难搞？12个接口，报表+MACD全拿](https://juejin.cn/post/7694585529149423654)
 49. [【升级】一个中国历史可视化站：皇帝时间线梳理、古代思想流派、诗词鉴赏 (2)](https://juejin.cn/post/7695391952385949723)
 50. [提示词注入：AI 时代的「SQL 注入」](https://juejin.cn/post/7694614473174089747)
