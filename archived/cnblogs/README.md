@@ -1,16 +1,16 @@
 # 博客园热榜
 
-> 更新时间：2026-10-12 19:42:15
+> 更新时间：2026-10-12 20:27:02
 
 ## 最新帖子
 
-1. [一文搞懂 Agent Memory：AI 是如何记住你说过的话的？](https://www.cnblogs.com/Tomorrowland/p/23276386)
-2. [新项目选 Blazor 还是 Razor Pages？我交了学费](https://www.cnblogs.com/shenchuanchao/p/23212983/blazor-vs-razor-pages-new-project-lessons)
-3. [分享一个开源小工具CAdapt](https://www.cnblogs.com/KBin/p/23274863)
-4. [ARTS 1011: 双堆动态对顶求中位数、IPC 注入与空密码串联接管账户与程序从不做决策](https://www.cnblogs.com/leikooo/p/23274507)
-5. [Jev 们不缺判断力，缺的是你的标准](https://www.cnblogs.com/xianxh/p/23274471)
-6. [DeepSeek Harness 插件生态解析](https://www.cnblogs.com/znlgis/p/23274216)
-7. [开源一个 macOS 小工具：集中管理 ChatGPT 的网络启动配置](https://www.cnblogs.com/OliverQiu/p/23273528)
+1. [从 0 到 1：Electron41 + Vite8 + OpenAI SDK 接入 DeepSeek-V4.1-Flash 桌面端AI系统](https://www.cnblogs.com/yxybox/p/23276711)
+2. [一文搞懂 Agent Memory：AI 是如何记住你说过的话的？](https://www.cnblogs.com/Tomorrowland/p/23276386)
+3. [新项目选 Blazor 还是 Razor Pages？我交了学费](https://www.cnblogs.com/shenchuanchao/p/23212983/blazor-vs-razor-pages-new-project-lessons)
+4. [分享一个开源小工具CAdapt](https://www.cnblogs.com/KBin/p/23274863)
+5. [ARTS 1011: 双堆动态对顶求中位数、IPC 注入与空密码串联接管账户与程序从不做决策](https://www.cnblogs.com/leikooo/p/23274507)
+6. [Jev 们不缺判断力，缺的是你的标准](https://www.cnblogs.com/xianxh/p/23274471)
+7. [DeepSeek Harness 插件生态解析](https://www.cnblogs.com/znlgis/p/23274216)
 8. [Rust 进程假死问题排查（dragonfly+tokio）](https://www.cnblogs.com/yennie/p/22276475)
 9. [NUIST2026新生&个人赛题解](https://www.cnblogs.com/lemon-dreamland/p/23271579)
 10. [逃逸分析、栈分配与 sync.Pool 对象池](https://www.cnblogs.com/FfHUCisI/p/23271428)
@@ -53,6 +53,6 @@
 1. [不用 Python 也能跑 YOLO？这个 .NET 库让我扔掉了 OpenCV](https://www.cnblogs.com/shanyou/p/23259541)
 2. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
 3. [一个 PHP 大佬，用 C# 手搓了一个分布式数据库](https://www.cnblogs.com/shanyou/p/23256822)
-4. [10个 Github 贼火火的、又实用的工具.Net开源项目](https://www.cnblogs.com/chingho/p/23261099)
-5. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
+4. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
+5. [10个 Github 贼火火的、又实用的工具.Net开源项目](https://www.cnblogs.com/chingho/p/23261099)
 6. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)

@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-12 19:42:42
+> 更新时间：2026-10-12 20:27:31
 
 ## 每日热点榜
 
@@ -14,23 +14,22 @@
 8. [坦克500将于10月16日上新](http://www.autohome.com.cn/news/202610/1317694.html)
 9. [本田混动系统定名HondaHybrid](https://chejiahao.autohome.com.cn/info/26635014#pvareaid=6834132)
 10. [加油新规11月1日起全面实施](http://club.autohome.com.cn/bbs/thread/344ad8e2c8e4b41b/116375398-1.html)
-11. [全新奥迪Q7实车亮相](http://www.autohome.com.cn/news/202610/1317707.html)
-12. [宝马调整在华战略](http://www.autohome.com.cn/news/202610/1317702.html)
-13. [问界计划2027年进军欧洲市场](http://www.autohome.com.cn/news/202610/1317710.html)
-14. [BMW新世代概念车中国首秀](http://www.autohome.com.cn/news/202610/1317689.html)
-15. [2026巴黎车展：斯柯达Epiq/Peaq亮相](http://www.autohome.com.cn/news/202610/1317713.html)
-16. [腾势N8三大全新车色公布](http://club.autohome.com.cn/bbs/thread/c071fef6d4c94cd6/116382098-1.html)
-17. [远程星享M7E上市专享价11.39万](http://www.autohome.com.cn/news/202610/1317692.html)
-18. [奔驰全新GLA和AMG CLA实车亮相](http://www.autohome.com.cn/news/202610/1317712.html)
+11. [宝马调整在华战略](http://www.autohome.com.cn/news/202610/1317702.html)
+12. [全新奥迪Q7实车亮相](http://www.autohome.com.cn/news/202610/1317707.html)
+13. [奔驰全新GLA和AMG CLA实车亮相](http://www.autohome.com.cn/news/202610/1317712.html)
+14. [远程星享M7E正式上市](http://www.autohome.com.cn/news/202610/1317692.html)
+15. [BMW新世代概念车中国首秀](http://www.autohome.com.cn/news/202610/1317689.html)
+16. [问界计划2027年进军欧洲市场](http://www.autohome.com.cn/news/202610/1317710.html)
+17. [2026巴黎车展：斯柯达Epiq/Peaq亮相](http://www.autohome.com.cn/news/202610/1317713.html)
+18. [腾势N8三大全新车色公布](http://club.autohome.com.cn/bbs/thread/c071fef6d4c94cd6/116382098-1.html)
 19. [魏牌二代蓝山开启盲订](https://chejiahao.autohome.com.cn/info/26626485#pvareaid=6834132)
 20. [传祺向往M8 PHEV宗师激光雷达版推OTA升级](http://www.autohome.com.cn/news/202610/1317676.html)
-21. [捷途旅行者7将于10月14日上市](http://www.autohome.com.cn/news/202610/1317667.html)
-22. [荣威家越X7内饰谍照曝光](http://www.autohome.com.cn/news/202610/1317670.html)
-23. [疑似东风奕派M7曝光](http://www.autohome.com.cn/news/202610/1317675.html)
+21. [欧宝/沃克斯豪尔发布STX概念车](http://www.autohome.com.cn/news/202610/1317708.html)
+22. [捷途旅行者7将于10月14日上市](http://www.autohome.com.cn/news/202610/1317667.html)
+23. [荣威家越X7内饰谍照曝光](http://www.autohome.com.cn/news/202610/1317670.html)
 24. [两辆特斯拉Model Y在高架桥上开斗气车](https://chejiahao.autohome.com.cn/info/26624205#pvareaid=6834132)
 25. [奇瑞Stockman皮卡参数曝光](http://www.autohome.com.cn/news/202610/1317659.html)
 26. [保时捷Manthey 30周年特别版赛车官图发布](http://www.autohome.com.cn/news/202610/1317687.html)
-27. [欧宝/沃克斯豪尔发布STX概念车](http://www.autohome.com.cn/news/202610/1317708.html)
-28. [特斯拉新专利曝光](http://www.autohome.com.cn/news/202610/1317660.html)
-29. [宝马iX3将于10月16日开启巡展](https://chejiahao.autohome.com.cn/info/26635201#pvareaid=6834132)
-30. [东京警署新设自动驾驶专部](https://chejiahao.autohome.com.cn/info/26627559#pvareaid=6834132)
+27. [特斯拉新专利曝光](http://www.autohome.com.cn/news/202610/1317660.html)
+28. [宝马iX3将于10月16日开启巡展](https://chejiahao.autohome.com.cn/info/26635201#pvareaid=6834132)
+29. [东京警署新设自动驾驶专部](https://chejiahao.autohome.com.cn/info/26627559#pvareaid=6834132)

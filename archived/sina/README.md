@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-12 19:42:41
+> 更新时间：2026-10-12 20:27:28
 
 ## 新闻热榜
 
@@ -16,14 +16,14 @@
 10. [潘良，受贿数额特别巨大](https://news.sina.com.cn/o/2026-10-12/doc-iniuxrzp7171344.shtml)
 11. [决赛前紧张到呕吐，郑钦文：最后那口气我顶住了](https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuwqpv5510659.shtml)
 12. [尊界最新回应！有人称“定金不退也不提车”，人民日报：刹车踏板绝不应在驾驶中“断裂”](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtt8553090.shtml)
-13. [工业富联、立讯精密回应美国337调查](https://news.sina.com.cn/c/2026-10-12/doc-iniuwuvz8619905.shtml)
-14. [尤文米兰同时做客皆平 足彩头奖开393注22945元](https://sports.sina.com.cn/l/2026-10-12/doc-iniuxmtm5358805.shtml)
+13. [尤文米兰同时做客皆平 足彩头奖开393注22945元](https://sports.sina.com.cn/l/2026-10-12/doc-iniuxmtm5358805.shtml)
+14. [工业富联、立讯精密回应美国337调查](https://news.sina.com.cn/c/2026-10-12/doc-iniuwuvz8619905.shtml)
 15. [大面积荒废！总台曝光：个别地区蔬菜大棚撂荒](https://news.sina.com.cn/s/2026-10-11/doc-iniuwkha0489779.shtml)
 16. [媒体：一脚踹飞自闭症男童，“息事宁人”不是出路](https://news.sina.com.cn/c/2026-10-12/doc-iniuwuvz8661637.shtml)
 17. [机场遭袭致数百人死伤，多个国家发出旅行警告，沙特与胡塞武装进入高强度对抗？](https://news.sina.com.cn/zx/2026-10-12/doc-iniuxmtq0383294.shtml)
 18. [“张雪机车”德比斯：锁定年度车手亚军意义非凡](https://news.sina.com.cn/c/2026-10-12/doc-iniuwqqc8704920.shtml)
-19. [沙特遭遇十年来最惨袭击](https://finance.sina.com.cn/wm/2026-10-11/doc-iniuwkfx5635257.shtml)
-20. [挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmv8563539.shtml)
+19. [[新浪彩票]足彩第26139期任九：吉达国民不败](https://sports.sina.com.cn/l/2026-10-12/doc-iniuxmtr7147430.shtml)
+20. [沙特遭遇十年来最惨袭击](https://finance.sina.com.cn/wm/2026-10-11/doc-iniuwkfx5635257.shtml)
 
 ## 财经热榜
 
@@ -42,8 +42,8 @@
 13. [都是千年的狐狸，玩什么聊斋](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxmtm5357716.shtml)
 14. [A股公司年内分红总额超2万亿元 “一年多次分红”渐成常态](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmv8587881.shtml)
 15. [我不是药神原型陆勇即将停药](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwim7208950.shtml)
-16. [央视曝投资1.2亿项目仅建成5个棚，空壳公司成立9天承接项目骗钱，村民：村里和当地政府也找不到这家公司了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxrzn0413574.shtml)
-17. [“尊界V800刹车风波”引关注 记者两度探访南京线下门店](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5385129.shtml)
-18. [证监会召开资本市场和金融形势专家座谈会  与会专家建议：进一步拓宽中长期资金来源、渠道和入市方式](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuwuvt5429918.shtml)
+16. [“尊界V800刹车风波”引关注 记者两度探访南京线下门店](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5385129.shtml)
+17. [证监会召开资本市场和金融形势专家座谈会  与会专家建议：进一步拓宽中长期资金来源、渠道和入市方式](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuwuvt5429918.shtml)
+18. [央视曝投资1.2亿项目仅建成5个棚，空壳公司成立9天承接项目骗钱，村民：村里和当地政府也找不到这家公司了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxrzn0413574.shtml)
 19. [伊朗称美国已接受伊方所提部分条件](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5450390.shtml)
 20. [今天打新！航天线缆第一股来了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmv8620286.shtml)
