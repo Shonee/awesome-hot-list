@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-12 16:32:16
+> 更新时间：2026-10-12 17:27:02
 
 ## 最新帖子
 
-1. [Rust 进程假死问题排查（dragonfly+tokio）](https://www.cnblogs.com/yennie/p/22276475)
-2. [NUIST2026新生&个人赛题解](https://www.cnblogs.com/lemon-dreamland/p/23271579)
-3. [逃逸分析、栈分配与 sync.Pool 对象池](https://www.cnblogs.com/FfHUCisI/p/23271428)
-4. [给 Agent 加了 Redis 还是跨会话失忆，我排查后发现少了一层](https://www.cnblogs.com/uniqueDong/p/23271279)
-5. [大模型到底是什么：一个不断"预测下一个词"的程序](https://www.cnblogs.com/wtang/p/23270762)
-6. [DO 和 AO 到底怎么选：比较器替你决定了什么](https://www.cnblogs.com/zw-awa/p/23270578)
-7. [从 VS Code 的 when 表达式理解解释器的基本原理](https://www.cnblogs.com/Doyoung/p/23270423)
-8. [时间戳与进制转换的那些坑：从 Unix 秒到本地时间的正确姿势](https://www.cnblogs.com/qiguiwl/p/23270321)
-9. [【HarmonyOS API 26 】数字盾服务2.0：硬件级安全的随身虚拟U盾](https://www.cnblogs.com/HarmonyOSSDK/p/23269466)
-10. [Java 26 深度解析：一次“性能兑现 + 契约收紧”的版本](https://www.cnblogs.com/codigger/p/23268976)
-11. [Windows 搭建 ComfyUI 环境 | 小白也能直接上手](https://www.cnblogs.com/roseAT/p/23268699)
-12. [把威联通 NAS 接进 Prometheus 监控](https://www.cnblogs.com/east4ming/p/23267714)
-13. [Java PDF导出，90%的人选错库！11个生产坑+选型+代码，一次讲透](https://www.cnblogs.com/zrui-xyu/p/23267286)
-14. [解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障](https://www.cnblogs.com/alchemystar/p/23263110)
-15. [以轻量 LoopAgent 替代 RAG 实现文档检索](https://www.cnblogs.com/WindrunnerMax/p/23267158)
-16. [AI加持的工业三维模型展示为什么我选择网页端而不是再装一套CAD](https://www.cnblogs.com/startechnology/p/23266555)
-17. [Koog(2) —— Koog Agent 的编程模型](https://www.cnblogs.com/joy99/p/23171167)
-18. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
-19. [2026年APP自动化测试工具大全,12款主流工具一次看懂](https://www.cnblogs.com/jinjiangongzuoshi/p/23266272)
-20. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)
+1. [ARTS 1011: 双堆动态对顶求中位数、IPC 注入与空密码串联接管账户与程序从不做决策](https://www.cnblogs.com/leikooo/p/23274507)
+2. [Jev 们不缺判断力，缺的是你的标准](https://www.cnblogs.com/xianxh/p/23274471)
+3. [从 Bun 到 Deno，AI 时代的开发工具正在经历什么？](https://www.cnblogs.com/Qiniu-developer/p/23274436)
+4. [DeepSeek Harness 插件生态解析](https://www.cnblogs.com/znlgis/p/23274216)
+5. [Rust 进程假死问题排查（dragonfly+tokio）](https://www.cnblogs.com/yennie/p/22276475)
+6. [NUIST2026新生&个人赛题解](https://www.cnblogs.com/lemon-dreamland/p/23271579)
+7. [逃逸分析、栈分配与 sync.Pool 对象池](https://www.cnblogs.com/FfHUCisI/p/23271428)
+8. [给 Agent 加了 Redis 还是跨会话失忆，我排查后发现少了一层](https://www.cnblogs.com/uniqueDong/p/23271279)
+9. [大模型到底是什么：一个不断"预测下一个词"的程序](https://www.cnblogs.com/wtang/p/23270762)
+10. [DO 和 AO 到底怎么选：比较器替你决定了什么](https://www.cnblogs.com/zw-awa/p/23270578)
+11. [从 VS Code 的 when 表达式理解解释器的基本原理](https://www.cnblogs.com/Doyoung/p/23270423)
+12. [时间戳与进制转换的那些坑：从 Unix 秒到本地时间的正确姿势](https://www.cnblogs.com/qiguiwl/p/23270321)
+13. [【HarmonyOS API 26 】数字盾服务2.0：硬件级安全的随身虚拟U盾](https://www.cnblogs.com/HarmonyOSSDK/p/23269466)
+14. [Java 26 深度解析：一次“性能兑现 + 契约收紧”的版本](https://www.cnblogs.com/codigger/p/23268976)
+15. [Windows 搭建 ComfyUI 环境 | 小白也能直接上手](https://www.cnblogs.com/roseAT/p/23268699)
+16. [把威联通 NAS 接进 Prometheus 监控](https://www.cnblogs.com/east4ming/p/23267714)
+17. [Java PDF导出，90%的人选错库！11个生产坑+选型+代码，一次讲透](https://www.cnblogs.com/zrui-xyu/p/23267286)
+18. [解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障](https://www.cnblogs.com/alchemystar/p/23263110)
+19. [以轻量 LoopAgent 替代 RAG 实现文档检索](https://www.cnblogs.com/WindrunnerMax/p/23267158)
+20. [AI加持的工业三维模型展示为什么我选择网页端而不是再装一套CAD](https://www.cnblogs.com/startechnology/p/23266555)
 
 ## 精华帖子
 
