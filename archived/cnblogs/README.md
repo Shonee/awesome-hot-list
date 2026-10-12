@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-12 13:20:16
+> 更新时间：2026-10-12 14:33:27
 
 ## 最新帖子
 
-1. [从 VS Code 的 when 表达式理解解释器的基本原理](https://www.cnblogs.com/Doyoung/p/23270423)
-2. [从167家到94家：数据库厂商少了近一半，DolphinDB凭什么留下来](https://www.cnblogs.com/squall-freedom-lrq/p/23270406)
-3. [时间戳与进制转换的那些坑：从 Unix 秒到本地时间的正确姿势](https://www.cnblogs.com/qiguiwl/p/23270321)
-4. [【HarmonyOS API 26 】数字盾服务2.0：硬件级安全的随身虚拟U盾](https://www.cnblogs.com/HarmonyOSSDK/p/23269466)
-5. [基于 uni-app + Vue3 接入 DeepSeek 的智能对话应用](https://www.cnblogs.com/yxybox/p/23269026)
-6. [Java 26 深度解析：一次“性能兑现 + 契约收紧”的版本](https://www.cnblogs.com/codigger/p/23268976)
-7. [Windows 搭建 ComfyUI 环境 | 小白也能直接上手](https://www.cnblogs.com/roseAT/p/23268699)
-8. [把威联通 NAS 接进 Prometheus 监控](https://www.cnblogs.com/east4ming/p/23267714)
-9. [Java PDF导出，90%的人选错库！11个生产坑+选型+代码，一次讲透](https://www.cnblogs.com/zrui-xyu/p/23267286)
-10. [解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障](https://www.cnblogs.com/alchemystar/p/23263110)
-11. [以轻量 LoopAgent 替代 RAG 实现文档检索](https://www.cnblogs.com/WindrunnerMax/p/23267158)
-12. [AI加持的工业三维模型展示为什么我选择网页端而不是再装一套CAD](https://www.cnblogs.com/startechnology/p/23266555)
-13. [Koog(2) —— Koog Agent 的编程模型](https://www.cnblogs.com/joy99/p/23171167)
-14. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
-15. [2026年APP自动化测试工具大全,12款主流工具一次看懂](https://www.cnblogs.com/jinjiangongzuoshi/p/23266272)
-16. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)
-17. [理解帆软报表 SSO 的集成](https://www.cnblogs.com/jyzhao/p/23265936)
-18. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
-19. [技术思考问题7：AI应用越多，人均产出为何不涨？](https://www.cnblogs.com/snidget/p/23263956)
-20. [开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络](https://www.cnblogs.com/myvin/p/23263612)
+1. [逃逸分析、栈分配与 sync.Pool 对象池](https://www.cnblogs.com/FfHUCisI/p/23271428)
+2. [给 Agent 加了 Redis 还是跨会话失忆，我排查后发现少了一层](https://www.cnblogs.com/uniqueDong/p/23271279)
+3. [大模型到底是什么：一个不断"预测下一个词"的程序](https://www.cnblogs.com/wtang/p/23270762)
+4. [DO 和 AO 到底怎么选：比较器替你决定了什么](https://www.cnblogs.com/zw-awa/p/23270578)
+5. [从 VS Code 的 when 表达式理解解释器的基本原理](https://www.cnblogs.com/Doyoung/p/23270423)
+6. [时间戳与进制转换的那些坑：从 Unix 秒到本地时间的正确姿势](https://www.cnblogs.com/qiguiwl/p/23270321)
+7. [【HarmonyOS API 26 】数字盾服务2.0：硬件级安全的随身虚拟U盾](https://www.cnblogs.com/HarmonyOSSDK/p/23269466)
+8. [Java 26 深度解析：一次“性能兑现 + 契约收紧”的版本](https://www.cnblogs.com/codigger/p/23268976)
+9. [Windows 搭建 ComfyUI 环境 | 小白也能直接上手](https://www.cnblogs.com/roseAT/p/23268699)
+10. [把威联通 NAS 接进 Prometheus 监控](https://www.cnblogs.com/east4ming/p/23267714)
+11. [Java PDF导出，90%的人选错库！11个生产坑+选型+代码，一次讲透](https://www.cnblogs.com/zrui-xyu/p/23267286)
+12. [解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障](https://www.cnblogs.com/alchemystar/p/23263110)
+13. [以轻量 LoopAgent 替代 RAG 实现文档检索](https://www.cnblogs.com/WindrunnerMax/p/23267158)
+14. [AI加持的工业三维模型展示为什么我选择网页端而不是再装一套CAD](https://www.cnblogs.com/startechnology/p/23266555)
+15. [Koog(2) —— Koog Agent 的编程模型](https://www.cnblogs.com/joy99/p/23171167)
+16. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
+17. [2026年APP自动化测试工具大全,12款主流工具一次看懂](https://www.cnblogs.com/jinjiangongzuoshi/p/23266272)
+18. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)
+19. [理解帆软报表 SSO 的集成](https://www.cnblogs.com/jyzhao/p/23265936)
+20. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
 
 ## 精华帖子
 
