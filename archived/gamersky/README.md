@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-12 12:00:13
+> 更新时间：2026-10-12 12:34:08
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 12. [久仰大名 国外粉丝飞7000公里找中国师傅维修5090](https://www.gamersky.com/hardware/202610/2225590.shtml)
 13. [《光与影：33号远征队》强开DLSS5差异巨大 真实质感拉满](https://www.gamersky.com/news/202610/2225661.shtml)
-14. [超进化！《古墓丽影：亚特兰蒂斯遗迹》劳拉标志外观首曝 太飒了](https://www.gamersky.com/news/202610/2225537.shtml)
-15. [小米18 Pro Max玩《黑神话》实机 博主直呼震惊](https://www.gamersky.com/news/202610/2225605.shtml)
+14. [小米18 Pro Max玩《黑神话》实机 博主直呼震惊](https://www.gamersky.com/news/202610/2225605.shtml)
+15. [超进化！《古墓丽影：亚特兰蒂斯遗迹》劳拉标志外观首曝 太飒了](https://www.gamersky.com/news/202610/2225537.shtml)
