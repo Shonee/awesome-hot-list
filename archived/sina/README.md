@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 03:40:07
+> 更新时间：2026-10-13 04:13:58
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [从一辆皮卡看到“在中国、为世界”的价值跃迁](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxfmt7238865.shtml)
-2. [百亿私募大佬爆料：国内科技股大跌，是险资砸的盘](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxmtr7291365.shtml)
-3. [外部扰动不改A股内在韧性 机构建议聚焦业绩确定性标的](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuwuvt5429967.shtml)
-4. [新华传媒强势10连板，区间暴涨近160%！龙虎榜揭秘：中小投资者为主力推手](https://finance.sina.com.cn/tob/2026-10-12/doc-iniuxrzr8507191.shtml)
-5. [外交部：美方应当慎重处理台湾问题](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuyarc5312459.shtml)
-6. [外交部：对尼泊尔方面表示慰问 愿根据尼方需要提供力所能及的帮助](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyarc5315459.shtml)
-7. [吴清将参加2026金融街论坛年会并发表主题演讲](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyarh0529874.shtml)
-8. [男子楼上百日宴楼下婚宴被疑重婚 官方：不构成重婚](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyarc5293234.shtml)
-9. [财经早报丨吴清座谈会释放重要信号！诺贝尔经济学奖今日揭晓丨2026年10月12日](https://finance.sina.com.cn/stock/y/2026-10-12/doc-iniuxfmp5479293.shtml)
-10. [13%！问界欧洲扩张提速、宁德时代合作落地，赛力斯午后直线拉升](https://finance.sina.com.cn/stock/hkstock/2026-10-12/doc-iniuyarm8430378.shtml)
-11. [逆向灭霸 REA 一天登顶GitHub](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxmtm5356864.shtml)
-12. [打瘫沙特首都机场，“拖鞋军”已成中东狠角色](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuyarm8475028.shtml)
-13. [收评：双创指数缩量跌超2% 全市场超4300只个股下跌](https://finance.sina.com.cn/tob/2026-10-12/doc-iniuyarh0457787.shtml)
-14. [商务部回应中欧混动汽车、电动汽车磋商共识细节](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxwim7331927.shtml)
-15. [特朗普宣布俄乌达成“能源停火”，称协议立即生效](https://finance.sina.com.cn/money/future/fmnews/2026-10-12/doc-iniuxfmt7224073.shtml)
-16. [九安医疗：半年度证券投资情况请关注相关报告内容](https://finance.sina.com.cn/stock/relnews/dongmiqa/2026-10-12/doc-iniuypfa0571268.shtml)
-17. [基金业重磅！公募基金运作办法迎修订，十大亮点出炉](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfms0463982.shtml)
-18. [10月12日沪深两市涨停分析：新华传媒10连板](https://finance.sina.com.cn/tob/2026-10-12/doc-iniuyarc5301584.shtml)
-19. [马斯克：我太眼拙了，没认出您的真实身份](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxmtm5393473.shtml)
-20. [商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwik0477842.shtml)
+1. [特朗普宣布俄乌达成“能源停火”，称协议立即生效](https://finance.sina.com.cn/money/future/fmnews/2026-10-12/doc-iniuxfmt7224073.shtml)
+2. [九安医疗：半年度证券投资情况请关注相关报告内容](https://finance.sina.com.cn/stock/relnews/dongmiqa/2026-10-12/doc-iniuypfa0571268.shtml)
+3. [基金业重磅！公募基金运作办法迎修订，十大亮点出炉](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfms0463982.shtml)
+4. [10月12日沪深两市涨停分析：新华传媒10连板](https://finance.sina.com.cn/tob/2026-10-12/doc-iniuyarc5301584.shtml)
+5. [马斯克：我太眼拙了，没认出您的真实身份](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxmtm5393473.shtml)
+6. [商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwik0477842.shtml)
+7. [章子怡哭了](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuyarc5280639.shtml)
+8. [选情催化巴西股市 境内ETF刷新阶段高点](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuwuvw0425945.shtml)
+9. [再度大跌！碳酸锂创年内新低，5月至今已近腰斩](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxwip8497143.shtml)
+10. [尊界刹车踏板事件第4天，更大麻烦或要来了](https://finance.sina.com.cn/stock/companyt/2026-10-12/doc-iniuxwif5348299.shtml)
+11. [“500多名小姐姐可选”，“找搭子”暗藏灰色交易：有偿陪伴用纯绿、半绿暗语，100元/小时可牵手拥抱](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtm5449401.shtml)
+12. [大金重工盘中反弹超8% 机构重申其股价仍处底部建议积极把握抄底机会](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-12/doc-iniuxrzr8501154.shtml)
+13. [工业富联、立讯精密卷入337调查：AI供电为何成了专利战场？](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtt8540058.shtml)
+14. [美国参议员要求特朗普撤销俄燃料进口相关政策，称白宫未按规定征询国会意见。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuwuvw0482222.shtml)
+15. [2026金融街论坛年会下周开幕，吴清将发表主题演讲](https://finance.sina.com.cn/stock/roll/2026-10-12/doc-iniuyari7343223.shtml)
+16. [何立峰会见苹果公司执行董事长蒂姆·库克](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyhxe0600604.shtml)
+17. [百货公司跨界光芯片：764%溢价，2小时问询](https://finance.sina.com.cn/stock/companyt/2026-10-12/doc-iniuxmtr7227339.shtml)
+18. [雷迪克：关于您提到的六维力传感器及力控方案，公司目前未涉及该领域的研发与业务布局](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyari7260497.shtml)
+19. [电信运营商开启系统性瘦身](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuxmtr7148642.shtml)
+20. [秦朔：就业这件事，出路在何方？](https://finance.sina.com.cn/zl/china/2026-10-12/zl-iniuxrzn0493824.shtml)
