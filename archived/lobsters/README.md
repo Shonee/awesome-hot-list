@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-12 08:42:30
+> 更新时间：2026-10-12 09:45:04
 
 ## Hottest
 
@@ -15,17 +15,17 @@
 9. [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
 10. [How shredding JSON is giving Logfire 1000x query speedups](https://pydantic.dev/articles/dynamic-shredding-2026-01-26)
 11. [Tello's GameSir T1d controller as a Linux Xbox controller](https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/)
-12. [Highlights from "I spent 6 years developing a game in Rust and it just shipped, AMA" (2024)](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
-13. [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
-14. [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
-15. [Consistency is not a localized property](https://n-the-loop.com/blog/consistency-is-not-a-localized-property/)
-16. [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
-17. [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
-18. [What we ended up doing about alias propagation](https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html)
-19. [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://blog.scientific-python.org/numpy/searchsorted/)
-20. [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
-21. [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
-22. [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
-23. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
-24. [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
-25. [Hacking the Eufy Doorbell and Base Station](https://adepts.of0x.cc/Eufy-DoorBell-hacking/)
+12. [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
+13. [Highlights from "I spent 6 years developing a game in Rust and it just shipped, AMA" (2024)](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
+14. ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
+15. [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
+16. [Consistency is not a localized property](https://n-the-loop.com/blog/consistency-is-not-a-localized-property/)
+17. [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
+18. [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
+19. [What we ended up doing about alias propagation](https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html)
+20. [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://blog.scientific-python.org/numpy/searchsorted/)
+21. [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
+22. [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
+23. [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
+24. [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+25. [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
