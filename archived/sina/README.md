@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 02:16:15
+> 更新时间：2026-10-13 02:47:13
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [“尊界V800刹车风波”引关注 记者两度探访南京线下门店](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5385129.shtml)
-2. [都是千年的狐狸，玩什么聊斋](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxmtm5357716.shtml)
-3. [今天打新！航天线缆第一股来了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmv8620286.shtml)
-4. [我不是药神原型陆勇即将停药](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwim7208950.shtml)
-5. [央视曝投资1.2亿项目仅建成5个棚，空壳公司成立9天承接项目骗钱，村民：村里和当地政府也找不到这家公司了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxrzn0413574.shtml)
-6. [伊朗称美国已接受伊方所提部分条件](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5450390.shtml)
-7. [一家百货公司，要买光芯片企业！估值溢价764%，交易所火速出手](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtr7121609.shtml)
-8. [两大矿端龙头，宣布提价！这13股业绩暴增但股价“砸深坑”](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmp5481450.shtml)
-9. [6个月引爆重大AI灾难！OpenAI与Anthropic秘密推演「末日第二天」](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxmtr7186144.shtml)
-10. [诺贝尔经济学奖将揭晓！热门人选都有谁？](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtr7124624.shtml)
-11. [财政部：将新能源汽车的增值税出口退税率由13%下调至9%](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyhwz5262941.shtml)
-12. [现场视频：蒙古国草原大火逼近我边境，2000余人正在堵截](https://finance.sina.com.cn/roll/2026-10-11/doc-iniuxmtt8581411.shtml)
-13. [工业富联、立讯精密回应美国337调查](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuwuvz8619893.shtml)
-14. [演员谭耀文发文怒斥：人渣！](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmv8616693.shtml)
-15. [广西博白讨薪事件引发全网关注！官方沉默，有工人至死未拿到分文](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxrzi5388197.shtml)
-16. [特朗普称“乌克兰应该换个总统”，泽连斯基回应](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmp5469248.shtml)
-17. [股海导航_2026年10月12日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-12/doc-iniuxmtm5363979.shtml)
-18. [四大证券报头版头条内容精华摘要_2026年10月12日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-12/doc-iniuxmtm5364997.shtml)
-19. [余承东为何搞不定懂车帝？黑社会都懂这个道理](https://finance.sina.com.cn/stock/companyt/2026-10-11/doc-iniuxmtq0478439.shtml)
-20. [车圈“反速成” 整车企业掀起学习、自查热潮](https://finance.sina.com.cn/stock/relnews/cn/2026-10-12/doc-iniuxfmt7223926.shtml)
+1. [从一辆皮卡看到“在中国、为世界”的价值跃迁](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxfmt7238865.shtml)
+2. [百亿私募大佬爆料：国内科技股大跌，是险资砸的盘](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxmtr7291365.shtml)
+3. [外部扰动不改A股内在韧性 机构建议聚焦业绩确定性标的](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuwuvt5429967.shtml)
+4. [新华传媒强势10连板，区间暴涨近160%！龙虎榜揭秘：中小投资者为主力推手](https://finance.sina.com.cn/tob/2026-10-12/doc-iniuxrzr8507191.shtml)
+5. [外交部：美方应当慎重处理台湾问题](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuyarc5312459.shtml)
+6. [外交部：对尼泊尔方面表示慰问 愿根据尼方需要提供力所能及的帮助](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyarc5315459.shtml)
+7. [吴清将参加2026金融街论坛年会并发表主题演讲](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyarh0529874.shtml)
+8. [男子楼上百日宴楼下婚宴被疑重婚 官方：不构成重婚](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyarc5293234.shtml)
+9. [财经早报丨吴清座谈会释放重要信号！诺贝尔经济学奖今日揭晓丨2026年10月12日](https://finance.sina.com.cn/stock/y/2026-10-12/doc-iniuxfmp5479293.shtml)
+10. [13%！问界欧洲扩张提速、宁德时代合作落地，赛力斯午后直线拉升](https://finance.sina.com.cn/stock/hkstock/2026-10-12/doc-iniuyarm8430378.shtml)
+11. [逆向灭霸 REA 一天登顶GitHub](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxmtm5356864.shtml)
+12. [打瘫沙特首都机场，“拖鞋军”已成中东狠角色](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuyarm8475028.shtml)
+13. [收评：双创指数缩量跌超2% 全市场超4300只个股下跌](https://finance.sina.com.cn/tob/2026-10-12/doc-iniuyarh0457787.shtml)
+14. [商务部回应中欧混动汽车、电动汽车磋商共识细节](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxwim7331927.shtml)
+15. [特朗普宣布俄乌达成“能源停火”，称协议立即生效](https://finance.sina.com.cn/money/future/fmnews/2026-10-12/doc-iniuxfmt7224073.shtml)
+16. [九安医疗：半年度证券投资情况请关注相关报告内容](https://finance.sina.com.cn/stock/relnews/dongmiqa/2026-10-12/doc-iniuypfa0571268.shtml)
+17. [基金业重磅！公募基金运作办法迎修订，十大亮点出炉](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfms0463982.shtml)
+18. [10月12日沪深两市涨停分析：新华传媒10连板](https://finance.sina.com.cn/tob/2026-10-12/doc-iniuyarc5301584.shtml)
+19. [马斯克：我太眼拙了，没认出您的真实身份](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxmtm5393473.shtml)
+20. [商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwik0477842.shtml)
