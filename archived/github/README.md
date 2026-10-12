@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-12 11:59:47
+> 更新时间：2026-10-12 18:26:39
 
 ## 每日趋势
 
@@ -72,6 +72,7 @@
 15. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
 16. [Telegram](https://github.com/DrKLO/Telegram)
 17. [AAAD](https://github.com/shmykelsa/AAAD)
+18. [DnsConf](https://github.com/noVibe/DnsConf)
 
 ## Python
 
