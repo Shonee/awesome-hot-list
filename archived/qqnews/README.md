@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-12 22:01:39
+> 更新时间：2026-10-12 22:49:08
 
 ## 热点榜
 
@@ -15,12 +15,12 @@
 9. [烽火长征路，邀你一起重返1934，踏上征途！](https://h5.news.qq.com/qqfile/tnewsh5/short-term/changzheng2026.html?disabletitlebar=1&from=xxx)
 10. [全国最忙高铁站，不甘只做“宇宙第一”](https://view.inews.qq.com/a/20261012A0A9DK00)
 11. [“内部人员”代缴采暖费能打折？北京热力辟谣](https://mp.weixin.qq.com/s/2k4lqXIMFHUxsNiYBbkUFQ?platform=mac&version=5.0.8.70666)
-12. [云南一老人替孙子尝“白桃饮料”后口腔食道灼烧，仔细一看竟是洁厕慕斯，被紧急送医洗胃：包装很像饮料，万幸没给孩子喝](https://view.inews.qq.com/a/20261012A05HLW00)
-13. [马杜罗最新表态](https://view.inews.qq.com/a/20261012A06HD800)
-14. [奇瑞汽车致歉](https://view.inews.qq.com/a/20261012A09E4T00)
-15. [俄罗斯15岁少年遭棕熊袭击，随身手机被咬爆炸而得以幸存](https://view.inews.qq.com/a/20261012A09NJJ00)
-16. [女子使用智驾“离车泊入”功能倒车，过程中剐蹭上旁边一侧停放车辆，当事人：眼睁睁看它蹭上去，没办法让它立刻停下；律师发声](https://view.inews.qq.com/a/20261012A09YYW00)
-17. [黄远桂同志逝世](https://view.inews.qq.com/a/20261012A08QXP00)
-18. [为祝贺郑钦文夺冠，奥迪全系买一赠一？上汽奥迪：AUDI仅指奥迪电车，买真车送同款车模；律师说法](https://view.inews.qq.com/a/20261012A080TY00)
-19. [“杭州白天遛狗罚款”冲上热搜，当地回应限狗令：规定已执行多年，晚7点到早7点可遛，被投诉第一次口头警告，再有或被处罚](https://view.inews.qq.com/a/20261012A07WWT00)
-20. [吉林省白城市回应央视曝光](https://view.inews.qq.com/a/20261012A07EY500)
+12. [山东一对新人结婚，66个拱门从新郎家摆到新娘家，绵延1.4公里，新郎：对妻子喜欢、重视，花费五六千元，村里帮忙充气供电](https://view.inews.qq.com/a/20261012A0BCYZ00)
+13. [上海一社区卫生院现“丁义珍式”窗口，老人半跪着挂号沟通，院方回应](https://view.inews.qq.com/a/20261012A0915U00)
+14. [他被以色列禁止入境！网上吵翻，结局却反转……](https://view.inews.qq.com/a/20261012A0AW8K00)
+15. [云南一老人替孙子尝“白桃饮料”后口腔食道灼烧，仔细一看竟是洁厕慕斯，被紧急送医洗胃：包装很像饮料，万幸没给孩子喝](https://view.inews.qq.com/a/20261012A05HLW00)
+16. [马杜罗最新表态](https://view.inews.qq.com/a/20261012A06HD800)
+17. [奇瑞汽车致歉](https://view.inews.qq.com/a/20261012A09E4T00)
+18. [女子使用智驾“离车泊入”功能倒车，过程中剐蹭上旁边一侧停放车辆，当事人：眼睁睁看它蹭上去，没办法让它立刻停下；律师发声](https://view.inews.qq.com/a/20261012A09YYW00)
+19. [为祝贺郑钦文夺冠，奥迪全系买一赠一？上汽奥迪：AUDI仅指奥迪电车，买真车送同款车模；律师说法](https://view.inews.qq.com/a/20261012A080TY00)
+20. [俄罗斯15岁少年遭棕熊袭击，随身手机被咬爆炸而得以幸存](https://view.inews.qq.com/a/20261012A09NJJ00)
