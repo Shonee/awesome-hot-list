@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-13 00:14:28
+> 更新时间：2026-10-13 01:12:45
 
 ## 热点榜
 
@@ -15,8 +15,8 @@
 9. [烽火长征路，邀你一起重返1934，踏上征途！](https://h5.news.qq.com/qqfile/tnewsh5/short-term/changzheng2026.html?disabletitlebar=1&from=xxx)
 10. [全国最忙高铁站，不甘只做“宇宙第一”](https://view.inews.qq.com/a/20261012A0A9DK00)
 11. [“内部人员”代缴采暖费能打折？北京热力辟谣](https://mp.weixin.qq.com/s/2k4lqXIMFHUxsNiYBbkUFQ?platform=mac&version=5.0.8.70666)
-12. [山东一对新人结婚，66个拱门从新郎家摆到新娘家，绵延1.4公里，新郎：对妻子喜欢、重视，花费五六千元，村里帮忙充气供电](https://view.inews.qq.com/a/20261012A0BCYZ00)
-13. [上海一社区卫生院现“丁义珍式”窗口，老人半跪着挂号沟通，院方回应](https://view.inews.qq.com/a/20261012A0915U00)
+12. [上海一社区卫生院现“丁义珍式”窗口，老人半跪着挂号沟通，院方回应](https://view.inews.qq.com/a/20261012A0915U00)
+13. [山东一对新人结婚，66个拱门从新郎家摆到新娘家，绵延1.4公里，新郎：对妻子喜欢、重视，花费五六千元，村里帮忙充气供电](https://view.inews.qq.com/a/20261012A0BCYZ00)
 14. [他被以色列禁止入境！网上吵翻，结局却反转……](https://view.inews.qq.com/a/20261012A0AW8K00)
 15. [马杜罗最新表态](https://view.inews.qq.com/a/20261012A06HD800)
 16. [云南一老人替孙子尝“白桃饮料”后口腔食道灼烧，仔细一看竟是洁厕慕斯，被紧急送医洗胃：包装很像饮料，万幸没给孩子喝](https://view.inews.qq.com/a/20261012A05HLW00)

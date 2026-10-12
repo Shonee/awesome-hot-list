@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-13 00:41:47
+> 更新时间：2026-10-13 01:13:22
 
 ## 股票人气榜
 
@@ -16,8 +16,8 @@
 10. [掌阅科技 (603533)](https://quote.eastmoney.com/sh603533.html)
 11. [天顺风能 (002531)](https://quote.eastmoney.com/sz002531.html)
 12. [吉视传媒 (601929)](https://quote.eastmoney.com/sh601929.html)
-13. [果麦文化 (301052)](https://quote.eastmoney.com/sz301052.html)
-14. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
+13. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
+14. [果麦文化 (301052)](https://quote.eastmoney.com/sz301052.html)
 15. [新 华 都 (002264)](https://quote.eastmoney.com/sz002264.html)
 16. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
 17. [时代万恒 (600241)](https://quote.eastmoney.com/sh600241.html)
