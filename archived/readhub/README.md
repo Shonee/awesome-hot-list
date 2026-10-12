@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-12 22:01:37
+> 更新时间：2026-10-12 23:15:36
 
 ## 24 小时热榜
 
@@ -17,23 +17,23 @@
 11. [郑钦文夺冠霸王茶姬买一送一 小程序被挤崩](https://readhub.cn/topic/8x9uHK07MkT?tab=daily)
 12. [马斯克回应「中国分马」：想请他一起上台跳舞 会很有意思](https://readhub.cn/topic/8x9qgXw3ZIe?tab=daily)
 13. [马斯克称大概率能造出优于对手的芯片，将建 Terafab 工厂](https://readhub.cn/topic/8x8ZiRaQ00Q?tab=daily)
-14. [城市传媒：董事会换届议案遭独立董事反对](https://readhub.cn/topic/8x8oicQnB7B?tab=daily)
-15. [问界汽车拟于 2027 年进入欧洲市场](https://readhub.cn/topic/8x9kySN9pTi?tab=daily)
-16. [白云机场前三季度旅客吞吐量全国第一 上半年居世界第三](https://readhub.cn/topic/8x8broK5nN2?tab=daily)
-17. [杨立昆发布新模型 H-JEPA，提出不同于当下主流 AI 的技术路线](https://readhub.cn/topic/8xA12bV0ZNI?tab=daily)
-18. [亚马逊正洽谈收购人工智能初创公司 Decart AI，交易或涉 70 亿美元](https://readhub.cn/topic/8x9SjtyRasz?tab=daily)
+14. [问界汽车拟于 2027 年进入欧洲市场](https://readhub.cn/topic/8x9kySN9pTi?tab=daily)
+15. [白云机场前三季度旅客吞吐量全国第一 上半年居世界第三](https://readhub.cn/topic/8x8broK5nN2?tab=daily)
+16. [杨立昆发布新模型 H-JEPA，提出不同于当下主流 AI 的技术路线](https://readhub.cn/topic/8xA12bV0ZNI?tab=daily)
+17. [亚马逊正洽谈收购人工智能初创公司 Decart AI，交易或涉 70 亿美元](https://readhub.cn/topic/8x9SjtyRasz?tab=daily)
+18. [马斯克称拍信用卡照即可用 Grok 购物 遭 OpenAI 高管质疑安全风险](https://readhub.cn/topic/8x8L46q2pmW?tab=daily)
 19. [被封禁情感博主推出 AI 应用，月流水破百万](https://readhub.cn/topic/8xABPQopPRz?tab=daily)
-20. [马斯克称拍信用卡照即可用 Grok 购物 遭 OpenAI 高管质疑安全风险](https://readhub.cn/topic/8x8L46q2pmW?tab=daily)
-21. [捷豹路虎中国 CEO 韩少帅回应「致敬」：被模仿是尊重，担心没人模仿](https://readhub.cn/topic/8x9mOpeRbnP?tab=daily)
-22. [AI 普及后美国程序员招聘量不降反增，初级岗就业降约 20%](https://readhub.cn/topic/8xAHVmRbp4i?tab=daily)
-23. [郑钦文成为中网首位本土女单冠军](https://readhub.cn/topic/8x8yjuNHmsv?tab=daily)
-24. [宜家家居抖音官方旗舰店正式上线](https://readhub.cn/topic/8xA1lby7wAo?tab=daily)
-25. [AI 人才争夺升温 大厂为顶尖应届生开出最高 800 万年薪](https://readhub.cn/topic/8xAIDGbvcNX?tab=daily)
-26. [韩股大跌 三星电子、SK 海力士相关港股做多产品盘初下跌](https://readhub.cn/topic/8x9oXZihKaw?tab=daily)
-27. [iPhone Duo 预售前夕 苹果 COO 到访富士康称正扩大生产规模](https://readhub.cn/topic/8x9tBqAg3JT?tab=daily)
+20. [捷豹路虎中国 CEO 韩少帅回应「致敬」：被模仿是尊重，担心没人模仿](https://readhub.cn/topic/8x9mOpeRbnP?tab=daily)
+21. [AI 普及后美国程序员招聘量不降反增，初级岗就业降约 20%](https://readhub.cn/topic/8xAHVmRbp4i?tab=daily)
+22. [郑钦文成为中网首位本土女单冠军](https://readhub.cn/topic/8x8yjuNHmsv?tab=daily)
+23. [宜家家居抖音官方旗舰店正式上线](https://readhub.cn/topic/8xA1lby7wAo?tab=daily)
+24. [AI 人才争夺升温 大厂为顶尖应届生开出最高 800 万年薪](https://readhub.cn/topic/8xAIDGbvcNX?tab=daily)
+25. [韩股大跌 三星电子、SK 海力士相关港股做多产品盘初下跌](https://readhub.cn/topic/8x9oXZihKaw?tab=daily)
+26. [iPhone Duo 预售前夕 苹果 COO 到访富士康称正扩大生产规模](https://readhub.cn/topic/8x9tBqAg3JT?tab=daily)
+27. [星闪国家推荐标准发布，2027 年 4 月 1 日起正式实施](https://readhub.cn/topic/8x8XvhY7qcr?tab=daily)
 28. [北京警方对宜信相关公司立案侦查 对实控人等采取刑事强制措施](https://readhub.cn/topic/8x9zcvTqX77?tab=daily)
-29. [星闪国家推荐标准发布，2027 年 4 月 1 日起正式实施](https://readhub.cn/topic/8x8XvhY7qcr?tab=daily)
-30. [京东 11.11 于 10 月 12 日晚 8 点开启](https://readhub.cn/topic/8x9pzFPI6OJ?tab=daily)
+29. [京东 11.11 于 10 月 12 日晚 8 点开启](https://readhub.cn/topic/8x9pzFPI6OJ?tab=daily)
+30. [网传疑似 Claude Next 可通过数行提示生成高质量 3D 内容](https://readhub.cn/topic/8x9wmzzeOh4?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [芯片越坏越聪明？他让有缺陷的芯片学会联想和容错](https://www.mittrchina.com/news/detail/17082)
-2. [个人 AI 概念爆火，a16z 投了一个没有屏幕的「AI 电脑」，19 岁创始人想重新定义电脑交互](https://www.mittrchina.com/news/detail/17081)
-3. [微软基于阿里 Qwen 打造决策模型 Microsoft-Decision-1，或推广至所有领域](https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html)
-4. [微软升级 Copilot Notebooks：支持任务委派、Office 文档编辑与交互式报告](https://www.aibase.com/zh/news/31563)
-5. [博通 CEO 警告：资本正取代芯片与电力，成为 AI 发展最大瓶颈](https://www.theblockbeats.info/flash/371414)
-6. [迈威尔推出第二代 Structera X CXL 内存扩展器 单控制器最高支持 9TB DDR4 内存](https://www.gelonghui.com/live/2706846)
-7. [微软计划 2027 年起将 Azure Maia 部署规模扩至多吉瓦级，Maia 300 明年投产](https://api3.cls.cn/share/article/2502636?os=web&sv=8.4.6&app=CailianpressWeb)
-8. [AMD 推出 Helion 开放式机架级 AI 架构 支持最高 32768 个 CPU 核心](https://api3.cls.cn/share/article/2502628?os=web&sv=8.4.6&app=CailianpressWeb)
-9. [2026 年未过完，全球机器人和物理 AI 企业已融资近 480 亿美元](https://www.36kr.com/p/4022522991480963)
-10. [别把安全寄托在 AI 的「不」上](https://www.mittrchina.com/news/detail/17083)
+1. [OCP 全球峰会：NVIDIA 开放 Vera Rubin 架构，助力全球 AI 工厂规模化](https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/)
+2. [俞大鹏院士：量子计算目前还很弱，产业不能「虚火过旺」｜PAIR 2026](https://www.mittrchina.com/news/detail/17084)
+3. [芯片越坏越聪明？他让有缺陷的芯片学会联想和容错](https://www.mittrchina.com/news/detail/17082)
+4. [个人 AI 概念爆火，a16z 投了一个没有屏幕的「AI 电脑」，19 岁创始人想重新定义电脑交互](https://www.mittrchina.com/news/detail/17081)
+5. [2026 IEIC 国际具身智能技能大赛将于上海举行，用真实岗位任务考核机器人落地能力](https://www.leiphone.com/category/industrynews/ZFAMCctM7KUw5gr3.html)
+6. [微软基于阿里 Qwen 打造决策模型 Microsoft-Decision-1，或推广至所有领域](https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html)
+7. [英伟达与思科推出新型可插拔光模块外形规格 USFP，以扩展 AI 工厂](https://www.gelonghui.com/live/2706968)
+8. [AMD 发布新一代锐龙 AI Halo 开发者平台，升级 Max+ PRO 495 与至高 192GB 内存](https://www.ithome.com/1/012/104.htm)
+9. [微软升级 Copilot Notebooks：支持任务委派、Office 文档编辑与交互式报告](https://www.aibase.com/zh/news/31563)
+10. [微软总裁布拉德・史密斯：AI 监管还比不上牛奶和洗衣机](https://ai.cnmo.com/news/820135.html)
