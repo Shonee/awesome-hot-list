@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-12 07:12:38
+> 更新时间：2026-10-12 08:40:27
 
 ## 最新帖子
 
-1. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
-2. [技术思考问题7：AI应用越多，人均产出为何不涨？](https://www.cnblogs.com/snidget/p/23263956)
-3. [开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络](https://www.cnblogs.com/myvin/p/23263612)
-4. [ManimCE v0.22.0 发布：输出配置大一统与渲染流程重构](https://www.cnblogs.com/wang_yb/p/23263451)
-5. [来在网页上用threejs画个蛋白质吧](https://www.cnblogs.com/ZiLongZiLong/p/23263411)
-6. [并发编程（1.5）：操作系统层——Thread、Scheduler 与 Runtime 调度](https://www.cnblogs.com/ThinkerQAQ/p/23251859)
-7. [不用 Python 也能跑 YOLO？这个 .NET 库让我扔掉了 OpenCV](https://www.cnblogs.com/shanyou/p/23259541)
-8. [GitHub Actions 工作流 CI/CD 的“发布”](https://www.cnblogs.com/chenby/p/23262361)
-9. [4.	ArkTS凭什么是鸿蒙开发首选？对比 JS/TS 详解语言特性](https://www.cnblogs.com/halfcode/p/23262290)
-10. [[最优化技术] 3-6 修正牛顿法](https://www.cnblogs.com/h-elden/p/23260689)
-11. [嫌桌面 Agent 太重，我“自己”写了一个](https://www.cnblogs.com/donpangpang/p/23261629)
-12. [传感器模块都在交出什么：从模拟电压到数字协议](https://www.cnblogs.com/zw-awa/p/23261573)
-13. [10个 Github 贼火火的、又实用的工具.Net开源项目](https://www.cnblogs.com/chingho/p/23261099)
-14. [LLM | OpenAI 兼容模式 与 Anthropic 协议的区别](https://www.cnblogs.com/moonout/p/23260875)
-15. [[数据库系统] 数据库系统的设计原理研究](https://www.cnblogs.com/johnnyzen/p/23260444)
-16. [AgentScope第11式·定式输出](https://www.cnblogs.com/snidget/p/23260326)
-17. [P3826 [NOI2017] 蔬菜 题解](https://www.cnblogs.com/zhaoyikuan/p/23259729)
-18. [CodeGraph学习笔记:给代码建索引,节省Token和时间](https://www.cnblogs.com/FatTiger4399/p/23257375)
-19. [manim-ui把33 个数学场景，装在一个双击就开的网页里](https://www.cnblogs.com/wyang/p/23257206)
-20. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- (6)--- 奖励机制](https://www.cnblogs.com/rossiXYZ/p/22864318)
+1. [免费可商用 PHP 管理后台 CatchAdmin V5.4.1 发布，新增 MCP 支持](https://www.cnblogs.com/catchadmin/p/23266216)
+2. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)
+3. [理解帆软报表 SSO 的集成](https://www.cnblogs.com/jyzhao/p/23265936)
+4. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
+5. [技术思考问题7：AI应用越多，人均产出为何不涨？](https://www.cnblogs.com/snidget/p/23263956)
+6. [开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络](https://www.cnblogs.com/myvin/p/23263612)
+7. [ManimCE v0.22.0 发布：输出配置大一统与渲染流程重构](https://www.cnblogs.com/wang_yb/p/23263451)
+8. [来在网页上用threejs画个蛋白质吧](https://www.cnblogs.com/ZiLongZiLong/p/23263411)
+9. [并发编程（1.5）：操作系统层——Thread、Scheduler 与 Runtime 调度](https://www.cnblogs.com/ThinkerQAQ/p/23251859)
+10. [不用 Python 也能跑 YOLO？这个 .NET 库让我扔掉了 OpenCV](https://www.cnblogs.com/shanyou/p/23259541)
+11. [GitHub Actions 工作流 CI/CD 的“发布”](https://www.cnblogs.com/chenby/p/23262361)
+12. [4.	ArkTS凭什么是鸿蒙开发首选？对比 JS/TS 详解语言特性](https://www.cnblogs.com/halfcode/p/23262290)
+13. [[最优化技术] 3-6 修正牛顿法](https://www.cnblogs.com/h-elden/p/23260689)
+14. [嫌桌面 Agent 太重，我“自己”写了一个](https://www.cnblogs.com/donpangpang/p/23261629)
+15. [传感器模块都在交出什么：从模拟电压到数字协议](https://www.cnblogs.com/zw-awa/p/23261573)
+16. [10个 Github 贼火火的、又实用的工具.Net开源项目](https://www.cnblogs.com/chingho/p/23261099)
+17. [LLM | OpenAI 兼容模式 与 Anthropic 协议的区别](https://www.cnblogs.com/moonout/p/23260875)
+18. [[数据库系统] 数据库系统的设计原理研究](https://www.cnblogs.com/johnnyzen/p/23260444)
+19. [AgentScope第11式·定式输出](https://www.cnblogs.com/snidget/p/23260326)
+20. [P3826 [NOI2017] 蔬菜 题解](https://www.cnblogs.com/zhaoyikuan/p/23259729)
 
 ## 精华帖子
 
