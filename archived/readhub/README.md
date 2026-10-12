@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-13 02:16:08
+> 更新时间：2026-10-13 03:40:02
 
 ## 24 小时热榜
 
@@ -13,27 +13,27 @@
 7. [问界汽车拟于 2027 年进入欧洲市场](https://readhub.cn/topic/8x9kySN9pTi?tab=daily)
 8. [杨立昆发布新模型 H-JEPA，提出不同于当下主流 AI 的技术路线](https://readhub.cn/topic/8xA12bV0ZNI?tab=daily)
 9. [被封禁情感博主推出 AI 应用，月流水破百万](https://readhub.cn/topic/8xABPQopPRz?tab=daily)
-10. [亚马逊正洽谈收购人工智能初创公司 Decart AI，交易或涉 70 亿美元](https://readhub.cn/topic/8x9SjtyRasz?tab=daily)
-11. [消息称腾讯将推出「元宝助手」App，布局 Personal Agent 赛道](https://readhub.cn/topic/8xANYRv9dWw?tab=daily)
-12. [AI 普及后美国程序员招聘量不降反增，初级岗就业降约 20%](https://readhub.cn/topic/8xAHVmRbp4i?tab=daily)
-13. [捷豹路虎中国 CEO 韩少帅回应「致敬」：被模仿是尊重，担心没人模仿](https://readhub.cn/topic/8x9mOpeRbnP?tab=daily)
-14. [AI 人才争夺升温 大厂为顶尖应届生开出最高 800 万年薪](https://readhub.cn/topic/8xAIDGbvcNX?tab=daily)
+10. [消息称腾讯将推出「元宝助手」App，布局 Personal Agent 赛道](https://readhub.cn/topic/8xANYRv9dWw?tab=daily)
+11. [亚马逊正洽谈收购人工智能初创公司 Decart AI，交易或涉 70 亿美元](https://readhub.cn/topic/8x9SjtyRasz?tab=daily)
+12. [捷豹路虎中国 CEO 韩少帅回应「致敬」：被模仿是尊重，担心没人模仿](https://readhub.cn/topic/8x9mOpeRbnP?tab=daily)
+13. [AI 人才争夺升温 大厂为顶尖应届生开出最高 800 万年薪](https://readhub.cn/topic/8xAIDGbvcNX?tab=daily)
+14. [AI 普及后美国程序员招聘量不降反增，初级岗就业降约 20%](https://readhub.cn/topic/8xAHVmRbp4i?tab=daily)
 15. [宜家家居抖音官方旗舰店正式上线](https://readhub.cn/topic/8xA1lby7wAo?tab=daily)
 16. [郑钦文成为中网首位本土女单冠军](https://readhub.cn/topic/8x8yjuNHmsv?tab=daily)
 17. [星闪国家推荐标准发布，2027 年 4 月 1 日起正式实施](https://readhub.cn/topic/8x8XvhY7qcr?tab=daily)
-18. [韩股大跌 三星电子、SK 海力士相关港股做多产品盘初下跌](https://readhub.cn/topic/8x9oXZihKaw?tab=daily)
-19. [iPhone Duo 预售前夕 苹果 COO 到访富士康称正扩大生产规模](https://readhub.cn/topic/8x9tBqAg3JT?tab=daily)
-20. [北京警方对宜信相关公司立案侦查 对实控人等采取刑事强制措施](https://readhub.cn/topic/8x9zcvTqX77?tab=daily)
-21. [京东 11.11 于 10 月 12 日晚 8 点开启](https://readhub.cn/topic/8x9pzFPI6OJ?tab=daily)
-22. [网传疑似 Claude Next 可通过数行提示生成高质量 3D 内容](https://readhub.cn/topic/8x9wmzzeOh4?tab=daily)
-23. [华为折叠屏手机累计发货量突破 2000 万台，上半年市场份额超 70%](https://readhub.cn/topic/8x9tuhXUrWe?tab=daily)
-24. [财政部：2027 年 4 月起新能源汽车出口退税率下调至 9%](https://readhub.cn/topic/8xAL3ZMwpES?tab=daily)
-25. [全球运营商最大单体智算中心扩容项目在内蒙古竣工](https://readhub.cn/topic/8x9kyZIuWPP?tab=daily)
+18. [iPhone Duo 预售前夕 苹果 COO 到访富士康称正扩大生产规模](https://readhub.cn/topic/8x9tBqAg3JT?tab=daily)
+19. [韩股大跌 三星电子、SK 海力士相关港股做多产品盘初下跌](https://readhub.cn/topic/8x9oXZihKaw?tab=daily)
+20. [京东 11.11 于 10 月 12 日晚 8 点开启](https://readhub.cn/topic/8x9pzFPI6OJ?tab=daily)
+21. [华为折叠屏手机累计发货量突破 2000 万台，上半年市场份额超 70%](https://readhub.cn/topic/8x9tuhXUrWe?tab=daily)
+22. [北京警方对宜信相关公司立案侦查 对实控人等采取刑事强制措施](https://readhub.cn/topic/8x9zcvTqX77?tab=daily)
+23. [财政部：2027 年 4 月起新能源汽车出口退税率下调至 9%](https://readhub.cn/topic/8xAL3ZMwpES?tab=daily)
+24. [网传疑似 Claude Next 可通过数行提示生成高质量 3D 内容](https://readhub.cn/topic/8x9wmzzeOh4?tab=daily)
+25. [苹果将推出智能家居中枢 HomeView 联手 LG 完善产品线](https://readhub.cn/topic/8x93jJ6E7bZ?tab=daily)
 26. [十五五时期国家水网建设投资需求将突破 6 万亿元](https://readhub.cn/topic/8x9hO0mUBkW?tab=daily)
-27. [优必选与建发股份战略合作 计划 2030 年前共推万台人形机器人销售](https://readhub.cn/topic/8x87UTkPeKg?tab=daily)
-28. [宜信集团向类固收投资者发致歉信：可能已资不抵债](https://readhub.cn/topic/8x9pGFC4GsF?tab=daily)
-29. [苹果将推出智能家居中枢 HomeView 联手 LG 完善产品线](https://readhub.cn/topic/8x93jJ6E7bZ?tab=daily)
-30. [郑钦文重返中国一姐 三年收入 4.74 亿追平李娜生涯收入](https://readhub.cn/topic/8x9w3aGnePH?tab=daily)
+27. [宜信集团向类固收投资者发致歉信：可能已资不抵债](https://readhub.cn/topic/8x9pGFC4GsF?tab=daily)
+28. [全球运营商最大单体智算中心扩容项目在内蒙古竣工](https://readhub.cn/topic/8x9kyZIuWPP?tab=daily)
+29. [优必选与建发股份战略合作 计划 2030 年前共推万台人形机器人销售](https://readhub.cn/topic/8x87UTkPeKg?tab=daily)
+30. [谷歌推出 Fitbit Edge 手环新品：支持心电图、GPS，179.99 欧元](https://readhub.cn/topic/8xAbWYkFj0n?tab=daily)
 
 ## 每日早报
 
@@ -54,6 +54,6 @@
 5. [英伟达在 OCP 峰会推进盲插液冷、800V 供电与下一代可插拔光模块新标准](https://news.10jqka.com.cn/20261013/c680608930.shtml)
 6. [2026 IEIC 国际具身智能技能大赛将于上海举行，用真实岗位任务考核机器人落地能力](https://www.leiphone.com/category/industrynews/ZFAMCctM7KUw5gr3.html)
 7. [微软基于阿里 Qwen 打造决策模型 Microsoft-Decision-1，或推广至所有领域](https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html)
-8. [AMD 发布新一代锐龙 AI Halo 开发者平台，升级 Max+ PRO 495 与至高 192GB 内存](https://www.ithome.com/1/012/104.htm)
-9. [微软升级 Copilot Notebooks：支持任务委派、Office 文档编辑与交互式报告](https://www.aibase.com/zh/news/31563)
-10. [微软总裁布拉德・史密斯：AI 监管还比不上牛奶和洗衣机](https://ai.cnmo.com/news/820135.html)
+8. [Crunchbase：2026 上半年全球风险投资达 5100 亿美元](https://www.199it.com/archives/1838474.html)
+9. [AMD 发布新一代锐龙 AI Halo 开发者平台，升级 Max+ PRO 495 与至高 192GB 内存](https://www.ithome.com/1/012/104.htm)
+10. [微软升级 Copilot Notebooks：支持任务委派、Office 文档编辑与交互式报告](https://www.aibase.com/zh/news/31563)

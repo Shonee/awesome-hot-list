@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-13 02:46:55
+> 更新时间：2026-10-13 03:39:50
 
 ## 热门文章
 
@@ -18,22 +18,22 @@
 12. [Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了](https://juejin.cn/post/7694564397683867688)
 13. [用了Pi基本就回不去了， 如果你也在用Pi， 强烈推荐安装pi-chrome](https://juejin.cn/post/7694504408210767882)
 14. [🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare](https://juejin.cn/post/7695030462259789874)
-15. [国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘](https://juejin.cn/post/7694614473173352467)
-16. [开源 Vue 3 组件库 Morya UI：把组件、文档、AI 工具链一起做进一个包](https://juejin.cn/post/7694638437243469864)
+15. [开源 Vue 3 组件库 Morya UI：把组件、文档、AI 工具链一起做进一个包](https://juejin.cn/post/7694638437243469864)
+16. [国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘](https://juejin.cn/post/7694614473173352467)
 17. [栗子前端技术周刊第 149 期 - Vite+ 1.0、Preact 11、Next.js 16.4...](https://juejin.cn/post/7695079160284446763)
 18. [Kuikly股票查看软件开发体验——SaiRen](https://juejin.cn/post/7694850619532689448)
 19. [数据库写成功，MQ 消息却丢了？4 个故障窗口拆透 Transactional Outbox](https://juejin.cn/post/7694664695189798947)
 20. [告别 Deno 时代？运行时进入一年倒计时，Deno 团队并入 Cloudflare](https://juejin.cn/post/7694572028192276543)
 21. [五道题，测测你有没有真的入门 AI](https://juejin.cn/post/7694967013273829395)
 22. [AI 能翻好谐音梗吗](https://juejin.cn/post/7694572028192915519)
-23. [Agent 的记忆系统怎么设计？面试官想听的是这个](https://juejin.cn/post/7694576718062026803)
-24. [AI Agent 驾驭指南](https://juejin.cn/post/7694559519641632811)
+23. [AI Agent 驾驭指南](https://juejin.cn/post/7694559519641632811)
+24. [Agent 的记忆系统怎么设计？面试官想听的是这个](https://juejin.cn/post/7694576718062026803)
 25. [我在浏览器里“盖”了一个村：Vue + Three.js 大屏开发踩坑记](https://juejin.cn/post/7695604643287531535)
 26. [Kotlin Toolchain 0.13，JetBrains 推荐 KMP 都切换到到全新工具链](https://juejin.cn/post/7694967861421916160)
 27. [三天11万星的逆天开源REA，逆向分析一切，软件开发的门槛被打到了零，最该慌的为什么不是大厂？](https://juejin.cn/post/7695604296682930186)
-28. [把 649 种文件格式塞进一个网页里：一个「文件不出浏览器」的预览器](https://juejin.cn/post/7695079160284201003)
-29. [GitHub 日榜趋势速报 | 2026-10-10](https://juejin.cn/post/7694627741413654578)
-30. [【升级】一个中国历史可视化站：皇帝时间线梳理、古代思想流派、诗词鉴赏 (2)](https://juejin.cn/post/7695391952385949723)
+28. [【升级】一个中国历史可视化站：皇帝时间线梳理、古代思想流派、诗词鉴赏 (2)](https://juejin.cn/post/7695391952385949723)
+29. [把 649 种文件格式塞进一个网页里：一个「文件不出浏览器」的预览器](https://juejin.cn/post/7695079160284201003)
+30. [GitHub 日榜趋势速报 | 2026-10-10](https://juejin.cn/post/7694627741413654578)
 31. [✍️ TRAE 双端融合，全面升级｜征文活动开启，赢京东卡、TRAE 精美周边好礼！](https://juejin.cn/post/7695604296683274250)
 32. [苏格拉底式提问法，也许是AI时代最稀缺的能力](https://juejin.cn/post/7695553701473943606)
 33. [Java程序员需要转Python吗？](https://juejin.cn/post/7695079160285397035)
