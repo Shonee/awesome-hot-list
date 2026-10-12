@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-13 01:12:45
+> 更新时间：2026-10-13 02:16:09
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [周鸿祎攀岩坠落致左膝粉碎性骨折：未来两三个月所有外出活动取消](https://www.thepaper.cn/newsDetail_forward_34233292)
 8. [博士团解读宁波⑦｜“宁波帮”两百年的创业精神、家国情怀、产业创新和未来发展](https://www.thepaper.cn/newsDetail_forward_34142904)
 9. [吉林松原回应“大棚撂荒仍领补贴”：成立联合调查组开展调查](https://www.thepaper.cn/newsDetail_forward_34235509)
-10. [“张雪机车”德比斯：锁定年度车手亚军意义非凡](https://www.thepaper.cn/newsDetail_forward_34233308)
-11. [哈药股份总裁芦传有被立案留置：去年薪酬近300万元，公司强调生产经营正常](https://www.thepaper.cn/newsDetail_forward_34234248)
-12. [独家｜傅莹对话冰岛前总统格里姆松：中国威胁北极是臆想，冰川融化才是真问题](https://www.thepaper.cn/newsDetail_forward_34231106)
+10. [哈药股份总裁芦传有被立案留置：去年薪酬近300万元，公司强调生产经营正常](https://www.thepaper.cn/newsDetail_forward_34234248)
+11. [独家｜傅莹对话冰岛前总统格里姆松：中国威胁北极是臆想，冰川融化才是真问题](https://www.thepaper.cn/newsDetail_forward_34231106)
+12. [男子称归还3千多万后，5千万原始借款仍被要求还4980万本金，河北高院开庭审理此案](https://www.thepaper.cn/newsDetail_forward_34236548)
 13. [一路丰碑｜纪念中国工农红军长征胜利90周年特别报道上线](https://www.thepaper.cn/newsDetail_forward_33451206)
 14. [澎湃新闻·地球频道全新上线：气候变化不再是远方新闻，而是此刻日常](https://www.thepaper.cn/newsDetail_forward_34219361)
 15. [两部门：明年4月起，将新能源汽车的增值税出口退税率由13%下调至9%](https://www.thepaper.cn/newsDetail_forward_34236595)
-16. [国务院国有资产监督管理委员会原副部长级干部潘良被提起公诉](https://www.thepaper.cn/newsDetail_forward_34234532)
-17. [2026年诺贝尔经济学奖授予给2名经济学家，他们的研究提升了宏观调控的能力](https://www.thepaper.cn/newsDetail_forward_34235905)
-18. [经纬度：发展新质生产力，从点状突破走向系统集成](https://www.thepaper.cn/newsDetail_forward_34235625)
+16. [2026年诺贝尔经济学奖授予给2名经济学家，他们的研究提升了宏观调控的能力](https://www.thepaper.cn/newsDetail_forward_34235905)
+17. [经纬度：发展新质生产力，从点状突破走向系统集成](https://www.thepaper.cn/newsDetail_forward_34235625)
+18. [国务院国有资产监督管理委员会原副部长级干部潘良被提起公诉](https://www.thepaper.cn/newsDetail_forward_34234532)
 19. [交通运输部副部长王刚任河北省委常委、石家庄市委书记](https://www.thepaper.cn/newsDetail_forward_34237103)
-20. [这场由特朗普宣布的俄乌“能源停火”，谁说了算？](https://www.thepaper.cn/newsDetail_forward_34235932)
+20. [诺奖解析｜新凯恩斯主义何以摘得今年诺奖？应对经济衰退，两位获奖者有何洞见？](https://www.thepaper.cn/newsDetail_forward_34237390)

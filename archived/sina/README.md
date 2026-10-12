@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 01:12:51
+> 更新时间：2026-10-13 02:16:15
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [尊界最新回应！有人称“定金不退也不提车”，人民日报：刹车踏板绝不应在驾驶中“断裂”](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtt8553090.shtml)
-2. [挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmv8563539.shtml)
-3. [涉台恶劣言行，中方宣布反制！刚刚，外交部决定：对巴拉圭、伯利兹两名部长冻结其在我国境内财产、不准入境（含港澳）](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxrzn0458854.shtml)
-4. [四部门联手对“速成车”说不 车企火线研读新规对照自查](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuwuvx7198457.shtml)
-5. [罕见一刀切涨价 阿斯麦光刻机零部件全线涨10% 韩国存储巨头全盘接受](https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuxmtr7200545.shtml)
-6. [美乌关系急剧恶化，欧洲盟友感到震惊，特朗普“换乌克兰总统”言论引发风波](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxmtq0471541.shtml)
-7. [英伟达最强游戏显卡，被曝即将停产](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxmtr7239960.shtml)
-8. [操盘必读：影响股市利好或利空消息_2026年10月12日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-12/doc-iniuxmtq0361585.shtml)
-9. [金价涨了！何时突破5000美元关口](https://finance.sina.com.cn/stock/bxjj/2026-10-12/doc-iniuxmtt8509235.shtml)
-10. [A股突变！全天大跌，背后三大原因曝光](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyarm8488035.shtml)
-11. [特朗普称俄乌进入“能源停火”，泽连斯基回应说“这是个新闻”](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5449490.shtml)
-12. [证监会召开资本市场和金融形势专家座谈会  与会专家建议：进一步拓宽中长期资金来源、渠道和入市方式](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuwuvt5429918.shtml)
-13. [A股公司年内分红总额超2万亿元 “一年多次分红”渐成常态](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmv8587881.shtml)
-14. [人民日报钟声：中欧要做彼此稳定、平衡的关键贸易伙伴](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5387963.shtml)
-15. [国际油价直线跳水，美油跌破91美元，黄金拉升逼近4200美元，伊朗称美国已接受伊方所提部分条件](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtr7150268.shtml)
-16. [“尊界V800刹车风波”引关注 记者两度探访南京线下门店](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5385129.shtml)
-17. [都是千年的狐狸，玩什么聊斋](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxmtm5357716.shtml)
-18. [今天打新！航天线缆第一股来了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmv8620286.shtml)
-19. [我不是药神原型陆勇即将停药](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwim7208950.shtml)
-20. [央视曝投资1.2亿项目仅建成5个棚，空壳公司成立9天承接项目骗钱，村民：村里和当地政府也找不到这家公司了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxrzn0413574.shtml)
+1. [“尊界V800刹车风波”引关注 记者两度探访南京线下门店](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5385129.shtml)
+2. [都是千年的狐狸，玩什么聊斋](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxmtm5357716.shtml)
+3. [今天打新！航天线缆第一股来了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmv8620286.shtml)
+4. [我不是药神原型陆勇即将停药](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwim7208950.shtml)
+5. [央视曝投资1.2亿项目仅建成5个棚，空壳公司成立9天承接项目骗钱，村民：村里和当地政府也找不到这家公司了](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxrzn0413574.shtml)
+6. [伊朗称美国已接受伊方所提部分条件](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5450390.shtml)
+7. [一家百货公司，要买光芯片企业！估值溢价764%，交易所火速出手](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtr7121609.shtml)
+8. [两大矿端龙头，宣布提价！这13股业绩暴增但股价“砸深坑”](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmp5481450.shtml)
+9. [6个月引爆重大AI灾难！OpenAI与Anthropic秘密推演「末日第二天」](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxmtr7186144.shtml)
+10. [诺贝尔经济学奖将揭晓！热门人选都有谁？](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtr7124624.shtml)
+11. [财政部：将新能源汽车的增值税出口退税率由13%下调至9%](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuyhwz5262941.shtml)
+12. [现场视频：蒙古国草原大火逼近我边境，2000余人正在堵截](https://finance.sina.com.cn/roll/2026-10-11/doc-iniuxmtt8581411.shtml)
+13. [工业富联、立讯精密回应美国337调查](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuwuvz8619893.shtml)
+14. [演员谭耀文发文怒斥：人渣！](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmv8616693.shtml)
+15. [广西博白讨薪事件引发全网关注！官方沉默，有工人至死未拿到分文](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxrzi5388197.shtml)
+16. [特朗普称“乌克兰应该换个总统”，泽连斯基回应](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmp5469248.shtml)
+17. [股海导航_2026年10月12日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-12/doc-iniuxmtm5363979.shtml)
+18. [四大证券报头版头条内容精华摘要_2026年10月12日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-12/doc-iniuxmtm5364997.shtml)
+19. [余承东为何搞不定懂车帝？黑社会都懂这个道理](https://finance.sina.com.cn/stock/companyt/2026-10-11/doc-iniuxmtq0478439.shtml)
+20. [车圈“反速成” 整车企业掀起学习、自查热潮](https://finance.sina.com.cn/stock/relnews/cn/2026-10-12/doc-iniuxfmt7223926.shtml)
