@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-13 11:01:11
+> 更新时间：2026-10-13 11:52:18
 
 ## 最新帖子
 
-1. [Linux Systemd 服务注册指南](https://www.cnblogs.com/exioran/p/23281866)
-2. [Hermes Agent 安装与 MCP 配置教程](https://www.cnblogs.com/popotato/p/23281734)
-3. [如何用 Python 读取 Excel 工作表名称](https://www.cnblogs.com/jazz-z/p/23281209)
-4. [爆火！新一代e2e AI测试框架，单日狂揽1500 star](https://www.cnblogs.com/jinjiangongzuoshi/p/23280355)
-5. [让机器回答“我在哪”：激光雷达与 SLAM](https://www.cnblogs.com/zw-awa/p/23280081)
-6. [技术思考问题15：技术选型说不清禁区还敢选型吗？](https://www.cnblogs.com/snidget/p/23280057)
-7. [HyMT2Sharp 2.0：纯 C# 的混元翻译，现在能跑在显卡上了](https://www.cnblogs.com/sdcb/p/23279890/20261012-hymt2sharp-2)
-8. [领导总分一些"杂活"，到底值不值得继续干？](https://www.cnblogs.com/zhangs1986/p/23135460)
-9. [AI时代，淘汰的是搬砖DBA，留存的是拥有生产判断力的DBA](https://www.cnblogs.com/jyzhao/p/23279522)
-10. [从原理到处方：Oracle 性能调优的底层逻辑与排查方法论](https://www.cnblogs.com/liuziyi1/p/23277288)
-11. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- (7)--- 混合机制](https://www.cnblogs.com/rossiXYZ/p/22864342)
-12. [浅谈 C++ 中的接口、纯虚函数与虚析构函数](https://www.cnblogs.com/dddy/p/23276679)
-13. [一文搞懂 Agent Memory：AI 是如何记住你说过的话的？](https://www.cnblogs.com/Tomorrowland/p/23276386)
-14. [新项目选 Blazor 还是 Razor Pages？我交了学费](https://www.cnblogs.com/shenchuanchao/p/23212983/blazor-vs-razor-pages-new-project-lessons)
-15. [分享一个开源小工具CAdapt](https://www.cnblogs.com/KBin/p/23274863)
-16. [ARTS 1011: 双堆动态对顶求中位数、IPC 注入与空密码串联接管账户与程序从不做决策](https://www.cnblogs.com/leikooo/p/23274507)
-17. [Jev 们不缺判断力，缺的是你的标准](https://www.cnblogs.com/xianxh/p/23274471)
-18. [DeepSeek Harness 插件生态解析](https://www.cnblogs.com/znlgis/p/23274216)
-19. [Rust 进程假死问题排查（dragonfly+tokio）](https://www.cnblogs.com/yennie/p/22276475)
-20. [NUIST2026新生&个人赛题解](https://www.cnblogs.com/lemon-dreamland/p/23271579)
+1. [客户端上报不可信：游戏服务端数据校验与对局重演设计](https://www.cnblogs.com/bytehidden/p/23283657)
+2. [AC自动机超详细讲解](https://www.cnblogs.com/yuyancheng/p/23283681/ac-automaton)
+3. [布客技术评论：为什么国产模型的数学研究能力不行？](https://www.cnblogs.com/apachecn/p/23282975)
+4. [GitHub上这10个C#项目，不仅实用，还怪好玩的](https://www.cnblogs.com/chingho/p/23282898)
+5. [Linux Systemd 服务注册指南](https://www.cnblogs.com/exioran/p/23281866)
+6. [Hermes Agent 安装与 MCP 配置教程](https://www.cnblogs.com/popotato/p/23281734)
+7. [如何用 Python 读取 Excel 工作表名称](https://www.cnblogs.com/jazz-z/p/23281209)
+8. [爆火！新一代e2e AI测试框架，单日狂揽1500 star](https://www.cnblogs.com/jinjiangongzuoshi/p/23280355)
+9. [让机器回答“我在哪”：激光雷达与 SLAM](https://www.cnblogs.com/zw-awa/p/23280081)
+10. [技术思考问题15：技术选型说不清禁区还敢选型吗？](https://www.cnblogs.com/snidget/p/23280057)
+11. [HyMT2Sharp 2.0：纯 C# 的混元翻译，现在能跑在显卡上了](https://www.cnblogs.com/sdcb/p/23279890/20261012-hymt2sharp-2)
+12. [领导总分一些"杂活"，到底值不值得继续干？](https://www.cnblogs.com/zhangs1986/p/23135460)
+13. [AI时代，淘汰的是搬砖DBA，留存的是拥有生产判断力的DBA](https://www.cnblogs.com/jyzhao/p/23279522)
+14. [从原理到处方：Oracle 性能调优的底层逻辑与排查方法论](https://www.cnblogs.com/liuziyi1/p/23277288)
+15. [[Agent Memory / 强化学习] MemPO源码学习笔记 --- (7)--- 混合机制](https://www.cnblogs.com/rossiXYZ/p/22864342)
+16. [浅谈 C++ 中的接口、纯虚函数与虚析构函数](https://www.cnblogs.com/dddy/p/23276679)
+17. [一文搞懂 Agent Memory：AI 是如何记住你说过的话的？](https://www.cnblogs.com/Tomorrowland/p/23276386)
+18. [新项目选 Blazor 还是 Razor Pages？我交了学费](https://www.cnblogs.com/shenchuanchao/p/23212983/blazor-vs-razor-pages-new-project-lessons)
+19. [分享一个开源小工具CAdapt](https://www.cnblogs.com/KBin/p/23274863)
+20. [ARTS 1011: 双堆动态对顶求中位数、IPC 注入与空密码串联接管账户与程序从不做决策](https://www.cnblogs.com/leikooo/p/23274507)
 
 ## 精华帖子
 

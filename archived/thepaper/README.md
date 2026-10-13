@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-13 11:01:24
+> 更新时间：2026-10-13 11:52:26
 
 ## 热新闻
 
@@ -11,16 +11,16 @@
 5. [马上评｜AI真的会让下一代孩子变笨吗](https://www.thepaper.cn/newsDetail_forward_34235227)
 6. [男子在山西悬空寺木梁上做引体向上视频引关注，景区：该行为不允许，正在核实](https://www.thepaper.cn/newsDetail_forward_34235909)
 7. [上台“检讨”的教师们：“羞辱式”问责背后的教育困局](https://www.thepaper.cn/newsDetail_forward_34236591)
-8. [外交部：对巴拉圭通信和技术部长比利亚特采取反制措施](https://www.thepaper.cn/newsDetail_forward_34234628)
-9. [言短意长｜校园仪容仪表管理为何频引争议](https://www.thepaper.cn/newsDetail_forward_34238162)
+8. [言短意长｜校园仪容仪表管理为何频引争议](https://www.thepaper.cn/newsDetail_forward_34238162)
+9. [70亩私立学校被伪造签名过户给商业公司？盐城市不动产登记中心：如果伪造须承担法律责任](https://www.thepaper.cn/newsDetail_forward_34226378)
 10. [博士团解读宁波⑦｜“宁波帮”两百年的创业精神、家国情怀、产业创新和未来发展](https://www.thepaper.cn/newsDetail_forward_34142904)
 11. [吉林松原回应“大棚撂荒仍领补贴”：成立联合调查组开展调查](https://www.thepaper.cn/newsDetail_forward_34235509)
 12. [王兴兴：过去十几年犯的最大错误是不够相信AI，具身智能临界点最快一两年内到来](https://www.thepaper.cn/newsDetail_forward_34235226)
-13. [70亩私立学校被伪造签名过户给商业公司？盐城市不动产登记中心：如果伪造须承担法律责任](https://www.thepaper.cn/newsDetail_forward_34226378)
-14. [诺奖解析｜新凯恩斯主义何以摘得今年诺奖？应对经济衰退，两位获奖者有何洞见？](https://www.thepaper.cn/newsDetail_forward_34237390)
-15. [来论｜扩消费、稳就业，今年诺贝尔经济学奖对中国宏观政策有何启示？](https://www.thepaper.cn/newsDetail_forward_34237299)
-16. [对话｜汤加副首相拉图：四大全球倡议充分体现中国领导人的远见与卓越领导力](https://www.thepaper.cn/newsDetail_forward_34237107)
-17. [连环遇袭的机场与缺席的石油巨头：在战争与资本间抉择的沙特｜907编辑部](https://www.thepaper.cn/newsDetail_forward_34237432)
-18. [多地领导干部为何纷纷调研大型实景演出？](https://www.thepaper.cn/newsDetail_forward_34237657)
-19. [涉及CR450系列化产品、12306升级，未来五年铁路出行将有这些新变化](https://www.thepaper.cn/newsDetail_forward_34237947)
-20. [经纬度：发展新质生产力，从点状突破走向系统集成](https://www.thepaper.cn/newsDetail_forward_34235625)
+13. [诺奖解析｜新凯恩斯主义何以摘得今年诺奖？应对经济衰退，两位获奖者有何洞见？](https://www.thepaper.cn/newsDetail_forward_34237390)
+14. [来论｜扩消费、稳就业，今年诺贝尔经济学奖对中国宏观政策有何启示？](https://www.thepaper.cn/newsDetail_forward_34237299)
+15. [对话｜汤加副首相拉图：四大全球倡议充分体现中国领导人的远见与卓越领导力](https://www.thepaper.cn/newsDetail_forward_34237107)
+16. [连环遇袭的机场与缺席的石油巨头：在战争与资本间抉择的沙特｜907编辑部](https://www.thepaper.cn/newsDetail_forward_34237432)
+17. [多地领导干部为何纷纷调研大型实景演出？](https://www.thepaper.cn/newsDetail_forward_34237657)
+18. [涉及CR450系列化产品、12306升级，未来五年铁路出行将有这些新变化](https://www.thepaper.cn/newsDetail_forward_34237947)
+19. [经纬度：发展新质生产力，从点状突破走向系统集成](https://www.thepaper.cn/newsDetail_forward_34235625)
+20. [2026年诺贝尔经济学奖授予给2名经济学家，他们的研究提升了宏观调控的能力](https://www.thepaper.cn/newsDetail_forward_34235905)
