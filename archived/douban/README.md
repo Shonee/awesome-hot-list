@@ -1,6 +1,6 @@
 # 豆瓣热榜
 
-> 更新时间：2026-10-13 19:42:56
+> 更新时间：2026-10-13 20:21:49
 
 ## 小组精选
 
@@ -12,7 +12,7 @@
 6. [一定要大量读书！敏感、拧巴、内耗，请狠狠读这6本书](https://www.douban.com/group/topic/502136177/?_spm_id=MTc3NjY4MjE3)
 7. [123只猫猫头🐱](https://www.douban.com/group/topic/502031311/?_spm_id=MTU1NjAwMzg)
 8. [寒露时节，山间桂花香](https://www.douban.com/group/topic/502291014/?_spm_id=MjI0MjE5MA)
-9. [暑假打工三个月收入8W+](https://www.douban.com/group/topic/502272406/?_spm_id=MjQzMDA0MzMw)
+9. [暑假在美打工三个月收入8W+](https://www.douban.com/group/topic/502272406/?_spm_id=MjQzMDA0MzMw)
 10. [毛戈平化妆手法真牛！](https://www.douban.com/group/topic/502110149/?_spm_id=MTgxMTk5NzQw)
 11. [如果你恨他。。请带他来意大利。来意大利，那真是享老福了。。](https://www.douban.com/group/topic/502253178/?_spm_id=MTA1ODg2Nzgy)
 12. [冬瓜里竟然藏着雪花❄️](https://www.douban.com/group/topic/502061749/?_spm_id=MTEwNzY4Njg1)

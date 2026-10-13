@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-13 19:12:52
+> 更新时间：2026-10-13 20:21:20
 
 ## 24 小时热榜
 
@@ -16,24 +16,24 @@
 10. [字节跳动 Seed 单独设立大模型安全与对齐部门](https://readhub.cn/topic/8xBbfLozJpb?tab=daily)
 11. [懂车帝：某网友夸大员工身份和不实内容，已启动法律固证后续依法维权](https://readhub.cn/topic/8xBiRuTyco3?tab=daily)
 12. [领克 10 EM-P 翻滚坠落近百米崖底，官方回应乘员舱完好车主轻伤](https://readhub.cn/topic/8xBfb2hle2s?tab=daily)
-13. [谷歌推出 Fitbit Edge 手环新品：支持心电图、GPS，179.99 欧元](https://readhub.cn/topic/8xAbWYkFj0n?tab=daily)
-14. [3 个月超 5000 亿词元：AI 重建《现代战争 2》源代码 83% 逐字节匹配](https://readhub.cn/topic/8xBQwUyfgAn?tab=daily)
-15. [杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数](https://readhub.cn/topic/8xAeiXYV1bG?tab=daily)
-16. [英国高院裁定中国受害者或仅能拿回涉案本金及利息](https://readhub.cn/topic/8xAuQOY2Fvk?tab=daily)
-17. [Anthropic 强化蒸馏攻击防御，已封禁数万个相关账号](https://readhub.cn/topic/8xBORVF6Eo0?tab=daily)
-18. [华为 Q3 中国智能手机份额升至 21.1% 为头部唯一双位数增长品牌](https://readhub.cn/topic/8xBeATUC0Uc?tab=daily)
+13. [懂车帝相关负责人连发 4 条微博，质疑尊界检测结果](https://readhub.cn/topic/8xBsVddqNoi?tab=daily)
+14. [谷歌推出 Fitbit Edge 手环新品：支持心电图、GPS，179.99 欧元](https://readhub.cn/topic/8xAbWYkFj0n?tab=daily)
+15. [3 个月超 5000 亿词元：AI 重建《现代战争 2》源代码 83% 逐字节匹配](https://readhub.cn/topic/8xBQwUyfgAn?tab=daily)
+16. [杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数](https://readhub.cn/topic/8xAeiXYV1bG?tab=daily)
+17. [英国高院裁定中国受害者或仅能拿回涉案本金及利息](https://readhub.cn/topic/8xAuQOY2Fvk?tab=daily)
+18. [Anthropic 强化蒸馏攻击防御，已封禁数万个相关账号](https://readhub.cn/topic/8xBORVF6Eo0?tab=daily)
 19. [MiniMax 入驻天猫开设首家官方旗舰店 开售 Token 套餐](https://readhub.cn/topic/8xBX0vKEfzj?tab=daily)
-20. [千问将推出 Personal Agent「千问 Go」](https://readhub.cn/topic/8xBVF9C9lbY?tab=daily)
-21. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
-22. [天阳科技：签订 2 万张英伟达 GPU 产品采购合同](https://readhub.cn/topic/8xBMIhEAHuE?tab=daily)
-23. [江淮汽车内部人士回应尊界 SUV 给赛力斯做：不实消息](https://readhub.cn/topic/8xAL3bJaLVt?tab=daily)
-24. [加拿大鹅广告拍摄团队被曝在宁波山里遗留大量垃圾，品牌方致歉](https://readhub.cn/topic/8xBjvCPF6Pn?tab=daily)
-25. [华为披露麒麟 9050 系列已经成功量产](https://readhub.cn/topic/8xBr2gfULPv?tab=daily)
-26. [让潜水员留在岸上：浙大团队押注双臂「机械蛙人」](https://readhub.cn/topic/8xBGZqpjgsM?tab=daily)
-27. [苹果首款折叠 iPhone Duo 铰链散热方案首次披露，内置柔性石墨管](https://readhub.cn/topic/8xBd88xuZy4?tab=daily)
-28. [韩资逆势加仓中国硬科技 多只标的获净买入](https://readhub.cn/topic/8xBuEhYt8Cc?tab=daily)
-29. [2026 年诺贝尔经济学奖揭晓，两名经济学家获奖](https://readhub.cn/topic/8xANZ2cEb4A?tab=daily)
-30. [中汽协公布 2026 年 9 月汽车销量 295.6 万辆 同比降 8.4%](https://readhub.cn/topic/8xAFNbu3Leh?tab=daily)
+20. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
+21. [华为 Q3 中国智能手机份额升至 21.1% 为头部唯一双位数增长品牌](https://readhub.cn/topic/8xBeATUC0Uc?tab=daily)
+22. [千问将推出 Personal Agent「千问 Go」](https://readhub.cn/topic/8xBVF9C9lbY?tab=daily)
+23. [天阳科技：签订 2 万张英伟达 GPU 产品采购合同](https://readhub.cn/topic/8xBMIhEAHuE?tab=daily)
+24. [华为披露麒麟 9050 系列已经成功量产](https://readhub.cn/topic/8xBr2gfULPv?tab=daily)
+25. [让潜水员留在岸上：浙大团队押注双臂「机械蛙人」](https://readhub.cn/topic/8xBGZqpjgsM?tab=daily)
+26. [江淮汽车内部人士回应尊界 SUV 给赛力斯做：不实消息](https://readhub.cn/topic/8xAL3bJaLVt?tab=daily)
+27. [加拿大鹅广告拍摄团队被曝在宁波山里遗留大量垃圾，品牌方致歉](https://readhub.cn/topic/8xBjvCPF6Pn?tab=daily)
+28. [苹果首款折叠 iPhone Duo 铰链散热方案首次披露，内置柔性石墨管](https://readhub.cn/topic/8xBd88xuZy4?tab=daily)
+29. [重庆市原市长黄奇帆被查](https://readhub.cn/topic/8xC3sxxFPoS?tab=daily)
+30. [韩资逆势加仓中国硬科技 多只标的获净买入](https://readhub.cn/topic/8xBuEhYt8Cc?tab=daily)
 
 ## 每日早报
 
