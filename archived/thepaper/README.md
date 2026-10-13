@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-13 22:45:55
+> 更新时间：2026-10-13 23:42:34
 
 ## 热新闻
 
@@ -21,6 +21,6 @@
 15. [博士团解读宁波⑧｜“一生只做一件事”：宁波制造业小巨人成群背后的朴素执着](https://www.thepaper.cn/newsDetail_forward_34140048)
 16. [人民日报：中国消费增长“慢”下来了吗？还有挖潜空间吗？](https://www.thepaper.cn/newsDetail_forward_34239799)
 17. [住酒店自驾可畅行“天眼”核心区？酒店回应现调整为乘接驳车进出，多个平台已无法订房](https://www.thepaper.cn/newsDetail_forward_34240844)
-18. [涉及CR450系列化产品、12306升级，未来五年铁路出行将有这些新变化](https://www.thepaper.cn/newsDetail_forward_34237947)
-19. [视频丨魏家犯罪集团案一审宣判，梳理缅北四大家族覆灭时间线](https://www.thepaper.cn/newsDetail_forward_34241806)
-20. [IMF上调2026年世界经济增长预期至3.1%](https://www.thepaper.cn/newsDetail_forward_34240763)
+18. [视频丨魏家犯罪集团案一审宣判，梳理缅北四大家族覆灭时间线](https://www.thepaper.cn/newsDetail_forward_34241806)
+19. [IMF上调2026年世界经济增长预期至3.1%](https://www.thepaper.cn/newsDetail_forward_34240763)
+20. [又一个系统性改革的元年，CBA能为中国篮球交出什么答卷](https://www.thepaper.cn/newsDetail_forward_34241552)
