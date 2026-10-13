@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-13 17:47:02
+> 更新时间：2026-10-13 18:43:50
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [黑客Cyberleek宣称《GTA6》下一段泄露为露西亚4K视频 并挂出募捐目标](https://www.gamersky.com/news/202610/2225753.shtml)
 12. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
 13. [《光与影：33号远征队》强开DLSS5差异巨大 真实质感拉满](https://www.gamersky.com/news/202610/2225661.shtml)
-14. [腾讯《全境封锁2》官宣停运！上线3年 12月彻底关停](https://www.gamersky.com/news/202610/2226116.shtml)
-15. [《太吾异世劫》10月15日登陆Steam 38元首发折扣20%最低24元](https://www.gamersky.com/news/202610/2225555.shtml)
+14. [PS5惨遭破解 商店应用上线 免费下载游戏](https://www.gamersky.com/news/202610/2226474.shtml)
+15. [腾讯《全境封锁2》官宣停运！上线3年 12月彻底关停](https://www.gamersky.com/news/202610/2226116.shtml)
