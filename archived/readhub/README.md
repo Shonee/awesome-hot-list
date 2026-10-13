@@ -1,26 +1,26 @@
 # Readhub热榜
 
-> 更新时间：2026-10-13 23:13:20
+> 更新时间：2026-10-14 00:15:36
 
 ## 24 小时热榜
 
 1. [DeepSeek 考虑入局具身智能，梁文锋正密集与相关创业者交流](https://readhub.cn/topic/8xAe0gJYuTs?tab=daily)
 2. [霸王茶姬将发放 1350 万元专项奖励感谢员工](https://readhub.cn/topic/8xAXDOJZyfH?tab=daily)
 3. [网传住酒店可参观「中国天眼」核心区 中国科学院：正核查](https://readhub.cn/topic/8xAkm3xx0Aa?tab=daily)
-4. [编造月之暗面相关谣言人员已被警方采取刑事强制措施](https://readhub.cn/topic/8xAk481mRaz?tab=daily)
-5. [尊界 V800 公布制动踏板第三方检测结果：符合行标要求](https://readhub.cn/topic/8xBS112hJdF?tab=daily)
-6. [OpenAI 为 ChatGPT 接入智能 UI，手搓 AI 应用赛道或受冲击](https://readhub.cn/topic/8xBQxM9cZyJ?tab=daily)
-7. [阿里千问发布全新 AI 眼镜、AI 耳机，1099 元起开售](https://readhub.cn/topic/8xBtYY3Wy6z?tab=daily)
-8. [懂车帝相关负责人连发 4 条微博，质疑尊界检测结果](https://readhub.cn/topic/8xBsVddqNoi?tab=daily)
-9. [字节跳动 Seed 单独设立大模型安全与对齐部门](https://readhub.cn/topic/8xBbfLozJpb?tab=daily)
-10. [重庆市原市长黄奇帆被查](https://readhub.cn/topic/8xC3sxxFPoS?tab=daily)
-11. [懂车帝：某网友夸大员工身份和不实内容，已启动法律固证后续依法维权](https://readhub.cn/topic/8xBiRuTyco3?tab=daily)
-12. [领克 10 EM-P 翻滚坠落近百米崖底，官方回应乘员舱完好车主轻伤](https://readhub.cn/topic/8xBfb2hle2s?tab=daily)
+4. [尊界 V800 公布制动踏板第三方检测结果：符合行标要求](https://readhub.cn/topic/8xBS112hJdF?tab=daily)
+5. [OpenAI 为 ChatGPT 接入智能 UI，手搓 AI 应用赛道或受冲击](https://readhub.cn/topic/8xBQxM9cZyJ?tab=daily)
+6. [阿里千问发布全新 AI 眼镜、AI 耳机，1099 元起开售](https://readhub.cn/topic/8xBtYY3Wy6z?tab=daily)
+7. [懂车帝相关负责人连发 4 条微博，质疑尊界检测结果](https://readhub.cn/topic/8xBsVddqNoi?tab=daily)
+8. [字节跳动 Seed 单独设立大模型安全与对齐部门](https://readhub.cn/topic/8xBbfLozJpb?tab=daily)
+9. [重庆市原市长黄奇帆被查](https://readhub.cn/topic/8xC3sxxFPoS?tab=daily)
+10. [懂车帝：某网友夸大员工身份和不实内容，已启动法律固证后续依法维权](https://readhub.cn/topic/8xBiRuTyco3?tab=daily)
+11. [领克 10 EM-P 翻滚坠落近百米崖底，官方回应乘员舱完好车主轻伤](https://readhub.cn/topic/8xBfb2hle2s?tab=daily)
+12. [苹果推出 HomeView 智能家居设备 售价 299 美元 11 月 13 日上市](https://readhub.cn/topic/8xCGOPb2gMC?tab=daily)
 13. [3 个月超 5000 亿词元：AI 重建《现代战争 2》源代码 83% 逐字节匹配](https://readhub.cn/topic/8xBQwUyfgAn?tab=daily)
-14. [苹果推出 HomeView 智能家居设备 售价 299 美元 11 月 13 日上市](https://readhub.cn/topic/8xCGOPb2gMC?tab=daily)
-15. [英国高院裁定中国受害者或仅能拿回涉案本金及利息](https://readhub.cn/topic/8xAuQOY2Fvk?tab=daily)
-16. [杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数](https://readhub.cn/topic/8xAeiXYV1bG?tab=daily)
-17. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
+14. [英国高院裁定中国受害者或仅能拿回涉案本金及利息](https://readhub.cn/topic/8xAuQOY2Fvk?tab=daily)
+15. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
+16. [苹果新款 Apple TV 4K 发布 起售价 2399 港元](https://readhub.cn/topic/8xCGOoK8Bsj?tab=daily)
+17. [杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数](https://readhub.cn/topic/8xAeiXYV1bG?tab=daily)
 18. [千问将推出 Personal Agent「千问 Go」](https://readhub.cn/topic/8xBVF9C9lbY?tab=daily)
 19. [华为 Q3 中国智能手机份额升至 21.1% 为头部唯一双位数增长品牌](https://readhub.cn/topic/8xBeATUC0Uc?tab=daily)
 20. [Anthropic 强化蒸馏攻击防御，已封禁数万个相关账号](https://readhub.cn/topic/8xBORVF6Eo0?tab=daily)
@@ -32,8 +32,8 @@
 26. [江淮汽车内部人士回应尊界 SUV 给赛力斯做：不实消息](https://readhub.cn/topic/8xAL3bJaLVt?tab=daily)
 27. [软通动力回应删除 8000 张英伟达 GPU 到货相关文章](https://readhub.cn/topic/8x9oBc43ZiA?tab=daily)
 28. [苹果首款折叠 iPhone Duo 铰链散热方案首次披露，内置柔性石墨管](https://readhub.cn/topic/8xBd88xuZy4?tab=daily)
-29. [苹果新款 Apple TV 4K 发布 起售价 2399 港元](https://readhub.cn/topic/8xCGOoK8Bsj?tab=daily)
-30. [韩资逆势加仓中国硬科技 多只标的获净买入](https://readhub.cn/topic/8xBuEhYt8Cc?tab=daily)
+29. [韩资逆势加仓中国硬科技 多只标的获净买入](https://readhub.cn/topic/8xBuEhYt8Cc?tab=daily)
+30. [Ghost 获 a16z 领投 1100 万美元 推出无屏私人 AI 电脑 Core](https://readhub.cn/topic/8xAMqerwUQc?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [AI 真的能制造机器了？一家初创公司花六年造出微型继电器](https://www.mittrchina.com/news/detail/17090)
-2. [OpenAI 让密码学家开始警惕：AI 会攻破互联网的加密系统吗？](https://www.mittrchina.com/news/detail/17089)
-3. [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
-4. [罗氏要让 AI 参与八成研究决策，药物研发正在进入模型驱动的闭环时代](https://www.mittrchina.com/news/detail/17085)
-5. [IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%](https://www.aibase.com/zh/news/31617)
-6. [苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔](https://www.aibase.com/zh/news/31616)
-7. [面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token / s](https://www.aibase.com/zh/news/31615)
-8. [Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产](https://www.aibase.com/zh/news/31611)
-9. [千问发布 AI 眼镜 N1、N1Pro 及 Bose 联名 AI 耳夹式耳机，开启主动 AI 新时代](https://www.aibase.com/zh/news/31609)
-10. [字节跳动 Seed 单独设立大模型安全与对齐部门](https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html)
+1. [AI 真的能制造机器了？一家初创公司花六年造出微型继电器 美国初创公司 Atomic Machines 结束长达六年的隐身研发，正式发布名为 Matter Compiler（物质编译器）的 AI 制造系统，并推出首款产品 PrimeSwitch—— 一枚面向 AI 数据中心供电系统的微型继电器。该公司希望利用 AI 和自动化技术改变微型机器的制造方式。按照其设想，未来开发者只需描述设备的功能需求，AI 便可协助完成结构设计、性能模拟和制造流程规划，最终制造出可用的微型机器。 麻省理工科技评论 5 小时前](https://www.mittrchina.com/news/detail/17090)
+2. [OpenAI 让密码学家开始警惕：AI 会攻破互联网的加密系统吗？ 知名硅谷风投 a16z 旗下的加密部门 a16z crypto 发布了一场对谈，邀请斯坦福大学密码学家 Dan Boneh、乔治城大学计算机科学副教授 Justin Thaler 等人，讨论人工智能数学能力突飞猛进对现代密码系统的潜在威胁。数学难题接连出现新进展，也引发了新的担忧：如果 AI 能够不断攻克人类长期未解决的数学难题，那么支撑银行交易、私人通信和加密货币安全的密码学体系，是否也可能受到冲击。对谈还讨论了 AI 与量子计算在破解密码学难题上的区别，以及后量子方案如何与现有系统并行部署。 麻省理工科技评论 5 小时前](https://www.mittrchina.com/news/detail/17089)
+3. [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and CUDA technologies for creators, developers and gamers, while unlocking a new paradigm in personal computing via powerful local AI agents. Ahead of the launch, NVIDIA and its ecosystem partners are rolling out new software features and performance optimizations to expand what's possible with local AI on RTX Spark. From models to agent harnesses to security to tools, NVIDIA is partnering closely with the local AI ecosystem to make RTX Spark the ideal hardware to run local agents. NVIDIA Blog 4 小时前](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
+4. [罗氏要让 AI 参与八成研究决策，药物研发正在进入模型驱动的闭环时代 亮眼数据之外，真正让这场投资者日有别于往年的，是罗氏旗下基因泰克（Genentech）研究与早期开发部门（gRED）负责人阿维夫・雷格夫（Aviv Regev）的报告《用实验室闭环变革药物研发》。罗氏开发了靶点评估智能体 TargetNexus，从靶点生物学、药物发现、临床与组合三个层面、11 个维度审视候选靶点，目标是在今年第四季度前参与 80% 的研究组合决策。为这些能力买单的钱，来自研发体系内部的腾挪：罗氏计划在 2024 年至 2026 年间，把研发效率提升省下的约 19.6 亿瑞士法郎重新分配，其中 4.86 亿瑞士法郎投向实验室闭环和类器官等「未来能力」。 麻省理工科技评论 14 小时前](https://www.mittrchina.com/news/detail/17085)
+5. [IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28% 2026 年上半年，英伟达在中国数据中心 AI 芯片市场的占有率滑落到 34%。今年 1 至 6 月，英伟达在华 AI 加速器（用于训练与运行 AI 模型）出货量仅 67.8 万颗，同比骤降 44%。CEO 黄仁勋早就不止一次炮轰华盛顿的限令，直言这套政策逼着英伟达把中国这块价值 500 亿美元的 AI 芯片市场，拱手送给华为。 AIBase 6 小时前](https://www.aibase.com/zh/news/31617)
+6. [苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔 在提交给监管机构的文件里，苹果披露已和个性化音频初创企业 Huxe 达成一笔「反向收购雇佣」（reverse acqui-hire）交易 —— 既接收对方的核心团队成员，也把技术一并授权过来。苹果向欧盟委员会写明，自己同意向「Huxe AI 的某些员工」发出雇佣要约，同时拿到 Huxe 知识产权的非独占许可。「反向收购雇佣」是这几年才流行起来的打法：大公司不整体吞下初创，只把关键团队雇过来、再把技术授权走，既能攒起 AI 人才和技术库，又能尽量不惊动反垄断审查的雷达。 AIBase 6 小时前](https://www.aibase.com/zh/news/31616)
+7. [面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token / s 面壁智能当天推出新一代端侧多模态大模型 MiniCPM-V 4.7，一口气给出 35B-A3B 与 1B 两种规格。其中 35B-A3B 是 MiniCPM-V 家族里首个 MoE（混合专家）模型，并依托全新的 LES「前瞻专家调度」推理加速技术，成为业界首个能在端侧无损、流畅运行的开源 MoE。最抓眼球的数字是落地表现：在 iPhone 17 Pro Max 上，它仅占用 3GB 内存，便跑出 13+ token / s 的解码速度。 AIBase 6 小时前](https://www.aibase.com/zh/news/31615)
+8. [Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产 虚拟角色聊天平台 Character.AI 当地时间周一在美国申请破产保护，并同意以 2000 万美元（约合人民币 1.34 亿元）的价格，把部分资产卖给华特迪士尼。公司现已启动《破产法》第 11 章下的资产出售流程，准备剥离一批知识产权，同时向法院申请批准拍卖规则，并把迪士尼指定为「首席竞标方」。作为由大语言模型驱动的虚拟角色互动社区，Character.AI 坐拥数百万由用户与官方共创的 AI 角色，从动漫游戏人物、历史名人到原创虚构主角不一而足。 AIBase 7 小时前](https://www.aibase.com/zh/news/31611)
+9. [千问发布 AI 眼镜 N1、N1Pro 及 Bose 联名 AI 耳夹式耳机，开启主动 AI 新时代 千问正式发布 AI 眼镜 N1、N1Pro 及与 Bose 共同推出的 AI 耳夹式耳机三款新品，标志着 AI 个人智能体（Personal Agent）向物理世界深度延伸。其中 N1Pro 为行业首个支持体征实时监测（心率、血氧、皮肤温度）的 AI 眼镜，并创新引入眼动交互与误识率低于百万分之一的虹膜核身支付技术。联名 AI 耳夹式耳机采用开放式设计，支持 89 种语言实时翻译、AI 听记及复杂任务交办。 AIBase 7 小时前](https://www.aibase.com/zh/news/31609)
+10. [字节跳动 Seed 单独设立大模型安全与对齐部门 字节跳动 Seed 近日发出内部邮件，宣布成立「Seed Model-Alignment&Preparedness」部门，由严林负责，汇报给 Seed 负责人吴永辉。该部门旨在加强安全与对齐方向的投入，对齐的核心是让模型行为与人类意图和安全约束保持一致，从而提升 Agent Model（智能体模型）安全能力，并防范 CBRN（化学、生物、放射、核）等前沿能力风险。Seed 安全与对齐部门将围绕模型规范制定、安全评估体系建设、对齐训练、防护系统搭建和风险监控等方向持续投入，并加强与外部研究机构和第三方评测的公开合作，最终使前沿模型在安全与授权约束内有效完成任务，随着模型能力和自主性增强，持续降低滥用及行为偏离风险，建立面对未知风险的全面安全体系。 雷锋网 10 小时前](https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html)
