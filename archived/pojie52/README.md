@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-13 14:25:52
+> 更新时间：2026-10-13 15:03:02
 
 ## 人气热门
 
@@ -57,23 +57,23 @@
 
 ## 精华采撷
 
-1. [Bastion 棱堡，对称加密算法库，支持CTR、CBC、XTS、AEAD、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2131143-1-1.html)
-2. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-3. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-4. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
-5. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-6. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
-7. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
-8. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
-9. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-10. [站内CrackMe WriteUp —— 32位无壳带反调试模拟真实校验精品CrackMe](https://www.52pojie.cn/thread-2124009-1-1.html)
-11. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-12. [从0到1构建一个注入工具之注入器篇（二）](https://www.52pojie.cn/thread-2097864-1-1.html)
-13. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
-14. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-15. [Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...](https://www.52pojie.cn/thread-2107426-1-1.html)
-16. [【多栈实战】某黑产软件全链路逆向实录 (下)](https://www.52pojie.cn/thread-2113640-1-1.html)
-17. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
+1. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
+2. [Bastion 棱堡，对称加密算法库，支持CTR、CBC、XTS、AEAD、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2131143-1-1.html)
+3. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+4. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+5. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
+6. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+7. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+8. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
+9. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+10. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+11. [站内CrackMe WriteUp —— 32位无壳带反调试模拟真实校验精品CrackMe](https://www.52pojie.cn/thread-2124009-1-1.html)
+12. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+13. [从0到1构建一个注入工具之注入器篇（二）](https://www.52pojie.cn/thread-2097864-1-1.html)
+14. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+15. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+16. [Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...](https://www.52pojie.cn/thread-2107426-1-1.html)
+17. [【多栈实战】某黑产软件全链路逆向实录 (下)](https://www.52pojie.cn/thread-2113640-1-1.html)
 18. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
 19. [Allsafe靶场全解](https://www.52pojie.cn/thread-2122890-1-1.html)
 20. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
