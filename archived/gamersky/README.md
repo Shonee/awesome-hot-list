@@ -1,11 +1,11 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-13 09:37:00
+> 更新时间：2026-10-13 10:30:43
 
 ## 热点资讯排行
 
-1. [《巫师3重制版》叶奈法BUG 玩家跪求别修](https://www.gamersky.com/news/202610/2225612.shtml)
-2. [GTA6女主一丝不挂大街乱跑!新泄露有人不信有人嫌小](https://www.gamersky.com/news/202610/2225887.shtml)
+1. [GTA6女主一丝不挂大街乱跑!新泄露有人不信有人嫌小](https://www.gamersky.com/news/202610/2225887.shtml)
+2. [《巫师3重制版》叶奈法BUG 玩家跪求别修](https://www.gamersky.com/news/202610/2225612.shtml)
 3. [《GTA6》露西亚4K没衣服实机已发！葱哥真放狠活了](https://www.gamersky.com/news/202610/2226356.shtml)
 4. [沫子杯真送“沫子杯”！沫子定制款 还能加热](https://www.gamersky.com/news/202610/2225615.shtml)
 5. [葱哥放出《GTA6》露西娅实机](https://www.gamersky.com/news/202610/2225748.shtml)
@@ -18,4 +18,4 @@
 12. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
 13. [《太吾异世劫》10月15日登陆Steam 38元首发折扣20%最低24元](https://www.gamersky.com/news/202610/2225555.shtml)
 14. [《光与影：33号远征队》强开DLSS5差异巨大 真实质感拉满](https://www.gamersky.com/news/202610/2225661.shtml)
-15. [《血源》社区原生PC移植版再更新：支持4K与120帧 v1.6加入在线功能测试](https://www.gamersky.com/news/202610/2225755.shtml)
+15. [腾讯《全境封锁2》官宣停运！上线3年 12月彻底关停](https://www.gamersky.com/news/202610/2226116.shtml)

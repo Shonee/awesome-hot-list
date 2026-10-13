@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 09:36:57
+> 更新时间：2026-10-13 10:30:20
 
 ## 新闻热榜
 
@@ -27,22 +27,22 @@
 
 ## 财经热榜
 
-1. [古巴国家主席谴责美国制裁加剧粮食困境](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7203334.shtml)
-2. [10月13日收盘：三大指数涨跌不一 油价走高 标普500牛市四周年之际市场聚焦银行财报与通胀数据](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkv8197690.shtml)
-3. [特朗普遭两党批评后为俄罗斯柴油协议辩护：“我做出了正确选择”](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxut5127373.shtml)
-4. [欧盟对 1569 个俄罗斯军工相关实体及个人实施制裁。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7243578.shtml)
-5. [为何也门胡塞武装难以击败？一文了解其军事实力和外部支持](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzear5152305.shtml)
-6. [两党共同反对美俄柴油交易，特朗普公开辩护：我做出了正确选择](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxux7208980.shtml)
-7. [报道：美国告诉乌克兰允许俄罗斯出口柴油旨在软化莫斯科](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkks0349038.shtml)
-8. [美联储哈马克：随着“通胀心态”形成的风险上升，可能需要更高利率](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0473922.shtml)
-9. [日媒首次公开“战犯神社”保密档案，揭露东条英机等14名甲级战犯被合祀决策过程](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzkkt7239929.shtml)
-10. [原油：布伦特和WTI齐转涨 中东和俄乌都传来利空供应消息](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkt7122420.shtml)
-11. [扎克伯格：Meta在人工智能前沿已赶上竞争对手](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0487254.shtml)
-12. [印度储备银行：外汇风险溢价应等于每笔衍生品合约名义本金等值印度卢比金额的20%。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7204152.shtml)
-13. [Meta首席执行官扎克伯格：保障模型安全的责任应由各家实验室自行承担。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7238770.shtml)
-14. [伊朗革命卫队海军司令：美国动用全部力量，只为护送四五艘油轮通过海峡，活像个小走私贩子。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxuw0488584.shtml)
-15. [Meta首席执行官扎克伯格：推出 Muse Wonder。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7234074.shtml)
-16. [沙特民航局：利雅得哈立德国王国际机场周六遭遇袭击。](https://finance.sina.com.cn/7x24/2026-10-11/doc-iniuumqz7362123.shtml)
-17. [马斯克豪掷2.76亿美元助共和党，捐赠规模已超2024年大选](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkt7184623.shtml)
-18. [伊朗副外长加里巴巴迪：伊朗正在敲定对美国的回应，一旦磋商完成，将通过中间人传达其立场。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeau0433649.shtml)
-19. [沙特当局表示威胁已解除。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeau0389155.shtml)
+1. [清晨，集体跳水！股市“吹哨人”，突然发声！](https://finance.sina.com.cn/stock/zqgd/2026-10-13/doc-iniuzqsr7156104.shtml)
+2. [操盘必读：影响股市利好或利空消息_2026年10月13日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-13/doc-iniuzqst8217734.shtml)
+3. [人民日报：中国消费增长“慢”下来了吗？还有挖潜空间吗？](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8182484.shtml)
+4. [预增超18倍，前“股王”业绩炸裂！A股三季报预增潮来袭（附名单）](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsr7182056.shtml)
+5. [财经早报丨1天内6艘船舶在霍尔木兹海峡附近遭袭，证监会主席吴清将出席重磅会议并作演讲丨2026年10月13日](https://finance.sina.com.cn/stock/y/2026-10-13/doc-iniuzqsq0398814.shtml)
+6. [果然是一个大乌龙](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8211546.shtml)
+7. [某涉密单位主任孙某为图方便，将机密级文件用小程序转成电子文档，小程序员工将文件导出后售卖被抓获](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsq0407779.shtml)
+8. [茅台重归“股王” 两只千元股业绩大幅预增](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzear5057839.shtml)
+9. [10月13日收盘：三大指数涨跌不一 油价走高 标普500牛市四周年之际市场聚焦银行财报与通胀数据](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkv8197690.shtml)
+10. [股海导航_2026年10月13日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-13/doc-iniuzqst8215288.shtml)
+11. [为何也门胡塞武装难以击败？一文了解其军事实力和外部支持](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzear5152305.shtml)
+12. [古巴国家主席谴责美国制裁加剧粮食困境](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7203334.shtml)
+13. [也门政府军称打死近千名胡塞武装人员](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqsq0345045.shtml)
+14. [四大证券报头版头条内容精华摘要_2026年10月13日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-13/doc-iniuzqsq0410776.shtml)
+15. [日媒首次公开“战犯神社”保密档案，揭露东条英机等14名甲级战犯被合祀决策过程](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzkkt7239929.shtml)
+16. [报道：美国告诉乌克兰允许俄罗斯出口柴油旨在软化莫斯科](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkks0349038.shtml)
+17. [证监会：推动北交所、新三板一体化高质量发展](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzeax8211924.shtml)
+18. [马斯克豪掷2.76亿美元助共和党，捐赠规模已超2024年大选](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkt7184623.shtml)
+19. [巴菲特看了会摇头！华尔街出现对赌ETF：标普500指数何时上万点](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5051529.shtml)
