@@ -1,16 +1,16 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-14 00:17:18
+> 更新时间：2026-10-14 01:14:01
 
 ## Hottest
 
 1. [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 2. [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 3. [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
-4. [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
-5. [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
-6. [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
-7. [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
+4. [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
+5. [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
+6. [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
+7. [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 8. [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
 9. [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
 10. [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
@@ -26,6 +26,6 @@
 20. [500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 21. [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/)
 22. ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
-23. [What are you doing this week?](https://lobste.rs/s/7vzgsl)
-24. [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html)
+23. [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html)
+24. [What are you doing this week?](https://lobste.rs/s/7vzgsl)
 25. [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
