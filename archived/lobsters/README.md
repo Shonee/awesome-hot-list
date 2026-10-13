@@ -1,12 +1,12 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-14 02:19:48
+> 更新时间：2026-10-14 03:12:14
 
 ## Hottest
 
 1. [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
-2. [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
-3. [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
+2. [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
+3. [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 4. [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 5. [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 6. [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
@@ -23,9 +23,9 @@
 17. [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
 18. [500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 19. [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
-20. [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
-21. [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/)
-22. [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
-23. [What are you doing this week?](https://lobste.rs/s/7vzgsl)
-24. ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
-25. [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html)
+20. [Data-oriented Design for Mortals](https://www.youtube.com/watch?v=uI1Yx1CJAB0)
+21. [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
+22. [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/)
+23. [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
+24. [What are you doing this week?](https://lobste.rs/s/7vzgsl)
+25. ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
