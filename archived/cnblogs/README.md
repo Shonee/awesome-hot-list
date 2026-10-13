@@ -1,10 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-10-13 15:02:56
+> 更新时间：2026-10-13 15:53:17
 
 ## 最新帖子
 
-1. [哈希算法：一根看不见的 "指纹"，如何撑起整个互联网](https://www.cnblogs.com/codigger/p/23285481)
+1. [地平线 EB 级存储工程实践](https://www.cnblogs.com/JuiceData/p/23286926)
 2. [在传统 Win32 窗口中使用 UI Composition 技术](https://www.cnblogs.com/liulun/p/23285501)
 3. [infinite-creation本地AI短剧带货项目推荐-本地运行无费用0负担](https://www.cnblogs.com/MingGyGy-Castle/p/23275652/infinite-creation)
 4. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://www.cnblogs.com/zrui-xyu/p/23285070)
@@ -53,6 +53,6 @@
 1. [不用 Python 也能跑 YOLO？这个 .NET 库让我扔掉了 OpenCV](https://www.cnblogs.com/shanyou/p/23259541)
 2. [NuGet 周下载量悄悄破了 80 亿：.NET 这波增长，比我们自己预测的还猛](https://www.cnblogs.com/shanyou/p/23265924)
 3. [我做了个86五笔字根图解网站：哪个字忘了怎么拆，查一下就知道](https://www.cnblogs.com/sdcb/p/23262260/20261011-wubi86-viewer)
-4. [10个 Github 贼火火的、又实用的工具.Net开源项目](https://www.cnblogs.com/chingho/p/23261099)
-5. [HyMT2Sharp 2.0：纯 C# 的混元翻译，现在能跑在显卡上了](https://www.cnblogs.com/sdcb/p/23279890/20261012-hymt2sharp-2)
-6. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)
+4. [HyMT2Sharp 2.0：纯 C# 的混元翻译，现在能跑在显卡上了](https://www.cnblogs.com/sdcb/p/23279890/20261012-hymt2sharp-2)
+5. [AI卷王们，从窄路走向宽阔？](https://www.cnblogs.com/cicada-smile/p/23266064)
+6. [新项目选 Blazor 还是 Razor Pages？我交了学费](https://www.cnblogs.com/shenchuanchao/p/23212983/blazor-vs-razor-pages-new-project-lessons)

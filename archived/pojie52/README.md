@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-13 15:03:02
+> 更新时间：2026-10-13 15:53:21
 
 ## 人气热门
 
@@ -57,13 +57,13 @@
 
 ## 精华采撷
 
-1. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
-2. [Bastion 棱堡，对称加密算法库，支持CTR、CBC、XTS、AEAD、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2131143-1-1.html)
-3. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-4. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-5. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
-6. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-7. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+1. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+2. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+3. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
+4. [Bastion 棱堡，对称加密算法库，支持CTR、CBC、XTS、AEAD、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2131143-1-1.html)
+5. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+6. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+7. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
 8. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
 9. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
 10. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)

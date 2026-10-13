@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-13 15:03:15
+> 更新时间：2026-10-13 15:53:26
 
 ## 热新闻
 
@@ -9,18 +9,18 @@
 3. [诺奖解析｜新凯恩斯主义何以摘得今年诺奖？应对经济衰退，两位获奖者有何洞见？](https://www.thepaper.cn/newsDetail_forward_34237390)
 4. [推行普高“愿读尽读、全员直升”，嵊泗中考改革入选浙江示范项目创培名单](https://www.thepaper.cn/newsDetail_forward_34236961)
 5. [众声丨陪餐制拟入法：守护校园餐桌，关键在于“责”](https://www.thepaper.cn/newsDetail_forward_34235914)
-6. [男子在山西悬空寺木梁上做引体向上视频引关注，景区：该行为不允许，正在核实](https://www.thepaper.cn/newsDetail_forward_34235909)
-7. [上台“检讨”的教师们：“羞辱式”问责背后的教育困局](https://www.thepaper.cn/newsDetail_forward_34236591)
+6. [上台“检讨”的教师们：“羞辱式”问责背后的教育困局](https://www.thepaper.cn/newsDetail_forward_34236591)
+7. [男子在山西悬空寺木梁上做引体向上视频引关注，景区：该行为不允许，正在核实](https://www.thepaper.cn/newsDetail_forward_34235909)
 8. [言短意长｜校园仪容仪表管理为何频引争议](https://www.thepaper.cn/newsDetail_forward_34238162)
-9. [70亩私立学校被伪造签名过户给商业公司？盐城市不动产登记中心：如果伪造须承担法律责任](https://www.thepaper.cn/newsDetail_forward_34226378)
-10. [超强厄尔尼诺持续攀升 全球直面多重气候风险](https://www.thepaper.cn/newsDetail_forward_34236098)
+9. [超强厄尔尼诺持续攀升 全球直面多重气候风险](https://www.thepaper.cn/newsDetail_forward_34236098)
+10. [70亩私立学校被伪造签名过户给商业公司？盐城市不动产登记中心：如果伪造须承担法律责任](https://www.thepaper.cn/newsDetail_forward_34226378)
 11. [黑客攻击法国数百家超市，冰箱升温至50度，大量生鲜被销毁](https://www.thepaper.cn/newsDetail_forward_34240261)
 12. [博士团解读宁波⑧｜“一生只做一件事”：宁波制造业小巨人成群背后的朴素执着](https://www.thepaper.cn/newsDetail_forward_34140048)
 13. [住酒店自驾可畅行“天眼”核心区？酒店回应现调整为乘接驳车进出，多个平台已无法订房](https://www.thepaper.cn/newsDetail_forward_34240844)
 14. [来论｜扩消费、稳就业，今年诺贝尔经济学奖对中国宏观政策有何启示？](https://www.thepaper.cn/newsDetail_forward_34237299)
 15. [对话｜汤加副首相拉图：四大全球倡议充分体现中国领导人的远见与卓越领导力](https://www.thepaper.cn/newsDetail_forward_34237107)
-16. [连环遇袭的机场与缺席的石油巨头：在战争与资本间抉择的沙特｜907编辑部](https://www.thepaper.cn/newsDetail_forward_34237432)
-17. [多地领导干部为何纷纷调研大型实景演出？](https://www.thepaper.cn/newsDetail_forward_34237657)
+16. [多地领导干部为何纷纷调研大型实景演出？](https://www.thepaper.cn/newsDetail_forward_34237657)
+17. [连环遇袭的机场与缺席的石油巨头：在战争与资本间抉择的沙特｜907编辑部](https://www.thepaper.cn/newsDetail_forward_34237432)
 18. [涉及CR450系列化产品、12306升级，未来五年铁路出行将有这些新变化](https://www.thepaper.cn/newsDetail_forward_34237947)
-19. [经纬度：发展新质生产力，从点状突破走向系统集成](https://www.thepaper.cn/newsDetail_forward_34235625)
-20. [2026年诺贝尔经济学奖授予给2名经济学家，他们的研究提升了宏观调控的能力](https://www.thepaper.cn/newsDetail_forward_34235905)
+19. [2026年诺贝尔经济学奖授予给2名经济学家，他们的研究提升了宏观调控的能力](https://www.thepaper.cn/newsDetail_forward_34235905)
+20. [两部门：明年4月起，将新能源汽车的增值税出口退税率由13%下调至9%](https://www.thepaper.cn/newsDetail_forward_34236595)

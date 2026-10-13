@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 15:03:22
+> 更新时间：2026-10-13 15:53:33
 
 ## 新闻热榜
 
@@ -34,16 +34,16 @@
 5. [韩国综指跌熔断，SK海力士跌超7%、三星电子跌近6%](https://finance.sina.com.cn/stock/bxjj/2026-10-13/doc-iniuzuyn0361710.shtml)
 6. [茅台重归“股王” 两只千元股业绩大幅预增](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzear5057839.shtml)
 7. [果然是一个大乌龙](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8211546.shtml)
-8. [巴菲特看了会摇头！华尔街出现对赌ETF：标普500指数何时上万点](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5051529.shtml)
-9. [也门政府军称打死近千名胡塞武装人员](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqsq0345045.shtml)
-10. [尊界V800公布制动踏板第三方检测结果：加严检验至纵向力3000N后，未出现裂纹和损坏](https://finance.sina.com.cn/tech/shenji/2026-10-13/doc-iniuzuyn0478332.shtml)
+8. [也门政府军称打死近千名胡塞武装人员](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqsq0345045.shtml)
+9. [尊界V800公布制动踏板第三方检测结果：加严检验至纵向力3000N后，未出现裂纹和损坏](https://finance.sina.com.cn/tech/shenji/2026-10-13/doc-iniuzuyn0478332.shtml)
+10. [巴菲特看了会摇头！华尔街出现对赌ETF：标普500指数何时上万点](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5051529.shtml)
 11. [财经早报丨1天内6艘船舶在霍尔木兹海峡附近遭袭，证监会主席吴清将出席重磅会议并作演讲丨2026年10月13日](https://finance.sina.com.cn/stock/y/2026-10-13/doc-iniuzqsq0398814.shtml)
 12. [某涉密单位主任孙某为图方便，将机密级文件用小程序转成电子文档，小程序员工将文件导出后售卖被抓获](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsq0407779.shtml)
 13. [国际油价集体上涨，布油盘中涨破107美元，黄金白银齐跌，霍尔木兹海峡1天6艘船舶遭袭](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5049830.shtml)
-14. [股海导航_2026年10月13日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-13/doc-iniuzqst8215288.shtml)
+14. [科技日报：新质生产力不应成为资本炒作噱头！](https://finance.sina.com.cn/stock/relnews/cn/2026-10-13/doc-iniuzuyi4982743.shtml)
 15. [为何也门胡塞武装难以击败？一文了解其军事实力和外部支持](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzear5152305.shtml)
-16. [科技日报：新质生产力不应成为资本炒作噱头！](https://finance.sina.com.cn/stock/relnews/cn/2026-10-13/doc-iniuzuyi4982743.shtml)
-17. [日媒首次公开“战犯神社”保密档案，揭露东条英机等14名甲级战犯被合祀决策过程](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzkkt7239929.shtml)
-18. [证监会：推动北交所、新三板一体化高质量发展](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzeax8211924.shtml)
-19. [四大证券报头版头条内容精华摘要_2026年10月13日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-13/doc-iniuzqsq0410776.shtml)
-20. [10月13日收盘：三大指数涨跌不一 油价走高 标普500牛市四周年之际市场聚焦银行财报与通胀数据](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkv8197690.shtml)
+16. [股海导航_2026年10月13日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-13/doc-iniuzqst8215288.shtml)
+17. [刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8206217.shtml)
+18. [尊界V800公布刹车踏板检验结果，中国汽研确认检测！江淮汽车拉升大涨](https://finance.sina.com.cn/tob/2026-10-13/doc-iniuzuyr8228254.shtml)
+19. [日媒首次公开“战犯神社”保密档案，揭露东条英机等14名甲级战犯被合祀决策过程](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzkkt7239929.shtml)
+20. [证监会：推动北交所、新三板一体化高质量发展](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzeax8211924.shtml)
