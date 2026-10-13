@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-13 15:03:48
+> 更新时间：2026-10-13 21:21:22
 
 ## Trending Models
 
@@ -11,16 +11,16 @@
 5. [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
 6. [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)
 7. [ConwayResearch/Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)
-8. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-9. [LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B)
+8. [LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B)
+9. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
 10. [AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF)
 11. [canberkkkkkk/ema-lightning](https://huggingface.co/canberkkkkkk/ema-lightning)
-12. [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)
-13. [unsloth/embeddinggemma-2-GGUF](https://huggingface.co/unsloth/embeddinggemma-2-GGUF)
-14. [Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)
-15. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
-16. [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle)
-17. [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)
-18. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
-19. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
-20. [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash)
+12. [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)
+13. [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)
+14. [unsloth/embeddinggemma-2-GGUF](https://huggingface.co/unsloth/embeddinggemma-2-GGUF)
+15. [Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)
+16. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
+17. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
+18. [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle)
+19. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
+20. [autotrust/JEV-35B](https://huggingface.co/autotrust/JEV-35B)
