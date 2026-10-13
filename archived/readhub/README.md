@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-13 12:19:20
+> 更新时间：2026-10-13 13:44:35
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [宇树科技王兴兴：具身智能临界点最快一两年到来](https://readhub.cn/topic/8xA6mN33UVL?tab=daily)
 10. [iPhone Duo 预售前夕 苹果 COO 到访富士康称正扩大生产规模](https://readhub.cn/topic/8x9tBqAg3JT?tab=daily)
 11. [尊界 V800 公布制动踏板第三方检测结果：符合行标要求](https://readhub.cn/topic/8xBS112hJdF?tab=daily)
-12. [杨立昆发布新模型 H-JEPA，提出不同于当下主流 AI 的技术路线](https://readhub.cn/topic/8xA12bV0ZNI?tab=daily)
+12. [OpenAI 为 ChatGPT 接入智能 UI，手搓 AI 应用赛道或受冲击](https://readhub.cn/topic/8xBQxM9cZyJ?tab=daily)
 13. [微软明年将大规模部署自研 AI 芯片，目标推理效率提升 40%](https://readhub.cn/topic/8xAbU2KQG48?tab=daily)
-14. [AI 人才争夺升温 大厂为顶尖应届生开出最高 800 万年薪](https://readhub.cn/topic/8xAIDGbvcNX?tab=daily)
+14. [杨立昆发布新模型 H-JEPA，提出不同于当下主流 AI 的技术路线](https://readhub.cn/topic/8xA12bV0ZNI?tab=daily)
 15. [AI 普及后美国程序员招聘量不降反增，初级岗就业降约 20%](https://readhub.cn/topic/8xAHVmRbp4i?tab=daily)
-16. [星闪国家推荐标准发布，2027 年 4 月 1 日起正式实施](https://readhub.cn/topic/8x8XvhY7qcr?tab=daily)
-17. [宜家家居抖音官方旗舰店正式上线](https://readhub.cn/topic/8xA1lby7wAo?tab=daily)
-18. [谷歌推出 Fitbit Edge 手环新品：支持心电图、GPS，179.99 欧元](https://readhub.cn/topic/8xAbWYkFj0n?tab=daily)
-19. [北京警方对宜信相关公司立案侦查 对实控人等采取刑事强制措施](https://readhub.cn/topic/8x9zcvTqX77?tab=daily)
-20. [京东 11.11 于 10 月 12 日晚 8 点开启](https://readhub.cn/topic/8x9pzFPI6OJ?tab=daily)
-21. [财政部：2027 年 4 月起新能源汽车出口退税率下调至 9%](https://readhub.cn/topic/8xAL3ZMwpES?tab=daily)
-22. [3 个月超 5000 亿词元：AI 重建《现代战争 2》源代码 83% 逐字节匹配](https://readhub.cn/topic/8xBQwUyfgAn?tab=daily)
-23. [天阳科技：签订 2 万张英伟达 GPU 产品采购合同](https://readhub.cn/topic/8xBMIhEAHuE?tab=daily)
-24. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
-25. [千问将推出 Personal Agent「千问 Go」](https://readhub.cn/topic/8xBVF9C9lbY?tab=daily)
-26. [让潜水员留在岸上：浙大团队押注双臂「机械蛙人」](https://readhub.cn/topic/8xBGZqpjgsM?tab=daily)
-27. [江淮汽车内部人士回应尊界 SUV 给赛力斯做：不实消息](https://readhub.cn/topic/8xAL3bJaLVt?tab=daily)
+16. [AI 人才争夺升温 大厂为顶尖应届生开出最高 800 万年薪](https://readhub.cn/topic/8xAIDGbvcNX?tab=daily)
+17. [星闪国家推荐标准发布，2027 年 4 月 1 日起正式实施](https://readhub.cn/topic/8x8XvhY7qcr?tab=daily)
+18. [宜家家居抖音官方旗舰店正式上线](https://readhub.cn/topic/8xA1lby7wAo?tab=daily)
+19. [字节跳动 Seed 单独设立大模型安全与对齐部门](https://readhub.cn/topic/8xBbfLozJpb?tab=daily)
+20. [谷歌推出 Fitbit Edge 手环新品：支持心电图、GPS，179.99 欧元](https://readhub.cn/topic/8xAbWYkFj0n?tab=daily)
+21. [京东 11.11 于 10 月 12 日晚 8 点开启](https://readhub.cn/topic/8x9pzFPI6OJ?tab=daily)
+22. [财政部：2027 年 4 月起新能源汽车出口退税率下调至 9%](https://readhub.cn/topic/8xAL3ZMwpES?tab=daily)
+23. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
+24. [3 个月超 5000 亿词元：AI 重建《现代战争 2》源代码 83% 逐字节匹配](https://readhub.cn/topic/8xBQwUyfgAn?tab=daily)
+25. [天阳科技：签订 2 万张英伟达 GPU 产品采购合同](https://readhub.cn/topic/8xBMIhEAHuE?tab=daily)
+26. [MiniMax 入驻天猫开设首家官方旗舰店 开售 Token 套餐](https://readhub.cn/topic/8xBX0vKEfzj?tab=daily)
+27. [千问将推出 Personal Agent「千问 Go」](https://readhub.cn/topic/8xBVF9C9lbY?tab=daily)
 28. [杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数](https://readhub.cn/topic/8xAeiXYV1bG?tab=daily)
-29. [苹果上线「切换到 Safari」：Mac 上视频播放时长比 Chrome 多 5 小时，加载快 35%](https://readhub.cn/topic/8xBE4sjDRpu?tab=daily)
-30. [Steam 同时在线人数超 4350 万，再创历史新高](https://readhub.cn/topic/8x9doiDVSFT?tab=daily)
+29. [江淮汽车内部人士回应尊界 SUV 给赛力斯做：不实消息](https://readhub.cn/topic/8xAL3bJaLVt?tab=daily)
+30. [Anthropic 强化蒸馏攻击防御，已封禁数万个相关账号](https://readhub.cn/topic/8xBORVF6Eo0?tab=daily)
 
 ## 每日早报
 
