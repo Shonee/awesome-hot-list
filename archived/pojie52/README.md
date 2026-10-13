@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-13 18:43:34
+> 更新时间：2026-10-13 19:42:17
 
 ## 人气热门
 
@@ -57,9 +57,9 @@
 
 ## 精华采撷
 
-1. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-2. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-3. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+1. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+2. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+3. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 4. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 5. [Bastion 棱堡，对称加密算法库，支持CTR、CBC、XTS、AEAD、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2131143-1-1.html)
 6. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
