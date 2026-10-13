@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-13 07:13:44
+> 更新时间：2026-10-13 08:39:07
 
 ## 热门主题
 
@@ -9,7 +9,6 @@
 3. [大厂十年领了大礼包，孑然一身应该如何选择呢？](https://www.v2ex.com/t/1248103)
 4. [银河 ETF 纳指爽，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。](https://www.v2ex.com/t/1247938)
 5. [被 Claude 钓鱼执法了，这套路我服](https://www.v2ex.com/t/1247985)
-6. [关于华为，怎么这么多二级管呢？](https://www.v2ex.com/t/1248143)
-7. [「抽奖」iOS 上省电的行程记录 App Passcord 终身兑换码（$19.99）x 50](https://www.v2ex.com/t/1247964)
-8. [兄弟们，别骂星座和 mbti 了，我都信了](https://www.v2ex.com/t/1247944)
-9. [困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？](https://www.v2ex.com/t/1247979)
+6. [「抽奖」iOS 上省电的行程记录 App Passcord 终身兑换码（$19.99）x 50](https://www.v2ex.com/t/1247964)
+7. [兄弟们，别骂星座和 mbti 了，我都信了](https://www.v2ex.com/t/1247944)
+8. [困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？](https://www.v2ex.com/t/1247979)

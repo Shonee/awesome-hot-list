@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-13 07:13:25
+> 更新时间：2026-10-13 08:38:42
 
 ## 每日热点榜
 
@@ -12,18 +12,16 @@
 6. [奇瑞就马来西亚车辆问题致歉](http://www.autohome.com.cn/news/202610/1317696.html)
 7. [女子提奔驰当天销售把新车撞了](http://club.autohome.com.cn/bbs/thread/8a8786a25dae5303/116376590-1.html)
 8. [全新奥迪Q7实车亮相](http://www.autohome.com.cn/news/202610/1317707.html)
-9. [奔驰全新GLA和AMG CLA实车亮相](http://www.autohome.com.cn/news/202610/1317712.html)
-10. [宝马新世代M概念车国内首发](http://www.autohome.com.cn/news/202610/1317689.html)
-11. [2026巴黎车展：斯柯达Epiq/Peaq亮相](http://www.autohome.com.cn/news/202610/1317713.html)
-12. [深蓝S05与S07亮相巴黎车展](https://chejiahao.autohome.com.cn/info/26638796#pvareaid=6834132)
-13. [欧宝/沃克斯豪尔发布STX概念车](http://www.autohome.com.cn/news/202610/1317708.html)
-14. [腾势N8三大全新车色公布](http://club.autohome.com.cn/bbs/thread/c071fef6d4c94cd6/116382098-1.html)
-15. [魏牌二代蓝山开启盲订](https://chejiahao.autohome.com.cn/info/26626485#pvareaid=6834132)
-16. [传祺向往M8 PHEV宗师激光雷达版推OTA升级](http://www.autohome.com.cn/news/202610/1317676.html)
-17. [两辆特斯拉Model Y在高架桥上开斗气车](https://chejiahao.autohome.com.cn/info/26624205#pvareaid=6834132)
+9. [本田混动系统定名HondaHybrid](https://chejiahao.autohome.com.cn/info/26635014#pvareaid=6834132)
+10. [奔驰全新GLA和AMG CLA实车亮相](http://www.autohome.com.cn/news/202610/1317712.html)
+11. [宝马新世代M概念车国内首发](http://www.autohome.com.cn/news/202610/1317689.html)
+12. [2026巴黎车展：斯柯达Epiq/Peaq亮相](http://www.autohome.com.cn/news/202610/1317713.html)
+13. [腾势N8三大全新车色公布](https://chejiahao.autohome.com.cn/info/26624585#pvareaid=6834132)
+14. [传祺向往M8 PHEV宗师激光雷达版推OTA升级](http://www.autohome.com.cn/news/202610/1317676.html)
+15. [欧宝/沃克斯豪尔发布STX概念车](http://www.autohome.com.cn/news/202610/1317708.html)
+16. [宝马iX3将于10月16日开启巡展](https://chejiahao.autohome.com.cn/info/26635201#pvareaid=6834132)
+17. [捷途旅行者7将于10月14日上市](http://www.autohome.com.cn/news/202610/1317667.html)
 18. [荣威家越X7内饰谍照曝光](http://www.autohome.com.cn/news/202610/1317670.html)
-19. [疑似东风奕派M7曝光](http://www.autohome.com.cn/news/202610/1317675.html)
+19. [两辆特斯拉Model Y在高架桥上开斗气车](https://chejiahao.autohome.com.cn/info/26624205#pvareaid=6834132)
 20. [奇瑞Stockman皮卡参数曝光](http://www.autohome.com.cn/news/202610/1317659.html)
-21. [宝马iX3将于10月16日开启巡展](https://chejiahao.autohome.com.cn/info/26635201#pvareaid=6834132)
-22. [保时捷Manthey 30周年特别版赛车官图发布](http://www.autohome.com.cn/news/202610/1317687.html)
-23. [东京警署新设自动驾驶专部](https://chejiahao.autohome.com.cn/info/26638345#pvareaid=6834132)
+21. [保时捷Manthey 30周年特别版赛车官图发布](http://www.autohome.com.cn/news/202610/1317687.html)

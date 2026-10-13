@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 07:13:02
+> 更新时间：2026-10-13 08:37:59
 
 ## 新闻热榜
 
@@ -28,21 +28,21 @@
 ## 财经热榜
 
 1. [古巴国家主席谴责美国制裁加剧粮食困境](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7203334.shtml)
-2. [科技大跌谁在砸盘？百亿级私募创始人暗示](https://finance.sina.com.cn/stock/marketresearch/2026-10-12/doc-iniuyarm8434789.shtml)
-3. [贵州茅台股价超越联讯仪器 重夺“股王”宝座](https://finance.sina.com.cn/tob/2026-10-12/doc-iniuyarc5276669.shtml)
-4. [回力匹克“女店员剪男顾客吊牌”广告惹争议，品牌客服回应](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxrzp7208303.shtml)
-5. [现房销售正以“确定性”提振楼市信心](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfms0422031.shtml)
-6. [哈药股份总裁芦传有被立案留置：去年薪酬近300万元，公司强调生产经营正常](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxmtm5426956.shtml)
-7. [被曝将推手机子品牌“星芒”？华为回应](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxrzr8510210.shtml)
-8. [《伟大的长征》开播即收视第一](https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmt7237035.shtml)
-9. [马来西亚棕榈油局（MPOB）：9月份马来西亚棕榈油库存增至351.1万吨，较8月增长24.54%。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuxwim7210139.shtml)
-10. [也门政府军：我们已动用飞机、无人机和火炮，对胡塞武装的军事目标实施打击。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuwuvx7242257.shtml)
-11. [伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuwuvx7209201.shtml)
-12. [沙特首都利雅得再次传出两声爆炸声。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuwqpz7271696.shtml)
-13. [四环生物：收购中润药业65.6146%股权完成工商变更](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyari7320768.shtml)
-14. [朗坤科技：实控人因离婚分割股份 签署一致行动协议](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyhxf7342887.shtml)
-15. [欧盟委员会：冯德莱恩主席完全支持乌克兰总统泽连斯基提出的与俄罗斯停火的呼吁。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuwqpz7256072.shtml)
-16. [价格大跳水！“4000多元跌到1000左右”，有的低至“2”字头，网友：心动，马上去捡漏](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxwik0465501.shtml)
-17. [苹果首席运营官到访裕同科技](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuxwim7319579.shtml)
-18. [五洲交通：拟以6000万元-1.2亿元回购公司股份](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyhxf7337639.shtml)
-19. [*ST康佳A：主动终止上市 现金选择权进入申报阶段](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyari7348087.shtml)
+2. [朗坤科技：实控人因离婚分割股份 签署一致行动协议](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyhxf7342887.shtml)
+3. [欧盟委员会：冯德莱恩主席完全支持乌克兰总统泽连斯基提出的与俄罗斯停火的呼吁。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuwqpz7256072.shtml)
+4. [价格大跳水！“4000多元跌到1000左右”，有的低至“2”字头，网友：心动，马上去捡漏](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxwik0465501.shtml)
+5. [苹果首席运营官到访裕同科技](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuxwim7319579.shtml)
+6. [五洲交通：拟以6000万元-1.2亿元回购公司股份](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyhxf7337639.shtml)
+7. [*ST康佳A：主动终止上市 现金选择权进入申报阶段](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyari7348087.shtml)
+8. [新城控股：控股股东解除质押6153万股股份](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyhxf7249998.shtml)
+9. [标普500指数期货抹去涨幅，转为下跌。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuypfc7337084.shtml)
+10. [欧盟对 1569 个俄罗斯军工相关实体及个人实施制裁。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7243578.shtml)
+11. [特朗普遭两党批评后为俄罗斯柴油协议辩护：“我做出了正确选择”](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxut5127373.shtml)
+12. [两党共同反对美俄柴油交易，特朗普公开辩护：我做出了正确选择](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxux7208980.shtml)
+13. [扎克伯格：Meta在人工智能前沿已赶上竞争对手](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0487254.shtml)
+14. [美联储哈马克：随着“通胀心态”形成的风险上升，可能需要更高利率](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0473922.shtml)
+15. [印度储备银行：外汇风险溢价应等于每笔衍生品合约名义本金等值印度卢比金额的20%。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7204152.shtml)
+16. [Meta首席执行官扎克伯格：保障模型安全的责任应由各家实验室自行承担。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7238770.shtml)
+17. [伊朗革命卫队海军司令：美国动用全部力量，只为护送四五艘油轮通过海峡，活像个小走私贩子。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxuw0488584.shtml)
+18. [Meta首席执行官扎克伯格：推出 Muse Wonder。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7234074.shtml)
+19. [沙特民航局：利雅得哈立德国王国际机场周六遭遇袭击。](https://finance.sina.com.cn/7x24/2026-10-11/doc-iniuumqz7362123.shtml)
