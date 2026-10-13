@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 08:37:59
+> 更新时间：2026-10-13 09:36:57
 
 ## 新闻热榜
 
@@ -28,21 +28,21 @@
 ## 财经热榜
 
 1. [古巴国家主席谴责美国制裁加剧粮食困境](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7203334.shtml)
-2. [朗坤科技：实控人因离婚分割股份 签署一致行动协议](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyhxf7342887.shtml)
-3. [欧盟委员会：冯德莱恩主席完全支持乌克兰总统泽连斯基提出的与俄罗斯停火的呼吁。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuwqpz7256072.shtml)
-4. [价格大跳水！“4000多元跌到1000左右”，有的低至“2”字头，网友：心动，马上去捡漏](https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxwik0465501.shtml)
-5. [苹果首席运营官到访裕同科技](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuxwim7319579.shtml)
-6. [五洲交通：拟以6000万元-1.2亿元回购公司股份](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyhxf7337639.shtml)
-7. [*ST康佳A：主动终止上市 现金选择权进入申报阶段](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyari7348087.shtml)
-8. [新城控股：控股股东解除质押6153万股股份](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuyhxf7249998.shtml)
-9. [标普500指数期货抹去涨幅，转为下跌。](https://finance.sina.com.cn/7x24/2026-10-12/doc-iniuypfc7337084.shtml)
-10. [欧盟对 1569 个俄罗斯军工相关实体及个人实施制裁。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7243578.shtml)
-11. [特朗普遭两党批评后为俄罗斯柴油协议辩护：“我做出了正确选择”](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxut5127373.shtml)
-12. [两党共同反对美俄柴油交易，特朗普公开辩护：我做出了正确选择](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxux7208980.shtml)
-13. [扎克伯格：Meta在人工智能前沿已赶上竞争对手](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0487254.shtml)
-14. [美联储哈马克：随着“通胀心态”形成的风险上升，可能需要更高利率](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0473922.shtml)
-15. [印度储备银行：外汇风险溢价应等于每笔衍生品合约名义本金等值印度卢比金额的20%。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7204152.shtml)
-16. [Meta首席执行官扎克伯格：保障模型安全的责任应由各家实验室自行承担。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7238770.shtml)
-17. [伊朗革命卫队海军司令：美国动用全部力量，只为护送四五艘油轮通过海峡，活像个小走私贩子。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxuw0488584.shtml)
-18. [Meta首席执行官扎克伯格：推出 Muse Wonder。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7234074.shtml)
-19. [沙特民航局：利雅得哈立德国王国际机场周六遭遇袭击。](https://finance.sina.com.cn/7x24/2026-10-11/doc-iniuumqz7362123.shtml)
+2. [10月13日收盘：三大指数涨跌不一 油价走高 标普500牛市四周年之际市场聚焦银行财报与通胀数据](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkv8197690.shtml)
+3. [特朗普遭两党批评后为俄罗斯柴油协议辩护：“我做出了正确选择”](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxut5127373.shtml)
+4. [欧盟对 1569 个俄罗斯军工相关实体及个人实施制裁。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7243578.shtml)
+5. [为何也门胡塞武装难以击败？一文了解其军事实力和外部支持](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzear5152305.shtml)
+6. [两党共同反对美俄柴油交易，特朗普公开辩护：我做出了正确选择](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxux7208980.shtml)
+7. [报道：美国告诉乌克兰允许俄罗斯出口柴油旨在软化莫斯科](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkks0349038.shtml)
+8. [美联储哈马克：随着“通胀心态”形成的风险上升，可能需要更高利率](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0473922.shtml)
+9. [日媒首次公开“战犯神社”保密档案，揭露东条英机等14名甲级战犯被合祀决策过程](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzkkt7239929.shtml)
+10. [原油：布伦特和WTI齐转涨 中东和俄乌都传来利空供应消息](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkt7122420.shtml)
+11. [扎克伯格：Meta在人工智能前沿已赶上竞争对手](https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-iniuyxuw0487254.shtml)
+12. [印度储备银行：外汇风险溢价应等于每笔衍生品合约名义本金等值印度卢比金额的20%。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7204152.shtml)
+13. [Meta首席执行官扎克伯格：保障模型安全的责任应由各家实验室自行承担。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7238770.shtml)
+14. [伊朗革命卫队海军司令：美国动用全部力量，只为护送四五艘油轮通过海峡，活像个小走私贩子。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxuw0488584.shtml)
+15. [Meta首席执行官扎克伯格：推出 Muse Wonder。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuyxux7234074.shtml)
+16. [沙特民航局：利雅得哈立德国王国际机场周六遭遇袭击。](https://finance.sina.com.cn/7x24/2026-10-11/doc-iniuumqz7362123.shtml)
+17. [马斯克豪掷2.76亿美元助共和党，捐赠规模已超2024年大选](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkt7184623.shtml)
+18. [伊朗副外长加里巴巴迪：伊朗正在敲定对美国的回应，一旦磋商完成，将通过中间人传达其立场。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeau0433649.shtml)
+19. [沙特当局表示威胁已解除。](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeau0389155.shtml)
