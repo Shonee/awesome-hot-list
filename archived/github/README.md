@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-13 19:42:07
+> 更新时间：2026-10-14 02:18:28
 
 ## 每日趋势
 
@@ -50,7 +50,8 @@
 19. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 20. [colibri](https://github.com/JustVugg/colibri)
 21. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-22. [gpui-kit](https://github.com/longbridge/gpui-kit)
+22. [artemis](https://github.com/google/artemis)
+23. [gpui-kit](https://github.com/longbridge/gpui-kit)
 
 ## Java
 
@@ -63,8 +64,9 @@
 7. [AAAD](https://github.com/shmykelsa/AAAD)
 8. [hello-algo](https://github.com/krahets/hello-algo)
 9. [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
-10. [beam](https://github.com/apache/beam)
-11. [Telegram](https://github.com/DrKLO/Telegram)
+10. [Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
+11. [beam](https://github.com/apache/beam)
+12. [Telegram](https://github.com/DrKLO/Telegram)
 
 ## Python
 
@@ -108,6 +110,7 @@
 4. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
 5. [huashu-design](https://github.com/alchaincyf/huashu-design)
 6. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
+7. [kryo](https://github.com/EsotericSoftware/kryo)
 
 ## JavaScript
 

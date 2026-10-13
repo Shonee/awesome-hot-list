@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-14 01:12:54
+> 更新时间：2026-10-14 02:19:02
 
 ## 新闻热榜
 
-1. [马斯克回应“中国版马斯克”火了：14亿里有个相似的很正常](https://news.sina.com.cn/s/2026-10-12/doc-iniuyarh0459996.shtml)
-2. [“欧盟将作出限制，每年最多进口35万辆”](https://news.sina.com.cn/zx/2026-10-12/doc-iniuxmtt8513834.shtml)
-3. [男子为继承母亲手机号，将姐姐诉至法院，称想延续运营商优惠政策！法官：号码使用权可继承，所有权归国家](https://news.sina.com.cn/c/2026-10-12/doc-iniuwqqc8685357.shtml)
-4. [伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面](https://news.sina.com.cn/w/2026-10-12/doc-iniuwuvw0484798.shtml)
-5. [胡塞武装与沙特持续互袭机场 美若介入中东战事有升级风险](https://news.sina.com.cn/zx/2026-10-12/doc-iniuxfmp5465547.shtml)
-6. [英首相：俄罗斯“明确干预”了英国脱欧公投](https://news.sina.com.cn/zx/2026-10-12/doc-iniuxmtt8509154.shtml)
-7. [尊界最新回应！有人称“定金不退也不提车”，人民日报：刹车踏板绝不应在驾驶中“断裂”](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxmtt8553090.shtml)
-8. [英媒劝欧盟：别光想着限制中国商品，得先改革自己](https://news.sina.com.cn/zx/2026-10-12/doc-iniuxrzn0473504.shtml)
-9. [潘良，受贿数额特别巨大](https://news.sina.com.cn/o/2026-10-12/doc-iniuxrzp7171344.shtml)
-10. [[新浪彩票]足彩第26139期任九：吉达国民不败](https://sports.sina.com.cn/l/2026-10-12/doc-iniuxmtr7147430.shtml)
-11. [尤文米兰同时做客皆平 足彩头奖开393注22945元](https://sports.sina.com.cn/l/2026-10-12/doc-iniuxmtm5358805.shtml)
-12. [郑钦文中网夺冠后退出武网，逼到极限后，保护自己更重要](https://news.sina.com.cn/s/2026-10-12/doc-iniuxwip8463136.shtml)
-13. [美家庭惨案：凶手是45岁的祖父，枪杀包括临盆女儿在内的9人后自杀，此前无明显异常](https://news.sina.com.cn/w/2026-10-12/doc-iniuxwip8482816.shtml)
-14. [工业富联、立讯精密回应美国337调查](https://news.sina.com.cn/c/2026-10-12/doc-iniuwuvz8619905.shtml)
-15. [郑钦文过去3年狂赚4.74亿人民币，收入追平李娜整个职业生涯！](https://news.sina.com.cn/o/2026-10-12/doc-iniuxwik0558953.shtml)
-16. [媒体：一脚踹飞自闭症男童，“息事宁人”不是出路](https://news.sina.com.cn/c/2026-10-12/doc-iniuwuvz8661637.shtml)
-17. [机场遭袭致数百人死伤，多个国家发出旅行警告，沙特与胡塞武装进入高强度对抗？](https://news.sina.com.cn/zx/2026-10-12/doc-iniuxmtq0383294.shtml)
-18. [“张雪机车”德比斯：锁定年度车手亚军意义非凡](https://news.sina.com.cn/c/2026-10-12/doc-iniuwqqc8704920.shtml)
-19. [挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmv8563539.shtml)
-20. [局地降幅达12℃！冷空气来袭 多地降温降雨](https://news.sina.com.cn/zx/2026-10-12/doc-iniuxrzp7224036.shtml)
+1. [特朗普称“乌克兰应该换个总统”，泽连斯基回应](https://finance.sina.com.cn/roll/2026-10-12/doc-iniuxfmp5469248.shtml)
+2. [凌晨两点，31岁女子被人撬开窗户“掳走”](https://news.sina.com.cn/c/2026-10-12/doc-iniuxrzi5437073.shtml)
+3. [重磅打虎！黄奇帆被查](https://news.sina.com.cn/c/2026-10-13/doc-inivasec7242697.shtml)
+4. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
+5. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
+6. [男子感觉“身上被装了定位器”，一直被债主精准跟踪](https://news.sina.com.cn/c/2026-10-11/doc-iniuvpai5823454.shtml)
+7. [花旗集团首席执行官：预计投资级企业将掀起大规模债务再融资活动。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0543407.shtml)
+8. [泽连斯基表示，已向美国特使威特科夫和库什纳发出会晤提议。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0560815.shtml)
+9. [英国伦敦金融城发生天然气泄漏 约4700人被疏散](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0535471.shtml)
+10. [塔尔外交部：首相向沙特外交部长强调，沙特王国的安全是卡塔尔及海湾合作委员会安全不可分割的一部分。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0447255.shtml)
+11. [花旗集团首席执行官：加息可能会影响企业债务的存续期限。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatx7306891.shtml)
+12. [英伟达将宣布20亿美元欧洲AI新投资](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatx7320191.shtml)
+13. [泽连斯基称，周三计划举行重要的英国会谈。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0552082.shtml)
+14. [花旗集团首席执行官：预计利率上升不会影响人工智能投资。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatx7310903.shtml)
+15. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
+16. [Meta推出人工智能工具，让用户能够塑造Facebook信息流](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatx7310205.shtml)
+17. [炸串摊主被差评后跳河轻生，警方调查](https://news.sina.com.cn/c/2026-10-13/doc-inivasea0581713.shtml)
+18. [缅北“四大家族”三个已被中国宣判：魏家批量诈骗近60亿元，不惜“杀人祭天”，残杀4名同胞，3人被判死刑](https://news.sina.com.cn/s/2026-10-13/doc-inivamwm8855522.shtml)
+19. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
+20. [45岁外祖父，枪杀了怀孕的女儿、年幼的外孙和外孙女](https://news.sina.com.cn/s/2026-10-13/doc-inivasec7302332.shtml)
 
 ## 财经热榜
 
