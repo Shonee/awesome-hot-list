@@ -1,11 +1,11 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-13 20:56:20
+> 更新时间：2026-10-13 21:49:38
 
 ## 热点资讯排行
 
-1. [GTA6女主一丝不挂大街乱跑!新泄露有人不信有人嫌小](https://www.gamersky.com/news/202610/2225887.shtml)
-2. [《GTA6》露西亚4K没衣服实机已发！葱哥真放狠活了](https://www.gamersky.com/news/202610/2226356.shtml)
+1. [《GTA6》露西亚4K没衣服实机已发！葱哥真放狠活了](https://www.gamersky.com/news/202610/2226356.shtml)
+2. [GTA6女主一丝不挂大街乱跑!新泄露有人不信有人嫌小](https://www.gamersky.com/news/202610/2225887.shtml)
 3. [《巫师3重制版》叶奈法BUG 玩家跪求别修](https://www.gamersky.com/news/202610/2225612.shtml)
 4. [沫子杯真送“沫子杯”！沫子定制款 还能加热](https://www.gamersky.com/news/202610/2225615.shtml)
 5. [小孩又夺冠了！曾卓君再次证明自己 全胜登顶](https://www.gamersky.com/news/202610/2225840.shtml)
