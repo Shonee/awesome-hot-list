@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-14 05:36:25
+> 更新时间：2026-10-14 06:37:13
 
 ## 24 小时热榜
 
@@ -15,9 +15,9 @@
 9. [领克 10 EM-P 翻滚坠落近百米崖底，官方回应乘员舱完好车主轻伤](https://readhub.cn/topic/8xBfb2hle2s?tab=daily)
 10. [苹果推出 HomeView 智能家居设备 售价 299 美元 11 月 13 日上市](https://readhub.cn/topic/8xCGOPb2gMC?tab=daily)
 11. [3 个月超 5000 亿词元：AI 重建《现代战争 2》源代码 83% 逐字节匹配](https://readhub.cn/topic/8xBQwUyfgAn?tab=daily)
-12. [千问将推出 Personal Agent「千问 Go」](https://readhub.cn/topic/8xBVF9C9lbY?tab=daily)
-13. [英国高院裁定中国受害者或仅能拿回涉案本金及利息](https://readhub.cn/topic/8xAuQOY2Fvk?tab=daily)
-14. [杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数](https://readhub.cn/topic/8xAeiXYV1bG?tab=daily)
+12. [英国高院裁定中国受害者或仅能拿回涉案本金及利息](https://readhub.cn/topic/8xAuQOY2Fvk?tab=daily)
+13. [杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数](https://readhub.cn/topic/8xAeiXYV1bG?tab=daily)
+14. [千问将推出 Personal Agent「千问 Go」](https://readhub.cn/topic/8xBVF9C9lbY?tab=daily)
 15. [华为 Q3 中国智能手机份额升至 21.1% 为头部唯一双位数增长品牌](https://readhub.cn/topic/8xBeATUC0Uc?tab=daily)
 16. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
 17. [Anthropic 严打大模型蒸馏：封数万个账号 蒸馏数据大减 90%-99%](https://readhub.cn/topic/8xBORVF6Eo0?tab=daily)
@@ -32,18 +32,18 @@
 26. [Ghost 获 a16z 领投 1100 万美元 推出无屏私人 AI 电脑 Core](https://readhub.cn/topic/8xAMqerwUQc?tab=daily)
 27. [Anthropic 报告称小模型或可实现自我复制，AI 蠕虫或威胁物联网安全](https://readhub.cn/topic/8xBfEF4GIJR?tab=daily)
 28. [员工用 AI 辅助办公遭辞退，法院认定公司违法解约](https://readhub.cn/topic/8xC9yFlvdlk?tab=daily)
-29. [腾讯旗下《王者荣耀》9 月稳居全球手游收入榜榜首](https://readhub.cn/topic/8xBd5KKLbKN?tab=daily)
-30. [苹果上线「切换到 Safari」：Mac 上视频播放时长比 Chrome 多 5 小时，加载快 35%](https://readhub.cn/topic/8xBE4sjDRpu?tab=daily)
+29. [苹果上线「切换到 Safari」：Mac 上视频播放时长比 Chrome 多 5 小时，加载快 35%](https://readhub.cn/topic/8xBE4sjDRpu?tab=daily)
+30. [腾讯旗下《王者荣耀》9 月稳居全球手游收入榜榜首](https://readhub.cn/topic/8xBd5KKLbKN?tab=daily)
 
 ## 每日早报
 
-1. [10.12 尊界：已订车用户定金，若处于锁定期，无法退款 13 条](https://readhub.cn/daily/2026-10-12)
-2. [10.11 古尔曼称 iPhone Duo 美区零售店购后开机可显示用户姓名 10 条](https://readhub.cn/daily/2026-10-11)
-3. [10.10 苹果宣布将于 10 月 13 日在纽约举行「欢迎回家」产品发布会 14 条](https://readhub.cn/daily/2026-10-10)
-4. [10.09 懂车帝测试三台尊界 V800 刹车踏板支架均断裂 15 条](https://readhub.cn/daily/2026-10-09)
-5. [10.08 OpenAI 公布 722 篇数学手稿：准黎曼猜想、4D 挂谷猜想均在列 12 条](https://readhub.cn/daily/2026-10-08)
-6. [10.07 DeepSeek 接近完成 800 亿元融资，腾讯宁德时代或参投 12 条](https://readhub.cn/daily/2026-10-07)
-7. [10.06 三人因光遗传学获 2026 年诺贝尔生理学或医学奖 10 条](https://readhub.cn/daily/2026-10-06)
+1. [10.13 DeepSeek 考虑入局具身智能，梁文锋正密集与相关创业者交流 13 条](https://readhub.cn/daily/2026-10-13)
+2. [10.12 尊界：已订车用户定金，若处于锁定期，无法退款 13 条](https://readhub.cn/daily/2026-10-12)
+3. [10.11 古尔曼称 iPhone Duo 美区零售店购后开机可显示用户姓名 10 条](https://readhub.cn/daily/2026-10-11)
+4. [10.10 苹果宣布将于 10 月 13 日在纽约举行「欢迎回家」产品发布会 14 条](https://readhub.cn/daily/2026-10-10)
+5. [10.09 懂车帝测试三台尊界 V800 刹车踏板支架均断裂 15 条](https://readhub.cn/daily/2026-10-09)
+6. [10.08 OpenAI 公布 722 篇数学手稿：准黎曼猜想、4D 挂谷猜想均在列 12 条](https://readhub.cn/daily/2026-10-08)
+7. [10.07 DeepSeek 接近完成 800 亿元融资，腾讯宁德时代或参投 12 条](https://readhub.cn/daily/2026-10-07)
 
 ## AI 资讯
 
