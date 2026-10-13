@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 10:30:20
+> 更新时间：2026-10-13 11:01:30
 
 ## 新闻热榜
 
@@ -32,17 +32,18 @@
 3. [人民日报：中国消费增长“慢”下来了吗？还有挖潜空间吗？](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8182484.shtml)
 4. [预增超18倍，前“股王”业绩炸裂！A股三季报预增潮来袭（附名单）](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsr7182056.shtml)
 5. [财经早报丨1天内6艘船舶在霍尔木兹海峡附近遭袭，证监会主席吴清将出席重磅会议并作演讲丨2026年10月13日](https://finance.sina.com.cn/stock/y/2026-10-13/doc-iniuzqsq0398814.shtml)
-6. [果然是一个大乌龙](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8211546.shtml)
-7. [某涉密单位主任孙某为图方便，将机密级文件用小程序转成电子文档，小程序员工将文件导出后售卖被抓获](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsq0407779.shtml)
-8. [茅台重归“股王” 两只千元股业绩大幅预增](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzear5057839.shtml)
-9. [10月13日收盘：三大指数涨跌不一 油价走高 标普500牛市四周年之际市场聚焦银行财报与通胀数据](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkv8197690.shtml)
-10. [股海导航_2026年10月13日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-13/doc-iniuzqst8215288.shtml)
-11. [为何也门胡塞武装难以击败？一文了解其军事实力和外部支持](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzear5152305.shtml)
-12. [古巴国家主席谴责美国制裁加剧粮食困境](https://finance.sina.com.cn/7x24/2026-10-13/doc-iniuzeav7203334.shtml)
-13. [也门政府军称打死近千名胡塞武装人员](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqsq0345045.shtml)
-14. [四大证券报头版头条内容精华摘要_2026年10月13日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-13/doc-iniuzqsq0410776.shtml)
-15. [日媒首次公开“战犯神社”保密档案，揭露东条英机等14名甲级战犯被合祀决策过程](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzkkt7239929.shtml)
-16. [报道：美国告诉乌克兰允许俄罗斯出口柴油旨在软化莫斯科](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkks0349038.shtml)
-17. [证监会：推动北交所、新三板一体化高质量发展](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzeax8211924.shtml)
-18. [马斯克豪掷2.76亿美元助共和党，捐赠规模已超2024年大选](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkt7184623.shtml)
-19. [巴菲特看了会摇头！华尔街出现对赌ETF：标普500指数何时上万点](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5051529.shtml)
+6. [茅台重归“股王” 两只千元股业绩大幅预增](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzear5057839.shtml)
+7. [果然是一个大乌龙](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8211546.shtml)
+8. [也门政府军称打死近千名胡塞武装人员](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqsq0345045.shtml)
+9. [股海导航_2026年10月13日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-13/doc-iniuzqst8215288.shtml)
+10. [巴菲特看了会摇头！华尔街出现对赌ETF：标普500指数何时上万点](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5051529.shtml)
+11. [韩国综指跌熔断，SK海力士跌超7%、三星电子跌近6%](https://finance.sina.com.cn/stock/bxjj/2026-10-13/doc-iniuzuyn0361710.shtml)
+12. [某涉密单位主任孙某为图方便，将机密级文件用小程序转成电子文档，小程序员工将文件导出后售卖被抓获](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsq0407779.shtml)
+13. [为何也门胡塞武装难以击败？一文了解其军事实力和外部支持](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzear5152305.shtml)
+14. [10月13日收盘：三大指数涨跌不一 油价走高 标普500牛市四周年之际市场聚焦银行财报与通胀数据](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzkkv8197690.shtml)
+15. [四大证券报头版头条内容精华摘要_2026年10月13日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-13/doc-iniuzqsq0410776.shtml)
+16. [证监会：推动北交所、新三板一体化高质量发展](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzeax8211924.shtml)
+17. [国际油价集体上涨，布油盘中涨破107美元，黄金白银齐跌，霍尔木兹海峡1天6艘船舶遭袭](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5049830.shtml)
+18. [史上最大、最荒谬的IPO来了](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8230650.shtml)
+19. [美股半导体指数创三个月新低，光通信重挫，宜人智科暴跌44%，原油大涨，金银承压](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8190434.shtml)
+20. [日媒首次公开“战犯神社”保密档案，揭露东条英机等14名甲级战犯被合祀决策过程](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzkkt7239929.shtml)
