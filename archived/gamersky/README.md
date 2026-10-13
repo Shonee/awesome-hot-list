@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-13 21:49:38
+> 更新时间：2026-10-13 22:46:06
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [《巫师3》玩家遇叶奈法独角兽场景后没穿衣服Bug 网友却求官方复现](https://www.gamersky.com/news/202610/2225652.shtml)
 10. [央视曝光在校学生藏手机神器 销量数千件太坑娃](https://www.gamersky.com/news/202610/2226420.shtml)
 11. [黑客Cyberleek宣称《GTA6》下一段泄露为露西亚4K视频 并挂出募捐目标](https://www.gamersky.com/news/202610/2225753.shtml)
-12. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
-13. [PS5惨遭破解 商店应用上线 免费下载游戏](https://www.gamersky.com/news/202610/2226474.shtml)
+12. [PS5惨遭破解 商店应用上线 免费下载游戏](https://www.gamersky.com/news/202610/2226474.shtml)
+13. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
 14. [《光与影：33号远征队》强开DLSS5差异巨大 真实质感拉满](https://www.gamersky.com/news/202610/2225661.shtml)
 15. [腾讯《全境封锁2》官宣停运！上线3年 12月彻底关停](https://www.gamersky.com/news/202610/2226116.shtml)
