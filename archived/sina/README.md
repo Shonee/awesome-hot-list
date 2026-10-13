@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-13 20:21:29
+> 更新时间：2026-10-13 20:55:57
 
 ## 新闻热榜
 
@@ -34,16 +34,16 @@
 5. [操盘必读：影响股市利好或利空消息_2026年10月13日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-13/doc-iniuzqst8217734.shtml)
 6. [韩国综指跌熔断，SK海力士跌超7%、三星电子跌近6%](https://finance.sina.com.cn/stock/bxjj/2026-10-13/doc-iniuzuyn0361710.shtml)
 7. [也门政府军称打死近千名胡塞武装人员](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqsq0345045.shtml)
-8. [果然是一个大乌龙](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8211546.shtml)
-9. [印尼总统称将如家人般保护中方投资者，外交部回应](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivafqp8861091.shtml)
+8. [印尼总统称将如家人般保护中方投资者，外交部回应](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivafqp8861091.shtml)
+9. [果然是一个大乌龙](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8211546.shtml)
 10. [巴菲特看了会摇头！华尔街出现对赌ETF：标普500指数何时上万点](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5051529.shtml)
-11. [尊界V800公布制动踏板第三方检测结果：加严检验至纵向力3000N后，未出现裂纹和损坏](https://finance.sina.com.cn/tech/shenji/2026-10-13/doc-iniuzuyn0478332.shtml)
-12. [国际油价集体上涨，布油盘中涨破107美元，黄金白银齐跌，霍尔木兹海峡1天6艘船舶遭袭](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5049830.shtml)
+11. [国际油价集体上涨，布油盘中涨破107美元，黄金白银齐跌，霍尔木兹海峡1天6艘船舶遭袭](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsm5049830.shtml)
+12. [尊界V800公布制动踏板第三方检测结果：加严检验至纵向力3000N后，未出现裂纹和损坏](https://finance.sina.com.cn/tech/shenji/2026-10-13/doc-iniuzuyn0478332.shtml)
 13. [某涉密单位主任孙某为图方便，将机密级文件用小程序转成电子文档，小程序员工将文件导出后售卖被抓获](https://finance.sina.com.cn/roll/2026-10-13/doc-iniuzqsq0407779.shtml)
 14. [财经早报丨1天内6艘船舶在霍尔木兹海峡附近遭袭，证监会主席吴清将出席重磅会议并作演讲丨2026年10月13日](https://finance.sina.com.cn/stock/y/2026-10-13/doc-iniuzqsq0398814.shtml)
 15. [特朗普称不相信中俄在帮助伊朗，外交部：将继续为恢复中东和平稳定作出建设性努力](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivafqm8127984.shtml)
-16. [为何也门胡塞武装难以击败？一文了解其军事实力和外部支持](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzear5152305.shtml)
-17. [刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8206217.shtml)
-18. [科技日报：新质生产力不应成为资本炒作噱头！](https://finance.sina.com.cn/stock/relnews/cn/2026-10-13/doc-iniuzuyi4982743.shtml)
-19. [史上最大、最荒谬的IPO来了](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8230650.shtml)
-20. [中欧谈判：所谓混动汽车出口砍半是怎么回事](https://finance.sina.com.cn/stock/auto/2026-10-13/doc-inivafqi7258798.shtml)
+16. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
+17. [史上最大、最荒谬的IPO来了](https://finance.sina.com.cn/wm/2026-10-13/doc-iniuzqst8230650.shtml)
+18. [刚刚，Meta最强旗舰碾压GPT-6和Opus，一夜杀回世界前三](https://finance.sina.com.cn/jjxw/2026-10-13/doc-iniuzqst8206217.shtml)
+19. [为何也门胡塞武装难以击败？一文了解其军事实力和外部支持](https://finance.sina.com.cn/world/2026-10-13/doc-iniuzear5152305.shtml)
+20. [科技日报：新质生产力不应成为资本炒作噱头！](https://finance.sina.com.cn/stock/relnews/cn/2026-10-13/doc-iniuzuyi4982743.shtml)
