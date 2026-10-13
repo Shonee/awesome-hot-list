@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-14 06:12:30
+> 更新时间：2026-10-14 07:09:55
 
 ## 新闻热榜
 
 1. [重磅打虎！黄奇帆被查](https://news.sina.com.cn/c/2026-10-13/doc-inivasec7242697.shtml)
 2. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
 3. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
-4. [当地时间13日晚，沙特首都利雅得发布防空警报。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0529617.shtml)
-5. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
-6. [美国纽约联储：为测试执行美联储公开市场操作指令的准备能力，将于10月20日开展一次小规模远期启动期限回购操作（forward start term rep](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpit7187607.shtml)
-7. [沙特领导的联军称，在利雅得及南部地区拦截并摧毁两架无人机。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpis0427024.shtml)
-8. [英伟达CEO黄仁勋：我们必须确保人工智能能够安全可靠地开发和部署。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0477703.shtml)
-9. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
-10. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
-11. [ARM跌幅扩大至3%。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7248540.shtml)
-12. [花旗集团首席执行官：预计投资级企业将掀起大规模债务再融资活动。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0543407.shtml)
-13. [沙特领导的联军称，将开展一次精准军事行动，以削弱为胡塞恐怖武装战争机器提供重要支持的要害设施。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7264536.shtml)
-14. [美联储巴尔金：通胀显然具有持续性，采取行动是合理的。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0499476.shtml)
-15. [美国联合航空：正快速扩展星链服务，预计在2027年底前完成全机队安装。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0466669.shtml)
-16. [墨西哥湾海事管理局正监测美国湾油气活动，以应对飓风“伊萨亚斯”。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7228240.shtml)
-17. [伊朗海军：今日下午，一艘关闭追踪系统、试图穿越管制区域的违规油轮，在霍尔木兹海峡东部海域起火受损。该船被伊朗海军监测小队发现。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7283524.shtml)
-18. [上期所原油期货夜盘收涨1.17%，报740.60元人民币/桶。沪金夜盘收跌0.33%，沪银收跌1.51%。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0518500.shtml)
-19. [塔尔外交部：首相向沙特外交部长强调，沙特王国的安全是卡塔尔及海湾合作委员会安全不可分割的一部分。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0447255.shtml)
-20. [泽连斯基表示，已向美国特使威特科夫和库什纳发出会晤提议。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0560815.shtml)
+4. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
+5. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
+6. [当地时间13日晚，沙特首都利雅得发布防空警报。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0529617.shtml)
+7. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
+8. [美国纽约联储：为测试执行美联储公开市场操作指令的准备能力，将于10月20日开展一次小规模远期启动期限回购操作（forward start term rep](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpit7187607.shtml)
+9. [沙特领导的联军称，在利雅得及南部地区拦截并摧毁两架无人机。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpis0427024.shtml)
+10. [英伟达CEO黄仁勋：我们必须确保人工智能能够安全可靠地开发和部署。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0477703.shtml)
+11. [也门荷台达省燃油设施遭空袭致2死2伤](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivctrr7174059.shtml)
+12. [涉嫌从事间谍活动 一名日本记者在俄远东被捕](https://news.sina.com.cn/w/2026-10-14/doc-inivcatx7311656.shtml)
+13. [炸串摊主被差评后跳河轻生，警方调查](https://news.sina.com.cn/c/2026-10-13/doc-inivasea0581713.shtml)
+14. [ARM跌幅扩大至3%。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7248540.shtml)
+15. [花旗集团首席执行官：预计投资级企业将掀起大规模债务再融资活动。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0543407.shtml)
+16. [美联储巴尔金：通胀显然具有持续性，采取行动是合理的。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0499476.shtml)
+17. [沙特领导的联军称，将开展一次精准军事行动，以削弱为胡塞恐怖武装战争机器提供重要支持的要害设施。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7264536.shtml)
+18. [墨西哥湾海事管理局正监测美国湾油气活动，以应对飓风“伊萨亚斯”。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7228240.shtml)
+19. [伊朗海军：今日下午，一艘关闭追踪系统、试图穿越管制区域的违规油轮，在霍尔木兹海峡东部海域起火受损。该船被伊朗海军监测小队发现。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7283524.shtml)
+20. [美国联合航空：正快速扩展星链服务，预计在2027年底前完成全机队安装。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0466669.shtml)
 
 ## 财经热榜
 

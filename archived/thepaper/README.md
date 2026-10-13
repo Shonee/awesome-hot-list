@@ -1,13 +1,13 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-14 06:12:21
+> 更新时间：2026-10-14 07:09:50
 
 ## 热新闻
 
 1. [重庆市委原副书记、市政府原市长黄奇帆被查](https://www.thepaper.cn/newsDetail_forward_34243299)
-2. [官方通报男子在悬空寺做引体向上：公安机关已正式立案调查](https://www.thepaper.cn/newsDetail_forward_34243095)
-3. [中国人民银行批准威士公司筹备银行卡清算机构](https://www.thepaper.cn/newsDetail_forward_34241256)
-4. [佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责](https://www.thepaper.cn/newsDetail_forward_34243289)
+2. [佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责](https://www.thepaper.cn/newsDetail_forward_34243289)
+3. [官方通报男子在悬空寺做引体向上：公安机关已正式立案调查](https://www.thepaper.cn/newsDetail_forward_34243095)
+4. [中国人民银行批准威士公司筹备银行卡清算机构](https://www.thepaper.cn/newsDetail_forward_34241256)
 5. [辽宁鞍山一用户发现十年疑被多收五千多元燃气费，讨要余额被报警敲诈](https://www.thepaper.cn/newsDetail_forward_34240851)
 6. [上台“检讨”的教师们：“羞辱式”问责背后的教育困局](https://www.thepaper.cn/newsDetail_forward_34236591)
 7. [7起涉导向违法广告典型案例公布：滴露物化女性广告两公司被罚共超100万](https://www.thepaper.cn/newsDetail_forward_34242646)

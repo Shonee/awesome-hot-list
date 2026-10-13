@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-14 06:13:18
+> 更新时间：2026-10-14 07:10:38
 
 ## Hottest
 
@@ -15,17 +15,17 @@
 9. [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
 10. [Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC](https://easylang.online/ide)
 11. [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
-12. [Can Ease of Creation Lead to Decrease in Quality & Value?](https://pikuma.com/blog/ease-creation-decrease-quality-value)
-13. [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
-14. [Data-oriented Design for Mortals](https://www.youtube.com/watch?v=uI1Yx1CJAB0)
-15. [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
-16. [Faster Fourier Transforms](https://www.argmin.net/p/faster-fourier-transforms)
-17. [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
-18. [500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
-19. [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
-20. [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/)
-21. [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
-22. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
-23. [Accelerating the Zig Tokenizer (with AVX-512)](https://www.youtube.com/watch?v=E6dWIwPLx3s)
-24. [Nixpkgs for the frontend impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
-25. [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
+12. [Data-oriented Design for Mortals](https://www.youtube.com/watch?v=uI1Yx1CJAB0)
+13. [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
+14. [Can Ease of Creation Lead to Decrease in Quality & Value?](https://pikuma.com/blog/ease-creation-decrease-quality-value)
+15. [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
+16. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+17. [Faster Fourier Transforms](https://www.argmin.net/p/faster-fourier-transforms)
+18. [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
+19. [500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+20. [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
+21. [Please stop hashing the public key first (or: ML-DSA's µ annoys me)](https://blog.erincandescent.net/2026/10/mu-annoys-me/)
+22. [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
+23. [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/)
+24. [Accelerating the Zig Tokenizer (with AVX-512)](https://www.youtube.com/watch?v=E6dWIwPLx3s)
+25. [Nixpkgs for the frontend impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
