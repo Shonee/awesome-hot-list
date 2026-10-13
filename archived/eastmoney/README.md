@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-13 13:45:13
+> 更新时间：2026-10-13 14:26:35
 
 ## 股票人气榜
 
@@ -10,17 +10,17 @@
 4. [东百集团 (600693)](https://quote.eastmoney.com/sh600693.html)
 5. [超声电子 (000823)](https://quote.eastmoney.com/sz000823.html)
 6. [金健米业 (600127)](https://quote.eastmoney.com/sh600127.html)
-7. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
-8. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+7. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
+8. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
 9. [博纳影业 (001330)](https://quote.eastmoney.com/sz001330.html)
-10. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
-11. [哈药股份 (600664)](https://quote.eastmoney.com/sh600664.html)
-12. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-13. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
-14. [中京电子 (002579)](https://quote.eastmoney.com/sz002579.html)
-15. [龙版传媒 (605577)](https://quote.eastmoney.com/sh605577.html)
-16. [澳弘电子 (605058)](https://quote.eastmoney.com/sh605058.html)
+10. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
+11. [中京电子 (002579)](https://quote.eastmoney.com/sz002579.html)
+12. [哈药股份 (600664)](https://quote.eastmoney.com/sh600664.html)
+13. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
+14. [龙版传媒 (605577)](https://quote.eastmoney.com/sh605577.html)
+15. [澳弘电子 (605058)](https://quote.eastmoney.com/sh605058.html)
+16. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
 17. [丽人丽妆 (605136)](https://quote.eastmoney.com/sh605136.html)
-18. [凯美特气 (002549)](https://quote.eastmoney.com/sz002549.html)
-19. [天顺风能 (002531)](https://quote.eastmoney.com/sz002531.html)
-20. [跨境通 (002640)](https://quote.eastmoney.com/sz002640.html)
+18. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
+19. [凯美特气 (002549)](https://quote.eastmoney.com/sz002549.html)
+20. [金安国纪 (002636)](https://quote.eastmoney.com/sz002636.html)

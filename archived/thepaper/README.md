@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-13 13:44:37
+> 更新时间：2026-10-13 14:25:57
 
 ## 热新闻
 
@@ -13,9 +13,9 @@
 7. [上台“检讨”的教师们：“羞辱式”问责背后的教育困局](https://www.thepaper.cn/newsDetail_forward_34236591)
 8. [言短意长｜校园仪容仪表管理为何频引争议](https://www.thepaper.cn/newsDetail_forward_34238162)
 9. [70亩私立学校被伪造签名过户给商业公司？盐城市不动产登记中心：如果伪造须承担法律责任](https://www.thepaper.cn/newsDetail_forward_34226378)
-10. [吉林松原回应“大棚撂荒仍领补贴”：成立联合调查组开展调查](https://www.thepaper.cn/newsDetail_forward_34235509)
-11. [超强厄尔尼诺持续攀升 全球直面多重气候风险](https://www.thepaper.cn/newsDetail_forward_34236098)
-12. [黑客攻击法国数百家超市，冰箱升温至50度，大量生鲜被销毁](https://www.thepaper.cn/newsDetail_forward_34240261)
+10. [超强厄尔尼诺持续攀升 全球直面多重气候风险](https://www.thepaper.cn/newsDetail_forward_34236098)
+11. [黑客攻击法国数百家超市，冰箱升温至50度，大量生鲜被销毁](https://www.thepaper.cn/newsDetail_forward_34240261)
+12. [博士团解读宁波⑧｜“一生只做一件事”：宁波制造业小巨人成群背后的朴素执着](https://www.thepaper.cn/newsDetail_forward_34140048)
 13. [住酒店自驾可畅行“天眼”核心区？酒店回应现调整为乘接驳车进出，多个平台已无法订房](https://www.thepaper.cn/newsDetail_forward_34240844)
 14. [来论｜扩消费、稳就业，今年诺贝尔经济学奖对中国宏观政策有何启示？](https://www.thepaper.cn/newsDetail_forward_34237299)
 15. [对话｜汤加副首相拉图：四大全球倡议充分体现中国领导人的远见与卓越领导力](https://www.thepaper.cn/newsDetail_forward_34237107)
