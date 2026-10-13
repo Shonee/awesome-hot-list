@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-14 05:11:05
+> 更新时间：2026-10-14 06:11:26
 
 ## 热门文章
 
@@ -47,10 +47,10 @@
 41. [🥖 给 Agent 装上耳朵和嘴巴：ASR + TTS 语音交互实战](https://juejin.cn/post/7694961880853184512)
 42. [🏫 我把一整座校园的数据大屏塞进了一个 HTML 文件（零构建、双击即开，在线直接玩）](https://juejin.cn/post/7694912314021560339)
 43. [LangChain 与 LangGraph：从「链」到「图」，一次讲清它们是什么、什么关系](https://juejin.cn/post/7694883716314382387)
-44. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://juejin.cn/post/7695768501788737578)
-45. [GitHub 日榜趋势速报 | 2026-10-13](https://juejin.cn/post/7695639978206937126)
-46. [一个 npm 包，九页审批中心：Vue3 项目接上工作流引擎](https://juejin.cn/post/7695587730714394651)
-47. [零大模型依赖！SQLite FTS5 + jieba 打造纯本地知识库搜索](https://juejin.cn/post/7695238316196511795)
-48. [开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络](https://juejin.cn/post/7695079160248123446)
-49. [AI Agent 的安全怎么保障？面试最后一关的终极问题](https://juejin.cn/post/7694949059409788991)
-50. [你让 AI 帮你写代码，攻击者把偷密钥的指令藏进了一张 PNG](https://juejin.cn/post/7694932886453944347)
+44. [2028编程圈很火的10个Skills](https://juejin.cn/post/7695999629460029466)
+45. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://juejin.cn/post/7695768501788737578)
+46. [GitHub 日榜趋势速报 | 2026-10-13](https://juejin.cn/post/7695639978206937126)
+47. [一个 npm 包，九页审批中心：Vue3 项目接上工作流引擎](https://juejin.cn/post/7695587730714394651)
+48. [零大模型依赖！SQLite FTS5 + jieba 打造纯本地知识库搜索](https://juejin.cn/post/7695238316196511795)
+49. [开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络](https://juejin.cn/post/7695079160248123446)
+50. [AI Agent 的安全怎么保障？面试最后一关的终极问题](https://juejin.cn/post/7694949059409788991)

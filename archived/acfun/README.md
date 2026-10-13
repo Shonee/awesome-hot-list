@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-14 05:11:03
+> 更新时间：2026-10-14 06:11:24
 
 ## 日榜
 
@@ -16,10 +16,10 @@
 10. [那更好了【今天有什么好笑的 #2535】](https://www.acfun.cn/v/ac48910107)
 11. [传说中你为爱甘心被搁浅](https://www.acfun.cn/v/ac48908747)
 12. [《读评论》：关于“包子纪录片”的反馈与建议等，厨师长有话说！](https://www.acfun.cn/v/ac48909575)
-13. [交通事故20261013：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48910473)
-14. [灰色 or 白色 ~](https://www.acfun.cn/v/ac48908653)
+13. [那好啊你搬屎我也搬屎（四）](https://www.acfun.cn/v/ac48881644)
+14. [交通事故20261013：交通车祸实例，提高安全驾驶意识](https://www.acfun.cn/v/ac48910473)
 15. [【东方】Bad Apple!! 特斯拉线圈音乐](https://www.acfun.cn/v/ac48902821)
-16. [那好啊你搬屎我也搬屎（四）](https://www.acfun.cn/v/ac48881644)
+16. [灰色 or 白色 ~](https://www.acfun.cn/v/ac48908653)
 17. [连云朵都是爱情的形状](https://www.acfun.cn/v/ac48910816)
 18. [【千璃Senri】Airhead](https://www.acfun.cn/v/ac48910546)
 19. [嘉蒂丝流水倒数第一！血战联动卡池为何卖不动？](https://www.acfun.cn/v/ac48909593)
@@ -36,16 +36,16 @@
 30. [【AI】小猫咪](https://www.acfun.cn/v/ac48911013)
 31. [李喻言](https://www.acfun.cn/v/ac48910258)
 32. [跳舞会有人看吗(*˘︶˘*).｡.:*♡](https://www.acfun.cn/v/ac48909331)
-33. [varsapura 雨雾之都丨Dokki面部检查](https://www.acfun.cn/v/ac48910638)
-34. [战斗演出与地图探索同样惊艳！《影之刃零》6小时试玩体验分享](https://www.acfun.cn/v/ac48910655)
-35. [261011 宋雨琦“二十七”广州音乐分享会 《Training Season 》](https://www.acfun.cn/v/ac48910189)
+33. [261011 宋雨琦“二十七”广州音乐分享会 《Training Season 》](https://www.acfun.cn/v/ac48910189)
+34. [varsapura 雨雾之都丨Dokki面部检查](https://www.acfun.cn/v/ac48910638)
+35. [战斗演出与地图探索同样惊艳！《影之刃零》6小时试玩体验分享](https://www.acfun.cn/v/ac48910655)
 36. [魔法禁书目录 外传TV动画 暗部的少女共栖 角色PV&先行【超清】](https://www.acfun.cn/v/ac48908853)
 37. [极限竞速地平线6：宝马X6M跑这样的泥地赛，真的能获胜吗](https://www.acfun.cn/v/ac48908941)
 38. [电脑硬件价格是不是虚高？卷王配置怎么来的？](https://www.acfun.cn/v/ac48908008)
 39. [河南快剪宣传片](https://www.acfun.cn/v/ac48909693)
 40. [【纪录片】中国新年 全球最大庆典 1 迁徙【双语特效字幕】【纪录片之家字幕组】](https://www.acfun.cn/v/ac48908782)
-41. [【A站首发】垃圾佬每月硬件排行榜之10月共46款全新显卡排行榜【2026年10月13日】](https://www.acfun.cn/v/ac48909619)
-42. [李秀满的新女团 [A2O WORLD] A2O LITE  NEON  官方MV](https://www.acfun.cn/v/ac48909803)
+41. [李秀满的新女团 [A2O WORLD] A2O LITE  NEON  官方MV](https://www.acfun.cn/v/ac48909803)
+42. [【A站首发】垃圾佬每月硬件排行榜之10月共46款全新显卡排行榜【2026年10月13日】](https://www.acfun.cn/v/ac48909619)
 43. [我的日常](https://www.acfun.cn/v/ac48908934)
 44. [【4K】2026萤火虫漫展上的美丽中国Cosplay模特260922](https://www.acfun.cn/v/ac48908928)
 45. [【4K】2026萤火虫漫展上的美丽中国Cosplay模特260928](https://www.acfun.cn/v/ac48909026)

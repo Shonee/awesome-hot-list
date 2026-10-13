@@ -1,14 +1,14 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-14 05:12:30
+> 更新时间：2026-10-14 06:13:18
 
 ## Hottest
 
 1. [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 2. [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 3. [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
-4. [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
-5. [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+4. [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+5. [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 6. [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
 7. [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
 8. [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
@@ -24,8 +24,8 @@
 18. [500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 19. [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
 20. [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/)
-21. [Accelerating the Zig Tokenizer (with AVX-512)](https://www.youtube.com/watch?v=E6dWIwPLx3s)
-22. [Nixpkgs for the frontend impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
-23. [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
-24. [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
-25. [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
+21. [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
+22. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+23. [Accelerating the Zig Tokenizer (with AVX-512)](https://www.youtube.com/watch?v=E6dWIwPLx3s)
+24. [Nixpkgs for the frontend impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
+25. [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
