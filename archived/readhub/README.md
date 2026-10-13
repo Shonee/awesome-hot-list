@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-14 04:14:18
+> 更新时间：2026-10-14 05:36:25
 
 ## 24 小时热榜
 
@@ -25,14 +25,14 @@
 19. [MiniMax 入驻天猫开设首家官方旗舰店 开售 Token 套餐](https://readhub.cn/topic/8xBX0vKEfzj?tab=daily)
 20. [天阳科技：签订 2 万张英伟达 GPU 产品采购合同](https://readhub.cn/topic/8xBMIhEAHuE?tab=daily)
 21. [华为披露麒麟 9050 系列已经成功量产](https://readhub.cn/topic/8xBr2gfULPv?tab=daily)
-22. [让潜水员留在岸上：浙大团队押注双臂「机械蛙人」](https://readhub.cn/topic/8xBGZqpjgsM?tab=daily)
-23. [苹果首款折叠 iPhone Duo 铰链散热方案首次披露，内置柔性石墨管](https://readhub.cn/topic/8xBd88xuZy4?tab=daily)
+22. [苹果首款折叠 iPhone Duo 铰链散热方案首次披露，内置柔性石墨管](https://readhub.cn/topic/8xBd88xuZy4?tab=daily)
+23. [让潜水员留在岸上：浙大团队押注双臂「机械蛙人」](https://readhub.cn/topic/8xBGZqpjgsM?tab=daily)
 24. [软通动力回应删除 8000 张英伟达 GPU 到货相关文章](https://readhub.cn/topic/8x9oBc43ZiA?tab=daily)
 25. [韩资逆势加仓中国硬科技 多只标的获净买入](https://readhub.cn/topic/8xBuEhYt8Cc?tab=daily)
 26. [Ghost 获 a16z 领投 1100 万美元 推出无屏私人 AI 电脑 Core](https://readhub.cn/topic/8xAMqerwUQc?tab=daily)
 27. [Anthropic 报告称小模型或可实现自我复制，AI 蠕虫或威胁物联网安全](https://readhub.cn/topic/8xBfEF4GIJR?tab=daily)
-28. [腾讯旗下《王者荣耀》9 月稳居全球手游收入榜榜首](https://readhub.cn/topic/8xBd5KKLbKN?tab=daily)
-29. [员工用 AI 辅助办公遭辞退，法院认定公司违法解约](https://readhub.cn/topic/8xC9yFlvdlk?tab=daily)
+28. [员工用 AI 辅助办公遭辞退，法院认定公司违法解约](https://readhub.cn/topic/8xC9yFlvdlk?tab=daily)
+29. [腾讯旗下《王者荣耀》9 月稳居全球手游收入榜榜首](https://readhub.cn/topic/8xBd5KKLbKN?tab=daily)
 30. [苹果上线「切换到 Safari」：Mac 上视频播放时长比 Chrome 多 5 小时，加载快 35%](https://readhub.cn/topic/8xBE4sjDRpu?tab=daily)
 
 ## 每日早报
