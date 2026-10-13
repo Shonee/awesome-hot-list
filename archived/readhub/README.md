@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-14 02:45:58
+> 更新时间：2026-10-14 04:14:18
 
 ## 24 小时热榜
 
@@ -18,22 +18,22 @@
 12. [千问将推出 Personal Agent「千问 Go」](https://readhub.cn/topic/8xBVF9C9lbY?tab=daily)
 13. [英国高院裁定中国受害者或仅能拿回涉案本金及利息](https://readhub.cn/topic/8xAuQOY2Fvk?tab=daily)
 14. [杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数](https://readhub.cn/topic/8xAeiXYV1bG?tab=daily)
-15. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
-16. [华为 Q3 中国智能手机份额升至 21.1% 为头部唯一双位数增长品牌](https://readhub.cn/topic/8xBeATUC0Uc?tab=daily)
+15. [华为 Q3 中国智能手机份额升至 21.1% 为头部唯一双位数增长品牌](https://readhub.cn/topic/8xBeATUC0Uc?tab=daily)
+16. [三大电信运营商落地渠道规范政策 开启系统性瘦身](https://readhub.cn/topic/8x9jBay95nU?tab=daily)
 17. [Anthropic 严打大模型蒸馏：封数万个账号 蒸馏数据大减 90%-99%](https://readhub.cn/topic/8xBORVF6Eo0?tab=daily)
 18. [加拿大鹅广告拍摄团队被曝在宁波山里遗留大量垃圾，品牌方致歉](https://readhub.cn/topic/8xBjvCPF6Pn?tab=daily)
 19. [MiniMax 入驻天猫开设首家官方旗舰店 开售 Token 套餐](https://readhub.cn/topic/8xBX0vKEfzj?tab=daily)
-20. [华为披露麒麟 9050 系列已经成功量产](https://readhub.cn/topic/8xBr2gfULPv?tab=daily)
-21. [天阳科技：签订 2 万张英伟达 GPU 产品采购合同](https://readhub.cn/topic/8xBMIhEAHuE?tab=daily)
+20. [天阳科技：签订 2 万张英伟达 GPU 产品采购合同](https://readhub.cn/topic/8xBMIhEAHuE?tab=daily)
+21. [华为披露麒麟 9050 系列已经成功量产](https://readhub.cn/topic/8xBr2gfULPv?tab=daily)
 22. [让潜水员留在岸上：浙大团队押注双臂「机械蛙人」](https://readhub.cn/topic/8xBGZqpjgsM?tab=daily)
-23. [软通动力回应删除 8000 张英伟达 GPU 到货相关文章](https://readhub.cn/topic/8x9oBc43ZiA?tab=daily)
-24. [苹果首款折叠 iPhone Duo 铰链散热方案首次披露，内置柔性石墨管](https://readhub.cn/topic/8xBd88xuZy4?tab=daily)
+23. [苹果首款折叠 iPhone Duo 铰链散热方案首次披露，内置柔性石墨管](https://readhub.cn/topic/8xBd88xuZy4?tab=daily)
+24. [软通动力回应删除 8000 张英伟达 GPU 到货相关文章](https://readhub.cn/topic/8x9oBc43ZiA?tab=daily)
 25. [韩资逆势加仓中国硬科技 多只标的获净买入](https://readhub.cn/topic/8xBuEhYt8Cc?tab=daily)
 26. [Ghost 获 a16z 领投 1100 万美元 推出无屏私人 AI 电脑 Core](https://readhub.cn/topic/8xAMqerwUQc?tab=daily)
-27. [腾讯旗下《王者荣耀》9 月稳居全球手游收入榜榜首](https://readhub.cn/topic/8xBd5KKLbKN?tab=daily)
-28. [Anthropic 报告称小模型或可实现自我复制，AI 蠕虫或威胁物联网安全](https://readhub.cn/topic/8xBfEF4GIJR?tab=daily)
-29. [苹果上线「切换到 Safari」：Mac 上视频播放时长比 Chrome 多 5 小时，加载快 35%](https://readhub.cn/topic/8xBE4sjDRpu?tab=daily)
-30. [员工用 AI 辅助办公遭辞退，法院认定公司违法解约](https://readhub.cn/topic/8xC9yFlvdlk?tab=daily)
+27. [Anthropic 报告称小模型或可实现自我复制，AI 蠕虫或威胁物联网安全](https://readhub.cn/topic/8xBfEF4GIJR?tab=daily)
+28. [腾讯旗下《王者荣耀》9 月稳居全球手游收入榜榜首](https://readhub.cn/topic/8xBd5KKLbKN?tab=daily)
+29. [员工用 AI 辅助办公遭辞退，法院认定公司违法解约](https://readhub.cn/topic/8xC9yFlvdlk?tab=daily)
+30. [苹果上线「切换到 Safari」：Mac 上视频播放时长比 Chrome 多 5 小时，加载快 35%](https://readhub.cn/topic/8xBE4sjDRpu?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
-2. [AI 真的能制造机器了？一家初创公司花六年造出微型继电器](https://www.mittrchina.com/news/detail/17090)
-3. [OpenAI 让密码学家开始警惕：AI 会攻破互联网的加密系统吗？](https://www.mittrchina.com/news/detail/17089)
-4. [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
-5. [罗氏要让 AI 参与八成研究决策，药物研发正在进入模型驱动的闭环时代](https://www.mittrchina.com/news/detail/17085)
-6. [IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%](https://www.aibase.com/zh/news/31617)
-7. [苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔](https://www.aibase.com/zh/news/31616)
-8. [面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token / s](https://www.aibase.com/zh/news/31615)
-9. [Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产](https://www.aibase.com/zh/news/31611)
-10. [千问发布 AI 眼镜 N1、N1Pro 及 Bose 联名 AI 耳夹式耳机，开启主动 AI 新时代](https://www.aibase.com/zh/news/31609)
+1. [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice)
+2. [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
+3. [AI 真的能制造机器了？一家初创公司花六年造出微型继电器](https://www.mittrchina.com/news/detail/17090)
+4. [OpenAI 让密码学家开始警惕：AI 会攻破互联网的加密系统吗？](https://www.mittrchina.com/news/detail/17089)
+5. [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
+6. [罗氏要让 AI 参与八成研究决策，药物研发正在进入模型驱动的闭环时代](https://www.mittrchina.com/news/detail/17085)
+7. [IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%](https://www.aibase.com/zh/news/31617)
+8. [苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔](https://www.aibase.com/zh/news/31616)
+9. [面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token / s](https://www.aibase.com/zh/news/31615)
+10. [Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产](https://www.aibase.com/zh/news/31611)

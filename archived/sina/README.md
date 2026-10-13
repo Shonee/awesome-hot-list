@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-14 03:11:31
+> 更新时间：2026-10-14 04:14:26
 
 ## 新闻热榜
 
-1. [凌晨两点，31岁女子被人撬开窗户“掳走”](https://news.sina.com.cn/c/2026-10-12/doc-iniuxrzi5437073.shtml)
-2. [重磅打虎！黄奇帆被查](https://news.sina.com.cn/c/2026-10-13/doc-inivasec7242697.shtml)
-3. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
-4. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
+1. [重磅打虎！黄奇帆被查](https://news.sina.com.cn/c/2026-10-13/doc-inivasec7242697.shtml)
+2. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
+3. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
+4. [当地时间13日晚，沙特首都利雅得发布防空警报。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0529617.shtml)
 5. [英伟达CEO黄仁勋：我们必须确保人工智能能够安全可靠地开发和部署。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0477703.shtml)
 6. [男子感觉“身上被装了定位器”，一直被债主精准跟踪](https://news.sina.com.cn/c/2026-10-11/doc-iniuvpai5823454.shtml)
-7. [ARM跌幅扩大至3%。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7248540.shtml)
-8. [花旗集团首席执行官：预计投资级企业将掀起大规模债务再融资活动。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0543407.shtml)
-9. [墨西哥湾海事管理局正监测美国湾油气活动，以应对飓风“伊萨亚斯”。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7228240.shtml)
-10. [美国联合航空：正快速扩展星链服务，预计在2027年底前完成全机队安装。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0466669.shtml)
-11. [塔尔外交部：首相向沙特外交部长强调，沙特王国的安全是卡塔尔及海湾合作委员会安全不可分割的一部分。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0447255.shtml)
-12. [泽连斯基表示，已向美国特使威特科夫和库什纳发出会晤提议。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0560815.shtml)
-13. [俄罗斯外交部：俄罗斯已拘捕日本《北海道新闻》记者今井由纪。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0488796.shtml)
-14. [英国伦敦金融城发生天然气泄漏 约4700人被疏散](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0535471.shtml)
-15. [泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7261268.shtml)
-16. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
-17. [1 交易对手在美联储逆回购操作中获得 2.75 亿美元。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0464428.shtml)
-18. [WTI原油日内涨1%，现报94.68美元/桶。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7224801.shtml)
-19. [花旗集团首席执行官：加息可能会影响企业债务的存续期限。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatx7306891.shtml)
-20. [知情人士称，沙特阿拉伯计划让其旗舰活动未来投资倡议大会采用线上线下相结合的形式。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7253843.shtml)
+7. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
+8. [ARM跌幅扩大至3%。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7248540.shtml)
+9. [花旗集团首席执行官：预计投资级企业将掀起大规模债务再融资活动。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0543407.shtml)
+10. [沙特领导的联军称，将开展一次精准军事行动，以削弱为胡塞恐怖武装战争机器提供重要支持的要害设施。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7264536.shtml)
+11. [美联储巴尔金：通胀显然具有持续性，采取行动是合理的。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0499476.shtml)
+12. [美国联合航空：正快速扩展星链服务，预计在2027年底前完成全机队安装。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0466669.shtml)
+13. [墨西哥湾海事管理局正监测美国湾油气活动，以应对飓风“伊萨亚斯”。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7228240.shtml)
+14. [伊朗海军：今日下午，一艘关闭追踪系统、试图穿越管制区域的违规油轮，在霍尔木兹海峡东部海域起火受损。该船被伊朗海军监测小队发现。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7283524.shtml)
+15. [上期所原油期货夜盘收涨1.17%，报740.60元人民币/桶。沪金夜盘收跌0.33%，沪银收跌1.51%。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0518500.shtml)
+16. [塔尔外交部：首相向沙特外交部长强调，沙特王国的安全是卡塔尔及海湾合作委员会安全不可分割的一部分。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0447255.shtml)
+17. [泽连斯基表示，已向美国特使威特科夫和库什纳发出会晤提议。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0560815.shtml)
+18. [俄罗斯外交部：俄罗斯已拘捕日本《北海道新闻》记者今井由纪。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0488796.shtml)
+19. [英国伦敦金融城发生天然气泄漏 约4700人被疏散](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0535471.shtml)
+20. [特朗普指责胡塞武装蓄意在美中期选举前推高油价](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0520452.shtml)
 
 ## 财经热榜
 
