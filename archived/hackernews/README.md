@@ -1,6 +1,6 @@
 # Hacker News热榜
 
-> 更新时间：2026-10-14 09:09:35
+> 更新时间：2026-10-14 09:46:29
 
 ## Top Stories
 
@@ -10,12 +10,12 @@
 4. [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
 5. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 6. [Apple HomeView](https://www.apple.com/apple-homeview/)
-7. [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
-8. [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
-9. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
+7. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
+8. [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
+9. [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
 10. [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
-11. [AlphaNIST](https://alpha-nist.github.io/)
-12. [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
+11. [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
+12. [AlphaNIST](https://alpha-nist.github.io/)
 13. [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
 14. [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 15. [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)

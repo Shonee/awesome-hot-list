@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-14 09:08:45
+> 更新时间：2026-10-14 09:45:47
 
 ## 热新闻
 
@@ -15,12 +15,12 @@
 9. [人工智能该加速还是踩刹车？读懂AI安全争论背后的“六大派”立场](https://www.thepaper.cn/newsDetail_forward_34242092)
 10. [印尼总统称将如家人般保护中方投资者，外交部答澎湃：愿持续深化相关利益互利合作](https://www.thepaper.cn/newsDetail_forward_34241933)
 11. [人民锐评：双汇处罚到人，释放清晰信号](https://www.thepaper.cn/newsDetail_forward_34241141)
-12. [海底捞向创始人张勇提供1亿元贷款融资：期限30天，用于个人财务安排](https://www.thepaper.cn/newsDetail_forward_34240217)
-13. [黑客攻击法国数百家超市，冰箱升温至50度，大量生鲜被销毁](https://www.thepaper.cn/newsDetail_forward_34240261)
-14. [博士团解读宁波⑧｜“一生只做一件事”：宁波制造业小巨人成群背后的朴素执着](https://www.thepaper.cn/newsDetail_forward_34140048)
-15. [领克汽车回应“车辆坠崖”：车主轻微擦伤及局部骨裂，事故原因正调查](https://www.thepaper.cn/newsDetail_forward_34241809)
-16. [住酒店自驾可畅行“天眼”核心区？酒店回应现调整为乘接驳车进出，多个平台已无法订房](https://www.thepaper.cn/newsDetail_forward_34240844)
-17. [财晓得丨研究点什么，更有机会拿诺贝尔经济学奖](https://www.thepaper.cn/newsDetail_forward_34224985)
-18. [记者手记｜王选辉：对冰川科学家来说，“失联”本身就是工作的一部分](https://www.thepaper.cn/newsDetail_forward_34243816)
-19. [44亿港元资产被限制！茶百道遭香港证监会停牌：IPO涉嫌人为操纵，募资款或暗中回流至承配人](https://www.thepaper.cn/newsDetail_forward_34243282)
-20. [“烹饪大师”退场后首次中国厨师节将举办，相应技术性称号已列入计划](https://www.thepaper.cn/newsDetail_forward_34244251)
+12. [马上评｜1.9元汽水引发举报，无端耗费社会资源](https://www.thepaper.cn/newsDetail_forward_34244532)
+13. [博士团解读宁波⑧｜“一生只做一件事”：宁波制造业小巨人成群背后的朴素执着](https://www.thepaper.cn/newsDetail_forward_34140048)
+14. [沙特机场接连遇袭背后：耗资巨大的预警系统为何沉默？](https://www.thepaper.cn/newsDetail_forward_34243110)
+15. [马上评｜住高价客房就可进天眼核心区，谁给的“特权”？](https://www.thepaper.cn/newsDetail_forward_34241062)
+16. [领克汽车回应“车辆坠崖”：车主轻微擦伤及局部骨裂，事故原因正调查](https://www.thepaper.cn/newsDetail_forward_34241809)
+17. [预告丨《大方之谈》对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34240668)
+18. [媒体：四川宜宾一炸串摊主被差评后跳河轻生，警方调查](https://www.thepaper.cn/newsDetail_forward_34244145)
+19. [住酒店自驾可畅行“天眼”核心区？酒店回应现调整为乘接驳车进出，多个平台已无法订房](https://www.thepaper.cn/newsDetail_forward_34240844)
+20. [财晓得丨研究点什么，更有机会拿诺贝尔经济学奖](https://www.thepaper.cn/newsDetail_forward_34224985)

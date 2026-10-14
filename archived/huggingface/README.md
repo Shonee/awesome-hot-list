@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-14 03:37:40
+> 更新时间：2026-10-14 09:46:08
 
 ## Trending Models
 
@@ -15,12 +15,12 @@
 9. [LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B)
 10. [AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF)
 11. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-12. [canberkkkkkk/ema-lightning](https://huggingface.co/canberkkkkkk/ema-lightning)
+12. [autotrust/JEV-35B](https://huggingface.co/autotrust/JEV-35B)
 13. [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)
-14. [autotrust/JEV-35B](https://huggingface.co/autotrust/JEV-35B)
-15. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
-16. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
+14. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
+15. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
+16. [canberkkkkkk/ema-lightning](https://huggingface.co/canberkkkkkk/ema-lightning)
 17. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
-18. [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle)
-19. [Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)
-20. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
+18. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
+19. [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle)
+20. [autotrust/JEV-35B-NVFP4](https://huggingface.co/autotrust/JEV-35B-NVFP4)
