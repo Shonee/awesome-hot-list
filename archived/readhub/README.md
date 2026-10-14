@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-15 01:11:27
+> 更新时间：2026-10-15 02:16:21
 
 ## 24 小时热榜
 
@@ -8,32 +8,32 @@
 2. [OPPO 联手 Manus 推进智能体落地](https://readhub.cn/topic/8xD5Xn7lxut?tab=daily)
 3. [153 款应用拒豆包手机助手自动化操作 含腾讯阿里美团等产品](https://readhub.cn/topic/8xDIOvVeksg?tab=daily)
 4. [广州成立市算力公司 探索超大城市算电融合「广州模式」](https://readhub.cn/topic/8xDOmZMTQOp?tab=daily)
-5. [OpenAI：一员工在办公室安装录音设备 已解雇并知会 FBI](https://readhub.cn/topic/8xCjKWEHDbD?tab=daily)
-6. [中国汽研回应尊界 V800 检测报告：仅对送检样件负责 不对量产产品保证](https://readhub.cn/topic/8xD5UXGhgzn?tab=daily)
+5. [中国汽研回应尊界 V800 检测报告：仅对送检样件负责 不对量产产品保证](https://readhub.cn/topic/8xD5UXGhgzn?tab=daily)
+6. [OpenAI：一员工在办公室安装录音设备 已解雇并知会 FBI](https://readhub.cn/topic/8xCjKWEHDbD?tab=daily)
 7. [豆包工作上线新功能：支持从 Claude Code 等一键导入](https://readhub.cn/topic/8xDMedwU1ct?tab=daily)
-8. [谷歌向 Google AI 订阅用户推出 Gemini 4 Argon](https://readhub.cn/topic/8xCSui6ljCP?tab=daily)
-9. [苹果 iPhone 15 Pro 及后续机型国行版备案大模型编号：Apple 智能、通义万相、通义千问](https://readhub.cn/topic/8xDPsTuC9nt?tab=daily)
-10. [中国造「预制房」走红海外 前三季度民企出口增长近三成](https://readhub.cn/topic/8xDEnDFXh6P?tab=daily)
-11. [Linus 借助 Claude Code 开发 Linux 内核相关分支，特定测试性能约提 3 倍](https://readhub.cn/topic/8xDT5f8kirQ?tab=daily)
-12. [7 人耗时 5 个月，Anthropic 造出内部 Git 替代品 Scion](https://readhub.cn/topic/8xDbfPBUEuF?tab=daily)
-13. [散户一周豪买 91 亿美元美股创近 15 年纪录，AI 与半导体成吸金主力](https://readhub.cn/topic/8xCyLwWaWN1?tab=daily)
+8. [苹果 iPhone 15 Pro 及后续机型国行版备案大模型编号：Apple 智能、通义万相、通义千问](https://readhub.cn/topic/8xDPsTuC9nt?tab=daily)
+9. [中国造「预制房」走红海外 前三季度民企出口增长近三成](https://readhub.cn/topic/8xDEnDFXh6P?tab=daily)
+10. [Linus 借助 Claude Code 开发 Linux 内核相关分支，特定测试性能约提 3 倍](https://readhub.cn/topic/8xDT5f8kirQ?tab=daily)
+11. [7 人耗时 5 个月，Anthropic 造出内部 Git 替代品 Scion](https://readhub.cn/topic/8xDbfPBUEuF?tab=daily)
+12. [散户一周豪买 91 亿美元美股创近 15 年纪录，AI 与半导体成吸金主力](https://readhub.cn/topic/8xCyLwWaWN1?tab=daily)
+13. [小鹏宣布面向全球开放智能汽车技术合作及物理 AI 生态方案](https://readhub.cn/topic/8xDO47rzRMY?tab=daily)
 14. [德勤调查：英国超半数大企业预计未来一年借 AI 裁员](https://readhub.cn/topic/8xD2eN0nahZ?tab=daily)
-15. [小鹏宣布面向全球开放智能汽车技术合作及物理 AI 生态方案](https://readhub.cn/topic/8xDO47rzRMY?tab=daily)
-16. [此芯科技发布桌面级 AI 超算 AGX Station 对标英伟达 DGX Spark](https://readhub.cn/topic/8xC5JMKevM1?tab=daily)
-17. [腾讯 WorkBuddy 企业版迭代 上线一站式 Agent 可观测平台公测](https://readhub.cn/topic/8xC8B1Lhm55?tab=daily)
-18. [巅峰估值 50 亿美元 AI 独角兽 Character.AI 申请破产重组](https://readhub.cn/topic/8xDFWtYn9dW?tab=daily)
+15. [此芯科技发布桌面级 AI 超算 AGX Station 对标英伟达 DGX Spark](https://readhub.cn/topic/8xC5JMKevM1?tab=daily)
+16. [腾讯 WorkBuddy 企业版迭代 上线一站式 Agent 可观测平台公测](https://readhub.cn/topic/8xC8B1Lhm55?tab=daily)
+17. [巅峰估值 50 亿美元 AI 独角兽 Character.AI 申请破产重组](https://readhub.cn/topic/8xDFWtYn9dW?tab=daily)
+18. [宝能集团及姚振华等被执行 20.5 亿](https://readhub.cn/topic/8xDHdxPhkZ2?tab=daily)
 19. [iPhone Duo 预装定制 iOS 27.1 开售首日需进行系统更新](https://readhub.cn/topic/8xCdcv9Gm8p?tab=daily)
-20. [宝能集团及姚振华等被执行 20.5 亿](https://readhub.cn/topic/8xDHdxPhkZ2?tab=daily)
+20. [苹果举办新品发布会推出智能家居新品 盘初股价创历史新高](https://readhub.cn/topic/8xCz4g3S3tV?tab=daily)
 21. [谷歌 Gemini 4 Argon 开放 性能比肩头部大模型 API 限时半价](https://readhub.cn/topic/8xD9mIEeahk?tab=daily)
 22. [奈飞在韩销售额首破 1 万亿韩元 逾八成流向美国总部](https://readhub.cn/topic/8xDY6DAz5Nu?tab=daily)
-23. [苹果举办新品发布会推出智能家居新品 盘初股价创历史新高](https://readhub.cn/topic/8xCz4g3S3tV?tab=daily)
-24. [豆包手机助手将陆续放开第三方应用操作权限](https://readhub.cn/topic/8xDAVKZ16KD?tab=daily)
+23. [豆包手机助手将陆续放开第三方应用操作权限](https://readhub.cn/topic/8xDAVKZ16KD?tab=daily)
+24. [谷歌 Gemini 4 Argon 实测：主打物理推理 性价比突出仍存硬伤](https://readhub.cn/topic/8xDBuvbdACK?tab=daily)
 25. [企业微信与 WorkBuddy 深度联合发布新版本](https://readhub.cn/topic/8xDCeMlbxKn?tab=daily)
-26. [高通：陪审团认定 Arm 违反许可协议](https://readhub.cn/topic/8xCZgWE6tne?tab=daily)
-27. [谷歌 Gemini 4 Argon 实测：主打物理推理 性价比突出仍存硬伤](https://readhub.cn/topic/8xDBuvbdACK?tab=daily)
-28. [尊界终端门店确认定车将使用优化后的制动踏板方案](https://readhub.cn/topic/8xBiRplbmpY?tab=daily)
-29. [OpenAI 合作 Higgsfield 借助 GPT-6 Astra 提升 AI 视频时长至 10 分钟](https://readhub.cn/topic/8xCgTu5zaaB?tab=daily)
-30. [DeepMind AI 登 Science 解决 56 年等多道数学悬案](https://readhub.cn/topic/8xBsWbwBWsZ?tab=daily)
+26. [尊界终端门店确认定车将使用优化后的制动踏板方案](https://readhub.cn/topic/8xBiRplbmpY?tab=daily)
+27. [OpenAI 合作 Higgsfield 借助 GPT-6 Astra 提升 AI 视频时长至 10 分钟](https://readhub.cn/topic/8xCgTu5zaaB?tab=daily)
+28. [DeepMind AI 登 Science 解决 56 年等多道数学悬案](https://readhub.cn/topic/8xBsWbwBWsZ?tab=daily)
+29. [美媒关注长鑫存储技术突破 相关消息致全球存储巨头股价集体下挫](https://readhub.cn/topic/8xDJSaJuJKn?tab=daily)
+30. [前 OpenAI 高管称仅约 5000 人可接触最前沿内部 AI 系统](https://readhub.cn/topic/8xBbf3LMGr5?tab=daily)
 
 ## 每日早报
 
