@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-15 03:11:13
+> 更新时间：2026-10-15 04:13:12
 
 ## 热新闻
 
@@ -8,9 +8,9 @@
 2. [医务人员收1.9元汽水被举报，涉事医院：不违反医德医风，当事人已报警](https://www.thepaper.cn/newsDetail_forward_34247162)
 3. [黄奇帆被查，重庆：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34249369)
 4. [蔡康永现身沈伯洋竞选活动，国台办：在大是大非问题上，没有任何模糊空间](https://www.thepaper.cn/newsDetail_forward_34247472)
-5. [中朝新鸭绿江大桥明日将正式开通](https://www.thepaper.cn/newsDetail_forward_34247327)
-6. [女子丢身份证后疑遭盗用现“吸毒记录”和异地社保卡流水近590万元，相关案件正在查](https://www.thepaper.cn/newsDetail_forward_34247433)
-7. [澎湃漫评｜检测时间都是“8点整”，形式主义最害人](https://www.thepaper.cn/newsDetail_forward_34248756)
+5. [澎湃漫评｜检测时间都是“8点整”，形式主义最害人](https://www.thepaper.cn/newsDetail_forward_34248756)
+6. [中朝新鸭绿江大桥明日将正式开通](https://www.thepaper.cn/newsDetail_forward_34247327)
+7. [女子丢身份证后疑遭盗用现“吸毒记录”和异地社保卡流水近590万元，相关案件正在查](https://www.thepaper.cn/newsDetail_forward_34247433)
 8. [村干部成立公司2年中标本村14个工程？扬州市朴席镇：将了解清楚情况后回复](https://www.thepaper.cn/newsDetail_forward_34247682)
 9. [套路拆｜月售20万瓶的Healthyard健雅德：疑“套用”银蕨认证，“五个9”纯度机器都测不出](https://www.thepaper.cn/newsDetail_forward_34225747)
 10. [马上评｜高铁上免提通话扰邻，只能靠劝来解决吗](https://www.thepaper.cn/newsDetail_forward_34248943)

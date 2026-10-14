@@ -1,12 +1,12 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-15 03:38:24
+> 更新时间：2026-10-15 04:13:06
 
 ## 人气热门
 
-1. [广告自动跳过工具 GKD v1.13.0-beta-1](https://www.52pojie.cn/thread-2132357-1-1.html)
-2. [豆包千问无水印图片视频下载助手 1.0.2](https://www.52pojie.cn/thread-2131945-1-1.html)
-3. [U盘量产四合一助手](https://www.52pojie.cn/thread-2131937-1-1.html)
+1. [U盘量产四合一助手](https://www.52pojie.cn/thread-2131937-1-1.html)
+2. [广告自动跳过工具 GKD v1.13.0-beta-1](https://www.52pojie.cn/thread-2132357-1-1.html)
+3. [豆包千问无水印图片视频下载助手 1.0.2](https://www.52pojie.cn/thread-2131945-1-1.html)
 4. [文件夹锁](https://www.52pojie.cn/thread-2131461-1-1.html)
 5. [MX播放器 mx player v3.3.0 v3 安卓离线播放器 无广告](https://www.52pojie.cn/thread-2131363-1-1.html)
 6. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.13)](https://www.52pojie.cn/thread-2132239-1-1.html)
