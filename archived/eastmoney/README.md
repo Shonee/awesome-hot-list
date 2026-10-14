@@ -1,14 +1,14 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-14 18:13:24
+> 更新时间：2026-10-14 19:12:51
 
 ## 股票人气榜
 
 1. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
-2. [东百集团 (600693)](https://quote.eastmoney.com/sh600693.html)
-3. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
-4. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
-5. [超声电子 (000823)](https://quote.eastmoney.com/sz000823.html)
+2. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
+3. [东百集团 (600693)](https://quote.eastmoney.com/sh600693.html)
+4. [超声电子 (000823)](https://quote.eastmoney.com/sz000823.html)
+5. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
 6. [C粤芯-U (301660)](https://quote.eastmoney.com/sz301660.html)
 7. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
 8. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
@@ -18,9 +18,9 @@
 12. [澳弘电子 (605058)](https://quote.eastmoney.com/sh605058.html)
 13. [金健米业 (600127)](https://quote.eastmoney.com/sh600127.html)
 14. [郑州煤电 (600121)](https://quote.eastmoney.com/sh600121.html)
-15. [果麦文化 (301052)](https://quote.eastmoney.com/sz301052.html)
-16. [引力传媒 (603598)](https://quote.eastmoney.com/sh603598.html)
-17. [中文在线 (300364)](https://quote.eastmoney.com/sz300364.html)
-18. [芒果超媒 (300413)](https://quote.eastmoney.com/sz300413.html)
-19. [新经典 (603096)](https://quote.eastmoney.com/sh603096.html)
-20. [安泰集团 (600408)](https://quote.eastmoney.com/sh600408.html)
+15. [引力传媒 (603598)](https://quote.eastmoney.com/sh603598.html)
+16. [果麦文化 (301052)](https://quote.eastmoney.com/sz301052.html)
+17. [新经典 (603096)](https://quote.eastmoney.com/sh603096.html)
+18. [安泰集团 (600408)](https://quote.eastmoney.com/sh600408.html)
+19. [芒果超媒 (300413)](https://quote.eastmoney.com/sz300413.html)
+20. [中文在线 (300364)](https://quote.eastmoney.com/sz300364.html)
