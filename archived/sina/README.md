@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-14 10:16:36
+> 更新时间：2026-10-14 11:15:37
 
 ## 新闻热榜
 
 1. [重磅打虎！黄奇帆被查](https://news.sina.com.cn/c/2026-10-13/doc-inivasec7242697.shtml)
-2. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
-3. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
+2. [国家某部委涉密会议，一支正工作的录音笔突然掉落……一查，录音笔主人已累计窃密近30万份……](https://news.sina.com.cn/c/2026-10-14/doc-inivcxxr7818814.shtml)
+3. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
 4. [突破红线提“再入欧”，英国首相图什么？](https://news.sina.com.cn/w/2026-10-14/doc-inivctrr7240135.shtml)
-5. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
-6. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
-7. [日本一颗白菜约合人民币42元，日本网友：只能买切开的1/4或1/8](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivcatw0529442.shtml)
-8. [涉嫌从事间谍活动 一名日本记者在俄远东被捕](https://news.sina.com.cn/w/2026-10-14/doc-inivcatx7311656.shtml)
-9. [台青拒当“台独”炮灰，厌战情绪蔓延全岛，岛内“赔钱退伍”人数7年增逾20倍](https://news.sina.com.cn/c/2026-10-14/doc-inivctrt7891441.shtml)
-10. [OpenAI称可攻克数学难题引学界争议](https://news.sina.com.cn/w/2026-10-13/doc-inivcatw0500533.shtml)
-11. [700亿“中药茅”，董事长突然辞职](https://news.sina.com.cn/c/2026-10-13/doc-inivcauc8696696.shtml)
-12. [菲总统攻击对手硬扯上中国，专家：短视且高风险的政治投机](https://news.sina.com.cn/c/2026-10-14/doc-inivctrr7226910.shtml)
-13. [国家某部委涉密会议，一支正工作的录音笔突然掉落……一查，录音笔主人已累计窃密近30万份……](https://news.sina.com.cn/c/2026-10-14/doc-inivcxxr7818814.shtml)
-14. [“发达国家”的高帽，实际是个陷阱](https://finance.sina.com.cn/roll/2026-10-14/doc-inivctrv8596129.shtml)
-15. [男群演疑似猥亵女演员 律师解读](https://news.sina.com.cn/s/2026-10-13/doc-inivasef8045318.shtml)
-16. [习近平出席全国卫生与健康大会并发表重要讲话](https://news.sina.com.cn/c/xl/2026-10-13/doc-inivawmz7284770.shtml)
+5. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
+6. [日本一颗白菜约合人民币42元，日本网友：只能买切开的1/4或1/8](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivcatw0529442.shtml)
+7. [台青拒当“台独”炮灰，厌战情绪蔓延全岛，岛内“赔钱退伍”人数7年增逾20倍](https://news.sina.com.cn/c/2026-10-14/doc-inivctrt7891441.shtml)
+8. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
+9. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
+10. [涉嫌从事间谍活动 一名日本记者在俄远东被捕](https://news.sina.com.cn/w/2026-10-14/doc-inivcatx7311656.shtml)
+11. [菲总统攻击对手硬扯上中国，专家：短视且高风险的政治投机](https://news.sina.com.cn/c/2026-10-14/doc-inivctrr7226910.shtml)
+12. [OpenAI称可攻克数学难题引学界争议](https://news.sina.com.cn/w/2026-10-13/doc-inivcatw0500533.shtml)
+13. [“发达国家”的高帽，实际是个陷阱](https://finance.sina.com.cn/roll/2026-10-14/doc-inivctrv8596129.shtml)
+14. [700亿“中药茅”，董事长突然辞职](https://news.sina.com.cn/c/2026-10-13/doc-inivcauc8696696.shtml)
+15. [操盘必读：影响股市利好或利空消息_2026年10月14日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-14/doc-inivcxxt8533823.shtml)
+16. [男群演疑似猥亵女演员 律师解读](https://news.sina.com.cn/s/2026-10-13/doc-inivasef8045318.shtml)
 17. [45岁外祖父，枪杀了怀孕的女儿、年幼的外孙和外孙女](https://news.sina.com.cn/s/2026-10-13/doc-inivasec7302332.shtml)
-18. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
-19. [菲副总统莎拉驳斥总统马科斯：“这是对中国的鲁莽挑衅”](https://news.sina.com.cn/w/2026-10-13/doc-inivawnf8809569.shtml)
-20. [操盘必读：影响股市利好或利空消息_2026年10月14日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-14/doc-inivcxxt8533823.shtml)
+18. [习近平出席全国卫生与健康大会并发表重要讲话](https://news.sina.com.cn/c/xl/2026-10-13/doc-inivawmz7284770.shtml)
+19. [炸串摊主被差评后跳河轻生，警方调查](https://news.sina.com.cn/c/2026-10-13/doc-inivasea0581713.shtml)
+20. [菲副总统莎拉驳斥总统马科斯：“这是对中国的鲁莽挑衅”](https://news.sina.com.cn/w/2026-10-13/doc-inivawnf8809569.shtml)
 
 ## 财经热榜
 
