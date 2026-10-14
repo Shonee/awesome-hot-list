@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-14 09:45:04
+> 更新时间：2026-10-14 10:16:18
 
 ## 最新帖子
 
-1. [【译】Visual Studio 八月更新 —— 跨模型与分支更高效地工作](https://www.cnblogs.com/MeteorSeed/p/23288638)
-2. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
-3. [SQLcl 用文件夹直观管理数据库连接](https://www.cnblogs.com/jyzhao/p/23294659)
-4. [Keycloak 26.8 Token Exchange 委托机制解读：Agent 的身份 ID 是怎么进入令牌的](https://www.cnblogs.com/shanyou/p/23294528)
-5. [洛谷-P15427 Nobody Tells 题解](https://www.cnblogs.com/xiaoniu142857/p/23291368)
-6. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
-7. [从循环到向量化：NumPy提速的7个关键思维](https://www.cnblogs.com/wang_yb/p/23291209)
-8. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
-9. [5. DevEco Studio环境搭建｜鸿蒙开发入门第一步(Windows版)](https://www.cnblogs.com/halfcode/p/23290887)
-10. [开源 DeskPeek：把手机变成自己电脑的小监视器](https://www.cnblogs.com/known/p/23288796)
-11. [地平线 EB 级存储工程实践](https://www.cnblogs.com/JuiceData/p/23286926)
-12. [在传统 Win32 窗口中使用 UI Composition 技术](https://www.cnblogs.com/liulun/p/23285501)
-13. [infinite-creation本地AI短剧带货项目推荐-本地运行无费用0负担](https://www.cnblogs.com/MingGyGy-Castle/p/23275652/infinite-creation)
-14. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://www.cnblogs.com/zrui-xyu/p/23285070)
-15. [一文搞懂 Context Engineering：为什么 AI 聊得越久，越容易跑偏？](https://www.cnblogs.com/Tomorrowland/p/23284833)
-16. [Koog(3)——Prompt、LLM Client 与模型调用：Koog 如何抽象大模型访问](https://www.cnblogs.com/joy99/p/23174572)
-17. [客户端上报不可信：游戏服务端数据校验与对局重演设计](https://www.cnblogs.com/bytehidden/p/23283657)
-18. [AC自动机超详细讲解](https://www.cnblogs.com/yuyancheng/p/23283681/ac-automaton)
-19. [布客技术评论：为什么国产模型的数学研究能力不行？](https://www.cnblogs.com/apachecn/p/23282975)
-20. [GitHub上这10个C#项目，不仅实用，还怪好玩的](https://www.cnblogs.com/chingho/p/23282898)
+1. [Cocos plist 粒子一键导入 Unity：Editor 工具实现与参数映射](https://www.cnblogs.com/wushiming/p/23296770/cocos-plist-to-unity-particle)
+2. [技术思考问题18：AI的超时和回答不准怎么作系统设计和处理？](https://www.cnblogs.com/snidget/p/23296476)
+3. [【译】Visual Studio 八月更新 —— 跨模型与分支更高效地工作](https://www.cnblogs.com/MeteorSeed/p/23288638)
+4. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
+5. [SQLcl 用文件夹直观管理数据库连接](https://www.cnblogs.com/jyzhao/p/23294659)
+6. [Keycloak 26.8 Token Exchange 委托机制解读：Agent 的身份 ID 是怎么进入令牌的](https://www.cnblogs.com/shanyou/p/23294528)
+7. [洛谷-P15427 Nobody Tells 题解](https://www.cnblogs.com/xiaoniu142857/p/23291368)
+8. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
+9. [从循环到向量化：NumPy提速的7个关键思维](https://www.cnblogs.com/wang_yb/p/23291209)
+10. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
+11. [5. DevEco Studio环境搭建｜鸿蒙开发入门第一步(Windows版)](https://www.cnblogs.com/halfcode/p/23290887)
+12. [开源 DeskPeek：把手机变成自己电脑的小监视器](https://www.cnblogs.com/known/p/23288796)
+13. [地平线 EB 级存储工程实践](https://www.cnblogs.com/JuiceData/p/23286926)
+14. [在传统 Win32 窗口中使用 UI Composition 技术](https://www.cnblogs.com/liulun/p/23285501)
+15. [infinite-creation本地AI短剧带货项目推荐-本地运行无费用0负担](https://www.cnblogs.com/MingGyGy-Castle/p/23275652/infinite-creation)
+16. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://www.cnblogs.com/zrui-xyu/p/23285070)
+17. [一文搞懂 Context Engineering：为什么 AI 聊得越久，越容易跑偏？](https://www.cnblogs.com/Tomorrowland/p/23284833)
+18. [Koog(3)——Prompt、LLM Client 与模型调用：Koog 如何抽象大模型访问](https://www.cnblogs.com/joy99/p/23174572)
+19. [客户端上报不可信：游戏服务端数据校验与对局重演设计](https://www.cnblogs.com/bytehidden/p/23283657)
+20. [AC自动机超详细讲解](https://www.cnblogs.com/yuyancheng/p/23283681/ac-automaton)
 
 ## 精华帖子
 
