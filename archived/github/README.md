@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-14 08:29:55
+> 更新时间：2026-10-14 14:54:38
 
 ## 每日趋势
 
@@ -67,6 +67,7 @@
 10. [Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
 11. [beam](https://github.com/apache/beam)
 12. [Telegram](https://github.com/DrKLO/Telegram)
+13. [NoteLite](https://github.com/Lucas0623z/NoteLite)
 
 ## Python
 
@@ -77,11 +78,10 @@
 5. [free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 6. [heretic](https://github.com/p-e-w/heretic)
 7. [opensre](https://github.com/Tracer-Cloud/opensre)
-8. [ppt-master](https://github.com/hugohe3/ppt-master)
-9. [ADR](https://github.com/uber/ADR)
-10. [legal-templates](https://github.com/General-Legal/legal-templates)
-11. [GhostTrack](https://github.com/HunxByts/GhostTrack)
-12. [MiroFish](https://github.com/666ghj/MiroFish)
+8. [ADR](https://github.com/uber/ADR)
+9. [legal-templates](https://github.com/General-Legal/legal-templates)
+10. [GhostTrack](https://github.com/HunxByts/GhostTrack)
+11. [MiroFish](https://github.com/666ghj/MiroFish)
 
 ## Go
 
@@ -105,10 +105,11 @@
 ## HTML
 
 1. [diagram-design](https://github.com/cathrynlavery/diagram-design)
-2. [prompts.chat](https://github.com/f/prompts.chat)
-3. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
-4. [huashu-design](https://github.com/alchaincyf/huashu-design)
-5. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
+2. [iptv](https://github.com/vbskycn/iptv)
+3. [prompts.chat](https://github.com/f/prompts.chat)
+4. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
+5. [huashu-design](https://github.com/alchaincyf/huashu-design)
+6. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
 
 ## JavaScript
 
