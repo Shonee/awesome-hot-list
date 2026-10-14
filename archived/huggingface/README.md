@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-14 22:39:48
+> 更新时间：2026-10-15 04:42:22
 
 ## Trending Models
 
@@ -15,12 +15,12 @@
 9. [AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF)
 10. [LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B)
 11. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-12. [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
-13. [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)
-14. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
-15. [LiquidAI/LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)
-16. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
-17. [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)
-18. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
-19. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
+12. [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)
+13. [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
+14. [LiquidAI/LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)
+15. [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)
+16. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
+17. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
+18. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
+19. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
 20. [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle)
