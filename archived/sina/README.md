@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-14 07:09:55
+> 更新时间：2026-10-14 08:30:20
 
 ## 新闻热榜
 
 1. [重磅打虎！黄奇帆被查](https://news.sina.com.cn/c/2026-10-13/doc-inivasec7242697.shtml)
 2. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
-3. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
-4. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
-5. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
-6. [当地时间13日晚，沙特首都利雅得发布防空警报。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0529617.shtml)
-7. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
-8. [美国纽约联储：为测试执行美联储公开市场操作指令的准备能力，将于10月20日开展一次小规模远期启动期限回购操作（forward start term rep](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpit7187607.shtml)
-9. [沙特领导的联军称，在利雅得及南部地区拦截并摧毁两架无人机。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpis0427024.shtml)
-10. [英伟达CEO黄仁勋：我们必须确保人工智能能够安全可靠地开发和部署。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0477703.shtml)
-11. [也门荷台达省燃油设施遭空袭致2死2伤](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivctrr7174059.shtml)
-12. [涉嫌从事间谍活动 一名日本记者在俄远东被捕](https://news.sina.com.cn/w/2026-10-14/doc-inivcatx7311656.shtml)
-13. [炸串摊主被差评后跳河轻生，警方调查](https://news.sina.com.cn/c/2026-10-13/doc-inivasea0581713.shtml)
-14. [ARM跌幅扩大至3%。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7248540.shtml)
-15. [花旗集团首席执行官：预计投资级企业将掀起大规模债务再融资活动。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcatw0543407.shtml)
-16. [美联储巴尔金：通胀显然具有持续性，采取行动是合理的。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0499476.shtml)
-17. [沙特领导的联军称，将开展一次精准军事行动，以削弱为胡塞恐怖武装战争机器提供重要支持的要害设施。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7264536.shtml)
-18. [墨西哥湾海事管理局正监测美国湾油气活动，以应对飓风“伊萨亚斯”。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7228240.shtml)
-19. [伊朗海军：今日下午，一艘关闭追踪系统、试图穿越管制区域的违规油轮，在霍尔木兹海峡东部海域起火受损。该船被伊朗海军监测小队发现。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzv7283524.shtml)
-20. [美国联合航空：正快速扩展星链服务，预计在2027年底前完成全机队安装。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0466669.shtml)
+3. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
+4. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
+5. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
+6. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
+7. [涉嫌从事间谍活动 一名日本记者在俄远东被捕](https://news.sina.com.cn/w/2026-10-14/doc-inivcatx7311656.shtml)
+8. [当地时间13日晚，沙特首都利雅得发布防空警报。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0529617.shtml)
+9. [700亿“中药茅”，董事长突然辞职](https://news.sina.com.cn/c/2026-10-13/doc-inivcauc8696696.shtml)
+10. [美国纽约联储：为测试执行美联储公开市场操作指令的准备能力，将于10月20日开展一次小规模远期启动期限回购操作（forward start term rep](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpit7187607.shtml)
+11. [OpenAI称可攻克数学难题引学界争议](https://news.sina.com.cn/w/2026-10-13/doc-inivcatw0500533.shtml)
+12. [沙特领导的联军称，在利雅得及南部地区拦截并摧毁两架无人机。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpis0427024.shtml)
+13. [英伟达CEO黄仁勋：我们必须确保人工智能能够安全可靠地开发和部署。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0477703.shtml)
+14. [也门荷台达省燃油设施遭空袭致2死2伤](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivctrr7174059.shtml)
+15. [双色球头奖9注664万分落6地 奖池余额9.31亿](https://sports.sina.com.cn/l/2026-10-13/doc-inivcatz7977564.shtml)
+16. [炸串摊主被差评后跳河轻生，警方调查](https://news.sina.com.cn/c/2026-10-13/doc-inivasea0581713.shtml)
+17. [10月14日美股收盘：三大股指收低 存储芯片股承压](https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7229951.shtml)
+18. [特朗普称不相信中俄在帮助伊朗，外交部：将继续为恢复中东和平稳定作出建设性努力](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivafqm8127984.shtml)
+19. [印尼总统称将如家人般保护中方投资者，外交部回应](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivafqp8861091.shtml)
+20. [10月13日增减持汇总：新华制药等10股拟减持，当日暂无A股上市公司拟增持（表）](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivawnf8805426.shtml)
 
 ## 财经热榜
 

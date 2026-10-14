@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-14 02:18:28
+> 更新时间：2026-10-14 08:29:55
 
 ## 每日趋势
 
@@ -105,12 +105,10 @@
 ## HTML
 
 1. [diagram-design](https://github.com/cathrynlavery/diagram-design)
-2. [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations)
-3. [prompts.chat](https://github.com/f/prompts.chat)
-4. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
-5. [huashu-design](https://github.com/alchaincyf/huashu-design)
-6. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
-7. [kryo](https://github.com/EsotericSoftware/kryo)
+2. [prompts.chat](https://github.com/f/prompts.chat)
+3. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
+4. [huashu-design](https://github.com/alchaincyf/huashu-design)
+5. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
 
 ## JavaScript
 

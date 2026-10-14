@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-14 07:09:44
+> 更新时间：2026-10-14 08:30:00
 
 ## 最新帖子
 
-1. [Keycloak 26.8 Token Exchange 委托机制解读：Agent 的身份 ID 是怎么进入令牌的](https://www.cnblogs.com/shanyou/p/23294528)
-2. [洛谷-P15427 Nobody Tells 题解](https://www.cnblogs.com/xiaoniu142857/p/23291368)
-3. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
-4. [从循环到向量化：NumPy提速的7个关键思维](https://www.cnblogs.com/wang_yb/p/23291209)
-5. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
-6. [5. DevEco Studio环境搭建｜鸿蒙开发入门第一步(Windows版)](https://www.cnblogs.com/halfcode/p/23290887)
-7. [开源 DeskPeek：把手机变成自己电脑的小监视器](https://www.cnblogs.com/known/p/23288796)
-8. [地平线 EB 级存储工程实践](https://www.cnblogs.com/JuiceData/p/23286926)
-9. [在传统 Win32 窗口中使用 UI Composition 技术](https://www.cnblogs.com/liulun/p/23285501)
-10. [infinite-creation本地AI短剧带货项目推荐-本地运行无费用0负担](https://www.cnblogs.com/MingGyGy-Castle/p/23275652/infinite-creation)
-11. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://www.cnblogs.com/zrui-xyu/p/23285070)
-12. [一文搞懂 Context Engineering：为什么 AI 聊得越久，越容易跑偏？](https://www.cnblogs.com/Tomorrowland/p/23284833)
-13. [Koog(3)——Prompt、LLM Client 与模型调用：Koog 如何抽象大模型访问](https://www.cnblogs.com/joy99/p/23174572)
-14. [客户端上报不可信：游戏服务端数据校验与对局重演设计](https://www.cnblogs.com/bytehidden/p/23283657)
-15. [AC自动机超详细讲解](https://www.cnblogs.com/yuyancheng/p/23283681/ac-automaton)
-16. [布客技术评论：为什么国产模型的数学研究能力不行？](https://www.cnblogs.com/apachecn/p/23282975)
-17. [GitHub上这10个C#项目，不仅实用，还怪好玩的](https://www.cnblogs.com/chingho/p/23282898)
-18. [Linux Systemd 服务注册指南](https://www.cnblogs.com/exioran/p/23281866)
-19. [Hermes Agent 安装与 MCP 配置教程](https://www.cnblogs.com/popotato/p/23281734)
-20. [如何用 Python 读取 Excel 工作表名称](https://www.cnblogs.com/jazz-z/p/23281209)
+1. [SQLcl 用文件夹直观管理数据库连接](https://www.cnblogs.com/jyzhao/p/23294659)
+2. [Keycloak 26.8 Token Exchange 委托机制解读：Agent 的身份 ID 是怎么进入令牌的](https://www.cnblogs.com/shanyou/p/23294528)
+3. [洛谷-P15427 Nobody Tells 题解](https://www.cnblogs.com/xiaoniu142857/p/23291368)
+4. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
+5. [从循环到向量化：NumPy提速的7个关键思维](https://www.cnblogs.com/wang_yb/p/23291209)
+6. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
+7. [5. DevEco Studio环境搭建｜鸿蒙开发入门第一步(Windows版)](https://www.cnblogs.com/halfcode/p/23290887)
+8. [开源 DeskPeek：把手机变成自己电脑的小监视器](https://www.cnblogs.com/known/p/23288796)
+9. [地平线 EB 级存储工程实践](https://www.cnblogs.com/JuiceData/p/23286926)
+10. [在传统 Win32 窗口中使用 UI Composition 技术](https://www.cnblogs.com/liulun/p/23285501)
+11. [infinite-creation本地AI短剧带货项目推荐-本地运行无费用0负担](https://www.cnblogs.com/MingGyGy-Castle/p/23275652/infinite-creation)
+12. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://www.cnblogs.com/zrui-xyu/p/23285070)
+13. [一文搞懂 Context Engineering：为什么 AI 聊得越久，越容易跑偏？](https://www.cnblogs.com/Tomorrowland/p/23284833)
+14. [Koog(3)——Prompt、LLM Client 与模型调用：Koog 如何抽象大模型访问](https://www.cnblogs.com/joy99/p/23174572)
+15. [客户端上报不可信：游戏服务端数据校验与对局重演设计](https://www.cnblogs.com/bytehidden/p/23283657)
+16. [AC自动机超详细讲解](https://www.cnblogs.com/yuyancheng/p/23283681/ac-automaton)
+17. [布客技术评论：为什么国产模型的数学研究能力不行？](https://www.cnblogs.com/apachecn/p/23282975)
+18. [GitHub上这10个C#项目，不仅实用，还怪好玩的](https://www.cnblogs.com/chingho/p/23282898)
+19. [Linux Systemd 服务注册指南](https://www.cnblogs.com/exioran/p/23281866)
+20. [Hermes Agent 安装与 MCP 配置教程](https://www.cnblogs.com/popotato/p/23281734)
 
 ## 精华帖子
 
