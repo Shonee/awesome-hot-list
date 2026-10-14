@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-14 20:20:15
+> 更新时间：2026-10-14 21:12:15
 
 ## 热点资讯排行
 
@@ -10,8 +10,8 @@
 4. [沫子杯真送“沫子杯”！沫子定制款 还能加热](https://www.gamersky.com/news/202610/2225615.shtml)
 5. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 6. [小孩又夺冠了！曾卓君再次证明自己 全胜登顶](https://www.gamersky.com/news/202610/2225840.shtml)
-7. [《生化危机9：安魂曲》女主格蕾丝加盟原因:里昂太猛没恐怖味了](https://www.gamersky.com/news/202610/2225627.shtml)
-8. [超级小桀玩《猛鬼追魂：复苏》直播间被封](https://www.gamersky.com/news/202610/2227764.shtml)
+7. [超级小桀玩《猛鬼追魂：复苏》直播间被封](https://www.gamersky.com/news/202610/2227764.shtml)
+8. [《生化危机9：安魂曲》女主格蕾丝加盟原因:里昂太猛没恐怖味了](https://www.gamersky.com/news/202610/2225627.shtml)
 9. [GTA6葱哥亮露西娅4K新片！币值暴跌直接腰斩](https://www.gamersky.com/news/202610/2226447.shtml)
 10. [《影之刃零》原型震惊索尼高层：你们是哪儿来的高手？](https://www.gamersky.com/news/202610/2225945.shtml)
 11. [央视曝光在校学生藏手机神器 销量数千件太坑娃](https://www.gamersky.com/news/202610/2226420.shtml)

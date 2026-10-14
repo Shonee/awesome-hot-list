@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-14 20:19:51
+> 更新时间：2026-10-14 21:12:12
 
 ## 新闻热榜
 
@@ -14,16 +14,16 @@
 8. [铁路部门通报“女子高铁上和男友开免提打1小时电话”](https://news.sina.com.cn/s/2026-10-14/doc-iniveefr8522558.shtml)
 9. [突破红线提“再入欧”，英国首相图什么？](https://news.sina.com.cn/w/2026-10-14/doc-inivctrr7240135.shtml)
 10. [国台办回应蔡康永现身沈伯洋竞选总部成立大会](https://news.sina.com.cn/c/2026-10-14/doc-iniveefp7793101.shtml)
-11. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
-12. [沈伯洋之父以新公司从大陆谋利 国台办：实施惩戒](https://news.sina.com.cn/c/2026-10-14/doc-iniveefk0458214.shtml)
+11. [沈伯洋之父以新公司从大陆谋利 国台办：实施惩戒](https://news.sina.com.cn/c/2026-10-14/doc-iniveefk0458214.shtml)
+12. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
 13. [台青拒当“台独”炮灰，厌战情绪蔓延全岛，岛内“赔钱退伍”人数7年增逾20倍](https://news.sina.com.cn/c/2026-10-14/doc-inivctrt7891441.shtml)
 14. [美国反战组织“粉色代码”组团赴华“探索红色革命之旅”，福克斯新闻急眼了](https://news.sina.com.cn/c/2026-10-14/doc-inivcxxt8577658.shtml)
 15. [高市早苗，陷入困境](https://news.sina.com.cn/w/2026-10-14/doc-iniveqvq4453276.shtml)
-16. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
+16. [重磅打“虎”，一个月前曾出席公开活动](https://news.sina.com.cn/c/2026-10-14/doc-iniveqvm8524699.shtml)
 17. [日本一颗白菜约合人民币42元，日本网友：只能买切开的1/4或1/8](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivcatw0529442.shtml)
 18. [国米11倍冷负拜仁9倍冷平!足彩头奖空开928万滚存](https://sports.sina.com.cn/l/2026-10-14/doc-inivcxxp7159019.shtml)
-19. [重磅打“虎”，一个月前曾出席公开活动](https://news.sina.com.cn/c/2026-10-14/doc-iniveqvm8524699.shtml)
-20. [菲总统攻击对手硬扯上中国，专家：短视且高风险的政治投机](https://news.sina.com.cn/c/2026-10-14/doc-inivctrr7226910.shtml)
+19. [菲总统攻击对手硬扯上中国，专家：短视且高风险的政治投机](https://news.sina.com.cn/c/2026-10-14/doc-inivctrr7226910.shtml)
+20. [[新浪彩票]足彩第26141期任九：维拉高看一线](https://sports.sina.com.cn/l/2026-10-14/doc-inivctrq0502252.shtml)
 
 ## 财经热榜
 
