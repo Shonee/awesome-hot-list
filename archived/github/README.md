@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-14 21:11:51
+> 更新时间：2026-10-15 03:38:17
 
 ## 每日趋势
 
@@ -111,15 +111,14 @@
 ## HTML
 
 1. [diagram-design](https://github.com/cathrynlavery/diagram-design)
-2. [iptv](https://github.com/vbskycn/iptv)
-3. [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations)
-4. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
-5. [prompts.chat](https://github.com/f/prompts.chat)
-6. [huashu-design](https://github.com/alchaincyf/huashu-design)
-7. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
-8. [zju-icicles](https://github.com/QSCTech/zju-icicles)
-9. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
-10. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+2. [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations)
+3. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
+4. [prompts.chat](https://github.com/f/prompts.chat)
+5. [huashu-design](https://github.com/alchaincyf/huashu-design)
+6. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
+7. [zju-icicles](https://github.com/QSCTech/zju-icicles)
+8. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
+9. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 
 ## JavaScript
 
@@ -127,9 +126,8 @@
 2. [agent-skills](https://github.com/addyosmani/agent-skills)
 3. [sparkDash](https://github.com/MiaAI-Lab/sparkDash)
 4. [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-5. [MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)
-6. [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
-7. [GSAP](https://github.com/greensock/GSAP)
-8. [blur-my-shell](https://github.com/aunetx/blur-my-shell)
-9. [LinkSwift](https://github.com/hmjz100/LinkSwift)
-10. [axios](https://github.com/axios/axios)
+5. [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
+6. [GSAP](https://github.com/greensock/GSAP)
+7. [blur-my-shell](https://github.com/aunetx/blur-my-shell)
+8. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+9. [axios](https://github.com/axios/axios)
