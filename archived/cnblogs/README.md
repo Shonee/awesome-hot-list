@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-14 19:12:18
+> 更新时间：2026-10-14 20:19:28
 
 ## 最新帖子
 
-1. [Personal Agent 真能越用越懂你吗？AdaptArena 揭示个性化 Web Agent 的失效链路](https://www.cnblogs.com/Qiniu-developer/p/23304875)
-2. [3.2 万星炸场！这 10 个 C# 开源神器，连 AI 都能帮你写 Word 和 PPT 了](https://www.cnblogs.com/chingho/p/23304342)
-3. [将 Kubernetes 部署扩展到多个Region区域：GitOps 参考架构](https://www.cnblogs.com/Jame-mei/p/23304060)
-4. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
-5. [从零构建一个高性能异步任务编排框架](https://www.cnblogs.com/sun-10387834/p/23303295)
-6. [185,000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能](https://www.cnblogs.com/uniqueDong/p/23302386)
-7. [流量监控四大金刚：NetStream、sFlow、Telemetry、镜像](https://www.cnblogs.com/Johny-zhao/p/23300694)
-8. [Koog(4)—— Agent Skills 和 Tools](https://www.cnblogs.com/joy99/p/23277049)
-9. [AI Agent 为什么不能随便放权？一文搞懂 Plan、Default 与 Auto 三种运行模式](https://www.cnblogs.com/Tomorrowland/p/23299257)
-10. [PID 的三个参数之外：位置式、增量式和反馈控制](https://www.cnblogs.com/zw-awa/p/23299246)
-11. [从 Copilot 到 Agentic Enterprise：为什么企业 AI 的下一场竞争，不在模型，而在价值流？](https://www.cnblogs.com/heyonggang/p/23298861)
-12. [把中国典故装进小游戏](https://www.cnblogs.com/znlgis/p/23298478)
-13. [oracle在Linux上配置实例与监听的开机自启动的解决方案](https://www.cnblogs.com/liuziyi1/p/23298486)
-14. [KServe 工作流程：从 InferenceService 到 vLLM 服务](https://www.cnblogs.com/KubeExplorer/p/23297995)
-15. [Java 工程师做 AI，核心机会在「落地」而非「训练」](https://www.cnblogs.com/zrui-xyu/p/23297481)
-16. [并发编程（九）：BlockingQueue 与 Channel——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23297269)
-17. [Cocos plist 粒子一键导入 Unity：Editor 工具实现与参数映射](https://www.cnblogs.com/wushiming/p/23296770/cocos-plist-to-unity-particle)
-18. [技术思考问题18：AI的超时和回答不准怎么作系统设计和处理？](https://www.cnblogs.com/snidget/p/23296476)
-19. [【译】Visual Studio 八月更新 —— 跨模型与分支更高效地工作](https://www.cnblogs.com/MeteorSeed/p/23288638)
-20. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
+1. [【Agentic RL / 强化学习框架】AstraFlow 架构解析：面向数据流的大规模强化学习系统](https://www.cnblogs.com/rossiXYZ/p/23263528)
+2. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
+3. [Personal Agent 真能越用越懂你吗？AdaptArena 揭示个性化 Web Agent 的失效链路](https://www.cnblogs.com/Qiniu-developer/p/23304875)
+4. [将 Kubernetes 部署扩展到多个Region区域：GitOps 参考架构](https://www.cnblogs.com/Jame-mei/p/23304060)
+5. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
+6. [从零构建一个高性能异步任务编排框架](https://www.cnblogs.com/sun-10387834/p/23303295)
+7. [185,000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能](https://www.cnblogs.com/uniqueDong/p/23302386)
+8. [流量监控四大金刚：NetStream、sFlow、Telemetry、镜像](https://www.cnblogs.com/Johny-zhao/p/23300694)
+9. [Koog(4)—— Agent Skills 和 Tools](https://www.cnblogs.com/joy99/p/23277049)
+10. [AI Agent 为什么不能随便放权？一文搞懂 Plan、Default 与 Auto 三种运行模式](https://www.cnblogs.com/Tomorrowland/p/23299257)
+11. [PID 的三个参数之外：位置式、增量式和反馈控制](https://www.cnblogs.com/zw-awa/p/23299246)
+12. [从 Copilot 到 Agentic Enterprise：为什么企业 AI 的下一场竞争，不在模型，而在价值流？](https://www.cnblogs.com/heyonggang/p/23298861)
+13. [把中国典故装进小游戏](https://www.cnblogs.com/znlgis/p/23298478)
+14. [oracle在Linux上配置实例与监听的开机自启动的解决方案](https://www.cnblogs.com/liuziyi1/p/23298486)
+15. [KServe 工作流程：从 InferenceService 到 vLLM 服务](https://www.cnblogs.com/KubeExplorer/p/23297995)
+16. [Java 工程师做 AI，核心机会在「落地」而非「训练」](https://www.cnblogs.com/zrui-xyu/p/23297481)
+17. [并发编程（九）：BlockingQueue 与 Channel——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23297269)
+18. [Cocos plist 粒子一键导入 Unity：Editor 工具实现与参数映射](https://www.cnblogs.com/wushiming/p/23296770/cocos-plist-to-unity-particle)
+19. [技术思考问题18：AI的超时和回答不准怎么作系统设计和处理？](https://www.cnblogs.com/snidget/p/23296476)
+20. [【译】Visual Studio 八月更新 —— 跨模型与分支更高效地工作](https://www.cnblogs.com/MeteorSeed/p/23288638)
 
 ## 精华帖子
 
