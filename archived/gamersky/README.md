@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-14 08:30:23
+> 更新时间：2026-10-14 09:08:54
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [PS5惨遭破解 商店应用上线 免费下载游戏](https://www.gamersky.com/news/202610/2226474.shtml)
 12. [黑客Cyberleek宣称《GTA6》下一段泄露为露西亚4K视频 并挂出募捐目标](https://www.gamersky.com/news/202610/2225753.shtml)
 13. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
-14. [GTA6葱哥亮露西娅4K新片！币值暴跌直接腰斩](https://www.gamersky.com/news/202610/2226447.shtml)
-15. [LGBT魔爪Sweetbaby官网删光合作方！DEI金主跑了？](https://www.gamersky.com/news/202610/2226424.shtml)
+14. [LGBT魔爪Sweetbaby官网删光合作方！DEI金主跑了？](https://www.gamersky.com/news/202610/2226424.shtml)
+15. [GTA6葱哥亮露西娅4K新片！币值暴跌直接腰斩](https://www.gamersky.com/news/202610/2226447.shtml)

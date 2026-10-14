@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-14 08:30:20
+> 更新时间：2026-10-14 09:08:51
 
 ## 新闻热榜
 
 1. [重磅打虎！黄奇帆被查](https://news.sina.com.cn/c/2026-10-13/doc-inivasec7242697.shtml)
-2. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
-3. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
-4. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
-5. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
+2. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
+3. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
+4. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
+5. [涉嫌从事间谍活动 一名日本记者在俄远东被捕](https://news.sina.com.cn/w/2026-10-14/doc-inivcatx7311656.shtml)
 6. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
-7. [涉嫌从事间谍活动 一名日本记者在俄远东被捕](https://news.sina.com.cn/w/2026-10-14/doc-inivcatx7311656.shtml)
-8. [当地时间13日晚，沙特首都利雅得发布防空警报。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0529617.shtml)
-9. [700亿“中药茅”，董事长突然辞职](https://news.sina.com.cn/c/2026-10-13/doc-inivcauc8696696.shtml)
-10. [美国纽约联储：为测试执行美联储公开市场操作指令的准备能力，将于10月20日开展一次小规模远期启动期限回购操作（forward start term rep](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpit7187607.shtml)
-11. [OpenAI称可攻克数学难题引学界争议](https://news.sina.com.cn/w/2026-10-13/doc-inivcatw0500533.shtml)
-12. [沙特领导的联军称，在利雅得及南部地区拦截并摧毁两架无人机。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivcpis0427024.shtml)
-13. [英伟达CEO黄仁勋：我们必须确保人工智能能够安全可靠地开发和部署。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0477703.shtml)
-14. [也门荷台达省燃油设施遭空袭致2死2伤](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivctrr7174059.shtml)
-15. [双色球头奖9注664万分落6地 奖池余额9.31亿](https://sports.sina.com.cn/l/2026-10-13/doc-inivcatz7977564.shtml)
-16. [炸串摊主被差评后跳河轻生，警方调查](https://news.sina.com.cn/c/2026-10-13/doc-inivasea0581713.shtml)
-17. [10月14日美股收盘：三大股指收低 存储芯片股承压](https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7229951.shtml)
-18. [特朗普称不相信中俄在帮助伊朗，外交部：将继续为恢复中东和平稳定作出建设性努力](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivafqm8127984.shtml)
-19. [印尼总统称将如家人般保护中方投资者，外交部回应](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivafqp8861091.shtml)
-20. [10月13日增减持汇总：新华制药等10股拟减持，当日暂无A股上市公司拟增持（表）](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivawnf8805426.shtml)
+7. [当红男星突然去世，年仅34岁](https://news.sina.com.cn/w/2026-10-13/doc-inivamwi8038412.shtml)
+8. [700亿“中药茅”，董事长突然辞职](https://news.sina.com.cn/c/2026-10-13/doc-inivcauc8696696.shtml)
+9. [OpenAI称可攻克数学难题引学界争议](https://news.sina.com.cn/w/2026-10-13/doc-inivcatw0500533.shtml)
+10. [双色球头奖9注664万分落6地 奖池余额9.31亿](https://sports.sina.com.cn/l/2026-10-13/doc-inivcatz7977564.shtml)
+11. [炸串摊主被差评后跳河轻生，警方调查](https://news.sina.com.cn/c/2026-10-13/doc-inivasea0581713.shtml)
+12. [10月14日美股收盘：三大股指收低 存储芯片股承压](https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7229951.shtml)
+13. [菲副总统莎拉驳斥总统马科斯：“这是对中国的鲁莽挑衅”](https://news.sina.com.cn/w/2026-10-13/doc-inivawnf8809569.shtml)
+14. [45岁外祖父，枪杀了怀孕的女儿、年幼的外孙和外孙女](https://news.sina.com.cn/s/2026-10-13/doc-inivasec7302332.shtml)
+15. [习近平出席全国卫生与健康大会并发表重要讲话](https://news.sina.com.cn/c/xl/2026-10-13/doc-inivawmz7284770.shtml)
+16. [男群演疑似猥亵女演员 律师解读](https://news.sina.com.cn/s/2026-10-13/doc-inivasef8045318.shtml)
+17. [24岁吃播女网红去世家属发声](https://news.sina.com.cn/c/2026-10-13/doc-inivamwi8088800.shtml)
+18. [当地时间13日晚，沙特首都利雅得发布防空警报。](https://finance.sina.com.cn/7x24/2026-10-14/doc-inivchzu0529617.shtml)
+19. [特朗普“前准儿媳”吉尔福伊尔，被白宫要求辞职](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7981330.shtml)
+20. [日本一颗白菜约合人民币42元，日本网友：只能买切开的1/4或1/8](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivcatw0529442.shtml)
 
 ## 财经热榜
 
