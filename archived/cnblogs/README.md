@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-14 12:15:31
+> 更新时间：2026-10-14 13:12:36
 
 ## 最新帖子
 
-1. [从 Copilot 到 Agentic Enterprise：为什么企业 AI 的下一场竞争，不在模型，而在价值流？](https://www.cnblogs.com/heyonggang/p/23298861)
-2. [把中国典故装进小游戏](https://www.cnblogs.com/znlgis/p/23298478)
-3. [oracle在Linux上配置实例与监听的开机自启动的解决方案](https://www.cnblogs.com/liuziyi1/p/23298486)
-4. [KServe 工作流程：从 InferenceService 到 vLLM 服务](https://www.cnblogs.com/KubeExplorer/p/23297995)
-5. [Java 工程师做 AI，核心机会在「落地」而非「训练」](https://www.cnblogs.com/zrui-xyu/p/23297481)
-6. [并发编程（九）：BlockingQueue 与 Channel——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23297269)
-7. [Cocos plist 粒子一键导入 Unity：Editor 工具实现与参数映射](https://www.cnblogs.com/wushiming/p/23296770/cocos-plist-to-unity-particle)
-8. [技术思考问题18：AI的超时和回答不准怎么作系统设计和处理？](https://www.cnblogs.com/snidget/p/23296476)
-9. [【译】Visual Studio 八月更新 —— 跨模型与分支更高效地工作](https://www.cnblogs.com/MeteorSeed/p/23288638)
-10. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
-11. [SQLcl 用文件夹直观管理数据库连接](https://www.cnblogs.com/jyzhao/p/23294659)
-12. [Keycloak 26.8 Token Exchange 委托机制解读：Agent 的身份 ID 是怎么进入令牌的](https://www.cnblogs.com/shanyou/p/23294528)
-13. [洛谷-P15427 Nobody Tells 题解](https://www.cnblogs.com/xiaoniu142857/p/23291368)
-14. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
-15. [从循环到向量化：NumPy提速的7个关键思维](https://www.cnblogs.com/wang_yb/p/23291209)
-16. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
-17. [5. DevEco Studio环境搭建｜鸿蒙开发入门第一步(Windows版)](https://www.cnblogs.com/halfcode/p/23290887)
-18. [开源 DeskPeek：把手机变成自己电脑的小监视器](https://www.cnblogs.com/known/p/23288796)
-19. [地平线 EB 级存储工程实践](https://www.cnblogs.com/JuiceData/p/23286926)
-20. [在传统 Win32 窗口中使用 UI Composition 技术](https://www.cnblogs.com/liulun/p/23285501)
+1. [AI Agent 为什么不能随便放权？一文搞懂 Plan、Default 与 Auto 三种运行模式](https://www.cnblogs.com/Tomorrowland/p/23299257)
+2. [PID 的三个参数之外：位置式、增量式和反馈控制](https://www.cnblogs.com/zw-awa/p/23299246)
+3. [从 Copilot 到 Agentic Enterprise：为什么企业 AI 的下一场竞争，不在模型，而在价值流？](https://www.cnblogs.com/heyonggang/p/23298861)
+4. [把中国典故装进小游戏](https://www.cnblogs.com/znlgis/p/23298478)
+5. [oracle在Linux上配置实例与监听的开机自启动的解决方案](https://www.cnblogs.com/liuziyi1/p/23298486)
+6. [KServe 工作流程：从 InferenceService 到 vLLM 服务](https://www.cnblogs.com/KubeExplorer/p/23297995)
+7. [Java 工程师做 AI，核心机会在「落地」而非「训练」](https://www.cnblogs.com/zrui-xyu/p/23297481)
+8. [并发编程（九）：BlockingQueue 与 Channel——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23297269)
+9. [Cocos plist 粒子一键导入 Unity：Editor 工具实现与参数映射](https://www.cnblogs.com/wushiming/p/23296770/cocos-plist-to-unity-particle)
+10. [技术思考问题18：AI的超时和回答不准怎么作系统设计和处理？](https://www.cnblogs.com/snidget/p/23296476)
+11. [【译】Visual Studio 八月更新 —— 跨模型与分支更高效地工作](https://www.cnblogs.com/MeteorSeed/p/23288638)
+12. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
+13. [SQLcl 用文件夹直观管理数据库连接](https://www.cnblogs.com/jyzhao/p/23294659)
+14. [Keycloak 26.8 Token Exchange 委托机制解读：Agent 的身份 ID 是怎么进入令牌的](https://www.cnblogs.com/shanyou/p/23294528)
+15. [洛谷-P15427 Nobody Tells 题解](https://www.cnblogs.com/xiaoniu142857/p/23291368)
+16. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
+17. [从循环到向量化：NumPy提速的7个关键思维](https://www.cnblogs.com/wang_yb/p/23291209)
+18. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
+19. [5. DevEco Studio环境搭建｜鸿蒙开发入门第一步(Windows版)](https://www.cnblogs.com/halfcode/p/23290887)
+20. [开源 DeskPeek：把手机变成自己电脑的小监视器](https://www.cnblogs.com/known/p/23288796)
 
 ## 精华帖子
 
@@ -54,5 +54,5 @@
 2. [新项目选 Blazor 还是 Razor Pages？我交了学费](https://www.cnblogs.com/shenchuanchao/p/23212983/blazor-vs-razor-pages-new-project-lessons)
 3. [GitHub上这10个C#项目，不仅实用，还怪好玩的](https://www.cnblogs.com/chingho/p/23282898)
 4. [领导总分一些"杂活"，到底值不值得继续干？](https://www.cnblogs.com/zhangs1986/p/23135460)
-5. [Windows 搭建 ComfyUI 环境 | 小白也能直接上手](https://www.cnblogs.com/roseAT/p/23268699)
-6. [爆火！新一代e2e AI测试框架，单日狂揽1500 star](https://www.cnblogs.com/jinjiangongzuoshi/p/23280355)
+5. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
+6. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
