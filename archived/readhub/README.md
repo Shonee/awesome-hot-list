@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-15 04:42:18
+> 更新时间：2026-10-15 06:11:52
 
 ## 24 小时热榜
 
@@ -21,29 +21,29 @@
 15. [德勤调查：英国超半数大企业预计未来一年借 AI 裁员](https://readhub.cn/topic/8xD2eN0nahZ?tab=daily)
 16. [巅峰估值 50 亿美元 AI 独角兽 Character.AI 申请破产重组](https://readhub.cn/topic/8xDFWtYn9dW?tab=daily)
 17. [谷歌 Gemini 4 Argon 开放 性能比肩头部大模型 API 限时半价](https://readhub.cn/topic/8xD9mIEeahk?tab=daily)
-18. [宝能集团及姚振华等被执行 20.5 亿](https://readhub.cn/topic/8xDHdxPhkZ2?tab=daily)
-19. [奈飞在韩销售额首破 1 万亿韩元 逾八成流向美国总部](https://readhub.cn/topic/8xDY6DAz5Nu?tab=daily)
+18. [奈飞在韩销售额首破 1 万亿韩元 逾八成流向美国总部](https://readhub.cn/topic/8xDY6DAz5Nu?tab=daily)
+19. [宝能集团及姚振华等被执行 20.5 亿](https://readhub.cn/topic/8xDHdxPhkZ2?tab=daily)
 20. [iPhone Duo 预装定制 iOS 27.1 开售首日需进行系统更新](https://readhub.cn/topic/8xCdcv9Gm8p?tab=daily)
 21. [苹果举办新品发布会推出智能家居新品 盘初股价创历史新高](https://readhub.cn/topic/8xCz4g3S3tV?tab=daily)
 22. [豆包手机助手将陆续放开第三方应用操作权限](https://readhub.cn/topic/8xDAVKZ16KD?tab=daily)
 23. [谷歌 Gemini 4 Argon 实测：主打物理推理 性价比突出仍存硬伤](https://readhub.cn/topic/8xDBuvbdACK?tab=daily)
 24. [企业微信与 WorkBuddy 深度联合发布新版本](https://readhub.cn/topic/8xDCeMlbxKn?tab=daily)
 25. [OpenAI 合作 Higgsfield 借助 GPT-6 Astra 提升 AI 视频时长至 10 分钟](https://readhub.cn/topic/8xCgTu5zaaB?tab=daily)
-26. [DeepMind AI 登 Science 解决 56 年等多道数学悬案](https://readhub.cn/topic/8xBsWbwBWsZ?tab=daily)
-27. [美媒关注长鑫存储技术突破 相关消息致全球存储巨头股价集体下挫](https://readhub.cn/topic/8xDJSaJuJKn?tab=daily)
-28. [尊界终端门店确认定车将使用优化后的制动踏板方案](https://readhub.cn/topic/8xBiRplbmpY?tab=daily)
+26. [尊界终端门店确认定车将使用优化后的制动踏板方案](https://readhub.cn/topic/8xBiRplbmpY?tab=daily)
+27. [DeepMind AI 登 Science 解决 56 年等多道数学悬案](https://readhub.cn/topic/8xBsWbwBWsZ?tab=daily)
+28. [美媒关注长鑫存储技术突破 相关消息致全球存储巨头股价集体下挫](https://readhub.cn/topic/8xDJSaJuJKn?tab=daily)
 29. [前 OpenAI 高管称仅约 5000 人可接触最前沿内部 AI 系统](https://readhub.cn/topic/8xBbf3LMGr5?tab=daily)
 30. [《原神》线下测试人员泄密商业秘密，终审被判赔偿 50 万](https://readhub.cn/topic/8xDJmZukXLB?tab=daily)
 
 ## 每日早报
 
-1. [10.13 DeepSeek 考虑入局具身智能，梁文锋正密集与相关创业者交流 13 条](https://readhub.cn/daily/2026-10-13)
-2. [10.12 尊界：已订车用户定金，若处于锁定期，无法退款 13 条](https://readhub.cn/daily/2026-10-12)
-3. [10.11 古尔曼称 iPhone Duo 美区零售店购后开机可显示用户姓名 10 条](https://readhub.cn/daily/2026-10-11)
-4. [10.10 苹果宣布将于 10 月 13 日在纽约举行「欢迎回家」产品发布会 14 条](https://readhub.cn/daily/2026-10-10)
-5. [10.09 懂车帝测试三台尊界 V800 刹车踏板支架均断裂 15 条](https://readhub.cn/daily/2026-10-09)
-6. [10.08 OpenAI 公布 722 篇数学手稿：准黎曼猜想、4D 挂谷猜想均在列 12 条](https://readhub.cn/daily/2026-10-08)
-7. [10.07 DeepSeek 接近完成 800 亿元融资，腾讯宁德时代或参投 12 条](https://readhub.cn/daily/2026-10-07)
+1. [10.14 苹果推出全新智能家居配件系列 Apple Home Collection 16 条](https://readhub.cn/daily/2026-10-14)
+2. [10.13 DeepSeek 考虑入局具身智能，梁文锋正密集与相关创业者交流 13 条](https://readhub.cn/daily/2026-10-13)
+3. [10.12 尊界：已订车用户定金，若处于锁定期，无法退款 13 条](https://readhub.cn/daily/2026-10-12)
+4. [10.11 古尔曼称 iPhone Duo 美区零售店购后开机可显示用户姓名 10 条](https://readhub.cn/daily/2026-10-11)
+5. [10.10 苹果宣布将于 10 月 13 日在纽约举行「欢迎回家」产品发布会 14 条](https://readhub.cn/daily/2026-10-10)
+6. [10.09 懂车帝测试三台尊界 V800 刹车踏板支架均断裂 15 条](https://readhub.cn/daily/2026-10-09)
+7. [10.08 OpenAI 公布 722 篇数学手稿：准黎曼猜想、4D 挂谷猜想均在列 12 条](https://readhub.cn/daily/2026-10-08)
 
 ## AI 资讯
 
@@ -53,7 +53,7 @@
 4. [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/)
 5. [Hugging Face 发布生物学 AI 模型，一口气预测出 5.66 亿个基因位点，预言 2027 年将成「生物之年」](https://www.mittrchina.com/news/detail/17091)
 6. [开放 AI 模型究竟是福是祸？一场关于安全与权力的争论](https://www.mittrchina.com/news/detail/17094)
-7. [AI 做出的科学发现，谁来证明它是对的？](https://www.mittrchina.com/news/detail/17093)
-8. [推理快，交付慢：「全球最大 AI 芯片」Cerebras 的商业化考验](https://www.mittrchina.com/news/detail/17092)
-9. [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)
-10. [xAI 发布 Grok Voice 3.0，在 Speech-to-Speech 基准居首](https://www.theblockbeats.info/flash/371851)
+7. [美国八个州因用户安全问题起诉 OpenAI](https://www.gelonghui.com/live/2711422)
+8. [AI 做出的科学发现，谁来证明它是对的？](https://www.mittrchina.com/news/detail/17093)
+9. [推理快，交付慢：「全球最大 AI 芯片」Cerebras 的商业化考验](https://www.mittrchina.com/news/detail/17092)
+10. [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)
