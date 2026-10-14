@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-14 14:55:20
+> 更新时间：2026-10-14 15:43:37
 
 ## 热点资讯排行
 
@@ -18,4 +18,4 @@
 12. [LGBT魔爪Sweetbaby官网删光合作方！DEI金主跑了？](https://www.gamersky.com/news/202610/2226424.shtml)
 13. [GTA6葱哥亮露西娅4K新片！币值暴跌直接腰斩](https://www.gamersky.com/news/202610/2226447.shtml)
 14. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
-15. [黑客Cyberleek宣称《GTA6》下一段泄露为露西亚4K视频 并挂出募捐目标](https://www.gamersky.com/news/202610/2225753.shtml)
+15. [一条小团团抖音直播突遭封禁！游戏角色穿得太清凉](https://www.gamersky.com/news/202610/2226876.shtml)
