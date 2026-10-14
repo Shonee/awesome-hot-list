@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-14 16:17:56
+> 更新时间：2026-10-14 17:14:43
 
 ## 最新帖子
 
-1. [185,000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能](https://www.cnblogs.com/uniqueDong/p/23302386)
-2. [流量监控四大金刚：NetStream、sFlow、Telemetry、镜像](https://www.cnblogs.com/Johny-zhao/p/23300694)
-3. [Koog(4)—— Agent Skills 和 Tools](https://www.cnblogs.com/joy99/p/23277049)
-4. [AI Agent 为什么不能随便放权？一文搞懂 Plan、Default 与 Auto 三种运行模式](https://www.cnblogs.com/Tomorrowland/p/23299257)
-5. [PID 的三个参数之外：位置式、增量式和反馈控制](https://www.cnblogs.com/zw-awa/p/23299246)
-6. [从 Copilot 到 Agentic Enterprise：为什么企业 AI 的下一场竞争，不在模型，而在价值流？](https://www.cnblogs.com/heyonggang/p/23298861)
-7. [把中国典故装进小游戏](https://www.cnblogs.com/znlgis/p/23298478)
-8. [oracle在Linux上配置实例与监听的开机自启动的解决方案](https://www.cnblogs.com/liuziyi1/p/23298486)
-9. [KServe 工作流程：从 InferenceService 到 vLLM 服务](https://www.cnblogs.com/KubeExplorer/p/23297995)
-10. [Java 工程师做 AI，核心机会在「落地」而非「训练」](https://www.cnblogs.com/zrui-xyu/p/23297481)
-11. [并发编程（九）：BlockingQueue 与 Channel——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23297269)
-12. [Cocos plist 粒子一键导入 Unity：Editor 工具实现与参数映射](https://www.cnblogs.com/wushiming/p/23296770/cocos-plist-to-unity-particle)
-13. [技术思考问题18：AI的超时和回答不准怎么作系统设计和处理？](https://www.cnblogs.com/snidget/p/23296476)
-14. [【译】Visual Studio 八月更新 —— 跨模型与分支更高效地工作](https://www.cnblogs.com/MeteorSeed/p/23288638)
-15. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
-16. [SQLcl 用文件夹直观管理数据库连接](https://www.cnblogs.com/jyzhao/p/23294659)
-17. [Keycloak 26.8 Token Exchange 委托机制解读：Agent 的身份 ID 是怎么进入令牌的](https://www.cnblogs.com/shanyou/p/23294528)
-18. [洛谷-P15427 Nobody Tells 题解](https://www.cnblogs.com/xiaoniu142857/p/23291368)
-19. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
-20. [从循环到向量化：NumPy提速的7个关键思维](https://www.cnblogs.com/wang_yb/p/23291209)
+1. [从零构建一个高性能异步任务编排框架](https://www.cnblogs.com/sun-10387834/p/23303295)
+2. [185,000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能](https://www.cnblogs.com/uniqueDong/p/23302386)
+3. [流量监控四大金刚：NetStream、sFlow、Telemetry、镜像](https://www.cnblogs.com/Johny-zhao/p/23300694)
+4. [Koog(4)—— Agent Skills 和 Tools](https://www.cnblogs.com/joy99/p/23277049)
+5. [AI Agent 为什么不能随便放权？一文搞懂 Plan、Default 与 Auto 三种运行模式](https://www.cnblogs.com/Tomorrowland/p/23299257)
+6. [PID 的三个参数之外：位置式、增量式和反馈控制](https://www.cnblogs.com/zw-awa/p/23299246)
+7. [从 Copilot 到 Agentic Enterprise：为什么企业 AI 的下一场竞争，不在模型，而在价值流？](https://www.cnblogs.com/heyonggang/p/23298861)
+8. [把中国典故装进小游戏](https://www.cnblogs.com/znlgis/p/23298478)
+9. [oracle在Linux上配置实例与监听的开机自启动的解决方案](https://www.cnblogs.com/liuziyi1/p/23298486)
+10. [KServe 工作流程：从 InferenceService 到 vLLM 服务](https://www.cnblogs.com/KubeExplorer/p/23297995)
+11. [Java 工程师做 AI，核心机会在「落地」而非「训练」](https://www.cnblogs.com/zrui-xyu/p/23297481)
+12. [并发编程（九）：BlockingQueue 与 Channel——语言层的原子性、可见性与有序性](https://www.cnblogs.com/ThinkerQAQ/p/23297269)
+13. [Cocos plist 粒子一键导入 Unity：Editor 工具实现与参数映射](https://www.cnblogs.com/wushiming/p/23296770/cocos-plist-to-unity-particle)
+14. [技术思考问题18：AI的超时和回答不准怎么作系统设计和处理？](https://www.cnblogs.com/snidget/p/23296476)
+15. [【译】Visual Studio 八月更新 —— 跨模型与分支更高效地工作](https://www.cnblogs.com/MeteorSeed/p/23288638)
+16. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
+17. [SQLcl 用文件夹直观管理数据库连接](https://www.cnblogs.com/jyzhao/p/23294659)
+18. [Keycloak 26.8 Token Exchange 委托机制解读：Agent 的身份 ID 是怎么进入令牌的](https://www.cnblogs.com/shanyou/p/23294528)
+19. [洛谷-P15427 Nobody Tells 题解](https://www.cnblogs.com/xiaoniu142857/p/23291368)
+20. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
 
 ## 精华帖子
 

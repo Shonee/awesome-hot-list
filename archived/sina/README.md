@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-14 16:18:11
+> 更新时间：2026-10-14 17:14:56
 
 ## 新闻热榜
 
 1. [重磅打虎！黄奇帆被查](https://news.sina.com.cn/c/2026-10-13/doc-inivasec7242697.shtml)
 2. [国家某部委涉密会议，一支正工作的录音笔突然掉落……一查，录音笔主人已累计窃密近30万份……](https://news.sina.com.cn/c/2026-10-14/doc-inivcxxr7818814.shtml)
 3. [美国果然釜底抽薪了 特朗普180度大转弯](https://news.sina.com.cn/w/2026-10-14/doc-iniveefp7789071.shtml)
-4. [中朝新鸭绿江大桥将开通](https://news.sina.com.cn/c/2026-10-14/doc-iniveefm7199152.shtml)
-5. [铁路部门通报“女子高铁上和男友开免提打1小时电话”](https://news.sina.com.cn/s/2026-10-14/doc-iniveefr8522558.shtml)
-6. [赖清德称“不许扭曲二战历史”  国台办回应](https://news.sina.com.cn/c/2026-10-14/doc-iniveefk0451057.shtml)
-7. [突破红线提“再入欧”，英国首相图什么？](https://news.sina.com.cn/w/2026-10-14/doc-inivctrr7240135.shtml)
-8. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
-9. [台青拒当“台独”炮灰，厌战情绪蔓延全岛，岛内“赔钱退伍”人数7年增逾20倍](https://news.sina.com.cn/c/2026-10-14/doc-inivctrt7891441.shtml)
-10. [国台办回应蔡康永现身沈伯洋竞选总部成立大会](https://news.sina.com.cn/c/2026-10-14/doc-iniveefp7793101.shtml)
-11. [中央暗访检查组怒了：这不是开玩笑吗？](https://news.sina.com.cn/c/2026-10-14/doc-iniveefw1241964.shtml)
-12. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
-13. [沈伯洋之父以新公司从大陆谋利 国台办：实施惩戒](https://news.sina.com.cn/c/2026-10-14/doc-iniveefk0458214.shtml)
-14. [日本一颗白菜约合人民币42元，日本网友：只能买切开的1/4或1/8](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivcatw0529442.shtml)
-15. [美国反战组织“粉色代码”组团赴华“探索红色革命之旅”，福克斯新闻急眼了](https://news.sina.com.cn/c/2026-10-14/doc-inivcxxt8577658.shtml)
-16. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
-17. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
-18. [菲总统攻击对手硬扯上中国，专家：短视且高风险的政治投机](https://news.sina.com.cn/c/2026-10-14/doc-inivctrr7226910.shtml)
-19. [国米11倍冷负拜仁9倍冷平!足彩头奖空开928万滚存](https://sports.sina.com.cn/l/2026-10-14/doc-inivcxxp7159019.shtml)
-20. [男群演疑似猥亵女演员 律师解读](https://news.sina.com.cn/s/2026-10-13/doc-inivasef8045318.shtml)
+4. [中央暗访检查组怒了：这不是开玩笑吗？](https://news.sina.com.cn/c/2026-10-14/doc-iniveefw1241964.shtml)
+5. [赖清德称“不许扭曲二战历史”  国台办回应](https://news.sina.com.cn/c/2026-10-14/doc-iniveefk0451057.shtml)
+6. [中朝新鸭绿江大桥将开通](https://news.sina.com.cn/c/2026-10-14/doc-iniveefm7199152.shtml)
+7. [铁路部门通报“女子高铁上和男友开免提打1小时电话”](https://news.sina.com.cn/s/2026-10-14/doc-iniveefr8522558.shtml)
+8. [突破红线提“再入欧”，英国首相图什么？](https://news.sina.com.cn/w/2026-10-14/doc-inivctrr7240135.shtml)
+9. [南京博物院回应徐湖平去世](https://news.sina.com.cn/s/2026-10-14/doc-inivekpp8556356.shtml)
+10. [胡塞武装为何暴击沙特机场？一笔精明的“非对称账”](https://news.sina.com.cn/w/2026-10-13/doc-inivcatz7978897.shtml)
+11. [国台办回应蔡康永现身沈伯洋竞选总部成立大会](https://news.sina.com.cn/c/2026-10-14/doc-iniveefp7793101.shtml)
+12. [台青拒当“台独”炮灰，厌战情绪蔓延全岛，岛内“赔钱退伍”人数7年增逾20倍](https://news.sina.com.cn/c/2026-10-14/doc-inivctrt7891441.shtml)
+13. [“白天没人，晚上爆满！”年薪千万抢人](https://news.sina.com.cn/c/2026-10-14/doc-inivcxxp7149907.shtml)
+14. [美国反战组织“粉色代码”组团赴华“探索红色革命之旅”，福克斯新闻急眼了](https://news.sina.com.cn/c/2026-10-14/doc-inivcxxt8577658.shtml)
+15. [沈伯洋之父以新公司从大陆谋利 国台办：实施惩戒](https://news.sina.com.cn/c/2026-10-14/doc-iniveefk0458214.shtml)
+16. [重庆市委原副书记、市政府原市长黄奇帆被查](https://finance.sina.com.cn/china/2026-10-13/doc-inivasec7239620.shtml)
+17. [日本一颗白菜约合人民币42元，日本网友：只能买切开的1/4或1/8](https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivcatw0529442.shtml)
+18. [台退役中将戴着脚镣高喊：中国必将统一，也必然统一！](https://news.sina.com.cn/c/2026-10-13/doc-inivawmy0474722.shtml)
+19. [59岁女演员演出期间溺水身亡](https://news.sina.com.cn/c/2026-10-13/doc-inivasef8047508.shtml)
+20. [菲总统攻击对手硬扯上中国，专家：短视且高风险的政治投机](https://news.sina.com.cn/c/2026-10-14/doc-inivctrr7226910.shtml)
 
 ## 财经热榜
 

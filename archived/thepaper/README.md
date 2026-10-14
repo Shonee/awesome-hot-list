@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-14 16:18:06
+> 更新时间：2026-10-14 17:14:51
 
 ## 热新闻
 
@@ -16,8 +16,8 @@
 10. [沙特机场接连遇袭背后：耗资巨大的预警系统为何沉默？](https://www.thepaper.cn/newsDetail_forward_34243110)
 11. [预告丨《大方之谈》对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34240668)
 12. [马上评｜“女摊主被差评后轻生”的网络发言警示](https://www.thepaper.cn/newsDetail_forward_34248612)
-13. [浙江一女子左臀挤出发黑针头：本人称不确定来源，院方称患者未向医生展示](https://www.thepaper.cn/newsDetail_forward_34243434)
-14. [媒体：在悬空寺做引体向上“悬空”，不是秀肌肉而是秀无知](https://www.thepaper.cn/newsDetail_forward_34246600)
+13. [媒体：在悬空寺做引体向上“悬空”，不是秀肌肉而是秀无知](https://www.thepaper.cn/newsDetail_forward_34246600)
+14. [浙江一女子左臀挤出发黑针头：本人称不确定来源，院方称患者未向医生展示](https://www.thepaper.cn/newsDetail_forward_34243434)
 15. [媒体：四川宜宾一炸串摊主被差评后跳河轻生，警方调查](https://www.thepaper.cn/newsDetail_forward_34244145)
 16. [媒体评男子同日与不同女子办婚宴和百日宴：以“进步”为幌子行封建之实](https://www.thepaper.cn/newsDetail_forward_34247173)
 17. [澎湃回声｜河北深州多地农田架设捕鸟网被曝光后，涉事点位鸟网拆除](https://www.thepaper.cn/newsDetail_forward_34243641)
