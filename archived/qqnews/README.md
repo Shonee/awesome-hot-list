@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-15 04:13:13
+> 更新时间：2026-10-15 05:12:01
 
 ## 热点榜
 
@@ -15,12 +15,12 @@
 9. [多家车企密集发布声明](https://view.inews.qq.com/a/20261014A08EPT00)
 10. [一张“沉睡”30年的老存单，银行翻档逐页核验，一分不少兑付了](https://view.inews.qq.com/a/20261014A0AFUK00)
 11. [一张脸标价500块？小心“人脸授权”背后的陷阱](https://mp.weixin.qq.com/s/mOKPUBP5Et8RbFYY4leNQQ?color_scheme=light)
-12. [浙江一处拆迁房，正紧急寻找继承人！房产所有人已死亡，妻子与女儿也已死亡](https://view.inews.qq.com/a/20261014A0CRNO00)
-13. [被患者投诉收礼1.9元汽水的当事人已报警，律师：诬告他人可处警告、罚款甚至行拘](https://view.inews.qq.com/a/20261014A0A2VS00)
-14. [“北漂”白宫首秀，“惨不忍睹”](https://view.inews.qq.com/a/20261014A0DYHT00)
+12. [被患者投诉收礼1.9元汽水的当事人已报警，律师：诬告他人可处警告、罚款甚至行拘](https://view.inews.qq.com/a/20261014A0A2VS00)
+13. [“北漂”白宫首秀，“惨不忍睹”](https://view.inews.qq.com/a/20261014A0DYHT00)
+14. [浙江一处拆迁房，正紧急寻找继承人！房产所有人已死亡，妻子与女儿也已死亡](https://view.inews.qq.com/a/20261014A0CRNO00)
 15. [内塔尼亚胡，被起诉](https://view.inews.qq.com/a/20261014A0DNIK00)
-16. [贵州多方回应“内鬼勾结中介批量办手机卡”，四问运营商：“黑卡”源头真的管不住？](https://view.inews.qq.com/a/20261014A0A3GO00)
-17. [驻英国使馆发言人就英情报官员涉华错误言论答记者问](https://view.inews.qq.com/a/20261014A031Y100)
-18. [中国手机出货加速下滑：苹果跌超4%，华为唯一增长](https://view.inews.qq.com/a/20261014A0AYB900)
-19. [唐山燃气集团为漏户补装新表发生爆燃事故致3人死伤，事故调查报告公布](https://view.inews.qq.com/a/20261014A0ATS700)
-20. [多项数据向好 经济活力稳步提升](https://view.inews.qq.com/a/20261014A0BR9M00)
+16. [唐山燃气集团为漏户补装新表发生爆燃事故致3人死伤，事故调查报告公布](https://view.inews.qq.com/a/20261014A0ATS700)
+17. [贵州多方回应“内鬼勾结中介批量办手机卡”，四问运营商：“黑卡”源头真的管不住？](https://view.inews.qq.com/a/20261014A0A3GO00)
+18. [天津一小学生被老师拽倒引热议，当地教育局：已努力照顾涉事学生](https://view.inews.qq.com/a/20261014V0BX6100)
+19. [驻英国使馆发言人就英情报官员涉华错误言论答记者问](https://view.inews.qq.com/a/20261014A031Y100)
+20. [一岁男童误食毒鸡蛋中毒后邻居自首 警方以“投放危险物质”立案侦查](https://view.inews.qq.com/a/20261014A0CGT500)
