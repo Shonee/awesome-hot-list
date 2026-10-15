@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-15 18:12:26
+> 更新时间：2026-10-15 19:11:53
 
 ## 最新帖子
 
-1. [Exception 简介以及都有哪些类型【C# 基础】](https://www.cnblogs.com/hnzhengfy/p/Exception.html)
-2. [华为VXLAN分布式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23318577)
-3. [Oracle 与 MySQL 索引重建及表健康性检测](https://www.cnblogs.com/liuziyi1/p/23318246)
-4. [MQTT实战 - MQTT vs HTTP：为什么你的物联网项目上线就崩？（二）](https://www.cnblogs.com/hugogoos/p/23317103)
-5. [一文搞懂 Agent TODO：AI 是如何把复杂任务一步步做完的？](https://www.cnblogs.com/Tomorrowland/p/23316817)
-6. [从数组到智能：Python数据科学与人工智能生态全景](https://www.cnblogs.com/apachecn/p/23316748)
-7. [为什么越来越多人用Quarkus？](https://www.cnblogs.com/12lisu/p/23316231)
-8. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
-9. [从 Skills 到可靠的 Bugfix Agent](https://www.cnblogs.com/dtux/p/23314675)
-10. [TTL 是什么](https://www.cnblogs.com/zjdxr-up/p/23314271)
-11. [从 AWS 到 OpenRouter，拆解 Agent 模型路由的工程设计](https://www.cnblogs.com/Qiniu-developer/p/23314122)
-12. [pip install 明明成功了，import 为什么还是报错？——Python 装库失败的统一病因与九种解法](https://www.cnblogs.com/88vip/p/23263720)
-13. [Agent 不能只记录调用了什么，还要记录为什么调用 | KDC 系列 03](https://www.cnblogs.com/vivotech/p/23311559)
-14. [Langchain简单快速上手教程（七）—— 核心组件之消息](https://www.cnblogs.com/mengyingblog/p/23311006)
-15. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
-16. [黑盒与白盒：人是怎么把世界装进口袋的](https://www.cnblogs.com/zw-awa/p/23310197)
-17. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
-18. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
-19. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
-20. [OpenCSG.NET CSG几何内核测试体系实践笔记](https://www.cnblogs.com/znlgis/p/23309432)
+1. [华为VXLAN分布式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23318577)
+2. [Oracle 与 MySQL 索引重建及表健康性检测](https://www.cnblogs.com/liuziyi1/p/23318246)
+3. [MQTT实战 - MQTT vs HTTP：为什么你的物联网项目上线就崩？（二）](https://www.cnblogs.com/hugogoos/p/23317103)
+4. [一文搞懂 Agent TODO：AI 是如何把复杂任务一步步做完的？](https://www.cnblogs.com/Tomorrowland/p/23316817)
+5. [从数组到智能：Python数据科学与人工智能生态全景](https://www.cnblogs.com/apachecn/p/23316748)
+6. [为什么越来越多人用Quarkus？](https://www.cnblogs.com/12lisu/p/23316231)
+7. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
+8. [从 Skills 到可靠的 Bugfix Agent](https://www.cnblogs.com/dtux/p/23314675)
+9. [TTL 是什么](https://www.cnblogs.com/zjdxr-up/p/23314271)
+10. [从 AWS 到 OpenRouter，拆解 Agent 模型路由的工程设计](https://www.cnblogs.com/Qiniu-developer/p/23314122)
+11. [pip install 明明成功了，import 为什么还是报错？——Python 装库失败的统一病因与九种解法](https://www.cnblogs.com/88vip/p/23263720)
+12. [Agent 不能只记录调用了什么，还要记录为什么调用 | KDC 系列 03](https://www.cnblogs.com/vivotech/p/23311559)
+13. [Langchain简单快速上手教程（七）—— 核心组件之消息](https://www.cnblogs.com/mengyingblog/p/23311006)
+14. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
+15. [黑盒与白盒：人是怎么把世界装进口袋的](https://www.cnblogs.com/zw-awa/p/23310197)
+16. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
+17. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
+18. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+19. [OpenCSG.NET CSG几何内核测试体系实践笔记](https://www.cnblogs.com/znlgis/p/23309432)
+20. [Radzen 6.0.0 这几个 API 坑，我替你踩了](https://www.cnblogs.com/shenchuanchao/p/23302736/radzen-6-0-0-api-pitfalls-lessons)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
 2. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
-3. [开源 DeskPeek：把手机变成自己电脑的小监视器](https://www.cnblogs.com/known/p/23288796)
-4. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+3. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+4. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
 5. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
-6. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
+6. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)

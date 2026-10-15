@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-15 18:12:41
+> 更新时间：2026-10-15 19:12:06
 
 ## 热新闻
 
@@ -14,8 +14,8 @@
 8. [“绿泡泡”对决“红果果”：微信杀入短剧市场，行业将迎来哪些新变化？](https://www.thepaper.cn/newsDetail_forward_34250927)
 9. [马上评｜搜出来这么多冒牌400电话，平台要承担责任吗？](https://www.thepaper.cn/newsDetail_forward_34255232)
 10. [网传明星演唱会门票被炒至25万一张，天价黄牛票为何屡禁不止？](https://www.thepaper.cn/newsDetail_forward_34253242)
-11. [长风公园焕新归来，唱歌跳舞伴奏“声浪”扰民有何解？](https://www.thepaper.cn/newsDetail_forward_34225433)
-12. [旁白｜搜出来的“官方客服”十个里有六个假，被透支的信任谁来买单](https://www.thepaper.cn/newsDetail_forward_34254903)
+11. [旁白｜搜出来的“官方客服”十个里有六个假，被透支的信任谁来买单](https://www.thepaper.cn/newsDetail_forward_34254903)
+12. [长风公园焕新归来，唱歌跳舞伴奏“声浪”扰民有何解？](https://www.thepaper.cn/newsDetail_forward_34225433)
 13. [弦外｜“耻辱合影”事件后，如何守住教师尊严](https://www.thepaper.cn/newsDetail_forward_34249687)
 14. [155款应用拒绝接入豆包手机助手，覆盖腾讯、阿里、快手、美团系](https://www.thepaper.cn/newsDetail_forward_34250739)
 15. [贵阳一男子称遭表兄冒名贷款2万元逾期利息达30余万，起诉银行一审败诉](https://www.thepaper.cn/newsDetail_forward_34248286)
