@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-16 03:10:03
+> 更新时间：2026-10-16 04:10:59
 
 ## 热门文章
 
@@ -20,8 +20,8 @@
 14. [开源GIS老大翻脸了：两条规定，AI辅助代码彻底出局](https://juejin.cn/post/7695725609003778111)
 15. [Flutter你看看人家RN](https://juejin.cn/post/7695940923273478154)
 16. [iOS 26 适配](https://juejin.cn/post/7695805098719199275)
-17. [我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司（Day 1）](https://juejin.cn/post/7696083307454038026)
-18. [腾讯又交作业了，开源版 WorkBuddy 太夯了！这回是只粉色小章鱼Octop!](https://juejin.cn/post/7696461528959090731)
+17. [腾讯又交作业了，开源版 WorkBuddy 太夯了！这回是只粉色小章鱼Octop!](https://juejin.cn/post/7696461528959090731)
+18. [我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司（Day 1）](https://juejin.cn/post/7696083307454038026)
 19. [Codex 不只是写代码：OpenAI 想抢走 AI 工作流入口](https://juejin.cn/post/7695976921429147686)
 20. [AI 时代，个人开发者到底能不能靠一个小程序赚到钱](https://juejin.cn/post/7695999400864956451)
 21. [聊聊Agent的记忆系统如何设计](https://juejin.cn/post/7696080841777020966)
@@ -29,8 +29,8 @@
 23. [借助 Codex 和可视化工作流，从调研到完整实现，3D 大屏竟然可以这么简单](https://juejin.cn/post/7695939202564997154)
 24. [FastAPI中jwt的基本使用与实践](https://juejin.cn/post/7695958498476163099)
 25. [花了几百万买的 AI 系统，为什么最后全成了花瓶？](https://juejin.cn/post/7695618100750729257)
-26. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://juejin.cn/post/7695768501788737578)
-27. [AI 帮我写的小程序，上线不到一个月流量主突然爆了](https://juejin.cn/post/7696444047594946570)
+26. [AI 帮我写的小程序，上线不到一个月流量主突然爆了](https://juejin.cn/post/7696444047594946570)
+27. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://juejin.cn/post/7695768501788737578)
 28. [别把人生过成一场等待退休的倒计时](https://juejin.cn/post/7695958498476064795)
 29. [Gemini 4 Argon 正式发布！](https://juejin.cn/post/7696085941626912831)
 30. [workbuddy · qoder · trae [ 不用开机，云端签到 ]](https://juejin.cn/post/7695757963636457498)

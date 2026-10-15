@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-16 03:10:15
+> 更新时间：2026-10-16 04:11:16
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [澎湃漫评｜误点弹窗广告就扣七万保费，保险这么随意吗？](https://www.thepaper.cn/newsDetail_forward_34254901)
 14. [浙江湖州一医院2名员工赴泰旅游在酒店泳池溺亡，院方通报：“遭谋杀、器官被摘除”等为谣言](https://www.thepaper.cn/newsDetail_forward_34256979)
 15. [《红旗颂》启幕《欢乐颂》送客，上海大歌剧院开幕音乐会抢先看](https://www.thepaper.cn/newsDetail_forward_34257128)
-16. [双创指数大跌、地量再现，A股接下来怎么走？](https://www.thepaper.cn/newsDetail_forward_34253719)
-17. [为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举](https://www.thepaper.cn/newsDetail_forward_34257391)
-18. [受贿数额特别巨大，成都市委原副书记、原市长王凤朝被提起公诉](https://www.thepaper.cn/newsDetail_forward_34254436)
-19. [一次超强厄尔尼诺已形成，为什么说真正考验在明年春夏](https://www.thepaper.cn/newsDetail_forward_34255850)
-20. [深圳：商品住房预售门槛提高至主体封顶，有序推进现房销售](https://www.thepaper.cn/newsDetail_forward_34255819)
+16. [为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举](https://www.thepaper.cn/newsDetail_forward_34257391)
+17. [一次超强厄尔尼诺已形成，为什么说真正考验在明年春夏](https://www.thepaper.cn/newsDetail_forward_34255850)
+18. [双创指数大跌、地量再现，A股接下来怎么走？](https://www.thepaper.cn/newsDetail_forward_34253719)
+19. [解读丨中欧在混动汽车领域达成谅解，中国企业应怎么做？](https://www.thepaper.cn/newsDetail_forward_34257610)
+20. [受贿数额特别巨大，成都市委原副书记、原市长王凤朝被提起公诉](https://www.thepaper.cn/newsDetail_forward_34254436)
