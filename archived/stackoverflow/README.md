@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-15 11:44:03
+> 更新时间：2026-10-15 12:41:43
 
 ## 热门问题
 
@@ -10,12 +10,12 @@
 4. [Iterating a list of data class objects doesn't allow accessing their properties](https://stackoverflow.com/questions/80010089/iterating-a-list-of-data-class-objects-doesnt-allow-accessing-their-properties)
 5. [How to remove excess padding from an mrow border in Firefox](https://stackoverflow.com/questions/80010071/how-to-remove-excess-padding-from-an-mrow-border-in-firefox)
 6. [Requests cache does not store requests or use cache](https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache)
-7. [Matplotlib Histogram - Threshold where all values above it show accumulated in a single bar](https://stackoverflow.com/questions/80010019/matplotlib-histogram-threshold-where-all-values-above-it-show-accumulated-in-a)
-8. [Can I make ThreeJS use left handed Cartesian coordinate system?](https://stackoverflow.com/questions/80010075/can-i-make-threejs-use-left-handed-cartesian-coordinate-system)
+7. [Can I make ThreeJS use left handed Cartesian coordinate system?](https://stackoverflow.com/questions/80010075/can-i-make-threejs-use-left-handed-cartesian-coordinate-system)
+8. [Matplotlib Histogram - Threshold where all values above it show accumulated in a single bar](https://stackoverflow.com/questions/80010019/matplotlib-histogram-threshold-where-all-values-above-it-show-accumulated-in-a)
 9. [Angular multi entry points library - referencing scss file from other entry point](https://stackoverflow.com/questions/80010046/angular-multi-entry-points-library-referencing-scss-file-from-other-entry-poin)
 10. [How Does the Decimal32 IEEE 754 Float Format Work and Why Do You Barely See It?](https://stackoverflow.com/questions/80010041/how-does-the-decimal32-ieee-754-float-format-work-and-why-do-you-barely-see-it)
-11. [Why is the Spelling inspection not available?](https://stackoverflow.com/questions/80010068/why-is-the-spelling-inspection-not-available)
-12. [Why does collecting into an ArrayList inside a parallel stream give different results each run?](https://stackoverflow.com/questions/80009944/why-does-collecting-into-an-arraylist-inside-a-parallel-stream-give-different-re)
+11. [Why does collecting into an ArrayList inside a parallel stream give different results each run?](https://stackoverflow.com/questions/80009944/why-does-collecting-into-an-arraylist-inside-a-parallel-stream-give-different-re)
+12. [Why is the Spelling inspection not available?](https://stackoverflow.com/questions/80010068/why-is-the-spelling-inspection-not-available)
 13. [Django Admin Page not found (404) - First time accessing. error with only admin page](https://stackoverflow.com/questions/80010014/django-admin-page-not-found-404-first-time-accessing-error-with-only-admin)
 14. [Changing the x-scale and its breaks in a cumilative incidence plot risk table using ggcuminc and add_risktable in R](https://stackoverflow.com/questions/80010058/changing-the-x-scale-and-its-breaks-in-a-cumilative-incidence-plot-risk-table-us)
 15. [Reactbits shadcn components crashing on render](https://stackoverflow.com/questions/80010055/reactbits-shadcn-components-crashing-on-render)
@@ -43,14 +43,14 @@
 37. [Similar Link Between Excel Files Update When Not Asked](https://stackoverflow.com/questions/80009837/similar-link-between-excel-files-update-when-not-asked)
 38. [Remove MapIdentityApi built-in endpoint](https://stackoverflow.com/questions/80009943/remove-mapidentityapi-built-in-endpoint)
 39. [Unable to remove a junction as normal user on C:\users\some_account (link)](https://stackoverflow.com/questions/80009733/unable-to-remove-a-junction-as-normal-user-on-c-users-some-account-link)
-40. [How can I extract Spotify playlist track metadata using the Spotify Web API?](https://stackoverflow.com/questions/80009942/how-can-i-extract-spotify-playlist-track-metadata-using-the-spotify-web-api)
-41. [Why do I get errors about performing a jump when there is a variable-length array in between?](https://stackoverflow.com/questions/80009290/why-do-i-get-errors-about-performing-a-jump-when-there-is-a-variable-length-arra)
+40. [Why do I get errors about performing a jump when there is a variable-length array in between?](https://stackoverflow.com/questions/80009290/why-do-i-get-errors-about-performing-a-jump-when-there-is-a-variable-length-arra)
+41. [How can I extract Spotify playlist track metadata using the Spotify Web API?](https://stackoverflow.com/questions/80009942/how-can-i-extract-spotify-playlist-track-metadata-using-the-spotify-web-api)
 42. [Rename a registry key in Powershell 5.1 that has forward slashes in the key name](https://stackoverflow.com/questions/80009877/rename-a-registry-key-in-powershell-5-1-that-has-forward-slashes-in-the-key-name)
-43. [Ruby 3.3, method that takes **options as an argument errors when passed an empty hash](https://stackoverflow.com/questions/80009920/ruby-3-3-method-that-takes-options-as-an-argument-errors-when-passed-an-empty)
-44. [Nested resource handling in new data fetching with resources approach](https://stackoverflow.com/questions/80009937/nested-resource-handling-in-new-data-fetching-with-resources-approach)
+43. [HttpClient 5.6.4 throws NoClassDefFoundError: jdk/net/Sockets on WildFly, but works after adding -Djboss.modules.system.pkgs=jdk.net](https://stackoverflow.com/questions/80009730/httpclient-5-6-4-throws-noclassdeffounderror-jdk-net-sockets-on-wildfly-but-wo)
+44. [Ruby 3.3, method that takes **options as an argument errors when passed an empty hash](https://stackoverflow.com/questions/80009920/ruby-3-3-method-that-takes-options-as-an-argument-errors-when-passed-an-empty)
 45. [How do I fix main and footer auto align in grid display?](https://stackoverflow.com/questions/80009871/how-do-i-fix-main-and-footer-auto-align-in-grid-display)
-46. [Configure JasperReports properties with Conjur without requiring a salt](https://stackoverflow.com/questions/80009915/configure-jasperreports-properties-with-conjur-without-requiring-a-salt)
-47. [How to work with hive table with different partition layout?](https://stackoverflow.com/questions/80009889/how-to-work-with-hive-table-with-different-partition-layout)
+46. [Nested resource handling in new data fetching with resources approach](https://stackoverflow.com/questions/80009937/nested-resource-handling-in-new-data-fetching-with-resources-approach)
+47. [Configure JasperReports properties with Conjur without requiring a salt](https://stackoverflow.com/questions/80009915/configure-jasperreports-properties-with-conjur-without-requiring-a-salt)
 48. [How do I indicate the weekday for a specific month and year in C++?](https://stackoverflow.com/questions/80009559/how-do-i-indicate-the-weekday-for-a-specific-month-and-year-in-c)
-49. [Debugging Azure Function (Azure Functions Core Tools) does not work after Upgrading Microsoft.EntityFrameworkCore.* from:10.0.10 to: 10.0.11/12](https://stackoverflow.com/questions/80009713/debugging-azure-function-azure-functions-core-tools-does-not-work-after-upgrad)
-50. [How to fix 2MA error when clicking View Webpage](https://stackoverflow.com/questions/80009907/how-to-fix-2ma-error-when-clicking-view-webpage)
+49. [How to work with hive table with different partition layout?](https://stackoverflow.com/questions/80009889/how-to-work-with-hive-table-with-different-partition-layout)
+50. [Debugging Azure Function (Azure Functions Core Tools) does not work after Upgrading Microsoft.EntityFrameworkCore.* from:10.0.10 to: 10.0.11/12](https://stackoverflow.com/questions/80009713/debugging-azure-function-azure-functions-core-tools-does-not-work-after-upgrad)

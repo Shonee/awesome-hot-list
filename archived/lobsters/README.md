@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-15 11:44:03
+> 更新时间：2026-10-15 12:41:43
 
 ## Hottest
 
@@ -14,8 +14,8 @@
 8. [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 9. [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
 10. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
-11. [yet another place where a linux man page is inaccurate](https://sebsite.pw/w/20261014-initstate.html)
-12. [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
+11. [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
+12. [yet another place where a linux man page is inaccurate](https://sebsite.pw/w/20261014-initstate.html)
 13. [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
 14. [Apple: Switch to Safari (from Chrome)](https://www.apple.com/safari/switch/)
 15. [My Game's Procedural Dialogue System](https://www.youtube.com/watch?v=NaW0d7Tghw0)
