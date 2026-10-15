@@ -1,16 +1,16 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-15 09:07:39
+> 更新时间：2026-10-15 09:47:24
 
 ## Hottest
 
 1. [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 2. [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
-3. [What I Self-Host | Aspirational Self Hosting Guide](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+3. [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 4. [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
 5. [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
-6. [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
-7. [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
+6. [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
+7. [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
 8. [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
 9. [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 10. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
