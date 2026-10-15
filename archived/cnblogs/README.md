@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-15 16:18:04
+> 更新时间：2026-10-15 17:13:26
 
 ## 最新帖子
 
-1. [从数组到智能：Python数据科学与人工智能生态全景](https://www.cnblogs.com/apachecn/p/23316748)
-2. [为什么越来越多人用Quarkus？](https://www.cnblogs.com/12lisu/p/23316231)
-3. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
-4. [从 Skills 到可靠的 Bugfix Agent](https://www.cnblogs.com/dtux/p/23314675)
-5. [TTL 是什么](https://www.cnblogs.com/zjdxr-up/p/23314271)
-6. [从 AWS 到 OpenRouter，拆解 Agent 模型路由的工程设计](https://www.cnblogs.com/Qiniu-developer/p/23314122)
-7. [pip install 明明成功了，import 为什么还是报错？——Python 装库失败的统一病因与九种解法](https://www.cnblogs.com/88vip/p/23263720)
-8. [Agent 不能只记录调用了什么，还要记录为什么调用 | KDC 系列 03](https://www.cnblogs.com/vivotech/p/23311559)
-9. [Langchain简单快速上手教程（七）—— 核心组件之消息](https://www.cnblogs.com/mengyingblog/p/23311006)
-10. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
-11. [黑盒与白盒：人是怎么把世界装进口袋的](https://www.cnblogs.com/zw-awa/p/23310197)
-12. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
-13. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
-14. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
-15. [OpenCSG.NET CSG几何内核测试体系实践笔记](https://www.cnblogs.com/znlgis/p/23309432)
-16. [Radzen 6.0.0 这几个 API 坑，我替你踩了](https://www.cnblogs.com/shenchuanchao/p/23302736/radzen-6-0-0-api-pitfalls-lessons)
-17. [6. DevEco Studio环境搭建，鸿蒙开发入门第一步(macOS版)](https://www.cnblogs.com/halfcode/p/23309174)
-18. [在 Apple Silicon Mac 上安装老版本 Ruby](https://www.cnblogs.com/zhanggui/p/23305738)
-19. [【Agentic RL / 强化学习框架】AstraFlow 架构解析：面向数据流的大规模强化学习系统](https://www.cnblogs.com/rossiXYZ/p/23263528)
-20. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
+1. [SCC 的动态维护](https://www.cnblogs.com/stripe-python/p/23317586)
+2. [MQTT实战 - MQTT vs HTTP：为什么你的物联网项目上线就崩？（二）](https://www.cnblogs.com/hugogoos/p/23317103)
+3. [一文搞懂 Agent TODO：AI 是如何把复杂任务一步步做完的？](https://www.cnblogs.com/Tomorrowland/p/23316817)
+4. [从数组到智能：Python数据科学与人工智能生态全景](https://www.cnblogs.com/apachecn/p/23316748)
+5. [为什么越来越多人用Quarkus？](https://www.cnblogs.com/12lisu/p/23316231)
+6. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
+7. [从 Skills 到可靠的 Bugfix Agent](https://www.cnblogs.com/dtux/p/23314675)
+8. [TTL 是什么](https://www.cnblogs.com/zjdxr-up/p/23314271)
+9. [从 AWS 到 OpenRouter，拆解 Agent 模型路由的工程设计](https://www.cnblogs.com/Qiniu-developer/p/23314122)
+10. [pip install 明明成功了，import 为什么还是报错？——Python 装库失败的统一病因与九种解法](https://www.cnblogs.com/88vip/p/23263720)
+11. [Agent 不能只记录调用了什么，还要记录为什么调用 | KDC 系列 03](https://www.cnblogs.com/vivotech/p/23311559)
+12. [Langchain简单快速上手教程（七）—— 核心组件之消息](https://www.cnblogs.com/mengyingblog/p/23311006)
+13. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
+14. [黑盒与白盒：人是怎么把世界装进口袋的](https://www.cnblogs.com/zw-awa/p/23310197)
+15. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
+16. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
+17. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+18. [OpenCSG.NET CSG几何内核测试体系实践笔记](https://www.cnblogs.com/znlgis/p/23309432)
+19. [Radzen 6.0.0 这几个 API 坑，我替你踩了](https://www.cnblogs.com/shenchuanchao/p/23302736/radzen-6-0-0-api-pitfalls-lessons)
+20. [6. DevEco Studio环境搭建，鸿蒙开发入门第一步(macOS版)](https://www.cnblogs.com/halfcode/p/23309174)
 
 ## 精华帖子
 

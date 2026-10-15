@@ -1,12 +1,12 @@
 # 豆瓣热榜
 
-> 更新时间：2026-10-15 16:18:41
+> 更新时间：2026-10-15 17:14:16
 
 ## 小组精选
 
 1. [吃不重要，享受当业余大厨的成就感](https://www.douban.com/group/topic/502474871/?_spm_id=MTMzNTQ0ODM1)
 2. [历时一年多的小院终于弄好了七七八八](https://www.douban.com/group/topic/502466976/?_spm_id=NjYzMzY5NDg)
-3. [国庆去了一趟太阳超级好的意呆利](https://www.douban.com/group/topic/502500673/?_spm_id=MTU3NDk4MDI)
+3. [国庆去了一趟太阳超级好艺术氛围超浓的意呆利](https://www.douban.com/group/topic/502500673/?_spm_id=MTU3NDk4MDI)
 4. [solotrip 香港](https://www.douban.com/group/topic/502365684/?_spm_id=MjEzMDYzMzYz)
 5. [在南非做了半个月动物保护义工](https://www.douban.com/group/topic/502527124/?_spm_id=MTczOTMzNzk0)
 6. [恐龙怎么叫](https://www.douban.com/group/topic/502501957/?_spm_id=MjA3MTE5NzA3)
