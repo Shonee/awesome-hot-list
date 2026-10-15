@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-16 06:11:51
+> 更新时间：2026-10-16 07:09:46
 
 ## 热新闻
 
@@ -21,6 +21,6 @@
 15. [《红旗颂》启幕《欢乐颂》送客，上海大歌剧院开幕音乐会抢先看](https://www.thepaper.cn/newsDetail_forward_34257128)
 16. [为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举](https://www.thepaper.cn/newsDetail_forward_34257391)
 17. [一次超强厄尔尼诺已形成，为什么说真正考验在明年春夏](https://www.thepaper.cn/newsDetail_forward_34255850)
-18. [双创指数大跌、地量再现，A股接下来怎么走？](https://www.thepaper.cn/newsDetail_forward_34253719)
-19. [解读丨中欧在混动汽车领域达成谅解，中国企业应怎么做？](https://www.thepaper.cn/newsDetail_forward_34257610)
-20. [受贿数额特别巨大，成都市委原副书记、原市长王凤朝被提起公诉](https://www.thepaper.cn/newsDetail_forward_34254436)
+18. [解读丨中欧在混动汽车领域达成谅解，中国企业应怎么做？](https://www.thepaper.cn/newsDetail_forward_34257610)
+19. [大盘收放量十字星，行情能否修复？多家外资机构给出积极判断](https://www.thepaper.cn/newsDetail_forward_34257725)
+20. [美中关系全国委员会新老会长一同访华，“中国通”贝莎兰将于11月接任](https://www.thepaper.cn/newsDetail_forward_34257130)
