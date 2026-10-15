@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-15 14:21:09
+> 更新时间：2026-10-15 14:53:57
 
 ## 最新帖子
 
-1. [TTL 是什么](https://www.cnblogs.com/zjdxr-up/p/23314271)
-2. [从 AWS 到 OpenRouter，拆解 Agent 模型路由的工程设计](https://www.cnblogs.com/Qiniu-developer/p/23314122)
-3. [pip install 明明成功了，import 为什么还是报错？——Python 装库失败的统一病因与九种解法](https://www.cnblogs.com/88vip/p/23263720)
-4. [Agent 不能只记录调用了什么，还要记录为什么调用 | KDC 系列 03](https://www.cnblogs.com/vivotech/p/23311559)
-5. [Langchain简单快速上手教程（七）—— 核心组件之消息](https://www.cnblogs.com/mengyingblog/p/23311006)
-6. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
-7. [黑盒与白盒：人是怎么把世界装进口袋的](https://www.cnblogs.com/zw-awa/p/23310197)
-8. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
-9. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
-10. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
-11. [OpenCSG.NET CSG几何内核测试体系实践笔记](https://www.cnblogs.com/znlgis/p/23309432)
-12. [Radzen 6.0.0 这几个 API 坑，我替你踩了](https://www.cnblogs.com/shenchuanchao/p/23302736/radzen-6-0-0-api-pitfalls-lessons)
-13. [6. DevEco Studio环境搭建，鸿蒙开发入门第一步(macOS版)](https://www.cnblogs.com/halfcode/p/23309174)
-14. [在 Apple Silicon Mac 上安装老版本 Ruby](https://www.cnblogs.com/zhanggui/p/23305738)
-15. [【Agentic RL / 强化学习框架】AstraFlow 架构解析：面向数据流的大规模强化学习系统](https://www.cnblogs.com/rossiXYZ/p/23263528)
-16. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
-17. [Personal Agent 真能越用越懂你吗？AdaptArena 揭示个性化 Web Agent 的失效链路](https://www.cnblogs.com/Qiniu-developer/p/23304875)
-18. [将 Kubernetes 部署扩展到多个Region区域：GitOps 参考架构](https://www.cnblogs.com/Jame-mei/p/23304060)
-19. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
-20. [从零构建一个高性能异步任务编排框架](https://www.cnblogs.com/sun-10387834/p/23303295)
+1. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
+2. [从 Skills 到可靠的 Bugfix Agent](https://www.cnblogs.com/dtux/p/23314675)
+3. [TTL 是什么](https://www.cnblogs.com/zjdxr-up/p/23314271)
+4. [从 AWS 到 OpenRouter，拆解 Agent 模型路由的工程设计](https://www.cnblogs.com/Qiniu-developer/p/23314122)
+5. [pip install 明明成功了，import 为什么还是报错？——Python 装库失败的统一病因与九种解法](https://www.cnblogs.com/88vip/p/23263720)
+6. [Agent 不能只记录调用了什么，还要记录为什么调用 | KDC 系列 03](https://www.cnblogs.com/vivotech/p/23311559)
+7. [Langchain简单快速上手教程（七）—— 核心组件之消息](https://www.cnblogs.com/mengyingblog/p/23311006)
+8. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
+9. [黑盒与白盒：人是怎么把世界装进口袋的](https://www.cnblogs.com/zw-awa/p/23310197)
+10. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
+11. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
+12. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+13. [OpenCSG.NET CSG几何内核测试体系实践笔记](https://www.cnblogs.com/znlgis/p/23309432)
+14. [Radzen 6.0.0 这几个 API 坑，我替你踩了](https://www.cnblogs.com/shenchuanchao/p/23302736/radzen-6-0-0-api-pitfalls-lessons)
+15. [6. DevEco Studio环境搭建，鸿蒙开发入门第一步(macOS版)](https://www.cnblogs.com/halfcode/p/23309174)
+16. [在 Apple Silicon Mac 上安装老版本 Ruby](https://www.cnblogs.com/zhanggui/p/23305738)
+17. [【Agentic RL / 强化学习框架】AstraFlow 架构解析：面向数据流的大规模强化学习系统](https://www.cnblogs.com/rossiXYZ/p/23263528)
+18. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
+19. [Personal Agent 真能越用越懂你吗？AdaptArena 揭示个性化 Web Agent 的失效链路](https://www.cnblogs.com/Qiniu-developer/p/23304875)
+20. [将 Kubernetes 部署扩展到多个Region区域：GitOps 参考架构](https://www.cnblogs.com/Jame-mei/p/23304060)
 
 ## 精华帖子
 
