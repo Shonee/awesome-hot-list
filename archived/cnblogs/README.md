@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-16 00:13:37
+> 更新时间：2026-10-16 01:11:36
 
 ## 最新帖子
 
@@ -55,4 +55,4 @@
 3. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
 4. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
 5. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
-6. [企业级Agent系统整体技术架构介绍](https://www.cnblogs.com/jiujuan/p/23291353)
+6. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
