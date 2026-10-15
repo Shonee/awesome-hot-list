@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-15 11:42:30
+> 更新时间：2026-10-15 12:14:25
 
 ## 热新闻
 
@@ -14,13 +14,13 @@
 8. [马上评｜“女摊主被差评后轻生”的网络发言警示](https://www.thepaper.cn/newsDetail_forward_34248612)
 9. [“绿泡泡”对决“红果果”：微信杀入短剧市场，行业将迎来哪些新变化？](https://www.thepaper.cn/newsDetail_forward_34250927)
 10. [马上测｜十个号码六个假，搜出来的“400”官方客服电话靠谱吗？](https://www.thepaper.cn/newsDetail_forward_34241263)
-11. [云南一男子在虎跳峡景区自行翻越防护围栏跳江，当地正全方位开展搜救](https://www.thepaper.cn/newsDetail_forward_34248288)
-12. [弦外｜“耻辱合影”事件后，如何守住教师尊严](https://www.thepaper.cn/newsDetail_forward_34249687)
+11. [弦外｜“耻辱合影”事件后，如何守住教师尊严](https://www.thepaper.cn/newsDetail_forward_34249687)
+12. [云南一男子在虎跳峡景区自行翻越防护围栏跳江，当地正全方位开展搜救](https://www.thepaper.cn/newsDetail_forward_34248288)
 13. [杭州一套独栋别墅2.88亿元拍卖成交：溢价率71%，单价45.7万元/平米](https://www.thepaper.cn/newsDetail_forward_34248995)
 14. [155款应用拒绝接入豆包手机助手，覆盖腾讯、阿里、快手、美团系](https://www.thepaper.cn/newsDetail_forward_34250739)
-15. [初中生跑步时撞上横穿跑道的老师摔成多处骨折，法院判老师赔偿3万元](https://www.thepaper.cn/newsDetail_forward_34248641)
-16. [英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂](https://www.thepaper.cn/newsDetail_forward_34249940)
+15. [英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂](https://www.thepaper.cn/newsDetail_forward_34249940)
+16. [初中生跑步时撞上横穿跑道的老师摔成多处骨折，法院判老师赔偿3万元](https://www.thepaper.cn/newsDetail_forward_34248641)
 17. [肖战演唱会明日开票：390元看台票黄牛已喊价5000元](https://www.thepaper.cn/newsDetail_forward_34248619)
-18. [全球马拉松赛事接连出现猝死悲剧，挑战自我前请正视这些问题](https://www.thepaper.cn/newsDetail_forward_34248703)
-19. [警方介入调查“摊主遭顾客差评后轻生”，律师解读：顾客是否担责要看因果关系，平台责任不能缺位](https://www.thepaper.cn/newsDetail_forward_34249298)
-20. [肖战个唱开票在即，代拍“五位数难包进”，开售总票数不明](https://www.thepaper.cn/newsDetail_forward_34248285)
+18. [贵阳一男子称遭表兄冒名贷款2万元逾期利息达30余万，起诉银行一审败诉](https://www.thepaper.cn/newsDetail_forward_34248286)
+19. [全球马拉松赛事接连出现猝死悲剧，挑战自我前请正视这些问题](https://www.thepaper.cn/newsDetail_forward_34248703)
+20. [警方介入调查“摊主遭顾客差评后轻生”，律师解读：顾客是否担责要看因果关系，平台责任不能缺位](https://www.thepaper.cn/newsDetail_forward_34249298)
