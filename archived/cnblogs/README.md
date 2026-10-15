@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-15 14:53:57
+> 更新时间：2026-10-15 15:42:47
 
 ## 最新帖子
 
@@ -53,6 +53,6 @@
 1. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
 2. [MQTT 生产实战 - 用了 8 年 MQTT，我为什么还要重新系统啃一遍（一）](https://www.cnblogs.com/hugogoos/p/23211630)
 3. [开源 DeskPeek：把手机变成自己电脑的小监视器](https://www.cnblogs.com/known/p/23288796)
-4. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://www.cnblogs.com/zrui-xyu/p/23285070)
+4. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
 5. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
-6. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+6. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)

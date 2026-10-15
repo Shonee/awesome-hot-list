@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-15 14:54:05
+> 更新时间：2026-10-15 15:43:02
 
 ## 热新闻
 
@@ -14,13 +14,13 @@
 8. [长实集团辟谣：绝无此事](https://www.thepaper.cn/newsDetail_forward_34254962)
 9. [“绿泡泡”对决“红果果”：微信杀入短剧市场，行业将迎来哪些新变化？](https://www.thepaper.cn/newsDetail_forward_34250927)
 10. [马上测｜十个号码六个假，搜出来的“400”官方客服电话靠谱吗？](https://www.thepaper.cn/newsDetail_forward_34241263)
-11. [长风公园焕新归来，唱歌跳舞伴奏“声浪”扰民有何解？](https://www.thepaper.cn/newsDetail_forward_34225433)
-12. [弦外｜“耻辱合影”事件后，如何守住教师尊严](https://www.thepaper.cn/newsDetail_forward_34249687)
-13. [杭州一套独栋别墅2.88亿元拍卖成交：溢价率71%，单价45.7万元/平米](https://www.thepaper.cn/newsDetail_forward_34248995)
-14. [155款应用拒绝接入豆包手机助手，覆盖腾讯、阿里、快手、美团系](https://www.thepaper.cn/newsDetail_forward_34250739)
-15. [马上评｜搜出来这么多冒牌400电话，平台要承担责任吗？](https://www.thepaper.cn/newsDetail_forward_34255232)
-16. [英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂](https://www.thepaper.cn/newsDetail_forward_34249940)
-17. [贵阳一男子称遭表兄冒名贷款2万元逾期利息达30余万，起诉银行一审败诉](https://www.thepaper.cn/newsDetail_forward_34248286)
-18. [肖战演唱会明日开票：390元看台票黄牛已喊价5000元](https://www.thepaper.cn/newsDetail_forward_34248619)
-19. [乌克兰指责美国帮俄罗斯：星链突然被限速、没收到导弹预警](https://www.thepaper.cn/newsDetail_forward_34254228)
-20. [全球马拉松赛事接连出现猝死悲剧，挑战自我前请正视这些问题](https://www.thepaper.cn/newsDetail_forward_34248703)
+11. [马上评｜搜出来这么多冒牌400电话，平台要承担责任吗？](https://www.thepaper.cn/newsDetail_forward_34255232)
+12. [长风公园焕新归来，唱歌跳舞伴奏“声浪”扰民有何解？](https://www.thepaper.cn/newsDetail_forward_34225433)
+13. [弦外｜“耻辱合影”事件后，如何守住教师尊严](https://www.thepaper.cn/newsDetail_forward_34249687)
+14. [杭州一套独栋别墅2.88亿元拍卖成交：溢价率71%，单价45.7万元/平米](https://www.thepaper.cn/newsDetail_forward_34248995)
+15. [155款应用拒绝接入豆包手机助手，覆盖腾讯、阿里、快手、美团系](https://www.thepaper.cn/newsDetail_forward_34250739)
+16. [贵阳一男子称遭表兄冒名贷款2万元逾期利息达30余万，起诉银行一审败诉](https://www.thepaper.cn/newsDetail_forward_34248286)
+17. [英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂](https://www.thepaper.cn/newsDetail_forward_34249940)
+18. [乌克兰指责美国帮俄罗斯：星链突然被限速、没收到导弹预警](https://www.thepaper.cn/newsDetail_forward_34254228)
+19. [警方介入调查“摊主遭顾客差评后轻生”，律师解读：顾客是否担责要看因果关系，平台责任不能缺位](https://www.thepaper.cn/newsDetail_forward_34249298)
+20. [财晓得丨数字化学习时代，儿童科学护眼有哪些新探索？](https://www.thepaper.cn/newsDetail_forward_34249701)

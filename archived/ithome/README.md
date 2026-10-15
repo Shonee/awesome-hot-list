@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-15 14:54:17
+> 更新时间：2026-10-15 15:43:31
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元](https://www.ithome.com/1/013/132.htm)
 9. [彭博社：苹果有望 12 月随 iOS 27.3 在国内推出首波 Apple Intelligence 功能](https://www.ithome.com/1/013/162.htm)
 10. [小米用户专属：Goodnotes 宣布可在小米平板限时领永久会员](https://www.ithome.com/1/013/098.htm)
-11. [小米澎湃 OS 4 应用商店新增悬浮底栏，胡馨心透露 REDMI K100 系列手机马上推首批正式版系统升级](https://www.ithome.com/1/012/916.htm)
+11. [苹果 AI 国内供应商浮出水面：阿里、百度，消息称 12 月 iOS 27.3 上线](https://www.ithome.com/1/013/257.htm)
 12. [消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国](https://www.ithome.com/1/013/105.htm)

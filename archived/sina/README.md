@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-15 14:54:11
+> 更新时间：2026-10-15 15:43:08
 
 ## 新闻热榜
 
 1. [欧盟寻思：中国不给就找越南，可还得防着美国](https://news.sina.com.cn/o/2026-10-15/doc-inivhawy1207162.shtml)
 2. [蒙古国大火逼近中国边境，数千人布防，谁惹的祸？](https://news.sina.com.cn/o/2026-10-15/doc-inivfftc8350296.shtml)
-3. [美国务卿鲁比奥即将开启亚洲两国行，来干什么？](https://news.sina.com.cn/w/2026-10-14/doc-inivfmyz8258444.shtml)
-4. [杀红了眼的中东，新加坡也倒霉了](https://news.sina.com.cn/w/2026-10-15/doc-inivhawy1266298.shtml)
+3. [杀红了眼的中东，新加坡也倒霉了](https://news.sina.com.cn/w/2026-10-15/doc-inivhawy1266298.shtml)
+4. [美国务卿鲁比奥即将开启亚洲两国行，来干什么？](https://news.sina.com.cn/w/2026-10-14/doc-inivfmyz8258444.shtml)
 5. [关于媒体报道“一男子在高铁座位上排便”的情况说明](https://news.sina.com.cn/c/2026-10-14/doc-inivffsz7633660.shtml)
 6. [美方这步棋，走得太困难了](https://news.sina.com.cn/w/2026-10-14/doc-inivfftc8385735.shtml)
-7. [比亚迪、吉利、奇瑞，集体发布声明](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawr7412571.shtml)
-8. [中朝新鸭绿江大桥正式开通](https://news.sina.com.cn/c/2026-10-15/doc-inivhieu4588585.shtml)
-9. [经中央纪委常委会会议研究，开除伍浩党籍](https://news.sina.com.cn/o/2026-10-14/doc-inivevci8454036.shtml)
-10. [滚存928万被清空 足彩头奖开129注16.3万元](https://sports.sina.com.cn/l/2026-10-15/doc-inivhaww4498289.shtml)
-11. [24小时内，两艘货船在霍尔木兹海峡附近沉没](https://news.sina.com.cn/w/2026-10-15/doc-inivhaww4476435.shtml)
-12. [能源惹的祸！美国9月CPI爆表，美联储本月就会加息？](https://news.sina.com.cn/o/2026-10-14/doc-inivfftk1268538.shtml)
-13. [顶流男星“与未成年女孩交往”事件，大反转](https://news.sina.com.cn/w/2026-10-15/doc-inivfmze4459651.shtml)
-14. [欧盟得寸进尺：还不够，继续施压中国](https://news.sina.com.cn/o/2026-10-15/doc-inivhawr7458127.shtml)
-15. [华为跌48％，小米跌55％，OPPO 跌66％，vivo跌71％，手机涨价潮的可怕后果终于来了](https://finance.sina.com.cn/jjxw/2026-10-14/doc-inivevci8467742.shtml)
-16. [财经早报丨热搜第一！香港周生生发生珠宝劫案，美国最新物价数据公布，美联储加息概率飙升丨2026年10月15日](https://finance.sina.com.cn/stock/y/2026-10-15/doc-inivhawy1242664.shtml)
-17. [玉渊谭天丨独家披露台当局和“台独”艺人利益链](https://news.sina.com.cn/c/2026-10-15/doc-inivhiep7460229.shtml)
-18. [DeepSeek崩了！实测提示“服务器暂时不可用”](https://finance.sina.com.cn/tech/shenji/2026-10-15/doc-inivhier8136497.shtml)
-19. [这次，美防长没点名中国](https://news.sina.com.cn/w/2026-10-15/doc-inivhawy1226863.shtml)
-20. [减少重复填表、申报 以后办退休只需一张身份证](https://news.sina.com.cn/s/2026-10-15/doc-inivfmzh1336519.shtml)
+7. [中朝新鸭绿江大桥开通，高清大图来了！](https://news.sina.com.cn/c/2026-10-15/doc-inivhpnu1404360.shtml)
+8. [欧盟得寸进尺：还不够，继续施压中国](https://news.sina.com.cn/o/2026-10-15/doc-inivhawr7458127.shtml)
+9. [滚存928万被清空 足彩头奖开129注16.3万元](https://sports.sina.com.cn/l/2026-10-15/doc-inivhaww4498289.shtml)
+10. [中朝新鸭绿江大桥正式开通](https://news.sina.com.cn/c/2026-10-15/doc-inivhieu4588585.shtml)
+11. [比亚迪、吉利、奇瑞，集体发布声明](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawr7412571.shtml)
+12. [经中央纪委常委会会议研究，开除伍浩党籍](https://news.sina.com.cn/o/2026-10-14/doc-inivevci8454036.shtml)
+13. [24小时内，两艘货船在霍尔木兹海峡附近沉没](https://news.sina.com.cn/w/2026-10-15/doc-inivhaww4476435.shtml)
+14. [玉渊谭天丨独家披露台当局和“台独”艺人利益链](https://news.sina.com.cn/c/2026-10-15/doc-inivhiep7460229.shtml)
+15. [顶流男星“与未成年女孩交往”事件，大反转](https://news.sina.com.cn/w/2026-10-15/doc-inivfmze4459651.shtml)
+16. [华为跌48％，小米跌55％，OPPO 跌66％，vivo跌71％，手机涨价潮的可怕后果终于来了](https://finance.sina.com.cn/jjxw/2026-10-14/doc-inivevci8467742.shtml)
+17. [能源惹的祸！美国9月CPI爆表，美联储本月就会加息？](https://news.sina.com.cn/o/2026-10-14/doc-inivfftk1268538.shtml)
+18. [财经早报丨热搜第一！香港周生生发生珠宝劫案，美国最新物价数据公布，美联储加息概率飙升丨2026年10月15日](https://finance.sina.com.cn/stock/y/2026-10-15/doc-inivhawy1242664.shtml)
+19. [DeepSeek崩了！实测提示“服务器暂时不可用”](https://finance.sina.com.cn/tech/shenji/2026-10-15/doc-inivhier8136497.shtml)
+20. [现年98岁的李嘉诚逝世被挤上热搜 长实集团辟谣否认：绝无此事](https://finance.sina.com.cn/tech/roll/2026-10-15/doc-inivhpns4631064.shtml)
 
 ## 财经热榜
 
