@@ -1,13 +1,13 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-15 19:12:51
+> 更新时间：2026-10-15 20:19:32
 
 ## 最有料热点
 
-1. [大肥鱼罢工!DeepSeek又崩了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BD%A2%E5%B7%A5%21DeepSeek%E5%8F%88%E5%B4%A9%E4%BA%86)
+1. [豆包力压鲸鱼娘,荣获虎扑女神](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E)
 2. [绿龙地图辱华,马西西爆典补刀](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367230&topic_name=%E7%BB%BF%E9%BE%99%E5%9C%B0%E5%9B%BE%E8%BE%B1%E5%8D%8E%2C%E9%A9%AC%E8%A5%BF%E8%A5%BF%E7%88%86%E5%85%B8%E8%A1%A5%E5%88%80)
-3. [老干妈用AI一年狂赚54亿](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF)
-4. [豆包力压鲸鱼娘,荣获虎扑女神](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E)
+3. [大肥鱼罢工!DeepSeek又崩了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BD%A2%E5%B7%A5%21DeepSeek%E5%8F%88%E5%B4%A9%E4%BA%86)
+4. [老干妈用AI一年狂赚54亿](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF)
 5. [Faker炒股,投钱就暴跌](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367218&topic_name=Faker%E7%82%92%E8%82%A1%2C%E6%8A%95%E9%92%B1%E5%B0%B1%E6%9A%B4%E8%B7%8C)
 6. [患者送1.9元汽水举报医生收礼](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367219&topic_name=%E6%82%A3%E8%80%85%E9%80%811.9%E5%85%83%E6%B1%BD%E6%B0%B4%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F%E6%94%B6%E7%A4%BC)
 7. [网传中国大学生黑市报价70万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367189&topic_name=%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%BB%91%E5%B8%82%E6%8A%A5%E4%BB%B770%E4%B8%87)
