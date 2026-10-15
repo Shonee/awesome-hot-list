@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-15 12:41:07
+> 更新时间：2026-10-15 13:13:19
 
 ## 股票人气榜
 
@@ -12,8 +12,8 @@
 6. [东百集团 (600693)](https://quote.eastmoney.com/sh600693.html)
 7. [掌阅科技 (603533)](https://quote.eastmoney.com/sh603533.html)
 8. [电魂网络 (603258)](https://quote.eastmoney.com/sh603258.html)
-9. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
-10. [澳弘电子 (605058)](https://quote.eastmoney.com/sh605058.html)
+9. [澳弘电子 (605058)](https://quote.eastmoney.com/sh605058.html)
+10. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
 11. [崇达技术 (002815)](https://quote.eastmoney.com/sz002815.html)
 12. [欢瑞世纪 (000892)](https://quote.eastmoney.com/sz000892.html)
 13. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
@@ -21,6 +21,6 @@
 15. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
 16. [百花医药 (600721)](https://quote.eastmoney.com/sh600721.html)
 17. [阳光乳业 (001318)](https://quote.eastmoney.com/sz001318.html)
-18. [韶能股份 (000601)](https://quote.eastmoney.com/sz000601.html)
-19. [金禄电子 (301282)](https://quote.eastmoney.com/sz301282.html)
-20. [C粤芯-U (301660)](https://quote.eastmoney.com/sz301660.html)
+18. [金禄电子 (301282)](https://quote.eastmoney.com/sz301282.html)
+19. [C粤芯-U (301660)](https://quote.eastmoney.com/sz301660.html)
+20. [韶能股份 (000601)](https://quote.eastmoney.com/sz000601.html)

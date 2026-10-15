@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-15 12:14:19
+> 更新时间：2026-10-15 13:12:38
 
 ## 人气热门
 
@@ -57,19 +57,19 @@
 
 ## 精华采撷
 
-1. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
-2. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-3. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-4. [拆开 Microsoft Edge 的 App-Bound Encryption：为什么第三方再也读不出 v20 密码](https://www.52pojie.cn/thread-2131346-1-1.html)
-5. [某企业加固dex vmp简单分析](https://www.52pojie.cn/thread-2111432-1-1.html)
-6. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
-7. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-8. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
-9. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
-10. [Bastion 棱堡，对称加密算法库，支持CTR、CBC、XTS、AEAD、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2131143-1-1.html)
-11. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-12. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
-13. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+1. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+2. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+3. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+4. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+5. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+6. [拆开 Microsoft Edge 的 App-Bound Encryption：为什么第三方再也读不出 v20 密码](https://www.52pojie.cn/thread-2131346-1-1.html)
+7. [某企业加固dex vmp简单分析](https://www.52pojie.cn/thread-2111432-1-1.html)
+8. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
+9. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+10. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
+11. [Bastion 棱堡，对称加密算法库，支持CTR、CBC、XTS、AEAD、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2131143-1-1.html)
+12. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+13. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
 14. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 15. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
 16. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
