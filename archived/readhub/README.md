@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-15 15:43:00
+> 更新时间：2026-10-15 16:44:38
 
 ## 24 小时热榜
 
@@ -11,28 +11,28 @@
 5. [OpenAI 指控前员工跳槽苹果前转移逾百份未发布产品文件](https://readhub.cn/topic/8xE4aTwgujS?tab=daily)
 6. [苹果称未在系统中找到 OpenAI 所确认的相关文件](https://readhub.cn/topic/8xE60yMDjhe?tab=daily)
 7. [DeepSeek 突发服务中断，官方已定位原因正紧急修复](https://readhub.cn/topic/8xEl8MMkLPn?tab=daily)
-8. [苹果计划 12 月在中国上线 Apple Intelligence 新版 Siri 暂不包含](https://readhub.cn/topic/8xEWoQKiPq0?tab=daily)
-9. [7 人耗时 5 个月，Anthropic 造出内部 Git 替代品 Scion](https://readhub.cn/topic/8xDbfPBUEuF?tab=daily)
+8. [7 人耗时 5 个月，Anthropic 造出内部 Git 替代品 Scion](https://readhub.cn/topic/8xDbfPBUEuF?tab=daily)
+9. [苹果计划 12 月在中国上线 Apple Intelligence 新版 Siri 暂不包含](https://readhub.cn/topic/8xEWoQKiPq0?tab=daily)
 10. [Claude 写代码太快，Anthropic 用 7 人 5 个月重构源码系统](https://readhub.cn/topic/8xDtWoKLFn1?tab=daily)
 11. [马斯克用一笔 80 亿美元交易，颠覆了电信这门百年生意](https://readhub.cn/topic/8xEgq574CQV?tab=daily)
 12. [Anthropic 推出 Claude Code 桌面版史诗级更新，支持多会话并行编程](https://readhub.cn/topic/8xEkOnxi8Vj?tab=daily)
 13. [健身博主推出卡路里相关 App 跻身全球收入 Top 10](https://readhub.cn/topic/8xD8MBx1pDg?tab=daily)
-14. [头部 AI 厂商收入不及预期 AI 资产估值迎来调整](https://readhub.cn/topic/8xEvBEWRxLx?tab=daily)
-15. [美股集体收跌 芯片指数六连跌 苹果市值站上 5 万亿美元](https://readhub.cn/topic/8xEXWnlzOkt?tab=daily)
-16. [恒生指数公司出手 茶百道遭多个指数剔除](https://readhub.cn/topic/8xDkZwapK2I?tab=daily)
-17. [库克、李彦宏、马化腾登上《新闻联播》](https://readhub.cn/topic/8xEjgp32JOH?tab=daily)
+14. [头部 AI 厂商收入不及预期，AI 资产估值迎来调整](https://readhub.cn/topic/8xEvBEWRxLx?tab=daily)
+15. [库克、李彦宏、马化腾登上《新闻联播》](https://readhub.cn/topic/8xEjgp32JOH?tab=daily)
+16. [美股集体收跌 芯片指数六连跌 苹果市值站上 5 万亿美元](https://readhub.cn/topic/8xEXWnlzOkt?tab=daily)
+17. [恒生指数公司出手 茶百道遭多个指数剔除](https://readhub.cn/topic/8xDkZwapK2I?tab=daily)
 18. [谷歌 Gemini 4 Argon 开放 性能比肩头部大模型 API 限时半价](https://readhub.cn/topic/8xD9mIEeahk?tab=daily)
 19. [DeepSeek 崩了](https://readhub.cn/topic/8xElSiAqIX4?tab=daily)
-20. [奈飞在韩销售额首破 1 万亿韩元 逾八成流向美国总部](https://readhub.cn/topic/8xDY6DAz5Nu?tab=daily)
-21. [Anthropic 2021 年内研路线图曝光 Claude Code 早有规划](https://readhub.cn/topic/8xEqTQ92DJD?tab=daily)
-22. [苹果收盘市值突破 5 万亿美元 为全球第二家达此里程碑企业](https://readhub.cn/topic/8xETxIrSVCi?tab=daily)
+20. [苹果收盘市值突破 5 万亿美元 为全球第二家达此里程碑企业](https://readhub.cn/topic/8xETxIrSVCi?tab=daily)
+21. [苹果 AI 国内采用双合作伙伴：阿里提供模型能力，百度负责 Siri 和视觉智能](https://readhub.cn/topic/8xEyKMHXfm0?tab=daily)
+22. [Anthropic 2021 年内研路线图曝光 Claude Code 早有规划](https://readhub.cn/topic/8xEqTQ92DJD?tab=daily)
 23. [中国科学家首次用中国大模型攻克困扰学界 30 余年世界级数学难题](https://readhub.cn/topic/8xEt1QUA5LI?tab=daily)
 24. [托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍](https://readhub.cn/topic/8xEiz1eFeOv?tab=daily)
-25. [苹果 AI 国内采用双合作伙伴：阿里提供模型能力，百度负责 Siri 和视觉智能](https://readhub.cn/topic/8xEyKMHXfm0?tab=daily)
-26. [小米旗下瀚星创投等入股章鱼灵动科技公司](https://readhub.cn/topic/8xDZZ5Rp5CP?tab=daily)
-27. [大疆机场 4 发布：首款换电无人值守平台、25 秒自动换电，套装 167999 元](https://readhub.cn/topic/8xDs6AFbDDz?tab=daily)
-28. [华为 3 款手表升级 HarmonyOS 7 加入高尿酸风险评估研究](https://readhub.cn/topic/8xDiBViy3MY?tab=daily)
-29. [中公教育被曝欠薪拖退费，以高价物品抵偿学员退款](https://readhub.cn/topic/8xDinmNOkaE?tab=daily)
+25. [小米旗下瀚星创投等入股章鱼灵动科技公司](https://readhub.cn/topic/8xDZZ5Rp5CP?tab=daily)
+26. [大疆机场 4 发布：首款换电无人值守平台、25 秒自动换电，套装 167999 元](https://readhub.cn/topic/8xDs6AFbDDz?tab=daily)
+27. [中公教育被曝欠薪拖退费，以高价物品抵偿学员退款](https://readhub.cn/topic/8xDinmNOkaE?tab=daily)
+28. [圆通总裁出任影视飓风董事长：持股 25.65% 为第二大股东](https://readhub.cn/topic/8xEqwCt4wVP?tab=daily)
+29. [华为 3 款手表升级 HarmonyOS 7 加入高尿酸风险评估研究](https://readhub.cn/topic/8xDiBViy3MY?tab=daily)
 30. [Netflix 将裁员约 1000 人 占员工总数 6%](https://readhub.cn/topic/8xDw1FpGKTW?tab=daily)
 
 ## 每日早报
@@ -51,8 +51,8 @@
 2. [Gemini 4 挑战诺奖得主成果，数小时完成 5 种新酶设计](https://www.mittrchina.com/news/detail/17097)
 3. [阶跃星辰开源 Step 5 Preview 模型权重，百万上下文与 MoE 架构](https://www.aibase.com/zh/news/31664)
 4. [蚂蚁百灵开源 Ling-3.1-flash：560B 级模型部署降至 4 卡，最高支持 1M 上下文](https://www.aibase.com/zh/news/31660)
-5. [腾讯 Marvis 鸿蒙版正式上线，支持微信、QQ 登录](https://www.aibase.com/zh/news/31666)
-6. [单张消费级显卡也能玩转视频大模型游戏 昆仑万维全球首发 Matrix-Game 4.0 并宣布开源](https://www.aibase.com/zh/news/31654)
+5. [昆仑万维发布世界首款消费级显卡视频大模型游戏 Matrix-Game 4.0，同步开源](https://www.leiphone.com/category/industrynews/OSk0jtFDeBaSizAH.html)
+6. [腾讯 AI 管家「马维斯」上架鸿蒙：手机电脑一把抓，老用户无缝续杯](https://www.aibase.com/zh/news/31667)
 7. [Anthropic 正式确认 Claude 订阅额度全面打通第三方应用](https://www.aibase.com/zh/news/31665)
 8. [Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演](https://www.aibase.com/zh/news/31653)
 9. [托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍](https://www.aibase.com/zh/news/31649)
