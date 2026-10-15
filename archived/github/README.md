@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-15 22:39:47
+> 更新时间：2026-10-16 05:12:03
 
 ## 每日趋势
 
@@ -134,3 +134,4 @@
 5. [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 6. [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
 7. [GSAP](https://github.com/greensock/GSAP)
+8. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
