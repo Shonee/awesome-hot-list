@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-15 13:12:38
+> 更新时间：2026-10-15 14:21:19
 
 ## 人气热门
 
@@ -57,11 +57,11 @@
 
 ## 精华采撷
 
-1. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
-2. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
-3. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
-4. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-5. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+1. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+2. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+3. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+4. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+5. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 6. [拆开 Microsoft Edge 的 App-Bound Encryption：为什么第三方再也读不出 v20 密码](https://www.52pojie.cn/thread-2131346-1-1.html)
 7. [某企业加固dex vmp简单分析](https://www.52pojie.cn/thread-2111432-1-1.html)
 8. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
