@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-15 20:50:12
+> 更新时间：2026-10-15 21:41:37
 
 ## 新闻热榜
 
@@ -17,12 +17,12 @@
 11. [美国封禁中企设备，追到芯片这一层](https://news.sina.com.cn/o/2026-10-15/doc-inivhtuq4660664.shtml)
 12. [中朝新鸭绿江大桥正式开通](https://news.sina.com.cn/c/2026-10-15/doc-inivhieu4588585.shtml)
 13. [胜负彩26142期国内部分专业媒体复式推荐总汇](https://sports.sina.com.cn/l/2026-10-15/doc-inivhiew1255198.shtml)
-14. [比亚迪、吉利、奇瑞，集体发布声明](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawr7412571.shtml)
-15. [郑钦文，确认退赛](https://news.sina.com.cn/c/2026-10-15/doc-inivhtus1357222.shtml)
+14. [郑钦文，确认退赛](https://news.sina.com.cn/c/2026-10-15/doc-inivhtus1357222.shtml)
+15. [[新浪彩票]足彩第26142期任九：勒沃客战不败](https://sports.sina.com.cn/l/2026-10-15/doc-inivhawr7466792.shtml)
 16. [玉渊谭天丨独家披露台当局和“台独”艺人利益链](https://news.sina.com.cn/c/2026-10-15/doc-inivhiep7460229.shtml)
-17. [[新浪彩票]足彩第26142期任九：勒沃客战不败](https://sports.sina.com.cn/l/2026-10-15/doc-inivhawr7466792.shtml)
-18. [顶流男星“与未成年女孩交往”事件，大反转](https://news.sina.com.cn/w/2026-10-15/doc-inivfmze4459651.shtml)
-19. [24小时内，两艘货船在霍尔木兹海峡附近沉没](https://news.sina.com.cn/w/2026-10-15/doc-inivhaww4476435.shtml)
+17. [比亚迪、吉利、奇瑞，集体发布声明](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawr7412571.shtml)
+18. [24小时内，两艘货船在霍尔木兹海峡附近沉没](https://news.sina.com.cn/w/2026-10-15/doc-inivhaww4476435.shtml)
+19. [顶流男星“与未成年女孩交往”事件，大反转](https://news.sina.com.cn/w/2026-10-15/doc-inivfmze4459651.shtml)
 20. [现年98岁的李嘉诚逝世被挤上热搜 长实集团辟谣否认：绝无此事](https://finance.sina.com.cn/tech/roll/2026-10-15/doc-inivhpns4631064.shtml)
 
 ## 财经热榜
@@ -35,15 +35,15 @@
 6. [创指午后跌超4%刷新年内新低 李大霄：沪指跌破3700点主要受外围影响 稳市机制正推进 仍要保持信心](https://finance.sina.com.cn/tob/2026-10-15/doc-inivhtui7339696.shtml)
 7. [三位美联储官员接连表态：通胀令人失望，但10月加息不必操之过急](https://finance.sina.com.cn/money/forex/forexroll/2026-10-15/doc-inivhawy1248440.shtml)
 8. [何立峰会见美国桥水投资公司创始人达利欧](https://finance.sina.com.cn/roll/2026-10-15/doc-inivhiew1266330.shtml)
-9. [AI短剧，突然火了！这些概念股滞涨（附股）](https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawt8186071.shtml)
-10. [美官员称美方考虑对伊朗使用“炸弹之母”](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhpnu1385403.shtml)
+9. [美官员称美方考虑对伊朗使用“炸弹之母”](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhpnu1385403.shtml)
+10. [AI短剧，突然火了！这些概念股滞涨（附股）](https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawt8186071.shtml)
 11. [社融增量超27万亿元 直接融资占比上升](https://finance.sina.com.cn/roll/2026-10-15/doc-inivfmzh1297978.shtml)
 12. [利空突袭，全线跳水！美联储，加息大消息！](https://finance.sina.com.cn/stock/zqgd/2026-10-15/doc-inivhaww4487412.shtml)
-13. [官方通报“男子在高铁座位脱裤排便”：已行政拘留，相关区域已全面清洁消毒](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawy1182587.shtml)
-14. [24小时内两艘货船遭袭沉没！霍尔木兹海峡局势持续升级](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfsie1217922.shtml)
+13. [24小时内两艘货船遭袭沉没！霍尔木兹海峡局势持续升级](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfsie1217922.shtml)
+14. [官方通报“男子在高铁座位脱裤排便”：已行政拘留，相关区域已全面清洁消毒](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawy1182587.shtml)
 15. [实测20家银行积存金业务：交易成本相差可达6倍 金价后续怎么走](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfmyx7579941.shtml)
 16. [伊朗革命卫队发言人：伊朗已做好准备应对任何新的侵略](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfmyx7578462.shtml)
 17. [长鑫科技新型架构撼动存储市场 海外龙头垄断壁垒面临重估](https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawy1221047.shtml)
 18. [10月15日国内成品油价格不作调整](https://finance.sina.com.cn/china/2026-10-15/doc-inivhyaf7295765.shtml)
-19. [成都市原市长王凤朝被逮捕、提起公诉](https://finance.sina.com.cn/wm/2026-10-15/doc-inivhier8203732.shtml)
-20. [库克、马化腾、李彦宏登上央视《新闻联播》](https://finance.sina.com.cn/roll/2026-10-15/doc-inivhiew1346817.shtml)
+19. [库克、马化腾、李彦宏登上央视《新闻联播》](https://finance.sina.com.cn/roll/2026-10-15/doc-inivhiew1346817.shtml)
+20. [成都市原市长王凤朝被逮捕、提起公诉](https://finance.sina.com.cn/wm/2026-10-15/doc-inivhier8203732.shtml)
