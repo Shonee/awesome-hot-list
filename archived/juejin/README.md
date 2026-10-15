@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-15 20:18:34
+> 更新时间：2026-10-15 20:49:47
 
 ## 热门文章
 
@@ -29,26 +29,26 @@
 23. [借助 Codex 和可视化工作流，从调研到完整实现，3D 大屏竟然可以这么简单](https://juejin.cn/post/7695939202564997154)
 24. [为什么你的 LazyColumn 仍然卡顿](https://juejin.cn/post/7695605570640707594)
 25. [使用 cad-viewer 搭建「预渲染 + 静态托管」的云端看图方案](https://juejin.cn/post/7696414863695708200)
-26. [FastAPI中jwt的基本使用与实践](https://juejin.cn/post/7695958498476163099)
-27. [花了几百万买的 AI 系统，为什么最后全成了花瓶？](https://juejin.cn/post/7695618100750729257)
+26. [花了几百万买的 AI 系统，为什么最后全成了花瓶？](https://juejin.cn/post/7695618100750729257)
+27. [FastAPI中jwt的基本使用与实践](https://juejin.cn/post/7695958498476163099)
 28. [Android 新手实战：从零搭建 WebRTC 在线直播系统](https://juejin.cn/post/7695604643288563727)
 29. [被问麻了！Function Calling、MCP、Skill 到底啥关系？一张图讲透三层架构，附 Java 生产落地全流程+30个坑](https://juejin.cn/post/7695768501788737578)
 30. [别把人生过成一场等待退休的倒计时](https://juejin.cn/post/7695958498476064795)
 31. [AI 帮我写的小程序，上线不到一个月流量主突然爆了](https://juejin.cn/post/7696444047594946570)
 32. [年轻时，给自己培养一个能留下作品的爱好](https://juejin.cn/post/7695632304220618767)
-33. [GitHub 日榜趋势速报 | 2026-10-13](https://juejin.cn/post/7695639978206937126)
-34. [30岁程序员别再卷算法，转行最缺的是能驻场的活](https://juejin.cn/post/7695622779605942287)
+33. [30岁程序员别再卷算法，转行最缺的是能驻场的活](https://juejin.cn/post/7695622779605942287)
+34. [GitHub 日榜趋势速报 | 2026-10-13](https://juejin.cn/post/7695639978206937126)
 35. [《AI 成了我的工位搭子，也成了我的焦虑来源》](https://juejin.cn/post/7696085941627191359)
 36. [Gemini 4 Argon 正式发布！](https://juejin.cn/post/7696085941626912831)
 37. [workbuddy · qoder · trae [ 不用开机，云端签到 ]](https://juejin.cn/post/7695757963636457498)
 38. [从一座城市钻进一个房间：Three.js + Blender 做一个五级钻取的数字楼宇大屏](https://juejin.cn/post/7695732727548280872)
 39. [Gemini 4上线！又回到御三家了？](https://juejin.cn/post/7696324130459467827)
 40. [一个人 + AI，58 天：首周 258 个玩家，本周 10 个，收入 0 元](https://juejin.cn/post/7695671592383971382)
-41. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://juejin.cn/post/7696448963306356746)
-42. [我抓了 5 个内存泄漏现行，最狠的一个 91MB](https://juejin.cn/post/7696060477454352399)
-43. [Kotlin 2.5 的 Companion 改造，对 KMP 的重要升级](https://juejin.cn/post/7696048084749746226)
-44. [REA 一周 12 万星，但我上个月就拆完百度网盘了](https://juejin.cn/post/7695618100750123049)
-45. [Flutter Android 改动：APK 不再允许通过 Intent 动态修改 Engine 参数](https://juejin.cn/post/7696437668125851674)
+41. [Kotlin 2.5 的 Companion 改造，对 KMP 的重要升级](https://juejin.cn/post/7696048084749746226)
+42. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://juejin.cn/post/7696448963306356746)
+43. [Flutter Android 改动：APK 不再允许通过 Intent 动态修改 Engine 参数](https://juejin.cn/post/7696437668125851674)
+44. [我抓了 5 个内存泄漏现行，最狠的一个 91MB](https://juejin.cn/post/7696060477454352399)
+45. [REA 一周 12 万星，但我上个月就拆完百度网盘了](https://juejin.cn/post/7695618100750123049)
 46. [货拉拉业务 Agent 评测平台的工程实践与深度思考](https://juejin.cn/post/7696029445103255606)
 47. [1.7 万起步，黄仁勋这次把 AI 塞进笔记本了](https://juejin.cn/post/7696029445103058998)
 48. [我给 NestJS 管理后台装上了"会干活"的 AI Agent](https://juejin.cn/post/7695687760272277519)

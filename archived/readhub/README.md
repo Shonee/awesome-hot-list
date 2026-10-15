@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-15 19:39:20
+> 更新时间：2026-10-15 20:50:06
 
 ## 24 小时热榜
 
@@ -20,20 +20,20 @@
 14. [美股集体收跌 芯片指数六连跌 苹果市值站上 5 万亿美元](https://readhub.cn/topic/8xEXWnlzOkt?tab=daily)
 15. [恒生指数公司出手 茶百道遭多个指数剔除](https://readhub.cn/topic/8xDkZwapK2I?tab=daily)
 16. [DeepSeek 崩了](https://readhub.cn/topic/8xElSiAqIX4?tab=daily)
-17. [谷歌 Gemini 4 Argon 开放 性能比肩头部大模型 API 限时半价](https://readhub.cn/topic/8xD9mIEeahk?tab=daily)
-18. [苹果 AI 国内采用双合作伙伴：阿里提供模型能力，百度负责 Siri 和视觉智能](https://readhub.cn/topic/8xEyKMHXfm0?tab=daily)
-19. [Anthropic 2021 年内研路线图曝光 Claude Code 早有规划](https://readhub.cn/topic/8xEqTQ92DJD?tab=daily)
-20. [中国科学家首次用中国大模型攻克困扰学界 30 余年世界级数学难题](https://readhub.cn/topic/8xEt1QUA5LI?tab=daily)
-21. [苹果收盘市值突破 5 万亿美元 为全球第二家达此里程碑企业](https://readhub.cn/topic/8xETxIrSVCi?tab=daily)
-22. [托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍](https://readhub.cn/topic/8xEiz1eFeOv?tab=daily)
+17. [苹果 AI 国内采用双合作伙伴：阿里提供模型能力，百度负责 Siri 和视觉智能](https://readhub.cn/topic/8xEyKMHXfm0?tab=daily)
+18. [Anthropic 2021 年内研路线图曝光 Claude Code 早有规划](https://readhub.cn/topic/8xEqTQ92DJD?tab=daily)
+19. [中国科学家首次用中国大模型攻克困扰学界 30 余年世界级数学难题](https://readhub.cn/topic/8xEt1QUA5LI?tab=daily)
+20. [苹果收盘市值突破 5 万亿美元 为全球第二家达此里程碑企业](https://readhub.cn/topic/8xETxIrSVCi?tab=daily)
+21. [托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍](https://readhub.cn/topic/8xEiz1eFeOv?tab=daily)
+22. [iPhone Duo 代抢费炒到 888 元 京东预约超 200 万](https://readhub.cn/topic/8xFORKlNVz6?tab=daily)
 23. [大疆机场 4 发布：首款换电无人值守平台、25 秒自动换电，套装 167999 元](https://readhub.cn/topic/8xDs6AFbDDz?tab=daily)
 24. [小米旗下瀚星创投等入股章鱼灵动科技公司](https://readhub.cn/topic/8xDZZ5Rp5CP?tab=daily)
-25. [恒逸石化：预计 2026 年前三季度净利同比增 3319%-3405%](https://readhub.cn/topic/8xFFAHLMjvJ?tab=daily)
-26. [中公教育被曝欠薪拖退费，以高价物品抵偿学员退款](https://readhub.cn/topic/8xDinmNOkaE?tab=daily)
-27. [华为 3 款手表升级 HarmonyOS 7 加入高尿酸风险评估研究](https://readhub.cn/topic/8xDiBViy3MY?tab=daily)
-28. [库克称 Apple Intelligence 十月晚些时候在中国推测试版 不含 Siri AI](https://readhub.cn/topic/8xFHd5Lq19y?tab=daily)
-29. [Netflix 将裁员约 1000 人 占员工总数 6%](https://readhub.cn/topic/8xDw1FpGKTW?tab=daily)
-30. [Anthropic 正式确认 Claude 订阅额度可接入第三方应用](https://readhub.cn/topic/8xEjftFxkTc?tab=daily)
+25. [新易盛：控股股东提议回购 8 亿至 10 亿元股份](https://readhub.cn/topic/8xFOQ1orSIB?tab=daily)
+26. [恒逸石化：预计 2026 年前三季度净利同比增 3319%-3405%](https://readhub.cn/topic/8xFFAHLMjvJ?tab=daily)
+27. [中公教育被曝欠薪拖退费，以高价物品抵偿学员退款](https://readhub.cn/topic/8xDinmNOkaE?tab=daily)
+28. [华为 3 款手表升级 HarmonyOS 7 加入高尿酸风险评估研究](https://readhub.cn/topic/8xDiBViy3MY?tab=daily)
+29. [OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用](https://readhub.cn/topic/8xFIllc1eE6?tab=daily)
+30. [库克称 Apple Intelligence 十月晚些时候在中国推测试版 不含 Siri AI](https://readhub.cn/topic/8xFHd5Lq19y?tab=daily)
 
 ## 每日早报
 
@@ -54,6 +54,6 @@
 5. [Gemini 4 挑战诺奖得主成果，数小时完成 5 种新酶设计](https://www.mittrchina.com/news/detail/17097)
 6. [上海 AI 实验室「书生-S2」大模型进入前沿数学研究流程：助力三维 Ghys 猜想证明并通过形式化验证](https://www.leiphone.com/category/academic/ChIK9FvwSwlHmfFc.html)
 7. [8 州联手起诉 OpenAI：ChatGPT「假朋友」伤害儿童，家长被指受骗](https://www.aibase.com/zh/news/31669)
-8. [阶跃星辰开源 Step 5 Preview 模型权重，百万上下文与 MoE 架构](https://www.aibase.com/zh/news/31664)
-9. [超声大模型加持，海康 AI 超声检测荣获 2026 中国工博会「工业自动化奖」](https://www.leiphone.com/category/industrynews/ZKD7Fqh34I9b4ujG.html)
-10. [蚂蚁百灵开源 Ling-3.1-flash：560B 级模型部署降至 4 卡，最高支持 1M 上下文](https://www.aibase.com/zh/news/31660)
+8. [库克：苹果智能接入阿里千问大模型，10 月底在中国发布测试版本](https://www.leiphone.com/category/industrynews/P1btLjli3z8XoQkz.html)
+9. [阶跃星辰开源 Step 5 Preview 模型权重，百万上下文与 MoE 架构](https://www.aibase.com/zh/news/31664)
+10. [微信、淘宝、美团等 151 款 APP 拒绝豆包手机助手 GUI 自动化代操作；对标字节红果，腾讯上线绿泡泡短剧；OpenAI 一工程师被捕，涉嫌窃听机密](https://www.leiphone.com/category/zaobao/VMod1gHtw3lRoiXd.html)
