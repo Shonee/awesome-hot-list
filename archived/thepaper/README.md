@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-16 01:11:43
+> 更新时间：2026-10-16 02:15:52
 
 ## 热新闻
 
@@ -18,9 +18,9 @@
 12. [乌克兰指责美国帮俄罗斯：星链突然被限速、没收到导弹预警](https://www.thepaper.cn/newsDetail_forward_34254228)
 13. [澎湃漫评｜误点弹窗广告就扣七万保费，保险这么随意吗？](https://www.thepaper.cn/newsDetail_forward_34254901)
 14. [浙江湖州一医院2名员工赴泰旅游在酒店泳池溺亡，院方通报：“遭谋杀、器官被摘除”等为谣言](https://www.thepaper.cn/newsDetail_forward_34256979)
-15. [双创指数大跌、地量再现，A股接下来怎么走？](https://www.thepaper.cn/newsDetail_forward_34253719)
-16. [受贿数额特别巨大，成都市委原副书记、原市长王凤朝被提起公诉](https://www.thepaper.cn/newsDetail_forward_34254436)
-17. [深圳：商品住房预售门槛提高至主体封顶，有序推进现房销售](https://www.thepaper.cn/newsDetail_forward_34255819)
-18. [中央网信办等部门：开展网络涉军不当营销和炒作信息专项整治](https://www.thepaper.cn/newsDetail_forward_34256046)
-19. [一路丰碑｜万万火急电，迈出伟大转折第一步](https://www.thepaper.cn/newsDetail_forward_34224527)
-20. [李强在中朝新鸭绿江大桥开通仪式上发表视频致辞](https://www.thepaper.cn/newsDetail_forward_34255135)
+15. [《红旗颂》启幕《欢乐颂》送客，上海大歌剧院开幕音乐会抢先看](https://www.thepaper.cn/newsDetail_forward_34257128)
+16. [双创指数大跌、地量再现，A股接下来怎么走？](https://www.thepaper.cn/newsDetail_forward_34253719)
+17. [为何霍尔木兹海峡袭船事件骤增？伊朗官员称要影响美国中期选举](https://www.thepaper.cn/newsDetail_forward_34257391)
+18. [受贿数额特别巨大，成都市委原副书记、原市长王凤朝被提起公诉](https://www.thepaper.cn/newsDetail_forward_34254436)
+19. [一次超强厄尔尼诺已形成，为什么说真正考验在明年春夏](https://www.thepaper.cn/newsDetail_forward_34255850)
+20. [深圳：商品住房预售门槛提高至主体封顶，有序推进现房销售](https://www.thepaper.cn/newsDetail_forward_34255819)
