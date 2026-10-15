@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-15 22:14:37
+> 更新时间：2026-10-15 23:40:51
 
 ## 24 小时热榜
 
@@ -19,20 +19,20 @@
 13. [圆通总裁出任影视飓风董事长：持股 25.65% 为第二大股东](https://readhub.cn/topic/8xEqwCt4wVP?tab=daily)
 14. [美股集体收跌 芯片指数六连跌 苹果市值站上 5 万亿美元](https://readhub.cn/topic/8xEXWnlzOkt?tab=daily)
 15. [恒生指数公司出手 茶百道遭多个指数剔除](https://readhub.cn/topic/8xDkZwapK2I?tab=daily)
-16. [DeepSeek 崩了](https://readhub.cn/topic/8xElSiAqIX4?tab=daily)
-17. [苹果 AI 国内采用双合作伙伴：阿里提供模型能力，百度负责 Siri 和视觉智能](https://readhub.cn/topic/8xEyKMHXfm0?tab=daily)
-18. [Anthropic 2021 年内研路线图曝光 Claude Code 早有规划](https://readhub.cn/topic/8xEqTQ92DJD?tab=daily)
+16. [Anthropic 2021 年内研路线图曝光 Claude Code 早有规划](https://readhub.cn/topic/8xEqTQ92DJD?tab=daily)
+17. [DeepSeek 崩了](https://readhub.cn/topic/8xElSiAqIX4?tab=daily)
+18. [苹果 AI 国内采用双合作伙伴：阿里提供模型能力，百度负责 Siri 和视觉智能](https://readhub.cn/topic/8xEyKMHXfm0?tab=daily)
 19. [中国科学家首次用中国大模型攻克困扰学界 30 余年世界级数学难题](https://readhub.cn/topic/8xEt1QUA5LI?tab=daily)
 20. [苹果收盘市值突破 5 万亿美元 为全球第二家达此里程碑企业](https://readhub.cn/topic/8xETxIrSVCi?tab=daily)
 21. [iPhone Duo 代抢费炒到 888 元 京东预约超 200 万](https://readhub.cn/topic/8xFORKlNVz6?tab=daily)
 22. [托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍](https://readhub.cn/topic/8xEiz1eFeOv?tab=daily)
-23. [小米旗下瀚星创投等入股章鱼灵动科技公司](https://readhub.cn/topic/8xDZZ5Rp5CP?tab=daily)
-24. [新易盛：控股股东提议回购 8 亿至 10 亿元股份](https://readhub.cn/topic/8xFOQ1orSIB?tab=daily)
+23. [新易盛：控股股东提议回购 8 亿至 10 亿元股份](https://readhub.cn/topic/8xFOQ1orSIB?tab=daily)
+24. [小米旗下瀚星创投等入股章鱼灵动科技公司](https://readhub.cn/topic/8xDZZ5Rp5CP?tab=daily)
 25. [大疆机场 4 发布：首款换电无人值守平台、25 秒自动换电，套装 167999 元](https://readhub.cn/topic/8xDs6AFbDDz?tab=daily)
-26. [恒逸石化：预计 2026 年前三季度净利同比增 3319%-3405%](https://readhub.cn/topic/8xFFAHLMjvJ?tab=daily)
-27. [中公教育被曝欠薪拖退费，以高价物品抵偿学员退款](https://readhub.cn/topic/8xDinmNOkaE?tab=daily)
-28. [OpenAI 千禧年难题证明反转：其未理解模型所用方法](https://readhub.cn/topic/8xFERx7vMYc?tab=daily)
-29. [华为 3 款手表升级 HarmonyOS 7 加入高尿酸风险评估研究](https://readhub.cn/topic/8xDiBViy3MY?tab=daily)
+26. [OpenAI 千禧年难题证明反转：其未理解模型所用方法](https://readhub.cn/topic/8xFERx7vMYc?tab=daily)
+27. [恒逸石化：预计 2026 年前三季度净利同比增 3319%-3405%](https://readhub.cn/topic/8xFFAHLMjvJ?tab=daily)
+28. [华为 3 款手表升级 HarmonyOS 7 加入高尿酸风险评估研究](https://readhub.cn/topic/8xDiBViy3MY?tab=daily)
+29. [中公教育被曝欠薪拖退费，以高价物品抵偿学员退款](https://readhub.cn/topic/8xDinmNOkaE?tab=daily)
 30. [OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用](https://readhub.cn/topic/8xFIllc1eE6?tab=daily)
 
 ## 每日早报
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [AI 从零设计蛋白酶，催化加速超 100 亿倍，David Baker 团队连发两篇 Nature](https://www.mittrchina.com/news/detail/17100)
-2. [Anthropic 五年前内部路线图曝光：AI 编程、工具调用早已列入研究计划](https://www.mittrchina.com/news/detail/17099)
-3. [NVIDIA Expands Advanced Technology Access for Europe's Scientific Community Through Open Learning Resources, Collaborations and Compute](https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/)
-4. [Apertus 1.5 发布说明](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)
-5. [鉴别论文灵感来自 AI 还是人类，DeepMind 科学家找到一种新方法](https://www.mittrchina.com/news/detail/17098)
-6. [Gemini 4 挑战诺奖得主成果，数小时完成 5 种新酶设计](https://www.mittrchina.com/news/detail/17097)
-7. [上海 AI 实验室「书生-S2」大模型进入前沿数学研究流程：助力三维 Ghys 猜想证明并通过形式化验证](https://www.leiphone.com/category/academic/ChIK9FvwSwlHmfFc.html)
-8. [Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/)
-9. [8 州联手起诉 OpenAI：ChatGPT「假朋友」伤害儿童，家长被指受骗](https://www.aibase.com/zh/news/31669)
-10. [库克：苹果智能接入阿里千问大模型，10 月底在中国发布测试版本](https://www.leiphone.com/category/industrynews/P1btLjli3z8XoQkz.html)
+2. [NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/)
+3. [Anthropic 五年前内部路线图曝光：AI 编程、工具调用早已列入研究计划](https://www.mittrchina.com/news/detail/17099)
+4. [NVIDIA Expands Advanced Technology Access for Europe's Scientific Community Through Open Learning Resources, Collaborations and Compute](https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/)
+5. [Apertus 1.5 发布说明](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)
+6. [鉴别论文灵感来自 AI 还是人类，DeepMind 科学家找到一种新方法](https://www.mittrchina.com/news/detail/17098)
+7. [Gemini 4 挑战诺奖得主成果，数小时完成 5 种新酶设计](https://www.mittrchina.com/news/detail/17097)
+8. [上海 AI 实验室「书生-S2」大模型进入前沿数学研究流程：助力三维 Ghys 猜想证明并通过形式化验证](https://www.leiphone.com/category/academic/ChIK9FvwSwlHmfFc.html)
+9. [Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/)
+10. [8 州联手起诉 OpenAI：ChatGPT「假朋友」伤害儿童，家长被指受骗](https://www.aibase.com/zh/news/31669)

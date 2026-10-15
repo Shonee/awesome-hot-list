@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-15 17:14:22
+> 更新时间：2026-10-15 23:40:53
 
 ## Trending Models
 
@@ -11,16 +11,16 @@
 5. [autotrust/JEV-35B](https://huggingface.co/autotrust/JEV-35B)
 6. [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)
 7. [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)
-8. [ConwayResearch/Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)
+8. [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)
 9. [AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF)
-10. [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)
+10. [ConwayResearch/Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)
 11. [LiquidAI/LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)
 12. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-13. [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)
-14. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
-15. [LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B)
-16. [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
-17. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
-18. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
-19. [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle)
-20. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
+13. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
+14. [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)
+15. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
+16. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
+17. [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
+18. [autotrust/JEV-35B-NVFP4](https://huggingface.co/autotrust/JEV-35B-NVFP4)
+19. [LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B)
+20. [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle)
