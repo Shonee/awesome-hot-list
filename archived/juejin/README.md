@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-15 08:30:13
+> 更新时间：2026-10-15 09:06:16
 
 ## 热门文章
 
@@ -35,11 +35,11 @@
 29. [开源项目第235期：REA — 让 AI Agent 逆向任何东西，从网站/Electron 应用一路分析到二进制层](https://juejin.cn/post/7695985750949494818)
 30. [FastAPI中jwt的基本使用与实践](https://juejin.cn/post/7695958498476163099)
 31. [2026年APP自动化测试工具大全,12款主流工具一次看懂](https://juejin.cn/post/7695250888260878376)
-32. [借助 Codex 和可视化工作流，从调研到完整实现，3D 大屏竟然可以这么简单](https://juejin.cn/post/7695939202564997154)
-33. [为什么你的 LazyColumn 仍然卡顿](https://juejin.cn/post/7695605570640707594)
-34. [Android 新手实战：从零搭建 WebRTC 在线直播系统](https://juejin.cn/post/7695604643288563727)
-35. [前端架构设计实战：从组件思维到系统思维](https://juejin.cn/post/7695199380077035539)
-36. [聊聊Agent的记忆系统如何设计](https://juejin.cn/post/7696080841777020966)
+32. [聊聊Agent的记忆系统如何设计](https://juejin.cn/post/7696080841777020966)
+33. [借助 Codex 和可视化工作流，从调研到完整实现，3D 大屏竟然可以这么简单](https://juejin.cn/post/7695939202564997154)
+34. [为什么你的 LazyColumn 仍然卡顿](https://juejin.cn/post/7695605570640707594)
+35. [Android 新手实战：从零搭建 WebRTC 在线直播系统](https://juejin.cn/post/7695604643288563727)
+36. [前端架构设计实战：从组件思维到系统思维](https://juejin.cn/post/7695199380077035539)
 37. [我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司（Day 1）](https://juejin.cn/post/7696083307454038026)
 38. [花了几百万买的 AI 系统，为什么最后全成了花瓶？](https://juejin.cn/post/7695618100750729257)
 39. [AI 时代，个人开发者到底能不能靠一个小程序赚到钱](https://juejin.cn/post/7695999400864956451)

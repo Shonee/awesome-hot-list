@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-15 08:30:48
+> 更新时间：2026-10-15 09:07:06
 
 ## 股票人气榜
 
@@ -21,6 +21,6 @@
 15. [龙江交通 (601188)](https://quote.eastmoney.com/sh601188.html)
 16. [中恒集团 (600252)](https://quote.eastmoney.com/sh600252.html)
 17. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
-18. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
-19. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
-20. [沪电股份 (002463)](https://quote.eastmoney.com/sz002463.html)
+18. [富春染织 (605189)](https://quote.eastmoney.com/sh605189.html)
+19. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
+20. [阳光乳业 (001318)](https://quote.eastmoney.com/sz001318.html)

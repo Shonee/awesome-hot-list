@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-15 08:31:19
+> 更新时间：2026-10-15 09:07:39
 
 ## Hottest
 
@@ -10,10 +10,10 @@
 4. [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
 5. [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
 6. [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
-7. [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
-8. [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
-9. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
-10. [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
+7. [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
+8. [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
+9. [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
+10. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 11. [yet another place where a linux man page is inaccurate](https://sebsite.pw/w/20261014-initstate.html)
 12. [Apple: Switch to Safari (from Chrome)](https://www.apple.com/safari/switch/)
 13. [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
@@ -24,8 +24,8 @@
 18. [The DelightQL Query Language](https://delightql.org)
 19. [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 20. [Compiler bootstrapping depends on more than you might think](https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges)
-21. [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
-22. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
-23. [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
-24. [How the L0pht (probably) optimized attack against the LanMan hash](https://modexp.wordpress.com/2019/02/02/3883/)
-25. [OpenFatigue™ — Open is the new closed](https://openfatigue.ai/)
+21. [ito - build terminal ui in lua](https://uji.sh/ito)
+22. [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
+23. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+24. [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
+25. [How the L0pht (probably) optimized attack against the LanMan hash](https://modexp.wordpress.com/2019/02/02/3883/)
