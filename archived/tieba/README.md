@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-15 23:14:16
+> 更新时间：2026-10-16 00:14:16
 
 ## 最有料热点
 
@@ -33,4 +33,3 @@
 27. [世纪和解!管泽元探班Bin哥](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366928&topic_name=%E4%B8%96%E7%BA%AA%E5%92%8C%E8%A7%A3%21%E7%AE%A1%E6%B3%BD%E5%85%83%E6%8E%A2%E7%8F%ADBin%E5%93%A5)
 28. [日人游新疆遭冷遇,吃饭被赶](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366939&topic_name=%E6%97%A5%E4%BA%BA%E6%B8%B8%E6%96%B0%E7%96%86%E9%81%AD%E5%86%B7%E9%81%87%2C%E5%90%83%E9%A5%AD%E8%A2%AB%E8%B5%B6)
 29. [写电竞文缺黑称,吧友抗吧取经](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366851&topic_name=%E5%86%99%E7%94%B5%E7%AB%9E%E6%96%87%E7%BC%BA%E9%BB%91%E7%A7%B0%2C%E5%90%A7%E5%8F%8B%E6%8A%97%E5%90%A7%E5%8F%96%E7%BB%8F)
-30. [鲸天魔盗团!黑客靠AI入侵韩国银行](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366789&topic_name=%E9%B2%B8%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%21%E9%BB%91%E5%AE%A2%E9%9D%A0AI%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C)
