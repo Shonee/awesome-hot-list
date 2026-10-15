@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-15 09:06:35
+> 更新时间：2026-10-15 10:16:35
 
 ## 24 小时热榜
 
@@ -10,30 +10,30 @@
 4. [田柯宇回应字节模型相关争议：称非投毒系以暴制暴](https://readhub.cn/topic/8xDY5z1JNCN?tab=daily)
 5. [美媒关注长鑫存储技术突破 相关消息致全球存储巨头股价集体下挫](https://readhub.cn/topic/8xDJSaJuJKn?tab=daily)
 6. [安徽省委书记李乐成调研长鑫科技并主持召开座谈会](https://readhub.cn/topic/8xDs7JNFguM?tab=daily)
-7. [OPPO 联手 Manus 推进智能体落地](https://readhub.cn/topic/8xD5Xn7lxut?tab=daily)
-8. [OpenAI 指控前员工跳槽苹果前转移逾百份未发布产品文件](https://readhub.cn/topic/8xE4aTwgujS?tab=daily)
+7. [OpenAI 指控前员工跳槽苹果前转移逾百份未发布产品文件](https://readhub.cn/topic/8xE4aTwgujS?tab=daily)
+8. [苹果称未在系统中找到 OpenAI 所确认的相关文件](https://readhub.cn/topic/8xE60yMDjhe?tab=daily)
 9. [广州成立市算力公司 探索超大城市算电融合「广州模式」](https://readhub.cn/topic/8xDOmZMTQOp?tab=daily)
 10. [豆包工作上线新功能：支持从 Claude Code 等一键导入](https://readhub.cn/topic/8xDMedwU1ct?tab=daily)
-11. [中国造「预制房」走红海外 前三季度民企出口增长近三成](https://readhub.cn/topic/8xDEnDFXh6P?tab=daily)
-12. [苹果称未在系统中找到 OpenAI 所确认的相关文件](https://readhub.cn/topic/8xE60yMDjhe?tab=daily)
-13. [7 人耗时 5 个月，Anthropic 造出内部 Git 替代品 Scion](https://readhub.cn/topic/8xDbfPBUEuF?tab=daily)
-14. [Linus 借助 Claude Code 开发 Linux 内核相关分支，特定测试性能约提 3 倍](https://readhub.cn/topic/8xDT5f8kirQ?tab=daily)
+11. [7 人耗时 5 个月，Anthropic 造出内部 Git 替代品 Scion](https://readhub.cn/topic/8xDbfPBUEuF?tab=daily)
+12. [中国造「预制房」走红海外 前三季度民企出口增长近三成](https://readhub.cn/topic/8xDEnDFXh6P?tab=daily)
+13. [Linus 借助 Claude Code 开发 Linux 内核相关分支，特定测试性能约提 3 倍](https://readhub.cn/topic/8xDT5f8kirQ?tab=daily)
+14. [苹果计划 12 月在中国上线 Apple Intelligence 新版 Siri 暂不包含](https://readhub.cn/topic/8xEWoQKiPq0?tab=daily)
 15. [豆包手机助手将陆续放开第三方应用操作权限](https://readhub.cn/topic/8xDAVKZ16KD?tab=daily)
 16. [小鹏宣布面向全球开放智能汽车技术合作及物理 AI 生态方案](https://readhub.cn/topic/8xDO47rzRMY?tab=daily)
-17. [腾讯 WorkBuddy 企业版迭代 上线一站式 Agent 可观测平台公测](https://readhub.cn/topic/8xC8B1Lhm55?tab=daily)
-18. [德勤调查：英国超半数大企业预计未来一年借 AI 裁员](https://readhub.cn/topic/8xD2eN0nahZ?tab=daily)
+17. [Claude 写代码太快，Anthropic 连源码系统都重造了，7 人只用 5 个月](https://readhub.cn/topic/8xDtWoKLFn1?tab=daily)
+18. [腾讯 WorkBuddy 企业版迭代 上线一站式 Agent 可观测平台公测](https://readhub.cn/topic/8xC8B1Lhm55?tab=daily)
 19. [恒生指数公司出手 茶百道遭多个指数剔除](https://readhub.cn/topic/8xDkZwapK2I?tab=daily)
 20. [谷歌 Gemini 4 Argon 开放 性能比肩头部大模型 API 限时半价](https://readhub.cn/topic/8xD9mIEeahk?tab=daily)
 21. [奈飞在韩销售额首破 1 万亿韩元 逾八成流向美国总部](https://readhub.cn/topic/8xDY6DAz5Nu?tab=daily)
 22. [巅峰估值 50 亿美元 AI 独角兽 Character.AI 申请破产重组](https://readhub.cn/topic/8xDFWtYn9dW?tab=daily)
-23. [宝能集团及姚振华等被执行 20.5 亿](https://readhub.cn/topic/8xDHdxPhkZ2?tab=daily)
-24. [苹果举办新品发布会推出智能家居新品 盘初股价创历史新高](https://readhub.cn/topic/8xCz4g3S3tV?tab=daily)
-25. [iPhone Duo 预装定制 iOS 27.1 开售首日需进行系统更新](https://readhub.cn/topic/8xCdcv9Gm8p?tab=daily)
-26. [企业微信与 WorkBuddy 深度联合发布新版本](https://readhub.cn/topic/8xDCeMlbxKn?tab=daily)
-27. [Claude 写代码太快，Anthropic 连源码系统都重造了，7 人只用 5 个月](https://readhub.cn/topic/8xDtWoKLFn1?tab=daily)
-28. [谷歌 Gemini 4 Argon 实测：主打物理推理 性价比突出仍存硬伤](https://readhub.cn/topic/8xDBuvbdACK?tab=daily)
-29. [苹果计划 12 月在中国上线 Apple Intelligence 新版 Siri 暂不包含](https://readhub.cn/topic/8xEWoQKiPq0?tab=daily)
-30. [美股集体收跌 芯片指数六连跌 苹果市值站上 5 万亿美元](https://readhub.cn/topic/8xEXWnlzOkt?tab=daily)
+23. [1699 元米家金属旅行箱将开启众筹：配铝镁合金 + 无铆钉工艺](https://readhub.cn/topic/8xDBwth8HrE?tab=daily)
+24. [美股集体收跌 芯片指数六连跌 苹果市值站上 5 万亿美元](https://readhub.cn/topic/8xEXWnlzOkt?tab=daily)
+25. [宝能集团及姚振华等被执行 20.5 亿](https://readhub.cn/topic/8xDHdxPhkZ2?tab=daily)
+26. [苹果举办新品发布会推出智能家居新品 盘初股价创历史新高](https://readhub.cn/topic/8xCz4g3S3tV?tab=daily)
+27. [iPhone Duo 预装定制 iOS 27.1 开售首日需进行系统更新](https://readhub.cn/topic/8xCdcv9Gm8p?tab=daily)
+28. [企业微信与 WorkBuddy 深度联合发布新版本](https://readhub.cn/topic/8xDCeMlbxKn?tab=daily)
+29. [谷歌 Gemini 4 Argon 实测：主打物理推理 性价比突出仍存硬伤](https://readhub.cn/topic/8xDBuvbdACK?tab=daily)
+30. [前 OpenAI 高管称仅约 5000 人可接触最前沿内部 AI 系统](https://readhub.cn/topic/8xBbf3LMGr5?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone)
-2. [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2)
-3. [Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
-4. [Linux 之父托瓦兹推出首个 AI 辅助开发的补丁：并发文件读取吞吐量提升约 3 倍](https://www.ithome.com/1/013/171.htm)
-5. [深度｜0.88 美元攻陷一家银行：AI 黑客正在改写安全规则](https://www.huxiu.com/article/4897612.html?f=rss)
-6. [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/)
-7. [荷兰一款 AI 控制无人机时速达百公里](https://www.stdaily.com/web/gdxw/2026-10/15/content_596259.html)
-8. [英伟达黄仁勋：若客户开发不安全 AI 软件，极端措施可断供芯片](https://www.ithome.com/1/013/164.htm)
-9. [彭博社：苹果有望 12 月随 iOS 27.3 在国内推出首波 Apple Intelligence 功能](https://www.ithome.com/1/013/162.htm)
-10. [How Block is building AI-powered security with OpenAI technology](https://openai.com/index/block-ai-powered-security)
+1. [Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演](https://www.aibase.com/zh/news/31653)
+2. [托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍](https://www.aibase.com/zh/news/31649)
+3. [马斯克旗下 xAI 发布 Grok Voice 3.0，定价仅 0.08 美元](https://www.aibase.com/zh/news/31645)
+4. [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone)
+5. [谷歌工程师：AI 编写超 75% 生产代码，自主研发加速尚无明确证据](https://www.aibase.com/zh/news/31647)
+6. [OpenAI 加紧研发下一代旗舰模型，循环推理与安全对齐成关键](https://www.aibase.com/zh/news/31646)
+7. [YouTube Music 将为 AI 生成歌曲添加标签，未来扩展至主应用](https://www.aibase.com/zh/news/31652)
+8. [Epic 用 AI「氛围编程」重写启动器：自嘲传统编程太难，冷启动 5.47 秒甩开 Steam](https://www.aibase.com/zh/news/31648)
+9. [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2)
+10. [DeepSeek 网页端、App 及部分 API 服务异常，官方排查原因](https://www.aibase.com/zh/news/31651)
