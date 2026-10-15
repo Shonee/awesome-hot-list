@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-15 09:46:42
+> 更新时间：2026-10-15 10:44:54
 
 ## 热点资讯排行
 
@@ -13,8 +13,8 @@
 7. [小孩又夺冠了！曾卓君再次证明自己 全胜登顶](https://www.gamersky.com/news/202610/2225840.shtml)
 8. [《生化危机9：安魂曲》女主格蕾丝加盟原因:里昂太猛没恐怖味了](https://www.gamersky.com/news/202610/2225627.shtml)
 9. [GTA6葱哥亮露西娅4K新片！币值暴跌直接腰斩](https://www.gamersky.com/news/202610/2226447.shtml)
-10. [《影之刃零》原型震惊索尼高层：你们是哪儿来的高手？](https://www.gamersky.com/news/202610/2225945.shtml)
-11. [央视曝光在校学生藏手机神器 销量数千件太坑娃](https://www.gamersky.com/news/202610/2226420.shtml)
+10. [央视曝光在校学生藏手机神器 销量数千件太坑娃](https://www.gamersky.com/news/202610/2226420.shtml)
+11. [《影之刃零》原型震惊索尼高层：你们是哪儿来的高手？](https://www.gamersky.com/news/202610/2225945.shtml)
 12. [《巫师3》玩家遇叶奈法独角兽场景后没穿衣服Bug 网友却求官方复现](https://www.gamersky.com/news/202610/2225652.shtml)
 13. [PS5全新限定机型公布！午夜黑配色太帅](https://www.gamersky.com/news/202610/2226465.shtml)
 14. [LGBT魔爪Sweetbaby官网删光合作方！DEI金主跑了？](https://www.gamersky.com/news/202610/2226424.shtml)

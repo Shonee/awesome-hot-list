@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-15 09:46:18
+> 更新时间：2026-10-15 10:44:09
 
 ## 最新帖子
 
-1. [黑盒与白盒：人是怎么把世界装进口袋的](https://www.cnblogs.com/zw-awa/p/23310197)
-2. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
-3. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
-4. [SQL 数据库NULL值判断](https://www.cnblogs.com/WearOpenWei/p/23309534)
-5. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
-6. [OpenCSG.NET CSG几何内核测试体系实践笔记](https://www.cnblogs.com/znlgis/p/23309432)
-7. [Radzen 6.0.0 这几个 API 坑，我替你踩了](https://www.cnblogs.com/shenchuanchao/p/23302736/radzen-6-0-0-api-pitfalls-lessons)
-8. [6. DevEco Studio环境搭建，鸿蒙开发入门第一步(macOS版)](https://www.cnblogs.com/halfcode/p/23309174)
-9. [在 Apple Silicon Mac 上安装老版本 Ruby](https://www.cnblogs.com/zhanggui/p/23305738)
-10. [【Agentic RL / 强化学习框架】AstraFlow 架构解析：面向数据流的大规模强化学习系统](https://www.cnblogs.com/rossiXYZ/p/23263528)
-11. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
-12. [Personal Agent 真能越用越懂你吗？AdaptArena 揭示个性化 Web Agent 的失效链路](https://www.cnblogs.com/Qiniu-developer/p/23304875)
-13. [将 Kubernetes 部署扩展到多个Region区域：GitOps 参考架构](https://www.cnblogs.com/Jame-mei/p/23304060)
-14. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
-15. [从零构建一个高性能异步任务编排框架](https://www.cnblogs.com/sun-10387834/p/23303295)
-16. [185,000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能](https://www.cnblogs.com/uniqueDong/p/23302386)
-17. [流量监控四大金刚：NetStream、sFlow、Telemetry、镜像](https://www.cnblogs.com/Johny-zhao/p/23300694)
-18. [Koog(4)—— Agent Skills 和 Tools](https://www.cnblogs.com/joy99/p/23277049)
-19. [AI Agent 为什么不能随便放权？一文搞懂 Plan、Default 与 Auto 三种运行模式](https://www.cnblogs.com/Tomorrowland/p/23299257)
-20. [PID 的三个参数之外：位置式、增量式和反馈控制](https://www.cnblogs.com/zw-awa/p/23299246)
+1. [Langchain简单快速上手教程（七）—— 核心组件之消息](https://www.cnblogs.com/mengyingblog/p/23311006)
+2. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
+3. [黑盒与白盒：人是怎么把世界装进口袋的](https://www.cnblogs.com/zw-awa/p/23310197)
+4. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
+5. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
+6. [SQL 数据库NULL值判断](https://www.cnblogs.com/WearOpenWei/p/23309534)
+7. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+8. [OpenCSG.NET CSG几何内核测试体系实践笔记](https://www.cnblogs.com/znlgis/p/23309432)
+9. [Radzen 6.0.0 这几个 API 坑，我替你踩了](https://www.cnblogs.com/shenchuanchao/p/23302736/radzen-6-0-0-api-pitfalls-lessons)
+10. [6. DevEco Studio环境搭建，鸿蒙开发入门第一步(macOS版)](https://www.cnblogs.com/halfcode/p/23309174)
+11. [在 Apple Silicon Mac 上安装老版本 Ruby](https://www.cnblogs.com/zhanggui/p/23305738)
+12. [【Agentic RL / 强化学习框架】AstraFlow 架构解析：面向数据流的大规模强化学习系统](https://www.cnblogs.com/rossiXYZ/p/23263528)
+13. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
+14. [Personal Agent 真能越用越懂你吗？AdaptArena 揭示个性化 Web Agent 的失效链路](https://www.cnblogs.com/Qiniu-developer/p/23304875)
+15. [将 Kubernetes 部署扩展到多个Region区域：GitOps 参考架构](https://www.cnblogs.com/Jame-mei/p/23304060)
+16. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
+17. [从零构建一个高性能异步任务编排框架](https://www.cnblogs.com/sun-10387834/p/23303295)
+18. [185,000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能](https://www.cnblogs.com/uniqueDong/p/23302386)
+19. [流量监控四大金刚：NetStream、sFlow、Telemetry、镜像](https://www.cnblogs.com/Johny-zhao/p/23300694)
+20. [Koog(4)—— Agent Skills 和 Tools](https://www.cnblogs.com/joy99/p/23277049)
 
 ## 精华帖子
 
