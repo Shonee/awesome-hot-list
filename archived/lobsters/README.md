@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-15 15:44:08
+> 更新时间：2026-10-15 16:19:09
 
 ## Hottest
 
@@ -22,9 +22,9 @@
 16. [The DelightQL Query Language](https://delightql.org)
 17. [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
 18. [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
-19. [A UAF turned RCE](https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/)
-20. [We found a Tencent agent fleet](https://swarmcha.se/posts/chinese-agent-fleet-full-report)
-21. [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
+19. [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
+20. [A UAF turned RCE](https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/)
+21. [We found a Tencent agent fleet](https://swarmcha.se/posts/chinese-agent-fleet-full-report)
 22. [An Emulator Writer's HOWTO for Static Binary Translation](https://www.gtoal.com/sbt/)
 23. [Compiler bootstrapping depends on more than you might think](https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges)
 24. [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)

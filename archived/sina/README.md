@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-15 15:43:08
+> 更新时间：2026-10-15 16:18:22
 
 ## 新闻热榜
 
@@ -33,17 +33,17 @@
 4. [操盘必读：影响股市利好或利空消息_2026年10月15日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-15/doc-inivhawr7460549.shtml)
 5. [三位美联储官员接连表态：通胀令人失望，但10月加息不必操之过急](https://finance.sina.com.cn/money/forex/forexroll/2026-10-15/doc-inivhawy1248440.shtml)
 6. [刷新世界纪录！我国量子网络领域实现关键技术突破](https://finance.sina.com.cn/wm/2026-10-15/doc-inivhiep7384183.shtml)
-7. [官方通报“男子在高铁座位脱裤排便”：已行政拘留，相关区域已全面清洁消毒](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawy1182587.shtml)
-8. [AI短剧，突然火了！这些概念股滞涨（附股）](https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawt8186071.shtml)
-9. [何立峰会见美国桥水投资公司创始人达利欧](https://finance.sina.com.cn/roll/2026-10-15/doc-inivhiew1266330.shtml)
+7. [何立峰会见美国桥水投资公司创始人达利欧](https://finance.sina.com.cn/roll/2026-10-15/doc-inivhiew1266330.shtml)
+8. [官方通报“男子在高铁座位脱裤排便”：已行政拘留，相关区域已全面清洁消毒](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawy1182587.shtml)
+9. [AI短剧，突然火了！这些概念股滞涨（附股）](https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawt8186071.shtml)
 10. [利空突袭，全线跳水！美联储，加息大消息！](https://finance.sina.com.cn/stock/zqgd/2026-10-15/doc-inivhaww4487412.shtml)
 11. [伊朗革命卫队发言人：伊朗已做好准备应对任何新的侵略](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfmyx7578462.shtml)
 12. [实测20家银行积存金业务：交易成本相差可达6倍 金价后续怎么走](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfmyx7579941.shtml)
 13. [社融增量超27万亿元 直接融资占比上升](https://finance.sina.com.cn/roll/2026-10-15/doc-inivfmzh1297978.shtml)
-14. [24小时内两艘货船遭袭沉没！霍尔木兹海峡局势持续升级](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfsie1217922.shtml)
-15. [股海导航_2026年10月15日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-15/doc-inivhawy1263997.shtml)
-16. [10月15日收盘：美国股市周三收低 芯片股延续近期跌势](https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwqy4419644.shtml)
-17. [长鑫科技新型架构撼动存储市场 海外龙头垄断壁垒面临重估](https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawy1221047.shtml)
-18. [四大证券报头版头条内容精华摘要_2026年10月15日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-15/doc-inivhaww4459901.shtml)
-19. [79岁陶华碧用AI一年赚54亿？你真信了，就掉坑里去了](https://finance.sina.com.cn/wm/2026-10-15/doc-inivhawt8210288.shtml)
-20. [中汽协、比亚迪、吉利、奇瑞，同时发声](https://finance.sina.com.cn/wm/2026-10-15/doc-inivhier8093984.shtml)
+14. [创指午后跌超4%刷新年内新低 李大霄：沪指跌破3700点主要受外围影响 稳市机制正推进 仍要保持信心](https://finance.sina.com.cn/tob/2026-10-15/doc-inivhtui7339696.shtml)
+15. [24小时内两艘货船遭袭沉没！霍尔木兹海峡局势持续升级](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfsie1217922.shtml)
+16. [长鑫科技新型架构撼动存储市场 海外龙头垄断壁垒面临重估](https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawy1221047.shtml)
+17. [股海导航_2026年10月15日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-15/doc-inivhawy1263997.shtml)
+18. [成都市原市长王凤朝被逮捕、提起公诉](https://finance.sina.com.cn/wm/2026-10-15/doc-inivhier8203732.shtml)
+19. [10月15日收盘：美国股市周三收低 芯片股延续近期跌势](https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwqy4419644.shtml)
+20. [四大证券报头版头条内容精华摘要_2026年10月15日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-15/doc-inivhaww4459901.shtml)

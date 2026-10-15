@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-15 09:46:13
+> 更新时间：2026-10-15 16:18:00
 
 ## 每日趋势
 
@@ -72,9 +72,10 @@
 11. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
 12. [beam](https://github.com/apache/beam)
 13. [MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
-14. [jadx](https://github.com/skylot/jadx)
-15. [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
-16. [shenyu](https://github.com/apache/shenyu)
+14. [DnsConf](https://github.com/noVibe/DnsConf)
+15. [jadx](https://github.com/skylot/jadx)
+16. [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
+17. [shenyu](https://github.com/apache/shenyu)
 
 ## Python
 

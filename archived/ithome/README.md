@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-15 15:43:31
+> 更新时间：2026-10-15 16:18:26
 
 ## 日榜
 
@@ -15,4 +15,4 @@
 9. [彭博社：苹果有望 12 月随 iOS 27.3 在国内推出首波 Apple Intelligence 功能](https://www.ithome.com/1/013/162.htm)
 10. [小米用户专属：Goodnotes 宣布可在小米平板限时领永久会员](https://www.ithome.com/1/013/098.htm)
 11. [苹果 AI 国内供应商浮出水面：阿里、百度，消息称 12 月 iOS 27.3 上线](https://www.ithome.com/1/013/257.htm)
-12. [消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国](https://www.ithome.com/1/013/105.htm)
+12. [小米澎湃 OS 4 首批正式版开启推送，覆盖小米 17 系列、REDMI K100/K90 系列等](https://www.ithome.com/1/013/261.htm)
