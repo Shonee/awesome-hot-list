@@ -1,21 +1,21 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-17 06:11:09
+> 更新时间：2026-10-17 07:10:37
 
 ## 人气热门
 
 1. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.13)](https://www.52pojie.cn/thread-2132239-1-1.html)
-2. [摸鱼工具--把小说藏进 Word里看 v1.2](https://www.52pojie.cn/thread-2132112-1-1.html)
-3. [智能深度磁盘清理优化 MangoDisk v1.1.8](https://www.52pojie.cn/thread-2132356-1-1.html)
-4. [广告自动跳过工具 GKD v1.13.0-beta-2](https://www.52pojie.cn/thread-2132357-1-1.html)
+2. [PDF编辑全能王1.0.16](https://www.52pojie.cn/thread-2132513-1-1.html)
+3. [广告自动跳过工具 GKD v1.13.0-beta-2](https://www.52pojie.cn/thread-2132357-1-1.html)
+4. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
 5. [(更新）拼图打印工具V1.3](https://www.52pojie.cn/thread-2131727-1-1.html)
-6. [证件照处理工具1015更新](https://www.52pojie.cn/thread-2131772-1-1.html)
-7. [PDF工具集套装 PDFgear v3.0.0](https://www.52pojie.cn/thread-2132768-1-1.html)
-8. [硬盘检测及监控工具 CrystalDiskInfo 9.9.3 单文件绿色版](https://www.52pojie.cn/thread-2132036-1-1.html)
-9. [谷歌相机75合18.4.300.41](https://www.52pojie.cn/thread-2132514-1-1.html)
-10. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
-11. [MX播放器 mx player v3.3.0 v3 安卓离线播放器 无广告](https://www.52pojie.cn/thread-2131363-1-1.html)
-12. [PDF编辑全能王1.0.16](https://www.52pojie.cn/thread-2132513-1-1.html)
+6. [智能深度磁盘清理优化 MangoDisk v1.1.8](https://www.52pojie.cn/thread-2132356-1-1.html)
+7. [摸鱼工具--把小说藏进 Word里看 v1.2](https://www.52pojie.cn/thread-2132112-1-1.html)
+8. [证件照处理工具1015更新](https://www.52pojie.cn/thread-2131772-1-1.html)
+9. [PDF工具集套装 PDFgear v3.0.0](https://www.52pojie.cn/thread-2132768-1-1.html)
+10. [硬盘检测及监控工具 CrystalDiskInfo 9.9.3 单文件绿色版](https://www.52pojie.cn/thread-2132036-1-1.html)
+11. [谷歌相机75合18.4.300.41](https://www.52pojie.cn/thread-2132514-1-1.html)
+12. [MX播放器 mx player v3.3.0 v3 安卓离线播放器 无广告](https://www.52pojie.cn/thread-2131363-1-1.html)
 13. [微软常用运行库合集 2026.10.14](https://www.52pojie.cn/thread-2132548-1-1.html)
 14. [红果免费漫剧 —— MT管理器手机端去广告详细教程](https://www.52pojie.cn/thread-2132342-1-1.html)
 15. [闲鱼谷歌版-7.27.96.3](https://www.52pojie.cn/thread-2132005-1-1.html)
