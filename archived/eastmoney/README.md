@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-16 17:15:20
+> 更新时间：2026-10-16 18:12:59
 
 ## 股票人气榜
 
@@ -15,12 +15,12 @@
 9. [万丰奥威 (002085)](https://quote.eastmoney.com/sz002085.html)
 10. [杭电股份 (603618)](https://quote.eastmoney.com/sh603618.html)
 11. [远东股份 (600869)](https://quote.eastmoney.com/sh600869.html)
-12. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
-13. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
-14. [东百集团 (600693)](https://quote.eastmoney.com/sh600693.html)
-15. [华力创通 (300045)](https://quote.eastmoney.com/sz300045.html)
-16. [宗申动力 (001696)](https://quote.eastmoney.com/sz001696.html)
-17. [中信海直 (000099)](https://quote.eastmoney.com/sz000099.html)
-18. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
+12. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
+13. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
+14. [宗申动力 (001696)](https://quote.eastmoney.com/sz001696.html)
+15. [中信海直 (000099)](https://quote.eastmoney.com/sz000099.html)
+16. [东百集团 (600693)](https://quote.eastmoney.com/sh600693.html)
+17. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
+18. [华力创通 (300045)](https://quote.eastmoney.com/sz300045.html)
 19. [莱美药业 (300006)](https://quote.eastmoney.com/sz300006.html)
 20. [C联亚 (301569)](https://quote.eastmoney.com/sz301569.html)
