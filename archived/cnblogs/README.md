@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-16 09:05:13
+> 更新时间：2026-10-16 09:45:19
 
 ## 最新帖子
 
-1. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
-2. [使用wireshark抓包时，如何快速根据抓包地址判断过滤哪个接口](https://www.cnblogs.com/zjdxr-up/p/23317606)
-3. [技术思考问题24：QPS冲上十万，P99爆炸也算赢？](https://www.cnblogs.com/snidget/p/23322197)
-4. [SaveChanges 一万行？换批量操作快 10 倍](https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster)
-5. [调试集成系统时，常用的 URL 编解码小工具](https://www.cnblogs.com/jyzhao/p/23321863)
-6. [LLM | 投机解码：加速原理与实验结果](https://www.cnblogs.com/moonout/p/23321317)
-7. [第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23320316)
-8. [在 .NET 中优雅地合并并发请求（v2）](https://www.cnblogs.com/eventhorizon/p/23320338)
-9. [李超树学习笔记](https://www.cnblogs.com/MadeByEmu/p/23309072)
-10. [你的游戏本身就是 Harness ：如何让 AI Agent 读懂游戏并十倍加速迭代？](https://www.cnblogs.com/leikooo/p/23320100)
-11. [用 Pydantic AI 从零搭建一个能干活的 AI Agent](https://www.cnblogs.com/wang_yb/p/23319546)
-12. [并发编程（十）：BlockingQueue 与 Channel 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23319538)
-13. [华为VXLAN分布式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23318577)
-14. [Oracle 与 MySQL 索引重建及表健康性检测](https://www.cnblogs.com/liuziyi1/p/23318246)
-15. [MQTT实战 - MQTT vs HTTP：为什么你的物联网项目上线就崩？（二）](https://www.cnblogs.com/hugogoos/p/23317103)
-16. [一文搞懂 Agent TODO：AI 是如何把复杂任务一步步做完的？](https://www.cnblogs.com/Tomorrowland/p/23316817)
-17. [从数组到智能：Python数据科学与人工智能生态全景](https://www.cnblogs.com/apachecn/p/23316748)
-18. [为什么越来越多人用Quarkus？](https://www.cnblogs.com/12lisu/p/23316231)
-19. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
-20. [从 Skills 到可靠的 Bugfix Agent](https://www.cnblogs.com/dtux/p/23314675)
+1. [Koog(5) —— Strategy 详解：工作流编排、并行执行与状态传递](https://www.cnblogs.com/joy99/p/23320228)
+2. [Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL](https://www.cnblogs.com/zrui-xyu/p/23323227)
+3. [UI Composition 技术在传统 Win32 窗口中绘制圆角矩形](https://www.cnblogs.com/liulun/p/23323199)
+4. [先把轮子转稳，才不会烧心：编码器速度环 PID 怎么接回 PWM](https://www.cnblogs.com/zw-awa/p/23323135)
+5. [Linux nohup 命令完全指南](https://www.cnblogs.com/exioran/p/23314785)
+6. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
+7. [使用wireshark抓包时，如何快速根据抓包地址判断过滤哪个接口](https://www.cnblogs.com/zjdxr-up/p/23317606)
+8. [技术思考问题24：QPS冲上十万，P99爆炸也算赢？](https://www.cnblogs.com/snidget/p/23322197)
+9. [SaveChanges 一万行？换批量操作快 10 倍](https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster)
+10. [调试集成系统时，常用的 URL 编解码小工具](https://www.cnblogs.com/jyzhao/p/23321863)
+11. [LLM | 投机解码：加速原理与实验结果](https://www.cnblogs.com/moonout/p/23321317)
+12. [第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23320316)
+13. [在 .NET 中优雅地合并并发请求（v2）](https://www.cnblogs.com/eventhorizon/p/23320338)
+14. [李超树学习笔记](https://www.cnblogs.com/MadeByEmu/p/23309072)
+15. [你的游戏本身就是 Harness ：如何让 AI Agent 读懂游戏并十倍加速迭代？](https://www.cnblogs.com/leikooo/p/23320100)
+16. [用 Pydantic AI 从零搭建一个能干活的 AI Agent](https://www.cnblogs.com/wang_yb/p/23319546)
+17. [并发编程（十）：BlockingQueue 与 Channel 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23319538)
+18. [华为VXLAN分布式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23318577)
+19. [Oracle 与 MySQL 索引重建及表健康性检测](https://www.cnblogs.com/liuziyi1/p/23318246)
+20. [MQTT实战 - MQTT vs HTTP：为什么你的物联网项目上线就崩？（二）](https://www.cnblogs.com/hugogoos/p/23317103)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://www.cnblogs.com/jinjiangongzuoshi/p/23295698)
-2. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
-3. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
-4. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
-5. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
-6. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
+1. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+2. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
+3. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
+4. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
+5. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
+6. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
