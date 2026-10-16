@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-16 23:38:15
+> 更新时间：2026-10-17 00:39:11
 
 ## 24 小时热榜
 
@@ -16,24 +16,24 @@
 10. [腾讯 WorkBuddy、CodeBuddy 团队公布 DeepSeek 模型服务异常补偿方案](https://readhub.cn/topic/8xGg5gZwynn?tab=daily)
 11. [苹果 CEO 特努斯登《时代》封面，iPhone Duo 入选 2026 最佳发明](https://readhub.cn/topic/8xFeBVpC3IG?tab=daily)
 12. [保时捷发布全新超跑概念车，冲击法拉利所在高端市场](https://readhub.cn/topic/8xF6Zi9zowM?tab=daily)
-13. [长安汽车掌舵人调整 赵非接替朱华荣担任董事长](https://readhub.cn/topic/8xH0Sd29YzQ?tab=daily)
-14. [阿里巴巴、台积电在列 美股期权交易时段下周扩容](https://readhub.cn/topic/8xG3Uq8t0Ko?tab=daily)
-15. [9 月新能源乘用车电池装车量排名出炉：宁德时代居首](https://readhub.cn/topic/8xFCGLSSBym?tab=daily)
-16. [库克：AI 应用正迎来爆发式增长 已显著影响供应链](https://readhub.cn/topic/8xGRnHTbfT7?tab=daily)
-17. [估值 220 亿机器人项目老股打五折仍难脱手](https://readhub.cn/topic/8xGa4bPrLZf?tab=daily)
-18. [苹果首款触屏 MacBook Pro 有望 11 月 6 日开售](https://readhub.cn/topic/8xFUsWHjfYu?tab=daily)
-19. [京东采销员工造谣诋毁其他平台被抖音电商起诉 法院已立案](https://readhub.cn/topic/8xFPqE2vYd1?tab=daily)
-20. [开发者用 Opus 5.5 仅 16 天把《小王子》做成 3D 游戏](https://readhub.cn/topic/8xGQkclXDKG?tab=daily)
-21. [特斯拉第二代 Roadster 跑车将于北京时间 10 月 16 日正式亮相](https://readhub.cn/topic/8xGQjgreHIC?tab=daily)
+13. [京东采销员工造谣诋毁其他平台被抖音电商起诉 法院已立案](https://readhub.cn/topic/8xFPqE2vYd1?tab=daily)
+14. [长安汽车掌舵人调整 赵非接替朱华荣担任董事长](https://readhub.cn/topic/8xH0Sd29YzQ?tab=daily)
+15. [阿里巴巴、台积电在列 美股期权交易时段下周扩容](https://readhub.cn/topic/8xG3Uq8t0Ko?tab=daily)
+16. [9 月新能源乘用车电池装车量排名出炉：宁德时代居首](https://readhub.cn/topic/8xFCGLSSBym?tab=daily)
+17. [库克：AI 应用正迎来爆发式增长 已显著影响供应链](https://readhub.cn/topic/8xGRnHTbfT7?tab=daily)
+18. [估值 220 亿机器人项目老股打五折仍难脱手](https://readhub.cn/topic/8xGa4bPrLZf?tab=daily)
+19. [开发者用 Opus 5.5 仅 16 天把《小王子》做成 3D 游戏](https://readhub.cn/topic/8xGQkclXDKG?tab=daily)
+20. [特斯拉第二代 Roadster 跑车将于北京时间 10 月 16 日正式亮相](https://readhub.cn/topic/8xGQjgreHIC?tab=daily)
+21. [苹果首款触屏 MacBook Pro 有望 11 月 6 日开售](https://readhub.cn/topic/8xFUsWHjfYu?tab=daily)
 22. [专访前阿里副总裁叶军：离职后创业做外贸 AI Agent 赛道](https://readhub.cn/topic/8xGLNXZ6F5X?tab=daily)
-23. [苹果已向媒体发邀请 10 月 28 日或推出多款 Mac 和 iPad 新品](https://readhub.cn/topic/8xFr0vRLXzB?tab=daily)
-24. [极氪 7X 雨雾天坠下约 60 米高架桥，车主发帖报平安称下一辆还是极氪](https://readhub.cn/topic/8xF08KcF1pL?tab=daily)
-25. [苹果与 Meta 合作，使 MuseAI 模型可在 Mac 电脑上运行](https://readhub.cn/topic/8xFr0qYBx4G?tab=daily)
-26. [DeepSeek 整合成立「产品部」，崔添翼担任负责人](https://readhub.cn/topic/8xGrbW9Xiyq?tab=daily)
-27. [可灵 AI 新一代模型 Kling 4.0 正式上线](https://readhub.cn/topic/8xGLMpBzyQ4?tab=daily)
-28. [华为阔直板手机 Pura X View 出货量超 71 万](https://readhub.cn/topic/8xGQjJprx1b?tab=daily)
-29. [库克时隔 3 年再次现身上海米哈游总部](https://readhub.cn/topic/8xGvXm4von0?tab=daily)
-30. [特斯拉美股夜盘涨超 2%，发布会展示 Roadster 短时离地及空中翻滚效果](https://readhub.cn/topic/8xGXsU3YmcP?tab=daily)
+23. [极氪 7X 雨雾天坠下约 60 米高架桥，车主发帖报平安称下一辆还是极氪](https://readhub.cn/topic/8xF08KcF1pL?tab=daily)
+24. [苹果已向媒体发邀请 10 月 28 日或推出多款 Mac 和 iPad 新品](https://readhub.cn/topic/8xFr0vRLXzB?tab=daily)
+25. [DeepSeek 整合成立「产品部」，崔添翼担任负责人](https://readhub.cn/topic/8xGrbW9Xiyq?tab=daily)
+26. [可灵 AI 新一代模型 Kling 4.0 正式上线](https://readhub.cn/topic/8xGLMpBzyQ4?tab=daily)
+27. [苹果与 Meta 合作，使 MuseAI 模型可在 Mac 电脑上运行](https://readhub.cn/topic/8xFr0qYBx4G?tab=daily)
+28. [京东称坚决维护员工合法权益 法务部将支持员工反诉并举报](https://readhub.cn/topic/8xHJlF6REVi?tab=daily)
+29. [华为阔直板手机 Pura X View 出货量超 71 万](https://readhub.cn/topic/8xGQjJprx1b?tab=daily)
+30. [库克时隔 3 年再次现身上海米哈游总部](https://readhub.cn/topic/8xGvXm4von0?tab=daily)
 
 ## 每日早报
 
