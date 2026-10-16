@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-16 19:12:28
+> 更新时间：2026-10-16 20:18:15
 
 ## 最新帖子
 
-1. [【南大软件分析-学习笔记】Lecture 5-Data Flow Analysis-Foundation（下）](https://www.cnblogs.com/yixiku/p/23332053)
-2. [AI 越强，被它拒绝的代价就越大](https://www.cnblogs.com/leikooo/p/23331970)
-3. [wujie 微前端踩坑实录：一个子应用的 7 个生产事故现场](https://www.cnblogs.com/ChineseLiao/p/23330749)
-4. [装了这么多年 .NET，微软终于把 rustup 那套搬过来了](https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup)
-5. [好题合集 2026.10](https://www.cnblogs.com/xita/p/23181193)
-6. [单日涨星2.5万！AI逆向工程REA到底强在哪？](https://www.cnblogs.com/chingho/p/23329759)
-7. [一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了](https://www.cnblogs.com/652769324qq/p/23328265)
-8. [给 REA 套一层 GUI：153 个命令的界面是怎么自动长出来的](https://www.cnblogs.com/wyang/p/23329180)
-9. [Linux 内核模块为什么不能在运行时处理兼容性问题？](https://www.cnblogs.com/KBin/p/23327958)
-10. [千万三角面工业模型网页轻量化手动减面与AI智能减面实操](https://www.cnblogs.com/startechnology/p/23327684)
-11. [把工程流程沉淀为 Agent 资产：一套可交接的四层工作流](https://www.cnblogs.com/huangrenhui/p/23327347)
-12. [瑞芯微rv1106进入Loader模式转储emmc数据](https://www.cnblogs.com/Johness/p/23325648)
-13. [AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的](https://www.cnblogs.com/uniqueDong/p/23324820)
-14. [CatBase 语言入门：像 Python 一样写，像 C 一样跑](https://www.cnblogs.com/forges/p/23324190)
-15. [10、数据通信产品的硬件架构：拆开设备，看清网络的骨骼](https://www.cnblogs.com/suhanmo/p/23324065)
-16. [学习NOTE——10 李超线段树](https://www.cnblogs.com/T-M-T/p/23324032)
-17. [Koog(5) —— Strategy 详解：工作流编排、并行执行与状态传递](https://www.cnblogs.com/joy99/p/23320228)
-18. [Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL](https://www.cnblogs.com/zrui-xyu/p/23323227)
-19. [UI Composition 技术在传统 Win32 窗口中绘制圆角矩形](https://www.cnblogs.com/liulun/p/23323199)
-20. [先把轮子转稳，才不会烧心：编码器速度环 PID 怎么接回 PWM](https://www.cnblogs.com/zw-awa/p/23323135)
+1. [笛卡尔树](https://www.cnblogs.com/lvwangshuOI/p/23332222)
+2. [【南大软件分析-学习笔记】Lecture 5-Data Flow Analysis-Foundation（下）](https://www.cnblogs.com/yixiku/p/23332053)
+3. [AI 越强，被它拒绝的代价就越大](https://www.cnblogs.com/leikooo/p/23331970)
+4. [wujie 微前端踩坑实录：一个子应用的 7 个生产事故现场](https://www.cnblogs.com/ChineseLiao/p/23330749)
+5. [装了这么多年 .NET，微软终于把 rustup 那套搬过来了](https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup)
+6. [好题合集 2026.10](https://www.cnblogs.com/xita/p/23181193)
+7. [单日涨星2.5万！AI逆向工程REA到底强在哪？](https://www.cnblogs.com/chingho/p/23329759)
+8. [一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了](https://www.cnblogs.com/652769324qq/p/23328265)
+9. [给 REA 套一层 GUI：153 个命令的界面是怎么自动长出来的](https://www.cnblogs.com/wyang/p/23329180)
+10. [Linux 内核模块为什么不能在运行时处理兼容性问题？](https://www.cnblogs.com/KBin/p/23327958)
+11. [千万三角面工业模型网页轻量化手动减面与AI智能减面实操](https://www.cnblogs.com/startechnology/p/23327684)
+12. [把工程流程沉淀为 Agent 资产：一套可交接的四层工作流](https://www.cnblogs.com/huangrenhui/p/23327347)
+13. [瑞芯微rv1106进入Loader模式转储emmc数据](https://www.cnblogs.com/Johness/p/23325648)
+14. [AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的](https://www.cnblogs.com/uniqueDong/p/23324820)
+15. [CatBase 语言入门：像 Python 一样写，像 C 一样跑](https://www.cnblogs.com/forges/p/23324190)
+16. [10、数据通信产品的硬件架构：拆开设备，看清网络的骨骼](https://www.cnblogs.com/suhanmo/p/23324065)
+17. [学习NOTE——10 李超线段树](https://www.cnblogs.com/T-M-T/p/23324032)
+18. [Koog(5) —— Strategy 详解：工作流编排、并行执行与状态传递](https://www.cnblogs.com/joy99/p/23320228)
+19. [Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL](https://www.cnblogs.com/zrui-xyu/p/23323227)
+20. [UI Composition 技术在传统 Win32 窗口中绘制圆角矩形](https://www.cnblogs.com/liulun/p/23323199)
 
 ## 精华帖子
 
