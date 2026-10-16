@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-16 20:19:24
+> 更新时间：2026-10-16 21:13:46
 
 ## Hottest
 
@@ -11,21 +11,21 @@
 5. [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
 6. [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
 7. [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
-8. [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
+8. [What are you doing this weekend?](https://lobste.rs/s/hounpx)
 9. [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
-10. [What are you doing this weekend?](https://lobste.rs/s/hounpx)
-11. [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
-12. [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
-13. [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
-14. [Where did WIN32_LEAN_AND_MEAN come from? (2009)](https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/)
-15. [The Costa GUI](https://costa.jacobpalm.dk)
-16. [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders)
-17. [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html)
-18. [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
-19. [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
-20. [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects)
-21. [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
-22. [coopiano: A physically modelled piano synthesizer in C++17](https://github.com/peterc/coopiano)
-23. [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
-24. [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html)
-25. [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
+10. [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
+11. [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
+12. [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
+13. [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders)
+14. [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
+15. [Where did WIN32_LEAN_AND_MEAN come from? (2009)](https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/)
+16. [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
+17. [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
+18. [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
+19. [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects)
+20. [coopiano: A physically modelled piano synthesizer in C++17](https://github.com/peterc/coopiano)
+21. [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
+22. [The Costa GUI](https://costa.jacobpalm.dk)
+23. [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html)
+24. [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
+25. [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
