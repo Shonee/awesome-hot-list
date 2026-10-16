@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-16 14:21:40
+> 更新时间：2026-10-16 15:41:24
 
 ## 24 小时热榜
 
@@ -11,29 +11,29 @@
 5. [深圳 APEC 会议周倡导灵活工作安排，未提及全市放假](https://readhub.cn/topic/8xEuQ8Z7gha?tab=daily)
 6. [懂车帝回应网传不实传言：已溯源取证将依法维权](https://readhub.cn/topic/8xF94LXEMlO?tab=daily)
 7. [三部门联合调查尊界 V800 制动问题，余承东表态：正义可能会迟到，但永远不会缺席](https://readhub.cn/topic/8xFpZriSclh?tab=daily)
-8. [传音控股赴港二次上市首日破发](https://readhub.cn/topic/8xEmXN2iZ7A?tab=daily)
-9. [17 岁核心技术贡献者陈广宇宣布离开月之暗面 Kimi 团队](https://readhub.cn/topic/8xFX11G7uUR?tab=daily)
-10. [特斯拉上架儿童平衡车 售价 1399 元](https://readhub.cn/topic/8xFSLWZQloT?tab=daily)
-11. [尊界汽车：将积极响应服从并全力配合联合调查组工作](https://readhub.cn/topic/8xFfYYo4eWg?tab=daily)
-12. [国内超一半 AI Token 消耗用于短剧生成，研发仅占 15%](https://readhub.cn/topic/8xFOSIYUmjp?tab=daily)
+8. [17 岁核心技术贡献者陈广宇宣布离开月之暗面 Kimi 团队](https://readhub.cn/topic/8xFX11G7uUR?tab=daily)
+9. [特斯拉上架儿童平衡车 售价 1399 元](https://readhub.cn/topic/8xFSLWZQloT?tab=daily)
+10. [国内超一半 AI Token 消耗用于短剧生成，研发仅占 15%](https://readhub.cn/topic/8xFOSIYUmjp?tab=daily)
+11. [马斯克展示 Roadster 喷气弹射起飞数米 透露 2028 年投产](https://readhub.cn/topic/8xGRUjxqqm8?tab=daily)
+12. [尊界汽车：将积极响应服从并全力配合联合调查组工作](https://readhub.cn/topic/8xFfYYo4eWg?tab=daily)
 13. [iPhone Duo 代抢费炒到 888 元 京东预约超 200 万](https://readhub.cn/topic/8xFORKlNVz6?tab=daily)
-14. [马斯克展示 Roadster 喷气弹射起飞数米 透露 2028 年投产](https://readhub.cn/topic/8xGRUjxqqm8?tab=daily)
+14. [OpenAI 千禧年难题证明反转：其未理解模型所用方法](https://readhub.cn/topic/8xFERx7vMYc?tab=daily)
 15. [新易盛：控股股东提议回购 8 亿至 10 亿元股份](https://readhub.cn/topic/8xFOQ1orSIB?tab=daily)
-16. [OpenAI 千禧年难题证明反转：其未理解模型所用方法](https://readhub.cn/topic/8xFERx7vMYc?tab=daily)
-17. [OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用](https://readhub.cn/topic/8xFIllc1eE6?tab=daily)
-18. [阿里巴巴、台积电在列 美股期权交易时段下周扩容](https://readhub.cn/topic/8xG3Uq8t0Ko?tab=daily)
-19. [恒逸石化：预计 2026 年前三季度净利同比增 3319%-3405%](https://readhub.cn/topic/8xFFAHLMjvJ?tab=daily)
-20. [苹果 CEO 特努斯登《时代》封面，iPhone Duo 入选 2026 最佳发明](https://readhub.cn/topic/8xFeBVpC3IG?tab=daily)
-21. [马斯克称特斯拉新款 Roadster 是史上最伟大的产品演示](https://readhub.cn/topic/8xGL0XbB84Y?tab=daily)
+16. [马斯克称特斯拉新款 Roadster 是史上最伟大的产品演示](https://readhub.cn/topic/8xGL0XbB84Y?tab=daily)
+17. [腾讯 WorkBuddy、CodeBuddy 团队公布 DeepSeek 模型服务异常补偿方案](https://readhub.cn/topic/8xGg5gZwynn?tab=daily)
+18. [OpenCode 加码免费模型调用，DeepSeek V4.1Flash 开放使用](https://readhub.cn/topic/8xFIllc1eE6?tab=daily)
+19. [苹果 CEO 特努斯登《时代》封面，iPhone Duo 入选 2026 最佳发明](https://readhub.cn/topic/8xFeBVpC3IG?tab=daily)
+20. [阿里巴巴、台积电在列 美股期权交易时段下周扩容](https://readhub.cn/topic/8xG3Uq8t0Ko?tab=daily)
+21. [恒逸石化：预计 2026 年前三季度净利同比增 3319%-3405%](https://readhub.cn/topic/8xFFAHLMjvJ?tab=daily)
 22. [9 月新能源乘用车电池装车量排名出炉：宁德时代居首](https://readhub.cn/topic/8xFCGLSSBym?tab=daily)
-23. [苹果双 11 推优惠 iPhone 18 Pro 系列可享叠加补贴](https://readhub.cn/topic/8xEdy7xgDV7?tab=daily)
+23. [保时捷发布全新超跑概念车，冲击法拉利所在高端市场](https://readhub.cn/topic/8xF6Zi9zowM?tab=daily)
 24. [芯片股市值蒸发 1 万亿美元 投资者逆势涌入半导体 ETF 抄底](https://readhub.cn/topic/8xFbzvj5IbP?tab=daily)
-25. [保时捷发布全新超跑概念车，冲击法拉利所在高端市场](https://readhub.cn/topic/8xF6Zi9zowM?tab=daily)
+25. [苹果双 11 推优惠 iPhone 18 Pro 系列可享叠加补贴](https://readhub.cn/topic/8xEdy7xgDV7?tab=daily)
 26. [iPhone 18 Pro 开售不足一月 用户反馈掉色](https://readhub.cn/topic/8xEqvAuWIra?tab=daily)
 27. [库克：AI 应用正迎来爆发式增长 已显著影响供应链](https://readhub.cn/topic/8xGRnHTbfT7?tab=daily)
 28. [苹果首款触屏 MacBook Pro 有望 11 月 6 日开售](https://readhub.cn/topic/8xFUsWHjfYu?tab=daily)
 29. [京东采销员工造谣诋毁其他平台被抖音电商起诉 法院已立案](https://readhub.cn/topic/8xFPqE2vYd1?tab=daily)
-30. [苹果与 Meta 合作，使 MuseAI 模型可在 Mac 电脑上运行](https://readhub.cn/topic/8xFr0qYBx4G?tab=daily)
+30. [估值 220 亿机器人项目老股打五折仍难脱手](https://readhub.cn/topic/8xGa4bPrLZf?tab=daily)
 
 ## 每日早报
 
