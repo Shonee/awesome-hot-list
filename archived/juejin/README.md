@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-16 09:45:16
+> 更新时间：2026-10-16 10:16:14
 
 ## 热门文章
 
@@ -34,23 +34,23 @@
 28. [workbuddy · qoder · trae [ 不用开机，云端签到 ]](https://juejin.cn/post/7695757963636457498)
 29. [别把人生过成一场等待退休的倒计时](https://juejin.cn/post/7695958498476064795)
 30. [Flutter Android 改动：APK 不再允许通过 Intent 动态修改 Engine 参数](https://juejin.cn/post/7696437668125851674)
-31. [从一座城市钻进一个房间：Three.js + Blender 做一个五级钻取的数字楼宇大屏](https://juejin.cn/post/7695732727548280872)
-32. [Gemini 4 Argon 正式发布！](https://juejin.cn/post/7696085941626912831)
+31. [Gemini 4 Argon 正式发布！](https://juejin.cn/post/7696085941626912831)
+32. [从一座城市钻进一个房间：Three.js + Blender 做一个五级钻取的数字楼宇大屏](https://juejin.cn/post/7695732727548280872)
 33. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://juejin.cn/post/7696448963306356746)
-34. [《AI 成了我的工位搭子，也成了我的焦虑来源》](https://juejin.cn/post/7696085941627191359)
-35. [Kotlin 2.5 的 Companion 改造，对 KMP 的重要升级](https://juejin.cn/post/7696048084749746226)
+34. [Kotlin 2.5 的 Companion 改造，对 KMP 的重要升级](https://juejin.cn/post/7696048084749746226)
+35. [《AI 成了我的工位搭子，也成了我的焦虑来源》](https://juejin.cn/post/7696085941627191359)
 36. [REA 一周 12 万星，但我上个月就拆完百度网盘了](https://juejin.cn/post/7695618100750123049)
-37. [货拉拉业务 Agent 评测平台的工程实践与深度思考](https://juejin.cn/post/7696029445103255606)
+37. [Gemini 4上线！又回到御三家了？](https://juejin.cn/post/7696324130459467827)
 38. [一个人 + AI，58 天：首周 258 个玩家，本周 10 个，收入 0 元](https://juejin.cn/post/7695671592383971382)
-39. [Gemini 4上线！又回到御三家了？](https://juejin.cn/post/7696324130459467827)
+39. [货拉拉业务 Agent 评测平台的工程实践与深度思考](https://juejin.cn/post/7696029445103255606)
 40. [毁掉 Android 现代架构，只需要一个自定义的“FlowBus”](https://juejin.cn/post/7696326603062345778)
 41. [MQTT实战 - 用了8年MQTT，我为什么还要重新系统啃一遍（一）](https://juejin.cn/post/7695977951250989056)
 42. [我给 NestJS 管理后台装上了"会干活"的 AI Agent](https://juejin.cn/post/7695687760272277519)
 43. [1.7 万起步，黄仁勋这次把 AI 塞进笔记本了](https://juejin.cn/post/7696029445103058998)
 44. [我抓了 5 个内存泄漏现行，最狠的一个 91MB](https://juejin.cn/post/7696060477454352399)
 45. [一周 10 万星的 REA「逆向一切」，到底革了什么命？](https://juejin.cn/post/7695958498477211675)
-46. [Draw Things 换装 LoRA 实战：用 Silo 秒装，同一提示词对比出图](https://juejin.cn/post/7696056043499470882)
-47. [实战项目一——实现一个高性能图片滤镜App](https://juejin.cn/post/7695656674828664868)
+46. [实战项目一——实现一个高性能图片滤镜App](https://juejin.cn/post/7695656674828664868)
+47. [Draw Things 换装 LoRA 实战：用 Silo 秒装，同一提示词对比出图](https://juejin.cn/post/7696056043499470882)
 48. [给AI配一台电脑，开源版Muse来了，OpenMuse赶紧去二次开发吧](https://juejin.cn/post/7696056043500208162)
 49. [ERP选型时不问MCP，等于默认三年后再付一次集成费!](https://juejin.cn/post/7696005650720210987)
 50. [崩溃率从 0.3% 到 0.04%：我们做对的不是修 bug，是让每个崩溃只发生一次](https://juejin.cn/post/7695958498475966491)
