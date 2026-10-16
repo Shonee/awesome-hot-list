@@ -1,14 +1,14 @@
 # IT之家热榜
 
-> 更新时间：2026-10-17 03:11:14
+> 更新时间：2026-10-17 04:12:55
 
 ## 日榜
 
 1. [这次能飞了！特斯拉第二代 Roadster 跑车正式亮相](https://www.ithome.com/1/013/734.htm)
 2. [今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右](https://www.ithome.com/1/013/731.htm)
 3. [“疯狂小杨哥”张庆杨宣布复播：注销原抖音账号，启用新号“庆杨”](https://www.ithome.com/1/014/101.htm)
-4. [国铁集团启动全国铁路列车车次编排改革：旅客列车增改 X、T、K、N、V 等字头字母，信息更直观](https://www.ithome.com/1/013/840.htm)
-5. [苹果首款折叠屏手机 iPhone Duo 预约火爆，官网排到明年发货](https://www.ithome.com/1/014/157.htm)
+4. [苹果首款折叠屏手机 iPhone Duo 预约火爆，官网排到明年发货](https://www.ithome.com/1/014/157.htm)
+5. [国铁集团启动全国铁路列车车次编排改革：旅客列车增改 X、T、K、N、V 等字头字母，信息更直观](https://www.ithome.com/1/013/840.htm)
 6. [江淮汽车涨停，工信部等三部门联合调查有关车辆刹车踏板支架断裂问题](https://www.ithome.com/1/013/742.htm)
 7. [iPad mini 8 悬念再起，苹果已测试 60Hz 与 120Hz 两种 OLED 屏幕](https://www.ithome.com/1/013/704.htm)
 8. [特斯拉能飞：第二代 Roadster 预订意向金 33.2 万元起，马斯克宣布 2028 年量产](https://www.ithome.com/1/013/748.htm)

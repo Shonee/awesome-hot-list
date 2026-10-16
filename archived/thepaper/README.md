@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-17 03:10:41
+> 更新时间：2026-10-17 04:12:46
 
 ## 热新闻
 
@@ -12,8 +12,8 @@
 6. [能飞还会空中翻滚！特斯拉新款Roadster跑车亮相，马斯克称2028年量产](https://www.thepaper.cn/newsDetail_forward_34261270)
 7. [最后的采访｜哲学家楼宇烈：在中国传统中，寻找时代困境的解法](https://www.thepaper.cn/newsDetail_forward_34255069)
 8. [言短意长｜雷波县“县政府主要负责同志”可以有名字](https://www.thepaper.cn/newsDetail_forward_34261235)
-9. [奔赴“县”场｜“江西小炒”出圈，一座赣南小城为何成为赢家](https://www.thepaper.cn/newsDetail_forward_34256903)
-10. [下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空](https://www.thepaper.cn/newsDetail_forward_34265063)
+9. [下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空](https://www.thepaper.cn/newsDetail_forward_34265063)
+10. [奔赴“县”场｜“江西小炒”出圈，一座赣南小城为何成为赢家](https://www.thepaper.cn/newsDetail_forward_34256903)
 11. [澎湃回声｜两个400号码涉嫌假冒品牌客服，关联公司被南京两区市监局调查](https://www.thepaper.cn/newsDetail_forward_34258031)
 12. [贵州一男子“楼上百日宴楼下办婚宴”，律师解析重婚认定门槛：共同生活，不等于“夫妻名义”](https://www.thepaper.cn/newsDetail_forward_34262998)
 13. [同款暖心服务！深圳机场提供2元单片布洛芬引热议，记者实测上海浦东机场也可按需提供](https://www.thepaper.cn/newsDetail_forward_34257849)
@@ -22,5 +22,5 @@
 16. [平台售卖“中国天眼深度科普体验”项目被查，央媒：科研重地不容“付费通关”](https://www.thepaper.cn/newsDetail_forward_34260930)
 17. [启东老宅婚礼“深情对视”视频刷屏，新郎回应：不是摆拍，相爱的人都差不多](https://www.thepaper.cn/newsDetail_forward_34264265)
 18. [“苹果卡嘴取不下来”火上热搜：女子否认摆拍晒急诊缴费单，医院工作人员回应](https://www.thepaper.cn/newsDetail_forward_34256307)
-19. [库克：中国几乎所有人都在积极拥抱AI，令人印象深刻](https://www.thepaper.cn/newsDetail_forward_34261252)
-20. [四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理](https://www.thepaper.cn/newsDetail_forward_34264638)
+19. [四部门：组织30余家车企座谈，加强汽车产品研发测试验证管理](https://www.thepaper.cn/newsDetail_forward_34264638)
+20. [库克：中国几乎所有人都在积极拥抱AI，令人印象深刻](https://www.thepaper.cn/newsDetail_forward_34261252)

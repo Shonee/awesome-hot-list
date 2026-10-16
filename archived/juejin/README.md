@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-17 03:10:26
+> 更新时间：2026-10-17 04:12:01
 
 ## 热门文章
 
@@ -11,8 +11,8 @@
 5. [AI 时代，软件程序员未来 10—15 年的职业前景](https://juejin.cn/post/7696118815168954419)
 6. [腾讯又交作业了，开源版 WorkBuddy 太夯了！这回是只粉色小章鱼Octop!](https://juejin.cn/post/7696461528959090731)
 7. [使用 cad-viewer 搭建「预渲染 + 静态托管」的云端看图方案](https://juejin.cn/post/7696414863695708200)
-8. [程序员 1v1 访谈系列第二期：很焦虑但又不知道干啥](https://juejin.cn/post/7696056043500716066)
-9. [本来只想给内网开个口子，Natapp 却多给了一道防护](https://juejin.cn/post/7697075629647003698)
+8. [本来只想给内网开个口子，Natapp 却多给了一道防护](https://juejin.cn/post/7697075629647003698)
+9. [程序员 1v1 访谈系列第二期：很焦虑但又不知道干啥](https://juejin.cn/post/7696056043500716066)
 10. [我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司（Day 1）](https://juejin.cn/post/7696083307454038026)
 11. [汽水music自动看广告领取VIP](https://juejin.cn/post/7696662898144870451)
 12. [Qoder sonus模型 20分钟，复刻 马斯克 飞天汽车](https://juejin.cn/post/7696838570036314148)
@@ -34,9 +34,9 @@
 28. [前端转全栈最低成本的技术栈选择](https://juejin.cn/post/7696713457149362230)
 29. [前端是如何死去的？| 完整时间线](https://juejin.cn/post/7696709714028216370)
 30. [Juejin Usage v0.1.14更新：看清 AI 用量和订阅额度](https://juejin.cn/post/7696137182473764864)
-31. [日合并 3 万次之后，Anthropic 换掉了 Git](https://juejin.cn/post/7696455640667586596)
+31. [一周 10 万星的 REA「逆向一切」，到底革了什么命？](https://juejin.cn/post/7695958498477211675)
 32. [写了这么久 Kotlin，你真的理解 in、out 和 * 吗？](https://juejin.cn/post/7696029445102567478)
-33. [一周 10 万星的 REA「逆向一切」，到底革了什么命？](https://juejin.cn/post/7695958498477211675)
+33. [日合并 3 万次之后，Anthropic 换掉了 Git](https://juejin.cn/post/7696455640667586596)
 34. [为什么越来越多人用Quarkus？](https://juejin.cn/post/7696499984355442723)
 35. [给AI配一台电脑，开源版Muse来了，OpenMuse赶紧去二次开发吧](https://juejin.cn/post/7696056043500208162)
 36. [不用写一行Three.js代码，也能搭出复杂数字孪生场景](https://juejin.cn/post/7696080841777053734)
@@ -50,7 +50,7 @@
 44. [全球科技前沿日报 | 2026年10月14日](https://juejin.cn/post/7696051868467773490)
 45. [实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra](https://juejin.cn/post/7696046079674974227)
 46. [Shorebird 的国内版来了？](https://juejin.cn/post/7696040591158034451)
-47. [70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）](https://juejin.cn/post/7696894428132294665)
+47. [iOS 27 兼容放大模式下，keyboardFrame 与 UIScreen.bounds 的坐标差异](https://juejin.cn/post/7696090442723393576)
 48. [我把 nvm、jenv、pyenv 全卸了：一个 Rust 单文件管完 40+ 开发工具](https://juejin.cn/post/7696713457148706870)
-49. [iOS 27 兼容放大模式下，keyboardFrame 与 UIScreen.bounds 的坐标差异](https://juejin.cn/post/7696090442723393576)
+49. [70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）](https://juejin.cn/post/7696894428132294665)
 50. [记账 App 我装了删、删了装，最后自己写了一个：本地语音识别 + R8 踩坑复盘](https://juejin.cn/post/7695732727549526056)
