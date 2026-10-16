@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-17 02:15:47
+> 更新时间：2026-10-17 03:10:49
 
 ## 新闻热榜
 
 1. [巴黎4-2终结曼城8连胜 哈兰德双响难救主杜埃登贝莱传射费兰失点](https://news.sina.com.cn/zx/2026-10-15/doc-inivfwra1225576.shtml)
 2. [美国国务卿鲁比奥与阿根廷总统米莱讨论扩大贸易与投资事宜。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8366949.shtml)
-3. [波兰货币政策委员会委员达布罗夫斯基认为没有必要加息。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8361141.shtml)
-4. [泽连斯基要求欧盟追加700亿欧元援助](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1584215.shtml)
-5. [惠誉：尽管监管整体趋向放宽，但反洗钱领域的银行监管并未出现实质性放松。](https://finance.sina.com.cn/7x24/2026-10-16/doc-inivmyff8337623.shtml)
-6. [外交部回应高市涉核武器言论：在历史和法理问题上日本政客都需要补补课](https://news.sina.com.cn/c/2026-10-16/doc-inivmazq1631927.shtml)
-7. [胡塞武装再度发难，幕后“战争工程师”浮出水面](https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmprm8435714.shtml)
-8. [甘肃天水幼儿园铅中毒案一审宣判](https://news.sina.com.cn/c/2026-10-16/doc-inivmiip8442431.shtml)
-9. [乌军前线“断链撤盾”：马斯克甩锅，特朗普一言不发](https://news.sina.com.cn/w/2026-10-16/doc-inivmazq1540358.shtml)
-10. [习近平在内蒙古乌兰察布考察时强调 统筹高质量发展和高水平保护 坚定不移走生态优先绿色发展之路](https://news.sina.com.cn/c/xl/2026-10-16/doc-inivmpqz6911291.shtml)
-11. [巴西总统卢拉，遭限流！](https://news.sina.com.cn/c/2026-10-16/doc-inivksmm6999357.shtml)
-12. [确定退市！“彩电第一股”，将于5个交易日内摘牌](https://news.sina.com.cn/s/2026-10-16/doc-inivmtwx6845735.shtml)
-13. [半导体板块回调之后，投资者将目光投向何处](https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmyev6776811.shtml)
-14. [白宫前发言人莱维特爆辞职内幕：每周工作超60个小时，还要随时待命，“现在每天在家陪孩子，有时到电视节目露面，完全不是一回事”](https://news.sina.com.cn/w/2026-10-16/doc-inivmyex7504682.shtml)
-15. [养老服务定价迎来重大调整！多位专家详解改革红利](https://news.sina.com.cn/c/2026-10-16/doc-inivmtwz7587447.shtml)
-16. [菲防长多次炒作南海问题，国防部：靠制造“威胁”大搞扩军谋权](https://news.sina.com.cn/c/2026-10-16/doc-inivmazq1627393.shtml)
-17. [林芳正退出高市内阁后：知华派至关重要，与中国开战不可想象](https://news.sina.com.cn/w/2026-10-16/doc-inivmpqz6933751.shtml)
-18. [中方将如何改变“本世纪最大历史不公”的巴勒斯坦问题？外交部回应](https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmazf7018754.shtml)
-19. [总统和副总统的“战争”，加速了](https://news.sina.com.cn/w/2026-10-16/doc-inivksmm7015247.shtml)
-20. [克罗地亚总统米拉诺维奇会见王毅](https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmyfe1565237.shtml)
+3. [欧盟委员会主席冯德莱恩：我们看到，一些国家及非国家势力正在人为制造突发性大规模人口流动。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1621554.shtml)
+4. [比特币跌破81000美元，日内跌1.51%。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1620353.shtml)
+5. [欧盟委员会主席冯德莱恩：乌克兰2027年财政预算缺口为700亿（欧元）。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1622451.shtml)
+6. [印度航运部长：10月16日，载有15名印度海员的原油油轮MT ST 3在霍尔木兹海峡被一枚炮弹击中。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepc8275294.shtml)
+7. [特朗普：美国经济从未如此强劲。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1620531.shtml)
+8. [特朗普：不知道“星盾”命令是谁下达的，不是我们。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8384564.shtml)
+9. [特朗普：以色列对沙特阿拉伯一直很有帮助。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8388199.shtml)
+10. [白宫前发言人莱维特爆辞职内幕：每周工作超60个小时，还要随时待命，“现在每天在家陪孩子，有时到电视节目露面，完全不是一回事”](https://news.sina.com.cn/w/2026-10-16/doc-inivmyex7504682.shtml)
+11. [甘肃天水幼儿园铅中毒案一审宣判](https://news.sina.com.cn/c/2026-10-16/doc-inivmiip8442431.shtml)
+12. [欧盟理事会主席科斯塔：欧盟责成欧委会强化贸易工具库。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1609344.shtml)
+13. [外交部回应高市涉核武器言论：在历史和法理问题上日本政客都需要补补课](https://news.sina.com.cn/c/2026-10-16/doc-inivmazq1631927.shtml)
+14. [波兰货币政策委员会委员达布罗夫斯基认为没有必要加息。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8361141.shtml)
+15. [泽连斯基要求欧盟追加700亿欧元援助](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1584215.shtml)
+16. [特朗普就星链限速一事表态：不是我做的。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1609588.shtml)
+17. [惠誉：尽管监管整体趋向放宽，但反洗钱领域的银行监管并未出现实质性放松。](https://finance.sina.com.cn/7x24/2026-10-16/doc-inivmyff8337623.shtml)
+18. [乌军前线“断链撤盾”：马斯克甩锅，特朗普一言不发](https://news.sina.com.cn/w/2026-10-16/doc-inivmazq1540358.shtml)
+19. [确定退市！“彩电第一股”，将于5个交易日内摘牌](https://news.sina.com.cn/s/2026-10-16/doc-inivmtwx6845735.shtml)
+20. [胡塞武装再度发难，幕后“战争工程师”浮出水面](https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmprm8435714.shtml)
 
 ## 财经热榜
 

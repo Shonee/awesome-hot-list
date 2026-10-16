@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-17 02:15:25
+> 更新时间：2026-10-17 03:10:26
 
 ## 热门文章
 
@@ -31,14 +31,14 @@
 25. [我抓了 5 个内存泄漏现行，最狠的一个 91MB](https://juejin.cn/post/7696060477454352399)
 26. [一个人 + AI，58 天：首周 258 个玩家，本周 10 个，收入 0 元](https://juejin.cn/post/7695671592383971382)
 27. [传统竖屏 UIKit 项目简单适配 iPhone Duo 的第一版](https://juejin.cn/post/7696759034846052367)
-28. [前端是如何死去的？| 完整时间线](https://juejin.cn/post/7696709714028216370)
-29. [Juejin Usage v0.1.14更新：看清 AI 用量和订阅额度](https://juejin.cn/post/7696137182473764864)
-30. [前端转全栈最低成本的技术栈选择](https://juejin.cn/post/7696713457149362230)
+28. [前端转全栈最低成本的技术栈选择](https://juejin.cn/post/7696713457149362230)
+29. [前端是如何死去的？| 完整时间线](https://juejin.cn/post/7696709714028216370)
+30. [Juejin Usage v0.1.14更新：看清 AI 用量和订阅额度](https://juejin.cn/post/7696137182473764864)
 31. [日合并 3 万次之后，Anthropic 换掉了 Git](https://juejin.cn/post/7696455640667586596)
-32. [一周 10 万星的 REA「逆向一切」，到底革了什么命？](https://juejin.cn/post/7695958498477211675)
-33. [为什么越来越多人用Quarkus？](https://juejin.cn/post/7696499984355442723)
-34. [给AI配一台电脑，开源版Muse来了，OpenMuse赶紧去二次开发吧](https://juejin.cn/post/7696056043500208162)
-35. [写了这么久 Kotlin，你真的理解 in、out 和 * 吗？](https://juejin.cn/post/7696029445102567478)
+32. [写了这么久 Kotlin，你真的理解 in、out 和 * 吗？](https://juejin.cn/post/7696029445102567478)
+33. [一周 10 万星的 REA「逆向一切」，到底革了什么命？](https://juejin.cn/post/7695958498477211675)
+34. [为什么越来越多人用Quarkus？](https://juejin.cn/post/7696499984355442723)
+35. [给AI配一台电脑，开源版Muse来了，OpenMuse赶紧去二次开发吧](https://juejin.cn/post/7696056043500208162)
 36. [不用写一行Three.js代码，也能搭出复杂数字孪生场景](https://juejin.cn/post/7696080841777053734)
 37. [浏览器为什么加载不了超大图片](https://juejin.cn/post/7697087660390547466)
 38. [GitHub 日榜趋势速报 | 2026-10-15](https://juejin.cn/post/7696415219771621426)

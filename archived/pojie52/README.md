@@ -1,24 +1,24 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-17 02:15:31
+> 更新时间：2026-10-17 03:10:34
 
 ## 人气热门
 
-1. [广告自动跳过工具 GKD v1.13.0-beta-2](https://www.52pojie.cn/thread-2132357-1-1.html)
-2. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.13)](https://www.52pojie.cn/thread-2132239-1-1.html)
-3. [红果免费漫剧 —— MT管理器手机端去广告详细教程](https://www.52pojie.cn/thread-2132342-1-1.html)
-4. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
-5. [闲鱼谷歌版-7.27.96.3](https://www.52pojie.cn/thread-2132005-1-1.html)
-6. [老旧车机复活apk-DiPlay 0.2.20--10.15更新！](https://www.52pojie.cn/thread-2131616-1-1.html)
-7. [U盘量产四合一助手](https://www.52pojie.cn/thread-2131937-1-1.html)
-8. [多线程网络下载测速工具V2（真实下载，防止运营商白名单测速网站）](https://www.52pojie.cn/thread-2130776-1-1.html)
-9. [免费资源不“免费” | 荐片播放器静默安装劫持主页](https://www.52pojie.cn/thread-2131642-1-1.html)
-10. [Filee-1.10.0免费开源的离线文件格式转换工具](https://www.52pojie.cn/thread-2132113-1-1.html)
-11. [证件照处理工具1015更新](https://www.52pojie.cn/thread-2131772-1-1.html)
-12. [iP计算器（DNS+NTP+ 由汇聚+VLSM ）](https://www.52pojie.cn/thread-2131381-1-1.html)
-13. [豆包千问无水印图片视频下载助手 1.0.2](https://www.52pojie.cn/thread-2131945-1-1.html)
-14. [罗技键盘鼠标电量托盘显示工具C++V6版](https://www.52pojie.cn/thread-2132007-1-1.html)
-15. [(更新）拼图打印工具V1.3](https://www.52pojie.cn/thread-2131727-1-1.html)
+1. [(更新）拼图打印工具V1.3](https://www.52pojie.cn/thread-2131727-1-1.html)
+2. [红果免费漫剧 —— MT管理器手机端去广告详细教程](https://www.52pojie.cn/thread-2132342-1-1.html)
+3. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.13)](https://www.52pojie.cn/thread-2132239-1-1.html)
+4. [广告自动跳过工具 GKD v1.13.0-beta-2](https://www.52pojie.cn/thread-2132357-1-1.html)
+5. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
+6. [闲鱼谷歌版-7.27.96.3](https://www.52pojie.cn/thread-2132005-1-1.html)
+7. [老旧车机复活apk-DiPlay 0.2.20--10.15更新！](https://www.52pojie.cn/thread-2131616-1-1.html)
+8. [U盘量产四合一助手](https://www.52pojie.cn/thread-2131937-1-1.html)
+9. [多线程网络下载测速工具V2（真实下载，防止运营商白名单测速网站）](https://www.52pojie.cn/thread-2130776-1-1.html)
+10. [免费资源不“免费” | 荐片播放器静默安装劫持主页](https://www.52pojie.cn/thread-2131642-1-1.html)
+11. [Filee-1.10.0免费开源的离线文件格式转换工具](https://www.52pojie.cn/thread-2132113-1-1.html)
+12. [证件照处理工具1015更新](https://www.52pojie.cn/thread-2131772-1-1.html)
+13. [iP计算器（DNS+NTP+ 由汇聚+VLSM ）](https://www.52pojie.cn/thread-2131381-1-1.html)
+14. [豆包千问无水印图片视频下载助手 1.0.2](https://www.52pojie.cn/thread-2131945-1-1.html)
+15. [罗技键盘鼠标电量托盘显示工具C++V6版](https://www.52pojie.cn/thread-2132007-1-1.html)
 16. [随身听书 安卓端 更新v3.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
 17. [Everything 1.5.0.1424b 简体中文完全汉化绿色版(高亮搜索关键词)](https://www.52pojie.cn/thread-2132740-1-1.html)
 18. [专清C盘管家 diskbutler v0.8.0](https://www.52pojie.cn/thread-2131594-1-1.html)
