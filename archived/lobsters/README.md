@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-16 10:43:59
+> 更新时间：2026-10-16 11:15:36
 
 ## Hottest
 
@@ -18,14 +18,14 @@
 12. [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
 13. [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
 14. [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
-15. [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
-16. [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
-17. [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html)
-18. [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
-19. [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
-20. [Furifont: furigana built into the font](https://furifont.antfu.me/)
-21. [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
-22. [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
-23. [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
-24. [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
-25. [Everyone is doing Git on S3 wrong](https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong)
+15. [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
+16. [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
+17. [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
+18. [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html)
+19. [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
+20. [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+21. [Furifont: furigana built into the font](https://furifont.antfu.me/)
+22. [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
+23. [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
+24. [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
+25. [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
