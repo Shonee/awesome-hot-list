@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-16 13:14:15
+> 更新时间：2026-10-16 14:22:00
 
 ## 股票人气榜
 
@@ -10,17 +10,17 @@
 4. [长城军工 (601606)](https://quote.eastmoney.com/sh601606.html)
 5. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
 6. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
-7. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
-8. [金健米业 (600127)](https://quote.eastmoney.com/sh600127.html)
-9. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
-10. [杭电股份 (603618)](https://quote.eastmoney.com/sh603618.html)
-11. [崇达技术 (002815)](https://quote.eastmoney.com/sz002815.html)
-12. [远东股份 (600869)](https://quote.eastmoney.com/sh600869.html)
-13. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
-14. [赣锋锂业 (002460)](https://quote.eastmoney.com/sz002460.html)
+7. [金健米业 (600127)](https://quote.eastmoney.com/sh600127.html)
+8. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
+9. [杭电股份 (603618)](https://quote.eastmoney.com/sh603618.html)
+10. [华北制药 (600812)](https://quote.eastmoney.com/sh600812.html)
+11. [上海洗霸 (603200)](https://quote.eastmoney.com/sh603200.html)
+12. [万丰奥威 (002085)](https://quote.eastmoney.com/sz002085.html)
+13. [远东股份 (600869)](https://quote.eastmoney.com/sh600869.html)
+14. [崇达技术 (002815)](https://quote.eastmoney.com/sz002815.html)
 15. [东百集团 (600693)](https://quote.eastmoney.com/sh600693.html)
-16. [莱美药业 (300006)](https://quote.eastmoney.com/sz300006.html)
-17. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
-18. [读者传媒 (603999)](https://quote.eastmoney.com/sh603999.html)
-19. [澳弘电子 (605058)](https://quote.eastmoney.com/sh605058.html)
+16. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
+17. [莱美药业 (300006)](https://quote.eastmoney.com/sz300006.html)
+18. [赣锋锂业 (002460)](https://quote.eastmoney.com/sz002460.html)
+19. [内蒙一机 (600967)](https://quote.eastmoney.com/sh600967.html)
 20. [超声电子 (000823)](https://quote.eastmoney.com/sz000823.html)

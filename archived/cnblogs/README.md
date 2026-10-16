@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-16 13:13:10
+> 更新时间：2026-10-16 14:21:28
 
 ## 最新帖子
 
-1. [瑞芯微rv1106进入Loader模式转储emmc数据](https://www.cnblogs.com/Johness/p/23325648)
-2. [AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的](https://www.cnblogs.com/uniqueDong/p/23324820)
-3. [CatBase 语言入门：像 Python 一样写，像 C 一样跑](https://www.cnblogs.com/forges/p/23324190)
-4. [10、数据通信产品的硬件架构：拆开设备，看清网络的骨骼](https://www.cnblogs.com/suhanmo/p/23324065)
-5. [学习NOTE——10 李超线段树](https://www.cnblogs.com/T-M-T/p/23324032)
-6. [Koog(5) —— Strategy 详解：工作流编排、并行执行与状态传递](https://www.cnblogs.com/joy99/p/23320228)
-7. [Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL](https://www.cnblogs.com/zrui-xyu/p/23323227)
-8. [UI Composition 技术在传统 Win32 窗口中绘制圆角矩形](https://www.cnblogs.com/liulun/p/23323199)
-9. [先把轮子转稳，才不会烧心：编码器速度环 PID 怎么接回 PWM](https://www.cnblogs.com/zw-awa/p/23323135)
-10. [Linux nohup 命令完全指南](https://www.cnblogs.com/exioran/p/23314785)
-11. [AI时代我们要如何玩抓包测试：Reqable + AI Agent](https://www.cnblogs.com/jinjiangongzuoshi/p/23322593)
-12. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
-13. [使用wireshark抓包时，如何快速根据抓包地址判断过滤哪个接口](https://www.cnblogs.com/zjdxr-up/p/23317606)
-14. [技术思考问题24：QPS冲上十万，P99爆炸也算赢？](https://www.cnblogs.com/snidget/p/23322197)
-15. [SaveChanges 一万行？换批量操作快 10 倍](https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster)
-16. [调试集成系统时，常用的 URL 编解码小工具](https://www.cnblogs.com/jyzhao/p/23321863)
-17. [LLM | 投机解码：加速原理与实验结果](https://www.cnblogs.com/moonout/p/23321317)
-18. [第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23320316)
-19. [在 .NET 中优雅地合并并发请求（v2）](https://www.cnblogs.com/eventhorizon/p/23320338)
-20. [李超树学习笔记](https://www.cnblogs.com/MadeByEmu/p/23309072)
+1. [把工程流程沉淀为 Agent 资产：一套可交接的四层工作流](https://www.cnblogs.com/huangrenhui/p/23327347)
+2. [瑞芯微rv1106进入Loader模式转储emmc数据](https://www.cnblogs.com/Johness/p/23325648)
+3. [AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的](https://www.cnblogs.com/uniqueDong/p/23324820)
+4. [CatBase 语言入门：像 Python 一样写，像 C 一样跑](https://www.cnblogs.com/forges/p/23324190)
+5. [10、数据通信产品的硬件架构：拆开设备，看清网络的骨骼](https://www.cnblogs.com/suhanmo/p/23324065)
+6. [学习NOTE——10 李超线段树](https://www.cnblogs.com/T-M-T/p/23324032)
+7. [Koog(5) —— Strategy 详解：工作流编排、并行执行与状态传递](https://www.cnblogs.com/joy99/p/23320228)
+8. [Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL](https://www.cnblogs.com/zrui-xyu/p/23323227)
+9. [UI Composition 技术在传统 Win32 窗口中绘制圆角矩形](https://www.cnblogs.com/liulun/p/23323199)
+10. [先把轮子转稳，才不会烧心：编码器速度环 PID 怎么接回 PWM](https://www.cnblogs.com/zw-awa/p/23323135)
+11. [Linux nohup 命令完全指南](https://www.cnblogs.com/exioran/p/23314785)
+12. [AI时代我们要如何玩抓包测试：Reqable + AI Agent](https://www.cnblogs.com/jinjiangongzuoshi/p/23322593)
+13. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
+14. [使用wireshark抓包时，如何快速根据抓包地址判断过滤哪个接口](https://www.cnblogs.com/zjdxr-up/p/23317606)
+15. [技术思考问题24：QPS冲上十万，P99爆炸也算赢？](https://www.cnblogs.com/snidget/p/23322197)
+16. [SaveChanges 一万行？换批量操作快 10 倍](https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster)
+17. [调试集成系统时，常用的 URL 编解码小工具](https://www.cnblogs.com/jyzhao/p/23321863)
+18. [LLM | 投机解码：加速原理与实验结果](https://www.cnblogs.com/moonout/p/23321317)
+19. [第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23320316)
+20. [在 .NET 中优雅地合并并发请求（v2）](https://www.cnblogs.com/eventhorizon/p/23320338)
 
 ## 精华帖子
 
@@ -47,3 +47,12 @@
 18. [为什么说 IO 操作异步才有意义](https://www.cnblogs.com/kklldog/p/19449864)
 19. [2025 年终总结｜30岁](https://www.cnblogs.com/liyq666/p/19427476)
 20. [Keepalived详解：原理、编译安装与高可用集群配置](https://www.cnblogs.com/ydswin/p/19326078)
+
+## 48 小时阅读排行
+
+1. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
+2. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
+3. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
+4. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
+5. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
+6. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)

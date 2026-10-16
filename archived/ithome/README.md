@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-16 13:14:08
+> 更新时间：2026-10-16 14:21:51
 
 ## 日榜
 
@@ -13,6 +13,6 @@
 7. [库克：苹果智能 Apple Intelligence 月底在华发布测试版本，但不包括 Siri AI](https://www.ithome.com/1/013/478.htm)
 8. [16.98 万元起小鹏 MONA L05 开启预售，10 月 29 日正式上市](https://www.ithome.com/1/013/628.htm)
 9. [荣耀 WIN 2 手机价格公布：12GB+512GB 国补到手 5499 元，骁龙 8EE6 芯片、2K 185Hz 屏幕](https://www.ithome.com/1/013/438.htm)
-10. [消息称苹果已发出 10 月 28 日邀请函，首款触屏 MacBook、iPad mini 8、M6 Mac 即将到来](https://www.ithome.com/1/013/687.htm)
-11. [IT之家 11.11 严选好货：20:00 全网狂促大加码，iPhone Duo 15999 元倒计时开抢](https://www.ithome.com/1/013/462.htm)
-12. [【已结束】9999 → 8999 元：苹果 iPhone 18 Pro 国补立减千元 + 国家贴息 12 期免息](https://www.ithome.com/1/013/626.htm)
+10. [IT之家 11.11 严选好货：20:00 全网狂促大加码，iPhone Duo 15999 元倒计时开抢](https://www.ithome.com/1/013/462.htm)
+11. [消息称苹果已发出 10 月 28 日邀请函，首款触屏 MacBook、iPad mini 8、M6 Mac 即将到来](https://www.ithome.com/1/013/687.htm)
+12. [今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右](https://www.ithome.com/1/013/731.htm)

@@ -1,15 +1,15 @@
 # V2EX热榜
 
-> 更新时间：2026-10-16 13:14:23
+> 更新时间：2026-10-16 14:22:12
 
 ## 热门主题
 
 1. [谈了三个月的女朋友才发现她和前任有较大经济纠纷](https://www.v2ex.com/t/1249080)
-2. [教老婆开车应该注意什么](https://www.v2ex.com/t/1249011)
-3. [国庆回去被说肥头大耳，下定决心减肥了](https://www.v2ex.com/t/1249207)
-4. [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 第一个 Windows 版本发布，还支持 macOS](https://www.v2ex.com/t/1249233)
-5. [[创业迷茫期] 同志们我破防了，小区楼下地摊都能上架自研小程序，搞软件开发还有未来吗](https://www.v2ex.com/t/1249007)
-6. [我买 Claude 账号被骗 1198 的经历](https://www.v2ex.com/t/1249170)
-7. [睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？](https://www.v2ex.com/t/1249215)
-8. [中药真的好败好感啊](https://www.v2ex.com/t/1249023)
-9. [Tesla Roadster 起飞了](https://www.v2ex.com/t/1249253)
+2. [国庆回去被说肥头大耳，下定决心减肥了](https://www.v2ex.com/t/1249207)
+3. [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 第一个 Windows 版本发布，还支持 macOS](https://www.v2ex.com/t/1249233)
+4. [Bref： iPhone 、 iPad 、Mac 与 Apple TV 多平台支持的媒体播放器，欢迎大家体验 [送码]](https://www.v2ex.com/t/1249294)
+5. [Tesla Roadster 起飞了](https://www.v2ex.com/t/1249253)
+6. [特斯拉有的我们都有😝](https://www.v2ex.com/t/1249270)
+7. [我买 Claude 账号被骗 1198 的经历](https://www.v2ex.com/t/1249170)
+8. [睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？](https://www.v2ex.com/t/1249215)
+9. [一个人可以内向，敏感，胆小到什么程度](https://www.v2ex.com/t/1249230)
