@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-16 07:09:38
+> 更新时间：2026-10-16 08:30:08
 
 ## 最新帖子
 
-1. [LLM | 投机解码：加速原理与实验结果](https://www.cnblogs.com/moonout/p/23321317)
-2. [第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23320316)
-3. [在 .NET 中优雅地合并并发请求（v2）](https://www.cnblogs.com/eventhorizon/p/23320338)
-4. [李超树学习笔记](https://www.cnblogs.com/MadeByEmu/p/23309072)
-5. [你的游戏本身就是 Harness ：如何让 AI Agent 读懂游戏并十倍加速迭代？](https://www.cnblogs.com/leikooo/p/23320100)
-6. [用 Pydantic AI 从零搭建一个能干活的 AI Agent](https://www.cnblogs.com/wang_yb/p/23319546)
-7. [并发编程（十）：BlockingQueue 与 Channel 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23319538)
-8. [华为VXLAN分布式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23318577)
-9. [Oracle 与 MySQL 索引重建及表健康性检测](https://www.cnblogs.com/liuziyi1/p/23318246)
-10. [MQTT实战 - MQTT vs HTTP：为什么你的物联网项目上线就崩？（二）](https://www.cnblogs.com/hugogoos/p/23317103)
-11. [一文搞懂 Agent TODO：AI 是如何把复杂任务一步步做完的？](https://www.cnblogs.com/Tomorrowland/p/23316817)
-12. [从数组到智能：Python数据科学与人工智能生态全景](https://www.cnblogs.com/apachecn/p/23316748)
-13. [为什么越来越多人用Quarkus？](https://www.cnblogs.com/12lisu/p/23316231)
-14. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
-15. [从 Skills 到可靠的 Bugfix Agent](https://www.cnblogs.com/dtux/p/23314675)
-16. [TTL 是什么](https://www.cnblogs.com/zjdxr-up/p/23314271)
-17. [从 AWS 到 OpenRouter，拆解 Agent 模型路由的工程设计](https://www.cnblogs.com/Qiniu-developer/p/23314122)
-18. [pip install 明明成功了，import 为什么还是报错？——Python 装库失败的统一病因与九种解法](https://www.cnblogs.com/88vip/p/23263720)
-19. [Agent 不能只记录调用了什么，还要记录为什么调用 | KDC 系列 03](https://www.cnblogs.com/vivotech/p/23311559)
-20. [Langchain简单快速上手教程（七）—— 核心组件之消息](https://www.cnblogs.com/mengyingblog/p/23311006)
+1. [技术思考问题24：QPS冲上十万，P99爆炸也算赢？](https://www.cnblogs.com/snidget/p/23322197)
+2. [SaveChanges 一万行？换批量操作快 10 倍](https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster)
+3. [调试集成系统时，常用的 URL 编解码小工具](https://www.cnblogs.com/jyzhao/p/23321863)
+4. [LLM | 投机解码：加速原理与实验结果](https://www.cnblogs.com/moonout/p/23321317)
+5. [第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23320316)
+6. [在 .NET 中优雅地合并并发请求（v2）](https://www.cnblogs.com/eventhorizon/p/23320338)
+7. [李超树学习笔记](https://www.cnblogs.com/MadeByEmu/p/23309072)
+8. [你的游戏本身就是 Harness ：如何让 AI Agent 读懂游戏并十倍加速迭代？](https://www.cnblogs.com/leikooo/p/23320100)
+9. [用 Pydantic AI 从零搭建一个能干活的 AI Agent](https://www.cnblogs.com/wang_yb/p/23319546)
+10. [并发编程（十）：BlockingQueue 与 Channel 的实现——从 Runtime 到 CPU](https://www.cnblogs.com/ThinkerQAQ/p/23319538)
+11. [华为VXLAN分布式网关实战指南：Spine多活网关 + 双活接入（M-LAG）](https://www.cnblogs.com/Johny-zhao/p/23318577)
+12. [Oracle 与 MySQL 索引重建及表健康性检测](https://www.cnblogs.com/liuziyi1/p/23318246)
+13. [MQTT实战 - MQTT vs HTTP：为什么你的物联网项目上线就崩？（二）](https://www.cnblogs.com/hugogoos/p/23317103)
+14. [一文搞懂 Agent TODO：AI 是如何把复杂任务一步步做完的？](https://www.cnblogs.com/Tomorrowland/p/23316817)
+15. [从数组到智能：Python数据科学与人工智能生态全景](https://www.cnblogs.com/apachecn/p/23316748)
+16. [为什么越来越多人用Quarkus？](https://www.cnblogs.com/12lisu/p/23316231)
+17. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
+18. [从 Skills 到可靠的 Bugfix Agent](https://www.cnblogs.com/dtux/p/23314675)
+19. [TTL 是什么](https://www.cnblogs.com/zjdxr-up/p/23314271)
+20. [从 AWS 到 OpenRouter，拆解 Agent 模型路由的工程设计](https://www.cnblogs.com/Qiniu-developer/p/23314122)
 
 ## 精华帖子
 
