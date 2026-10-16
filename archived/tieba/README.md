@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-16 11:15:09
+> 更新时间：2026-10-16 12:14:35
 
 ## 最有料热点
 
@@ -27,7 +27,7 @@
 21. [全韩班?LOL取消外援限制](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366995&topic_name=%E5%85%A8%E9%9F%A9%E7%8F%AD%3FLOL%E5%8F%96%E6%B6%88%E5%A4%96%E6%8F%B4%E9%99%90%E5%88%B6)
 22. [手残福音,吧友自制机娘贴纸](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367003&topic_name=%E6%89%8B%E6%AE%8B%E7%A6%8F%E9%9F%B3%2C%E5%90%A7%E5%8F%8B%E8%87%AA%E5%88%B6%E6%9C%BA%E5%A8%98%E8%B4%B4%E7%BA%B8)
 23. [马尔福性转出圈,演员绷不住了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366962&topic_name=%E9%A9%AC%E5%B0%94%E7%A6%8F%E6%80%A7%E8%BD%AC%E5%87%BA%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86)
-24. [蜜蜂夺冠,载物狂揽34座MVP](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366968&topic_name=%E8%9C%9C%E8%9C%82%E5%A4%BA%E5%86%A0%2C%E8%BD%BD%E7%89%A9%E7%8B%82%E6%8F%BD34%E5%BA%A7MVP)
+24. [没吃回扣!TES郭皓回应签证问题](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367277&topic_name=%E6%B2%A1%E5%90%83%E5%9B%9E%E6%89%A3%21TES%E9%83%AD%E7%9A%93%E5%9B%9E%E5%BA%94%E7%AD%BE%E8%AF%81%E9%97%AE%E9%A2%98)
 25. [日议员偷拍中国游客,煽动网暴](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366959&topic_name=%E6%97%A5%E8%AE%AE%E5%91%98%E5%81%B7%E6%8B%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%2C%E7%85%BD%E5%8A%A8%E7%BD%91%E6%9A%B4)
 26. [岸本操刀火影新作,画风带劲](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366949&topic_name=%E5%B2%B8%E6%9C%AC%E6%93%8D%E5%88%80%E7%81%AB%E5%BD%B1%E6%96%B0%E4%BD%9C%2C%E7%94%BB%E9%A3%8E%E5%B8%A6%E5%8A%B2)
 27. [游戏成真,闲鱼惊现冒险者委托](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366934&topic_name=%E6%B8%B8%E6%88%8F%E6%88%90%E7%9C%9F%2C%E9%97%B2%E9%B1%BC%E6%83%8A%E7%8E%B0%E5%86%92%E9%99%A9%E8%80%85%E5%A7%94%E6%89%98)

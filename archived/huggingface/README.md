@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-16 06:12:43
+> 更新时间：2026-10-16 12:14:42
 
 ## Trending Models
 
@@ -17,10 +17,10 @@
 11. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
 12. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
 13. [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)
-14. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
-15. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
-16. [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)
-17. [facebook/sam3](https://huggingface.co/facebook/sam3)
-18. [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle)
-19. [LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B)
-20. [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)
+14. [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)
+15. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
+16. [black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)
+17. [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b)
+18. [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)
+19. [facebook/sam3](https://huggingface.co/facebook/sam3)
+20. [Cloudflare/clef](https://huggingface.co/Cloudflare/clef)

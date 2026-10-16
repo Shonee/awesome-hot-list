@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-16 11:14:38
+> 更新时间：2026-10-16 12:13:54
 
 ## 最新帖子
 
-1. [AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的](https://www.cnblogs.com/uniqueDong/p/23324820)
-2. [CatBase 语言入门：像 Python 一样写，像 C 一样跑](https://www.cnblogs.com/forges/p/23324190)
-3. [10、数据通信产品的硬件架构：拆开设备，看清网络的骨骼](https://www.cnblogs.com/suhanmo/p/23324065)
-4. [学习NOTE——10 李超线段树](https://www.cnblogs.com/T-M-T/p/23324032)
-5. [Koog(5) —— Strategy 详解：工作流编排、并行执行与状态传递](https://www.cnblogs.com/joy99/p/23320228)
-6. [Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL](https://www.cnblogs.com/zrui-xyu/p/23323227)
-7. [UI Composition 技术在传统 Win32 窗口中绘制圆角矩形](https://www.cnblogs.com/liulun/p/23323199)
-8. [先把轮子转稳，才不会烧心：编码器速度环 PID 怎么接回 PWM](https://www.cnblogs.com/zw-awa/p/23323135)
-9. [Linux nohup 命令完全指南](https://www.cnblogs.com/exioran/p/23314785)
-10. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
-11. [使用wireshark抓包时，如何快速根据抓包地址判断过滤哪个接口](https://www.cnblogs.com/zjdxr-up/p/23317606)
-12. [技术思考问题24：QPS冲上十万，P99爆炸也算赢？](https://www.cnblogs.com/snidget/p/23322197)
-13. [SaveChanges 一万行？换批量操作快 10 倍](https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster)
-14. [调试集成系统时，常用的 URL 编解码小工具](https://www.cnblogs.com/jyzhao/p/23321863)
-15. [LLM | 投机解码：加速原理与实验结果](https://www.cnblogs.com/moonout/p/23321317)
-16. [第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23320316)
-17. [在 .NET 中优雅地合并并发请求（v2）](https://www.cnblogs.com/eventhorizon/p/23320338)
-18. [李超树学习笔记](https://www.cnblogs.com/MadeByEmu/p/23309072)
-19. [你的游戏本身就是 Harness ：如何让 AI Agent 读懂游戏并十倍加速迭代？](https://www.cnblogs.com/leikooo/p/23320100)
-20. [用 Pydantic AI 从零搭建一个能干活的 AI Agent](https://www.cnblogs.com/wang_yb/p/23319546)
+1. [瑞芯微rv1106进入Loader模式转储emmc数据](https://www.cnblogs.com/Johness/p/23325648)
+2. [AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的](https://www.cnblogs.com/uniqueDong/p/23324820)
+3. [CatBase 语言入门：像 Python 一样写，像 C 一样跑](https://www.cnblogs.com/forges/p/23324190)
+4. [10、数据通信产品的硬件架构：拆开设备，看清网络的骨骼](https://www.cnblogs.com/suhanmo/p/23324065)
+5. [学习NOTE——10 李超线段树](https://www.cnblogs.com/T-M-T/p/23324032)
+6. [Koog(5) —— Strategy 详解：工作流编排、并行执行与状态传递](https://www.cnblogs.com/joy99/p/23320228)
+7. [Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL](https://www.cnblogs.com/zrui-xyu/p/23323227)
+8. [UI Composition 技术在传统 Win32 窗口中绘制圆角矩形](https://www.cnblogs.com/liulun/p/23323199)
+9. [先把轮子转稳，才不会烧心：编码器速度环 PID 怎么接回 PWM](https://www.cnblogs.com/zw-awa/p/23323135)
+10. [Linux nohup 命令完全指南](https://www.cnblogs.com/exioran/p/23314785)
+11. [AI时代我们要如何玩抓包测试：Reqable + AI Agent](https://www.cnblogs.com/jinjiangongzuoshi/p/23322593)
+12. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
+13. [使用wireshark抓包时，如何快速根据抓包地址判断过滤哪个接口](https://www.cnblogs.com/zjdxr-up/p/23317606)
+14. [技术思考问题24：QPS冲上十万，P99爆炸也算赢？](https://www.cnblogs.com/snidget/p/23322197)
+15. [SaveChanges 一万行？换批量操作快 10 倍](https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster)
+16. [调试集成系统时，常用的 URL 编解码小工具](https://www.cnblogs.com/jyzhao/p/23321863)
+17. [LLM | 投机解码：加速原理与实验结果](https://www.cnblogs.com/moonout/p/23321317)
+18. [第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23320316)
+19. [在 .NET 中优雅地合并并发请求（v2）](https://www.cnblogs.com/eventhorizon/p/23320338)
+20. [李超树学习笔记](https://www.cnblogs.com/MadeByEmu/p/23309072)
 
 ## 精华帖子
 
