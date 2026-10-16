@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-16 23:12:36
+> 更新时间：2026-10-17 00:14:10
 
 ## 股票人气榜
 
@@ -8,9 +8,9 @@
 2. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 3. [万丰奥威 (002085)](https://quote.eastmoney.com/sz002085.html)
 4. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
-5. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
-6. [长城军工 (601606)](https://quote.eastmoney.com/sh601606.html)
-7. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
+5. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
+6. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
+7. [长城军工 (601606)](https://quote.eastmoney.com/sh601606.html)
 8. [金健米业 (600127)](https://quote.eastmoney.com/sh600127.html)
 9. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
 10. [宗申动力 (001696)](https://quote.eastmoney.com/sz001696.html)
@@ -18,9 +18,9 @@
 12. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
 13. [华力创通 (300045)](https://quote.eastmoney.com/sz300045.html)
 14. [金盾股份 (300411)](https://quote.eastmoney.com/sz300411.html)
-15. [杭电股份 (603618)](https://quote.eastmoney.com/sh603618.html)
-16. [远东股份 (600869)](https://quote.eastmoney.com/sh600869.html)
-17. [均胜电子 (600699)](https://quote.eastmoney.com/sh600699.html)
-18. [捷众科技 (920690)](https://quote.eastmoney.com/sz920690.html)
-19. [天汽模 (002510)](https://quote.eastmoney.com/sz002510.html)
+15. [捷众科技 (920690)](https://quote.eastmoney.com/sz920690.html)
+16. [天汽模 (002510)](https://quote.eastmoney.com/sz002510.html)
+17. [远东股份 (600869)](https://quote.eastmoney.com/sh600869.html)
+18. [均胜电子 (600699)](https://quote.eastmoney.com/sh600699.html)
+19. [杭电股份 (603618)](https://quote.eastmoney.com/sh603618.html)
 20. [吉大正元 (003029)](https://quote.eastmoney.com/sz003029.html)
