@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-16 11:14:34
+> 更新时间：2026-10-16 17:40:25
 
 ## 每日趋势
 
@@ -16,6 +16,7 @@
 10. [ECC](https://github.com/affaan-m/ECC)
 11. [tokenspeed](https://github.com/lightseekorg/tokenspeed)
 12. [xerj](https://github.com/xerj-org/xerj)
+13. [LibreTV](https://github.com/LibreSpark/LibreTV)
 
 ## 每周趋势
 
@@ -134,4 +135,5 @@
 5. [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 6. [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
 7. [GSAP](https://github.com/greensock/GSAP)
-8. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+8. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
+9. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
