@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-16 12:14:42
+> 更新时间：2026-10-16 13:14:23
 
 ## 热门主题
 
@@ -10,5 +10,6 @@
 4. [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 第一个 Windows 版本发布，还支持 macOS](https://www.v2ex.com/t/1249233)
 5. [[创业迷茫期] 同志们我破防了，小区楼下地摊都能上架自研小程序，搞软件开发还有未来吗](https://www.v2ex.com/t/1249007)
 6. [我买 Claude 账号被骗 1198 的经历](https://www.v2ex.com/t/1249170)
-7. [中药真的好败好感啊](https://www.v2ex.com/t/1249023)
-8. [睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？](https://www.v2ex.com/t/1249215)
+7. [睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？](https://www.v2ex.com/t/1249215)
+8. [中药真的好败好感啊](https://www.v2ex.com/t/1249023)
+9. [Tesla Roadster 起飞了](https://www.v2ex.com/t/1249253)

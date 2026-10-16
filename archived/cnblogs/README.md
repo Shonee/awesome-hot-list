@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-16 12:13:54
+> 更新时间：2026-10-16 13:13:10
 
 ## 最新帖子
 
@@ -47,12 +47,3 @@
 18. [为什么说 IO 操作异步才有意义](https://www.cnblogs.com/kklldog/p/19449864)
 19. [2025 年终总结｜30岁](https://www.cnblogs.com/liyq666/p/19427476)
 20. [Keepalived详解：原理、编译安装与高可用集群配置](https://www.cnblogs.com/ydswin/p/19326078)
-
-## 48 小时阅读排行
-
-1. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
-2. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
-3. [SimdYolo：纯 C# YOLO 推理实现，CPU SIMD / Vulkan 架构与 PyTorch、ORT 实测](https://www.cnblogs.com/dotnet-org-cn/p/23303551)
-4. [.NET 11 RC 2 发布：带着 Go-Live 许可证来了，离正式版只差一步](https://www.cnblogs.com/shanyou/p/23302961)
-5. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
-6. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
