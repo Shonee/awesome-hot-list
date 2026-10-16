@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-17 01:10:53
+> 更新时间：2026-10-17 02:15:47
 
 ## 新闻热榜
 
-1. [欧盟寻思：中国不给就找越南，可还得防着美国](https://news.sina.com.cn/o/2026-10-15/doc-inivhawy1207162.shtml)
-2. [杀红了眼的中东，新加坡也倒霉了](https://news.sina.com.cn/w/2026-10-15/doc-inivhawy1266298.shtml)
-3. [蒙古国大火逼近中国边境，数千人布防，谁惹的祸？](https://news.sina.com.cn/o/2026-10-15/doc-inivfftc8350296.shtml)
-4. [中朝新鸭绿江大桥开通，高清大图来了！](https://news.sina.com.cn/c/2026-10-15/doc-inivhpnu1404360.shtml)
-5. [长实集团就“李嘉诚去世”传闻发声：其暂不打算公开露面回应](https://news.sina.com.cn/c/2026-10-15/doc-inivhtus1449133.shtml)
-6. [欧盟得寸进尺：还不够，继续施压中国](https://news.sina.com.cn/o/2026-10-15/doc-inivhawr7458127.shtml)
-7. [美方这步棋，走得太困难了](https://news.sina.com.cn/w/2026-10-14/doc-inivfftc8385735.shtml)
-8. [美国封禁中企设备，追到芯片这一层](https://news.sina.com.cn/o/2026-10-15/doc-inivhtuq4660664.shtml)
-9. [滚存928万被清空 足彩头奖开129注16.3万元](https://sports.sina.com.cn/l/2026-10-15/doc-inivhaww4498289.shtml)
-10. [郑钦文，确认退赛](https://news.sina.com.cn/c/2026-10-15/doc-inivhtus1357222.shtml)
-11. [中朝新鸭绿江大桥正式开通](https://news.sina.com.cn/c/2026-10-15/doc-inivhieu4588585.shtml)
-12. [胜负彩26142期国内部分专业媒体复式推荐总汇](https://sports.sina.com.cn/l/2026-10-15/doc-inivhiew1255198.shtml)
-13. [[新浪彩票]足彩第26142期任九：勒沃客战不败](https://sports.sina.com.cn/l/2026-10-15/doc-inivhawr7466792.shtml)
-14. [玉渊谭天丨独家披露台当局和“台独”艺人利益链](https://news.sina.com.cn/c/2026-10-15/doc-inivhiep7460229.shtml)
-15. [比亚迪、吉利、奇瑞，集体发布声明](https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhawr7412571.shtml)
-16. [24小时内，两艘货船在霍尔木兹海峡附近沉没](https://news.sina.com.cn/w/2026-10-15/doc-inivhaww4476435.shtml)
-17. [顶流男星“与未成年女孩交往”事件，大反转](https://news.sina.com.cn/w/2026-10-15/doc-inivfmze4459651.shtml)
-18. [现年98岁的李嘉诚逝世被挤上热搜 长实集团辟谣否认：绝无此事](https://finance.sina.com.cn/tech/roll/2026-10-15/doc-inivhpns4631064.shtml)
-19. [[新浪彩票]足彩第26142期大势：桑德兰客战防平](https://sports.sina.com.cn/l/2026-10-15/doc-inivhawy1272952.shtml)
-20. [这次，美防长没点名中国](https://news.sina.com.cn/w/2026-10-15/doc-inivhawy1226863.shtml)
+1. [巴黎4-2终结曼城8连胜 哈兰德双响难救主杜埃登贝莱传射费兰失点](https://news.sina.com.cn/zx/2026-10-15/doc-inivfwra1225576.shtml)
+2. [美国国务卿鲁比奥与阿根廷总统米莱讨论扩大贸易与投资事宜。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8366949.shtml)
+3. [波兰货币政策委员会委员达布罗夫斯基认为没有必要加息。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8361141.shtml)
+4. [泽连斯基要求欧盟追加700亿欧元援助](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1584215.shtml)
+5. [惠誉：尽管监管整体趋向放宽，但反洗钱领域的银行监管并未出现实质性放松。](https://finance.sina.com.cn/7x24/2026-10-16/doc-inivmyff8337623.shtml)
+6. [外交部回应高市涉核武器言论：在历史和法理问题上日本政客都需要补补课](https://news.sina.com.cn/c/2026-10-16/doc-inivmazq1631927.shtml)
+7. [胡塞武装再度发难，幕后“战争工程师”浮出水面](https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmprm8435714.shtml)
+8. [甘肃天水幼儿园铅中毒案一审宣判](https://news.sina.com.cn/c/2026-10-16/doc-inivmiip8442431.shtml)
+9. [乌军前线“断链撤盾”：马斯克甩锅，特朗普一言不发](https://news.sina.com.cn/w/2026-10-16/doc-inivmazq1540358.shtml)
+10. [习近平在内蒙古乌兰察布考察时强调 统筹高质量发展和高水平保护 坚定不移走生态优先绿色发展之路](https://news.sina.com.cn/c/xl/2026-10-16/doc-inivmpqz6911291.shtml)
+11. [巴西总统卢拉，遭限流！](https://news.sina.com.cn/c/2026-10-16/doc-inivksmm6999357.shtml)
+12. [确定退市！“彩电第一股”，将于5个交易日内摘牌](https://news.sina.com.cn/s/2026-10-16/doc-inivmtwx6845735.shtml)
+13. [半导体板块回调之后，投资者将目光投向何处](https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivmyev6776811.shtml)
+14. [白宫前发言人莱维特爆辞职内幕：每周工作超60个小时，还要随时待命，“现在每天在家陪孩子，有时到电视节目露面，完全不是一回事”](https://news.sina.com.cn/w/2026-10-16/doc-inivmyex7504682.shtml)
+15. [养老服务定价迎来重大调整！多位专家详解改革红利](https://news.sina.com.cn/c/2026-10-16/doc-inivmtwz7587447.shtml)
+16. [菲防长多次炒作南海问题，国防部：靠制造“威胁”大搞扩军谋权](https://news.sina.com.cn/c/2026-10-16/doc-inivmazq1627393.shtml)
+17. [林芳正退出高市内阁后：知华派至关重要，与中国开战不可想象](https://news.sina.com.cn/w/2026-10-16/doc-inivmpqz6933751.shtml)
+18. [中方将如何改变“本世纪最大历史不公”的巴勒斯坦问题？外交部回应](https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmazf7018754.shtml)
+19. [总统和副总统的“战争”，加速了](https://news.sina.com.cn/w/2026-10-16/doc-inivksmm7015247.shtml)
+20. [克罗地亚总统米拉诺维奇会见王毅](https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivmyfe1565237.shtml)
 
 ## 财经热榜
 
