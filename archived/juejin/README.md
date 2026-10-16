@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-16 14:21:25
+> 更新时间：2026-10-16 14:53:41
 
 ## 热门文章
 
@@ -18,8 +18,8 @@
 12. [我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司（Day 1）](https://juejin.cn/post/7696083307454038026)
 13. [Flutter你看看人家RN](https://juejin.cn/post/7695940923273478154)
 14. [iOS 26 适配](https://juejin.cn/post/7695805098719199275)
-15. [AI 时代，个人开发者到底能不能靠一个小程序赚到钱](https://juejin.cn/post/7695999400864956451)
-16. [Codex 不只是写代码：OpenAI 想抢走 AI 工作流入口](https://juejin.cn/post/7695976921429147686)
+15. [Codex 不只是写代码：OpenAI 想抢走 AI 工作流入口](https://juejin.cn/post/7695976921429147686)
+16. [AI 时代，个人开发者到底能不能靠一个小程序赚到钱](https://juejin.cn/post/7695999400864956451)
 17. [聊聊Agent的记忆系统如何设计](https://juejin.cn/post/7696080841777020966)
 18. [借助 Codex 和可视化工作流，从调研到完整实现，3D 大屏竟然可以这么简单](https://juejin.cn/post/7695939202564997154)
 19. [AI 帮我写的小程序，上线不到一个月流量主突然爆了](https://juejin.cn/post/7696444047594946570)
@@ -39,18 +39,18 @@
 33. [Juejin Usage v0.1.14更新：看清 AI 用量和订阅额度](https://juejin.cn/post/7696137182473764864)
 34. [Draw Things 换装 LoRA 实战：用 Silo 秒装，同一提示词对比出图](https://juejin.cn/post/7696056043499470882)
 35. [一周 10 万星的 REA「逆向一切」，到底革了什么命？](https://juejin.cn/post/7695958498477211675)
-36. [给AI配一台电脑，开源版Muse来了，OpenMuse赶紧去二次开发吧](https://juejin.cn/post/7696056043500208162)
-37. [汽水music自动看广告领取VIP](https://juejin.cn/post/7696662898144870451)
+36. [汽水music自动看广告领取VIP](https://juejin.cn/post/7696662898144870451)
+37. [给AI配一台电脑，开源版Muse来了，OpenMuse赶紧去二次开发吧](https://juejin.cn/post/7696056043500208162)
 38. [ERP选型时不问MCP，等于默认三年后再付一次集成费!](https://juejin.cn/post/7696005650720210987)
-39. [不用写一行Three.js代码，也能搭出复杂数字孪生场景](https://juejin.cn/post/7696080841777053734)
-40. [写了这么久 Kotlin，你真的理解 in、out 和 * 吗？](https://juejin.cn/post/7696029445102567478)
-41. [手写防抖节流，前端性能优化的基本功](https://juejin.cn/post/7695977951250284544)
-42. [从5000亿Token到83%字节匹配：AI逆向工程与重构的工程闭环实践](https://juejin.cn/post/7695976921428983846)
-43. [GitHub 日榜趋势速报 | 2026-10-14](https://juejin.cn/post/7695971363199729702)
-44. [我把自己的应用上线了：从买服务器、域名和 DNS，到备案与 HTTPS](https://juejin.cn/post/7695957793812430899)
-45. [前端是如何死去的？| 完整时间线](https://juejin.cn/post/7696709714028216370)
-46. [为什么越来越多人用Quarkus？](https://juejin.cn/post/7696499984355442723)
-47. [日合并 3 万次之后，Anthropic 换掉了 Git](https://juejin.cn/post/7696455640667586596)
-48. [FDE 已死！从 FDE 到 FDU：重新定义 AI 交付](https://juejin.cn/post/7696326603060887602)
-49. [全球科技前沿日报 | 2026年10月14日](https://juejin.cn/post/7696051868467773490)
-50. [实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra](https://juejin.cn/post/7696046079674974227)
+39. [前端是如何死去的？| 完整时间线](https://juejin.cn/post/7696709714028216370)
+40. [不用写一行Three.js代码，也能搭出复杂数字孪生场景](https://juejin.cn/post/7696080841777053734)
+41. [写了这么久 Kotlin，你真的理解 in、out 和 * 吗？](https://juejin.cn/post/7696029445102567478)
+42. [手写防抖节流，前端性能优化的基本功](https://juejin.cn/post/7695977951250284544)
+43. [从5000亿Token到83%字节匹配：AI逆向工程与重构的工程闭环实践](https://juejin.cn/post/7695976921428983846)
+44. [GitHub 日榜趋势速报 | 2026-10-14](https://juejin.cn/post/7695971363199729702)
+45. [我把自己的应用上线了：从买服务器、域名和 DNS，到备案与 HTTPS](https://juejin.cn/post/7695957793812430899)
+46. [FDE 已死！从 FDE 到 FDU：重新定义 AI 交付](https://juejin.cn/post/7696326603060887602)
+47. [从零手搓 RAG 系列之给大模型接上知识库](https://juejin.cn/post/7696354031849652259)
+48. [全球科技前沿日报 | 2026年10月14日](https://juejin.cn/post/7696051868467773490)
+49. [实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra](https://juejin.cn/post/7696046079674974227)
+50. [Shorebird 的国内版来了？](https://juejin.cn/post/7696040591158034451)
