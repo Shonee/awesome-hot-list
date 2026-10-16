@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-17 05:11:03
+> 更新时间：2026-10-17 06:12:00
 
 ## 股票人气榜
 
@@ -21,6 +21,6 @@
 15. [华力创通 (300045)](https://quote.eastmoney.com/sz300045.html)
 16. [吉大正元 (003029)](https://quote.eastmoney.com/sz003029.html)
 17. [捷众科技 (920690)](https://quote.eastmoney.com/sz920690.html)
-18. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
-19. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
+18. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
+19. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
 20. [中鼎股份 (000887)](https://quote.eastmoney.com/sz000887.html)

@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-17 05:10:56
+> 更新时间：2026-10-17 06:11:53
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [江淮汽车涨停，工信部等三部门联合调查有关车辆刹车踏板支架断裂问题](https://www.ithome.com/1/013/742.htm)
 7. [iPad mini 8 悬念再起，苹果已测试 60Hz 与 120Hz 两种 OLED 屏幕](https://www.ithome.com/1/013/704.htm)
 8. [特斯拉能飞：第二代 Roadster 预订意向金 33.2 万元起，马斯克宣布 2028 年量产](https://www.ithome.com/1/013/748.htm)
-9. [卢伟冰晒小米 REDMI K100 真机，称将把旗舰的起点再往上提高一大步](https://www.ithome.com/1/013/847.htm)
-10. [中国联通回馈 2009 年首批 iPhone 用户，开放 iPhone Duo 最高优先级购机资格](https://www.ithome.com/1/014/146.htm)
+9. [中国联通回馈 2009 年首批 iPhone 用户，开放 iPhone Duo 最高优先级购机资格](https://www.ithome.com/1/014/146.htm)
+10. [卢伟冰晒小米 REDMI K100 真机，称将把旗舰的起点再往上提高一大步](https://www.ithome.com/1/013/847.htm)
 11. [抖音：经有关部门批准，同意三只羊注销原账号、注册新账号、发布内容和恢复经营](https://www.ithome.com/1/014/033.htm)
 12. [苹果库克：iPhone Duo 完全在中国制造，非常期待它在中国市场的表现](https://www.ithome.com/1/013/719.htm)
