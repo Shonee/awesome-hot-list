@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-16 18:13:31
+> 更新时间：2026-10-16 19:13:34
 
 ## Hottest
 
@@ -8,24 +8,24 @@
 2. [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 3. [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 4. [Sunsetting decomp.dev](https://decomp.dev/)
-5. [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
-6. [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
-7. [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
+5. [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
+6. [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
+7. [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
 8. [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
 9. [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
 10. [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 11. [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
 12. [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
-13. [The Costa GUI](https://costa.jacobpalm.dk)
-14. [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders)
-15. [Where did WIN32_LEAN_AND_MEAN come from? (2009)](https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/)
-16. [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
-17. [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html)
-18. [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects)
-19. [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
-20. [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
-21. [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html)
-22. [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
-23. [What are you doing this weekend?](https://lobste.rs/s/hounpx)
-24. [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
-25. [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+13. [Where did WIN32_LEAN_AND_MEAN come from? (2009)](https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/)
+14. [The Costa GUI](https://costa.jacobpalm.dk)
+15. [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders)
+16. [What are you doing this weekend?](https://lobste.rs/s/hounpx)
+17. [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
+18. [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html)
+19. [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects)
+20. [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
+21. [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
+22. [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html)
+23. [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
+24. [coopiano: A physically modelled piano synthesizer in C++17](https://github.com/peterc/coopiano)
+25. [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
