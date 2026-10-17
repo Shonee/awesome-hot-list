@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-17 22:10:07
+> 更新时间：2026-10-17 23:11:05
 
 ## 热门文章
 
@@ -44,13 +44,13 @@
 38. [别再死磕纯技术了：2026 年程序员的 7 条真实出路](https://juejin.cn/post/7696817605548245002)
 39. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://juejin.cn/post/7696796824939806758)
 40. [1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异](https://juejin.cn/post/7696326603062116402)
-41. [AI时代我们要如何玩抓包测试：Reqable + AI Agent](https://juejin.cn/post/7696796824939773990)
-42. [全网都在聊的 FDE，到底是啥？一篇拆透](https://juejin.cn/post/7696745540986667044)
-43. [从零手搓 RAG 之文档解析技术](https://juejin.cn/post/7696908590871511075)
-44. [DeepSeek Harness 进阶——认识DeepSeek Harness插件机制，并从0到1实现一个插件](https://juejin.cn/post/7696822189491912742)
-45. [“79岁陶华碧靠AI一年赚54亿”？别急着转发，先看一瓶辣椒酱的“AI含量”有多高](https://juejin.cn/post/7696763674733445161)
-46. [Rsdoctor 2.0 发布：Agent 驱动的全自动优化工具](https://juejin.cn/post/7696736365812940851)
+41. [全网都在聊的 FDE，到底是啥？一篇拆透](https://juejin.cn/post/7696745540986667044)
+42. [AI时代我们要如何玩抓包测试：Reqable + AI Agent](https://juejin.cn/post/7696796824939773990)
+43. [Rsdoctor 2.0 发布：Agent 驱动的全自动优化工具](https://juejin.cn/post/7696736365812940851)
+44. [从零手搓 RAG 之文档解析技术](https://juejin.cn/post/7696908590871511075)
+45. [DeepSeek Harness 进阶——认识DeepSeek Harness插件机制，并从0到1实现一个插件](https://juejin.cn/post/7696822189491912742)
+46. [“79岁陶华碧靠AI一年赚54亿”？别急着转发，先看一瓶辣椒酱的“AI含量”有多高](https://juejin.cn/post/7696763674733445161)
 47. [iframe 授权失败时露出 60000 JSON 的复盘](https://juejin.cn/post/7696696661666938916)
 48. [从 Skills 到可靠的 Bugfix Agent](https://juejin.cn/post/7696546382389018662)
 49. [如何安装旧版的MacOS系统？](https://juejin.cn/post/7696485975317626899)
-50. [我做了一个 Chrome 插件，专治“这篇文章我明明看过，但重点去哪了？”](https://juejin.cn/post/7697087660390285322)
+50. [动态规则的 Agent 实践：用确定性工程驾驭 LLM 的资产智能验收](https://juejin.cn/post/7696452097273430079)
