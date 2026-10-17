@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-17 07:10:40
+> 更新时间：2026-10-17 08:30:34
 
 ## 热新闻
 
@@ -11,16 +11,16 @@
 5. [江西丰城同田乡政府拖欠工程款数年本息达5000多万元，败诉后称无力偿还](https://www.thepaper.cn/newsDetail_forward_34262076)
 6. [客户反映价值万元的14桶哈根达斯融化损毁，顺丰：维持两千元赔偿方案](https://www.thepaper.cn/newsDetail_forward_34261750)
 7. [铁路车次编排将调整，更高时速动车组新增X字头](https://www.thepaper.cn/newsDetail_forward_34261594)
-8. [能飞还会空中翻滚！特斯拉新款Roadster跑车亮相，马斯克称2028年量产](https://www.thepaper.cn/newsDetail_forward_34261270)
-9. [最后的采访｜哲学家楼宇烈：在中国传统中，寻找时代困境的解法](https://www.thepaper.cn/newsDetail_forward_34255069)
+8. [南通一高中生校内坠楼身亡案今日二审，学校是否尽到管理责任成庭审焦点](https://www.thepaper.cn/newsDetail_forward_34265292)
+9. [能飞还会空中翻滚！特斯拉新款Roadster跑车亮相，马斯克称2028年量产](https://www.thepaper.cn/newsDetail_forward_34261270)
 10. [言短意长｜雷波县“县政府主要负责同志”可以有名字](https://www.thepaper.cn/newsDetail_forward_34261235)
-11. [奔赴“县”场｜“江西小炒”出圈，一座赣南小城为何成为赢家](https://www.thepaper.cn/newsDetail_forward_34256903)
-12. [澎湃回声｜两个400号码涉嫌假冒品牌客服，关联公司被南京两区市监局调查](https://www.thepaper.cn/newsDetail_forward_34258031)
-13. [贵州一男子“楼上百日宴楼下办婚宴”，律师解析重婚认定门槛：共同生活，不等于“夫妻名义”](https://www.thepaper.cn/newsDetail_forward_34262998)
-14. [同款暖心服务！深圳机场提供2元单片布洛芬引热议，记者实测上海浦东机场也可按需提供](https://www.thepaper.cn/newsDetail_forward_34257849)
-15. [马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务](https://www.thepaper.cn/newsDetail_forward_34261604)
-16. [马上评｜不简单以分数论教育，还要说多少遍？](https://www.thepaper.cn/newsDetail_forward_34261601)
-17. [启东老宅婚礼“深情对视”视频刷屏，新郎回应：不是摆拍，相爱的人都差不多](https://www.thepaper.cn/newsDetail_forward_34264265)
-18. [平台售卖“中国天眼深度科普体验”项目被查，央媒：科研重地不容“付费通关”](https://www.thepaper.cn/newsDetail_forward_34260930)
-19. [“苹果卡嘴取不下来”火上热搜：女子否认摆拍晒急诊缴费单，医院工作人员回应](https://www.thepaper.cn/newsDetail_forward_34256307)
-20. [库克：中国几乎所有人都在积极拥抱AI，令人印象深刻](https://www.thepaper.cn/newsDetail_forward_34261252)
+11. [贵州一男子“楼上百日宴楼下办婚宴”，律师解析重婚认定门槛：共同生活，不等于“夫妻名义”](https://www.thepaper.cn/newsDetail_forward_34262998)
+12. [马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务](https://www.thepaper.cn/newsDetail_forward_34261604)
+13. [马上评｜不简单以分数论教育，还要说多少遍？](https://www.thepaper.cn/newsDetail_forward_34261601)
+14. [启东老宅婚礼“深情对视”视频刷屏，新郎回应：不是摆拍，相爱的人都差不多](https://www.thepaper.cn/newsDetail_forward_34264265)
+15. [平台售卖“中国天眼深度科普体验”项目被查，央媒：科研重地不容“付费通关”](https://www.thepaper.cn/newsDetail_forward_34260930)
+16. [“苹果卡嘴取不下来”火上热搜：女子否认摆拍晒急诊缴费单，医院工作人员回应](https://www.thepaper.cn/newsDetail_forward_34256307)
+17. [库克：中国几乎所有人都在积极拥抱AI，令人印象深刻](https://www.thepaper.cn/newsDetail_forward_34261252)
+18. [商务部新闻发言人就欧盟峰会提出对华“双轨”思路答记者问](https://www.thepaper.cn/newsDetail_forward_34264769)
+19. [上海国际艺术节每日一聊｜60秒走进上海大歌剧院](https://www.thepaper.cn/newsDetail_forward_34261269)
+20. [全国即将进入省级党代会时间](https://www.thepaper.cn/newsDetail_forward_34265066)
