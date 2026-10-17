@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-18 02:12:42
+> 更新时间：2026-10-18 03:08:26
 
 ## 热门文章
 
@@ -30,11 +30,11 @@
 24. [70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）](https://juejin.cn/post/7696894428132294665)
 25. [软考高项考下来：每月多600，还被推进数据局当专家（一次800）](https://juejin.cn/post/7696791074137030719)
 26. [干了15年Java，我转做Agent工程师这一年，聊聊程序员靠什么熬过未来两年](https://juejin.cn/post/7696134629166415923)
-27. [我上手了 Vite+ 1.0：Node 不用自己装，lint 却翻车了](https://juejin.cn/post/7696701832724627496)
-28. [AI Coding 时代最值钱的东西，软件工程（上）](https://juejin.cn/post/7696821865848733705)
-29. [2026年的前端：你引以为傲的框架，正在被浏览器原生能力“架空”](https://juejin.cn/post/7697134861442039849)
-30. [WorkBuddy 装完就吃灰？3 个动作让 AI 真帮你干活](https://juejin.cn/post/7696817605547638794)
-31. [记账 App 我装了删、删了装，最后自己写了一个：本地语音识别 + R8 踩坑复盘](https://juejin.cn/post/7695732727549526056)
+27. [AI Coding 时代最值钱的东西，软件工程（上）](https://juejin.cn/post/7696821865848733705)
+28. [我上手了 Vite+ 1.0：Node 不用自己装，lint 却翻车了](https://juejin.cn/post/7696701832724627496)
+29. [记账 App 我装了删、删了装，最后自己写了一个：本地语音识别 + R8 踩坑复盘](https://juejin.cn/post/7695732727549526056)
+30. [2026年的前端：你引以为傲的框架，正在被浏览器原生能力“架空”](https://juejin.cn/post/7697134861442039849)
+31. [WorkBuddy 装完就吃灰？3 个动作让 AI 真帮你干活](https://juejin.cn/post/7696817605547638794)
 32. [我用 Spring AI + MCP 把公司内部系统接给了 AI，过程没想象中顺利](https://juejin.cn/post/7696387828729970729)
 33. [我用全新 TRAE 给耳机工厂从零写了套 MES：26 天、217 次提交、574 个测试全绿](https://juejin.cn/post/7695769417121480730)
 34. [27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议](https://juejin.cn/post/7696835478806331392)
@@ -47,10 +47,10 @@
 41. [全网都在聊的 FDE，到底是啥？一篇拆透](https://juejin.cn/post/7696745540986667044)
 42. [AI时代我们要如何玩抓包测试：Reqable + AI Agent](https://juejin.cn/post/7696796824939773990)
 43. [Rsdoctor 2.0 发布：Agent 驱动的全自动优化工具](https://juejin.cn/post/7696736365812940851)
-44. [从零手搓 RAG 之文档解析技术](https://juejin.cn/post/7696908590871511075)
-45. [DeepSeek Harness 进阶——认识DeepSeek Harness插件机制，并从0到1实现一个插件](https://juejin.cn/post/7696822189491912742)
-46. [“79岁陶华碧靠AI一年赚54亿”？别急着转发，先看一瓶辣椒酱的“AI含量”有多高](https://juejin.cn/post/7696763674733445161)
-47. [iframe 授权失败时露出 60000 JSON 的复盘](https://juejin.cn/post/7696696661666938916)
-48. [从 Skills 到可靠的 Bugfix Agent](https://juejin.cn/post/7696546382389018662)
-49. [如何安装旧版的MacOS系统？](https://juejin.cn/post/7696485975317626899)
+44. [如何安装旧版的MacOS系统？](https://juejin.cn/post/7696485975317626899)
+45. [从零手搓 RAG 之文档解析技术](https://juejin.cn/post/7696908590871511075)
+46. [DeepSeek Harness 进阶——认识DeepSeek Harness插件机制，并从0到1实现一个插件](https://juejin.cn/post/7696822189491912742)
+47. [“79岁陶华碧靠AI一年赚54亿”？别急着转发，先看一瓶辣椒酱的“AI含量”有多高](https://juejin.cn/post/7696763674733445161)
+48. [iframe 授权失败时露出 60000 JSON 的复盘](https://juejin.cn/post/7696696661666938916)
+49. [从 Skills 到可靠的 Bugfix Agent](https://juejin.cn/post/7696546382389018662)
 50. [动态规则的 Agent 实践：用确定性工程驾驭 LLM 的资产智能验收](https://juejin.cn/post/7696452097273430079)
