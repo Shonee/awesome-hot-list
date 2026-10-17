@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-18 04:11:09
+> 更新时间：2026-10-18 05:09:54
 
 ## 热门文章
 
@@ -30,9 +30,9 @@
 24. [70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）](https://juejin.cn/post/7696894428132294665)
 25. [软考高项考下来：每月多600，还被推进数据局当专家（一次800）](https://juejin.cn/post/7696791074137030719)
 26. [干了15年Java，我转做Agent工程师这一年，聊聊程序员靠什么熬过未来两年](https://juejin.cn/post/7696134629166415923)
-27. [AI Coding 时代最值钱的东西，软件工程（上）](https://juejin.cn/post/7696821865848733705)
-28. [WorkBuddy 装完就吃灰？3 个动作让 AI 真帮你干活](https://juejin.cn/post/7696817605547638794)
-29. [我上手了 Vite+ 1.0：Node 不用自己装，lint 却翻车了](https://juejin.cn/post/7696701832724627496)
+27. [我上手了 Vite+ 1.0：Node 不用自己装，lint 却翻车了](https://juejin.cn/post/7696701832724627496)
+28. [AI Coding 时代最值钱的东西，软件工程（上）](https://juejin.cn/post/7696821865848733705)
+29. [WorkBuddy 装完就吃灰？3 个动作让 AI 真帮你干活](https://juejin.cn/post/7696817605547638794)
 30. [记账 App 我装了删、删了装，最后自己写了一个：本地语音识别 + R8 踩坑复盘](https://juejin.cn/post/7695732727549526056)
 31. [2026年的前端：你引以为傲的框架，正在被浏览器原生能力“架空”](https://juejin.cn/post/7697134861442039849)
 32. [我用 Spring AI + MCP 把公司内部系统接给了 AI，过程没想象中顺利](https://juejin.cn/post/7696387828729970729)
