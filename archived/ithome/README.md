@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-17 13:12:09
+> 更新时间：2026-10-17 14:19:13
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [库克卸任苹果 CEO 后首次中国之行结束：期待下次再见](https://www.ithome.com/1/014/183.htm)
 9. [京东集团：坚决维护员工合法权益并向有关部门举报，坚决反对某些平台操纵舆论](https://www.ithome.com/1/014/177.htm)
 10. [15999 元起 20:00 蹲点抢：苹果 iPhone Duo 京东 12 期免息 + 至高补贴 700 元](https://www.ithome.com/1/014/008.htm)
-11. [马斯克回应第二代 Roadster 跑车能否合法上路：能不能要看道路情况](https://www.ithome.com/1/013/869.htm)
-12. [苹果库克时隔 3 年再次现身米哈游总部，与“大伟哥”见面](https://www.ithome.com/1/013/979.htm)
+11. [苹果库克时隔 3 年再次现身米哈游总部，与“大伟哥”见面](https://www.ithome.com/1/013/979.htm)
+12. [消息称 DeepSeek 将 Harness、Web、App、Platform 团队整合成立“产品部”](https://www.ithome.com/1/013/970.htm)

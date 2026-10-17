@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-17 13:11:36
+> 更新时间：2026-10-17 14:18:58
 
 ## 24 小时热榜
 
@@ -12,24 +12,24 @@
 6. [京东称坚决维护员工合法权益 法务部将支持员工反诉并举报](https://readhub.cn/topic/8xHJlF6REVi?tab=daily)
 7. [四部门组织 30 余家车企座谈 加强汽车产品研发测试验证管理](https://readhub.cn/topic/8xH8N79mpS9?tab=daily)
 8. [疯狂小杨哥张庆杨宣布复播：注销原抖音账号，启用新号「庆杨」](https://readhub.cn/topic/8xH3LVs5Kql?tab=daily)
-9. [腾讯 WorkBuddy、CodeBuddy 团队公布 DeepSeek 模型服务异常补偿方案](https://readhub.cn/topic/8xGg5gZwynn?tab=daily)
-10. [重庆车企赛力斯频遭网络谣言 警方已查处 22 名违法行为人](https://readhub.cn/topic/8xH48tTohxm?tab=daily)
-11. [长安汽车掌舵人调整 赵非接替朱华荣担任董事长](https://readhub.cn/topic/8xH0Sd29YzQ?tab=daily)
+9. [重庆车企赛力斯频遭网络谣言 警方已查处 22 名违法行为人](https://readhub.cn/topic/8xH48tTohxm?tab=daily)
+10. [长安汽车掌舵人调整 赵非接替朱华荣担任董事长](https://readhub.cn/topic/8xH0Sd29YzQ?tab=daily)
+11. [OpenAI 官宣 ChatGPT 重大升级，可接管 Chrome 操作网页](https://readhub.cn/topic/8xH4lak03AP?tab=daily)
 12. [开发者用 Opus 5.5 仅 16 天把《小王子》做成 3D 游戏](https://readhub.cn/topic/8xGQkclXDKG?tab=daily)
 13. [极氪 7X 雨雾天坠下约 60 米高架桥，车主发帖报平安称下一辆还是极氪](https://readhub.cn/topic/8xF08KcF1pL?tab=daily)
-14. [OpenAI 官宣 ChatGPT 重大升级，可接管 Chrome 操作网页](https://readhub.cn/topic/8xH4lak03AP?tab=daily)
-15. [库克时隔 3 年再次现身上海米哈游总部](https://readhub.cn/topic/8xGvXm4von0?tab=daily)
-16. [懂车帝下架尊界 V800 测试相关视频，官方尚未回应](https://readhub.cn/topic/8xFKuMmTA9R?tab=daily)
-17. [特斯拉美股夜盘涨超 2%，发布会展示 Roadster 短时离地及空中翻滚效果](https://readhub.cn/topic/8xGXsU3YmcP?tab=daily)
-18. [中日 8 月减持美债 英国持仓升至 1.01 万亿美元](https://readhub.cn/topic/8xHilLzhh1e?tab=daily)
+14. [库克时隔 3 年再次现身上海米哈游总部](https://readhub.cn/topic/8xGvXm4von0?tab=daily)
+15. [懂车帝下架尊界 V800 测试相关视频，官方尚未回应](https://readhub.cn/topic/8xFKuMmTA9R?tab=daily)
+16. [特斯拉美股夜盘涨超 2%，发布会展示 Roadster 短时离地及空中翻滚效果](https://readhub.cn/topic/8xGXsU3YmcP?tab=daily)
+17. [中日 8 月减持美债 英国持仓升至 1.01 万亿美元](https://readhub.cn/topic/8xHilLzhh1e?tab=daily)
+18. [Claude 半小时破解二十余年 NIST 椭圆曲线种子来源谜题](https://readhub.cn/topic/8xI5HTRDMXT?tab=daily)
 19. [马斯克：正在开发专用议价机器人 每年可为全球节省 6 万亿美元](https://readhub.cn/topic/8xHfXWqWA1a?tab=daily)
-20. [自然人陈秋航内幕交易获利 2581 万 被证监会罚没近 1.82 亿元](https://readhub.cn/topic/8xH2wzGvXEK?tab=daily)
-21. [Claude 半小时破解二十余年 NIST 椭圆曲线种子来源谜题](https://readhub.cn/topic/8xI5HTRDMXT?tab=daily)
-22. [Anthropic 称人均雇员创收是 Meta 和谷歌的 2 至 4 倍](https://readhub.cn/topic/8xHmKTgFViW?tab=daily)
-23. [懂车帝辟谣「删视频」热搜：网传截图人为拼接属谣言](https://readhub.cn/topic/8xH2e5g9MCR?tab=daily)
-24. [联通宣布 2009 年渠道购正版 iPhone 老用户可优先购 iPhone Duo](https://readhub.cn/topic/8xH93CQ0pxw?tab=daily)
-25. [广东已备案 195 款大模型 位居全国前列](https://readhub.cn/topic/8xICPceo79P?tab=daily)
-26. [京津冀等 5 个城市群将开展氢能综合应用试点工作](https://readhub.cn/topic/8xHCdsyJaVR?tab=daily)
+20. [广东已备案 195 款大模型 位居全国前列](https://readhub.cn/topic/8xICPceo79P?tab=daily)
+21. [自然人陈秋航内幕交易获利 2581 万 被证监会罚没近 1.82 亿元](https://readhub.cn/topic/8xH2wzGvXEK?tab=daily)
+22. [懂车帝辟谣「删视频」热搜：网传截图人为拼接属谣言](https://readhub.cn/topic/8xH2e5g9MCR?tab=daily)
+23. [联通宣布 2009 年渠道购正版 iPhone 老用户可优先购 iPhone Duo](https://readhub.cn/topic/8xH93CQ0pxw?tab=daily)
+24. [Anthropic 称人均雇员创收是 Meta 和谷歌的 2 至 4 倍](https://readhub.cn/topic/8xHmKTgFViW?tab=daily)
+25. [京津冀等 5 个城市群将开展氢能综合应用试点工作](https://readhub.cn/topic/8xHCdsyJaVR?tab=daily)
+26. [雅万高铁开通运营三周年 累计发送旅客超 1800 万人次](https://readhub.cn/topic/8xICnyKh0QI?tab=daily)
 27. [阿里云：因产品策略调整 虚拟数字人启动退市](https://readhub.cn/topic/8xGlo0P3Cm8?tab=daily)
 28. [马斯克回应第二代 Roadster 跑车能否合法上路：要看所在道路情况](https://readhub.cn/topic/8xGjJ8INU7O?tab=daily)
 29. [文化和旅游部发布「人工智能 + 文化和旅游」应用试点立项名单](https://readhub.cn/topic/8xGoeumlwYq?tab=daily)
