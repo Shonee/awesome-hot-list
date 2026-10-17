@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-17 23:35:23
+> 更新时间：2026-10-18 00:37:45
 
 ## 24 小时热榜
 
@@ -17,23 +17,23 @@
 11. [SpaceX 提供冷气推进器：详解第二代特斯拉 Roadster 为何能飞](https://readhub.cn/topic/8xI9Cp5CWJn?tab=daily)
 12. [鲁班工坊系列国家标准正式公布 2027 年 4 月起实施](https://readhub.cn/topic/8xICPa4iLn0?tab=daily)
 13. [Anthropic 称人均雇员创收是 Meta 和谷歌的 2 至 4 倍](https://readhub.cn/topic/8xHmKTgFViW?tab=daily)
-14. [马斯克回应第二代 Roadster 跑车能否合法上路：要看所在道路情况](https://readhub.cn/topic/8xGjJ8INU7O?tab=daily)
-15. [商务部就禁止出口限制出口技术目录修订公开征求意见](https://readhub.cn/topic/8xH1uTSNgoH?tab=daily)
+14. [商务部就禁止出口限制出口技术目录修订公开征求意见](https://readhub.cn/topic/8xH1uTSNgoH?tab=daily)
+15. [马斯克回应第二代 Roadster 跑车能否合法上路：要看所在道路情况](https://readhub.cn/topic/8xGjJ8INU7O?tab=daily)
 16. [约会软件巨头 Bumble 市值跌超 95%，将被全现金收购](https://readhub.cn/topic/8xIYvKmKQIg?tab=daily)
 17. [我国首个全自主可控气象 AI 集合预报系统「风清」投入业务运行](https://readhub.cn/topic/8xIFeGK1bP9?tab=daily)
 18. [两部门：支持体育运动进影院 探索在符合条件的电影院开展适宜的运动项目](https://readhub.cn/topic/8xIAfjVAO8F?tab=daily)
 19. [RISC-V 重磅峰会将举办 产业空间有望超 2000 亿元](https://readhub.cn/topic/8xIM3l2QNI5?tab=daily)
 20. [谷歌购物工具 Universal Cart 在美国上线](https://readhub.cn/topic/8xG6Ltjifna?tab=daily)
-21. [行业首个基于确定性网络的智能体互联平台 AXP 正式发布](https://readhub.cn/topic/8xIDU6jdqA2?tab=daily)
-22. [OpenAI 再度挖角 SpaceX AI 领域核心销售负责人](https://readhub.cn/topic/8xHpuFyHj1U?tab=daily)
-23. [OpenSpace 开源太空生态发布 开源计算星座首期规划 2600 颗卫星](https://readhub.cn/topic/8xIp0IMWKr2?tab=daily)
-24. [苹果首款折叠屏手机供应吃紧 部分订单发货已排至明年](https://readhub.cn/topic/8xHHdrGn9wf?tab=daily)
-25. [报道：美国 FAA 最快下周批准波音 737 MAX 10](https://readhub.cn/topic/8xHauYC5mYJ?tab=daily)
-26. [软银据悉考虑收购美国最大安保服务公司 其 ADR 一度跌近 8%](https://readhub.cn/topic/8xHe6slm7Td?tab=daily)
-27. [维信诺与荣耀全球首发 2K 185Hz 电竞护眼屏 荣耀 WIN2 系列全系搭载](https://readhub.cn/topic/8xHSKWRz1TB?tab=daily)
-28. [中兴通讯 CTO 王喜瑜：新一代数据中心网络 NPO 方案为 AI Fabric 提供更优解](https://readhub.cn/topic/8xIUdRZ9xd8?tab=daily)
+21. [OpenSpace 开源太空生态发布 开源计算星座首期规划 2600 颗卫星](https://readhub.cn/topic/8xIp0IMWKr2?tab=daily)
+22. [行业首个基于确定性网络的智能体互联平台 AXP 正式发布](https://readhub.cn/topic/8xIDU6jdqA2?tab=daily)
+23. [OpenAI 再度挖角 SpaceX AI 领域核心销售负责人](https://readhub.cn/topic/8xHpuFyHj1U?tab=daily)
+24. [报道：美国 FAA 最快下周批准波音 737 MAX 10](https://readhub.cn/topic/8xHauYC5mYJ?tab=daily)
+25. [软银据悉考虑收购美国最大安保服务公司 其 ADR 一度跌近 8%](https://readhub.cn/topic/8xHe6slm7Td?tab=daily)
+26. [医用外骨骼康复训练项目已纳入多地医保或长护险试点](https://readhub.cn/topic/8xIxDfCzzXG?tab=daily)
+27. [中兴通讯 CTO 王喜瑜：新一代数据中心网络 NPO 方案为 AI Fabric 提供更优解](https://readhub.cn/topic/8xIUdRZ9xd8?tab=daily)
+28. [维信诺与荣耀全球首发 2K 185Hz 电竞护眼屏 荣耀 WIN2 系列全系搭载](https://readhub.cn/topic/8xHSKWRz1TB?tab=daily)
 29. [微软推出「AI 学生模拟器」研究系统](https://readhub.cn/topic/8xI6M8JNEFs?tab=daily)
-30. [医用外骨骼康复训练项目已纳入多地医保或长护险试点](https://readhub.cn/topic/8xIxDfCzzXG?tab=daily)
+30. [广汽埃安 Ray7 开启预售 预售价 12.88 万元起](https://readhub.cn/topic/8xIuNJASOS7?tab=daily)
 
 ## 每日早报
 
@@ -55,5 +55,5 @@
 6. [华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS](https://www.ithome.com/1/014/390.htm)
 7. [边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行](https://www.ithome.com/1/014/387.htm)
 8. [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
-9. [巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润](https://www.huxiu.com/article/4898339.html?f=rss)
-10. [Google 调整 AI 搜索：内联链接前移，官方站点在回答顶部单独成区](https://www.amz123.com/kx/9bT2LCda)
+9. [新型「灵巧手」亮相广交会 单指可提近 20 公斤重物](https://news.cctv.com/2026/10/17/ARTIfzcduh91cxzQJtHZPalP261017.shtml)
+10. [巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润](https://www.huxiu.com/article/4898339.html?f=rss)
