@@ -1,16 +1,16 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-17 08:30:30
+> 更新时间：2026-10-17 09:06:38
 
 ## 人气热门
 
-1. [U盘量产四合一助手](https://www.52pojie.cn/thread-2131937-1-1.html)
-2. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.13)](https://www.52pojie.cn/thread-2132239-1-1.html)
-3. [Everything 1.5.0.1424b 简体中文完全汉化绿色版(高亮搜索关键词)](https://www.52pojie.cn/thread-2132740-1-1.html)
-4. [硬盘检测及监控工具 CrystalDiskInfo 9.9.3 单文件绿色版](https://www.52pojie.cn/thread-2132036-1-1.html)
-5. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
-6. [Filee-1.10.0免费开源的离线文件格式转换工具](https://www.52pojie.cn/thread-2132113-1-1.html)
-7. [随身听书 安卓端 更新v3.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
+1. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
+2. [Everything 1.5.0.1424b 简体中文完全汉化绿色版(高亮搜索关键词)](https://www.52pojie.cn/thread-2132740-1-1.html)
+3. [Filee-1.10.0免费开源的离线文件格式转换工具](https://www.52pojie.cn/thread-2132113-1-1.html)
+4. [U盘量产四合一助手](https://www.52pojie.cn/thread-2131937-1-1.html)
+5. [随身听书 安卓端 更新v3.0, 多源聚合听书app](https://www.52pojie.cn/thread-2130881-1-1.html)
+6. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.13)](https://www.52pojie.cn/thread-2132239-1-1.html)
+7. [硬盘检测及监控工具 CrystalDiskInfo 9.9.3 单文件绿色版](https://www.52pojie.cn/thread-2132036-1-1.html)
 8. [PDF工具箱 PDF24 Creator 11.31.1](https://www.52pojie.cn/thread-2131086-1-1.html)
 9. [广告自动跳过工具 GKD v1.13.0-beta-2](https://www.52pojie.cn/thread-2132357-1-1.html)
 10. [Pulse 1.0.53 Windows 打造的开源现代文件管理器261008更新](https://www.52pojie.cn/thread-2131034-1-1.html)
