@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-17 16:15:12
+> 更新时间：2026-10-17 17:12:11
 
 ## 最新帖子
 
-1. [MinMax vs Standard vs Robust：三种特征缩放怎么选](https://www.cnblogs.com/wang_yb/p/23340695)
-2. [go语言复制文件和操作目录](https://www.cnblogs.com/ishoulgodo/p/23320544)
-3. [CatBase 排序算法实战，从内置 sorted 到手写冒泡](https://www.cnblogs.com/forges/p/23339994)
-4. [PID 用顺了，然后呢：增强手术与前馈](https://www.cnblogs.com/zw-awa/p/23339843)
-5. [Kali Linux 密码破解实战：从字典生成到 GPU 暴力破解全流程](https://www.cnblogs.com/Johny-zhao/p/23338508)
-6. [js中every和some的详细介绍](https://www.cnblogs.com/IwishIcould/p/21466790)
-7. [WorkBuddy白送500积分，大家快来领](https://www.cnblogs.com/xiezhr/p/23336924)
-8. [笛卡尔树](https://www.cnblogs.com/lvwangshuOI/p/23332222)
-9. [【南大软件分析-学习笔记】Lecture 6-Data Flow Analysis-Foundation（下）](https://www.cnblogs.com/yixiku/p/23332053)
-10. [AI 越强，被它拒绝的代价就越大](https://www.cnblogs.com/leikooo/p/23331970)
-11. [wujie 微前端踩坑实录：一个子应用的 7 个生产事故现场](https://www.cnblogs.com/ChineseLiao/p/23330749)
-12. [装了这么多年 .NET，微软终于把 rustup 那套搬过来了](https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup)
-13. [好题合集 2026.10](https://www.cnblogs.com/xita/p/23181193)
-14. [单日涨星2.5万！AI逆向工程REA到底强在哪？](https://www.cnblogs.com/chingho/p/23329759)
-15. [一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了](https://www.cnblogs.com/652769324qq/p/23328265)
-16. [给 REA 套一层 GUI：153 个命令的界面是怎么自动长出来的](https://www.cnblogs.com/wyang/p/23329180)
-17. [Linux 内核模块为什么不能在运行时处理兼容性问题？](https://www.cnblogs.com/KBin/p/23327958)
-18. [千万三角面工业模型网页轻量化手动减面与AI智能减面实操](https://www.cnblogs.com/startechnology/p/23327684)
-19. [把工程流程沉淀为 Agent 资产：一套可交接的四层工作流](https://www.cnblogs.com/huangrenhui/p/23327347)
-20. [瑞芯微rv1106进入Loader模式转储emmc数据](https://www.cnblogs.com/Johness/p/23325648)
+1. [百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进](https://www.cnblogs.com/xiongdy2017/p/23341228)
+2. [川剧复演 题解](https://www.cnblogs.com/lvwangshuOI/p/23341047)
+3. [MinMax vs Standard vs Robust：三种特征缩放怎么选](https://www.cnblogs.com/wang_yb/p/23340695)
+4. [go语言复制文件和操作目录](https://www.cnblogs.com/ishoulgodo/p/23320544)
+5. [CatBase 排序算法实战，从内置 sorted 到手写冒泡](https://www.cnblogs.com/forges/p/23339994)
+6. [PID 用顺了，然后呢：增强手术与前馈](https://www.cnblogs.com/zw-awa/p/23339843)
+7. [Kali Linux 密码破解实战：从字典生成到 GPU 暴力破解全流程](https://www.cnblogs.com/Johny-zhao/p/23338508)
+8. [js中every和some的详细介绍](https://www.cnblogs.com/IwishIcould/p/21466790)
+9. [WorkBuddy白送500积分，大家快来领](https://www.cnblogs.com/xiezhr/p/23336924)
+10. [笛卡尔树](https://www.cnblogs.com/lvwangshuOI/p/23332222)
+11. [【南大软件分析-学习笔记】Lecture 6-Data Flow Analysis-Foundation（下）](https://www.cnblogs.com/yixiku/p/23332053)
+12. [AI 越强，被它拒绝的代价就越大](https://www.cnblogs.com/leikooo/p/23331970)
+13. [wujie 微前端踩坑实录：一个子应用的 7 个生产事故现场](https://www.cnblogs.com/ChineseLiao/p/23330749)
+14. [装了这么多年 .NET，微软终于把 rustup 那套搬过来了](https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup)
+15. [好题合集 2026.10](https://www.cnblogs.com/xita/p/23181193)
+16. [单日涨星2.5万！AI逆向工程REA到底强在哪？](https://www.cnblogs.com/chingho/p/23329759)
+17. [一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了](https://www.cnblogs.com/652769324qq/p/23328265)
+18. [给 REA 套一层 GUI：153 个命令的界面是怎么自动长出来的](https://www.cnblogs.com/wyang/p/23329180)
+19. [Linux 内核模块为什么不能在运行时处理兼容性问题？](https://www.cnblogs.com/KBin/p/23327958)
+20. [千万三角面工业模型网页轻量化手动减面与AI智能减面实操](https://www.cnblogs.com/startechnology/p/23327684)
 
 ## 精华帖子
 

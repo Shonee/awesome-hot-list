@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-17 16:15:30
+> 更新时间：2026-10-17 17:12:57
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [GTA6葱哥亮露西娅4K新片！币值暴跌直接腰斩](https://www.gamersky.com/news/202610/2226447.shtml)
 11. [《生化危机9：安魂曲》女主格蕾丝加盟原因:里昂太猛没恐怖味了](https://www.gamersky.com/news/202610/2225627.shtml)
 12. [《猛鬼追魂》尺度太大无和谐震惊作者!](https://www.gamersky.com/news/202610/2228485.shtml)
-13. [央视曝光在校学生藏手机神器 销量数千件太坑娃](https://www.gamersky.com/news/202610/2226420.shtml)
-14. [《GTA6》女主露西娅变亚裔美女 网友直呼更漂亮了](https://www.gamersky.com/news/202610/2227886.shtml)
+13. [《GTA6》女主露西娅变亚裔美女 网友直呼更漂亮了](https://www.gamersky.com/news/202610/2227886.shtml)
+14. [央视曝光在校学生藏手机神器 销量数千件太坑娃](https://www.gamersky.com/news/202610/2226420.shtml)
 15. [《影之刃零》原型震惊索尼高层：你们是哪儿来的高手？](https://www.gamersky.com/news/202610/2225945.shtml)
