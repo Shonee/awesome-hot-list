@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-17 10:16:00
+> 更新时间：2026-10-17 11:13:11
 
 ## 热新闻
 
@@ -11,16 +11,16 @@
 5. [客户反映价值万元的14桶哈根达斯融化损毁，顺丰：维持两千元赔偿方案](https://www.thepaper.cn/newsDetail_forward_34261750)
 6. [南通一高中生校内坠楼身亡案今日二审，学校是否尽到管理责任成庭审焦点](https://www.thepaper.cn/newsDetail_forward_34265292)
 7. [铁路车次编排将调整，更高时速动车组新增X字头](https://www.thepaper.cn/newsDetail_forward_34261594)
-8. [能飞还会空中翻滚！特斯拉新款Roadster跑车亮相，马斯克称2028年量产](https://www.thepaper.cn/newsDetail_forward_34261270)
-9. [言短意长｜雷波县“县政府主要负责同志”可以有名字](https://www.thepaper.cn/newsDetail_forward_34261235)
-10. [贵州一男子“楼上百日宴楼下办婚宴”，律师解析重婚认定门槛：共同生活，不等于“夫妻名义”](https://www.thepaper.cn/newsDetail_forward_34262998)
-11. [马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务](https://www.thepaper.cn/newsDetail_forward_34261604)
-12. [马上评｜不简单以分数论教育，还要说多少遍？](https://www.thepaper.cn/newsDetail_forward_34261601)
-13. [启东老宅婚礼“深情对视”视频刷屏，新郎回应：不是摆拍，相爱的人都差不多](https://www.thepaper.cn/newsDetail_forward_34264265)
-14. [“苹果卡嘴取不下来”火上热搜：女子否认摆拍晒急诊缴费单，医院工作人员回应](https://www.thepaper.cn/newsDetail_forward_34256307)
-15. [库克：中国几乎所有人都在积极拥抱AI，令人印象深刻](https://www.thepaper.cn/newsDetail_forward_34261252)
-16. [商务部新闻发言人就欧盟峰会提出对华“双轨”思路答记者问](https://www.thepaper.cn/newsDetail_forward_34264769)
-17. [上海国际艺术节每日一聊｜60秒走进上海大歌剧院](https://www.thepaper.cn/newsDetail_forward_34261269)
-18. [全国即将进入省级党代会时间](https://www.thepaper.cn/newsDetail_forward_34265066)
-19. [阿尔茨海默病老人“闪婚”后房子被置换，妻子、胞弟谁适合当监护人？](https://www.thepaper.cn/newsDetail_forward_34264950)
-20. [上半年中国金饰销量跌三成、消费金额涨5%，为何量价背离？](https://www.thepaper.cn/newsDetail_forward_34264666)
+8. [贵州一男子“楼上百日宴楼下办婚宴”，律师解析重婚认定门槛：共同生活，不等于“夫妻名义”](https://www.thepaper.cn/newsDetail_forward_34262998)
+9. [马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务](https://www.thepaper.cn/newsDetail_forward_34261604)
+10. [马上评｜不简单以分数论教育，还要说多少遍？](https://www.thepaper.cn/newsDetail_forward_34261601)
+11. [启东老宅婚礼“深情对视”视频刷屏，新郎回应：不是摆拍，相爱的人都差不多](https://www.thepaper.cn/newsDetail_forward_34264265)
+12. [商务部新闻发言人就欧盟峰会提出对华“双轨”思路答记者问](https://www.thepaper.cn/newsDetail_forward_34264769)
+13. [上海国际艺术节每日一聊｜60秒走进上海大歌剧院](https://www.thepaper.cn/newsDetail_forward_34261269)
+14. [全国即将进入省级党代会时间](https://www.thepaper.cn/newsDetail_forward_34265066)
+15. [阿尔茨海默病老人“闪婚”后房子被置换，妻子、胞弟谁适合当监护人？](https://www.thepaper.cn/newsDetail_forward_34264950)
+16. [上半年中国金饰销量跌三成、消费金额涨5%，为何量价背离？](https://www.thepaper.cn/newsDetail_forward_34264666)
+17. [城市文明时评｜上海艺术盛宴启幕，文明观众也是精彩所在](https://www.thepaper.cn/newsDetail_forward_34262723)
+18. [结束近40年合作！美国肯德基用可口可乐取代百事可乐，中国门店暂无更换通知](https://www.thepaper.cn/newsDetail_forward_34262712)
+19. [汕头“12·9”重大火灾事故调查报告公布：系使用蚊香不慎引发](https://www.thepaper.cn/newsDetail_forward_34263494)
+20. [重估具身智能：投资人不再相信宏大叙事，更在乎能不能落地](https://www.thepaper.cn/newsDetail_forward_34217012)
