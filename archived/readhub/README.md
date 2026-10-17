@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-18 02:13:02
+> 更新时间：2026-10-18 03:35:19
 
 ## 24 小时热榜
 
@@ -13,27 +13,27 @@
 7. [雅万高铁开通运营三周年 累计发送旅客超 1800 万人次](https://readhub.cn/topic/8xICnyKh0QI?tab=daily)
 8. [马斯克：正在开发专用议价机器人 每年可为全球节省 6 万亿美元](https://readhub.cn/topic/8xHfXWqWA1a?tab=daily)
 9. [SpaceX 提供冷气推进器：详解第二代特斯拉 Roadster 为何能飞](https://readhub.cn/topic/8xI9Cp5CWJn?tab=daily)
-10. [懂车帝辟谣「删视频」热搜：网传截图人为拼接属谣言](https://readhub.cn/topic/8xH2e5g9MCR?tab=daily)
-11. [中日 8 月减持美债 英国持仓升至 1.01 万亿美元](https://readhub.cn/topic/8xHilLzhh1e?tab=daily)
-12. [鲁班工坊系列国家标准正式公布 2027 年 4 月起实施](https://readhub.cn/topic/8xICPa4iLn0?tab=daily)
-13. [Anthropic 称人均雇员创收是 Meta 和谷歌的 2 至 4 倍](https://readhub.cn/topic/8xHmKTgFViW?tab=daily)
-14. [商务部就禁止出口限制出口技术目录修订公开征求意见](https://readhub.cn/topic/8xH1uTSNgoH?tab=daily)
-15. [马斯克回应第二代 Roadster 跑车能否合法上路：要看所在道路情况](https://readhub.cn/topic/8xGjJ8INU7O?tab=daily)
-16. [约会软件巨头 Bumble 市值跌超 95%，将被全现金收购](https://readhub.cn/topic/8xIYvKmKQIg?tab=daily)
-17. [我国首个全自主可控气象 AI 集合预报系统「风清」投入业务运行](https://readhub.cn/topic/8xIFeGK1bP9?tab=daily)
-18. [两部门：支持体育运动进影院 探索在符合条件的电影院开展适宜的运动项目](https://readhub.cn/topic/8xIAfjVAO8F?tab=daily)
-19. [RISC-V 重磅峰会将举办 产业空间有望超 2000 亿元](https://readhub.cn/topic/8xIM3l2QNI5?tab=daily)
-20. [谷歌购物工具 Universal Cart 在美国上线](https://readhub.cn/topic/8xG6Ltjifna?tab=daily)
-21. [OpenSpace 开源太空生态发布 开源计算星座首期规划 2600 颗卫星](https://readhub.cn/topic/8xIp0IMWKr2?tab=daily)
-22. [OpenAI 再度挖角 SpaceX AI 领域核心销售负责人](https://readhub.cn/topic/8xHpuFyHj1U?tab=daily)
-23. [行业首个基于确定性网络的智能体互联平台 AXP 正式发布](https://readhub.cn/topic/8xIDU6jdqA2?tab=daily)
-24. [医用外骨骼康复训练项目已纳入多地医保或长护险试点](https://readhub.cn/topic/8xIxDfCzzXG?tab=daily)
-25. [报道：美国 FAA 最快下周批准波音 737 MAX 10](https://readhub.cn/topic/8xHauYC5mYJ?tab=daily)
-26. [软银据悉考虑收购美国最大安保服务公司 其 ADR 一度跌近 8%](https://readhub.cn/topic/8xHe6slm7Td?tab=daily)
-27. [中兴通讯 CTO 王喜瑜：新一代数据中心网络 NPO 方案为 AI Fabric 提供更优解](https://readhub.cn/topic/8xIUdRZ9xd8?tab=daily)
-28. [维信诺与荣耀全球首发 2K 185Hz 电竞护眼屏 荣耀 WIN2 系列全系搭载](https://readhub.cn/topic/8xHSKWRz1TB?tab=daily)
-29. [广汽埃安 Ray7 开启预售 预售价 12.88 万元起](https://readhub.cn/topic/8xIuNJASOS7?tab=daily)
-30. [微软推出「AI 学生模拟器」研究系统](https://readhub.cn/topic/8xI6M8JNEFs?tab=daily)
+10. [中日 8 月减持美债 英国持仓升至 1.01 万亿美元](https://readhub.cn/topic/8xHilLzhh1e?tab=daily)
+11. [鲁班工坊系列国家标准正式公布 2027 年 4 月起实施](https://readhub.cn/topic/8xICPa4iLn0?tab=daily)
+12. [Anthropic 称人均雇员创收是 Meta 和谷歌的 2 至 4 倍](https://readhub.cn/topic/8xHmKTgFViW?tab=daily)
+13. [商务部就禁止出口限制出口技术目录修订公开征求意见](https://readhub.cn/topic/8xH1uTSNgoH?tab=daily)
+14. [我国首个全自主可控气象 AI 集合预报系统「风清」投入业务运行](https://readhub.cn/topic/8xIFeGK1bP9?tab=daily)
+15. [约会软件巨头 Bumble 市值跌超 95%，将被全现金收购](https://readhub.cn/topic/8xIYvKmKQIg?tab=daily)
+16. [两部门：支持体育运动进影院 探索在符合条件的电影院开展适宜的运动项目](https://readhub.cn/topic/8xIAfjVAO8F?tab=daily)
+17. [RISC-V 重磅峰会将举办 产业空间有望超 2000 亿元](https://readhub.cn/topic/8xIM3l2QNI5?tab=daily)
+18. [OpenSpace 开源太空生态发布 开源计算星座首期规划 2600 颗卫星](https://readhub.cn/topic/8xIp0IMWKr2?tab=daily)
+19. [行业首个基于确定性网络的智能体互联平台 AXP 正式发布](https://readhub.cn/topic/8xIDU6jdqA2?tab=daily)
+20. [OpenAI 再度挖角 SpaceX AI 领域核心销售负责人](https://readhub.cn/topic/8xHpuFyHj1U?tab=daily)
+21. [医用外骨骼康复训练项目已纳入多地医保或长护险试点](https://readhub.cn/topic/8xIxDfCzzXG?tab=daily)
+22. [报道：美国 FAA 最快下周批准波音 737 MAX 10](https://readhub.cn/topic/8xHauYC5mYJ?tab=daily)
+23. [维信诺与荣耀全球首发 2K 185Hz 电竞护眼屏 荣耀 WIN2 系列全系搭载](https://readhub.cn/topic/8xHSKWRz1TB?tab=daily)
+24. [中兴通讯 CTO 王喜瑜：新一代数据中心网络 NPO 方案为 AI Fabric 提供更优解](https://readhub.cn/topic/8xIUdRZ9xd8?tab=daily)
+25. [广汽埃安 Ray7 开启预售 预售价 12.88 万元起](https://readhub.cn/topic/8xIuNJASOS7?tab=daily)
+26. [微软推出「AI 学生模拟器」研究系统](https://readhub.cn/topic/8xI6M8JNEFs?tab=daily)
+27. [中汽协与澳大利亚两大汽车行业机构举行会谈深化合作](https://readhub.cn/topic/8xIXVnKFsg8?tab=daily)
+28. [机构：第三季度上海办公楼市场需求回暖](https://readhub.cn/topic/8xHzYD1Mluv?tab=daily)
+29. [蓝色起源目标 2030 年实现每周多次重型火箭发射](https://readhub.cn/topic/8xIxE2kHnF0?tab=daily)
+30. [Manifold AI 登顶 RoboDojo 推出机器人递归自进化框架 R²SI](https://readhub.cn/topic/8xJHwsDIsNy?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [拆解 Anthropic 的生命科学布局：一家 AI 公司为何下场做实验？](https://www.mittrchina.com/news/detail/17110)
-2. [号称能「逆向一切」的 AI 工具爆火，狂揽近 30 万颗 Star，软件开发的护城河守得住吗？](https://www.mittrchina.com/news/detail/17108)
-3. [普林斯顿团队开发蛋白质生成 AI 模型：降低免疫原性，还能提高活性](https://www.mittrchina.com/news/detail/17107)
-4. [AI 用电需求激增，美国核电站掀起扩容潮](https://www.mittrchina.com/news/detail/17109)
-5. [核聚变装置能有多小？MIT 科学家尝试用桌面级设备生产燃料](https://www.mittrchina.com/news/detail/17106)
-6. [华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS](https://www.ithome.com/1/014/390.htm)
-7. [边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行](https://www.ithome.com/1/014/387.htm)
-8. [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
-9. [新型「灵巧手」亮相广交会 单指可提近 20 公斤重物](https://news.cctv.com/2026/10/17/ARTIfzcduh91cxzQJtHZPalP261017.shtml)
-10. [巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润](https://www.huxiu.com/article/4898339.html?f=rss)
+1. [拆解 Anthropic 的生命科学布局：一家 AI 公司为何下场做实验？ 一家以开发大语言模型闻名的 AI 公司，如今开始亲自做生物实验。为了让计算研究和实际实验更好地衔接，Anthropic 还在尝试解决另外两个问题：如何让 AI 更方便地使用实验设备，以及如何降低专业生物模型的计算成本。这也让 Anthropic 过去一年的一系列动作有了更清晰的联系：从连接科研数据和专业模型，到参与蛋白质设计、探索未知生物系统，再到建立自己的实验能力，Claude 正在进入生命科学研究的更多环节。 麻省理工科技评论 7 小时前](https://www.mittrchina.com/news/detail/17110)
+2. [号称能「逆向一切」的 AI 工具爆火，狂揽近 30 万颗 Star，软件开发的护城河守得住吗？ 它主要通过 MCP（模型上下文协议），将已有的逆向分析工具连接到 Claude Code、Codex 等 AI 编程智能体，让 AI 能够根据开发者提出的问题调用工具、分析结果，并尝试编写相应代码。他在 GitHub 讨论中回应称，REA 最初采用的是一种原型式的 MCP 工具调用设计，但随着 AI 客户端逐渐支持按需加载工具，这种方式已经不一定适合多数智能体。它所做的，是将已有的专业逆向工具接入 AI 智能体，让过去需要工程师手动完成的部分分析工作，可以交给 AI 协助处理。 麻省理工科技评论 8 小时前](https://www.mittrchina.com/news/detail/17108)
+3. [普林斯顿团队开发蛋白质生成 AI 模型：降低免疫原性，还能提高活性 美国普林斯顿大学生物工程系助理教授姜凯议（Kaiyi Jiang）及其合作者发表了题为《利用生成式扩散模型实现蛋白质去免疫原性设计》（Protein Deimmunization with a Generative Diffusion Model）的研究论文，提出了一种名为 MESSI 的生成式蛋白质设计模型，旨在保留蛋白质结构与功能的同时，降低其潜在免疫原性。为了实现这一目标，MESSI 采用了两个相互配合的技术设计：生成蛋白质序列的离散扩散模型，以及引导生成过程的 Lookahead–Feedback 机制。在尿酸氧化酶实验中，团队还发现，部分设计变体在降低预测免疫风险的同时，仍能保持甚至提高酶活性，其中表现最好的变体活性达到原始蛋白质的约 2.7 倍。 麻省理工科技评论 13 小时前](https://www.mittrchina.com/news/detail/17107)
+4. [AI 用电需求激增，美国核电站掀起扩容潮 近年来，随着电力需求趋于平稳，加之廉价天然气给核电站带来财务压力，功率提升项目逐渐减少。美国最近一次获批的大规模核电站功率提升项目，涉及阿拉巴马州布朗斯费里（Browns Ferry）核电站的 3 座反应堆。即便美国全国所有潜在的核电站功率提升项目全部实现，也只能满足其中的一小部分需求。 麻省理工科技评论 8 小时前](https://www.mittrchina.com/news/detail/17109)
+5. [核聚变装置能有多小？MIT 科学家尝试用桌面级设备生产燃料 美国一家初创公司正在尝试把原本需要大型激光设施完成的聚变实验，缩小到桌面级设备上。与许多直接瞄准聚变发电的企业不同，CHI 想先生产氚等稀有同位素，为其他核聚变企业提供燃料。2025 年，在 MIT 从事激光光学和高压物理研究的 Yun Kai，与 Nelson 及研究科学家 Steve Kooi 共同创办了 CHI，尝试将这项实验室技术转化为紧凑型核聚变设备。 麻省理工科技评论 13 小时前](https://www.mittrchina.com/news/detail/17106)
+6. [56 年没解开的题，AI 全解了 谷歌 DeepMind 新成果登上 Science 主刊 Science 同期配发的评论，干脆就叫「研究数学的 AI 已经到来」。AI 最终找到了一套新的参数设置，并证明：在论文规定的光滑、凸 — 凹等条件下，衡量收敛程度的「梯度范数平方」，可以达到 O (1 / t) 的收敛保证。人类创造知识的方式，开始变了。论文发表后，DeepMind 的 Pushmeet Kohli 再次强调，推动数学进步，要让数学家做得更多。 新智元 6 小时前](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba)
+7. [538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮 在每个下游任务使用不到 1 小时真机数据的情况下，机器人能够连续完成拆快递、使用热熔胶枪固定手办、制作冷饮等复杂双臂灵巧长时序任务，平均成功率达到 96.7%。GeoFormer 学习人类第一视角与机器人视角之间的几何关系，并对画面进行动态变换，从而降低人类数据与机器人数据之间的视觉差异。EgoWild2Dex 最值得关注的地方，或许不是某一个具体任务的成功率，而是它对机器人数据来源的拓展：除了昂贵的真机演示，未经刻意编排的人类日常操作，也可以成为机器人训练的数据来源。 机器之心 6 小时前](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6)
+8. [华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS 华硕推出了旗下首款英特尔 Arc Pro B70 显卡，面向 AI 推理及工作站市场。华硕此前缺席了英特尔 Arc 独立显卡的多个世代，此次推出新品意味着其再次加入英特尔独立显卡产品阵营。华硕这款产品名为 UGen Intel Arc Pro B70 32GB GDDR6，采用英特尔 Xe2 架构的 Big Battlemage GPU，配备 32GB GDDR6 ECC 显存、32 个 Xe 核心和 256 个 XMX AI 引擎，INT8 AI 算力最高可达 367 TOPS，典型板卡功耗 310W。 IT 之家 7 小时前](https://www.ithome.com/1/014/390.htm)
+9. [边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行 大科学装置「鹏城云脑 Ⅲ」的 10000P 国产算力正式上线试运行。该装置采用华为昇腾最前沿的 384 超节点架构，首期设备已于今年 3 月通电点亮，完全建成后算力规模将达到 16000P（合 16 EFLOPS）。此次 10000P 算力先行投入运营，意味着这座规划中的国内单体规模最大智算设施进入「边建设、边运营」新阶段，在全部建成之前已开始向国产大模型训练与科学智能研究输出算力。 IT 之家 7 小时前](https://www.ithome.com/1/014/387.htm)
+10. [How Itaú is building generative AI for its entire customer base With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil's most regulated sectors. OpenAI 昨天](https://openai.com/index/itau-generative-ai)
