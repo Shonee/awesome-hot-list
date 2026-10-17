@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-17 21:10:34
+> 更新时间：2026-10-17 22:10:11
 
 ## 最新帖子
 
@@ -54,5 +54,5 @@
 2. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
 3. [AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的](https://www.cnblogs.com/uniqueDong/p/23324820)
 4. [一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了](https://www.cnblogs.com/652769324qq/p/23328265)
-5. [Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL](https://www.cnblogs.com/zrui-xyu/p/23323227)
+5. [WorkBuddy白送500积分，大家快来领](https://www.cnblogs.com/xiezhr/p/23336924)
 6. [单日涨星2.5万！AI逆向工程REA到底强在哪？](https://www.cnblogs.com/chingho/p/23329759)

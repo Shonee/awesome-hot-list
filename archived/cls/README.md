@@ -1,6 +1,6 @@
 # 财联社热榜
 
-> 更新时间：2026-10-17 21:10:46
+> 更新时间：2026-10-17 22:10:38
 
 ## 热门文章
 
@@ -11,9 +11,9 @@
 5. [苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场](https://www.cls.cn/detail/2507383)
 6. [韩国生物医药史上最大并购落地在即，三星生物为何押注多肽CDMO赛道？](https://www.cls.cn/detail/2506356)
 7. [分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限](https://www.cls.cn/detail/2507332)
-8. [上任仅5天 白宫新闻秘书遭特朗普“劝退”](https://www.cls.cn/detail/2507355)
-9. [Anthropic秘密游说国会 推动制定前沿AI监管法案](https://www.cls.cn/detail/2507401)
-10. [订货需等近两月！iPhone Duo预售秒售罄 产线协同爬坡制约初期供货](https://www.cls.cn/detail/2507262)
-11. [三季度净利环比增幅哪家强？算力企业摘得桂冠，PCB行业表现抢眼](https://www.cls.cn/detail/2507474)
-12. [重磅官宣！上海演艺集团成立，打造全国领先演艺“航空母舰”](https://www.cls.cn/detail/2507460)
-13. [沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点](https://www.cls.cn/detail/2507212)
+8. [三季度净利环比增幅哪家强？算力企业摘得桂冠，PCB行业表现抢眼](https://www.cls.cn/detail/2507474)
+9. [上任仅5天 白宫新闻秘书遭特朗普“劝退”](https://www.cls.cn/detail/2507355)
+10. [Anthropic秘密游说国会 推动制定前沿AI监管法案](https://www.cls.cn/detail/2507401)
+11. [订货需等近两月！iPhone Duo预售秒售罄 产线协同爬坡制约初期供货](https://www.cls.cn/detail/2507262)
+12. [长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购](https://www.cls.cn/detail/2507461)
+13. [重磅官宣！上海演艺集团成立，打造全国领先演艺“航空母舰”](https://www.cls.cn/detail/2507460)

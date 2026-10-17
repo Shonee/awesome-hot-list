@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-17 21:11:20
+> 更新时间：2026-10-17 22:11:23
 
 ## 热门主题
 
@@ -9,7 +9,7 @@
 3. [智友社回馈 V 站新老客户，抽送第 10 波 18 个 智友社的 Muse Ai 稳定特殊渠道独享成品号 1A（10 亿 Token，质保首登）](https://www.v2ex.com/t/1249529)
 4. [过敏性鼻炎怎样治疗？](https://www.v2ex.com/t/1249502)
 5. [deepseek-v4.1-flash-1017 发布了](https://www.v2ex.com/t/1249603)
-6. [roadster 发布了，是真的假的这么牛](https://www.v2ex.com/t/1249540)
-7. [腾讯云服务器要不要续费？](https://www.v2ex.com/t/1249546)
-8. [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583)
-9. [肉身在墙外，现在做物理机远程 Claude 的生意怎么样？](https://www.v2ex.com/t/1249581)
+6. [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583)
+7. [肉身在墙外，现在做物理机远程 Claude 的生意怎么样？](https://www.v2ex.com/t/1249581)
+8. [roadster 发布了，是真的假的这么牛](https://www.v2ex.com/t/1249540)
+9. [腾讯云服务器要不要续费？](https://www.v2ex.com/t/1249546)

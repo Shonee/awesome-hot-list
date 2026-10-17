@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-17 21:11:41
+> 更新时间：2026-10-17 22:11:43
 
 ## Hottest
 
@@ -10,18 +10,18 @@
 4. [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 5. [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
 6. [Getting Canceled](https://www.youtube.com/watch?v=5zIOfBLQ3U4)
-7. [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
-8. [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
-9. [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai)
-10. [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
-11. [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
-12. [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
-13. [Intuitive concurrent programming in any language | Lingua Franca](https://www.lf-lang.org/)
+7. [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
+8. [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai)
+9. [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
+10. [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
+11. [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
+12. [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
+13. [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 14. [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/)
 15. [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
 16. [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/)
-17. [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
-18. [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
+17. [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
+18. [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 19. [orib: Bringing back the old Reddit interface, with a few new enhancements](https://github.com/rajtilakjee/orib)
 20. [There's never been a better time to go into math](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 21. [What are you doing this weekend?](https://lobste.rs/s/hounpx)

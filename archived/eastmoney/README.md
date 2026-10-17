@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-17 21:10:53
+> 更新时间：2026-10-17 22:11:09
 
 ## 股票人气榜
 
@@ -15,12 +15,12 @@
 9. [长城军工 (601606)](https://quote.eastmoney.com/sh601606.html)
 10. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
 11. [天汽模 (002510)](https://quote.eastmoney.com/sz002510.html)
-12. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
-13. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
-14. [吉大正元 (003029)](https://quote.eastmoney.com/sz003029.html)
+12. [新华文轩 (601811)](https://quote.eastmoney.com/sh601811.html)
+13. [吉大正元 (003029)](https://quote.eastmoney.com/sz003029.html)
+14. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
 15. [金盾股份 (300411)](https://quote.eastmoney.com/sz300411.html)
-16. [尖峰集团 (600668)](https://quote.eastmoney.com/sh600668.html)
-17. [上工申贝 (600843)](https://quote.eastmoney.com/sh600843.html)
-18. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-19. [吉林化纤 (000420)](https://quote.eastmoney.com/sz000420.html)
-20. [捷众科技 (920690)](https://quote.eastmoney.com/sz920690.html)
+16. [上工申贝 (600843)](https://quote.eastmoney.com/sh600843.html)
+17. [尖峰集团 (600668)](https://quote.eastmoney.com/sh600668.html)
+18. [吉林化纤 (000420)](https://quote.eastmoney.com/sz000420.html)
+19. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
+20. [读者传媒 (603999)](https://quote.eastmoney.com/sh603999.html)
