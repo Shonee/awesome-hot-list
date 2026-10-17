@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-18 00:12:39
+> 更新时间：2026-10-18 01:10:31
 
 ## 股票人气榜
 
@@ -22,5 +22,5 @@
 16. [尖峰集团 (600668)](https://quote.eastmoney.com/sh600668.html)
 17. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 18. [吉林化纤 (000420)](https://quote.eastmoney.com/sz000420.html)
-19. [药明康德 (603259)](https://quote.eastmoney.com/sh603259.html)
+19. [读者传媒 (603999)](https://quote.eastmoney.com/sh603999.html)
 20. [金奥博 (002917)](https://quote.eastmoney.com/sz002917.html)
