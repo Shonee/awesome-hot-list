@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-17 23:11:05
+> 更新时间：2026-10-18 00:12:04
 
 ## 热门文章
 
@@ -18,8 +18,8 @@
 12. [程序员 1v1 访谈系列第三期：先不要想在工作中有突破](https://juejin.cn/post/7696767647511691299)
 13. [前端转全栈最低成本的技术栈选择](https://juejin.cn/post/7696713457149362230)
 14. [前端是如何死去的？| 完整时间线](https://juejin.cn/post/7696709714028216370)
-15. [日合并 3 万次之后，Anthropic 换掉了 Git](https://juejin.cn/post/7696455640667586596)
-16. [毁掉 Android 现代架构，只需要一个自定义的“FlowBus”](https://juejin.cn/post/7696326603062345778)
+15. [毁掉 Android 现代架构，只需要一个自定义的“FlowBus”](https://juejin.cn/post/7696326603062345778)
+16. [日合并 3 万次之后，Anthropic 换掉了 Git](https://juejin.cn/post/7696455640667586596)
 17. [传统竖屏 UIKit 项目简单适配 iPhone Duo 的第一版](https://juejin.cn/post/7696759034846052367)
 18. [浏览器为什么加载不了超大图片](https://juejin.cn/post/7697087660390547466)
 19. [为什么越来越多人用Quarkus？](https://juejin.cn/post/7696499984355442723)
@@ -34,17 +34,17 @@
 28. [AI Coding 时代最值钱的东西，软件工程（上）](https://juejin.cn/post/7696821865848733705)
 29. [WorkBuddy 装完就吃灰？3 个动作让 AI 真帮你干活](https://juejin.cn/post/7696817605547638794)
 30. [记账 App 我装了删、删了装，最后自己写了一个：本地语音识别 + R8 踩坑复盘](https://juejin.cn/post/7695732727549526056)
-31. [我用全新 TRAE 给耳机工厂从零写了套 MES：26 天、217 次提交、574 个测试全绿](https://juejin.cn/post/7695769417121480730)
-32. [2026年的前端：你引以为傲的框架，正在被浏览器原生能力“架空”](https://juejin.cn/post/7697134861442039849)
+31. [2026年的前端：你引以为傲的框架，正在被浏览器原生能力“架空”](https://juejin.cn/post/7697134861442039849)
+32. [我用全新 TRAE 给耳机工厂从零写了套 MES：26 天、217 次提交、574 个测试全绿](https://juejin.cn/post/7695769417121480730)
 33. [AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录](https://juejin.cn/post/7696484610026094634)
 34. [我用 Spring AI + MCP 把公司内部系统接给了 AI，过程没想象中顺利](https://juejin.cn/post/7696387828729970729)
-35. [Claude Code 桌面端魔改多 Agent：从日耗 6 美元到账单失控的实测复盘](https://juejin.cn/post/7697104677602803739)
-36. [跨平台开发地图 | 2026年10月](https://juejin.cn/post/7697087660390989834)
-37. [27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议](https://juejin.cn/post/7696835478806331392)
+35. [27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议](https://juejin.cn/post/7696835478806331392)
+36. [Claude Code 桌面端魔改多 Agent：从日耗 6 美元到账单失控的实测复盘](https://juejin.cn/post/7697104677602803739)
+37. [跨平台开发地图 | 2026年10月](https://juejin.cn/post/7697087660390989834)
 38. [别再死磕纯技术了：2026 年程序员的 7 条真实出路](https://juejin.cn/post/7696817605548245002)
 39. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://juejin.cn/post/7696796824939806758)
-40. [1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异](https://juejin.cn/post/7696326603062116402)
-41. [全网都在聊的 FDE，到底是啥？一篇拆透](https://juejin.cn/post/7696745540986667044)
+40. [全网都在聊的 FDE，到底是啥？一篇拆透](https://juejin.cn/post/7696745540986667044)
+41. [1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异](https://juejin.cn/post/7696326603062116402)
 42. [AI时代我们要如何玩抓包测试：Reqable + AI Agent](https://juejin.cn/post/7696796824939773990)
 43. [Rsdoctor 2.0 发布：Agent 驱动的全自动优化工具](https://juejin.cn/post/7696736365812940851)
 44. [从零手搓 RAG 之文档解析技术](https://juejin.cn/post/7696908590871511075)
