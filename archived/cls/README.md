@@ -1,6 +1,6 @@
 # 财联社热榜
 
-> 更新时间：2026-10-17 15:12:36
+> 更新时间：2026-10-17 16:15:26
 
 ## 热门文章
 
@@ -13,7 +13,7 @@
 7. [苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场](https://www.cls.cn/detail/2507383)
 8. [分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限](https://www.cls.cn/detail/2507332)
 9. [上任仅5天 白宫新闻秘书遭特朗普“劝退”](https://www.cls.cn/detail/2507355)
-10. [订货需等近两月！iPhone Duo预售秒售罄 产线协同爬坡制约初期供货](https://www.cls.cn/detail/2507262)
+10. [韩国生物医药史上最大并购落地在即，三星生物为何押注多肽CDMO赛道？](https://www.cls.cn/detail/2506356)
 11. [Anthropic秘密游说国会 推动制定前沿AI监管法案](https://www.cls.cn/detail/2507401)
-12. [韩国生物医药史上最大并购落地在即，三星生物为何押注多肽CDMO赛道？](https://www.cls.cn/detail/2506356)
+12. [订货需等近两月！iPhone Duo预售秒售罄 产线协同爬坡制约初期供货](https://www.cls.cn/detail/2507262)
 13. [沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点](https://www.cls.cn/detail/2507212)

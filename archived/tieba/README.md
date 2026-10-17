@@ -1,20 +1,20 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-17 15:12:52
+> 更新时间：2026-10-17 16:15:39
 
 ## 最有料热点
 
-1. [FUR让一追三,C9遗憾告别S16](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367417&topic_name=FUR%E8%AE%A9%E4%B8%80%E8%BF%BD%E4%B8%89%2CC9%E9%81%97%E6%86%BE%E5%91%8A%E5%88%ABS16)
-2. [设备中毒攻击校园网,吧友求助](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367438&topic_name=%E8%AE%BE%E5%A4%87%E4%B8%AD%E6%AF%92%E6%94%BB%E5%87%BB%E6%A0%A1%E5%9B%AD%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E6%B1%82%E5%8A%A9)
-3. [特斯拉汽车上天,股价跳水](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367455&topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E4%B8%8A%E5%A4%A9%2C%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4)
+1. [设备中毒攻击校园网,吧友求助](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367438&topic_name=%E8%AE%BE%E5%A4%87%E4%B8%AD%E6%AF%92%E6%94%BB%E5%87%BB%E6%A0%A1%E5%9B%AD%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E6%B1%82%E5%8A%A9)
+2. [特斯拉汽车上天,股价跳水](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367455&topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E4%B8%8A%E5%A4%A9%2C%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4)
+3. [老赖之女在韩出道引众怒](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92)
 4. [戒赌番上头,吧友开户炒股](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367444&topic_name=%E6%88%92%E8%B5%8C%E7%95%AA%E4%B8%8A%E5%A4%B4%2C%E5%90%A7%E5%8F%8B%E5%BC%80%E6%88%B7%E7%82%92%E8%82%A1)
-5. [老赖之女在韩出道引众怒](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367451&topic_name=%E8%80%81%E8%B5%96%E4%B9%8B%E5%A5%B3%E5%9C%A8%E9%9F%A9%E5%87%BA%E9%81%93%E5%BC%95%E4%BC%97%E6%80%92)
-6. [KC零封MVK,赛点局偷家取胜](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367403&topic_name=KC%E9%9B%B6%E5%B0%81MVK%2C%E8%B5%9B%E7%82%B9%E5%B1%80%E5%81%B7%E5%AE%B6%E5%8F%96%E8%83%9C)
-7. [日本误报9.9级地震,民众炸锅](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367427&topic_name=%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59.9%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85)
-8. [肯德基倒戈,美国门店换可口可乐](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367428&topic_name=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%80%92%E6%88%88%2C%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%BA%97%E6%8D%A2%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90)
-9. [龙珠声优痛斥AI配音没灵魂](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82)
-10. [硬刚开屏广告博主遭全网封禁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367357&topic_name=%E7%A1%AC%E5%88%9A%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E5%8D%9A%E4%B8%BB%E9%81%AD%E5%85%A8%E7%BD%91%E5%B0%81%E7%A6%81)
-11. [白宫发言人上任五天遭解雇](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367429&topic_name=%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E4%B8%8A%E4%BB%BB%E4%BA%94%E5%A4%A9%E9%81%AD%E8%A7%A3%E9%9B%87)
+5. [肯德基倒戈,美国门店换可口可乐](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367428&topic_name=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%80%92%E6%88%88%2C%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%BA%97%E6%8D%A2%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90)
+6. [日本误报9.9级地震,民众炸锅](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367427&topic_name=%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59.9%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85)
+7. [FUR让一追三,C9遗憾告别S16](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367417&topic_name=FUR%E8%AE%A9%E4%B8%80%E8%BF%BD%E4%B8%89%2CC9%E9%81%97%E6%86%BE%E5%91%8A%E5%88%ABS16)
+8. [龙珠声优痛斥AI配音没灵魂](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82)
+9. [白宫发言人上任五天遭解雇](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367429&topic_name=%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E4%B8%8A%E4%BB%BB%E4%BA%94%E5%A4%A9%E9%81%AD%E8%A7%A3%E9%9B%87)
+10. [KC零封MVK,赛点局偷家取胜](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367403&topic_name=KC%E9%9B%B6%E5%B0%81MVK%2C%E8%B5%9B%E7%82%B9%E5%B1%80%E5%81%B7%E5%AE%B6%E5%8F%96%E8%83%9C)
+11. [硬刚开屏广告博主遭全网封禁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367357&topic_name=%E7%A1%AC%E5%88%9A%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%E5%8D%9A%E4%B8%BB%E9%81%AD%E5%85%A8%E7%BD%91%E5%B0%81%E7%A6%81)
 12. [列车车次大改,火车迷炸锅](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367359&topic_name=%E5%88%97%E8%BD%A6%E8%BD%A6%E6%AC%A1%E5%A4%A7%E6%94%B9%2C%E7%81%AB%E8%BD%A6%E8%BF%B7%E7%82%B8%E9%94%85)
 13. [没吃回扣!TES郭皓回应签证问题](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367277&topic_name=%E6%B2%A1%E5%90%83%E5%9B%9E%E6%89%A3%21TES%E9%83%AD%E7%9A%93%E5%9B%9E%E5%BA%94%E7%AD%BE%E8%AF%81%E9%97%AE%E9%A2%98)
 14. [WE拿下BRO,进军德杯决赛](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367273&topic_name=WE%E6%8B%BF%E4%B8%8BBRO%2C%E8%BF%9B%E5%86%9B%E5%BE%B7%E6%9D%AF%E5%86%B3%E8%B5%9B)
