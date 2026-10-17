@@ -1,21 +1,21 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-18 03:09:29
+> 更新时间：2026-10-18 04:11:30
 
 ## 热点资讯排行
 
-1. [《巫师3重制版》叶奈法BUG 玩家跪求别修](https://www.gamersky.com/news/202610/2225612.shtml)
-2. [沫子杯真送“沫子杯”！沫子定制款 还能加热](https://www.gamersky.com/news/202610/2225615.shtml)
-3. [央视曝光在校学生藏手机神器 销量数千件太坑娃](https://www.gamersky.com/news/202610/2226420.shtml)
-4. [《影之刃零》原型震惊索尼高层：你们是哪儿来的高手？](https://www.gamersky.com/news/202610/2225945.shtml)
-5. [《巫师3》玩家遇叶奈法独角兽场景后没穿衣服Bug 网友却求官方复现](https://www.gamersky.com/news/202610/2225652.shtml)
-6. [PS5全新限定机型公布！午夜黑配色太帅](https://www.gamersky.com/news/202610/2226465.shtml)
-7. [LGBT魔爪Sweetbaby官网删光合作方！DEI金主跑了？](https://www.gamersky.com/news/202610/2226424.shtml)
-8. [一条小团团抖音直播突遭封禁！游戏角色穿得太清凉](https://www.gamersky.com/news/202610/2226876.shtml)
-9. [黑客Cyberleek宣称《GTA6》下一段泄露为露西亚4K视频 并挂出募捐目标](https://www.gamersky.com/news/202610/2225753.shtml)
-10. [《GTA6》黑客又搞事 按加密货币市值解锁女主内容](https://www.gamersky.com/news/202610/2225625.shtml)
-11. [《光与影：33号远征队》强开DLSS5差异巨大 真实质感拉满](https://www.gamersky.com/news/202610/2225661.shtml)
-12. [《塞尔达传说：时之笛 重制版》外媒玩爽了！疯狂示爱任天堂](https://www.gamersky.com/news/202610/2227994.shtml)
-13. [《巫师3》重制变味？部分主机玩家强烈要求回退老版](https://www.gamersky.com/news/202610/2226382.shtml)
-14. [《GTA6》最新泄露视频内容震惊玩家社区](https://www.gamersky.com/news/202610/2224616.shtml)
-15. [Xbox全新发布会官宣！共展示18款游戏](https://www.gamersky.com/news/202610/2227130.shtml)
+1. [《巫师3：狂猎重制版》喜迎大型更新！进步明显 终于能玩了?](https://www.gamersky.com/news/202610/2225287.shtml)
+2. [PS5的15.0更新曝光！整合关键功能至主界面](https://www.gamersky.com/news/202610/2226623.shtml)
+3. [被逼出来的新旗舰！RTX 5080 24GB定档2027 Q1](https://www.gamersky.com/news/202610/2226597.shtml)
+4. [全网静待《GTA6》泄密葱哥被抓！吃相难看快进去吧](https://www.gamersky.com/news/202610/2225797.shtml)
+5. [200多万人疯抢！iPhoneDuo热度彻底引爆：苹果已加单](https://www.gamersky.com/news/202610/2225551.shtml)
+6. [《塞尔达传说：时之笛 重制版》IGN前瞻：稳定60帧 焕然一新！](https://www.gamersky.com/news/202610/2227973.shtml)
+7. [《战神》真人剧出事了！重拍太烧钱 亚马逊难顶](https://www.gamersky.com/news/202610/2227856.shtml)
+8. [扎克·克雷格《生化危机》全球票房破3亿美元 中国首周贡献超4000万美元](https://www.gamersky.com/news/202610/2225808.shtml)
+9. [主机独占中文结束!《尼尔：机械纪元》PC版要加中文了 后台已更新](https://www.gamersky.com/news/202610/2226315.shtml)
+10. [PS5港服又有游戏降价了！整个系列都降 全部292港币](https://www.gamersky.com/news/202610/2227082.shtml)
+11. [PS掌机实用更新来了！玩家使用时更能随心所欲](https://www.gamersky.com/news/202610/2225687.shtml)
+12. [AI正飞速移植PS游戏到PC 最初仅2帧 如今百帧运行](https://www.gamersky.com/news/202610/2225647.shtml)
+13. [王老菊7年花千万做出个肉鸽+增量小游戏？你看好吗](https://www.gamersky.com/news/202610/2224945.shtml)
+14. [顽皮狗前员工:未来会像欣赏历史建筑一样对待光头新作](https://www.gamersky.com/news/202610/2225804.shtml)
+15. [神还原!《GTA6》露西娅Cos真不是AI：大腿纹身作证](https://www.gamersky.com/news/202610/2226145.shtml)

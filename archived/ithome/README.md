@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-18 03:09:30
+> 更新时间：2026-10-18 04:11:31
 
 ## 日榜
 
@@ -13,6 +13,6 @@
 7. [奇瑞智界将获批独立造车资质，内部人士确认计划独立上市](https://www.ithome.com/1/014/352.htm)
 8. [10.97 万元起吉利星瑞 L PLUS 正式上市，国内首款搭载激光雷达的燃油轿车](https://www.ithome.com/1/014/394.htm)
 9. [比亚迪第三代秦 PLUS 官图公布，已完成申报](https://www.ithome.com/1/014/392.htm)
-10. [交货期排到明年，苹果称 iPhone Duo 市场需求异常旺盛](https://www.ithome.com/1/014/196.htm)
-11. [腾讯 WorkBuddy 已提前适配苹果首款折叠屏手机 iPhone Duo](https://www.ithome.com/1/014/306.htm)
+10. [腾讯 WorkBuddy 已提前适配苹果首款折叠屏手机 iPhone Duo](https://www.ithome.com/1/014/306.htm)
+11. [交货期排到明年，苹果称 iPhone Duo 市场需求异常旺盛](https://www.ithome.com/1/014/196.htm)
 12. [运行 iOS 27.0.1 的苹果 iPhone 18 Pro 被“完美越狱”：重启后仍可维持最高权限](https://www.ithome.com/1/014/271.htm)

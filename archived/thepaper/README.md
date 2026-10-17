@@ -1,11 +1,11 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-18 03:08:38
+> 更新时间：2026-10-18 04:11:21
 
 ## 热新闻
 
-1. [马上评｜欣赏特斯拉的想象力，更要读懂中国新能源汽车硬实力](https://www.thepaper.cn/newsDetail_forward_34270632)
-2. [观察丨“战犯神社”的“和平包装”骗不了世界](https://www.thepaper.cn/newsDetail_forward_34271196)
+1. [观察丨“战犯神社”的“和平包装”骗不了世界](https://www.thepaper.cn/newsDetail_forward_34271196)
+2. [马上评｜欣赏特斯拉的想象力，更要读懂中国新能源汽车硬实力](https://www.thepaper.cn/newsDetail_forward_34270632)
 3. [中纪委网站：不论职务高低贡献大小退休与否，只要搞了腐败就没有所谓平安着陆](https://www.thepaper.cn/newsDetail_forward_34269908)
 4. [市民建议上海地铁全线添加沪语报站，交通部门回应](https://www.thepaper.cn/newsDetail_forward_34270134)
 5. [白宫新发言人打破纪录：如何在五天内丢掉工作](https://www.thepaper.cn/newsDetail_forward_34269605)
@@ -20,7 +20,7 @@
 14. [爱因斯坦曾到访过的上海住宅：梓园今昔](https://www.thepaper.cn/newsDetail_forward_34240677)
 15. [被问是否被特朗普当成替罪羊？泽连斯基神秘微笑](https://www.thepaper.cn/newsDetail_forward_34268856)
 16. [重阳节银发族开启错峰游：“县城康养”搜索热度同比增长203%](https://www.thepaper.cn/newsDetail_forward_34269748)
-17. [闫盼盼、李羽洁担任第五届亚残运会开幕式中国体育代表团旗手](https://www.thepaper.cn/newsDetail_forward_34270443)
-18. [中国上海国际艺术节开幕｜点亮城市第25小时，人们因艺术而来，为上海停留](https://www.thepaper.cn/newsDetail_forward_34262732)
-19. [特朗普签署行政令豁免对俄多项制裁](https://www.thepaper.cn/newsDetail_forward_34269052)
-20. [中央气象台最新预报：12省份迎大到暴雨，北方多地气温创新低](https://www.thepaper.cn/newsDetail_forward_34271529)
+17. [中央气象台最新预报：12省份迎大到暴雨，北方多地气温创新低](https://www.thepaper.cn/newsDetail_forward_34271529)
+18. [闫盼盼、李羽洁担任第五届亚残运会开幕式中国体育代表团旗手](https://www.thepaper.cn/newsDetail_forward_34270443)
+19. [中国上海国际艺术节开幕｜点亮城市第25小时，人们因艺术而来，为上海停留](https://www.thepaper.cn/newsDetail_forward_34262732)
+20. [特朗普签署行政令豁免对俄多项制裁](https://www.thepaper.cn/newsDetail_forward_34269052)
