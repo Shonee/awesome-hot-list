@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-17 19:10:12
+> 更新时间：2026-10-18 01:35:34
 
 ## 每日趋势
 
@@ -9,14 +9,13 @@
 3. [ECC](https://github.com/affaan-m/ECC)
 4. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 5. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-6. [ai-memory](https://github.com/akitaonrails/ai-memory)
-7. [skills](https://github.com/android/skills)
-8. [orca](https://github.com/stablyai/orca)
-9. [claude-code](https://github.com/anthropics/claude-code)
-10. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-11. [opencode](https://github.com/anomalyco/opencode)
-12. [ruflo](https://github.com/ruvnet/ruflo)
-13. [xerj](https://github.com/xerj-org/xerj)
+6. [skills](https://github.com/android/skills)
+7. [orca](https://github.com/stablyai/orca)
+8. [claude-code](https://github.com/anthropics/claude-code)
+9. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+10. [opencode](https://github.com/anomalyco/opencode)
+11. [ruflo](https://github.com/ruvnet/ruflo)
+12. [xerj](https://github.com/xerj-org/xerj)
 
 ## 每周趋势
 
@@ -104,10 +103,11 @@
 8. [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 9. [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 10. [sliver](https://github.com/BishopFox/sliver)
-11. [nginx-ui](https://github.com/0xJacky/nginx-ui)
-12. [new-api](https://github.com/QuantumNous/new-api)
-13. [jaeger](https://github.com/jaegertracing/jaeger)
-14. [agentmesh](https://github.com/google/agentmesh)
+11. [ip2region](https://github.com/lionsoul2014/ip2region)
+12. [nginx-ui](https://github.com/0xJacky/nginx-ui)
+13. [new-api](https://github.com/QuantumNous/new-api)
+14. [jaeger](https://github.com/jaegertracing/jaeger)
+15. [agentmesh](https://github.com/google/agentmesh)
 
 ## HTML
 
@@ -119,14 +119,13 @@
 6. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
 7. [prompts.chat](https://github.com/f/prompts.chat)
 8. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
-9. [huashu-design](https://github.com/alchaincyf/huashu-design)
-10. [tidytuesday](https://github.com/rfordatascience/tidytuesday)
-11. [ai-berkshire](https://github.com/xbtlin/ai-berkshire)
-12. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-13. [awesome-english](https://github.com/yvoronoy/awesome-english)
-14. [Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack)
-15. [RuoYi](https://github.com/yangzongzhuan/RuoYi)
-16. [kryo](https://github.com/EsotericSoftware/kryo)
+9. [tidytuesday](https://github.com/rfordatascience/tidytuesday)
+10. [ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+11. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+12. [awesome-english](https://github.com/yvoronoy/awesome-english)
+13. [Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack)
+14. [RuoYi](https://github.com/yangzongzhuan/RuoYi)
+15. [kryo](https://github.com/EsotericSoftware/kryo)
 
 ## JavaScript
 
