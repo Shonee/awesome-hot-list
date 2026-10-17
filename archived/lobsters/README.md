@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-17 12:14:08
+> 更新时间：2026-10-17 13:13:32
 
 ## Hottest
 
@@ -12,20 +12,20 @@
 6. [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 7. [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 8. [Getting Canceled](https://www.youtube.com/watch?v=5zIOfBLQ3U4)
-9. [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
-10. [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
-11. [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
-12. [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
+9. [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
+10. [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
+11. [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
+12. [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 13. [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
 14. [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
-15. [There's never been a better time to go into math](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
-16. [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
-17. [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai)
-18. [What are you doing this weekend?](https://lobste.rs/s/hounpx)
-19. [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
-20. [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
-21. [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
-22. [Sunsetting decomp.dev](https://decomp.dev/)
-23. [Someone on Torrent Sites Kept Fucking With My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
-24. [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
+15. [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai)
+16. [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
+17. [orib: Bringing back the old Reddit interface, with a few new enhancements](https://github.com/rajtilakjee/orib)
+18. [There's never been a better time to go into math](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+19. [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
+20. [What are you doing this weekend?](https://lobste.rs/s/hounpx)
+21. [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
+22. [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
+23. [Sunsetting decomp.dev](https://decomp.dev/)
+24. [Someone on Torrent Sites Kept Fucking With My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 25. [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
