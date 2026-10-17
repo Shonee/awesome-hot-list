@@ -1,6 +1,6 @@
 # Hacker News热榜
 
-> 更新时间：2026-10-17 09:08:06
+> 更新时间：2026-10-17 09:44:49
 
 ## Top Stories
 
@@ -17,10 +17,10 @@
 11. [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 12. [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
 13. [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
-14. [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+14. [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 15. [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
-16. [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
-17. [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
-18. [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
-19. [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
-20. [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
+16. [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+17. [/dev/null: social network for developers](https://dev-null.sh)
+18. [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
+19. [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
+20. [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)

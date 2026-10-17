@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-17 09:06:34
+> 更新时间：2026-10-17 09:43:49
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [SimdGcdrNet：纯 C# 的文档照片去阴影，3080 Ti 上 9.6 ms 一张，浏览器里也能跑](https://www.cnblogs.com/sdcb/p/23309313/20261014-simdgcdrnet-intro)
-2. [面试官问你，你会的 AI 都能做了，公司为什么还需要你](https://www.cnblogs.com/jinjiangongzuoshi/p/23310078)
-3. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
-4. [被隐去名字的那个库，其实不是 YoloDotNet](https://www.cnblogs.com/shanyou/p/23309768)
-5. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
-6. [装了这么多年 .NET，微软终于把 rustup 那套搬过来了](https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup)
+1. [10 万人抢 2000 个座位，电影票选座系统怎么防超卖？一文讲透大厂高频场景题](https://www.cnblogs.com/zrui-xyu/p/23310465)
+2. [AI 写代码越来越快，我们的代码能力却在悄悄退化](https://www.cnblogs.com/codigger/p/23322525)
+3. [装了这么多年 .NET，微软终于把 rustup 那套搬过来了](https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup)
+4. [AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的](https://www.cnblogs.com/uniqueDong/p/23324820)
+5. [MoUI —— 用 MoonBit 写一次 UI，跑遍桌面、Web、手机和终端](https://www.cnblogs.com/ZCWang/p/23314891)
+6. [为什么越来越多人用Quarkus？](https://www.cnblogs.com/12lisu/p/23316231)

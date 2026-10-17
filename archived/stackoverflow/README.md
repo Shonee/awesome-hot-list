@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-17 09:08:07
+> 更新时间：2026-10-17 09:44:49
 
 ## 热门问题
 
@@ -9,9 +9,9 @@
 3. [QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass](https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc)
 4. [Why do the slices of my pie chart have different radii and wrong proportions?](https://stackoverflow.com/questions/80010616/why-do-the-slices-of-my-pie-chart-have-different-radii-and-wrong-proportions)
 5. [Issue with Powershell function written in $PROFILE path](https://stackoverflow.com/questions/80010585/issue-with-powershell-function-written-in-profile-path)
-6. [vim: Stop underlining line numbers](https://stackoverflow.com/questions/80010622/vim-stop-underlining-line-numbers)
-7. [Nested asyncio.timeout(): both expired() return True, how to tell which one raised?](https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais)
-8. [Can setting/retrieving properties on any HTML element be a security risk?](https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk)
+6. [Can setting/retrieving properties on any HTML element be a security risk?](https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk)
+7. [vim: Stop underlining line numbers](https://stackoverflow.com/questions/80010622/vim-stop-underlining-line-numbers)
+8. [Nested asyncio.timeout(): both expired() return True, how to tell which one raised?](https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais)
 9. [Dealing with various AH01215: PHP errors](https://stackoverflow.com/questions/80010596/dealing-with-various-ah01215-php-errors)
 10. [How to design a database abstraction that supports both connections and transactions in Rust?](https://stackoverflow.com/questions/80010608/how-to-design-a-database-abstraction-that-supports-both-connections-and-transact)
 11. [React PWA. What is the best library to load different audio languages from an YouTube video. since the official API doesn’t support it?](https://stackoverflow.com/questions/80010580/react-pwa-what-is-the-best-library-to-load-different-audio-languages-from-an-yo)
@@ -47,8 +47,8 @@
 41. [VS Code Code Runner takes several seconds to run simple C programs on Windows](https://stackoverflow.com/questions/80010390/vs-code-code-runner-takes-several-seconds-to-run-simple-c-programs-on-windows)
 42. [How to Bound Deduplication History for Idempotent HBase CAS Updates With Out-of-Order Retries?](https://stackoverflow.com/questions/80010513/how-to-bound-deduplication-history-for-idempotent-hbase-cas-updates-with-out-of)
 43. [AnzoGraph: first SELECT on a newly created empty graph throws an exception "bad request (400)"](https://stackoverflow.com/questions/80010511/anzograph-first-select-on-a-newly-created-empty-graph-throws-an-exception-bad)
-44. [Getting a timeout error when trying to make a node web server run a stored proc on SQL Server 2022 Express](https://stackoverflow.com/questions/80010422/getting-a-timeout-error-when-trying-to-make-a-node-web-server-run-a-stored-proc)
-45. [Can I broadcast with numpy character find](https://stackoverflow.com/questions/80010398/can-i-broadcast-with-numpy-character-find)
+44. [Can I broadcast with numpy character find](https://stackoverflow.com/questions/80010398/can-i-broadcast-with-numpy-character-find)
+45. [Getting a timeout error when trying to make a node web server run a stored proc on SQL Server 2022 Express](https://stackoverflow.com/questions/80010422/getting-a-timeout-error-when-trying-to-make-a-node-web-server-run-a-stored-proc)
 46. [FCM send to iOS fails with 'Invalid APNs credential' despite valid, verified APNs Auth Key](https://stackoverflow.com/questions/80010396/fcm-send-to-ios-fails-with-invalid-apns-credential-despite-valid-verified-apn)
 47. [Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try](https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th)
 48. [Is there a way to use a library from crates.io using rustc?](https://stackoverflow.com/questions/80010438/is-there-a-way-to-use-a-library-from-crates-io-using-rustc)
