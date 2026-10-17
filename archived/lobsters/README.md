@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-17 11:14:02
+> 更新时间：2026-10-17 12:14:08
 
 ## Hottest
 
@@ -10,8 +10,8 @@
 4. [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 5. [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
 6. [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
-7. [Getting Canceled](https://www.youtube.com/watch?v=5zIOfBLQ3U4)
-8. [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
+7. [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
+8. [Getting Canceled](https://www.youtube.com/watch?v=5zIOfBLQ3U4)
 9. [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
 10. [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
 11. [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
@@ -20,12 +20,12 @@
 14. [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 15. [There's never been a better time to go into math](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 16. [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
-17. [What are you doing this weekend?](https://lobste.rs/s/hounpx)
-18. [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
-19. [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
-20. [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
-21. [Sunsetting decomp.dev](https://decomp.dev/)
-22. [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai)
-23. [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
+17. [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai)
+18. [What are you doing this weekend?](https://lobste.rs/s/hounpx)
+19. [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
+20. [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
+21. [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
+22. [Sunsetting decomp.dev](https://decomp.dev/)
+23. [Someone on Torrent Sites Kept Fucking With My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 24. [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
 25. [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)

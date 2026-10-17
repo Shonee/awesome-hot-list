@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-17 11:13:06
+> 更新时间：2026-10-17 12:12:55
 
 ## 人气热门
 
@@ -57,12 +57,12 @@
 
 ## 精华采撷
 
-1. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
-2. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
-3. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
-4. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-5. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
-6. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
+1. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
+2. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
+3. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
+4. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+5. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+6. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 7. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
 8. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
 9. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
