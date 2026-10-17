@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-17 09:44:05
+> 更新时间：2026-10-17 10:16:07
 
 ## 新闻热榜
 
@@ -29,20 +29,20 @@
 
 1. [科技记者古尔曼：苹果未透露其门店是否会在发售首日供货iPhone Duo。如果苹果不提前说明，可能会有很多人白排队，最终感到不满。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepa1552514.shtml)
 2. [美国国务卿鲁比奥与阿根廷总统米莱讨论扩大贸易与投资事宜。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8366949.shtml)
-3. [美国商品期货交易委员会（CFTC）：截至10月13日当周，纽约商品交易所(NYMEX)和洲际交易所(ICE)四大市场的天然气投机者将净空头头寸削减11](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepc8332000.shtml)
-4. [上任五天就出局 扎卡里亚已不再是特朗普的首席发言人](https://finance.sina.com.cn/world/2026-10-17/doc-inivnepa1561191.shtml)
-5. [欧盟委员会主席冯德莱恩：我们看到，一些国家及非国家势力正在人为制造突发性大规模人口流动。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1621554.shtml)
-6. [比特币跌破81000美元，日内跌1.51%。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1620353.shtml)
-7. [印度9月份棕榈油进口量为817,884吨。](https://finance.sina.com.cn/7x24/2026-10-15/doc-inivhtuq4597455.shtml)
-8. [洲际交易所：截至10月13日当周，柴油投机者净多头头寸增加5304手，至75461手。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepc8280193.shtml)
-9. [人民币兑美元中间价报6.7253元，下调4点。](https://finance.sina.com.cn/7x24/2026-10-15/doc-inivhiew1236761.shtml)
-10. [欧盟委员会主席冯德莱恩：乌克兰2027年财政预算缺口为700亿（欧元）。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1622451.shtml)
-11. [特朗普：美国经济从未如此强劲。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1620531.shtml)
+3. [上任五天就出局 扎卡里亚已不再是特朗普的首席发言人](https://finance.sina.com.cn/world/2026-10-17/doc-inivnepa1561191.shtml)
+4. [美国商品期货交易委员会（CFTC）：截至10月13日当周，纽约商品交易所(NYMEX)和洲际交易所(ICE)四大市场的天然气投机者将净空头头寸削减11](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepc8332000.shtml)
+5. [10月17日美股收盘：三大指数收跌 纳指跌超2% 科技股全线走低 CoreWeave重挫近12% 布油触及110美元](https://finance.sina.com.cn/world/2026-10-17/doc-inivnkut7395138.shtml)
+6. [10月17日隔夜要闻：纳指跌超2% 布伦特原油触及110美元 铜价反弹 黄仁勋谈AI市场震荡“这一切都会过去”](https://finance.sina.com.cn/world/2026-10-17/doc-inivnrap6607460.shtml)
+7. [欧盟委员会主席冯德莱恩：我们看到，一些国家及非国家势力正在人为制造突发性大规模人口流动。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1621554.shtml)
+8. [比特币跌破81000美元，日内跌1.51%。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1620353.shtml)
+9. [洲际交易所：截至10月13日当周，柴油投机者净多头头寸增加5304手，至75461手。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepc8280193.shtml)
+10. [人民币兑美元中间价报6.7253元，下调4点。](https://finance.sina.com.cn/7x24/2026-10-15/doc-inivhiew1236761.shtml)
+11. [欧盟委员会主席冯德莱恩：乌克兰2027年财政预算缺口为700亿（欧元）。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1622451.shtml)
 12. [印度航运部长：10月16日，载有15名印度海员的原油油轮MT ST 3在霍尔木兹海峡被一枚炮弹击中。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepc8275294.shtml)
-13. [软银据悉考虑收购美国最大安保公司Allied。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepa1538136.shtml)
-14. [美国财政部：2026财年债务利息总额达创纪录的1.36万亿美元，较上一财年增加1440亿美元，增幅12%。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepc8282351.shtml)
-15. [特朗普：不知道“星盾”命令是谁下达的，不是我们。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8384564.shtml)
-16. [特朗普：以色列对沙特阿拉伯一直很有帮助。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8388199.shtml)
-17. [特朗普称新任新闻秘书应该“重新考虑”是否继续任职](https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnent6716271.shtml)
-18. [10月17日美股收盘：三大指数收跌 纳指跌超2% 科技股全线走低 CoreWeave重挫近12% 布油触及110美元](https://finance.sina.com.cn/world/2026-10-17/doc-inivnkut7395138.shtml)
-19. [美国老年群体感受的生活成本压力更小，这将如何影响中期选举](https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivmyex7537663.shtml)
+13. [特朗普：美国经济从未如此强劲。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyfe1620531.shtml)
+14. [软银据悉考虑收购美国最大安保公司Allied。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepa1538136.shtml)
+15. [美国财政部：2026财年债务利息总额达创纪录的1.36万亿美元，较上一财年增加1440亿美元，增幅12%。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivnepc8282351.shtml)
+16. [特朗普：不知道“星盾”命令是谁下达的，不是我们。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8384564.shtml)
+17. [特朗普：以色列对沙特阿拉伯一直很有帮助。](https://finance.sina.com.cn/7x24/2026-10-17/doc-inivmyff8388199.shtml)
+18. [特朗普称新任新闻秘书应该“重新考虑”是否继续任职](https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnent6716271.shtml)
+19. [英国顶住欧盟施压，拒对中国加税](https://finance.sina.com.cn/world/gjcj/2026-10-17/doc-inivnrax8221632.shtml)
