@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-18 01:09:44
+> 更新时间：2026-10-18 02:12:45
 
 ## 最新帖子
 
-1. [MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三）](https://www.cnblogs.com/hugogoos/p/23341432)
-2. [使用Vibe Coding从零开发论坛（上）](https://www.cnblogs.com/chaogex/p/23341438)
-3. [K8s 最佳实践已更新：请使用 Node Swap！](https://www.cnblogs.com/east4ming/p/23341258)
-4. [百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进](https://www.cnblogs.com/xiongdy2017/p/23341228)
-5. [川剧复演 题解](https://www.cnblogs.com/lvwangshuOI/p/23341047)
-6. [MinMax vs Standard vs Robust：三种特征缩放怎么选](https://www.cnblogs.com/wang_yb/p/23340695)
-7. [go语言复制文件和操作目录](https://www.cnblogs.com/ishoulgodo/p/23320544)
-8. [CatBase 排序算法实战，从内置 sorted 到手写冒泡](https://www.cnblogs.com/forges/p/23339994)
-9. [PID 用顺了，然后呢：增强手术与前馈](https://www.cnblogs.com/zw-awa/p/23339843)
-10. [Kali Linux 密码破解实战：从字典生成到 GPU 暴力破解全流程](https://www.cnblogs.com/Johny-zhao/p/23338508)
-11. [js中every和some的详细介绍](https://www.cnblogs.com/IwishIcould/p/21466790)
-12. [WorkBuddy白送500积分，大家快来领](https://www.cnblogs.com/xiezhr/p/23336924)
-13. [笛卡尔树](https://www.cnblogs.com/lvwangshuOI/p/23332222)
-14. [【南大软件分析-学习笔记】Lecture 6-Data Flow Analysis-Foundation（下）](https://www.cnblogs.com/yixiku/p/23332053)
-15. [AI 越强，被它拒绝的代价就越大](https://www.cnblogs.com/leikooo/p/23331970)
-16. [wujie 微前端踩坑实录：一个子应用的 7 个生产事故现场](https://www.cnblogs.com/ChineseLiao/p/23330749)
-17. [装了这么多年 .NET，微软终于把 rustup 那套搬过来了](https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup)
-18. [好题合集 2026.10](https://www.cnblogs.com/xita/p/23181193)
-19. [单日涨星2.5万！AI逆向工程REA到底强在哪？](https://www.cnblogs.com/chingho/p/23329759)
-20. [一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了](https://www.cnblogs.com/652769324qq/p/23328265)
+1. [26-10-18周记](https://www.cnblogs.com/SilverGo/p/23342804)
+2. [MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三）](https://www.cnblogs.com/hugogoos/p/23341432)
+3. [使用Vibe Coding从零开发论坛（上）](https://www.cnblogs.com/chaogex/p/23341438)
+4. [K8s 最佳实践已更新：请使用 Node Swap！](https://www.cnblogs.com/east4ming/p/23341258)
+5. [百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进](https://www.cnblogs.com/xiongdy2017/p/23341228)
+6. [川剧复演 题解](https://www.cnblogs.com/lvwangshuOI/p/23341047)
+7. [MinMax vs Standard vs Robust：三种特征缩放怎么选](https://www.cnblogs.com/wang_yb/p/23340695)
+8. [go语言复制文件和操作目录](https://www.cnblogs.com/ishoulgodo/p/23320544)
+9. [CatBase 排序算法实战，从内置 sorted 到手写冒泡](https://www.cnblogs.com/forges/p/23339994)
+10. [PID 用顺了，然后呢：增强手术与前馈](https://www.cnblogs.com/zw-awa/p/23339843)
+11. [Kali Linux 密码破解实战：从字典生成到 GPU 暴力破解全流程](https://www.cnblogs.com/Johny-zhao/p/23338508)
+12. [js中every和some的详细介绍](https://www.cnblogs.com/IwishIcould/p/21466790)
+13. [WorkBuddy白送500积分，大家快来领](https://www.cnblogs.com/xiezhr/p/23336924)
+14. [笛卡尔树](https://www.cnblogs.com/lvwangshuOI/p/23332222)
+15. [【南大软件分析-学习笔记】Lecture 6-Data Flow Analysis-Foundation（下）](https://www.cnblogs.com/yixiku/p/23332053)
+16. [AI 越强，被它拒绝的代价就越大](https://www.cnblogs.com/leikooo/p/23331970)
+17. [wujie 微前端踩坑实录：一个子应用的 7 个生产事故现场](https://www.cnblogs.com/ChineseLiao/p/23330749)
+18. [装了这么多年 .NET，微软终于把 rustup 那套搬过来了](https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup)
+19. [好题合集 2026.10](https://www.cnblogs.com/xita/p/23181193)
+20. [单日涨星2.5万！AI逆向工程REA到底强在哪？](https://www.cnblogs.com/chingho/p/23329759)
 
 ## 精华帖子
 

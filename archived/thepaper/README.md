@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-18 01:09:53
+> 更新时间：2026-10-18 02:13:04
 
 ## 热新闻
 
@@ -14,13 +14,13 @@
 8. [中青评论：硫磺熏制桂花顶风作案，监管要跑在风险前面](https://www.thepaper.cn/newsDetail_forward_34267914)
 9. [古树被警方扣押又遭转赠：时任林业局长被处理，赔偿申请已受理](https://www.thepaper.cn/newsDetail_forward_34271160)
 10. [媒体评女篮热身赛爆发群殴：赛后炫耀打人更值得反思](https://www.thepaper.cn/newsDetail_forward_34270637)
-11. [爱因斯坦曾到访过的上海住宅：梓园今昔](https://www.thepaper.cn/newsDetail_forward_34240677)
-12. [姚飞履新中国驻基里巴斯大使，曾被誉为“跑得最快的副市长”](https://www.thepaper.cn/newsDetail_forward_34270784)
-13. [闫盼盼、李羽洁担任第五届亚残运会开幕式中国体育代表团旗手](https://www.thepaper.cn/newsDetail_forward_34270443)
+11. [姚飞履新中国驻基里巴斯大使，曾被誉为“跑得最快的副市长”](https://www.thepaper.cn/newsDetail_forward_34270784)
+12. [爱因斯坦曾到访过的上海住宅：梓园今昔](https://www.thepaper.cn/newsDetail_forward_34240677)
+13. [“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元](https://www.thepaper.cn/newsDetail_forward_34271084)
 14. [重阳节银发族开启错峰游：“县城康养”搜索热度同比增长203%](https://www.thepaper.cn/newsDetail_forward_34269748)
-15. [中国上海国际艺术节开幕｜点亮城市第25小时，人们因艺术而来，为上海停留](https://www.thepaper.cn/newsDetail_forward_34262732)
-16. [特朗普签署行政令豁免对俄多项制裁](https://www.thepaper.cn/newsDetail_forward_34269052)
-17. [“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元](https://www.thepaper.cn/newsDetail_forward_34271084)
-18. [上海国际艺术节每日一聊｜上海大歌剧院开幕演出的亮点来了](https://www.thepaper.cn/newsDetail_forward_34263273)
-19. [观察丨“战犯神社”的“和平包装”骗不了世界](https://www.thepaper.cn/newsDetail_forward_34271196)
-20. [被问是否被特朗普当成替罪羊？泽连斯基神秘微笑](https://www.thepaper.cn/newsDetail_forward_34268856)
+15. [闫盼盼、李羽洁担任第五届亚残运会开幕式中国体育代表团旗手](https://www.thepaper.cn/newsDetail_forward_34270443)
+16. [中国上海国际艺术节开幕｜点亮城市第25小时，人们因艺术而来，为上海停留](https://www.thepaper.cn/newsDetail_forward_34262732)
+17. [特朗普签署行政令豁免对俄多项制裁](https://www.thepaper.cn/newsDetail_forward_34269052)
+18. [观察丨“战犯神社”的“和平包装”骗不了世界](https://www.thepaper.cn/newsDetail_forward_34271196)
+19. [被问是否被特朗普当成替罪羊？泽连斯基神秘微笑](https://www.thepaper.cn/newsDetail_forward_34268856)
+20. [上海国际艺术节每日一聊｜上海大歌剧院开幕演出的亮点来了](https://www.thepaper.cn/newsDetail_forward_34263273)

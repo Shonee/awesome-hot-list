@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-18 00:37:45
+> 更新时间：2026-10-18 02:13:02
 
 ## 24 小时热榜
 
@@ -12,9 +12,9 @@
 6. [广东已备案 195 款大模型 位居全国前列](https://readhub.cn/topic/8xICPceo79P?tab=daily)
 7. [雅万高铁开通运营三周年 累计发送旅客超 1800 万人次](https://readhub.cn/topic/8xICnyKh0QI?tab=daily)
 8. [马斯克：正在开发专用议价机器人 每年可为全球节省 6 万亿美元](https://readhub.cn/topic/8xHfXWqWA1a?tab=daily)
-9. [懂车帝辟谣「删视频」热搜：网传截图人为拼接属谣言](https://readhub.cn/topic/8xH2e5g9MCR?tab=daily)
-10. [中日 8 月减持美债 英国持仓升至 1.01 万亿美元](https://readhub.cn/topic/8xHilLzhh1e?tab=daily)
-11. [SpaceX 提供冷气推进器：详解第二代特斯拉 Roadster 为何能飞](https://readhub.cn/topic/8xI9Cp5CWJn?tab=daily)
+9. [SpaceX 提供冷气推进器：详解第二代特斯拉 Roadster 为何能飞](https://readhub.cn/topic/8xI9Cp5CWJn?tab=daily)
+10. [懂车帝辟谣「删视频」热搜：网传截图人为拼接属谣言](https://readhub.cn/topic/8xH2e5g9MCR?tab=daily)
+11. [中日 8 月减持美债 英国持仓升至 1.01 万亿美元](https://readhub.cn/topic/8xHilLzhh1e?tab=daily)
 12. [鲁班工坊系列国家标准正式公布 2027 年 4 月起实施](https://readhub.cn/topic/8xICPa4iLn0?tab=daily)
 13. [Anthropic 称人均雇员创收是 Meta 和谷歌的 2 至 4 倍](https://readhub.cn/topic/8xHmKTgFViW?tab=daily)
 14. [商务部就禁止出口限制出口技术目录修订公开征求意见](https://readhub.cn/topic/8xH1uTSNgoH?tab=daily)
@@ -25,15 +25,15 @@
 19. [RISC-V 重磅峰会将举办 产业空间有望超 2000 亿元](https://readhub.cn/topic/8xIM3l2QNI5?tab=daily)
 20. [谷歌购物工具 Universal Cart 在美国上线](https://readhub.cn/topic/8xG6Ltjifna?tab=daily)
 21. [OpenSpace 开源太空生态发布 开源计算星座首期规划 2600 颗卫星](https://readhub.cn/topic/8xIp0IMWKr2?tab=daily)
-22. [行业首个基于确定性网络的智能体互联平台 AXP 正式发布](https://readhub.cn/topic/8xIDU6jdqA2?tab=daily)
-23. [OpenAI 再度挖角 SpaceX AI 领域核心销售负责人](https://readhub.cn/topic/8xHpuFyHj1U?tab=daily)
-24. [报道：美国 FAA 最快下周批准波音 737 MAX 10](https://readhub.cn/topic/8xHauYC5mYJ?tab=daily)
-25. [软银据悉考虑收购美国最大安保服务公司 其 ADR 一度跌近 8%](https://readhub.cn/topic/8xHe6slm7Td?tab=daily)
-26. [医用外骨骼康复训练项目已纳入多地医保或长护险试点](https://readhub.cn/topic/8xIxDfCzzXG?tab=daily)
+22. [OpenAI 再度挖角 SpaceX AI 领域核心销售负责人](https://readhub.cn/topic/8xHpuFyHj1U?tab=daily)
+23. [行业首个基于确定性网络的智能体互联平台 AXP 正式发布](https://readhub.cn/topic/8xIDU6jdqA2?tab=daily)
+24. [医用外骨骼康复训练项目已纳入多地医保或长护险试点](https://readhub.cn/topic/8xIxDfCzzXG?tab=daily)
+25. [报道：美国 FAA 最快下周批准波音 737 MAX 10](https://readhub.cn/topic/8xHauYC5mYJ?tab=daily)
+26. [软银据悉考虑收购美国最大安保服务公司 其 ADR 一度跌近 8%](https://readhub.cn/topic/8xHe6slm7Td?tab=daily)
 27. [中兴通讯 CTO 王喜瑜：新一代数据中心网络 NPO 方案为 AI Fabric 提供更优解](https://readhub.cn/topic/8xIUdRZ9xd8?tab=daily)
 28. [维信诺与荣耀全球首发 2K 185Hz 电竞护眼屏 荣耀 WIN2 系列全系搭载](https://readhub.cn/topic/8xHSKWRz1TB?tab=daily)
-29. [微软推出「AI 学生模拟器」研究系统](https://readhub.cn/topic/8xI6M8JNEFs?tab=daily)
-30. [广汽埃安 Ray7 开启预售 预售价 12.88 万元起](https://readhub.cn/topic/8xIuNJASOS7?tab=daily)
+29. [广汽埃安 Ray7 开启预售 预售价 12.88 万元起](https://readhub.cn/topic/8xIuNJASOS7?tab=daily)
+30. [微软推出「AI 学生模拟器」研究系统](https://readhub.cn/topic/8xI6M8JNEFs?tab=daily)
 
 ## 每日早报
 
