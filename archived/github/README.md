@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-18 21:10:15
+> 更新时间：2026-10-19 03:35:15
 
 ## 每日趋势
 
@@ -65,16 +65,15 @@
 7. [jadx](https://github.com/skylot/jadx)
 8. [so-novel](https://github.com/freeok/so-novel)
 9. [NoteLite](https://github.com/Lucas0623z/NoteLite)
-10. [Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
-11. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-12. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-13. [spring-boot](https://github.com/spring-projects/spring-boot)
-14. [kafka](https://github.com/apache/kafka)
-15. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
-16. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
-17. [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
-18. [voxy](https://github.com/MCRcortex/voxy)
-19. [shenyu](https://github.com/apache/shenyu)
+10. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+11. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+12. [spring-boot](https://github.com/spring-projects/spring-boot)
+13. [kafka](https://github.com/apache/kafka)
+14. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
+15. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+16. [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+17. [voxy](https://github.com/MCRcortex/voxy)
+18. [shenyu](https://github.com/apache/shenyu)
 
 ## Python
 
