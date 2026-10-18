@@ -1,38 +1,38 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-10-19 01:43:13",
-  "dates": [
-    "2026-10-18",
-    "2026-10-17",
-    "2026-10-16",
-    "2026-10-15",
-    "2026-10-14",
-    "2026-10-13"
-  ],
-  "reports": [
-    {
-      "date": "2026-10-18",
-      "path": "./data/reports/2026-10-18.json"
-    },
-    {
-      "date": "2026-10-17",
-      "path": "./data/reports/2026-10-17.json"
-    },
-    {
-      "date": "2026-10-16",
-      "path": "./data/reports/2026-10-16.json"
-    },
-    {
-      "date": "2026-10-15",
-      "path": "./data/reports/2026-10-15.json"
-    },
-    {
-      "date": "2026-10-14",
-      "path": "./data/reports/2026-10-14.json"
-    },
-    {
-      "date": "2026-10-13",
-      "path": "./data/reports/2026-10-13.json"
-    }
-  ]
+    "schemaVersion": 1,
+    "generatedAt": "2026-10-19 02:45:49",
+    "dates": [
+        "2026-10-18",
+        "2026-10-17",
+        "2026-10-16",
+        "2026-10-15",
+        "2026-10-14",
+        "2026-10-13"
+    ],
+    "reports": [
+        {
+            "date": "2026-10-18",
+            "path": "./data/reports/2026-10-18.json"
+        },
+        {
+            "date": "2026-10-17",
+            "path": "./data/reports/2026-10-17.json"
+        },
+        {
+            "date": "2026-10-16",
+            "path": "./data/reports/2026-10-16.json"
+        },
+        {
+            "date": "2026-10-15",
+            "path": "./data/reports/2026-10-15.json"
+        },
+        {
+            "date": "2026-10-14",
+            "path": "./data/reports/2026-10-14.json"
+        },
+        {
+            "date": "2026-10-13",
+            "path": "./data/reports/2026-10-13.json"
+        }
+    ]
 }
