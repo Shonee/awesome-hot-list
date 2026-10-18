@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-19 01:10:38
+> 更新时间：2026-10-19 02:13:27
 
 ## 股票人气榜
 
@@ -22,5 +22,5 @@
 16. [东安动力 (600178)](https://quote.eastmoney.com/sh600178.html)
 17. [读者传媒 (603999)](https://quote.eastmoney.com/sh603999.html)
 18. [甘化科工 (000576)](https://quote.eastmoney.com/sz000576.html)
-19. [华力创通 (300045)](https://quote.eastmoney.com/sz300045.html)
-20. [尖峰集团 (600668)](https://quote.eastmoney.com/sh600668.html)
+19. [尖峰集团 (600668)](https://quote.eastmoney.com/sh600668.html)
+20. [华力创通 (300045)](https://quote.eastmoney.com/sz300045.html)
