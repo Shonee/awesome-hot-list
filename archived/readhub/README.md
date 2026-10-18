@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-19 02:39:50
+> 更新时间：2026-10-19 04:12:03
 
 ## 24 小时热榜
 
@@ -16,24 +16,24 @@
 10. [DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元](https://readhub.cn/topic/8xKUyzW7OUv?tab=daily)
 11. [世界最长跨海高铁桥梁首个航道桥合龙](https://readhub.cn/topic/8xJvy0Yykjs?tab=daily)
 12. [演员吴越怒斥 AI 仿冒带货 微信视频号回应相关账号已永久封禁](https://readhub.cn/topic/8xJqxZGIKKZ?tab=daily)
-13. [Manifold AI 登顶 RoboDojo 推出机器人递归自进化框架 R²SI](https://readhub.cn/topic/8xJHwsDIsNy?tab=daily)
-14. [消息称苹果要求零售店劝退无预约顾客：iPhone Duo 首发日基本不卖现货](https://readhub.cn/topic/8xJYNhGeSzb?tab=daily)
-15. [英伟达否认 RTX 5090 停产传闻 承认供应链产能受限](https://readhub.cn/topic/8xJ0nQzF8HM?tab=daily)
+13. [消息称苹果要求零售店劝退无预约顾客：iPhone Duo 首发日基本不卖现货](https://readhub.cn/topic/8xJYNhGeSzb?tab=daily)
+14. [英伟达否认 RTX 5090 停产传闻 承认供应链产能受限](https://readhub.cn/topic/8xJ0nQzF8HM?tab=daily)
+15. [Anthropic 拟通过 600 亿美元芯片债务融资向黑石提供超 10% 收益率](https://readhub.cn/topic/8xI3UFwc4GZ?tab=daily)
 16. [京东：未来 5 年将创造超 10 万个机器人维修工程师就业岗位](https://readhub.cn/topic/8xKFyHc2l84?tab=daily)
 17. [市场预测特斯拉与 SpaceX 2027 年初合并概率已超 50%](https://readhub.cn/topic/8xHHcRmMiFU?tab=daily)
 18. [中科曙光发布曙光 8000 十大前沿应用成果](https://readhub.cn/topic/8xJlFJgbr4r?tab=daily)
-19. [Anthropic 拟通过 600 亿美元芯片债务融资向黑石提供超 10% 收益率](https://readhub.cn/topic/8xI3UFwc4GZ?tab=daily)
-20. [蚂蚁百灵开源 Ling-3.1-flash 主打长程复杂任务落地真实工作流](https://readhub.cn/topic/8xIcV653HWd?tab=daily)
-21. [美手术机器人企业 Vicarious 破产，国内同行首现半年度盈利](https://readhub.cn/topic/8xJgxL7375l?tab=daily)
-22. [禾赛发布三维世界数据引擎 Kosmo 15 分钟即可完成空间扫描建模](https://readhub.cn/topic/8xILLlViIjw?tab=daily)
-23. [吉利林杰：燃油车的未来是全面混动化、全面智能化](https://readhub.cn/topic/8xIqnh20TdG?tab=daily)
-24. [第 412 批工信部新车申报目录公布 多款重点车型在列](https://readhub.cn/topic/8xJgxg8DWzY?tab=daily)
-25. [微信鸿蒙版上线小艺语音操作 支持语音发消息打音视频](https://readhub.cn/topic/8xIv5TpUvL0?tab=daily)
-26. [普林斯顿团队开发蛋白质生成 AI 模型：降低免疫原性，还能提高活性](https://readhub.cn/topic/8xIQiTkcvtD?tab=daily)
-27. [央行副行长宣昌能出席相关国际会议并会见多机构负责人](https://readhub.cn/topic/8xJnOpW10lV?tab=daily)
-28. [苹果客服回应 iPhone 货轮沉没传闻：若属实不会二次流入市场](https://readhub.cn/topic/8xImWSyOGv2?tab=daily)
-29. [消息称三星将采用台积电 3nm 制程为英伟达生产 HBM 基底裸片](https://readhub.cn/topic/8xKJY4kJANq?tab=daily)
-30. [绝味食品 10 月 19 日停牌 次日起撤销其他风险警示](https://readhub.cn/topic/8xKCkyCWbmK?tab=daily)
+19. [美手术机器人企业 Vicarious 破产，国内同行首现半年度盈利](https://readhub.cn/topic/8xJgxL7375l?tab=daily)
+20. [吉利林杰：燃油车的未来是全面混动化、全面智能化](https://readhub.cn/topic/8xIqnh20TdG?tab=daily)
+21. [第 412 批工信部新车申报目录公布 多款重点车型在列](https://readhub.cn/topic/8xJgxg8DWzY?tab=daily)
+22. [微信鸿蒙版上线小艺语音操作 支持语音发消息打音视频](https://readhub.cn/topic/8xIv5TpUvL0?tab=daily)
+23. [央行副行长宣昌能出席相关国际会议并会见多机构负责人](https://readhub.cn/topic/8xJnOpW10lV?tab=daily)
+24. [苹果客服回应 iPhone 货轮沉没传闻：若属实不会二次流入市场](https://readhub.cn/topic/8xImWSyOGv2?tab=daily)
+25. [消息称三星将采用台积电 3nm 制程为英伟达生产 HBM 基底裸片](https://readhub.cn/topic/8xKJY4kJANq?tab=daily)
+26. [绝味食品 10 月 19 日停牌 次日起撤销其他风险警示](https://readhub.cn/topic/8xKCkyCWbmK?tab=daily)
+27. [微软取消与 Nscale 关于英国数据中心的相关交易](https://readhub.cn/topic/8xK9tbFqVU9?tab=daily)
+28. [上海超导 3 公里单根长带产线计划 2027 年一季度产出产品](https://readhub.cn/topic/8xJtpdRxmA5?tab=daily)
+29. [具身智能体长程记忆：看见不等于记住，浙大提出具身记忆基准](https://readhub.cn/topic/8xKOXzP7d6Y?tab=daily)
+30. [DeepMind 宣布 4 个 Gemini 智能体自组队通关《我的世界》](https://readhub.cn/topic/8xJHwTd0vtO?tab=daily)
 
 ## 每日早报
 
@@ -50,10 +50,10 @@
 1. [Google 也在推进自主湿实验室，已实现智能体与机器人闭环](https://www.mittrchina.com/news/detail/17112)
 2. [霍尔木兹海峡海面漂满 iPhone 视频全网疯传，溯源发现系 AI 编造](https://news.mydrivers.com/1/1158/1158407.htm)
 3. [数学的「第四次危机」：从不可说，到无可说](https://www.tmtpost.com/8172522.html)
-4. [研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险](https://www.ithome.com/1/014/589.htm)
-5. [微软最新研究：Agent 的「长记忆」可能是毒药](https://www.51cto.com/article/858398.html)
-6. [台积电日本熊本二厂获准转向 3nm 芯片生产，月产能 6000 片](https://www.36kr.com/newsflashes/4031113616347783)
-7. [三星将与台积电共同生产英伟达下一代定制 HBM，基底芯片采用 3nm 工艺](https://www.techflowpost.com/zh-CN/newsletter/140392)
-8. [Qwen 4 要来了，本地 AI 要变天？](https://www.51cto.com/article/858442.html)
-9. [每经热评 | 算法推荐了假「吴越」，技术中立不是平台挡箭牌](https://www.nbd.com.cn/articles/2026-10-18/4607717.html)
-10. [DeepSeek 成立产品部，整合 Harness 及 Web、App、Platform 团队](https://www.tmtpost.com/8172203.html)
+4. [多家期刊拒绝人工智能参与撰写稿件，润色也不行](https://news.cctv.com/2026/10/19/ARTIbF26SSebVSltjwBHVHcC261019.shtml)
+5. [研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险](https://www.ithome.com/1/014/589.htm)
+6. [微软最新研究：Agent 的「长记忆」可能是毒药](https://www.51cto.com/article/858398.html)
+7. [台积电日本熊本二厂获准转向 3nm 芯片生产，月产能 6000 片](https://www.36kr.com/newsflashes/4031113616347783)
+8. [三星将与台积电共同生产英伟达下一代定制 HBM，基底芯片采用 3nm 工艺](https://www.techflowpost.com/zh-CN/newsletter/140392)
+9. [Qwen 4 要来了，本地 AI 要变天？](https://www.51cto.com/article/858442.html)
+10. [每经热评 | 算法推荐了假「吴越」，技术中立不是平台挡箭牌](https://www.nbd.com.cn/articles/2026-10-18/4607717.html)

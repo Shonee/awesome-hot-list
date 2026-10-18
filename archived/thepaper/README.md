@@ -1,15 +1,15 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-19 03:09:18
+> 更新时间：2026-10-19 04:12:05
 
 ## 热新闻
 
 1. [涉嫌严重职务违法，广西壮族自治区政协原副主席黄日波被查](https://www.thepaper.cn/newsDetail_forward_34273711)
 2. [扇开第一声，是上海的声音](https://www.thepaper.cn/newsDetail_forward_34272559)
 3. [马上评｜中国留学生竟身披旭日旗，民族尊严岂容冒犯？](https://www.thepaper.cn/newsDetail_forward_34276344)
-4. [经济高压下的韩国择偶新图景：韩日情侣渐多、海力士马甲成相亲“战袍”](https://www.thepaper.cn/newsDetail_forward_34269747)
-5. [“张雪机车”车手德比斯以年度车手亚军收官](https://www.thepaper.cn/newsDetail_forward_34276497)
-6. [多家期刊拒绝人工智能参与撰写稿件，润色也不行](https://www.thepaper.cn/newsDetail_forward_34276234)
+4. [“张雪机车”车手德比斯以年度车手亚军收官](https://www.thepaper.cn/newsDetail_forward_34276497)
+5. [多家期刊拒绝人工智能参与撰写稿件，润色也不行](https://www.thepaper.cn/newsDetail_forward_34276234)
+6. [经济高压下的韩国择偶新图景：韩日情侣渐多、海力士马甲成相亲“战袍”](https://www.thepaper.cn/newsDetail_forward_34269747)
 7. [演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空](https://www.thepaper.cn/newsDetail_forward_34274620)
 8. [冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？](https://www.thepaper.cn/newsDetail_forward_34274890)
 9. [重庆：父亲遛狗时两岁幼童从18楼家中坠亡，母亲以“过失致人死亡”报案获警方受理](https://www.thepaper.cn/newsDetail_forward_34275350)
@@ -22,5 +22,5 @@
 16. [大麦网：王某某编造“25万出肖战第一排”谣言，职能部门正处理](https://www.thepaper.cn/newsDetail_forward_34273574)
 17. [沪市公司周末多维度释放积极信号：回购增持持续升温，科创板龙头业绩密集预喜](https://www.thepaper.cn/newsDetail_forward_34275445)
 18. [一路丰碑｜皎平渡口夜，见证依靠人民力量](https://www.thepaper.cn/newsDetail_forward_34224669)
-19. [穿越时空看长征·多维视野｜吴海勇：二万五千里长征促成毛泽东持久战思想的跃进](https://www.thepaper.cn/newsDetail_forward_34204676)
-20. [央媒：风险动荡加剧、经济承压前行，全球面临新的“增长之问”](https://www.thepaper.cn/newsDetail_forward_34272798)
+19. [50元进货700元售出！只收老年游客的药厂“溯源游”实为新型会销](https://www.thepaper.cn/newsDetail_forward_34276364)
+20. [穿越时空看长征·多维视野｜吴海勇：二万五千里长征促成毛泽东持久战思想的跃进](https://www.thepaper.cn/newsDetail_forward_34204676)
