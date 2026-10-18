@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-19 02:13:19
+> 更新时间：2026-10-19 03:09:28
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [曝华为 Pura X Max 阔折叠手机销量已破百万台，标准版成功“赶超”典藏版](https://www.ithome.com/1/014/428.htm)
 7. [比亚迪第三代秦 PLUS 实车曝光，预计 10 月下旬上市](https://www.ithome.com/1/014/541.htm)
 8. [WPS 官宣「抢鲜」适配 iPhone Duo，支持伴随式 AI 全新布局](https://www.ithome.com/1/014/421.htm)
-9. [消息称苹果要求零售店员工劝退无预约顾客：iPhone Duo 首发日基本不卖现货](https://www.ithome.com/1/014/437.htm)
-10. [武亮回应“接手峰学蔚来质疑”：张雪峰离世后，当下最重要的是尽全力让公司活下去](https://www.ithome.com/1/014/575.htm)
+9. [武亮回应“接手峰学蔚来质疑”：张雪峰离世后，当下最重要的是尽全力让公司活下去](https://www.ithome.com/1/014/575.htm)
+10. [消息称苹果要求零售店员工劝退无预约顾客：iPhone Duo 首发日基本不卖现货](https://www.ithome.com/1/014/437.htm)
 11. [苹果 iPhone Duo 京东尊享权益套装上线，20998 元起 20:00 开抢](https://www.ithome.com/1/014/513.htm)
 12. [华为鸿蒙星河互联 AirPods 适配型号公布，覆盖初代至 Max 等主流机型](https://www.ithome.com/1/014/489.htm)

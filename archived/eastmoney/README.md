@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-19 02:13:27
+> 更新时间：2026-10-19 03:09:35
 
 ## 股票人气榜
 
@@ -15,12 +15,12 @@
 9. [江淮汽车 (600418)](https://quote.eastmoney.com/sh600418.html)
 10. [保隆科技 (603197)](https://quote.eastmoney.com/sh603197.html)
 11. [上工申贝 (600843)](https://quote.eastmoney.com/sh600843.html)
-12. [金盾股份 (300411)](https://quote.eastmoney.com/sz300411.html)
-13. [金奥博 (002917)](https://quote.eastmoney.com/sz002917.html)
+12. [金奥博 (002917)](https://quote.eastmoney.com/sz002917.html)
+13. [金盾股份 (300411)](https://quote.eastmoney.com/sz300411.html)
 14. [吉林化纤 (000420)](https://quote.eastmoney.com/sz000420.html)
 15. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
 16. [东安动力 (600178)](https://quote.eastmoney.com/sh600178.html)
 17. [读者传媒 (603999)](https://quote.eastmoney.com/sh603999.html)
 18. [甘化科工 (000576)](https://quote.eastmoney.com/sz000576.html)
 19. [尖峰集团 (600668)](https://quote.eastmoney.com/sh600668.html)
-20. [华力创通 (300045)](https://quote.eastmoney.com/sz300045.html)
+20. [文灿股份 (603348)](https://quote.eastmoney.com/sh603348.html)

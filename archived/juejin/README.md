@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-19 02:12:55
+> 更新时间：2026-10-19 03:09:05
 
 ## 热门文章
 
@@ -44,10 +44,10 @@
 38. [一周涨 24 万星的 REA，新手和逆向老手为什么评价相反](https://juejin.cn/post/7696822189492895782)
 39. [一个纯 Python 实现的 APK 解析与设备操控工具箱](https://juejin.cn/post/7696820671751569443)
 40. [我扒了 npm 三年数据：AI 没把依赖变胖，是把包变多了](https://juejin.cn/post/7697094344730607650)
-41. [TRAE+Three.js开发3D地图数据可视化大屏：写代码只花20%时间，真正成本在需求对齐](https://juejin.cn/post/7696883050709778458)
-42. [从古法编程到 Agent：我入行这两年，AI 改变了什么](https://juejin.cn/post/7696817605547114506)
-43. [Android 文件管理器开发实战指南](https://juejin.cn/post/7696793263613722639)
-44. [LiveEventBusCore 跨 Activity 通讯源码解析](https://juejin.cn/post/7696929328835510299)
+41. [LiveEventBusCore 跨 Activity 通讯源码解析](https://juejin.cn/post/7696929328835510299)
+42. [TRAE+Three.js开发3D地图数据可视化大屏：写代码只花20%时间，真正成本在需求对齐](https://juejin.cn/post/7696883050709778458)
+43. [从古法编程到 Agent：我入行这两年，AI 改变了什么](https://juejin.cn/post/7696817605547114506)
+44. [Android 文件管理器开发实战指南](https://juejin.cn/post/7696793263613722639)
 45. [Vue3 事件：常用用法与开发高频坑点](https://juejin.cn/post/7697181229841809450)
 46. [八种语言的工作流引擎，我用 6 张 UML 图画完了](https://juejin.cn/post/7697168479082266651)
 47. [八个私有 SPM 包撑起六款 App：分支当版本、钻石依赖，和一次谁都没报错的失效](https://juejin.cn/post/7696883050710007834)
