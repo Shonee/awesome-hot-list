@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-19 21:15:48
+> 更新时间：2026-10-19 22:13:58
 
 ## 热门主题
 
@@ -9,8 +9,8 @@
 3. [房贷还有 14w 多，存款有差不多 19w，要不要提前还掉房贷](https://www.v2ex.com/t/1249936)
 4. [最近对女方家庭和重男轻女的观念有所变化，其实有女方有哥哥/弟弟挺好的](https://www.v2ex.com/t/1249874)
 5. [[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码](https://www.v2ex.com/t/1249891)
-6. [找个喜欢自己的还是自己喜欢的人](https://www.v2ex.com/t/1249814)
-7. [大家的 giffgaff 还能用吗](https://www.v2ex.com/t/1249905)
-8. [NSFW/姿势出图 skill](https://www.v2ex.com/t/1249850)
-9. [突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高](https://www.v2ex.com/t/1249864)
-10. [利用学生优惠$8.99 开通 2 年半 Google AI Pro + YouTube Premium + 5TB 存储](https://www.v2ex.com/t/1249913)
+6. [大家的 giffgaff 还能用吗](https://www.v2ex.com/t/1249905)
+7. [NSFW/姿势出图 skill](https://www.v2ex.com/t/1249850)
+8. [突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高](https://www.v2ex.com/t/1249864)
+9. [利用学生优惠$8.99 开通 2 年半 Google AI Pro + YouTube Premium + 5TB 存储](https://www.v2ex.com/t/1249913)
+10. [男孩子青春期问题（迷茫 没信心）怎么解决](https://www.v2ex.com/t/1249955)

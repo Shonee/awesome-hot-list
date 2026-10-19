@@ -1,10 +1,10 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-19 21:15:03
+> 更新时间：2026-10-19 22:13:32
 
 ## 热新闻
 
-1. [山东一“仙人跳”团伙被诉：女局长被敲诈19万，三受害人曾被采取刑事措施](https://www.thepaper.cn/newsDetail_forward_34276793)
+1. [山东一“仙人跳”团伙被诉：女局长被敲诈19万，另三名受害人曾被采取刑事措施](https://www.thepaper.cn/newsDetail_forward_34276793)
 2. [人民日报调查四川多县用硫磺熏笋出售：去年一县查获1900公斤仅罚500元](https://www.thepaper.cn/newsDetail_forward_34278337)
 3. [多名日本议员参拜靖国神社，高市早苗供奉祭祀费](https://www.thepaper.cn/newsDetail_forward_34278381)
 4. [国务院学位办：专业学位研究生以实践成果申请学位，推动5个类别试点先行](https://www.thepaper.cn/newsDetail_forward_34280118)
@@ -19,8 +19,8 @@
 13. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
 14. [央视曝光近视防控镜相关问题后，江苏丹阳连夜通报：立案调查](https://www.thepaper.cn/newsDetail_forward_34278954)
 15. [国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳](https://www.thepaper.cn/newsDetail_forward_34278967)
-16. [全国今日起正式进入省级党代会时间](https://www.thepaper.cn/newsDetail_forward_34278931)
-17. [一线城市二手房价格连续7个月环比上涨，全国新建商品房库存持续下降](https://www.thepaper.cn/newsDetail_forward_34280880)
+16. [一线城市二手房价格连续7个月环比上涨，全国新建商品房库存持续下降](https://www.thepaper.cn/newsDetail_forward_34280880)
+17. [全国今日起正式进入省级党代会时间](https://www.thepaper.cn/newsDetail_forward_34278931)
 18. [一路丰碑｜铁索寒光里，迸发一往无前勇气](https://www.thepaper.cn/newsDetail_forward_34224692)
 19. [上海9月二手房价同比上涨0.8%，成为全国第一个同比转涨城市](https://www.thepaper.cn/newsDetail_forward_34279437)
 20. [欧洲多国爆发示威活动，法国2000多人被捕](https://www.thepaper.cn/newsDetail_forward_34277116)
