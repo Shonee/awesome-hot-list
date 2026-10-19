@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-19 17:47:04
+> 更新时间：2026-10-19 18:43:00
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [六小龄童谈孙悟空、林黛玉 AI 魔改“圣黛 CP”：创意很好玩，但改编不能逾越政策法规和观众红线](https://www.ithome.com/1/014/753.htm)
 7. [豆包刘星回应“国内超一半算力在造爽剧”：字节总算力中，只有约 10% 用于视频生成模型的训练和推理](https://www.ithome.com/1/014/729.htm)
 8. [新增广东湖南：苹果 AirPods 国补 15%，5 代 758 元起、Pro 3 仅 1316 元](https://www.ithome.com/1/014/610.htm)
-9. [古尔曼：苹果本月底发布 OLED MacBook Pro、M6 设备及 iPad mini 8，11 月 6 日上市](https://www.ithome.com/1/014/621.htm)
-10. [iQOO 产品经理邢程（行走的橙子 Q）宣布离职，称依然支持和关注 iQOO](https://www.ithome.com/1/014/757.htm)
-11. [腾讯 WorkBuddy 教育公益版上线：全国教师每人每月可领 2000 积分，能连续领 1 年](https://www.ithome.com/1/014/752.htm)
-12. [奕境 X9 在华为松山湖开启交付，限时优惠价 27.98 万元起](https://www.ithome.com/1/014/553.htm)
+9. [iQOO 产品经理邢程（行走的橙子 Q）宣布离职，称依然支持和关注 iQOO](https://www.ithome.com/1/014/757.htm)
+10. [古尔曼：苹果本月底发布 OLED MacBook Pro、M6 设备及 iPad mini 8，11 月 6 日上市](https://www.ithome.com/1/014/621.htm)
+11. [iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡](https://www.ithome.com/1/014/878.htm)
+12. [腾讯 WorkBuddy 教育公益版上线：全国教师每人每月可领 2000 积分，能连续领 1 年](https://www.ithome.com/1/014/752.htm)
