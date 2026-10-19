@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-20 03:10:00
+> 更新时间：2026-10-20 04:13:47
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [一记来自星链的警钟：乌克兰之后，轮到谁担心被“卡脖子”？](https://www.thepaper.cn/newsDetail_forward_34279646)
 14. [中国留学生课堂披旭日旗，钧正平：为军国主义张目是对人类良知的公然冒犯](https://www.thepaper.cn/newsDetail_forward_34280886)
 15. [吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮](https://www.thepaper.cn/newsDetail_forward_34282373)
-16. [央视曝光近视防控镜相关问题后，江苏丹阳连夜通报：立案调查](https://www.thepaper.cn/newsDetail_forward_34278954)
-17. [国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳](https://www.thepaper.cn/newsDetail_forward_34278967)
-18. [外交部提醒赴法国中国公民加强安全防范](https://www.thepaper.cn/newsDetail_forward_34282817)
-19. [一线城市二手房价格连续7个月环比上涨，全国新建商品房库存持续下降](https://www.thepaper.cn/newsDetail_forward_34280880)
-20. [全国今日起正式进入省级党代会时间](https://www.thepaper.cn/newsDetail_forward_34278931)
+16. [外交部提醒赴法国中国公民加强安全防范](https://www.thepaper.cn/newsDetail_forward_34282817)
+17. [央视曝光近视防控镜相关问题后，江苏丹阳连夜通报：立案调查](https://www.thepaper.cn/newsDetail_forward_34278954)
+18. [中国驻菲律宾大使就菲反华政客污蔑抹黑中方言论向菲外长提出严正交涉](https://www.thepaper.cn/newsDetail_forward_34283051)
+19. [四川马边县通报“硫磺熏制鲜竹笋”：对涉事人员依法开展调查取证](https://www.thepaper.cn/newsDetail_forward_34282643)
+20. [国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳](https://www.thepaper.cn/newsDetail_forward_34278967)

@@ -1,12 +1,12 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-20 03:09:55
+> 更新时间：2026-10-20 04:13:37
 
 ## 人气热门
 
-1. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
-2. [零基础如何实现让AI全自动逆向apk完整教程以及全流程记录](https://www.52pojie.cn/thread-2132974-1-1.html)
-3. [【全插件】IDA Pro 9.4 绿化便携+美化版 震撼发布！](https://www.52pojie.cn/thread-2132978-1-1.html)
+1. [【全插件】IDA Pro 9.4 绿化便携+美化版 震撼发布！](https://www.52pojie.cn/thread-2132978-1-1.html)
+2. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
+3. [零基础如何实现让AI全自动逆向apk完整教程以及全流程记录](https://www.52pojie.cn/thread-2132974-1-1.html)
 4. [央视影音v6.0.5.3绿色版](https://www.52pojie.cn/thread-2132883-1-1.html)
 5. [《剪映悬浮球助手V2.3》支持最新剪映](https://www.52pojie.cn/thread-2132915-1-1.html)
 6. [复活逗音小能手](https://www.52pojie.cn/thread-2132753-1-1.html)
