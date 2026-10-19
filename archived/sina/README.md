@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-19 20:21:01
+> 更新时间：2026-10-19 21:15:10
 
 ## 新闻热榜
 
@@ -9,21 +9,21 @@
 3. [写下中国制造新时速！“张雪机车”用实力打破垄断](https://news.sina.com.cn/zx/2026-10-19/doc-inivswyw0875725.shtml)
 4. [四川宜宾警方通报女子打砸酒水经营店铺：其已被送往医疗机构诊断治疗](https://news.sina.com.cn/s/2026-10-19/doc-inivsstf7085219.shtml)
 5. [法国骚乱震惊世界！“我们从未见过如此大规模的暴力骚乱”](https://finance.sina.com.cn/roll/2026-10-19/doc-inivtchv7556101.shtml)
-6. [法国、意大利、葡萄牙、比利时……集中爆发](https://news.sina.com.cn/w/2026-10-19/doc-inivsnmi7115181.shtml)
+6. [普京提议下月与中美元首会面，外交部：目前没有可提供的信息](https://news.sina.com.cn/c/2026-10-19/doc-inivtynr6870090.shtml)
 7. [这个欧洲国家，有点悬了](https://news.sina.com.cn/w/2026-10-19/doc-inivtchv7602497.shtml)
-8. [普京提议下月与中美元首会面，外交部：目前没有可提供的信息](https://news.sina.com.cn/c/2026-10-19/doc-inivtynr6870090.shtml)
+8. [法国、意大利、葡萄牙、比利时……集中爆发](https://news.sina.com.cn/w/2026-10-19/doc-inivsnmi7115181.shtml)
 9. [“仙人跳”团伙被诉：女局长被敲诈19万，3名受害人曾被采取刑事措施](https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivtpwv7007968.shtml)
 10. [眼镜有多暴利：建议售价1980的眼镜片批发价才30元](https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivtchx6265203.shtml)
 11. [高市早苗向战犯神社供奉祭祀费](https://news.sina.com.cn/w/2026-10-19/doc-inivtchv7564030.shtml)
 12. [台陆委会“橙色警示”被现实打脸](https://news.sina.com.cn/c/2026-10-19/doc-inivtiqs0764034.shtml)
 13. [乌欲借美“星盾”打击俄纵深 鲁比奥：用不了](https://news.sina.com.cn/w/2026-10-19/doc-inivtiqt7491348.shtml)
 14. [“女性服兵役”讨论在韩国升温](https://news.sina.com.cn/w/2026-10-19/doc-inivtiqs0729057.shtml)
-15. [国家统计局：前三季度我国GDP同比增长4.6%](https://news.sina.com.cn/c/2026-10-19/doc-inivtiqt7630119.shtml)
-16. [韩国监狱不够用了](https://news.sina.com.cn/w/2026-10-19/doc-inivtiqs0741065.shtml)
-17. [离婚6天被前夫喊去帮忙立遗嘱，35岁女子用AI意外救下前夫哥一命……](https://finance.sina.com.cn/roll/2026-10-19/doc-inivtpwv6949268.shtml)
-18. [张雪机车双喜临门](https://news.sina.com.cn/c/2026-10-18/doc-inivshce0957738.shtml)
-19. [尤文主场造5.3倍冷负 足彩头奖开247注38715元](https://sports.sina.com.cn/l/2026-10-19/doc-inivtchx6305924.shtml)
-20. [第一眼都没敢认！演员雷佳音彻底大变样！全网喊话：把陈俊生还回来](https://finance.sina.com.cn/wm/2026-10-19/doc-inivtpwt6190552.shtml)
+15. [离婚6天被前夫喊去帮忙立遗嘱，35岁女子用AI意外救下前夫哥一命……](https://finance.sina.com.cn/roll/2026-10-19/doc-inivtpwv6949268.shtml)
+16. [国家统计局：前三季度我国GDP同比增长4.6%](https://news.sina.com.cn/c/2026-10-19/doc-inivtiqt7630119.shtml)
+17. [张雪机车双喜临门](https://news.sina.com.cn/c/2026-10-18/doc-inivshce0957738.shtml)
+18. [韩国监狱不够用了](https://news.sina.com.cn/w/2026-10-19/doc-inivtiqs0741065.shtml)
+19. [还有多少“陈某某”这样的病态“精日”分子](https://news.sina.com.cn/c/2026-10-19/doc-inivtuer6230691.shtml)
+20. [尤文主场造5.3倍冷负 足彩头奖开247注38715元](https://sports.sina.com.cn/l/2026-10-19/doc-inivtchx6305924.shtml)
 
 ## 财经热榜
 
