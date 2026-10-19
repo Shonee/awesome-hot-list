@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-19 14:28:21
+> 更新时间：2026-10-19 15:10:33
 
 ## 热点资讯排行
 
@@ -11,10 +11,10 @@
 5. [日本开发者心态崩了：9年做的游戏遭中国人破解修改](https://www.gamersky.com/news/202610/2230372.shtml)
 6. [IGN 8分！《使命召唤23》战役：重启后最好的一部](https://www.gamersky.com/news/202610/2230031.shtml)
 7. [《地平线行者》全新角色公布！](https://www.gamersky.com/news/202610/2228732.shtml)
-8. [iPhoneDuo黄牛价格暴跌！溢价从5.8万元跌至3000元](https://www.gamersky.com/news/202610/2230249.shtml)
-9. [《使命召唤现代战争》系列确认完结！未来新作要变天](https://www.gamersky.com/news/202610/2230281.shtml)
-10. [比肩09封神之作！《现代战争4》战役口碑爆发](https://www.gamersky.com/news/202610/2230428.shtml)
-11. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
+8. [《使命召唤现代战争》系列确认完结！未来新作要变天](https://www.gamersky.com/news/202610/2230281.shtml)
+9. [iPhoneDuo黄牛价格暴跌！溢价从5.8万元跌至3000元](https://www.gamersky.com/news/202610/2230249.shtml)
+10. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
+11. [比肩09封神之作！《现代战争4》战役口碑爆发](https://www.gamersky.com/news/202610/2230428.shtml)
 12. [《生化危机4：黄金版》Switch2版对比Steam Deck视频出炉 帧率测试中Switch2读数更高](https://www.gamersky.com/news/202610/2230254.shtml)
 13. [微软宣布Windows 11响应速度最高提升20% 8GB内存设备使用感知最为明显](https://www.gamersky.com/news/202610/2230103.shtml)
 14. [NS独占《马里奥》原生移植PC成功！无需模拟器](https://www.gamersky.com/news/202610/2230161.shtml)
