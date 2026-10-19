@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-19 08:34:23
+> 更新时间：2026-10-19 09:26:40
 
 ## 热新闻
 
@@ -16,11 +16,11 @@
 10. [冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？](https://www.thepaper.cn/newsDetail_forward_34274890)
 11. [众声｜吴越怒斥AI换脸带货，平台治理不能坐等受害者站出来](https://www.thepaper.cn/newsDetail_forward_34275099)
 12. [成都商场允许犬只进入是否违反四川省预防控制狂犬病条例？警方答疑](https://www.thepaper.cn/newsDetail_forward_34274360)
-13. [内蒙古诗词学会内部派系对立细节：所办刊物曾通报“罢免会长闹剧”](https://www.thepaper.cn/newsDetail_forward_34273363)
-14. [贵州兴义一辆轿车掉入沟中，救援队吊车作业时车辆掉落致轿车司机身亡](https://www.thepaper.cn/newsDetail_forward_34273258)
-15. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
-16. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
-17. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
-18. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
-19. [明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频](https://www.thepaper.cn/newsDetail_forward_34274965)
-20. [沪市公司周末多维度释放积极信号：回购增持持续升温，科创板龙头业绩密集预喜](https://www.thepaper.cn/newsDetail_forward_34275445)
+13. [法国多地发生大规模抗议，数百人被捕](https://www.thepaper.cn/newsDetail_forward_34273984)
+14. [内蒙古诗词学会内部派系对立细节：所办刊物曾通报“罢免会长闹剧”](https://www.thepaper.cn/newsDetail_forward_34273363)
+15. [贵州兴义一辆轿车掉入沟中，救援队吊车作业时车辆掉落致轿车司机身亡](https://www.thepaper.cn/newsDetail_forward_34273258)
+16. [人民日报调查四川多县用硫磺熏笋出售：去年一县查获1900公斤仅罚500元](https://www.thepaper.cn/newsDetail_forward_34278337)
+17. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
+18. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
+19. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
+20. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
