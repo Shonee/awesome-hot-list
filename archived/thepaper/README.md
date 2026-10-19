@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-19 12:14:39
+> 更新时间：2026-10-19 13:12:45
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [重庆：父亲遛狗时两岁幼童从18楼家中坠亡，母亲以“过失致人死亡”报案获警方受理](https://www.thepaper.cn/newsDetail_forward_34275350)
 8. [冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？](https://www.thepaper.cn/newsDetail_forward_34274890)
 9. [众声｜吴越怒斥AI换脸带货，平台治理不能坐等受害者站出来](https://www.thepaper.cn/newsDetail_forward_34275099)
-10. [成都商场允许犬只进入是否违反四川省预防控制狂犬病条例？警方答疑](https://www.thepaper.cn/newsDetail_forward_34274360)
-11. [多名日本议员参拜靖国神社，高市早苗供奉祭祀费](https://www.thepaper.cn/newsDetail_forward_34278381)
+10. [山东一“仙人跳”团伙被诉：女局长被敲诈19万，三受害人曾被采取刑事措施](https://www.thepaper.cn/newsDetail_forward_34276793)
+11. [成都商场允许犬只进入是否违反四川省预防控制狂犬病条例？警方答疑](https://www.thepaper.cn/newsDetail_forward_34274360)
 12. [人民日报调查四川多县用硫磺熏笋出售：去年一县查获1900公斤仅罚500元](https://www.thepaper.cn/newsDetail_forward_34278337)
-13. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
-14. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
-15. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
-16. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
-17. [明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频](https://www.thepaper.cn/newsDetail_forward_34274965)
-18. [沪市公司周末多维度释放积极信号：回购增持持续升温，科创板龙头业绩密集预喜](https://www.thepaper.cn/newsDetail_forward_34275445)
-19. [黄日波被查，广西：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34275682)
-20. [Swisse斯维诗抗糖丸被检出铅超标，官方客服：相关批次未进入中国销售](https://www.thepaper.cn/newsDetail_forward_34274427)
+13. [多名日本议员参拜靖国神社，高市早苗供奉祭祀费](https://www.thepaper.cn/newsDetail_forward_34278381)
+14. [鲁迅逝世90周年｜特级教师和故居讲解员谈阅读鲁迅](https://www.thepaper.cn/newsDetail_forward_34276494)
+15. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
+16. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
+17. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
+18. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
+19. [明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频](https://www.thepaper.cn/newsDetail_forward_34274965)
+20. [沪市公司周末多维度释放积极信号：回购增持持续升温，科创板龙头业绩密集预喜](https://www.thepaper.cn/newsDetail_forward_34275445)

@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-19 12:15:11
+> 更新时间：2026-10-19 13:14:15
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [《使命召唤现代战争》系列确认完结！未来新作要变天](https://www.gamersky.com/news/202610/2230281.shtml)
 10. [比肩09封神之作！《现代战争4》战役口碑爆发](https://www.gamersky.com/news/202610/2230428.shtml)
 11. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
-12. [单人战役杀疯了！《现代战争4》Steam峰值已超黑7](https://www.gamersky.com/news/202610/2230313.shtml)
+12. [《生化危机4：黄金版》Switch2版对比Steam Deck视频出炉 帧率测试中Switch2读数更高](https://www.gamersky.com/news/202610/2230254.shtml)
 13. [微软宣布Windows 11响应速度最高提升20% 8GB内存设备使用感知最为明显](https://www.gamersky.com/news/202610/2230103.shtml)
-14. [《生化危机4：黄金版》Switch2版对比Steam Deck视频出炉 帧率测试中Switch2读数更高](https://www.gamersky.com/news/202610/2230254.shtml)
+14. [单人战役杀疯了！《现代战争4》Steam峰值已超黑7](https://www.gamersky.com/news/202610/2230313.shtml)
 15. [NS独占《马里奥》原生移植PC成功！无需模拟器](https://www.gamersky.com/news/202610/2230161.shtml)

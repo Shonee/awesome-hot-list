@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-19 12:15:33
+> 更新时间：2026-10-19 13:14:38
 
 ## 热门主题
 
@@ -11,5 +11,6 @@
 5. [NSFW/姿势出图 skill](https://www.v2ex.com/t/1249850)
 6. [突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高](https://www.v2ex.com/t/1249864)
 7. [[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码](https://www.v2ex.com/t/1249891)
-8. [做了一个 X 的第三方客户端， Liquid Glass，全流程翻译](https://www.v2ex.com/t/1249743)
-9. [为什么作为日常聊天询问 感觉 gemini 比 gpt 好用](https://www.v2ex.com/t/1249756)
+8. [为什么作为日常聊天询问 感觉 gemini 比 gpt 好用](https://www.v2ex.com/t/1249756)
+9. [大家的 giffgaff 还能用吗](https://www.v2ex.com/t/1249905)
+10. [20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?](https://www.v2ex.com/t/1249855)
