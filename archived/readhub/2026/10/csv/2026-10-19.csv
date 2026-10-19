@@ -422,3 +422,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,AI 浪潮下的社区无奈谢幕：知名反编译追踪网站 decomp.dev 宣布关闭,诞生于 2024 年的知名反编译进度追踪与社区平台 decomp.dev 近日正式宣布关闭主索引及添加新项目功能。该网站曾致力于集中展示匹配反编译的进展，并凝聚志同道合的技术爱好者。decomp.dev 的现有项目页面与历史数据将继续保留，但主索引和新项目添加已被彻底禁用，且其代码库未采用开源许可，严禁任何人自行 fork 或托管。 AIBase 1 小时前,,https://www.aibase.com/zh/news/31709,,Readhub,AI 资讯,ai,digest,,2026-10-19 11:15:53
 9,国产 GPU 独角兽沐曦股份前三季度扭亏：曦云 C600 量产立功,据沐曦股份近日发布的 2026 年前三季度业绩预告，公司预计前三季度实现营业收入 25.41 亿元至 31.06 亿元，同比增长 105.60% 至 151.29%。真正打开增长空间的是曦云 C600，该芯片于 2026 年 5 月正式量产，搭载 144GB HBM3e 显存，新增原生 FP8 数据格式及 Tensor 转置指令，显存带宽和计算效率大幅提升，更契合当前头部大模型厂商的训练需求。下一代旗舰曦云 C700 预计 2027 年开启小批量量产，性能目标对标英伟达 H1,,https://news.mydrivers.com/1/1158/1158494.htm,,Readhub,AI 资讯,ai,digest,,2026-10-19 11:15:53
 10,NeurIPS 2026｜小红书 × 复旦大学用 DR-Rubric 为开放式强化学习构建评分标准,这也是开放式任务做强化学习时最难的一步：模型可以生成很多回答，但训练系统得知道，哪些回答值得奖励。针对这一问题，小红书与复旦大学等机构提出了 Deep Research as Rubric（DR-Rubric）：让模型先围绕任务做一轮深度研究，收集外部事实、关键约束与常见错误，再把研究结果转成逐条可检查的评分细则，用作强化学习的奖励信号。DR-Rubric 把评分标准的构造从一个预先准备好的静态模板，变成了可以主动获取外部证据的研究过程。 腾讯网 49 分钟前,,https://news.qq.com/rain/a/20261019A04O8700,,Readhub,AI 资讯,ai,digest,,2026-10-19 11:15:53
+1,DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元,,,https://readhub.cn/topic/8xKUyzW7OUv?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+2,苹果客服回应 iPhone 货轮沉没传闻：若属实不会二次流入市场,,,https://readhub.cn/topic/8xImWSyOGv2?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+3,演员吴越怒斥 AI 仿冒带货 微信视频号回应相关账号已永久封禁,,,https://readhub.cn/topic/8xJqxZGIKKZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+4,京东：未来 5 年将创造超 10 万个机器人维修工程师就业岗位,,,https://readhub.cn/topic/8xKFyHc2l84?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+5,DeepMind 宣布 4 个 Gemini 智能体自组队通关《我的世界》,,,https://readhub.cn/topic/8xJHwTd0vtO?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+6,OpenAI 发力人形机器人研发 将 AI 大脑作为核心突破口,,,https://readhub.cn/topic/8xJgF74oDLH?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+7,消息称三星将采用台积电 3nm 制程为英伟达生产 HBM 基底裸片,,,https://readhub.cn/topic/8xKJY4kJANq?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+8,Anthropic 相关人士称奇点已至 预测 AI 或推高美国 GDP 至 44 万亿美元,,,https://readhub.cn/topic/8xK377ViOFh?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+9,Swisse 两批次产品被检出铅超标，品牌回应,,,https://readhub.cn/topic/8xJ2wN7AHeN?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+10,Meta 修改商业服务条款引 AI 训练数据争议 相关表述已删除,,,https://readhub.cn/topic/8xJfXKId032?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+11,世界最长跨海高铁桥梁首个航道桥合龙,,,https://readhub.cn/topic/8xJvy0Yykjs?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+12,Anthropic 计划将部分股份转入新型「公共利益」基金,,,https://readhub.cn/topic/8xKuhavUgzr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+13,消息称苹果要求零售店劝退无预约顾客：iPhone Duo 首发日基本不卖现货,,,https://readhub.cn/topic/8xJYNhGeSzb?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+14,离开小米一年的王腾宣布 AI 睡眠科技新品：10 月 29 日登场,,,https://readhub.cn/topic/8xLLscBGaPI?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+15,古尔曼：苹果明知 iPhone Duo 折叠屏供应不足仍坚持周五启动预售,,,https://readhub.cn/topic/8xKhqgWmSKf?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+16,第 412 批工信部新车申报目录公布 多款重点车型在列,,,https://readhub.cn/topic/8xJgxg8DWzY?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+17,绝味食品 10 月 19 日停牌 次日起撤销其他风险警示,,,https://readhub.cn/topic/8xKCkyCWbmK?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+18,微软取消与 Nscale 关于英国数据中心的相关交易,,,https://readhub.cn/topic/8xK9tbFqVU9?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+19,最新全球 AI 大模型每周 Token 调用榜出炉：阶跃星辰 Step 5 Preview 跻身全球前三,,,https://readhub.cn/topic/8xLUW94Vqwr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+20,ChatGPT 新增多智能体能力，GPT-6 Astra Pro 升级支持分头干活查进度,,,https://readhub.cn/topic/8xLNeBXxq8y?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+21,具身智能体长程记忆：看见不等于记住，浙大提出具身记忆基准,,,https://readhub.cn/topic/8xKOXzP7d6Y?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+22,原华为 ADS 核心成员杨旭光被曝入职理想汽车,,,https://readhub.cn/topic/8xLK5wTDNCd?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+23,疯狂小杨哥新号「庆杨」粉丝被清零 实测关注后不计入粉丝量,,,https://readhub.cn/topic/8xKHPc2QMrA?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+24,王自如参与实测小鹏 MONA L05:160km / h 双轮爆胎仍稳定行驶,,,https://readhub.cn/topic/8xLTNPpoxKb?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+25,首个可自修改学习规则的通用视觉骨干 VisionHOPE 开源,,,https://readhub.cn/topic/8xKOXxF8xi5?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+26,腾讯混元开源智能体记忆框架 Hy Memory 2.0,,,https://readhub.cn/topic/8xLQ9vo31Jv?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+27,Gemini 4 Argon 在 ARC-AGI-3 上获 97.5% 高分,,,https://readhub.cn/topic/8xLLVik7T8i?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+28,Anthropic 寻求律所建议 探索 AI 智能体交易谈判相关规范,,,https://readhub.cn/topic/8xJwg5l6EJr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+29,亚马逊云科技 CFO 称 AI 基建繁荣可持续 AI 服务器投资回报周期不到三年,,,https://readhub.cn/topic/8xK3oxKer2t?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+30,3 家券商、2 家基金公司因境外调研违规被采取监管措施,,,https://readhub.cn/topic/8xLXgQtjPqc?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-19 12:45:11
+1,10.18 DeepSeek V4.1 Flash-1017 新版本发布 性能提升权重开源 10 条,,,https://readhub.cn/daily/2026-10-18,,Readhub,每日早报,daily,digest,2026-10-18,2026-10-19 12:45:11
+2,10.17 苹果 iPhone Duo 预售秒罄 首批现货溢价最高达 16000 元 12 条,,,https://readhub.cn/daily/2026-10-17,,Readhub,每日早报,daily,digest,2026-10-17,2026-10-19 12:45:11
+3,10.16 库克称 Apple Intelligence 十月晚些时候在中国推测试版 不含 Siri AI 13 条,,,https://readhub.cn/daily/2026-10-16,,Readhub,每日早报,daily,digest,2026-10-16,2026-10-19 12:45:11
+4,10.15 153 款应用拒豆包手机助手自动化操作 含腾讯阿里美团等产品 12 条,,,https://readhub.cn/daily/2026-10-15,,Readhub,每日早报,daily,digest,2026-10-15,2026-10-19 12:45:11
+5,10.14 苹果推出全新智能家居配件系列 Apple Home Collection 16 条,,,https://readhub.cn/daily/2026-10-14,,Readhub,每日早报,daily,digest,2026-10-14,2026-10-19 12:45:11
+6,10.13 DeepSeek 考虑入局具身智能，梁文锋正密集与相关创业者交流 13 条,,,https://readhub.cn/daily/2026-10-13,,Readhub,每日早报,daily,digest,2026-10-13,2026-10-19 12:45:11
+7,10.12 尊界：已订车用户定金，若处于锁定期，无法退款 13 条,,,https://readhub.cn/daily/2026-10-12,,Readhub,每日早报,daily,digest,2026-10-12,2026-10-19 12:45:11
+1,研究证实：AI 生成内容与深度伪造技术可向人类植入虚假记忆,麻省理工学院科学家帕蒂・梅斯（Pattie Maes）团队的研究表明，人工智能生成的内容与深度伪造技术正在成功扭曲人类记忆，甚至在参与者大脑中植入完全捏造的虚假记忆。实验显示，接触过 AI 修改照片的测试对象不仅极易记错原图，且对错误记忆表现出极高的自信。随着生成式 AI 在各行各业的深度部署，虽然业界普遍寄希望于「人机协作」中的高级专家来审核输出结果，但研究指出，人类用户不仅难以稳定识别 AI 幻觉，且自身判断极易受到错误信息的诱导。 AIBase 1 小时前,,https://www.aibase.com/zh/news/31715,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+2,Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩,Anthropic 发布了一份名为《Anthropic 就业之变》的内部研究报告，基于多类内部数据和深度访谈，剖析深度使用 AI 之后，公司在工作内容、招聘结构和劳动力需求上的真实位移。各个职能部门的生产率随之明显抬升，报告在排除业务自然增长的干扰后确认，AI 对产出有明确的正向贡献，且 AI 生成的代码质量与手写代码没有显著差异 —— 这意味着「机器写的代码更糙」这个借口正在失去支点。作为 AI 应用的最前沿企业，它的变化本身就是一面镜子：当 AI 冲击下，入门级岗位作为职,,https://www.aibase.com/zh/news/31716,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+3,迪士尼将以 2000 万美元收购 Character.AI 部分资产并接纳核心团队,聊天机器人初创公司 Character.AI 在申请破产之际迎来重大转折，其前首席执行官 Karandeep Anand 此前已出任迪士尼首位首席技术官。迪士尼已同意以 2000 万美元收购 Character.AI 的部分资产，并向至少 60 名员工（占其员工总数的大多数）提供总额约 6000 万美元年薪的就业机会，目前绝大多数受邀员工已接受试探性报价。该事件折射出当前大模型与对话式 AI 赛道正加速走向分化，高昂的合规成本与财务压力正促使部分早期独角兽资产与核心团队向资金,,https://www.aibase.com/zh/news/31704,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+4,不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙,4 个 Gemini4Argon 通用编码智能体，在没有人类替它们分派任何角色的情况下，仅凭游戏内的聊天频道和一份共享笔记，就自己商量着完成了分工，然后一头扎进一个随机生成的《我的世界》生存世界里。它们真正的手脚，是一行行自己写出来的代码 —— 通过调用 Mineflayer 库，把意图翻译成游戏里能执行的动作。而四个智能体之间的沟通效率高得惊人 —— 整场 27 小时的鏖战，聊天频道里只留下 229 条消息。 AIBase 3 小时前,,https://www.aibase.com/zh/news/31703,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+5,我国首个全国产十万卡 AI 超集群「曙光 8000」真机亮相,在深圳举行的 2026 全国高性能计算学术大会上，我国首个全国产十万卡 AI 超集群「曙光 8000」真机首次公开亮相，并集中发布十大重要应用成果。其底层核心机制是通过高速互联技术将十万张国产 AI 加速卡深度整合，实现规模与算力密度的双重突破。截至目前，曙光 8000 已服务于新材料研发、创新药研制及人工智能等 26 个前沿领域的 300 多种复杂计算任务。 AIBase 2 小时前,,https://www.aibase.com/zh/news/31714,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+6,演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空,演员吴越昨日发声称，微信视频号「花姐美肤日记」利用 AI 炮制了她的虚假带货视频。她晒出的录屏显示，该账号发布了一段「吴越」出镜的 AI 视频：开头便是「吴越」在带货，随后拼接她公开活动的画面，并借「吴越」的口吻称「这个产品不是他们找我，是我找他们的」。此次微信视频号快速封号清空的处置，既是平台对侵权内容的即时止血，也呼应了专项整治对仿冒乱象的零容忍。 AIBase 2 小时前,,https://www.aibase.com/zh/news/31713,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+7,成本砍掉 90% DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型,根据 Arena 官方最新发布的评测榜单，DeepSeek 团队推出的最新模型迭代版本 DeepSeek-V4.1-Flash-20261017（Max）正式登顶 Code Arena: WebDev 榜单，成功摘得「第一开源模型」的桂冠。值得关注的是，在本次 WebDev 前沿代码与网页开发基准评测中，DeepSeek-V4.1-Flash-1017 不仅成功超越了此前备受关注的 Kimi K3（Max），更在推理成本上实现了数量级的突破 —— 其调用开销仅为后者的十分之一,,https://www.aibase.com/zh/news/31712,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+8,DeepSeek 发布 API 网页搜索与抓取服务：每 1000 次成功请求收费 5 元,DeepSeek 近日正式发布官方公告，宣布其 API 已全面支持网页搜索与抓取能力，并明确了具体的商业化计费标准。根据公告内容，该功能将采用按请求次数的计费模式，单价定为每 1000 次成功请求 5 元。在应用场景与过渡节点方面，当前用户在 DeepSeek Harness、Claude Code 及 Codex 等开发工具与环境中调用 DeepSeek API 时，已可通过 Server 端工具直接访问 Search 与 Fetch 接口。 AIBase 2 小时前,,https://www.aibase.com/zh/news/31711,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+9,AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活,一套能从单个原子层面设计蛋白质与核酸的生成式 AI 系统 RFdiffusion3，其完整设计方案近日正式公开。研究人员若不仅指定反应所需原子的落点，还设好氢键形成条件、特定原子在蛋白内部的分布范围，系统就能吐出满足全部约束的结构。从「预测结构」跨到「按功能造结构」，这套逐原子雕琢的 AI，正把蛋白质工程推向前所未有的精度。 AIBase 2 小时前,,https://www.aibase.com/zh/news/31710,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
+10,AI 浪潮下的社区无奈谢幕：知名反编译追踪网站 decomp.dev 宣布关闭,诞生于 2024 年的知名反编译进度追踪与社区平台 decomp.dev 近日正式宣布关闭主索引及添加新项目功能。该网站曾致力于集中展示匹配反编译的进展，并凝聚志同道合的技术爱好者。decomp.dev 的现有项目页面与历史数据将继续保留，但主索引和新项目添加已被彻底禁用，且其代码库未采用开源许可，严禁任何人自行 fork 或托管。 AIBase 2 小时前,,https://www.aibase.com/zh/news/31709,,Readhub,AI 资讯,ai,digest,,2026-10-19 12:45:11
