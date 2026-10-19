@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-19 11:16:45
+> 更新时间：2026-10-19 12:15:11
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
 12. [单人战役杀疯了！《现代战争4》Steam峰值已超黑7](https://www.gamersky.com/news/202610/2230313.shtml)
 13. [微软宣布Windows 11响应速度最高提升20% 8GB内存设备使用感知最为明显](https://www.gamersky.com/news/202610/2230103.shtml)
-14. [NS独占《马里奥》原生移植PC成功！无需模拟器](https://www.gamersky.com/news/202610/2230161.shtml)
-15. [《生化危机4：黄金版》Switch2版对比Steam Deck视频出炉 帧率测试中Switch2读数更高](https://www.gamersky.com/news/202610/2230254.shtml)
+14. [《生化危机4：黄金版》Switch2版对比Steam Deck视频出炉 帧率测试中Switch2读数更高](https://www.gamersky.com/news/202610/2230254.shtml)
+15. [NS独占《马里奥》原生移植PC成功！无需模拟器](https://www.gamersky.com/news/202610/2230161.shtml)
