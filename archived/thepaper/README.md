@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-19 09:26:40
+> 更新时间：2026-10-19 10:19:52
 
 ## 热新闻
 
@@ -18,8 +18,8 @@
 12. [成都商场允许犬只进入是否违反四川省预防控制狂犬病条例？警方答疑](https://www.thepaper.cn/newsDetail_forward_34274360)
 13. [法国多地发生大规模抗议，数百人被捕](https://www.thepaper.cn/newsDetail_forward_34273984)
 14. [内蒙古诗词学会内部派系对立细节：所办刊物曾通报“罢免会长闹剧”](https://www.thepaper.cn/newsDetail_forward_34273363)
-15. [贵州兴义一辆轿车掉入沟中，救援队吊车作业时车辆掉落致轿车司机身亡](https://www.thepaper.cn/newsDetail_forward_34273258)
-16. [人民日报调查四川多县用硫磺熏笋出售：去年一县查获1900公斤仅罚500元](https://www.thepaper.cn/newsDetail_forward_34278337)
+15. [人民日报调查四川多县用硫磺熏笋出售：去年一县查获1900公斤仅罚500元](https://www.thepaper.cn/newsDetail_forward_34278337)
+16. [多名日本议员参拜靖国神社，高市早苗供奉祭祀费](https://www.thepaper.cn/newsDetail_forward_34278381)
 17. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
 18. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
 19. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)

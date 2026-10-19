@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-19 09:26:29
+> 更新时间：2026-10-19 10:19:40
 
 ## 最新帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [WorkBuddy白送500积分，大家快来领](https://www.cnblogs.com/xiezhr/p/23336924)
+1. [百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进](https://www.cnblogs.com/xiongdy2017/p/23341228)
 2. [使用Vibe Coding从零开发论坛（上）](https://www.cnblogs.com/chaogex/p/23341438)
-3. [百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进](https://www.cnblogs.com/xiongdy2017/p/23341228)
-4. [MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三）](https://www.cnblogs.com/hugogoos/p/23341432)
-5. [一文搞懂 Agent Sandbox（沙箱）：为什么 AI 不能随便操作你的电脑？](https://www.cnblogs.com/Tomorrowland/p/23347321)
+3. [使用 .NET 和 Avalonia 构建高性能 Agent 桌面客户端](https://www.cnblogs.com/token-ai/p/23350452/tkcode-dotnet-avalonia-agent)
+4. [一文搞懂 Agent Sandbox（沙箱）：为什么 AI 不能随便操作你的电脑？](https://www.cnblogs.com/Tomorrowland/p/23347321)
+5. [MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三）](https://www.cnblogs.com/hugogoos/p/23341432)
 6. [Kali Linux 密码破解实战：从字典生成到 GPU 暴力破解全流程](https://www.cnblogs.com/Johny-zhao/p/23338508)
