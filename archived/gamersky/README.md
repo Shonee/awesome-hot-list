@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-19 19:40:24
+> 更新时间：2026-10-19 20:21:05
 
 ## 热点资讯排行
 
@@ -10,8 +10,8 @@
 4. [《使命召唤》新作好评率达10年来最高！突破90%](https://www.gamersky.com/news/202610/2230261.shtml)
 5. [日本开发者心态崩了：9年做的游戏遭中国人破解修改](https://www.gamersky.com/news/202610/2230372.shtml)
 6. [法国暴乱动漫游戏店主死守店铺走红 赢得全网尊重](https://www.gamersky.com/news/202610/2230603.shtml)
-7. [IGN 8分！《使命召唤23》战役：重启后最好的一部](https://www.gamersky.com/news/202610/2230031.shtml)
-8. [《COD现代战争4》战役惨遭破解！离线就能玩](https://www.gamersky.com/news/202610/2230469.shtml)
+7. [《COD现代战争4》战役惨遭破解！离线就能玩](https://www.gamersky.com/news/202610/2230469.shtml)
+8. [IGN 8分！《使命召唤23》战役：重启后最好的一部](https://www.gamersky.com/news/202610/2230031.shtml)
 9. [《使命召唤现代战争》系列确认完结！未来新作要变天](https://www.gamersky.com/news/202610/2230281.shtml)
 10. [《地平线行者》全新角色公布！](https://www.gamersky.com/news/202610/2228732.shtml)
 11. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)

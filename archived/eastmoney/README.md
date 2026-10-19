@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-19 19:40:33
+> 更新时间：2026-10-19 20:21:13
 
 ## 股票人气榜
 
@@ -19,8 +19,8 @@
 13. [甘化科工 (000576)](https://quote.eastmoney.com/sz000576.html)
 14. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
 15. [东安动力 (600178)](https://quote.eastmoney.com/sh600178.html)
-16. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
-17. [宁波东力 (002164)](https://quote.eastmoney.com/sz002164.html)
-18. [农业银行 (601288)](https://quote.eastmoney.com/sh601288.html)
-19. [金健米业 (600127)](https://quote.eastmoney.com/sh600127.html)
-20. [大普微-UW (301666)](https://quote.eastmoney.com/sz301666.html)
+16. [宁波东力 (002164)](https://quote.eastmoney.com/sz002164.html)
+17. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
+18. [大普微-UW (301666)](https://quote.eastmoney.com/sz301666.html)
+19. [农业银行 (601288)](https://quote.eastmoney.com/sh601288.html)
+20. [金健米业 (600127)](https://quote.eastmoney.com/sh600127.html)
