@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-20 00:15:25
+> 更新时间：2026-10-20 01:38:23
 
 ## 24 小时热榜
 
@@ -19,21 +19,21 @@
 13. [原华为 ADS 核心成员杨旭光被曝入职理想汽车](https://readhub.cn/topic/8xLK5wTDNCd?tab=daily)
 14. [ChatGPT 新增多智能体能力，GPT-6 Astra Pro 升级支持分头干活查进度](https://readhub.cn/topic/8xLNeBXxq8y?tab=daily)
 15. [腾讯混元开源智能体记忆框架 Hy Memory 2.0](https://readhub.cn/topic/8xLQ9vo31Jv?tab=daily)
-16. [17 岁 AI 少年陈广宇离职 Kimi 被曝手握数百万年薪 offer](https://readhub.cn/topic/8xKFGhxNucS?tab=daily)
-17. [B.AI 将 DeepSeek V4.1 Flash 无缝升级至 1017 最新版本](https://readhub.cn/topic/8xLhIWmDEjA?tab=daily)
+16. [B.AI 将 DeepSeek V4.1 Flash 无缝升级至 1017 最新版本](https://readhub.cn/topic/8xLhIWmDEjA?tab=daily)
+17. [17 岁 AI 少年陈广宇离职 Kimi 被曝手握数百万年薪 offer](https://readhub.cn/topic/8xKFGhxNucS?tab=daily)
 18. [快狗打车拟 1 元出售中国内地业务，并更名「GOGO 科技」](https://readhub.cn/topic/8xLaA2MNi87?tab=daily)
 19. [亨通光电前三季度净利润预增 151.27%-168.1%](https://readhub.cn/topic/8xLP6Zde4WZ?tab=daily)
 20. [阿里达摩院孟建熠称玄铁芯片已稳定出货超 60 亿颗 发布车规芯片](https://readhub.cn/topic/8xLd2RF43dx?tab=daily)
 21. [3 家券商、2 家基金公司因境外调研违规被采取监管措施](https://readhub.cn/topic/8xLXgQtjPqc?tab=daily)
 22. [证监会将同意首批 18 只主动 ETF 注册](https://readhub.cn/topic/8xLxNX50sQ9?tab=daily)
-23. [Gemini 4 Argon 在 ARC-AGI-3 上获 97.5% 高分](https://readhub.cn/topic/8xLLVik7T8i?tab=daily)
-24. [特斯拉官方发文称无速成车 陶琳转发称安全稳定是最大豪华](https://readhub.cn/topic/8xLXfyEoTac?tab=daily)
-25. [iPhone 18 Pro 系列国内销量超 408 万 开售三周破 400 万](https://readhub.cn/topic/8xLktPTrOkb?tab=daily)
-26. [长鑫科技大跌近 9%，Q3 净利环比增幅大幅放缓](https://readhub.cn/topic/8xLP5Izce7w?tab=daily)
-27. [DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首](https://readhub.cn/topic/8xM72vLFYLt?tab=daily)
-28. [微信鸿蒙版两年更新 385 个版本 平均两天提审一次](https://readhub.cn/topic/8xLqbBicIXM?tab=daily)
+23. [特斯拉官方发文称无速成车 陶琳转发称安全稳定是最大豪华](https://readhub.cn/topic/8xLXfyEoTac?tab=daily)
+24. [iPhone 18 Pro 系列国内销量超 408 万 开售三周破 400 万](https://readhub.cn/topic/8xLktPTrOkb?tab=daily)
+25. [Gemini 4 Argon 在 ARC-AGI-3 上获 97.5% 高分](https://readhub.cn/topic/8xLLVik7T8i?tab=daily)
+26. [DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首](https://readhub.cn/topic/8xM72vLFYLt?tab=daily)
+27. [微信鸿蒙版两年更新 385 个版本 平均两天提审一次](https://readhub.cn/topic/8xLqbBicIXM?tab=daily)
+28. [长鑫科技大跌近 9%，Q3 净利环比增幅大幅放缓](https://readhub.cn/topic/8xLP5Izce7w?tab=daily)
 29. [税务总局提醒相关纳税人梳理离岸信托情况 按期申报纳税](https://readhub.cn/topic/8xMAF4uYCLw?tab=daily)
-30. [山姆称遭 AI 生成虚假营销信息攻击 已发起投诉举报](https://readhub.cn/topic/8xLa9vnu7rh?tab=daily)
+30. [马斯克 2025 年获特斯拉 1583.6 亿美元股票奖励薪酬](https://readhub.cn/topic/8xM21dRNgTT?tab=daily)
 
 ## 每日早报
 
@@ -50,10 +50,10 @@
 1. [NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production](https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/)
 2. [AI 编程工具 OpenCode 遭黑客入侵，开发者账户被盗刷，背后竟是 AI 模型蒸馏攻击？](https://www.mittrchina.com/news/detail/17116)
 3. [华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026](https://www.leiphone.com/category/private/QgMWStz8hCPsFf68.html)
-4. [OpenAI 发布 ChatGPT 扩展程序重大升级，支持跨标签页上下文读取与自动化操作](https://www.aibase.com/zh/news/31728)
-5. [英伟达发布 Nemotron 3.5 Super VL 及 Bolt 开放权重模型](https://www.techflowpost.com/zh-CN/newsletter/140545)
-6. [Tether 参投 AI 计算公司 Tenstorrent 15 亿美元 E 轮融资](https://www.theblockbeats.info/flash/372611)
-7. [英特尔杀入大模型推理市场 发布 GPU D 系列：最高配 480GB 显存，专为万亿参数推理而生](https://www.aibase.com/zh/news/31722)
-8. [美国土安全部下令将 DeepSeek 产品排除在民用政府机构系统之外](https://www.theblockbeats.info/flash/372604)
-9. [Cue 一周实测：给 AI 配了身份证，却还做不到「随时可用」](https://www.huxiu.com/article/4898743.html?f=rss)
-10. [The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do](https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/)
+4. [标普全球警告：超大规模云服务商的 AI 相关债务可能高于目前已知水平](https://wallstreetcn.com/livenews/3181333)
+5. [OpenAI 发布 ChatGPT 扩展程序重大升级，支持跨标签页上下文读取与自动化操作](https://www.aibase.com/zh/news/31728)
+6. [Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM](https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/)
+7. [英伟达发布 Nemotron 3.5 Super VL 及 Bolt 开放权重模型](https://www.techflowpost.com/zh-CN/newsletter/140545)
+8. [Tether 参投 AI 计算公司 Tenstorrent 15 亿美元 E 轮融资](https://www.theblockbeats.info/flash/372611)
+9. [英特尔杀入大模型推理市场 发布 GPU D 系列：最高配 480GB 显存，专为万亿参数推理而生](https://www.aibase.com/zh/news/31722)
+10. [美国土安全部下令将 DeepSeek 产品排除在民用政府机构系统之外](https://www.theblockbeats.info/flash/372604)
