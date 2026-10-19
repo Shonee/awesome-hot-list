@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-20 00:15:57
+> 更新时间：2026-10-20 01:11:57
 
 ## 热门主题
 
@@ -10,7 +10,7 @@
 4. [最近对女方家庭和重男轻女的观念有所变化，其实有女方有哥哥/弟弟挺好的](https://www.v2ex.com/t/1249874)
 5. [[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码](https://www.v2ex.com/t/1249891)
 6. [大家的 giffgaff 还能用吗](https://www.v2ex.com/t/1249905)
-7. [NSFW/姿势出图 skill](https://www.v2ex.com/t/1249850)
-8. [利用学生优惠$8.99 开通 2 年半 Google AI Pro + YouTube Premium + 5TB 存储](https://www.v2ex.com/t/1249913)
+7. [利用学生优惠$8.99 开通 2 年半 Google AI Pro + YouTube Premium + 5TB 存储](https://www.v2ex.com/t/1249913)
+8. [NSFW/姿势出图 skill](https://www.v2ex.com/t/1249850)
 9. [突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高](https://www.v2ex.com/t/1249864)
 10. [男孩子青春期问题（迷茫 没信心）怎么解决](https://www.v2ex.com/t/1249955)
