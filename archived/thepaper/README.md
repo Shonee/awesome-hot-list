@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-19 15:55:52
+> 更新时间：2026-10-19 16:50:22
 
 ## 热新闻
 
@@ -16,11 +16,11 @@
 10. [人民日报调查四川多县用硫磺熏笋出售：去年一县查获1900公斤仅罚500元](https://www.thepaper.cn/newsDetail_forward_34278337)
 11. [多名日本议员参拜靖国神社，高市早苗供奉祭祀费](https://www.thepaper.cn/newsDetail_forward_34278381)
 12. [鲁迅逝世90周年｜特级教师和故居讲解员谈阅读鲁迅](https://www.thepaper.cn/newsDetail_forward_34276494)
-13. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
+13. [国务院学位办：专业学位研究生以实践成果申请学位，推动5个类别试点先行](https://www.thepaper.cn/newsDetail_forward_34280118)
 14. [五亿多元预售款被挪用后，河南平顶山“美好生活家园”待重启](https://www.thepaper.cn/newsDetail_forward_34275663)
-15. [国务院学位办：专业学位研究生以实践成果申请学位，推动5个类别试点先行](https://www.thepaper.cn/newsDetail_forward_34280118)
-16. [“重庆男童坠亡案”妻子控告丈夫“过失致人死亡”：已委托曾代理“姐弟坠楼案”的律师](https://www.thepaper.cn/newsDetail_forward_34275997)
+15. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
+16. [马上评｜孕妇没投诉却被快递员找上门，算法别冤枉劳动者](https://www.thepaper.cn/newsDetail_forward_34279785)
 17. [鲁迅逝世90周年｜鲁迅真的爱好骂人吗？](https://www.thepaper.cn/newsDetail_forward_34276885)
-18. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
-19. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
-20. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
+18. [“重庆男童坠亡案”妻子控告丈夫“过失致人死亡”：已委托曾代理“姐弟坠楼案”的律师](https://www.thepaper.cn/newsDetail_forward_34275997)
+19. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
+20. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
