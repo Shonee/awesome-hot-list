@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-19 03:35:15
+> 更新时间：2026-10-19 09:53:57
 
 ## 每日趋势
 
@@ -71,9 +71,8 @@
 13. [kafka](https://github.com/apache/kafka)
 14. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
 15. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
-16. [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
-17. [voxy](https://github.com/MCRcortex/voxy)
-18. [shenyu](https://github.com/apache/shenyu)
+16. [voxy](https://github.com/MCRcortex/voxy)
+17. [shenyu](https://github.com/apache/shenyu)
 
 ## Python
 
