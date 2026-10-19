@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-19 22:13:39
+> 更新时间：2026-10-19 23:13:52
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
 11. [《地平线行者》全新角色公布！](https://www.gamersky.com/news/202610/2228732.shtml)
 12. [iPhoneDuo黄牛价格暴跌！溢价从5.8万元跌至3000元](https://www.gamersky.com/news/202610/2230249.shtml)
-13. [比肩09封神之作！《现代战争4》战役口碑爆发](https://www.gamersky.com/news/202610/2230428.shtml)
-14. [《COD23》战役演员确认！“嘎子”幻想中的自己](https://www.gamersky.com/news/202610/2230769.shtml)
+13. [《COD23》战役演员确认！“嘎子”幻想中的自己](https://www.gamersky.com/news/202610/2230769.shtml)
+14. [比肩09封神之作！《现代战争4》战役口碑爆发](https://www.gamersky.com/news/202610/2230428.shtml)
 15. [时隔仅7天 小孩又双叒叕夺冠了！4-0复仇日本对手](https://www.gamersky.com/news/202610/2230473.shtml)
