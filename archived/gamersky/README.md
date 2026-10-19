@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-20 06:13:06
+> 更新时间：2026-10-20 07:11:55
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [《使命召唤现代战争》系列确认完结！未来新作要变天](https://www.gamersky.com/news/202610/2230281.shtml)
 11. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
 12. [时隔仅7天 小孩又双叒叕夺冠了！4-0复仇日本对手](https://www.gamersky.com/news/202610/2230473.shtml)
-13. [《地平线行者》全新角色公布！](https://www.gamersky.com/news/202610/2228732.shtml)
-14. [法国骚乱游戏店老板孤身守店爆红！网友P图超赛致敬](https://www.gamersky.com/news/202610/2230613.shtml)
-15. [iPhoneDuo黄牛价格暴跌！溢价从5.8万元跌至3000元](https://www.gamersky.com/news/202610/2230249.shtml)
+13. [法国骚乱游戏店老板孤身守店爆红！网友P图超赛致敬](https://www.gamersky.com/news/202610/2230613.shtml)
+14. [《地平线行者》全新角色公布！](https://www.gamersky.com/news/202610/2228732.shtml)
+15. [法国暴动 黑哥们直接零元购PS5 轻松好似下楼领鸡蛋](https://www.gamersky.com/news/202610/2230968.shtml)
