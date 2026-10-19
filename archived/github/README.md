@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-19 09:53:57
+> 更新时间：2026-10-19 15:55:31
 
 ## 每日趋势
 
@@ -10,13 +10,14 @@
 4. [plugins](https://github.com/cursor/plugins)
 5. [ruflo](https://github.com/ruvnet/ruflo)
 6. [ai-memory](https://github.com/akitaonrails/ai-memory)
-7. [orca](https://github.com/stablyai/orca)
-8. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-9. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-10. [skills](https://github.com/android/skills)
-11. [llm-course](https://github.com/mlabonne/llm-course)
-12. [jasna](https://github.com/Kruk2/jasna)
-13. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+7. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+8. [orca](https://github.com/stablyai/orca)
+9. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+10. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+11. [skills](https://github.com/android/skills)
+12. [llm-course](https://github.com/mlabonne/llm-course)
+13. [jasna](https://github.com/Kruk2/jasna)
+14. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
 ## 每周趋势
 
@@ -65,14 +66,15 @@
 7. [jadx](https://github.com/skylot/jadx)
 8. [so-novel](https://github.com/freeok/so-novel)
 9. [NoteLite](https://github.com/Lucas0623z/NoteLite)
-10. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-11. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-12. [spring-boot](https://github.com/spring-projects/spring-boot)
-13. [kafka](https://github.com/apache/kafka)
-14. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
-15. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
-16. [voxy](https://github.com/MCRcortex/voxy)
-17. [shenyu](https://github.com/apache/shenyu)
+10. [Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
+11. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+12. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+13. [spring-boot](https://github.com/spring-projects/spring-boot)
+14. [kafka](https://github.com/apache/kafka)
+15. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
+16. [ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+17. [voxy](https://github.com/MCRcortex/voxy)
+18. [shenyu](https://github.com/apache/shenyu)
 
 ## Python
 
@@ -102,9 +104,8 @@
 10. [ttt](https://github.com/eugenioenko/ttt)
 11. [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 12. [agentmesh](https://github.com/google/agentmesh)
-13. [zlib](https://github.com/heartleo/zlib)
-14. [nginx-ui](https://github.com/0xJacky/nginx-ui)
-15. [AIStudio2API](https://github.com/Mag1cFall/AIStudio2API)
+13. [nginx-ui](https://github.com/0xJacky/nginx-ui)
+14. [AIStudio2API](https://github.com/Mag1cFall/AIStudio2API)
 
 ## HTML
 
@@ -124,12 +125,13 @@
 
 ## JavaScript
 
-1. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
-2. [openGym](https://github.com/DuarteSantos8/openGym)
-3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
-4. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-5. [react](https://github.com/react/react)
-6. [GSAP](https://github.com/greensock/GSAP)
-7. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
-8. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
-9. [dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
+1. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+2. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
+3. [openGym](https://github.com/DuarteSantos8/openGym)
+4. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+5. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+6. [react](https://github.com/react/react)
+7. [GSAP](https://github.com/greensock/GSAP)
+8. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+9. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+10. [dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)

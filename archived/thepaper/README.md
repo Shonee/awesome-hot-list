@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-19 15:10:01
+> 更新时间：2026-10-19 15:55:52
 
 ## 热新闻
 
@@ -18,9 +18,9 @@
 12. [鲁迅逝世90周年｜特级教师和故居讲解员谈阅读鲁迅](https://www.thepaper.cn/newsDetail_forward_34276494)
 13. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
 14. [五亿多元预售款被挪用后，河南平顶山“美好生活家园”待重启](https://www.thepaper.cn/newsDetail_forward_34275663)
-15. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
-16. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
-17. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
-18. [明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频](https://www.thepaper.cn/newsDetail_forward_34274965)
-19. [沪市公司周末多维度释放积极信号：回购增持持续升温，科创板龙头业绩密集预喜](https://www.thepaper.cn/newsDetail_forward_34275445)
-20. [黄日波被查，广西：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34275682)
+15. [国务院学位办：专业学位研究生以实践成果申请学位，推动5个类别试点先行](https://www.thepaper.cn/newsDetail_forward_34280118)
+16. [“重庆男童坠亡案”妻子控告丈夫“过失致人死亡”：已委托曾代理“姐弟坠楼案”的律师](https://www.thepaper.cn/newsDetail_forward_34275997)
+17. [鲁迅逝世90周年｜鲁迅真的爱好骂人吗？](https://www.thepaper.cn/newsDetail_forward_34276885)
+18. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
+19. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
+20. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
