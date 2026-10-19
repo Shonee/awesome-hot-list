@@ -1,29 +1,52 @@
 # 博客园热榜
 
-> 更新时间：2026-10-19 13:42:16
+> 更新时间：2026-10-19 14:27:15
 
 ## 最新帖子
 
-1. [一文搞懂 SubAgent：AI 为什么也需要给自己找个助手？](https://www.cnblogs.com/Tomorrowland/p/23356173)
-2. [Spring Boot 3 + Vue 3 高校选修课系统：用 Redis + Lua 彻底解决选课超卖](https://www.cnblogs.com/huangrenhui/p/23353131)
-3. [UI Composition 技术在 Win32 窗口中绘制文本](https://www.cnblogs.com/liulun/p/23354906)
-4. [技术思考问题29：Discord能下令，谁敢放权限？](https://www.cnblogs.com/snidget/p/23354606)
-5. [什么是长连接](https://www.cnblogs.com/zjdxr-up/p/23320234)
-6. [技术方案怎么用AI写？四段Prompt链加3个可抄模板](https://www.cnblogs.com/uniqueDong/p/23354526)
-7. [PID 的花样：先看懂模糊 PID 和单神经元自适应 PID](https://www.cnblogs.com/zw-awa/p/23354337)
-8. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://www.cnblogs.com/zrui-xyu/p/23354276)
-9. [SOUI5 —— 一套 C++ 代码覆盖六端的国产原生 GUI 框架](https://www.cnblogs.com/setoutsoft/p/23353722)
-10. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
-11. [上周热点回顾（10.12-10.18）](https://www.cnblogs.com/cmt/p/23353532)
-12. [pytest 钩子 pytest_report_teststatus 与启动参数 -n 踩坑记录](https://www.cnblogs.com/exioran/p/23352135)
-13. [2026年安全测试工具大全，15款主流工具一次看懂](https://www.cnblogs.com/jinjiangongzuoshi/p/23352143)
-14. [Koog(6)——会话记忆、历史压缩与执行恢复](https://www.cnblogs.com/joy99/p/23337615)
-15. [字符串 题解](https://www.cnblogs.com/lvwangshuOI/p/23351781)
-16. [和AI一起搞事情#9. Jev不就是个 JSON 分类器？我劝你把这篇看完再说](https://www.cnblogs.com/gogoSandy/p/23351507)
-17. [MQTT实战 - QoS 0-1-2 到底怎么选？一张图看懂（四）](https://www.cnblogs.com/hugogoos/p/23349841)
-18. [使用 .NET 和 Avalonia 构建高性能 Agent 桌面客户端](https://www.cnblogs.com/token-ai/p/23350452/tkcode-dotnet-avalonia-agent)
-19. [GRPC连接机制---长连接分析](https://www.cnblogs.com/zjdxr-up/p/23317642)
-20. [用Lean4重构《软件基础》（Software Foundations）——SF-lean4正式完工上线！](https://www.cnblogs.com/SilverGo/p/23349054)
+1. [第四章：Source 细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23357255)
+2. [OpenGIS 技能插件开发与使用：在 DeepSeek Harness 里按需加载 GIS 知识](https://www.cnblogs.com/znlgis/p/23356691)
+3. [一文搞懂 SubAgent：AI 为什么也需要给自己找个助手？](https://www.cnblogs.com/Tomorrowland/p/23356173)
+4. [Spring Boot 3 + Vue 3 高校选修课系统：用 Redis + Lua 彻底解决选课超卖](https://www.cnblogs.com/huangrenhui/p/23353131)
+5. [UI Composition 技术在 Win32 窗口中绘制文本](https://www.cnblogs.com/liulun/p/23354906)
+6. [技术思考问题29：Discord能下令，谁敢放权限？](https://www.cnblogs.com/snidget/p/23354606)
+7. [什么是长连接](https://www.cnblogs.com/zjdxr-up/p/23320234)
+8. [技术方案怎么用AI写？四段Prompt链加3个可抄模板](https://www.cnblogs.com/uniqueDong/p/23354526)
+9. [PID 的花样：先看懂模糊 PID 和单神经元自适应 PID](https://www.cnblogs.com/zw-awa/p/23354337)
+10. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://www.cnblogs.com/zrui-xyu/p/23354276)
+11. [SOUI5 —— 一套 C++ 代码覆盖六端的国产原生 GUI 框架](https://www.cnblogs.com/setoutsoft/p/23353722)
+12. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
+13. [上周热点回顾（10.12-10.18）](https://www.cnblogs.com/cmt/p/23353532)
+14. [pytest 钩子 pytest_report_teststatus 与启动参数 -n 踩坑记录](https://www.cnblogs.com/exioran/p/23352135)
+15. [2026年安全测试工具大全，15款主流工具一次看懂](https://www.cnblogs.com/jinjiangongzuoshi/p/23352143)
+16. [Koog(6)——会话记忆、历史压缩与执行恢复](https://www.cnblogs.com/joy99/p/23337615)
+17. [字符串 题解](https://www.cnblogs.com/lvwangshuOI/p/23351781)
+18. [和AI一起搞事情#9. Jev不就是个 JSON 分类器？我劝你把这篇看完再说](https://www.cnblogs.com/gogoSandy/p/23351507)
+19. [MQTT实战 - QoS 0-1-2 到底怎么选？一张图看懂（四）](https://www.cnblogs.com/hugogoos/p/23349841)
+20. [使用 .NET 和 Avalonia 构建高性能 Agent 桌面客户端](https://www.cnblogs.com/token-ai/p/23350452/tkcode-dotnet-avalonia-agent)
+
+## 精华帖子
+
+1. [一切都会回潮-写在一个职业周期的低处](https://www.cnblogs.com/yuyisi/p/23058239)
+2. [Memory 记忆设计讨论：Agent Memory 到底应该是什么？](https://www.cnblogs.com/duwenlong/p/22879534)
+3. [AI Coding 蜜月期之后，我们重新思考了 AI 提效](https://www.cnblogs.com/DolphinDB/p/22733056)
+4. [具身智能运动控制与软件栈：你的代码只活在中间件之上](https://www.cnblogs.com/zer0Black/p/22630128)
+5. [.NET 11 Runtime Async 详解](https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11)
+6. [在 .NET 上构建超大托管数组](https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet)
+7. [代码是 AI 写的，生产事故谁背锅？](https://www.cnblogs.com/Zhang-Xiang/p/20028472)
+8. [别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！](https://www.cnblogs.com/mengxiang2/p/19796426)
+9. [Pretext：值得关注的文本排版引擎](https://www.cnblogs.com/guangzan/p/19796050)
+10. [AI 会取代我们吗？——它不懂"孤独"是什么意思](https://www.cnblogs.com/wmyskxz/p/19732753)
+11. [AI 写代码有多厉害？——快了 55%，但错多了 75%](https://www.cnblogs.com/wmyskxz/p/19715309)
+12. [OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统](https://www.cnblogs.com/powertoolsteam/p/19688243)
+13. [这才是未来的“openclaw”](https://www.cnblogs.com/tlink/p/19683900)
+14. [AI到底聪明在哪——从手机人脸识别说起](https://www.cnblogs.com/wmyskxz/p/19607323)
+15. [大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录](https://www.cnblogs.com/bu-huo/p/19601644)
+16. [从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式](https://www.cnblogs.com/zlt2000/p/19577443)
+17. [基于NetCorePal Cloud Framework的DDD架构管理系统实践](https://www.cnblogs.com/aishangyipiyema/p/19499381)
+18. [为什么说 IO 操作异步才有意义](https://www.cnblogs.com/kklldog/p/19449864)
+19. [2025 年终总结｜30岁](https://www.cnblogs.com/liyq666/p/19427476)
+20. [Keepalived详解：原理、编译安装与高可用集群配置](https://www.cnblogs.com/ydswin/p/19326078)
 
 ## 48 小时阅读排行
 

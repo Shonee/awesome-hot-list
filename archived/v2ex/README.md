@@ -1,16 +1,16 @@
 # V2EX热榜
 
-> 更新时间：2026-10-19 13:14:38
+> 更新时间：2026-10-19 14:28:39
 
 ## 热门主题
 
 1. [今天开车被迫窝囊了一次](https://www.v2ex.com/t/1249800)
 2. [最近对女方家庭和重男轻女的观念有所变化，其实有女方有哥哥/弟弟挺好的](https://www.v2ex.com/t/1249874)
-3. [找个喜欢自己的还是自己喜欢的人](https://www.v2ex.com/t/1249814)
-4. [发现大家对拖欠工资这件事接受度很高](https://www.v2ex.com/t/1249882)
-5. [NSFW/姿势出图 skill](https://www.v2ex.com/t/1249850)
-6. [突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高](https://www.v2ex.com/t/1249864)
-7. [[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码](https://www.v2ex.com/t/1249891)
-8. [为什么作为日常聊天询问 感觉 gemini 比 gpt 好用](https://www.v2ex.com/t/1249756)
-9. [大家的 giffgaff 还能用吗](https://www.v2ex.com/t/1249905)
-10. [20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?](https://www.v2ex.com/t/1249855)
+3. [发现大家对拖欠工资这件事接受度很高](https://www.v2ex.com/t/1249882)
+4. [找个喜欢自己的还是自己喜欢的人](https://www.v2ex.com/t/1249814)
+5. [[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码](https://www.v2ex.com/t/1249891)
+6. [NSFW/姿势出图 skill](https://www.v2ex.com/t/1249850)
+7. [房贷还有 14w 多，存款有差不多 19w，要不要提前还掉房贷](https://www.v2ex.com/t/1249936)
+8. [大家的 giffgaff 还能用吗](https://www.v2ex.com/t/1249905)
+9. [突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高](https://www.v2ex.com/t/1249864)
+10. [为什么作为日常聊天询问 感觉 gemini 比 gpt 好用](https://www.v2ex.com/t/1249756)

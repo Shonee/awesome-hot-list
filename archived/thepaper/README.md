@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-19 13:12:45
+> 更新时间：2026-10-19 14:27:33
 
 ## 热新闻
 
@@ -9,18 +9,18 @@
 3. [“张雪机车”车手德比斯以年度车手亚军收官](https://www.thepaper.cn/newsDetail_forward_34276497)
 4. [多家期刊拒绝人工智能参与撰写稿件，润色也不行](https://www.thepaper.cn/newsDetail_forward_34276234)
 5. [50元进货700元售出！只收老年游客的药厂“溯源游”实为新型会销](https://www.thepaper.cn/newsDetail_forward_34276364)
-6. [演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空](https://www.thepaper.cn/newsDetail_forward_34274620)
+6. [山东一“仙人跳”团伙被诉：女局长被敲诈19万，三受害人曾被采取刑事措施](https://www.thepaper.cn/newsDetail_forward_34276793)
 7. [重庆：父亲遛狗时两岁幼童从18楼家中坠亡，母亲以“过失致人死亡”报案获警方受理](https://www.thepaper.cn/newsDetail_forward_34275350)
 8. [冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？](https://www.thepaper.cn/newsDetail_forward_34274890)
 9. [众声｜吴越怒斥AI换脸带货，平台治理不能坐等受害者站出来](https://www.thepaper.cn/newsDetail_forward_34275099)
-10. [山东一“仙人跳”团伙被诉：女局长被敲诈19万，三受害人曾被采取刑事措施](https://www.thepaper.cn/newsDetail_forward_34276793)
-11. [成都商场允许犬只进入是否违反四川省预防控制狂犬病条例？警方答疑](https://www.thepaper.cn/newsDetail_forward_34274360)
-12. [人民日报调查四川多县用硫磺熏笋出售：去年一县查获1900公斤仅罚500元](https://www.thepaper.cn/newsDetail_forward_34278337)
-13. [多名日本议员参拜靖国神社，高市早苗供奉祭祀费](https://www.thepaper.cn/newsDetail_forward_34278381)
-14. [鲁迅逝世90周年｜特级教师和故居讲解员谈阅读鲁迅](https://www.thepaper.cn/newsDetail_forward_34276494)
-15. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
-16. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
-17. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
-18. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
-19. [明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频](https://www.thepaper.cn/newsDetail_forward_34274965)
-20. [沪市公司周末多维度释放积极信号：回购增持持续升温，科创板龙头业绩密集预喜](https://www.thepaper.cn/newsDetail_forward_34275445)
+10. [人民日报调查四川多县用硫磺熏笋出售：去年一县查获1900公斤仅罚500元](https://www.thepaper.cn/newsDetail_forward_34278337)
+11. [多名日本议员参拜靖国神社，高市早苗供奉祭祀费](https://www.thepaper.cn/newsDetail_forward_34278381)
+12. [鲁迅逝世90周年｜特级教师和故居讲解员谈阅读鲁迅](https://www.thepaper.cn/newsDetail_forward_34276494)
+13. [大方之谈丨对话丘成桐：数学之外，一个永不无聊的人生](https://www.thepaper.cn/newsDetail_forward_34261860)
+14. [五亿多元预售款被挪用后，河南平顶山“美好生活家园”待重启](https://www.thepaper.cn/newsDetail_forward_34275663)
+15. [成立上海演艺集团、发布“戏剧振兴三年行动计划”，上海演艺全新启航](https://www.thepaper.cn/newsDetail_forward_34274957)
+16. [上海大师赛收官：现场观众约24.8万人，票房收入创新高](https://www.thepaper.cn/newsDetail_forward_34276874)
+17. [村民称百年古树被扣押后遭转赠，官方通报权属问题、涉事人员处理情况](https://www.thepaper.cn/newsDetail_forward_34276971)
+18. [明查｜利雅得机场接连遭袭，但这些画面是AI生成和旧视频](https://www.thepaper.cn/newsDetail_forward_34274965)
+19. [沪市公司周末多维度释放积极信号：回购增持持续升温，科创板龙头业绩密集预喜](https://www.thepaper.cn/newsDetail_forward_34275445)
+20. [黄日波被查，广西：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34275682)
