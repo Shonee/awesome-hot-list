@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-20 02:16:23
+> 更新时间：2026-10-20 03:10:01
 
 ## 热点榜
 
@@ -18,9 +18,9 @@
 12. [20秒测试，看看长征路上你能走多远？](https://h5.news.qq.com/qqfile/tnewsh5/short-term/support-long-march.html)
 13. [演员李小冉发文称与制片人徐佳宁去年已离婚：互不牵扯，互不打扰，祝各自安好](https://view.inews.qq.com/a/20261019A0CMYL00)
 14. [男子在四川稻城高反去世，独自在帐篷里躺卧三天，当地：系非法穿越，曾组织力量去救援](https://view.inews.qq.com/a/20261019A0CCKQ00)
-15. [中国篮协开出罚单](https://view.inews.qq.com/a/20261019A0CPEC00)
-16. [人民锐评：对“精日”言行零容忍](https://view.inews.qq.com/a/20261019A0C4XL00)
-17. [太原一居委会被指借走80余户居民拆迁款多年未还清 回应：相关审计结束后将偿还](https://view.inews.qq.com/a/20261019A0BYOQ00)
-18. [大闸蟹跌价正挤压一整条生意链](https://view.inews.qq.com/a/20261019A0B6ST00)
-19. [一男子成都租走坦克300，失联半年后GPS竟在境外上线，警方介入调查](https://view.inews.qq.com/a/20261019A0A1V000)
-20. [男子高速上故意将车速稳定在80km/h，与大货车并排堵路，民警质问“你知道后面堵了多少车吗”，当事人：“后车闪我，我脾气上来了”](https://view.inews.qq.com/a/20261019A03SG700)
+15. [太原一居委会被指借走80余户居民拆迁款多年未还清 回应：相关审计结束后将偿还](https://view.inews.qq.com/a/20261019A0BYOQ00)
+16. [大闸蟹跌价正挤压一整条生意链](https://view.inews.qq.com/a/20261019A0B6ST00)
+17. [中国篮协开出罚单](https://view.inews.qq.com/a/20261019A0CPEC00)
+18. [一男子成都租走坦克300，失联半年后GPS竟在境外上线，警方介入调查](https://view.inews.qq.com/a/20261019A0A1V000)
+19. [男子高速上故意将车速稳定在80km/h，与大货车并排堵路，民警质问“你知道后面堵了多少车吗”，当事人：“后车闪我，我脾气上来了”](https://view.inews.qq.com/a/20261019A03SG700)
+20. [大阪中国游客锐减61.5%，日媒着急](https://view.inews.qq.com/a/20261019A02NGH00)
