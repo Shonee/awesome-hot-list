@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-19 07:10:06
+> 更新时间：2026-10-19 08:33:39
 
 ## 最新帖子
 
-1. [MQTT实战 - QoS 0-1-2 到底怎么选？一张图看懂（四）](https://www.cnblogs.com/hugogoos/p/23349841)
-2. [使用 .NET 和 Avalonia 构建高性能 Agent 桌面客户端](https://www.cnblogs.com/token-ai/p/23350452/tkcode-dotnet-avalonia-agent)
-3. [GRPC连接机制---长连接分析](https://www.cnblogs.com/zjdxr-up/p/23317642)
-4. [用Lean4重构《软件基础》（Software Foundations）——SF-lean4正式完工上线！](https://www.cnblogs.com/SilverGo/p/23349054)
-5. [一文搞懂 Agent Sandbox（沙箱）：为什么 AI 不能随便操作你的电脑？](https://www.cnblogs.com/Tomorrowland/p/23347321)
-6. [Kali Linux 下使用 Metasploit Framework 进行漏洞利用的完整流程](https://www.cnblogs.com/Johny-zhao/p/23346366)
-7. [用一份 JSON 串起 HTTP / Dubbo / WebService / SQL / 脚本：开源服务编排引擎 service-arrange](https://www.cnblogs.com/huangrenhui/p/23346166)
-8. [7. console.log 日志打印，ArkTS 代码调试必备方法](https://www.cnblogs.com/halfcode/p/23345159)
-9. [OCR认字全对，读起来稀碎？—— 从"逐行识别"到"成段可读"：照片说明文字的段落级识别实践](https://www.cnblogs.com/zhenl/p/23344681)
-10. [26-10-18周记](https://www.cnblogs.com/SilverGo/p/23342804)
-11. [MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三）](https://www.cnblogs.com/hugogoos/p/23341432)
-12. [使用Vibe Coding从零开发论坛（上）](https://www.cnblogs.com/chaogex/p/23341438)
-13. [K8s 最佳实践已更新：请使用 Node Swap！](https://www.cnblogs.com/east4ming/p/23341258)
-14. [百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进](https://www.cnblogs.com/xiongdy2017/p/23341228)
-15. [川剧复演 题解](https://www.cnblogs.com/lvwangshuOI/p/23341047)
-16. [MinMax vs Standard vs Robust：三种特征缩放怎么选](https://www.cnblogs.com/wang_yb/p/23340695)
-17. [go语言复制文件和操作目录](https://www.cnblogs.com/ishoulgodo/p/23320544)
-18. [CatBase 排序算法实战，从内置 sorted 到手写冒泡](https://www.cnblogs.com/forges/p/23339994)
-19. [PID 用顺了，然后呢：增强手术与前馈](https://www.cnblogs.com/zw-awa/p/23339843)
-20. [Kali Linux 密码破解实战：从字典生成到 GPU 暴力破解全流程](https://www.cnblogs.com/Johny-zhao/p/23338508)
+1. [和AI一起搞事情#9. Jev不就是个 JSON 分类器？我劝你把这篇看完再说](https://www.cnblogs.com/gogoSandy/p/23351507)
+2. [MQTT实战 - QoS 0-1-2 到底怎么选？一张图看懂（四）](https://www.cnblogs.com/hugogoos/p/23349841)
+3. [使用 .NET 和 Avalonia 构建高性能 Agent 桌面客户端](https://www.cnblogs.com/token-ai/p/23350452/tkcode-dotnet-avalonia-agent)
+4. [GRPC连接机制---长连接分析](https://www.cnblogs.com/zjdxr-up/p/23317642)
+5. [用Lean4重构《软件基础》（Software Foundations）——SF-lean4正式完工上线！](https://www.cnblogs.com/SilverGo/p/23349054)
+6. [一文搞懂 Agent Sandbox（沙箱）：为什么 AI 不能随便操作你的电脑？](https://www.cnblogs.com/Tomorrowland/p/23347321)
+7. [Kali Linux 下使用 Metasploit Framework 进行漏洞利用的完整流程](https://www.cnblogs.com/Johny-zhao/p/23346366)
+8. [用一份 JSON 串起 HTTP / Dubbo / WebService / SQL / 脚本：开源服务编排引擎 service-arrange](https://www.cnblogs.com/huangrenhui/p/23346166)
+9. [7. console.log 日志打印，ArkTS 代码调试必备方法](https://www.cnblogs.com/halfcode/p/23345159)
+10. [OCR认字全对，读起来稀碎？—— 从"逐行识别"到"成段可读"：照片说明文字的段落级识别实践](https://www.cnblogs.com/zhenl/p/23344681)
+11. [26-10-18周记](https://www.cnblogs.com/SilverGo/p/23342804)
+12. [MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三）](https://www.cnblogs.com/hugogoos/p/23341432)
+13. [使用Vibe Coding从零开发论坛（上）](https://www.cnblogs.com/chaogex/p/23341438)
+14. [K8s 最佳实践已更新：请使用 Node Swap！](https://www.cnblogs.com/east4ming/p/23341258)
+15. [百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进](https://www.cnblogs.com/xiongdy2017/p/23341228)
+16. [川剧复演 题解](https://www.cnblogs.com/lvwangshuOI/p/23341047)
+17. [MinMax vs Standard vs Robust：三种特征缩放怎么选](https://www.cnblogs.com/wang_yb/p/23340695)
+18. [go语言复制文件和操作目录](https://www.cnblogs.com/ishoulgodo/p/23320544)
+19. [CatBase 排序算法实战，从内置 sorted 到手写冒泡](https://www.cnblogs.com/forges/p/23339994)
+20. [PID 用顺了，然后呢：增强手术与前馈](https://www.cnblogs.com/zw-awa/p/23339843)
 
 ## 精华帖子
 
