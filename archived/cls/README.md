@@ -1,19 +1,19 @@
 # 财联社热榜
 
-> 更新时间：2026-10-20 07:11:53
+> 更新时间：2026-10-20 08:32:51
 
 ## 热门文章
 
 1. [吴清主席“12条”定调资本市场](https://www.cls.cn/detail/2508859)
 2. [一图看懂 | 潘功胜、吴清等发言重点来了！这些重磅政策在路上](https://www.cls.cn/detail/2508569)
-3. [首批18只主动ETF今日获批！A股将迎更多增量资金](https://www.cls.cn/detail/2508677)
-4. [潘功胜发声！将推出非银机构大额赎回流动性支持工具](https://www.cls.cn/detail/2508591)
-5. [金融监管总局：依法将所有金融活动全部纳入监管](https://www.cls.cn/detail/2508596)
-6. [证监会：全力应对多重超预期输入性风险挑战](https://www.cls.cn/detail/2508614)
-7. [美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点](https://www.cls.cn/detail/2508914)
-8. [【焦点复盘】沪指低开高走涨0.39%，物理AI概念异军突起，工行重夺总市值“一哥”](https://www.cls.cn/detail/2508604)
-9. [美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹](https://www.cls.cn/detail/2509104)
-10. [A股又见回购潮：10家公司出手，最高拟回购5亿元](https://www.cls.cn/detail/2508835)
-11. [中纪委连打三“虎”](https://www.cls.cn/detail/2508704)
-12. [证监会发文：规范“违规转让证券”的认定、处罚](https://www.cls.cn/detail/2508803)
-13. [主动ETF闪电战！闭门会连夜开，一张海报懂所有，Slogan见巧思](https://www.cls.cn/detail/2508971)
+3. [【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购](https://www.cls.cn/detail/2509124)
+4. [首批18只主动ETF今日获批！A股将迎更多增量资金](https://www.cls.cn/detail/2508677)
+5. [美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹](https://www.cls.cn/detail/2509104)
+6. [美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点](https://www.cls.cn/detail/2508914)
+7. [A股又见回购潮：10家公司出手，最高拟回购5亿元](https://www.cls.cn/detail/2508835)
+8. [中纪委连打三“虎”](https://www.cls.cn/detail/2508704)
+9. [证监会发文：规范“违规转让证券”的认定、处罚](https://www.cls.cn/detail/2508803)
+10. [主动ETF闪电战！闭门会连夜开，一张海报懂所有，Slogan见巧思](https://www.cls.cn/detail/2508971)
+11. [王文灵被“双开”，社保基金会：坚决拥护党中央决定](https://www.cls.cn/detail/2508923)
+12. [苹果官宣10月28日发布新品 预计将推出首款触摸屏MacBook](https://www.cls.cn/detail/2509081)
+13. [十一部门：用好已设立社保科创基金 稳妥有序为科创领域提供资金支持](https://www.cls.cn/detail/2508777)
