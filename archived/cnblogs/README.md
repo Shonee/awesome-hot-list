@@ -1,12 +1,12 @@
 # 博客园热榜
 
-> 更新时间：2026-10-20 13:12:10
+> 更新时间：2026-10-20 14:20:19
 
 ## 最新帖子
 
 1. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
 2. [对象状态与操作合法性异常【C# Exception 详解系列（二）】](https://www.cnblogs.com/hnzhengfy/p/23360696/Exception_d2)
-3. [Koog(7)——模型调用的输入域输出：多模态、参数、流式与结构化](https://www.cnblogs.com/joy99/p/23341378)
+3. [Koog(7)——模型调用的输入与输出：多模态、参数、流式与结构化](https://www.cnblogs.com/joy99/p/23341378)
 4. [大模型 Temperature 和 Top-p 到底有什么区别？一篇讲透原理与调参](https://www.cnblogs.com/codigger/p/23369656)
 5. [从副本集到分片：百亿级文档数据的KES架构边界](https://www.cnblogs.com/dicengwanjialaozhang/p/23369329)
 6. [Oracle 等待事件：从时间归因到问题闭环的排查方法论](https://www.cnblogs.com/liuziyi1/p/23368435)

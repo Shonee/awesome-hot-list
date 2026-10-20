@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-20 13:13:21
+> 更新时间：2026-10-20 14:20:56
 
 ## 日榜
 
@@ -15,4 +15,4 @@
 9. [华为终端发言人账号“菊厂小喇叭”上线，尚未发布任何内容](https://www.ithome.com/1/014/876.htm)
 10. [周增超百万：苹果 iPhone 18 Pro 最新销量数据曝光，系列累计突破 408 万台](https://www.ithome.com/1/014/776.htm)
 11. [苹果 iOS / iPadOS 27.2 RC 发布：Siri AI 再添 5 种语言、Apple Music 启用新视觉](https://www.ithome.com/1/015/062.htm)
-12. [华为 Pura X View 阔直板手机将于 10 月 20 日 10:08 开启 60 天预约申购](https://www.ithome.com/1/014/812.htm)
+12. [苹果首款折叠 iPhone Duo 供货现缓解信号：部分订单从 12 月提前至 10 月](https://www.ithome.com/1/015/076.htm)
