@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-20 11:14:39
+> 更新时间：2026-10-20 12:14:23
 
 ## 热新闻
 
@@ -11,16 +11,16 @@
 5. [圆通致歉“客户取消快递订单被记为投诉”事件：不存在“咨询即处罚”等情况，将强化管理和培训](https://www.thepaper.cn/newsDetail_forward_34283747)
 6. [马上评｜孙颖莎“四不”声明是给饭圈的一味清醒剂](https://www.thepaper.cn/newsDetail_forward_34280699)
 7. [国务院学位办：专业学位研究生以实践成果申请学位，推动5个类别试点先行](https://www.thepaper.cn/newsDetail_forward_34280118)
-8. [五亿多元预售款被挪用后，河南平顶山“美好生活家园”待重启](https://www.thepaper.cn/newsDetail_forward_34275663)
-9. [马上评｜孕妇没投诉却被快递员找上门，算法别冤枉劳动者](https://www.thepaper.cn/newsDetail_forward_34279785)
-10. [读中本贯通的高分生们](https://www.thepaper.cn/newsDetail_forward_34280094)
+8. [读中本贯通的高分生们](https://www.thepaper.cn/newsDetail_forward_34280094)
+9. [五亿多元预售款被挪用后，河南平顶山“美好生活家园”待重启](https://www.thepaper.cn/newsDetail_forward_34275663)
+10. [马上评｜孕妇没投诉却被快递员找上门，算法别冤枉劳动者](https://www.thepaper.cn/newsDetail_forward_34279785)
 11. [众声丨以实践成果申请专业学位，让评价标尺更适配应用型人才成长](https://www.thepaper.cn/newsDetail_forward_34282716)
 12. [人民锐评：对“精日”言行零容忍](https://www.thepaper.cn/newsDetail_forward_34281614)
-13. [一记来自星链的警钟：乌克兰之后，轮到谁担心被“卡脖子”？](https://www.thepaper.cn/newsDetail_forward_34279646)
-14. [外交部提醒赴法国中国公民加强安全防范](https://www.thepaper.cn/newsDetail_forward_34282817)
-15. [中国驻菲律宾大使就菲反华政客污蔑抹黑中方言论向菲外长提出严正交涉](https://www.thepaper.cn/newsDetail_forward_34283051)
-16. [言短意长｜程序正义值得尊重，但不能成为学术不端调查效率的挡箭牌](https://www.thepaper.cn/newsDetail_forward_34281796)
-17. [英方称将共同应对中国汽车产业占主导地位，商务部回应](https://www.thepaper.cn/newsDetail_forward_34283182)
-18. [系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径](https://www.thepaper.cn/newsDetail_forward_34282923)
-19. [新华社：特朗普为何此时“力挺”内塔尼亚胡](https://www.thepaper.cn/newsDetail_forward_34285005)
-20. [一线城市二手房价格连续7个月环比上涨，全国新建商品房库存持续下降](https://www.thepaper.cn/newsDetail_forward_34280880)
+13. [冯远征称“招不到黄胖子”，业内专家：多方因素造成艺考“颜值内卷”](https://www.thepaper.cn/newsDetail_forward_34287229)
+14. [一记来自星链的警钟：乌克兰之后，轮到谁担心被“卡脖子”？](https://www.thepaper.cn/newsDetail_forward_34279646)
+15. [外交部提醒赴法国中国公民加强安全防范](https://www.thepaper.cn/newsDetail_forward_34282817)
+16. [中国驻菲律宾大使就菲反华政客污蔑抹黑中方言论向菲外长提出严正交涉](https://www.thepaper.cn/newsDetail_forward_34283051)
+17. [言短意长｜程序正义值得尊重，但不能成为学术不端调查效率的挡箭牌](https://www.thepaper.cn/newsDetail_forward_34281796)
+18. [英方称将共同应对中国汽车产业占主导地位，商务部回应](https://www.thepaper.cn/newsDetail_forward_34283182)
+19. [系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径](https://www.thepaper.cn/newsDetail_forward_34282923)
+20. [新华社：特朗普为何此时“力挺”内塔尼亚胡](https://www.thepaper.cn/newsDetail_forward_34285005)
