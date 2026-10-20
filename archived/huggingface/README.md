@@ -1,13 +1,13 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-20 05:37:41
+> 更新时间：2026-10-20 11:43:11
 
 ## Trending Models
 
 1. [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
-2. [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)
-3. [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)
-4. [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)
+2. [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)
+3. [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)
+4. [openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)
 5. [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)
 6. [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)
 7. [meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)
@@ -20,7 +20,7 @@
 14. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
 15. [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)
 16. [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)
-17. [openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)
-18. [datalab-to/indra-ocr](https://huggingface.co/datalab-to/indra-ocr)
-19. [nvidia/Qwen3.8-Flash-Next-FP4-Local](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local)
-20. [Comfy-Org/MOSS-Image](https://huggingface.co/Comfy-Org/MOSS-Image)
+17. [datalab-to/indra-ocr](https://huggingface.co/datalab-to/indra-ocr)
+18. [nvidia/Qwen3.8-Flash-Next-FP4-Local](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local)
+19. [Comfy-Org/MOSS-Image](https://huggingface.co/Comfy-Org/MOSS-Image)
+20. [facebook/sam3](https://huggingface.co/facebook/sam3)
