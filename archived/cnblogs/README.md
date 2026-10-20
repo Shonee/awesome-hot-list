@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-21 06:11:58
+> 更新时间：2026-10-21 07:10:29
 
 ## 最新帖子
 
-1. [不要活成一个“高斯流形检测器”：把人类独特性寄托在这个上面，迟早会自取灭亡](https://www.cnblogs.com/apachecn/p/23380651)
-2. [# 不需要你同意，只需要你依赖  ## ——合法性的一块新基座，正在不征求意见地铺设](https://www.cnblogs.com/mofahuizhang/p/23378530)
-3. [从 INF、DSC、DEC 到 FDF：理解 EDK II 的 UEFI 编译与固件生成流程](https://www.cnblogs.com/ayuan01/p/23378536)
-4. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
-5. [关于 x1 y1 等变量名冲突的指正（校对版）](https://www.cnblogs.com/cao2333/p/23375942)
-6. [让 Agent 在给方案之前先摊开它的假设](https://www.cnblogs.com/fhyy/p/23378163)
-7. [【Agentic RL】Dressage Staleness 控制深度分析](https://www.cnblogs.com/rossiXYZ/p/23263641)
-8. [手把手把 GitHub 推上阿里云 ECS：Actions CI/CD 全链路避坑实录（折腾好几天，到 2 分钟见绿）](https://www.cnblogs.com/xyyt/p/23377985/github-actions-aliyun-ecs-cicd-pitfalls)
-9. [10 人团队 10 种 AI 代码风格：规则文件不是配置文件](https://www.cnblogs.com/uniqueDong/p/23377655)
-10. [使用命令行做描述性统计的技巧](https://www.cnblogs.com/wang_yb/p/23377517)
-11. [首批入选！天翼云荣获2026年度国家人工智能安全漏洞库优秀技术支撑单位奖](https://www.cnblogs.com/developer-tianyiyun/p/23376548)
-12. [DevOps 流水线选型：性能与稳定性该怎么评估？](https://www.cnblogs.com/yfxn/p/23374464)
-13. [一文搞懂 Agent Teams：如何让多个 AI 组队协作完成任务？](https://www.cnblogs.com/Tomorrowland/p/23363086)
-14. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
-15. [对象状态与操作合法性异常【C# Exception 详解系列（二）】](https://www.cnblogs.com/hnzhengfy/p/23360696/Exception_d2)
-16. [Koog(7)——模型调用的输入与输出：多模态、参数、流式与结构化](https://www.cnblogs.com/joy99/p/23341378)
-17. [大模型 Temperature 和 Top-p 到底有什么区别？一篇讲透原理与调参](https://www.cnblogs.com/codigger/p/23369656)
-18. [从副本集到分片：百亿级文档数据的KES架构边界](https://www.cnblogs.com/dicengwanjialaozhang/p/23369329)
-19. [Oracle 等待事件：从时间归因到问题闭环的排查方法论](https://www.cnblogs.com/liuziyi1/p/23368435)
-20. [别再滥用设计模式：用函数对象和新语言特性做“降维替代”](https://www.cnblogs.com/apachecn/p/23368033)
+1. [MQTT实战 - MQTTnet连接可靠性设计：自动重连、心跳、ClientId管理（五）](https://www.cnblogs.com/hugogoos/p/23372397)
+2. [用脚本按顺序执行初始化 DB 的 SQL 文件](https://www.cnblogs.com/jyzhao/p/23381011)
+3. [不要活成一个“高斯流形检测器”：把人类独特性寄托在这个上面，迟早会自取灭亡](https://www.cnblogs.com/apachecn/p/23380651)
+4. [# 不需要你同意，只需要你依赖  ## ——合法性的一块新基座，正在不征求意见地铺设](https://www.cnblogs.com/mofahuizhang/p/23378530)
+5. [从 INF、DSC、DEC 到 FDF：理解 EDK II 的 UEFI 编译与固件生成流程](https://www.cnblogs.com/ayuan01/p/23378536)
+6. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
+7. [关于 x1 y1 等变量名冲突的指正（校对版）](https://www.cnblogs.com/cao2333/p/23375942)
+8. [让 Agent 在给方案之前先摊开它的假设](https://www.cnblogs.com/fhyy/p/23378163)
+9. [【Agentic RL】Dressage Staleness 控制深度分析](https://www.cnblogs.com/rossiXYZ/p/23263641)
+10. [手把手把 GitHub 推上阿里云 ECS：Actions CI/CD 全链路避坑实录（折腾好几天，到 2 分钟见绿）](https://www.cnblogs.com/xyyt/p/23377985/github-actions-aliyun-ecs-cicd-pitfalls)
+11. [10 人团队 10 种 AI 代码风格：规则文件不是配置文件](https://www.cnblogs.com/uniqueDong/p/23377655)
+12. [使用命令行做描述性统计的技巧](https://www.cnblogs.com/wang_yb/p/23377517)
+13. [首批入选！天翼云荣获2026年度国家人工智能安全漏洞库优秀技术支撑单位奖](https://www.cnblogs.com/developer-tianyiyun/p/23376548)
+14. [DevOps 流水线选型：性能与稳定性该怎么评估？](https://www.cnblogs.com/yfxn/p/23374464)
+15. [一文搞懂 Agent Teams：如何让多个 AI 组队协作完成任务？](https://www.cnblogs.com/Tomorrowland/p/23363086)
+16. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
+17. [对象状态与操作合法性异常【C# Exception 详解系列（二）】](https://www.cnblogs.com/hnzhengfy/p/23360696/Exception_d2)
+18. [Koog(7)——模型调用的输入与输出：多模态、参数、流式与结构化](https://www.cnblogs.com/joy99/p/23341378)
+19. [大模型 Temperature 和 Top-p 到底有什么区别？一篇讲透原理与调参](https://www.cnblogs.com/codigger/p/23369656)
+20. [从副本集到分片：百亿级文档数据的KES架构边界](https://www.cnblogs.com/dicengwanjialaozhang/p/23369329)
 
 ## 精华帖子
 
