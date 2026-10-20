@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-21 03:11:00
+> 更新时间：2026-10-21 04:13:19
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [华为路由 X2 系列预售：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起](https://www.ithome.com/1/015/187.htm)
 9. [曝华为畅享 100 Pro Max 手机 512GB 版本独享麒麟 8020 处理器，标准版选用麒麟 8000S 芯片](https://www.ithome.com/1/015/442.htm)
 10. [华为 Pura X View 阔直板手机率先开更鸿蒙 HarmonyOS 7.0.0.111SP8，新增 iPhone 双机互联等功能](https://www.ithome.com/1/015/367.htm)
-11. [武汉通上线苹果 Apple Pay：无开卡费，30 元起充](https://www.ithome.com/1/015/087.htm)
-12. [1399 → 679 元起：小米 Sound 2 Pro 音箱京东新低，两分频架构 + 可组 4.0 环绕声](https://www.ithome.com/1/015/300.htm)
+11. [1399 → 679 元起：小米 Sound 2 Pro 音箱京东新低，两分频架构 + 可组 4.0 环绕声](https://www.ithome.com/1/015/300.htm)
+12. [武汉通上线苹果 Apple Pay：无开卡费，30 元起充](https://www.ithome.com/1/015/087.htm)

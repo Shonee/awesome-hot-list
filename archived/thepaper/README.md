@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-21 03:10:48
+> 更新时间：2026-10-21 04:13:09
 
 ## 热新闻
 
@@ -21,6 +21,6 @@
 15. [女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元](https://www.thepaper.cn/newsDetail_forward_34283132)
 16. [甘肃张掖通报“风电项目影响野生动物栖息”：建设合规，将组织调研](https://www.thepaper.cn/newsDetail_forward_34287541)
 17. [新央企国家数据集团官网上线，领导班子成员披露](https://www.thepaper.cn/newsDetail_forward_34293540)
-18. [张雪将在家乡再次挑战摩托车“水上漂”，17年前曾四次挑战失败](https://www.thepaper.cn/newsDetail_forward_34290178)
-19. [星巴克将推行“消费入座”？店员称本周实施，消费者看法不一](https://www.thepaper.cn/newsDetail_forward_34290982)
+18. [星巴克将推行“消费入座”？店员称本周实施，消费者看法不一](https://www.thepaper.cn/newsDetail_forward_34290982)
+19. [张雪将在家乡再次挑战摩托车“水上漂”，17年前曾四次挑战失败](https://www.thepaper.cn/newsDetail_forward_34290178)
 20. [多省份用户访问请求异常跳转至博彩网站，国家互联网应急中心公布调查情况](https://www.thepaper.cn/newsDetail_forward_34288459)

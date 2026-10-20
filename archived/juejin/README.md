@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-21 03:10:29
+> 更新时间：2026-10-21 04:12:57
 
 ## 热门文章
 
@@ -21,8 +21,8 @@
 15. [【求助】纯命令行开发安卓相机App的一些问题，求大佬指点](https://juejin.cn/post/7697558807295229994)
 16. [Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界](https://juejin.cn/post/7672849477074616383)
 17. [Dart 3.15 新特性：this 终于支持类型提升了](https://juejin.cn/post/7698239626868310067)
-18. [一个 Java 后端的 AI Agent 落地全景：工具 · RAG · MCP · 评测 · 护栏 · 可观测（全可复现数字）](https://juejin.cn/post/7697500325121998848)
-19. [Vue3 转 React：18 项对照表 + 5 个必踩的坑（附 7 天上手路线）](https://juejin.cn/post/7697626465454096394)
+18. [Vue3 转 React：18 项对照表 + 5 个必踩的坑（附 7 天上手路线）](https://juejin.cn/post/7697626465454096394)
+19. [一个 Java 后端的 AI Agent 落地全景：工具 · RAG · MCP · 评测 · 护栏 · 可观测（全可复现数字）](https://juejin.cn/post/7697500325121998848)
 20. [用 Codex 连接 Blender，我做了一块可以走进楼宇的大屏](https://juejin.cn/post/7697883708062367770)
 21. [给 23 万字修仙小说造个阅读站：浏览器内打包 EPUB 分页阅读 + 三主题实战](https://juejin.cn/post/7697873433355403274)
 22. [栗子前端技术周刊第 150 期 - Stack Overflow 开发者调查结果、TanStack Start 1.0...](https://juejin.cn/post/7697531208898445353)
@@ -32,16 +32,16 @@
 26. [REA 支持 TRAE 了，我拿自己的开源软件做了一次逆向实测](https://juejin.cn/post/7697264101203869731)
 27. [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964)
 28. [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825)
-29. [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873)
-30. [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578)
-31. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
+29. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
+30. [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873)
+31. [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578)
 32. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
 33. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
 34. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
-35. [调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%](https://juejin.cn/post/7698568843102617626)
-36. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
-37. [脱离 Android Studio：纯命令行开发 Android 相机 App 的实践与踩坑记录](https://juejin.cn/post/7697558807295213610)
-38. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
+35. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
+36. [调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%](https://juejin.cn/post/7698568843102617626)
+37. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
+38. [脱离 Android Studio：纯命令行开发 Android 相机 App 的实践与踩坑记录](https://juejin.cn/post/7697558807295213610)
 39. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
 40. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
 41. [Cursor转Codex大半个月实测：迁移成本、代码质量与那些没人说的隐性坑点](https://juejin.cn/post/7697474838379184138)
