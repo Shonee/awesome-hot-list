@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-20 10:44:46
+> 更新时间：2026-10-20 16:45:04
 
 ## 每日趋势
 
@@ -66,18 +66,17 @@
 4. [so-novel](https://github.com/freeok/so-novel)
 5. [jadx](https://github.com/skylot/jadx)
 6. [Apktool](https://github.com/iBotPeaches/Apktool)
-7. [Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
-8. [NoteLite](https://github.com/Lucas0623z/NoteLite)
-9. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
-10. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-11. [kafka](https://github.com/apache/kafka)
-12. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-13. [GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
-14. [FeurStagram](https://github.com/jean-voila/FeurStagram)
-15. [cloudstack](https://github.com/apache/cloudstack)
-16. [spring-boot](https://github.com/spring-projects/spring-boot)
-17. [dbeaver](https://github.com/dbeaver/dbeaver)
-18. [meteor-client](https://github.com/MeteorDevelopment/meteor-client)
+7. [NoteLite](https://github.com/Lucas0623z/NoteLite)
+8. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
+9. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+10. [kafka](https://github.com/apache/kafka)
+11. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+12. [GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+13. [FeurStagram](https://github.com/jean-voila/FeurStagram)
+14. [cloudstack](https://github.com/apache/cloudstack)
+15. [spring-boot](https://github.com/spring-projects/spring-boot)
+16. [dbeaver](https://github.com/dbeaver/dbeaver)
+17. [meteor-client](https://github.com/MeteorDevelopment/meteor-client)
 
 ## Python
 
