@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-20 22:14:12
+> 更新时间：2026-10-20 23:12:47
 
 ## 热点榜
 
@@ -18,9 +18,9 @@
 12. [送8个儿子去长征，她点灯等了26年](https://h5.news.qq.com/qqfile/tnewsh5/short-term/long-march-cultural-relic-show.html?disabletitlebar=1&from=xx)
 13. [“手段特别残忍”，刘某奇被判死刑](https://view.inews.qq.com/a/20261020A0A33200)
 14. [三亚市副市长陈克伯，任上被查，出生于1984年](https://view.inews.qq.com/a/20261020A0AXWU00)
-15. [“小天才封闭社交倒逼家长购买”登上热搜，客服回应：暂不支持跨品牌添加社交好友，可添加至联系人](https://view.inews.qq.com/a/20261020A09SCN00)
-16. [居民晒床铺掀开一看吓出冷汗：原来床上还有别的活物，网友：这床以后还能睡吗？](https://view.inews.qq.com/a/20261020V07CC200)
-17. [“火药桶”再燃：暴力为何再次击中法国？](https://view.inews.qq.com/a/20261020A0CQPM00)
-18. [新媒：中美对等降税将惠及美国家庭](https://view.inews.qq.com/a/20261020A09WE500)
-19. [民调：超半数美国人担忧买不起食物，物价涨翻、牛肉贵一倍、修车房租开支也惊人](https://view.inews.qq.com/a/20261020A0A1RZ00)
-20. [杨小伟一审被判十二年](https://view.inews.qq.com/a/20261020A0B1F400)
+15. [“火药桶”再燃：暴力为何再次击中法国？](https://view.inews.qq.com/a/20261020A0CQPM00)
+16. [新媒：中美对等降税将惠及美国家庭](https://view.inews.qq.com/a/20261020A09WE500)
+17. [居民晒床铺掀开一看吓出冷汗：原来床上还有别的活物，网友：这床以后还能睡吗？](https://view.inews.qq.com/a/20261020V07CC200)
+18. [杨小伟一审被判十二年](https://view.inews.qq.com/a/20261020A0B1F400)
+19. [救助流浪宠物的爱心博主秦思雨感染罕见真菌病逝，年仅27岁，丈夫：她温柔漂亮有爱心，随时带着猫狗粮，走到哪里都会喂](https://view.inews.qq.com/a/20261020A08W0C00)
+20. [美军先进导弹首次部署至冲绳，距中国台湾仅110公里，专家：美日“利剑”军演在演夺岛](https://view.inews.qq.com/a/20261020A09RO000)

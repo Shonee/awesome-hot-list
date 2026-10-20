@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-20 22:14:19
+> 更新时间：2026-10-20 23:12:53
 
 ## 新闻热榜
 
@@ -11,11 +11,11 @@
 5. [美狠批泽连斯基“不想结束战争”，乌总统强硬回怼：“这是逼迫乌克兰投降”](https://news.sina.com.cn/w/2026-10-20/doc-inivvhfu0863149.shtml)
 6. [对精日行为就该露头就打](https://news.sina.com.cn/c/2026-10-20/doc-inivvnpv5887224.shtml)
 7. [美舰冲闯中国南沙群岛仙宾礁附近海域 南部战区回应](https://news.sina.com.cn/c/2026-10-20/doc-inivvxcr5844101.shtml)
-8. [两座塔尖城市，盯上同一张“票”](https://news.sina.com.cn/c/2026-10-20/doc-inivuvsf6751868.shtml)
-9. [日本发射火星卫星探测器，“若成功，便是全球首次”](https://news.sina.com.cn/w/2026-10-20/doc-inivvsvv6605133.shtml)
+8. [日本发射火星卫星探测器，“若成功，便是全球首次”](https://news.sina.com.cn/w/2026-10-20/doc-inivvsvv6605133.shtml)
+9. [两座塔尖城市，盯上同一张“票”](https://news.sina.com.cn/c/2026-10-20/doc-inivuvsf6751868.shtml)
 10. [俄推进图-95MSM战略轰炸机“全面翻新”](https://news.sina.com.cn/w/2026-10-20/doc-inivvsvv6603945.shtml)
-11. [针对DeepSeek，美国政府下黑手](https://news.sina.com.cn/c/2026-10-19/doc-inivurkf6097386.shtml)
-12. [特朗普最新支持率公开](https://news.sina.com.cn/w/2026-10-20/doc-inivwcmm7607250.shtml)
+11. [特朗普最新支持率公开](https://news.sina.com.cn/w/2026-10-20/doc-inivwcmm7607250.shtml)
+12. [针对DeepSeek，美国政府下黑手](https://news.sina.com.cn/c/2026-10-19/doc-inivurkf6097386.shtml)
 13. [[新浪彩票]足彩第26146期任九：那不勒斯不稳](https://sports.sina.com.cn/l/2026-10-20/doc-inivvnpv5880587.shtml)
 14. [吴清给资本市场划重点：稳市、改革、严监管、扩开放](https://finance.sina.com.cn/roll/2026-10-20/doc-inivvnpt7519944.shtml)
 15. [中国人民银行行长潘功胜宣布将出台多个政策举措：设立应对非银机构大额赎回的流动性支持工具](https://finance.sina.com.cn/roll/2026-10-20/doc-inivuvry0959181.shtml)
@@ -42,8 +42,8 @@
 13. [痛！金华有女子出车祸，鲨鱼夹插入后脑勺……爱美人士注意了！](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivvsvr7534451.shtml)
 14. [美舰冲闯中国南沙群岛仙宾礁附近海域，南部战区回应](https://finance.sina.com.cn/wm/2026-10-20/doc-inivvxcn0908076.shtml)
 15. [上午翻红，午后跳水，尾盘回升！今天，A股发生了什么？](https://finance.sina.com.cn/roll/2026-10-20/doc-inivwcmk0939056.shtml)
-16. [从消费白马到硬科技：近十年A股“股王”轮动折射产业变迁](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivuvrz7734270.shtml)
-17. [遭小摩降评级 宁德时代大跌超4% 成交额A股第一](https://finance.sina.com.cn/tob/2026-10-20/doc-inivwcmm7598382.shtml)
+16. [遭小摩降评级 宁德时代大跌超4% 成交额A股第一](https://finance.sina.com.cn/tob/2026-10-20/doc-inivwcmm7598382.shtml)
+17. [从消费白马到硬科技：近十年A股“股王”轮动折射产业变迁](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivuvrz7734270.shtml)
 18. [长线资金，买入这些标的](https://finance.sina.com.cn/wm/2026-10-20/doc-inivuvsc6028826.shtml)
-19. [股海导航_2026年10月20日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivvnpt7556874.shtml)
-20. [国家发改委：将及时出台实施增量政策](https://finance.sina.com.cn/wm/2026-10-20/doc-inivvxcr5844113.shtml)
+19. [国家发改委：将及时出台实施增量政策](https://finance.sina.com.cn/wm/2026-10-20/doc-inivvxcr5844113.shtml)
+20. [股海导航_2026年10月20日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivvnpt7556874.shtml)

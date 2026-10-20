@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-20 22:14:35
+> 更新时间：2026-10-20 23:13:10
 
 ## 股票人气榜
 
@@ -8,19 +8,19 @@
 2. [宇树科技-W (688836)](https://quote.eastmoney.com/sh688836.html)
 3. [长盈精密 (300115)](https://quote.eastmoney.com/sz300115.html)
 4. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-5. [亨通光电 (600487)](https://quote.eastmoney.com/sh600487.html)
-6. [宁波东力 (002164)](https://quote.eastmoney.com/sz002164.html)
+5. [宁波东力 (002164)](https://quote.eastmoney.com/sz002164.html)
+6. [亨通光电 (600487)](https://quote.eastmoney.com/sh600487.html)
 7. [东安动力 (600178)](https://quote.eastmoney.com/sh600178.html)
 8. [吉大正元 (003029)](https://quote.eastmoney.com/sz003029.html)
 9. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
-10. [超声电子 (000823)](https://quote.eastmoney.com/sz000823.html)
-11. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
-12. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
-13. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
-14. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
-15. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
-16. [粤 传 媒 (002181)](https://quote.eastmoney.com/sz002181.html)
-17. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
-18. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
-19. [南威软件 (603636)](https://quote.eastmoney.com/sh603636.html)
-20. [万丰奥威 (002085)](https://quote.eastmoney.com/sz002085.html)
+10. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
+11. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
+12. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
+13. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
+14. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
+15. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
+16. [南威软件 (603636)](https://quote.eastmoney.com/sh603636.html)
+17. [粤 传 媒 (002181)](https://quote.eastmoney.com/sz002181.html)
+18. [超声电子 (000823)](https://quote.eastmoney.com/sz000823.html)
+19. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
+20. [科森科技 (603626)](https://quote.eastmoney.com/sh603626.html)
