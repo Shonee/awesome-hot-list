@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-20 09:22:45
+> 更新时间：2026-10-20 10:16:07
 
 ## 最新帖子
 
-1. [让小车沿线转得顺：循迹位置环 PID](https://www.cnblogs.com/zw-awa/p/23366990)
-2. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
-3. [用AI一键生成设备导览步骤动作与发布全流程](https://www.cnblogs.com/startechnology/p/23366655)
-4. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
-5. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
-6. [软件离线部署前提：从镜像打包到导入的完整流程](https://www.cnblogs.com/jyzhao/p/23365837)
-7. [关于 x1 y1 yn 变量名冲突说法的指正](https://www.cnblogs.com/cao2333/p/23363066)
-8. [开源剪切板历史工具 《clip》怎么使用，详细图解](https://www.cnblogs.com/Doyoung/p/23362139)
-9. [参数校验类异常（Argument Exception）【C# Exception 详解系列一】](https://www.cnblogs.com/hnzhengfy/p/23318039/Exception_d1)
-10. [周一上线 | DeepSeek 开始卷“许愿式编程”，Agent 手机来了，Character.AI 申请破产](https://www.cnblogs.com/Qiniu-developer/p/23361894)
-11. [一个模型搞定 RAG 向量化，Python 直接跑（BAAI/bge-m3）](https://www.cnblogs.com/yclh/p/23361848)
-12. [开源了一个 Windows 脚本管理器「不忙脚本盒子」：桌面版篡改猴，多语言脚本声明式接入](https://www.cnblogs.com/hemiao-1/p/23360844)
-13. [三维 GIS 离线缓存实战：逆向 CesiumOfflineCache，并亲手为它补上"自动更新"能力](https://www.cnblogs.com/ChineseLiao/p/23359070)
-14. [StreamMark 入门：从 NuGet 安装到 Avalonia 原生流式 Markdown 渲染](https://www.cnblogs.com/token-ai/p/23358692)
-15. [2026 ICPC 亚洲区域赛西安站游记](https://www.cnblogs.com/joyce-peng/p/23358595)
-16. [【HarmonyOS SDK Skills】扫码能力一键构建，系统级高精度扫码秒实现](https://www.cnblogs.com/HarmonyOSSDK/p/23358411)
-17. [12、数据通信交换架构：决定设备转发能力上限的引擎](https://www.cnblogs.com/suhanmo/p/23358184)
-18. [MAF + 飞书：让大模型干活，但别让它乱干](https://www.cnblogs.com/mudtools/p/23357540)
-19. [第四章：Source 细读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23357255)
-20. [OpenGIS 技能插件开发与使用：在 DeepSeek Harness 里按需加载 GIS 知识](https://www.cnblogs.com/znlgis/p/23356691)
+1. [别再滥用设计模式：用函数对象和新语言特性做“降维替代”](https://www.cnblogs.com/apachecn/p/23368033)
+2. [venv 详解](https://www.cnblogs.com/zjdxr-up/p/23331028)
+3. [百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成](https://www.cnblogs.com/zrui-xyu/p/23367975)
+4. [学习NOTE 12——矩阵](https://www.cnblogs.com/T-M-T/p/23367883)
+5. [13、数据通信转发架构：报文是如何被“转发“的](https://www.cnblogs.com/suhanmo/p/23367828)
+6. [从 JSON 到 Word：用 Python 把结构化数据渲染成可读文档](https://www.cnblogs.com/jazz-z/p/23367678)
+7. [我把控件大全源码喂给AI/他给我写了一堆牛逼的控件/太屌了](https://www.cnblogs.com/feiyangqingyun/p/23367533)
+8. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
+9. [第五章：其余页面与全篇收束 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23357377)
+10. [为什么越来越多人用MinerU？](https://www.cnblogs.com/12lisu/p/23367082)
+11. [【译】Visual Studio Debugger Agentic Workflow 迎来新的测试驱式排查工作流](https://www.cnblogs.com/MeteorSeed/p/23361222)
+12. [让小车沿线转得顺：循迹位置环 PID](https://www.cnblogs.com/zw-awa/p/23366990)
+13. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
+14. [用AI一键生成设备导览步骤动作与发布全流程](https://www.cnblogs.com/startechnology/p/23366655)
+15. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
+16. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
+17. [软件离线部署前提：从镜像打包到导入的完整流程](https://www.cnblogs.com/jyzhao/p/23365837)
+18. [关于 x1 y1 yn 变量名冲突说法的指正](https://www.cnblogs.com/cao2333/p/23363066)
+19. [开源剪切板历史工具 《clip》怎么使用，详细图解](https://www.cnblogs.com/Doyoung/p/23362139)
+20. [参数校验类异常（Argument Exception）【C# Exception 详解系列一】](https://www.cnblogs.com/hnzhengfy/p/23318039/Exception_d1)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [使用 .NET 和 Avalonia 构建高性能 Agent 桌面客户端](https://www.cnblogs.com/token-ai/p/23350452/tkcode-dotnet-avalonia-agent)
 2. [一文搞懂 Agent Sandbox（沙箱）：为什么 AI 不能随便操作你的电脑？](https://www.cnblogs.com/Tomorrowland/p/23347321)
 3. [上周热点回顾（10.12-10.18）](https://www.cnblogs.com/cmt/p/23353532)
-4. [OCR认字全对，读起来稀碎？—— 从"逐行识别"到"成段可读"：照片说明文字的段落级识别实践](https://www.cnblogs.com/zhenl/p/23344681)
-5. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
-6. [Spring Boot 3 + Vue 3 高校选修课系统：用 Redis + Lua 彻底解决选课超卖](https://www.cnblogs.com/huangrenhui/p/23353131)
+4. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
+5. [Spring Boot 3 + Vue 3 高校选修课系统：用 Redis + Lua 彻底解决选课超卖](https://www.cnblogs.com/huangrenhui/p/23353131)
+6. [技术方案怎么用AI写？四段Prompt链加3个可抄模板](https://www.cnblogs.com/uniqueDong/p/23354526)
