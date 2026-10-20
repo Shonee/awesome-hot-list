@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-20 18:12:28
+> 更新时间：2026-10-20 19:12:32
 
 ## 新闻热榜
 
@@ -12,13 +12,13 @@
 6. [对精日行为就该露头就打](https://news.sina.com.cn/c/2026-10-20/doc-inivvnpv5887224.shtml)
 7. [两座塔尖城市，盯上同一张“票”](https://news.sina.com.cn/c/2026-10-20/doc-inivuvsf6751868.shtml)
 8. [美舰冲闯中国南沙群岛仙宾礁附近海域 南部战区回应](https://news.sina.com.cn/c/2026-10-20/doc-inivvxcr5844101.shtml)
-9. [针对DeepSeek，美国政府下黑手](https://news.sina.com.cn/c/2026-10-19/doc-inivurkf6097386.shtml)
-10. [日本发射火星卫星探测器，“若成功，便是全球首次”](https://news.sina.com.cn/w/2026-10-20/doc-inivvsvv6605133.shtml)
+9. [日本发射火星卫星探测器，“若成功，便是全球首次”](https://news.sina.com.cn/w/2026-10-20/doc-inivvsvv6605133.shtml)
+10. [针对DeepSeek，美国政府下黑手](https://news.sina.com.cn/c/2026-10-19/doc-inivurkf6097386.shtml)
 11. [李小冉宣布去年已离婚](https://news.sina.com.cn/c/2026-10-19/doc-inivumae0916218.shtml)
-12. [吴清给资本市场划重点：稳市、改革、严监管、扩开放](https://finance.sina.com.cn/roll/2026-10-20/doc-inivvnpt7519944.shtml)
-13. [俄推进图-95MSM战略轰炸机“全面翻新”](https://news.sina.com.cn/w/2026-10-20/doc-inivvsvv6603945.shtml)
-14. [中国人民银行行长潘功胜宣布将出台多个政策举措：设立应对非银机构大额赎回的流动性支持工具](https://finance.sina.com.cn/roll/2026-10-20/doc-inivuvry0959181.shtml)
-15. [特朗普最新支持率公开](https://news.sina.com.cn/w/2026-10-20/doc-inivwcmm7607250.shtml)
+12. [俄推进图-95MSM战略轰炸机“全面翻新”](https://news.sina.com.cn/w/2026-10-20/doc-inivvsvv6603945.shtml)
+13. [吴清给资本市场划重点：稳市、改革、严监管、扩开放](https://finance.sina.com.cn/roll/2026-10-20/doc-inivvnpt7519944.shtml)
+14. [特朗普最新支持率公开](https://news.sina.com.cn/w/2026-10-20/doc-inivwcmm7607250.shtml)
+15. [中国人民银行行长潘功胜宣布将出台多个政策举措：设立应对非银机构大额赎回的流动性支持工具](https://finance.sina.com.cn/roll/2026-10-20/doc-inivuvry0959181.shtml)
 16. [[新浪彩票]足彩第26146期任九：那不勒斯不稳](https://sports.sina.com.cn/l/2026-10-20/doc-inivvnpv5880587.shtml)
 17. [特朗普说应立即将美国新墨西哥州更名为“新美国州”](https://news.sina.com.cn/w/2026-10-20/doc-inivvsvr7556870.shtml)
 18. [祖孙三人被杀害凶手被执行死刑](https://news.sina.com.cn/c/2026-10-19/doc-inivumaf7700261.shtml)
@@ -40,10 +40,10 @@
 11. [美舰冲闯中国南沙群岛仙宾礁附近海域，南部战区回应](https://finance.sina.com.cn/wm/2026-10-20/doc-inivvxcn0908076.shtml)
 12. [痛！金华有女子出车祸，鲨鱼夹插入后脑勺……爱美人士注意了！](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivvsvr7534451.shtml)
 13. [苹果官宣10月28日发布新品 预计将推出首款触摸屏MacBook](https://finance.sina.com.cn/stock/t/2026-10-20/doc-inivuzxz6006677.shtml)
-14. [从消费白马到硬科技：近十年A股“股王”轮动折射产业变迁](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivuvrz7734270.shtml)
-15. [股海导航_2026年10月20日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivvnpt7556874.shtml)
-16. [10月20日收盘：美股涨跌互现 科技股领涨 市场聚焦特斯拉与Meta财报](https://finance.sina.com.cn/world/2026-10-20/doc-inivuzxw0887698.shtml)
-17. [特朗普称对中美俄三方会谈持积极态度，中方是否接受提议？外交部回应](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivwcmk0913828.shtml)
+14. [特朗普称对中美俄三方会谈持积极态度，中方是否接受提议？外交部回应](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivwcmk0913828.shtml)
+15. [从消费白马到硬科技：近十年A股“股王”轮动折射产业变迁](https://finance.sina.com.cn/jjxw/2026-10-20/doc-inivuvrz7734270.shtml)
+16. [股海导航_2026年10月20日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivvnpt7556874.shtml)
+17. [10月20日收盘：美股涨跌互现 科技股领涨 市场聚焦特斯拉与Meta财报](https://finance.sina.com.cn/world/2026-10-20/doc-inivuzxw0887698.shtml)
 18. [长线资金，买入这些标的](https://finance.sina.com.cn/wm/2026-10-20/doc-inivuvsc6028826.shtml)
-19. [法国遭遇股债双杀！示威活动冲击金融市场，欧央行会出手么？丨欧洲观察](https://finance.sina.com.cn/roll/2026-10-20/doc-inivvnpt7550830.shtml)
-20. [刚刚！以色列总理下令：推翻伊朗政权！美国，发布禁令！全线下跌！这一品种，遭遇“膝斩”](https://finance.sina.com.cn/money/future/fmnews/2026-10-20/doc-inivvnpx6593527.shtml)
+19. [遭小摩降评级 宁德时代大跌超4% 成交额A股第一](https://finance.sina.com.cn/tob/2026-10-20/doc-inivwcmm7598382.shtml)
+20. [法国遭遇股债双杀！示威活动冲击金融市场，欧央行会出手么？丨欧洲观察](https://finance.sina.com.cn/roll/2026-10-20/doc-inivvnpt7550830.shtml)

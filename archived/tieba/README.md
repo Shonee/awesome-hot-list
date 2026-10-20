@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-20 18:12:43
+> 更新时间：2026-10-20 19:13:06
 
 ## 最有料热点
 
@@ -8,9 +8,9 @@
 2. [肥鱼女友太撩人,吧友急哭](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367835&topic_name=%E8%82%A5%E9%B1%BC%E5%A5%B3%E5%8F%8B%E5%A4%AA%E6%92%A9%E4%BA%BA%2C%E5%90%A7%E5%8F%8B%E6%80%A5%E5%93%AD)
 3. [谁才是表情包顶流](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367753&topic_name=%E8%B0%81%E6%89%8D%E6%98%AF%E8%A1%A8%E6%83%85%E5%8C%85%E9%A1%B6%E6%B5%81)
 4. [LPL四队凌晨开打,观众熬穿](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367840&topic_name=LPL%E5%9B%9B%E9%98%9F%E5%87%8C%E6%99%A8%E5%BC%80%E6%89%93%2C%E8%A7%82%E4%BC%97%E7%86%AC%E7%A9%BF)
-5. [真圣人?马斯克撒钱送股票](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367825&topic_name=%E7%9C%9F%E5%9C%A3%E4%BA%BA%3F%E9%A9%AC%E6%96%AF%E5%85%8B%E6%92%92%E9%92%B1%E9%80%81%E8%82%A1%E7%A5%A8)
-6. [死神决战魔改,一护沦为路边](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367808&topic_name=%E6%AD%BB%E7%A5%9E%E5%86%B3%E6%88%98%E9%AD%94%E6%94%B9%2C%E4%B8%80%E6%8A%A4%E6%B2%A6%E4%B8%BA%E8%B7%AF%E8%BE%B9)
-7. [堪比历史名画,法国暴乱出神图](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367860&topic_name=%E5%A0%AA%E6%AF%94%E5%8E%86%E5%8F%B2%E5%90%8D%E7%94%BB%2C%E6%B3%95%E5%9B%BD%E6%9A%B4%E4%B9%B1%E5%87%BA%E7%A5%9E%E5%9B%BE)
+5. [吧主出征!为吧宠级表情包站台](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367857&topic_name=%E5%90%A7%E4%B8%BB%E5%87%BA%E5%BE%81%21%E4%B8%BA%E5%90%A7%E5%AE%A0%E7%BA%A7%E8%A1%A8%E6%83%85%E5%8C%85%E7%AB%99%E5%8F%B0)
+6. [真圣人?马斯克撒钱送股票](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367825&topic_name=%E7%9C%9F%E5%9C%A3%E4%BA%BA%3F%E9%A9%AC%E6%96%AF%E5%85%8B%E6%92%92%E9%92%B1%E9%80%81%E8%82%A1%E7%A5%A8)
+7. [死神决战魔改,一护沦为路边](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367808&topic_name=%E6%AD%BB%E7%A5%9E%E5%86%B3%E6%88%98%E9%AD%94%E6%94%B9%2C%E4%B8%80%E6%8A%A4%E6%B2%A6%E4%B8%BA%E8%B7%AF%E8%BE%B9)
 8. [法国佬孤身守店,吧友P图致敬](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367771&topic_name=%E6%B3%95%E5%9B%BD%E4%BD%AC%E5%AD%A4%E8%BA%AB%E5%AE%88%E5%BA%97%2C%E5%90%A7%E5%8F%8BP%E5%9B%BE%E8%87%B4%E6%95%AC)
 9. [好活,CS战队化身诸子百家](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367776&topic_name=%E5%A5%BD%E6%B4%BB%2CCS%E6%88%98%E9%98%9F%E5%8C%96%E8%BA%AB%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6)
 10. [外网评最烂AI命名榜,DS夺冠](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0)
@@ -32,5 +32,5 @@
 26. [出征S赛,LPL四队晒出发图](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367605&topic_name=%E5%87%BA%E5%BE%81S%E8%B5%9B%2CLPL%E5%9B%9B%E9%98%9F%E6%99%92%E5%87%BA%E5%8F%91%E5%9B%BE)
 27. [中国留学生披旭日旗,校方调查](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367612&topic_name=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%2C%E6%A0%A1%E6%96%B9%E8%B0%83%E6%9F%A5)
 28. [AI同人抢跑官方,追番党忧心](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367613&topic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83)
-29. [CS老资历批社区,双标言论被扒](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367562&topic_name=CS%E8%80%81%E8%B5%84%E5%8E%86%E6%89%B9%E7%A4%BE%E5%8C%BA%2C%E5%8F%8C%E6%A0%87%E8%A8%80%E8%AE%BA%E8%A2%AB%E6%89%92)
-30. [傅首尔新片血亏,票房仅8万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367604&topic_name=%E5%82%85%E9%A6%96%E5%B0%94%E6%96%B0%E7%89%87%E8%A1%80%E4%BA%8F%2C%E7%A5%A8%E6%88%BF%E4%BB%858%E4%B8%87)
+29. [傅首尔新片血亏,票房仅8万](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367604&topic_name=%E5%82%85%E9%A6%96%E5%B0%94%E6%96%B0%E7%89%87%E8%A1%80%E4%BA%8F%2C%E7%A5%A8%E6%88%BF%E4%BB%858%E4%B8%87)
+30. [CS老资历批社区,双标言论被扒](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367562&topic_name=CS%E8%80%81%E8%B5%84%E5%8E%86%E6%89%B9%E7%A4%BE%E5%8C%BA%2C%E5%8F%8C%E6%A0%87%E8%A8%80%E8%AE%BA%E8%A2%AB%E6%89%92)

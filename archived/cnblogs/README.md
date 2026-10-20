@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-20 18:12:05
+> 更新时间：2026-10-20 19:12:13
 
 ## 最新帖子
 
@@ -52,7 +52,7 @@
 
 1. [使用 .NET 和 Avalonia 构建高性能 Agent 桌面客户端](https://www.cnblogs.com/token-ai/p/23350452/tkcode-dotnet-avalonia-agent)
 2. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
-3. [一文搞懂 Agent Sandbox（沙箱）：为什么 AI 不能随便操作你的电脑？](https://www.cnblogs.com/Tomorrowland/p/23347321)
-4. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
-5. [上周热点回顾（10.12-10.18）](https://www.cnblogs.com/cmt/p/23353532)
-6. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
+3. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
+4. [上周热点回顾（10.12-10.18）](https://www.cnblogs.com/cmt/p/23353532)
+5. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
+6. [Spring Boot 3 + Vue 3 高校选修课系统：用 Redis + Lua 彻底解决选课超卖](https://www.cnblogs.com/huangrenhui/p/23353131)

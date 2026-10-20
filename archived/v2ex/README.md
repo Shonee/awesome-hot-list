@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-20 18:12:49
+> 更新时间：2026-10-20 19:14:00
 
 ## 热门主题
 
@@ -9,8 +9,8 @@
 3. [本地机器能跑 DeepSeek v4.1flash 或者 Qwen3.8 得多少钱？](https://www.v2ex.com/t/1250179)
 4. [能清理、卸载和系统维护的 Mole Windows 版终于来啦，聊聊我是怎么用 Mac 开发它的](https://www.v2ex.com/t/1250170)
 5. [卖房咨询，有卖房朋友经验的朋友来聊聊](https://www.v2ex.com/t/1250231)
-6. [老婆又要生孩子了](https://www.v2ex.com/t/1250150)
-7. [最近被同事消耗的太厉害](https://www.v2ex.com/t/1250197)
-8. [搓了一个看东南亚频道的站](https://www.v2ex.com/t/1250171)
-9. [招行信用卡是真➗啊](https://www.v2ex.com/t/1250316)
-10. [2026 年了，国内最优雅的 Apple TV 看有线电视姿势是什么](https://www.v2ex.com/t/1250167)
+6. [招行信用卡是真➗啊](https://www.v2ex.com/t/1250316)
+7. [老婆又要生孩子了](https://www.v2ex.com/t/1250150)
+8. [最近被同事消耗的太厉害](https://www.v2ex.com/t/1250197)
+9. [搓了一个看东南亚频道的站](https://www.v2ex.com/t/1250171)
+10. [是去海外还是留国内](https://www.v2ex.com/t/1250306)
