@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-21 00:14:28
+> 更新时间：2026-10-21 01:13:50
 
 ## 人气热门
 
@@ -57,11 +57,11 @@
 
 ## 精华采撷
 
-1. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
-2. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
-3. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
-4. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
-5. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
+1. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
+2. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
+3. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
+4. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
+5. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
 6. [【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）](https://www.52pojie.cn/thread-2094408-1-1.html)
 7. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 8. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
