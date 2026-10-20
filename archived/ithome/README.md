@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-20 23:13:03
+> 更新时间：2026-10-21 00:15:26
 
 ## 日榜
 
@@ -9,10 +9,10 @@
 3. [苹果 iOS / iPadOS 27.2 RC 发布：Siri AI 再添 5 种语言、Apple Music 启用新视觉](https://www.ithome.com/1/015/062.htm)
 4. [苹果首款折叠 iPhone Duo 供货现缓解信号：部分订单从 12 月提前至 10 月](https://www.ithome.com/1/015/076.htm)
 5. [2028 款 iPhone 有望首发：消息称苹果重金锁定台积电 1.4 纳米首批产能](https://www.ithome.com/1/015/201.htm)
-6. [微软用 Mac 制作 Windows Insider 12 周年纪念壁纸，引发网友讨论](https://www.ithome.com/1/015/052.htm)
-7. [多省份发生用户访问请求异常跳转至博彩网站事件，国家互联网应急中心公布调查情况](https://www.ithome.com/1/015/252.htm)
-8. [消息称引望不允许车企补贴华为乾崑智驾 ADS 软件费用，持续收费才能维护庞大研发力量](https://www.ithome.com/1/015/383.htm)
-9. [华为路由 X2 系列预售：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起](https://www.ithome.com/1/015/187.htm)
-10. [官方定调 L2 级别智驾禁用“小蓝灯”，多家车企已于 7 月陆续收到相关消息](https://www.ithome.com/1/015/424.htm)
-11. [6.59 万元起比亚迪第二代海鸥车型上市：尺寸动力底盘全面升级](https://www.ithome.com/1/015/535.htm)
-12. [曝华为畅享 100 Pro Max 手机 512GB 版本独享麒麟 8020 处理器，标准版选用麒麟 8000S 芯片](https://www.ithome.com/1/015/442.htm)
+6. [多省份发生用户访问请求异常跳转至博彩网站事件，国家互联网应急中心公布调查情况](https://www.ithome.com/1/015/252.htm)
+7. [6.59 万元起比亚迪第二代海鸥车型上市：尺寸动力底盘全面升级](https://www.ithome.com/1/015/535.htm)
+8. [官方定调 L2 级别智驾禁用“小蓝灯”，多家车企已于 7 月陆续收到相关消息](https://www.ithome.com/1/015/424.htm)
+9. [消息称引望不允许车企补贴华为乾崑智驾 ADS 软件费用，持续收费才能维护庞大研发力量](https://www.ithome.com/1/015/383.htm)
+10. [华为路由 X2 系列预售：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起](https://www.ithome.com/1/015/187.htm)
+11. [曝华为畅享 100 Pro Max 手机 512GB 版本独享麒麟 8020 处理器，标准版选用麒麟 8000S 芯片](https://www.ithome.com/1/015/442.htm)
+12. [武汉通上线苹果 Apple Pay：无开卡费，30 元起充](https://www.ithome.com/1/015/087.htm)

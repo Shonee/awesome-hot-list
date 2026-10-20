@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-20 23:12:29
+> 更新时间：2026-10-21 00:14:21
 
 ## 热门文章
 
@@ -11,10 +11,10 @@
 5. [DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算](https://juejin.cn/post/7697474838380134410)
 6. [从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）](https://juejin.cn/post/7697418750073929762)
 7. [面向 Schema 配置编程，Vue3 动态表单支持弹框组件](https://juejin.cn/post/7697474838380265482)
-8. [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190)
-9. [如何低成本部署网站？Vercel 和 Cloudflare 怎么选？](https://juejin.cn/post/7697615256115363882)
-10. [Android 协程实践：为什么不应将 `supervisorScope` 作为常规方案](https://juejin.cn/post/7697452953989480474)
-11. [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959)
+8. [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959)
+9. [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190)
+10. [如何低成本部署网站？Vercel 和 Cloudflare 怎么选？](https://juejin.cn/post/7697615256115363882)
+11. [Android 协程实践：为什么不应将 `supervisorScope` 作为常规方案](https://juejin.cn/post/7697452953989480474)
 12. [程序员 1v1 访谈系列第四期：全栈比 Agent 重要](https://juejin.cn/post/7697622920013987875)
 13. [纯前端预览 275 种文件格式是怎么做到的](https://juejin.cn/post/7697865664232702006)
 14. [Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界](https://juejin.cn/post/7672849477074616383)
@@ -28,12 +28,12 @@
 22. [栗子前端技术周刊第 150 期 - Stack Overflow 开发者调查结果、TanStack Start 1.0...](https://juejin.cn/post/7697531208898445353)
 23. [iOS Swift Package Manager（SPM）私有组件完整实操](https://juejin.cn/post/7697312440703516699)
 24. [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964)
-25. [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886)
-26. [孩子画的小人，真的动起来了！我做了一个手绘动画小工具](https://juejin.cn/post/7697294498347761706)
-27. [REA 支持 TRAE 了，我拿自己的开源软件做了一次逆向实测](https://juejin.cn/post/7697264101203869731)
-28. [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825)
-29. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
-30. [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873)
+25. [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873)
+26. [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886)
+27. [孩子画的小人，真的动起来了！我做了一个手绘动画小工具](https://juejin.cn/post/7697294498347761706)
+28. [REA 支持 TRAE 了，我拿自己的开源软件做了一次逆向实测](https://juejin.cn/post/7697264101203869731)
+29. [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825)
+30. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
 31. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
 32. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
 33. [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578)
@@ -53,4 +53,4 @@
 47. [Spring AI 生产级 Chat 接口：6 个开关、13 个坑，其中 2 个开关根本没生效](https://juejin.cn/post/7697446131198836779)
 48. [DeepSeek V4 Pro 万字实测：1M上下文能装下整个代码库，但前端的拉胯还是没修好](https://juejin.cn/post/7673226470266159150)
 49. [机器人手机首日售罄，我看到的不是黑科技，而是一个时代的开始](https://juejin.cn/post/7673130401725693990)
-50. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
+50. [从零手搓 AI 伴侣：Java + 大模型 + 多模态的工程化踩坑实录](https://juejin.cn/post/7698306160449208355)

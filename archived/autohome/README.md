@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-20 23:12:56
+> 更新时间：2026-10-21 00:15:24
 
 ## 每日热点榜
 
@@ -11,25 +11,25 @@
 5. [埃安Ray7预售12.88万起](https://chejiahao.autohome.com.cn/info/26673098#pvareaid=6834132)
 6. [上汽大众ID.ERA5X正式下线](http://www.autohome.com.cn/news/202610/1317875.html)
 7. [马斯克万亿年薪曝光](https://chejiahao.autohome.com.cn/info/26688344#pvareaid=6834132)
-8. [启源Q07天枢领航版限时12.98万起](http://www.autohome.com.cn/news/202610/1317869.html)
-9. [吉利银河星舰8谍照曝光](http://www.autohome.com.cn/news/202610/1317861.html)
-10. [问界起诉57粉博主索赔100万](https://chejiahao.autohome.com.cn/info/26685018#pvareaid=6834132)
-11. [全网最听劝董事长离职](https://chejiahao.autohome.com.cn/info/26685278#pvareaid=6834132)
-12. [2027款吉利缤越超能版实车亮相](http://www.autohome.com.cn/news/202610/1317879.html)
-13. [小米申请SU9 LUX商标](http://www.autohome.com.cn/news/202610/1317845.html)
-14. [大众ID.AURAT6首销月锁单超3.3万台](https://chejiahao.autohome.com.cn/info/26685294#pvareaid=6834132)
-15. [小米申报8款汽车商标](https://chejiahao.autohome.com.cn/info/26687767#pvareaid=6834132)
+8. [宏光MINIEV第200万辆整车下线](http://www.autohome.com.cn/news/202610/1317871.html)
+9. [启源Q07天枢领航版限时12.98万起](http://www.autohome.com.cn/news/202610/1317869.html)
+10. [吉利银河星舰8谍照曝光](http://www.autohome.com.cn/news/202610/1317861.html)
+11. [吉利首款Robotaxi样车下线](http://www.autohome.com.cn/news/202610/1317881.html)
+12. [问界起诉57粉博主索赔100万](https://chejiahao.autohome.com.cn/info/26685018#pvareaid=6834132)
+13. [全网最听劝董事长离职](https://chejiahao.autohome.com.cn/info/26685278#pvareaid=6834132)
+14. [2027款吉利缤越超能版实车亮相](http://www.autohome.com.cn/news/202610/1317879.html)
+15. [小米申请SU9 LUX商标](http://www.autohome.com.cn/news/202610/1317845.html)
 16. [iCAR V25预售13.98万起](https://chejiahao.autohome.com.cn/info/26683162#pvareaid=6834132)
-17. [萤火虫新车型10月23日上市](http://www.autohome.com.cn/news/202610/1317854.html)
+17. [小米申报8款汽车商标](https://chejiahao.autohome.com.cn/info/26687767#pvareaid=6834132)
 18. [劳斯莱斯全新纯电SUV国内谍照](http://www.autohome.com.cn/news/202610/1317873.html)
-19. [极狐问道V9迎来OTA升级](http://www.autohome.com.cn/news/202610/1317883.html)
-20. [吉利首款原生Robotaxi样车下线](http://www.autohome.com.cn/news/202610/1317881.html)
+19. [萤火虫新车型10月23日上市](http://www.autohome.com.cn/news/202610/1317854.html)
+20. [极狐问道V9迎来OTA升级](http://www.autohome.com.cn/news/202610/1317883.html)
 21. [智界计划独立上市](http://www.autohome.com.cn/news/202610/1317850.html)
-22. [小鹏MONAL03法国首台交付](https://chejiahao.autohome.com.cn/info/26689361#pvareaid=6834132)
-23. [大众智驾族谱解读](http://www.autohome.com.cn/drive/202610/1317844.html)
+22. [小鹏MONAL03在法国完成首台交付](https://chejiahao.autohome.com.cn/info/26689361#pvareaid=6834132)
+23. [智己LS8NEO纯电10月29日预售](http://club.autohome.com.cn/bbs/thread/7ef2ce06b5cfe884/116475112-1.html)
 24. [郑州日产全新NV200谍照曝光](http://www.autohome.com.cn/news/202610/1317788.html)
 25. [马斯克明年向全美儿童送SpaceX股票](https://chejiahao.autohome.com.cn/info/26686375#pvareaid=6834132)
-26. [消息称大众计划到 2030 年前冻结薪资](https://chejiahao.autohome.com.cn/info/26686490#pvareaid=6834132)
+26. [大众智驾族谱解读](http://www.autohome.com.cn/drive/202610/1317844.html)
 27. [梅赛德斯AMG GT SUV首发](http://www.autohome.com.cn/news/202610/1317833.html)
 28. [男子驾车故意与货车并排压速堵路](https://chejiahao.autohome.com.cn/info/26681026#pvareaid=6834132)
 29. [Waymo计划明年底车队规模扩至2万辆](https://chejiahao.autohome.com.cn/info/26686203#pvareaid=6834132)
