@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-20 12:13:48
+> 更新时间：2026-10-20 13:12:10
 
 ## 最新帖子
 
-1. [对象状态与操作合法性异常【C# Exception 详解系列（二）】](https://www.cnblogs.com/hnzhengfy/p/23360696/Exception_d2)
-2. [Koog(7)——模型调用的输入域输出：多模态、参数、流式与结构化](https://www.cnblogs.com/joy99/p/23341378)
-3. [大模型 Temperature 和 Top-p 到底有什么区别？一篇讲透原理与调参](https://www.cnblogs.com/codigger/p/23369656)
-4. [从副本集到分片：百亿级文档数据的KES架构边界](https://www.cnblogs.com/dicengwanjialaozhang/p/23369329)
-5. [Oracle 等待事件：从时间归因到问题闭环的排查方法论](https://www.cnblogs.com/liuziyi1/p/23368435)
-6. [别再滥用设计模式：用函数对象和新语言特性做“降维替代”](https://www.cnblogs.com/apachecn/p/23368033)
-7. [百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成](https://www.cnblogs.com/zrui-xyu/p/23367975)
-8. [13、数据通信转发架构：报文是如何被“转发“的](https://www.cnblogs.com/suhanmo/p/23367828)
-9. [从 JSON 到 Word：用 Python 把结构化数据渲染成可读文档](https://www.cnblogs.com/jazz-z/p/23367678)
-10. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
-11. [第五章：其余页面与全篇收束 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23357377)
-12. [为什么越来越多人用MinerU？](https://www.cnblogs.com/12lisu/p/23367082)
-13. [【译】Visual Studio Debugger Agentic Workflow 迎来新的测试驱式排查工作流](https://www.cnblogs.com/MeteorSeed/p/23361222)
-14. [让小车沿线转得顺：循迹位置环 PID](https://www.cnblogs.com/zw-awa/p/23366990)
-15. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
-16. [一张照片里的多件文物，怎么给每件单独出图？四种本地方案全对比](https://www.cnblogs.com/zhenl/p/23366803)
-17. [用AI一键生成设备导览步骤动作与发布全流程](https://www.cnblogs.com/startechnology/p/23366655)
-18. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
-19. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
-20. [软件离线部署前提：从镜像打包到导入的完整流程](https://www.cnblogs.com/jyzhao/p/23365837)
+1. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
+2. [对象状态与操作合法性异常【C# Exception 详解系列（二）】](https://www.cnblogs.com/hnzhengfy/p/23360696/Exception_d2)
+3. [Koog(7)——模型调用的输入域输出：多模态、参数、流式与结构化](https://www.cnblogs.com/joy99/p/23341378)
+4. [大模型 Temperature 和 Top-p 到底有什么区别？一篇讲透原理与调参](https://www.cnblogs.com/codigger/p/23369656)
+5. [从副本集到分片：百亿级文档数据的KES架构边界](https://www.cnblogs.com/dicengwanjialaozhang/p/23369329)
+6. [Oracle 等待事件：从时间归因到问题闭环的排查方法论](https://www.cnblogs.com/liuziyi1/p/23368435)
+7. [别再滥用设计模式：用函数对象和新语言特性做“降维替代”](https://www.cnblogs.com/apachecn/p/23368033)
+8. [百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成](https://www.cnblogs.com/zrui-xyu/p/23367975)
+9. [13、数据通信转发架构：报文是如何被“转发“的](https://www.cnblogs.com/suhanmo/p/23367828)
+10. [从 JSON 到 Word：用 Python 把结构化数据渲染成可读文档](https://www.cnblogs.com/jazz-z/p/23367678)
+11. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
+12. [第五章：其余页面与全篇收束 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23357377)
+13. [为什么越来越多人用MinerU？](https://www.cnblogs.com/12lisu/p/23367082)
+14. [【译】Visual Studio Debugger Agentic Workflow 迎来新的测试驱式排查工作流](https://www.cnblogs.com/MeteorSeed/p/23361222)
+15. [让小车沿线转得顺：循迹位置环 PID](https://www.cnblogs.com/zw-awa/p/23366990)
+16. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
+17. [一张照片里的多件文物，怎么给每件单独出图？四种本地方案全对比](https://www.cnblogs.com/zhenl/p/23366803)
+18. [用AI一键生成设备导览步骤动作与发布全流程](https://www.cnblogs.com/startechnology/p/23366655)
+19. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
+20. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [使用 .NET 和 Avalonia 构建高性能 Agent 桌面客户端](https://www.cnblogs.com/token-ai/p/23350452/tkcode-dotnet-avalonia-agent)
-2. [一文搞懂 Agent Sandbox（沙箱）：为什么 AI 不能随便操作你的电脑？](https://www.cnblogs.com/Tomorrowland/p/23347321)
-3. [上周热点回顾（10.12-10.18）](https://www.cnblogs.com/cmt/p/23353532)
-4. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
-5. [Spring Boot 3 + Vue 3 高校选修课系统：用 Redis + Lua 彻底解决选课超卖](https://www.cnblogs.com/huangrenhui/p/23353131)
-6. [技术方案怎么用AI写？四段Prompt链加3个可抄模板](https://www.cnblogs.com/uniqueDong/p/23354526)
+2. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
+3. [一文搞懂 Agent Sandbox（沙箱）：为什么 AI 不能随便操作你的电脑？](https://www.cnblogs.com/Tomorrowland/p/23347321)
+4. [上周热点回顾（10.12-10.18）](https://www.cnblogs.com/cmt/p/23353532)
+5. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
+6. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
