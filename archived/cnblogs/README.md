@@ -1,22 +1,22 @@
 # 博客园热榜
 
-> 更新时间：2026-10-20 10:16:07
+> 更新时间：2026-10-20 11:14:28
 
 ## 最新帖子
 
-1. [别再滥用设计模式：用函数对象和新语言特性做“降维替代”](https://www.cnblogs.com/apachecn/p/23368033)
-2. [venv 详解](https://www.cnblogs.com/zjdxr-up/p/23331028)
-3. [百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成](https://www.cnblogs.com/zrui-xyu/p/23367975)
-4. [学习NOTE 12——矩阵](https://www.cnblogs.com/T-M-T/p/23367883)
+1. [从副本集到分片：百亿级文档数据的KES架构边界](https://www.cnblogs.com/dicengwanjialaozhang/p/23369329)
+2. [Oracle 等待事件：从时间归因到问题闭环的排查方法论](https://www.cnblogs.com/liuziyi1/p/23368435)
+3. [别再滥用设计模式：用函数对象和新语言特性做“降维替代”](https://www.cnblogs.com/apachecn/p/23368033)
+4. [百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成](https://www.cnblogs.com/zrui-xyu/p/23367975)
 5. [13、数据通信转发架构：报文是如何被“转发“的](https://www.cnblogs.com/suhanmo/p/23367828)
 6. [从 JSON 到 Word：用 Python 把结构化数据渲染成可读文档](https://www.cnblogs.com/jazz-z/p/23367678)
-7. [我把控件大全源码喂给AI/他给我写了一堆牛逼的控件/太屌了](https://www.cnblogs.com/feiyangqingyun/p/23367533)
-8. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
-9. [第五章：其余页面与全篇收束 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23357377)
-10. [为什么越来越多人用MinerU？](https://www.cnblogs.com/12lisu/p/23367082)
-11. [【译】Visual Studio Debugger Agentic Workflow 迎来新的测试驱式排查工作流](https://www.cnblogs.com/MeteorSeed/p/23361222)
-12. [让小车沿线转得顺：循迹位置环 PID](https://www.cnblogs.com/zw-awa/p/23366990)
-13. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
+7. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
+8. [第五章：其余页面与全篇收束 ⭐教你读懂 Nsight Compute 报告 系列合集⭐](https://www.cnblogs.com/nibel/p/23357377)
+9. [为什么越来越多人用MinerU？](https://www.cnblogs.com/12lisu/p/23367082)
+10. [【译】Visual Studio Debugger Agentic Workflow 迎来新的测试驱式排查工作流](https://www.cnblogs.com/MeteorSeed/p/23361222)
+11. [让小车沿线转得顺：循迹位置环 PID](https://www.cnblogs.com/zw-awa/p/23366990)
+12. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
+13. [一张照片里的多件文物，怎么给每件单独出图？四种本地方案全对比](https://www.cnblogs.com/zhenl/p/23366803)
 14. [用AI一键生成设备导览步骤动作与发布全流程](https://www.cnblogs.com/startechnology/p/23366655)
 15. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
 16. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
