@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-20 14:54:01
+> 更新时间：2026-10-20 15:43:29
 
 ## 热新闻
 
@@ -14,13 +14,13 @@
 8. [众声丨以实践成果申请专业学位，让评价标尺更适配应用型人才成长](https://www.thepaper.cn/newsDetail_forward_34282716)
 9. [人民锐评：对“精日”言行零容忍](https://www.thepaper.cn/newsDetail_forward_34281614)
 10. [冯远征称“招不到黄胖子”，业内专家：多方因素造成艺考“颜值内卷”](https://www.thepaper.cn/newsDetail_forward_34287229)
-11. [一记来自星链的警钟：乌克兰之后，轮到谁担心被“卡脖子”？](https://www.thepaper.cn/newsDetail_forward_34279646)
-12. [外交部提醒赴法国中国公民加强安全防范](https://www.thepaper.cn/newsDetail_forward_34282817)
-13. [中国驻菲律宾大使就菲反华政客污蔑抹黑中方言论向菲外长提出严正交涉](https://www.thepaper.cn/newsDetail_forward_34283051)
-14. [言短意长｜程序正义值得尊重，但不能成为学术不端调查效率的挡箭牌](https://www.thepaper.cn/newsDetail_forward_34281796)
-15. [英方称将共同应对中国汽车产业占主导地位，商务部回应](https://www.thepaper.cn/newsDetail_forward_34283182)
-16. [系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径](https://www.thepaper.cn/newsDetail_forward_34282923)
-17. [新华社：特朗普为何此时“力挺”内塔尼亚胡](https://www.thepaper.cn/newsDetail_forward_34285005)
-18. [一线城市二手房价格连续7个月环比上涨，全国新建商品房库存持续下降](https://www.thepaper.cn/newsDetail_forward_34280880)
-19. [马上评｜互联网时代的舆情不等人，高校调查通报当快则快](https://www.thepaper.cn/newsDetail_forward_34281777)
-20. [明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成](https://www.thepaper.cn/newsDetail_forward_34282214)
+11. [外交部提醒赴法国中国公民加强安全防范](https://www.thepaper.cn/newsDetail_forward_34282817)
+12. [中国驻菲律宾大使就菲反华政客污蔑抹黑中方言论向菲外长提出严正交涉](https://www.thepaper.cn/newsDetail_forward_34283051)
+13. [言短意长｜程序正义值得尊重，但不能成为学术不端调查效率的挡箭牌](https://www.thepaper.cn/newsDetail_forward_34281796)
+14. [英方称将共同应对中国汽车产业占主导地位，商务部回应](https://www.thepaper.cn/newsDetail_forward_34283182)
+15. [系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径](https://www.thepaper.cn/newsDetail_forward_34282923)
+16. [新华社：特朗普为何此时“力挺”内塔尼亚胡](https://www.thepaper.cn/newsDetail_forward_34285005)
+17. [一线城市二手房价格连续7个月环比上涨，全国新建商品房库存持续下降](https://www.thepaper.cn/newsDetail_forward_34280880)
+18. [马上评｜互联网时代的舆情不等人，高校调查通报当快则快](https://www.thepaper.cn/newsDetail_forward_34281777)
+19. [明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成](https://www.thepaper.cn/newsDetail_forward_34282214)
+20. [支持和推动三区域打造科技金融协同发展高地，多部门出台重磅文件](https://www.thepaper.cn/newsDetail_forward_34281785)
