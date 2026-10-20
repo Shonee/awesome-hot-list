@@ -1,13 +1,13 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-21 05:12:26
+> 更新时间：2026-10-21 06:12:02
 
 ## 人气热门
 
-1. [开机慢卡顿电脑清理  v1.1](https://www.52pojie.cn/thread-2132821-1-1.html)
-2. [Cppcryptfs 文件夹挂载加密 v1.4.5.0 汉化版](https://www.52pojie.cn/thread-2133267-1-1.html)
-3. [《剪映悬浮球助手V2.3》支持最新剪映](https://www.52pojie.cn/thread-2132915-1-1.html)
-4. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
+1. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
+2. [开机慢卡顿电脑清理  v1.1](https://www.52pojie.cn/thread-2132821-1-1.html)
+3. [Cppcryptfs 文件夹挂载加密 v1.4.5.0 汉化版](https://www.52pojie.cn/thread-2133267-1-1.html)
+4. [《剪映悬浮球助手V2.3》支持最新剪映](https://www.52pojie.cn/thread-2132915-1-1.html)
 5. [耳机监听器&#128226;V1.5.3  可听取手机周边的声音](https://www.52pojie.cn/thread-2133224-1-1.html)
 6. [Everything 1.5.0.1424b 简体中文完全汉化绿色版(高亮搜索关键词)](https://www.52pojie.cn/thread-2132740-1-1.html)
 7. [臻熙会员管家，1019更新版本2.6.1(增账本功能）](https://www.52pojie.cn/thread-2131942-1-1.html)

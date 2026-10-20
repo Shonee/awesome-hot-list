@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-21 05:12:41
+> 更新时间：2026-10-21 06:12:21
 
 ## 日榜
 
@@ -13,6 +13,6 @@
 7. [消息称引望不允许车企补贴华为乾崑智驾 ADS 软件费用，持续收费才能维护庞大研发力量](https://www.ithome.com/1/015/383.htm)
 8. [华为路由 X2 系列预售：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起](https://www.ithome.com/1/015/187.htm)
 9. [曝华为畅享 100 Pro Max 手机 512GB 版本独享麒麟 8020 处理器，标准版选用麒麟 8000S 芯片](https://www.ithome.com/1/015/442.htm)
-10. [华为 Pura X View 阔直板手机率先开更鸿蒙 HarmonyOS 7.0.0.111SP8，新增 iPhone 双机互联等功能](https://www.ithome.com/1/015/367.htm)
-11. [iPhone 18 Pro Max 换新立减 1300 元实付 9699 元 12 期免息，旧机估值满 20 元即可](https://www.ithome.com/1/015/588.htm)
+10. [iPhone 18 Pro Max 换新立减 1300 元实付 9699 元 12 期免息，旧机估值满 20 元即可](https://www.ithome.com/1/015/588.htm)
+11. [华为 Pura X View 阔直板手机率先开更鸿蒙 HarmonyOS 7.0.0.111SP8，新增 iPhone 双机互联等功能](https://www.ithome.com/1/015/367.htm)
 12. [1399 → 679 元起：小米 Sound 2 Pro 音箱京东新低，两分频架构 + 可组 4.0 环绕声](https://www.ithome.com/1/015/300.htm)
