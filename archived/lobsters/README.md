@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-20 08:34:13
+> 更新时间：2026-10-20 09:23:51
 
 ## Hottest
 
@@ -20,12 +20,12 @@
 14. [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 15. [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 16. [Men in tech #YesAllMen](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
-17. [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/)
-18. [It's enough - vibecoding tag crossed from useless to harmful](https://lobste.rs/s/ggpwfi)
-19. [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
-20. [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
-21. [Superoptimizing an FPU emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
-22. [ARP! Tell your network to explain itself](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
-23. [Inline rendering with document.currentScript](https://leanrada.com/notes/inline-rendering-currentscript/)
-24. [Outside the Scope of Our Support](https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/)
-25. [August in Servo: CSS Grid, text selection, and more](https://servo.org/blog/2026/10/09/august-in-servo/)
+17. [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
+18. [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/)
+19. [Do web components have a future if nobody is writing them?](https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/)
+20. [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
+21. [It's enough - vibecoding tag crossed from useless to harmful](https://lobste.rs/s/ggpwfi)
+22. [Superoptimizing an FPU emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
+23. [Outside the Scope of Our Support](https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/)
+24. [ARP! Tell your network to explain itself](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
+25. [Inline rendering with document.currentScript](https://leanrada.com/notes/inline-rendering-currentscript/)

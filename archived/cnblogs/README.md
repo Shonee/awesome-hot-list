@@ -1,22 +1,22 @@
 # 博客园热榜
 
-> 更新时间：2026-10-20 08:32:31
+> 更新时间：2026-10-20 09:22:45
 
 ## 最新帖子
 
-1. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
-2. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
-3. [关于 x1 y1 yn 变量名冲突说法的指正](https://www.cnblogs.com/cao2333/p/23363066)
-4. [2026西电长安杯wp（手机取证）](https://www.cnblogs.com/Yhsec/p/23348878)
-5. [智云先锋  AI重塑陈塘关，天翼云AI创作平台DramaFlow赋能AI创作新范式！](https://www.cnblogs.com/developer-tianyiyun/p/23362560)
-6. [开源剪切板历史工具 《clip》怎么使用，详细图解](https://www.cnblogs.com/Doyoung/p/23362139)
-7. [参数校验类异常（Argument Exception）【C# Exception 详解系列一】](https://www.cnblogs.com/hnzhengfy/p/23318039/Exception_d1)
-8. [周一上线 | DeepSeek 开始卷“许愿式编程”，Agent 手机来了，Character.AI 申请破产](https://www.cnblogs.com/Qiniu-developer/p/23361894)
-9. [一个模型搞定 RAG 向量化，Python 直接跑（BAAI/bge-m3）](https://www.cnblogs.com/yclh/p/23361848)
-10. [开源了一个 Windows 脚本管理器「不忙脚本盒子」：自动配环境，让多语言脚本图形化运行](https://www.cnblogs.com/hemiao-1/p/23360844)
-11. [学习NOTE 11——欧拉路/图](https://www.cnblogs.com/T-M-T/p/23359166)
-12. [三维 GIS 离线缓存实战：逆向 CesiumOfflineCache，并亲手为它补上"自动更新"能力](https://www.cnblogs.com/ChineseLiao/p/23359070)
-13. [「一本通 4.2 例 3」与众不同 题解](https://www.cnblogs.com/Emoji-happy/p/23358961)
+1. [让小车沿线转得顺：循迹位置环 PID](https://www.cnblogs.com/zw-awa/p/23366990)
+2. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
+3. [用AI一键生成设备导览步骤动作与发布全流程](https://www.cnblogs.com/startechnology/p/23366655)
+4. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
+5. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
+6. [软件离线部署前提：从镜像打包到导入的完整流程](https://www.cnblogs.com/jyzhao/p/23365837)
+7. [关于 x1 y1 yn 变量名冲突说法的指正](https://www.cnblogs.com/cao2333/p/23363066)
+8. [开源剪切板历史工具 《clip》怎么使用，详细图解](https://www.cnblogs.com/Doyoung/p/23362139)
+9. [参数校验类异常（Argument Exception）【C# Exception 详解系列一】](https://www.cnblogs.com/hnzhengfy/p/23318039/Exception_d1)
+10. [周一上线 | DeepSeek 开始卷“许愿式编程”，Agent 手机来了，Character.AI 申请破产](https://www.cnblogs.com/Qiniu-developer/p/23361894)
+11. [一个模型搞定 RAG 向量化，Python 直接跑（BAAI/bge-m3）](https://www.cnblogs.com/yclh/p/23361848)
+12. [开源了一个 Windows 脚本管理器「不忙脚本盒子」：桌面版篡改猴，多语言脚本声明式接入](https://www.cnblogs.com/hemiao-1/p/23360844)
+13. [三维 GIS 离线缓存实战：逆向 CesiumOfflineCache，并亲手为它补上"自动更新"能力](https://www.cnblogs.com/ChineseLiao/p/23359070)
 14. [StreamMark 入门：从 NuGet 安装到 Avalonia 原生流式 Markdown 渲染](https://www.cnblogs.com/token-ai/p/23358692)
 15. [2026 ICPC 亚洲区域赛西安站游记](https://www.cnblogs.com/joyce-peng/p/23358595)
 16. [【HarmonyOS SDK Skills】扫码能力一键构建，系统级高精度扫码秒实现](https://www.cnblogs.com/HarmonyOSSDK/p/23358411)
