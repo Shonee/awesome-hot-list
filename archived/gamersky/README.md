@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-20 17:14:08
+> 更新时间：2026-10-20 18:12:31
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [《COD23》战役演员确认！“嘎子”幻想中的自己](https://www.gamersky.com/news/202610/2230769.shtml)
 10. [时隔仅7天 小孩又双叒叕夺冠了！4-0复仇日本对手](https://www.gamersky.com/news/202610/2230473.shtml)
 11. [法国骚乱游戏店老板孤身守店爆红！网友P图超赛致敬](https://www.gamersky.com/news/202610/2230613.shtml)
-12. [法国暴动 黑哥们直接零元购PS5 轻松好似下楼领鸡蛋](https://www.gamersky.com/news/202610/2230968.shtml)
-13. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
+12. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
+13. [法国暴动 黑哥们直接零元购PS5 轻松好似下楼领鸡蛋](https://www.gamersky.com/news/202610/2230968.shtml)
 14. [《使命召唤现代战争》系列确认完结！未来新作要变天](https://www.gamersky.com/news/202610/2230281.shtml)
 15. [IGN 8分！《使命召唤23》战役：重启后最好的一部](https://www.gamersky.com/news/202610/2230031.shtml)
