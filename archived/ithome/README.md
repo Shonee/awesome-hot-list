@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-20 20:19:52
+> 更新时间：2026-10-20 21:13:47
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [微软用 Mac 制作 Windows Insider 12 周年纪念壁纸，引发网友讨论](https://www.ithome.com/1/015/052.htm)
 7. [张雪官宣首款电摩明年上市，目标直指全球头部](https://www.ithome.com/1/015/019.htm)
 8. [多省份发生用户访问请求异常跳转至博彩网站事件，国家互联网应急中心公布调查情况](https://www.ithome.com/1/015/252.htm)
-9. [MiniMax M3.1 Flash 上线：速度提升 3 倍，价格降低 70%](https://www.ithome.com/1/015/013.htm)
-10. [全新深蓝 S05 新增智能生态仪表屏：4.39 英寸 OLED，显示核心行车信息](https://www.ithome.com/1/015/041.htm)
-11. [华为路由 X2 系列预售：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起](https://www.ithome.com/1/015/187.htm)
+9. [全新深蓝 S05 新增智能生态仪表屏：4.39 英寸 OLED，显示核心行车信息](https://www.ithome.com/1/015/041.htm)
+10. [华为路由 X2 系列预售：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起](https://www.ithome.com/1/015/187.htm)
+11. [消息称引望不允许车企补贴华为乾崑智驾 ADS 软件费用，持续收费才能维护庞大研发力量](https://www.ithome.com/1/015/383.htm)
 12. [圆通回应“客户取消快递订单被记为投诉”事件：向客户道歉，不存在“咨询即处罚”“进线算投诉”情况](https://www.ithome.com/1/015/051.htm)
