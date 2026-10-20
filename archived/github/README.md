@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-20 23:12:27
+> 更新时间：2026-10-21 05:38:03
 
 ## 每日趋势
 
@@ -11,14 +11,12 @@
 5. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 6. [ruflo](https://github.com/ruvnet/ruflo)
 7. [graphify](https://github.com/Graphify-Labs/graphify)
-8. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
-9. [opencode](https://github.com/anomalyco/opencode)
-10. [agency-agents](https://github.com/msitarzewski/agency-agents)
-11. [headroom](https://github.com/headroomlabs-ai/headroom)
-12. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-13. [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
-14. [Kronos](https://github.com/shiyu-coder/Kronos)
-15. [vllm](https://github.com/vllm-project/vllm)
+8. [opencode](https://github.com/anomalyco/opencode)
+9. [agency-agents](https://github.com/msitarzewski/agency-agents)
+10. [headroom](https://github.com/headroomlabs-ai/headroom)
+11. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+12. [Kronos](https://github.com/shiyu-coder/Kronos)
+13. [vllm](https://github.com/vllm-project/vllm)
 
 ## 每周趋势
 
@@ -32,11 +30,10 @@
 8. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
 9. [ruflo](https://github.com/ruvnet/ruflo)
 10. [skills](https://github.com/android/skills)
-11. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
-12. [AnyPS5](https://github.com/boykopovar/AnyPS5)
-13. [plugins](https://github.com/cursor/plugins)
-14. [diagram-design](https://github.com/cathrynlavery/diagram-design)
-15. [artcraft](https://github.com/storytold/artcraft)
+11. [AnyPS5](https://github.com/boykopovar/AnyPS5)
+12. [plugins](https://github.com/cursor/plugins)
+13. [diagram-design](https://github.com/cathrynlavery/diagram-design)
+14. [artcraft](https://github.com/storytold/artcraft)
 
 ## 每月趋势
 
@@ -129,24 +126,22 @@
 2. [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations)
 3. [super-board](https://github.com/EricTechPro/super-board)
 4. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
-5. [Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack)
-6. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-7. [styleguide](https://github.com/google/styleguide)
-8. [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
-9. [awesome-english](https://github.com/yvoronoy/awesome-english)
-10. [NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch)
-11. [prompts.chat](https://github.com/f/prompts.chat)
+5. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+6. [styleguide](https://github.com/google/styleguide)
+7. [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+8. [awesome-english](https://github.com/yvoronoy/awesome-english)
+9. [NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch)
+10. [prompts.chat](https://github.com/f/prompts.chat)
 
 ## JavaScript
 
-1. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
-2. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
-3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
-4. [openGym](https://github.com/DuarteSantos8/openGym)
-5. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-6. [react](https://github.com/react/react)
-7. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
-8. [ego-lite](https://github.com/citrolabs/ego-lite)
-9. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
-10. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-11. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+1. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
+2. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+3. [openGym](https://github.com/DuarteSantos8/openGym)
+4. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+5. [react](https://github.com/react/react)
+6. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
+7. [ego-lite](https://github.com/citrolabs/ego-lite)
+8. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+9. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+10. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
