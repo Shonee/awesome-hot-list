@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-20 15:43:29
+> 更新时间：2026-10-20 16:16:37
 
 ## 热新闻
 
@@ -10,10 +10,10 @@
 4. [四川马边县通报“硫磺熏制鲜竹笋”：对涉事人员依法开展调查取证](https://www.thepaper.cn/newsDetail_forward_34282643)
 5. [圆通致歉“客户取消快递订单被记为投诉”事件：不存在“咨询即处罚”等情况，将强化管理和培训](https://www.thepaper.cn/newsDetail_forward_34283747)
 6. [读中本贯通的高分生们](https://www.thepaper.cn/newsDetail_forward_34280094)
-7. [马上评｜孙颖莎“四不”声明是给饭圈的一味清醒剂](https://www.thepaper.cn/newsDetail_forward_34280699)
-8. [众声丨以实践成果申请专业学位，让评价标尺更适配应用型人才成长](https://www.thepaper.cn/newsDetail_forward_34282716)
-9. [人民锐评：对“精日”言行零容忍](https://www.thepaper.cn/newsDetail_forward_34281614)
-10. [冯远征称“招不到黄胖子”，业内专家：多方因素造成艺考“颜值内卷”](https://www.thepaper.cn/newsDetail_forward_34287229)
+7. [众声丨以实践成果申请专业学位，让评价标尺更适配应用型人才成长](https://www.thepaper.cn/newsDetail_forward_34282716)
+8. [人民锐评：对“精日”言行零容忍](https://www.thepaper.cn/newsDetail_forward_34281614)
+9. [冯远征称“招不到黄胖子”，业内专家：多方因素造成艺考“颜值内卷”](https://www.thepaper.cn/newsDetail_forward_34287229)
+10. [马上评｜星巴克明确消费入座，有边界感才有体面](https://www.thepaper.cn/newsDetail_forward_34288084)
 11. [外交部提醒赴法国中国公民加强安全防范](https://www.thepaper.cn/newsDetail_forward_34282817)
 12. [中国驻菲律宾大使就菲反华政客污蔑抹黑中方言论向菲外长提出严正交涉](https://www.thepaper.cn/newsDetail_forward_34283051)
 13. [言短意长｜程序正义值得尊重，但不能成为学术不端调查效率的挡箭牌](https://www.thepaper.cn/newsDetail_forward_34281796)

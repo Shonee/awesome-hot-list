@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-20 15:43:35
+> 更新时间：2026-10-20 16:16:44
 
 ## 每日热点榜
 
@@ -12,23 +12,24 @@
 6. [小米申请SU9 LUX商标](http://www.autohome.com.cn/news/202610/1317845.html)
 7. [iCARV25预售13.98万起](https://chejiahao.autohome.com.cn/info/26680374#pvareaid=6834132)
 8. [全网最听劝董事长离职](https://chejiahao.autohome.com.cn/info/26685278#pvareaid=6834132)
-9. [萤火虫大电池版将于10月23日上市](http://www.autohome.com.cn/news/202610/1317854.html)
-10. [五菱宏光MINIEV第200万辆下线](http://www.autohome.com.cn/news/202610/1317871.html)
-11. [工信部拟规范车灯使用公开征求意见](http://www.autohome.com.cn/news/202610/1317870.html)
+9. [东风猛士X700预售24.98万起](http://www.autohome.com.cn/news/202610/1317859.html)
+10. [萤火虫大电池版将于10月23日上市](http://www.autohome.com.cn/news/202610/1317854.html)
+11. [五菱宏光MINIEV第200万辆下线](http://www.autohome.com.cn/news/202610/1317871.html)
 12. [大众智驾族谱解读](http://www.autohome.com.cn/drive/202610/1317844.html)
-13. [郑州日产全新NV200谍照曝光](http://www.autohome.com.cn/news/202610/1317788.html)
-14. [奔驰英伟达深化战略合作](http://www.autohome.com.cn/news/202610/1317872.html)
+13. [小米新车密集曝光8款商标待发](https://chejiahao.autohome.com.cn/info/26687767#pvareaid=6834132)
+14. [郑州日产全新NV200谍照曝光](http://www.autohome.com.cn/news/202610/1317788.html)
 15. [智界计划独立上市](http://www.autohome.com.cn/news/202610/1317850.html)
-16. [小米新车密集曝光8款商标待发](https://chejiahao.autohome.com.cn/info/26687767#pvareaid=6834132)
+16. [奔驰英伟达深化战略合作](http://www.autohome.com.cn/news/202610/1317872.html)
 17. [奔驰高管谈G级未来规划](https://chejiahao.autohome.com.cn/info/26685430#pvareaid=6834132)
 18. [马斯克明年向全美儿童送SpaceX股票](https://chejiahao.autohome.com.cn/info/26686375#pvareaid=6834132)
 19. [梅赛德斯AMG GT SUV首发](http://www.autohome.com.cn/news/202610/1317833.html)
 20. [男子驾车故意与货车并排压速堵路](https://chejiahao.autohome.com.cn/info/26681026#pvareaid=6834132)
-21. [大众汽车拟冻结全球多数员工薪资至2030年](https://chejiahao.autohome.com.cn/info/26686490#pvareaid=6834132)
-22. [特斯拉FSD车主睡着撞警车](http://club.autohome.com.cn/bbs/thread/5a20ec41f809c914/116456517-1.html)
-23. [奔驰VLE巴黎车展遭小孩误启动](https://chejiahao.autohome.com.cn/info/26673853#pvareaid=6834132)
-24. [比亚迪第三代秦PLUS申报图公布](http://www.autohome.com.cn/news/202610/1317842.html)
-25. [新款问界M7申报信息](http://www.autohome.com.cn/news/202610/1317829.html)
-26. [特斯拉回应：不存在速成车](https://chejiahao.autohome.com.cn/info/26681959#pvareaid=6834132)
-27. [尚界H5/Z7/Z7T推出10月购车权益](http://www.autohome.com.cn/news/202610/1317840.html)
-28. [Stellantis计划在欧美增聘数百名工程师](https://chejiahao.autohome.com.cn/info/26681122#pvareaid=6834132)
+21. [消息称大众计划到 2030 年前冻结薪资](https://chejiahao.autohome.com.cn/info/26686490#pvareaid=6834132)
+22. [劳斯莱斯全新纯电SUV国内谍照](http://www.autohome.com.cn/news/202610/1317873.html)
+23. [特斯拉FSD车主睡着撞警车](http://club.autohome.com.cn/bbs/thread/5a20ec41f809c914/116456517-1.html)
+24. [奔驰VLE巴黎车展遭小孩误启动](https://chejiahao.autohome.com.cn/info/26673853#pvareaid=6834132)
+25. [比亚迪第三代秦PLUS申报图公布](http://www.autohome.com.cn/news/202610/1317842.html)
+26. [新款问界M7申报信息](http://www.autohome.com.cn/news/202610/1317829.html)
+27. [特斯拉回应：不存在速成车](https://chejiahao.autohome.com.cn/info/26681959#pvareaid=6834132)
+28. [尚界H5/Z7/Z7T推出10月购车权益](http://www.autohome.com.cn/news/202610/1317840.html)
+29. [Stellantis计划在欧美增聘数百名工程师](https://chejiahao.autohome.com.cn/info/26681122#pvareaid=6834132)
