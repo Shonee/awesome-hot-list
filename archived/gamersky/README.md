@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-21 01:14:07
+> 更新时间：2026-10-21 02:16:47
 
 ## 热点资讯排行
 
@@ -10,8 +10,8 @@
 4. [货轮沉没大量iPhone漂浮海面 预估总损失逾1亿美元](https://www.gamersky.com/news/202610/2230176.shtml)
 5. [日本新游开发9年自称被中国人破解！作者崩溃 不想干了](https://www.gamersky.com/news/202610/2231104.shtml)
 6. [法国暴乱动漫游戏店主死守店铺走红 赢得全网尊重](https://www.gamersky.com/news/202610/2230603.shtml)
-7. [《使命召唤》新作好评率达10年来最高！突破90%](https://www.gamersky.com/news/202610/2230261.shtml)
-8. [《COD23》战役演员确认！“嘎子”幻想中的自己](https://www.gamersky.com/news/202610/2230769.shtml)
+7. [《COD23》战役演员确认！“嘎子”幻想中的自己](https://www.gamersky.com/news/202610/2230769.shtml)
+8. [《使命召唤》新作好评率达10年来最高！突破90%](https://www.gamersky.com/news/202610/2230261.shtml)
 9. [日本开发者心态崩了：9年做的游戏遭中国人破解修改](https://www.gamersky.com/news/202610/2230372.shtml)
 10. [时隔仅7天 小孩又双叒叕夺冠了！4-0复仇日本对手](https://www.gamersky.com/news/202610/2230473.shtml)
 11. [法国骚乱游戏店老板孤身守店爆红！网友P图超赛致敬](https://www.gamersky.com/news/202610/2230613.shtml)

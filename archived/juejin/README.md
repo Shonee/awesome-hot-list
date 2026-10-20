@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-21 01:13:41
+> 更新时间：2026-10-21 02:16:24
 
 ## 热门文章
 
@@ -33,11 +33,11 @@
 27. [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964)
 28. [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825)
 29. [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873)
-30. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
-31. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
-32. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+30. [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578)
+31. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+32. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
 33. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
-34. [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578)
+34. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
 35. [调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%](https://juejin.cn/post/7698568843102617626)
 36. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
 37. [脱离 Android Studio：纯命令行开发 Android 相机 App 的实践与踩坑记录](https://juejin.cn/post/7697558807295213610)
@@ -45,12 +45,12 @@
 39. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
 40. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
 41. [Cursor转Codex大半个月实测：迁移成本、代码质量与那些没人说的隐性坑点](https://juejin.cn/post/7697474838379184138)
-42. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
+42. [Spring AI 生产级 Chat 接口：6 个开关、13 个坑，其中 2 个开关根本没生效](https://juejin.cn/post/7697446131198836779)
 43. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
 44. [FreeSWITCH 入门：把电话系统接入语音客服机器人](https://juejin.cn/post/7698044277813231625)
 45. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
 46. [只是选个照片，怎么留下了这么多访问记录？Flutter 图片选择器排查与优化实录](https://juejin.cn/post/7697558807295508522)
 47. [WebP 图片优化方案详解](https://juejin.cn/post/7697470958781333504)
-48. [Spring AI 生产级 Chat 接口：6 个开关、13 个坑，其中 2 个开关根本没生效](https://juejin.cn/post/7697446131198836779)
+48. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
 49. [DeepSeek V4 Pro 万字实测：1M上下文能装下整个代码库，但前端的拉胯还是没修好](https://juejin.cn/post/7673226470266159150)
 50. [机器人手机首日售罄，我看到的不是黑科技，而是一个时代的开始](https://juejin.cn/post/7673130401725693990)
