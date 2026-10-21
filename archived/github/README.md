@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-21 11:43:49
+> 更新时间：2026-10-21 18:12:33
 
 ## 每日趋势
 
@@ -16,9 +16,8 @@
 10. [headroom](https://github.com/headroomlabs-ai/headroom)
 11. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 12. [agents](https://github.com/wshobson/agents)
-13. [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
-14. [Kronos](https://github.com/shiyu-coder/Kronos)
-15. [vllm](https://github.com/vllm-project/vllm)
+13. [Kronos](https://github.com/shiyu-coder/Kronos)
+14. [vllm](https://github.com/vllm-project/vllm)
 
 ## 每周趋势
 

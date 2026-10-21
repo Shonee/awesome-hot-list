@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-21 17:14:28
+> 更新时间：2026-10-21 18:13:16
 
 ## 热点资讯排行
 
@@ -14,8 +14,8 @@
 8. [《赛博朋克2077》更新官宣！联动《边缘行者2》](https://www.gamersky.com/news/202610/2231955.shtml)
 9. [《使命召唤》新作好评率达10年来最高！突破90%](https://www.gamersky.com/news/202610/2230261.shtml)
 10. [日本开发者心态崩了：9年做的游戏遭中国人破解修改](https://www.gamersky.com/news/202610/2230372.shtml)
-11. [时隔仅7天 小孩又双叒叕夺冠了！4-0复仇日本对手](https://www.gamersky.com/news/202610/2230473.shtml)
-12. [索尼DEI争议大作爆改韩国油腻师姐](https://www.gamersky.com/news/202610/2232075.shtml)
+11. [索尼DEI争议大作爆改韩国油腻师姐](https://www.gamersky.com/news/202610/2232075.shtml)
+12. [时隔仅7天 小孩又双叒叕夺冠了！4-0复仇日本对手](https://www.gamersky.com/news/202610/2230473.shtml)
 13. [法国骚乱游戏店老板孤身守店爆红！网友P图超赛致敬](https://www.gamersky.com/news/202610/2230613.shtml)
 14. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
 15. [冯骥回应第一时间玩《影之刃零》：度日如年！](https://www.gamersky.com/news/202610/2231853.shtml)

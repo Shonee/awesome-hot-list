@@ -1,10 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-10-21 17:13:40
+> 更新时间：2026-10-21 18:12:37
 
 ## 最新帖子
 
-1. [面向 EB 级 AI 存储：JuiceFS 企业版架构演进](https://www.cnblogs.com/JuiceData/p/23389621)
+1. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
 2. [如何使用RDS Supabase后端BaaS能力：创表即生成API（Database Data API）](https://www.cnblogs.com/huaweiyun/p/23389190)
 3. [BM25 详解](https://www.cnblogs.com/zjdxr-up/p/23331060)
 4. [15、数据中心网络产业：从五层架构到智能无损网络](https://www.cnblogs.com/suhanmo/p/23387574)
