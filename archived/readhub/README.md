@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-21 11:44:07
+> 更新时间：2026-10-21 13:12:25
 
 ## 24 小时热榜
 
@@ -13,27 +13,27 @@
 7. [多邻国推出上海话课程](https://readhub.cn/topic/8xLP6SddOds?tab=daily)
 8. [B 站开启会员预售 联名卡 148 元大会员年卡折合 99 元起](https://readhub.cn/topic/8xLU5AOtunz?tab=daily)
 9. [智驾标志灯国标征求意见，拟采用蓝绿色专用光色](https://readhub.cn/topic/8xNHvLYwt67?tab=daily)
-10. [长鑫计划一年内新增超 10 万片 DRAM 月产能：缓解手机、PC 等短缺](https://readhub.cn/topic/8xN4iqk9Aj3?tab=daily)
-11. [张雪宣布首款电摩明年上市](https://readhub.cn/topic/8xMFdnlw891?tab=daily)
-12. [OpenAI 收购生物医疗企业 Orchestra Bio](https://readhub.cn/topic/8xODRGQdiTZ?tab=daily)
-13. [高盛大幅上调全球 AI 服务器等相关市场规模预测](https://readhub.cn/topic/8xNCa1EFUaG?tab=daily)
-14. [第 100 万辆吉利星愿下线 官方称其每分钟售出一辆](https://readhub.cn/topic/8xNB99YSnx3?tab=daily)
-15. [微信朋友圈点赞有彩蛋，腾讯客服回应称正在灰度测试](https://readhub.cn/topic/8xNoQyTaNqE?tab=daily)
-16. [OpenAI 升级 ChatGPT 浏览器扩展，支持跨标签页读取与自动化操作](https://readhub.cn/topic/8xN9hyd4r79?tab=daily)
-17. [多省份发生用户访问异常跳转博彩网站事件 国家互联网应急中心公布调查情况](https://readhub.cn/topic/8xNIegRU1m8?tab=daily)
-18. [美团推出 DeepSkill AI Agent 技能平台 已收录超 37 万验证技能工具](https://readhub.cn/topic/8xNLqcn18N9?tab=daily)
-19. [天猫「双 11」10 月 20 日晚 8 点正式开卖](https://readhub.cn/topic/8xN2vz9mTqF?tab=daily)
-20. [小天才手表上热搜被指封闭社交倒逼家长购买 客服回应](https://readhub.cn/topic/8xNOihwILX4?tab=daily)
-21. [高通将以绩效为导向在全球范围内裁员](https://readhub.cn/topic/8xNjRBN83Qj?tab=daily)
-22. [中国人民银行行长潘功胜会见桥水创始人瑞・达利欧](https://readhub.cn/topic/8xNAR16o80w?tab=daily)
-23. [摩根资管 5 亿人民币自购旗下首只主动 ETF 为公司近期最大单笔自购](https://readhub.cn/topic/8xNWfzSqtDc?tab=daily)
-24. [工信部：坚决防范不合理创新设计及未充分测试汽车产品入市](https://readhub.cn/topic/8xNWgYbzQmy?tab=daily)
-25. [QuestMobile 榜单发布：豆包 4.19 亿断层领先 千问增速 5076%](https://readhub.cn/topic/8xNEhjuqQdo?tab=daily)
-26. [中国微短剧正成为第四大全球性视听产品新业态](https://readhub.cn/topic/8xNOjKtJYC9?tab=daily)
-27. [韩路控诉被白嫖至少 400 万 汽车之家：已启动内部专项核查](https://readhub.cn/topic/8xNGVlwKTYH?tab=daily)
-28. [百度搭子 9 月月活 977 万，办公 Agent 季度增速第一](https://readhub.cn/topic/8xNQWMegXEO?tab=daily)
-29. [宇树科技提示行业商业化不及预期或存估值回归投资风险](https://readhub.cn/topic/8xNkVe4o7Q1?tab=daily)
-30. [主动 ETF 发行火速定档 场内投资生态迎来革新](https://readhub.cn/topic/8xOW1MSrJxY?tab=daily)
+10. [OpenAI 收购生物医疗企业 Orchestra Bio](https://readhub.cn/topic/8xODRGQdiTZ?tab=daily)
+11. [微信朋友圈点赞有彩蛋，腾讯客服回应称正在灰度测试](https://readhub.cn/topic/8xNoQyTaNqE?tab=daily)
+12. [小天才手表上热搜被指封闭社交倒逼家长购买 客服回应](https://readhub.cn/topic/8xNOihwILX4?tab=daily)
+13. [美团推出 DeepSkill AI Agent 技能平台 已收录超 37 万验证技能工具](https://readhub.cn/topic/8xNLqcn18N9?tab=daily)
+14. [OpenAI 升级 ChatGPT 浏览器扩展，支持跨标签页读取与自动化操作](https://readhub.cn/topic/8xN9hyd4r79?tab=daily)
+15. [高通将以绩效为导向在全球范围内裁员](https://readhub.cn/topic/8xNjRBN83Qj?tab=daily)
+16. [韩路控诉被白嫖至少 400 万 汽车之家：已启动内部专项核查](https://readhub.cn/topic/8xNGVlwKTYH?tab=daily)
+17. [工信部：坚决防范不合理创新设计及未充分测试汽车产品入市](https://readhub.cn/topic/8xNWgYbzQmy?tab=daily)
+18. [摩根资管 5 亿人民币自购旗下首只主动 ETF 为公司近期最大单笔自购](https://readhub.cn/topic/8xNWfzSqtDc?tab=daily)
+19. [QuestMobile 榜单发布：豆包 4.19 亿断层领先 千问增速 5076%](https://readhub.cn/topic/8xNEhjuqQdo?tab=daily)
+20. [百度搭子 9 月月活 977 万，办公 Agent 季度增速第一](https://readhub.cn/topic/8xNQWMegXEO?tab=daily)
+21. [中国微短剧正成为第四大全球性视听产品新业态](https://readhub.cn/topic/8xNOjKtJYC9?tab=daily)
+22. [宝马计划 2027 年底前裁员约 8000 人 优厚补偿引员工争相报名](https://readhub.cn/topic/8xNe5C7Lwa0?tab=daily)
+23. [宇树科技提示行业商业化不及预期或存估值回归投资风险](https://readhub.cn/topic/8xNkVe4o7Q1?tab=daily)
+24. [Claude 64 小时设计 31 万种蛋白，17 种通过实验验证](https://readhub.cn/topic/8xOh7UH2glm?tab=daily)
+25. [主动 ETF 发行火速定档 场内投资生态迎来革新](https://readhub.cn/topic/8xOW1MSrJxY?tab=daily)
+26. [马斯克称 SpaceX 与特斯拉成立委员会讨论合并 尚未敲定](https://readhub.cn/topic/8xOS6B48RJ1?tab=daily)
+27. [奥特曼提出超级智能发展三条终局路径](https://readhub.cn/topic/8xOh6U7SOtj?tab=daily)
+28. [OpenAI 推出 ChatGPT「锁定聊天」功能](https://readhub.cn/topic/8xObOEvcEYY?tab=daily)
+29. [《沙丘 3》内地 12 月 31 日上映，与《复联 5》内地档期错开](https://readhub.cn/topic/8xOmpnLsIJH?tab=daily)
+30. [SpaceX 首席财务官：新部署算力投资回收期不足一年](https://readhub.cn/topic/8xOq2MsKwzL?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [我们一直都看错了：一项颠覆性观点震动 AI 研究界](https://www.mittrchina.com/news/detail/17121)
-2. [AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报](https://www.aibase.com/zh/news/31771)
-3. [Spotify 年内已从推荐系统移除超 5000 万首 AI 垃圾歌曲](https://www.aibase.com/zh/news/31770)
-4. [Meta 旗下 AI 应用 Muse 上市 40 天美国下载量突破 1000 万](https://www.aibase.com/zh/news/31769)
-5. [OpenAI 上线 ChatGPT「锁定聊天」功能：四位数 PIN 码与生物识别双保险](https://www.aibase.com/zh/news/31764)
-6. [OpenAI 专治「古董代码」：COBOL 迁移准确率飙到 97.9%，银行老系统有救了](https://www.aibase.com/zh/news/31765)
-7. [谷歌为车载版 Gemini 接入个人智能：跨 Gmail、日历与地图打通全场景数据](https://www.aibase.com/zh/news/31767)
-8. [Salesforce 豪掷 56.6 亿美元收购 Braze：补上「实时互动」这块 AI 拼图](https://www.aibase.com/zh/news/31763)
-9. [Hugging Face 掌门人呛声 Netflix：把 AI 拍成「末日片」，受害方都不认](https://www.aibase.com/zh/news/31772)
-10. [王腾创业首款产品 ISHO Ring 智能戒指官宣：搭载 Apollo330B 芯片，10 月 29 日发布](https://www.aibase.com/zh/news/31773)
+1. [清华团队用 AI 造出世界最轻介观显微镜 仅重 1 克，小鼠奔跑、社交时也能看清大脑活动](https://www.mittrchina.com/news/detail/17122)
+2. [我们一直都看错了：一项颠覆性观点震动 AI 研究界](https://www.mittrchina.com/news/detail/17121)
+3. [AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报](https://www.aibase.com/zh/news/31771)
+4. [Spotify 年内已从推荐系统移除超 5000 万首 AI 垃圾歌曲](https://www.aibase.com/zh/news/31770)
+5. [Meta 旗下 AI 应用 Muse 上市 40 天美国下载量突破 1000 万](https://www.aibase.com/zh/news/31769)
+6. [OpenAI 上线 ChatGPT「锁定聊天」功能：四位数 PIN 码与生物识别双保险](https://www.aibase.com/zh/news/31764)
+7. [从安防到工业，海康威视底气从何而来](https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html)
+8. [OpenAI 专治「古董代码」：COBOL 迁移准确率飙到 97.9%，银行老系统有救了](https://www.aibase.com/zh/news/31765)
+9. [谷歌为车载版 Gemini 接入个人智能：跨 Gmail、日历与地图打通全场景数据](https://www.aibase.com/zh/news/31767)
+10. [游戏开发也能自我进化？RSIGame 让 AI 自主试玩、修复与迭代，27B 模型组合超 GPT-5.5 一次生成](https://news.qq.com/rain/a/20261021A076YL00)

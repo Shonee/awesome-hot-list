@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-21 12:14:29
+> 更新时间：2026-10-21 13:12:09
 
 ## 最新帖子
 
@@ -53,6 +53,6 @@
 1. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
 2. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
 3. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
-4. [上周热点回顾（10.12-10.18）](https://www.cnblogs.com/cmt/p/23353532)
-5. [在 VS Code 里自由切换 Copilot、Claude、Codex、OpenCode、Pi、Kimi、Qwen：任何 Agent 都能接](https://www.cnblogs.com/formulahendry/p/23353619)
-6. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
+4. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
+5. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
+6. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
