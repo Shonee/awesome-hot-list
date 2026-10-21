@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-21 14:55:56
+> 更新时间：2026-10-21 15:44:35
 
 ## 热点榜
 
 1. [政论专题片｜长征，永远在路上](https://view.inews.qq.com/a/20261020A07A5Q00)
-2. [故地启新程！长征路上，一路生“花”](https://view.inews.qq.com/a/20261021A038GH00)
-3. [医保钱包升级！个人账户资金如何跨省供亲属使用？一文看懂](https://view.inews.qq.com/a/20261021A032UV00)
-4. [海报丨12件长征文物背后的烽火往事](https://view.inews.qq.com/a/20261020A05CM400)
-5. [中国向阿联酋交付首架飞行汽车](https://view.inews.qq.com/a/20261021A032P800)
-6. [@所有人 满足这些条件 微信聊天记录才能当证据使用](https://view.inews.qq.com/a/20261021A02RIL00)
-7. [南水北调东线工程2026至2027年度调水启动#](https://view.inews.qq.com/a/20261021A04D7700)
-8. [长大后我就成了你：98年洪水中的抱树女孩成为警察](https://view.inews.qq.com/a/20261021V0394D00)
-9. [北方气温大面积创新低 多地寒意明显](https://view.inews.qq.com/a/20261021V062Q600)
-10. [“喝大水”火了 “大水”究竟是什么？疾控部门紧急提醒：别喝错了](https://view.inews.qq.com/a/20261021A042OZ00)
+2. [视频丨核能“充电宝”来了！](https://view.inews.qq.com/a/20261021A07IOD00)
+3. [中央气象台发布大风蓝色预警 北方多地迎降雪 部分地区开启供暖](https://view.inews.qq.com/a/20261021V07MOY00)
+4. [一组数字看震撼人心的伟大远征！](https://view.inews.qq.com/a/20261021A0614I00)
+5. [视频丨谷神星一号海射型遥八运载火箭发射成功](https://view.inews.qq.com/a/20261021A06OX300)
+6. [上班20分钟就挑衅闹事 央视揭新型黑恶劳务碰瓷](https://view.inews.qq.com/a/20261021V07BCC00)
+7. [@正在求职的你，警惕“央国企内推”骗局！](https://view.inews.qq.com/a/20261021A039YX00)
+8. [半年新增37所本科院校：职业教育的“学历升级”](https://view.inews.qq.com/a/20261021A01GC800)
+9. [视频丨国风体验升温 外国游客爱上“中式生活”](https://view.inews.qq.com/a/20261021A07ZMW00)
+10. [法治在线丨买得多≠消费者 “进货式网购”不适用退一赔三](https://view.inews.qq.com/a/20261021A083IM00)
 11. [不吃主食，能消除“碳水脸”？](https://view.inews.qq.com/a/20261021A0523L00)
-12. [送8个儿子去长征，她点灯等了26年](https://h5.news.qq.com/qqfile/tnewsh5/short-term/long-march-cultural-relic-show.html?disabletitlebar=1&from=xx)
-13. [中俄等18国发表联合声明：呼吁联合国秘书长组织审查“使用生化武器事件联合国秘书长调查机制”](https://view.inews.qq.com/a/20261021A05TTW00)
-14. [“手段特别残忍”，刘某奇被判死刑](https://view.inews.qq.com/a/20261020A0A33200)
-15. [顶住，千万别降价！专家喊话宁德时代：你一降价车企就降，继续内卷](https://view.inews.qq.com/a/20261021V03D3W00)
-16. [能用的椭圆仪倒贴70元才清走、3年前的千元沙发如今清理费却花300元；“东西还能用，为什么没人要？”大件旧物回收现状调查](https://view.inews.qq.com/a/20261021A03B1U00)
-17. [河南郑州脑瘫女孩被帅气男友求婚成功，被人说“配不上”，女孩回应：我并不比别人差，要相信自己值得被爱](https://view.inews.qq.com/a/20261021A03K6G00)
+12. [中俄等18国发表联合声明：呼吁联合国秘书长组织审查“使用生化武器事件联合国秘书长调查机制”](https://view.inews.qq.com/a/20261021A05TTW00)
+13. [中国向阿联酋交付首架飞行汽车](https://view.inews.qq.com/a/20261021A032P800)
+14. [地方政府密集尝试提前还债](https://view.inews.qq.com/a/20261021A06C5G00)
+15. [能用的椭圆仪倒贴70元才清走、3年前的千元沙发如今清理费却花300元；“东西还能用，为什么没人要？”大件旧物回收现状调查](https://view.inews.qq.com/a/20261021A03B1U00)
+16. [河南郑州脑瘫女孩被帅气男友求婚成功，被人说“配不上”，女孩回应：我并不比别人差，要相信自己值得被爱](https://view.inews.qq.com/a/20261021A03K6G00)
+17. [多地中考改革宣布生物地理成绩不计入总分，背后有何考量？](https://view.inews.qq.com/a/20261021A048UV00)
 18. [各位买家请注意，你淘到的LV、爱马仕可能是抢来的！巴黎骚乱中被抢走的奢侈品已流入二手市场](https://view.inews.qq.com/a/20261021A05MO100)
 19. [数字主权博弈骤然升级，欧洲四大巨头挑战“星链”，美国威胁“毁灭性反制”欧盟](https://view.inews.qq.com/a/20261021A033ZT00)
-20. [半年新增37所本科院校：职业教育的“学历升级”](https://view.inews.qq.com/a/20261021A01GC800)
+20. [军队有关部门看望慰问王扶之、侯克、郭瑞祥、鲍彦章、马章锁](https://view.inews.qq.com/a/20261021A06Y3X00)

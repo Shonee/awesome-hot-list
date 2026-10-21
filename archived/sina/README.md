@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-21 14:56:00
+> 更新时间：2026-10-21 15:44:42
 
 ## 新闻热榜
 
@@ -10,20 +10,20 @@
 4. [被美军司令“划国界”，韩国怒了！](https://news.sina.com.cn/w/2026-10-20/doc-inivwyqz7677887.shtml)
 5. [中国向阿联酋交付首架飞行汽车](https://news.sina.com.cn/zx/gj/2026-10-21/doc-inivxvuv6220001.shtml)
 6. [中国、俄罗斯悄悄开始新的北极合作](https://news.sina.com.cn/c/2026-10-21/doc-inivxrpa4693127.shtml)
-7. [“我们应该让他们加入我们”，美国愿望落空](https://news.sina.com.cn/w/2026-10-20/doc-inivwyrf6383427.shtml)
-8. [乌克兰被限速使用“星盾”，“是马斯克下令”](https://news.sina.com.cn/w/2026-10-21/doc-inivxvuw7950609.shtml)
+7. [乌克兰被限速使用“星盾”，“是马斯克下令”](https://news.sina.com.cn/w/2026-10-21/doc-inivxvuw7950609.shtml)
+8. [“我们应该让他们加入我们”，美国愿望落空](https://news.sina.com.cn/w/2026-10-20/doc-inivwyrf6383427.shtml)
 9. [宣布赠股后，马斯克被美媒扒出欠捐历史](https://news.sina.com.cn/o/2026-10-21/doc-inivxrny7944987.shtml)
-10. [“大哥怒摔过期泡面，现场一片混乱”，航司致歉](https://news.sina.com.cn/c/2026-10-20/doc-inivwpzi5702615.shtml)
-11. [21岁驴友遇难，“家属拒付救援费”？目击者回应](https://news.sina.com.cn/zx/2026-10-20/doc-inivwpzm6465740.shtml)
-12. [西太平洋战鼓隆隆，中国和美日都在排兵布阵](https://finance.sina.com.cn/wm/2026-10-20/doc-inivwyrc5685739.shtml)
-13. [“手段特别残忍”，刘某奇被判死刑](https://news.sina.com.cn/c/2026-10-20/doc-inivwitm5710455.shtml)
-14. [民进党当局拒绝艺人张凌赫赴台交流 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaat6180307.shtml)
-15. [中西部首个万亿外贸城市，要来了](https://news.sina.com.cn/c/2026-10-21/doc-inivxewx7648280.shtml)
-16. [一年倒退两位，日本怎么了？](https://news.sina.com.cn/w/2026-10-21/doc-inivwyrf6422083.shtml)
-17. [知名男星被曝性侵儿童演员，最新进展来了](https://news.sina.com.cn/w/2026-10-20/doc-inivwpzi5795907.shtml)
-18. [巴萨客场2-4不敌巴黎遭赛季首败，开局11连胜被终结](https://news.sina.com.cn/zx/2026-10-21/doc-inivxmex5612262.shtml)
-19. [“台独”势力给周杰伦“扣帽子” 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5461575.shtml)
-20. [A股近一个月融资净流出超千亿 杠杆资金“后撤待命” 两融余额不断刷新年内新低](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxrny7930209.shtml)
+10. [“台独”势力给周杰伦“扣帽子” 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5461575.shtml)
+11. [民进党当局拒绝艺人张凌赫赴台交流 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaat6180307.shtml)
+12. [“大哥怒摔过期泡面，现场一片混乱”，航司致歉](https://news.sina.com.cn/c/2026-10-20/doc-inivwpzi5702615.shtml)
+13. [21岁驴友遇难，“家属拒付救援费”？目击者回应](https://news.sina.com.cn/zx/2026-10-20/doc-inivwpzm6465740.shtml)
+14. [“手段特别残忍”，刘某奇被判死刑](https://news.sina.com.cn/c/2026-10-20/doc-inivwitm5710455.shtml)
+15. [西太平洋战鼓隆隆，中国和美日都在排兵布阵](https://finance.sina.com.cn/wm/2026-10-20/doc-inivwyrc5685739.shtml)
+16. [中西部首个万亿外贸城市，要来了](https://news.sina.com.cn/c/2026-10-21/doc-inivxewx7648280.shtml)
+17. [A股近一个月融资净流出超千亿 杠杆资金“后撤待命” 两融余额不断刷新年内新低](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxrny7930209.shtml)
+18. [一年倒退两位，日本怎么了？](https://news.sina.com.cn/w/2026-10-21/doc-inivwyrf6422083.shtml)
+19. [知名男星被曝性侵儿童演员，最新进展来了](https://news.sina.com.cn/w/2026-10-20/doc-inivwpzi5795907.shtml)
+20. [巴萨客场2-4不敌巴黎遭赛季首败，开局11连胜被终结](https://news.sina.com.cn/zx/2026-10-21/doc-inivxmex5612262.shtml)
 
 ## 财经热榜
 
