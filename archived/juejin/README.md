@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-21 14:20:15
+> 更新时间：2026-10-21 14:55:43
 
 ## 热门文章
 
@@ -34,13 +34,13 @@
 28. [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886)
 29. [孩子画的小人，真的动起来了！我做了一个手绘动画小工具](https://juejin.cn/post/7697294498347761706)
 30. [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964)
-31. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
-32. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
-33. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+31. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
+32. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+33. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
 34. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
-35. [质保期第 90 天我翻了一遍日志目录：交付后真正会坏的 3 处](https://juejin.cn/post/7697952294365495350)
-36. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
-37. [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578)
+35. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
+36. [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578)
+37. [质保期第 90 天我翻了一遍日志目录：交付后真正会坏的 3 处](https://juejin.cn/post/7697952294365495350)
 38. [手机到底有没有偷听我们？我抓包了 72 小时，抓到了真凶](https://juejin.cn/post/7698382188488048649)
 39. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
 40. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
@@ -49,8 +49,8 @@
 43. [从零手搓 AI 伴侣：Java + 大模型 + 多模态的工程化踩坑实录](https://juejin.cn/post/7698306160449208355)
 44. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
 45. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
-46. [为什么每个前端都应该拥有一个自己的独立博客？](https://juejin.cn/post/7698637850893139977)
-47. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
-48. [Base62 和 Base64 有什么区别？](https://juejin.cn/post/7698306160449241123)
-49. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
-50. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
+46. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
+47. [Base62 和 Base64 有什么区别？](https://juejin.cn/post/7698306160449241123)
+48. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
+49. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
+50. [只是选个照片，怎么留下了这么多访问记录？Flutter 图片选择器排查与优化实录](https://juejin.cn/post/7697558807295508522)

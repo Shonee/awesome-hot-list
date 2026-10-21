@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-21 14:21:36
+> 更新时间：2026-10-21 14:57:43
 
 ## Hottest
 
@@ -14,16 +14,16 @@
 8. [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
 9. [OpenBSD 8.0](https://www.openbsd.org/80.html)
 10. [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
-11. [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
-12. [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc)
+11. [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc)
+12. [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
 13. [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
 14. [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
 15. [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 16. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-17. [EDG is open source](https://edgcpp.org/)
+17. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 18. [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
-19. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
-20. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+19. [EDG is open source](https://edgcpp.org/)
+20. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
 21. [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
 22. [One Hash Bloom Filters](https://www.calabro.io/ohbf)
 23. [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)

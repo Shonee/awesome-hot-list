@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-21 13:40:48
+> 更新时间：2026-10-21 14:56:04
 
 ## 热点资讯排行
 
@@ -18,4 +18,4 @@
 12. [索尼DEI争议大作爆改韩国油腻师姐](https://www.gamersky.com/news/202610/2232075.shtml)
 13. [法国骚乱游戏店老板孤身守店爆红！网友P图超赛致敬](https://www.gamersky.com/news/202610/2230613.shtml)
 14. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
-15. [法国暴动 黑哥们直接零元购PS5 轻松好似下楼领鸡蛋](https://www.gamersky.com/news/202610/2230968.shtml)
+15. [冯骥回应第一时间玩《影之刃零》：度日如年！](https://www.gamersky.com/news/202610/2231853.shtml)
