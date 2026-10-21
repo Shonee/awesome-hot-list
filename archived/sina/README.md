@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-21 09:49:54
+> 更新时间：2026-10-21 10:45:24
 
 ## 新闻热榜
 
@@ -8,22 +8,22 @@
 2. [新央企，领导班子亮相](https://news.sina.com.cn/c/2026-10-21/doc-inivwyrf6405508.shtml)
 3. [外媒爆料：中国收紧供应，日本关键稀土“仅能维持数月，要考虑的是如何熬过明年”](https://news.sina.com.cn/c/2026-10-20/doc-inivwyrc5672991.shtml)
 4. [被美军司令“划国界”，韩国怒了！](https://news.sina.com.cn/w/2026-10-20/doc-inivwyqz7677887.shtml)
-5. [“我们应该让他们加入我们”，美国愿望落空](https://news.sina.com.cn/w/2026-10-20/doc-inivwyrf6383427.shtml)
-6. [一年倒退两位，日本怎么了？](https://news.sina.com.cn/w/2026-10-21/doc-inivwyrf6422083.shtml)
-7. [中国、俄罗斯悄悄开始新的北极合作](https://news.sina.com.cn/c/2026-10-21/doc-inivxrpa4693127.shtml)
+5. [中国、俄罗斯悄悄开始新的北极合作](https://news.sina.com.cn/c/2026-10-21/doc-inivxrpa4693127.shtml)
+6. [“我们应该让他们加入我们”，美国愿望落空](https://news.sina.com.cn/w/2026-10-20/doc-inivwyrf6383427.shtml)
+7. [一年倒退两位，日本怎么了？](https://news.sina.com.cn/w/2026-10-21/doc-inivwyrf6422083.shtml)
 8. [“大哥怒摔过期泡面，现场一片混乱”，航司致歉](https://news.sina.com.cn/c/2026-10-20/doc-inivwpzi5702615.shtml)
 9. [21岁驴友遇难，“家属拒付救援费”？目击者回应](https://news.sina.com.cn/zx/2026-10-20/doc-inivwpzm6465740.shtml)
-10. [知名男星被曝性侵儿童演员，最新进展来了](https://news.sina.com.cn/w/2026-10-20/doc-inivwpzi5795907.shtml)
-11. [双色球头奖9注723万 内蒙古或爆5062万大奖](https://sports.sina.com.cn/l/2026-10-20/doc-inivwuii6480542.shtml)
-12. [“手段特别残忍”，刘某奇被判死刑](https://news.sina.com.cn/c/2026-10-20/doc-inivwitm5710455.shtml)
+10. [“手段特别残忍”，刘某奇被判死刑](https://news.sina.com.cn/c/2026-10-20/doc-inivwitm5710455.shtml)
+11. [宣布赠股后，马斯克被美媒扒出欠捐历史](https://news.sina.com.cn/o/2026-10-21/doc-inivxrny7944987.shtml)
+12. [操盘必读：影响股市利好或利空消息_2026年10月21日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-21/doc-inivxrny8000548.shtml)
 13. [中西部首个万亿外贸城市，要来了](https://news.sina.com.cn/c/2026-10-21/doc-inivxewx7648280.shtml)
-14. [海南广电记者采访遭殴打 警方已介入](https://news.sina.com.cn/c/2026-10-20/doc-inivwuii6475721.shtml)
-15. [挪威首相：美国特使威特科夫将前往圣彼得堡，会见俄罗斯总统普京及其团队。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxmeu0835668.shtml)
-16. [女子回应被流浪狗咬伤后狗死亡](https://news.sina.com.cn/zx/2026-10-20/doc-inivwitp6482608.shtml)
-17. [传奇影业重启狮门影业收购谈判并提交报价。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqz7752056.shtml)
-18. [10月21日收盘：纳指微跌 道指大涨500点 财报乐观情绪稳定市场](https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmeu0850104.shtml)
-19. [通用电气医疗宣布五项新的全球合作，以推进下一代诊疗一体化成像技术。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqy0979337.shtml)
-20. [阿卜耶伊遭无人机袭击事件死亡人数升至226人](https://news.sina.com.cn/w/2026-10-21/doc-inivwyrf6449123.shtml)
+14. [巴萨客场2-4不敌巴黎遭赛季首败，开局11连胜被终结](https://news.sina.com.cn/zx/2026-10-21/doc-inivxmex5612262.shtml)
+15. [第100家央企来了，国家数据集团成立！总部设在雄安新区，将承担起开发、整合和运营国家级数据资源的重任](https://finance.sina.com.cn/roll/2026-10-20/doc-inivwuia0995874.shtml)
+16. [海南广电记者采访遭殴打 警方已介入](https://news.sina.com.cn/c/2026-10-20/doc-inivwuii6475721.shtml)
+17. [双色球头奖9注723万 内蒙古或爆5062万大奖](https://sports.sina.com.cn/l/2026-10-20/doc-inivwuii6480542.shtml)
+18. [致17名中国人遇难，韩国人朴淳瓘一审被判15年，终审变4年](https://news.sina.com.cn/zx/2026-10-20/doc-inivwyqz7702622.shtml)
+19. [女子回应被流浪狗咬伤后狗死亡](https://news.sina.com.cn/zx/2026-10-20/doc-inivwitp6482608.shtml)
+20. [知名男星被曝性侵儿童演员，最新进展来了](https://news.sina.com.cn/w/2026-10-20/doc-inivwpzi5795907.shtml)
 
 ## 财经热榜
 

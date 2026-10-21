@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-21 09:51:50
+> 更新时间：2026-10-21 10:46:43
 
 ## Hottest
 
@@ -18,12 +18,12 @@
 12. [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
 13. [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 14. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-15. [EDG is open source](https://edgcpp.org/)
+15. [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
 16. [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
-17. [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
+17. [EDG is open source](https://edgcpp.org/)
 18. [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc)
-19. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
-20. [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
+19. [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
+20. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
 21. [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 22. [One Hash Bloom Filters](https://www.calabro.io/ohbf)
 23. [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
