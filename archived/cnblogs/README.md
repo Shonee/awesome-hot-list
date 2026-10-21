@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 03:11:28
+> 更新时间：2026-10-22 04:11:57
 
 ## 最新帖子
 
-1. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
-2. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
-3. [MySQL进阶教程（一）—— 储存过程与触发器（上）](https://www.cnblogs.com/mengyingblog/p/23392463)
-4. [CF1882D Tree XOR 题解](https://www.cnblogs.com/lvwangshuOI/p/23392231)
-5. [C# .NET 周刊 ｜2026 年 9 月 2 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_2)
-6. [并发编程（十一）：Shared Memory 与 Message Passing——关系与组合使用](https://www.cnblogs.com/ThinkerQAQ/p/23392168)
-7. [8. 单行注释与多行注释，写出便于维护的好代码](https://www.cnblogs.com/halfcode/p/23391591)
-8. [从零搭建Transformer-CS336作业](https://www.cnblogs.com/CrescentWind/p/23391357)
-9. [linux开机流程](https://www.cnblogs.com/wanchenxi/p/23391337)
-10. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
-11. [如何使用RDS Supabase后端BaaS能力：创表即生成API（Database Data API）](https://www.cnblogs.com/huaweiyun/p/23389190)
-12. [BM25 详解](https://www.cnblogs.com/zjdxr-up/p/23331060)
-13. [15、数据中心网络产业：从五层架构到智能无损网络](https://www.cnblogs.com/suhanmo/p/23387574)
-14. [CorpusMap：Agent 搜索省下 57% Token 的背后设计](https://www.cnblogs.com/Qiniu-developer/p/23387558)
-15. [Ascend vNPU 实战：从原生 Docker 到 Ascend Docker Runtime](https://www.cnblogs.com/KubeExplorer/p/23386809)
-16. [工程师的词典：缺省值、鲁棒性，和那些名不副实的怪词](https://www.cnblogs.com/zw-awa/p/23386008)
-17. [[最优化技术] 3-7 坐标轮换法](https://www.cnblogs.com/h-elden/p/23377016)
-18. [让工业历史数据“进化”出可执行公式：PySR 的落地场景与边界](https://www.cnblogs.com/lsjwq/p/23385639)
-19. [MCP 退潮：为什么一线工程团队开始转向 CLI-First 的 Agent 工具模式](https://www.cnblogs.com/codigger/p/23385291)
-20. [GeoLibre 技术架构与实现解析](https://www.cnblogs.com/znlgis/p/23384857)
+1. [Python `regex` 库：你所不知道的正则表达式用法](https://www.cnblogs.com/apachecn/p/23394650)
+2. [一比一复刻网站前端](https://www.cnblogs.com/fhyy/p/23394641)
+3. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
+4. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
+5. [MySQL进阶教程（一）—— 储存过程与触发器（上）](https://www.cnblogs.com/mengyingblog/p/23392463)
+6. [CF1882D Tree XOR 题解](https://www.cnblogs.com/lvwangshuOI/p/23392231)
+7. [C# .NET 周刊 ｜2026 年 9 月 2 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_2)
+8. [并发编程（十一）：Shared Memory 与 Message Passing——关系与组合使用](https://www.cnblogs.com/ThinkerQAQ/p/23392168)
+9. [8. 单行注释与多行注释，写出便于维护的好代码](https://www.cnblogs.com/halfcode/p/23391591)
+10. [从零搭建Transformer-CS336作业](https://www.cnblogs.com/CrescentWind/p/23391357)
+11. [linux开机流程](https://www.cnblogs.com/wanchenxi/p/23391337)
+12. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
+13. [如何使用RDS Supabase后端BaaS能力：创表即生成API（Database Data API）](https://www.cnblogs.com/huaweiyun/p/23389190)
+14. [BM25 详解](https://www.cnblogs.com/zjdxr-up/p/23331060)
+15. [15、数据中心网络产业：从五层架构到智能无损网络](https://www.cnblogs.com/suhanmo/p/23387574)
+16. [CorpusMap：Agent 搜索省下 57% Token 的背后设计](https://www.cnblogs.com/Qiniu-developer/p/23387558)
+17. [Ascend vNPU 实战：从原生 Docker 到 Ascend Docker Runtime](https://www.cnblogs.com/KubeExplorer/p/23386809)
+18. [工程师的词典：缺省值、鲁棒性，和那些名不副实的怪词](https://www.cnblogs.com/zw-awa/p/23386008)
+19. [[最优化技术] 3-7 坐标轮换法](https://www.cnblogs.com/h-elden/p/23377016)
+20. [让工业历史数据“进化”出可执行公式：PySR 的落地场景与边界](https://www.cnblogs.com/lsjwq/p/23385639)
 
 ## 精华帖子
 

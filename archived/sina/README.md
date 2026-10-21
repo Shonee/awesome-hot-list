@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-22 03:11:42
+> 更新时间：2026-10-22 04:12:13
 
 ## 新闻热榜
 
@@ -27,22 +27,23 @@
 
 ## 财经热榜
 
-1. [美国副总统万斯：没有人比特朗普更痛恨有人利用公职便利、通过欺诈手段牟利。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8077934.shtml)
-2. [20年期美国国债收益率在130亿美元拍卖后收窄跌幅，最新下跌1.25个基点，报5.467%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4872828.shtml)
-3. [欧盟委员会：欧盟碳排放交易体系的市场稳定储备将能够留存最多7亿份配额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8084573.shtml)
-4. [美国：美俄乌三方技术性会议已获批准。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4861920.shtml)
-5. [Anthropic：Christopher Stubbs加入Anthropic长期利益信托。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4856800.shtml)
-6. [美国财政部拍卖130亿美元20年期国债，得标利率5.469%，投标倍数2.73。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8099666.shtml)
-7. [科威特石油公司首席执行官：目前已有客户前往海湾地区提货。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4897650.shtml)
-8. [SpaceX债券下跌 市场担忧其进一步举债令信用风险指标恶化](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8122415.shtml)
-9. [联合国：Meta应在巴西选举期间保障政治表达自由。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4841976.shtml)
-10. [美国芝商所CEO：由于客户不愿使用周末交易台，该公司已暂停24/7原油期货交易](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8107698.shtml)
-11. [安哥拉初步出口计划显示，12月该国将装载32船原油，高于11月计划的28船。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4840453.shtml)
-12. [苹果扩大与美国本土供应商的合作，为iPhone Duo与iPhone 18 Pro备货。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqy0972314.shtml)
-13. [欧洲债市：德国国债上涨 伊朗谈判消息引发市场波动](https://finance.sina.com.cn/world/2026-10-21/doc-inivwyrc5685100.shtml)
-14. [也门消息人士：胡塞武装对哈德拉毛省舒克拉地区的杜巴石油港附近发动无人机袭击。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8111369.shtml)
-15. [惠誉：并不认为魁北克省、阿尔伯塔省走向独立构成严重风险。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxewx7703622.shtml)
-16. [金属交易商McNess以大规模铝押注闻名，已在伦敦金属交易所10月铜合约上建立大量头寸。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqz7759165.shtml)
-17. [9月瑞士黄金出口增长6%，对英出口激增。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqz7744611.shtml)
-18. [沙特领导的联军称，其在南部地区拦截并摧毁了一架胡塞武装发射的无人机。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4829153.shtml)
-19. [乌克兰总统泽连斯基：如果俄罗斯也停止攻击，我们准备不对俄能源基础设施的敏感部分实施打击。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0869879.shtml)
+1. [乌克兰总统泽连斯基：此次会谈可讨论和平事宜以及可能举行的领导人峰会。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8023062.shtml)
+2. [市场消息：美国总统特朗普将于下周三在俄亥俄州举行集会。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8019026.shtml)
+3. [通用汽车：将高速自动驾驶功能拓展至销量最高、最畅销车型系列，包含全尺寸SUV以及轻型皮卡。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8139295.shtml)
+4. [乌克兰总统泽连斯基：乌克兰希望会谈不晚于 11 月初举行。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4795808.shtml)
+5. [SpaceX据称为在孟菲斯建设数据中心的工人提供20%的额外薪酬。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4792438.shtml)
+6. [美国财政部于回购操作中接受47.51亿美元2028-36年到期国债。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8140011.shtml)
+7. [美国副总统万斯：没有人比特朗普更痛恨有人利用公职便利、通过欺诈手段牟利。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8077934.shtml)
+8. [20年期美国国债收益率在130亿美元拍卖后收窄跌幅，最新下跌1.25个基点，报5.467%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4872828.shtml)
+9. [欧盟委员会：欧盟碳排放交易体系的市场稳定储备将能够留存最多7亿份配额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8084573.shtml)
+10. [美国：美俄乌三方技术性会议已获批准。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4861920.shtml)
+11. [伊朗方面称锡里克地区传出数次爆炸声](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8035852.shtml)
+12. [沙特联军：拦截并摧毁了一架飞往东部地区的无人机。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4906075.shtml)
+13. [Anthropic：Christopher Stubbs加入Anthropic长期利益信托。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4856800.shtml)
+14. [美国财政部拍卖130亿美元20年期国债，得标利率5.469%，投标倍数2.73。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8099666.shtml)
+15. [调查显示，周四 EIA 报告预计美国上周天然气库存增加 790 亿立方英尺。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8142312.shtml)
+16. [美国官员：美国国务院准备发布指令，要求驻海湾地区多国大使馆部分人员及其家属撤离。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4811193.shtml)
+17. [科威特石油公司首席执行官：目前已有客户前往海湾地区提货。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4897650.shtml)
+18. [捷克政府：已将其网站下线，以便安装PHP安全补丁。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8028660.shtml)
+19. [美国大使馆就胡塞武装袭击沙特阿拉伯一事发布安全警报。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8029389.shtml)
+20. [乌克兰总统泽连斯基：在威特科夫访问俄罗斯后，与美方进行了会谈。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4789710.shtml)
