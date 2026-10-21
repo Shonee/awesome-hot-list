@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-21 15:45:02
+> 更新时间：2026-10-21 16:16:58
 
 ## 最有料热点
 
@@ -11,7 +11,7 @@
 5. [显卡断供,DIY玩家输麻了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367880&topic_name=%E6%98%BE%E5%8D%A1%E6%96%AD%E4%BE%9B%2CDIY%E7%8E%A9%E5%AE%B6%E8%BE%93%E9%BA%BB%E4%BA%86)
 6. [战力崩叙事乱,边缘行者2翻车](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367871&topic_name=%E6%88%98%E5%8A%9B%E5%B4%A9%E5%8F%99%E4%BA%8B%E4%B9%B1%2C%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E7%BF%BB%E8%BD%A6)
 7. [车企卖半成品,工信部出手严管](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367875&topic_name=%E8%BD%A6%E4%BC%81%E5%8D%96%E5%8D%8A%E6%88%90%E5%93%81%2C%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%87%BA%E6%89%8B%E4%B8%A5%E7%AE%A1)
-8. [偷历史遭怼,土耳其惹全球群嘲](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367886&topic_name=%E5%81%B7%E5%8E%86%E5%8F%B2%E9%81%AD%E6%80%BC%2C%E5%9C%9F%E8%80%B3%E5%85%B6%E6%83%B9%E5%85%A8%E7%90%83%E7%BE%A4%E5%98%B2)
+8. [虚构历史遭怼,土耳其惹全球群嘲](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367886&topic_name=%E8%99%9A%E6%9E%84%E5%8E%86%E5%8F%B2%E9%81%AD%E6%80%BC%2C%E5%9C%9F%E8%80%B3%E5%85%B6%E6%83%B9%E5%85%A8%E7%90%83%E7%BE%A4%E5%98%B2)
 9. [声优土田大心衰去世,享年54岁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367876&topic_name=%E5%A3%B0%E4%BC%98%E5%9C%9F%E7%94%B0%E5%A4%A7%E5%BF%83%E8%A1%B0%E5%8E%BB%E4%B8%96%2C%E4%BA%AB%E5%B9%B454%E5%B2%81)
 10. [洛博闭馆,吧友玩梗传国玉玺](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367867&topic_name=%E6%B4%9B%E5%8D%9A%E9%97%AD%E9%A6%86%2C%E5%90%A7%E5%8F%8B%E7%8E%A9%E6%A2%97%E4%BC%A0%E5%9B%BD%E7%8E%89%E7%8E%BA)
 11. [LPL四队凌晨开打,观众熬穿](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367840&topic_name=LPL%E5%9B%9B%E9%98%9F%E5%87%8C%E6%99%A8%E5%BC%80%E6%89%93%2C%E8%A7%82%E4%BC%97%E7%86%AC%E7%A9%BF)

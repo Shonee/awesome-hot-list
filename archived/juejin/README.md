@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-21 15:44:21
+> 更新时间：2026-10-21 16:16:14
 
 ## 热门文章
 
@@ -33,24 +33,24 @@
 27. [栗子前端技术周刊第 150 期 - Stack Overflow 开发者调查结果、TanStack Start 1.0...](https://juejin.cn/post/7697531208898445353)
 28. [iOS Swift Package Manager（SPM）私有组件完整实操](https://juejin.cn/post/7697312440703516699)
 29. [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964)
-30. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
+30. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
 31. [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886)
-32. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
-33. [孩子画的小人，真的动起来了！我做了一个手绘动画小工具](https://juejin.cn/post/7697294498347761706)
-34. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
-35. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+32. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
+33. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
+34. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+35. [孩子画的小人，真的动起来了！我做了一个手绘动画小工具](https://juejin.cn/post/7697294498347761706)
 36. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
 37. [质保期第 90 天我翻了一遍日志目录：交付后真正会坏的 3 处](https://juejin.cn/post/7697952294365495350)
 38. [脱离 Android Studio：纯命令行开发 Android 相机 App 的实践与踩坑记录](https://juejin.cn/post/7697558807295213610)
 39. [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578)
-40. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
-41. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
-42. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
-43. [Cursor转Codex大半个月实测：迁移成本、代码质量与那些没人说的隐性坑点](https://juejin.cn/post/7697474838379184138)
-44. [程序员 1v1 访谈系列第五期：裁掉正岗，招外包](https://juejin.cn/post/7698646220872450082)
-45. [为什么每个前端都应该拥有一个自己的独立博客？](https://juejin.cn/post/7698637850893139977)
+40. [程序员 1v1 访谈系列第五期：裁掉正岗，招外包](https://juejin.cn/post/7698646220872450082)
+41. [为什么每个前端都应该拥有一个自己的独立博客？](https://juejin.cn/post/7698637850893139977)
+42. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
+43. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
+44. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
+45. [Cursor转Codex大半个月实测：迁移成本、代码质量与那些没人说的隐性坑点](https://juejin.cn/post/7697474838379184138)
 46. [从零手搓 AI 伴侣：Java + 大模型 + 多模态的工程化踩坑实录](https://juejin.cn/post/7698306160449208355)
 47. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
 48. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
-49. [Base62 和 Base64 有什么区别？](https://juejin.cn/post/7698306160449241123)
+49. [Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里](https://juejin.cn/post/7698709811564068915)
 50. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)

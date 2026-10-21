@@ -1,11 +1,11 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-21 15:44:46
+> 更新时间：2026-10-21 16:16:42
 
 ## 热点资讯排行
 
-1. ["沫子杯"正式定档10月28日！送沫子定制可加热杯子](https://www.gamersky.com/news/202610/2230351.shtml)
-2. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+1. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+2. ["沫子杯"正式定档10月28日！送沫子定制可加热杯子](https://www.gamersky.com/news/202610/2230351.shtml)
 3. [《COD现代战争4》战役惨遭破解！离线就能玩](https://www.gamersky.com/news/202610/2230469.shtml)
 4. [货轮沉没大量iPhone漂浮海面 预估总损失逾1亿美元](https://www.gamersky.com/news/202610/2230176.shtml)
 5. [日本新游开发9年自称被中国人破解！作者崩溃 不想干了](https://www.gamersky.com/news/202610/2231104.shtml)

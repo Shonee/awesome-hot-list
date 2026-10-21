@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-21 15:44:47
+> 更新时间：2026-10-21 16:16:43
 
 ## 日榜
 
@@ -15,4 +15,4 @@
 9. [1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台](https://www.ithome.com/1/015/614.htm)
 10. [《赛博朋克：边缘行者 2》动画上线，10 集一口气全公开](https://www.ithome.com/1/015/527.htm)
 11. [DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，目标实现大模型普惠](https://www.ithome.com/1/015/429.htm)
-12. [华为 Pura X View 阔直板手机率先开更鸿蒙 HarmonyOS 7.0.0.111SP8，新增 iPhone 双机互联等功能](https://www.ithome.com/1/015/367.htm)
+12. [10 月 23 日发售，苹果 iPhone Duo 首个开箱视频流出](https://www.ithome.com/1/015/646.htm)

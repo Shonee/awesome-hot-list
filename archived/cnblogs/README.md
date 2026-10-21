@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-21 15:44:24
+> 更新时间：2026-10-21 16:16:17
 
 ## 最新帖子
 
-1. [15、数据中心网络产业：从五层架构到智能无损网络](https://www.cnblogs.com/suhanmo/p/23387574)
-2. [CorpusMap：Agent 搜索省下 57% Token 的背后设计](https://www.cnblogs.com/Qiniu-developer/p/23387558)
-3. [Ascend vNPU 实战：从原生 Docker 到 Ascend Docker Runtime](https://www.cnblogs.com/KubeExplorer/p/23386809)
-4. [工程师的词典：缺省值、鲁棒性，和那些名不副实的怪词](https://www.cnblogs.com/zw-awa/p/23386008)
-5. [[最优化技术] 3-7 坐标轮换法](https://www.cnblogs.com/h-elden/p/23377016)
-6. [让工业历史数据“进化”出可执行公式：PySR 的落地场景与边界](https://www.cnblogs.com/lsjwq/p/23385639)
-7. [MCP 退潮：为什么一线工程团队开始转向 CLI-First 的 Agent 工具模式](https://www.cnblogs.com/codigger/p/23385291)
-8. [GeoLibre 技术架构与实现解析](https://www.cnblogs.com/znlgis/p/23384857)
-9. [用 Python 给 CE-AJ12N 非接触电流电压传感器做本地异常检测与钉钉告警](https://www.cnblogs.com/sset-sz/p/23384859)
-10. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
-11. [AI时代，神话并未消失：人类正在创造新的“数字神明”](https://www.cnblogs.com/aiwangzijian/p/23384245)
-12. [UI Composition 在 Win32 窗口中绘制字体图标](https://www.cnblogs.com/liulun/p/23383661)
-13. [PHP 8.7 协程新提案 让跨协程代码共享请求身份](https://www.cnblogs.com/catchadmin/p/23383680)
-14. [一文搞懂 Git Worktree：多个 AI Agent 同时改代码，如何避免互相打架？](https://www.cnblogs.com/Tomorrowland/p/23383539)
-15. [别再上来就堆 Redis！点赞系统从打挂数据库到 18w 写峰值，我把这套方案讲透了](https://www.cnblogs.com/zrui-xyu/p/23383252)
-16. [从 0 到 1 搭建一套企业级 AI 智能客服平台：微服务 + RAG + 全链路可观测](https://www.cnblogs.com/huangrenhui/p/23382353)
-17. [Linux 网络 IO 模型演进与 Epoll 内部机制](https://www.cnblogs.com/FfHUCisI/p/23382395)
-18. [技术思考问题34：MiniMax降七成，账单真能降？](https://www.cnblogs.com/snidget/p/23382261)
-19. [AI Agent 评测：到底要测什么、新手怎么测？（附完整流程）](https://www.cnblogs.com/jinjiangongzuoshi/p/23381947)
-20. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
+1. [BM25 详解](https://www.cnblogs.com/zjdxr-up/p/23331060)
+2. [15、数据中心网络产业：从五层架构到智能无损网络](https://www.cnblogs.com/suhanmo/p/23387574)
+3. [CorpusMap：Agent 搜索省下 57% Token 的背后设计](https://www.cnblogs.com/Qiniu-developer/p/23387558)
+4. [Ascend vNPU 实战：从原生 Docker 到 Ascend Docker Runtime](https://www.cnblogs.com/KubeExplorer/p/23386809)
+5. [工程师的词典：缺省值、鲁棒性，和那些名不副实的怪词](https://www.cnblogs.com/zw-awa/p/23386008)
+6. [[最优化技术] 3-7 坐标轮换法](https://www.cnblogs.com/h-elden/p/23377016)
+7. [让工业历史数据“进化”出可执行公式：PySR 的落地场景与边界](https://www.cnblogs.com/lsjwq/p/23385639)
+8. [MCP 退潮：为什么一线工程团队开始转向 CLI-First 的 Agent 工具模式](https://www.cnblogs.com/codigger/p/23385291)
+9. [GeoLibre 技术架构与实现解析](https://www.cnblogs.com/znlgis/p/23384857)
+10. [用 Python 给 CE-AJ12N 非接触电流电压传感器做本地异常检测与钉钉告警](https://www.cnblogs.com/sset-sz/p/23384859)
+11. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
+12. [AI时代，神话并未消失：人类正在创造新的“数字神明”](https://www.cnblogs.com/aiwangzijian/p/23384245)
+13. [UI Composition 在 Win32 窗口中绘制字体图标](https://www.cnblogs.com/liulun/p/23383661)
+14. [PHP 8.7 协程新提案 让跨协程代码共享请求身份](https://www.cnblogs.com/catchadmin/p/23383680)
+15. [一文搞懂 Git Worktree：多个 AI Agent 同时改代码，如何避免互相打架？](https://www.cnblogs.com/Tomorrowland/p/23383539)
+16. [别再上来就堆 Redis！点赞系统从打挂数据库到 18w 写峰值，我把这套方案讲透了](https://www.cnblogs.com/zrui-xyu/p/23383252)
+17. [从 0 到 1 搭建一套企业级 AI 智能客服平台：微服务 + RAG + 全链路可观测](https://www.cnblogs.com/huangrenhui/p/23382353)
+18. [Linux 网络 IO 模型演进与 Epoll 内部机制](https://www.cnblogs.com/FfHUCisI/p/23382395)
+19. [技术思考问题34：MiniMax降七成，账单真能降？](https://www.cnblogs.com/snidget/p/23382261)
+20. [AI Agent 评测：到底要测什么、新手怎么测？（附完整流程）](https://www.cnblogs.com/jinjiangongzuoshi/p/23381947)
 
 ## 精华帖子
 
@@ -54,5 +54,5 @@
 2. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
 3. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
 4. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
-5. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
-6. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
+5. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
+6. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
