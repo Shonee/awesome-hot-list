@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-21 23:12:29
+> 更新时间：2026-10-22 00:13:17
 
 ## 新闻热榜
 
 1. [利好来了！国家发改委重磅发声](https://news.sina.com.cn/c/2026-10-20/doc-inivwyqz7711795.shtml)
 2. [新央企，领导班子亮相](https://news.sina.com.cn/c/2026-10-21/doc-inivwyrf6405508.shtml)
 3. [外媒爆料：中国收紧供应，日本关键稀土“仅能维持数月，要考虑的是如何熬过明年”](https://news.sina.com.cn/c/2026-10-20/doc-inivwyrc5672991.shtml)
-4. [被美军司令“划国界”，韩国怒了！](https://news.sina.com.cn/w/2026-10-20/doc-inivwyqz7677887.shtml)
-5. [中国向阿联酋交付首架飞行汽车](https://news.sina.com.cn/zx/gj/2026-10-21/doc-inivxvuv6220001.shtml)
-6. [中国、俄罗斯悄悄开始新的北极合作](https://news.sina.com.cn/c/2026-10-21/doc-inivxrpa4693127.shtml)
-7. [“神探”李昌钰，即将安葬扬州](https://news.sina.com.cn/zx/2026-10-21/doc-inivynsm5421883.shtml)
-8. [“台独”势力给周杰伦“扣帽子” 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5461575.shtml)
-9. [民进党当局拒绝艺人张凌赫赴台交流 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaat6180307.shtml)
-10. [公安部网安局：“肖某演唱会第一排门票25万元”不实](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4796887.shtml)
-11. [地方政府密集尝试提前还债](https://news.sina.com.cn/o/2026-10-21/doc-inivyaar5502695.shtml)
+4. [中国向阿联酋交付首架飞行汽车](https://news.sina.com.cn/zx/gj/2026-10-21/doc-inivxvuv6220001.shtml)
+5. [中国、俄罗斯悄悄开始新的北极合作](https://news.sina.com.cn/c/2026-10-21/doc-inivxrpa4693127.shtml)
+6. [“神探”李昌钰，即将安葬扬州](https://news.sina.com.cn/zx/2026-10-21/doc-inivynsm5421883.shtml)
+7. [“台独”势力给周杰伦“扣帽子” 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5461575.shtml)
+8. [民进党当局拒绝艺人张凌赫赴台交流 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaat6180307.shtml)
+9. [公安部网安局：“肖某演唱会第一排门票25万元”不实](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4796887.shtml)
+10. [地方政府密集尝试提前还债](https://news.sina.com.cn/o/2026-10-21/doc-inivyaar5502695.shtml)
+11. [法国一军机坠毁，一名飞行员遗体已被找到](https://news.sina.com.cn/w/2026-10-21/doc-inivyhkr6245684.shtml)
 12. [A股近一个月融资净流出超千亿 杠杆资金“后撤待命” 两融余额不断刷新年内新低](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxrny7930209.shtml)
 13. [乌克兰被限速使用“星盾”，“是马斯克下令”](https://news.sina.com.cn/w/2026-10-21/doc-inivxvuw7950609.shtml)
-14. [法国一军机坠毁，一名飞行员遗体已被找到](https://news.sina.com.cn/w/2026-10-21/doc-inivyhkr6245684.shtml)
-15. [重庆坠亡幼童父亲没有一句道歉半点愧疚](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5538381.shtml)
+14. [重庆坠亡幼童父亲没有一句道歉半点愧疚](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5538381.shtml)
+15. [跑不了了，中国“AI禁令”震动全球](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4863018.shtml)
 16. [星巴克10月22日起在中国施行消费入座，门店将摆放提示牌](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4749631.shtml)
-17. [跑不了了，中国“AI禁令”震动全球](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4863018.shtml)
-18. [“我们应该让他们加入我们”，美国愿望落空](https://news.sina.com.cn/w/2026-10-20/doc-inivwyrf6383427.shtml)
-19. [SpaceX和特斯拉合并？马斯克表态](https://news.sina.com.cn/w/2026-10-21/doc-inivyhks7964477.shtml)
-20. [宣布赠股后，马斯克被美媒扒出欠捐历史](https://news.sina.com.cn/o/2026-10-21/doc-inivxrny7944987.shtml)
+17. [SpaceX和特斯拉合并？马斯克表态](https://news.sina.com.cn/w/2026-10-21/doc-inivyhks7964477.shtml)
+18. [美方发布对劳尔·卡斯特罗逮捕令，外交部：坚定支持古巴维护国家主权](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivynsq8020727.shtml)
+19. [宣布赠股后，马斯克被美媒扒出欠捐历史](https://news.sina.com.cn/o/2026-10-21/doc-inivxrny7944987.shtml)
+20. [中国拟对12项光伏技术出口管制：严防核心技术外流，领先优势难被超越](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxvuy4678297.shtml)
 
 ## 财经热榜
 

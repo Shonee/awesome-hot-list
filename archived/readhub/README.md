@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-21 23:12:18
+> 更新时间：2026-10-22 00:13:07
 
 ## 24 小时热榜
 
@@ -18,16 +18,16 @@
 12. [PHP 曝高危远程代码执行漏洞，官方提前发布安全补丁](https://readhub.cn/topic/8xOtFk2KZtk?tab=daily)
 13. [AI 未达预期 Meta 暂停裁员计划](https://readhub.cn/topic/8xOkgRW7TY5?tab=daily)
 14. [Claude 64 小时设计 31 万种蛋白，17 种通过实验验证](https://readhub.cn/topic/8xOh7UH2glm?tab=daily)
-15. [马斯克称 SpaceX 与特斯拉成立委员会讨论合并 尚未敲定](https://readhub.cn/topic/8xOS6B48RJ1?tab=daily)
-16. [《沙丘 3》内地 12 月 31 日上映，与《复联 5》内地档期错开](https://readhub.cn/topic/8xOmpnLsIJH?tab=daily)
+15. [《沙丘 3》内地 12 月 31 日上映，与《复联 5》内地档期错开](https://readhub.cn/topic/8xOmpnLsIJH?tab=daily)
+16. [马斯克称 SpaceX 与特斯拉成立委员会讨论合并 尚未敲定](https://readhub.cn/topic/8xOS6B48RJ1?tab=daily)
 17. [OpenAI 推出 ChatGPT「锁定聊天」功能](https://readhub.cn/topic/8xObOEvcEYY?tab=daily)
 18. [宇树科技提示行业商业化不及预期或存估值回归投资风险](https://readhub.cn/topic/8xNkVe4o7Q1?tab=daily)
 19. [SpaceX 首席财务官：新部署算力投资回收期不足一年](https://readhub.cn/topic/8xOq2MsKwzL?tab=daily)
 20. [主动 ETF 发行火速定档 场内投资生态迎来革新](https://readhub.cn/topic/8xOW1MSrJxY?tab=daily)
-21. [千问上线「千问陪逛」新功能 双 11 可辅助用户网购比价避坑](https://readhub.cn/topic/8xOGf4KcM6C?tab=daily)
-22. [豆包工作功能上新 本地 Office 编辑新增 Word](https://readhub.cn/topic/8xOxXVAmd9u?tab=daily)
-23. [消息称 Anthropic 今年上半年净亏损超 800 亿美元](https://readhub.cn/topic/8xOduA7p7Sn?tab=daily)
-24. [AI 助手产品 Today 宣布累计完成超 2 亿美元融资](https://readhub.cn/topic/8xPXIbAaXzl?tab=daily)
+21. [AI 助手产品 Today 宣布累计完成超 2 亿美元融资](https://readhub.cn/topic/8xPXIbAaXzl?tab=daily)
+22. [千问上线「千问陪逛」新功能 双 11 可辅助用户网购比价避坑](https://readhub.cn/topic/8xOGf4KcM6C?tab=daily)
+23. [豆包工作功能上新 本地 Office 编辑新增 Word](https://readhub.cn/topic/8xOxXVAmd9u?tab=daily)
+24. [消息称 Anthropic 今年上半年净亏损超 800 亿美元](https://readhub.cn/topic/8xOduA7p7Sn?tab=daily)
 25. [腾讯股价跌破 400 港元创一年新低 年内市值缩水近四成](https://readhub.cn/topic/8xP7EUjVF9X?tab=daily)
 26. [哈佛重磅研究：AI 凭人脸照片，就能预测癌症患者死亡风险](https://readhub.cn/topic/8xOvPZVBIUS?tab=daily)
 27. [苹果 CEO 特努斯：设计依旧是苹果第一要务 不追逐技术热点](https://readhub.cn/topic/8xOZFUcsy9m?tab=daily)
