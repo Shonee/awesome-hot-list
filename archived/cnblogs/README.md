@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-21 10:45:12
+> 更新时间：2026-10-21 11:43:53
 
 ## 最新帖子
 
-1. [UI Composition 在 Win32 窗口中绘制字体图标](https://www.cnblogs.com/liulun/p/23383661)
-2. [PHP 8.7 协程新提案 让跨协程代码共享请求身份](https://www.cnblogs.com/catchadmin/p/23383680)
-3. [一文搞懂 Git Worktree：多个 AI Agent 同时改代码，如何避免互相打架？](https://www.cnblogs.com/Tomorrowland/p/23383539)
-4. [别再上来就堆 Redis！点赞系统从打挂数据库到 18w 写峰值，我把这套方案讲透了](https://www.cnblogs.com/zrui-xyu/p/23383252)
-5. [Java AI框架选型指南](https://www.cnblogs.com/12lisu/p/23382922)
-6. [从 0 到 1 搭建一套企业级 AI 智能客服平台：微服务 + RAG + 全链路可观测](https://www.cnblogs.com/huangrenhui/p/23382353)
-7. [Linux 网络 IO 模型演进与 Epoll 内部机制](https://www.cnblogs.com/FfHUCisI/p/23382395)
-8. [技术思考问题34：MiniMax降七成，账单真能降？](https://www.cnblogs.com/snidget/p/23382261)
-9. [AI Agent 评测：到底要测什么、新手怎么测？（附完整流程）](https://www.cnblogs.com/jinjiangongzuoshi/p/23381947)
-10. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
-11. [7 个阶段，27 篇经典论文，一文看懂 Transformer 如何催生现代 LLM](https://www.cnblogs.com/aifrontiers/p/23381832)
-12. [MQTT实战 - MQTTnet连接可靠性设计：自动重连、心跳、ClientId管理（五）](https://www.cnblogs.com/hugogoos/p/23372397)
-13. [用脚本按顺序执行初始化 DB 的 SQL 文件](https://www.cnblogs.com/jyzhao/p/23381011)
-14. [不要活成一个“高斯流形检测器”：把人类独特性寄托在这个上面，迟早会自取灭亡](https://www.cnblogs.com/apachecn/p/23380651)
-15. [# 不需要你同意，只需要你依赖  ## ——合法性的一块新基座，正在不征求意见地铺设](https://www.cnblogs.com/mofahuizhang/p/23378530)
-16. [从 INF、DSC、DEC 到 FDF：理解 EDK II 的 UEFI 编译与固件生成流程](https://www.cnblogs.com/ayuan01/p/23378536)
-17. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
-18. [关于 x1 y1 等变量名冲突的指正（校对版）](https://www.cnblogs.com/cao2333/p/23375942)
-19. [让 Agent 在给方案之前先摊开它的假设](https://www.cnblogs.com/fhyy/p/23378163)
-20. [【Agentic RL】Dressage Staleness 控制深度分析](https://www.cnblogs.com/rossiXYZ/p/23263641)
+1. [GeoLibre 技术架构与实现解析](https://www.cnblogs.com/znlgis/p/23384857)
+2. [用 Python 给 CE-AJ12N 非接触电流电压传感器做本地异常检测与钉钉告警](https://www.cnblogs.com/sset-sz/p/23384859)
+3. [Karpenter + Keda 让Kuberntes实现动态扩缩容机制方案指南](https://www.cnblogs.com/Jame-mei/p/23384832)
+4. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
+5. [AI时代，神话并未消失：人类正在创造新的“数字神明”](https://www.cnblogs.com/aiwangzijian/p/23384245)
+6. [UI Composition 在 Win32 窗口中绘制字体图标](https://www.cnblogs.com/liulun/p/23383661)
+7. [PHP 8.7 协程新提案 让跨协程代码共享请求身份](https://www.cnblogs.com/catchadmin/p/23383680)
+8. [一文搞懂 Git Worktree：多个 AI Agent 同时改代码，如何避免互相打架？](https://www.cnblogs.com/Tomorrowland/p/23383539)
+9. [别再上来就堆 Redis！点赞系统从打挂数据库到 18w 写峰值，我把这套方案讲透了](https://www.cnblogs.com/zrui-xyu/p/23383252)
+10. [Java AI框架选型指南](https://www.cnblogs.com/12lisu/p/23382922)
+11. [从 0 到 1 搭建一套企业级 AI 智能客服平台：微服务 + RAG + 全链路可观测](https://www.cnblogs.com/huangrenhui/p/23382353)
+12. [Linux 网络 IO 模型演进与 Epoll 内部机制](https://www.cnblogs.com/FfHUCisI/p/23382395)
+13. [技术思考问题34：MiniMax降七成，账单真能降？](https://www.cnblogs.com/snidget/p/23382261)
+14. [AI Agent 评测：到底要测什么、新手怎么测？（附完整流程）](https://www.cnblogs.com/jinjiangongzuoshi/p/23381947)
+15. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
+16. [7 个阶段，27 篇经典论文，一文看懂 Transformer 如何催生现代 LLM](https://www.cnblogs.com/aifrontiers/p/23381832)
+17. [MQTT实战 - MQTTnet连接可靠性设计：自动重连、心跳、ClientId管理（五）](https://www.cnblogs.com/hugogoos/p/23372397)
+18. [用脚本按顺序执行初始化 DB 的 SQL 文件](https://www.cnblogs.com/jyzhao/p/23381011)
+19. [不要活成一个“高斯流形检测器”：把人类独特性寄托在这个上面，迟早会自取灭亡](https://www.cnblogs.com/apachecn/p/23380651)
+20. [# 不需要你同意，只需要你依赖  ## ——合法性的一块新基座，正在不征求意见地铺设](https://www.cnblogs.com/mofahuizhang/p/23378530)
 
 ## 精华帖子
 

@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-21 05:38:03
+> 更新时间：2026-10-21 11:43:49
 
 ## 每日趋势
 
@@ -15,8 +15,10 @@
 9. [agency-agents](https://github.com/msitarzewski/agency-agents)
 10. [headroom](https://github.com/headroomlabs-ai/headroom)
 11. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-12. [Kronos](https://github.com/shiyu-coder/Kronos)
-13. [vllm](https://github.com/vllm-project/vllm)
+12. [agents](https://github.com/wshobson/agents)
+13. [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
+14. [Kronos](https://github.com/shiyu-coder/Kronos)
+15. [vllm](https://github.com/vllm-project/vllm)
 
 ## 每周趋势
 
@@ -34,6 +36,7 @@
 12. [plugins](https://github.com/cursor/plugins)
 13. [diagram-design](https://github.com/cathrynlavery/diagram-design)
 14. [artcraft](https://github.com/storytold/artcraft)
+15. [agents](https://github.com/wshobson/agents)
 
 ## 每月趋势
 
@@ -87,15 +90,16 @@
 2. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 3. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 4. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-5. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-6. [text-to-cad](https://github.com/earthtojake/text-to-cad)
-7. [jasna](https://github.com/Kruk2/jasna)
-8. [iFixAi](https://github.com/ifixai-ai/iFixAi)
-9. [free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-10. [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
-11. [KittenTTS](https://github.com/KittenML/KittenTTS)
-12. [voice-pro](https://github.com/abus-aikorea/voice-pro)
-13. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+5. [agents](https://github.com/wshobson/agents)
+6. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+7. [text-to-cad](https://github.com/earthtojake/text-to-cad)
+8. [jasna](https://github.com/Kruk2/jasna)
+9. [iFixAi](https://github.com/ifixai-ai/iFixAi)
+10. [free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+11. [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
+12. [KittenTTS](https://github.com/KittenML/KittenTTS)
+13. [voice-pro](https://github.com/abus-aikorea/voice-pro)
+14. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
 ## Go
 
