@@ -1,14 +1,14 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-22 04:12:01
+> 更新时间：2026-10-22 05:10:55
 
 ## 人气热门
 
-1. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.21)](https://www.52pojie.cn/thread-2132239-1-1.html)
-2. [微信谷歌版WeChat-8.0.79(3182)](https://www.52pojie.cn/thread-2132353-1-1.html)
-3. [Cppcryptfs 文件夹挂载加密 v1.4.5.0 汉化版](https://www.52pojie.cn/thread-2133267-1-1.html)
-4. [全能下载工具Motrix v2.0.0-beta.52](https://www.52pojie.cn/thread-2133111-1-1.html)
-5. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
+1. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
+2. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.21)](https://www.52pojie.cn/thread-2132239-1-1.html)
+3. [微信谷歌版WeChat-8.0.79(3182)](https://www.52pojie.cn/thread-2132353-1-1.html)
+4. [Cppcryptfs 文件夹挂载加密 v1.4.5.0 汉化版](https://www.52pojie.cn/thread-2133267-1-1.html)
+5. [全能下载工具Motrix v2.0.0-beta.52](https://www.52pojie.cn/thread-2133111-1-1.html)
 6. [《剪映悬浮球助手V2.3》支持最新剪映](https://www.52pojie.cn/thread-2132915-1-1.html)
 7. [360文件夹v1.0.0.1220 绿色精简版](https://www.52pojie.cn/thread-2133013-1-1.html)
 8. [宗谱管理系统 v7.0](https://www.52pojie.cn/thread-2133400-1-1.html)

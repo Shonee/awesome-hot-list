@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-22 04:11:54
+> 更新时间：2026-10-22 05:10:37
 
 ## 热门文章
 
@@ -23,9 +23,9 @@
 17. [调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%](https://juejin.cn/post/7698568843102617626)
 18. [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825)
 19. [程序员 1v1 访谈系列第五期：裁掉正岗，招外包](https://juejin.cn/post/7698646220872450082)
-20. [Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里](https://juejin.cn/post/7698709811564068915)
-21. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
-22. [栗子前端技术周刊第 150 期 - Stack Overflow 开发者调查结果、TanStack Start 1.0...](https://juejin.cn/post/7697531208898445353)
+20. [栗子前端技术周刊第 150 期 - Stack Overflow 开发者调查结果、TanStack Start 1.0...](https://juejin.cn/post/7697531208898445353)
+21. [Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里](https://juejin.cn/post/7698709811564068915)
+22. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
 23. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
 24. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
 25. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
@@ -41,9 +41,9 @@
 35. [我用 AI 给两个人写了个微信小程序：共享清单、记账和纪念日](https://juejin.cn/post/7698227087580708864)
 36. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
 37. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
-38. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
-39. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
-40. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
+38. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
+39. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
+40. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
 41. [开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架](https://juejin.cn/post/7698552541928194063)
 42. [2026 Web 技术选型指南，AI 时代如何选择适合项目的技术栈](https://juejin.cn/post/7698546640890986496)
 43. [每天盯着屏幕写代码，我终于不想再凑合了](https://juejin.cn/post/7698350142772396032)

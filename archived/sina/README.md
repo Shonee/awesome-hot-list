@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-22 04:12:13
+> 更新时间：2026-10-22 05:11:09
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [乌克兰总统泽连斯基：此次会谈可讨论和平事宜以及可能举行的领导人峰会。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8023062.shtml)
-2. [市场消息：美国总统特朗普将于下周三在俄亥俄州举行集会。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8019026.shtml)
-3. [通用汽车：将高速自动驾驶功能拓展至销量最高、最畅销车型系列，包含全尺寸SUV以及轻型皮卡。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8139295.shtml)
-4. [乌克兰总统泽连斯基：乌克兰希望会谈不晚于 11 月初举行。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4795808.shtml)
-5. [SpaceX据称为在孟菲斯建设数据中心的工人提供20%的额外薪酬。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4792438.shtml)
-6. [美国财政部于回购操作中接受47.51亿美元2028-36年到期国债。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8140011.shtml)
-7. [美国副总统万斯：没有人比特朗普更痛恨有人利用公职便利、通过欺诈手段牟利。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8077934.shtml)
-8. [20年期美国国债收益率在130亿美元拍卖后收窄跌幅，最新下跌1.25个基点，报5.467%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4872828.shtml)
-9. [欧盟委员会：欧盟碳排放交易体系的市场稳定储备将能够留存最多7亿份配额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8084573.shtml)
-10. [美国：美俄乌三方技术性会议已获批准。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4861920.shtml)
-11. [伊朗方面称锡里克地区传出数次爆炸声](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8035852.shtml)
-12. [沙特联军：拦截并摧毁了一架飞往东部地区的无人机。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4906075.shtml)
-13. [Anthropic：Christopher Stubbs加入Anthropic长期利益信托。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4856800.shtml)
-14. [美国财政部拍卖130亿美元20年期国债，得标利率5.469%，投标倍数2.73。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8099666.shtml)
-15. [调查显示，周四 EIA 报告预计美国上周天然气库存增加 790 亿立方英尺。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8142312.shtml)
-16. [美国官员：美国国务院准备发布指令，要求驻海湾地区多国大使馆部分人员及其家属撤离。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4811193.shtml)
-17. [科威特石油公司首席执行官：目前已有客户前往海湾地区提货。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4897650.shtml)
-18. [捷克政府：已将其网站下线，以便安装PHP安全补丁。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8028660.shtml)
-19. [美国大使馆就胡塞武装袭击沙特阿拉伯一事发布安全警报。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8029389.shtml)
-20. [乌克兰总统泽连斯基：在威特科夫访问俄罗斯后，与美方进行了会谈。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4789710.shtml)
+1. [沃尔玛将推出用于AI购物管控的智能代理档案，该工具支持用户通过应用程序与智能代理完成购物，允许用户为AI智能代理设置消费限额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8066962.shtml)
+2. [Meta的（无投票权股票）计划不会稀释扎克伯格的控制权。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4832123.shtml)
+3. [美国国务院发言人：胡塞武装加大了对沙特阿拉伯的袭击力度，袭击目标包括民用机场和关键基础设施。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4840125.shtml)
+4. [Meta的相关计划最早可能于周三宣布。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8059195.shtml)
+5. [加拿大总理卡尼称周三与特朗普进行了长时间通话。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8045041.shtml)
+6. [乌克兰总统泽连斯基：此次会谈可讨论和平事宜以及可能举行的领导人峰会。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8023062.shtml)
+7. [市场消息：美国总统特朗普将于下周三在俄亥俄州举行集会。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8019026.shtml)
+8. [通用汽车：将高速自动驾驶功能拓展至销量最高、最畅销车型系列，包含全尺寸SUV以及轻型皮卡。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8139295.shtml)
+9. [空客预计，未来二十年全球航空货运量将年均增长3.2%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4815443.shtml)
+10. [乌克兰总统泽连斯基：乌克兰希望会谈不晚于 11 月初举行。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4795808.shtml)
+11. [OpenAI的模型即将登陆谷歌云](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8062619.shtml)
+12. [微软：在多家客户环境中监测到Storm-0940身份验证活动，暂未确认发生数据访问。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8052145.shtml)
+13. [SpaceX据称为在孟菲斯建设数据中心的工人提供20%的额外薪酬。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4792438.shtml)
+14. [美国财政部于回购操作中接受47.51亿美元2028-36年到期国债。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8140011.shtml)
+15. [美国副总统万斯：没有人比特朗普更痛恨有人利用公职便利、通过欺诈手段牟利。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8077934.shtml)
+16. [20年期美国国债收益率在130亿美元拍卖后收窄跌幅，最新下跌1.25个基点，报5.467%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4872828.shtml)
+17. [欧盟委员会：欧盟碳排放交易体系的市场稳定储备将能够留存最多7亿份配额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8084573.shtml)
+18. [美国：美俄乌三方技术性会议已获批准。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4861920.shtml)
+19. [伊朗方面称锡里克地区传出数次爆炸声](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8035852.shtml)
+20. [沙特联军：拦截并摧毁了一架飞往东部地区的无人机。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4906075.shtml)
