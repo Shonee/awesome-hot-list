@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-22 00:13:49
+> 更新时间：2026-10-22 01:10:48
 
 ## 股票人气榜
 
@@ -8,19 +8,19 @@
 2. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 3. [太极股份 (002368)](https://quote.eastmoney.com/sz002368.html)
 4. [南威软件 (603636)](https://quote.eastmoney.com/sh603636.html)
-5. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
-6. [粤 传 媒 (002181)](https://quote.eastmoney.com/sz002181.html)
+5. [粤 传 媒 (002181)](https://quote.eastmoney.com/sz002181.html)
+6. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
 7. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 8. [利亚德 (300296)](https://quote.eastmoney.com/sz300296.html)
 9. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
 10. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
 11. [海量数据 (603138)](https://quote.eastmoney.com/sh603138.html)
 12. [利通电子 (603629)](https://quote.eastmoney.com/sh603629.html)
-13. [平潭发展 (000592)](https://quote.eastmoney.com/sz000592.html)
-14. [润建股份 (002929)](https://quote.eastmoney.com/sz002929.html)
+13. [润建股份 (002929)](https://quote.eastmoney.com/sz002929.html)
+14. [东方海洋 (002086)](https://quote.eastmoney.com/sz002086.html)
 15. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
-16. [东方海洋 (002086)](https://quote.eastmoney.com/sz002086.html)
+16. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
 17. [航天信息 (600271)](https://quote.eastmoney.com/sh600271.html)
-18. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
-19. [东安动力 (600178)](https://quote.eastmoney.com/sh600178.html)
-20. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
+18. [平潭发展 (000592)](https://quote.eastmoney.com/sz000592.html)
+19. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
+20. [东安动力 (600178)](https://quote.eastmoney.com/sh600178.html)
