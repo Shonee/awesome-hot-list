@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-22 06:11:15
+> 更新时间：2026-10-22 07:10:36
 
 ## 热门文章
 
@@ -36,21 +36,21 @@
 30. [155个App把豆包关在门外，豆包反手掏出第二把钥匙](https://juejin.cn/post/7698268211586957338)
 31. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
 32. [从零手搓 AI 伴侣：Java + 大模型 + 多模态的工程化踩坑实录](https://juejin.cn/post/7698306160449208355)
-33. [质保期第 90 天我翻了一遍日志目录：交付后真正会坏的 3 处](https://juejin.cn/post/7697952294365495350)
-34. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
-35. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
-36. [Base62 和 Base64 有什么区别？](https://juejin.cn/post/7698306160449241123)
-37. [我用 AI 给两个人写了个微信小程序：共享清单、记账和纪念日](https://juejin.cn/post/7698227087580708864)
-38. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
-39. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
-40. [封装fetch替换axios](https://juejin.cn/post/7698345359642542131)
-41. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
-42. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
-43. [开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架](https://juejin.cn/post/7698552541928194063)
-44. [2026 Web 技术选型指南，AI 时代如何选择适合项目的技术栈](https://juejin.cn/post/7698546640890986496)
-45. [每天盯着屏幕写代码，我终于不想再凑合了](https://juejin.cn/post/7698350142772396032)
-46. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
-47. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
-48. [本地大模型微调与 GGUF 部署全指南](https://juejin.cn/post/7698567279269199906)
-49. [DeepSeek 突发上线 V4.1-1017：552B 稀疏架构仅激活 16B，白菜价背后的工程奇迹](https://juejin.cn/post/7698552541928734735)
-50. [行内编辑，前端如何兜底？😭😭😭](https://juejin.cn/post/7698350142773313536)
+33. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
+34. [质保期第 90 天我翻了一遍日志目录：交付后真正会坏的 3 处](https://juejin.cn/post/7697952294365495350)
+35. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
+36. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
+37. [2026 Web 技术选型指南，AI 时代如何选择适合项目的技术栈](https://juejin.cn/post/7698546640890986496)
+38. [封装fetch替换axios](https://juejin.cn/post/7698345359642542131)
+39. [Base62 和 Base64 有什么区别？](https://juejin.cn/post/7698306160449241123)
+40. [我用 AI 给两个人写了个微信小程序：共享清单、记账和纪念日](https://juejin.cn/post/7698227087580708864)
+41. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
+42. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
+43. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
+44. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
+45. [开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架](https://juejin.cn/post/7698552541928194063)
+46. [每天盯着屏幕写代码，我终于不想再凑合了](https://juejin.cn/post/7698350142772396032)
+47. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
+48. [AI 热点日报（2026-10-20）：DeepSeek V4.1-Flash落地，Meta开源816B大模型，国产AI芯片涨价20%-50%](https://juejin.cn/post/7698331749004083243)
+49. [本地大模型微调与 GGUF 部署全指南](https://juejin.cn/post/7698567279269199906)
+50. [DeepSeek 突发上线 V4.1-1017：552B 稀疏架构仅激活 16B，白菜价背后的工程奇迹](https://juejin.cn/post/7698552541928734735)

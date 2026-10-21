@@ -1,42 +1,40 @@
 # GitHub热榜
 
-> 更新时间：2026-10-22 00:41:28
+> 更新时间：2026-10-22 07:10:34
 
 ## 每日趋势
 
-1. [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
-2. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-3. [vllm](https://github.com/vllm-project/vllm)
-4. [orca](https://github.com/stablyai/orca)
-5. [headroom](https://github.com/headroomlabs-ai/headroom)
-6. [ponytail](https://github.com/DietrichGebert/ponytail)
-7. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
-8. [supabase](https://github.com/supabase/supabase)
-9. [twenty](https://github.com/twentyhq/twenty)
-10. [Kronos](https://github.com/shiyu-coder/Kronos)
-11. [freehire](https://github.com/strelov1/freehire)
-12. [ai-memory](https://github.com/akitaonrails/ai-memory)
-13. [graphify](https://github.com/Graphify-Labs/graphify)
+1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+2. [vllm](https://github.com/vllm-project/vllm)
+3. [orca](https://github.com/stablyai/orca)
+4. [headroom](https://github.com/headroomlabs-ai/headroom)
+5. [ponytail](https://github.com/DietrichGebert/ponytail)
+6. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+7. [supabase](https://github.com/supabase/supabase)
+8. [twenty](https://github.com/twentyhq/twenty)
+9. [Kronos](https://github.com/shiyu-coder/Kronos)
+10. [freehire](https://github.com/strelov1/freehire)
+11. [ai-memory](https://github.com/akitaonrails/ai-memory)
+12. [graphify](https://github.com/Graphify-Labs/graphify)
 
 ## 每周趋势
 
 1. [rea](https://github.com/morluto/rea)
-2. [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
-3. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-4. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-5. [ruflo](https://github.com/ruvnet/ruflo)
-6. [skills](https://github.com/android/skills)
-7. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
-8. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-9. [context-mode](https://github.com/mksglu/context-mode)
-10. [hyperframes](https://github.com/heygen-com/hyperframes)
-11. [plugins](https://github.com/cursor/plugins)
-12. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-13. [ai-memory](https://github.com/akitaonrails/ai-memory)
-14. [opencode](https://github.com/anomalyco/opencode)
-15. [agents](https://github.com/wshobson/agents)
-16. [text-to-cad](https://github.com/earthtojake/text-to-cad)
-17. [orca](https://github.com/stablyai/orca)
+2. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+3. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+4. [ruflo](https://github.com/ruvnet/ruflo)
+5. [skills](https://github.com/android/skills)
+6. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+7. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+8. [context-mode](https://github.com/mksglu/context-mode)
+9. [hyperframes](https://github.com/heygen-com/hyperframes)
+10. [plugins](https://github.com/cursor/plugins)
+11. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+12. [ai-memory](https://github.com/akitaonrails/ai-memory)
+13. [opencode](https://github.com/anomalyco/opencode)
+14. [agents](https://github.com/wshobson/agents)
+15. [text-to-cad](https://github.com/earthtojake/text-to-cad)
+16. [orca](https://github.com/stablyai/orca)
 
 ## 每月趋势
 
@@ -60,7 +58,6 @@
 18. [impeccable](https://github.com/pbakaus/impeccable)
 19. [t3code](https://github.com/pingdotgg/t3code)
 20. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-21. [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 ## Java
 
@@ -84,22 +81,21 @@
 
 ## Python
 
-1. [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
-2. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-3. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-4. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-5. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-6. [agents](https://github.com/wshobson/agents)
-7. [text-to-cad](https://github.com/earthtojake/text-to-cad)
-8. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
-9. [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
-10. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-11. [harvey](https://github.com/ethanplusai/harvey)
-12. [jasna](https://github.com/Kruk2/jasna)
-13. [tokenspeed](https://github.com/lightseekorg/tokenspeed)
-14. [Kronos](https://github.com/shiyu-coder/Kronos)
-15. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-16. [KittenTTS](https://github.com/KittenML/KittenTTS)
+1. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+2. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+3. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+4. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+5. [agents](https://github.com/wshobson/agents)
+6. [text-to-cad](https://github.com/earthtojake/text-to-cad)
+7. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+8. [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
+9. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+10. [harvey](https://github.com/ethanplusai/harvey)
+11. [jasna](https://github.com/Kruk2/jasna)
+12. [tokenspeed](https://github.com/lightseekorg/tokenspeed)
+13. [Kronos](https://github.com/shiyu-coder/Kronos)
+14. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+15. [KittenTTS](https://github.com/KittenML/KittenTTS)
 
 ## Go
 
