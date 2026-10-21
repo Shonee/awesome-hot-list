@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-22 01:38:40
+> 更新时间：2026-10-22 02:43:20
 
 ## 24 小时热榜
 
@@ -10,8 +10,8 @@
 4. [微信朋友圈点赞有彩蛋，腾讯客服回应称正在灰度测试](https://readhub.cn/topic/8xNoQyTaNqE?tab=daily)
 5. [OpenAI 收购生物医疗企业 Orchestra Bio](https://readhub.cn/topic/8xODRGQdiTZ?tab=daily)
 6. [小天才手表上热搜被指封闭社交倒逼家长购买 客服回应](https://readhub.cn/topic/8xNOihwILX4?tab=daily)
-7. [问界回应陕西车辆起火事故：事发时人驾，相关传闻不实](https://readhub.cn/topic/8xP8Gi9WowG?tab=daily)
-8. [宝马计划 2027 年底前裁员约 8000 人 优厚补偿引员工争相报名](https://readhub.cn/topic/8xNe5C7Lwa0?tab=daily)
+7. [宝马计划 2027 年底前裁员约 8000 人 优厚补偿引员工争相报名](https://readhub.cn/topic/8xNe5C7Lwa0?tab=daily)
+8. [问界回应陕西车辆起火事故：事发时人驾，相关传闻不实](https://readhub.cn/topic/8xP8Gi9WowG?tab=daily)
 9. [红果短剧计划下线金币功能](https://readhub.cn/topic/8xPCtj8ico1?tab=daily)
 10. [奥特曼提出超级智能发展三条终局路径](https://readhub.cn/topic/8xOh6U7SOtj?tab=daily)
 11. [韩路控诉被白嫖至少 400 万 汽车之家：已启动内部专项核查](https://readhub.cn/topic/8xNGVlwKTYH?tab=daily)
@@ -27,8 +27,8 @@
 21. [主动 ETF 发行火速定档 场内投资生态迎来革新](https://readhub.cn/topic/8xOW1MSrJxY?tab=daily)
 22. [千问上线「千问陪逛」新功能 双 11 可辅助用户网购比价避坑](https://readhub.cn/topic/8xOGf4KcM6C?tab=daily)
 23. [豆包工作功能上新 本地 Office 编辑新增 Word](https://readhub.cn/topic/8xOxXVAmd9u?tab=daily)
-24. [消息称 Anthropic 今年上半年净亏损超 800 亿美元](https://readhub.cn/topic/8xOduA7p7Sn?tab=daily)
-25. [腾讯股价跌破 400 港元创一年新低 年内市值缩水近四成](https://readhub.cn/topic/8xP7EUjVF9X?tab=daily)
+24. [腾讯股价跌破 400 港元创一年新低 年内市值缩水近四成](https://readhub.cn/topic/8xP7EUjVF9X?tab=daily)
+25. [消息称 Anthropic 今年上半年净亏损超 800 亿美元](https://readhub.cn/topic/8xOduA7p7Sn?tab=daily)
 26. [哈佛重磅研究：AI 凭人脸照片，就能预测癌症患者死亡风险](https://readhub.cn/topic/8xOvPZVBIUS?tab=daily)
 27. [苹果 CEO 特努斯：设计依旧是苹果第一要务 不追逐技术热点](https://readhub.cn/topic/8xOZFUcsy9m?tab=daily)
 28. [外交部回应美要求联邦机构停用中国 AI：将维护中企合法权益](https://readhub.cn/topic/8xNUtC92LYM?tab=daily)
@@ -48,12 +48,12 @@
 ## AI 资讯
 
 1. [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries)
-2. [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud)
-3. [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5)
-4. [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin)
-5. [How we built ChatGPT's novel ad stack for user trust and relevance](https://openai.com/index/building-chatgpt-ad-stack)
-6. [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
-7. [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
-8. [NVIDIA 发布 Nemotron 3.5 Embed、Rerank 和 Parse 检索模型，提升 Agent 能力](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)
-9. [NVIDIA cuDSS 正式发布，加速工程与科学仿真](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/)
-10. [NVIDIA Kumo Anomaly Brings Diffusion-Based Anomaly Detection to Multivariate Time Series](https://huggingface.co/blog/nvidia/kumo-anomaly)
+2. [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
+3. [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud)
+4. [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
+5. [Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0](https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real)
+6. [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5)
+7. [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin)
+8. [How we built ChatGPT's novel ad stack for user trust and relevance](https://openai.com/index/building-chatgpt-ad-stack)
+9. [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
+10. [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
