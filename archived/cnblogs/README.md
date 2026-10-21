@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-21 09:08:54
+> 更新时间：2026-10-21 09:49:38
 
 ## 最新帖子
 
-1. [AI Agent 评测：到底要测什么、新手怎么测？（附完整流程）](https://www.cnblogs.com/jinjiangongzuoshi/p/23381947)
-2. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
-3. [7 个阶段，27 篇经典论文，一文看懂 Transformer 如何催生现代 LLM](https://www.cnblogs.com/aifrontiers/p/23381832)
-4. [MQTT实战 - MQTTnet连接可靠性设计：自动重连、心跳、ClientId管理（五）](https://www.cnblogs.com/hugogoos/p/23372397)
-5. [用脚本按顺序执行初始化 DB 的 SQL 文件](https://www.cnblogs.com/jyzhao/p/23381011)
-6. [不要活成一个“高斯流形检测器”：把人类独特性寄托在这个上面，迟早会自取灭亡](https://www.cnblogs.com/apachecn/p/23380651)
-7. [# 不需要你同意，只需要你依赖  ## ——合法性的一块新基座，正在不征求意见地铺设](https://www.cnblogs.com/mofahuizhang/p/23378530)
-8. [从 INF、DSC、DEC 到 FDF：理解 EDK II 的 UEFI 编译与固件生成流程](https://www.cnblogs.com/ayuan01/p/23378536)
-9. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
-10. [关于 x1 y1 等变量名冲突的指正（校对版）](https://www.cnblogs.com/cao2333/p/23375942)
-11. [让 Agent 在给方案之前先摊开它的假设](https://www.cnblogs.com/fhyy/p/23378163)
-12. [【Agentic RL】Dressage Staleness 控制深度分析](https://www.cnblogs.com/rossiXYZ/p/23263641)
-13. [手把手把 GitHub 推上阿里云 ECS：Actions CI/CD 全链路避坑实录（折腾好几天，到 2 分钟见绿）](https://www.cnblogs.com/xyyt/p/23377985/github-actions-aliyun-ecs-cicd-pitfalls)
-14. [10 人团队 10 种 AI 代码风格：规则文件不是配置文件](https://www.cnblogs.com/uniqueDong/p/23377655)
-15. [使用命令行做描述性统计的技巧](https://www.cnblogs.com/wang_yb/p/23377517)
-16. [首批入选！天翼云荣获2026年度国家人工智能安全漏洞库优秀技术支撑单位奖](https://www.cnblogs.com/developer-tianyiyun/p/23376548)
-17. [DevOps 流水线选型：性能与稳定性该怎么评估？](https://www.cnblogs.com/yfxn/p/23374464)
-18. [一文搞懂 Agent Teams：如何让多个 AI 组队协作完成任务？](https://www.cnblogs.com/Tomorrowland/p/23363086)
-19. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
-20. [对象状态与操作合法性异常【C# Exception 详解系列（二）】](https://www.cnblogs.com/hnzhengfy/p/23360696/Exception_d2)
+1. [Java AI框架选型指南](https://www.cnblogs.com/12lisu/p/23382922)
+2. [从 0 到 1 搭建一套企业级 AI 智能客服平台：微服务 + RAG + 全链路可观测](https://www.cnblogs.com/huangrenhui/p/23382353)
+3. [Linux 网络 IO 模型演进与 Epoll 内部机制](https://www.cnblogs.com/FfHUCisI/p/23382395)
+4. [技术思考问题34：MiniMax降七成，账单真能降？](https://www.cnblogs.com/snidget/p/23382261)
+5. [AI Agent 评测：到底要测什么、新手怎么测？（附完整流程）](https://www.cnblogs.com/jinjiangongzuoshi/p/23381947)
+6. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
+7. [7 个阶段，27 篇经典论文，一文看懂 Transformer 如何催生现代 LLM](https://www.cnblogs.com/aifrontiers/p/23381832)
+8. [MQTT实战 - MQTTnet连接可靠性设计：自动重连、心跳、ClientId管理（五）](https://www.cnblogs.com/hugogoos/p/23372397)
+9. [用脚本按顺序执行初始化 DB 的 SQL 文件](https://www.cnblogs.com/jyzhao/p/23381011)
+10. [不要活成一个“高斯流形检测器”：把人类独特性寄托在这个上面，迟早会自取灭亡](https://www.cnblogs.com/apachecn/p/23380651)
+11. [# 不需要你同意，只需要你依赖  ## ——合法性的一块新基座，正在不征求意见地铺设](https://www.cnblogs.com/mofahuizhang/p/23378530)
+12. [从 INF、DSC、DEC 到 FDF：理解 EDK II 的 UEFI 编译与固件生成流程](https://www.cnblogs.com/ayuan01/p/23378536)
+13. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
+14. [关于 x1 y1 等变量名冲突的指正（校对版）](https://www.cnblogs.com/cao2333/p/23375942)
+15. [让 Agent 在给方案之前先摊开它的假设](https://www.cnblogs.com/fhyy/p/23378163)
+16. [【Agentic RL】Dressage Staleness 控制深度分析](https://www.cnblogs.com/rossiXYZ/p/23263641)
+17. [手把手把 GitHub 推上阿里云 ECS：Actions CI/CD 全链路避坑实录（折腾好几天，到 2 分钟见绿）](https://www.cnblogs.com/xyyt/p/23377985/github-actions-aliyun-ecs-cicd-pitfalls)
+18. [10 人团队 10 种 AI 代码风格：规则文件不是配置文件](https://www.cnblogs.com/uniqueDong/p/23377655)
+19. [使用命令行做描述性统计的技巧](https://www.cnblogs.com/wang_yb/p/23377517)
+20. [首批入选！天翼云荣获2026年度国家人工智能安全漏洞库优秀技术支撑单位奖](https://www.cnblogs.com/developer-tianyiyun/p/23376548)
 
 ## 精华帖子
 

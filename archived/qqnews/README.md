@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-21 09:09:07
+> 更新时间：2026-10-21 09:49:49
 
 ## 热点榜
 
@@ -17,10 +17,10 @@
 11. [“加油站柴油掺水是行业潜规则”？谣言！](https://view.inews.qq.com/a/20261020A0ADBN00)
 12. [送8个儿子去长征，她点灯等了26年](https://h5.news.qq.com/qqfile/tnewsh5/short-term/long-march-cultural-relic-show.html?disabletitlebar=1&from=xx)
 13. [“手段特别残忍”，刘某奇被判死刑](https://view.inews.qq.com/a/20261020A0A33200)
-14. [自然资源部：坚决拥护党中央决定](https://view.inews.qq.com/a/20261020A0FGFP00)
-15. [华盛顿，有点急](https://view.inews.qq.com/a/20261020A0FIDM00)
-16. [台风、大风双预警齐发 “蔷琵”逐渐向台湾以东洋面靠近](https://view.inews.qq.com/a/20261021A0361Z00)
-17. [勒布朗的价值！詹姆斯76人首秀开场失误+打铁 但连送妙传助队友得分](https://view.inews.qq.com/a/20261021V03A4900)
-18. [救助流浪宠物的爱心博主秦思雨感染罕见真菌病逝，年仅27岁，丈夫：她温柔漂亮有爱心，随时带着猫狗粮，走到哪里都会喂](https://view.inews.qq.com/a/20261020A08W0C00)
-19. [有人鼓吹抵制中国货？菲前国安顾问反对](https://view.inews.qq.com/a/20261021A02YMT00)
-20. [新媒：中美对等降税将惠及美国家庭](https://view.inews.qq.com/a/20261020A09WE500)
+14. [华盛顿，有点急](https://view.inews.qq.com/a/20261020A0FIDM00)
+15. [勒布朗的价值！詹姆斯76人首秀开场失误+打铁 但连送妙传助队友得分](https://view.inews.qq.com/a/20261021V03A4900)
+16. [有人鼓吹抵制中国货？菲前国安顾问反对](https://view.inews.qq.com/a/20261021A02YMT00)
+17. [能用的椭圆仪倒贴70元才清走、3年前的千元沙发如今清理费却花300元；“东西还能用，为什么没人要？”大件旧物回收现状调查](https://view.inews.qq.com/a/20261021A03B1U00)
+18. [顶住，千万别降价！专家喊话宁德时代：你一降价车企就降，继续内卷](https://view.inews.qq.com/a/20261021V03D3W00)
+19. [数字主权博弈骤然升级，欧洲四大巨头挑战“星链”，美国威胁“毁灭性反制”欧盟](https://view.inews.qq.com/a/20261021A033ZT00)
+20. [自然资源部：坚决拥护党中央决定](https://view.inews.qq.com/a/20261020A0FGFP00)

@@ -1,6 +1,6 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-21 09:09:16
+> 更新时间：2026-10-21 09:50:37
 
 ## 每日热点榜
 
@@ -16,22 +16,22 @@
 10. [吉利银河星舰8谍照曝光](http://www.autohome.com.cn/news/202610/1317861.html)
 11. [问界起诉57粉博主索赔100万](https://chejiahao.autohome.com.cn/info/26685018#pvareaid=6834132)
 12. [全网最听劝董事长离职](https://chejiahao.autohome.com.cn/info/26685278#pvareaid=6834132)
-13. [红旗G919将于10月25日正式上市](http://www.autohome.com.cn/news/202610/1317856.html)
+13. [大众ID.AURAT6首销月锁单超3.3万台](https://chejiahao.autohome.com.cn/info/26685294#pvareaid=6834132)
 14. [小米新车要下饺子 8款新车商标曝光](https://chejiahao.autohome.com.cn/info/26687767#pvareaid=6834132)
-15. [大众ID.AURAT6首销月锁单超3.3万台](https://chejiahao.autohome.com.cn/info/26685294#pvareaid=6834132)
-16. [2027款吉利缤越超能版实车亮相](http://www.autohome.com.cn/news/202610/1317879.html)
-17. [智己LS8NEO纯电10月29日预售](http://club.autohome.com.cn/bbs/thread/7ef2ce06b5cfe884/116475112-1.html)
+15. [红旗G919将于10月25日正式上市](http://www.autohome.com.cn/news/202610/1317856.html)
+16. [智己LS8NEO纯电10月29日开启预售](http://club.autohome.com.cn/bbs/thread/7ef2ce06b5cfe884/116475112-1.html)
+17. [2027款吉利缤越超能版实车亮相](http://www.autohome.com.cn/news/202610/1317879.html)
 18. [小米申请SU9 LUX商标](http://www.autohome.com.cn/news/202610/1317845.html)
 19. [理想发布连山三电技术体系](https://chejiahao.autohome.com.cn/info/26691556#pvareaid=6834132)
 20. [iCAR V25预售13.98万起](https://chejiahao.autohome.com.cn/info/26682239#pvareaid=6834132)
 21. [萤火虫新车型10月23日上市](http://www.autohome.com.cn/news/202610/1317854.html)
 22. [智界计划独立上市](http://www.autohome.com.cn/news/202610/1317850.html)
 23. [极狐问道V9迎来OTA升级](http://www.autohome.com.cn/news/202610/1317883.html)
-24. [郑州日产全新NV200谍照曝光](http://www.autohome.com.cn/news/202610/1317788.html)
-25. [深蓝S05新增智能生态仪表屏](http://www.autohome.com.cn/news/202610/1317860.html)
+24. [深蓝S05新增智能生态仪表屏](http://www.autohome.com.cn/news/202610/1317860.html)
+25. [郑州日产全新NV200谍照曝光](http://www.autohome.com.cn/news/202610/1317788.html)
 26. [马斯克明年向全美儿童送SpaceX股票](https://chejiahao.autohome.com.cn/info/26686375#pvareaid=6834132)
 27. [大众智驾族谱解读](http://www.autohome.com.cn/drive/202610/1317844.html)
-28. [小鹏MONAL03法国首台交付](https://chejiahao.autohome.com.cn/info/26689361#pvareaid=6834132)
+28. [小鹏MONAL03在法国完成首台交付](https://chejiahao.autohome.com.cn/info/26689361#pvareaid=6834132)
 29. [梅赛德斯AMG GT SUV首发](http://www.autohome.com.cn/news/202610/1317833.html)
 30. [消息称大众计划到 2030 年前冻结薪资](https://chejiahao.autohome.com.cn/info/26686490#pvareaid=6834132)
 31. [男子驾车故意与货车并排压速堵路](https://chejiahao.autohome.com.cn/info/26681026#pvareaid=6834132)

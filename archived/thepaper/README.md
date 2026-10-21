@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-21 09:09:07
+> 更新时间：2026-10-21 09:49:48
 
 ## 热新闻
 
@@ -17,10 +17,10 @@
 11. [马上评｜星巴克明确消费入座，有边界感才有体面](https://www.thepaper.cn/newsDetail_forward_34288084)
 12. [导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”](https://www.thepaper.cn/newsDetail_forward_34292916)
 13. [星巴克要求“消费入座”？实探多家门店未有相关告示，星巴克中国回应](https://www.thepaper.cn/newsDetail_forward_34289806)
-14. [女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元](https://www.thepaper.cn/newsDetail_forward_34283132)
-15. [邯郸12岁女孩在橡皮泥黑作坊打工致6级伤残：厂方被判担责7成，监护人担责3成](https://www.thepaper.cn/newsDetail_forward_34281346)
-16. [澎湃漫评｜为何总有学校和学生上厕所过不去？](https://www.thepaper.cn/newsDetail_forward_34288709)
-17. [甘肃张掖通报“风电项目影响野生动物栖息”：建设合规，将组织调研](https://www.thepaper.cn/newsDetail_forward_34287541)
-18. [马上测｜“小天才”构建封闭社交圈？记者实探真相](https://www.thepaper.cn/newsDetail_forward_34293055)
-19. [新央企国家数据集团官网上线，领导班子成员披露](https://www.thepaper.cn/newsDetail_forward_34293540)
-20. [美以窃取商业秘密为由制裁5家中企，商务部：中方对此坚决反对](https://www.thepaper.cn/newsDetail_forward_34293468)
+14. [漫长的窒息：厄尔尼诺点燃印尼，一场本可避免的灾难](https://www.thepaper.cn/newsDetail_forward_34289837)
+15. [女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元](https://www.thepaper.cn/newsDetail_forward_34283132)
+16. [在北外滩看全球航运韧性：上海既是参与者，也是答案的一部分](https://www.thepaper.cn/newsDetail_forward_34293583)
+17. [澎湃漫评｜为何总有学校和学生上厕所过不去？](https://www.thepaper.cn/newsDetail_forward_34288709)
+18. [人民锐评：把“火药”做成“烟花”？警惕“中国AI跑偏论”](https://www.thepaper.cn/newsDetail_forward_34286985)
+19. [穿越时空看长征·多维视野｜王芊皓：“贾老婆”与她的铁锅长征](https://www.thepaper.cn/newsDetail_forward_34125100)
+20. [甘肃张掖通报“风电项目影响野生动物栖息”：建设合规，将组织调研](https://www.thepaper.cn/newsDetail_forward_34287541)

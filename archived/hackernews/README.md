@@ -1,26 +1,26 @@
 # Hacker News热榜
 
-> 更新时间：2026-10-21 09:09:54
+> 更新时间：2026-10-21 09:51:49
 
 ## Top Stories
 
 1. [SimCity, but with Permits](https://permit.petercai.com/)
 2. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-3. [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
-4. [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+3. [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+4. [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 5. [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
-6. [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
+6. [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
 7. [What shall I teach my son?](https://stevekrouse.com/ends)
 8. [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
-9. [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
+9. [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
 10. [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
-11. [Ofcom concedes defeat in 4chan case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
-12. [Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
-13. [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
-14. [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026/)
-15. [Shipping a LaTeX Compiler Behind an Edge App](https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app)
+11. [Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
+12. [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
+13. [Ofcom concedes defeat in 4chan case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
+14. [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
+15. [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026/)
 16. [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
 17. [Making Solar Panels with a Microwave [video]](https://www.youtube.com/watch?v=zcWkApGjyGM)
-18. [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)
-19. [Google Cloud outage affects almost all banking and other operations in Europe](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
-20. [Show HN: Dovepass – can I legally fly a drone along this exact path in SF?](https://dovepass.com)
+18. [Google Cloud outage affects almost all banking and other operations in Europe](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
+19. [Show HN: Dovepass – can I legally fly a drone along this exact path in SF?](https://dovepass.com)
+20. [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
