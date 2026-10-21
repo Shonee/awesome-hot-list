@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-22 00:13:07
+> 更新时间：2026-10-22 01:38:40
 
 ## 24 小时热榜
 
@@ -12,19 +12,19 @@
 6. [小天才手表上热搜被指封闭社交倒逼家长购买 客服回应](https://readhub.cn/topic/8xNOihwILX4?tab=daily)
 7. [问界回应陕西车辆起火事故：事发时人驾，相关传闻不实](https://readhub.cn/topic/8xP8Gi9WowG?tab=daily)
 8. [宝马计划 2027 年底前裁员约 8000 人 优厚补偿引员工争相报名](https://readhub.cn/topic/8xNe5C7Lwa0?tab=daily)
-9. [奥特曼提出超级智能发展三条终局路径](https://readhub.cn/topic/8xOh6U7SOtj?tab=daily)
-10. [红果短剧计划下线金币功能](https://readhub.cn/topic/8xPCtj8ico1?tab=daily)
+9. [红果短剧计划下线金币功能](https://readhub.cn/topic/8xPCtj8ico1?tab=daily)
+10. [奥特曼提出超级智能发展三条终局路径](https://readhub.cn/topic/8xOh6U7SOtj?tab=daily)
 11. [韩路控诉被白嫖至少 400 万 汽车之家：已启动内部专项核查](https://readhub.cn/topic/8xNGVlwKTYH?tab=daily)
 12. [PHP 曝高危远程代码执行漏洞，官方提前发布安全补丁](https://readhub.cn/topic/8xOtFk2KZtk?tab=daily)
 13. [AI 未达预期 Meta 暂停裁员计划](https://readhub.cn/topic/8xOkgRW7TY5?tab=daily)
 14. [Claude 64 小时设计 31 万种蛋白，17 种通过实验验证](https://readhub.cn/topic/8xOh7UH2glm?tab=daily)
-15. [《沙丘 3》内地 12 月 31 日上映，与《复联 5》内地档期错开](https://readhub.cn/topic/8xOmpnLsIJH?tab=daily)
-16. [马斯克称 SpaceX 与特斯拉成立委员会讨论合并 尚未敲定](https://readhub.cn/topic/8xOS6B48RJ1?tab=daily)
+15. [马斯克称 SpaceX 与特斯拉成立委员会讨论合并 尚未敲定](https://readhub.cn/topic/8xOS6B48RJ1?tab=daily)
+16. [《沙丘 3》内地 12 月 31 日上映，与《复联 5》内地档期错开](https://readhub.cn/topic/8xOmpnLsIJH?tab=daily)
 17. [OpenAI 推出 ChatGPT「锁定聊天」功能](https://readhub.cn/topic/8xObOEvcEYY?tab=daily)
-18. [宇树科技提示行业商业化不及预期或存估值回归投资风险](https://readhub.cn/topic/8xNkVe4o7Q1?tab=daily)
-19. [SpaceX 首席财务官：新部署算力投资回收期不足一年](https://readhub.cn/topic/8xOq2MsKwzL?tab=daily)
-20. [主动 ETF 发行火速定档 场内投资生态迎来革新](https://readhub.cn/topic/8xOW1MSrJxY?tab=daily)
-21. [AI 助手产品 Today 宣布累计完成超 2 亿美元融资](https://readhub.cn/topic/8xPXIbAaXzl?tab=daily)
+18. [SpaceX 首席财务官：新部署算力投资回收期不足一年](https://readhub.cn/topic/8xOq2MsKwzL?tab=daily)
+19. [宇树科技提示行业商业化不及预期或存估值回归投资风险](https://readhub.cn/topic/8xNkVe4o7Q1?tab=daily)
+20. [AI 助手产品 Today 宣布累计完成超 2 亿美元融资](https://readhub.cn/topic/8xPXIbAaXzl?tab=daily)
+21. [主动 ETF 发行火速定档 场内投资生态迎来革新](https://readhub.cn/topic/8xOW1MSrJxY?tab=daily)
 22. [千问上线「千问陪逛」新功能 双 11 可辅助用户网购比价避坑](https://readhub.cn/topic/8xOGf4KcM6C?tab=daily)
 23. [豆包工作功能上新 本地 Office 编辑新增 Word](https://readhub.cn/topic/8xOxXVAmd9u?tab=daily)
 24. [消息称 Anthropic 今年上半年净亏损超 800 亿美元](https://readhub.cn/topic/8xOduA7p7Sn?tab=daily)
@@ -50,10 +50,10 @@
 1. [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries)
 2. [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud)
 3. [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5)
-4. [How we built ChatGPT's novel ad stack for user trust and relevance](https://openai.com/index/building-chatgpt-ad-stack)
-5. [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
-6. [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
-7. [NVIDIA 发布 Nemotron 3.5 Embed、Rerank 和 Parse 检索模型，提升 Agent 能力](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)
-8. [NVIDIA cuDSS 正式发布，加速工程与科学仿真](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/)
-9. [NVIDIA Kumo Anomaly Brings Diffusion-Based Anomaly Detection to Multivariate Time Series](https://huggingface.co/blog/nvidia/kumo-anomaly)
-10. [清华团队用 AI 造出世界最轻介观显微镜 仅重 1 克，小鼠奔跑、社交时也能看清大脑活动](https://www.mittrchina.com/news/detail/17122)
+4. [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin)
+5. [How we built ChatGPT's novel ad stack for user trust and relevance](https://openai.com/index/building-chatgpt-ad-stack)
+6. [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
+7. [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
+8. [NVIDIA 发布 Nemotron 3.5 Embed、Rerank 和 Parse 检索模型，提升 Agent 能力](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)
+9. [NVIDIA cuDSS 正式发布，加速工程与科学仿真](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/)
+10. [NVIDIA Kumo Anomaly Brings Diffusion-Based Anomaly Detection to Multivariate Time Series](https://huggingface.co/blog/nvidia/kumo-anomaly)
