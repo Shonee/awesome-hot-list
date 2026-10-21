@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-21 22:14:19
+> 更新时间：2026-10-21 23:12:19
 
 ## 热新闻
 
@@ -20,7 +20,7 @@
 14. [马上评｜怒斥偷拍，读懂樊振东的苦口婆心](https://www.thepaper.cn/newsDetail_forward_34297733)
 15. [女孩被假星探骗到东南亚，民警与骗子隔空“抢人”](https://www.thepaper.cn/newsDetail_forward_34293250)
 16. [冯远征：郑云龙是天选“哈姆雷特”](https://www.thepaper.cn/newsDetail_forward_34295439)
-17. [52岁男子上门对账中刀身亡，17岁少年涉嫌故意杀人被刑拘](https://www.thepaper.cn/newsDetail_forward_34299352)
-18. [纪念孙中山诞辰160周年，宋耀如生平展在上海宋园举办](https://www.thepaper.cn/newsDetail_forward_34281075)
-19. [纪念中国工农红军长征胜利90周年｜坚定信念，路在脚下](https://www.thepaper.cn/newsDetail_forward_34249219)
-20. [新央企国家数据集团官网上线，领导班子成员披露](https://www.thepaper.cn/newsDetail_forward_34293540)
+17. [纪念孙中山诞辰160周年，宋耀如生平展在上海宋园举办](https://www.thepaper.cn/newsDetail_forward_34281075)
+18. [纪念中国工农红军长征胜利90周年｜坚定信念，路在脚下](https://www.thepaper.cn/newsDetail_forward_34249219)
+19. [新央企国家数据集团官网上线，领导班子成员披露](https://www.thepaper.cn/newsDetail_forward_34293540)
+20. [长征文物资源家底基本摸清](https://www.thepaper.cn/newsDetail_forward_34293619)

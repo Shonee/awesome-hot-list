@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-21 22:14:03
+> 更新时间：2026-10-21 23:12:01
 
 ## 热门文章
 
@@ -30,9 +30,9 @@
 24. [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886)
 25. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
 26. [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964)
-27. [Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里](https://juejin.cn/post/7698709811564068915)
-28. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
-29. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+27. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+28. [Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里](https://juejin.cn/post/7698709811564068915)
+29. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
 30. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
 31. [155个App把豆包关在门外，豆包反手掏出第二把钥匙](https://juejin.cn/post/7698268211586957338)
 32. [质保期第 90 天我翻了一遍日志目录：交付后真正会坏的 3 处](https://juejin.cn/post/7697952294365495350)
@@ -46,9 +46,9 @@
 40. [我用 AI 给两个人写了个微信小程序：共享清单、记账和纪念日](https://juejin.cn/post/7698227087580708864)
 41. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
 42. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
-43. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
-44. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
-45. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
+43. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
+44. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
+45. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
 46. [每天盯着屏幕写代码，我终于不想再凑合了](https://juejin.cn/post/7698350142772396032)
 47. [AI 热点日报（2026-10-20）：DeepSeek V4.1-Flash落地，Meta开源816B大模型，国产AI芯片涨价20%-50%](https://juejin.cn/post/7698331749004083243)
 48. [FreeSWITCH 入门：把电话系统接入语音客服机器人](https://juejin.cn/post/7698044277813231625)

@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-21 22:15:16
+> 更新时间：2026-10-21 23:13:23
 
 ## Hottest
 
@@ -11,21 +11,21 @@
 5. [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 6. [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
 7. [Mastodon 5.0: A closer look](https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/)
-8. [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
-9. [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc)
-10. [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate)
-11. [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
-12. [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
-13. [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
-14. [Firefox security patch tests are now private for at least a week](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ)
-15. [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-16. [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
-17. [OpenBSD 8.0](https://www.openbsd.org/80.html)
-18. [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
+8. [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc)
+9. [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
+10. [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
+11. [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate)
+12. [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+13. [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
+14. [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
+15. [Firefox security patch tests are now private for at least a week](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ)
+16. [Improving accessibility with CSS media queries (2025)](https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/)
+17. [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
+18. [OpenBSD 8.0](https://www.openbsd.org/80.html)
 19. [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/)
-20. [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
-21. [Improving accessibility with CSS media queries (2025)](https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/)
-22. [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
-23. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
-24. [Announcing the GPU notification group and Linker Working Area](https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/)
-25. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+20. [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
+21. [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
+22. [Rechenwerk — a programmer’s calculator for hex, binary and RPN for iOS and Android](https://rechenwerk.app)
+23. [php2shell by Calif Research](https://calif.io/php2shell.x)
+24. [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
+25. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
