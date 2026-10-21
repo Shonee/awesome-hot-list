@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-21 13:40:45
+> 更新时间：2026-10-21 14:20:37
 
 ## 新闻热榜
 
@@ -22,7 +22,7 @@
 16. [操盘必读：影响股市利好或利空消息_2026年10月21日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-21/doc-inivxrny8000548.shtml)
 17. [巴萨客场2-4不敌巴黎遭赛季首败，开局11连胜被终结](https://news.sina.com.cn/zx/2026-10-21/doc-inivxmex5612262.shtml)
 18. [知名男星被曝性侵儿童演员，最新进展来了](https://news.sina.com.cn/w/2026-10-20/doc-inivwpzi5795907.shtml)
-19. [海南广电记者采访遭殴打 警方已介入](https://news.sina.com.cn/c/2026-10-20/doc-inivwuii6475721.shtml)
+19. [民进党当局拒绝艺人张凌赫赴台交流 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaat6180307.shtml)
 20. [A股近一个月融资净流出超千亿 杠杆资金“后撤待命” 两融余额不断刷新年内新低](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxrny7930209.shtml)
 
 ## 财经热榜
