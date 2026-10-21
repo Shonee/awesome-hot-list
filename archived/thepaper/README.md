@@ -1,13 +1,13 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-21 07:10:37
+> 更新时间：2026-10-21 08:30:30
 
 ## 热新闻
 
-1. [媒体：身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定](https://www.thepaper.cn/newsDetail_forward_34286371)
-2. [国家数据集团成立，有何标志性意义？](https://www.thepaper.cn/newsDetail_forward_34291005)
-3. [星巴克将推行“消费入座”？店员称本周实施，消费者看法不一](https://www.thepaper.cn/newsDetail_forward_34290982)
-4. [读中本贯通的高分生们](https://www.thepaper.cn/newsDetail_forward_34280094)
+1. [国家数据集团成立，有何标志性意义？](https://www.thepaper.cn/newsDetail_forward_34291005)
+2. [星巴克将推行“消费入座”？店员称本周实施，消费者看法不一](https://www.thepaper.cn/newsDetail_forward_34290982)
+3. [见微知沪｜从“站站停”到“按需停”，响应式公交更加考验“绣花功夫”](https://www.thepaper.cn/newsDetail_forward_34292855)
+4. [海南广电记者采访遭殴打、警方已介入，中国记协：呼吁涉事方正视问题配合调查](https://www.thepaper.cn/newsDetail_forward_34293577)
 5. [众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应](https://www.thepaper.cn/newsDetail_forward_34288055)
 6. [工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场](https://www.thepaper.cn/newsDetail_forward_34289607)
 7. [驻英国使馆提醒我公民注意英方出入境检查，敦促英方停止任意扣留盘查](https://www.thepaper.cn/newsDetail_forward_34289409)
@@ -17,10 +17,10 @@
 11. [马上评｜星巴克明确消费入座，有边界感才有体面](https://www.thepaper.cn/newsDetail_forward_34288084)
 12. [导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”](https://www.thepaper.cn/newsDetail_forward_34292916)
 13. [星巴克要求“消费入座”？实探多家门店未有相关告示，星巴克中国回应](https://www.thepaper.cn/newsDetail_forward_34289806)
-14. [男子身中16刀身亡，前妻逃亡26年一审获刑12年，二审检方建议无期徒刑](https://www.thepaper.cn/newsDetail_forward_34281327)
-15. [女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元](https://www.thepaper.cn/newsDetail_forward_34283132)
-16. [邯郸12岁女孩在橡皮泥黑作坊打工致6级伤残：厂方被判担责7成，监护人担责3成](https://www.thepaper.cn/newsDetail_forward_34281346)
+14. [女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元](https://www.thepaper.cn/newsDetail_forward_34283132)
+15. [邯郸12岁女孩在橡皮泥黑作坊打工致6级伤残：厂方被判担责7成，监护人担责3成](https://www.thepaper.cn/newsDetail_forward_34281346)
+16. [澎湃漫评｜为何总有学校和学生上厕所过不去？](https://www.thepaper.cn/newsDetail_forward_34288709)
 17. [甘肃张掖通报“风电项目影响野生动物栖息”：建设合规，将组织调研](https://www.thepaper.cn/newsDetail_forward_34287541)
-18. [新央企国家数据集团官网上线，领导班子成员披露](https://www.thepaper.cn/newsDetail_forward_34293540)
-19. [见微知沪｜从“站站停”到“按需停”，响应式公交更加考验“绣花功夫”](https://www.thepaper.cn/newsDetail_forward_34292855)
+18. [马上测｜“小天才”构建封闭社交圈？记者实探真相](https://www.thepaper.cn/newsDetail_forward_34293055)
+19. [新央企国家数据集团官网上线，领导班子成员披露](https://www.thepaper.cn/newsDetail_forward_34293540)
 20. [美以窃取商业秘密为由制裁5家中企，商务部：中方对此坚决反对](https://www.thepaper.cn/newsDetail_forward_34293468)

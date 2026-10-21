@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-21 07:10:26
+> 更新时间：2026-10-21 08:30:15
 
 ## 热门文章
 
@@ -10,8 +10,8 @@
 4. [AI 流式传输工程指南：模型吐出半截 JSON，前端如何边收边渲染？](https://juejin.cn/post/7697622920013021219)
 5. [DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算](https://juejin.cn/post/7697474838380134410)
 6. [从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）](https://juejin.cn/post/7697418750073929762)
-7. [面向 Schema 配置编程，Vue3 动态表单支持弹框组件](https://juejin.cn/post/7697474838380265482)
-8. [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959)
+7. [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959)
+8. [面向 Schema 配置编程，Vue3 动态表单支持弹框组件](https://juejin.cn/post/7697474838380265482)
 9. [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190)
 10. [如何低成本部署网站？Vercel 和 Cloudflare 怎么选？](https://juejin.cn/post/7697615256115363882)
 11. [Android 协程实践：为什么不应将 `supervisorScope` 作为常规方案](https://juejin.cn/post/7697452953989480474)
@@ -42,11 +42,11 @@
 36. [调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%](https://juejin.cn/post/7698568843102617626)
 37. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
 38. [脱离 Android Studio：纯命令行开发 Android 相机 App 的实践与踩坑记录](https://juejin.cn/post/7697558807295213610)
-39. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
-40. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
+39. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
+40. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
 41. [Cursor转Codex大半个月实测：迁移成本、代码质量与那些没人说的隐性坑点](https://juejin.cn/post/7697474838379184138)
-42. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
-43. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
+42. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
+43. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
 44. [FreeSWITCH 入门：把电话系统接入语音客服机器人](https://juejin.cn/post/7698044277813231625)
 45. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
 46. [只是选个照片，怎么留下了这么多访问记录？Flutter 图片选择器排查与优化实录](https://juejin.cn/post/7697558807295508522)
