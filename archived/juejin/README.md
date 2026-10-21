@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-22 02:15:34
+> 更新时间：2026-10-22 03:11:25
 
 ## 热门文章
 
@@ -16,8 +16,8 @@
 10. [如何低成本部署网站？Vercel 和 Cloudflare 怎么选？](https://juejin.cn/post/7697615256115363882)
 11. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
 12. [Dart 3.15 新特性：this 终于支持类型提升了](https://juejin.cn/post/7698239626868310067)
-13. [用 Codex 连接 Blender，我做了一块可以走进楼宇的大屏](https://juejin.cn/post/7697883708062367770)
-14. [为什么每个前端都应该拥有一个自己的独立博客？](https://juejin.cn/post/7698637850893139977)
+13. [为什么每个前端都应该拥有一个自己的独立博客？](https://juejin.cn/post/7698637850893139977)
+14. [用 Codex 连接 Blender，我做了一块可以走进楼宇的大屏](https://juejin.cn/post/7697883708062367770)
 15. [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873)
 16. [给 23 万字修仙小说造个阅读站：浏览器内打包 EPUB 分页阅读 + 三主题实战](https://juejin.cn/post/7697873433355403274)
 17. [调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%](https://juejin.cn/post/7698568843102617626)
@@ -27,12 +27,12 @@
 21. [栗子前端技术周刊第 150 期 - Stack Overflow 开发者调查结果、TanStack Start 1.0...](https://juejin.cn/post/7697531208898445353)
 22. [Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里](https://juejin.cn/post/7698709811564068915)
 23. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
-24. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
-25. [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886)
-26. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
-27. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
-28. [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964)
-29. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
+24. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
+25. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
+26. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
+27. [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886)
+28. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
+29. [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964)
 30. [155个App把豆包关在门外，豆包反手掏出第二把钥匙](https://juejin.cn/post/7698268211586957338)
 31. [CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术](https://juejin.cn/post/7697853177081020466)
 32. [质保期第 90 天我翻了一遍日志目录：交付后真正会坏的 3 处](https://juejin.cn/post/7697952294365495350)

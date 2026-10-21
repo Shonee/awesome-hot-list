@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-22 02:15:53
+> 更新时间：2026-10-22 03:11:42
 
 ## 新闻热榜
 
@@ -27,23 +27,22 @@
 
 ## 财经热榜
 
-1. [挪威首相：美国特使威特科夫将前往圣彼得堡，会见俄罗斯总统普京及其团队。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxmeu0835668.shtml)
-2. [传奇影业重启狮门影业收购谈判并提交报价。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqz7752056.shtml)
-3. [通用电气医疗宣布五项新的全球合作，以推进下一代诊疗一体化成像技术。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqy0979337.shtml)
-4. [布伦特原油期货结算价为每桶108.79美元，下跌76美分，跌幅0.69%。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxewx7698923.shtml)
-5. [美国总统特朗普：总统所在政党往往会在中期选举中失利。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0944112.shtml)
-6. [美国总统特朗普在白宫发表讲话。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxewx7676960.shtml)
-7. [芬兰总统：美国保持参与非常重要。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0874789.shtml)
-8. [家乐福首席财务官：预计到年底前，法国的社会与安全局势将对消费造成重大压力，并扰乱我们门店的运营。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqy0975048.shtml)
-9. [OpenAI CEO奥尔特曼在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。不过OpenAI、Anthropi](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0881336.shtml)
-10. [Hugging Face：FairStress已开放下载，同时正将其集成至Olmo-Eval中。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqy0959917.shtml)
-11. [泽连斯基：感谢有关导弹袭击的情报“现在起作用了”。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxewx7647815.shtml)
-12. [特朗普：至选举日竞选投入将超4亿美元](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0890038.shtml)
-13. [特朗普重申法国存在移民问题。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0920260.shtml)
-14. [美国联邦航空管理局称，已为波音 737 MAX 10 颁发适航认证。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxmev7598564.shtml)
-15. [美国国防部长赫格塞思：靠旧有关系、靠认识曾经掌管该部门的人来拉合同的时代已经彻底结束。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxewx7654319.shtml)
-16. [美国总统特朗普谈2028年背书支持副总统万斯的可能性，称：一切都还言之太早。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxewx7715298.shtml)
-17. [美国总统特朗普谈法国：我从未在法国见过那样的情况。那不是小规模骚乱，也不是小规模抗议。那是一场全面革命，而且仍在持续。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0926180.shtml)
-18. [美元指数20日下跌](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxmev7598733.shtml)
-19. [特朗普：正与普京交涉，争取被俄方扣押的美国公民哈伯德获释。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0933774.shtml)
-20. [沙特国家债务管理中心：沙特10月伊斯兰债券计划募资67.49亿里亚尔。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqz7769680.shtml)
+1. [美国副总统万斯：没有人比特朗普更痛恨有人利用公职便利、通过欺诈手段牟利。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8077934.shtml)
+2. [20年期美国国债收益率在130亿美元拍卖后收窄跌幅，最新下跌1.25个基点，报5.467%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4872828.shtml)
+3. [欧盟委员会：欧盟碳排放交易体系的市场稳定储备将能够留存最多7亿份配额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8084573.shtml)
+4. [美国：美俄乌三方技术性会议已获批准。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4861920.shtml)
+5. [Anthropic：Christopher Stubbs加入Anthropic长期利益信托。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4856800.shtml)
+6. [美国财政部拍卖130亿美元20年期国债，得标利率5.469%，投标倍数2.73。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8099666.shtml)
+7. [科威特石油公司首席执行官：目前已有客户前往海湾地区提货。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4897650.shtml)
+8. [SpaceX债券下跌 市场担忧其进一步举债令信用风险指标恶化](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8122415.shtml)
+9. [联合国：Meta应在巴西选举期间保障政治表达自由。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4841976.shtml)
+10. [美国芝商所CEO：由于客户不愿使用周末交易台，该公司已暂停24/7原油期货交易](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8107698.shtml)
+11. [安哥拉初步出口计划显示，12月该国将装载32船原油，高于11月计划的28船。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4840453.shtml)
+12. [苹果扩大与美国本土供应商的合作，为iPhone Duo与iPhone 18 Pro备货。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqy0972314.shtml)
+13. [欧洲债市：德国国债上涨 伊朗谈判消息引发市场波动](https://finance.sina.com.cn/world/2026-10-21/doc-inivwyrc5685100.shtml)
+14. [也门消息人士：胡塞武装对哈德拉毛省舒克拉地区的杜巴石油港附近发动无人机袭击。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8111369.shtml)
+15. [惠誉：并不认为魁北克省、阿尔伯塔省走向独立构成严重风险。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxewx7703622.shtml)
+16. [金属交易商McNess以大规模铝押注闻名，已在伦敦金属交易所10月铜合约上建立大量头寸。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqz7759165.shtml)
+17. [9月瑞士黄金出口增长6%，对英出口激增。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivwyqz7744611.shtml)
+18. [沙特领导的联军称，其在南部地区拦截并摧毁了一架胡塞武装发射的无人机。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4829153.shtml)
+19. [乌克兰总统泽连斯基：如果俄罗斯也停止攻击，我们准备不对俄能源基础设施的敏感部分实施打击。](https://finance.sina.com.cn/7x24/2026-10-21/doc-inivxeww0869879.shtml)
