@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-21 20:49:34
+> 更新时间：2026-10-21 21:40:48
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [日本开发者心态崩了：9年做的游戏遭中国人破解修改](https://www.gamersky.com/news/202610/2230372.shtml)
 12. [时隔仅7天 小孩又双叒叕夺冠了！4-0复仇日本对手](https://www.gamersky.com/news/202610/2230473.shtml)
 13. [法国骚乱游戏店老板孤身守店爆红！网友P图超赛致敬](https://www.gamersky.com/news/202610/2230613.shtml)
-14. [冯骥回应第一时间玩《影之刃零》：度日如年！](https://www.gamersky.com/news/202610/2231853.shtml)
-15. [《GTA6》女主被嫌太丑 玩家改成亚裔网红风格遭喷](https://www.gamersky.com/news/202610/2230359.shtml)
+14. [腾讯新游《人间异想计划》首曝22分钟实机！开放世界RPG 登PC/主机](https://www.gamersky.com/news/202610/2232226.shtml)
+15. [冯骥回应第一时间玩《影之刃零》：度日如年！](https://www.gamersky.com/news/202610/2231853.shtml)

@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-21 20:18:24
+> 更新时间：2026-10-21 21:40:36
 
 ## 24 小时热榜
 
@@ -14,25 +14,25 @@
 8. [宝马计划 2027 年底前裁员约 8000 人 优厚补偿引员工争相报名](https://readhub.cn/topic/8xNe5C7Lwa0?tab=daily)
 9. [高通将以绩效为导向在全球范围内裁员](https://readhub.cn/topic/8xNjRBN83Qj?tab=daily)
 10. [奥特曼提出超级智能发展三条终局路径](https://readhub.cn/topic/8xOh6U7SOtj?tab=daily)
-11. [韩路控诉被白嫖至少 400 万 汽车之家：已启动内部专项核查](https://readhub.cn/topic/8xNGVlwKTYH?tab=daily)
-12. [PHP 曝高危远程代码执行漏洞，官方提前发布安全补丁](https://readhub.cn/topic/8xOtFk2KZtk?tab=daily)
-13. [QuestMobile 榜单发布：豆包 4.19 亿断层领先 千问增速 5076%](https://readhub.cn/topic/8xNEhjuqQdo?tab=daily)
-14. [AI 未达预期 Meta 暂停裁员计划](https://readhub.cn/topic/8xOkgRW7TY5?tab=daily)
-15. [Claude 64 小时设计 31 万种蛋白，17 种通过实验验证](https://readhub.cn/topic/8xOh7UH2glm?tab=daily)
-16. [红果短剧计划下线金币功能](https://readhub.cn/topic/8xPCtj8ico1?tab=daily)
-17. [《沙丘 3》内地 12 月 31 日上映，与《复联 5》内地档期错开](https://readhub.cn/topic/8xOmpnLsIJH?tab=daily)
-18. [马斯克称 SpaceX 与特斯拉成立委员会讨论合并 尚未敲定](https://readhub.cn/topic/8xOS6B48RJ1?tab=daily)
+11. [红果短剧计划下线金币功能](https://readhub.cn/topic/8xPCtj8ico1?tab=daily)
+12. [韩路控诉被白嫖至少 400 万 汽车之家：已启动内部专项核查](https://readhub.cn/topic/8xNGVlwKTYH?tab=daily)
+13. [PHP 曝高危远程代码执行漏洞，官方提前发布安全补丁](https://readhub.cn/topic/8xOtFk2KZtk?tab=daily)
+14. [QuestMobile 榜单发布：豆包 4.19 亿断层领先 千问增速 5076%](https://readhub.cn/topic/8xNEhjuqQdo?tab=daily)
+15. [AI 未达预期 Meta 暂停裁员计划](https://readhub.cn/topic/8xOkgRW7TY5?tab=daily)
+16. [Claude 64 小时设计 31 万种蛋白，17 种通过实验验证](https://readhub.cn/topic/8xOh7UH2glm?tab=daily)
+17. [马斯克称 SpaceX 与特斯拉成立委员会讨论合并 尚未敲定](https://readhub.cn/topic/8xOS6B48RJ1?tab=daily)
+18. [《沙丘 3》内地 12 月 31 日上映，与《复联 5》内地档期错开](https://readhub.cn/topic/8xOmpnLsIJH?tab=daily)
 19. [百度搭子 9 月月活 977 万，办公 Agent 季度增速第一](https://readhub.cn/topic/8xNQWMegXEO?tab=daily)
 20. [OpenAI 推出 ChatGPT「锁定聊天」功能](https://readhub.cn/topic/8xObOEvcEYY?tab=daily)
 21. [宇树科技提示行业商业化不及预期或存估值回归投资风险](https://readhub.cn/topic/8xNkVe4o7Q1?tab=daily)
 22. [SpaceX 首席财务官：新部署算力投资回收期不足一年](https://readhub.cn/topic/8xOq2MsKwzL?tab=daily)
 23. [主动 ETF 发行火速定档 场内投资生态迎来革新](https://readhub.cn/topic/8xOW1MSrJxY?tab=daily)
 24. [豆包工作功能上新 本地 Office 编辑新增 Word](https://readhub.cn/topic/8xOxXVAmd9u?tab=daily)
-25. [千问上线「千问陪逛」新功能 双 11 可辅助用户网购比价避坑](https://readhub.cn/topic/8xOGf4KcM6C?tab=daily)
-26. [消息称 Anthropic 今年上半年净亏损超 800 亿美元](https://readhub.cn/topic/8xOduA7p7Sn?tab=daily)
+25. [消息称 Anthropic 今年上半年净亏损超 800 亿美元](https://readhub.cn/topic/8xOduA7p7Sn?tab=daily)
+26. [千问上线「千问陪逛」新功能 双 11 可辅助用户网购比价避坑](https://readhub.cn/topic/8xOGf4KcM6C?tab=daily)
 27. [腾讯股价跌破 400 港元创一年新低 年内市值缩水近四成](https://readhub.cn/topic/8xP7EUjVF9X?tab=daily)
-28. [苹果 CEO 特努斯：设计依旧是苹果第一要务 不追逐技术热点](https://readhub.cn/topic/8xOZFUcsy9m?tab=daily)
-29. [哈佛重磅研究：AI 凭人脸照片，就能预测癌症患者死亡风险](https://readhub.cn/topic/8xOvPZVBIUS?tab=daily)
+28. [哈佛重磅研究：AI 凭人脸照片，就能预测癌症患者死亡风险](https://readhub.cn/topic/8xOvPZVBIUS?tab=daily)
+29. [苹果 CEO 特努斯：设计依旧是苹果第一要务 不追逐技术热点](https://readhub.cn/topic/8xOZFUcsy9m?tab=daily)
 30. [外交部回应美要求联邦机构停用中国 AI：将维护中企合法权益](https://readhub.cn/topic/8xNUtC92LYM?tab=daily)
 
 ## 每日早报
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [NVIDIA 发布 Nemotron 3.5 Embed、Rerank 和 Parse 检索模型，提升 Agent 能力](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)
-2. [NVIDIA cuDSS 正式发布，加速工程与科学仿真](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/)
-3. [清华团队用 AI 造出世界最轻介观显微镜 仅重 1 克，小鼠奔跑、社交时也能看清大脑活动](https://www.mittrchina.com/news/detail/17122)
-4. [NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data](https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/)
-5. [SimReady Central 发布：面向机器人与 AI 工厂的仿真就绪 3D 资产开放库](https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories)
-6. [GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang's Keynote](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
-7. [Google Cloud 与 NVIDIA 宣布 NVIDIA Vera Rubin 基础设施正式可用](https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/)
-8. [NVIDIA 扩展机密计算，推出 Confidential Bare Metal 部署选项](https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/)
-9. [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/)
-10. [Europe's Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA](https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/)
+1. [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud)
+2. [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
+3. [NVIDIA 发布 Nemotron 3.5 Embed、Rerank 和 Parse 检索模型，提升 Agent 能力](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)
+4. [NVIDIA cuDSS 正式发布，加速工程与科学仿真](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/)
+5. [NVIDIA Kumo Anomaly Brings Diffusion-Based Anomaly Detection to Multivariate Time Series](https://huggingface.co/blog/nvidia/kumo-anomaly)
+6. [清华团队用 AI 造出世界最轻介观显微镜 仅重 1 克，小鼠奔跑、社交时也能看清大脑活动](https://www.mittrchina.com/news/detail/17122)
+7. [Protein Design with RFD4-Proteina and Hugging Face Spaces](https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design)
+8. [NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data](https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/)
+9. [SimReady Central 发布：面向机器人与 AI 工厂的仿真就绪 3D 资产开放库](https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories)
+10. [GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang's Keynote](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
