@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-21 16:16:31
+> 更新时间：2026-10-21 17:13:58
 
 ## 热新闻
 
@@ -10,17 +10,17 @@
 4. [海南广电记者采访遭殴打、警方已介入，中国记协：呼吁涉事方正视问题配合调查](https://www.thepaper.cn/newsDetail_forward_34293577)
 5. [星巴克中国：10月22日起将在全国开始施行消费入座，会遵循友好、友善的沟通原则](https://www.thepaper.cn/newsDetail_forward_34297764)
 6. [纪念中国工农红军长征胜利90周年｜经典绘画中的长征](https://www.thepaper.cn/newsDetail_forward_33483748)
-7. [宜春丰城同田乡政府拖欠五千万工程款本息续：正协调处理，仍无最终结果](https://www.thepaper.cn/newsDetail_forward_34289676)
-8. [张雪将在家乡再次挑战摩托车“水上漂”，17年前曾四次挑战失败](https://www.thepaper.cn/newsDetail_forward_34290178)
-9. [漫长的窒息：厄尔尼诺点燃印尼，一场本可避免的灾难](https://www.thepaper.cn/newsDetail_forward_34289837)
-10. [导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”](https://www.thepaper.cn/newsDetail_forward_34292916)
-11. [星巴克要求“消费入座”？实探多家门店未有相关告示，星巴克中国回应](https://www.thepaper.cn/newsDetail_forward_34289806)
-12. [造谣“艺人肖某演唱会第一排门票25万元”，网民王某某被行拘](https://www.thepaper.cn/newsDetail_forward_34298171)
-13. [穿越时空看长征·多维视野｜王芊皓：“贾老婆”与她的铁锅长征](https://www.thepaper.cn/newsDetail_forward_34125100)
-14. [在北外滩看全球航运韧性：上海既是参与者，也是答案的一部分](https://www.thepaper.cn/newsDetail_forward_34293583)
-15. [上海3元爱心餐背后：一个00后妈妈和聚起来的一群人](https://www.thepaper.cn/newsDetail_forward_34283042)
-16. [澎湃漫评｜为何总有学校和学生上厕所过不去？](https://www.thepaper.cn/newsDetail_forward_34288709)
-17. [马上评丨挡得住张凌赫赴台，挡不住两岸年轻人情感相连](https://www.thepaper.cn/newsDetail_forward_34298844)
-18. [马上测｜“小天才”构建封闭社交圈？记者实探真相](https://www.thepaper.cn/newsDetail_forward_34293055)
-19. [人民锐评：特斯拉“能飞”，我们就被甩开了？](https://www.thepaper.cn/newsDetail_forward_34297031)
-20. [吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任](https://www.thepaper.cn/newsDetail_forward_34296636)
+7. [张雪将在家乡再次挑战摩托车“水上漂”，17年前曾四次挑战失败](https://www.thepaper.cn/newsDetail_forward_34290178)
+8. [漫长的窒息：厄尔尼诺点燃印尼，一场本可避免的灾难](https://www.thepaper.cn/newsDetail_forward_34289837)
+9. [导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”](https://www.thepaper.cn/newsDetail_forward_34292916)
+10. [造谣“艺人肖某演唱会第一排门票25万元”，网民王某某被行拘](https://www.thepaper.cn/newsDetail_forward_34298171)
+11. [穿越时空看长征·多维视野｜王芊皓：“贾老婆”与她的铁锅长征](https://www.thepaper.cn/newsDetail_forward_34125100)
+12. [上海3元爱心餐背后：一个00后妈妈和聚起来的一群人](https://www.thepaper.cn/newsDetail_forward_34283042)
+13. [在北外滩看全球航运韧性：上海既是参与者，也是答案的一部分](https://www.thepaper.cn/newsDetail_forward_34293583)
+14. [马上评丨挡得住张凌赫赴台，挡不住两岸年轻人情感相连](https://www.thepaper.cn/newsDetail_forward_34298844)
+15. [澎湃漫评｜为何总有学校和学生上厕所过不去？](https://www.thepaper.cn/newsDetail_forward_34288709)
+16. [马上测｜“小天才”构建封闭社交圈？记者实探真相](https://www.thepaper.cn/newsDetail_forward_34293055)
+17. [人民锐评：特斯拉“能飞”，我们就被甩开了？](https://www.thepaper.cn/newsDetail_forward_34297031)
+18. [吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任](https://www.thepaper.cn/newsDetail_forward_34296636)
+19. [马上评｜怒斥偷拍，读懂樊振东的苦口婆心](https://www.thepaper.cn/newsDetail_forward_34297733)
+20. [女孩被假星探骗到东南亚，民警与骗子隔空“抢人”](https://www.thepaper.cn/newsDetail_forward_34293250)

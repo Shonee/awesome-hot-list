@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-21 16:17:24
+> 更新时间：2026-10-21 17:15:10
 
 ## Hottest
 
@@ -13,19 +13,19 @@
 7. [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
 8. [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 9. [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
-10. [OpenBSD 8.0](https://www.openbsd.org/80.html)
-11. [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
-12. [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc)
-13. [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
-14. [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
-15. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-16. [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
-17. [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
-18. [Firefox security patch tests are now private for at least a week](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ)
-19. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-20. [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
-21. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
-22. [EDG is open source](https://edgcpp.org/)
-23. [Unikernels in OCaml](https://uniker.nl/)
+10. [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc)
+11. [OpenBSD 8.0](https://www.openbsd.org/80.html)
+12. [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
+13. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+14. [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
+15. [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
+16. [Unikernels in OCaml](https://uniker.nl/)
+17. [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
+18. [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
+19. [Firefox security patch tests are now private for at least a week](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ)
+20. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+21. [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
+22. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
+23. [EDG is open source](https://edgcpp.org/)
 24. [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/)
 25. [Announcing the GPU notification group and Linker Working Area](https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/)

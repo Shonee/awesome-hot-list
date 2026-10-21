@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-21 16:16:53
+> 更新时间：2026-10-21 17:14:36
 
 ## 股票人气榜
 
@@ -15,12 +15,12 @@
 9. [太极股份 (002368)](https://quote.eastmoney.com/sz002368.html)
 10. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
 11. [南威软件 (603636)](https://quote.eastmoney.com/sh603636.html)
-12. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
-13. [利通电子 (603629)](https://quote.eastmoney.com/sh603629.html)
+12. [利通电子 (603629)](https://quote.eastmoney.com/sh603629.html)
+13. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
 14. [东安动力 (600178)](https://quote.eastmoney.com/sh600178.html)
-15. [吉大正元 (003029)](https://quote.eastmoney.com/sz003029.html)
-16. [利亚德 (300296)](https://quote.eastmoney.com/sz300296.html)
-17. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
-18. [润建股份 (002929)](https://quote.eastmoney.com/sz002929.html)
-19. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
-20. [宇树科技-W (688836)](https://quote.eastmoney.com/sh688836.html)
+15. [利亚德 (300296)](https://quote.eastmoney.com/sz300296.html)
+16. [吉大正元 (003029)](https://quote.eastmoney.com/sz003029.html)
+17. [润建股份 (002929)](https://quote.eastmoney.com/sz002929.html)
+18. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
+19. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
+20. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
