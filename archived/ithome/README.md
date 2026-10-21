@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-21 11:44:18
+> 更新时间：2026-10-21 12:42:33
 
 ## 日榜
 
@@ -9,10 +9,10 @@
 3. [iPhone 18 Pro Max 换新立减 1300 元实付 9699 元 12 期免息，旧机估值满 20 元即可](https://www.ithome.com/1/015/588.htm)
 4. [多省份发生用户访问请求异常跳转至博彩网站事件，国家互联网应急中心公布调查情况](https://www.ithome.com/1/015/252.htm)
 5. [消息称引望不允许车企补贴华为乾崑智驾 ADS 软件费用，持续收费才能维护庞大研发力量](https://www.ithome.com/1/015/383.htm)
-6. [苹果 iPhone Air 京东破五千：12+256G 国补后 8799 → 4989 元，配 A19 Pro 芯片](https://www.ithome.com/1/015/580.htm)
-7. [儿童手表品牌成小学生社交准入门槛，“小天才封闭社交倒逼家长购买”冲上热搜](https://www.ithome.com/1/015/567.htm)
-8. [曝华为畅享 100 Pro Max 手机 512GB 版本独享麒麟 8020 处理器，标准版选用麒麟 8000S 芯片](https://www.ithome.com/1/015/442.htm)
-9. [IT之家 11.11 严选好货：iPhone 18 Pro / Max 换新立减 1300 元，B 站京东 PLUS 会员年内好价](https://www.ithome.com/1/015/391.htm)
+6. [儿童手表品牌成小学生社交准入门槛，“小天才封闭社交倒逼家长购买”冲上热搜](https://www.ithome.com/1/015/567.htm)
+7. [苹果 iPhone Air 京东破五千：12+256G 国补后 8799 → 4989 元，配 A19 Pro 芯片](https://www.ithome.com/1/015/580.htm)
+8. [IT之家 11.11 严选好货：iPhone 18 Pro / Max 换新立减 1300 元，B 站京东 PLUS 会员年内好价](https://www.ithome.com/1/015/391.htm)
+9. [曝华为畅享 100 Pro Max 手机 512GB 版本独享麒麟 8020 处理器，标准版选用麒麟 8000S 芯片](https://www.ithome.com/1/015/442.htm)
 10. [1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台](https://www.ithome.com/1/015/614.htm)
-11. [华为 Pura X View 阔直板手机率先开更鸿蒙 HarmonyOS 7.0.0.111SP8，新增 iPhone 双机互联等功能](https://www.ithome.com/1/015/367.htm)
-12. [DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，目标实现大模型普惠](https://www.ithome.com/1/015/429.htm)
+11. [DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，目标实现大模型普惠](https://www.ithome.com/1/015/429.htm)
+12. [华为 Pura X View 阔直板手机率先开更鸿蒙 HarmonyOS 7.0.0.111SP8，新增 iPhone 双机互联等功能](https://www.ithome.com/1/015/367.htm)

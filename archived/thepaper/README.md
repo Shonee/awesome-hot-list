@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-21 11:44:08
+> 更新时间：2026-10-21 12:42:18
 
 ## 热新闻
 
@@ -18,9 +18,9 @@
 12. [导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”](https://www.thepaper.cn/newsDetail_forward_34292916)
 13. [星巴克要求“消费入座”？实探多家门店未有相关告示，星巴克中国回应](https://www.thepaper.cn/newsDetail_forward_34289806)
 14. [穿越时空看长征·多维视野｜王芊皓：“贾老婆”与她的铁锅长征](https://www.thepaper.cn/newsDetail_forward_34125100)
-15. [在北外滩看全球航运韧性：上海既是参与者，也是答案的一部分](https://www.thepaper.cn/newsDetail_forward_34293583)
-16. [澎湃漫评｜为何总有学校和学生上厕所过不去？](https://www.thepaper.cn/newsDetail_forward_34288709)
-17. [女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元](https://www.thepaper.cn/newsDetail_forward_34283132)
-18. [马上测｜“小天才”构建封闭社交圈？记者实探真相](https://www.thepaper.cn/newsDetail_forward_34293055)
-19. [星巴克中国：10月22日起将在全国开始施行消费入座，会遵循友好、友善的沟通原则](https://www.thepaper.cn/newsDetail_forward_34297764)
+15. [星巴克中国：10月22日起将在全国开始施行消费入座，会遵循友好、友善的沟通原则](https://www.thepaper.cn/newsDetail_forward_34297764)
+16. [在北外滩看全球航运韧性：上海既是参与者，也是答案的一部分](https://www.thepaper.cn/newsDetail_forward_34293583)
+17. [澎湃漫评｜为何总有学校和学生上厕所过不去？](https://www.thepaper.cn/newsDetail_forward_34288709)
+18. [女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元](https://www.thepaper.cn/newsDetail_forward_34283132)
+19. [马上测｜“小天才”构建封闭社交圈？记者实探真相](https://www.thepaper.cn/newsDetail_forward_34293055)
 20. [人民锐评：特斯拉“能飞”，我们就被甩开了？](https://www.thepaper.cn/newsDetail_forward_34297031)
