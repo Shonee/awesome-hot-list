@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-21 21:40:45
+> 更新时间：2026-10-21 22:14:28
 
 ## 新闻热榜
 
@@ -16,14 +16,14 @@
 10. [地方政府密集尝试提前还债](https://news.sina.com.cn/o/2026-10-21/doc-inivyaar5502695.shtml)
 11. [公安部网安局：“肖某演唱会第一排门票25万元”不实](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4796887.shtml)
 12. [乌克兰被限速使用“星盾”，“是马斯克下令”](https://news.sina.com.cn/w/2026-10-21/doc-inivxvuw7950609.shtml)
-13. [星巴克10月22日起在中国施行消费入座，门店将摆放提示牌](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4749631.shtml)
-14. [A股近一个月融资净流出超千亿 杠杆资金“后撤待命” 两融余额不断刷新年内新低](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxrny7930209.shtml)
-15. [“我们应该让他们加入我们”，美国愿望落空](https://news.sina.com.cn/w/2026-10-20/doc-inivwyrf6383427.shtml)
-16. [宣布赠股后，马斯克被美媒扒出欠捐历史](https://news.sina.com.cn/o/2026-10-21/doc-inivxrny7944987.shtml)
-17. [重庆坠亡幼童父亲没有一句道歉半点愧疚](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5538381.shtml)
-18. [法国一军机坠毁，一名飞行员遗体已被找到](https://news.sina.com.cn/w/2026-10-21/doc-inivyhkr6245684.shtml)
+13. [A股近一个月融资净流出超千亿 杠杆资金“后撤待命” 两融余额不断刷新年内新低](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxrny7930209.shtml)
+14. [星巴克10月22日起在中国施行消费入座，门店将摆放提示牌](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4749631.shtml)
+15. [重庆坠亡幼童父亲没有一句道歉半点愧疚](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5538381.shtml)
+16. [法国一军机坠毁，一名飞行员遗体已被找到](https://news.sina.com.cn/w/2026-10-21/doc-inivyhkr6245684.shtml)
+17. [“我们应该让他们加入我们”，美国愿望落空](https://news.sina.com.cn/w/2026-10-20/doc-inivwyrf6383427.shtml)
+18. [宣布赠股后，马斯克被美媒扒出欠捐历史](https://news.sina.com.cn/o/2026-10-21/doc-inivxrny7944987.shtml)
 19. [跑不了了，中国“AI禁令”震动全球](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4863018.shtml)
-20. [“大哥怒摔过期泡面，现场一片混乱”，航司致歉](https://news.sina.com.cn/c/2026-10-20/doc-inivwpzi5702615.shtml)
+20. [SpaceX和特斯拉合并？马斯克表态](https://news.sina.com.cn/w/2026-10-21/doc-inivyhks7964477.shtml)
 
 ## 财经热榜
 

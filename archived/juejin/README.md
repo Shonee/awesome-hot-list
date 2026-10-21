@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-21 21:40:09
+> 更新时间：2026-10-21 22:14:03
 
 ## 热门文章
 
@@ -14,8 +14,8 @@
 8. [纯前端预览 275 种文件格式是怎么做到的](https://juejin.cn/post/7697865664232702006)
 9. [如何低成本部署网站？Vercel 和 Cloudflare 怎么选？](https://juejin.cn/post/7697615256115363882)
 10. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://juejin.cn/post/7698283872392757286)
-11. [Dart 3.15 新特性：this 终于支持类型提升了](https://juejin.cn/post/7698239626868310067)
-12. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
+11. [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507)
+12. [Dart 3.15 新特性：this 终于支持类型提升了](https://juejin.cn/post/7698239626868310067)
 13. [用 Codex 连接 Blender，我做了一块可以走进楼宇的大屏](https://juejin.cn/post/7697883708062367770)
 14. [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825)
 15. [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873)
@@ -46,11 +46,11 @@
 40. [我用 AI 给两个人写了个微信小程序：共享清单、记账和纪念日](https://juejin.cn/post/7698227087580708864)
 41. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
 42. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
-43. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
-44. [每天盯着屏幕写代码，我终于不想再凑合了](https://juejin.cn/post/7698350142772396032)
-45. [AI 热点日报（2026-10-20）：DeepSeek V4.1-Flash落地，Meta开源816B大模型，国产AI芯片涨价20%-50%](https://juejin.cn/post/7698331749004083243)
-46. [FreeSWITCH 入门：把电话系统接入语音客服机器人](https://juejin.cn/post/7698044277813231625)
-47. [DeepSeek V4 Pro 万字实测：1M上下文能装下整个代码库，但前端的拉胯还是没修好](https://juejin.cn/post/7673226470266159150)
-48. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
-49. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
+43. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
+44. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
+45. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
+46. [每天盯着屏幕写代码，我终于不想再凑合了](https://juejin.cn/post/7698350142772396032)
+47. [AI 热点日报（2026-10-20）：DeepSeek V4.1-Flash落地，Meta开源816B大模型，国产AI芯片涨价20%-50%](https://juejin.cn/post/7698331749004083243)
+48. [FreeSWITCH 入门：把电话系统接入语音客服机器人](https://juejin.cn/post/7698044277813231625)
+49. [DeepSeek V4 Pro 万字实测：1M上下文能装下整个代码库，但前端的拉胯还是没修好](https://juejin.cn/post/7673226470266159150)
 50. [本地大模型微调与 GGUF 部署全指南](https://juejin.cn/post/7698567279269199906)
