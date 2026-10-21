@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-22 05:11:09
+> 更新时间：2026-10-22 06:11:30
 
 ## 新闻热榜
 
@@ -39,11 +39,11 @@
 10. [乌克兰总统泽连斯基：乌克兰希望会谈不晚于 11 月初举行。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4795808.shtml)
 11. [OpenAI的模型即将登陆谷歌云](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8062619.shtml)
 12. [微软：在多家客户环境中监测到Storm-0940身份验证活动，暂未确认发生数据访问。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8052145.shtml)
-13. [SpaceX据称为在孟菲斯建设数据中心的工人提供20%的额外薪酬。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4792438.shtml)
-14. [美国财政部于回购操作中接受47.51亿美元2028-36年到期国债。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8140011.shtml)
-15. [美国副总统万斯：没有人比特朗普更痛恨有人利用公职便利、通过欺诈手段牟利。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8077934.shtml)
-16. [20年期美国国债收益率在130亿美元拍卖后收窄跌幅，最新下跌1.25个基点，报5.467%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4872828.shtml)
-17. [欧盟委员会：欧盟碳排放交易体系的市场稳定储备将能够留存最多7亿份配额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8084573.shtml)
-18. [美国：美俄乌三方技术性会议已获批准。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4861920.shtml)
-19. [伊朗方面称锡里克地区传出数次爆炸声](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8035852.shtml)
-20. [沙特联军：拦截并摧毁了一架飞往东部地区的无人机。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4906075.shtml)
+13. [特斯拉：第三季度资本支出为负47.32亿美元。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8085600.shtml)
+14. [SpaceX据称为在孟菲斯建设数据中心的工人提供20%的额外薪酬。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4792438.shtml)
+15. [美国财政部于回购操作中接受47.51亿美元2028-36年到期国债。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8140011.shtml)
+16. [美国副总统万斯：没有人比特朗普更痛恨有人利用公职便利、通过欺诈手段牟利。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8077934.shtml)
+17. [20年期美国国债收益率在130亿美元拍卖后收窄跌幅，最新下跌1.25个基点，报5.467%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4872828.shtml)
+18. [IBM涨至3.7%。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8078315.shtml)
+19. [欧盟委员会：欧盟碳排放交易体系的市场稳定储备将能够留存最多7亿份配额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwe8084573.shtml)
+20. [美国：美俄乌三方技术性会议已获批准。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivziwh4861920.shtml)
