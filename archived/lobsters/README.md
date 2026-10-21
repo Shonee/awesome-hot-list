@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-21 12:43:11
+> 更新时间：2026-10-21 13:41:50
 
 ## Hottest
 
@@ -24,8 +24,8 @@
 18. [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
 19. [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
 20. [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
-21. [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
-22. [One Hash Bloom Filters](https://www.calabro.io/ohbf)
+21. [One Hash Bloom Filters](https://www.calabro.io/ohbf)
+22. [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 23. [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
 24. [A5 v1.0](https://a5geo.org/blog/2026/10/14/a5-v1)
 25. [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)

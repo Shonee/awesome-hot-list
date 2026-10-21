@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-21 12:42:25
+> 更新时间：2026-10-21 13:40:45
 
 ## 新闻热榜
 
-1. [新央企，领导班子亮相](https://news.sina.com.cn/c/2026-10-21/doc-inivwyrf6405508.shtml)
-2. [利好来了！国家发改委重磅发声](https://news.sina.com.cn/c/2026-10-20/doc-inivwyqz7711795.shtml)
+1. [利好来了！国家发改委重磅发声](https://news.sina.com.cn/c/2026-10-20/doc-inivwyqz7711795.shtml)
+2. [新央企，领导班子亮相](https://news.sina.com.cn/c/2026-10-21/doc-inivwyrf6405508.shtml)
 3. [外媒爆料：中国收紧供应，日本关键稀土“仅能维持数月，要考虑的是如何熬过明年”](https://news.sina.com.cn/c/2026-10-20/doc-inivwyrc5672991.shtml)
 4. [被美军司令“划国界”，韩国怒了！](https://news.sina.com.cn/w/2026-10-20/doc-inivwyqz7677887.shtml)
-5. [中国、俄罗斯悄悄开始新的北极合作](https://news.sina.com.cn/c/2026-10-21/doc-inivxrpa4693127.shtml)
-6. [中国向阿联酋交付首架飞行汽车](https://news.sina.com.cn/zx/gj/2026-10-21/doc-inivxvuv6220001.shtml)
+5. [中国向阿联酋交付首架飞行汽车](https://news.sina.com.cn/zx/gj/2026-10-21/doc-inivxvuv6220001.shtml)
+6. [中国、俄罗斯悄悄开始新的北极合作](https://news.sina.com.cn/c/2026-10-21/doc-inivxrpa4693127.shtml)
 7. [“我们应该让他们加入我们”，美国愿望落空](https://news.sina.com.cn/w/2026-10-20/doc-inivwyrf6383427.shtml)
-8. [“大哥怒摔过期泡面，现场一片混乱”，航司致歉](https://news.sina.com.cn/c/2026-10-20/doc-inivwpzi5702615.shtml)
+8. [乌克兰被限速使用“星盾”，“是马斯克下令”](https://news.sina.com.cn/w/2026-10-21/doc-inivxvuw7950609.shtml)
 9. [宣布赠股后，马斯克被美媒扒出欠捐历史](https://news.sina.com.cn/o/2026-10-21/doc-inivxrny7944987.shtml)
-10. [乌克兰被限速使用“星盾”，“是马斯克下令”](https://news.sina.com.cn/w/2026-10-21/doc-inivxvuw7950609.shtml)
+10. [“大哥怒摔过期泡面，现场一片混乱”，航司致歉](https://news.sina.com.cn/c/2026-10-20/doc-inivwpzi5702615.shtml)
 11. [21岁驴友遇难，“家属拒付救援费”？目击者回应](https://news.sina.com.cn/zx/2026-10-20/doc-inivwpzm6465740.shtml)
 12. [西太平洋战鼓隆隆，中国和美日都在排兵布阵](https://finance.sina.com.cn/wm/2026-10-20/doc-inivwyrc5685739.shtml)
 13. [“手段特别残忍”，刘某奇被判死刑](https://news.sina.com.cn/c/2026-10-20/doc-inivwitm5710455.shtml)
 14. [一年倒退两位，日本怎么了？](https://news.sina.com.cn/w/2026-10-21/doc-inivwyrf6422083.shtml)
-15. [操盘必读：影响股市利好或利空消息_2026年10月21日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-21/doc-inivxrny8000548.shtml)
-16. [中西部首个万亿外贸城市，要来了](https://news.sina.com.cn/c/2026-10-21/doc-inivxewx7648280.shtml)
+15. [中西部首个万亿外贸城市，要来了](https://news.sina.com.cn/c/2026-10-21/doc-inivxewx7648280.shtml)
+16. [操盘必读：影响股市利好或利空消息_2026年10月21日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-21/doc-inivxrny8000548.shtml)
 17. [巴萨客场2-4不敌巴黎遭赛季首败，开局11连胜被终结](https://news.sina.com.cn/zx/2026-10-21/doc-inivxmex5612262.shtml)
-18. [海南广电记者采访遭殴打 警方已介入](https://news.sina.com.cn/c/2026-10-20/doc-inivwuii6475721.shtml)
-19. [双色球头奖9注723万 内蒙古或爆5062万大奖](https://sports.sina.com.cn/l/2026-10-20/doc-inivwuii6480542.shtml)
-20. [知名男星被曝性侵儿童演员，最新进展来了](https://news.sina.com.cn/w/2026-10-20/doc-inivwpzi5795907.shtml)
+18. [知名男星被曝性侵儿童演员，最新进展来了](https://news.sina.com.cn/w/2026-10-20/doc-inivwpzi5795907.shtml)
+19. [海南广电记者采访遭殴打 警方已介入](https://news.sina.com.cn/c/2026-10-20/doc-inivwuii6475721.shtml)
+20. [A股近一个月融资净流出超千亿 杠杆资金“后撤待命” 两融余额不断刷新年内新低](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxrny7930209.shtml)
 
 ## 财经热榜
 
