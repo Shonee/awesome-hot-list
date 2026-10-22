@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 09:21:51
+> 更新时间：2026-10-22 10:17:58
 
 ## 最新帖子
 
-1. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
-2. [按键一按程序就像死机：阻塞式写法如何毁掉小车](https://www.cnblogs.com/zw-awa/p/23395438)
-3. [CODESYS AI实践 - 单元测试](https://www.cnblogs.com/Zhouyongh/p/23395375)
-4. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
-5. [用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方](https://www.cnblogs.com/wyang/p/23395208)
-6. [脚本报错 ORA-01756：问题出在 NLS_LANG 字符集](https://www.cnblogs.com/jyzhao/p/23394972)
-7. [Python `regex` 库：你所不知道的正则表达式用法](https://www.cnblogs.com/apachecn/p/23394650)
-8. [一比一复刻网站前端](https://www.cnblogs.com/fhyy/p/23394641)
-9. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
-10. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
-11. [MySQL进阶教程（一）—— 储存过程与触发器（上）](https://www.cnblogs.com/mengyingblog/p/23392463)
-12. [CF1882D Tree XOR 题解](https://www.cnblogs.com/lvwangshuOI/p/23392231)
-13. [C# .NET 周刊 ｜2026 年 9 月 2 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_2)
-14. [并发编程（十一）：Shared Memory 与 Message Passing——关系与组合使用](https://www.cnblogs.com/ThinkerQAQ/p/23392168)
-15. [8. 单行注释与多行注释，写出便于维护的好代码](https://www.cnblogs.com/halfcode/p/23391591)
-16. [从零搭建Transformer-CS336作业](https://www.cnblogs.com/CrescentWind/p/23391357)
-17. [linux开机流程](https://www.cnblogs.com/wanchenxi/p/23391337)
-18. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
-19. [如何使用RDS Supabase后端BaaS能力：创表即生成API（Database Data API）](https://www.cnblogs.com/huaweiyun/p/23389190)
-20. [BM25 详解](https://www.cnblogs.com/zjdxr-up/p/23331060)
+1. [为什么越来越多人用Eino？](https://www.cnblogs.com/12lisu/p/23396247)
+2. [WPF 中常用的 LINQ 语句](https://www.cnblogs.com/nap117/p/23396212)
+3. [技术思考问题39：技术债未清为何绕路更多？](https://www.cnblogs.com/snidget/p/23395740)
+4. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
+5. [按键一按程序就像死机：阻塞式写法如何毁掉小车](https://www.cnblogs.com/zw-awa/p/23395438)
+6. [CODESYS AI实践 - 单元测试](https://www.cnblogs.com/Zhouyongh/p/23395375)
+7. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
+8. [用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方](https://www.cnblogs.com/wyang/p/23395208)
+9. [脚本报错 ORA-01756：问题出在 NLS_LANG 字符集](https://www.cnblogs.com/jyzhao/p/23394972)
+10. [Python `regex` 库：你所不知道的正则表达式用法](https://www.cnblogs.com/apachecn/p/23394650)
+11. [一比一复刻网站前端](https://www.cnblogs.com/fhyy/p/23394641)
+12. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
+13. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
+14. [MySQL进阶教程（一）—— 储存过程与触发器（上）](https://www.cnblogs.com/mengyingblog/p/23392463)
+15. [CF1882D Tree XOR 题解](https://www.cnblogs.com/lvwangshuOI/p/23392231)
+16. [C# .NET 周刊 ｜2026 年 9 月 2 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_2)
+17. [并发编程（十一）：Shared Memory 与 Message Passing——关系与组合使用](https://www.cnblogs.com/ThinkerQAQ/p/23392168)
+18. [8. 单行注释与多行注释，写出便于维护的好代码](https://www.cnblogs.com/halfcode/p/23391591)
+19. [从零搭建Transformer-CS336作业](https://www.cnblogs.com/CrescentWind/p/23391357)
+20. [linux开机流程](https://www.cnblogs.com/wanchenxi/p/23391337)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
-2. [AI 工具退场以后：研发团队真正应该留下什么](https://www.cnblogs.com/yuyisi/p/23179390)
-3. [别卷"AI能做的事"，去练"AI做不了的事"](https://www.cnblogs.com/zhangs1986/p/23162590)
-4. [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23366925)
-5. [停更 5 年，它本该被淘汰 —— 直到 Workbuddy 让它跑在新 M6 上](https://www.cnblogs.com/jzhlin/p/23367450/workbuddy_m6_eul)
-6. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
+2. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
+3. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
+4. [百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成](https://www.cnblogs.com/zrui-xyu/p/23367975)
+5. [MCP 退潮：为什么一线工程团队开始转向 CLI-First 的 Agent 工具模式](https://www.cnblogs.com/codigger/p/23385291)
+6. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)

@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-22 09:22:02
+> 更新时间：2026-10-22 10:18:13
 
 ## 热新闻
 
@@ -23,4 +23,4 @@
 17. [解读｜国家数据集团成立，能给数据资源流通和交易带来什么](https://www.thepaper.cn/newsDetail_forward_34302482)
 18. [泽连斯基最新讲话：同意冻结战线进行和谈，曾表态不承认被占领土归属](https://www.thepaper.cn/newsDetail_forward_34303376)
 19. [美国外交政策全国委员会代表团到访京沪：见了哪些人？谈了什么？](https://www.thepaper.cn/newsDetail_forward_34298229)
-20. [见识丨不会主动说出疼痛的人](https://www.thepaper.cn/newsDetail_forward_34297383)
+20. [经纬度：组建数据要素“国家队”，有何考量？](https://www.thepaper.cn/newsDetail_forward_34297694)
