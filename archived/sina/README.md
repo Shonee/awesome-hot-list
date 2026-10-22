@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 06:11:28
+> 更新时间：2026-10-23 07:11:48
 
 ## 新闻热榜
 
@@ -44,6 +44,6 @@
 15. [白宫发言人安娜·凯利（Anna Kelly）谈下一任白宫新闻秘书：专注于我的工作。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4855799.shtml)
 16. [美医药股MODERNA股价持续下跌，跌幅达20%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8258581.shtml)
 17. [默沙东：在INTERPATH-001三期试验中未观察到新的安全性信号。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4955806.shtml)
-18. [Anthropic首次公开募股将为Iconiq、Spark和GIC带来巨额收益。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8076276.shtml)
-19. [Bloom Energy营收超预期，产品销售创纪录](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8096917.shtml)
-20. [国道317线西藏那曲部分路段实施全封闭交通管制](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8197385.shtml)
+18. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
+19. [Anthropic首次公开募股将为Iconiq、Spark和GIC带来巨额收益。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8076276.shtml)
+20. [Bloom Energy营收超预期，产品销售创纪录](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8096917.shtml)

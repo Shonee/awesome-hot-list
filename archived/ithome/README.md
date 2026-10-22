@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-23 06:11:53
+> 更新时间：2026-10-23 07:11:52
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [消息称苹果首款折叠 iPhone Duo 首销卖爆，12 个月内出货目标暴增 44%](https://www.ithome.com/1/016/356.htm)
 9. [腾讯客服称微信目前已适配 iPhone Duo，后续还会推出相关更新并持续提升使用体验](https://www.ithome.com/1/016/512.htm)
 10. [苹果首款折叠屏手机 iPhone Duo 京东率先开售：国行 15999 元起，7.6 英寸内屏配 A20 Pro](https://www.ithome.com/1/016/621.htm)
-11. [苹果首款折叠 iPhone Duo 屏下摄像头媒体评价：镜头藏住了，画质没跟上](https://www.ithome.com/1/016/179.htm)
-12. [苹果首款折叠 iPhone Duo 首批海外评价：Touch ID 指纹解锁体验不如 Face ID 方案](https://www.ithome.com/1/016/191.htm)
+11. [小鹏汽车 00 后美女产品经理为 MONA L05 发布会上“老登”用词道歉：本意是玩笑，承认让人不适](https://www.ithome.com/1/016/698.htm)
+12. [苹果首款折叠 iPhone Duo 屏下摄像头媒体评价：镜头藏住了，画质没跟上](https://www.ithome.com/1/016/179.htm)

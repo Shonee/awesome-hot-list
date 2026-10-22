@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-23 06:11:05
+> 更新时间：2026-10-23 07:11:31
 
 ## 热门文章
 
@@ -31,23 +31,23 @@
 25. [开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架](https://juejin.cn/post/7698552541928194063)
 26. [行内编辑，前端如何兜底？😭😭😭](https://juejin.cn/post/7698350142773313536)
 27. [从零手搓 AI 伴侣：Java + 大模型 + 多模态的工程化踩坑实录](https://juejin.cn/post/7698306160449208355)
-28. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
-29. [微信小程序包体积优化：2MB 到 400KB 的实操记录](https://juejin.cn/post/7698325073354489890)
-30. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
+28. [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848)
+29. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
+30. [微信小程序包体积优化：2MB 到 400KB 的实操记录](https://juejin.cn/post/7698325073354489890)
 31. [微信运动每天晚上 10 点推送排行榜，技术上到底有多难？](https://juejin.cn/post/7699320318288494630)
 32. [多进程环境下使用 PM2 部署 Socket.IO：需要注意什么](https://juejin.cn/post/7699047775224725530)
-33. [AI 热点日报（2026-10-20）：DeepSeek V4.1-Flash落地，Meta开源816B大模型，国产AI芯片涨价20%-50%](https://juejin.cn/post/7698331749004083243)
-34. [别再只会写 <T>：Kotlin 泛型的实战用法](https://juejin.cn/post/7698313416230141971)
-35. [unix-utils v0.2.0 发布：modal 全端统一，自绘窗口解决输入框难题](https://juejin.cn/post/7698256886345334810)
-36. [多智能体编排：拆分、隔离与收敛的完整实战](https://juejin.cn/post/7698625451761631268)
-37. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
-38. [踩坑实录：OpenCode 端口 49374 占用之谜](https://juejin.cn/post/7698570306697773082)
-39. [本地大模型微调与 GGUF 部署全指南](https://juejin.cn/post/7698567279269199906)
-40. [DeepSeek 突发上线 V4.1-1017：552B 稀疏架构仅激活 16B，白菜价背后的工程奇迹](https://juejin.cn/post/7698552541928734735)
-41. [双十一，我为什么想买一台编码显示器](https://juejin.cn/post/7699307186593300507)
-42. [代码越来越便宜，为什么系统却越来越难升级？](https://juejin.cn/post/7698920849558552602)
-43. [从预约改期看 Agent 工具粒度：把不变量留在权威服务](https://juejin.cn/post/7698677378390622244)
-44. [React 正式登场！GenUI SDK v1.4.0 三框架渲染、出码与 Agent 生态重磅升级~](https://juejin.cn/post/7698677378389835812)
+33. [DeepSeek 突发上线 V4.1-1017：552B 稀疏架构仅激活 16B，白菜价背后的工程奇迹](https://juejin.cn/post/7698552541928734735)
+34. [AI 热点日报（2026-10-20）：DeepSeek V4.1-Flash落地，Meta开源816B大模型，国产AI芯片涨价20%-50%](https://juejin.cn/post/7698331749004083243)
+35. [别再只会写 <T>：Kotlin 泛型的实战用法](https://juejin.cn/post/7698313416230141971)
+36. [unix-utils v0.2.0 发布：modal 全端统一，自绘窗口解决输入框难题](https://juejin.cn/post/7698256886345334810)
+37. [多智能体编排：拆分、隔离与收敛的完整实战](https://juejin.cn/post/7698625451761631268)
+38. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
+39. [踩坑实录：OpenCode 端口 49374 占用之谜](https://juejin.cn/post/7698570306697773082)
+40. [本地大模型微调与 GGUF 部署全指南](https://juejin.cn/post/7698567279269199906)
+41. [React 正式登场！GenUI SDK v1.4.0 三框架渲染、出码与 Agent 生态重磅升级~](https://juejin.cn/post/7698677378389835812)
+42. [双十一，我为什么想买一台编码显示器](https://juejin.cn/post/7699307186593300507)
+43. [代码越来越便宜，为什么系统却越来越难升级？](https://juejin.cn/post/7698920849558552602)
+44. [从预约改期看 Agent 工具粒度：把不变量留在权威服务](https://juejin.cn/post/7698677378390622244)
 45. [谁是 AI-relay App 的真正威胁 -- 肘子的 Swift 周报 #158](https://juejin.cn/post/7698294342289342474)
 46. [DeepSeek 又出王炸，用 DeepInfer 搭建自己的服务是不是很容易？](https://juejin.cn/post/7698799059633979446)
 47. [DeepSeek 开源推理框架 DeepInfer：KVCache 存三天、投机解码少验 30% 是怎么做到的](https://juejin.cn/post/7698645127041089536)
