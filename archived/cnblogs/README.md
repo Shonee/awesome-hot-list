@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 08:31:07
+> 更新时间：2026-10-22 09:21:51
 
 ## 最新帖子
 
-1. [用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方](https://www.cnblogs.com/wyang/p/23395208)
-2. [脚本报错 ORA-01756：问题出在 NLS_LANG 字符集](https://www.cnblogs.com/jyzhao/p/23394972)
-3. [Python `regex` 库：你所不知道的正则表达式用法](https://www.cnblogs.com/apachecn/p/23394650)
-4. [一比一复刻网站前端](https://www.cnblogs.com/fhyy/p/23394641)
-5. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
-6. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
-7. [MySQL进阶教程（一）—— 储存过程与触发器（上）](https://www.cnblogs.com/mengyingblog/p/23392463)
-8. [CF1882D Tree XOR 题解](https://www.cnblogs.com/lvwangshuOI/p/23392231)
-9. [C# .NET 周刊 ｜2026 年 9 月 2 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_2)
-10. [并发编程（十一）：Shared Memory 与 Message Passing——关系与组合使用](https://www.cnblogs.com/ThinkerQAQ/p/23392168)
-11. [8. 单行注释与多行注释，写出便于维护的好代码](https://www.cnblogs.com/halfcode/p/23391591)
-12. [从零搭建Transformer-CS336作业](https://www.cnblogs.com/CrescentWind/p/23391357)
-13. [linux开机流程](https://www.cnblogs.com/wanchenxi/p/23391337)
-14. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
-15. [如何使用RDS Supabase后端BaaS能力：创表即生成API（Database Data API）](https://www.cnblogs.com/huaweiyun/p/23389190)
-16. [BM25 详解](https://www.cnblogs.com/zjdxr-up/p/23331060)
-17. [15、数据中心网络产业：从五层架构到智能无损网络](https://www.cnblogs.com/suhanmo/p/23387574)
-18. [CorpusMap：Agent 搜索省下 57% Token 的背后设计](https://www.cnblogs.com/Qiniu-developer/p/23387558)
-19. [Ascend vNPU 实战：从原生 Docker 到 Ascend Docker Runtime](https://www.cnblogs.com/KubeExplorer/p/23386809)
-20. [工程师的词典：缺省值、鲁棒性，和那些名不副实的怪词](https://www.cnblogs.com/zw-awa/p/23386008)
+1. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
+2. [按键一按程序就像死机：阻塞式写法如何毁掉小车](https://www.cnblogs.com/zw-awa/p/23395438)
+3. [CODESYS AI实践 - 单元测试](https://www.cnblogs.com/Zhouyongh/p/23395375)
+4. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
+5. [用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方](https://www.cnblogs.com/wyang/p/23395208)
+6. [脚本报错 ORA-01756：问题出在 NLS_LANG 字符集](https://www.cnblogs.com/jyzhao/p/23394972)
+7. [Python `regex` 库：你所不知道的正则表达式用法](https://www.cnblogs.com/apachecn/p/23394650)
+8. [一比一复刻网站前端](https://www.cnblogs.com/fhyy/p/23394641)
+9. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
+10. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
+11. [MySQL进阶教程（一）—— 储存过程与触发器（上）](https://www.cnblogs.com/mengyingblog/p/23392463)
+12. [CF1882D Tree XOR 题解](https://www.cnblogs.com/lvwangshuOI/p/23392231)
+13. [C# .NET 周刊 ｜2026 年 9 月 2 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_2)
+14. [并发编程（十一）：Shared Memory 与 Message Passing——关系与组合使用](https://www.cnblogs.com/ThinkerQAQ/p/23392168)
+15. [8. 单行注释与多行注释，写出便于维护的好代码](https://www.cnblogs.com/halfcode/p/23391591)
+16. [从零搭建Transformer-CS336作业](https://www.cnblogs.com/CrescentWind/p/23391357)
+17. [linux开机流程](https://www.cnblogs.com/wanchenxi/p/23391337)
+18. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
+19. [如何使用RDS Supabase后端BaaS能力：创表即生成API（Database Data API）](https://www.cnblogs.com/huaweiyun/p/23389190)
+20. [BM25 详解](https://www.cnblogs.com/zjdxr-up/p/23331060)
 
 ## 精华帖子
 
