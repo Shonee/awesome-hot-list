@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 13:12:41
+> 更新时间：2026-10-22 14:20:29
 
 ## 最新帖子
 
-1. [一张票的诞生：电气作业票规则与系统设计深度指南](https://www.cnblogs.com/keepsmart/p/23399004)
-2. [AI 拆 PRD 不是甩手掌柜：三段 Prompt 链把任务树拆到能直接排期](https://www.cnblogs.com/uniqueDong/p/23398577)
-3. [如何使用RDS Supabase后端BaaS能力：数据库函数（Database Function）](https://www.cnblogs.com/huaweiyun/p/23398033)
-4. [abp学习笔记 - 工作单元(UOW)基础](https://www.cnblogs.com/lmy5215006/p/23388101)
-5. [MySQL 被高并发打爆？从定位到分库分表逐层拆解（含秒杀库存实战）](https://www.cnblogs.com/zrui-xyu/p/23397586)
-6. [两步路通过Map Kit路线信号预测，打造户外探索信号全域无忧体验](https://www.cnblogs.com/HarmonyOSSDK/p/23397448)
-7. [PHP2Shell：AI 两天挖出 9.2 分漏洞，让全球 70% 网站连夜打补丁](https://www.cnblogs.com/xiaobaiysf/p/23397061)
-8. [域名埋点零侵入实时校验实践：基于代理转发与规则驱动的工具设计](https://www.cnblogs.com/vivotech/p/23397024)
-9. [为什么越来越多人用Eino？](https://www.cnblogs.com/12lisu/p/23396247)
-10. [WPF 中常用的 LINQ 语句](https://www.cnblogs.com/nap117/p/23396212)
-11. [技术思考问题39：技术债未清为何绕路更多？](https://www.cnblogs.com/snidget/p/23395740)
-12. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
-13. [按键一按程序就像死机：阻塞式写法如何毁掉小车](https://www.cnblogs.com/zw-awa/p/23395438)
-14. [CODESYS AI实践 - 单元测试](https://www.cnblogs.com/Zhouyongh/p/23395375)
-15. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
-16. [用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方](https://www.cnblogs.com/wyang/p/23395208)
-17. [脚本报错 ORA-01756：问题出在 NLS_LANG 字符集](https://www.cnblogs.com/jyzhao/p/23394972)
-18. [Python `regex` 库：你所不知道的正则表达式用法](https://www.cnblogs.com/apachecn/p/23394650)
-19. [一比一复刻网站前端](https://www.cnblogs.com/fhyy/p/23394641)
-20. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
+1. [用 Python 把 CE-AJ12N 非接触电流电压传感器接入 TimescaleDB 时序库与降采样聚合](https://www.cnblogs.com/sset-sz/p/23399622)
+2. [AI学会写代码之后，程序员节为什么更重要了](https://www.cnblogs.com/codigger/p/23399591)
+3. [【译】今天我将审核 GitHub 拉取请求](https://www.cnblogs.com/MeteorSeed/p/23389713)
+4. [[最优化技术] 3-8 共轭方向法](https://www.cnblogs.com/h-elden/p/23378419)
+5. [一张票的诞生：电气作业票规则与系统设计深度指南](https://www.cnblogs.com/keepsmart/p/23399004)
+6. [AI 拆 PRD 不是甩手掌柜：三段 Prompt 链把任务树拆到能直接排期](https://www.cnblogs.com/uniqueDong/p/23398577)
+7. [如何使用RDS Supabase后端BaaS能力：数据库函数（Database Function）](https://www.cnblogs.com/huaweiyun/p/23398033)
+8. [abp学习笔记 - 工作单元(UOW)基础](https://www.cnblogs.com/lmy5215006/p/23388101)
+9. [MySQL 被高并发打爆？从定位到分库分表逐层拆解（含秒杀库存实战）](https://www.cnblogs.com/zrui-xyu/p/23397586)
+10. [16、广域网络产业：从城域承载到骨干互联的全景解读](https://www.cnblogs.com/suhanmo/p/23397552)
+11. [两步路通过Map Kit路线信号预测，打造户外探索信号全域无忧体验](https://www.cnblogs.com/HarmonyOSSDK/p/23397448)
+12. [无线网络Aircrack Wifite工具教程](https://www.cnblogs.com/Johny-zhao/p/23397348)
+13. [PHP2Shell：AI 两天挖出 9.2 分漏洞，让全球 70% 网站连夜打补丁](https://www.cnblogs.com/xiaobaiysf/p/23397061)
+14. [域名埋点零侵入实时校验实践：基于代理转发与规则驱动的工具设计](https://www.cnblogs.com/vivotech/p/23397024)
+15. [为什么越来越多人用Eino？](https://www.cnblogs.com/12lisu/p/23396247)
+16. [WPF 中常用的 LINQ 语句](https://www.cnblogs.com/nap117/p/23396212)
+17. [技术思考问题39：技术债未清为何绕路更多？](https://www.cnblogs.com/snidget/p/23395740)
+18. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
+19. [按键一按程序就像死机：阻塞式写法如何毁掉小车](https://www.cnblogs.com/zw-awa/p/23395438)
+20. [CODESYS AI实践 - 单元测试](https://www.cnblogs.com/Zhouyongh/p/23395375)
 
 ## 精华帖子
 
