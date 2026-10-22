@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-22 14:54:57
+> 更新时间：2026-10-22 15:44:08
 
 ## 热新闻
 
@@ -15,12 +15,12 @@
 9. [铁路列车车次编排改革细节：先将现行普速列车T、K字头改为N、V](https://www.thepaper.cn/newsDetail_forward_34300897)
 10. [中国体操队时隔20年再夺世锦赛女团金牌](https://www.thepaper.cn/newsDetail_forward_34305177)
 11. [马上评｜浮夸的医学真人秀：生命的考场不该是秀场](https://www.thepaper.cn/newsDetail_forward_34306298)
-12. [乌克兰的无人机优势被削弱，同样在丧失的还有泽连斯基的“价值”](https://www.thepaper.cn/newsDetail_forward_34297968)
+12. [“女童被泳池排水口吸入不幸身亡”事故调查报告发布：回水管口安全防护罩缺失](https://www.thepaper.cn/newsDetail_forward_34305763)
 13. [泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议](https://www.thepaper.cn/newsDetail_forward_34302132)
 14. [长征胜利90周年纪念币明天发行！币面再现红军过雪山草地场景](https://www.thepaper.cn/newsDetail_forward_34300935)
 15. [解读｜国家数据集团成立，能给数据资源流通和交易带来什么](https://www.thepaper.cn/newsDetail_forward_34302482)
 16. [泽连斯基最新讲话：同意冻结战线进行和谈，曾表态不承认被占领土归属](https://www.thepaper.cn/newsDetail_forward_34303376)
-17. [经纬度：组建数据要素“国家队”，有何考量？](https://www.thepaper.cn/newsDetail_forward_34297694)
-18. [黄仁勋“教育”英德：发展AI别想太多 ，“你们光动口不动手”](https://www.thepaper.cn/newsDetail_forward_34300727)
-19. [收录上百篇回忆文章的《红军长征记》，亲历者写下怎样的长征路？](https://www.thepaper.cn/newsDetail_forward_34123207)
-20. [《关于推动科技创新和产业创新深度融合的意见》发布](https://www.thepaper.cn/newsDetail_forward_34301142)
+17. [黄仁勋“教育”英德：发展AI别想太多 ，“你们光动口不动手”](https://www.thepaper.cn/newsDetail_forward_34300727)
+18. [澎湃读报丨纪念长征胜利90周年，各大报集中刊发社论、特别报道](https://www.thepaper.cn/newsDetail_forward_34305436)
+19. [《关于推动科技创新和产业创新深度融合的意见》发布](https://www.thepaper.cn/newsDetail_forward_34301142)
+20. [纪念中国工农红军长征胜利90周年｜信仰之路：两万五千里](https://www.thepaper.cn/newsDetail_forward_34281768)

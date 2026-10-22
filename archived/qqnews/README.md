@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-22 14:55:00
+> 更新时间：2026-10-22 15:44:09
 
 ## 热点榜
 
 1. [独家视频丨纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话](https://view.inews.qq.com/a/20261022A0433Q00)
 2. [240里山路、13根铁索、22个人，飞夺泸定桥到底有多快？](https://h5.news.qq.com/qqfile/newsh5/changzheng-90-4.html)
-3. [视频丨多机型协同出击！陆军航空兵实战化飞行训练火热展开](https://view.inews.qq.com/a/20261022A04LP800)
-4. [致 敬 伟 大 的 胜 利 ！](https://view.inews.qq.com/a/20261022A028FS00)
+3. [我国面向全球的自贸网络已经初步成型](https://view.inews.qq.com/a/20261022A08EIV00)
+4. [从征途漫漫到列车飞驰，记者探访长征沿线各地发展](https://view.inews.qq.com/a/20261022A05WZW00)
 5. [台风蓝色预警：“蔷琵”向台湾东北部沿海靠近 强度继续减弱](https://view.inews.qq.com/a/20261022A02GID00)
-6. [我国科学家破解丹尼索瓦人辨识难题](https://view.inews.qq.com/a/20261021A0EPQJ00)
-7. [数万人见证火箭腾空 航天主题游成文旅新亮点](https://view.inews.qq.com/a/20261022A05IO100)
-8. [星空相册｜猎户座流星雨闪耀夜空#](https://view.inews.qq.com/a/20261022A04UG100)
-9. [告别“闰秒”，全球时间标尺大调整](https://view.inews.qq.com/a/20261022A01ZFS00)
-10. [航空第十城易主，这次在西北](https://view.inews.qq.com/a/20261021A0EY9X00)
+6. [中国人民银行发行中国工农红军长征胜利90周年金银纪念币](https://view.inews.qq.com/a/20261022A03CD000)
+7. [中欧班列累计开行突破14万列](https://view.inews.qq.com/a/20261022A07PZQ00)
+8. [幸福河畔丨黄河有了线上“双胞胎”！上亿条数据支撑 险情提前预判 山东解锁智慧治河“黑科技”](https://view.inews.qq.com/a/20261022V05NU900)
+9. [三样“信物”里读懂四渡赤水｜纪念中国工农红军长征胜利90周年](https://view.inews.qq.com/a/20261022A085WI00)
+10. [工信部NVDB发布关于防范PHP远程代码执行超危漏洞的风险提示](https://view.inews.qq.com/a/20261022A07LC600)
 11. [还原史实，揭露骗局，红军伟大长征不容消费！](https://mp.weixin.qq.com/s/kmwQw9kcUKDqiOFXP5z4nQ)
 12. [俄罗斯警告日本](https://view.inews.qq.com/a/20261022A072NW00)
-13. [南宁一女子转账转错人，5万元刚进入对方账户，就被银行划走偿还信用卡欠款！这笔钱还能要回来吗？](https://view.inews.qq.com/a/20261021A0EHV200)
-14. [那碗没吃到的油泼面，她一直记着](https://view.inews.qq.com/a/20261021V09C3A00)
-15. [女子怀孕后好奇拆开验孕棒，原来就是试纸加了个塑料壳，网友两块的跟二十块的效果一样吗？](https://view.inews.qq.com/a/20261022V0435L00)
-16. [白天出摊卖小吃，夜里回病房睡觉，针不打、药不用！男子“挂床”骗保超10万元，14家保险公司“中招”，法院判了](https://view.inews.qq.com/a/20261021A0DJJY00)
-17. [视频丨泽连斯基说同意“冻结现状”开启和谈](https://view.inews.qq.com/a/20261021A0CUVP00)
-18. [1-9月居民用电十年来首现负增长，发生了什么](https://view.inews.qq.com/a/20261022A0586E00)
-19. [统一大势不可阻挡！台媒紧盯：解放军44架艘次军机舰船“三面包围台湾”](https://view.inews.qq.com/a/20261021V0A3FA00)
-20. [重庆：拟追责问责公职人员94人](https://view.inews.qq.com/a/20261021A0ELAO00)
+13. [1-9月居民用电十年来首现负增长，发生了什么](https://view.inews.qq.com/a/20261022A0586E00)
+14. [中方澄清：所谓“胡塞武装使用中国零件制造导弹”完全是毫无事实根据、不负责任的抹黑造谣](https://view.inews.qq.com/a/20261022A06ZOH00)
+15. [视频丨泽连斯基说同意“冻结现状”开启和谈](https://view.inews.qq.com/a/20261021A0CUVP00)
+16. [航拍重庆巫溪县一处山体滑坡，山体出现巨大缺口，当地：正密切监控动态](https://view.inews.qq.com/a/20261022V06K9K00)
+17. [离开写字楼的程序员，正在批量“进厂”](https://view.inews.qq.com/a/20261022A055T800)
+18. [重庆：拟追责问责公职人员94人](https://view.inews.qq.com/a/20261021A0ELAO00)
+19. [广东多地疾控中心发“警惕伪造健康证明”声明：早已不开展健康体检及办理健康证](https://view.inews.qq.com/a/20261022A07PKP00)
+20. [房贷贴息来了！京沪二手房成交活跃，广深150万元以下房源成交提速](https://view.inews.qq.com/a/20261022A07EYP00)
