@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-22 16:17:08
+> 更新时间：2026-10-22 17:13:47
 
 ## 热新闻
 
@@ -17,10 +17,10 @@
 11. [“女童被泳池排水口吸入不幸身亡”事故调查报告发布：回水管口安全防护罩缺失](https://www.thepaper.cn/newsDetail_forward_34305763)
 12. [泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议](https://www.thepaper.cn/newsDetail_forward_34302132)
 13. [奇瑞尹同跃回应马来西亚车辆问题：出海不是收割，一定要谦虚低调](https://www.thepaper.cn/newsDetail_forward_34305443)
-14. [长征胜利90周年纪念币明天发行！币面再现红军过雪山草地场景](https://www.thepaper.cn/newsDetail_forward_34300935)
-15. [解读｜国家数据集团成立，能给数据资源流通和交易带来什么](https://www.thepaper.cn/newsDetail_forward_34302482)
-16. [泽连斯基最新讲话：同意冻结战线进行和谈，曾表态不承认被占领土归属](https://www.thepaper.cn/newsDetail_forward_34303376)
-17. [黄仁勋“教育”英德：发展AI别想太多 ，“你们光动口不动手”](https://www.thepaper.cn/newsDetail_forward_34300727)
-18. [澎湃读报丨纪念长征胜利90周年，各大报集中刊发社论、特别报道](https://www.thepaper.cn/newsDetail_forward_34305436)
-19. [《关于推动科技创新和产业创新深度融合的意见》发布](https://www.thepaper.cn/newsDetail_forward_34301142)
-20. [纪念中国工农红军长征胜利90周年｜信仰之路：两万五千里](https://www.thepaper.cn/newsDetail_forward_34281768)
+14. [上海12岁少年登顶乞力马扎罗，母亲：不看重“最年轻”标签](https://www.thepaper.cn/newsDetail_forward_34301128)
+15. [长征胜利90周年纪念币明天发行！币面再现红军过雪山草地场景](https://www.thepaper.cn/newsDetail_forward_34300935)
+16. [解读｜国家数据集团成立，能给数据资源流通和交易带来什么](https://www.thepaper.cn/newsDetail_forward_34302482)
+17. [泽连斯基最新讲话：同意冻结战线进行和谈，曾表态不承认被占领土归属](https://www.thepaper.cn/newsDetail_forward_34303376)
+18. [黄仁勋“教育”英德：发展AI别想太多 ，“你们光动口不动手”](https://www.thepaper.cn/newsDetail_forward_34300727)
+19. [澎湃读报丨纪念长征胜利90周年，各大报集中刊发社论、特别报道](https://www.thepaper.cn/newsDetail_forward_34305436)
+20. [《关于推动科技创新和产业创新深度融合的意见》发布](https://www.thepaper.cn/newsDetail_forward_34301142)
