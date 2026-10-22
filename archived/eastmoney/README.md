@@ -1,14 +1,14 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-23 04:13:00
+> 更新时间：2026-10-23 05:13:08
 
 ## 股票人气榜
 
 1. [华天科技 (002185)](https://quote.eastmoney.com/sz002185.html)
 2. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
-3. [沈鼓集团 (601091)](https://quote.eastmoney.com/sh601091.html)
-4. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
-5. [大洋电机 (002249)](https://quote.eastmoney.com/sz002249.html)
+3. [大洋电机 (002249)](https://quote.eastmoney.com/sz002249.html)
+4. [沈鼓集团 (601091)](https://quote.eastmoney.com/sh601091.html)
+5. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
 6. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
 7. [新易盛 (300502)](https://quote.eastmoney.com/sz300502.html)
 8. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)

@@ -1,13 +1,13 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-23 04:12:35
+> 更新时间：2026-10-23 05:12:44
 
 ## 人气热门
 
-1. [微软常用运行库合集 2026.10.14](https://www.52pojie.cn/thread-2132548-1-1.html)
-2. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
-3. [「网址 + 油猴脚本」一键打包成EXE](https://www.52pojie.cn/thread-2133403-1-1.html)
-4. [全能下载工具Motrix v2.0.0-beta.52](https://www.52pojie.cn/thread-2133111-1-1.html)
+1. [全能下载工具Motrix v2.0.0-beta.52](https://www.52pojie.cn/thread-2133111-1-1.html)
+2. [微软常用运行库合集 2026.10.14](https://www.52pojie.cn/thread-2132548-1-1.html)
+3. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
+4. [「网址 + 油猴脚本」一键打包成EXE](https://www.52pojie.cn/thread-2133403-1-1.html)
 5. [【原创软件】轻量倒计时与闹钟工具 Timoa V1.2.0（已更新）](https://www.52pojie.cn/thread-2132712-1-1.html)
 6. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
 7. [龙日历 v5.0](https://www.52pojie.cn/thread-2133423-1-1.html)

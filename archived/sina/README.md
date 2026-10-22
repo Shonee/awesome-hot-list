@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 04:12:47
+> 更新时间：2026-10-23 05:12:55
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937956.shtml)
-2. [DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。仍然看空久期偏长的美债。美国政府大幅举债和需求疲软将继续打压债市。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4912689.shtml)
-3. [智利财政部长表示，今年智利矿业产值可能萎缩约8%至9%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8141811.shtml)
-4. [伦敦挂牌“上海价格”钢材合约，中国金属定价影响力首次输出境外](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwcafn5027372.shtml)
-5. [Meta的相关计划最早可能于周三宣布。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8059195.shtml)
-6. [菲律宾央行行长：下调银行准备金率的时机至关重要。](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwarrq8179369.shtml)
-7. [PIVOTAL RESEARCH：将META 目标价上调30美元至960美元。](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwamiu4902851.shtml)
-8. [周大福第二季度零售值-0.5％。](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwavxq4909882.shtml)
-9. [洽洽食品：2026年第三季度净利润1.42亿元，同比增长79.13%](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwavxn8163502.shtml)
-10. [全球首款乙肝功能性治愈药物在美国获批，治愈率飙至19%，“6个月疗程后有望停药”，中国患者啥时候能用上？](https://finance.sina.com.cn/stock/wbstock/2026-10-22/doc-iniwamir5995649.shtml)
-11. [瑞典央行Jansson：领先指标持续上升，这使我对增长前景相对乐观。](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwchph8196200.shtml)
-12. [Meta未来支出承诺激增至8250亿美元。](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwcafn5004113.shtml)
-13. [科创板年内IPO终止审核已12家 最快86天即撤回](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwchpk4936859.shtml)
-14. [美国会议员候选人在约旦河西岸采橄榄遭以军扣留](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwavxq5011559.shtml)
-15. [发改委： 国家支持投资者按照市场化原则开展对外投资活动](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwavxn8211636.shtml)
-16. [美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4963768.shtml)
-17. [“午觉睡醒吃一个板”！002185突然直线涨停，尾盘又炸板](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwarrp5982929.shtml)
-18. [特朗普大骂CNN记者智商低，“坦白说，俄罗斯和中国在伊朗问题上并没有扮演什么重要角色，对此我们表示感谢”](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwamir5898235.shtml)
-19. [马上评｜浮夸的医学真人秀：生命的考场不该是秀场](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwamir5911938.shtml)
-20. [开盘：纳指跌1.5% AI担忧升温 特斯拉、Meta等拖累指数](https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpk4997568.shtml)
+1. [美元指数22日下跌](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4975612.shtml)
+2. [Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937956.shtml)
+3. [DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。仍然看空久期偏长的美债。美国政府大幅举债和需求疲软将继续打压债市。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4912689.shtml)
+4. [智利财政部长表示，今年智利矿业产值可能萎缩约8%至9%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8141811.shtml)
+5. [美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4963768.shtml)
+6. [纽约期金失守4050美元/盎司，日内跌2.41%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8257376.shtml)
+7. [美股纳斯达克100指数期货跌超3%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8169734.shtml)
+8. [比特币跌破81000美元，日内跌3.75%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnvh5033361.shtml)
+9. [DATADOG股价迅速下跌，触及盘中低点。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4921921.shtml)
+10. [加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937740.shtml)
+11. [Anthropic因使用受版权保护的音乐训练Claude而被起诉。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4922139.shtml)
+12. [捷蓝航空股价下跌7%，跌至历史新低。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4945880.shtml)
+13. [前白宫新闻秘书卡罗琳·莱维特对其继任者迅速离开白宫一事发表评论，称这份工作“并不适合她”。莱维特还透露，她正在为正在物色新任白宫](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8261076.shtml)
+14. [美国卫生部长核心顾问Calley Means辞职，对“让美国再次健康”运动构成打击](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4848271.shtml)
+15. [美医药股MODERNA股价持续下跌，跌幅达20%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8258581.shtml)
+16. [默沙东：在INTERPATH-001三期试验中未观察到新的安全性信号。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4955806.shtml)
+17. [Anthropic首次公开募股将为Iconiq、Spark和GIC带来巨额收益。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8076276.shtml)
+18. [国道317线西藏那曲部分路段实施全封闭交通管制](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8197385.shtml)
+19. [纽约期银失守55美元/盎司，日内跌4.71%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnvh5007494.shtml)
+20. [马斯克：尽可能提高Megapack产量。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8175794.shtml)
