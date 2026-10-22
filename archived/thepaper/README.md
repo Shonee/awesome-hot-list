@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-22 23:14:09
+> 更新时间：2026-10-23 00:14:19
 
 ## 热新闻
 
@@ -22,5 +22,5 @@
 16. [纪念中国工农红军长征胜利90周年｜信仰之路：两万五千里](https://www.thepaper.cn/newsDetail_forward_34281768)
 17. [王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力](https://www.thepaper.cn/newsDetail_forward_34306053)
 18. [5.5%增速背后，上海经济动能向新、结构向优](https://www.thepaper.cn/newsDetail_forward_34303365)
-19. [孙伟谈长征中的情报较量：电文背后的战局与抉择](https://www.thepaper.cn/newsDetail_forward_34287940)
-20. [澎湃回声｜叶县回应“美好生活家园”交房问题：通过置换等方式追回3.06亿预售款，没有实际到账](https://www.thepaper.cn/newsDetail_forward_34301986)
+19. [叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”](https://www.thepaper.cn/newsDetail_forward_34309586)
+20. [孙伟谈长征中的情报较量：电文背后的战局与抉择](https://www.thepaper.cn/newsDetail_forward_34287940)

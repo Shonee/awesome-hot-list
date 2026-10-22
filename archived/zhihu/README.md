@@ -1,6 +1,6 @@
 # 知乎热榜
 
-> 更新时间：2026-10-22 23:12:50
+> 更新时间：2026-10-23 00:13:52
 
 ## 知乎热榜
 
@@ -76,10 +76,10 @@
 17. [多所高校密集成立科技商学院](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%AF%86%E9%9B%86%E6%88%90%E7%AB%8B%E7%A7%91%E6%8A%80%E5%95%86%E5%AD%A6%E9%99%A2)
 18. [星巴克被曝将实行消费入座](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E8%A2%AB%E6%9B%9D%E5%B0%86%E5%AE%9E%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7)
 19. [网红王扁遭前经纪人锤击](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E7%8E%8B%E6%89%81%E9%81%AD%E5%89%8D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E9%94%A4%E5%87%BB)
-20. [稻城亚丁高反去世男子系非法穿越](https://www.zhihu.com/search?q=%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E9%AB%98%E5%8F%8D%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%90%E7%B3%BB%E9%9D%9E%E6%B3%95%E7%A9%BF%E8%B6%8A)
-21. [董明珠称格力技工学校禁止谈恋爱](https://www.zhihu.com/search?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1)
-22. [长鑫科技股价跳水](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4)
-23. [MiniMax发布M3.1](https://www.zhihu.com/search?q=MiniMax%E5%8F%91%E5%B8%83M3.1)
-24. [女子情绪失控砸毁30万五粮液](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E7%A0%B8%E6%AF%8130%E4%B8%87%E4%BA%94%E7%B2%AE%E6%B6%B2)
-25. [小天才手表封闭社交被质疑](https://www.zhihu.com/search?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4%E8%A2%AB%E8%B4%A8%E7%96%91)
-26. [多所高校研究生人数超本科生](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BA%BA%E6%95%B0%E8%B6%85%E6%9C%AC%E7%A7%91%E7%94%9F)
+20. [家长吐槽大学课程太少](https://www.zhihu.com/search?q=%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%E5%A4%AA%E5%B0%91)
+21. [稻城亚丁高反去世男子系非法穿越](https://www.zhihu.com/search?q=%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E9%AB%98%E5%8F%8D%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%90%E7%B3%BB%E9%9D%9E%E6%B3%95%E7%A9%BF%E8%B6%8A)
+22. [董明珠称格力技工学校禁止谈恋爱](https://www.zhihu.com/search?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1)
+23. [女子情绪失控砸毁30万五粮液](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E7%A0%B8%E6%AF%8130%E4%B8%87%E4%BA%94%E7%B2%AE%E6%B6%B2)
+24. [小天才手表封闭社交被质疑](https://www.zhihu.com/search?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4%E8%A2%AB%E8%B4%A8%E7%96%91)
+25. [多所高校研究生人数超本科生](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BA%BA%E6%95%B0%E8%B6%85%E6%9C%AC%E7%A7%91%E7%94%9F)
+26. [倪萍曾手撕金鸡奖](https://www.zhihu.com/search?q=%E5%80%AA%E8%90%8D%E6%9B%BE%E6%89%8B%E6%92%95%E9%87%91%E9%B8%A1%E5%A5%96)
