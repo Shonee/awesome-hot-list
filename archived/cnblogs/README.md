@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 10:17:58
+> 更新时间：2026-10-22 11:14:14
 
 ## 最新帖子
 
-1. [为什么越来越多人用Eino？](https://www.cnblogs.com/12lisu/p/23396247)
-2. [WPF 中常用的 LINQ 语句](https://www.cnblogs.com/nap117/p/23396212)
-3. [技术思考问题39：技术债未清为何绕路更多？](https://www.cnblogs.com/snidget/p/23395740)
-4. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
-5. [按键一按程序就像死机：阻塞式写法如何毁掉小车](https://www.cnblogs.com/zw-awa/p/23395438)
-6. [CODESYS AI实践 - 单元测试](https://www.cnblogs.com/Zhouyongh/p/23395375)
-7. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
-8. [用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方](https://www.cnblogs.com/wyang/p/23395208)
-9. [脚本报错 ORA-01756：问题出在 NLS_LANG 字符集](https://www.cnblogs.com/jyzhao/p/23394972)
-10. [Python `regex` 库：你所不知道的正则表达式用法](https://www.cnblogs.com/apachecn/p/23394650)
-11. [一比一复刻网站前端](https://www.cnblogs.com/fhyy/p/23394641)
-12. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
-13. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
-14. [MySQL进阶教程（一）—— 储存过程与触发器（上）](https://www.cnblogs.com/mengyingblog/p/23392463)
-15. [CF1882D Tree XOR 题解](https://www.cnblogs.com/lvwangshuOI/p/23392231)
-16. [C# .NET 周刊 ｜2026 年 9 月 2 期](https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_9_2)
-17. [并发编程（十一）：Shared Memory 与 Message Passing——关系与组合使用](https://www.cnblogs.com/ThinkerQAQ/p/23392168)
-18. [8. 单行注释与多行注释，写出便于维护的好代码](https://www.cnblogs.com/halfcode/p/23391591)
-19. [从零搭建Transformer-CS336作业](https://www.cnblogs.com/CrescentWind/p/23391357)
-20. [linux开机流程](https://www.cnblogs.com/wanchenxi/p/23391337)
+1. [abp学习笔记 - 工作单元(UOW)基础](https://www.cnblogs.com/lmy5215006/p/23388101)
+2. [MySQL 被高并发打爆？从定位到分库分表逐层拆解（含秒杀库存实战）](https://www.cnblogs.com/zrui-xyu/p/23397586)
+3. [两步路通过Map Kit路线信号预测，打造户外探索信号全域无忧体验](https://www.cnblogs.com/HarmonyOSSDK/p/23397448)
+4. [PHP2Shell：AI 两天挖出 9.2 分漏洞，让全球 70% 网站连夜打补丁](https://www.cnblogs.com/xiaobaiysf/p/23397061)
+5. [域名埋点零侵入实时校验实践：基于代理转发与规则驱动的工具设计](https://www.cnblogs.com/vivotech/p/23397024)
+6. [为什么越来越多人用Eino？](https://www.cnblogs.com/12lisu/p/23396247)
+7. [WPF 中常用的 LINQ 语句](https://www.cnblogs.com/nap117/p/23396212)
+8. [技术思考问题39：技术债未清为何绕路更多？](https://www.cnblogs.com/snidget/p/23395740)
+9. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
+10. [按键一按程序就像死机：阻塞式写法如何毁掉小车](https://www.cnblogs.com/zw-awa/p/23395438)
+11. [CODESYS AI实践 - 单元测试](https://www.cnblogs.com/Zhouyongh/p/23395375)
+12. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
+13. [用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方](https://www.cnblogs.com/wyang/p/23395208)
+14. [脚本报错 ORA-01756：问题出在 NLS_LANG 字符集](https://www.cnblogs.com/jyzhao/p/23394972)
+15. [Python `regex` 库：你所不知道的正则表达式用法](https://www.cnblogs.com/apachecn/p/23394650)
+16. [一比一复刻网站前端](https://www.cnblogs.com/fhyy/p/23394641)
+17. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
+18. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
+19. [MySQL进阶教程（一）—— 储存过程与触发器（上）](https://www.cnblogs.com/mengyingblog/p/23392463)
+20. [CF1882D Tree XOR 题解](https://www.cnblogs.com/lvwangshuOI/p/23392231)
 
 ## 精华帖子
 
