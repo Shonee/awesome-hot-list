@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-23 00:14:11
+> 更新时间：2026-10-23 01:10:33
 
 ## 最新帖子
 
@@ -55,4 +55,4 @@
 3. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
 4. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
 5. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
-6. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
+6. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)

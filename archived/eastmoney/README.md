@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-23 00:14:55
+> 更新时间：2026-10-23 01:11:01
 
 ## 股票人气榜
 
@@ -22,5 +22,5 @@
 16. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
 17. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
 18. [北新路桥 (002307)](https://quote.eastmoney.com/sz002307.html)
-19. [兆威机电 (003021)](https://quote.eastmoney.com/sz003021.html)
-20. [星光股份 (002076)](https://quote.eastmoney.com/sz002076.html)
+19. [星光股份 (002076)](https://quote.eastmoney.com/sz002076.html)
+20. [兆威机电 (003021)](https://quote.eastmoney.com/sz003021.html)
