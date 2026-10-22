@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-22 07:10:34
+> 更新时间：2026-10-22 13:12:37
 
 ## 每日趋势
 
@@ -13,9 +13,8 @@
 7. [supabase](https://github.com/supabase/supabase)
 8. [twenty](https://github.com/twentyhq/twenty)
 9. [Kronos](https://github.com/shiyu-coder/Kronos)
-10. [freehire](https://github.com/strelov1/freehire)
-11. [ai-memory](https://github.com/akitaonrails/ai-memory)
-12. [graphify](https://github.com/Graphify-Labs/graphify)
+10. [ai-memory](https://github.com/akitaonrails/ai-memory)
+11. [graphify](https://github.com/Graphify-Labs/graphify)
 
 ## 每周趋势
 

@@ -1,10 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 12:13:41
+> 更新时间：2026-10-22 13:12:41
 
 ## 最新帖子
 
-1. [免费帮忙看 .NET / Windows Dump（无偿、非商业）](https://www.cnblogs.com/China-Mr-zhong/p/23398587)
+1. [一张票的诞生：电气作业票规则与系统设计深度指南](https://www.cnblogs.com/keepsmart/p/23399004)
 2. [AI 拆 PRD 不是甩手掌柜：三段 Prompt 链把任务树拆到能直接排期](https://www.cnblogs.com/uniqueDong/p/23398577)
 3. [如何使用RDS Supabase后端BaaS能力：数据库函数（Database Function）](https://www.cnblogs.com/huaweiyun/p/23398033)
 4. [abp学习笔记 - 工作单元(UOW)基础](https://www.cnblogs.com/lmy5215006/p/23388101)
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
-2. [REA逆向路线复盘-手搓工具链与编排引擎修改某回合制端游装备属性](https://www.cnblogs.com/wyang/p/23370959)
-3. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
-4. [百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成](https://www.cnblogs.com/zrui-xyu/p/23367975)
-5. [MCP 退潮：为什么一线工程团队开始转向 CLI-First 的 Agent 工具模式](https://www.cnblogs.com/codigger/p/23385291)
-6. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
+2. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
+3. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
+4. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
+5. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
+6. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
