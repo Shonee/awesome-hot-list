@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 18:11:59
+> 更新时间：2026-10-22 19:12:17
 
 ## 最新帖子
 
-1. [Agent 支线知识：Personal Agent 的前世今生](https://www.cnblogs.com/Qiniu-developer/p/23403757)
-2. [遭遇一次电话+邮件招聘诈骗（果断拉黑）](https://www.cnblogs.com/pengde/p/23403169)
-3. [让 Agent 把视频做出来：DeepSeek Harness × DeepSeek-V4.1-Flash 视频生产流水线](https://www.cnblogs.com/znlgis/p/23402179)
-4. [P17723 [SCP-S 2026] 函数 / func 题解](https://www.cnblogs.com/lvwangshuOI/p/23402048)
-5. [手把手教你用WorkBuddy+Obsidian搭建一个会自我进化的个人知识库](https://www.cnblogs.com/tangshiye/p/23401895)
-6. [45:1压缩、19.1倍查询：1956亿行时序数据复盘](https://www.cnblogs.com/dicengwanjialaozhang/p/23400657)
-7. [用 Python 把 CE-AJ12N 非接触电流电压传感器接入 TimescaleDB 时序库与降采样聚合](https://www.cnblogs.com/sset-sz/p/23399622)
-8. [AI学会写代码之后，程序员节为什么更重要了](https://www.cnblogs.com/codigger/p/23399591)
-9. [【译】今天我将审核 GitHub 拉取请求](https://www.cnblogs.com/MeteorSeed/p/23389713)
-10. [[最优化技术] 3-8 共轭方向法](https://www.cnblogs.com/h-elden/p/23378419)
-11. [一张票的诞生：电气作业票规则与系统设计深度指南](https://www.cnblogs.com/keepsmart/p/23399004)
-12. [AI 拆 PRD 不是甩手掌柜：三段 Prompt 链把任务树拆到能直接排期](https://www.cnblogs.com/uniqueDong/p/23398577)
-13. [如何使用RDS Supabase后端BaaS能力：数据库函数（Database Function）](https://www.cnblogs.com/huaweiyun/p/23398033)
-14. [abp学习笔记 - 工作单元(UOW)基础](https://www.cnblogs.com/lmy5215006/p/23388101)
-15. [MySQL 被高并发打爆？从定位到分库分表逐层拆解（含秒杀库存实战）](https://www.cnblogs.com/zrui-xyu/p/23397586)
-16. [16、广域网络产业：从城域承载到骨干互联的全景解读](https://www.cnblogs.com/suhanmo/p/23397552)
-17. [两步路通过Map Kit路线信号预测，打造户外探索信号全域无忧体验](https://www.cnblogs.com/HarmonyOSSDK/p/23397448)
-18. [无线网络Aircrack Wifite工具教程](https://www.cnblogs.com/Johny-zhao/p/23397348)
-19. [PHP2Shell：AI 两天挖出 9.2 分漏洞，让全球 70% 网站连夜打补丁](https://www.cnblogs.com/xiaobaiysf/p/23397061)
-20. [域名埋点零侵入实时校验实践：基于代理转发与规则驱动的工具设计](https://www.cnblogs.com/vivotech/p/23397024)
+1. [从零开始搭建后台系统（vue3+TypeScript+Vite）01](https://www.cnblogs.com/myflowers/p/23399187)
+2. [内网部署 Qwen2.5-7B 实操：日志、性能与模型选型的一次完整梳理](https://www.cnblogs.com/zjdxr-up/p/23403804)
+3. [Agent 支线知识：Personal Agent 的前世今生](https://www.cnblogs.com/Qiniu-developer/p/23403757)
+4. [遭遇一次电话+邮件招聘诈骗（果断拉黑）](https://www.cnblogs.com/pengde/p/23403169)
+5. [让 Agent 把视频做出来：DeepSeek Harness × DeepSeek-V4.1-Flash 视频生产流水线](https://www.cnblogs.com/znlgis/p/23402179)
+6. [P17723 [SCP-S 2026] 函数 / func 题解](https://www.cnblogs.com/lvwangshuOI/p/23402048)
+7. [手把手教你用WorkBuddy+Obsidian搭建一个会自我进化的个人知识库](https://www.cnblogs.com/tangshiye/p/23401895)
+8. [45:1压缩、19.1倍查询：1956亿行时序数据复盘](https://www.cnblogs.com/dicengwanjialaozhang/p/23400657)
+9. [用 Python 把 CE-AJ12N 非接触电流电压传感器接入 TimescaleDB 时序库与降采样聚合](https://www.cnblogs.com/sset-sz/p/23399622)
+10. [AI学会写代码之后，程序员节为什么更重要了](https://www.cnblogs.com/codigger/p/23399591)
+11. [【译】今天我将审核 GitHub 拉取请求](https://www.cnblogs.com/MeteorSeed/p/23389713)
+12. [[最优化技术] 3-8 共轭方向法](https://www.cnblogs.com/h-elden/p/23378419)
+13. [一张票的诞生：电气作业票规则与系统设计深度指南](https://www.cnblogs.com/keepsmart/p/23399004)
+14. [AI 拆 PRD 不是甩手掌柜：三段 Prompt 链把任务树拆到能直接排期](https://www.cnblogs.com/uniqueDong/p/23398577)
+15. [如何使用RDS Supabase后端BaaS能力：数据库函数（Database Function）](https://www.cnblogs.com/huaweiyun/p/23398033)
+16. [abp学习笔记 - 工作单元(UOW)基础](https://www.cnblogs.com/lmy5215006/p/23388101)
+17. [MySQL 被高并发打爆？从定位到分库分表逐层拆解（含秒杀库存实战）](https://www.cnblogs.com/zrui-xyu/p/23397586)
+18. [16、广域网络产业：从城域承载到骨干互联的全景解读](https://www.cnblogs.com/suhanmo/p/23397552)
+19. [两步路通过Map Kit路线信号预测，打造户外探索信号全域无忧体验](https://www.cnblogs.com/HarmonyOSSDK/p/23397448)
+20. [无线网络Aircrack Wifite工具教程](https://www.cnblogs.com/Johny-zhao/p/23397348)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [TypeScript-Go 编译器，有人用 C# 重写吗？性能怎么样？](https://www.cnblogs.com/sdcb/p/23378501/20261020-typescript-csharp-rewritten)
 2. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
 3. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
-4. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
-5. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
+4. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
+5. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
 6. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)

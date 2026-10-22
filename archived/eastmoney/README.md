@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-22 18:12:29
+> 更新时间：2026-10-22 19:12:49
 
 ## 股票人气榜
 
@@ -14,13 +14,13 @@
 8. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 9. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 10. [粤 传 媒 (002181)](https://quote.eastmoney.com/sz002181.html)
-11. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
-12. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
-13. [工商银行 (601398)](https://quote.eastmoney.com/sh601398.html)
-14. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
-15. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
-16. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
-17. [海量数据 (603138)](https://quote.eastmoney.com/sh603138.html)
-18. [长电科技 (600584)](https://quote.eastmoney.com/sh600584.html)
-19. [天洋新材 (603330)](https://quote.eastmoney.com/sh603330.html)
-20. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
+11. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
+12. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
+13. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
+14. [工商银行 (601398)](https://quote.eastmoney.com/sh601398.html)
+15. [海量数据 (603138)](https://quote.eastmoney.com/sh603138.html)
+16. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
+17. [天洋新材 (603330)](https://quote.eastmoney.com/sh603330.html)
+18. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
+19. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
+20. [长电科技 (600584)](https://quote.eastmoney.com/sh600584.html)
