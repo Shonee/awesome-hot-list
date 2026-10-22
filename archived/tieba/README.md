@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-22 22:13:21
+> 更新时间：2026-10-22 23:14:37
 
 ## 最有料热点
 
@@ -28,7 +28,7 @@
 22. [解气!王八哥手撕无良商家](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367809&topic_name=%E8%A7%A3%E6%B0%94%21%E7%8E%8B%E5%85%AB%E5%93%A5%E6%89%8B%E6%92%95%E6%97%A0%E8%89%AF%E5%95%86%E5%AE%B6)
 23. [车企卖半成品,工信部出手严管](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367875&topic_name=%E8%BD%A6%E4%BC%81%E5%8D%96%E5%8D%8A%E6%88%90%E5%93%81%2C%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%87%BA%E6%89%8B%E4%B8%A5%E7%AE%A1)
 24. [虚构历史遭怼,土耳其惹全球群嘲](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367886&topic_name=%E8%99%9A%E6%9E%84%E5%8E%86%E5%8F%B2%E9%81%AD%E6%80%BC%2C%E5%9C%9F%E8%80%B3%E5%85%B6%E6%83%B9%E5%85%A8%E7%90%83%E7%BE%A4%E5%98%B2)
-25. [声优土田大心衰去世,享年54岁](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367876&topic_name=%E5%A3%B0%E4%BC%98%E5%9C%9F%E7%94%B0%E5%A4%A7%E5%BF%83%E8%A1%B0%E5%8E%BB%E4%B8%96%2C%E4%BA%AB%E5%B9%B454%E5%B2%81)
+25. [HLE婉拒TES,与IG交换队服](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367955&topic_name=HLE%E5%A9%89%E6%8B%92TES%2C%E4%B8%8EIG%E4%BA%A4%E6%8D%A2%E9%98%9F%E6%9C%8D)
 26. [渣男1v4,美女同桌暗恋我](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367866&topic_name=%E6%B8%A3%E7%94%B71v4%2C%E7%BE%8E%E5%A5%B3%E5%90%8C%E6%A1%8C%E6%9A%97%E6%81%8B%E6%88%91)
 27. [洛博闭馆,吧友玩梗传国玉玺](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367867&topic_name=%E6%B4%9B%E5%8D%9A%E9%97%AD%E9%A6%86%2C%E5%90%A7%E5%8F%8B%E7%8E%A9%E6%A2%97%E4%BC%A0%E5%9B%BD%E7%8E%89%E7%8E%BA)
 28. [LPL四队凌晨开打,观众熬穿](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367840&topic_name=LPL%E5%9B%9B%E9%98%9F%E5%87%8C%E6%99%A8%E5%BC%80%E6%89%93%2C%E8%A7%82%E4%BC%97%E7%86%AC%E7%A9%BF)
