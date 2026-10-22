@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-22 11:14:33
+> 更新时间：2026-10-22 12:13:53
 
 ## 新闻热榜
 
@@ -31,19 +31,19 @@
 2. [操盘必读：影响股市利好或利空消息_2026年10月22日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-22/doc-inivzytt5219592.shtml)
 3. [“广东一小区疑现大量骨灰房”，当地深夜通报：经核查，20余间房内未发现存放骨灰，现场无聚众祭祀痕迹，也未发现骨灰转移痕迹](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzytw8024617.shtml)
 4. [股价跌超10% 宁德时代盘中回购约8亿元股份](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivziwc6084142.shtml)
-5. [财经早报丨三星、SK海力士计划升级中国工厂 多只连板股发布异动公告丨2026年10月22日](https://finance.sina.com.cn/stock/y/2026-10-22/doc-inivzytv5968469.shtml)
-6. [美国对伊朗实施新一轮制裁](https://finance.sina.com.cn/roll/2026-10-22/doc-inivzuna4847508.shtml)
-7. [暴跌12%！躺赢时代结束，“宁王”遭遇最分裂评级](https://finance.sina.com.cn/stock/stockzmt/2026-10-21/doc-inivzcqc5413203.shtml)
-8. [10月22日收盘：三大指数集体收涨 科技股反弹 SpaceX大涨近8%](https://finance.sina.com.cn/world/2026-10-22/doc-inivzumv5223034.shtml)
-9. [5个“伤眼习惯”正在透支眼睛 干眼症护眼攻略请收好→](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzumx5959901.shtml)
-10. [股海导航_2026年10月22日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-22/doc-inivzytt5219623.shtml)
-11. [泽连斯基重大转变，释放了一个关键信号](https://finance.sina.com.cn/wm/2026-10-22/doc-inivzytv5952227.shtml)
-12. [台当局不升级法国旅游警示惹怒民众](https://finance.sina.com.cn/roll/2026-10-22/doc-inivzytw7956604.shtml)
-13. [四大证券报头版头条内容精华摘要_2026年10月22日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-22/doc-inivzytw8008374.shtml)
-14. [10月22日隔夜要闻：美股三大指数集体收涨 中概股普跌 镍价四连涨 金价走高 特斯拉三季度资本支出远逊预期](https://finance.sina.com.cn/world/2026-10-22/doc-inivzyty4729461.shtml)
-15. [特斯拉Q3盈利超预期，自由现金流转正，全年资本支出指引下调至200亿美元](https://finance.sina.com.cn/world/2026-10-22/doc-inivzumx5964145.shtml)
-16. [黑客携AI批量攻击！PHP现严重漏洞，多国政府网站紧急下线](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzytt5249023.shtml)
-17. [沃尔玛将推出用于AI购物管控的智能代理档案，该工具支持用户通过应用程序与智能代理完成购物，允许用户为AI智能代理设置消费限额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8066962.shtml)
-18. [Meta的（无投票权股票）计划不会稀释扎克伯格的控制权。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4832123.shtml)
-19. [“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzuna4776709.shtml)
-20. [美国国务院发言人：胡塞武装加大了对沙特阿拉伯的袭击力度，袭击目标包括民用机场和关键基础设施。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4840125.shtml)
+5. [5个“伤眼习惯”正在透支眼睛 干眼症护眼攻略请收好→](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzumx5959901.shtml)
+6. [财经早报丨三星、SK海力士计划升级中国工厂 多只连板股发布异动公告丨2026年10月22日](https://finance.sina.com.cn/stock/y/2026-10-22/doc-inivzytv5968469.shtml)
+7. [美国对伊朗实施新一轮制裁](https://finance.sina.com.cn/roll/2026-10-22/doc-inivzuna4847508.shtml)
+8. [泽连斯基重大转变，释放了一个关键信号](https://finance.sina.com.cn/wm/2026-10-22/doc-inivzytv5952227.shtml)
+9. [暴跌12%！躺赢时代结束，“宁王”遭遇最分裂评级](https://finance.sina.com.cn/stock/stockzmt/2026-10-21/doc-inivzcqc5413203.shtml)
+10. [10月22日收盘：三大指数集体收涨 科技股反弹 SpaceX大涨近8%](https://finance.sina.com.cn/world/2026-10-22/doc-inivzumv5223034.shtml)
+11. [台当局不升级法国旅游警示惹怒民众](https://finance.sina.com.cn/roll/2026-10-22/doc-inivzytw7956604.shtml)
+12. [股海导航_2026年10月22日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-22/doc-inivzytt5219623.shtml)
+13. [吴晓求：要改变对上涨的认识 市场仍是涨着涨着就踩刹车 对市场正常上涨不应过度干预](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwaezr5163884.shtml)
+14. [正在闹股灾的印尼，给A股提了个醒](https://finance.sina.com.cn/cj/2026-10-22/doc-inivzytw8057948.shtml)
+15. [黑客携AI批量攻击！PHP现严重漏洞，多国政府网站紧急下线](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzytt5249023.shtml)
+16. [四大证券报头版头条内容精华摘要_2026年10月22日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-22/doc-inivzytw8008374.shtml)
+17. [特斯拉Q3盈利超预期，自由现金流转正，全年资本支出指引下调至200亿美元](https://finance.sina.com.cn/world/2026-10-22/doc-inivzumx5964145.shtml)
+18. [10月22日隔夜要闻：美股三大指数集体收涨 中概股普跌 镍价四连涨 金价走高 特斯拉三季度资本支出远逊预期](https://finance.sina.com.cn/world/2026-10-22/doc-inivzyty4729461.shtml)
+19. [全球第七！5G设备龙头今日上市](https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-inivzytv5944857.shtml)
+20. [Meta Q3营收超预期并宣布1拆2股票分割，上调资本支出加码AI](https://finance.sina.com.cn/world/2026-10-22/doc-inivzumx5957190.shtml)
