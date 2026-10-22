@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-22 19:39:58
+> 更新时间：2026-10-23 02:14:55
 
 ## 每日趋势
 
@@ -31,7 +31,6 @@
 13. [orca](https://github.com/stablyai/orca)
 14. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 15. [context-mode](https://github.com/mksglu/context-mode)
-16. [ppt-master](https://github.com/hugohe3/ppt-master)
 
 ## 每月趋势
 
@@ -83,18 +82,17 @@
 3. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 4. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
 5. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
-6. [ppt-master](https://github.com/hugohe3/ppt-master)
-7. [agents](https://github.com/wshobson/agents)
-8. [harvey](https://github.com/ethanplusai/harvey)
-9. [jasna](https://github.com/Kruk2/jasna)
-10. [sglang](https://github.com/sgl-project/sglang)
-11. [claude-howto](https://github.com/luongnv89/claude-howto)
-12. [text-to-cad](https://github.com/earthtojake/text-to-cad)
-13. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-14. [Kronos](https://github.com/shiyu-coder/Kronos)
-15. [vllm](https://github.com/vllm-project/vllm)
-16. [tokenspeed](https://github.com/lightseekorg/tokenspeed)
-17. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+6. [agents](https://github.com/wshobson/agents)
+7. [harvey](https://github.com/ethanplusai/harvey)
+8. [jasna](https://github.com/Kruk2/jasna)
+9. [sglang](https://github.com/sgl-project/sglang)
+10. [claude-howto](https://github.com/luongnv89/claude-howto)
+11. [text-to-cad](https://github.com/earthtojake/text-to-cad)
+12. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+13. [Kronos](https://github.com/shiyu-coder/Kronos)
+14. [vllm](https://github.com/vllm-project/vllm)
+15. [tokenspeed](https://github.com/lightseekorg/tokenspeed)
+16. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## Go
 
@@ -138,8 +136,9 @@
 1. [pstack-claude](https://github.com/michael-denyer/pstack-claude)
 2. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 3. [ponytail](https://github.com/DietrichGebert/ponytail)
-4. [ego-lite](https://github.com/citrolabs/ego-lite)
-5. [react](https://github.com/react/react)
-6. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
-7. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-8. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+4. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+5. [ego-lite](https://github.com/citrolabs/ego-lite)
+6. [react](https://github.com/react/react)
+7. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
+8. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+9. [dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)

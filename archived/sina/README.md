@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 01:10:51
+> 更新时间：2026-10-23 02:15:20
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [股价跌超10% 宁德时代盘中回购约8亿元股份](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivziwc6084142.shtml)
-2. [泽连斯基松口，愿以领土换和平，“保留至少75%领土控制权”，随后寻求特朗普和欧洲庇护](https://finance.sina.com.cn/wm/2026-10-22/doc-inivzytt5192296.shtml)
-3. [吴晓求：要改变对上涨的认识 市场仍是涨着涨着就踩刹车 对市场正常上涨不应过度干预](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwaezr5163884.shtml)
-4. [媒体评：10篇SCI盲猜病情生命考场容不得秀](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrq8159806.shtml)
-5. [操盘必读：影响股市利好或利空消息_2026年10月22日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-22/doc-inivzytt5219592.shtml)
-6. [泽连斯基重大转变，释放了一个关键信号](https://finance.sina.com.cn/wm/2026-10-22/doc-inivzytv5952227.shtml)
-7. [涉嫌严重违纪违法！北京市副市长夏林茂任上被查](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwavxi5170128.shtml)
-8. [5个“伤眼习惯”正在透支眼睛 干眼症护眼攻略请收好→](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzumx5959901.shtml)
-9. [“广东一小区疑现大量骨灰房”，当地深夜通报：经核查，20余间房内未发现存放骨灰，现场无聚众祭祀痕迹，也未发现骨灰转移痕迹](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzytw8024617.shtml)
-10. [一个利空，引发全球“黑色星期四”](https://finance.sina.com.cn/stock/marketresearch/2026-10-22/doc-iniwarrm5242513.shtml)
-11. [台当局不升级法国旅游警示惹怒民众](https://finance.sina.com.cn/roll/2026-10-22/doc-inivzytw7956604.shtml)
-12. [美国对伊朗实施新一轮制裁](https://finance.sina.com.cn/roll/2026-10-22/doc-inivzuna4847508.shtml)
-13. [女子在上海看完演唱会叫顺风车回杭州，司机竟是自己，车费还照付！平台回应了](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwavxm5894631.shtml)
-14. [财经早报丨三星、SK海力士计划升级中国工厂 多只连板股发布异动公告丨2026年10月22日](https://finance.sina.com.cn/stock/y/2026-10-22/doc-inivzytv5968469.shtml)
-15. [“关键点位”失守！A股再度超预期下跌，如何理解？](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrp5963465.shtml)
-16. [养猪龙头，前9个月亏损近50亿元](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwarrm5151028.shtml)
-17. [“史上最大IPO”再加速](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwavxm5948522.shtml)
-18. [10月22日收盘：三大指数集体收涨 科技股反弹 SpaceX大涨近8%](https://finance.sina.com.cn/world/2026-10-22/doc-inivzumv5223034.shtml)
-19. [正在闹股灾的印尼，给A股提了个醒](https://finance.sina.com.cn/cj/2026-10-22/doc-inivzytw8057948.shtml)
-20. [“没技术，谈啥监管？”黄仁勋点完德国，又提中国是“世界唯一”](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwamir5925096.shtml)
+1. [A股市值“一哥”，再创新高！](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrp5916333.shtml)
+2. [股海导航_2026年10月22日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-22/doc-inivzytt5219623.shtml)
+3. [沪指失守3700点，江浙地区有私募爆仓？](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwavxq4879399.shtml)
+4. [演员白鹿名下公司均已注销](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamip5238510.shtml)
+5. [政策利率换锚有何影响？不是降息，而是调控更精准、利率更平稳](https://finance.sina.com.cn/roll/2026-10-22/doc-inivzytt5191216.shtml)
+6. [18只主动ETF开售在即 有望为A股带来360亿元增量资金](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzivz5352715.shtml)
+7. [黑客携AI批量攻击！PHP现严重漏洞，多国政府网站紧急下线](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzytt5249023.shtml)
+8. [洪灝：现在是黎明前的黑暗，四季度市场会有一波好的反弹](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-22/doc-iniwarrm5166142.shtml)
+9. [关键时刻，重磅来了！易方达、华夏、富国、汇添富、摩根等基金，集体宣布！更多在路上](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwcafi5883623.shtml)
+10. [中方回应是否就中俄美会晤保持沟通](https://finance.sina.com.cn/china/2026-10-22/doc-iniwarrm5225252.shtml)
+11. [金价狂飙，黄金央企前三季度日赚超2000万元](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwavxi5237300.shtml)
+12. [中国传媒大学毕业生入职广西玉林殡仪馆遗体接运岗引热议，玉林民政局回应：该生为函授本科，目前已入职](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwamip5205917.shtml)
+13. [演员白鹿近30天掉粉超144万，名下公司均已注销](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwavxi5188615.shtml)
+14. [外交部：台湾问题上没有灰色地带 菲方应实际行动恪守一个中国原则](https://finance.sina.com.cn/china/2026-10-22/doc-iniwarrs4933999.shtml)
+15. [收评：创指大跌超4%失守2600点 下跌个股近5000只](https://finance.sina.com.cn/tob/2026-10-22/doc-iniwarrp5938486.shtml)
+16. [重要信号！数字货币大升级，低估值概念股出炉](https://finance.sina.com.cn/stock/zqgd/2026-10-22/doc-inivzytv5947838.shtml)
+17. [四大证券报头版头条内容精华摘要_2026年10月22日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-22/doc-inivzytw8008374.shtml)
+18. [10月22日隔夜要闻：美股三大指数集体收涨 中概股普跌 镍价四连涨 金价走高 特斯拉三季度资本支出远逊预期](https://finance.sina.com.cn/world/2026-10-22/doc-inivzyty4729461.shtml)
+19. [院线将迎“新面孔” 首部AI电影直面市场检验](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivziwc6084140.shtml)
+20. [恒生科技指数跌超5% 几乎回吐“924”以来全部涨幅](https://finance.sina.com.cn/stock/hkstock/2026-10-22/doc-iniwarrm5158787.shtml)
