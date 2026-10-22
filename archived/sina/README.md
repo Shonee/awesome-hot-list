@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 02:15:20
+> 更新时间：2026-10-23 03:10:08
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [A股市值“一哥”，再创新高！](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrp5916333.shtml)
-2. [股海导航_2026年10月22日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-22/doc-inivzytt5219623.shtml)
-3. [沪指失守3700点，江浙地区有私募爆仓？](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwavxq4879399.shtml)
-4. [演员白鹿名下公司均已注销](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamip5238510.shtml)
-5. [政策利率换锚有何影响？不是降息，而是调控更精准、利率更平稳](https://finance.sina.com.cn/roll/2026-10-22/doc-inivzytt5191216.shtml)
-6. [18只主动ETF开售在即 有望为A股带来360亿元增量资金](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzivz5352715.shtml)
-7. [黑客携AI批量攻击！PHP现严重漏洞，多国政府网站紧急下线](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzytt5249023.shtml)
-8. [洪灝：现在是黎明前的黑暗，四季度市场会有一波好的反弹](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-22/doc-iniwarrm5166142.shtml)
-9. [关键时刻，重磅来了！易方达、华夏、富国、汇添富、摩根等基金，集体宣布！更多在路上](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwcafi5883623.shtml)
-10. [中方回应是否就中俄美会晤保持沟通](https://finance.sina.com.cn/china/2026-10-22/doc-iniwarrm5225252.shtml)
-11. [金价狂飙，黄金央企前三季度日赚超2000万元](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwavxi5237300.shtml)
-12. [中国传媒大学毕业生入职广西玉林殡仪馆遗体接运岗引热议，玉林民政局回应：该生为函授本科，目前已入职](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwamip5205917.shtml)
-13. [演员白鹿近30天掉粉超144万，名下公司均已注销](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwavxi5188615.shtml)
-14. [外交部：台湾问题上没有灰色地带 菲方应实际行动恪守一个中国原则](https://finance.sina.com.cn/china/2026-10-22/doc-iniwarrs4933999.shtml)
-15. [收评：创指大跌超4%失守2600点 下跌个股近5000只](https://finance.sina.com.cn/tob/2026-10-22/doc-iniwarrp5938486.shtml)
-16. [重要信号！数字货币大升级，低估值概念股出炉](https://finance.sina.com.cn/stock/zqgd/2026-10-22/doc-inivzytv5947838.shtml)
-17. [四大证券报头版头条内容精华摘要_2026年10月22日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-22/doc-inivzytw8008374.shtml)
-18. [10月22日隔夜要闻：美股三大指数集体收涨 中概股普跌 镍价四连涨 金价走高 特斯拉三季度资本支出远逊预期](https://finance.sina.com.cn/world/2026-10-22/doc-inivzyty4729461.shtml)
-19. [院线将迎“新面孔” 首部AI电影直面市场检验](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivziwc6084140.shtml)
-20. [恒生科技指数跌超5% 几乎回吐“924”以来全部涨幅](https://finance.sina.com.cn/stock/hkstock/2026-10-22/doc-iniwarrm5158787.shtml)
+1. [离谱！女子叫了辆顺风车，司机竟是自己！](https://finance.sina.com.cn/roll/2026-10-22/doc-iniwavxi5166065.shtml)
+2. [Meta Q3营收超预期并宣布1拆2股票分割，上调资本支出加码AI](https://finance.sina.com.cn/world/2026-10-22/doc-inivzumx5957190.shtml)
+3. [伊朗海上石油“缓冲垫”归零：美国封锁抹去250亿美元收入，德黑兰直面硬着陆](https://finance.sina.com.cn/money/forex/hbfx/2026-10-22/doc-iniwarrm5166377.shtml)
+4. [国家发改委发布对外投资管理办法（全文）](https://finance.sina.com.cn/china/2026-10-22/doc-iniwavxi5237618.shtml)
+5. [宝洁公司首席财务官在电话会议上表示，预计受油价上涨影响，2027财年第二季度及下半年将面临显著加剧的成本压力。](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwchph8175511.shtml)
+6. [法国即将迎来新一轮抗议 为何政府难以控制骚乱？](https://finance.sina.com.cn/world/2026-10-22/doc-inivzqcx5341550.shtml)
+7. [券商密集把脉三季报成色 宁德时代获431元目标价](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzivz5352696.shtml)
+8. [英伟达CEO黄仁勋：新云厂商需求“高到离谱” 但资金紧缺](https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwcafk8162857.shtml)
+9. [“易中天”大跌！三季报“报喜”股成亮点](https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwamip5226036.shtml)
+10. [“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzuna4776709.shtml)
+11. [但斌：三大指数跌回2024年10月初甚至更低 太不可思议！](https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwavxm5917440.shtml)
+12. [300308，成交额A股第一](https://finance.sina.com.cn/wm/2026-10-22/doc-iniwamir5970747.shtml)
+13. [因公途中遇交通事故，悦龙科技实控人、董事长离世](https://finance.sina.com.cn/stock/roll/2026-10-22/doc-iniwamir5933744.shtml)
+14. [雪人集团：2026年第三季度净利润亏损2978.15万元，同比由盈转亏](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwcafk8198321.shtml)
+15. [男子称酒后误认拍女子后背被诉猥亵](https://finance.sina.com.cn/jjxw/2026-10-22/doc-inivzytw8066981.shtml)
+16. [沃尔玛将推出用于AI购物管控的智能代理档案，该工具支持用户通过应用程序与智能代理完成购物，允许用户为AI智能代理设置消费限额。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqea8066962.shtml)
+17. [Meta的（无投票权股票）计划不会稀释扎克伯格的控制权。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4832123.shtml)
+18. [美国商务部：Vertical Semiconductor将获得最高7300万美元研发资金。](https://finance.sina.com.cn/7x24/2026-10-22/doc-iniwchpk4968388.shtml)
+19. [美国国务院发言人：胡塞武装加大了对沙特阿拉伯的袭击力度，袭击目标包括民用机场和关键基础设施。](https://finance.sina.com.cn/7x24/2026-10-22/doc-inivzqee4840125.shtml)
+20. [DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。仍然看空久期偏长的美债。美国政府大幅举债和需求疲软将继续打压债市。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4912689.shtml)
