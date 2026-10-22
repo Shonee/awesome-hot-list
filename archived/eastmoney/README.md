@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-23 03:10:57
+> 更新时间：2026-10-23 04:13:00
 
 ## 股票人气榜
 
@@ -16,11 +16,11 @@
 10. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 11. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
 12. [山河智能 (002097)](https://quote.eastmoney.com/sz002097.html)
-13. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
-14. [长电科技 (600584)](https://quote.eastmoney.com/sh600584.html)
-15. [北新路桥 (002307)](https://quote.eastmoney.com/sz002307.html)
+13. [长电科技 (600584)](https://quote.eastmoney.com/sh600584.html)
+14. [北新路桥 (002307)](https://quote.eastmoney.com/sz002307.html)
+15. [九阳股份 (002242)](https://quote.eastmoney.com/sz002242.html)
 16. [天洋新材 (603330)](https://quote.eastmoney.com/sh603330.html)
 17. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
 18. [上海九百 (600838)](https://quote.eastmoney.com/sh600838.html)
 19. [星光股份 (002076)](https://quote.eastmoney.com/sz002076.html)
-20. [兆威机电 (003021)](https://quote.eastmoney.com/sz003021.html)
+20. [阳光照明 (600261)](https://quote.eastmoney.com/sh600261.html)
