@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-22 07:10:36
+> 更新时间：2026-10-22 08:31:03
 
 ## 热门文章
 
@@ -27,8 +27,8 @@
 21. [Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里](https://juejin.cn/post/7698709811564068915)
 22. [感觉终于把复杂的 RAG 技术整理明白了](https://juejin.cn/post/7697952294364823606)
 23. [研究数字孪生的这半年，做了个 Demo，也有了一些新想法](https://juejin.cn/post/7698569506813526031)
-24. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
-25. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
+24. [为什么越来越多人用MinerU？](https://juejin.cn/post/7698261884403466275)
+25. [把 Android App 打包成系统应用（System App）](https://juejin.cn/post/7697910269141893147)
 26. [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594)
 27. [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886)
 28. [DeepSeek-V4.1-Flash-1017 上手实测：3D 直出，效果到底如何](https://juejin.cn/post/7697901649025663017)
@@ -40,17 +40,17 @@
 34. [质保期第 90 天我翻了一遍日志目录：交付后真正会坏的 3 处](https://juejin.cn/post/7697952294365495350)
 35. [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002)
 36. [录下自己的声音，让电脑替你讲故事：我做了一个 C# 离线配音工具](https://juejin.cn/post/7698589047652597779)
-37. [2026 Web 技术选型指南，AI 时代如何选择适合项目的技术栈](https://juejin.cn/post/7698546640890986496)
-38. [封装fetch替换axios](https://juejin.cn/post/7698345359642542131)
-39. [Base62 和 Base64 有什么区别？](https://juejin.cn/post/7698306160449241123)
-40. [我用 AI 给两个人写了个微信小程序：共享清单、记账和纪念日](https://juejin.cn/post/7698227087580708864)
-41. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
-42. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
-43. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
-44. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
-45. [开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架](https://juejin.cn/post/7698552541928194063)
+37. [开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架](https://juejin.cn/post/7698552541928194063)
+38. [2026 Web 技术选型指南，AI 时代如何选择适合项目的技术栈](https://juejin.cn/post/7698546640890986496)
+39. [封装fetch替换axios](https://juejin.cn/post/7698345359642542131)
+40. [Base62 和 Base64 有什么区别？](https://juejin.cn/post/7698306160449241123)
+41. [我用 AI 给两个人写了个微信小程序：共享清单、记账和纪念日](https://juejin.cn/post/7698227087580708864)
+42. [别再死磕 MySQL 了：向量数据库与 RAG 生产落地实录（Java 工程师专场）](https://juejin.cn/post/7697952294364839990)
+43. [Agentic RAG检索侧设计：从模式选型到工具、循环与提示词](https://juejin.cn/post/7697829509392121865)
+44. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
+45. [微信支付接入全流程：JSAPI支付、小程序支付与H5支付](https://juejin.cn/post/7698709811583959067)
 46. [每天盯着屏幕写代码，我终于不想再凑合了](https://juejin.cn/post/7698350142772396032)
-47. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
-48. [AI 热点日报（2026-10-20）：DeepSeek V4.1-Flash落地，Meta开源816B大模型，国产AI芯片涨价20%-50%](https://juejin.cn/post/7698331749004083243)
+47. [AI 热点日报（2026-10-20）：DeepSeek V4.1-Flash落地，Meta开源816B大模型，国产AI芯片涨价20%-50%](https://juejin.cn/post/7698331749004083243)
+48. [我把整本接口文档塞进 system prompt，前 3 轮答得准，第 8 轮开始胡说，账单还翻了 4 倍](https://juejin.cn/post/7698044277812723721)
 49. [本地大模型微调与 GGUF 部署全指南](https://juejin.cn/post/7698567279269199906)
 50. [DeepSeek 突发上线 V4.1-1017：552B 稀疏架构仅激活 16B，白菜价背后的工程奇迹](https://juejin.cn/post/7698552541928734735)
