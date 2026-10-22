@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 05:12:55
+> 更新时间：2026-10-23 06:11:28
 
 ## 新闻热榜
 
@@ -41,9 +41,9 @@
 12. [捷蓝航空股价下跌7%，跌至历史新低。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4945880.shtml)
 13. [前白宫新闻秘书卡罗琳·莱维特对其继任者迅速离开白宫一事发表评论，称这份工作“并不适合她”。莱维特还透露，她正在为正在物色新任白宫](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8261076.shtml)
 14. [美国卫生部长核心顾问Calley Means辞职，对“让美国再次健康”运动构成打击](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4848271.shtml)
-15. [美医药股MODERNA股价持续下跌，跌幅达20%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8258581.shtml)
-16. [默沙东：在INTERPATH-001三期试验中未观察到新的安全性信号。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4955806.shtml)
-17. [Anthropic首次公开募股将为Iconiq、Spark和GIC带来巨额收益。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8076276.shtml)
-18. [国道317线西藏那曲部分路段实施全封闭交通管制](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8197385.shtml)
-19. [纽约期银失守55美元/盎司，日内跌4.71%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnvh5007494.shtml)
-20. [马斯克：尽可能提高Megapack产量。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8175794.shtml)
+15. [白宫发言人安娜·凯利（Anna Kelly）谈下一任白宫新闻秘书：专注于我的工作。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4855799.shtml)
+16. [美医药股MODERNA股价持续下跌，跌幅达20%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8258581.shtml)
+17. [默沙东：在INTERPATH-001三期试验中未观察到新的安全性信号。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4955806.shtml)
+18. [Anthropic首次公开募股将为Iconiq、Spark和GIC带来巨额收益。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8076276.shtml)
+19. [Bloom Energy营收超预期，产品销售创纪录](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8096917.shtml)
+20. [国道317线西藏那曲部分路段实施全封闭交通管制](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8197385.shtml)

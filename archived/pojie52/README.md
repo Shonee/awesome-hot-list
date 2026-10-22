@@ -1,18 +1,18 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-23 05:12:44
+> 更新时间：2026-10-23 06:11:12
 
 ## 人气热门
 
-1. [全能下载工具Motrix v2.0.0-beta.52](https://www.52pojie.cn/thread-2133111-1-1.html)
-2. [微软常用运行库合集 2026.10.14](https://www.52pojie.cn/thread-2132548-1-1.html)
-3. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
-4. [「网址 + 油猴脚本」一键打包成EXE](https://www.52pojie.cn/thread-2133403-1-1.html)
-5. [【原创软件】轻量倒计时与闹钟工具 Timoa V1.2.0（已更新）](https://www.52pojie.cn/thread-2132712-1-1.html)
-6. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
-7. [龙日历 v5.0](https://www.52pojie.cn/thread-2133423-1-1.html)
-8. [红果免费漫剧 —— MT管理器手机端去广告详细教程](https://www.52pojie.cn/thread-2132342-1-1.html)
-9. [Cppcryptfs 文件夹挂载加密 v1.4.5.0 汉化版](https://www.52pojie.cn/thread-2133267-1-1.html)
+1. [「网址 + 油猴脚本」一键打包成EXE](https://www.52pojie.cn/thread-2133403-1-1.html)
+2. [Cppcryptfs 文件夹挂载加密 v1.4.5.0 汉化版](https://www.52pojie.cn/thread-2133267-1-1.html)
+3. [全能下载工具Motrix v2.0.0-beta.52](https://www.52pojie.cn/thread-2133111-1-1.html)
+4. [微软常用运行库合集 2026.10.14](https://www.52pojie.cn/thread-2132548-1-1.html)
+5. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
+6. [【原创软件】轻量倒计时与闹钟工具 Timoa V1.2.0（已更新）](https://www.52pojie.cn/thread-2132712-1-1.html)
+7. [网页视频下载video-sniffer V2.0](https://www.52pojie.cn/thread-2133218-1-1.html)
+8. [龙日历 v5.0](https://www.52pojie.cn/thread-2133423-1-1.html)
+9. [红果免费漫剧 —— MT管理器手机端去广告详细教程](https://www.52pojie.cn/thread-2132342-1-1.html)
 10. [老旧车机复活apk-DiPlay 0.2.21--10.19更新！](https://www.52pojie.cn/thread-2131616-1-1.html)
 11. [豆包千问无水印图片视频下载助手 1.0.2](https://www.52pojie.cn/thread-2131945-1-1.html)
 12. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)

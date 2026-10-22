@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-23 05:12:51
+> 更新时间：2026-10-23 06:11:23
 
 ## 热点榜
 
@@ -17,10 +17,10 @@
 11. [多地辟谣“外地患者组团到本地高校恶意传播艾滋病”（2026·10·22）](https://view.inews.qq.com/a/20261022A0A5IQ00)
 12. [女子在上海看完演唱会叫顺风车回杭州，司机竟是自己，车费还照付！平台回应了](https://view.inews.qq.com/a/20261022A09KXW00)
 13. [希拉里：普京手里有特朗普的把柄，可能是照片和视频](https://view.inews.qq.com/a/20261022A09EPB00)
-14. [俄罗斯高层多人调整](https://view.inews.qq.com/a/20261022A0CZER00)
-15. [黄仁勋推出AI“预制菜”](https://view.inews.qq.com/a/20261022A09GHY00)
-16. [美媒称美国防部拟打造新的深度潜伏间谍项目](https://view.inews.qq.com/a/20261022A0B75Z00)
-17. [男子严重肺炎数日不好，CT检查竟发现针灸银针](https://view.inews.qq.com/a/20261021V0CM3A00)
+14. [黄仁勋推出AI“预制菜”](https://view.inews.qq.com/a/20261022A09GHY00)
+15. [美媒称美国防部拟打造新的深度潜伏间谍项目](https://view.inews.qq.com/a/20261022A0B75Z00)
+16. [男子严重肺炎数日不好，CT检查竟发现针灸银针](https://view.inews.qq.com/a/20261021V0CM3A00)
+17. [俄罗斯高层多人调整](https://view.inews.qq.com/a/20261022A0CZER00)
 18. [俄罗斯警告日本](https://view.inews.qq.com/a/20261022A072NW00)
-19. [中欧班列累计开行突破14万列](https://view.inews.qq.com/a/20261022A07PZQ00)
-20. [宇树王兴兴称，最快明年机器人就能整理房间](https://view.inews.qq.com/a/20261022A0B6DY00)
+19. [中国人民银行发行中国工农红军长征胜利90周年金银纪念币](https://view.inews.qq.com/a/20261022A03CD000)
+20. [90厘米长发剪后“少了一半”？业内人士判断疑遭“偷剪”，市监局已受理投诉](https://view.inews.qq.com/a/20261022A09BIY00)
