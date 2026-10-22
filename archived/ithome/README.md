@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-22 21:13:35
+> 更新时间：2026-10-22 22:13:07
 
 ## 日榜
 
@@ -10,9 +10,9 @@
 4. [微软给 8GB 内存电脑“减负”：Win11 26H2 开机少占约 1.7GB 内存](https://www.ithome.com/1/016/230.htm)
 5. [苹果 iPhone Duo 更新 iOS 27.2 后可使用 Apple Pencil](https://www.ithome.com/1/016/133.htm)
 6. [请立即更新：Node.js 发布最高严重级别高危安全更新](https://www.ithome.com/1/016/143.htm)
-7. [苹果公布 Apple Music 全新品牌标识，创作灵感来自声音振动、声波实拍](https://www.ithome.com/1/016/157.htm)
-8. [武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高](https://www.ithome.com/1/016/619.htm)
+7. [武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高](https://www.ithome.com/1/016/619.htm)
+8. [苹果公布 Apple Music 全新品牌标识，创作灵感来自声音振动、声波实拍](https://www.ithome.com/1/016/157.htm)
 9. [华为双十一焕新季全场景新品发布会官宣定档，10 月 28 日见](https://www.ithome.com/1/016/192.htm)
-10. [雷军：小米已经构建全球最大规模消费级 IoT 平台，截至二季度末设备连接数超 11 亿台](https://www.ithome.com/1/016/114.htm)
-11. [高德官宣全面适配苹果 iPhone Duo，全球首个分屏导航将上线](https://www.ithome.com/1/016/423.htm)
-12. [大黑边问题解决：腾讯 QQ 官宣完成 iPhone Duo 适配](https://www.ithome.com/1/016/491.htm)
+10. [高德官宣全面适配苹果 iPhone Duo，全球首个分屏导航将上线](https://www.ithome.com/1/016/423.htm)
+11. [大黑边问题解决：腾讯 QQ 官宣完成 iPhone Duo 适配](https://www.ithome.com/1/016/491.htm)
+12. [消息称苹果首款折叠 iPhone Duo 首销卖爆，12 个月内出货目标暴增 44%](https://www.ithome.com/1/016/356.htm)

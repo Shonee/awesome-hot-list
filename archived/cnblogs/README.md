@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 21:41:30
+> 更新时间：2026-10-22 22:12:43
 
 ## 最新帖子
 
-1. [纯原生Flutter3 + Dio 实战 DeepSeek V4.1 SSE流式对话](https://www.cnblogs.com/yxybox/p/23405031)
-2. [AtCoder-arc227_c Follow the Letters 题解](https://www.cnblogs.com/xiaoniu142857/p/23405004)
-3. [有人用纯 C# 写了个语音识别引擎，README 比代码还好看](https://www.cnblogs.com/shanyou/p/23404953)
-4. [LLM | 大模型训练 / 部署语境下的常用显卡](https://www.cnblogs.com/moonout/p/23404900)
-5. [如何用AI帮我写出实用的插件](https://www.cnblogs.com/xuwujing/p/23404853)
-6. [程序设计：如何优雅地处理相似的业务数据](https://www.cnblogs.com/xuld/p/23404408)
-7. [一文搞懂 Agent 工具机制：从 Schema 到 Tool Calling](https://www.cnblogs.com/Tomorrowland/p/23404208)
-8. [C2000之ePWM详讲](https://www.cnblogs.com/lsksp/p/23404168)
-9. [从零开始搭建后台系统（vue3+TypeScript+Vite）01](https://www.cnblogs.com/myflowers/p/23399187)
-10. [内网部署 Qwen2.5-7B 实操：日志、性能与模型选型的一次完整梳理](https://www.cnblogs.com/zjdxr-up/p/23403804)
-11. [Agent 支线知识：Personal Agent 的前世今生](https://www.cnblogs.com/Qiniu-developer/p/23403757)
-12. [遭遇一次电话+邮件招聘诈骗（果断拉黑）](https://www.cnblogs.com/pengde/p/23403169)
-13. [让 Agent 把视频做出来：DeepSeek Harness × DeepSeek-V4.1-Flash 视频生产流水线](https://www.cnblogs.com/znlgis/p/23402179)
-14. [P17723 [SCP-S 2026] 函数 / func 题解](https://www.cnblogs.com/lvwangshuOI/p/23402048)
-15. [手把手教你用WorkBuddy+Obsidian搭建一个会自我进化的个人知识库](https://www.cnblogs.com/tangshiye/p/23401895)
-16. [45:1压缩、19.1倍查询：1956亿行时序数据复盘](https://www.cnblogs.com/dicengwanjialaozhang/p/23400657)
-17. [用 Python 把 CE-AJ12N 非接触电流电压传感器接入 TimescaleDB 时序库与降采样聚合](https://www.cnblogs.com/sset-sz/p/23399622)
-18. [AI学会写代码之后，程序员节为什么更重要了](https://www.cnblogs.com/codigger/p/23399591)
-19. [【译】今天我将审核 GitHub 拉取请求](https://www.cnblogs.com/MeteorSeed/p/23389713)
-20. [[最优化技术] 3-8 共轭方向法](https://www.cnblogs.com/h-elden/p/23378419)
+1. [MySQL进阶教程（三）—— 三大范式和E-R图](https://www.cnblogs.com/mengyingblog/p/23405108)
+2. [纯原生Flutter3 + Dio 实战 DeepSeek V4.1 SSE流式对话](https://www.cnblogs.com/yxybox/p/23405031)
+3. [AtCoder-arc227_c Follow the Letters 题解](https://www.cnblogs.com/xiaoniu142857/p/23405004)
+4. [有人用纯 C# 写了个语音识别引擎，README 比代码还好看](https://www.cnblogs.com/shanyou/p/23404953)
+5. [LLM | 大模型训练 / 部署语境下的常用显卡](https://www.cnblogs.com/moonout/p/23404900)
+6. [如何用AI帮我写出实用的插件](https://www.cnblogs.com/xuwujing/p/23404853)
+7. [程序设计：如何优雅地处理相似的业务数据](https://www.cnblogs.com/xuld/p/23404408)
+8. [一文搞懂 Agent 工具机制：从 Schema 到 Tool Calling](https://www.cnblogs.com/Tomorrowland/p/23404208)
+9. [C2000之ePWM详讲](https://www.cnblogs.com/lsksp/p/23404168)
+10. [从零开始搭建后台系统（vue3+TypeScript+Vite）01](https://www.cnblogs.com/myflowers/p/23399187)
+11. [内网部署 Qwen2.5-7B 实操：日志、性能与模型选型的一次完整梳理](https://www.cnblogs.com/zjdxr-up/p/23403804)
+12. [Agent 支线知识：Personal Agent 的前世今生](https://www.cnblogs.com/Qiniu-developer/p/23403757)
+13. [遭遇一次电话+邮件招聘诈骗（果断拉黑）](https://www.cnblogs.com/pengde/p/23403169)
+14. [让 Agent 把视频做出来：DeepSeek Harness × DeepSeek-V4.1-Flash 视频生产流水线](https://www.cnblogs.com/znlgis/p/23402179)
+15. [P17723 [SCP-S 2026] 函数 / func 题解](https://www.cnblogs.com/lvwangshuOI/p/23402048)
+16. [手把手教你用WorkBuddy+Obsidian搭建一个会自我进化的个人知识库](https://www.cnblogs.com/tangshiye/p/23401895)
+17. [45:1压缩、19.1倍查询：1956亿行时序数据复盘](https://www.cnblogs.com/dicengwanjialaozhang/p/23400657)
+18. [用 Python 把 CE-AJ12N 非接触电流电压传感器接入 TimescaleDB 时序库与降采样聚合](https://www.cnblogs.com/sset-sz/p/23399622)
+19. [AI学会写代码之后，程序员节为什么更重要了](https://www.cnblogs.com/codigger/p/23399591)
+20. [【译】今天我将审核 GitHub 拉取请求](https://www.cnblogs.com/MeteorSeed/p/23389713)
 
 ## 精华帖子
 
