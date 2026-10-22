@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-22 15:44:08
+> 更新时间：2026-10-22 16:17:08
 
 ## 热新闻
 
@@ -9,14 +9,14 @@
 3. [见微知沪｜垃圾混投拒不改正，50元罚单针对的是漠视规则](https://www.thepaper.cn/newsDetail_forward_34300568)
 4. [独家｜太原被辞退“非全日制”务工女子索赔案最新进展：终审获补偿6万余元](https://www.thepaper.cn/newsDetail_forward_34301133)
 5. [雷军：汽车没安全其他都是0，所有的智能性能和创新设计都失去了意义](https://www.thepaper.cn/newsDetail_forward_34301600)
-6. [问界回应“陕西神木一车辆碰撞起火”：事发时处于人驾状态，电池爆燃等传闻不实](https://www.thepaper.cn/newsDetail_forward_34299917)
-7. [言短意长｜把老师和辅导员叫成哥、姐，有错吗？](https://www.thepaper.cn/newsDetail_forward_34303236)
-8. [日本关键稀土元素储备即将耗尽，外交部：中方依法依规对日实施出口管制](https://www.thepaper.cn/newsDetail_forward_34299680)
-9. [铁路列车车次编排改革细节：先将现行普速列车T、K字头改为N、V](https://www.thepaper.cn/newsDetail_forward_34300897)
+6. [言短意长｜把老师和辅导员叫成哥、姐，有错吗？](https://www.thepaper.cn/newsDetail_forward_34303236)
+7. [铁路列车车次编排改革细节：先将现行普速列车T、K字头改为N、V](https://www.thepaper.cn/newsDetail_forward_34300897)
+8. [马上评｜浮夸的医学真人秀：生命的考场不该是秀场](https://www.thepaper.cn/newsDetail_forward_34306298)
+9. [资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金](https://www.thepaper.cn/newsDetail_forward_34306536)
 10. [中国体操队时隔20年再夺世锦赛女团金牌](https://www.thepaper.cn/newsDetail_forward_34305177)
-11. [马上评｜浮夸的医学真人秀：生命的考场不该是秀场](https://www.thepaper.cn/newsDetail_forward_34306298)
-12. [“女童被泳池排水口吸入不幸身亡”事故调查报告发布：回水管口安全防护罩缺失](https://www.thepaper.cn/newsDetail_forward_34305763)
-13. [泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议](https://www.thepaper.cn/newsDetail_forward_34302132)
+11. [“女童被泳池排水口吸入不幸身亡”事故调查报告发布：回水管口安全防护罩缺失](https://www.thepaper.cn/newsDetail_forward_34305763)
+12. [泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议](https://www.thepaper.cn/newsDetail_forward_34302132)
+13. [奇瑞尹同跃回应马来西亚车辆问题：出海不是收割，一定要谦虚低调](https://www.thepaper.cn/newsDetail_forward_34305443)
 14. [长征胜利90周年纪念币明天发行！币面再现红军过雪山草地场景](https://www.thepaper.cn/newsDetail_forward_34300935)
 15. [解读｜国家数据集团成立，能给数据资源流通和交易带来什么](https://www.thepaper.cn/newsDetail_forward_34302482)
 16. [泽连斯基最新讲话：同意冻结战线进行和谈，曾表态不承认被占领土归属](https://www.thepaper.cn/newsDetail_forward_34303376)

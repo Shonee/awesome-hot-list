@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-22 15:43:54
+> 更新时间：2026-10-22 16:16:59
 
 ## 最新帖子
 
-1. [45:1压缩、19.1倍查询：1956亿行时序数据复盘](https://www.cnblogs.com/dicengwanjialaozhang/p/23400657)
-2. [用 Python 把 CE-AJ12N 非接触电流电压传感器接入 TimescaleDB 时序库与降采样聚合](https://www.cnblogs.com/sset-sz/p/23399622)
-3. [AI学会写代码之后，程序员节为什么更重要了](https://www.cnblogs.com/codigger/p/23399591)
-4. [【译】今天我将审核 GitHub 拉取请求](https://www.cnblogs.com/MeteorSeed/p/23389713)
-5. [[最优化技术] 3-8 共轭方向法](https://www.cnblogs.com/h-elden/p/23378419)
-6. [一张票的诞生：电气作业票规则与系统设计深度指南](https://www.cnblogs.com/keepsmart/p/23399004)
-7. [AI 拆 PRD 不是甩手掌柜：三段 Prompt 链把任务树拆到能直接排期](https://www.cnblogs.com/uniqueDong/p/23398577)
-8. [如何使用RDS Supabase后端BaaS能力：数据库函数（Database Function）](https://www.cnblogs.com/huaweiyun/p/23398033)
-9. [abp学习笔记 - 工作单元(UOW)基础](https://www.cnblogs.com/lmy5215006/p/23388101)
-10. [MySQL 被高并发打爆？从定位到分库分表逐层拆解（含秒杀库存实战）](https://www.cnblogs.com/zrui-xyu/p/23397586)
-11. [16、广域网络产业：从城域承载到骨干互联的全景解读](https://www.cnblogs.com/suhanmo/p/23397552)
-12. [两步路通过Map Kit路线信号预测，打造户外探索信号全域无忧体验](https://www.cnblogs.com/HarmonyOSSDK/p/23397448)
-13. [无线网络Aircrack Wifite工具教程](https://www.cnblogs.com/Johny-zhao/p/23397348)
-14. [PHP2Shell：AI 两天挖出 9.2 分漏洞，让全球 70% 网站连夜打补丁](https://www.cnblogs.com/xiaobaiysf/p/23397061)
-15. [域名埋点零侵入实时校验实践：基于代理转发与规则驱动的工具设计](https://www.cnblogs.com/vivotech/p/23397024)
-16. [为什么越来越多人用Eino？](https://www.cnblogs.com/12lisu/p/23396247)
-17. [WPF 中常用的 LINQ 语句](https://www.cnblogs.com/nap117/p/23396212)
-18. [技术思考问题39：技术债未清为何绕路更多？](https://www.cnblogs.com/snidget/p/23395740)
-19. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
-20. [按键一按程序就像死机：阻塞式写法如何毁掉小车](https://www.cnblogs.com/zw-awa/p/23395438)
+1. [手把手教你用WorkBuddy+Obsidian搭建一个会自我进化的个人知识库](https://www.cnblogs.com/tangshiye/p/23401895)
+2. [45:1压缩、19.1倍查询：1956亿行时序数据复盘](https://www.cnblogs.com/dicengwanjialaozhang/p/23400657)
+3. [用 Python 把 CE-AJ12N 非接触电流电压传感器接入 TimescaleDB 时序库与降采样聚合](https://www.cnblogs.com/sset-sz/p/23399622)
+4. [AI学会写代码之后，程序员节为什么更重要了](https://www.cnblogs.com/codigger/p/23399591)
+5. [【译】今天我将审核 GitHub 拉取请求](https://www.cnblogs.com/MeteorSeed/p/23389713)
+6. [[最优化技术] 3-8 共轭方向法](https://www.cnblogs.com/h-elden/p/23378419)
+7. [一张票的诞生：电气作业票规则与系统设计深度指南](https://www.cnblogs.com/keepsmart/p/23399004)
+8. [AI 拆 PRD 不是甩手掌柜：三段 Prompt 链把任务树拆到能直接排期](https://www.cnblogs.com/uniqueDong/p/23398577)
+9. [如何使用RDS Supabase后端BaaS能力：数据库函数（Database Function）](https://www.cnblogs.com/huaweiyun/p/23398033)
+10. [abp学习笔记 - 工作单元(UOW)基础](https://www.cnblogs.com/lmy5215006/p/23388101)
+11. [MySQL 被高并发打爆？从定位到分库分表逐层拆解（含秒杀库存实战）](https://www.cnblogs.com/zrui-xyu/p/23397586)
+12. [16、广域网络产业：从城域承载到骨干互联的全景解读](https://www.cnblogs.com/suhanmo/p/23397552)
+13. [两步路通过Map Kit路线信号预测，打造户外探索信号全域无忧体验](https://www.cnblogs.com/HarmonyOSSDK/p/23397448)
+14. [无线网络Aircrack Wifite工具教程](https://www.cnblogs.com/Johny-zhao/p/23397348)
+15. [PHP2Shell：AI 两天挖出 9.2 分漏洞，让全球 70% 网站连夜打补丁](https://www.cnblogs.com/xiaobaiysf/p/23397061)
+16. [域名埋点零侵入实时校验实践：基于代理转发与规则驱动的工具设计](https://www.cnblogs.com/vivotech/p/23397024)
+17. [为什么越来越多人用Eino？](https://www.cnblogs.com/12lisu/p/23396247)
+18. [WPF 中常用的 LINQ 语句](https://www.cnblogs.com/nap117/p/23396212)
+19. [技术思考问题39：技术债未清为何绕路更多？](https://www.cnblogs.com/snidget/p/23395740)
+20. [太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码](https://www.cnblogs.com/jinjiangongzuoshi/p/23395551)
 
 ## 精华帖子
 
@@ -54,5 +54,5 @@
 2. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
 3. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://www.cnblogs.com/catchadmin/p/23392555)
 4. [一天时间将一个web组件库完全迁移成（Avalonia）原生组件库](https://www.cnblogs.com/token-ai/p/23384814)
-5. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
-6. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
+5. [你写的 PHP 代码，这次真的救不了你](https://www.cnblogs.com/lovebing/p/23390519)
+6. [贡献一个在线JSON查看器](https://www.cnblogs.com/imadc/p/23378323)
