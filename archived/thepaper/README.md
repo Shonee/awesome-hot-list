@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-22 20:50:50
+> 更新时间：2026-10-22 21:41:45
 
 ## 热新闻
 
@@ -12,8 +12,8 @@
 6. [中国体操队时隔20年再夺世锦赛女团金牌](https://www.thepaper.cn/newsDetail_forward_34305177)
 7. [刘雪峰故意杀人案申诉进展：吉林省检不予支持，此前曾认为事实不清建议改判](https://www.thepaper.cn/newsDetail_forward_34306249)
 8. [“女童被泳池排水口吸入不幸身亡”事故调查报告发布：回水管口安全防护罩缺失](https://www.thepaper.cn/newsDetail_forward_34305763)
-9. [明曜投资创始人曾昭雄因病逝世，享年57岁](https://www.thepaper.cn/newsDetail_forward_34303056)
-10. [泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议](https://www.thepaper.cn/newsDetail_forward_34302132)
+9. [新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击](https://www.thepaper.cn/newsDetail_forward_34306120)
+10. [明曜投资创始人曾昭雄因病逝世，享年57岁](https://www.thepaper.cn/newsDetail_forward_34303056)
 11. [奇瑞尹同跃回应马来西亚车辆问题：出海不是收割，一定要谦虚低调](https://www.thepaper.cn/newsDetail_forward_34305443)
 12. [上海12岁少年登顶乞力马扎罗，母亲：不看重“最年轻”标签](https://www.thepaper.cn/newsDetail_forward_34301128)
 13. [解读｜国家数据集团成立，能给数据资源流通和交易带来什么](https://www.thepaper.cn/newsDetail_forward_34302482)
