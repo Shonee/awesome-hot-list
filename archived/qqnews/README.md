@@ -1,13 +1,13 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-23 20:17:13
+> 更新时间：2026-10-23 21:11:23
 
 ## 热点榜
 
-1. [中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议](https://view.inews.qq.com/a/20261023A079JV00)
+1. [时政新闻眼丨如何走好新的长征路？习近平提出“五个必须”](https://view.inews.qq.com/a/20261023A04HGQ00)
 2. [新华社消息｜最新发票数据显示经济持续向新向优](https://view.inews.qq.com/a/20261023A07I9X00)
 3. [中国第一个6万亿城市，要来了](https://view.inews.qq.com/a/20261023A05T5W00)
-4. [90年了，再看这条征途，依旧热血难平](https://view.inews.qq.com/a/20261023A00A4U00)
+4. [（图表）前三季度全国财政收入同比增长5.1%](https://view.inews.qq.com/a/20261023A0AXES00)
 5. [这次，中美合作，打破了世界纪录！](https://view.inews.qq.com/a/20261023A0923B00)
 6. [我的长征学习手记](https://h5.news.qq.com/qqfile/activity/pages-59479b54/changzheng-study-notes.html?disabletitlebar=1&from=duannei)
 7. [1.6万个城镇老旧小区，完工改造！](https://view.inews.qq.com/a/20261023A08IOF00)
@@ -23,4 +23,4 @@
 17. [寄件人取消订单，多家快递公司被指或处罚快递员，金额2至10元](https://view.inews.qq.com/a/20261023A09FEV00)
 18. [上海九旬阿婆被女儿拒之门外，吃喝拉撒全都在楼道里，邻居看不下去了](https://view.inews.qq.com/a/20261023A05AXR00)
 19. [新一届安徽省委领导班子亮相](https://view.inews.qq.com/a/20261023A06B8J00)
-20. [周祖翼当选中共河南省委书记](https://view.inews.qq.com/a/20261023A0C6XX00)
+20. [国常会：要加快建设生育友好型社会](https://view.inews.qq.com/a/20261023A0CMFG00)

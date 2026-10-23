@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 20:17:19
+> 更新时间：2026-10-23 21:11:28
 
 ## 新闻热榜
 
@@ -29,8 +29,8 @@
 
 1. [胡锡进：股票跌得心疼，于是我这些天就恶狠狠地花钱](https://finance.sina.com.cn/roll/2026-10-23/doc-iniweqhu4921237.shtml)
 2. [深观察｜AI发现了人类网络潜伏多年的“暗门”](https://finance.sina.com.cn/roll/2026-10-23/doc-iniweuqu1959080.shtml)
-3. [操盘必读：影响股市利好或利空消息_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-23/doc-iniwecsw8116494.shtml)
-4. [全国蛋价跌回“4元时代”](https://finance.sina.com.cn/wm/2026-10-23/doc-iniweywu2651700.shtml)
+3. [全国蛋价跌回“4元时代”](https://finance.sina.com.cn/wm/2026-10-23/doc-iniweywu2651700.shtml)
+4. [操盘必读：影响股市利好或利空消息_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-23/doc-iniwecsw8116494.shtml)
 5. [A股回购增持潮起 硬科技公司密集出手](https://finance.sina.com.cn/roll/2026-10-23/doc-iniwctca8168542.shtml)
 6. [玉渊谭天丨“中国AI禁令”是怎么回事？是不是政策转向的信号？](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyu8031101.shtml)
 7. [14亿自购护盘！首批18只主动ETF今日开售，11位百亿老将压阵，“老带新”模式成标配，最快7天收官](https://finance.sina.com.cn/money/fund/original/2026-10-23/doc-iniweiyu8051412.shtml)
@@ -38,12 +38,12 @@
 9. [中国富豪正在排队补税](https://finance.sina.com.cn/roll/2026-10-23/doc-iniweqhr5667097.shtml)
 10. [纳指重挫近700点！Meta跌近7%，SpaceX暴泻超9%，芯片股遭抛售，金价逼近4000美元](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwecsy4872439.shtml)
 11. [财经早报丨360亿元增量资金将涌入A股 AI龙头股未出现网传连锁强平现象丨2026年10月23日](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniweiyt5620440.shtml)
-12. [特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5775123.shtml)
-13. [宇树科技涨停！市值重新站上2500亿元，本周累涨超46%](https://finance.sina.com.cn/tob/2026-10-23/doc-iniweuqw2736013.shtml)
-14. [现货黄金跌破4000美元大关，国内金饰价格下调](https://finance.sina.com.cn/roll/2026-10-23/doc-iniweqhp4860164.shtml)
-15. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
-16. [西藏巴青7.0级地震已致16人遇难54人受伤，记录到余震413次](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyw4864013.shtml)
-17. [机圈过节了！多家苹果店门前排起长龙：只为拿到iPhone Duo](https://finance.sina.com.cn/stock/t/2026-10-23/doc-iniweiyt5612012.shtml)
+12. [宇树科技涨停！市值重新站上2500亿元，本周累涨超46%](https://finance.sina.com.cn/tob/2026-10-23/doc-iniweuqw2736013.shtml)
+13. [特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5775123.shtml)
+14. [机圈过节了！多家苹果店门前排起长龙：只为拿到iPhone Duo](https://finance.sina.com.cn/stock/t/2026-10-23/doc-iniweiyt5612012.shtml)
+15. [现货黄金跌破4000美元大关，国内金饰价格下调](https://finance.sina.com.cn/roll/2026-10-23/doc-iniweqhp4860164.shtml)
+16. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
+17. [西藏巴青7.0级地震已致16人遇难54人受伤，记录到余震413次](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyw4864013.shtml)
 18. [苹果史上最贵！iPhone Duo今日开售，溢价暴跌](https://finance.sina.com.cn/wm/2026-10-23/doc-iniweqhw2052164.shtml)
 19. [“易中天”、东山精密，最新发声！](https://finance.sina.com.cn/stock/zqgd/2026-10-23/doc-iniwecsy4902540.shtml)
 20. [西藏那曲巴青7.0级地震已致16人遇难46人受伤](https://finance.sina.com.cn/wm/2026-10-23/doc-iniwecsy4874002.shtml)

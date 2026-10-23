@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-23 20:17:24
+> 更新时间：2026-10-23 21:11:52
 
 ## 日榜
 
@@ -10,9 +10,9 @@
 4. [华为阔折叠手机出货量破 321 万台：消息称 iPhone Duo 预售 6 天，Pura X Max 销量环比提升 38%](https://www.ithome.com/1/016/908.htm)
 5. [方舟引擎新突破：华为详解 HarmonyOS 7 超空间存储 + 超空间内存技术](https://www.ithome.com/1/016/755.htm)
 6. [微信率先适配苹果 iPhone Duo 折叠屏手机，内屏支持分栏显示等功能](https://www.ithome.com/1/016/859.htm)
-7. [长春生产：消息称奥迪正在与华为谈判，共同开发新一代中国版 A8](https://www.ithome.com/1/016/670.htm)
-8. [诋毁嘲讽尊界 S800，博主“赛车星冰乐”向尊界汽车道歉](https://www.ithome.com/1/017/086.htm)
-9. [直击苹果首款折叠屏 iPhone Duo 发售现场，首发日黄牛加价千元回收手机](https://www.ithome.com/1/016/785.htm)
-10. [微信 iOS 版 8.0.80 最新官方正式版下载发布，适配苹果 iPhone Duo 手机](https://www.ithome.com/1/016/838.htm)
-11. [在么在么（原死了么）宣布升级为智能养老平台，2.0 系统上线定价 199 元 / 年](https://www.ithome.com/1/016/834.htm)
-12. [博主晒苹果 iPhone Duo 手撕磨砂膜前后屏幕观感对比，操作只需一台家用吹风机](https://www.ithome.com/1/016/870.htm)
+7. [诋毁嘲讽尊界 S800，博主“赛车星冰乐”向尊界汽车道歉](https://www.ithome.com/1/017/086.htm)
+8. [直击苹果首款折叠屏 iPhone Duo 发售现场，首发日黄牛加价千元回收手机](https://www.ithome.com/1/016/785.htm)
+9. [微信 iOS 版 8.0.80 最新官方正式版下载发布，适配苹果 iPhone Duo 手机](https://www.ithome.com/1/016/838.htm)
+10. [在么在么（原死了么）宣布升级为智能养老平台，2.0 系统上线定价 199 元 / 年](https://www.ithome.com/1/016/834.htm)
+11. [博主晒苹果 iPhone Duo 手撕磨砂膜前后屏幕观感对比，操作只需一台家用吹风机](https://www.ithome.com/1/016/870.htm)
+12. [华为 Pura 90 Plus 线下展出，新机确认首发搭载麒麟 9025 处理器](https://www.ithome.com/1/016/862.htm)
