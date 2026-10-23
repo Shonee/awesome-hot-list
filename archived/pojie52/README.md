@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-23 11:43:46
+> 更新时间：2026-10-23 12:42:45
 
 ## 人气热门
 
@@ -57,30 +57,30 @@
 
 ## 精华采撷
 
-1. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
-2. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
-3. [企业微信聊天记录导出全解析](https://www.52pojie.cn/thread-2107745-1-1.html)
-4. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
-5. [Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]](https://www.52pojie.cn/thread-2090893-1-1.html)
-6. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
-7. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
-8. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
-9. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
-10. [【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）](https://www.52pojie.cn/thread-2094408-1-1.html)
-11. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
-12. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-13. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
-14. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-15. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
-16. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
-17. [Web逆向 JS逆向 基础知识 ： V8入门 JS详解 AST知识  字节码。。。。。。](https://www.52pojie.cn/thread-2092084-1-1.html)
-18. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
-19. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
-20. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-21. [【兑现十年前的承诺】通过逆向分析老游戏XXX梦大富翁来制作外挂BGM启动器](https://www.52pojie.cn/thread-2089150-1-1.html)
-22. [拆开 Microsoft Edge 的 App-Bound Encryption：从「读不出」到借浏览器身份解密 v20](https://www.52pojie.cn/thread-2131346-1-1.html)
-23. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-24. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+1. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+2. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
+3. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
+4. [企业微信聊天记录导出全解析](https://www.52pojie.cn/thread-2107745-1-1.html)
+5. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+6. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
+7. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
+8. [Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]](https://www.52pojie.cn/thread-2090893-1-1.html)
+9. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
+10. [【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析](https://www.52pojie.cn/thread-2122363-1-1.html)
+11. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
+12. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
+13. [【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）](https://www.52pojie.cn/thread-2094408-1-1.html)
+14. [SigilHook：用 AngelScript 做 x86/x64 函数 Hook 的注入式运行时](https://www.52pojie.cn/thread-2130534-1-1.html)
+15. [快手 VMP 分析与还原](https://www.52pojie.cn/thread-2123217-1-1.html)
+16. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+17. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
+18. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+19. [Web逆向 JS逆向 基础知识 ： V8入门 JS详解 AST知识  字节码。。。。。。](https://www.52pojie.cn/thread-2092084-1-1.html)
+20. [火绒剑驱动逆向](https://www.52pojie.cn/thread-2096341-1-1.html)
+21. [全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录](https://www.52pojie.cn/thread-2102594-1-1.html)
+22. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+23. [【兑现十年前的承诺】通过逆向分析老游戏XXX梦大富翁来制作外挂BGM启动器](https://www.52pojie.cn/thread-2089150-1-1.html)
+24. [拆开 Microsoft Edge 的 App-Bound Encryption：从「读不出」到借浏览器身份解密 v20](https://www.52pojie.cn/thread-2131346-1-1.html)
 25. [某企业加固dex vmp简单分析](https://www.52pojie.cn/thread-2111432-1-1.html)
 26. [银狐WinOS伪装魔兽插件，远控木马攻击链分析](https://www.52pojie.cn/thread-2122812-1-1.html)
 27. [Bastion 棱堡，对称加密算法库，支持CTR、CBC、XTS、AEAD、HASH、HMAC、HKDF、PBKDF2](https://www.52pojie.cn/thread-2131143-1-1.html)
