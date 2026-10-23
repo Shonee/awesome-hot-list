@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 09:25:13
+> 更新时间：2026-10-23 10:18:33
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [美元指数22日下跌](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4975612.shtml)
-2. [10月23日收盘：美股三大指数涨跌不一 纳指创6月以来最大跌幅 国际油价大涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5746324.shtml)
-3. [Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937956.shtml)
-4. [DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。仍然看空久期偏长的美债。美国政府大幅举债和需求疲软将继续打压债市。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4912689.shtml)
-5. [智利财政部长表示，今年智利矿业产值可能萎缩约8%至9%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8141811.shtml)
-6. [美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4963768.shtml)
-7. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
-8. [纽约期金失守4050美元/盎司，日内跌2.41%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8257376.shtml)
-9. [美股纳斯达克100指数期货跌超3%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8169734.shtml)
-10. [比特币跌破81000美元，日内跌3.75%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnvh5033361.shtml)
-11. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
-12. [DATADOG股价迅速下跌，触及盘中低点。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4921921.shtml)
-13. [加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937740.shtml)
-14. [Anthropic因使用受版权保护的音乐训练Claude而被起诉。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4922139.shtml)
-15. [捷蓝航空股价下跌7%，跌至历史新低。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4945880.shtml)
-16. [前白宫新闻秘书卡罗琳·莱维特对其继任者迅速离开白宫一事发表评论，称这份工作“并不适合她”。莱维特还透露，她正在为正在物色新任白宫](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8261076.shtml)
-17. [美国卫生部长核心顾问Calley Means辞职，对“让美国再次健康”运动构成打击](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4848271.shtml)
-18. [白宫发言人安娜·凯利（Anna Kelly）谈下一任白宫新闻秘书：专注于我的工作。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4855799.shtml)
-19. [美医药股MODERNA股价持续下跌，跌幅达20%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8258581.shtml)
-20. [10月22日美股成交额前20名:科技股集体下挫，SpaceX解禁后收跌9.14%](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4871446.shtml)
+1. [操盘必读：影响股市利好或利空消息_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-23/doc-iniwecsw8116494.shtml)
+2. [纳指重挫近700点！Meta跌近7%，SpaceX暴泻超9%，芯片股遭抛售，金价逼近4000美元](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwecsy4872439.shtml)
+3. [10月23日收盘：美股三大指数涨跌不一 纳指创6月以来最大跌幅 国际油价大涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5746324.shtml)
+4. [西藏那曲巴青7.0级地震已致16人遇难46人受伤](https://finance.sina.com.cn/wm/2026-10-23/doc-iniwecsy4874002.shtml)
+5. [美元指数22日下跌](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4975612.shtml)
+6. [财经早报丨360亿元增量资金将涌入A股 AI龙头股未出现网传连锁强平现象丨2026年10月23日](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniweiyt5620440.shtml)
+7. [A股回购增持潮起 硬科技公司密集出手](https://finance.sina.com.cn/roll/2026-10-23/doc-iniwctca8168542.shtml)
+8. [特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5775123.shtml)
+9. [股海导航_2026年10月23日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-23/doc-iniwecsy4889161.shtml)
+10. [突发！沙特国防部和原油设施遇袭！刚刚，黄金、白银、纳指暴跌，油价大涨！恐慌情绪蔓延！普京重磅发声](https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniwecst4991282.shtml)
+11. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
+12. [Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937956.shtml)
+13. [10月23日隔夜要闻：美股三大指数涨跌不一 中概股普跌 油价上涨 铜价金价走低 西部数据财报大超预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsv5686158.shtml)
+14. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
+15. [四大证券报头版头条内容精华摘要_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniwecsv5719281.shtml)
+16. [10月22日美股成交额前20名:科技股集体下挫，SpaceX解禁后收跌9.14%](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4871446.shtml)
+17. [DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。仍然看空久期偏长的美债。美国政府大幅举债和需求疲软将继续打压债市。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4912689.shtml)
+18. [智利财政部长表示，今年智利矿业产值可能萎缩约8%至9%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8141811.shtml)
+19. [美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4963768.shtml)
+20. [玉渊谭天丨“中国AI禁令”是怎么回事？是不是政策转向的信号？](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyu8031101.shtml)

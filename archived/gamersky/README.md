@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-23 09:25:17
+> 更新时间：2026-10-23 10:18:37
 
 ## 热点资讯排行
 
@@ -10,8 +10,8 @@
 4. [《COD现代战争4》战役惨遭破解！离线就能玩](https://www.gamersky.com/news/202610/2230469.shtml)
 5. [《COD23》DLSS5实机绝了!太逼真像实拍 和电影一样](https://www.gamersky.com/news/202610/2232210.shtml)
 6. [货轮沉没大量iPhone漂浮海面 预估总损失逾1亿美元](https://www.gamersky.com/news/202610/2230176.shtml)
-7. [日本新游开发9年自称被中国人破解！作者崩溃 不想干了](https://www.gamersky.com/news/202610/2231104.shtml)
-8. [NS2也被破解了！惨无人道 任天堂还是没防住](https://www.gamersky.com/news/202610/2233351.shtml)
+7. [NS2也被破解了！惨无人道 任天堂还是没防住](https://www.gamersky.com/news/202610/2233351.shtml)
+8. [日本新游开发9年自称被中国人破解！作者崩溃 不想干了](https://www.gamersky.com/news/202610/2231104.shtml)
 9. [法国暴乱动漫游戏店主死守店铺走红 赢得全网尊重](https://www.gamersky.com/news/202610/2230603.shtml)
 10. [《COD23》战役演员确认！“嘎子”幻想中的自己](https://www.gamersky.com/news/202610/2230769.shtml)
 11. [索尼DEI争议大作爆改韩国油腻师姐](https://www.gamersky.com/news/202610/2232075.shtml)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-23 09:24:49
+> 更新时间：2026-10-23 10:17:48
 
 ## 最新帖子
 
-1. [夯爆了！又一款开源企业级一站式AI智能测试平台！（附平台架构、技术选型）](https://www.cnblogs.com/jinjiangongzuoshi/p/23408952)
-2. [机器周期与共地：时钟基准和电压参考基准](https://www.cnblogs.com/zw-awa/p/23408615)
-3. [零依赖 C# Office 库到底怎么用——四个场景讲透 Wisdom.Office](https://www.cnblogs.com/forges/p/23408496)
-4. [你的WorkBuddy不好用，大概率是这些配置没设置好](https://www.cnblogs.com/xiezhr/p/23408411)
-5. [这 8 个 NuGet 包，项目直接起飞](https://www.cnblogs.com/shenchuanchao/p/23374408/8-nuget-packages-project-takeoff)
-6. [别再只用数组了，这 10 种 PHP 数据结构值得了解](https://www.cnblogs.com/catchadmin/p/23408299)
-7. [低配虚拟机安装 Win10 LTSB 2016 跳转机实录](https://www.cnblogs.com/jyzhao/p/23408189)
-8. [MQTT实战 - 生产环境MQTT丢包终极排查，8年经验总结（六）](https://www.cnblogs.com/hugogoos/p/23378496)
-9. [我把「less-ai-tone 去AI味」做成了一个网页工具](https://www.cnblogs.com/wyang/p/23405126)
-10. [MySQL进阶教程（三）—— 三大范式和E-R图](https://www.cnblogs.com/mengyingblog/p/23405108)
-11. [有人用纯 C# 写了个语音识别引擎，README 比代码还好看](https://www.cnblogs.com/shanyou/p/23404953)
-12. [LLM | 大模型训练 / 部署语境下的常用显卡](https://www.cnblogs.com/moonout/p/23404900)
-13. [如何用AI帮我写出实用的插件](https://www.cnblogs.com/xuwujing/p/23404853)
-14. [程序设计：如何优雅地处理相似的业务数据](https://www.cnblogs.com/xuld/p/23404408)
-15. [一文搞懂 Agent 工具机制：从 Schema 到 Tool Calling](https://www.cnblogs.com/Tomorrowland/p/23404208)
-16. [C2000之ePWM详讲](https://www.cnblogs.com/lsksp/p/23404168)
-17. [从零开始搭建后台系统（vue3+TypeScript+Vite）01](https://www.cnblogs.com/myflowers/p/23399187)
-18. [内网部署 Qwen2.5-7B 实操：日志、性能与模型选型的一次完整梳理](https://www.cnblogs.com/zjdxr-up/p/23403804)
-19. [Agent 支线知识：Personal Agent 的前世今生](https://www.cnblogs.com/Qiniu-developer/p/23403757)
-20. [让 Agent 把视频做出来：DeepSeek Harness × DeepSeek-V4.1-Flash 视频生产流水线](https://www.cnblogs.com/znlgis/p/23402179)
+1. [让 LLM 输出不再失控：用 Pydantic 校验大模型输出](https://www.cnblogs.com/wang_yb/p/23409507)
+2. [【HarmonyOS SDK Skills】快速适配鸿蒙窗口智感旋转能力](https://www.cnblogs.com/HarmonyOSSDK/p/23409446)
+3. [老旧办公电脑安装Linux系统（1）——初步印象](https://www.cnblogs.com/zwj365589/p/23112895)
+4. [机器周期与共地：时钟基准和电压参考基准](https://www.cnblogs.com/zw-awa/p/23408615)
+5. [零依赖 C# Office 库到底怎么用——四个场景讲透 Wisdom.Office](https://www.cnblogs.com/forges/p/23408496)
+6. [你的WorkBuddy不好用，大概率是这些配置没设置好](https://www.cnblogs.com/xiezhr/p/23408411)
+7. [这 8 个 NuGet 包，项目直接起飞](https://www.cnblogs.com/shenchuanchao/p/23374408/8-nuget-packages-project-takeoff)
+8. [别再只用数组了，这 10 种 PHP 数据结构值得了解](https://www.cnblogs.com/catchadmin/p/23408299)
+9. [低配虚拟机安装 Win10 LTSB 2016 跳转机实录](https://www.cnblogs.com/jyzhao/p/23408189)
+10. [MQTT实战 - 生产环境MQTT丢包终极排查，8年经验总结（六）](https://www.cnblogs.com/hugogoos/p/23378496)
+11. [我把「less-ai-tone 去AI味」做成了一个网页工具](https://www.cnblogs.com/wyang/p/23405126)
+12. [MySQL进阶教程（三）—— 三大范式和E-R图](https://www.cnblogs.com/mengyingblog/p/23405108)
+13. [有人用纯 C# 写了个语音识别引擎，README 比代码还好看](https://www.cnblogs.com/shanyou/p/23404953)
+14. [LLM | 大模型训练 / 部署语境下的常用显卡](https://www.cnblogs.com/moonout/p/23404900)
+15. [如何用AI帮我写出实用的插件](https://www.cnblogs.com/xuwujing/p/23404853)
+16. [程序设计：如何优雅地处理相似的业务数据](https://www.cnblogs.com/xuld/p/23404408)
+17. [一文搞懂 Agent 工具机制：从 Schema 到 Tool Calling](https://www.cnblogs.com/Tomorrowland/p/23404208)
+18. [C2000之ePWM详讲](https://www.cnblogs.com/lsksp/p/23404168)
+19. [从零开始搭建后台系统（vue3+TypeScript+Vite）01](https://www.cnblogs.com/myflowers/p/23399187)
+20. [内网部署 Qwen2.5-7B 实操：日志、性能与模型选型的一次完整梳理](https://www.cnblogs.com/zjdxr-up/p/23403804)
 
 ## 精华帖子
 
