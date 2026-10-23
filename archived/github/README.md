@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-23 08:32:29
+> 更新时间：2026-10-23 14:55:37
 
 ## 每日趋势
 
@@ -125,11 +125,12 @@
 4. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 5. [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 6. [prompts.chat](https://github.com/f/prompts.chat)
-7. [fonts](https://github.com/google/fonts)
-8. [awesome-english](https://github.com/yvoronoy/awesome-english)
-9. [NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch)
-10. [epg](https://github.com/iptv-org/epg)
-11. [wpt](https://github.com/web-platform-tests/wpt)
+7. [Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack)
+8. [fonts](https://github.com/google/fonts)
+9. [awesome-english](https://github.com/yvoronoy/awesome-english)
+10. [NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch)
+11. [epg](https://github.com/iptv-org/epg)
+12. [wpt](https://github.com/web-platform-tests/wpt)
 
 ## JavaScript
 

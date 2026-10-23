@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-23 14:20:46
+> 更新时间：2026-10-23 14:55:42
 
 ## 最新帖子
 
-1. [Agent YOLO 三端全开：一个 YOLO 面板，在 IntelliJ、Visual Studio、VS Code 里都能跑起来](https://www.cnblogs.com/cnsharp/p/23412695)
-2. [Day01 · Python 简介与生态](https://www.cnblogs.com/xiaojiaxuezhang/p/23412399)
-3. [低成本本地模型能把「角色四视图」做到什么程度？](https://www.cnblogs.com/fs7744/p/23412320)
-4. [Oracle LogMiner 日志挖掘：原理、步骤、可执行脚本与结果解析](https://www.cnblogs.com/liuziyi1/p/23411433)
-5. [用 Python 从零搭一套 RAG 系统：40 行跑通，再谈优化](https://www.cnblogs.com/codigger/p/23411316)
-6. [[最优化技术] 3-9 共轭梯度法](https://www.cnblogs.com/h-elden/p/23378572)
-7. [让 LLM 输出不再失控：用 Pydantic 校验大模型输出](https://www.cnblogs.com/wang_yb/p/23409507)
-8. [【HarmonyOS SDK Skills】快速适配鸿蒙窗口智感旋转能力](https://www.cnblogs.com/HarmonyOSSDK/p/23409446)
-9. [老旧办公电脑安装Linux系统（1）——初步印象](https://www.cnblogs.com/zwj365589/p/23112895)
-10. [机器周期与共地：时钟基准和电压参考基准](https://www.cnblogs.com/zw-awa/p/23408615)
-11. [零依赖 C# Office 库到底怎么用——四个场景讲透 Wisdom.Office](https://www.cnblogs.com/forges/p/23408496)
-12. [你的WorkBuddy不好用，大概率是这些配置没设置好](https://www.cnblogs.com/xiezhr/p/23408411)
-13. [这 8 个 NuGet 包，项目直接起飞](https://www.cnblogs.com/shenchuanchao/p/23374408/8-nuget-packages-project-takeoff)
-14. [别再只用数组了，这 10 种 PHP 数据结构值得了解](https://www.cnblogs.com/catchadmin/p/23408299)
-15. [低配虚拟机安装 Win10 LTSB 2016 跳转机实录](https://www.cnblogs.com/jyzhao/p/23408189)
-16. [MQTT实战 - 生产环境MQTT丢包终极排查，8年经验总结（六）](https://www.cnblogs.com/hugogoos/p/23378496)
-17. [我把「less-ai-tone 去AI味」做成了一个网页工具](https://www.cnblogs.com/wyang/p/23405126)
-18. [MySQL进阶教程（三）—— 三大范式和E-R图](https://www.cnblogs.com/mengyingblog/p/23405108)
-19. [有人用纯 C# 写了个语音识别引擎，README 比代码还好看](https://www.cnblogs.com/shanyou/p/23404953)
-20. [LLM | 大模型训练 / 部署语境下的常用显卡](https://www.cnblogs.com/moonout/p/23404900)
+1. [Spring AI Alibaba -- 文生图、文生音及向量化](https://www.cnblogs.com/alineverstop/p/23413567)
+2. [9. 变量，存放与修改数据 | 点杯大杯奶茶](https://www.cnblogs.com/halfcode/p/23413471)
+3. [Agent YOLO 三端全开：一个 YOLO 面板，在 IntelliJ、Visual Studio、VS Code 里都能跑起来](https://www.cnblogs.com/cnsharp/p/23412695)
+4. [低成本本地模型能把「角色四视图」做到什么程度？](https://www.cnblogs.com/fs7744/p/23412320)
+5. [Oracle LogMiner 日志挖掘：原理、步骤、可执行脚本与结果解析](https://www.cnblogs.com/liuziyi1/p/23411433)
+6. [用 Python 从零搭一套 RAG 系统：40 行跑通，再谈优化](https://www.cnblogs.com/codigger/p/23411316)
+7. [[最优化技术] 3-9 共轭梯度法](https://www.cnblogs.com/h-elden/p/23378572)
+8. [让 LLM 输出不再失控：用 Pydantic 校验大模型输出](https://www.cnblogs.com/wang_yb/p/23409507)
+9. [【HarmonyOS SDK Skills】快速适配鸿蒙窗口智感旋转能力](https://www.cnblogs.com/HarmonyOSSDK/p/23409446)
+10. [老旧办公电脑安装Linux系统（1）——初步印象](https://www.cnblogs.com/zwj365589/p/23112895)
+11. [机器周期与共地：时钟基准和电压参考基准](https://www.cnblogs.com/zw-awa/p/23408615)
+12. [零依赖 C# Office 库到底怎么用——四个场景讲透 Wisdom.Office](https://www.cnblogs.com/forges/p/23408496)
+13. [你的WorkBuddy不好用，大概率是这些配置没设置好](https://www.cnblogs.com/xiezhr/p/23408411)
+14. [这 8 个 NuGet 包，项目直接起飞](https://www.cnblogs.com/shenchuanchao/p/23374408/8-nuget-packages-project-takeoff)
+15. [别再只用数组了，这 10 种 PHP 数据结构值得了解](https://www.cnblogs.com/catchadmin/p/23408299)
+16. [低配虚拟机安装 Win10 LTSB 2016 跳转机实录](https://www.cnblogs.com/jyzhao/p/23408189)
+17. [MQTT实战 - 生产环境MQTT丢包终极排查，8年经验总结（六）](https://www.cnblogs.com/hugogoos/p/23378496)
+18. [我把「less-ai-tone 去AI味」做成了一个网页工具](https://www.cnblogs.com/wyang/p/23405126)
+19. [MySQL进阶教程（三）—— 三大范式和E-R图](https://www.cnblogs.com/mengyingblog/p/23405108)
+20. [有人用纯 C# 写了个语音识别引擎，README 比代码还好看](https://www.cnblogs.com/shanyou/p/23404953)
 
 ## 精华帖子
 

@@ -1,17 +1,17 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-23 14:22:07
+> 更新时间：2026-10-23 14:57:43
 
 ## Hottest
 
 1. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-2. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
-3. [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
-4. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
-5. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
+2. [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
+3. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
+4. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
+5. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
 6. [Please don't mess with links](https://maurycyz.com/misc/real_links/)
-7. [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
-8. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
+7. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
+8. [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
 9. [Objects, attributes, maps, oh my](https://bernsteinbear.com/blog/object-shapes/)
 10. [Expose only share links of a private service with caddy](https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html)
 11. [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
