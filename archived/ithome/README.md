@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-23 13:12:22
+> 更新时间：2026-10-23 14:21:28
 
 ## 日榜
 
@@ -11,8 +11,8 @@
 5. [高德官宣全面适配苹果 iPhone Duo，全球首个分屏导航将上线](https://www.ithome.com/1/016/423.htm)
 6. [方舟引擎新突破：华为详解 HarmonyOS 7 超空间存储 + 超空间内存技术](https://www.ithome.com/1/016/755.htm)
 7. [苹果 iPhone Duo 内屏磨砂膜能徒手撕下：秒变亮面屏，但小心损失 7998 元](https://www.ithome.com/1/016/797.htm)
-8. [消息称苹果首款折叠 iPhone Duo 首销卖爆，12 个月内出货目标暴增 44%](https://www.ithome.com/1/016/356.htm)
-9. [腾讯客服称微信目前已适配 iPhone Duo，后续还会推出相关更新并持续提升使用体验](https://www.ithome.com/1/016/512.htm)
-10. [苹果首款折叠屏手机 iPhone Duo 京东率先开售：国行 15999 元起，7.6 英寸内屏配 A20 Pro](https://www.ithome.com/1/016/621.htm)
+8. [腾讯客服称微信目前已适配 iPhone Duo，后续还会推出相关更新并持续提升使用体验](https://www.ithome.com/1/016/512.htm)
+9. [苹果首款折叠屏手机 iPhone Duo 京东率先开售：国行 15999 元起，7.6 英寸内屏配 A20 Pro](https://www.ithome.com/1/016/621.htm)
+10. [长春生产：消息称奥迪正在与华为谈判，共同开发新一代中国版 A8](https://www.ithome.com/1/016/670.htm)
 11. [古尔曼：苹果正测试第二代 iPhone Duo 原型机，配备面容 ID](https://www.ithome.com/1/016/650.htm)
-12. [长春生产：消息称奥迪正在与华为谈判，共同开发新一代中国版 A8](https://www.ithome.com/1/016/670.htm)
+12. [美团 / 淘宝闪购 / 顺丰 / 中通 / 曹操专车 / T3 / 滴滴等倡议：推进新就业形态人员参加基本医保](https://www.ithome.com/1/016/543.htm)
