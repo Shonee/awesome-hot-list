@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-23 21:41:42
+> 更新时间：2026-10-23 22:41:53
 
 ## 24 小时热榜
 
@@ -11,8 +11,8 @@
 5. [奥迪考虑任命首位中国籍总裁](https://readhub.cn/topic/8xQmShXuMyu?tab=daily)
 6. [DeepSeek、MiniMax 已完成开源和海外授权使用](https://readhub.cn/topic/8xROJY3yv17?tab=daily)
 7. [黄仁勋回应与长鑫存储合作：持开放态度 称没有国家制造业比中国更强](https://readhub.cn/topic/8xSCSdSTEeP?tab=daily)
-8. [长实集团再发澄清公告：李嘉诚健康情况良好，网传照片不实](https://readhub.cn/topic/8xQdtJLifOy?tab=daily)
-9. [消息称 Anthropic 最快本周五公开提交上市申请](https://readhub.cn/topic/8xQSR2yl23c?tab=daily)
+8. [消息称 Anthropic 最快本周五公开提交上市申请](https://readhub.cn/topic/8xQSR2yl23c?tab=daily)
+9. [长实集团再发澄清公告：李嘉诚健康情况良好，网传照片不实](https://readhub.cn/topic/8xQdtJLifOy?tab=daily)
 10. [阿里云宣布.com 域名调价](https://readhub.cn/topic/8xRwcHzHhi0?tab=daily)
 11. [AI 挖出 PHP 潜藏 14 年严重漏洞 全球运维紧急抢修](https://readhub.cn/topic/8xRAON8M16H?tab=daily)
 12. [DeepSeek 千亿融资接近收官 募资翻倍押注具身智能](https://readhub.cn/topic/8xQexvnijJK?tab=daily)
@@ -20,19 +20,19 @@
 14. [央视曝光豆包会员「无限薅」乱象：多账号循环、API 密钥来源存疑](https://readhub.cn/topic/8xQWjlf014N?tab=daily)
 15. [Claude 生成 1.8 亿行验证代码，挖出万亿次测试遗漏漏洞](https://readhub.cn/topic/8xSAFH9ApQF?tab=daily)
 16. [极米 AI 记忆眼镜 G1 和手环 L1 亮相 可记录待办事项和灵感](https://readhub.cn/topic/8xQoe7wX7JV?tab=daily)
-17. [上交所向大业股份下发监管工作函](https://readhub.cn/topic/8xRCuHd8H7E?tab=daily)
+17. [洪灝：现在是黎明前的黑暗，四季度市场会有一波好的反弹](https://readhub.cn/topic/8xQkQBxN2R5?tab=daily)
 18. [甲骨文发布 Java SE 高危漏洞安全警报，用户应尽快升级](https://readhub.cn/topic/8xRFOZXNiHO?tab=daily)
-19. [洪灝：现在是黎明前的黑暗，四季度市场会有一波好的反弹](https://readhub.cn/topic/8xQkQBxN2R5?tab=daily)
-20. [MiniMax 开源 M3.1 Flash 模型 总参数量达 428B](https://readhub.cn/topic/8xS1cka10p9?tab=daily)
-21. [美光推出与公司利润挂钩的全球员工季度奖金计划](https://readhub.cn/topic/8xQt1hgMjf7?tab=daily)
-22. [黄仁勋于 GTC 柏林大会发布多项 AI 落地相关方案](https://readhub.cn/topic/8xRrceNp2FD?tab=daily)
-23. [GLM-5.5 传闻参数或达数万亿，官方透露新模型将赠重置额度](https://readhub.cn/topic/8xS2KzVtI4m?tab=daily)
-24. [央企协同建设「六张网」2 万亿年度投资撬动产业新机](https://readhub.cn/topic/8xRwdUAYEHZ?tab=daily)
-25. [Arc 浏览器 2026 年 12 月 22 日停运，团队转向 AI 浏览器 Dia](https://readhub.cn/topic/8xS717MwmGN?tab=daily)
-26. [华为高层职务调整 何刚升任董事并继续担任终端 BG CEO](https://readhub.cn/topic/8xSAI6ivZj4?tab=daily)
-27. [Anthropic CEO 回应质疑：因 AI 安全雪藏 Mythos 模型 4 个月](https://readhub.cn/topic/8xQCifJvqb8?tab=daily)
-28. [马斯克公开支持特斯拉与 SpaceX 合并 拟于本届特朗普政府任内推进](https://readhub.cn/topic/8xQJt7T7mwq?tab=daily)
-29. [DeepSeek 新一轮融资引入联想系等多家投资者 正筹备 IPO](https://readhub.cn/topic/8xRP3iXFkCE?tab=daily)
+19. [MiniMax 开源 M3.1 Flash 模型 总参数量达 428B](https://readhub.cn/topic/8xS1cka10p9?tab=daily)
+20. [美光推出与公司利润挂钩的全球员工季度奖金计划](https://readhub.cn/topic/8xQt1hgMjf7?tab=daily)
+21. [GLM-5.5 传闻参数或达数万亿，官方透露新模型将赠重置额度](https://readhub.cn/topic/8xS2KzVtI4m?tab=daily)
+22. [央企协同建设「六张网」2 万亿年度投资撬动产业新机](https://readhub.cn/topic/8xRwdUAYEHZ?tab=daily)
+23. [马斯克公开支持特斯拉与 SpaceX 合并 拟于本届特朗普政府任内推进](https://readhub.cn/topic/8xQJt7T7mwq?tab=daily)
+24. [Arc 浏览器 2026 年 12 月 22 日停运，团队转向 AI 浏览器 Dia](https://readhub.cn/topic/8xS717MwmGN?tab=daily)
+25. [华为高层职务调整 何刚升任董事并继续担任终端 BG CEO](https://readhub.cn/topic/8xSAI6ivZj4?tab=daily)
+26. [黄仁勋于 GTC 柏林大会发布多项 AI 落地相关方案](https://readhub.cn/topic/8xRrceNp2FD?tab=daily)
+27. [软银因应对 PHP 漏洞暂停紧急速报邮件服务](https://readhub.cn/topic/8xSFZHHa4dA?tab=daily)
+28. [DeepSeek 新一轮融资引入联想系等多家投资者 正筹备 IPO](https://readhub.cn/topic/8xRP3iXFkCE?tab=daily)
+29. [Anthropic CEO 回应质疑：因 AI 安全雪藏 Mythos 模型 4 个月](https://readhub.cn/topic/8xQCifJvqb8?tab=daily)
 30. [诺基亚跌超 10% 创逾半年新低 Q3 营业利润同比大跌 22%](https://readhub.cn/topic/8xRGYtmxPyl?tab=daily)
 
 ## 每日早报
@@ -54,6 +54,6 @@
 5. [覆盖存、拣、运全场景，海康机器人 2026 移动机器人新品发布会举行](https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html)
 6. [Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕](https://www.aibase.com/zh/news/31840)
 7. [大语言模型或能帮助破译其他物种的语言](https://www.mittrchina.com/news/detail/17131)
-8. [美民调：57% 美国人认定 AI 弊大于利，七成反对社区建数据中心](https://www.aibase.com/zh/news/31836)
-9. [Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端](https://www.aibase.com/zh/news/31834)
-10. [千问蒋冠军：构建 Personal Agent 技术框架，需要模型、记忆与生态协同推进](https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html)
+8. [Bitcoin Core 调整漏洞披露规则：AI 可轻易发现的漏洞将加快修复与公开](https://www.techflowpost.com/zh-CN/newsletter/141158)
+9. [美国 SEC 公布 2027 财年检查重点，关注代币化、网络安全及先进 AI 技术风险](https://www.techflowpost.com/zh-CN/newsletter/141157)
+10. [33.5 万元起，2027 款坦克 500 正式上市：智能驾驶、舒适和安全全面升级](https://www.ifanr.com/digest/1685649)
