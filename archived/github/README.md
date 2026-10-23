@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-23 21:11:19
+> 更新时间：2026-10-24 03:37:37
 
 ## 每日趋势
 
@@ -69,11 +69,12 @@
 10. [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
 11. [dbeaver](https://github.com/dbeaver/dbeaver)
 12. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
-13. [lawnchair](https://github.com/LawnchairLauncher/lawnchair)
-14. [MojoLauncher](https://github.com/MojoLauncher/MojoLauncher)
-15. [termux-app](https://github.com/termux/termux-app)
-16. [cassandra](https://github.com/apache/cassandra)
-17. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+13. [Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
+14. [lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+15. [MojoLauncher](https://github.com/MojoLauncher/MojoLauncher)
+16. [termux-app](https://github.com/termux/termux-app)
+17. [cassandra](https://github.com/apache/cassandra)
+18. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 ## Python
 
@@ -121,18 +122,19 @@
 ## HTML
 
 1. [super-board](https://github.com/EricTechPro/super-board)
-2. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-3. [diagram-design](https://github.com/cathrynlavery/diagram-design)
-4. [prompts.chat](https://github.com/f/prompts.chat)
-5. [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations)
-6. [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
-7. [epg](https://github.com/iptv-org/epg)
-8. [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
-9. [wpt](https://github.com/web-platform-tests/wpt)
-10. [awesome-english](https://github.com/yvoronoy/awesome-english)
-11. [Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next)
-12. [design-extract](https://github.com/Manavarya09/design-extract)
-13. [NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch)
+2. [huashu-design](https://github.com/alchaincyf/huashu-design)
+3. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+4. [diagram-design](https://github.com/cathrynlavery/diagram-design)
+5. [prompts.chat](https://github.com/f/prompts.chat)
+6. [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations)
+7. [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+8. [epg](https://github.com/iptv-org/epg)
+9. [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+10. [wpt](https://github.com/web-platform-tests/wpt)
+11. [awesome-english](https://github.com/yvoronoy/awesome-english)
+12. [Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next)
+13. [design-extract](https://github.com/Manavarya09/design-extract)
+14. [NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch)
 
 ## JavaScript
 
