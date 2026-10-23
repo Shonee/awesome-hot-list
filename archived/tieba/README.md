@@ -1,10 +1,9 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-23 07:12:04
+> 更新时间：2026-10-23 08:33:04
 
 ## 最有料热点
 
-1. [愿平安!西藏那曲发生7级地震](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367956&topic_name=%E6%84%BF%E5%B9%B3%E5%AE%89%21%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%8F%91%E7%94%9F7%E7%BA%A7%E5%9C%B0%E9%9C%87)
 2. [HLE婉拒TES,与IG交换队服](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367955&topic_name=HLE%E5%A9%89%E6%8B%92TES%2C%E4%B8%8EIG%E4%BA%A4%E6%8D%A2%E9%98%9F%E6%9C%8D)
 3. [垃圾佬澳洲捡漏,拿下昔日卡皇](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367932&topic_name=%E5%9E%83%E5%9C%BE%E4%BD%AC%E6%BE%B3%E6%B4%B2%E6%8D%A1%E6%BC%8F%2C%E6%8B%BF%E4%B8%8B%E6%98%94%E6%97%A5%E5%8D%A1%E7%9A%87)
 4. [吧友在线答疑,装机配置不踩坑](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367935&topic_name=%E5%90%A7%E5%8F%8B%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91%2C%E8%A3%85%E6%9C%BA%E9%85%8D%E7%BD%AE%E4%B8%8D%E8%B8%A9%E5%9D%91)
