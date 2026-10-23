@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-23 17:15:34
+> 更新时间：2026-10-23 18:13:11
 
 ## 股票人气榜
 
@@ -10,17 +10,17 @@
 4. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
 5. [天娱数科 (002354)](https://quote.eastmoney.com/sz002354.html)
 6. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
-7. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
-8. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
+7. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
+8. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
 9. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
 10. [大洋电机 (002249)](https://quote.eastmoney.com/sz002249.html)
 11. [新易盛 (300502)](https://quote.eastmoney.com/sz300502.html)
 12. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
-13. [粤芯半导-U (301660)](https://quote.eastmoney.com/sz301660.html)
+13. [利亚德 (300296)](https://quote.eastmoney.com/sz300296.html)
 14. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
-15. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
-16. [利亚德 (300296)](https://quote.eastmoney.com/sz300296.html)
+15. [粤芯半导-U (301660)](https://quote.eastmoney.com/sz301660.html)
+16. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
 17. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
 18. [上海九百 (600838)](https://quote.eastmoney.com/sh600838.html)
-19. [三峡新材 (600293)](https://quote.eastmoney.com/sh600293.html)
+19. [埃斯顿 (002747)](https://quote.eastmoney.com/sz002747.html)
 20. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
