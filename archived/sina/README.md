@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-24 06:11:51
+> 更新时间：2026-10-24 07:10:55
 
 ## 新闻热榜
 
@@ -8,21 +8,22 @@
 2. [苏群：76人的配合是多巨头球队很难见到的 尤其是得分分布很平均](https://sports.sina.com.cn/basketball/nba/2026-10-21/doc-inivyhkr6237599.shtml)
 3. [Meta：我们将在论坛上推出新工具。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5038346.shtml)
 4. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
-5. [Frasers：因其持股已超 50%，雨果博斯（Hugo Boss）将成为其子公司。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5117161.shtml)
+5. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
 6. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
-7. [合纵药易购财报解读：扣非净利润大降75.03% 经营现金流大增207.76%引关注](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-23/doc-iniwfrue8235956.shtml)
-8. [特朗普：或与马斯克沟通乌克兰使用“星链”受限问题](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5023842.shtml)
-9. [Anthropic推出Claude Duet智能体研究预览版。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5068322.shtml)
-10. [OpenAI认为现有安全措施足以支持重启前沿强化学习训练。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaiy8283998.shtml)
-11. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
-12. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
-13. [ICE柴油投机客在截至10月20日当周将净多头头寸增加161份合约，至75,622份。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5114566.shtml)
+7. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
+8. [Frasers：因其持股已超 50%，雨果博斯（Hugo Boss）将成为其子公司。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5117161.shtml)
+9. [四川合纵药易购2024年财报解读：净利润大降72.87%、经营现金流增207.76%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-23/doc-iniwfrue8235956.shtml)
+10. [特朗普：或与马斯克沟通乌克兰使用“星链”受限问题](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5023842.shtml)
+11. [Anthropic推出Claude Duet智能体研究预览版。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5068322.shtml)
+12. [OpenAI认为现有安全措施足以支持重启前沿强化学习训练。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaiy8283998.shtml)
+13. [俄军宣布27日起在赫尔松方向停火并实行“静默状态”](https://news.sina.com.cn/w/2026-10-24/doc-iniwfwak2527777.shtml)
 14. [10月23日美股盘中：三大指数集体下跌，AI融资担忧持续发酵，布伦特原油升破115美元](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfrue8370502.shtml)
-15. [美国参议员科林斯：蓝莓、马铃薯、苹果以及海藻生产商将获得加拿大关税减免。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5001767.shtml)
-16. [特朗普谈阿拉斯加诉讼：是我说这么做的。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5127938.shtml)
-17. [欧洲股市连续第二天下跌，沃尔沃汽车一度暴跌32%，油价上涨推动能源股走强](https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwfwae5070500.shtml)
-18. [富国：中期选举前宜押注美债上涨、做空美元](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwaa8332370.shtml)
-19. [月之暗面发布Kimi K3.1Pro和K3.1ProHighspeed](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5100438.shtml)
+15. [时政新闻眼丨如何走好新的长征路？习近平提出“五个必须”](https://news.sina.com.cn/c/xl/2026-10-23/doc-iniweqhw1986350.shtml)
+16. [欧洲股市连续第二天下跌，沃尔沃汽车一度暴跌32%，油价上涨推动能源股走强](https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwfwae5070500.shtml)
+17. [大锤砸掉硫磺岛纪念雕像头颅，27岁男子被捕](https://news.sina.com.cn/w/2026-10-23/doc-iniwffes2679326.shtml)
+18. [持续领跑，中国拿下全球81.8%的新船订单](https://news.sina.com.cn/c/2026-10-23/doc-iniwfmnn1889202.shtml)
+19. [ICE柴油投机客在截至10月20日当周将净多头头寸增加161份合约，至75,622份。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5114566.shtml)
+20. [美国参议员科林斯：蓝莓、马铃薯、苹果以及海藻生产商将获得加拿大关税减免。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5001767.shtml)
 
 ## 财经热榜
 
