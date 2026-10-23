@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-24 01:38:55
+> 更新时间：2026-10-24 02:43:42
 
 ## 24 小时热榜
 
@@ -22,18 +22,18 @@
 16. [腾势近 700 台车辆将作为 2026 APEC 官方指定用车启程](https://readhub.cn/topic/8xR2t6KVdGJ?tab=daily)
 17. [腾讯混元推出 WorkForge 框架，构建覆盖 40 领域的 1.67 万个 AI 训练环境](https://readhub.cn/topic/8xQzLgS5LcX?tab=daily)
 18. [大豆废料转化为可 3D 打印生物活性材料](https://readhub.cn/topic/8xRsgeikUHn?tab=daily)
-19. [18 家重点企业签约落户香港](https://readhub.cn/topic/8xRIcoDKYbp?tab=daily)
-20. [光库科技：第三季度净利润同比增长 124%](https://readhub.cn/topic/8xR1oiXP9qp?tab=daily)
-21. [我国揽月着陆器计划执行无人飞行任务：面向国内征集载荷 不超 50kg、100W](https://readhub.cn/topic/8xQxun3Hshg?tab=daily)
-22. [贝莱德：在长飞光纤光缆 H 股的持股比例升至 7.40%](https://readhub.cn/topic/8xSafq4vtaR?tab=daily)
-23. [卡普空 CAPCOM ID 系统遭未授权访问，超 1177 万条信息泄露](https://readhub.cn/topic/8xRA1VzPvjW?tab=daily)
+19. [我国揽月着陆器计划执行无人飞行任务：面向国内征集载荷 不超 50kg、100W](https://readhub.cn/topic/8xQxun3Hshg?tab=daily)
+20. [18 家重点企业签约落户香港](https://readhub.cn/topic/8xRIcoDKYbp?tab=daily)
+21. [贝莱德：在长飞光纤光缆 H 股的持股比例升至 7.40%](https://readhub.cn/topic/8xSafq4vtaR?tab=daily)
+22. [卡普空 CAPCOM ID 系统遭未授权访问，超 1177 万条信息泄露](https://readhub.cn/topic/8xRA1VzPvjW?tab=daily)
+23. [光库科技：第三季度净利润同比增长 124%](https://readhub.cn/topic/8xR1oiXP9qp?tab=daily)
 24. [索尼日本最后一款独立 4K 蓝光播放器停产，PS5 仍支持蓝光播放](https://readhub.cn/topic/8xRIFkSfB1Z?tab=daily)
 25. [国家税务总局发票数据显示：前三季度我国经济平稳运行向新向优](https://readhub.cn/topic/8xS0w4hFcrh?tab=daily)
 26. [英特尔 CTO 称前沿晶圆产量最多翻倍，AI 算力扩张遇供应链天花板](https://readhub.cn/topic/8xRsKtF9jPB?tab=daily)
-27. [国务院办公厅印发人工智能促就业相关发展意见](https://readhub.cn/topic/8xSZzCDuoEi?tab=daily)
-28. [申通快递：前三季度归母净利润 15.75 亿元，同比增长 108.46%](https://readhub.cn/topic/8xSYWMYsAYX?tab=daily)
-29. [德媒称奥迪正与华为谈判 拟联合开发中国版新一代 A8](https://readhub.cn/topic/8xR9KT60c1k?tab=daily)
-30. [俄能源官员敦促欧盟重新考虑对俄天然气进口禁令计划](https://readhub.cn/topic/8xRKmAolzCs?tab=daily)
+27. [马斯克被曝向 Skydance 投资约 10 亿美元](https://readhub.cn/topic/8xRPkDgfNGX?tab=daily)
+28. [国务院办公厅印发人工智能促就业相关发展意见](https://readhub.cn/topic/8xSZzCDuoEi?tab=daily)
+29. [申通快递：前三季度归母净利润 15.75 亿元，同比增长 108.46%](https://readhub.cn/topic/8xSYWMYsAYX?tab=daily)
+30. [德媒称奥迪正与华为谈判 拟联合开发中国版新一代 A8](https://readhub.cn/topic/8xR9KT60c1k?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
-2. [美国拟原则性禁止对华 AI 投资，生物技术、芯片等领域同步收紧](https://www.mittrchina.com/news/detail/17134)
-3. [港中深教授创业做量子 AI，用量子计算增强大模型推理](https://www.mittrchina.com/news/detail/17132)
-4. [OpenAI and Poland's NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
-5. [从 CoreWeave 到 Anthropic，芯片抵押融资正重塑 AI 债务市场](https://wallstreetcn.com/articles/3784352)
-6. [Hugging Face 推出 Carbon-X：基于千问，让科学家「与 DNA 对话」](https://www.aibase.com/zh/news/31841)
-7. [覆盖存、拣、运全场景，海康机器人 2026 移动机器人新品发布会举行](https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html)
-8. [Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕](https://www.aibase.com/zh/news/31840)
-9. [OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间](https://www.ithome.com/1/017/274.htm)
-10. [大语言模型或能帮助破译其他物种的语言](https://www.mittrchina.com/news/detail/17131)
+1. [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape In a study with 17 researchers, domain experts rated research ideas developed with LitPivot as better grounded in the literature than those developed with a text editor and an AI chat tool. Domain experts also reviewed the participants' ideas and rated the ideas revised using LitPivot to be significantly better grounded in relevant literature. Two used it to vet new ideas against the literature, while three used it to refine the framing of more mature ideas. Hugging Face Blog 2 小时前](https://huggingface.co/blog/allenai/litpivot)
+2. [美国拟原则性禁止对华 AI 投资，生物技术、芯片等领域同步收紧 美国财政部公布对外投资限制草案，计划将对华投资从分级管理转为原则禁止，涉及 AI、半导体、量子计算等敏感技术领域。新方案下，美国投资者对符合规则定义的 AI 系统开发企业进行相关投资将在原则上被禁止。早在 2023 年 8 月，时任美国总统拜登签署行政令，要求建立对外投资安全机制，限制美国资本进入中国部分敏感技术领域。 麻省理工科技评论 7 小时前](https://www.mittrchina.com/news/detail/17134)
+3. [港中深教授创业做量子 AI，用量子计算增强大模型推理 基于这一思路，赵俊华与团队提出了 QART（Quantum-Augmented Reasoning Transformer，量子增强推理 Transformer）架构，将大语言模型与量子优化模块结合起来。他与团队共同推进量子 AI 初创公司 QuantumMind 的研发与商业化，担任首席科学家，希望在电力、金融等行业中寻找适合量子增强推理的应用场景。从十多年前探索量子计算在电网优化中的应用，到如今尝试让量子计算参与大模型推理，赵俊华始终在寻找新计算技术与现实问题之间的结合点。 麻省理工科技评论 10 小时前](https://www.mittrchina.com/news/detail/17132)
+4. [OpenAI and Poland's NASK partner to advance AI safety and security OpenAI and Poland's NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem. OpenAI 18 小时前](https://openai.com/index/openai-nask-ai-safety-security-partnership)
+5. [从 CoreWeave 到 Anthropic，芯片抵押融资正重塑 AI 债务市场 这一市场的雏形始于 2023 年黑石向 CoreWeave 提供的一笔 23 亿美元私募信贷，成为芯片抵押债务的首单标志性交易。如今，博通正与华尔街机构磋商为 Anthropic 安排 600 亿美元芯片融资，SpaceX 据报正寻求为英伟达芯片融资 400 亿美元，英伟达本身亦宣布与六大贷款机构达成 5000 亿美元合作框架。获得满意答案后，黑石于 2023 年主导完成了对 CoreWeave 的 23 亿美元私募信贷，开创了芯片抵押债务融资的先例。 华尔街见闻 2 小时前](https://wallstreetcn.com/articles/3784352)
+6. [Hugging Face 推出 Carbon-X：基于千问，让科学家「与 DNA 对话」 Hugging Face 本周四推出新模型 Carbon-X，瞄准生物学家的痛点：让研究 DNA、开发新基因疗法更轻松。它基于千问 Qwen3-14B，由 Hugging Face 联合意、中实验室，用涵盖人类、哺乳动物、植物与真菌的基因组数据重训。在五项 DNA 基准里，Carbon-X 胜过所有受评开源对手，平均分逼近 GPT-6.1 Sol，可单题推理成本仅为其 1 / 1800。 AIBase 10 小时前](https://www.aibase.com/zh/news/31841)
+7. [覆盖存、拣、运全场景，海康机器人 2026 移动机器人新品发布会举行 深耕制造业一线十余年，海康机器人以 AI 为全业务基座，业务覆盖机器视觉、移动机器人、关节机器人与具身机器人，通过 1000 余个细分应用场景的落地，沉淀了扎实的技术能力与丰富的场景经验。海康机器人以「全链・进化」为主题，举办 2026 移动机器人新品发布会暨 CeMAT 预展专场，聚焦「存、拣、运」全流程，发布箱式方案全新升级并推出「明智」系列单体智能产品，构建覆盖箱式存拣与搬运配送的厂内物流全链路解决方案。在效率提升上，海康机器人升级了方案内 STU 料箱机器人与 T50 潜伏机器人的分工模式：STU 承接巷道内全程任务，T50 仅在巷道口缓存位接驳，任务链距离缩短 50% 以上。 雷锋网 8 小时前](https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html)
+8. [Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕 在科技播客《Sources》的最新访谈里，谷歌 CEO 桑达尔・皮查伊复盘了这次发布的细节，也第一次把过去几个月外界最困惑的几件事摊开讲清 —— 那个曾在 I / O 大会上被点名的 Gemini 3.5 Pro 去哪了，DeepMind 的高层为何突然洗牌，以及下一代模型到底长什么样。在算力受限的环境里，再发一个生命周期极短的 3.5 Pro 显然不划算，团队于是把 Flash 验证成功的所有技术积累，直接注入了 Argon 的后训练阶段。他本人也成了这套新流程的受益者 —— 每天运行 Agent 汇总预训练、中训练、后训练和数据群组的 24 小时进展，省下约一小时的信息同步时间，并借接入遥测数据的 Agent 实时监控各部门的算力效率。 AIBase 10 小时前](https://www.aibase.com/zh/news/31840)
+9. [OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间 OpenAI 联合 PerturbAI 和斯克里普斯研究所（Scripps Research），利用数千个 AI 智能体分析数百万个小鼠脑细胞的生物学数据，整个分析过程仅耗时 32 分钟。研究团队估计，如果由人类研究人员逐项分析实验结果并检索相关文献，完成同等工作可能需要数月到一年。根据 OpenAI 10 月 21 日发布的介绍，这项研究使用了专为生命科学研究设计的 GPT-Rosalind 模型，分析一份覆盖整个小鼠大脑的 CRISPR 图谱。 IT 之家 3 小时前](https://www.ithome.com/1/017/274.htm)
+10. [美国拟在数千英亩公共土地上建设 AI 数据中心，土地记录显示已规划 35 个相关开发项目 其中 17 份申请是建设数据中心园区，另有 13 份是建设支持 AI 数据中心的基础设施。西部优先中心指出，部分提案规模远超典型数据中心，例如 Valar Atomics 提交的一个 9000 英亩 AI 数据中心开发项目，将由小型模块化核反应堆供电。数据中心开发商在规划 AI 数据中心的地区遭遇当地居民强烈抵制，已演变成一场遍及全美的反数据中心运动。 techradar.com 23 分钟前](https://www.techradar.com/pro/the-us-wants-to-fill-thousands-of-acres-of-public-land-with-ai-data-centers-land-records-show-35-data-center-related-developments-are-planned-so-far)
