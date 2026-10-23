@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-24 01:10:33
+> 更新时间：2026-10-24 02:15:02
 
 ## 新闻热榜
 
-1. [利好来了！国家发改委重磅发声](https://news.sina.com.cn/c/2026-10-20/doc-inivwyqz7711795.shtml)
-2. [新央企，领导班子亮相](https://news.sina.com.cn/c/2026-10-21/doc-inivwyrf6405508.shtml)
-3. [外媒爆料：中国收紧供应，日本关键稀土“仅能维持数月，要考虑的是如何熬过明年”](https://news.sina.com.cn/c/2026-10-20/doc-inivwyrc5672991.shtml)
-4. [中国向阿联酋交付首架飞行汽车](https://news.sina.com.cn/zx/gj/2026-10-21/doc-inivxvuv6220001.shtml)
-5. [中国、俄罗斯悄悄开始新的北极合作](https://news.sina.com.cn/c/2026-10-21/doc-inivxrpa4693127.shtml)
-6. [“神探”李昌钰，即将安葬扬州](https://news.sina.com.cn/zx/2026-10-21/doc-inivynsm5421883.shtml)
-7. [“台独”势力给周杰伦“扣帽子” 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5461575.shtml)
-8. [民进党当局拒绝艺人张凌赫赴台交流 国台办回应](https://news.sina.com.cn/c/2026-10-21/doc-inivyaat6180307.shtml)
-9. [公安部网安局：“肖某演唱会第一排门票25万元”不实](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4796887.shtml)
-10. [地方政府密集尝试提前还债](https://news.sina.com.cn/o/2026-10-21/doc-inivyaar5502695.shtml)
-11. [法国一军机坠毁，一名飞行员遗体已被找到](https://news.sina.com.cn/w/2026-10-21/doc-inivyhkr6245684.shtml)
-12. [A股近一个月融资净流出超千亿 杠杆资金“后撤待命” 两融余额不断刷新年内新低](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxrny7930209.shtml)
-13. [乌克兰被限速使用“星盾”，“是马斯克下令”](https://news.sina.com.cn/w/2026-10-21/doc-inivxvuw7950609.shtml)
-14. [重庆坠亡幼童父亲没有一句道歉半点愧疚](https://news.sina.com.cn/c/2026-10-21/doc-inivyaar5538381.shtml)
-15. [跑不了了，中国“AI禁令”震动全球](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4863018.shtml)
-16. [星巴克10月22日起在中国施行消费入座，门店将摆放提示牌](https://news.sina.com.cn/c/2026-10-21/doc-inivyaaw4749631.shtml)
-17. [SpaceX和特斯拉合并？马斯克表态](https://news.sina.com.cn/w/2026-10-21/doc-inivyhks7964477.shtml)
-18. [美方发布对劳尔·卡斯特罗逮捕令，外交部：坚定支持古巴维护国家主权](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivynsq8020727.shtml)
-19. [宣布赠股后，马斯克被美媒扒出欠捐历史](https://news.sina.com.cn/o/2026-10-21/doc-inivxrny7944987.shtml)
-20. [中国拟对12项光伏技术出口管制：严防核心技术外流，领先优势难被超越](https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxvuy4678297.shtml)
+1. [“营收直接翻倍”！广交会客商“扫货”华强北](https://news.sina.com.cn/c/2026-10-21/doc-inivxrnx6311944.shtml)
+2. [苏群：76人的配合是多巨头球队很难见到的 尤其是得分分布很平均](https://sports.sina.com.cn/basketball/nba/2026-10-21/doc-inivyhkr6237599.shtml)
+3. [Meta：我们将在论坛上推出新工具。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5038346.shtml)
+4. [黄仁勋最新涉华发声](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwaa8277084.shtml)
+5. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
+6. [四川合纵药易购财报解读：扣非净利润大降75.03% 经营现金流转正增超200%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-23/doc-iniwfrue8235956.shtml)
+7. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
+8. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
+9. [10月23日美股盘中：三大指数集体下跌，AI融资担忧持续发酵，布伦特原油升破115美元](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfrue8370502.shtml)
+10. [全球首个！“返老还童针”注入人体](https://news.sina.com.cn/c/2026-10-23/doc-iniweuqs4893153.shtml)
+11. [欧洲股市连续第二天下跌，沃尔沃汽车一度暴跌32%，油价上涨推动能源股走强](https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwfwae5070500.shtml)
+12. [持续领跑，中国拿下全球81.8%的新船订单](https://news.sina.com.cn/c/2026-10-23/doc-iniwfmnn1889202.shtml)
+13. [德国总统施泰因迈尔将访华](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1907824.shtml)
+14. [A股大反攻，胡锡进：今晚不用“关灯吃面”，感谢国家队，希望今天是转折点](https://finance.sina.com.cn/roll/2026-10-23/doc-iniweywn8168044.shtml)
+15. [菲大使抛出“东盟版北约”，还提到中国](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrun2551186.shtml)
+16. [以军总参谋长：已在所有战线进入最高戒备状态](https://news.sina.com.cn/w/2026-10-23/doc-iniwfruh5141237.shtml)
+17. [时政新闻眼丨如何走好新的长征路？习近平提出“五个必须”](https://news.sina.com.cn/c/xl/2026-10-23/doc-iniweqhw1986350.shtml)
+18. [28岁女子陪丈夫看病，意外得知腹中胎儿已接近足月](https://news.sina.com.cn/s/2026-10-23/doc-iniweyws1919323.shtml)
+19. [全国蛋价跌回“4元时代”](https://finance.sina.com.cn/wm/2026-10-23/doc-iniweywu2651700.shtml)
+20. [大锤砸掉硫磺岛纪念雕像头颅，27岁男子被捕](https://news.sina.com.cn/w/2026-10-23/doc-iniwffes2679326.shtml)
 
 ## 财经热榜
 
