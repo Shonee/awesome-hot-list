@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-24 04:12:23
+> 更新时间：2026-10-24 05:12:05
 
 ## 最新帖子
 
@@ -53,6 +53,6 @@
 1. [3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布](https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body)
 2. [有人用纯 C# 写了个语音识别引擎，README 比代码还好看](https://www.cnblogs.com/shanyou/p/23404953)
 3. [PHP2Shell：AI 两天挖出 9.2 分漏洞，让全球 70% 网站连夜打补丁](https://www.cnblogs.com/xiaobaiysf/p/23397061)
-4. [23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？](https://www.cnblogs.com/zh94/p/23394370)
-5. [你的WorkBuddy不好用，大概率是这些配置没设置好](https://www.cnblogs.com/xiezhr/p/23408411)
-6. [这 8 个 NuGet 包，项目直接起飞](https://www.cnblogs.com/shenchuanchao/p/23374408/8-nuget-packages-project-takeoff)
+4. [你的WorkBuddy不好用，大概率是这些配置没设置好](https://www.cnblogs.com/xiezhr/p/23408411)
+5. [这 8 个 NuGet 包，项目直接起飞](https://www.cnblogs.com/shenchuanchao/p/23374408/8-nuget-packages-project-takeoff)
+6. [让 Agent 把视频做出来：DeepSeek Harness × DeepSeek-V4.1-Flash 视频生产流水线](https://www.cnblogs.com/znlgis/p/23402179)

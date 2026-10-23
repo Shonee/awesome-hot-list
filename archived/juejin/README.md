@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-24 04:12:20
+> 更新时间：2026-10-24 05:11:57
 
 ## 热门文章
 
@@ -44,13 +44,13 @@
 38. [一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏](https://juejin.cn/post/7699372774716801034)
 39. [从数字化到数智化：3D 可视化大屏的下一个五年](https://juejin.cn/post/7699300052456701952)
 40. [GitHub 日榜趋势速报 | 2026-10-21](https://juejin.cn/post/7698614955540922419)
-41. [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163)
-42. [我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一](https://juejin.cn/post/7699123334672089107)
+41. [我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一](https://juejin.cn/post/7699123334672089107)
+42. [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163)
 43. [重新思考 Workrun：AI 时代，我们还需要手动编排 Workflow 吗？](https://juejin.cn/post/7698753872017768502)
 44. [前端对接聊天 API：我用 React 做了一个比 ChatGPT 还好看的界面](https://juejin.cn/post/7698623001063784463)
 45. [AI 都这么强了，咱们程序员以后还能干点啥？](https://juejin.cn/post/7699679577757335587)
 46. [AI Agent 之 用户记忆和知识库](https://juejin.cn/post/7699243153375543337)
-47. [【Compose Multiplatform跨端声明式UI实用技术】第9课：跨平台 ViewModel 与状态架构](https://juejin.cn/post/7698949568277757994)
-48. [React Compiler正式“Rust化”：你项目里的Babel插件，正在被编译进打包器](https://juejin.cn/post/7698926507611996223)
-49. [为什么越来越多人用Eino？](https://juejin.cn/post/7699025083108655138)
+47. [为什么越来越多人用Eino？](https://juejin.cn/post/7699025083108655138)
+48. [【Compose Multiplatform跨端声明式UI实用技术】第9课：跨平台 ViewModel 与状态架构](https://juejin.cn/post/7698949568277757994)
+49. [React Compiler正式“Rust化”：你项目里的Babel插件，正在被编译进打包器](https://juejin.cn/post/7698926507611996223)
 50. [初试短视频生成：豆包将我梦中的场景画出来了~](https://juejin.cn/post/7698983022057652278)

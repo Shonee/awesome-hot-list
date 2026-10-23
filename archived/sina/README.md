@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-24 04:12:44
+> 更新时间：2026-10-24 05:12:22
 
 ## 新闻热榜
 
@@ -8,22 +8,21 @@
 2. [黄仁勋最新涉华发声](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwaa8277084.shtml)
 3. [Meta：我们将在论坛上推出新工具。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5038346.shtml)
 4. [Frasers：因其持股已超 50%，雨果博斯（Hugo Boss）将成为其子公司。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5117161.shtml)
-5. [特朗普：或与马斯克沟通乌克兰使用“星链”受限问题](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5023842.shtml)
-6. [合纵药易购2024年财报解读：扣非净利润大降75.03% 经营现金流同比增207.76%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-23/doc-iniwfrue8235956.shtml)
-7. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
-8. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
-9. [ICE柴油投机客在截至10月20日当周将净多头头寸增加161份合约，至75,622份。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5114566.shtml)
-10. [美国参议员科林斯：蓝莓、马铃薯、苹果以及海藻生产商将获得加拿大关税减免。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5001767.shtml)
-11. [特朗普谈阿拉斯加诉讼：是我说这么做的。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5127938.shtml)
-12. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
-13. [富国：中期选举前宜押注美债上涨、做空美元](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwaa8332370.shtml)
-14. [月之暗面发布Kimi K3.1Pro和K3.1ProHighspeed](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5100438.shtml)
-15. [WTI 12月原油期货收报103.27美元/桶。NYMEX 11月天然气期货收报2.64美元/百万英热单位。NYMEX 11月汽油期货收报3.2116美元/加仑，NYMEX 1](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaiy8246550.shtml)
-16. [四川合纵药易购2022年财报解读：扣非净利润大增2040.49% 业务扩张背后暗藏多重风险](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-23/doc-iniwfrue8251147.shtml)
-17. [10月23日美股盘中：三大指数集体下跌，AI融资担忧持续发酵，布伦特原油升破115美元](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfrue8370502.shtml)
-18. [欧洲股市连续第二天下跌，沃尔沃汽车一度暴跌32%，油价上涨推动能源股走强](https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwfwae5070500.shtml)
-19. [全球首个！“返老还童针”注入人体](https://news.sina.com.cn/c/2026-10-23/doc-iniweuqs4893153.shtml)
-20. [持续领跑，中国拿下全球81.8%的新船订单](https://news.sina.com.cn/c/2026-10-23/doc-iniwfmnn1889202.shtml)
+5. [四川合纵药易购财报解读：归母净利润大降72.87%，经营现金流增超2倍释放修复信号](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-23/doc-iniwfrue8235956.shtml)
+6. [特朗普：或与马斯克沟通乌克兰使用“星链”受限问题](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5023842.shtml)
+7. [Anthropic推出Claude Duet智能体研究预览版。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5068322.shtml)
+8. [OpenAI认为现有安全措施足以支持重启前沿强化学习训练。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaiy8283998.shtml)
+9. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
+10. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
+11. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
+12. [ICE柴油投机客在截至10月20日当周将净多头头寸增加161份合约，至75,622份。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5114566.shtml)
+13. [美国参议员科林斯：蓝莓、马铃薯、苹果以及海藻生产商将获得加拿大关税减免。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5001767.shtml)
+14. [特朗普谈阿拉斯加诉讼：是我说这么做的。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5127938.shtml)
+15. [富国：中期选举前宜押注美债上涨、做空美元](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwaa8332370.shtml)
+16. [月之暗面发布Kimi K3.1Pro和K3.1ProHighspeed](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5100438.shtml)
+17. [财捷集团成交量放大下跌，股价最新跌3.0%。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5042585.shtml)
+18. [WTI 12月原油期货收报103.27美元/桶。NYMEX 11月天然气期货收报2.64美元/百万英热单位。NYMEX 11月汽油期货收报3.2116美元/加仑，NYMEX 1](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaiy8246550.shtml)
+19. [福特汽车公司股价在成交量激增后出现下跌，最新跌幅达3.0%。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaiy8274640.shtml)
 
 ## 财经热榜
 
