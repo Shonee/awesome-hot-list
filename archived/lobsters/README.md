@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-23 12:15:22
+> 更新时间：2026-10-23 13:13:00
 
 ## Hottest
 
@@ -19,13 +19,13 @@
 13. [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 14. [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
 15. [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
-16. [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
-17. [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)
-18. [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-19. [Header Accordions: QPACK amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
-20. [What is your opinion on submission quality since the `vibecoding` tag was removed?](https://lobste.rs/s/nmurnh)
-21. [Railway Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-22. [CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes](https://www.openwall.com/lists/oss-security/2026/10/21/18)
-23. [Garmin Revamps and Opens Up Connect Developer API Program](https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html)
-24. [zls 0.17.0](https://zigtools.org/zls/releases/0.17.0/)
-25. [Understanding Nix flakes](https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/)
+16. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
+17. [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+18. [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)
+19. [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+20. [Header Accordions: QPACK amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
+21. [What is your opinion on submission quality since the `vibecoding` tag was removed?](https://lobste.rs/s/nmurnh)
+22. [Railway Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+23. [CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes](https://www.openwall.com/lists/oss-security/2026/10/21/18)
+24. [Garmin Revamps and Opens Up Connect Developer API Program](https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html)
+25. [The Hibernate Origin Story (Outsider Edition)](https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story)

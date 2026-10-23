@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 12:14:14
+> 更新时间：2026-10-23 13:12:17
 
 ## 新闻热榜
 
@@ -30,20 +30,20 @@
 1. [操盘必读：影响股市利好或利空消息_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-23/doc-iniwecsw8116494.shtml)
 2. [纳指重挫近700点！Meta跌近7%，SpaceX暴泻超9%，芯片股遭抛售，金价逼近4000美元](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwecsy4872439.shtml)
 3. [财经早报丨360亿元增量资金将涌入A股 AI龙头股未出现网传连锁强平现象丨2026年10月23日](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniweiyt5620440.shtml)
-4. [A股回购增持潮起 硬科技公司密集出手](https://finance.sina.com.cn/roll/2026-10-23/doc-iniwctca8168542.shtml)
-5. [西藏那曲巴青7.0级地震已致16人遇难46人受伤](https://finance.sina.com.cn/wm/2026-10-23/doc-iniwecsy4874002.shtml)
-6. [玉渊谭天丨“中国AI禁令”是怎么回事？是不是政策转向的信号？](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyu8031101.shtml)
-7. [娃哈哈集团法定代表人、董事长许思敏被曝辞职](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyw4816797.shtml)
-8. [10月23日收盘：美股三大指数涨跌不一 纳指创6月以来最大跌幅 国际油价大涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5746324.shtml)
-9. [14亿自购护盘！首批18只主动ETF今日开售，11位百亿老将压阵，“老带新”模式成标配，最快7天收官](https://finance.sina.com.cn/money/fund/original/2026-10-23/doc-iniweiyu8051412.shtml)
-10. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
-11. [特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5775123.shtml)
+4. [玉渊谭天丨“中国AI禁令”是怎么回事？是不是政策转向的信号？](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyu8031101.shtml)
+5. [A股回购增持潮起 硬科技公司密集出手](https://finance.sina.com.cn/roll/2026-10-23/doc-iniwctca8168542.shtml)
+6. [娃哈哈集团法定代表人、董事长许思敏被曝辞职](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyw4816797.shtml)
+7. [14亿自购护盘！首批18只主动ETF今日开售，11位百亿老将压阵，“老带新”模式成标配，最快7天收官](https://finance.sina.com.cn/money/fund/original/2026-10-23/doc-iniweiyu8051412.shtml)
+8. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
+9. [西藏那曲巴青7.0级地震已致16人遇难46人受伤](https://finance.sina.com.cn/wm/2026-10-23/doc-iniwecsy4874002.shtml)
+10. [特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5775123.shtml)
+11. [10月23日收盘：美股三大指数涨跌不一 纳指创6月以来最大跌幅 国际油价大涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5746324.shtml)
 12. [股海导航_2026年10月23日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-23/doc-iniwecsy4889161.shtml)
 13. [突发！沙特国防部和原油设施遇袭！刚刚，黄金、白银、纳指暴跌，油价大涨！恐慌情绪蔓延！普京重磅发声](https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniwecst4991282.shtml)
-14. [四大证券报头版头条内容精华摘要_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniwecsv5719281.shtml)
-15. [美元指数22日下跌](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4975612.shtml)
-16. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
-17. [“易中天”、东山精密，最新发声！](https://finance.sina.com.cn/stock/zqgd/2026-10-23/doc-iniwecsy4902540.shtml)
+14. [西藏巴青7.0级地震已致16人遇难54人受伤，记录到余震413次](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyw4864013.shtml)
+15. [“易中天”、东山精密，最新发声！](https://finance.sina.com.cn/stock/zqgd/2026-10-23/doc-iniwecsy4902540.shtml)
+16. [四大证券报头版头条内容精华摘要_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniwecsv5719281.shtml)
+17. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
 18. [中国人不开的全地形车，卖到美国有多挣钱？](https://finance.sina.com.cn/wm/2026-10-23/doc-iniwecsv5731129.shtml)
-19. [西藏巴青7.0级地震已致16人遇难54人受伤，记录到余震413次](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyw4864013.shtml)
-20. [10月23日隔夜要闻：美股三大指数涨跌不一 中概股普跌 油价上涨 铜价金价走低 西部数据财报大超预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsv5686158.shtml)
+19. [现货黄金跌破4000美元大关，国内金饰价格下调](https://finance.sina.com.cn/roll/2026-10-23/doc-iniweqhp4860164.shtml)
+20. [美元指数22日下跌](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4975612.shtml)

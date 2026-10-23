@@ -1,12 +1,12 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-23 12:14:38
+> 更新时间：2026-10-23 13:12:22
 
 ## 热点资讯排行
 
 1. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
-2. ["沫子杯"正式定档10月28日！送沫子定制可加热杯子](https://www.gamersky.com/news/202610/2230351.shtml)
-3. [腾讯新游《人间异想计划》首曝22分钟实机！开放世界RPG 登PC/主机](https://www.gamersky.com/news/202610/2232226.shtml)
+2. [腾讯新游《人间异想计划》首曝22分钟实机！开放世界RPG 登PC/主机](https://www.gamersky.com/news/202610/2232226.shtml)
+3. ["沫子杯"正式定档10月28日！送沫子定制可加热杯子](https://www.gamersky.com/news/202610/2230351.shtml)
 4. [《COD现代战争4》战役惨遭破解！离线就能玩](https://www.gamersky.com/news/202610/2230469.shtml)
 5. [NS2也被破解了！惨无人道 任天堂还是没防住](https://www.gamersky.com/news/202610/2233351.shtml)
 6. [《COD23》DLSS5实机绝了!太逼真像实拍 和电影一样](https://www.gamersky.com/news/202610/2232210.shtml)
