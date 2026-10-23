@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-23 22:16:12
+> 更新时间：2026-10-23 23:12:19
 
 ## 最有料热点
 
@@ -23,7 +23,7 @@
 17. [巴黎LV店玻璃太厚,暴徒砸不穿](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367947&topic_name=%E5%B7%B4%E9%BB%8ELV%E5%BA%97%E7%8E%BB%E7%92%83%E5%A4%AA%E5%8E%9A%2C%E6%9A%B4%E5%BE%92%E7%A0%B8%E4%B8%8D%E7%A9%BF)
 18. [原来还有这么可爱的表情包](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367953&topic_name=%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85)
 19. [大肥鱼遭群友霸凌后退群](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367943&topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BE%A4%E5%8F%8B%E9%9C%B8%E5%87%8C%E5%90%8E%E9%80%80%E7%BE%A4)
-20. [炉石服务器频掉线,玩家暴怒](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367937&topic_name=%E7%82%89%E7%9F%B3%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%A2%91%E6%8E%89%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9A%B4%E6%80%92)
+20. [豆包被区别对待,形象拖后腿](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367984&topic_name=%E8%B1%86%E5%8C%85%E8%A2%AB%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%2C%E5%BD%A2%E8%B1%A1%E6%8B%96%E5%90%8E%E8%85%BF)
 21. [星巴克国内施行消费入座](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367946&topic_name=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%9B%BD%E5%86%85%E6%96%BD%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7)
 22. [AG遭TES淘汰,创年总最差战绩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367927&topic_name=AG%E9%81%ADTES%E6%B7%98%E6%B1%B0%2C%E5%88%9B%E5%B9%B4%E6%80%BB%E6%9C%80%E5%B7%AE%E6%88%98%E7%BB%A9)
 23. [吧友聊保研,竞赛科研全拆解](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367934&topic_name=%E5%90%A7%E5%8F%8B%E8%81%8A%E4%BF%9D%E7%A0%94%2C%E7%AB%9E%E8%B5%9B%E7%A7%91%E7%A0%94%E5%85%A8%E6%8B%86%E8%A7%A3)
@@ -33,4 +33,3 @@
 27. [霓虹12岁女生抢劫86岁店主](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367923&topic_name=%E9%9C%93%E8%99%B912%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8A%A2%E5%8A%AB86%E5%B2%81%E5%BA%97%E4%B8%BB)
 28. [湿剃两年半,吧友盘点良心皂](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367874&topic_name=%E6%B9%BF%E5%89%83%E4%B8%A4%E5%B9%B4%E5%8D%8A%2C%E5%90%A7%E5%8F%8B%E7%9B%98%E7%82%B9%E8%89%AF%E5%BF%83%E7%9A%82)
 29. [两游客误闯法国暴乱,淡定拖箱](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367920&topic_name=%E4%B8%A4%E6%B8%B8%E5%AE%A2%E8%AF%AF%E9%97%AF%E6%B3%95%E5%9B%BD%E6%9A%B4%E4%B9%B1%2C%E6%B7%A1%E5%AE%9A%E6%8B%96%E7%AE%B1)
-30. [显卡断供,DIY玩家输麻了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367880&topic_name=%E6%98%BE%E5%8D%A1%E6%96%AD%E4%BE%9B%2CDIY%E7%8E%A9%E5%AE%B6%E8%BE%93%E9%BA%BB%E4%BA%86)

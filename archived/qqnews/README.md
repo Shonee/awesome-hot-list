@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-23 22:14:50
+> 更新时间：2026-10-23 23:11:46
 
 ## 热点榜
 
@@ -16,11 +16,11 @@
 10. [全国秋粮收获过八成](https://view.inews.qq.com/a/20261023A0DEU700)
 11. [警惕涉西藏巴青7.0级地震不实信息（2026·10·23）](https://www.piyao.org.cn/20261023/cdf3fadcacc94f70b05bd6189499f0c3/c.html)
 12. [视频丨截至今日13时 西藏巴青地震已致16人遇难、76人受伤](https://view.inews.qq.com/a/20261023A08T7A00)
-13. [这次，中美合作，打破了世界纪录！](https://view.inews.qq.com/a/20261023A0923B00)
+13. [“伊朗已向中东地区国家发出最后通牒”](https://view.inews.qq.com/a/20261023A09KK000)
 14. [震惊全美！美国二战标志性雕像被“斩首”](https://view.inews.qq.com/a/20261023A0C72W00)
-15. [“伊朗已向中东地区国家发出最后通牒”](https://view.inews.qq.com/a/20261023A09KK000)
-16. [女子称在星巴克店内开会1小时被提醒点单5次；星巴克回应：我们倡导友善共享，相互尊重，而非冲突，会结合门店实际情况灵活处理](https://view.inews.qq.com/a/20261023A079OI00)
-17. [白宫称俄乌同意在奥列什基暂时停火](https://view.inews.qq.com/a/20261023A0E07K00)
-18. [全球首个！“返老还童针”注入人体](https://view.inews.qq.com/a/20261023A06V0D00)
-19. [百亿龙头净利暴增超19400%](https://view.inews.qq.com/a/20261023A0DOU400)
-20. [美国稀土大项目，黄了](https://view.inews.qq.com/a/20261023A0DQHS00)
+15. [女子称在星巴克店内开会1小时被提醒点单5次；星巴克回应：我们倡导友善共享，相互尊重，而非冲突，会结合门店实际情况灵活处理](https://view.inews.qq.com/a/20261023A079OI00)
+16. [白宫称俄乌同意在奥列什基暂时停火](https://view.inews.qq.com/a/20261023A0E07K00)
+17. [这次，中美合作，打破了世界纪录！](https://view.inews.qq.com/a/20261023A0923B00)
+18. [百亿龙头净利暴增超19400%](https://view.inews.qq.com/a/20261023A0DOU400)
+19. [美国稀土大项目，黄了](https://view.inews.qq.com/a/20261023A0DQHS00)
+20. [全球首个！“返老还童针”注入人体](https://view.inews.qq.com/a/20261023A06V0D00)
