@@ -1,27 +1,27 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-23 19:12:17
+> 更新时间：2026-10-23 20:17:02
 
 ## 人气热门
 
-1. [全能下载工具Motrix v2.0.0-beta.52](https://www.52pojie.cn/thread-2133111-1-1.html)
-2. [龙日历 v5.0](https://www.52pojie.cn/thread-2133423-1-1.html)
-3. [宗谱管理系统 v7.0](https://www.52pojie.cn/thread-2133400-1-1.html)
-4. [更新！！！网页视频嗅探器VideoSniffer V3.0](https://www.52pojie.cn/thread-2133218-1-1.html)
-5. [音视频无损剪切合并LosslessCut v3.70.1](https://www.52pojie.cn/thread-2133483-1-1.html)
-6. [win71011共享设置和综合小工具](https://www.52pojie.cn/thread-2133406-1-1.html)
-7. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
-8. [局域网文件共享工具V1.3](https://www.52pojie.cn/thread-2133092-1-1.html)
-9. [（更新）证件照处理工具261021](https://www.52pojie.cn/thread-2131772-1-1.html)
-10. [户外生存工具箱 Trail Sense v8.2.0](https://www.52pojie.cn/thread-2133653-1-1.html)
-11. [《剪映悬浮球助手V2.3》支持最新剪映](https://www.52pojie.cn/thread-2132915-1-1.html)
-12. [文件外发暗水印工具](https://www.52pojie.cn/thread-2133586-1-1.html)
-13. [【全插件】IDA Pro 9.4 绿化便携+美化版 震撼发布！](https://www.52pojie.cn/thread-2132978-1-1.html)
-14. [Filee-1.10.0免费开源的离线文件格式转换工具](https://www.52pojie.cn/thread-2132113-1-1.html)
-15. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
-16. [Cppcryptfs 文件夹挂载加密 v1.4.5.0 汉化版](https://www.52pojie.cn/thread-2133267-1-1.html)
-17. [(更新）拼图打印工具V1.4](https://www.52pojie.cn/thread-2131727-1-1.html)
-18. [玫枫五笔 1.0.1](https://www.52pojie.cn/thread-2133562-1-1.html)
+1. [更新！！！网页视频嗅探器VideoSniffer V3.0](https://www.52pojie.cn/thread-2133218-1-1.html)
+2. [玫枫五笔 1.0.1](https://www.52pojie.cn/thread-2133562-1-1.html)
+3. [win71011共享设置和综合小工具](https://www.52pojie.cn/thread-2133406-1-1.html)
+4. [龙日历 v5.0](https://www.52pojie.cn/thread-2133423-1-1.html)
+5. [全能下载工具Motrix v2.0.0-beta.52](https://www.52pojie.cn/thread-2133111-1-1.html)
+6. [宗谱管理系统 v7.0](https://www.52pojie.cn/thread-2133400-1-1.html)
+7. [音视频无损剪切合并LosslessCut v3.70.1](https://www.52pojie.cn/thread-2133483-1-1.html)
+8. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
+9. [局域网文件共享工具V1.3](https://www.52pojie.cn/thread-2133092-1-1.html)
+10. [（更新）证件照处理工具261021](https://www.52pojie.cn/thread-2131772-1-1.html)
+11. [户外生存工具箱 Trail Sense v8.2.0](https://www.52pojie.cn/thread-2133653-1-1.html)
+12. [《剪映悬浮球助手V2.3》支持最新剪映](https://www.52pojie.cn/thread-2132915-1-1.html)
+13. [文件外发暗水印工具](https://www.52pojie.cn/thread-2133586-1-1.html)
+14. [【全插件】IDA Pro 9.4 绿化便携+美化版 震撼发布！](https://www.52pojie.cn/thread-2132978-1-1.html)
+15. [Filee-1.10.0免费开源的离线文件格式转换工具](https://www.52pojie.cn/thread-2132113-1-1.html)
+16. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
+17. [Cppcryptfs 文件夹挂载加密 v1.4.5.0 汉化版](https://www.52pojie.cn/thread-2133267-1-1.html)
+18. [(更新）拼图打印工具V1.4](https://www.52pojie.cn/thread-2131727-1-1.html)
 19. [电视软件清理 cleanyourtv v2.4.0](https://www.52pojie.cn/thread-2133520-1-1.html)
 20. [ImageSeeker图片查找工具1.0](https://www.52pojie.cn/thread-2133734-1-1.html)
 21. [打印助手 V6](https://www.52pojie.cn/thread-2132282-1-1.html)
@@ -57,10 +57,10 @@
 
 ## 精华采撷
 
-1. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
-2. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
-3. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
-4. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
+1. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
+2. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+3. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+4. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
 5. [企业微信聊天记录导出全解析](https://www.52pojie.cn/thread-2107745-1-1.html)
 6. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
 7. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
