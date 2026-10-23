@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-24 05:12:46
+> 更新时间：2026-10-24 06:12:15
 
 ## 日榜
 
@@ -15,4 +15,4 @@
 9. [博主晒苹果 iPhone Duo 手撕磨砂膜前后屏幕观感对比，操作只需一台家用吹风机](https://www.ithome.com/1/016/870.htm)
 10. [华为 Pura 90 Plus 线下展出，新机确认首发搭载麒麟 9025 处理器](https://www.ithome.com/1/016/862.htm)
 11. [微信员工谈适配 iPhone Duo 进度：最新 8.0.80 版本已初步适配，体验还会继续优化](https://www.ithome.com/1/017/193.htm)
-12. [小米王晓雁：友商近日发布新机后，REDMI K100 手机的预约量猛增](https://www.ithome.com/1/016/967.htm)
+12. [IT之家 - MADE FOR iPhone Duo](https://www.ithome.com/1/017/196.htm)

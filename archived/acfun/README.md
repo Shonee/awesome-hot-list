@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-24 05:11:54
+> 更新时间：2026-10-24 06:11:26
 
 ## 日榜
 
@@ -30,12 +30,12 @@
 24. [凯龙的2026武汉国际耳机展回顾](https://www.acfun.cn/v/ac48934839)
 25. [RolyPoly-韩流520](https://www.acfun.cn/v/ac48933079)
 26. [【UP创作大赛】黑子学姐万圣驱魔表演](https://www.acfun.cn/v/ac48932759)
-27. [练个舞](https://www.acfun.cn/v/ac42888254)
-28. [我的动作，怎么没人模仿](https://www.acfun.cn/v/ac48933477)
+27. [我的动作，怎么没人模仿](https://www.acfun.cn/v/ac48933477)
+28. [练个舞](https://www.acfun.cn/v/ac42888254)
 29. [澳门仔爱上成都餐馆！！](https://www.acfun.cn/v/ac48934484)
-30. [全员刺客，只剩打架！快速看完一局韩服王者斗殴局#875 Ucal, 小丑不贪, 芭芭巴, Quant](https://www.acfun.cn/v/ac48925223)
+30. [这下好了，全世界都是性转马尔福调戏波特同学](https://www.acfun.cn/v/ac48934205)
 31. [《你的心脏有多大》](https://www.acfun.cn/v/ac48932776)
-32. [这下好了，全世界都是性转马尔福调戏波特同学](https://www.acfun.cn/v/ac48934205)
+32. [全员刺客，只剩打架！快速看完一局韩服王者斗殴局#875 Ucal, 小丑不贪, 芭芭巴, Quant](https://www.acfun.cn/v/ac48925223)
 33. [为了吸引玩家，现在的肉鸽游戏究竟有多上头？？？](https://www.acfun.cn/v/ac48934447)
 34. [【Dina小崽】金色海岸出海咯~~](https://www.acfun.cn/v/ac48931540)
 35. [【动画】小狐与小狸 第二话「好多的红薯」](https://www.acfun.cn/v/ac48919544)
@@ -45,15 +45,15 @@
 39. [优颖酱 紫色很有韵味](https://www.acfun.cn/v/ac48933264)
 40. [【UP创作大赛】AI短片 写字楼复仇](https://www.acfun.cn/v/ac48932848)
 41. [这绝美的回归初舞台！ IVE - Looks Can Kill](https://www.acfun.cn/v/ac48933075)
-42. [Stellar-Marionette 提线木偶](https://www.acfun.cn/v/ac48934895)
-43. [#微胖 #短发](https://www.acfun.cn/v/ac48933047)
+42. [#微胖 #短发](https://www.acfun.cn/v/ac48933047)
+43. [Stellar-Marionette 提线木偶](https://www.acfun.cn/v/ac48934895)
 44. [安逸-20261021 bingbing](https://www.acfun.cn/v/ac48933506)
 45. [突然杀疯！真厕纸黑马！首集多重反转上演顶级观感！](https://www.acfun.cn/v/ac48934509)
 46. [cc君练舞日常](https://www.acfun.cn/v/ac39970958)
 47. [【初音ミク】LEGENDS【ryo (supercell)】](https://www.acfun.cn/v/ac48933089)
 48. [에스투잇 S2iT  세아  SEA - What I Want + 블루크러쉬](https://www.acfun.cn/v/ac48934112)
-49. [跟着一起跳吧！A2O LITE - NEON Mnet舞台LIVE](https://www.acfun.cn/v/ac48934003)
-50. [心事可以说给姐姐听喔～](https://www.acfun.cn/v/ac48934911)
+49. [心事可以说给姐姐听喔～](https://www.acfun.cn/v/ac48934911)
+50. [跟着一起跳吧！A2O LITE - NEON Mnet舞台LIVE](https://www.acfun.cn/v/ac48934003)
 
 ## 三日榜
 
