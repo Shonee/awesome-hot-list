@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-10-24 00:14:37
+> 更新时间：2026-10-24 01:10:57
 
 ## 日榜
 
-1. [陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆](https://www.ithome.com/1/016/751.htm)
-2. [华为阔折叠手机出货量破 321 万台：消息称 iPhone Duo 预售 6 天，Pura X Max 销量环比提升 38%](https://www.ithome.com/1/016/908.htm)
-3. [苹果 iPhone Duo 内屏磨砂膜能徒手撕下：秒变亮面屏，但小心损失 7998 元](https://www.ithome.com/1/016/797.htm)
-4. [方舟引擎新突破：华为详解 HarmonyOS 7 超空间存储 + 超空间内存技术](https://www.ithome.com/1/016/755.htm)
-5. [微信率先适配苹果 iPhone Duo 折叠屏手机，内屏支持分栏显示等功能](https://www.ithome.com/1/016/859.htm)
-6. [诋毁嘲讽尊界 S800，博主“赛车星冰乐”向尊界汽车道歉](https://www.ithome.com/1/017/086.htm)
-7. [直击苹果首款折叠屏 iPhone Duo 发售现场，首发日黄牛加价千元回收手机](https://www.ithome.com/1/016/785.htm)
-8. [微信 iOS 版 8.0.80 最新官方正式版下载发布，适配苹果 iPhone Duo 手机](https://www.ithome.com/1/016/838.htm)
-9. [在么在么（原死了么）宣布升级为智能养老平台，2.0 系统上线定价 199 元 / 年](https://www.ithome.com/1/016/834.htm)
-10. [博主晒苹果 iPhone Duo 手撕磨砂膜前后屏幕观感对比，操作只需一台家用吹风机](https://www.ithome.com/1/016/870.htm)
-11. [华为 Pura 90 Plus 线下展出，新机确认首发搭载麒麟 9025 处理器](https://www.ithome.com/1/016/862.htm)
-12. [华为 27 年老将、公司董事、全球采购认证管理部总裁彭博离职](https://www.ithome.com/1/017/111.htm)
+1. [华为阔折叠手机出货量破 321 万台：消息称 iPhone Duo 预售 6 天，Pura X Max 销量环比提升 38%](https://www.ithome.com/1/016/908.htm)
+2. [苹果 iPhone Duo 内屏磨砂膜能徒手撕下：秒变亮面屏，但小心损失 7998 元](https://www.ithome.com/1/016/797.htm)
+3. [微信率先适配苹果 iPhone Duo 折叠屏手机，内屏支持分栏显示等功能](https://www.ithome.com/1/016/859.htm)
+4. [诋毁嘲讽尊界 S800，博主“赛车星冰乐”向尊界汽车道歉](https://www.ithome.com/1/017/086.htm)
+5. [直击苹果首款折叠屏 iPhone Duo 发售现场，首发日黄牛加价千元回收手机](https://www.ithome.com/1/016/785.htm)
+6. [微信 iOS 版 8.0.80 最新官方正式版下载发布，适配苹果 iPhone Duo 手机](https://www.ithome.com/1/016/838.htm)
+7. [在么在么（原死了么）宣布升级为智能养老平台，2.0 系统上线定价 199 元 / 年](https://www.ithome.com/1/016/834.htm)
+8. [华为 27 年老将、公司董事、全球采购认证管理部总裁彭博离职](https://www.ithome.com/1/017/111.htm)
+9. [博主晒苹果 iPhone Duo 手撕磨砂膜前后屏幕观感对比，操作只需一台家用吹风机](https://www.ithome.com/1/016/870.htm)
+10. [华为 Pura 90 Plus 线下展出，新机确认首发搭载麒麟 9025 处理器](https://www.ithome.com/1/016/862.htm)
+11. [微信员工谈适配 iPhone Duo 进度：最新 8.0.80 版本已初步适配，体验还会继续优化](https://www.ithome.com/1/017/193.htm)
+12. [小米王晓雁：友商近日发布新机后，REDMI K100 手机的预约量猛增](https://www.ithome.com/1/016/967.htm)
