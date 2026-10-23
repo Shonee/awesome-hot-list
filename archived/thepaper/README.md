@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-23 10:18:26
+> 更新时间：2026-10-23 11:15:20
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？](https://www.thepaper.cn/newsDetail_forward_34310810)
 8. [北京市委常委、副市长夏林茂被查](https://www.thepaper.cn/newsDetail_forward_34308652)
 9. [马上评｜浮夸的医学真人秀：生命的考场不该是秀场](https://www.thepaper.cn/newsDetail_forward_34306298)
-10. [资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金](https://www.thepaper.cn/newsDetail_forward_34306536)
-11. [刘雪峰故意杀人案申诉进展：吉林省检不予支持，此前曾认为事实不清建议改判](https://www.thepaper.cn/newsDetail_forward_34306249)
-12. [言短意长｜一纸承诺之外，报刊防抄袭还能做什么](https://www.thepaper.cn/newsDetail_forward_34308648)
-13. [新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击](https://www.thepaper.cn/newsDetail_forward_34306120)
-14. [三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？](https://www.thepaper.cn/newsDetail_forward_34311103)
-15. [马上评｜拿120开玩笑，谁能笑得出来](https://www.thepaper.cn/newsDetail_forward_34308254)
-16. [被“开盒”后，胜诉与止损的距离](https://www.thepaper.cn/newsDetail_forward_34306727)
-17. [奇瑞尹同跃回应马来西亚车辆问题：出海不是收割，一定要谦虚低调](https://www.thepaper.cn/newsDetail_forward_34305443)
-18. [上海12岁少年登顶乞力马扎罗，母亲：不看重“最年轻”标签](https://www.thepaper.cn/newsDetail_forward_34301128)
-19. [IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险](https://www.thepaper.cn/newsDetail_forward_34308431)
-20. [解读｜俄乌释放重启三方会谈信号背后：立场未变，美国中期选举成关键变量？](https://www.thepaper.cn/newsDetail_forward_34310099)
+10. [言短意长｜课讲得好获奖10万元，该奖！](https://www.thepaper.cn/newsDetail_forward_34311714)
+11. [资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金](https://www.thepaper.cn/newsDetail_forward_34306536)
+12. [刘雪峰故意杀人案申诉进展：吉林省检不予支持，此前曾认为事实不清建议改判](https://www.thepaper.cn/newsDetail_forward_34306249)
+13. [三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？](https://www.thepaper.cn/newsDetail_forward_34311103)
+14. [被“开盒”后，胜诉与止损的距离](https://www.thepaper.cn/newsDetail_forward_34306727)
+15. [言短意长｜一纸承诺之外，报刊防抄袭还能做什么](https://www.thepaper.cn/newsDetail_forward_34308648)
+16. [新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击](https://www.thepaper.cn/newsDetail_forward_34306120)
+17. [马上评｜拿120开玩笑，谁能笑得出来](https://www.thepaper.cn/newsDetail_forward_34308254)
+18. [奇瑞尹同跃回应马来西亚车辆问题：出海不是收割，一定要谦虚低调](https://www.thepaper.cn/newsDetail_forward_34305443)
+19. [直播丨iPhone Duo上市首日：上手体验如何？直击提货现场](https://www.thepaper.cn/newsDetail_forward_34308703)
+20. [IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险](https://www.thepaper.cn/newsDetail_forward_34308431)

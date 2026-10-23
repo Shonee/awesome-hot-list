@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 10:18:33
+> 更新时间：2026-10-23 11:15:29
 
 ## 新闻热榜
 
@@ -29,21 +29,21 @@
 
 1. [操盘必读：影响股市利好或利空消息_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-23/doc-iniwecsw8116494.shtml)
 2. [纳指重挫近700点！Meta跌近7%，SpaceX暴泻超9%，芯片股遭抛售，金价逼近4000美元](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwecsy4872439.shtml)
-3. [10月23日收盘：美股三大指数涨跌不一 纳指创6月以来最大跌幅 国际油价大涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5746324.shtml)
+3. [财经早报丨360亿元增量资金将涌入A股 AI龙头股未出现网传连锁强平现象丨2026年10月23日](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniweiyt5620440.shtml)
 4. [西藏那曲巴青7.0级地震已致16人遇难46人受伤](https://finance.sina.com.cn/wm/2026-10-23/doc-iniwecsy4874002.shtml)
-5. [美元指数22日下跌](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4975612.shtml)
-6. [财经早报丨360亿元增量资金将涌入A股 AI龙头股未出现网传连锁强平现象丨2026年10月23日](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniweiyt5620440.shtml)
-7. [A股回购增持潮起 硬科技公司密集出手](https://finance.sina.com.cn/roll/2026-10-23/doc-iniwctca8168542.shtml)
-8. [特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5775123.shtml)
-9. [股海导航_2026年10月23日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-23/doc-iniwecsy4889161.shtml)
-10. [突发！沙特国防部和原油设施遇袭！刚刚，黄金、白银、纳指暴跌，油价大涨！恐慌情绪蔓延！普京重磅发声](https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniwecst4991282.shtml)
-11. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
-12. [Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937956.shtml)
-13. [10月23日隔夜要闻：美股三大指数涨跌不一 中概股普跌 油价上涨 铜价金价走低 西部数据财报大超预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsv5686158.shtml)
-14. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
+5. [10月23日收盘：美股三大指数涨跌不一 纳指创6月以来最大跌幅 国际油价大涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5746324.shtml)
+6. [A股回购增持潮起 硬科技公司密集出手](https://finance.sina.com.cn/roll/2026-10-23/doc-iniwctca8168542.shtml)
+7. [玉渊谭天丨“中国AI禁令”是怎么回事？是不是政策转向的信号？](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyu8031101.shtml)
+8. [股海导航_2026年10月23日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-10-23/doc-iniwecsy4889161.shtml)
+9. [特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5775123.shtml)
+10. [娃哈哈集团法定代表人、董事长许思敏被曝辞职](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyw4816797.shtml)
+11. [14亿自购护盘！首批18只主动ETF今日开售，11位百亿老将压阵，“老带新”模式成标配，最快7天收官](https://finance.sina.com.cn/money/fund/original/2026-10-23/doc-iniweiyu8051412.shtml)
+12. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
+13. [突发！沙特国防部和原油设施遇袭！刚刚，黄金、白银、纳指暴跌，油价大涨！恐慌情绪蔓延！普京重磅发声](https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniwecst4991282.shtml)
+14. [美元指数22日下跌](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4975612.shtml)
 15. [四大证券报头版头条内容精华摘要_2026年10月23日_财经新闻](https://finance.sina.com.cn/stock/y/2026-10-23/doc-iniwecsv5719281.shtml)
-16. [10月22日美股成交额前20名:科技股集体下挫，SpaceX解禁后收跌9.14%](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4871446.shtml)
-17. [DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。仍然看空久期偏长的美债。美国政府大幅举债和需求疲软将继续打压债市。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4912689.shtml)
-18. [智利财政部长表示，今年智利矿业产值可能萎缩约8%至9%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8141811.shtml)
-19. [美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4963768.shtml)
-20. [玉渊谭天丨“中国AI禁令”是怎么回事？是不是政策转向的信号？](https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweiyu8031101.shtml)
+16. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
+17. [10月23日隔夜要闻：美股三大指数涨跌不一 中概股普跌 油价上涨 铜价金价走低 西部数据财报大超预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsv5686158.shtml)
+18. [“易中天”、东山精密，最新发声！](https://finance.sina.com.cn/stock/zqgd/2026-10-23/doc-iniwecsy4902540.shtml)
+19. [10月22日美股成交额前20名:科技股集体下挫，SpaceX解禁后收跌9.14%](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4871446.shtml)
+20. [利好！300209，营收大增超5556%！多家A股公司，业绩翻倍](https://finance.sina.com.cn/wm/2026-10-23/doc-iniweiyw4780260.shtml)

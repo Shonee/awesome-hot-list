@@ -1,24 +1,24 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-23 10:19:14
+> 更新时间：2026-10-23 11:16:13
 
 ## Hottest
 
 1. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 2. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
 3. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
-4. [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
-5. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
+4. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
+5. [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
 6. [Objects, attributes, maps, oh my](https://bernsteinbear.com/blog/object-shapes/)
 7. [Expose only share links of a private service with caddy](https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html)
 8. [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
-9. [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
-10. [Please don't mess with links](https://maurycyz.com/misc/real_links/)
+9. [Please don't mess with links](https://maurycyz.com/misc/real_links/)
+10. [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
 11. [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 12. [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
-13. [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
-14. [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
-15. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
+13. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
+14. [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
+15. [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
 16. [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 17. [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)
 18. [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
