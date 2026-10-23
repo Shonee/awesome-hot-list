@@ -1,29 +1,29 @@
 # 哔哩哔哩热榜
 
-> 更新时间：2026-10-23 23:42:18
+> 更新时间：2026-10-24 00:13:34
 
 ## 热门搜索
 
 1. [西藏地震已致16死76伤](https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB76%E4%BC%A4)
-2. [刘晓艳 从四六级到科切拉](https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E4%BB%8E%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%B0%E7%A7%91%E5%88%87%E6%8B%89)
-3. [S赛各队都在练什么英雄](https://search.bilibili.com/all?keyword=S%E8%B5%9B%E5%90%84%E9%98%9F%E9%83%BD%E5%9C%A8%E7%BB%83%E4%BB%80%E4%B9%88%E8%8B%B1%E9%9B%84)
-4. [UP主花1000万反对滥用食品添加剂](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%8A%B11000%E4%B8%87%E5%8F%8D%E5%AF%B9%E6%BB%A5%E7%94%A8%E9%A3%9F%E5%93%81%E6%B7%BB%E5%8A%A0%E5%89%82)
+2. [S16瑞士轮第一日首发名单](https://search.bilibili.com/all?keyword=S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%B8%80%E6%97%A5%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95)
+3. [刘晓艳 从四六级到科切拉](https://search.bilibili.com/all?keyword=%E5%88%98%E6%99%93%E8%89%B3%20%E4%BB%8E%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%88%B0%E7%A7%91%E5%88%87%E6%8B%89)
+4. [S赛各队都在练什么英雄](https://search.bilibili.com/all?keyword=S%E8%B5%9B%E5%90%84%E9%98%9F%E9%83%BD%E5%9C%A8%E7%BB%83%E4%BB%80%E4%B9%88%E8%8B%B1%E9%9B%84)
 5. [抽到TES以后](https://search.bilibili.com/all?keyword=%E6%8A%BD%E5%88%B0TES%E4%BB%A5%E5%90%8E)
-6. [戴佩妮歌里的故事都是真的](https://search.bilibili.com/all?keyword=%E6%88%B4%E4%BD%A9%E5%A6%AE%E6%AD%8C%E9%87%8C%E7%9A%84%E6%95%85%E4%BA%8B%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84)
-7. [韩国总统为何提出迁都设想](https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%B8%BA%E4%BD%95%E6%8F%90%E5%87%BA%E8%BF%81%E9%83%BD%E8%AE%BE%E6%83%B3)
-8. [用现代电子游戏思路爆改围棋](https://search.bilibili.com/all?keyword=%E7%94%A8%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E6%80%9D%E8%B7%AF%E7%88%86%E6%94%B9%E5%9B%B4%E6%A3%8B)
-9. [印度的申奥和登月梦能实现吗](https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E7%94%B3%E5%A5%A5%E5%92%8C%E7%99%BB%E6%9C%88%E6%A2%A6%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%90%97)
+6. [韩国总统为何提出迁都设想](https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%B8%BA%E4%BD%95%E6%8F%90%E5%87%BA%E8%BF%81%E9%83%BD%E8%AE%BE%E6%83%B3)
+7. [UP主花1000万反对滥用食品添加剂](https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%8A%B11000%E4%B8%87%E5%8F%8D%E5%AF%B9%E6%BB%A5%E7%94%A8%E9%A3%9F%E5%93%81%E6%B7%BB%E5%8A%A0%E5%89%82)
+8. [印度的申奥和登月梦能实现吗](https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E7%94%B3%E5%A5%A5%E5%92%8C%E7%99%BB%E6%9C%88%E6%A2%A6%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%90%97)
+9. [张雪接受专访把自己说哭了](https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E6%8E%A5%E5%8F%97%E4%B8%93%E8%AE%BF%E6%8A%8A%E8%87%AA%E5%B7%B1%E8%AF%B4%E5%93%AD%E4%BA%86)
 10. [范德彪玉芬版Trouble Maker](https://search.bilibili.com/all?keyword=%E8%8C%83%E5%BE%B7%E5%BD%AA%E7%8E%89%E8%8A%AC%E7%89%88Trouble%20Maker)
 11. [原神7.2版本PV](https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E7.2%E7%89%88%E6%9C%ACPV)
 12. [第五人格女团出道MV首曝](https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%A5%B3%E5%9B%A2%E5%87%BA%E9%81%93MV%E9%A6%96%E6%9B%9D)
-13. [LPL出征前的默契挑战](https://search.bilibili.com/all?keyword=LPL%E5%87%BA%E5%BE%81%E5%89%8D%E7%9A%84%E9%BB%98%E5%A5%91%E6%8C%91%E6%88%98)
-14. [赛博朋克边缘行者2口碑崩了吗](https://search.bilibili.com/all?keyword=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E5%8F%A3%E7%A2%91%E5%B4%A9%E4%BA%86%E5%90%97)
-15. [时光代理人](https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA)
-16. [黄子韬徐艺洋为何这个节点官宣生子](https://search.bilibili.com/all?keyword=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B8%AA%E8%8A%82%E7%82%B9%E5%AE%98%E5%AE%A3%E7%94%9F%E5%AD%90)
-17. [绅士Gentle Man黄仁勋版](https://search.bilibili.com/all?keyword=%E7%BB%85%E5%A3%ABGentle%20Man%E9%BB%84%E4%BB%81%E5%8B%8B%E7%89%88)
-18. [S16应援曲 以风之名](https://search.bilibili.com/all?keyword=S16%E5%BA%94%E6%8F%B4%E6%9B%B2%20%E4%BB%A5%E9%A3%8E%E4%B9%8B%E5%90%8D)
-19. [台风蔷琵来袭](https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%9D%A5%E8%A2%AD)
-20. [TheShy赛前对话Zeus](https://search.bilibili.com/all?keyword=TheShy%E8%B5%9B%E5%89%8D%E5%AF%B9%E8%AF%9DZeus)
+13. [时光代理人](https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA)
+14. [LPL出征前的默契挑战](https://search.bilibili.com/all?keyword=LPL%E5%87%BA%E5%BE%81%E5%89%8D%E7%9A%84%E9%BB%98%E5%A5%91%E6%8C%91%E6%88%98)
+15. [不减136斤不结婚挑战](https://search.bilibili.com/all?keyword=%E4%B8%8D%E5%87%8F136%E6%96%A4%E4%B8%8D%E7%BB%93%E5%A9%9A%E6%8C%91%E6%88%98)
+16. [台风蔷琵来袭](https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%9D%A5%E8%A2%AD)
+17. [黄子韬徐艺洋为何这个节点官宣生子](https://search.bilibili.com/all?keyword=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B8%AA%E8%8A%82%E7%82%B9%E5%AE%98%E5%AE%A3%E7%94%9F%E5%AD%90)
+18. [赛博朋克边缘行者2口碑崩了吗](https://search.bilibili.com/all?keyword=%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E5%8F%A3%E7%A2%91%E5%B4%A9%E4%BA%86%E5%90%97)
+19. [中国女团2-3日本女团](https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2)
+20. [绅士Gentle Man黄仁勋版](https://search.bilibili.com/all?keyword=%E7%BB%85%E5%A3%ABGentle%20Man%E9%BB%84%E4%BB%81%E5%8B%8B%E7%89%88)
 
 ## 全站热门视频
 
@@ -31,9 +31,9 @@
 2. [第五人格女团 PerVade 正式出道！首支单曲《Undefined》MV公开！](https://b23.tv/BV1htnt6nENM)
 3. [《原神》7.2版本「坏灭肇始之时」前瞻特别节目](https://b23.tv/BV14Enb6LEBX)
 4. [【独家】时光代理人 第三季 PartOne 第12集 欢迎回家【8月国创】](https://b23.tv/BV14Snw6gEjL)
-5. [人工耳蜗里的声音，到底是什么样的？](https://b23.tv/BV14Enb6LEDe)
-6. [这个更新有亿点水——《伊莫》S1赛季「逐风启程・下」10月29日开启！](https://b23.tv/BV15ins67ERt)
-7. [传统口技表演《大闹天宫》](https://b23.tv/BV1xwnE6jEUZ)
+5. [这个更新有亿点水——《伊莫》S1赛季「逐风启程・下」10月29日开启！](https://b23.tv/BV15ins67ERt)
+6. [传统口技表演《大闹天宫》](https://b23.tv/BV1xwnE6jEUZ)
+7. [人工耳蜗里的声音，到底是什么样的？](https://b23.tv/BV14Enb6LEDe)
 8. [为了妈妈，全校老师同学最团结的一集](https://b23.tv/BV1yjnm68Eud)
 9. [影视飓风员工，开什么车？](https://b23.tv/BV16inH6SEvM)
 10. [四人行，必有一怂蛋](https://b23.tv/BV1M1np6YE8c)

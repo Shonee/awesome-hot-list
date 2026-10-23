@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-23 23:42:29
+> 更新时间：2026-10-24 00:13:46
 
 ## 热门文章
 
@@ -18,8 +18,8 @@
 12. [Flutter 官方表示：AI 时代代码越来越容易写，为什么还要一套代码库？](https://juejin.cn/post/7699414277584797734)
 13. [红利窗口开着，程序员别在场边囤课](https://juejin.cn/post/7699351034398621732)
 14. [Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里](https://juejin.cn/post/7698709811564068915)
-15. [我抽查了 6 万个 Skills：前排没几个真货](https://juejin.cn/post/7698923838285316130)
-16. [双十一，我为什么想买一台编码显示器](https://juejin.cn/post/7699307186593300507)
+15. [双十一，我为什么想买一台编码显示器](https://juejin.cn/post/7699307186593300507)
+16. [我抽查了 6 万个 Skills：前排没几个真货](https://juejin.cn/post/7698923838285316130)
 17. [PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级](https://juejin.cn/post/7699014849129726003)
 18. [2026 年，为什么一线团队开始从 MCP 撤回 CLI？](https://juejin.cn/post/7698753872017899574)
 19. [多进程环境下使用 PM2 部署 Socket.IO：需要注意什么](https://juejin.cn/post/7699047775224725530)
@@ -45,8 +45,8 @@
 39. [GitHub 日榜趋势速报 | 2026-10-21](https://juejin.cn/post/7698614955540922419)
 40. [一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏](https://juejin.cn/post/7699372774716801034)
 41. [我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一](https://juejin.cn/post/7699123334672089107)
-42. [前端对接聊天 API：我用 React 做了一个比 ChatGPT 还好看的界面](https://juejin.cn/post/7698623001063784463)
-43. [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163)
+42. [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163)
+43. [前端对接聊天 API：我用 React 做了一个比 ChatGPT 还好看的界面](https://juejin.cn/post/7698623001063784463)
 44. [重新思考 Workrun：AI 时代，我们还需要手动编排 Workflow 吗？](https://juejin.cn/post/7698753872017768502)
 45. [AI Agent 之 用户记忆和知识库](https://juejin.cn/post/7699243153375543337)
 46. [React Compiler正式“Rust化”：你项目里的Babel插件，正在被编译进打包器](https://juejin.cn/post/7698926507611996223)
