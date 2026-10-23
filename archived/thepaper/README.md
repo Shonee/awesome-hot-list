@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-23 11:15:20
+> 更新时间：2026-10-23 12:14:08
 
 ## 热新闻
 
@@ -8,19 +8,19 @@
 2. [人民日报评论员：在新的长征路上奋力创造新的辉煌](https://www.thepaper.cn/newsDetail_forward_34312308)
 3. [夏林茂被查，北京市委：坚决拥护党中央决定](https://www.thepaper.cn/newsDetail_forward_34310547)
 4. [菲律宾非法“坐滩”船只周边海域出现大量垃圾，中国海警组织打捞](https://www.thepaper.cn/newsDetail_forward_34310385)
-5. [叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”](https://www.thepaper.cn/newsDetail_forward_34309586)
-6. [西藏那曲巴青7.0级地震已造成16人遇难，46人受伤](https://www.thepaper.cn/newsDetail_forward_34314220)
+5. [西藏那曲巴青7.0级地震已造成16人遇难，46人受伤](https://www.thepaper.cn/newsDetail_forward_34314220)
+6. [叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”](https://www.thepaper.cn/newsDetail_forward_34309586)
 7. [今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？](https://www.thepaper.cn/newsDetail_forward_34310810)
 8. [北京市委常委、副市长夏林茂被查](https://www.thepaper.cn/newsDetail_forward_34308652)
-9. [马上评｜浮夸的医学真人秀：生命的考场不该是秀场](https://www.thepaper.cn/newsDetail_forward_34306298)
-10. [言短意长｜课讲得好获奖10万元，该奖！](https://www.thepaper.cn/newsDetail_forward_34311714)
-11. [资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金](https://www.thepaper.cn/newsDetail_forward_34306536)
-12. [刘雪峰故意杀人案申诉进展：吉林省检不予支持，此前曾认为事实不清建议改判](https://www.thepaper.cn/newsDetail_forward_34306249)
-13. [三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？](https://www.thepaper.cn/newsDetail_forward_34311103)
-14. [被“开盒”后，胜诉与止损的距离](https://www.thepaper.cn/newsDetail_forward_34306727)
-15. [言短意长｜一纸承诺之外，报刊防抄袭还能做什么](https://www.thepaper.cn/newsDetail_forward_34308648)
-16. [新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击](https://www.thepaper.cn/newsDetail_forward_34306120)
-17. [马上评｜拿120开玩笑，谁能笑得出来](https://www.thepaper.cn/newsDetail_forward_34308254)
-18. [奇瑞尹同跃回应马来西亚车辆问题：出海不是收割，一定要谦虚低调](https://www.thepaper.cn/newsDetail_forward_34305443)
-19. [直播丨iPhone Duo上市首日：上手体验如何？直击提货现场](https://www.thepaper.cn/newsDetail_forward_34308703)
-20. [IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险](https://www.thepaper.cn/newsDetail_forward_34308431)
+9. [言短意长｜课讲得好获奖10万元，该奖！](https://www.thepaper.cn/newsDetail_forward_34311714)
+10. [三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？](https://www.thepaper.cn/newsDetail_forward_34311103)
+11. [刘雪峰故意杀人案申诉进展：吉林省检不予支持，此前曾认为事实不清建议改判](https://www.thepaper.cn/newsDetail_forward_34306249)
+12. [被“开盒”后，胜诉与止损的距离](https://www.thepaper.cn/newsDetail_forward_34306727)
+13. [言短意长｜一纸承诺之外，报刊防抄袭还能做什么](https://www.thepaper.cn/newsDetail_forward_34308648)
+14. [马上评｜拿120开玩笑，谁能笑得出来](https://www.thepaper.cn/newsDetail_forward_34308254)
+15. [直播丨iPhone Duo上市首日：上手体验如何？直击提货现场](https://www.thepaper.cn/newsDetail_forward_34308703)
+16. [消费者不满豆豉鱼罐头没去鱼鳞，厂家：鱼鳞可吃，不喜欢可退货](https://www.thepaper.cn/newsDetail_forward_34306633)
+17. [IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险](https://www.thepaper.cn/newsDetail_forward_34308431)
+18. [解读｜俄乌释放重启三方会谈信号背后：立场未变，美国中期选举成关键变量？](https://www.thepaper.cn/newsDetail_forward_34310099)
+19. [西藏那曲市巴青县发生7.0级地震，震源深度10千米](https://www.thepaper.cn/newsDetail_forward_34312155)
+20. [【社论】山河铭记远征：精神所在，就是力量所在](https://www.thepaper.cn/newsDetail_forward_34308692)
