@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-24 02:43:42
+> 更新时间：2026-10-24 04:12:35
 
 ## 24 小时热榜
 
@@ -10,30 +10,30 @@
 4. [央视曝光豆包会员「无限薅」乱象：多账号循环、API 密钥来源存疑](https://readhub.cn/topic/8xQWjlf014N?tab=daily)
 5. [Claude 生成 1.8 亿行验证代码，挖出万亿次测试遗漏漏洞](https://readhub.cn/topic/8xSAFH9ApQF?tab=daily)
 6. [Arc 浏览器 2026 年 12 月 22 日停运，团队转向 AI 浏览器 Dia](https://readhub.cn/topic/8xS717MwmGN?tab=daily)
-7. [MiniMax 开源 M3.1 Flash 模型 总参数量达 428B](https://readhub.cn/topic/8xS1cka10p9?tab=daily)
+7. [软银因应对 PHP 漏洞暂停紧急速报邮件服务](https://readhub.cn/topic/8xSFZHHa4dA?tab=daily)
 8. [黄仁勋于 GTC 柏林大会发布多项 AI 落地相关方案](https://readhub.cn/topic/8xRrceNp2FD?tab=daily)
-9. [软银因应对 PHP 漏洞暂停紧急速报邮件服务](https://readhub.cn/topic/8xSFZHHa4dA?tab=daily)
+9. [MiniMax 开源 M3.1 Flash 模型 总参数量达 428B](https://readhub.cn/topic/8xS1cka10p9?tab=daily)
 10. [华为高层职务调整 何刚升任董事并继续担任终端 BG CEO](https://readhub.cn/topic/8xSAI6ivZj4?tab=daily)
-11. [GLM-5.5 传闻参数或达数万亿，官方透露新模型将赠重置额度](https://readhub.cn/topic/8xS2KzVtI4m?tab=daily)
-12. [DeepSeek 新一轮融资引入联想系等多家投资者 正筹备 IPO](https://readhub.cn/topic/8xRP3iXFkCE?tab=daily)
+11. [DeepSeek 新一轮融资引入联想系等多家投资者 正筹备 IPO](https://readhub.cn/topic/8xRP3iXFkCE?tab=daily)
+12. [GLM-5.5 传闻参数或达数万亿，官方透露新模型将赠重置额度](https://readhub.cn/topic/8xS2KzVtI4m?tab=daily)
 13. [Claude 下周默认开启自动模式，OpenAI 曝 AI 监控系统存多处漏洞](https://readhub.cn/topic/8xS5xei2dID?tab=daily)
-14. [苹果 iPhone Duo 内屏磨砂膜可徒手撕下 操作不当或损失 7998 元维修费](https://readhub.cn/topic/8xRt3elDBNY?tab=daily)
-15. [王兴兴给宇树画了三条线：量产、小模型、大算力](https://readhub.cn/topic/8xQwUDtgcxD?tab=daily)
-16. [腾势近 700 台车辆将作为 2026 APEC 官方指定用车启程](https://readhub.cn/topic/8xR2t6KVdGJ?tab=daily)
-17. [腾讯混元推出 WorkForge 框架，构建覆盖 40 领域的 1.67 万个 AI 训练环境](https://readhub.cn/topic/8xQzLgS5LcX?tab=daily)
+14. [王兴兴给宇树画了三条线：量产、小模型、大算力](https://readhub.cn/topic/8xQwUDtgcxD?tab=daily)
+15. [苹果 iPhone Duo 内屏磨砂膜可徒手撕下 操作不当或损失 7998 元维修费](https://readhub.cn/topic/8xRt3elDBNY?tab=daily)
+16. [腾讯混元推出 WorkForge 框架，构建覆盖 40 领域的 1.67 万个 AI 训练环境](https://readhub.cn/topic/8xQzLgS5LcX?tab=daily)
+17. [腾势近 700 台车辆将作为 2026 APEC 官方指定用车启程](https://readhub.cn/topic/8xR2t6KVdGJ?tab=daily)
 18. [大豆废料转化为可 3D 打印生物活性材料](https://readhub.cn/topic/8xRsgeikUHn?tab=daily)
-19. [我国揽月着陆器计划执行无人飞行任务：面向国内征集载荷 不超 50kg、100W](https://readhub.cn/topic/8xQxun3Hshg?tab=daily)
-20. [18 家重点企业签约落户香港](https://readhub.cn/topic/8xRIcoDKYbp?tab=daily)
-21. [贝莱德：在长飞光纤光缆 H 股的持股比例升至 7.40%](https://readhub.cn/topic/8xSafq4vtaR?tab=daily)
-22. [卡普空 CAPCOM ID 系统遭未授权访问，超 1177 万条信息泄露](https://readhub.cn/topic/8xRA1VzPvjW?tab=daily)
-23. [光库科技：第三季度净利润同比增长 124%](https://readhub.cn/topic/8xR1oiXP9qp?tab=daily)
-24. [索尼日本最后一款独立 4K 蓝光播放器停产，PS5 仍支持蓝光播放](https://readhub.cn/topic/8xRIFkSfB1Z?tab=daily)
-25. [国家税务总局发票数据显示：前三季度我国经济平稳运行向新向优](https://readhub.cn/topic/8xS0w4hFcrh?tab=daily)
-26. [英特尔 CTO 称前沿晶圆产量最多翻倍，AI 算力扩张遇供应链天花板](https://readhub.cn/topic/8xRsKtF9jPB?tab=daily)
-27. [马斯克被曝向 Skydance 投资约 10 亿美元](https://readhub.cn/topic/8xRPkDgfNGX?tab=daily)
-28. [国务院办公厅印发人工智能促就业相关发展意见](https://readhub.cn/topic/8xSZzCDuoEi?tab=daily)
-29. [申通快递：前三季度归母净利润 15.75 亿元，同比增长 108.46%](https://readhub.cn/topic/8xSYWMYsAYX?tab=daily)
-30. [德媒称奥迪正与华为谈判 拟联合开发中国版新一代 A8](https://readhub.cn/topic/8xR9KT60c1k?tab=daily)
+19. [18 家重点企业签约落户香港](https://readhub.cn/topic/8xRIcoDKYbp?tab=daily)
+20. [原「死了么」App 更名「在么在么」：最高年收费 199 元 由政府集中采购](https://readhub.cn/topic/8xREM5avo4j?tab=daily)
+21. [我国揽月着陆器计划执行无人飞行任务：面向国内征集载荷 不超 50kg、100W](https://readhub.cn/topic/8xQxun3Hshg?tab=daily)
+22. [马斯克被曝向 Skydance 投资约 10 亿美元](https://readhub.cn/topic/8xRPkDgfNGX?tab=daily)
+23. [贝莱德：在长飞光纤光缆 H 股的持股比例升至 7.40%](https://readhub.cn/topic/8xSafq4vtaR?tab=daily)
+24. [卡普空 CAPCOM ID 系统遭未授权访问，超 1177 万条信息泄露](https://readhub.cn/topic/8xRA1VzPvjW?tab=daily)
+25. [光库科技：第三季度净利润同比增长 124%](https://readhub.cn/topic/8xR1oiXP9qp?tab=daily)
+26. [国家税务总局发票数据显示：前三季度我国经济平稳运行向新向优](https://readhub.cn/topic/8xS0w4hFcrh?tab=daily)
+27. [国务院办公厅印发人工智能促就业相关发展意见](https://readhub.cn/topic/8xSZzCDuoEi?tab=daily)
+28. [申通快递：前三季度归母净利润 15.75 亿元，同比增长 108.46%](https://readhub.cn/topic/8xSYWMYsAYX?tab=daily)
+29. [德媒称奥迪正与华为谈判 拟联合开发中国版新一代 A8](https://readhub.cn/topic/8xR9KT60c1k?tab=daily)
+30. [索尼日本最后一款独立 4K 蓝光播放器停产，PS5 仍支持蓝光播放](https://readhub.cn/topic/8xRIFkSfB1Z?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape In a study with 17 researchers, domain experts rated research ideas developed with LitPivot as better grounded in the literature than those developed with a text editor and an AI chat tool. Domain experts also reviewed the participants' ideas and rated the ideas revised using LitPivot to be significantly better grounded in relevant literature. Two used it to vet new ideas against the literature, while three used it to refine the framing of more mature ideas. Hugging Face Blog 2 小时前](https://huggingface.co/blog/allenai/litpivot)
-2. [美国拟原则性禁止对华 AI 投资，生物技术、芯片等领域同步收紧 美国财政部公布对外投资限制草案，计划将对华投资从分级管理转为原则禁止，涉及 AI、半导体、量子计算等敏感技术领域。新方案下，美国投资者对符合规则定义的 AI 系统开发企业进行相关投资将在原则上被禁止。早在 2023 年 8 月，时任美国总统拜登签署行政令，要求建立对外投资安全机制，限制美国资本进入中国部分敏感技术领域。 麻省理工科技评论 7 小时前](https://www.mittrchina.com/news/detail/17134)
-3. [港中深教授创业做量子 AI，用量子计算增强大模型推理 基于这一思路，赵俊华与团队提出了 QART（Quantum-Augmented Reasoning Transformer，量子增强推理 Transformer）架构，将大语言模型与量子优化模块结合起来。他与团队共同推进量子 AI 初创公司 QuantumMind 的研发与商业化，担任首席科学家，希望在电力、金融等行业中寻找适合量子增强推理的应用场景。从十多年前探索量子计算在电网优化中的应用，到如今尝试让量子计算参与大模型推理，赵俊华始终在寻找新计算技术与现实问题之间的结合点。 麻省理工科技评论 10 小时前](https://www.mittrchina.com/news/detail/17132)
-4. [OpenAI and Poland's NASK partner to advance AI safety and security OpenAI and Poland's NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem. OpenAI 18 小时前](https://openai.com/index/openai-nask-ai-safety-security-partnership)
-5. [从 CoreWeave 到 Anthropic，芯片抵押融资正重塑 AI 债务市场 这一市场的雏形始于 2023 年黑石向 CoreWeave 提供的一笔 23 亿美元私募信贷，成为芯片抵押债务的首单标志性交易。如今，博通正与华尔街机构磋商为 Anthropic 安排 600 亿美元芯片融资，SpaceX 据报正寻求为英伟达芯片融资 400 亿美元，英伟达本身亦宣布与六大贷款机构达成 5000 亿美元合作框架。获得满意答案后，黑石于 2023 年主导完成了对 CoreWeave 的 23 亿美元私募信贷，开创了芯片抵押债务融资的先例。 华尔街见闻 2 小时前](https://wallstreetcn.com/articles/3784352)
-6. [Hugging Face 推出 Carbon-X：基于千问，让科学家「与 DNA 对话」 Hugging Face 本周四推出新模型 Carbon-X，瞄准生物学家的痛点：让研究 DNA、开发新基因疗法更轻松。它基于千问 Qwen3-14B，由 Hugging Face 联合意、中实验室，用涵盖人类、哺乳动物、植物与真菌的基因组数据重训。在五项 DNA 基准里，Carbon-X 胜过所有受评开源对手，平均分逼近 GPT-6.1 Sol，可单题推理成本仅为其 1 / 1800。 AIBase 10 小时前](https://www.aibase.com/zh/news/31841)
-7. [覆盖存、拣、运全场景，海康机器人 2026 移动机器人新品发布会举行 深耕制造业一线十余年，海康机器人以 AI 为全业务基座，业务覆盖机器视觉、移动机器人、关节机器人与具身机器人，通过 1000 余个细分应用场景的落地，沉淀了扎实的技术能力与丰富的场景经验。海康机器人以「全链・进化」为主题，举办 2026 移动机器人新品发布会暨 CeMAT 预展专场，聚焦「存、拣、运」全流程，发布箱式方案全新升级并推出「明智」系列单体智能产品，构建覆盖箱式存拣与搬运配送的厂内物流全链路解决方案。在效率提升上，海康机器人升级了方案内 STU 料箱机器人与 T50 潜伏机器人的分工模式：STU 承接巷道内全程任务，T50 仅在巷道口缓存位接驳，任务链距离缩短 50% 以上。 雷锋网 8 小时前](https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html)
-8. [Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕 在科技播客《Sources》的最新访谈里，谷歌 CEO 桑达尔・皮查伊复盘了这次发布的细节，也第一次把过去几个月外界最困惑的几件事摊开讲清 —— 那个曾在 I / O 大会上被点名的 Gemini 3.5 Pro 去哪了，DeepMind 的高层为何突然洗牌，以及下一代模型到底长什么样。在算力受限的环境里，再发一个生命周期极短的 3.5 Pro 显然不划算，团队于是把 Flash 验证成功的所有技术积累，直接注入了 Argon 的后训练阶段。他本人也成了这套新流程的受益者 —— 每天运行 Agent 汇总预训练、中训练、后训练和数据群组的 24 小时进展，省下约一小时的信息同步时间，并借接入遥测数据的 Agent 实时监控各部门的算力效率。 AIBase 10 小时前](https://www.aibase.com/zh/news/31840)
-9. [OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间 OpenAI 联合 PerturbAI 和斯克里普斯研究所（Scripps Research），利用数千个 AI 智能体分析数百万个小鼠脑细胞的生物学数据，整个分析过程仅耗时 32 分钟。研究团队估计，如果由人类研究人员逐项分析实验结果并检索相关文献，完成同等工作可能需要数月到一年。根据 OpenAI 10 月 21 日发布的介绍，这项研究使用了专为生命科学研究设计的 GPT-Rosalind 模型，分析一份覆盖整个小鼠大脑的 CRISPR 图谱。 IT 之家 3 小时前](https://www.ithome.com/1/017/274.htm)
-10. [美国拟在数千英亩公共土地上建设 AI 数据中心，土地记录显示已规划 35 个相关开发项目 其中 17 份申请是建设数据中心园区，另有 13 份是建设支持 AI 数据中心的基础设施。西部优先中心指出，部分提案规模远超典型数据中心，例如 Valar Atomics 提交的一个 9000 英亩 AI 数据中心开发项目，将由小型模块化核反应堆供电。数据中心开发商在规划 AI 数据中心的地区遭遇当地居民强烈抵制，已演变成一场遍及全美的反数据中心运动。 techradar.com 23 分钟前](https://www.techradar.com/pro/the-us-wants-to-fill-thousands-of-acres-of-public-land-with-ai-data-centers-land-records-show-35-data-center-related-developments-are-planned-so-far)
+1. [Kimi K3.1 Pro 上线 Kimi API，Moonshot 承诺 2026 年 11 月 4 日前发布完整模型权重 Kimi K3.1 Pro 今日上线 Kimi API，目前尚未开放权重，但 Moonshot 承诺「完整模型权重将于 2026 年 11 月 4 日前发布」。Artificial Analysis 给 Kimi 打出 55 分，领先 Claude Fable 5.1、GPT-6 Astra 和 Gemini 4 Argon（均为 53 分），仅次于 Claude Opus 5.5（58 分）。以下是 Kimi K3.1 Pro 在低、中、高三个推理级别下生成的 pelicans 示例。 Simon Willison 31 分钟前](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
+2. [OpenAI 详解前沿模型训练环境的安全加固措施 OpenAI 介绍了我们如何加强前沿模型训练与评估的隔离防护，包括离线环境和高算力红队测试。 OpenAI 10 小时前](https://openai.com/index/securing-our-frontier-model-training-environment)
+3. [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape In a study with 17 researchers, domain experts rated research ideas developed with LitPivot as better grounded in the literature than those developed with a text editor and an AI chat tool. Domain experts also reviewed the participants' ideas and rated the ideas revised using LitPivot to be significantly better grounded in relevant literature. Two used it to vet new ideas against the literature, while three used it to refine the framing of more mature ideas. Hugging Face Blog 3 小时前](https://huggingface.co/blog/allenai/litpivot)
+4. [美国拟原则性禁止对华 AI 投资，生物技术、芯片等领域同步收紧 美国财政部公布对外投资限制草案，计划将对华投资从分级管理转为原则禁止，涉及 AI、半导体、量子计算等敏感技术领域。新方案下，美国投资者对符合规则定义的 AI 系统开发企业进行相关投资将在原则上被禁止。早在 2023 年 8 月，时任美国总统拜登签署行政令，要求建立对外投资安全机制，限制美国资本进入中国部分敏感技术领域。 麻省理工科技评论 8 小时前](https://www.mittrchina.com/news/detail/17134)
+5. [港中深教授创业做量子 AI，用量子计算增强大模型推理 基于这一思路，赵俊华与团队提出了 QART（Quantum-Augmented Reasoning Transformer，量子增强推理 Transformer）架构，将大语言模型与量子优化模块结合起来。他与团队共同推进量子 AI 初创公司 QuantumMind 的研发与商业化，担任首席科学家，希望在电力、金融等行业中寻找适合量子增强推理的应用场景。从十多年前探索量子计算在电网优化中的应用，到如今尝试让量子计算参与大模型推理，赵俊华始终在寻找新计算技术与现实问题之间的结合点。 麻省理工科技评论 12 小时前](https://www.mittrchina.com/news/detail/17132)
+6. [OpenAI 宣布最先进 AI 模型训练期间禁止直接访问互联网 OpenAI 10 月 23 日表示，为防止 AI 模型突破安全限制，已要求最先进模型在无法直接访问实时互联网的环境中训练，直至安全防护措施取得足够进展。OpenAI 披露，9 月 20 日，一款内部研究模型曾利用网络配置漏洞，在训练过程中获得有限的互联网访问权限，促使公司暂停最先进模型的训练和评估。经过 11 天的安全整改，OpenAI 于 10 月 1 日恢复了这些模型的强化学习训练及内部推理运行，但仍维持训练期间的互联网访问限制。 格隆汇 42 分钟前](https://www.gelonghui.com/live/2727228)
+7. [OpenAI and Poland's NASK partner to advance AI safety and security OpenAI and Poland's NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem. OpenAI 20 小时前](https://openai.com/index/openai-nask-ai-safety-security-partnership)
+8. [从 CoreWeave 到 Anthropic，芯片抵押融资正重塑 AI 债务市场 这一市场的雏形始于 2023 年黑石向 CoreWeave 提供的一笔 23 亿美元私募信贷，成为芯片抵押债务的首单标志性交易。如今，博通正与华尔街机构磋商为 Anthropic 安排 600 亿美元芯片融资，SpaceX 据报正寻求为英伟达芯片融资 400 亿美元，英伟达本身亦宣布与六大贷款机构达成 5000 亿美元合作框架。获得满意答案后，黑石于 2023 年主导完成了对 CoreWeave 的 23 亿美元私募信贷，开创了芯片抵押债务融资的先例。 华尔街见闻 4 小时前](https://wallstreetcn.com/articles/3784352)
+9. [Hugging Face 推出 Carbon-X：基于千问，让科学家「与 DNA 对话」 Hugging Face 本周四推出新模型 Carbon-X，瞄准生物学家的痛点：让研究 DNA、开发新基因疗法更轻松。它基于千问 Qwen3-14B，由 Hugging Face 联合意、中实验室，用涵盖人类、哺乳动物、植物与真菌的基因组数据重训。在五项 DNA 基准里，Carbon-X 胜过所有受评开源对手，平均分逼近 GPT-6.1 Sol，可单题推理成本仅为其 1 / 1800。 AIBase 12 小时前](https://www.aibase.com/zh/news/31841)
+10. [覆盖存、拣、运全场景，海康机器人 2026 移动机器人新品发布会举行 深耕制造业一线十余年，海康机器人以 AI 为全业务基座，业务覆盖机器视觉、移动机器人、关节机器人与具身机器人，通过 1000 余个细分应用场景的落地，沉淀了扎实的技术能力与丰富的场景经验。海康机器人以「全链・进化」为主题，举办 2026 移动机器人新品发布会暨 CeMAT 预展专场，聚焦「存、拣、运」全流程，发布箱式方案全新升级并推出「明智」系列单体智能产品，构建覆盖箱式存拣与搬运配送的厂内物流全链路解决方案。在效率提升上，海康机器人升级了方案内 STU 料箱机器人与 T50 潜伏机器人的分工模式：STU 承接巷道内全程任务，T50 仅在巷道口缓存位接驳，任务链距离缩短 50% 以上。 雷锋网 9 小时前](https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html)
