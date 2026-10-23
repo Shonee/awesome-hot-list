@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-23 20:47:36
+> 更新时间：2026-10-23 21:41:33
 
 ## 人气热门
 
@@ -57,8 +57,8 @@
 
 ## 精华采撷
 
-1. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
-2. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+1. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
+2. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
 3. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
 4. [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://www.52pojie.cn/thread-2096924-1-1.html)
 5. [企业微信聊天记录导出全解析](https://www.52pojie.cn/thread-2107745-1-1.html)
