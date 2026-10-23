@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-23 08:32:49
+> 更新时间：2026-10-23 09:25:13
 
 ## 新闻热榜
 
@@ -28,22 +28,22 @@
 ## 财经热榜
 
 1. [美元指数22日下跌](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4975612.shtml)
-2. [Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937956.shtml)
-3. [DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。仍然看空久期偏长的美债。美国政府大幅举债和需求疲软将继续打压债市。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4912689.shtml)
-4. [智利财政部长表示，今年智利矿业产值可能萎缩约8%至9%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8141811.shtml)
-5. [美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4963768.shtml)
-6. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
-7. [纽约期金失守4050美元/盎司，日内跌2.41%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8257376.shtml)
-8. [美股纳斯达克100指数期货跌超3%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8169734.shtml)
-9. [比特币跌破81000美元，日内跌3.75%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnvh5033361.shtml)
-10. [DATADOG股价迅速下跌，触及盘中低点。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4921921.shtml)
-11. [加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937740.shtml)
-12. [Anthropic因使用受版权保护的音乐训练Claude而被起诉。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4922139.shtml)
-13. [捷蓝航空股价下跌7%，跌至历史新低。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4945880.shtml)
-14. [前白宫新闻秘书卡罗琳·莱维特对其继任者迅速离开白宫一事发表评论，称这份工作“并不适合她”。莱维特还透露，她正在为正在物色新任白宫](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8261076.shtml)
-15. [美国卫生部长核心顾问Calley Means辞职，对“让美国再次健康”运动构成打击](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4848271.shtml)
-16. [白宫发言人安娜·凯利（Anna Kelly）谈下一任白宫新闻秘书：专注于我的工作。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4855799.shtml)
-17. [美医药股MODERNA股价持续下跌，跌幅达20%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8258581.shtml)
-18. [默沙东：在INTERPATH-001三期试验中未观察到新的安全性信号。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4955806.shtml)
-19. [纳斯达克100指数重挫逾3% 避险情绪和油价走高构成双重打击](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4845477.shtml)
-20. [Anthropic首次公开募股将为Iconiq、Spark和GIC带来巨额收益。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxky8076276.shtml)
+2. [10月23日收盘：美股三大指数涨跌不一 纳指创6月以来最大跌幅 国际油价大涨](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5746324.shtml)
+3. [Anthropic提出智能体技能发展路线图，包括版本化发布和安全指引。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937956.shtml)
+4. [DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。仍然看空久期偏长的美债。美国政府大幅举债和需求疲软将继续打压债市。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4912689.shtml)
+5. [智利财政部长表示，今年智利矿业产值可能萎缩约8%至9%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8141811.shtml)
+6. [美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4963768.shtml)
+7. [美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅](https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml)
+8. [纽约期金失守4050美元/盎司，日内跌2.41%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8257376.shtml)
+9. [美股纳斯达克100指数期货跌超3%](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctca8169734.shtml)
+10. [比特币跌破81000美元，日内跌3.75%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnvh5033361.shtml)
+11. [特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml)
+12. [DATADOG股价迅速下跌，触及盘中低点。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4921921.shtml)
+13. [加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4937740.shtml)
+14. [Anthropic因使用受版权保护的音乐训练Claude而被起诉。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4922139.shtml)
+15. [捷蓝航空股价下跌7%，跌至历史新低。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwctce4945880.shtml)
+16. [前白宫新闻秘书卡罗琳·莱维特对其继任者迅速离开白宫一事发表评论，称这份工作“并不适合她”。莱维特还透露，她正在为正在物色新任白宫](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8261076.shtml)
+17. [美国卫生部长核心顾问Calley Means辞职，对“让美国再次健康”运动构成打击](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4848271.shtml)
+18. [白宫发言人安娜·凯利（Anna Kelly）谈下一任白宫新闻秘书：专注于我的工作。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcxma4855799.shtml)
+19. [美医药股MODERNA股价持续下跌，跌幅达20%。](https://finance.sina.com.cn/7x24/2026-10-23/doc-iniwcnve8258581.shtml)
+20. [10月22日美股成交额前20名:科技股集体下挫，SpaceX解禁后收跌9.14%](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4871446.shtml)
