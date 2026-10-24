@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-24 09:48:44
+> 更新时间：2026-10-24 10:45:56
 
 ## Hottest
 
@@ -15,17 +15,17 @@
 9. [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
 10. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
 11. [What are you doing this weekend?](https://lobste.rs/s/crqz1g)
-12. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
-13. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
-14. [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
+12. [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
+13. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+14. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
 15. [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
 16. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
 17. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
 18. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
-19. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-20. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
-21. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
-22. [Distributed data, centralized fixes](https://miren.dev/blog/distributed-data-centralized-fixes)
-23. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
-24. [The Hibernate Origin Story (Outsider Edition)](https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story)
-25. [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
+19. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
+20. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+21. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
+22. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
+23. [Distributed data, centralized fixes](https://miren.dev/blog/distributed-data-centralized-fixes)
+24. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
+25. [The Hibernate Origin Story (Outsider Edition)](https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story)
