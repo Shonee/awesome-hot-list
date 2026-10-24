@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-24 10:45:28
+> 更新时间：2026-10-24 11:43:17
 
 ## 股票人气榜
 
@@ -11,16 +11,16 @@
 5. [歌尔股份 (002241)](https://quote.eastmoney.com/sz002241.html)
 6. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
 7. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
-8. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
-9. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
-10. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
-11. [风语筑 (603466)](https://quote.eastmoney.com/sh603466.html)
-12. [能科科技 (603859)](https://quote.eastmoney.com/sh603859.html)
+8. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
+9. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
+10. [风语筑 (603466)](https://quote.eastmoney.com/sh603466.html)
+11. [能科科技 (603859)](https://quote.eastmoney.com/sh603859.html)
+12. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
 13. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
-14. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
-15. [兆威机电 (003021)](https://quote.eastmoney.com/sz003021.html)
-16. [多伦科技 (603528)](https://quote.eastmoney.com/sh603528.html)
-17. [达实智能 (002421)](https://quote.eastmoney.com/sz002421.html)
+14. [兆威机电 (003021)](https://quote.eastmoney.com/sz003021.html)
+15. [多伦科技 (603528)](https://quote.eastmoney.com/sh603528.html)
+16. [达实智能 (002421)](https://quote.eastmoney.com/sz002421.html)
+17. [长鑫科技 (688825)](https://quote.eastmoney.com/sh688825.html)
 18. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
-19. [绿盟科技 (300369)](https://quote.eastmoney.com/sz300369.html)
-20. [天奇股份 (002009)](https://quote.eastmoney.com/sz002009.html)
+19. [天奇股份 (002009)](https://quote.eastmoney.com/sz002009.html)
+20. [绿盟科技 (300369)](https://quote.eastmoney.com/sz300369.html)

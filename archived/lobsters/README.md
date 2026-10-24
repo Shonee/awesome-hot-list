@@ -1,12 +1,12 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-24 10:45:56
+> 更新时间：2026-10-24 11:43:47
 
 ## Hottest
 
 1. [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
-2. [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
-3. [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
+2. [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
+3. [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 4. [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
 5. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 6. [Please don't mess with links](https://maurycyz.com/misc/real_links/)
@@ -20,9 +20,9 @@
 14. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
 15. [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
 16. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
-17. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
-18. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
-19. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
+17. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
+18. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
+19. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
 20. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 21. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
 22. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)

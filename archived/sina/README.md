@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-24 10:44:18
+> 更新时间：2026-10-24 11:42:45
 
 ## 新闻热榜
 
 1. [黄仁勋最新涉华发声](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwaa8277084.shtml)
 2. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
-3. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
-4. [31号“烟花”今天凌晨生成，最新路径公布，今年或成为本世纪以来台风生成最多的一年](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnya2341777.shtml)
-5. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
-6. [八旬母亲有退休金，子女就能不付赡养费？法院判了](https://news.sina.com.cn/c/2026-10-23/doc-iniwffeq1900413.shtml)
-7. [“遗骸的切割痕迹与电锯吻合”！香港名媛遭前夫碎尸，化验师披露细节](https://news.sina.com.cn/2026-10-24/doc-iniwhnya2338588.shtml)
-8. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
-9. [持续领跑，中国拿下全球81.8%的新船订单](https://news.sina.com.cn/c/2026-10-23/doc-iniwfmnn1889202.shtml)
-10. [时政新闻眼丨如何走好新的长征路？习近平提出“五个必须”](https://news.sina.com.cn/c/xl/2026-10-23/doc-iniweqhw1986350.shtml)
-11. [28岁女子陪丈夫看病，意外得知腹中胎儿已接近足月](https://news.sina.com.cn/s/2026-10-23/doc-iniweyws1919323.shtml)
-12. [Meta：我们将在论坛上推出新工具。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5038346.shtml)
-13. [清晨，集体跳水！霍尔木兹海峡，突发大消息](https://finance.sina.com.cn/stock/zqgd/2026-10-24/doc-iniwhnxw4975380.shtml)
-14. [俄军宣布27日起在赫尔松方向停火并实行“静默状态”](https://news.sina.com.cn/w/2026-10-24/doc-iniwfwak2527777.shtml)
+3. [31号“烟花”今天凌晨生成，最新路径公布，今年或成为本世纪以来台风生成最多的一年](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnya2341777.shtml)
+4. [“遗骸的切割痕迹与电锯吻合”！香港名媛遭前夫碎尸，化验师披露细节](https://news.sina.com.cn/2026-10-24/doc-iniwhnya2338588.shtml)
+5. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
+6. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
+7. [牛弹琴：难得的一个好消息](https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhnxw4986789.shtml)
+8. [八旬母亲有退休金，子女就能不付赡养费？法院判了](https://news.sina.com.cn/c/2026-10-23/doc-iniwffeq1900413.shtml)
+9. [清晨，集体跳水！霍尔木兹海峡，突发大消息](https://finance.sina.com.cn/stock/zqgd/2026-10-24/doc-iniwhnxw4975380.shtml)
+10. [难得的一个好消息](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxu8211056.shtml)
+11. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
+12. [持续领跑，中国拿下全球81.8%的新船订单](https://news.sina.com.cn/c/2026-10-23/doc-iniwfmnn1889202.shtml)
+13. [时政新闻眼丨如何走好新的长征路？习近平提出“五个必须”](https://news.sina.com.cn/c/xl/2026-10-23/doc-iniweqhw1986350.shtml)
+14. [28岁女子陪丈夫看病，意外得知腹中胎儿已接近足月](https://news.sina.com.cn/s/2026-10-23/doc-iniweyws1919323.shtml)
 15. [特朗普称可能对伊发动一次小规模“史诗怒火”行动](https://news.sina.com.cn/w/2026-10-24/doc-iniwhhrw8191434.shtml)
-16. [菲大使抛出“东盟版北约”，还提到中国](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrun2551186.shtml)
-17. [胜负彩26149期国内部分专业媒体复式推荐总汇](https://sports.sina.com.cn/l/2026-10-23/doc-iniweqhu4811231.shtml)
-18. [难得的一个好消息](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxu8211056.shtml)
-19. [牛弹琴：难得的一个好消息](https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhnxw4986789.shtml)
-20. [胡昌升：每一个帐篷写上电话、哪个干部负责](https://news.sina.com.cn/c/2026-10-23/doc-iniwffen5112735.shtml)
+16. [[新浪彩票]足彩第26149期任九：切尔西信心不足](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8214702.shtml)
+17. [周六足彩伤停：阿森纳边锋萨卡伤缺 热刺失5主力](https://sports.sina.com.cn/l/2026-10-23/doc-iniweyws1977538.shtml)
+18. [泽连斯基证实：乌俄美三方会谈于11月在阿布扎比举行](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxw4967210.shtml)
+19. [西藏巴青地震救援最新消息，新华社记者现场直击→](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxw4977584.shtml)
+20. [中方：国际原子能机构应停止审议伊核问题](https://news.sina.com.cn/c/2026-10-24/doc-iniwhhsa1663310.shtml)
 
 ## 财经热榜
 
