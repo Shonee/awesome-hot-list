@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-24 11:43:47
+> 更新时间：2026-10-24 12:42:03
 
 ## Hottest
 
@@ -24,8 +24,8 @@
 18. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
 19. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
 20. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-21. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
-22. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
-23. [Distributed data, centralized fixes](https://miren.dev/blog/distributed-data-centralized-fixes)
-24. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
-25. [The Hibernate Origin Story (Outsider Edition)](https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story)
+21. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+22. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
+23. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
+24. [Distributed data, centralized fixes](https://miren.dev/blog/distributed-data-centralized-fixes)
+25. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
