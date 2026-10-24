@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-24 18:11:15
+> 更新时间：2026-10-24 19:36:24
 
 ## 24 小时热榜
 
@@ -12,28 +12,28 @@
 6. [娃哈哈集团法定代表人、董事长许思敏被曝辞职](https://readhub.cn/topic/8xRzVdTHcPu?tab=daily)
 7. [东方甄选安徽首店开业 即时零售同步上线](https://readhub.cn/topic/8xSZyYoViZD?tab=daily)
 8. [OpenAI 调查相关泄密嫌疑 解雇三名安全研究员](https://readhub.cn/topic/8xSPFV0K4GF?tab=daily)
-9. [美国拟原则性禁止对华 AI 投资，生物技术、芯片等领域同步收紧](https://readhub.cn/topic/8xSkkBNIFv8?tab=daily)
-10. [苹果首款折叠屏 iPhone Duo 开售即遭多起屏幕开裂投诉](https://readhub.cn/topic/8xTf6Hu97CJ?tab=daily)
+9. [苹果首款折叠屏 iPhone Duo 开售即遭多起屏幕开裂投诉](https://readhub.cn/topic/8xTf6Hu97CJ?tab=daily)
+10. [美国拟原则性禁止对华 AI 投资，生物技术、芯片等领域同步收紧](https://readhub.cn/topic/8xSkkBNIFv8?tab=daily)
 11. [马斯克被曝向 Skydance 投资约 10 亿美元](https://readhub.cn/topic/8xRPkDgfNGX?tab=daily)
 12. [OpenAI 正式全面开放决策 API，输入 Token 定价每百万 0.10 美元](https://readhub.cn/topic/8xReOPg1tdg?tab=daily)
 13. [腾讯 WorkBuddy 宣布接入模型 Kimi-K3.1-Pro](https://readhub.cn/topic/8xUAB80RvQj?tab=daily)
 14. [KDDI 子公司高管活动引发蒙古国草原大火 公司公开道歉](https://readhub.cn/topic/8xSD4h6BwCS?tab=daily)
-15. [华为董事、全球采购认证管理部总裁彭博离职，入职超 27 年](https://readhub.cn/topic/8xSZELF4S37?tab=daily)
-16. [中国生物制药 TQB2102 ADC 公布关键 III 期临床亮眼数据](https://readhub.cn/topic/8xTigNv1GsC?tab=daily)
+15. [中国生物制药 TQB2102 ADC 公布关键 III 期临床亮眼数据](https://readhub.cn/topic/8xTigNv1GsC?tab=daily)
+16. [华为董事、全球采购认证管理部总裁彭博离职，入职超 27 年](https://readhub.cn/topic/8xSZELF4S37?tab=daily)
 17. [科大讯飞在 1024 开发者节发布多项 AI 成果 含星辰 TaaS 平台等](https://readhub.cn/topic/8xSTaEBNBaj?tab=daily)
 18. [腾讯客服称微信目前已适配 iPhone Duo，后续将推出相关更新优化体验](https://readhub.cn/topic/8xQuLfbDbZj?tab=daily)
 19. [南方区域电力市场今起正式运行](https://readhub.cn/topic/8xTj1ScZlUD?tab=daily)
-20. [阿里千问提出 TRACE，FP4 强化学习 Rollout 最高加速 5.4 倍](https://readhub.cn/topic/8xSkfv9a997?tab=daily)
-21. [印度 eMudhra 宣布退出全球 SSL / TLS 证书业务](https://readhub.cn/topic/8xSTZ2qcS55?tab=daily)
-22. [产业资本频频出手 北交所上市公司增持回购升温](https://readhub.cn/topic/8xTbsNQGtv1?tab=daily)
-23. [多家机构预计百度三季度 AI 云基建收入增超 90% 维持买入评级](https://readhub.cn/topic/8xTry9yJSC4?tab=daily)
-24. [宇树新发布人形机器人演示侧空翻失误致小腿脱落](https://readhub.cn/topic/8xSWPHYzr5L?tab=daily)
-25. [抖音通报「AI 小海」治理结果：相关人物系 AI 合成数字人，账号及内容已依规处置](https://readhub.cn/topic/8xSugFO4GJm?tab=daily)
-26. [亚马逊 CEO 称 AWS 云服务容量基本售罄至 2027 年](https://readhub.cn/topic/8xTZNm6Ce80?tab=daily)
-27. [国产「造芯」智能体在武汉发布](https://readhub.cn/topic/8xTdJDbWM7F?tab=daily)
+20. [印度 eMudhra 宣布退出全球 SSL / TLS 证书业务](https://readhub.cn/topic/8xSTZ2qcS55?tab=daily)
+21. [欧美购物季备货带动华强北迎外商采购高峰](https://readhub.cn/topic/8xU5B5bvMcd?tab=daily)
+22. [多家机构预计百度三季度 AI 云基建收入增超 90% 维持买入评级](https://readhub.cn/topic/8xTry9yJSC4?tab=daily)
+23. [宇树新发布人形机器人演示侧空翻失误致小腿脱落](https://readhub.cn/topic/8xSWPHYzr5L?tab=daily)
+24. [阿里千问提出 TRACE，FP4 强化学习 Rollout 最高加速 5.4 倍](https://readhub.cn/topic/8xSkfv9a997?tab=daily)
+25. [国产「造芯」智能体在武汉发布](https://readhub.cn/topic/8xTdJDbWM7F?tab=daily)
+26. [产业资本频频出手 北交所上市公司增持回购升温](https://readhub.cn/topic/8xTbsNQGtv1?tab=daily)
+27. [亚马逊 CEO 称 AWS 云服务容量基本售罄至 2027 年](https://readhub.cn/topic/8xTZNm6Ce80?tab=daily)
 28. [科学家研究发现，梵高《星月夜》可能描绘 1889 年 7 月 22 日真实星空](https://readhub.cn/topic/8xRuU8lC6dZ?tab=daily)
-29. [欧美购物季备货带动华强北迎外商采购高峰](https://readhub.cn/topic/8xU5B5bvMcd?tab=daily)
-30. [Warp Sciences 获 2.15 亿美元融资 以机器人为药企合成分子](https://readhub.cn/topic/8xSlORPq9jN?tab=daily)
+29. [Warp Sciences 获 2.15 亿美元融资 以机器人为药企合成分子](https://readhub.cn/topic/8xSlORPq9jN?tab=daily)
+30. [抖音通报「AI 小海」治理结果：相关人物系 AI 合成数字人，账号及内容已依规处置](https://readhub.cn/topic/8xSugFO4GJm?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归 9 月，OpenAI 接连推出 GPT-6 Astra、GPT-6 Sol 等新模型，Anthropic 也发布了 Claude Opus 5.5 和 Claude Sonnet 5.5。在月之暗面公布的 Terminal-Bench 4.0 编程测试中，K3.1 Pro 获得 65.7% 的成绩，超过 GPT-6 Astra 的 58.2%，距离 Claude Opus 5.5 的 66.4% 仅差 0.7 个百分点。智能体方面，K3.1 Pro 在 Agents' Last Exam 测试中获得 43.2 分，超过 Claude Opus 5.5 的 42.6 分和 GPT-6 Astra 的 32.8 分。 麻省理工科技评论 8 小时前](https://www.mittrchina.com/news/detail/17136)
-2. [英伟达发布 RTX Remix 1.6：《我的世界》Java 版迎来路径追踪，A 卡性能提升约 20% 英伟达更新 RTX Remix，升级到最新 1.6 版本（GitHub 页面显示为 1.6.1），主要升级 DLSS 和 ComfyUI 2.0 资源管线，并实验性支持 Java 版《我的世界》游戏。RTX Remix 是英伟达推出的开源 PC 游戏重制与模组平台，目标是让社区开发者和玩家把老游戏升级为现代光追画面：加入路径追踪光照、物理材质（PBR）、高分辨率贴图、反射、阴影和全局光照等效果。在最新 1.6 版本中，英伟达重点引入 DLSS 5 的 3D 引导神经渲染、最高 6 倍多帧生成、原生 Windows on ARM 支持以及更强的 AI 模组制作工具，并实验性支持《我的世界》Java 版游戏。 IT 之家 2 小时前](https://www.ithome.com/1/017/403.htm)
-3. [字节 AI 应用再整合：小云雀并入即梦 近期剪映内部完成了一次业务整合，AI 短剧创作平台小云雀并入智能创作平台即梦，产品仍保留独立入口。一位前剪映人士告诉《智能涌现》，即梦、小云雀这样的 AI 原生产品虽然依旧保持增长，但用户增长尚未有效转化为与投入相匹配的回报，而市场上大量视频 Agent 产品的兴起，也在持续压缩自有产品的差异化空间。字节则是其中速度最快、调整最激进的一家大厂 —— 在即梦和小云雀团队的合并之外，他们还在讨论其它 AI 产品合并的可能性。 36Kr 32 分钟前](https://www.36kr.com/p/4039677577122946)
-4. [信通院报告：大模型词元价格回升明显，较去年下半年翻倍，日均消耗量增长 3 倍 中国信息通信研究院近日发布《大模型词元服务性能监测报告（2026 年）》，显示词元服务呈现量价齐升态势：国内词元价格较去年下半年翻倍，而消耗量增长达 3 倍。报告指出，越来越多模型即服务（MaaS）平台厂商通过公有云 API 方式供给大模型词元服务，但用户对词元服务性能缺乏直观判断依据、面临选型困难，这是报告开展的背景。经历过去两年价格战后，2026 年国内外模型服务价格明显上涨：归一化均价（将各家不同计价方式折算到统一口径以便横向比较）从 2025 年下半年的 6.8 元涨至 13.46 元，涨幅接近一倍。 36Kr 3 小时前](https://www.36kr.com/newsflashes/4039392032117641)
-5. [iRTE2026：对话 AI 如何迈向 AGI？声网 CEO 赵斌给出五级对话能力框架 声网创始人兼 CEO 赵斌在主论坛发表题为《对话 AGI：实时互动的下一章》的演讲，回顾了过去一年实时互动、对话式 AI 与底层基础设施的关键变化，并提出「五级对话能力」框架，勾勒对话式 AI 从基础应答走向深度理解与关系沟通的演进路径。从赵斌提出的五级对话能力框架，到两场圆桌对个人智能体与真实业务落地的探讨，iRTE2026 主论坛呈现出一个清晰的产业趋势：对话式 AI 的竞争正在从基础模型能力，延伸至上下文理解、实时交互、复杂关系认知与任务执行。面向对话 AGI 的下一阶段，声网将继续与开发者和行业伙伴共同探索实时互动与生成式 AI 的融合，推动人与人、人与 Agent 之间更加自然、高效的实时交互体验。 雷锋网 7 小时前](https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html)
-6. [16.99 万买 5 米纯电轿跑 大众安徽与众 09 上市：德系底盘 + 中国智驾 buff 叠满 大众安徽旗下纯电轿跑与众 09 今日正式上市，共推出 3 款车型，官方指导价 17.99 至 24.99 万元，其中 Ultra 版限时享受双十一惊喜价 16.99 万元。与众 09 定位 C 级纯电轿跑，车长 5081mm，轴距 3030mm，采用德系经典 GT 轿跑比例，长引擎盖短前悬搭配溜背 Fastback 车顶线条。智驾方面，与众 09 搭载大众「行云智行」系统，配备 26 颗高精度感知硬件，采用总算力 750TOPS 的图灵 AI 芯片，融合 VLA 大模型全场景智能辅助驾驶，支持城市道路和高速场景的全场景领航辅助。 快科技 2 小时前](https://news.mydrivers.com/1/1160/1160199.htm)
-7. [DeepSeek 披露单 GPU 每小时可创造 38 美元计费收入，AI 推理盈利能力引发关注 按照 DeepSeek API 谷时价格折算，平均每 GPU 小时对应约 38 美元的理论计费收入，若按全年不间断运行计算，年化计费收入超过 33 万美元。DeepSeek 通过专家并行、推测解码、异步调度及 KV Cache 优化等技术提升推理效率，但上述数字属于理论计费收入，并不等于实际营收或利润。分析认为，推理效率提升有望扩大 AI 服务的利润空间，但高效生产 Token 并不必然意味着商业盈利。 theblockbeats.info 5 小时前](https://www.theblockbeats.info/flash/373499)
-8. [三个 00 后创办的 AI 初创公司 Flapping Airplanes 完成 10 亿美元 A 轮融资 美国人工智能初创公司 Flapping Airplanes 宣布完成 10 亿美元（约合 67 亿元人民币）A 轮融资，由 Index Ventures 和 Lux Capital 联合领投，红杉资本、谷歌旗下风投机构 GV、Kleiner Perkins 等机构参投。与 OpenAI、Anthropic 等公司持续投入巨额资金、扩大模型规模的路径不同，Flapping Airplanes 提出了一个看似简单却极具挑战性的问题：能不能让人工智能使用更少的数据、更少的算力，获得同样甚至更强的智能。从种子轮到 10 月 A 轮的 10 亿美元，公司累计公开股权融资额约 11.8 亿美元。 创业邦 6 小时前](https://www.cyzone.cn/article/850316.html)
-9. [造成 50 人以上死伤才能叫停 AI 模型？Anthropic 私下推动监管草案惹众怒，达里奥亲自回应 在美国知名新闻媒体《Politico》和路透社披露的草案里，一条规定写道：政府若想叫停危险 AI 模型，必须证明其可能造成 50 人以上死亡，或 10 亿美元损失。《Politico》援引三名知情人士披露，Anthropic 正私下向美国国会议员推介一份联邦 AI 安全立法草案。但两者存在一个重要区别：加州法案主要用这一标准界定企业需要披露、评估的重大风险，而 Anthropic 参与推动的联邦方案，则进一步将相关标准用于特定模型禁令程序。 虎嗅网 6 小时前](https://www.huxiu.com/article/4900107.html?f=rss)
-10. [AI 破解数学难题，顶尖数学家怎么看？ 9 月，25 位菲尔兹奖得主联名发表《人工智能在数学中的严重错位》，指出解决难题并非数学研究的全部目标，对数学概念的理解与洞见同样重要。未来 AI 是否也有可能创造新的数学语言，从而开辟新的研究领域、拓展人类对数学的理解？某个问题被 AI 解决了，仍需要有数学研究者能看懂并解释 AI 的解决方法。 虎嗅网 1 小时前](https://www.huxiu.com/article/4900153.html?f=rss)
+1. [把整个地球装进 AI 模型：10 米分辨率，森林消失、农田变化都能追踪](https://www.mittrchina.com/news/detail/17138)
+2. [Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归](https://www.mittrchina.com/news/detail/17136)
+3. [百度健康 AI 服务 MAU 超 5000 万，发布好医矩阵和健康相机](https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html)
+4. [支付宝 AI 支付发起年度黑客松大赛，邀开发者把 AI 创意变成生意](https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html)
+5. [支付宝携手科大讯飞升级智能座舱服务](https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html)
+6. [消息称字节跳动 AI 短剧产品内部整合：小云雀并入即梦，仍保留独立入口](https://www.ithome.com/1/017/480.htm)
+7. [英伟达发布 RTX Remix 1.6：《我的世界》Java 版迎来路径追踪，A 卡性能提升约 20%](https://www.ithome.com/1/017/403.htm)
+8. [信通院报告：大模型词元价格回升明显，较去年下半年翻倍，日均消耗量增长 3 倍](https://www.36kr.com/newsflashes/4039392032117641)
+9. [AI 创投圈的「击鼓传花」？大佬揭底：75% 的收入都是左手倒右手](https://wallstreetcn.com/charts/41960087)
+10. [线上转战线下，AI 眼镜开打「巷战」](https://www.cyzone.cn/article/850239.html)
