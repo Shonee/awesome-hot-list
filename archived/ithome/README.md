@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-24 19:11:19
+> 更新时间：2026-10-24 20:15:57
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [Kimi K3.1 Pro 正式发布：月之暗面最强 3 万亿级模型，编程智能体测评超 GPT-6](https://www.ithome.com/1/017/284.htm)
 7. [17999 元开放购买：苹果 iPhone Duo 5 年不限次换电池套装三方开售](https://www.ithome.com/1/017/251.htm)
 8. [华为 Mate 90 系列手机开更鸿蒙 HarmonyOS 7.0.0.111 SP12 版本，新增畅连当面快速建群等功能](https://www.ithome.com/1/017/261.htm)
-9. [iPhone 17 Pro 京东 7458 元国补直降，AirPods 5 限时 755 元探底继续](https://www.ithome.com/1/017/214.htm)
-10. [中国联通开放 iPhone Duo 现货预约购买，无需验证“尊享挚友”2009 年老用户身份](https://www.ithome.com/1/017/246.htm)
-11. [华为 Mate 90 标准版 / Pro Max 等机型开放 24 期免息分期活动，国补价 5499 元起](https://www.ithome.com/1/017/303.htm)
-12. [男子醉酒后车机自动报警被判不构成自首：系统可以替你报警但不能替你自首](https://www.ithome.com/1/017/278.htm)
+9. [中国联通开放 iPhone Duo 现货预约购买，无需验证“尊享挚友”2009 年老用户身份](https://www.ithome.com/1/017/246.htm)
+10. [华为 Mate 90 标准版 / Pro Max 等机型开放 24 期免息分期活动，国补价 5499 元起](https://www.ithome.com/1/017/303.htm)
+11. [男子醉酒后车机自动报警被判不构成自首：系统可以替你报警但不能替你自首](https://www.ithome.com/1/017/278.htm)
+12. [开发者成功为小米 8 手机刷入苹果 iOS 16.5 系统，将机型伪装为 iPhone X](https://www.ithome.com/1/017/429.htm)

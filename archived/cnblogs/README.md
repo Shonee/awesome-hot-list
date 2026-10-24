@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-24 19:10:31
+> 更新时间：2026-10-24 20:15:33
 
 ## 最新帖子
 
-1. [[python] Python魔法方法完全指南](https://www.cnblogs.com/luohenyueji/p/23426490)
-2. [把 MilkDrop 搬进 .NET：9795 个预设、ANGLE/GLES3，以及一次「AI 许愿式」移植](https://www.cnblogs.com/sevencatwang/p/23426389)
-3. [一盏 LED 不够用了：让同一盏灯说出不同的话](https://www.cnblogs.com/zw-awa/p/23425820)
-4. [gin中的中间件ctx.Next()和ctx.Abort和全局中间件](https://www.cnblogs.com/ishoulgodo/p/23424526)
-5. [Nutanix 超融合：从架构原理到集群部署与上线运维的完整方案](https://www.cnblogs.com/Johny-zhao/p/23423463)
-6. [实战｜Windows10 2016 LTSB 彻底永久关闭自动更新](https://www.cnblogs.com/jyzhao/p/23422059)
-7. [PHP 曝出 9.2 分漏洞后，我重新想了下"不可能三角"对 C# 成不成立](https://www.cnblogs.com/shanyou/p/23422056)
-8. [两天烧100亿token，如何驾驶大肥鱼进行信息收集工作？](https://www.cnblogs.com/Reisentyan/p/23395393)
-9. [树链剖分详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23417765)
-10. [一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2）](https://www.cnblogs.com/token-ai/p/23415697)
-11. [华为云RDS Supabase AI应用已开放公测  ：30分钟搭建AI应用后端](https://www.cnblogs.com/huaweiyun/p/23415555)
-12. [Spring AI Alibaba -- 文生图、文生音及向量化](https://www.cnblogs.com/alineverstop/p/23413567)
-13. [9. 变量，存放与修改数据 | 点杯大杯奶茶](https://www.cnblogs.com/halfcode/p/23413471)
-14. [Agent YOLO 三端全开：一个 YOLO 面板，在 IntelliJ、Visual Studio、VS Code 里都能跑起来](https://www.cnblogs.com/cnsharp/p/23412695)
-15. [低成本本地模型能把「角色四视图」做到什么程度？](https://www.cnblogs.com/fs7744/p/23412320)
-16. [Oracle LogMiner 日志挖掘：原理、步骤、可执行脚本与结果解析](https://www.cnblogs.com/liuziyi1/p/23411433)
-17. [用 Python 从零搭一套 RAG 系统：40 行跑通，再谈优化](https://www.cnblogs.com/codigger/p/23411316)
-18. [[最优化技术] 3-9 共轭梯度法](https://www.cnblogs.com/h-elden/p/23378572)
-19. [让 LLM 输出不再失控：用 Pydantic 校验大模型输出](https://www.cnblogs.com/wang_yb/p/23409507)
-20. [【HarmonyOS SDK Skills】快速适配鸿蒙窗口智感旋转能力](https://www.cnblogs.com/HarmonyOSSDK/p/23409446)
+1. [.net core 使用枚举类而不是枚举类型及应用源生成器](https://www.cnblogs.com/xiangji/p/23426658)
+2. [大杂烩：创建自己的个人数据工作台](https://www.cnblogs.com/aspnetx/p/23426638)
+3. [【世界模型】Nano World Models（NanoWM）分析笔记](https://www.cnblogs.com/rossiXYZ/p/23426585)
+4. [[python] Python魔法方法完全指南](https://www.cnblogs.com/luohenyueji/p/23426490)
+5. [把 MilkDrop 搬进 .NET：9795 个预设、ANGLE/GLES3，以及一次「AI 许愿式」移植](https://www.cnblogs.com/sevencatwang/p/23426389)
+6. [一盏 LED 不够用了：让同一盏灯说出不同的话](https://www.cnblogs.com/zw-awa/p/23425820)
+7. [gin中的中间件ctx.Next()和ctx.Abort和全局中间件](https://www.cnblogs.com/ishoulgodo/p/23424526)
+8. [Nutanix 超融合：从架构原理到集群部署与上线运维的完整方案](https://www.cnblogs.com/Johny-zhao/p/23423463)
+9. [实战｜Windows10 2016 LTSB 彻底永久关闭自动更新](https://www.cnblogs.com/jyzhao/p/23422059)
+10. [PHP 曝出 9.2 分漏洞后，我重新想了下"不可能三角"对 C# 成不成立](https://www.cnblogs.com/shanyou/p/23422056)
+11. [两天烧100亿token，如何驾驶大肥鱼进行信息收集工作？](https://www.cnblogs.com/Reisentyan/p/23395393)
+12. [树链剖分详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23417765)
+13. [一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2）](https://www.cnblogs.com/token-ai/p/23415697)
+14. [华为云RDS Supabase AI应用已开放公测  ：30分钟搭建AI应用后端](https://www.cnblogs.com/huaweiyun/p/23415555)
+15. [Spring AI Alibaba -- 文生图、文生音及向量化](https://www.cnblogs.com/alineverstop/p/23413567)
+16. [9. 变量，存放与修改数据 | 点杯大杯奶茶](https://www.cnblogs.com/halfcode/p/23413471)
+17. [Agent YOLO 三端全开：一个 YOLO 面板，在 IntelliJ、Visual Studio、VS Code 里都能跑起来](https://www.cnblogs.com/cnsharp/p/23412695)
+18. [低成本本地模型能把「角色四视图」做到什么程度？](https://www.cnblogs.com/fs7744/p/23412320)
+19. [Oracle LogMiner 日志挖掘：原理、步骤、可执行脚本与结果解析](https://www.cnblogs.com/liuziyi1/p/23411433)
+20. [用 Python 从零搭一套 RAG 系统：40 行跑通，再谈优化](https://www.cnblogs.com/codigger/p/23411316)
 
 ## 精华帖子
 
@@ -55,4 +55,4 @@
 3. [这 8 个 NuGet 包，项目直接起飞](https://www.cnblogs.com/shenchuanchao/p/23374408/8-nuget-packages-project-takeoff)
 4. [一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2）](https://www.cnblogs.com/token-ai/p/23415697)
 5. [零依赖 C# Office 库到底怎么用——四个场景讲透 Wisdom.Office](https://www.cnblogs.com/forges/p/23408496)
-6. [Agent YOLO 三端全开：一个 YOLO 面板，在 IntelliJ、Visual Studio、VS Code 里都能跑起来](https://www.cnblogs.com/cnsharp/p/23412695)
+6. [PHP 曝出 9.2 分漏洞后，我重新想了下"不可能三角"对 C# 成不成立](https://www.cnblogs.com/shanyou/p/23422056)

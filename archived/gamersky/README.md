@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-24 19:11:19
+> 更新时间：2026-10-24 20:15:56
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [索尼DEI争议大作爆改韩国油腻师姐](https://www.gamersky.com/news/202610/2232075.shtml)
 12. [《地平线行者》杀疯了！干掉大量玩家账号 氪金也封](https://www.gamersky.com/news/202610/2233547.shtml)
 13. [《赛博朋克2077》更新官宣！联动《边缘行者2》](https://www.gamersky.com/news/202610/2231955.shtml)
-14. [《使命召唤》新作好评率达10年来最高！突破90%](https://www.gamersky.com/news/202610/2230261.shtml)
-15. [能娶老婆了！《红色沙漠》新增结婚系统：开挑美女吧](https://www.gamersky.com/news/202610/2232300.shtml)
+14. [兔娘去美国参加世界赛 自称不会便宜黑人:请粉丝放心](https://www.gamersky.com/news/202610/2234254.shtml)
+15. [《使命召唤》新作好评率达10年来最高！突破90%](https://www.gamersky.com/news/202610/2230261.shtml)
