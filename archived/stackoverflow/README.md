@@ -1,25 +1,25 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-24 09:07:07
+> 更新时间：2026-10-24 09:48:44
 
 ## 热门问题
 
 1. [Perforce - is this normal...?](https://stackoverflow.com/questions/80012180/perforce-is-this-normal)
-2. [ESP32 with platformio and Arduino framework - how do I activate NAT in lwip?](https://stackoverflow.com/questions/80012176/esp32-with-platformio-and-arduino-framework-how-do-i-activate-nat-in-lwip)
-3. [Oracle APEX running is encountered with error localhost refused to connect](https://stackoverflow.com/questions/80012174/oracle-apex-running-is-encountered-with-error-localhost-refused-to-connect)
-4. [Hey there, I request organic assistance debugging my fading-toolbar(JS)](https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs)
-5. [There's a link that I did not access that is in my history wondering if it could be identified](https://stackoverflow.com/questions/80012168/theres-a-link-that-i-did-not-access-that-is-in-my-history-wondering-if-it-could)
-6. [How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?](https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for)
-7. [How can I detect whether a font supports a specific Unicode character in JavaScript?](https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr)
-8. [Trying to use a Gemma model on Keras in Python, but the example code doesn't run](https://stackoverflow.com/questions/80012143/trying-to-use-a-gemma-model-on-keras-in-python-but-the-example-code-doesnt-run)
-9. [Getting System information Through VBA](https://stackoverflow.com/questions/80012151/getting-system-information-through-vba)
-10. [How to prevent Gemini from reading my website's tab in user's chrome](https://stackoverflow.com/questions/80012148/how-to-prevent-gemini-from-reading-my-websites-tab-in-users-chrome)
-11. [Trouble with the command in a Button in "tkmacosx"](https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx)
-12. [How to average two (or more) hexadecimal color codes into one color code?](https://stackoverflow.com/questions/80012119/how-to-average-two-or-more-hexadecimal-color-codes-into-one-color-code)
-13. [Cordova CLI build latest android version with minSDK version 22 crashes on 5.1 android device](https://stackoverflow.com/questions/80012142/cordova-cli-build-latest-android-version-with-minsdk-version-22-crashes-on-5-1-a)
-14. [What is the best platform to learn Python from beginner to advanced through hands-on practice?](https://stackoverflow.com/questions/80012121/what-is-the-best-platform-to-learn-python-from-beginner-to-advanced-through-hand)
-15. [How to obtain an accurate direction Angle for a mobile phone](https://stackoverflow.com/questions/80012144/how-to-obtain-an-accurate-direction-angle-for-a-mobile-phone)
-16. [what is metric.compute() and metric.reset()](https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset)
+2. [How to have multiple functions execute on different sheets with formula recalculations of data from Form submission?](https://stackoverflow.com/questions/80012183/how-to-have-multiple-functions-execute-on-different-sheets-with-formula-recalcul)
+3. [ESP32 with platformio and Arduino framework - how do I activate NAT in lwip?](https://stackoverflow.com/questions/80012176/esp32-with-platformio-and-arduino-framework-how-do-i-activate-nat-in-lwip)
+4. [Oracle APEX running is encountered with error localhost refused to connect](https://stackoverflow.com/questions/80012174/oracle-apex-running-is-encountered-with-error-localhost-refused-to-connect)
+5. [Hey there, I request organic assistance debugging my fading-toolbar(JS)](https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs)
+6. [There's a link that I did not access that is in my history wondering if it could be identified](https://stackoverflow.com/questions/80012168/theres-a-link-that-i-did-not-access-that-is-in-my-history-wondering-if-it-could)
+7. [How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?](https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for)
+8. [How can I detect whether a font supports a specific Unicode character in JavaScript?](https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr)
+9. [what is metric.compute() and metric.reset()](https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset)
+10. [Trying to use a Gemma model on Keras in Python, but the example code doesn't run](https://stackoverflow.com/questions/80012143/trying-to-use-a-gemma-model-on-keras-in-python-but-the-example-code-doesnt-run)
+11. [How to prevent Gemini from reading my website's tab in user's chrome](https://stackoverflow.com/questions/80012148/how-to-prevent-gemini-from-reading-my-websites-tab-in-users-chrome)
+12. [Trouble with the command in a Button in "tkmacosx"](https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx)
+13. [How to average two (or more) hexadecimal color codes into one color code?](https://stackoverflow.com/questions/80012119/how-to-average-two-or-more-hexadecimal-color-codes-into-one-color-code)
+14. [Cordova CLI build latest android version with minSDK version 22 crashes on 5.1 android device](https://stackoverflow.com/questions/80012142/cordova-cli-build-latest-android-version-with-minsdk-version-22-crashes-on-5-1-a)
+15. [Getting System information Through VBA](https://stackoverflow.com/questions/80012151/getting-system-information-through-vba)
+16. [How to obtain an accurate direction Angle for a mobile phone](https://stackoverflow.com/questions/80012144/how-to-obtain-an-accurate-direction-angle-for-a-mobile-phone)
 17. [Script executes before the HTML elements have been rendered in the DOM Even though I used `defer`](https://stackoverflow.com/questions/80012114/script-executes-before-the-html-elements-have-been-rendered-in-the-dom-even-thou)
 18. [Why does this linked-list C code segfault?](https://stackoverflow.com/questions/80012068/why-does-this-linked-list-c-code-segfault)
 19. [How can the choice of `a` of a `Maybe a` being pattern matched cause both `Nothing` and `Just _` guards to fail?](https://stackoverflow.com/questions/80012055/how-can-the-choice-of-a-of-a-maybe-a-being-pattern-matched-cause-both-nothi)
