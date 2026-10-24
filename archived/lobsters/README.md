@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-24 14:20:05
+> 更新时间：2026-10-24 15:12:19
 
 ## Hottest
 
@@ -23,9 +23,9 @@
 17. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
 18. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
 19. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
-20. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
-21. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
-22. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-23. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
-24. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
-25. [The Hibernate Origin Story (Outsider Edition)](https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story)
+20. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+21. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
+22. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
+23. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+24. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
+25. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
