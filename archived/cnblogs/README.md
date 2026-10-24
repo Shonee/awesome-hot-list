@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-24 13:11:17
+> 更新时间：2026-10-24 14:18:56
 
 ## 最新帖子
 
@@ -54,5 +54,5 @@
 2. [你的WorkBuddy不好用，大概率是这些配置没设置好](https://www.cnblogs.com/xiezhr/p/23408411)
 3. [这 8 个 NuGet 包，项目直接起飞](https://www.cnblogs.com/shenchuanchao/p/23374408/8-nuget-packages-project-takeoff)
 4. [让 Agent 把视频做出来：DeepSeek Harness × DeepSeek-V4.1-Flash 视频生产流水线](https://www.cnblogs.com/znlgis/p/23402179)
-5. [AI学会写代码之后，程序员节为什么更重要了](https://www.cnblogs.com/codigger/p/23399591)
-6. [一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2）](https://www.cnblogs.com/token-ai/p/23415697)
+5. [一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2）](https://www.cnblogs.com/token-ai/p/23415697)
+6. [零依赖 C# Office 库到底怎么用——四个场景讲透 Wisdom.Office](https://www.cnblogs.com/forges/p/23408496)

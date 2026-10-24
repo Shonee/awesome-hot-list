@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-24 13:40:27
+> 更新时间：2026-10-24 14:20:05
 
 ## Hottest
 
@@ -13,19 +13,19 @@
 7. [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 8. [Debunking "Faster than Rust": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
 9. [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
-10. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
-11. [What are you doing this weekend?](https://lobste.rs/s/crqz1g)
+10. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+11. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
 12. [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
-13. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
-14. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
+13. [What are you doing this weekend?](https://lobste.rs/s/crqz1g)
+14. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 15. [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
-16. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
-17. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
-18. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
-19. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
+16. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
+17. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
+18. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
+19. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
 20. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
-21. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-22. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
-23. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
-24. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
+21. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
+22. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+23. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
+24. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
 25. [The Hibernate Origin Story (Outsider Edition)](https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story)

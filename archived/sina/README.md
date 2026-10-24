@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-24 13:39:39
+> 更新时间：2026-10-24 14:19:18
 
 ## 新闻热榜
 
 1. [黄仁勋最新涉华发声](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwaa8277084.shtml)
 2. [31号“烟花”今天凌晨生成，最新路径公布，今年或成为本世纪以来台风生成最多的一年](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnya2341777.shtml)
-3. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
-4. [难得的一个好消息](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxu8211056.shtml)
+3. [难得的一个好消息](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxu8211056.shtml)
+4. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
 5. [王志军任湖南省委书记](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhtfy2248693.shtml)
 6. [牛弹琴：难得的一个好消息](https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhnxw4986789.shtml)
 7. [“遗骸的切割痕迹与电锯吻合”！香港名媛遭前夫碎尸，化验师披露细节](https://news.sina.com.cn/2026-10-24/doc-iniwhnya2338588.shtml)
-8. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
-9. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
-10. [八旬母亲有退休金，子女就能不付赡养费？法院判了](https://news.sina.com.cn/c/2026-10-23/doc-iniwffeq1900413.shtml)
-11. [[新浪彩票]足彩第26149期任九：切尔西信心不足](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8214702.shtml)
-12. [清晨，集体跳水！霍尔木兹海峡，突发大消息](https://finance.sina.com.cn/stock/zqgd/2026-10-24/doc-iniwhnxw4975380.shtml)
-13. [斯图加特冷负造足彩头奖空开 二等19万滚存623万](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8211117.shtml)
-14. [周六足彩伤停：阿森纳边锋萨卡伤缺 热刺失5主力](https://sports.sina.com.cn/l/2026-10-23/doc-iniweyws1977538.shtml)
-15. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
+8. [[新浪彩票]足彩第26149期任九：切尔西信心不足](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8214702.shtml)
+9. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
+10. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
+11. [八旬母亲有退休金，子女就能不付赡养费？法院判了](https://news.sina.com.cn/c/2026-10-23/doc-iniwffeq1900413.shtml)
+12. [斯图加特冷负造足彩头奖空开 二等19万滚存623万](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8211117.shtml)
+13. [周六足彩伤停：阿森纳边锋萨卡伤缺 热刺失5主力](https://sports.sina.com.cn/l/2026-10-23/doc-iniweyws1977538.shtml)
+14. [清晨，集体跳水！霍尔木兹海峡，突发大消息](https://finance.sina.com.cn/stock/zqgd/2026-10-24/doc-iniwhnxw4975380.shtml)
+15. [22岁女大学生确诊癌症，妈妈后悔大哭：半年前发现症状，宽慰女儿“年轻没事的”，就诊时已疯长至4厘米](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxy1628560.shtml)
 16. [28岁女子陪丈夫看病，意外得知腹中胎儿已接近足月](https://news.sina.com.cn/s/2026-10-23/doc-iniweyws1919323.shtml)
-17. [西藏巴青地震救援最新消息，新华社记者现场直击→](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxw4977584.shtml)
-18. [[新浪彩票]足彩26149期冷热指数：马竞压制取胜](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxw5005512.shtml)
-19. [持续领跑，中国拿下全球81.8%的新船订单](https://news.sina.com.cn/c/2026-10-23/doc-iniwfmnn1889202.shtml)
-20. [[新浪彩票]足彩第26149期大势：多特重点防平](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxy1617372.shtml)
+17. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
+18. [[新浪彩票]足彩第26149期大势：多特重点防平](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxy1617372.shtml)
+19. [[新浪彩票]足彩26149期冷热指数：马竞压制取胜](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxw5005512.shtml)
+20. [西藏巴青地震救援最新消息，新华社记者现场直击→](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxw4977584.shtml)
 
 ## 财经热榜
 

@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-24 13:11:14
+> 更新时间：2026-10-24 14:18:53
 
 ## 热门文章
 
@@ -20,17 +20,17 @@
 14. [多进程环境下使用 PM2 部署 Socket.IO：需要注意什么](https://juejin.cn/post/7699047775224725530)
 15. [牛一越界，大屏 3 秒飞到它身边：我用真实卫星数据 + Three.js 做了个 3D 智慧牧场](https://juejin.cn/post/7698947426488959016)
 16. [当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控](https://juejin.cn/post/7699017769225928744)
-17. [1024程序员节：AI时代，为什么我们依然需要程序员](https://juejin.cn/post/7699079109012897792)
-18. [用 TRAE 把 Markdown文档 搬到微信公众号](https://juejin.cn/post/7699372774716997642)
+17. [用 TRAE 把 Markdown文档 搬到微信公众号](https://juejin.cn/post/7699372774716997642)
+18. [1024程序员节：AI时代，为什么我们依然需要程序员](https://juejin.cn/post/7699079109012897792)
 19. [代码越来越便宜，为什么系统却越来越难升级？](https://juejin.cn/post/7698920849558552602)
 20. [别照抄网上的 php2shell 复现脚本：PHP 内核这次到底碎在哪，4 个真相（2026）](https://juejin.cn/post/7699300052456652800)
 21. [DeepSeek 又出王炸，用 DeepInfer 搭建自己的服务是不是很容易？](https://juejin.cn/post/7698799059633979446)
 22. [程序员 1v1 访谈系列第六期：国企也降薪裁员](https://juejin.cn/post/7699445731564027919)
 23. [为什么你的 Claude Code 还在转圈等，别人的已经干完三件事了？](https://juejin.cn/post/7698999578180747291)
 24. [AI 写代码越来越爽，但程序员可能越来越废了](https://juejin.cn/post/7698930473150775350)
-25. [Claude Code 接入 DeepSeek V4.1 与 MiniMax M3.1 实测：200+ TPS 下的代码准确率与 Token 账单](https://juejin.cn/post/7698960692758446130)
+25. [AI 都这么强了，咱们程序员以后还能干点啥？](https://juejin.cn/post/7699679577757335587)
 26. [从数字化到数智化：3D 可视化大屏的下一个五年](https://juejin.cn/post/7699300052456701952)
-27. [AI 都这么强了，咱们程序员以后还能干点啥？](https://juejin.cn/post/7699679577757335587)
+27. [Claude Code 接入 DeepSeek V4.1 与 MiniMax M3.1 实测：200+ TPS 下的代码准确率与 Token 账单](https://juejin.cn/post/7698960692758446130)
 28. [一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏](https://juejin.cn/post/7699372774716801034)
 29. [我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一](https://juejin.cn/post/7699123334672089107)
 30. [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163)
@@ -52,5 +52,5 @@
 46. [从空目录到上线：我全程用 TRAE 做了一款微信小游戏合集（含一次完整架构重构）](https://juejin.cn/post/7699151233140162600)
 47. [GitHub 日榜趋势速报 | 2026-10-22](https://juejin.cn/post/7699027015433273394)
 48. [我搭了一条「AI 漫画 → 微信公众号草稿箱」的完整流水线（开源）](https://juejin.cn/post/7698761923182297098)
-49. [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745)
-50. [PHP爆出10年来最严重漏洞，AI只花了2天就挖出来了](https://juejin.cn/post/7699307133641687083)
+49. [PHP爆出10年来最严重漏洞，AI只花了2天就挖出来了](https://juejin.cn/post/7699307133641687083)
+50. [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745)
