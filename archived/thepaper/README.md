@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-24 16:15:10
+> 更新时间：2026-10-24 17:12:35
 
 ## 热新闻
 
@@ -9,11 +9,11 @@
 3. [图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责](https://www.thepaper.cn/newsDetail_forward_34301129)
 4. [博闻丨举报校内有“风水蛙”后，老师年度考核被判不合格](https://www.thepaper.cn/newsDetail_forward_34321749)
 5. [马上评｜施救顾客反被索赔46万？“好人条款”为善意撑腰](https://www.thepaper.cn/newsDetail_forward_34318183)
-6. [言短意长｜想挣我钱，又喊我“老登”？](https://www.thepaper.cn/newsDetail_forward_34317927)
-7. [当AI开始写代码，还需要什么样的程序员？](https://www.thepaper.cn/newsDetail_forward_34225156)
+6. [当AI开始写代码，还需要什么样的程序员？](https://www.thepaper.cn/newsDetail_forward_34225156)
+7. [樊振东发文抵制偷拍，人民日报：偷拍根本不是“爱”](https://www.thepaper.cn/newsDetail_forward_34321099)
 8. [iPhone Duo发售首日：多地门店前挤满“黄牛”，溢价缩水有人喊亏](https://www.thepaper.cn/newsDetail_forward_34318635)
-9. [樊振东发文抵制偷拍，人民日报：偷拍根本不是“爱”](https://www.thepaper.cn/newsDetail_forward_34321099)
-10. [抖音通报“AI小海”治理结果：相关人物系AI合成数字人，相关账号及内容已被依规处置](https://www.thepaper.cn/newsDetail_forward_34320317)
+9. [抖音通报“AI小海”治理结果：相关人物系AI合成数字人，相关账号及内容已被依规处置](https://www.thepaper.cn/newsDetail_forward_34320317)
+10. [董明珠发话“长头发该剪了”，珠海格力技工学校为师生安排免费剪发](https://www.thepaper.cn/newsDetail_forward_34324990)
 11. [马上评丨车企叫你一声“老登”，你答应不答应？](https://www.thepaper.cn/newsDetail_forward_34319646)
 12. [联大背后的私密外交：当帝国边缘的“牛马”遭遇顶级政治秀｜907编辑部](https://www.thepaper.cn/newsDetail_forward_34318468)
 13. [AI算力市场需求持续旺盛：寒武纪三季度营收翻倍，净利14亿元增近1.5倍](https://www.thepaper.cn/newsDetail_forward_34320341)
