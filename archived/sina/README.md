@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-24 18:11:27
+> 更新时间：2026-10-24 19:10:54
 
 ## 新闻热榜
 
@@ -9,21 +9,21 @@
 3. [新任湖南省委书记王志军：完全拥护、坚决服从党中央决定](https://news.sina.com.cn/zx/2026-10-24/doc-iniwicvq4782489.shtml)
 4. [31号“烟花”今天凌晨生成，最新路径公布，今年或成为本世纪以来台风生成最多的一年](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnya2341777.shtml)
 5. [王志军任湖南省委书记](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhtfy2248693.shtml)
-6. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
-7. [[新浪彩票]足彩第26149期任九：切尔西信心不足](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8214702.shtml)
+6. [[新浪彩票]足彩第26149期任九：切尔西信心不足](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8214702.shtml)
+7. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
 8. [牛弹琴：难得的一个好消息](https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhnxw4986789.shtml)
 9. [[新浪彩票]足彩第26149期大势：多特重点防平](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxy1617372.shtml)
-10. [22岁女大学生确诊癌症，妈妈后悔大哭：半年前发现症状，宽慰女儿“年轻没事的”，就诊时已疯长至4厘米](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxy1628560.shtml)
-11. [“遗骸的切割痕迹与电锯吻合”！香港名媛遭前夫碎尸，化验师披露细节](https://news.sina.com.cn/2026-10-24/doc-iniwhnya2338588.shtml)
-12. [[新浪彩票]足彩26149期冷热指数：马竞压制取胜](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxw5005512.shtml)
-13. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
-14. [斯图加特冷负造足彩头奖空开 二等19万滚存623万](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8211117.shtml)
-15. [[新浪彩票]足彩26149期盈亏指数：莱比锡值得信任](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxy1618834.shtml)
+10. [[新浪彩票]足彩26149期冷热指数：马竞压制取胜](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxw5005512.shtml)
+11. [22岁女大学生确诊癌症，妈妈后悔大哭：半年前发现症状，宽慰女儿“年轻没事的”，就诊时已疯长至4厘米](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxy1628560.shtml)
+12. [[新浪彩票]足彩26149期盈亏指数：莱比锡值得信任](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxy1618834.shtml)
+13. [“遗骸的切割痕迹与电锯吻合”！香港名媛遭前夫碎尸，化验师披露细节](https://news.sina.com.cn/2026-10-24/doc-iniwhnya2338588.shtml)
+14. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
+15. [斯图加特冷负造足彩头奖空开 二等19万滚存623万](https://sports.sina.com.cn/l/2026-10-24/doc-iniwhnxu8211117.shtml)
 16. [郭宁宁任福建省政府党组书记](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhtfu4957499.shtml)
 17. [任泽平账号违规被禁止关注](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhtfs8190221.shtml)
-18. [西藏巴青地震救援最新消息，新华社记者现场直击→](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxw4977584.shtml)
-19. [“订单排到2031年”！重量级国货，爆单→](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhtfu4937996.shtml)
-20. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
+18. [“订单排到2031年”！重量级国货，爆单→](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhtfu4937996.shtml)
+19. [谢卫江同志任湖南省政府党组书记](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhxpw2175685.shtml)
+20. [西藏巴青地震救援最新消息，新华社记者现场直击→](https://news.sina.com.cn/zx/2026-10-24/doc-iniwhnxw4977584.shtml)
 
 ## 财经热榜
 

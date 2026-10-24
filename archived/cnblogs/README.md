@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-24 18:10:59
+> 更新时间：2026-10-24 19:10:31
 
 ## 最新帖子
 
-1. [一盏 LED 不够用了：让同一盏灯说出不同的话](https://www.cnblogs.com/zw-awa/p/23425820)
-2. [gin中的中间件ctx.Next()和ctx.Abort和全局中间件](https://www.cnblogs.com/ishoulgodo/p/23424526)
-3. [Nutanix 超融合：从架构原理到集群部署与上线运维的完整方案](https://www.cnblogs.com/Johny-zhao/p/23423463)
-4. [实战｜Windows10 2016 LTSB 彻底永久关闭自动更新](https://www.cnblogs.com/jyzhao/p/23422059)
-5. [PHP 曝出 9.2 分漏洞后，我重新想了下"不可能三角"对 C# 成不成立](https://www.cnblogs.com/shanyou/p/23422056)
-6. [两天烧100亿token，如何驾驶大肥鱼进行信息收集工作？](https://www.cnblogs.com/Reisentyan/p/23395393)
-7. [树链剖分详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23417765)
-8. [一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2）](https://www.cnblogs.com/token-ai/p/23415697)
-9. [华为云RDS Supabase AI应用已开放公测  ：30分钟搭建AI应用后端](https://www.cnblogs.com/huaweiyun/p/23415555)
-10. [Spring AI Alibaba -- 文生图、文生音及向量化](https://www.cnblogs.com/alineverstop/p/23413567)
-11. [9. 变量，存放与修改数据 | 点杯大杯奶茶](https://www.cnblogs.com/halfcode/p/23413471)
-12. [Agent YOLO 三端全开：一个 YOLO 面板，在 IntelliJ、Visual Studio、VS Code 里都能跑起来](https://www.cnblogs.com/cnsharp/p/23412695)
-13. [低成本本地模型能把「角色四视图」做到什么程度？](https://www.cnblogs.com/fs7744/p/23412320)
-14. [Oracle LogMiner 日志挖掘：原理、步骤、可执行脚本与结果解析](https://www.cnblogs.com/liuziyi1/p/23411433)
-15. [用 Python 从零搭一套 RAG 系统：40 行跑通，再谈优化](https://www.cnblogs.com/codigger/p/23411316)
-16. [[最优化技术] 3-9 共轭梯度法](https://www.cnblogs.com/h-elden/p/23378572)
-17. [让 LLM 输出不再失控：用 Pydantic 校验大模型输出](https://www.cnblogs.com/wang_yb/p/23409507)
-18. [【HarmonyOS SDK Skills】快速适配鸿蒙窗口智感旋转能力](https://www.cnblogs.com/HarmonyOSSDK/p/23409446)
-19. [老旧办公电脑安装Linux系统（1）——初步印象](https://www.cnblogs.com/zwj365589/p/23112895)
-20. [机器周期与共地：时钟基准和电压参考基准](https://www.cnblogs.com/zw-awa/p/23408615)
+1. [[python] Python魔法方法完全指南](https://www.cnblogs.com/luohenyueji/p/23426490)
+2. [把 MilkDrop 搬进 .NET：9795 个预设、ANGLE/GLES3，以及一次「AI 许愿式」移植](https://www.cnblogs.com/sevencatwang/p/23426389)
+3. [一盏 LED 不够用了：让同一盏灯说出不同的话](https://www.cnblogs.com/zw-awa/p/23425820)
+4. [gin中的中间件ctx.Next()和ctx.Abort和全局中间件](https://www.cnblogs.com/ishoulgodo/p/23424526)
+5. [Nutanix 超融合：从架构原理到集群部署与上线运维的完整方案](https://www.cnblogs.com/Johny-zhao/p/23423463)
+6. [实战｜Windows10 2016 LTSB 彻底永久关闭自动更新](https://www.cnblogs.com/jyzhao/p/23422059)
+7. [PHP 曝出 9.2 分漏洞后，我重新想了下"不可能三角"对 C# 成不成立](https://www.cnblogs.com/shanyou/p/23422056)
+8. [两天烧100亿token，如何驾驶大肥鱼进行信息收集工作？](https://www.cnblogs.com/Reisentyan/p/23395393)
+9. [树链剖分详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23417765)
+10. [一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2）](https://www.cnblogs.com/token-ai/p/23415697)
+11. [华为云RDS Supabase AI应用已开放公测  ：30分钟搭建AI应用后端](https://www.cnblogs.com/huaweiyun/p/23415555)
+12. [Spring AI Alibaba -- 文生图、文生音及向量化](https://www.cnblogs.com/alineverstop/p/23413567)
+13. [9. 变量，存放与修改数据 | 点杯大杯奶茶](https://www.cnblogs.com/halfcode/p/23413471)
+14. [Agent YOLO 三端全开：一个 YOLO 面板，在 IntelliJ、Visual Studio、VS Code 里都能跑起来](https://www.cnblogs.com/cnsharp/p/23412695)
+15. [低成本本地模型能把「角色四视图」做到什么程度？](https://www.cnblogs.com/fs7744/p/23412320)
+16. [Oracle LogMiner 日志挖掘：原理、步骤、可执行脚本与结果解析](https://www.cnblogs.com/liuziyi1/p/23411433)
+17. [用 Python 从零搭一套 RAG 系统：40 行跑通，再谈优化](https://www.cnblogs.com/codigger/p/23411316)
+18. [[最优化技术] 3-9 共轭梯度法](https://www.cnblogs.com/h-elden/p/23378572)
+19. [让 LLM 输出不再失控：用 Pydantic 校验大模型输出](https://www.cnblogs.com/wang_yb/p/23409507)
+20. [【HarmonyOS SDK Skills】快速适配鸿蒙窗口智感旋转能力](https://www.cnblogs.com/HarmonyOSSDK/p/23409446)
 
 ## 精华帖子
 
