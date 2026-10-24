@@ -1,13 +1,13 @@
 # 汽车之家热榜
 
-> 更新时间：2026-10-24 14:51:08
+> 更新时间：2026-10-24 15:40:29
 
 ## 每日热点榜
 
 1. [比亚迪全新秦PLUS内饰官图](http://www.autohome.com.cn/news/202610/1317930.html)
 2. [2027款极狐阿尔法S5开启预售](http://www.autohome.com.cn/news/202610/1317947.html)
 3. [小鹏产品经理为不当言辞道歉](https://chejiahao.autohome.com.cn/info/26716575#pvareaid=6834132)
-4. [魏牌蓝山二代10月27日全球首秀](http://www.autohome.com.cn/news/202610/1317943.html)
+4. [魏牌蓝山二代10月27日首秀](http://www.autohome.com.cn/news/202610/1317943.html)
 5. [仰望行政轿车前脸谍照曝光](http://www.autohome.com.cn/news/202610/1317944.html)
 6. [27款坦克500上市 售33.5万起](http://www.autohome.com.cn/news/202610/1317955.html)
 7. [全新一代比亚迪唐预扣款价曝光](http://www.autohome.com.cn/news/202610/1317919.html)
@@ -18,18 +18,15 @@
 12. [雷克萨斯LFA电动版谍照曝光](https://chejiahao.autohome.com.cn/info/26713707#pvareaid=6834132)
 13. [大众ID.AURAL5六种车色官图公布](https://chejiahao.autohome.com.cn/info/26716610#pvareaid=6834132)
 14. [赛力斯张兴海：只有把安全守牢才是真正对用户负责](http://www.autohome.com.cn/news/202610/1317922.html)
-15. [特斯拉门店外车辆起火多车被烧](https://chejiahao.autohome.com.cn/info/26705650#pvareaid=6834132)
-16. [小米成立汽车安全研究中心](http://www.autohome.com.cn/news/202610/1317916.html)
+15. [小米成立汽车安全研究中心](http://www.autohome.com.cn/news/202610/1317916.html)
+16. [智界V9海外版实车图](http://www.autohome.com.cn/news/202610/1317926.html)
 17. [新款吉利博越上市限时7.89万起](http://www.autohome.com.cn/news/202610/1317956.html)
-18. [智界V9海外版实车图](http://www.autohome.com.cn/news/202610/1317926.html)
-19. [奇瑞也要造摩托了](https://chejiahao.autohome.com.cn/info/26713063#pvareaid=6834132)
-20. [理想i6 10月28日将上市](http://www.autohome.com.cn/news/202610/1317910.html)
-21. [问界M9事故原因探讨](https://chejiahao.autohome.com.cn/info/26696862#pvareaid=6834132)
-22. [深蓝L06开启新一轮OTA推送](http://www.autohome.com.cn/news/202610/1317929.html)
-23. [宝马i3旅行版假想图](http://www.autohome.com.cn/news/202610/1317927.html)
-24. [岚图全新MPV谍照曝光](http://www.autohome.com.cn/news/202610/1317902.html)
-25. [现代Porter纯电卡车谍照曝光](http://www.autohome.com.cn/news/202610/1317928.html)
-26. [比亚迪张卓回应海鸥无仪表设计](https://chejiahao.autohome.com.cn/info/26700466#pvareaid=6834132)
-27. [奥迪Q9谍照曝光2027年入华](https://chejiahao.autohome.com.cn/info/26718810#pvareaid=6834132)
-28. [小鹏回应3人套取餐补被辞退](https://chejiahao.autohome.com.cn/info/26718750#pvareaid=6834132)
-29. [小米SU7Ultra纽北新动态曝光](https://chejiahao.autohome.com.cn/info/26722807#pvareaid=6834132)
+18. [特斯拉门店外车辆起火多车被烧](https://chejiahao.autohome.com.cn/info/26705650#pvareaid=6834132)
+19. [理想i6 10月28日将上市](http://www.autohome.com.cn/news/202610/1317910.html)
+20. [深蓝L06开启新一轮OTA推送](http://www.autohome.com.cn/news/202610/1317929.html)
+21. [宝马i3旅行版假想图](http://www.autohome.com.cn/news/202610/1317927.html)
+22. [岚图全新MPV谍照曝光](http://www.autohome.com.cn/news/202610/1317902.html)
+23. [现代Porter纯电卡车谍照曝光](http://www.autohome.com.cn/news/202610/1317928.html)
+24. [比亚迪张卓回应海鸥无仪表设计](https://chejiahao.autohome.com.cn/info/26700466#pvareaid=6834132)
+25. [奥迪Q9谍照曝光2027年入华](https://chejiahao.autohome.com.cn/info/26718810#pvareaid=6834132)
+26. [小鹏回应3人套取餐补被辞退](https://chejiahao.autohome.com.cn/info/26718750#pvareaid=6834132)
