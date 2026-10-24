@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-24 12:40:52
+> 更新时间：2026-10-24 13:11:29
 
 ## 热点榜
 
@@ -14,13 +14,13 @@
 8. [视频丨轮番“过招”，强度拉满！看舰艇海上训练现场](https://view.inews.qq.com/a/20261024A03YIL00)
 9. [国家统计局：10月中旬22种产品价格上涨，生猪价格环比下降4.9%](https://view.inews.qq.com/a/20261024A04E5T00)
 10. [视频丨持续整治“AI魔改” 9月清理违规视频近13000条](https://view.inews.qq.com/a/20261024A02VW700)
-11. [皮肤发黄，说明肝脏不好？](https://view.inews.qq.com/a/20261023A04B7I00)
+11. [“聚能环”能节省燃气？](https://view.inews.qq.com/a/20261024A04TPG00)
 12. [视频丨截至今日13时 西藏巴青地震已致16人遇难、76人受伤](https://view.inews.qq.com/a/20261023A08T7A00)
 13. [官宣！多部门将到地方暗访检查](https://view.inews.qq.com/a/20261024A03R2Z00)
 14. [超话车｜车企没了，数十万辆新能源“孤儿车”谁来负责修](https://view.inews.qq.com/a/20261024A037UB00)
-15. [百亿龙头净利暴增超19400%](https://view.inews.qq.com/a/20261023A0DOU400)
-16. [美国稀土大项目，黄了](https://view.inews.qq.com/a/20261023A0DQHS00)
-17. [香港警务处举行最高荣誉丧礼送别朱振国！生前遭人割颈致瘫痪](https://view.inews.qq.com/a/20261023A0ELXW00)
-18. [这次，中美合作，打破了世界纪录！](https://view.inews.qq.com/a/20261023A0923B00)
-19. [震惊全美！美国二战标志性雕像被“斩首”](https://view.inews.qq.com/a/20261023A0C72W00)
-20. [美航天局加快推进月球基地建设，计划2028年实现载人登月](https://view.inews.qq.com/a/20261024A036ZW00)
+15. [美国稀土大项目，黄了](https://view.inews.qq.com/a/20261023A0DQHS00)
+16. [香港警务处举行最高荣誉丧礼送别朱振国！生前遭人割颈致瘫痪](https://view.inews.qq.com/a/20261023A0ELXW00)
+17. [这次，中美合作，打破了世界纪录！](https://view.inews.qq.com/a/20261023A0923B00)
+18. [震惊全美！美国二战标志性雕像被“斩首”](https://view.inews.qq.com/a/20261023A0C72W00)
+19. [见证历史！首部龙标AI电影正式上映，首日票房达6位数](https://view.inews.qq.com/a/20261023A0EM3100)
+20. [女子称在星巴克店内开会1小时被提醒点单5次；星巴克回应：我们倡导友善共享，相互尊重，而非冲突，会结合门店实际情况灵活处理](https://view.inews.qq.com/a/20261023A079OI00)
