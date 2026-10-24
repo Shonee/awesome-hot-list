@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-24 08:30:57
+> 更新时间：2026-10-24 09:06:20
 
 ## 新闻热榜
 
 1. [黄仁勋最新涉华发声](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwaa8277084.shtml)
-2. [苏群：76人的配合是多巨头球队很难见到的 尤其是得分分布很平均](https://sports.sina.com.cn/basketball/nba/2026-10-21/doc-inivyhkr6237599.shtml)
-3. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
+2. [中部大省“抢人”，这次不只靠省会](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwak2514265.shtml)
+3. [苏群：76人的配合是多巨头球队很难见到的 尤其是得分分布很平均](https://sports.sina.com.cn/basketball/nba/2026-10-21/doc-inivyhkr6237599.shtml)
 4. [1500个重大工程项目！六部门最新部署](https://news.sina.com.cn/c/2026-10-24/doc-iniwfwah1787195.shtml)
-5. [Meta：我们将在论坛上推出新工具。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5038346.shtml)
-6. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
-7. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
-8. [俄军宣布27日起在赫尔松方向停火并实行“静默状态”](https://news.sina.com.cn/w/2026-10-24/doc-iniwfwak2527777.shtml)
-9. [八旬母亲有退休金，子女就能不付赡养费？法院判了](https://news.sina.com.cn/c/2026-10-23/doc-iniwffeq1900413.shtml)
-10. [Frasers：因其持股已超 50%，雨果博斯（Hugo Boss）将成为其子公司。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5117161.shtml)
+5. [德媒感慨：中国人看德国，正从敬佩变成惋惜](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrue8255791.shtml)
+6. [德国总统时隔8年将再次访华，外交部回应](https://news.sina.com.cn/c/2026-10-23/doc-iniweyws1937492.shtml)
+7. [Meta：我们将在论坛上推出新工具。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5038346.shtml)
+8. [八旬母亲有退休金，子女就能不付赡养费？法院判了](https://news.sina.com.cn/c/2026-10-23/doc-iniwffeq1900413.shtml)
+9. [俄军宣布27日起在赫尔松方向停火并实行“静默状态”](https://news.sina.com.cn/w/2026-10-24/doc-iniwfwak2527777.shtml)
+10. [持续领跑，中国拿下全球81.8%的新船订单](https://news.sina.com.cn/c/2026-10-23/doc-iniwfmnn1889202.shtml)
 11. [时政新闻眼丨如何走好新的长征路？习近平提出“五个必须”](https://news.sina.com.cn/c/xl/2026-10-23/doc-iniweqhw1986350.shtml)
-12. [持续领跑，中国拿下全球81.8%的新船订单](https://news.sina.com.cn/c/2026-10-23/doc-iniwfmnn1889202.shtml)
-13. [四川合纵药易购财报解读：净利润大降72.87% 经营现金流暴增207.76%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-23/doc-iniwfrue8235956.shtml)
-14. [特朗普：或与马斯克沟通乌克兰使用“星链”受限问题](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5023842.shtml)
-15. [Anthropic推出Claude Duet智能体研究预览版。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaka5068322.shtml)
-16. [OpenAI认为现有安全措施足以支持重启前沿强化学习训练。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwhaiy8283998.shtml)
-17. [10月23日美股盘中：三大指数集体下跌，AI融资担忧持续发酵，布伦特原油升破115美元](https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfrue8370502.shtml)
-18. [大锤砸掉硫磺岛纪念雕像头颅，27岁男子被捕](https://news.sina.com.cn/w/2026-10-23/doc-iniwffes2679326.shtml)
-19. [菲大使抛出“东盟版北约”，还提到中国](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrun2551186.shtml)
-20. [欧洲股市连续第二天下跌，沃尔沃汽车一度暴跌32%，油价上涨推动能源股走强](https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwfwae5070500.shtml)
+12. [菲大使抛出“东盟版北约”，还提到中国](https://news.sina.com.cn/w/2026-10-23/doc-iniwfrun2551186.shtml)
+13. [28岁女子陪丈夫看病，意外得知腹中胎儿已接近足月](https://news.sina.com.cn/s/2026-10-23/doc-iniweyws1919323.shtml)
+14. [胜负彩26149期国内部分专业媒体复式推荐总汇](https://sports.sina.com.cn/l/2026-10-23/doc-iniweqhu4811231.shtml)
+15. [大锤砸掉硫磺岛纪念雕像头颅，27岁男子被捕](https://news.sina.com.cn/w/2026-10-23/doc-iniwffes2679326.shtml)
+16. [全球首个！“返老还童针”注入人体](https://news.sina.com.cn/c/2026-10-23/doc-iniweuqs4893153.shtml)
+17. [Frasers：因其持股已超 50%，雨果博斯（Hugo Boss）将成为其子公司。](https://finance.sina.com.cn/7x24/2026-10-24/doc-iniwfwae5117161.shtml)
+18. [10月24日收盘：美股三大指数收跌 道指跌超600点 布油创4月以来新高 市场抛售范围扩大](https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhry4970299.shtml)
+19. [日防相放话：不能让任何人低估日本](https://news.sina.com.cn/w/2026-10-23/doc-iniwfmnh8320818.shtml)
+20. [四川合纵药易购财报解读：扣非净利润大降75.03% 经营活动现金流大增207.76%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-23/doc-iniwfrue8235956.shtml)
 
 ## 财经热榜
 
