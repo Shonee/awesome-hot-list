@@ -1,15 +1,15 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-24 15:40:19
+> 更新时间：2026-10-24 16:15:10
 
 ## 热新闻
 
 1. [马上评｜“独生女继承遗产后遭离婚分产”怎么会反复上热搜](https://www.thepaper.cn/newsDetail_forward_34324278)
 2. [父亲遛狗两岁幼童从家中坠亡：母亲报案“过失致人死亡”未获立案，称将申请立案监督](https://www.thepaper.cn/newsDetail_forward_34318885)
 3. [图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责](https://www.thepaper.cn/newsDetail_forward_34301129)
-4. [马上评｜施救顾客反被索赔46万？“好人条款”为善意撑腰](https://www.thepaper.cn/newsDetail_forward_34318183)
-5. [言短意长｜想挣我钱，又喊我“老登”？](https://www.thepaper.cn/newsDetail_forward_34317927)
-6. [博闻丨举报校内有“风水蛙”后，老师年度考核被判不合格](https://www.thepaper.cn/newsDetail_forward_34321749)
+4. [博闻丨举报校内有“风水蛙”后，老师年度考核被判不合格](https://www.thepaper.cn/newsDetail_forward_34321749)
+5. [马上评｜施救顾客反被索赔46万？“好人条款”为善意撑腰](https://www.thepaper.cn/newsDetail_forward_34318183)
+6. [言短意长｜想挣我钱，又喊我“老登”？](https://www.thepaper.cn/newsDetail_forward_34317927)
 7. [当AI开始写代码，还需要什么样的程序员？](https://www.thepaper.cn/newsDetail_forward_34225156)
 8. [iPhone Duo发售首日：多地门店前挤满“黄牛”，溢价缩水有人喊亏](https://www.thepaper.cn/newsDetail_forward_34318635)
 9. [樊振东发文抵制偷拍，人民日报：偷拍根本不是“爱”](https://www.thepaper.cn/newsDetail_forward_34321099)

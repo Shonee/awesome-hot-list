@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-24 15:39:59
+> 更新时间：2026-10-24 16:14:55
 
 ## 热门文章
 
@@ -27,15 +27,15 @@
 21. [DeepSeek 又出王炸，用 DeepInfer 搭建自己的服务是不是很容易？](https://juejin.cn/post/7698799059633979446)
 22. [为什么你的 Claude Code 还在转圈等，别人的已经干完三件事了？](https://juejin.cn/post/7698999578180747291)
 23. [一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏](https://juejin.cn/post/7699372774716801034)
-24. [AI 写代码越来越爽，但程序员可能越来越废了](https://juejin.cn/post/7698930473150775350)
-25. [AI 都这么强了，咱们程序员以后还能干点啥？](https://juejin.cn/post/7699679577757335587)
+24. [AI 都这么强了，咱们程序员以后还能干点啥？](https://juejin.cn/post/7699679577757335587)
+25. [AI 写代码越来越爽，但程序员可能越来越废了](https://juejin.cn/post/7698930473150775350)
 26. [从数字化到数智化：3D 可视化大屏的下一个五年](https://juejin.cn/post/7699300052456701952)
 27. [Claude Code 接入 DeepSeek V4.1 与 MiniMax M3.1 实测：200+ TPS 下的代码准确率与 Token 账单](https://juejin.cn/post/7698960692758446130)
 28. [我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一](https://juejin.cn/post/7699123334672089107)
 29. [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163)
 30. [AI Agent 之 用户记忆和知识库](https://juejin.cn/post/7699243153375543337)
-31. [【Compose Multiplatform跨端声明式UI实用技术】第9课：跨平台 ViewModel 与状态架构](https://juejin.cn/post/7698949568277757994)
-32. [为什么越来越多人用Eino？](https://juejin.cn/post/7699025083108655138)
+31. [为什么越来越多人用Eino？](https://juejin.cn/post/7699025083108655138)
+32. [【Compose Multiplatform跨端声明式UI实用技术】第9课：跨平台 ViewModel 与状态架构](https://juejin.cn/post/7698949568277757994)
 33. [React Compiler正式“Rust化”：你项目里的Babel插件，正在被编译进打包器](https://juejin.cn/post/7698926507611996223)
 34. [从"会聊天"到"能干活"：AI 智能体的五级演进、核心概念解剖与产业格局](https://juejin.cn/post/7699307133640884267)
 35. [CSS 复现 23 种设计风格：从拟物到液态玻璃的成本阶梯与兜底写法【实战】](https://juejin.cn/post/7699368463357788211)
@@ -46,11 +46,11 @@
 40. [10000 个中国版 Codex 在路上：桌面 Agent 争夺执行入口，一篇理清](https://juejin.cn/post/7699445731564978191)
 41. [Rspack 源码解析（二十九）：CopyRspackPlugin 如何用 glob 把静态文件复制进产物](https://juejin.cn/post/7699047775249924106)
 42. [DeepSeek 新模型免费白嫖，夯夯夯，赶紧用起来](https://juejin.cn/post/7699033523931873306)
-43. [Playwright 热门替代方案：Cypress、Selenium、CueCast 等 7 款自动化测试工具](https://juejin.cn/post/7698920817313660955)
-44. [GitHub 日榜趋势速报 | 2026-10-22](https://juejin.cn/post/7699027015433273394)
-45. [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745)
-46. [AI 对一位老开发的副作用总结](https://juejin.cn/post/7699351034399801380)
-47. [PHP爆出10年来最严重漏洞，AI只花了2天就挖出来了](https://juejin.cn/post/7699307133641687083)
-48. [从空目录到上线：我全程用 TRAE 做了一款微信小游戏合集（含一次完整架构重构）](https://juejin.cn/post/7699151233140162600)
+43. [GitHub 日榜趋势速报 | 2026-10-22](https://juejin.cn/post/7699027015433273394)
+44. [Playwright 热门替代方案：Cypress、Selenium、CueCast 等 7 款自动化测试工具](https://juejin.cn/post/7698920817313660955)
+45. [从空目录到上线：我全程用 TRAE 做了一款微信小游戏合集（含一次完整架构重构）](https://juejin.cn/post/7699151233140162600)
+46. [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745)
+47. [AI 对一位老开发的副作用总结](https://juejin.cn/post/7699351034399801380)
+48. [PHP爆出10年来最严重漏洞，AI只花了2天就挖出来了](https://juejin.cn/post/7699307133641687083)
 49. [我搭了一条「AI 漫画 → 微信公众号草稿箱」的完整流水线（开源）](https://juejin.cn/post/7698761923182297098)
 50. [架构师最危险的能力：用正确的技术，做出错误的架构决策](https://juejin.cn/post/7699681127507869750)

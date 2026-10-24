@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-24 15:12:19
+> 更新时间：2026-10-24 16:16:19
 
 ## Hottest
 
@@ -9,23 +9,23 @@
 3. [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 4. [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
 5. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-6. [Please don't mess with links](https://maurycyz.com/misc/real_links/)
-7. [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
+6. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+7. [Please don't mess with links](https://maurycyz.com/misc/real_links/)
 8. [Debunking "Faster than Rust": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
-9. [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
-10. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+9. [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
+10. [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
 11. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
 12. [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
-13. [What are you doing this weekend?](https://lobste.rs/s/crqz1g)
-14. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
-15. [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
+13. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+14. [What are you doing this weekend?](https://lobste.rs/s/crqz1g)
+15. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
 16. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
-17. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
+17. [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
 18. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
 19. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
-20. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-21. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
-22. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
-23. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-24. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
-25. [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
+20. [Big Runtimes Make Efficient Programs](https://www.youtube.com/watch?v=vhDwy1eCXbs)
+21. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
+22. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+23. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
+24. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+25. [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)

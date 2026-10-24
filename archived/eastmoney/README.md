@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-24 15:11:45
+> 更新时间：2026-10-24 16:15:47
 
 ## 股票人气榜
 
@@ -19,8 +19,8 @@
 13. [多伦科技 (603528)](https://quote.eastmoney.com/sh603528.html)
 14. [兆威机电 (003021)](https://quote.eastmoney.com/sz003021.html)
 15. [达实智能 (002421)](https://quote.eastmoney.com/sz002421.html)
-16. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
-17. [榕基软件 (002474)](https://quote.eastmoney.com/sz002474.html)
-18. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
-19. [天奇股份 (002009)](https://quote.eastmoney.com/sz002009.html)
-20. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
+16. [慈文传媒 (002343)](https://quote.eastmoney.com/sz002343.html)
+17. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
+18. [榕基软件 (002474)](https://quote.eastmoney.com/sz002474.html)
+19. [贵州茅台 (600519)](https://quote.eastmoney.com/sh600519.html)
+20. [天奇股份 (002009)](https://quote.eastmoney.com/sz002009.html)
