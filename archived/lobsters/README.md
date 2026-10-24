@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-24 17:13:19
+> 更新时间：2026-10-24 18:12:13
 
 ## Hottest
 
@@ -15,17 +15,17 @@
 9. [Debunking "Faster than Rust": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
 10. [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 11. [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
-12. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
-13. [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
-14. [What are you doing this weekend?](https://lobste.rs/s/crqz1g)
-15. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
-16. [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
-17. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
-18. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
-19. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
-20. [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
-21. [Big Runtimes Make Efficient Programs](https://www.youtube.com/watch?v=vhDwy1eCXbs)
-22. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
-23. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-24. [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
-25. [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+12. [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
+13. [Listening to Nina Simone in 2036](https://punkx.org/jackdoe/nina.html)
+14. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+15. [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
+16. [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
+17. [What are you doing this weekend?](https://lobste.rs/s/crqz1g)
+18. [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
+19. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+20. [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
+21. [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
+22. [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
+23. [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
+24. [Big Runtimes Make Efficient Programs](https://www.youtube.com/watch?v=vhDwy1eCXbs)
+25. [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
