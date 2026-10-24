@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-24 20:16:05
+> 更新时间：2026-10-24 21:12:29
 
 ## 股票人气榜
 
@@ -10,11 +10,11 @@
 4. [宇树科技-W (688836)](https://quote.eastmoney.com/sh688836.html)
 5. [东方财富 (300059)](https://quote.eastmoney.com/sz300059.html)
 6. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
-7. [歌尔股份 (002241)](https://quote.eastmoney.com/sz002241.html)
-8. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
+7. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
+8. [歌尔股份 (002241)](https://quote.eastmoney.com/sz002241.html)
 9. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
-10. [风语筑 (603466)](https://quote.eastmoney.com/sh603466.html)
-11. [赣锋锂业 (002460)](https://quote.eastmoney.com/sz002460.html)
+10. [赣锋锂业 (002460)](https://quote.eastmoney.com/sz002460.html)
+11. [风语筑 (603466)](https://quote.eastmoney.com/sh603466.html)
 12. [能科科技 (603859)](https://quote.eastmoney.com/sh603859.html)
 13. [多伦科技 (603528)](https://quote.eastmoney.com/sh603528.html)
 14. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
