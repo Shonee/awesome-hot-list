@@ -1,24 +1,24 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-26 05:09:51
+> 更新时间：2026-10-26 06:10:28
 
 ## 人气热门
 
-1. [文件外发暗水印工具](https://www.52pojie.cn/thread-2133586-1-1.html)
-2. [音视频无损剪切合并LosslessCut v3.70.1](https://www.52pojie.cn/thread-2133483-1-1.html)
-3. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
-4. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
-5. [全能下载工具Motrix v2.0.1 正式版](https://www.52pojie.cn/thread-2133111-1-1.html)
-6. [追踪 WPS 后台“幽灵自启”：从 explorer 外壳扩展到 ACL 链首阻断](https://www.52pojie.cn/thread-2133788-1-1.html)
-7. [玫枫五笔 v1.1.2](https://www.52pojie.cn/thread-2133562-1-1.html)
-8. [电视软件清理 cleanyourtv v2.4.0](https://www.52pojie.cn/thread-2133520-1-1.html)
-9. [户外生存工具箱 Trail Sense v8.2.0](https://www.52pojie.cn/thread-2133653-1-1.html)
-10. [ios通话录音 提示音 移除工具](https://www.52pojie.cn/thread-2134044-1-1.html)
-11. [更新！！！网页视频嗅探器VideoSniffer V3.0](https://www.52pojie.cn/thread-2133218-1-1.html)
-12. [谷歌相机75合18.4.300.41](https://www.52pojie.cn/thread-2132514-1-1.html)
-13. [「网址 + 油猴脚本」一键打包成EXE](https://www.52pojie.cn/thread-2133403-1-1.html)
-14. [准点（自制永久会员）v1.0](https://www.52pojie.cn/thread-2133803-1-1.html)
-15. [【全插件】IDA Pro 9.4 绿化便携+美化版 震撼发布！](https://www.52pojie.cn/thread-2132978-1-1.html)
+1. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
+2. [【全插件】IDA Pro 9.4 绿化便携+美化版 震撼发布！](https://www.52pojie.cn/thread-2132978-1-1.html)
+3. [文件外发暗水印工具](https://www.52pojie.cn/thread-2133586-1-1.html)
+4. [音视频无损剪切合并LosslessCut v3.70.1](https://www.52pojie.cn/thread-2133483-1-1.html)
+5. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
+6. [全能下载工具Motrix v2.0.1 正式版](https://www.52pojie.cn/thread-2133111-1-1.html)
+7. [追踪 WPS 后台“幽灵自启”：从 explorer 外壳扩展到 ACL 链首阻断](https://www.52pojie.cn/thread-2133788-1-1.html)
+8. [玫枫五笔 v1.1.2](https://www.52pojie.cn/thread-2133562-1-1.html)
+9. [电视软件清理 cleanyourtv v2.4.0](https://www.52pojie.cn/thread-2133520-1-1.html)
+10. [户外生存工具箱 Trail Sense v8.2.0](https://www.52pojie.cn/thread-2133653-1-1.html)
+11. [ios通话录音 提示音 移除工具](https://www.52pojie.cn/thread-2134044-1-1.html)
+12. [更新！！！网页视频嗅探器VideoSniffer V3.0](https://www.52pojie.cn/thread-2133218-1-1.html)
+13. [谷歌相机75合18.4.300.41](https://www.52pojie.cn/thread-2132514-1-1.html)
+14. [「网址 + 油猴脚本」一键打包成EXE](https://www.52pojie.cn/thread-2133403-1-1.html)
+15. [准点（自制永久会员）v1.0](https://www.52pojie.cn/thread-2133803-1-1.html)
 16. [硬盘检测及监控工具 CrystalDiskInfo 9.9.3 单文件绿色版](https://www.52pojie.cn/thread-2132036-1-1.html)
 17. [百分浏览器 Cent Browser v5.3.1184.25](https://www.52pojie.cn/thread-2133113-1-1.html)
 18. [千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.21)](https://www.52pojie.cn/thread-2132239-1-1.html)

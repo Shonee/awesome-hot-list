@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-26 05:09:47
+> 更新时间：2026-10-26 06:10:24
 
 ## 最新帖子
 
-1. [116亿美元，边缘云翻身了？](https://www.cnblogs.com/byjs/p/23434306)
-2. [I love Power BI](https://www.cnblogs.com/aspnetx/p/23434308)
-3. [Qwen-Image2.1游戏素材工坊：一句话，生成一整套游戏美术素材（一）](https://www.cnblogs.com/wyang/p/23434205)
-4. [用 C# + Blazor 开发智能体（Agent）教程](https://www.cnblogs.com/known/p/23433592)
-5. [ARTS 1025: 唯一字符与同构字符串、省词可能增加阅读负担与重新估算软件的实现成本](https://www.cnblogs.com/leikooo/p/23433286)
-6. [汉字字形 SVG 库整理](https://www.cnblogs.com/Zhouyongh/p/23433153)
-7. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
-8. [从审核员到监工：AI正在重写评价体系，也重写人的价值](https://www.cnblogs.com/Li-runqing/p/23432895/ai-overseer)
-9. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
-10. [Day02 · 开发环境搭建](https://www.cnblogs.com/xiaojiaxuezhang/p/23432504)
-11. [越卷越像：我用遗传算法做了个"内卷"实验](https://www.cnblogs.com/shimiri/p/23432346)
-12. [Restic 备份工具使用指南（Windows Server 2019 适配版）](https://www.cnblogs.com/JoePotter/p/23431933)
-13. [LED 灯珠与限流电阻](https://www.cnblogs.com/zw-awa/p/23431908)
-14. [洛谷-P14775 [ICPC 2024 Seoul R] String Rank 题解](https://www.cnblogs.com/xiaoniu142857/p/23431834)
-15. [时间序列数据中，如何找出缺失值](https://www.cnblogs.com/wang_yb/p/23431734)
-16. [10. 常量，固定不变的数据 | 奶茶店定招牌](https://www.cnblogs.com/halfcode/p/23431386)
-17. [本地视频 → 序列帧动画精灵图](https://www.cnblogs.com/fs7744/p/23431184)
-18. [GnuWin32：让 Claude Code 在 Windows 上不再“缺工具”](https://www.cnblogs.com/apachecn/p/23431166)
-19. [Vue3的template陷阱,一个没写指令的 <template>把按钮吞了](https://www.cnblogs.com/IwishIcould/p/23431000)
-20. [Vite 报 504 Outdated Optimize Dep？先删 .vite 缓存](https://www.cnblogs.com/jyzhao/p/23430470)
+1. [RequestBatcher 0.3.x 版本，优雅升级](https://www.cnblogs.com/eventhorizon/p/23434966)
+2. [116亿美元，边缘云翻身了？](https://www.cnblogs.com/byjs/p/23434306)
+3. [I love Power BI](https://www.cnblogs.com/aspnetx/p/23434308)
+4. [Qwen-Image2.1游戏素材工坊：一句话，生成一整套游戏美术素材（一）](https://www.cnblogs.com/wyang/p/23434205)
+5. [用 C# + Blazor 开发智能体（Agent）教程](https://www.cnblogs.com/known/p/23433592)
+6. [ARTS 1025: 唯一字符与同构字符串、省词可能增加阅读负担与重新估算软件的实现成本](https://www.cnblogs.com/leikooo/p/23433286)
+7. [汉字字形 SVG 库整理](https://www.cnblogs.com/Zhouyongh/p/23433153)
+8. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
+9. [从审核员到监工：AI正在重写评价体系，也重写人的价值](https://www.cnblogs.com/Li-runqing/p/23432895/ai-overseer)
+10. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
+11. [Day02 · 开发环境搭建](https://www.cnblogs.com/xiaojiaxuezhang/p/23432504)
+12. [越卷越像：我用遗传算法做了个"内卷"实验](https://www.cnblogs.com/shimiri/p/23432346)
+13. [Restic 备份工具使用指南（Windows Server 2019 适配版）](https://www.cnblogs.com/JoePotter/p/23431933)
+14. [LED 灯珠与限流电阻](https://www.cnblogs.com/zw-awa/p/23431908)
+15. [洛谷-P14775 [ICPC 2024 Seoul R] String Rank 题解](https://www.cnblogs.com/xiaoniu142857/p/23431834)
+16. [时间序列数据中，如何找出缺失值](https://www.cnblogs.com/wang_yb/p/23431734)
+17. [10. 常量，固定不变的数据 | 奶茶店定招牌](https://www.cnblogs.com/halfcode/p/23431386)
+18. [本地视频 → 序列帧动画精灵图](https://www.cnblogs.com/fs7744/p/23431184)
+19. [GnuWin32：让 Claude Code 在 Windows 上不再“缺工具”](https://www.cnblogs.com/apachecn/p/23431166)
+20. [Vue3的template陷阱,一个没写指令的 <template>把按钮吞了](https://www.cnblogs.com/IwishIcould/p/23431000)
 
 ## 精华帖子
 
