@@ -1,19 +1,19 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-26 03:10:05
+> 更新时间：2026-10-26 04:12:34
 
 ## Hottest
 
-1. [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
-2. [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
+1. [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
+2. [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 3. [Vim Classic](https://vim-classic.org/)
-4. [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
-5. [Partial Order Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
+4. [Partial Order Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
+5. [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
 6. [A vision for a next-generation timeline](https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline)
 7. [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 8. [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
-9. [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
-10. [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
+9. [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
+10. [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 11. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 12. [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
 13. [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
@@ -22,7 +22,7 @@
 16. [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 17. [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
 18. [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
-19. [Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc)
+19. [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
 20. [This week's "node2shell" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 21. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 22. [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
