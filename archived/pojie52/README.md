@@ -1,14 +1,14 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-26 04:11:20
+> 更新时间：2026-10-26 05:09:51
 
 ## 人气热门
 
-1. [音视频无损剪切合并LosslessCut v3.70.1](https://www.52pojie.cn/thread-2133483-1-1.html)
-2. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
-3. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
-4. [全能下载工具Motrix v2.0.1 正式版](https://www.52pojie.cn/thread-2133111-1-1.html)
-5. [文件外发暗水印工具](https://www.52pojie.cn/thread-2133586-1-1.html)
+1. [文件外发暗水印工具](https://www.52pojie.cn/thread-2133586-1-1.html)
+2. [音视频无损剪切合并LosslessCut v3.70.1](https://www.52pojie.cn/thread-2133483-1-1.html)
+3. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
+4. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
+5. [全能下载工具Motrix v2.0.1 正式版](https://www.52pojie.cn/thread-2133111-1-1.html)
 6. [追踪 WPS 后台“幽灵自启”：从 explorer 外壳扩展到 ACL 链首阻断](https://www.52pojie.cn/thread-2133788-1-1.html)
 7. [玫枫五笔 v1.1.2](https://www.52pojie.cn/thread-2133562-1-1.html)
 8. [电视软件清理 cleanyourtv v2.4.0](https://www.52pojie.cn/thread-2133520-1-1.html)

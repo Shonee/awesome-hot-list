@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-26 04:11:12
+> 更新时间：2026-10-26 05:09:42
 
 ## 日榜
 
@@ -32,8 +32,8 @@
 26. [当年传唱度过亿的华语R&B神曲，热泪盈眶，DNA真的控制不住！](https://www.acfun.cn/v/ac48937120)
 27. [【猪肝来也】耻辱柱](https://www.acfun.cn/v/ac48937848)
 28. [【UP创作大赛】塔虎的设计有什么特殊之处？｜塔虎模块化22L作战背包上手【战术陈皮】](https://www.acfun.cn/v/ac48938275)
-29. [【东方红魔乡：新典】蕾米莉亚·斯卡蕾特HARD难度符卡收取合集](https://www.acfun.cn/v/ac48936998)
-30. [【up创作大赛】夏天的回忆](https://www.acfun.cn/v/ac48938494)
+29. [【up创作大赛】夏天的回忆](https://www.acfun.cn/v/ac48938494)
+30. [【东方红魔乡：新典】蕾米莉亚·斯卡蕾特HARD难度符卡收取合集](https://www.acfun.cn/v/ac48936998)
 31. [【DAY2】Ave Mujica 7th LIVE「Virtus」 DAY2](https://www.acfun.cn/v/ac48938461)
 32. [【UP创作大赛】54.兽族的崛起：合弓纲的诞生&称霸](https://www.acfun.cn/v/ac48923321)
 33. [【异世界转生部实习生】死了也要赚钱哦！](https://www.acfun.cn/v/ac48937890)
@@ -43,17 +43,17 @@
 37. [恋爱的条件2](https://www.acfun.cn/v/ac48937917)
 38. [你要努力啊](https://www.acfun.cn/v/ac48937004)
 39. [NOAH WRESTLE ODYSSEY Ⅱ 2026.10.25](https://www.acfun.cn/v/ac48938148)
-40. [拉怪的时候难道不能打字吗？](https://www.acfun.cn/v/ac48937950)
-41. [T-ara Day by Day](https://www.acfun.cn/v/ac48938498)
-42. [绝顶性感黑丝内衣穿搭huh-4minute舞蹈翻跳](https://www.acfun.cn/v/ac48938527)
+40. [T-ara Day by Day](https://www.acfun.cn/v/ac48938498)
+41. [绝顶性感黑丝内衣穿搭huh-4minute舞蹈翻跳](https://www.acfun.cn/v/ac48938527)
+42. [拉怪的时候难道不能打字吗？](https://www.acfun.cn/v/ac48937950)
 43. [妖梦-君の彼女](https://www.acfun.cn/v/ac48914653)
 44. [「碎碎念」价格差了10倍の领夹麦对比ᰔᩚ/•᷅•᷄\୭](https://www.acfun.cn/v/ac48937621)
 45. [英特尔也要出X3D？还被迫改名？这到底是怎么回事？](https://www.acfun.cn/v/ac48936260)
 46. [乌克兰割地求和，战争结束了](https://www.acfun.cn/v/ac48937732)
 47. [AEW Collision #167 2026.10.24](https://www.acfun.cn/v/ac48937323)
-48. [【东方手书剧场】夜雀食堂～天寒地冻所以中华冷面开卖了～【内嵌汉化】](https://www.acfun.cn/v/ac48936750)
-49. [Stellar Marionette 提线木偶](https://www.acfun.cn/v/ac48938515)
-50. [你接电话呗](https://www.acfun.cn/v/ac48937926)
+48. [Stellar Marionette 提线木偶](https://www.acfun.cn/v/ac48938515)
+49. [【东方手书剧场】夜雀食堂～天寒地冻所以中华冷面开卖了～【内嵌汉化】](https://www.acfun.cn/v/ac48936750)
+50. [Redfoo-NEW THANG](https://www.acfun.cn/v/ac48938568)
 
 ## 三日榜
 
@@ -80,9 +80,9 @@
 21. [祈祷吧！少年](https://www.acfun.cn/v/ac48925123)
 22. [即分高下，也决生死【今天有什么好笑的 #2546】](https://www.acfun.cn/v/ac48935983)
 23. [英雄难过美人关](https://www.acfun.cn/v/ac48934928)
-24. [【UP创作大赛】在乡镇吃一天！这座小镇，埋着三国东吴的秘密？](https://www.acfun.cn/v/ac48933569)
-25. [网络上常见的热门短视频集锦   第三千五百零九期](https://www.acfun.cn/v/ac48937357)
-26. [【巫小萤】T-ara-NO.9过膝皮靴](https://www.acfun.cn/v/ac48915393)
+24. [【巫小萤】T-ara-NO.9过膝皮靴](https://www.acfun.cn/v/ac48915393)
+25. [【UP创作大赛】在乡镇吃一天！这座小镇，埋着三国东吴的秘密？](https://www.acfun.cn/v/ac48933569)
+26. [网络上常见的热门短视频集锦   第三千五百零九期](https://www.acfun.cn/v/ac48937357)
 27. [【亦栏】天象仪的真相/プラネタリウムの真実 -诞生日-](https://www.acfun.cn/v/ac48936724)
 28. [好兄弟一辈子【今天有什么好笑的 #2545】](https://www.acfun.cn/v/ac48933924)
 29. [【柯基】国风歌曲《西楼别序》｜“我提笔不为离愁 只为你转身回眸 心事把自己弄丢淋湿在阁楼”](https://www.acfun.cn/v/ac48934047)
@@ -104,8 +104,8 @@
 45. [即兴拉片|影之刃零最终预告赏析【UP创作大赛】](https://www.acfun.cn/v/ac48935429)
 46. [如果世界万物变成卡牌会怎样？](https://www.acfun.cn/v/ac48936785)
 47. [【UP创作大赛】三十秒教会你如何给小琉画风筝](https://www.acfun.cn/v/ac48936472)
-48. [这个墙能上去吗？](https://www.acfun.cn/v/ac48935352)
-49. [众 宾 欢 也](https://www.acfun.cn/v/ac48918592)
+48. [众 宾 欢 也](https://www.acfun.cn/v/ac48918592)
+49. [这个墙能上去吗？](https://www.acfun.cn/v/ac48935352)
 50. [【Dina小崽】金色海岸出海咯~~](https://www.acfun.cn/v/ac48931540)
 
 ## 周榜

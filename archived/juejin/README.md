@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-26 04:11:14
+> 更新时间：2026-10-26 05:09:44
 
 ## 热门文章
 
@@ -25,13 +25,13 @@
 19. [JDK 21 规模化落地实践](https://juejin.cn/post/7699680016263905318)
 20. [外包和大厂的前端代码，差在凌晨三点](https://juejin.cn/post/7699688375545610283)
 21. [你在 XML 时代学的渲染优化，进了 Compose 大多不再是重点——Recomposition 才是新的战场](https://juejin.cn/post/7699368463357755443)
-22. [DeepSeek-V4.1-Flash 新版本登陆火山方舟，效果无损“经济版”八折上线](https://juejin.cn/post/7699727325760749619)
-23. [OpenCode免费模型直接给`Workbuddy`用，一键导入](https://juejin.cn/post/7699427841725988915)
-24. [GitHub 日榜趋势速报 | 2026-10-23](https://juejin.cn/post/7699414277584633894)
-25. [为什么程序员始终无法彻底解决内存泄漏？](https://juejin.cn/post/7699411361327448107)
-26. [高价软件已死，我让 AI 开启了「平替计划」（Day 7 / 7）](https://juejin.cn/post/7699372774717571082)
-27. [【封闭结束2】Agent 意图识别：从语义理解到稳定路由](https://juejin.cn/post/7699351034399162404)
-28. [继PHP之后，Java也爆出了重大安全漏洞！](https://juejin.cn/post/7699886793819504640)
+22. [继PHP之后，Java也爆出了重大安全漏洞！](https://juejin.cn/post/7699886793819504640)
+23. [DeepSeek-V4.1-Flash 新版本登陆火山方舟，效果无损“经济版”八折上线](https://juejin.cn/post/7699727325760749619)
+24. [OpenCode免费模型直接给`Workbuddy`用，一键导入](https://juejin.cn/post/7699427841725988915)
+25. [GitHub 日榜趋势速报 | 2026-10-23](https://juejin.cn/post/7699414277584633894)
+26. [为什么程序员始终无法彻底解决内存泄漏？](https://juejin.cn/post/7699411361327448107)
+27. [高价软件已死，我让 AI 开启了「平替计划」（Day 7 / 7）](https://juejin.cn/post/7699372774717571082)
+28. [【封闭结束2】Agent 意图识别：从语义理解到稳定路由](https://juejin.cn/post/7699351034399162404)
 29. [Bun v1.4.4 实测：2,025 个文件，bun fmt 2.6 秒跑完](https://juejin.cn/post/7699746328205787146)
 30. [14款大模型Java编码能力横评：闭源三强断层领先，开源追赶到哪一步了](https://juejin.cn/post/7699685792612302883)
 31. [【Jetpack 内核实战 05 】：Room 入门——实体 / DAO / 数据库搭建与增删改查](https://juejin.cn/post/7699477642869227570)

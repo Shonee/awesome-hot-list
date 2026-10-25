@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-26 04:11:34
+> 更新时间：2026-10-26 05:10:06
 
 ## 新闻热榜
 
 1. [蔡康永发布声明](https://news.sina.com.cn/c/2026-10-25/doc-iniwncyk2900368.shtml)
 2. [洪秀柱最新发声](https://news.sina.com.cn/c/2026-10-25/doc-iniwnkhp2842030.shtml)
-3. [特朗普：与俄罗斯达成的石油协议是件非常好的事。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnkhh2814327.shtml)
-4. [五角大楼：防长赫格塞思将访问菲律宾出席东盟会议。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqe2718258.shtml)
-5. [巴西总统卢拉竞选团队将申请延长投票时间。卢拉同时抱怨，巴西多座城市存在公共交通运力不足的问题。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqf9494009.shtml)
-6. [特朗普：我收到两份内容不同的伊朗相关情报。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnkhi9591316.shtml)
-7. [特朗普称伊朗问题临近决断时刻 要么达成协议要么彻底解决](https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwnkhm6067433.shtml)
-8. [蒙古国考虑就草原火灾向涉事日企索赔](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9695106.shtml)
-9. [巴西总统选举进行第二轮投票](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9674414.shtml)
-10. [十大机构看后市：A股底部可能已现，一波快速上涨机会可期](https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmpas3086007.shtml)
-11. [[新浪彩票]足彩第26150期任九：纽卡建议舍弃](https://sports.sina.com.cn/l/2026-10-25/doc-iniwkwfc6723093.shtml)
-12. [官宣！2027羊年春晚总导演于蕾](https://news.sina.com.cn/zx/2026-10-25/doc-iniwmhuv9941844.shtml)
-13. [邹敬园成就体操世锦赛双杠五冠王](https://news.sina.com.cn/c/2026-10-26/doc-iniwnkhh2800500.shtml)
-14. [秦始皇帝陵博物院新研究：秦俑上现女性及15岁以下少年指纹证据](https://finance.sina.com.cn/roll/2026-10-25/doc-iniwkwfc6731561.shtml)
-15. [双色球头奖7注682万分落6地 奖池余额10.56亿](https://sports.sina.com.cn/l/2026-10-25/doc-iniwncyr2952540.shtml)
-16. [国考报名结束，平均85人竞争一岗，最热岗位5840:1，还有83个职位无人报名](https://finance.sina.com.cn/wm/2026-10-25/doc-iniwmanx9954995.shtml)
-17. [广西马山县通报“水柜漂浮多只猴子”](https://news.sina.com.cn/c/2026-10-25/doc-iniwmtkt6367577.shtml)
+3. [阿尔及利亚表决通过，将派遣军队保护尼日尔的石油设施。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqf9507083.shtml)
+4. [特朗普：与俄罗斯达成的石油协议是件非常好的事。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnkhh2814327.shtml)
+5. [西班牙官员称，一辆客运巴士在巴塞罗那东北部撞上一辆汽车后冲下山坡，造成至少80人受伤。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqe2728835.shtml)
+6. [特朗普：与加拿大即将达成协议。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqe2729461.shtml)
+7. [蒙古国考虑就草原火灾向涉事日企索赔](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9695106.shtml)
+8. [特朗普称伊朗问题临近决断时刻 要么达成协议要么彻底解决](https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwnkhm6067433.shtml)
+9. [五角大楼：防长赫格塞思将访问菲律宾出席东盟会议。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqe2718258.shtml)
+10. [美国媒体：即便内塔尼亚胡在周二选举中落败，他仍可能对伊朗发动新一轮打击，以色列和美国的政治考量使进一步军事行动的决定复杂化。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqe2728995.shtml)
+11. [巴西总统卢拉竞选团队将申请延长投票时间。卢拉同时抱怨，巴西多座城市存在公共交通运力不足的问题。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqf9494009.shtml)
+12. [特朗普：我收到两份内容不同的伊朗相关情报。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnkhi9591316.shtml)
+13. [巴西总统选举进行第二轮投票](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9674414.shtml)
+14. [十大机构看后市：A股底部可能已现，一波快速上涨机会可期](https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmpas3086007.shtml)
+15. [[新浪彩票]足彩第26150期任九：纽卡建议舍弃](https://sports.sina.com.cn/l/2026-10-25/doc-iniwkwfc6723093.shtml)
+16. [邹敬园成就体操世锦赛双杠五冠王](https://news.sina.com.cn/c/2026-10-26/doc-iniwnkhh2800500.shtml)
+17. [官宣！2027羊年春晚总导演于蕾](https://news.sina.com.cn/zx/2026-10-25/doc-iniwmhuv9941844.shtml)
 18. [以色列大选倒计时，内塔尼亚胡支持率第三](https://news.sina.com.cn/w/2026-10-25/doc-iniwmtkv3142662.shtml)
-19. [陈熠3-0战胜张本美和 夺得亚锦赛女单冠军](https://news.sina.com.cn/c/2026-10-25/doc-iniwmxsn2969934.shtml)
-20. [星链恢复了，马斯克仍不爽：乌克兰违反规定用它杀人](https://news.sina.com.cn/zx/2026-10-25/doc-iniwkwey3247454.shtml)
+19. [秦始皇帝陵博物院新研究：秦俑上现女性及15岁以下少年指纹证据](https://finance.sina.com.cn/roll/2026-10-25/doc-iniwkwfc6731561.shtml)
+20. [双色球头奖7注682万分落6地 奖池余额10.56亿](https://sports.sina.com.cn/l/2026-10-25/doc-iniwncyr2952540.shtml)
 
 ## 财经热榜
 
