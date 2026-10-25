@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-26 01:10:49
+> 更新时间：2026-10-26 02:13:58
 
 ## 最新帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [PHP 曝出 9.2 分漏洞后，我重新想了下"不可能三角"对 C# 成不成立](https://www.cnblogs.com/shanyou/p/23422056)
-2. [两天烧100亿token，如何驾驶大肥鱼进行信息收集工作？](https://www.cnblogs.com/Reisentyan/p/23395393)
-3. [70后 90后 00后技术人，邀你一起重新出发](https://www.cnblogs.com/cmt/p/23427349)
-4. [实战｜Windows10 2016 LTSB 彻底永久关闭自动更新](https://www.cnblogs.com/jyzhao/p/23422059)
+2. [70后 90后 00后技术人，邀你一起重新出发](https://www.cnblogs.com/cmt/p/23427349)
+3. [实战｜Windows10 2016 LTSB 彻底永久关闭自动更新](https://www.cnblogs.com/jyzhao/p/23422059)
+4. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
 5. [大杂烩：创建自己的个人数据工作台](https://www.cnblogs.com/aspnetx/p/23426638)
-6. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
+6. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)

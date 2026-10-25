@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-26 01:11:05
+> 更新时间：2026-10-26 02:14:14
 
 ## 新闻热榜
 
-1. [马克龙这个“第一次”，把全法国都惹毛了](https://news.sina.com.cn/2026-10-25/doc-iniwkrxi3623686.shtml)
-2. [今天这场对决，“美欧中俄集体关注”](https://news.sina.com.cn/w/2026-10-25/doc-iniwkwfa0062241.shtml)
-3. [特朗普吹嘘：丹麦已将格陵兰岛移交美国，史上最伟大房地产交易](https://news.sina.com.cn/zx/2026-10-25/doc-iniwmanw3233851.shtml)
-4. [金价连日大跌！深圳水贝被挤爆，网友：比菜市场人还多，一个月内，金饰克价跌了约100元，多家品牌纷纷调价](https://news.sina.com.cn/zx/2026-10-25/doc-iniwkrxi3624028.shtml)
-5. [热播日剧公开抹黑中国，高市早苗点名要看：把中国人拍成施暴者，设计中方人员对日本情报人员实施切指、刺穿腹部情节](https://news.sina.com.cn/zx/2026-10-25/doc-iniwmanx9968106.shtml)
-6. [国考报名结束，平均85人竞争一岗，最热岗位5840:1，还有83个职位无人报名](https://finance.sina.com.cn/wm/2026-10-25/doc-iniwmanx9954995.shtml)
-7. [奥巴马开火：特朗普这两年，混乱、残酷、腐败、无能](https://news.sina.com.cn/zx/2026-10-25/doc-iniwkwfa0064446.shtml)
-8. [星链恢复了，马斯克仍不爽：乌克兰违反规定用它杀人](https://news.sina.com.cn/zx/2026-10-25/doc-iniwkwey3247454.shtml)
-9. [[新浪彩票]足彩第26150期任九：纽卡建议舍弃](https://sports.sina.com.cn/l/2026-10-25/doc-iniwkwfc6723093.shtml)
-10. [怀化市委书记会见张雪](https://news.sina.com.cn/zx/2026-10-25/doc-iniwmanw3215168.shtml)
-11. [官宣！2027羊年春晚总导演于蕾](https://news.sina.com.cn/zx/2026-10-25/doc-iniwmhuv9941844.shtml)
-12. [[新浪彩票]足彩第26150期大势：巴萨主场搏胜](https://sports.sina.com.cn/l/2026-10-25/doc-iniwkwey3236583.shtml)
-13. [31省份2025年婚姻数据公布，哪些省份结婚人数多？](https://news.sina.com.cn/c/2026-10-24/doc-iniwiyzk3631384.shtml)
-14. [秦始皇帝陵博物院新研究：秦俑上现女性及15岁以下少年指纹证据](https://finance.sina.com.cn/roll/2026-10-25/doc-iniwkwfc6731561.shtml)
-15. [歼-15T有何独家优势？全球仅此一款“滑弹一体”舰载机](https://news.sina.com.cn/c/2026-10-25/doc-iniwkrxf6837633.shtml)
-16. [我无侦-7高空侦察 为什么日方只能“仰望”？](https://news.sina.com.cn/c/2026-10-25/doc-iniwkrxi3612383.shtml)
-17. [623万滚存被清空 足彩头奖开85注22.9万元](https://sports.sina.com.cn/l/2026-10-25/doc-iniwkwfa0010927.shtml)
-18. [[新浪彩票]足彩26150期盈亏指数：亚特兰大重点防平](https://sports.sina.com.cn/l/2026-10-25/doc-iniwkwfa0016102.shtml)
-19. [[新浪彩票]足彩26150期冷热指数：巴黎主胜可期](https://sports.sina.com.cn/l/2026-10-25/doc-iniwmanx9965756.shtml)
-20. [快讯：巴黎vs里昂延期 足彩第26150期开奖推迟](https://sports.sina.com.cn/l/2026-10-25/doc-iniwmpax3226902.shtml)
+1. [特朗普：与俄罗斯达成的石油协议是件非常好的事。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnkhh2814327.shtml)
+2. [蔡康永发布声明](https://news.sina.com.cn/c/2026-10-25/doc-iniwncyk2900368.shtml)
+3. [特朗普：我收到两份内容不同的伊朗相关情报。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnkhi9591316.shtml)
+4. [洪秀柱最新发声](https://news.sina.com.cn/c/2026-10-25/doc-iniwnkhp2842030.shtml)
+5. [广西马山县通报“水柜漂浮多只猴子”](https://news.sina.com.cn/c/2026-10-25/doc-iniwmtkt6367577.shtml)
+6. [官宣！2027羊年春晚总导演于蕾](https://news.sina.com.cn/zx/2026-10-25/doc-iniwmhuv9941844.shtml)
+7. [[新浪彩票]足彩第26150期任九：纽卡建议舍弃](https://sports.sina.com.cn/l/2026-10-25/doc-iniwkwfc6723093.shtml)
+8. [十大机构看后市：A股底部可能已现，一波快速上涨机会可期](https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmpas3086007.shtml)
+9. [特朗普称伊朗问题临近决断时刻 要么达成协议要么彻底解决](https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwnkhm6067433.shtml)
+10. [星链恢复了，马斯克仍不爽：乌克兰违反规定用它杀人](https://news.sina.com.cn/zx/2026-10-25/doc-iniwkwey3247454.shtml)
+11. [珠城科技2026三季报解读：经营现金流增720.62% 财务费用增431.69%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-25/doc-iniwmtkq2992124.shtml)
+12. [秦始皇帝陵博物院新研究：秦俑上现女性及15岁以下少年指纹证据](https://finance.sina.com.cn/roll/2026-10-25/doc-iniwkwfc6731561.shtml)
+13. [我爱我家A股股东户数增加7.38万户增幅102.34%，流通A股户均持股1.61万股降幅50.58%，户均持股市值5.94万元降幅36.94%](https://finance.sina.com.cn/stock/aiassist/gdhs/2026-10-26/doc-iniwnkhi9576544.shtml)
+14. [刻意抹黑中国！把侵华日军酷刑安到中国人身上，日剧《Vivant》究竟有多离谱？](https://news.sina.com.cn/o/2026-10-25/doc-iniwmtkr9823613.shtml)
+15. [巴西总统选举进行第二轮投票](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9674414.shtml)
+16. [国考报名结束，平均85人竞争一岗，最热岗位5840:1，还有83个职位无人报名](https://finance.sina.com.cn/wm/2026-10-25/doc-iniwmanx9954995.shtml)
+17. [双色球头奖7注682万分落6地 奖池余额10.56亿](https://sports.sina.com.cn/l/2026-10-25/doc-iniwncyr2952540.shtml)
+18. [蒙古国考虑就草原火灾向涉事日企索赔](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9695106.shtml)
+19. [事关国政，韩国总统李在明：我问过AI了](https://news.sina.com.cn/w/2026-10-25/doc-iniwmtkv3142448.shtml)
+20. [中期选举在即 美联邦政府与加州“斗法”](https://news.sina.com.cn/w/2026-10-25/doc-iniwmpav6459507.shtml)
 
 ## 财经热榜
 
