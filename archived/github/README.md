@@ -1,0 +1,142 @@
+# GitHub热榜
+
+> 更新时间：2026-10-25 23:37:09
+
+## 每日趋势
+
+1. [cindy](https://github.com/makecindy/cindy)
+2. [hallmark](https://github.com/Nutlope/hallmark)
+3. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+4. [impeccable](https://github.com/pbakaus/impeccable)
+5. [microduck](https://github.com/pollen-robotics/microduck)
+6. [TradingAgents](https://github.com/TauricResearch/TradingAgents)
+7. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+8. [thinkrail](https://github.com/JetBrains/thinkrail)
+9. [coolify](https://github.com/coollabsio/coolify)
+10. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+11. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
+
+## 每周趋势
+
+1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+2. [ruflo](https://github.com/ruvnet/ruflo)
+3. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+4. [opencode](https://github.com/anomalyco/opencode)
+5. [orca](https://github.com/stablyai/orca)
+6. [hyperframes](https://github.com/heygen-com/hyperframes)
+7. [skills](https://github.com/android/skills)
+8. [graphify](https://github.com/Graphify-Labs/graphify)
+9. [ai-memory](https://github.com/akitaonrails/ai-memory)
+10. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+11. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+12. [vllm](https://github.com/vllm-project/vllm)
+13. [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+14. [t3code](https://github.com/pingdotgg/t3code)
+
+## 每月趋势
+
+1. [hyperframes](https://github.com/heygen-com/hyperframes)
+2. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+3. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+4. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+5. [paperclip](https://github.com/paperclipai/paperclip)
+6. [OpenShell](https://github.com/NVIDIA/OpenShell)
+7. [context-mode](https://github.com/mksglu/context-mode)
+8. [plugins](https://github.com/cursor/plugins)
+9. [hindsight](https://github.com/vectorize-io/hindsight)
+10. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+11. [text-to-cad](https://github.com/earthtojake/text-to-cad)
+12. [impeccable](https://github.com/pbakaus/impeccable)
+13. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+14. [ECC](https://github.com/affaan-m/ECC)
+15. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+16. [claude-mem](https://github.com/thedotmack/claude-mem)
+17. [t3code](https://github.com/pingdotgg/t3code)
+18. [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+19. [PageIndex](https://github.com/VectifyAI/PageIndex)
+20. [Octop](https://github.com/TencentCloud/Octop)
+21. [tuios](https://github.com/Gaurav-Gosain/tuios)
+
+## Java
+
+1. [HMCL](https://github.com/HMCL-dev/HMCL)
+2. [Apktool](https://github.com/iBotPeaches/Apktool)
+3. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+4. [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
+5. [InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
+6. [lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+7. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+8. [MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
+9. [jadx](https://github.com/skylot/jadx)
+10. [java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+11. [LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
+12. [MojoLauncher](https://github.com/MojoLauncher/MojoLauncher)
+13. [cassandra](https://github.com/apache/cassandra)
+14. [beam](https://github.com/apache/beam)
+15. [kafka](https://github.com/apache/kafka)
+16. [SmartTube](https://github.com/yuliskov/SmartTube)
+
+## Python
+
+1. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+2. [graphify](https://github.com/Graphify-Labs/graphify)
+3. [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+4. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+5. [vllm](https://github.com/vllm-project/vllm)
+6. [fastapi](https://github.com/fastapi/fastapi)
+7. [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+8. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+9. [agents](https://github.com/wshobson/agents)
+10. [sglang](https://github.com/sgl-project/sglang)
+11. [claude-howto](https://github.com/luongnv89/claude-howto)
+12. [Kronos](https://github.com/shiyu-coder/Kronos)
+13. [jasna](https://github.com/Kruk2/jasna)
+14. [harvey](https://github.com/ethanplusai/harvey)
+15. [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+16. [TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
+## Go
+
+1. [agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+2. [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
+3. [ttt](https://github.com/eugenioenko/ttt)
+4. [LocalAI](https://github.com/mudler/LocalAI)
+5. [superplane](https://github.com/superplanehq/superplane)
+6. [freehire](https://github.com/strelov1/freehire)
+7. [ollama](https://github.com/ollama/ollama)
+8. [gin](https://github.com/gin-gonic/gin)
+9. [gitea](https://github.com/go-gitea/gitea)
+10. [agentsview](https://github.com/kenn-io/agentsview)
+11. [trivy](https://github.com/aquasecurity/trivy)
+12. [helm](https://github.com/helm/helm)
+13. [ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
+14. [pearl](https://github.com/pearl-research-labs/pearl)
+15. [opencode2api](https://github.com/jasonxu114514/opencode2api)
+16. [pentagi](https://github.com/vxcontrol/pentagi)
+17. [wails](https://github.com/wailsapp/wails)
+18. [SafeLine](https://github.com/chaitin/SafeLine)
+
+## HTML
+
+1. [prompts.chat](https://github.com/f/prompts.chat)
+2. [huashu-design](https://github.com/alchaincyf/huashu-design)
+3. [diagram-design](https://github.com/cathrynlavery/diagram-design)
+4. [epg](https://github.com/iptv-org/epg)
+5. [Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next)
+6. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
+7. [wpt](https://github.com/web-platform-tests/wpt)
+8. [MeshCentral](https://github.com/Ylianst/MeshCentral)
+9. [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+10. [china-dictatorship](https://github.com/cirosantilli/china-dictatorship)
+
+## JavaScript
+
+1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+2. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+3. [ego-lite](https://github.com/citrolabs/ego-lite)
+4. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+5. [ponytail](https://github.com/DietrichGebert/ponytail)
+6. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
+7. [react](https://github.com/react/react)
+8. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+9. [dsh-im](https://github.com/xmanrui/dsh-im)
