@@ -1,6 +1,6 @@
 # 财联社热榜
 
-> 更新时间：2026-10-26 02:14:15
+> 更新时间：2026-10-26 03:09:27
 
 ## 热门文章
 
@@ -16,4 +16,4 @@
 10. [环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调](https://www.cls.cn/detail/2514275)
 11. [机器人IPO门槛提高 具身智能一级市场预期变了](https://www.cls.cn/detail/2514289)
 12. [DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心](https://www.cls.cn/detail/2514315)
-13. [OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世](https://www.cls.cn/detail/2514203)
+13. [市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强](https://www.cls.cn/detail/2514356)

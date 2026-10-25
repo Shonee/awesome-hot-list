@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-26 02:14:37
+> 更新时间：2026-10-26 03:09:29
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [苹果 iPhone Duo 部分区域破发，王腾称相比小米、华为阔折叠手机没有特别领先的地方](https://www.ithome.com/1/017/594.htm)
 7. [苹果 iPhone Duo 耐用性测试：反向弯折内屏开裂](https://www.ithome.com/1/017/545.htm)
 8. [张雪谈成功挑战“水上漂”吉尼斯世界纪录自己表现：打 99 分，留 1 分不要太骄傲](https://www.ithome.com/1/017/576.htm)
-9. [李小龙：2.4G / 5G 频段同时工作是 Wi-Fi 7 特性，华为在 Wi-Fi 6 时代通过私有协议提前支持](https://www.ithome.com/1/017/530.htm)
-10. [2027 羊年央视春晚总导演公布，于蕾连续五年扛起重任](https://www.ithome.com/1/017/632.htm)
+9. [2027 羊年央视春晚总导演公布，于蕾连续五年扛起重任](https://www.ithome.com/1/017/632.htm)
+10. [李小龙：2.4G / 5G 频段同时工作是 Wi-Fi 7 特性，华为在 Wi-Fi 6 时代通过私有协议提前支持](https://www.ithome.com/1/017/530.htm)
 11. [苹果 iPhone Duo 在部分区域破发：已加入电商平台“百亿补贴”，相对上市价便宜约 200-300 元](https://www.ithome.com/1/017/593.htm)
 12. [华为 Mate 90 RS / Pro Max 典藏版推 HarmonyOS 7.0.0.111SP13 升级，优化与睿影 Z10 模块相机连接](https://www.ithome.com/1/017/555.htm)

@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-26 02:13:55
+> 更新时间：2026-10-26 03:09:05
 
 ## 热门文章
 
@@ -15,9 +15,9 @@
 9. [10000 个中国版 Codex 在路上：桌面 Agent 争夺执行入口，一篇理清](https://juejin.cn/post/7699445731564978191)
 10. [GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁](https://juejin.cn/post/7700050834004426790)
 11. [花了3个月，我们做了一款 AI 版的“飞书文档”](https://juejin.cn/post/7699738861139689526)
-12. [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745)
-13. [用AI做了一款微信小游戏，却发现上传不了](https://juejin.cn/post/7699321083548696616)
-14. [架构师最危险的能力：用正确的技术，做出错误的架构决策](https://juejin.cn/post/7699681127507869750)
+12. [架构师最危险的能力：用正确的技术，做出错误的架构决策](https://juejin.cn/post/7699681127507869750)
+13. [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745)
+14. [用AI做了一款微信小游戏，却发现上传不了](https://juejin.cn/post/7699321083548696616)
 15. [微信小程序做 PDA 扫码出入库：库存并发控制与 4 个坑](https://juejin.cn/post/7699411361327415339)
 16. [Codex、Claude Code、DSH 怎么用手机管？我试了试 Agents Anywhere](https://juejin.cn/post/7699398620680814643)
 17. [Flutter版本选择指南：3.44稳定了11周正式转正 | 2026年10月](https://juejin.cn/post/7699786990749253642)
@@ -31,8 +31,8 @@
 25. [为什么程序员始终无法彻底解决内存泄漏？](https://juejin.cn/post/7699411361327448107)
 26. [高价软件已死，我让 AI 开启了「平替计划」（Day 7 / 7）](https://juejin.cn/post/7699372774717571082)
 27. [【封闭结束2】Agent 意图识别：从语义理解到稳定路由](https://juejin.cn/post/7699351034399162404)
-28. [14款大模型Java编码能力横评：闭源三强断层领先，开源追赶到哪一步了](https://juejin.cn/post/7699685792612302883)
-29. [继PHP之后，Java也爆出了重大安全漏洞！](https://juejin.cn/post/7699886793819504640)
+28. [继PHP之后，Java也爆出了重大安全漏洞！](https://juejin.cn/post/7699886793819504640)
+29. [14款大模型Java编码能力横评：闭源三强断层领先，开源追赶到哪一步了](https://juejin.cn/post/7699685792612302883)
 30. [Bun v1.4.4 实测：2,025 个文件，bun fmt 2.6 秒跑完](https://juejin.cn/post/7699746328205787146)
 31. [Vue 3 对象监听与快照：ref 和 reactive 的关键差异](https://juejin.cn/post/7699673660089073704)
 32. [Codex+Obsidian，多平台同步，一键分发，太香了！](https://juejin.cn/post/7699528799918719017)
@@ -50,7 +50,7 @@
 44. [React Flow Pro 高级交互实现](https://juejin.cn/post/7699740355599712306)
 45. [Qoder CN 每天 100 Credits 领不到，我把客户端扒了一遍](https://juejin.cn/post/7699738861139820598)
 46. [分享：Cocos 互动影游一套代码双端分发（Web H5 + Windows/Steam）实践](https://juejin.cn/post/7699672273653235721)
-47. [Anthropic 建议少开子 agent：实测拆成 3 个并行，慢了 54%、花费翻倍](https://juejin.cn/post/7699477642869571634)
-48. [让 LLM 输出不再失控：用 Pydantic 校验大模型输出](https://juejin.cn/post/7699355961006096384)
-49. [Vue3 v-for：常用用法与开发高频坑点](https://juejin.cn/post/7699871906404614186)
-50. [1.4万亿没人接，OpenAI自己把价砍了1500亿](https://juejin.cn/post/7699871906380808233)
+47. [Kimi K3.1 疑似现身 LMArena：匿名代号 Kibitz、SGLang 单日六条加固 PR，月底有望官宣](https://juejin.cn/post/7699667640302141450)
+48. [Anthropic 建议少开子 agent：实测拆成 3 个并行，慢了 54%、花费翻倍](https://juejin.cn/post/7699477642869571634)
+49. [让 LLM 输出不再失控：用 Pydantic 校验大模型输出](https://juejin.cn/post/7699355961006096384)
+50. [Vue3 v-for：常用用法与开发高频坑点](https://juejin.cn/post/7699871906404614186)
