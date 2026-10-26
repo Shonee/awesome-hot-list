@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-27 04:13:10
+> 更新时间：2026-10-27 05:11:15
 
 ## 热点榜
 
@@ -15,12 +15,12 @@
 9. [更加积极的财政政策发力提效——中国经济三季报亮点解析](https://view.inews.qq.com/a/20261026A02WYI00)
 10. [湛江海域上出现可爱的粉色海豚](https://view.inews.qq.com/a/20261026V0CBPQ00)
 11. [网传“热带气旋撞击喜马拉雅山脉”不实（2026·10·26）](https://www.piyao.org.cn/20261026/5b1c1321de79409b9785d36c1129eab2/c.html)
-12. [苹果客服：很多客户取消了iPhone Duo订单](https://view.inews.qq.com/a/20261026A0C4FG00)
-13. [“南北”奥迪正式分家：四环归一汽，AUDI归上汽](https://view.inews.qq.com/a/20261026A0AON300)
-14. [波兰被曝出现F-16战机飞行员短缺问题，“现有47架F-16，飞行员只有约40人”](https://view.inews.qq.com/a/20261026A0DOS700)
+12. [“南北”奥迪正式分家：四环归一汽，AUDI归上汽](https://view.inews.qq.com/a/20261026A0AON300)
+13. [苹果客服：很多客户取消了iPhone Duo订单](https://view.inews.qq.com/a/20261026A0C4FG00)
+14. [“中国，至关重要”](https://view.inews.qq.com/a/20261026A0563Q00)
 15. [武大靖执教“首秀”收获一铜，年轻队员还需大赛磨炼](https://view.inews.qq.com/a/20261026A09B5800)
-16. [苹果发布新款OLED iPad mini，仍配备60Hz刷新率面板](https://view.inews.qq.com/a/20261026A0DKZ500)
-17. [重磅！任仲平来了](https://view.inews.qq.com/a/20261026A03OZX00)
+16. [凤凰国际财闻汇 | 美国养老金储备2032年耗尽，全球养老体系面临大考](https://view.inews.qq.com/a/20261026A0564L00)
+17. [波兰被曝出现F-16战机飞行员短缺问题，“现有47架F-16，飞行员只有约40人”](https://view.inews.qq.com/a/20261026A0DOS700)
 18. [iPhone Duo屏幕为何会开裂？拆解发现可能是这个原因](https://view.inews.qq.com/a/20261026A0303000)
-19. [“中国，至关重要”](https://view.inews.qq.com/a/20261026A0563Q00)
-20. [武契奇承认败选](https://view.inews.qq.com/a/20261026A02PI500)
+19. [苹果发布新款OLED iPad mini，仍配备60Hz刷新率面板](https://view.inews.qq.com/a/20261026A0DKZ500)
+20. [重磅！任仲平来了](https://view.inews.qq.com/a/20261026A03OZX00)
