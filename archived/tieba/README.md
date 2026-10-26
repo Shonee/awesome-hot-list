@@ -1,22 +1,22 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-26 07:12:01
+> 更新时间：2026-10-26 08:33:19
 
 ## 最有料热点
 
-1. [大肥鱼闹智械危机?吧友打假](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368018&topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%97%B9%E6%99%BA%E6%A2%B0%E5%8D%B1%E6%9C%BA%3F%E5%90%A7%E5%8F%8B%E6%89%93%E5%81%87)
-2. [战火中享安逸?吧友怒斥起点文](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368013&topic_name=%E6%88%98%E7%81%AB%E4%B8%AD%E4%BA%AB%E5%AE%89%E9%80%B8%3F%E5%90%A7%E5%8F%8B%E6%80%92%E6%96%A5%E8%B5%B7%E7%82%B9%E6%96%87)
-3. [上岸5天换男友,6年感情喂狗](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368016&topic_name=%E4%B8%8A%E5%B2%B85%E5%A4%A9%E6%8D%A2%E7%94%B7%E5%8F%8B%2C6%E5%B9%B4%E6%84%9F%E6%83%85%E5%96%82%E7%8B%97)
-4. [土耳其摇人翻车,阿拉伯帮中国](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368026&topic_name=%E5%9C%9F%E8%80%B3%E5%85%B6%E6%91%87%E4%BA%BA%E7%BF%BB%E8%BD%A6%2C%E9%98%BF%E6%8B%89%E4%BC%AF%E5%B8%AE%E4%B8%AD%E5%9B%BD)
-5. [陈熠首夺亚锦赛女单冠军](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368025&topic_name=%E9%99%88%E7%86%A0%E9%A6%96%E5%A4%BA%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
-6. [网友自制性转马尔福同人游戏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368024&topic_name=%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E6%80%A7%E8%BD%AC%E9%A9%AC%E5%B0%94%E7%A6%8F%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F)
-7. [Bin哥采访太公式,丧失活人感](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368022&topic_name=Bin%E5%93%A5%E9%87%87%E8%AE%BF%E5%A4%AA%E5%85%AC%E5%BC%8F%2C%E4%B8%A7%E5%A4%B1%E6%B4%BB%E4%BA%BA%E6%84%9F)
-8. [火鸡面配薯片,新型赛博灯泡?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368023&topic_name=%E7%81%AB%E9%B8%A1%E9%9D%A2%E9%85%8D%E8%96%AF%E7%89%87%2C%E6%96%B0%E5%9E%8B%E8%B5%9B%E5%8D%9A%E7%81%AF%E6%B3%A1%3F)
-9. [日网友不识Steam,出警批盗版](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368014&topic_name=%E6%97%A5%E7%BD%91%E5%8F%8B%E4%B8%8D%E8%AF%86Steam%2C%E5%87%BA%E8%AD%A6%E6%89%B9%E7%9B%97%E7%89%88)
-10. [央视批AI魔改经典名著](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97)
-11. [日剧抹黑中国,高市点名要看](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368020&topic_name=%E6%97%A5%E5%89%A7%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%2C%E9%AB%98%E5%B8%82%E7%82%B9%E5%90%8D%E8%A6%81%E7%9C%8B)
-12. [仁义!国人祝福土耳其抗癌母亲](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368015&topic_name=%E4%BB%81%E4%B9%89%21%E5%9B%BD%E4%BA%BA%E7%A5%9D%E7%A6%8F%E5%9C%9F%E8%80%B3%E5%85%B6%E6%8A%97%E7%99%8C%E6%AF%8D%E4%BA%B2)
-13. [抗韩先锋,IG决战HLE](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368011&topic_name=%E6%8A%97%E9%9F%A9%E5%85%88%E9%94%8B%2CIG%E5%86%B3%E6%88%98HLE)
+1. [抗韩先锋!IG斩HLE于马下](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368027&topic_name=%E6%8A%97%E9%9F%A9%E5%85%88%E9%94%8B%21IG%E6%96%A9HLE%E4%BA%8E%E9%A9%AC%E4%B8%8B)
+2. [大肥鱼闹智械危机?吧友打假](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368018&topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%97%B9%E6%99%BA%E6%A2%B0%E5%8D%B1%E6%9C%BA%3F%E5%90%A7%E5%8F%8B%E6%89%93%E5%81%87)
+3. [战火中享安逸?吧友怒斥起点文](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368013&topic_name=%E6%88%98%E7%81%AB%E4%B8%AD%E4%BA%AB%E5%AE%89%E9%80%B8%3F%E5%90%A7%E5%8F%8B%E6%80%92%E6%96%A5%E8%B5%B7%E7%82%B9%E6%96%87)
+4. [上岸5天换男友,6年感情喂狗](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368016&topic_name=%E4%B8%8A%E5%B2%B85%E5%A4%A9%E6%8D%A2%E7%94%B7%E5%8F%8B%2C6%E5%B9%B4%E6%84%9F%E6%83%85%E5%96%82%E7%8B%97)
+5. [土耳其摇人翻车,阿拉伯帮中国](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368026&topic_name=%E5%9C%9F%E8%80%B3%E5%85%B6%E6%91%87%E4%BA%BA%E7%BF%BB%E8%BD%A6%2C%E9%98%BF%E6%8B%89%E4%BC%AF%E5%B8%AE%E4%B8%AD%E5%9B%BD)
+6. [陈熠首夺亚锦赛女单冠军](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368025&topic_name=%E9%99%88%E7%86%A0%E9%A6%96%E5%A4%BA%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
+7. [网友自制性转马尔福同人游戏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368024&topic_name=%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E6%80%A7%E8%BD%AC%E9%A9%AC%E5%B0%94%E7%A6%8F%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F)
+8. [Bin哥采访太公式,丧失活人感](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368022&topic_name=Bin%E5%93%A5%E9%87%87%E8%AE%BF%E5%A4%AA%E5%85%AC%E5%BC%8F%2C%E4%B8%A7%E5%A4%B1%E6%B4%BB%E4%BA%BA%E6%84%9F)
+9. [火鸡面配薯片,新型赛博灯泡?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368023&topic_name=%E7%81%AB%E9%B8%A1%E9%9D%A2%E9%85%8D%E8%96%AF%E7%89%87%2C%E6%96%B0%E5%9E%8B%E8%B5%9B%E5%8D%9A%E7%81%AF%E6%B3%A1%3F)
+10. [日网友不识Steam,出警批盗版](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368014&topic_name=%E6%97%A5%E7%BD%91%E5%8F%8B%E4%B8%8D%E8%AF%86Steam%2C%E5%87%BA%E8%AD%A6%E6%89%B9%E7%9B%97%E7%89%88)
+11. [央视批AI魔改经典名著](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97)
+12. [日剧抹黑中国,高市点名要看](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368020&topic_name=%E6%97%A5%E5%89%A7%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%2C%E9%AB%98%E5%B8%82%E7%82%B9%E5%90%8D%E8%A6%81%E7%9C%8B)
+13. [仁义!国人祝福土耳其抗癌母亲](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368015&topic_name=%E4%BB%81%E4%B9%89%21%E5%9B%BD%E4%BA%BA%E7%A5%9D%E7%A6%8F%E5%9C%9F%E8%80%B3%E5%85%B6%E6%8A%97%E7%99%8C%E6%AF%8D%E4%BA%B2)
 14. [BLG速通TLAW,Bin哥怒秀青钢影](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368012&topic_name=BLG%E9%80%9F%E9%80%9ATLAW%2CBin%E5%93%A5%E6%80%92%E7%A7%80%E9%9D%92%E9%92%A2%E5%BD%B1)
 15. [TES拿下AL,内战幻神发力了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368009&topic_name=TES%E6%8B%BF%E4%B8%8BAL%2C%E5%86%85%E6%88%98%E5%B9%BB%E7%A5%9E%E5%8F%91%E5%8A%9B%E4%BA%86)
 16. [60岁再出发,老哥自述流浪人生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368004&topic_name=60%E5%B2%81%E5%86%8D%E5%87%BA%E5%8F%91%2C%E8%80%81%E5%93%A5%E8%87%AA%E8%BF%B0%E6%B5%81%E6%B5%AA%E4%BA%BA%E7%94%9F)
@@ -31,6 +31,6 @@
 25. [瓦学弟开团撸友,抗吧认栽](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368002&topic_name=%E7%93%A6%E5%AD%A6%E5%BC%9F%E5%BC%80%E5%9B%A2%E6%92%B8%E5%8F%8B%2C%E6%8A%97%E5%90%A7%E8%AE%A4%E6%A0%BD)
 26. [吧友中病毒写检讨,吧主严肃批阅](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367997&topic_name=%E5%90%A7%E5%8F%8B%E4%B8%AD%E7%97%85%E6%AF%92%E5%86%99%E6%A3%80%E8%AE%A8%2C%E5%90%A7%E4%B8%BB%E4%B8%A5%E8%82%83%E6%89%B9%E9%98%85)
 27. [丢人!LPL四队瑞士轮首日全败](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367996&topic_name=%E4%B8%A2%E4%BA%BA%21LPL%E5%9B%9B%E9%98%9F%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%97%A5%E5%85%A8%E8%B4%A5)
-28. [官方开串,369英雄池太难绷](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367995&topic_name=%E5%AE%98%E6%96%B9%E5%BC%80%E4%B8%B2%2C369%E8%8B%B1%E9%9B%84%E6%B1%A0%E5%A4%AA%E9%9A%BE%E7%BB%B7)
-29. [图吧垃圾佬逆天狠活大赏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367998&topic_name=%E5%9B%BE%E5%90%A7%E5%9E%83%E5%9C%BE%E4%BD%AC%E9%80%86%E5%A4%A9%E7%8B%A0%E6%B4%BB%E5%A4%A7%E8%B5%8F)
-30. [孙笑川成中土大战最大受害者](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367981&topic_name=%E5%AD%99%E7%AC%91%E5%B7%9D%E6%88%90%E4%B8%AD%E5%9C%9F%E5%A4%A7%E6%88%98%E6%9C%80%E5%A4%A7%E5%8F%97%E5%AE%B3%E8%80%85)
+28. [图吧垃圾佬逆天狠活大赏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367998&topic_name=%E5%9B%BE%E5%90%A7%E5%9E%83%E5%9C%BE%E4%BD%AC%E9%80%86%E5%A4%A9%E7%8B%A0%E6%B4%BB%E5%A4%A7%E8%B5%8F)
+29. [孙笑川成中土大战最大受害者](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367981&topic_name=%E5%AD%99%E7%AC%91%E5%B7%9D%E6%88%90%E4%B8%AD%E5%9C%9F%E5%A4%A7%E6%88%98%E6%9C%80%E5%A4%A7%E5%8F%97%E5%AE%B3%E8%80%85)
+30. [抗韩先锋,IG决战HLE](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368011&topic_name=%E6%8A%97%E9%9F%A9%E5%85%88%E9%94%8B%2CIG%E5%86%B3%E6%88%98HLE)
