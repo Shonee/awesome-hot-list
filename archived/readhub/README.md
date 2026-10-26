@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-27 05:39:59
+> 更新时间：2026-10-27 06:40:23
 
 ## 24 小时热榜
 
@@ -23,37 +23,37 @@
 17. [月之暗面发布 Kimi K3.1 Pro 全球最大开源模型推进 IPO](https://readhub.cn/topic/8xWFAuq1fMG?tab=daily)
 18. [Linux 基金会发布报告：AI 写代码快 52% 四分之一 PR 为 AI 垃圾](https://readhub.cn/topic/8xVRrTvQ0xF?tab=daily)
 19. [蓝色光标：前三季度净利润同比增长 56.86%](https://readhub.cn/topic/8xXTzdLriM7?tab=daily)
-20. [停训 11 天后重启，OpenAI 最强模型断网开练](https://readhub.cn/topic/8xWvKeKj4Bq?tab=daily)
-21. [腾讯绿泡泡短剧小程序月活过亿，10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
-22. [字节跳动 TikTok 电商欧洲负责人陈熙即将离职 后续业务由宋琪负责](https://readhub.cn/topic/8xXEzhNjGTk?tab=daily)
+20. [腾讯绿泡泡短剧小程序月活过亿，10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
+21. [停训 11 天后重启，OpenAI 最强模型断网开练](https://readhub.cn/topic/8xWvKeKj4Bq?tab=daily)
+22. [Anthropic 正式提交纳斯达克 IPO 申请](https://readhub.cn/topic/8xXqrTLIraI?tab=daily)
 23. [英伟达调整 Rubin GPU 规格 下调 HBM 与 NVLink 带宽提升网络带宽](https://readhub.cn/topic/8xXB4BErtgD?tab=daily)
-24. [Anthropic 正式提交纳斯达克 IPO 申请](https://readhub.cn/topic/8xXqrTLIraI?tab=daily)
+24. [字节跳动 TikTok 电商欧洲负责人陈熙即将离职 后续业务由宋琪负责](https://readhub.cn/topic/8xXEzhNjGTk?tab=daily)
 25. [iPhone Duo 开售即现大面积裂屏 苹果售后提供换新](https://readhub.cn/topic/8xX0LtAyssP?tab=daily)
-26. [尊界汽车刹车风波后官微复更 首发内容聚焦 S800 典藏版车漆](https://readhub.cn/topic/8xX8ZyQGP6a?tab=daily)
-27. [央视曝光：AI 生成视频已可逃过人脸识别系统](https://readhub.cn/topic/8xX8zfVf9Bw?tab=daily)
+26. [央视曝光：AI 生成视频已可逃过人脸识别系统](https://readhub.cn/topic/8xX8zfVf9Bw?tab=daily)
+27. [尊界汽车刹车风波后官微复更 首发内容聚焦 S800 典藏版车漆](https://readhub.cn/topic/8xX8ZyQGP6a?tab=daily)
 28. [圣邦股份拟 8.33 亿元收购申矽凌 58.2878% 股份](https://readhub.cn/topic/8xXiI9baSfj?tab=daily)
 29. [Mercury 3 速度最高超 GPT-6 Luna 约 8 倍 跑分实现反超](https://readhub.cn/topic/8xX4eKns4cl?tab=daily)
 30. [苹果发布新款 iPad mini](https://readhub.cn/topic/8xXqrZ1HSsK?tab=daily)
 
 ## 每日早报
 
-1. [10.25 月之暗面推出 Kimi K3.1 Pro 及高速版：3 万亿参数大模型 9 条](https://readhub.cn/daily/2026-10-25)
-2. [10.24 苹果总市值超越英伟达 重登美股市值第一 13 条](https://readhub.cn/daily/2026-10-24)
-3. [10.23 DeepSeek 完成约千亿元融资，创中国 AI 行业最高融资纪录 12 条](https://readhub.cn/daily/2026-10-23)
-4. [10.22 PHP 曝高危远程代码执行漏洞，官方提前发布安全补丁 13 条](https://readhub.cn/daily/2026-10-22)
-5. [10.21 DeepSeek 开源内部推理框架 DeepInfer 12 条](https://readhub.cn/daily/2026-10-21)
-6. [10.20 苹果宣布 10 月 28 日于洛杉矶举办「Pro and Tell」专场活动 16 条](https://readhub.cn/daily/2026-10-20)
-7. [10.19 DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元 11 条](https://readhub.cn/daily/2026-10-19)
+1. [10.26 OpenAI 联手数学家攻破零点猜想  证明仅 5 页 7 条](https://readhub.cn/daily/2026-10-26)
+2. [10.25 月之暗面推出 Kimi K3.1 Pro 及高速版：3 万亿参数大模型 9 条](https://readhub.cn/daily/2026-10-25)
+3. [10.24 苹果总市值超越英伟达 重登美股市值第一 13 条](https://readhub.cn/daily/2026-10-24)
+4. [10.23 DeepSeek 完成约千亿元融资，创中国 AI 行业最高融资纪录 12 条](https://readhub.cn/daily/2026-10-23)
+5. [10.22 PHP 曝高危远程代码执行漏洞，官方提前发布安全补丁 13 条](https://readhub.cn/daily/2026-10-22)
+6. [10.21 DeepSeek 开源内部推理框架 DeepInfer 12 条](https://readhub.cn/daily/2026-10-21)
+7. [10.20 苹果宣布 10 月 28 日于洛杉矶举办「Pro and Tell」专场活动 16 条](https://readhub.cn/daily/2026-10-20)
 
 ## AI 资讯
 
 1. [冲击史上最大 IPO Anthropic 招股书公开：半年营收 163 亿美元，数千亿美元砸向算力](https://www.mittrchina.com/news/detail/17150)
 2. [ChatGPT's expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work)
-3. [杨立昆披露 AMI Labs 商业化路线图：先发论文，再进入工业，最终瞄准机器人](https://www.mittrchina.com/news/detail/17148)
-4. [科学家造出 AI 嗅觉系统，可识别并远程释放香气](https://www.mittrchina.com/news/detail/17147)
-5. [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience)
-6. [大量数据中心恐烂尾，新兴 AI 云厂商面临大洗牌，马斯克发出警告](https://www.mittrchina.com/news/detail/17149)
-7. [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
-8. [OpenAI 推出 GPT-6.1 Terra：电脑操作速度提升逾 3 倍，API 价格降低 50%](https://www.gelonghui.com/live/2730171)
-9. [How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation)
-10. [Tinybox 不再提供 Nvidia GPU 选项，新增 192GB 六 GPU AMD 配置并涨价 3000 美元](https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier)
+3. [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
+4. [杨立昆披露 AMI Labs 商业化路线图：先发论文，再进入工业，最终瞄准机器人](https://www.mittrchina.com/news/detail/17148)
+5. [科学家造出 AI 嗅觉系统，可识别并远程释放香气](https://www.mittrchina.com/news/detail/17147)
+6. [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience)
+7. [大量数据中心恐烂尾，新兴 AI 云厂商面临大洗牌，马斯克发出警告](https://www.mittrchina.com/news/detail/17149)
+8. [OpenAI 宣布 AI 取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题](https://www.gelonghui.com/live/2730281)
+9. [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
+10. [OpenAI 推出 GPT-6.1 Terra：电脑操作速度提升逾 3 倍，API 价格降低 50%](https://www.gelonghui.com/live/2730171)
