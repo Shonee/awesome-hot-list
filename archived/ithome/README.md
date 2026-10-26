@@ -1,14 +1,14 @@
 # IT之家热榜
 
-> 更新时间：2026-10-27 03:42:08
+> 更新时间：2026-10-27 04:13:19
 
 ## 日榜
 
 1. [网友成功将一加 Ace 5 刷入“真”纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复](https://www.ithome.com/1/017/753.htm)
 2. [5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水](https://www.ithome.com/1/018/156.htm)
 3. [大学老师工资将通过数字人民币钱包发放，江苏多所高校收到通知](https://www.ithome.com/1/017/848.htm)
-4. [iFixit 拆解苹果 iPhone Duo：初步锁定折叠屏故障潜在诱因](https://www.ithome.com/1/017/724.htm)
-5. [苹果 iPad mini（A20 Pro）升级 OLED 面板，但仍为 60Hz 刷新率](https://www.ithome.com/1/018/159.htm)
+4. [苹果 iPad mini（A20 Pro）升级 OLED 面板，但仍为 60Hz 刷新率](https://www.ithome.com/1/018/159.htm)
+5. [iFixit 拆解苹果 iPhone Duo：初步锁定折叠屏故障潜在诱因](https://www.ithome.com/1/017/724.htm)
 6. [曝华为 Pura X View 销量破 60 万台：独享阔直屏、网友调侃出一台卖一台，已开启 60 天预约申购](https://www.ithome.com/1/017/736.htm)
 7. [鸿蒙智行尊界汽车微博复更，发布 S800 典藏大观车型组图](https://www.ithome.com/1/017/796.htm)
 8. [终破五千大关：苹果 Mac mini M6 国补后京东 4929 元，与 M4 版同价](https://www.ithome.com/1/018/022.htm)

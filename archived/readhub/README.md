@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-27 02:52:47
+> 更新时间：2026-10-27 04:13:08
 
 ## 24 小时热榜
 
@@ -53,7 +53,7 @@
 4. [科学家造出 AI 嗅觉系统，可识别并远程释放香气](https://www.mittrchina.com/news/detail/17147)
 5. [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience)
 6. [大量数据中心恐烂尾，新兴 AI 云厂商面临大洗牌，马斯克发出警告](https://www.mittrchina.com/news/detail/17149)
-7. [OpenAI 推出 GPT-6.1 Terra：电脑操作速度提升逾 3 倍，API 价格降低 50%](https://www.gelonghui.com/live/2730171)
-8. [即梦推出「短剧工作室」，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
-9. [三星电子宣布依托 AI 将新型半导体材料研发周期由 5 年缩短至 2 年](https://www.aibase.com/zh/news/31867)
-10. [中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美](https://www.aibase.com/zh/news/31870)
+7. [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
+8. [OpenAI 推出 GPT-6.1 Terra：电脑操作速度提升逾 3 倍，API 价格降低 50%](https://www.gelonghui.com/live/2730171)
+9. [How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation)
+10. [即梦推出「短剧工作室」，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
