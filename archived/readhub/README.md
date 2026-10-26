@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-26 23:01:31
+> 更新时间：2026-10-27 00:15:36
 
 ## 24 小时热榜
 
@@ -16,8 +16,8 @@
 10. [小鹏 X9 严重撞损气囊未弹出，双方就气囊触发条件存争议](https://readhub.cn/topic/8xXAM3AlvXM?tab=daily)
 11. [Claude 桌面应用推出新版界面，从草图到上线用时不到 3 周](https://readhub.cn/topic/8xWINlRXiHk?tab=daily)
 12. [国产武侠游戏《影之刃零》10 月 27 日 10:00 开启预下载，本体约 145G](https://readhub.cn/topic/8xWJogT6mN4?tab=daily)
-13. [DeepSeek 旗下大模型单周调用量登顶全球大模型首位](https://readhub.cn/topic/8xX8yOnfKyR?tab=daily)
-14. [马斯克：预计新云厂商将迎来大规模整合与倒闭潮](https://readhub.cn/topic/8xX28w7aNTD?tab=daily)
+13. [马斯克：预计新云厂商将迎来大规模整合与倒闭潮](https://readhub.cn/topic/8xX28w7aNTD?tab=daily)
+14. [DeepSeek 旗下大模型单周调用量登顶全球大模型首位](https://readhub.cn/topic/8xX8yOnfKyR?tab=daily)
 15. [苹果发布 iPhone Duo 支持文档，帮助用户排查铰链和屏幕问题](https://readhub.cn/topic/8xWFX0wwXTk?tab=daily)
 16. [网友定制索尼 A7C II 相机固件 解锁 FL2 / FL3 及富士理光风格色调](https://readhub.cn/topic/8xX3DbMjkk0?tab=daily)
 17. [国内首部获公映证 AI 全流程院线长片《三星堆：未来往事》票房破百万](https://readhub.cn/topic/8xWMJfFdeem?tab=daily)
@@ -26,11 +26,11 @@
 20. [Eka Robotics 完成 1.5 亿美元 A 轮融资 投后估值 14.5 亿美元](https://readhub.cn/topic/8xVyjUKC6gD?tab=daily)
 21. [月之暗面发布 Kimi K3.1 Pro 全球最大开源模型推进 IPO](https://readhub.cn/topic/8xWFAuq1fMG?tab=daily)
 22. [Linux 基金会发布报告：AI 写代码快 52% 四分之一 PR 为 AI 垃圾](https://readhub.cn/topic/8xVRrTvQ0xF?tab=daily)
-23. [腾讯绿泡泡短剧小程序月活过亿 10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
+23. [腾讯绿泡泡短剧小程序月活过亿，10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
 24. [蓝色光标：前三季度净利润同比增长 56.86%](https://readhub.cn/topic/8xXTzdLriM7?tab=daily)
 25. [停训 11 天后重启，OpenAI 最强模型断网开练](https://readhub.cn/topic/8xWvKeKj4Bq?tab=daily)
-26. [英伟达调整 Rubin GPU 规格 下调 HBM 与 NVLink 带宽提升网络带宽](https://readhub.cn/topic/8xXB4BErtgD?tab=daily)
-27. [iPhone Duo 开售即现大面积裂屏 苹果售后提供换新](https://readhub.cn/topic/8xX0LtAyssP?tab=daily)
+26. [iPhone Duo 开售即现大面积裂屏 苹果售后提供换新](https://readhub.cn/topic/8xX0LtAyssP?tab=daily)
+27. [英伟达调整 Rubin GPU 规格 下调 HBM 与 NVLink 带宽提升网络带宽](https://readhub.cn/topic/8xXB4BErtgD?tab=daily)
 28. [字节跳动 TikTok 电商欧洲负责人陈熙即将离职 后续业务由宋琪负责](https://readhub.cn/topic/8xXEzhNjGTk?tab=daily)
 29. [Anthropic 正式提交纳斯达克 IPO 申请](https://readhub.cn/topic/8xXqrTLIraI?tab=daily)
 30. [尊界汽车刹车风波后官微复更 首发内容聚焦 S800 典藏版车漆](https://readhub.cn/topic/8xX8ZyQGP6a?tab=daily)
@@ -51,9 +51,9 @@
 2. [科学家造出 AI 嗅觉系统，可识别并远程释放香气](https://www.mittrchina.com/news/detail/17147)
 3. [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience)
 4. [大量数据中心恐烂尾，新兴 AI 云厂商面临大洗牌，马斯克发出警告](https://www.mittrchina.com/news/detail/17149)
-5. [即梦推出「短剧工作室」，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
-6. [三星电子宣布依托 AI 将新型半导体材料研发周期由 5 年缩短至 2 年](https://www.aibase.com/zh/news/31867)
-7. [Anthropic 交表，算力承诺超 5180 亿美元，预警收入增速无法持续](https://www.yicai.com/news/103410241.html)
-8. [中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美](https://www.aibase.com/zh/news/31870)
-9. [Meta 拟融资 950 亿美元砸向 AI，英伟达、AMD、博通有意认购至多 50 亿美元股票](https://m.thepaper.cn/newsDetail_forward_34335837)
-10. [腾讯混元同声传译大模型 Hy-SimulMT 开源](https://www.donews.com/news/detail/1/6754383.html)
+5. [Anthropic files S-1 to go public on Nasdaq, reports $16.3B revenue in H1 2026](https://daily.dev/posts/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing-jfyu6ithe)
+6. [即梦推出「短剧工作室」，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
+7. [三星电子宣布依托 AI 将新型半导体材料研发周期由 5 年缩短至 2 年](https://www.aibase.com/zh/news/31867)
+8. [Anthropic 交表，算力承诺超 5180 亿美元，预警收入增速无法持续](https://www.yicai.com/news/103410241.html)
+9. [中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美](https://www.aibase.com/zh/news/31870)
+10. [Meta 拟融资 950 亿美元砸向 AI，英伟达、AMD、博通有意认购至多 50 亿美元股票](https://m.thepaper.cn/newsDetail_forward_34335837)
