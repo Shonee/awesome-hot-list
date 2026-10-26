@@ -1,6 +1,6 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-26 10:27:58
+> 更新时间：2026-10-26 11:18:51
 
 ## 热门问题
 
@@ -20,10 +20,10 @@
 14. [JQuery validation not working in new ASP.NET Core MVC web application](https://stackoverflow.com/questions/80012423/jquery-validation-not-working-in-new-asp-net-core-mvc-web-application)
 15. [How can I ensure a 20 microsecond cycle during real time testing?](https://stackoverflow.com/questions/80012365/how-can-i-ensure-a-20-microsecond-cycle-during-real-time-testing)
 16. [Div is expanding to fit content when I don't want it to](https://stackoverflow.com/questions/80012415/div-is-expanding-to-fit-content-when-i-dont-want-it-to)
-17. [How to ignore whitespace in the review page when calling `git commit --verbose`?](https://stackoverflow.com/questions/80012424/how-to-ignore-whitespace-in-the-review-page-when-calling-git-commit-verbose)
-18. [How to fix WampServer addons defaulting to C:\wamp64 after migrating to another computer?](https://stackoverflow.com/questions/80012430/how-to-fix-wampserver-addons-defaulting-to-c-wamp64-after-migrating-to-another)
-19. [How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?](https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to)
-20. [Get rid of unwanted splash of color which is not splashColor in Flutter FilterChip widget](https://stackoverflow.com/questions/80012412/get-rid-of-unwanted-splash-of-color-which-is-not-splashcolor-in-flutter-filterch)
+17. [How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?](https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to)
+18. [How to ignore whitespace in the review page when calling `git commit --verbose`?](https://stackoverflow.com/questions/80012424/how-to-ignore-whitespace-in-the-review-page-when-calling-git-commit-verbose)
+19. [Get rid of unwanted splash of color which is not splashColor in Flutter FilterChip widget](https://stackoverflow.com/questions/80012412/get-rid-of-unwanted-splash-of-color-which-is-not-splashcolor-in-flutter-filterch)
+20. [How to fix WampServer addons defaulting to C:\wamp64 after migrating to another computer?](https://stackoverflow.com/questions/80012430/how-to-fix-wampserver-addons-defaulting-to-c-wamp64-after-migrating-to-another)
 21. [How to rank a user's top 8 friends by interaction score in SQL (Snapchat-style planets)?](https://stackoverflow.com/questions/80012420/how-to-rank-a-users-top-8-friends-by-interaction-score-in-sql-snapchat-style-p)
 22. [SoundCloud API rate limits introduced/tightened overnight?](https://stackoverflow.com/questions/80012427/soundcloud-api-rate-limits-introduced-tightened-overnight)
 23. [Should picture URLs include file extensions?](https://stackoverflow.com/questions/80012350/should-picture-urls-include-file-extensions)
@@ -38,19 +38,19 @@
 32. [How can I connect an AI chatbot to a local AI coding agent to automate the entire development loop without manual intervention?](https://stackoverflow.com/questions/80012369/how-can-i-connect-an-ai-chatbot-to-a-local-ai-coding-agent-to-automate-the-entir)
 33. [Ambiguous type conversion in switch statement with only one viable conversion](https://stackoverflow.com/questions/80012225/ambiguous-type-conversion-in-switch-statement-with-only-one-viable-conversion)
 34. [Setting italic conditional formatting in Openpyxl](https://stackoverflow.com/questions/80012239/setting-italic-conditional-formatting-in-openpyxl)
-35. [MFRC522 RFID Reader Works Intermittently with ESP32](https://stackoverflow.com/questions/80012364/mfrc522-rfid-reader-works-intermittently-with-esp32)
-36. [Downcast generic interface (INumber<T>) to derived generic interface (IBinaryInteger<T>)](https://stackoverflow.com/questions/80011917/downcast-generic-interface-inumbert-to-derived-generic-interface-ibinaryint)
+35. [Downcast generic interface (INumber<T>) to derived generic interface (IBinaryInteger<T>)](https://stackoverflow.com/questions/80011917/downcast-generic-interface-inumbert-to-derived-generic-interface-ibinaryint)
+36. [MFRC522 RFID Reader Works Intermittently with ESP32](https://stackoverflow.com/questions/80012364/mfrc522-rfid-reader-works-intermittently-with-esp32)
 37. [For loop within a function that writes contents of list parameter to desired file name](https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil)
-38. [PHP 8.5 from deb.sury.org - cannot execute binary file exec format error on WSL1](https://stackoverflow.com/questions/80012333/php-8-5-from-deb-sury-org-cannot-execute-binary-file-exec-format-error-on-wsl1)
-39. [Borders on html website/background image over smaller content area?](https://stackoverflow.com/questions/80012290/borders-on-html-website-background-image-over-smaller-content-area)
-40. [How to assign information in a table on the basis of another table in Excel 2016?](https://stackoverflow.com/questions/80012323/how-to-assign-information-in-a-table-on-the-basis-of-another-table-in-excel-2016)
-41. [How can I solve a SIGSEGV when using std::regex at a large string?](https://stackoverflow.com/questions/80012273/how-can-i-solve-a-sigsegv-when-using-stdregex-at-a-large-string)
+38. [How can I solve a SIGSEGV when using std::regex at a large string?](https://stackoverflow.com/questions/80012273/how-can-i-solve-a-sigsegv-when-using-stdregex-at-a-large-string)
+39. [PHP 8.5 from deb.sury.org - cannot execute binary file exec format error on WSL1](https://stackoverflow.com/questions/80012333/php-8-5-from-deb-sury-org-cannot-execute-binary-file-exec-format-error-on-wsl1)
+40. [Borders on html website/background image over smaller content area?](https://stackoverflow.com/questions/80012290/borders-on-html-website-background-image-over-smaller-content-area)
+41. [How to assign information in a table on the basis of another table in Excel 2016?](https://stackoverflow.com/questions/80012323/how-to-assign-information-in-a-table-on-the-basis-of-another-table-in-excel-2016)
 42. [Why isn’t the stdout of my program redirected into a file?](https://stackoverflow.com/questions/80012308/why-isn-t-the-stdout-of-my-program-redirected-into-a-file)
 43. [Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?](https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d)
 44. [VS code displaying only path to folder but no files in the explorer](https://stackoverflow.com/questions/80012276/vs-code-displaying-only-path-to-folder-but-no-files-in-the-explorer)
 45. [What is the complexity of this algorithm? Common elements in two lists](https://stackoverflow.com/questions/80012286/what-is-the-complexity-of-this-algorithm-common-elements-in-two-lists)
 46. [Fastboot doesn't detect plugged in smartphone](https://stackoverflow.com/questions/80012340/fastboot-doesnt-detect-plugged-in-smartphone)
-47. [How do I put buttons on top of a fixed picture?](https://stackoverflow.com/questions/80012269/how-do-i-put-buttons-on-top-of-a-fixed-picture)
-48. [Why does this linked-list C code segfault?](https://stackoverflow.com/questions/80012068/why-does-this-linked-list-c-code-segfault)
-49. ["Error in -rm(list = ls()) : invalid argument to unary operator"](https://stackoverflow.com/questions/80012327/error-in-rmlist-ls-invalid-argument-to-unary-operator)
-50. [Breaking long URLs in comments, still having them selectable/clickable](https://stackoverflow.com/questions/80011577/breaking-long-urls-in-comments-still-having-them-selectable-clickable)
+47. [Why does this linked-list C code segfault?](https://stackoverflow.com/questions/80012068/why-does-this-linked-list-c-code-segfault)
+48. [How do I put buttons on top of a fixed picture?](https://stackoverflow.com/questions/80012269/how-do-i-put-buttons-on-top-of-a-fixed-picture)
+49. [Breaking long URLs in comments, still having them selectable/clickable](https://stackoverflow.com/questions/80011577/breaking-long-urls-in-comments-still-having-them-selectable-clickable)
+50. ["Error in -rm(list = ls()) : invalid argument to unary operator"](https://stackoverflow.com/questions/80012327/error-in-rmlist-ls-invalid-argument-to-unary-operator)
