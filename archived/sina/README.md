@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-26 16:34:29
+> 更新时间：2026-10-26 17:21:42
 
 ## 新闻热榜
 
@@ -10,20 +10,20 @@
 4. [蔡康永发布声明](https://news.sina.com.cn/c/2026-10-25/doc-iniwncyk2900368.shtml)
 5. [洪秀柱最新发声](https://news.sina.com.cn/c/2026-10-25/doc-iniwnkhp2842030.shtml)
 6. [俄方：“感谢中国政府和人民”](https://news.sina.com.cn/zx/2026-10-26/doc-iniwpmtx5583838.shtml)
-7. [视频丨党的二十届五中全会今起至29日在北京召开](https://news.sina.com.cn/c/2026-10-26/doc-iniwpfmx9251359.shtml)
-8. [巴西总统卢拉赢得连任](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2550550.shtml)
+7. [“大衣哥”朱之文长期遭黑粉举报，十几场演出取消，已回家种地：宁愿站着死，不要躺着亡，大不了不挣钱，但得争口气，这次绝对不会放过你](https://news.sina.com.cn/c/2026-10-26/doc-iniwpfnc2469304.shtml)
+8. [博索纳罗拒绝承认败选，要求宣布选举无效，曾公开表示，如自己当选，将推动巴西成为美国“亲密盟友”](https://news.sina.com.cn/w/2026-10-26/doc-iniwpfmx9355150.shtml)
 9. [美防长对孔子学院说三道四，专家：美方持续制造“寒蝉效应”，终将陷入认知孤立](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9287293.shtml)
-10. [凌晨，美国飞北京航班起飞后突然返航，机上有262人，航司回应](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9343684.shtml)
-11. [博索纳罗拒绝承认败选，要求宣布选举无效，曾公开表示，如自己当选，将推动巴西成为美国“亲密盟友”](https://news.sina.com.cn/w/2026-10-26/doc-iniwpfmx9355150.shtml)
-12. [“大衣哥”朱之文长期遭黑粉举报，十几场演出取消，已回家种地：宁愿站着死，不要躺着亡，大不了不挣钱，但得争口气，这次绝对不会放过你](https://news.sina.com.cn/c/2026-10-26/doc-iniwpfnc2469304.shtml)
-13. [盘点比熬夜更可怕的坏习惯 网友：我全中了](https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpmtu2519804.shtml)
-14. [暴力冲突仍在发生，政府治理备受质疑，欧洲多国经历“第二个抗议周末”](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2512904.shtml)
-15. [财经早报丨特朗普称随时可能再打伊朗，机构：A股有望出现持续1个月上涨行情丨2026年10月26日](https://finance.sina.com.cn/stock/y/2026-10-26/doc-iniwnzcz9312668.shtml)
-16. [中国共产党第二十届中央委员会第五次全体会议在北京开始举行](https://news.sina.com.cn/c/xl/2026-10-26/doc-iniwpmtx5602418.shtml)
-17. [天天学习｜总书记为何讲“四知拒金”的故事？](https://news.sina.com.cn/c/xl/2026-10-26/doc-iniwpfmw2448497.shtml)
-18. [高清大图！歼-15红蓝对抗训练最新画面](https://news.sina.com.cn/c/2026-10-26/doc-iniwnqqf9497558.shtml)
-19. [中缅原油管道累计输量突破1亿吨](https://news.sina.com.cn/c/2026-10-26/doc-iniwnzec5740602.shtml)
-20. [中国台湾艺人阿雅在台湾光复纪念日当天转发新华社文章，公开表态“一个中国！”](https://news.sina.com.cn/c/2026-10-26/doc-iniwprzx2283092.shtml)
+10. [视频丨党的二十届五中全会今起至29日在北京召开](https://news.sina.com.cn/c/2026-10-26/doc-iniwpfmx9251359.shtml)
+11. [凌晨，美国飞北京航班起飞后突然返航，机上有262人，航司回应](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9343684.shtml)
+12. [巴西总统卢拉赢得连任](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2550550.shtml)
+13. [中国共产党第二十届中央委员会第五次全体会议在北京开始举行](https://news.sina.com.cn/c/xl/2026-10-26/doc-iniwpmtx5602418.shtml)
+14. [中国台湾艺人阿雅在台湾光复纪念日当天转发新华社文章，公开表态“一个中国！”](https://news.sina.com.cn/c/2026-10-26/doc-iniwprzx2283092.shtml)
+15. [暴力冲突仍在发生，政府治理备受质疑，欧洲多国经历“第二个抗议周末”](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2512904.shtml)
+16. [盘点比熬夜更可怕的坏习惯 网友：我全中了](https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpmtu2519804.shtml)
+17. [长鑫存储硬气拒绝苹果：中国本土的订单都接不完，不伺候 此前苹果曾希望拿到比美光、三星、SK海力士更便宜的价格](https://news.sina.com.cn/c/2026-10-26/doc-iniwpmtx5607665.shtml)
+18. [财经早报丨特朗普称随时可能再打伊朗，机构：A股有望出现持续1个月上涨行情丨2026年10月26日](https://finance.sina.com.cn/stock/y/2026-10-26/doc-iniwnzcz9312668.shtml)
+19. [天天学习｜总书记为何讲“四知拒金”的故事？](https://news.sina.com.cn/c/xl/2026-10-26/doc-iniwpfmw2448497.shtml)
+20. [中缅原油管道累计输量突破1亿吨](https://news.sina.com.cn/c/2026-10-26/doc-iniwnzec5740602.shtml)
 
 ## 财经热榜
 
