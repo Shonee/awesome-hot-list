@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-26 08:33:07
+> 更新时间：2026-10-26 09:28:18
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 11. [iPhone Duo防尘测试翻车：IP68也扛不住粉尘 铰链进灰致磁吸失效](https://www.gamersky.com/news/202610/2234492.shtml)
 12. [兔娘去美国参加世界赛 自称不会便宜黑人:请粉丝放心](https://www.gamersky.com/news/202610/2234254.shtml)
-13. [同一游戏两个价！PS商店动态定价相差5倍惹怒老用户](https://www.gamersky.com/news/202610/2234533.shtml)
-14. [曝《湮灭之潮》女主脸优化！新形象曝光 物理效果回归](https://www.gamersky.com/news/202610/2234467.shtml)
-15. [NS2破解惨遭新进展！系统固件导出 进展实在太快](https://www.gamersky.com/news/202610/2234454.shtml)
+13. [IGN《影之刃零》9分！近年最佳动作游戏 流畅到难以置信](https://www.gamersky.com/news/202610/2234656.shtml)
+14. [同一游戏两个价！PS商店动态定价相差5倍惹怒老用户](https://www.gamersky.com/news/202610/2234533.shtml)
+15. [85寸大电视跌破3000元!高端电视崩盘：等等党赢麻了?](https://www.gamersky.com/news/202610/2234501.shtml)

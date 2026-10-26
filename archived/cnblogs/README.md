@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-26 08:32:47
+> 更新时间：2026-10-26 09:27:11
 
 ## 最新帖子
 
-1. [语音降噪模型GTCRN学习笔记(二)](https://www.cnblogs.com/talkaudiodev/p/23430817)
-2. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
-3. [Vibe Coding 之前，先把这些准备工作做好](https://www.cnblogs.com/jyzhao/p/23435237)
-4. [MQTT实战 - MQTT Broker选型，EMQX vs Mosquitto，我用过的真实对比（八）](https://www.cnblogs.com/hugogoos/p/23427415)
-5. [11. ArkTS 标识符 & 关键字｜命名规则详解](https://www.cnblogs.com/halfcode/p/23432960)
-6. [RequestBatcher 0.3.x 版本，优雅升级](https://www.cnblogs.com/eventhorizon/p/23434966)
-7. [116亿美元，边缘云翻身了？](https://www.cnblogs.com/byjs/p/23434306)
-8. [I love Power BI](https://www.cnblogs.com/aspnetx/p/23434308)
-9. [Qwen-Image2.1游戏素材工坊：一句话，生成一整套游戏美术素材（一）](https://www.cnblogs.com/wyang/p/23434205)
-10. [用 C# + Blazor 开发智能体（Agent）教程](https://www.cnblogs.com/known/p/23433592)
-11. [ARTS 1025: 唯一字符与同构字符串、省词可能增加阅读负担与重新估算软件的实现成本](https://www.cnblogs.com/leikooo/p/23433286)
-12. [汉字字形 SVG 库整理](https://www.cnblogs.com/Zhouyongh/p/23433153)
-13. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
-14. [从审核员到监工：AI正在重写评价体系，也重写人的价值](https://www.cnblogs.com/Li-runqing/p/23432895/ai-overseer)
-15. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
-16. [Day02 · 开发环境搭建](https://www.cnblogs.com/xiaojiaxuezhang/p/23432504)
-17. [越卷越像：我用遗传算法做了个"内卷"实验](https://www.cnblogs.com/shimiri/p/23432346)
-18. [Restic 备份工具使用指南（Windows Server 2019 适配版）](https://www.cnblogs.com/JoePotter/p/23431933)
-19. [LED 灯珠与限流电阻](https://www.cnblogs.com/zw-awa/p/23431908)
-20. [洛谷-P14775 [ICPC 2024 Seoul R] String Rank 题解](https://www.cnblogs.com/xiaoniu142857/p/23431834)
+1. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
+2. [高可用之路-观测篇-那些年遇到过的指标幻觉](https://www.cnblogs.com/alchemystar/p/23432965)
+3. [谈谈怎样做好游戏发行中台](https://www.cnblogs.com/VVStudy/p/23426886)
+4. [2026年AI安全测试工具大全，14款大模型与Agent安全工具一次配齐](https://www.cnblogs.com/jinjiangongzuoshi/p/23435565)
+5. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
+6. [语音降噪模型GTCRN学习笔记(二)](https://www.cnblogs.com/talkaudiodev/p/23430817)
+7. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
+8. [Vibe Coding 之前，先把这些准备工作做好](https://www.cnblogs.com/jyzhao/p/23435237)
+9. [MQTT实战 - MQTT Broker选型，EMQX vs Mosquitto，我用过的真实对比（八）](https://www.cnblogs.com/hugogoos/p/23427415)
+10. [11. ArkTS 标识符 & 关键字｜命名规则详解](https://www.cnblogs.com/halfcode/p/23432960)
+11. [RequestBatcher 0.3.x 版本，优雅升级](https://www.cnblogs.com/eventhorizon/p/23434966)
+12. [116亿美元，边缘云翻身了？](https://www.cnblogs.com/byjs/p/23434306)
+13. [I love Power BI](https://www.cnblogs.com/aspnetx/p/23434308)
+14. [Qwen-Image2.1游戏素材工坊：一句话，生成一整套游戏美术素材（一）](https://www.cnblogs.com/wyang/p/23434205)
+15. [用 C# + Blazor 开发智能体（Agent）教程](https://www.cnblogs.com/known/p/23433592)
+16. [ARTS 1025: 唯一字符与同构字符串、省词可能增加阅读负担与重新估算软件的实现成本](https://www.cnblogs.com/leikooo/p/23433286)
+17. [汉字字形 SVG 库整理](https://www.cnblogs.com/Zhouyongh/p/23433153)
+18. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
+19. [从审核员到监工：AI正在重写评价体系，也重写人的价值](https://www.cnblogs.com/Li-runqing/p/23432895/ai-overseer)
+20. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
 
 ## 精华帖子
 
@@ -47,3 +47,12 @@
 18. [为什么说 IO 操作异步才有意义](https://www.cnblogs.com/kklldog/p/19449864)
 19. [2025 年终总结｜30岁](https://www.cnblogs.com/liyq666/p/19427476)
 20. [Keepalived详解：原理、编译安装与高可用集群配置](https://www.cnblogs.com/ydswin/p/19326078)
+
+## 48 小时阅读排行
+
+1. [70后 90后 00后技术人，邀你一起重新出发](https://www.cnblogs.com/cmt/p/23427349)
+2. [实战｜Windows10 2016 LTSB 彻底永久关闭自动更新](https://www.cnblogs.com/jyzhao/p/23422059)
+3. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
+4. [大杂烩：创建自己的个人数据工作台](https://www.cnblogs.com/aspnetx/p/23426638)
+5. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
+6. [.net core 使用枚举类而不是枚举类型及应用源生成器](https://www.cnblogs.com/xiangji/p/23426658)

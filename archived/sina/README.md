@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-26 08:33:03
+> 更新时间：2026-10-26 09:27:35
 
 ## 新闻热榜
 
 1. [蔡康永发布声明](https://news.sina.com.cn/c/2026-10-25/doc-iniwncyk2900368.shtml)
 2. [洪秀柱最新发声](https://news.sina.com.cn/c/2026-10-25/doc-iniwnkhp2842030.shtml)
 3. [蒙古国考虑就草原火灾向涉事日企索赔](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9695106.shtml)
-4. [武契奇承认前进党在塞议会选举中败选](https://news.sina.com.cn/w/2026-10-26/doc-iniwnuwc9392079.shtml)
-5. [邹敬园成就体操世锦赛双杠五冠王](https://news.sina.com.cn/c/2026-10-26/doc-iniwnkhh2800500.shtml)
-6. [以色列大选倒计时，内塔尼亚胡支持率第三](https://news.sina.com.cn/w/2026-10-25/doc-iniwmtkv3142662.shtml)
-7. [陈熠3-0战胜张本美和 夺得亚锦赛女单冠军](https://news.sina.com.cn/c/2026-10-25/doc-iniwmxsn2969934.shtml)
-8. [巴西总统选举进行第二轮投票](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9674414.shtml)
-9. [双色球头奖7注682万分落6地 奖池余额10.56亿](https://sports.sina.com.cn/l/2026-10-25/doc-iniwncyr2952540.shtml)
-10. [特朗普称伊朗问题临近决断时刻 要么达成协议要么彻底解决](https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwnkhm6067433.shtml)
-11. [Claude未经许可访问了付费公开数据。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285132.shtml)
+4. [邹敬园成就体操世锦赛双杠五冠王](https://news.sina.com.cn/c/2026-10-26/doc-iniwnkhh2800500.shtml)
+5. [高清大图！歼-15红蓝对抗训练最新画面](https://news.sina.com.cn/c/2026-10-26/doc-iniwnqqf9497558.shtml)
+6. [陈熠3-0战胜张本美和 夺得亚锦赛女单冠军](https://news.sina.com.cn/c/2026-10-25/doc-iniwmxsn2969934.shtml)
+7. [以色列大选倒计时，内塔尼亚胡支持率第三](https://news.sina.com.cn/w/2026-10-25/doc-iniwmtkv3142662.shtml)
+8. [主播说联播丨太空俯瞰台湾，一眼便是家的模样](https://news.sina.com.cn/c/2026-10-26/doc-iniwncyp6187410.shtml)
+9. [武契奇承认前进党在塞议会选举中败选](https://news.sina.com.cn/w/2026-10-26/doc-iniwnuwc9392079.shtml)
+10. [双色球头奖7注682万分落6地 奖池余额10.56亿](https://sports.sina.com.cn/l/2026-10-25/doc-iniwncyr2952540.shtml)
+11. [面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事](https://news.sina.com.cn/c/2026-10-26/doc-iniwnuwf5851338.shtml)
 12. [十大机构看后市：A股底部可能已现，一波快速上涨机会可期](https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmpas3086007.shtml)
-13. [特朗普提到万斯和鲁比奥是2028年大选潜在竞争者。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqe2733257.shtml)
-14. [阿尔及利亚表决通过，将派遣军队保护尼日尔的石油设施。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqf9507083.shtml)
-15. [特朗普：与俄罗斯达成的石油协议是件非常好的事。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnkhh2814327.shtml)
-16. [保加利亚总统选举将于11月1日进行第二轮投票](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9286539.shtml)
-17. [西班牙官员称，一辆客运巴士在巴塞罗那东北部撞上一辆汽车后冲下山坡，造成至少80人受伤。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqe2728835.shtml)
-18. [[新浪彩票]足彩第26150期任九：纽卡建议舍弃](https://sports.sina.com.cn/l/2026-10-25/doc-iniwkwfc6723093.shtml)
-19. [高清大图！歼-15红蓝对抗训练最新画面](https://news.sina.com.cn/c/2026-10-26/doc-iniwnqqf9497558.shtml)
-20. [特朗普：与加拿大即将达成协议。](https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnqqe2729461.shtml)
+13. [中缅原油管道累计输量突破1亿吨](https://news.sina.com.cn/c/2026-10-26/doc-iniwnzec5740602.shtml)
+14. [巴西总统选举进行第二轮投票](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9674414.shtml)
+15. [时政微观察丨三个维度读懂全面从严治党](https://news.sina.com.cn/xw/2026-10-25/doc-iniwmxst3035304.shtml)
+16. [特朗普称伊朗问题临近决断时刻 要么达成协议要么彻底解决](https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwnkhm6067433.shtml)
+17. [23岁女生拒绝学长表白3年后，私密照被发到境外色情软件！另有多名女性中招](https://news.sina.com.cn/s/2026-10-25/doc-iniwmanz6640394.shtml)
+18. [广西马山县通报“水柜漂浮多只猴子”](https://news.sina.com.cn/c/2026-10-25/doc-iniwmtkt6367577.shtml)
+19. [男子击毙美校园枪手：后悔没早赶到，还是有人死了](https://news.sina.com.cn/w/2026-10-25/doc-iniwmtkr9804826.shtml)
+20. [观点：美国民主党中期选举版图扩大 共和党“红墙”告急](https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwnqqm2751572.shtml)
 
 ## 财经热榜
 

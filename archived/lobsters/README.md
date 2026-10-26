@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-26 08:33:47
+> 更新时间：2026-10-26 09:29:08
 
 ## Hottest
 
@@ -8,8 +8,8 @@
 2. [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 3. [Vim Classic](https://vim-classic.org/)
 4. [Partial Order Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
-5. [The Goose Programming Language](https://aardappel.github.io/goose/)
-6. [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
+5. [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
+6. [The Goose Programming Language](https://aardappel.github.io/goose/)
 7. [Building Java ME Apps with Modern Tooling](https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/)
 8. [A vision for a next-generation timeline](https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline)
 9. [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
@@ -19,13 +19,13 @@
 13. [Two musings on the design of compiler warnings (2020)](https://quuxplusone.github.io/blog/2020/09/02/wparentheses/)
 14. [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 15. [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
-16. [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
-17. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
-18. [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
-19. [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
-20. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
-21. [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
-22. [Be Aware of What's in Your Logs](https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/)
+16. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
+17. [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
+18. [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
+19. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+20. [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
+21. [Be Aware of What's in Your Logs](https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/)
+22. [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 23. [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
 24. [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 25. [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
