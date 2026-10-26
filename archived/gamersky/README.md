@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-26 23:01:43
+> 更新时间：2026-10-26 23:52:23
 
 ## 热点资讯排行
 
@@ -10,11 +10,11 @@
 4. [《影之刃零》获6分低分！玩家翻旧账：悟空也这样](https://www.gamersky.com/news/202610/2234667.shtml)
 5. [《影之刃零》10月27日开启PC端预下载 游戏本体约145G](https://www.gamersky.com/news/202610/2234640.shtml)
 6. [苹果Duo玩《王者》无法全屏 大黑边被吐槽广告位招租](https://www.gamersky.com/news/202610/2234445.shtml)
-7. [《GTA6》疑似女主演员直播被刷屏 避谈身份绷不住了](https://www.gamersky.com/news/202610/2234449.shtml)
-8. [《影之刃零》日媒9分！未来数年难被超越 汉字读不懂](https://www.gamersky.com/news/202610/2234692.shtml)
+7. [《影之刃零》日媒9分！未来数年难被超越 汉字读不懂](https://www.gamersky.com/news/202610/2234692.shtml)
+8. [《GTA6》疑似女主演员直播被刷屏 避谈身份绷不住了](https://www.gamersky.com/news/202610/2234449.shtml)
 9. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
-10. [买不到的5090都在这！曝中国工厂大批拆卡改装专供AI](https://www.gamersky.com/hardware/202610/2234471.shtml)
-11. [PS5版《影之刃零》获9分：除了故事 什么都好](https://www.gamersky.com/news/202610/2234777.shtml)
+10. [PS5版《影之刃零》获9分：除了故事 什么都好](https://www.gamersky.com/news/202610/2234777.shtml)
+11. [买不到的5090都在这！曝中国工厂大批拆卡改装专供AI](https://www.gamersky.com/hardware/202610/2234471.shtml)
 12. [《影之刃零》OC站开分91！TGA年度大奖提名预定](https://www.gamersky.com/news/202610/2234659.shtml)
 13. [85寸大电视跌破3000元!高端电视崩盘：等等党赢麻了?](https://www.gamersky.com/news/202610/2234501.shtml)
 14. [女巨人新作《Giantess Metropolis》公布](https://www.gamersky.com/news/202610/2234500.shtml)

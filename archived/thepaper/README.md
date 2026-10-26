@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-26 23:01:32
+> 更新时间：2026-10-26 23:51:49
 
 ## 热新闻
 
@@ -15,12 +15,12 @@
 9. [金正恩上周访问丹东，访问是应邀还是朝方提出？外交部介绍相关情况](https://www.thepaper.cn/newsDetail_forward_34333708)
 10. [广汽埃安陷“香蕉电池”风波：客服称在走召回流程，三名车主投诉遭“只修不换”后获回应](https://www.thepaper.cn/newsDetail_forward_34334623)
 11. [媒体：电子屏“示众”欠费业主，物业催费何必走偏门](https://www.thepaper.cn/newsDetail_forward_34331088)
-12. [向校门口的二手烟说“不”，上海开展托幼机构、中小学控烟专项巡查](https://www.thepaper.cn/newsDetail_forward_34332141)
-13. [特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”](https://www.thepaper.cn/newsDetail_forward_34332295)
-14. [湖南多地回应“增开普速列车”呼声：客源规模相对有限](https://www.thepaper.cn/newsDetail_forward_34333634)
-15. [中朝举行志愿军烈士陵园修缮工程竣工仪式](https://www.thepaper.cn/newsDetail_forward_34330469)
+12. [言短意长｜一句“依靠成都”，官方和民间解读为何落差这么大](https://www.thepaper.cn/newsDetail_forward_34335699)
+13. [向校门口的二手烟说“不”，上海开展托幼机构、中小学控烟专项巡查](https://www.thepaper.cn/newsDetail_forward_34332141)
+14. [特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”](https://www.thepaper.cn/newsDetail_forward_34332295)
+15. [湖南多地回应“增开普速列车”呼声：客源规模相对有限](https://www.thepaper.cn/newsDetail_forward_34333634)
 16. [达古冰川“盖被子”6年：局部“长高”10厘米，一场为冰川争取时间的试验](https://www.thepaper.cn/newsDetail_forward_34320772)
 17. [“中日之间‘温故知新’还不够，也需要创新”：悼念福田康夫](https://www.thepaper.cn/newsDetail_forward_34333308)
-18. [【社论】长三角经济何以跑出“加速度”](https://www.thepaper.cn/newsDetail_forward_34334688)
-19. [又有超580亿元资金涌入股票型ETF，沪深300、创业板ETF最吸金](https://www.thepaper.cn/newsDetail_forward_34332008)
-20. [二十届中央第八轮巡视完成进驻](https://www.thepaper.cn/newsDetail_forward_34335184)
+18. [二十届中央第八轮巡视完成进驻](https://www.thepaper.cn/newsDetail_forward_34335184)
+19. [【社论】长三角经济何以跑出“加速度”](https://www.thepaper.cn/newsDetail_forward_34334688)
+20. [又有超580亿元资金涌入股票型ETF，沪深300、创业板ETF最吸金](https://www.thepaper.cn/newsDetail_forward_34332008)

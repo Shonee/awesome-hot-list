@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-26 23:01:33
+> 更新时间：2026-10-26 23:51:49
 
 ## 热点榜
 
@@ -18,9 +18,9 @@
 12. [宇树科技，提示风险](https://view.inews.qq.com/a/20261026A0CFWO00)
 13. [苹果客服：很多客户取消了iPhone Duo订单](https://view.inews.qq.com/a/20261026A0C4FG00)
 14. [“南北”奥迪正式分家：四环归一汽，AUDI归上汽](https://view.inews.qq.com/a/20261026A0AON300)
-15. [“中国，至关重要”](https://view.inews.qq.com/a/20261026A0563Q00)
-16. [高压电池存起火风险，大众汽车全球召回7.27万辆电动车](https://view.inews.qq.com/a/20261026A0BAFK00)
-17. [345万人通过2027年国家公务员考试资格审查](https://view.inews.qq.com/a/20261026A0CSF300)
-18. [医保钱包可为老家父母缴费了，网友催更跨省“一键代缴”](https://view.inews.qq.com/a/20261026A0DBV500)
+15. [医保钱包可为老家父母缴费了，网友催更跨省“一键代缴”](https://view.inews.qq.com/a/20261026A0DBV500)
+16. [动真格了！ 四秒多的超越  李冰洁成功抢回失去11天的亚洲纪录](https://view.inews.qq.com/a/20261026A0DRZR00)
+17. [“中国，至关重要”](https://view.inews.qq.com/a/20261026A0563Q00)
+18. [实探华强北：高端显卡涨价疯狂，有商家称一周涨了上千元](https://view.inews.qq.com/a/20261026A0BAG100)
 19. [凤凰国际财闻汇 | 美国养老金储备2032年耗尽，全球养老体系面临大考](https://view.inews.qq.com/a/20261026A0564L00)
 20. [武大靖执教“首秀”收获一铜，年轻队员还需大赛磨炼](https://view.inews.qq.com/a/20261026A09B5800)

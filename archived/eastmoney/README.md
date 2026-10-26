@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-26 23:01:55
+> 更新时间：2026-10-26 23:52:31
 
 ## 股票人气榜
 
@@ -14,13 +14,13 @@
 8. [埃斯顿 (002747)](https://quote.eastmoney.com/sz002747.html)
 9. [上纬新材 (688585)](https://quote.eastmoney.com/sh688585.html)
 10. [上海九百 (600838)](https://quote.eastmoney.com/sh600838.html)
-11. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
-12. [模塑科技 (000700)](https://quote.eastmoney.com/sz000700.html)
-13. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
-14. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
-15. [福莱新材 (605488)](https://quote.eastmoney.com/sh605488.html)
-16. [大西洋 (600558)](https://quote.eastmoney.com/sh600558.html)
-17. [海量数据 (603138)](https://quote.eastmoney.com/sh603138.html)
-18. [锋龙股份 (002931)](https://quote.eastmoney.com/sz002931.html)
-19. [凡拓数创 (301313)](https://quote.eastmoney.com/sz301313.html)
-20. [创维数字 (000810)](https://quote.eastmoney.com/sz000810.html)
+11. [模塑科技 (000700)](https://quote.eastmoney.com/sz000700.html)
+12. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
+13. [福莱新材 (605488)](https://quote.eastmoney.com/sh605488.html)
+14. [大西洋 (600558)](https://quote.eastmoney.com/sh600558.html)
+15. [德明利 (001309)](https://quote.eastmoney.com/sz001309.html)
+16. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
+17. [锋龙股份 (002931)](https://quote.eastmoney.com/sz002931.html)
+18. [创维数字 (000810)](https://quote.eastmoney.com/sz000810.html)
+19. [海量数据 (603138)](https://quote.eastmoney.com/sh603138.html)
+20. [东方海洋 (002086)](https://quote.eastmoney.com/sz002086.html)

@@ -1,12 +1,12 @@
 # 博客园热榜
 
-> 更新时间：2026-10-26 23:01:15
+> 更新时间：2026-10-26 23:51:39
 
 ## 最新帖子
 
-1. [关于我在驱动orangepi-r1-plus-lts的i2c0接口时遇到的问题](https://www.cnblogs.com/lelecha/p/23446685)
-2. [角色拆部件与素材生产路线调研](https://www.cnblogs.com/fs7744/p/23446349)
-3. [gin框架设置/获取cookie和多个二级域名共享cookie](https://www.cnblogs.com/ishoulgodo/p/23445309)
+1. [Qwen-Image2.1游戏素材工坊：把整套素材拼成"模拟游戏画面"逐张体检  （二）](https://www.cnblogs.com/wyang/p/23446801)
+2. [关于我在驱动orangepi-r1-plus-lts的i2c0接口时遇到的问题](https://www.cnblogs.com/lelecha/p/23446685)
+3. [角色拆部件与素材生产路线调研](https://www.cnblogs.com/fs7744/p/23446349)
 4. [AI 时代的 “房谋杜断”：如何培养能力、品味与判断力](https://www.cnblogs.com/rossiXYZ/p/23215893)
 5. [技术思考问题43：Kimi K3.1未开权重，敢上吗？](https://www.cnblogs.com/snidget/p/23445431)
 6. [最近公共祖先LCA，详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23444874)
@@ -52,7 +52,7 @@
 
 1. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
 2. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
-3. [70后 90后 00后技术人，邀你一起重新出发](https://www.cnblogs.com/cmt/p/23427349)
-4. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
-5. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
-6. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
+3. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
+4. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
+5. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
+6. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
