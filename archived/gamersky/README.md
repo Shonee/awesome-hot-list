@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-26 18:15:49
+> 更新时间：2026-10-26 19:12:37
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [85寸大电视跌破3000元!高端电视崩盘：等等党赢麻了?](https://www.gamersky.com/news/202610/2234501.shtml)
 10. [《影之刃零》OC站开分91！TGA年度大奖提名预定](https://www.gamersky.com/news/202610/2234659.shtml)
 11. [女巨人新作《Giantess Metropolis》公布](https://www.gamersky.com/news/202610/2234500.shtml)
-12. [《影之刃零》M站开分88！](https://www.gamersky.com/news/202610/2234657.shtml)
-13. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
-14. [曝PS5大量3A画质模式能60帧！被索尼强制锁定30帧](https://www.gamersky.com/news/202610/2234460.shtml)
-15. [《影之刃零》日媒9分！未来数年难被超越 汉字读不懂](https://www.gamersky.com/news/202610/2234692.shtml)
+12. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+13. [《影之刃零》M站开分88！](https://www.gamersky.com/news/202610/2234657.shtml)
+14. [《影之刃零》日媒9分！未来数年难被超越 汉字读不懂](https://www.gamersky.com/news/202610/2234692.shtml)
+15. [曝PS5大量3A画质模式能60帧！被索尼强制锁定30帧](https://www.gamersky.com/news/202610/2234460.shtml)
