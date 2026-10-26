@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-27 02:52:49
+> 更新时间：2026-10-27 03:41:01
 
 ## 热新闻
 
@@ -11,16 +11,16 @@
 5. [马上评｜“娱乐至死”的医疗真人秀，该叫停了](https://www.thepaper.cn/newsDetail_forward_34330398)
 6. [曾经顶流｜马景涛：回望顶流岁月，“纯粹年代”真的谢幕了吗？](https://www.thepaper.cn/newsDetail_forward_34308460)
 7. [马上评｜县委书记被张雪“扔下水”，舆论场为何一片叫好](https://www.thepaper.cn/newsDetail_forward_34333768)
-8. [面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事](https://www.thepaper.cn/newsDetail_forward_34331230)
-9. [马上评｜治理摆拍，平台怎能既当运动员又当裁判员](https://www.thepaper.cn/newsDetail_forward_34332747)
-10. [众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处](https://www.thepaper.cn/newsDetail_forward_34335625)
+8. [众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处](https://www.thepaper.cn/newsDetail_forward_34335625)
+9. [面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事](https://www.thepaper.cn/newsDetail_forward_34331230)
+10. [马上评｜治理摆拍，平台怎能既当运动员又当裁判员](https://www.thepaper.cn/newsDetail_forward_34332747)
 11. [金正恩上周访问丹东，访问是应邀还是朝方提出？外交部介绍相关情况](https://www.thepaper.cn/newsDetail_forward_34333708)
-12. [媒体：电子屏“示众”欠费业主，物业催费何必走偏门](https://www.thepaper.cn/newsDetail_forward_34331088)
-13. [言短意长｜一句“依靠成都”，官方和民间解读为何落差这么大](https://www.thepaper.cn/newsDetail_forward_34335699)
-14. [向校门口的二手烟说“不”，上海开展托幼机构、中小学控烟专项巡查](https://www.thepaper.cn/newsDetail_forward_34332141)
-15. [特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”](https://www.thepaper.cn/newsDetail_forward_34332295)
-16. [湖南多地回应“增开普速列车”呼声：客源规模相对有限](https://www.thepaper.cn/newsDetail_forward_34333634)
-17. [达古冰川“盖被子”6年：局部“长高”10厘米，一场为冰川争取时间的试验](https://www.thepaper.cn/newsDetail_forward_34320772)
-18. [二十届中央第八轮巡视完成进驻](https://www.thepaper.cn/newsDetail_forward_34335184)
-19. [iPhone Duo黄牛行情“高开低走”，上市四日溢价空间已缩至数百元](https://www.thepaper.cn/newsDetail_forward_34334565)
-20. [【社论】长三角经济何以跑出“加速度”](https://www.thepaper.cn/newsDetail_forward_34334688)
+12. [言短意长｜一句“依靠成都”，官方和民间解读为何落差这么大](https://www.thepaper.cn/newsDetail_forward_34335699)
+13. [向校门口的二手烟说“不”，上海开展托幼机构、中小学控烟专项巡查](https://www.thepaper.cn/newsDetail_forward_34332141)
+14. [特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”](https://www.thepaper.cn/newsDetail_forward_34332295)
+15. [湖南多地回应“增开普速列车”呼声：客源规模相对有限](https://www.thepaper.cn/newsDetail_forward_34333634)
+16. [达古冰川“盖被子”6年：局部“长高”10厘米，一场为冰川争取时间的试验](https://www.thepaper.cn/newsDetail_forward_34320772)
+17. [二十届中央第八轮巡视完成进驻](https://www.thepaper.cn/newsDetail_forward_34335184)
+18. [iPhone Duo黄牛行情“高开低走”，上市四日溢价空间已缩至数百元](https://www.thepaper.cn/newsDetail_forward_34334565)
+19. [【社论】长三角经济何以跑出“加速度”](https://www.thepaper.cn/newsDetail_forward_34334688)
+20. [新华社社评：以永远在路上的坚韧和执着推进全面从严治党](https://www.thepaper.cn/newsDetail_forward_34335857)
