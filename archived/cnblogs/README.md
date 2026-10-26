@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-26 13:43:32
+> 更新时间：2026-10-26 14:27:10
 
 ## 最新帖子
 
-1. [别再靠"最终版-改"活下去了：一篇讲透 Git 与 GitHub](https://www.cnblogs.com/codigger/p/23439612)
-2. [上周热点回顾（10.19-10.25）](https://www.cnblogs.com/cmt/p/23439339)
-3. [[随笔] 关于我在机房电脑（带有还原卡）安装Arch Linux一事](https://www.cnblogs.com/SilverGo/p/23439188)
-4. [为什么AI做的汇报PPT像地摊货？3步搭出老板认可的架构汇报](https://www.cnblogs.com/uniqueDong/p/23439090)
-5. [当 Agent 接手更多工作，我们还能把好关吗？](https://www.cnblogs.com/Qiniu-developer/p/23438998)
-6. [Android Native 库发布前检查：导出符号、敏感字符串与运行时保护](https://www.cnblogs.com/bytehidden/p/23438861)
-7. [27寸屏左移后，这个小工具救了我无数次](https://www.cnblogs.com/MrHuo/p/23438671)
-8. [shiro反序列化](https://www.cnblogs.com/nihao-xing/p/23433100)
-9. [使用 Python 修改 PDF 页面尺寸：标准纸张与自定义尺寸](https://www.cnblogs.com/jazz-z/p/23438442)
-10. [代理网络环境下 Linux Pro 在线激活实操指南](https://www.cnblogs.com/feishixin123/p/23438407)
-11. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
-12. [一只按键不只“按下”：短按、长按和连按如何共存](https://www.cnblogs.com/zw-awa/p/23437718)
-13. [GitHub Actions 详解](https://www.cnblogs.com/zjdxr-up/p/23323258)
-14. [基于规则推导的账号密码管理方案：原理、边界与实践](https://www.cnblogs.com/exioran/p/23436114)
-15. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
-16. [高可用之路-观测篇-那些年遇到过的指标幻觉](https://www.cnblogs.com/alchemystar/p/23432965)
-17. [谈谈怎样做好游戏发行中台](https://www.cnblogs.com/VVStudy/p/23426886)
-18. [2026年AI安全测试工具大全，14款大模型与Agent安全工具一次配齐](https://www.cnblogs.com/jinjiangongzuoshi/p/23435565)
-19. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
-20. [语音降噪模型GTCRN学习笔记(二)](https://www.cnblogs.com/talkaudiodev/p/23430817)
+1. [集合与索引类异常【C# Exception 详解系列（三）】](https://www.cnblogs.com/hnzhengfy/p/23369038/Exception_d3)
+2. [别再靠"最终版-改"活下去了：一篇讲透 Git 与 GitHub](https://www.cnblogs.com/codigger/p/23439612)
+3. [上周热点回顾（10.19-10.25）](https://www.cnblogs.com/cmt/p/23439339)
+4. [[随笔] 关于我在机房电脑（带有还原卡）安装Arch Linux一事](https://www.cnblogs.com/SilverGo/p/23439188)
+5. [为什么AI做的汇报PPT像地摊货？3步搭出老板认可的架构汇报](https://www.cnblogs.com/uniqueDong/p/23439090)
+6. [当 Agent 接手更多工作，我们还能把好关吗？](https://www.cnblogs.com/Qiniu-developer/p/23438998)
+7. [Android Native 库发布前检查：导出符号、敏感字符串与运行时保护](https://www.cnblogs.com/bytehidden/p/23438861)
+8. [27寸屏左移后，这个小工具救了我无数次](https://www.cnblogs.com/MrHuo/p/23438671)
+9. [shiro反序列化](https://www.cnblogs.com/nihao-xing/p/23433100)
+10. [使用 Python 修改 PDF 页面尺寸：标准纸张与自定义尺寸](https://www.cnblogs.com/jazz-z/p/23438442)
+11. [代理网络环境下 Linux Pro 在线激活实操指南](https://www.cnblogs.com/feishixin123/p/23438407)
+12. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
+13. [一只按键不只“按下”：短按、长按和连按如何共存](https://www.cnblogs.com/zw-awa/p/23437718)
+14. [GitHub Actions 详解](https://www.cnblogs.com/zjdxr-up/p/23323258)
+15. [基于规则推导的账号密码管理方案：原理、边界与实践](https://www.cnblogs.com/exioran/p/23436114)
+16. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
+17. [高可用之路-观测篇-那些年遇到过的指标幻觉](https://www.cnblogs.com/alchemystar/p/23432965)
+18. [谈谈怎样做好游戏发行中台](https://www.cnblogs.com/VVStudy/p/23426886)
+19. [2026年AI安全测试工具大全，14款大模型与Agent安全工具一次配齐](https://www.cnblogs.com/jinjiangongzuoshi/p/23435565)
+20. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
 
 ## 精华帖子
 

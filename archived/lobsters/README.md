@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-26 13:14:00
+> 更新时间：2026-10-26 14:28:04
 
 ## Hottest
 
@@ -20,12 +20,12 @@
 14. [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 15. [Two musings on the design of compiler warnings (2020)](https://quuxplusone.github.io/blog/2020/09/02/wparentheses/)
 16. [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
-17. [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
-18. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
-19. [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
-20. [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
-21. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
-22. [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
-23. [Be Aware of What's in Your Logs](https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/)
-24. [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
-25. [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
+17. [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
+18. [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
+19. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
+20. [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
+21. [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
+22. [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+23. [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
+24. [Be Aware of What's in Your Logs](https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/)
+25. [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)

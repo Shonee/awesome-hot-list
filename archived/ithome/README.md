@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-26 13:44:36
+> 更新时间：2026-10-26 14:27:27
 
 ## 日榜
 
@@ -13,6 +13,6 @@
 7. [《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映](https://www.ithome.com/1/017/693.htm)
 8. [华为鸿蒙 HarmonyOS 7.0.0.111 版本更多“隐藏”新特性盘点，深色模式随日出日落切换等功能下放](https://www.ithome.com/1/017/707.htm)
 9. [曝华为 Pura X View 销量破 60 万台：独享阔直屏、网友调侃出一台卖一台，已开启 60 天预约申购](https://www.ithome.com/1/017/736.htm)
-10. [铺路铺到苹果家：开发者成功令微软 Surface Duo 2 运行 iOS / iPadOS 26 系统](https://www.ithome.com/1/017/703.htm)
-11. [吉利全新帝豪向上系列车型上市：FlymeAuto2，限时感恩价 5.99 万元起](https://www.ithome.com/1/017/626.htm)
-12. [iFixit 拆解苹果 iPhone Duo：初步锁定折叠屏故障潜在诱因](https://www.ithome.com/1/017/724.htm)
+10. [iFixit 拆解苹果 iPhone Duo：初步锁定折叠屏故障潜在诱因](https://www.ithome.com/1/017/724.htm)
+11. [铺路铺到苹果家：开发者成功令微软 Surface Duo 2 运行 iOS / iPadOS 26 系统](https://www.ithome.com/1/017/703.htm)
+12. [吉利全新帝豪向上系列车型上市：FlymeAuto2，限时感恩价 5.99 万元起](https://www.ithome.com/1/017/626.htm)
