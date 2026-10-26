@@ -1,20 +1,20 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-27 02:19:09
+> 更新时间：2026-10-27 02:52:40
 
 ## 人气热门
 
-1. [宗谱管理系统 v7.0](https://www.52pojie.cn/thread-2133400-1-1.html)
-2. [开源PDF编辑器 KillerPDF v1.8.91](https://www.52pojie.cn/thread-2133659-1-1.html)
-3. [户外生存工具箱 Trail Sense v8.2.0](https://www.52pojie.cn/thread-2133653-1-1.html)
-4. [准点（自制永久会员）v1.0](https://www.52pojie.cn/thread-2133803-1-1.html)
-5. [小白用AI做的小说阅读器-小白阅读2.0](https://www.52pojie.cn/thread-2133894-1-1.html)
-6. [电池状态 Battery Status 1.0.9 （罗技等外设的电量监控软件）](https://www.52pojie.cn/thread-2132845-1-1.html)
-7. [ios通话录音 提示音 移除工具](https://www.52pojie.cn/thread-2134044-1-1.html)
-8. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
-9. [好价监控工具 Hprice v1.1.0](https://www.52pojie.cn/thread-2133663-1-1.html)
-10. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
-11. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
+1. [ios通话录音 提示音 移除工具](https://www.52pojie.cn/thread-2134044-1-1.html)
+2. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
+3. [宗谱管理系统 v7.0](https://www.52pojie.cn/thread-2133400-1-1.html)
+4. [开源PDF编辑器 KillerPDF v1.8.91](https://www.52pojie.cn/thread-2133659-1-1.html)
+5. [户外生存工具箱 Trail Sense v8.2.0](https://www.52pojie.cn/thread-2133653-1-1.html)
+6. [准点（自制永久会员）v1.0](https://www.52pojie.cn/thread-2133803-1-1.html)
+7. [小白用AI做的小说阅读器-小白阅读2.0](https://www.52pojie.cn/thread-2133894-1-1.html)
+8. [电池状态 Battery Status 1.0.9 （罗技等外设的电量监控软件）](https://www.52pojie.cn/thread-2132845-1-1.html)
+9. [知涯学盒 v1.0](https://www.52pojie.cn/thread-2133741-1-1.html)
+10. [好价监控工具 Hprice v1.1.0](https://www.52pojie.cn/thread-2133663-1-1.html)
+11. [红果短剧7.3.9.32 谷歌应用商店精简版](https://www.52pojie.cn/thread-2132187-1-1.html)
 12. [中国香烟博物馆v1.0.0](https://www.52pojie.cn/thread-2134196-1-1.html)
 13. [PDF加盖骑缝章标注工具 PDFQFZ v1.33](https://www.52pojie.cn/thread-2134192-1-1.html)
 14. [网络检测工具箱1.1 [含源码]](https://www.52pojie.cn/thread-2134104-1-1.html)

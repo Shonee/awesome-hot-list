@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-27 02:18:58
+> 更新时间：2026-10-27 02:52:33
 
 ## 热门文章
 
@@ -28,12 +28,12 @@
 22. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
 23. [workbuddy和codebuddy免费送1000积分, 10秒钟搞定](https://juejin.cn/post/7700090632083767346)
 24. [Vue3 v-for：常用用法与开发高频坑点](https://juejin.cn/post/7699871906404614186)
-25. [一天一个开源项目（第246篇）：rec —— Recursive 自研的本地推理引擎，在 Mac 上跑 Flint 编码模型，称比 llama.cpp 快 1.4–2.6 倍](https://juejin.cn/post/7699823462953959450)
-26. [App 被苹果 4.3 拒绝怎么办？从官方条款到整改、沟通与申诉](https://juejin.cn/post/7699737011154829312)
-27. [10 MB 的桌面 AI 客户端：用仓颉 + 系统 WebView 替代 Electron](https://juejin.cn/post/7700165668347559963)
-28. [Embedding 替换怎么评测：把索引成本算进成功任务](https://juejin.cn/post/7699888899712876585)
-29. [闭包和 useState 是两个知识点？你可能只学了半条作用域链](https://juejin.cn/post/7699871906404712490)
-30. [1.4万亿没人接，OpenAI自己把价砍了1500亿](https://juejin.cn/post/7699871906380808233)
+25. [1.4万亿没人接，OpenAI自己把价砍了1500亿](https://juejin.cn/post/7699871906380808233)
+26. [一天一个开源项目（第246篇）：rec —— Recursive 自研的本地推理引擎，在 Mac 上跑 Flint 编码模型，称比 llama.cpp 快 1.4–2.6 倍](https://juejin.cn/post/7699823462953959450)
+27. [App 被苹果 4.3 拒绝怎么办？从官方条款到整改、沟通与申诉](https://juejin.cn/post/7699737011154829312)
+28. [10 MB 的桌面 AI 客户端：用仓颉 + 系统 WebView 替代 Electron](https://juejin.cn/post/7700165668347559963)
+29. [Embedding 替换怎么评测：把索引成本算进成功任务](https://juejin.cn/post/7699888899712876585)
+30. [闭包和 useState 是两个知识点？你可能只学了半条作用域链](https://juejin.cn/post/7699871906404712490)
 31. [前端开发中的 BEM 国际命名规范：让 CSS 不再"打架"](https://juejin.cn/post/7699738861140623414)
 32. [PHP2Shell 漏洞拆解：WordPress 与 nginx 为何中招](https://juejin.cn/post/7699033523931725850)
 33. [GitHub 日榜趋势速报 | 2026-10-26](https://juejin.cn/post/7700194552506466331)
