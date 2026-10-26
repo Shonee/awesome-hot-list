@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-26 21:41:51
+> 更新时间：2026-10-26 23:01:31
 
 ## 24 小时热榜
 
@@ -19,21 +19,21 @@
 13. [DeepSeek 旗下大模型单周调用量登顶全球大模型首位](https://readhub.cn/topic/8xX8yOnfKyR?tab=daily)
 14. [马斯克：预计新云厂商将迎来大规模整合与倒闭潮](https://readhub.cn/topic/8xX28w7aNTD?tab=daily)
 15. [苹果发布 iPhone Duo 支持文档，帮助用户排查铰链和屏幕问题](https://readhub.cn/topic/8xWFX0wwXTk?tab=daily)
-16. [国内首部获公映证 AI 全流程院线长片《三星堆：未来往事》票房破百万](https://readhub.cn/topic/8xWMJfFdeem?tab=daily)
-17. [网友定制索尼 A7C II 相机固件 解锁 FL2 / FL3 及富士理光风格色调](https://readhub.cn/topic/8xX3DbMjkk0?tab=daily)
+16. [网友定制索尼 A7C II 相机固件 解锁 FL2 / FL3 及富士理光风格色调](https://readhub.cn/topic/8xX3DbMjkk0?tab=daily)
+17. [国内首部获公映证 AI 全流程院线长片《三星堆：未来往事》票房破百万](https://readhub.cn/topic/8xWMJfFdeem?tab=daily)
 18. [马斯克旗下 Grok 发布 AI 版《奥德赛》前 7 分钟内容，被指缺乏艺术感染力](https://readhub.cn/topic/8xWtuNJSwgE?tab=daily)
 19. [具身智能企业南京无境动力欠薪停工，实控人失联](https://readhub.cn/topic/8xX5hS6t5Cp?tab=daily)
 20. [Eka Robotics 完成 1.5 亿美元 A 轮融资 投后估值 14.5 亿美元](https://readhub.cn/topic/8xVyjUKC6gD?tab=daily)
 21. [月之暗面发布 Kimi K3.1 Pro 全球最大开源模型推进 IPO](https://readhub.cn/topic/8xWFAuq1fMG?tab=daily)
-22. [停训 11 天后重启，OpenAI 最强模型断网开练](https://readhub.cn/topic/8xWvKeKj4Bq?tab=daily)
-23. [Linux 基金会发布报告：AI 写代码快 52% 四分之一 PR 为 AI 垃圾](https://readhub.cn/topic/8xVRrTvQ0xF?tab=daily)
-24. [腾讯绿泡泡短剧小程序月活过亿 10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
-25. [蓝色光标：前三季度净利润同比增长 56.86%](https://readhub.cn/topic/8xXTzdLriM7?tab=daily)
+22. [Linux 基金会发布报告：AI 写代码快 52% 四分之一 PR 为 AI 垃圾](https://readhub.cn/topic/8xVRrTvQ0xF?tab=daily)
+23. [腾讯绿泡泡短剧小程序月活过亿 10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
+24. [蓝色光标：前三季度净利润同比增长 56.86%](https://readhub.cn/topic/8xXTzdLriM7?tab=daily)
+25. [停训 11 天后重启，OpenAI 最强模型断网开练](https://readhub.cn/topic/8xWvKeKj4Bq?tab=daily)
 26. [英伟达调整 Rubin GPU 规格 下调 HBM 与 NVLink 带宽提升网络带宽](https://readhub.cn/topic/8xXB4BErtgD?tab=daily)
 27. [iPhone Duo 开售即现大面积裂屏 苹果售后提供换新](https://readhub.cn/topic/8xX0LtAyssP?tab=daily)
 28. [字节跳动 TikTok 电商欧洲负责人陈熙即将离职 后续业务由宋琪负责](https://readhub.cn/topic/8xXEzhNjGTk?tab=daily)
-29. [尊界汽车刹车风波后官微复更 首发内容聚焦 S800 典藏版车漆](https://readhub.cn/topic/8xX8ZyQGP6a?tab=daily)
-30. [Mercury 3 速度最高超 GPT-6 Luna 约 8 倍 跑分实现反超](https://readhub.cn/topic/8xX4eKns4cl?tab=daily)
+29. [Anthropic 正式提交纳斯达克 IPO 申请](https://readhub.cn/topic/8xXqrTLIraI?tab=daily)
+30. [尊界汽车刹车风波后官微复更 首发内容聚焦 S800 典藏版车漆](https://readhub.cn/topic/8xX8ZyQGP6a?tab=daily)
 
 ## 每日早报
 
@@ -49,11 +49,11 @@
 
 1. [杨立昆披露 AMI Labs 商业化路线图：先发论文，再进入工业，最终瞄准机器人](https://www.mittrchina.com/news/detail/17148)
 2. [科学家造出 AI 嗅觉系统，可识别并远程释放香气](https://www.mittrchina.com/news/detail/17147)
-3. [大量数据中心恐烂尾，新兴 AI 云厂商面临大洗牌，马斯克发出警告](https://www.mittrchina.com/news/detail/17149)
-4. [即梦推出「短剧工作室」，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
-5. [三星电子宣布依托 AI 将新型半导体材料研发周期由 5 年缩短至 2 年](https://www.aibase.com/zh/news/31867)
-6. [中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美](https://www.aibase.com/zh/news/31870)
-7. [苹果发布新款 iPad mini：配备 8.5 英寸 OLED 屏，起售价 5499 元](https://news.10jqka.com.cn/20261026/c681104865.shtml)
-8. [大摩中国机器人调研：企业愿意尝试但严格算账，要求 10 万元以内，三年内回本](https://wallstreetcn.com/articles/3784489)
-9. [DeepSeek 开源看家算子的同一周，AI 超过了它](https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html)
-10. [Meta 预计 2026 年资本开支最高 1450 亿美元，计划通过股权融资等方式支持 AI 投资](https://www.36kr.com/newsflashes/4042606941312135)
+3. [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience)
+4. [大量数据中心恐烂尾，新兴 AI 云厂商面临大洗牌，马斯克发出警告](https://www.mittrchina.com/news/detail/17149)
+5. [即梦推出「短剧工作室」，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
+6. [三星电子宣布依托 AI 将新型半导体材料研发周期由 5 年缩短至 2 年](https://www.aibase.com/zh/news/31867)
+7. [Anthropic 交表，算力承诺超 5180 亿美元，预警收入增速无法持续](https://www.yicai.com/news/103410241.html)
+8. [中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美](https://www.aibase.com/zh/news/31870)
+9. [Meta 拟融资 950 亿美元砸向 AI，英伟达、AMD、博通有意认购至多 50 亿美元股票](https://m.thepaper.cn/newsDetail_forward_34335837)
+10. [腾讯混元同声传译大模型 Hy-SimulMT 开源](https://www.donews.com/news/detail/1/6754383.html)
