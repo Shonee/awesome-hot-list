@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-26 11:17:57
+> 更新时间：2026-10-26 12:15:51
 
 ## 新闻热榜
 
 1. [一觉醒来，武契奇输了](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzef2537660.shtml)
 2. [蔡康永发布声明](https://news.sina.com.cn/c/2026-10-25/doc-iniwncyk2900368.shtml)
-3. [洪秀柱最新发声](https://news.sina.com.cn/c/2026-10-25/doc-iniwnkhp2842030.shtml)
-4. [巴西总统卢拉赢得连任](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2550550.shtml)
-5. [卢拉成功连任，击败前总统博索纳罗之子，当选巴西新一任总统，专家：美国和巴西的相互反制与博弈或许还将继续下去](https://news.sina.com.cn/w/2026-10-26/doc-iniwpfnc2423382.shtml)
-6. [草原大火损失惨重，涉事公司避重就轻，蒙方怒了：有必要向日企索赔](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9287304.shtml)
+3. [卢拉成功连任，击败前总统博索纳罗之子，当选巴西新一任总统，专家：美国和巴西的相互反制与博弈或许还将继续下去](https://news.sina.com.cn/w/2026-10-26/doc-iniwpfnc2423382.shtml)
+4. [草原大火损失惨重，涉事公司避重就轻，蒙方怒了：有必要向日企索赔](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9287304.shtml)
+5. [洪秀柱最新发声](https://news.sina.com.cn/c/2026-10-25/doc-iniwnkhp2842030.shtml)
+6. [巴西总统卢拉赢得连任](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2550550.shtml)
 7. [美防长对孔子学院说三道四，专家：美方持续制造“寒蝉效应”，终将陷入认知孤立](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9287293.shtml)
-8. [财经早报丨特朗普称随时可能再打伊朗，机构：A股有望出现持续1个月上涨行情丨2026年10月26日](https://finance.sina.com.cn/stock/y/2026-10-26/doc-iniwnzcz9312668.shtml)
-9. [蒙古国考虑就草原火灾向涉事日企索赔](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9695106.shtml)
-10. [操盘必读：影响股市利好或利空消息_2026年10月26日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-26/doc-iniwnzcz9305013.shtml)
-11. [中缅原油管道累计输量突破1亿吨](https://news.sina.com.cn/c/2026-10-26/doc-iniwnzec5740602.shtml)
-12. [高清大图！歼-15红蓝对抗训练最新画面](https://news.sina.com.cn/c/2026-10-26/doc-iniwnqqf9497558.shtml)
-13. [凌晨，美国飞北京航班起飞后突然返航，机上有262人，航司回应](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9343684.shtml)
-14. [邹敬园成就体操世锦赛双杠五冠王](https://news.sina.com.cn/c/2026-10-26/doc-iniwnkhh2800500.shtml)
-15. [陈熠3-0战胜张本美和 夺得亚锦赛女单冠军](https://news.sina.com.cn/c/2026-10-25/doc-iniwmxsn2969934.shtml)
-16. [南京3000万豪宅跌至1000万，业主维权：开发商曾承诺隧道为业主私享专属通道，中秋深夜却改为市政公共道路](https://finance.sina.com.cn/wm/2026-10-26/doc-iniwnzcy2545006.shtml)
-17. [23岁女生拒绝学长表白3年后，私密照被发到境外色情软件！另有多名女性中招](https://news.sina.com.cn/s/2026-10-25/doc-iniwmanz6640394.shtml)
-18. [面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事](https://news.sina.com.cn/c/2026-10-26/doc-iniwnuwf5851338.shtml)
-19. [暴力冲突仍在发生，政府治理备受质疑，欧洲多国经历“第二个抗议周末”](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2512904.shtml)
-20. [视频丨党的二十届五中全会今起至29日在北京召开](https://news.sina.com.cn/c/2026-10-26/doc-iniwpfmx9251359.shtml)
+8. [视频丨党的二十届五中全会今起至29日在北京召开](https://news.sina.com.cn/c/2026-10-26/doc-iniwpfmx9251359.shtml)
+9. [凌晨，美国飞北京航班起飞后突然返航，机上有262人，航司回应](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9343684.shtml)
+10. [财经早报丨特朗普称随时可能再打伊朗，机构：A股有望出现持续1个月上涨行情丨2026年10月26日](https://finance.sina.com.cn/stock/y/2026-10-26/doc-iniwnzcz9312668.shtml)
+11. [暴力冲突仍在发生，政府治理备受质疑，欧洲多国经历“第二个抗议周末”](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2512904.shtml)
+12. [蒙古国考虑就草原火灾向涉事日企索赔](https://news.sina.com.cn/w/2026-10-25/doc-iniwncym9695106.shtml)
+13. [中缅原油管道累计输量突破1亿吨](https://news.sina.com.cn/c/2026-10-26/doc-iniwnzec5740602.shtml)
+14. [高清大图！歼-15红蓝对抗训练最新画面](https://news.sina.com.cn/c/2026-10-26/doc-iniwnqqf9497558.shtml)
+15. [天天学习｜总书记为何讲“四知拒金”的故事？](https://news.sina.com.cn/c/xl/2026-10-26/doc-iniwpfmw2448497.shtml)
+16. [操盘必读：影响股市利好或利空消息_2026年10月26日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-26/doc-iniwnzcz9305013.shtml)
+17. [陈熠3-0战胜张本美和 夺得亚锦赛女单冠军](https://news.sina.com.cn/c/2026-10-25/doc-iniwmxsn2969934.shtml)
+18. [邹敬园成就体操世锦赛双杠五冠王](https://news.sina.com.cn/c/2026-10-26/doc-iniwnkhh2800500.shtml)
+19. [皇马2-1终结巴萨9连胜 姆巴佩双响+绝杀拉菲尼亚破门亚马尔失单刀](https://news.sina.com.cn/zx/2026-10-26/doc-iniwnuwf5865589.shtml)
+20. [面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事](https://news.sina.com.cn/c/2026-10-26/doc-iniwnuwf5851338.shtml)
 
 ## 财经热榜
 
