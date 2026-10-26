@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-26 23:51:49
+> 更新时间：2026-10-27 00:44:33
 
 ## 热点榜
 
@@ -17,10 +17,10 @@
 11. [网传“热带气旋撞击喜马拉雅山脉”不实（2026·10·26）](https://www.piyao.org.cn/20261026/5b1c1321de79409b9785d36c1129eab2/c.html)
 12. [宇树科技，提示风险](https://view.inews.qq.com/a/20261026A0CFWO00)
 13. [苹果客服：很多客户取消了iPhone Duo订单](https://view.inews.qq.com/a/20261026A0C4FG00)
-14. [“南北”奥迪正式分家：四环归一汽，AUDI归上汽](https://view.inews.qq.com/a/20261026A0AON300)
-15. [医保钱包可为老家父母缴费了，网友催更跨省“一键代缴”](https://view.inews.qq.com/a/20261026A0DBV500)
-16. [动真格了！ 四秒多的超越  李冰洁成功抢回失去11天的亚洲纪录](https://view.inews.qq.com/a/20261026A0DRZR00)
-17. [“中国，至关重要”](https://view.inews.qq.com/a/20261026A0563Q00)
-18. [实探华强北：高端显卡涨价疯狂，有商家称一周涨了上千元](https://view.inews.qq.com/a/20261026A0BAG100)
-19. [凤凰国际财闻汇 | 美国养老金储备2032年耗尽，全球养老体系面临大考](https://view.inews.qq.com/a/20261026A0564L00)
-20. [武大靖执教“首秀”收获一铜，年轻队员还需大赛磨炼](https://view.inews.qq.com/a/20261026A09B5800)
+14. [凤凰国际财闻汇 | 美国养老金储备2032年耗尽，全球养老体系面临大考](https://view.inews.qq.com/a/20261026A0564L00)
+15. [波兰被曝出现F-16战机飞行员短缺问题，“现有47架F-16，飞行员只有约40人”](https://view.inews.qq.com/a/20261026A0DOS700)
+16. [实探华强北：高端显卡涨价疯狂，有商家称一周涨了上千元](https://view.inews.qq.com/a/20261026A0BAG100)
+17. [武大靖执教“首秀”收获一铜，年轻队员还需大赛磨炼](https://view.inews.qq.com/a/20261026A09B5800)
+18. [武契奇承认败选](https://view.inews.qq.com/a/20261026A02PI500)
+19. [iPhone Duo屏幕为何会开裂？拆解发现可能是这个原因](https://view.inews.qq.com/a/20261026A0303000)
+20. [国办发文定调！缓解AI就业替代，解法有哪些](https://view.inews.qq.com/a/20261026A0CTYT00)
