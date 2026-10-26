@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-27 04:13:08
+> 更新时间：2026-10-27 05:39:59
 
 ## 24 小时热榜
 
@@ -25,14 +25,14 @@
 19. [蓝色光标：前三季度净利润同比增长 56.86%](https://readhub.cn/topic/8xXTzdLriM7?tab=daily)
 20. [停训 11 天后重启，OpenAI 最强模型断网开练](https://readhub.cn/topic/8xWvKeKj4Bq?tab=daily)
 21. [腾讯绿泡泡短剧小程序月活过亿，10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
-22. [英伟达调整 Rubin GPU 规格 下调 HBM 与 NVLink 带宽提升网络带宽](https://readhub.cn/topic/8xXB4BErtgD?tab=daily)
-23. [iPhone Duo 开售即现大面积裂屏 苹果售后提供换新](https://readhub.cn/topic/8xX0LtAyssP?tab=daily)
-24. [字节跳动 TikTok 电商欧洲负责人陈熙即将离职 后续业务由宋琪负责](https://readhub.cn/topic/8xXEzhNjGTk?tab=daily)
-25. [Anthropic 正式提交纳斯达克 IPO 申请](https://readhub.cn/topic/8xXqrTLIraI?tab=daily)
+22. [字节跳动 TikTok 电商欧洲负责人陈熙即将离职 后续业务由宋琪负责](https://readhub.cn/topic/8xXEzhNjGTk?tab=daily)
+23. [英伟达调整 Rubin GPU 规格 下调 HBM 与 NVLink 带宽提升网络带宽](https://readhub.cn/topic/8xXB4BErtgD?tab=daily)
+24. [Anthropic 正式提交纳斯达克 IPO 申请](https://readhub.cn/topic/8xXqrTLIraI?tab=daily)
+25. [iPhone Duo 开售即现大面积裂屏 苹果售后提供换新](https://readhub.cn/topic/8xX0LtAyssP?tab=daily)
 26. [尊界汽车刹车风波后官微复更 首发内容聚焦 S800 典藏版车漆](https://readhub.cn/topic/8xX8ZyQGP6a?tab=daily)
 27. [央视曝光：AI 生成视频已可逃过人脸识别系统](https://readhub.cn/topic/8xX8zfVf9Bw?tab=daily)
-28. [Mercury 3 速度最高超 GPT-6 Luna 约 8 倍 跑分实现反超](https://readhub.cn/topic/8xX4eKns4cl?tab=daily)
-29. [圣邦股份拟 8.33 亿元收购申矽凌 58.2878% 股份](https://readhub.cn/topic/8xXiI9baSfj?tab=daily)
+28. [圣邦股份拟 8.33 亿元收购申矽凌 58.2878% 股份](https://readhub.cn/topic/8xXiI9baSfj?tab=daily)
+29. [Mercury 3 速度最高超 GPT-6 Luna 约 8 倍 跑分实现反超](https://readhub.cn/topic/8xX4eKns4cl?tab=daily)
 30. [苹果发布新款 iPad mini](https://readhub.cn/topic/8xXqrZ1HSsK?tab=daily)
 
 ## 每日早报
@@ -56,4 +56,4 @@
 7. [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
 8. [OpenAI 推出 GPT-6.1 Terra：电脑操作速度提升逾 3 倍，API 价格降低 50%](https://www.gelonghui.com/live/2730171)
 9. [How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation)
-10. [即梦推出「短剧工作室」，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
+10. [Tinybox 不再提供 Nvidia GPU 选项，新增 192GB 六 GPU AMD 配置并涨价 3000 美元](https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier)
