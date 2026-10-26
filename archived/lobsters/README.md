@@ -1,13 +1,13 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-26 14:28:04
+> 更新时间：2026-10-26 15:12:33
 
 ## Hottest
 
 1. [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 2. [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
-3. [Vim Classic](https://vim-classic.org/)
-4. [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
+3. [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
+4. [Vim Classic](https://vim-classic.org/)
 5. [Partial Order Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
 6. [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 7. [writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
@@ -16,11 +16,11 @@
 10. [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
 11. [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 12. [The Goose Programming Language](https://aardappel.github.io/goose/)
-13. [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
-14. [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
-15. [Two musings on the design of compiler warnings (2020)](https://quuxplusone.github.io/blog/2020/09/02/wparentheses/)
-16. [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
-17. [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
+13. [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
+14. [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
+15. [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
+16. [Two musings on the design of compiler warnings (2020)](https://quuxplusone.github.io/blog/2020/09/02/wparentheses/)
+17. [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
 18. [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 19. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 20. [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
