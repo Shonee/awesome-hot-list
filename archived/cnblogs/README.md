@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-26 17:21:32
+> 更新时间：2026-10-26 18:15:00
 
 ## 最新帖子
 
-1. [P4591 [TJOI2018] 碱基序列，详细题解](https://www.cnblogs.com/Emoji-happy/p/23442750)
-2. [Linux 大文件审计脚本：从“找到大文件”到“智能给出清理建议”](https://www.cnblogs.com/liuziyi1/p/23442505)
-3. [Codex Skill集成汇影AI ：语义素材检索到剪映草稿构建全自动完整流水线](https://www.cnblogs.com/hejunhong/p/23442399)
-4. [集合与索引类异常【C# Exception 详解系列（三）】](https://www.cnblogs.com/hnzhengfy/p/23369038/Exception_d3)
-5. [上周热点回顾（10.19-10.25）](https://www.cnblogs.com/cmt/p/23439339)
-6. [[随笔] 关于我在机房电脑（带有还原卡）安装Arch Linux一事](https://www.cnblogs.com/SilverGo/p/23439188)
-7. [为什么AI做的汇报PPT像地摊货？3步搭出老板认可的架构汇报](https://www.cnblogs.com/uniqueDong/p/23439090)
-8. [当 Agent 接手更多工作，我们还能把好关吗？](https://www.cnblogs.com/Qiniu-developer/p/23438998)
-9. [Android Native 库发布前检查：导出符号、敏感字符串与运行时保护](https://www.cnblogs.com/bytehidden/p/23438861)
-10. [27寸屏左移后，这个小工具救了我无数次](https://www.cnblogs.com/MrHuo/p/23438671)
-11. [shiro反序列化](https://www.cnblogs.com/nihao-xing/p/23433100)
-12. [使用 Python 修改 PDF 页面尺寸：标准纸张与自定义尺寸](https://www.cnblogs.com/jazz-z/p/23438442)
-13. [代理网络环境下 Linux Pro 在线激活实操指南](https://www.cnblogs.com/feishixin123/p/23438407)
-14. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
-15. [一只按键不只“按下”：短按、长按和连按如何共存](https://www.cnblogs.com/zw-awa/p/23437718)
-16. [GitHub Actions 详解](https://www.cnblogs.com/zjdxr-up/p/23323258)
-17. [基于规则推导的账号密码管理方案：原理、边界与实践](https://www.cnblogs.com/exioran/p/23436114)
-18. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
-19. [高可用之路-观测篇-那些年遇到过的指标幻觉](https://www.cnblogs.com/alchemystar/p/23432965)
-20. [谈谈怎样做好游戏发行中台](https://www.cnblogs.com/VVStudy/p/23426886)
+1. [Linux 大文件审计脚本：从“找到大文件”到“智能给出清理建议”](https://www.cnblogs.com/liuziyi1/p/23442505)
+2. [集合与索引类异常【C# Exception 详解系列（三）】](https://www.cnblogs.com/hnzhengfy/p/23369038/Exception_d3)
+3. [上周热点回顾（10.19-10.25）](https://www.cnblogs.com/cmt/p/23439339)
+4. [[随笔] 关于我在机房电脑（带有还原卡）安装Arch Linux一事](https://www.cnblogs.com/SilverGo/p/23439188)
+5. [为什么AI做的汇报PPT像地摊货？3步搭出老板认可的架构汇报](https://www.cnblogs.com/uniqueDong/p/23439090)
+6. [当 Agent 接手更多工作，我们还能把好关吗？](https://www.cnblogs.com/Qiniu-developer/p/23438998)
+7. [Android Native 库发布前检查：导出符号、敏感字符串与运行时保护](https://www.cnblogs.com/bytehidden/p/23438861)
+8. [27寸屏左移后，这个小工具救了我无数次](https://www.cnblogs.com/MrHuo/p/23438671)
+9. [shiro反序列化](https://www.cnblogs.com/nihao-xing/p/23433100)
+10. [使用 Python 修改 PDF 页面尺寸：标准纸张与自定义尺寸](https://www.cnblogs.com/jazz-z/p/23438442)
+11. [代理网络环境下 Linux Pro 在线激活实操指南](https://www.cnblogs.com/feishixin123/p/23438407)
+12. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
+13. [一只按键不只“按下”：短按、长按和连按如何共存](https://www.cnblogs.com/zw-awa/p/23437718)
+14. [GitHub Actions 详解](https://www.cnblogs.com/zjdxr-up/p/23323258)
+15. [基于规则推导的账号密码管理方案：原理、边界与实践](https://www.cnblogs.com/exioran/p/23436114)
+16. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
+17. [高可用之路-观测篇-那些年遇到过的指标幻觉](https://www.cnblogs.com/alchemystar/p/23432965)
+18. [谈谈怎样做好游戏发行中台](https://www.cnblogs.com/VVStudy/p/23426886)
+19. [2026年AI安全测试工具大全，14款大模型与Agent安全工具一次配齐](https://www.cnblogs.com/jinjiangongzuoshi/p/23435565)
+20. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
-2. [70后 90后 00后技术人，邀你一起重新出发](https://www.cnblogs.com/cmt/p/23427349)
-3. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
+2. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
+3. [70后 90后 00后技术人，邀你一起重新出发](https://www.cnblogs.com/cmt/p/23427349)
 4. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
 5. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
-6. [大杂烩：创建自己的个人数据工作台](https://www.cnblogs.com/aspnetx/p/23426638)
+6. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)

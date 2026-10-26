@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-26 17:21:45
+> 更新时间：2026-10-26 18:15:49
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [《影之刃零》OC站开分91！TGA年度大奖提名预定](https://www.gamersky.com/news/202610/2234659.shtml)
 11. [女巨人新作《Giantess Metropolis》公布](https://www.gamersky.com/news/202610/2234500.shtml)
 12. [《影之刃零》M站开分88！](https://www.gamersky.com/news/202610/2234657.shtml)
-13. [曝PS5大量3A画质模式能60帧！被索尼强制锁定30帧](https://www.gamersky.com/news/202610/2234460.shtml)
-14. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
-15. [《影之刃零》GS 8分！战斗惊艳 节奏行云流水](https://www.gamersky.com/news/202610/2234658.shtml)
+13. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+14. [曝PS5大量3A画质模式能60帧！被索尼强制锁定30帧](https://www.gamersky.com/news/202610/2234460.shtml)
+15. [《影之刃零》日媒9分！未来数年难被超越 汉字读不懂](https://www.gamersky.com/news/202610/2234692.shtml)

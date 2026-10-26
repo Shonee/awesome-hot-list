@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-26 17:21:38
+> 更新时间：2026-10-26 18:15:16
 
 ## 热新闻
 
@@ -11,12 +11,12 @@
 5. [卢拉成功连任，当选巴西新一任总统](https://www.thepaper.cn/newsDetail_forward_34331765)
 6. [曾经顶流｜马景涛：回望顶流岁月，“纯粹年代”真的谢幕了吗？](https://www.thepaper.cn/newsDetail_forward_34308460)
 7. [马上评｜“娱乐至死”的医疗真人秀，该叫停了](https://www.thepaper.cn/newsDetail_forward_34330398)
-8. [媒体：把自身罪行安到中国人头上，日本“神剧”为谁招魂](https://www.thepaper.cn/newsDetail_forward_34329226)
-9. [面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事](https://www.thepaper.cn/newsDetail_forward_34331230)
-10. [马上评｜治理摆拍，平台怎能既当运动员又当裁判员](https://www.thepaper.cn/newsDetail_forward_34332747)
-11. [媒体：电子屏“示众”欠费业主，物业催费何必走偏门](https://www.thepaper.cn/newsDetail_forward_34331088)
-12. [马上评｜一条匿名差评，胖哥俩咋追踪到人的？](https://www.thepaper.cn/newsDetail_forward_34330207)
-13. [金正恩上周访问丹东，访问是应邀还是朝方提出？外交部介绍相关情况](https://www.thepaper.cn/newsDetail_forward_34333708)
+8. [面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事](https://www.thepaper.cn/newsDetail_forward_34331230)
+9. [马上评｜治理摆拍，平台怎能既当运动员又当裁判员](https://www.thepaper.cn/newsDetail_forward_34332747)
+10. [金正恩上周访问丹东，访问是应邀还是朝方提出？外交部介绍相关情况](https://www.thepaper.cn/newsDetail_forward_34333708)
+11. [马上评｜县委书记被张雪“扔下水”，舆论场为何一片叫好](https://www.thepaper.cn/newsDetail_forward_34333768)
+12. [媒体：电子屏“示众”欠费业主，物业催费何必走偏门](https://www.thepaper.cn/newsDetail_forward_34331088)
+13. [马上评｜一条匿名差评，胖哥俩咋追踪到人的？](https://www.thepaper.cn/newsDetail_forward_34330207)
 14. [向校门口的二手烟说“不”，上海开展托幼机构、中小学控烟专项巡查](https://www.thepaper.cn/newsDetail_forward_34332141)
 15. [特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”](https://www.thepaper.cn/newsDetail_forward_34332295)
 16. [二十届中央第七轮巡视完成反馈](https://www.thepaper.cn/newsDetail_forward_34329709)
