@@ -1,17 +1,17 @@
 # 新浪热榜
 
-> 更新时间：2026-10-26 19:12:34
+> 更新时间：2026-10-26 19:43:51
 
 ## 新闻热榜
 
 1. [一觉醒来，武契奇输了](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzef2537660.shtml)
 2. [草原大火损失惨重，涉事公司避重就轻，蒙方怒了：有必要向日企索赔](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9287304.shtml)
 3. [卢拉成功连任，击败前总统博索纳罗之子，当选巴西新一任总统，专家：美国和巴西的相互反制与博弈或许还将继续下去](https://news.sina.com.cn/w/2026-10-26/doc-iniwpfnc2423382.shtml)
-4. [蔡康永发布声明](https://news.sina.com.cn/c/2026-10-25/doc-iniwncyk2900368.shtml)
-5. [俄方：“感谢中国政府和人民”](https://news.sina.com.cn/zx/2026-10-26/doc-iniwpmtx5583838.shtml)
+4. [俄方：“感谢中国政府和人民”](https://news.sina.com.cn/zx/2026-10-26/doc-iniwpmtx5583838.shtml)
+5. [蔡康永发布声明](https://news.sina.com.cn/c/2026-10-25/doc-iniwncyk2900368.shtml)
 6. [洪秀柱最新发声](https://news.sina.com.cn/c/2026-10-25/doc-iniwnkhp2842030.shtml)
-7. [博索纳罗拒绝承认败选，要求宣布选举无效，曾公开表示，如自己当选，将推动巴西成为美国“亲密盟友”](https://news.sina.com.cn/w/2026-10-26/doc-iniwpfmx9355150.shtml)
-8. [中国共产党第二十届中央委员会第五次全体会议在北京开始举行](https://news.sina.com.cn/c/xl/2026-10-26/doc-iniwpmtx5602418.shtml)
+7. [中国共产党第二十届中央委员会第五次全体会议在北京开始举行](https://news.sina.com.cn/c/xl/2026-10-26/doc-iniwpmtx5602418.shtml)
+8. [博索纳罗拒绝承认败选，要求宣布选举无效，曾公开表示，如自己当选，将推动巴西成为美国“亲密盟友”](https://news.sina.com.cn/w/2026-10-26/doc-iniwpfmx9355150.shtml)
 9. [“大衣哥”朱之文长期遭黑粉举报，十几场演出取消，已回家种地：宁愿站着死，不要躺着亡，大不了不挣钱，但得争口气，这次绝对不会放过你](https://news.sina.com.cn/c/2026-10-26/doc-iniwpfnc2469304.shtml)
 10. [美防长对孔子学院说三道四，专家：美方持续制造“寒蝉效应”，终将陷入认知孤立](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcz9287293.shtml)
 11. [长鑫存储硬气拒绝苹果：中国本土的订单都接不完，不伺候 此前苹果曾希望拿到比美光、三星、SK海力士更便宜的价格](https://news.sina.com.cn/c/2026-10-26/doc-iniwpmtx5607665.shtml)
@@ -21,8 +21,8 @@
 15. [巴西总统卢拉赢得连任](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2550550.shtml)
 16. [暴力冲突仍在发生，政府治理备受质疑，欧洲多国经历“第二个抗议周末”](https://news.sina.com.cn/w/2026-10-26/doc-iniwnzcy2512904.shtml)
 17. [盘点比熬夜更可怕的坏习惯 网友：我全中了](https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpmtu2519804.shtml)
-18. [财经早报丨特朗普称随时可能再打伊朗，机构：A股有望出现持续1个月上涨行情丨2026年10月26日](https://finance.sina.com.cn/stock/y/2026-10-26/doc-iniwnzcz9312668.shtml)
-19. [日本前首相福田康夫去世，享年90岁，曾亲历中日和平友好条约批准书互换仪式，长期致力于中日友好事业，赞成与中国发展长期稳定的良性关系](https://news.sina.com.cn/w/2026-10-26/doc-iniwprzt9211924.shtml)
+18. [樊振东观赛西班牙国家德比被盘查：因穿皇马球衣被拒绝入场，后被投诉是“卧底”](https://news.sina.com.cn/c/2026-10-26/doc-iniwprzt9302590.shtml)
+19. [财经早报丨特朗普称随时可能再打伊朗，机构：A股有望出现持续1个月上涨行情丨2026年10月26日](https://finance.sina.com.cn/stock/y/2026-10-26/doc-iniwnzcz9312668.shtml)
 20. [多位网友称iPhone Duo刚到手屏幕就裂开，开售两天有渠道已“破发”！门店外仍排长队，黄牛：报价乱七八糟](https://finance.sina.com.cn/stock/bxjj/2026-10-26/doc-iniwnkhh2805910.shtml)
 
 ## 财经热榜
