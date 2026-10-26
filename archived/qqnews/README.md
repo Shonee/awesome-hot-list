@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-27 06:12:49
+> 更新时间：2026-10-27 07:10:36
 
 ## 热点榜
 
@@ -16,11 +16,11 @@
 10. [湛江海域上出现可爱的粉色海豚](https://view.inews.qq.com/a/20261026V0CBPQ00)
 11. [网传“热带气旋撞击喜马拉雅山脉”不实（2026·10·26）](https://www.piyao.org.cn/20261026/5b1c1321de79409b9785d36c1129eab2/c.html)
 12. [苹果客服：很多客户取消了iPhone Duo订单](https://view.inews.qq.com/a/20261026A0C4FG00)
-13. [波兰被曝出现F-16战机飞行员短缺问题，“现有47架F-16，飞行员只有约40人”](https://view.inews.qq.com/a/20261026A0DOS700)
-14. [武大靖执教“首秀”收获一铜，年轻队员还需大赛磨炼](https://view.inews.qq.com/a/20261026A09B5800)
-15. [重磅！任仲平来了](https://view.inews.qq.com/a/20261026A03OZX00)
-16. [iPhone Duo屏幕为何会开裂？拆解发现可能是这个原因](https://view.inews.qq.com/a/20261026A0303000)
-17. [凤凰国际财闻汇 | 美国养老金储备2032年耗尽，全球养老体系面临大考](https://view.inews.qq.com/a/20261026A0564L00)
-18. [国办发文定调！缓解AI就业替代，解法有哪些](https://view.inews.qq.com/a/20261026A0CTYT00)
-19. [武契奇承认败选](https://view.inews.qq.com/a/20261026A02PI500)
-20. [医保钱包可为老家父母缴费了，网友催更跨省“一键代缴”](https://view.inews.qq.com/a/20261026A0DBV500)
+13. [国办发文定调！缓解AI就业替代，解法有哪些](https://view.inews.qq.com/a/20261026A0CTYT00)
+14. [波兰被曝出现F-16战机飞行员短缺问题，“现有47架F-16，飞行员只有约40人”](https://view.inews.qq.com/a/20261026A0DOS700)
+15. [武大靖执教“首秀”收获一铜，年轻队员还需大赛磨炼](https://view.inews.qq.com/a/20261026A09B5800)
+16. [高压电池存起火风险，大众汽车全球召回7.27万辆电动车](https://view.inews.qq.com/a/20261026A0BAFK00)
+17. [实探华强北：高端显卡涨价疯狂，有商家称一周涨了上千元](https://view.inews.qq.com/a/20261026A0BAG100)
+18. [医保钱包可为老家父母缴费了，网友催更跨省“一键代缴”](https://view.inews.qq.com/a/20261026A0DBV500)
+19. [人民日报记者调查：声称能抗癌实为“三无”产品，净水器“坑老”](https://view.inews.qq.com/a/20261026A031PU00)
+20. [重磅！任仲平来了](https://view.inews.qq.com/a/20261026A03OZX00)

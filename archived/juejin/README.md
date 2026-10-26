@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-27 06:12:37
+> 更新时间：2026-10-27 07:10:24
 
 ## 热门文章
 
@@ -26,10 +26,10 @@
 20. [workbuddy和codebuddy免费送1000积分, 10秒钟搞定](https://juejin.cn/post/7700090632083767346)
 21. [AIOps（一）：基于 Prometheus MCP + WorkBuddy 构建 AI 智能运维](https://juejin.cn/post/7700054147283157028)
 22. [Qoder CN 每天 100 Credits 领不到，我把客户端扒了一遍](https://juejin.cn/post/7699738861139820598)
-23. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
-24. [10 MB 的桌面 AI 客户端：用仓颉 + 系统 WebView 替代 Electron](https://juejin.cn/post/7700165668347559963)
-25. [Embedding 替换怎么评测：把索引成本算进成功任务](https://juejin.cn/post/7699888899712876585)
-26. [Vue3 v-for：常用用法与开发高频坑点](https://juejin.cn/post/7699871906404614186)
+23. [Vue3 v-for：常用用法与开发高频坑点](https://juejin.cn/post/7699871906404614186)
+24. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
+25. [10 MB 的桌面 AI 客户端：用仓颉 + 系统 WebView 替代 Electron](https://juejin.cn/post/7700165668347559963)
+26. [Embedding 替换怎么评测：把索引成本算进成功任务](https://juejin.cn/post/7699888899712876585)
 27. [1.4万亿没人接，OpenAI自己把价砍了1500亿](https://juejin.cn/post/7699871906380808233)
 28. [一天一个开源项目（第246篇）：rec —— Recursive 自研的本地推理引擎，在 Mac 上跑 Flint 编码模型，称比 llama.cpp 快 1.4–2.6 倍](https://juejin.cn/post/7699823462953959450)
 29. [前端开发中的 BEM 国际命名规范：让 CSS 不再"打架"](https://juejin.cn/post/7699738861140623414)
@@ -41,14 +41,14 @@
 35. [GitHub 日榜趋势速报 | 2026-10-26](https://juejin.cn/post/7700194552506466331)
 36. [不引 Ghostscript：我用纯 Go 给 PDF 做了一场「压缩手术」](https://juejin.cn/post/7699989560453709859)
 37. [is-kit 达成 100 Stars ⭐🎉 从 50 到 100，发生了什么？](https://juejin.cn/post/7699704049008836642)
-38. [浏览器的“无痕模式”是当代最大安慰剂？我用 30 行 JS 提取硬件指纹，跨网络换代理照样精准锁定你](https://juejin.cn/post/7700462324586528778)
-39. [别再迷信 OCR 专用小模型：8 个 7B 以下 VLM 实测，抽取 JSON 结构还得靠通用选手](https://juejin.cn/post/7700440792791449610)
-40. [用 Node.js 搭建一套可持续获客的 SEO 内容系统：前端工程师 30 天实战方案](https://juejin.cn/post/7700327310117224474)
-41. [Windows也能用 Apple Watch 解锁](https://juejin.cn/post/7700194552506286107)
-42. [AI 时代的危与机：当潮水退去，技术人如何自处](https://juejin.cn/post/7700055962983710729)
-43. [支付回调验签连续失败三天，最后发现是网关的时间戳单位问题](https://juejin.cn/post/7699823462952894490)
-44. [[Java] 展示增删元素时 LinkedList 的内部变化](https://juejin.cn/post/7699791664957308982)
-45. [Android 上的无人回合：只放开 2 类工具，宁可空手](https://juejin.cn/post/7699774692991352870)
+38. [Android 上的无人回合：只放开 2 类工具，宁可空手](https://juejin.cn/post/7699774692991352870)
+39. [浏览器的“无痕模式”是当代最大安慰剂？我用 30 行 JS 提取硬件指纹，跨网络换代理照样精准锁定你](https://juejin.cn/post/7700462324586528778)
+40. [别再迷信 OCR 专用小模型：8 个 7B 以下 VLM 实测，抽取 JSON 结构还得靠通用选手](https://juejin.cn/post/7700440792791449610)
+41. [用 Node.js 搭建一套可持续获客的 SEO 内容系统：前端工程师 30 天实战方案](https://juejin.cn/post/7700327310117224474)
+42. [Windows也能用 Apple Watch 解锁](https://juejin.cn/post/7700194552506286107)
+43. [AI 时代的危与机：当潮水退去，技术人如何自处](https://juejin.cn/post/7700055962983710729)
+44. [支付回调验签连续失败三天，最后发现是网关的时间戳单位问题](https://juejin.cn/post/7699823462952894490)
+45. [[Java] 展示增删元素时 LinkedList 的内部变化](https://juejin.cn/post/7699791664957308982)
 46. [【世界模型】Nano World Models（NanoWM）分析笔记](https://juejin.cn/post/7699753031052296226)
 47. [fun-ui 开源：把浏览器界面接回来](https://juejin.cn/post/7699725807237808154)
 48. [尤雨溪 : Vue 4 已经在规划中了！](https://juejin.cn/post/7700803425820049434)

@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-27 06:13:19
+> 更新时间：2026-10-27 07:11:04
 
 ## 日榜
 
@@ -12,7 +12,7 @@
 6. [曝华为 Pura X View 销量破 60 万台：独享阔直屏、网友调侃出一台卖一台，已开启 60 天预约申购](https://www.ithome.com/1/017/736.htm)
 7. [鸿蒙智行尊界汽车微博复更，发布 S800 典藏大观车型组图](https://www.ithome.com/1/017/796.htm)
 8. [终破五千大关：苹果 Mac mini M6 国补后京东 4929 元，与 M4 版同价](https://www.ithome.com/1/018/022.htm)
-9. [2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段](https://www.ithome.com/1/017/745.htm)
-10. [小米卢伟冰称“又是一款同档无敌的产品”：REDMI K100 手机全新配色“雪岩白”公布](https://www.ithome.com/1/017/754.htm)
-11. [苹果详解 iPad mini（A20 Pro）全新 Acoustic Display 声学显示屏：低音扬声器可通过屏幕协同发声](https://www.ithome.com/1/018/161.htm)
-12. [苹果 iPad mini（A20 Pro）仅 512GB 机型配备 6 核中央处理器、双 16 核神经网络引擎](https://www.ithome.com/1/018/169.htm)
+9. [苹果详解 iPad mini（A20 Pro）全新 Acoustic Display 声学显示屏：低音扬声器可通过屏幕协同发声](https://www.ithome.com/1/018/161.htm)
+10. [2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段](https://www.ithome.com/1/017/745.htm)
+11. [苹果 iPad mini（A20 Pro）仅 512GB 机型配备 6 核中央处理器、双 16 核神经网络引擎](https://www.ithome.com/1/018/169.htm)
+12. [小米卢伟冰称“又是一款同档无敌的产品”：REDMI K100 手机全新配色“雪岩白”公布](https://www.ithome.com/1/017/754.htm)

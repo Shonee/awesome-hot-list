@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-27 06:12:40
+> 更新时间：2026-10-27 07:10:27
 
 ## 最新帖子
 
-1. [Qwen-Image2.1游戏素材工坊：把整套素材拼成"模拟游戏画面"逐张体检  （二）](https://www.cnblogs.com/wyang/p/23446801)
-2. [关于我在驱动orangepi-r1-plus-lts的i2c0接口时遇到的问题](https://www.cnblogs.com/lelecha/p/23446685)
-3. [角色拆部件与素材生产路线调研](https://www.cnblogs.com/fs7744/p/23446349)
-4. [AI 时代的 “房谋杜断”：如何培养能力、品味与判断力](https://www.cnblogs.com/rossiXYZ/p/23215893)
-5. [技术思考问题43：Kimi K3.1未开权重，敢上吗？](https://www.cnblogs.com/snidget/p/23445431)
-6. [最近公共祖先LCA，详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23444874)
-7. [cs336Assignment1 训练组件](https://www.cnblogs.com/CrescentWind/p/23444885)
-8. [Linux 大文件审计脚本：从“找到大文件”到“智能给出清理建议”](https://www.cnblogs.com/liuziyi1/p/23442505)
-9. [集合与索引类异常【C# Exception 详解系列（三）】](https://www.cnblogs.com/hnzhengfy/p/23369038/Exception_d3)
-10. [上周热点回顾（10.19-10.25）](https://www.cnblogs.com/cmt/p/23439339)
-11. [[随笔] 关于我在机房电脑（带有还原卡）安装Arch Linux一事](https://www.cnblogs.com/SilverGo/p/23439188)
-12. [为什么AI做的汇报PPT像地摊货？3步搭出老板认可的架构汇报](https://www.cnblogs.com/uniqueDong/p/23439090)
-13. [当 Agent 接手更多工作，我们还能把好关吗？](https://www.cnblogs.com/Qiniu-developer/p/23438998)
-14. [Android Native 库发布前检查：导出符号、敏感字符串与运行时保护](https://www.cnblogs.com/bytehidden/p/23438861)
-15. [27寸屏左移后，这个小工具救了我无数次](https://www.cnblogs.com/MrHuo/p/23438671)
-16. [shiro反序列化](https://www.cnblogs.com/nihao-xing/p/23433100)
-17. [使用 Python 修改 PDF 页面尺寸：标准纸张与自定义尺寸](https://www.cnblogs.com/jazz-z/p/23438442)
-18. [代理网络环境下 Linux Pro 在线激活实操指南](https://www.cnblogs.com/feishixin123/p/23438407)
-19. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
-20. [一只按键不只“按下”：短按、长按和连按如何共存](https://www.cnblogs.com/zw-awa/p/23437718)
+1. [MQTT实战 - .NET + MQTT生产级架构：从500个设备到50,000个设备（九）](https://www.cnblogs.com/hugogoos/p/23446857)
+2. [理解 iFrame 嵌套的跨域问题](https://www.cnblogs.com/jyzhao/p/23448833)
+3. [Qwen-Image2.1游戏素材工坊：把整套素材拼成"模拟游戏画面"逐张体检  （二）](https://www.cnblogs.com/wyang/p/23446801)
+4. [关于我在驱动orangepi-r1-plus-lts的i2c0接口时遇到的问题](https://www.cnblogs.com/lelecha/p/23446685)
+5. [角色拆部件与素材生产路线调研](https://www.cnblogs.com/fs7744/p/23446349)
+6. [AI 时代的 “房谋杜断”：如何培养能力、品味与判断力](https://www.cnblogs.com/rossiXYZ/p/23215893)
+7. [技术思考问题43：Kimi K3.1未开权重，敢上吗？](https://www.cnblogs.com/snidget/p/23445431)
+8. [最近公共祖先LCA，详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23444874)
+9. [cs336Assignment1 训练组件](https://www.cnblogs.com/CrescentWind/p/23444885)
+10. [Linux 大文件审计脚本：从“找到大文件”到“智能给出清理建议”](https://www.cnblogs.com/liuziyi1/p/23442505)
+11. [集合与索引类异常【C# Exception 详解系列（三）】](https://www.cnblogs.com/hnzhengfy/p/23369038/Exception_d3)
+12. [上周热点回顾（10.19-10.25）](https://www.cnblogs.com/cmt/p/23439339)
+13. [[随笔] 关于我在机房电脑（带有还原卡）安装Arch Linux一事](https://www.cnblogs.com/SilverGo/p/23439188)
+14. [为什么AI做的汇报PPT像地摊货？3步搭出老板认可的架构汇报](https://www.cnblogs.com/uniqueDong/p/23439090)
+15. [当 Agent 接手更多工作，我们还能把好关吗？](https://www.cnblogs.com/Qiniu-developer/p/23438998)
+16. [Android Native 库发布前检查：导出符号、敏感字符串与运行时保护](https://www.cnblogs.com/bytehidden/p/23438861)
+17. [27寸屏左移后，这个小工具救了我无数次](https://www.cnblogs.com/MrHuo/p/23438671)
+18. [shiro反序列化](https://www.cnblogs.com/nihao-xing/p/23433100)
+19. [使用 Python 修改 PDF 页面尺寸：标准纸张与自定义尺寸](https://www.cnblogs.com/jazz-z/p/23438442)
+20. [代理网络环境下 Linux Pro 在线激活实操指南](https://www.cnblogs.com/feishixin123/p/23438407)
 
 ## 精华帖子
 
