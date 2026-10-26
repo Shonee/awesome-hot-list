@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-27 05:11:00
+> 更新时间：2026-10-27 06:12:34
 
 ## 日榜
 
@@ -10,8 +10,8 @@
 4. [网络上常见的热门短视频集锦   第三千五百一十一期](https://www.acfun.cn/v/ac48939491)
 5. [网络上常见的热门短视频集锦   第三千五百一十期](https://www.acfun.cn/v/ac48938431)
 6. [不如直接送我去坐牢吧！想要通关《塞尔达II》代究竟要承受多少折磨？](https://www.acfun.cn/v/ac48939703)
-7. [奶香奶香的！欢乐八点档-1814](https://www.acfun.cn/v/ac48940026)
-8. [风儿好喧嚣啊【今天有什么好笑的 #2548】](https://www.acfun.cn/v/ac48939933)
+7. [风儿好喧嚣啊【今天有什么好笑的 #2548】](https://www.acfun.cn/v/ac48939933)
+8. [奶香奶香的！欢乐八点档-1814](https://www.acfun.cn/v/ac48940026)
 9. [Happy Halloween！](https://www.acfun.cn/v/ac48939381)
 10. [军粮试吃：火箭军民版口粮梅菜扣肉饭](https://www.acfun.cn/v/ac48940760)
 11. [【up主创作大赛】原创编舞 摸鱼日记！](https://www.acfun.cn/v/ac48940375)
@@ -22,8 +22,8 @@
 16. [厨师长分享川菜24味型之“家常味”，最贴近百姓餐桌的味型](https://www.acfun.cn/v/ac48940278)
 17. [喜欢虐泉？王者也翻车！快速看完一局韩服王者斗殴局#880 Ady, Sangsu, Kingdom,](https://www.acfun.cn/v/ac48934697)
 18. [厨师长分享“川菜24味型”，以及特点、调制、代表菜全梳理](https://www.acfun.cn/v/ac48940137)
-19. [1603期：路口三轮撞轿车，失控旋转后，怼向树干](https://www.acfun.cn/v/ac48939680)
-20. [【up主创作大赛】我的地盘！多少人童年的回忆！](https://www.acfun.cn/v/ac48940309)
+19. [【up主创作大赛】我的地盘！多少人童年的回忆！](https://www.acfun.cn/v/ac48940309)
+20. [1603期：路口三轮撞轿车，失控旋转后，怼向树干](https://www.acfun.cn/v/ac48939680)
 21. [《影之刃零》评测9分：等了这么多年，他终于把那个武侠梦做出来了](https://www.acfun.cn/v/ac48938658)
 22. [【奧雷】首部“三狼案”改编电影，从绑架勒索到掉入无底深渊！](https://www.acfun.cn/v/ac48940922)
 23. [【UP创作大赛】55.穿越三亿年的远古霸王，人类最初的史诗起源：合弓纲](https://www.acfun.cn/v/ac48923250)
@@ -47,13 +47,13 @@
 41. [起飞](https://www.acfun.cn/v/ac48939752)
 42. [[伴奏](koyori)萝町コントラスト](https://www.acfun.cn/v/ac48939374)
 43. [大蟒蛇_2026-10-25](https://www.acfun.cn/v/ac48939749)
-44. [这俩组队我也是第一次见](https://www.acfun.cn/v/ac48935480)
-45. [【衣笠雪绘】stay with me 歌切day208【UP创作大赛】](https://www.acfun.cn/v/ac48941149)
-46. [巡音ルカ Phut Hon](https://www.acfun.cn/v/ac48938082)
-47. [鲜嫩好吃！牛肉蔬菜简单生煎营养有锅气！](https://www.acfun.cn/v/ac48939259)
-48. [短发](https://www.acfun.cn/v/ac48940978)
-49. [【LYY小鱼儿】片段录制](https://www.acfun.cn/v/ac48940758)
-50. [《银松镇》是今年我最看好的独立游戏](https://www.acfun.cn/v/ac48941266)
+44. [《银松镇》是今年我最看好的独立游戏](https://www.acfun.cn/v/ac48941266)
+45. [这俩组队我也是第一次见](https://www.acfun.cn/v/ac48935480)
+46. [【衣笠雪绘】stay with me 歌切day208【UP创作大赛】](https://www.acfun.cn/v/ac48941149)
+47. [巡音ルカ Phut Hon](https://www.acfun.cn/v/ac48938082)
+48. [鲜嫩好吃！牛肉蔬菜简单生煎营养有锅气！](https://www.acfun.cn/v/ac48939259)
+49. [短发](https://www.acfun.cn/v/ac48940978)
+50. [【LYY小鱼儿】片段录制](https://www.acfun.cn/v/ac48940758)
 
 ## 三日榜
 
@@ -89,9 +89,9 @@
 30. [喵？弗糯糯？](https://www.acfun.cn/v/ac48934973)
 31. [第三个吻痕](https://www.acfun.cn/v/ac48938502)
 32. [奶香奶香的！欢乐八点档-1814](https://www.acfun.cn/v/ac48940026)
-33. [小蝶最适合去漫展的一套x](https://www.acfun.cn/v/ac48936152)
-34. [选择大于努力？（81）](https://www.acfun.cn/v/ac48936538)
-35. [风儿好喧嚣啊【今天有什么好笑的 #2548】](https://www.acfun.cn/v/ac48939933)
+33. [风儿好喧嚣啊【今天有什么好笑的 #2548】](https://www.acfun.cn/v/ac48939933)
+34. [小蝶最适合去漫展的一套x](https://www.acfun.cn/v/ac48936152)
+35. [选择大于努力？（81）](https://www.acfun.cn/v/ac48936538)
 36. [Happy Halloween！](https://www.acfun.cn/v/ac48939381)
 37. [【东方/考古】ナイト・オブ・ナイツ 非正常乐器演奏合集](https://www.acfun.cn/v/ac48925709)
 38. [一个新生态的开端，HIFIMAN HM2000使用体验](https://www.acfun.cn/v/ac48938395)
@@ -148,8 +148,8 @@
 36. [网络上常见的热门短视频集锦   第三千五百零五期](https://www.acfun.cn/v/ac48933342)
 37. [网络上常见的热门短视频集锦   第三千五百零八期](https://www.acfun.cn/v/ac48936721)
 38. [【UP创作大赛】【 英数决战】汤家凤VS刘晓艳](https://www.acfun.cn/v/ac48934520)
-39. [评论区艾特你心中分量最重的人【UP创作大赛】](https://www.acfun.cn/v/ac48925618)
-40. [前夫哥糊涂啊！★手机竖屏2045★](https://www.acfun.cn/v/ac48938428)
+39. [前夫哥糊涂啊！★手机竖屏2045★](https://www.acfun.cn/v/ac48938428)
+40. [评论区艾特你心中分量最重的人【UP创作大赛】](https://www.acfun.cn/v/ac48925618)
 41. [️忘 情 牛 肉 面️](https://www.acfun.cn/v/ac48928867)
 42. [这个也是真心喜欢！★手机竖屏2040★](https://www.acfun.cn/v/ac48927478)
 43. [【UP创作大赛】顾客：你要把我的菜端哪去啊！](https://www.acfun.cn/v/ac48927924)
