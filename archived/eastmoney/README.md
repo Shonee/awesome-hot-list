@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-26 12:16:23
+> 更新时间：2026-10-26 12:47:29
 
 ## 股票人气榜
 
@@ -17,10 +17,10 @@
 11. [上海九百 (600838)](https://quote.eastmoney.com/sh600838.html)
 12. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
 13. [新华传媒 (600825)](https://quote.eastmoney.com/sh600825.html)
-14. [榕基软件 (002474)](https://quote.eastmoney.com/sz002474.html)
+14. [华天科技 (002185)](https://quote.eastmoney.com/sz002185.html)
 15. [风语筑 (603466)](https://quote.eastmoney.com/sh603466.html)
 16. [福莱新材 (605488)](https://quote.eastmoney.com/sh605488.html)
-17. [华天科技 (002185)](https://quote.eastmoney.com/sz002185.html)
+17. [榕基软件 (002474)](https://quote.eastmoney.com/sz002474.html)
 18. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
-19. [利亚德 (300296)](https://quote.eastmoney.com/sz300296.html)
-20. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
+19. [宁德时代 (300750)](https://quote.eastmoney.com/sz300750.html)
+20. [百洋股份 (002696)](https://quote.eastmoney.com/sz002696.html)
