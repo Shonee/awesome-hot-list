@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-26 11:17:47
+> 更新时间：2026-10-26 11:49:20
 
 ## 最新帖子
 
-1. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
-2. [Day03 · 虚拟环境与依赖管理入门](https://www.cnblogs.com/xiaojiaxuezhang/p/23437988)
-3. [一只按键不只“按下”：短按、长按和连按如何共存](https://www.cnblogs.com/zw-awa/p/23437718)
-4. [GitHub Actions 详解](https://www.cnblogs.com/zjdxr-up/p/23323258)
-5. [基于规则推导的账号密码管理方案：原理、边界与实践](https://www.cnblogs.com/exioran/p/23436114)
-6. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
-7. [高可用之路-观测篇-那些年遇到过的指标幻觉](https://www.cnblogs.com/alchemystar/p/23432965)
-8. [谈谈怎样做好游戏发行中台](https://www.cnblogs.com/VVStudy/p/23426886)
-9. [2026年AI安全测试工具大全，14款大模型与Agent安全工具一次配齐](https://www.cnblogs.com/jinjiangongzuoshi/p/23435565)
-10. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
-11. [语音降噪模型GTCRN学习笔记(二)](https://www.cnblogs.com/talkaudiodev/p/23430817)
-12. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
-13. [Vibe Coding 之前，先把这些准备工作做好](https://www.cnblogs.com/jyzhao/p/23435237)
-14. [MQTT实战 - MQTT Broker选型，EMQX vs Mosquitto，我用过的真实对比（八）](https://www.cnblogs.com/hugogoos/p/23427415)
-15. [11. ArkTS 标识符 & 关键字｜命名规则详解](https://www.cnblogs.com/halfcode/p/23432960)
-16. [RequestBatcher 0.3.x 版本，优雅升级](https://www.cnblogs.com/eventhorizon/p/23434966)
-17. [116亿美元，边缘云翻身了？](https://www.cnblogs.com/byjs/p/23434306)
-18. [I love Power BI](https://www.cnblogs.com/aspnetx/p/23434308)
-19. [Qwen-Image2.1游戏素材工坊：一句话，生成一整套游戏美术素材（一）](https://www.cnblogs.com/wyang/p/23434205)
-20. [用 C# + Blazor 开发智能体（Agent）教程](https://www.cnblogs.com/known/p/23433592)
+1. [27寸屏左移后，这个小工具救了我无数次](https://www.cnblogs.com/MrHuo/p/23438671)
+2. [shiro反序列化](https://www.cnblogs.com/nihao-xing/p/23433100)
+3. [使用 Python 修改 PDF 页面尺寸：标准纸张与自定义尺寸](https://www.cnblogs.com/jazz-z/p/23438442)
+4. [代理网络环境下 Linux Pro 在线激活实操指南](https://www.cnblogs.com/feishixin123/p/23438407)
+5. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
+6. [Day03 · 虚拟环境与依赖管理入门](https://www.cnblogs.com/xiaojiaxuezhang/p/23437988)
+7. [一只按键不只“按下”：短按、长按和连按如何共存](https://www.cnblogs.com/zw-awa/p/23437718)
+8. [GitHub Actions 详解](https://www.cnblogs.com/zjdxr-up/p/23323258)
+9. [基于规则推导的账号密码管理方案：原理、边界与实践](https://www.cnblogs.com/exioran/p/23436114)
+10. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
+11. [高可用之路-观测篇-那些年遇到过的指标幻觉](https://www.cnblogs.com/alchemystar/p/23432965)
+12. [谈谈怎样做好游戏发行中台](https://www.cnblogs.com/VVStudy/p/23426886)
+13. [2026年AI安全测试工具大全，14款大模型与Agent安全工具一次配齐](https://www.cnblogs.com/jinjiangongzuoshi/p/23435565)
+14. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
+15. [语音降噪模型GTCRN学习笔记(二)](https://www.cnblogs.com/talkaudiodev/p/23430817)
+16. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
+17. [Vibe Coding 之前，先把这些准备工作做好](https://www.cnblogs.com/jyzhao/p/23435237)
+18. [MQTT实战 - MQTT Broker选型，EMQX vs Mosquitto，我用过的真实对比（八）](https://www.cnblogs.com/hugogoos/p/23427415)
+19. [11. ArkTS 标识符 & 关键字｜命名规则详解](https://www.cnblogs.com/halfcode/p/23432960)
+20. [RequestBatcher 0.3.x 版本，优雅升级](https://www.cnblogs.com/eventhorizon/p/23434966)
 
 ## 精华帖子
 
@@ -47,12 +47,3 @@
 18. [为什么说 IO 操作异步才有意义](https://www.cnblogs.com/kklldog/p/19449864)
 19. [2025 年终总结｜30岁](https://www.cnblogs.com/liyq666/p/19427476)
 20. [Keepalived详解：原理、编译安装与高可用集群配置](https://www.cnblogs.com/ydswin/p/19326078)
-
-## 48 小时阅读排行
-
-1. [70后 90后 00后技术人，邀你一起重新出发](https://www.cnblogs.com/cmt/p/23427349)
-2. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
-3. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
-4. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
-5. [大杂烩：创建自己的个人数据工作台](https://www.cnblogs.com/aspnetx/p/23426638)
-6. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
