@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-27 00:44:42
+> 更新时间：2026-10-27 01:39:44
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [终破五千大关：苹果 Mac mini M6 国补后京东 4929 元，与 M4 版同价](https://www.ithome.com/1/018/022.htm)
 9. [2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段](https://www.ithome.com/1/017/745.htm)
 10. [小米卢伟冰称“又是一款同档无敌的产品”：REDMI K100 手机全新配色“雪岩白”公布](https://www.ithome.com/1/017/754.htm)
-11. [消息称更多用户反馈苹果 iPhone Duo 内屏出现“开裂”问题](https://www.ithome.com/1/017/906.htm)
-12. [消息称明年国产 TOP5 厂商都会上阔直板新机，目前全部立项完成](https://www.ithome.com/1/018/093.htm)
+11. [苹果详解 iPad mini（A20 Pro）全新 Acoustic Display 声学显示屏：低音扬声器可通过屏幕协同发声](https://www.ithome.com/1/018/161.htm)
+12. [消息称更多用户反馈苹果 iPhone Duo 内屏出现“开裂”问题](https://www.ithome.com/1/017/906.htm)
