@@ -1,19 +1,19 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-27 01:40:24
+> 更新时间：2026-10-27 02:20:04
 
 ## 热门问题
 
-1. [Installation of more than 2000 packages from cran](https://stackoverflow.com/questions/80012665/installation-of-more-than-2000-packages-from-cran)
-2. [How to make valid JSON in React/Next.JS?](https://stackoverflow.com/questions/80012653/how-to-make-valid-json-in-react-next-js)
+1. [the incorporated file the resolve links linrary rong](https://stackoverflow.com/questions/80012669/the-incorporated-file-the-resolve-links-linrary-rong)
+2. [Installation of more than 2000 packages from cran](https://stackoverflow.com/questions/80012665/installation-of-more-than-2000-packages-from-cran)
 3. [How do I send a message to a Teams channel from a C# application with a web hook url](https://stackoverflow.com/questions/80012649/how-do-i-send-a-message-to-a-teams-channel-from-a-c-application-with-a-web-hook)
-4. [GNU Make: How can I slow down forking new jobs](https://stackoverflow.com/questions/80012640/gnu-make-how-can-i-slow-down-forking-new-jobs)
-5. [Struggling to understand Python while loop code block](https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block)
-6. [Problem with downcasting to an interface with a generic type](https://stackoverflow.com/questions/80012592/problem-with-downcasting-to-an-interface-with-a-generic-type)
-7. [How this solution(climbing stairs or fibonacci series) is top down approach?](https://stackoverflow.com/questions/80012628/how-this-solutionclimbing-stairs-or-fibonacci-series-is-top-down-approach)
-8. [How to implement Protected Routes in React Router version 8?](https://stackoverflow.com/questions/80012647/how-to-implement-protected-routes-in-react-router-version-8)
-9. [How to align images on the same x](https://stackoverflow.com/questions/80012571/how-to-align-images-on-the-same-x)
-10. [onload() not called when revisiting a PHP page (after upgrade to PHP 8.5)](https://stackoverflow.com/questions/80012637/onload-not-called-when-revisiting-a-php-page-after-upgrade-to-php-8-5)
+4. [Problem with downcasting to an interface with a generic type](https://stackoverflow.com/questions/80012592/problem-with-downcasting-to-an-interface-with-a-generic-type)
+5. [GNU Make: How can I slow down forking new jobs](https://stackoverflow.com/questions/80012640/gnu-make-how-can-i-slow-down-forking-new-jobs)
+6. [How this solution(climbing stairs or fibonacci series) is top down approach?](https://stackoverflow.com/questions/80012628/how-this-solutionclimbing-stairs-or-fibonacci-series-is-top-down-approach)
+7. [Struggling to understand Python while loop code block](https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block)
+8. [How to align images on the same x](https://stackoverflow.com/questions/80012571/how-to-align-images-on-the-same-x)
+9. [onload() not called when revisiting a PHP page (after upgrade to PHP 8.5)](https://stackoverflow.com/questions/80012637/onload-not-called-when-revisiting-a-php-page-after-upgrade-to-php-8-5)
+10. [How to implement Protected Routes in React Router version 8?](https://stackoverflow.com/questions/80012647/how-to-implement-protected-routes-in-react-router-version-8)
 11. [Ruby native extensions fail to build after macOS upgrade](https://stackoverflow.com/questions/80012616/ruby-native-extensions-fail-to-build-after-macos-upgrade)
 12. [ojdbc17 23.26.3 fails with ORA-12564 (before authentication) when the OS username is "USER" — empty TNS CID sent](https://stackoverflow.com/questions/80012620/ojdbc17-23-26-3-fails-with-ora-12564-before-authentication-when-the-os-usernam)
 13. [What is the return value of IPC::Semaphore's op()?](https://stackoverflow.com/questions/80012614/what-is-the-return-value-of-ipcsemaphores-op)
@@ -22,8 +22,8 @@
 16. [iOS SwiftUI hide scroll indicator from voice over](https://stackoverflow.com/questions/80012615/ios-swiftui-hide-scroll-indicator-from-voice-over)
 17. [Firebase Google sign-in fails with auth/internal-error for all accounts (signInWithRedirect)](https://stackoverflow.com/questions/80012602/firebase-google-sign-in-fails-with-auth-internal-error-for-all-accounts-signinw)
 18. [Module not found with a Dockerfile](https://stackoverflow.com/questions/80012549/module-not-found-with-a-dockerfile)
-19. [Trivy Scan Issue](https://stackoverflow.com/questions/80012600/trivy-scan-issue)
-20. [Why does casting to Object[] prevent a ClassCastException?](https://stackoverflow.com/questions/80012496/why-does-casting-to-object-prevent-a-classcastexception)
+19. [Why does casting to Object[] prevent a ClassCastException?](https://stackoverflow.com/questions/80012496/why-does-casting-to-object-prevent-a-classcastexception)
+20. [Trivy Scan Issue](https://stackoverflow.com/questions/80012600/trivy-scan-issue)
 21. [Assembler getting wrong echo output](https://stackoverflow.com/questions/80012552/assembler-getting-wrong-echo-output)
 22. [Multithreaded web server is not threading requests](https://stackoverflow.com/questions/80012553/multithreaded-web-server-is-not-threading-requests)
 23. [What are sanitizers and how could they help me find problems in my code?](https://stackoverflow.com/questions/80012463/what-are-sanitizers-and-how-could-they-help-me-find-problems-in-my-code)
@@ -52,5 +52,5 @@
 46. [Should picture URLs include file extensions?](https://stackoverflow.com/questions/80012350/should-picture-urls-include-file-extensions)
 47. [Div is expanding to fit content when I don't want it to](https://stackoverflow.com/questions/80012415/div-is-expanding-to-fit-content-when-i-dont-want-it-to)
 48. [Borders on html website/background image over smaller content area?](https://stackoverflow.com/questions/80012290/borders-on-html-website-background-image-over-smaller-content-area)
-49. [Does PageSpeed Insights API v5 accept an API key exclusively through the X-Goog-Api-Key header?](https://stackoverflow.com/questions/80012341/does-pagespeed-insights-api-v5-accept-an-api-key-exclusively-through-the-x-goog)
-50. [How to fix WampServer addons defaulting to C:\wamp64 after migrating to another computer?](https://stackoverflow.com/questions/80012430/how-to-fix-wampserver-addons-defaulting-to-c-wamp64-after-migrating-to-another)
+49. [How to fix WampServer addons defaulting to C:\wamp64 after migrating to another computer?](https://stackoverflow.com/questions/80012430/how-to-fix-wampserver-addons-defaulting-to-c-wamp64-after-migrating-to-another)
+50. [Does PageSpeed Insights API v5 accept an API key exclusively through the X-Goog-Api-Key header?](https://stackoverflow.com/questions/80012341/does-pagespeed-insights-api-v5-accept-an-api-key-exclusively-through-the-x-goog)
