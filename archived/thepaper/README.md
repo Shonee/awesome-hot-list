@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-26 09:27:27
+> 更新时间：2026-10-26 10:25:42
 
 ## 热新闻
 
@@ -15,12 +15,12 @@
 9. [再夺一冠！孙心然赢得ITF青少年年终总决赛女单冠军](https://www.thepaper.cn/newsDetail_forward_34328841)
 10. [一图世界｜内塔尼亚胡的政治生死战，“以色列身份认同的抉择”](https://www.thepaper.cn/newsDetail_forward_34328036)
 11. [媒体：把自身罪行安到中国人头上，日本“神剧”为谁招魂](https://www.thepaper.cn/newsDetail_forward_34329226)
-12. [卢拉成功连任，当选巴西新一任总统](https://www.thepaper.cn/newsDetail_forward_34331765)
-13. [二十届中央第七轮巡视完成反馈](https://www.thepaper.cn/newsDetail_forward_34329709)
-14. [巴西总统选举第二轮投票开始](https://www.thepaper.cn/newsDetail_forward_34329847)
-15. [李天阳不敌张本智和亚锦赛摘银，国乒亚锦赛4金收官](https://www.thepaper.cn/newsDetail_forward_34330175)
-16. [明起实施！上证指数、科创综指等拟修订，单样本权重不超15%](https://www.thepaper.cn/newsDetail_forward_34328014)
-17. [中朝举行志愿军烈士陵园修缮工程竣工仪式](https://www.thepaper.cn/newsDetail_forward_34330469)
-18. [7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力](https://www.thepaper.cn/newsDetail_forward_34328097)
-19. [全国总工会拨付200万元支援西藏灾区救灾救助工作](https://www.thepaper.cn/newsDetail_forward_34330169)
-20. [赵辰昕任河北省代省长](https://www.thepaper.cn/newsDetail_forward_34329723)
+12. [面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事](https://www.thepaper.cn/newsDetail_forward_34331230)
+13. [卢拉成功连任，当选巴西新一任总统](https://www.thepaper.cn/newsDetail_forward_34331765)
+14. [马上评｜“娱乐至死”的医疗真人秀，该叫停了](https://www.thepaper.cn/newsDetail_forward_34330398)
+15. [二十届中央第七轮巡视完成反馈](https://www.thepaper.cn/newsDetail_forward_34329709)
+16. [巴西总统选举第二轮投票开始](https://www.thepaper.cn/newsDetail_forward_34329847)
+17. [李天阳不敌张本智和亚锦赛摘银，国乒亚锦赛4金收官](https://www.thepaper.cn/newsDetail_forward_34330175)
+18. [明起实施！上证指数、科创综指等拟修订，单样本权重不超15%](https://www.thepaper.cn/newsDetail_forward_34328014)
+19. [中朝举行志愿军烈士陵园修缮工程竣工仪式](https://www.thepaper.cn/newsDetail_forward_34330469)
+20. [7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力](https://www.thepaper.cn/newsDetail_forward_34328097)
