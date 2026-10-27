@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-27 15:46:38
+> 更新时间：2026-10-27 16:17:31
 
 ## 热点资讯排行
 
@@ -12,8 +12,8 @@
 6. [《影之刃零》M站评分下降！PS5版跌至86分](https://www.gamersky.com/news/202610/2235396.shtml)
 7. [《影之刃零》10月27日开启PC端预下载 游戏本体约145G](https://www.gamersky.com/news/202610/2234640.shtml)
 8. [《影之刃零》日媒9分！未来数年难被超越 汉字读不懂](https://www.gamersky.com/news/202610/2234692.shtml)
-9. [苹果Duo玩《王者》无法全屏 大黑边被吐槽广告位招租](https://www.gamersky.com/news/202610/2234445.shtml)
-10. [PS5版《影之刃零》获9分：除了故事 什么都好](https://www.gamersky.com/news/202610/2234777.shtml)
+9. [PS5版《影之刃零》获9分：除了故事 什么都好](https://www.gamersky.com/news/202610/2234777.shtml)
+10. [苹果Duo玩《王者》无法全屏 大黑边被吐槽广告位招租](https://www.gamersky.com/news/202610/2234445.shtml)
 11. [《GTA6》疑似女主演员直播被刷屏 避谈身份绷不住了](https://www.gamersky.com/news/202610/2234449.shtml)
 12. [《英雄联盟》首届S赛冠军打野去世 年仅31岁](https://www.gamersky.com/news/202610/2235341.shtml)
 13. [买不到的5090都在这！曝中国工厂大批拆卡改装专供AI](https://www.gamersky.com/hardware/202610/2234471.shtml)
