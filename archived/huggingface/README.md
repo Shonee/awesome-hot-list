@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-27 04:13:38
+> 更新时间：2026-10-27 10:23:47
 
 ## Trending Models
 
@@ -22,5 +22,5 @@
 16. [dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8)
 17. [orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF](https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF)
 18. [HuggingFaceBio/Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X)
-19. [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)
-20. [mistralai/Timestral-209M](https://huggingface.co/mistralai/Timestral-209M)
+19. [OpenMOSS-Team/MOSS-Image-Base](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base)
+20. [Comfy-Org/Fibo-2.0](https://huggingface.co/Comfy-Org/Fibo-2.0)

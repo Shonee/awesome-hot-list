@@ -1,18 +1,18 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-27 09:28:13
+> 更新时间：2026-10-27 10:23:40
 
 ## 最有料热点
 
 1. [耻辱!AL全败告别S16](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368137&topic_name=%E8%80%BB%E8%BE%B1%21AL%E5%85%A8%E8%B4%A5%E5%91%8A%E5%88%ABS16)
-2. [凯恩荣膺金球,十年球迷告白](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368144&topic_name=%E5%87%AF%E6%81%A9%E8%8D%A3%E8%86%BA%E9%87%91%E7%90%83%2C%E5%8D%81%E5%B9%B4%E7%90%83%E8%BF%B7%E5%91%8A%E7%99%BD)
-3. [BLG斩KC连胜,ON神钩定乾坤](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368136&topic_name=BLG%E6%96%A9KC%E8%BF%9E%E8%83%9C%2CON%E7%A5%9E%E9%92%A9%E5%AE%9A%E4%B9%BE%E5%9D%A4)
-4. [留学遇失足学姐,吧友忆东京往事](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368032&topic_name=%E7%95%99%E5%AD%A6%E9%81%87%E5%A4%B1%E8%B6%B3%E5%AD%A6%E5%A7%90%2C%E5%90%A7%E5%8F%8B%E5%BF%86%E4%B8%9C%E4%BA%AC%E5%BE%80%E4%BA%8B)
-5. [表情包32强开撕,输的回家种田](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368043&topic_name=%E8%A1%A8%E6%83%85%E5%8C%8532%E5%BC%BA%E5%BC%80%E6%92%95%2C%E8%BE%93%E7%9A%84%E5%9B%9E%E5%AE%B6%E7%A7%8D%E7%94%B0)
-6. [两女生开无烟酒吧,150万打水漂](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368122&topic_name=%E4%B8%A4%E5%A5%B3%E7%94%9F%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%2C150%E4%B8%87%E6%89%93%E6%B0%B4%E6%BC%82)
-7. [AI被当真人,大肥鱼遭网恋哥骚扰](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0)
-8. [抗韩先锋!IG斩HLE于马下](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368027&topic_name=%E6%8A%97%E9%9F%A9%E5%85%88%E9%94%8B%21IG%E6%96%A9HLE%E4%BA%8E%E9%A9%AC%E4%B8%8B)
-9. [69会拉扯,TES逮捕G2](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368028&topic_name=69%E4%BC%9A%E6%8B%89%E6%89%AF%2CTES%E9%80%AE%E6%8D%95G2)
+2. [冤家路窄,TES生死战BLG](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368147&topic_name=%E5%86%A4%E5%AE%B6%E8%B7%AF%E7%AA%84%2CTES%E7%94%9F%E6%AD%BB%E6%88%98BLG)
+3. [凯恩荣膺金球,十年球迷告白](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368144&topic_name=%E5%87%AF%E6%81%A9%E8%8D%A3%E8%86%BA%E9%87%91%E7%90%83%2C%E5%8D%81%E5%B9%B4%E7%90%83%E8%BF%B7%E5%91%8A%E7%99%BD)
+4. [BLG斩KC连胜,ON神钩定乾坤](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368136&topic_name=BLG%E6%96%A9KC%E8%BF%9E%E8%83%9C%2CON%E7%A5%9E%E9%92%A9%E5%AE%9A%E4%B9%BE%E5%9D%A4)
+5. [留学遇失足学姐,吧友忆东京往事](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368032&topic_name=%E7%95%99%E5%AD%A6%E9%81%87%E5%A4%B1%E8%B6%B3%E5%AD%A6%E5%A7%90%2C%E5%90%A7%E5%8F%8B%E5%BF%86%E4%B8%9C%E4%BA%AC%E5%BE%80%E4%BA%8B)
+6. [表情包32强开撕,输的回家种田](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368043&topic_name=%E8%A1%A8%E6%83%85%E5%8C%8532%E5%BC%BA%E5%BC%80%E6%92%95%2C%E8%BE%93%E7%9A%84%E5%9B%9E%E5%AE%B6%E7%A7%8D%E7%94%B0)
+7. [两女生开无烟酒吧,150万打水漂](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368122&topic_name=%E4%B8%A4%E5%A5%B3%E7%94%9F%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%2C150%E4%B8%87%E6%89%93%E6%B0%B4%E6%BC%82)
+8. [AI被当真人,大肥鱼遭网恋哥骚扰](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0)
+9. [抗韩先锋!IG斩HLE于马下](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368027&topic_name=%E6%8A%97%E9%9F%A9%E5%85%88%E9%94%8B%21IG%E6%96%A9HLE%E4%BA%8E%E9%A9%AC%E4%B8%8B)
 10. [影之刃零评分解禁,质量稳了?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368029&topic_name=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E8%AF%84%E5%88%86%E8%A7%A3%E7%A6%81%2C%E8%B4%A8%E9%87%8F%E7%A8%B3%E4%BA%86%3F)
 11. [残局卖女友保装备,洲友惨遭分手](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368041&topic_name=%E6%AE%8B%E5%B1%80%E5%8D%96%E5%A5%B3%E5%8F%8B%E4%BF%9D%E8%A3%85%E5%A4%87%2C%E6%B4%B2%E5%8F%8B%E6%83%A8%E9%81%AD%E5%88%86%E6%89%8B)
 12. [大肥鱼闹智械危机?吧友打假](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368018&topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%97%B9%E6%99%BA%E6%A2%B0%E5%8D%B1%E6%9C%BA%3F%E5%90%A7%E5%8F%8B%E6%89%93%E5%81%87)
@@ -32,5 +32,5 @@
 26. [对线碾压,国人喊老外来贴吧进修](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368003&topic_name=%E5%AF%B9%E7%BA%BF%E7%A2%BE%E5%8E%8B%2C%E5%9B%BD%E4%BA%BA%E5%96%8A%E8%80%81%E5%A4%96%E6%9D%A5%E8%B4%B4%E5%90%A7%E8%BF%9B%E4%BF%AE)
 27. [B站肥鱼成灾,AI评论泛滥](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5)
 28. [美国女孩来华上学,英语考倒一](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368007&topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%9D%A5%E5%8D%8E%E4%B8%8A%E5%AD%A6%2C%E8%8B%B1%E8%AF%AD%E8%80%83%E5%80%92%E4%B8%80)
-29. [兵部尚书被冻死,女频剧情引激辩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368006&topic_name=%E5%85%B5%E9%83%A8%E5%B0%9A%E4%B9%A6%E8%A2%AB%E5%86%BB%E6%AD%BB%2C%E5%A5%B3%E9%A2%91%E5%89%A7%E6%83%85%E5%BC%95%E6%BF%80%E8%BE%A9)
-30. [老外来华买抗癌药,上演美版药神](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368001&topic_name=%E8%80%81%E5%A4%96%E6%9D%A5%E5%8D%8E%E4%B9%B0%E6%8A%97%E7%99%8C%E8%8D%AF%2C%E4%B8%8A%E6%BC%94%E7%BE%8E%E7%89%88%E8%8D%AF%E7%A5%9E)
+29. [老外来华买抗癌药,上演美版药神](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368001&topic_name=%E8%80%81%E5%A4%96%E6%9D%A5%E5%8D%8E%E4%B9%B0%E6%8A%97%E7%99%8C%E8%8D%AF%2C%E4%B8%8A%E6%BC%94%E7%BE%8E%E7%89%88%E8%8D%AF%E7%A5%9E)
+30. [兵部尚书被冻死,女频剧情引激辩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368006&topic_name=%E5%85%B5%E9%83%A8%E5%B0%9A%E4%B9%A6%E8%A2%AB%E5%86%BB%E6%AD%BB%2C%E5%A5%B3%E9%A2%91%E5%89%A7%E6%83%85%E5%BC%95%E6%BF%80%E8%BE%A9)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-27 09:27:42
+> 更新时间：2026-10-27 10:22:56
 
 ## 最新帖子
 
-1. [C#.NET源生成器作用域及“千人千面”](https://www.cnblogs.com/xiangji/p/23449620)
-2. [面了 50 个候选人，90% 都挂在 LeetCode 3 无重复字符的最长子串：滑动窗口的 5 个致命坑](https://www.cnblogs.com/zrui-xyu/p/23449480)
-3. [别再手动催 AI 干活了：一文读懂 Loop Engineering（循环工程）](https://www.cnblogs.com/codigger/p/23449293)
-4. [夯爆了！分享几个我在用的，基于业务场景接口串联测试Skill ！](https://www.cnblogs.com/jinjiangongzuoshi/p/23449240)
-5. [我花200美元用AI重写了纯C#高精度数学库：放大 10^290 倍也不糊](https://www.cnblogs.com/sdcb/p/23446780/20261027-arithmetic-pure-dotnet)
-6. [【重投】P1514 [NOIP 2010 提高组] 引水入城 笔记](https://www.cnblogs.com/CCCsuper/p/23449154)
-7. [MQTT实战 - .NET + MQTT生产级架构：从500个设备到50,000个设备（九）](https://www.cnblogs.com/hugogoos/p/23446857)
-8. [理解 iFrame 嵌套的跨域问题](https://www.cnblogs.com/jyzhao/p/23448833)
-9. [Qwen-Image2.1游戏素材工坊：把整套素材拼成"模拟游戏画面"逐张体检  （二）](https://www.cnblogs.com/wyang/p/23446801)
-10. [关于我在驱动orangepi-r1-plus-lts的i2c0接口时遇到的问题](https://www.cnblogs.com/lelecha/p/23446685)
-11. [角色拆部件与素材生产路线调研](https://www.cnblogs.com/fs7744/p/23446349)
-12. [AI 时代的 “房谋杜断”：如何培养能力、品味与判断力](https://www.cnblogs.com/rossiXYZ/p/23215893)
-13. [技术思考问题43：Kimi K3.1未开权重，敢上吗？](https://www.cnblogs.com/snidget/p/23445431)
-14. [最近公共祖先LCA，详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23444874)
-15. [cs336Assignment1 训练组件](https://www.cnblogs.com/CrescentWind/p/23444885)
-16. [Linux 大文件审计脚本：从“找到大文件”到“智能给出清理建议”](https://www.cnblogs.com/liuziyi1/p/23442505)
-17. [集合与索引类异常【C# Exception 详解系列（三）】](https://www.cnblogs.com/hnzhengfy/p/23369038/Exception_d3)
-18. [上周热点回顾（10.19-10.25）](https://www.cnblogs.com/cmt/p/23439339)
-19. [[随笔] 关于我在机房电脑（带有还原卡）安装Arch Linux一事](https://www.cnblogs.com/SilverGo/p/23439188)
-20. [为什么AI做的汇报PPT像地摊货？3步搭出老板认可的架构汇报](https://www.cnblogs.com/uniqueDong/p/23439090)
+1. [QuantLib 之外，衍生品定价还能怎么选？DolphinDB Monte Carlo + PDE 工具实测](https://www.cnblogs.com/DolphinDB/p/23450682)
+2. [分享一个MySQL/MariaDB/Percona全版本root密码重置工具](https://www.cnblogs.com/liuziyi1/p/23450092)
+3. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
+4. [C#.NET源生成器作用域及“千人千面”](https://www.cnblogs.com/xiangji/p/23449620)
+5. [面了 50 个候选人，90% 都挂在 LeetCode 3 无重复字符的最长子串：滑动窗口的 5 个致命坑](https://www.cnblogs.com/zrui-xyu/p/23449480)
+6. [别再手动催 AI 干活了：一文读懂 Loop Engineering（循环工程）](https://www.cnblogs.com/codigger/p/23449293)
+7. [夯爆了！分享几个我在用的，基于业务场景接口串联测试Skill ！](https://www.cnblogs.com/jinjiangongzuoshi/p/23449240)
+8. [我花200美元用AI重写了纯C#高精度数学库：放大 10^290 倍也不糊](https://www.cnblogs.com/sdcb/p/23446780/20261027-arithmetic-pure-dotnet)
+9. [【重投】P1514 [NOIP 2010 提高组] 引水入城 笔记](https://www.cnblogs.com/CCCsuper/p/23449154)
+10. [MQTT实战 - .NET + MQTT生产级架构：从500个设备到50,000个设备（九）](https://www.cnblogs.com/hugogoos/p/23446857)
+11. [理解 iFrame 嵌套的跨域问题](https://www.cnblogs.com/jyzhao/p/23448833)
+12. [Qwen-Image2.1游戏素材工坊：把整套素材拼成"模拟游戏画面"逐张体检  （二）](https://www.cnblogs.com/wyang/p/23446801)
+13. [关于我在驱动orangepi-r1-plus-lts的i2c0接口时遇到的问题](https://www.cnblogs.com/lelecha/p/23446685)
+14. [角色拆部件与素材生产路线调研](https://www.cnblogs.com/fs7744/p/23446349)
+15. [AI 时代的 “房谋杜断”：如何培养能力、品味与判断力](https://www.cnblogs.com/rossiXYZ/p/23215893)
+16. [技术思考问题43：Kimi K3.1未开权重，敢上吗？](https://www.cnblogs.com/snidget/p/23445431)
+17. [最近公共祖先LCA，详细讲解，蒟蒻也能看懂](https://www.cnblogs.com/Emoji-happy/p/23444874)
+18. [cs336Assignment1 训练组件](https://www.cnblogs.com/CrescentWind/p/23444885)
+19. [Linux 大文件审计脚本：从“找到大文件”到“智能给出清理建议”](https://www.cnblogs.com/liuziyi1/p/23442505)
+20. [集合与索引类异常【C# Exception 详解系列（三）】](https://www.cnblogs.com/hnzhengfy/p/23369038/Exception_d3)
 
 ## 精华帖子
 
