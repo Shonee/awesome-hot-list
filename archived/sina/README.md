@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-27 23:14:29
+> 更新时间：2026-10-28 00:12:04
 
 ## 新闻热榜
 
@@ -16,8 +16,8 @@
 10. [坚决抵制、零容忍！多家企业宣布终止与姆巴佩的全部合作，并在官方账号上删除与姆巴佩相关内容](https://news.sina.com.cn/c/2026-10-27/doc-iniwruyv4643739.shtml)
 11. [GDP十强省份最新排名出炉](https://news.sina.com.cn/c/2026-10-27/doc-iniwrzhw7071121.shtml)
 12. [姆巴佩栽了，栽得活该](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqr4493810.shtml)
-13. [蒙牛：终止与基利安·姆巴佩合作](https://news.sina.com.cn/c/2026-10-27/doc-iniwrqsu2138980.shtml)
-14. [姆巴佩遭数家中国公司解约品牌代言，外交部回应](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqt1292086.shtml)
+13. [姆巴佩遭数家中国公司解约品牌代言，外交部回应](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqt1292086.shtml)
+14. [蒙牛：终止与基利安·姆巴佩合作](https://news.sina.com.cn/c/2026-10-27/doc-iniwrqsu2138980.shtml)
 15. [[新浪彩票]足彩第26151期任九：多特主胜过关](https://sports.sina.com.cn/l/2026-10-27/doc-iniwrkmc1576495.shtml)
 16. [中纪委最新通报：1至9月，73名省部级及以上干部被立案](https://finance.sina.com.cn/wm/2026-10-27/doc-iniwrkkz4803827.shtml)
 17. [东鹏饮料集团：零容忍伤害民族感情行为，终止与姆巴佩全部合作](https://news.sina.com.cn/c/2026-10-27/doc-iniwrqsz1500037.shtml)
@@ -37,13 +37,13 @@
 8. [东鹏饮料集团：零容忍伤害民族感情行为，终止与姆巴佩全部合作](https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrqsv8850403.shtml)
 9. [300672，业绩暴增超5600%！10股业绩大增（附股）](https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrkkz4799495.shtml)
 10. [史上最大IPO要来了！7位创始人身家均超130亿美元](https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrkkz4793396.shtml)
-11. [刚刚 | 妙可蓝多、小红书声明！多家企业切割姆巴佩！](https://finance.sina.com.cn/wm/2026-10-27/doc-iniwruyt8878339.shtml)
+11. [外交部：对英国警方任意、过度执法行为表示强烈不满](https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrzhv1372563.shtml)
 12. [中金公司公告！重大资产重组，完成交割](https://finance.sina.com.cn/stock/zqgd/2026-10-27/doc-iniwrkkx8835907.shtml)
-13. [外交部：对英国警方任意、过度执法行为表示强烈不满](https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwrzhv1372563.shtml)
+13. [刚刚 | 妙可蓝多、小红书声明！多家企业切割姆巴佩！](https://finance.sina.com.cn/wm/2026-10-27/doc-iniwruyt8878339.shtml)
 14. [中证报：增量资金入市力度加大 A股具备较好投资吸引力](https://finance.sina.com.cn/stock/marketresearch/2026-10-27/doc-iniwreaz8962850.shtml)
 15. [操盘必读：影响股市利好或利空消息_2026年10月27日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-27/doc-iniwrkkx8844300.shtml)
 16. [多个品牌终止与姆巴佩合作！](https://finance.sina.com.cn/wm/2026-10-27/doc-iniwrqsu2138741.shtml)
 17. [媒体评姆巴佩涉华不当言论：“吃饭砸锅”，绝不能忍](https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwruyt8822481.shtml)
 18. [1000000美元！特朗普重金悬赏](https://finance.sina.com.cn/roll/2026-10-27/doc-iniwrkkw2067445.shtml)
 19. [拟10派10元、10派3元！A股龙头大手笔分红](https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwreay2170787.shtml)
-20. [财经早报丨美军已准备好再次大规模打击伊朗，巴西股市六年多来首次触发熔断机制丨2026年10月27日](https://finance.sina.com.cn/stock/y/2026-10-27/doc-iniwrkkz4793762.shtml)
+20. [“必须赔礼道歉，否则一切免谈”，央视总台要求皇马和姆巴佩公开道歉，并向总台递交书面道歉信](https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsmww0321434.shtml)
