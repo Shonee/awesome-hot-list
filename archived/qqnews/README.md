@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-27 14:20:56
+> 更新时间：2026-10-27 14:56:38
 
 ## 热点榜
 
@@ -14,13 +14,13 @@
 8. [多型武器织密防空“天网” 精准打击来犯“敌”机](https://view.inews.qq.com/a/20261027V05OWK00)
 9. [财经聚焦｜从前三季度用电量看经济发展新动能](https://view.inews.qq.com/a/20261026A0DZCH00)
 10. [渝昆高铁铺轨完成 这几个知识点值得了解](https://view.inews.qq.com/a/20261027A05LIJ00)
-11. [将有气旋撞击喜马拉雅山脉？中国气象局辟谣](https://view.inews.qq.com/a/20261026A056ZG00)
-12. [蒙牛：终止与姆巴佩的全部合作](https://view.inews.qq.com/a/20261027A05MKK00)
-13. [“本次集训不发新公文包”](https://view.inews.qq.com/a/20261027A03CJ900)
-14. [亮度堪比汽车大灯！电动自行车灯为何照得让人心慌？](https://view.inews.qq.com/a/20261027A03WDK00)
-15. [三星广告片“贴脸”嘲讽iPhone Duo：火药味十足](https://view.inews.qq.com/a/20261027A0397T00)
-16. [更加积极的财政政策发力提效——中国经济三季报亮点解析](https://view.inews.qq.com/a/20261026A02WYI00)
-17. [我国拟新增34家领航级智能工厂](https://view.inews.qq.com/a/20261027A007M200)
-18. [iPhone Duo拆解：最好修的折叠iPhone，就是别撕膜](https://view.inews.qq.com/a/20261027A04WDE00)
-19. [AL英雄联盟战队止步16强，发文致歉：这一次，就是我们没有做好](https://view.inews.qq.com/a/20261027A04AHT00)
-20. [新加坡从2029年起将法定退休年龄提至65岁，政府将推动更多灵活工作安排](https://view.inews.qq.com/a/20261027A0422600)
+11. [干冰能用来给人退烧降温？](https://view.inews.qq.com/a/20261027A04F4900)
+12. [央视已经全面叫停涉及姆巴佩的赛事和广告播出](https://view.inews.qq.com/a/20261027A08E0200)
+13. [29岁男子陪女友去医院，在女友劝说下顺带做了检查，B超结果一出当场懵了，确诊肾癌！医生：好在发现早，手术后保住了肾功能](https://view.inews.qq.com/a/20261027A05SVX00)
+14. [女子持美国驾照在南京开车被查，辩解“美国都认同我们中国驾照”，交警一点没惯着](https://view.inews.qq.com/a/20261027V058GL00)
+15. [韩国半年，从笑到哭](https://view.inews.qq.com/a/20261027A066IF00)
+16. [“本次集训不发新公文包”](https://view.inews.qq.com/a/20261027A03CJ900)
+17. [三星广告片“贴脸”嘲讽iPhone Duo：火药味十足](https://view.inews.qq.com/a/20261027A0397T00)
+18. [亮度堪比汽车大灯！电动自行车灯为何照得让人心慌？](https://view.inews.qq.com/a/20261027A03WDK00)
+19. [新加坡从2029年起将法定退休年龄提至65岁，政府将推动更多灵活工作安排](https://view.inews.qq.com/a/20261027A0422600)
+20. [蒙古国火灾风波发酵，日本外务省“麻木不仁”帖文招致批评](https://view.inews.qq.com/a/20261027A053BX00)
