@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-28 02:11:55
+> 更新时间：2026-10-28 03:09:13
 
 ## 股票人气榜
 
@@ -10,17 +10,17 @@
 4. [上海九百 (600838)](https://quote.eastmoney.com/sh600838.html)
 5. [国芳集团 (601086)](https://quote.eastmoney.com/sh601086.html)
 6. [多伦科技 (603528)](https://quote.eastmoney.com/sh603528.html)
-7. [华天科技 (002185)](https://quote.eastmoney.com/sz002185.html)
-8. [光洋股份 (002708)](https://quote.eastmoney.com/sz002708.html)
+7. [光洋股份 (002708)](https://quote.eastmoney.com/sz002708.html)
+8. [华天科技 (002185)](https://quote.eastmoney.com/sz002185.html)
 9. [新华百货 (600785)](https://quote.eastmoney.com/sh600785.html)
-10. [宇树科技-W (688836)](https://quote.eastmoney.com/sh688836.html)
-11. [广百股份 (002187)](https://quote.eastmoney.com/sz002187.html)
-12. [茂业商业 (600828)](https://quote.eastmoney.com/sh600828.html)
-13. [天娱数科 (002354)](https://quote.eastmoney.com/sz002354.html)
-14. [桂发祥 (002820)](https://quote.eastmoney.com/sz002820.html)
-15. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
-16. [深 赛 格 (000058)](https://quote.eastmoney.com/sz000058.html)
-17. [亚太股份 (002284)](https://quote.eastmoney.com/sz002284.html)
-18. [沪光股份 (605333)](https://quote.eastmoney.com/sh605333.html)
-19. [百大集团 (600865)](https://quote.eastmoney.com/sh600865.html)
-20. [国脉科技 (002093)](https://quote.eastmoney.com/sz002093.html)
+10. [广百股份 (002187)](https://quote.eastmoney.com/sz002187.html)
+11. [茂业商业 (600828)](https://quote.eastmoney.com/sh600828.html)
+12. [宇树科技-W (688836)](https://quote.eastmoney.com/sh688836.html)
+13. [桂发祥 (002820)](https://quote.eastmoney.com/sz002820.html)
+14. [深 赛 格 (000058)](https://quote.eastmoney.com/sz000058.html)
+15. [亚太股份 (002284)](https://quote.eastmoney.com/sz002284.html)
+16. [沪光股份 (605333)](https://quote.eastmoney.com/sh605333.html)
+17. [青岛食品 (001219)](https://quote.eastmoney.com/sz001219.html)
+18. [国脉科技 (002093)](https://quote.eastmoney.com/sz002093.html)
+19. [凯中精密 (002823)](https://quote.eastmoney.com/sz002823.html)
+20. [百大集团 (600865)](https://quote.eastmoney.com/sh600865.html)
