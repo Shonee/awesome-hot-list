@@ -1,13 +1,13 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-28 04:11:46
+> 更新时间：2026-10-28 05:08:43
 
 ## 股票人气榜
 
 1. [大洋电机 (002249)](https://quote.eastmoney.com/sz002249.html)
 2. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
-3. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
-4. [上海九百 (600838)](https://quote.eastmoney.com/sh600838.html)
+3. [上海九百 (600838)](https://quote.eastmoney.com/sh600838.html)
+4. [海洋王 (002724)](https://quote.eastmoney.com/sz002724.html)
 5. [国芳集团 (601086)](https://quote.eastmoney.com/sh601086.html)
 6. [多伦科技 (603528)](https://quote.eastmoney.com/sh603528.html)
 7. [光洋股份 (002708)](https://quote.eastmoney.com/sz002708.html)

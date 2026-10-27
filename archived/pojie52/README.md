@@ -1,17 +1,17 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-28 04:10:42
+> 更新时间：2026-10-28 05:08:11
 
 ## 人气热门
 
-1. [ios通话录音 提示音 移除工具](https://www.52pojie.cn/thread-2134044-1-1.html)
-2. [好价监控工具 Hprice v1.1.0](https://www.52pojie.cn/thread-2133663-1-1.html)
-3. [班级时钟1.0.0](https://www.52pojie.cn/thread-2134143-1-1.html)
-4. [远程桌面工具 HopToDesk v1.46.74](https://www.52pojie.cn/thread-2134305-1-1.html)
-5. [酷狗第三方客户端 MoeKoe Music v1.7.1](https://www.52pojie.cn/thread-2134158-1-1.html)
-6. [LAN快传 v1.0](https://www.52pojie.cn/thread-2134429-1-1.html)
-7. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
-8. [标准查新下载](https://www.52pojie.cn/thread-2134033-1-1.html)
+1. [标准查新下载](https://www.52pojie.cn/thread-2134033-1-1.html)
+2. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
+3. [ios通话录音 提示音 移除工具](https://www.52pojie.cn/thread-2134044-1-1.html)
+4. [好价监控工具 Hprice v1.1.0](https://www.52pojie.cn/thread-2133663-1-1.html)
+5. [班级时钟1.0.0](https://www.52pojie.cn/thread-2134143-1-1.html)
+6. [远程桌面工具 HopToDesk v1.46.74](https://www.52pojie.cn/thread-2134305-1-1.html)
+7. [酷狗第三方客户端 MoeKoe Music v1.7.1](https://www.52pojie.cn/thread-2134158-1-1.html)
+8. [LAN快传 v1.0](https://www.52pojie.cn/thread-2134429-1-1.html)
 9. [中国香烟博物馆v1.0.0](https://www.52pojie.cn/thread-2134196-1-1.html)
 10. [轻量截图软件 SnowAir Lite v0.1.11](https://www.52pojie.cn/thread-2132560-1-1.html)
 11. [耳机监听器&#128226;V1.5.3  可听取手机周边的声音](https://www.52pojie.cn/thread-2133224-1-1.html)
