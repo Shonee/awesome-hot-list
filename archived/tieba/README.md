@@ -1,17 +1,17 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-27 18:41:39
+> 更新时间：2026-10-27 19:12:59
 
 ## 最有料热点
 
-1. [皇马吧声明](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368164&topic_name=%E7%9A%87%E9%A9%AC%E5%90%A7%E5%A3%B0%E6%98%8E)
+1. [皇马等30个吧发布抵制声明](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368164&topic_name=%E7%9A%87%E9%A9%AC%E7%AD%8930%E4%B8%AA%E5%90%A7%E5%8F%91%E5%B8%83%E6%8A%B5%E5%88%B6%E5%A3%B0%E6%98%8E)
 2. [姆巴佩辱华,金主集体切割](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368151&topic_name=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BE%B1%E5%8D%8E%2C%E9%87%91%E4%B8%BB%E9%9B%86%E4%BD%93%E5%88%87%E5%89%B2)
 3. [out!姆巴佩曾暴力肘击门将](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368153&topic_name=out%21%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%9B%BE%E6%9A%B4%E5%8A%9B%E8%82%98%E5%87%BB%E9%97%A8%E5%B0%86)
 4. [5924票!Hope位列背锅榜第一](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368170&topic_name=5924%E7%A5%A8%21Hope%E4%BD%8D%E5%88%97%E8%83%8C%E9%94%85%E6%A6%9C%E7%AC%AC%E4%B8%80)
-5. [冤家路窄,TES生死战BLG](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368147&topic_name=%E5%86%A4%E5%AE%B6%E8%B7%AF%E7%AA%84%2CTES%E7%94%9F%E6%AD%BB%E6%88%98BLG)
-6. [耻辱!AL全败告别S16](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368137&topic_name=%E8%80%BB%E8%BE%B1%21AL%E5%85%A8%E8%B4%A5%E5%91%8A%E5%88%ABS16)
-7. [图吧垃圾佬](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367998&topic_name=%E5%9B%BE%E5%90%A7%E5%9E%83%E5%9C%BE%E4%BD%AC)
-8. [表情包32强开撕,输的回家种田](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368043&topic_name=%E8%A1%A8%E6%83%85%E5%8C%8532%E5%BC%BA%E5%BC%80%E6%92%95%2C%E8%BE%93%E7%9A%84%E5%9B%9E%E5%AE%B6%E7%A7%8D%E7%94%B0)
+5. [表情包大赛,滑稽出征寸草不生](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368171&topic_name=%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E8%B5%9B%2C%E6%BB%91%E7%A8%BD%E5%87%BA%E5%BE%81%E5%AF%B8%E8%8D%89%E4%B8%8D%E7%94%9F)
+6. [冤家路窄,TES生死战BLG](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368147&topic_name=%E5%86%A4%E5%AE%B6%E8%B7%AF%E7%AA%84%2CTES%E7%94%9F%E6%AD%BB%E6%88%98BLG)
+7. [耻辱!AL全败告别S16](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368137&topic_name=%E8%80%BB%E8%BE%B1%21AL%E5%85%A8%E8%B4%A5%E5%91%8A%E5%88%ABS16)
+8. [图吧垃圾佬](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367998&topic_name=%E5%9B%BE%E5%90%A7%E5%9E%83%E5%9C%BE%E4%BD%AC)
 9. [凯恩荣膺金球,十年球迷告白](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368144&topic_name=%E5%87%AF%E6%81%A9%E8%8D%A3%E8%86%BA%E9%87%91%E7%90%83%2C%E5%8D%81%E5%B9%B4%E7%90%83%E8%BF%B7%E5%91%8A%E7%99%BD)
 10. [舰R铃兰大王离世,吧友痛别](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368150&topic_name=%E8%88%B0R%E9%93%83%E5%85%B0%E5%A4%A7%E7%8E%8B%E7%A6%BB%E4%B8%96%2C%E5%90%A7%E5%8F%8B%E7%97%9B%E5%88%AB)
 11. [胶佬炫技,高达爆改房车](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368174&topic_name=%E8%83%B6%E4%BD%AC%E7%82%AB%E6%8A%80%2C%E9%AB%98%E8%BE%BE%E7%88%86%E6%94%B9%E6%88%BF%E8%BD%A6)
@@ -33,4 +33,3 @@
 27. [网友自制性转马尔福同人游戏](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368024&topic_name=%E7%BD%91%E5%8F%8B%E8%87%AA%E5%88%B6%E6%80%A7%E8%BD%AC%E9%A9%AC%E5%B0%94%E7%A6%8F%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F)
 28. [火鸡面配薯片,新型赛博灯泡?](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368023&topic_name=%E7%81%AB%E9%B8%A1%E9%9D%A2%E9%85%8D%E8%96%AF%E7%89%87%2C%E6%96%B0%E5%9E%8B%E8%B5%9B%E5%8D%9A%E7%81%AF%E6%B3%A1%3F)
 29. [日网友不识Steam,出警批盗版](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368014&topic_name=%E6%97%A5%E7%BD%91%E5%8F%8B%E4%B8%8D%E8%AF%86Steam%2C%E5%87%BA%E8%AD%A6%E6%89%B9%E7%9B%97%E7%89%88)
-30. [央视批AI魔改经典名著](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97)

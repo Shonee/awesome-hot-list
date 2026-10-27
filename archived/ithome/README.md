@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-27 18:13:06
+> 更新时间：2026-10-27 19:12:46
 
 ## 日榜
 
@@ -10,9 +10,9 @@
 4. [苹果 iPad mini（A20 Pro）仅 512GB 机型配备 6 核中央处理器、双 16 核神经网络引擎](https://www.ithome.com/1/018/169.htm)
 5. [iPad Pro 级配置下放：苹果 iPad mini （A20 Pro）配备自适应原彩闪光灯](https://www.ithome.com/1/018/179.htm)
 6. [苹果详解 iPad mini（A20 Pro）全新 Acoustic Display 声学显示屏：低音扬声器可通过屏幕协同发声](https://www.ithome.com/1/018/161.htm)
-7. [消息称明年国产 TOP5 厂商都会上阔直板新机，目前全部立项完成](https://www.ithome.com/1/018/093.htm)
-8. [反诈博主“徽剑”被曝 2 年前遭买凶遇害，曾公开举报陈志犯罪集团重要骨干成员刘忍](https://www.ithome.com/1/018/321.htm)
-9. [苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机](https://www.ithome.com/1/018/196.htm)
-10. [比亚迪第三代秦 PLUS DM-i 上市：综合续航 2290km，限时 7.69 万-9.79 万元](https://www.ithome.com/1/018/348.htm)
-11. [苹果 iOS / iPadOS 27.2 正式版发布：增强 Siri AI，更新 Apple Music 品牌视觉](https://www.ithome.com/1/018/187.htm)
+7. [反诈博主“徽剑”被曝 2 年前遭买凶遇害，曾公开举报陈志犯罪集团重要骨干成员刘忍](https://www.ithome.com/1/018/321.htm)
+8. [苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机](https://www.ithome.com/1/018/196.htm)
+9. [比亚迪第三代秦 PLUS DM-i 上市：综合续航 2290km，限时 7.69 万-9.79 万元](https://www.ithome.com/1/018/348.htm)
+10. [苹果 iOS / iPadOS 27.2 正式版发布：增强 Siri AI，更新 Apple Music 品牌视觉](https://www.ithome.com/1/018/187.htm)
+11. [知情人士：DeepSeek 大举扩充团队，梁文锋长期在北京租房](https://www.ithome.com/1/018/339.htm)
 12. [苹果 iOS 27.2 更新汇总：增强 Siri AI，调整 Apple Music 品牌视觉等](https://www.ithome.com/1/018/218.htm)
