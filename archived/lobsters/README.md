@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-27 14:58:22
+> 更新时间：2026-10-27 15:47:22
 
 ## Hottest
 
@@ -11,11 +11,11 @@
 5. [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 6. [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
 7. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
-8. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-9. [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
+8. [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
+9. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 10. [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
-11. [The passkey is worse](https://www.kcoleman.me/2026/10/22/hacked.html)
-12. [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
+11. [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
+12. [The passkey is worse](https://www.kcoleman.me/2026/10/22/hacked.html)
 13. [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
 14. [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
 15. [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)

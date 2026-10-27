@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-27 14:56:29
+> 更新时间：2026-10-27 15:46:17
 
 ## 最新帖子
 
-1. [从 GLM 到 GPT，HarnessPro 如何用 RSI 降低 Agent 成本](https://www.cnblogs.com/Qiniu-developer/p/23453403)
-2. [新计划：《GGUF 量化内幕：块量化、K-quants、码本与三值量化》](https://www.cnblogs.com/apachecn/p/23453394)
-3. [编译器工具链：GCC、Clang、MSVC、ICC、armclang](https://www.cnblogs.com/zw-awa/p/23453004)
-4. [[随笔] 续：在机房安装Arch Linux到外置硬盘（此为教程篇）](https://www.cnblogs.com/SilverGo/p/23452891)
-5. [一把空锁卡死整个服务：虚拟线程 pinning 问题实战](https://www.cnblogs.com/wsss/p/23452291)
-6. [AI 编程助手为什么跑偏？用开源 ccglass 看清 Prompt、工具调用和 Token 消耗](https://www.cnblogs.com/houleixx/p/23451682)
-7. [AI基础](https://www.cnblogs.com/liurui12138/p/23451073)
-8. [QuantLib 之外，衍生品定价还能怎么选？DolphinDB Monte Carlo + PDE 工具实测](https://www.cnblogs.com/DolphinDB/p/23450682)
-9. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
-10. [C#.NET源生成器作用域及“千人千面”](https://www.cnblogs.com/xiangji/p/23449620)
-11. [面了 50 个候选人，90% 都挂在 LeetCode 3 无重复字符的最长子串：滑动窗口的 5 个致命坑](https://www.cnblogs.com/zrui-xyu/p/23449480)
-12. [别再手动催 AI 干活了：一文读懂 Loop Engineering（循环工程）](https://www.cnblogs.com/codigger/p/23449293)
-13. [我花200美元用AI重写了纯C#高精度数学库：放大 10^290 倍也不糊](https://www.cnblogs.com/sdcb/p/23446780/20261027-arithmetic-pure-dotnet)
-14. [【重投】P1514 [NOIP 2010 提高组] 引水入城 笔记](https://www.cnblogs.com/CCCsuper/p/23449154)
-15. [MQTT实战 - .NET + MQTT生产级架构：从500个设备到50,000个设备（九）](https://www.cnblogs.com/hugogoos/p/23446857)
-16. [理解 iFrame 嵌套的跨域问题](https://www.cnblogs.com/jyzhao/p/23448833)
-17. [Qwen-Image2.1游戏素材工坊：把整套素材拼成"模拟游戏画面"逐张体检  （二）](https://www.cnblogs.com/wyang/p/23446801)
-18. [关于我在驱动orangepi-r1-plus-lts的i2c0接口时遇到的问题](https://www.cnblogs.com/lelecha/p/23446685)
-19. [角色拆部件与素材生产路线调研](https://www.cnblogs.com/fs7744/p/23446349)
-20. [AI 时代的 “房谋杜断”：如何培养能力、品味与判断力](https://www.cnblogs.com/rossiXYZ/p/23215893)
+1. [Zvec v0.8.0 正式发布](https://www.cnblogs.com/DashVector/p/23455210)
+2. [接入 McpFramework 让任意 .NET 程序被 Agent 遥控](https://www.cnblogs.com/MrHuo/p/23455164/mcp-framework)
+3. [一份声明，多份产物：飞书 SDK 的 AI 工具面是怎么生成的](https://www.cnblogs.com/mudtools/p/23455113)
+4. [从 GLM 到 GPT，HarnessPro 如何用 RSI 降低 Agent 成本](https://www.cnblogs.com/Qiniu-developer/p/23453403)
+5. [新计划：《GGUF 量化内幕：块量化、K-quants、码本与三值量化》](https://www.cnblogs.com/apachecn/p/23453394)
+6. [编译器工具链：GCC、Clang、MSVC、ICC、armclang](https://www.cnblogs.com/zw-awa/p/23453004)
+7. [[随笔] 续：在机房安装Arch Linux到外置硬盘（此为教程篇）](https://www.cnblogs.com/SilverGo/p/23452891)
+8. [一把空锁卡死整个服务：虚拟线程 pinning 问题实战](https://www.cnblogs.com/wsss/p/23452291)
+9. [AI 编程助手为什么跑偏？用开源 ccglass 看清 Prompt、工具调用和 Token 消耗](https://www.cnblogs.com/houleixx/p/23451682)
+10. [AI基础](https://www.cnblogs.com/liurui12138/p/23451073)
+11. [QuantLib 之外，衍生品定价还能怎么选？DolphinDB Monte Carlo + PDE 工具实测](https://www.cnblogs.com/DolphinDB/p/23450682)
+12. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
+13. [C#.NET源生成器作用域及“千人千面”](https://www.cnblogs.com/xiangji/p/23449620)
+14. [面了 50 个候选人，90% 都挂在 LeetCode 3 无重复字符的最长子串：滑动窗口的 5 个致命坑](https://www.cnblogs.com/zrui-xyu/p/23449480)
+15. [别再手动催 AI 干活了：一文读懂 Loop Engineering（循环工程）](https://www.cnblogs.com/codigger/p/23449293)
+16. [我花200美元用AI重写了纯C#高精度数学库：放大 10^290 倍也不糊](https://www.cnblogs.com/sdcb/p/23446780/20261027-arithmetic-pure-dotnet)
+17. [【重投】P1514 [NOIP 2010 提高组] 引水入城 笔记](https://www.cnblogs.com/CCCsuper/p/23449154)
+18. [MQTT实战 - .NET + MQTT生产级架构：从500个设备到50,000个设备（九）](https://www.cnblogs.com/hugogoos/p/23446857)
+19. [理解 iFrame 嵌套的跨域问题](https://www.cnblogs.com/jyzhao/p/23448833)
+20. [Qwen-Image2.1游戏素材工坊：把整套素材拼成"模拟游戏画面"逐张体检  （二）](https://www.cnblogs.com/wyang/p/23446801)
 
 ## 精华帖子
 
