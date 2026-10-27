@@ -1,23 +1,23 @@
 # Stack Overflow热榜
 
-> 更新时间：2026-10-27 20:20:58
+> 更新时间：2026-10-27 20:53:35
 
 ## 热门问题
 
 1. [Why does a CSS Grid item overflow its column when it contains a long URL?](https://stackoverflow.com/questions/80012836/why-does-a-css-grid-item-overflow-its-column-when-it-contains-a-long-url)
 2. [UVM_WARNING : map ‘reg_map’ does not seem to be initialized correctly, check that the top register model is locked()](https://stackoverflow.com/questions/80012795/uvm-warning-map-reg-map-does-not-seem-to-be-initialized-correctly-check-tha)
 3. [Does std::weak_ptr prevent memory release because it owns the control block?](https://stackoverflow.com/questions/80012796/does-stdweak-ptr-prevent-memory-release-because-it-owns-the-control-block)
-4. [How can I add a “A Closer Look” video to my iOS app’s App Store listing?](https://stackoverflow.com/questions/80012779/how-can-i-add-a-a-closer-look-video-to-my-ios-app-s-app-store-listing)
-5. [Need help for this problem : STM32G070 – PB15 GPIO input always reads LOW with internal pull-up enabled](https://stackoverflow.com/questions/80012776/need-help-for-this-problem-stm32g070-pb15-gpio-input-always-reads-low-with-i)
-6. [How to calculate storage and data transfer costs per repository in GCP Artifact Registry?](https://stackoverflow.com/questions/80012816/how-to-calculate-storage-and-data-transfer-costs-per-repository-in-gcp-artifact)
+4. [Need help for this problem : STM32G070 – PB15 GPIO input always reads LOW with internal pull-up enabled](https://stackoverflow.com/questions/80012776/need-help-for-this-problem-stm32g070-pb15-gpio-input-always-reads-low-with-i)
+5. [How to calculate storage and data transfer costs per repository in GCP Artifact Registry?](https://stackoverflow.com/questions/80012816/how-to-calculate-storage-and-data-transfer-costs-per-repository-in-gcp-artifact)
+6. [How can I add a “A Closer Look” video to my iOS app’s App Store listing?](https://stackoverflow.com/questions/80012779/how-can-i-add-a-a-closer-look-video-to-my-ios-app-s-app-store-listing)
 7. [How to avoid rendering delays when switching from text to dynamic selects?](https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects)
 8. [TYPO3 13.x BE user permissions upload allowed file extensions](https://stackoverflow.com/questions/80012797/typo3-13-x-be-user-permissions-upload-allowed-file-extensions)
 9. [Why does MSVC STL std::expected explicitly delete the copy assignment/constructor after defining them](https://stackoverflow.com/questions/80012761/why-does-msvc-stl-stdexpected-explicitly-delete-the-copy-assignment-constructo)
 10. [Does it make sense to perform the following micro-optimization in a *for* loop?](https://stackoverflow.com/questions/80012724/does-it-make-sense-to-perform-the-following-micro-optimization-in-a-for-loop)
 11. [error loading model: unknown model architecture: 'mllama'](https://stackoverflow.com/questions/80012768/error-loading-model-unknown-model-architecture-mllama)
 12. [How do I take two points and find a new point that'd be R amount closer to the second point?](https://stackoverflow.com/questions/80012754/how-do-i-take-two-points-and-find-a-new-point-thatd-be-r-amount-closer-to-the-s)
-13. [Changing array representation without copy](https://stackoverflow.com/questions/80012742/changing-array-representation-without-copy)
-14. [An uppercase JDBC column label fails on lowercase column name in the database](https://stackoverflow.com/questions/80012741/an-uppercase-jdbc-column-label-fails-on-lowercase-column-name-in-the-database)
+13. [An uppercase JDBC column label fails on lowercase column name in the database](https://stackoverflow.com/questions/80012741/an-uppercase-jdbc-column-label-fails-on-lowercase-column-name-in-the-database)
+14. [Changing array representation without copy](https://stackoverflow.com/questions/80012742/changing-array-representation-without-copy)
 15. [MSTest test classes and methods disappeared from testing side bar in VS Code](https://stackoverflow.com/questions/80012752/mstest-test-classes-and-methods-disappeared-from-testing-side-bar-in-vs-code)
 16. [How do i move a wxwidgets Frame partially off screen via code](https://stackoverflow.com/questions/80012730/how-do-i-move-a-wxwidgets-frame-partially-off-screen-via-code)
 17. [C++: Calling another contructor in the initialization list](https://stackoverflow.com/questions/80012757/c-calling-another-contructor-in-the-initialization-list)
