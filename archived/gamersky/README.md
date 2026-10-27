@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-27 12:14:34
+> 更新时间：2026-10-27 13:12:33
 
 ## 热点资讯排行
 
@@ -18,4 +18,4 @@
 12. [《影之刃零》OC站开分91！TGA年度大奖提名预定](https://www.gamersky.com/news/202610/2234659.shtml)
 13. [《影之刃零》M站开分88！](https://www.gamersky.com/news/202610/2234657.shtml)
 14. [85寸大电视跌破3000元!高端电视崩盘：等等党赢麻了?](https://www.gamersky.com/news/202610/2234501.shtml)
-15. [女巨人新作《Giantess Metropolis》公布](https://www.gamersky.com/news/202610/2234500.shtml)
+15. [《英雄联盟》首届S赛冠军打野去世 年仅31岁](https://www.gamersky.com/news/202610/2235341.shtml)
