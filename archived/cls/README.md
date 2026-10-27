@@ -1,19 +1,19 @@
 # 财联社热榜
 
-> 更新时间：2026-10-27 08:31:55
+> 更新时间：2026-10-27 09:56:05
 
 ## 热门文章
 
 1. [【早报】科技股回暖，美股全线上涨；国际油价，从六个月高点回落；药明康德、中信证券发布三季报](https://www.cls.cn/detail/2515908)
 2. [美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨](https://www.cls.cn/detail/2515881)
 3. [苹果回应iPhone Duo内屏开裂：大多数设备不受影响，用户可联系AppleCare换机](https://www.cls.cn/detail/2515848)
-4. [美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点](https://www.cls.cn/detail/2515639)
+4. [又一家万亿券商！中金“三合一”交割落地，财富版图改写在即](https://www.cls.cn/detail/2515931)
 5. [卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场](https://www.cls.cn/detail/2515893)
-6. [微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算](https://www.cls.cn/detail/2515838)
-7. [又一家万亿券商！中金“三合一”交割落地，财富版图改写在即](https://www.cls.cn/detail/2515931)
-8. [Anthropic招股书来了：近一年10万美元+营收客户超11900家](https://www.cls.cn/detail/2515772)
-9. [晚期子宫内膜癌患者生存期延长近7个月！默沙东ADC三期完整数据出炉](https://www.cls.cn/detail/2515826)
-10. [徐晰人入主未满两年 北大医药再易主  “烂摊子”如何收拾？](https://www.cls.cn/detail/2515898)
-11. [苹果发布新款iPad mini：OLED屏+A20 Pro加持，国行5499元起](https://www.cls.cn/detail/2515797)
-12. [Meta拟融资950亿美元  为AI基础设施和“超级智能”筹钱](https://www.cls.cn/detail/2515690)
-13. [美俄达成柴油供应协议后 俄罗斯炼油企业据称提高产量](https://www.cls.cn/detail/2515730)
+6. [主动权益“年内翻倍基”怎么清零了？如何看这一现象？](https://www.cls.cn/detail/2515963)
+7. [10月27日投资避雷针：福莱新材、宇树科技等机器人概念股密集提示风险](https://www.cls.cn/detail/2515947)
+8. [微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算](https://www.cls.cn/detail/2515838)
+9. [7只主动ETF触顶20亿！两天募集253亿，最快本周入市建仓](https://www.cls.cn/detail/2515980)
+10. [Anthropic招股书来了：近一年10万美元+营收客户超11900家](https://www.cls.cn/detail/2515772)
+11. [徐晰人入主未满两年 北大医药再易主  “烂摊子”如何收拾？](https://www.cls.cn/detail/2515898)
+12. [本周不加息？美联储决议前“喉舌”重磅放风！](https://www.cls.cn/detail/2516009)
+13. [美联储本周决议将风平浪静？高盛预测：不会加息、也不会释放重大新信号](https://www.cls.cn/detail/2515977)
