@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-27 16:46:59
+> 更新时间：2026-10-27 18:12:49
 
 ## 24 小时热榜
 
@@ -10,8 +10,8 @@
 4. [长鑫存储拒绝苹果低价采购要求 优先推进中国内存自主化布局](https://readhub.cn/topic/8xX149CytLO?tab=daily)
 5. [央视曝光：AI 生成视频已可逃过人脸识别系统](https://readhub.cn/topic/8xX8zfVf9Bw?tab=daily)
 6. [大疆针对北京地区消费级无人机推出专属托管服务](https://readhub.cn/topic/8xXaRyMrqvF?tab=daily)
-7. [网传 Seedance 核心研发负责人周畅离职，字节否认](https://readhub.cn/topic/8xXQ8o2khAN?tab=daily)
-8. [腾讯绿泡泡短剧小程序月活过亿，10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
+7. [腾讯绿泡泡短剧小程序月活过亿，10 月首周周活环比增 44.1%](https://readhub.cn/topic/8xXe004CQ64?tab=daily)
+8. [网传 Seedance 核心研发负责人周畅离职，字节否认](https://readhub.cn/topic/8xXQ8o2khAN?tab=daily)
 9. [老干妈称 AI 裁员传闻不实，线上销售额受影响下跌](https://readhub.cn/topic/8xVU33GgxRY?tab=daily)
 10. [东鹏饮料集团：终止与基利安・姆巴佩合作](https://readhub.cn/topic/8xYjbQ6jtre?tab=daily)
 11. [妙可蓝多：终止与姆巴佩的全部合作](https://readhub.cn/topic/8xYtDklUswb?tab=daily)
@@ -23,17 +23,17 @@
 17. [自媒体人徽剑遭买凶遇害，生前曾举报电诈骨干刘忍](https://readhub.cn/topic/8xYdoSlOuQH?tab=daily)
 18. [险资三季度持仓曝光 新进二十七股前十大股东](https://readhub.cn/topic/8xYX1XFzEOp?tab=daily)
 19. [圣邦股份拟 8.33 亿元收购申矽凌 58.2878% 股份](https://readhub.cn/topic/8xXiI9baSfj?tab=daily)
-20. [iPhone Duo 开售即现大面积裂屏 苹果售后提供换新](https://readhub.cn/topic/8xX0LtAyssP?tab=daily)
+20. [央视全面叫停涉及姆巴佩的赛事播出及相关广告](https://readhub.cn/topic/8xZ3EDytzIM?tab=daily)
 21. [OpenAI 推出 GPT-6.1 Terra，电脑操作提速逾 3 倍 API 价降 50%](https://readhub.cn/topic/8xYD0cQF1j9?tab=daily)
 22. [阿里腾讯百度等入股快手旗下可灵 AI](https://readhub.cn/topic/8xX7s65U9tI?tab=daily)
 23. [小红书：与姆巴佩内容合作已于 2024 年底结束，正核查下架相关物料](https://readhub.cn/topic/8xYuGtRNxPd?tab=daily)
 24. [苹果发布 iOS 27.2，Siri AI 新增多语言，支持 Apple Pencil USB-C](https://readhub.cn/topic/8xYERUxOJ2v?tab=daily)
 25. [自曝财产被冻结 百合网创始人慕岩在朋友圈「化缘」](https://readhub.cn/topic/8xYXjpkPpi5?tab=daily)
-26. [30 省份前三季度经济数据出炉 十强格局生变](https://readhub.cn/topic/8xXz4slsHh8?tab=daily)
-27. [菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏](https://readhub.cn/topic/8xYfyqol6hu?tab=daily)
-28. [Anthropic 七位创始人身家均超 130 亿美元](https://readhub.cn/topic/8xYHfx8zQBT?tab=daily)
-29. [雷鸟 iO+ 首次曝光：第四代双目全彩 AI 眼镜即将登场](https://readhub.cn/topic/8xYr2AZ8x6l?tab=daily)
-30. [小米首个员工住宅项目「光谷梦享家」正式开盘](https://readhub.cn/topic/8xYpyNzlJBL?tab=daily)
+26. [菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏](https://readhub.cn/topic/8xYfyqol6hu?tab=daily)
+27. [30 省份前三季度经济数据出炉 十强格局生变](https://readhub.cn/topic/8xXz4slsHh8?tab=daily)
+28. [小米首个员工住宅项目「光谷梦享家」正式开盘](https://readhub.cn/topic/8xYpyNzlJBL?tab=daily)
+29. [DeepSeek 正大举扩充团队 梁文锋长期在北京租房](https://readhub.cn/topic/8xYtAxsvsFn?tab=daily)
+30. [Anthropic 七位创始人身家均超 130 亿美元](https://readhub.cn/topic/8xYHfx8zQBT?tab=daily)
 
 ## 每日早报
 

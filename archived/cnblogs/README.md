@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-27 17:14:35
+> 更新时间：2026-10-27 18:12:38
 
 ## 最新帖子
 
-1. [企业智能知识库 Python 后端实战：FastAPI + RAG + KAG 企业级 AI 项目](https://www.cnblogs.com/12lisu/p/23456904)
-2. [LLM & Agent 刷题路线图上线](https://www.cnblogs.com/labuladong/p/23456910)
-3. [企业级内网DNS实战：用 dnsmasq 搭个内网 DNS](https://www.cnblogs.com/gloamfox/p/23456507)
-4. [大厂程序员写 AI 编程半年来，我的 3 次认知推翻与 1 次生存顿悟](https://www.cnblogs.com/uniqueDong/p/23455856)
-5. [Windows 下用 win-acme 申请 Let's Encrypt 通配符证书并部署到 Nginx、Java（保姆级教程）](https://www.cnblogs.com/huanzi-qch/p/23455584)
-6. [Zvec v0.8.0 正式发布](https://www.cnblogs.com/DashVector/p/23455210)
-7. [接入 McpFramework 让任意 .NET 程序被 Agent 遥控](https://www.cnblogs.com/MrHuo/p/23455164/mcp-framework)
-8. [一份声明，多份产物：飞书 SDK 的 AI 工具面是怎么生成的](https://www.cnblogs.com/mudtools/p/23455113)
-9. [从 GLM 到 GPT，HarnessPro 如何用 RSI 降低 Agent 成本](https://www.cnblogs.com/Qiniu-developer/p/23453403)
-10. [新计划：《GGUF 量化内幕：块量化、K-quants、码本与三值量化》](https://www.cnblogs.com/apachecn/p/23453394)
-11. [编译器工具链：GCC、Clang、MSVC、ICC、armclang](https://www.cnblogs.com/zw-awa/p/23453004)
-12. [[随笔] 续：在机房安装Arch Linux到外置硬盘（此为教程篇）](https://www.cnblogs.com/SilverGo/p/23452891)
-13. [一把空锁卡死整个服务：虚拟线程 pinning 问题实战](https://www.cnblogs.com/wsss/p/23452291)
-14. [AI 编程助手为什么跑偏？用开源 ccglass 看清 Prompt、工具调用和 Token 消耗](https://www.cnblogs.com/houleixx/p/23451682)
-15. [AI基础](https://www.cnblogs.com/liurui12138/p/23451073)
-16. [QuantLib 之外，衍生品定价还能怎么选？DolphinDB Monte Carlo + PDE 工具实测](https://www.cnblogs.com/DolphinDB/p/23450682)
-17. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
-18. [C#.NET源生成器作用域及“千人千面”](https://www.cnblogs.com/xiangji/p/23449620)
-19. [面了 50 个候选人，90% 都挂在 LeetCode 3 无重复字符的最长子串：滑动窗口的 5 个致命坑](https://www.cnblogs.com/zrui-xyu/p/23449480)
-20. [别再手动催 AI 干活了：一文读懂 Loop Engineering（循环工程）](https://www.cnblogs.com/codigger/p/23449293)
+1. [RAG（检索增强生成）、推理（Inference）、嵌入（Embedding）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23440918/RAG_Inference_Embedding)
+2. [我们给测试团队做了一套「AI 测试搭子」：从需求评审到压测报告，8 个 Agent Skill 全链路打通](https://www.cnblogs.com/becks/p/23457265)
+3. [LLM & Agent 刷题路线图上线](https://www.cnblogs.com/labuladong/p/23456910)
+4. [企业级内网DNS实战：用 dnsmasq 搭个内网 DNS](https://www.cnblogs.com/gloamfox/p/23456507)
+5. [大厂程序员写 AI 编程半年来，我的 3 次认知推翻与 1 次生存顿悟](https://www.cnblogs.com/uniqueDong/p/23455856)
+6. [Windows 下用 win-acme 申请 Let's Encrypt 通配符证书并部署到 Nginx、Java（保姆级教程）](https://www.cnblogs.com/huanzi-qch/p/23455584)
+7. [Zvec v0.8.0 正式发布](https://www.cnblogs.com/DashVector/p/23455210)
+8. [接入 McpFramework 让任意 .NET 程序被 Agent 遥控](https://www.cnblogs.com/MrHuo/p/23455164/mcp-framework)
+9. [一份声明，多份产物：飞书 SDK 的 AI 工具面是怎么生成的](https://www.cnblogs.com/mudtools/p/23455113)
+10. [从 GLM 到 GPT，HarnessPro 如何用 RSI 降低 Agent 成本](https://www.cnblogs.com/Qiniu-developer/p/23453403)
+11. [新计划：《GGUF 量化内幕：块量化、K-quants、码本与三值量化》](https://www.cnblogs.com/apachecn/p/23453394)
+12. [编译器工具链：GCC、Clang、MSVC、ICC、armclang](https://www.cnblogs.com/zw-awa/p/23453004)
+13. [[随笔] 续：在机房安装Arch Linux到外置硬盘（此为教程篇）](https://www.cnblogs.com/SilverGo/p/23452891)
+14. [一把空锁卡死整个服务：虚拟线程 pinning 问题实战](https://www.cnblogs.com/wsss/p/23452291)
+15. [AI 编程助手为什么跑偏？用开源 ccglass 看清 Prompt、工具调用和 Token 消耗](https://www.cnblogs.com/houleixx/p/23451682)
+16. [AI基础](https://www.cnblogs.com/liurui12138/p/23451073)
+17. [QuantLib 之外，衍生品定价还能怎么选？DolphinDB Monte Carlo + PDE 工具实测](https://www.cnblogs.com/DolphinDB/p/23450682)
+18. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
+19. [C#.NET源生成器作用域及“千人千面”](https://www.cnblogs.com/xiangji/p/23449620)
+20. [面了 50 个候选人，90% 都挂在 LeetCode 3 无重复字符的最长子串：滑动窗口的 5 个致命坑](https://www.cnblogs.com/zrui-xyu/p/23449480)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
 2. [40岁的打工人应该怎样思考工作、赚钱和生活](https://www.cnblogs.com/BlogOfHarryFu/p/23432616)
-3. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
-4. [我花200美元用AI重写了纯C#高精度数学库：放大 10^290 倍也不糊](https://www.cnblogs.com/sdcb/p/23446780/20261027-arithmetic-pure-dotnet)
+3. [我花200美元用AI重写了纯C#高精度数学库：放大 10^290 倍也不糊](https://www.cnblogs.com/sdcb/p/23446780/20261027-arithmetic-pure-dotnet)
+4. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
 5. [一个人 + AI：66 天，从空目录到生产环境 —— P2P 内网穿透产品开发复盘（附全自动编程方法论）](https://www.cnblogs.com/zhuxiaoxiao/p/23432906)
 6. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
