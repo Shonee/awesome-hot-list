@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-28 01:09:24
+> 更新时间：2026-10-28 02:11:38
 
 ## 热新闻
 
@@ -10,17 +10,17 @@
 4. [姆巴佩：我向所有被我的言论所伤害的人道歉](https://www.thepaper.cn/newsDetail_forward_34344268)
 5. [言短意长｜为什么相声演员也接不住一声“杨老五”](https://www.thepaper.cn/newsDetail_forward_34341562)
 6. [马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人](https://www.thepaper.cn/newsDetail_forward_34336116)
-7. [马上评｜反诈博主“徽剑”遭买凶杀害，电诈不除绝不收兵](https://www.thepaper.cn/newsDetail_forward_34340749)
-8. [受贿4.36亿余元，证监会原党委委员王会民一审被判死缓](https://www.thepaper.cn/newsDetail_forward_34343115)
-9. [苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线](https://www.thepaper.cn/newsDetail_forward_34342933)
+7. [苹果iOS更新，国行限制“摇一摇”跳转广告功能正式上线](https://www.thepaper.cn/newsDetail_forward_34342933)
+8. [马上评｜反诈博主“徽剑”遭买凶杀害，电诈不除绝不收兵](https://www.thepaper.cn/newsDetail_forward_34340749)
+9. [受贿4.36亿余元，证监会原党委委员王会民一审被判死缓](https://www.thepaper.cn/newsDetail_forward_34343115)
 10. [蒙牛：终止与姆巴佩的全部合作，对伤害中国人民感情的言行坚决抵制](https://www.thepaper.cn/newsDetail_forward_34341057)
-11. [以色列今日大选：内塔尼亚胡生存战、“10.7”问责与国家方向之争](https://www.thepaper.cn/newsDetail_forward_34334408)
-12. [广电总局发布新规：要求有线电视、网络电视实现开机看全屏直播功能](https://www.thepaper.cn/newsDetail_forward_34341810)
-13. [【社论】开机即看直播，为电视行业立好规矩](https://www.thepaper.cn/newsDetail_forward_34342913)
-14. [环球时报：姆巴佩栽了，栽得活该](https://www.thepaper.cn/newsDetail_forward_34343145)
-15. [如果程序员可以用AI写代码，作者为什么不能用AI写文章？](https://www.thepaper.cn/newsDetail_forward_34273979)
-16. [广东汕头澄海区通报“多人踩断莲阳大桥管道落水”：3人落水其中1人已无生命体征](https://www.thepaper.cn/newsDetail_forward_34341055)
-17. [2026胡润百富榜：张一鸣身家6700亿创新高再成中国首富，雷军财富缩水1570亿](https://www.thepaper.cn/newsDetail_forward_34341348)
-18. [德国总统抵达安徽开启访华行程](https://www.thepaper.cn/newsDetail_forward_34337024)
+11. [中国足协回应姆巴佩涉华错误言论：要求涉事球员和皇马俱乐部公开正式道歉](https://www.thepaper.cn/newsDetail_forward_34344391)
+12. [以色列今日大选：内塔尼亚胡生存战、“10.7”问责与国家方向之争](https://www.thepaper.cn/newsDetail_forward_34334408)
+13. [广电总局发布新规：要求有线电视、网络电视实现开机看全屏直播功能](https://www.thepaper.cn/newsDetail_forward_34341810)
+14. [【社论】开机即看直播，为电视行业立好规矩](https://www.thepaper.cn/newsDetail_forward_34342913)
+15. [环球时报：姆巴佩栽了，栽得活该](https://www.thepaper.cn/newsDetail_forward_34343145)
+16. [如果程序员可以用AI写代码，作者为什么不能用AI写文章？](https://www.thepaper.cn/newsDetail_forward_34273979)
+17. [广东汕头澄海区通报“多人踩断莲阳大桥管道落水”：3人落水其中1人已无生命体征](https://www.thepaper.cn/newsDetail_forward_34341055)
+18. [2026胡润百富榜：张一鸣身家6700亿创新高再成中国首富，雷军财富缩水1570亿](https://www.thepaper.cn/newsDetail_forward_34341348)
 19. [前瞻｜通胀形势不乐观、中期选举临近，美联储本周四或按兵不动：12月再加息？](https://www.thepaper.cn/newsDetail_forward_34341866)
-20. [75%的以色列“首投族”自认是右翼或“中右”，新生代选民对大选影响几何？](https://www.thepaper.cn/newsDetail_forward_34341063)
+20. [“小天才”手表争议背后：如何为被“圈住”的童年解绑](https://www.thepaper.cn/newsDetail_forward_34343488)
