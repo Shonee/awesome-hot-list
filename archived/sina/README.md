@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-28 06:09:13
+> 更新时间：2026-10-28 07:08:17
 
 ## 新闻热榜
 
 1. [姆巴佩三语致歉：我的言论欠妥，这绝非我本意 我真心感到抱歉](https://news.sina.com.cn/c/2026-10-27/doc-iniwsmwu3780237.shtml)
-2. [市场消息：俄外交部表示，俄罗斯已禁止七名英国军工企业高管入境，这些企业向基辅政权供应武器和军事技术。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6919455.shtml)
-3. [消息人士：自10月中旬无人机袭击停止以来，俄罗斯炼油厂原油加工量增长了25%。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnq3694595.shtml)
-4. [姆巴佩遭数家中国公司解约品牌代言，外交部回应](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqt1292086.shtml)
-5. [GDP十强省份最新排名出炉](https://news.sina.com.cn/c/2026-10-27/doc-iniwrzhw7071121.shtml)
-6. [特朗普重申石油正从霍尔木兹海峡运出。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtiah6708417.shtml)
-7. [谷歌推出Genie 4世界模型，原生支持音频。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtaun3585631.shtml)
-8. [俄罗斯总统普京与卡塔尔埃米尔举行双边会晤。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6935343.shtml)
-9. [通用汽车：计划上市混合动力SUV。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtauk6808470.shtml)
-10. [UPS首席执行官表示，GLP-1相关需求正在提振公司医疗保健业务。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtiah6708292.shtml)
-11. [国际油价27日下跌](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtauk6831684.shtml)
-12. [“必须赔礼道歉，否则一切免谈”，央视总台要求皇马和姆巴佩公开道歉，并向总台递交书面道歉信](https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsmww0321434.shtml)
-13. [姆巴佩栽了，栽得活该](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqr4493810.shtml)
-14. [俄罗斯总统普京开始与伊朗总统佩泽希齐扬举行双边会晤。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6915376.shtml)
-15. [A股指数今起迎重要调整，对投资者有何影响？](https://finance.sina.com.cn/stock/roll/2026-10-26/doc-iniwqarp9285414.shtml)
-16. [美国五年期国债收益率在拍卖后上涨1.11个基点，报4.835%。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6935952.shtml)
-17. [自媒体人“徽剑”疑似遇害前最后一条朋友圈曝光，发布次日即被假警察带走](https://news.sina.com.cn/c/2026-10-27/doc-iniwrzht4608790.shtml)
-18. [非法收受财物4.36亿余元 王会民一审被判死缓](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqu6995475.shtml)
-19. [俄罗斯总统新闻秘书佩斯科夫：普京同斯图布、斯特勒的通话在特定情况下可能会影响阿布扎比会谈的进程，但目前下定论尚早。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6912900.shtml)
-20. [圭亚那官方数据：9月石油产量达到90.6万桶/日。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtaun3596888.shtml)
+2. [姆巴佩遭数家中国公司解约品牌代言，外交部回应](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqt1292086.shtml)
+3. [GDP十强省份最新排名出炉](https://news.sina.com.cn/c/2026-10-27/doc-iniwrzhw7071121.shtml)
+4. [市场消息：俄外交部表示，俄罗斯已禁止七名英国军工企业高管入境，这些企业向基辅政权供应武器和军事技术。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6919455.shtml)
+5. [消息人士：自10月中旬无人机袭击停止以来，俄罗斯炼油厂原油加工量增长了25%。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnq3694595.shtml)
+6. [姆巴佩栽了，栽得活该](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqr4493810.shtml)
+7. [非法收受财物4.36亿余元 王会民一审被判死缓](https://news.sina.com.cn/c/2026-10-27/doc-iniwsfqu6995475.shtml)
+8. [“必须赔礼道歉，否则一切免谈”，央视总台要求皇马和姆巴佩公开道歉，并向总台递交书面道歉信](https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsmww0321434.shtml)
+9. [自媒体人“徽剑”疑似遇害前最后一条朋友圈曝光，发布次日即被假警察带走](https://news.sina.com.cn/c/2026-10-27/doc-iniwrzht4608790.shtml)
+10. [特朗普重申石油正从霍尔木兹海峡运出。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtiah6708417.shtml)
+11. [谷歌推出Genie 4世界模型，原生支持音频。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtaun3585631.shtml)
+12. [通用汽车：计划上市混合动力SUV。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtauk6808470.shtml)
+13. [俄罗斯总统普京与卡塔尔埃米尔举行双边会晤。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6935343.shtml)
+14. [UPS首席执行官表示，GLP-1相关需求正在提振公司医疗保健业务。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtiah6708292.shtml)
+15. [国际油价27日下跌](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwtauk6831684.shtml)
+16. [俄罗斯总统普京开始与伊朗总统佩泽希齐扬举行双边会晤。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6915376.shtml)
+17. [A股指数今起迎重要调整，对投资者有何影响？](https://finance.sina.com.cn/stock/roll/2026-10-26/doc-iniwqarp9285414.shtml)
+18. [美国五年期国债收益率在拍卖后上涨1.11个基点，报4.835%。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6935952.shtml)
+19. [黄仁勋“盯上了”哈萨克斯坦](https://news.sina.com.cn/o/2026-10-27/doc-iniwrzhy3822444.shtml)
+20. [俄罗斯总统新闻秘书佩斯科夫：普京同斯图布、斯特勒的通话在特定情况下可能会影响阿布扎比会谈的进程，但目前下定论尚早。](https://finance.sina.com.cn/7x24/2026-10-28/doc-iniwswnn6912900.shtml)
 
 ## 财经热榜
 

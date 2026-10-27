@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-28 06:08:48
+> 更新时间：2026-10-28 07:08:03
 
 ## 热门文章
 
@@ -29,9 +29,9 @@
 23. [Kimi K3.1 Pro 编程实测：3个月27万行代码，每年1.7万预算下如何9分钟修好顽固Bug](https://juejin.cn/post/7700627964493447210)
 24. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
 25. [workbuddy和codebuddy免费送1000积分, 10秒钟搞定](https://juejin.cn/post/7700090632083767346)
-26. [AI 会干掉 React Native 吗？](https://juejin.cn/post/7700822035409928246)
-27. [我让 4 个 AI 互相 review 代码，最温柔的那个下手最狠](https://juejin.cn/post/7700798335889031183)
-28. [模型吐出半截JSON，前端如何边收边渲染？2026年AI应用必须闯过的工程关](https://juejin.cn/post/7700510231650844715)
+26. [模型吐出半截JSON，前端如何边收边渲染？2026年AI应用必须闯过的工程关](https://juejin.cn/post/7700510231650844715)
+27. [AI 会干掉 React Native 吗？](https://juejin.cn/post/7700822035409928246)
+28. [我让 4 个 AI 互相 review 代码，最温柔的那个下手最狠](https://juejin.cn/post/7700798335889031183)
 29. [GitHub 日榜趋势速报 | 2026-10-26](https://juejin.cn/post/7700194552506466331)
 30. [AIOps（一）：基于 Prometheus MCP + WorkBuddy 构建 AI 智能运维](https://juejin.cn/post/7700054147283157028)
 31. [doc2docx方案，开源！](https://juejin.cn/post/7700603865700663336)
@@ -47,10 +47,10 @@
 41. [Claude Code vs Codex：Computer Use 实现原理深度拆解](https://juejin.cn/post/7700850888098594870)
 42. [别再迷信 OCR 专用小模型：8 个 7B 以下 VLM 实测，抽取 JSON 结构还得靠通用选手](https://juejin.cn/post/7700440792791449610)
 43. [10 个值得关注的 GitHub Agent Skills：让 AI 编程从“能写”走向“会做”](https://juejin.cn/post/7700377150851760128)
-44. [你的Flutter项目要不要紧急升级3.47.8？](https://juejin.cn/post/7700796727406968859)
-45. [北漂 13 年，我把 Java 家底钉成了这张知识图谱（全站免费）](https://juejin.cn/post/7700647882441867305)
-46. [APP 人脸识别增值版 SDK：Camera2 无缝接入指南](https://juejin.cn/post/7700601438522785843)
-47. [AI 生成的图，为什么一眼就能看出是 AI？5 个破绽](https://juejin.cn/post/7700985536521551914)
+44. [AI 生成的图，为什么一眼就能看出是 AI？5 个破绽](https://juejin.cn/post/7700985536521551914)
+45. [你的Flutter项目要不要紧急升级3.47.8？](https://juejin.cn/post/7700796727406968859)
+46. [北漂 13 年，我把 Java 家底钉成了这张知识图谱（全站免费）](https://juejin.cn/post/7700647882441867305)
+47. [APP 人脸识别增值版 SDK：Camera2 无缝接入指南](https://juejin.cn/post/7700601438522785843)
 48. [这6个小模型各有绝活, 且都可cpu/浏览器端运行](https://juejin.cn/post/7700891028165984265)
 49. [GitHub 日榜趋势速报 | 2026-10-27](https://juejin.cn/post/7700857041943904282)
 50. [从零手搓 RAG 之 Embedding 技术](https://juejin.cn/post/7700764385023180810)
