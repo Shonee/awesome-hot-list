@@ -1,12 +1,12 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-27 13:13:13
+> 更新时间：2026-10-27 14:22:18
 
 ## Hottest
 
 1. [Shitty Screenshare](http://shittyscreenshare.com)
-2. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
-3. [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+2. [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+3. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 4. [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 5. [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 6. [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
@@ -23,9 +23,9 @@
 17. [(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers](https://www.youtube.com/watch?v=mZfJ-sulqQs)
 18. [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
 19. [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
-20. [From impulse purchase to pocket studio: The M-Vave FM-1](https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/)
-21. [writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
+20. [writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
+21. [From impulse purchase to pocket studio: The M-Vave FM-1](https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/)
 22. [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
 23. [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
-24. [Vim Classic](https://vim-classic.org/)
-25. [The Small Web Is Huge](https://archive.org/download/small_web/11787-48384.mp4)
+24. [The Small Web Is Huge](https://archive.org/download/small_web/11787-48384.mp4)
+25. [Vim Classic](https://vim-classic.org/)

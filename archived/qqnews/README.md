@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-27 13:12:24
+> 更新时间：2026-10-27 14:20:56
 
 ## 热点榜
 
@@ -19,8 +19,8 @@
 13. [“本次集训不发新公文包”](https://view.inews.qq.com/a/20261027A03CJ900)
 14. [亮度堪比汽车大灯！电动自行车灯为何照得让人心慌？](https://view.inews.qq.com/a/20261027A03WDK00)
 15. [三星广告片“贴脸”嘲讽iPhone Duo：火药味十足](https://view.inews.qq.com/a/20261027A0397T00)
-16. [iPhone Duo拆解：最好修的折叠iPhone，就是别撕膜](https://view.inews.qq.com/a/20261027A04WDE00)
-17. [AL英雄联盟战队止步16强，发文致歉：这一次，就是我们没有做好](https://view.inews.qq.com/a/20261027A04AHT00)
-18. [新加坡从2029年起将法定退休年龄提至65岁，政府将推动更多灵活工作安排](https://view.inews.qq.com/a/20261027A0422600)
-19. [蒙古国火灾风波发酵，日本外务省“麻木不仁”帖文招致批评](https://view.inews.qq.com/a/20261027A053BX00)
-20. [又一家万亿券商来了！中金公司“三合一”重组完成交割](https://view.inews.qq.com/a/20261027A03G5E00)
+16. [更加积极的财政政策发力提效——中国经济三季报亮点解析](https://view.inews.qq.com/a/20261026A02WYI00)
+17. [我国拟新增34家领航级智能工厂](https://view.inews.qq.com/a/20261027A007M200)
+18. [iPhone Duo拆解：最好修的折叠iPhone，就是别撕膜](https://view.inews.qq.com/a/20261027A04WDE00)
+19. [AL英雄联盟战队止步16强，发文致歉：这一次，就是我们没有做好](https://view.inews.qq.com/a/20261027A04AHT00)
+20. [新加坡从2029年起将法定退休年龄提至65岁，政府将推动更多灵活工作安排](https://view.inews.qq.com/a/20261027A0422600)
