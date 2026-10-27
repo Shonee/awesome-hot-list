@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-27 23:41:41
+> 更新时间：2026-10-28 01:09:23
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [小红书：与姆巴佩内容合作已于 2024 年底结束，正核查下架相关物料](https://readhub.cn/topic/8xYuGtRNxPd?tab=daily)
 10. [阿里腾讯百度等入股快手旗下可灵 AI](https://readhub.cn/topic/8xX7s65U9tI?tab=daily)
 11. [DeepSeek 正大举扩充团队 梁文锋长期在北京租房](https://readhub.cn/topic/8xYtAxsvsFn?tab=daily)
-12. [苹果发布 iOS 27.2，Siri AI 新增多语言，支持 Apple Pencil USB-C](https://readhub.cn/topic/8xYERUxOJ2v?tab=daily)
-13. [小米首个员工住宅项目「光谷梦享家」正式开盘](https://readhub.cn/topic/8xYpyNzlJBL?tab=daily)
+12. [小米首个员工住宅项目「光谷梦享家」正式开盘](https://readhub.cn/topic/8xYpyNzlJBL?tab=daily)
+13. [苹果发布 iOS 27.2，Siri AI 新增多语言，支持 Apple Pencil USB-C](https://readhub.cn/topic/8xYERUxOJ2v?tab=daily)
 14. [自曝财产被冻结 百合网创始人慕岩在朋友圈「化缘」](https://readhub.cn/topic/8xYXjpkPpi5?tab=daily)
 15. [菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏](https://readhub.cn/topic/8xYfyqol6hu?tab=daily)
 16. [30 省份前三季度经济数据出炉 十强格局生变](https://readhub.cn/topic/8xXz4slsHh8?tab=daily)
 17. [Anthropic 七位创始人身家均超 130 亿美元](https://readhub.cn/topic/8xYHfx8zQBT?tab=daily)
 18. [雷鸟 iO+ 首次曝光：第四代双目全彩 AI 眼镜即将登场](https://readhub.cn/topic/8xYr2AZ8x6l?tab=daily)
-19. [比亚迪仰望超豪华行政旗舰轿车定名为「鼎曜」](https://readhub.cn/topic/8xZ3CIAl6Pg?tab=daily)
-20. [Jeff Dean 投的公司出相关成果：不用反向传播也能预训练 Transformer](https://readhub.cn/topic/8xXNv3DzWfZ?tab=daily)
-21. [苹果为 14 英寸 MacBook Pro 推出 M6 芯片版本，15999 元起](https://readhub.cn/topic/8xZVPn3gBM1?tab=daily)
-22. [蒙牛乳业：终止与姆巴佩的全部合作](https://readhub.cn/topic/8xYot5y5t5E?tab=daily)
-23. [2026 胡润百富榜发布 张一鸣 6700 亿元第二次成为中国首富](https://readhub.cn/topic/8xYn7Vfm3vU?tab=daily)
-24. [苹果同步推送两款 macOS 旧版系统更新 主打安全修复](https://readhub.cn/topic/8xYAVXFS7rR?tab=daily)
+19. [苹果为 14 英寸 MacBook Pro 推出 M6 芯片版本，15999 元起](https://readhub.cn/topic/8xZVPn3gBM1?tab=daily)
+20. [比亚迪仰望超豪华行政旗舰轿车定名为「鼎曜」](https://readhub.cn/topic/8xZ3CIAl6Pg?tab=daily)
+21. [蒙牛乳业：终止与姆巴佩的全部合作](https://readhub.cn/topic/8xYot5y5t5E?tab=daily)
+22. [Jeff Dean 投的公司出相关成果：不用反向传播也能预训练 Transformer](https://readhub.cn/topic/8xXNv3DzWfZ?tab=daily)
+23. [苹果同步推送两款 macOS 旧版系统更新 主打安全修复](https://readhub.cn/topic/8xYAVXFS7rR?tab=daily)
+24. [2026 胡润百富榜发布 张一鸣 6700 亿元第二次成为中国首富](https://readhub.cn/topic/8xYn7Vfm3vU?tab=daily)
 25. [张坤旗下基金三季报披露：新进重仓新易盛 白酒持仓减少](https://readhub.cn/topic/8xZ2ppqs6Ix?tab=daily)
 26. [蚂蚁灵光 2.0 发布：AI 从「任务执行者」走向「事务管理者」](https://readhub.cn/topic/8xYioeBy2uG?tab=daily)
 27. [Anthropic 算力布局曝光：已签约算力约 11GW 英伟达占 42%](https://readhub.cn/topic/8xYbJ25M6Zt?tab=daily)
 28. [Soul 将推出 Loxinity，为自研语音、视觉与多模态交互产品](https://readhub.cn/topic/8xYi7sLLKSW?tab=daily)
-29. [微信输入法「AI 录音笔」上线 支持多端同步与好友分享](https://readhub.cn/topic/8xZ51ZP8Wrx?tab=daily)
-30. [贾跃亭：FFR 完成 FFAI 机器人业务合并 正式挂牌上市](https://readhub.cn/topic/8xY44iYfY1l?tab=daily)
+29. [贾跃亭：FFR 完成 FFAI 机器人业务合并 正式挂牌上市](https://readhub.cn/topic/8xY44iYfY1l?tab=daily)
+30. [南非女作家借 AI 约 20 个月出版 371 本书引争议，自称年收入超百万美元](https://readhub.cn/topic/8xZEHjiPgGP?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [AI 设计抗癌药进入人体试验：122 名患者接受治疗，部分脑转移病灶出现缩小](https://www.mittrchina.com/news/detail/17152)
-2. [百度发布并开源文心 Unlimited OCR 2，实现任意页数文档解析](https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html)
-3. [安全研究员利用生成式 AI 挖掘 PS5 高危漏洞获索尼 33 万元奖励](https://www.aibase.com/zh/news/31896)
-4. [15999 元起 苹果全新 14 英寸 MacBook Pro 发布：搭载 M6 芯片](https://news.mydrivers.com/1/1161/1161091.htm)
-5. [AI 算力初创公司 General Compute 完成 1 亿美元 A 轮融资，投后估值 8 亿美元](https://www.theblockbeats.info/flash/373987)
-6. [AI 算力需求挤爆先进封装产能 传台积电拟涨价 10-20%，英伟达、苹果成本承压](https://finance.jrj.com.cn/2026/10/27210958896267.shtml)
-7. [纯国产算力跑出星火 X2.6：刘庆峰直言「小米加步枪」硬刚封锁，端侧模型成破局关键](https://www.aibase.com/zh/news/31906)
-8. [蚂蚁灵光 2.0 发布：从能聊会做，到记得住、盯得牢、办得了](https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html)
-9. [腾讯混元开源同声传译大模型 Hy-SimulMT：延迟低于人类译员，质量比肩专业口译](https://www.aibase.com/zh/news/31882)
-10. [千问办公接入乐奇 AI 眼镜，一句话发起任务](https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html)
+1. [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+2. [AI 设计抗癌药进入人体试验：122 名患者接受治疗，部分脑转移病灶出现缩小](https://www.mittrchina.com/news/detail/17152)
+3. [Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench)
+4. [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)
+5. [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/)
+6. [穆迪：AI 融资推动私人信贷增长，再融资风险上升](https://www.theblockbeats.info/flash/374019)
+7. [百度发布并开源文心 Unlimited OCR 2，实现任意页数文档解析](https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html)
+8. [安全研究员利用生成式 AI 挖掘 PS5 高危漏洞获索尼 33 万元奖励](https://www.aibase.com/zh/news/31896)
+9. [蚂蚁百灵开源 Ling-3.1 增强版，560B 预训练底座同步放出](https://www.theblockbeats.info/flash/373993)
+10. [15999 元起 苹果全新 14 英寸 MacBook Pro 发布：搭载 M6 芯片](https://news.mydrivers.com/1/1161/1161091.htm)

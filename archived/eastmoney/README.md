@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-28 00:37:16
+> 更新时间：2026-10-28 01:09:40
 
 ## 股票人气榜
 
@@ -18,9 +18,9 @@
 12. [雪人集团 (002639)](https://quote.eastmoney.com/sz002639.html)
 13. [广百股份 (002187)](https://quote.eastmoney.com/sz002187.html)
 14. [茂业商业 (600828)](https://quote.eastmoney.com/sh600828.html)
-15. [百大集团 (600865)](https://quote.eastmoney.com/sh600865.html)
-16. [桂发祥 (002820)](https://quote.eastmoney.com/sz002820.html)
+15. [桂发祥 (002820)](https://quote.eastmoney.com/sz002820.html)
+16. [百大集团 (600865)](https://quote.eastmoney.com/sh600865.html)
 17. [亚太股份 (002284)](https://quote.eastmoney.com/sz002284.html)
-18. [沪光股份 (605333)](https://quote.eastmoney.com/sh605333.html)
-19. [深 赛 格 (000058)](https://quote.eastmoney.com/sz000058.html)
+18. [深 赛 格 (000058)](https://quote.eastmoney.com/sz000058.html)
+19. [沪光股份 (605333)](https://quote.eastmoney.com/sh605333.html)
 20. [赛福天 (603028)](https://quote.eastmoney.com/sh603028.html)

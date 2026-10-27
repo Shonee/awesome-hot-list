@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-28 00:37:49
+> 更新时间：2026-10-28 01:10:13
 
 ## Hottest
 
@@ -10,22 +10,22 @@
 4. [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 5. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 6. [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
-7. [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
-8. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+7. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+8. [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
 9. [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 10. [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 11. [Full Haskell-like Type Class resolution in Java](https://garciat.com/posts/java-type-classes/)
 12. [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
-13. [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
-14. [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
-15. [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
-16. [slughorn — GPU Vector Graphics](https://slughorn.io/)
-17. [TypeScript and Haskell: Unions & Singletons (2024)](https://garciat.com/posts/haskell-union-types/)
+13. [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
+14. [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
+15. [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
+16. [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
+17. [slughorn — GPU Vector Graphics](https://slughorn.io/)
 18. [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
-19. [Keyless Entry: Hacking SwitchBot Smart Locks](https://neodyme.io/en/blog/switchbot)
-20. [A select should tell you something](https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html)
-21. [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
-22. [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
-23. [What are you doing this week?](https://lobste.rs/s/xxdda9)
-24. [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
-25. [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
+19. [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
+20. [TypeScript and Haskell: Unions & Singletons (2024)](https://garciat.com/posts/haskell-union-types/)
+21. [Keyless Entry: Hacking SwitchBot Smart Locks](https://neodyme.io/en/blog/switchbot)
+22. [A select should tell you something](https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html)
+23. [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
+24. [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
+25. [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)

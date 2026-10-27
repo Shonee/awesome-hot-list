@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-28 00:11:58
+> 更新时间：2026-10-28 01:09:24
 
 ## 热新闻
 
@@ -17,10 +17,10 @@
 11. [以色列今日大选：内塔尼亚胡生存战、“10.7”问责与国家方向之争](https://www.thepaper.cn/newsDetail_forward_34334408)
 12. [广电总局发布新规：要求有线电视、网络电视实现开机看全屏直播功能](https://www.thepaper.cn/newsDetail_forward_34341810)
 13. [【社论】开机即看直播，为电视行业立好规矩](https://www.thepaper.cn/newsDetail_forward_34342913)
-14. [如果程序员可以用AI写代码，作者为什么不能用AI写文章？](https://www.thepaper.cn/newsDetail_forward_34273979)
-15. [广东汕头澄海区通报“多人踩断莲阳大桥管道落水”：3人落水其中1人已无生命体征](https://www.thepaper.cn/newsDetail_forward_34341055)
-16. [2026胡润百富榜：张一鸣身家6700亿创新高再成中国首富，雷军财富缩水1570亿](https://www.thepaper.cn/newsDetail_forward_34341348)
-17. [德国总统抵达安徽开启访华行程](https://www.thepaper.cn/newsDetail_forward_34337024)
-18. [75%的以色列“首投族”自认是右翼或“中右”，新生代选民对大选影响几何？](https://www.thepaper.cn/newsDetail_forward_34341063)
+14. [环球时报：姆巴佩栽了，栽得活该](https://www.thepaper.cn/newsDetail_forward_34343145)
+15. [如果程序员可以用AI写代码，作者为什么不能用AI写文章？](https://www.thepaper.cn/newsDetail_forward_34273979)
+16. [广东汕头澄海区通报“多人踩断莲阳大桥管道落水”：3人落水其中1人已无生命体征](https://www.thepaper.cn/newsDetail_forward_34341055)
+17. [2026胡润百富榜：张一鸣身家6700亿创新高再成中国首富，雷军财富缩水1570亿](https://www.thepaper.cn/newsDetail_forward_34341348)
+18. [德国总统抵达安徽开启访华行程](https://www.thepaper.cn/newsDetail_forward_34337024)
 19. [前瞻｜通胀形势不乐观、中期选举临近，美联储本周四或按兵不动：12月再加息？](https://www.thepaper.cn/newsDetail_forward_34341866)
-20. [人物｜失去儿子与两名侄子，他挑战内塔尼亚胡想“拯救”以色列](https://www.thepaper.cn/newsDetail_forward_34339691)
+20. [75%的以色列“首投族”自认是右翼或“中右”，新生代选民对大选影响几何？](https://www.thepaper.cn/newsDetail_forward_34341063)
