@@ -1,6 +1,6 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-28 05:08:43
+> 更新时间：2026-10-28 06:09:25
 
 ## 股票人气榜
 
@@ -23,4 +23,4 @@
 17. [亚太股份 (002284)](https://quote.eastmoney.com/sz002284.html)
 18. [凯中精密 (002823)](https://quote.eastmoney.com/sz002823.html)
 19. [赛福天 (603028)](https://quote.eastmoney.com/sh603028.html)
-20. [峨眉山Ａ (000888)](https://quote.eastmoney.com/sz000888.html)
+20. [百大集团 (600865)](https://quote.eastmoney.com/sh600865.html)
