@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-10-27 10:23:47
+> 更新时间：2026-10-27 16:47:20
 
 ## Trending Models
 
@@ -13,14 +13,14 @@
 7. [MiniMaxAI/MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash)
 8. [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF)
 9. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-10. [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)
+10. [InternScience/Sage-A1.5](https://huggingface.co/InternScience/Sage-A1.5)
 11. [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)
-12. [InternScience/Sage-A1.5](https://huggingface.co/InternScience/Sage-A1.5)
+12. [OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)
 13. [unsloth/flint-GGUF](https://huggingface.co/unsloth/flint-GGUF)
 14. [fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)
 15. [Comfy-Org/MOSS-Image](https://huggingface.co/Comfy-Org/MOSS-Image)
-16. [dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8)
-17. [orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF](https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF)
-18. [HuggingFaceBio/Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X)
-19. [OpenMOSS-Team/MOSS-Image-Base](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base)
-20. [Comfy-Org/Fibo-2.0](https://huggingface.co/Comfy-Org/Fibo-2.0)
+16. [orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF](https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF)
+17. [HuggingFaceBio/Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X)
+18. [Comfy-Org/Fibo-2.0](https://huggingface.co/Comfy-Org/Fibo-2.0)
+19. [dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8)
+20. [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)
