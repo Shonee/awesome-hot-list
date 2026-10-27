@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-28 03:08:36
+> 更新时间：2026-10-28 04:10:48
 
 ## 热新闻
 
@@ -13,10 +13,10 @@
 7. [马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人](https://www.thepaper.cn/newsDetail_forward_34336116)
 8. [马上评｜反诈博主“徽剑”遭买凶杀害，电诈不除绝不收兵](https://www.thepaper.cn/newsDetail_forward_34340749)
 9. [受贿4.36亿余元，证监会原党委委员王会民一审被判死缓](https://www.thepaper.cn/newsDetail_forward_34343115)
-10. [蒙牛：终止与姆巴佩的全部合作，对伤害中国人民感情的言行坚决抵制](https://www.thepaper.cn/newsDetail_forward_34341057)
-11. [中国足协回应姆巴佩涉华错误言论：要求涉事球员和皇马俱乐部公开正式道歉](https://www.thepaper.cn/newsDetail_forward_34344391)
-12. [以色列今日大选：内塔尼亚胡生存战、“10.7”问责与国家方向之争](https://www.thepaper.cn/newsDetail_forward_34334408)
-13. [广电总局发布新规：要求有线电视、网络电视实现开机看全屏直播功能](https://www.thepaper.cn/newsDetail_forward_34341810)
+10. [中国足协回应姆巴佩涉华错误言论：要求涉事球员和皇马俱乐部公开正式道歉](https://www.thepaper.cn/newsDetail_forward_34344391)
+11. [蒙牛：终止与姆巴佩的全部合作，对伤害中国人民感情的言行坚决抵制](https://www.thepaper.cn/newsDetail_forward_34341057)
+12. [广电总局发布新规：要求有线电视、网络电视实现开机看全屏直播功能](https://www.thepaper.cn/newsDetail_forward_34341810)
+13. [以色列今日大选：内塔尼亚胡生存战、“10.7”问责与国家方向之争](https://www.thepaper.cn/newsDetail_forward_34334408)
 14. [【社论】开机即看直播，为电视行业立好规矩](https://www.thepaper.cn/newsDetail_forward_34342913)
 15. [环球时报：姆巴佩栽了，栽得活该](https://www.thepaper.cn/newsDetail_forward_34343145)
 16. [如果程序员可以用AI写代码，作者为什么不能用AI写文章？](https://www.thepaper.cn/newsDetail_forward_34273979)
