@@ -1,20 +1,20 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-29 03:08:13
+> 更新时间：2026-10-29 04:10:23
 
 ## 热新闻
 
 1. [刘延东同志逝世](https://www.thepaper.cn/newsDetail_forward_34351680)
 2. [外交部回应姆巴佩道歉](https://www.thepaper.cn/newsDetail_forward_34350582)
-3. [国台办回应蔡康永发文称“没有支持过‘台独’”](https://www.thepaper.cn/newsDetail_forward_34349079)
-4. [31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI](https://www.thepaper.cn/newsDetail_forward_34351416)
+3. [31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI](https://www.thepaper.cn/newsDetail_forward_34351416)
+4. [国台办回应蔡康永发文称“没有支持过‘台独’”](https://www.thepaper.cn/newsDetail_forward_34349079)
 5. [皇马就姆巴佩错误言论道歉](https://www.thepaper.cn/newsDetail_forward_34351419)
-6. [央视体育青少中心：不认可皇马的表态，在道歉没有到位之前一切免谈](https://www.thepaper.cn/newsDetail_forward_34349984)
-7. [反诈博主“徽剑”遭买凶杀害，好友追忆：他经营教培公司，出于正义感反诈](https://www.thepaper.cn/newsDetail_forward_34349408)
-8. [马上评｜“扫码缴费先看广告”不能再继续了](https://www.thepaper.cn/newsDetail_forward_34349086)
-9. [体坛联播｜西甲主席称与驻西班牙大使会面，阿森纳联赛杯出局](https://www.thepaper.cn/newsDetail_forward_34347913)
-10. [言短意长｜“双头虾”闹剧，重创的是科普出版的科学信誉](https://www.thepaper.cn/newsDetail_forward_34349995)
-11. [澎湃漫评｜“双头虾”背后是“两头瞎”](https://www.thepaper.cn/newsDetail_forward_34350140)
+6. [澎湃漫评｜“双头虾”背后是“两头瞎”](https://www.thepaper.cn/newsDetail_forward_34350140)
+7. [央视体育青少中心：不认可皇马的表态，在道歉没有到位之前一切免谈](https://www.thepaper.cn/newsDetail_forward_34349984)
+8. [反诈博主“徽剑”遭买凶杀害，好友追忆：他经营教培公司，出于正义感反诈](https://www.thepaper.cn/newsDetail_forward_34349408)
+9. [马上评｜“扫码缴费先看广告”不能再继续了](https://www.thepaper.cn/newsDetail_forward_34349086)
+10. [体坛联播｜西甲主席称与驻西班牙大使会面，阿森纳联赛杯出局](https://www.thepaper.cn/newsDetail_forward_34347913)
+11. [言短意长｜“双头虾”闹剧，重创的是科普出版的科学信誉](https://www.thepaper.cn/newsDetail_forward_34349995)
 12. [一些单位习惯于“遇事先建群”，工人日报：不把随时在线当作敬业标准](https://www.thepaper.cn/newsDetail_forward_34347912)
 13. [央视关注支教老师邹志鹏：零薪资坚持二十载，“希望自己活成一道光”](https://www.thepaper.cn/newsDetail_forward_34347247)
 14. [人民锐评：姆巴佩的“翻车”，公众人物的镜鉴](https://www.thepaper.cn/newsDetail_forward_34348063)
