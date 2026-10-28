@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-28 13:10:01
+> 更新时间：2026-10-28 14:16:19
 
 ## 24 小时热榜
 
@@ -10,16 +10,16 @@
 4. [字节大模型研发受赛马机制制约，进展不及预期](https://readhub.cn/topic/8xYcNNh3uwp?tab=daily)
 5. [苹果推出搭载强劲 M6 芯片的全新 iMac](https://readhub.cn/topic/8xZVQUwyZMd?tab=daily)
 6. [抖音李亮：腾讯短剧、短视频增长速度远超抖音和红果](https://readhub.cn/topic/8xZSueddgEQ?tab=daily)
-7. [妙可蓝多：终止与姆巴佩的全部合作](https://readhub.cn/topic/8xYtDklUswb?tab=daily)
-8. [苹果 iPhone 18 Pro 系列中国市场销量增 29% 创最强劲增长纪录](https://readhub.cn/topic/8xZ1QKKIgAl?tab=daily)
+7. [苹果 iPhone 18 Pro 系列中国市场销量增 29% 创最强劲增长纪录](https://readhub.cn/topic/8xZ1QKKIgAl?tab=daily)
+8. [Anthropic 创始人表态：Claude 将坚持无广告模式](https://readhub.cn/topic/8xZHvaSeu7g?tab=daily)
 9. [小米首个员工住宅项目「光谷梦享家」正式开盘](https://readhub.cn/topic/8xYpyNzlJBL?tab=daily)
 10. [央视全面叫停涉及姆巴佩的赛事播出及相关广告](https://readhub.cn/topic/8xZ3EDytzIM?tab=daily)
-11. [Anthropic 创始人表态：Claude 将坚持无广告模式](https://readhub.cn/topic/8xZHvaSeu7g?tab=daily)
-12. [阿里腾讯字节据称寻求与三星 SK 海力士签最长至 2035 年 DRAM 供应协议](https://readhub.cn/topic/8xZ77qsZqK3?tab=daily)
+11. [阿里腾讯字节据称寻求与三星 SK 海力士签最长至 2035 年 DRAM 供应协议](https://readhub.cn/topic/8xZ77qsZqK3?tab=daily)
+12. [智元发布具身 Agent 框架 Genie Master：机器人可边工作边进化](https://readhub.cn/topic/8xZ3Xw2s8Fj?tab=daily)
 13. [OpenAI 宣称取得三项重大科学成果 挑战近 30 年计算机科学假设](https://readhub.cn/topic/8xZBPqxoDZ8?tab=daily)
-14. [智元发布具身 Agent 框架 Genie Master：机器人可边工作边进化](https://readhub.cn/topic/8xZ3Xw2s8Fj?tab=daily)
-15. [雷鸟 iO+ 首次曝光：第四代双目全彩 AI 眼镜即将登场](https://readhub.cn/topic/8xYr2AZ8x6l?tab=daily)
-16. [比亚迪仰望超豪华行政旗舰轿车定名为「鼎曜」](https://readhub.cn/topic/8xZ3CIAl6Pg?tab=daily)
+14. [雷鸟 iO+ 首次曝光：第四代双目全彩 AI 眼镜即将登场](https://readhub.cn/topic/8xYr2AZ8x6l?tab=daily)
+15. [比亚迪仰望超豪华行政旗舰轿车定名为「鼎曜」](https://readhub.cn/topic/8xZ3CIAl6Pg?tab=daily)
+16. [腾讯 WorkBuddy 上线「远程控制」](https://readhub.cn/topic/8xaY6AqXA5B?tab=daily)
 17. [ChatGPT 被指教唆癫痫患者减药致其去世，OpenAI 遭起诉](https://readhub.cn/topic/8xZsGe6BYCq?tab=daily)
 18. [南非女作家借 AI 约 20 个月出版 371 本书引争议，自称年收入超百万美元](https://readhub.cn/topic/8xZEHjiPgGP?tab=daily)
 19. [张坤旗下基金三季报披露：新进重仓新易盛 白酒持仓减少](https://readhub.cn/topic/8xZ2ppqs6Ix?tab=daily)
@@ -27,13 +27,13 @@
 21. [20 人 9 个月，《不问凡尘》用 AI 做出 26 万玩家买单的超写实互动作品](https://readhub.cn/topic/8xZg84g26Rk?tab=daily)
 22. [牛散章建平夫妇分别新进东材科技、方正科技前十大股东](https://readhub.cn/topic/8xZM6xXZjJj?tab=daily)
 23. [Anthropic 七位创始人平分股权，IPO 后价值或高达 2000 亿美元](https://readhub.cn/topic/8xZ3YrIS1og?tab=daily)
-24. [小米披露面向工业场景的 21 自由度仿生灵巧手探索成果](https://readhub.cn/topic/8xYuHFx5byz?tab=daily)
-25. [微信输入法「AI 录音笔」上线 支持多端同步与好友分享](https://readhub.cn/topic/8xZ51ZP8Wrx?tab=daily)
+24. [微信输入法「AI 录音笔」上线 支持多端同步与好友分享](https://readhub.cn/topic/8xZ51ZP8Wrx?tab=daily)
+25. [SK 海力士：DRAM 和 HBM 到 2029 年的产能已全部售罄](https://readhub.cn/topic/8xaIkbbBXVD?tab=daily)
 26. [Anthropic 创始人阿莫迪兄妹称 7 人共同创业是公司成功关键](https://readhub.cn/topic/8xaGa6vNN7y?tab=daily)
 27. [AI 设计抗癌药进入人体试验：122 名患者接受治疗，部分脑转移病灶出现缩小](https://readhub.cn/topic/8xZTFsr2d8u?tab=daily)
-28. [大众拟考虑将与小鹏联合开发的中国软件架构引入欧洲车型](https://readhub.cn/topic/8xYbfLklEqg?tab=daily)
-29. [研究显示 AI 可凭面部照片预测癌症患者死亡风险](https://readhub.cn/topic/8xXmDU7kITg?tab=daily)
-30. [iPhone Duo 被曝多起屏幕开裂 无 AC+ 维修费用近 8000 元](https://readhub.cn/topic/8xYs6x2UwlB?tab=daily)
+28. [数十 AI Agent24 天完成数学巨型工程 揪出 40 年前论证漏洞](https://readhub.cn/topic/8xaZAhdh1Dl?tab=daily)
+29. [苹果将于周三发布 14 英寸和 16 英寸触控屏 MacBook](https://readhub.cn/topic/8xa802nNbFc?tab=daily)
+30. [大众拟考虑将与小鹏联合开发的中国软件架构引入欧洲车型](https://readhub.cn/topic/8xYbfLklEqg?tab=daily)
 
 ## 每日早报
 
@@ -47,13 +47,13 @@
 
 ## AI 资讯
 
-1. [谷歌 DeepMind 发布 Genie 4：能「走进去」的虚拟世界，首次同步发声 10 月 27 日深夜，谷歌 DeepMind 发布新一代世界模型 Genie 4，自称「迄今最逼真、交互性最强」。Genie 4 造出实时响应按键的物理世界，单次连贯交互从上代 Genie 3 的 1 分钟翻倍到 2 分钟。Genie 4 是首个原生支持音视频同步生成的世界模型：骑马踩过浅滩，马蹄溅水声随距离变化。 AIBase 1 小时前](https://www.aibase.com/zh/news/31921)
-2. [31 岁工程师离世，父母起诉 OpenAI：ChatGPT 被指指导其减药并隐瞒医生 当地时间本周二，其父母起诉 OpenAI，指控 ChatGPT 曾指导女儿逐步减少抗癫痫药用量，并教她对医生隐瞒。减药后几天，万出现意识混乱等类似癫痫症状，ChatGPT 却将异常解释为「大脑重新适应剂量」。OpenAI 此前已停用 GPT-4o，并于 2 月 13 日下架 —— 万离世，正是在前一天。 AIBase 4 小时前](https://www.aibase.com/zh/news/31907)
-3. [微软 MAI-Image-2.7 登场，自称「全球第二图像编辑模型」 它并非文生图，而是可控编辑 —— 喂一张原图加文字指令，输出改好的图。相比 2.6，2.7 在 Artificial Analysis 全部 10 个用例、7 类编辑动作上均提升，增强修复、推理编辑、场景风格、文字符号四类达到品类前沿。用户可在 Arena、Artificial Analysis 和 MAI Playground 体验，目前只开放图像编辑，文生图仅称「即将推出」、未给日期。 AIBase 1 小时前](https://www.aibase.com/zh/news/31920)
-4. [前 Meta AI 总监推出 Ndoc：对标微软 Office 与谷歌 Workspace 前 Meta AI 总监 Rohit Patel 近日正式推出人工智能生产力创业公司 Ndoc，并发布旨在挑战微软 Office 与谷歌 Workspace 的同名一体化办公平台。用户可通过「模型」标签页上传原始数据集并生成包含可见 Python 脚本的分析报告，辅以内置的 AI 聊天功能解释特定脚本与计算过程，确保企业决策者能够验证 AI 生成的财务数据。面对微软、谷歌以及 OpenAI 和 Anthropic 等大厂的竞争，Ndoc 内置了可从主流办公应用导入数据的连接器，并依托开源模型降低运营成本。 AIBase 1 小时前](https://www.aibase.com/zh/news/31919)
-5. [AI 让作业变废纸，诺奖级教授退回纸笔考场 加州大学伯克利分校教授、菲尔兹奖得主理查德・博尔彻兹宣布，不再给学生布置计分家庭作业 —— 因为 AI 滥用已让这类作业形同虚设。伯克利此前考虑过引入 AI 检测软件，最终却认定这类工具可靠性不足，于是把 AI 使用政策的制定权下放给教授，只要求他们在课程大纲里写清规则。当诺奖级学者都不得不退回纸笔考试来守住公平，AI 给教育甩出的这道难题，显然还没人能轻松接住。 AIBase 2 小时前](https://www.aibase.com/zh/news/31917)
-6. [Opera 推出 WebAI 标准，支持浏览器本地运行 AI 模型 该标准兼容多种 AI 模型，Opera 以谷歌开源模型 Gemma 为例进行演示，并表示 WebAI 也支持苹果设备端基础模型。该技术不依赖特定模型，主要面向各类开放权重 AI 系统，是 Opera 此前探索浏览器本地运行大语言模型工作的延续。WebAI 尝试将模型运行能力进一步融入浏览器，但如何平衡隐私保护、设备性能与模型能力，仍是本地 AI 应用普及需要面对的问题。 AIBase 3 小时前](https://www.aibase.com/zh/news/31915)
-7. [Genie 4: A new generation of world simulation Genie 4: our new world model unlocking unprecedented realism in real-time simulation. Google DeepMind 13 小时前](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-8. [美国银行发布安全警告：严禁向人工智能助手透露银行密码 美国银行近期向客户发送了一封题为「在人工智能世界中保护您的财务」的警告邮件，明确敦促客户切勿将银行账户用户名、密码及相关凭证分享给任何声称能代表个人行事的第三方人工智能工具或代理服务。随着个人人工智能助手和代理支付工具的日益普及，部分用户开始尝试将登录信息交托给 AI 助手，以实现自主购物或寻找最优价格。这一行为潜藏着巨大的安全与合规风险，不仅可能导致 AI 在用户不知情的情况下进行财务操作，还容易触发银行风控机制导致账户被锁。 AIBase 3 小时前](https://www.aibase.com/zh/news/31914)
-9. [三星发布首款开放式耳机 Galaxy Buds On，深度集成 Gemini Live 三星正式推出旗下首款开放式无线耳机 Galaxy Buds On，进一步拓展 Galaxy 音频产品线形态。与此前经典的入耳式 Galaxy Buds 系列不同，该新品采用全新开放式佩戴方案，让用户在享受高品质音频与通话体验的同时，仍能实时感知外界环境声音。Galaxy Buds On 深度集成 Google Gemini Live 服务，用户只需通过语音即可与 AI 助手展开自然流畅的连续对话，无需频繁拿出手机进行触控操作。 AIBase 3 小时前](https://www.aibase.com/zh/news/31913)
-10. [数十个 AI Agent 24 天完成数学巨型定理形式化，还揪出 40 年前漏洞 AI 数学公司 Axiom Math 宣布，由人类数学家和工程师组织的数十个 AI Agent，在 24 天内完成了这一巨型定理的 Lean 形式化，生成约 4310 万行代码、205 万个形式化声明，给出了第一份覆盖整个分类定理的计算机检查证明。更惊人的是，AI 在检查这些数学家留下的证明时，还揪出了一个存在近 40 年的论证漏洞。回看这 24 天，最值得关注的并非 AI 写出了多长的代码，而是它开始处理一项过去高度依赖人类专家的大规模研究工作：拆解任务、追踪证明、发现旧文献中的错误，并在旧路线走不通时参与构造新证明。 腾讯网 1 小时前](https://news.qq.com/rain/a/20261028A064QR00)
+1. [谷歌 DeepMind 发布 Genie 4：能「走进去」的虚拟世界，首次同步发声](https://www.aibase.com/zh/news/31921)
+2. [马斯克前员工创立的 AI 初创公司仅用 12 小时攻破 Anthropic 办公系统](https://www.aibase.com/zh/news/31924)
+3. [AI 编程能力改变招聘标准，Anthropic 招聘负责人取消传统编程面试](https://www.aibase.com/zh/news/31923)
+4. [31 岁工程师离世，父母起诉 OpenAI：ChatGPT 被指指导其减药并隐瞒医生](https://www.aibase.com/zh/news/31907)
+5. [DeepSeek V5 惊现官方代码库，外界猜 11 月见真章](https://www.aibase.com/zh/news/31922)
+6. [微软 MAI-Image-2.7 登场，自称「全球第二图像编辑模型」](https://www.aibase.com/zh/news/31920)
+7. [前 Meta AI 总监推出 Ndoc：对标微软 Office 与谷歌 Workspace](https://www.aibase.com/zh/news/31919)
+8. [前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样](https://www.ithome.com/1/018/887.htm)
+9. [AI 让作业变废纸，诺奖级教授退回纸笔考场](https://www.aibase.com/zh/news/31917)
+10. [Opera 推出 WebAI 标准，支持浏览器本地运行 AI 模型](https://www.aibase.com/zh/news/31915)
