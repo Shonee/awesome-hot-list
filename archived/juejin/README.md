@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-29 04:10:10
+> 更新时间：2026-10-29 05:09:15
 
 ## 热门文章
 
@@ -27,16 +27,16 @@
 21. [Kimi K3.1 Pro 编程实测：3个月27万行代码，每年1.7万预算下如何9分钟修好顽固Bug](https://juejin.cn/post/7700627964493447210)
 22. [GPT-6.1 Terra上线：更便宜了，干活到底怎么样？](https://juejin.cn/post/7701352628311392297)
 23. [我买的电视，我还不能研究它吗？](https://juejin.cn/post/7701316033940865058)
-24. [用 Codex 完成智慧高速 3D 可视化大屏，从 18 张行业设计稿到可交互的运行监测中心](https://juejin.cn/post/7700627964493971498)
-25. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
-26. [模型吐出半截JSON，前端如何边收边渲染？2026年AI应用必须闯过的工程关](https://juejin.cn/post/7700510231650844715)
-27. [又找到一个纯Java的OCR项目，识别的格式还挺多](https://juejin.cn/post/7700962023287128115)
+24. [又找到一个纯Java的OCR项目，识别的格式还挺多](https://juejin.cn/post/7700962023287128115)
+25. [用 Codex 完成智慧高速 3D 可视化大屏，从 18 张行业设计稿到可交互的运行监测中心](https://juejin.cn/post/7700627964493971498)
+26. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
+27. [模型吐出半截JSON，前端如何边收边渲染？2026年AI应用必须闯过的工程关](https://juejin.cn/post/7700510231650844715)
 28. [GitHub 日榜趋势速报 | 2026-10-26](https://juejin.cn/post/7700194552506466331)
 29. [我用 DeepSeek 做了 4 个零依赖的赚钱小工具，全部开源](https://juejin.cn/post/7673809190474629155)
-30. [doc2docx方案，开源！](https://juejin.cn/post/7700603865700663336)
-31. [一个人，带着一群 AI：一个 10 年前端如何做出几十个团队在用的在线文档](https://juejin.cn/post/7700215375997370409)
-32. [Windows也能用 Apple Watch 解锁](https://juejin.cn/post/7700194552506286107)
-33. [企业智能知识库 Python 后端实战：FastAPI + RAG + KAG 企业级 AI 项目](https://juejin.cn/post/7700790717106847754)
+30. [企业智能知识库 Python 后端实战：FastAPI + RAG + KAG 企业级 AI 项目](https://juejin.cn/post/7700790717106847754)
+31. [doc2docx方案，开源！](https://juejin.cn/post/7700603865700663336)
+32. [一个人，带着一群 AI：一个 10 年前端如何做出几十个团队在用的在线文档](https://juejin.cn/post/7700215375997370409)
+33. [Windows也能用 Apple Watch 解锁](https://juejin.cn/post/7700194552506286107)
 34. [AI 生成的图，为什么一眼就能看出是 AI？5 个破绽](https://juejin.cn/post/7700985536521551914)
 35. [Step 5 Preview 模型写 3D 象棋，两个小时上线](https://juejin.cn/post/7700674628927078451)
 36. [浏览器的“无痕模式”是当代最大安慰剂？我用 30 行 JS 提取硬件指纹，跨网络换代理照样精准锁定你](https://juejin.cn/post/7700462324586528778)
