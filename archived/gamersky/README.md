@@ -1,13 +1,13 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-28 14:16:50
+> 更新时间：2026-10-28 15:11:32
 
 ## 热点资讯排行
 
 1. [IGN日本:《影之刃零》战斗不如鬼武者 探索则满分](https://www.gamersky.com/news/202610/2234670.shtml)
 2. [IGN《影之刃零》9分！近年最佳动作游戏 流畅到难以置信](https://www.gamersky.com/news/202610/2234656.shtml)
-3. [《影之刃零》M站评分下降！PS5版跌至86分](https://www.gamersky.com/news/202610/2235396.shtml)
-4. [《仙剑四重制版》发布会官宣!定档预告12.5公布](https://www.gamersky.com/news/202610/2235550.shtml)
+3. [《仙剑四重制版》发布会官宣!定档预告12.5公布](https://www.gamersky.com/news/202610/2235550.shtml)
+4. [《影之刃零》M站评分下降！PS5版跌至86分](https://www.gamersky.com/news/202610/2235396.shtml)
 5. [《影之刃零》世界首白诞生！PS5版已有多人白金](https://www.gamersky.com/news/202610/2235847.shtml)
 6. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
 7. [《影之刃零》获6分低分！玩家翻旧账：悟空也这样](https://www.gamersky.com/news/202610/2234667.shtml)
