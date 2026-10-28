@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-28 19:09:43
+> 更新时间：2026-10-28 20:14:29
 
 ## 热点榜
 
@@ -14,13 +14,13 @@
 8. [集体上调！工行、农行、中行、建行、交行、邮储，全部在列](https://view.inews.qq.com/a/20261028A06JA100)
 9. [新服务激活田野里的新质生产力（大数据观察）](https://view.inews.qq.com/a/20261028A03CJN00)
 10. [全球目前唯一！贵州发现新物种](https://view.inews.qq.com/a/20261028A08B6600)
-11. [畸形草莓是激素催的、双生樱桃是辐射造成的？别再误解“畸形水果”了！](https://view.inews.qq.com/a/20261028A0451F00)
-12. [德国总统访华呼吁德企：表现出自信并实现互利共赢](https://view.inews.qq.com/a/20261028A082FZ00)
+11. [红军守矩篇 | 历史见证田头“割麦证”](https://mp.weixin.qq.com/s/4UQ6LKxXGbBVZqEO0RFISw?platform=mac&version=5.0.12.70798)
+12. [四川攀枝花一水果摊贩疑用杀虫剂喷水果，官方通报](https://view.inews.qq.com/a/20261028A09PZE00)
 13. [A股全线大反弹！能抄底了吗？](https://view.inews.qq.com/a/20261028A09JYS00)
-14. [科普丛书出现“双头虾”“鱼头人身”等怪异图片，中国农业出版社回应](https://view.inews.qq.com/a/20261028A07M5400)
-15. [iPhone Duo上手即断裂，苹果对富士康失去掌控了？](https://view.inews.qq.com/a/20261028A07YZT00)
-16. [长期穿这种网红鞋的受害者出现了，医生：14岁以下坚决不能穿！](https://view.inews.qq.com/a/20261028V04VFI00)
-17. [张长兴烈士遗骸找到了](https://view.inews.qq.com/a/20261028A06UTQ00)
-18. [四川攀枝花一水果摊贩疑用杀虫剂喷水果，官方通报](https://view.inews.qq.com/a/20261028A09PZE00)
-19. [中国第一城，忙着“共享”机场](https://view.inews.qq.com/a/20261028A04BOO00)
-20. [中国舞蹈家协会发布讣告](https://view.inews.qq.com/a/20261028A02WPL00)
+14. [德国总统访华呼吁德企：表现出自信并实现互利共赢](https://view.inews.qq.com/a/20261028A082FZ00)
+15. [中国舞蹈家协会发布讣告](https://view.inews.qq.com/a/20261028A02WPL00)
+16. [科普丛书出现“双头虾”“鱼头人身”等怪异图片，中国农业出版社回应](https://view.inews.qq.com/a/20261028A07M5400)
+17. [中国第一城，忙着“共享”机场](https://view.inews.qq.com/a/20261028A04BOO00)
+18. [美国压着不让韩国“独立”，有个秘密…](https://view.inews.qq.com/a/20261028A099KF00)
+19. [iPhone Duo上手即断裂，苹果对富士康失去掌控了？](https://view.inews.qq.com/a/20261028A07YZT00)
+20. [张长兴烈士遗骸找到了](https://view.inews.qq.com/a/20261028A06UTQ00)
