@@ -1,11 +1,11 @@
 # 掘金热榜
 
-> 更新时间：2026-10-28 07:08:03
+> 更新时间：2026-10-28 08:24:28
 
 ## 热门文章
 
-1. [天涯神贴《2027年以后，你要活成这个样子》有感，希望 2027 年可以活成自己想要的样子](https://juejin.cn/post/7700522130220023862)
-2. [继PHP之后，Java也爆出了重大安全漏洞！](https://juejin.cn/post/7699886793819504640)
+1. [继PHP之后，Java也爆出了重大安全漏洞！](https://juejin.cn/post/7699886793819504640)
+2. [天涯神贴《2027年以后，你要活成这个样子》有感，希望 2027 年可以活成自己想要的样子](https://juejin.cn/post/7700522130220023862)
 3. [终于 Token 自由了，AI 开支下降 10 倍](https://juejin.cn/post/7700531646282809407)
 4. [尤雨溪 : Vue 4 已经在规划中了！](https://juejin.cn/post/7700803425820049434)
 5. [一个人 + AI 做的小程序，今天，正式回本了](https://juejin.cn/post/7700157486075035683)
@@ -37,20 +37,20 @@
 31. [doc2docx方案，开源！](https://juejin.cn/post/7700603865700663336)
 32. [用 Codex 完成智慧高速 3D 可视化大屏，从 18 张行业设计稿到可交互的运行监测中心](https://juejin.cn/post/7700627964493971498)
 33. [Windows也能用 Apple Watch 解锁](https://juejin.cn/post/7700194552506286107)
-34. [又找到一个纯Java的OCR项目，识别的格式还挺多](https://juejin.cn/post/7700962023287128115)
-35. [Step 5 Preview 模型写 3D 象棋，两个小时上线](https://juejin.cn/post/7700674628927078451)
-36. [一个人，带着一群 AI：一个 10 年前端如何做出几十个团队在用的在线文档](https://juejin.cn/post/7700215375997370409)
+34. [一个人，带着一群 AI：一个 10 年前端如何做出几十个团队在用的在线文档](https://juejin.cn/post/7700215375997370409)
+35. [又找到一个纯Java的OCR项目，识别的格式还挺多](https://juejin.cn/post/7700962023287128115)
+36. [Step 5 Preview 模型写 3D 象棋，两个小时上线](https://juejin.cn/post/7700674628927078451)
 37. [2026 Windows 11 终端美化完全指南](https://juejin.cn/post/7700077216746733611)
 38. [企业智能知识库 Python 后端实战：FastAPI + RAG + KAG 企业级 AI 项目](https://juejin.cn/post/7700790717106847754)
 39. [浏览器的“无痕模式”是当代最大安慰剂？我用 30 行 JS 提取硬件指纹，跨网络换代理照样精准锁定你](https://juejin.cn/post/7700462324586528778)
 40. [用 Node.js 搭建一套可持续获客的 SEO 内容系统：前端工程师 30 天实战方案](https://juejin.cn/post/7700327310117224474)
-41. [Claude Code vs Codex：Computer Use 实现原理深度拆解](https://juejin.cn/post/7700850888098594870)
-42. [别再迷信 OCR 专用小模型：8 个 7B 以下 VLM 实测，抽取 JSON 结构还得靠通用选手](https://juejin.cn/post/7700440792791449610)
+41. [别再迷信 OCR 专用小模型：8 个 7B 以下 VLM 实测，抽取 JSON 结构还得靠通用选手](https://juejin.cn/post/7700440792791449610)
+42. [Claude Code vs Codex：Computer Use 实现原理深度拆解](https://juejin.cn/post/7700850888098594870)
 43. [10 个值得关注的 GitHub Agent Skills：让 AI 编程从“能写”走向“会做”](https://juejin.cn/post/7700377150851760128)
-44. [AI 生成的图，为什么一眼就能看出是 AI？5 个破绽](https://juejin.cn/post/7700985536521551914)
-45. [你的Flutter项目要不要紧急升级3.47.8？](https://juejin.cn/post/7700796727406968859)
-46. [北漂 13 年，我把 Java 家底钉成了这张知识图谱（全站免费）](https://juejin.cn/post/7700647882441867305)
-47. [APP 人脸识别增值版 SDK：Camera2 无缝接入指南](https://juejin.cn/post/7700601438522785843)
-48. [这6个小模型各有绝活, 且都可cpu/浏览器端运行](https://juejin.cn/post/7700891028165984265)
-49. [GitHub 日榜趋势速报 | 2026-10-27](https://juejin.cn/post/7700857041943904282)
-50. [从零手搓 RAG 之 Embedding 技术](https://juejin.cn/post/7700764385023180810)
+44. [别再用防抖做懒加载了：120 张图只加载出 4 张](https://juejin.cn/post/7701269925750947855)
+45. [AI 生成的图，为什么一眼就能看出是 AI？5 个破绽](https://juejin.cn/post/7700985536521551914)
+46. [你的Flutter项目要不要紧急升级3.47.8？](https://juejin.cn/post/7700796727406968859)
+47. [北漂 13 年，我把 Java 家底钉成了这张知识图谱（全站免费）](https://juejin.cn/post/7700647882441867305)
+48. [APP 人脸识别增值版 SDK：Camera2 无缝接入指南](https://juejin.cn/post/7700601438522785843)
+49. [这6个小模型各有绝活, 且都可cpu/浏览器端运行](https://juejin.cn/post/7700891028165984265)
+50. [一根杆与一张场：把你的机场画上地图](https://juejin.cn/post/7700194552506449947)

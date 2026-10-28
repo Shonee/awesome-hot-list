@@ -1,19 +1,20 @@
 # GitHub热榜
 
-> 更新时间：2026-10-28 02:11:16
+> 更新时间：2026-10-28 08:24:26
 
 ## 每日趋势
 
-1. [hallmark](https://github.com/Nutlope/hallmark)
-2. [openbot](https://github.com/nightly-labs/openbot)
-3. [superpowers](https://github.com/obra/superpowers)
-4. [impeccable](https://github.com/pbakaus/impeccable)
-5. [cindy](https://github.com/makecindy/cindy)
-6. [postiz-app](https://github.com/gitroomhq/postiz-app)
-7. [ECC](https://github.com/affaan-m/ECC)
-8. [DeepTutor](https://github.com/HKUDS/DeepTutor)
-9. [thinkrail](https://github.com/JetBrains/thinkrail)
-10. [jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+1. [ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+2. [hallmark](https://github.com/Nutlope/hallmark)
+3. [openbot](https://github.com/nightly-labs/openbot)
+4. [superpowers](https://github.com/obra/superpowers)
+5. [impeccable](https://github.com/pbakaus/impeccable)
+6. [cindy](https://github.com/makecindy/cindy)
+7. [postiz-app](https://github.com/gitroomhq/postiz-app)
+8. [ECC](https://github.com/affaan-m/ECC)
+9. [DeepTutor](https://github.com/HKUDS/DeepTutor)
+10. [thinkrail](https://github.com/JetBrains/thinkrail)
+11. [jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
 
 ## 每周趋势
 
