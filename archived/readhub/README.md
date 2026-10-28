@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-29 01:09:42
+> 更新时间：2026-10-29 02:12:03
 
 ## 24 小时热榜
 
@@ -16,8 +16,8 @@
 10. [招商轮船：前三季度归母净利润 119.83 亿元，同比增长 263.15%](https://readhub.cn/topic/8xaqfSLs0tp?tab=daily)
 11. [苹果将于周三发布 14 英寸和 16 英寸触控屏 MacBook](https://readhub.cn/topic/8xa802nNbFc?tab=daily)
 12. [OpenAI 与 Anthropic 同日宣布其 AI 模型称证伪 ETH](https://readhub.cn/topic/8xaZX01u4CX?tab=daily)
-13. [Anthropic 创始人阿莫迪兄妹称 7 人共同创业是公司成功关键](https://readhub.cn/topic/8xaGa6vNN7y?tab=daily)
-14. [DeepSeek 代码库出现 V5 相关标识，外界猜测或 11 月发布](https://readhub.cn/topic/8xad5Qp23GE?tab=daily)
+13. [DeepSeek 代码库出现 V5 相关标识，外界猜测或 11 月发布](https://readhub.cn/topic/8xad5Qp23GE?tab=daily)
+14. [Anthropic 创始人阿莫迪兄妹称 7 人共同创业是公司成功关键](https://readhub.cn/topic/8xaGa6vNN7y?tab=daily)
 15. [SK 海力士：DRAM 和 HBM 到 2029 年的产能已全部售罄](https://readhub.cn/topic/8xaIkbbBXVD?tab=daily)
 16. [大众拟考虑将与小鹏联合开发的中国软件架构引入欧洲车型](https://readhub.cn/topic/8xYbfLklEqg?tab=daily)
 17. [PCB 钻针需求大爆发 券商测算 2026 年 AI 服务器要用 8 亿支](https://readhub.cn/topic/8xbAfrm6MCk?tab=daily)
@@ -50,10 +50,10 @@
 1. [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
 2. [Anthropic 收购一家「OPC 药企」：一人一 Claude 推进两款罕见病药物研发](https://www.mittrchina.com/news/detail/17155)
 3. [Legora is building the agentic operating system for legal work](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
-4. [NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/)
-5. [嫌数据中心发电机太吵？马斯克直接掏钱上门买房：已有 18 户签字放弃集体诉讼](https://news.mydrivers.com/1/1161/1161410.htm)
-6. [英伟达推出本地 AI 语音模型 RTX Spark 新增模型与智能体工具支持](https://news.10jqka.com.cn/20261028/c681209785.shtml)
-7. [字节辟谣「群演数据喂大模型」：严重失实](https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html)
-8. [Chrome 增强自动填充功能，可从 Gmail 提取建议帮你填写表单](https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/)
-9. [Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon](https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
-10. [华为刘睿：AI 助手要告别聊天框，从「被动响应」走向「主动服务」](https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html)
+4. [The future of the firm](https://openai.com/index/the-future-of-the-firm)
+5. [NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/)
+6. [谷歌发布前沿模型 Gemini 4 Carbon，编程与网络安全能力显著提升](https://www.gelonghui.com/live/2734364)
+7. [Android Studio Rabbit 2 发布：支持自带 40+ 编码代理](https://daily.dev/posts/your-favorite-agents-are-now-integrated-in-android-studio-1bssir1jv)
+8. [嫌数据中心发电机太吵？马斯克直接掏钱上门买房：已有 18 户签字放弃集体诉讼](https://news.mydrivers.com/1/1161/1161410.htm)
+9. [英伟达推出本地 AI 语音模型 RTX Spark 新增模型与智能体工具支持](https://news.10jqka.com.cn/20261028/c681209785.shtml)
+10. [字节辟谣「群演数据喂大模型」：严重失实](https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html)
