@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-29 06:10:18
+> 更新时间：2026-10-29 07:08:48
 
 ## 最新帖子
 
-1. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
-2. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
-3. [从零搭建后台？Vite8+Vue3.5 通用Admin模板，开箱即用！](https://www.cnblogs.com/yxybox/p/23472987)
-4. [从零搭建华为云 EVS 每日自动快照：hcloud + PowerShell + 邮件报告实战](https://www.cnblogs.com/JoePotter/p/23472977)
-5. [B站视频解析下载到本地：一个免安装网页工具实测，直接存MP4](https://www.cnblogs.com/brilliancedad/p/23472715)
-6. [寻找志同道合的创业者，一起把 VirtuaMesh 做大](https://www.cnblogs.com/wmlunge/p/23472508)
-7. [个人分析：2026 CSP-S 考察方向预测与备考建议](https://www.cnblogs.com/lvwangshuOI/p/23472339)
-8. [【Agentic Memory】MemTrace 如何做到自动溯源和自动优化](https://www.cnblogs.com/rossiXYZ/p/23472086)
-9. [spec-superflow 2.0：小任务快跑，复杂任务不漂移](https://www.cnblogs.com/uniqueDong/p/23471783)
-10. [04 · 给 AI 的流程做减法：三个目标砍成两个的取舍](https://www.cnblogs.com/lishen2/p/23471732)
-11. [I love Power BI 2](https://www.cnblogs.com/aspnetx/p/23471635)
-12. [java 多线程开发系列之九：玩转线程池（线程池的简介和简单使用）](https://www.cnblogs.com/jilodream/p/23471356)
-13. [HeyGen：如何让全球 10+ GPU 集群训练不再等待数据？](https://www.cnblogs.com/JuiceData/p/23469410)
-14. [在 K8s 上跑大模型推理，为什么越来越多人选了 KServe？](https://www.cnblogs.com/shanyou/p/23469174/kserve)
-15. [在飞书 SDK 上用 Microsoft Agent Framework 搭一个能干活的工作搭子](https://www.cnblogs.com/mudtools/p/23468225)
-16. [Meta 如何改造工程环境，让 Agent 自己跑开发 Loop](https://www.cnblogs.com/Qiniu-developer/p/23467561)
-17. [幻觉（Hallucination）、护栏（Guardrails）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23441090/Hallucination_Guardrails)
-18. [VOFA+：让板子送过来的数字长成曲线](https://www.cnblogs.com/zw-awa/p/23465726)
-19. [前端没有被杀死，被杀死的是"只会把设计稿变成页面"](https://www.cnblogs.com/codigger/p/23464752)
-20. [13. 布尔类型 boolean | 判断成绩是否及格](https://www.cnblogs.com/halfcode/p/23462276)
+1. [MQTT实战 - MQTT高频面试题 + 我的8年实战答案（十一）](https://www.cnblogs.com/hugogoos/p/23472865)
+2. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
+3. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
+4. [从零搭建后台？Vite8+Vue3.5 通用Admin模板，开箱即用！](https://www.cnblogs.com/yxybox/p/23472987)
+5. [从零搭建华为云 EVS 每日自动快照：hcloud + PowerShell + 邮件报告实战](https://www.cnblogs.com/JoePotter/p/23472977)
+6. [B站视频解析下载到本地：一个免安装网页工具实测，直接存MP4](https://www.cnblogs.com/brilliancedad/p/23472715)
+7. [寻找志同道合的创业者，一起把 VirtuaMesh 做大](https://www.cnblogs.com/wmlunge/p/23472508)
+8. [个人分析：2026 CSP-S 考察方向预测与备考建议](https://www.cnblogs.com/lvwangshuOI/p/23472339)
+9. [【Agentic Memory】MemTrace 如何做到自动溯源和自动优化](https://www.cnblogs.com/rossiXYZ/p/23472086)
+10. [spec-superflow 2.0：小任务快跑，复杂任务不漂移](https://www.cnblogs.com/uniqueDong/p/23471783)
+11. [04 · 给 AI 的流程做减法：三个目标砍成两个的取舍](https://www.cnblogs.com/lishen2/p/23471732)
+12. [I love Power BI 2](https://www.cnblogs.com/aspnetx/p/23471635)
+13. [java 多线程开发系列之九：玩转线程池（线程池的简介和简单使用）](https://www.cnblogs.com/jilodream/p/23471356)
+14. [HeyGen：如何让全球 10+ GPU 集群训练不再等待数据？](https://www.cnblogs.com/JuiceData/p/23469410)
+15. [在 K8s 上跑大模型推理，为什么越来越多人选了 KServe？](https://www.cnblogs.com/shanyou/p/23469174/kserve)
+16. [在飞书 SDK 上用 Microsoft Agent Framework 搭一个能干活的工作搭子](https://www.cnblogs.com/mudtools/p/23468225)
+17. [Meta 如何改造工程环境，让 Agent 自己跑开发 Loop](https://www.cnblogs.com/Qiniu-developer/p/23467561)
+18. [幻觉（Hallucination）、护栏（Guardrails）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23441090/Hallucination_Guardrails)
+19. [VOFA+：让板子送过来的数字长成曲线](https://www.cnblogs.com/zw-awa/p/23465726)
+20. [前端没有被杀死，被杀死的是"只会把设计稿变成页面"](https://www.cnblogs.com/codigger/p/23464752)
 
 ## 精华帖子
 

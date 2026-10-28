@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-29 06:10:12
+> 更新时间：2026-10-29 07:08:44
 
 ## 热门文章
 
@@ -10,9 +10,9 @@
 4. [介绍一个开源项目 —— 烂笔头](https://juejin.cn/post/7700157486074478627)
 5. [AI 越强，失业越严重](https://juejin.cn/post/7700627964494168106)
 6. [掀桌子了！Kimi K3.1 Pro 这效果也太离谱了。](https://juejin.cn/post/7700627964493365290)
-7. [出事了，AI 提效后，老板让我裁员20%](https://juejin.cn/post/7700887980139036682)
-8. [Flutter 紧急发布 3.47.8 安全升级版本，建议都升级](https://juejin.cn/post/7700380674944204810)
-9. [Deepseek v5 来了](https://juejin.cn/post/7701541249069383706)
+7. [Deepseek v5 来了](https://juejin.cn/post/7701541249069383706)
+8. [出事了，AI 提效后，老板让我裁员20%](https://juejin.cn/post/7700887980139036682)
+9. [Flutter 紧急发布 3.47.8 安全升级版本，建议都升级](https://juejin.cn/post/7700380674944204810)
 10. [程序员 1v1 访谈系列第七期：失业半年所想到的](https://juejin.cn/post/7700157486074904611)
 11. [删了一个没用的 console.log，生产环境直接崩了!](https://juejin.cn/post/7701290557268951066)
 12. [🔥说一说在线文档的 Block 架构是如何实现的](https://juejin.cn/post/7700267917769916466)
@@ -37,8 +37,8 @@
 31. [doc2docx方案，开源！](https://juejin.cn/post/7700603865700663336)
 32. [一个人，带着一群 AI：一个 10 年前端如何做出几十个团队在用的在线文档](https://juejin.cn/post/7700215375997370409)
 33. [Windows也能用 Apple Watch 解锁](https://juejin.cn/post/7700194552506286107)
-34. [AI 生成的图，为什么一眼就能看出是 AI？5 个破绽](https://juejin.cn/post/7700985536521551914)
-35. [Step 5 Preview 模型写 3D 象棋，两个小时上线](https://juejin.cn/post/7700674628927078451)
+34. [Step 5 Preview 模型写 3D 象棋，两个小时上线](https://juejin.cn/post/7700674628927078451)
+35. [AI 生成的图，为什么一眼就能看出是 AI？5 个破绽](https://juejin.cn/post/7700985536521551914)
 36. [浏览器的“无痕模式”是当代最大安慰剂？我用 30 行 JS 提取硬件指纹，跨网络换代理照样精准锁定你](https://juejin.cn/post/7700462324586528778)
 37. [AI 改完代码，人却不知道它改了什么：架构漂移才是真正的成本](https://juejin.cn/post/7700846756351180810)
 38. [你的Flutter项目要不要紧急升级3.47.8？](https://juejin.cn/post/7700796727406968859)
@@ -50,7 +50,7 @@
 44. [GitHub 日榜趋势速报 | 2026-10-27](https://juejin.cn/post/7700857041943904282)
 45. [Claude Code vs Codex：Computer Use 实现原理深度拆解](https://juejin.cn/post/7700850888098594870)
 46. [10 个值得关注的 GitHub Agent Skills：让 AI 编程从“能写”走向“会做”](https://juejin.cn/post/7700377150851760128)
-47. [别再迷信 OCR 专用小模型：8 个 7B 以下 VLM 实测，抽取 JSON 结构还得靠通用选手](https://juejin.cn/post/7700440792791449610)
-48. [一天一个开源项目（第248篇）：CleanYourTV —— 让 AI 编程助手通过 Wi-Fi 给安卓电视去广告、换上 Apple TV 风格主屏](https://juejin.cn/post/7700873592036294656)
-49. [同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点](https://juejin.cn/post/7700790222851440640)
+47. [同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点](https://juejin.cn/post/7700790222851440640)
+48. [别再迷信 OCR 专用小模型：8 个 7B 以下 VLM 实测，抽取 JSON 结构还得靠通用选手](https://juejin.cn/post/7700440792791449610)
+49. [一天一个开源项目（第248篇）：CleanYourTV —— 让 AI 编程助手通过 Wi-Fi 给安卓电视去广告、换上 Apple TV 风格主屏](https://juejin.cn/post/7700873592036294656)
 50. [从零手搓 RAG 之 Embedding 技术](https://juejin.cn/post/7700764385023180810)
