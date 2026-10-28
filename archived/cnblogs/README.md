@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-28 16:13:18
+> 更新时间：2026-10-28 17:10:58
 
 ## 最新帖子
 
-1. [在飞书 SDK 上用 Microsoft Agent Framework 搭一个能干活的工作搭子](https://www.cnblogs.com/mudtools/p/23468225)
-2. [Meta 如何改造工程环境，让 Agent 自己跑开发 Loop](https://www.cnblogs.com/Qiniu-developer/p/23467561)
-3. [幻觉（Hallucination）、护栏（Guardrails）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23441090/Hallucination_Guardrails)
-4. [VOFA+：让板子送过来的数字长成曲线](https://www.cnblogs.com/zw-awa/p/23465726)
-5. [前端没有被杀死，被杀死的是"只会把设计稿变成页面"](https://www.cnblogs.com/codigger/p/23464752)
-6. [13. 布尔类型 boolean | 判断成绩是否及格](https://www.cnblogs.com/halfcode/p/23462276)
-7. [100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了](https://www.cnblogs.com/zrui-xyu/p/23463651)
-8. [我做了一个正刊子刊风格的科研论文图片学习库](https://www.cnblogs.com/fkxxgis/p/23463631)
-9. [GGUF 量化内幕：第4章 Q4_0：块量化的起点](https://www.cnblogs.com/apachecn/p/23463542)
-10. [三个“位置”，三种语义：读懂 Oracle Redo Log 的 SCN、RBA 与 XID](https://www.cnblogs.com/liuziyi1/p/23463446)
-11. [自动化流水线的“最后一公里“：任务监听与报告通知服务](https://www.cnblogs.com/exioran/p/23463097)
-12. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23462657)
-13. [用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名](https://www.cnblogs.com/jyzhao/p/23462475)
-14. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
-15. [Flink实时同步Oracle到StarRocks的几个踩坑经验分享](https://www.cnblogs.com/zhangs1986/p/23209171)
-16. [一文读懂 RSI：大模型递归自进化五大技术路线全景解析](https://www.cnblogs.com/aifrontiers/p/23432044)
-17. [MQTT实战 - MQTT 5.0新特性实战：共享订阅、Topic Alias、流控（十）](https://www.cnblogs.com/hugogoos/p/23461845)
-18. [[随笔] 续：关于我在机房安装Arch Linux](https://www.cnblogs.com/SilverGo/p/23459544)
-19. [CodeForces-1461F Mathematical Expression 题解](https://www.cnblogs.com/xiaoniu142857/p/23459819)
-20. [12. 数值类型 number | 统计期末成绩](https://www.cnblogs.com/halfcode/p/23459417)
+1. [HeyGen：如何让全球 10+ GPU 集群训练不再等待数据？](https://www.cnblogs.com/JuiceData/p/23469410)
+2. [在 K8s 上跑大模型推理，为什么越来越多人选了 KServe？](https://www.cnblogs.com/shanyou/p/23469174/kserve)
+3. [在飞书 SDK 上用 Microsoft Agent Framework 搭一个能干活的工作搭子](https://www.cnblogs.com/mudtools/p/23468225)
+4. [Meta 如何改造工程环境，让 Agent 自己跑开发 Loop](https://www.cnblogs.com/Qiniu-developer/p/23467561)
+5. [幻觉（Hallucination）、护栏（Guardrails）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23441090/Hallucination_Guardrails)
+6. [VOFA+：让板子送过来的数字长成曲线](https://www.cnblogs.com/zw-awa/p/23465726)
+7. [前端没有被杀死，被杀死的是"只会把设计稿变成页面"](https://www.cnblogs.com/codigger/p/23464752)
+8. [13. 布尔类型 boolean | 判断成绩是否及格](https://www.cnblogs.com/halfcode/p/23462276)
+9. [100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了](https://www.cnblogs.com/zrui-xyu/p/23463651)
+10. [我做了一个正刊子刊风格的科研论文图片学习库](https://www.cnblogs.com/fkxxgis/p/23463631)
+11. [GGUF 量化内幕：第4章 Q4_0：块量化的起点](https://www.cnblogs.com/apachecn/p/23463542)
+12. [三个“位置”，三种语义：读懂 Oracle Redo Log 的 SCN、RBA 与 XID](https://www.cnblogs.com/liuziyi1/p/23463446)
+13. [自动化流水线的“最后一公里“：任务监听与报告通知服务](https://www.cnblogs.com/exioran/p/23463097)
+14. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23462657)
+15. [用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名](https://www.cnblogs.com/jyzhao/p/23462475)
+16. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
+17. [Flink实时同步Oracle到StarRocks的几个踩坑经验分享](https://www.cnblogs.com/zhangs1986/p/23209171)
+18. [一文读懂 RSI：大模型递归自进化五大技术路线全景解析](https://www.cnblogs.com/aifrontiers/p/23432044)
+19. [MQTT实战 - MQTT 5.0新特性实战：共享订阅、Topic Alias、流控（十）](https://www.cnblogs.com/hugogoos/p/23461845)
+20. [[随笔] 续：关于我在机房安装Arch Linux](https://www.cnblogs.com/SilverGo/p/23459544)
 
 ## 精华帖子
 

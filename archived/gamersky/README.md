@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-28 16:13:39
+> 更新时间：2026-10-28 17:11:36
 
 ## 热点资讯排行
 
@@ -16,6 +16,6 @@
 10. [《影之刃零》60分媒体编辑回应了！称遭到人身威胁](https://www.gamersky.com/news/202610/2235385.shtml)
 11. [60分外媒编辑：《影之刃零》又推送了49.4GB补丁](https://www.gamersky.com/news/202610/2235435.shtml)
 12. [《影之刃零》10月27日开启PC端预下载 游戏本体约145G](https://www.gamersky.com/news/202610/2234640.shtml)
-13. [PS5版《影之刃零》获9分：除了故事 什么都好](https://www.gamersky.com/news/202610/2234777.shtml)
-14. [《影之刃零》日媒9分！未来数年难被超越 汉字读不懂](https://www.gamersky.com/news/202610/2234692.shtml)
-15. [《影之刃零》IGN中国开喷西方DEI!老外点赞直呼认可](https://www.gamersky.com/news/202610/2235642.shtml)
+13. [《影之刃零》IGN中国开喷西方DEI!老外点赞直呼认可](https://www.gamersky.com/news/202610/2235642.shtml)
+14. [PS5版《影之刃零》获9分：除了故事 什么都好](https://www.gamersky.com/news/202610/2234777.shtml)
+15. [《影之刃零》日媒9分！未来数年难被超越 汉字读不懂](https://www.gamersky.com/news/202610/2234692.shtml)
