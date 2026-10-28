@@ -1,6 +1,6 @@
 # V2EX热榜
 
-> 更新时间：2026-10-28 10:14:03
+> 更新时间：2026-10-28 11:12:17
 
 ## 热门主题
 
@@ -11,5 +11,5 @@
 5. [做了个跨 Mac / Windows / Linux 的剪贴板工具 Zipover，送 30 份授权](https://www.v2ex.com/t/1252166)
 6. [今天发现一个沙雕游戏：大到离谱的斧头](https://www.v2ex.com/t/1252202)
 7. [人生到底应该未雨绸缪，还是车到山前必有路？](https://www.v2ex.com/t/1252239)
-8. [昨天用 ChatGPT 找回了 2013 年 BTC 钱包，里面还有余额……](https://www.v2ex.com/t/1252142)
-9. [[HyperAPI 中转站]限时福利，评论留 ID，送$15 体验额度](https://www.v2ex.com/t/1252147)
+8. [Jetbrains 在经历 Fleet 和 Air 的失败之后再次发布一款的轻量级编辑器 Thinkrail](https://www.v2ex.com/t/1252393)
+9. [第一次去健身房需要注意什么](https://www.v2ex.com/t/1252288)

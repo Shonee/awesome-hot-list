@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-28 10:12:55
+> 更新时间：2026-10-28 11:11:38
 
 ## 最新帖子
 
-1. [100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了](https://www.cnblogs.com/zrui-xyu/p/23463651)
-2. [我做了一个正刊子刊风格的科研论文图片学习库](https://www.cnblogs.com/fkxxgis/p/23463631)
-3. [GGUF 量化内幕：第4章 Q4_0：块量化的起点](https://www.cnblogs.com/apachecn/p/23463542)
-4. [三个“位置”，三种语义：读懂 Oracle Redo Log 的 SCN、RBA 与 XID](https://www.cnblogs.com/liuziyi1/p/23463446)
-5. [自动化流水线的“最后一公里“：任务监听与报告通知服务](https://www.cnblogs.com/exioran/p/23463097)
-6. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23462657)
-7. [用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名](https://www.cnblogs.com/jyzhao/p/23462475)
-8. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
-9. [Flink实时同步Oracle到StarRocks的几个踩坑经验分享](https://www.cnblogs.com/zhangs1986/p/23209171)
-10. [一文读懂 RSI：大模型递归自进化五大技术路线全景解析](https://www.cnblogs.com/aifrontiers/p/23432044)
-11. [MQTT实战 - MQTT 5.0新特性实战：共享订阅、Topic Alias、流控（十）](https://www.cnblogs.com/hugogoos/p/23461845)
-12. [[随笔] 续：关于我在机房安装Arch Linux](https://www.cnblogs.com/SilverGo/p/23459544)
-13. [CodeForces-1461F Mathematical Expression 题解](https://www.cnblogs.com/xiaoniu142857/p/23459819)
-14. [12. 数值类型 number | 统计期末成绩](https://www.cnblogs.com/halfcode/p/23459417)
-15. [【Azure App Service】PHP2Shell 远程代码执行漏洞(CVE-2026-109618 / CVE-2026-109619)在App Service的影响](https://www.cnblogs.com/lulight/p/23458875)
-16. [闽南语讲透：台青廖昌威《等你平安归来》拿落上海国际AIGC大赛压轴大奖，阮是按怎做到的](https://www.cnblogs.com/MarkLiao/p/23458739)
-17. [RAG（检索增强生成）、推理（Inference）、嵌入（Embedding）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23440918/RAG_Inference_Embedding)
-18. [我们给测试团队做了一套「AI 测试搭子」：从需求评审到压测报告，8 个 Agent Skill 全链路打通](https://www.cnblogs.com/becks/p/23457265)
-19. [LLM & Agent 刷题路线图上线](https://www.cnblogs.com/labuladong/p/23456910)
-20. [企业级内网DNS实战：用 dnsmasq 搭个内网 DNS](https://www.cnblogs.com/gloamfox/p/23456507)
+1. [前端没有被杀死，被杀死的是"只会把设计稿变成页面"](https://www.cnblogs.com/codigger/p/23464752)
+2. [13. 布尔类型 boolean | 判断成绩是否及格](https://www.cnblogs.com/halfcode/p/23462276)
+3. [多 Agent 架构中的 Subagent 拆分与合并策略](https://www.cnblogs.com/Qiniu-developer/p/23464400)
+4. [100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了](https://www.cnblogs.com/zrui-xyu/p/23463651)
+5. [我做了一个正刊子刊风格的科研论文图片学习库](https://www.cnblogs.com/fkxxgis/p/23463631)
+6. [GGUF 量化内幕：第4章 Q4_0：块量化的起点](https://www.cnblogs.com/apachecn/p/23463542)
+7. [三个“位置”，三种语义：读懂 Oracle Redo Log 的 SCN、RBA 与 XID](https://www.cnblogs.com/liuziyi1/p/23463446)
+8. [自动化流水线的“最后一公里“：任务监听与报告通知服务](https://www.cnblogs.com/exioran/p/23463097)
+9. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23462657)
+10. [用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名](https://www.cnblogs.com/jyzhao/p/23462475)
+11. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
+12. [Flink实时同步Oracle到StarRocks的几个踩坑经验分享](https://www.cnblogs.com/zhangs1986/p/23209171)
+13. [一文读懂 RSI：大模型递归自进化五大技术路线全景解析](https://www.cnblogs.com/aifrontiers/p/23432044)
+14. [MQTT实战 - MQTT 5.0新特性实战：共享订阅、Topic Alias、流控（十）](https://www.cnblogs.com/hugogoos/p/23461845)
+15. [[随笔] 续：关于我在机房安装Arch Linux](https://www.cnblogs.com/SilverGo/p/23459544)
+16. [CodeForces-1461F Mathematical Expression 题解](https://www.cnblogs.com/xiaoniu142857/p/23459819)
+17. [12. 数值类型 number | 统计期末成绩](https://www.cnblogs.com/halfcode/p/23459417)
+18. [【Azure App Service】PHP2Shell 远程代码执行漏洞(CVE-2026-109618 / CVE-2026-109619)在App Service的影响](https://www.cnblogs.com/lulight/p/23458875)
+19. [闽南语讲透：台青廖昌威《等你平安归来》拿落上海国际AIGC大赛压轴大奖，阮是按怎做到的](https://www.cnblogs.com/MarkLiao/p/23458739)
+20. [RAG（检索增强生成）、推理（Inference）、嵌入（Embedding）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23440918/RAG_Inference_Embedding)
 
 ## 精华帖子
 
