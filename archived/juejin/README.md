@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-29 05:09:15
+> 更新时间：2026-10-29 06:10:12
 
 ## 热门文章
 
@@ -16,13 +16,13 @@
 10. [程序员 1v1 访谈系列第七期：失业半年所想到的](https://juejin.cn/post/7700157486074904611)
 11. [删了一个没用的 console.log，生产环境直接崩了!](https://juejin.cn/post/7701290557268951066)
 12. [🔥说一说在线文档的 Block 架构是如何实现的](https://juejin.cn/post/7700267917769916466)
-13. [栗子前端技术周刊第 151 期 - ViteConf 2026、React Router 8.5、React Native 0.88...](https://juejin.cn/post/7700215375997075497)
-14. [不想开会员，我写了一个记账 App](https://juejin.cn/post/7700592903408533546)
+13. [不想开会员，我写了一个记账 App](https://juejin.cn/post/7700592903408533546)
+14. [栗子前端技术周刊第 151 期 - ViteConf 2026、React Router 8.5、React Native 0.88...](https://juejin.cn/post/7700215375997075497)
 15. [Three.js 医院三维大屏实战：Codex + Blender MCP + React 从建模到交互全流程](https://juejin.cn/post/7700887980140429322)
 16. [我让 4 个 AI 互相 review 代码，最温柔的那个下手最狠](https://juejin.cn/post/7700798335889031183)
 17. [AI 会干掉 React Native 吗？](https://juejin.cn/post/7700822035409928246)
-18. [花旗、安永、英伟达联手写的文档摄取系统报告：92% 的页面根本不需要 OCR](https://juejin.cn/post/7700267917769818162)
-19. [程序员 1v1 访谈系列第八期：大龄女程序员的困境](https://juejin.cn/post/7701269925755846671)
+18. [程序员 1v1 访谈系列第八期：大龄女程序员的困境](https://juejin.cn/post/7701269925755846671)
+19. [花旗、安永、英伟达联手写的文档摄取系统报告：92% 的页面根本不需要 OCR](https://juejin.cn/post/7700267917769818162)
 20. [别再用防抖做懒加载了：120 张图只加载出 4 张](https://juejin.cn/post/7701269925750947855)
 21. [Kimi K3.1 Pro 编程实测：3个月27万行代码，每年1.7万预算下如何9分钟修好顽固Bug](https://juejin.cn/post/7700627964493447210)
 22. [GPT-6.1 Terra上线：更便宜了，干活到底怎么样？](https://juejin.cn/post/7701352628311392297)
@@ -32,8 +32,8 @@
 26. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
 27. [模型吐出半截JSON，前端如何边收边渲染？2026年AI应用必须闯过的工程关](https://juejin.cn/post/7700510231650844715)
 28. [GitHub 日榜趋势速报 | 2026-10-26](https://juejin.cn/post/7700194552506466331)
-29. [我用 DeepSeek 做了 4 个零依赖的赚钱小工具，全部开源](https://juejin.cn/post/7673809190474629155)
-30. [企业智能知识库 Python 后端实战：FastAPI + RAG + KAG 企业级 AI 项目](https://juejin.cn/post/7700790717106847754)
+29. [企业智能知识库 Python 后端实战：FastAPI + RAG + KAG 企业级 AI 项目](https://juejin.cn/post/7700790717106847754)
+30. [我用 DeepSeek 做了 4 个零依赖的赚钱小工具，全部开源](https://juejin.cn/post/7673809190474629155)
 31. [doc2docx方案，开源！](https://juejin.cn/post/7700603865700663336)
 32. [一个人，带着一群 AI：一个 10 年前端如何做出几十个团队在用的在线文档](https://juejin.cn/post/7700215375997370409)
 33. [Windows也能用 Apple Watch 解锁](https://juejin.cn/post/7700194552506286107)
