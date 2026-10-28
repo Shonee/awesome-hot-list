@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-28 21:09:34
+> 更新时间：2026-10-29 03:35:19
 
 ## 每日趋势
 
@@ -28,9 +28,10 @@
 5. [TradingAgents](https://github.com/TauricResearch/TradingAgents)
 6. [impeccable](https://github.com/pbakaus/impeccable)
 7. [graphify](https://github.com/Graphify-Labs/graphify)
-8. [ruflo](https://github.com/ruvnet/ruflo)
-9. [opencode](https://github.com/anomalyco/opencode)
-10. [skills](https://github.com/jakubkrehel/skills)
+8. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+9. [ruflo](https://github.com/ruvnet/ruflo)
+10. [opencode](https://github.com/anomalyco/opencode)
+11. [skills](https://github.com/jakubkrehel/skills)
 
 ## 每月趋势
 
@@ -48,10 +49,11 @@
 12. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 13. [t3code](https://github.com/pingdotgg/t3code)
 14. [OpenShell](https://github.com/NVIDIA/OpenShell)
-15. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-16. [ponytail](https://github.com/DietrichGebert/ponytail)
-17. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
-18. [hallmark](https://github.com/Nutlope/hallmark)
+15. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+16. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+17. [ponytail](https://github.com/DietrichGebert/ponytail)
+18. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+19. [hallmark](https://github.com/Nutlope/hallmark)
 
 ## Java
 
@@ -112,24 +114,26 @@
 ## HTML
 
 1. [huashu-design](https://github.com/alchaincyf/huashu-design)
-2. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
-3. [prompts.chat](https://github.com/f/prompts.chat)
-4. [MeshCentral](https://github.com/Ylianst/MeshCentral)
-5. [galaxy](https://github.com/uiverse-io/galaxy)
-6. [wpt](https://github.com/web-platform-tests/wpt)
-7. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
-8. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
-9. [shiji-kb](https://github.com/baojie/shiji-kb)
-10. [Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next)
+2. [microduck-replica](https://github.com/fanhao375/microduck-replica)
+3. [transitions.dev](https://github.com/Jakubantalik/transitions.dev)
+4. [prompts.chat](https://github.com/f/prompts.chat)
+5. [MeshCentral](https://github.com/Ylianst/MeshCentral)
+6. [galaxy](https://github.com/uiverse-io/galaxy)
+7. [wpt](https://github.com/web-platform-tests/wpt)
+8. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
+9. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
+10. [shiji-kb](https://github.com/baojie/shiji-kb)
+11. [Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next)
 
 ## JavaScript
 
 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-2. [ponytail](https://github.com/DietrichGebert/ponytail)
-3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
-4. [ECC](https://github.com/affaan-m/ECC)
-5. [ego-lite](https://github.com/citrolabs/ego-lite)
-6. [node](https://github.com/nodejs/node)
-7. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
-8. [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
-9. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+2. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+3. [ponytail](https://github.com/DietrichGebert/ponytail)
+4. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+5. [ECC](https://github.com/affaan-m/ECC)
+6. [ego-lite](https://github.com/citrolabs/ego-lite)
+7. [node](https://github.com/nodejs/node)
+8. [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+9. [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+10. [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
