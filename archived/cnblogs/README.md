@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-28 08:24:31
+> 更新时间：2026-10-28 09:10:37
 
 ## 最新帖子
 
-1. [用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名](https://www.cnblogs.com/jyzhao/p/23462475)
-2. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
-3. [Flink实时同步Oracle到StarRocks的几个踩坑经验分享](https://www.cnblogs.com/zhangs1986/p/23209171)
-4. [一文读懂 RSI：大模型递归自进化五大技术路线全景解析](https://www.cnblogs.com/aifrontiers/p/23432044)
-5. [MQTT实战 - MQTT 5.0新特性实战：共享订阅、Topic Alias、流控（十）](https://www.cnblogs.com/hugogoos/p/23461845)
-6. [[随笔] 续：关于我在机房安装Arch Linux](https://www.cnblogs.com/SilverGo/p/23459544)
-7. [CodeForces-1461F Mathematical Expression 题解](https://www.cnblogs.com/xiaoniu142857/p/23459819)
-8. [12. 数值类型 number | 统计期末成绩](https://www.cnblogs.com/halfcode/p/23459417)
-9. [【Azure App Service】PHP2Shell 远程代码执行漏洞(CVE-2026-109618 / CVE-2026-109619)在App Service的影响](https://www.cnblogs.com/lulight/p/23458875)
-10. [闽南语讲透：台青廖昌威《等你平安归来》拿落上海国际AIGC大赛压轴大奖，阮是按怎做到的](https://www.cnblogs.com/MarkLiao/p/23458739)
-11. [RAG（检索增强生成）、推理（Inference）、嵌入（Embedding）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23440918/RAG_Inference_Embedding)
-12. [我们给测试团队做了一套「AI 测试搭子」：从需求评审到压测报告，8 个 Agent Skill 全链路打通](https://www.cnblogs.com/becks/p/23457265)
-13. [LLM & Agent 刷题路线图上线](https://www.cnblogs.com/labuladong/p/23456910)
-14. [企业级内网DNS实战：用 dnsmasq 搭个内网 DNS](https://www.cnblogs.com/gloamfox/p/23456507)
-15. [大厂程序员写 AI 编程半年来，我的 3 次认知推翻与 1 次生存顿悟](https://www.cnblogs.com/uniqueDong/p/23455856)
-16. [Windows 下用 win-acme 申请 Let's Encrypt 通配符证书并部署到 Nginx、Java（保姆级教程）](https://www.cnblogs.com/huanzi-qch/p/23455584)
-17. [Zvec v0.8.0 正式发布](https://www.cnblogs.com/DashVector/p/23455210)
-18. [接入 McpFramework 让任意 .NET 程序被 Agent 遥控](https://www.cnblogs.com/MrHuo/p/23455164/mcp-framework)
-19. [一份声明，多份产物：飞书 SDK 的 AI 工具面是怎么生成的](https://www.cnblogs.com/mudtools/p/23455113)
-20. [从 GLM 到 GPT，HarnessPro 如何用 RSI 降低 Agent 成本](https://www.cnblogs.com/Qiniu-developer/p/23453403)
+1. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23462657)
+2. [用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名](https://www.cnblogs.com/jyzhao/p/23462475)
+3. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
+4. [Flink实时同步Oracle到StarRocks的几个踩坑经验分享](https://www.cnblogs.com/zhangs1986/p/23209171)
+5. [一文读懂 RSI：大模型递归自进化五大技术路线全景解析](https://www.cnblogs.com/aifrontiers/p/23432044)
+6. [MQTT实战 - MQTT 5.0新特性实战：共享订阅、Topic Alias、流控（十）](https://www.cnblogs.com/hugogoos/p/23461845)
+7. [[随笔] 续：关于我在机房安装Arch Linux](https://www.cnblogs.com/SilverGo/p/23459544)
+8. [CodeForces-1461F Mathematical Expression 题解](https://www.cnblogs.com/xiaoniu142857/p/23459819)
+9. [12. 数值类型 number | 统计期末成绩](https://www.cnblogs.com/halfcode/p/23459417)
+10. [【Azure App Service】PHP2Shell 远程代码执行漏洞(CVE-2026-109618 / CVE-2026-109619)在App Service的影响](https://www.cnblogs.com/lulight/p/23458875)
+11. [闽南语讲透：台青廖昌威《等你平安归来》拿落上海国际AIGC大赛压轴大奖，阮是按怎做到的](https://www.cnblogs.com/MarkLiao/p/23458739)
+12. [RAG（检索增强生成）、推理（Inference）、嵌入（Embedding）-AI 相关概念之（应用与交互概念）](https://www.cnblogs.com/hnzhengfy/p/23440918/RAG_Inference_Embedding)
+13. [我们给测试团队做了一套「AI 测试搭子」：从需求评审到压测报告，8 个 Agent Skill 全链路打通](https://www.cnblogs.com/becks/p/23457265)
+14. [LLM & Agent 刷题路线图上线](https://www.cnblogs.com/labuladong/p/23456910)
+15. [企业级内网DNS实战：用 dnsmasq 搭个内网 DNS](https://www.cnblogs.com/gloamfox/p/23456507)
+16. [大厂程序员写 AI 编程半年来，我的 3 次认知推翻与 1 次生存顿悟](https://www.cnblogs.com/uniqueDong/p/23455856)
+17. [Windows 下用 win-acme 申请 Let's Encrypt 通配符证书并部署到 Nginx、Java（保姆级教程）](https://www.cnblogs.com/huanzi-qch/p/23455584)
+18. [Zvec v0.8.0 正式发布](https://www.cnblogs.com/DashVector/p/23455210)
+19. [接入 McpFramework 让任意 .NET 程序被 Agent 遥控](https://www.cnblogs.com/MrHuo/p/23455164/mcp-framework)
+20. [一份声明，多份产物：飞书 SDK 的 AI 工具面是怎么生成的](https://www.cnblogs.com/mudtools/p/23455113)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [.NET发布最小能多小？我从86MB凹到了657字节](https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc)
 2. [我花200美元用AI重写了纯C#高精度数学库：放大 10^290 倍也不糊](https://www.cnblogs.com/sdcb/p/23446780/20261027-arithmetic-pure-dotnet)
 3. [尤雨溪 : Vue 4 已经在规划中了！](https://www.cnblogs.com/HaiJun-Aion/p/23438038)
-4. [从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单](https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls)
-5. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
-6. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
+4. [为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！](https://www.cnblogs.com/formulahendry/p/23435991)
+5. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
+6. [上周热点回顾（10.19-10.25）](https://www.cnblogs.com/cmt/p/23439339)

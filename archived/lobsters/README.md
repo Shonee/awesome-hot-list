@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-28 08:25:30
+> 更新时间：2026-10-28 09:11:36
 
 ## Hottest
 
@@ -10,8 +10,8 @@
 4. [Shitty Screenshare](http://shittyscreenshare.com)
 5. [1,447 emoji? We'll do it live](https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch)
 6. [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
-7. [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
-8. [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+7. [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+8. [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
 9. [The Exponential Time Hypothesis Is False [pdf]](https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf)
 10. [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)
 11. [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
