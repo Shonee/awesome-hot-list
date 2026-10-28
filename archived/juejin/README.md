@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-29 00:11:32
+> 更新时间：2026-10-29 01:09:24
 
 ## 热门文章
 
@@ -10,8 +10,8 @@
 4. [介绍一个开源项目 —— 烂笔头](https://juejin.cn/post/7700157486074478627)
 5. [AI 越强，失业越严重](https://juejin.cn/post/7700627964494168106)
 6. [掀桌子了！Kimi K3.1 Pro 这效果也太离谱了。](https://juejin.cn/post/7700627964493365290)
-7. [Flutter 紧急发布 3.47.8 安全升级版本，建议都升级](https://juejin.cn/post/7700380674944204810)
-8. [出事了，AI 提效后，老板让我裁员20%](https://juejin.cn/post/7700887980139036682)
+7. [出事了，AI 提效后，老板让我裁员20%](https://juejin.cn/post/7700887980139036682)
+8. [Flutter 紧急发布 3.47.8 安全升级版本，建议都升级](https://juejin.cn/post/7700380674944204810)
 9. [程序员 1v1 访谈系列第七期：失业半年所想到的](https://juejin.cn/post/7700157486074904611)
 10. [🔥说一说在线文档的 Block 架构是如何实现的](https://juejin.cn/post/7700267917769916466)
 11. [删了一个没用的 console.log，生产环境直接崩了!](https://juejin.cn/post/7701290557268951066)
@@ -27,9 +27,9 @@
 21. [Kimi K3.1 Pro 编程实测：3个月27万行代码，每年1.7万预算下如何9分钟修好顽固Bug](https://juejin.cn/post/7700627964493447210)
 22. [GPT-6.1 Terra上线：更便宜了，干活到底怎么样？](https://juejin.cn/post/7701352628311392297)
 23. [模型吐出半截JSON，前端如何边收边渲染？2026年AI应用必须闯过的工程关](https://juejin.cn/post/7700510231650844715)
-24. [又找到一个纯Java的OCR项目，识别的格式还挺多](https://juejin.cn/post/7700962023287128115)
-25. [用 Codex 完成智慧高速 3D 可视化大屏，从 18 张行业设计稿到可交互的运行监测中心](https://juejin.cn/post/7700627964493971498)
-26. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
+24. [AI 编程时代，为什么 Dart 分析会拖慢大型项目的开发](https://juejin.cn/post/7700520116152287295)
+25. [又找到一个纯Java的OCR项目，识别的格式还挺多](https://juejin.cn/post/7700962023287128115)
+26. [用 Codex 完成智慧高速 3D 可视化大屏，从 18 张行业设计稿到可交互的运行监测中心](https://juejin.cn/post/7700627964493971498)
 27. [我买的电视，我还不能研究它吗？](https://juejin.cn/post/7701316033940865058)
 28. [GitHub 日榜趋势速报 | 2026-10-26](https://juejin.cn/post/7700194552506466331)
 29. [我用 DeepSeek 做了 4 个零依赖的赚钱小工具，全部开源](https://juejin.cn/post/7673809190474629155)
@@ -44,13 +44,13 @@
 38. [AI 改完代码，人却不知道它改了什么：架构漂移才是真正的成本](https://juejin.cn/post/7700846756351180810)
 39. [你的Flutter项目要不要紧急升级3.47.8？](https://juejin.cn/post/7700796727406968859)
 40. [10 个值得关注的 GitHub Agent Skills：让 AI 编程从“能写”走向“会做”](https://juejin.cn/post/7700377150851760128)
-41. [做了三年 ProseMirror 后，我用四个月自研排版引擎实现 WPS / Google Docs 替代品，整套框架 MIT 开源](https://juejin.cn/post/7701285133392199690)
-42. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://juejin.cn/post/7701258021997625353)
-43. [GitHub 日榜趋势速报 | 2026-10-27](https://juejin.cn/post/7700857041943904282)
+41. [GitHub 日榜趋势速报 | 2026-10-27](https://juejin.cn/post/7700857041943904282)
+42. [做了三年 ProseMirror 后，我用四个月自研排版引擎实现 WPS / Google Docs 替代品，整套框架 MIT 开源](https://juejin.cn/post/7701285133392199690)
+43. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://juejin.cn/post/7701258021997625353)
 44. [Claude Code vs Codex：Computer Use 实现原理深度拆解](https://juejin.cn/post/7700850888098594870)
 45. [别再迷信 OCR 专用小模型：8 个 7B 以下 VLM 实测，抽取 JSON 结构还得靠通用选手](https://juejin.cn/post/7700440792791449610)
 46. [你可能成不了技术大佬，然后呢？](https://juejin.cn/post/7701515320582029346)
 47. [想做个人副业别乱买服务器！我的 5 个月真实开销分享](https://juejin.cn/post/7701510609427185690)
 48. [同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点](https://juejin.cn/post/7700790222851440640)
 49. [APP 人脸识别增值版 SDK：Camera2 无缝接入指南](https://juejin.cn/post/7700601438522785843)
-50. [从零手搓 RAG 之 Embedding 技术](https://juejin.cn/post/7700764385023180810)
+50. [一天一个开源项目（第248篇）：CleanYourTV —— 让 AI 编程助手通过 Wi-Fi 给安卓电视去广告、换上 Apple TV 风格主屏](https://juejin.cn/post/7700873592036294656)

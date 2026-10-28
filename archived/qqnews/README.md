@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-10-29 00:11:45
+> 更新时间：2026-10-29 01:09:44
 
 ## 热点榜
 
@@ -17,10 +17,10 @@
 11. [红军守矩篇 | 历史见证田头“割麦证”](https://mp.weixin.qq.com/s/4UQ6LKxXGbBVZqEO0RFISw?platform=mac&version=5.0.12.70798)
 12. [俄罗斯战略核潜艇试射洲际弹道导弹，俄国防部公开视频](https://view.inews.qq.com/a/20261028A0CGUG00)
 13. [父子海钓时船突然翻了，手机进水彻底失联，父亲果断将两件救生衣捆作一处，海上漂流近11小时两人体力严重透支，被渔船发现后获救](https://view.inews.qq.com/a/20261028A0CWQU00)
-14. [美国压着不让韩国“独立”，有个秘密…](https://view.inews.qq.com/a/20261028A099KF00)
-15. [财经聚焦｜从前三季度用电量看经济发展新动能](https://view.inews.qq.com/a/20261026A0DZCH00)
+14. [财经聚焦｜从前三季度用电量看经济发展新动能](https://view.inews.qq.com/a/20261026A0DZCH00)
+15. [美国压着不让韩国“独立”，有个秘密…](https://view.inews.qq.com/a/20261028A099KF00)
 16. [A股全线大反弹！能抄底了吗？](https://view.inews.qq.com/a/20261028A09JYS00)
-17. [中国舞蹈家协会发布讣告](https://view.inews.qq.com/a/20261028A02WPL00)
-18. [全球首个，巴基斯坦已禁止台湾航空公司飞越领空](https://view.inews.qq.com/a/20261028A0DPKD00)
-19. [西班牙高铁列车追尾造成重大伤亡](https://view.inews.qq.com/a/UTR2026102834265400)
-20. [德国总统访华呼吁德企：表现出自信并实现互利共赢](https://view.inews.qq.com/a/20261028A082FZ00)
+17. [西班牙高铁列车追尾造成重大伤亡](https://view.inews.qq.com/a/UTR2026102834265400)
+18. [科普丛书出现“双头虾”“鱼头人身”等怪异图片，中国农业出版社回应](https://view.inews.qq.com/a/20261028A07M5400)
+19. [视频丨恢复出厂≠清空手机 你的隐私还在吗？](https://view.inews.qq.com/a/20261028A01WXQ00)
+20. [8000亿元新型政策性金融工具投放完成](https://view.inews.qq.com/a/20261028A0BZXU00)
