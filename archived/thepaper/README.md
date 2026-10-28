@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-29 02:12:04
+> 更新时间：2026-10-29 03:08:13
 
 ## 热新闻
 
@@ -14,9 +14,9 @@
 8. [马上评｜“扫码缴费先看广告”不能再继续了](https://www.thepaper.cn/newsDetail_forward_34349086)
 9. [体坛联播｜西甲主席称与驻西班牙大使会面，阿森纳联赛杯出局](https://www.thepaper.cn/newsDetail_forward_34347913)
 10. [言短意长｜“双头虾”闹剧，重创的是科普出版的科学信誉](https://www.thepaper.cn/newsDetail_forward_34349995)
-11. [一些单位习惯于“遇事先建群”，工人日报：不把随时在线当作敬业标准](https://www.thepaper.cn/newsDetail_forward_34347912)
-12. [央视关注支教老师邹志鹏：零薪资坚持二十载，“希望自己活成一道光”](https://www.thepaper.cn/newsDetail_forward_34347247)
-13. [澎湃漫评｜“双头虾”背后是“两头瞎”](https://www.thepaper.cn/newsDetail_forward_34350140)
+11. [澎湃漫评｜“双头虾”背后是“两头瞎”](https://www.thepaper.cn/newsDetail_forward_34350140)
+12. [一些单位习惯于“遇事先建群”，工人日报：不把随时在线当作敬业标准](https://www.thepaper.cn/newsDetail_forward_34347912)
+13. [央视关注支教老师邹志鹏：零薪资坚持二十载，“希望自己活成一道光”](https://www.thepaper.cn/newsDetail_forward_34347247)
 14. [人民锐评：姆巴佩的“翻车”，公众人物的镜鉴](https://www.thepaper.cn/newsDetail_forward_34348063)
 15. [西甲想当和事佬，皇马还在无所谓，傲慢的皇马还要装多久鸵鸟](https://www.thepaper.cn/newsDetail_forward_34349415)
 16. [云南元谋法院公示：因诈骗获刑5年罪犯再次怀孕，决定继续暂予监外执行](https://www.thepaper.cn/newsDetail_forward_34349395)
