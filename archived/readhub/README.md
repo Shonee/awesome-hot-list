@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-28 14:16:19
+> 更新时间：2026-10-28 15:34:59
 
 ## 24 小时热榜
 
@@ -10,30 +10,30 @@
 4. [字节大模型研发受赛马机制制约，进展不及预期](https://readhub.cn/topic/8xYcNNh3uwp?tab=daily)
 5. [苹果推出搭载强劲 M6 芯片的全新 iMac](https://readhub.cn/topic/8xZVQUwyZMd?tab=daily)
 6. [抖音李亮：腾讯短剧、短视频增长速度远超抖音和红果](https://readhub.cn/topic/8xZSueddgEQ?tab=daily)
-7. [苹果 iPhone 18 Pro 系列中国市场销量增 29% 创最强劲增长纪录](https://readhub.cn/topic/8xZ1QKKIgAl?tab=daily)
+7. [小米首个员工住宅项目「光谷梦享家」正式开盘](https://readhub.cn/topic/8xYpyNzlJBL?tab=daily)
 8. [Anthropic 创始人表态：Claude 将坚持无广告模式](https://readhub.cn/topic/8xZHvaSeu7g?tab=daily)
-9. [小米首个员工住宅项目「光谷梦享家」正式开盘](https://readhub.cn/topic/8xYpyNzlJBL?tab=daily)
-10. [央视全面叫停涉及姆巴佩的赛事播出及相关广告](https://readhub.cn/topic/8xZ3EDytzIM?tab=daily)
-11. [阿里腾讯字节据称寻求与三星 SK 海力士签最长至 2035 年 DRAM 供应协议](https://readhub.cn/topic/8xZ77qsZqK3?tab=daily)
-12. [智元发布具身 Agent 框架 Genie Master：机器人可边工作边进化](https://readhub.cn/topic/8xZ3Xw2s8Fj?tab=daily)
-13. [OpenAI 宣称取得三项重大科学成果 挑战近 30 年计算机科学假设](https://readhub.cn/topic/8xZBPqxoDZ8?tab=daily)
-14. [雷鸟 iO+ 首次曝光：第四代双目全彩 AI 眼镜即将登场](https://readhub.cn/topic/8xYr2AZ8x6l?tab=daily)
-15. [比亚迪仰望超豪华行政旗舰轿车定名为「鼎曜」](https://readhub.cn/topic/8xZ3CIAl6Pg?tab=daily)
-16. [腾讯 WorkBuddy 上线「远程控制」](https://readhub.cn/topic/8xaY6AqXA5B?tab=daily)
-17. [ChatGPT 被指教唆癫痫患者减药致其去世，OpenAI 遭起诉](https://readhub.cn/topic/8xZsGe6BYCq?tab=daily)
-18. [南非女作家借 AI 约 20 个月出版 371 本书引争议，自称年收入超百万美元](https://readhub.cn/topic/8xZEHjiPgGP?tab=daily)
-19. [张坤旗下基金三季报披露：新进重仓新易盛 白酒持仓减少](https://readhub.cn/topic/8xZ2ppqs6Ix?tab=daily)
-20. [Soul 将推出 Loxinity，为自研语音、视觉与多模态交互产品](https://readhub.cn/topic/8xYi7sLLKSW?tab=daily)
-21. [20 人 9 个月，《不问凡尘》用 AI 做出 26 万玩家买单的超写实互动作品](https://readhub.cn/topic/8xZg84g26Rk?tab=daily)
-22. [牛散章建平夫妇分别新进东材科技、方正科技前十大股东](https://readhub.cn/topic/8xZM6xXZjJj?tab=daily)
-23. [Anthropic 七位创始人平分股权，IPO 后价值或高达 2000 亿美元](https://readhub.cn/topic/8xZ3YrIS1og?tab=daily)
-24. [微信输入法「AI 录音笔」上线 支持多端同步与好友分享](https://readhub.cn/topic/8xZ51ZP8Wrx?tab=daily)
-25. [SK 海力士：DRAM 和 HBM 到 2029 年的产能已全部售罄](https://readhub.cn/topic/8xaIkbbBXVD?tab=daily)
-26. [Anthropic 创始人阿莫迪兄妹称 7 人共同创业是公司成功关键](https://readhub.cn/topic/8xaGa6vNN7y?tab=daily)
-27. [AI 设计抗癌药进入人体试验：122 名患者接受治疗，部分脑转移病灶出现缩小](https://readhub.cn/topic/8xZTFsr2d8u?tab=daily)
-28. [数十 AI Agent24 天完成数学巨型工程 揪出 40 年前论证漏洞](https://readhub.cn/topic/8xaZAhdh1Dl?tab=daily)
-29. [苹果将于周三发布 14 英寸和 16 英寸触控屏 MacBook](https://readhub.cn/topic/8xa802nNbFc?tab=daily)
-30. [大众拟考虑将与小鹏联合开发的中国软件架构引入欧洲车型](https://readhub.cn/topic/8xYbfLklEqg?tab=daily)
+9. [央视全面叫停涉及姆巴佩的赛事播出及相关广告](https://readhub.cn/topic/8xZ3EDytzIM?tab=daily)
+10. [阿里腾讯字节据称寻求与三星 SK 海力士签最长至 2035 年 DRAM 供应协议](https://readhub.cn/topic/8xZ77qsZqK3?tab=daily)
+11. [OpenAI 宣称取得三项重大科学成果 挑战近 30 年计算机科学假设](https://readhub.cn/topic/8xZBPqxoDZ8?tab=daily)
+12. [腾讯 WorkBuddy 上线「远程控制」](https://readhub.cn/topic/8xaY6AqXA5B?tab=daily)
+13. [ChatGPT 被指教唆癫痫患者减药致其去世，OpenAI 遭起诉](https://readhub.cn/topic/8xZsGe6BYCq?tab=daily)
+14. [比亚迪仰望超豪华行政旗舰轿车定名为「鼎曜」](https://readhub.cn/topic/8xZ3CIAl6Pg?tab=daily)
+15. [南非女作家借 AI 约 20 个月出版 371 本书引争议，自称年收入超百万美元](https://readhub.cn/topic/8xZEHjiPgGP?tab=daily)
+16. [20 人 9 个月，《不问凡尘》用 AI 做出 26 万玩家买单的超写实互动作品](https://readhub.cn/topic/8xZg84g26Rk?tab=daily)
+17. [数十 AI Agent24 天完成数学巨型工程 揪出 40 年前论证漏洞](https://readhub.cn/topic/8xaZAhdh1Dl?tab=daily)
+18. [牛散章建平夫妇分别新进东材科技、方正科技前十大股东](https://readhub.cn/topic/8xZM6xXZjJj?tab=daily)
+19. [Anthropic 七位创始人平分股权，IPO 后价值或高达 2000 亿美元](https://readhub.cn/topic/8xZ3YrIS1og?tab=daily)
+20. [SK 海力士：DRAM 和 HBM 到 2029 年的产能已全部售罄](https://readhub.cn/topic/8xaIkbbBXVD?tab=daily)
+21. [微信输入法「AI 录音笔」上线 支持多端同步与好友分享](https://readhub.cn/topic/8xZ51ZP8Wrx?tab=daily)
+22. [苹果将于周三发布 14 英寸和 16 英寸触控屏 MacBook](https://readhub.cn/topic/8xa802nNbFc?tab=daily)
+23. [Anthropic 创始人阿莫迪兄妹称 7 人共同创业是公司成功关键](https://readhub.cn/topic/8xaGa6vNN7y?tab=daily)
+24. [大众拟考虑将与小鹏联合开发的中国软件架构引入欧洲车型](https://readhub.cn/topic/8xYbfLklEqg?tab=daily)
+25. [AI 设计抗癌药进入人体试验：122 名患者接受治疗，部分脑转移病灶出现缩小](https://readhub.cn/topic/8xZTFsr2d8u?tab=daily)
+26. [苹果推送 iOS 27.2 正式版 国行可限制摇一摇广告跳转](https://readhub.cn/topic/8xZH7vDWfxq?tab=daily)
+27. [11 省市双 11 发放政府消费券 至高补贴 25%](https://readhub.cn/topic/8xaVDPDfc5U?tab=daily)
+28. [微软向 6 万员工提供自愿离职方案](https://readhub.cn/topic/8xZiyqqWSrH?tab=daily)
+29. [长鑫科技已被纳入上证综合指数 位列第一大权重股](https://readhub.cn/topic/8xaUAAnXxNL?tab=daily)
+30. [iPhone Duo 被曝多起屏幕开裂 无 AC+ 维修费用近 8000 元](https://readhub.cn/topic/8xYs6x2UwlB?tab=daily)
 
 ## 每日早报
 
