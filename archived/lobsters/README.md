@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-28 11:12:38
+> 更新时间：2026-10-28 12:13:09
 
 ## Hottest
 
@@ -13,19 +13,19 @@
 7. [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 8. [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
 9. [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)
-10. [The Exponential Time Hypothesis Is False [pdf]](https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf)
-11. [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
-12. [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
-13. [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
-14. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
-15. [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
-16. [Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's](https://lobste.rs/s/87iesc)
+10. [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
+11. [The Exponential Time Hypothesis Is False [pdf]](https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf)
+12. [Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's](https://lobste.rs/s/87iesc)
+13. [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
+14. [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+15. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+16. [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 17. [Full Haskell-like Type Class resolution in Java](https://garciat.com/posts/java-type-classes/)
 18. [An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)](https://www.cheswick.com/ches/papers/berferd.pdf)
 19. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 20. [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
-21. [The Shift of Theseus — Toy Bit Provenance Abstract Domain](https://www.pypy.org/posts/2026/10/toy-bit-provenance.html)
-22. [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
-23. [A select should tell you something](https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html)
-24. [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
-25. [Coders’ Rights Project Reverse Engineering FAQ (2017)](https://www.eff.org/issues/coders/reverse-engineering-faq)
+21. [A select should tell you something](https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html)
+22. [The Shift of Theseus — Toy Bit Provenance Abstract Domain](https://www.pypy.org/posts/2026/10/toy-bit-provenance.html)
+23. [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
+24. [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
+25. [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
