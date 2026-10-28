@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-29 05:09:30
+> 更新时间：2026-10-29 06:35:01
 
 ## 24 小时热榜
 
@@ -14,36 +14,36 @@
 8. [招商轮船：前三季度归母净利润 119.83 亿元，同比增长 263.15%](https://readhub.cn/topic/8xaqfSLs0tp?tab=daily)
 9. [OpenAI 与 Anthropic 同日宣布其 AI 模型称证伪 ETH](https://readhub.cn/topic/8xaZX01u4CX?tab=daily)
 10. [苹果将于周三发布 14 英寸和 16 英寸触控屏 MacBook](https://readhub.cn/topic/8xa802nNbFc?tab=daily)
-11. [DeepSeek 代码库出现 V5 相关标识，外界猜测或 11 月发布](https://readhub.cn/topic/8xad5Qp23GE?tab=daily)
-12. [Anthropic 创始人阿莫迪兄妹称 7 人共同创业是公司成功关键](https://readhub.cn/topic/8xaGa6vNN7y?tab=daily)
+11. [Anthropic 创始人阿莫迪兄妹称 7 人共同创业是公司成功关键](https://readhub.cn/topic/8xaGa6vNN7y?tab=daily)
+12. [DeepSeek 代码库出现 V5 相关标识，外界猜测或 11 月发布](https://readhub.cn/topic/8xad5Qp23GE?tab=daily)
 13. [SK 海力士：DRAM 和 HBM 到 2029 年的产能已全部售罄](https://readhub.cn/topic/8xaIkbbBXVD?tab=daily)
-14. [带触屏多功能鼠标 Super Mouse 开启众筹 支持打字快捷操作](https://readhub.cn/topic/8xaI2DAsnbi?tab=daily)
+14. [长鑫科技已被纳入上证综合指数 位列第一大权重股](https://readhub.cn/topic/8xaUAAnXxNL?tab=daily)
 15. [大众拟考虑将与小鹏联合开发的中国软件架构引入欧洲车型](https://readhub.cn/topic/8xYbfLklEqg?tab=daily)
-16. [PCB 钻针需求大爆发 券商测算 2026 年 AI 服务器要用 8 亿支](https://readhub.cn/topic/8xbAfrm6MCk?tab=daily)
-17. [长鑫科技已被纳入上证综合指数 位列第一大权重股](https://readhub.cn/topic/8xaUAAnXxNL?tab=daily)
+16. [带触屏多功能鼠标 Super Mouse 开启众筹 支持打字快捷操作](https://readhub.cn/topic/8xaI2DAsnbi?tab=daily)
+17. [PCB 钻针需求大爆发 券商测算 2026 年 AI 服务器要用 8 亿支](https://readhub.cn/topic/8xbAfrm6MCk?tab=daily)
 18. [2026 款理想 i6 正式发布 官方指导价 24.98 万元](https://readhub.cn/topic/8xb7pCvmBsb?tab=daily)
 19. [Anthropic 工程师经理取消编程面试 称其难有效评估候选人](https://readhub.cn/topic/8xagJeeBVOI?tab=daily)
 20. [iPhone Duo 首次支持 Apple Pencil 仅限 USB-C 款需有线配对](https://readhub.cn/topic/8xZ4GIRiAeK?tab=daily)
 21. [百合网联合创始人慕岩回应朋友圈化缘：称不想啃老](https://readhub.cn/topic/8xas8RtT1H8?tab=daily)
 22. [全国消费品以旧换新工作推进电视电话会议在京召开](https://readhub.cn/topic/8xam3zIWyZ8?tab=daily)
 23. [Anthropic 内网被马斯克前员工创办公司 12 小时攻破](https://readhub.cn/topic/8xZXbZs30Wm?tab=daily)
-24. [谷歌更新 Android Bench 榜单 自家 Gemini 4 Argon 编程成绩落后](https://readhub.cn/topic/8xaPWSOreOo?tab=daily)
-25. [AI 写 88 小时，人类读 7 周，数学家开始读懂 OpenAI 千禧难题证明](https://readhub.cn/topic/8xaIiFSbXZT?tab=daily)
+24. [AI 写 88 小时，人类读 7 周，数学家开始读懂 OpenAI 千禧难题证明](https://readhub.cn/topic/8xaIiFSbXZT?tab=daily)
+25. [谷歌更新 Android Bench 榜单 自家 Gemini 4 Argon 编程成绩落后](https://readhub.cn/topic/8xaPWSOreOo?tab=daily)
 26. [山西汾酒 2026 前三季度营收 283.82 亿 净利润 83.38 亿同比双降](https://readhub.cn/topic/8xaxnkS8Zh7?tab=daily)
-27. [救援尝试失败，NASA 正式终止雨燕空间望远镜任务](https://readhub.cn/topic/8xYuIMz1PDx?tab=daily)
-28. [恒生指数公司：将 Anthropic 纳入恒生港美科技指数](https://readhub.cn/topic/8xata5x0an2?tab=daily)
+27. [恒生指数公司：将 Anthropic 纳入恒生港美科技指数](https://readhub.cn/topic/8xata5x0an2?tab=daily)
+28. [英伟达 RTX 5090 显卡陷停产疑云：消息称合作厂商已订不到核心芯片](https://readhub.cn/topic/8xYjcdl7fC0?tab=daily)
 29. [我国天文学家发现三颗理论上本不该存在的系外行星](https://readhub.cn/topic/8xYi7RKbz1m?tab=daily)
-30. [英伟达 RTX 5090 显卡陷停产疑云：消息称合作厂商已订不到核心芯片](https://readhub.cn/topic/8xYjcdl7fC0?tab=daily)
+30. [Personal Agent 走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019](https://readhub.cn/topic/8xaRfNv29Us?tab=daily)
 
 ## 每日早报
 
-1. [10.27 Anthropic 正式提交纳斯达克 IPO 招股书 17 条](https://readhub.cn/daily/2026-10-27)
-2. [10.26 OpenAI 联手数学家攻破零点猜想  证明仅 5 页 7 条](https://readhub.cn/daily/2026-10-26)
-3. [10.25 月之暗面推出 Kimi K3.1 Pro 及高速版：3 万亿参数大模型 9 条](https://readhub.cn/daily/2026-10-25)
-4. [10.24 苹果总市值超越英伟达 重登美股市值第一 13 条](https://readhub.cn/daily/2026-10-24)
-5. [10.23 DeepSeek 完成约千亿元融资，创中国 AI 行业最高融资纪录 12 条](https://readhub.cn/daily/2026-10-23)
-6. [10.22 PHP 曝高危远程代码执行漏洞，官方提前发布安全补丁 13 条](https://readhub.cn/daily/2026-10-22)
-7. [10.21 DeepSeek 开源内部推理框架 DeepInfer 12 条](https://readhub.cn/daily/2026-10-21)
+1. [10.28 苹果推出 14 英寸 MacBook Pro  M6 芯片版本，15999 元起 15 条](https://readhub.cn/daily/2026-10-28)
+2. [10.27 Anthropic 正式提交纳斯达克 IPO 招股书 17 条](https://readhub.cn/daily/2026-10-27)
+3. [10.26 OpenAI 联手数学家攻破零点猜想  证明仅 5 页 7 条](https://readhub.cn/daily/2026-10-26)
+4. [10.25 月之暗面推出 Kimi K3.1 Pro 及高速版：3 万亿参数大模型 9 条](https://readhub.cn/daily/2026-10-25)
+5. [10.24 苹果总市值超越英伟达 重登美股市值第一 13 条](https://readhub.cn/daily/2026-10-24)
+6. [10.23 DeepSeek 完成约千亿元融资，创中国 AI 行业最高融资纪录 12 条](https://readhub.cn/daily/2026-10-23)
+7. [10.22 PHP 曝高危远程代码执行漏洞，官方提前发布安全补丁 13 条](https://readhub.cn/daily/2026-10-22)
 
 ## AI 资讯
 
@@ -51,9 +51,9 @@
 2. [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
 3. [Anthropic 收购一家「OPC 药企」：一人一 Claude 推进两款罕见病药物研发](https://www.mittrchina.com/news/detail/17155)
 4. [Legora is building the agentic operating system for legal work](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
-5. [DOJ examines Nvidia's $12.9B acquisition of Hugging Face](https://daily.dev/posts/doj-examines-nvidia-s-12-9b-deal-to-buy-hugging-face-kgo9hiia6)
-6. [The future of the firm](https://openai.com/index/the-future-of-the-firm)
-7. [苹果发布首款触控 MacBook Pro：最高 128GB 统一内存，可本地运行数千亿参数 AI 模型](https://www.ithome.com/1/019/251.htm)
-8. [NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/)
-9. [谷歌发布前沿模型 Gemini 4 Carbon，编程与网络安全能力显著提升](https://www.gelonghui.com/live/2734364)
-10. [Android Studio Rabbit 2 发布：支持自带 40+ 编码代理](https://daily.dev/posts/your-favorite-agents-are-now-integrated-in-android-studio-1bssir1jv)
+5. [Google Cloud revenue doubles year on year to $30.7B as Gemini app hits 1B users](https://daily.dev/posts/google-cloud-revenue-rose-103-year-on-year-to-30-7b-on-demand-for-ai-infrastructure-and-cloud-s-dskj1ipxr)
+6. [DOJ examines Nvidia's $12.9B acquisition of Hugging Face](https://daily.dev/posts/doj-examines-nvidia-s-12-9b-deal-to-buy-hugging-face-kgo9hiia6)
+7. [The future of the firm](https://openai.com/index/the-future-of-the-firm)
+8. [苹果发布首款触控 MacBook Pro：最高 128GB 统一内存，可本地运行数千亿参数 AI 模型](https://www.ithome.com/1/019/251.htm)
+9. [NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/)
+10. [谷歌发布前沿模型 Gemini 4 Carbon，编程与网络安全能力显著提升](https://www.gelonghui.com/live/2734364)
