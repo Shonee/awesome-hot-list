@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-28 08:24:26
+> 更新时间：2026-10-28 14:42:18
 
 ## 每日趋势
 
@@ -91,24 +91,23 @@
 
 ## Go
 
-1. [freehire](https://github.com/strelov1/freehire)
-2. [agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
-3. [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
-4. [SafeLine](https://github.com/chaitin/SafeLine)
-5. [gin](https://github.com/gin-gonic/gin)
-6. [ollama](https://github.com/ollama/ollama)
-7. [multica](https://github.com/multica-ai/multica)
-8. [cc-skills-golang](https://github.com/samber/cc-skills-golang)
-9. [LocalAI](https://github.com/mudler/LocalAI)
-10. [pearl](https://github.com/pearl-research-labs/pearl)
-11. [trivy](https://github.com/aquasecurity/trivy)
-12. [ttt](https://github.com/eugenioenko/ttt)
-13. [helm](https://github.com/helm/helm)
-14. [ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
-15. [new-api](https://github.com/QuantumNous/new-api)
-16. [loki](https://github.com/grafana/loki)
-17. [ragflow](https://github.com/infiniflow/ragflow)
-18. [encore](https://github.com/encoredev/encore)
+1. [agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+2. [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
+3. [SafeLine](https://github.com/chaitin/SafeLine)
+4. [gin](https://github.com/gin-gonic/gin)
+5. [ollama](https://github.com/ollama/ollama)
+6. [multica](https://github.com/multica-ai/multica)
+7. [cc-skills-golang](https://github.com/samber/cc-skills-golang)
+8. [LocalAI](https://github.com/mudler/LocalAI)
+9. [pearl](https://github.com/pearl-research-labs/pearl)
+10. [trivy](https://github.com/aquasecurity/trivy)
+11. [ttt](https://github.com/eugenioenko/ttt)
+12. [helm](https://github.com/helm/helm)
+13. [ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
+14. [new-api](https://github.com/QuantumNous/new-api)
+15. [loki](https://github.com/grafana/loki)
+16. [ragflow](https://github.com/infiniflow/ragflow)
+17. [encore](https://github.com/encoredev/encore)
 
 ## HTML
 
