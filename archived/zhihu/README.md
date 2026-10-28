@@ -1,6 +1,6 @@
 # 知乎热榜
 
-> 更新时间：2026-10-28 12:11:02
+> 更新时间：2026-10-28 13:09:28
 
 ## 知乎热榜
 
@@ -69,12 +69,11 @@
 10. [爱马仕CFO称中国市场非常困难](https://www.zhihu.com/search?q=%E7%88%B1%E9%A9%AC%E4%BB%95CFO%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9D%9E%E5%B8%B8%E5%9B%B0%E9%9A%BE)
 11. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
 12. [日剧Vivant抹黑中国](https://www.zhihu.com/search?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD)
-13. [斯里兰卡遭遇全国性断电](https://www.zhihu.com/search?q=%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E9%81%AD%E9%81%87%E5%85%A8%E5%9B%BD%E6%80%A7%E6%96%AD%E7%94%B5)
-14. [张雪刷新吉尼斯世界纪录](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95)
-15. [《功夫女足》烂番茄0分开局](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%83%82%E7%95%AA%E8%8C%840%E5%88%86%E5%BC%80%E5%B1%80)
-16. [31省份去年平均工资出炉](https://www.zhihu.com/search?q=31%E7%9C%81%E4%BB%BD%E5%8E%BB%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89)
-17. [李天阳 2-3 张本智和](https://www.zhihu.com/search?q=%E6%9D%8E%E5%A4%A9%E9%98%B3%202-3%20%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
-18. [皇马2-1巴萨](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%AC2-1%E5%B7%B4%E8%90%A8)
-19. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E8%8E%B7%E6%B5%B7%E5%A4%96%E5%AA%92%E4%BD%93%E9%AB%98%E5%88%86%E5%A5%BD%E8%AF%84)
-20. [打马赛克二维码被AI完整复原](https://www.zhihu.com/search?q=%E6%89%93%E9%A9%AC%E8%B5%9B%E5%85%8B%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%A2%ABAI%E5%AE%8C%E6%95%B4%E5%A4%8D%E5%8E%9F)
-21. [物业设屏曝光欠费业主](https://www.zhihu.com/search?q=%E7%89%A9%E4%B8%9A%E8%AE%BE%E5%B1%8F%E6%9B%9D%E5%85%89%E6%AC%A0%E8%B4%B9%E4%B8%9A%E4%B8%BB)
+13. [张雪刷新吉尼斯世界纪录](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95)
+14. [《功夫女足》烂番茄0分开局](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%83%82%E7%95%AA%E8%8C%840%E5%88%86%E5%BC%80%E5%B1%80)
+15. [31省份去年平均工资出炉](https://www.zhihu.com/search?q=31%E7%9C%81%E4%BB%BD%E5%8E%BB%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89)
+16. [李天阳 2-3 张本智和](https://www.zhihu.com/search?q=%E6%9D%8E%E5%A4%A9%E9%98%B3%202-3%20%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
+17. [皇马2-1巴萨](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%AC2-1%E5%B7%B4%E8%90%A8)
+18. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E8%8E%B7%E6%B5%B7%E5%A4%96%E5%AA%92%E4%BD%93%E9%AB%98%E5%88%86%E5%A5%BD%E8%AF%84)
+19. [打马赛克二维码被AI完整复原](https://www.zhihu.com/search?q=%E6%89%93%E9%A9%AC%E8%B5%9B%E5%85%8B%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%A2%ABAI%E5%AE%8C%E6%95%B4%E5%A4%8D%E5%8E%9F)
+20. [物业设屏曝光欠费业主](https://www.zhihu.com/search?q=%E7%89%A9%E4%B8%9A%E8%AE%BE%E5%B1%8F%E6%9B%9D%E5%85%89%E6%AC%A0%E8%B4%B9%E4%B8%9A%E4%B8%BB)
