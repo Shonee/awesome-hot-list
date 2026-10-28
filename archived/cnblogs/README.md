@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-28 17:10:58
+> 更新时间：2026-10-28 18:10:00
 
 ## 最新帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [我花200美元用AI重写了纯C#高精度数学库：放大 10^290 倍也不糊](https://www.cnblogs.com/sdcb/p/23446780/20261027-arithmetic-pure-dotnet)
-2. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
-3. [大厂程序员写 AI 编程半年来，我的 3 次认知推翻与 1 次生存顿悟](https://www.cnblogs.com/uniqueDong/p/23455856)
-4. [MQTT实战 - .NET + MQTT生产级架构：从500个设备到50,000个设备（九）](https://www.cnblogs.com/hugogoos/p/23446857)
-5. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
+2. [大厂程序员写 AI 编程半年来，我的 3 次认知推翻与 1 次生存顿悟](https://www.cnblogs.com/uniqueDong/p/23455856)
+3. [纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测](https://www.cnblogs.com/dotnet-org-cn/p/23449873)
+4. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
+5. [MQTT实战 - .NET + MQTT生产级架构：从500个设备到50,000个设备（九）](https://www.cnblogs.com/hugogoos/p/23446857)
 6. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23462657)

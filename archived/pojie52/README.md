@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-28 17:11:02
+> 更新时间：2026-10-28 18:10:04
 
 ## 人气热门
 
@@ -57,10 +57,10 @@
 
 ## 精华采撷
 
-1. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
-2. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
-3. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
-4. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+1. [当游戏越来越漂亮，外挂却越来越丑：作弊技术摸底（2026）](https://www.52pojie.cn/thread-2117216-1-1.html)
+2. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
+3. [The Enigma Protector vm还原插件](https://www.52pojie.cn/thread-2127264-1-1.html)
+4. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
 5. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 6. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
 7. [spiderdemo T30 WebSocket+jsvmp题解及详细思路](https://www.52pojie.cn/thread-2131711-1-1.html)
