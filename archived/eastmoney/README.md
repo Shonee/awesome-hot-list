@@ -1,18 +1,18 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-30 06:10:23
+> 更新时间：2026-10-30 07:10:01
 
 ## 股票人气榜
 
 1. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
-2. [中国卫星 (600118)](https://quote.eastmoney.com/sh600118.html)
-3. [上海沪工 (603131)](https://quote.eastmoney.com/sh603131.html)
-4. [新易盛 (300502)](https://quote.eastmoney.com/sz300502.html)
-5. [阳光照明 (600261)](https://quote.eastmoney.com/sh600261.html)
+2. [上海沪工 (603131)](https://quote.eastmoney.com/sh603131.html)
+3. [中国卫星 (600118)](https://quote.eastmoney.com/sh600118.html)
+4. [阳光照明 (600261)](https://quote.eastmoney.com/sh600261.html)
+5. [新易盛 (300502)](https://quote.eastmoney.com/sz300502.html)
 6. [天孚通信 (300394)](https://quote.eastmoney.com/sz300394.html)
-7. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
-8. [光洋股份 (002708)](https://quote.eastmoney.com/sz002708.html)
-9. [盛洋科技 (603703)](https://quote.eastmoney.com/sh603703.html)
+7. [盛洋科技 (603703)](https://quote.eastmoney.com/sh603703.html)
+8. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
+9. [光洋股份 (002708)](https://quote.eastmoney.com/sz002708.html)
 10. [冰山冷热 (000530)](https://quote.eastmoney.com/sz000530.html)
 11. [东方海洋 (002086)](https://quote.eastmoney.com/sz002086.html)
 12. [澳洋健康 (002172)](https://quote.eastmoney.com/sz002172.html)

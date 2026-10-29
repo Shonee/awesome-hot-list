@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-30 06:09:40
+> 更新时间：2026-10-30 07:08:51
 
 ## 热门文章
 
@@ -14,8 +14,8 @@
 8. [程序员 1v1 访谈系列第八期：大龄女程序员的困境](https://juejin.cn/post/7701269925755846671)
 9. [GPT-6.1 Terra上线：更便宜了，干活到底怎么样？](https://juejin.cn/post/7701352628311392297)
 10. [AI 会干掉 React Native 吗？](https://juejin.cn/post/7700822035409928246)
-11. [现代 Android 架构指南：不要再主动设计 Callback 接口](https://juejin.cn/post/7701545991036862491)
-12. [史诗级封号收入](https://juejin.cn/post/7701870817483259958)
+11. [史诗级封号收入](https://juejin.cn/post/7701870817483259958)
+12. [现代 Android 架构指南：不要再主动设计 Callback 接口](https://juejin.cn/post/7701545991036862491)
 13. [别再用防抖做懒加载了：120 张图只加载出 4 张](https://juejin.cn/post/7701269925750947855)
 14. [又找到一个纯Java的OCR项目，识别的格式还挺多](https://juejin.cn/post/7700962023287128115)
 15. [我用 DeepSeek 做了 4 个零依赖的赚钱小工具，全部开源](https://juejin.cn/post/7673809190474629155)
@@ -27,8 +27,8 @@
 21. [DeepSeek Harness 和 Pi Agent 怎么选？先想想你愿意折腾什么](https://juejin.cn/post/7701490621295935529)
 22. [AI 改完代码，人却不知道它改了什么：架构漂移才是真正的成本](https://juejin.cn/post/7700846756351180810)
 23. [GitHub 日榜趋势速报 | 2026-10-27](https://juejin.cn/post/7700857041943904282)
-24. [一句话叫车：货拉拉小程序 AI 叫车实战](https://juejin.cn/post/7701490621295607849)
-25. [uView Pro X 1.0.0 发布：全面支持 uni-app x 蒸汽模式，80+ 组件](https://juejin.cn/post/7701525643872321571)
+24. [uView Pro X 1.0.0 发布：全面支持 uni-app x 蒸汽模式，80+ 组件](https://juejin.cn/post/7701525643872321571)
+25. [一句话叫车：货拉拉小程序 AI 叫车实战](https://juejin.cn/post/7701490621295607849)
 26. [Go-Gui:一套 无限接近 现代化UI的 GPU绘制界面组件框架](https://juejin.cn/post/7701703182474248211)
 27. [《HelloGitHub》第 127 期](https://juejin.cn/post/7701499928404705322)
 28. [别把 Agent 架构画成组织架构图——子代理该不该拆，用任务级 Eval 说话](https://juejin.cn/post/7701250821648236554)

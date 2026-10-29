@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-30 06:10:17
+> 更新时间：2026-10-30 07:09:55
 
 ## 热点资讯排行
 
@@ -12,8 +12,8 @@
 6. [《影之刃零》世界首白诞生！PS5版已有多人白金](https://www.gamersky.com/news/202610/2235847.shtml)
 7. [《GTA6》大小曝光！210GB 11月12日预载](https://www.gamersky.com/news/202610/2236083.shtml)
 8. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
-9. [甄子丹本人发](https://www.gamersky.com/news/202610/2235943.shtml)
-10. [《影之刃零》PS首批评价出炉！好评率高达恐怖的99%](https://www.gamersky.com/news/202610/2236817.shtml)
+9. [《影之刃零》PS首批评价出炉！好评率高达恐怖的99%](https://www.gamersky.com/news/202610/2236817.shtml)
+10. [甄子丹本人发](https://www.gamersky.com/news/202610/2235943.shtml)
 11. [7分外媒给《影之刃零》改8分！补丁太高效](https://www.gamersky.com/news/202610/2236089.shtml)
 12. [《影之刃零》M站评分回升！大媒体给出95分高分](https://www.gamersky.com/news/202610/2236086.shtml)
 13. [《影之刃零》获6分低分！玩家翻旧账：悟空也这样](https://www.gamersky.com/news/202610/2234667.shtml)
