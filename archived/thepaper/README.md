@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-29 20:40:28
+> 更新时间：2026-10-29 21:35:18
 
 ## 热新闻
 
@@ -19,8 +19,8 @@
 13. [进博抢鲜看｜不但能听清声音还可辨别方向，这款人工耳蜗为何是全球唯一？](https://www.thepaper.cn/newsDetail_forward_34339795)
 14. [外交部：日本国内始终存在一股势力，企图通过文化产品丑化抹黑中国](https://www.thepaper.cn/newsDetail_forward_34359327)
 15. [小博索纳罗携妻女“流亡”路线曝光：途经三国，经陆路转私人飞机抵美](https://www.thepaper.cn/newsDetail_forward_34354524)
-16. [以色列大选开票在即，内塔尼亚胡：必须建立强大右翼政府](https://www.thepaper.cn/newsDetail_forward_34352774)
-17. [男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑](https://www.thepaper.cn/newsDetail_forward_34354514)
-18. [以色列大选｜内塔尼亚胡阵营暂时领先，组阁前景有四种走向](https://www.thepaper.cn/newsDetail_forward_34352942)
-19. [重获美军青睐的“下马项目”：AGM-183A“起死回生”与美军高超竞赛](https://www.thepaper.cn/newsDetail_forward_34351855)
-20. [地基｜从实力制约到政治共识，中美“建设性战略稳定”何以实现](https://www.thepaper.cn/newsDetail_forward_34352053)
+16. [男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑](https://www.thepaper.cn/newsDetail_forward_34354514)
+17. [地基｜从实力制约到政治共识，中美“建设性战略稳定”何以实现](https://www.thepaper.cn/newsDetail_forward_34352053)
+18. [美联储10月如期按兵不动，两人投反对票支持加息（附声明全文）](https://www.thepaper.cn/newsDetail_forward_34356992)
+19. [AI模特“攻占”双十一：AI标注“隐形”真假难辨，生成图价格不到实拍图四分之一](https://www.thepaper.cn/newsDetail_forward_34352856)
+20. [A股回购增持潮起：产业资本加速入场，稳市信号不断增强](https://www.thepaper.cn/newsDetail_forward_34353480)
