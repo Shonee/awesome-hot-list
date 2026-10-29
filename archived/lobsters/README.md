@@ -1,14 +1,14 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-29 18:11:51
+> 更新时间：2026-10-29 19:10:14
 
 ## Hottest
 
 1. [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 2. [GitLab security incident: attempted exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 3. [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
-4. [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-5. [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
+4. [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
+5. [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 6. [AlpineBSD](https://wiki.alpinebsd.org/)
 7. [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
 8. [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/)
@@ -17,15 +17,15 @@
 11. [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
 12. [Redox Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
 13. [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
-14. [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
-15. [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
-16. [Go Empty Interface Explained & The Hidden Heap Allocation](https://www.youtube.com/watch?v=_BxdvkLLnDc)
-17. [Start Doing Graph Theory](https://vertex.degree/)
-18. [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
-19. [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
-20. [Introducing the Accessible Components Library](https://tetralogical.com/blog/2026/10/14/accessible-components-library/)
+14. [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+15. [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
+16. [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
+17. [Go Empty Interface Explained & The Hidden Heap Allocation](https://www.youtube.com/watch?v=_BxdvkLLnDc)
+18. [Start Doing Graph Theory](https://vertex.degree/)
+19. [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+20. [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
 21. [Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
-22. [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr)
-23. [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
-24. [A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)](https://smsofdeath.com/)
+22. [Introducing the Accessible Components Library](https://tetralogical.com/blog/2026/10/14/accessible-components-library/)
+23. [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr)
+24. [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 25. [ACLs don’t (2009)](https://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2009/HPL-2009-20.pdf)
