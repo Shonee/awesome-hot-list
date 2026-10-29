@@ -1,6 +1,6 @@
 # 豆瓣热榜
 
-> 更新时间：2026-10-29 23:11:14
+> 更新时间：2026-10-30 00:35:51
 
 ## 小组精选
 
@@ -11,7 +11,7 @@
 5. [“一年后的我应该在巴塞罗那” ——我会反复回想起 一年前巴塞罗那的阳光 温柔地亲吻每个人的脸颊](https://www.douban.com/group/topic/503758900/?_spm_id=MjM4MTgwNTY0)
 6. [秋日限定|杏运菊气饺🍂🌼🥟](https://www.douban.com/group/topic/503692751/?_spm_id=MjY2MjA5NjQx)
 7. [北京看展 | 尼古拉·费欣——列宾心中的天才](https://www.douban.com/group/topic/503777373/?_spm_id=MTg3MTMwODQw)
-8. [十月的南疆 初秋的塔县](https://www.douban.com/group/topic/503670185/?_spm_id=NDAzNTk4NjE)
+8. [逢人便想说帕米尔高原的秋天有多美](https://www.douban.com/group/topic/503670185/?_spm_id=NDAzNTk4NjE)
 9. [不花钱居家锻炼4年，骨盆前倾勒骨外翻脖子前伸全！好！啦！（含课程推荐](https://www.douban.com/group/topic/503762641/?_spm_id=Nzg2MzY4ODk)
 10. [19天爽玩云南7个城市的懒人旅游攻略。。你也来试试吧。。（建设完毕🔚）](https://www.douban.com/group/topic/503328210/?_spm_id=MTgxNTkyMjcz)
 11. [我的巴黎探索日记-像狗一样好奇探索大自然](https://www.douban.com/group/topic/503471175/?_spm_id=MjM4MTgwNTY0)
