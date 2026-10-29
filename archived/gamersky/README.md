@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-29 08:24:51
+> 更新时间：2026-10-29 09:10:38
 
 ## 热点资讯排行
 
@@ -14,8 +14,8 @@
 8. [甄子丹本人发](https://www.gamersky.com/news/202610/2235943.shtml)
 9. [《GTA6》大小曝光！210GB 11月12日预载](https://www.gamersky.com/news/202610/2236083.shtml)
 10. [《影之刃零》获6分低分！玩家翻旧账：悟空也这样](https://www.gamersky.com/news/202610/2234667.shtml)
-11. [97%好评如潮！《最终幻想》新作玩家口碑爆了](https://www.gamersky.com/news/202610/2234197.shtml)
-12. [《影之刃零》60分媒体编辑回应了！称遭到人身威胁](https://www.gamersky.com/news/202610/2235385.shtml)
-13. [7分外媒给《影之刃零》改8分！补丁太高效](https://www.gamersky.com/news/202610/2236089.shtml)
+11. [7分外媒给《影之刃零》改8分！补丁太高效](https://www.gamersky.com/news/202610/2236089.shtml)
+12. [97%好评如潮！《最终幻想》新作玩家口碑爆了](https://www.gamersky.com/news/202610/2234197.shtml)
+13. [《影之刃零》60分媒体编辑回应了！称遭到人身威胁](https://www.gamersky.com/news/202610/2235385.shtml)
 14. [《影之刃零》制作人发长文！三点关键 首日补丁5G](https://www.gamersky.com/news/202610/2236299.shtml)
 15. [60分外媒编辑：《影之刃零》又推送了49.4GB补丁](https://www.gamersky.com/news/202610/2235435.shtml)
