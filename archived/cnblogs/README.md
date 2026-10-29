@@ -1,13 +1,13 @@
 # 博客园热榜
 
-> 更新时间：2026-10-29 10:12:59
+> 更新时间：2026-10-29 11:11:34
 
 ## 最新帖子
 
-1. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
-2. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
-3. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
-4. [LeetCode 21 合并两个有序链表：一道 Easy 题，凭什么刷掉一半候选人？](https://www.cnblogs.com/zrui-xyu/p/23476192)
+1. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
+2. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
+3. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
+4. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
 5. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
 6. [我开发了一款基于业务场景接口测试Skill ，端到端覆盖率达到99.99%，太夯了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23475765)
 7. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
