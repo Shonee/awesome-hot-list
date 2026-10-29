@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-30 03:08:50
+> 更新时间：2026-10-30 04:10:06
 
 ## 热新闻
 
@@ -21,6 +21,6 @@
 15. [小博索纳罗携妻女“流亡”路线曝光：途经三国，经陆路转私人飞机抵美](https://www.thepaper.cn/newsDetail_forward_34354524)
 16. [男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑](https://www.thepaper.cn/newsDetail_forward_34354514)
 17. [地基｜从实力制约到政治共识，中美“建设性战略稳定”何以实现](https://www.thepaper.cn/newsDetail_forward_34352053)
-18. [美联储10月如期按兵不动，两人投反对票支持加息（附声明全文）](https://www.thepaper.cn/newsDetail_forward_34356992)
-19. [AI模特“攻占”双十一：AI标注“隐形”真假难辨，生成图价格不到实拍图四分之一](https://www.thepaper.cn/newsDetail_forward_34352856)
-20. [党的二十届五中全会公报一图速览](https://www.thepaper.cn/newsDetail_forward_34361516)
+18. [党的二十届五中全会公报一图速览](https://www.thepaper.cn/newsDetail_forward_34361516)
+19. [美联储10月如期按兵不动，两人投反对票支持加息（附声明全文）](https://www.thepaper.cn/newsDetail_forward_34356992)
+20. [AI模特“攻占”双十一：AI标注“隐形”真假难辨，生成图价格不到实拍图四分之一](https://www.thepaper.cn/newsDetail_forward_34352856)

@@ -1,20 +1,20 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-30 03:08:45
+> 更新时间：2026-10-30 04:10:01
 
 ## 人气热门
 
-1. [全平台视频下载 v1.1.3（持续优化开发中）](https://www.52pojie.cn/thread-2134575-1-1.html)
-2. [红果短剧自动滑过广告 V1.21](https://www.52pojie.cn/thread-2133519-1-1.html)
+1. [IDA Pro v9.5.261026 - 2026 年 10 月 27 日最终版本（包含 Windows/Mac/Linux/ARM...](https://www.52pojie.cn/thread-2134627-1-1.html)
+2. [全平台视频下载 v1.1.3（持续优化开发中）](https://www.52pojie.cn/thread-2134575-1-1.html)
 3. [中国香烟博物馆v1.0.0](https://www.52pojie.cn/thread-2134196-1-1.html)
-4. [[原创]REA逆向一切的能力99.9%来自AI本身](https://www.52pojie.cn/thread-2133226-1-1.html)
-5. [班级时钟1.0.0](https://www.52pojie.cn/thread-2134143-1-1.html)
-6. [行政后勤管理系统_v1.0](https://www.52pojie.cn/thread-2134111-1-1.html)
-7. [cctv视频下载解密](https://www.52pojie.cn/thread-2133002-1-1.html)
-8. [网络检测工具箱1.2 [含源码]](https://www.52pojie.cn/thread-2134104-1-1.html)
-9. [LAN快传 v1.0](https://www.52pojie.cn/thread-2134429-1-1.html)
-10. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
-11. [IDA Pro v9.5.261026 - 2026 年 10 月 27 日最终版本（包含 Windows/Mac/Linux/ARM...](https://www.52pojie.cn/thread-2134627-1-1.html)
+4. [红果短剧自动滑过广告 V1.21](https://www.52pojie.cn/thread-2133519-1-1.html)
+5. [[原创]REA逆向一切的能力99.9%来自AI本身](https://www.52pojie.cn/thread-2133226-1-1.html)
+6. [班级时钟1.0.0](https://www.52pojie.cn/thread-2134143-1-1.html)
+7. [行政后勤管理系统_v1.0](https://www.52pojie.cn/thread-2134111-1-1.html)
+8. [cctv视频下载解密](https://www.52pojie.cn/thread-2133002-1-1.html)
+9. [网络检测工具箱1.2 [含源码]](https://www.52pojie.cn/thread-2134104-1-1.html)
+10. [LAN快传 v1.0](https://www.52pojie.cn/thread-2134429-1-1.html)
+11. [高情商话术生成器v1.0](https://www.52pojie.cn/thread-2134027-1-1.html)
 12. [更新了 ——电池状态 Battery Status v1.1.15 （罗技等外设的电量监控软件）](https://www.52pojie.cn/thread-2132845-1-1.html)
 13. [PDF加盖骑缝章标注工具 PDFQFZ v1.33](https://www.52pojie.cn/thread-2134192-1-1.html)
 14. [《剪映悬浮球助手V2.3》支持最新剪映](https://www.52pojie.cn/thread-2132915-1-1.html)
