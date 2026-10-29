@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-30 04:10:18
+> 更新时间：2026-10-30 05:09:51
 
 ## 日榜
 
@@ -14,5 +14,5 @@
 8. [苹果 iPhone Duo 折叠屏手机国内首销期销量曝光，接近 20 万台](https://www.ithome.com/1/019/439.htm)
 9. [13.98 万元起小鹏 MONA L05 上市：纯视觉智驾下放，纯电增程双动力](https://www.ithome.com/1/019/750.htm)
 10. [“宁德时代电池没了”：曝理想 MEGA 部分订单无法按约交付，定金退一赔一或换自研电池](https://www.ithome.com/1/019/418.htm)
-11. [消息称华为阔直板手机 Pura X View 上市 50 天出货量超 100 万台](https://www.ithome.com/1/019/293.htm)
-12. [小米 REDMI K100 Pro Max 手机惊喜“现身”王腾今日宜休发布会](https://www.ithome.com/1/019/749.htm)
+11. [小米 REDMI K100 Pro Max 手机惊喜“现身”王腾今日宜休发布会](https://www.ithome.com/1/019/749.htm)
+12. [消息称华为阔直板手机 Pura X View 上市 50 天出货量超 100 万台](https://www.ithome.com/1/019/293.htm)

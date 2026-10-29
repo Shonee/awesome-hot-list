@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-29 22:35:16
+> 更新时间：2026-10-30 05:08:50
 
 ## 每日趋势
 
@@ -118,12 +118,13 @@
 5. [prompts.chat](https://github.com/f/prompts.chat)
 6. [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 7. [galaxy](https://github.com/uiverse-io/galaxy)
-8. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
-9. [free-for-dev](https://github.com/ripienaar/free-for-dev)
-10. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
-11. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-12. [wpt](https://github.com/web-platform-tests/wpt)
-13. [shiji-kb](https://github.com/baojie/shiji-kb)
+8. [baalda](https://github.com/naveedharri/baalda)
+9. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
+10. [free-for-dev](https://github.com/ripienaar/free-for-dev)
+11. [darwin-skill](https://github.com/alchaincyf/darwin-skill)
+12. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+13. [wpt](https://github.com/web-platform-tests/wpt)
+14. [shiji-kb](https://github.com/baojie/shiji-kb)
 
 ## JavaScript
 

@@ -1,28 +1,28 @@
 # 新浪热榜
 
-> 更新时间：2026-10-30 04:10:14
+> 更新时间：2026-10-30 05:09:46
 
 ## 新闻热榜
 
 1. [张升民同志简历](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwtus6057735.shtml)
 2. [中国共产党第二十届中央委员会第五次全体会议公报](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwyaq6042002.shtml)
-3. [A股指数今起迎重要调整，对投资者有何影响？](https://finance.sina.com.cn/stock/roll/2026-10-26/doc-iniwqarp9285414.shtml)
-4. [Polymarket：我们已发现并修复了影响国际平台polymarket.com的问题。我们的一家第三方服务提供商遭到入侵，我们已将此事移交相关执法部门](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8574392.shtml)
-5. [沙特民防部门就利雅得和海尔季可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2695887.shtml)
-6. [俄罗斯总统普京：除俄罗斯外，世界上没有任何国家有能力生产小型核电站。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5808702.shtml)
-7. [微软“超大额债务发行”获得超过1150亿欧元认购需求。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5918530.shtml)
-8. [沙特民防部门表示，已就奈季兰可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5919392.shtml)
-9. [胡塞武装称沙特主导联军24小时内对也门发动百余次空袭](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8570967.shtml)
-10. [特朗普：美国正和委内瑞拉开展合作，开采数百万桶石油供应美国。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2592796.shtml)
-11. [伊朗议会议长卡利巴夫：伊朗已多次向调停方清晰表明自身条件。胡萝卜加大棒的手段对伊朗不起作用。只有同意伊朗的七项条件，才能够取得进](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5007256.shtml)
-12. [特朗普：美国不得不对伊朗发动打击，以阻止伊朗获取核武器。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8562165.shtml)
-13. [OpenAI：模型规范修订新增关于上下文、监督和代理的指引，并取消详细的风格指引。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5808831.shtml)
-14. [纽约期金失守4020美元/盎司，日内跌0.78%。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2585647.shtml)
-15. [沙特主导联军称拦截两枚胡塞武装射向利雅得的导弹](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5821485.shtml)
-16. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
-17. [市场消息：以色列选举普通选票的清点工作已经结束。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5004508.shtml)
-18. [白银连续主力合约日内跌4%，现报12401.00元。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5806362.shtml)
-19. [小博索纳罗出逃美国背后，他在巴西已近乎“光杆司令”](https://news.sina.com.cn/w/2026-10-29/doc-iniwwyas2774525.shtml)
+3. [阿根廷央行今日储备为501.5亿美元。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5829923.shtml)
+4. [美国司法部寻求对州官员处理选票问题展开刑事调查。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2606185.shtml)
+5. [据报道，一名高级上将向特朗普汇报了对伊朗发动攻击的选项。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5033633.shtml)
+6. [世界卫生组织：候选人将于2026年11月18日至19日在日内瓦总部举行的首届候选人论坛上与成员国和准成员国进行交流。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8583114.shtml)
+7. [Polymarket：我们已发现并修复了影响国际平台polymarket.com的问题。我们的一家第三方服务提供商遭到入侵，我们已将此事移交相关执法部门](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8574392.shtml)
+8. [普京：俄方支持与欧盟国家恢复关系的任何步骤](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823856.shtml)
+9. [沙特民防部门就利雅得和海尔季可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2695887.shtml)
+10. [俄罗斯总统普京：除俄罗斯外，世界上没有任何国家有能力生产小型核电站。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5808702.shtml)
+11. [特朗普：美国经济增速达 3.4%，民主党若赢下中期选举将毁掉经济成果](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823452.shtml)
+12. [沙特民防部门表示，已就奈季兰可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5919392.shtml)
+13. [微软“超大额债务发行”获得超过1150亿欧元认购需求。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5918530.shtml)
+14. [美国一名高级将领遭解职](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2601592.shtml)
+15. [胡塞武装称沙特主导联军24小时内对也门发动百余次空袭](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8570967.shtml)
+16. [特朗普：美国正和委内瑞拉开展合作，开采数百万桶石油供应美国。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2592796.shtml)
+17. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
+18. [欧盟驻军直升机在波黑坠毁 已造成4人死亡](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2601408.shtml)
+19. [伊朗议会议长卡利巴夫：伊朗已多次向调停方清晰表明自身条件。胡萝卜加大棒的手段对伊朗不起作用。只有同意伊朗的七项条件，才能够取得进](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5007256.shtml)
 
 ## 财经热榜
 
