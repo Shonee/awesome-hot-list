@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-29 22:10:47
+> 更新时间：2026-10-29 23:35:18
 
 ## 24 小时热榜
 
@@ -15,25 +15,25 @@
 9. [知名独立开发者退订几乎所有工作软件 改用 AI 按需制作工具](https://readhub.cn/topic/8xb6PYvVeq5?tab=daily)
 10. [B 站出现大量 DeepSeek 衍生 AI 账号引发网友玩梗热议](https://readhub.cn/topic/8xbPJq712X3?tab=daily)
 11. [梁其伟首度复盘《影之刃零》：砍掉其他在研项目全力攻坚](https://readhub.cn/topic/8xbMSOlq1NH?tab=daily)
-12. [我国天文学家发现三颗理论上本不该存在的系外行星](https://readhub.cn/topic/8xYi7RKbz1m?tab=daily)
-13. [国内最长地铁环线全线开通](https://readhub.cn/topic/8xc1BYwR0XO?tab=daily)
-14. [《影之刃零》M 站评分超《黑神话》《原神》 成国产游戏最高](https://readhub.cn/topic/8xai8kbQuTP?tab=daily)
-15. [阿维塔副总裁解释取消发布会原因 称将直接公布价格配置](https://readhub.cn/topic/8xbNtUJytUY?tab=daily)
-16. [腾讯即将发布混元新模型 Hy4 、Hy4 flash](https://readhub.cn/topic/8xc3OTqaZ93?tab=daily)
-17. [智元宣布上半年营收近 20 亿元，量产人形机器人 20000 台](https://readhub.cn/topic/8xc5YZszCc7?tab=daily)
-18. [MIT 团队成功开发出基于 mRNA 的体内 CAR-NK 细胞疗法](https://readhub.cn/topic/8xaysjM9VUQ?tab=daily)
-19. [Nintendo Switch 2 首家官方旗舰店于天猫国际开业参与双 11](https://readhub.cn/topic/8xcAVNn1x5C?tab=daily)
-20. [小米 REDMI 产品经理胡馨心：内存成本持续走高 过去 12 个月涨约 5.5 倍](https://readhub.cn/topic/8xbFJjS9ZoV?tab=daily)
-21. [红果短剧将下线金币功能并上线休息提醒 调整增长模式](https://readhub.cn/topic/8xbIuJo7SVb?tab=daily)
+12. [国内最长地铁环线全线开通](https://readhub.cn/topic/8xc1BYwR0XO?tab=daily)
+13. [《影之刃零》M 站评分超《黑神话》《原神》 成国产游戏最高](https://readhub.cn/topic/8xai8kbQuTP?tab=daily)
+14. [阿维塔副总裁解释取消发布会原因 称将直接公布价格配置](https://readhub.cn/topic/8xbNtUJytUY?tab=daily)
+15. [腾讯即将发布混元新模型 Hy4 、Hy4 flash](https://readhub.cn/topic/8xc3OTqaZ93?tab=daily)
+16. [智元宣布上半年营收近 20 亿元，量产人形机器人 20000 台](https://readhub.cn/topic/8xc5YZszCc7?tab=daily)
+17. [MIT 团队成功开发出基于 mRNA 的体内 CAR-NK 细胞疗法](https://readhub.cn/topic/8xaysjM9VUQ?tab=daily)
+18. [Nintendo Switch 2 首家官方旗舰店于天猫国际开业参与双 11](https://readhub.cn/topic/8xcAVNn1x5C?tab=daily)
+19. [小米 REDMI 产品经理胡馨心：内存成本持续走高 过去 12 个月涨约 5.5 倍](https://readhub.cn/topic/8xbFJjS9ZoV?tab=daily)
+20. [红果短剧将下线金币功能并上线休息提醒 调整增长模式](https://readhub.cn/topic/8xbIuJo7SVb?tab=daily)
+21. [AI 冲击初级编程岗位需求，美高校计算机专业入学人数大幅下滑](https://readhub.cn/topic/8xcO4fsui6I?tab=daily)
 22. [北京查处首例区块链虚拟货币新型协助传销案 罚没 93 万余元](https://readhub.cn/topic/8xcMIdRT1Fj?tab=daily)
 23. [欣旺达：终止发行 H 股股票并在香港联交所主板上市](https://readhub.cn/topic/8xceB8xwmge?tab=daily)
 24. [Claude Code 新版本新增环境变量 启用后删文件无需逐次确认](https://readhub.cn/topic/8xcNM2bnEFt?tab=daily)
-25. [AI 冲击初级编程岗位需求，美高校计算机专业入学人数大幅下滑](https://readhub.cn/topic/8xcO4fsui6I?tab=daily)
-26. [四大行总市值盘中突破 10 万亿元大关 创出历史新高](https://readhub.cn/topic/8xc5ds09Agj?tab=daily)
-27. [三丽鸥致歉：终止与日剧《VIVANT》联名](https://readhub.cn/topic/8xbuPF9Oq1x?tab=daily)
-28. [谷歌发布 Genie 4 首次支持原生音频与即兴对话](https://readhub.cn/topic/8xc0UElCLfw?tab=daily)
-29. [M6 版 24 英寸 iMac 京东开启预购 国补后 10999 元起](https://readhub.cn/topic/8xaI3IXmCdJ?tab=daily)
-30. [苹果新款 iPad mini 开启预购：配 A20 Pro 芯，5499 元起](https://readhub.cn/topic/8xbNAzCP0JL?tab=daily)
+25. [四大行总市值盘中突破 10 万亿元大关 创出历史新高](https://readhub.cn/topic/8xc5ds09Agj?tab=daily)
+26. [三丽鸥致歉：终止与日剧《VIVANT》联名](https://readhub.cn/topic/8xbuPF9Oq1x?tab=daily)
+27. [谷歌发布 Genie 4 首次支持原生音频与即兴对话](https://readhub.cn/topic/8xc0UElCLfw?tab=daily)
+28. [M6 版 24 英寸 iMac 京东开启预购 国补后 10999 元起](https://readhub.cn/topic/8xaI3IXmCdJ?tab=daily)
+29. [苹果上架 512GB 统一内存版 Mac Studio 较 96GB 配置加价超 11 万](https://readhub.cn/topic/8xbTbuaSjRh?tab=daily)
+30. [xAI 拟收购起诉数据中心噪声的居民房产以换取索赔权放弃](https://readhub.cn/topic/8xbJzKTz9cy?tab=daily)
 
 ## 每日早报
 
@@ -54,6 +54,6 @@
 5. [新芯航途发布 X7 Ultra 智驾芯片：专为端到端大模型打造，中国首发量产 Armv9 车规级 CPU](https://www.aibase.com/zh/news/31967)
 6. [GitHub 发布 Copilot Fusion，多模型自动编排提升编码效率与性价比](https://www.aibase.com/zh/news/31962)
 7. [三个月内完成三轮融资，港大教授创业押注量子算法，瞄准医药与能源材料](https://www.mittrchina.com/news/detail/17157)
-8. [智元发布具身智能原生 OS 灵渠 1.0，年底全面开源](https://www.aibase.com/zh/news/31956)
-9. [AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限](https://www.aibase.com/zh/news/31955)
-10. [Mistral releases open weights for its 1 trillion-parameter Large 4 model](https://daily.dev/posts/mistral-releases-open-weights-for-its-1-trillion-parameter-large-4-model-tkeqfdfzn)
+8. [微软发布自 2018 年以来最大 DirectX 光追升级：AMD RX 9070 示例性能提升约 66 倍](https://www.ithome.com/1/019/781.htm)
+9. [华为制药军团总裁樊杰明确「华为不做药」，希望成为 AI 制药产业技术底座](https://www.ithome.com/1/019/780.htm)
+10. [智元发布具身智能原生 OS 灵渠 1.0，年底全面开源](https://www.aibase.com/zh/news/31956)
