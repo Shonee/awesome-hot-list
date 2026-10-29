@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-29 17:11:13
+> 更新时间：2026-10-29 18:09:51
 
 ## 热新闻
 
@@ -12,15 +12,15 @@
 6. [华为“天才少年”杨玉雯加盟南京大学](https://www.thepaper.cn/newsDetail_forward_34353444)
 7. [马上评｜三丽鸥道歉，“可爱”不是遮羞布](https://www.thepaper.cn/newsDetail_forward_34357576)
 8. [媒体：“坚持一个中国政策”！巴基斯坦已对来自台湾地区航司关闭领空](https://www.thepaper.cn/newsDetail_forward_34357132)
-9. [品牌集体解约之后，姆巴佩的“天价”账单才刚刚开始](https://www.thepaper.cn/newsDetail_forward_34350835)
-10. [第1现场｜西班牙再发列车相撞惨剧：已致64死，事故或因人为失误](https://www.thepaper.cn/newsDetail_forward_34351823)
-11. [记者探访｜宜家餐厅也要“消费入座”？听听商家考量与顾客感受](https://www.thepaper.cn/newsDetail_forward_34354649)
-12. [马上评｜干部变身外卖骑手，管理就该多往一线走](https://www.thepaper.cn/newsDetail_forward_34358574)
-13. [列车顶着红灯高速行驶25公里，已致68死的西班牙高铁追尾本可以避免吗？](https://www.thepaper.cn/newsDetail_forward_34354047)
+9. [马上评｜干部变身外卖骑手，管理就该多往一线走](https://www.thepaper.cn/newsDetail_forward_34358574)
+10. [记者探访｜宜家餐厅也要“消费入座”？听听商家考量与顾客感受](https://www.thepaper.cn/newsDetail_forward_34354649)
+11. [第1现场｜西班牙再发列车相撞惨剧：已致64死，事故或因人为失误](https://www.thepaper.cn/newsDetail_forward_34351823)
+12. [列车顶着红灯高速行驶25公里，已致68死的西班牙高铁追尾本可以避免吗？](https://www.thepaper.cn/newsDetail_forward_34354047)
+13. [外交部：日本国内始终存在一股势力，企图通过文化产品丑化抹黑中国](https://www.thepaper.cn/newsDetail_forward_34359327)
 14. [小博索纳罗携妻女“流亡”路线曝光：途经三国，经陆路转私人飞机抵美](https://www.thepaper.cn/newsDetail_forward_34354524)
 15. [以色列大选开票在即，内塔尼亚胡：必须建立强大右翼政府](https://www.thepaper.cn/newsDetail_forward_34352774)
-16. [外交部：日本国内始终存在一股势力，企图通过文化产品丑化抹黑中国](https://www.thepaper.cn/newsDetail_forward_34359327)
-17. [男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑](https://www.thepaper.cn/newsDetail_forward_34354514)
-18. [8000亿元新型政策性金融工具投放完成](https://www.thepaper.cn/newsDetail_forward_34352086)
-19. [APEC领导人峰会前热议大国关系“基础设施”重塑：澎湃新闻“中美跨代际对话2026”即将启幕](https://www.thepaper.cn/newsDetail_forward_34351500)
-20. [第九届进博会4561名“小叶子”宣誓上岗，将服务于158个岗位](https://www.thepaper.cn/newsDetail_forward_34352418)
+16. [男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑](https://www.thepaper.cn/newsDetail_forward_34354514)
+17. [8000亿元新型政策性金融工具投放完成](https://www.thepaper.cn/newsDetail_forward_34352086)
+18. [APEC领导人峰会前热议大国关系“基础设施”重塑：澎湃新闻“中美跨代际对话2026”即将启幕](https://www.thepaper.cn/newsDetail_forward_34351500)
+19. [第九届进博会4561名“小叶子”宣誓上岗，将服务于158个岗位](https://www.thepaper.cn/newsDetail_forward_34352418)
+20. [以色列大选｜内塔尼亚胡阵营暂时领先，组阁前景有四种走向](https://www.thepaper.cn/newsDetail_forward_34352942)
