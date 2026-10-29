@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-29 20:20:47
+> 更新时间：2026-10-29 21:11:31
 
 ## Hottest
 
@@ -9,23 +9,23 @@
 3. [GitLab security incident: attempted exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 4. [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
 5. [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-6. [AlpineBSD](https://wiki.alpinebsd.org/)
-7. [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
+6. [NetBSD adds a new beginner-friendly text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
+7. [AlpineBSD](https://wiki.alpinebsd.org/)
 8. [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/)
-9. [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
-10. [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
-11. [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
-12. [Redox Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
-13. [Hoot 0.10.0 released](https://spritely.institute/news/hoot-0-10-0-released.html)
-14. [NetBSD adds a new beginner-friendly text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
+9. [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
+10. [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
+11. [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
+12. [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+13. [Redox Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
+14. [Hoot 0.10.0 released](https://spritely.institute/news/hoot-0-10-0-released.html)
 15. [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
 16. [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
 17. [Introducing the Accessible Components Library](https://tetralogical.com/blog/2026/10/14/accessible-components-library/)
-18. [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
-19. [Go Empty Interface Explained & The Hidden Heap Allocation](https://www.youtube.com/watch?v=_BxdvkLLnDc)
-20. [Start Doing Graph Theory](https://vertex.degree/)
-21. [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
-22. [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
-23. [Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
-24. [Nim version 2.4.0 released](https://nim-lang.org/blog/2026/10/28/nim-240.html)
-25. [Syrinx: A censorship-resistant communications platform](https://var0xyz.github.io/syrinx/)
+18. [Syrinx: A censorship-resistant communications platform](https://var0xyz.github.io/syrinx/)
+19. [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
+20. [Go Empty Interface Explained & The Hidden Heap Allocation](https://www.youtube.com/watch?v=_BxdvkLLnDc)
+21. [Start Doing Graph Theory](https://vertex.degree/)
+22. [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+23. [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
+24. [Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
+25. [Compile-Time Target CPU Feature Detection in C](https://terroir.systems/compile-time-cpu-feature-detection-in-c/)
