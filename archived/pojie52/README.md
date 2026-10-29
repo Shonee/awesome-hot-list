@@ -1,14 +1,14 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-10-30 05:35:26
+> 更新时间：2026-10-30 06:09:46
 
 ## 人气热门
 
-1. [全平台视频下载 v1.1.3（持续优化开发中）](https://www.52pojie.cn/thread-2134575-1-1.html)
-2. [PDF加盖骑缝章标注工具 PDFQFZ v1.33](https://www.52pojie.cn/thread-2134192-1-1.html)
-3. [中国香烟博物馆v1.0.0](https://www.52pojie.cn/thread-2134196-1-1.html)
-4. [行政后勤管理系统_v1.0](https://www.52pojie.cn/thread-2134111-1-1.html)
-5. [班级时钟1.0.0](https://www.52pojie.cn/thread-2134143-1-1.html)
+1. [班级时钟1.0.0](https://www.52pojie.cn/thread-2134143-1-1.html)
+2. [行政后勤管理系统_v1.0](https://www.52pojie.cn/thread-2134111-1-1.html)
+3. [全平台视频下载 v1.1.3（持续优化开发中）](https://www.52pojie.cn/thread-2134575-1-1.html)
+4. [PDF加盖骑缝章标注工具 PDFQFZ v1.33](https://www.52pojie.cn/thread-2134192-1-1.html)
+5. [中国香烟博物馆v1.0.0](https://www.52pojie.cn/thread-2134196-1-1.html)
 6. [IDA Pro v9.5.261026 - 2026 年 10 月 27 日最终版本（包含 Windows/Mac/Linux/ARM...](https://www.52pojie.cn/thread-2134627-1-1.html)
 7. [红果短剧自动滑过广告 V1.21](https://www.52pojie.cn/thread-2133519-1-1.html)
 8. [[原创]REA逆向一切的能力99.9%来自AI本身](https://www.52pojie.cn/thread-2133226-1-1.html)

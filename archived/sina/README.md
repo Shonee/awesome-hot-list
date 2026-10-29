@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-30 05:09:46
+> 更新时间：2026-10-30 06:09:54
 
 ## 新闻热榜
 
@@ -9,20 +9,20 @@
 3. [阿根廷央行今日储备为501.5亿美元。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5829923.shtml)
 4. [美国司法部寻求对州官员处理选票问题展开刑事调查。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2606185.shtml)
 5. [据报道，一名高级上将向特朗普汇报了对伊朗发动攻击的选项。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5033633.shtml)
-6. [世界卫生组织：候选人将于2026年11月18日至19日在日内瓦总部举行的首届候选人论坛上与成员国和准成员国进行交流。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8583114.shtml)
-7. [Polymarket：我们已发现并修复了影响国际平台polymarket.com的问题。我们的一家第三方服务提供商遭到入侵，我们已将此事移交相关执法部门](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8574392.shtml)
-8. [普京：俄方支持与欧盟国家恢复关系的任何步骤](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823856.shtml)
-9. [沙特民防部门就利雅得和海尔季可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2695887.shtml)
-10. [俄罗斯总统普京：除俄罗斯外，世界上没有任何国家有能力生产小型核电站。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5808702.shtml)
-11. [特朗普：美国经济增速达 3.4%，民主党若赢下中期选举将毁掉经济成果](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823452.shtml)
-12. [沙特民防部门表示，已就奈季兰可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5919392.shtml)
-13. [微软“超大额债务发行”获得超过1150亿欧元认购需求。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5918530.shtml)
-14. [美国一名高级将领遭解职](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2601592.shtml)
-15. [胡塞武装称沙特主导联军24小时内对也门发动百余次空袭](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8570967.shtml)
-16. [特朗普：美国正和委内瑞拉开展合作，开采数百万桶石油供应美国。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2592796.shtml)
-17. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
-18. [欧盟驻军直升机在波黑坠毁 已造成4人死亡](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2601408.shtml)
-19. [伊朗议会议长卡利巴夫：伊朗已多次向调停方清晰表明自身条件。胡萝卜加大棒的手段对伊朗不起作用。只有同意伊朗的七项条件，才能够取得进](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5007256.shtml)
+6. [美国能源部：企业将从战略石油储备中借入1675万桶原油，此前计划提供1700万桶。五家公司正在接受美国战略石油储备（SPR）石油贷款，包括T](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxvhe5706459.shtml)
+7. [世界卫生组织：候选人将于2026年11月18日至19日在日内瓦总部举行的首届候选人论坛上与成员国和准成员国进行交流。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8583114.shtml)
+8. [五角大楼正在调查多个军事前哨基地的冷柜故障。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxvhh2482315.shtml)
+9. [创历史！U17女足点球战淘汰法国首次晋级世界杯8强 牛子琪两扑点](https://news.sina.com.cn/o/2026-10-30/doc-iniwxqym8561191.shtml)
+10. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
+11. [Polymarket：我们已发现并修复了影响国际平台polymarket.com的问题。我们的一家第三方服务提供商遭到入侵，我们已将此事移交相关执法部门](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8574392.shtml)
+12. [普京：俄方支持与欧盟国家恢复关系的任何步骤](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823856.shtml)
+13. [沙特民防部门就利雅得和海尔季可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2695887.shtml)
+14. [俄罗斯总统普京：除俄罗斯外，世界上没有任何国家有能力生产小型核电站。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5808702.shtml)
+15. [特朗普：美国经济增速达 3.4%，民主党若赢下中期选举将毁掉经济成果](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823452.shtml)
+16. [沙特民防部门表示，已就奈季兰可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5919392.shtml)
+17. [微软“超大额债务发行”获得超过1150亿欧元认购需求。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5918530.shtml)
+18. [美国一名高级将领遭解职](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2601592.shtml)
+19. [亚马逊第三季度AWS净销售额459.8亿美元 高于预期](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxvhh2485255.shtml)
 
 ## 财经热榜
 

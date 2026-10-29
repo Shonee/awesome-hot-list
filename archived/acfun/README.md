@@ -1,6 +1,6 @@
 # AcFun热榜
 
-> 更新时间：2026-10-30 05:08:36
+> 更新时间：2026-10-30 06:09:37
 
 ## 日榜
 
@@ -27,13 +27,13 @@
 21. [人人都爱樱花妹！TWICE - I CAN T STOP ME 凑崎纱夏个人直拍](https://www.acfun.cn/v/ac48946699)
 22. [【UP创作大赛】AC娘对水姐的闪身步实战应用](https://www.acfun.cn/v/ac48945921)
 23. [好累](https://www.acfun.cn/v/ac48947862)
-24. [【猪肝来也】季候风](https://www.acfun.cn/v/ac48947189)
+24. [4K] 2026 APAxpo 佛山改裝展 | 超絶可愛いRQ | 역대급 미녀 레이싱모델](https://www.acfun.cn/v/ac48948240)
 25. [【东方】思乡的公主【二ノ瀬泰徳 手书动画】](https://www.acfun.cn/v/ac48938426)
-26. [迟来的 5G 时代！土耳其本土将军手机登场！](https://www.acfun.cn/v/ac48947632)
-27. [【UP创作大赛】【AI赛道】QT双排对手视角](https://www.acfun.cn/v/ac48947814)
+26. [【猪肝来也】季候风](https://www.acfun.cn/v/ac48947189)
+27. [迟来的 5G 时代！土耳其本土将军手机登场！](https://www.acfun.cn/v/ac48947632)
 28. [开播时平庸，三集后超鬼！这是那个怪物想出的剧情啊！](https://www.acfun.cn/v/ac48947956)
-29. [还有谁能超过我](https://www.acfun.cn/v/ac48947506)
-30. [4K] 2026 APAxpo 佛山改裝展 | 超絶可愛いRQ | 역대급 미녀 레이싱모델](https://www.acfun.cn/v/ac48948240)
+29. [【UP创作大赛】【AI赛道】QT双排对手视角](https://www.acfun.cn/v/ac48947814)
+30. [还有谁能超过我](https://www.acfun.cn/v/ac48947506)
 31. [《影之刃零》典藏版开箱！](https://www.acfun.cn/v/ac48947637)
 32. [加班秘书~Alone](https://www.acfun.cn/v/ac48948082)
 33. [恋爱的条件](https://www.acfun.cn/v/ac48948085)
@@ -86,9 +86,9 @@
 27. [物业让我滚外边唱去，原创曲目《喑哑》](https://www.acfun.cn/v/ac48943259)
 28. [年少不知少妇好！！！欢乐八点档-1817](https://www.acfun.cn/v/ac48947413)
 29. [买完海鲜不知道怎么处理一条视频搞定7种家常小海鲜](https://www.acfun.cn/v/ac48942524)
-30. [【UP创作大赛】《The Pirate and Kids》海绵宝宝主题曲](https://www.acfun.cn/v/ac48942097)
-31. [【UP创作大赛】海底捞自助小火锅！59.9元的举高高，真有那么差劲？](https://www.acfun.cn/v/ac48945056)
-32. [【UP创作大赛】轻飘飘丧丧的「airhead｜ガランド」-在10884号房间彻夜起舞](https://www.acfun.cn/v/ac48947761)
+30. [【UP创作大赛】轻飘飘丧丧的「airhead｜ガランド」-在10884号房间彻夜起舞](https://www.acfun.cn/v/ac48947761)
+31. [【UP创作大赛】《The Pirate and Kids》海绵宝宝主题曲](https://www.acfun.cn/v/ac48942097)
+32. [【UP创作大赛】海底捞自助小火锅！59.9元的举高高，真有那么差劲？](https://www.acfun.cn/v/ac48945056)
 33. [可爱的旋律](https://www.acfun.cn/v/ac48941170)
 34. [【up主创作大赛】我早茶月光在你头发](https://www.acfun.cn/v/ac48945759)
 35. [老五可以吗【今天有什么好笑的 #2549】](https://www.acfun.cn/v/ac48942285)
