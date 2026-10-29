@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-29 14:16:15
+> 更新时间：2026-10-29 15:10:59
 
 ## 最新帖子
 
-1. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
-2. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
-3. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
-4. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
-5. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
-6. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
-7. [无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环](https://www.cnblogs.com/yuyisi/p/23471112)
-8. [GGUF 量化内幕：第5章 Q8_0 与简单块家族](https://www.cnblogs.com/apachecn/p/23475518)
-9. [制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳](https://www.cnblogs.com/shenchuanchao/p/23463567)
-10. [浏览器如何导入自签证书：一份可操作的完整指南](https://www.cnblogs.com/jyzhao/p/23475499)
-11. [Qwen-Image2.1游戏素材工坊：让角色真的走起来（三）](https://www.cnblogs.com/wyang/p/23475359)
-12. [MQTT实战 - MQTT高频面试题 + 我的8年实战答案（十一）](https://www.cnblogs.com/hugogoos/p/23472865)
-13. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
-14. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
-15. [从零搭建华为云 EVS 每日自动快照：hcloud + PowerShell + 邮件报告实战](https://www.cnblogs.com/JoePotter/p/23472977)
-16. [个人分析：2026 CSP-S 考察方向预测与备考建议](https://www.cnblogs.com/lvwangshuOI/p/23472339)
-17. [【Agentic Memory】MemTrace 如何做到自动溯源和自动优化](https://www.cnblogs.com/rossiXYZ/p/23472086)
-18. [spec-superflow 2.0：小任务快跑，复杂任务不漂移](https://www.cnblogs.com/uniqueDong/p/23471783)
-19. [04 · 给 AI 的流程做减法：三个目标砍成两个的取舍](https://www.cnblogs.com/lishen2/p/23471732)
-20. [I love Power BI 2](https://www.cnblogs.com/aspnetx/p/23471635)
+1. [GEO服务商怎么选：评估维度、服务流程与避坑要点（2026）](https://www.cnblogs.com/gunaing/p/23482139)
+2. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
+3. [用Python DSL 写轻量数据质检工具](https://www.cnblogs.com/wang_yb/p/23481920)
+4. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
+5. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
+6. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
+7. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
+8. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
+9. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
+10. [无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环](https://www.cnblogs.com/yuyisi/p/23471112)
+11. [GGUF 量化内幕：第5章 Q8_0 与简单块家族](https://www.cnblogs.com/apachecn/p/23475518)
+12. [制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳](https://www.cnblogs.com/shenchuanchao/p/23463567)
+13. [浏览器如何导入自签证书：一份可操作的完整指南](https://www.cnblogs.com/jyzhao/p/23475499)
+14. [Qwen-Image2.1游戏素材工坊：让角色真的走起来（三）](https://www.cnblogs.com/wyang/p/23475359)
+15. [MQTT实战 - MQTT高频面试题 + 我的8年实战答案（十一）](https://www.cnblogs.com/hugogoos/p/23472865)
+16. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
+17. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
+18. [从零搭建华为云 EVS 每日自动快照：hcloud + PowerShell + 邮件报告实战](https://www.cnblogs.com/JoePotter/p/23472977)
+19. [个人分析：2026 CSP-S 考察方向预测与备考建议](https://www.cnblogs.com/lvwangshuOI/p/23472339)
+20. [【Agentic Memory】MemTrace 如何做到自动溯源和自动优化](https://www.cnblogs.com/rossiXYZ/p/23472086)
 
 ## 精华帖子
 

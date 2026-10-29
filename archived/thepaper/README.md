@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-29 14:16:27
+> 更新时间：2026-10-29 15:11:10
 
 ## 热新闻
 
@@ -22,5 +22,5 @@
 16. [小博索纳罗携妻女“流亡”路线曝光：途径三国，经陆路转私人飞机抵美](https://www.thepaper.cn/newsDetail_forward_34354524)
 17. [以色列大选开票在即，内塔尼亚胡：必须建立强大右翼政府](https://www.thepaper.cn/newsDetail_forward_34352774)
 18. [男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑](https://www.thepaper.cn/newsDetail_forward_34354514)
-19. [刘延东同志遗像](https://www.thepaper.cn/newsDetail_forward_34351876)
-20. [8000亿元新型政策性金融工具投放完成](https://www.thepaper.cn/newsDetail_forward_34352086)
+19. [8000亿元新型政策性金融工具投放完成](https://www.thepaper.cn/newsDetail_forward_34352086)
+20. [APEC领导人峰会前热议大国关系“基础设施”重塑：澎湃新闻“中美跨代际对话2026”即将启幕](https://www.thepaper.cn/newsDetail_forward_34351500)
