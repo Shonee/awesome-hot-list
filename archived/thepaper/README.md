@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-10-30 01:09:16
+> 更新时间：2026-10-30 02:12:16
 
 ## 热新闻
 
@@ -23,4 +23,4 @@
 17. [地基｜从实力制约到政治共识，中美“建设性战略稳定”何以实现](https://www.thepaper.cn/newsDetail_forward_34352053)
 18. [美联储10月如期按兵不动，两人投反对票支持加息（附声明全文）](https://www.thepaper.cn/newsDetail_forward_34356992)
 19. [AI模特“攻占”双十一：AI标注“隐形”真假难辨，生成图价格不到实拍图四分之一](https://www.thepaper.cn/newsDetail_forward_34352856)
-20. [A股回购增持潮起：产业资本加速入场，稳市信号不断增强](https://www.thepaper.cn/newsDetail_forward_34353480)
+20. [党的二十届五中全会公报一图速览](https://www.thepaper.cn/newsDetail_forward_34361516)

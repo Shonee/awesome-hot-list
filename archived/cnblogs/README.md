@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-30 01:09:04
+> 更新时间：2026-10-30 02:12:03
 
 ## 最新帖子
 
-1. [Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP](https://www.cnblogs.com/lulianqi/p/23483822)
-2. [用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录](https://www.cnblogs.com/wyang/p/23487396)
-3. [【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理](https://www.cnblogs.com/rossiXYZ/p/23430544)
-4. [P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解](https://www.cnblogs.com/lvwangshuOI/p/23485788)
-5. [AI Agent如何通过MCP连接到华为云RDS Supabase应用平台](https://www.cnblogs.com/huaweiyun/p/23484548)
-6. [Agent 支线知识：Personal Agent 如何理解个人意图？](https://www.cnblogs.com/Qiniu-developer/p/23483548)
-7. [重新理解 RankMixer：扩参为什么有效，又为什么划算？](https://www.cnblogs.com/GlenTt/p/23483025)
-8. [没有 Mac 版客户端，我拿 Windows 做了台跳板机](https://www.cnblogs.com/liuzhang/p/23482978)
-9. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
-10. [用Python DSL 写轻量数据质检工具](https://www.cnblogs.com/wang_yb/p/23481920)
-11. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
-12. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
-13. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
-14. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
-15. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
-16. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
-17. [无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环](https://www.cnblogs.com/yuyisi/p/23471112)
-18. [GGUF 量化内幕：第5章 Q8_0 与简单块家族](https://www.cnblogs.com/apachecn/p/23475518)
-19. [制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳](https://www.cnblogs.com/shenchuanchao/p/23463567)
-20. [浏览器如何导入自签证书：一份可操作的完整指南](https://www.cnblogs.com/jyzhao/p/23475499)
+1. [LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变](https://www.cnblogs.com/moonout/p/23488736)
+2. [Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP](https://www.cnblogs.com/lulianqi/p/23483822)
+3. [用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录](https://www.cnblogs.com/wyang/p/23487396)
+4. [【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理](https://www.cnblogs.com/rossiXYZ/p/23430544)
+5. [P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解](https://www.cnblogs.com/lvwangshuOI/p/23485788)
+6. [AI Agent如何通过MCP连接到华为云RDS Supabase应用平台](https://www.cnblogs.com/huaweiyun/p/23484548)
+7. [Agent 支线知识：Personal Agent 如何理解个人意图？](https://www.cnblogs.com/Qiniu-developer/p/23483548)
+8. [重新理解 RankMixer：扩参为什么有效，又为什么划算？](https://www.cnblogs.com/GlenTt/p/23483025)
+9. [没有 Mac 版客户端，我拿 Windows 做了台跳板机](https://www.cnblogs.com/liuzhang/p/23482978)
+10. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
+11. [用Python DSL 写轻量数据质检工具](https://www.cnblogs.com/wang_yb/p/23481920)
+12. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
+13. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
+14. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
+15. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
+16. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
+17. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
+18. [无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环](https://www.cnblogs.com/yuyisi/p/23471112)
+19. [GGUF 量化内幕：第5章 Q8_0 与简单块家族](https://www.cnblogs.com/apachecn/p/23475518)
+20. [制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳](https://www.cnblogs.com/shenchuanchao/p/23463567)
 
 ## 精华帖子
 

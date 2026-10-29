@@ -1,29 +1,27 @@
 # 新浪热榜
 
-> 更新时间：2026-10-30 01:09:23
+> 更新时间：2026-10-30 02:12:21
 
 ## 新闻热榜
 
-1. [菲律宾军舰“跟踪”辽宁舰？全世界都笑了](https://news.sina.com.cn/c/2026-10-28/doc-iniwswni4274463.shtml)
-2. [周群飞成中国女首富　身家1270亿](https://news.sina.com.cn/zx/2026-10-28/doc-iniwttsa6612389.shtml)
-3. [国台办回应蔡康永发文称“没有支持过‘台独’”](https://news.sina.com.cn/2026-10-28/doc-iniwtxya3370077.shtml)
-4. [【环时深度】警惕！鲁比奥中亚行不只是“找矿”](https://news.sina.com.cn/w/2026-10-28/doc-iniwtpkh3430968.shtml)
-5. [姆巴佩就其错误言论道歉，外交部回应](https://news.sina.com.cn/c/2026-10-28/doc-iniwukpx9484332.shtml)
-6. [突发，美军开火，多国联军，发动空袭，霍尔木兹海峡大消息，油轮起火，特朗普称美国已经击败伊朗](https://finance.sina.com.cn/roll/2026-10-28/doc-iniwtpkh3442002.shtml)
-7. [刘延东同志逝世](https://news.sina.com.cn/c/xl/2026-10-28/doc-iniwuqvx5908084.shtml)
-8. [特朗普最新涉台表态，国台办回应](https://news.sina.com.cn/c/2026-10-28/doc-iniwueft3696498.shtml)
-9. [巴西自由党众议员称弗拉维奥·博索纳罗已前往美国](https://news.sina.com.cn/w/2026-10-28/doc-iniwtpiz3942001.shtml)
-10. [卢拉：弗拉维奥·博索纳罗败选后逃离巴西“可耻”](https://news.sina.com.cn/w/2026-10-28/doc-iniwtpkh3457391.shtml)
-11. [古巴外长愤怒打断美国代表发言](https://news.sina.com.cn/zx/2026-10-28/doc-iniwtpke6675223.shtml)
-12. [澳大利亚向我国返还2件流失文物](https://news.sina.com.cn/zx/2026-10-28/doc-iniwtxxv3794872.shtml)
-13. [[新浪彩票]足彩第26152期任九：布伦特全身而退](https://sports.sina.com.cn/l/2026-10-28/doc-iniwtpiz3968118.shtml)
-14. [批量“复制”万岁山？第一个万亿城市开始了](https://news.sina.com.cn/c/2026-10-28/doc-iniwswnn6917162.shtml)
-15. [以色列议会选举投票率达77.7% 创1999年以来新高](https://news.sina.com.cn/w/2026-10-28/doc-iniwtpiz3943014.shtml)
-16. [女子刚离婚就中2千万!前夫闻讯诉至法院遭打脸](https://sports.sina.com.cn/l/2026-10-28/doc-iniwtpkh3461996.shtml)
-17. [普京与佩泽希齐扬会晤 讨论中东局势](https://news.sina.com.cn/w/2026-10-28/doc-iniwswnn6934347.shtml)
-18. [中国要求美国立即停止对古巴的封锁和施压](https://news.sina.com.cn/w/2026-10-28/doc-iniwtpiz3963364.shtml)
-19. [特朗普再提要将委内瑞拉变为美国第51个州](https://news.sina.com.cn/zx/2026-10-28/doc-iniwtxya3376042.shtml)
-20. [信号明确！中方降级出席会议，“责任完全在菲律宾”](https://finance.sina.com.cn/roll/2026-10-28/doc-iniwtpkh3440332.shtml)
+1. [开拓者4人20+送湖人首败 杨瀚森未登场 东契奇空砍41+5+9](https://news.sina.com.cn/zx/2026-10-28/doc-iniwueft3713560.shtml)
+2. [A股指数今起迎重要调整，对投资者有何影响？](https://finance.sina.com.cn/stock/roll/2026-10-26/doc-iniwqarp9285414.shtml)
+3. [张升民同志简历](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwtus6057735.shtml)
+4. [微软“超大额债务发行”获得超过1150亿欧元认购需求。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5918530.shtml)
+5. [中国共产党第二十届中央委员会第五次全体会议公报](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwyaq6042002.shtml)
+6. [欧盟专员约根森：未来几个月释放的石油储备中有一半将是柴油。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2691737.shtml)
+7. [沙特民防部门就利雅得和海尔季可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2695887.shtml)
+8. [沙特民防部门表示，已就奈季兰可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5919392.shtml)
+9. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
+10. [小博索纳罗出逃美国背后，他在巴西已近乎“光杆司令”](https://news.sina.com.cn/w/2026-10-29/doc-iniwwyas2774525.shtml)
+11. [视频丨美计划增购F-35战机 “十年大单”究竟意味什么](https://news.sina.com.cn/o/2026-10-29/doc-iniwxksp8630911.shtml)
+12. [欧洲央行据悉做好了在12月加息的准备](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5904512.shtml)
+13. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
+14. [39岁女高管隆胸因麻醉过敏死亡](https://news.sina.com.cn/s/2026-10-29/doc-iniwwpnw2848058.shtml)
+15. [财报出炉后，为何微软股价没有像谷歌那样遭遇重挫](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5908352.shtml)
+16. [10月29日增减持汇总：华勤技术等4股拟增持 当日暂无A股上市公司拟减持（表）](https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwxekq2763355.shtml)
+17. [双色球头奖8注665万分落6地 奖池余额10.75亿](https://sports.sina.com.cn/l/2026-10-29/doc-iniwxekt5180330.shtml)
+18. [CGTN记者：姆巴佩每年在中国广告收入2200万欧 尊重绝无谈判余地](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekq2720304.shtml)
 
 ## 财经热榜
 
