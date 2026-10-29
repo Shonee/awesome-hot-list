@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-29 23:10:20
+> 更新时间：2026-10-30 00:11:13
 
 ## 最新帖子
 
-1. [【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理](https://www.cnblogs.com/rossiXYZ/p/23430544)
-2. [P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解](https://www.cnblogs.com/lvwangshuOI/p/23485788)
-3. [AI Agent如何通过MCP连接到华为云RDS Supabase应用平台](https://www.cnblogs.com/huaweiyun/p/23484548)
-4. [Agent 支线知识：Personal Agent 如何理解个人意图？](https://www.cnblogs.com/Qiniu-developer/p/23483548)
-5. [重新理解 RankMixer：扩参为什么有效，又为什么划算？](https://www.cnblogs.com/GlenTt/p/23483025)
-6. [没有 Mac 版客户端，我拿 Windows 做了台跳板机](https://www.cnblogs.com/liuzhang/p/23482978)
-7. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
-8. [用Python DSL 写轻量数据质检工具](https://www.cnblogs.com/wang_yb/p/23481920)
-9. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
-10. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
-11. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
-12. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
-13. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
-14. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
-15. [无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环](https://www.cnblogs.com/yuyisi/p/23471112)
-16. [GGUF 量化内幕：第5章 Q8_0 与简单块家族](https://www.cnblogs.com/apachecn/p/23475518)
-17. [制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳](https://www.cnblogs.com/shenchuanchao/p/23463567)
-18. [浏览器如何导入自签证书：一份可操作的完整指南](https://www.cnblogs.com/jyzhao/p/23475499)
-19. [Qwen-Image2.1游戏素材工坊：让角色真的走起来（三）](https://www.cnblogs.com/wyang/p/23475359)
-20. [MQTT实战 - MQTT高频面试题 + 我的8年实战答案（十一）](https://www.cnblogs.com/hugogoos/p/23472865)
+1. [Dubbo 接口调试,不必再写临时代码,DubboTester 一站式搞定调试、压测、MCP 和 HTTP](https://www.cnblogs.com/lulianqi/p/23483822)
+2. [用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录](https://www.cnblogs.com/wyang/p/23487396)
+3. [【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理](https://www.cnblogs.com/rossiXYZ/p/23430544)
+4. [P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解](https://www.cnblogs.com/lvwangshuOI/p/23485788)
+5. [AI Agent如何通过MCP连接到华为云RDS Supabase应用平台](https://www.cnblogs.com/huaweiyun/p/23484548)
+6. [Agent 支线知识：Personal Agent 如何理解个人意图？](https://www.cnblogs.com/Qiniu-developer/p/23483548)
+7. [重新理解 RankMixer：扩参为什么有效，又为什么划算？](https://www.cnblogs.com/GlenTt/p/23483025)
+8. [没有 Mac 版客户端，我拿 Windows 做了台跳板机](https://www.cnblogs.com/liuzhang/p/23482978)
+9. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
+10. [用Python DSL 写轻量数据质检工具](https://www.cnblogs.com/wang_yb/p/23481920)
+11. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
+12. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
+13. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
+14. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
+15. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
+16. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
+17. [无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环](https://www.cnblogs.com/yuyisi/p/23471112)
+18. [GGUF 量化内幕：第5章 Q8_0 与简单块家族](https://www.cnblogs.com/apachecn/p/23475518)
+19. [制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳](https://www.cnblogs.com/shenchuanchao/p/23463567)
+20. [浏览器如何导入自签证书：一份可操作的完整指南](https://www.cnblogs.com/jyzhao/p/23475499)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [《HelloGitHub》第 127 期](https://www.cnblogs.com/xueweihan/p/23459802)
 2. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23462657)
 3. [100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了](https://www.cnblogs.com/zrui-xyu/p/23463651)
-4. [用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名](https://www.cnblogs.com/jyzhao/p/23462475)
-5. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
+4. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
+5. [用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名](https://www.cnblogs.com/jyzhao/p/23462475)
 6. [前端没有被杀死，被杀死的是"只会把设计稿变成页面"](https://www.cnblogs.com/codigger/p/23464752)

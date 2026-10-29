@@ -1,6 +1,6 @@
 # 掘金热榜
 
-> 更新时间：2026-10-29 23:10:16
+> 更新时间：2026-10-30 00:11:10
 
 ## 热门文章
 
@@ -31,8 +31,8 @@
 25. [uView Pro X 1.0.0 发布：全面支持 uni-app x 蒸汽模式，80+ 组件](https://juejin.cn/post/7701525643872321571)
 26. [《HelloGitHub》第 127 期](https://juejin.cn/post/7701499928404705322)
 27. [同一份知识库，4 种切分 × 3 种召回，纯关键词比纯向量高 13 个点](https://juejin.cn/post/7700790222851440640)
-28. [Go-Gui:一套 无限接近 现代化UI的 GPU绘制界面组件框架](https://juejin.cn/post/7701703182474248211)
-29. [别把 Agent 架构画成组织架构图——子代理该不该拆，用任务级 Eval 说话](https://juejin.cn/post/7701250821648236554)
+28. [别把 Agent 架构画成组织架构图——子代理该不该拆，用任务级 Eval 说话](https://juejin.cn/post/7701250821648236554)
+29. [Go-Gui:一套 无限接近 现代化UI的 GPU绘制界面组件框架](https://juejin.cn/post/7701703182474248211)
 30. [前端图片压缩实战——我把网站图片体积砍了 70%](https://juejin.cn/post/7701269882872446995)
 31. [你发的原图可能暴露你家地址——聊聊图片 EXIF 隐私](https://juejin.cn/post/7701269179106476073)
 32. [iPhone 用户传了张 HEIC，我的前端崩了](https://juejin.cn/post/7701269169975541803)
@@ -41,16 +41,16 @@
 35. [AI 编码工作流的设计](https://juejin.cn/post/7701490621308502057)
 36. [🚀🚀【封闭结束5】Agent 长任务怎么跑稳？SSE 流式推送与 HITL 暂停恢复实战](https://juejin.cn/post/7701269882882621481)
 37. [WorkBuddy中调用本地ComfyUi工作流免费生图](https://juejin.cn/post/7701022375387267115)
-38. [Compose 中何时该用 padding，何时该用 offset](https://juejin.cn/post/7700857041943887898)
-39. [加密拦截器让抓包失效，我只能从 4KB 的 logcat 碎片里拼回 JSON](https://juejin.cn/post/7700897518397636648)
+38. [加密拦截器让抓包失效，我只能从 4KB 的 logcat 碎片里拼回 JSON](https://juejin.cn/post/7700897518397636648)
+39. [Compose 中何时该用 padding，何时该用 offset](https://juejin.cn/post/7700857041943887898)
 40. [我算了笔账：AI 编程工具一年烧掉两台 MacBook](https://juejin.cn/post/7701535272555003944)
 41. [全栈正在杀死前端？被淘汰的从来不是岗位，只会是执行层](https://juejin.cn/post/7701269179119468580)
 42. [如何让视频模型对你言听计从？结构化提示词助你生成电影级画面](https://juejin.cn/post/7701269179106639913)
 43. [100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了](https://juejin.cn/post/7701269179118845988)
-44. [AI 时代一群人在卷笔记软件，我想先把 Markdown 编辑器的底层做好](https://juejin.cn/post/7701625236325154826)
-45. [我把热榜那篇"禁用 axios"逐条实测了一遍：结论大体对，坑在它没讲的地方](https://juejin.cn/post/7701604765432135689)
-46. [AI让程序员失去了什么？](https://juejin.cn/post/7701256742260244489)
-47. [用一个小项目，学会开发 MCP](https://juejin.cn/post/7701250324648263699)
-48. [共享 Schema 与 SchemaFactory](https://juejin.cn/post/7700869924676468762)
-49. [当应用不再属于特定操作系统 -- 肘子的 Swift 周报 #159](https://juejin.cn/post/7700855774545805366)
-50. [Agent 工作交接：继续、压缩还是新开？120 次运行的会话策略实验](https://juejin.cn/post/7700822176634978331)
+44. [Agent 工作交接：继续、压缩还是新开？120 次运行的会话策略实验](https://juejin.cn/post/7700822176634978331)
+45. [AI 时代一群人在卷笔记软件，我想先把 Markdown 编辑器的底层做好](https://juejin.cn/post/7701625236325154826)
+46. [我把热榜那篇"禁用 axios"逐条实测了一遍：结论大体对，坑在它没讲的地方](https://juejin.cn/post/7701604765432135689)
+47. [AI让程序员失去了什么？](https://juejin.cn/post/7701256742260244489)
+48. [用一个小项目，学会开发 MCP](https://juejin.cn/post/7701250324648263699)
+49. [共享 Schema 与 SchemaFactory](https://juejin.cn/post/7700869924676468762)
+50. [当应用不再属于特定操作系统 -- 肘子的 Swift 周报 #159](https://juejin.cn/post/7700855774545805366)
