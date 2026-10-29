@@ -1,6 +1,6 @@
 # Readhub热榜
 
-> 更新时间：2026-10-29 19:35:08
+> 更新时间：2026-10-29 20:40:27
 
 ## 24 小时热榜
 
@@ -14,26 +14,26 @@
 8. [腾讯汤道生：WorkBuddy 将开放架构，支持企业自建 Agent 网络](https://readhub.cn/topic/8xc3KrPYehX?tab=daily)
 9. [腾讯网盘开启内测申请：支持连接多个 AI 应用等相关功能](https://readhub.cn/topic/8xbNsq2e16r?tab=daily)
 10. [腾讯 WorkBuddy 内测收入变现功能](https://readhub.cn/topic/8xc3MAeWdqe?tab=daily)
-11. [B 站出现大量 DeepSeek 衍生 AI 账号引发网友玩梗热议](https://readhub.cn/topic/8xbPJq712X3?tab=daily)
-12. [山西汾酒 2026 前三季度营收 283.82 亿 净利润 83.38 亿同比双降](https://readhub.cn/topic/8xaxnkS8Zh7?tab=daily)
+11. [知名独立开发者退订几乎所有工作软件 改用 AI 按需制作工具](https://readhub.cn/topic/8xb6PYvVeq5?tab=daily)
+12. [B 站出现大量 DeepSeek 衍生 AI 账号引发网友玩梗热议](https://readhub.cn/topic/8xbPJq712X3?tab=daily)
 13. [梁其伟首度复盘《影之刃零》：砍掉其他在研项目全力攻坚](https://readhub.cn/topic/8xbMSOlq1NH?tab=daily)
 14. [我国天文学家发现三颗理论上本不该存在的系外行星](https://readhub.cn/topic/8xYi7RKbz1m?tab=daily)
-15. [知名独立开发者退订几乎所有工作软件 改用 AI 按需制作工具](https://readhub.cn/topic/8xb6PYvVeq5?tab=daily)
+15. [山西汾酒 2026 前三季度营收 283.82 亿 净利润 83.38 亿同比双降](https://readhub.cn/topic/8xaxnkS8Zh7?tab=daily)
 16. [阿维塔副总裁解释取消发布会原因 称将直接公布价格配置](https://readhub.cn/topic/8xbNtUJytUY?tab=daily)
-17. [《影之刃零》M 站评分超《黑神话》《原神》 成国产游戏最高](https://readhub.cn/topic/8xai8kbQuTP?tab=daily)
-18. [腾讯即将发布混元新模型 Hy4 、Hy4 flash](https://readhub.cn/topic/8xc3OTqaZ93?tab=daily)
-19. [智元宣布上半年营收近 20 亿元，量产人形机器人 20000 台](https://readhub.cn/topic/8xc5YZszCc7?tab=daily)
-20. [MIT 团队成功开发出基于 mRNA 的体内 CAR-NK 细胞疗法](https://readhub.cn/topic/8xaysjM9VUQ?tab=daily)
-21. [国内最长地铁环线全线开通](https://readhub.cn/topic/8xc1BYwR0XO?tab=daily)
-22. [Nintendo Switch 2 首家官方旗舰店于天猫国际开业参与双 11](https://readhub.cn/topic/8xcAVNn1x5C?tab=daily)
-23. [小米 REDMI 产品经理胡馨心：内存成本持续走高 过去 12 个月涨约 5.5 倍](https://readhub.cn/topic/8xbFJjS9ZoV?tab=daily)
+17. [国内最长地铁环线全线开通](https://readhub.cn/topic/8xc1BYwR0XO?tab=daily)
+18. [MIT 团队成功开发出基于 mRNA 的体内 CAR-NK 细胞疗法](https://readhub.cn/topic/8xaysjM9VUQ?tab=daily)
+19. [《影之刃零》M 站评分超《黑神话》《原神》 成国产游戏最高](https://readhub.cn/topic/8xai8kbQuTP?tab=daily)
+20. [腾讯即将发布混元新模型 Hy4 、Hy4 flash](https://readhub.cn/topic/8xc3OTqaZ93?tab=daily)
+21. [智元宣布上半年营收近 20 亿元，量产人形机器人 20000 台](https://readhub.cn/topic/8xc5YZszCc7?tab=daily)
+22. [小米 REDMI 产品经理胡馨心：内存成本持续走高 过去 12 个月涨约 5.5 倍](https://readhub.cn/topic/8xbFJjS9ZoV?tab=daily)
+23. [Nintendo Switch 2 首家官方旗舰店于天猫国际开业参与双 11](https://readhub.cn/topic/8xcAVNn1x5C?tab=daily)
 24. [红果短剧将下线金币功能并上线休息提醒 调整增长模式](https://readhub.cn/topic/8xbIuJo7SVb?tab=daily)
 25. [北京查处首例区块链虚拟货币新型协助传销案 罚没 93 万余元](https://readhub.cn/topic/8xcMIdRT1Fj?tab=daily)
 26. [Claude Code 新版本新增环境变量 启用后删文件无需逐次确认](https://readhub.cn/topic/8xcNM2bnEFt?tab=daily)
 27. [AI 冲击初级编程岗位需求，美高校计算机专业入学人数大幅下滑](https://readhub.cn/topic/8xcO4fsui6I?tab=daily)
 28. [四大行总市值盘中突破 10 万亿元大关 创出历史新高](https://readhub.cn/topic/8xc5ds09Agj?tab=daily)
-29. [三丽鸥致歉：终止与日剧《VIVANT》联名](https://readhub.cn/topic/8xbuPF9Oq1x?tab=daily)
-30. [谷歌发布 Genie 4 首次支持原生音频与即兴对话](https://readhub.cn/topic/8xc0UElCLfw?tab=daily)
+29. [欣旺达：终止发行 H 股股票并在香港联交所主板上市](https://readhub.cn/topic/8xceB8xwmge?tab=daily)
+30. [三丽鸥致歉：终止与日剧《VIVANT》联名](https://readhub.cn/topic/8xbuPF9Oq1x?tab=daily)
 
 ## 每日早报
 
