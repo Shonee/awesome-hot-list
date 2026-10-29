@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-29 09:10:01
+> 更新时间：2026-10-29 10:12:59
 
 ## 最新帖子
 
-1. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
-2. [我开发了一款基于业务场景接口测试Skill ，端到端覆盖率达到99.99%，太夯了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23475765)
-3. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
-4. [无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环](https://www.cnblogs.com/yuyisi/p/23471112)
-5. [GGUF 量化内幕：第5章 Q8_0 与简单块家族](https://www.cnblogs.com/apachecn/p/23475518)
-6. [制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳](https://www.cnblogs.com/shenchuanchao/p/23463567)
-7. [浏览器如何导入自签证书：一份可操作的完整指南](https://www.cnblogs.com/jyzhao/p/23475499)
-8. [Qwen-Image2.1游戏素材工坊：让角色真的走起来（三）](https://www.cnblogs.com/wyang/p/23475359)
-9. [MQTT实战 - MQTT高频面试题 + 我的8年实战答案（十一）](https://www.cnblogs.com/hugogoos/p/23472865)
-10. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
-11. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
-12. [从零搭建华为云 EVS 每日自动快照：hcloud + PowerShell + 邮件报告实战](https://www.cnblogs.com/JoePotter/p/23472977)
-13. [寻找志同道合的创业者，一起把 VirtuaMesh 做大](https://www.cnblogs.com/wmlunge/p/23472508)
-14. [个人分析：2026 CSP-S 考察方向预测与备考建议](https://www.cnblogs.com/lvwangshuOI/p/23472339)
-15. [【Agentic Memory】MemTrace 如何做到自动溯源和自动优化](https://www.cnblogs.com/rossiXYZ/p/23472086)
-16. [spec-superflow 2.0：小任务快跑，复杂任务不漂移](https://www.cnblogs.com/uniqueDong/p/23471783)
-17. [04 · 给 AI 的流程做减法：三个目标砍成两个的取舍](https://www.cnblogs.com/lishen2/p/23471732)
-18. [I love Power BI 2](https://www.cnblogs.com/aspnetx/p/23471635)
-19. [java 多线程开发系列之九：玩转线程池（线程池的简介和简单使用）](https://www.cnblogs.com/jilodream/p/23471356)
-20. [HeyGen：如何让全球 10+ GPU 集群训练不再等待数据？](https://www.cnblogs.com/JuiceData/p/23469410)
+1. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
+2. [串口：一条调试信息是怎么从芯片出来的](https://www.cnblogs.com/zw-awa/p/23476896)
+3. [MySQL主从同步常见报错、原理与故障处理手册](https://www.cnblogs.com/liuziyi1/p/23476482)
+4. [LeetCode 21 合并两个有序链表：一道 Easy 题，凭什么刷掉一半候选人？](https://www.cnblogs.com/zrui-xyu/p/23476192)
+5. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
+6. [我开发了一款基于业务场景接口测试Skill ，端到端覆盖率达到99.99%，太夯了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23475765)
+7. [AI 代码上线前，真正的瓶颈不在 "写"，而在 "验"](https://www.cnblogs.com/codigger/p/23475712)
+8. [无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环](https://www.cnblogs.com/yuyisi/p/23471112)
+9. [GGUF 量化内幕：第5章 Q8_0 与简单块家族](https://www.cnblogs.com/apachecn/p/23475518)
+10. [制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳](https://www.cnblogs.com/shenchuanchao/p/23463567)
+11. [浏览器如何导入自签证书：一份可操作的完整指南](https://www.cnblogs.com/jyzhao/p/23475499)
+12. [Qwen-Image2.1游戏素材工坊：让角色真的走起来（三）](https://www.cnblogs.com/wyang/p/23475359)
+13. [MQTT实战 - MQTT高频面试题 + 我的8年实战答案（十一）](https://www.cnblogs.com/hugogoos/p/23472865)
+14. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
+15. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
+16. [从零搭建华为云 EVS 每日自动快照：hcloud + PowerShell + 邮件报告实战](https://www.cnblogs.com/JoePotter/p/23472977)
+17. [寻找志同道合的创业者，一起把 VirtuaMesh 做大](https://www.cnblogs.com/wmlunge/p/23472508)
+18. [个人分析：2026 CSP-S 考察方向预测与备考建议](https://www.cnblogs.com/lvwangshuOI/p/23472339)
+19. [【Agentic Memory】MemTrace 如何做到自动溯源和自动优化](https://www.cnblogs.com/rossiXYZ/p/23472086)
+20. [spec-superflow 2.0：小任务快跑，复杂任务不漂移](https://www.cnblogs.com/uniqueDong/p/23471783)
 
 ## 精华帖子
 
