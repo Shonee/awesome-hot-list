@@ -1,27 +1,27 @@
 # 新浪热榜
 
-> 更新时间：2026-10-30 02:12:21
+> 更新时间：2026-10-30 03:08:55
 
 ## 新闻热榜
 
 1. [开拓者4人20+送湖人首败 杨瀚森未登场 东契奇空砍41+5+9](https://news.sina.com.cn/zx/2026-10-28/doc-iniwueft3713560.shtml)
-2. [A股指数今起迎重要调整，对投资者有何影响？](https://finance.sina.com.cn/stock/roll/2026-10-26/doc-iniwqarp9285414.shtml)
-3. [张升民同志简历](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwtus6057735.shtml)
-4. [微软“超大额债务发行”获得超过1150亿欧元认购需求。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5918530.shtml)
-5. [中国共产党第二十届中央委员会第五次全体会议公报](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwyaq6042002.shtml)
-6. [欧盟专员约根森：未来几个月释放的石油储备中有一半将是柴油。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2691737.shtml)
-7. [沙特民防部门就利雅得和海尔季可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2695887.shtml)
-8. [沙特民防部门表示，已就奈季兰可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5919392.shtml)
-9. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
-10. [小博索纳罗出逃美国背后，他在巴西已近乎“光杆司令”](https://news.sina.com.cn/w/2026-10-29/doc-iniwwyas2774525.shtml)
-11. [视频丨美计划增购F-35战机 “十年大单”究竟意味什么](https://news.sina.com.cn/o/2026-10-29/doc-iniwxksp8630911.shtml)
-12. [欧洲央行据悉做好了在12月加息的准备](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5904512.shtml)
-13. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
-14. [39岁女高管隆胸因麻醉过敏死亡](https://news.sina.com.cn/s/2026-10-29/doc-iniwwpnw2848058.shtml)
-15. [财报出炉后，为何微软股价没有像谷歌那样遭遇重挫](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5908352.shtml)
-16. [10月29日增减持汇总：华勤技术等4股拟增持 当日暂无A股上市公司拟减持（表）](https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwxekq2763355.shtml)
-17. [双色球头奖8注665万分落6地 奖池余额10.75亿](https://sports.sina.com.cn/l/2026-10-29/doc-iniwxekt5180330.shtml)
-18. [CGTN记者：姆巴佩每年在中国广告收入2200万欧 尊重绝无谈判余地](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekq2720304.shtml)
+2. [张升民同志简历](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwtus6057735.shtml)
+3. [A股指数今起迎重要调整，对投资者有何影响？](https://finance.sina.com.cn/stock/roll/2026-10-26/doc-iniwqarp9285414.shtml)
+4. [中国共产党第二十届中央委员会第五次全体会议公报](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwyaq6042002.shtml)
+5. [沙特民防部门就利雅得和海尔季可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2695887.shtml)
+6. [俄罗斯总统普京：除俄罗斯外，世界上没有任何国家有能力生产小型核电站。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5808702.shtml)
+7. [沙特民防部门表示，已就奈季兰可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5919392.shtml)
+8. [微软“超大额债务发行”获得超过1150亿欧元认购需求。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksk5918530.shtml)
+9. [伊朗议会议长卡利巴夫：伊朗已多次向调停方清晰表明自身条件。胡萝卜加大棒的手段对伊朗不起作用。只有同意伊朗的七项条件，才能够取得进](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5007256.shtml)
+10. [OpenAI：模型规范修订新增关于上下文、监督和代理的指引，并取消详细的风格指引。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5808831.shtml)
+11. [市场消息：以色列选举普通选票的清点工作已经结束。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5004508.shtml)
+12. [白银连续主力合约日内跌4%，现报12401.00元。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5806362.shtml)
+13. [欧盟专员约根森：未来几个月释放的石油储备中有一半将是柴油。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2691737.shtml)
+14. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
+15. [沙特阿拉伯9月M3货币供应量同比增长4.9%。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2582548.shtml)
+16. [小博索纳罗出逃美国背后，他在巴西已近乎“光杆司令”](https://news.sina.com.cn/w/2026-10-29/doc-iniwwyas2774525.shtml)
+17. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
+18. [视频丨美计划增购F-35战机 “十年大单”究竟意味什么](https://news.sina.com.cn/o/2026-10-29/doc-iniwxksp8630911.shtml)
 
 ## 财经热榜
 
