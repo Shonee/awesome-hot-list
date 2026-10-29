@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-30 00:11:58
+> 更新时间：2026-10-30 01:09:28
 
 ## 日榜
 
@@ -9,8 +9,8 @@
 3. [打破乔布斯时代的硬件禁忌：特努斯谈苹果首款触控 MacBook Pro，键盘 / 触控板仍是核心](https://www.ithome.com/1/019/262.htm)
 4. [22999 元起：苹果首款触屏 MacBook Pro 价格公布](https://www.ithome.com/1/019/239.htm)
 5. [消息称某厂子品牌首款新机疑似阔直板手机：6.39 英寸、9 系芯片，预计为华为星芒](https://www.ithome.com/1/019/299.htm)
-6. [时隔 10 年发光 Logo 回归：苹果首款触控屏 MacBook Pro“苹果标”又会亮了](https://www.ithome.com/1/019/244.htm)
-7. [消息称苹果 iPhone Air 2 已开屏：6.55"1.5K+120Hz LTPO OLED 面板，48MP 双摄](https://www.ithome.com/1/019/576.htm)
+6. [消息称苹果 iPhone Air 2 已开屏：6.55"1.5K+120Hz LTPO OLED 面板，48MP 双摄](https://www.ithome.com/1/019/576.htm)
+7. [时隔 10 年发光 Logo 回归：苹果首款触控屏 MacBook Pro“苹果标”又会亮了](https://www.ithome.com/1/019/244.htm)
 8. [华为星芒子品牌阔直板新机更多配置曝光：黑 / 白 / 紫三色可选，预计配备 Pura X View 同款屏幕](https://www.ithome.com/1/019/427.htm)
 9. [第三方设备首开：博主称成功为小米平板 6S Pro 刷入华为鸿蒙 HarmonyOS 7 系统，后续项目将开源](https://www.ithome.com/1/019/570.htm)
 10. [苹果 iPhone Duo 折叠屏手机国内首销期销量曝光，接近 20 万台](https://www.ithome.com/1/019/439.htm)
