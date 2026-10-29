@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-29 19:09:47
+> 更新时间：2026-10-29 20:20:19
 
 ## 最有料热点
 
@@ -30,7 +30,7 @@
 24. [皇马等30个吧发布抵制声明](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368164&topic_name=%E7%9A%87%E9%A9%AC%E7%AD%8930%E4%B8%AA%E5%90%A7%E5%8F%91%E5%B8%83%E6%8A%B5%E5%88%B6%E5%A3%B0%E6%98%8E)
 25. [捡漏废件,吧友在线修复动车电显](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368423&topic_name=%E6%8D%A1%E6%BC%8F%E5%BA%9F%E4%BB%B6%2C%E5%90%A7%E5%8F%8B%E5%9C%A8%E7%BA%BF%E4%BF%AE%E5%A4%8D%E5%8A%A8%E8%BD%A6%E7%94%B5%E6%98%BE)
 26. [吧友神P图,塔露拉喜提假肢](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368309&topic_name=%E5%90%A7%E5%8F%8B%E7%A5%9EP%E5%9B%BE%2C%E5%A1%94%E9%9C%B2%E6%8B%89%E5%96%9C%E6%8F%90%E5%81%87%E8%82%A2)
-27. [皇马甩锅姆巴佩](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368196&topic_name=%E7%9A%87%E9%A9%AC%E7%94%A9%E9%94%85%E5%A7%86%E5%B7%B4%E4%BD%A9)
+27. [钱难挣,幽默老日工作室散伙](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368452&topic_name=%E9%92%B1%E9%9A%BE%E6%8C%A3%2C%E5%B9%BD%E9%BB%98%E8%80%81%E6%97%A5%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%95%A3%E4%BC%99)
 28. [没收手机,吧友体验救助站生活](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368227&topic_name=%E6%B2%A1%E6%94%B6%E6%89%8B%E6%9C%BA%2C%E5%90%A7%E5%8F%8B%E4%BD%93%E9%AA%8C%E6%95%91%E5%8A%A9%E7%AB%99%E7%94%9F%E6%B4%BB)
 29. [百万悬赏还原函数,小吧主秒解](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368260&topic_name=%E7%99%BE%E4%B8%87%E6%82%AC%E8%B5%8F%E8%BF%98%E5%8E%9F%E5%87%BD%E6%95%B0%2C%E5%B0%8F%E5%90%A7%E4%B8%BB%E7%A7%92%E8%A7%A3)
 30. [赛博女儿变迟钝,吧友烧钱续命](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368229&topic_name=%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%84%BF%E5%8F%98%E8%BF%9F%E9%92%9D%2C%E5%90%A7%E5%8F%8B%E7%83%A7%E9%92%B1%E7%BB%AD%E5%91%BD)
