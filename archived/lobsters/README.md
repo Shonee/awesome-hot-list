@@ -1,6 +1,6 @@
 # Lobsters热榜
 
-> 更新时间：2026-10-30 13:10:28
+> 更新时间：2026-10-30 14:17:32
 
 ## Hottest
 
@@ -14,16 +14,16 @@
 8. [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 9. [Phorge](https://www.phorge.it/)
 10. [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
-11. [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
-12. [Design the interface for functionality not familiarity](https://lapcatsoftware.com/articles/2026/10/10.html)
+11. [Design the interface for functionality not familiarity](https://lapcatsoftware.com/articles/2026/10/10.html)
+12. [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 13. [Building NixOS using Nixtamal](https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/)
 14. [GitLab security incident: attempted exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-15. [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-16. [Extremely brief history of PDP computers](https://entropicthoughts.com/history-of-pdp-computers)
-17. [The Web Can't Afford a JavaScript Runtime Monoculture](https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/)
-18. [XSS in yarr RSS reader](https://0x67673068.me/xss-in-yarr/)
+15. [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445)
+16. [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+17. [Extremely brief history of PDP computers](https://entropicthoughts.com/history-of-pdp-computers)
+18. [The Web Can't Afford a JavaScript Runtime Monoculture](https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/)
 19. [An open format for writing agent-native software requirements](https://slcr.dev/announcements#2026-10-29-slcr-launches)
-20. [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445)
+20. [XSS in yarr RSS reader](https://0x67673068.me/xss-in-yarr/)
 21. [Will Open Firmware Become the Next Big Trend in Electronic Music Gear?](https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/)
 22. [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
 23. [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
