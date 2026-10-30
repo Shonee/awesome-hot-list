@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-10-31 02:09:14
+> 更新时间：2026-10-31 06:34:53
 
 ## 最新帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
-2. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
-3. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
-4. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
-5. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
-6. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
+2. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
+3. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
+4. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
+5. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
+6. [DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单](https://www.cnblogs.com/guojin-blogs/p/23490160)

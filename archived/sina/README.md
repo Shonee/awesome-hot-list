@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-31 02:09:35
+> 更新时间：2026-10-31 06:35:26
 
 ## 新闻热榜
 
-1. [CD&R 寻求收购估值 400 亿美元的支付处理商 Global Payment。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7976148.shtml)
-2. [CD&R已与全球支付最大股东GTCR联合竞标全球支付。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2080320.shtml)
-3. [OPENAI：将于2027年初发布首份报告，涵盖2026年下半年，此后每六个月更新一次。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7969952.shtml)
-4. [美股Snowflake盘中跌超10%](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7974271.shtml)
-5. [OPENAI：承诺发布社区安全报告，内容涉及暴力预防和其他社区安全问题，以及我们安全保障措施的有效性。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2073775.shtml)
-6. [黑石向投资者表示，Anthropic在IPO后可能无法获得投资级评级。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxh5309341.shtml)
-7. [加拿大希望参与欧盟向乌克兰提供的900亿欧元贷款（联合声明）。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxh5309424.shtml)
-8. [央行重磅公告！下周一，正式生效！](https://finance.sina.com.cn/stock/zqgd/2026-10-30/doc-iniwziir8135300.shtml)
-9. [欧洲央行的莱恩：与人工智能相关的价格压力是可见的，但对总体通胀的影响有限。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxp4417347.shtml)
-10. [特朗普对华降调，盟友、对手敢低头吗？](https://news.sina.com.cn/w/2026-10-30/doc-iniwysmu5516758.shtml)
-11. [加拿大总理卡尼：这是历史性的一天。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxp4430282.shtml)
-12. [加拿大和欧盟签署了关于欧盟-加拿大数字贸易协议的政治协议。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxp4430069.shtml)
-13. [以色列，变天了？](https://news.sina.com.cn/w/2026-10-30/doc-iniwziiq2263960.shtml)
-14. [外交部驳斥《纽约时报》涉华报道：捕风捉影，纯属对中国的污蔑抹黑](https://news.sina.com.cn/c/2026-10-30/doc-iniwywts5476272.shtml)
+1. [商务部：如美方一意孤行，中方将进一步采取必要措施](https://news.sina.com.cn/o/2026-10-30/doc-iniwzprk5403613.shtml)
+2. [央行重磅公告！下周一，正式生效！](https://finance.sina.com.cn/stock/zqgd/2026-10-30/doc-iniwziir8135300.shtml)
+3. [“拒绝为战争服务！”全球113个港口掀起罢工潮](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprp8079446.shtml)
+4. [CD&R 寻求收购估值 400 亿美元的支付处理商 Global Payment。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7976148.shtml)
+5. [CD&R已与全球支付最大股东GTCR联合竞标全球支付。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2080320.shtml)
+6. [美国总统特朗普：未考虑解除对俄罗斯主权财富基金的制裁。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwzyfm4333426.shtml)
+7. [特朗普对华降调，盟友、对手敢低头吗？](https://news.sina.com.cn/w/2026-10-30/doc-iniwysmu5516758.shtml)
+8. [外交部驳斥《纽约时报》涉华报道：捕风捉影，纯属对中国的污蔑抹黑](https://news.sina.com.cn/c/2026-10-30/doc-iniwywts5476272.shtml)
+9. [以色列，变天了？](https://news.sina.com.cn/w/2026-10-30/doc-iniwziiq2263960.shtml)
+10. [美国上诉法院驳回了司法部的再次请求，该请求旨在暂时阻止加利福尼亚州统计来自20,000名被指控为非公民的邮寄选票。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwzyfm4322276.shtml)
+11. [英国长端国债收益率10月份累跌超20个基点](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7990262.shtml)
+12. [智利铜业委员会（Cochilco）：2027年智利铜产量将增长3%，达到508万吨。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7990383.shtml)
+13. [多佛宣布提高其要约收购上限，并延长此前宣布的以现金购买其部分未偿债务证券的要约的到期日。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwzyfm4322342.shtml)
+14. [双良节能财报解读：扣非净利大降16831.93% 营业外收入暴涨4113.86%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-30/doc-iniwziin5461385.shtml)
 15. [英特尔与闪迪对存储芯片行业现状的判断大相径庭](https://finance.sina.com.cn/stock/usstock/c/2026-10-31/doc-iniwzprp8092096.shtml)
-16. [“拒绝为战争服务！”全球113个港口掀起罢工潮](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprp8079446.shtml)
-17. [我军首型舰载察打一体隐身无人机在四川舰成功起降](https://news.sina.com.cn/c/2026-10-30/doc-iniwywtv8234122.shtml)
-18. [美国7年期国债中标收益率与发行前交易水平持平 表明需求符合预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqyp5010455.shtml)
-19. [38岁男子下班后代扔垃圾，月入2000元，客户多是20到27岁，女性多于男性](https://finance.sina.com.cn/wm/2026-10-30/doc-iniwzprk5372292.shtml)
-20. [五部门重磅发文，这些消费、投资领域将迎来利好](https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzazs2249652.shtml)
+16. [ST葫芦娃财报解读：营收大降42.25% 经营现金流增113.83%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-30/doc-iniwziiq2237431.shtml)
+17. [黄金、白银大跳水！英特尔盘中暴跌超30%，市值蒸发超1300亿美元｜盘中速报](https://news.sina.com.cn/o/2026-10-31/doc-iniwzprr4528236.shtml)
+18. [OPENAI：将于2027年初发布首份报告，涵盖2026年下半年，此后每六个月更新一次。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7969952.shtml)
+19. [美股Snowflake盘中跌超10%](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7974271.shtml)
+20. [OPENAI：承诺发布社区安全报告，内容涉及暴力预防和其他社区安全问题，以及我们安全保障措施的有效性。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2073775.shtml)
 
 ## 财经热榜
 
