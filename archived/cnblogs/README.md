@@ -1,10 +1,10 @@
 # 博客园热榜
 
-> 更新时间：2026-10-30 14:16:29
+> 更新时间：2026-10-30 15:10:21
 
 ## 最新帖子
 
-1. [交互题 Special Judge 自测方式](https://www.cnblogs.com/xtll127/p/23494397)
+1. [小红书视频解析下载实测：不装App，网页粘贴链接直接存MP4](https://www.cnblogs.com/brilliancedad/p/23495477)
 2. [Day07 · 字符串（一）](https://www.cnblogs.com/xiaojiaxuezhang/p/23494503)
 3. [从 printf 到曲线：把数据送上 VOFA+](https://www.cnblogs.com/zw-awa/p/23494308)
 4. [面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单](https://www.cnblogs.com/zrui-xyu/p/23493448)
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
-2. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
+1. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
+2. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
 3. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
 4. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
-5. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
-6. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
+5. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
+6. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)

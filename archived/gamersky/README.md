@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-30 14:16:50
+> 更新时间：2026-10-30 15:11:35
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [甄子丹本人发](https://www.gamersky.com/news/202610/2235943.shtml)
 12. [7分外媒给《影之刃零》改8分！补丁太高效](https://www.gamersky.com/news/202610/2236089.shtml)
 13. [《影之刃零》M站评分回升！大媒体给出95分高分](https://www.gamersky.com/news/202610/2236086.shtml)
-14. [《影之刃零》获6分低分！玩家翻旧账：悟空也这样](https://www.gamersky.com/news/202610/2234667.shtml)
-15. [笑死！日本玩家狂夸《影之刃零》爬梯子：第一次见](https://www.gamersky.com/news/202610/2237529.shtml)
+14. [笑死！日本玩家狂夸《影之刃零》爬梯子：第一次见](https://www.gamersky.com/news/202610/2237529.shtml)
+15. [《影之刃零》获6分低分！玩家翻旧账：悟空也这样](https://www.gamersky.com/news/202610/2234667.shtml)
