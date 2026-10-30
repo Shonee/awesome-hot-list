@@ -469,3 +469,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,OpenAI 为符合条件的 ChatGPT 订阅提供 API 额度福利,本月早些时候，Anthropic 宣布为其 Max 和 Team 订阅提供一项慷慨的新福利：每月 100 美元、200 美元和 500 美元的订阅用户将获得等量的（有期限的）额度，可用于 Anthropic API。OpenAI 现在也推出了几乎完全相同的方案：如果你拥有他们 100 美元、200 美元或 500 美元的订阅计划，现在可以获得同等数量的额度，用于你的某个 API 组织。 Simon Willison 7 小时前,,https://simonwillison.net/2026/Oct/29/api-credits/,,Readhub,AI 资讯,ai,digest,,2026-10-30 14:16:40
 9,Claude 开进车里：CarPlay 接入后，开车也能语音问 AI,Anthropic 10 月 29 日在 X 上发布移动应用更新，把 Claude 塞进了更多使用场景，其中最抓眼球的是 iPhone 版语音模式正式接入 Apple CarPlay。以后坐进车里，驾驶者不用把手从方向盘上挪开，就能直接开口问 AI—— 通勤路上查路线、找资料、理思路，全在语音里完成。语言与语音同步扩张：新增 24 种语言、累计达 33 种，语音响应更快、嘈杂或轻声环境识别更准，非英语也更自然，且覆盖更多 Android 机型。 AIBase 2 小时前,,https://www.aibase.com/zh/news/31982,,Readhub,AI 资讯,ai,digest,,2026-10-30 14:16:40
 10,Particle 发布 Particle‑1：基于 DeepSeek 基座做 RL 后训练,新兴 AI 公司 Particle 于 10 月 28 日正式推出首款模型 Particle‑1，该模型以 DeepSeek V4.1 Flash 为基座，通过级联强化学习 Cascade RL 做后训练优化，核心目标是在任务通过率基本不变前提下，减少推理与工具调用的输出 Token 数量，不仅降低使用成本，还能缩短 Agent 任务整体执行时长，首发聚焦软件工程场景，后续计划拓展至更多垂直领域。团队采用 GSPO（Group Sequence Policy Optimiza,,https://www.donews.com/news/detail/1/6759375.html,,Readhub,AI 资讯,ai,digest,,2026-10-30 14:16:40
+1,外媒曝苹果曾用多种强势手段压低闪存采购价格,,,https://readhub.cn/topic/8xcQDGuYej5?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+2,谷歌跌幅扩大至 13%，市值蒸发近 4900 亿美元,,,https://readhub.cn/topic/8xcqhNNLEoX?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+3,新款 MacBook Pro 韩国官网移除捏合手势宣传图以避争议,,,https://readhub.cn/topic/8xcY4EgOudJ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+4,百度集团副总裁吴甜已离职,,,https://readhub.cn/topic/8xcSkrRK5OI?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+5,AI 冲击初级编程岗位需求，美高校计算机专业入学人数大幅下滑,,,https://readhub.cn/topic/8xcO4fsui6I?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+6,首付降至 4 万以内 特斯拉推出「5 年 0 息」购车方案,,,https://readhub.cn/topic/8xdiywzBe9Z?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+7,腾讯 WorkBuddy 内测收入变现功能,,,https://readhub.cn/topic/8xc3MAeWdqe?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+8,豆包公关负责人称「横店群演肖像喂字节大模型」传言失实,,,https://readhub.cn/topic/8xbIuCSors6?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+9,豆包工作向企业客户开放配置三方模型,,,https://readhub.cn/topic/8xcT5wKW8LP?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+10,智元发布 GO-3 Preview 具身模型，拿下多个榜单第一，年底将开源,,,https://readhub.cn/topic/8xceVcmDZBR?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+11,滔搏回应耐克线上渠道调整：正就库存回收等与品牌方持续沟通,,,https://readhub.cn/topic/8xcPBEUdAVp?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+12,华为制药军团总裁樊杰明确「华为不做药」，希望成为 AI 制药产业技术底座,,,https://readhub.cn/topic/8xb7UbUtHox?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+13,OpenAI 200 美元 Pro 套餐额度将腰斩 ChatGPT 入口合并更新,,,https://readhub.cn/topic/8xcDKx75x5j?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+14,英特尔盘后暴跌超 20% 因其营收预测不及分析师预估,,,https://readhub.cn/topic/8xdQ6cdyUik?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+15,Nintendo Switch 2 首家官方旗舰店于天猫国际开业参与双 11,,,https://readhub.cn/topic/8xcAVNn1x5C?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+16,赵长鹏：Binance 被盗实际损失或略超 10 亿美元 将全额覆盖,,,https://readhub.cn/topic/8xdbOxdQvgw?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+17,Claude Code 新版本新增环境变量 启用后删文件无需逐次确认,,,https://readhub.cn/topic/8xcNM2bnEFt?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+18,Binance 回应疑似被盗：正在调查，尚未确认影响用户资金,,,https://readhub.cn/topic/8xdQFmpEvIo?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+19,红果短剧将下线金币功能并上线休息提醒 调整增长模式,,,https://readhub.cn/topic/8xbIuJo7SVb?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+20,欣旺达：终止发行 H 股股票并在香港联交所主板上市,,,https://readhub.cn/topic/8xceB8xwmge?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+21,苹果上架 512GB 统一内存版 Mac Studio 较 96GB 配置加价超 11 万,,,https://readhub.cn/topic/8xbTbuaSjRh?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+22,苹果 HomePod mini 2 智能音箱发售：五种配色可选，1099 元,,,https://readhub.cn/topic/8xdbZArg8M3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+23,科大讯飞回应高管薪资质疑：董事长与总裁主动降薪 两人均少领超 2000 万,,,https://readhub.cn/topic/8xcd5qDQk1p?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+24,SpaceX 三季度超三分之一营收来自 Anthropic 合同可提前终止,,,https://readhub.cn/topic/8xdQ2niJGJJ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+25,苹果高管回应 iPad mini 8 不支持 120Hz 高刷：屏幕体验不止刷新率单一参数,,,https://readhub.cn/topic/8xdbWFglxyK?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+26,OpenAI 宣布 ChatGPT Pro 等用户使用额度翻倍 立即生效,,,https://readhub.cn/topic/8xcGFfmAso3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+27,Anthropic 收购仅一名全职员工的制药初创公司,,,https://readhub.cn/topic/8xceWuRFwSA?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+28,伯克希尔哈撒韦按每股 180.43 美元出售 DaVita Inc. 股票，卖出 2831 万股,,,https://readhub.cn/topic/8xdQF6nksMV?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+29,安克创新：前三季度净利润 22.61 亿元，同比增长 16.97%,,,https://readhub.cn/topic/8xckDzmb0ao?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+30,腾讯 Marvis 上线 Coding 管家 支持远程调用桌面 AI 工具,,,https://readhub.cn/topic/8xdkuswtOhC?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-10-30 15:35:10
+1,10.29 苹果发布首款触屏 MacBook Pro：发光 Logo 回归，国行售价 22999 元起 15 条,,,https://readhub.cn/daily/2026-10-29,,Readhub,每日早报,daily,digest,2026-10-29,2026-10-30 15:35:10
+2,10.28 苹果推出 14 英寸 MacBook Pro  M6 芯片版本，15999 元起 15 条,,,https://readhub.cn/daily/2026-10-28,,Readhub,每日早报,daily,digest,2026-10-28,2026-10-30 15:35:10
+3,10.27 Anthropic 正式提交纳斯达克 IPO 招股书 17 条,,,https://readhub.cn/daily/2026-10-27,,Readhub,每日早报,daily,digest,2026-10-27,2026-10-30 15:35:10
+4,10.26 OpenAI 联手数学家攻破零点猜想  证明仅 5 页 7 条,,,https://readhub.cn/daily/2026-10-26,,Readhub,每日早报,daily,digest,2026-10-26,2026-10-30 15:35:10
+5,10.25 月之暗面推出 Kimi K3.1 Pro 及高速版：3 万亿参数大模型 9 条,,,https://readhub.cn/daily/2026-10-25,,Readhub,每日早报,daily,digest,2026-10-25,2026-10-30 15:35:10
+6,10.24 苹果总市值超越英伟达 重登美股市值第一 13 条,,,https://readhub.cn/daily/2026-10-24,,Readhub,每日早报,daily,digest,2026-10-24,2026-10-30 15:35:10
+7,10.23 DeepSeek 完成约千亿元融资，创中国 AI 行业最高融资纪录 12 条,,,https://readhub.cn/daily/2026-10-23,,Readhub,每日早报,daily,digest,2026-10-23,2026-10-30 15:35:10
+1,同济团队 AI4S 创业走出隐匿模式：不抄通用大模型作业，打造原生组学 AI 赋能 AIDD,国内 AI for Science 初创企业扰动之心（PerturbMind AI）正式走出隐匿模式，打造几何世界模型驱动的 PerturbSeek™ 数字生命世界模型生态系统，全力探索适配生命组学并有效驱动药物研发的可工程落地的 AI 技术路线。团队指出，当前主流 AI 框架（如大语言模型）往往建立在海量、静态、同质的数据之上，而组学数据却是稀疏、动态、异质的；很多项目把通用模型的输入输出改一改、框架稍做适配，就叫「生命大模型」，没有针对组学固有的特性做底层改造，本质只是套,,https://www.mittrchina.com/news/detail/17164,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+2,英伟达发布语音转录大模型 Nemotron 3.5 Transcribe，8 人同时抢话也能精准识别,人工智能芯片与技术巨头英伟达正式开源了全新语音转录大模型 Nemotron 3.5 Transcribe。作为一款面向专业语音处理场景打造的前沿开源模型，它在多语言转录准确率、长音频处理及多说话人分离等核心指标上展现出行业领先的实力。在多语种支持与翻译能力上，该模型支持多达 40 种语言的精准语音转录，并支持其中 31 种语言与英语之间的双向互译，大幅拓宽了其在跨国交流与多语种内容处理中的应用场景。 AIBase 1 小时前,,https://www.aibase.com/zh/news/31987,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+3,万亿参数开源模型 Mistral Large4 登场：用更少 Token 打平顶级性能,欧洲人工智能领军企业 Mistral 正式开源了其代号为「Le Chonk」的全新旗舰模型 —— Mistral Large4。作为目前开源权重阵营中体量最为庞大的大模型之一，它拥有高达 1 万亿参数，并且完全在欧洲本土基础设施上从零开始训练而成，标志着开源大模型在迈向万亿规模与多模态原生融合的道路上取得了实质性突破。在 Cognition 的私有基准测试 FrontierCode2.0（主要评估端到端代码质量及代码库维护者的合并意愿）中，该模型斩获了 19.7% 的高分，在,,https://www.aibase.com/zh/news/31986,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+4,AI 学会「睡觉」：谷歌想治好大模型边学边忘的老毛病,大模型出厂即「定型」，新知识喂进去，要么随对话散场就丢，要么硬塞之后把旧本事忘光 —— 这道两难，谷歌 10 月 27 日甩出一套「睡眠框架」（Sleep Framework）试图化解。相关论文题为《Language Models Need Sleep》，直白点出：模型也该像人一样，靠睡眠来巩固记忆。若真能落地，意味着「知识截止日」有望被打破 —— 模型不再发布即过时，而是边用边长本事，还不忘老本行。 AIBase 42 分钟前,,https://www.aibase.com/zh/news/31989,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+5,Anthropic 加码 AI4S：20 个科研伙伴加入，免费 Claude 额度覆盖更多科学领域,当地时间 10 月 28 日，Anthropic 公布了与全球 20 个科学基金会、科研机构及研究团队的合作情况，涵盖天文学、基因组学、癌症研究、气候科学和数学等多个领域。早在 2025 年 5 月，Anthropic 就推出了 AI for Science 计划，最初主要关注生物学和生命科学领域，为研究人员提供免费的 Claude API 使用额度，帮助他们分析数据、提出假设和设计实验。随着 Claude 被应用于更多科学领域，这些合作能否持续提高科研效率、推动新的科学发现,,https://www.mittrchina.com/news/detail/17165,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+6,卓驭发布「磐行」商用车智驾解决方案：切入商用车市场，一年可回本,10 月 29 日晚，智能驾驶方案商卓驭科技正式发布商用车智能辅助驾驶解决方案「卓驭磐行」，并公布了商用重卡、客车、轻卡、ROBOVAN 等业务进展。卓驭科技商用车业务副总裁刘思康表示，商用重卡智能驾驶至少有五个难点：模型数据少、感知距离要求高、安全容错率低、车辆控制难度大，同时成本非常敏感。目前卓驭乘用车智能驾驶系统已经积累超过 30 亿公里数据，在此基础上，卓驭再加入约 4 亿帧重卡特色数据，对重卡干线运输场景进行针对性训练。 雷锋网 3 小时前,,https://www.leiphone.com/category/transportation/rwe6sLir6r3aYzeu.html,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+7,谷歌 Gemini 大升级：支持在对话中直接生成与编辑多格式文件,自即日起，所有 Gemini 用户在网页端与移动端均可实现对多种主流文件格式的实时生成、预览及全屏编辑，打破了以往仅能导出文件的局限，进一步提升了 AI 辅助生产力的交互流畅度。根据谷歌官方公布的细节，此次升级全面覆盖 PDF、谷歌文档、谷歌表格、幻灯片、Markdown 文件、TXT 文本以及代码文件。在实际操作中，用户无需退出应用即可直接对生成的文件内容进行深度修改，不仅支持全屏编辑和选中文本定向提问，还可实现交互式的表格转图表等高级功能。 AIBase 5 小时前,,https://www.aibase.com/zh/news/31979,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+8,百度升级 AI 搜索及搜索 AI API，调用价格低至 4.9 元 / 千次,百度正式宣布升级百度 AI 搜索和搜索 AI API，进一步拓展 AI 搜索的应用场景，并降低开发者调用成本。价格方面，全新升级的搜索 AI API 在活动期间推出优惠价格，低至 4.9 元 / 千次，旨在降低企业和开发者接入 AI 搜索能力的成本。百度 App 则围绕文心助手、AI 镜头、GUI 互动场景和 AI 互动应用进行升级。 AIBase 19 分钟前,,https://www.aibase.com/zh/news/31990,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+9,OpenAI 更新 Model Spec，为更强大且有益的 AI 提供指引,OpenAI 更新了 Model Spec，概述了五项核心价值观，旨在引导更强大的 AI 走向健全判断、尊重人类能动性并忠实于人类意图。 OpenAI 14 小时前,,https://openai.com/index/updated-model-spec,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
+10,阿里云发布新版飞天企业版，支持海外客户升级企业级 AI 能力,阿里云在国际云栖大会上发布面向国际市场的新版飞天企业版（Apsara Stack International v3.18），提供可信 AI 云解决方案，支持全球政府、运营商及大型企业升级 AI 基础设施。新版飞天企业版提供 80 余项全栈云服务，延续 100% 本地部署、完全断网独立运行等优势，并进一步整合专有模型、私域知识库和 Agent 能力，通过芯片、云平台与模型的联合优化提升 AI 计算效率，配套 AI 原生运营管理及 7×24 小时全球技术支持，降低自主运营门槛。依,,https://www.leiphone.com/category/industrynews/52mMRkhA2aqlY1FL.html,,Readhub,AI 资讯,ai,digest,,2026-10-30 15:35:10
