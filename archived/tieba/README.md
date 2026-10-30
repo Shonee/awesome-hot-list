@@ -1,13 +1,13 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-30 12:11:46
+> 更新时间：2026-10-30 13:10:02
 
 ## 最有料热点
 
 1. [BLG要爆?Viper:队内不如不沟通](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368518&topic_name=BLG%E8%A6%81%E7%88%86%3FViper%3A%E9%98%9F%E5%86%85%E4%B8%8D%E5%A6%82%E4%B8%8D%E6%B2%9F%E9%80%9A)
 2. [让一追二,TES晋级S16淘汰赛](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368467&topic_name=%E8%AE%A9%E4%B8%80%E8%BF%BD%E4%BA%8C%2CTES%E6%99%8B%E7%BA%A7S16%E6%B7%98%E6%B1%B0%E8%B5%9B)
-3. [不吹不黑,来点影之刃零真实评价](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368459&topic_name=%E4%B8%8D%E5%90%B9%E4%B8%8D%E9%BB%91%2C%E6%9D%A5%E7%82%B9%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7)
-4. [AI回答不合意,老外杠上Grok](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok)
+3. [AI回答不合意,老外杠上Grok](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok)
+4. [不吹不黑,来点影之刃零真实评价](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368459&topic_name=%E4%B8%8D%E5%90%B9%E4%B8%8D%E9%BB%91%2C%E6%9D%A5%E7%82%B9%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7)
 5. [表情包大赛32强,收官之战](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368437&topic_name=%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E8%B5%9B32%E5%BC%BA%2C%E6%94%B6%E5%AE%98%E4%B9%8B%E6%88%98)
 6. [新手吧友直播装机,速来围观](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368465&topic_name=%E6%96%B0%E6%89%8B%E5%90%A7%E5%8F%8B%E7%9B%B4%E6%92%AD%E8%A3%85%E6%9C%BA%2C%E9%80%9F%E6%9D%A5%E5%9B%B4%E8%A7%82)
 7. [新人来抄!环世界吧友整1500mod](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368468&topic_name=%E6%96%B0%E4%BA%BA%E6%9D%A5%E6%8A%84%21%E7%8E%AF%E4%B8%96%E7%95%8C%E5%90%A7%E5%8F%8B%E6%95%B41500mod)

@@ -1,18 +1,18 @@
 # 东方财富热榜
 
-> 更新时间：2026-10-30 12:11:42
+> 更新时间：2026-10-30 13:09:57
 
 ## 股票人气榜
 
 1. [新易盛 (300502)](https://quote.eastmoney.com/sz300502.html)
-2. [上海沪工 (603131)](https://quote.eastmoney.com/sh603131.html)
-3. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
+2. [襄阳轴承 (000678)](https://quote.eastmoney.com/sz000678.html)
+3. [上海沪工 (603131)](https://quote.eastmoney.com/sh603131.html)
 4. [中际旭创 (300308)](https://quote.eastmoney.com/sz300308.html)
 5. [东方海洋 (002086)](https://quote.eastmoney.com/sz002086.html)
-6. [中国卫星 (600118)](https://quote.eastmoney.com/sh600118.html)
-7. [阳光照明 (600261)](https://quote.eastmoney.com/sh600261.html)
-8. [澳洋健康 (002172)](https://quote.eastmoney.com/sz002172.html)
-9. [金安国纪 (002636)](https://quote.eastmoney.com/sz002636.html)
+6. [澳洋健康 (002172)](https://quote.eastmoney.com/sz002172.html)
+7. [中国卫星 (600118)](https://quote.eastmoney.com/sh600118.html)
+8. [金安国纪 (002636)](https://quote.eastmoney.com/sz002636.html)
+9. [阳光照明 (600261)](https://quote.eastmoney.com/sh600261.html)
 10. [盛洋科技 (603703)](https://quote.eastmoney.com/sh603703.html)
 11. [宇树科技-W (688836)](https://quote.eastmoney.com/sh688836.html)
 12. [大业股份 (603278)](https://quote.eastmoney.com/sh603278.html)
