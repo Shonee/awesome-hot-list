@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-30 11:11:40
+> 更新时间：2026-10-30 12:11:15
 
 ## 最新帖子
 
-1. [Hermes：把学习写进文件，把知识变成技能](https://www.cnblogs.com/xianxh/p/23491742)
-2. [MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）](https://www.cnblogs.com/hugogoos/p/23479286)
-3. [GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！](https://www.cnblogs.com/jinjiangongzuoshi/p/23490370)
-4. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
-5. [DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单](https://www.cnblogs.com/guojin-blogs/p/23490160)
-6. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
-7. [访问可信人项目时，如何信任 HTTPS 证书？](https://www.cnblogs.com/jyzhao/p/23490019)
-8. [把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘](https://www.cnblogs.com/znlgis/p/23489729)
-9. [LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变](https://www.cnblogs.com/moonout/p/23488736)
-10. [Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP](https://www.cnblogs.com/lulianqi/p/23483822)
-11. [用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录](https://www.cnblogs.com/wyang/p/23487396)
-12. [【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理](https://www.cnblogs.com/rossiXYZ/p/23430544)
-13. [P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解](https://www.cnblogs.com/lvwangshuOI/p/23485788)
-14. [AI Agent如何通过MCP连接到华为云RDS Supabase应用平台](https://www.cnblogs.com/huaweiyun/p/23484548)
-15. [Agent 支线知识：Personal Agent 如何理解个人意图？](https://www.cnblogs.com/Qiniu-developer/p/23483548)
-16. [重新理解 RankMixer：扩参为什么有效，又为什么划算？](https://www.cnblogs.com/GlenTt/p/23483025)
-17. [没有 Mac 版客户端，我拿 Windows 做了台跳板机](https://www.cnblogs.com/liuzhang/p/23482978)
-18. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
-19. [用Python DSL 写轻量数据质检工具](https://www.cnblogs.com/wang_yb/p/23481920)
-20. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
+1. [面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单](https://www.cnblogs.com/zrui-xyu/p/23493448)
+2. [EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）](https://www.cnblogs.com/donpangpang/p/23493082)
+3. [Hermes：把学习写进文件，把知识变成技能](https://www.cnblogs.com/xianxh/p/23491742)
+4. [MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）](https://www.cnblogs.com/hugogoos/p/23479286)
+5. [GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！](https://www.cnblogs.com/jinjiangongzuoshi/p/23490370)
+6. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
+7. [DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单](https://www.cnblogs.com/guojin-blogs/p/23490160)
+8. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
+9. [访问可信人项目时，如何信任 HTTPS 证书？](https://www.cnblogs.com/jyzhao/p/23490019)
+10. [把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘](https://www.cnblogs.com/znlgis/p/23489729)
+11. [LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变](https://www.cnblogs.com/moonout/p/23488736)
+12. [Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP](https://www.cnblogs.com/lulianqi/p/23483822)
+13. [用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录](https://www.cnblogs.com/wyang/p/23487396)
+14. [【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理](https://www.cnblogs.com/rossiXYZ/p/23430544)
+15. [P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解](https://www.cnblogs.com/lvwangshuOI/p/23485788)
+16. [AI Agent如何通过MCP连接到华为云RDS Supabase应用平台](https://www.cnblogs.com/huaweiyun/p/23484548)
+17. [Agent 支线知识：Personal Agent 如何理解个人意图？](https://www.cnblogs.com/Qiniu-developer/p/23483548)
+18. [重新理解 RankMixer：扩参为什么有效，又为什么划算？](https://www.cnblogs.com/GlenTt/p/23483025)
+19. [没有 Mac 版客户端，我拿 Windows 做了台跳板机](https://www.cnblogs.com/liuzhang/p/23482978)
+20. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23462657)
-2. [100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了](https://www.cnblogs.com/zrui-xyu/p/23463651)
-3. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
-4. [前端没有被杀死，被杀死的是"只会把设计稿变成页面"](https://www.cnblogs.com/codigger/p/23464752)
-5. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
-6. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
+1. [.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务](https://www.cnblogs.com/lulianqi/p/23472985)
+2. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
+3. [这款Avalonia写的格式转换神器治好了我多年的格式焦虑](https://www.cnblogs.com/MrHuo/p/23475909/filee)
+4. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
+5. [c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪](https://www.cnblogs.com/axing/p/23473791)
+6. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
