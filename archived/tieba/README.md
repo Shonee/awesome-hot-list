@@ -1,12 +1,12 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-10-30 17:11:17
+> 更新时间：2026-10-30 18:10:11
 
 ## 最有料热点
 
 1. [BLG要爆?Viper:队内不如不沟通](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368518&topic_name=BLG%E8%A6%81%E7%88%86%3FViper%3A%E9%98%9F%E5%86%85%E4%B8%8D%E5%A6%82%E4%B8%8D%E6%B2%9F%E9%80%9A)
 2. [AI回答不合意,老外杠上Grok](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok)
-3. [吧友玩梗:为意难平补上毛式致辞](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368584&topic_name=%E5%90%A7%E5%8F%8B%E7%8E%A9%E6%A2%97%3A%E4%B8%BA%E6%84%8F%E9%9A%BE%E5%B9%B3%E8%A1%A5%E4%B8%8A%E6%AF%9B%E5%BC%8F%E8%87%B4%E8%BE%9E)
+3. [毛不易致辞火了!吧友为意难平补上](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368584&topic_name=%E6%AF%9B%E4%B8%8D%E6%98%93%E8%87%B4%E8%BE%9E%E7%81%AB%E4%BA%86%21%E5%90%A7%E5%8F%8B%E4%B8%BA%E6%84%8F%E9%9A%BE%E5%B9%B3%E8%A1%A5%E4%B8%8A)
 4. [影之刃零冲击金摇杆,狂送cdk](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368561&topic_name=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%86%B2%E5%87%BB%E9%87%91%E6%91%87%E6%9D%86%2C%E7%8B%82%E9%80%81cdk)
 5. [吧友预测S赛八强格局](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368535&topic_name=%E5%90%A7%E5%8F%8B%E9%A2%84%E6%B5%8BS%E8%B5%9B%E5%85%AB%E5%BC%BA%E6%A0%BC%E5%B1%80)
 6. [德国接管战场,对筷子开地图炮](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368574&topic_name=%E5%BE%B7%E5%9B%BD%E6%8E%A5%E7%AE%A1%E6%88%98%E5%9C%BA%2C%E5%AF%B9%E7%AD%B7%E5%AD%90%E5%BC%80%E5%9C%B0%E5%9B%BE%E7%82%AE)
