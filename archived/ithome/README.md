@@ -1,6 +1,6 @@
 # IT之家热榜
 
-> 更新时间：2026-10-30 07:09:55
+> 更新时间：2026-10-30 08:26:29
 
 ## 日榜
 
@@ -8,11 +8,11 @@
 2. [消息称某厂子品牌首款新机疑似阔直板手机：6.39 英寸、9 系芯片，预计为华为星芒](https://www.ithome.com/1/019/299.htm)
 3. [消息称苹果 iPhone Air 2 已开屏：6.55"1.5K+120Hz LTPO OLED 面板，48MP 双摄](https://www.ithome.com/1/019/576.htm)
 4. [第三方设备首开：博主称成功为小米平板 6S Pro 刷入华为鸿蒙 HarmonyOS 7 系统，后续项目将开源](https://www.ithome.com/1/019/570.htm)
-5. [华为星芒子品牌阔直板新机更多配置曝光：黑 / 白 / 紫三色可选，预计配备 Pura X View 同款屏幕](https://www.ithome.com/1/019/427.htm)
-6. [外媒曝光苹果强势压价闪存手段：前采购负责人曾威胁闪迪 CEO“跪着爬回来”](https://www.ithome.com/1/019/690.htm)
-7. [苹果 iPhone Duo 折叠屏手机国内首销期销量曝光，接近 20 万台](https://www.ithome.com/1/019/439.htm)
-8. [13.98 万元起小鹏 MONA L05 上市：纯视觉智驾下放，纯电增程双动力](https://www.ithome.com/1/019/750.htm)
+5. [外媒曝光苹果强势压价闪存手段：前采购负责人曾威胁闪迪 CEO“跪着爬回来”](https://www.ithome.com/1/019/690.htm)
+6. [华为星芒子品牌阔直板新机更多配置曝光：黑 / 白 / 紫三色可选，预计配备 Pura X View 同款屏幕](https://www.ithome.com/1/019/427.htm)
+7. [13.98 万元起小鹏 MONA L05 上市：纯视觉智驾下放，纯电增程双动力](https://www.ithome.com/1/019/750.htm)
+8. [苹果 iPhone Duo 折叠屏手机国内首销期销量曝光，接近 20 万台](https://www.ithome.com/1/019/439.htm)
 9. [“宁德时代电池没了”：曝理想 MEGA 部分订单无法按约交付，定金退一赔一或换自研电池](https://www.ithome.com/1/019/418.htm)
 10. [小米 REDMI K100 Pro Max 手机惊喜“现身”王腾今日宜休发布会](https://www.ithome.com/1/019/749.htm)
-11. [消息称华为阔直板手机 Pura X View 上市 50 天出货量超 100 万台](https://www.ithome.com/1/019/293.htm)
-12. [一加 Ace 7/Pro 系列手机发布：全系标配 9000mAh 大电池与 185Hz 东方屏，国补到手价 2761.65 元起](https://www.ithome.com/1/019/744.htm)
+11. [一加 Ace 7/Pro 系列手机发布：全系标配 9000mAh 大电池与 185Hz 东方屏，国补到手价 2761.65 元起](https://www.ithome.com/1/019/744.htm)
+12. [消息称华为阔直板手机 Pura X View 上市 50 天出货量超 100 万台](https://www.ithome.com/1/019/293.htm)

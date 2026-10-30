@@ -1,28 +1,28 @@
 # 新浪热榜
 
-> 更新时间：2026-10-30 07:09:11
+> 更新时间：2026-10-30 08:25:05
 
 ## 新闻热榜
 
 1. [张升民同志简历](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwtus6057735.shtml)
 2. [中国共产党第二十届中央委员会第五次全体会议公报](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwyaq6042002.shtml)
 3. [创历史！U17女足点球战淘汰法国首次晋级世界杯8强 牛子琪两扑点](https://news.sina.com.cn/o/2026-10-30/doc-iniwxqym8561191.shtml)
-4. [阿根廷央行今日储备为501.5亿美元。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5829923.shtml)
-5. [美国司法部寻求对州官员处理选票问题展开刑事调查。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2606185.shtml)
-6. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
-7. [据报道，一名高级上将向特朗普汇报了对伊朗发动攻击的选项。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5033633.shtml)
-8. [美国能源部：企业将从战略石油储备中借入1675万桶原油，此前计划提供1700万桶。五家公司正在接受美国战略石油储备（SPR）石油贷款，包括T](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxvhe5706459.shtml)
-9. [五角大楼正在调查多个军事前哨基地的冷柜故障。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxvhh2482315.shtml)
-10. [世界卫生组织：候选人将于2026年11月18日至19日在日内瓦总部举行的首届候选人论坛上与成员国和准成员国进行交流。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8583114.shtml)
-11. [Polymarket：我们已发现并修复了影响国际平台polymarket.com的问题。我们的一家第三方服务提供商遭到入侵，我们已将此事移交相关执法部门](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8574392.shtml)
-12. [小博索纳罗出逃美国背后，他在巴西已近乎“光杆司令”](https://news.sina.com.cn/w/2026-10-29/doc-iniwwyas2774525.shtml)
-13. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
-14. [普京：俄方支持与欧盟国家恢复关系的任何步骤](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823856.shtml)
+4. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
+5. [阿根廷央行今日储备为501.5亿美元。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5829923.shtml)
+6. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
+7. [美国司法部寻求对州官员处理选票问题展开刑事调查。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2606185.shtml)
+8. [小博索纳罗出逃美国背后，他在巴西已近乎“光杆司令”](https://news.sina.com.cn/w/2026-10-29/doc-iniwwyas2774525.shtml)
+9. [39岁女高管隆胸因麻醉过敏死亡](https://news.sina.com.cn/s/2026-10-29/doc-iniwwpnw2848058.shtml)
+10. [据报道，一名高级上将向特朗普汇报了对伊朗发动攻击的选项。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5033633.shtml)
+11. [视频丨美计划增购F-35战机 “十年大单”究竟意味什么](https://news.sina.com.cn/o/2026-10-29/doc-iniwxksp8630911.shtml)
+12. [美国能源部：企业将从战略石油储备中借入1675万桶原油，此前计划提供1700万桶。五家公司正在接受美国战略石油储备（SPR）石油贷款，包括T](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxvhe5706459.shtml)
+13. [世界卫生组织：候选人将于2026年11月18日至19日在日内瓦总部举行的首届候选人论坛上与成员国和准成员国进行交流。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8583114.shtml)
+14. [五角大楼正在调查多个军事前哨基地的冷柜故障。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxvhh2482315.shtml)
 15. [知名炸鸡连锁突然全部门店关停](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksr5126874.shtml)
-16. [沙特民防部门就利雅得和海尔季可能存在的危险发布警报。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxksn2695887.shtml)
-17. [俄罗斯总统普京：除俄罗斯外，世界上没有任何国家有能力生产小型核电站。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5808702.shtml)
-18. [特朗普：美国经济增速达 3.4%，民主党若赢下中期选举将毁掉经济成果](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823452.shtml)
-19. [视频丨美计划增购F-35战机 “十年大单”究竟意味什么](https://news.sina.com.cn/o/2026-10-29/doc-iniwxksp8630911.shtml)
+16. [双色球头奖8注665万分落6地 奖池余额10.75亿](https://sports.sina.com.cn/l/2026-10-29/doc-iniwxekt5180330.shtml)
+17. [Polymarket：我们已发现并修复了影响国际平台polymarket.com的问题。我们的一家第三方服务提供商遭到入侵，我们已将此事移交相关执法部门](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqym8574392.shtml)
+18. [普京：俄方支持与欧盟国家恢复关系的任何步骤](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5823856.shtml)
+19. [霍尔木兹海峡，突变！伊朗革命卫队，击落！](https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwpnw2806575.shtml)
 
 ## 财经热榜
 

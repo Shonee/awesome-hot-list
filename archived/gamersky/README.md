@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-30 07:09:55
+> 更新时间：2026-10-30 08:26:29
 
 ## 热点资讯排行
 
@@ -17,5 +17,5 @@
 11. [7分外媒给《影之刃零》改8分！补丁太高效](https://www.gamersky.com/news/202610/2236089.shtml)
 12. [《影之刃零》M站评分回升！大媒体给出95分高分](https://www.gamersky.com/news/202610/2236086.shtml)
 13. [《影之刃零》获6分低分！玩家翻旧账：悟空也这样](https://www.gamersky.com/news/202610/2234667.shtml)
-14. [《影之刃零》制作人发长文！三点关键 首日补丁5G](https://www.gamersky.com/news/202610/2236299.shtml)
-15. [97%好评如潮！《最终幻想》新作玩家口碑爆了](https://www.gamersky.com/news/202610/2234197.shtml)
+14. [《影之刃零》女铁匠迷晕老外：这身材也太辣了！](https://www.gamersky.com/news/202610/2237546.shtml)
+15. [《影之刃零》制作人发长文！三点关键 首日补丁5G](https://www.gamersky.com/news/202610/2236299.shtml)
