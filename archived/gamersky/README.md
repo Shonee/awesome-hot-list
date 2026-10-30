@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-10-30 18:10:00
+> 更新时间：2026-10-30 19:09:24
 
 ## 热点资讯排行
 
@@ -13,9 +13,9 @@
 7. [《影之刃零》PS首批评价出炉！好评率高达恐怖的99%](https://www.gamersky.com/news/202610/2236817.shtml)
 8. [《GTA6》大小曝光！210GB 11月12日预载](https://www.gamersky.com/news/202610/2236083.shtml)
 9. [《影之刃零》女铁匠迷晕老外：这身材也太辣了！](https://www.gamersky.com/news/202610/2237546.shtml)
-10. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
-11. [甄子丹本人发](https://www.gamersky.com/news/202610/2235943.shtml)
-12. [7分外媒给《影之刃零》改8分！补丁太高效](https://www.gamersky.com/news/202610/2236089.shtml)
-13. [《影之刃零》M站评分回升！大媒体给出95分高分](https://www.gamersky.com/news/202610/2236086.shtml)
-14. [《影之刃零》首个大人MOD上线！很诡异 作者也纠结](https://www.gamersky.com/news/202610/2237654.shtml)
+10. [《影之刃零》首个大人MOD上线！很诡异 作者也纠结](https://www.gamersky.com/news/202610/2237654.shtml)
+11. [《巫师3》次世代版解禁时间公布！PS5零点提前玩](https://www.gamersky.com/news/202212/1546209.shtml)
+12. [甄子丹本人发](https://www.gamersky.com/news/202610/2235943.shtml)
+13. [7分外媒给《影之刃零》改8分！补丁太高效](https://www.gamersky.com/news/202610/2236089.shtml)
+14. [《影之刃零》M站评分回升！大媒体给出95分高分](https://www.gamersky.com/news/202610/2236086.shtml)
 15. [笑死！日本玩家狂夸《影之刃零》爬梯子：第一次见](https://www.gamersky.com/news/202610/2237529.shtml)

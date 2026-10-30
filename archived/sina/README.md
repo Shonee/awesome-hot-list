@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-10-30 18:09:56
+> 更新时间：2026-10-30 19:09:20
 
 ## 新闻热榜
 
@@ -9,21 +9,21 @@
 3. [男子会所按摩睡着遭技师侵犯已立案](https://news.sina.com.cn/zx/2026-10-30/doc-iniwyfwa2330573.shtml)
 4. [德国总统在北大，组队打乒乓球](https://news.sina.com.cn/zx/2026-10-30/doc-iniwyfvy5553838.shtml)
 5. [创历史！U17女足点球战淘汰法国首次晋级世界杯8强 牛子琪两扑点](https://news.sina.com.cn/o/2026-10-30/doc-iniwxqym8561191.shtml)
-6. [10架美国军机飞抵以色列空军基地](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqe2403601.shtml)
-7. [西班牙高铁事故首份报告公布](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqa5633219.shtml)
-8. [张升民同志简历](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwtus6057735.shtml)
-9. [马斯克再次预言：人工智能将带来超级富足，为未来存钱毫无意义](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqf8400461.shtml)
-10. [人民锐评：警惕“中国AI跑偏论”](https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwxzqf8376697.shtml)
-11. [国产大飞机南航C919首次在大湾区执飞SAF航班](https://news.sina.com.cn/zx/2026-10-30/doc-iniwysmx8240929.shtml)
-12. [校方通报“学生摆拍大体老师头骨”](https://news.sina.com.cn/zx/2026-10-30/doc-iniwynec4730735.shtml)
-13. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
-14. [[新浪彩票]足彩第26153期任九：大巴黎客胜稳胆](https://sports.sina.com.cn/l/2026-10-30/doc-iniwxzqa5666263.shtml)
-15. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
-16. [法国足协主席为姆巴佩辩护：此事应到此为止，姆巴佩已公开致歉，各方应放过他，毕竟那番话并非他本意](https://news.sina.com.cn/zx/2026-10-30/doc-iniwysmz4669104.shtml)
-17. [全球智能手机出货量大跌22%，“存储芯片报价涨至4倍”](https://finance.sina.com.cn/stock/hyyj/2026-10-30/doc-iniwyfwa2328800.shtml)
-18. [自曝拉黑母亲！张雪怒斥家人被当流量入口](https://finance.sina.com.cn/tech/roll/2026-10-30/doc-iniwyncy2329074.shtml)
-19. [《影之刃零》“甄子丹”太难打上热搜！首日Steam在线峰值超72万](https://finance.sina.com.cn/tech/discovery/2026-10-30/doc-iniwyfwa2394681.shtml)
-20. [银行职员输错数字，存2500元变25000元，储户以“离柜概不负责”拒绝退还，法院介入](https://news.sina.com.cn/zx/2026-10-30/doc-iniwxzqf8411656.shtml)
+6. [西班牙高铁事故首份报告公布](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqa5633219.shtml)
+7. [10架美国军机飞抵以色列空军基地](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqe2403601.shtml)
+8. [马斯克再次预言：人工智能将带来超级富足，为未来存钱毫无意义](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqf8400461.shtml)
+9. [人民锐评：警惕“中国AI跑偏论”](https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwxzqf8376697.shtml)
+10. [国产大飞机南航C919首次在大湾区执飞SAF航班](https://news.sina.com.cn/zx/2026-10-30/doc-iniwysmx8240929.shtml)
+11. [校方通报“学生摆拍大体老师头骨”](https://news.sina.com.cn/zx/2026-10-30/doc-iniwynec4730735.shtml)
+12. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
+13. [[新浪彩票]足彩第26153期任九：大巴黎客胜稳胆](https://sports.sina.com.cn/l/2026-10-30/doc-iniwxzqa5666263.shtml)
+14. [法国足协主席为姆巴佩辩护：此事应到此为止，姆巴佩已公开致歉，各方应放过他，毕竟那番话并非他本意](https://news.sina.com.cn/zx/2026-10-30/doc-iniwysmz4669104.shtml)
+15. [特朗普对华降调，盟友、对手敢低头吗？](https://news.sina.com.cn/w/2026-10-30/doc-iniwysmu5516758.shtml)
+16. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
+17. [床单和枕头沾满血迹，31岁女工程师猝死](https://news.sina.com.cn/c/2026-10-30/doc-iniwysmu5570832.shtml)
+18. [全球智能手机出货量大跌22%，“存储芯片报价涨至4倍”](https://finance.sina.com.cn/stock/hyyj/2026-10-30/doc-iniwyfwa2328800.shtml)
+19. [自曝拉黑母亲！张雪怒斥家人被当流量入口](https://finance.sina.com.cn/tech/roll/2026-10-30/doc-iniwyncy2329074.shtml)
+20. [外交部驳斥《纽约时报》涉华报道：捕风捉影，纯属对中国的污蔑抹黑](https://news.sina.com.cn/c/2026-10-30/doc-iniwywts5476272.shtml)
 
 ## 财经热榜
 
