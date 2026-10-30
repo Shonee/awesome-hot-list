@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-10-30 05:08:50
+> 更新时间：2026-10-30 11:11:35
 
 ## 每日趋势
 
@@ -24,11 +24,12 @@
 4. [impeccable](https://github.com/pbakaus/impeccable)
 5. [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 6. [TradingAgents](https://github.com/TauricResearch/TradingAgents)
-7. [superpowers](https://github.com/obra/superpowers)
-8. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-9. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-10. [skills](https://github.com/jakubkrehel/skills)
-11. [ruflo](https://github.com/ruvnet/ruflo)
+7. [ppt-master](https://github.com/hugohe3/ppt-master)
+8. [superpowers](https://github.com/obra/superpowers)
+9. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+10. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+11. [skills](https://github.com/jakubkrehel/skills)
+12. [ruflo](https://github.com/ruvnet/ruflo)
 
 ## 每月趋势
 
@@ -73,19 +74,20 @@
 
 1. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
 2. [TradingAgents](https://github.com/TauricResearch/TradingAgents)
-3. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-4. [vllm](https://github.com/vllm-project/vllm)
-5. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
-6. [skills](https://github.com/higgsfield-ai/skills)
-7. [graphify](https://github.com/Graphify-Labs/graphify)
-8. [agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
-9. [sglang](https://github.com/sgl-project/sglang)
-10. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
-11. [DeepTutor](https://github.com/HKUDS/DeepTutor)
-12. [Claude-Red](https://github.com/SnailSploit/Claude-Red)
-13. [claude-howto](https://github.com/luongnv89/claude-howto)
-14. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
-15. [humanizer](https://github.com/blader/humanizer)
+3. [ppt-master](https://github.com/hugohe3/ppt-master)
+4. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+5. [vllm](https://github.com/vllm-project/vllm)
+6. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+7. [skills](https://github.com/higgsfield-ai/skills)
+8. [graphify](https://github.com/Graphify-Labs/graphify)
+9. [agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
+10. [sglang](https://github.com/sgl-project/sglang)
+11. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+12. [DeepTutor](https://github.com/HKUDS/DeepTutor)
+13. [Claude-Red](https://github.com/SnailSploit/Claude-Red)
+14. [claude-howto](https://github.com/luongnv89/claude-howto)
+15. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+16. [humanizer](https://github.com/blader/humanizer)
 
 ## Go
 

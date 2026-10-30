@@ -1,16 +1,16 @@
 # IT之家热榜
 
-> 更新时间：2026-10-30 10:13:37
+> 更新时间：2026-10-30 11:12:06
 
 ## 日榜
 
 1. [开发者成功在小米 REDMI K90 Pro Max 上运行苹果 iOS 17 系统，后续项目将开源](https://www.ithome.com/1/019/409.htm)
-2. [消息称苹果 iPhone Air 2 已开屏：6.55"1.5K+120Hz LTPO OLED 面板，48MP 双摄](https://www.ithome.com/1/019/576.htm)
-3. [外媒曝光苹果强势压价闪存手段：前采购负责人曾威胁闪迪 CEO“跪着爬回来”](https://www.ithome.com/1/019/690.htm)
-4. [13.98 万元起小鹏 MONA L05 上市：纯视觉智驾下放，纯电增程双动力](https://www.ithome.com/1/019/750.htm)
-5. [苹果高管回应“iPad mini 8 屏幕刷新率为何依然为 60Hz”](https://www.ithome.com/1/019/799.htm)
-6. [第三方设备首开：博主称成功为小米平板 6S Pro 刷入华为鸿蒙 HarmonyOS 7 系统，后续项目将开源](https://www.ithome.com/1/019/570.htm)
-7. [华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座](https://www.ithome.com/1/019/780.htm)
+2. [苹果高管回应“iPad mini 8 屏幕刷新率为何依然为 60Hz”](https://www.ithome.com/1/019/799.htm)
+3. [消息称苹果 iPhone Air 2 已开屏：6.55"1.5K+120Hz LTPO OLED 面板，48MP 双摄](https://www.ithome.com/1/019/576.htm)
+4. [外媒曝光苹果强势压价闪存手段：前采购负责人曾威胁闪迪 CEO“跪着爬回来”](https://www.ithome.com/1/019/690.htm)
+5. [13.98 万元起小鹏 MONA L05 上市：纯视觉智驾下放，纯电增程双动力](https://www.ithome.com/1/019/750.htm)
+6. [华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座](https://www.ithome.com/1/019/780.htm)
+7. [第三方设备首开：博主称成功为小米平板 6S Pro 刷入华为鸿蒙 HarmonyOS 7 系统，后续项目将开源](https://www.ithome.com/1/019/570.htm)
 8. [华为星芒子品牌阔直板新机更多配置曝光：黑 / 白 / 紫三色可选，预计配备 Pura X View 同款屏幕](https://www.ithome.com/1/019/427.htm)
 9. [“宁德时代电池没了”：曝理想 MEGA 部分订单无法按约交付，定金退一赔一或换自研电池](https://www.ithome.com/1/019/418.htm)
 10. [小米 REDMI K100 Pro Max 手机惊喜“现身”王腾今日宜休发布会](https://www.ithome.com/1/019/749.htm)

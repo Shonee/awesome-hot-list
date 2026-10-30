@@ -1,17 +1,17 @@
 # 博客园热榜
 
-> 更新时间：2026-10-30 10:12:50
+> 更新时间：2026-10-30 11:11:40
 
 ## 最新帖子
 
-1. [MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）](https://www.cnblogs.com/hugogoos/p/23479286)
-2. [Vue nextTick 到底在等什么？一篇讲透原理与那些年踩过的坑](https://www.cnblogs.com/codigger/p/23490432)
+1. [Hermes：把学习写进文件，把知识变成技能](https://www.cnblogs.com/xianxh/p/23491742)
+2. [MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）](https://www.cnblogs.com/hugogoos/p/23479286)
 3. [GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！](https://www.cnblogs.com/jinjiangongzuoshi/p/23490370)
 4. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
 5. [DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单](https://www.cnblogs.com/guojin-blogs/p/23490160)
 6. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
 7. [访问可信人项目时，如何信任 HTTPS 证书？](https://www.cnblogs.com/jyzhao/p/23490019)
-8. [《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录](https://www.cnblogs.com/apachecn/p/23489659)
+8. [把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘](https://www.cnblogs.com/znlgis/p/23489729)
 9. [LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变](https://www.cnblogs.com/moonout/p/23488736)
 10. [Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP](https://www.cnblogs.com/lulianqi/p/23483822)
 11. [用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录](https://www.cnblogs.com/wyang/p/23487396)
