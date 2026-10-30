@@ -1,28 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-30 09:11:57
+> 更新时间：2026-10-30 10:13:12
 
 ## 新闻热榜
 
 1. [中国共产党第二十届中央委员会第五次全体会议公报](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwyaq6042002.shtml)
-2. [张升民同志简历](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwtus6057735.shtml)
-3. [创历史！U17女足点球战淘汰法国首次晋级世界杯8强 牛子琪两扑点](https://news.sina.com.cn/o/2026-10-30/doc-iniwxqym8561191.shtml)
-4. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
-5. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
-6. [39岁女高管隆胸因麻醉过敏死亡](https://news.sina.com.cn/s/2026-10-29/doc-iniwwpnw2848058.shtml)
-7. [霍尔木兹海峡，突变！伊朗革命卫队，击落！](https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwpnw2806575.shtml)
-8. [双色球头奖8注665万分落6地 奖池余额10.75亿](https://sports.sina.com.cn/l/2026-10-29/doc-iniwxekt5180330.shtml)
-9. [小博索纳罗出逃美国背后，他在巴西已近乎“光杆司令”](https://news.sina.com.cn/w/2026-10-29/doc-iniwwyas2774525.shtml)
-10. [10架美国军机飞抵以色列空军基地](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqe2403601.shtml)
-11. [普京：俄方支持与欧盟国家恢复关系的任何步骤](https://news.sina.com.cn/w/2026-10-30/doc-iniwxqym8578720.shtml)
-12. [西班牙高铁事故首份报告公布](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqa5633219.shtml)
-13. [视频丨美计划增购F-35战机 “十年大单”究竟意味什么](https://news.sina.com.cn/o/2026-10-29/doc-iniwxksp8630911.shtml)
-14. [阿根廷央行今日储备为501.5亿美元。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyh5829923.shtml)
-15. [男子涉嫌15年杀害并吃掉38人，乌干达军方宣布“食人魔”落网，曾多次被捕后逃脱或被释放](https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwaxf5418269.shtml)
-16. [全文|中国共产党第二十届中央委员会第五次全体会议公报](https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwtuu2826484.shtml)
-17. [美国司法部寻求对州官员处理选票问题展开刑事调查。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyk2606185.shtml)
-18. [知名炸鸡连锁突然全部门店关停](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksr5126874.shtml)
-19. [据报道，一名高级上将向特朗普汇报了对伊朗发动攻击的选项。](https://finance.sina.com.cn/7x24/2026-10-30/doc-iniwxqyp5033633.shtml)
+2. [创历史！U17女足点球战淘汰法国首次晋级世界杯8强 牛子琪两扑点](https://news.sina.com.cn/o/2026-10-30/doc-iniwxqym8561191.shtml)
+3. [张升民同志简历](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwtus6057735.shtml)
+4. [10架美国军机飞抵以色列空军基地](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqe2403601.shtml)
+5. [西班牙高铁事故首份报告公布](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqa5633219.shtml)
+6. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
+7. [男子会所按摩睡着遭技师侵犯已立案](https://news.sina.com.cn/zx/2026-10-30/doc-iniwyfwa2330573.shtml)
+8. [男子涉嫌15年杀害并吃掉38人，乌干达军方宣布“食人魔”落网，曾多次被捕后逃脱或被释放](https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwaxf5418269.shtml)
+9. [39岁女高管隆胸因麻醉过敏死亡](https://news.sina.com.cn/s/2026-10-29/doc-iniwwpnw2848058.shtml)
+10. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
+11. [霍尔木兹海峡，突变！伊朗革命卫队，击落！](https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwpnw2806575.shtml)
+12. [普京：俄方支持与欧盟国家恢复关系的任何步骤](https://news.sina.com.cn/w/2026-10-30/doc-iniwxqym8578720.shtml)
+13. [操盘必读：影响股市利好或利空消息_2026年10月30日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-10-30/doc-iniwxzqa5651422.shtml)
+14. [妻子一餐烧了5个菜，夫妻闹到要离婚！丈夫：一家三口吃太浪费……](https://news.sina.com.cn/c/2026-10-29/doc-iniwwaxf5442589.shtml)
+15. [双色球头奖8注665万分落6地 奖池余额10.75亿](https://sports.sina.com.cn/l/2026-10-29/doc-iniwxekt5180330.shtml)
+16. [小博索纳罗出逃美国背后，他在巴西已近乎“光杆司令”](https://news.sina.com.cn/w/2026-10-29/doc-iniwwyas2774525.shtml)
+17. [人民锐评：警惕“中国AI跑偏论”](https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwxzqf8376697.shtml)
+18. [马斯克再次预言：人工智能将带来超级富足，为未来存钱毫无意义](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqf8400461.shtml)
+19. [德国总统在北大，组队打乒乓球](https://news.sina.com.cn/zx/2026-10-30/doc-iniwyfvy5553838.shtml)
+20. [财经早报丨美军最高上将向特朗普汇报伊朗打击方案，10架美国军机飞抵以色列空军基地丨2026年10月30日](https://finance.sina.com.cn/stock/y/2026-10-30/doc-iniwxzqa5657754.shtml)
 
 ## 财经热榜
 

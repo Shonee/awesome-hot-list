@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-30 09:11:45
+> 更新时间：2026-10-30 10:12:50
 
 ## 最新帖子
 
-1. [Vue nextTick 到底在等什么？一篇讲透原理与那些年踩过的坑](https://www.cnblogs.com/codigger/p/23490432)
-2. [GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！](https://www.cnblogs.com/jinjiangongzuoshi/p/23490370)
-3. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
-4. [DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单](https://www.cnblogs.com/guojin-blogs/p/23490160)
-5. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
-6. [访问可信人项目时，如何信任 HTTPS 证书？](https://www.cnblogs.com/jyzhao/p/23490019)
-7. [《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录](https://www.cnblogs.com/apachecn/p/23489659)
-8. [LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变](https://www.cnblogs.com/moonout/p/23488736)
-9. [Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP](https://www.cnblogs.com/lulianqi/p/23483822)
-10. [用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录](https://www.cnblogs.com/wyang/p/23487396)
-11. [【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理](https://www.cnblogs.com/rossiXYZ/p/23430544)
-12. [P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解](https://www.cnblogs.com/lvwangshuOI/p/23485788)
-13. [AI Agent如何通过MCP连接到华为云RDS Supabase应用平台](https://www.cnblogs.com/huaweiyun/p/23484548)
-14. [Agent 支线知识：Personal Agent 如何理解个人意图？](https://www.cnblogs.com/Qiniu-developer/p/23483548)
-15. [重新理解 RankMixer：扩参为什么有效，又为什么划算？](https://www.cnblogs.com/GlenTt/p/23483025)
-16. [没有 Mac 版客户端，我拿 Windows 做了台跳板机](https://www.cnblogs.com/liuzhang/p/23482978)
-17. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
-18. [用Python DSL 写轻量数据质检工具](https://www.cnblogs.com/wang_yb/p/23481920)
-19. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
-20. [你的 Excel 为什么越来越慢？可能是这几个地方出了问题](https://www.cnblogs.com/powertoolsteam/p/23477024)
+1. [MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）](https://www.cnblogs.com/hugogoos/p/23479286)
+2. [Vue nextTick 到底在等什么？一篇讲透原理与那些年踩过的坑](https://www.cnblogs.com/codigger/p/23490432)
+3. [GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！](https://www.cnblogs.com/jinjiangongzuoshi/p/23490370)
+4. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
+5. [DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单](https://www.cnblogs.com/guojin-blogs/p/23490160)
+6. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
+7. [访问可信人项目时，如何信任 HTTPS 证书？](https://www.cnblogs.com/jyzhao/p/23490019)
+8. [《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录](https://www.cnblogs.com/apachecn/p/23489659)
+9. [LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变](https://www.cnblogs.com/moonout/p/23488736)
+10. [Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP](https://www.cnblogs.com/lulianqi/p/23483822)
+11. [用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录](https://www.cnblogs.com/wyang/p/23487396)
+12. [【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理](https://www.cnblogs.com/rossiXYZ/p/23430544)
+13. [P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解](https://www.cnblogs.com/lvwangshuOI/p/23485788)
+14. [AI Agent如何通过MCP连接到华为云RDS Supabase应用平台](https://www.cnblogs.com/huaweiyun/p/23484548)
+15. [Agent 支线知识：Personal Agent 如何理解个人意图？](https://www.cnblogs.com/Qiniu-developer/p/23483548)
+16. [重新理解 RankMixer：扩参为什么有效，又为什么划算？](https://www.cnblogs.com/GlenTt/p/23483025)
+17. [没有 Mac 版客户端，我拿 Windows 做了台跳板机](https://www.cnblogs.com/liuzhang/p/23482978)
+18. [Agent Swarm：让组织与经验一起生长](https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm)
+19. [用Python DSL 写轻量数据质检工具](https://www.cnblogs.com/wang_yb/p/23481920)
+20. [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://www.cnblogs.com/vivotech/p/23478254)
 
 ## 精华帖子
 
