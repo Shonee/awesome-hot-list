@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-30 20:14:40
+> 更新时间：2026-10-31 02:09:35
 
 ## 新闻热榜
 
-1. [中国共产党第二十届中央委员会第五次全体会议公报](https://news.sina.com.cn/c/xl/2026-10-29/doc-iniwwyaq6042002.shtml)
-2. [美媒：美联储宣布“地震式”改变](https://news.sina.com.cn/w/2026-10-30/doc-iniwyfvy5545356.shtml)
-3. [男子会所按摩睡着遭技师侵犯已立案](https://news.sina.com.cn/zx/2026-10-30/doc-iniwyfwa2330573.shtml)
-4. [德国总统在北大，组队打乒乓球](https://news.sina.com.cn/zx/2026-10-30/doc-iniwyfvy5553838.shtml)
-5. [创历史！U17女足点球战淘汰法国首次晋级世界杯8强 牛子琪两扑点](https://news.sina.com.cn/o/2026-10-30/doc-iniwxqym8561191.shtml)
-6. [西班牙高铁事故首份报告公布](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqa5633219.shtml)
-7. [10架美国军机飞抵以色列空军基地](https://news.sina.com.cn/w/2026-10-30/doc-iniwxzqe2403601.shtml)
-8. [马斯克再次预言：人工智能将带来超级富足，为未来存钱毫无意义](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqf8400461.shtml)
-9. [人民锐评：警惕“中国AI跑偏论”](https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwxzqf8376697.shtml)
-10. [国产大飞机南航C919首次在大湾区执飞SAF航班](https://news.sina.com.cn/zx/2026-10-30/doc-iniwysmx8240929.shtml)
-11. [校方通报“学生摆拍大体老师头骨”](https://news.sina.com.cn/zx/2026-10-30/doc-iniwynec4730735.shtml)
-12. [[新浪彩票]足彩第26153期任九：大巴黎客胜稳胆](https://sports.sina.com.cn/l/2026-10-30/doc-iniwxzqa5666263.shtml)
-13. [特朗普对华降调，盟友、对手敢低头吗？](https://news.sina.com.cn/w/2026-10-30/doc-iniwysmu5516758.shtml)
-14. [党的二十届五中全会公报一图速览](https://news.sina.com.cn/c/2026-10-29/doc-iniwwyat8804968.shtml)
-15. [法国足协主席为姆巴佩辩护：此事应到此为止，姆巴佩已公开致歉，各方应放过他，毕竟那番话并非他本意](https://news.sina.com.cn/zx/2026-10-30/doc-iniwysmz4669104.shtml)
-16. [新西兰大选在即，“谁上台都绕不开中国”](https://news.sina.com.cn/c/2026-10-29/doc-iniwxekr8688852.shtml)
-17. [外交部驳斥《纽约时报》涉华报道：捕风捉影，纯属对中国的污蔑抹黑](https://news.sina.com.cn/c/2026-10-30/doc-iniwywts5476272.shtml)
-18. [床单和枕头沾满血迹，31岁女工程师猝死](https://news.sina.com.cn/c/2026-10-30/doc-iniwysmu5570832.shtml)
-19. [全球智能手机出货量大跌22%，“存储芯片报价涨至4倍”](https://finance.sina.com.cn/stock/hyyj/2026-10-30/doc-iniwyfwa2328800.shtml)
-20. [自曝拉黑母亲！张雪怒斥家人被当流量入口](https://finance.sina.com.cn/tech/roll/2026-10-30/doc-iniwyncy2329074.shtml)
+1. [CD&R 寻求收购估值 400 亿美元的支付处理商 Global Payment。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7976148.shtml)
+2. [CD&R已与全球支付最大股东GTCR联合竞标全球支付。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2080320.shtml)
+3. [OPENAI：将于2027年初发布首份报告，涵盖2026年下半年，此后每六个月更新一次。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7969952.shtml)
+4. [美股Snowflake盘中跌超10%](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7974271.shtml)
+5. [OPENAI：承诺发布社区安全报告，内容涉及暴力预防和其他社区安全问题，以及我们安全保障措施的有效性。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2073775.shtml)
+6. [黑石向投资者表示，Anthropic在IPO后可能无法获得投资级评级。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxh5309341.shtml)
+7. [加拿大希望参与欧盟向乌克兰提供的900亿欧元贷款（联合声明）。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxh5309424.shtml)
+8. [央行重磅公告！下周一，正式生效！](https://finance.sina.com.cn/stock/zqgd/2026-10-30/doc-iniwziir8135300.shtml)
+9. [欧洲央行的莱恩：与人工智能相关的价格压力是可见的，但对总体通胀的影响有限。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxp4417347.shtml)
+10. [特朗普对华降调，盟友、对手敢低头吗？](https://news.sina.com.cn/w/2026-10-30/doc-iniwysmu5516758.shtml)
+11. [加拿大总理卡尼：这是历史性的一天。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxp4430282.shtml)
+12. [加拿大和欧盟签署了关于欧盟-加拿大数字贸易协议的政治协议。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxp4430069.shtml)
+13. [以色列，变天了？](https://news.sina.com.cn/w/2026-10-30/doc-iniwziiq2263960.shtml)
+14. [外交部驳斥《纽约时报》涉华报道：捕风捉影，纯属对中国的污蔑抹黑](https://news.sina.com.cn/c/2026-10-30/doc-iniwywts5476272.shtml)
+15. [英特尔与闪迪对存储芯片行业现状的判断大相径庭](https://finance.sina.com.cn/stock/usstock/c/2026-10-31/doc-iniwzprp8092096.shtml)
+16. [“拒绝为战争服务！”全球113个港口掀起罢工潮](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprp8079446.shtml)
+17. [我军首型舰载察打一体隐身无人机在四川舰成功起降](https://news.sina.com.cn/c/2026-10-30/doc-iniwywtv8234122.shtml)
+18. [美国7年期国债中标收益率与发行前交易水平持平 表明需求符合预期](https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqyp5010455.shtml)
+19. [38岁男子下班后代扔垃圾，月入2000元，客户多是20到27岁，女性多于男性](https://finance.sina.com.cn/wm/2026-10-30/doc-iniwzprk5372292.shtml)
+20. [五部门重磅发文，这些消费、投资领域将迎来利好](https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzazs2249652.shtml)
 
 ## 财经热榜
 
