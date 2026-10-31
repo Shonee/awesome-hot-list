@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-31 06:35:26
+> 更新时间：2026-10-31 10:03:14
 
 ## 新闻热榜
 
 1. [商务部：如美方一意孤行，中方将进一步采取必要措施](https://news.sina.com.cn/o/2026-10-30/doc-iniwzprk5403613.shtml)
-2. [央行重磅公告！下周一，正式生效！](https://finance.sina.com.cn/stock/zqgd/2026-10-30/doc-iniwziir8135300.shtml)
-3. [“拒绝为战争服务！”全球113个港口掀起罢工潮](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprp8079446.shtml)
-4. [CD&R 寻求收购估值 400 亿美元的支付处理商 Global Payment。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7976148.shtml)
-5. [CD&R已与全球支付最大股东GTCR联合竞标全球支付。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2080320.shtml)
-6. [美国总统特朗普：未考虑解除对俄罗斯主权财富基金的制裁。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwzyfm4333426.shtml)
-7. [特朗普对华降调，盟友、对手敢低头吗？](https://news.sina.com.cn/w/2026-10-30/doc-iniwysmu5516758.shtml)
-8. [外交部驳斥《纽约时报》涉华报道：捕风捉影，纯属对中国的污蔑抹黑](https://news.sina.com.cn/c/2026-10-30/doc-iniwywts5476272.shtml)
-9. [以色列，变天了？](https://news.sina.com.cn/w/2026-10-30/doc-iniwziiq2263960.shtml)
-10. [美国上诉法院驳回了司法部的再次请求，该请求旨在暂时阻止加利福尼亚州统计来自20,000名被指控为非公民的邮寄选票。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwzyfm4322276.shtml)
-11. [英国长端国债收益率10月份累跌超20个基点](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7990262.shtml)
-12. [智利铜业委员会（Cochilco）：2027年智利铜产量将增长3%，达到508万吨。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7990383.shtml)
-13. [多佛宣布提高其要约收购上限，并延长此前宣布的以现金购买其部分未偿债务证券的要约的到期日。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwzyfm4322342.shtml)
-14. [双良节能财报解读：扣非净利大降16831.93% 营业外收入暴涨4113.86%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-30/doc-iniwziin5461385.shtml)
-15. [英特尔与闪迪对存储芯片行业现状的判断大相径庭](https://finance.sina.com.cn/stock/usstock/c/2026-10-31/doc-iniwzprp8092096.shtml)
-16. [ST葫芦娃财报解读：营收大降42.25% 经营现金流增113.83%](https://finance.sina.com.cn/stock/aigc/stockfs/2026-10-30/doc-iniwziiq2237431.shtml)
-17. [黄金、白银大跳水！英特尔盘中暴跌超30%，市值蒸发超1300亿美元｜盘中速报](https://news.sina.com.cn/o/2026-10-31/doc-iniwzprr4528236.shtml)
-18. [OPENAI：将于2027年初发布首份报告，涵盖2026年下半年，此后每六个月更新一次。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7969952.shtml)
-19. [美股Snowflake盘中跌超10%](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7974271.shtml)
-20. [OPENAI：承诺发布社区安全报告，内容涉及暴力预防和其他社区安全问题，以及我们安全保障措施的有效性。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2073775.shtml)
+2. [特朗普对华降调，盟友、对手敢低头吗？](https://news.sina.com.cn/w/2026-10-30/doc-iniwysmu5516758.shtml)
+3. [外交部驳斥《纽约时报》涉华报道：捕风捉影，纯属对中国的污蔑抹黑](https://news.sina.com.cn/c/2026-10-30/doc-iniwywts5476272.shtml)
+4. [德国总统在华发声：“世界历史上前所未有，我深为钦佩”](https://mil.news.sina.com.cn/2026-10-31/doc-inixakvf4122741.shtml)
+5. [“拒绝为战争服务！”全球113个港口掀起罢工潮](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprp8079446.shtml)
+6. [央行重磅公告！下周一，正式生效！](https://finance.sina.com.cn/stock/zqgd/2026-10-30/doc-iniwziir8135300.shtml)
+7. [亚美尼亚议会打成一团](https://news.sina.com.cn/w/2026-10-30/doc-iniwywtv8179308.shtml)
+8. [以色列，变天了？](https://news.sina.com.cn/w/2026-10-30/doc-iniwziiq2263960.shtml)
+9. [“养老金要崩盘”？人民锐评：用“三本账”穿越认知迷雾](https://news.sina.com.cn/c/2026-10-30/doc-iniwysmz4721152.shtml)
+10. [自封“当选总统” ，小博索纳罗公开信引美国和巴西不满，白宫：别给特朗普“添乱”](https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixaepa5133068.shtml)
+11. [手机卖不动，平板电脑也跟着遭殃](https://news.sina.com.cn/c/2026-10-30/doc-iniwzprr4514827.shtml)
+12. [征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 中共中央召开党外人士座谈会 习近平主持并发表重要讲话](https://news.sina.com.cn/c/xl/2026-10-30/doc-iniwziir8148778.shtml)
+13. [南昌交警一次处罚，46分钟后，她捡回一条命](https://news.sina.com.cn/zx/2026-10-31/doc-inixakvf4132727.shtml)
+14. [美日串联第一岛链，菲律宾抢当急先锋？](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprk5407933.shtml)
+15. [黄金、白银大跳水！英特尔盘中暴跌超30%，市值蒸发超1300亿美元｜盘中速报](https://news.sina.com.cn/o/2026-10-31/doc-iniwzprr4528236.shtml)
+16. [奥地利总理施托克尔将访华](https://news.sina.com.cn/c/2026-10-30/doc-iniwywtv8159577.shtml)
+17. [胡锡进：被指控与“中国女间谍”密切交往，黄仁勋气晕了](https://finance.sina.com.cn/roll/2026-10-30/doc-iniwzprp8081221.shtml)
+18. [纽约股市三大股指30日显著下跌](https://news.sina.com.cn/o/2026-10-31/doc-inixaepi4213932.shtml)
+19. [CD&R 寻求收购估值 400 亿美元的支付处理商 Global Payment。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7976148.shtml)
+20. [CD&R已与全球支付最大股东GTCR联合竞标全球支付。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2080320.shtml)
 
 ## 财经热榜
 

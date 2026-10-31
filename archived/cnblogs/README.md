@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-10-31 06:34:53
+> 更新时间：2026-10-31 10:02:47
 
 ## 最新帖子
 
-1. [铲雪 16 炸！](https://www.cnblogs.com/yuyancheng/p/23499830/chanxue)
-2. [少年心事当拏云](https://www.cnblogs.com/lvwangshuOI/p/23499647)
-3. [办公妙招：技术作者的顽疾-中英混合输入场景如何更高效](https://www.cnblogs.com/tyysoft/p/23499385)
-4. [一周时间，把「还得东拼西凑」改成「一条命令开聊」](https://www.cnblogs.com/shanyou/p/23499365)
-5. [AI 编码工具默认给 Agent 多大权限？三家差在这三处](https://www.cnblogs.com/uniqueDong/p/23498661)
-6. [如何使用RDS Supabase后端BaaS能力：文件存储（File Storage）](https://www.cnblogs.com/huaweiyun/p/23497491)
-7. [一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器](https://www.cnblogs.com/ryzen/p/23496525)
-8. [Day07 · 字符串（一）](https://www.cnblogs.com/xiaojiaxuezhang/p/23494503)
-9. [从 printf 到曲线：把数据送上 VOFA+](https://www.cnblogs.com/zw-awa/p/23494308)
-10. [面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单](https://www.cnblogs.com/zrui-xyu/p/23493448)
-11. [EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）](https://www.cnblogs.com/donpangpang/p/23493082)
-12. [Hermes：把学习写进文件，把知识变成技能](https://www.cnblogs.com/xianxh/p/23491742)
-13. [MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）](https://www.cnblogs.com/hugogoos/p/23479286)
-14. [GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！](https://www.cnblogs.com/jinjiangongzuoshi/p/23490370)
-15. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
-16. [DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单](https://www.cnblogs.com/guojin-blogs/p/23490160)
-17. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
-18. [访问可信人项目时，如何信任 HTTPS 证书？](https://www.cnblogs.com/jyzhao/p/23490019)
-19. [把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘](https://www.cnblogs.com/znlgis/p/23489729)
-20. [LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变](https://www.cnblogs.com/moonout/p/23488736)
+1. [孤灯](https://www.cnblogs.com/lvwangshuOI/p/23504360)
+2. [把 2,082 个测试守着的 Python 语音智能体搬进 C#，怎么证明「搬对了」](https://www.cnblogs.com/shanyou/p/23504329)
+3. [新项目首次提交 GitHub 报错“未配置远端 origin”怎么办](https://www.cnblogs.com/jyzhao/p/23503364)
+4. [铲雪 16 炸！](https://www.cnblogs.com/yuyancheng/p/23499830/chanxue)
+5. [少年心事当拏云](https://www.cnblogs.com/lvwangshuOI/p/23499647)
+6. [办公妙招：技术作者的顽疾-中英混合输入场景如何更高效](https://www.cnblogs.com/tyysoft/p/23499385)
+7. [一周时间，把「还得东拼西凑」改成「一条命令开聊」](https://www.cnblogs.com/shanyou/p/23499365)
+8. [AI 编码工具默认给 Agent 多大权限？三家差在这三处](https://www.cnblogs.com/uniqueDong/p/23498661)
+9. [如何使用RDS Supabase后端BaaS能力：文件存储（File Storage）](https://www.cnblogs.com/huaweiyun/p/23497491)
+10. [一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器](https://www.cnblogs.com/ryzen/p/23496525)
+11. [Day07 · 字符串（一）](https://www.cnblogs.com/xiaojiaxuezhang/p/23494503)
+12. [从 printf 到曲线：把数据送上 VOFA+](https://www.cnblogs.com/zw-awa/p/23494308)
+13. [面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单](https://www.cnblogs.com/zrui-xyu/p/23493448)
+14. [EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）](https://www.cnblogs.com/donpangpang/p/23493082)
+15. [Hermes：把学习写进文件，把知识变成技能](https://www.cnblogs.com/xianxh/p/23491742)
+16. [MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）](https://www.cnblogs.com/hugogoos/p/23479286)
+17. [GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！](https://www.cnblogs.com/jinjiangongzuoshi/p/23490370)
+18. [SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快](https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro)
+19. [DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单](https://www.cnblogs.com/guojin-blogs/p/23490160)
+20. [.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键](https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization)
 
 ## 精华帖子
 
