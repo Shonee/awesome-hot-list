@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-10-31 10:03:14
+> 更新时间：2026-10-31 16:41:33
 
 ## 新闻热榜
 
-1. [商务部：如美方一意孤行，中方将进一步采取必要措施](https://news.sina.com.cn/o/2026-10-30/doc-iniwzprk5403613.shtml)
-2. [特朗普对华降调，盟友、对手敢低头吗？](https://news.sina.com.cn/w/2026-10-30/doc-iniwysmu5516758.shtml)
-3. [外交部驳斥《纽约时报》涉华报道：捕风捉影，纯属对中国的污蔑抹黑](https://news.sina.com.cn/c/2026-10-30/doc-iniwywts5476272.shtml)
-4. [德国总统在华发声：“世界历史上前所未有，我深为钦佩”](https://mil.news.sina.com.cn/2026-10-31/doc-inixakvf4122741.shtml)
-5. [“拒绝为战争服务！”全球113个港口掀起罢工潮](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprp8079446.shtml)
-6. [央行重磅公告！下周一，正式生效！](https://finance.sina.com.cn/stock/zqgd/2026-10-30/doc-iniwziir8135300.shtml)
-7. [亚美尼亚议会打成一团](https://news.sina.com.cn/w/2026-10-30/doc-iniwywtv8179308.shtml)
-8. [以色列，变天了？](https://news.sina.com.cn/w/2026-10-30/doc-iniwziiq2263960.shtml)
-9. [“养老金要崩盘”？人民锐评：用“三本账”穿越认知迷雾](https://news.sina.com.cn/c/2026-10-30/doc-iniwysmz4721152.shtml)
-10. [自封“当选总统” ，小博索纳罗公开信引美国和巴西不满，白宫：别给特朗普“添乱”](https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixaepa5133068.shtml)
-11. [手机卖不动，平板电脑也跟着遭殃](https://news.sina.com.cn/c/2026-10-30/doc-iniwzprr4514827.shtml)
-12. [征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 中共中央召开党外人士座谈会 习近平主持并发表重要讲话](https://news.sina.com.cn/c/xl/2026-10-30/doc-iniwziir8148778.shtml)
-13. [南昌交警一次处罚，46分钟后，她捡回一条命](https://news.sina.com.cn/zx/2026-10-31/doc-inixakvf4132727.shtml)
-14. [美日串联第一岛链，菲律宾抢当急先锋？](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprk5407933.shtml)
-15. [黄金、白银大跳水！英特尔盘中暴跌超30%，市值蒸发超1300亿美元｜盘中速报](https://news.sina.com.cn/o/2026-10-31/doc-iniwzprr4528236.shtml)
-16. [奥地利总理施托克尔将访华](https://news.sina.com.cn/c/2026-10-30/doc-iniwywtv8159577.shtml)
-17. [胡锡进：被指控与“中国女间谍”密切交往，黄仁勋气晕了](https://finance.sina.com.cn/roll/2026-10-30/doc-iniwzprp8081221.shtml)
-18. [纽约股市三大股指30日显著下跌](https://news.sina.com.cn/o/2026-10-31/doc-inixaepi4213932.shtml)
-19. [CD&R 寻求收购估值 400 亿美元的支付处理商 Global Payment。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxm7976148.shtml)
-20. [CD&R已与全球支付最大股东GTCR联合竞标全球支付。](https://finance.sina.com.cn/7x24/2026-10-31/doc-iniwztxk2080320.shtml)
+1. [德国总统在华发声：“世界历史上前所未有，我深为钦佩”](https://mil.news.sina.com.cn/2026-10-31/doc-inixakvf4122741.shtml)
+2. [中国公民尽快撤离或转移！我使馆提醒](https://news.sina.com.cn/zx/2026-10-31/doc-inixaray1730171.shtml)
+3. [商务部：如美方一意孤行，中方将进一步采取必要措施](https://news.sina.com.cn/o/2026-10-30/doc-iniwzprk5403613.shtml)
+4. [我国首次载人登月任务乘组计划由三人组成，两人着陆月球表面](https://news.sina.com.cn/zx/2026-10-31/doc-inixaray1799332.shtml)
+5. [计票结束，以色列陷入政治僵局](https://news.sina.com.cn/w/2026-10-31/doc-inixaepa5134586.shtml)
+6. [“拒绝为战争服务！”全球113个港口掀起罢工潮](https://news.sina.com.cn/w/2026-10-30/doc-iniwzprp8079446.shtml)
+7. [凌晨重磅！两大科技巨头，正式官宣！](https://news.sina.com.cn/zx/2026-10-31/doc-inixakuy5066375.shtml)
+8. [G20外长合影取消 俄德外长隔空交锋](https://news.sina.com.cn/zx/2026-10-31/doc-inixaraz7615989.shtml)
+9. [南昌交警一次处罚，46分钟后，她捡回一条命](https://news.sina.com.cn/zx/2026-10-31/doc-inixakvf4132727.shtml)
+10. [暴雨、大暴雪！新一股冷空气来袭 多地降温超10℃](https://news.sina.com.cn/zx/2026-10-31/doc-inixaraw4960632.shtml)
+11. [[新浪彩票]足彩第26154期任九：热刺值得信任](https://sports.sina.com.cn/l/2026-10-31/doc-inixakuy5026678.shtml)
+12. [自封“当选总统” ，小博索纳罗公开信引美国和巴西不满，白宫：别给特朗普“添乱”](https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixaepa5133068.shtml)
+13. [加欧抱团取暖，是因靠山没了？](https://news.sina.com.cn/w/2026-10-31/doc-inixakvf4140198.shtml)
+14. [央行重磅公告！下周一，正式生效！](https://finance.sina.com.cn/stock/zqgd/2026-10-30/doc-iniwziir8135300.shtml)
+15. [比利亚爆7倍冷负 足彩头奖开6注105万元](https://sports.sina.com.cn/l/2026-10-31/doc-inixakvc7682072.shtml)
+16. [以色列，变天了？](https://news.sina.com.cn/w/2026-10-30/doc-iniwziiq2263960.shtml)
+17. [手机卖不动，平板电脑也跟着遭殃](https://news.sina.com.cn/c/2026-10-30/doc-iniwzprr4514827.shtml)
+18. [[新浪彩票]足彩26154期盈亏指数：勒沃库森不稳](https://sports.sina.com.cn/l/2026-10-31/doc-inixakva1803611.shtml)
+19. [[新浪彩票]足彩第26154期大势：罗马重点防平](https://sports.sina.com.cn/l/2026-10-31/doc-inixakva1801935.shtml)
+20. [选民口误称万斯为“总统先生”，全场起哄，万斯：你给我惹大麻烦了](https://news.sina.com.cn/zx/2026-10-31/doc-inixakva1830149.shtml)
 
 ## 财经热榜
 
