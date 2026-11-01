@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-02 04:15:17
+> 更新时间：2026-11-02 07:47:05
 
 ## 最新帖子
 
-1. [Redis 数据类型全解 - Hash 还是 String + JSON？一文终结存储选型之争（三）](https://www.cnblogs.com/hugogoos/p/23515659)
-2. [波次与技能更新](https://www.cnblogs.com/bridges/p/23515311)
-3. [从 0 搭建企业级 Vue3 权限路由与按钮级权限指令深度实践](https://www.cnblogs.com/yinjia/p/23508858)
-4. [以空间换时间：乒乓缓冲、速率匹配和异步隔离](https://www.cnblogs.com/zw-awa/p/23514614)
-5. [让 C# 读懂整张图：DeploySharp 驱动 PaddleOCR v4/v5/v6，打通 OCR 全流程](https://www.cnblogs.com/guojin-blogs/p/23513476)
-6. [汉字典籍关系库](https://www.cnblogs.com/Zhouyongh/p/23513102)
-7. [参考 VNCCS 人偶姿势实现「姿势迁移 + 人物一致性」原理解析](https://www.cnblogs.com/fs7744/p/23513403)
-8. [【ASP.NET Core】让 EF Core 生成更“合理”的 UPDATE 语句](https://www.cnblogs.com/tcjiaan/p/23513239)
-9. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
-10. [鸿蒙也能热更新了：uni-app WGT 热更新的真机结论、六道校验闸与五个深坑](https://www.cnblogs.com/xyyt/p/23512721)
-11. [Linux程序性能分析（二）--- 实例分析2（内核态）](https://www.cnblogs.com/Iflyinsky/p/23512613)
-12. [Session 已经持久化了，为什么还需要 Durable Execution？](https://www.cnblogs.com/OceanHeaven/p/23511825)
-13. [PostgreSQL 权限管理踩坑记：从 42501 到默认权限和 RLS](https://www.cnblogs.com/ayic/p/23509350)
-14. [GORM 简单使用实现:查询功能/添加功能/修改功能/删除功能](https://www.cnblogs.com/ishoulgodo/p/23511470)
-15. [用NI的数据采集卡实现简单电子测试之7——用“硬件计数器+软件定时”的方法实现测频率 [原创cnblogs.com/helesheng]](https://www.cnblogs.com/helesheng/p/23505214)
-16. [Redis 数据类型全解 - List：用对是队列用错是灾难（二）](https://www.cnblogs.com/hugogoos/p/23511095)
-17. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 4 篇 · 数据预处理源码走读：从原始信号到可训练样本](https://www.cnblogs.com/dawudexiaowu/p/23511679)
-18. [别再把密钥贴给 AI 了：用这个 .NET 开源库做你的“密钥安全管家”](https://www.cnblogs.com/chingho/p/23511268)
-19. [【轻量化复刻大模型】线性注意力交互式演示](https://www.cnblogs.com/rossiXYZ/p/23430661)
-20. [记忆系统原理与 RAG 实现 —— 给 AI 装上一套「会遗忘」的记忆](https://www.cnblogs.com/apachecn/p/23510600)
+1. [数字时钟系统标准化施工部署与进度管控方案](https://www.cnblogs.com/shijiantongbu/p/23517817)
+2. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
+3. [Redis 数据类型全解 - Hash 还是 String + JSON？一文终结存储选型之争（三）](https://www.cnblogs.com/hugogoos/p/23515659)
+4. [波次与技能更新](https://www.cnblogs.com/bridges/p/23515311)
+5. [从 0 搭建企业级 Vue3 权限路由与按钮级权限指令深度实践](https://www.cnblogs.com/yinjia/p/23508858)
+6. [以空间换时间：乒乓缓冲、速率匹配和异步隔离](https://www.cnblogs.com/zw-awa/p/23514614)
+7. [让 C# 读懂整张图：DeploySharp 驱动 PaddleOCR v4/v5/v6，打通 OCR 全流程](https://www.cnblogs.com/guojin-blogs/p/23513476)
+8. [汉字典籍关系库](https://www.cnblogs.com/Zhouyongh/p/23513102)
+9. [参考 VNCCS 人偶姿势实现「姿势迁移 + 人物一致性」原理解析](https://www.cnblogs.com/fs7744/p/23513403)
+10. [【ASP.NET Core】让 EF Core 生成更“合理”的 UPDATE 语句](https://www.cnblogs.com/tcjiaan/p/23513239)
+11. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
+12. [鸿蒙也能热更新了：uni-app WGT 热更新的真机结论、六道校验闸与五个深坑](https://www.cnblogs.com/xyyt/p/23512721)
+13. [Linux程序性能分析（二）--- 实例分析2（内核态）](https://www.cnblogs.com/Iflyinsky/p/23512613)
+14. [Session 已经持久化了，为什么还需要 Durable Execution？](https://www.cnblogs.com/OceanHeaven/p/23511825)
+15. [PostgreSQL 权限管理踩坑记：从 42501 到默认权限和 RLS](https://www.cnblogs.com/ayic/p/23509350)
+16. [GORM 简单使用实现:查询功能/添加功能/修改功能/删除功能](https://www.cnblogs.com/ishoulgodo/p/23511470)
+17. [用NI的数据采集卡实现简单电子测试之7——用“硬件计数器+软件定时”的方法实现测频率 [原创cnblogs.com/helesheng]](https://www.cnblogs.com/helesheng/p/23505214)
+18. [Redis 数据类型全解 - List：用对是队列用错是灾难（二）](https://www.cnblogs.com/hugogoos/p/23511095)
+19. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 4 篇 · 数据预处理源码走读：从原始信号到可训练样本](https://www.cnblogs.com/dawudexiaowu/p/23511679)
+20. [别再把密钥贴给 AI 了：用这个 .NET 开源库做你的“密钥安全管家”](https://www.cnblogs.com/chingho/p/23511268)
 
 ## 精华帖子
 
@@ -55,4 +55,4 @@
 3. [让 Agent 可靠运行：幂等、持久化与失败恢复](https://www.cnblogs.com/smartloli/p/23507748)
 4. [记忆系统原理与 RAG 实现 —— 给 AI 装上一套「会遗忘」的记忆](https://www.cnblogs.com/apachecn/p/23510600)
 5. [别再把密钥贴给 AI 了：用这个 .NET 开源库做你的“密钥安全管家”](https://www.cnblogs.com/chingho/p/23511268)
-6. [新项目首次提交 GitHub 报错“未配置远端 origin”怎么办](https://www.cnblogs.com/jyzhao/p/23503364)
+6. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
