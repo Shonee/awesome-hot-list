@@ -1,0 +1,143 @@
+# GitHub热榜
+
+> 更新时间：2026-11-01 23:47:54
+
+## 每日趋势
+
+1. [claude-mem](https://github.com/thedotmack/claude-mem)
+2. [browser](https://github.com/lightpanda-io/browser)
+3. [Kronos](https://github.com/shiyu-coder/Kronos)
+4. [t3code](https://github.com/pingdotgg/t3code)
+5. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+6. [public-apis](https://github.com/public-apis/public-apis)
+7. [Handy](https://github.com/cjpais/Handy)
+8. [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+9. [kornia](https://github.com/kornia/kornia)
+10. [AiSOC](https://github.com/beenuar/AiSOC)
+11. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+12. [hex](https://github.com/anomalyco/hex)
+13. [OpenBot](https://github.com/CopilotKit/OpenBot)
+14. [jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+15. [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+16. [FreeToken](https://github.com/FlashML-org/FreeToken)
+17. [Hyprland](https://github.com/hyprwm/Hyprland)
+
+## 每周趋势
+
+1. [hallmark](https://github.com/Nutlope/hallmark)
+2. [impeccable](https://github.com/pbakaus/impeccable)
+3. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
+4. [claude-mem](https://github.com/thedotmack/claude-mem)
+5. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+6. [superpowers](https://github.com/obra/superpowers)
+7. [thinkrail](https://github.com/JetBrains/thinkrail)
+8. [t3code](https://github.com/pingdotgg/t3code)
+9. [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+10. [skills](https://github.com/jakubkrehel/skills)
+11. [TradingAgents](https://github.com/TauricResearch/TradingAgents)
+12. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+13. [skills](https://github.com/anthropics/skills)
+14. [ECC](https://github.com/affaan-m/ECC)
+15. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+16. [ghostty](https://github.com/ghostty-org/ghostty)
+
+## 每月趋势
+
+1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+2. [hyperframes](https://github.com/heygen-com/hyperframes)
+3. [hallmark](https://github.com/Nutlope/hallmark)
+4. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+5. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+6. [impeccable](https://github.com/pbakaus/impeccable)
+7. [text-to-cad](https://github.com/earthtojake/text-to-cad)
+8. [claude-mem](https://github.com/thedotmack/claude-mem)
+9. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+10. [t3code](https://github.com/pingdotgg/t3code)
+11. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+12. [context-mode](https://github.com/mksglu/context-mode)
+13. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+14. [flutter](https://github.com/flutter/flutter)
+15. [plugins](https://github.com/cursor/plugins)
+16. [skills](https://github.com/android/skills)
+17. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
+18. [skills](https://github.com/vercel-labs/skills)
+19. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
+## Java
+
+1. [Java](https://github.com/TheAlgorithms/Java)
+2. [interviews](https://github.com/kdn251/interviews)
+3. [dependency-track](https://github.com/DependencyTrack/dependency-track)
+4. [cryptomator](https://github.com/cryptomator/cryptomator)
+5. [spring-framework](https://github.com/spring-projects/spring-framework)
+6. [nacos](https://github.com/alibaba/nacos)
+7. [jdk](https://github.com/openjdk/jdk)
+8. [elasticsearch](https://github.com/elastic/elasticsearch)
+9. [halo](https://github.com/halo-dev/halo)
+10. [LSPosed](https://github.com/LSPosed/LSPosed)
+11. [jenkins](https://github.com/jenkinsci/jenkins)
+12. [flink](https://github.com/apache/flink)
+13. [keycloak](https://github.com/keycloak/keycloak)
+14. [CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo)
+
+## Python
+
+1. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
+2. [TradingAgents](https://github.com/TauricResearch/TradingAgents)
+3. [skills](https://github.com/anthropics/skills)
+4. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+5. [skills](https://github.com/higgsfield-ai/skills)
+6. [AstrBot](https://github.com/AstrBotDevs/AstrBot)
+7. [spec-kit](https://github.com/github/spec-kit)
+8. [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+9. [graphify](https://github.com/Graphify-Labs/graphify)
+10. [humanizer](https://github.com/blader/humanizer)
+11. [DeepTutor](https://github.com/HKUDS/DeepTutor)
+12. [AiSOC](https://github.com/beenuar/AiSOC)
+
+## Go
+
+1. [multica](https://github.com/multica-ai/multica)
+2. [netbird](https://github.com/netbirdio/netbird)
+3. [compose](https://github.com/docker/compose)
+4. [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+5. [tailscale](https://github.com/tailscale/tailscale)
+6. [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
+7. [loki](https://github.com/grafana/loki)
+8. [cloudflared](https://github.com/cloudflare/cloudflared)
+9. [BillionMail](https://github.com/Billionmail/BillionMail)
+10. [ragflow](https://github.com/infiniflow/ragflow)
+11. [3x-ui](https://github.com/MHSanaei/3x-ui)
+12. [nomad](https://github.com/hashicorp/nomad)
+13. [superplane](https://github.com/superplanehq/superplane)
+14. [tinygo](https://github.com/tinygo-org/tinygo)
+15. [ollama](https://github.com/ollama/ollama)
+16. [frp](https://github.com/fatedier/frp)
+17. [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
+18. [hugo](https://github.com/gohugoio/hugo)
+19. [ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
+20. [new-api](https://github.com/QuantumNous/new-api)
+
+## HTML
+
+1. [free-for-dev](https://github.com/ripienaar/free-for-dev)
+2. [microduck-replica](https://github.com/fanhao375/microduck-replica)
+3. [galaxy](https://github.com/uiverse-io/galaxy)
+4. [baalda](https://github.com/naveedharri/baalda)
+5. [prompts.chat](https://github.com/f/prompts.chat)
+6. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+7. [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+8. [shiji-kb](https://github.com/baojie/shiji-kb)
+
+## JavaScript
+
+1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+2. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+3. [ECC](https://github.com/affaan-m/ECC)
+4. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+5. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+6. [marketingskills](https://github.com/coreyhaines31/marketingskills)
+7. [ego-lite](https://github.com/citrolabs/ego-lite)
+8. [anime](https://github.com/juliangarnier/anime)
+9. [Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
+10. [openwhispr](https://github.com/OpenWhispr/openwhispr)

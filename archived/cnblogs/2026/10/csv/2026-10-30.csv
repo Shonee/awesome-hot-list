@@ -1,0 +1,967 @@
+index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datetime
+1,"Dubbo 接口调试,不必再写临时代码,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+2,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+3,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+4,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+5,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+6,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+7,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+8,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+9,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+10,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+11,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+12,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+13,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+14,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+15,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+16,"AI 代码上线前，真正的瓶颈不在 ""写""，而在 ""验""",,,https://www.cnblogs.com/codigger/p/23475712,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+17,无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环,,,https://www.cnblogs.com/yuyisi/p/23471112,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+18,GGUF 量化内幕：第5章 Q8_0 与简单块家族,,,https://www.cnblogs.com/apachecn/p/23475518,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+19,制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳,,,https://www.cnblogs.com/shenchuanchao/p/23463567,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+20,浏览器如何导入自签证书：一份可操作的完整指南,,,https://www.cnblogs.com/jyzhao/p/23475499,,博客园,最新帖子,latest,hotlist,,2026-10-30 00:11:13
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 00:11:13
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 00:11:13
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 00:11:13
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 00:11:13
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 00:11:13
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 00:11:13
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 00:11:13
+1,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+2,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+3,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+4,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+5,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+6,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+7,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+8,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+9,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+10,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+11,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+12,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+13,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+14,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+15,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+16,"AI 代码上线前，真正的瓶颈不在 ""写""，而在 ""验""",,,https://www.cnblogs.com/codigger/p/23475712,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+17,无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环,,,https://www.cnblogs.com/yuyisi/p/23471112,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+18,GGUF 量化内幕：第5章 Q8_0 与简单块家族,,,https://www.cnblogs.com/apachecn/p/23475518,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+19,制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳,,,https://www.cnblogs.com/shenchuanchao/p/23463567,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+20,浏览器如何导入自签证书：一份可操作的完整指南,,,https://www.cnblogs.com/jyzhao/p/23475499,,博客园,最新帖子,latest,hotlist,,2026-10-30 01:09:04
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 01:09:04
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 01:09:04
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 01:09:04
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 01:09:04
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 01:09:04
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 01:09:04
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 01:09:04
+1,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+2,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+3,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+4,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+5,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+6,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+7,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+8,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+9,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+10,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+11,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+12,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+13,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+14,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+15,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+16,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+17,"AI 代码上线前，真正的瓶颈不在 ""写""，而在 ""验""",,,https://www.cnblogs.com/codigger/p/23475712,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+18,无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环,,,https://www.cnblogs.com/yuyisi/p/23471112,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+19,GGUF 量化内幕：第5章 Q8_0 与简单块家族,,,https://www.cnblogs.com/apachecn/p/23475518,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+20,制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳,,,https://www.cnblogs.com/shenchuanchao/p/23463567,,博客园,最新帖子,latest,hotlist,,2026-10-30 02:12:03
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 02:12:03
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 02:12:03
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 02:12:03
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 02:12:03
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 02:12:03
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 02:12:03
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 02:12:03
+1,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+2,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+3,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+4,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+5,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+6,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+7,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+8,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+9,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+10,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+11,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+12,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+13,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+14,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+15,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+16,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+17,"AI 代码上线前，真正的瓶颈不在 ""写""，而在 ""验""",,,https://www.cnblogs.com/codigger/p/23475712,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+18,无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环,,,https://www.cnblogs.com/yuyisi/p/23471112,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+19,GGUF 量化内幕：第5章 Q8_0 与简单块家族,,,https://www.cnblogs.com/apachecn/p/23475518,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+20,制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳,,,https://www.cnblogs.com/shenchuanchao/p/23463567,,博客园,最新帖子,latest,hotlist,,2026-10-30 03:08:41
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 03:08:41
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 03:08:41
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 03:08:41
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 03:08:41
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 03:08:41
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 03:08:41
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 03:08:41
+1,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+2,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+3,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+4,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+5,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+6,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+7,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+8,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+9,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+10,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+11,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+12,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+13,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+14,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+15,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+16,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+17,"AI 代码上线前，真正的瓶颈不在 ""写""，而在 ""验""",,,https://www.cnblogs.com/codigger/p/23475712,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+18,无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环,,,https://www.cnblogs.com/yuyisi/p/23471112,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+19,GGUF 量化内幕：第5章 Q8_0 与简单块家族,,,https://www.cnblogs.com/apachecn/p/23475518,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+20,制造业 ERP 物料建模：主料、辅料和 BOM 到底怎么拆才稳,,,https://www.cnblogs.com/shenchuanchao/p/23463567,,博客园,最新帖子,latest,hotlist,,2026-10-30 04:09:58
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 04:09:58
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 04:09:58
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 04:09:58
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 04:09:58
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 04:09:58
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 04:09:58
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 04:09:58
+1,《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录,,,https://www.cnblogs.com/apachecn/p/23489659,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+2,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+3,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+4,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+5,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+6,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+7,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+8,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+9,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+10,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+11,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+12,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+13,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+14,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+15,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+16,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+17,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+18,"AI 代码上线前，真正的瓶颈不在 ""写""，而在 ""验""",,,https://www.cnblogs.com/codigger/p/23475712,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+19,无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环,,,https://www.cnblogs.com/yuyisi/p/23471112,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+20,GGUF 量化内幕：第5章 Q8_0 与简单块家族,,,https://www.cnblogs.com/apachecn/p/23475518,,博客园,最新帖子,latest,hotlist,,2026-10-30 05:08:55
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 05:08:55
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 05:08:55
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 05:08:55
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 05:08:55
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 05:08:55
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 05:08:55
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 05:08:55
+1,《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录,,,https://www.cnblogs.com/apachecn/p/23489659,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+2,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+3,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+4,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+5,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+6,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+7,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+8,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+9,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+10,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+11,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+12,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+13,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+14,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+15,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+16,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+17,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+18,"AI 代码上线前，真正的瓶颈不在 ""写""，而在 ""验""",,,https://www.cnblogs.com/codigger/p/23475712,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+19,无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环,,,https://www.cnblogs.com/yuyisi/p/23471112,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+20,GGUF 量化内幕：第5章 Q8_0 与简单块家族,,,https://www.cnblogs.com/apachecn/p/23475518,,博客园,最新帖子,latest,hotlist,,2026-10-30 06:09:43
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 06:09:43
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 06:09:43
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 06:09:43
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 06:09:43
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 06:09:43
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 06:09:43
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 06:09:43
+1,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+2,《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录,,,https://www.cnblogs.com/apachecn/p/23489659,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+3,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+4,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+5,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+6,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+7,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+8,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+9,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+10,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+11,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+12,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+13,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+14,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+15,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+16,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+17,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+18,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+19,"AI 代码上线前，真正的瓶颈不在 ""写""，而在 ""验""",,,https://www.cnblogs.com/codigger/p/23475712,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+20,无责复盘为什么难：从一次超时配置错误，谈故障分析与整改闭环,,,https://www.cnblogs.com/yuyisi/p/23471112,,博客园,最新帖子,latest,hotlist,,2026-10-30 07:08:54
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 07:08:54
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 07:08:54
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 07:08:54
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 07:08:54
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 07:08:54
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 07:08:54
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 07:08:54
+1,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+2,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+3,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+4,《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录,,,https://www.cnblogs.com/apachecn/p/23489659,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+5,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+6,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+7,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+8,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+9,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+10,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+11,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+12,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+13,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+14,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+15,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+16,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+17,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+18,串口：一条调试信息是怎么从芯片出来的,,,https://www.cnblogs.com/zw-awa/p/23476896,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+19,MySQL主从同步常见报错、原理与故障处理手册,,,https://www.cnblogs.com/liuziyi1/p/23476482,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+20,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,最新帖子,latest,hotlist,,2026-10-30 08:24:44
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 08:24:44
+1,《HelloGitHub》第 127 期,,,https://www.cnblogs.com/xueweihan/p/23459802,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 08:24:44
+2,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 08:24:44
+3,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 08:24:44
+4,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 08:24:44
+5,用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名,,,https://www.cnblogs.com/jyzhao/p/23462475,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 08:24:44
+6,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 08:24:44
+1,Vue nextTick 到底在等什么？一篇讲透原理与那些年踩过的坑,,,https://www.cnblogs.com/codigger/p/23490432,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+2,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+3,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+4,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+5,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+6,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+7,《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录,,,https://www.cnblogs.com/apachecn/p/23489659,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+8,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+9,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+10,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+11,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+12,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+13,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+14,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+15,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+16,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+17,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+18,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+19,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+20,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,最新帖子,latest,hotlist,,2026-10-30 09:11:45
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 09:11:45
+1,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 09:11:45
+2,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 09:11:45
+3,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 09:11:45
+4,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 09:11:45
+5,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 09:11:45
+6,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 09:11:45
+1,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+2,Vue nextTick 到底在等什么？一篇讲透原理与那些年踩过的坑,,,https://www.cnblogs.com/codigger/p/23490432,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+3,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+4,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+5,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+6,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+7,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+8,《GGUF 量化内幕：块量化、K-quants、码本与三值量化》全文目录,,,https://www.cnblogs.com/apachecn/p/23489659,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+9,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+10,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+11,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+12,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+13,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+14,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+15,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+16,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+17,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+18,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+19,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+20,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 10:12:50
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 10:12:50
+1,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 10:12:50
+2,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 10:12:50
+3,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 10:12:50
+4,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 10:12:50
+5,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 10:12:50
+6,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 10:12:50
+1,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+2,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+3,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+4,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+5,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+6,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+7,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+8,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+9,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+10,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+11,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+12,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+13,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+14,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+15,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+16,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+17,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+18,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+19,用Python DSL 写轻量数据质检工具,,,https://www.cnblogs.com/wang_yb/p/23481920,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+20,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,最新帖子,latest,hotlist,,2026-10-30 11:11:40
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 11:11:40
+1,太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23462657,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 11:11:40
+2,100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了,,,https://www.cnblogs.com/zrui-xyu/p/23463651,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 11:11:40
+3,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 11:11:40
+4,"前端没有被杀死，被杀死的是""只会把设计稿变成页面""",,,https://www.cnblogs.com/codigger/p/23464752,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 11:11:40
+5,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 11:11:40
+6,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 11:11:40
+1,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+2,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+3,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+4,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+5,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+6,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+7,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+8,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+9,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+10,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+11,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+12,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+13,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+14,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+15,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+16,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+17,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+18,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+19,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+20,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 12:11:15
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 12:11:15
+1,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 12:11:15
+2,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 12:11:15
+3,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 12:11:15
+4,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 12:11:15
+5,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 12:11:15
+6,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 12:11:15
+1,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+2,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+3,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+4,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+5,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+6,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+7,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+8,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+9,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+10,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+11,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+12,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+13,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+14,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+15,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+16,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+17,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+18,重新理解 RankMixer：扩参为什么有效，又为什么划算？,,,https://www.cnblogs.com/GlenTt/p/23483025,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+19,没有 Mac 版客户端，我拿 Windows 做了台跳板机,,,https://www.cnblogs.com/liuzhang/p/23482978,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+20,Agent Swarm：让组织与经验一起生长,,,https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm,,博客园,最新帖子,latest,hotlist,,2026-10-30 13:09:29
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 13:09:29
+1,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 13:09:29
+2,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 13:09:29
+3,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 13:09:29
+4,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 13:09:29
+5,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 13:09:29
+6,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 13:09:29
+1,交互题 Special Judge 自测方式,,,https://www.cnblogs.com/xtll127/p/23494397,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+2,Day07 · 字符串（一）,,,https://www.cnblogs.com/xiaojiaxuezhang/p/23494503,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+3,从 printf 到曲线：把数据送上 VOFA+,,,https://www.cnblogs.com/zw-awa/p/23494308,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+4,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+5,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+6,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+7,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+8,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+9,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+10,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+11,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+12,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+13,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+14,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+15,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+16,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+17,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+18,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+19,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+20,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 14:16:29
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 14:16:29
+1,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 14:16:29
+2,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 14:16:29
+3,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 14:16:29
+4,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 14:16:29
+5,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 14:16:29
+6,从知识沉淀到编程范式：AI Coding 项目冷启动落地实践,,,https://www.cnblogs.com/vivotech/p/23478254,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 14:16:29
+1,小红书视频解析下载实测：不装App，网页粘贴链接直接存MP4,,,https://www.cnblogs.com/brilliancedad/p/23495477,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+2,Day07 · 字符串（一）,,,https://www.cnblogs.com/xiaojiaxuezhang/p/23494503,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+3,从 printf 到曲线：把数据送上 VOFA+,,,https://www.cnblogs.com/zw-awa/p/23494308,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+4,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+5,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+6,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+7,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+8,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+9,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+10,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+11,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+12,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+13,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+14,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+15,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+16,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+17,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+18,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+19,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+20,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 15:10:21
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 15:10:21
+1,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 15:10:21
+2,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 15:10:21
+3,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 15:10:21
+4,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 15:10:21
+5,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 15:10:21
+6,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 15:10:21
+1,一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器,,,https://www.cnblogs.com/ryzen/p/23496525,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+2,Day07 · 字符串（一）,,,https://www.cnblogs.com/xiaojiaxuezhang/p/23494503,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+3,从 printf 到曲线：把数据送上 VOFA+,,,https://www.cnblogs.com/zw-awa/p/23494308,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+4,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+5,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+6,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+7,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+8,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+9,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+10,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+11,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+12,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+13,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+14,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+15,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+16,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+17,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+18,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+19,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+20,Agent 支线知识：Personal Agent 如何理解个人意图？,,,https://www.cnblogs.com/Qiniu-developer/p/23483548,,博客园,最新帖子,latest,hotlist,,2026-10-30 16:12:46
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 16:12:46
+1,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 16:12:46
+2,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 16:12:46
+3,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 16:12:46
+4,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 16:12:46
+5,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 16:12:46
+6,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 16:12:46
+1,分享一个oracle全版本的RAC部署脚本,,,https://www.cnblogs.com/liuziyi1/p/23497604,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+2,如何使用RDS Supabase后端BaaS能力：文件存储（File Storage）,,,https://www.cnblogs.com/huaweiyun/p/23497491,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+3,一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器,,,https://www.cnblogs.com/ryzen/p/23496525,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+4,Day07 · 字符串（一）,,,https://www.cnblogs.com/xiaojiaxuezhang/p/23494503,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+5,从 printf 到曲线：把数据送上 VOFA+,,,https://www.cnblogs.com/zw-awa/p/23494308,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+6,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+7,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+8,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+9,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+10,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+11,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+12,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+13,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+14,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+15,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+16,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+17,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+18,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+19,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+20,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 17:10:49
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 17:10:49
+1,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 17:10:49
+2,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 17:10:49
+3,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 17:10:49
+4,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 17:10:49
+5,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 17:10:49
+6,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 17:10:49
+1,如何使用RDS Supabase后端BaaS能力：文件存储（File Storage）,,,https://www.cnblogs.com/huaweiyun/p/23497491,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+2,一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器,,,https://www.cnblogs.com/ryzen/p/23496525,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+3,Day07 · 字符串（一）,,,https://www.cnblogs.com/xiaojiaxuezhang/p/23494503,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+4,从 printf 到曲线：把数据送上 VOFA+,,,https://www.cnblogs.com/zw-awa/p/23494308,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+5,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+6,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+7,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+8,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+9,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+10,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+11,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+12,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+13,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+14,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+15,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+16,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+17,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+18,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+19,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+20,AI Agent如何通过MCP连接到华为云RDS Supabase应用平台,,,https://www.cnblogs.com/huaweiyun/p/23484548,,博客园,最新帖子,latest,hotlist,,2026-10-30 18:09:29
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 18:09:29
+1,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 18:09:29
+2,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 18:09:29
+3,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 18:09:29
+4,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 18:09:29
+5,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 18:09:29
+6,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 18:09:29
+1,AI 编码工具默认给 Agent 多大权限？三家差在这三处,,,https://www.cnblogs.com/uniqueDong/p/23498661,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+2,如何使用RDS Supabase后端BaaS能力：文件存储（File Storage）,,,https://www.cnblogs.com/huaweiyun/p/23497491,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+3,一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器,,,https://www.cnblogs.com/ryzen/p/23496525,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+4,Day07 · 字符串（一）,,,https://www.cnblogs.com/xiaojiaxuezhang/p/23494503,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+5,从 printf 到曲线：把数据送上 VOFA+,,,https://www.cnblogs.com/zw-awa/p/23494308,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+6,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+7,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+8,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+9,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+10,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+11,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+12,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+13,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+14,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+15,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+16,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+17,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+18,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+19,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+20,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 19:09:05
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 19:09:05
+1,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 19:09:05
+2,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 19:09:05
+3,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 19:09:05
+4,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 19:09:05
+5,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 19:09:05
+6,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 19:09:05
+1,AI 编码工具默认给 Agent 多大权限？三家差在这三处,,,https://www.cnblogs.com/uniqueDong/p/23498661,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+2,如何使用RDS Supabase后端BaaS能力：文件存储（File Storage）,,,https://www.cnblogs.com/huaweiyun/p/23497491,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+3,一款基于Avalonia跨平台不联网免费且轻量的Pdf阅读器,,,https://www.cnblogs.com/ryzen/p/23496525,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+4,Day07 · 字符串（一）,,,https://www.cnblogs.com/xiaojiaxuezhang/p/23494503,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+5,从 printf 到曲线：把数据送上 VOFA+,,,https://www.cnblogs.com/zw-awa/p/23494308,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+6,面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单,,,https://www.cnblogs.com/zrui-xyu/p/23493448,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+7,EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布）,,,https://www.cnblogs.com/donpangpang/p/23493082,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+8,Hermes：把学习写进文件，把知识变成技能,,,https://www.cnblogs.com/xianxh/p/23491742,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+9,MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官）,,,https://www.cnblogs.com/hugogoos/p/23479286,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+10,GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！,,,https://www.cnblogs.com/jinjiangongzuoshi/p/23490370,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+11,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+12,DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单,,,https://www.cnblogs.com/guojin-blogs/p/23490160,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+13,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+14,访问可信人项目时，如何信任 HTTPS 证书？,,,https://www.cnblogs.com/jyzhao/p/23490019,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+15,把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘,,,https://www.cnblogs.com/znlgis/p/23489729,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+16,LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变,,,https://www.cnblogs.com/moonout/p/23488736,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+17,"Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP",,,https://www.cnblogs.com/lulianqi/p/23483822,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+18,用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录,,,https://www.cnblogs.com/wyang/p/23487396,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+19,【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理,,,https://www.cnblogs.com/rossiXYZ/p/23430544,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+20,P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解,,,https://www.cnblogs.com/lvwangshuOI/p/23485788,,博客园,最新帖子,latest,hotlist,,2026-10-30 20:14:26
+1,一切都会回潮-写在一个职业周期的低处,,,https://www.cnblogs.com/yuyisi/p/23058239,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+2,Memory 记忆设计讨论：Agent Memory 到底应该是什么？,,,https://www.cnblogs.com/duwenlong/p/22879534,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+3,AI Coding 蜜月期之后，我们重新思考了 AI 提效,,,https://www.cnblogs.com/DolphinDB/p/22733056,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+4,具身智能运动控制与软件栈：你的代码只活在中间件之上,,,https://www.cnblogs.com/zer0Black/p/22630128,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+5,.NET 11 Runtime Async 详解,,,https://www.cnblogs.com/hez2010/p/22380086/runtime-async-in-dotnet-11,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+6,在 .NET 上构建超大托管数组,,,https://www.cnblogs.com/hez2010/p/20979630/build-a-very-large-array-in-dotnet,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+7,代码是 AI 写的，生产事故谁背锅？,,,https://www.cnblogs.com/Zhang-Xiang/p/20028472,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+8,别再吹牛了，100% Vibe Coding 存在无法自洽的逻辑漏洞！,,,https://www.cnblogs.com/mengxiang2/p/19796426,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+9,Pretext：值得关注的文本排版引擎,,,https://www.cnblogs.com/guangzan/p/19796050,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+10,"AI 会取代我们吗？——它不懂""孤独""是什么意思",,,https://www.cnblogs.com/wmyskxz/p/19732753,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+11,AI 写代码有多厉害？——快了 55%，但错多了 75%,,,https://www.cnblogs.com/wmyskxz/p/19715309,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+12,OpenClaw 技术解构：从 WhatsApp 聊天机器人到 AI 操作系统,,,https://www.cnblogs.com/powertoolsteam/p/19688243,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+13,这才是未来的“openclaw”,,,https://www.cnblogs.com/tlink/p/19683900,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+14,AI到底聪明在哪——从手机人脸识别说起,,,https://www.cnblogs.com/wmyskxz/p/19607323,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+15,大模型RAG实战，从被骂不靠谱到成为部门MVP，这是我的踩坑全记录,,,https://www.cnblogs.com/bu-huo/p/19601644,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+16,从Prompt工程到Skill工程：Agent Skills开放标准彻底改变了AI协作方式,,,https://www.cnblogs.com/zlt2000/p/19577443,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+17,基于NetCorePal Cloud Framework的DDD架构管理系统实践,,,https://www.cnblogs.com/aishangyipiyema/p/19499381,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+18,为什么说 IO 操作异步才有意义,,,https://www.cnblogs.com/kklldog/p/19449864,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+19,2025 年终总结｜30岁,,,https://www.cnblogs.com/liyq666/p/19427476,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+20,Keepalived详解：原理、编译安装与高可用集群配置,,,https://www.cnblogs.com/ydswin/p/19326078,,博客园,精华帖子,picks,hotlist,,2026-10-30 20:14:26
+1,SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快,,,https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 20:14:26
+2,.NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务,,,https://www.cnblogs.com/lulianqi/p/23472985,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 20:14:26
+3,.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键,,,https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 20:14:26
+4,这款Avalonia写的格式转换神器治好了我多年的格式焦虑,,,https://www.cnblogs.com/MrHuo/p/23475909/filee,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 20:14:26
+5,你的 Excel 为什么越来越慢？可能是这几个地方出了问题,,,https://www.cnblogs.com/powertoolsteam/p/23477024,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 20:14:26
+6,c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪,,,https://www.cnblogs.com/axing/p/23473791,,博客园,48 小时阅读排行,reading-48h,hotlist,,2026-10-30 20:14:26
