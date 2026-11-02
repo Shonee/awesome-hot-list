@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-02 12:40:01
+> 更新时间：2026-11-02 21:08:36
 
 ## 最新帖子
 
-1. [13个ArkTS字符串方法，3分钟速通](https://www.cnblogs.com/halfcode/p/23520917)
-2. [上周热点回顾（10.26-11.1）](https://www.cnblogs.com/cmt/p/23520617)
-3. [可能是最现代化的微信生态 .NET 服务端 SDK](https://www.cnblogs.com/mudtools/p/23520623)
-4. [同一个端口能不能被两个程序同时监听？](https://www.cnblogs.com/codigger/p/23519349)
-5. [我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货](https://www.cnblogs.com/zrui-xyu/p/23518998)
-6. [从 axios 写法到服务端治理：AxiosNet 与 HttpClient / Refit / RestSharp / Flurl 的横向对比](https://www.cnblogs.com/sunyuliang/p/23518941)
-7. [如何打造AI助理（一）](https://www.cnblogs.com/kexxxfeng/p/23508520)
-8. [Jenkins CI 流水线优化实践：基于提交指纹的任务缓存](https://www.cnblogs.com/exioran/p/23518629)
-9. [凌晨三点，磁盘又双叒满了：一个脚本，把 LVM 扩容的坑全填了](https://www.cnblogs.com/liuziyi1/p/23518428)
-10. [AI时代，软件测试工程师的价值是什么？](https://www.cnblogs.com/jinjiangongzuoshi/p/23517955)
-11. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
-12. [CSP-S 2026 游记](https://www.cnblogs.com/Twightsetsun/p/23517937)
-13. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
-14. [Redis 数据类型全解 - Hash 还是 String + JSON？一文终结存储选型之争（三）](https://www.cnblogs.com/hugogoos/p/23515659)
-15. [从 0 搭建企业级 Vue3 权限路由与按钮级权限指令深度实践](https://www.cnblogs.com/yinjia/p/23508858)
-16. [以空间换时间：乒乓缓冲、速率匹配和异步隔离](https://www.cnblogs.com/zw-awa/p/23514614)
-17. [让 C# 读懂整张图：DeploySharp 驱动 PaddleOCR v4/v5/v6，打通 OCR 全流程](https://www.cnblogs.com/guojin-blogs/p/23513476)
-18. [汉字典籍关系库](https://www.cnblogs.com/Zhouyongh/p/23513102)
-19. [参考 VNCCS 人偶姿势实现「姿势迁移 + 人物一致性」原理解析](https://www.cnblogs.com/fs7744/p/23513403)
-20. [【ASP.NET Core】让 EF Core 生成更“合理”的 UPDATE 语句](https://www.cnblogs.com/tcjiaan/p/23513239)
+1. [【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘](https://www.cnblogs.com/rossiXYZ/p/23505056)
+2. [gorm中为啥SQL语句是片段](https://www.cnblogs.com/ishoulgodo/p/23526539)
+3. [Excel 批量处理工具：同名表合并、双表匹配与多文件工作簿整合实战](https://www.cnblogs.com/zhangjun9740/p/23526504)
+4. [百亿数据写入 MySQL：空间降维 × IO 降维 × 工程兜底](https://www.cnblogs.com/hugogoos/p/23522225)
+5. [百万订单踩坑记——我注释了财务流水](https://www.cnblogs.com/liuzhang/p/23525778)
+6. [Attention 演进路线：5 大阶段，11 篇奠基论文](https://www.cnblogs.com/aifrontiers/p/23525741)
+7. [abp学习笔记 - 工作单元保存时机](https://www.cnblogs.com/lmy5215006/p/23397869)
+8. [Pandas 与 Polars：语法、性能和资源占用方面的对比](https://www.cnblogs.com/wang_yb/p/23525611)
+9. [开发基于ComfyUI图片生成类应用Step by step（一）环境准备](https://www.cnblogs.com/zhenl/p/23525312)
+10. [从 Meta 的工程实践看 EB 级 AI 存储架构](https://www.cnblogs.com/JuiceData/p/23525247)
+11. [笔记本塞进包里就发烫掉电？罪魁祸首是「现代待机」](https://www.cnblogs.com/ydswin/p/23524664)
+12. [AI Agent 的安全风险，正在从 Prompt 扩展到运行环境](https://www.cnblogs.com/Qiniu-developer/p/23524220)
+13. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 5 篇 · 随机森林实战：传统方法为什么也要做](https://www.cnblogs.com/dawudexiaowu/p/23523984)
+14. [串口命令如何从字符串长成协议：帧头、长度、校验和与状态机](https://www.cnblogs.com/zw-awa/p/23523405)
+15. [# [CSP-S 2026] 迁徙 / migrate 题解](https://www.cnblogs.com/Zhangshujun/p/23523188)
+16. [RAG向量库拆分复盘：内存、延迟与权限的三笔账](https://www.cnblogs.com/dicengwanjialaozhang/p/23522949)
+17. [四、Pandas数据处理](https://www.cnblogs.com/clover-1105/p/23522159)
+18. [从0搭建企业级知识库-技术指南](https://www.cnblogs.com/jajian/p/23522320)
+19. [【多目标优化算法】-基于遗传算法的NSGA-II算法](https://www.cnblogs.com/yixiku/p/23522189)
+20. [13个ArkTS字符串方法，3分钟速通](https://www.cnblogs.com/halfcode/p/23520917)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
 2. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
-3. [别再把密钥贴给 AI 了：用这个 .NET 开源库做你的“密钥安全管家”](https://www.cnblogs.com/chingho/p/23511268)
-4. [KNX 照明系统原理与基于 KNX.net 的开发示例：从组地址到开关灯](https://www.cnblogs.com/ayic/p/23472866)
-5. [【ASP.NET Core】让 EF Core 生成更“合理”的 UPDATE 语句](https://www.cnblogs.com/tcjiaan/p/23513239)
-6. [记忆系统原理与 RAG 实现 —— 给 AI 装上一套「会遗忘」的记忆](https://www.cnblogs.com/apachecn/p/23510600)
+3. [我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货](https://www.cnblogs.com/zrui-xyu/p/23518998)
+4. [同一个端口能不能被两个程序同时监听？](https://www.cnblogs.com/codigger/p/23519349)
+5. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
+6. [上周热点回顾（10.26-11.1）](https://www.cnblogs.com/cmt/p/23520617)
