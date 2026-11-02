@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-02 07:47:05
+> 更新时间：2026-11-02 12:40:01
 
 ## 最新帖子
 
-1. [数字时钟系统标准化施工部署与进度管控方案](https://www.cnblogs.com/shijiantongbu/p/23517817)
-2. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
-3. [Redis 数据类型全解 - Hash 还是 String + JSON？一文终结存储选型之争（三）](https://www.cnblogs.com/hugogoos/p/23515659)
-4. [波次与技能更新](https://www.cnblogs.com/bridges/p/23515311)
-5. [从 0 搭建企业级 Vue3 权限路由与按钮级权限指令深度实践](https://www.cnblogs.com/yinjia/p/23508858)
-6. [以空间换时间：乒乓缓冲、速率匹配和异步隔离](https://www.cnblogs.com/zw-awa/p/23514614)
-7. [让 C# 读懂整张图：DeploySharp 驱动 PaddleOCR v4/v5/v6，打通 OCR 全流程](https://www.cnblogs.com/guojin-blogs/p/23513476)
-8. [汉字典籍关系库](https://www.cnblogs.com/Zhouyongh/p/23513102)
-9. [参考 VNCCS 人偶姿势实现「姿势迁移 + 人物一致性」原理解析](https://www.cnblogs.com/fs7744/p/23513403)
-10. [【ASP.NET Core】让 EF Core 生成更“合理”的 UPDATE 语句](https://www.cnblogs.com/tcjiaan/p/23513239)
-11. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
-12. [鸿蒙也能热更新了：uni-app WGT 热更新的真机结论、六道校验闸与五个深坑](https://www.cnblogs.com/xyyt/p/23512721)
-13. [Linux程序性能分析（二）--- 实例分析2（内核态）](https://www.cnblogs.com/Iflyinsky/p/23512613)
-14. [Session 已经持久化了，为什么还需要 Durable Execution？](https://www.cnblogs.com/OceanHeaven/p/23511825)
-15. [PostgreSQL 权限管理踩坑记：从 42501 到默认权限和 RLS](https://www.cnblogs.com/ayic/p/23509350)
-16. [GORM 简单使用实现:查询功能/添加功能/修改功能/删除功能](https://www.cnblogs.com/ishoulgodo/p/23511470)
-17. [用NI的数据采集卡实现简单电子测试之7——用“硬件计数器+软件定时”的方法实现测频率 [原创cnblogs.com/helesheng]](https://www.cnblogs.com/helesheng/p/23505214)
-18. [Redis 数据类型全解 - List：用对是队列用错是灾难（二）](https://www.cnblogs.com/hugogoos/p/23511095)
-19. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 4 篇 · 数据预处理源码走读：从原始信号到可训练样本](https://www.cnblogs.com/dawudexiaowu/p/23511679)
-20. [别再把密钥贴给 AI 了：用这个 .NET 开源库做你的“密钥安全管家”](https://www.cnblogs.com/chingho/p/23511268)
+1. [13个ArkTS字符串方法，3分钟速通](https://www.cnblogs.com/halfcode/p/23520917)
+2. [上周热点回顾（10.26-11.1）](https://www.cnblogs.com/cmt/p/23520617)
+3. [可能是最现代化的微信生态 .NET 服务端 SDK](https://www.cnblogs.com/mudtools/p/23520623)
+4. [同一个端口能不能被两个程序同时监听？](https://www.cnblogs.com/codigger/p/23519349)
+5. [我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货](https://www.cnblogs.com/zrui-xyu/p/23518998)
+6. [从 axios 写法到服务端治理：AxiosNet 与 HttpClient / Refit / RestSharp / Flurl 的横向对比](https://www.cnblogs.com/sunyuliang/p/23518941)
+7. [如何打造AI助理（一）](https://www.cnblogs.com/kexxxfeng/p/23508520)
+8. [Jenkins CI 流水线优化实践：基于提交指纹的任务缓存](https://www.cnblogs.com/exioran/p/23518629)
+9. [凌晨三点，磁盘又双叒满了：一个脚本，把 LVM 扩容的坑全填了](https://www.cnblogs.com/liuziyi1/p/23518428)
+10. [AI时代，软件测试工程师的价值是什么？](https://www.cnblogs.com/jinjiangongzuoshi/p/23517955)
+11. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
+12. [CSP-S 2026 游记](https://www.cnblogs.com/Twightsetsun/p/23517937)
+13. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
+14. [Redis 数据类型全解 - Hash 还是 String + JSON？一文终结存储选型之争（三）](https://www.cnblogs.com/hugogoos/p/23515659)
+15. [从 0 搭建企业级 Vue3 权限路由与按钮级权限指令深度实践](https://www.cnblogs.com/yinjia/p/23508858)
+16. [以空间换时间：乒乓缓冲、速率匹配和异步隔离](https://www.cnblogs.com/zw-awa/p/23514614)
+17. [让 C# 读懂整张图：DeploySharp 驱动 PaddleOCR v4/v5/v6，打通 OCR 全流程](https://www.cnblogs.com/guojin-blogs/p/23513476)
+18. [汉字典籍关系库](https://www.cnblogs.com/Zhouyongh/p/23513102)
+19. [参考 VNCCS 人偶姿势实现「姿势迁移 + 人物一致性」原理解析](https://www.cnblogs.com/fs7744/p/23513403)
+20. [【ASP.NET Core】让 EF Core 生成更“合理”的 UPDATE 语句](https://www.cnblogs.com/tcjiaan/p/23513239)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [把 2,082 个测试守着的 Python 语音智能体搬进 C#，怎么证明「搬对了」](https://www.cnblogs.com/shanyou/p/23504329)
-2. [KNX 照明系统原理与基于 KNX.net 的开发示例：从组地址到开关灯](https://www.cnblogs.com/ayic/p/23472866)
-3. [让 Agent 可靠运行：幂等、持久化与失败恢复](https://www.cnblogs.com/smartloli/p/23507748)
-4. [记忆系统原理与 RAG 实现 —— 给 AI 装上一套「会遗忘」的记忆](https://www.cnblogs.com/apachecn/p/23510600)
-5. [别再把密钥贴给 AI 了：用这个 .NET 开源库做你的“密钥安全管家”](https://www.cnblogs.com/chingho/p/23511268)
-6. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
+1. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
+2. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
+3. [别再把密钥贴给 AI 了：用这个 .NET 开源库做你的“密钥安全管家”](https://www.cnblogs.com/chingho/p/23511268)
+4. [KNX 照明系统原理与基于 KNX.net 的开发示例：从组地址到开关灯](https://www.cnblogs.com/ayic/p/23472866)
+5. [【ASP.NET Core】让 EF Core 生成更“合理”的 UPDATE 语句](https://www.cnblogs.com/tcjiaan/p/23513239)
+6. [记忆系统原理与 RAG 实现 —— 给 AI 装上一套「会遗忘」的记忆](https://www.cnblogs.com/apachecn/p/23510600)
