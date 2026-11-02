@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-02 21:08:36
+> 更新时间：2026-11-03 06:25:23
 
 ## 最新帖子
 
-1. [【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘](https://www.cnblogs.com/rossiXYZ/p/23505056)
-2. [gorm中为啥SQL语句是片段](https://www.cnblogs.com/ishoulgodo/p/23526539)
-3. [Excel 批量处理工具：同名表合并、双表匹配与多文件工作簿整合实战](https://www.cnblogs.com/zhangjun9740/p/23526504)
-4. [百亿数据写入 MySQL：空间降维 × IO 降维 × 工程兜底](https://www.cnblogs.com/hugogoos/p/23522225)
-5. [百万订单踩坑记——我注释了财务流水](https://www.cnblogs.com/liuzhang/p/23525778)
-6. [Attention 演进路线：5 大阶段，11 篇奠基论文](https://www.cnblogs.com/aifrontiers/p/23525741)
-7. [abp学习笔记 - 工作单元保存时机](https://www.cnblogs.com/lmy5215006/p/23397869)
-8. [Pandas 与 Polars：语法、性能和资源占用方面的对比](https://www.cnblogs.com/wang_yb/p/23525611)
-9. [开发基于ComfyUI图片生成类应用Step by step（一）环境准备](https://www.cnblogs.com/zhenl/p/23525312)
-10. [从 Meta 的工程实践看 EB 级 AI 存储架构](https://www.cnblogs.com/JuiceData/p/23525247)
-11. [笔记本塞进包里就发烫掉电？罪魁祸首是「现代待机」](https://www.cnblogs.com/ydswin/p/23524664)
-12. [AI Agent 的安全风险，正在从 Prompt 扩展到运行环境](https://www.cnblogs.com/Qiniu-developer/p/23524220)
-13. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 5 篇 · 随机森林实战：传统方法为什么也要做](https://www.cnblogs.com/dawudexiaowu/p/23523984)
-14. [串口命令如何从字符串长成协议：帧头、长度、校验和与状态机](https://www.cnblogs.com/zw-awa/p/23523405)
-15. [# [CSP-S 2026] 迁徙 / migrate 题解](https://www.cnblogs.com/Zhangshujun/p/23523188)
-16. [RAG向量库拆分复盘：内存、延迟与权限的三笔账](https://www.cnblogs.com/dicengwanjialaozhang/p/23522949)
-17. [四、Pandas数据处理](https://www.cnblogs.com/clover-1105/p/23522159)
-18. [从0搭建企业级知识库-技术指南](https://www.cnblogs.com/jajian/p/23522320)
-19. [【多目标优化算法】-基于遗传算法的NSGA-II算法](https://www.cnblogs.com/yixiku/p/23522189)
-20. [13个ArkTS字符串方法，3分钟速通](https://www.cnblogs.com/halfcode/p/23520917)
+1. [许愿式编程：我把 Typability 改成了能日常顶替 Typora 的样子](https://www.cnblogs.com/towerbit/p/23527505)
+2. [我做了一个贴在屏幕边上的待办](https://www.cnblogs.com/handsometaoa/p/23527580)
+3. [【IDL】基于ENVIRaster（OPENRaster)的Himawari数据几何校正](https://www.cnblogs.com/gaogao-web/p/23527137)
+4. [阅境｜让知识更好读](https://www.cnblogs.com/GlenTt/p/23526962)
+5. [【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘](https://www.cnblogs.com/rossiXYZ/p/23505056)
+6. [gorm中为啥SQL语句是片段](https://www.cnblogs.com/ishoulgodo/p/23526539)
+7. [百亿数据写入 MySQL：空间降维 × IO 降维 × 工程兜底](https://www.cnblogs.com/hugogoos/p/23522225)
+8. [百万订单踩坑记——我注释了财务流水](https://www.cnblogs.com/liuzhang/p/23525778)
+9. [Attention 演进路线：5 大阶段，11 篇奠基论文](https://www.cnblogs.com/aifrontiers/p/23525741)
+10. [abp学习笔记 - 工作单元保存时机](https://www.cnblogs.com/lmy5215006/p/23397869)
+11. [Pandas 与 Polars：语法、性能和资源占用方面的对比](https://www.cnblogs.com/wang_yb/p/23525611)
+12. [开发基于ComfyUI图片生成类应用Step by step（一）环境准备](https://www.cnblogs.com/zhenl/p/23525312)
+13. [从 Meta 的工程实践看 EB 级 AI 存储架构](https://www.cnblogs.com/JuiceData/p/23525247)
+14. [笔记本塞进包里就发烫掉电？罪魁祸首是「现代待机」](https://www.cnblogs.com/ydswin/p/23524664)
+15. [AI Agent 的安全风险，正在从 Prompt 扩展到运行环境](https://www.cnblogs.com/Qiniu-developer/p/23524220)
+16. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 5 篇 · 随机森林实战：传统方法为什么也要做](https://www.cnblogs.com/dawudexiaowu/p/23523984)
+17. [串口命令如何从字符串长成协议：帧头、长度、校验和与状态机](https://www.cnblogs.com/zw-awa/p/23523405)
+18. [# [CSP-S 2026] 迁徙 / migrate 题解](https://www.cnblogs.com/Zhangshujun/p/23523188)
+19. [RAG向量库拆分复盘：内存、延迟与权限的三笔账](https://www.cnblogs.com/dicengwanjialaozhang/p/23522949)
+20. [四、Pandas数据处理](https://www.cnblogs.com/clover-1105/p/23522159)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
-2. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
-3. [我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货](https://www.cnblogs.com/zrui-xyu/p/23518998)
+2. [我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货](https://www.cnblogs.com/zrui-xyu/p/23518998)
+3. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
 4. [同一个端口能不能被两个程序同时监听？](https://www.cnblogs.com/codigger/p/23519349)
 5. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
 6. [上周热点回顾（10.26-11.1）](https://www.cnblogs.com/cmt/p/23520617)
