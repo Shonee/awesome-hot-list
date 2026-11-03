@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-03 06:25:23
+> 更新时间：2026-11-03 11:36:51
 
 ## 最新帖子
 
-1. [许愿式编程：我把 Typability 改成了能日常顶替 Typora 的样子](https://www.cnblogs.com/towerbit/p/23527505)
-2. [我做了一个贴在屏幕边上的待办](https://www.cnblogs.com/handsometaoa/p/23527580)
-3. [【IDL】基于ENVIRaster（OPENRaster)的Himawari数据几何校正](https://www.cnblogs.com/gaogao-web/p/23527137)
-4. [阅境｜让知识更好读](https://www.cnblogs.com/GlenTt/p/23526962)
-5. [【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘](https://www.cnblogs.com/rossiXYZ/p/23505056)
-6. [gorm中为啥SQL语句是片段](https://www.cnblogs.com/ishoulgodo/p/23526539)
-7. [百亿数据写入 MySQL：空间降维 × IO 降维 × 工程兜底](https://www.cnblogs.com/hugogoos/p/23522225)
-8. [百万订单踩坑记——我注释了财务流水](https://www.cnblogs.com/liuzhang/p/23525778)
-9. [Attention 演进路线：5 大阶段，11 篇奠基论文](https://www.cnblogs.com/aifrontiers/p/23525741)
-10. [abp学习笔记 - 工作单元保存时机](https://www.cnblogs.com/lmy5215006/p/23397869)
-11. [Pandas 与 Polars：语法、性能和资源占用方面的对比](https://www.cnblogs.com/wang_yb/p/23525611)
-12. [开发基于ComfyUI图片生成类应用Step by step（一）环境准备](https://www.cnblogs.com/zhenl/p/23525312)
-13. [从 Meta 的工程实践看 EB 级 AI 存储架构](https://www.cnblogs.com/JuiceData/p/23525247)
-14. [笔记本塞进包里就发烫掉电？罪魁祸首是「现代待机」](https://www.cnblogs.com/ydswin/p/23524664)
-15. [AI Agent 的安全风险，正在从 Prompt 扩展到运行环境](https://www.cnblogs.com/Qiniu-developer/p/23524220)
-16. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 5 篇 · 随机森林实战：传统方法为什么也要做](https://www.cnblogs.com/dawudexiaowu/p/23523984)
-17. [串口命令如何从字符串长成协议：帧头、长度、校验和与状态机](https://www.cnblogs.com/zw-awa/p/23523405)
-18. [# [CSP-S 2026] 迁徙 / migrate 题解](https://www.cnblogs.com/Zhangshujun/p/23523188)
-19. [RAG向量库拆分复盘：内存、延迟与权限的三笔账](https://www.cnblogs.com/dicengwanjialaozhang/p/23522949)
-20. [四、Pandas数据处理](https://www.cnblogs.com/clover-1105/p/23522159)
+1. [哈希表详细讲解](https://www.cnblogs.com/Emoji-happy/p/23533093)
+2. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
+3. [从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？](https://www.cnblogs.com/xu214/p/23532149)
+4. [源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法](https://www.cnblogs.com/mudtools/p/23531843)
+5. [Milvus知识库PDF导入失败怎么办？10分钟看懂异常日志排查](https://www.cnblogs.com/guoxiaoyu/p/23531325)
+6. [OceanBase 日常运维命令 200 条](https://www.cnblogs.com/liuziyi1/p/23531366)
+7. [Redis 为什么快？把 "存内存" 这句话拆开看](https://www.cnblogs.com/codigger/p/23531352)
+8. [「设计一个在线文档协同编辑系统」：从 WebSocket、OT/CRDT 到快照回放，一篇讲透这道面试顶流题](https://www.cnblogs.com/zrui-xyu/p/23531328)
+9. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
+10. [前后端Long精度丢失的踩坑](https://www.cnblogs.com/zhangs1986/p/23214703)
+11. [许愿式编程：我把 Typability 改成了能日常顶替 Typora 的样子](https://www.cnblogs.com/towerbit/p/23527505)
+12. [【IDL】基于ENVIRaster（OPENRaster)的Himawari数据几何校正](https://www.cnblogs.com/gaogao-web/p/23527137)
+13. [阅境｜让知识更好读](https://www.cnblogs.com/GlenTt/p/23526962)
+14. [【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘](https://www.cnblogs.com/rossiXYZ/p/23505056)
+15. [gorm中为啥SQL语句是片段](https://www.cnblogs.com/ishoulgodo/p/23526539)
+16. [百亿数据写入 MySQL：空间降维 × IO 降维 × 工程兜底](https://www.cnblogs.com/hugogoos/p/23522225)
+17. [百万订单踩坑记——我注释了财务流水](https://www.cnblogs.com/liuzhang/p/23525778)
+18. [Attention 演进路线：5 大阶段，11 篇奠基论文](https://www.cnblogs.com/aifrontiers/p/23525741)
+19. [abp学习笔记 - 工作单元保存时机](https://www.cnblogs.com/lmy5215006/p/23397869)
+20. [Pandas 与 Polars：语法、性能和资源占用方面的对比](https://www.cnblogs.com/wang_yb/p/23525611)
 
 ## 精华帖子
 
