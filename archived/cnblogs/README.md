@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-03 11:36:51
+> 更新时间：2026-11-03 19:39:38
 
 ## 最新帖子
 
-1. [哈希表详细讲解](https://www.cnblogs.com/Emoji-happy/p/23533093)
-2. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
-3. [从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？](https://www.cnblogs.com/xu214/p/23532149)
-4. [源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法](https://www.cnblogs.com/mudtools/p/23531843)
-5. [Milvus知识库PDF导入失败怎么办？10分钟看懂异常日志排查](https://www.cnblogs.com/guoxiaoyu/p/23531325)
-6. [OceanBase 日常运维命令 200 条](https://www.cnblogs.com/liuziyi1/p/23531366)
-7. [Redis 为什么快？把 "存内存" 这句话拆开看](https://www.cnblogs.com/codigger/p/23531352)
-8. [「设计一个在线文档协同编辑系统」：从 WebSocket、OT/CRDT 到快照回放，一篇讲透这道面试顶流题](https://www.cnblogs.com/zrui-xyu/p/23531328)
-9. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
-10. [前后端Long精度丢失的踩坑](https://www.cnblogs.com/zhangs1986/p/23214703)
-11. [许愿式编程：我把 Typability 改成了能日常顶替 Typora 的样子](https://www.cnblogs.com/towerbit/p/23527505)
-12. [【IDL】基于ENVIRaster（OPENRaster)的Himawari数据几何校正](https://www.cnblogs.com/gaogao-web/p/23527137)
-13. [阅境｜让知识更好读](https://www.cnblogs.com/GlenTt/p/23526962)
-14. [【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘](https://www.cnblogs.com/rossiXYZ/p/23505056)
-15. [gorm中为啥SQL语句是片段](https://www.cnblogs.com/ishoulgodo/p/23526539)
-16. [百亿数据写入 MySQL：空间降维 × IO 降维 × 工程兜底](https://www.cnblogs.com/hugogoos/p/23522225)
-17. [百万订单踩坑记——我注释了财务流水](https://www.cnblogs.com/liuzhang/p/23525778)
-18. [Attention 演进路线：5 大阶段，11 篇奠基论文](https://www.cnblogs.com/aifrontiers/p/23525741)
-19. [abp学习笔记 - 工作单元保存时机](https://www.cnblogs.com/lmy5215006/p/23397869)
-20. [Pandas 与 Polars：语法、性能和资源占用方面的对比](https://www.cnblogs.com/wang_yb/p/23525611)
+1. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
+2. [从 CPU 搬运到自动搬运：DMA、空闲中断和两块缓冲](https://www.cnblogs.com/zw-awa/p/23538260)
+3. [Android APP 加固横评记录：爱加密、梆梆、网易易盾与腾讯 ACE](https://www.cnblogs.com/bytehidden/p/23537861)
+4. [LabVIEW-UI解耦](https://www.cnblogs.com/Lbxx-note/p/23520825)
+5. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 6 篇 · 一维卷积与残差模块：83% 到 95% 的原理拆解](https://www.cnblogs.com/dawudexiaowu/p/23537549)
+6. [华为GaussDB（集中式/分布式，505/507版本）日常运维命令300条](https://www.cnblogs.com/liuziyi1/p/23537021)
+7. [面试中被嘲笑Token放在redis里，该如何应对？](https://www.cnblogs.com/hugogoos/p/23533952)
+8. [Tool-Use Agent 如何扩训练数据：拆解工具、任务与环境状态的 Scaling Law](https://www.cnblogs.com/Qiniu-developer/p/23535625)
+9. [DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念](https://www.cnblogs.com/rangsh/p/23534281)
+10. [哈希表详细讲解](https://www.cnblogs.com/Emoji-happy/p/23533093)
+11. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
+12. [从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？](https://www.cnblogs.com/xu214/p/23532149)
+13. [源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法](https://www.cnblogs.com/mudtools/p/23531843)
+14. [Milvus知识库PDF导入失败怎么办？10分钟看懂异常日志排查](https://www.cnblogs.com/guoxiaoyu/p/23531325)
+15. [Redis 为什么快？把 "存内存" 这句话拆开看](https://www.cnblogs.com/codigger/p/23531352)
+16. [「设计一个在线文档协同编辑系统」：从 WebSocket、OT/CRDT 到快照回放，一篇讲透这道面试顶流题](https://www.cnblogs.com/zrui-xyu/p/23531328)
+17. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
+18. [前后端Long精度丢失的踩坑](https://www.cnblogs.com/zhangs1986/p/23214703)
+19. [许愿式编程：我把 Typability 改成了能日常顶替 Typora 的样子](https://www.cnblogs.com/towerbit/p/23527505)
+20. [【IDL】基于ENVIRaster（OPENRaster)的Himawari数据几何校正](https://www.cnblogs.com/gaogao-web/p/23527137)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
 2. [我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货](https://www.cnblogs.com/zrui-xyu/p/23518998)
-3. [把整栋房子做成 MCP 工具：翻完 SmartHaus 源码，我看到的不是智能家居，是 .NET 工程师的执念](https://www.cnblogs.com/shanyou/p/23513049)
-4. [同一个端口能不能被两个程序同时监听？](https://www.cnblogs.com/codigger/p/23519349)
-5. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
-6. [上周热点回顾（10.26-11.1）](https://www.cnblogs.com/cmt/p/23520617)
+3. [同一个端口能不能被两个程序同时监听？](https://www.cnblogs.com/codigger/p/23519349)
+4. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
+5. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
+6. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)

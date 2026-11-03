@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-03 11:37:21
+> 更新时间：2026-11-03 19:40:09
 
 ## 日榜
 
-1. [罗技再因“狗”营销陷入争议，客服回应“已在调查”](https://www.ithome.com/1/020/930.htm)
-2. [“女生罹癌离世前攒下医药费，买张 RTX5090 留给男友”温情故事引发关注，网友感叹“宁愿这是编的”](https://www.ithome.com/1/021/242.htm)
-3. [2026 款奔驰 E 300 L 改款轿车上市：首次搭载中国团队开发的 AI 座舱，起售价下调 1.6 万元](https://www.ithome.com/1/020/944.htm)
-4. [宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山](https://www.ithome.com/1/021/222.htm)
-5. [巴菲特自曝特殊习惯：已经 48 年没喝过水，每日狂饮可乐](https://www.ithome.com/1/021/062.htm)
-6. [OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀](https://www.ithome.com/1/021/274.htm)
-7. [批量劝退应届生的车灯公司星宇股份 2026 年第三季度归母净利润 2.62 亿元，同比下降 39.62%](https://www.ithome.com/1/021/128.htm)
-8. [华为 Pura X View 阔直板手机销量被曝突破 75 万台，官网现已放开购买](https://www.ithome.com/1/021/065.htm)
-9. [小米雷军到海尔总部参观，送董事长周云杰车模](https://www.ithome.com/1/021/244.htm)
-10. [理想高管辟谣常州停车场有上万台 0 公里二手车：实为撤展车、试驾车，仓库总规模仅 3900 个车位](https://www.ithome.com/1/021/083.htm)
-11. [铺路再接再厉：开发者放出微软 Lumia 950 XL 刷苹果 iOS 16.7.16 脚本方案](https://www.ithome.com/1/021/235.htm)
-12. [华为“智阅键”翻页功能最新适配机型公布，含 Pura X View、Mate 90 系列等](https://www.ithome.com/1/021/099.htm)
+1. [OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀](https://www.ithome.com/1/021/274.htm)
+2. [小米雷军到海尔总部参观，送董事长周云杰车模](https://www.ithome.com/1/021/244.htm)
+3. [明确房东不得加收水电费、违者最高罚 5 倍金额，广州新规表决通过](https://www.ithome.com/1/021/483.htm)
+4. [真“全面屏 iPhone”：开发者放出小米 REDMI K20 Pro 刷苹果 iOS 16 测试固件包](https://www.ithome.com/1/021/617.htm)
+5. [苹果首款折叠 iPhone Duo 反馈锁定缩放显示：想改大小，得抹掉手机](https://www.ithome.com/1/021/328.htm)
+6. [特努斯：全球内存涨价“前所未有”，苹果已竭尽所能消化成本](https://www.ithome.com/1/021/482.htm)
+7. [报告称红果免费短剧用户量超越豆包，成为抖音集团第二大应用](https://www.ithome.com/1/021/502.htm)
+8. [收机赌溢价终“血亏十几万”：消息称高价囤货苹果 iPhone Duo 的黄牛如今“卖一台亏一台”](https://www.ithome.com/1/021/606.htm)
+9. [华为 Pura 100 系列影像旗舰阔直板机被曝测试 BOE 新开屏，Pro Max 有望采用双层 OLED 技术](https://www.ithome.com/1/021/589.htm)
+10. [苹果 CEO 特努斯：iPhone Duo 产能爬坡“进展顺利”，屏幕问题仅占“极小比例”](https://www.ithome.com/1/021/284.htm)
+11. [全国放心消费平台正式上线：可扫码查看附近放心消费商家，百度地图、美团外卖、淘宝闪购、京东外卖已接入](https://www.ithome.com/1/021/346.htm)
+12. [消息称 iPhone 18e / 18 / Air 2 明年上半年齐发，标准版搭 2nm 制程 A20 芯片预估价格会涨](https://www.ithome.com/1/021/655.htm)
