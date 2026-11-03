@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-03 19:39:38
+> 更新时间：2026-11-04 03:07:37
 
 ## 最新帖子
 
-1. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
-2. [从 CPU 搬运到自动搬运：DMA、空闲中断和两块缓冲](https://www.cnblogs.com/zw-awa/p/23538260)
-3. [Android APP 加固横评记录：爱加密、梆梆、网易易盾与腾讯 ACE](https://www.cnblogs.com/bytehidden/p/23537861)
-4. [LabVIEW-UI解耦](https://www.cnblogs.com/Lbxx-note/p/23520825)
-5. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 6 篇 · 一维卷积与残差模块：83% 到 95% 的原理拆解](https://www.cnblogs.com/dawudexiaowu/p/23537549)
-6. [华为GaussDB（集中式/分布式，505/507版本）日常运维命令300条](https://www.cnblogs.com/liuziyi1/p/23537021)
-7. [面试中被嘲笑Token放在redis里，该如何应对？](https://www.cnblogs.com/hugogoos/p/23533952)
-8. [Tool-Use Agent 如何扩训练数据：拆解工具、任务与环境状态的 Scaling Law](https://www.cnblogs.com/Qiniu-developer/p/23535625)
-9. [DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念](https://www.cnblogs.com/rangsh/p/23534281)
-10. [哈希表详细讲解](https://www.cnblogs.com/Emoji-happy/p/23533093)
-11. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
-12. [从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？](https://www.cnblogs.com/xu214/p/23532149)
-13. [源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法](https://www.cnblogs.com/mudtools/p/23531843)
-14. [Milvus知识库PDF导入失败怎么办？10分钟看懂异常日志排查](https://www.cnblogs.com/guoxiaoyu/p/23531325)
-15. [Redis 为什么快？把 "存内存" 这句话拆开看](https://www.cnblogs.com/codigger/p/23531352)
-16. [「设计一个在线文档协同编辑系统」：从 WebSocket、OT/CRDT 到快照回放，一篇讲透这道面试顶流题](https://www.cnblogs.com/zrui-xyu/p/23531328)
-17. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
-18. [前后端Long精度丢失的踩坑](https://www.cnblogs.com/zhangs1986/p/23214703)
-19. [许愿式编程：我把 Typability 改成了能日常顶替 Typora 的样子](https://www.cnblogs.com/towerbit/p/23527505)
-20. [【IDL】基于ENVIRaster（OPENRaster)的Himawari数据几何校正](https://www.cnblogs.com/gaogao-web/p/23527137)
+1. [[DSH/多智能体/CodingAgent] dsh-superagent-prototype: 基于 DeepSeek Harness 的主动式、Coding 多智能体研究原型](https://www.cnblogs.com/know-data/p/23541376)
+2. [〖原创〗单调时钟也会变速：一次 NTP 调频影响 Xenomai 周期同步的定位过程](https://www.cnblogs.com/wsg1100/p/23539307)
+3. [为了薅乐谱，我又通宵做了一个浏览器插件](https://www.cnblogs.com/wavky/p/23539964/gleaner)
+4. [我把 5.5 万 Star的AI生成PPT项目ppt-master改造成了桌面应用](https://www.cnblogs.com/wyang/p/23539934)
+5. [【轻量化复刻大模型 / KIMI K3】KDA（Kimi Delta Attention）：并行](https://www.cnblogs.com/rossiXYZ/p/23505180)
+6. [MIGraphX CSharp API 发布：让 C# 接入 AMD GPU 原生推理](https://www.cnblogs.com/guojin-blogs/p/23539403)
+7. [AScript之字符串模板](https://www.cnblogs.com/rockey627/p/23539216)
+8. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
+9. [从 CPU 搬运到自动搬运：DMA、空闲中断和两块缓冲](https://www.cnblogs.com/zw-awa/p/23538260)
+10. [LabVIEW-UI解耦](https://www.cnblogs.com/Lbxx-note/p/23520825)
+11. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 6 篇 · 一维卷积与残差模块：83% 到 95% 的原理拆解](https://www.cnblogs.com/dawudexiaowu/p/23537549)
+12. [面试中被嘲笑Token放在redis里，该如何应对？](https://www.cnblogs.com/hugogoos/p/23533952)
+13. [Tool-Use Agent 如何扩训练数据：拆解工具、任务与环境状态的 Scaling Law](https://www.cnblogs.com/Qiniu-developer/p/23535625)
+14. [DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念](https://www.cnblogs.com/rangsh/p/23534281)
+15. [哈希表详细讲解](https://www.cnblogs.com/Emoji-happy/p/23533093)
+16. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
+17. [从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？](https://www.cnblogs.com/xu214/p/23532149)
+18. [源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法](https://www.cnblogs.com/mudtools/p/23531843)
+19. [Milvus知识库PDF导入失败怎么办？10分钟看懂异常日志排查](https://www.cnblogs.com/guoxiaoyu/p/23531325)
+20. [Redis 为什么快？把 "存内存" 这句话拆开看](https://www.cnblogs.com/codigger/p/23531352)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
 2. [我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货](https://www.cnblogs.com/zrui-xyu/p/23518998)
 3. [同一个端口能不能被两个程序同时监听？](https://www.cnblogs.com/codigger/p/23519349)
-4. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
-5. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
+4. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
+5. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
 6. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)

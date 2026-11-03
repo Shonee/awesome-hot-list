@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-03 19:39:33
+> 更新时间：2026-11-04 03:07:33
 
 ## 每日趋势
 
@@ -84,17 +84,18 @@
 3. [TradingAgents](https://github.com/TauricResearch/TradingAgents)
 4. [graphify](https://github.com/Graphify-Labs/graphify)
 5. [humanizer](https://github.com/blader/humanizer)
-6. [OpenMontage](https://github.com/calesthio/OpenMontage)
-7. [treg](https://github.com/superdesigndev/treg)
-8. [spec-kit](https://github.com/github/spec-kit)
-9. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
-10. [AstrBot](https://github.com/AstrBotDevs/AstrBot)
-11. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
-12. [mempalace](https://github.com/MemPalace/mempalace)
-13. [Scrapling](https://github.com/D4Vinci/Scrapling)
-14. [pr-agent](https://github.com/The-PR-Agent/pr-agent)
-15. [DeepTutor](https://github.com/HKUDS/DeepTutor)
-16. [AiSOC](https://github.com/beenuar/AiSOC)
+6. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+7. [OpenMontage](https://github.com/calesthio/OpenMontage)
+8. [treg](https://github.com/superdesigndev/treg)
+9. [spec-kit](https://github.com/github/spec-kit)
+10. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+11. [AstrBot](https://github.com/AstrBotDevs/AstrBot)
+12. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+13. [mempalace](https://github.com/MemPalace/mempalace)
+14. [Scrapling](https://github.com/D4Vinci/Scrapling)
+15. [pr-agent](https://github.com/The-PR-Agent/pr-agent)
+16. [DeepTutor](https://github.com/HKUDS/DeepTutor)
+17. [AiSOC](https://github.com/beenuar/AiSOC)
 
 ## Go
 
@@ -136,7 +137,7 @@
 1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 2. [ECC](https://github.com/affaan-m/ECC)
 3. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-4. [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+4. [dsh-purge](https://github.com/HunYiSage/dsh-purge)
 5. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 6. [ego-lite](https://github.com/citrolabs/ego-lite)
 7. [LinkSwift](https://github.com/hmjz100/LinkSwift)
