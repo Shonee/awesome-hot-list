@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-04 03:07:37
+> 更新时间：2026-11-04 08:05:33
 
 ## 最新帖子
 
-1. [[DSH/多智能体/CodingAgent] dsh-superagent-prototype: 基于 DeepSeek Harness 的主动式、Coding 多智能体研究原型](https://www.cnblogs.com/know-data/p/23541376)
-2. [〖原创〗单调时钟也会变速：一次 NTP 调频影响 Xenomai 周期同步的定位过程](https://www.cnblogs.com/wsg1100/p/23539307)
-3. [为了薅乐谱，我又通宵做了一个浏览器插件](https://www.cnblogs.com/wavky/p/23539964/gleaner)
-4. [我把 5.5 万 Star的AI生成PPT项目ppt-master改造成了桌面应用](https://www.cnblogs.com/wyang/p/23539934)
-5. [【轻量化复刻大模型 / KIMI K3】KDA（Kimi Delta Attention）：并行](https://www.cnblogs.com/rossiXYZ/p/23505180)
-6. [MIGraphX CSharp API 发布：让 C# 接入 AMD GPU 原生推理](https://www.cnblogs.com/guojin-blogs/p/23539403)
-7. [AScript之字符串模板](https://www.cnblogs.com/rockey627/p/23539216)
-8. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
-9. [从 CPU 搬运到自动搬运：DMA、空闲中断和两块缓冲](https://www.cnblogs.com/zw-awa/p/23538260)
-10. [LabVIEW-UI解耦](https://www.cnblogs.com/Lbxx-note/p/23520825)
-11. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 6 篇 · 一维卷积与残差模块：83% 到 95% 的原理拆解](https://www.cnblogs.com/dawudexiaowu/p/23537549)
-12. [面试中被嘲笑Token放在redis里，该如何应对？](https://www.cnblogs.com/hugogoos/p/23533952)
-13. [Tool-Use Agent 如何扩训练数据：拆解工具、任务与环境状态的 Scaling Law](https://www.cnblogs.com/Qiniu-developer/p/23535625)
-14. [DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念](https://www.cnblogs.com/rangsh/p/23534281)
-15. [哈希表详细讲解](https://www.cnblogs.com/Emoji-happy/p/23533093)
-16. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
-17. [从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？](https://www.cnblogs.com/xu214/p/23532149)
-18. [源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法](https://www.cnblogs.com/mudtools/p/23531843)
-19. [Milvus知识库PDF导入失败怎么办？10分钟看懂异常日志排查](https://www.cnblogs.com/guoxiaoyu/p/23531325)
-20. [Redis 为什么快？把 "存内存" 这句话拆开看](https://www.cnblogs.com/codigger/p/23531352)
+1. [我把 Ant Design Blazor 翻了一遍：Blazor 中后台组件库到底能不能用](https://www.cnblogs.com/shenchuanchao/p/23536294/ant-design-blazor-review-worth-recommending-dotnet-teams)
+2. [Oracle AI World 2026：当 AI 从“观察”走向“行动”](https://www.cnblogs.com/jyzhao/p/23543026)
+3. [[DSH/多智能体/CodingAgent] dsh-superagent-prototype: 基于 DeepSeek Harness 的主动式、Coding 多智能体研究原型](https://www.cnblogs.com/know-data/p/23541376)
+4. [〖原创〗单调时钟也会变速：一次 NTP 调频影响 Xenomai 周期同步的定位过程](https://www.cnblogs.com/wsg1100/p/23539307)
+5. [为了薅乐谱，我又通宵做了一个浏览器插件](https://www.cnblogs.com/wavky/p/23539964/gleaner)
+6. [我把 5.5 万 Star的AI生成PPT项目ppt-master改造成了桌面应用](https://www.cnblogs.com/wyang/p/23539934)
+7. [【轻量化复刻大模型 / KIMI K3】KDA（Kimi Delta Attention）：并行](https://www.cnblogs.com/rossiXYZ/p/23505180)
+8. [MIGraphX CSharp API 发布：让 C# 接入 AMD GPU 原生推理](https://www.cnblogs.com/guojin-blogs/p/23539403)
+9. [AScript之字符串模板](https://www.cnblogs.com/rockey627/p/23539216)
+10. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
+11. [从 CPU 搬运到自动搬运：DMA、空闲中断和两块缓冲](https://www.cnblogs.com/zw-awa/p/23538260)
+12. [LabVIEW-UI解耦](https://www.cnblogs.com/Lbxx-note/p/23520825)
+13. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 6 篇 · 一维卷积与残差模块：83% 到 95% 的原理拆解](https://www.cnblogs.com/dawudexiaowu/p/23537549)
+14. [面试中被嘲笑Token放在redis里，该如何应对？](https://www.cnblogs.com/hugogoos/p/23533952)
+15. [Tool-Use Agent 如何扩训练数据：拆解工具、任务与环境状态的 Scaling Law](https://www.cnblogs.com/Qiniu-developer/p/23535625)
+16. [DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念](https://www.cnblogs.com/rangsh/p/23534281)
+17. [哈希表详细讲解](https://www.cnblogs.com/Emoji-happy/p/23533093)
+18. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
+19. [从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？](https://www.cnblogs.com/xu214/p/23532149)
+20. [源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法](https://www.cnblogs.com/mudtools/p/23531843)
 
 ## 精华帖子
 

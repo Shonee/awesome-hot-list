@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-11-04 03:07:52
+> 更新时间：2026-11-04 08:05:49
 
 ## 新闻热榜
 
-1. [双色球12亿派奖看点解读：首次只针对2等奖派奖](https://sports.sina.com.cn/l/2026-11-03/doc-inixmnqf8816141.shtml)
-2. [又一驻日美军士兵在冲绳被捕，日本防相发声](https://news.sina.com.cn/w/2026-11-03/doc-inixmhhi8792711.shtml)
-3. [中国气象局：最强厄尔尼诺将明显影响我国，预计今冬气温总体偏高](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmnqf8811400.shtml)
-4. [上海首例AI盗用算力案一审宣判，男子用超400万个账号“薅羊毛”获刑三年](https://finance.sina.com.cn/tech/roll/2026-11-03/doc-inixmxcu9974996.shtml)
-5. [中国确定不申办2036年夏季奥运会，德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围](https://news.sina.com.cn/c/2026-11-03/doc-inixmxcy2301434.shtml)
-6. [朝鲜劳动党中央书记金成男正在访问中国？外交部：不了解有关情况](https://news.sina.com.cn/zx/2026-11-03/doc-inixmxcz8712942.shtml)
-7. [芝加哥期权交易所加入资本市场联盟，对美国商品期货交易委员会批准个股永续衍生品提出异议。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuik9746292.shtml)
-8. [特朗普表示，共和党已经提前判定关岛选举获胜。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuir8492614.shtml)
-9. [刘延东同志生平照片](https://news.sina.com.cn/c/xl/2026-11-03/doc-inixncmw2237408.shtml)
-10. [亚太经合组织召开第37届外交和贸易双部长会议](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuik9740837.shtml)
-11. [美国佛州坠机9名遇难者身份曝光：机长55岁，科技企业家一家四口殒命，20岁女副驾受质疑](https://news.sina.com.cn/w/2026-11-03/doc-inixncmu6648508.shtml)
-12. [王毅同菲律宾外长拉扎罗通电话](https://news.sina.com.cn/c/2026-11-03/doc-inixnpzs2100735.shtml)
-13. [刘延东同志生平](https://news.sina.com.cn/c/xl/2026-11-03/doc-inixmxcu9945344.shtml)
-14. [特朗普称现任总统政党都难赢中选](https://news.sina.com.cn/w/2026-11-03/doc-inixmxcu9901193.shtml)
-15. [22岁女孩贺兰山国家森林公园失联传不幸消息：搜救结束，家属称“人没了”](https://news.sina.com.cn/c/2026-11-03/doc-inixncmw2215266.shtml)
-16. [乌克兰对外情报局局长乌梅罗夫：布鲁塞尔会谈将涉及对乌克兰的安全保障问题。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuin6520408.shtml)
-17. [特朗普的“死对头”，走了](https://news.sina.com.cn/w/2026-11-03/doc-inixmsvw9960445.shtml)
-18. [德国汉莎航空股份公司：考虑到所谓的“递增费用”，总收购价最高可能升至 12 亿欧元。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuiq2038225.shtml)
-19. [拉脱维亚新一届议会选举斯米尔滕斯为议长](https://finance.sina.com.cn/7x24/2026-11-03/doc-inixnuik9712054.shtml)
-20. [乌克兰对外情报局局长乌梅罗夫：美国、北约和世界银行将参加布鲁塞尔乌克兰问题会谈。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuik9744473.shtml)
+1. [朝鲜劳动党中央书记金成男正在访问中国？外交部：不了解有关情况](https://news.sina.com.cn/zx/2026-11-03/doc-inixmxcz8712942.shtml)
+2. [中国确定不申办2036年夏季奥运会，德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围](https://news.sina.com.cn/c/2026-11-03/doc-inixmxcy2301434.shtml)
+3. [美国佛州坠机9名遇难者身份曝光：机长55岁，科技企业家一家四口殒命，20岁女副驾受质疑](https://news.sina.com.cn/w/2026-11-03/doc-inixncmu6648508.shtml)
+4. [王毅同菲律宾外长拉扎罗通电话](https://news.sina.com.cn/c/2026-11-03/doc-inixnpzs2100735.shtml)
+5. [上海首例AI盗用算力案一审宣判，男子用超400万个账号“薅羊毛”获刑三年](https://finance.sina.com.cn/tech/roll/2026-11-03/doc-inixmxcu9974996.shtml)
+6. [刘延东同志生平照片](https://news.sina.com.cn/c/xl/2026-11-03/doc-inixncmw2237408.shtml)
+7. [刘延东同志生平](https://news.sina.com.cn/c/xl/2026-11-03/doc-inixmxcu9945344.shtml)
+8. [特朗普称现任总统政党都难赢中选](https://news.sina.com.cn/w/2026-11-03/doc-inixmxcu9901193.shtml)
+9. [中国气象局：最强厄尔尼诺将明显影响我国，预计今冬气温总体偏高](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmnqf8811400.shtml)
+10. [22岁女孩贺兰山国家森林公园失联传不幸消息：搜救结束，家属称“人没了”](https://news.sina.com.cn/c/2026-11-03/doc-inixncmw2215266.shtml)
+11. [重大利好！事关未来产业发展、人工智能……](https://finance.sina.com.cn/wm/2026-11-03/doc-inixnpzq6557516.shtml)
+12. [特朗普：对伊朗发动了“小规模攻击”](https://news.sina.com.cn/w/2026-11-03/doc-inixnpzs2133432.shtml)
+13. [特朗普的“死对头”，走了](https://news.sina.com.cn/w/2026-11-03/doc-inixmsvw9960445.shtml)
+14. [刘延东同志遗体在京火化 习近平等到八宝山革命公墓送别](https://news.sina.com.cn/xw/2026-11-03/doc-inixnitv8637114.shtml)
+15. [芝加哥期权交易所加入资本市场联盟，对美国商品期货交易委员会批准个股永续衍生品提出异议。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuik9746292.shtml)
+16. [特朗普表示，共和党已经提前判定关岛选举获胜。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuir8492614.shtml)
+17. [中期选举：若民主党横扫国会，股市或将迎来震荡](https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuin6515475.shtml)
+18. [女生赴港看演出事件低保已被取消](https://news.sina.com.cn/c/2026-11-03/doc-inixmsvw9952123.shtml)
+19. [双色球头奖5注901万分落4地 奖池余额10.74亿](https://sports.sina.com.cn/l/2026-11-03/doc-inixnpzq6578285.shtml)
+20. [亚太经合组织召开第37届外交和贸易双部长会议](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuik9740837.shtml)
 
 ## 财经热榜
 
