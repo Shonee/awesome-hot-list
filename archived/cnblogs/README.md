@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-04 08:05:33
+> 更新时间：2026-11-04 14:52:14
 
 ## 最新帖子
 
-1. [我把 Ant Design Blazor 翻了一遍：Blazor 中后台组件库到底能不能用](https://www.cnblogs.com/shenchuanchao/p/23536294/ant-design-blazor-review-worth-recommending-dotnet-teams)
-2. [Oracle AI World 2026：当 AI 从“观察”走向“行动”](https://www.cnblogs.com/jyzhao/p/23543026)
-3. [[DSH/多智能体/CodingAgent] dsh-superagent-prototype: 基于 DeepSeek Harness 的主动式、Coding 多智能体研究原型](https://www.cnblogs.com/know-data/p/23541376)
-4. [〖原创〗单调时钟也会变速：一次 NTP 调频影响 Xenomai 周期同步的定位过程](https://www.cnblogs.com/wsg1100/p/23539307)
-5. [为了薅乐谱，我又通宵做了一个浏览器插件](https://www.cnblogs.com/wavky/p/23539964/gleaner)
-6. [我把 5.5 万 Star的AI生成PPT项目ppt-master改造成了桌面应用](https://www.cnblogs.com/wyang/p/23539934)
-7. [【轻量化复刻大模型 / KIMI K3】KDA（Kimi Delta Attention）：并行](https://www.cnblogs.com/rossiXYZ/p/23505180)
-8. [MIGraphX CSharp API 发布：让 C# 接入 AMD GPU 原生推理](https://www.cnblogs.com/guojin-blogs/p/23539403)
-9. [AScript之字符串模板](https://www.cnblogs.com/rockey627/p/23539216)
-10. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
-11. [从 CPU 搬运到自动搬运：DMA、空闲中断和两块缓冲](https://www.cnblogs.com/zw-awa/p/23538260)
-12. [LabVIEW-UI解耦](https://www.cnblogs.com/Lbxx-note/p/23520825)
-13. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 6 篇 · 一维卷积与残差模块：83% 到 95% 的原理拆解](https://www.cnblogs.com/dawudexiaowu/p/23537549)
-14. [面试中被嘲笑Token放在redis里，该如何应对？](https://www.cnblogs.com/hugogoos/p/23533952)
-15. [Tool-Use Agent 如何扩训练数据：拆解工具、任务与环境状态的 Scaling Law](https://www.cnblogs.com/Qiniu-developer/p/23535625)
-16. [DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念](https://www.cnblogs.com/rangsh/p/23534281)
-17. [哈希表详细讲解](https://www.cnblogs.com/Emoji-happy/p/23533093)
-18. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
-19. [从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？](https://www.cnblogs.com/xu214/p/23532149)
-20. [源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法](https://www.cnblogs.com/mudtools/p/23531843)
+1. [常见最优类算法辨析：贪心、DP、分治、回溯](https://www.cnblogs.com/xu214/p/23547023)
+2. [从 CH340 到 HC-05 和 HC-06：让小车脱离电脑](https://www.cnblogs.com/zw-awa/p/23546629)
+3. [缓芽：一个从腰酸开始的开源小项目](https://www.cnblogs.com/hannnnnnj/p/23544744)
+4. [Apache SeaTunnel 社区 2026 年 10 月贡献总结报告](https://www.cnblogs.com/seatunnel/p/23544419)
+5. [缓存和数据库的一致性，别停在 “延时双删”](https://www.cnblogs.com/codigger/p/23544190)
+6. [面试官让你把 LLM、RAG、Agent、MCP 串起来讲清楚，90% 的 Java 工程师当场露馅](https://www.cnblogs.com/zrui-xyu/p/23544084)
+7. [Spring Boot 的 @Transactional 为什么会失效？从代理、自调用到异常回滚的排查实战](https://www.cnblogs.com/twoshuai/p/23543348)
+8. [我开发了一款免费开源的测试开发刷题学习网站](https://www.cnblogs.com/jinjiangongzuoshi/p/23543299)
+9. [Day 9：数据与定义分家，表单不必各自建类型](https://www.cnblogs.com/jeff-tsai/p/23543126/day-09-data-and-schema-split)
+10. [我把 Ant Design Blazor 翻了一遍：Blazor 中后台组件库到底能不能用](https://www.cnblogs.com/shenchuanchao/p/23536294/ant-design-blazor-review-worth-recommending-dotnet-teams)
+11. [Oracle AI World 2026：当 AI 从“观察”走向“行动”](https://www.cnblogs.com/jyzhao/p/23543026)
+12. [[DSH/多智能体/CodingAgent] dsh-superagent-prototype: 基于 DeepSeek Harness 的主动式、Coding 多智能体研究原型](https://www.cnblogs.com/know-data/p/23541376)
+13. [〖原创〗单调时钟也会变速：一次 NTP 调频影响 Xenomai 周期同步的定位过程](https://www.cnblogs.com/wsg1100/p/23539307)
+14. [为了薅乐谱，我又通宵做了一个浏览器插件](https://www.cnblogs.com/wavky/p/23539964/gleaner)
+15. [我把 5.5 万 Star的AI生成PPT项目ppt-master改造成了桌面应用](https://www.cnblogs.com/wyang/p/23539934)
+16. [【轻量化复刻大模型 / KIMI K3】KDA（Kimi Delta Attention）：并行](https://www.cnblogs.com/rossiXYZ/p/23505180)
+17. [MIGraphX CSharp API 发布：让 C# 接入 AMD GPU 原生推理](https://www.cnblogs.com/guojin-blogs/p/23539403)
+18. [AScript之字符串模板](https://www.cnblogs.com/rockey627/p/23539216)
+19. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
+20. [从 CPU 搬运到自动搬运：DMA、空闲中断和两块缓冲](https://www.cnblogs.com/zw-awa/p/23538260)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [我用workBuddy开发了自己的第一个小程序并成功上线了](https://www.cnblogs.com/xiezhr/p/23517815)
-2. [我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货](https://www.cnblogs.com/zrui-xyu/p/23518998)
-3. [同一个端口能不能被两个程序同时监听？](https://www.cnblogs.com/codigger/p/23519349)
-4. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
-5. [Coze 谢幕之后：谁的流程定义，能成为 AI 读得懂的资产](https://www.cnblogs.com/shanyou/p/23517950)
-6. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
+1. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
+2. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
+3. [笔记本塞进包里就发烫掉电？罪魁祸首是「现代待机」](https://www.cnblogs.com/ydswin/p/23524664)
+4. [DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念](https://www.cnblogs.com/rangsh/p/23534281)
+5. [从0搭建企业级知识库-技术指南](https://www.cnblogs.com/jajian/p/23522320)
+6. [面试中被嘲笑Token放在redis里，该如何应对？](https://www.cnblogs.com/hugogoos/p/23533952)

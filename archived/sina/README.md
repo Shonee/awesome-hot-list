@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-11-04 08:05:49
+> 更新时间：2026-11-04 14:52:35
 
 ## 新闻热榜
 
-1. [朝鲜劳动党中央书记金成男正在访问中国？外交部：不了解有关情况](https://news.sina.com.cn/zx/2026-11-03/doc-inixmxcz8712942.shtml)
-2. [中国确定不申办2036年夏季奥运会，德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围](https://news.sina.com.cn/c/2026-11-03/doc-inixmxcy2301434.shtml)
-3. [美国佛州坠机9名遇难者身份曝光：机长55岁，科技企业家一家四口殒命，20岁女副驾受质疑](https://news.sina.com.cn/w/2026-11-03/doc-inixncmu6648508.shtml)
-4. [王毅同菲律宾外长拉扎罗通电话](https://news.sina.com.cn/c/2026-11-03/doc-inixnpzs2100735.shtml)
+1. [事态严重！韩政府紧急为李在明夫妇等人换发护照](https://news.sina.com.cn/w/2026-11-04/doc-inixprpf8128309.shtml)
+2. [朝鲜劳动党中央政治局委员、党中央书记金成男昨日率团启程访华](https://news.sina.com.cn/w/2026-11-04/doc-inixprpa6189114.shtml)
+3. [朝鲜劳动党中央书记金成男正在访问中国？外交部：不了解有关情况](https://news.sina.com.cn/zx/2026-11-03/doc-inixmxcz8712942.shtml)
+4. [中国确定不申办2036年夏季奥运会，德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围](https://news.sina.com.cn/c/2026-11-03/doc-inixmxcy2301434.shtml)
 5. [上海首例AI盗用算力案一审宣判，男子用超400万个账号“薅羊毛”获刑三年](https://finance.sina.com.cn/tech/roll/2026-11-03/doc-inixmxcu9974996.shtml)
-6. [刘延东同志生平照片](https://news.sina.com.cn/c/xl/2026-11-03/doc-inixncmw2237408.shtml)
+6. [美国佛州坠机9名遇难者身份曝光：机长55岁，科技企业家一家四口殒命，20岁女副驾受质疑](https://news.sina.com.cn/w/2026-11-03/doc-inixncmu6648508.shtml)
 7. [刘延东同志生平](https://news.sina.com.cn/c/xl/2026-11-03/doc-inixmxcu9945344.shtml)
-8. [特朗普称现任总统政党都难赢中选](https://news.sina.com.cn/w/2026-11-03/doc-inixmxcu9901193.shtml)
-9. [中国气象局：最强厄尔尼诺将明显影响我国，预计今冬气温总体偏高](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmnqf8811400.shtml)
-10. [22岁女孩贺兰山国家森林公园失联传不幸消息：搜救结束，家属称“人没了”](https://news.sina.com.cn/c/2026-11-03/doc-inixncmw2215266.shtml)
-11. [重大利好！事关未来产业发展、人工智能……](https://finance.sina.com.cn/wm/2026-11-03/doc-inixnpzq6557516.shtml)
-12. [特朗普：对伊朗发动了“小规模攻击”](https://news.sina.com.cn/w/2026-11-03/doc-inixnpzs2133432.shtml)
-13. [特朗普的“死对头”，走了](https://news.sina.com.cn/w/2026-11-03/doc-inixmsvw9960445.shtml)
-14. [刘延东同志遗体在京火化 习近平等到八宝山革命公墓送别](https://news.sina.com.cn/xw/2026-11-03/doc-inixnitv8637114.shtml)
-15. [芝加哥期权交易所加入资本市场联盟，对美国商品期货交易委员会批准个股永续衍生品提出异议。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuik9746292.shtml)
-16. [特朗普表示，共和党已经提前判定关岛选举获胜。](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuir8492614.shtml)
-17. [中期选举：若民主党横扫国会，股市或将迎来震荡](https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuin6515475.shtml)
-18. [女生赴港看演出事件低保已被取消](https://news.sina.com.cn/c/2026-11-03/doc-inixmsvw9952123.shtml)
-19. [双色球头奖5注901万分落4地 奖池余额10.74亿](https://sports.sina.com.cn/l/2026-11-03/doc-inixnpzq6578285.shtml)
-20. [亚太经合组织召开第37届外交和贸易双部长会议](https://finance.sina.com.cn/7x24/2026-11-04/doc-inixnuik9740837.shtml)
+8. [密集穿梭，中国外交又干了件大事](https://news.sina.com.cn/c/2026-11-04/doc-inixprny9448130.shtml)
+9. [王毅同菲律宾外长拉扎罗通电话](https://news.sina.com.cn/c/2026-11-03/doc-inixnpzs2100735.shtml)
+10. [长鑫科技、寒武纪、中微公司等密集发声：坚定看好中国科技发展前景](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixncmu6679017.shtml)
+11. [特朗普称现任总统政党都难赢中选](https://news.sina.com.cn/w/2026-11-03/doc-inixmxcu9901193.shtml)
+12. [中际旭创“目标价砍至330元”？野村最新报告：维持买入](https://finance.sina.com.cn/roll/2026-11-04/doc-inixpexe9545118.shtml)
+13. [日本爆发万人抗议集会](https://mil.news.sina.com.cn/2026-11-04/doc-inixpmfe6284811.shtml)
+14. [美国民主党拿下三个关键州，参议院胜率高达98%](https://news.sina.com.cn/w/2026-11-04/doc-inixpvva1641745.shtml)
+15. [22岁女孩贺兰山国家森林公园失联传不幸消息：搜救结束，家属称“人没了”](https://news.sina.com.cn/c/2026-11-03/doc-inixncmw2215266.shtml)
+16. [英国国王查尔斯：奴隶制令我心痛，但不道歉](https://news.sina.com.cn/w/2026-11-04/doc-inixprny9449903.shtml)
+17. [陆委会称现在没有“台独”问题 国台办回应](https://news.sina.com.cn/o/2026-11-04/doc-inixprpf8209513.shtml)
+18. [张一鸣被超越，亚洲首富换人了](https://finance.sina.com.cn/roll/2026-11-04/doc-inixpmfi8246002.shtml)
+19. [潘功胜：维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险底线](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixnpzq6583679.shtml)
+20. [患病硕士遭性侵生子案一审宣判，被告人当庭不上诉](https://news.sina.com.cn/c/2026-11-04/doc-inixprpa6253073.shtml)
 
 ## 财经热榜
 
