@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-11-04 14:52:35
+> 更新时间：2026-11-04 23:09:11
 
 ## 新闻热榜
 
 1. [事态严重！韩政府紧急为李在明夫妇等人换发护照](https://news.sina.com.cn/w/2026-11-04/doc-inixprpf8128309.shtml)
 2. [朝鲜劳动党中央政治局委员、党中央书记金成男昨日率团启程访华](https://news.sina.com.cn/w/2026-11-04/doc-inixprpa6189114.shtml)
-3. [朝鲜劳动党中央书记金成男正在访问中国？外交部：不了解有关情况](https://news.sina.com.cn/zx/2026-11-03/doc-inixmxcz8712942.shtml)
-4. [中国确定不申办2036年夏季奥运会，德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围](https://news.sina.com.cn/c/2026-11-03/doc-inixmxcy2301434.shtml)
-5. [上海首例AI盗用算力案一审宣判，男子用超400万个账号“薅羊毛”获刑三年](https://finance.sina.com.cn/tech/roll/2026-11-03/doc-inixmxcu9974996.shtml)
-6. [美国佛州坠机9名遇难者身份曝光：机长55岁，科技企业家一家四口殒命，20岁女副驾受质疑](https://news.sina.com.cn/w/2026-11-03/doc-inixncmu6648508.shtml)
-7. [刘延东同志生平](https://news.sina.com.cn/c/xl/2026-11-03/doc-inixmxcu9945344.shtml)
-8. [密集穿梭，中国外交又干了件大事](https://news.sina.com.cn/c/2026-11-04/doc-inixprny9448130.shtml)
-9. [王毅同菲律宾外长拉扎罗通电话](https://news.sina.com.cn/c/2026-11-03/doc-inixnpzs2100735.shtml)
-10. [长鑫科技、寒武纪、中微公司等密集发声：坚定看好中国科技发展前景](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixncmu6679017.shtml)
-11. [特朗普称现任总统政党都难赢中选](https://news.sina.com.cn/w/2026-11-03/doc-inixmxcu9901193.shtml)
-12. [中际旭创“目标价砍至330元”？野村最新报告：维持买入](https://finance.sina.com.cn/roll/2026-11-04/doc-inixpexe9545118.shtml)
-13. [日本爆发万人抗议集会](https://mil.news.sina.com.cn/2026-11-04/doc-inixpmfe6284811.shtml)
-14. [美国民主党拿下三个关键州，参议院胜率高达98%](https://news.sina.com.cn/w/2026-11-04/doc-inixpvva1641745.shtml)
-15. [22岁女孩贺兰山国家森林公园失联传不幸消息：搜救结束，家属称“人没了”](https://news.sina.com.cn/c/2026-11-03/doc-inixncmw2215266.shtml)
-16. [英国国王查尔斯：奴隶制令我心痛，但不道歉](https://news.sina.com.cn/w/2026-11-04/doc-inixprny9449903.shtml)
-17. [陆委会称现在没有“台独”问题 国台办回应](https://news.sina.com.cn/o/2026-11-04/doc-inixprpf8209513.shtml)
-18. [张一鸣被超越，亚洲首富换人了](https://finance.sina.com.cn/roll/2026-11-04/doc-inixpmfi8246002.shtml)
-19. [潘功胜：维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险底线](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixnpzq6583679.shtml)
-20. [患病硕士遭性侵生子案一审宣判，被告人当庭不上诉](https://news.sina.com.cn/c/2026-11-04/doc-inixprpa6253073.shtml)
+3. [超越张一鸣，亚洲首富换人了](https://news.sina.com.cn/w/2026-11-04/doc-inixpvva1703703.shtml)
+4. [万亿城市排名洗牌：合肥“跑最快”，深圳站上3万亿](https://news.sina.com.cn/c/2026-11-04/doc-inixpvuy6185863.shtml)
+5. [密集穿梭，中国外交又干了件大事](https://news.sina.com.cn/c/2026-11-04/doc-inixprny9448130.shtml)
+6. [郭宁宁任福建省代省长（附简历）](https://news.sina.com.cn/c/2026-11-04/doc-inixpvvc8118147.shtml)
+7. [陆委会称现在没有“台独”问题 国台办回应](https://news.sina.com.cn/o/2026-11-04/doc-inixprpf8209513.shtml)
+8. [中际旭创“目标价砍至330元”？野村最新报告：维持买入](https://finance.sina.com.cn/roll/2026-11-04/doc-inixpexe9545118.shtml)
+9. [陕西商南重大刑案嫌疑人携刀具潜逃](https://news.sina.com.cn/zx/2026-11-04/doc-inixqhku6141315.shtml)
+10. [患病硕士遭性侵生子案一审宣判，被告人当庭不上诉](https://news.sina.com.cn/c/2026-11-04/doc-inixprpa6253073.shtml)
+11. [[新浪彩票]足彩第26158期任九：多特坐和望赢](https://sports.sina.com.cn/l/2026-11-04/doc-inixpmfh1782334.shtml)
+12. [马斯克就美国中期选举发声](https://news.sina.com.cn/w/2026-11-04/doc-inixqaay1645870.shtml)
+13. [美国民主党拿下三个关键州，参议院胜率高达98%](https://news.sina.com.cn/w/2026-11-04/doc-inixpvva1641745.shtml)
+14. [英国国王查尔斯：奴隶制令我心痛，但不道歉](https://news.sina.com.cn/w/2026-11-04/doc-inixprny9449903.shtml)
+15. [日本爆发万人抗议集会](https://mil.news.sina.com.cn/2026-11-04/doc-inixpmfe6284811.shtml)
+16. [“吉林一号”公布多张台湾高清卫星影像 国台办回应](https://news.sina.com.cn/c/2026-11-04/doc-inixprpf8204541.shtml)
+17. [伊朗要求美明确回应7项条件 特朗普再次喊话不排除对伊动武](https://finance.sina.com.cn/roll/2026-11-04/doc-inixpmfa9458446.shtml)
+18. [美媒：美军中东基地战损严重](https://news.sina.com.cn/w/2026-11-04/doc-inixqaaw6132848.shtml)
+19. [张一鸣被超越，亚洲首富换人了](https://finance.sina.com.cn/roll/2026-11-04/doc-inixpmfi8246002.shtml)
+20. [王毅把话说到“不可容忍”，菲律宾听懂了吗？](https://finance.sina.com.cn/roll/2026-11-04/doc-inixprny9408379.shtml)
 
 ## 财经热榜
 
