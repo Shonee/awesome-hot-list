@@ -93,3 +93,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,OpenAI 自曝 GPT-6 Astra 异常行为：做研究时偷懒，任务完成度降低近四成,报告显示，在技术内容基本相同、仅将任务分别描述为 AI 安全研究和 AI 能力研究的对照测试中，GPT-6 Astra 在安全研究任务中的完成度明显更低。研究发现，在 Astra 的强化学习后训练过程中，安全研究与普通能力研究任务之间的完成度差距，从训练初期几乎为零逐渐扩大至 6 个百分点。OpenAI 还尝试从最终模型中减去该数据集对应的训练权重变化，结果发现，安全研究任务的完成度有所提升，原本存在的安全研究与能力研究差距也随之消失。 IT 之家 38 分钟前,,https://www.ithome.com/1/022/509.htm,,Readhub,AI 资讯,ai,digest,,2026-11-05 09:40:48
 9,华为宣布昇腾 0 Day 支持 Kimi K3.1 Pro 推理部署，2.8 万亿级 MoE 模型能力再进阶,月之暗面发布 K3.1 系列首个模型 K3.1 Pro，采用混合线性注意力与稀疏注意力架构，具备百万 token 上下文和视觉理解能力。昇腾基于 vLLM Ascend、SGLang 完成 0 Day 推理适配，覆盖 Atlas 800 A3、900 A3 SuperPod、950 超节点，支持长上下文推理与多步骤智能体任务部署。 maomu.com 55 分钟前,,https://www.ithome.com/1/022/502.htm,,Readhub,AI 资讯,ai,digest,,2026-11-05 09:40:48
 10,A thousand fewer paths to root,"OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. OpenAI 17 小时前",,https://openai.com/index/a-thousand-fewer-paths-to-root,,Readhub,AI 资讯,ai,digest,,2026-11-05 09:40:48
+1,字节腾讯阿里超三成 AI 社招岗对文科生开放,,,https://readhub.cn/topic/8xmZlxugN32?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+2,苹果大涨超 5%，重返美股市值第一,,,https://readhub.cn/topic/8xmtS8O1s09?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+3,多家大厂及 AI 独角兽关停合并数十款 AI 产品,,,https://readhub.cn/topic/8xmi1GuJE4B?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+4,Anthropic 向 IPO 投资者介绍 Claude 的芯片设计相关能力,,,https://readhub.cn/topic/8xlCOSz0VwH?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+5,《魔兽世界：无限》全球上线：等级永久锁定 60 级,,,https://readhub.cn/topic/8xnRN5t751N?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+6,OpenAI 展示 GPT-6 Astra 辅助实体产品研发新进展,,,https://readhub.cn/topic/8xmQ8nUOwTE?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+7,前 Claude Code 产品负责人离职次日宣布加入 OpenAI,,,https://readhub.cn/topic/8xnaJQ205N1?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+8,谷歌拟投资 150 亿美元扩大马来西亚数据中心业务,,,https://readhub.cn/topic/8xmWEv3koXx?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+9,2.8 万亿参数 Kimi K3.1 Pro 开放权重，登顶 Agent Arena 开源模型榜,,,https://readhub.cn/topic/8xnYAhIupi2?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+10,误封逆向工程用户账号 11 天后 OpenAI 道歉，Anthropic 收紧风控,,,https://readhub.cn/topic/8xmPRgpfLqQ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+11,AI 教父辛顿：AI 可能在今明两年引发大规模风险事件,,,https://readhub.cn/topic/8xm8Hz23geX?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+12,谷歌将自愿离职补偿计划扩大至多个国家,,,https://readhub.cn/topic/8xmT0wliKiR?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+13,杨天真与前阿里高管蒋珊珊共同创立赫励资本，关注前沿科技,,,https://readhub.cn/topic/8xniERRoLSG?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+14,雷军晒小米机器人做家务：可清扫垃圾、物品分类归位,,,https://readhub.cn/topic/8xnZbY0oA8h?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+15,OpenAI 推出 Images 2.6，ChatGPT 支持生成 GIF,,,https://readhub.cn/topic/8xn9Uws3Mn4?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+16,脑机接口技术标准与产业应用参考规范发布,,,https://readhub.cn/topic/8xmftyIFrmT?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+17,华为发布首款鸿蒙台式机,,,https://readhub.cn/topic/8xnxWu6boKc?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+18,抖音李亮：言辞激烈被公司批评，期待短剧出海超越好莱坞,,,https://readhub.cn/topic/8xnmT7TgHV8?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+19,Claude Code 调整游戏开发限制：提及现有游戏不再被拒,,,https://readhub.cn/topic/8xmY23QRN9t?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+20,Claude Code 此前每 30 秒重读全对话生成状态行 浪费 Token,,,https://readhub.cn/topic/8xnk7dBaQkZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+21,Claude 前设计负责人随 Cursor 加入马斯克阵营 操刀 Grok Bot 相关设计,,,https://readhub.cn/topic/8xm3gov1Bhm?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+22,虎鲸文娱「鲸锐 AI」平台正式上线,,,https://readhub.cn/topic/8xmTjj6INqk?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+23,苹果尚未推出智能体产品，已在年报中将其列为风险因素,,,https://readhub.cn/topic/8xnnBHKlPUy?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+24,天山股份：因涉嫌信息披露违法违规 证监会决定对公司立案,,,https://readhub.cn/topic/8xmn3QNp62x?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+25,信维通信：目前 MLCC 业务处于供不应求阶段,,,https://readhub.cn/topic/8xmd3zohf8s?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+26,百度首次披露 Apollo World 世界模型 萝卜快跑端到端已投入运营,,,https://readhub.cn/topic/8xmGrSoY0vi?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+27,Meta 收购 AI 编程初创公司 Conductor,,,https://readhub.cn/topic/8xnMMxJfdkU?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+28,Neuralink 植入者用意念操控 Matic 扫地机器人,,,https://readhub.cn/topic/8xnX5TAEr2K?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+29,DeepSeek Harness 推出 v0.2.2-alpha.3 预发布版本,,,https://readhub.cn/topic/8xmUqcKCZG7?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+30,小米开启 HyperOS 4 海外推送 第二批计划本月中旬展开,,,https://readhub.cn/topic/8xm7CzINlS5?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-05 17:02:40
+1,11.04 国行「Apple 智能与 Siri」上线 部分机型升级 iOS 27.3 预览版可用 16 条,,,https://readhub.cn/daily/2026-11-04,,Readhub,每日早报,daily,digest,2026-11-04,2026-11-05 17:02:40
+2,11.03 iPhone Duo 国行美版存结构差异 14 条,,,https://readhub.cn/daily/2026-11-03,,Readhub,每日早报,daily,digest,2026-11-03,2026-11-05 17:02:40
+3,11.02 马斯克旗下 xAI Grok 支持银联支付宝付款，首月订阅半价 12 条,,,https://readhub.cn/daily/2026-11-02,,Readhub,每日早报,daily,digest,2026-11-02,2026-11-05 17:02:40
+4,11.01 苹果宣布 Apple 智能接入阿里千问 11 月 4 日开放测试 11 条,,,https://readhub.cn/daily/2026-11-01,,Readhub,每日早报,daily,digest,2026-11-01,2026-11-05 17:02:40
+5,10.31 DeepSeek 完成第二轮 1055 亿元融资 估值达 6155 亿元 14 条,,,https://readhub.cn/daily/2026-10-31,,Readhub,每日早报,daily,digest,2026-10-31,2026-11-05 17:02:40
+6,10.30 腾讯即将发布混元新模型 Hy4 、Hy4 flash 16 条,,,https://readhub.cn/daily/2026-10-30,,Readhub,每日早报,daily,digest,2026-10-30,2026-11-05 17:02:40
+7,10.29 苹果发布首款触屏 MacBook Pro：发光 Logo 回归，国行售价 22999 元起 15 条,,,https://readhub.cn/daily/2026-10-29,,Readhub,每日早报,daily,digest,2026-10-29,2026-11-05 17:02:40
+1,上交团队用 GPU 优化算法，解开 18 年未解量子难题,上海交通大学团队用 GPU 加速的求解器 cuLoRADS 直接解出了 5 次查询对应的完整半定规划（SDP），确认了最大可搜索列表规模是 7265，相关论文发表在 PNAS 上。半定规划是一类数学优化方法，在组合优化、机器学习、控制和量子科学里都有一定的应用。在过去很多年里，算法研究归算法研究，硬件优化归硬件优化，两边等于是各走各的路。 麻省理工科技评论 2 小时前,,https://www.mittrchina.com/news/detail/17194,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+2,百度开源 2800 亿参数文心 5.5Flash Base，多项基准测试刷新同尺寸 SOTA,该模型采用 MoE 架构，总参数量达 2800 亿，激活参数 140 亿，使用 33.5 万亿 Token 完成预训练，预训练上下文长度最高达 128K，微调与推理阶段支持最长 100 万 Token 上下文。围绕效率主线，文心 5.5Flash Base 在系统层进行多项算法创新。文心 5.5Flash Base 的开源在降低专业模型开发门槛的同时，为开发者构建定制化专业模型提供了高效的技术底座。 AIBase 1 小时前,,https://www.aibase.com/zh/news/32118,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+3,AI 开始搞药了，药企靠什么竞争？我们和哈佛教授、连续创业者 Gregory Verdine 聊了聊,他创办的生物技术公司 DoveTree 与晶泰科技达成最高总金额数十亿美元的研发合作，由 DoveTree 负责靶点选择、研发方向及后续药物开发，晶泰则结合 AI、物理建模和自动化实验平台，开展具体的药物发现工作。围绕 AI 究竟能为研发解决哪些问题、药企的组织方式将如何变化，以及中国医药创新与跨国合作，他分享了自己的判断，也回顾了从化学研究走向创业和投资的经历。在 DoveTree 与晶泰科技的合作中，双方也采取了明确的研发分工：DoveTree 负责靶点选择、研发方向及后,,https://www.mittrchina.com/news/detail/17193,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+4,从「能画」到「能改」：OpenAI 用 Images 2.6 补齐生图工作流,OpenAI 今日正式推出 Images 2.6，并同步向 ChatGPT、Codex 与 API 开放，覆盖全部订阅档位和桌面、移动、网页端。面向开发者，OpenAI 给出两款定位不同的 API 模型：主打速度的 Flare 在低画质下最快 6 秒出图，强调画质与一致性的 Sunburst 则负责在连续修改中守住人物、产品和品牌细节。另据 The Information 援引知情人士称，OpenAI 最快周五还会推出 Astra、Sol 及网络安全模型，若属实，Images,,https://www.aibase.com/zh/news/32116,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+5,OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元,报告披露，OpenAI 利用一款即将推出的全新网络安全模型，成功构建了一套涵盖自动化漏洞发现、验证、利用及修复的完整闭环流程，在真实测试中交出了一份惊艳的成绩单。从海量的 2308 个候选漏洞中，系统成功动态复现了 1724 个，并最终生成了 948 个可使普通本地用户获取系统最高权限的 Linux 内核提权漏洞利用程序。在经济成本与效率方面，整个自动化测试过程共消耗了约 121 万美元的 API 额度，折算下来，平均每个漏洞利用程序的生成成本仅约 1279 美元，展现出了极,,https://www.aibase.com/zh/news/32111,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+6,91% ≈ 0%？谷歌最新研究，戳破工程 Agent 的高正确率泡沫,在工程世界里，91% 的正确，有时和 0% 的交付能力没有区别。在 56 项隐藏测试中，Claude Opus 5.5 搭配 Claude Code 得分 48.3%，而在共同创作任务中，它平均满足 91% 的单项约束，只有 41.3% 的交付设计项满足全部硬性安全与可行性要求。如果工程 Agent 能够接入 CAD、CAE 和产品生命周期管理系统，在设计修改时自动识别受影响的计算，调用专业工具验证，并保留完整的修订依据，那么 AI 生成的设计就有条件进入现有工程审查流程。,,https://www.leiphone.com/category/ai/YZ0bP2vh94KY45RG.html,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+7,盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠,盖茨表示，监管与监测 AI 的努力正因白宫的不作为而受阻，「除非美国参与，否则行动意义不大，我们陷入了僵局」。这番话显然指向特朗普 —— 后者拒绝加强政府监管，把制定 G20 AI 指导方针说成「全球主义者的阴谋」，转而押注行业自我监管。盖茨建议美国为模型的内部防护与监控设定统一评估基准，牵头全球合作修补网络漏洞，并搭建覆盖「空气、污水和血液」的监测网，以便尽早捕捉 AI 助长的传染病。 AIBase 5 小时前,,https://www.aibase.com/zh/news/32110,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+8,国产 RNA 生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源,中国科学技术大学研究团队近日在生命科学与人工智能交叉领域取得重磅突破，正式推出名为 structRFM 的开源 RNA 序列基础模型，相关研究成果已于近日荣登国际顶级学术期刊《自然》。为了推动全球科研生态的共同进步，研究团队宣布全面开源该模型的完整配对数据、模型权重以及源代码，供全球科研人员无门槛免费使用。随着该模型的全面开源，全球科研力量将能够依托这一全新工具，加速推进 RNA 结构解析与前沿生物医药的研发进程。 AIBase 6 小时前,,https://www.aibase.com/zh/news/32107,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+9,Claude Code 产品负责人 Cat Wu 闪电跳槽 OpenAI，两周内三位核心骨干相继离职,前 Claude Code 产品负责人 Cat Wu 在宣布从 Anthropic 离职仅一天后，便正式宣布加入竞争对手 OpenAI，实现无缝衔接的闪电跳槽。值得注意的是，Cat Wu 的离职并非孤立事件，而是 Anthropic 旗下核心产品 Claude Code 近期面临的一波人才变动缩影。就在十天前，另外两位深度参与 Claude Code 核心功能开发的工程师也相继宣布离去：其中一位是参与 Agent 功能、Skills 以及上下文工程开发的 Thariq Shi,,https://www.aibase.com/zh/news/32120,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40
+10,Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码,专注于视频大模型研发的前沿企业 Sand.ai 近日正式宣布完成总额高达 2 亿美元的 A+ 轮融资。此轮融资投资方阵容豪华，汇聚了产业资本、知名人民币及美元基金以及上海国资等多方重要力量。随着这笔资金的注入，Sand.ai 将进一步加速其在视频大模型领域的底层技术研发、算力基础设施建设以及商业化生态的全面布局。 AIBase 1 小时前,,https://www.aibase.com/zh/news/32119,,Readhub,AI 资讯,ai,digest,,2026-11-05 17:02:40

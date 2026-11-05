@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-05 05:25:22
+> 更新时间：2026-11-05 17:02:05
 
 ## 每日趋势
 
@@ -37,7 +37,6 @@
 12. [Hyprland](https://github.com/hyprwm/Hyprland)
 13. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
 14. [OpenMontage](https://github.com/calesthio/OpenMontage)
-15. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 ## 每月趋势
 
@@ -98,47 +97,20 @@
 
 ## Go
 
-1. [compose](https://github.com/docker/compose)
-2. [beads](https://github.com/gastownhall/beads)
-3. [netbird](https://github.com/netbirdio/netbird)
-4. [BillionMail](https://github.com/Billionmail/BillionMail)
-5. [argo-cd](https://github.com/argoproj/argo-cd)
-6. [multica](https://github.com/multica-ai/multica)
-7. [ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
-8. [tinygo](https://github.com/tinygo-org/tinygo)
-9. [ragflow](https://github.com/infiniflow/ragflow)
-10. [StackChan](https://github.com/m5stack/StackChan)
-11. [fleet](https://github.com/fleetdm/fleet)
-12. [tailscale](https://github.com/tailscale/tailscale)
-13. [new-api](https://github.com/QuantumNous/new-api)
-14. [rclone](https://github.com/rclone/rclone)
-15. [act](https://github.com/nektos/act)
-16. [caveman](https://github.com/JuliusBrussee/caveman)
-17. [frp](https://github.com/fatedier/frp)
-18. [gitea](https://github.com/go-gitea/gitea)
-19. [s-ui](https://github.com/alireza0/s-ui)
-20. [Xray-core](https://github.com/XTLS/Xray-core)
 
 ## HTML
 
-1. [free-for-dev](https://github.com/ripienaar/free-for-dev)
-2. [galaxy](https://github.com/uiverse-io/galaxy)
-3. [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-4. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-5. [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
-6. [microduck-replica](https://github.com/fanhao375/microduck-replica)
 
 ## JavaScript
 
-1. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-2. [ECC](https://github.com/affaan-m/ECC)
-3. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-4. [dsh-purge](https://github.com/HunYiSage/dsh-purge)
-5. [marketingskills](https://github.com/coreyhaines31/marketingskills)
-6. [awesome-copilot](https://github.com/github/awesome-copilot)
-7. [Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
-8. [jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
-9. [anime](https://github.com/juliangarnier/anime)
-10. [LinkSwift](https://github.com/hmjz100/LinkSwift)
-11. [agent-skills](https://github.com/vercel-labs/agent-skills)
-12. [frontend-slides](https://github.com/zarazhangrui/frontend-slides)
+1. [ECC](https://github.com/affaan-m/ECC)
+2. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+3. [dsh-purge](https://github.com/HunYiSage/dsh-purge)
+4. [marketingskills](https://github.com/coreyhaines31/marketingskills)
+5. [awesome-copilot](https://github.com/github/awesome-copilot)
+6. [Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
+7. [jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
+8. [anime](https://github.com/juliangarnier/anime)
+9. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+10. [agent-skills](https://github.com/vercel-labs/agent-skills)
+11. [frontend-slides](https://github.com/zarazhangrui/frontend-slides)

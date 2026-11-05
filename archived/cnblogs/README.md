@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-05 09:40:35
+> 更新时间：2026-11-05 17:02:11
 
 ## 最新帖子
 
-1. [看不见的线怎么选：蓝牙、Wi-Fi、ZigBee、LoRa 与蜂窝网络](https://www.cnblogs.com/zw-awa/p/23555934)
-2. [把AI编码从自由生成到受约束声明：微信生态 .NET SDK 中用源生成器压制 AI 编码幻觉的工程实践](https://www.cnblogs.com/mudtools/p/23555872)
-3. [AI 测试 Skill 大全，我日常在用的 27个，夯爆了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23555484)
-4. [监控告警的异化：为什么告警越多，系统反而越危险](https://www.cnblogs.com/yuyisi/p/23471276)
-5. [Spring Boot 4 升级为什么卡在 Jackson 3？包名、配置与兼容迁移指南](https://www.cnblogs.com/twoshuai/p/23543423)
-6. [从业务上下文到规模化智能体：AIDP 的本体构建实践](https://www.cnblogs.com/jyzhao/p/23554721)
-7. [Redis 数据类型全解 - Bitmap 生产实战：把位视图讲准、用对、守住红线（六）](https://www.cnblogs.com/hugogoos/p/23541232)
-8. [RSI：进化不只发生在模型](https://www.cnblogs.com/fanzhidongyzby/p/23552080/rsi)
-9. [别把钥匙交给 Agent：用 OpenBao 守住 AI 网关背后的令牌库](https://www.cnblogs.com/shanyou/p/23552020)
-10. [【轻量化复刻大模型 / KIMI K3】KDA 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23505185)
-11. [uni-app 跑上鸿蒙，发现蓝牙全瞎：我把 BLE 补齐的实战（一）基建篇](https://www.cnblogs.com/xyyt/p/23551290)
-12. [从 60 万行全表扫描到 1 行：一次库存导出超时问题的排查与索引优化](https://www.cnblogs.com/SheepDog/p/23550837)
-13. [调和分析 · 傅里叶级数(FS) · 傅里叶变换(FT) · 离散傅里叶变换(DFT) · 快速傅里叶变换(FFT) 小白级详细讲解](https://www.cnblogs.com/beiciqi/p/23546245)
-14. [Linux 上 Electron/Chromium 应用所有文字不显示（图标正常）：fontconfig 缓存混代问题](https://www.cnblogs.com/54145a/p/23513104)
-15. [深入学习Oracle 的统计信息](https://www.cnblogs.com/liuziyi1/p/23550316)
-16. [WPF应用熄屏后内存暴涨问题解决记录](https://www.cnblogs.com/dellbeat/p/23549461)
-17. [简单电视投屏 6.0.3 beta发布：一个按钮，把电视投影仪变成我们的第二块屏。免费、无广告、无需扫码配对、多设备同投、被动接收投屏、支持安卓ios投屏到简单电视投屏电脑端](https://www.cnblogs.com/eguid/p/23549376)
-18. [从论文阅读到实验复现：以 EvoGO 为例，构建可复用的科研实验 SOP](https://www.cnblogs.com/heyonggang/p/23549374)
-19. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 7 篇 · 模型训练与评估：复现全部结果、读懂混淆矩阵](https://www.cnblogs.com/dawudexiaowu/p/23548973)
-20. [开发基于ComfyUI图片生成类应用Step by step（二）极简的出图程序](https://www.cnblogs.com/zhenl/p/23548613)
+1. [Agent 支线知识：Personal Agent 如何跨应用完成任务？](https://www.cnblogs.com/Qiniu-developer/p/23561231)
+2. [iNeuOS_Vision视觉分析，SOP操作的行为轨迹和实时监测场景](https://www.cnblogs.com/lsjwq/p/23559995)
+3. [面向技术产品经理的 Agent Harness 设计：从任务编排到可验证交付](https://www.cnblogs.com/vivotech/p/23559951)
+4. [java 多线程开发系列之十：带返回值的异步接口（callable/future）](https://www.cnblogs.com/jilodream/p/23559864)
+5. [在浏览器端使用 JavaScript 将 Word 文档转为纯文本](https://www.cnblogs.com/jazz-z/p/23559552)
+6. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 8 篇 · 可视化诊断系统：PyQt5 搭建带界面的工具](https://www.cnblogs.com/dawudexiaowu/p/23558421)
+7. [PHP 标准库的价值远不止少写几行代码](https://www.cnblogs.com/catchadmin/p/23558364)
+8. [彻底理解RRF混合检索的实现机制和流程](https://www.cnblogs.com/zjdxr-up/p/23552152)
+9. [鸿蒙端对接 BLE 血压计：从一次握手到读数入库（二）设备篇](https://www.cnblogs.com/xyyt/p/23551376)
+10. [SimdCodecs 1.4：纯 C# 解码手机 HEIC，8 核下耗时只有 libheif 的 0.32 倍](https://www.cnblogs.com/sdcb/p/23557088/20261105-simdcodecs-1-4)
+11. [磐维（PanWeiDB）高阶运维知识](https://www.cnblogs.com/liuziyi1/p/23556623)
+12. [读懂 MySQL 索引：从全表扫描到 B+Tree 快速定位](https://www.cnblogs.com/SheepDog/p/23556571)
+13. [Day 10：多数据库支持：CRUD 与结构升级](https://www.cnblogs.com/jeff-tsai/p/23555983/day-10-two-common-jobs)
+14. [Qwen-Image2.1游戏素材工坊：Qwen-image+MiniMax H3实现任意动画精灵图（六）](https://www.cnblogs.com/wyang/p/23555923)
+15. [看不见的线怎么选：蓝牙、Wi-Fi、ZigBee、LoRa 与蜂窝网络](https://www.cnblogs.com/zw-awa/p/23555934)
+16. [把AI编码从自由生成到受约束声明：微信生态 .NET SDK 中用源生成器压制 AI 编码幻觉的工程实践](https://www.cnblogs.com/mudtools/p/23555872)
+17. [监控告警的异化：为什么告警越多，系统反而越危险](https://www.cnblogs.com/yuyisi/p/23471276)
+18. [Spring Boot 4 升级为什么卡在 Jackson 3？包名、配置与兼容迁移指南](https://www.cnblogs.com/twoshuai/p/23543423)
+19. [从业务上下文到规模化智能体：AIDP 的本体构建实践](https://www.cnblogs.com/jyzhao/p/23554721)
+20. [Redis 数据类型全解 - Bitmap 生产实战：把位视图讲准、用对、守住红线（六）](https://www.cnblogs.com/hugogoos/p/23541232)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！](https://www.cnblogs.com/jinjiangongzuoshi/p/23530628)
-2. [AI 写代码越快，企业越需要自己的 Harness](https://www.cnblogs.com/zh94/p/23532252)
-3. [DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念](https://www.cnblogs.com/rangsh/p/23534281)
-4. [面试官让你把 LLM、RAG、Agent、MCP 串起来讲清楚，90% 的 Java 工程师当场露馅](https://www.cnblogs.com/zrui-xyu/p/23544084)
-5. [缓芽：一个从腰酸开始的开源小项目](https://www.cnblogs.com/hannnnnnj/p/23544744)
-6. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
+1. [面试官让你把 LLM、RAG、Agent、MCP 串起来讲清楚，90% 的 Java 工程师当场露馅](https://www.cnblogs.com/zrui-xyu/p/23544084)
+2. [缓芽：一个从腰酸开始的开源小项目](https://www.cnblogs.com/hannnnnnj/p/23544744)
+3. [从投资到人生复盘](https://www.cnblogs.com/beckyyyy/p/23538726)
+4. [SimdCodecs 1.4：纯 C# 解码手机 HEIC，8 核下耗时只有 libheif 的 0.32 倍](https://www.cnblogs.com/sdcb/p/23557088/20261105-simdcodecs-1-4)
+5. [我把 Ant Design Blazor 翻了一遍：Blazor 中后台组件库到底能不能用](https://www.cnblogs.com/shenchuanchao/p/23536294/ant-design-blazor-review-worth-recommending-dotnet-teams)
+6. [缓存和数据库的一致性，别停在 “延时双删”](https://www.cnblogs.com/codigger/p/23544190)

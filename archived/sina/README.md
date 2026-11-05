@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-11-05 09:40:56
+> 更新时间：2026-11-05 17:02:47
 
 ## 新闻热榜
 
-1. [A股大涨，原因找到了](https://news.sina.com.cn/zx/2026-11-04/doc-inixqnsv8008277.shtml)
-2. [“星链”限速后，美国军工复合体露出獠牙](https://finance.sina.com.cn/jjxw/2026-11-05/doc-inixriwe9033267.shtml)
-3. [中美俄三国元首APEC会晤？外交部回应](https://news.sina.com.cn/c/2026-11-04/doc-inixqhkw1558048.shtml)
-4. [A股迎来“大奇迹日”，后市怎么看](https://news.sina.com.cn/o/2026-11-04/doc-inixqsyw6682616.shtml)
-5. [美民主党预计将掌控参众两院 7个共和党参议院席位或翻蓝](https://news.sina.com.cn/2026-11-04/doc-inixqnsv7990002.shtml)
-6. [印尼总统普拉博沃遭窃听，前国家警察总长等三人被捕](https://news.sina.com.cn/w/2026-11-04/doc-inixqaaz8072414.shtml)
-7. [韩国光刻胶龙头，转让在华子公司70%股权](https://news.sina.com.cn/c/2026-11-04/doc-inixqnsq9309772.shtml)
-8. [陕西省教育厅通报“延安大学一副教授去世留疑似遗书”：成立联合调查组](https://news.sina.com.cn/c/2026-11-04/doc-inixqxhn6002728.shtml)
-9. [沙特、伊朗国家安全事务官员同期访华，外交部回应](https://news.sina.com.cn/c/2026-11-04/doc-inixqnsx0075060.shtml)
-10. [特朗普称不后悔发动伊朗战事](https://news.sina.com.cn/zx/2026-11-04/doc-inixqhks9365641.shtml)
-11. [极为罕见！中国投资者被排挤，“这完全暴露了荷兰的海盗嘴脸”](https://news.sina.com.cn/c/2026-11-05/doc-inixrqek9698954.shtml)
-12. [中方如何看待美国国会中期选举？外交部回应](https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkx8007552.shtml)
-13. [中国气象局：最强厄尔尼诺将明显影响我国，预计今冬气温总体偏高](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmnqf8811400.shtml)
-14. [弗拉维奥·博尔索纳罗明天将在海湖庄园发表讲话。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixriwq6406161.shtml)
-15. [费城半导体指数日内跌5%](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhn6026752.shtml)
-16. [民主党夺下参议院 特朗普重塑美联储之路再添屏障](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhk9250194.shtml)
-17. [中东欧四国总统峰会在斯洛伐克举行](https://news.sina.com.cn/w/2026-11-05/doc-inixqxhu6603136.shtml)
+1. [陕西省教育厅通报“延安大学一副教授去世留疑似遗书”：成立联合调查组](https://news.sina.com.cn/c/2026-11-04/doc-inixqxhn6002728.shtml)
+2. [陕西商南重大刑案3死2伤：有民警受伤，嫌疑人逃进山林仍在搜捕](https://news.sina.com.cn/o/2026-11-05/doc-inixrunk6262054.shtml)
+3. [福建舰入列一周年！回顾大国重器硬核成长航迹](https://news.sina.com.cn/c/2026-11-05/doc-inixrqen6307869.shtml)
+4. [贾迈勒·阿布·赛义德，遇袭身亡](https://news.sina.com.cn/w/2026-11-05/doc-inixrqen6349065.shtml)
+5. [海盗嘴脸！荷兰安世向中企“索赔20亿美元”](https://news.sina.com.cn/c/2026-11-05/doc-inixrqee5756168.shtml)
+6. [中共中央政治局原委员、中央农村工作领导小组原副组长马兴瑞被公诉！曾被批严重违反政治纪律和政治规矩、大搞家族腐败](https://news.sina.com.cn/c/2026-11-05/doc-inixryuh6209045.shtml)
+7. [极为罕见！中国投资者被排挤，“这完全暴露了荷兰的海盗嘴脸”](https://news.sina.com.cn/c/2026-11-05/doc-inixrqek9698954.shtml)
+8. [发生了什么？布伦特原油突然跳水暴跌10%](https://finance.sina.com.cn/roll/2026-11-05/doc-inixrcqk5929006.shtml)
+9. [A股大涨，原因找到了](https://news.sina.com.cn/zx/2026-11-04/doc-inixqnsv8008277.shtml)
+10. [以总统警告以总理：“极具危险”，我们将面临灾难！](https://mil.news.sina.com.cn/2026-11-05/doc-inixrytw8861137.shtml)
+11. [多地重拳整治“鬼火少年”，之后呢？](https://news.sina.com.cn/s/2026-11-05/doc-inixruna5692000.shtml)
+12. [中美俄三国元首APEC会晤？外交部回应](https://news.sina.com.cn/c/2026-11-04/doc-inixqhkw1558048.shtml)
+13. [特朗普称伊朗战事何时结束将由其决定](https://news.sina.com.cn/w/2026-11-05/doc-inixriwn9759931.shtml)
+14. [A股迎来“大奇迹日”，后市怎么看](https://news.sina.com.cn/o/2026-11-04/doc-inixqsyw6682616.shtml)
+15. [历史性惨败后，特朗普“找到”最重要原因](https://news.sina.com.cn/w/2026-11-05/doc-inixrumy8897522.shtml)
+16. [美参议院民主党领袖：伊朗战事“必须结束”](https://news.sina.com.cn/w/2026-11-05/doc-inixryue9534907.shtml)
+17. [乱港分子黄之锋再获刑10年](https://news.sina.com.cn/c/2026-11-05/doc-inixryty5718117.shtml)
 18. [美国停止对以色列每年约40亿美元援助，以方担忧](https://news.sina.com.cn/w/2026-11-05/doc-inixrqek9675334.shtml)
-19. [马斯克就美国中期选举发声](https://news.sina.com.cn/w/2026-11-04/doc-inixqaay1645870.shtml)
-20. [摩根大通将阿波罗全球管理公司的目标股价从每股153.00美元上调至157.00美元，维持增持评级。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixriwe9040162.shtml)
+19. [韩国光刻胶龙头，转让在华子公司70%股权](https://news.sina.com.cn/c/2026-11-04/doc-inixqnsq9309772.shtml)
+20. [“星链”限速后，美国军工复合体露出獠牙](https://finance.sina.com.cn/jjxw/2026-11-05/doc-inixriwe9033267.shtml)
 
 ## 财经热榜
 
