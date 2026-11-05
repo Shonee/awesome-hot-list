@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-11-06 01:19:58
+> 更新时间：2026-11-06 06:47:09
 
 ## 热点榜
 
@@ -17,10 +17,10 @@
 11. [互联护苗展播│孩子每天可以看多长时间的手机？青少年短视频成瘾9大真相](https://mp.weixin.qq.com/s/lrTvIQTyuCmBVmfQY0iAgA?platform=mac&version=5.0.13.95049)
 12. [居民医保参保人数连续7年下降，人数减少8300万？国家医保局回应](https://view.inews.qq.com/a/20261105A0B3NQ00)
 13. [陈建斌，有新身份](https://view.inews.qq.com/a/20261105A0DQPW00)
-14. [黄之锋，再获刑10年](https://view.inews.qq.com/a/20261105A06K6Z00)
-15. [演员唐嫣，当选上海浦东文联副主席](https://view.inews.qq.com/a/20261105A04FD500)
-16. [罕见！马斯克删帖了](https://view.inews.qq.com/a/20261105A0821200)
-17. [‍‍恭喜那些洗袜子不翻面的人！](https://view.inews.qq.com/a/20261105A0A2BS00)
-18. [2299元智能指环“戴上可防摔”引热议，企业：恶意抹黑的会被约谈](https://view.inews.qq.com/a/20261105A0DK7V00)
-19. [西南交大：王某抄袭属实撤销硕士学位；铁建交运：已第一时间上报，配合核查](https://view.inews.qq.com/a/20261105A0555G00)
-20. [苹果削减内部AI使用预算，日额度最低只有25美元](https://view.inews.qq.com/a/20261105A02YD000)
+14. [演员唐嫣，当选上海浦东文联副主席](https://view.inews.qq.com/a/20261105A04FD500)
+15. [2299元智能指环“戴上可防摔”引热议，企业：恶意抹黑的会被约谈](https://view.inews.qq.com/a/20261105A0DK7V00)
+16. [黄之锋，再获刑10年](https://view.inews.qq.com/a/20261105A06K6Z00)
+17. [西南交大：王某抄袭属实撤销硕士学位；铁建交运：已第一时间上报，配合核查](https://view.inews.qq.com/a/20261105A0555G00)
+18. [罕见！马斯克删帖了](https://view.inews.qq.com/a/20261105A0821200)
+19. [‍‍恭喜那些洗袜子不翻面的人！](https://view.inews.qq.com/a/20261105A0A2BS00)
+20. [51张红牌创世界纪录！巴西球队1-3后宣布弃赛 送对手晋级决赛](https://view.inews.qq.com/a/20261105A0522J00)
