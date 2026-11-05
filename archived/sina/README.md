@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-11-05 05:25:57
+> 更新时间：2026-11-05 09:40:56
 
 ## 新闻热榜
 
-1. [中国气象局：最强厄尔尼诺将明显影响我国，预计今冬气温总体偏高](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmnqf8811400.shtml)
-2. [费城半导体指数日内跌5%](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhn6026752.shtml)
-3. [民主党夺下参议院 特朗普重塑美联储之路再添屏障](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhk9250194.shtml)
-4. [A股大涨，原因找到了](https://news.sina.com.cn/zx/2026-11-04/doc-inixqnsv8008277.shtml)
-5. [摩根大通将阿波罗全球管理公司的目标股价从每股153.00美元上调至157.00美元，维持增持评级。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixriwe9040162.shtml)
-6. [以军对黎南部发动空袭 造成1死1伤](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhn6038569.shtml)
+1. [A股大涨，原因找到了](https://news.sina.com.cn/zx/2026-11-04/doc-inixqnsv8008277.shtml)
+2. [“星链”限速后，美国军工复合体露出獠牙](https://finance.sina.com.cn/jjxw/2026-11-05/doc-inixriwe9033267.shtml)
+3. [中美俄三国元首APEC会晤？外交部回应](https://news.sina.com.cn/c/2026-11-04/doc-inixqhkw1558048.shtml)
+4. [A股迎来“大奇迹日”，后市怎么看](https://news.sina.com.cn/o/2026-11-04/doc-inixqsyw6682616.shtml)
+5. [美民主党预计将掌控参众两院 7个共和党参议院席位或翻蓝](https://news.sina.com.cn/2026-11-04/doc-inixqnsv7990002.shtml)
+6. [印尼总统普拉博沃遭窃听，前国家警察总长等三人被捕](https://news.sina.com.cn/w/2026-11-04/doc-inixqaaz8072414.shtml)
 7. [韩国光刻胶龙头，转让在华子公司70%股权](https://news.sina.com.cn/c/2026-11-04/doc-inixqnsq9309772.shtml)
-8. [A股迎来“大奇迹日”，后市怎么看](https://news.sina.com.cn/o/2026-11-04/doc-inixqsyw6682616.shtml)
-9. [美民主党预计将掌控参众两院 7个共和党参议院席位或翻蓝](https://news.sina.com.cn/2026-11-04/doc-inixqnsv7990002.shtml)
-10. [中美俄三国元首APEC会晤？外交部回应](https://news.sina.com.cn/c/2026-11-04/doc-inixqhkw1558048.shtml)
-11. [陕西商南重大刑案嫌疑人携刀具潜逃](https://news.sina.com.cn/zx/2026-11-04/doc-inixqhku6141315.shtml)
-12. [美国延长与尼加拉瓜相关的国家紧急状态令。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhn6031960.shtml)
-13. [巴拿马运河管理局局长表示，今年一艘船通过巴拿马运河支付的最高费用为520万美元。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixrcqs6517156.shtml)
-14. [市场消息：白宫媒体随行团刚刚接到通知，前往棕榈厅门口集合。这将是中期选举结果出炉后，特朗普总统首次出镜，就选举结果作出表态。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixrcqh9147746.shtml)
-15. [西班牙请求欧盟铁路局协助调查高铁事故](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixrcqh9141064.shtml)
-16. [美股涨幅扩大，道琼斯指数上涨3.00%。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixriwh5811310.shtml)
-17. [布伦特原油日内跌6%，现报97.36美元/桶。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhk9260938.shtml)
-18. [调查显示，预计美国能源信息署（EIA）周四发布的报告将显示，上周美国天然气库存增加810亿立方英尺。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixrcqk5939496.shtml)
-19. [巴拿马运河管理局局长表示，最大授权船舶吃水深度可能根据未来几个月的降雨情况进行调整。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixrcqk5926125.shtml)
-20. [巴拿马运河管理局局长表示，巴拿马运河已开始规划第三个新码头项目，以扩大运力。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixrcqh9142933.shtml)
+8. [陕西省教育厅通报“延安大学一副教授去世留疑似遗书”：成立联合调查组](https://news.sina.com.cn/c/2026-11-04/doc-inixqxhn6002728.shtml)
+9. [沙特、伊朗国家安全事务官员同期访华，外交部回应](https://news.sina.com.cn/c/2026-11-04/doc-inixqnsx0075060.shtml)
+10. [特朗普称不后悔发动伊朗战事](https://news.sina.com.cn/zx/2026-11-04/doc-inixqhks9365641.shtml)
+11. [极为罕见！中国投资者被排挤，“这完全暴露了荷兰的海盗嘴脸”](https://news.sina.com.cn/c/2026-11-05/doc-inixrqek9698954.shtml)
+12. [中方如何看待美国国会中期选举？外交部回应](https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkx8007552.shtml)
+13. [中国气象局：最强厄尔尼诺将明显影响我国，预计今冬气温总体偏高](https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmnqf8811400.shtml)
+14. [弗拉维奥·博尔索纳罗明天将在海湖庄园发表讲话。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixriwq6406161.shtml)
+15. [费城半导体指数日内跌5%](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhn6026752.shtml)
+16. [民主党夺下参议院 特朗普重塑美联储之路再添屏障](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixqxhk9250194.shtml)
+17. [中东欧四国总统峰会在斯洛伐克举行](https://news.sina.com.cn/w/2026-11-05/doc-inixqxhu6603136.shtml)
+18. [美国停止对以色列每年约40亿美元援助，以方担忧](https://news.sina.com.cn/w/2026-11-05/doc-inixrqek9675334.shtml)
+19. [马斯克就美国中期选举发声](https://news.sina.com.cn/w/2026-11-04/doc-inixqaay1645870.shtml)
+20. [摩根大通将阿波罗全球管理公司的目标股价从每股153.00美元上调至157.00美元，维持增持评级。](https://finance.sina.com.cn/7x24/2026-11-05/doc-inixriwe9040162.shtml)
 
 ## 财经热榜
 

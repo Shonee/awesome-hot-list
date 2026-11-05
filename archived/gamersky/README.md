@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-11-05 05:26:01
+> 更新时间：2026-11-05 09:41:20
 
 ## 热点资讯排行
 
@@ -12,10 +12,10 @@
 6. [《影之刃零》铁匠脸模发文庆祝!一人分饰三角](https://www.gamersky.com/news/202611/2238497.shtml)
 7. [《影之刃零》最强10把武器！第一名你想不到](https://www.gamersky.com/news/202611/2238730.shtml)
 8. [玩《红色沙漠：增强版》娶到美女老婆 共花费7小时](https://www.gamersky.com/news/202611/2239004.shtml)
-9. [《影之刃零》更新官宣！新增内容曝光 问题修复](https://www.gamersky.com/news/202611/2240107.shtml)
-10. [中国玩家睡觉在线少60万!《影之刃零》引老外热议](https://www.gamersky.com/news/202611/2238586.shtml)
-11. [60分外媒报道《影之刃零》400万销量遭群嘲：小丑！](https://www.gamersky.com/news/202611/2239469.shtml)
-12. [《影之刃零》幕后神级大佬不参与续作！给钱也不干了 不过正在做《湮灭之潮》](https://www.gamersky.com/news/202611/2240259.shtml)
-13. [《影之刃零》成人MOD上新](https://www.gamersky.com/news/202611/2240506.shtml)
+9. [《影之刃零》成人MOD上新](https://www.gamersky.com/news/202611/2240506.shtml)
+10. [《影之刃零》更新官宣！新增内容曝光 问题修复](https://www.gamersky.com/news/202611/2240107.shtml)
+11. [《影之刃零》幕后神级大佬不参与续作！给钱也不干了 不过正在做《湮灭之潮》](https://www.gamersky.com/news/202611/2240259.shtml)
+12. [中国玩家睡觉在线少60万!《影之刃零》引老外热议](https://www.gamersky.com/news/202611/2238586.shtml)
+13. [60分外媒报道《影之刃零》400万销量遭群嘲：小丑！](https://www.gamersky.com/news/202611/2239469.shtml)
 14. [《无主之地4》超级豪华版免费送！但网友炸了](https://www.gamersky.com/news/202611/2239468.shtml)
 15. [IGN 10分《鬼武者》惨遭破解！发售仅两个月](https://www.gamersky.com/news/202611/2238487.shtml)
