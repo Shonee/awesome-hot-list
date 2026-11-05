@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-05 17:02:54
+> 更新时间：2026-11-06 01:20:05
 
 ## 日榜
 
-1. [真 · 互通：国行 Apple 智能创作内容、问询结果会同步至千问 App](https://www.ithome.com/1/022/459.htm)
-2. [【视频】苦等两年，终于来了：Apple 智能国行版本实测，千问撑起了一片天](https://www.ithome.com/1/022/376.htm)
-3. [连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光](https://www.ithome.com/1/022/468.htm)
-4. [安卓首款阔直板手机酷派 COOL X Wide 宣布延期发货，官方发布致歉说明](https://www.ithome.com/1/022/386.htm)
-5. [京东宣布率先在行业内推出安装充电桩线缆“按米收费”：0 米起售，用多少米买多少米](https://www.ithome.com/1/022/414.htm)
-6. [中兴手机官方微信公众号账号迁移，主体变更为上海申启纪元智能终端有限责任公司](https://www.ithome.com/1/022/428.htm)
-7. [华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”](https://www.ithome.com/1/022/472.htm)
-8. [22.98 万元起 2027 款极氪 7X 开启预售，CLTC 续航 620~802km](https://www.ithome.com/1/022/535.htm)
-9. [张雪：中国摩托车超越全球顶级对手和品牌要耐得住寂寞，这个过程一定是痛并快乐着的](https://www.ithome.com/1/022/427.htm)
-10. [尝鲜需谨慎：曝 iPhone Duo 升级 iOS 27.3 测试版微信暂缺“和其他设备同时登录”功能](https://www.ithome.com/1/022/265.htm)
-11. [华为 MatePad Mini 小平板获 HarmonyOS 7.0.0.111 SP16 升级，互助通信共享功能下放](https://www.ithome.com/1/022/447.htm)
-12. [国铁集团：Z、N、V 字头普速旅客列车 11 月 25 日发行，首批车票 11 月 11 日起发售](https://www.ithome.com/1/022/551.htm)
+1. [2027 年放假安排出炉：调休减少，史上最长 9 天春节假期即将回归](https://www.ithome.com/1/022/902.htm)
+2. [内存涨价环境下 Discord 弃用 Electron：改用 Rust 重写客户端，占用体积从 4GB 降至 290MB](https://www.ithome.com/1/022/673.htm)
+3. [比亚迪第二代海豹 07 上市：搭载云辇-M 智能磁流变车身控制系统，超级置换价 13.59 万元起](https://www.ithome.com/1/022/972.htm)
+4. [22.98 万元起 2027 款极氪 7X 开启预售，CLTC 续航 620~802km](https://www.ithome.com/1/022/535.htm)
+5. [国铁集团：Z、N、V 字头普速旅客列车 11 月 25 日发行，首批车票 11 月 11 日起发售](https://www.ithome.com/1/022/551.htm)
+6. [华为鸿蒙电脑官宣年内支持侧载，开放本地安装应用](https://www.ithome.com/1/022/741.htm)
+7. [一汽丰田全新亚洲龙上市，限时权益价 13.38 万元起](https://www.ithome.com/1/022/982.htm)
+8. [苹果 MacBook Neo 卖爆：消息称第二代订单量翻倍备货，2027 年瞄准 1600 万台](https://www.ithome.com/1/022/491.htm)
+9. [华为余承东：鸿蒙电脑迈过百万台门槛，是新的起点](https://www.ithome.com/1/022/771.htm)
+10. [100% 国产电脑！华为擎云 HM650 系列首款鸿蒙台式机获业界首个国产化率 100% 认证](https://www.ithome.com/1/022/774.htm)
+11. [首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率](https://www.ithome.com/1/022/834.htm)
+12. [华为智慧音频桌面小组件正式上线，支持 HarmonyOS、iOS、Android 系统](https://www.ithome.com/1/022/912.htm)

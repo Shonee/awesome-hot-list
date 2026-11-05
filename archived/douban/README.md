@@ -1,6 +1,6 @@
 # 豆瓣热榜
 
-> 更新时间：2026-11-05 17:03:06
+> 更新时间：2026-11-06 01:20:16
 
 ## 小组精选
 
@@ -12,7 +12,7 @@
 6. [卷瓣藏秋 初漏花色✨](https://www.douban.com/group/topic/504494109/?_spm_id=MjE2ODMwMjc5)
 7. [我儿一玩起来就变成方块小猫了😍](https://www.douban.com/group/topic/504290544/?_spm_id=MTg1NTE0NzIx)
 8. [偶遇红头仔](https://www.douban.com/group/topic/504533946/?_spm_id=MTI1MTg0Mw)
-9. [帮退休的爸妈搭建了一份每天工作2小时每月收入2w➕的银发事业（老爸篇-上）](https://www.douban.com/group/topic/504512261/?_spm_id=NTYyMzI3NjY)
+9. [帮退休的爸妈搭建了一份每天工作2小时每月收入2w➕的银发事业（老爸篇完结）](https://www.douban.com/group/topic/504512261/?_spm_id=NTYyMzI3NjY)
 10. [家居清洁好物分享｜（第五篇）](https://www.douban.com/group/topic/504359070/?_spm_id=MjA1ODM5NDE5)
 11. [你头发还挺多](https://www.douban.com/group/topic/504450526/?_spm_id=MzM4OTExMg)
 12. [大同三天两夜千元一人游攻略🪷](https://www.douban.com/group/topic/504390339/?_spm_id=MjAzNDUzMTk4)
