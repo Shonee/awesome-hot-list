@@ -1,6 +1,6 @@
 # 知乎热榜
 
-> 更新时间：2026-11-06 19:20:34
+> 更新时间：2026-11-07 02:15:00
 
 ## 知乎热榜
 
@@ -57,29 +57,27 @@
 
 ## 知乎热搜
 
-1. [仰望U9X创造时速503.17km全新纪录](https://www.zhihu.com/search?q=%E4%BB%B0%E6%9C%9BU9X%E5%88%9B%E9%80%A0%E6%97%B6%E9%80%9F503.17km%E5%85%A8%E6%96%B0%E7%BA%AA%E5%BD%95)
-2. [2027款极氪7X](https://www.zhihu.com/search?q=2027%E6%AC%BE%E6%9E%81%E6%B0%AA7X)
-3. [黄渤担心遗传父母的阿尔兹海默症](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E6%8B%85%E5%BF%83%E9%81%97%E4%BC%A0%E7%88%B6%E6%AF%8D%E7%9A%84%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87)
-4. [美股科技股遭遇抛售潮](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E9%81%87%E6%8A%9B%E5%94%AE%E6%BD%AE)
-5. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
-6. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
-7. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
-8. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-9. [王子璇 文吉儿](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%96%87%E5%90%89%E5%84%BF)
-10. [王子璇文吉儿关系](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%96%87%E5%90%89%E5%84%BF%E5%85%B3%E7%B3%BB)
-11. [红果短剧登顶台湾App下载榜首](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E7%99%BB%E9%A1%B6%E5%8F%B0%E6%B9%BEApp%E4%B8%8B%E8%BD%BD%E6%A6%9C%E9%A6%96)
-12. [dsh 推出 Creator Mode](https://www.zhihu.com/search?q=dsh%20%E6%8E%A8%E5%87%BA%20Creator%20Mode)
-13. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-14. [《影之刃零》对玩家无恶意设计](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E5%AF%B9%E7%8E%A9%E5%AE%B6%E6%97%A0%E6%81%B6%E6%84%8F%E8%AE%BE%E8%AE%A1)
-15. [DeepSeek回应服务崩溃](https://www.zhihu.com/search?q=DeepSeek%E5%9B%9E%E5%BA%94%E6%9C%8D%E5%8A%A1%E5%B4%A9%E6%BA%83)
-16. [张雪重庆大学开价被学生嫌弃](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E4%BB%B7%E8%A2%AB%E5%AD%A6%E7%94%9F%E5%AB%8C%E5%BC%83)
-17. [研究称穿袜子睡觉可更快入睡](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E7%A7%B0%E7%A9%BF%E8%A2%9C%E5%AD%90%E7%9D%A1%E8%A7%89%E5%8F%AF%E6%9B%B4%E5%BF%AB%E5%85%A5%E7%9D%A1)
-18. [巴菲特自曝48年不喝水只喝可乐](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%87%AA%E6%9B%9D48%E5%B9%B4%E4%B8%8D%E5%96%9D%E6%B0%B4%E5%8F%AA%E5%96%9D%E5%8F%AF%E4%B9%90)
-19. [丁俊晖逆转马奎尔](https://www.zhihu.com/search?q=%E4%B8%81%E4%BF%8A%E6%99%96%E9%80%86%E8%BD%AC%E9%A9%AC%E5%A5%8E%E5%B0%94)
-20. [丁俊晖 6-5 马奎尔](https://www.zhihu.com/search?q=%E4%B8%81%E4%BF%8A%E6%99%96%206-5%20%E9%A9%AC%E5%A5%8E%E5%B0%94)
-21. [南京多所高中推迟上学时间](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%9A%E6%89%80%E9%AB%98%E4%B8%AD%E6%8E%A8%E8%BF%9F%E4%B8%8A%E5%AD%A6%E6%97%B6%E9%97%B4)
-22. [曝华晨宝马裁员约1800人](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%8E%E6%99%A8%E5%AE%9D%E9%A9%AC%E8%A3%81%E5%91%98%E7%BA%A61800%E4%BA%BA)
-23. [谷歌调整K-12教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4K-12%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
-24. [谷歌调整教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
-25. [腾讯被曝将推AI搜索引擎](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%8E%A8AI%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
-26. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
+1. [谷雨](https://www.zhihu.com/search?q=%E8%B0%B7%E9%9B%A8)
+2. [黄渤担心遗传父母的阿尔兹海默症](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E6%8B%85%E5%BF%83%E9%81%97%E4%BC%A0%E7%88%B6%E6%AF%8D%E7%9A%84%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87)
+3. [美股科技股遭遇抛售潮](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E9%81%87%E6%8A%9B%E5%94%AE%E6%BD%AE)
+4. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
+5. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
+6. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
+7. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+8. [王子璇 文吉儿](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%96%87%E5%90%89%E5%84%BF)
+9. [王子璇文吉儿关系](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%96%87%E5%90%89%E5%84%BF%E5%85%B3%E7%B3%BB)
+10. [dsh 推出 Creator Mode](https://www.zhihu.com/search?q=dsh%20%E6%8E%A8%E5%87%BA%20Creator%20Mode)
+11. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+12. [《影之刃零》对玩家无恶意设计](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E5%AF%B9%E7%8E%A9%E5%AE%B6%E6%97%A0%E6%81%B6%E6%84%8F%E8%AE%BE%E8%AE%A1)
+13. [张雪重庆大学开价被学生嫌弃](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E4%BB%B7%E8%A2%AB%E5%AD%A6%E7%94%9F%E5%AB%8C%E5%BC%83)
+14. [研究称穿袜子睡觉可更快入睡](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E7%A7%B0%E7%A9%BF%E8%A2%9C%E5%AD%90%E7%9D%A1%E8%A7%89%E5%8F%AF%E6%9B%B4%E5%BF%AB%E5%85%A5%E7%9D%A1)
+15. [巴菲特自曝48年不喝水只喝可乐](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%87%AA%E6%9B%9D48%E5%B9%B4%E4%B8%8D%E5%96%9D%E6%B0%B4%E5%8F%AA%E5%96%9D%E5%8F%AF%E4%B9%90)
+16. [丁俊晖逆转马奎尔](https://www.zhihu.com/search?q=%E4%B8%81%E4%BF%8A%E6%99%96%E9%80%86%E8%BD%AC%E9%A9%AC%E5%A5%8E%E5%B0%94)
+17. [丁俊晖 6-5 马奎尔](https://www.zhihu.com/search?q=%E4%B8%81%E4%BF%8A%E6%99%96%206-5%20%E9%A9%AC%E5%A5%8E%E5%B0%94)
+18. [南京多所高中推迟上学时间](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%9A%E6%89%80%E9%AB%98%E4%B8%AD%E6%8E%A8%E8%BF%9F%E4%B8%8A%E5%AD%A6%E6%97%B6%E9%97%B4)
+19. [曝华晨宝马裁员约1800人](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%8E%E6%99%A8%E5%AE%9D%E9%A9%AC%E8%A3%81%E5%91%98%E7%BA%A61800%E4%BA%BA)
+20. [谷歌调整K-12教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4K-12%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
+21. [谷歌调整教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
+22. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
+23. [南大称智慧教室不再统计抬头率](https://www.zhihu.com/search?q=%E5%8D%97%E5%A4%A7%E7%A7%B0%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%B8%8D%E5%86%8D%E7%BB%9F%E8%AE%A1%E6%8A%AC%E5%A4%B4%E7%8E%87)
+24. [南京大学抬头率](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%8A%AC%E5%A4%B4%E7%8E%87)

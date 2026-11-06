@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-06 19:21:44
+> 更新时间：2026-11-07 02:17:07
 
 ## 日榜
 
-1. [比亚迪第二代海豹 07 上市：搭载云辇-M 智能磁流变车身控制系统，超级置换价 13.59 万元起](https://www.ithome.com/1/022/972.htm)
-2. [一汽丰田全新亚洲龙上市，限时权益价 13.38 万元起](https://www.ithome.com/1/022/982.htm)
-3. [DeepSeek Harness：日活跃用户达 154 万、日消耗 Token 约 92 万亿，将建设官方插件市场](https://www.ithome.com/1/023/011.htm)
-4. [12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售](https://www.ithome.com/1/023/022.htm)
-5. [5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）](https://www.ithome.com/1/023/021.htm)
-6. [蔚来李斌再次警告车重，汽车重量增两成、路面损耗增至 2 倍](https://www.ithome.com/1/023/220.htm)
-7. [网易 UU 远程宣布适配鸿蒙 HarmonyOS 系统，移动端 Beta 版内测预约开启](https://www.ithome.com/1/023/003.htm)
-8. [芯片股遭“血洗”：美股经历过山车式暴跌，纳指 6 分钟抹平 2026 中期选举选后涨幅](https://www.ithome.com/1/023/061.htm)
-9. [全新 smart 精灵#2 正式上市：410 公里续航，限时权益价 9.99 万元起](https://www.ithome.com/1/022/970.htm)
-10. [22999 元起：苹果首款触屏 MacBook Pro 正式开售，可选 M5 Pro/M5 Max 芯片](https://www.ithome.com/1/023/020.htm)
-11. [【IT之家开箱】苹果首款触控屏 MacBook Pro 图赏：双层串联 OLED 屏幕，灵动岛首次登陆 Mac](https://www.ithome.com/1/023/006.htm)
-12. [BLG 零封 DK 挺进《英雄联盟》S16 四强，下轮对战 T1/KC 胜者](https://www.ithome.com/1/023/050.htm)
+1. [蔚来李斌再次警告车重，汽车重量增两成、路面损耗增至 2 倍](https://www.ithome.com/1/023/220.htm)
+2. [4499 → 2968 元：小米 REDMI K100 Pro Max 旗舰手机官方直播间再降价](https://www.ithome.com/1/023/427.htm)
+3. [男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结](https://www.ithome.com/1/023/521.htm)
+4. [刹车踏板支架断裂风波一个月后，鸿蒙智行尊界汽车官方微博重启 V800 车型宣传](https://www.ithome.com/1/023/340.htm)
+5. [芯片股遭“血洗”：美股经历过山车式暴跌，纳指 6 分钟抹平 2026 中期选举选后涨幅](https://www.ithome.com/1/023/061.htm)
+6. [地表最快量产车！比亚迪仰望 U9X 超跑极速挑战 503.17km/h 再创全球新纪录](https://www.ithome.com/1/023/373.htm)
+7. [今日宜休鸿蒙版适配进度落后，王腾透露华为开发团队特意拉了小群来支持](https://www.ithome.com/1/023/533.htm)
+8. [BLG 零封 DK 挺进《英雄联盟》S16 四强，下轮对战 T1/KC 胜者](https://www.ithome.com/1/023/050.htm)
+9. [豆包工作个人版取消 5 小时额度限制](https://www.ithome.com/1/023/414.htm)
+10. [首款折叠 iPhone Duo 发售约 2 周后：苹果发起问卷调查，询问折痕、成像质量等核心体验](https://www.ithome.com/1/023/165.htm)
+11. [微软 Win11 27H2 前瞻：改善 64 位应用性能、更换系统默认壁纸](https://www.ithome.com/1/023/339.htm)
+12. [方程豹官宣钛 9 本月上市：比亚迪闪充技术 + 二代刀片电池加持](https://www.ithome.com/1/023/213.htm)

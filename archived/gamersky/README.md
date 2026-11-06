@@ -1,6 +1,6 @@
 # 游民星空热榜
 
-> 更新时间：2026-11-06 19:21:43
+> 更新时间：2026-11-07 02:17:07
 
 ## 热点资讯排行
 
@@ -15,7 +15,7 @@
 9. [《影之刃零》铁匠脸模发文庆祝!一人分饰三角](https://www.gamersky.com/news/202611/2238497.shtml)
 10. [玩《红色沙漠：增强版》娶到美女老婆 共花费7小时](https://www.gamersky.com/news/202611/2239004.shtml)
 11. [《影之刃零》幕后神级大佬不参与续作！给钱也不干了 不过正在做《湮灭之潮》](https://www.gamersky.com/news/202611/2240259.shtml)
-12. [《影之刃零》更新官宣！新增内容曝光 问题修复](https://www.gamersky.com/news/202611/2240107.shtml)
-13. [《影之刃零》新娘](https://www.gamersky.com/news/202611/2241004.shtml)
-14. [中国玩家睡觉在线少60万!《影之刃零》引老外热议](https://www.gamersky.com/news/202611/2238586.shtml)
+12. [《影之刃零》MOD被N网下架！尺度太大受不了?](https://www.gamersky.com/news/202611/2241723.shtml)
+13. [《影之刃零》更新官宣！新增内容曝光 问题修复](https://www.gamersky.com/news/202611/2240107.shtml)
+14. [《影之刃零》新娘](https://www.gamersky.com/news/202611/2241004.shtml)
 15. [60分外媒报道《影之刃零》400万销量遭群嘲：小丑！](https://www.gamersky.com/news/202611/2239469.shtml)

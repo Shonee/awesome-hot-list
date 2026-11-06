@@ -1,11 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-11-06 19:21:44
+> 更新时间：2026-11-07 02:17:10
 
 ## 首页头条
 
-1. [中期选举重塑美国政治版图，2028年大选全美都将是摇摆州？](https://www.yicai.com/news/103429362.html)
-2. [6城住户存款超3万亿](https://www.yicai.com/news/103429859.html)
-3. [放量杀跌！美国科技股蒸发2.5万亿美元，AI板块调整会走多远？](https://www.yicai.com/news/103428816.html)
-4. [进博会十大看点：存储双雄、芯片设备三强、四大粮商都来了](https://www.yicai.com/news/103427713.html)
-5. [全国融资平台数量降了九成多，什么信号？](https://www.yicai.com/news/103427905.html)
+1. [6城住户存款超3万亿](https://www.yicai.com/news/103429859.html)
+2. [进博会里的中国贸易：进口旺盛，谁挑大梁？](https://www.yicai.com/news/103429878.html)
+3. [中期选举重塑美国政治版图，2028年大选全美都将是摇摆州？](https://www.yicai.com/news/103429362.html)
+4. [金价经历“过山车”行情，“有矿”的“黄金股”业绩分化](https://www.yicai.com/news/103430133.html)
+5. [顶配价格超11万元，苹果首款触控版MacBook Pro开售即“破发”](https://www.yicai.com/news/103429828.html)
