@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-11-07 02:16:44
+> 更新时间：2026-11-07 07:25:13
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [【8点见】“住建局工作人员被判缓刑后依旧上班”，官方回应](https://finance.sina.com.cn/wm/2026-11-06/doc-inixucth5509491.shtml)
-2. [中期选举后民主党高层呼吁限制人工智能产业扩张：“立即暂停全国数据中心建设”](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixttce5171077.shtml)
-3. [日韩股集体跌入“熊市”！韩官员警告：将采取必要措施防止过度波动](https://finance.sina.com.cn/roll/2026-11-06/doc-inixucsy5048694.shtml)
-4. [共和党中期选举一败涂地 传言国务卿卢比奥考虑离开特朗普政府](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixtnve8512621.shtml)
-5. [金店大撤退，卖金子不如卖牌子？](https://finance.sina.com.cn/wm/2026-11-06/doc-inixtxky8346908.shtml)
-6. [美股期指反弹，纳指期货转涨，此前一度跌超1%](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixtxmh8979155.shtml)
-7. [财经早报丨8家A股公司提示风险 超聚变11月12日IPO上会丨2026年11月6日](https://finance.sina.com.cn/stock/y/2026-11-06/doc-inixtxky8350811.shtml)
-8. [硬科技企业引领回购热潮 A股年内回购1500亿元创历史次高](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixthpq9253191.shtml)
-9. [11岁女童宾馆遭性侵，检察院监督立案，揪出那个被漏查的成年男子](https://finance.sina.com.cn/roll/2026-11-06/doc-inixuqhs8204255.shtml)
-10. [但斌：隔夜美股暴跌是一次阶段性的冲击，就此判定AI时代就此落幕，我认为概率极小](https://finance.sina.com.cn/roll/2026-11-06/doc-inixucte8927818.shtml)
-11. [蔚来李斌再次警告：车重增加两成，路面损耗增至2.07倍](https://finance.sina.com.cn/roll/2026-11-06/doc-inixucte8871047.shtml)
-12. [AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤](https://finance.sina.com.cn/roll/2026-11-06/doc-inixtxmh8972935.shtml)
-13. [特朗普称美股大跌赖民主党](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixtxky8351932.shtml)
-14. [立讯精密、“易中天”、东山精密午后集体拉升](https://finance.sina.com.cn/tob/2026-11-06/doc-inixuiyu8333431.shtml)
-15. [美国中期选举，10个严重后果](https://finance.sina.com.cn/wm/2026-11-06/doc-inixtxmk5625290.shtml)
-16. [旗下产品跌成“6毛基”？但斌回应：是真的](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuiza8846476.shtml)
-17. [中国资产依然低配，市场有望迎来配置机会！花旗大中华区首席经济学家余向荣最新研判](https://finance.sina.com.cn/stock/zqgd/2026-11-06/doc-inixucth5531571.shtml)
-18. [股海导航_2026年11月6日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-11-06/doc-inixtxky8342014.shtml)
-19. [余艳红被查（附简历）](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixucth5601935.shtml)
-20. [刚刚，全线暴跌，超21万人爆仓！恐慌指数飙升70%！美联储，突传重磅！特朗普称俄乌冲突接近解决](https://finance.sina.com.cn/money/future/fmnews/2026-11-06/doc-inixtxmk5612134.shtml)
+1. [国家网信办、金融监管总局集中整治网上金融“黑灰产”信息乱象](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuure5675048.shtml)
+2. [长鑫科技归母净利润超1320亿元 联讯仪器净利润增长近20倍 硬科技企业迎来盈利兑现期](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixttck9035588.shtml)
+3. [今日“木头姐”调仓：连续两天买入SpaceX，同时减持1.34亿美元博通股票](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixuqhy8831066.shtml)
+4. [国泰海通｜秦和平：别被"45%冻结"吓跑，核心半导体已经超卖](https://finance.sina.com.cn/stock/marketresearch/2026-11-06/doc-inixuqhs8208923.shtml)
+5. [河北发布暴雪橙色预警！](https://finance.sina.com.cn/wm/2026-11-06/doc-inixuiyw5073554.shtml)
+6. [蓝色起源计划于2027年1月进行下一次发射。](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixthps5891930.shtml)
+7. [伊朗高级官员：美国正在审议伊朗的核提议。](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixtnvq5799172.shtml)
+8. [韩股跌破5000点，今年第十次触发熔断机制](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixtxma5132216.shtml)
+9. [午间利好！天孚通信、新易盛、中际旭创、三环集团、大普微、立讯精密、领益智造……集体出手回购！](https://finance.sina.com.cn/wm/2026-11-06/doc-inixuiyw5105941.shtml)
+10. [马斯克个人财富单日缩水近800亿美元](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixucth5507976.shtml)
+11. [大众公用：董事会审议通过向控股子公司增资暨关联交易议案](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixuura8865437.shtml)
+12. [原油：伊朗战争前景的不确定性推动油价上涨](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixttce5179802.shtml)
+13. [杨德龙：美国中期选举尘埃落定 全球股市迎来大涨](https://finance.sina.com.cn/stock/marketresearch/2026-11-06/doc-inixtxmk5604053.shtml)
+14. [无薪跟岗，教师招聘不带这么羞辱人的 | 新京报快评](https://finance.sina.com.cn/wm/2026-11-06/doc-inixuqhu5002939.shtml)
+15. [11月6日热门中概股多数上涨，阿里巴巴涨2.64%](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixttcn5695028.shtml)
+16. [外交部：当前中日关系面临严重困难 责任完全在日本一方](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuuqw8732227.shtml)
+17. [从每盎司跌破3900美元到重回4100美元 金价企稳？](https://finance.sina.com.cn/roll/2026-11-06/doc-inixtnvq5788148.shtml)
+18. [墨西哥央行：此次降息是一次性调整。](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixtnvq5790755.shtml)
+19. [据消息人士透露，LOGISTEED在上市中可能最高融资40亿美元。](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixuywy8876571.shtml)
+20. [中期选举后，特斯拉与SpaceX市值合计蒸发逾4500亿美元，马斯克身价跌破8000亿美元](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixtxmk5624770.shtml)

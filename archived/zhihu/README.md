@@ -1,6 +1,6 @@
 # 知乎热榜
 
-> 更新时间：2026-11-07 02:15:00
+> 更新时间：2026-11-07 07:24:01
 
 ## 知乎热榜
 
@@ -74,10 +74,9 @@
 15. [巴菲特自曝48年不喝水只喝可乐](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%87%AA%E6%9B%9D48%E5%B9%B4%E4%B8%8D%E5%96%9D%E6%B0%B4%E5%8F%AA%E5%96%9D%E5%8F%AF%E4%B9%90)
 16. [丁俊晖逆转马奎尔](https://www.zhihu.com/search?q=%E4%B8%81%E4%BF%8A%E6%99%96%E9%80%86%E8%BD%AC%E9%A9%AC%E5%A5%8E%E5%B0%94)
 17. [丁俊晖 6-5 马奎尔](https://www.zhihu.com/search?q=%E4%B8%81%E4%BF%8A%E6%99%96%206-5%20%E9%A9%AC%E5%A5%8E%E5%B0%94)
-18. [南京多所高中推迟上学时间](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%9A%E6%89%80%E9%AB%98%E4%B8%AD%E6%8E%A8%E8%BF%9F%E4%B8%8A%E5%AD%A6%E6%97%B6%E9%97%B4)
-19. [曝华晨宝马裁员约1800人](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%8E%E6%99%A8%E5%AE%9D%E9%A9%AC%E8%A3%81%E5%91%98%E7%BA%A61800%E4%BA%BA)
-20. [谷歌调整K-12教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4K-12%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
-21. [谷歌调整教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
-22. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
-23. [南大称智慧教室不再统计抬头率](https://www.zhihu.com/search?q=%E5%8D%97%E5%A4%A7%E7%A7%B0%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E4%B8%8D%E5%86%8D%E7%BB%9F%E8%AE%A1%E6%8A%AC%E5%A4%B4%E7%8E%87)
-24. [南京大学抬头率](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%8A%AC%E5%A4%B4%E7%8E%87)
+18. [曝华晨宝马裁员约1800人](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%8E%E6%99%A8%E5%AE%9D%E9%A9%AC%E8%A3%81%E5%91%98%E7%BA%A61800%E4%BA%BA)
+19. [谷歌调整K-12教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4K-12%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
+20. [谷歌调整教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
+21. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
+22. [《后会友期》热播](https://www.zhihu.com/search?q=%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E7%83%AD%E6%92%AD)
+23. [小伙200多万买14套房年收租21万](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99200%E5%A4%9A%E4%B8%87%E4%B9%B014%E5%A5%97%E6%88%BF%E5%B9%B4%E6%94%B6%E7%A7%9F21%E4%B8%87)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-07 02:16:28
+> 更新时间：2026-11-07 07:24:48
 
 ## 最新帖子
 
-1. [Evolver：让探索留下策略](https://www.cnblogs.com/fanzhidongyzby/p/23578742/evomap)
-2. [如何在汇川AUTOSHOP中作为客户端实现 TCP 协议](https://www.cnblogs.com/FanGuo123/p/23568716)
-3. [系统架构师基础知识点概览汇总](https://www.cnblogs.com/sun-10387834/p/23452990)
-4. [# 一次 CRC 字段“神秘消失”的排查 -> 指针强转的UB代价](https://www.cnblogs.com/USTHzhanglu/p/23577592)
-5. [6 小时做一部 10 分钟纪录片：DeepSeek 4.1 Flash + DeepSeek Harness 的完整制片记录](https://www.cnblogs.com/znlgis/p/23576813)
-6. [龙芯3B6000M运行Yolov8+FastApi](https://www.cnblogs.com/silent2012/p/23576728)
-7. [DSH 插件开发实战：从插件加载到 Electron + Vue 桌面联动](https://www.cnblogs.com/smileZAZ/p/23576303)
-8. [《项目管理指导手册》2026版-心得（三）—— 终](https://www.cnblogs.com/demon28/p/23556670)
-9. [【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现](https://www.cnblogs.com/rossiXYZ/p/23505813)
-10. [rea-video拆解视频测试和效果展示](https://www.cnblogs.com/wyang/p/23559866)
-11. [两根线怎么挂住一堆设备：I2C 协议原理](https://www.cnblogs.com/zw-awa/p/23572664)
-12. [经常听到的透视表是干什么的？](https://www.cnblogs.com/wang_yb/p/23572491)
-13. [Day 11：数据访问层的连接、Transaction 与查询条件](https://www.cnblogs.com/jeff-tsai/p/23571207/day-11-three-guarantees)
-14. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 9 篇 · 从代码到毕业设计：论文框架、实验表与答辩话术](https://www.cnblogs.com/dawudexiaowu/p/23570680)
-15. [当系统开始自己做判断：智能运维里的日志，为什么不能照搬传统那套](https://www.cnblogs.com/zjdxr-up/p/23570681)
-16. [uni-app 鸿蒙离线打包：一个改动从源码到真机要穿过几条链](https://www.cnblogs.com/xyyt/p/23551419)
-17. [把 AstrBot 接入个人微信：一个基于 Native API 的插件实践](https://www.cnblogs.com/neozhu/p/23570065)
-18. [【Harness编程】构建 AI 编程工作流：设计原则与实施指南](https://www.cnblogs.com/frcoder/p/-/tack-harness-guide)
-19. [Agent 测评指标怎么选、怎么算？](https://www.cnblogs.com/jinjiangongzuoshi/p/23569949)
-20. [MySQL 深分页优化：limit 100000, 10 慢在哪，怎么救](https://www.cnblogs.com/codigger/p/23569594)
+1. [Ask Oracle Select AI Chatbot 安装初体验](https://www.cnblogs.com/jyzhao/p/23581639)
+2. [Evolver：让探索留下策略](https://www.cnblogs.com/fanzhidongyzby/p/23578742/evomap)
+3. [如何在汇川AUTOSHOP中作为客户端实现 TCP 协议](https://www.cnblogs.com/FanGuo123/p/23568716)
+4. [系统架构师基础知识点概览汇总](https://www.cnblogs.com/sun-10387834/p/23452990)
+5. [# 一次 CRC 字段“神秘消失”的排查 -> 指针强转的UB代价](https://www.cnblogs.com/USTHzhanglu/p/23577592)
+6. [6 小时做一部 10 分钟纪录片：DeepSeek 4.1 Flash + DeepSeek Harness 的完整制片记录](https://www.cnblogs.com/znlgis/p/23576813)
+7. [龙芯3B6000M运行Yolov8+FastApi](https://www.cnblogs.com/silent2012/p/23576728)
+8. [DSH 插件开发实战：从插件加载到 Electron + Vue 桌面联动](https://www.cnblogs.com/smileZAZ/p/23576303)
+9. [《项目管理指导手册》2026版-心得（三）—— 终](https://www.cnblogs.com/demon28/p/23556670)
+10. [【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现](https://www.cnblogs.com/rossiXYZ/p/23505813)
+11. [rea-video拆解视频测试和效果展示](https://www.cnblogs.com/wyang/p/23559866)
+12. [两根线怎么挂住一堆设备：I2C 协议原理](https://www.cnblogs.com/zw-awa/p/23572664)
+13. [经常听到的透视表是干什么的？](https://www.cnblogs.com/wang_yb/p/23572491)
+14. [Day 11：数据访问层的连接、Transaction 与查询条件](https://www.cnblogs.com/jeff-tsai/p/23571207/day-11-three-guarantees)
+15. [手把手教你：基于深度学习的滚动轴承故障诊断｜第 9 篇 · 从代码到毕业设计：论文框架、实验表与答辩话术](https://www.cnblogs.com/dawudexiaowu/p/23570680)
+16. [当系统开始自己做判断：智能运维里的日志，为什么不能照搬传统那套](https://www.cnblogs.com/zjdxr-up/p/23570681)
+17. [uni-app 鸿蒙离线打包：一个改动从源码到真机要穿过几条链](https://www.cnblogs.com/xyyt/p/23551419)
+18. [把 AstrBot 接入个人微信：一个基于 Native API 的插件实践](https://www.cnblogs.com/neozhu/p/23570065)
+19. [【Harness编程】构建 AI 编程工作流：设计原则与实施指南](https://www.cnblogs.com/frcoder/p/-/tack-harness-guide)
+20. [Agent 测评指标怎么选、怎么算？](https://www.cnblogs.com/jinjiangongzuoshi/p/23569949)
 
 ## 精华帖子
 
@@ -53,6 +53,6 @@
 1. [SimdCodecs 1.4：纯 C# 解码手机 HEIC，8 核下耗时只有 libheif 的 0.32 倍](https://www.cnblogs.com/sdcb/p/23557088/20261105-simdcodecs-1-4)
 2. [从“能盗版绝不用正版”到“能自研绝不采购”：企业软件降本增效现象的系统性研究](https://www.cnblogs.com/Li-runqing/p/23564348)
 3. [面向技术产品经理的 Agent Harness 设计：从任务编排到可验证交付](https://www.cnblogs.com/vivotech/p/23559951)
-4. [看不见的线怎么选：蓝牙、Wi-Fi、ZigBee、LoRa 与蜂窝网络](https://www.cnblogs.com/zw-awa/p/23555934)
-5. [Qwen-Image2.1游戏素材工坊：Qwen-image+MiniMax H3实现任意动画精灵图（六）](https://www.cnblogs.com/wyang/p/23555923)
+4. [Qwen-Image2.1游戏素材工坊：Qwen-image+MiniMax H3实现任意动画精灵图（六）](https://www.cnblogs.com/wyang/p/23555923)
+5. [看不见的线怎么选：蓝牙、Wi-Fi、ZigBee、LoRa 与蜂窝网络](https://www.cnblogs.com/zw-awa/p/23555934)
 6. [OpenBao 实战笔记：从上手到生产部署（已更新至 v2.7.2）](https://www.cnblogs.com/shanyou/p/23564852)
