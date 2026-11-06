@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-06 11:14:05
+> 更新时间：2026-11-06 19:21:44
 
 ## 日榜
 
-1. [2027 年放假安排出炉：调休减少，史上最长 9 天春节假期即将回归](https://www.ithome.com/1/022/902.htm)
-2. [比亚迪第二代海豹 07 上市：搭载云辇-M 智能磁流变车身控制系统，超级置换价 13.59 万元起](https://www.ithome.com/1/022/972.htm)
-3. [一汽丰田全新亚洲龙上市，限时权益价 13.38 万元起](https://www.ithome.com/1/022/982.htm)
-4. [内存涨价环境下 Discord 弃用 Electron：改用 Rust 重写客户端，占用体积从 4GB 降至 290MB](https://www.ithome.com/1/022/673.htm)
-5. [DeepSeek Harness：日活跃用户达 154 万、日消耗 Token 约 92 万亿，将建设官方插件市场](https://www.ithome.com/1/023/011.htm)
-6. [华为鸿蒙电脑官宣年内支持侧载，开放本地安装应用](https://www.ithome.com/1/022/741.htm)
-7. [12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售](https://www.ithome.com/1/023/022.htm)
-8. [5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）](https://www.ithome.com/1/023/021.htm)
-9. [华为余承东：鸿蒙电脑迈过百万台门槛，是新的起点](https://www.ithome.com/1/022/771.htm)
-10. [首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率](https://www.ithome.com/1/022/834.htm)
-11. [100% 国产电脑！华为擎云 HM650 系列首款鸿蒙台式机获业界首个国产化率 100% 认证](https://www.ithome.com/1/022/774.htm)
-12. [华为智慧音频桌面小组件正式上线，支持 HarmonyOS、iOS、Android 系统](https://www.ithome.com/1/022/912.htm)
+1. [比亚迪第二代海豹 07 上市：搭载云辇-M 智能磁流变车身控制系统，超级置换价 13.59 万元起](https://www.ithome.com/1/022/972.htm)
+2. [一汽丰田全新亚洲龙上市，限时权益价 13.38 万元起](https://www.ithome.com/1/022/982.htm)
+3. [DeepSeek Harness：日活跃用户达 154 万、日消耗 Token 约 92 万亿，将建设官方插件市场](https://www.ithome.com/1/023/011.htm)
+4. [12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售](https://www.ithome.com/1/023/022.htm)
+5. [5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）](https://www.ithome.com/1/023/021.htm)
+6. [蔚来李斌再次警告车重，汽车重量增两成、路面损耗增至 2 倍](https://www.ithome.com/1/023/220.htm)
+7. [网易 UU 远程宣布适配鸿蒙 HarmonyOS 系统，移动端 Beta 版内测预约开启](https://www.ithome.com/1/023/003.htm)
+8. [芯片股遭“血洗”：美股经历过山车式暴跌，纳指 6 分钟抹平 2026 中期选举选后涨幅](https://www.ithome.com/1/023/061.htm)
+9. [全新 smart 精灵#2 正式上市：410 公里续航，限时权益价 9.99 万元起](https://www.ithome.com/1/022/970.htm)
+10. [22999 元起：苹果首款触屏 MacBook Pro 正式开售，可选 M5 Pro/M5 Max 芯片](https://www.ithome.com/1/023/020.htm)
+11. [【IT之家开箱】苹果首款触控屏 MacBook Pro 图赏：双层串联 OLED 屏幕，灵动岛首次登陆 Mac](https://www.ithome.com/1/023/006.htm)
+12. [BLG 零封 DK 挺进《英雄联盟》S16 四强，下轮对战 T1/KC 胜者](https://www.ithome.com/1/023/050.htm)
