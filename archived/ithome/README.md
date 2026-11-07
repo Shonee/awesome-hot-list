@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-07 11:03:06
+> 更新时间：2026-11-07 18:35:47
 
 ## 日榜
 
-1. [蔚来李斌再次警告车重，汽车重量增两成、路面损耗增至 2 倍](https://www.ithome.com/1/023/220.htm)
-2. [4499 → 2968 元：小米 REDMI K100 Pro Max 旗舰手机官方直播间再降价](https://www.ithome.com/1/023/427.htm)
-3. [男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结](https://www.ithome.com/1/023/521.htm)
-4. [刹车踏板支架断裂风波一个月后，鸿蒙智行尊界汽车官方微博重启 V800 车型宣传](https://www.ithome.com/1/023/340.htm)
-5. [今日宜休鸿蒙版适配进度落后，王腾透露华为开发团队特意拉了小群来支持](https://www.ithome.com/1/023/533.htm)
-6. [地表最快量产车！比亚迪仰望 U9X 超跑极速挑战 503.17km/h 再创全球新纪录](https://www.ithome.com/1/023/373.htm)
-7. [豆包工作个人版取消 5 小时额度限制](https://www.ithome.com/1/023/414.htm)
-8. [方程豹官宣钛 9 本月上市：比亚迪闪充技术 + 二代刀片电池加持](https://www.ithome.com/1/023/213.htm)
-9. [微软 Win11 27H2 前瞻：改善 64 位应用性能、更换系统默认壁纸](https://www.ithome.com/1/023/339.htm)
-10. [首款折叠 iPhone Duo 发售约 2 周后：苹果发起问卷调查，询问折痕、成像质量等核心体验](https://www.ithome.com/1/023/165.htm)
-11. [消息称苹果 Action Button 操作按钮将在明年下半年的新款 iPhone 正式退幕](https://www.ithome.com/1/023/542.htm)
-12. [淘宝 MNN 团队开源 0.3B 手机模型，苹果 iPhone 18 Pro 离线跑出 350 token/s](https://www.ithome.com/1/023/212.htm)
+1. [男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结](https://www.ithome.com/1/023/521.htm)
+2. [今日宜休鸿蒙版适配进度落后，王腾透露华为开发团队特意拉了小群来支持](https://www.ithome.com/1/023/533.htm)
+3. [消息称苹果 Action Button 操作按钮将在明年下半年的新款 iPhone 正式退幕](https://www.ithome.com/1/023/542.htm)
+4. [小米 18 标准版手机通过 3C 认证，支持 100W 快充](https://www.ithome.com/1/023/652.htm)
+5. [问界业务联合团队誓师大会在重庆举行，华为何刚、赛力斯张正萍参与授旗仪式](https://www.ithome.com/1/023/536.htm)
+6. [华为 MatePad Edge 获鸿蒙 7.0.0.111SP16 升级：预置融合开发引擎，支持电脑模式运行 Linux 环境](https://www.ithome.com/1/023/600.htm)
+7. [苹果：超 10 万款应用已适配 iPhone Duo 折叠屏手机](https://www.ithome.com/1/023/616.htm)
+8. [吉利星愿 STAR 限定系列 Ace / Chill 上市，限时权益价 8.88 万元](https://www.ithome.com/1/023/526.htm)
+9. [苹果 Apple Music 古典乐 App 更新 4.1 版本，升级品牌视觉](https://www.ithome.com/1/023/537.htm)
+10. [苹果 iOS 键盘被曝隐藏约 10 万个敏感词汇名单：避免 iPhone 输入法自动推荐补全，但用户仍可手动输入](https://www.ithome.com/1/023/638.htm)
+11. [肉眼不可见：苹果 iOS 27.2 新增隐形水印，图像工具 AI 生图 / 修图均有迹可查](https://www.ithome.com/1/023/663.htm)
+12. [卫冕冠军 T1 3:1 战胜 KC 跻身《英雄联盟》S16 四强，Faker 称其为半决赛对手 BLG 感到惋惜](https://www.ithome.com/1/023/642.htm)
