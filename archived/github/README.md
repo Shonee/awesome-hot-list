@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-07 02:16:20
+> 更新时间：2026-11-07 11:02:28
 
 ## 每日趋势
 
@@ -15,13 +15,12 @@
 9. [prometheus](https://github.com/prometheus/prometheus)
 10. [skills](https://github.com/google/skills)
 11. [vscode](https://github.com/microsoft/vscode)
-12. [lz4](https://github.com/lz4/lz4)
-13. [nushell](https://github.com/nushell/nushell)
-14. [etcd](https://github.com/etcd-io/etcd)
-15. [openssl](https://github.com/openssl/openssl)
-16. [skills](https://github.com/mattpocock/skills)
-17. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-18. [ruff](https://github.com/astral-sh/ruff)
+12. [nushell](https://github.com/nushell/nushell)
+13. [etcd](https://github.com/etcd-io/etcd)
+14. [openssl](https://github.com/openssl/openssl)
+15. [skills](https://github.com/mattpocock/skills)
+16. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+17. [ruff](https://github.com/astral-sh/ruff)
 
 ## 每周趋势
 
@@ -93,7 +92,7 @@
 9. [graphify](https://github.com/Graphify-Labs/graphify)
 10. [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 11. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
-12. [harvey](https://github.com/ethanplusai/harvey)
+12. [sellbird](https://github.com/ethanplusai/sellbird)
 13. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 14. [skills](https://github.com/scenario-labs/skills)
 15. [poetry](https://github.com/python-poetry/poetry)

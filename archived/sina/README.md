@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-11-07 07:25:13
+> 更新时间：2026-11-07 11:03:02
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [国家网信办、金融监管总局集中整治网上金融“黑灰产”信息乱象](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuure5675048.shtml)
-2. [长鑫科技归母净利润超1320亿元 联讯仪器净利润增长近20倍 硬科技企业迎来盈利兑现期](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixttck9035588.shtml)
-3. [今日“木头姐”调仓：连续两天买入SpaceX，同时减持1.34亿美元博通股票](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixuqhy8831066.shtml)
-4. [国泰海通｜秦和平：别被"45%冻结"吓跑，核心半导体已经超卖](https://finance.sina.com.cn/stock/marketresearch/2026-11-06/doc-inixuqhs8208923.shtml)
-5. [河北发布暴雪橙色预警！](https://finance.sina.com.cn/wm/2026-11-06/doc-inixuiyw5073554.shtml)
-6. [蓝色起源计划于2027年1月进行下一次发射。](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixthps5891930.shtml)
-7. [伊朗高级官员：美国正在审议伊朗的核提议。](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixtnvq5799172.shtml)
-8. [韩股跌破5000点，今年第十次触发熔断机制](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixtxma5132216.shtml)
-9. [午间利好！天孚通信、新易盛、中际旭创、三环集团、大普微、立讯精密、领益智造……集体出手回购！](https://finance.sina.com.cn/wm/2026-11-06/doc-inixuiyw5105941.shtml)
-10. [马斯克个人财富单日缩水近800亿美元](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixucth5507976.shtml)
-11. [大众公用：董事会审议通过向控股子公司增资暨关联交易议案](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixuura8865437.shtml)
-12. [原油：伊朗战争前景的不确定性推动油价上涨](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixttce5179802.shtml)
-13. [杨德龙：美国中期选举尘埃落定 全球股市迎来大涨](https://finance.sina.com.cn/stock/marketresearch/2026-11-06/doc-inixtxmk5604053.shtml)
-14. [无薪跟岗，教师招聘不带这么羞辱人的 | 新京报快评](https://finance.sina.com.cn/wm/2026-11-06/doc-inixuqhu5002939.shtml)
-15. [11月6日热门中概股多数上涨，阿里巴巴涨2.64%](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixttcn5695028.shtml)
-16. [外交部：当前中日关系面临严重困难 责任完全在日本一方](https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuuqw8732227.shtml)
-17. [从每盎司跌破3900美元到重回4100美元 金价企稳？](https://finance.sina.com.cn/roll/2026-11-06/doc-inixtnvq5788148.shtml)
-18. [墨西哥央行：此次降息是一次性调整。](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixtnvq5790755.shtml)
-19. [据消息人士透露，LOGISTEED在上市中可能最高融资40亿美元。](https://finance.sina.com.cn/7x24/2026-11-06/doc-inixuywy8876571.shtml)
-20. [中期选举后，特斯拉与SpaceX市值合计蒸发逾4500亿美元，马斯克身价跌破8000亿美元](https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixtxmk5624770.shtml)
+1. [牛弹琴：一觉醒来，卸磨杀驴了](https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwhsh4930959.shtml)
+2. [11月7日收盘：三大指数涨跌不一 芯片股反弹 AI监管担忧仍存](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakk5001971.shtml)
+3. [11月7日外盘头条：美国10月非农大超预期 特朗普任命米勒出任白宫幕僚长 特斯拉将逐步停产Cybertruck](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakn8483750.shtml)
+4. [高盛美股恐慌指数触及极端水平 预示强劲反弹或已不远](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvrus8685553.shtml)
+5. [SpaceX股价一度上涨8.3% 受到马斯克讲话提振](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwan5113648.shtml)
+6. [中信建投：全球风险偏好收敛，A股进入结构重估阶段！](https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwhse8266742.shtml)
+7. [11月7日隔夜要闻：美股涨跌不一纳指涨超1% 油价震荡 金价走低 俄美乌三方会谈将于11月10日在阿布扎比举行](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakh8379297.shtml)
+8. [何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话](https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwhsh4923897.shtml)
+9. [中国第43次南极考察队出征](https://finance.sina.com.cn/7x24/2026-11-07/doc-inixwnya8194714.shtml)
+10. [巴伦资本创始人表示民主党不应针对马斯克](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvruu5448409.shtml)
+11. [税款滞纳金上不封顶或将成历史](https://finance.sina.com.cn/7x24/2026-11-07/doc-inixwnye4845645.shtml)
+12. [美股科技股大反攻，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨，小鹏涨超6%](https://finance.sina.com.cn/wm/2026-11-07/doc-inixwhse8258959.shtml)
+13. [中期选举失利后 特朗普任命米勒接替威尔斯出任白宫幕僚长](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakh8355157.shtml)
+14. [欧洲多国公布航班遭炸弹威胁调查进展](https://finance.sina.com.cn/7x24/2026-11-07/doc-inixwhsk8449369.shtml)
+15. [特斯拉将逐步停产Cybertruck 因多年来商业表现不佳](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvrus8674174.shtml)
+16. [美国食品药品监督管理局（FDA）：诺健生（Zolgensma）和艾特维斯（Itvisma）获批适应症的整体获益持续大于其潜在风险。](https://finance.sina.com.cn/7x24/2026-11-07/doc-inixwhsn5232514.shtml)
+17. [微软正逐步终止与甲骨文的人工智能云计算租赁协议](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvruu5459483.shtml)
+18. [华尔街恐慌指标或已发出买入信号](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvruq5200324.shtml)
+19. [美国食品药品监督管理局（FDA）正在密切监测其他类似的基于腺相关病毒（AAV）载体的基因治疗项目中肿瘤形成（包括恶性肿瘤）的风险。](https://finance.sina.com.cn/7x24/2026-11-07/doc-inixwhse8317263.shtml)
+20. [马斯克长期支持者套现特斯拉，并削减SpaceX持仓](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvruu5441616.shtml)
