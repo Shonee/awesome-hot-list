@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-09 03:05:37",
+  "dates": [
+    "2026-11-08",
+    "2026-11-07",
+    "2026-11-06",
+    "2026-11-05",
+    "2026-11-04",
+    "2026-11-03"
+  ],
+  "reports": [
+    {
+      "date": "2026-11-08",
+      "path": "./data/reports/2026-11-08.json"
+    },
+    {
+      "date": "2026-11-07",
+      "path": "./data/reports/2026-11-07.json"
+    },
+    {
+      "date": "2026-11-06",
+      "path": "./data/reports/2026-11-06.json"
+    },
+    {
+      "date": "2026-11-05",
+      "path": "./data/reports/2026-11-05.json"
+    },
+    {
+      "date": "2026-11-04",
+      "path": "./data/reports/2026-11-04.json"
+    },
+    {
+      "date": "2026-11-03",
+      "path": "./data/reports/2026-11-03.json"
+    }
+  ]
+}

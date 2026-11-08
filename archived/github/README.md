@@ -1,0 +1,142 @@
+# GitHub热榜
+
+> 更新时间：2026-11-08 22:06:39
+
+## 每日趋势
+
+1. [sherlock](https://github.com/sherlock-project/sherlock)
+2. [nvke](https://github.com/dsx-ai-factory/nvke)
+3. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+4. [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+5. [agent-browser](https://github.com/vercel-labs/agent-browser)
+6. [astryx](https://github.com/meta/astryx)
+7. [skills](https://github.com/anthropics/skills)
+8. [mujoco](https://github.com/google-deepmind/mujoco)
+9. [billion-context](https://github.com/ranxianglei/billion-context)
+
+## 每周趋势
+
+1. [auto-ontology](https://github.com/NVIDIA/auto-ontology)
+2. [claude-mem](https://github.com/thedotmack/claude-mem)
+3. [worktrunk](https://github.com/max-sixty/worktrunk)
+4. [skills](https://github.com/anthropics/skills)
+5. [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+6. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+7. [t3code](https://github.com/pingdotgg/t3code)
+8. [hallmark](https://github.com/Nutlope/hallmark)
+9. [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+10. [Scrapling](https://github.com/D4Vinci/Scrapling)
+11. [agent-browser](https://github.com/vercel-labs/agent-browser)
+12. [skills](https://github.com/mattpocock/skills)
+13. [skills](https://github.com/jakubkrehel/skills)
+14. [spec-kit](https://github.com/github/spec-kit)
+15. [pr-agent](https://github.com/The-PR-Agent/pr-agent)
+16. [Hyprland](https://github.com/hyprwm/Hyprland)
+17. [humanizer](https://github.com/blader/humanizer)
+
+## 每月趋势
+
+1. [rea](https://github.com/morluto/rea)
+2. [hallmark](https://github.com/Nutlope/hallmark)
+3. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+4. [artcraft](https://github.com/storytold/artcraft)
+5. [hyperframes](https://github.com/heygen-com/hyperframes)
+6. [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+7. [t3code](https://github.com/pingdotgg/t3code)
+8. [claude-mem](https://github.com/thedotmack/claude-mem)
+9. [AnyPS5](https://github.com/boykopovar/AnyPS5)
+10. [impeccable](https://github.com/pbakaus/impeccable)
+11. [DeepTutor](https://github.com/HKUDS/DeepTutor)
+12. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+## Java
+
+1. [floci](https://github.com/floci-io/floci)
+2. [keycloak](https://github.com/keycloak/keycloak)
+3. [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
+4. [halo](https://github.com/halo-dev/halo)
+5. [bazel](https://github.com/bazelbuild/bazel)
+6. [rewrite](https://github.com/openrewrite/rewrite)
+7. [spring-framework](https://github.com/spring-projects/spring-framework)
+8. [elasticsearch](https://github.com/elastic/elasticsearch)
+9. [agentscope-java](https://github.com/agentscope-ai/agentscope-java)
+10. [dbeaver](https://github.com/dbeaver/dbeaver)
+11. [floci-az](https://github.com/floci-io/floci-az)
+12. [termux-app](https://github.com/termux/termux-app)
+13. [starrocks](https://github.com/StarRocks/starrocks)
+14. [trino](https://github.com/trinodb/trino)
+15. [cryptomator](https://github.com/cryptomator/cryptomator)
+16. [Shizuku-API](https://github.com/RikkaApps/Shizuku-API)
+17. [lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+18. [jackson-databind](https://github.com/FasterXML/jackson-databind)
+19. [iceberg](https://github.com/apache/iceberg)
+20. [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
+
+## Python
+
+1. [auto-ontology](https://github.com/NVIDIA/auto-ontology)
+2. [skills](https://github.com/anthropics/skills)
+3. [Scrapling](https://github.com/D4Vinci/Scrapling)
+4. [spec-kit](https://github.com/github/spec-kit)
+5. [pr-agent](https://github.com/The-PR-Agent/pr-agent)
+6. [humanizer](https://github.com/blader/humanizer)
+7. [skills](https://github.com/google/skills)
+8. [Kronos](https://github.com/shiyu-coder/Kronos)
+9. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+10. [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+11. [graphify](https://github.com/Graphify-Labs/graphify)
+12. [poetry](https://github.com/python-poetry/poetry)
+13. [skills](https://github.com/scenario-labs/skills)
+14. [DeepTutor](https://github.com/HKUDS/DeepTutor)
+15. [sellbird](https://github.com/ethanplusai/sellbird)
+16. [claude-video](https://github.com/bradautomates/claude-video)
+
+## Go
+
+1. [moby](https://github.com/moby/moby)
+2. [prometheus](https://github.com/prometheus/prometheus)
+3. [multica](https://github.com/multica-ai/multica)
+4. [gitea](https://github.com/go-gitea/gitea)
+5. [gin](https://github.com/gin-gonic/gin)
+6. [etcd](https://github.com/etcd-io/etcd)
+7. [argo-cd](https://github.com/argoproj/argo-cd)
+8. [fleet](https://github.com/fleetdm/fleet)
+9. [openchoreo](https://github.com/openchoreo/openchoreo)
+10. [act](https://github.com/nektos/act)
+11. [rclone](https://github.com/rclone/rclone)
+12. [ragflow](https://github.com/infiniflow/ragflow)
+13. [beads](https://github.com/gastownhall/beads)
+14. [go](https://github.com/golang/go)
+15. [cli](https://github.com/cli/cli)
+16. [netbird](https://github.com/netbirdio/netbird)
+17. [kubernetes](https://github.com/kubernetes/kubernetes)
+18. [caveman](https://github.com/JuliusBrussee/caveman)
+19. [TypeScript](https://github.com/microsoft/TypeScript)
+20. [trivy](https://github.com/aquasecurity/trivy)
+
+## HTML
+
+1. [second-brain-os](https://github.com/undefined-ui/second-brain-os)
+2. [free-for-dev](https://github.com/ripienaar/free-for-dev)
+3. [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+4. [galaxy](https://github.com/uiverse-io/galaxy)
+5. [computer-science](https://github.com/ossu/computer-science)
+6. [effective-html](https://github.com/plannotator/effective-html)
+7. [CiLocks](https://github.com/tegal1337/CiLocks)
+8. [www-project-agentic-skills-top-10](https://github.com/OWASP/www-project-agentic-skills-top-10)
+9. [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+10. [Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack)
+
+## JavaScript
+
+1. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+2. [ECC](https://github.com/affaan-m/ECC)
+3. [awesome-copilot](https://github.com/github/awesome-copilot)
+4. [Orkas](https://github.com/Orkas-AI/Orkas)
+5. [Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
+6. [jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
+7. [marketingskills](https://github.com/coreyhaines31/marketingskills)
+8. [Leaflet](https://github.com/Leaflet/Leaflet)
+9. [garden-skills](https://github.com/ConardLi/garden-skills)
+10. [rsc-harness](https://github.com/ericrisco/rsc-harness)
+11. [gsd-core](https://github.com/open-gsd/gsd-core)

@@ -1,0 +1,49 @@
+# 新浪热榜
+
+> 更新时间：2026-11-09 02:58:47
+
+## 新闻热榜
+
+1. [时隔40年，英国元首将再次访华？英王室幕僚回应](https://news.sina.com.cn/c/2026-11-08/doc-inixzhva4049723.shtml)
+2. [特朗普：可能会对政府进行一些调整，但目前不想透露具体人选。](https://finance.sina.com.cn/7x24/2026-11-09/doc-iniyacyq6940383.shtml)
+3. [马斯：占领方继续阻挠向加沙运送安置与修复物资以及应对破坏后果所需设备。](https://finance.sina.com.cn/7x24/2026-11-09/doc-iniyacyq6951182.shtml)
+4. [老人数量第一次比孩子多，养老金“撑得住”吗？](https://news.sina.com.cn/c/2026-11-08/doc-inixzpay4001775.shtml)
+5. [特朗普：若伊朗谈判取得进展，重启军事打击的可能性极低](https://finance.sina.com.cn/7x24/2026-11-09/doc-iniyacyq6959895.shtml)
+6. [中超大结局终出炉！大连英博完成大逆转，反超成都蓉城夺冠](https://news.sina.com.cn/c/2026-11-08/doc-inixzpay3962107.shtml)
+7. [事关股市！国常会，重磅定调！创业板指，重大调整！已买入股票，头部券商官宣！影响一周市场的十大消息](https://finance.sina.com.cn/jjxw/2026-11-08/doc-inixzpay3984637.shtml)
+8. [清华金融评论:国常会给出更高层级定调 稳股市是国家层面的大事](https://finance.sina.com.cn/stock/marketresearch/2026-11-08/doc-inixywfh4212311.shtml)
+9. [十大机构看后市：“阻断式反弹”开启，低点已确认，继续看反弹，关注AI下游和低位价值方向](https://finance.sina.com.cn/stock/marketresearch/2026-11-08/doc-inixzpay3997583.shtml)
+10. [美国中期选举刚落幕 国会与白宫新一轮交锋已浮现](https://news.sina.com.cn/2026-11-08/doc-inixztkw3927875.shtml)
+11. [最后一位开国将军王扶之逝世](https://news.sina.com.cn/c/2026-11-08/doc-inixyrxk4315747.shtml)
+12. [黄仁勋之女突然取消访韩，理由是“家庭原因”](https://news.sina.com.cn/zx/2026-11-08/doc-inixztkq6916463.shtml)
+13. [双色球开4注1000万 派奖首期718万注末等奖翻倍](https://sports.sina.com.cn/l/2026-11-08/doc-inixzxss7035615.shtml)
+14. [[新浪彩票]足彩第26162期任九：国米大单防平](https://sports.sina.com.cn/l/2026-11-08/doc-inixymre7443748.shtml)
+15. [估值具备吸引力！下周A股大概率这么走？](https://finance.sina.com.cn/stock/marketresearch/2026-11-08/doc-inixzape4126353.shtml)
+16. [高市早苗：我十分想见金正恩](https://news.sina.com.cn/zx/2026-11-08/doc-inixzxsq3476958.shtml)
+17. [中期选举改写国会版图 特朗普1.5万亿美元国防预算面临夭折](https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixzxss7060320.shtml)
+18. [埃及总统：密切关注脱轨事故 将追究失职者责任](https://news.sina.com.cn/w/2026-11-08/doc-inixzxsu3812383.shtml)
+19. [以总统赫尔佐格正式授权埃森科特组建新一届政府](https://news.sina.com.cn/w/2026-11-08/doc-inixzxsu3822853.shtml)
+20. [特朗普下令：立即调查民主党](https://news.sina.com.cn/w/2026-11-08/doc-inixzany3828059.shtml)
+
+## 财经热榜
+
+1. [美国多名国会议员说将推动撤销不合理关税政策](https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwxqe5021995.shtml)
+2. [突然，净空头持仓暴增24.6万手！美联储，加息生变？](https://finance.sina.com.cn/money/future/fmnews/2026-11-07/doc-inixwthh5080386.shtml)
+3. [男子收到网友1.98万元误转账，怕遇到洗钱约去派出所归还，却遭起诉，法院认定不当得利冻结其账户资金](https://finance.sina.com.cn/wm/2026-11-07/doc-inixwnyh8338731.shtml)
+4. [A股突发，富恒新材财务总监赖春娟被刑拘](https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwhsh4962895.shtml)
+5. [下修超10%！高盛时隔两个月再度大砍黄金目标](https://finance.sina.com.cn/roll/2026-11-07/doc-inixwhsh4943622.shtml)
+6. [李宁抄底李宁，收到11亿分红](https://finance.sina.com.cn/wm/2026-11-07/doc-inixwthh5082691.shtml)
+7. [金价鏖战4000美元，中国央行连续24个月增持黄金](https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-07/doc-inixxcvy8162228.shtml)
+8. [SpaceX股价一度上涨8.3% 受到马斯克讲话提振](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwan5113648.shtml)
+9. ["花一千多听个响"，这种玩具突然爆火，捏碎只需3秒！有人蹲5小时抢，不少明星加入把玩行列…](https://finance.sina.com.cn/wm/2026-11-07/doc-inixwnyk5150774.shtml)
+10. [特朗普任命新白宫办公厅主任](https://finance.sina.com.cn/wm/2026-11-07/doc-inixwhsk8425766.shtml)
+11. [廿四节气廿四村丨立冬：好“柿”开场](https://finance.sina.com.cn/roll/2026-11-07/doc-inixwhse8281891.shtml)
+12. [美股科技股经历“过山车”，但斌：AI时代落幕概率极小，回笼资金继续加仓](https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwtfy8151535.shtml)
+13. [监管通报中的G2券商浮出水面，国盛证券为公募境外调研买单领警示函](https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwxpy4744509.shtml)
+14. [中国资产，反攻！小鹏、百度、B站、网易领涨…](https://finance.sina.com.cn/stock/zqgd/2026-11-07/doc-inixwhsn5172007.shtml)
+15. [也门首都萨那传出爆炸声](https://finance.sina.com.cn/7x24/2026-11-07/doc-inixxcvw4665434.shtml)
+16. [高盛美股恐慌指数触及极端水平 预示强劲反弹或已不远](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvrus8685553.shtml)
+17. [10月A股回购图谱：多家行业龙头领衔实施大额回购，仅三成多的公司10月股价表现跑赢大盘](https://finance.sina.com.cn/roll/2026-11-07/doc-inixwtfy8124087.shtml)
+18. [从酒店到校园，从偷拍到交易：谁在把女性隐私明码标价？](https://finance.sina.com.cn/roll/2026-11-07/doc-inixvmnw5560830.shtml)
+19. [央行连续第24个月增持黄金](https://finance.sina.com.cn/wm/2026-11-07/doc-inixwnyh8356486.shtml)
+20. [马斯克在得州投资2.25亿美元 民主党批评特殊优待拟收紧审查](https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwnye4886936.shtml)
