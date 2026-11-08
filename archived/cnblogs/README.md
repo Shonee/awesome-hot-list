@@ -1,6 +1,6 @@
 # 博客园热榜
 
-> 更新时间：2026-11-09 02:58:22
+> 更新时间：2026-11-09 06:43:23
 
 ## 最新帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [纯 C# 替换 SkiaSharp，AOT 少了 3 个 DLL：从 preview.8 到 SimdSkia 0.1.2 的进展与代价](https://www.cnblogs.com/dotnet-org-cn/p/23582892)
-2. [微软给 NuGet 找了个新活：顺便把 AI 的"技能包"也管了](https://www.cnblogs.com/shanyou/p/23587426)
-3. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
+2. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
+3. [微软给 NuGet 找了个新活：顺便把 AI 的"技能包"也管了](https://www.cnblogs.com/shanyou/p/23587426)
 4. [API 安全三支柱：认证、防篡改、防重放的工程实践](https://www.cnblogs.com/hugogoos/p/23578745)
 5. [codesign-mcp-server 2.0.0 震撼发布：给你的 AI 装一只眼睛，让它直接读懂腾讯 CoDesign 设计稿](https://www.cnblogs.com/cry0-0/p/23585716)
 6. [让 GitHub Copilot 更懂你的 .NET 代码风格：一份精简实用的 Copilot Instructions](https://www.cnblogs.com/Can-daydayup/p/23591055)
