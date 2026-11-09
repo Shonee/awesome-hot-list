@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-09 10:24:15
+> 更新时间：2026-11-09 18:06:16
 
 ## 最新帖子
 
-1. [前端AI编程小记](https://www.cnblogs.com/strick/p/23416705)
-2. [手把手教你：torch.cuda.is_available() 一直是 False？一条命令定位断点｜AI工程师踩坑实录·第2篇](https://www.cnblogs.com/dawudexiaowu/p/23598740)
-3. [SQL Server Always On 可用性组在Linux上的部署指南（步骤/命令/脚本）](https://www.cnblogs.com/liuziyi1/p/23598491)
-4. [线上数据库连接池打满：从应急止损到架构根治的完整方案](https://www.cnblogs.com/codigger/p/23598109)
-5. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
-6. [上周热点回顾（11.2-11.8）](https://www.cnblogs.com/cmt/p/23597991)
-7. [矩阵运算/矩阵快速幂](https://www.cnblogs.com/beiciqi/p/23597897)
-8. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
-9. [解密prompt系列73. 爆改对话框：揭秘 Intelligent UI 的动态界面魔法](https://www.cnblogs.com/gogoSandy/p/23555610)
-10. [Redis 数据类型全解 - GEO 地理空间：附近的人、外卖、打车——背后原理与精度陷阱（九）](https://www.cnblogs.com/hugogoos/p/23593469)
-11. [LangGraph 体系实战（上）：建图、状态管理、控制流与持久化](https://www.cnblogs.com/buchizicai/p/23594631)
-12. [Windows 下使用 VS Code + Miniconda 搭建 ECG 心电信号处理 Python 开发环境：完整配置与问题排查记录](https://www.cnblogs.com/windbetter/p/23594646)
-13. [从 847 KiB 到 4.8 KiB：一张 64×64 头像的内存是怎么省下来的？—— gdenticon 重构日志（五）](https://www.cnblogs.com/hourinX/p/23594319)
-14. [.NET Conf 2026 开幕，.NET 11 要来了](https://www.cnblogs.com/shanyou/p/23594243)
-15. [ARTS 1108: 快慢指针找中点、数据库也是全局变量的仓库与漏洞发现提速后的修复压力](https://www.cnblogs.com/leikooo/p/23594091)
-16. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
-17. [【轻量化复刻大模型 / KIMI K3】Serve 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23505204)
-18. [如何把“学霸大脑”塞进手机？一文读懂大模型知识蒸馏](https://www.cnblogs.com/Tomorrowland/p/23592581)
-19. [OLED为什么能显示字：软件I2C换成硬件I2C](https://www.cnblogs.com/zw-awa/p/23592407)
-20. [AI 开发的快，但焦点会散](https://www.cnblogs.com/learnhow/p/23586981)
+1. [Spring AI Alibaba - MCP入门](https://www.cnblogs.com/alineverstop/p/23605234)
+2. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)
+3. [Redis 分布式锁的 7 个坑：从 setnx 到 Redlock](https://www.cnblogs.com/uniqueDong/p/23604187)
+4. [有了 Lance，还需要 JuiceFS 吗？](https://www.cnblogs.com/JuiceData/p/23603870)
+5. [屏幕不止一种：OLED、LCD1602字符屏、TFT/IPS图形屏和串口屏怎么用，这与TTY和PTY又有什么关系](https://www.cnblogs.com/zw-awa/p/23603503)
+6. [单模型Agent配置的工程化笔记 —— 四档思考、权限顺序与静态校验](https://www.cnblogs.com/znlgis/p/23603140)
+7. [聊聊Redisson最常见的8个坑](https://www.cnblogs.com/12lisu/p/23602210)
+8. [手搓 AI Agent 01：Agent 它到底是什么？](https://www.cnblogs.com/MrHuo/p/23601370/agent-from-scratch-01)
+9. [待办清单写满了，别忘了给休息留个位置：试试 Tick Rest](https://www.cnblogs.com/myvin/p/23578786)
+10. [TKCode.Arc 1.0 发布：一套 Avalonia 12 组件库的设计令牌、弹簧动效与性能规则](https://www.cnblogs.com/token-ai/p/23600509)
+11. [[试用]iNeuOS_Vision 视觉分析：YOLO与增强模型提升SOP 操作识别效率与精度](https://www.cnblogs.com/lsjwq/p/23600474)
+12. [前端AI编程小记](https://www.cnblogs.com/strick/p/23416705)
+13. [手把手教你：torch.cuda.is_available() 一直是 False？一条命令定位断点｜AI工程师踩坑实录·第2篇](https://www.cnblogs.com/dawudexiaowu/p/23598740)
+14. [SQL Server Always On 可用性组在Linux上的部署指南（步骤/命令/脚本）](https://www.cnblogs.com/liuziyi1/p/23598491)
+15. [线上数据库连接池打满：从应急止损到架构根治的完整方案](https://www.cnblogs.com/codigger/p/23598109)
+16. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
+17. [上周热点回顾（11.2-11.8）](https://www.cnblogs.com/cmt/p/23597991)
+18. [矩阵运算/矩阵快速幂](https://www.cnblogs.com/beiciqi/p/23597897)
+19. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
+20. [解密prompt系列73. 爆改对话框：揭秘 Intelligent UI 的动态界面魔法](https://www.cnblogs.com/gogoSandy/p/23555610)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [纯 C# 替换 SkiaSharp，AOT 少了 3 个 DLL：从 preview.8 到 SimdSkia 0.1.2 的进展与代价](https://www.cnblogs.com/dotnet-org-cn/p/23582892)
-2. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
-3. [微软给 NuGet 找了个新活：顺便把 AI 的"技能包"也管了](https://www.cnblogs.com/shanyou/p/23587426)
-4. [API 安全三支柱：认证、防篡改、防重放的工程实践](https://www.cnblogs.com/hugogoos/p/23578745)
-5. [codesign-mcp-server 2.0.0 震撼发布：给你的 AI 装一只眼睛，让它直接读懂腾讯 CoDesign 设计稿](https://www.cnblogs.com/cry0-0/p/23585716)
+1. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
+2. [.NET Conf 2026 开幕，.NET 11 要来了](https://www.cnblogs.com/shanyou/p/23594243)
+3. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
+4. [微软给 NuGet 找了个新活：顺便把 AI 的"技能包"也管了](https://www.cnblogs.com/shanyou/p/23587426)
+5. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
 6. [让 GitHub Copilot 更懂你的 .NET 代码风格：一份精简实用的 Copilot Instructions](https://www.cnblogs.com/Can-daydayup/p/23591055)
