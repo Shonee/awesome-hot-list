@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-09 06:43:23
+> 更新时间：2026-11-09 10:24:15
 
 ## 最新帖子
 
-1. [XXL-AI v1.5.0 发布｜AI应用开发平台](https://www.cnblogs.com/xuxueli/p/23594920)
-2. [LangGraph 体系实战（上）：建图、状态管理、控制流与持久化](https://www.cnblogs.com/buchizicai/p/23594631)
-3. [Windows 下使用 VS Code + Miniconda 搭建 ECG 心电信号处理 Python 开发环境：完整配置与问题排查记录](https://www.cnblogs.com/windbetter/p/23594646)
-4. [从 847 KiB 到 4.8 KiB：一张 64×64 头像的内存是怎么省下来的？—— gdenticon 重构日志（五）](https://www.cnblogs.com/hourinX/p/23594319)
-5. [.NET Conf 2026 开幕，.NET 11 要来了](https://www.cnblogs.com/shanyou/p/23594243)
-6. [ARTS 1108: 快慢指针找中点、数据库也是全局变量的仓库与漏洞发现提速后的修复压力](https://www.cnblogs.com/leikooo/p/23594091)
-7. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
-8. [【轻量化复刻大模型 / KIMI K3】Serve 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23505204)
-9. [如何把“学霸大脑”塞进手机？一文读懂大模型知识蒸馏](https://www.cnblogs.com/Tomorrowland/p/23592581)
-10. [OLED为什么能显示字：软件I2C换成硬件I2C](https://www.cnblogs.com/zw-awa/p/23592407)
-11. [AI 开发的快，但焦点会散](https://www.cnblogs.com/learnhow/p/23586981)
-12. [AI编程Agent开始糊弄事儿了，怎么办？](https://www.cnblogs.com/zhenl/p/23591702)
-13. [让 GitHub Copilot 更懂你的 .NET 代码风格：一份精简实用的 Copilot Instructions](https://www.cnblogs.com/Can-daydayup/p/23591055)
-14. [Day 13：Session 管理与生命周期](https://www.cnblogs.com/jeff-tsai/p/23591020/day-13-session-lifecycle)
-15. [Redis 数据类型全解 - HyperLogLog：12 KB 估出亿级 UV（八）](https://www.cnblogs.com/hugogoos/p/23587172)
-16. [如何写出不那么具有ai味的文章？](https://www.cnblogs.com/deep-sky/p/23590338)
-17. [视频是算出来的：DeepSeek Harness零素材全代码生成视频插件](https://www.cnblogs.com/znlgis/p/23589724)
-18. [salesforce零基础学习（一百四十五）Apex API 66以后 运行为 User Mode](https://www.cnblogs.com/zero-zyq/p/23587499)
-19. [Claude Memory 设计解读：记住经验，保留边界](https://www.cnblogs.com/fanzhidongyzby/p/23587493/cc-memory)
-20. [微软给 NuGet 找了个新活：顺便把 AI 的"技能包"也管了](https://www.cnblogs.com/shanyou/p/23587426)
+1. [前端AI编程小记](https://www.cnblogs.com/strick/p/23416705)
+2. [手把手教你：torch.cuda.is_available() 一直是 False？一条命令定位断点｜AI工程师踩坑实录·第2篇](https://www.cnblogs.com/dawudexiaowu/p/23598740)
+3. [SQL Server Always On 可用性组在Linux上的部署指南（步骤/命令/脚本）](https://www.cnblogs.com/liuziyi1/p/23598491)
+4. [线上数据库连接池打满：从应急止损到架构根治的完整方案](https://www.cnblogs.com/codigger/p/23598109)
+5. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
+6. [上周热点回顾（11.2-11.8）](https://www.cnblogs.com/cmt/p/23597991)
+7. [矩阵运算/矩阵快速幂](https://www.cnblogs.com/beiciqi/p/23597897)
+8. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
+9. [解密prompt系列73. 爆改对话框：揭秘 Intelligent UI 的动态界面魔法](https://www.cnblogs.com/gogoSandy/p/23555610)
+10. [Redis 数据类型全解 - GEO 地理空间：附近的人、外卖、打车——背后原理与精度陷阱（九）](https://www.cnblogs.com/hugogoos/p/23593469)
+11. [LangGraph 体系实战（上）：建图、状态管理、控制流与持久化](https://www.cnblogs.com/buchizicai/p/23594631)
+12. [Windows 下使用 VS Code + Miniconda 搭建 ECG 心电信号处理 Python 开发环境：完整配置与问题排查记录](https://www.cnblogs.com/windbetter/p/23594646)
+13. [从 847 KiB 到 4.8 KiB：一张 64×64 头像的内存是怎么省下来的？—— gdenticon 重构日志（五）](https://www.cnblogs.com/hourinX/p/23594319)
+14. [.NET Conf 2026 开幕，.NET 11 要来了](https://www.cnblogs.com/shanyou/p/23594243)
+15. [ARTS 1108: 快慢指针找中点、数据库也是全局变量的仓库与漏洞发现提速后的修复压力](https://www.cnblogs.com/leikooo/p/23594091)
+16. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
+17. [【轻量化复刻大模型 / KIMI K3】Serve 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23505204)
+18. [如何把“学霸大脑”塞进手机？一文读懂大模型知识蒸馏](https://www.cnblogs.com/Tomorrowland/p/23592581)
+19. [OLED为什么能显示字：软件I2C换成硬件I2C](https://www.cnblogs.com/zw-awa/p/23592407)
+20. [AI 开发的快，但焦点会散](https://www.cnblogs.com/learnhow/p/23586981)
 
 ## 精华帖子
 
