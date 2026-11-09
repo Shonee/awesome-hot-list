@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-09 18:06:16
+> 更新时间：2026-11-10 04:58:00
 
 ## 最新帖子
 
-1. [Spring AI Alibaba - MCP入门](https://www.cnblogs.com/alineverstop/p/23605234)
-2. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)
-3. [Redis 分布式锁的 7 个坑：从 setnx 到 Redlock](https://www.cnblogs.com/uniqueDong/p/23604187)
-4. [有了 Lance，还需要 JuiceFS 吗？](https://www.cnblogs.com/JuiceData/p/23603870)
-5. [屏幕不止一种：OLED、LCD1602字符屏、TFT/IPS图形屏和串口屏怎么用，这与TTY和PTY又有什么关系](https://www.cnblogs.com/zw-awa/p/23603503)
-6. [单模型Agent配置的工程化笔记 —— 四档思考、权限顺序与静态校验](https://www.cnblogs.com/znlgis/p/23603140)
-7. [聊聊Redisson最常见的8个坑](https://www.cnblogs.com/12lisu/p/23602210)
-8. [手搓 AI Agent 01：Agent 它到底是什么？](https://www.cnblogs.com/MrHuo/p/23601370/agent-from-scratch-01)
-9. [待办清单写满了，别忘了给休息留个位置：试试 Tick Rest](https://www.cnblogs.com/myvin/p/23578786)
-10. [TKCode.Arc 1.0 发布：一套 Avalonia 12 组件库的设计令牌、弹簧动效与性能规则](https://www.cnblogs.com/token-ai/p/23600509)
-11. [[试用]iNeuOS_Vision 视觉分析：YOLO与增强模型提升SOP 操作识别效率与精度](https://www.cnblogs.com/lsjwq/p/23600474)
-12. [前端AI编程小记](https://www.cnblogs.com/strick/p/23416705)
-13. [手把手教你：torch.cuda.is_available() 一直是 False？一条命令定位断点｜AI工程师踩坑实录·第2篇](https://www.cnblogs.com/dawudexiaowu/p/23598740)
-14. [SQL Server Always On 可用性组在Linux上的部署指南（步骤/命令/脚本）](https://www.cnblogs.com/liuziyi1/p/23598491)
-15. [线上数据库连接池打满：从应急止损到架构根治的完整方案](https://www.cnblogs.com/codigger/p/23598109)
-16. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
-17. [上周热点回顾（11.2-11.8）](https://www.cnblogs.com/cmt/p/23597991)
-18. [矩阵运算/矩阵快速幂](https://www.cnblogs.com/beiciqi/p/23597897)
-19. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
-20. [解密prompt系列73. 爆改对话框：揭秘 Intelligent UI 的动态界面魔法](https://www.cnblogs.com/gogoSandy/p/23555610)
+1. [# 从一张架构图的破绽，聊到大模型微调的数学本质：构建申论智能 RAG 系统的深度复盘](https://www.cnblogs.com/zwnfdswww/p/23607115)
+2. [[HNOI2008] 玩具装箱 详细讲解](https://www.cnblogs.com/beiciqi/p/23606434)
+3. [工具调用：让 Agent 从“说”到“做”](https://www.cnblogs.com/yudanqu/p/23606886)
+4. [【轻量化复刻大模型 / KIMI K3】Gated MLA 梳理](https://www.cnblogs.com/rossiXYZ/p/23593546)
+5. [AI时代实时互联基础系统架构设计与传输层深度拆解：无状态信令、P2P 流控及行业主流演进方案对比](https://www.cnblogs.com/duwenlong/p/23605985)
+6. [Spring AI Alibaba - MCP入门](https://www.cnblogs.com/alineverstop/p/23605234)
+7. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)
+8. [Redis 分布式锁的 7 个坑：从 setnx 到 Redlock](https://www.cnblogs.com/uniqueDong/p/23604187)
+9. [有了 Lance，还需要 JuiceFS 吗？](https://www.cnblogs.com/JuiceData/p/23603870)
+10. [屏幕不止一种：OLED、LCD1602字符屏、TFT/IPS图形屏和串口屏怎么用，这与TTY和PTY又有什么关系](https://www.cnblogs.com/zw-awa/p/23603503)
+11. [单模型Agent配置的工程化笔记 —— 四档思考、权限顺序与静态校验](https://www.cnblogs.com/znlgis/p/23603140)
+12. [聊聊Redisson最常见的8个坑](https://www.cnblogs.com/12lisu/p/23602210)
+13. [手搓 AI Agent 01：Agent 它到底是什么？](https://www.cnblogs.com/MrHuo/p/23601370/agent-from-scratch-01)
+14. [待办清单写满了，别忘了给休息留个位置：试试 Tick Rest](https://www.cnblogs.com/myvin/p/23578786)
+15. [TKCode.Arc 1.0 发布：一套 Avalonia 12 组件库的设计令牌、弹簧动效与性能规则](https://www.cnblogs.com/token-ai/p/23600509)
+16. [[试用]iNeuOS_Vision 视觉分析：YOLO与增强模型提升SOP 操作识别效率与精度](https://www.cnblogs.com/lsjwq/p/23600474)
+17. [前端AI编程小记](https://www.cnblogs.com/strick/p/23416705)
+18. [手把手教你：torch.cuda.is_available() 一直是 False？一条命令定位断点｜AI工程师踩坑实录·第2篇](https://www.cnblogs.com/dawudexiaowu/p/23598740)
+19. [SQL Server Always On 可用性组在Linux上的部署指南（步骤/命令/脚本）](https://www.cnblogs.com/liuziyi1/p/23598491)
+20. [线上数据库连接池打满：从应急止损到架构根治的完整方案](https://www.cnblogs.com/codigger/p/23598109)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
-2. [.NET Conf 2026 开幕，.NET 11 要来了](https://www.cnblogs.com/shanyou/p/23594243)
+1. [.NET Conf 2026 开幕，.NET 11 要来了](https://www.cnblogs.com/shanyou/p/23594243)
+2. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
 3. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
-4. [微软给 NuGet 找了个新活：顺便把 AI 的"技能包"也管了](https://www.cnblogs.com/shanyou/p/23587426)
-5. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
-6. [让 GitHub Copilot 更懂你的 .NET 代码风格：一份精简实用的 Copilot Instructions](https://www.cnblogs.com/Can-daydayup/p/23591055)
+4. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
+5. [上周热点回顾（11.2-11.8）](https://www.cnblogs.com/cmt/p/23597991)
+6. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)

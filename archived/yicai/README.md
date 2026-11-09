@@ -1,11 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-11-09 18:06:50
+> 更新时间：2026-11-10 04:59:08
 
 ## 首页头条
 
-1. [10月CPI同比回落至0.7%，PPI同比创年内新高](https://www.yicai.com/news/103432153.html)
-2. [央行连续24个月增持黄金，创近两年最大加仓手笔](https://www.yicai.com/news/103431153.html)
-3. [多个小城长满外国人 越来越多外国人来华买买买](https://www.yicai.com/news/103430754.html)
-4. [这些跨国企业，杀入中国新基建的核心地带](https://www.yicai.com/news/103430651.html)
-5. [欧洲如何把握数字货币机遇？“由央行作为底层支撑，确保货币统一性”｜对话法兰西银行副行长](https://www.yicai.com/news/103430480.html)
+1. [黄仁勋出事，英伟达接班人准备好了吗？](https://www.yicai.com/news/103433174.html)
+2. [鲲鹏支付结算延期风波背后：内控问题一再暴露、“套现”灰产萦绕](https://www.yicai.com/news/103432981.html)
+3. [国有控股银行副行长辞职后与妻子在外挂名领薪，受贿细节首度披露](https://www.yicai.com/news/103433113.html)
+4. [72岁王健林重回“一号位”，万达商管走到关键路口](https://www.yicai.com/news/103433109.html)
+5. [猪价创10年新低，资金博弈周期拐点](https://www.yicai.com/news/103433180.html)
