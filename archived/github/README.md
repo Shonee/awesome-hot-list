@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-10 04:57:56
+> 更新时间：2026-11-10 11:19:30
 
 ## 每日趋势
 
@@ -79,17 +79,16 @@
 2. [skills](https://github.com/anthropics/skills)
 3. [Scrapling](https://github.com/D4Vinci/Scrapling)
 4. [pr-agent](https://github.com/The-PR-Agent/pr-agent)
-5. [humanizer](https://github.com/blader/humanizer)
-6. [spec-kit](https://github.com/github/spec-kit)
-7. [skills](https://github.com/google/skills)
-8. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-9. [skills](https://github.com/scenario-labs/skills)
-10. [Kronos](https://github.com/shiyu-coder/Kronos)
-11. [graphify](https://github.com/Graphify-Labs/graphify)
-12. [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
-13. [poetry](https://github.com/python-poetry/poetry)
-14. [claude-video](https://github.com/bradautomates/claude-video)
-15. [DeepTutor](https://github.com/HKUDS/DeepTutor)
+5. [spec-kit](https://github.com/github/spec-kit)
+6. [skills](https://github.com/google/skills)
+7. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+8. [skills](https://github.com/scenario-labs/skills)
+9. [Kronos](https://github.com/shiyu-coder/Kronos)
+10. [graphify](https://github.com/Graphify-Labs/graphify)
+11. [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+12. [poetry](https://github.com/python-poetry/poetry)
+13. [claude-video](https://github.com/bradautomates/claude-video)
+14. [DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 ## Go
 

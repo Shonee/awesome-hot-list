@@ -1,6 +1,6 @@
 # 知乎热榜
 
-> 更新时间：2026-11-10 04:57:05
+> 更新时间：2026-11-10 11:19:01
 
 ## 知乎热榜
 
@@ -57,21 +57,23 @@
 
 ## 知乎热搜
 
-1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
-2. [英伟达](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE)
-3. [76人VS公牛](https://www.zhihu.com/search?q=76%E4%BA%BAVS%E5%85%AC%E7%89%9B)
-4. [人到中年为什么对许多事没了兴趣](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E8%AE%B8%E5%A4%9A%E4%BA%8B%E6%B2%A1%E4%BA%86%E5%85%B4%E8%B6%A3)
-5. [红果短剧为何让人着迷](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E8%AE%A9%E4%BA%BA%E7%9D%80%E8%BF%B7)
-6. [刘邦凭什么七年得天下](https://www.zhihu.com/search?q=%E5%88%98%E9%82%A6%E5%87%AD%E4%BB%80%E4%B9%88%E4%B8%83%E5%B9%B4%E5%BE%97%E5%A4%A9%E4%B8%8B)
-7. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
-8. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
-9. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-10. [为什么有些人会喜欢看红果短剧](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E4%BC%9A%E5%96%9C%E6%AC%A2%E7%9C%8B%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7)
-11. [王子璇 文吉儿](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%96%87%E5%90%89%E5%84%BF)
-12. [网曝《后会友期》大结局](https://www.zhihu.com/search?q=%E7%BD%91%E6%9B%9D%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
-13. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-14. [巴菲特自曝48年不喝水只喝可乐](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%87%AA%E6%9B%9D48%E5%B9%B4%E4%B8%8D%E5%96%9D%E6%B0%B4%E5%8F%AA%E5%96%9D%E5%8F%AF%E4%B9%90)
-15. [三甲医院医生推荐患者去三乙医院](https://www.zhihu.com/search?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%89%E4%B9%99%E5%8C%BB%E9%99%A2)
-16. [女孩1天吃1顿血糖爆表险失明](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A91%E5%A4%A9%E5%90%831%E9%A1%BF%E8%A1%80%E7%B3%96%E7%88%86%E8%A1%A8%E9%99%A9%E5%A4%B1%E6%98%8E)
-17. [字节跳动扣子下线解散](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%89%A3%E5%AD%90%E4%B8%8B%E7%BA%BF%E8%A7%A3%E6%95%A3)
-18. [全国寺院道观启动财务大检查](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%AF%BA%E9%99%A2%E9%81%93%E8%A7%82%E5%90%AF%E5%8A%A8%E8%B4%A2%E5%8A%A1%E5%A4%A7%E6%A3%80%E6%9F%A5)
+1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
+2. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
+3. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+4. [大体老师骨骼被写轻浮文字](https://www.zhihu.com/search?q=%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E9%AA%A8%E9%AA%BC%E8%A2%AB%E5%86%99%E8%BD%BB%E6%B5%AE%E6%96%87%E5%AD%97)
+5. [网曝《后会友期》大结局](https://www.zhihu.com/search?q=%E7%BD%91%E6%9B%9D%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
+6. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+7. [巴菲特自曝48年不喝水只喝可乐](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%87%AA%E6%9B%9D48%E5%B9%B4%E4%B8%8D%E5%96%9D%E6%B0%B4%E5%8F%AA%E5%96%9D%E5%8F%AF%E4%B9%90)
+8. [字节时间论战](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%E8%AE%BA%E6%88%98)
+9. [三甲医院医生推荐患者去三乙医院](https://www.zhihu.com/search?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%89%E4%B9%99%E5%8C%BB%E9%99%A2)
+10. [字节跳动扣子下线解散](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%89%A3%E5%AD%90%E4%B8%8B%E7%BA%BF%E8%A7%A3%E6%95%A3)
+11. [全国寺院道观启动财务大检查](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%AF%BA%E9%99%A2%E9%81%93%E8%A7%82%E5%90%AF%E5%8A%A8%E8%B4%A2%E5%8A%A1%E5%A4%A7%E6%A3%80%E6%9F%A5)
+12. [54岁大哥自学AI短剧登顶红果榜](https://www.zhihu.com/search?q=54%E5%B2%81%E5%A4%A7%E5%93%A5%E8%87%AA%E5%AD%A6AI%E7%9F%AD%E5%89%A7%E7%99%BB%E9%A1%B6%E7%BA%A2%E6%9E%9C%E6%A6%9C)
+13. [黄渤自曝今年几乎没戏拍](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E8%87%AA%E6%9B%9D%E4%BB%8A%E5%B9%B4%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%88%8F%E6%8B%8D)
+14. [厉娜许飞《后会友期》出圈](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%87%BA%E5%9C%88)
+15. [谷爱凌称不要歌颂牺牲](https://www.zhihu.com/search?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E7%A7%B0%E4%B8%8D%E8%A6%81%E6%AD%8C%E9%A2%82%E7%89%BA%E7%89%B2)
+16. [京津冀等地立冬迎来大到暴雪](https://www.zhihu.com/search?q=%E4%BA%AC%E6%B4%A5%E5%86%80%E7%AD%89%E5%9C%B0%E7%AB%8B%E5%86%AC%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA)
+17. [11月7日DeepSeek 崩了](https://www.zhihu.com/search?q=11%E6%9C%887%E6%97%A5DeepSeek%20%E5%B4%A9%E4%BA%86)
+18. [夫妻入职药企一月后1死1瘫](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C%E8%8D%AF%E4%BC%81%E4%B8%80%E6%9C%88%E5%90%8E1%E6%AD%BB1%E7%98%AB)
+19. [刘熙墨脸部二级烧伤](https://www.zhihu.com/search?q=%E5%88%98%E7%86%99%E5%A2%A8%E8%84%B8%E9%83%A8%E4%BA%8C%E7%BA%A7%E7%83%A7%E4%BC%A4)
+20. [中国短剧霸榜全球百强榜](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%A6%9C%E5%85%A8%E7%90%83%E7%99%BE%E5%BC%BA%E6%A6%9C)
