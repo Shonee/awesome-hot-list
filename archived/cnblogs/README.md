@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-10 11:19:35
+> 更新时间：2026-11-10 19:32:07
 
 ## 最新帖子
 
-1. [Electron应用保护业务代码的一些尝试](https://www.cnblogs.com/liulun/p/23613216)
-2. [Dell 笔记本扩展坞场景：开机 / WOL 唤醒陷入 PXE over IPv6/IPv4 的排障笔记](https://www.cnblogs.com/kexxxfeng/p/23611435)
-3. [手搓 AI Agent 02：让模型第一次"动手"——Agent Loop 与 ReAct](https://www.cnblogs.com/MrHuo/p/23611233/agent-from-scratch-02)
-4. [LeetCode 37 解数独面试攻略：回溯 + 位掩码 + MRV，从暴力到毫秒级求解](https://www.cnblogs.com/zrui-xyu/p/23611083)
-5. [程序员转型抉择：转 Agent 开发还是转全栈？一份基于招聘市场的冷静分析](https://www.cnblogs.com/codigger/p/23611044)
-6. [Day 15：API 契约分层与类型注册表](https://www.cnblogs.com/jeff-tsai/p/23610758/day-15-progid-registry)
-7. [WorkBuddy操作浏览器Browser Use，的确很香！](https://www.cnblogs.com/jinjiangongzuoshi/p/23610720)
-8. [Sdcb.Arithmetic 2.0：纯 C# 实现四倍精度 Float128，比 MPFR 快 2 到 12 倍](https://www.cnblogs.com/sdcb/p/23606347/20261110-arithmetic-2-0)
-9. [Oracle 26ai 应用 RU 补丁简明版](https://www.cnblogs.com/jyzhao/p/23610421)
-10. [# 从一张架构图的破绽，聊到大模型微调的数学本质：构建申论智能 RAG 系统的深度复盘](https://www.cnblogs.com/zwnfdswww/p/23607115)
-11. [[HNOI2008] 玩具装箱 详细讲解](https://www.cnblogs.com/beiciqi/p/23606434)
-12. [工具调用：让 Agent 从“说”到“做”](https://www.cnblogs.com/yudanqu/p/23606886)
-13. [【轻量化复刻大模型 / KIMI K3】Gated MLA 梳理](https://www.cnblogs.com/rossiXYZ/p/23593546)
-14. [AI时代实时互联基础系统架构设计与传输层深度拆解：无状态信令、P2P 流控及行业主流演进方案对比](https://www.cnblogs.com/duwenlong/p/23605985)
-15. [Spring AI Alibaba - MCP入门](https://www.cnblogs.com/alineverstop/p/23605234)
-16. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)
-17. [Redis 分布式锁的 7 个坑：从 setnx 到 Redlock](https://www.cnblogs.com/uniqueDong/p/23604187)
-18. [有了 Lance，还需要 JuiceFS 吗？](https://www.cnblogs.com/JuiceData/p/23603870)
-19. [屏幕不止一种：OLED、LCD1602字符屏、TFT/IPS图形屏和串口屏怎么用，这与TTY和PTY又有什么关系](https://www.cnblogs.com/zw-awa/p/23603503)
-20. [单模型Agent配置的工程化笔记 —— 四档思考、权限顺序与静态校验](https://www.cnblogs.com/znlgis/p/23603140)
+1. [记一次家庭物品管理的折腾：从“收纳”到“可检索”](https://www.cnblogs.com/shenchuanchao/p/23618645/wuce-youxu)
+2. [【剪贴板体验优化】前置预校验，航旅纵横权限弹窗体验更智能](https://www.cnblogs.com/HarmonyOSSDK/p/23618154)
+3. [MinerU 4.0.12 实战笔记：从PDF到可用的Markdown](https://www.cnblogs.com/zhaoweiwei/p/23483108/mineru)
+4. [Agent 的经验，不该只留在聊天框里：cnblogs-publish 上线](https://www.cnblogs.com/cmt/p/23617315)
+5. [我把DSH当工位用了64天](https://www.cnblogs.com/znlgis/p/23617216)
+6. [让 Go 走得更远：用 LLGo 打通 Go 与 C/C++/Python 生态](https://www.cnblogs.com/Qiniu-developer/p/23616667)
+7. [点云算法整理与常用计算模块：从数据到模型，再到工程与量化](https://www.cnblogs.com/horizondeveloper/p/23615044)
+8. [一次多跳查询的复盘：图不搬出库，GraphRAG 怎么落地](https://www.cnblogs.com/dicengwanjialaozhang/p/23614845)
+9. [用两个按键做一个OLED菜单：先把选择和执行分开](https://www.cnblogs.com/zw-awa/p/23614702)
+10. [手把手教你：标签和图像没对齐，模型一直在学噪声｜AI工程师踩坑实录·第3篇](https://www.cnblogs.com/dawudexiaowu/p/23614706)
+11. [Electron应用保护业务代码的一些尝试](https://www.cnblogs.com/liulun/p/23613216)
+12. [Dell 笔记本扩展坞场景：开机 / WOL 唤醒陷入 PXE over IPv6/IPv4 的排障笔记](https://www.cnblogs.com/kexxxfeng/p/23611435)
+13. [手搓 AI Agent 02：让模型第一次"动手"——Agent Loop 与 ReAct](https://www.cnblogs.com/MrHuo/p/23611233/agent-from-scratch-02)
+14. [LeetCode 37 解数独面试攻略：回溯 + 位掩码 + MRV，从暴力到毫秒级求解](https://www.cnblogs.com/zrui-xyu/p/23611083)
+15. [程序员转型抉择：转 Agent 开发还是转全栈？一份基于招聘市场的冷静分析](https://www.cnblogs.com/codigger/p/23611044)
+16. [Day 15：API 契约分层与类型注册表](https://www.cnblogs.com/jeff-tsai/p/23610758/day-15-progid-registry)
+17. [WorkBuddy操作浏览器Browser Use，的确很香！](https://www.cnblogs.com/jinjiangongzuoshi/p/23610720)
+18. [Sdcb.Arithmetic 2.0：纯 C# 实现四倍精度 Float128，比 MPFR 快 2 到 12 倍](https://www.cnblogs.com/sdcb/p/23606347/20261110-arithmetic-2-0)
+19. [Oracle 26ai 应用 RU 补丁简明版](https://www.cnblogs.com/jyzhao/p/23610421)
+20. [# 从一张架构图的破绽，聊到大模型微调的数学本质：构建申论智能 RAG 系统的深度复盘](https://www.cnblogs.com/zwnfdswww/p/23607115)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [.NET Conf 2026 开幕，.NET 11 要来了](https://www.cnblogs.com/shanyou/p/23594243)
-2. [DeepSeek Harness 完整上手指南：安装部署 + 必装插件 + 用一周就回不去的功能](https://www.cnblogs.com/yudanqu/p/23593145)
-3. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
-4. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
-5. [TKCode.Arc 1.0 发布：一套 Avalonia 12 组件库的设计令牌、弹簧动效与性能规则](https://www.cnblogs.com/token-ai/p/23600509)
-6. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)
+2. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
+3. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
+4. [TKCode.Arc 1.0 发布：一套 Avalonia 12 组件库的设计令牌、弹簧动效与性能规则](https://www.cnblogs.com/token-ai/p/23600509)
+5. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)
+6. [上周热点回顾（11.2-11.8）](https://www.cnblogs.com/cmt/p/23597991)

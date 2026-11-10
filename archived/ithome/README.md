@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-10 11:20:05
+> 更新时间：2026-11-10 19:32:30
 
 ## 日榜
 
-1. [消息称玛莎拉蒂与尊界新车外观确认，属华为、江淮和 Stellantis 三方合作项目](https://www.ithome.com/1/024/268.htm)
-2. [英伟达黄仁勋承认出轨，消息称其去年已聘请擅长处理丑闻的危机公关公司](https://www.ithome.com/1/024/565.htm)
-3. [人民空军“新家伙”来了，我国攻击-11 无尾飞翼布局无人机大大方方展示](https://www.ithome.com/1/024/088.htm)
-4. [限时一口价 20.69 万元起，2026 款凯迪拉克 CT5 上市](https://www.ithome.com/1/024/307.htm)
-5. [鸿蒙智行尊界汽车或推全新子品牌：定价 40-50 万元区间，主打 SUV 车型](https://www.ithome.com/1/024/135.htm)
-6. [曝一汽大众取消两年“年终奖”，该收入占部分员工年薪近半](https://www.ithome.com/1/024/114.htm)
-7. [比亚迪仰望鼎曜旗舰轿车现身官网：确认支持应急浮水功能，意外落水自动激活](https://www.ithome.com/1/024/120.htm)
-8. [《GTA 6》PS5 版正式开启预载，XBOX Series X｜S 需等到北京时间早上 8 点](https://www.ithome.com/1/024/566.htm)
-9. [小米澎程 N70 斩获 10 月增程车与中大型 SUV 销冠，N90 拿下大型 SUV 销冠](https://www.ithome.com/1/024/510.htm)
-10. [整个双十一就看这波：全网 11.11 狂促正式开抢 52 小时，华为 FreeClip 2 耳夹耳机 1299 → 879 元起京东新低](https://www.ithome.com/1/024/218.htm)
-11. [小米汽车：SU7 拿下 2026 年 10 月 20 万以上轿车销量冠军](https://www.ithome.com/1/024/508.htm)
-12. [奥迪 A8 旗舰轿车正式停产，继任车型 2030 年前亮相](https://www.ithome.com/1/024/376.htm)
+1. [英伟达黄仁勋承认出轨，消息称其去年已聘请擅长处理丑闻的危机公关公司](https://www.ithome.com/1/024/565.htm)
+2. [华为官宣 MateBook Fold S 鸿蒙小折叠电脑 11 月 14 日开启预订](https://www.ithome.com/1/024/618.htm)
+3. [《GTA 6》PS5 版正式开启预载，XBOX Series X｜S 需等到北京时间早上 8 点](https://www.ithome.com/1/024/566.htm)
+4. [苹果 iOS/iPadOS 27.2.1 正式版发布](https://www.ithome.com/1/024/583.htm)
+5. [小米澎程 N70 斩获 10 月增程车与中大型 SUV 销冠，N90 拿下大型 SUV 销冠](https://www.ithome.com/1/024/510.htm)
+6. [余承东预告华为 MateBook Fold S 小折电脑即将发布，全新背屏设计](https://www.ithome.com/1/024/600.htm)
+7. [小米汽车：SU7 拿下 2026 年 10 月 20 万以上轿车销量冠军](https://www.ithome.com/1/024/508.htm)
+8. [华为 MateBook Fold S 鸿蒙小折叠电脑三色外观公布：搭载 Live 小方屏，11 月 14 日预订](https://www.ithome.com/1/024/742.htm)
+9. [8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%](https://www.ithome.com/1/024/573.htm)
+10. [512G 国补后 2744 元：华为 Mate 70 Air 再降新低，双卡双扬多摄大电池](https://www.ithome.com/1/024/606.htm)
+11. [董明珠回应格力电器业绩下滑：因为铜在涨价，宁可损失几十亿利润，也不降低产品品质](https://www.ithome.com/1/024/617.htm)
+12. [黄仁勋出轨丑闻发酵，英伟达市值一夜蒸发逾 1900 亿美元](https://www.ithome.com/1/024/722.htm)

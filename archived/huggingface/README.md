@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-11-10 11:20:22
+> 更新时间：2026-11-10 19:32:56
 
 ## Trending Models
 
@@ -16,11 +16,11 @@
 10. [webAI-Official/TwIL-8B](https://huggingface.co/webAI-Official/TwIL-8B)
 11. [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)
 12. [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)
-13. [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)
-14. [Viggle/Viggle-Remake](https://huggingface.co/Viggle/Viggle-Remake)
+13. [Viggle/Viggle-Remake](https://huggingface.co/Viggle/Viggle-Remake)
+14. [unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)
 15. [PrunaAI/P-H3-Image-Comfy](https://huggingface.co/PrunaAI/P-H3-Image-Comfy)
-16. [Scantist/GLM-5.3-SLIM-GGUF](https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF)
+16. [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)
 17. [PrunaAI/P-H3-Image](https://huggingface.co/PrunaAI/P-H3-Image)
-18. [ccore/Qwen3.5-4B-GLB-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder)
+18. [baidu/ERNIE-5.5-Flash-Base](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base)
 19. [facebook/sam3](https://huggingface.co/facebook/sam3)
-20. [baidu/ERNIE-5.5-Flash-Base](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base)
+20. [ccore/Qwen3.5-4B-GLB-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder)

@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-11-10 11:20:01
+> 更新时间：2026-11-10 19:32:26
 
 ## 新闻热榜
 
@@ -27,22 +27,23 @@
 
 ## 财经热榜
 
-1. [英伟达市值一夜蒸发12900亿元](https://finance.sina.com.cn/stock/2026-11-10/doc-iniyexvh6084304.shtml)
-2. [操盘必读：影响股市利好或利空消息_2026年11月10日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-11-10/doc-iniyexvm2854251.shtml)
-3. [财经早报丨特朗普政府寻求中国帮助，外交部回应，黄仁勋陷出轨门中方驳斥“间谍论”丨2026年11月10日](https://finance.sina.com.cn/stock/y/2026-11-10/doc-iniyexvh6075147.shtml)
-4. [特朗普再就黄仁勋出轨发声：他承受着巨大痛苦](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyexvn9491458.shtml)
-5. [中美关税延期两个月：178项产品豁免落地，出口链迎来缓冲窗口](https://finance.sina.com.cn/stock/2026-11-10/doc-iniyexvn9507362.shtml)
-6. [美以伊局势：特朗普说没有他以色列早就不复存在，透露不会升级对伊朗战事](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyexvm2858651.shtml)
-7. [11月10日美股收盘：三大股指均涨超2% 道指涨1100点 科技股反弹](https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyetpp2931788.shtml)
+1. [买早餐余额不足才发现卡里26万没了 女子回应银行卡被盗刷](https://finance.sina.com.cn/money/bank/2026-11-10/doc-iniyfech2846327.shtml)
+2. [英伟达市值一夜蒸发12900亿元](https://finance.sina.com.cn/stock/2026-11-10/doc-iniyexvh6084304.shtml)
+3. [英伟达黄仁勋遭股东集体诉讼，调查风波致英伟达市值蒸发超万亿元](https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyfkmh9371408.shtml)
+4. [存储猛涨、汽车止跌、黄金回落，读懂10月物价关键信号](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyexvh6056058.shtml)
+5. [美以伊局势：特朗普说没有他以色列早就不复存在，透露不会升级对伊朗战事](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyexvm2858651.shtml)
+6. [操盘必读：影响股市利好或利空消息_2026年11月10日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-11-10/doc-iniyexvm2854251.shtml)
+7. [财经早报丨特朗普政府寻求中国帮助，外交部回应，黄仁勋陷出轨门中方驳斥“间谍论”丨2026年11月10日](https://finance.sina.com.cn/stock/y/2026-11-10/doc-iniyexvh6075147.shtml)
 8. [稳市政策“组合拳”发力 机构强化逆周期布局](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyepfq3029370.shtml)
-9. [存储猛涨、汽车止跌、黄金回落，读懂10月物价关键信号](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyexvh6056058.shtml)
-10. [股海导航_2026年11月10日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-11-10/doc-iniyexvm2852818.shtml)
-11. [四大证券报头版头条内容精华摘要_2026年11月10日_财经新闻](https://finance.sina.com.cn/stock/y/2026-11-10/doc-iniyexvm2847811.shtml)
-12. [沪指震荡上扬 人形机器人概念活跃 机构：把握年底反弹窗口](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyepfn6253398.shtml)
-13. [11月10日美股成交额前20：英伟达跌超4% 黄仁勋承认出轨 遭美国国会传唤 退出两场活动](https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyetpp2941532.shtml)
-14. [美国汽油价格迎下行，零售均价即将跌破4美元/加仑](https://finance.sina.com.cn/7x24/2026-11-10/doc-iniyehxq6357935.shtml)
-15. [11月10日隔夜要闻：美股收高 油价大跌 特朗普质疑中期选举结果 称“看到了伊战结束势头” 赫格塞思或遭弹劾](https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyexvm2818131.shtml)
-16. [特朗普：似乎没必要再对伊朗采取军事行动，伊朗在军事上实际已经完蛋了，霍尔木兹海峡已对伊朗关闭](https://finance.sina.com.cn/wm/2026-11-10/doc-iniyexvk2842697.shtml)
-17. [空客公司：法国国防采购局已将IRIS项目合同授予主承包商空客防务与航天公司及联合承包商泰雷兹阿莱尼亚宇航公司。](https://finance.sina.com.cn/7x24/2026-11-10/doc-iniyehxq6352593.shtml)
-18. [据报英伟达CEO黄仁勋退出两场活动 日程中不再出现其姓名](https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyepfs9687624.shtml)
-19. [和平委员会：以色列对加沙需求的回应不足，呼吁以色列允许物资进入加沙，呼吁哈马斯立即遵守承诺。](https://finance.sina.com.cn/7x24/2026-11-10/doc-iniyehxs3135742.shtml)
+9. [立陶宛要求所谓“台湾代表处” 改名，今年2月，立陶宛时任总理公开承认，允许设立所谓“台湾代表处”是一次战略错误](https://finance.sina.com.cn/wm/2026-11-10/doc-iniyfqsy5924948.shtml)
+10. [特朗普再就黄仁勋出轨发声：他承受着巨大痛苦](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyexvn9491458.shtml)
+11. [特朗普：似乎没必要再对伊朗采取军事行动，伊朗在军事上实际已经完蛋了，霍尔木兹海峡已对伊朗关闭](https://finance.sina.com.cn/wm/2026-11-10/doc-iniyexvk2842697.shtml)
+12. [国家发改委：多渠道增加普通高中和高等教育学位供给](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfeci2829870.shtml)
+13. [国家发改委：当前幼儿园、小学、初中学龄人口已达峰，将推进小班化教学、多渠道增加普通高中和高等教育学位供给](https://finance.sina.com.cn/wm/2026-11-10/doc-iniyfkmh9442115.shtml)
+14. [中美关税延期两个月：178项产品豁免落地，出口链迎来缓冲窗口](https://finance.sina.com.cn/stock/2026-11-10/doc-iniyexvn9507362.shtml)
+15. [发生了什么？知名网红私募，单周净值闪崩41%，三毛基+历史新低](https://finance.sina.com.cn/stock/bxjj/2026-11-10/doc-iniyfeci2739394.shtml)
+16. [中方对中美俄会晤有何期待？外交部：中方就三方元首会晤保持着沟通](https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyfuyy2670815.shtml)
+17. [A股科技企业“独立叙事”路径清晰](https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyexvm2816745.shtml)
+18. [网友咬开桃子，露出一颗褐色肉球，像"狮子头"！全网尖叫：千万别吃！](https://finance.sina.com.cn/wm/2026-11-10/doc-iniyfkma6034799.shtml)
+19. [11月10日美股收盘：三大股指均涨超2% 道指涨1100点 科技股反弹](https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyetpp2931788.shtml)
+20. [“黄仁勋短期离职概率较低”](https://finance.sina.com.cn/wm/2026-11-10/doc-iniyfech2741264.shtml)
