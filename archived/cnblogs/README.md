@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-11 03:23:45
+> 更新时间：2026-11-11 08:11:13
 
 ## 最新帖子
 
-1. [新数据到手，先跑哪几步检查](https://www.cnblogs.com/wang_yb/p/23620146)
-2. [【轻量化复刻大模型 / KIMI K3】Attention Residuals 完整梳理（1）](https://www.cnblogs.com/rossiXYZ/p/23593644)
-3. [go语言中管道channel和&内存地址和指针的讲解](https://www.cnblogs.com/ishoulgodo/p/23620024)
-4. [LangGraph 体系实战（下）：中断恢复、流式、子图与设计模式](https://www.cnblogs.com/buchizicai/p/23594645)
-5. [记一次家庭物品管理的折腾：从“收纳”到“可检索”](https://www.cnblogs.com/shenchuanchao/p/23618645/wuce-youxu)
-6. [【剪贴板体验优化】前置预校验，航旅纵横权限弹窗体验更智能](https://www.cnblogs.com/HarmonyOSSDK/p/23618154)
-7. [MinerU 4.0.12 实战笔记：从PDF到可用的Markdown](https://www.cnblogs.com/zhaoweiwei/p/23483108/mineru)
-8. [Agent 的经验，不该只留在聊天框里：cnblogs-publish 上线](https://www.cnblogs.com/cmt/p/23617315)
-9. [我把DSH当工位用了64天](https://www.cnblogs.com/znlgis/p/23617216)
-10. [让 Go 走得更远：用 LLGo 打通 Go 与 C/C++/Python 生态](https://www.cnblogs.com/Qiniu-developer/p/23616667)
-11. [点云算法整理与常用计算模块：从数据到模型，再到工程与量化](https://www.cnblogs.com/horizondeveloper/p/23615044)
-12. [一次多跳查询的复盘：图不搬出库，GraphRAG 怎么落地](https://www.cnblogs.com/dicengwanjialaozhang/p/23614845)
-13. [用两个按键做一个OLED菜单：先把选择和执行分开](https://www.cnblogs.com/zw-awa/p/23614702)
-14. [手把手教你：标签和图像没对齐，模型一直在学噪声｜AI工程师踩坑实录·第3篇](https://www.cnblogs.com/dawudexiaowu/p/23614706)
-15. [Electron应用保护业务代码的一些尝试](https://www.cnblogs.com/liulun/p/23613216)
-16. [Dell 笔记本扩展坞场景：开机 / WOL 唤醒陷入 PXE over IPv6/IPv4 的排障笔记](https://www.cnblogs.com/kexxxfeng/p/23611435)
-17. [手搓 AI Agent 02：让模型第一次"动手"——Agent Loop 与 ReAct](https://www.cnblogs.com/MrHuo/p/23611233/agent-from-scratch-02)
-18. [LeetCode 37 解数独面试攻略：回溯 + 位掩码 + MRV，从暴力到毫秒级求解](https://www.cnblogs.com/zrui-xyu/p/23611083)
-19. [程序员转型抉择：转 Agent 开发还是转全栈？一份基于招聘市场的冷静分析](https://www.cnblogs.com/codigger/p/23611044)
-20. [Day 15：API 契约分层与类型注册表](https://www.cnblogs.com/jeff-tsai/p/23610758/day-15-progid-registry)
+1. [SpringBoot中@Async异步透传问题内部分享](https://www.cnblogs.com/zhangs1986/p/23215584)
+2. [2026 年 Blazor UI 组件库盘点：6 个好用的开源库，怎么选不踩坑](https://www.cnblogs.com/shenchuanchao/p/23617141/blazor-ui-component-libraries-2026-6-open-source-how-to-choose)
+3. [Redis 数据类型全解 - Stream 深度：Pending 回收、重试死信与消息队列选型（十一）](https://www.cnblogs.com/hugogoos/p/23614256)
+4. [OCR、VLM、ASR 到底有什么区别？一文讲清](https://www.cnblogs.com/jyzhao/p/23623333)
+5. [新数据到手，先跑哪几步检查](https://www.cnblogs.com/wang_yb/p/23620146)
+6. [【轻量化复刻大模型 / KIMI K3】Attention Residuals 完整梳理（1）](https://www.cnblogs.com/rossiXYZ/p/23593644)
+7. [go语言中管道channel和&内存地址和指针的讲解](https://www.cnblogs.com/ishoulgodo/p/23620024)
+8. [LangGraph 体系实战（下）：中断恢复、流式、子图与设计模式](https://www.cnblogs.com/buchizicai/p/23594645)
+9. [记一次家庭物品管理的折腾：从“收纳”到“可检索”](https://www.cnblogs.com/shenchuanchao/p/23618645/wuce-youxu)
+10. [【剪贴板体验优化】前置预校验，航旅纵横权限弹窗体验更智能](https://www.cnblogs.com/HarmonyOSSDK/p/23618154)
+11. [MinerU 4.0.12 实战笔记：从PDF到可用的Markdown](https://www.cnblogs.com/zhaoweiwei/p/23483108/mineru)
+12. [Agent 的经验，不该只留在聊天框里：cnblogs-publish 上线](https://www.cnblogs.com/cmt/p/23617315)
+13. [我把DSH当工位用了64天](https://www.cnblogs.com/znlgis/p/23617216)
+14. [让 Go 走得更远：用 LLGo 打通 Go 与 C/C++/Python 生态](https://www.cnblogs.com/Qiniu-developer/p/23616667)
+15. [点云算法整理与常用计算模块：从数据到模型，再到工程与量化](https://www.cnblogs.com/horizondeveloper/p/23615044)
+16. [一次多跳查询的复盘：图不搬出库，GraphRAG 怎么落地](https://www.cnblogs.com/dicengwanjialaozhang/p/23614845)
+17. [用两个按键做一个OLED菜单：先把选择和执行分开](https://www.cnblogs.com/zw-awa/p/23614702)
+18. [手把手教你：标签和图像没对齐，模型一直在学噪声｜AI工程师踩坑实录·第3篇](https://www.cnblogs.com/dawudexiaowu/p/23614706)
+19. [Electron应用保护业务代码的一些尝试](https://www.cnblogs.com/liulun/p/23613216)
+20. [Dell 笔记本扩展坞场景：开机 / WOL 唤醒陷入 PXE over IPv6/IPv4 的排障笔记](https://www.cnblogs.com/kexxxfeng/p/23611435)
 
 ## 精华帖子
 

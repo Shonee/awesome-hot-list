@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-11-11 03:24:03
+> 更新时间：2026-11-11 08:11:25
 
 ## 热点榜
 
 1. [进博会故事 | 中国将始终是世界发展的重要机遇](https://view.inews.qq.com/a/20261110A03JTG00)
-2. [人民空军，生日快乐！](https://view.inews.qq.com/a/20261110A0E3EY00)
-3. [减少个人信息泄露 首批700专用码号服务业务试点获批](https://view.inews.qq.com/a/20261110A0A7F700)
+2. [视频丨“玄龙”如何隐身？攻击-11更多硬核实力揭秘](https://view.inews.qq.com/a/20261111A0343400)
+3. [视频丨我国持续推进市场多元化 外贸“朋友圈”持续扩大](https://view.inews.qq.com/a/20261111A03B3500)
 4. [视频丨前10个月我国外贸保持强劲增长 民营外资国企协同共进](https://view.inews.qq.com/a/20261110A0AF7W00)
-5. [全国多地规范医疗服务价格项目，患者怎样看懂医院收费？](https://view.inews.qq.com/a/20261110A0DGJ100)
-6. [（图表）事关守信激励措施 两部门作出部署](https://view.inews.qq.com/a/20261110A0E1SA00)
-7. [48年终解密，他击落的是“三料王牌”！](https://view.inews.qq.com/a/20261110A0CBWK00)
-8. [按粒卖的小土豆有多大能耐？](https://view.inews.qq.com/a/20261110A0DE6J00)
-9. [超强厄尔尼诺，最新消息](https://view.inews.qq.com/a/20261110A0DZ5A00)
-10. [当酒店变成“长租房”：谁在赚，谁在省，谁在赌？](https://view.inews.qq.com/a/20261110A09ARK00)
-11. [“湖南株洲一物流仓库突发大火”系谣言（2026·11·10）](https://www.piyao.org.cn/20261110/9488872d47504673902043f1f4bdec9f/c.html)
+5. [第一批新车次列车车票 今起陆续发售](https://view.inews.qq.com/a/20261111A03FWE00)
+6. [你囤Token了吗？“双十一”AI消费套路避坑指南](https://view.inews.qq.com/a/20261111A038TH00)
+7. [视频丨昔时飞两遍，今朝镇长空！中国空军硬核作战力量大盘点](https://view.inews.qq.com/a/20261111A0322S00)
+8. [视频丨冬天洗澡 早上洗还是晚上洗？这些“坏习惯”赶紧改](https://view.inews.qq.com/a/20261111A03DXY00)
+9. [中国足球职业联赛颁奖典礼举行 斯坦丘获中超金球奖](https://view.inews.qq.com/a/20261111A0067200)
+10. [真相来了丨“只吃粗粮等于健康”盛行网络 真的如此吗？](https://view.inews.qq.com/a/20261111A036HV00)
+11. [坐高铁时窗户打开，人会被气流直接吸出去？](https://view.inews.qq.com/a/20261110A04Z6W00)
 12. [国家发改委：幼儿园、小学、初中学龄人口已经达峰](https://view.inews.qq.com/a/20261110A081PG00)
 13. [男子与第三者在客栈发生关系后猝死 妻子向第三者和客栈索赔超百万元，一审被驳回](https://view.inews.qq.com/a/20261110A0DFDA00)
 14. [法国最新涉华表态](https://view.inews.qq.com/a/20261110A0E4WN00)
 15. [小情侣租房1个多月，突然要退租，男子上门收房当场报警：我装修花了十几万元，他们连空调外机都搬走了](https://view.inews.qq.com/a/20261110A0BNP500)
-16. [“不同寻常”！以媒披露视频：俄罗斯军机降落以色列本-古里安机场](https://view.inews.qq.com/a/20261110A0BOSV00)
-17. [南京不设任何门槛的“零元面馆”，不一定是件完全的好事](https://view.inews.qq.com/a/20261110A09R4C00)
-18. [无电村，等待通电26年](https://view.inews.qq.com/a/20261110A0A4SU00)
-19. [董明珠：格力年底推“奢侈品”家电产品，10年后可按原价转手售出](https://view.inews.qq.com/a/20261110A08XDP00)
-20. [“卖鲨鱼卖鲨鱼，4条70元！”](https://view.inews.qq.com/a/20261110A0ARK600)
+16. [超强厄尔尼诺，最新消息](https://view.inews.qq.com/a/20261110A0DZ5A00)
+17. [避免市场恶性竞争，辽宁锦州暂停受理网约车经营许可业务](https://view.inews.qq.com/a/20261110A0AXJ100)
+18. [澳大利亚拟立法严管AI：违规公司或面临刑事处罚](https://view.inews.qq.com/a/20261110A0E9PW00)
+19. [全国多地规范医疗服务价格项目，患者怎样看懂医院收费？](https://view.inews.qq.com/a/20261110A0DGJ100)
+20. [阿维塔回应“6亿废车场”：均为测试战损车，不卖给用户](https://view.inews.qq.com/a/20261110A082A300)
