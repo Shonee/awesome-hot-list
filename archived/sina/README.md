@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-11-11 22:58:50
+> 更新时间：2026-11-12 05:50:37
 
 ## 新闻热榜
 
-1. [罗大佑炮轰赖清德](https://news.sina.com.cn/c/2026-11-11/doc-iniyiiak8701314.shtml)
-2. [英雄警察舍命掐灭独狼式恐袭，欧洲最安全神话却被彻底击碎](https://news.sina.com.cn/w/2026-11-11/doc-iniyiiae5355620.shtml)
-3. [黄仁勋出轨对象丈夫身份曝光，今年年初曾因操纵股票遭刑事扣查](https://finance.sina.com.cn/stock/marketresearch/2026-11-10/doc-iniyhmwu9106882.shtml)
-4. [11月11日11时11分，中国空军官宣](https://news.sina.com.cn/c/2026-11-11/doc-iniykefx1788743.shtml)
-5. [美国众议院阻止推进对美防长赫格塞思的弹劾](https://news.sina.com.cn/2026-11-11/doc-iniyiiai2030742.shtml)
-6. [肖杰，受贿数额特别巨大](https://news.sina.com.cn/o/2026-11-11/doc-iniyipka5350528.shtml)
-7. [重大调整！曾酿成多起非正常死亡](https://news.sina.com.cn/c/2026-11-11/doc-iniyiiah2130597.shtml)
-8. [拜登出席儿子获奖仪式时险被砸，两人被捕](https://news.sina.com.cn/zx/2026-11-11/doc-iniyiiah2135064.shtml)
-9. [画面曝光！花坛藏尸案凶手下跪称“我跟你无冤无仇，杀你真的很愧疚”，受害人儿子：被捕时态度嚣张，指认时哭得厉害，转头就翻供，很虚伪](https://news.sina.com.cn/2026-11-11/doc-iniyiiae5358225.shtml)
-10. [黄仁勋出轨事件，英伟达有新动作](https://news.sina.com.cn/w/2026-11-11/doc-iniyixxz1855628.shtml)
-11. [全国首个冷门绝学学院院长，已亮相](https://news.sina.com.cn/o/2026-11-11/doc-iniyitse8574833.shtml)
-12. [拾光纪·总书记这样呼吁海内外全体中华儿女](https://news.sina.com.cn/c/xl/2026-11-11/doc-iniyiiah2178841.shtml)
-13. [比亚迪回应多位车主投诉大唐车辆前后轮毂装反](https://news.sina.com.cn/s/2026-11-11/doc-iniyitsa2098105.shtml)
-14. [共和党“内斗”第一枪，打响了](https://news.sina.com.cn/w/2026-11-11/doc-iniykehe9097682.shtml)
-15. [留给他俩的时间不多了](https://news.sina.com.cn/zx/2026-11-11/doc-iniyiiak8691545.shtml)
-16. [张雪宣布53号冠军车拍卖款不再捐给韩红基金会，“后面发生了一些事情，我内心是有些质疑的，此前许诺失效”](https://finance.sina.com.cn/roll/2026-11-11/doc-iniyiiah2176926.shtml)
-17. [美媒：黄仁勋已回英伟达上班、开会，试图营造“一切如常”](https://finance.sina.com.cn/roll/2026-11-11/doc-iniyiiah2189376.shtml)
-18. [派奖第2期！双色球井喷47注 单注212万历史第7低](https://sports.sina.com.cn/l/2026-11-10/doc-iniyhmwu9109862.shtml)
-19. [惨败数日后，特朗普迎来一场“完胜”](https://news.sina.com.cn/zx/2026-11-11/doc-iniyipkh8639300.shtml)
-20. [火流星散落石家庄周边 “天外来客”价值几何？](https://news.sina.com.cn/2026-11-11/doc-iniyiiai2032950.shtml)
+1. [11月11日11时11分，中国空军官宣](https://news.sina.com.cn/c/2026-11-11/doc-iniykefx1788743.shtml)
+2. [黄仁勋出轨事件，英伟达有新动作](https://news.sina.com.cn/w/2026-11-11/doc-iniyixxz1855628.shtml)
+3. [共和党“内斗”第一枪，打响了](https://news.sina.com.cn/w/2026-11-11/doc-iniykehe9097682.shtml)
+4. [总统府里，“他们差一点就要了我的命”](https://news.sina.com.cn/w/2026-11-11/doc-iniykkpv1739780.shtml)
+5. [谷歌更新政策，禁止AI生成的公众人物模仿广告。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcr1642447.shtml)
+6. [美国总统特朗普：国防部长赫格塞思做得非常出色。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcv2199442.shtml)
+7. [Meta股价迅速转跌，下跌0.5%。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmt2084508.shtml)
+8. [万亿赛道，利好来了！北京，最新发布！](https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9122897.shtml)
+9. [弹劾案被搁置，共和党为何“罕见”力挺赫格塞思？](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvy9035278.shtml)
+10. [胡塞武装称过去24小时内沙特联军发动93次空袭](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmu8874216.shtml)
+11. [巴西总统卢拉与罗德里格斯讨论了巴西在石油领域的投资，双方同意全面恢复两国关系。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmp1540836.shtml)
+12. [标普500指数涨幅扩大至1.5%，纳斯达克100指数上涨2.9%。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmp1517093.shtml)
+13. [伊朗公布新建地下“导弹城”，隧道内摆满各种导弹](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvx2227312.shtml)
+14. [美国军机被曝撤出美驻英基地](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcx4288583.shtml)
+15. [伊朗议长兼谈判代表团团长卡利巴夫：我们准备协助沙特阿拉伯和胡塞武装组织，在双方提出请求时帮助化解彼此间的分歧。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcx4298348.shtml)
+16. [安联保险：预计全年营业利润大约164亿欧元至186亿欧元。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmt2089872.shtml)
+17. [马斯克：Cybertruck的生产周期将延长。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmu8849071.shtml)
+18. [伊朗议长兼谈判代表团团长卡利巴夫：美国人曾访问莫斯科，要求普京与伊朗进行对话，以便促成我们之间的直接谈判。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcw8966951.shtml)
+19. [安联前九个月营业利润141亿欧元。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmt2090099.shtml)
+20. [在岸人民币兑美元夜盘收盘报6.6749，较上一交易日上涨56点。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmp1539636.shtml)
 
 ## 财经热榜
 
@@ -42,8 +42,8 @@
 13. [司美格鲁肽等“减肥神药”或致永久性失明，美药管局发布警告，此前马斯克曾公开推荐](https://finance.sina.com.cn/wm/2026-11-11/doc-iniyiiah2152433.shtml)
 14. [“防跌倒”指环“自己先倒了”？产品下架待查，功效宣传遭质疑](https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyhses9020407.shtml)
 15. [董明珠回应格力电器业绩下滑：铜在涨价，宁可损失几十亿利润也不降低品质](https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyiiai2049611.shtml)
-16. [“包子2元停车10元”成历史，上海全面调整道路停车收费政策：15分钟内限次免费停，白天鼓励“短停快走”，夜间停车更省钱](https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyitse8561853.shtml)
-17. [持续提升产业创新能力 更好服务支撑经济高质量发展](https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyiaun8784045.shtml)
-18. [国内不足万辆！特斯拉最新销量出炉](https://finance.sina.com.cn/roll/2026-11-11/doc-iniyhser2359988.shtml)
+16. [国内不足万辆！特斯拉最新销量出炉](https://finance.sina.com.cn/roll/2026-11-11/doc-iniyhser2359988.shtml)
+17. [“包子2元停车10元”成历史，上海全面调整道路停车收费政策：15分钟内限次免费停，白天鼓励“短停快走”，夜间停车更省钱](https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyitse8561853.shtml)
+18. [持续提升产业创新能力 更好服务支撑经济高质量发展](https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyiaun8784045.shtml)
 19. [一只新股，今日申购](https://finance.sina.com.cn/roll/2026-11-11/doc-iniyiiai2036337.shtml)
 20. [张雪：冠军车拍卖款不再捐给韩红基金会，我内心存质疑](https://finance.sina.com.cn/roll/2026-11-11/doc-iniyipka5350428.shtml)

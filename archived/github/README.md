@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-11 22:57:47
+> 更新时间：2026-11-12 05:50:10
 
 ## 每日趋势
 
@@ -138,6 +138,5 @@
 6. [Leaflet](https://github.com/Leaflet/Leaflet)
 7. [ponytail](https://github.com/DietrichGebert/ponytail)
 8. [react](https://github.com/react/react)
-9. [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
-10. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-11. [awesome-copilot](https://github.com/github/awesome-copilot)
+9. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+10. [awesome-copilot](https://github.com/github/awesome-copilot)

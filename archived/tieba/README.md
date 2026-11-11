@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-11-11 22:59:09
+> 更新时间：2026-11-12 05:51:28
 
 ## 最有料热点
 
@@ -31,6 +31,6 @@
 25. [宙斯拒绝续约两豪门争抢](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369578&topic_name=%E5%AE%99%E6%96%AF%E6%8B%92%E7%BB%9D%E7%BB%AD%E7%BA%A6%E4%B8%A4%E8%B1%AA%E9%97%A8%E4%BA%89%E6%8A%A2)
 26. [LPL首次在S赛BO5战胜Faker](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369526&topic_name=LPL%E9%A6%96%E6%AC%A1%E5%9C%A8S%E8%B5%9BBO5%E6%88%98%E8%83%9CFaker)
 27. [IG老板怒斥AL训练赛放鸽子](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369540&topic_name=IG%E8%80%81%E6%9D%BF%E6%80%92%E6%96%A5AL%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%94%BE%E9%B8%BD%E5%AD%90)
-28. [深空当铺改文本遭差评轰炸](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369542&topic_name=%E6%B7%B1%E7%A9%BA%E5%BD%93%E9%93%BA%E6%94%B9%E6%96%87%E6%9C%AC%E9%81%AD%E5%B7%AE%E8%AF%84%E8%BD%B0%E7%82%B8)
-29. [Faker燃尽赛后释然微笑](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369534&topic_name=Faker%E7%87%83%E5%B0%BD%E8%B5%9B%E5%90%8E%E9%87%8A%E7%84%B6%E5%BE%AE%E7%AC%91)
-30. [假赛奶油称对369良心难安](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369528&topic_name=%E5%81%87%E8%B5%9B%E5%A5%B6%E6%B2%B9%E7%A7%B0%E5%AF%B9369%E8%89%AF%E5%BF%83%E9%9A%BE%E5%AE%89)
+28. [Faker燃尽赛后释然微笑](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369534&topic_name=Faker%E7%87%83%E5%B0%BD%E8%B5%9B%E5%90%8E%E9%87%8A%E7%84%B6%E5%BE%AE%E7%AC%91)
+29. [深空当铺改文本遭差评轰炸](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369542&topic_name=%E6%B7%B1%E7%A9%BA%E5%BD%93%E9%93%BA%E6%94%B9%E6%96%87%E6%9C%AC%E9%81%AD%E5%B7%AE%E8%AF%84%E8%BD%B0%E7%82%B8)
+30. [369回国首播押宝左手夺冠](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369525&topic_name=369%E5%9B%9E%E5%9B%BD%E9%A6%96%E6%92%AD%E6%8A%BC%E5%AE%9D%E5%B7%A6%E6%89%8B%E5%A4%BA%E5%86%A0)
