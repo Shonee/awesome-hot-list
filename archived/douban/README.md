@@ -1,6 +1,6 @@
 # 豆瓣热榜
 
-> 更新时间：2026-11-11 14:57:59
+> 更新时间：2026-11-11 22:59:10
 
 ## 小组精选
 
@@ -15,7 +15,7 @@
 9. [爱笑的小狗🐕，运气不会差。](https://www.douban.com/group/topic/504775281/?_spm_id=MjQ0NzU3MzAz)
 10. [颐和园谐趣园的大果榆今年也很美](https://www.douban.com/group/topic/504744146/?_spm_id=MzY4NDM3Nzg)
 11. [12天3城俄罗斯逐天游记（万字超多多多多图版](https://www.douban.com/group/topic/505110780/?_spm_id=MTIyNzg3NTE5)
-12. [一个动作教会你正确走姿](https://dae-pre48.dapps.douban.com/group/topic/505135292/?_spm_id=MjIzOTI3Njg1)
+12. [一个动作教会你正确走姿](https://www.douban.com/group/topic/505135292/?_spm_id=MjIzOTI3Njg1)
 13. [要不要一起研究一下各个物品的成本价](https://www.douban.com/group/topic/505011943/?_spm_id=MjU4ODI4MjM5)
 14. [想跟着秋天学画画](https://www.douban.com/group/topic/504687280/?_spm_id=MzY4NDM3Nzg)
 15. [空中游鱼](https://www.douban.com/group/topic/504768118/?_spm_id=MTY0NjE4Ng)
@@ -31,6 +31,6 @@
 25. [女作者书单——那些明亮珍贵的随笔散文](https://www.douban.com/group/topic/504499187/?_spm_id=MTcyNzI0MzEw)
 26. [当一只傲娇的猫想和你玩时](https://www.douban.com/group/topic/504475605/?_spm_id=Mjk3NTE3ODY0)
 27. [纽约橙郡的秋天](https://www.douban.com/group/topic/504449129/?_spm_id=MTg5NzMwMjIz)
-28. [卷瓣藏秋 初漏花色✨](https://dae-pre48.dapps.douban.com/group/topic/504494109/?_spm_id=MjE2ODMwMjc5)
+28. [卷瓣藏秋 初漏花色✨](https://www.douban.com/group/topic/504494109/?_spm_id=MjE2ODMwMjc5)
 29. [我儿一玩起来就变成方块小猫了😍](https://www.douban.com/group/topic/504290544/?_spm_id=MTg1NTE0NzIx)
 30. [偶遇红头仔](https://www.douban.com/group/topic/504533946/?_spm_id=MTI1MTg0Mw)

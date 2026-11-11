@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-11 14:57:23
+> 更新时间：2026-11-11 22:58:55
 
 ## 日榜
 
 1. [再迎“iPhone X 时刻”：20 周年款苹果手机前瞻，整机如一块玻璃、按键将全固态](https://www.ithome.com/1/025/211.htm)
-2. [苹果 iPhone Air 2 机模曝光：厚度 5.2 毫米、新增 4800 万像素超广角镜头](https://www.ithome.com/1/024/840.htm)
-3. [余承东换上 OSTA O1 Pro 阔直板新机，官宣全新华为子品牌 OSTA 星芒](https://www.ithome.com/1/025/300.htm)
-4. [2027 款丰田皇冠上市：29.9 万-35.4 万元，由一汽丰田进口国内](https://www.ithome.com/1/025/040.htm)
-5. [11.11 就看这波：全网巅峰狂促 24 小时，iPhone 17 京东 5068 元，18 Pro/ Max 官方焕新立减 1300 元](https://www.ithome.com/1/025/164.htm)
-6. [首款「逻辑折叠」技术 τ 芯片：华为详解麒麟 9050 系列核心升级，晶体管密度暴涨 53.5%](https://www.ithome.com/1/024/869.htm)
-7. [曝小米 SU7 Ultra Extreme 现身北京小米汽车超级工厂，全身伪装但遮不住超大尾翼](https://www.ithome.com/1/025/168.htm)
-8. [身价 30 分钟缩水约 74 亿美元：英伟达黄仁勋陷婚外情风波，跌至全球富豪榜第十](https://www.ithome.com/1/024/971.htm)
-9. [华为鸿蒙 HarmonyOS 7.0.0.111SP12 Patch22 补丁包推送，部分机型可尝试与 Apple Watch 配对](https://www.ithome.com/1/025/163.htm)
-10. [阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线](https://www.ithome.com/1/025/301.htm)
-11. [Pura X“登陆”PC？华为 MateBook Fold S 小折叠鸿蒙电脑 Live 小方屏玩法曝光](https://www.ithome.com/1/024/975.htm)
-12. [5 个上门维修师傅 2 个说了实话：家电维修乱象再曝光，啄木鸟、天鹅到家、58 到家被点名](https://www.ithome.com/1/025/233.htm)
+2. [余承东换上 OSTA O1 Pro 阔直板新机，官宣全新华为子品牌 OSTA 星芒](https://www.ithome.com/1/025/300.htm)
+3. [比亚迪就大唐轮辋装配问题致歉：系供应商录入失误，提供免费调换](https://www.ithome.com/1/025/396.htm)
+4. [华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端](https://www.ithome.com/1/025/331.htm)
+5. [阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线](https://www.ithome.com/1/025/301.htm)
+6. [华为星芒手机官方微博上线：新品牌 11 月 20 日发布，余承东已换上 OSTA O1 Pro 阔直板新机](https://www.ithome.com/1/025/313.htm)
+7. [5 个上门维修师傅 2 个说了实话：家电维修乱象再曝光，啄木鸟、天鹅到家、58 到家被点名](https://www.ithome.com/1/025/233.htm)
+8. [消息称黄仁勋已回英伟达上班开会，试图表现得“一切照常”](https://www.ithome.com/1/025/249.htm)
+9. [PS5 Pro 也不例外：R 星确认《GTA 6》所有主机目标帧率都是 30fps](https://www.ithome.com/1/025/185.htm)
+10. [“小米换机”应用上架华为鸿蒙应用市场，支持将 HarmonyOS 数据迁移至小米设备](https://www.ithome.com/1/025/443.htm)
+11. [华为官宣杨幂出任鸿蒙折叠电脑先锋大使，新机 11 月 14 日开启预订](https://www.ithome.com/1/025/307.htm)
+12. [使用 FSD 破解版进行智驾测试、被特斯拉发函后，第一电动网 CEO 庞义成回应称“不可能撤稿”](https://www.ithome.com/1/025/394.htm)
