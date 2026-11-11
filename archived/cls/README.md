@@ -1,19 +1,19 @@
 # 财联社热榜
 
-> 更新时间：2026-11-11 08:11:30
+> 更新时间：2026-11-11 14:56:59
 
 ## 热门文章
 
-1. [李强签署国务院令 公布修订后的《基金会管理条例》](https://www.cls.cn/detail/2530370)
-2. [【早报】深夜巨震，美股、原油、黄金全线下挫；美联储加息押注升温，美债遭遇抛售潮；Anthropic IPO有新进展](https://www.cls.cn/detail/2530870)
-3. [美联储12月会议悬念升级 理事沃勒称不排除加息50基点](https://www.cls.cn/detail/2530500)
-4. [美国10月CPI通胀再度超预期 市场押注美联储12月加息已成定局](https://www.cls.cn/detail/2530730)
-5. [美股收盘：加息担忧压制三大指数齐跌 英伟达两天蒸发2.85万亿元](https://www.cls.cn/detail/2530855)
-6. [Anthropic IPO目标市值约1.02万亿美元 发行及配售规模或达904亿美元](https://www.cls.cn/detail/2530667)
-7. [美国10月CPI数据超预期 三大股指期货集体转跌 | 今夜看点](https://www.cls.cn/detail/2530700)
-8. [盘中突破800元！宇树科技近1个月涨翻倍，这些股同获融资客加仓](https://www.cls.cn/detail/2530417)
-9. [【焦点复盘】沪指高开低走止步四连阳，两市超140股涨逾9%，物理AI概念再掀高潮](https://www.cls.cn/detail/2530405)
-10. [分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%](https://www.cls.cn/detail/2530729)
-11. [AI交易遭遇抛售潮后 全球资金盯上新兴市场低估值资产](https://www.cls.cn/detail/2530639)
-12. [太空AI加速备战：SpaceX订购太阳能产线，星舰挑战首次“双回收”](https://www.cls.cn/detail/2530830)
-13. [确认！阿里巴巴芯片公司平头哥已递交上市申请](https://www.cls.cn/detail/2530675)
+1. [【早报】深夜巨震，美股、原油、黄金全线下挫；美联储加息押注升温，美债遭遇抛售潮；Anthropic IPO有新进展](https://www.cls.cn/detail/2530870)
+2. [机器人行情助攻，11月第一只翻倍股来了！](https://www.cls.cn/detail/2531013)
+3. [美股收盘：加息担忧压制三大指数齐跌 英伟达两天蒸发2.85万亿元](https://www.cls.cn/detail/2530855)
+4. [微软股价应声跳水 Anthropic上市前夕推出AI办公套件](https://www.cls.cn/detail/2530817)
+5. [【数读IPO】智能物流产业链公司，今日申购](https://www.cls.cn/detail/2530875)
+6. [太空AI加速备战：SpaceX订购太阳能产线，星舰挑战首次“双回收”](https://www.cls.cn/detail/2530830)
+7. [马斯克光伏布局加速：特斯拉百亿美元新厂正式动工 SpaceX新签设备订单](https://www.cls.cn/detail/2531089)
+8. [鞋企跨界“追光”！华利集团拟最高斥资5亿美元入股光通信企业｜速读公告](https://www.cls.cn/detail/2530832)
+9. [美国务卿：经济施压效果显著 没必要对伊朗开展大规模军事行动](https://www.cls.cn/detail/2530790)
+10. [Anthropic启动IPO路演之际 高盛惊人预测：2030年营收或达6850亿美元](https://www.cls.cn/detail/2530950)
+11. [华尔街热议10月CPI：美联储12月加息板上钉钉，幅度或达50个基点！](https://www.cls.cn/detail/2530992)
+12. [美联储鲍曼研判：通胀正扩大年内或再加息，美股恐因AI大幅回调！](https://www.cls.cn/detail/2530892)
+13. [定档上会！东海证券将成为东吴证券控股子公司，首例同省跨市券商整合的关键时刻](https://www.cls.cn/detail/2530735)

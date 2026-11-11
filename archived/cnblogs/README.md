@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-11 08:11:13
+> 更新时间：2026-11-11 14:56:34
 
 ## 最新帖子
 
-1. [SpringBoot中@Async异步透传问题内部分享](https://www.cnblogs.com/zhangs1986/p/23215584)
-2. [2026 年 Blazor UI 组件库盘点：6 个好用的开源库，怎么选不踩坑](https://www.cnblogs.com/shenchuanchao/p/23617141/blazor-ui-component-libraries-2026-6-open-source-how-to-choose)
-3. [Redis 数据类型全解 - Stream 深度：Pending 回收、重试死信与消息队列选型（十一）](https://www.cnblogs.com/hugogoos/p/23614256)
-4. [OCR、VLM、ASR 到底有什么区别？一文讲清](https://www.cnblogs.com/jyzhao/p/23623333)
-5. [新数据到手，先跑哪几步检查](https://www.cnblogs.com/wang_yb/p/23620146)
-6. [【轻量化复刻大模型 / KIMI K3】Attention Residuals 完整梳理（1）](https://www.cnblogs.com/rossiXYZ/p/23593644)
-7. [go语言中管道channel和&内存地址和指针的讲解](https://www.cnblogs.com/ishoulgodo/p/23620024)
-8. [LangGraph 体系实战（下）：中断恢复、流式、子图与设计模式](https://www.cnblogs.com/buchizicai/p/23594645)
-9. [记一次家庭物品管理的折腾：从“收纳”到“可检索”](https://www.cnblogs.com/shenchuanchao/p/23618645/wuce-youxu)
-10. [【剪贴板体验优化】前置预校验，航旅纵横权限弹窗体验更智能](https://www.cnblogs.com/HarmonyOSSDK/p/23618154)
-11. [MinerU 4.0.12 实战笔记：从PDF到可用的Markdown](https://www.cnblogs.com/zhaoweiwei/p/23483108/mineru)
-12. [Agent 的经验，不该只留在聊天框里：cnblogs-publish 上线](https://www.cnblogs.com/cmt/p/23617315)
-13. [我把DSH当工位用了64天](https://www.cnblogs.com/znlgis/p/23617216)
-14. [让 Go 走得更远：用 LLGo 打通 Go 与 C/C++/Python 生态](https://www.cnblogs.com/Qiniu-developer/p/23616667)
-15. [点云算法整理与常用计算模块：从数据到模型，再到工程与量化](https://www.cnblogs.com/horizondeveloper/p/23615044)
-16. [一次多跳查询的复盘：图不搬出库，GraphRAG 怎么落地](https://www.cnblogs.com/dicengwanjialaozhang/p/23614845)
-17. [用两个按键做一个OLED菜单：先把选择和执行分开](https://www.cnblogs.com/zw-awa/p/23614702)
-18. [手把手教你：标签和图像没对齐，模型一直在学噪声｜AI工程师踩坑实录·第3篇](https://www.cnblogs.com/dawudexiaowu/p/23614706)
-19. [Electron应用保护业务代码的一些尝试](https://www.cnblogs.com/liulun/p/23613216)
-20. [Dell 笔记本扩展坞场景：开机 / WOL 唤醒陷入 PXE over IPv6/IPv4 的排障笔记](https://www.cnblogs.com/kexxxfeng/p/23611435)
+1. [ROS2 保姆级课程（Python 入门版)](https://www.cnblogs.com/lddzwxy/p/23628693)
+2. [鞅的停时定理](https://www.cnblogs.com/Superlollipop/p/23628524)
+3. [AI 学习笔记：Transformer 架构详解](https://www.cnblogs.com/owlman/p/23628518)
+4. [大恒水星工业相机开发笔记（一）：相机基本介绍、安装GalaxyViwer软件和搭建SDK基础环境](https://www.cnblogs.com/qq21497936/p/23628299)
+5. [手把手教你：loss 变 NaN 用 hook 逐层定位｜AI工程师踩坑实录·第4篇](https://www.cnblogs.com/dawudexiaowu/p/23626768)
+6. [一次加索引建议的复核记录：从报告到签字](https://www.cnblogs.com/azhe921/p/23626367)
+7. [大厂git提交规范](https://www.cnblogs.com/codigger/p/23625673)
+8. [YSL语枢-盾甲WAF 总结与展望——从一套引擎到一种方法](https://www.cnblogs.com/anye1991/p/23625224)
+9. [abp学习笔记 - 如何判断一个对象是不是聚合](https://www.cnblogs.com/lmy5215006/p/23576169)
+10. [手搓 AI Agent 03：长出手脚——Tool 系统设计](https://www.cnblogs.com/MrHuo/p/23624224/agent-from-scratch-03)
+11. [.NET 11 发布了，聊聊这版值得关注的变化](https://www.cnblogs.com/shanyou/p/23623908)
+12. [Agent评测工具链大全：Promptfoo、DeepEval 与 LangSmith](https://www.cnblogs.com/jinjiangongzuoshi/p/23623797)
+13. [树形 DP 四道例题详细讲解](https://www.cnblogs.com/beiciqi/p/23623762)
+14. [SimdCodecs 2.0 发布：一套 API 解所有图片，从 ImageSharp 迁过来只改几行](https://www.cnblogs.com/sdcb/p/23620985/20261111-simdcodecs-2-0)
+15. [Day 16：JSON-RPC 2.0：协议选型与请求管道](https://www.cnblogs.com/jeff-tsai/p/23623656/day-16-jsonrpc-pipeline)
+16. [SpringBoot中@Async异步透传问题内部分享](https://www.cnblogs.com/zhangs1986/p/23215584)
+17. [2026 年 Blazor UI 组件库盘点：6 个好用的开源库，怎么选不踩坑](https://www.cnblogs.com/shenchuanchao/p/23617141/blazor-ui-component-libraries-2026-6-open-source-how-to-choose)
+18. [Redis 数据类型全解 - Stream 深度：Pending 回收、重试死信与消息队列选型（十一）](https://www.cnblogs.com/hugogoos/p/23614256)
+19. [OCR、VLM、ASR 到底有什么区别？一文讲清](https://www.cnblogs.com/jyzhao/p/23623333)
+20. [新数据到手，先跑哪几步检查](https://www.cnblogs.com/wang_yb/p/23620146)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [workbuddy接管我的浏览器，帮我干活了](https://www.cnblogs.com/xiezhr/p/23597710)
-2. [把别人的软件拆开看，推荐5个主流逆向工具](https://www.cnblogs.com/jinjiangongzuoshi/p/23598120)
-3. [Agent 的经验，不该只留在聊天框里：cnblogs-publish 上线](https://www.cnblogs.com/cmt/p/23617315)
-4. [TKCode.Arc 1.0 发布：一套 Avalonia 12 组件库的设计令牌、弹簧动效与性能规则](https://www.cnblogs.com/token-ai/p/23600509)
-5. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)
-6. [上周热点回顾（11.2-11.8）](https://www.cnblogs.com/cmt/p/23597991)
+1. [Agent 的经验，不该只留在聊天框里：cnblogs-publish 上线](https://www.cnblogs.com/cmt/p/23617315)
+2. [DGX Spark 首启翻车实录：一次初始化失败与被迫重装的复盘](https://www.cnblogs.com/kexxxfeng/p/23604499)
+3. [WorkBuddy操作浏览器Browser Use，的确很香！](https://www.cnblogs.com/jinjiangongzuoshi/p/23610720)
+4. [.NET 11 发布了，聊聊这版值得关注的变化](https://www.cnblogs.com/shanyou/p/23623908)
+5. [程序员转型抉择：转 Agent 开发还是转全栈？一份基于招聘市场的冷静分析](https://www.cnblogs.com/codigger/p/23611044)
+6. [Sdcb.Arithmetic 2.0：纯 C# 实现四倍精度 Float128，比 MPFR 快 2 到 12 倍](https://www.cnblogs.com/sdcb/p/23606347/20261110-arithmetic-2-0)
