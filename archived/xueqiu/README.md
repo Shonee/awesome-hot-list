@@ -1,16 +1,16 @@
 # 雪球热榜
 
-> 更新时间：2026-11-12 10:43:35
+> 更新时间：2026-11-12 18:42:06
 
 ## 热门话题
 
-1. [PCB概念震荡拉升，景旺电子涨停](https://xueqiu.com/hot_event/531999)
-2. [算力芯片延续强势，寒武紀股价重回千元](https://xueqiu.com/hot_event/532000)
-3. [电子特气概念震荡反弹，中船特气大涨](https://xueqiu.com/hot_event/532001)
-4. [CoreWeave股价大涨，创最大单日涨幅](https://xueqiu.com/hot_event/531934)
-5. [AI漫剧概念拉升，上海电影创新高](https://xueqiu.com/hot_event/531726)
-6. [光通信概念港股逆市走强，剑桥科技大涨](https://xueqiu.com/hot_event/531709)
-7. [算力硬件股拉升，东山精密涨停](https://xueqiu.com/hot_event/531700)
-8. [CPO概念持续走高，新易盛大涨](https://xueqiu.com/hot_event/531623)
-9. [燃气股异动拉升，东方环宇三连板](https://xueqiu.com/hot_event/531600)
-10. [端侧AI概念走强，日海智能5天3板](https://xueqiu.com/hot_event/531579)
+1. [军工板块拉升，长城军工逼近涨停](https://xueqiu.com/hot_event/532102)
+2. [泡泡玛特斥资6571万港元回购46万股](https://xueqiu.com/hot_event/532208)
+3. [黄仁勋丑闻发酵，英伟达盘前跌7%AI链承压](https://xueqiu.com/hot_event/532231)
+4. [算力芯片延续强势，寒武紀收复千元关口](https://xueqiu.com/hot_event/532000)
+5. [中芯国际三季度净利润大增87.6%](https://xueqiu.com/hot_event/532239)
+6. [AI漫剧概念回落，华策影视大跌](https://xueqiu.com/hot_event/532091)
+7. [PCB概念震荡拉升，景旺电子涨停](https://xueqiu.com/hot_event/531999)
+8. [福建本地股拉升，福建水泥涨停](https://xueqiu.com/hot_event/532075)
+9. [近端次新股局部异动，沈鼓集团涨停](https://xueqiu.com/hot_event/532095)
+10. [物理AI概念走弱，海天瑞声大跌](https://xueqiu.com/hot_event/532087)

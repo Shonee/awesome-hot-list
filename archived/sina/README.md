@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-11-12 10:43:26
+> 更新时间：2026-11-12 18:41:38
 
 ## 新闻热榜
 
 1. [俄罗斯驻美国大使达尔奇耶夫去世](https://news.sina.com.cn/w/2026-11-12/doc-iniykvcw8965757.shtml)
-2. [王毅同美国国务卿鲁比奥通电话](https://news.sina.com.cn/c/2026-11-11/doc-iniykvcs8254041.shtml)
-3. [倪润峰去世](https://news.sina.com.cn/c/2026-11-11/doc-iniykqvy9031066.shtml)
-4. [解放军对台“无声军演”？没什么好猜的](https://news.sina.com.cn/c/2026-11-11/doc-iniykqvu8366435.shtml)
-5. [习言道 | 没有一支强大的军队，就不可能有个强大的祖国](https://news.sina.com.cn/c/xl/2026-11-11/doc-iniykkpw8450690.shtml)
-6. [11月11日11时11分，中国空军官宣](https://news.sina.com.cn/c/2026-11-11/doc-iniykefx1788743.shtml)
-7. [报道称英伟达首席执行官黄仁勋据悉与一名向其汇报工作的公司高管有过婚外情](https://news.sina.com.cn/s/2026-11-12/doc-iniymmzi1324854.shtml)
-8. [伊朗议长：美国必须满足伊方提出的七项条件](https://news.sina.com.cn/w/2026-11-12/doc-iniykvcx4301952.shtml)
-9. [外媒：英伟达正准备罢免黄仁勋的CEO职务](https://news.sina.com.cn/w/2026-11-12/doc-iniymmzr3999736.shtml)
-10. [总统府里，“他们差一点就要了我的命”](https://news.sina.com.cn/w/2026-11-11/doc-iniykkpv1739780.shtml)
-11. [天塌了！黄仁勋被曝与高管有新婚外情，英伟达暴跌8%，董事会启动罢免](https://finance.sina.com.cn/roll/2026-11-12/doc-iniymmzp1889269.shtml)
-12. [央视曝光后，四川宜宾成立联合调查组](https://news.sina.com.cn/s/2026-11-11/doc-iniykkpw8403112.shtml)
-13. [弹劾案被搁置，共和党为何“罕见”力挺赫格塞思？](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvy9035278.shtml)
-14. [日本知名声优怒批：太可怕了，首相！](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvy8999722.shtml)
-15. [肖杰，受贿数额特别巨大](https://news.sina.com.cn/o/2026-11-11/doc-iniyipka5350528.shtml)
-16. [操盘必读：影响股市利好或利空消息_2026年11月12日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-11-12/doc-iniymmzq8688199.shtml)
-17. [高市成天喊“开战”，多家日媒假装听不见](https://mil.news.sina.com.cn/2026-11-12/doc-iniymsip3891175.shtml)
-18. [重大调整！曾酿成多起非正常死亡](https://news.sina.com.cn/c/2026-11-11/doc-iniyiiah2130597.shtml)
-19. [石家庄天降陨石，数百人扎堆“寻宝”，有人90克卖4600元！捡到的陨石归谁？真这么值钱吗？专家解读](https://news.sina.com.cn/s/2026-11-11/doc-iniykehc2367742.shtml)
-20. [阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使](https://news.sina.com.cn/2026-11-12/doc-iniymmzr3994369.shtml)
+2. [高市成天喊“开战”，多家日媒假装听不见](https://mil.news.sina.com.cn/2026-11-12/doc-iniymsip3891175.shtml)
+3. [天塌了！黄仁勋被曝与高管有新婚外情，英伟达暴跌8%，董事会启动罢免](https://finance.sina.com.cn/roll/2026-11-12/doc-iniymmzp1889269.shtml)
+4. [特朗普将赴东盟峰会，各国怕的不只是关税](https://news.sina.com.cn/w/2026-11-12/doc-iniymsin8651213.shtml)
+5. [腾讯被传裁员8000人！脉脉同事圈一度挤爆  知情人士辟谣](https://finance.sina.com.cn/tech/roll/2026-11-12/doc-iniynaxh8510093.shtml)
+6. [解放军对台“无声军演”？没什么好猜的](https://news.sina.com.cn/c/2026-11-11/doc-iniykqvu8366435.shtml)
+7. [倪润峰去世](https://news.sina.com.cn/c/2026-11-11/doc-iniykqvy9031066.shtml)
+8. [突发！英伟达盘后跳水8%，董事会今天或罢免黄仁勋](https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniymmzi1347005.shtml)
+9. [阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使](https://news.sina.com.cn/2026-11-12/doc-iniymmzr3994369.shtml)
+10. [王毅同美国国务卿鲁比奥通电话](https://news.sina.com.cn/c/2026-11-11/doc-iniykvcs8254041.shtml)
+11. [传霍启山12月中完婚喜帖曝光　迎娶29岁混血女星娜然](https://finance.sina.com.cn/wm/2026-11-11/doc-iniykvcx4276468.shtml)
+12. [[新浪彩票]足彩第26163期任九：比利时建议舍弃](https://sports.sina.com.cn/l/2026-11-12/doc-iniymmzq8666216.shtml)
+13. [央视曝光后，四川宜宾成立联合调查组](https://news.sina.com.cn/s/2026-11-11/doc-iniykkpw8403112.shtml)
+14. [重大突破，国产1.6T光传输创新纪录！热门赛道再迎催化，有望持续高增长的光通信股出炉](https://finance.sina.com.cn/roll/2026-11-12/doc-iniymmzq8692050.shtml)
+15. [总统府里，“他们差一点就要了我的命”](https://news.sina.com.cn/w/2026-11-11/doc-iniykkpv1739780.shtml)
+16. [外媒：英伟达正准备罢免黄仁勋的CEO职务](https://news.sina.com.cn/w/2026-11-12/doc-iniymmzr3999736.shtml)
+17. [[新浪彩票]足彩第26163期大势：荷兰重点防平](https://sports.sina.com.cn/l/2026-11-12/doc-iniymmzr3987108.shtml)
+18. [日本知名声优怒批：太可怕了，首相！](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvy8999722.shtml)
+19. [纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话](https://news.sina.com.cn/c/xl/2026-11-12/doc-iniymwri1850238.shtml)
+20. [“彩电大王”倪润峰逝世，从三线军工到长虹霸主，跌宕半生定格一个家电时代](https://news.sina.com.cn/s/2026-11-12/doc-iniykzmu8863861.shtml)
 
 ## 财经热榜
 
