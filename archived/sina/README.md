@@ -1,29 +1,29 @@
 # 新浪热榜
 
-> 更新时间：2026-11-12 05:50:37
+> 更新时间：2026-11-12 10:43:26
 
 ## 新闻热榜
 
-1. [11月11日11时11分，中国空军官宣](https://news.sina.com.cn/c/2026-11-11/doc-iniykefx1788743.shtml)
-2. [黄仁勋出轨事件，英伟达有新动作](https://news.sina.com.cn/w/2026-11-11/doc-iniyixxz1855628.shtml)
-3. [共和党“内斗”第一枪，打响了](https://news.sina.com.cn/w/2026-11-11/doc-iniykehe9097682.shtml)
-4. [总统府里，“他们差一点就要了我的命”](https://news.sina.com.cn/w/2026-11-11/doc-iniykkpv1739780.shtml)
-5. [谷歌更新政策，禁止AI生成的公众人物模仿广告。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcr1642447.shtml)
-6. [美国总统特朗普：国防部长赫格塞思做得非常出色。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcv2199442.shtml)
-7. [Meta股价迅速转跌，下跌0.5%。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmt2084508.shtml)
-8. [万亿赛道，利好来了！北京，最新发布！](https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9122897.shtml)
-9. [弹劾案被搁置，共和党为何“罕见”力挺赫格塞思？](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvy9035278.shtml)
-10. [胡塞武装称过去24小时内沙特联军发动93次空袭](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmu8874216.shtml)
-11. [巴西总统卢拉与罗德里格斯讨论了巴西在石油领域的投资，双方同意全面恢复两国关系。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmp1540836.shtml)
-12. [标普500指数涨幅扩大至1.5%，纳斯达克100指数上涨2.9%。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmp1517093.shtml)
-13. [伊朗公布新建地下“导弹城”，隧道内摆满各种导弹](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvx2227312.shtml)
-14. [美国军机被曝撤出美驻英基地](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcx4288583.shtml)
-15. [伊朗议长兼谈判代表团团长卡利巴夫：我们准备协助沙特阿拉伯和胡塞武装组织，在双方提出请求时帮助化解彼此间的分歧。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcx4298348.shtml)
-16. [安联保险：预计全年营业利润大约164亿欧元至186亿欧元。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmt2089872.shtml)
-17. [马斯克：Cybertruck的生产周期将延长。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmu8849071.shtml)
-18. [伊朗议长兼谈判代表团团长卡利巴夫：美国人曾访问莫斯科，要求普京与伊朗进行对话，以便促成我们之间的直接谈判。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykvcw8966951.shtml)
-19. [安联前九个月营业利润141亿欧元。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmt2090099.shtml)
-20. [在岸人民币兑美元夜盘收盘报6.6749，较上一交易日上涨56点。](https://finance.sina.com.cn/7x24/2026-11-12/doc-iniykzmp1539636.shtml)
+1. [俄罗斯驻美国大使达尔奇耶夫去世](https://news.sina.com.cn/w/2026-11-12/doc-iniykvcw8965757.shtml)
+2. [王毅同美国国务卿鲁比奥通电话](https://news.sina.com.cn/c/2026-11-11/doc-iniykvcs8254041.shtml)
+3. [倪润峰去世](https://news.sina.com.cn/c/2026-11-11/doc-iniykqvy9031066.shtml)
+4. [解放军对台“无声军演”？没什么好猜的](https://news.sina.com.cn/c/2026-11-11/doc-iniykqvu8366435.shtml)
+5. [习言道 | 没有一支强大的军队，就不可能有个强大的祖国](https://news.sina.com.cn/c/xl/2026-11-11/doc-iniykkpw8450690.shtml)
+6. [11月11日11时11分，中国空军官宣](https://news.sina.com.cn/c/2026-11-11/doc-iniykefx1788743.shtml)
+7. [报道称英伟达首席执行官黄仁勋据悉与一名向其汇报工作的公司高管有过婚外情](https://news.sina.com.cn/s/2026-11-12/doc-iniymmzi1324854.shtml)
+8. [伊朗议长：美国必须满足伊方提出的七项条件](https://news.sina.com.cn/w/2026-11-12/doc-iniykvcx4301952.shtml)
+9. [外媒：英伟达正准备罢免黄仁勋的CEO职务](https://news.sina.com.cn/w/2026-11-12/doc-iniymmzr3999736.shtml)
+10. [总统府里，“他们差一点就要了我的命”](https://news.sina.com.cn/w/2026-11-11/doc-iniykkpv1739780.shtml)
+11. [天塌了！黄仁勋被曝与高管有新婚外情，英伟达暴跌8%，董事会启动罢免](https://finance.sina.com.cn/roll/2026-11-12/doc-iniymmzp1889269.shtml)
+12. [央视曝光后，四川宜宾成立联合调查组](https://news.sina.com.cn/s/2026-11-11/doc-iniykkpw8403112.shtml)
+13. [弹劾案被搁置，共和党为何“罕见”力挺赫格塞思？](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvy9035278.shtml)
+14. [日本知名声优怒批：太可怕了，首相！](https://news.sina.com.cn/w/2026-11-11/doc-iniykqvy8999722.shtml)
+15. [肖杰，受贿数额特别巨大](https://news.sina.com.cn/o/2026-11-11/doc-iniyipka5350528.shtml)
+16. [操盘必读：影响股市利好或利空消息_2026年11月12日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-11-12/doc-iniymmzq8688199.shtml)
+17. [高市成天喊“开战”，多家日媒假装听不见](https://mil.news.sina.com.cn/2026-11-12/doc-iniymsip3891175.shtml)
+18. [重大调整！曾酿成多起非正常死亡](https://news.sina.com.cn/c/2026-11-11/doc-iniyiiah2130597.shtml)
+19. [石家庄天降陨石，数百人扎堆“寻宝”，有人90克卖4600元！捡到的陨石归谁？真这么值钱吗？专家解读](https://news.sina.com.cn/s/2026-11-11/doc-iniykehc2367742.shtml)
+20. [阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使](https://news.sina.com.cn/2026-11-12/doc-iniymmzr3994369.shtml)
 
 ## 财经热榜
 

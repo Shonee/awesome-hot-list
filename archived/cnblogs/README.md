@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-12 05:50:14
+> 更新时间：2026-11-12 10:42:59
 
 ## 最新帖子
 
-1. [RSI 2026：百篇论文年度回顾，从会解题走向会改进](https://www.cnblogs.com/fanzhidongyzby/p/23634058/rsi2026)
-2. [手写一个最小 RAG：130 行代码让 3B 模型答对 90% 的公司制度题](https://www.cnblogs.com/wtang/p/23633603)
-3. [把 Windows 任务栏时钟改造成日历 + AI 私人秘书：Tauri 2 + Rust 实现记录](https://www.cnblogs.com/ucfar/p/23633199)
-4. [C++ 快读快写详解：读入整数与读入字符串（全网最详细）](https://www.cnblogs.com/beiciqi/p/23632399)
-5. [多个 goroutine 修改数据出现竞争的两种解决办法](https://www.cnblogs.com/ishoulgodo/p/23632260)
-6. [SpringBoot性能优化4:HikariCP连接池与SQL事务优化](https://www.cnblogs.com/snidget/p/23632949)
-7. [重新组织文档结构：分层逻辑与判断](https://www.cnblogs.com/learnhow/p/23632647)
-8. [【轻量化复刻大模型 / KIMI K3】Attention Residuals 完整梳理（2）](https://www.cnblogs.com/rossiXYZ/p/23593724)
-9. [16. 0.1+0.2=0.30000000000000004？ArkTS算术运算符实战详解](https://www.cnblogs.com/halfcode/p/23632621)
-10. [学习NOTE 13——莫队](https://www.cnblogs.com/T-M-T/p/23620158)
-11. [在端侧 AI 交互智能体中防止提示词注入（Prompt Injection）的安全设计：论文实证与工业级实战深度解析](https://www.cnblogs.com/duwenlong/p/23631569)
-12. [总想着“忙完再休息”？让 Tick Rest 提醒你，先歇一会儿](https://www.cnblogs.com/myvin/p/23578791)
-13. [从一段 WebSocket 代码聊开：bytes 不是 zlib、binaryType 决定一切，15MB 大消息的零拷贝优化](https://www.cnblogs.com/yellow3gold/p/23630713)
-14. [java代码审计sql注入(JFinal/JBoot框架) 1](https://www.cnblogs.com/nihao-xing/p/23459079)
-15. [【黄啊码】从 0 到 1 做 FDE：如何获客、成交、交付?百万级 AI 项目实战复盘](https://www.cnblogs.com/huangama/p/23629515)
-16. [Vector 内存缓慢泄漏排查：datadog_metrics sink 的增量转换状态永不过期](https://www.cnblogs.com/calvinK/p/23629012)
-17. [C语言函数指针与宏实战：从回调、表驱动菜单到X-Macro，讲透嵌入式代码解耦](https://www.cnblogs.com/zw-awa/p/23628860)
-18. [一个人，也要有一间像样的数字工作室](https://www.cnblogs.com/known/p/23628826)
-19. [ROS2 保姆级课程（Python 入门版)](https://www.cnblogs.com/lddzwxy/p/23628693)
-20. [鞅的停时定理](https://www.cnblogs.com/Superlollipop/p/23628524)
+1. [AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程](https://www.cnblogs.com/codigger/p/23636985)
+2. [六轮真机实验后，我把鸿蒙直播推流的 UI 全逼成了原生——uni-app 适配 HarmonyOS NEXT 完整复盘](https://www.cnblogs.com/xyyt/p/23636784)
+3. [手搓 AI Agent 04：第一个真工具——搜索 / 计算 / 读文件](https://www.cnblogs.com/MrHuo/p/23636656/agent-from-scratch-04)
+4. [PPT 图片批量处理教程：导出全部幻灯片 · 提取全部素材](https://www.cnblogs.com/exioran/p/23636507)
+5. [嵌入式OLED表驱动菜单：用一张表、一个栈和一个窗口重写表驱动菜单](https://www.cnblogs.com/zw-awa/p/23636397)
+6. [太牛了，不插线不 root，两行命令就能隔空操控 Android 真机](https://www.cnblogs.com/jinjiangongzuoshi/p/23636224)
+7. [Day 17：Connector 与调用端的职责收敛](https://www.cnblogs.com/jeff-tsai/p/23636206/day-17-client-connector)
+8. [Redis 数据类型全解 - 数据类型选型矩阵：一张表、一棵树、四条线（十二）](https://www.cnblogs.com/hugogoos/p/23631084)
+9. [Oracle 23.26.4 新函数 BAR_CHART：把数字画成条形图](https://www.cnblogs.com/jyzhao/p/23635728)
+10. [RSI 2026：百篇论文年度回顾，从会解题走向会改进](https://www.cnblogs.com/fanzhidongyzby/p/23634058/rsi2026)
+11. [手写一个最小 RAG：130 行代码让 3B 模型答对 90% 的公司制度题](https://www.cnblogs.com/wtang/p/23633603)
+12. [把 Windows 任务栏时钟改造成日历 + AI 私人秘书：Tauri 2 + Rust 实现记录](https://www.cnblogs.com/ucfar/p/23633199)
+13. [C++快读快写终极优化：从慢到快的实战对比](https://www.cnblogs.com/beiciqi/p/23632399)
+14. [多个 goroutine 修改数据出现竞争的两种解决办法](https://www.cnblogs.com/ishoulgodo/p/23632260)
+15. [SpringBoot性能优化4:HikariCP连接池与SQL事务优化](https://www.cnblogs.com/snidget/p/23632949)
+16. [重新组织文档结构：分层逻辑与判断](https://www.cnblogs.com/learnhow/p/23632647)
+17. [【轻量化复刻大模型 / KIMI K3】Attention Residuals 完整梳理（2）](https://www.cnblogs.com/rossiXYZ/p/23593724)
+18. [16. 0.1+0.2=0.30000000000000004？ArkTS算术运算符实战详解](https://www.cnblogs.com/halfcode/p/23632621)
+19. [学习NOTE 13——莫队](https://www.cnblogs.com/T-M-T/p/23620158)
+20. [在端侧 AI 交互智能体中防止提示词注入（Prompt Injection）的安全设计：论文实证与工业级实战深度解析](https://www.cnblogs.com/duwenlong/p/23631569)
 
 ## 精华帖子
 
