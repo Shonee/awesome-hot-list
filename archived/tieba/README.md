@@ -1,6 +1,6 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-11-13 02:43:30
+> 更新时间：2026-11-13 07:59:37
 
 ## 最有料热点
 
@@ -31,6 +31,5 @@
 25. [韩网倒戈力挺BLG夺冠](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369569&topic_name=%E9%9F%A9%E7%BD%91%E5%80%92%E6%88%88%E5%8A%9B%E6%8C%BABLG%E5%A4%BA%E5%86%A0)
 26. [海地黑帮挨揍求助联合国](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369568&topic_name=%E6%B5%B7%E5%9C%B0%E9%BB%91%E5%B8%AE%E6%8C%A8%E6%8F%8D%E6%B1%82%E5%8A%A9%E8%81%94%E5%90%88%E5%9B%BD)
 27. [抗吧抽奖出现人传人现象](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369616&topic_name=%E6%8A%97%E5%90%A7%E6%8A%BD%E5%A5%96%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E4%BA%BA%E7%8E%B0%E8%B1%A1)
-28. [出息了病毒吧吧主被官媒采访](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369544&topic_name=%E5%87%BA%E6%81%AF%E4%BA%86%E7%97%85%E6%AF%92%E5%90%A7%E5%90%A7%E4%B8%BB%E8%A2%AB%E5%AE%98%E5%AA%92%E9%87%87%E8%AE%BF)
-29. [吧友开串剥夺Faker全部荣誉](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369570&topic_name=%E5%90%A7%E5%8F%8B%E5%BC%80%E4%B8%B2%E5%89%A5%E5%A4%BAFaker%E5%85%A8%E9%83%A8%E8%8D%A3%E8%AA%89)
-30. [Bin放话GEN不如T1](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369548&topic_name=Bin%E6%94%BE%E8%AF%9DGEN%E4%B8%8D%E5%A6%82T1)
+28. [吧友开串剥夺Faker全部荣誉](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369570&topic_name=%E5%90%A7%E5%8F%8B%E5%BC%80%E4%B8%B2%E5%89%A5%E5%A4%BAFaker%E5%85%A8%E9%83%A8%E8%8D%A3%E8%AA%89)
+29. [出息了病毒吧吧主被官媒采访](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369544&topic_name=%E5%87%BA%E6%81%AF%E4%BA%86%E7%97%85%E6%AF%92%E5%90%A7%E5%90%A7%E4%B8%BB%E8%A2%AB%E5%AE%98%E5%AA%92%E9%87%87%E8%AE%BF)

@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-13 02:42:56
+> 更新时间：2026-11-13 07:58:44
 
 ## 最新帖子
 
-1. [把视频生产做成一条可验证的流水线](https://www.cnblogs.com/znlgis/p/23636603)
-2. [基于 .NET 11 深入理解 AsyncLocal 和 ExecutionContext](https://www.cnblogs.com/eventhorizon/p/23645861)
-3. [【轻量化复刻大模型 / KIMI K3】AttnRes 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23593758)
-4. [AI是良师益友，跟他学Ubuntu server2604搭建docker环境](https://www.cnblogs.com/datacool/p/23645223)
-5. [2026 年 11 月 TIOBE 编程语言排行榜：Dart 首次闯入前 20，Rust 跌出前十](https://www.cnblogs.com/lwqing/p/23644952)
-6. [Day20 · 面向对象（二）继承、多态与高级特性](https://www.cnblogs.com/xiaojiaxuezhang/p/23644680)
-7. [java代码审计sql注入2(jdbc)](https://www.cnblogs.com/nihao-xing/p/23642685)
-8. [一个 Agent 的四件套：画界面、找帮手、查数据、守规矩](https://www.cnblogs.com/haoxiaozhang/p/23643964)
-9. [Elasticsearch 7.17 的 SQL 到底能查到什么？一次踩坑记录](https://www.cnblogs.com/yellow3gold/p/23643884)
-10. [缓存一致性：先删缓存还是先更新库？3 种方案对比 + 实战](https://www.cnblogs.com/uniqueDong/p/23643356)
-11. [ECG心电算法研究环境搭建指南（零基础友好版）](https://www.cnblogs.com/windbetter/p/23642698)
-12. [开源实战：基于 Spring Boot 3 + Vue 3 + Redis 的高校选修课管理系统（志愿填报 + 统一抽签）](https://www.cnblogs.com/huangrenhui/p/23640787)
-13. [[c++]记一次由内存布局巧合掩盖的潜伏型崩溃排查](https://www.cnblogs.com/messzh/p/23640728)
-14. [WorkHub 更新-语音、手机端与 MCP](https://www.cnblogs.com/known/p/23640632)
-15. [当 AI 成为数据的第一用户，工业物联底座该怎么重构](https://www.cnblogs.com/yefanqiu/p/23639586)
-16. [AI Agent 技术全景解析 —— 从提示词工程到高级智能体构建](https://www.cnblogs.com/vivotech/p/23638332)
-17. [用 .NET 10 做人脸活体核验：SimdFace 1.1.0](https://www.cnblogs.com/dotnet-org-cn/p/23638066)
-18. [[ZJOI2007] 仓库建设 详细题解](https://www.cnblogs.com/beiciqi/p/23626716)
-19. [使用 C# 定位 PDF 文本：提取文字在页面上的坐标位置](https://www.cnblogs.com/jazz-z/p/23638103)
-20. [AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程](https://www.cnblogs.com/codigger/p/23636985)
+1. [Docker Compose 平滑切换环境变量文件，容器配置不残留](https://www.cnblogs.com/jyzhao/p/23649311)
+2. [HybridCache-缓存架构决策框架落地](https://www.cnblogs.com/hugogoos/p/23644971)
+3. [把视频生产做成一条可验证的流水线](https://www.cnblogs.com/znlgis/p/23636603)
+4. [基于 .NET 11 深入理解 AsyncLocal 和 ExecutionContext](https://www.cnblogs.com/eventhorizon/p/23645861)
+5. [【轻量化复刻大模型 / KIMI K3】AttnRes 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23593758)
+6. [AI是良师益友，跟他学Ubuntu server2604搭建docker环境](https://www.cnblogs.com/datacool/p/23645223)
+7. [2026 年 11 月 TIOBE 编程语言排行榜：Dart 首次闯入前 20，Rust 跌出前十](https://www.cnblogs.com/lwqing/p/23644952)
+8. [Day20 · 面向对象（二）继承、多态与高级特性](https://www.cnblogs.com/xiaojiaxuezhang/p/23644680)
+9. [java代码审计sql注入2(jdbc)](https://www.cnblogs.com/nihao-xing/p/23642685)
+10. [一个 Agent 的四件套：画界面、找帮手、查数据、守规矩](https://www.cnblogs.com/haoxiaozhang/p/23643964)
+11. [Elasticsearch 7.17 的 SQL 到底能查到什么？一次踩坑记录](https://www.cnblogs.com/yellow3gold/p/23643884)
+12. [缓存一致性：先删缓存还是先更新库？3 种方案对比 + 实战](https://www.cnblogs.com/uniqueDong/p/23643356)
+13. [ECG心电算法研究环境搭建指南（零基础友好版）](https://www.cnblogs.com/windbetter/p/23642698)
+14. [开源实战：基于 Spring Boot 3 + Vue 3 + Redis 的高校选修课管理系统（志愿填报 + 统一抽签）](https://www.cnblogs.com/huangrenhui/p/23640787)
+15. [[c++]记一次由内存布局巧合掩盖的潜伏型崩溃排查](https://www.cnblogs.com/messzh/p/23640728)
+16. [WorkHub 更新-语音、手机端与 MCP](https://www.cnblogs.com/known/p/23640632)
+17. [当 AI 成为数据的第一用户，工业物联底座该怎么重构](https://www.cnblogs.com/yefanqiu/p/23639586)
+18. [AI Agent 技术全景解析 —— 从提示词工程到高级智能体构建](https://www.cnblogs.com/vivotech/p/23638332)
+19. [用 .NET 10 做人脸活体核验：SimdFace 1.1.0](https://www.cnblogs.com/dotnet-org-cn/p/23638066)
+20. [[ZJOI2007] 仓库建设 详细题解](https://www.cnblogs.com/beiciqi/p/23626716)
 
 ## 精华帖子
 
