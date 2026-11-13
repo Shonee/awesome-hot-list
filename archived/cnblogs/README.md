@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-13 07:58:44
+> 更新时间：2026-11-13 14:23:01
 
 ## 最新帖子
 
-1. [Docker Compose 平滑切换环境变量文件，容器配置不残留](https://www.cnblogs.com/jyzhao/p/23649311)
-2. [HybridCache-缓存架构决策框架落地](https://www.cnblogs.com/hugogoos/p/23644971)
-3. [把视频生产做成一条可验证的流水线](https://www.cnblogs.com/znlgis/p/23636603)
-4. [基于 .NET 11 深入理解 AsyncLocal 和 ExecutionContext](https://www.cnblogs.com/eventhorizon/p/23645861)
-5. [【轻量化复刻大模型 / KIMI K3】AttnRes 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23593758)
-6. [AI是良师益友，跟他学Ubuntu server2604搭建docker环境](https://www.cnblogs.com/datacool/p/23645223)
-7. [2026 年 11 月 TIOBE 编程语言排行榜：Dart 首次闯入前 20，Rust 跌出前十](https://www.cnblogs.com/lwqing/p/23644952)
-8. [Day20 · 面向对象（二）继承、多态与高级特性](https://www.cnblogs.com/xiaojiaxuezhang/p/23644680)
-9. [java代码审计sql注入2(jdbc)](https://www.cnblogs.com/nihao-xing/p/23642685)
-10. [一个 Agent 的四件套：画界面、找帮手、查数据、守规矩](https://www.cnblogs.com/haoxiaozhang/p/23643964)
-11. [Elasticsearch 7.17 的 SQL 到底能查到什么？一次踩坑记录](https://www.cnblogs.com/yellow3gold/p/23643884)
-12. [缓存一致性：先删缓存还是先更新库？3 种方案对比 + 实战](https://www.cnblogs.com/uniqueDong/p/23643356)
-13. [ECG心电算法研究环境搭建指南（零基础友好版）](https://www.cnblogs.com/windbetter/p/23642698)
-14. [开源实战：基于 Spring Boot 3 + Vue 3 + Redis 的高校选修课管理系统（志愿填报 + 统一抽签）](https://www.cnblogs.com/huangrenhui/p/23640787)
-15. [[c++]记一次由内存布局巧合掩盖的潜伏型崩溃排查](https://www.cnblogs.com/messzh/p/23640728)
-16. [WorkHub 更新-语音、手机端与 MCP](https://www.cnblogs.com/known/p/23640632)
-17. [当 AI 成为数据的第一用户，工业物联底座该怎么重构](https://www.cnblogs.com/yefanqiu/p/23639586)
-18. [AI Agent 技术全景解析 —— 从提示词工程到高级智能体构建](https://www.cnblogs.com/vivotech/p/23638332)
-19. [用 .NET 10 做人脸活体核验：SimdFace 1.1.0](https://www.cnblogs.com/dotnet-org-cn/p/23638066)
-20. [[ZJOI2007] 仓库建设 详细题解](https://www.cnblogs.com/beiciqi/p/23626716)
+1. [收上来一堆 Excel，怎么保证没改错](https://www.cnblogs.com/wang_yb/p/23653612)
+2. [手把手教你：装了两套 CUDA 还在串？PATH 与优先级的真相｜AI工程师踩坑实录·第6篇](https://www.cnblogs.com/dawudexiaowu/p/23652179)
+3. [在 Linux 上把 PPT 转成长图：office2pdf + PyMuPDF 的选型与踩坑](https://www.cnblogs.com/yuexiliuli/p/23651985)
+4. [从怀疑到真香——AI 重构代码后，我不再追求“最合适”，而是做好这两件事：测试和优化](https://www.cnblogs.com/xyyt/p/23651767)
+5. [负载均衡到底在干嘛？7 个场景给你说明白](https://www.cnblogs.com/codigger/p/23650834)
+6. [你的账，是补出来的还是做出来的](https://www.cnblogs.com/known/p/23650416)
+7. [手搓 AI Agent 05：多工具协作——让 Agent 自己决定先搜再读、还能并行抓网页](https://www.cnblogs.com/MrHuo/p/23649930/agent-from-scratch-05)
+8. [分享一次真实面试里的6道AI测试题，逐题拆解（抓紧围观）](https://www.cnblogs.com/jinjiangongzuoshi/p/23649824)
+9. [Day 18：错误契约与用户可见消息](https://www.cnblogs.com/jeff-tsai/p/23649788/day-18-error-contract)
+10. [开发基于ComfyUI图片生成类应用Step by step （四）前后端分离架构：独立ComfyUI服务于应用技术栈选型](https://www.cnblogs.com/zhenl/p/23649790)
+11. [ES 7.17 三节点 Docker 集群接入 IK 自定义词典：一次从丢插件到热更新的完整排障](https://www.cnblogs.com/yellow3gold/p/23649681)
+12. [Docker Compose 平滑切换环境变量文件，容器配置不残留](https://www.cnblogs.com/jyzhao/p/23649311)
+13. [HybridCache-缓存架构决策框架落地](https://www.cnblogs.com/hugogoos/p/23644971)
+14. [把视频生产做成一条可验证的流水线](https://www.cnblogs.com/znlgis/p/23636603)
+15. [基于 .NET 11 深入理解 AsyncLocal 和 ExecutionContext](https://www.cnblogs.com/eventhorizon/p/23645861)
+16. [【轻量化复刻大模型 / KIMI K3】AttnRes 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23593758)
+17. [AI是良师益友，跟他学Ubuntu server2604搭建docker环境](https://www.cnblogs.com/datacool/p/23645223)
+18. [2026 年 11 月 TIOBE 编程语言排行榜：Dart 首次闯入前 20，Rust 跌出前十](https://www.cnblogs.com/lwqing/p/23644952)
+19. [Day20 · 面向对象（二）继承、多态与高级特性](https://www.cnblogs.com/xiaojiaxuezhang/p/23644680)
+20. [java代码审计sql注入2(jdbc)](https://www.cnblogs.com/nihao-xing/p/23642685)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [.NET 11 发布了，聊聊这版值得关注的变化](https://www.cnblogs.com/shanyou/p/23623908)
-2. [大厂git提交规范](https://www.cnblogs.com/codigger/p/23625673)
-3. [SimdCodecs 2.0 发布：一套 API 解所有图片，从 ImageSharp 迁过来只改几行](https://www.cnblogs.com/sdcb/p/23620985/20261111-simdcodecs-2-0)
-4. [AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程](https://www.cnblogs.com/codigger/p/23636985)
-5. [用 .NET 10 做人脸活体核验：SimdFace 1.1.0](https://www.cnblogs.com/dotnet-org-cn/p/23638066)
-6. [2026 年 Blazor UI 组件库盘点：6 个好用的开源库，怎么选不踩坑](https://www.cnblogs.com/shenchuanchao/p/23617141/blazor-ui-component-libraries-2026-6-open-source-how-to-choose)
+1. [AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程](https://www.cnblogs.com/codigger/p/23636985)
+2. [用 .NET 10 做人脸活体核验：SimdFace 1.1.0](https://www.cnblogs.com/dotnet-org-cn/p/23638066)
+3. [AI Agent 技术全景解析 —— 从提示词工程到高级智能体构建](https://www.cnblogs.com/vivotech/p/23638332)
+4. [2026 年 11 月 TIOBE 编程语言排行榜：Dart 首次闯入前 20，Rust 跌出前十](https://www.cnblogs.com/lwqing/p/23644952)
+5. [把 Windows 任务栏时钟改造成日历 + AI 私人秘书：Tauri 2 + Rust 实现记录](https://www.cnblogs.com/ucfar/p/23633199)
+6. [太牛了，不插线不 root，两行命令就能隔空操控 Android 真机](https://www.cnblogs.com/jinjiangongzuoshi/p/23636224)

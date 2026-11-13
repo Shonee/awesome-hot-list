@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-13 02:42:52
+> 更新时间：2026-11-13 14:22:56
 
 ## 每日趋势
 
@@ -85,12 +85,11 @@
 7. [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 8. [pr-agent](https://github.com/The-PR-Agent/pr-agent)
 9. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-10. [flask](https://github.com/pallets/flask)
-11. [spec-kit](https://github.com/github/spec-kit)
-12. [skills](https://github.com/scenario-labs/skills)
-13. [sherlock](https://github.com/sherlock-project/sherlock)
-14. [pydantic](https://github.com/pydantic/pydantic)
-15. [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+10. [spec-kit](https://github.com/github/spec-kit)
+11. [skills](https://github.com/scenario-labs/skills)
+12. [sherlock](https://github.com/sherlock-project/sherlock)
+13. [pydantic](https://github.com/pydantic/pydantic)
+14. [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 
 ## Go
 

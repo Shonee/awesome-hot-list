@@ -1,13 +1,13 @@
 # 游民星空热榜
 
-> 更新时间：2026-11-13 07:59:27
+> 更新时间：2026-11-13 14:24:25
 
 ## 热点资讯排行
 
 1. [《影之刃零》白赤练又出香汗美图！老外直接喊“妈妈”了](https://www.gamersky.com/news/202611/2242867.shtml)
 2. [《影之刃零》幻鬼脸模COS自己！](https://www.gamersky.com/news/202611/2242849.shtml)
-3. [《影之刃零》M站玩家评分遭差评轰炸！9.3跌至8.6](https://www.gamersky.com/news/202611/2242829.shtml)
-4. [《生化9》获金摇杆年度终极游戏！《影之刃零》惜败](https://www.gamersky.com/news/202611/2244965.shtml)
+3. [《生化9》获金摇杆年度终极游戏！《影之刃零》惜败](https://www.gamersky.com/news/202611/2244965.shtml)
+4. [《影之刃零》M站玩家评分遭差评轰炸！9.3跌至8.6](https://www.gamersky.com/news/202611/2242829.shtml)
 5. [Switch 2巨大更新！能够给家庭组送礼了](https://www.gamersky.com/news/202611/2243518.shtml)
 6. [0-3回家！TheShy微博遭爆破 支持超威夺冠引爆舆论](https://www.gamersky.com/news/202611/2242686.shtml)
 7. [R星解释《GTA6》仅30帧 细节密度|画面表现请放心](https://www.gamersky.com/news/202611/2244204.shtml)
@@ -17,5 +17,5 @@
 11. [1-3不敌BLG 赛后揽责！Faker：今年自己还有很多不足](https://www.gamersky.com/news/202611/2242890.shtml)
 12. [《GTA6》官宣主机版30帧！全新实机宣传片公布](https://www.gamersky.com/news/202611/2244145.shtml)
 13. [《影之刃零》新娘阿花动捕直播游戏：仅16人观看](https://www.gamersky.com/news/202611/2243423.shtml)
-14. [PC玩家天塌了！苏姿丰摊牌：AMD早已是一家数据中心优先的公司](https://www.gamersky.com/hardware/202611/2244139.shtml)
-15. [知名游戏主播：《GTA6》首发可能会让很多人失望！](https://www.gamersky.com/news/202611/2244135.shtml)
+14. [Unity引擎技术演示物理效果](https://www.gamersky.com/news/202611/2245561.shtml)
+15. [百大UP老戴宣布直播《GTA6》！18日生日当天就播](https://www.gamersky.com/news/202611/2244930.shtml)
