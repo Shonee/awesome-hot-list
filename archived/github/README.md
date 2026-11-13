@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-13 22:49:07
+> 更新时间：2026-11-14 05:12:47
 
 ## 每日趋势
 
@@ -23,16 +23,17 @@
 2. [skills](https://github.com/anthropics/skills)
 3. [OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 4. [agent-browser](https://github.com/vercel-labs/agent-browser)
-5. [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-6. [auto-ontology](https://github.com/NVIDIA/auto-ontology)
-7. [mujoco](https://github.com/google-deepmind/mujoco)
-8. [skills](https://github.com/mattpocock/skills)
-9. [agent-skills](https://github.com/addyosmani/agent-skills)
-10. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-11. [zed](https://github.com/zed-industries/zed)
-12. [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
-13. [agent-desktop](https://github.com/vercel-labs/agent-desktop)
-14. [lobehub](https://github.com/lobehub/lobehub)
+5. [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
+6. [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+7. [auto-ontology](https://github.com/NVIDIA/auto-ontology)
+8. [mujoco](https://github.com/google-deepmind/mujoco)
+9. [skills](https://github.com/mattpocock/skills)
+10. [agent-skills](https://github.com/addyosmani/agent-skills)
+11. [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+12. [zed](https://github.com/zed-industries/zed)
+13. [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+14. [agent-desktop](https://github.com/vercel-labs/agent-desktop)
+15. [lobehub](https://github.com/lobehub/lobehub)
 
 ## 每月趋势
 
@@ -79,19 +80,20 @@
 
 1. [sherlock](https://github.com/sherlock-project/sherlock)
 2. [skills](https://github.com/anthropics/skills)
-3. [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-4. [auto-ontology](https://github.com/NVIDIA/auto-ontology)
-5. [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
-6. [skills](https://github.com/google/skills)
-7. [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
-8. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-9. [claude-video](https://github.com/bradautomates/claude-video)
-10. [Scrapling](https://github.com/D4Vinci/Scrapling)
-11. [pr-agent](https://github.com/The-PR-Agent/pr-agent)
-12. [claude-code-templates](https://github.com/davila7/claude-code-templates)
-13. [voicebox](https://github.com/jamiepine/voicebox)
-14. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
-15. [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
+3. [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
+4. [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+5. [auto-ontology](https://github.com/NVIDIA/auto-ontology)
+6. [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+7. [skills](https://github.com/google/skills)
+8. [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
+9. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+10. [claude-video](https://github.com/bradautomates/claude-video)
+11. [Scrapling](https://github.com/D4Vinci/Scrapling)
+12. [pr-agent](https://github.com/The-PR-Agent/pr-agent)
+13. [claude-code-templates](https://github.com/davila7/claude-code-templates)
+14. [voicebox](https://github.com/jamiepine/voicebox)
+15. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+16. [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
 
 ## Go
 
