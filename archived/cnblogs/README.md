@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-14 09:36:39
+> 更新时间：2026-11-14 16:39:32
 
 ## 最新帖子
 
-1. [拉里·埃里森在Oracle AI World 2026讲了什么：AI如何重塑下一代SaaS与医疗](https://www.cnblogs.com/jyzhao/p/23662323)
-2. [kubernetes 水平自动伸缩学习笔记（一）](https://www.cnblogs.com/xingzheanan/p/23660404)
-3. [Vane.Dispatch 服务分发器：从零到实践](https://www.cnblogs.com/netcasewqs/p/23660051)
-4. [记一次失败的shiro721bypass(但是成功打通padding oracle（加密层）)](https://www.cnblogs.com/nihao-xing/p/23645410)
-5. [翻到一个刚建 4 天的 .NET 图像库，代码还没人用过，但我读完了它全部源码](https://www.cnblogs.com/shanyou/p/23659472)
-6. [【轻量化复刻大模型 / KIMI K3】Stable LatentMoE 梳理](https://www.cnblogs.com/rossiXYZ/p/23594193)
-7. [让屏幕动起来：OLED动画效果，丝滑光标、帧动画和一只贪吃蛇](https://www.cnblogs.com/zw-awa/p/23658953)
-8. [GoldenDB 108条日常运维SQL集锦](https://www.cnblogs.com/liuziyi1/p/23658525)
-9. [Day21 · Turtle 入门与基础绘图](https://www.cnblogs.com/xiaojiaxuezhang/p/23658237)
-10. [把 DeepSeek Harness 装进 K8s](https://www.cnblogs.com/east4ming/p/23656565)
-11. [收上来一堆 Excel，怎么保证没改错](https://www.cnblogs.com/wang_yb/p/23653612)
-12. [手把手教你：装了两套 CUDA 还在串？PATH 与优先级的真相｜AI工程师踩坑实录·第6篇](https://www.cnblogs.com/dawudexiaowu/p/23652179)
-13. [在 Linux 上把 PPT 转成长图：office2pdf + PyMuPDF 的选型与踩坑](https://www.cnblogs.com/yuexiliuli/p/23651985)
-14. [从怀疑到真香——AI 重构代码后，我不再追求“最合适”，而是做好这两件事：测试和优化](https://www.cnblogs.com/xyyt/p/23651767)
-15. [负载均衡到底在干嘛？7 个场景给你说明白](https://www.cnblogs.com/codigger/p/23650834)
-16. [你的账，是补出来的还是做出来的](https://www.cnblogs.com/known/p/23650416)
-17. [手搓 AI Agent 05：多工具协作——让 Agent 自己决定先搜再读、还能并行抓网页](https://www.cnblogs.com/MrHuo/p/23649930/agent-from-scratch-05)
-18. [分享一次真实面试里的6道AI测试题，逐题拆解（抓紧围观）](https://www.cnblogs.com/jinjiangongzuoshi/p/23649824)
-19. [Day 18：错误契约与用户可见消息](https://www.cnblogs.com/jeff-tsai/p/23649788/day-18-error-contract)
-20. [开发基于ComfyUI图片生成类应用Step by step （四）前后端分离架构：独立ComfyUI服务于应用技术栈选型](https://www.cnblogs.com/zhenl/p/23649790)
+1. [为什么越来越多人用AgentScope？](https://www.cnblogs.com/12lisu/p/23665239)
+2. [别急着喊 Flash 末路：Gemini 4 Hydrogen 赢了什么、又没赢什么](https://www.cnblogs.com/aimountain/p/23665202)
+3. [MPU6050：从原始加速度到姿态变化](https://www.cnblogs.com/zw-awa/p/23665188)
+4. [一个通用游戏数据服务器](https://www.cnblogs.com/ygluu/p/23664780)
+5. [APP测试相关的adb常用命令](https://www.cnblogs.com/blue-smile/p/23664549)
+6. [2026跟着AI学习ERP之使用 Odoo 贯彻业财一体](https://www.cnblogs.com/datacool/p/23664525)
+7. [MySQL中数据类型的介绍：数值类型、字符串类型、日期时间](https://www.cnblogs.com/ishoulgodo/p/23663089)
+8. [Day 19：定制层的范围与叠加粒度](https://www.cnblogs.com/jeff-tsai/p/23663050/day-19-tenant-overlay)
+9. [three.js/WebGL实现3D消防疏散系统 之 通道封闭与动态改道](https://www.cnblogs.com/yeyunfei/p/23646034/threejs-3d-fire-drill-evacuation-02)
+10. [手把手教你：数据泄漏的隐蔽来源，预处理做在了划分之前｜AI工程师踩坑实录·第7篇](https://www.cnblogs.com/dawudexiaowu/p/23662932)
+11. [拉里·埃里森在Oracle AI World 2026讲了什么：AI如何重塑下一代SaaS与医疗](https://www.cnblogs.com/jyzhao/p/23662323)
+12. [kubernetes 水平自动伸缩学习笔记（一）](https://www.cnblogs.com/xingzheanan/p/23660404)
+13. [Vane.Dispatch 服务分发器：从零到实践](https://www.cnblogs.com/netcasewqs/p/23660051)
+14. [记一次失败的shiro721bypass(但是成功打通padding oracle（加密层）)](https://www.cnblogs.com/nihao-xing/p/23645410)
+15. [翻到一个刚建 4 天的 .NET 图像库，代码还没人用过，但我读完了它全部源码](https://www.cnblogs.com/shanyou/p/23659472)
+16. [【轻量化复刻大模型 / KIMI K3】Stable LatentMoE 梳理](https://www.cnblogs.com/rossiXYZ/p/23594193)
+17. [让屏幕动起来：OLED动画效果，丝滑光标、帧动画和一只贪吃蛇](https://www.cnblogs.com/zw-awa/p/23658953)
+18. [GoldenDB 108条日常运维SQL集锦](https://www.cnblogs.com/liuziyi1/p/23658525)
+19. [Day21 · Turtle 入门与基础绘图](https://www.cnblogs.com/xiaojiaxuezhang/p/23658237)
+20. [把 DeepSeek Harness 装进 K8s](https://www.cnblogs.com/east4ming/p/23656565)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程](https://www.cnblogs.com/codigger/p/23636985)
-2. [用 .NET 10 做人脸活体核验：SimdFace 1.1.0](https://www.cnblogs.com/dotnet-org-cn/p/23638066)
-3. [2026 年 11 月 TIOBE 编程语言排行榜：Dart 首次闯入前 20，Rust 跌出前十](https://www.cnblogs.com/lwqing/p/23644952)
-4. [基于 .NET 11 深入理解 AsyncLocal 和 ExecutionContext](https://www.cnblogs.com/eventhorizon/p/23645861)
-5. [AI Agent 技术全景解析 —— 从提示词工程到高级智能体构建](https://www.cnblogs.com/vivotech/p/23638332)
-6. [太牛了，不插线不 root，两行命令就能隔空操控 Android 真机](https://www.cnblogs.com/jinjiangongzuoshi/p/23636224)
+1. [2026 年 11 月 TIOBE 编程语言排行榜：Dart 首次闯入前 20，Rust 跌出前十](https://www.cnblogs.com/lwqing/p/23644952)
+2. [基于 .NET 11 深入理解 AsyncLocal 和 ExecutionContext](https://www.cnblogs.com/eventhorizon/p/23645861)
+3. [从怀疑到真香——AI 重构代码后，我不再追求“最合适”，而是做好这两件事：测试和优化](https://www.cnblogs.com/xyyt/p/23651767)
+4. [一个 Agent 的四件套：画界面、找帮手、查数据、守规矩](https://www.cnblogs.com/haoxiaozhang/p/23643964)
+5. [开源实战：基于 Spring Boot 3 + Vue 3 + Redis 的高校选修课管理系统（志愿填报 + 统一抽签）](https://www.cnblogs.com/huangrenhui/p/23640787)
+6. [AI是良师益友，跟他学Ubuntu server2604搭建docker环境](https://www.cnblogs.com/datacool/p/23645223)

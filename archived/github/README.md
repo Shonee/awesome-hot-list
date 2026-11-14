@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-14 05:12:47
+> 更新时间：2026-11-14 16:39:27
 
 ## 每日趋势
 
@@ -51,7 +51,8 @@
 12. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 13. [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 14. [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-15. [agent-browser](https://github.com/vercel-labs/agent-browser)
+15. [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
+16. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 ## Java
 
