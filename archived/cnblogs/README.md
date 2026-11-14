@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-14 05:12:52
+> 更新时间：2026-11-14 09:36:39
 
 ## 最新帖子
 
-1. [kubernetes 水平自动伸缩学习笔记（一）](https://www.cnblogs.com/xingzheanan/p/23660404)
-2. [Vane.Dispatch 服务分发器：从零到实践](https://www.cnblogs.com/netcasewqs/p/23660051)
-3. [桌面日历+AI 小秘书:月历·日程·待办·黄历·天气·番茄钟.便签等,单文件绿色免安装](https://www.cnblogs.com/ucfar/p/23659846)
-4. [澄桌面（DesktopAssistant）-你的桌面伴侣，笔记工具](https://www.cnblogs.com/delphiboy/p/23659837)
-5. [记一次失败的shiro721bypass(但是成功打通padding oracle（加密层）)](https://www.cnblogs.com/nihao-xing/p/23645410)
-6. [翻到一个刚建 4 天的 .NET 图像库，代码还没人用过，但我读完了它全部源码](https://www.cnblogs.com/shanyou/p/23659472)
-7. [【轻量化复刻大模型 / KIMI K3】Stable LatentMoE 梳理](https://www.cnblogs.com/rossiXYZ/p/23594193)
-8. [让屏幕动起来：OLED动画效果，丝滑光标、帧动画和一只贪吃蛇](https://www.cnblogs.com/zw-awa/p/23658953)
-9. [GoldenDB 108条日常运维SQL集锦](https://www.cnblogs.com/liuziyi1/p/23658525)
-10. [Day21 · Turtle 入门与基础绘图](https://www.cnblogs.com/xiaojiaxuezhang/p/23658237)
-11. [把 DeepSeek Harness 装进 K8s](https://www.cnblogs.com/east4ming/p/23656565)
-12. [收上来一堆 Excel，怎么保证没改错](https://www.cnblogs.com/wang_yb/p/23653612)
-13. [手把手教你：装了两套 CUDA 还在串？PATH 与优先级的真相｜AI工程师踩坑实录·第6篇](https://www.cnblogs.com/dawudexiaowu/p/23652179)
-14. [在 Linux 上把 PPT 转成长图：office2pdf + PyMuPDF 的选型与踩坑](https://www.cnblogs.com/yuexiliuli/p/23651985)
-15. [从怀疑到真香——AI 重构代码后，我不再追求“最合适”，而是做好这两件事：测试和优化](https://www.cnblogs.com/xyyt/p/23651767)
-16. [负载均衡到底在干嘛？7 个场景给你说明白](https://www.cnblogs.com/codigger/p/23650834)
-17. [你的账，是补出来的还是做出来的](https://www.cnblogs.com/known/p/23650416)
-18. [手搓 AI Agent 05：多工具协作——让 Agent 自己决定先搜再读、还能并行抓网页](https://www.cnblogs.com/MrHuo/p/23649930/agent-from-scratch-05)
-19. [分享一次真实面试里的6道AI测试题，逐题拆解（抓紧围观）](https://www.cnblogs.com/jinjiangongzuoshi/p/23649824)
-20. [Day 18：错误契约与用户可见消息](https://www.cnblogs.com/jeff-tsai/p/23649788/day-18-error-contract)
+1. [拉里·埃里森在Oracle AI World 2026讲了什么：AI如何重塑下一代SaaS与医疗](https://www.cnblogs.com/jyzhao/p/23662323)
+2. [kubernetes 水平自动伸缩学习笔记（一）](https://www.cnblogs.com/xingzheanan/p/23660404)
+3. [Vane.Dispatch 服务分发器：从零到实践](https://www.cnblogs.com/netcasewqs/p/23660051)
+4. [记一次失败的shiro721bypass(但是成功打通padding oracle（加密层）)](https://www.cnblogs.com/nihao-xing/p/23645410)
+5. [翻到一个刚建 4 天的 .NET 图像库，代码还没人用过，但我读完了它全部源码](https://www.cnblogs.com/shanyou/p/23659472)
+6. [【轻量化复刻大模型 / KIMI K3】Stable LatentMoE 梳理](https://www.cnblogs.com/rossiXYZ/p/23594193)
+7. [让屏幕动起来：OLED动画效果，丝滑光标、帧动画和一只贪吃蛇](https://www.cnblogs.com/zw-awa/p/23658953)
+8. [GoldenDB 108条日常运维SQL集锦](https://www.cnblogs.com/liuziyi1/p/23658525)
+9. [Day21 · Turtle 入门与基础绘图](https://www.cnblogs.com/xiaojiaxuezhang/p/23658237)
+10. [把 DeepSeek Harness 装进 K8s](https://www.cnblogs.com/east4ming/p/23656565)
+11. [收上来一堆 Excel，怎么保证没改错](https://www.cnblogs.com/wang_yb/p/23653612)
+12. [手把手教你：装了两套 CUDA 还在串？PATH 与优先级的真相｜AI工程师踩坑实录·第6篇](https://www.cnblogs.com/dawudexiaowu/p/23652179)
+13. [在 Linux 上把 PPT 转成长图：office2pdf + PyMuPDF 的选型与踩坑](https://www.cnblogs.com/yuexiliuli/p/23651985)
+14. [从怀疑到真香——AI 重构代码后，我不再追求“最合适”，而是做好这两件事：测试和优化](https://www.cnblogs.com/xyyt/p/23651767)
+15. [负载均衡到底在干嘛？7 个场景给你说明白](https://www.cnblogs.com/codigger/p/23650834)
+16. [你的账，是补出来的还是做出来的](https://www.cnblogs.com/known/p/23650416)
+17. [手搓 AI Agent 05：多工具协作——让 Agent 自己决定先搜再读、还能并行抓网页](https://www.cnblogs.com/MrHuo/p/23649930/agent-from-scratch-05)
+18. [分享一次真实面试里的6道AI测试题，逐题拆解（抓紧围观）](https://www.cnblogs.com/jinjiangongzuoshi/p/23649824)
+19. [Day 18：错误契约与用户可见消息](https://www.cnblogs.com/jeff-tsai/p/23649788/day-18-error-contract)
+20. [开发基于ComfyUI图片生成类应用Step by step （四）前后端分离架构：独立ComfyUI服务于应用技术栈选型](https://www.cnblogs.com/zhenl/p/23649790)
 
 ## 精华帖子
 

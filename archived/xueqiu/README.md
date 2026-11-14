@@ -1,6 +1,6 @@
 # 雪球热榜
 
-> 更新时间：2026-11-14 05:13:17
+> 更新时间：2026-11-14 09:37:07
 
 ## 热门话题
 
@@ -11,6 +11,6 @@
 5. [人形机器人概念反弹，埃夫特大涨](https://xueqiu.com/hot_event/532385)
 6. [食品饮料板块下挫，青岛食品跌停](https://xueqiu.com/hot_event/532375)
 7. [算力芯片概念走强，云天励飞领涨](https://xueqiu.com/hot_event/532376)
-8. [中芯国际三季度净利润大增87.6%](https://xueqiu.com/hot_event/532239)
-9. [军工板块拉升，长城军工逼近涨停](https://xueqiu.com/hot_event/532102)
-10. [近端次新股局部异动，沈鼓集团涨停](https://xueqiu.com/hot_event/532095)
+8. [英伟达官宣黄仁勋正式离职](https://xueqiu.com/hot_event/532300)
+9. [中芯国际三季度净利润大增87.6%](https://xueqiu.com/hot_event/532239)
+10. [军工板块拉升，长城军工逼近涨停](https://xueqiu.com/hot_event/532102)
