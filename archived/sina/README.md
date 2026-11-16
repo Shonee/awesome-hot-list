@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-11-16 04:10:48
+> 更新时间：2026-11-16 08:11:27
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [金融机构外汇存款准备金率今起提高至6%](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyupue9787845.shtml)
-2. [炸了！黄仁勋刚被赶下台，英伟达东南亚被一锅端](https://finance.sina.com.cn/roll/2026-11-15/doc-iniyvesc3168758.shtml)
-3. [BLG夺冠，B站宣布：免费送所有人大会员](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyupue9824441.shtml)
-4. [美“星舰”飞船首次被发射塔机械臂“捕获”回收](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyucer3563747.shtml)
-5. [关键芯片材料，大缺货，持续到2030！](https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-15/doc-iniyuinm2235629.shtml)
-6. [黄仁勋的坠落源于那次内部演讲](https://finance.sina.com.cn/roll/2026-11-15/doc-iniyuykf3223545.shtml)
-7. [“我们不招斤斤计较的员工”，女子称因拒绝给HR带咖啡被取消面试，目前该岗位已被举报关闭，平台：已将此问题记录上报](https://finance.sina.com.cn/cj/2026-11-15/doc-iniyuinp3473689.shtml)
-8. [一串四！BLG 3比1战胜GEN，夺得2026英雄联盟全球总决赛冠军](https://finance.sina.com.cn/roll/2026-11-15/doc-iniyuinp3476391.shtml)
-9. [西方巨头没搞定的事，中国在渤海自己干成了，这才是真突破](https://finance.sina.com.cn/roll/2026-11-15/doc-iniytsqs6957997.shtml)
-10. [游戏业“超级印钞机”，下周上新](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyuink6656328.shtml)
-11. [马斯克力挺 超10万人请愿黄仁勋回归](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuink6675800.shtml)
-12. [“最快女护士”张水华今天又夺冠，1个月连跑5场获4冠1亚](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyuykf3232648.shtml)
-13. [网红债基又暴跌！基民撑不住了，踩踏式卖出：扛着手续费跑了](https://finance.sina.com.cn/stock/2026-11-15/doc-iniyuinh9882062.shtml)
-14. [美媒：黄仁勋不会再回来！举报黄仁勋黄乐的是当年在百度干过的无睾人Anthropic达里奥的联合创始人兄弟！](https://finance.sina.com.cn/roll/2026-11-15/doc-iniyvesc3169630.shtml)
-15. [局地大雪、暴雪 两股冷空气接连来袭降温可超12℃](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyupue9775207.shtml)
-16. [伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyvkxw6322713.shtml)
-17. [美情报机构称伊朗武器库拥有1500至2500枚导弹 与特朗普所言相悖](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyupum3400016.shtml)
-18. [英伟达CEO继承难题](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvery6380208.shtml)
-19. [突遭抛售！黄金，重挫！金饰价格，连续四天下调，发生了什么？](https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyvesc3144101.shtml)
-20. [今晚，多家公司发布利空公告！](https://finance.sina.com.cn/stock/marketresearch/2026-11-15/doc-iniyvrfu6223844.shtml)
+1. [巴基斯坦、埃及、沙特、土耳其、约旦、卡塔尔、阿联酋、印尼、苏丹、利比亚、黎巴嫩等17国强烈谴责](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyuyiy9650286.shtml)
+2. [黄仁勋离职引发双层股权讨论：一股一票与创始人控制权之争](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyupum3407264.shtml)
+3. [突发！603880，实控人遭刑拘，涉嫌内幕交易罪](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyvkxu9522720.shtml)
+4. [刚刚，A股公司实控人被刑拘！](https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvesc3173401.shtml)
+5. [SpaceX星舰返回德克萨斯州发射场 发射塔机械臂成功捕获](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyucep2333298.shtml)
+6. [踏空、重仓暴跌，基金经理该不该道歉？巴菲特给出答案！](https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyuinp3460159.shtml)
+7. [女子开着奔驰车，说油不足想借钱加油，找路人借了300元！留下电话后手机直接关机，当事路人：已报警](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyupue9830263.shtml)
+8. [系统故障酿全美航班停飞 交通部长达菲将矛头指向承包商L3Harris](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwq6847969.shtml)
+9. [比特币跌至三个月低点 现货比特币ETF资金大幅流出](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuinp3474182.shtml)
+10. [重要发布会，就在明天](https://finance.sina.com.cn/roll/2026-11-15/doc-iniyuykc2019676.shtml)
+11. [明天正式实施！券商万亿业务，新规落地！](https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyvkxz3099714.shtml)
+12. [特斯拉开始邀请部分个人用户订购无人驾驶汽车Cybercab](https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytsqr0181590.shtml)
+13. [伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyucen6757144.shtml)
+14. [尤尼斯遭暗杀身亡](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyuuai3296622.shtml)
+15. [最新部署！多家券商密集开会！四季度这样干](https://finance.sina.com.cn/roll/2026-11-15/doc-iniyuinp3462181.shtml)
+16. [BLG夺得S16全球总决赛冠军，时隔五年中国战队再登世界之巅](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyupui2140014.shtml)
+17. [飞天茅台、精品茅台零售均价领涨 五粮液普五八代、古井贡古20大幅攀升 白酒大单品总价创6天以来新高](https://finance.sina.com.cn/chanjing/jync/2026-11-15/doc-iniyupue9781556.shtml)
+18. [黄仁勋讨论重掌英伟达 硅谷盟友游说支持回归](https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywhcp1499931.shtml)
+19. [摩根士丹利财富管理Shalett：AI资本支出驱动的牛市逻辑依然稳固](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwt3669681.shtml)
+20. [刚刚，全线大跳水！31.87万人爆仓！资金大规模出逃，比特币发生了啥？](https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyupue9816295.shtml)

@@ -1,6 +1,6 @@
 # 吾爱破解热榜
 
-> 更新时间：2026-11-16 04:10:30
+> 更新时间：2026-11-16 08:11:15
 
 ## 人气热门
 
@@ -57,29 +57,29 @@
 
 ## 精华采撷
 
-1. [web逆向基础知识--- js 事件 事件循环 和异步](https://www.52pojie.cn/thread-2111598-1-1.html)
-2. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
-3. [【系列文章】阿里 sgmian 番外篇:阿里花指令与数据类型规范](https://www.52pojie.cn/thread-2135889-1-1.html)
-4. [iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈](https://www.52pojie.cn/thread-2114213-1-1.html)
-5. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
-6. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
-7. [0知识储备, 从引擎源码入手, 逆向某UE4引擎游戏, 解密ini与pak](https://www.52pojie.cn/thread-2131187-1-1.html)
-8. [逆向PyInstaller打包的产物完整分析过程](https://www.52pojie.cn/thread-2123942-1-1.html)
-9. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
-10. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
-11. [披着系统助手的外衣——SystemHelper服务分析](https://www.52pojie.cn/thread-2137275-1-1.html)
-12. [拆开 Microsoft Edge 的 App-Bound Encryption：从「读不出」到借浏览器身份解密 v20](https://www.52pojie.cn/thread-2131346-1-1.html)
-13. [iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解](https://www.52pojie.cn/thread-2115245-1-1.html)
-14. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
-15. [【AI辅助】iOS p12证书签名软件的逆向分析 + 证书获取](https://www.52pojie.cn/thread-2100769-1-1.html)
-16. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
-17. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
-18. [Web逆向 JS逆向 基础知识 ： V8入门 JS详解 AST知识  字节码。。。。。。](https://www.52pojie.cn/thread-2092084-1-1.html)
-19. [一次银狐样本分析](https://www.52pojie.cn/thread-2106211-1-1.html)
-20. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
-21. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
-22. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
-23. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
+1. [学习 VMP 虚拟机吧（四）：VMP2 还是那台机器](https://www.52pojie.cn/thread-2132351-1-1.html)
+2. [披着系统助手的外衣——SystemHelper服务分析](https://www.52pojie.cn/thread-2137275-1-1.html)
+3. [web逆向基础知识--- js 事件 事件循环 和异步](https://www.52pojie.cn/thread-2111598-1-1.html)
+4. [一款WIFI密码搜索软件的授权算法分析](https://www.52pojie.cn/thread-2097675-1-1.html)
+5. [【系列文章】阿里 sgmian 番外篇:阿里花指令与数据类型规范](https://www.52pojie.cn/thread-2135889-1-1.html)
+6. [iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈](https://www.52pojie.cn/thread-2114213-1-1.html)
+7. [【吾爱首发】游戏《Sora No Kiseki the 2nd》打包解包工具FPACTool V2.1源代码](https://www.52pojie.cn/thread-2130872-1-1.html)
+8. [基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例](https://www.52pojie.cn/thread-2132797-1-1.html)
+9. [0知识储备, 从引擎源码入手, 逆向某UE4引擎游戏, 解密ini与pak](https://www.52pojie.cn/thread-2131187-1-1.html)
+10. [逆向PyInstaller打包的产物完整分析过程](https://www.52pojie.cn/thread-2123942-1-1.html)
+11. [破解 Trae CN 加密协议](https://www.52pojie.cn/thread-2113927-1-1.html)
+12. [酷我破解js脚本分析](https://www.52pojie.cn/thread-2088285-1-1.html)
+13. [拆开 Microsoft Edge 的 App-Bound Encryption：从「读不出」到借浏览器身份解密 v20](https://www.52pojie.cn/thread-2131346-1-1.html)
+14. [iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解](https://www.52pojie.cn/thread-2115245-1-1.html)
+15. [ks app rpc调用加密算法实现搜索](https://www.52pojie.cn/thread-2131016-1-1.html)
+16. [【AI辅助】iOS p12证书签名软件的逆向分析 + 证书获取](https://www.52pojie.cn/thread-2100769-1-1.html)
+17. [Kindle 第八代救砖实录](https://www.52pojie.cn/thread-2122485-1-1.html)
+18. [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...](https://www.52pojie.cn/thread-2100927-1-1.html)
+19. [Web逆向 JS逆向 基础知识 ： V8入门 JS详解 AST知识  字节码。。。。。。](https://www.52pojie.cn/thread-2092084-1-1.html)
+20. [一次银狐样本分析](https://www.52pojie.cn/thread-2106211-1-1.html)
+21. [某q音乐jsvmp浅析](https://www.52pojie.cn/thread-2123850-1-1.html)
+22. [r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析](https://www.52pojie.cn/thread-2122552-1-1.html)
+23. [某骗子黑产软件（手机远控）的分析](https://www.52pojie.cn/thread-2117851-1-1.html)
 24. [手把手教你给某讯滑块的JSVMP写反编译器 (如宝宝辅食一样易懂)](https://www.52pojie.cn/thread-2089027-1-1.html)
 25. [某象滑块纯算逆向分析](https://www.52pojie.cn/thread-2125447-1-1.html)
 26. [【多栈实战】某黑产软件全链路逆向实录 (下)](https://www.52pojie.cn/thread-2113640-1-1.html)

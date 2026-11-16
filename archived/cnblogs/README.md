@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-16 04:10:25
+> 更新时间：2026-11-16 08:11:12
 
 ## 最新帖子
 
-1. [源码级拆解：从 C2 到 DNA，一款开源轻量级 WAF 的底层架构与避坑实战](https://www.cnblogs.com/anye1991/p/23675877)
-2. [物理AI、端侧AI、边缘AI 到底有什么区别？](https://www.cnblogs.com/byjs/p/23674267)
-3. [任务栏时钟"点开"那件事：Tauri 2 + Rust 多窗口架构复盘](https://www.cnblogs.com/ucfar/p/23674180)
-4. [X3 LUA 异步分布式微服务集群框架](https://www.cnblogs.com/ygluu/p/23674173)
-5. [图片识别文字（批量图片文字查找分类）](https://www.cnblogs.com/wang_xy/p/23674114)
-6. [如何使用three.js/WebGL实现3D消防演练系统 之 事件联动与时间线复盘](https://www.cnblogs.com/yeyunfei/p/23646036/threejs-3d-fire-drill-review-03)
-7. [IEC 104 协议笔记：从报文结构到基于 lib60870.NET 客户端/服务端实现](https://www.cnblogs.com/ayic/p/23591891)
-8. [你还在把数据库连接串直接丢给AI吗？面向AI的安全合规可审计的数据库网关（BaseWard）开源了](https://www.cnblogs.com/zskbll/p/23673467)
-9. [别再复制日志给AI了！我让Codex自己去观测云查报错](https://www.cnblogs.com/guoxiaoyu/p/23673383)
-10. [什么是IMU：两颗传感器、一件别人替代不了的事，MPU6050、IMU660RA、JY901S等模块有何区别](https://www.cnblogs.com/zw-awa/p/23673100)
-11. [时间序列数据，先拆规律还是先查异常](https://www.cnblogs.com/wang_yb/p/23673030)
-12. [gRPC 的本质，是 HTTP/2 上的一份「调用语义公约」](https://www.cnblogs.com/hnzhengfy/p/23620639/gRPC)
-13. [我让 AI 审了我自己写的插件，它挑出 58 个问题](https://www.cnblogs.com/Y9931666/p/23672547)
-14. [88:AAIF开源项目Agent Router研究实践-模型流量谁来管？](https://www.cnblogs.com/snidget/p/23672243)
-15. [好久没有回到这里了，又到年底了](https://www.cnblogs.com/Worigin/p/23672181)
-16. [【轻量化复刻大模型 / KIMI K3】MoonEP 源码深度解读](https://www.cnblogs.com/rossiXYZ/p/23594288)
-17. [手搓 AI Agent 06：记忆的两种形态——短期压缩防溢出，长期存储跨会话](https://www.cnblogs.com/MrHuo/p/23671261/agent-from-scratch-06)
-18. [从Markdown到Typst：大一新生vibe coding转译器实录](https://www.cnblogs.com/Robert-Terrisa/p/23671243)
-19. [Avalonia-Headless-UI测试实战](https://www.cnblogs.com/sevencatwang/p/23671035)
-20. [卸载cc-switch，强烈推荐Magpie](https://www.cnblogs.com/12lisu/p/23671038)
+1. [斜率优化](https://www.cnblogs.com/hemingxi/p/23676701)
+2. [JavaScript IndexedDB 实战：实现离线草稿保存、自动恢复与数据持久化](https://www.cnblogs.com/yxtiktok/p/23676655)
+3. [这个项目ManagedCode.MCPGateway，解决了 MCP 网关最被忽视的问题](https://www.cnblogs.com/shanyou/p/23676652)
+4. [Redis 核心机制 | 键生命周期与 TTL 管理](https://www.cnblogs.com/hugogoos/p/23673995)
+5. [源码级拆解：从 C2 到 DNA，一款开源轻量级 WAF 的底层架构与避坑实战](https://www.cnblogs.com/anye1991/p/23675877)
+6. [物理AI、端侧AI、边缘AI 到底有什么区别？](https://www.cnblogs.com/byjs/p/23674267)
+7. [任务栏时钟"点开"那件事：Tauri 2 + Rust 多窗口架构复盘](https://www.cnblogs.com/ucfar/p/23674180)
+8. [X3 LUA 异步分布式微服务集群框架](https://www.cnblogs.com/ygluu/p/23674173)
+9. [图片识别文字（批量图片文字查找分类）](https://www.cnblogs.com/wang_xy/p/23674114)
+10. [如何使用three.js/WebGL实现3D消防演练系统 之 事件联动与时间线复盘](https://www.cnblogs.com/yeyunfei/p/23646036/threejs-3d-fire-drill-review-03)
+11. [IEC 104 协议笔记：从报文结构到基于 lib60870.NET 客户端/服务端实现](https://www.cnblogs.com/ayic/p/23591891)
+12. [你还在把数据库连接串直接丢给AI吗？面向AI的安全合规可审计的数据库网关（BaseWard）开源了](https://www.cnblogs.com/zskbll/p/23673467)
+13. [别再复制日志给AI了！我让Codex自己去观测云查报错](https://www.cnblogs.com/guoxiaoyu/p/23673383)
+14. [什么是IMU：两颗传感器、一件别人替代不了的事，MPU6050、IMU660RA、JY901S等模块有何区别](https://www.cnblogs.com/zw-awa/p/23673100)
+15. [时间序列数据，先拆规律还是先查异常](https://www.cnblogs.com/wang_yb/p/23673030)
+16. [gRPC 的本质，是 HTTP/2 上的一份「调用语义公约」](https://www.cnblogs.com/hnzhengfy/p/23620639/gRPC)
+17. [我让 AI 审了我自己写的插件，它挑出 58 个问题](https://www.cnblogs.com/Y9931666/p/23672547)
+18. [88:AAIF开源项目Agent Router研究实践-模型流量谁来管？](https://www.cnblogs.com/snidget/p/23672243)
+19. [好久没有回到这里了，又到年底了](https://www.cnblogs.com/Worigin/p/23672181)
+20. [【轻量化复刻大模型 / KIMI K3】MoonEP 源码深度解读](https://www.cnblogs.com/rossiXYZ/p/23594288)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [开源MIT！打造可插拔中国式 OA 工作流引擎 SailFlow](https://www.cnblogs.com/sleveen/p/23667180)
 2. [13 家 LLM 提供商，一台本地服务器全仿真：.NET 测试的新解法](https://www.cnblogs.com/shanyou/p/23666799)
-3. [拉里·埃里森在Oracle AI World 2026讲了什么：AI如何重塑下一代SaaS与医疗](https://www.cnblogs.com/jyzhao/p/23662323)
-4. [卸载cc-switch，强烈推荐Magpie](https://www.cnblogs.com/12lisu/p/23671038)
-5. [为什么越来越多人用AgentScope？](https://www.cnblogs.com/12lisu/p/23665239)
-6. [three.js/WebGL实现3D消防疏散系统 之 通道封闭与动态改道](https://www.cnblogs.com/yeyunfei/p/23646034/threejs-3d-fire-drill-evacuation-02)
+3. [卸载cc-switch，强烈推荐Magpie](https://www.cnblogs.com/12lisu/p/23671038)
+4. [为什么越来越多人用AgentScope？](https://www.cnblogs.com/12lisu/p/23665239)
+5. [three.js/WebGL实现3D消防疏散系统 之 通道封闭与动态改道](https://www.cnblogs.com/yeyunfei/p/23646034/threejs-3d-fire-drill-evacuation-02)
+6. [一个通用游戏数据服务器](https://www.cnblogs.com/ygluu/p/23664780)

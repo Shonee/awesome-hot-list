@@ -1,15 +1,15 @@
 # 百度贴吧热榜
 
-> 更新时间：2026-11-16 04:11:05
+> 更新时间：2026-11-16 08:11:41
 
 ## 最有料热点
 
-1. [BLG战胜GEN夺得全球总决赛冠军](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369832&topic_name=BLG%E6%88%98%E8%83%9CGEN%E5%A4%BA%E5%BE%97%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B)
-2. [《麦穗与羊》凄美爱情故事原文](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369840&topic_name=%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E5%87%84%E7%BE%8E%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B%E5%8E%9F%E6%96%87)
-3. [孙吧集体追忆逝去的爱](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369846&topic_name=%E5%AD%99%E5%90%A7%E9%9B%86%E4%BD%93%E8%BF%BD%E5%BF%86%E9%80%9D%E5%8E%BB%E7%9A%84%E7%88%B1)
+1. [《麦穗与羊》凄美爱情故事原文](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369840&topic_name=%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E5%87%84%E7%BE%8E%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B%E5%8E%9F%E6%96%87)
+2. [孙吧集体追忆逝去的爱](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369846&topic_name=%E5%AD%99%E5%90%A7%E9%9B%86%E4%BD%93%E8%BF%BD%E5%BF%86%E9%80%9D%E5%8E%BB%E7%9A%84%E7%88%B1)
+3. [BLG战胜GEN夺得全球总决赛冠军](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369832&topic_name=BLG%E6%88%98%E8%83%9CGEN%E5%A4%BA%E5%BE%97%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B)
 4. [麦穗与羊原帖作者回应真实性](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369838&topic_name=%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E5%8E%9F%E5%B8%96%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E7%9C%9F%E5%AE%9E%E6%80%A7)
-5. [网传DK收购告吹选手全变自由人](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369852&topic_name=%E7%BD%91%E4%BC%A0DK%E6%94%B6%E8%B4%AD%E5%91%8A%E5%90%B9%E9%80%89%E6%89%8B%E5%85%A8%E5%8F%98%E8%87%AA%E7%94%B1%E4%BA%BA)
-6. [吧友养大肥鱼被绘圈对象断崖分手](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369850&topic_name=%E5%90%A7%E5%8F%8B%E5%85%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A2%AB%E7%BB%98%E5%9C%88%E5%AF%B9%E8%B1%A1%E6%96%AD%E5%B4%96%E5%88%86%E6%89%8B)
+5. [吧友养大肥鱼被绘圈对象断崖分手](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369850&topic_name=%E5%90%A7%E5%8F%8B%E5%85%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A2%AB%E7%BB%98%E5%9C%88%E5%AF%B9%E8%B1%A1%E6%96%AD%E5%B4%96%E5%88%86%E6%89%8B)
+6. [网传DK收购告吹选手全变自由人](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369852&topic_name=%E7%BD%91%E4%BC%A0DK%E6%94%B6%E8%B4%AD%E5%91%8A%E5%90%B9%E9%80%89%E6%89%8B%E5%85%A8%E5%8F%98%E8%87%AA%E7%94%B1%E4%BA%BA)
 7. [抗吧老哥结婚遇BLG夺冠赢麻了](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369839&topic_name=%E6%8A%97%E5%90%A7%E8%80%81%E5%93%A5%E7%BB%93%E5%A9%9A%E9%81%87BLG%E5%A4%BA%E5%86%A0%E8%B5%A2%E9%BA%BB%E4%BA%86)
 8. [BLG夺冠吧友预测冠军皮肤](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369835&topic_name=BLG%E5%A4%BA%E5%86%A0%E5%90%A7%E5%8F%8B%E9%A2%84%E6%B5%8B%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4)
 9. [抗吧抽奖出现人传人现象](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369616&topic_name=%E6%8A%97%E5%90%A7%E6%8A%BD%E5%A5%96%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E4%BA%BA%E7%8E%B0%E8%B1%A1)

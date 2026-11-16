@@ -1,6 +1,6 @@
 # 知乎热榜
 
-> 更新时间：2026-11-16 04:10:04
+> 更新时间：2026-11-16 08:10:45
 
 ## 知乎热榜
 
@@ -73,9 +73,8 @@
 14. [网传腾讯裁员20%](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E8%85%BE%E8%AE%AF%E8%A3%81%E5%91%9820%25)
 15. [女子西西弗买200元书坐咖啡区被拒](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%A5%BF%E8%A5%BF%E5%BC%97%E4%B9%B0200%E5%85%83%E4%B9%A6%E5%9D%90%E5%92%96%E5%95%A1%E5%8C%BA%E8%A2%AB%E6%8B%92)
 16. [女子西西弗买书后坐咖啡区被拒](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%A5%BF%E8%A5%BF%E5%BC%97%E4%B9%B0%E4%B9%A6%E5%90%8E%E5%9D%90%E5%92%96%E5%95%A1%E5%8C%BA%E8%A2%AB%E6%8B%92)
-17. [班主任在家长会上递辞呈边说边哽咽](https://www.zhihu.com/search?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9C%A8%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E9%80%92%E8%BE%9E%E5%91%88%E8%BE%B9%E8%AF%B4%E8%BE%B9%E5%93%BD%E5%92%BD)
-18. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%85%A8%E6%96%B0%E4%B8%8A%E7%BA%BF)
-19. [甲醛白菜等案被挂牌督办](https://www.zhihu.com/search?q=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E7%AD%89%E6%A1%88%E8%A2%AB%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E)
-20. [女子称生完孩子被丈夫拒之门外](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%94%9F%E5%AE%8C%E5%AD%A9%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%8B%92%E4%B9%8B%E9%97%A8%E5%A4%96)
-21. [在奥莱，运动品牌拒绝「掉价」](https://www.zhihu.com/search?q=%E5%9C%A8%E5%A5%A5%E8%8E%B1%EF%BC%8C%E8%BF%90%E5%8A%A8%E5%93%81%E7%89%8C%E6%8B%92%E7%BB%9D%E3%80%8C%E6%8E%89%E4%BB%B7%E3%80%8D)
-22. [贝西说斯玛特整场打脏球](https://www.zhihu.com/search?q=%E8%B4%9D%E8%A5%BF%E8%AF%B4%E6%96%AF%E7%8E%9B%E7%89%B9%E6%95%B4%E5%9C%BA%E6%89%93%E8%84%8F%E7%90%83)
+17. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%85%A8%E6%96%B0%E4%B8%8A%E7%BA%BF)
+18. [甲醛白菜等案被挂牌督办](https://www.zhihu.com/search?q=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E7%AD%89%E6%A1%88%E8%A2%AB%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E)
+19. [女子称生完孩子被丈夫拒之门外](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%94%9F%E5%AE%8C%E5%AD%A9%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%8B%92%E4%B9%8B%E9%97%A8%E5%A4%96)
+20. [在奥莱，运动品牌拒绝「掉价」](https://www.zhihu.com/search?q=%E5%9C%A8%E5%A5%A5%E8%8E%B1%EF%BC%8C%E8%BF%90%E5%8A%A8%E5%93%81%E7%89%8C%E6%8B%92%E7%BB%9D%E3%80%8C%E6%8E%89%E4%BB%B7%E3%80%8D)
+21. [贝西说斯玛特整场打脏球](https://www.zhihu.com/search?q=%E8%B4%9D%E8%A5%BF%E8%AF%B4%E6%96%AF%E7%8E%9B%E7%89%B9%E6%95%B4%E5%9C%BA%E6%89%93%E8%84%8F%E7%90%83)
