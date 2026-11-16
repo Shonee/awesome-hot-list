@@ -1,11 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-11-16 15:05:42
+> 更新时间：2026-11-17 01:18:16
 
 ## 首页头条
 
-1. [黄仁勋辞任100小时后传出回归消息：“16万人”请愿复职，财报大考将至](https://www.yicai.com/news/103441596.html)
-2. [股债波动影响投资，居民“存款搬家”放缓](https://www.yicai.com/news/103441049.html)
-3. [汽车改装要有政策规范了](https://www.yicai.com/news/103441000.html)
-4. [独家调查｜轻松回本的AI漫剧千里挑一，这个行业正处于出清的前夜](https://www.yicai.com/news/103440969.html)
-5. [SpaceX挑战星舰“双回收”完成一半：二级飞船首次被“筷子”接住](https://www.yicai.com/news/103440907.html)
+1. [中俄美元首将首次面对面会晤，APEC“中国年”成果丰厚](https://www.yicai.com/news/103442566.html)
+2. [详解10月经济数据：服务消费、投资结构亮点多](https://www.yicai.com/news/103442422.html)
+3. [黄仁勋的回归博弈](https://www.yicai.com/news/103442586.html)
+4. [人类首次珠峰北壁滑降背后：一场跨越生死的云端奔赴](https://www.yicai.com/news/103442203.html)
+5. [多地中小学延迟到校时间](https://www.yicai.com/news/103442331.html)

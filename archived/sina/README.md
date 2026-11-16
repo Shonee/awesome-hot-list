@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-11-16 15:04:57
+> 更新时间：2026-11-17 01:17:31
 
 ## 新闻热榜
 
@@ -29,21 +29,21 @@
 
 1. [日本参议员硬刚防卫相：你敢说这句话吗？](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywnmh9073564.shtml)
 2. [国家发改委，释放四大重磅信号](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywnmk5853281.shtml)
-3. [北大399元羽绒服被抢空](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywste8968410.shtml)
-4. [“中国砒霜治疗成国际方案”，冲上热搜！](https://finance.sina.com.cn/wm/2026-11-16/doc-iniywhcn5938637.shtml)
-5. [习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywsti1330873.shtml)
-6. [韩媒热议：在中国“连续6个月保持第一”](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywnmm1400240.shtml)
-7. [闲鱼通报“拐卖儿童暗语”“钓鱼竿涉色情交易”“偷A4纸在闲鱼卖”等谣言：已报警，将起诉，造谣者已致歉](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywsti1342050.shtml)
+3. [习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywsti1330873.shtml)
+4. [韩媒热议：在中国“连续6个月保持第一”](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywnmm1400240.shtml)
+5. [“中国砒霜治疗成国际方案”，冲上热搜！](https://finance.sina.com.cn/wm/2026-11-16/doc-iniywhcn5938637.shtml)
+6. [北大399元羽绒服被抢空](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywste8968410.shtml)
+7. [黄仁勋讨论重掌英伟达 硅谷盟友游说支持回归](https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywhcp1499931.shtml)
 8. [操盘必读：影响股市利好或利空消息_2026年11月16日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-11-16/doc-iniywnmm1416138.shtml)
 9. [一个让人振奋的报告细节](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywsti1291588.shtml)
-10. [财经早报丨证监会：进一步深化市场稳定长效机制研究，消息称黄仁勋考虑重返英伟达担任CEO丨2026年11月16日](https://finance.sina.com.cn/stock/y/2026-11-16/doc-iniywste8964451.shtml)
-11. [证监会：深化市场稳定长效机制研究 防范异常波动](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyvzvt2825874.shtml)
-12. [黄仁勋讨论重掌英伟达 硅谷盟友游说支持回归](https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywhcp1499931.shtml)
+10. [闲鱼通报“拐卖儿童暗语”“钓鱼竿涉色情交易”“偷A4纸在闲鱼卖”等谣言：已报警，将起诉，造谣者已致歉](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywsti1342050.shtml)
+11. [怎样看待当前消费形势？人民日报发文](https://finance.sina.com.cn/stock/roll/2026-11-16/doc-iniyxiqz1142772.shtml)
+12. [证监会：深化市场稳定长效机制研究 防范异常波动](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyvzvt2825874.shtml)
 13. [商业航天百亿估值“独角兽”启动IPO辅导，豪华投资阵容亮相](https://finance.sina.com.cn/stock/zqgd/2026-11-16/doc-iniywste8962693.shtml)
-14. [共和党着眼2028大选，万斯、鲁比奥成最新热门](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywste8996574.shtml)
-15. [英媒：黄仁勋考虑重返英伟达](https://finance.sina.com.cn/stock/marketresearch/2026-11-16/doc-iniywstm2542429.shtml)
-16. [乌克兰总统泽连斯基：美方提出乌克兰撤出顿巴斯换取加入北约](https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywnmk5861941.shtml)
-17. [A股“远通系”魅影浮现：进出九家上市公司，总持仓超百亿](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyvzvt2825964.shtml)
-18. [闲鱼通报：“钓鱼竿涉色情交易”“偷A4纸出售”“农产品涉嫌色情交易”“拐卖儿童暗语”等均为谣言，造谣者致歉或受罚](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywwzi2498749.shtml)
-19. [股海导航_2026年11月16日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-11-16/doc-iniywnmh9085371.shtml)
+14. [称始祖鸟“割韭菜”、“骗钱”，男装品牌霞湖世家创始人致歉，已下架涉不当言论视频](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyxcif2446409.shtml)
+15. [财经早报丨证监会：进一步深化市场稳定长效机制研究，消息称黄仁勋考虑重返英伟达担任CEO丨2026年11月16日](https://finance.sina.com.cn/stock/y/2026-11-16/doc-iniywste8964451.shtml)
+16. [共和党着眼2028大选，万斯、鲁比奥成最新热门](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywste8996574.shtml)
+17. [英媒：黄仁勋考虑重返英伟达](https://finance.sina.com.cn/stock/marketresearch/2026-11-16/doc-iniywstm2542429.shtml)
+18. [A股“远通系”魅影浮现：进出九家上市公司，总持仓超百亿](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyvzvt2825964.shtml)
+19. [证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywste8990204.shtml)
 20. [十大券商策略：市场仍处反弹格局中 把握国产替代窗口](https://finance.sina.com.cn/stock/marketresearch/2026-11-16/doc-iniywhcn5956356.shtml)
