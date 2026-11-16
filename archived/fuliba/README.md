@@ -1,6 +1,6 @@
 # 福利吧热榜
 
-> 更新时间：2026-11-16 08:12:08
+> 更新时间：2026-11-16 15:06:18
 
 ## 最新文章
 
@@ -12,7 +12,7 @@
 6. [韩国赌神电影《老千：别西卜之歌》 附四部曲合集](https://fuliba2023.net/tazza-the-song-of-beelzebub.html)
 7. [赛博领鸡蛋：InstaBox，免费领4核8GB云电脑](https://fuliba2023.net/instabox.html)
 8. [2026年福利汇总第159期 ：世界疯疯癫癫](https://fuliba2023.net/2026159.html)
-9. [淘宝京东优惠商品汇总，11月13日9点更新 购物领券fuliba99.net](https://fuliba2023.net/99.html)
+9. [淘宝京东优惠商品汇总，本帖更新已转移至首页新Tab 购物领券fuliba99.net](https://fuliba2023.net/99.html)
 10. [日本悬疑漫画《如积雪般的永寂》离奇杀人案背后的秘密 附漫画+真人版](https://fuliba2023.net/an-eternal-silence-like-accumulated-snow.html)
 11. [河北彩伽：《图书馆文学少女不为人知的一面》 读书人的调情叫艺术](https://fuliba2023.net/sone-763.html)
 12. [被诈骗的血泪，你们这些麦片哥能不能别给片子美颜啊！](https://fuliba2023.net/zmrwx.html)

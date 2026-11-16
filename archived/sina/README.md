@@ -1,6 +1,6 @@
 # 新浪热榜
 
-> 更新时间：2026-11-16 08:11:27
+> 更新时间：2026-11-16 15:04:57
 
 ## 新闻热榜
 
@@ -27,23 +27,23 @@
 
 ## 财经热榜
 
-1. [巴基斯坦、埃及、沙特、土耳其、约旦、卡塔尔、阿联酋、印尼、苏丹、利比亚、黎巴嫩等17国强烈谴责](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyuyiy9650286.shtml)
-2. [黄仁勋离职引发双层股权讨论：一股一票与创始人控制权之争](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyupum3407264.shtml)
-3. [突发！603880，实控人遭刑拘，涉嫌内幕交易罪](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyvkxu9522720.shtml)
-4. [刚刚，A股公司实控人被刑拘！](https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvesc3173401.shtml)
-5. [SpaceX星舰返回德克萨斯州发射场 发射塔机械臂成功捕获](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyucep2333298.shtml)
-6. [踏空、重仓暴跌，基金经理该不该道歉？巴菲特给出答案！](https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyuinp3460159.shtml)
-7. [女子开着奔驰车，说油不足想借钱加油，找路人借了300元！留下电话后手机直接关机，当事路人：已报警](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyupue9830263.shtml)
-8. [系统故障酿全美航班停飞 交通部长达菲将矛头指向承包商L3Harris](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwq6847969.shtml)
-9. [比特币跌至三个月低点 现货比特币ETF资金大幅流出](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuinp3474182.shtml)
-10. [重要发布会，就在明天](https://finance.sina.com.cn/roll/2026-11-15/doc-iniyuykc2019676.shtml)
-11. [明天正式实施！券商万亿业务，新规落地！](https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyvkxz3099714.shtml)
-12. [特斯拉开始邀请部分个人用户订购无人驾驶汽车Cybercab](https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytsqr0181590.shtml)
-13. [伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyucen6757144.shtml)
-14. [尤尼斯遭暗杀身亡](https://finance.sina.com.cn/wm/2026-11-15/doc-iniyuuai3296622.shtml)
-15. [最新部署！多家券商密集开会！四季度这样干](https://finance.sina.com.cn/roll/2026-11-15/doc-iniyuinp3462181.shtml)
-16. [BLG夺得S16全球总决赛冠军，时隔五年中国战队再登世界之巅](https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyupui2140014.shtml)
-17. [飞天茅台、精品茅台零售均价领涨 五粮液普五八代、古井贡古20大幅攀升 白酒大单品总价创6天以来新高](https://finance.sina.com.cn/chanjing/jync/2026-11-15/doc-iniyupue9781556.shtml)
-18. [黄仁勋讨论重掌英伟达 硅谷盟友游说支持回归](https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywhcp1499931.shtml)
-19. [摩根士丹利财富管理Shalett：AI资本支出驱动的牛市逻辑依然稳固](https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwt3669681.shtml)
-20. [刚刚，全线大跳水！31.87万人爆仓！资金大规模出逃，比特币发生了啥？](https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyupue9816295.shtml)
+1. [日本参议员硬刚防卫相：你敢说这句话吗？](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywnmh9073564.shtml)
+2. [国家发改委，释放四大重磅信号](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywnmk5853281.shtml)
+3. [北大399元羽绒服被抢空](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywste8968410.shtml)
+4. [“中国砒霜治疗成国际方案”，冲上热搜！](https://finance.sina.com.cn/wm/2026-11-16/doc-iniywhcn5938637.shtml)
+5. [习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywsti1330873.shtml)
+6. [韩媒热议：在中国“连续6个月保持第一”](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywnmm1400240.shtml)
+7. [闲鱼通报“拐卖儿童暗语”“钓鱼竿涉色情交易”“偷A4纸在闲鱼卖”等谣言：已报警，将起诉，造谣者已致歉](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywsti1342050.shtml)
+8. [操盘必读：影响股市利好或利空消息_2026年11月16日_财经新闻](https://finance.sina.com.cn/stock/cpbd/2026-11-16/doc-iniywnmm1416138.shtml)
+9. [一个让人振奋的报告细节](https://finance.sina.com.cn/roll/2026-11-16/doc-iniywsti1291588.shtml)
+10. [财经早报丨证监会：进一步深化市场稳定长效机制研究，消息称黄仁勋考虑重返英伟达担任CEO丨2026年11月16日](https://finance.sina.com.cn/stock/y/2026-11-16/doc-iniywste8964451.shtml)
+11. [证监会：深化市场稳定长效机制研究 防范异常波动](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyvzvt2825874.shtml)
+12. [黄仁勋讨论重掌英伟达 硅谷盟友游说支持回归](https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywhcp1499931.shtml)
+13. [商业航天百亿估值“独角兽”启动IPO辅导，豪华投资阵容亮相](https://finance.sina.com.cn/stock/zqgd/2026-11-16/doc-iniywste8962693.shtml)
+14. [共和党着眼2028大选，万斯、鲁比奥成最新热门](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywste8996574.shtml)
+15. [英媒：黄仁勋考虑重返英伟达](https://finance.sina.com.cn/stock/marketresearch/2026-11-16/doc-iniywstm2542429.shtml)
+16. [乌克兰总统泽连斯基：美方提出乌克兰撤出顿巴斯换取加入北约](https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywnmk5861941.shtml)
+17. [A股“远通系”魅影浮现：进出九家上市公司，总持仓超百亿](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyvzvt2825964.shtml)
+18. [闲鱼通报：“钓鱼竿涉色情交易”“偷A4纸出售”“农产品涉嫌色情交易”“拐卖儿童暗语”等均为谣言，造谣者致歉或受罚](https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywwzi2498749.shtml)
+19. [股海导航_2026年11月16日_沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2026-11-16/doc-iniywnmh9085371.shtml)
+20. [十大券商策略：市场仍处反弹格局中 把握国产替代窗口](https://finance.sina.com.cn/stock/marketresearch/2026-11-16/doc-iniywhcn5956356.shtml)
