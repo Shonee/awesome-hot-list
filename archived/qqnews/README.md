@@ -1,26 +1,26 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-11-17 16:57:06
+> 更新时间：2026-11-18 02:17:48
 
 ## 热点榜
 
-1. [视频丨习近平会见巴布亚新几内亚总理马拉佩](https://view.inews.qq.com/a/20261117A07ECA00)
+1. [习近平会见墨西哥总统辛鲍姆](https://view.inews.qq.com/a/20261117A0BVVO00)
 2. [视频丨特别对话+专题研讨 APEC工商领导人峰会今天聚焦哪些议题？](https://view.inews.qq.com/a/20261117A080T200)
-3. [李彦宏、王兴兴、雷军等齐聚深圳！这场超级峰会还有这些看点](https://view.inews.qq.com/a/20261117A06E4M00)
-4. [2026年APEC时间来了，这些看点值得期待](https://view.inews.qq.com/a/20261117A00AIK00)
-5. [11月16日晚，深圳宝安国际机场灯火璀璨，APEC 接机礼仪队员手捧花束，在候场时依旧保持饱满笑容与昂扬姿态，他们正以最好的精神面貌迎接八方来宾](https://view.inews.qq.com/a/20261116V0ECKD00)
+3. [关于APEC“中国年”，这些知识点不容错过](https://view.inews.qq.com/a/20261117A0BWL700)
+4. [视频丨APEC“中国年”经贸成果亮眼：区域经济增长高于全球增长预期](https://view.inews.qq.com/a/20261117A079E800)
+5. [时隔12年中国再办APEC，这场盛会承载了哪些期待？](https://view.inews.qq.com/a/20261117A0AXGK00)
 6. [“中国排面”再度圈粉！APEC经济体领导人接机现场，外国飞行员、随行人员等掏出设备各个角度不停拍拍拍](https://view.inews.qq.com/a/20261117V07LSW00)
 7. [（深圳APEC）中国发展不是“抽走梯子”，而是与亚太伙伴“搭建新网络”](https://view.inews.qq.com/a/20261117A07PIT00)
-8. [视频丨APEC工商领导人峰会参会嘉宾热议中国发展与合作](https://view.inews.qq.com/a/20261117A07MLB00)
-9. [总体平稳 向新向优——透视10月国民经济运行态势](https://view.inews.qq.com/a/20261116A0CNMJ00)
-10. [卡尼：加拿大或寻求与中国等车企合作](https://view.inews.qq.com/a/20261117A07TJZ00)
-11. [“评级银锭”成分是锌？假藏品收割爱好者](https://mp.weixin.qq.com/s/4c8krgQNjsJqa9VunPkl5w)
+8. [外国人眼中的APEC峰会是什么样的？美国游客专赴深圳打卡，激动表示：第一次在APEC举办时来深圳，灯光秀太炫酷，肠粉太美味！](https://view.inews.qq.com/a/20261117V08MVC00)
+9. [视频丨用24小时 看深圳的APEC日常故事](https://view.inews.qq.com/a/20261117A029MG00)
+10. [APEC会议周外国人在深圳聚餐齐齐用筷子，贴着退热贴猛猛干饭，网友：现在不会用的老外不多了](https://view.inews.qq.com/a/20261117V0B3P300)
+11. [小米：相关内容纯属虚构，请广大车主提高警惕、谨防诈骗](https://mp.weixin.qq.com/s/ecUurXqw4vwX8BKYYC61aQ?platform=mac&version=5.0.12.70798)
 12. [视频丨直角拐弯+精准倒车！重达数十吨“巨型铁甲”训练场硬核开练](https://view.inews.qq.com/a/20261117A07LSE00)
 13. [当年的小渔村长大了！深圳变化有多震撼](https://view.inews.qq.com/a/20261117V07XPG00)
-14. [“深圳APEC主持人阵容拉满”冲上热搜；央视主持人康辉、王音棋、李京京、张安琪、郑新宇、王茫茫纷纷亮相深圳](https://view.inews.qq.com/a/20261117A0673D00)
-15. [视频丨外国游客纷纷打卡！全球首家机器人6S店有啥看头？](https://view.inews.qq.com/a/20261116A0E26300)
-16. [APEC盛会临近，安保力量“战狼突击队”已就位，在社交平台火出圈](https://view.inews.qq.com/a/20261116V0BMY900)
-17. [行情火爆！这条鱼，吃出百亿大产业！圈粉全球](https://view.inews.qq.com/a/20261117A02WFQ00)
-18. [医保钱包代缴居民医保费统筹地区范围不断扩大](https://view.inews.qq.com/a/20261117A034M600)
+14. [全球超算500强新榜单发布 中国超算蝉联榜首](https://view.inews.qq.com/a/20261117A0B3Q600)
+15. [感受APEC东道主城市的活力！美国博主“王德中”在深圳与观众热情互动 高呼“中国加油！”](https://view.inews.qq.com/a/20261117V090Z300)
+16. [台湾女生追剧走长征路，她还采访了小叶丹的后人](https://view.inews.qq.com/a/20261117V08UVT00)
+17. [非洲记者体验APEC黑科技：AI配镜太惊艳！](https://view.inews.qq.com/a/20261117V0BQ3F00)
+18. [关乎废旧动力电池、光伏组件、风机叶片等“新三样”固废回收处理，商务部最新解读](https://view.inews.qq.com/a/20261117A0CEES00)
 19. [星空有约｜木星火星“前后脚”迎来观测佳期](https://view.inews.qq.com/a/20261117A08JGN00)
 20. [新华社权威快报 | 我国将逐步实现疫苗处方全覆盖](https://view.inews.qq.com/a/20261117A088NQ00)
