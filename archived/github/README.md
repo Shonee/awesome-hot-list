@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-17 08:57:45
+> 更新时间：2026-11-17 16:56:48
 
 ## 每日趋势
 
@@ -8,16 +8,17 @@
 2. [plannotator](https://github.com/backnotprop/plannotator)
 3. [univer](https://github.com/dream-num/univer)
 4. [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
-5. [arcane](https://github.com/getarcaneapp/arcane)
-6. [jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
-7. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
-8. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
-9. [SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
-10. [open-code-review](https://github.com/alibaba/open-code-review)
-11. [paper-orchestra](https://github.com/google-research/paper-orchestra)
-12. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-13. [svelte](https://github.com/sveltejs/svelte)
-14. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+5. [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+6. [arcane](https://github.com/getarcaneapp/arcane)
+7. [jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
+8. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
+9. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+10. [SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
+11. [open-code-review](https://github.com/alibaba/open-code-review)
+12. [paper-orchestra](https://github.com/google-research/paper-orchestra)
+13. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+14. [svelte](https://github.com/sveltejs/svelte)
+15. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
 ## 每周趋势
 
@@ -83,16 +84,17 @@
 4. [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
 5. [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 6. [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
-7. [maigret](https://github.com/soxoj/maigret)
-8. [claude-code-templates](https://github.com/davila7/claude-code-templates)
-9. [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
-10. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
-11. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
-12. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
-13. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-14. [google-colab-cli](https://github.com/googlecolab/google-colab-cli)
-15. [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
-16. [supoclip](https://github.com/FujiwaraChoki/supoclip)
+7. [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+8. [maigret](https://github.com/soxoj/maigret)
+9. [claude-code-templates](https://github.com/davila7/claude-code-templates)
+10. [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+11. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+12. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+13. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+14. [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+15. [google-colab-cli](https://github.com/googlecolab/google-colab-cli)
+16. [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
+17. [supoclip](https://github.com/FujiwaraChoki/supoclip)
 
 ## Go
 

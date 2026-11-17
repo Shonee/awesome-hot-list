@@ -1,16 +1,16 @@
 # 雪球热榜
 
-> 更新时间：2026-11-17 08:58:26
+> 更新时间：2026-11-17 16:57:23
 
 ## 热门话题
 
-1. [创新药概念调整，和元生物大跌](https://xueqiu.com/hot_event/532987)
-2. [冰雪经济概念活跃，龙江交通涨停](https://xueqiu.com/hot_event/532988)
-3. [猪肉概念活跃，金新农2连板](https://xueqiu.com/hot_event/532985)
-4. [泡泡玛特持续回购股份拟全部注销](https://xueqiu.com/hot_event/532567)
-5. [中字头概念局部异动，中成股份触及涨停](https://xueqiu.com/hot_event/532491)
-6. [银行股逆势拉升，工行建行续创新高](https://xueqiu.com/hot_event/532482)
-7. [房地产板块走弱，深物业A跌停](https://xueqiu.com/hot_event/532384)
-8. [人形机器人概念反弹，埃夫特大涨](https://xueqiu.com/hot_event/532385)
-9. [食品饮料板块下挫，青岛食品跌停](https://xueqiu.com/hot_event/532375)
-10. [算力芯片概念走强，云天励飞领涨](https://xueqiu.com/hot_event/532376)
+1. [上证指数开盘跌破3600点](https://xueqiu.com/hot_event/533389)
+2. [宇树科技大幅下挫，人形机器人概念表现疲软](https://xueqiu.com/hot_event/533414)
+3. [药明康德从美国国防部名单中移除](https://xueqiu.com/hot_event/533357)
+4. [半导体设备大幅拉升，东方嘉盛涨停](https://xueqiu.com/hot_event/533431)
+5. [AI眼镜概念拉升，瀛通通讯涨停](https://xueqiu.com/hot_event/533399)
+6. [家电板块反复活跃，长虹美菱2连板](https://xueqiu.com/hot_event/533391)
+7. [港股半导体股走强，华虹宏力大涨](https://xueqiu.com/hot_event/533392)
+8. [英伟达盘中大跌，股价创阶段新低](https://xueqiu.com/hot_event/533320)
+9. [电网设备概念活跃，顺钠股份涨停](https://xueqiu.com/hot_event/533393)
+10. [冰雪经济概念活跃，龙江交通涨停](https://xueqiu.com/hot_event/532988)

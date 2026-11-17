@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-17 08:57:50
+> 更新时间：2026-11-17 16:56:53
 
 ## 最新帖子
 
-1. [Day 22：XML、JSON 与 MessagePack 的分工](https://www.cnblogs.com/jeff-tsai/p/23689484/day-22-three-formats)
-2. [一款工具搞定 LLM 评测和红队测试，Promptfoo 从安装到跑通（含实测教程）](https://www.cnblogs.com/jinjiangongzuoshi/p/23689428)
-3. [Redis 核心机制 | 过期删除策略：惰性+定期+主动（二）](https://www.cnblogs.com/hugogoos/p/23686725)
-4. [獎一个华为手環——發自我的 CCPC 2026 荊州賽站游記](https://www.cnblogs.com/joyce-peng/p/23686657)
-5. [GitHub 不是程序员专属：用 GitZip Pro 轻松下载文件和文件夹](https://www.cnblogs.com/myvin/p/23686594)
-6. [把一个 5k star 的 Go AI 网关移植到 .NET：为什么我选择用 Orleans 重写它的并发内核](https://www.cnblogs.com/shanyou/p/23686325)
-7. [【轻量化复刻大模型 / KIMI K3】Multi-Token Prediction（MTP / EAGLE-3）](https://www.cnblogs.com/rossiXYZ/p/23686026)
-8. [周 1 上线 | DSH 喜提原神进场动画，Anthropic 启动 IPO 路演；黄仁勋辞任；微软全球大宕机超 24 小时](https://www.cnblogs.com/Qiniu-developer/p/23685276)
-9. [文本自动输入器：把常用文字一键输入到光标处](https://www.cnblogs.com/wang_xy/p/23684471)
-10. [开发基于ComfyUI图片生成类应用Step by step （五）AI辅助开发Image Studio](https://www.cnblogs.com/zhenl/p/23683189)
-11. [从 NLite 到 Vane.Container 1.0：压箱十六年的自研 DI 容器开源](https://www.cnblogs.com/netcasewqs/p/23682364)
-12. [手搓 AI Agent 08：多 Agent 协作——同一内核，不同角色，一层协调](https://www.cnblogs.com/MrHuo/p/23682072/agent-from-scratch-08)
-13. [OptiMer：不同行业权重混合策略](https://www.cnblogs.com/Big-Yellow/p/23681328)
-14. [100:流量,团队,供应商变了,旧架构方案能复用吗？](https://www.cnblogs.com/snidget/p/23681236)
-15. [你每天用几十次的 hash，到底是什么？从 HashMap 到网盘秒传一次讲透](https://www.cnblogs.com/leikooo/p/23680340)
-16. [chat-demo 源码解析与 DeepSeek 全家桶 API 能力盘点](https://www.cnblogs.com/znlgis/p/23680323)
-17. [陀螺仪数据为什么看起来总在动：零偏、噪声和零漂](https://www.cnblogs.com/zw-awa/p/23680254)
-18. [【开源自荐】7Shell：跨平台 SSH 运维客户端，把终端、SFTP、容器和 K8s 放进一个窗口](https://www.cnblogs.com/equals/p/23679877)
-19. [一篇文章搞懂 Agent Harness：从概念、原理到我们该不该上](https://www.cnblogs.com/zjdxr-up/p/23673010)
-20. [Elasticsearch 索引别名入门：创建、路由、原子切换与几个常见误解](https://www.cnblogs.com/yellow3gold/p/23677924)
+1. [一次割接后的性能复核记录：基线、样本、回滚点](https://www.cnblogs.com/azhe921/p/23695522)
+2. [美育中国列为优先候选](https://www.cnblogs.com/bttb/p/23688359)
+3. [SEGGER_RTT 打印](https://www.cnblogs.com/issac-wan/p/23694784)
+4. [洛谷-P10539 [APIO2024] 魔术表演 题解](https://www.cnblogs.com/xiaoniu142857/p/23693756)
+5. [PACE：代码通过率从 42% 到 97%， 让长程 Agent 在有限 KV Cache 下用好历史 Token](https://www.cnblogs.com/Qiniu-developer/p/23693743)
+6. [java 多线程开发系列之十一：线程池的拒绝策略](https://www.cnblogs.com/jilodream/p/23693427)
+7. [手把手教你：随机种子都设了还是不可复现，四层种子与一层算法｜AI工程师踩坑实录·第9篇](https://www.cnblogs.com/dawudexiaowu/p/23693203)
+8. [滤波是什么：限幅、滑动平均、中位值、一阶低通怎么选？嵌入式传感器滤波算法原理与C源码](https://www.cnblogs.com/zw-awa/p/23692957)
+9. [101:Hy4Flash便宜20倍，哪些使用场景可以平替？](https://www.cnblogs.com/snidget/p/23692428)
+10. [17. a=b=5 谁的值变了？赋值运算符实战详解](https://www.cnblogs.com/halfcode/p/23692312)
+11. [SnapSharp：把截图、标注、OCR、翻译和 AI 抠图放进一款 Windows 工具](https://www.cnblogs.com/liessay/p/23692146)
+12. [飞书群聊已读，是怎么实现的？](https://www.cnblogs.com/codigger/p/23690393)
+13. [520 万数据迁移实战：Elasticsearch 索引重建与"改名"的完整踩坑记录](https://www.cnblogs.com/yellow3gold/p/23689542)
+14. [Day 22：XML、JSON 与 MessagePack 的分工](https://www.cnblogs.com/jeff-tsai/p/23689484/day-22-three-formats)
+15. [一款工具搞定 LLM 评测和红队测试，Promptfoo 从安装到跑通（含实测教程）](https://www.cnblogs.com/jinjiangongzuoshi/p/23689428)
+16. [Redis 核心机制 | 过期删除策略：惰性+定期+主动（二）](https://www.cnblogs.com/hugogoos/p/23686725)
+17. [獎一个华为手環——發自我的 CCPC 2026 荊州賽站游記](https://www.cnblogs.com/joyce-peng/p/23686657)
+18. [GitHub 不是程序员专属：用 GitZip Pro 轻松下载文件和文件夹](https://www.cnblogs.com/myvin/p/23686594)
+19. [把一个 5k star 的 Go AI 网关移植到 .NET：为什么我选择用 Orleans 重写它的并发内核](https://www.cnblogs.com/shanyou/p/23686325)
+20. [【轻量化复刻大模型 / KIMI K3】Multi-Token Prediction（MTP / EAGLE-3）](https://www.cnblogs.com/rossiXYZ/p/23686026)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [卸载cc-switch，强烈推荐Magpie](https://www.cnblogs.com/12lisu/p/23671038)
-2. [用户连点两次「确认支付」，你的后端凭什么只扣一次钱？](https://www.cnblogs.com/codigger/p/23677910)
-3. [太狠了！GitHub 19.8K star，真实接口流量直接录成测试](https://www.cnblogs.com/jinjiangongzuoshi/p/23676939)
-4. [上周热点回顾（11.9-11.15）](https://www.cnblogs.com/cmt/p/23676903)
-5. [AI 时代软件的终局：界面退位，契约上位](https://www.cnblogs.com/hugogoos/p/23668983)
-6. [一篇文章搞懂 Agent Harness：从概念、原理到我们该不该上](https://www.cnblogs.com/zjdxr-up/p/23673010)
+1. [用户连点两次「确认支付」，你的后端凭什么只扣一次钱？](https://www.cnblogs.com/codigger/p/23677910)
+2. [太狠了！GitHub 19.8K star，真实接口流量直接录成测试](https://www.cnblogs.com/jinjiangongzuoshi/p/23676939)
+3. [上周热点回顾（11.9-11.15）](https://www.cnblogs.com/cmt/p/23676903)
+4. [把一个 5k star 的 Go AI 网关移植到 .NET：为什么我选择用 Orleans 重写它的并发内核](https://www.cnblogs.com/shanyou/p/23686325)
+5. [一篇文章搞懂 Agent Harness：从概念、原理到我们该不该上](https://www.cnblogs.com/zjdxr-up/p/23673010)
+6. [好久没有回到这里了，又到年底了](https://www.cnblogs.com/Worigin/p/23672181)
