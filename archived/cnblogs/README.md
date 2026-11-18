@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-19 01:50:05
+> 更新时间：2026-11-19 07:55:50
 
 ## 最新帖子
 
-1. [随记 | 20261119 · 我想再多了解时间一点](https://www.cnblogs.com/moonout/p/23711264)
-2. [开源免费可自部署，界面优美，功能全面，这样的财务系统终于有开源了](https://www.cnblogs.com/datawalk/p/23711437)
-3. [给 PACS 数据加一道"匿名闸门"：自研 DICOM 脱敏服务器的实践](https://www.cnblogs.com/poxiao/p/23711429)
-4. [在家工作，也别把一天都交给屏幕：用 Tick Rest 留住休息时间](https://www.cnblogs.com/myvin/p/23711310)
-5. [两路信号，两种滤波：角速度走低通滤波，加速度走卡尔曼滤波](https://www.cnblogs.com/zw-awa/p/23711298)
-6. [8 个 SKILL 的设计逻辑](https://www.cnblogs.com/learnhow/p/23710916)
-7. [一次代理人战争——2026 年 OceanBase 数据库大赛参赛心得](https://www.cnblogs.com/joyce-peng/p/23710905)
-8. [【轻量化复刻大模型 / KIMI K3】Muon 优化器及 KIMI K3 训练系统](https://www.cnblogs.com/rossiXYZ/p/23620318)
-9. [Day22 · 循环图案与函数封装](https://www.cnblogs.com/xiaojiaxuezhang/p/23709981)
-10. [零代码平台设计感悟](https://www.cnblogs.com/rrooyy/p/23709754)
-11. [Caffeine+Redis 双重缓存：原理、两类脏读、方案与选型](https://www.cnblogs.com/SheepDog/p/23709471)
-12. [kubernetes 水平自动伸缩学习笔记（三）](https://www.cnblogs.com/xingzheanan/p/23708836)
-13. [Anthropic：Agent 不必一直运行，也能持续工作](https://www.cnblogs.com/Qiniu-developer/p/23708543)
-14. [AI 数据库落地复盘：外挂三件套为什么栽在约束上](https://www.cnblogs.com/dicengwanjialaozhang/p/23706159)
-15. [手搓 AI Agent 09：接外部世界——MCP 实战](https://www.cnblogs.com/MrHuo/p/23705636/agent-from-scratch-09)
-16. [Python设置Excel单元格背景色：静态填充与条件格式两种方案](https://www.cnblogs.com/jazz-z/p/23704828)
-17. [用 C# 撸了一个屏幕尺子：SnapSharp 新版本技术分享与功能解析](https://www.cnblogs.com/liessay/p/23704641)
-18. [我用 AI 复刻了 CodeTank，重温代码坦克](https://www.cnblogs.com/gsyifan/p/23704361/codetank)
-19. [ThreadLocal 会内存泄露吗？](https://www.cnblogs.com/codigger/p/23703546)
-20. [手把手教你：相似度全是 0.9？向量没归一化的量纲灾难｜AI工程师踩坑实录·第10篇](https://www.cnblogs.com/dawudexiaowu/p/23703439)
+1. [Redis 核心机制 | Lazy Free：异步删除大 Key ，架构师视角的机制、代价与决策框架](https://www.cnblogs.com/hugogoos/p/23711102)
+2. [随记 | 20261119 · 我想再多了解时间一点](https://www.cnblogs.com/moonout/p/23711264)
+3. [开源免费可自部署，界面优美，功能全面，这样的财务系统终于有开源了](https://www.cnblogs.com/datawalk/p/23711437)
+4. [给 PACS 数据加一道"匿名闸门"：自研 DICOM 脱敏服务器的实践](https://www.cnblogs.com/poxiao/p/23711429)
+5. [在家工作，也别把一天都交给屏幕：用 Tick Rest 留住休息时间](https://www.cnblogs.com/myvin/p/23711310)
+6. [两路信号，两种滤波：角速度走低通滤波，加速度走卡尔曼滤波](https://www.cnblogs.com/zw-awa/p/23711298)
+7. [8 个 SKILL 的设计逻辑](https://www.cnblogs.com/learnhow/p/23710916)
+8. [一次代理人战争——2026 年 OceanBase 数据库大赛参赛心得](https://www.cnblogs.com/joyce-peng/p/23710905)
+9. [【轻量化复刻大模型 / KIMI K3】Muon 优化器及 KIMI K3 训练系统](https://www.cnblogs.com/rossiXYZ/p/23620318)
+10. [Day22 · 循环图案与函数封装](https://www.cnblogs.com/xiaojiaxuezhang/p/23709981)
+11. [零代码平台设计感悟](https://www.cnblogs.com/rrooyy/p/23709754)
+12. [Caffeine+Redis 双重缓存：原理、两类脏读、方案与选型](https://www.cnblogs.com/SheepDog/p/23709471)
+13. [kubernetes 水平自动伸缩学习笔记（三）](https://www.cnblogs.com/xingzheanan/p/23708836)
+14. [Anthropic：Agent 不必一直运行，也能持续工作](https://www.cnblogs.com/Qiniu-developer/p/23708543)
+15. [AI 数据库落地复盘：外挂三件套为什么栽在约束上](https://www.cnblogs.com/dicengwanjialaozhang/p/23706159)
+16. [手搓 AI Agent 09：接外部世界——MCP 实战](https://www.cnblogs.com/MrHuo/p/23705636/agent-from-scratch-09)
+17. [Python设置Excel单元格背景色：静态填充与条件格式两种方案](https://www.cnblogs.com/jazz-z/p/23704828)
+18. [用 C# 撸了一个屏幕尺子：SnapSharp 新版本技术分享与功能解析](https://www.cnblogs.com/liessay/p/23704641)
+19. [我用 AI 复刻了 CodeTank，重温代码坦克](https://www.cnblogs.com/gsyifan/p/23704361/codetank)
+20. [ThreadLocal 会内存泄露吗？](https://www.cnblogs.com/codigger/p/23703546)
 
 ## 精华帖子
 
@@ -54,5 +54,5 @@
 2. [飞书群聊已读，是怎么实现的？](https://www.cnblogs.com/codigger/p/23690393)
 3. [被第三方库坑了二十多年，我把二十多个 .NET 轮子全造了一遍](https://www.cnblogs.com/netcasewqs/p/23696511)
 4. [从技术骨干到大家愿意追随的Leader，大家追随的从来不是技术](https://www.cnblogs.com/zhangs1986/p/23180271)
-5. [SnapSharp：把截图、标注、OCR、翻译和 AI 抠图放进一款 Windows 工具](https://www.cnblogs.com/liessay/p/23692146)
-6. [A2UI：让 Agent 画界面，而不是写代码](https://www.cnblogs.com/haoxiaozhang/p/23696951)
+5. [开源了一个 ASP.NET Core 的 Windows 资源管理器风格文件管理控件](https://www.cnblogs.com/wmlunge/p/23703316)
+6. [SnapSharp：把截图、标注、OCR、翻译和 AI 抠图放进一款 Windows 工具](https://www.cnblogs.com/liessay/p/23692146)

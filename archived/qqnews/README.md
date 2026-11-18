@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-11-19 01:50:20
+> 更新时间：2026-11-19 07:56:10
 
 ## 热点榜
 
@@ -14,7 +14,7 @@
 8. [特朗普专机抵达深圳，中国军人在“空军一号”边上岿然不动](https://view.inews.qq.com/a/20261118V0ECTO00)
 9. [全球媒体聚焦 | “以开放稳定促亚太繁荣”](https://view.inews.qq.com/a/20261118A0DW3000)
 10. [俄美专机在中国机场同框](https://view.inews.qq.com/a/20261118A0FFMW00)
-11. [网传“养老保险缴够15年就能坐等退休”系谣言（2026·11·18）](https://www.piyao.org.cn/20261118/7009bc7d2d5147e2af20bf2b87cd84c6/c.html)
+11. [钙片和维生素D“白吃了”，对降低骨折风险作用不大？并非如此](https://view.inews.qq.com/a/20261118A06EEZ00)
 12. [解锁今年网络纪录片热播密码](https://view.inews.qq.com/a/20261118A0AMEC00)
 13. [一条长凳为何围观过亿？背后是APEC图景里真实的绿色中国](https://view.inews.qq.com/a/20261118A0ARI900)
 14. [拍APEC，相机怎么设置](https://view.inews.qq.com/a/20261118A09V0P00)
