@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-18 09:09:38
+> 更新时间：2026-11-18 16:53:49
 
 ## 最新帖子
 
-1. [Day 23：API Payload 安全管道：顺序、保护等级与密钥](https://www.cnblogs.com/jeff-tsai/p/23702283/day-23-payload-pipeline)
-2. [牛逼！谷歌亲自下场开源的AI自动化神器！](https://www.cnblogs.com/jinjiangongzuoshi/p/23702241)
-3. [从技术骨干到大家愿意追随的Leader，大家追随的从来不是技术](https://www.cnblogs.com/zhangs1986/p/23180271)
-4. [three.js/WebGL实现3D智慧温室管理 之 环境异常与种植批次追踪](https://www.cnblogs.com/yeyunfei/p/23665310/threejs-webgl-3d-greenhouse-environment-batches)
-5. [源码级拆解：从语义归一化到 DNA 防篡改，一款轻量级开源 WAF 的架构与避坑实战](https://www.cnblogs.com/anye1991/p/23698902)
-6. [07 · 给 AI 喂知识：喂什么、怎么组织、怎么保鲜](https://www.cnblogs.com/lishen2/p/23698465)
-7. [把 gqlgen 的 GraphQL 行为搬到 HotChocolate 16：一次 wire-level 对齐实录](https://www.cnblogs.com/shanyou/p/23698239)
-8. [【轻量化复刻大模型 / KIMI K3】MTP / EAGLE‑3 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23606919)
-9. [开源】当桌面图标开始打台球：我用 WinForms 做了一桌“真的”台球](https://www.cnblogs.com/axing/p/23697588)
-10. [A2UI：让 Agent 画界面，而不是写代码](https://www.cnblogs.com/haoxiaozhang/p/23696951)
-11. [鸿蒙 APP 冷启动白屏根治实录：原生子窗口遮罩 + 双信号竞速，实测白屏占比 0%](https://www.cnblogs.com/xyyt/p/23696775)
-12. [被第三方库坑了二十多年，我把二十多个 .NET 轮子全造了一遍](https://www.cnblogs.com/netcasewqs/p/23696511)
-13. [一次割接后的性能复核记录：基线、样本、回滚点](https://www.cnblogs.com/azhe921/p/23695522)
-14. [SEGGER_RTT 打印](https://www.cnblogs.com/issac-wan/p/23694784)
-15. [PACE：代码通过率从 42% 到 97%， 让长程 Agent 在有限 KV Cache 下用好历史 Token](https://www.cnblogs.com/Qiniu-developer/p/23693743)
-16. [java 多线程开发系列之十一：线程池的拒绝策略](https://www.cnblogs.com/jilodream/p/23693427)
-17. [手把手教你：随机种子都设了还是不可复现，四层种子与一层算法｜AI工程师踩坑实录·第9篇](https://www.cnblogs.com/dawudexiaowu/p/23693203)
-18. [滤波是什么：限幅、滑动平均、中位值、一阶低通怎么选？嵌入式传感器滤波算法原理与C源码](https://www.cnblogs.com/zw-awa/p/23692957)
-19. [101:Hy4Flash便宜20倍，哪些使用场景可以平替？](https://www.cnblogs.com/snidget/p/23692428)
-20. [17. a=b=5 谁的值变了？赋值运算符实战详解](https://www.cnblogs.com/halfcode/p/23692312)
+1. [Anthropic：Agent 不必一直运行，也能持续工作](https://www.cnblogs.com/Qiniu-developer/p/23708543)
+2. [AI 数据库落地复盘：外挂三件套为什么栽在约束上](https://www.cnblogs.com/dicengwanjialaozhang/p/23706159)
+3. [手搓 AI Agent 09：接外部世界——MCP 实战](https://www.cnblogs.com/MrHuo/p/23705636/agent-from-scratch-09)
+4. [Python设置Excel单元格背景色：静态填充与条件格式两种方案](https://www.cnblogs.com/jazz-z/p/23704828)
+5. [用 C# 撸了一个屏幕尺子：SnapSharp 新版本技术分享与功能解析](https://www.cnblogs.com/liessay/p/23704641)
+6. [我用 AI 复刻了 CodeTank，重温代码坦克](https://www.cnblogs.com/gsyifan/p/23704361/codetank)
+7. [ThreadLocal 会内存泄露吗？](https://www.cnblogs.com/codigger/p/23703546)
+8. [手把手教你：相似度全是 0.9？向量没归一化的量纲灾难｜AI工程师踩坑实录·第10篇](https://www.cnblogs.com/dawudexiaowu/p/23703439)
+9. [开源了一个 ASP.NET Core 的 Windows 资源管理器风格文件管理控件](https://www.cnblogs.com/wmlunge/p/23703316)
+10. [Redis 核心机制 | 内存淘汰策略全解：8种策略、近似LRU采样、LFU计数器](https://www.cnblogs.com/hugogoos/p/23698671)
+11. [为什么 0.1 + 0.2 ≠ 0.3：一次讲透浮点数](https://www.cnblogs.com/leikooo/p/23702585)
+12. [时间序列特征，哪些当时就能算出来](https://www.cnblogs.com/wang_yb/p/23702440)
+13. [Day 23：API Payload 安全管道：顺序、保护等级与密钥](https://www.cnblogs.com/jeff-tsai/p/23702283/day-23-payload-pipeline)
+14. [牛逼！谷歌亲自下场开源的AI自动化神器！](https://www.cnblogs.com/jinjiangongzuoshi/p/23702241)
+15. [从技术骨干到大家愿意追随的Leader，大家追随的从来不是技术](https://www.cnblogs.com/zhangs1986/p/23180271)
+16. [three.js/WebGL实现3D智慧温室管理 之 环境异常与种植批次追踪](https://www.cnblogs.com/yeyunfei/p/23665310/threejs-webgl-3d-greenhouse-environment-batches)
+17. [源码级拆解：从语义归一化到 DNA 防篡改，一款轻量级开源 WAF 的架构与避坑实战](https://www.cnblogs.com/anye1991/p/23698902)
+18. [07 · 给 AI 喂知识：喂什么、怎么组织、怎么保鲜](https://www.cnblogs.com/lishen2/p/23698465)
+19. [把 gqlgen 的 GraphQL 行为搬到 HotChocolate 16：一次 wire-level 对齐实录](https://www.cnblogs.com/shanyou/p/23698239)
+20. [【轻量化复刻大模型 / KIMI K3】MTP / EAGLE‑3 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23606919)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [把一个 5k star 的 Go AI 网关移植到 .NET：为什么我选择用 Orleans 重写它的并发内核](https://www.cnblogs.com/shanyou/p/23686325)
-2. [用户连点两次「确认支付」，你的后端凭什么只扣一次钱？](https://www.cnblogs.com/codigger/p/23677910)
-3. [太狠了！GitHub 19.8K star，真实接口流量直接录成测试](https://www.cnblogs.com/jinjiangongzuoshi/p/23676939)
-4. [上周热点回顾（11.9-11.15）](https://www.cnblogs.com/cmt/p/23676903)
-5. [一篇文章搞懂 Agent Harness：从概念、原理到我们该不该上](https://www.cnblogs.com/zjdxr-up/p/23673010)
-6. [飞书群聊已读，是怎么实现的？](https://www.cnblogs.com/codigger/p/23690393)
+2. [开源】当桌面图标开始打台球：我用 WinForms 做了一桌“真的”台球](https://www.cnblogs.com/axing/p/23697588)
+3. [飞书群聊已读，是怎么实现的？](https://www.cnblogs.com/codigger/p/23690393)
+4. [被第三方库坑了二十多年，我把二十多个 .NET 轮子全造了一遍](https://www.cnblogs.com/netcasewqs/p/23696511)
+5. [周一上线 | DSH 喜提原神进场动画，Anthropic 启动 IPO 路演；黄仁勋辞任；微软全球大宕机超 24 小时](https://www.cnblogs.com/Qiniu-developer/p/23685276)
+6. [SnapSharp：把截图、标注、OCR、翻译和 AI 抠图放进一款 Windows 工具](https://www.cnblogs.com/liessay/p/23692146)
