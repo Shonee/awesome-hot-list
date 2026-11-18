@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-18 02:17:32
+> 更新时间：2026-11-18 09:09:33
 
 ## 每日趋势
 
@@ -86,13 +86,14 @@
 7. [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 8. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 9. [claude-code-templates](https://github.com/davila7/claude-code-templates)
-10. [sherlock](https://github.com/sherlock-project/sherlock)
-11. [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
-12. [supoclip](https://github.com/FujiwaraChoki/supoclip)
-13. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
-14. [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
-15. [openworker](https://github.com/andrewyng/openworker)
-16. [free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+10. [humanizer](https://github.com/blader/humanizer)
+11. [sherlock](https://github.com/sherlock-project/sherlock)
+12. [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
+13. [supoclip](https://github.com/FujiwaraChoki/supoclip)
+14. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+15. [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
+16. [openworker](https://github.com/andrewyng/openworker)
+17. [free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
 ## Go
 

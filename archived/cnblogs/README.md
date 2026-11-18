@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-18 02:17:37
+> 更新时间：2026-11-18 09:09:38
 
 ## 最新帖子
 
-1. [three.js/WebGL实现3D智慧温室管理 之 环境异常与种植批次追踪](https://www.cnblogs.com/yeyunfei/p/23665310/threejs-webgl-3d-greenhouse-environment-batches)
-2. [源码级拆解：从语义归一化到 DNA 防篡改，一款轻量级开源 WAF 的架构与避坑实战](https://www.cnblogs.com/anye1991/p/23698902)
-3. [07 · 给 AI 喂知识：喂什么、怎么组织、怎么保鲜](https://www.cnblogs.com/lishen2/p/23698465)
-4. [把 gqlgen 的 GraphQL 行为搬到 HotChocolate 16：一次 wire-level 对齐实录](https://www.cnblogs.com/shanyou/p/23698239)
-5. [【轻量化复刻大模型 / KIMI K3】MTP / EAGLE‑3 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23606919)
-6. [开源】当桌面图标开始打台球：我用 WinForms 做了一桌“真的”台球](https://www.cnblogs.com/axing/p/23697588)
-7. [A2UI：让 Agent 画界面，而不是写代码](https://www.cnblogs.com/haoxiaozhang/p/23696951)
-8. [鸿蒙 APP 冷启动白屏根治实录：原生子窗口遮罩 + 双信号竞速，实测白屏占比 0%](https://www.cnblogs.com/xyyt/p/23696775)
-9. [被第三方库坑了二十多年，我把二十多个 .NET 轮子全造了一遍](https://www.cnblogs.com/netcasewqs/p/23696511)
-10. [一次割接后的性能复核记录：基线、样本、回滚点](https://www.cnblogs.com/azhe921/p/23695522)
-11. [SEGGER_RTT 打印](https://www.cnblogs.com/issac-wan/p/23694784)
-12. [PACE：代码通过率从 42% 到 97%， 让长程 Agent 在有限 KV Cache 下用好历史 Token](https://www.cnblogs.com/Qiniu-developer/p/23693743)
-13. [java 多线程开发系列之十一：线程池的拒绝策略](https://www.cnblogs.com/jilodream/p/23693427)
-14. [手把手教你：随机种子都设了还是不可复现，四层种子与一层算法｜AI工程师踩坑实录·第9篇](https://www.cnblogs.com/dawudexiaowu/p/23693203)
-15. [滤波是什么：限幅、滑动平均、中位值、一阶低通怎么选？嵌入式传感器滤波算法原理与C源码](https://www.cnblogs.com/zw-awa/p/23692957)
-16. [101:Hy4Flash便宜20倍，哪些使用场景可以平替？](https://www.cnblogs.com/snidget/p/23692428)
-17. [17. a=b=5 谁的值变了？赋值运算符实战详解](https://www.cnblogs.com/halfcode/p/23692312)
-18. [SnapSharp：把截图、标注、OCR、翻译和 AI 抠图放进一款 Windows 工具](https://www.cnblogs.com/liessay/p/23692146)
-19. [飞书群聊已读，是怎么实现的？](https://www.cnblogs.com/codigger/p/23690393)
-20. [520 万数据迁移实战：Elasticsearch 索引重建与"改名"的完整踩坑记录](https://www.cnblogs.com/yellow3gold/p/23689542)
+1. [Day 23：API Payload 安全管道：顺序、保护等级与密钥](https://www.cnblogs.com/jeff-tsai/p/23702283/day-23-payload-pipeline)
+2. [牛逼！谷歌亲自下场开源的AI自动化神器！](https://www.cnblogs.com/jinjiangongzuoshi/p/23702241)
+3. [从技术骨干到大家愿意追随的Leader，大家追随的从来不是技术](https://www.cnblogs.com/zhangs1986/p/23180271)
+4. [three.js/WebGL实现3D智慧温室管理 之 环境异常与种植批次追踪](https://www.cnblogs.com/yeyunfei/p/23665310/threejs-webgl-3d-greenhouse-environment-batches)
+5. [源码级拆解：从语义归一化到 DNA 防篡改，一款轻量级开源 WAF 的架构与避坑实战](https://www.cnblogs.com/anye1991/p/23698902)
+6. [07 · 给 AI 喂知识：喂什么、怎么组织、怎么保鲜](https://www.cnblogs.com/lishen2/p/23698465)
+7. [把 gqlgen 的 GraphQL 行为搬到 HotChocolate 16：一次 wire-level 对齐实录](https://www.cnblogs.com/shanyou/p/23698239)
+8. [【轻量化复刻大模型 / KIMI K3】MTP / EAGLE‑3 模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23606919)
+9. [开源】当桌面图标开始打台球：我用 WinForms 做了一桌“真的”台球](https://www.cnblogs.com/axing/p/23697588)
+10. [A2UI：让 Agent 画界面，而不是写代码](https://www.cnblogs.com/haoxiaozhang/p/23696951)
+11. [鸿蒙 APP 冷启动白屏根治实录：原生子窗口遮罩 + 双信号竞速，实测白屏占比 0%](https://www.cnblogs.com/xyyt/p/23696775)
+12. [被第三方库坑了二十多年，我把二十多个 .NET 轮子全造了一遍](https://www.cnblogs.com/netcasewqs/p/23696511)
+13. [一次割接后的性能复核记录：基线、样本、回滚点](https://www.cnblogs.com/azhe921/p/23695522)
+14. [SEGGER_RTT 打印](https://www.cnblogs.com/issac-wan/p/23694784)
+15. [PACE：代码通过率从 42% 到 97%， 让长程 Agent 在有限 KV Cache 下用好历史 Token](https://www.cnblogs.com/Qiniu-developer/p/23693743)
+16. [java 多线程开发系列之十一：线程池的拒绝策略](https://www.cnblogs.com/jilodream/p/23693427)
+17. [手把手教你：随机种子都设了还是不可复现，四层种子与一层算法｜AI工程师踩坑实录·第9篇](https://www.cnblogs.com/dawudexiaowu/p/23693203)
+18. [滤波是什么：限幅、滑动平均、中位值、一阶低通怎么选？嵌入式传感器滤波算法原理与C源码](https://www.cnblogs.com/zw-awa/p/23692957)
+19. [101:Hy4Flash便宜20倍，哪些使用场景可以平替？](https://www.cnblogs.com/snidget/p/23692428)
+20. [17. a=b=5 谁的值变了？赋值运算符实战详解](https://www.cnblogs.com/halfcode/p/23692312)
 
 ## 精华帖子
 

@@ -1,14 +1,14 @@
 # 游民星空热榜
 
-> 更新时间：2026-11-18 02:18:15
+> 更新时间：2026-11-18 09:10:12
 
 ## 热点资讯排行
 
 1. [推上全是《GTA6》限制级视频：杰森露西娅惨被二创](https://www.gamersky.com/news/202611/2247003.shtml)
 2. [RTX 5090突然恢复供货！价格暴跌 高位接盘侠慌了？](https://www.gamersky.com/news/202611/2246726.shtml)
 3. [BLG 3-1 GEN加冕S16总冠军！一穿四LCK 历史最强](https://www.gamersky.com/news/202611/2246600.shtml)
-4. [拳头官宣《英雄联盟：曙光》！2027年1月情报公开](https://www.gamersky.com/news/202611/2246602.shtml)
-5. [Gen突然官宣四人离队！教练|选手全都踢 丢冠仅48h](https://www.gamersky.com/news/202611/2247574.shtml)
+4. [Gen突然官宣四人离队！教练|选手全都踢 丢冠仅48h](https://www.gamersky.com/news/202611/2247574.shtml)
+5. [拳头官宣《英雄联盟：曙光》！2027年1月情报公开](https://www.gamersky.com/news/202611/2246602.shtml)
 6. [BLG一穿四LCK夺冠！B站同庆送所有人大会员](https://www.gamersky.com/news/202611/2246605.shtml)
 7. [恐怖新游死一次就永久禁玩！中途关了也算死](https://www.gamersky.com/news/202611/2247191.shtml)
 8. [《GTA6》六张全新截图公布！细节效果令人震撼](https://www.gamersky.com/news/202611/2247569.shtml)
