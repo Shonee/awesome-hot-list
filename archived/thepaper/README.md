@@ -1,6 +1,6 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-11-19 23:59:04
+> 更新时间：2026-11-20 07:00:03
 
 ## 热新闻
 
@@ -13,14 +13,14 @@
 7. [APEC现场｜深圳市民街头偶遇多国政要：逛超市、尝车厘子、练八段锦……](https://www.thepaper.cn/newsDetail_forward_34509387)
 8. [地标是如何炼成的｜从“南京长江大桥”认识南京这座城](https://www.thepaper.cn/newsDetail_forward_34491581)
 9. [中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​](https://www.thepaper.cn/newsDetail_forward_34509594)
-10. [专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步](https://www.thepaper.cn/newsDetail_forward_34505131)
-11. [马上评｜“老人拆墙让路”事件的三重舆论启示](https://www.thepaper.cn/newsDetail_forward_34509394)
+10. [马上评｜“老人拆墙让路”事件的三重舆论启示](https://www.thepaper.cn/newsDetail_forward_34509394)
+11. [专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步](https://www.thepaper.cn/newsDetail_forward_34505131)
 12. [刘金国人民日报撰文：常态化整治群众身边不正之风和腐败问题](https://www.thepaper.cn/newsDetail_forward_34507872)
 13. [腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转](https://www.thepaper.cn/newsDetail_forward_34505653)
 14. [视频丨马斯克深圳发声：我是中国的超级粉丝](https://www.thepaper.cn/newsDetail_forward_34510015)
 15. [体坛联播｜波切蒂诺正式上任曼联主帅，国足世界排名第95](https://www.thepaper.cn/newsDetail_forward_34508164)
-16. [和合共生｜APEC“全家福”来了，2分钟揭秘红蓝围巾背后故事](https://www.thepaper.cn/newsDetail_forward_34510341)
-17. [澎湃读报丨APEC峰会在深圳举行，主要媒体版面速览](https://www.thepaper.cn/newsDetail_forward_34507895)
-18. [从幼儿园到养老院：一个园长经历的时代变化与转行考验](https://www.thepaper.cn/newsDetail_forward_34504173)
-19. [今年流感有何新特点？呼吸科专家：三毒株叠加流行，防护千万别松懈](https://www.thepaper.cn/newsDetail_forward_34509039)
-20. [和合共生丨携手搭建亚太共同体的“四梁八柱”](https://www.thepaper.cn/newsDetail_forward_34511319)
+16. [马上评｜15元起步，扫共享单车不该是开盲盒](https://www.thepaper.cn/newsDetail_forward_34510107)
+17. [言短意长丨为何看五十年的中国，就来深圳？](https://www.thepaper.cn/newsDetail_forward_34512474)
+18. [和合共生｜APEC“全家福”来了，2分钟揭秘红蓝围巾背后故事](https://www.thepaper.cn/newsDetail_forward_34510341)
+19. [亚太经合组织互联互通蓝图](https://www.thepaper.cn/newsDetail_forward_34514381)
+20. [视频丨特朗普：今天我们创造了历史](https://www.thepaper.cn/newsDetail_forward_34514041)
