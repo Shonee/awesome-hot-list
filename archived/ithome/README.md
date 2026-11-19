@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-19 07:56:18
+> 更新时间：2026-11-19 14:09:47
 
 ## 日榜
 
-1. [小米雷军 APEC 现场挨个发名片，参会时给台下朋友拍合影](https://www.ithome.com/1/028/617.htm)
-2. [苹果首款折叠 iPhone Duo 铰链风波升级，韩媒称供应商受压撤回声明](https://www.ithome.com/1/028/692.htm)
-3. [“童话大王”郑渊洁停更 2 年后发声：用 AI 手搓动画短片开放免费观看，祝贺 00 后赶上知识平权好时代](https://www.ithome.com/1/028/689.htm)
-4. [消息称华为 Mate 90 Air、Nova 17 系列新机年底前发布，MatePad Mini 2 小平板预计也有](https://www.ithome.com/1/028/703.htm)
-5. [华为星芒 OSTA O1 Pro 手机设置页截屏流出，“实锤”搭载麒麟 9030S 处理器](https://www.ithome.com/1/029/012.htm)
-6. [真 · QQ 音乐简洁版“复活”：绿钻权益互通，脱离波点音乐 App](https://www.ithome.com/1/029/113.htm)
-7. [英伟达临时 CEO 克雷斯：黄仁勋离职后，客户和员工都不会流失](https://www.ithome.com/1/028/626.htm)
-8. [比亚迪王传福、美团王兴、小米雷军 APEC 2026 并排就坐，拒绝透露聊天内容](https://www.ithome.com/1/028/704.htm)
-9. [蔚来 ES9 灯光秀把“爸爸我爱你”判违规？副总裁马麟回应称“爱字被误判”，已修复](https://www.ithome.com/1/028/682.htm)
-10. [消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消](https://www.ithome.com/1/028/908.htm)
-11. [《GTA 6》地图究竟有多大？实测步行横穿要 3 小时 21 分钟，开车近 11 分钟](https://www.ithome.com/1/029/049.htm)
-12. [董明珠 APEC 现场求合作，称格力研发机器人十几年了](https://www.ithome.com/1/028/713.htm)
+1. [真 · QQ 音乐简洁版“复活”：绿钻权益互通，脱离波点音乐 App](https://www.ithome.com/1/029/113.htm)
+2. [华为星芒 OSTA O1 Pro 手机设置页截屏流出，“实锤”搭载麒麟 9030S 处理器](https://www.ithome.com/1/029/012.htm)
+3. [英伟达员工大会宣布告别“黄仁勋时代”：12 月员工加薪，启动新 CEO 遴选](https://www.ithome.com/1/029/134.htm)
+4. [《GTA 6》地图究竟有多大？实测步行横穿要 3 小时 21 分钟，开车近 11 分钟](https://www.ithome.com/1/029/049.htm)
+5. [华为最薄 Mate 直板机来了，Mate90 Air 轻薄旗舰定档 11 月 24 日发布](https://www.ithome.com/1/029/151.htm)
+6. [小米 18 标准版手机预计 12 月发布，消息称起售价 5699 元](https://www.ithome.com/1/029/120.htm)
+7. [消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消](https://www.ithome.com/1/028/908.htm)
+8. [DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费](https://www.ithome.com/1/029/058.htm)
+9. [13 年等待结束：《侠盗猎车手 6》今明日正式发售，登陆 PS5、Xbox Series X|S 平台](https://www.ithome.com/1/029/019.htm)
+10. [华为麒麟 9050 系列新一代芯片级安全架构公开：双芯协同，首批获权威检测的抗量子攻击移动 SoC](https://www.ithome.com/1/028/913.htm)
+11. [小米春节前待发新机曝光，含 Xiaomi 18 标准版、REDMI Note18 / Turbo6 系列等](https://www.ithome.com/1/028/992.htm)
+12. [腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品](https://www.ithome.com/1/028/914.htm)
