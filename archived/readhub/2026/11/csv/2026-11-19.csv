@@ -140,3 +140,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,AI 已经进入企业，为什么组织还没有进化？ 微软《2026 年工作趋势指数年度报告》所呈现的，正是这种企业 AI 转型悖论：员工已经开始借助 AI 提升个人效率，团队也在尝试新工具，但业务流程、协作方式和评价机制仍然沿用过去的模式。这类案例说明，AI 试点成功与企业转型成功之间，还隔着一层组织设计。从岗位到任务，从个人经验到组织智能，再到流程的持续迭代，智能组织改变的不是某个岗位的工作效率，而是企业生产和协作的底层逻辑。 雷锋网 2 小时前,,,https://www.leiphone.com/category/industrynews/98sAVeAaYPhJQvgY.html,,Readhub,AI 资讯,ai,digest,,2026-11-19 14:09:17
 9,腾讯大幅削减元宝投入，微信 AI 助手「小微」日活达 3000 万 面对外界对旗下 AI 助手发展的关注，刘炽平在业绩会上坦言，面向消费者端推出的 AI 助手「元宝」并没有达到公司预期。今年春节期间，元宝还开展了「分 10 亿现金红包」的推广活动，活动于 2 月 18 日结束后，腾讯曾公布元宝日活跃用户突破 5000 万，月活跃用户达到 1.14 亿。在调整元宝投入的同时，腾讯正进一步推进微信生态内 AI 助手「小微」的落地。 AIBase 2 小时前,,,https://www.aibase.com/zh/news/32407,,Readhub,AI 资讯,ai,digest,,2026-11-19 14:09:17
 10,"DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency We trained DaisyRose-27B on long-horizon agent tasks with sessions up to 1M tokens, using just 1,200 curated tasks in 18 days on 144 H200 GPUs. RadixArk trained the model with Miles, our open-source reinforcement learning framework for large-scale model post-training, in fully asynchronous mode: the agent keeps working while the model learns, and neither waits for the other. The learning runs on our internal training backend, which is built for agent training: each step learns from a handful of very long sessions, some as long as 1M tokens, folded into multiple trajectories via harness summarization. Hugging Face Blog 10 小时前",,,https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin,,Readhub,AI 资讯,ai,digest,,2026-11-19 14:09:17
+1,月之暗面 Kimi 工程师穿女仆装亮相大会 疑似扮 DeepSeek 大肥鱼,,,https://readhub.cn/topic/8yAw7cZo2s3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+2,商务部：今年「双十一」整体平稳,,,https://readhub.cn/topic/8yBHC0OtVqj?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+3,比亚迪年内第三项黑科技将发布 方程豹钛 9 首搭,,,https://readhub.cn/topic/8y9ldR5xJ21?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+4,黄仁勋离任后英伟达首开全员大会：承诺 12 月加薪，坚持换帅,,,https://readhub.cn/topic/8oHS6l5cL9l?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+5,特朗普称美或两三年后解禁销售英伟达 Blackwell 芯片,,,https://readhub.cn/topic/8yAq4903lli?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+6,腾讯大幅削减元宝投入：没有我们预期的那样成功,,,https://readhub.cn/topic/8yAxuou1cjb?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+7,网易 UU 远程拟推出 VIP 和 SVIP 服务 基础远控持续免费无广告,,,https://readhub.cn/topic/8yB6SyfI9mq?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+8,GTA 6 取消街头招揽玩法 双主角叙事聚焦亡命情侣,,,https://readhub.cn/topic/8yA5Fu7jjFn?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+9,微软 CEO 纳德拉回应 6 万人自愿离职：AI 改写工作方式,,,https://readhub.cn/topic/8yAqkEstDyC?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+10,腾讯：WorkBuddy 近七天年化收入超 5 亿美元 三季度收入环比增 5 倍,,,https://readhub.cn/topic/8yAitXDvOro?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+11,英伟达临时 CEO 承诺向员工发放加薪和股权激励,,,https://readhub.cn/topic/8yAYWCWrUTJ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+12,姚紫薇出任中信建投证券 AI 投研中心负责人,,,https://readhub.cn/topic/8yAmSQBJe8V?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+13,DeepSeek 完成股权变更，腾讯宁德时代等 31 家出资方进入持股平台,,,https://readhub.cn/topic/8yBFkrpPNrk?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+14,腾讯大幅削减元宝投入，微信 AI 助手「小微」日活达 3000 万,,,https://readhub.cn/topic/8yAuMa2Khjh?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+15,马斯克谈美国中期选举：花了这么多钱，觉得自己「挺傻的」,,,https://readhub.cn/topic/8yAhoUTBoh3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+16,谷歌发布 Gemini 4 Neon，性价比对标 Claude Opus 5.5,,,https://readhub.cn/topic/8yAxu2lsgH8?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+17,联想第二季度营收 302.4 亿美元 同时录得 6.4 亿美元净亏损,,,https://readhub.cn/topic/8yB3d4sPCMr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+18,《GTA 6》创 Twitch 单机游戏收视纪录：半小时 250 万人围观,,,https://readhub.cn/topic/8yA6KFavZjA?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+19,拼多多三季度营收 1083 亿元，「新十年高质量发展」效用加速释放,,,https://readhub.cn/topic/8yBZPCrS1v9?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+20,英伟达 RTX Spark 迷你 AI 工作站上市 最高支持本地运行 1200 亿参数大模型,,,https://readhub.cn/topic/8yA5ajiILV3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+21,马斯克称特斯拉会继续在中国提高产量,,,https://readhub.cn/topic/8yB2WoyE821?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+22,OpenAI 首款 AI 硬件或于年底启动出货 立讯精密等中国供应商参与,,,https://readhub.cn/topic/8yAoExQEwxr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+23,联想集团二季度 AI 服务器营收同比增超 300%，储备订单达 5300 亿元人民币,,,https://readhub.cn/topic/8yB3bWg5hGv?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+24,OpenAI 将进军手机市场 产品最快 2027 年有望上市,,,https://readhub.cn/topic/8yA9AjOsrR6?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+25,Anthropic 股价在暗盘市场上涨约 20%,,,https://readhub.cn/topic/8yBCv04GjKN?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+26,R 星新作《GTA6》正式发售 首发登陆 PS5 及 Xbox 平台,,,https://readhub.cn/topic/8yAEsOjaf1n?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+27,微软宣布 Microsoft To Do 应用 2027 年 6 月 30 日正式停用,,,https://readhub.cn/topic/8yAw9WPtPp1?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+28,Anthropic 股票将于 11 月 19 日在纳斯达克开始交易,,,https://readhub.cn/topic/8y9BV9D4oRj?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+29,2027 款极氪 7X 将于 11 月 27 日广州车展上市 预售 22.98 万起,,,https://readhub.cn/topic/8yAzKdRilDH?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+30,三季度中东智能手机出货量下滑 29% 小米重返第二,,,https://readhub.cn/topic/8y9JiWlGhFI?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-19 23:59:02
+1,2026.11.18 15 条,,,https://readhub.cn/daily/2026-11-18,,Readhub,每日早报,daily,digest,2026-11-18,2026-11-19 23:59:02
+2,2026.11.17 14 条,,,https://readhub.cn/daily/2026-11-17,,Readhub,每日早报,daily,digest,2026-11-17,2026-11-19 23:59:02
+3,2026.11.16 8 条,,,https://readhub.cn/daily/2026-11-16,,Readhub,每日早报,daily,digest,2026-11-16,2026-11-19 23:59:02
+4,2026.11.15 8 条,,,https://readhub.cn/daily/2026-11-15,,Readhub,每日早报,daily,digest,2026-11-15,2026-11-19 23:59:02
+5,2026.11.14 16 条,,,https://readhub.cn/daily/2026-11-14,,Readhub,每日早报,daily,digest,2026-11-14,2026-11-19 23:59:02
+6,2026.11.13 13 条,,,https://readhub.cn/daily/2026-11-13,,Readhub,每日早报,daily,digest,2026-11-13,2026-11-19 23:59:02
+7,2026.11.12 16 条,,,https://readhub.cn/daily/2026-11-12,,Readhub,每日早报,daily,digest,2026-11-12,2026-11-19 23:59:02
+1,开源 AI 阵营，为何急着迎回黄仁勋？,在向政策制定者为开源 AI 辩护的阵营中，黄仁勋已成为某种意义上的领军人物。去年 12 月，在一场讨论如何帮助美国赢得对华 AI 竞争的活动中，他曾表示：「没有开源，初创企业就无法蓬勃发展，大学研究人员无法开展研究，AI 教育无从谈起，科学家也无法使用 AI」。开源 AI 阵营之所以集体声援黄仁勋，正是看中了他对政策制定者的影响力。 麻省理工科技评论 9 小时前,,https://www.mittrchina.com/news/detail/17265,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+2,AI 研究项目 Marin 开放 Mochi 模型 57 个训练检查点,Open Athena 于 11 月 17 日宣布，Marin 项目的 Mochi 535B-A23B 模型已完成主要预训练阶段，并开放 57 个训练检查点，其中 10 个来自长上下文扩展阶段。Open Athena 表示，这些中间检查点尚未经过指令微调或安全后训练，旨在供科学研究或进一步训练使用，不应作为可直接部署的助手。团队还表示，调查发现部分常用预训练基准存在数据泄漏，这会影响公平比较 Mochi 与其他模型时可报告的评估结果。 techflowpost.com 33,,https://www.techflowpost.com/zh-CN/newsletter/145831,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+3,阿里云外部收入增长 64%，增速创近六年新高,11 月 19 日晚间，阿里巴巴集团发布最新季度业绩，阿里云外部客户收入同比增长 64%，较上一季度的 45% 显著加快，刷新近六年来的增速高点。季度内，AI 相关产品收入连续第 13 个季度实现三位数增长，驱动阿里云收入增长再创新高。 雷锋网 5 小时前,,https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+4,微软官方 PyPI 包 Agent Framework 遭劫持，攻击者植入窃取登录凭据的恶意软件,微软官方在 PyPI 发布的 Agent Framework 软件包遭黑客劫持，攻击者将其植入窃取登录凭据和云平台令牌的恶意软件。微软 Agent Framework Python 是一款开源工具包，每月下载量已接近 20 万次，可帮助开发者构建 AI 智能体，使其能够调用工具、遵循指令、与其他智能体交互，并执行更加复杂的任务。黑客将 Agent Framework 劫持并发布 1.26.1 版本，其中的恶意软件会在 Python 启动时自动执行，即使运行环境并未导入 Age,,https://www.ithome.com/1/029/700.htm,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+5,谷歌与蓝色起源合作，计划 2029 年发射 AI 服务器卫星,谷歌与蓝色起源（Blue Origin）今天达成合作，计划将 AI 服务器卫星送上太空。蓝色起源的新格伦火箭将于 2029 年第一季度发射带有谷歌 TPU（张量处理单元）的卫星，算力大致相当于一整个数据中心机架。今年 10 月，谷歌已部署了首颗 AI 服务器卫星，并成功启动了卫星搭载的 TPU。 IT 之家 1 小时前,,https://www.ithome.com/1/029/695.htm,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+6,港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力,香港中文大学（深圳）与微软研究院联合提出了名为 ConvexLLM 的多模态统一建模新架构，为语音与语言的融合提供了全新的技术思路。传统语音交互链路往往需要先将语音转写为文本，再交由大语言模型处理，这不仅可能带来信息损耗，也增加了中间环节的延迟。通过这种方式，声音信号无需先转写为文本，便能够直接接入并调用大模型在预训练阶段积累的庞大知识与推理能力，从而实现语音与语言的统一建模。 AIBase 9 小时前,,https://www.aibase.com/zh/news/32409,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+7,黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型,刚刚，黄仁勋每天都在用的「AI 导师」Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。Perplexity 这次直接改了模型处理判断任务的方式：同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾,,https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+8,阿里财报：国际站 GMV 持续双位数增长，Accio 付费企业数翻倍,阿里全球 B2B 业务呈现跨境出海与 AI 商业化双线高速增长：阿里国际站 GMV 持续保持双位数增长，全球电商 AI 工作台 Accio 付费企业数达到 10 万，较上一季度增长 100%。从欧美市场持续增长，到 Accio 付费企业数翻番，阿里全球 B2B 业务正在展现持续活力：一端激发全球采购需求，为国内商家寻找增量。 雷锋网 4 小时前,,https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+9,快手 CEO 程一笑：Kling 4.0 模型已进入游戏和具身智能等场景,快手 CEO 程一笑今日在业绩会中透露，Kling 4.0 模型上线后可灵流水实现提升，当前收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARPPU（每付费用户平均收益）均保持增长。程一笑透露，Kling 4.0 目前已进入影视、短剧及漫剧制作、广告营销、创意设计、游戏和具身智能等场景，可用于动态分镜、镜头预演、风格化内容制作、商品展示及游戏设定可视化等任务。快手 Kling 4.0 模型采用「理解生成统一」架构，首次支持原生 8K 分辨率，支持单,,https://www.ithome.com/1/029/686.htm,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02
+10,对话西湖大学于开丞：通用语言模型再强，物理世界也「等不起」,2024 年，在大语言模型最锣鼓喧天的那一年，他在 ECCV 的挑战赛上用世界模型 pk 掉语言模型，拿下「全球冠军」，先一步论证了世界模型路线的可行性。于开丞表示：语言模型很火的时候，很多人会想是不是该转去做语言模型；研究中心的名字我们特意取做「西湖世界模型研究中心」，希望世界模型的研究以西湖大学作为起点，后续吸纳更多的人加入。 雷锋网 7 小时前,,https://www.leiphone.com/category/academic/6GxO2SjZl8UPTGhH.html,,Readhub,AI 资讯,ai,digest,,2026-11-19 23:59:02

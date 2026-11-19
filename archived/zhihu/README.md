@@ -1,6 +1,6 @@
 # 知乎热榜
 
-> 更新时间：2026-11-19 14:08:09
+> 更新时间：2026-11-19 23:57:50
 
 ## 知乎热榜
 
@@ -58,23 +58,26 @@
 ## 知乎热搜
 
 1. [GTA6](https://www.zhihu.com/search?q=GTA6)
-2. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
-3. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
-4. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-5. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-6. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%85%A8%E6%96%B0%E4%B8%8A%E7%BA%BF)
-7. [知乎智能搜索skill](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2skill)
-8. [知乎智能搜索](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2)
-9. [星舰飞船首次成功回收](https://www.zhihu.com/search?q=%E6%98%9F%E8%88%B0%E9%A3%9E%E8%88%B9%E9%A6%96%E6%AC%A1%E6%88%90%E5%8A%9F%E5%9B%9E%E6%94%B6)
-10. [BLG 3-1 GEN](https://www.zhihu.com/search?q=BLG%203-1%20GEN)
-11. [BLG 夺冠](https://www.zhihu.com/search?q=BLG%20%E5%A4%BA%E5%86%A0)
-12. [GEN 亚军](https://www.zhihu.com/search?q=GEN%20%E4%BA%9A%E5%86%9B)
-13. [业内称不建议买500元以下羽绒服](https://www.zhihu.com/search?q=%E4%B8%9A%E5%86%85%E7%A7%B0%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B9%B0500%E5%85%83%E4%BB%A5%E4%B8%8B%E7%BE%BD%E7%BB%92%E6%9C%8D)
-14. [多地医院陆续关停部分院区急诊](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%8C%BB%E9%99%A2%E9%99%86%E7%BB%AD%E5%85%B3%E5%81%9C%E9%83%A8%E5%88%86%E9%99%A2%E5%8C%BA%E6%80%A5%E8%AF%8A)
-15. [网友曝珊瑚绒羊羔绒多为塑料](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E6%9B%9D%E7%8F%8A%E7%91%9A%E7%BB%92%E7%BE%8A%E7%BE%94%E7%BB%92%E5%A4%9A%E4%B8%BA%E5%A1%91%E6%96%99)
-16. [DeepSeek调整对话上限长度](https://www.zhihu.com/search?q=DeepSeek%E8%B0%83%E6%95%B4%E5%AF%B9%E8%AF%9D%E4%B8%8A%E9%99%90%E9%95%BF%E5%BA%A6)
-17. [Bin与Viper合约到期](https://www.zhihu.com/search?q=Bin%E4%B8%8EViper%E5%90%88%E7%BA%A6%E5%88%B0%E6%9C%9F)
-18. [传腾讯内部空前危机感](https://www.zhihu.com/search?q=%E4%BC%A0%E8%85%BE%E8%AE%AF%E5%86%85%E9%83%A8%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA%E6%84%9F)
-19. [许飞厉娜写下「不负少年不负卿」](https://www.zhihu.com/search?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%86%99%E4%B8%8B%E3%80%8C%E4%B8%8D%E8%B4%9F%E5%B0%91%E5%B9%B4%E4%B8%8D%E8%B4%9F%E5%8D%BF%E3%80%8D)
-20. [多篇医学SCI被曝AI生成图片](https://www.zhihu.com/search?q=%E5%A4%9A%E7%AF%87%E5%8C%BB%E5%AD%A6SCI%E8%A2%AB%E6%9B%9DAI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87)
-21. [17家车企被点名查账](https://www.zhihu.com/search?q=17%E5%AE%B6%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%82%B9%E5%90%8D%E6%9F%A5%E8%B4%A6)
+2. [gen官宣四人离队](https://www.zhihu.com/search?q=gen%E5%AE%98%E5%AE%A3%E5%9B%9B%E4%BA%BA%E7%A6%BB%E9%98%9F)
+3. [声生不息](https://www.zhihu.com/search?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF)
+4. [英伟达](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE)
+5. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
+6. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
+7. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
+8. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+9. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+10. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%85%A8%E6%96%B0%E4%B8%8A%E7%BA%BF)
+11. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO)
+12. [知乎智能搜索skill](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2skill)
+13. [知乎智能搜索](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2)
+14. [BLG 3-1 GEN](https://www.zhihu.com/search?q=BLG%203-1%20GEN)
+15. [BLG 夺冠](https://www.zhihu.com/search?q=BLG%20%E5%A4%BA%E5%86%A0)
+16. [GEN 亚军](https://www.zhihu.com/search?q=GEN%20%E4%BA%9A%E5%86%9B)
+17. [网友曝珊瑚绒羊羔绒多为塑料](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E6%9B%9D%E7%8F%8A%E7%91%9A%E7%BB%92%E7%BE%8A%E7%BE%94%E7%BB%92%E5%A4%9A%E4%B8%BA%E5%A1%91%E6%96%99)
+18. [DeepSeek调整对话上限长度](https://www.zhihu.com/search?q=DeepSeek%E8%B0%83%E6%95%B4%E5%AF%B9%E8%AF%9D%E4%B8%8A%E9%99%90%E9%95%BF%E5%BA%A6)
+19. [圣枪哥未上场无缘冠军皮肤](https://www.zhihu.com/search?q=%E5%9C%A3%E6%9E%AA%E5%93%A5%E6%9C%AA%E4%B8%8A%E5%9C%BA%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4)
+20. [Bin与Viper合约到期](https://www.zhihu.com/search?q=Bin%E4%B8%8EViper%E5%90%88%E7%BA%A6%E5%88%B0%E6%9C%9F)
+21. [田曦薇遭私生推挤倒地](https://www.zhihu.com/search?q=%E7%94%B0%E6%9B%A6%E8%96%87%E9%81%AD%E7%A7%81%E7%94%9F%E6%8E%A8%E6%8C%A4%E5%80%92%E5%9C%B0)
+22. [传腾讯内部空前危机感](https://www.zhihu.com/search?q=%E4%BC%A0%E8%85%BE%E8%AE%AF%E5%86%85%E9%83%A8%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA%E6%84%9F)
+23. [许飞厉娜写下「不负少年不负卿」](https://www.zhihu.com/search?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%86%99%E4%B8%8B%E3%80%8C%E4%B8%8D%E8%B4%9F%E5%B0%91%E5%B9%B4%E4%B8%8D%E8%B4%9F%E5%8D%BF%E3%80%8D)
+24. [17家车企被点名查账](https://www.zhihu.com/search?q=17%E5%AE%B6%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%82%B9%E5%90%8D%E6%9F%A5%E8%B4%A6)
