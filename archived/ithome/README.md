@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-20 11:57:10
+> 更新时间：2026-11-20 20:36:42
 
 ## 日榜
 
-1. [苹果手机能用安卓 App 了：App Store 上架安卓虚拟机，iPhone、iPad 都能装](https://www.ithome.com/1/029/644.htm)
-2. [黄仁勋女儿现身全员会、看起来“状态不错”，英伟达要提前发钱](https://www.ithome.com/1/029/526.htm)
-3. [华为希望苹果调整 iOS 蓝牙配对机制，解决新旧版本配对兼容问题](https://www.ithome.com/1/029/273.htm)
-4. [马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量](https://www.ithome.com/1/029/247.htm)
-5. [27.99 万元起：比亚迪方程豹钛 9 上市，定位大六座方盒子](https://www.ithome.com/1/029/684.htm)
-6. [1 厘米标尺竟有 12 个刻度，中南大学通报附属医院 AI 论文争议、确认存在学术不端行为](https://www.ithome.com/1/029/270.htm)
-7. [网易 UU 远程官宣推出 VIP 和 SVIP 服务，基础远控将持续免费无广告](https://www.ithome.com/1/029/264.htm)
-8. [消息称苹果 iPhone 18/18e/Air 2 明年 3 月发布，屏幕最早下月量产](https://www.ithome.com/1/029/274.htm)
-9. [方向盘也能折！方程豹钛 9 搭载比亚迪折叠智舱上市，全栈自研、全球首搭量产](https://www.ithome.com/1/029/679.htm)
-10. [Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元](https://www.ithome.com/1/029/708.htm)
-11. [曝华为 Mate 90 Air 新机支持三摄全焦段红枫影像，“6 开头”厚度刷纪录](https://www.ithome.com/1/029/517.htm)
-12. [“三星手机系统史上最大变革”：One UI 10 首张横幅曝光，玻璃质感、模糊渐变](https://www.ithome.com/1/029/271.htm)
+1. [5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布](https://www.ithome.com/1/030/120.htm)
+2. [27.99 万元起：比亚迪方程豹钛 9 上市，定位大六座方盒子](https://www.ithome.com/1/029/684.htm)
+3. [苹果 20 周年款 iPhone 渲染图曝光：整机如一块玻璃，四曲面带来“无边框”观感](https://www.ithome.com/1/029/868.htm)
+4. [华为余承东：L3 自动驾驶来了以后开车是可以睡觉的，别睡死过去就行](https://www.ithome.com/1/030/048.htm)
+5. [方向盘也能折！方程豹钛 9 搭载比亚迪折叠智舱上市，全栈自研、全球首搭量产](https://www.ithome.com/1/029/679.htm)
+6. [华为星芒 OSTA O1 Pro 配置汇总：麒麟 9030S 处理器、2 亿 RYYB 主摄，今日发布](https://www.ithome.com/1/029/873.htm)
+7. [4999 元起 18:08 开抢：华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机首发加赠 1588 元无忧礼包](https://www.ithome.com/1/030/116.htm)
+8. [Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元](https://www.ithome.com/1/029/708.htm)
+9. [“史上最大 IPO”：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元](https://www.ithome.com/1/029/748.htm)
+10. [江淮汽车注册“帝境”商标，消息称与江淮、华为、玛莎拉蒂未来合作关系密切](https://www.ithome.com/1/029/697.htm)
+11. [政府补贴 1000 元：iPhone 18 Pro Max 京东 10999 → 9745 元随时结束](https://www.ithome.com/1/029/685.htm)
+12. [支持华为 OSTA 星芒 O1 Pro 手机满速充电：华为 66W 冰糖全能充电器 89 元国补发车](https://www.ithome.com/1/030/126.htm)

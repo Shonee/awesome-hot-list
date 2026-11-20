@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-20 11:56:30
+> 更新时间：2026-11-20 20:36:15
 
 ## 最新帖子
 
-1. [19. ArkTS逻辑运算符实战：&& || ! 一次讲透](https://www.cnblogs.com/halfcode/p/23728649)
-2. [Day 25：审计轨迹与变更的前后值](https://www.cnblogs.com/jeff-tsai/p/23728641/day-25-audit-trail)
-3. [Kynvio: 新一代办公助手](https://www.cnblogs.com/mengrennwpu/p/23728038)
-4. [从单点监测到数字孪生：横泉水库安全监测数字化管控平台落地](https://www.cnblogs.com/yanboo/p/23727998)
-5. [手把手教你：loss 不降反升，先别怀疑模型结构｜AI工程师踩坑实录·第12篇](https://www.cnblogs.com/dawudexiaowu/p/23727762)
-6. [用 AI 从零搭一个全栈聊天应用：萤火虫 Firefly 的架构、落地与踩坑](https://www.cnblogs.com/tynam/p/23727636)
-7. [AI 三分钟写完的代码，你凭什么敢直接上线？](https://www.cnblogs.com/codigger/p/23727385)
-8. [为什么 MySQL 偏偏选了 B+ 树？](https://www.cnblogs.com/leikooo/p/23726844)
-9. [糟糕，一不小心成了嵌入式的周扒皮](https://www.cnblogs.com/flyfire-cn/p/23703627)
-10. [七条语义，十六条变异：一个 Windows Job 持有者的护栏体检](https://www.cnblogs.com/shanyou/p/23726584)
-11. [太强了！三周冲到8.6k+ Star，免Root 免电脑，Mika 在后台替你操作所有App](https://www.cnblogs.com/jinjiangongzuoshi/p/23726521)
-12. [PHP 8.6 正式发布](https://www.cnblogs.com/catchadmin/p/23726382)
-13. [Redis 核心机制 | 事务：执行序列的原子性、乐观锁与 8.x 条件写](https://www.cnblogs.com/hugogoos/p/23723004)
-14. [本体（Ontology）是什么？在 AI 中，本体的作用到底是什么？.md](https://www.cnblogs.com/jiujuan/p/23725647)
-15. [又坐了一下午？Tick Rest，一款免费开源的 Mac 休息提醒工具](https://www.cnblogs.com/myvin/p/23723655)
-16. [【轻量化复刻大模型 / KIMI K3】Optimizer 交互式演示](https://www.cnblogs.com/rossiXYZ/p/23620357)
-17. [二十多个轮子，先交付最吃重的那个：Vane.NET 1.0.0-preview.1 发布](https://www.cnblogs.com/netcasewqs/p/23720752)
-18. [美国自然历史博物馆 x JuiceFS：PB 级科研存储实践](https://www.cnblogs.com/JuiceData/p/23720628)
-19. [MySQL PITR（时间点恢复）实施步骤与命令](https://www.cnblogs.com/liuziyi1/p/23720266)
-20. [Agent 小知识｜黑板架构：多个 Agent 如何协作解决复杂问题？](https://www.cnblogs.com/Qiniu-developer/p/23719835)
+1. [姿态是怎么算出来的：互补解算、四元数和欧拉角](https://www.cnblogs.com/zw-awa/p/23735000)
+2. [单模型分层与视频自动生成](https://www.cnblogs.com/znlgis/p/23734333)
+3. [AI 长篇创作工具选型：工作流对照与自测清单](https://www.cnblogs.com/chuck0415/p/23734235)
+4. [Oracle 数据库实施基于时间点恢复（PITR）步骤及要点](https://www.cnblogs.com/liuziyi1/p/23733628)
+5. [TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL](https://www.cnblogs.com/huaweiyun/p/23733520)
+6. [两条 Pipe、五个命门：Vane.NET 内核为什么长这样](https://www.cnblogs.com/netcasewqs/p/23726317)
+7. [办公妙招：CHM已死，但离线手册的需求还在](https://www.cnblogs.com/tyysoft/p/23732947)
+8. [Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码](https://www.cnblogs.com/SheepDog/p/23732720)
+9. [Web版屏幕分享同时分享声卡声音在不同PC系统上的对比（Windows、信创Linux、HarmonyOS）](https://www.cnblogs.com/zhuweisky/p/23732490)
+10. [浅谈高性能消息中间件kafka---kafka的基础结构](https://www.cnblogs.com/jilodream/p/23731139)
+11. [天翼云TeleDB最佳实践：某大型企业平滑去O，国产化替代一步到位](https://www.cnblogs.com/developer-tianyiyun/p/23730980)
+12. [19. ArkTS逻辑运算符实战：&& || ! 一次讲透](https://www.cnblogs.com/halfcode/p/23728649)
+13. [Day 25：审计轨迹与变更的前后值](https://www.cnblogs.com/jeff-tsai/p/23728641/day-25-audit-trail)
+14. [手把手教你：loss 不降反升，先别怀疑模型结构｜AI工程师踩坑实录·第12篇](https://www.cnblogs.com/dawudexiaowu/p/23727762)
+15. [用 AI 从零搭一个全栈聊天应用：萤火虫 Firefly 的架构、落地与踩坑](https://www.cnblogs.com/tynam/p/23727636)
+16. [AI 三分钟写完的代码，你凭什么敢直接上线？](https://www.cnblogs.com/codigger/p/23727385)
+17. [为什么 MySQL 偏偏选了 B+ 树？](https://www.cnblogs.com/leikooo/p/23726844)
+18. [糟糕，一不小心成了嵌入式的周扒皮](https://www.cnblogs.com/flyfire-cn/p/23703627)
+19. [七条语义，十六条变异：一个 Windows Job 持有者的护栏体检](https://www.cnblogs.com/shanyou/p/23726584)
+20. [太强了！三周冲到8.6k+ Star，免Root 免电脑，Mika 在后台替你操作所有App](https://www.cnblogs.com/jinjiangongzuoshi/p/23726521)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [太狠了！GitHub 5.6 万 Star，让 AI 直接操控 Chrome 调试](https://www.cnblogs.com/jinjiangongzuoshi/p/23714463)
-2. [NGINX 两处漏洞可导致未经身份验证的远程代码执行（CVE-2026-123633 和 CVE-2026-123007）](https://www.cnblogs.com/catchadmin/p/23714323)
-3. [128GB 让 “本地跑大模型” 成为日用品，但分水岭不在硬件](https://www.cnblogs.com/codigger/p/23714450)
-4. [二十多个轮子，先交付最吃重的那个：Vane.NET 1.0.0-preview.1 发布](https://www.cnblogs.com/netcasewqs/p/23720752)
-5. [手搓 AI Agent 09：接外部世界——MCP 实战](https://www.cnblogs.com/MrHuo/p/23705636/agent-from-scratch-09)
+2. [二十多个轮子，先交付最吃重的那个：Vane.NET 1.0.0-preview.1 发布](https://www.cnblogs.com/netcasewqs/p/23720752)
+3. [NGINX 两处漏洞可导致未经身份验证的远程代码执行（CVE-2026-123633 和 CVE-2026-123007）](https://www.cnblogs.com/catchadmin/p/23714323)
+4. [128GB 让 “本地跑大模型” 成为日用品，但分水岭不在硬件](https://www.cnblogs.com/codigger/p/23714450)
+5. [AI 三分钟写完的代码，你凭什么敢直接上线？](https://www.cnblogs.com/codigger/p/23727385)
 6. [C# winform卡死问题分析1——线程池子线程创建句柄](https://www.cnblogs.com/qwqwQAQ/p/23715343)
