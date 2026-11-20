@@ -1,18 +1,18 @@
 # 博客园热榜
 
-> 更新时间：2026-11-20 20:36:15
+> 更新时间：2026-11-21 04:56:30
 
 ## 最新帖子
 
-1. [姿态是怎么算出来的：互补解算、四元数和欧拉角](https://www.cnblogs.com/zw-awa/p/23735000)
-2. [单模型分层与视频自动生成](https://www.cnblogs.com/znlgis/p/23734333)
-3. [AI 长篇创作工具选型：工作流对照与自测清单](https://www.cnblogs.com/chuck0415/p/23734235)
-4. [Oracle 数据库实施基于时间点恢复（PITR）步骤及要点](https://www.cnblogs.com/liuziyi1/p/23733628)
-5. [TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL](https://www.cnblogs.com/huaweiyun/p/23733520)
-6. [两条 Pipe、五个命门：Vane.NET 内核为什么长这样](https://www.cnblogs.com/netcasewqs/p/23726317)
-7. [办公妙招：CHM已死，但离线手册的需求还在](https://www.cnblogs.com/tyysoft/p/23732947)
-8. [Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码](https://www.cnblogs.com/SheepDog/p/23732720)
-9. [Web版屏幕分享同时分享声卡声音在不同PC系统上的对比（Windows、信创Linux、HarmonyOS）](https://www.cnblogs.com/zhuweisky/p/23732490)
+1. [源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？](https://www.cnblogs.com/anye1991/p/23735610)
+2. [把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解](https://www.cnblogs.com/ucfar/p/23735400)
+3. [【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token)](https://www.cnblogs.com/lulight/p/23734982)
+4. [姿态是怎么算出来的：互补解算、四元数和欧拉角](https://www.cnblogs.com/zw-awa/p/23735000)
+5. [单模型分层与视频自动生成](https://www.cnblogs.com/znlgis/p/23734333)
+6. [TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL](https://www.cnblogs.com/huaweiyun/p/23733520)
+7. [两条 Pipe、五个命门：Vane.NET 内核为什么长这样](https://www.cnblogs.com/netcasewqs/p/23726317)
+8. [办公妙招：CHM已死，但离线手册的需求还在](https://www.cnblogs.com/tyysoft/p/23732947)
+9. [Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码](https://www.cnblogs.com/SheepDog/p/23732720)
 10. [浅谈高性能消息中间件kafka---kafka的基础结构](https://www.cnblogs.com/jilodream/p/23731139)
 11. [天翼云TeleDB最佳实践：某大型企业平滑去O，国产化替代一步到位](https://www.cnblogs.com/developer-tianyiyun/p/23730980)
 12. [19. ArkTS逻辑运算符实战：&& || ! 一次讲透](https://www.cnblogs.com/halfcode/p/23728649)
@@ -55,4 +55,4 @@
 3. [NGINX 两处漏洞可导致未经身份验证的远程代码执行（CVE-2026-123633 和 CVE-2026-123007）](https://www.cnblogs.com/catchadmin/p/23714323)
 4. [128GB 让 “本地跑大模型” 成为日用品，但分水岭不在硬件](https://www.cnblogs.com/codigger/p/23714450)
 5. [AI 三分钟写完的代码，你凭什么敢直接上线？](https://www.cnblogs.com/codigger/p/23727385)
-6. [C# winform卡死问题分析1——线程池子线程创建句柄](https://www.cnblogs.com/qwqwQAQ/p/23715343)
+6. [用 AI 从零搭一个全栈聊天应用：萤火虫 Firefly 的架构、落地与踩坑](https://www.cnblogs.com/tynam/p/23727636)
