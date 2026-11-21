@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-21 04:56:30
+> 更新时间：2026-11-21 10:00:10
 
 ## 最新帖子
 
-1. [源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？](https://www.cnblogs.com/anye1991/p/23735610)
-2. [把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解](https://www.cnblogs.com/ucfar/p/23735400)
-3. [【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token)](https://www.cnblogs.com/lulight/p/23734982)
-4. [姿态是怎么算出来的：互补解算、四元数和欧拉角](https://www.cnblogs.com/zw-awa/p/23735000)
-5. [单模型分层与视频自动生成](https://www.cnblogs.com/znlgis/p/23734333)
-6. [TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL](https://www.cnblogs.com/huaweiyun/p/23733520)
-7. [两条 Pipe、五个命门：Vane.NET 内核为什么长这样](https://www.cnblogs.com/netcasewqs/p/23726317)
-8. [办公妙招：CHM已死，但离线手册的需求还在](https://www.cnblogs.com/tyysoft/p/23732947)
-9. [Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码](https://www.cnblogs.com/SheepDog/p/23732720)
-10. [浅谈高性能消息中间件kafka---kafka的基础结构](https://www.cnblogs.com/jilodream/p/23731139)
-11. [天翼云TeleDB最佳实践：某大型企业平滑去O，国产化替代一步到位](https://www.cnblogs.com/developer-tianyiyun/p/23730980)
-12. [19. ArkTS逻辑运算符实战：&& || ! 一次讲透](https://www.cnblogs.com/halfcode/p/23728649)
-13. [Day 25：审计轨迹与变更的前后值](https://www.cnblogs.com/jeff-tsai/p/23728641/day-25-audit-trail)
-14. [手把手教你：loss 不降反升，先别怀疑模型结构｜AI工程师踩坑实录·第12篇](https://www.cnblogs.com/dawudexiaowu/p/23727762)
-15. [用 AI 从零搭一个全栈聊天应用：萤火虫 Firefly 的架构、落地与踩坑](https://www.cnblogs.com/tynam/p/23727636)
-16. [AI 三分钟写完的代码，你凭什么敢直接上线？](https://www.cnblogs.com/codigger/p/23727385)
-17. [为什么 MySQL 偏偏选了 B+ 树？](https://www.cnblogs.com/leikooo/p/23726844)
-18. [糟糕，一不小心成了嵌入式的周扒皮](https://www.cnblogs.com/flyfire-cn/p/23703627)
-19. [七条语义，十六条变异：一个 Windows Job 持有者的护栏体检](https://www.cnblogs.com/shanyou/p/23726584)
-20. [太强了！三周冲到8.6k+ Star，免Root 免电脑，Mika 在后台替你操作所有App](https://www.cnblogs.com/jinjiangongzuoshi/p/23726521)
+1. [Day 26：数值语义、多币种与计量单位](https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics)
+2. [源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？](https://www.cnblogs.com/anye1991/p/23735610)
+3. [把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解](https://www.cnblogs.com/ucfar/p/23735400)
+4. [【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token)](https://www.cnblogs.com/lulight/p/23734982)
+5. [姿态是怎么算出来的：互补解算、四元数和欧拉角](https://www.cnblogs.com/zw-awa/p/23735000)
+6. [单模型分层与视频自动生成](https://www.cnblogs.com/znlgis/p/23734333)
+7. [TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL](https://www.cnblogs.com/huaweiyun/p/23733520)
+8. [两条 Pipe、五个命门：Vane.NET 内核为什么长这样](https://www.cnblogs.com/netcasewqs/p/23726317)
+9. [办公妙招：CHM已死，但离线手册的需求还在](https://www.cnblogs.com/tyysoft/p/23732947)
+10. [Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码](https://www.cnblogs.com/SheepDog/p/23732720)
+11. [浅谈高性能消息中间件kafka---kafka的基础结构](https://www.cnblogs.com/jilodream/p/23731139)
+12. [天翼云TeleDB最佳实践：某大型企业平滑去O，国产化替代一步到位](https://www.cnblogs.com/developer-tianyiyun/p/23730980)
+13. [19. ArkTS逻辑运算符实战：&& || ! 一次讲透](https://www.cnblogs.com/halfcode/p/23728649)
+14. [Day 25：审计轨迹与变更的前后值](https://www.cnblogs.com/jeff-tsai/p/23728641/day-25-audit-trail)
+15. [手把手教你：loss 不降反升，先别怀疑模型结构｜AI工程师踩坑实录·第12篇](https://www.cnblogs.com/dawudexiaowu/p/23727762)
+16. [用 AI 从零搭一个全栈聊天应用：萤火虫 Firefly 的架构、落地与踩坑](https://www.cnblogs.com/tynam/p/23727636)
+17. [AI 三分钟写完的代码，你凭什么敢直接上线？](https://www.cnblogs.com/codigger/p/23727385)
+18. [为什么 MySQL 偏偏选了 B+ 树？](https://www.cnblogs.com/leikooo/p/23726844)
+19. [糟糕，一不小心成了嵌入式的周扒皮](https://www.cnblogs.com/flyfire-cn/p/23703627)
+20. [七条语义，十六条变异：一个 Windows Job 持有者的护栏体检](https://www.cnblogs.com/shanyou/p/23726584)
 
 ## 精华帖子
 
