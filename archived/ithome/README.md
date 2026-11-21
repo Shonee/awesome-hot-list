@@ -1,18 +1,18 @@
 # IT之家热榜
 
-> 更新时间：2026-11-21 17:37:17
+> 更新时间：2026-11-22 01:09:29
 
 ## 日榜
 
 1. [华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称“我们选择创新优先”](https://www.ithome.com/1/030/311.htm)
-2. [DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权](https://www.ithome.com/1/030/199.htm)
-3. [三年销售目标 700 亿，京东与华为 OSTA 星芒达成战略合作](https://www.ithome.com/1/030/227.htm)
-4. [“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家](https://www.ithome.com/1/030/308.htm)
-5. [全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图](https://www.ithome.com/1/030/334.htm)
-6. [独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能](https://www.ithome.com/1/030/284.htm)
-7. [华为余承东：享界 V8 上市 2 小时，大定突破 2216 台](https://www.ithome.com/1/030/229.htm)
-8. [黄仁勋下台后有人挖出英伟达 20 年前员工投诉记录，指控其威胁下属、发表色情言论](https://www.ithome.com/1/030/316.htm)
-9. [华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期](https://www.ithome.com/1/030/282.htm)
-10. [英伟达董事会为何对黄仁勋态度转变？婚外情无关紧要，核心问题在于诚信](https://www.ithome.com/1/030/325.htm)
-11. [腾讯 WorkBuddy 上线电脑操控能力：能识别当前页面，进行点击、输入、滚动等操作](https://www.ithome.com/1/030/222.htm)
-12. [AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明](https://www.ithome.com/1/030/278.htm)
+2. [“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家](https://www.ithome.com/1/030/308.htm)
+3. [全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图](https://www.ithome.com/1/030/334.htm)
+4. [消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm](https://www.ithome.com/1/030/439.htm)
+5. [独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能](https://www.ithome.com/1/030/284.htm)
+6. [黄仁勋下台后有人挖出英伟达 20 年前员工投诉记录，指控其威胁下属、发表色情言论](https://www.ithome.com/1/030/316.htm)
+7. [英伟达董事会为何对黄仁勋态度转变？婚外情无关紧要，核心问题在于诚信](https://www.ithome.com/1/030/325.htm)
+8. [华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期](https://www.ithome.com/1/030/282.htm)
+9. [消息称华为星芒品牌已在内部酝酿约三年，将承担更多前沿技术的率先应用任务](https://www.ithome.com/1/030/353.htm)
+10. [黄仁勋没有的“护身符”：Anthropic 创始人手握 50.1% 投票权建立“反夺权”机制](https://www.ithome.com/1/030/348.htm)
+11. [网传零跑 A10 后备箱被几箱啤酒压穿？官方回应系下层独立储物盒受损，非底板或整车承载结构损坏](https://www.ithome.com/1/030/283.htm)
+12. [《GTA 6》卖爆了：预售超 2400 万份，一家实体游戏店却只卖出 5 份](https://www.ithome.com/1/030/368.htm)

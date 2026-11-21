@@ -1,21 +1,21 @@
 # 游民星空热榜
 
-> 更新时间：2026-11-21 17:37:16
+> 更新时间：2026-11-22 01:09:28
 
 ## 热点资讯排行
 
-1. [《GTA6》高跟鞋俱乐部游戏实机画面首曝](https://www.gamersky.com/news/202611/2249035.shtml)
-2. [《GTA6》互动舞蹈实机演示！](https://www.gamersky.com/news/202611/2249259.shtml)
-3. [GTA6玩家想攻略美女却碰壁!榆木脑袋杰森只顾修水管](https://www.gamersky.com/news/202611/2249127.shtml)
-4. [推上全是《GTA6》限制级视频：杰森露西娅惨被二创](https://www.gamersky.com/news/202611/2247003.shtml)
-5. [玩《GTA6》小心热情女房客！修水管竟发现手指头？](https://www.gamersky.com/news/202611/2249819.shtml)
-6. [《GTA6》男主只能和女主发生亲密关系 解锁条件方法曝光](https://www.gamersky.com/news/202611/2249807.shtml)
-7. [《GTA6》金发美女想和主角开一局！身份非常恐怖](https://www.gamersky.com/news/202611/2249270.shtml)
-8. [GTA6女主最胖形态演示](https://www.gamersky.com/news/202611/2250426.shtml)
-9. [《GTA6》曼迪演员公开 角色人气超高](https://www.gamersky.com/news/202611/2249832.shtml)
-10. [GTA6日版确认和谐！杰森洗澡穿丁字裤 国际版没事](https://www.gamersky.com/news/202611/2249152.shtml)
-11. [《GTA6》女主能点性感男模！画面太劲爆](https://www.gamersky.com/news/202611/2249236.shtml)
-12. [RTX 5090突然恢复供货！价格暴跌 高位接盘侠慌了？](https://www.gamersky.com/news/202611/2246726.shtml)
-13. [Gen突然官宣四人离队！教练|选手全都踢 丢冠仅48h](https://www.gamersky.com/news/202611/2247574.shtml)
-14. [英伟达宣布停止向中国销售H200芯片：此前计划取消](https://www.gamersky.com/hardware/202611/2248536.shtml)
-15. [《GTA6》媒体评分解禁！M站99分R星再创巅峰](https://www.gamersky.com/news/202611/2248853.shtml)
+1. [BLG 3-1 GEN加冕S16总冠军！一穿四LCK 历史最强](https://www.gamersky.com/news/202611/2246600.shtml)
+2. [拳头官宣《英雄联盟：曙光》！2027年1月情报公开](https://www.gamersky.com/news/202611/2246602.shtml)
+3. [百大UP老戴直播《GTA6》被封！刚播了20分钟](https://www.gamersky.com/news/202611/2248959.shtml)
+4. [BLG一穿四LCK夺冠！B站同庆送所有人大会员](https://www.gamersky.com/news/202611/2246605.shtml)
+5. [恐怖新游死一次就永久禁玩！中途关了也算死](https://www.gamersky.com/news/202611/2247191.shtml)
+6. [《GTA6》港服正式解锁！杨奇：无心劳作 度秒如年](https://www.gamersky.com/news/202611/2249107.shtml)
+7. [疑似《GTA6》新截图泄露！游戏内经典吉祥物](https://www.gamersky.com/news/202611/2246888.shtml)
+8. [BLG夺冠庆功宴！B站CEO陈睿和大家一起吃火锅](https://www.gamersky.com/news/202611/2246725.shtml)
+9. [B站百大游戏UP回应《影之刃零》节奏:别把游戏当你爹妈一样](https://www.gamersky.com/news/202611/2246674.shtml)
+10. [《GTA6》30帧遭多位知名主播吐槽 画面被形容像PPT](https://www.gamersky.com/news/202611/2249104.shtml)
+11. [从男孩等到大叔！玩家时隔18年重拍《GTA》同款照片](https://www.gamersky.com/news/202611/2246702.shtml)
+12. [《GTA6》世界首白诞生！展现惊人效率](https://www.gamersky.com/news/202611/2248968.shtml)
+13. [《影之刃零》致敬《生化危机》名场面 童年阴影](https://www.gamersky.com/news/202611/2247277.shtml)
+14. [BLG夺冠!B站送所有人大会员细则：可用7天限领一次](https://www.gamersky.com/news/202611/2246648.shtml)
+15. [IGN 10分！《GTA6》媒体评分出炉 真神降临](https://www.gamersky.com/news/202611/2248890.shtml)

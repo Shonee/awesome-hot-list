@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-21 17:36:56
+> 更新时间：2026-11-22 01:08:23
 
 ## 最新帖子
 
-1. [在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动](https://www.cnblogs.com/Oliver2001/p/23740058)
-2. [【轻量化复刻大模型 / KIMI K3】训练模块梳理 & Muon P2P 优化器](https://www.cnblogs.com/rossiXYZ/p/23672095)
-3. [Claude Max 容易被封？两个 Claude Pro 账号实现双开](https://www.cnblogs.com/leikooo/p/23739331)
-4. [20. 重新认识三元运算符，不止简单二选一](https://www.cnblogs.com/halfcode/p/23738353)
-5. [Day 26：数值语义、多币种与计量单位](https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics)
-6. [源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？](https://www.cnblogs.com/anye1991/p/23735610)
-7. [把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解](https://www.cnblogs.com/ucfar/p/23735400)
-8. [【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token)](https://www.cnblogs.com/lulight/p/23734982)
-9. [姿态是怎么算出来的：互补解算、四元数和欧拉角](https://www.cnblogs.com/zw-awa/p/23735000)
-10. [单模型分层与视频自动生成](https://www.cnblogs.com/znlgis/p/23734333)
-11. [TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL](https://www.cnblogs.com/huaweiyun/p/23733520)
-12. [二十多个轮子，最吃重的那个凭什么扛住：两条 Pipe、五个命门，[Vane.NET]内核拆解](https://www.cnblogs.com/netcasewqs/p/23726317)
-13. [办公妙招：CHM已死，但离线手册的需求还在](https://www.cnblogs.com/tyysoft/p/23732947)
-14. [Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码](https://www.cnblogs.com/SheepDog/p/23732720)
-15. [浅谈高性能消息中间件kafka---kafka的基础结构](https://www.cnblogs.com/jilodream/p/23731139)
-16. [天翼云TeleDB最佳实践：某大型企业平滑去O，国产化替代一步到位](https://www.cnblogs.com/developer-tianyiyun/p/23730980)
-17. [19. ArkTS逻辑运算符实战：&& || ! 一次讲透](https://www.cnblogs.com/halfcode/p/23728649)
-18. [Day 25：审计轨迹与变更的前后值](https://www.cnblogs.com/jeff-tsai/p/23728641/day-25-audit-trail)
-19. [手把手教你：loss 不降反升，先别怀疑模型结构｜AI工程师踩坑实录·第12篇](https://www.cnblogs.com/dawudexiaowu/p/23727762)
-20. [用 AI 从零搭一个全栈聊天应用：萤火虫 Firefly 的架构、落地与踩坑](https://www.cnblogs.com/tynam/p/23727636)
+1. [为什么PPO难以做出顶级棋类引擎](https://www.cnblogs.com/strawberryPudding/p/23741963)
+2. [云台是什么？舵机、步进、无刷电机一篇讲透，从控制原理到选型避坑](https://www.cnblogs.com/zw-awa/p/23741503)
+3. [【Azure Developer】.NET 10 搭建登录认证示例（续）：接入中国区 Microsoft Entra ID](https://www.cnblogs.com/lulight/p/23740679)
+4. [在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动](https://www.cnblogs.com/Oliver2001/p/23740058)
+5. [【轻量化复刻大模型 / KIMI K3】训练模块梳理 & Muon P2P 优化器](https://www.cnblogs.com/rossiXYZ/p/23672095)
+6. [Claude Max 容易被封？两个 Claude Pro 账号实现双开](https://www.cnblogs.com/leikooo/p/23739331)
+7. [20. 重新认识三元运算符，不止简单二选一](https://www.cnblogs.com/halfcode/p/23738353)
+8. [Day 26：数值语义、多币种与计量单位](https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics)
+9. [源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？](https://www.cnblogs.com/anye1991/p/23735610)
+10. [把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解](https://www.cnblogs.com/ucfar/p/23735400)
+11. [【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token)](https://www.cnblogs.com/lulight/p/23734982)
+12. [姿态是怎么算出来的：互补解算、四元数和欧拉角](https://www.cnblogs.com/zw-awa/p/23735000)
+13. [单模型分层与视频自动生成](https://www.cnblogs.com/znlgis/p/23734333)
+14. [TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL](https://www.cnblogs.com/huaweiyun/p/23733520)
+15. [二十多个轮子，最吃重的那个凭什么扛住：两条 Pipe、五个命门，[Vane.NET]内核拆解](https://www.cnblogs.com/netcasewqs/p/23726317)
+16. [办公妙招：CHM已死，但离线手册的需求还在](https://www.cnblogs.com/tyysoft/p/23732947)
+17. [Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码](https://www.cnblogs.com/SheepDog/p/23732720)
+18. [浅谈高性能消息中间件kafka---kafka的基础结构](https://www.cnblogs.com/jilodream/p/23731139)
+19. [天翼云TeleDB最佳实践：某大型企业平滑去O，国产化替代一步到位](https://www.cnblogs.com/developer-tianyiyun/p/23730980)
+20. [19. ArkTS逻辑运算符实战：&& || ! 一次讲透](https://www.cnblogs.com/halfcode/p/23728649)
 
 ## 精华帖子
 
