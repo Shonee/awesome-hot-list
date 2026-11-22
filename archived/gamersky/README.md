@@ -1,0 +1,21 @@
+# 游民星空热榜
+
+> 更新时间：2026-11-23 01:59:16
+
+## 热点资讯排行
+
+1. [黄仁勋离任后首张旗舰显卡！RTX 6090发布时间爆料](https://www.gamersky.com/hardware/202611/2250821.shtml)
+2. [GTA6玩家想攻略美女却碰壁!榆木脑袋杰森只顾修水管](https://www.gamersky.com/news/202611/2249127.shtml)
+3. [《GTA6》大尺度截图别乱发！玩家被封30天](https://www.gamersky.com/news/202611/2250782.shtml)
+4. [《GTA6》女主BUG曝光 特殊触发方法公开](https://www.gamersky.com/news/202611/2250846.shtml)
+5. [肥美！《GTA6》女主最胖体型迷晕玩家：就好这口](https://www.gamersky.com/news/202611/2250916.shtml)
+6. [《GTA6》宣传的天气系统去哪了？20小时没见一滴雨](https://www.gamersky.com/news/202611/2250811.shtml)
+7. [《GTA6》NPC意识到自己在游戏里：这世界没有小孩](https://www.gamersky.com/news/202611/2250809.shtml)
+8. [《GTA6》用户评分仅5.4！真实体验遭质疑](https://www.gamersky.com/news/202611/2250553.shtml)
+9. [《GTA6》墙上画假隧道障眼法！玩家被R星狠狠戏耍](https://www.gamersky.com/news/202611/2250888.shtml)
+10. [《GTA6》技术惊呆顽皮狗新作总监！已超出认知范围](https://www.gamersky.com/news/202611/2250682.shtml)
+11. [《GTA6》葱哥叫嚣要泄露完整游戏！门槛突然骤降 腰斩了](https://www.gamersky.com/news/202611/2250790.shtml)
+12. [知名说唱歌手骂35岁玩GTA6可悲：有空不如去赚钱](https://www.gamersky.com/news/202611/2250833.shtml)
+13. [大洋马是对的!GTA6玩家迷恋上哥特女孩:曼迪有对手了](https://www.gamersky.com/news/202611/2250887.shtml)
+14. [中国盗版蒂法手办案告破 13人被抓 玩家调侃假的更真](https://www.gamersky.com/news/202611/2250482.shtml)
+15. [《GTA6》能和曼迪](https://www.gamersky.com/news/202611/2250903.shtml)
