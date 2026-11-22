@@ -1,6 +1,6 @@
 # 腾讯新闻热榜
 
-> 更新时间：2026-11-23 01:59:09
+> 更新时间：2026-11-23 07:31:12
 
 ## 热点榜
 
@@ -16,11 +16,11 @@
 10. [大雪、暴雪，来了！今天起大降温](https://view.inews.qq.com/a/20261122A0A8IS00)
 11. [湿疹就是过敏引起来的？](https://view.inews.qq.com/a/20261122A05CSX00)
 12. [FE季前测试发生电池爆炸！](https://view.inews.qq.com/a/20261122A05AXI00)
-13. [韦东奕获奖](https://view.inews.qq.com/a/20261122A07Z6K00)
-14. [稻城亚丁景区金刚挑战线将封闭管理：冰冻期安全隐患大及生态修复需要](https://view.inews.qq.com/a/20261122A05L1H00)
+13. [稻城亚丁景区金刚挑战线将封闭管理：冰冻期安全隐患大及生态修复需要](https://view.inews.qq.com/a/20261122A05L1H00)
+14. [韦东奕获奖](https://view.inews.qq.com/a/20261122A07Z6K00)
 15. [美联储主席，陷入两难](https://view.inews.qq.com/a/20261122A0A8M300)
-16. [山东威海出现“海浩”奇观，大海像突然“开了锅在冒烟”，在海里作业的养殖船像在仙境里云游一样](https://view.inews.qq.com/a/20261122A066RE00)
-17. [上观时评 | 多地为何鼓励“一周休2.5天”？](https://view.inews.qq.com/a/20261122A044MX00)
-18. [ATP年终排名确定，半数掉出前十！](https://view.inews.qq.com/a/20261122A0AU1J00)
-19. [法国出动7万名警察和宪兵](https://view.inews.qq.com/a/20261122A070WM00)
-20. [“堵了半小时” ，天津武清区一路段有无人快递车停在路中致道路堵塞，多方回应](https://view.inews.qq.com/a/20261122A0BFD200)
+16. [行贿犯罪嫌疑人刘贤志被遣返回国](https://view.inews.qq.com/a/20261122A0A5CX00)
+17. [“堵了半小时” ，天津武清区一路段有无人快递车停在路中致道路堵塞，多方回应](https://view.inews.qq.com/a/20261122A0BFD200)
+18. [山东威海出现“海浩”奇观，大海像突然“开了锅在冒烟”，在海里作业的养殖船像在仙境里云游一样](https://view.inews.qq.com/a/20261122A066RE00)
+19. [一家三口下楼遛弯看热闹，误打误撞上了央视，女子看剧时懵了：“吃瓜”变客串](https://view.inews.qq.com/a/20261121V08KWV00)
+20. [ATP年终排名确定，半数掉出前十！](https://view.inews.qq.com/a/20261122A0AU1J00)

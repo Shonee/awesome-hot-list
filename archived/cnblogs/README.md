@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-23 01:58:56
+> 更新时间：2026-11-23 07:30:59
 
 ## 最新帖子
 
-1. [CopyOnWriteArrayList 底层原理：从"写时复制"到源码细节](https://www.cnblogs.com/xiongdy2017/p/23747164)
-2. [A2A：跨服务协作与认证授权](https://www.cnblogs.com/haoxiaozhang/p/23746624)
-3. [协调：最后一道人工工序](https://www.cnblogs.com/learnhow/p/23745932)
-4. [【轻量化复刻大模型 / KIMI K3】K3 训练模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23672118)
-5. [Supabase 自托管接 Keycloak：两条路线与六个静默失败](https://www.cnblogs.com/shanyou/p/23745802)
-6. [AI扫漏洞全是误报？这个开源项目靠"真实复现"，让AI漏洞扫描真正靠谱了](https://www.cnblogs.com/chingho/p/23745237)
-7. [不想改造应用、也不想装 IIS：一个 178 行的 Windows 进程守护服务](https://www.cnblogs.com/fxwap/p/23745214)
-8. [新增办理动词只写 Core：SailFlow 动作骨架、同事务信封与 Sync 钩子自锁治理](https://www.cnblogs.com/sleveen/p/23744475)
-9. [为什么PPO难以做出顶级棋类引擎](https://www.cnblogs.com/strawberryPudding/p/23741963)
-10. [云台是什么？舵机、步进、无刷电机一篇讲透，从控制原理到选型避坑](https://www.cnblogs.com/zw-awa/p/23741503)
-11. [【Azure Developer】.NET 10 搭建登录认证示例（续）：接入中国区 Microsoft Entra ID](https://www.cnblogs.com/lulight/p/23740679)
-12. [在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动](https://www.cnblogs.com/Oliver2001/p/23740058)
-13. [【轻量化复刻大模型 / KIMI K3】训练模块梳理 & Muon P2P 优化器](https://www.cnblogs.com/rossiXYZ/p/23672095)
-14. [Claude Max 容易被封？两个 Claude Pro 账号实现双开](https://www.cnblogs.com/leikooo/p/23739331)
-15. [20. 重新认识三元运算符，不止简单二选一](https://www.cnblogs.com/halfcode/p/23738353)
-16. [Day 26：数值语义、多币种与计量单位](https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics)
-17. [源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？](https://www.cnblogs.com/anye1991/p/23735610)
-18. [把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解](https://www.cnblogs.com/ucfar/p/23735400)
-19. [【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token)](https://www.cnblogs.com/lulight/p/23734982)
-20. [姿态是怎么算出来的：互补解算、四元数和欧拉角](https://www.cnblogs.com/zw-awa/p/23735000)
+1. [Redis 核心机制 | Functions 让函数库随数据持久化](https://www.cnblogs.com/hugogoos/p/23748771)
+2. [源码级排坑：高并发下的审计日志与原子写，兼谈 WAF 长稳性能退化修复](https://www.cnblogs.com/anye1991/p/23749314)
+3. [CopyOnWriteArrayList 底层原理：从"写时复制"到源码细节](https://www.cnblogs.com/xiongdy2017/p/23747164)
+4. [A2A：跨服务协作与认证授权](https://www.cnblogs.com/haoxiaozhang/p/23746624)
+5. [协调：最后一道人工工序](https://www.cnblogs.com/learnhow/p/23745932)
+6. [【轻量化复刻大模型 / KIMI K3】K3 训练模块交互式演示](https://www.cnblogs.com/rossiXYZ/p/23672118)
+7. [Supabase 自托管接 Keycloak：两条路线与六个静默失败](https://www.cnblogs.com/shanyou/p/23745802)
+8. [AI扫漏洞全是误报？这个开源项目靠"真实复现"，让AI漏洞扫描真正靠谱了](https://www.cnblogs.com/chingho/p/23745237)
+9. [不想改造应用、也不想装 IIS：一个 178 行的 Windows 进程守护服务](https://www.cnblogs.com/fxwap/p/23745214)
+10. [新增办理动词只写 Core：SailFlow 动作骨架、同事务信封与 Sync 钩子自锁治理](https://www.cnblogs.com/sleveen/p/23744475)
+11. [为什么PPO难以做出顶级棋类引擎](https://www.cnblogs.com/strawberryPudding/p/23741963)
+12. [云台是什么？舵机、步进、无刷电机一篇讲透，从控制原理到选型避坑](https://www.cnblogs.com/zw-awa/p/23741503)
+13. [【Azure Developer】.NET 10 搭建登录认证示例（续）：接入中国区 Microsoft Entra ID](https://www.cnblogs.com/lulight/p/23740679)
+14. [在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动](https://www.cnblogs.com/Oliver2001/p/23740058)
+15. [【轻量化复刻大模型 / KIMI K3】训练模块梳理 & Muon P2P 优化器](https://www.cnblogs.com/rossiXYZ/p/23672095)
+16. [Claude Max 容易被封？两个 Claude Pro 账号实现双开](https://www.cnblogs.com/leikooo/p/23739331)
+17. [20. 重新认识三元运算符，不止简单二选一](https://www.cnblogs.com/halfcode/p/23738353)
+18. [Day 26：数值语义、多币种与计量单位](https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics)
+19. [源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？](https://www.cnblogs.com/anye1991/p/23735610)
+20. [把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解](https://www.cnblogs.com/ucfar/p/23735400)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [为什么PPO难以做出顶级棋类引擎](https://www.cnblogs.com/strawberryPudding/p/23741963)
 2. [Claude Max 容易被封？两个 Claude Pro 账号实现双开](https://www.cnblogs.com/leikooo/p/23739331)
-3. [源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？](https://www.cnblogs.com/anye1991/p/23735610)
-4. [云台是什么？舵机、步进、无刷电机一篇讲透，从控制原理到选型避坑](https://www.cnblogs.com/zw-awa/p/23741503)
-5. [【Azure Developer】.NET 10 搭建登录认证示例（续）：接入中国区 Microsoft Entra ID](https://www.cnblogs.com/lulight/p/23740679)
-6. [在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动](https://www.cnblogs.com/Oliver2001/p/23740058)
+3. [云台是什么？舵机、步进、无刷电机一篇讲透，从控制原理到选型避坑](https://www.cnblogs.com/zw-awa/p/23741503)
+4. [【Azure Developer】.NET 10 搭建登录认证示例（续）：接入中国区 Microsoft Entra ID](https://www.cnblogs.com/lulight/p/23740679)
+5. [在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动](https://www.cnblogs.com/Oliver2001/p/23740058)
+6. [20. 重新认识三元运算符，不止简单二选一](https://www.cnblogs.com/halfcode/p/23738353)
