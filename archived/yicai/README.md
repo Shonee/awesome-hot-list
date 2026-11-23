@@ -1,10 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-11-23 13:57:51
+> 更新时间：2026-11-24 01:44:46
 
 ## 首页头条
 
-1. [A股迎稳市组合拳，有望带来4000亿增量资金](https://www.yicai.com/news/103449343.html)
-2. [黎曼猜想证明获认证：Claude参与攻克百年数学难题](https://www.yicai.com/news/103449169.html)
-3. [当399元羽绒服售罄后，中高端品牌该怎么走？](https://www.yicai.com/news/103449191.html)
-4. [市值一夜蒸发近5000亿美元！英伟达遭遇重挫，黄仁勋回归变数加大](https://www.yicai.com/news/103448962.html)
+1. [从辞职到复职仅11天：分析师称黄仁勋回归是董事会和市场的唯一选择](https://www.yicai.com/news/103451077.html)
+2. [主动ETF助力长钱入市，稳市组合拳催化A股修复](https://www.yicai.com/news/103450937.html)
+3. [一天内价格再跌200元，iPhone Duo开售一个月已较发售价跌去1500元](https://www.yicai.com/news/103450851.html)
+4. [黄金急跌引发“抄底热”，机构提示底部未现](https://www.yicai.com/news/103450907.html)
+5. [按下SOS却欠费停机，车载紧急呼叫该收费吗？](https://www.yicai.com/news/103450506.html)

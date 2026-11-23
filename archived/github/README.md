@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-23 13:57:18
+> 更新时间：2026-11-24 01:44:07
 
 ## 每日趋势
 
@@ -48,14 +48,15 @@
 7. [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
 8. [plannotator](https://github.com/backnotprop/plannotator)
 9. [DeepTutor](https://github.com/HKUDS/DeepTutor)
-10. [impeccable](https://github.com/pbakaus/impeccable)
-11. [sherlock](https://github.com/sherlock-project/sherlock)
-12. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
-13. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
-14. [hyperframes](https://github.com/heygen-com/hyperframes)
-15. [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-16. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
-17. [agent-browser](https://github.com/vercel-labs/agent-browser)
+10. [magpie](https://github.com/yetone/magpie)
+11. [impeccable](https://github.com/pbakaus/impeccable)
+12. [sherlock](https://github.com/sherlock-project/sherlock)
+13. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
+14. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
+15. [hyperframes](https://github.com/heygen-com/hyperframes)
+16. [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+17. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+18. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 ## Java
 
@@ -111,6 +112,7 @@
 12. [kubescape](https://github.com/kubescape/kubescape)
 13. [compose](https://github.com/docker/compose)
 14. [trivy](https://github.com/aquasecurity/trivy)
+15. [workbuddy2api-panel](https://github.com/misakano7545/workbuddy2api-panel)
 
 ## HTML
 
