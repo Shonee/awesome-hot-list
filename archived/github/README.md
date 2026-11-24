@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-24 22:36:09
+> 更新时间：2026-11-25 07:46:36
 
 ## 每日趋势
 
@@ -47,16 +47,17 @@
 6. [claude-mem](https://github.com/thedotmack/claude-mem)
 7. [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
 8. [plannotator](https://github.com/backnotprop/plannotator)
-9. [DeepTutor](https://github.com/HKUDS/DeepTutor)
-10. [magpie](https://github.com/yetone/magpie)
-11. [impeccable](https://github.com/pbakaus/impeccable)
-12. [sherlock](https://github.com/sherlock-project/sherlock)
-13. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
-14. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
-15. [hyperframes](https://github.com/heygen-com/hyperframes)
-16. [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-17. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
-18. [agent-browser](https://github.com/vercel-labs/agent-browser)
+9. [dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+10. [DeepTutor](https://github.com/HKUDS/DeepTutor)
+11. [magpie](https://github.com/yetone/magpie)
+12. [impeccable](https://github.com/pbakaus/impeccable)
+13. [sherlock](https://github.com/sherlock-project/sherlock)
+14. [claude-seo](https://github.com/AgriciDaniel/claude-seo)
+15. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
+16. [hyperframes](https://github.com/heygen-com/hyperframes)
+17. [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+18. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+19. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 ## Java
 

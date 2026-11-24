@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-24 22:36:13
+> 更新时间：2026-11-25 07:46:40
 
 ## 最新帖子
 
-1. [Day 30：三段开发深度与框架全图](https://www.cnblogs.com/jeff-tsai/p/23771151/day-30-depths-and-map)
-2. [苦 Node.js SSR 久矣：我们把技术社区从 Nuxt 3 迁回了纯 Go 架构](https://www.cnblogs.com/start1225/p/23771097)
-3. [【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示](https://www.cnblogs.com/rossiXYZ/p/23672229)
-4. [为什么 Java 写的 1000，C 读出来是负 4 亿？](https://www.cnblogs.com/leikooo/p/23770750)
-5. [【AI】一个优秀的AI框架设计](https://www.cnblogs.com/xuuold/p/23770554)
-6. [七个DSH插件源码分析报告](https://www.cnblogs.com/znlgis/p/23770164)
-7. [日志上了阿里云 SLS，排查直接问 AI 就行](https://www.cnblogs.com/liuzhang/p/23769972)
-8. [步进电机云台：脉冲、方向与细分，让云台转到确定位置](https://www.cnblogs.com/zw-awa/p/23768592)
-9. [全平台、简单、快、小：为什么我说 SOUI 是唯一四项全占的 C++ GUI 框架](https://www.cnblogs.com/setoutsoft/p/23767329)
-10. [一款基于Avalonia跨平台免费且轻量的图片查看器](https://www.cnblogs.com/ryzen/p/23766329)
-11. [一周慢查询日志审计：1200 条里有多少真问题](https://www.cnblogs.com/azhe921/p/23766526)
-12. [一次双跑期测算笔记：3 / 6 / 12 个月](https://www.cnblogs.com/laowen312/p/23765944)
-13. [用 .NET 10 实现 Kafka Broker，单副本实测吞吐比 Apache Kafka 高 92.5%？](https://www.cnblogs.com/dotnet-org-cn/p/23765926)
-14. [ES 7.17 三节点 Docker 集群的自动备份：从 NFS 被拦住到用 ACL 根治权限](https://www.cnblogs.com/yellow3gold/p/23765742)
-15. [23. ArkTS for循环实战，for、break、continue全面掌握](https://www.cnblogs.com/halfcode/p/23765165)
-16. [百度地图 Hello World：5 分钟用 JSAPI 4.0 显示一张地图](https://www.cnblogs.com/map-3d-vis/p/23765055)
-17. [一个后台，三个官方包：Zero 后台脚手架](https://www.cnblogs.com/known/p/23764757)
-18. [分布式事务复盘：协调者超时，237笔单边账与XA悬挂事务](https://www.cnblogs.com/dicengwanjialaozhang/p/23763996)
-19. [微软官方 Python 包被投毒，GitHub 仓库连夜"消失"：这次攻击只用了 42 分钟](https://www.cnblogs.com/shanyou/p/23763656)
-20. [为什么 PHP 应该只保留 ZTS 构建模式](https://www.cnblogs.com/catchadmin/p/23763006)
+1. [106:GLM多算一轮，交付更划算吗？](https://www.cnblogs.com/snidget/p/23771367)
+2. [Day 30：三段开发深度与框架全图](https://www.cnblogs.com/jeff-tsai/p/23771151/day-30-depths-and-map)
+3. [苦 Node.js SSR 久矣：我们把技术社区从 Nuxt 3 迁回了纯 Go 架构](https://www.cnblogs.com/start1225/p/23771097)
+4. [【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示](https://www.cnblogs.com/rossiXYZ/p/23672229)
+5. [为什么 Java 写的 1000，C 读出来是负 4 亿？](https://www.cnblogs.com/leikooo/p/23770750)
+6. [【AI】一个优秀的AI框架设计](https://www.cnblogs.com/xuuold/p/23770554)
+7. [七个DSH插件源码分析报告](https://www.cnblogs.com/znlgis/p/23770164)
+8. [日志上了阿里云 SLS，排查直接问 AI 就行](https://www.cnblogs.com/liuzhang/p/23769972)
+9. [步进电机云台：脉冲、方向与细分，让云台转到确定位置](https://www.cnblogs.com/zw-awa/p/23768592)
+10. [全平台、简单、快、小：为什么我说 SOUI 是唯一四项全占的 C++ GUI 框架](https://www.cnblogs.com/setoutsoft/p/23767329)
+11. [一款基于Avalonia跨平台免费且轻量的图片查看器](https://www.cnblogs.com/ryzen/p/23766329)
+12. [一周慢查询日志审计：1200 条里有多少真问题](https://www.cnblogs.com/azhe921/p/23766526)
+13. [一次双跑期测算笔记：3 / 6 / 12 个月](https://www.cnblogs.com/laowen312/p/23765944)
+14. [用 .NET 10 实现 Kafka Broker，单副本实测吞吐比 Apache Kafka 高 92.5%？](https://www.cnblogs.com/dotnet-org-cn/p/23765926)
+15. [ES 7.17 三节点 Docker 集群的自动备份：从 NFS 被拦住到用 ACL 根治权限](https://www.cnblogs.com/yellow3gold/p/23765742)
+16. [23. ArkTS for循环实战，for、break、continue全面掌握](https://www.cnblogs.com/halfcode/p/23765165)
+17. [百度地图 Hello World：5 分钟用 JSAPI 4.0 显示一张地图](https://www.cnblogs.com/map-3d-vis/p/23765055)
+18. [一个后台，三个官方包：Zero 后台脚手架](https://www.cnblogs.com/known/p/23764757)
+19. [分布式事务复盘：协调者超时，237笔单边账与XA悬挂事务](https://www.cnblogs.com/dicengwanjialaozhang/p/23763996)
+20. [微软官方 Python 包被投毒，GitHub 仓库连夜"消失"：这次攻击只用了 42 分钟](https://www.cnblogs.com/shanyou/p/23763656)
 
 ## 精华帖子
 
@@ -50,9 +50,9 @@
 
 ## 48 小时阅读排行
 
-1. [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://www.cnblogs.com/jinjiangongzuoshi/p/23753804)
-2. [大肥鱼项目实训平台_v2.0版](https://www.cnblogs.com/Chillax-KUN/p/23751641)
-3. [微软官方 Python 包被投毒，GitHub 仓库连夜"消失"：这次攻击只用了 42 分钟](https://www.cnblogs.com/shanyou/p/23763656)
-4. [阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年](https://www.cnblogs.com/jinjiangongzuoshi/p/23761965)
+1. [微软官方 Python 包被投毒，GitHub 仓库连夜"消失"：这次攻击只用了 42 分钟](https://www.cnblogs.com/shanyou/p/23763656)
+2. [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://www.cnblogs.com/jinjiangongzuoshi/p/23753804)
+3. [阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年](https://www.cnblogs.com/jinjiangongzuoshi/p/23761965)
+4. [大肥鱼项目实训平台_v2.0版](https://www.cnblogs.com/Chillax-KUN/p/23751641)
 5. [AI 会写代码之后，程序员该学什么？](https://www.cnblogs.com/codigger/p/23761759)
 6. [上周热点回顾（11.16-11.22）](https://www.cnblogs.com/cmt/p/23751901)
