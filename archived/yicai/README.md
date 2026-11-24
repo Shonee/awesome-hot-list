@@ -1,11 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-11-24 11:54:20
+> 更新时间：2026-11-24 22:36:54
 
 ## 首页头条
 
-1. [市场激辩，黄仁勋回归能否扭转AI资产抛售潮？](https://www.yicai.com/news/103451167.html)
-2. [主动ETF助力长钱入市，稳市组合拳催化A股修复](https://www.yicai.com/news/103450937.html)
-3. [一天内价格再跌200元，iPhone Duo开售一个月已较发售价跌去1500元](https://www.yicai.com/news/103450851.html)
-4. [黄金急跌引发“抄底热”，机构提示底部未现](https://www.yicai.com/news/103450907.html)
-5. [按下SOS却欠费停机，车载紧急呼叫该收费吗？](https://www.yicai.com/news/103450506.html)
+1. [全球风险偏好回升，AI进入“算细账”时刻](https://www.yicai.com/news/103452743.html)
+2. [AI洗牌外贸十强城市，中西部首个万亿外贸城市要来了](https://www.yicai.com/news/103452625.html)
+3. [从黄仁勋复职到“马斯克溢价”：华尔街如何重新定价AI巨头的“关键人物风险”](https://www.yicai.com/news/103452605.html)
+4. [实探菜百销售回暖：8万一根的金条两小时卖空，年轻人也接棒攒金](https://www.yicai.com/news/103452491.html)
+5. [评测成绩亮眼，为何医疗大模型还走不进医院](https://www.yicai.com/news/103452252.html)
