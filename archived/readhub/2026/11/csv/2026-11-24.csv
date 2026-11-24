@@ -46,3 +46,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,马斯克承认自家 AI 落后，不如卖算力赚钱,SpaceX 与 Anthropic、谷歌达成的算力租赁协议每月价值分别约 31 亿美元和 8 亿美元，Anthropic 已成为 SpaceX 旗下 AI 业务 SpaceXSI 的最大客户。据知情人士透露，马斯克对自家 AI 研发进展感到不满，多次要求工程师证明 GPU 资源的使用价值，并强调每块 GPU 创造的收入比模型性能测试成绩更重要。随着 SpaceX 上市后盈利压力上升，公司已缩减部分 AI 项目，包括关闭 AI 虚拟伴侣项目、调整 DigitalOptimus,,https://www.theblockbeats.info/flash/378862,,Readhub,AI 资讯,ai,digest,,2026-11-24 01:44:33
 9,记忆张量与英伟达联合发布评测最高平均分的记忆原生模型,记忆张量（MemTensor）正式发布并开源与 NVIDIA 联合研发的记忆原生模型 MemT-1.0-Pro。此次发布探索了外部存储与检索之外的另一条路径：将历史信息编码进模型内部记忆，让记忆的写入与读取成为可通过训练优化的能力。在报告所评估的参数化记忆方法中，Pro 在两项评测中均排名第一，并以 53.08 分取得 11 项记忆评测的最高平均分。 麻省理工科技评论 12 小时前,,https://www.mittrchina.com/news/detail/17278,,Readhub,AI 资讯,ai,digest,,2026-11-24 01:44:33
 10,一台被黑客「晒」上网的攻击工具，暴露了 AI 作案的全过程,亚马逊威胁情报团队披露，犯罪分子近期用自主 AI 平台 Cairn 攻击一款医学影像应用，利用零日漏洞成功控制目标服务器。零日漏洞指供应商尚未察觉、无补丁可打的缺陷，AI 智能体接管了全程：黑客只下一道「获取 Shell 访问权限」的指令，它便自行搜索暴露在公网的易受攻击系统，逐个尝试夺权。AI 并非战无不胜：攻击一台 Redis 服务器时，它连做 148 次操作、耗 16 个多小时仍以失败告终。 AIBase 8 小时前,,https://www.aibase.com/zh/news/32477,,Readhub,AI 资讯,ai,digest,,2026-11-24 01:44:33
+1,英伟达董事会同意恢复黄仁勋总裁、CEO 及董事职务,,,https://readhub.cn/topic/8yINkSZPMq6?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+2,智谱 GLM-5.4 模型发布，已上线 Coding Plan,,,https://readhub.cn/topic/8yHk4oHGXTY?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+3,特朗普称曾直接与英伟达董事会沟通黄仁勋复职相关事宜,,,https://readhub.cn/topic/8yISk5BqHMl?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+4,特朗普：黄仁勋已在构思未来三代芯片,,,https://readhub.cn/topic/8yIT6VRzmwM?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+5,懂车帝回应「测试内容大调整」：信息多处失实,,,https://readhub.cn/topic/8yI4713Me43?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+6,蚂蚁阿福上线实时视频功能 实现 AI 望闻问切,,,https://readhub.cn/topic/8yHanZwY34f?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+7,Anthropic 推出 Claude Ship 测试版 可自动审查修复代码,,,https://readhub.cn/topic/8yIoAw6DlDe?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+8,Shopify CEO 称黄仁勋离职事件似精心策划 批英伟达董事会是蠢货,,,https://readhub.cn/topic/8yHamiHE4ME?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+9,原京东集团首席战略官廖建文因病去世,,,https://readhub.cn/topic/8yHeNDyVtn5?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+10,蚂蚁阿福宣布启动全球化 国际版 App 将在多国家地区上线,,,https://readhub.cn/topic/8yHhEYyGsiA?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+11,法国 AI 公司 Mistral 在新加坡设立亚太总部 开发主权 AI 模型,,,https://readhub.cn/topic/8yHp709WDK0?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+12,Claude 黎曼假设证明引争论 形式验证与定义之辩,,,https://readhub.cn/topic/8yHXDVA1zLU?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+13,黄仁勋：很荣幸重返英伟达,,,https://readhub.cn/topic/8yINlA5933M?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+14,魏建军再测长城 001 号超跑，称「进步显著」,,,https://readhub.cn/topic/8yHgVkkSUqr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+15,谷歌 AI 搜索变现受阻 苹果服务业务收入增长随之放缓,,,https://readhub.cn/topic/8yHbsxydBpd?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+16,Anthropic 首席执行官 Amodei 以每股 83 美元出售 340 万股股票,,,https://readhub.cn/topic/8yIyXTrkWW1?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+17,GTA 6 玩家发现仓库刷钱漏洞 可循环售赃获利,,,https://readhub.cn/topic/8yHrwL97kCe?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+18,特斯拉：FSD V15 处理能力提升 25 倍，全球活跃用户 174 万同比增 67%,,,https://readhub.cn/topic/8yHWWNfv0B3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+19,三星电气：预中标 2.78 亿元国家电网招标采购项目,,,https://readhub.cn/topic/8yHvsQ9EveP?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+20,信息窗口乱跳转或无法关闭，工信部通报 YY、快看漫画等 23 款 App 及 SDK,,,https://readhub.cn/topic/8yHf6JyWhjZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+21,人形机器人板块冲高，宇树科技 20cm 涨停,,,https://readhub.cn/topic/8yHoNhfisoi?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+22,智谱发布 GLM-5.4：循环架构与泛 Coding 并行,,,https://readhub.cn/topic/8yIcPqPstc4?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+23,特斯拉 AI4.5 芯片明年有望推出，内存容量调整至 24GB,,,https://readhub.cn/topic/8yHamjg5K9z?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+24,泄露 GTA6 视频黑客获刑七年，出狱后仍受五年限制,,,https://readhub.cn/topic/8yJ77eekeei?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+25,小鹏 MONA L05 首销月 3 周交付超万台 13.98 万元起售,,,https://readhub.cn/topic/8yHtOJJ3xqG?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+26,B 站 AI 大肥鱼账号引用户困扰 官方征集治理意见,,,https://readhub.cn/topic/8yHZNbNUysL?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+27,Anthropic 发布新安全系统 企业使用其 AI 模型可自主控制数据,,,https://readhub.cn/topic/8yIfFGbNXxr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+28,英伟达卖空者预计将录得约 122 亿美元的账面亏损,,,https://readhub.cn/topic/8yIVbNHLyf3?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+29,地球系统智能科研平台「ZHU・GE」正式推出,,,https://readhub.cn/topic/8yHeQm8QSkO?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+30,Arm CEO 哈斯任职延至 2033 年,,,https://readhub.cn/topic/8yIFAwyEHub?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-24 11:52:08
+1,2026.11.23 13 条,,,https://readhub.cn/daily/2026-11-23,,Readhub,每日早报,daily,digest,2026-11-23,2026-11-24 11:52:08
+2,2026.11.22 14 条,,,https://readhub.cn/daily/2026-11-22,,Readhub,每日早报,daily,digest,2026-11-22,2026-11-24 11:52:08
+3,2026.11.21 15 条,,,https://readhub.cn/daily/2026-11-21,,Readhub,每日早报,daily,digest,2026-11-21,2026-11-24 11:52:08
+4,2026.11.20 15 条,,,https://readhub.cn/daily/2026-11-20,,Readhub,每日早报,daily,digest,2026-11-20,2026-11-24 11:52:08
+5,2026.11.19 13 条,,,https://readhub.cn/daily/2026-11-19,,Readhub,每日早报,daily,digest,2026-11-19,2026-11-24 11:52:08
+6,2026.11.18 15 条,,,https://readhub.cn/daily/2026-11-18,,Readhub,每日早报,daily,digest,2026-11-18,2026-11-24 11:52:08
+7,2026.11.17 14 条,,,https://readhub.cn/daily/2026-11-17,,Readhub,每日早报,daily,digest,2026-11-17,2026-11-24 11:52:08
+1,Finding faster quantum algorithms with agents and formal verification,Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry. Google DeepMind 10 小时前,,https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+2,OpenAI and Cisco introduce Shirudo,"OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux ... It helps teams protect running systems while they roll out patches. OpenAI 6 小时前",,https://openai.com/index/introducing-shirudo,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+3,一句提示词造一个「灾情」：公安部网安局公布 10 起 AI 造谣典型案,公安机关网安部门公布 2026 年度使用 AI 工具编造传播网络谣言的 10 起典型案例：3 起当事人被依法采取刑事强制措施，7 起被处以行政处罚。马某某用 AI 生成「张家界大峡谷玻璃桥突发坍塌」视频 —— 画面里玻璃桥断裂、人群四散奔逃，还配文「没事就别出去玩了」，引发公众恐慌。纵观十案，动机多是吸粉引流，部分为发泄情绪或带货牟利 —— 共同点是：AI 把造谣成本压到一句提示词，而法律后果没有被同步降低。 AIBase 2 小时前,,https://www.aibase.com/zh/news/32484,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+4,谷歌让 Gemini 4 智能体「开会」改造量子算法：最高提速 290 倍，还附带数学正确性证明,谷歌 DeepMind 和 Google Quantum AI 团队在 11 月 23 日联合发布的最新研究里，给出了一条新解法：让多个 Gemini 4 智能体协同工作，去优化那些经典量子算法，生成了效率惊人的量子电路。量子电路是量子计算机执行算法的指令集，电路越精简，机器就能用更少的量子比特和操作数干同样的活。基础算法层面同样有进账：搜索未排序列表的 Grover 算法特定实现提速 2.57 倍，负责把数据加载进量子态的反正弦（arcsin）子程序，最高提速 290 倍。,,https://www.aibase.com/zh/news/32481,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+5,Ladybird 浏览器发布首个 Alpha 版本,"今天上午，Ladybird 项目发布了首个 Alpha 版本，用户现在可以在 macOS 或 Linux 上直接安装该浏览器，无需自行编译。2026 年 2 月 23 日，Andreas Kling 发文称 Ladybird 采用 Rust，并借助 AI 将 LibJS JavaScript 引擎的部分代码从 C++ 移植为 25,000 行 Rust，耗时两周，使用了 Claude Code 和 Codex。我会继续保留它用于匿名浏览，部分是为了参与测试，主要是因为它让我对",,https://simonwillison.net/2026/Nov/23/ladybird/,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+6,骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员,钓鱼攻击的主战场正从邮件收件箱悄悄扩展到通话线路 —— 一通语气焦急的「IT 支持电话」，往往比一封可疑邮件更难识破。微软正为 Teams 开发一项 AI 防诈骗功能，在通话时分析聊天内容，一旦检测到潜在钓鱼诈骗迹象，便向用户发出警告。新功能把审查延伸到通话内容本身：即便用户一时疏忽接了诈骗电话，系统也能边聊边判断，在损失发生前及时提示止损，把补救窗口从「事后报案」提前到「通话进行时」。 AIBase 1 小时前,,https://www.aibase.com/zh/news/32488,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+7,GLM-5.4: Toward Generalized Coding with Our First Loop Transformer,"In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This allows the model to apply more reasoning and reach the right answer with fewer tokens, especially o",,https://simonwillison.net/2026/Nov/23/glm-54/,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+8,蚂蚁 OceanBase 发布 AI 数据平台：统一管理多模态数据，为 Agent 提供业务上下文,OceanBase 正式发布 AI 战略产品 —— 湖库一体 AI 数据平台 OceanLake，并宣布向全球开源其核心引擎 AI 数据库，邀请开发者和产业伙伴共同建设面向 AI 的数据基础设施。该平台旨在统一管理多模态数据，为 Agent 提供业务上下文。OceanBase 认为，多模态数据将带来更多价值增量；当 AI 进入生产级，数据库的核心能力将变得更加重要，16 年根自研是其最大底气。从数据库到 AI 数据平台，数据库核心能力被赋予新内涵：一致性从分布式一致性走向多模,,https://www.aibase.com/zh/news/32492,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+9,Demo 刚公开就被抄上小程序：一款用 AI 开发的独游靠中国玩家扳回两局,评论区火力集中在概率数值苛刻、无尽模式没有存档，几乎没人纠缠「是不是 AI 做的」—— 中国玩家贡献了半数销量，态度是好玩就买。他两次想自己举报，却因海外开发者需中国手机号验证而无从下手，最后都是素未谋面的中国玩家替他提交投诉、促成下架。当 AI 把「做一个游戏」的门槛压到地板，「抄走一个游戏」的门槛同样被压到了地板。 AIBase 29 分钟前,,https://www.aibase.com/zh/news/32491,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08
+10,Anthropic 上线 Claude Ship：AI 智能体接管代码审查、修复与批准,11 月 23 日据 TechCrunch 报道，Anthropic 推出 Claude Ship 测试版，用一组 AI 智能体接管协作流程中最磨人的环节 —— 代码审查、修复与批准的自动化。其中 Claude Approvals 可按团队制定的审批政策执行批准，政策以文件形式存在代码仓库里，可直接用自然语言编写。 AIBase 2 小时前,,https://www.aibase.com/zh/news/32485,,Readhub,AI 资讯,ai,digest,,2026-11-24 11:52:08

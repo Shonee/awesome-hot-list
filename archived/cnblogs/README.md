@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-24 01:44:12
+> 更新时间：2026-11-24 11:51:26
 
 ## 最新帖子
 
-1. [103:AI与Lean联手证明黎曼猜想，可信验证才是突破](https://www.cnblogs.com/snidget/p/23759427)
-2. [three.js/WebGL实现3D光伏电站监控 之 组件定位与逆变器关联](https://www.cnblogs.com/yeyunfei/p/23665230/threejs-webgl-3d-solar-inverter-location)
-3. [viper的使用](https://www.cnblogs.com/ishoulgodo/p/23738542)
-4. [从 GUI 彻底转向 CLI：我用 .NET + Avalonia + NativeAOT 打造了 Agent 终端托管工具 Octopus](https://www.cnblogs.com/token-ai/p/23759015)
-5. [【轻量化复刻大模型 / KIMI K3】强化学习（RL）实现深度解读](https://www.cnblogs.com/rossiXYZ/p/23672194)
-6. [打不开部分 .sql 文件？macOS 隔离属性在作怪](https://www.cnblogs.com/jyzhao/p/23758914)
-7. [特别篇：在线 XSS 靶场 haozi 分享与通关笔记](https://www.cnblogs.com/bs-pg/p/23645431)
-8. [讲透企业级本体落地！从六要素建模到图谱、知识库与数字员工全链路实战](https://www.cnblogs.com/aifrontiers/p/23756063)
-9. [终端里也能有 60 多个控件：这个 .NET 框架把响应式 UI、主题和图片都搬进了命令行](https://www.cnblogs.com/chingho/p/23758083)
-10. [量子算力一键直达！科研助手上新，让量子探索触手可及](https://www.cnblogs.com/developer-tianyiyun/p/23757182)
-11. [超声波 HC-SR04 测距：给云台装“眼睛”](https://www.cnblogs.com/zw-awa/p/23755947)
-12. [二十多个轮子，这次轮到最不立标准的那个：我改了四代，最后把 .NET 8 请出了门](https://www.cnblogs.com/netcasewqs/p/23755357)
-13. [MySQL 事务死锁](https://www.cnblogs.com/yennie/p/23755047)
-14. [.NET 数据集导出 Excel：无 Office 依赖实现方案](https://www.cnblogs.com/jazz-z/p/23754557)
-15. [我发明了一个新的排序（二）](https://www.cnblogs.com/sadival/p/23753837)
-16. [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://www.cnblogs.com/jinjiangongzuoshi/p/23753804)
-17. [22. ArkTS switch语句实战：case、break、default 全面掌握](https://www.cnblogs.com/halfcode/p/23752260)
-18. [大表 JOIN 不必靠堆内存：Dojao 的跨源 SQL、减量溢写与 Python UDF 实战](https://www.cnblogs.com/zrui-xyu/p/23752071)
-19. [上周热点回顾（11.16-11.22）](https://www.cnblogs.com/cmt/p/23751901)
-20. [大肥鱼项目实训平台_v2.0版](https://www.cnblogs.com/Chillax-KUN/p/23751641)
+1. [一个后台，三个官方包：Zero 后台脚手架](https://www.cnblogs.com/known/p/23764757)
+2. [分布式事务复盘：协调者超时，237笔单边账与XA悬挂事务](https://www.cnblogs.com/dicengwanjialaozhang/p/23763996)
+3. [微软官方 Python 包被投毒，GitHub 仓库连夜"消失"：这次攻击只用了 42 分钟](https://www.cnblogs.com/shanyou/p/23763656)
+4. [三年 MyBatis 排查史：从我翻日志，到让 SQL 自己浮现](https://www.cnblogs.com/songrenshuo/p/23763306/mybatis-sql-debugging-three-years)
+5. [为什么 PHP 应该只保留 ZTS 构建模式](https://www.cnblogs.com/catchadmin/p/23763006)
+6. [Day 29：定义、框架与应用代码各负责哪一段](https://www.cnblogs.com/jeff-tsai/p/23762146/day-29-case-reconciliation)
+7. [阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年](https://www.cnblogs.com/jinjiangongzuoshi/p/23761965)
+8. [那些没有写进简历的东西](https://www.cnblogs.com/yuyisi/p/23538029)
+9. [AI 会写代码之后，程序员该学什么？](https://www.cnblogs.com/codigger/p/23761759)
+10. [Redis 核心机制 | Lua 脚本：服务端原子操作·架构决策与生产落地](https://www.cnblogs.com/hugogoos/p/23742931)
+11. [103:AI与Lean联手证明黎曼猜想，可信验证才是突破](https://www.cnblogs.com/snidget/p/23759427)
+12. [viper的使用](https://www.cnblogs.com/ishoulgodo/p/23738542)
+13. [从 GUI 彻底转向 CLI：我用 .NET + Avalonia + NativeAOT 打造了 Agent 终端托管工具 Octopus](https://www.cnblogs.com/token-ai/p/23759015)
+14. [【轻量化复刻大模型 / KIMI K3】强化学习（RL）实现深度解读](https://www.cnblogs.com/rossiXYZ/p/23672194)
+15. [打不开部分 .sql 文件？macOS 隔离属性在作怪](https://www.cnblogs.com/jyzhao/p/23758914)
+16. [特别篇：在线 XSS 靶场 haozi 分享与通关笔记](https://www.cnblogs.com/bs-pg/p/23645431)
+17. [讲透企业级本体落地！从六要素建模到图谱、知识库与数字员工全链路实战](https://www.cnblogs.com/aifrontiers/p/23756063)
+18. [终端里也能有 60 多个控件：这个 .NET 框架把响应式 UI、主题和图片都搬进了命令行](https://www.cnblogs.com/chingho/p/23758083)
+19. [量子算力一键直达！科研助手上新，让量子探索触手可及](https://www.cnblogs.com/developer-tianyiyun/p/23757182)
+20. [超声波 HC-SR04 测距：给云台装“眼睛”](https://www.cnblogs.com/zw-awa/p/23755947)
 
 ## 精华帖子
 
@@ -51,8 +51,8 @@
 ## 48 小时阅读排行
 
 1. [不想改造应用、也不想装 IIS：一个 178 行的 Windows 进程守护服务](https://www.cnblogs.com/fxwap/p/23745214)
-2. [【故障公告】redis 集群故障造成博客站点无法访问](https://www.cnblogs.com/cmt/p/23750498)
-3. [上周热点回顾（11.16-11.22）](https://www.cnblogs.com/cmt/p/23751901)
+2. [上周热点回顾（11.16-11.22）](https://www.cnblogs.com/cmt/p/23751901)
+3. [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://www.cnblogs.com/jinjiangongzuoshi/p/23753804)
 4. [大肥鱼项目实训平台_v2.0版](https://www.cnblogs.com/Chillax-KUN/p/23751641)
-5. [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://www.cnblogs.com/jinjiangongzuoshi/p/23753804)
-6. [我发明了一个新的排序（二）](https://www.cnblogs.com/sadival/p/23753837)
+5. [我发明了一个新的排序（二）](https://www.cnblogs.com/sadival/p/23753837)
+6. [二十多个轮子，这次轮到最不立标准的那个：我改了四代，最后把 .NET 8 请出了门](https://www.cnblogs.com/netcasewqs/p/23755357)
