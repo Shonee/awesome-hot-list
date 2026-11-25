@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-25 15:11:17
+> 更新时间：2026-11-26 02:07:07
 
 ## 最新帖子
 
-1. [FastAPI中间件复盘：注册顺序换算、限流分层与SSE直通的三个设计决策](https://www.cnblogs.com/wanyouAI/p/23774618)
-2. [知识库调用大模型问答模式选型](https://www.cnblogs.com/zyh-828/p/23778022)
-3. [一首写给程序员的一首歌《留，还是走》](https://www.cnblogs.com/lang/p/23775121)
-4. [百度地图 2.0 / 3.0 项目升级到 JSAPI 4.0：改一个参数](https://www.cnblogs.com/map-3d-vis/p/23774771)
-5. [订单超时自动关闭，7 种方案到底怎么选？](https://www.cnblogs.com/codigger/p/23774706)
-6. [步进电机路径规划：梯形曲线与S型曲线](https://www.cnblogs.com/zw-awa/p/23774320)
-7. [写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23774234)
-8. [php-wasm-builder 1.0 发布，让 PHP 应用在浏览器里运行](https://www.cnblogs.com/catchadmin/p/23773953)
-9. [106:GLM多算一轮，交付更划算吗？](https://www.cnblogs.com/snidget/p/23771367)
-10. [Day 30：三段开发深度与框架全图](https://www.cnblogs.com/jeff-tsai/p/23771151/day-30-depths-and-map)
-11. [苦 Node.js SSR 久矣：我们把技术社区从 Nuxt 3 迁回了纯 Go 架构](https://www.cnblogs.com/start1225/p/23771097)
-12. [【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示](https://www.cnblogs.com/rossiXYZ/p/23672229)
-13. [为什么 Java 写的 1000，C 读出来是负 4 亿？](https://www.cnblogs.com/leikooo/p/23770750)
-14. [【AI】一个优秀的AI框架设计](https://www.cnblogs.com/xuuold/p/23770554)
-15. [七个DSH插件源码分析报告](https://www.cnblogs.com/znlgis/p/23770164)
-16. [日志上了阿里云 SLS，排查直接问 AI 就行](https://www.cnblogs.com/liuzhang/p/23769972)
-17. [步进电机云台：脉冲、方向与细分，让云台转到确定位置](https://www.cnblogs.com/zw-awa/p/23768592)
-18. [全平台、简单、快、小：为什么我说 SOUI 是唯一四项全占的 C++ GUI 框架](https://www.cnblogs.com/setoutsoft/p/23767329)
-19. [一款基于Avalonia跨平台免费且轻量的图片查看器](https://www.cnblogs.com/ryzen/p/23766329)
-20. [一周慢查询日志审计：1200 条里有多少真问题](https://www.cnblogs.com/azhe921/p/23766526)
+1. [看得见账单，看不见用法：AIControl 的设计理念与架构](https://www.cnblogs.com/donpangpang/p/23784875)
+2. [AI创建回话+热门问题一键换一换](https://www.cnblogs.com/zhuwuzhu/p/23783589)
+3. [新手勇闯网络安全 | SQL注入（一）](https://www.cnblogs.com/MuFeng-000/p/23783450)
+4. [别让 AI 每十分钟打断你一次](https://www.cnblogs.com/learnhow/p/23783409)
+5. [【Azure Developer】.NET 10 搭建登录认证示例（续）: 从 loginRedirect() 看 MSAL 的 PKCE 认证流程(code_verifier 和 code_challenge)](https://www.cnblogs.com/lulight/p/23783276)
+6. [【轻量化复刻大模型 / KIMI K3】并行（Parallel）梳理](https://www.cnblogs.com/rossiXYZ/p/23672336)
+7. [【黄啊码】大厂都在抢的 FDE，正在成为普通大学生弯道超车的新机会](https://www.cnblogs.com/huangama/p/23782635)
+8. [Vuick：Rust + GPUI 原生构建——不只是文本 / 代码 / Markdown 编辑器，兼可阅读 PDF / EPUB、浏览图片、播放视频与音乐](https://www.cnblogs.com/yuexiliuli/p/23782532)
+9. [.NET 11 来了，.NET 8 和 9 死了：一篇讲清该升还是观望](https://www.cnblogs.com/shenchuanchao/p/23779842/dotnet-11-released-dotnet-8-9-dead-upgrade-or-wait)
+10. [时间序列预测，模型换了一圈为什么没变好](https://www.cnblogs.com/wang_yb/p/23781047)
+11. [在 Avalonia 12 上用纯 .NET 重写 Monaco 编辑器：TKCode.Arc CodeEditor / DiffEditor / LSP 深度架构与实战](https://www.cnblogs.com/token-ai/p/23780087)
+12. [一首写给程序员的一首歌《留，还是走》](https://www.cnblogs.com/lang/p/23775121)
+13. [百度地图 2.0 / 3.0 项目升级到 JSAPI 4.0：改一个参数](https://www.cnblogs.com/map-3d-vis/p/23774771)
+14. [订单超时自动关闭，7 种方案到底怎么选？](https://www.cnblogs.com/codigger/p/23774706)
+15. [步进电机路径规划：梯形曲线与S型曲线](https://www.cnblogs.com/zw-awa/p/23774320)
+16. [写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23774234)
+17. [php-wasm-builder 1.0 发布，让 PHP 应用在浏览器里运行](https://www.cnblogs.com/catchadmin/p/23773953)
+18. [106:GLM多算一轮，交付更划算吗？](https://www.cnblogs.com/snidget/p/23771367)
+19. [Day 30：三段开发深度与框架全图](https://www.cnblogs.com/jeff-tsai/p/23771151/day-30-depths-and-map)
+20. [苦 Node.js SSR 久矣：我们把技术社区从 Nuxt 3 迁回了纯 Go 架构](https://www.cnblogs.com/start1225/p/23771097)
 
 ## 精华帖子
 
@@ -52,7 +52,7 @@
 
 1. [微软官方 Python 包被投毒，GitHub 仓库连夜"消失"：这次攻击只用了 42 分钟](https://www.cnblogs.com/shanyou/p/23763656)
 2. [阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年](https://www.cnblogs.com/jinjiangongzuoshi/p/23761965)
-3. [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://www.cnblogs.com/jinjiangongzuoshi/p/23753804)
-4. [一款基于Avalonia跨平台免费且轻量的图片查看器](https://www.cnblogs.com/ryzen/p/23766329)
+3. [一款基于Avalonia跨平台免费且轻量的图片查看器](https://www.cnblogs.com/ryzen/p/23766329)
+4. [一首写给程序员的一首歌《留，还是走》](https://www.cnblogs.com/lang/p/23775121)
 5. [AI 会写代码之后，程序员该学什么？](https://www.cnblogs.com/codigger/p/23761759)
-6. [我发明了一个新的排序（二）](https://www.cnblogs.com/sadival/p/23753837)
+6. [全平台、简单、快、小：为什么我说 SOUI 是唯一四项全占的 C++ GUI 框架](https://www.cnblogs.com/setoutsoft/p/23767329)

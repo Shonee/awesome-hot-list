@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-25 15:11:13
+> 更新时间：2026-11-26 02:07:02
 
 ## 每日趋势
 
@@ -26,16 +26,17 @@
 1. [plannotator](https://github.com/backnotprop/plannotator)
 2. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
 3. [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-4. [open-code-review](https://github.com/alibaba/open-code-review)
-5. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
-6. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-7. [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
-8. [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-9. [astryx](https://github.com/meta/astryx)
-10. [HermesEnabler](https://github.com/pookjw/HermesEnabler)
-11. [sure](https://github.com/we-promise/sure)
-12. [univer](https://github.com/dream-num/univer)
-13. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+4. [nod](https://github.com/n8n-io/nod)
+5. [open-code-review](https://github.com/alibaba/open-code-review)
+6. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+7. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+8. [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
+9. [ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+10. [astryx](https://github.com/meta/astryx)
+11. [HermesEnabler](https://github.com/pookjw/HermesEnabler)
+12. [sure](https://github.com/we-promise/sure)
+13. [univer](https://github.com/dream-num/univer)
+14. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
 ## 每月趋势
 
@@ -68,16 +69,17 @@
 5. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
 6. [starrocks](https://github.com/StarRocks/starrocks)
 7. [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-8. [keycloak](https://github.com/keycloak/keycloak)
-9. [nifi](https://github.com/apache/nifi)
-10. [light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
-11. [elasticsearch](https://github.com/elastic/elasticsearch)
-12. [termux-app](https://github.com/termux/termux-app)
-13. [zookeeper](https://github.com/apache/zookeeper)
-14. [LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
-15. [LSPosed](https://github.com/LSPosed/LSPosed)
-16. [iceberg](https://github.com/apache/iceberg)
-17. [openrocket](https://github.com/openrocket/openrocket)
+8. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+9. [keycloak](https://github.com/keycloak/keycloak)
+10. [nifi](https://github.com/apache/nifi)
+11. [light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
+12. [elasticsearch](https://github.com/elastic/elasticsearch)
+13. [termux-app](https://github.com/termux/termux-app)
+14. [zookeeper](https://github.com/apache/zookeeper)
+15. [LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
+16. [LSPosed](https://github.com/LSPosed/LSPosed)
+17. [iceberg](https://github.com/apache/iceberg)
+18. [openrocket](https://github.com/openrocket/openrocket)
 
 ## Python
 
@@ -113,17 +115,17 @@
 12. [kubescape](https://github.com/kubescape/kubescape)
 13. [compose](https://github.com/docker/compose)
 14. [trivy](https://github.com/aquasecurity/trivy)
-15. [workbuddy2api-panel](https://github.com/misakano7545/workbuddy2api-panel)
 
 ## HTML
 
 1. [Skills](https://github.com/MengTo/Skills)
 2. [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
-3. [effective-html](https://github.com/plannotator/effective-html)
-4. [axe-core](https://github.com/dequelabs/axe-core)
-5. [dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)
-6. [RyukGram](https://github.com/faroukbmiled/RyukGram)
-7. [zphisher](https://github.com/htr-tech/zphisher)
+3. [claude-certified-architect](https://github.com/paullarionov/claude-certified-architect)
+4. [effective-html](https://github.com/plannotator/effective-html)
+5. [axe-core](https://github.com/dequelabs/axe-core)
+6. [dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)
+7. [RyukGram](https://github.com/faroukbmiled/RyukGram)
+8. [zphisher](https://github.com/htr-tech/zphisher)
 
 ## JavaScript
 
