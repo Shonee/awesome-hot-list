@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-26 09:54:38
+> 更新时间：2026-11-26 18:30:18
 
 ## 每日趋势
 
@@ -115,6 +115,7 @@
 12. [kubescape](https://github.com/kubescape/kubescape)
 13. [compose](https://github.com/docker/compose)
 14. [trivy](https://github.com/aquasecurity/trivy)
+15. [workbuddy2api-panel](https://github.com/misakano7545/workbuddy2api-panel)
 
 ## HTML
 

@@ -1,21 +1,21 @@
 # 游民星空热榜
 
-> 更新时间：2026-11-26 09:55:10
+> 更新时间：2026-11-26 18:31:11
 
 ## 热点资讯排行
 
 1. [《GTA6》女主BUG曝光 特殊触发方法公开](https://www.gamersky.com/news/202611/2250846.shtml)
 2. [肥美！《GTA6》女主最胖体型迷晕玩家：就好这口](https://www.gamersky.com/news/202611/2250916.shtml)
-3. [日版《GTA6》女主服装惨遭和谐 但意外更刺激](https://www.gamersky.com/news/202611/2251164.shtml)
-4. [《GTA6》删除了多项内容!主角纯洁感情不容践踏](https://www.gamersky.com/news/202611/2252382.shtml)
+3. [《GTA6》删除了多项内容!主角纯洁感情不容践踏](https://www.gamersky.com/news/202611/2252382.shtml)
+4. [日版《GTA6》女主服装惨遭和谐 但意外更刺激](https://www.gamersky.com/news/202611/2251164.shtml)
 5. [黄仁勋离任后首张旗舰显卡！RTX 6090发布时间爆料](https://www.gamersky.com/hardware/202611/2250821.shtml)
-6. [《GTA6》大葱哥PC移植版新进展：成功进入游戏](https://www.gamersky.com/news/202611/2251677.shtml)
-7. [《GTA6》玩家抢劫珠宝店偶遇极品美女NPC](https://www.gamersky.com/news/202611/2251165.shtml)
-8. [《GTA6》宣传的天气系统去哪了？20小时没见一滴雨](https://www.gamersky.com/news/202611/2250811.shtml)
-9. [《GTA6》完整本体文件惨遭葱哥提前放出！PC版真要来了？](https://www.gamersky.com/news/202611/2251659.shtml)
-10. [《GTA6》惨遭移植PC 目前帧数也仅30帧！加载世界50秒](https://www.gamersky.com/news/202611/2252814.shtml)
-11. [GTA6玩家想攻略美女却碰壁!榆木脑袋杰森只顾修水管](https://www.gamersky.com/news/202611/2249127.shtml)
-12. [R星全力封杀《GTA6》PC移植项目！视频都不让传播](https://www.gamersky.com/news/202611/2253066.shtml)
-13. [《GTA6》大尺度截图别乱发！玩家被封30天](https://www.gamersky.com/news/202611/2250782.shtml)
-14. [《GTA6》发售后首个补丁来了！今天推送](https://www.gamersky.com/news/202611/2251588.shtml)
-15. [甲亢哥52小时不睡通关《GTA6》累垮了！补觉20h都没用](https://www.gamersky.com/news/202611/2251223.shtml)
+6. [R星全力封杀《GTA6》PC移植项目！视频都不让传播](https://www.gamersky.com/news/202611/2253066.shtml)
+7. [《GTA6》大葱哥PC移植版新进展：成功进入游戏](https://www.gamersky.com/news/202611/2251677.shtml)
+8. [《GTA6》玩家抢劫珠宝店偶遇极品美女NPC](https://www.gamersky.com/news/202611/2251165.shtml)
+9. [《GTA6》宣传的天气系统去哪了？20小时没见一滴雨](https://www.gamersky.com/news/202611/2250811.shtml)
+10. [《GTA6》完整本体文件惨遭葱哥提前放出！PC版真要来了？](https://www.gamersky.com/news/202611/2251659.shtml)
+11. [《GTA6》惨遭移植PC 目前帧数也仅30帧！加载世界50秒](https://www.gamersky.com/news/202611/2252814.shtml)
+12. [GTA6玩家想攻略美女却碰壁!榆木脑袋杰森只顾修水管](https://www.gamersky.com/news/202611/2249127.shtml)
+13. [GTA6光速修复露西娅上身BUG](https://www.gamersky.com/news/202611/2253369.shtml)
+14. [《GTA6》大尺度截图别乱发！玩家被封30天](https://www.gamersky.com/news/202611/2250782.shtml)
+15. [《GTA6》大热PC项目宣布关停！主创仅15岁 R星亲自下场](https://www.gamersky.com/news/202611/2252159.shtml)
