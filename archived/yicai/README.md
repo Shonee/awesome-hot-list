@@ -1,11 +1,11 @@
 # 第一财经热榜
 
-> 更新时间：2026-11-26 18:31:14
+> 更新时间：2026-11-27 03:49:33
 
 ## 首页头条
 
-1. [美联储重磅！最青睐通胀指标超预期，12月加息概率升高](https://www.yicai.com/news/103454523.html)
-2. [资金避风港！11月大涨超14%，印度股市缘何领跑全球](https://www.yicai.com/news/103454524.html)
-3. [SpaceX获首张“太空数据中心许可证”，马斯克太空算力愿景更近了](https://www.yicai.com/news/103455087.html)
-4. [城投“退平台”倒计时七个月：隐性债务化解接近尾声](https://www.yicai.com/news/103454353.html)
-5. [6G商用还有四年，标准、技术与商业模式如何破局？](https://www.yicai.com/news/103454113.html)
+1. [消费进入“务实周期”，企业不再靠降价寻增量](https://www.yicai.com/news/103456054.html)
+2. [从高层换血到员工降薪：宗馥莉接手娃哈哈后，一场未完成的组织重构](https://www.yicai.com/news/103455702.html)
+3. [前10月广义财政支出近30万亿，后续如何发力](https://www.yicai.com/news/103455882.html)
+4. [抽成降了、超时免罚了、判责有人管了：18家企业完成平台劳动规则和算法协商](https://www.yicai.com/news/103456088.html)
+5. [新一代通信网建设方案出炉，6G建设又有新部署](https://www.yicai.com/news/103455943.html)

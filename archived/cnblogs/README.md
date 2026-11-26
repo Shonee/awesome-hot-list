@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-26 18:30:23
+> 更新时间：2026-11-27 03:47:30
 
 ## 最新帖子
 
-1. [【ASP.NET Core】Blazor 是怎么跑起来的](https://www.cnblogs.com/tcjiaan/p/23745098)
-2. [标题全变成一级？靠编号规律找回章节边界](https://www.cnblogs.com/yellow3gold/p/23792973)
-3. [多模态文档检索中的 Late Interaction 模型：原理、评测与 OpenSearch 实践](https://www.cnblogs.com/zackstang/p/23791268)
-4. [从“反复追问”到“主动推送”：WebSocket 实时通道详解和 C# 代码示例](https://www.cnblogs.com/hnzhengfy/p/23672963/WebSocket)
-5. [openGauss 的 PITR（Point-In-Time Recovery，时间点恢复）](https://www.cnblogs.com/liuziyi1/p/23791288)
-6. [24. ArkTS while循环实战，while、do-while一看就懂](https://www.cnblogs.com/halfcode/p/23789431)
-7. [春节流量洪峰下的运维组织战：SRE 团队的春节保障实录](https://www.cnblogs.com/vivotech/p/23787777)
-8. [给自己的静态站加上视频板块：上传、存储、播放与播放量一条链](https://www.cnblogs.com/chaogex/p/23787625)
-9. [Redis 核心机制 | Pipeline 与 Batch：降低网络 RTT](https://www.cnblogs.com/hugogoos/p/23773378)
-10. [Polhem.Markdown：Avalonia 与 Blazor 的 Markdown 查看器与编辑器](https://www.cnblogs.com/jeff-tsai/p/23786704/polhem-markdown)
-11. [如何设计一套秒杀系统？](https://www.cnblogs.com/codigger/p/23786652)
-12. [安卓点击器的定位方式之争：坐标、图像与控件树](https://www.cnblogs.com/xiaomikk/p/23758951)
-13. [Transformer 面试与 Java 落地：吃透 Self-Attention，从 QKV 公式到 KV Cache](https://www.cnblogs.com/zrui-xyu/p/23786473)
-14. [鸿蒙 Web 播放器断流不报错：黑屏提示从 70 秒优化到 2 秒](https://www.cnblogs.com/xyyt/p/23779058/harmonyos-arkweb-video-stream-down-black-screen-mask)
-15. [JSAPI 4.0 的命名空间：BMap 和 BMapGL 为什么都能用](https://www.cnblogs.com/map-3d-vis/p/23786213)
-16. [无刷电机是什么：和有刷、步进差在哪？六步、正弦与 FOC 怎么分层，KV、Kt、霍尔、编码器与无感驱动怎么选，云台为什么适合直驱](https://www.cnblogs.com/zw-awa/p/23786142)
-17. [案例Calico tunl0 被神秘力量按下：一次 K8s 跨节点网络故障的真实排障记录](https://www.cnblogs.com/honglicheng/p/23786111)
-18. [看得见账单，看不见用法：AIControl 的设计理念与架构](https://www.cnblogs.com/donpangpang/p/23784875)
-19. [新手勇闯网络安全 | SQL注入（一）](https://www.cnblogs.com/MuFeng-000/p/23783450)
-20. [别让 AI 每十分钟打断你一次](https://www.cnblogs.com/learnhow/p/23783409)
+1. [纯 Go 手搓 L3/L4 防火墙：从日志双写导致服务器假死，到一键 nftables 内核真实丢包](https://www.cnblogs.com/anye1991/p/23797158)
+2. [16G 内存不够用之后，我把旧安卓手机接进了 k3s 集群](https://www.cnblogs.com/shih945/p/23795368)
+3. [从第一场会到下班，试试 Tick Rest 的 Mac 休息提醒](https://www.cnblogs.com/myvin/p/23783488)
+4. [【轻量化复刻大模型 / KIMI K3】K3 并行机制交互式演示](https://www.cnblogs.com/rossiXYZ/p/23672351)
+5. [DGX Spark 首启翻车实录（二）八台机器卡在开机这一步](https://www.cnblogs.com/kexxxfeng/p/23794471)
+6. [智能体写代码的时代，C# 15 给出了一个不太一样的答案](https://www.cnblogs.com/shanyou/p/23794454)
+7. [AScript正式推出Template模板引擎](https://www.cnblogs.com/rockey627/p/23794430)
+8. [人机通信协议的不对等性：为什么聊天框承载不了复杂的 AI 工程](https://www.cnblogs.com/learnhow/p/23794411)
+9. [【Azure App Service】.NET Framework 4.8 的 Web Forms 部署到Azure应用服务后 Request.QueryString["Title"]`读取中文出现乱码](https://www.cnblogs.com/lulight/p/23794316)
+10. [【ASP.NET Core】Blazor 是怎么跑起来的](https://www.cnblogs.com/tcjiaan/p/23745098)
+11. [标题全变成一级？靠编号规律找回章节边界](https://www.cnblogs.com/yellow3gold/p/23792973)
+12. [多模态文档检索中的 Late Interaction 模型：原理、评测与 OpenSearch 实践](https://www.cnblogs.com/zackstang/p/23791268)
+13. [从“反复追问”到“主动推送”：WebSocket 实时通道详解和 C# 代码示例](https://www.cnblogs.com/hnzhengfy/p/23672963/WebSocket)
+14. [openGauss 的 PITR（Point-In-Time Recovery，时间点恢复）](https://www.cnblogs.com/liuziyi1/p/23791288)
+15. [24. ArkTS while循环实战，while、do-while一看就懂](https://www.cnblogs.com/halfcode/p/23789431)
+16. [春节流量洪峰下的运维组织战：SRE 团队的春节保障实录](https://www.cnblogs.com/vivotech/p/23787777)
+17. [给自己的静态站加上视频板块：上传、存储、播放与播放量一条链](https://www.cnblogs.com/chaogex/p/23787625)
+18. [Redis 核心机制 | Pipeline 与 Batch：降低网络 RTT](https://www.cnblogs.com/hugogoos/p/23773378)
+19. [Polhem.Markdown：Avalonia 与 Blazor 的 Markdown 查看器与编辑器](https://www.cnblogs.com/jeff-tsai/p/23786704/polhem-markdown)
+20. [如何设计一套秒杀系统？](https://www.cnblogs.com/codigger/p/23786652)
 
 ## 精华帖子
 
@@ -55,4 +55,4 @@
 3. [写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！](https://www.cnblogs.com/jinjiangongzuoshi/p/23774234)
 4. [订单超时自动关闭，7 种方案到底怎么选？](https://www.cnblogs.com/codigger/p/23774706)
 5. [在 Avalonia 12 上用纯 .NET 重写 Monaco 编辑器：TKCode.Arc CodeEditor / DiffEditor / LSP 深度架构与实战](https://www.cnblogs.com/token-ai/p/23780087)
-6. [【AI】一个优秀的AI框架设计](https://www.cnblogs.com/xuuold/p/23770554)
+6. [【黄啊码】大厂都在抢的 FDE，正在成为普通大学生弯道超车的新机会](https://www.cnblogs.com/huangama/p/23782635)

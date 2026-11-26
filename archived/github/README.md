@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-26 18:30:18
+> 更新时间：2026-11-27 03:47:25
 
 ## 每日趋势
 
@@ -35,8 +35,9 @@
 10. [astryx](https://github.com/meta/astryx)
 11. [HermesEnabler](https://github.com/pookjw/HermesEnabler)
 12. [sure](https://github.com/we-promise/sure)
-13. [univer](https://github.com/dream-num/univer)
-14. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+13. [obsidian-skills](https://github.com/obsidianmd/obsidian-skills)
+14. [univer](https://github.com/dream-num/univer)
+15. [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
 ## 每月趋势
 
@@ -63,23 +64,24 @@
 ## Java
 
 1. [jdk](https://github.com/openjdk/jdk)
-2. [JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-3. [selenium](https://github.com/SeleniumHQ/selenium)
-4. [FeurStagram](https://github.com/jean-voila/FeurStagram)
-5. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
-6. [starrocks](https://github.com/StarRocks/starrocks)
-7. [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-8. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-9. [keycloak](https://github.com/keycloak/keycloak)
-10. [nifi](https://github.com/apache/nifi)
-11. [light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
-12. [elasticsearch](https://github.com/elastic/elasticsearch)
-13. [termux-app](https://github.com/termux/termux-app)
-14. [zookeeper](https://github.com/apache/zookeeper)
-15. [LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
-16. [LSPosed](https://github.com/LSPosed/LSPosed)
-17. [iceberg](https://github.com/apache/iceberg)
-18. [openrocket](https://github.com/openrocket/openrocket)
+2. [morphe-patches](https://github.com/MorpheApp/morphe-patches)
+3. [JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
+4. [selenium](https://github.com/SeleniumHQ/selenium)
+5. [FeurStagram](https://github.com/jean-voila/FeurStagram)
+6. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
+7. [starrocks](https://github.com/StarRocks/starrocks)
+8. [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+9. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+10. [keycloak](https://github.com/keycloak/keycloak)
+11. [nifi](https://github.com/apache/nifi)
+12. [light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
+13. [elasticsearch](https://github.com/elastic/elasticsearch)
+14. [termux-app](https://github.com/termux/termux-app)
+15. [zookeeper](https://github.com/apache/zookeeper)
+16. [LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
+17. [LSPosed](https://github.com/LSPosed/LSPosed)
+18. [iceberg](https://github.com/apache/iceberg)
+19. [openrocket](https://github.com/openrocket/openrocket)
 
 ## Python
 
