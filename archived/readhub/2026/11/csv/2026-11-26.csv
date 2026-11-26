@@ -46,3 +46,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,AI 视听推理评测：答对未必真懂，证据定位成关键,研究人员选取三个主流视听推理测试集，分别只提供文字问题、只提供音频、只提供视频画面，结果在 WorldSense 中，14.4% 的题目仅看问题和选项就能答对，14.2% 仅听音频就能蒙对，15.7% 仅看画面就能猜中。标注团队由五位计算机和语言学背景的博士生组成，每道题会被随机分配给另外四位专家交叉审核，重点检查题目是否匹配预设能力、是否存在单模态或纯逻辑可解的漏洞、证据区间是否准确。另有 38.2% 的题目答案正确但证据定位没跟上，还有 5.8% 的题目证据定位精准却选错,,https://www.itbear.com.cn/html/2026-11/1596652.html,,Readhub,AI 资讯,ai,digest,,2026-11-26 02:07:20
 9,腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉,腾讯混元通过 AngelSlim 工具箱开源 Hy4 flash 的 GGUF 量化权重和推理代码 —— 原始权重约 410.27 GiB，最小量化版本只留约 30%。官方已在 RTX / DGX Spark、M5 Max Mac、64GB Mac mini 与 4090D 上跑通本地部署，后者靠优化后的 Strata offload 框架。官方就演示文稿、软件工程、自动化任务对比了量化前后：四项评测里 Q3_K 与原模型得分差均不超 0.4 分，DeepSWE v1.1 从,,https://www.aibase.com/zh/news/32527,,Readhub,AI 资讯,ai,digest,,2026-11-26 02:07:20
 10,亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座,亚马逊 Strands Agents 团队正式发布 Strands Decider v2 系列决策模型，为这一行业痼疾提供了一套极具诚意的开源解法。该系列模型基于谷歌 Gemma4 架构深度打造，包含从 E2B 到 31B 共 5 款不同规模的型号，并以宽松的 Apache-2.0 协议全面开源，权重已上架 Hugging Face，开发者可无缝接入本地部署与二次开发。亚马逊此次选择基于 Gemma4 打造并全面开源 Decider v2，释放了一个明确的信号：AI 基础设施,,https://www.aibase.com/zh/news/32524,,Readhub,AI 资讯,ai,digest,,2026-11-26 02:07:20
+1,黄仁勋称英伟达不需要制定接班人计划,,,https://readhub.cn/topic/8yKjX8c2qxk?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+2,Anthropic 与 OpenAI 同日公布 VP≠VNP 证明相关论文,,,https://readhub.cn/topic/8yKPVXiGDPu?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+3,苹果被曝内部跑通 iPad 版 macOS,,,https://readhub.cn/topic/8yLieBMvIlm?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+4,马斯克带两个儿子到访英伟达总部为黄仁勋复职捧场,,,https://readhub.cn/topic/8yLKM3X8Ebm?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+5,OpenAI 称 ChatGPT 对话错误率上升，影响多类套餐,,,https://readhub.cn/topic/8yLf8wGqDdC?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+6,可口可乐瓶身不再标生产日期 官方客服回应：合法合规,,,https://readhub.cn/topic/8yJaWvR5M15?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+7,知乎 15 亿间接投资 DeepSeek，周源称不牺牲核心业务,,,https://readhub.cn/topic/8yKnSY4Ts5u?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+8,DeepSeek 完成融资后，创始人梁文锋身家增至 550 亿美元,,,https://readhub.cn/topic/8yJgs0PMMeS?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+9,网传 Claude Opus 5.6 已灰度测试,,,https://readhub.cn/topic/8yJl8i87jjK?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+10,谷歌 Chrome 浏览器关闭后仍占用内存，元凶是 Gemini 相关功能,,,https://readhub.cn/topic/8yJxJbbhh8h?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+11,阿里 Qwen-VL 负责人白帅被指将离职，目前长期休假,,,https://readhub.cn/topic/8yKwAVun0KG?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+12,Anthropic 上市后跌破发行价 两创始人合计套现 5.6 亿美元,,,https://readhub.cn/topic/8yL0g75nHKy?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+13,Anthropic 上市表现疲软或打乱 OpenAI 上市计划,,,https://readhub.cn/topic/8yKUrn639hZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+14,Anthropic 上市不到一周跌破 IPO 发行价,,,https://readhub.cn/topic/8yK6wyVU35I?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+15,网易有道 AI 语音输入法「叭哥说」移动版上线 主打口语整理,,,https://readhub.cn/topic/8yKxTMF518P?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+16,华润新能源：拟 2026 年至 2028 年每年现金分红不低于净利润 35%,,,https://readhub.cn/topic/8yLXwzkv210?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+17,魏建军自曝压力很大，长城汽车从自主品牌销量第一滑落到第九,,,https://readhub.cn/topic/8yJWqwG79wz?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+18,斗鱼及其创始人陈少杰被执行 1.9 亿余元,,,https://readhub.cn/topic/8yLFQ2Y3QyZ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+19,OpenAI 发布会上的华人研究员王若宸已回国，曾参与多款核心产品研发,,,https://readhub.cn/topic/8yKUrtaYM96?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+20,小鹏 Robotaxi 开启主驾无人载客体验，已获批 L4 级示范运营资质,,,https://readhub.cn/topic/8yKpFv3nE9T?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+21,红果短剧上线时间锁 超时需四位密码继续观看,,,https://readhub.cn/topic/8yKnS3lew8n?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+22,AI 教父杨立昆怒怼 Anthropic CEO：炒作 AI 危险论 只是让自己掌握控制权,,,https://readhub.cn/topic/8yKtAsJynCo?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+23,《GTA 6》上线后有主播称 PS5 损毁 原因暂未明确,,,https://readhub.cn/topic/8yLEcD0XLIA?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+24,两家 AI 企业同日声称证明代数复杂度猜想 VP≠VNP,,,https://readhub.cn/topic/8yLCTURfeIL?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+25,Seedance 2.5 迎来强敌：MAGI-2 登顶图生视频榜，1080P 每秒仅 0.5 元,,,https://readhub.cn/topic/8yLJdTniHQX?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+26,Boss 直聘第三季度总营收 24.2 亿元 符合预期,,,https://readhub.cn/topic/8yLVSSaIx9m?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+27,千问 Go 开放免费代打电话服务，支持订餐厅、找快递、寻失物,,,https://readhub.cn/topic/8yKtwIdJeA4?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+28,华为更新 5A 通信技术支持机型 新增 Mate 90 Air 等,,,https://readhub.cn/topic/8yLaQjlEozy?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+29,报道：英伟达芯片卖家寻找新买家 数千颗 B300 GPU 寻求转售,,,https://readhub.cn/topic/8yLxcfNLucd?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+30,宁德时代：斥资约 9999.7 万元回购 47.44 万股 A 股,,,https://readhub.cn/topic/8yLXtxh6A0S?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-26 09:55:00
+1,2026.11.25 13 条,,,https://readhub.cn/daily/2026-11-25,,Readhub,每日早报,daily,digest,2026-11-25,2026-11-26 09:55:00
+2,2026.11.24 11 条,,,https://readhub.cn/daily/2026-11-24,,Readhub,每日早报,daily,digest,2026-11-24,2026-11-26 09:55:00
+3,2026.11.23 13 条,,,https://readhub.cn/daily/2026-11-23,,Readhub,每日早报,daily,digest,2026-11-23,2026-11-26 09:55:00
+4,2026.11.22 14 条,,,https://readhub.cn/daily/2026-11-22,,Readhub,每日早报,daily,digest,2026-11-22,2026-11-26 09:55:00
+5,2026.11.21 15 条,,,https://readhub.cn/daily/2026-11-21,,Readhub,每日早报,daily,digest,2026-11-21,2026-11-26 09:55:00
+6,2026.11.20 15 条,,,https://readhub.cn/daily/2026-11-20,,Readhub,每日早报,daily,digest,2026-11-20,2026-11-26 09:55:00
+7,2026.11.19 13 条,,,https://readhub.cn/daily/2026-11-19,,Readhub,每日早报,daily,digest,2026-11-19,2026-11-26 09:55:00
+1,OpenAI 启动 ChatGPT 聊天与工作模式整合，重度用户高级推理额度或受限,OpenAI 产品负责人 Thibault「Tibo」Sottiaux 在 X 平台宣布，正式向一小部分 ChatGPT Pro 会员推送统一的聊天（Chat）与工作（Work）体验更新，并计划于 12 月面向更广泛用户群体全面铺开。此次调整旨在将日常对话与复杂办公任务整合至单一界面，使用户无需切换标签页即可无缝流转任务，但同时也引发了部分订阅用户对高级推理模型使用受限的担忧。OpenAI 发言人向 TechCrunch 表示，绝大多数用户的重置频率不会受到影响，但少数高频调,,https://www.aibase.com/zh/news/32533,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+2,OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看,该功能实现了「零窥探」级别的数据隔离 —— 即便是 OpenAI 内部员工，也无法查看客户在使用私有推理时的数据内容。奥尔特曼将其定位为 OpenAI 私有智能服务（Private Intelligence）的一部分，表明 OpenAI 正在从通用 AI 服务向分层隐私架构演进 —— 免费用户、Plus 用户、企业用户和私有推理用户将处于不同的数据保护层级。私有推理的推出，可视为 OpenAI 在隐私信任重建上的关键一步 —— 通过技术手段而非政策承诺来证明数据隔离的有效性。,,https://www.aibase.com/zh/news/32535,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+3,AI 语音公司 ElevenLabs 初谈 2027 年融资，目标估值 330 亿美元,初创公司 ElevenLabs 已就新一轮融资展开初步洽谈，目标估值 330 亿美元，公司管理层计划 2027 年第一季度正式启动融资程序，而部分潜在投资者已经等不及，希望把节奏再往前提。这轮谈判的底气来自业绩曲线：今年 9 月公司估值还是 220 亿美元，如今拟定的目标直接高出 50%。这家公司由 Mati Staniszewski 和 Piotr Dabkowski 于 2022 年创立，靠高度逼真的 AI 合成语音和音频模型站稳市场，技术已铺进有声读物、游戏和企业客户服,,https://www.aibase.com/zh/news/32534,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+4,Where scientists draw the line on AI agents,"To better understand what that requires, we interviewed 17 scientists working in the natural, applied, and social sciences about the responsible development of AI agents. Another main finding suggests that scientists should help decide whic",,https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+5,黄仁勋的「光」：详解 AI 算力背后的光通信产业链、英伟达赌注与技术博弈,这是黄仁勋花了很多心思布局的方向，因为他急需解决一个棘手的问题：GPU 越来越多、算力越来越强，但连接这些 GPU 的网络，却正在成为整个 AI 系统的瓶颈。我们可以自己动手算一笔账：先看单卡，翻开英伟达官方规格表，从 2020 年的 A100 到 2024 年的 B200，同精度下单卡算力涨了大约 7 倍，而 NVLink 互连带宽从每秒 600GB 到 1.8TB，只涨了 3 倍，也就是说，算力跑得比带宽快一倍多。这 11 天中，有人因为黄仁勋的离去而对光通信更悲观，而在,,https://www.tmtpost.com/8217634.html,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+6,我国科学家在量子精密测量领域取得新突破,清华大学交叉信息研究院孙麓岩教授团队，联合中国科学技术大学、浙江大学团队，提出一种「Fock 空间量子共焦显微方案」。该方案借鉴光学共焦显微镜的原理，在 Fock 空间（即光子数空间）中构造了两个「透镜」，由此解决了一类大规模量子态的确定性制备和高效信息提取难题。研究人员在超导量子电路中制备出平均光子数高达 500 的 Fock 空间聚焦态，成功使测量精度较标准量子极限提升约 9 倍。 格隆汇 1 小时前,,https://www.gelonghui.com/live/2779665,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+7,FCC 批准 SpaceX 在太空部署 AI 数据中心，或多达 100 万颗卫星,当地时间周三，美国联邦通信委员会（FCC）向 SpaceX 发放有条件许可，批准其部署并运营由多达 100 万颗卫星组成的星座，以开展轨道数据中心业务。根据 FCC 的批准文件，该卫星网络被命名为 Starmind，计划部署在 500 公里至 1002 公里的轨道高度。FCC 的许可允许 SpaceX 在卫星主通信系统发生故障时，使用射频通信从地面维持联系并控制轨道数据中心。 手机中国 2 小时前,,https://ai.cnmo.com/news/823287.html,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+8,Counterpoint：华为 OSCAR 方案让无线频谱效率提升约 30%、能效提升 40%,华为推出 OSCAR（Optimal Solution with Cross-Domain Autoregression for Radio）新一代智能无线解决方案，该方案在无线物理层运行定制化高阶自回归模型，搭载于通用基带处理（UBBP）板卡上的异构计算加速器，并通过华为 SpiritPath 高速互联架构连接。Counterpoint 指出，在现场测试中，OSCAR 可实现约 30% 的频谱效率提升和 40% 的能效提升。OSCAR 使用自回归模型，从约 1 / 10 的,,https://www.ithome.com/1/032/532.htm,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+9,准确率从 4% 暴涨至 97% 谷歌 DeepMind 给 AI 装上「化学外挂」，解锁质谱分析技能,谷歌联合分析化学家推出面向 Google Antigravity 的 Mass Spec Skills，将 Gemini 推理与质谱工具结合，实现端到端质谱解析，轻量模型即可达到前沿模型约 97% 的分子识别准确率。 maomu.com 2 小时前,,https://www.ithome.com/1/032/535.htm,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
+10,METR 最新报告：AI 能力仍在指数级增长，但判断力仍不如人类,这份报告在 AI 社区引发了不小的震动，也让一些人担忧：刚刚完成一场轰动性 IPO 的 Anthropic，是否很快就会实现完全的「递归式自我改进」（recursive self-improvement）—— 在这一阶段，AI 系统能够完全自主地设计自己的下一代模型，而不再需要人类参与。其中一项任务要求模型设计新的 AI 评测项目，供 METR 在自身研究中使用，随后由 METR 的人类员工对这些评测方案进行打分。尽管目前最先进的模型在软件工程方面的能力已经超过了几乎所有人类,,https://www.mittrchina.com/news/detail/17292,,Readhub,AI 资讯,ai,digest,,2026-11-26 09:55:00
