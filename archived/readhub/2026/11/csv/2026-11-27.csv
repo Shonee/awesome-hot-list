@@ -46,3 +46,50 @@ index,title,desc,hot,url,image,source,type,ranking_id,surface,published_at,datet
 8,微信开源全模态视频模型 四档规格覆盖不同硬件,微信视觉团队将全模态视频理解模型 WeMM-Video 同步发布在 GitHub 与 Hugging Face 上，采用 Apache 2.0 协议，四种规模的权重、量化版本以及评测复现流程一并公开。目前大多数开源视频模型处理画面时相当于按下了静音键，它们把视频拆成一帧帧图像分别理解，音频通道形同虚设。想深挖训练细节的，可以关注其约 1.2 万亿多模态 token 的预训练，以及多教师 on-policy 蒸馏、抗重复 MrDPO 与专家强化学习组成的三阶段后训练配方，这部分,,https://www.itbear.com.cn/html/2026-11/1598817.html,,Readhub,AI 资讯,ai,digest,,2026-11-27 03:47:43
 9,点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭,德国勃兰登堡消费者保护中心已对 OpenAI 提起诉讼，矛头直指 ChatGPT 订阅服务「取消难」。该中心法律事务顾问 Dunja Neukamp 解释了问题所在：开通订阅非常简单，反过来取消就没那么容易 —— 用户必须通过最初开通订阅的平台来管理订阅，例如用电脑网页订阅，就无法用手机 App 取消。机构认为，OpenAI 没有为退订留出足够的透明度，这种做法不符合德国法律的要求 —— 在德国的消费者保护框架下，订阅类服务的退出路径本就不该比进入路径更费劲。 AIBase,,https://www.aibase.com/zh/news/32556,,Readhub,AI 资讯,ai,digest,,2026-11-27 03:47:43
 10,SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数,SemiAnalysis 11 月 25 日发布报告称，SpaceX 正下调 AI 算力租赁价格：面向小型集群的 Blackwell GPU 现货报价，从每 GPU 小时约 15.0 至 15.5 美元降到 10 至 12 美元，降幅约 20%~35%。报告称 Anthropic 可能不续约涉及约 5 万台 H200 GPU 的集群合同，其高管在与卖方分析师会面时曾表示，与 SpaceX 的计算协议不会延长到 2027 年第二季度之后。为防算力砸手里，SpaceX 还在给潜在,,https://www.aibase.com/zh/news/32553,,Readhub,AI 资讯,ai,digest,,2026-11-27 03:47:43
+1,前 OpenAI 华人研究员王若宸离职 被曝加盟腾讯混元,,,https://readhub.cn/topic/8yMd8LyjNCH?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+2,MiniMax 旗下 Talkie 因涉黄被苹果 App Store 下架,,,https://readhub.cn/topic/8yN281Bp33H?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+3,付鹏团队曾编制小红书指数 称其为市场反向指标,,,https://readhub.cn/topic/8yMfDcNX1NT?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+4,平头哥 IPO 之际，马云现身办公区,,,https://readhub.cn/topic/8yMvePRyItK?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+5,三只松鼠员工宿舍被曝环境脏乱差，公司致歉,,,https://readhub.cn/topic/8yN5JddAG82?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+6,腾讯被曝全公司推混元 HY4 模型 非技术岗外部模型额度将降,,,https://readhub.cn/topic/8yMtCRKgdte?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+7,爱奇艺：收到纳斯达克不合规通知，暂不停牌，180 日内整改,,,https://readhub.cn/topic/8yMILWcDl8B?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+8,Claude Code 三位前成员被曝陆续加盟 OpenAI,,,https://readhub.cn/topic/8yLaPRURnQb?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+9,阿里加码北美 AI 招聘：Qwen 团队今年已吸纳数百名 AI 人才,,,https://readhub.cn/topic/8yNJwhm4O2P?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+10,原京东副总裁蔡磊已进入渐冻症终末期,,,https://readhub.cn/topic/8yMMeEZKWfY?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+11,苹果拟调整 iOS 28 通知机制，营销推送或被单独归类,,,https://readhub.cn/topic/8yMNMSBjvaJ?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+12,字节小豆开启公测 推出 68 元 / 月起订阅方案,,,https://readhub.cn/topic/8yMVwsUidJv?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+13,王兴兴：OpenAI 并未放弃机器人而是技术收敛，物理 AI 底层没有跨不过的门槛,,,https://readhub.cn/topic/8yMn5E39RpK?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+14,英伟达芯片卖家争相寻找买家,,,https://readhub.cn/topic/8yLwYAHDdcX?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+15,王兴兴预测：5-10 年内中国机器人产量或超汽车，年产量超 2000 万台,,,https://readhub.cn/topic/8yMn5z5jrKO?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+16,SpaceX 星脑星座获 FCC 批准 拟部署最多百万颗算力卫星,,,https://readhub.cn/topic/8yMuM8Lvbzs?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+17,英伟达暂停向东南亚地区出货芯片,,,https://readhub.cn/topic/8yMleBPp3XS?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+18,三星电子重组存储芯片及系统半导体业务，以增强 AI 芯片市场竞争力,,,https://readhub.cn/topic/8yMvemJFTLY?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+19,自然指数：中国城市首次包揽全球科研城市前三,,,https://readhub.cn/topic/8yMZAW3TQAr?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+20,黄仁勋离职英伟达 11 天期间曾邀约他人骑摩托横穿美国,,,https://readhub.cn/topic/8yMgetGmIhw?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+21,比亚迪第三代唐 EV 正式上市，售价 18.79 万元起,,,https://readhub.cn/topic/8yMjsOVUL36?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+22,华为鸿蒙五大技术品牌揭晓 终端设备规模突破一亿,,,https://readhub.cn/topic/8yNb6ljoBZ4?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+23,传 OpenAI 与 Anthropic 或攻破 RSA 互联网加密存变革可能,,,https://readhub.cn/topic/8yNFfm7G33d?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+24,黎曼猜想证明代码被精简至 7.6 万行 缩减超 99%,,,https://readhub.cn/topic/8yMQvzv7j1M?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+25,淘宝成为韩国增速最快的电商平台，月活破百万,,,https://readhub.cn/topic/8yMoVQCOMwj?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+26,腾讯混元开源新一代草稿模型 DFly2 最高提速 4.2 倍,,,https://readhub.cn/topic/8yMs5OVXcjv?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+27,全球首个乙肝功能性治愈新药贝普若韦生中国获批,,,https://readhub.cn/topic/8yN5KRrJU9y?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+28,DeepSeek 灰度测试「消耗额度」：直观展示对话成本,,,https://readhub.cn/topic/8yO5UVwmPrE?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+29,OpenAI 修正计量错误 GPT-6.2 Astra 额度达上限速度提 40%,,,https://readhub.cn/topic/8yNSeGheS5z?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+30,40 亿参数小模型逼近 Astra，MIT 探索低成本 AI 芯片设计,,,https://readhub.cn/topic/8yN6NeKEQKn?tab=daily,,Readhub,24 小时热榜,hot,digest,,2026-11-27 10:40:56
+1,2026.11.26 14 条,,,https://readhub.cn/daily/2026-11-26,,Readhub,每日早报,daily,digest,2026-11-26,2026-11-27 10:40:56
+2,2026.11.25 13 条,,,https://readhub.cn/daily/2026-11-25,,Readhub,每日早报,daily,digest,2026-11-25,2026-11-27 10:40:56
+3,2026.11.24 11 条,,,https://readhub.cn/daily/2026-11-24,,Readhub,每日早报,daily,digest,2026-11-24,2026-11-27 10:40:56
+4,2026.11.23 13 条,,,https://readhub.cn/daily/2026-11-23,,Readhub,每日早报,daily,digest,2026-11-23,2026-11-27 10:40:56
+5,2026.11.22 14 条,,,https://readhub.cn/daily/2026-11-22,,Readhub,每日早报,daily,digest,2026-11-22,2026-11-27 10:40:56
+6,2026.11.21 15 条,,,https://readhub.cn/daily/2026-11-21,,Readhub,每日早报,daily,digest,2026-11-21,2026-11-27 10:40:56
+7,2026.11.20 15 条,,,https://readhub.cn/daily/2026-11-20,,Readhub,每日早报,daily,digest,2026-11-20,2026-11-27 10:40:56
+1,OpenAI 宣称证明矩阵乘法「最快极限」：最优算法指数恰为 9 / 4,OpenAI 11 月 24 日发布预印本，宣称已证明矩阵乘法指数 ω 恰好等于 9/4—— 今年 10 月它先证得 ω≤9/4，此次再证 ω≥9/4，上下界合拢，得出等号。矩阵乘法指数 ω 描述的是：当 n 足够大时，两个 n×n 矩阵相乘的最优算法所需算术运算次数随 n 增长的渐进幂指数。若 OpenAI 的证明无误，结论是双向的：对任意 X＞9/4，存在一种矩阵乘法算法及常数 CX＞0，使得对所有充分大的 n，其算术运算次数不超过 CX・n^X。 AIBase 41 分,,https://www.aibase.com/zh/news/32564,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+2,路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力,路透社母公司汤森路透将在今年年底推出新模型 Thomson 1.1，基座采用可下载、自行部署的开源模型 —— 中国智谱 AI 的 GLM 与 Google 的 Gemma。对汤森路透而言，用上 Google 模型算是一次转变：开发上一代自有模型 Thomson 1.0 时，它并未采用美国的 AI 模型，而是基于中国科技巨头阿里巴巴的千问打造了自己的聊天机器人。CTO 乔尔・赫伦解释了选型逻辑：公司至今仍在使用智谱的 GLM，因为它在计算机操作方面表现出色 —— 这正是 AI,,https://www.aibase.com/zh/news/32563,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+3,Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者,韩国公平交易委员会近日正式审查苹果，指控其在 iPhone 16 广告中误导消费者 —— 画面让人误以为 Genmoji、Image Playground 及 Siri 理解个人背景和屏幕内容等功能已可用，实际部分并未兑现。2025 年 4 月，美国国家广告部门问询后，苹果删除了 Apple Intelligence 页面「现已可用」的表述 —— 监管机构认为这暗示所有功能都已上线，分阶段推出的脚注也不够清晰，苹果不认同但遵照修改。2026 年 5 月，苹果又付 2.5 亿美,,https://www.aibase.com/zh/news/32561,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+4,AI 智能体发起网络攻击：瑞士五起攻击入侵电力、供水、通信系统，四起得手,瑞士联邦网络安全局（BACS）周四（11 月 26 日）通报，过去几天瑞士发生五起由 AI 智能体发起的网络攻击，目标直指企业和关键基础设施运营方。被攻击对象包括三家关键基础设施运营主体，据瑞士公共广播公司 SRF 介绍，分别是电力、供水和通信服务供应商 —— 这三类系统一旦中断，影响的是千家万户的日常运转。这份公告没有披露更多细节，但信号已经足够清晰：当 AI 智能体站到攻击者一侧，电力、供水这些「不能停」的系统，成了最新的检验场。 AIBase 1 小时前,,https://www.aibase.com/zh/news/32560,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+5,跟 AI 聊一句花多少钱？DeepSeek 灰度测试「消耗额度」，把账单摊在你面前,11 月 26 日起，部分用户反馈其网页端和 App 正在灰度测试「显示本轮消耗额度」功能：完成一轮对话后，界面弹出详情页，展示本次交互消耗的 Token 数与估算金额，价格与 API 持平。从用户截图看，额度按「空闲时段」价格估算，计费拆成三个维度：输入缓存命中部分单价 0.02 元 / 百万 tokens，本轮用量约 18.5 万，折合 0.0037 元。先把限额做了，再把账单亮出来，DeepSeek 这套组合拳，让「免费」的成本第一次变得可感知。 AIBase 1 小时,,https://www.aibase.com/zh/news/32557,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+6,消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因,育碧正大力推动生成式 AI 深度融入游戏开发流程 —— 团队提交新项目提案时，必须说明 AI 能够如何帮助开发。有匿名员工转述管理层的逻辑：AI 能提高小型、精简且灵活团队提交提案的速度，公司希望团队快速推进、反复迭代，及时砍掉不合适的项目，筛出真正有潜力的创意。一名员工形容，公司正陷入管理层自上而下推动的「AI 狂热噩梦」—— 内部士气本就不高，CEO Yves Guillemot 已把公司未来押在这项技术上，并要求其他员工跟随这一方向。 AIBase 1 小时前,,https://www.aibase.com/zh/news/32562,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+7,OpenAI 承认 GPT-6.2 计费算错：Astra 消耗快 40%、Sol 快 25%,OpenAI 紧急修复 GPT-6.2 上线初期的一项计费错误：此前大多数用户使用 GPT-6.2 Astra 和 Sol 时，套餐额度按折扣价计算，等于被悄悄打了折。OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux 表示，修复后完成相同工作量要花更多额度：与上周相比，Astra 用户触及上限加快 40%，Sol 加快 25%。作为补偿，Go、Plus、Pro 和 Business 套餐用户各获一次额度重置机会，重置额度可留存，不必到手,,https://www.aibase.com/zh/news/32559,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+8,Anthropic 面试不再考手写代码：AI 时代工程师价值改按「实际影响」称重,平台工程负责人凯特琳・莱斯透露，团队正试验新面试形式：除传统编程能力外，还要测候选人能否借编程智能体完成实际工作，如检查智能体写的代码、与其合作搭系统。调整源于一个尴尬发现：部分候选人其他环节优异，却倒在手写代码上。在莱斯看来，智能体加速开发后，工程师创造价值的方式正在改变：重点从编写代码转向「协调」—— 既要让团队成员与智能体有效配合，也要知道如何把一个想法转化为高质量的产品发布。 AIBase 1 小时前,,https://www.aibase.com/zh/news/32558,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+9,复旦肿瘤团队揭示最「毒」乳腺癌复发「密码」：藏在肿瘤「边界」上,复旦大学附属肿瘤医院乳腺肿瘤中心团队探寻三阴性乳腺癌转移复发的「密码」，将目光投向肿瘤与正常组织交界的「浸润边界」—— 这既是肿瘤向外侵袭的前沿，也可能藏有决定肿瘤复发和治疗反应的关键信息。在前期研究基础上，研究团队进一步运用 AI 赋能病理诊断，实现了对不同三阴性乳腺癌病理切片中肿瘤边界的自动识别与精准分类，并据此鉴定出五种边界生态系统：肿瘤主导型、免疫浸润型、免疫-基质型、肿瘤-脂肪型和肿瘤-基质型。 澎湃新闻 54 分钟前,,https://m.thepaper.cn/newsDetail_forward_34571546,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56
+10,中国无人出租车的迪拜热战,在国内各跑各的 Robotaxi（无人出租车）公司，在迪拜挤进了同一个叫车软件的页面里，真刀真枪地抢用户订单。在运营渠道上，百度选择了「出租车公司 + Uber」的双轨制：3 月，迪拜出租车公司与百度宣布合作，通过萝卜快跑自有 APP 提供全无人商业载客服务。产业层面更大的一个问题是，如今中国 Robotaxi 在迪拜的订单都高度依赖 Uber，这样早期虽然可以提高匹配效率，但反过来，平台掌握派单权力，Robotaxi 就必然会失去很多主动权，出行平台垄断 + 运力高强度竞争,,https://www.tmtpost.com/8219718.html,,Readhub,AI 资讯,ai,digest,,2026-11-27 10:40:56

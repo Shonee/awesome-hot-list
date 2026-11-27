@@ -1,16 +1,16 @@
 # 雪球热榜
 
-> 更新时间：2026-11-27 03:49:37
+> 更新时间：2026-11-27 10:41:11
 
 ## 热门话题
 
-1. [摩根大通：2027沪深300望涨21%](https://xueqiu.com/hot_event/536178)
-2. [现货黄金向上触及3600美元，黄金股大涨](https://xueqiu.com/hot_event/536040)
-3. [冰雪产业概念活跃，雪人集团涨停](https://xueqiu.com/hot_event/536036)
-4. [化工板块异动拉升，泸天化涨停](https://xueqiu.com/hot_event/536019)
-5. [PCB概念震荡反弹，骏亚科技涨停](https://xueqiu.com/hot_event/536016)
-6. [FCC批SpaceX百万卫星建太空AI算力星座](https://xueqiu.com/hot_event/536001)
-7. [算力遇冷：Blackwell租金暴跌35%](https://xueqiu.com/hot_event/536000)
-8. [美国10月核心PCE增3.3%超预期：12月加息几成定局](https://xueqiu.com/hot_event/535947)
-9. [格力电器股东会通过中期利润分配预案](https://xueqiu.com/hot_event/535966)
-10. [商业零售股走强，国芳集团等多股涨停](https://xueqiu.com/hot_event/535754)
+1. [华为算力链反复走强，拓维信息二连板](https://xueqiu.com/hot_event/536319)
+2. [算力芯片概念延续强势，云天励飞领涨](https://xueqiu.com/hot_event/536314)
+3. [贵金属板块再走强，四川黄金领涨](https://xueqiu.com/hot_event/536040)
+4. [中国神华折价配售新H股募资67亿港元](https://xueqiu.com/hot_event/536277)
+5. [半导体设备板块拉升，强一股份大涨](https://xueqiu.com/hot_event/536334)
+6. [猪肉股展开调整，金新农跌停](https://xueqiu.com/hot_event/536324)
+7. [化工板块异动拉升，泸天化涨停](https://xueqiu.com/hot_event/536019)
+8. [PCB概念震荡反弹，骏亚科技涨停](https://xueqiu.com/hot_event/536016)
+9. [FCC批SpaceX百万卫星建太空AI算力星座](https://xueqiu.com/hot_event/536001)
+10. [算力遇冷：Blackwell租金暴跌35%](https://xueqiu.com/hot_event/536000)
