@@ -1,6 +1,6 @@
 # GitHub热榜
 
-> 更新时间：2026-11-27 19:48:24
+> 更新时间：2026-11-28 04:44:07
 
 ## 每日趋势
 
@@ -71,17 +71,16 @@
 6. [Telegram-X](https://github.com/TGX-Android/Telegram-X)
 7. [starrocks](https://github.com/StarRocks/starrocks)
 8. [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-9. [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-10. [keycloak](https://github.com/keycloak/keycloak)
-11. [nifi](https://github.com/apache/nifi)
-12. [light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
-13. [elasticsearch](https://github.com/elastic/elasticsearch)
-14. [termux-app](https://github.com/termux/termux-app)
-15. [zookeeper](https://github.com/apache/zookeeper)
-16. [LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
-17. [LSPosed](https://github.com/LSPosed/LSPosed)
-18. [iceberg](https://github.com/apache/iceberg)
-19. [openrocket](https://github.com/openrocket/openrocket)
+9. [keycloak](https://github.com/keycloak/keycloak)
+10. [nifi](https://github.com/apache/nifi)
+11. [light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
+12. [elasticsearch](https://github.com/elastic/elasticsearch)
+13. [termux-app](https://github.com/termux/termux-app)
+14. [zookeeper](https://github.com/apache/zookeeper)
+15. [LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
+16. [LSPosed](https://github.com/LSPosed/LSPosed)
+17. [iceberg](https://github.com/apache/iceberg)
+18. [openrocket](https://github.com/openrocket/openrocket)
 
 ## Python
 
