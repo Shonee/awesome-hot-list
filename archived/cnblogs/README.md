@@ -1,29 +1,29 @@
 # 博客园热榜
 
-> 更新时间：2026-11-28 04:44:12
+> 更新时间：2026-11-28 11:06:34
 
 ## 最新帖子
 
-1. [我改文件扩展名的时候那个警告弹窗再也不会弹出来了](https://www.cnblogs.com/LingChing/p/23807026)
-2. [Keepalived与Nginx架构选型](https://www.cnblogs.com/Johny-zhao/p/23806622)
-3. [手里捏着纸，谁来暂停视频？我把折纸老师塞进了 AI 眼镜](https://www.cnblogs.com/guoxiaoyu/p/23806428)
-4. [FOC 与 DTC：磁场定向控制与直接转矩控制的宏观印象](https://www.cnblogs.com/zw-awa/p/23804020)
-5. [一个不用注册方法的 JSON-RPC 包，怎么决定哪些方法能被调用？](https://www.cnblogs.com/jeff-tsai/p/23803249/polhem-jsonrpc)
-6. [不依赖 Spring，你会如何自实现 RabbitMQ 消息的消费（二）](https://www.cnblogs.com/youzhibing/p/23801837)
-7. [缓存命中率 99.96%，小文件数量减少 99.92%：启智机器人 JuiceFS 生产实践](https://www.cnblogs.com/JuiceData/p/23800843)
-8. [软考高级，系统架构设计师，备考复盘总结](https://www.cnblogs.com/lesliexin/p/23798449)
-9. [数据库高并发读写的实现方案--浅谈MVCC](https://www.cnblogs.com/jilodream/p/23800408)
-10. [Word 审阅辅助：Python 查找、高亮并替换指定文本](https://www.cnblogs.com/jazz-z/p/23800157)
-11. [一次审计问答后的恢复点复盘：全备在，WAL 断了](https://www.cnblogs.com/xiaoman618/p/23799760)
-12. [用 .NET 10 + Avalonia 12 + NativeAOT 打造跨端 AI 编码工作台：Octopus 架构解析与开源发布（替代 Orca & T3 Code）](https://www.cnblogs.com/token-ai/p/23799677)
-13. [【软考系统架构师】｜全架构风格汇总](https://www.cnblogs.com/sun-10387834/p/23799379)
-14. [一次兼容性评审笔记：语法、行为、性能、工具链](https://www.cnblogs.com/laowen312/p/23799386)
-15. [异步加载百度地图：callback、Promise 封装和 jsapi-loader（JSAPI 4.0）](https://www.cnblogs.com/map-3d-vis/p/23799076)
-16. [Redis 核心机制 | 客户端缓存（Client-side Caching）](https://www.cnblogs.com/hugogoos/p/23788502)
-17. [如何进行MySQL调优](https://www.cnblogs.com/codigger/p/23798543)
-18. [这款开源的AI浏览器自动化框架Stagehand，太强了！](https://www.cnblogs.com/jinjiangongzuoshi/p/23798330)
-19. [《HelloGitHub》第 128 期](https://www.cnblogs.com/xueweihan/p/23795301)
-20. [本地 HTTPS 证书从零搭建：Mac 生成、iPhone 信任一次讲清](https://www.cnblogs.com/jyzhao/p/23798031)
+1. [记录SQL Server 遭入侵：从 OPENROWSET 读文件到 xp_cmdshell，再到窃取云凭证](https://www.cnblogs.com/allen0118/p/23810243)
+2. [big.js库处理js精度丢失的问题，加法，乘法，除法，减法的使用](https://www.cnblogs.com/IwishIcould/p/23789037)
+3. [OAuth2 + OIDC 跨平台登录：一套 .NET 库接入各家账号](https://www.cnblogs.com/jeff-tsai/p/23810048/polhem-oauth2-oidc)
+4. [JSAPI 4.0 默认行为一览：滚轮缩放、默认视野、缩放范围和 addLayer](https://www.cnblogs.com/map-3d-vis/p/23809896)
+5. [Redis 核心机制 | Scan 安全遍历：替代 Keys 命令](https://www.cnblogs.com/hugogoos/p/23799459)
+6. [17 天，改名 3 次、停服 7 天：个人主体做小程序，红线都在这](https://www.cnblogs.com/shenchuanchao/p/23780278/individual-mini-program-red-lines-17-days-3-renames-7-days-suspension)
+7. [我改文件扩展名的时候那个警告弹窗再也不会弹出来了](https://www.cnblogs.com/LingChing/p/23807026)
+8. [Keepalived与Nginx架构选型](https://www.cnblogs.com/Johny-zhao/p/23806622)
+9. [手里捏着纸，谁来暂停视频？我把折纸老师塞进了 AI 眼镜](https://www.cnblogs.com/guoxiaoyu/p/23806428)
+10. [FOC 与 DTC：磁场定向控制与直接转矩控制的宏观印象](https://www.cnblogs.com/zw-awa/p/23804020)
+11. [一个不用注册方法的 JSON-RPC 包，怎么决定哪些方法能被调用？](https://www.cnblogs.com/jeff-tsai/p/23803249/polhem-jsonrpc)
+12. [不依赖 Spring，你会如何自实现 RabbitMQ 消息的消费（二）](https://www.cnblogs.com/youzhibing/p/23801837)
+13. [缓存命中率 99.96%，小文件数量减少 99.92%：启智机器人 JuiceFS 生产实践](https://www.cnblogs.com/JuiceData/p/23800843)
+14. [软考高级，系统架构设计师，备考复盘总结](https://www.cnblogs.com/lesliexin/p/23798449)
+15. [数据库高并发读写的实现方案--浅谈MVCC](https://www.cnblogs.com/jilodream/p/23800408)
+16. [Word 审阅辅助：Python 查找、高亮并替换指定文本](https://www.cnblogs.com/jazz-z/p/23800157)
+17. [一次审计问答后的恢复点复盘：全备在，WAL 断了](https://www.cnblogs.com/xiaoman618/p/23799760)
+18. [用 .NET 10 + Avalonia 12 + NativeAOT 打造跨端 AI 编码工作台：Octopus 架构解析与开源发布（替代 Orca & T3 Code）](https://www.cnblogs.com/token-ai/p/23799677)
+19. [【软考系统架构师】｜全架构风格汇总](https://www.cnblogs.com/sun-10387834/p/23799379)
+20. [一次兼容性评审笔记：语法、行为、性能、工具链](https://www.cnblogs.com/laowen312/p/23799386)
 
 ## 精华帖子
 
@@ -54,5 +54,5 @@
 2. [智能体写代码的时代，C# 15 给出了一个不太一样的答案](https://www.cnblogs.com/shanyou/p/23794454)
 3. [《HelloGitHub》第 128 期](https://www.cnblogs.com/xueweihan/p/23795301)
 4. [软考高级，系统架构设计师，备考复盘总结](https://www.cnblogs.com/lesliexin/p/23798449)
-5. [如何设计一套秒杀系统？](https://www.cnblogs.com/codigger/p/23786652)
-6. [用 .NET 10 + Avalonia 12 + NativeAOT 打造跨端 AI 编码工作台：Octopus 架构解析与开源发布（替代 Orca & T3 Code）](https://www.cnblogs.com/token-ai/p/23799677)
+5. [用 .NET 10 + Avalonia 12 + NativeAOT 打造跨端 AI 编码工作台：Octopus 架构解析与开源发布（替代 Orca & T3 Code）](https://www.cnblogs.com/token-ai/p/23799677)
+6. [Polhem.Markdown：Avalonia 与 Blazor 的 Markdown 查看器与编辑器](https://www.cnblogs.com/jeff-tsai/p/23786704/polhem-markdown)

@@ -1,26 +1,26 @@
 # 澎湃新闻热榜
 
-> 更新时间：2026-11-28 04:44:25
+> 更新时间：2026-11-28 11:06:54
 
 ## 热新闻
 
-1. [大学应有的模样｜大学，该让青年从容栖居](https://www.thepaper.cn/newsDetail_forward_34554351)
-2. [经纬度｜引资结构优化绝不等于 “外资跑路”](https://www.thepaper.cn/newsDetail_forward_34556525)
-3. [拜托，中国男篮别再给解说员出难题了](https://www.thepaper.cn/newsDetail_forward_34568938)
-4. [受贿5.87亿余元，广西自治区政府原主席蓝天立一审被判死缓](https://www.thepaper.cn/newsDetail_forward_34574989)
-5. [明查｜巴基斯坦航天员称将赴太空“证明地球是平的”？网传视频音轨造假](https://www.thepaper.cn/newsDetail_forward_34565138)
-6. [国家最高科学技术奖得主陈立泉光明日报头版撰文：国家需要什么，我就做什么](https://www.thepaper.cn/newsDetail_forward_34570807)
-7. [雅迪、台铃、爱玛、小牛等15家电动自行车企业被集中约谈](https://www.thepaper.cn/newsDetail_forward_34574923)
-8. [四川德阳一体校回应“教练当学生面连摔多部手机”：可能处理问题比较简单粗暴](https://www.thepaper.cn/newsDetail_forward_34572642)
-9. [初中生刺伤霸凌者羁押336天后被判正当防卫，检察院已张贴公告道歉](https://www.thepaper.cn/newsDetail_forward_34573017)
-10. [中国队晋级U17世界杯32强，队员：淘汰赛想碰世界强队](https://www.thepaper.cn/newsDetail_forward_34571174)
+1. [央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限](https://www.thepaper.cn/newsDetail_forward_34576324)
+2. [合力稳市！“国家队”护盘过程中各类机构均为净买入，股票型ETF十月以来净申购近8000亿](https://www.thepaper.cn/newsDetail_forward_34576889)
+3. [受贿5.87亿余元，广西自治区政府原主席蓝天立一审被判死缓](https://www.thepaper.cn/newsDetail_forward_34574989)
+4. [雅迪、台铃、爱玛、小牛等15家电动自行车企业被集中约谈](https://www.thepaper.cn/newsDetail_forward_34574923)
+5. [解读丨一个月两次定调资本市场！国常会首提“国家队”表述，释放哪些信号？](https://www.thepaper.cn/newsDetail_forward_34574976)
+6. [四川德阳一体校回应“教练当学生面连摔多部手机”：可能处理问题比较简单粗暴](https://www.thepaper.cn/newsDetail_forward_34572642)
+7. [日产汽车在华销量大减，计划首次将与中国合资生产汽车“反向进口”至日本销售](https://www.thepaper.cn/newsDetail_forward_34572966)
+8. [初中生刺伤霸凌者羁押336天后被判正当防卫，检察院已张贴公告道歉](https://www.thepaper.cn/newsDetail_forward_34573017)
+9. [暖侬心｜72岁老人跳下3米深河救起6岁幼童：这份善良不声张，也不算账](https://www.thepaper.cn/newsDetail_forward_34541801)
+10. [经济日报刊文：“399元羽绒服卖断货”是消费降级吗？](https://www.thepaper.cn/newsDetail_forward_34579821)
 11. [产业观察丨制造基地迈向产业高地：南昌针纺产业集群的破局攀登](https://www.thepaper.cn/newsDetail_forward_34562763)
-12. [【社论】利乐判赔4.92亿元，为垄断者戒](https://www.thepaper.cn/newsDetail_forward_34575097)
-13. [三线齐发！长三角高铁营业里程突破8500公里](https://www.thepaper.cn/newsDetail_forward_34571654)
+12. [先生偷偷提回的车，她开了两个月后又买了台同款](https://www.thepaper.cn/newsDetail_forward_34572322)
+13. [【社论】利乐判赔4.92亿元，为垄断者戒](https://www.thepaper.cn/newsDetail_forward_34575097)
 14. [证监会传达学习贯彻国常会精神：会同有关方面抓紧研究出台相关增量政策](https://www.thepaper.cn/newsDetail_forward_34576009)
 15. [大额存单迎新规：参与门槛降低，转让渠道进一步拓宽](https://www.thepaper.cn/newsDetail_forward_34575346)
-16. [国产大模型集体进军AI4S：年内融资突破200亿元，大模型从“会聊天”转向“做科研”？](https://www.thepaper.cn/newsDetail_forward_34547146)
-17. [冷门“顶流”｜“慢一点不可怕”，一位古典文献学家等的那声“巨响”](https://www.thepaper.cn/newsDetail_forward_34563404)
-18. [中国贸促会回应美方拟对中国等经济体加征关税：中国工商界坚决反对](https://www.thepaper.cn/newsDetail_forward_34574927)
-19. [美国感恩节强风暴来袭：暴雨、洪水、航班停飞，东海岸83万户家庭断电](https://www.thepaper.cn/newsDetail_forward_34571834)
+16. [新华社评国少队大胜出线：时隔21年，这痛快久违了！](https://www.thepaper.cn/newsDetail_forward_34576720)
+17. [湖北通城县博物馆疑存赝品、展品断代有误？官方回应：最终结论待省级专家核查确认](https://www.thepaper.cn/newsDetail_forward_34577506)
+18. [塞议会选举获胜团体公布总统选举候选人：化学教授拉多米尔·萨伊契奇](https://www.thepaper.cn/newsDetail_forward_34576803)
+19. [中国贸促会回应美方拟对中国等经济体加征关税：中国工商界坚决反对](https://www.thepaper.cn/newsDetail_forward_34574927)
 20. [李强主持召开国务院常务会议：加力发挥“国家队”稳市作用](https://www.thepaper.cn/newsDetail_forward_34572952)

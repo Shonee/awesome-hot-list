@@ -1,6 +1,6 @@
 # Hugging Face热榜
 
-> 更新时间：2026-11-28 04:45:14
+> 更新时间：2026-11-28 11:07:27
 
 ## Trending Models
 
@@ -13,14 +13,14 @@
 7. [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)
 8. [llamaindex/OCRia-nano-1](https://huggingface.co/llamaindex/OCRia-nano-1)
 9. [nvidia/Nemotron-Labs-Image-30B-A3B](https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B)
-10. [strata-engine/Inkling-2-Mini-Strata](https://huggingface.co/strata-engine/Inkling-2-Mini-Strata)
-11. [ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF)
+10. [ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF)
+11. [strata-engine/Inkling-2-Mini-Strata](https://huggingface.co/strata-engine/Inkling-2-Mini-Strata)
 12. [apple/DepthPro2](https://huggingface.co/apple/DepthPro2)
-13. [kandinskylab/Kandinsky-ImageSR-2.0](https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0)
-14. [Sentinel7/h3](https://huggingface.co/Sentinel7/h3)
-15. [baidu/ERNIE-5.5-Flash-Preview](https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview)
-16. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-17. [facebook/sam-3d-body-dinov3](https://huggingface.co/facebook/sam-3d-body-dinov3)
+13. [sand-ai/MAGI-2-preview](https://huggingface.co/sand-ai/MAGI-2-preview)
+14. [kandinskylab/Kandinsky-ImageSR-2.0](https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0)
+15. [Sentinel7/h3](https://huggingface.co/Sentinel7/h3)
+16. [baidu/ERNIE-5.5-Flash-Preview](https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview)
+17. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
 18. [inclusionAI/Ling-3.2-air](https://huggingface.co/inclusionAI/Ling-3.2-air)
 19. [Lakonik/pi-H3](https://huggingface.co/Lakonik/pi-H3)
 20. [orcarouter/Inkling-2-Mini-abliterated-GGUF](https://huggingface.co/orcarouter/Inkling-2-Mini-abliterated-GGUF)

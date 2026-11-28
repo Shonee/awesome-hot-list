@@ -1,13 +1,13 @@
 # 游民星空热榜
 
-> 更新时间：2026-11-28 04:44:53
+> 更新时间：2026-11-28 11:07:02
 
 ## 热点资讯排行
 
 1. [《GTA6》删除了多项内容!主角纯洁感情不容践踏](https://www.gamersky.com/news/202611/2252382.shtml)
 2. [《GTA6》女主BUG曝光 特殊触发方法公开](https://www.gamersky.com/news/202611/2250846.shtml)
-3. [肥美！《GTA6》女主最胖体型迷晕玩家：就好这口](https://www.gamersky.com/news/202611/2250916.shtml)
-4. [《GTA6》PC移植首次突破60帧！进展神速太吓人](https://www.gamersky.com/news/202611/2254411.shtml)
+3. [《GTA6》PC移植首次突破60帧！进展神速太吓人](https://www.gamersky.com/news/202611/2254411.shtml)
+4. [肥美！《GTA6》女主最胖体型迷晕玩家：就好这口](https://www.gamersky.com/news/202611/2250916.shtml)
 5. [人间尤物！GTA6曼迪出手办](https://www.gamersky.com/news/202611/2253928.shtml)
 6. [《GTA6》PS5版惨被破解！无需升级 老系统就能玩](https://www.gamersky.com/news/202611/2253717.shtml)
 7. [日版《GTA6》女主服装惨遭和谐 但意外更刺激](https://www.gamersky.com/news/202611/2251164.shtml)
